@@ -1,0 +1,33 @@
+---
+aliases:
+  - mysticalability-resurge
+tags: []
+name:
+  full: Resurge
+  aliases:
+    - Resurge
+description: "Pours fresh energy into failing magical construct; restores framework."
+id: ALPuO9hw9OyF9i6o
+img: icons/circle.svg
+shortcode: resurge
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: kentra
+  assocMysteryCode: ""
+  levelBase: 4
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Resurge
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster lays hands upon a failing magical construct — a guttering ward, a dimming enchantment, a ritual circle whose inscriptions are fading — and pours fresh energy into its weakening framework. The infusion does not merely delay the inevitable collapse; it actively repairs the structural damage that accumulated use and the passage of time have inflicted, restoring the construct to something approaching its original potency.
+
+The skill lies in reading the construct's original architecture well enough to reinforce it sympathetically rather than crudely. A clumsy resurge can restore power while introducing distortions that cause the magic to behave unpredictably. The most elegant practitioners can resurge a construct so seamlessly that it becomes indistinguishable from freshly cast magic. Resurge cannot improve upon the original — it restores but does not enhance — and it cannot salvage a construct that has already fully collapsed.

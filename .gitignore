@@ -44,3 +44,6 @@ AI.md
 # Hidden files
 /nogit/
 *.wip
+
+# Symlinked into worktrees from the parent checkout.
+/node_modules

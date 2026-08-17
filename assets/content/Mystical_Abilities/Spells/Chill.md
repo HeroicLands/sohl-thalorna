@@ -1,0 +1,34 @@
+---
+aliases:
+  - Cooling
+  - mysticalability-chill
+tags: []
+name:
+  full: Chill
+  aliases:
+    - Cooling
+description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
+id: d1vIF9cm4oh89Llz
+img: icons/water.svg
+shortcode: chill
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: hydalis
+  assocMysteryCode: ""
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Cooling
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster draws warmth from the surrounding air, leaving a pocket of biting cold in its wake. Moisture condenses and frost crystals bloom across nearby surfaces as temperature plummets sharply within a small area. The effect is immediate and visceral — breath mists, exposed skin prickles, and unprotected liquids begin to thicken and slow.
+
+Chill serves equally well to preserve food on a long march, cool a feverish patient, or make a stone floor treacherously slick with condensation. Experienced practitioners learn to focus the cold with surgical precision, drawing heat from a single object or creature rather than wasting it across a broad area. The stolen warmth dissipates harmlessly into the caster's surroundings, leaving them untouched.

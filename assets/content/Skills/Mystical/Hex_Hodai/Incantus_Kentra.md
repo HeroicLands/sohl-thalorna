@@ -1,0 +1,27 @@
+---
+aliases:
+  - Incantus Kentra
+  - skill-kentra
+tags:
+  - hex-hodai
+type: skill
+package: thalorna
+id: SllRC1o8LkNhBYGQ
+img: images/affiliation/kentra.webp
+shortcode: kentra
+name:
+  full: Incantus Kentra
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@aur, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: aSvW7yJDk7r76eTo
+---
+
+See [[affiliation-kentra|Kentra]]

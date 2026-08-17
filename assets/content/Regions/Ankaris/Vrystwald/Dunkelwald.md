@@ -1,0 +1,37 @@
+---
+aliases:
+  - Dunkelwald
+  - doc-dunkelwald
+id: BvtBiuBimYBhWyf6
+type: doc
+category: settlement
+settlementType: "Deep Forest Settlement"
+population: null
+languages:
+  - varokhlngg
+pantheons:
+  - asguardian
+package: thalorna
+name:
+  full: Dunkelwald
+  aliases: []
+shortcode: dunkelwald
+parent:
+  polities:
+    - vrystwldtrbs
+folder: mCG1TPvjwrV23csZ
+---
+
+# Dunkelwald
+
+## Overview
+
+_To be written._
+
+## Notable Features
+
+_To be written._
+
+## Notable Figures
+
+_To be written._

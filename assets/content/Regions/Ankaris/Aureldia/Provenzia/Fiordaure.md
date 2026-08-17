@@ -1,0 +1,38 @@
+---
+aliases:
+  - Fiòrdaure
+  - Fiordaure
+  - doc-fiordaure
+id: lxDnKhmbJQmfcnlU
+type: doc
+category: settlement
+settlementType: "Coastal Town"
+population: null
+languages:
+  - provnzlngg
+pantheons:
+  - arldnpnthn
+package: thalorna
+name:
+  full: Fiòrdaure
+  aliases: []
+shortcode: fiordaure
+parent:
+  polities:
+    - kngdmprvnz
+folder: 2s244hfP0BpQi195
+---
+
+# Fiòrdaure
+
+## Overview
+
+_To be written._
+
+## Notable Features
+
+_To be written._
+
+## Notable Figures
+
+_To be written._

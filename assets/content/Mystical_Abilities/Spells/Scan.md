@@ -1,0 +1,34 @@
+---
+aliases:
+  - Survey
+  - mysticalability-scan
+tags: []
+name:
+  full: Scan
+  aliases:
+    - Survey
+description: "Searches nearby area; detects creatures and objects remotely."
+id: Bi3tN3MUKFrzzR3Y
+img: icons/circle.svg
+shortcode: scan
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: kentra
+  assocMysteryCode: ""
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Survey
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster closes their eyes and releases a pulse of awareness that radiates outward in all directions like a stone dropped into still water. This invisible wave passes through walls, earth, and living tissue alike, returning impressions of magical disturbances, hidden chambers, concealed creatures, and structural weaknesses within its radius. The information arrives not as sight but as a kind of spatial intuition — the caster simply knows what lies around them.
+
+The pulse reveals broad patterns rather than fine details: the presence of magic but not its precise nature, the location of a hidden door but not its mechanism. Skilled practitioners learn to interpret subtler returns — the difference between a warded door and a trapped one, or the residual traces of magic cast hours ago. Multiple rapid pulses can build a more detailed picture, though each draws upon the caster's reserves.

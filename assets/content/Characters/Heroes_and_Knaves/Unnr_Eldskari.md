@@ -1,0 +1,762 @@
+---
+aliases:
+  - Unnr Eldskari
+  - character-unreldskar
+tags:
+  - heroes-and-knaves
+name:
+  full: Unnr Eldskari
+  title: ""
+  given: Unnr
+  clan: Eldskari
+  home: Kvenndal
+  aliases: []
+id: aedUEUFwI1ZeDk46
+folder: Ka9XqaF27b0I3Gmq
+shortcode: unreldskar
+img: icons/person.svg
+portrait: images/being/unreldskar-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: kngdmvthgrd
+  region: nrdlndsrgn
+social:
+  occupation: Chandler
+  station: tradesfolk
+  class: guilded
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: female
+  age: 29
+  birthday: 691/3/6
+  height:
+    m: 1.6
+  weight:
+    kg: 55.8
+  build:
+    frame: light
+  appearance:
+    eye_color: green
+    hair_color: dark_brown
+    skin_color: pale
+    complexion: fair
+    extra_features: []
+sohl:
+  attributes:
+    str: 8
+    end: 11
+    dex: 15
+    agl: 13
+    per: 12
+    cml: 13
+    aur: 12
+    wil: 11
+    rea: 12
+    cre: 16
+    emp: 14
+    elo: 14
+    mor: 13
+    voi: 14
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 123
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: freyr
+      type: affiliation
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: mrcn
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: script
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: anmcft
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: fish
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: herb
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: mnrl
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: acro
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: lock
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: mtlc
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: mill
+      type: skill
+      system:
+        masteryLevelBase: 10
+    - shortcode: WShirt
+      type: armorgear
+    - shortcode: WBrch
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - shortcode: WClk
+      type: armorgear
+    - shortcode: WCap
+      type: armorgear
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: StdRtns
+      type: miscgear
+      system:
+        quantity: 2
+    - type: miscgear
+      name: Candle-making molds and carving tools
+      system:
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Scented herbs and wax preparations
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Whetstone
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: bktlrg
+      type: containergear
+    - shortcode: bpchlg
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, high cheeks.
+
+# Dossier {#dossier}
+
+### The Artisan's Awakening
+
+Born in 691 to a modest family in Vithgard's timber country, Unnr grew up surrounded by the materials of her craft—wax was a natural product in her region, and her mother maintained a small chandlery as a supplementary trade. From childhood, Unnr displayed unusual sensitivity to aesthetics and an intuitive grasp of how light and color interact. While her family assumed she would follow traditional paths—perhaps marrying a tradesman or apprenticing in a standard craft—Unnr became increasingly obsessed with the artistic possibilities of chandlery. She spent her early twenties working in her mother's chandlery while secretly studying the finer points of perfumery, herbal infusion, and decorative wax sculpture.
+
+### The Venture into Independence
+
+Three years ago, following her mother's retirement, Unnr took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with genuine artistic merit—candles with embedded botanical elements, sophisticated color gradations achieved through careful wax layering, and scent profiles that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
+
+### The Current Struggle
+
+Yet artistic success has not translated to business success. Unnr struggles with the mundane yet crucial aspects of commerce—she underprices her work, uncertain of true value; she overshoots production runs and wastes materials; she struggles to maintain relationships with suppliers and has difficulty collecting payment from clients. The arrival of more experienced, less scrupulous competitors has begun to threaten her modest commercial foundation. She is at a crossroads between genuine artistic achievement and commercial viability, uncertain whether pursuing her craft in a way that honors her artistic vision will allow her enterprise to survive.
+
+## Psyche
+
+### Personality
+
+Unnr is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with genuine passion. Yet in commercial or social settings, she becomes withdrawn, uncertain, and awkwardly quiet. She possesses genuine modesty about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
+
+Her spiritual commitment to Fréyr, god of fertility, growth, and natural abundance, is deeply genuine; she approaches her work as a form of spiritual practice, creating candles not merely for illumination but as offerings to divine principle and aids to others' spiritual wellbeing. This perspective, while beautiful, sometimes conflicts with practical business demands; she has been known to refuse commissions that she feels would betray the sacred character of her work.
+
+Unnr is both courageous and fearful—willing to take substantial professional risks in pursuit of artistic vision, yet terrified of business failure and judgment from established authorities. She experiences genuine anxiety in social situations, particularly with those of higher social station or greater confidence, yet shows remarkable boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into genuine intimacy discover unusual warmth and loyalty.
+
+### Motivation
+
+Unnr is driven by a need to create beauty and to contribute to others' spiritual and practical wellbeing through her craft. She wants to prove that art and utility can coexist, that something can be both functional and beautiful, both commercially viable and spiritually authentic. She is also motivated by a desire to honor her mother's legacy by transforming a simple family trade into something of genuine significance. Increasingly, she is driven by mounting anxiety—a fear that she will fail, lose everything, and be forced to concede that artistic ambition was a foolish indulgence. She is motivated too by a yearning for recognition and validation, wanting those around her to see her not merely as a pleasant young woman maintaining a modest craft, but as an artist of genuine significance and vision.
+
+### Strengths
+
+- **Aesthetic Vision**: Possesses an intuitive grasp of color, form, and spatial relationship that borders on the artistic genius; her candles are recognized as beautiful even by those with no particular interest in chandlery.
+
+- **Meticulous Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with consistency and quality control that are exemplary.
+
+- **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with genuine expertise; she can harvest, prepare, and combine scents to create sophisticated profiles that enhance both spirituality and function.
+
+- **Spiritual Authenticity**: Her commitment to Fréyr and to the sacred dimension of her work manifests in products that many report to have genuine spiritual efficacy; her candles are particularly sought for religious observances and rituals.
+
+- **Creative Problem-Solving**: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
+
+- **Willingness to Innovate**: Despite her reverence for tradition, she is not bound to conventional chandlery; she constantly experiments with new materials, techniques, and applications, introducing genuine novelty to an ancient craft.
+
+### Weaknesses
+
+- **Business Incompetence**: Lacks any formal training in commerce; she cannot properly estimate production costs, consistently underprices her work, struggles with record-keeping, and has difficulty managing cash flow.
+
+- **Social Anxiety**: Becomes withdrawn and inarticulate in commercial or social situations, particularly with authority figures or strangers; her inability to advocate effectively for herself undermines business success.
+
+- **Perfectionism Paralysis**: Her commitment to artistic integrity can prevent her from completing work or delivering on deadlines; she struggles with "good enough" and can become frozen deciding between marginally different options.
+
+- **Supplier Vulnerability**: Her limited business experience makes her vulnerable to exploitation by suppliers and competitors; she has been cheated, overcharged, and taken advantage of by those with greater commercial sophistication.
+
+- **Market Ignorance**: She has little understanding of her market, cannot identify pricing trends, fails to understand customer preferences clearly, and makes purchasing decisions based on artistic impulse rather than demand projections.
+
+- **Physical Frailty**: Despite her precision work, she lacks physical strength and stamina; extended labor causes fatigue, and she possesses no combat skill or defensive capability.
+
+## Social
+
+### Patrons
+
+- **Priestess Sigrid**: High priestess of Fréyr's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Unnr's work and has provided spiritual mentorship alongside commercial patronage.
+
+- **Master Craftsman Halvarr**: A respected woodworker and fellow member of the artisan community who has become something of informal business advisor; he provides practical guidance while genuinely respecting her artistic vision.
+
+- **The Widow Solveig**: An elderly woman of considerable means who has adopted Unnr as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Unnr's work to her social circle.
+
+- **Lord Brynjorn**: A minor nobleman who discovered Unnr's candles and has begun commissioning elaborate custom orders; his patronage provides crucial commercial stability and social validation.
+
+### Enemies
+
+- **Master Chandler Ragnar**: An established chandler of twenty years' standing who views Unnr's innovation and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
+
+- **The Guild of Established Crafts**: The formal guild, while not directly opposed to Unnr, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
+
+- **Merchant Aldred**: A supplier and commercial operator who sees Unnr's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
+
+### Affiliations
+
+- **The Artisan's Collective**: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Unnr is a recent and tentative member.
+
+- **Fréyr's Grove**: A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
+
+## Plot Hooks
+
+1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their payment method unconventional. As Unnr works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Unnr becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
+
+2. **The Corrupted Craft**: Unnr begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to supply issues, but deeper investigation suggests something more sinister: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Aldred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Ragnar, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Unnr must discover the culprit and determine whether the motivation is purely commercial rivalry or something darker.
+
+3. **The Unexpected Inheritance**: An elderly distant relative whom Unnr has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Unnr must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, holds mysterious previous tenant arrangements she must navigate, and is located in a commercial environment hostile to her artistic approach. The year-long commitment forces her to confront whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
+
+4. **The Temple's Desperate Request**: Priestess Sigrid approaches Unnr with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Sigrid believes that Unnr's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Unnr to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Unnr to forces and knowledge she does not fully understand, require her to operate at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.

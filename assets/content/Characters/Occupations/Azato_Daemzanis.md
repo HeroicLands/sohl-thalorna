@@ -1,0 +1,710 @@
+---
+aliases:
+  - Azatô Dâemzânis
+  - Azato Daemzanis
+  - character-azatodmzns
+tags: []
+name:
+  full: Azatô Dâemzânis
+  title: ""
+  given: Azatô
+  clan: Dâemzânis
+  home: Tyrellan
+  aliases:
+    - Oswin Crey
+id: oCLrZ3aWZkSBvrjn
+folder: UFBfgKZUF0bAE7gG
+shortcode: azatodmzns
+img: icons/person.svg
+draft: true
+portrait: images/being/azatodmzns-portrait.webp
+type: character
+package: thalorna
+social:
+  occupation: Alchemist
+  station: mages
+  class: guilded
+  society: Vylarian
+traits:
+  gender: male
+  age: 50
+  birthday: 670/5/25
+  height:
+    m: 1.63
+  weight:
+    kg: 51
+  build:
+    frame: medium
+  appearance:
+    eye_color: blue
+    hair_color: brown
+    skin_color: medium
+    complexion: weathered
+    extra_features: []
+gear:
+  weapons: []
+  armor:
+    - Padded robes
+  misc:
+    - Leather belt pouch for materials
+    - Laboratory notes
+    - rare mineral samples
+sohl:
+  attributes:
+    str: 7
+    end: 10
+    dex: 9
+    agl: 8
+    per: 12
+    cml: 9
+    aur: 15
+    wil: 13
+    rea: 17
+    cre: 14
+    emp: 8
+    elo: 13
+    mor: 11
+    voi: 13
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 112
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: menerva
+      type: affiliation
+    - shortcode: brew
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: embl
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: math
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: script
+      type: skill
+      system:
+        masteryLevelBase: 75
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 27
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: herb
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: mnrl
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: pilt
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 32
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 44
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 8
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 9
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 18
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: jewl
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: txtl
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: wood
+      type: skill
+      system:
+        masteryLevelBase: 8
+    - shortcode: alch
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: tlnt
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: common
+      type: skill
+      system:
+        masteryLevelBase: 15
+thalorna:
+  realm: vylarinmpr
+  region: vylariargn
+harnworld:
+  realm: Azeryàn
+  ritual: []
+---
+
+# Appearance {#appearance}
+
+At fifty, Azatô Dâemzânis cuts a sparse, scholarly figure — barely five and a half feet tall, with the lean, almost frail frame of a man whose life revolves around careful work at a workbench rather than physical toil. His medium-toned skin is weathered beyond his years, scored with fine lines that speak of decades spent poring over crystalline structures and volatile mixtures by candlelight. Most striking are his pale blue eyes, sharp and luminous with an intense, unsettling intellect; they hold the quality of a predator watching prey through glass, brilliant but profoundly dispassionate. His brown hair, once thick, has thinned to a crown of close-cropped curls swept back from a high, narrow forehead. A hawkish nose and thin, precise lips complete the picture of a man whose expressions rarely venture beyond measured restraint.
+
+# Dossier {#dossier}
+
+Azatô Dâemzânis was born into the Dâemzânis family in Tyrellan, one of Vylaria's merchant-patrician houses whose gilded status granted him access to the Panepistemium but little true power in the senatorial hierarchies that rule the realm. As a child showing precocious intellectual gifts—particularly in mathematics and the study of natural substances—he was marked for the Ordo Arcanis, as all gifted children are marked in Vylaria. However, his talent (score 42) suggested aptitude for something beyond the six magical schools: he possessed the rare insight of an alchemist, that peculiar blend of analytical precision, mineral knowledge, and herbal craft that places alchemists apart even within the Ordo's ranks. By his thirties, he had earned his Magistri rank within the Sodalitas Physéra—the fellowship of earth and substance—though his ascent was slower and more contentious than his intellectual gifts alone would suggest.
+
+His reputation rests on two remarkable abilities: a mastery of mineral transmutation that borders on the uncanny (mnrl:60), and an encyclopedic knowledge of herbal lore and funeral practices. The latter—his skill in embalming (30)—whispers of a deeper fascination with preservation, with stopping time itself, with understanding the boundary between living substance and inert matter. His discourse with colleagues is articulate and commanding (dscr:60, elo:13), yet those who know him recognize it as performance rather than genuine connection; his empathy sits at a disturbing low (8), leaving him capable of brilliant argument but incapable of authentic human warmth. This peculiarity earned him the alias "Oswin Crey," adopted quietly during a contentious period with the Quaesitorium—the Ordo's enforcement arm—roughly fifteen years ago. The nature of that conflict remains opaque, though it involved a fellow Magister named Quintus Aerius, whose theories Azatô publicly demolished as "fundamentally confused about the nature of mineral essence." Aerius died under circumstances never fully clarified; Azatô moved his primary laboratory operations to a rented estate on the outskirts of Tyrellan and has maintained the alias ever since.
+
+More peculiar still is his skill in piloting (30)—unusual for an alchemist rooted in the inland valleys of Vylaria. Ten years prior, a trading venture down the Veridian River to purchase rare crystalline samples required him to master navigation and river piloting. The experience left him with knowledge of currents, coastal landmarks, and maritime trade routes that remain curiously current in his memory.
+
+His moral compass wavers at the threshold of true conscience (mor:11), pulled between the ruthless pragmatism required by his investigations and an increasingly insubstantial commitment to principle. He has never crossed into the realm of the truly amoral, but the gap narrows with each year.
+
+## Psyche
+
+Azatô's inner landscape is one of towering intellect untethered from empathetic constraint. His mind—ranked among the brilliant (rea:17)—operates with the clarity of polished steel, analyzing problems down to their elemental components. His creativity (cre:14) manifests in unexpected leaps of insight, in novel approaches to transmutation that colleagues struggle to replicate. Yet this same mind is fundamentally isolated: his remote empathy (emp:8) means he experiences others largely as obstacles, instruments, or irrelevant background detail. He can articulate their motivations with precision; he simply does not feel them.
+
+This creates a peculiar dissonance in his social presentation. His eloquence and discourse (elo:13, dscr:60) allow him to project warmth, concern, even intimacy. But it is entirely constructed—a mask worn so consistently that even Azatô has begun to wonder, in rare quiet moments, whether anything beneath it remains. His will (wil:13) is resolute, driving him through long nights of experimentation, through professional setbacks, through the slow corrosion of aging. Yet that same will, untempered by genuine feeling, has begun to calcify into something approaching obsession.
+
+He tells himself his work matters. That the secrets hidden in mineral crystal structures, in the slow rot of buried matter, in the preservation of flesh beyond death, will ultimately vindicate the years of solitude and cold precision. Whether he truly believes this, or whether the belief itself is simply another elegant construct he maintains for his own reassurance, remains unanswered.
+
+## Social
+
+Within Vylarian society, Azatô occupies the privileged but constrained position of a guilded-class professional. His family name carries weight in Tyrellan's merchant councils, but true political power remains the province of the senatorial families above. Within the Ordo Arcanis and the Epistemium, he holds the rank of Magister in the Sodalitas Physéra, a position of considerable authority over junior alchemists and apprentices—though his authority is increasingly resented, as younger practitioners detect the coldness beneath his eloquence and bridle under his exacting, unsympathetic instruction.
+
+His use of the alias "Oswin Crey" in certain academic circles and with certain contacts has become almost routine. He maintains a carefully bifurcated existence: Azatô Dâemzânis conducts authorized research through Epistemium channels, while Oswin Crey pursues more delicate investigations that skirt the edges of what the Quaesitorium would officially sanction. This duality has become second nature, a compartmentalization as precise as any of his laboratory work.
+
+He maintains cordial but distant relations with the senatorial families whose patronage funds much alchemical research, including House Valerion, the dominant merchant-patron of the Epistemium's mineral research program.
+
+## Companions
+
+### Patrons and Allies
+
+**Senator Marcus Valerion** — The most influential of the three senior senators who govern Tyrellan, Valerion has become Azatô's primary patron over the past twelve years. Their relationship is transactional and carefully maintained: Valerion funds Azatô's mineral research with the expectation of first access to any compounds with potential military or industrial application. Azatô has learned to deliver results that satisfy this arrangement while keeping his most proprietary discoveries sequestered.
+
+**Brother Aurelius** — A Ménérvan priest of the Temple of Wisdom in Tyrellan, Aurelius serves as a confessor to several Epistemium scholars and has become one of the few people Azatô engages with something approaching candor. Their conversations occur monthly and ostensibly concern theological matters, but both understand that Aurelius functions as a necessary psychological anchor, preventing Azatô's detachment from slipping into complete pathology. Brother Aurelius harbors no illusions about his colleague's capacity for warmth; he simply views the work as maintaining a brilliant mind in sufficient equilibrium to continue contributing to human knowledge.
+
+**Lena Moretti** — A widowed merchant-widow of lower equestrian standing, Lena manages her late husband's trading operations and has contracted with Azatô for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Oswin Crey and believes him to be a scholar-merchant of independent means. Their professional relationship has remained stable precisely because no personal connection threatens it.
+
+### Enemies and Threats
+
+**Magistra Corinna Sextus** — A fellow Magister in the Sodalitas Physéra whose theoretical framework on mineral essences Azatô systematically disassembled in a published response thirteen years ago. Corinna has never forgiven him, and her influence within the Epistemium has grown considerably; she now chairs the Sodalitas examination board and has begun initiating subtle investigations into Azatô's unconventional methods. She suspects—correctly—that some of his research exists outside official Ordo sanction.
+
+**The Quaesitorium Inquiry** — A quiet, ongoing concern. Fifteen years ago, the death of Magister Quintus Aerius created an internal investigation that touched Azatô peripherally. The matter was officially closed, but file agents within the Quaesitorium maintain certain suspicions. These remain dormant—there is no proof, and Azatô has been scrupulously careful since—but the knowledge that those files exist, that they contain his name, has never truly left him.
+
+**Decurion Gavius Celsus** — A Quaesitorium field investigator with a reputation for dogged persistence. Celsus has recently taken interest in certain mineral thefts from Epistemium stores and the emergence of novel alchemical compounds in black-market channels. He has no direct evidence against Azatô, but their paths have begun to cross with uncomfortable frequency.
+
+## Plot Hooks
+
+**The Codex Problem** — A merchant ship carrying a rare alchemical codex from the coastal holdings was intercepted and its cargo scattered. Lena Moretti has contracted "Oswin Crey" to retrieve pages from a private collector in a neighboring realm without official sanction. The cost offered is extraordinary, but the retrieval would almost certainly trigger Quaesitorium scrutiny if discovered.
+
+**Quintus Redivivus** — An apprentice has discovered references in old Epistemium records to a secret project Azatô conducted with the late Magister Quintus Aerius before their public rupture. The apprentice, lacking context, asks innocent questions about the work. Azatô must decide whether to suppress the inquiry or allow a dormant chapter of his past to reopen.
+
+**The Transmutation of Iron** — Senator Valerion has learned rumors of Vylarian Steel's forging secrets and suspects they involve alchemical processing unknown to the Steel Houses. He has tasked Azatô with discovering these secrets through research, willing to fund any necessary expedition or investigation. The request is both an enormous opportunity and an invitation to espionage against Vylaria's most jealously guarded monopoly.
+
+**Brother Aurelius's Successor** — The aging priest has begun mentoring a young ecclesiast to eventually hear Azatô's monthly confessions. This replacement—idealistic, empathetic, and genuinely concerned with Azatô's spiritual welfare rather than his functional stability—poses an unexpected threat: the kind of authentic human connection Azatô has spent fifty years avoiding.
+
+**The Preservation Question** — Azatô's research into herbal preservatives and funeral embalming has attracted unexpected attention from the Ordo's mortality scholars and a shadowy faction within the Epistemium that studies the boundary between death and restoration. They have begun leaving anonymous inquiries asking whether he would be interested in a collaborative project of considerable scope and extraordinary risk.

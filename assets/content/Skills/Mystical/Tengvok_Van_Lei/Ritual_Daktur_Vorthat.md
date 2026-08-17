@@ -1,0 +1,29 @@
+---
+aliases:
+  - "Ritual: Dāktūr Vōrthāt"
+  - Dāktūr Vōrthāt
+  - Daktur Vorthat
+  - skill-daktrvrtht
+tags:
+  - celestial-pantheon
+  - faith-skill
+type: skill
+package: thalorna
+id: KGNBbd2wcsgUoxuh
+shortcode: daktrvrtht
+name:
+  full: "Ritual: Dāktūr Vōrthāt"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: NBtFDtltKzvNwsiN
+---
+
+See [[affiliation-daktrvrtht|Dāktūr Vōrthāt]]

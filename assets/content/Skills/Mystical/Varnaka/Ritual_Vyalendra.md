@@ -1,0 +1,30 @@
+---
+aliases:
+  - "Ritual: Vyālendra"
+  - Vyālendra
+  - Vyalendra
+  - The Shaper of Worlds
+  - skill-vyalendra
+tags:
+  - varnaka
+  - faith-skill
+type: skill
+package: thalorna
+id: 8s1B5qXRmm5ZKpPW
+shortcode: vyalendra
+name:
+  full: "Ritual: Vyālendra"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: n4PWls70WXc5KR8H
+---
+
+See [[affiliation-vyalendra|Vyālendra]]

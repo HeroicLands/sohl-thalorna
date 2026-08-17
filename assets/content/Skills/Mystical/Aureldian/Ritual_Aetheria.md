@@ -1,0 +1,31 @@
+---
+aliases:
+  - "Ritual: Æthería"
+  - Æthería
+  - Aetheria
+  - The Veiled Dreamer
+  - skill-aetheria
+tags:
+  - aureldian
+  - faith-skill
+type: skill
+package: thalorna
+id: oW0wvKd5yhEbUvId
+shortcode: aetheria
+img: images/affiliation/aetheria.webp
+name:
+  full: "Ritual: Æthería"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: iRIw6GzQvZ4UF0Lf
+---
+
+See [[affiliation-aetheria|Faith of Æthería]]

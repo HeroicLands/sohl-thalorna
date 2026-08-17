@@ -1,0 +1,34 @@
+---
+aliases:
+  - Sphere
+  - mysticalability-orb
+tags: []
+name:
+  full: Orb
+  aliases:
+    - Sphere
+description: "Sphere of magical energy floating and following caster."
+id: S0zg9Srqb4TPocD5
+img: icons/fire.svg
+shortcode: orb
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pyrethos
+  assocMysteryCode: ""
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Sphere
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster shapes a sphere of compressed flame between their hands and releases it. The orb rises to a commanded height and hovers there, casting warm orange-gold light across the surrounding area. It follows the caster's mental direction, drifting forward to illuminate passages, rising to light a high ceiling, or descending to reveal the contents of a deep pit. The light it produces is steady and reliable, brighter than a torch and free from the flickering that strains the eyes.
+
+The orb can be directed to strike a target with an expenditure of its remaining energy, impacting with a burst of heat and flame before extinguishing. This makes it both a practical light source and an emergency weapon, though using it offensively sacrifices the illumination it provides. Skilled practitioners can maintain multiple orbs simultaneously, filling a large space with warm, steady light or positioning them strategically to eliminate shadows.

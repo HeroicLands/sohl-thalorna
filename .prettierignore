@@ -1,0 +1,14 @@
+# Build output and vendored/lock files — not hand-edited.
+/build/
+/nogit/
+/lang/
+package-lock.json
+
+# Content notes are authored in an Obsidian vault and moved here byte-identical
+# (#1441). Prettier's defaults already match what Obsidian writes, so it has
+# nothing to do on all but a handful of hand-tidied Markdown tables — and
+# reformatting those would trade a verifiable "these files are exactly the
+# authored notes" for column padding. The tree's own README is ours, so it is
+# still formatted.
+assets/content/**/*.md
+!assets/content/README.md

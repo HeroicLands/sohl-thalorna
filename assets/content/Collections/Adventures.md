@@ -1,0 +1,27 @@
+---
+aliases:
+  - Adventures
+  - doc-adventures
+id: NBEJoUc4b4XcLsiI
+name:
+  full: Adventures
+  aliases: []
+type: doc
+category: collection
+package: thalorna
+shortcode: adventures
+section: adventure
+tags:
+description: Playable adventures and modules.
+banner: banners/adventure.webp
+---
+
+# Adventures
+
+Playable adventures and modules.
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE category = "adventure" and package = "thalorna"
+SORT name.full ASC
+```

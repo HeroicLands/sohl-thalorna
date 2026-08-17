@@ -1,0 +1,30 @@
+---
+aliases:
+  - "Ritual: Thanatos"
+  - Thánatos
+  - The Silent Judge
+  - skill-thanatos
+tags:
+  - aureldian
+  - faith-skill
+type: skill
+package: thalorna
+id: 7MPkk7GpOvOdS67r
+shortcode: thanatos
+img: images/affiliation/thanatos.webp
+name:
+  full: "Ritual: Thanatos"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: iRIw6GzQvZ4UF0Lf
+---
+
+See [[affiliation-thanatos|Faith of Thanatos]]

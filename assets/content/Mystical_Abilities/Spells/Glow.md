@@ -1,0 +1,34 @@
+---
+aliases:
+  - Lustre
+  - mysticalability-glow
+tags: []
+name:
+  full: Glow
+  aliases:
+    - Lustre
+description: "Radiates steady light from caster; illuminates surroundings without heat."
+id: VS4YEgUY0ptUQy6A
+img: icons/anvil.svg
+shortcode: glow
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: sideros
+  assocMysteryCode: ""
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Lustre
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster touches a metallic object and infuses it with a gentle luminescence, and the surface begins to emit a steady, warm light that reflects and amplifies through the metal's natural sheen. The glow transforms even a dull iron nail into something that catches the eye, but on polished silver or gold the effect is magnificent — the metal seems to burn with inner fire, casting clean, steady light equivalent to several good candles across the surrounding area.
+
+The illumination requires no fuel and produces no heat, making it safe to apply to worn jewelry, weapon hilts, or armor without risk of burns. The enchantment persists for hours, gradually dimming as the sustaining energy dissipates. Practitioners use Glow for everything from lighting a workspace to creating dramatic presentations of metalwork, marking paths through dark passages, or signaling allies with prearranged patterns of colored light.

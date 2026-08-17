@@ -15,21 +15,21 @@ import { copyFileSync, mkdirSync, readdirSync, statSync } from "fs";
 import { join, dirname } from "path";
 
 function copyFolder(src, dest) {
-    mkdirSync(dest, { recursive: true });
-    for (const file of readdirSync(src)) {
-        const srcPath = join(src, file);
-        const destPath = join(dest, file);
-        if (statSync(srcPath).isDirectory()) copyFolder(srcPath, destPath);
-        else {
-            mkdirSync(dirname(destPath), { recursive: true });
-            copyFileSync(srcPath, destPath);
-        }
+  mkdirSync(dest, { recursive: true });
+  for (const file of readdirSync(src)) {
+    const srcPath = join(src, file);
+    const destPath = join(dest, file);
+    if (statSync(srcPath).isDirectory()) copyFolder(srcPath, destPath);
+    else {
+      mkdirSync(dirname(destPath), { recursive: true });
+      copyFileSync(srcPath, destPath);
     }
+  }
 }
 
 function copyFile(src, dest) {
-    mkdirSync(dirname(dest), { recursive: true });
-    copyFileSync(src, dest);
+  mkdirSync(dirname(dest), { recursive: true });
+  copyFileSync(src, dest);
 }
 
 // Copy custom documentation markdown to doc directory

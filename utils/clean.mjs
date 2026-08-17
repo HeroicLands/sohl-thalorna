@@ -16,23 +16,23 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const repoRoot = path.resolve(
-    path.dirname(fileURLToPath(import.meta.url)),
-    "..",
+  path.dirname(fileURLToPath(import.meta.url)),
+  "..",
 );
 
 const dirs = ["build", ".vite", ".vitepress", ".rollup.cache"];
 
 // If "distclean" is passed as an argument, also remove node_modules
 if (process.argv.includes("--distclean")) {
-    dirs.push("node_modules");
+  dirs.push("node_modules");
 }
 
 for (const dir of dirs) {
-    const target = path.join(repoRoot, dir);
-    try {
-        fs.rmSync(target, { recursive: true, force: true });
-        console.log(`Removed ${dir}`);
-    } catch {
-        // Already gone — nothing to do
-    }
+  const target = path.join(repoRoot, dir);
+  try {
+    fs.rmSync(target, { recursive: true, force: true });
+    console.log(`Removed ${dir}`);
+  } catch {
+    // Already gone — nothing to do
+  }
 }

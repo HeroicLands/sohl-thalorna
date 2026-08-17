@@ -1,0 +1,28 @@
+---
+aliases:
+  - Tz'ikin
+  - doc-tzikin2
+id: QmitOkNvJ61JJiuO
+type: doc
+category: settlement
+settlementType: "City"
+population: null
+languages:
+  - kicheklngg
+pantheons:
+  - itzanpnthn
+package: thalorna
+name:
+  full: Tz'ikin
+  aliases: []
+shortcode: tzikin2
+parent:
+  polities:
+    - tzikin
+---
+
+# Tz'ikin
+
+## Overview
+
+_To be written._ Tz'ikin is the central city and seat of the [[doc-tzikin|Tz'ikin]] city-state.

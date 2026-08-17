@@ -1,0 +1,35 @@
+---
+aliases:
+  - "Scholar's Lantern"
+  - Erudition Elixir
+  - concoctiongear-ElxErd
+tags:
+  - elixir
+name:
+  full: "Scholar's Lantern"
+  aliases: []
+description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
+id: xk4TRkNFSve0i309
+img: icons/potion.svg
+shortcode: ElxErd
+type: concoctiongear
+package: thalorna
+hmk:
+  name: Erudition
+sohl:
+  quality: 0
+  durability: 5
+  value: 0
+  weight: 0.25
+  subType: "elixir"
+  potency: "na"
+  strength: 0
+  archetype: null
+folder: zjH2UVFqfHp20lIq
+---
+
+A luminous golden elixir that tastes of honey and old parchment, infused with the Principle of Knowledge (Pneuménos). When drunk, the imbiber's mind sharpens and clarifies. Their thoughts accelerate and connect with preternatural clarity, allowing them to grasp esoteric truths and penetrate knotted arguments. Successful tests in Lore Group skills, Reasoning, and Creativity are automatically treated as Critical Successes—the very die roll becomes blessed, the units place determined as if fortune itself smiled upon wisdom.
+
+This gift exacts a spiritual toll: the imbiber suffers Aural Shock 1, a small but measurable drain on their arcane reserves. The effect is instantaneous and remains for the duration of the test or the immediate moment of insight, fading as quickly as it arrived.
+
+Scholars, magistrates, and those faced with riddles or complex negotiations swear by Erudition. Temple libraries keep small stocks for visiting scholars preparing treatises, and adventurers have been known to drink it before attempting to recall crucial lore in the heat of danger.

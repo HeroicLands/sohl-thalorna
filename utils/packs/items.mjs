@@ -1,6 +1,6 @@
 /*
  * This file is part of the Song of Heroic Lands (SoHL) system for Foundry VTT.
- * Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.com>
+ * Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  *
  * This work is licensed under the GNU General Public License v3.0 (GPLv3).
  * You may copy, modify, and distribute it under the terms of that license.
@@ -13,17 +13,21 @@
 
 /**
  * Items pack compiler — produces JSON pack files for the single "items"
- * Foundry compendium from markdown notes in the HeroicLands vault.
+ * Foundry compendium from markdown notes in the `assets/content/` tree.
  *
- * The vault root (`vaultBase`) is walked recursively; any `.md` file whose
+ * The content root (`contentBase`) is walked recursively; any `.md` file whose
  * frontmatter declares a recognized `type:` is compiled into one JSON entry.
  * Files outside the whitelist (blog posts, rules text, templates) are
  * silently skipped.
  *
  * Type-specific `system.*` fields come from the nested `sohl:` block in
- * vault frontmatter, read via `sohlField()`. The rendered markdown body
- * becomes `system.docHtml`. Folder assignment is deferred — every item
- * currently emits `folder: null`.
+ * vault frontmatter, read via `sohlField()`. The body is **not** rendered
+ * here: it compiles into the item's doc in the journals pack, and
+ * `system.docHtml` becomes a pointer to it (see `item-docs.mjs`). Folder
+ * assignment is deferred — every item currently emits `folder: null`.
+ *
+ * Not a standalone script — exports the `Items` compiler class, imported and
+ * driven by `utils/packs/generate.mjs` (via `npm run build:compiledb`).
  */
 
 import fs from "fs";
@@ -33,88 +37,67 @@ import log from "loglevel";
 import {
   walkMarkdownTree,
   sohlField,
-  makeFilename,
-  slugify,
-  buildDocUrl,
-  parseValueDesc,
-  resolveName,
-  buildStats,
+  resolveSkillAptitudes,
   requireSubType,
   resolveRelation,
+  resolveCharges,
+  makeFilename,
+  slugify,
+  parseValueDesc,
+  resolveName,
+  resolveImg,
+  buildStats,
+  withArchetypeFlag,
+  buildContentLinkIndex,
+  convertNoteWikilinks,
+  collectContentDocs,
+  expandNoteTables,
 } from "./helpers.mjs";
+// Per-type default art lives in one framework-free module shared with the
+// runtime (`SohlItem.getDefaultArtwork`), so the two can't drift — see #932.
+// Imported by relative path because the pack scripts run under bare `node`,
+// outside the `@src` alias tree.
+import { defaultItemArt } from "./default-item-art.mjs";
+import { journalPageId, splitPages } from "./journals.mjs";
+import { ITEM_TYPES, itemDocEntryId, itemDocPointer } from "./item-docs.mjs";
+import { CONTENT_PACKAGE } from "./content-package.mjs";
 
 const STATS = buildStats("0.6.0");
 
-export const ITEM_TYPES = new Set([
-  "affiliation",
-  "affliction",
-  "armorgear",
-  "attribute",
-  "combattechnique",
-  "concoctiongear",
-  "containergear",
-  "lineage",
-  "miscgear",
-  "mystery",
-  "mysticalability",
-  "projectilegear",
-  "skill",
-  "trait",
-  "trauma",
-  "weapongear",
-]);
-
-const DEFAULT_IMG = {
-  affiliation: "systems/sohl/assets/icons/shield.svg",
-  affliction: "systems/sohl/assets/icons/sick.svg",
-  armorgear: "systems/sohl/assets/icons/breastplate.svg",
-  attribute: "systems/sohl/assets/icons/charm.svg",
-  combattechnique: "systems/sohl/assets/icons/crossed-swords.svg",
-  concoctiongear: "systems/sohl/assets/icons/flask.svg",
-  containergear: "systems/sohl/assets/icons/sack.svg",
-  lineage: "systems/sohl/assets/icons/dna.svg",
-  miscgear: "systems/sohl/assets/icons/question-mark.svg",
-  mystery: "systems/sohl/assets/icons/sparkles.svg",
-  mysticalability: "systems/sohl/assets/icons/hand-sparkles.svg",
-  projectilegear: "systems/sohl/assets/icons/arrow.svg",
-  skill: "systems/sohl/assets/icons/head-gear.svg",
-  trait: "systems/sohl/assets/icons/user-gear.svg",
-  trauma: "systems/sohl/assets/icons/injury.svg",
-  weapongear: "systems/sohl/assets/icons/sword.svg",
-};
-
-const PERCEPTION_TEST =
-  "(doc.type==='skill' && doc.logic.hasAttr('per'))" +
-  "||(doc.type==='attribute' && doc.system.shortcode==='per')";
-
 /**
- * Translate a vault-relative img path (`icons/user-gear.svg`) into the
- * Foundry-relative path (`systems/sohl/assets/icons/user-gear.svg`). Falls
- * back to the per-type default when the field is missing.
+ * The description an item carries: a pointer to its **item doc**, the
+ * JournalEntry the journals pass compiles this same body into (#1348).
+ *
+ * The prose is not rendered here at all. Carrying it would duplicate it onto
+ * every actor holding the item — 7.59 MB of copies across the actors pack, of
+ * which 133 KB was distinct — where a link is 60 bytes and always current. The
+ * two passes derive the target from the note's own id, so neither has to see
+ * the other's output; both split the *converted* markdown, so an H1 carrying a
+ * wikilink names the same page on both sides.
+ *
+ * An item with no prose points at nothing, exactly as the journals pass writes
+ * no entry for it.
+ *
+ * @param {string} markdown - The note body, tables expanded and wikilinks
+ *   resolved.
+ * @param {object} fm - The note's frontmatter.
+ * @param {string} name - The item's name.
+ * @returns {string} The pointer, or "" for a note with no body.
  */
-function resolveImg(fm, type) {
-  const raw = fm.img;
-  if (!raw) return DEFAULT_IMG[type] || DEFAULT_IMG.miscgear;
-  const s = String(raw);
-  if (s.startsWith("systems/") || s.startsWith("icons/svg/")) return s;
-  if (s.startsWith("icons/")) return `systems/sohl/assets/${s}`;
-  return s;
+function itemDescription(markdown, fm, name) {
+  if (!String(markdown).trim()) return "";
+  const [leadPage] = splitPages(markdown, name);
+  const pageId = journalPageId(itemDocEntryId(fm.id), leadPage, 0);
+  return itemDocPointer(fm.id, name, pageId);
 }
 
 /**
  * Build the `system.*` fields shared by every item type:
- *   shortcode, docUrl, actionDefs, notes, docHtml.
+ *   shortcode, actionDefs, notes, docHtml.
  */
-function commonSystem(fm, description, type, name) {
-  const slug = fm.slug || slugify(name);
-  if (!fm.shortcode) {
-    throw new Error(
-      `Missing required shortcode for item "${name}" (slug: ${slug})`,
-    );
-  }
+function commonSystem(fm, description) {
   return {
     shortcode: fm.shortcode,
-    docUrl: buildDocUrl(type, slug, name),
     actionDefs: Array.isArray(fm.actionDefs) ? fm.actionDefs : [],
     notes: "",
     docHtml: description || "",
@@ -143,28 +126,36 @@ function gearCommon(fm) {
 /*  Per-type system builders                                            */
 /* -------------------------------------------------------------------- */
 
-function buildTrait(fm) {
-  return {
-    subType: sohlField(fm, "subType", "physique"),
-    textValue: String(sohlField(fm, "textValue", "")),
-    isNumeric: Boolean(sohlField(fm, "isNumeric", false)),
-    intensity: sohlField(fm, "intensity", "trait"),
-    valueDesc: parseValueDesc(sohlField(fm, "valueDesc", [])),
-    score: sohlField(fm, "score", { value: 0, max: 0 }),
-    choices: sohlField(fm, "choices", []),
-  };
-}
-
 function buildSkill(fm) {
-  return {
-    subType: sohlField(fm, "subType", "social"),
+  const subType = requireSubType(fm);
+  // `masteryLevelBase` is nullable: an unset / blank value ships as `null`
+  // ("not yet opened"), so an embedded skill opens on its actor at
+  // Skill Base × initSkillMult. A numeric value is a deliberate opened level.
+  const rawMlb = sohlField(fm, "masteryLevelBase", null);
+  const out = {
+    subType,
     skillBaseFormula: sohlField(fm, "skillBaseFormula", ""),
-    masteryLevelBase: Number(sohlField(fm, "masteryLevelBase", 0)) || 0,
+    masteryLevelBase: rawMlb == null || rawMlb === "" ? null : Number(rawMlb),
     improveFlag: Boolean(sohlField(fm, "improveFlag", false)),
     combatCategory: sohlField(fm, "combatCategory", "none"),
     parentSkillCode: sohlField(fm, "parentSkillCode", ""),
     initSkillMult: Number(sohlField(fm, "initSkillMult", 0)) || 0,
+    impairedByRoles: sohlField(fm, "impairedByRoles", []),
   };
+  // A combat technique is authored as a `skill` of subtype `combattechnique`
+  // (the standalone item type was merged into Skill): it carries an embedded,
+  // discriminated strike mode. Require it for that subtype; other skills have
+  // none.
+  if (subType === "combattechnique") {
+    const strikeMode = sohlField(fm, "strikeMode", null);
+    if (!strikeMode || typeof strikeMode !== "object" || !strikeMode.type) {
+      throw new Error(
+        `combattechnique skill requires sohl.strikeMode with a 'type' discriminator ("melee" or "missile")`,
+      );
+    }
+    out.strikeMode = strikeMode;
+  }
+  return out;
 }
 
 function buildAttribute(fm) {
@@ -172,106 +163,117 @@ function buildAttribute(fm) {
     scoreBase: Number(sohlField(fm, "scoreBase", 0)) || 0,
     valueDesc: parseValueDesc(sohlField(fm, "valueDesc", [])),
     initDiceFormula: sohlField(fm, "initDiceFormula", ""),
-    impairedByZones: sohlField(fm, "impairedByZones", []),
+    impairedByRoles: sohlField(fm, "impairedByRoles", []),
   };
 }
 
 function buildAffliction(fm) {
   return {
-    subType: sohlField(fm, "subType", ""),
+    subType: requireSubType(fm),
     category: sohlField(fm, "category", ""),
     isDormant: false,
     isTreated: false,
-    diagnosisBonusBase: Number(sohlField(fm, "diagnosisBonus", 0)) || 0,
     levelBase: Number(sohlField(fm, "levelBase", 0)) || 0,
     healingRateBase: Number(sohlField(fm, "healingRateBase", 0)) || 0,
     contagionIndexBase: Number(sohlField(fm, "contagionIndex", 0)) || 0,
     transmission: sohlField(fm, "transmission", "none"),
+    // Days from contracting to onset, rolled by the receiving actor's
+    // Contagion Test (#1183). Unset means no incubation.
+    onsetFormula: sohlField(fm, "onsetFormula", null) || null,
+    // What running the course to the end does to the host (#1128): "death"
+    // or the benign default "cured".
+    outcome: sohlField(fm, "outcome", "cured") || "cured",
   };
 }
 
 function buildAffiliation(fm) {
-  const label = `affiliation "${fm?.name?.full ?? fm?.shortcode ?? "?"}"`;
   return {
-    subType: requireSubType(fm, label),
+    subType: requireSubType(fm),
     society: String(sohlField(fm, "society", "")),
     office: String(sohlField(fm, "office", "")),
     title: String(sohlField(fm, "title", "")),
     level: Number(sohlField(fm, "level", 0)) || 0,
-    relation: resolveRelation(fm, label),
-  };
-}
-
-function buildCombatTechnique(fm) {
-  const strikeMode = sohlField(fm, "strikeMode", null);
-  if (!strikeMode || typeof strikeMode !== "object" || !strikeMode.type) {
-    throw new Error(
-      `combattechnique requires sohl.strikeMode with a 'type' discriminator ("melee" or "missile")`,
-    );
-  }
-  return {
-    group: String(sohlField(fm, "group", "")),
-    strikeMode,
+    relation: resolveRelation(
+      fm,
+      `affiliation "${fm?.name?.full ?? fm?.shortcode ?? "?"}"`,
+    ),
   };
 }
 
 function buildTrauma(fm) {
+  // Injury-only fields (level, aspect, body location) are nullable: a
+  // descriptive condition (psycond/physcond) omits them, so they compile to
+  // `null` (their schema initial) rather than a misleading 0/"blunt"/"".
+  const rawLevel = sohlField(fm, "levelBase", null);
   return {
-    subType: sohlField(fm, "subType", "physical"),
-    levelBase: Number(sohlField(fm, "levelBase", 0)) || 0,
+    subType: requireSubType(fm),
+    category: sohlField(fm, "category", null),
+    levelBase: rawLevel == null ? null : Number(rawLevel) || 0,
     healingRateBase: Number(sohlField(fm, "healingRateBase", 0)) || 0,
-    aspect: sohlField(fm, "aspect", "blunt"),
+    aspect: sohlField(fm, "aspect", null),
     isTreated: Boolean(sohlField(fm, "isTreated", false)),
     isBleeding: Boolean(sohlField(fm, "isBleeding", false)),
-    bodyLocationCode: sohlField(fm, "bodyLocationCode", ""),
+    bodyLocationCode: sohlField(fm, "bodyLocationCode", null),
   };
 }
 
 function buildMystery(fm) {
   return {
+    subType: requireSubType(fm),
     levelBase: Number(sohlField(fm, "levelBase", 0)) || 0,
-    charges: {
-      usesCharges: Boolean(sohlField(fm, "charges.usesCharges", false)),
-      value: Number(sohlField(fm, "charges.value", 0)) || 0,
-      max: Number(sohlField(fm, "charges.max", 0)) || 0,
-    },
+    skillAptitudes: resolveSkillAptitudes(
+      fm,
+      `mystery "${fm?.name?.full ?? fm?.shortcode ?? "?"}"`,
+    ),
+    charges: resolveCharges(fm),
   };
 }
 
 function buildMysticalAbility(fm) {
   return {
-    subType: sohlField(fm, "subType", ""),
+    subType: requireSubType(fm),
     assocSkillCode: sohlField(fm, "assocSkillCode", ""),
     assocMysteryCode: sohlField(fm, "assocMysteryCode", ""),
     masteryLevelBase: Number(sohlField(fm, "masteryLevelBase", 0)) || 0,
     improveFlag: Boolean(sohlField(fm, "improveFlag", false)),
     levelBase: Number(sohlField(fm, "levelBase", 0)) || 0,
-    charges: {
-      usesCharges: Boolean(sohlField(fm, "charges.usesCharges", false)),
-      value: Number(sohlField(fm, "charges.value", 0)) || 0,
-      max: Number(sohlField(fm, "charges.max", 0)) || 0,
-    },
+    charges: resolveCharges(fm),
   };
 }
 
-function buildLineage(fm) {
-  return {
-    bodyStructure: sohlField(fm, "bodyStructure", {
-      parts: [],
-      adjacent: [],
-    }),
-    movementProfiles: sohlField(fm, "movementProfiles", []),
-    encumbranceRate: Number(sohlField(fm, "encumbranceRate", 0)) || 0,
-    bodyWeightBase: Number(sohlField(fm, "bodyWeightBase", 0)) || 0,
-  };
+/**
+ * Normalize the authored strike-mode list for the persisted array field.
+ *
+ * Strike modes are authored — and now persisted — as an array whose elements
+ * each carry a `shortcode`. Every element must have a non-blank shortcode, and
+ * no two on one weapon may share it (the shortcode is the mode's identity). The
+ * array is returned verbatim (shortcode retained on each element).
+ */
+function normalizeStrikeModes(strikeModes) {
+  if (!Array.isArray(strikeModes)) return [];
+  const seen = new Set();
+  for (const { shortcode } of strikeModes) {
+    if (!shortcode) {
+      throw new Error(
+        "weapongear strikeModes array element requires a 'shortcode'",
+      );
+    }
+    if (seen.has(shortcode)) {
+      throw new Error(
+        `weapongear has duplicate strike-mode shortcode "${shortcode}"`,
+      );
+    }
+    seen.add(shortcode);
+  }
+  return strikeModes;
 }
 
 function buildWeaponGear(fm) {
   return {
     ...gearCommon(fm),
-    encumbrance: Number(sohlField(fm, "encumbrance", 0)) || 0,
+    encumbranceBase: Number(sohlField(fm, "encumbrance", 0)) || 0,
     heftBase: Number(sohlField(fm, "heft", 0)) || 0,
-    strikeModes: sohlField(fm, "strikeModes", {}),
+    strikeModes: normalizeStrikeModes(sohlField(fm, "strikeModes", [])),
   };
 }
 
@@ -283,6 +285,12 @@ function buildArmorGear(fm) {
     locations: {
       flexible: sohlField(fm, "flexloc", []) || [],
       rigid: sohlField(fm, "rigidloc", []) || [],
+      // Only the one-sided articles carry entries; everything else
+      // protects from any direction and ships an empty list.
+      facing: (sohlField(fm, "facing", []) || []).map((f) => ({
+        location: String(f.location ?? ""),
+        side: String(f.side ?? "all"),
+      })),
     },
     protectionBase: {
       blunt: Number(protection.blunt) || 0,
@@ -291,6 +299,11 @@ function buildArmorGear(fm) {
       fire: Number(protection.fire) || 0,
     },
     encumbrance: Number(sohlField(fm, "encumbrance", 0)) || 0,
+    // An article belongs to an encumbrance group instead of carrying a
+    // value when its cost is charged to a set — the arm harness.
+    encumbranceGroup: sohlField(fm, "encumbranceGroup", null) || null,
+    perceptionPenaltyBase:
+      Number(sohlField(fm, "perceptionPenaltyBase", 0)) || 0,
   };
 }
 
@@ -299,7 +312,7 @@ function buildProjectileGear(fm) {
   const die = Number(impact.die) || 0;
   return {
     ...gearCommon(fm),
-    subType: sohlField(fm, "subType", ""),
+    subType: requireSubType(fm),
     impactBase: {
       overrideDice: Boolean(impact.overrideDice ?? die > 0),
       overrideModifier: Boolean(impact.overrideModifier ?? false),
@@ -325,7 +338,7 @@ function buildMiscGear(fm) {
 function buildConcoctionGear(fm) {
   return {
     ...gearCommon(fm),
-    subType: sohlField(fm, "subType", ""),
+    subType: requireSubType(fm),
     potency: sohlField(fm, "potency", "notApplicable"),
     strength: Number(sohlField(fm, "strength", 0)) || 0,
   };
@@ -336,16 +349,13 @@ const BUILDERS = {
   affliction: buildAffliction,
   armorgear: buildArmorGear,
   attribute: buildAttribute,
-  combattechnique: buildCombatTechnique,
   concoctiongear: buildConcoctionGear,
   containergear: buildContainerGear,
-  lineage: buildLineage,
   miscgear: buildMiscGear,
   mystery: buildMystery,
   mysticalability: buildMysticalAbility,
   projectilegear: buildProjectileGear,
   skill: buildSkill,
-  trait: buildTrait,
   trauma: buildTrauma,
   weapongear: buildWeaponGear,
 };
@@ -353,31 +363,6 @@ const BUILDERS = {
 /* -------------------------------------------------------------------- */
 /*  Synthesized Active Effects                                          */
 /* -------------------------------------------------------------------- */
-
-/**
- * Armor with a non-zero perception modifier emits one Active Effect that
- * dampens any skill using `per` and the `per` attribute itself.
- */
-function buildPerceptionEffect(itemId, perception) {
-  return {
-    name: "Anything Using Perception",
-    type: "sohleffectdata",
-    _id: perception.effectId,
-    system: {
-      scope: "test",
-      test: PERCEPTION_TEST,
-    },
-    changes: [
-      {
-        key: "mod:logic.masteryLevel",
-        mode: 2,
-        value: String(perception.value),
-        priority: null,
-      },
-    ],
-    _key: `!items.effects!${itemId}.${perception.effectId}`,
-  };
-}
 
 /* -------------------------------------------------------------------- */
 /*  Compiler                                                            */
@@ -387,7 +372,7 @@ export class Items {
   static id = "items";
 
   /** @type {string} */
-  vaultBase;
+  contentBase;
   /** @type {string} */
   outputDir;
   /** @type {(path: string|null) => string|null} */
@@ -395,17 +380,15 @@ export class Items {
   /** @type {number} */
   errorCount = 0;
 
-  constructor({ vaultBase, dest, folderResolver = () => null }) {
-    if (!vaultBase) {
-      throw new Error("Items compiler requires `vaultBase`");
+  constructor({ contentBase, dest, folderResolver = () => null }) {
+    if (!contentBase) {
+      throw new Error("Items compiler requires `contentBase`");
     }
-    if (!fs.existsSync(vaultBase)) {
-      throw new Error(
-        `HeroicLands vault not found at ${vaultBase} — expected sibling to the SoHL project`,
-      );
+    if (!fs.existsSync(contentBase)) {
+      throw new Error(`Content tree not found at ${contentBase}`);
     }
-    Object.defineProperty(this, "vaultBase", {
-      value: vaultBase,
+    Object.defineProperty(this, "contentBase", {
+      value: contentBase,
       writable: false,
     });
     Object.defineProperty(this, "outputDir", {
@@ -432,24 +415,11 @@ export class Items {
     const name = resolveName(fm);
     const id = fm.id;
     const system = {
-      ...commonSystem(fm, description, type, name),
+      ...commonSystem(fm, description),
       ...BUILDERS[type](fm),
     };
 
     const effects = Array.isArray(fm.effects) ? [...fm.effects] : [];
-
-    // Armor perception → one synthesized AE per item.
-    if (type === "armorgear") {
-      const perception = sohlField(fm, "perception", null);
-      if (
-        perception &&
-        typeof perception === "object" &&
-        perception.value &&
-        perception.effectId
-      ) {
-        effects.push(buildPerceptionEffect(id, perception));
-      }
-    }
 
     const folderId = sohlField(fm, "folder", null);
     const folder = this.folderResolver(folderId);
@@ -457,11 +427,13 @@ export class Items {
     return {
       name,
       type,
-      img: resolveImg(fm, type),
+      img: resolveImg(fm.img) || defaultItemArt(type),
       _id: id,
       system,
       effects,
-      flags: fm.flags || {},
+      // `sohl.archetype` (required nullable number) drives
+      // `flags.sohl.docArchetype` (#640 / archetype contract #604).
+      flags: withArchetypeFlag(fm, fm.flags, `item "${name}"`),
       _stats: STATS,
       ownership: { default: 0 },
       folder,
@@ -471,14 +443,17 @@ export class Items {
 
   async compile() {
     const counts = Object.fromEntries([...ITEM_TYPES].map((t) => [t, 0]));
-    let skippedNoId = 0;
     let skippedDraft = 0;
     let skippedOtherType = 0;
 
-    for (const { frontmatter: fm, description, absPath } of walkMarkdownTree(
-      this.vaultBase,
+    this.linkIndex = buildContentLinkIndex(this.contentBase);
+    this.contentDocs = collectContentDocs(this.contentBase);
+    this.unresolvedLinks = 0;
+
+    for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
+      this.contentBase,
     )) {
-      if (!fm || fm.package !== "thalorna") {
+      if (!fm || fm.package !== CONTENT_PACKAGE) {
         skippedOtherType++;
         continue;
       }
@@ -493,14 +468,37 @@ export class Items {
         continue;
       }
       if (!fm.id) {
-        skippedNoId++;
-        log.warn(`Item missing id, skipping: ${absPath}`);
-        continue;
+        // Fatal, not a warning: a skipped item silently vanishes from
+        // the compendium while its KB page and content still build, so
+        // the omission is invisible until someone looks for the item.
+        // Matches the folder-id check in helpers.mjs, which throws.
+        throw new Error(`Item missing id: ${absPath}`);
       }
 
       log.debug(`Processing ${type}: ${resolveName(fm)} (${absPath})`);
       try {
-        const entry = this.buildEntry(type, fm, description);
+        // Wikilinks resolve against the whole content tree, so an item
+        // may link to another item, a creature, or a rules journal.
+        // Generated tables expand before wikilinks, so a cell
+        // they emit is resolved along with the authored links.
+        const tabulated = expandNoteTables(body, {
+          docs: this.contentDocs,
+          name: resolveName(fm),
+          pkg: fm.package,
+          fm,
+        });
+        const { markdown, unresolved } = convertNoteWikilinks(tabulated, {
+          type,
+          id: fm.id,
+          index: this.linkIndex,
+          name: resolveName(fm),
+        });
+        this.unresolvedLinks += unresolved.length;
+        const entry = this.buildEntry(
+          type,
+          fm,
+          itemDescription(markdown, fm, resolveName(fm)),
+        );
         this.writeItem(entry);
         counts[type]++;
       } catch (err) {
@@ -514,7 +512,6 @@ export class Items {
     for (const [t, n] of Object.entries(counts)) {
       if (n > 0) log.info(`  ${t}: ${n}`);
     }
-    if (skippedNoId) log.info(`Skipped ${skippedNoId} item(s) missing id`);
     if (skippedDraft) log.info(`Skipped ${skippedDraft} draft(s)`);
     log.debug(
       `Skipped ${skippedOtherType} non-item file(s) (no recognized type)`,
