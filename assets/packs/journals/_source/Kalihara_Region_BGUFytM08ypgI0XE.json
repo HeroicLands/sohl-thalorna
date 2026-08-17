@@ -1,0 +1,35 @@
+{
+  "name": "Kalihara Region",
+  "pages": [
+    {
+      "_id": "cf105d4ec64d1051",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Kalihara Region is the inhabited country of the\n[[doc-klhrcntnnt|Kalihara Continent]] — which is to say very nearly the whole\nof it. Where every other continent of [[doc-worldthlrn|Thalorna]] is a mosaic\nof regions and rival powers, Kalihara carries one continuous civilization, one\npeople, one language family and one philosophical tradition, so the continent\nand its region are all but the same country under two names.</p>\n<p>The distinction the region draws is the one Kaliharans themselves draw: the\n[[doc-kalihara|Kalihara]] confederation of coastal port-cities and inland\ntraditionalist clans is the land as it is <em>lived in</em> and governed, while the\ncontinent is the landmass and the ocean approaches that guard it.</p>\n<h2>Geography</h2>\n<p>Dense jungle, volcanic mountains and fertile river valleys, hot and humid the\nyear round. The coastal lowlands give way quickly to steep, jungle-clad\nridgelines that make overland travel into the interior extremely difficult for\nanyone who does not know the paths, and the volcanic peaks of the central\nhighlands are visible from the sea but effectively unreachable without\nKaliharan guidance. The country supports an extraordinary diversity of plant\nand animal life, including species found nowhere else on Thalorna.</p>\n<h2>Peoples and Culture</h2>\n<p>The Kaliharans are a deeply insular people, committed philosophically to\npreserving the island and the way of life their ancestors established in an\nage the rest of the world has forgotten. Outsiders are not admitted to the\ninterior; commerce with the world beyond runs through a handful of coastal\nports, and even there foreign merchants are confined to designated quarters\nunder close supervision. Religious life follows the\n[[affiliation-tharivaan|Tharivaan]] tradition.</p>\n<h2>Politics and Power</h2>\n<p>The region is held by [[doc-kalihara|Kalihara]] — a loose confederation of the\ncoastal port-cities and the inland traditionalist clans, seated at Qasirah.\nThere is no rival power on the continent and never has been.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-klhrcntnnt|Kalihara Continent]] — the continent this region occupies</li>\n<li>[[doc-kalihara|Kalihara]] — the confederation that holds this region</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!BGUFytM08ypgI0XE.cf105d4ec64d1051"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BGUFytM08ypgI0XE",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!BGUFytM08ypgI0XE"
+}

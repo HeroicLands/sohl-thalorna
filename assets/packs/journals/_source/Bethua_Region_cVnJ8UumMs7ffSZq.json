@@ -1,0 +1,35 @@
+{
+  "name": "Bethûa Region",
+  "pages": [
+    {
+      "_id": "4941694b0b197a8c",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Bethûa Region is the western end of the\n[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the coast and hinterland held\nby the [[doc-mtrrchybth|Matriarchy of Bethûa]], and the part of Xerathia's\nnorthern shore that faces most directly across the\n[[doc-vylarianse|Vylarian Sea]] toward Ankaris.</p>\n<h2>Geography</h2>\n<p>The <strong>coastal strip</strong> is the region's foundation, and it is here at its widest\nand most reliable anywhere along the northern shore: sea-tempered winters and\nmoderate summers carrying citrus, grape, olive, fig, date-palm and\npomegranate. The coastal cities are among the oldest and most cosmopolitan in\nXerathia, and have been the continent's principal point of contact with the\nnorth for as long as the two continents have known one another.</p>\n<p><strong>Inland</strong>, rainfall falls away sharply and the interior is semi-arid\ngrassland, productive only where water is brought to it. Bethûa's answer has\nbeen millennia of hydraulic engineering — aqueducts, tunnel qanats, cisterns\nand canal networks whose upkeep employs tens of thousands year-round, and\nwhose engineering corps is one of the most prestigious institutions of the\nrealm. Wheat, barley, millet and legumes grow inside the irrigated strips;\nbetween them, open grassland pastures sheep, cattle and horses.</p>\n<h2>Peoples and Culture</h2>\n<p>The region is Bethûan, and its ruling class, priesthood and engineering corps\nare all female. Its cultural gravity pulls north across the sea rather than\ntoward its immediate neighbours: its language carries ancient Pelwar-linked\nroots shared with [[doc-helionis|Heliónis]], and it venerates the\n[[affiliation-arldnpnthn|Aurèldían Pantheon]] in a matriarchal rite rather\nthan any home-grown tradition.</p>\n<h2>Politics and Power</h2>\n<p>The region is the territory of the [[doc-mtrrchybth|Matriarchy of Bethûa]].\nAlong its southern margins, Okháric frontier clans pay tribute to Bethûan\nauthorities in exchange for grazing rights; its eastern frontier with\n[[doc-takheperurgn|Ta'Kheperu]] is poorly defined and a recurring source of\nfriction.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region</li>\n<li>[[doc-mtrrchybth|Matriarchy of Bethûa]] — the realm that holds this region</li>\n<li>[[doc-takheperurgn|Ta'Kheperu Region]] — neighbour to the east</li>\n<li>[[doc-okharisrgn|Okháris Region]] — neighbour to the south</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!cVnJ8UumMs7ffSZq.4941694b0b197a8c"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "cVnJ8UumMs7ffSZq",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!cVnJ8UumMs7ffSZq"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Amradad Region",
+  "pages": [
+    {
+      "_id": "35d32c6292e82776",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Amradad Region is the settled corner of the\n[[doc-dunharargn|Dunhara Region]] — the territory of the\n[[doc-sultntmrdd|Sultanate of Amradad]], and the only part of that vast desert\nheld by a polity with fixed borders, a standing army and a court.</p>\n<p>It is a small fraction of the Dunhara by area and a disproportionate share of\nit by wealth: a handful of walled cities, the oases that sustain them, and the\ncaravan routes that tie them together.</p>\n<h2>Geography</h2>\n<p>The region occupies the northwestern reach of the Dunhara, where the desert\nmeets the arid scrublands of the [[doc-cnfdrtnhrdnstts|Haradian]] hinterland.\nThis is the northern margin of the desert, which takes a thin winter rain that\nthe deep south never sees — enough to support dryland pastoralism and a narrow\nbelt of seasonal grass. Settlement follows water: the permanent oases, and the\nwadis that carry runoff after the winter rains.</p>\n<h2>Peoples and Culture</h2>\n<p>The Amradi are of Dunhari descent and remain formally part of the wider\nDunhari world, but centuries of settlement have carried them away from their\nnomadic cousins in culture and in politics. Their court culture is modelled on\nthe older Āsháian urban civilisations, and they keep the\n[[affiliation-ashanpnthn|Āsháian Pantheon]] shared across the desert. The\n[[doc-dunhardsrtrgn|tribes of the open desert]] regard them with a mixture of\nadmiration for the wealth of the cities and disdain for the softness that\nsettlement is held to imply.</p>\n<h2>Politics and Power</h2>\n<p>The region is ruled by a hereditary sultan with a professional army. Its\nformal frontiers enclose only the cities and their routes, but its influence\nreaches well past them through trade and through marriage alliance with tribal\nsheikhs.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-dunharargn|Dunhara Region]] — the parent region</li>\n<li>[[doc-sultntmrdd|Sultanate of Amradad]] — the realm that holds this region</li>\n<li>[[doc-dunhardsrtrgn|Dunhara Desert Region]] — the open desert beyond the cities</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!yvAi0uy6sqpFand1.35d32c6292e82776"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "yvAi0uy6sqpFand1",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!yvAi0uy6sqpFand1"
+}

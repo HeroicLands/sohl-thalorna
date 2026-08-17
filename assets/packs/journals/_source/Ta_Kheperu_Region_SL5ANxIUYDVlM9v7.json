@@ -1,0 +1,35 @@
+{
+  "name": "Ta'Kheperu Region",
+  "pages": [
+    {
+      "_id": "90471710cf9b298b",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Ta'Kheperu Region is the river country of the\n[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the stretch of Xerathia's\nnorthern shore held by the [[doc-empirtkhpr|Empire of Ta'Kheperu]], running\nfrom the delta on the [[doc-vylarianse|Vylarian Sea]] hundreds of leagues\nsouth along the great river that gives the country its life.</p>\n<p>It is the exception in a region that is otherwise fertile only where it has\nbeen engineered to be. Where [[doc-bethuargn|Bethûa]] and\n[[doc-okharisrgn|Okháris]] draw their harvests from aqueducts and herds, the\nKheperi valley is fed by an annual flood that lays down rich black silt across\nthe floodplains each year.</p>\n<h2>Geography</h2>\n<p>The region is a narrow band of abundance in dry country. The <strong>delta</strong>, on the\nVylarian Sea, shares the wet-coastal character of the whole northern shore —\nsea-tempered winters, moderate summers, and the orchard crops that go with\nthem. Inland, the <strong>valley</strong> is almost tropical, lush enough that hippopotami\nand crocodiles thrive in its warm water, and distinctly different in climate\nfrom the dry uplands a day's ride to either side. Beyond the flood's reach the\nland is semi-arid grassland, productive only where canal and cistern carry\nwater to it.</p>\n<h2>Peoples and Culture</h2>\n<p>The region is Kheperi: urban, literate, hierarchical, governed by a vast\nscribal bureaucracy beneath the divine office of the Per-Aá, and organised\nreligiously around the [[affiliation-kemtnpnthn|Kemetian Pantheon]]. Along the\nwestern fringes, steppe peoples hold grazing arrangements with the Kheperi\nnomarchs of the sort found on the region's other margins.</p>\n<h2>Politics and Power</h2>\n<p>The region is the heartland of the [[doc-empirtkhpr|Empire of Ta'Kheperu]] and\nis administered through its nomes. Its frontier with\n[[doc-bethuargn|Bethûa]] to the west has never been precisely drawn, and\noccasional friction along it is the region's most persistent external\nirritant.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region</li>\n<li>[[doc-empirtkhpr|Empire of Ta'Kheperu]] — the realm that holds this region</li>\n<li>[[doc-bethuargn|Bethûa Region]] — neighbour to the west</li>\n<li>[[doc-okharisrgn|Okháris Region]] — neighbour to the south</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!SL5ANxIUYDVlM9v7.90471710cf9b298b"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "SL5ANxIUYDVlM9v7",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!SL5ANxIUYDVlM9v7"
+}
