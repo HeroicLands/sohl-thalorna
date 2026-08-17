@@ -35,6 +35,7 @@
     "build:compiledb": "node ./utils/packs/build-compendiums.mjs package compile",
     "build:unpackdb": "node ./utils/packs/build-compendiums.mjs package unpack",
     "build:link-manifest": "node utils/build-link-manifest.mjs",
+    "build:site-content": "node utils/build-site-content.mjs",
     "build:pack-release": "node utils/pack-release.mjs",
     "push:dev": "node utils/push-stage.mjs dev",
     "push:qa": "node utils/push-stage.mjs qa",
@@ -82,6 +83,7 @@
     "loglevel": "^1.9.2",
     "loglevel-plugin-prefix": "^0.8.4",
     "madge": "^8.0.0",
+    "markdown-it": "^14.1.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.8.1",
     "sass": "^1.69.0",
@@ -92,6 +94,7 @@
     "unidecode": "^1.1.0",
     "vite": "^6.2.3",
     "vite-plugin-banner": "^0.8.0",
-    "vitest": "^3.1.2"
+    "vitest": "^3.1.2",
+    "yaml": "^2.9.0"
   }
 }
