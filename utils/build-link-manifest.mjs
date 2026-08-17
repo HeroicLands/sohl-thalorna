@@ -15,15 +15,15 @@
  * Emit this package's cross-package link manifest (#1446, #1441).
  *
  * Every package that publishes a web surface names the notes it publishes in one
- * file, keyed by the canonical `type/shortcode` address and valued `{ url, name }`.
+ * file, keyed by the canonical `type/shortcode` address and valued `{ path, name }`.
  * Another package's build vendors the file and can then resolve a link into this
  * package instead of guessing whether an unknown address is a typo — see
  * `utils/kb-manifest.mjs` for the format and what turns on when it is complete.
  *
- * **The URLs must be real.** A manifest asserts that a page exists at the URL it
- * gives; inventing one produces a link that passes the dead-link check and 404s
- * for the reader. So this does not invent a URL scheme — it reproduces the one
- * `heroiclands-site` already publishes these pages at, which is:
+ * **The URLs must be real.** A manifest asserts that a page exists at the address
+ * it gives; inventing one produces a link that passes the dead-link check and
+ * 404s for the reader. So this does not invent a URL scheme — it reproduces the
+ * one `heroiclands-site` already publishes these pages at, which is:
  *
  *     /{package}/{type-or-category}/{slug}/
  *
@@ -34,6 +34,14 @@
  * That is `export-hugo.ts`'s dispatch, restated against the tree that is now
  * source here rather than in the vault. The output was verified entry-for-entry
  * against the site's published `content/thalorna/` tree when it was written.
+ *
+ * **What is recorded is the part after `/{package}/`** (#1465). Where this
+ * package is *mounted* is the consumer's business — it holds a base per package
+ * and prefixes it at resolve time — so a manifest that recorded the mount point
+ * would send every inbound link to a path that stops existing the day the
+ * package moves. The full URL is still built here, because the rule above is
+ * what makes the address checkable; `writeManifests` strips the leading
+ * `/{package}/` and fails loudly on a URL that does not carry it.
  *
  * Output is `build/manifests/<package>.json`, a build artifact. Publishing it
  * means copying it into the consuming repository's `assets/manifests/`, where it
@@ -156,6 +164,9 @@ function main() {
   const written = writeManifests(
     new Map([[CONTENT_PACKAGE, entries]]),
     MANIFEST_OUT,
+    // The base the URLs above are built with, and therefore what each recorded
+    // address is relative to (#1465).
+    { [CONTENT_PACKAGE]: `/${CONTENT_PACKAGE}/` },
   );
 
   for (const { package: pkg, file, count } of written) {
