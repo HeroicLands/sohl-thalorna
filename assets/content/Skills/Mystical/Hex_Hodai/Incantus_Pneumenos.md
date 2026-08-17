@@ -1,0 +1,28 @@
+---
+aliases:
+  - Incantus Pneuménos
+  - Incantus Pneumenos
+  - skill-pneumenos
+tags:
+  - hex-hodai
+type: skill
+package: thalorna
+id: vjdx9kGWQ4USV1W4
+shortcode: pneumenos
+img: images/affiliation/pneumenos.webp
+name:
+  full: Incantus Pneuménos
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@aur, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: aSvW7yJDk7r76eTo
+---
+
+See [[affiliation-pneumenos|Eídma Pneuménos]]

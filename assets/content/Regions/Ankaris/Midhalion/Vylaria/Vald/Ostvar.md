@@ -1,0 +1,36 @@
+---
+aliases:
+  - Ostvar
+  - doc-ostvar
+id: Vd4hNx7vEq9Rb2Lt
+type: doc
+category: settlement
+settlementType: "Fishing Town"
+population: 8000
+languages:
+  - vylarilngg
+pantheons:
+  - arldnpnthn
+package: thalorna
+name:
+  full: Ostvar
+  aliases: []
+shortcode: ostvar
+parent:
+  regions:
+    - vylariargn
+  polities:
+    - provincvld
+folder: WSdLuPc7BaRqxNEt
+---
+
+# Ostvar
+
+## Overview
+
+Ostvar is the largest of [[doc-provincvld|Vald]]'s four great fishing towns, its harbor crowded with the boats and the curing-sheds that supply fresh and salted fish to the capital and the interior provinces. It lives by the catch and the fickle sea; its people keep to the old coastal customs and a wary devotion to the sea's moods. In a hard winter the price of Ostvar's salt fish is felt as far inland as the capital's markets, and the town's net-masters and curing-houses wield quiet weight in the provincial fish trade.
+
+## See Also
+
+- [[doc-provincvld|Province of Vald]] — Parent province
+- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview

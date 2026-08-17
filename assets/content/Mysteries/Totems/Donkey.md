@@ -1,0 +1,37 @@
+---
+aliases:
+  - mystery-donkey
+tags: []
+name:
+  full: Donkey
+  aliases: []
+id: 06wasGpojK17FTdC
+img: images/mystery/donkey.webp
+shortcode: donkey
+type: mystery
+package: thalorna
+sohl:
+  subType: other
+  levelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  trait: stubborn
+  disorder: stubborn
+  archetype: null
+folder: vRIKmqTJtHtY4VEX
+---
+
+Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.
+
+## Human Personality
+
+Stubborn and resilient, this person stands firm in their beliefs and resists being forced into actions they perceive as unreasonable. They are patient, enduring, and steadfast.
+
+- **Physical:** Compact, sturdy build; strong legs and back.
+- **Behavioral:** Extremely patient, often stubborn and resistant to change.
+- **Positive:** Resilient, persistent, and patient.
+- **Negative:** Stubborn, resistant to guidance, and inflexible.
+- **Minor Trait:** Quietly tenacious, holding to their chosen course with steady patience even when others have long since given up or moved on.
+- **Major Disorder:** Outwardly patient and calm, but under any pressure their stubbornness hardens into an immovable wall, refusing all compromise or change with a quiet, implacable obstinacy.

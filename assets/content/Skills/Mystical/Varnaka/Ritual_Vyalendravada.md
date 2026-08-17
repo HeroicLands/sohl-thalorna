@@ -1,0 +1,31 @@
+---
+aliases:
+  - "Ritual: Vyālendravāda"
+  - Vyālendravāda
+  - Vyalendravada
+  - The Doctrine of Vyālendra
+  - Vyāndran School
+  - skill-vyalendravada
+tags:
+  - varnaka
+  - faith-skill
+type: skill
+package: thalorna
+id: nKUTkE0IvG0Xu2FS
+shortcode: vyalendravada
+name:
+  full: "Ritual: Vyālendravāda"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: n4PWls70WXc5KR8H
+---
+
+See [[affiliation-vyalendravada|Vyālendravāda]]

@@ -1,0 +1,28 @@
+---
+aliases:
+  - Azhûn
+  - doc-azhun2
+id: glFCD2sGQEKQGn6c
+type: doc
+category: settlement
+settlementType: "Port City"
+population: null
+languages:
+  - haradilngg
+pantheons:
+  - arldnpnthn
+package: thalorna
+name:
+  full: Azhûn
+  aliases: []
+shortcode: azhun2
+parent:
+  polities:
+    - azhun
+---
+
+# Azhûn
+
+## Overview
+
+_To be written._ Azhûn is the capital and principal settlement of [[doc-azhun|Azhûn]].

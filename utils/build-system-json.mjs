@@ -23,8 +23,8 @@ await mkdir(STAGE_DIR, { recursive: true });
 
 // --- Load files ---
 const [templateRaw, packageRaw] = await Promise.all([
-    readFile(systemTemplatePath, "utf-8"),
-    readFile(packageJsonPath, "utf-8"),
+  readFile(systemTemplatePath, "utf-8"),
+  readFile(packageJsonPath, "utf-8"),
 ]);
 
 const template = JSON.parse(templateRaw);
@@ -34,7 +34,7 @@ const pkg = JSON.parse(packageRaw);
 template.version = pkg.version;
 template.url = "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT";
 template.bugs =
-    "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/issues";
+  "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/issues";
 template.manifest = `https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json`;
 template.download = `https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v${pkg.version}/system.zip`;
 

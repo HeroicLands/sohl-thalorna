@@ -1,0 +1,28 @@
+---
+aliases:
+  - Gümüşhisar
+  - doc-gumushisar2
+id: Lo992b0Iv2JLzXly
+type: doc
+category: settlement
+settlementType: "Fortress City"
+population: null
+languages:
+  - byzarnlngg
+pantheons:
+  - arldnpnthn
+package: thalorna
+name:
+  full: Gümüşhisar
+  aliases: []
+shortcode: gumushisar2
+parent:
+  polities:
+    - gumushisar
+---
+
+# Gümüşhisar
+
+## Overview
+
+_To be written._ Gümüşhisar is the capital and principal settlement of [[doc-gumushisar|Gümüşhisar]].

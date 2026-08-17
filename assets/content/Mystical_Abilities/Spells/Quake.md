@@ -1,0 +1,35 @@
+---
+aliases:
+  - Tremor
+  - mysticalability-quake
+tags: []
+name:
+  full: Quake
+  aliases:
+    - Tremor
+description: "Ground shakes violently; disrupts footing and causes damage."
+id: hnJAdEW1W2P9ouq0
+img: icons/tree.svg
+shortcode: quake
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: physera
+  assocMysteryCode: ""
+  levelBase: 2
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Tremor
+castingTime: 1 round
+range: self
+duration: Index rounds
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster strikes the ground with a hand, foot, or elemental focus, and a wave of trembling Physéra energy radiates outward from the point of impact, sending a mild but persistent earth tremor rippling Index x 5 feet out. Although the tremor is not powerful enough to damage structures, it forces every moving or standing creature within its radius—except the caster—to make a Stumble Roll at the start of each turn for the spell's duration, with a -20 penalty applied to the check on Critical Success. Moreover, all movement within the affected area becomes Difficult, halving travel speed as the shaking ground makes every step uncertain.

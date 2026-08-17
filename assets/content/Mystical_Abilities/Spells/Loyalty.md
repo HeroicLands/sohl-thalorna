@@ -1,0 +1,34 @@
+---
+aliases:
+  - Obedience
+  - mysticalability-loyalty
+tags: []
+name:
+  full: Loyalty
+  aliases:
+    - Obedience
+description: "Enchantment compelling obedience; target serves caster with unwavering devotion."
+id: OzKv2XLiqN0IYtaQ
+img: icons/divination.svg
+shortcode: loyalty
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pneumenos
+  assocMysteryCode: ""
+  levelBase: 4
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Obedience
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster projects their will directly into the target's mind, installing a compulsion to obey that overrides the target's independent judgment. The compulsion manifests not as a voice commanding obedience but as a deep, almost physical conviction that the caster's instructions are correct and should be followed — like the certainty of a trusted authority figure's guidance, amplified to the point where questioning it feels wrong and uncomfortable.
+
+The target retains their full intelligence and personality but finds themselves unable to resist acting on the caster's directives, rationalizing their compliance even when the instructions conflict with their own interests or values. Subjects with strong will can resist to a degree, experiencing the compulsion as an internal conflict that slows their response and causes visible distress. The ethical implications are severe — Loyalty is arguably the most controversial spell in the Nouménos tradition, and its use on unwilling subjects is strictly forbidden by most arcane orders.

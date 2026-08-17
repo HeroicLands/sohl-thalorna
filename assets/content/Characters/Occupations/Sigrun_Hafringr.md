@@ -1,0 +1,598 @@
+---
+aliases:
+  - Sigrún Hafringr
+  - Sigrun Hafringr
+  - character-sgrnhfrngr
+tags:
+  - todo-warrior
+name:
+  full: Sigrún Hafringr
+  title: ""
+  given: Sigrún
+  clan: Hafringr
+  home: Stormveil
+  aliases: []
+id: aX3QjBvKNAp0mxDo
+folder: elH5NDPUuiRCICrE
+shortcode: sgrnhfrngr
+img: icons/person.svg
+draft: true
+portrait: images/being/sgrnhfrngr-portrait.webp
+type: character
+package: thalorna
+social:
+  occupation: Town Guard
+  station: soldiery
+  class: freeman
+  society: Aelwythan
+traits:
+  gender: female
+  age: 31
+  birthday: 689/1/27
+  height:
+    m: 1.8
+  weight:
+    kg: 80
+  build:
+    frame: heavy
+  appearance:
+    eye_color: dark_amber
+    hair_color: black
+    skin_color: dark_brown
+    complexion: ruddy
+    extra_features:
+      - burn mark on wrist
+gear:
+  weapons:
+    - Clb:1
+    - RndSh:1
+  armor:
+    - QSht:1
+    - torch:2
+  misc:
+    - backpk:1
+    - StdRations:3
+    - wtrskin:1
+sohl:
+  attributes:
+    agl: 10
+    aur: 10
+    cml: 12
+    cre: 12
+    dex: 11
+    elo: 9
+    emp: 12
+    end: 14
+    mor: 14
+    per: 11
+    rea: 13
+    str: 11
+    voi: 8
+    wil: 14
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 176
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: asguardian
+      type: affiliation
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 29
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: dge
+      type: skill
+      system:
+        masteryLevelBase: 21
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 31
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 55
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 17
+thalorna:
+  realm: jrldmstrmvld
+  region: aelwyth
+harnworld:
+  realm: ""
+  ritual: []
+---
+
+# Appearance {#appearance}
+
+Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist — a crescent of shiny, puckered skin — is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
+
+# Dossier {#dossier}
+
+Sigrún was born in a working-class Aelwythan community where her family operated a small weaving business. She grew up in relative poverty but with genuine community connection. At sixteen, her family's business failed due to competition from larger operations, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory economics that destroyed her family.
+
+At twenty-six, during a fire that consumed a warehouse in the market district, Sigrún was on patrol nearby. She heard a child screaming from the building and without conscious decision, she ran in. She rescued the child but was severely burned on her wrist in the process. The scar tissue there is substantial and painful on cold mornings. The incident made her locally famous and elevated her status from ordinary guard to community guardian.
+
+Now at thirty-one, she serves as market square guard with the reputation of someone who will rush into burning buildings for her community. This reputation is accurate but also somewhat misleading; Sigrún is methodical and careful in her actual work. She simply refuses to abandon people who are in danger, even when doing so would be professionally wise.
+
+## Psyche
+
+### Personality
+
+Sigrún is fierce and protective, moving through the market with the bearing of someone who owns the space. She speaks loudly and confidently, and has little patience for people who exploit the vulnerable. She is not cruel but she is not gentle to those she perceives as predatory. She has a fierce sense of humor and is capable of genuine warmth with people she respects. She carries herself with aggressive confidence that makes most people instinctively defer to her.
+
+### Motivation
+
+Sigrún's primary motivation is protecting her community—literally and figuratively. She wants the market square to be a safe place for working people and explicitly distrusts merchants and authorities who treat the poor as disposable. Her secondary motivation is preventing the kind of economic exploitation that destroyed her family. She is driven by both love for her community and anger at systems that prey upon it.
+
+### Strengths
+
+Her physical strength and capability are exceptional. She is genuinely fearless in the face of danger to others. She has sophisticated understanding of community dynamics and can read social situations accurately. Her willingness to personally intervene in dangerous situations makes her extraordinarily effective as a protective force.
+
+## Social
+
+Sigrún is beloved by the working-class community of the market square and deeply trusted by merchants of moderate means. She is distrusted and avoided by wealthy merchants who she has opposed, and treated with careful respect by city authorities who recognize her community support.
+
+## Companions
+
+### Patrons
+
+**Market Master Elyric Thornwell** — The administrator responsible for market square operations. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and ensured that her authority is recognized and backed by institutional power.
+
+### Enemies
+
+**Merchant Magnate Verath Coldstone** — A wealthy merchant who has been systematically buying up small businesses in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+
+## Plot Hooks
+
+1. **The Corporate Takeover** — Merchant Magnate Verath accelerates his acquisition of market businesses and Sigrún realizes his plan is to eliminate independent merchants entirely and monopolize the market under his control. He is using technically legal financial mechanisms to do so. Sigrún can see it happening but can barely stop any individual transaction. She attempts to warn merchants, but many are desperate enough to accept Verath's buyout offers. Sigrún considers more aggressive interference but that would exceed her authority. She must choose between accepting the takeover or taking extra-legal action to prevent it.
+
+2. **The Guard Station Politics** — Sigrún is reassigned to a different patrol area by a new commanding officer who is politically connected to Merchant Magnate Verath. The removal is officially justified by rotation policy but everyone recognizes it as punishment for her opposition to Verath. Sigrún is devastated by the separation from her community. She can accept the reassignment quietly or openly challenge it, knowing that confrontation will damage her career.
+
+3. **The Innocent Arrest** — A young person from the working-class community, someone Sigrún has mentored, is accused of stealing from a wealthy merchant. The evidence appears strong but Sigrún knows the young person and is convinced of his innocence. Investigation reveals that Merchant Magnate Verath planted false evidence to discredit and arrest the young person as retaliation against Sigrún's opposition. Sigrún must decide whether to publicly expose Verath's corruption (which would require revealing how she knows about the false evidence, which means admitting she tampered with the official investigation) or allow an innocent person to be convicted.
+
+4. **The Fire Again** — Another fire breaks out in the market district, this time in a building that Sigrún recognizes as recently purchased by Verath. Evidence suggests it was deliberately set to destroy the previous leaseholder's inventory and force them into financial failure. Sigrún can see the fire and knows people are inside. She must choose between rushing in to rescue people (which has already burned her once and could kill her) or maintaining professional distance and reporting it properly.
+
+5. **The Community's Betrayal** — Sigrún discovers that someone in her community—someone she trusts—has been secretly working with Merchant Magnate Verath, feeding him information about which merchants are vulnerable to takeover. The betrayal is personal and painful. The person involved claims they had no choice because Verath had leverage over them (debt, family threats, something). Sigrún must decide whether to expose the betrayal (which punishes the person) or protect them (which allows Verath to continue exploiting the community).

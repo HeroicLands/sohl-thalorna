@@ -1,0 +1,39 @@
+---
+aliases:
+  - Skorrborg
+  - doc-skorrborg
+id: RceXRNNJJjThvqSo
+type: doc
+category: settlement
+settlementType: "Fortified Town"
+population: null
+languages:
+  - nordmalngg
+pantheons:
+  - asguardian
+package: thalorna
+name:
+  full: Skorrborg
+  aliases: []
+shortcode: skorrborg
+parent:
+  polities:
+    - kingdomlgn
+  regions:
+    - nrdlndsrgn
+folder: 3JdV0mOrMUISPmRz
+---
+
+# Skorrborg
+
+## Overview
+
+_To be written._
+
+## Notable Features
+
+_To be written._
+
+## Notable Figures
+
+_To be written._

@@ -36,7 +36,7 @@
         "compatibility": {
           "minimum": "0.4.0",
           "verified": "0.4.3"
-	      }
+        }
       }
     ]
   },
@@ -45,13 +45,7 @@
       "name": "Thalorna",
       "sorting": "m",
       "color": "#008000",
-      "packs": [
-        "items",
-        "actors",
-	      "macros",
-	      "scenes",
-        "journals"
-      ]
+      "packs": ["items", "actors", "macros", "scenes", "journals"]
     }
   ],
   "packs": [
@@ -116,28 +110,28 @@
       }
     }
   ],
-      "media": [
-        {
-            "type": "setup",
-            "url": "systems/sohl/assets/ui/sohl-setup.webp",
-            "thumbnail": "systems/sohl/assets/ui/sohl-setup-thumb.webp"
-        },
-        {
-            "type": "logo",
-            "url": "systems/sohl/assets/ui/sohl-logo.webp"
-        },
-        {
-            "type": "icon",
-            "url": "systems/sohl/assets/ui/sohl-icon.webp"
-        },
-        {
-            "type": "banner",
-            "url": "systems/sohl/assets/ui/sohl-banner.webp"
-        }
-    ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "systems/sohl/assets/ui/sohl-setup.webp",
+      "thumbnail": "systems/sohl/assets/ui/sohl-setup-thumb.webp"
+    },
+    {
+      "type": "logo",
+      "url": "systems/sohl/assets/ui/sohl-logo.webp"
+    },
+    {
+      "type": "icon",
+      "url": "systems/sohl/assets/ui/sohl-icon.webp"
+    },
+    {
+      "type": "banner",
+      "url": "systems/sohl/assets/ui/sohl-banner.webp"
+    }
+  ],
   "socket": true,
-    "url": "",
-    "bugs": "",
-    "manifest": "",
-    "download": ""
+  "url": "",
+  "bugs": "",
+  "manifest": "",
+  "download": ""
 }

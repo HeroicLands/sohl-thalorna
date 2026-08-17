@@ -1,0 +1,34 @@
+---
+aliases:
+  - Lance
+  - mysticalability-pierce
+tags: []
+name:
+  full: Pierce
+  aliases:
+    - Lance
+description: "Projectile of force; penetrates armor and causes bleeding wounds."
+id: Ej9yjfQX9Oww8Qay
+img: icons/anvil.svg
+shortcode: pierce
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: sideros
+  assocMysteryCode: ""
+  levelBase: 6
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Lance
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster conjures a lance of dense, gleaming metal that hovers momentarily at their shoulder before launching itself at the target with tremendous velocity. The projectile is supernaturally hard and penetrates with force far beyond what its size would suggest — punching through wooden shields, denting plate armor, and embedding itself deeply in stone walls. The impact transfers devastating kinetic energy to whatever it strikes, and the metallic lance remains lodged in the target as solid physical evidence of the assault.
+
+The lance can be directed at any target within line of sight, its trajectory adjustable during the brief moment before launch. Multiple lances can be summoned in rapid succession by powerful practitioners, creating a withering barrage that overwhelms defensive positions. The conjured metal is genuine and permanent — lances that miss their target can be recovered and used as improvised spears or melted down for their metal content. The spell is the primary ranged offensive capability of the Sidéros tradition.

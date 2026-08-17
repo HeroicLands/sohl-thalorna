@@ -1,0 +1,30 @@
+---
+aliases:
+  - "Ritual: Rā"
+  - The Solar Flame
+  - Rā
+  - Ra
+  - skill-ra
+tags:
+  - kemetian
+  - faith-skill
+type: skill
+package: thalorna
+id: TEz50VjVg3O2qT7X
+shortcode: ra
+name:
+  full: "Ritual: Rā"
+  aliases: []
+sohl:
+  subType: mystical
+  skillBaseFormula: "@wil, @rea"
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  archetype: null
+folder: dxhPBmJv9YgSa4dJ
+---
+
+See [[affiliation-ra|Faith of Rā]]

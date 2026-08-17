@@ -1,0 +1,98 @@
+---
+aliases:
+  - Thalorna
+  - The World of Thalorna
+  - doc-worldthlrn
+id: ZwEe2tr8ed7HSXG4
+type: doc
+category: world
+folder: wCi1zv06QgydQQoL
+package: thalorna
+name:
+  full: The World of Thalorna
+  aliases: []
+shortcode: worldthlrn
+cascade:
+  - target:
+      kind: section
+    build:
+      render: never
+      list: never
+---
+
+Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
+
+For pantheon-to-region mapping, see [[doc-pnthnrgnlmp|Pantheon Regional Map]].
+
+# Continents
+
+```dataview
+TABLE WITHOUT ID
+    link(file.path, name.full) AS "Continent",
+    description AS "Overview"
+WHERE category = "continent"
+SORT name.full ASC
+```
+
+## The Elder Races
+
+Before humanity, before empires, before recorded history, Thalorna was home to two older peoples whose presence stretches back at least seven thousand years before the Founding — and probably far longer.
+
+### Sinalë
+
+The [[doc-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Ordo Arcanis]] can systematize. The Sinalë live in hidden enclaves — deep forests, mist-shrouded valleys, island sanctuaries — scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[doc-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalëan communities for centuries; the [[doc-empiretnvr|Empire of Tānvür]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[doc-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
+
+### Khazári
+
+The [[doc-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft — metalwork, stonework, engineering — is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+
+### The Old Compact
+
+In the deepest past, the Sinalë and the Khazári lived and worked together under some form of shared accord — what fragmentary traditions call the Old Compact. This cooperation produced wonders that neither race could have achieved alone. But something shattered the Compact in an age before human memory, and the two elder races separated completely. They do not speak to each other. They do not trade. Neither will discuss the breach with humans. Whatever happened, it has not been forgiven across thousands of years of silence.
+
+# Pantheons
+
+```dataview
+TABLE WITHOUT ID
+    link(file.path, name.full) AS "Pantheon",
+    description AS "Overview"
+WHERE category = "pantheon"
+SORT name.full ASC
+```
+
+# Characters
+
+Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between — the people whose choices shape the world's ongoing history. Browse the full catalog at [**/thalorna/character/**](/thalorna/character/), or discover them in context on the regions, polities, and faiths where they live.
+
+# Creatures
+
+From the great river-beasts of Ta'Kheperu to the mountain-wights of Aelwyth and the spirit-fauna of the Central Rainforests, Thalorna's creatures are as varied as its peoples. Browse the full catalog at [**/thalorna/creature/**](/thalorna/creature/).
+
+# Companies
+
+Adventuring bands, mercenary companies, and sworn fellowships whose members travel, fight, trade, and survive together.
+
+```dataview
+TABLE WITHOUT ID
+    link(file.path, name.full) AS "Company",
+    description AS "Overview"
+WHERE category = "company"
+SORT name.full ASC
+```
+
+# Organizations
+
+Institutions, guilds, orders, and syndicates that shape Thalornan civilization from within and without.
+
+```dataview
+TABLE WITHOUT ID
+    link(file.path, name.full) AS "Organization",
+    description AS "Overview"
+WHERE category = "organization"
+SORT name.full ASC
+```
+
+# See Also
+
+- [[doc-lnggsthlrn|Languages of Thalorna]]
+- [[doc-pnthnrgnlmp|Pantheon Regional Map]]

@@ -1,0 +1,743 @@
+---
+aliases:
+  - Xerôphôn Kâlmâkanês
+  - Xerôphôn Kâlmâkanês
+  - Xerophon Kalmakanes
+  - character-xrphnklmkns
+tags:
+  - heroes-and-knaves
+name:
+  full: Xerôphôn Kâlmâkanês
+  title: ""
+  given: Xerôphôn
+  clan: Kâlmâkanês
+  home: Ashenmere
+  aliases: []
+id: pOqNxorvMT9K0YFZ
+folder: UFBfgKZUF0bAE7gG
+shortcode: xrphnklmkns
+img: icons/person.svg
+portrait: images/being/xrphnklmkns-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: provncmktr
+  region: vylariargn
+social:
+  occupation: Gaoler
+  station: soldiery
+  class: freeman
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: male
+  age: 39
+  birthday: 681/5/18
+  height:
+    m: 1.8
+  weight:
+    kg: 78
+  build:
+    frame: medium
+  appearance:
+    eye_color: green
+    hair_color: dark_brown
+    skin_color: tanned
+    complexion: weathered
+    extra_features:
+      - a scar on the left ear
+sohl:
+  attributes:
+    str: 14
+    end: 15
+    dex: 12
+    agl: 10
+    per: 13
+    cml: 9
+    aur: 11
+    wil: 14
+    rea: 13
+    cre: 10
+    emp: 11
+    elo: 10
+    mor: 12
+    voi: 11
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 172
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: venusia
+      type: affiliation
+    - shortcode: brew
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: hrld
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: law
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 40
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 10
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 44
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 44
+    - shortcode: hide
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: lock
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: mill
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: Maul
+      type: weapongear
+    - shortcode: LShirt
+      type: armorgear
+    - shortcode: LTrsr
+      type: armorgear
+    - shortcode: LtKBoot
+      type: armorgear
+    - shortcode: MVest
+      type: armorgear
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: FRtns
+      type: miscgear
+      system:
+        quantity: 2
+    - type: miscgear
+      name: Iron key ring
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Shackles and restraint chains
+      system:
+        weight: 3
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Guard's whistle
+      system:
+        weight: 0.1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Prison logbook
+      system:
+        weight: 0.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Whetstone
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: bpchlg
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Xerôphôn stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, sculpted cheeks. A distinguishing mark is a scar on the left ear.
+
+# Dossier {#dossier}
+
+**The Soldier's Path**
+
+Xerôphôn was not born to the work of imprisonment. He entered adulthood as a soldier of the City Watch in Moktur, the capital of the Empire of Vylaria, distinguishing himself as a reliable, methodical officer willing to perform the less glamorous work of law enforcement. Where younger officers sought glory and advancement through dramatic arrests or visible patrols, Xerôphôn specialized in the tedious work of evidence gathering, procedural documentation, and the patient questioning of suspects. His superiors recognized in him an unusual combination: a man of genuine integrity who refused to participate in corruption, coupled with the flexibility to understand that law existed on a spectrum and that rigid application of rules without consideration of context served justice poorly.
+
+**The Jailer's Burden**
+
+At the age of twenty-one, following a street altercation that left him with the scar on his ear—a wound inflicted by a suspect's desperate blade—Xerôphôn made the difficult choice to move from street patrol to incarceration work. The Empire of Vylaria operated an extensive prison system, and the position of Jailer—a guard supervisor responsible for the daily management and discipline of confined prisoners—carried significant authority and responsibility. Xerôphôn's eighteen years in this position have been marked by a reputation for fairness, consistency, and an almost eerie competence in maintaining order without resorting to excessive violence. He understands prison psychology in an intuitive way, recognizing the hierarchies and tensions that develop among confined populations, and he manages these forces with the delicacy of someone playing a complex game while aware that a single miscalculation could result in riot and death.
+
+**The Iron Structure**
+
+Over nearly two decades, Xerôphôn has become, in many respects, the de facto ruler of the largest detention facility in Moktur. Prison officials defer to his judgment regarding prisoner classification, security protocols, and disciplinary measures. Younger guards look to him for guidance and mentorship. Even the prisoners, despite their natural enmity toward their captors, recognize in him a man of rigid principle who maintains order through consistent, predictable responses rather than through arbitrary cruelty. This is not to suggest that Xerôphôn is gentle—he is not. He is, however, just, and in the context of prison, justice is a form of mercy.
+
+**The Approaching Obsolescence**
+
+Now at thirty-nine winters, Xerôphôn finds himself increasingly aware of generational change within his profession. A new cadre of younger guards, trained in increasingly sophisticated methods of control and surveillance, approaches imprisonment more like a technical problem than a human one. They speak of innovative systems and new chains and technologies that promise to reduce the need for the kind of intuitive, constant attention that Xerôphôn has made his life's work. He senses, though it has not been explicitly stated, that his position may eventually become redundant, superseded by systems that promise greater efficiency and lower cost. This awareness does not frighten him as such, but it fills him with a subtle sense of ending, of a way of life approaching its natural conclusion.
+
+## Psyche
+
+### Personality
+
+Xerôphôn is a man of extreme discipline, emotional economy, and almost monastic dedication to principle. He speaks sparingly, and when he does, his words are direct and unadorned. He does not traffic in flattery, small talk, or social niceties that serve no functional purpose. This can read to those unused to him as coldness or even cruelty, but those who work closely with him understand that his directness is actually a form of respect—he treats everyone with sufficient regard to be truthful rather than soothing.
+
+Beneath the stern exterior lies a profound sense of duty that borders on the theological. Xerôphôn genuinely believes that his work matters—that the maintenance of order, the enforcement of consequence, and the containment of those judged dangerous are not merely functions but moral necessities. This belief sustains him through the grimness of his daily work and prevents the cynicism that affects many in similar positions.
+
+Paradoxically, Xerôphôn possesses a subtle capacity for compassion that he carefully constrains to prevent it from compromising his effectiveness. He will, on rare occasions, extend a small mercy—a slightly better treatment, a quiet word of encouragement to a prisoner genuinely attempting reform—because he understands that complete dehumanization serves no constructive purpose. However, these mercies are offered carefully and never in ways that would suggest weakness or inconsistency.
+
+### Motivation
+
+Xerôphôn is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the Aurèldián Pantheon's emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks not glory or advancement but rather to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
+
+### Strengths
+
+- **Authoritative Presence**: Xerôphôn's bearing and voice command immediate respect and obedience. His ability to establish and maintain control over potentially dangerous populations is exceptional and relies primarily on consistency rather than excessive force.
+- **Profound Knowledge of Human Nature**: His nearly two decades managing confined populations have given him remarkable insight into human psychology, deception, and the subtle indicators of danger or instability.
+- **Systematic Competence**: He excels at organizing complex systems, managing hierarchies, maintaining records, and establishing protocols that allow large numbers of people to coexist in close quarters without disorder.
+- **Unquestionable Integrity**: No one—from the highest official to the lowest prisoner—questions Xerôphôn's commitment to his stated principles. His word is considered absolutely reliable.
+
+### Weaknesses
+
+- **Inflexibility**: Xerôphôn's commitment to consistent application of rules sometimes prevents him from recognizing when situations call for flexibility or when circumstances have changed enough to justify different approaches.
+- **Emotional Distance**: His discipline and reserve, while useful in his profession, can prevent genuine connection with others. He struggles to communicate in ways that acknowledge emotional reality or individual human complexity.
+- **Resistance to Innovation**: He views new systems and methods with suspicion, believing that proven approaches are inherently superior to untested innovation, sometimes preventing adoption of genuinely beneficial changes.
+- **Limited Vision Beyond Duty**: Xerôphôn has organized his entire life around his role as Jailer. He has little sense of self or purpose beyond this function and faces genuine existential uncertainty as he contemplates eventual retirement or diminishment of his position.
+
+## Social
+
+### Patrons
+
+- **Commander Vâlaris of the City Watch**: The highest official in Moktur's law enforcement structure who values Xerôphôn's judgment and regularly defers to his recommendations regarding prison management.
+- **The Imperial Council of Moktur**: Various officials who have depended upon Xerôphôn's discretion and integrity in managing sensitive prisoners and classified matters.
+- **Magistrate Théodôr the Strict**: A justice official known for harsh sentencing who appreciates Xerôphôn's reliable implementation of punishment and consequence.
+
+### Enemies
+
+- **Ferûn the Escaped**: A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Xerôphôn's reputation for complete control, and Ferûn remains in the facility as a subtle ongoing insult to his authority.
+- **Warden Kasânder**: The political administrator appointed to manage the prison bureaucratically, a man who Xerôphôn views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring profound disdain for one another.
+- **The Brotherhood of the Freed**: A criminal organization dedicated to liberating imprisoned members through violence, bribery, or escape. Xerôphôn has thwarted multiple attempts at incarcerated members' release, making him a known enemy to the organization.
+
+### Affiliations
+
+- **The City Watch of Moktur**: Xerôphôn maintains formal affiliation with the Watch though he works primarily in the prison system, and his judgment on matters of law enforcement carries significant weight.
+
+## Plot Hooks
+
+1. **The Political Prisoner**: A high-status prisoner of unclear guilt is placed under Xerôphôn's custody, with covert instructions from government officials to ensure the prisoner's "safety" while also effectively removing them from political relevance. Xerôphôn begins to suspect that the prisoner is innocent and that corruption exists at the highest levels of government. The party becomes entangled when they discover that the prisoner actually committed the crime they're charged with, but other powerful people have orchestrated the imprisonment to consolidate power. Xerôphôn must decide whether to maintain order and follow orders or to act on suspicions that challenge the legitimacy of his entire system.
+
+2. **The Brotherhood's Infiltration**: The Brotherhood of the Freed successfully places an agent inside the prison disguised as a guard. This agent slowly begins to organize a coordinated escape attempt and to subtly undermine Xerôphôn's control without making it obvious. Xerôphôn becomes increasingly aware that something is wrong but cannot identify the source of the problem. The party must help him investigate and identify the infiltrator before a major uprising occurs, all while Xerôphôn struggles with the realization that his control was not as complete as he believed.
+
+3. **The Innocence Revelation**: Xerôphôn discovers irrefutable evidence that a prisoner he has overseen for eight years is actually innocent of the crime for which they were imprisoned, imprisoned through judicial error or deliberate framing. The prisoner is long resigned to their fate, but Xerôphôn becomes obsessed with securing their release or pardon. This personal quest puts him in conflict with the legal system he has served his entire life, forcing him to either undermine his own role or compromise his integrity.
+
+4. **The Reformer's Challenge**: A progressive new administrator is appointed to manage the prison system and introduces sweeping changes to Xerôphôn's carefully maintained protocols—new surveillance systems, different discipline approaches, altered hierarchies designed to reduce guard authority. Xerôphôn is convinced these changes will result in chaos and bloodshed, and he is partially correct, though not entirely in the ways he anticipates. The party must navigate the conflict between Xerôphôn's proven expertise and the genuine value of reform, helping both the old systems and new approaches to coexist or resolve their contradiction.
+
+5. **The Escape Conspiracy**: A particularly dangerous and charismatic prisoner, recognized to have significant support among the general population, is discovered to be planning an elaborate escape. However, the party and Xerôphôn gradually realize that the escape is actually a cover for a larger conspiracy—possibly involving officials outside the prison, possibly involving external organizations with stakes in the prisoner's freedom or death. As they unravel the conspiracy, they must determine whether the prisoner should be prevented from escaping, allowed to escape and tracked, or whether the conspiracy represents a threat to the city itself that transcends the prisoner's individual significance.

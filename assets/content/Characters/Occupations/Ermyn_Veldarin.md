@@ -1,0 +1,597 @@
+---
+aliases:
+  - Êrmyn Véldarin
+  - Ermyn Veldarin
+  - character-ermynvldrn
+tags:
+  - todo-warrior
+name:
+  full: Êrmyn Véldarin
+  title: ""
+  given: Êrmyn
+  clan: Véldarin
+  home: ""
+  aliases: []
+id: QnBow8w3Ndr86Zfn
+folder: 4cwfdMa34UryZqPR
+shortcode: ermynvldrn
+img: icons/person.svg
+draft: true
+portrait: images/being/ermynvldrn-portrait.webp
+type: character
+package: thalorna
+social:
+  occupation: Town Guard
+  station: soldiery
+  class: freeman
+  society: Élavendren
+traits:
+  gender: male
+  age: 23
+  birthday: 697/6/8
+  height:
+    m: 1.72
+  weight:
+    kg: 58
+  build:
+    frame: light
+  appearance:
+    eye_color: dark_brown
+    hair_color: gray
+    skin_color: medium
+    complexion: rugged
+    extra_features: []
+gear:
+  weapons:
+    - ShrtSwd:1
+    - Bklr:1
+  armor:
+    - QSht:1
+    - torch:2
+  misc:
+    - backpk:1
+    - StdRations:3
+    - wtrskin:1
+sohl:
+  attributes:
+    agl: 13
+    aur: 9
+    cml: 10
+    cre: 9
+    dex: 10
+    elo: 8
+    emp: 8
+    end: 12
+    mor: 14
+    per: 10
+    rea: 12
+    str: 11
+    voi: 8
+    wil: 10
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 128
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: arldnpnthn
+      type: affiliation
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 40
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 27
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: dge
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 21
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 35
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 19
+thalorna:
+  realm: kngdmlvndr
+  region: elavendre
+harnworld:
+  realm: ""
+  ritual: []
+---
+
+# Appearance {#appearance}
+
+Êrmyn is slight — 5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine — narrow jaw, high cheekbones, a thin nose — with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit — leather tunic, quilted padding, soft boots — but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
+
+# Dossier {#dossier}
+
+Êrmyn was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near Élavendre's forest edge—a community that specialized in accepting refugees and integrating them into its life.
+
+At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other marketable skills. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive hypervigilance, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
+
+At twenty-three, he has served five years in the town guard and has earned the respect of older, more experienced officers. His prematurely gray hair—a stress response that began during his refugee years—has become his identifying feature. He speaks quietly, often barely audible, and uses fewer words than almost anyone in his town. His reputation is for being the guard who notices things others miss and who remains calm under stress.
+
+## Psyche
+
+### Personality
+
+Êrmyn is quiet to the point of seeming mute. He speaks only when necessary and often seems to be observing rather than participating. He is extraordinarily aware of his surroundings and reads danger signs that others miss. He is not unfriendly but is deeply private about his internal emotional state. He has learned not to trust easily, and his relationships are characterized by caution. He moves with the deliberate silence of someone for whom noise can be dangerous.
+
+### Motivation
+
+Êrmyn's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants to ensure that others do not experience the suffering he endured.
+
+### Strengths
+
+His awareness of danger is preternatural. His ability to move silently and remain unnoticed is exceptional. His physical competence is solid and reliable. His emotional restraint allows him to remain calm under stress that would destabilize others.
+
+## Social
+
+Êrmyn is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but his obvious trauma and emotional distance make people uncomfortable in extended interaction with him. He is welcomed but not fully accepted.
+
+## Companions
+
+### Patrons
+
+**Town Magistrate Aelwen Forestsong** — The administrator of the forest-edge town. Aelwen was instrumental in the refugee integration program and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education and personal development.
+
+### Enemies
+
+**Local Extremist Kessian Forestborn** — A Élavendren traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Êrmyn's presence in the guard. He spreads rumors that Êrmyn is a spy for external powers and that his refugee background makes him untrustworthy.
+
+## Plot Hooks
+
+1. **The Refugee Crisis Revisited** — A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Êrmyn a decade ago. The new arrivals include people Êrmyn knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Êrmyn is personally invested in their survival but must maintain professional impartiality. Kessian uses the crisis to demand that Êrmyn be dismissed as potentially biased in favor of refugees.
+
+2. **The Personal Recognition** — One of the new refugees recognizes Êrmyn and reveals knowledge about Êrmyn's parents' deaths that Êrmyn has repressed—traumatic details that Êrmyn has blocked from memory as a survival mechanism. The refugee is offering to tell him the truth. Êrmyn must choose whether to face trauma he has spent years avoiding or preserve his psychological stability by refusing to know.
+
+3. **The Extremist's Escalation** — Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Êrmyn can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Aelwen asks him to find a way to stop Kessian. Êrmyn must choose between legal restraint and practical prevention.
+
+4. **The Forest Revelation** — While patrolling the forest-edge, Êrmyn discovers evidence of an Élavendren government military operation that appears to be deliberately targeting refugee settlements beyond Élavendre's official borders. The operation is technically operating in foreign territory and therefore outside Élavendren's jurisdiction. But the refugees being targeted are people Êrmyn knows and cares about. Reporting this to Town Magistrate Aelwen would be reporting his own government to someone outside it, technically treason. Not reporting means allowing refugees to be assassinated.
+
+5. **The Spy's Truth** — Êrmyn discovers evidence that the accusation Kessian made—that Êrmyn is a spy—is partially accurate. Someone has been using Êrmyn's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Êrmyn learns that the coercion involves threats against family members. Êrmyn must choose between exposing the coercion (which requires revealing how he obtained the evidence, admitting he was investigating the accusation Kessian made) or protecting the coerced refugee while allowing the intelligence gathering to continue.

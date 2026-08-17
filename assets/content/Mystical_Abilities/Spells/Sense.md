@@ -1,0 +1,34 @@
+---
+aliases:
+  - Feel
+  - mysticalability-sense
+tags: []
+name:
+  full: Sense
+  aliases:
+    - Feel
+description: "Grants empathic perception; detects nearby emotions and thoughts."
+id: AGDIBlqVdMHfEas9
+img: icons/divination.svg
+shortcode: sense
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pneumenos
+  assocMysteryCode: ""
+  levelBase: 2
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Feel
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster opens their awareness to the emotional landscape of a chosen individual, and feelings that would normally be hidden behind composure and social convention become perceptible as distinct, almost tangible impressions. Fear presents as a cold tightness in the caster's own chest. Anger arrives as heat behind the eyes. Joy manifests as a lightness, grief as a leaden heaviness, and the complex layered emotions of an intelligent mind reveal themselves as intricate patterns of sensation.
+
+The empathic connection is one-directional — the caster perceives the target's emotions without broadcasting their own. It cannot read thoughts, access memories, or discern the specific causes of what the target feels; a perception of fear reveals that the target is afraid but not of what. Skilled practitioners learn to distinguish between emotions the target is actively experiencing and those they are suppressing, and between genuine feelings and those the target is performing for social purposes.

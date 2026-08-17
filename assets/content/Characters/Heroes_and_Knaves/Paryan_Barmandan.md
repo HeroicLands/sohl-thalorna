@@ -1,0 +1,769 @@
+---
+aliases:
+  - Paryan Barmandan
+  - character-prynbrmndn
+tags:
+  - heroes-and-knaves
+name:
+  full: Paryan Barmandan
+  title: ""
+  given: Paryan
+  clan: Barmandan
+  home: Golshahr
+  aliases: []
+id: 84mKejK7twbhw2Vo
+folder: V1t8DVX0wKSOCJd5
+shortcode: prynbrmndn
+img: icons/person.svg
+portrait: images/being/prynbrmndn-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: sultntmrdd
+  region: amradadrgn
+social:
+  occupation: Jeweller
+  station: tradesfolk
+  class: guilded
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: female
+  age: 29
+  birthday: 691/10/25
+  height:
+    m: 1.73
+  weight:
+    kg: 67.1
+  build:
+    frame: light
+  appearance:
+    eye_color: green
+    hair_color: black
+    skin_color: light
+    complexion: ""
+    extra_features: []
+sohl:
+  attributes:
+    str: 11
+    end: 12
+    dex: 15
+    agl: 14
+    per: 16
+    cml: 14
+    aur: 12
+    wil: 12
+    rea: 13
+    cre: 18
+    emp: 13
+    elo: 12
+    mor: 15
+    voi: 13
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 148
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: aravesta
+      type: affiliation
+    - shortcode: brew
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: script
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: mnrl
+      type: skill
+      system:
+        masteryLevelBase: 75
+    - shortcode: smsh
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 32
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 16
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 16
+    - shortcode: jewl
+      type: skill
+      system:
+        masteryLevelBase: 64
+    - shortcode: mtlc
+      type: skill
+      system:
+        masteryLevelBase: 65
+    - shortcode: txtl
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: Dgr
+      type: weapongear
+    - shortcode: WShirt
+      type: armorgear
+    - shortcode: WTrsr
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - type: miscgear
+      name: Jewelry-making tools (set)
+      system:
+        weight: 2
+        value: 50
+        durability: 4
+    - type: miscgear
+      name: Polishing cloths and materials
+      system:
+        quantity: 3
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Gems and semi-precious stones (various)
+      system:
+        quantity: 5
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Metalworking supplies
+      system:
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Design sketches (portfolio)
+      system:
+        quantity: 1
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Parchment and charcoal (drawing supplies)
+      system:
+        weight: 1.5
+        value: 100
+        durability: 3
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: FRtns
+      type: miscgear
+    - shortcode: wtrskin
+      type: containergear
+    - shortcode: bgsmcvs
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, prominent brows.
+
+# Dossier {#dossier}
+
+**Early Life and Apprenticeship**
+
+Paryan was born in the Sultanate of Amradad to a family of modest but respected standing. Her father was a merchant of moderate success, her mother a woman of noble birth who had married down for love. Paryan showed no early aptitude for either commerce or noble pursuits; instead, she was drawn to the material world in a different way—she loved the play of light on surfaces, the way colors shifted and harmonized, and the transformation of raw materials into objects of beauty. At age twelve, she was apprenticed to **Master Dhavani**, one of the greatest jewelers in the Sultanate, a woman whose reputation extended beyond Amradad to the distant cities of neighboring realms.
+
+Under Dhavani's mentorship, Paryan learned not merely the technical skills of jewelry-making—the metalworking, stone-setting, and detailed artisanal techniques—but also the deeper philosophy of her craft. Dhavani taught that jewelry was a form of conversation between maker and wearer, that each piece should tell a story, that the finest work honored both the beauty of materials and the beauty of the human form that would display it. More importantly, Dhavani modeled a kind of creative fearlessness: she was willing to experiment, to combine materials in unexpected ways, to honor tradition while pushing its boundaries.
+
+**Journey to Mastery**
+
+Paryan progressed with remarkable speed through her apprenticeship, achieving journeyman status by age eighteen and master status by age twenty-three. Her distinctive style emerged early: she was known for integrating unusual materials—incorporating gemstones in unexpected ways, combining metals that tradition suggested should not be paired, designing pieces that challenged conventional notions of symmetry and balance. Her work attracted the attention of wealthy collectors and discerning patrons who valued innovation over merely expensive traditionalism. She established her own workshop at age twenty-five and has spent the last four years building a reputation as one of the most creative and technically skilled jewelers in the Sultanate.
+
+**Current Situation**
+
+Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. The guild has begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. Additionally, she has attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
+
+## Psyche
+
+### Personality
+
+Paryan is a woman of genuine warmth combined with focused intensity. She approaches her work with the kind of deep engagement that others sometimes mistake for obsession: when engaged in designing or creating a piece, she can lose track of time and physical needs, entering a state of creative flow where the work seems to flow through her rather than from her. This intensity does not extend to all areas of her life; she is relaxed and conversational with friends, enjoying music, dancing, and the social pleasures of her community.
+
+She possesses a creative mind that makes unexpected connections and sees possibilities where others see limitations. This same quality that makes her an extraordinary artist sometimes makes her impractical in business matters—she undercharges for her work because she struggles to quantify the value of her creative contribution, and she becomes so engaged in the technical and artistic challenges of a commission that she sometimes extends the project far beyond the agreed timeline in pursuit of perfection.
+
+Despite her talent and growing fame, Paryan lacks arrogance. She is genuinely interested in others' perspectives on her work and welcomes thoughtful criticism. She is loyal to those she considers friends and generous with her time and skill when helping apprentices or assisting other artisans. There is a kind of innocence about her, a quality of being surprised and delighted by her own success, as if she still regards her work as primarily an act of creation rather than commerce.
+
+### Motivation
+
+Paryan's primary motivation is creative expression—the deep satisfaction that comes from transforming raw materials into something beautiful and meaningful. She is driven by the desire to create pieces that will become part of people's lives in significant ways, jewelry worn at important moments, items treasured and passed down to future generations. There is a spiritual dimension to her motivation; she worships Árávēštä, the deity of prosperity and abundance, and she understands her craft as a form of honoring the goddess by creating beauty and value in the world.
+
+Beyond the creative satisfaction, Paryan is also motivated by a desire for recognition and validation. She wants to be acknowledged as a master of her craft, wants her name to become synonymous with excellence and innovation. There is a competitive element to this—a desire to prove that her approaches and innovations are superior to conventional techniques. She is also motivated by a kind of romantic idealism about her craft, believing that jewelry has the power to transform how people see themselves and the world, and that creating meaningful pieces is therefore a form of service to humanity.
+
+### Strengths
+
+- **Extraordinary Technical Mastery**: Paryan's jewelcraft score of 16 across 4 levels, combined with her metalcraft (13 across 5 levels), drawing (16), and dexterity (15), give her the ability to execute any technical jewelcraft with extraordinary precision and artistry. She can work with difficult materials and create pieces of stunning technical complexity.
+
+- **Visionary Artistic Sense**: Her creativity score of 18 paired with her perception (16) and her diverse skill training (particularly in drawing, dancing, and singing) give her an intuitive grasp of aesthetics, proportion, and harmony. She can envision pieces that transcend conventional jewelry design and create works that are both technically perfect and artistically innovative.
+
+- **Material Mastery**: Her high mineralogy skill (15 across 5 levels) combined with her practical experience means she understands the properties, sources, and potential applications of gems, metals, and other materials in extraordinary depth. She can identify rare materials, understand their value, and envision their best uses.
+
+- **Interpersonal Warmth and Charm**: Her charm (14 across 3 levels) and empathy (13) make her excellent at understanding what patrons want and building genuine relationships with them. Her customers often become devoted admirers and repeat patrons because she makes them feel understood and valued.
+
+- **Physical Capability**: Unlike many artisans, Paryan's moderate strength (11) and good agility (14), combined with her scores in various physical skills, mean she is capable of physically demanding work and can accompany the party on adventures without becoming a liability.
+
+### Weaknesses
+
+- **Commercial Naïveté**: Paryan struggles with the business aspects of her craft. She undercharges for her work because she cannot easily quantify the value of her creative contribution, and she struggles with the negotiation and pragmatism that successful business requires. This has resulted in her earning less than her talent warrants and occasionally being taken advantage of by unscrupulous patrons.
+
+- **Experimental Excess**: Her creativity and willingness to experiment, while artistically admirable, sometimes leads her to undertake projects that are technically impossible or to extend timelines indefinitely in pursuit of perfection. Some commissions take far longer than promised, frustrating patrons and occasionally creating financial strain.
+
+- **Emotional Sensitivity and Self-Doubt**: Her relatively low morality score (though 15 is still respectable) combined with her investment in her work means she is quite sensitive to criticism. Negative feedback about her work can send her into periods of self-doubt, and she struggles with the competitive elements of her guild.
+
+- **Limited Combat Capability**: While more physically capable than many artisans, Paryan has no formal training in weapons or combat. Her melee score is only 15 (good for survival but not for serious combat), and she would be vulnerable in violent confrontations.
+
+- **Distraction from Detail Work**: Paryan's high creativity and tendency to see new possibilities sometimes distract her from completing work. She can become so engaged in exploring new design directions that existing projects languish incomplete.
+
+## Social
+
+### Patrons
+
+- **The Royal Family of Amradad**: Several members of the royal family have commissioned pieces from Paryan, and her work is displayed in the royal treasury. Their patronage has significantly elevated her status.
+
+- **Master Dhavani**: Her former teacher, now semi-retired, continues to be her most trusted advisor and occasional patron. Dhavani commissions personal pieces from her and advocates for her work among the elite collectors she knows.
+
+- **The Jewellers' Guild**: While Paryan maintains an independent workshop, the guild occasionally commissions her to create pieces for official purposes or to contribute work to guild exhibitions and demonstrations.
+
+- **Wealthy Collectors and Merchants**: A growing circle of affluent patrons commission her work for personal collection or as gifts. These clients appreciate her innovation and are willing to pay premium prices for her distinctive designs.
+
+### Enemies
+
+- **Master Farrokh, Conservative Guild Master**: A senior figure in the Jewellers' Guild who represents the traditionalist faction, Farrokh views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear professional tension.
+
+### Affiliations
+
+- **The Jewellers' Guild of Amradad**: Paryan is a full member and recognized master of the guild, though her innovative approaches sometimes create tension with the more conservative elements of the organization.
+
+- **The Artisans' Collective**: Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of innovative artisans who support and inspire each other's work.
+
+## Plot Hooks
+
+1. **The Mysterious Commission**: A scholar and collector approaches Paryan with an extraordinary commission: to create a piece of jewelry with very specific symbolic properties and design requirements. The scholar hints that the piece will be used in magical or esoteric practices, though the specifics remain unclear. The payment offered is extraordinarily generous. As Paryan works on the commission, she gradually realizes that the symbols and properties the scholar demanded may be related to genuine magical application or that the piece might be intended for dangerous purposes. She must decide whether to continue the commission, seek to understand the true purpose of the piece, or refuse and risk losing the most lucrative commission of her life. The party might help her research the symbols, investigate the scholar's true intentions, or grapple with the ethical implications of creating art intended for potentially harmful purposes.
+
+2. **The Stolen Masterpiece**: Paryan's most significant creation—a piece that took her two years to complete and represents the pinnacle of her current technical and artistic mastery—is stolen from an exhibition or from a patron's home. The theft is sophisticated and deliberate, suggesting professional thieves working for a specific buyer. Paryan is devastated and determined to recover the piece. The party becomes involved in tracking the thieves, investigating who commissioned the theft, and ultimately recovering the work. The investigation might reveal that a wealthy collector in a distant land acquired the piece, or that the piece was stolen to suppress evidence of something, or that the theft is actually part of a larger conspiracy involving magical artifacts or political intrigue.
+
+3. **The Guild's Crisis**: Internal conflict within the Jewellers' Guild intensifies when the conservative faction, led by Master Farrokh, proposes new guild standards that would effectively prevent the kind of experimental work Paryan practices. They argue that standards must be maintained and that innovation without classical foundation undermines the craft. Paryan is asked to defend her approach and potentially to demonstrate that her innovations honor rather than violate the underlying principles of the craft. This involves creating a masterwork that synthesizes classical techniques and innovation, navigating guild politics, and ultimately deciding whether to remain within the guild or pursue independence. The party might help her research classical techniques, gather support from other guild members, or present her work in a formal proceeding.
+
+4. **The Collector's Obsession**: An eccentric and powerful noble from a distant land becomes obsessed with acquiring all of Paryan's work. He purchases every piece he can find through the open market and offers her an exclusive contract to become his personal artist, offering resources far beyond what she currently has access to. The offer is tempting but would isolate her from her community and potentially compromise her artistic integrity. Furthermore, the party might discover that the collector's true motivations are esoteric or magical—that he is gathering pieces that form part of a larger ritual or magical working. Paryan must navigate whether to accept patronage that offers greater resources, resist and maintain her independence, or investigate what the collector truly intends.
+
+5. **The Apprentice's Betrayal**: Paryan takes on a talented but troubled apprentice—a young person with genuine skill but emotional difficulties and a difficult family situation. Paryan, moved by compassion, mentors the apprentice generously and considers them almost a younger sibling. However, the apprentice is secretly working for a rival jeweler or a member of the conservative guild faction, gradually stealing Paryan's techniques and design innovations. When the betrayal is discovered, Paryan is devastated—not merely by the loss of her work, but by the breach of trust and the perception that her mentorship failed. The party becomes involved in exposing the betrayal, helping Paryan process her grief and anger, and deciding whether to pursue legal remedies or to try to redeem the apprentice who was, in part, a victim of circumstances.
+
+6. **The Magical Artifact**: During a commission to create jewelry for a noble family, Paryan discovers that one of the materials she was provided—a gem she was told was simply a rare but ordinary stone—actually possesses magical properties. The stone responds to her touch in unusual ways, and her creative visions for the piece become increasingly vivid and almost supernatural in their clarity. She begins to suspect that the stone itself is guiding her creative choices. The party becomes involved in investigating the stone's origin, researching its properties and history, and helping Paryan understand whether she is experiencing genuine magical guidance or psychological projection. The investigation might reveal that the stone is a rare artifact of significant power, that it is connected to historical events or prophecies, or that completing the piece the stone is guiding her to create could have far-reaching consequences.
+
+7. **The Master's Final Work**: Master Dhavani, now quite elderly and having recently been diagnosed with a grave illness, approaches Paryan with a final commission and a difficult request. The master wishes Paryan to create a memorial piece incorporating Dhavani's remains in some way—perhaps set with cremated ashes, or incorporating bones worked into the design, or some other means of memorial. The request is personally meaningful to both but also transgressive against guild standards and perhaps against local law or cultural sensibilities. Paryan must decide whether to honor her teacher's final request despite the transgression, and the party becomes involved in navigating the cultural, legal, and ethical complexities of creating such a piece, potentially gathering rare materials, and ultimately deciding how to honor the master's memory while respecting broader social norms.

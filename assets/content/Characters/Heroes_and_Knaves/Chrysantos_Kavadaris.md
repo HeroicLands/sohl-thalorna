@@ -1,0 +1,752 @@
+---
+aliases:
+  - Chrysántos Kavadáris
+  - Chrysántos Kavadáris
+  - Chrysantos Kavadaris
+  - character-chrysntskvdrs
+tags:
+  - heroes-and-knaves
+name:
+  full: Chrysántos Kavadáris
+  title: ""
+  given: Chrysántos
+  clan: Kavadáris
+  home: Thálassos
+  aliases: []
+id: BtMTHqs8q6Gckwb6
+folder: b81DHx3S7C9ep13E
+shortcode: chrysntskvdrs
+img: icons/person.svg
+portrait: images/being/chrysntskvdrs-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: byzarianlg
+  region: byzariargn
+social:
+  occupation: Locksmith
+  station: tradesfolk
+  class: guilded
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: male
+  age: 27
+  birthday: 693/10/2
+  height:
+    m: 1.78
+  weight:
+    kg: 68.9
+  build:
+    frame: light
+  appearance:
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: light
+    complexion: pale
+    extra_features:
+      - a tattoo of a fire on the leg
+sohl:
+  attributes:
+    str: 10
+    end: 11
+    dex: 13
+    agl: 10
+    per: 16
+    cml: 15
+    aur: 12
+    wil: 14
+    rea: 18
+    cre: 11
+    emp: 10
+    elo: 17
+    mor: 14
+    voi: 12
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 152
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: venusia
+      type: affiliation
+    - shortcode: brew
+      type: skill
+      system:
+        masteryLevelBase: 17
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 34
+    - shortcode: embl
+      type: skill
+      system:
+        masteryLevelBase: 17
+    - shortcode: eng
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 16
+    - shortcode: math
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: mrcn
+      type: skill
+      system:
+        masteryLevelBase: 85
+    - shortcode: pfmy
+      type: skill
+      system:
+        masteryLevelBase: 17
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 17
+    - shortcode: script
+      type: skill
+      system:
+        masteryLevelBase: 85
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 50
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: anmcft
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 16
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 10
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: cmcs
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: glas
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: masn
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: txtl
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: LShirt
+      type: armorgear
+    - shortcode: WTrsr
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - shortcode: WClk
+      type: armorgear
+    - type: miscgear
+      name: Leather briefcase for trade documents
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Samples of goods (spices, textiles)
+      system:
+        quantity: 5
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Trade agreements and contracts
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Personal merchant ledger
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: tndrbx
+      type: miscgear
+    - type: miscgear
+      name: Ink and writing quills
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: bpchlg
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Chrysántos stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a fire on the leg.
+
+# Dossier {#dossier}
+
+Chrysántos was born the second son of a wealthy Byzarian merchant family with trading interests throughout the League's territories. His older brother inherited the family's primary commercial enterprises; Chrysántos received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an underserved market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources throughout the known world.
+
+Over the past eighteen years, he has built an exceptional network spanning the Byzarian League, the City-States of Vedyara, the Kingdom of Tarvénia, and beyond. He maintains direct relationships with master craftspeople, artisans of legendary skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
+
+## Psyche
+
+### Personality
+
+Chrysántos is fundamentally a man of appetite and ambition, concealed beneath layers of refinement and courtesy. He is genuinely intelligent and articulate, capable of discussing history, art, literature, and philosophy with apparent expertise—a cultural fluency that serves him well in the highest social circles. Yet his cultural knowledge is primarily instrumental; he collects facts about art and history much as he collects rare goods, valuing them for their conversational utility and their capacity to impress rather than from any deep passion for understanding.
+
+He is naturally charming when it suits him to be, and his persuasiveness derives partly from genuine interest in the perspectives of others and partly from his calculated assessment of what each person wishes to hear. He is not cruel, but he is profoundly indifferent to the circumstances of those beneath his immediate concern. A merchant's family losing their livelihood to his commercial maneuvering is abstract and remote; his responsibility extends only to those within his social circles. He takes pride in his judgment and his taste, and his opinions on matters of value—financial, artistic, or personal—are delivered with the confidence of one accustomed to being correct and rarely challenged.
+
+### Motivation
+
+Chrysántos is driven by the endless accumulation of wealth, influence, and prestige. More specifically, he seeks to surpass his family's commercial standing and establish his own merchant house as the preeminent luxury broker in all the known territories. He desires the respect and fear that comes with financial power, the ability to demand deference from others through the simple fact of his superior resources and connections. He seeks beauty, rarity, and things of exceptional value—both as commodities to trade and as personal acquisitions that reinforce his sense of superiority and excellent taste. Beneath these surface motivations lies a deeper hunger to prove that his own capacity and intellect are superior to his older brother's, that the family chose the wrong heir.
+
+### Strengths
+
+- **Mercantile Genius**: His extraordinary skill in mercantilism, combined with mathematical precision and fluent use of two languages, makes him a devastatingly effective negotiator. He understands market dynamics, supply-and-demand leverage, and the hidden valuations that determine what something is truly worth.
+- **Network and Connections**: Across two decades, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
+- **Discourse and Eloquence**: His eloquence and discourse skills allow him to persuade, inspire confidence, and navigate complex social situations. He can talk his way into restricted spaces, convince reluctant sellers to part with treasured items, and charm clients into purchasing things they did not intend to acquire.
+- **Perception and Reasoning**: His keen perception allows him to read people accurately, identifying what they truly desire beneath what they claim to want. His high reasoning ability lets him analyze complex situations and identify paths to advantage.
+- **Survival and Practical Knowledge**: He possesses greater practical knowledge than many recognize, including understanding of survival skills, animal handling, and wilderness travel—useful assets when procuring items from remote or dangerous locations.
+
+### Weaknesses
+
+- **Moral Flexibility**: His indifference to the ethical implications of his actions has led him to participate in morally questionable transactions—acquiring artifacts from tombs, purchasing items obtained through exploitation, facilitating transactions that harm vulnerable populations.
+- **Arrogance and Dismissiveness**: His confidence in his own judgment sometimes blinds him to perspectives and information that challenge his worldview. He is prone to dismissing those from lower social classes as inherently less intelligent or capable than himself.
+- **Lack of Physical Prowess**: He is not a warrior or a particularly strong individual. His dexterity is moderate, and he possesses no martial training. In physical confrontation, he is vulnerable and dependent on hired protection or allies.
+- **Vulnerability to Emotional Manipulation**: Beneath his careful exterior lies a wound related to his family dynamics—specifically, his resentment of his brother. Anyone who understands this vulnerability can leverage it against him, appealing to his pride or his desire to prove superiority.
+- **Network Dependency**: His entire operational capacity depends on his network. If major contacts betray him, if his reputation for discretion is undermined, if patrons lose faith in his judgment, his enterprise collapses. He has built nothing that survives the loss of his personal credibility.
+
+## Social
+
+### Patrons
+
+- **Lord Daemon Voss, Master of the Byzarian League's Eastern Territory**: A powerful noble with whom Chrysántos maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Chrysántos ensures that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
+- **The Collector of Reliquaries**: A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Chrysántos to locate and acquire specific items of historical or spiritual significance. These commissions are exceptionally lucrative and have provided much of his recent wealth accumulation.
+- **Master Artificer Kaelvos**: A legendary craftsperson whose work Chrysántos traffics in and whose custom commissions he brokers. Kaelvos's relationship with Chrysántos is symbiotic but delicate; should Chrysántos ever attempt to exploit Kaelvos directly, the master would have him eliminated.
+
+### Enemies
+
+- **Merchant-Lord Tharenis**: A rival merchant-broker operating in the Byzarian League's central territories. Tharenis has undercut Chrysántos's pricing on several important commissions and is aggressively cultivating some of Chrysántos's established clients. There is undeclared but intense commercial warfare between them.
+- **The Puritan Orders**: Certain monastic and priestly orders have become concerned that Chrysántos is acquiring sacred relics and religious artifacts for private collectors without proper ecclesiastical approval. They view him as a desecrator and have begun subtly working to undermine his reputation with both ecclesiastical and secular authorities.
+- **Unknown Parties with Claims to Artifacts**: Several of the items Chrysántos has acquired and sold came from tombs, ruins, or sites of previous conflict. The descendants or cultural inheritors of those sites are beginning to investigate their provenance and demanding repatriation. Some have grown hostile and begun making threats against Chrysántos directly.
+
+### Affiliations
+
+- **Merchant's Guild of the Byzarian League**: His primary professional affiliation, providing legitimacy, protection, and access to guild resources and information networks.
+- **Prosperity Cults of Vénusia**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
+- **The Collector's Circle**: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
+
+## Plot Hooks
+
+1. **The Cursed Artifact**: Chrysántos acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, psychological deterioration. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Chrysántos is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Chrysántos discovers that the artifact may indeed be genuinely supernatural in nature. He must determine whether to recover it, find a way to neutralize whatever curse attends it, or convince the collector that the misfortunes are coincidental.
+
+2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Chrysántos personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Chrysántos faces not merely financial loss but serious legal consequences. The thief proves to be operatives from the Thieves' Guild (possibly including **[[character-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]**), who were hired to steal the piece by a rival merchant attempting to damage Chrysántos's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
+
+3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Tharenis**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Chrysántos discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Tharenis to drive his business into Chrysántos's ready hands. The question becomes: who orchestrated Tharenis's ruin, why did they choose to benefit Chrysántos, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Chrysántos to become their broker and facilitate specific acquisitions for unknown purposes.
+
+4. **The Repatriation War**: The descendants of an ancient culture from which Chrysántos acquired several significant cultural and religious artifacts demand their return. They possess documentation proving the items were taken during colonization or conquest, and they appeal to the **Byzarian League's** cultural authority bodies for enforcement of repatriation. Simultaneously, the wealthy collectors who purchased these items from Chrysántos refuse to surrender them, threatening litigation against Chrysántos if the sale becomes legally invalid. Chrysántos is caught between legal/moral obligation to facilitate repatriation and contractual obligation to his clients. To complicate matters, one of the items may actually be falsely attributed, and returning it would be to commit cultural fraud against the very people demanding its return.
+
+5. **The Brother's Gambit**: Chrysántos's older brother, his relationship strained by decades of sibling rivalry, suddenly reaches out with a business proposition: they could merge their commercial operations, creating an unified merchant enterprise of unprecedented scale and power. Ostensibly, the merger would benefit both; Chrysántos's network of luxury brokers combined with the family's broader commercial infrastructure would be formidable. Yet Chrysántos suspects the offer is a trap designed to either subordinate him to his brother's control or to steal his carefully cultivated network. He must determine whether the offer is genuine, negotiate terms that protect his interests if he chooses to pursue it, or conclusively sever family ties by refusing—an action that would almost certainly result in his brother using his resources to actively undermine Chrysántos's business.

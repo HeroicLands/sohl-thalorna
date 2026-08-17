@@ -1,0 +1,34 @@
+---
+aliases:
+  - Host
+  - mysticalability-sprtgrd
+tags: []
+name:
+  full: Spiritguard
+  aliases:
+    - Host
+description: "Summons protective spirit; grants spectral defender and aid."
+id: HDNMTYJPadHJ61tp
+img: icons/divination.svg
+shortcode: sprtgrd
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pneumenos
+  assocMysteryCode: ""
+  levelBase: 6
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Host
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster performs a summoning of extraordinary difficulty and risk, calling across the boundary between the material world and the realm of spirits to invite a willing entity into temporary service. The spirit manifests as a translucent, luminous presence whose form reflects its nature — some appear as vaguely humanoid shapes of shifting light, others as ghostly animals or abstract patterns of moving energy. Its touch can affect the physical world, nudging objects, disrupting concentration, or delivering a chilling contact that saps warmth and will.
+
+The summoned spirit possesses genuine intelligence and its own personality, and the relationship between caster and spirit is more negotiation than command. Spirits serve willingly when properly propitiated but may turn uncooperative or hostile if treated with disrespect or asked to perform tasks they find objectionable. Maintaining the spirit's presence in the material world requires sustained expenditure of the caster's energy, and the spirit returns to its own realm when that support is withdrawn. The ethical and metaphysical implications of spirit summoning are debated endlessly within the Nouménos tradition.

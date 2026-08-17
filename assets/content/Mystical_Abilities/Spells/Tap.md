@@ -1,0 +1,33 @@
+---
+aliases:
+  - mysticalability-tap
+tags: []
+name:
+  full: Tap
+  aliases:
+    - Tap
+description: "Draws upon power source; taps magical reservoir for energy."
+id: xjMqRC2aTIIdpxfY
+img: icons/circle.svg
+shortcode: tap
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: kentra
+  assocMysteryCode: ""
+  levelBase: 2
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Tap
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster establishes a delicate connection with an existing magical construct — an enchanted weapon, an active ward, a ritual circle still humming with residual power — and siphons a thin stream of energy from it. Unlike the more aggressive Drain, Tap draws only what the source can spare, leaving the original magic functional but slightly diminished. The borrowed energy flows into the caster's reserves, available for immediate use or storage.
+
+The art lies in calibration: too little and the effort is wasted, too much and the source destabilizes or the caster's intrusion becomes obvious to anyone monitoring the construct. Skilled practitioners can maintain a sustained tap over hours, slowly accumulating power from ambient sources like a patient spider drawing sustenance from its web. This makes Tap invaluable during extended operations where the caster's own reserves might prove insufficient.

@@ -1,0 +1,34 @@
+---
+aliases:
+  - Icewalk
+  - mysticalability-glide
+tags: []
+name:
+  full: Glide
+  aliases:
+    - Icewalk
+description: "Caster descends slowly; falls without impact or harm sustained."
+id: S5e7RbUmFMJPyTvM
+img: icons/water.svg
+shortcode: glide
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: hydalis
+  assocMysteryCode: ""
+  levelBase: 5
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Icewalk
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster enchants a surface of ice to become perfectly smooth and frictionless beneath the target's feet, while simultaneously granting the target supernatural balance and speed upon it. The target skims across ice with effortless grace, accelerating to remarkable speeds and turning with a thought, as if the ice itself were cooperating with their movement.
+
+The spell is most obviously useful for crossing frozen lakes and rivers at speed, but creative practitioners use it in conjunction with Iceforge to create icy pathways across any terrain — up walls, over gaps, even across the surface of water if the ice is formed quickly enough. The target's feet remain firmly planted despite the frictionless surface, a paradox that the spell resolves through magical adhesion. Others attempting to follow on the enchanted ice find it as treacherous as one would expect.

@@ -1,0 +1,749 @@
+---
+aliases:
+  - Gahiji wa Fénjara
+  - Gahiji wa Fénjara
+  - Gahiji wa Fenjara
+  - character-gahijwfnjr
+tags:
+  - heroes-and-knaves
+  - hero
+name:
+  full: Gahiji wa Fénjara
+  title: ""
+  given: Gahiji
+  clan: Fénjara
+  home: Ékunda
+  aliases:
+    - The Spirit Tracker
+id: DsVbnDM8LZGFtqA1
+folder: j9OL4rpRFGxbX57i
+shortcode: gahijwfnjr
+img: icons/person.svg
+portrait: images/being/gahijwfnjr-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: nylbtrblntn
+  region: sthrnsvnhs
+social:
+  occupation: Hunter
+  station: tradesfolk
+  class: freeman
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: male
+  age: 28
+  birthday: 692/2/2
+  height:
+    m: 1.88
+  weight:
+    kg: 90.7
+  build:
+    frame: heavy
+  appearance:
+    eye_color: dark_brown
+    hair_color: dark_brown
+    skin_color: dark
+    complexion: ""
+    extra_features: []
+sohl:
+  attributes:
+    str: 11
+    end: 14
+    dex: 13
+    agl: 16
+    per: 17
+    cml: 10
+    aur: 15
+    wil: 14
+    rea: 13
+    cre: 12
+    emp: 12
+    elo: 11
+    mor: 15
+    voi: 12
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 200
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: nyalbsprts
+      type: affiliation
+    - shortcode: brew
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: shpw
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: agri
+      type: skill
+      system:
+        masteryLevelBase: 32
+    - shortcode: anmcft
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: herb
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: trak
+      type: skill
+      system:
+        masteryLevelBase: 75
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: fltch
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: hide
+      type: skill
+      system:
+        masteryLevelBase: 75
+    - shortcode: mill
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: txtl
+      type: skill
+      system:
+        masteryLevelBase: 15
+    - shortcode: LBw150
+      type: weapongear
+    - shortcode: Spr
+      type: weapongear
+    - shortcode: Dgr
+      type: weapongear
+    - shortcode: RhTunic
+      type: armorgear
+    - shortcode: RhBrch
+      type: armorgear
+    - shortcode: RhShoe
+      type: armorgear
+    - type: miscgear
+      name: Quiver (leather, reinforced for heavy use)
+      system:
+        weight: 1.5
+        value: 100
+        durability: 3
+    - shortcode: ArwStd
+      type: projectilegear
+      system:
+        quantity: 30
+    - type: miscgear
+      name: Tracking tools and marking materials
+      system:
+        weight: 2
+        value: 50
+        durability: 4
+    - type: miscgear
+      name: Animal snares and traps
+      system:
+        quantity: 4
+        weight: 1.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Dried meat and travel provisions
+      system:
+        quantity: 3
+        weight: 1.5
+        value: 100
+        durability: 3
+    - shortcode: wtrskin
+      type: containergear
+    - shortcode: LiteBlkt
+      type: miscgear
+    - shortcode: torch
+      type: miscgear
+      system:
+        quantity: 2
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: backpk
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Gahiji stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.
+
+# Dossier {#dossier}
+
+Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe of the **Nyáluba Tribal Nation**, whose people live deep within the most remote parts of the Xerathian jungles. The Nyáluba are famous for their unparalleled tracking skills, often said to be able to follow prey across both the physical and spirit realms. Gahiji grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
+
+Gahiji's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Gahiji was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
+
+When [[character-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[character-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
+
+### Skills and Abilities
+
+- **Strength**: While Gahiji isn’t the strongest physically, his strength is well-suited to carrying out long hunts and navigating tough jungle terrain.
+- **Endurance**: His ability to survive and thrive in the harsh conditions of the jungle has given Gahiji remarkable stamina, allowing him to pursue prey for days without tiring.
+- **Dexterity**: Gahiji is quick with his hands, whether it’s setting traps or handling his spear with expert precision.
+- **Agility**: Gahiji moves with grace and fluidity, making him almost invisible in the jungle, able to slip between trees and avoid danger with ease.
+- **Perception**: His heightened senses are his greatest asset, allowing him to see, hear, and even sense things that others cannot. This, combined with his spiritual abilities, makes him unparalleled in tracking.
+- **Comeliness**: Gahiji’s appearance is unassuming, reflecting his practical nature. His looks are rugged and functional, suited to his life as a tracker and hunter.
+- **Aura**: His spiritual connection to the jungle and the unseen forces around him is profound, allowing him to interact with the spirit world in ways few others can.
+- **Will**: Gahiji’s calm and patient demeanor hides a deep inner strength. He remains focused on his tasks and is not easily swayed by distractions or danger.
+- **Reasoning**: Gahiji is practical and intelligent, using his knowledge of the natural world and the spirits to make sound decisions in both survival and battle.
+- **Creativity**: While not particularly imaginative, Gahiji’s experience allows him to adapt to new challenges and find effective solutions in the wild.
+- **Empathy**: Gahiji’s connection to the spiritual world gives him an understanding of the balance of life, though he is often distant in personal matters, focused more on the task at hand.
+- **Eloquence**: Gahiji is a man of few words, preferring to let his actions speak for him, but when he does speak, his words carry the weight of wisdom and experience.
+- **Morality**: Gahiji’s connection to his culture’s spiritual and natural traditions governs his actions. He adheres to the codes of balance and respect for both the physical and spirit world.
+- **Voice**: Gahiji’s voice is surprisingly steady and clear, with a natural resonance that makes it suitable for singing traditional tribal songs during rituals and ceremonies.
+- **Tracker of the Unseen**: Gahiji’s unique family gift allows him to track both physical and spiritual entities. He can follow trails invisible to normal eyes and can sense disturbances in the spirit world that might indicate danger or the presence of spiritual entities.
+- **Survivalist**: Gahiji is an expert in survival, able to live off the land for long periods and navigate the most treacherous environments. He knows the jungles of Xerathia better than almost anyone, making him invaluable as a guide.
+- **Spirit Hunter**: Gahiji is skilled in hunting both physical and spiritual creatures. His experience with spirit creatures, combined with his knowledge of ancient rituals, allows him to defend the group from spiritual threats that would otherwise be impossible to combat.
+
+## Psyche
+
+### Personality
+
+Gahiji is quiet, reserved, and deeply in tune with the world around him. His calm and patient demeanor makes him seem detached at times, but in truth, Gahiji is constantly observing his surroundings, aware of every change in the environment. He has a dry sense of humor and a strong sense of honor, believing that his role as a tracker is to preserve the balance of the natural and spiritual worlds. Though he is a man of few words, when he speaks, his advice is always grounded in wisdom.
+
+### Strengths
+
+- **Tracking**
+- **Survival**
+
+## Social
+
+## Plot Hooks
+
+1. **The Hunter Becomes the Hunted**:
+
+   Gahiji’s reputation as a spirit tracker reaches the ears of a ruthless warlord who commands a small army of mercenaries. The warlord demands Gahiji’s aid in hunting a fabled spirit beast rumored to grant immortality. Refusing to help places Gahiji and his village in danger. Forced to cooperate, Gahiji must not only protect the sacred creature but also turn the hunt against the warlord, ensuring the creature remains a part of the spiritual balance.
+
+2. **The Jungle’s Last Stand**:
+
+   A series of unnatural events—trees falling overnight, animals fleeing their habitats—suggest a deeper disturbance in the Xerathian jungles. Gahiji discovers that an ancient spirit, angered by the desecration of its sacred grounds, is punishing the land. As the tribes face dwindling resources and increasing conflict, Gahiji must convince rival tribes to unify in an intricate ritual to appease the spirit. Failure could lead to the spirit unleashing catastrophic floods across the jungle.
+
+3. **The Panther’s Return**:
+
+   The spirit panther Gahiji defeated years ago begins to appear in his dreams, warning him of an impending spiritual imbalance. This time, the creature is not his adversary but a guide, leading him toward a hidden temple that holds the key to stabilizing the jungle’s fragile harmony. Along the way, Gahiji faces challengers who see his connection to the panther as a sign of weakness, testing his leadership and resolve.
+
+4. **The Spear of Ishuara**:
+
+   A legendary artifact, the Spear of Ishuara, is said to possess the power to destroy even the most dangerous spiritual creatures. When an outsider attempts to claim the spear for personal gain, Gahiji must protect the artifact while confronting his tribe’s mistrust of outsiders. The journey to secure the spear leads him to uncover the truth about his family’s lineage and their role as guardians of the spiritual world.

@@ -1,0 +1,34 @@
+---
+aliases:
+  - Assemble
+  - mysticalability-cnstrct
+tags: []
+name:
+  full: Construct
+  aliases:
+    - Assemble
+description: "Animates material into humanoid servant; obeys caster's spoken commands."
+id: 01QjJrMPkNg35H2a
+img: icons/anvil.svg
+shortcode: cnstrct
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: sideros
+  assocMysteryCode: ""
+  levelBase: 6
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Assemble
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster extends their will toward a quantity of raw or worked metal and commands it to move, flow, and assemble. Ingots stretch into plates. Plates fold and rivet themselves into shapes. Wire draws itself through invisible dies and weaves into mail rings that link and close without a hand touching them. The metal moves with deliberate, mechanical precision, each piece finding its place in the emerging construction like the parts of a well-designed puzzle.
+
+The result can be as simple as a set of nails or as complex as a suit of articulated plate armor, limited by the available material and the caster's knowledge of the desired object's construction. This last requirement is crucial — the caster must understand how the finished product is assembled, which means that Construct cannot produce items beyond the caster's technical knowledge. A smith who knows how armor is made can command metal to make armor; a scholar with no metalworking knowledge can produce only crude, simple shapes regardless of their magical power.

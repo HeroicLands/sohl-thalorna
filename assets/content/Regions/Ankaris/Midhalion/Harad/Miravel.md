@@ -1,0 +1,39 @@
+---
+aliases:
+  - Míravel
+  - Miravel
+  - doc-miravel
+id: iijF0jFCjTiDjPQA
+type: doc
+category: settlement
+settlementType: "Merchant Town"
+population: null
+languages:
+  - haradilngg
+pantheons:
+  - arldnpnthn
+  - ashanpnthn
+package: thalorna
+name:
+  full: Míravel
+  aliases: []
+shortcode: miravel
+parent:
+  polities:
+    - varoshan
+folder: umL4KFGO3MD4u9X1
+---
+
+# Míravel
+
+## Overview
+
+_To be written._
+
+## Notable Features
+
+_To be written._
+
+## Notable Figures
+
+_To be written._

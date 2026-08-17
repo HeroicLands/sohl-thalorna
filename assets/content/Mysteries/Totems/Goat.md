@@ -1,0 +1,37 @@
+---
+aliases:
+  - mystery-goat
+tags: []
+name:
+  full: Goat
+  aliases: []
+id: lWxRr0XkTqO3qDNa
+img: images/mystery/goat.webp
+shortcode: goat
+type: mystery
+package: thalorna
+sohl:
+  subType: other
+  levelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  trait: inquisitive
+  disorder: impulsive
+  archetype: null
+folder: vRIKmqTJtHtY4VEX
+---
+
+Curious and determined, goats are naturally inquisitive animals that will climb, explore, and test their environment to satisfy their curiosity.
+
+## Human Personality
+
+Inquisitive and adventurous, this person constantly explores and tests their environment. Their determination drives them to overcome barriers and satisfy their curiosity.
+
+- **Physical:** Lean, muscular legs; agile and sure-footed.
+- **Behavioral:** Inquisitive and determined, won't shy away from obstacles.
+- **Positive:** Inquisitive, adventurous, and resilient.
+- **Negative:** Can be overly stubborn and reckless in pursuing curiosity.
+- **Minor Trait:** Endlessly curious and eager to explore, sometimes wandering into trouble simply because something caught their interest.
+- **Major Disorder:** Restless and impulsive to a reckless degree, leaping from one thing to the next without thought for consequences or the chaos left behind.

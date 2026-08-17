@@ -1,0 +1,34 @@
+---
+aliases:
+  - Link
+  - mysticalability-bond
+tags: []
+name:
+  full: Bond
+  aliases:
+    - Link
+description: "Establishes permanent mystical link between caster and willing partner."
+id: sU0A7vHo0zslcwrW
+img: icons/divination.svg
+shortcode: bond
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pneumenos
+  assocMysteryCode: ""
+  levelBase: 4
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Link
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster creates a bridge of shared awareness between two or more willing participants, and suddenly each becomes conscious of the others' thoughts, emotions, and sensory experiences. The bond is intimate and immediate — not merely the transmission of words but the sharing of understanding itself. Participants can communicate complex ideas in an instant, coordinate actions without discussion, and share sensory data as though they possessed multiple sets of eyes and ears.
+
+The intensity of the bond is adjustable but defaults to full transparency, which most participants find overwhelming at first exposure. The experience of inhabiting another person's perspective — feeling their emotions, tasting their memories, sensing through their body — is profoundly disorienting and can be distressing if the participants are not prepared for the level of intimacy involved. Most practitioners establish the bond at a reduced level, allowing verbal thought exchange without the deeper merging of consciousness. The bond dissolves instantly if any participant wishes it to end.

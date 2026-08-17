@@ -1,0 +1,773 @@
+---
+aliases:
+  - Bránakis Kâserânis
+  - Bránakis Kâserânis
+  - Branakis Kaseranis
+  - character-brnksksrns
+tags:
+  - heroes-and-knaves
+name:
+  full: Bránakis Kâserânis
+  title: ""
+  given: Bránakis
+  clan: Kâserânis
+  home: Solheim
+  aliases: []
+id: CKhqAnKWmu18wZ1L
+folder: UFBfgKZUF0bAE7gG
+shortcode: brnksksrns
+img: icons/person.svg
+portrait: images/being/brnksksrns-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: hlykngdmnrtm
+  region: vylariargn
+social:
+  occupation: Charcoaler
+  station: common_folk
+  class: guilded
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: male
+  age: 51
+  birthday: 669/9/2
+  height:
+    m: 1.88
+  weight:
+    kg: 83.5
+  build:
+    frame: heavy
+  appearance:
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: tanned
+    complexion: weathered
+    extra_features:
+      - a tattoo of a tree on the forearm
+sohl:
+  attributes:
+    str: 14
+    end: 16
+    dex: 10
+    agl: 9
+    per: 11
+    cml: 8
+    aur: 10
+    wil: 13
+    rea: 12
+    cre: 9
+    emp: 8
+    elo: 7
+    mor: 11
+    voi: 10
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 184
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: sacredforge
+      type: affiliation
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: embl
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 8
+    - shortcode: anmcft
+      type: skill
+      system:
+        masteryLevelBase: 10
+    - shortcode: fish
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: herb
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: mnrl
+      type: skill
+      system:
+        masteryLevelBase: 22
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 65
+    - shortcode: timb
+      type: skill
+      system:
+        masteryLevelBase: 55
+    - shortcode: trak
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 18
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 20
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 10
+    - shortcode: jewl
+      type: skill
+      system:
+        masteryLevelBase: 22
+    - shortcode: mtlc
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: wood
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: BAxe
+      type: weapongear
+    - shortcode: RhApr
+      type: armorgear
+    - shortcode: RhTunic
+      type: armorgear
+    - shortcode: RhBrch
+      type: armorgear
+    - shortcode: RhKBoot
+      type: armorgear
+    - type: miscgear
+      name: Kiln maintenance tools (shovel, rake, poker)
+      system:
+        weight: 2
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Leather gloves (heavy work)
+      system:
+        quantity: 2
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Charcoal samples (assorted grades)
+      system:
+        weight: 1
+        quantity: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Firewood bundle
+      system:
+        weight: 2
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Wooden markers and measuring tools
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: StdRtns
+      type: miscgear
+      system:
+        quantity: 2
+    - shortcode: wtrskin
+      type: containergear
+    - shortcode: bktlrg
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Bránakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, dark brows. A distinguishing mark is a tattoo of a tree on the forearm.
+
+Most striking is the tattoo adorning his left forearm: a great tree with roots spreading deep and branches reaching high, rendered in dark ink that has faded slightly with age. It is the mark of a man devoted to the natural world and to the craft of transforming its materials into something essential. At fifty-one, Bránakis carries the solidity and immovable quality of an ancient oak, diminished but not broken by the passage of seasons.
+
+# Dossier {#dossier}
+
+### The Forest's Gift
+
+Bránakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the Holy Kingdom of Nartum. His father was a timber harvester, and his mother the daughter of a charcoal maker—the profession seemed almost hereditary, a calling written into the family's very blood. From his earliest memories, Bránakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
+
+Unlike many born to humble trades, Bránakis received genuine education—the Holy Kingdom's temples were unusually generous in extending basic literacy and knowledge to children of the lower orders. His mother, in particular, ensured he could read and calculate, understanding that such skills would elevate his craft beyond mere physical labor.
+
+### Mastery Through Suffering
+
+At age fifteen, Bránakis' father died when a great tree he was cutting failed to fall as intended, crushing him beneath its immense weight. Rather than scarring Bránakis away from the forest, the tragedy crystallized his commitment to the work—he vowed to master the craft so completely that such accidents would never take another family member. He spent the next two decades in an almost ascetic pursuit of perfection, learning every aspect of charcoal making from raw timber selection through the precise control of kiln temperatures that determine the quality of the final product.
+
+His devotion earned him a place in the Woodworkers' Guild by his thirty-second year, an unusual achievement for someone of his humble birth. His charcoal became renowned throughout Nartum—blacksmiths specifically requested his product because it burned hotter and cleaner than any other source. He developed proprietary methods for creating specific grades of charcoal for different purposes, guarding these techniques with the possessiveness of a dragon protecting its hoard.
+
+### The Aging Craftsman
+
+For nearly two decades, Bránakis built a modest but stable prosperity. He expanded his operation, employed apprentices (though he was a notoriously demanding teacher), and achieved a position of genuine respect within his community. Yet the past decade has brought challenges. Younger charcoalers, willing to work for lower wages or cut corners in pursuit of profit, have begun to erode his market share. His physical capabilities, while still formidable, are beginning to decline in subtle ways that frustrate him profoundly. And most troublingly, the great forests themselves seem to be diminishing—timber that was once plentiful is now harder to source, and he suspects the cause is not natural resource depletion but deliberate overharvestings by larger commercial operations.
+
+Bránakis is increasingly bitter about these changes, unable or unwilling to adapt his methods, convinced that the world is abandoning the kinds of excellence and craftsmanship he has devoted his life to preserving.
+
+## Psyche
+
+### Personality
+
+Bránakis is taciturn and serious to the point of grimness. He speaks only when necessary and typically in short, declarative statements stripped of any embellishment or social grace. His humor, such as it exists, is bleak and sardonic—dry observations about the declining quality of everything around him delivered in a flat tone that makes unclear whether he intends them as jokes.
+
+Yet beneath this forbidding exterior lies a man of genuine principle. He has very clear notions of what is right and wrong, and he judges others accordingly, often harshly. He is not unkind, precisely, but rather indifferent to whether his judgments wound others—truth, as he sees it, is more important than politeness. He is remarkably honest about his own failures and limitations, acknowledging his stubbornness with the same unflinching directness he applies to others.
+
+His devotion to his craft is almost spiritual. He views the creation of high-quality charcoal not merely as profitable work, but as a form of service to humanity—providing the material that enables other craftspeople to create things of beauty and necessity. This sense of purpose, though never explicitly articulated, animates everything he does.
+
+### Motivation
+
+Bránakis is driven by a commitment to excellence that borders on obsession, and by a deep reverence for the natural world and the craft of transforming its materials into something worthwhile. He is motivated also by increasingly urgent concern about the degradation of the forests and the loss of traditional skills in an age that seems to value efficiency over quality, profit over principle. He works not for wealth—he has more than enough—but because he genuinely believes that maintaining high standards is a form of resistance against the entropy and mediocrity that he sees consuming the world around him.
+
+### Strengths
+
+- **Mastery of Charcoal Craft**: Bránakis' skill in creating charcoal of superior quality is unmatched in the region. He understands the craft at a level that approaches art, with knowledge accumulated over four decades of dedicated practice.
+- **Physical Strength and Endurance**: Despite his advancing years, Bránakis remains extraordinarily strong. His body is a finely-honed instrument of labor, capable of sustained effort that would exhaust younger men.
+- **Deep Knowledge of Forests**: Years of harvesting timber have given him profound understanding of woodcraft, forestry, and the ecology of the great forests. He can read forests the way scholars read texts.
+- **Integrity and Principle**: Bránakis refuses to compromise on his standards or principles, regardless of financial pressure or market demand. He will not produce inferior charcoal regardless of how much he is offered for it.
+- **Problem Solving**: His practical mind and extensive experience enable him to solve practical problems with clever efficiency, particularly anything related to fire, heat management, or material processing.
+- **Mentorship**: Despite his harsh demeanor, Bránakis has shaped several competent charcoalers and craftspeople through his demanding instruction. Those who stick with him learn genuine excellence.
+
+### Weaknesses
+
+- **Inflexible Thinking**: Bránakis' refusal to adapt his methods or consider new approaches has become increasingly problematic. He views all change with deep suspicion and resistance.
+- **Poor Communication**: His inability or unwillingness to explain his reasoning or methods makes him difficult to work with. Subordinates are often confused about what he actually wants from them.
+- **Physical Decline**: While still strong, his body is wearing out. His back troubles him after long days of labor; his hands develop arthritis during cold seasons; his endurance, though impressive, is no longer boundless.
+- **Bitterness About Change**: His conviction that the world is degrading and that the values he upholds are being abandoned by society has curdled into genuine bitterness. This makes him increasingly isolated and difficult to be around.
+- **Resistance to Help**: His pride and his belief in self-reliance make him unable to ask for assistance, even when circumstances would justify it. He views accepting help as a form of weakness.
+- **Emotional Repression**: Like many who have experienced significant loss, Bránakis has learned to suppress emotion entirely. This leaves him isolated and incapable of forming genuine human connections.
+
+## Social
+
+### Patrons
+
+- **Master Blacksmith Torvin Ironhand**: The region's most renowned blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a genuine peer.
+- **The Abbey of Vúlcan's Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
+- **Guild Master Aldus Woodbark**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
+
+### Enemies
+
+- **Merchant Prince Harlow Coalroot**: A wealthy trader who has begun operating charcoal operations using mass-production methods and lower-quality standards. He has undercut Bránakis' prices and reputation systematically.
+- **The Timber Consortium**: A large commercial organization that controls vast timber harvesting rights. They view Bránakis' opposition to their practices as problematic and have worked to restrict his access to quality timber sources.
+- **Charcoaler Silas Ashbringer**: A younger rival charcoaler who has adopted new methods and proven profitable. Bránakis views Silas as a symbol of everything wrong with modern craftwork, and the animosity between them has become quite personal.
+
+### Affiliations
+
+- **The Woodworkers' Guild of Nartum**: A formal trade organization providing standards, protection, and mutual support for those in timber-related crafts.
+- **The Keepers of the Forest**: An informal network of those devoted to sustainable forestry and conservation of the great woods. Bránakis is one of their most vocal members.
+- **The Abbey of Vúlcan's Flame**: A religious community that views Bránakis' work as spiritually significant.
+
+## Plot Hooks
+
+1. **The Dying Forest**: Bránakis discovers that the great forests are being deliberately poisoned through a sophisticated scheme involving fungal infection deliberately introduced by the Timber Consortium to destroy old-growth timber, forcing landowners to accept forced sales. As a man devoted to the forest, he must decide whether to expose the conspiracy—which would require breaking his code of non-interference in larger political matters—or remain silent as one of his most beloved natural spaces dies before his eyes.
+
+2. **The Apprentice's Secret**: A talented young apprentice comes to Bránakis seeking to learn the craft, but Bránakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Harlow Coalroot to steal his proprietary methods. Rather than simply expelling the youth, Bránakis becomes convinced that the apprentice is a genuinely talented craftsperson being exploited by Harlow. He must decide whether to protect the youth, knowing it will create a permanent enemy in a powerful merchant.
+
+3. **The Ancient Formula**: While excavating near an old kiln site, Bránakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to known chemistry. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
+
+4. **The Bargain with Fire**: A mysterious figure approaches Bránakis, claiming to represent Vúlcan directly, and offers him a way to perfectly control kiln temperatures and ensure consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Bránakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
+
+5. **The Last Stand**: The Timber Consortium, frustrated by Bránakis' continued resistance to their agenda, escalates their campaign, attempting to literally drive him out of business through sabotage, market manipulation, and legal challenges. Bránakis finds himself forced to make alliances he never sought and to engage in types of conflict entirely foreign to his nature. He must decide whether to surrender his independence and merge his operation with larger organizations or make a final stand that might cost him everything.

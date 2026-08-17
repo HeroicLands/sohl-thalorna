@@ -1,0 +1,39 @@
+---
+aliases:
+  - Tyrellan
+  - doc-tyrellan
+id: P01J8cKSZZ3mWGLH
+type: doc
+category: settlement
+settlementType: "Provincial City"
+population: 15000
+languages:
+  - vylarilngg
+pantheons:
+  - arldnpnthn
+package: thalorna
+name:
+  full: Tyrellan
+  aliases: []
+shortcode: tyrellan
+parent:
+  regions:
+    - vylariargn
+  polities:
+    - provncmktr
+folder: WSdLuPc7BaRqxNEt
+---
+
+# Tyrellan
+
+## Overview
+
+_To be written._
+
+## Notable Features
+
+_To be written._
+
+## Notable Figures
+
+_To be written._

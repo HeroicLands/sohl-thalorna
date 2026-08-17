@@ -1,0 +1,34 @@
+---
+aliases:
+  - Caress
+  - mysticalability-touch
+tags: []
+name:
+  full: Touch
+  aliases:
+    - Caress
+description: "Caster's hands conduct magic; enables touch-based spellcasting."
+id: Cfwl8zMkSkspbdzd
+img: icons/fire.svg
+shortcode: touch
+type: mysticalability
+package: thalorna
+sohl:
+  subType: arcaneincantation
+  assocSkillCode: pyrethos
+  assocMysteryCode: ""
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    usesCharges: false
+    value: 0
+    max: 0
+  archetype: null
+hmk:
+  name: Caress
+folder: geh9MPdhQ9ieSHa4
+---
+
+The caster's hand takes on a gentle warmth that radiates comfort and ease. Pressing the warmed hand against chilled flesh drives away the deep cold, restoring circulation and sensation to frostbitten extremities. Laying it against a tense muscle releases the knots of strain and fatigue. The warmth penetrates deep into the tissue, carrying with it a soothing quality that eases pain and promotes relaxation.
+
+Touch is the healing face of Pyréthos — the reminder that fire is warmth as much as destruction. It cannot mend wounds or cure disease, but it alleviates suffering, restores mobility to cramped and frozen limbs, and provides a profound physical comfort that often aids natural recovery. Midwives, field surgeons, and caretakers value this spell as highly as any healing magic, for the relief it brings to the cold, the exhausted, and the pain-wracked is immediate and unmistakable.

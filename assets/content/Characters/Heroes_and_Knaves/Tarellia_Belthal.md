@@ -1,0 +1,769 @@
+---
+aliases:
+  - Tárellia Bélthal
+  - Tárellia Bélthal
+  - Tarellia Belthal
+  - character-tarelblthl
+tags:
+  - heroes-and-knaves
+name:
+  full: Tárellia Bélthal
+  title: ""
+  given: Tárellia
+  clan: Bélthal
+  home: Port Aelion
+  aliases: []
+id: Phe3YMnWvtD0zL3T
+folder: 4cwfdMa34UryZqPR
+shortcode: tarelblthl
+img: icons/person.svg
+portrait: images/being/tarelblthl-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: kngdmlvndr
+  region: elavendre
+social:
+  occupation: Astrologer
+  station: mages
+  class: guilded
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: female
+  age: 39
+  birthday: 681/5/3
+  height:
+    m: 1.68
+  weight:
+    kg: 60.3
+  build:
+    frame: light
+  appearance:
+    eye_color: blue
+    hair_color: dark_brown
+    skin_color: light
+    complexion: fair
+    extra_features: []
+sohl:
+  attributes:
+    str: 9
+    end: 11
+    dex: 12
+    agl: 13
+    per: 15
+    cml: 11
+    aur: 13
+    wil: 14
+    rea: 14
+    cre: 12
+    emp: 13
+    elo: 14
+    mor: 13
+    voi: 15
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 133
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: florania
+      type: affiliation
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: math
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: script
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: anmcft
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: pilt
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: smsh
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 44
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: hide
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: masn
+      type: skill
+      system:
+        masteryLevelBase: 11
+    - shortcode: astr
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: tarot
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: Dgr
+      type: weapongear
+    - shortcode: WTunic
+      type: armorgear
+    - shortcode: WBrch
+      type: armorgear
+    - shortcode: WClk
+      type: armorgear
+    - shortcode: WCap
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - type: miscgear
+      name: Scroll case with astrological charts
+      system:
+        weight: 0.4
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Brass surveyor's compass
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Star maps (portable, rolled)
+      system:
+        quantity: 2
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Nautical almanac
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Tarot deck and divining cards
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Astronomical calculator and tables
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: StdRtns
+      type: miscgear
+      system:
+        quantity: 2
+    - shortcode: bgsmcvs
+      type: containergear
+    - shortcode: bpchmd
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Tárellia stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, dark brows.
+
+# Dossier {#dossier}
+
+Tárellia Bélthal was born in a coastal trading city of the Kingdom of Élavendre to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named Meridian the Far-Seeing, a woman of considerable reputation who had served as advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárellia approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
+
+By her early twenties, Tárellia had already surpassed most of her contemporaries in her understanding of nautical astrology, the specific practices of predicting weather patterns, tides, and journeys by sea. She began consulting for major merchant ventures and, eventually, for the Mariners' Guild itself. Her predictions—particularly regarding seasonal trade winds, storm patterns, and auspicious departure dates—became legendary for their accuracy. A mistake early in her career left a merchant vessel caught in an unexpected winter storm, resulting in significant loss of life. Though investigation showed the error was caused by the ship's captain ignoring her specific warnings, Tárellia took the responsibility deeply to heart, and it has shaped her cautious, precise approach to her work ever since.
+
+At thirty-nine, she has become the preeminent astrological advisor for maritime concerns in Élavendre. She maintains a small study in the coastal city of Port Aelion, where merchants and captains come seeking her guidance on everything from trade route timing to the auspiciousness of various ventures. She has never married, dedicating herself entirely to her craft, though this has not prevented certain romantic complications from shaping her personal life.
+
+## Psyche
+
+### Personality
+
+Tárellia is thoughtful and deliberate in all her actions, a natural consequence of her work with celestial mechanics and precise calculations. She speaks carefully, choosing words with mathematical precision, which can make her seem emotionally distant to those who do not know her well. However, those who spend time with her discover that this careful communication stems not from coldness but from a genuine respect for accuracy—she believes that imprecise language leads to misunderstanding, which can literally kill.
+
+She possesses a dry wit and surprising capacity for playfulness when comfortable in company. She is intensely loyal to those she considers friends, though she has few such relationships, having sacrificed much of her social life to her studies. She is genuinely humble about her abilities, never claiming certainty where probabilities exist, and she is quick to acknowledge the limits of her knowledge. This honesty—her refusal to fabricate certainty—is perhaps what makes her counsel so valuable.
+
+### Motivation
+
+Tárellia is motivated by a drive to prevent tragedy through accurate knowledge, stemming from the guilt she carries about the maritime disaster she failed to prevent. She seeks mastery of her craft not for fame or wealth, but as a form of expiation—a way of honoring those lost by ensuring that her knowledge serves the living. She also maintains a scholarly curiosity about the mechanisms underlying celestial influence, viewing each successful prediction as a step toward understanding the deeper patterns governing reality.
+
+### Strengths
+
+- **Extraordinary Perception and Awareness**: Her perception (15) and awareness (15) are exceptional, allowing her to notice details in charts, star positions, and environmental indicators that others miss entirely. She can read nuance and pattern with almost uncanny accuracy.
+
+- **Mathematical Mastery**: Her reasoning (14) and mathematics (13) skills, combined with extensive knowledge of astrology (13), allow her to perform complex calculations rapidly and accurately. She can cross-reference multiple astronomical tables and reach conclusions that would take others hours.
+
+- **Fluent Communication**: Her eloquence (14), discourse (14), and voice (15) allow her to explain complex concepts clearly and to persuade merchants and captains to follow her advice, even when it contradicts their instincts or previous plans.
+
+- **Scholarly Expertise**: Her folk knowledge (14) and script (14) skills make her a repository of navigational and astrological lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
+
+- **Reliable Consultation**: Her will (14) makes her steady under pressure, and her command presence (14) ensures that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
+
+### Weaknesses
+
+- **Physical Vulnerability to Sea Travel**: Her seasickness is not a minor inconvenience—it is genuinely debilitating. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
+
+- **Emotional Isolation**: Her dedication to her craft has left her with minimal social connections. This isolation can become severe, and she sometimes struggles with loneliness. Her lack of social skills (charm is only 12) makes forming new relationships difficult.
+
+- **Weight of Responsibility**: She carries deep guilt about past failures, which sometimes manifests as excessive caution. She may refuse commissions that carry risk she has not fully calculated, potentially being too conservative in her advice.
+
+- **Physical Frailty**: Her strength (9) and endurance (11) are her lowest attributes, making her physically vulnerable. She requires assistance with tasks requiring strength and is easily fatigued by demanding physical labor.
+
+- **Limited Combat Capability**: Beyond her dagger and general lack of martial skills, she is unprepared for violence. She must depend entirely on others for physical protection if threatened.
+
+## Social
+
+### Patrons
+
+- **Merchant Prince Nathaniel Seaworth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
+
+- **Captain-Commander Theron Glassbrand**: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for strategic predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
+
+- **the Mariners' Guild Council**: The official governing body of the guild that has engaged Tárellia as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
+
+- **Scholar-Collector Adrienne Moonwhisper**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more scholarly and collegial than typical patron-consultant relationships.
+
+### Enemies
+
+- **Captain Darios Stormrider**: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
+
+- **Charlatan Astrologer Malachai the False**: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
+
+### Affiliations
+
+- **the Mariners' Guild of Port Aelion**: The primary professional organization governing maritime interests in the region. Tárellia serves as an official advisor and maintains guild standing that enhances her credibility.
+
+- **the Aurèldián Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally guest-lectures on maritime applications of her knowledge.
+
+## Plot Hooks
+
+1. **The Impossible Celestial Conjunction**: For the first time in her career, the stars are moving in ways that contradict every mathematical model and historical precedent Tárellia possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárellia must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
+
+2. **the Drowned Captain's Map**: A waterlogged map surfaces in a merchant's possession, purporting to show trade routes recommended by an astrologer from three centuries past. When Tárellia examines it, she realizes that the routes recommended perfectly align with her own predictions for next season's trade winds—suggesting either that celestial patterns are cyclical in ways she hasn't understood, or that someone with knowledge of her work created a false artifact. She must determine which is true and whether the map holds genuine value or is an elaborate deception.
+
+3. **The Sea-Curse Investigation**: A series of merchant vessels have been mysteriously lost at sea, their final reports indicating they were following standard trading practices and experiencing normal weather. Yet Tárellia's records show that none of those ships should have encountered problems according to her astral calculations. She is hired to investigate whether a curse, sorcery, or unknown natural phenomenon is affecting maritime travel, and her investigation leads to implications suggesting interference with the natural cycles themselves.
+
+4. **The Prophecy in Her Own Name**: Tárellia discovers an ancient text that contains a prophecy specifically naming someone called "Tárellia the Star-Reader," describing events that have already occurred in her life with terrifying accuracy. The prophecy continues with predictions of her death under specific circumstances within a defined timeframe. She must determine whether the prophecy is genuine and applies to her, whether it's a coincidence, or whether someone has created a false prophecy with her name deliberately inserted to manipulate her.
+
+5. **the Silent Mutiny**: A merchant captain she has worked with for years arrives at her door asking for an emergency consultation. He believes his crew is about to mutiny based on astrological interpretation—they believe that the stars indicate a terrible fate will befall any ship with his command. Tárellia must determine whether the crew's interpretation has any validity, what their true motivations are, and how to navigate the political and personal implications of what might be a conspiracy disguised as superstition.

@@ -1,0 +1,748 @@
+---
+aliases:
+  - Xadrôs Dâemâtês
+  - Xadrôs Dâemâtês
+  - Xadros Daemates
+  - character-xadrosdmts
+tags:
+  - heroes-and-knaves
+name:
+  full: Xadrôs Dâemâtês
+  title: ""
+  given: Xadrôs
+  clan: Dâemâtês
+  home: Sanctara
+  aliases: []
+id: kSbpsbr6fEgtilry
+folder: UFBfgKZUF0bAE7gG
+shortcode: xadrosdmts
+img: icons/person.svg
+portrait: images/being/xadrosdmts-portrait.webp
+type: character
+package: thalorna
+thalorna:
+  realm: hlykngdmnrtm
+  region: vylariargn
+social:
+  occupation: Woodcrafter
+  station: tradesfolk
+  class: freeman
+  society: ""
+harnworld:
+  realm: ""
+  ritual: []
+traits:
+  gender: male
+  age: 38
+  birthday: 682/9/20
+  height:
+    m: 1.85
+  weight:
+    kg: 78
+  build:
+    frame: medium
+  appearance:
+    eye_color: brown
+    hair_color: dark_brown
+    skin_color: light
+    complexion: tanned
+    extra_features: []
+sohl:
+  attributes:
+    str: 12
+    end: 13
+    dex: 15
+    agl: 12
+    per: 14
+    cml: 10
+    aur: 11
+    wil: 12
+    rea: 13
+    cre: 16
+    emp: 13
+    elo: 11
+    mor: 13
+    voi: 12
+  body:
+    structure:
+      parts:
+        - name: Head
+          shortcode: headpart
+          roles:
+            - vital
+          canHoldItem: false
+          combatArea: 1
+          locations:
+            - name: Skull
+              shortcode: skullloc
+              bleedingSusceptibility: low
+              amputability: none
+              shockValue: 5
+              probWeight: 500
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Eye
+              shortcode: leyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Eye
+              shortcode: reyeloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Nose
+              shortcode: noseloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 5
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Cheek
+              shortcode: lcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Cheek
+              shortcode: rcheekloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Ear
+              shortcode: learloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Ear
+              shortcode: rearloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 15
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Mouth
+              shortcode: mouthloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Jaw
+              shortcode: jawloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 60
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Neck
+              shortcode: neckloc
+              bleedingSusceptibility: high
+              amputability: low
+              shockValue: 5
+              probWeight: 200
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Arm
+          shortcode: rarmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Right Shoulder
+              shortcode: rshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Upper Arm
+              shortcode: rupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Elbow
+              shortcode: relbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Forearm
+              shortcode: rfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Hand
+              shortcode: rhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Arm
+          shortcode: larmpart
+          roles:
+            - manipulator
+          canHoldItem: true
+          combatArea: 2
+          locations:
+            - name: Left Shoulder
+              shortcode: lshldloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 3
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Upper Arm
+              shortcode: lupaloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Elbow
+              shortcode: lelbloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Forearm
+              shortcode: lfraloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Hand
+              shortcode: lhandloc
+              bleedingSusceptibility: none
+              amputability: high
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Torso
+          shortcode: torsopart
+          roles:
+            - core
+          canHoldItem: false
+          combatArea: 4
+          locations:
+            - name: Thorax
+              shortcode: thrxloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Abdomen
+              shortcode: abdmnloc
+              bleedingSusceptibility: high
+              amputability: none
+              shockValue: 4
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Pelvis
+              shortcode: plvisloc
+              bleedingSusceptibility: medium
+              amputability: none
+              shockValue: 4
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Right Leg
+          shortcode: rlegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Right Thigh
+              shortcode: rthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Knee
+              shortcode: rkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Calf
+              shortcode: rcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Right Foot
+              shortcode: rfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+        - name: Left Leg
+          shortcode: llegpart
+          roles:
+            - locomotor
+          canHoldItem: false
+          combatArea: 3
+          locations:
+            - name: Left Thigh
+              shortcode: lthghloc
+              bleedingSusceptibility: medium
+              amputability: low
+              shockValue: 3
+              probWeight: 40
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Knee
+              shortcode: lkneeloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 2
+              probWeight: 10
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Calf
+              shortcode: lcalfloc
+              bleedingSusceptibility: low
+              amputability: medium
+              shockValue: 1
+              probWeight: 30
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+            - name: Left Foot
+              shortcode: lfootloc
+              bleedingSusceptibility: none
+              amputability: medium
+              shockValue: 2
+              probWeight: 20
+              protectionBase:
+                blunt: 0
+                edged: 0
+                piercing: 0
+                fire: 0
+      adjacent:
+        - - headpart
+          - torsopart
+        - - headpart
+          - rarmpart
+        - - headpart
+          - larmpart
+        - - torsopart
+          - rarmpart
+        - - torsopart
+          - larmpart
+        - - torsopart
+          - rlegpart
+        - - torsopart
+          - llegpart
+        - - llegpart
+          - rlegpart
+    weight:
+      base: 172
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1.0
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: venusia
+      type: affiliation
+    - shortcode: cook
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: folklr
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: math
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: chrm
+      type: skill
+      system:
+        masteryLevelBase: 33
+    - shortcode: cmd
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: dscr
+      type: skill
+      system:
+        masteryLevelBase: 24
+    - shortcode: guil
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 39
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 56
+    - shortcode: thtcs
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: herb
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: timb
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: trak
+      type: skill
+      system:
+        masteryLevelBase: 26
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 65
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 52
+    - shortcode: dnce
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: ridg
+      type: skill
+      system:
+        masteryLevelBase: 13
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 12
+    - shortcode: archery
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 36
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: draw
+      type: skill
+      system:
+        masteryLevelBase: 75
+    - shortcode: hide
+      type: skill
+      system:
+        masteryLevelBase: 60
+    - shortcode: mtlc
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: wpnc
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: wood
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: Kni
+      type: weapongear
+    - shortcode: LtShirt
+      type: armorgear
+    - shortcode: WTrsr
+      type: armorgear
+    - shortcode: LtKBoot
+      type: armorgear
+    - shortcode: LtApn
+      type: armorgear
+    - shortcode: tndrbx
+      type: miscgear
+    - shortcode: StdRtns
+      type: miscgear
+      system:
+        quantity: 2
+    - type: miscgear
+      name: Wooden toolbox with carving implements
+      system:
+        weight: 2
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Chisels and gouges
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Wood polish and finishes
+      system:
+        weight: 0.5
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Sample woods for display
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - type: miscgear
+      name: Whetstone for carving tools
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - shortcode: bglgcvs
+      type: containergear
+    - shortcode: bpchlg
+      type: containergear
+---
+
+# Appearance {#appearance}
+
+Xadrôs stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, rounded cheeks.
+
+# Dossier {#dossier}
+
+**The Inherited Craft**
+
+Xadrôs was born into a family of woodcrafters in the Holy Kingdom of Nartum, inheriting his profession and workshop as naturally as other children inherit a house. The Dâemâtês family workshop has existed for six generations, continuously occupying the same wooden building on the main street of their village, and his father, his grandfather, and his great-grandfather before them all practiced the craft of fine woodworking—the creation of objects that existed at the intersection of utility and beauty. From his earliest memories, Xadrôs was immersed in the sounds and scents of the workshop: the whisper of saw through wood, the sweet aroma of fresh shavings and linseed oil, the meditative rhythm of careful carving. His father was a teacher of exceptional patience, recognizing that Xadrôs possessed a gift for understanding wood's properties and an almost supernatural ability to envision how a block of timber might be transformed into finished beauty.
+
+**The Artisan's Mastery**
+
+By the time Xadrôs reached maturity, he had become a master craftsman of genuine skill. His work—intricate carved boxes, elaborately finished furniture, decorative panels that adorned homes and temples throughout the region—earned consistent praise for the quality of execution and the elegance of design. His particular specialty is relief carving: the creation of detailed scenes and patterns that emerge from wood's surface through patient, careful chiseling. He possesses an intuitive understanding of how light interacts with carved depth, how the grain of wood can be used to enhance a design, how the finish can bring out the inherent beauty of the material. His work is technically superb and aesthetically moving, often commissioned by wealthier villagers for important occasions or by religious orders seeking altar adornments of especial beauty.
+
+**The Limited Horizon**
+
+However, Xadrôs' work, for all its quality, has remained confined to his village and the immediately surrounding region. He has never sought broader patronage, never traveled to distant cities to display his work to wealthier clients, never pursued the kind of ambition that might have elevated him from respected village craftsman to celebrated artisan of the kingdom. This is partly a matter of temperament—he is a quiet, introverted man who finds the idea of self-promotion distasteful. But it is also a matter of deeper uncertainty: Xadrôs suspects, without ever having put it explicitly into words, that his work, while admirable, may not be exceptional enough to justify wider acclaim. This self-doubt, despite evidence to the contrary, has confined him to the comfortable predictability of village life.
+
+**The Present Complication**
+
+Now at thirty-eight winters, with his father deceased and the workshop responsibilities entirely his own, Xadrôs finds himself at an unexpected crossroads. The village itself is slowly changing—younger people departing for cities, traditional crafts becoming less valued as manufactured goods become available, patrons becoming fewer and their commissions smaller. His prices, set according to the cost of materials and the traditional rates his family has always charged, seem inadequate to the labor involved. He struggles to understand pricing in commercial terms rather than as a matter of fairness and tradition. The security of inherited position is eroding, and Xadrôs must decide whether to remain confined to his village, watching his craft fade, or whether to overcome his doubts and attempt to achieve the broader recognition his skill arguably deserves.
+
+## Psyche
+
+### Personality
+
+Xadrôs is a man of quiet introspection and gentle sensibility. He is capable of extended periods of focused silence, becoming almost absent from the external world when absorbed in his work. Those who know him describe him as unfailingly courteous, genuinely interested in others' well-being, and never quick to anger or judgment. However, this gentleness masks a persistent current of self-doubt and mild depression. He tends to undervalue his own work, deflecting compliments with self-deprecation, and to overestimate the work of other craftsmen. He carries a subtle sadness about the state of the world, the decline of traditional crafts, and a sense that he is fighting a losing battle against inevitable change.
+
+Despite these melancholic tendencies, Xadrôs is not paralyzed by despair. He continues to create, to teach his apprentices (though fewer arrive each year), and to find genuine pleasure in the act of creation. His sadness is more the quietly aching awareness of impermanence and limitation—a recognition that his beautiful work will likely outlive his fame and will eventually be forgotten, as all things are forgotten.
+
+### Motivation
+
+Xadrôs is motivated fundamentally by the creative impulse and the desire to create objects of genuine beauty. He works because the act of working brings satisfaction and meaning, not primarily because he seeks fame or wealth. However, he is also motivated by a growing fear that his craft will die—both personally, when he eventually passes, and more broadly, as traditional woodworking becomes less valued in an increasingly modernizing world. This mixture of genuine artistic drive and defensive worry about cultural irrelevance shapes his current life. He wants to believe that beauty created with care and skill is its own justification, but he is increasingly aware that the market for such things may be finite and declining.
+
+### Strengths
+
+- **Masterful Craftsmanship**: Xadrôs' technical skill in woodworking, carving, and finishing is exceptional. His understanding of wood properties, tool technique, and aesthetic composition is evident in every piece he creates.
+- **Artistic Vision**: Beyond mere technical competence, Xadrôs possesses genuine artistic sensibility. His designs show imagination, elegance, and an intuitive understanding of how form creates meaning.
+- **Patient Teaching**: Though he has had fewer apprentices in recent years, Xadrôs is a gifted teacher capable of conveying not merely the mechanical aspects of the craft but also the philosophical and aesthetic principles underlying good design.
+- **Deep Knowledge**: His six-generation family legacy has provided him with extensive practical knowledge of wood types, tool maintenance, finishing techniques, and the history of his craft.
+
+### Weaknesses
+
+- **Crippling Self-Doubt**: Xadrôs profoundly underestimates his own abilities and potential, consistently assuming his work is merely competent when it is genuinely exceptional. This self-doubt prevents him from pursuing opportunities that might elevate his reputation.
+- **Inadequate Business Sense**: He struggles with fundamental commercial concepts like pricing for value rather than cost, marketing his work, or negotiating with potential patrons. He tends to accept whatever customers offer without advocating for fair compensation.
+- **Social Anxiety**: Xadrôs is fundamentally introverted and uncomfortable with self-promotion, social performance, or interaction with large groups. The idea of leaving his workshop to pursue broader recognition is genuinely distressing to him.
+- **Learned Fatalism**: Despite his actual quality, Xadrôs has increasingly internalized the assumption that his craft is dying and that resistance is futile, leading to passive acceptance of decline rather than active effort to ensure the craft's survival.
+
+## Social
+
+### Patrons
+
+- **The Temple of Vénusia**: The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Xadrôs, valuing both his skill and his personal piety.
+- **Merchant Peldan the Prosperous**: A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Xadrôs' most reliable repeat customer.
+- **Village Elder Marîn**: The village's governing elder who treasures Xadrôs' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
+
+### Enemies
+
+- **None formally, though tensions exist with imported goods manufacturers who have begun selling cheaper, mass-produced items in the village market, undercutting local craftspeople's prices.**
+
+### Affiliations
+
+- **The Dâemâtês Family Workshop**: Operating for six generations, this establishment remains Xadrôs' primary identity and focus.
+
+## Plot Hooks
+
+1. **The Unexpected Patron**: A wealthy merchant from a major city visits the village and discovers Xadrôs' work, becoming genuinely impressed by its quality. The merchant offers a substantial commission for a series of pieces to be created for his family home, along with an invitation for Xadrôs to travel to the city to oversee installation and to meet other potential patrons. The offer represents genuine opportunity but requires Xadrôs to overcome his anxiety, leave his comfortable village, and risk rejection in a broader market. The party becomes involved when obstacles emerge—perhaps the merchant turns out to have less-than-honorable intentions, or perhaps circumstances arise that test Xadrôs' commitment to the opportunity.
+
+2. **The Craft's Defense**: An organization seeking to modernize the village proposes eliminating the old craftspeople's quarter and replacing it with more efficient production facilities. Xadrôs finds himself at the center of resistance against cultural erasure, forced to become an advocate for traditional methods despite his natural disinclination toward conflict. The party must help him navigate the battle to preserve the craft and the community of artisans, while Xadrôs learns that his voice and work matter more than he believed.
+
+3. **The Legendary Wood**: A traveler arrives in the village bearing wood from a distant, legendary forest—timber reputed to possess unique properties and beauty. The traveler commissions Xadrôs to create something extraordinary from this material, offering payment sufficient to change his life. However, the wood itself presents unexpected challenges: it is difficult to work, seems to resist certain carving approaches, and carries rumors of strange properties. Xadrôs must grapple with the technical challenge while also developing a growing awareness that the wood itself may have significance or history that goes beyond mere material.
+
+4. **The Inheritance Question**: Xadrôs receives word that a distant relative—a family member he never knew existed—has died and left a significant collection of tools, materials, and notes related to an advanced woodworking technique that has been lost to the broader craft for several generations. The relative's family approaches Xadrôs with the inheritance, but there are complications: the notes are in a language he doesn't fully understand, the materials may belong to museums or historical societies, and learning the technique would require him to travel and study under mentors in distant lands. The adventure explores whether Xadrôs can overcome his self-doubt and geographical limitations to reclaim something precious from his family's history.
+
+5. **The Curse of Beauty**: Xadrôs creates a particularly beautiful and intricate piece and sells it to a collector from the city. Within months, reports reach him that the piece has become the focus of obsession and tragedy for those who own it—relationships destroyed, fortunes lost, lives ruined, all centered around possession of the beautiful wooden object. Xadrôs is devastated by the belief that his work has somehow been cursed or has brought misfortune, leading him to question whether creating beauty is worth the potential for causing harm. The party must help him investigate whether the piece is genuinely cursed, whether coincidence and human obsession are being mistaken for supernatural cause, or whether something deeper is occurring—all while helping Xadrôs navigate the guilt and responsibility he feels for his creation's effects.
