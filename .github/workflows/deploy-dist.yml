@@ -1,0 +1,135 @@
+name: Publish content to the dist branch
+
+# This repository owns exactly one path on heroiclands.org — `/thalorna` — and
+# publishes it as markdown rather than as a website (#1451/#1444). The site
+# repository checks this branch out into `_dist/thalorna/` and mounts
+# `content/` at `content/thalorna`, so nothing here runs Hugo, holds a theme, or
+# deploys anything.
+#
+# The branch is a build artifact: it is force-replaced on every publish and
+# carries no history worth keeping. `main` is the source.
+on:
+  # Republish whenever the content, or the build that derives it, changes.
+  push:
+    branches: [main]
+    paths:
+      - "assets/content/**"
+      - "assets/legacy-urls.json"
+      - "assets/manifests/**"
+      - "utils/build-site-content.mjs"
+      - "utils/site-wikilinks.mjs"
+      - "utils/content-slug.mjs"
+      - "utils/content-tables.mjs"
+      - "utils/kb-manifest.mjs"
+      - "utils/packs/**"
+      - ".github/workflows/deploy-dist.yml"
+  workflow_dispatch:
+
+# contents: write -> force-push the built tree onto the dist branch
+permissions:
+  contents: write
+
+# Serialize publishes so two runs never race on the dist branch
+concurrency:
+  group: dist-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build website content
+        run: npm run build:site-content
+
+      # The build writes only under `build/dist/content`, but the branch is
+      # what the site actually mounts — so assert the shape here rather
+      # than trusting that it stayed true. An empty tree would silently
+      # unpublish every page; a stray top-level entry would mount
+      # somewhere nobody asked for.
+      - name: Verify the published tree
+        run: |
+          set -euo pipefail
+          test -d build/dist/content
+          stray=$(find build/dist -mindepth 1 -maxdepth 1 ! -name content)
+          if [ -n "${stray}" ]; then
+              echo "dist tree has entries other than content/:"
+              echo "${stray}"
+              exit 1
+          fi
+          pages=$(find build/dist/content -name '*.md' | wc -l)
+          echo "dist carries ${pages} page(s)."
+          # A collapse to a handful of pages is a build failure that did
+          # not exit non-zero; publishing it would unpublish the package.
+          if [ "${pages}" -lt 1000 ]; then
+              echo "Refusing to publish: expected ~1,470 pages."
+              exit 1
+          fi
+
+      - name: Publish to the dist branch
+        id: publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          # An orphan branch every time: dist is output, and its history
+          # would otherwise grow by a full content tree per push.
+          mkdir dist && cd dist
+          git init -q
+          git remote add origin "${REPO_URL}"
+          git checkout -q --orphan dist
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          cp -R "${GITHUB_WORKSPACE}/build/dist/." .
+          # Tell the consumer what it is looking at; the site checks this
+          # branch out without ever reading `main`.
+          cat > README.md <<'EOF'
+          # dist — generated output
+
+          Built from `main` by `.github/workflows/deploy-dist.yml`. Do not
+          edit: this branch is force-replaced on every publish.
+
+          `content/` is the `thalorna` package's website markdown, mounted
+          by `heroiclands-site` at `content/thalorna`.
+          EOF
+
+          git add -A
+          git commit -q -m "content: publish ${GITHUB_SHA}"
+          git push -qf origin dist
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # The site rebuilds from every package's dist branch, so it has to be
+      # told one changed. Skips cleanly when the token is unset, which is
+      # what makes this workflow safe to land before the site can consume
+      # it (#1453).
+      - name: Ask heroiclands-site to rebuild
+        if: steps.publish.outputs.pushed == 'true'
+        env:
+          SITE_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${SITE_TOKEN:-}" ]; then
+              echo "SITE_DISPATCH_TOKEN not configured; skipping rebuild dispatch."
+              exit 0
+          fi
+          curl -fsS -X POST \
+              "https://api.github.com/repos/HeroicLands/heroiclands-site/dispatches" \
+              -H "Authorization: Bearer ${SITE_TOKEN}" \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              --data '{"event_type":"package-dist-updated","client_payload":{"package":"thalorna"}}'
+          echo "Rebuild requested."

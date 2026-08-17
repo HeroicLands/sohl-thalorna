@@ -489,7 +489,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-  items: []
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald
