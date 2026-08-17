@@ -12,12 +12,11 @@
  */
 
 /**
- * Website content build — `assets/content/` → `build/dist/content/` (#1451).
+ * Website content build — `assets/content/` → `build/site/content/` (#1451).
  *
- * This package publishes exactly one path on heroiclands.org, `/thalorna`, and
- * it publishes it as **markdown**: `heroiclands-site` mounts the tree this
- * script writes at `content/thalorna` and renders it with the shared theme (see
- * #1453). Nothing here runs Hugo, and nothing here writes outside `/thalorna`.
+ * This package owns exactly one path on heroiclands.org, `/thalorna`, and
+ * nothing here writes outside it. The tree this script produces is the pages of
+ * that path; rendering and deploying them is the other half of #1451.
  *
  * The output is the same shape the site's vault exporter produced before this
  * repository owned its content — a flat section directory per published type,
@@ -41,8 +40,8 @@
  *    before, as Hugo `aliases`, and the name its CDN artwork was uploaded under,
  *    as `artwork` (`assets/legacy-urls.json`).
  *
- * Output is a build artifact under `build/`, regenerated here and force-pushed
- * to the `dist` branch by `.github/workflows/deploy-dist.yml`.
+ * Output is a build artifact under `build/`, regenerated from source on every
+ * run and never committed.
  *
  * Usage: node utils/build-site-content.mjs
  */
@@ -65,7 +64,7 @@ import { CONTENT_PACKAGE } from "./packs/content-package.mjs";
 
 const REPO = path.resolve(".");
 const CONTENT_SRC = path.join(REPO, "assets/content");
-const OUT = path.join(REPO, "build/dist/content");
+const OUT = path.join(REPO, "build/site/content");
 
 /** Manifests for packages this build links into but does not publish (#1446). */
 const MANIFEST_SRC = path.join(REPO, "assets/manifests");

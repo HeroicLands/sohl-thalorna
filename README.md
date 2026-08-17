@@ -8,7 +8,7 @@ This module provides the necessary items, actors, and assets needed to play in t
 npm install
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals}
 npm run build:link-manifest  # assets/content/ → build/manifests/thalorna.json
-npm run build:site-content   # assets/content/ → build/dist/content/
+npm run build:site-content   # assets/content/ → build/site/content/
 ```
 
 A plain checkout is all that is needed. There is no sibling repository to clone
@@ -33,16 +33,12 @@ why each exists.
 ## Publishing to the website
 
 This repository owns exactly one path on heroiclands.org — **`/thalorna`** — and
-publishes it as **markdown, not as a website** (#1451). `npm run
-build:site-content` turns `assets/content/` into a Hugo-ready tree under
-`build/dist/content/`, and `.github/workflows/deploy-dist.yml` force-pushes that
-tree to the **`dist`** branch on every push to `main` that touches the content or
-the build that derives it. `heroiclands-site` checks `dist` out into
-`_dist/thalorna/` and mounts `content/` at `content/thalorna` (#1453).
+nothing else writes to it. `npm run build:site-content` turns `assets/content/`
+into a Hugo-ready tree under `build/site/content/`: the pages of that path,
+derived from the content this repository owns.
 
-Nothing here runs Hugo, holds a theme, or deploys anything, and nothing else
-writes to `/thalorna`. The `dist` branch is output: it is force-replaced on every
-publish and has no history worth keeping — `main` is the source.
+Rendering that tree and deploying it is #1451, and lands next. Until it does,
+the tree is built and verified here but not yet published.
 
 What the build does to a note:
 

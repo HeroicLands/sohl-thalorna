@@ -2,21 +2,15 @@
 "sohl-thalorna": minor
 ---
 
-**Thalorna publishes its own path on the website.** This repository now builds
-the `/thalorna` pages itself and publishes them to a `dist` branch, instead of
-`heroiclands-site` deriving them from the HeroicLands vault. It publishes
-markdown, not a website — nothing here runs Hugo, holds a theme, or deploys
-anything, and nothing else writes to `/thalorna`.
+**Thalorna derives its own website content.** This repository now builds the
+`/thalorna` pages from the content tree it owns, instead of `heroiclands-site`
+deriving them from the HeroicLands vault.
 
 - `npm run build:site-content` turns `assets/content/` into a Hugo-ready tree
-  under `build/dist/content/`: a section directory per published type, a page per
+  under `build/site/content/`: a section directory per published type, a page per
   note, `dataview` tables expanded, and wikilinks resolved to site-local hrefs.
   It reuses the URL rule the link manifest already applies, so the manifest and
   the pages it names cannot disagree about where a page is.
-- `.github/workflows/deploy-dist.yml` force-pushes that tree to the `dist` branch
-  on every push to `main` that touches the content or the build deriving it, then
-  asks `heroiclands-site` to rebuild. The dispatch skips cleanly while
-  `SITE_DISPATCH_TOKEN` is unset, so this lands before the site can consume it.
 - `assets/legacy-urls.json` records the URLs each page published at before, as
   append-only history. It becomes the page's Hugo `aliases` — so old links still
   land — and its `artwork` name, which is the filename the character and creature
