@@ -1,0 +1,35 @@
+{
+  "name": "Ankh-Setûn",
+  "pages": [
+    {
+      "_id": "34ad33cfe4ce4cde",
+      "name": "Ankh-Setûn",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Ankh-Setûn — &quot;the living storehouse&quot; — is the capital of the empire's [[doc-nomenkhstn|great granary nome]], a substantial inland city set among the richest wheatland in [[doc-empirtkhpr|The Empire of Ta'Kheperu]]. It is a city built around grain: its skyline is a forest of granary-domes, its markets trade in wheat and barley by the boatload, and its busiest halls are the survey-courts and tally-bureaus where the flood-fields are measured and the harvests assessed. Here the [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] holds court — a conservative, land-proud lord whose power rests on the bread he controls — and the great temple of [[affiliation-kemtnpnthn|Má'át]], goddess of order and right measure, presides fittingly over a city whose whole life is survey, tally, and the honest filling of stores. It is not a glamorous place, but it is one of the most important in the empire: when the harvest fails elsewhere, it is Ankh-Setûn's granaries that decide who eats.</p>\n<h2>Notable Features</h2>\n<ul>\n<li>The great granaries that store the empire's reserve against famine</li>\n<li>The grain-markets and the survey-and-assize courts that measure the land</li>\n<li>The temple of Má'át, goddess of order and right measure</li>\n<li>The seat of the granary-Haty'a, one of the empire's quiet kingmakers</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-nomenkhstn|The Nome of Ankh-Setûn]] — Parent nome</li>\n<li>[[doc-meruhotep|Meru-Hotep]] — The nome's river-port</li>\n<li>[[doc-uperivrnms|The Upper River Nomes]] — Nome-class</li>\n<li>[[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!kjeTX8avJnpknuJ3.34ad33cfe4ce4cde"
+    }
+  ],
+  "folder": "DCVpoMWDdub9pwDR",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "kjeTX8avJnpknuJ3",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!kjeTX8avJnpknuJ3"
+}

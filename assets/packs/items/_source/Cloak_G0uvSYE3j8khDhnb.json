@@ -1,0 +1,39 @@
+{
+  "name": "Cloak",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/anvil.svg",
+  "_id": "G0uvSYE3j8khDhnb",
+  "system": {
+    "shortcode": "cloak",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/cloak/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster draws metallic dust and mineral particles from the surrounding environment, swirling them into a dense cloud that settles over the target like a living garment. The particles constantly shift and realign, matching the colors and textures of the immediate background with remarkable fidelity. The cloaked individual blends into their surroundings — not truly invisible, but so well camouflaged that they are extremely difficult to spot unless they move suddenly or the observer knows exactly where to look.</p>\n<p>The cloak's effectiveness depends on the environment: against a stone wall, the match is nearly perfect, while in a forest the metallic particles struggle to replicate organic textures convincingly. Movement degrades the concealment as the particles lag slightly behind the wearer, creating a subtle ripple that sharp-eyed observers may notice. The cloud of particles also provides a minor physical defense, as incoming projectiles are partially deflected by the dense mineral screen. In complete darkness, the cloak is irrelevant, but in any environment with light, it provides a significant stealth advantage.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "sideros",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 5,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!G0uvSYE3j8khDhnb"
+}

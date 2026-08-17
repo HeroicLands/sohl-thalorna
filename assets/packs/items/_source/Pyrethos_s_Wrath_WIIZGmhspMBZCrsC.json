@@ -1,0 +1,40 @@
+{
+  "name": "Pyréthos's Wrath",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "WIIZGmhspMBZCrsC",
+  "system": {
+    "shortcode": "ElxErp",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/pyr-thoss-wrath/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A volatile, simmering crimson liquid that radiates heat even through thick glass, held in a reinforced vial wrapped in leather to prevent accidental detonation. Bound to the Principle of Mineral (Sidéros), this elixir transforms into chaos the moment its container is smashed—whether hurled against armor, cracked upon stone, or dashed to the ground in desperation. Upon impact, a noisome cloud erupts in a ten-foot diameter, billowing acrid fumes that burn all within the blast radius with Area d4 damage plus the elixir's Aural Shock multiplied by four. The explosion is so bizarre and terrifying that even those uninjured by the blast may suffer Morale Rolls, the sight alone shaking the resolve of opponents nearby.</p>\n<p>Ingesting Eruption Elixir is catastrophic: swallowing it triggers Crucial Alchemical Dissolution, burning away the imbiber's insides. Only the most suicidal or accident-prone drink it willingly. This weapon-elixir is meant to be hurled, lobbed from cover or flung in a last stand against overwhelming numbers.</p>\n<p>Desperate commanders commission alchemists to brew Eruption in wartime. Some cities keep sealed casks beneath their walls for use against siege engines, accepting the risk of catastrophic accident for the promise of devastating defense.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 0,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "elixir",
+    "potency": "na",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "zjH2UVFqfHp20lIq",
+  "_key": "!items!WIIZGmhspMBZCrsC"
+}

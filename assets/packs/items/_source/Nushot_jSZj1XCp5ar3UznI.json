@@ -1,0 +1,37 @@
+{
+  "name": "Nüshöt",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "jSZj1XCp5ar3UznI",
+  "system": {
+    "shortcode": "nushot",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/n-sh-t/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<h1>Nüshöt — The Burning Dissolution</h1>\n<p>Where the Bureau of Returns (Nüs Sëi) recycles dissolved things back into the classification system, and the Bureau of Transformation (Höt Sëi) governs fire as a tool of purification and transmission, Nüshöt represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates — dissolution that does not recycle but erases. Things consumed by Nüshöt do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the Hürnlëi as raw, unprocessed potential.</p>\n<p>The Tānthëi teach that Nüshöt was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict — dissolution and transformation applied simultaneously to the same thing — produced an entity that embodies both functions taken to their most destructive extreme.</p>\n<p>Nüshöt is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, profoundly illegal under celestial law. The Quaesitorium equivalent within the Tānvüri system — the Celestial Marshals (Tëng Vüszhük) — treat any evidence of Nüshöt invocation as a matter of the highest urgency.</p>\n<h2>Mortal Cultus: The Nüszōk Rëit</h2>\n<p>The orthodox Tānthëological claim that Nüshöt is &quot;invoked, never worshipped&quot; has become empirically false. The [[affiliation-nuszokreit|Nüszōk Rëit]] — the Cult of the Forsaken — has taken Nüshöt as its primary celestial patron, and it worships the Unmaker openly within its secret gatherings. The cult's doctrine of <em>destruction total and everlasting</em> is a direct invocation of Nüshöt's domain: the dissolution that does not feed a cycle of renewal, the fire that annihilates without remainder. The cult's suicide incendiaries, its archive burnings, and its public atrocities at festivals are all dedicated to Nüshöt, and the small rituals its operatives perform before a strike invoke the Unmaker's name.</p>\n<p>The Celestial Marshals are aware of this development and regard it as the single most alarming religious innovation within the empire's borders in centuries. Imperial suppression of the cult has, to date, been unsuccessful.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[affiliation-nuszokreit|Nüszōk Rëit]] — The cult that has taken Nüshöt as its primary patron</li>\n<li>[[affiliation-yokveng|Yokveng]] — The Demon Realm</li>\n<li>[[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy whose failures produced Nüshöt</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "tngvkvnlei": "aligned",
+      "yokveng": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "kZkGNxVHbgGyhAHr",
+  "_key": "!items!jSZj1XCp5ar3UznI"
+}

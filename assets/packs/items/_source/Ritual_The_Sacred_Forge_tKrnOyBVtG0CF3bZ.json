@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: The Sacred Forge",
+  "type": "skill",
+  "img": "images/affiliation/sacredforge.webp",
+  "_id": "tKrnOyBVtG0CF3bZ",
+  "system": {
+    "shortcode": "sacredforge",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-the-sacred-forge/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-sacredforge|The Sacred Forge]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "iRIw6GzQvZ4UF0Lf",
+  "_key": "!items!tKrnOyBVtG0CF3bZ"
+}

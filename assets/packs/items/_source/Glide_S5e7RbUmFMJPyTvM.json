@@ -1,0 +1,39 @@
+{
+  "name": "Glide",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/water.svg",
+  "_id": "S5e7RbUmFMJPyTvM",
+  "system": {
+    "shortcode": "glide",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/glide/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster enchants a surface of ice to become perfectly smooth and frictionless beneath the target's feet, while simultaneously granting the target supernatural balance and speed upon it. The target skims across ice with effortless grace, accelerating to remarkable speeds and turning with a thought, as if the ice itself were cooperating with their movement.</p>\n<p>The spell is most obviously useful for crossing frozen lakes and rivers at speed, but creative practitioners use it in conjunction with Iceforge to create icy pathways across any terrain — up walls, over gaps, even across the surface of water if the ice is formed quickly enough. The target's feet remain firmly planted despite the frictionless surface, a paradox that the spell resolves through magical adhesion. Others attempting to follow on the enchanted ice find it as treacherous as one would expect.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "hydalis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 5,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!S5e7RbUmFMJPyTvM"
+}

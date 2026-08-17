@@ -1,0 +1,35 @@
+{
+  "name": "The Silent Talon Company",
+  "pages": [
+    {
+      "_id": "9a0721eec64f0703",
+      "name": "The Silent Talon Company",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><em>Precision, Discretion, and Expertise for Every Mission</em></p>\n<h2>Who We Are</h2>\n<p>The Silent Talon is an elite mercenary company specializing in high-stakes, covert operations. With a handpicked team of experts in scouting, infiltration, combat, and tactical intelligence, we excel in missions requiring precision, secrecy, and specialized skills. Whether you need an operation handled without a trace or require intelligence gathered from behind enemy lines, the Silent Talon is your answer. We offer a tailored, strategic approach to challenging situations where subtlety, adaptability, and expertise are paramount.</p>\n<h2>Our Capabilities</h2>\n<p>The Silent Talon’s mixed composition allows us to excel in a variety of specialized missions:</p>\n<ul>\n<li><strong>Infiltration &amp; Espionage</strong>: Need information without causing a stir? Our operatives are trained to infiltrate even the most secure locations undetected, retrieve intelligence, and leave no evidence behind.</li>\n<li><strong>Stealth Operations</strong>: Whether it's sabotage, hostage extraction, or dismantling enemy supply lines, we work quietly and efficiently, ensuring the job is done without drawing attention.</li>\n<li><strong>Reconnaissance &amp; Scouting</strong>: Our scouts can navigate the most difficult terrains, gather critical information, and report back before your enemy even knows they've been watched.</li>\n<li><strong>Targeted Strikes</strong>: When a direct confrontation is unavoidable, we excel in quick, decisive engagements that neutralize key threats before they escalate.</li>\n<li><strong>Specialized Protection</strong>: If you require the protection of high-profile individuals or assets, we provide discreet, highly skilled security that operates outside the traditional &quot;wall of soldiers&quot; approach.</li>\n</ul>\n<h2>Meet the Team</h2>\n<ul>\n<li>[[character-branwldrgr|Brànwâal Dôrgaar]] --- <em>Captain</em></li>\n</ul>\n<p>With a sharp mind for strategy and command, Brànwâal has led men through some of the most dangerous conflicts in the Blood Lands. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.</p>\n<ul>\n<li>[[character-dornsyndlr|Dôren Sýndalr]] --- <em>Assault Specialist</em></li>\n</ul>\n<p>A formidable force on the battlefield, Dôren is the heavy hitter of the Silent Talon. Towering in stature and wielding his axe with deadly efficiency, he’s a warrior who knows how to get the job done. When combat is needed, Dôren is the first to charge in and the last to back down.</p>\n<ul>\n<li>[[character-chlbrhydyn|Chéleb Rhýddýn]] --- <em>Scout</em></li>\n</ul>\n<p>A master of the wilderness, Chéleb hails from the Jerinálian Mountains, where he honed his skills in tracking, survival, and archery. His keen senses and deep knowledge of nature make him the group’s go-to for scouting missions and reconnaissance. Chéleb can blend seamlessly into the terrain, uncovering vital information with ease.</p>\n<ul>\n<li>[[character-torniskbry|Tórnis Kúbrý]] --- <em>Intelligence Operative</em></li>\n</ul>\n<p>Silent, adaptable, and resourceful, Tórnis is the man you call when you need to get into places no one else can. With an unrivaled talent for blending in, he excels in espionage, gathering intelligence, and handling missions that require discretion. Tórnis’ ability to operate covertly makes him an indispensable part of the Silent Talon.</p>\n<ul>\n<li>[[character-elyseskyrn|Elýsè Skýrn]] --- <em>Field Medic</em></li>\n</ul>\n<p>Every team needs someone who can keep them going, and Elýsè is the heart of Silent Talon’s support. A skilled healer and apothecary, Elýsè ensures that no injury goes untreated and no poison goes unpurged. Her knowledge of herbs and remedies allows the team to recover quickly, no matter how dangerous the mission.</p>\n<hr>\n<p>When precision, discretion, and expertise are required, the Silent Talon is ready to act. Let us handle your most delicate operations with the care they deserve.</p>\n"
+      },
+      "_key": "!journal.pages!SG3QpIM8U4cfoua5.9a0721eec64f0703"
+    }
+  ],
+  "folder": "bVhz4i3fwwT0NDSW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "SG3QpIM8U4cfoua5",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!SG3QpIM8U4cfoua5"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Mercavia",
+  "pages": [
+    {
+      "_id": "c0ca69255b8d99aa",
+      "name": "Mercavia",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Mercavia is the largest city of [[doc-provincvld|Vald]], its provincial capital, and the busiest commercial harbor still under imperial control — the empire's great trading face to the sea. Its quays are crowded with merchantmen, its warehouses with goods bound inland and abroad, and its foreign quarters with [[doc-cnfdrtnhrdnstts|Haradian]] and [[doc-helionis|Heliónite]] factors. The great Valdian shipping houses keep their counting-rooms here, and though Harad's secession squeezed their eastern trade hard, Mercavia remains the most cosmopolitan city outside the capital — and the loudest voice in the empire for engagement with Harad rather than enmity. The provincial governor sits here, but real power is shared with the merchant houses whose money the province runs on.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provincvld|Province of Vald]] — Parent province</li>\n<li>[[doc-castamar|Castamar]] — The province's naval/military hub</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Vd2mKx7rWp4Tb9Ln.c0ca69255b8d99aa"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Vd2mKx7rWp4Tb9Ln",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Vd2mKx7rWp4Tb9Ln"
+}

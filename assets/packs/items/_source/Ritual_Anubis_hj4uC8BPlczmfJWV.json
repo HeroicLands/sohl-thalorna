@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: Ánubís",
+  "type": "skill",
+  "img": "systems/sohl/assets/icons/head-gear.svg",
+  "_id": "hj4uC8BPlczmfJWV",
+  "system": {
+    "shortcode": "anubis",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-nub-s/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-anubis|Faith of Ánubís]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "dxhPBmJv9YgSa4dJ",
+  "_key": "!items!hj4uC8BPlczmfJWV"
+}

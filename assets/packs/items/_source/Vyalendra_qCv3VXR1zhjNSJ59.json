@@ -1,0 +1,36 @@
+{
+  "name": "Vyālendra",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "qCv3VXR1zhjNSJ59",
+  "system": {
+    "shortcode": "vyalendra",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/vy-lendra/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<h1>Vyālendra — The Shaper of Worlds</h1>\n<ul>\n<li><strong>Domain:</strong> Creation, cosmic order, architecture, the founding of cities</li>\n<li><strong>Symbol:</strong> A lotus with golden petals</li>\n<li><strong>Pronunciation:</strong> <em>VYAH-len-drah</em></li>\n<li><strong>Pantheon:</strong> [[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n</ul>\n<p>Vyālendra is the architect of existence — the deity who gave shape to the earth, the skies, and all living things, and who continues to give shape to every new work of human making. Varṇakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats in miniature the original act of cosmic shaping. To build well is to serve Vyālendra; to build poorly is to mar the pattern from which the world itself was made.</p>\n<p>Worship of Vyālendra is strongest in the cities of [[doc-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.</p>\n<h2>Aspects</h2>\n<p>Vyālendra is depicted as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus represents the moment in which the formless takes form — the unfolding of pattern from possibility.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>Golden lotus medallion</strong> — worn by master craftsmen and senior clergy as a sign of their vocation</li>\n<li><strong>Measuring cord</strong> — a knotted ritual cord used in the consecration of new foundations</li>\n<li><strong>Carved foundation-stone</strong> — the first stone of any major construction, incised with a Vyāndran invocation</li>\n</ul>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Shilpa-Kalas</strong> — the crafting spirits, minor celestial kin who inspire mortals in art, architecture, and innovation. Artisans report their presence as a quiet clarity of mind at moments of breakthrough.</li>\n</ul>\n<h2>Veneration</h2>\n<p>In Vyāndran households, a small lotus-medallion hangs above the threshold and the tools of the household's trade are blessed at the beginning of each working day. Artisans and builders offer a pinch of powdered gold or saffron to the household shrine before undertaking a new commission. At the founding of a family home, the head of the household buries a small incised stone beneath the first pillar — an echo of the Rite of the First Stone performed by the priesthood for public works.</p>\n<h2>Ordeals for Favour</h2>\n<ul>\n<li><strong>The Year of the Apprentice</strong> — a year-long ordeal in which the devotee takes no food they did not help produce and no shelter they did not help build, learning the humility of construction from the ground up.</li>\n<li><strong>The Perfect Stone</strong> — the devotee must shape a single stone to proportions dictated by a senior priest, by hand, to such precision that no flaw can be found.</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n<li>[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] — the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahájaya and Rásikara</li>\n<li>[[affiliation-vyalendravada|Vyālendravāda]] — the monistic sect that holds Vyālendra as the supreme deity from whom all others emanate</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "varakpnthn": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "dxzsTyaF4LMapIJX",
+  "_key": "!items!qCv3VXR1zhjNSJ59"
+}

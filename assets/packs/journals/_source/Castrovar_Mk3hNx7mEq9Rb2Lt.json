@@ -1,0 +1,35 @@
+{
+  "name": "Castrovar",
+  "pages": [
+    {
+      "_id": "d046e93064328d4b",
+      "name": "Castrovar",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Castrovar is a legion fortress-town on the [[doc-vrystwald|Vrystwald]] march, the hard edge of the empire's northern shield. Behind its walls a frontier garrison drills against Varokh raids; before them stretches a debatable land of watchtowers, truces, and border-clans whose loyalties shift with the season. The town lives by the legion — its taverns, smiths, and traders all serve the soldiers — and its commander is, in practice, a small king whose word carries further than the capital's this far north.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provncmktr|Province of Moktur]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Mk3hNx7mEq9Rb2Lt.d046e93064328d4b"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Mk3hNx7mEq9Rb2Lt",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Mk3hNx7mEq9Rb2Lt"
+}

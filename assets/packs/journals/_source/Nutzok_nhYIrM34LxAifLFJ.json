@@ -1,0 +1,35 @@
+{
+  "name": "Nützōk",
+  "pages": [
+    {
+      "_id": "55344703a806871d",
+      "name": "Nützōk",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Slaves and Outcasts</strong></p>\n<p>The Nützōk occupy the lowest stratum of [[doc-empiretnvr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[doc-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.</p>\n<h2>Origins of Nützōk Status</h2>\n<h3>Slavery by Conquest and Debt</h3>\n<p>Prisoners of war, captives from border regions, and those unable to pay debts can be reduced to Nützōk status through legal processes. Enslavement is expected to be permanent.</p>\n<h3>Criminal Punishment</h3>\n<p>Individuals convicted of serious crimes—murder, major theft, sedition—can be sentenced to lifetime slavery rather than execution or mutilation. Such condemning condemns both the criminal and all their descendants to Nützōk status.</p>\n<h3>Caste Outcasting</h3>\n<p>In rare circumstances, a member of any higher caste can be stripped of their status and reduced to Nützōk for profound violations of [[doc-castelaws|Caste Laws]] or severe moral transgression. This process is considered a fate worse than death.</p>\n<h2>Rights and Restrictions</h2>\n<h3>Rights</h3>\n<ul>\n<li><strong>Right to Life</strong>: Basic legal protection against unlawful killing or maiming; however, a Nützōk's life is valued far below that of other castes, and punishments for harming them are minimal</li>\n<li><strong>Right to Petition for Mercy</strong>: In rare cases, a Nützōk may petition for elevation in status through exceptional service, extraordinary bravery, or demonstrated virtue—though such petitions are almost never granted</li>\n</ul>\n<h3>Absolute Restrictions</h3>\n<ul>\n<li><strong>Obligation to Serve</strong>: Must obey any command from any member of higher castes without question; disobedience results in death or severe corporal punishment</li>\n<li><strong>No Property Rights</strong>: Possesses nothing; all earnings and possessions belong to their master</li>\n<li><strong>No Marriage Rights</strong>: Nützōk cannot enter into legal marriage; reproduction, when permitted, produces children who are themselves Nützōk</li>\n<li><strong>No Freedom of Movement</strong>: Cannot leave their master's control without permission</li>\n<li><strong>No Personal Identity</strong>: Have no personal names; identified only by master's name and slave number or simple epithet</li>\n<li><strong>Permanent Status</strong>: Nearly impossible to rise from Nützōk status; the stain of slavery is considered permanent and taints all descendants to the furthest generation</li>\n</ul>\n<h2>Social Status and Treatment</h2>\n<p>Nützōk are treated as living property. Their masters may use them for any purpose—labor, personal service, entertainment, or disposal. While the law technically prohibits gratuitous murder of slaves (as this constitutes property damage), the practical protections are minimal and enforcement is rare.</p>\n<p>Other castes view Nützōk with contempt and revulsion. Association with Nützōk is socially damaging; even contact with slaves can result in loss of status or public shaming.</p>\n<h2>Path to Freedom</h2>\n<p>Elevation from Nützōk status is theoretically possible but practically nearly impossible:</p>\n<ul>\n<li>A master may choose to free a slave, granting them Nōkvür status and releasing them from bondage</li>\n<li>A slave who displays extraordinary courage in service to the empire (rare battlefield valor, saving a noble's life) might petition for status elevation</li>\n<li>A slave who accumulates sufficient wealth through exceptional service or unique skills might negotiate their own release</li>\n</ul>\n<p>In all cases, freed slaves face profound social isolation and suspicion. They are not truly accepted into the caste they join; they remain forever marked as former slaves. Their descendants may eventually integrate into their assigned caste, but it requires generations.</p>\n<h2>No Redemption</h2>\n<p>The [[doc-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or systematic transformation of Nützōk into higher castes. The system is designed to perpetuate the condition. Children born to Nützōk parents are automatically Nützōk, inheriting their parents' bondage and degradation. Breaking this chain requires the intervention of masters or exceptional personal circumstances—resources available to vanishingly few.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-castelaws|Caste Laws]] — rights and restrictions governing Nützōk</li>\n<li>[[doc-nokvur|Nōkvür]] — peasant farmers, the lowest free caste</li>\n<li>[[doc-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy</li>\n<li>[[doc-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement</li>\n<li>[[doc-lawhonor|Law and Honor]] — legal framework governing treatment of slaves</li>\n<li>[[doc-empiretnvr|Empire of Tānvür]] — overview of imperial society and structure</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!nhYIrM34LxAifLFJ.55344703a806871d"
+    }
+  ],
+  "folder": "ZUKWHCnKcLAoZMdf",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "nhYIrM34LxAifLFJ",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!nhYIrM34LxAifLFJ"
+}

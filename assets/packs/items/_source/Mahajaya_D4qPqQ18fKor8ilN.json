@@ -1,0 +1,36 @@
+{
+  "name": "Mahájaya",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "D4qPqQ18fKor8ilN",
+  "system": {
+    "shortcode": "mahajaya",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/mah-jaya/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<h1>Mahájaya — The Eternal Preserver</h1>\n<ul>\n<li><strong>Domain:</strong> Order, prosperity, harvest, trade, the cycles of growth and abundance</li>\n<li><strong>Symbol:</strong> A balanced scale encircled by wheat</li>\n<li><strong>Pronunciation:</strong> <em>MAH-ha-jah-yah</em></li>\n<li><strong>Pantheon:</strong> [[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n</ul>\n<p>Mahájaya is the goddess of preservation, harmony, and abundance — the presence by whose steady influence fields ripen, markets flourish, and the seasons turn in their ordered round. Where [[affiliation-vyalendra|Vyālendra]] gives the world its shape, Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every moment of exchange in which the good order of human society is affirmed.</p>\n<p>Mahájaya is most visible in the countryside of [[doc-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities, she is the patron of merchants, bankers, and the civic authorities responsible for granaries, water rights, and the regulation of trade.</p>\n<h2>Aspects</h2>\n<p>Mahájaya is depicted as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is not the scale of judgement but of measure — the careful weighing that ensures honest exchange, fair portion, and the harmony of giving and receiving. Her colour is the gold of ripe grain, and her seasons are the seasons of cultivation.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>Brass weighing scale</strong> — kept in village shrines and temples; used in ceremonial weighings at festivals</li>\n<li><strong>Sheaf of wheat</strong> — carried in procession; a stalk is placed on the household shrine at the beginning of each harvest</li>\n<li><strong>Bowl of mixed grains</strong> — a sign of the wholeness that arises from many parts kept in proper relation</li>\n</ul>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Nivara-Kshetras</strong> — the spirits of the fields, who guard the sown ground, guide the rains, and keep the ripening grain from blight. Farmers leave small offerings at the field's edge at each new phase of the moon.</li>\n</ul>\n<h2>Veneration</h2>\n<p>In Mahájayan households, a small brass scale sits on the household shrine beside the sheaf of the current harvest. At the close of each market day, merchants touch the scale and name the principal transactions of the day, asking that nothing was gained by short measure. Farmers walk the boundary of a sown field at each new moon, scattering a handful of millet to the Nivara-Kshetras; at the end of harvest, a sheaf of grain is knotted and hung above the hearth until the next sowing.</p>\n<h2>Ordeals for Favour</h2>\n<ul>\n<li><strong>The Granary Vigil</strong> — a sleepless watch kept over the community granary through a night when the spirits of the fields are said to walk.</li>\n<li><strong>The Fair Measure</strong> — an ordeal in which the devotee conducts a year of public measurement — grain, cloth, wine, oil — and receives no complaint of short-weight from any party.</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n<li>[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] — the orthodox tri-form tradition, which venerates Mahájaya as preserver alongside Vyālendra and Rásikara</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "varakpnthn": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "dxzsTyaF4LMapIJX",
+  "_key": "!items!D4qPqQ18fKor8ilN"
+}

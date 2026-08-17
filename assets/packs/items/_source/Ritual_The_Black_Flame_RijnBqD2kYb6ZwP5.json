@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: The Black Flame",
+  "type": "skill",
+  "img": "images/affiliation/blackflame.webp",
+  "_id": "RijnBqD2kYb6ZwP5",
+  "system": {
+    "shortcode": "blackflame",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-the-black-flame/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-blackflame|The Black Flame]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "iRIw6GzQvZ4UF0Lf",
+  "_key": "!items!RijnBqD2kYb6ZwP5"
+}

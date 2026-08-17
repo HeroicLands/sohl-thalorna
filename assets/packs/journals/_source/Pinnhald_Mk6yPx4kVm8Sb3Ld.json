@@ -1,0 +1,35 @@
+{
+  "name": "Pinnhald",
+  "pages": [
+    {
+      "_id": "9119eca421f17a42",
+      "name": "Pinnhald",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Pinnhald is a logging town of the forested Mokturan slopes, where timber is felled and floated down the mountain rivers toward the lowland yards and the shipwrights of [[doc-provincvld|Vald]]. Its half-Varokh population speaks the border patois and keeps customs the southern priests frown on; the imperial chancery counts it Vylarian, but Pinnhald answers first to its own headmen and to the timber-lords who hold the cutting-rights.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provncmktr|Province of Moktur]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Mk6yPx4kVm8Sb3Ld.9119eca421f17a42"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Mk6yPx4kVm8Sb3Ld",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Mk6yPx4kVm8Sb3Ld"
+}

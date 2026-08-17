@@ -1,0 +1,133 @@
+{
+  "name": "Héx Hodäi Incantations",
+  "pages": [
+    {
+      "_id": "759027253e3b3fbc",
+      "name": "Pyréthos (Fire)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;pyrethos&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.759027253e3b3fbc"
+    },
+    {
+      "_id": "6efd3a75349e37b5",
+      "name": "Zephäris (Air)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;zepharis&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.6efd3a75349e37b5"
+    },
+    {
+      "_id": "75f8cb80b5495b3a",
+      "name": "Physéra (Earth/Life)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;physera&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.75f8cb80b5495b3a"
+    },
+    {
+      "_id": "6c8a4b6fbf673151",
+      "name": "Hydälis (Water)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;hydalis&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.6c8a4b6fbf673151"
+    },
+    {
+      "_id": "befd9b6b2cbf4ce5",
+      "name": "Sidéros (Metal)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;sideros&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.befd9b6b2cbf4ce5"
+    },
+    {
+      "_id": "1c9680962e9f14f6",
+      "name": "Pneuménos (Spirit)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;pneumenos&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.1c9680962e9f14f6"
+    },
+    {
+      "_id": "d63d158c32472112",
+      "name": "Kentra ( _The Center All_)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, level as &quot;Level&quot;, description AS &quot;Description&quot;\nWHERE type = &quot;mysticalability&quot; and sohl.subType = &quot;arcaneincantation&quot; and sohl.assocSkillCode = &quot;kentra&quot;\nSORT level, name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.d63d158c32472112"
+    },
+    {
+      "_id": "0c39df767fc3a7b5",
+      "name": "See Also",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li>[[doc-hexhodai|Héx Hodäi]]</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!s9k0RsnEfufDRuQb.0c39df767fc3a7b5"
+    }
+  ],
+  "folder": "H8lfX9Zy7YDUeAjX",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "s9k0RsnEfufDRuQb",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!s9k0RsnEfufDRuQb"
+}

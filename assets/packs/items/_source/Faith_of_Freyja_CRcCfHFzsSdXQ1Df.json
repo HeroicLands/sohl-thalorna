@@ -1,0 +1,36 @@
+{
+  "name": "Faith of Fréyja",
+  "type": "affiliation",
+  "img": "images/affiliation/freyja.webp",
+  "_id": "CRcCfHFzsSdXQ1Df",
+  "system": {
+    "shortcode": "freyja",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/faith-of-fr-yja/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Fréyja, the goddess of love, beauty, and prosperity, stands as an alluring and multifaceted figure in the pantheon. She inspires passion and enchantment, capturing the hearts of all who seek her favor. As the goddess of prosperity, she is a powerful patroness for merchants, usurers, and all who pursue wealth.</p>\n<h2>Aspects</h2>\n<p>Fréyja's temples are grand structures that serve dual purposes as centers of commerce and pleasure palaces, adorned with opulent decorations blending the awe of divine beauty with the wealth of mercantile success. Inside, one may find luxurious halls where transactions are made, alongside sumptuous chambers dedicated to hedonistic pursuits.</p>\n<p>The priestesses of Fréyja are renowned for their mastery of the art of seduction. They are not just spiritual guides but also enchantresses who embody the goddess's alluring qualities. Skilled in the ways of attraction, charm, and negotiation, they serve as intermediaries who can turn desires into reality, be they of the heart or of the purse.</p>\n<p>Fréyja is depicted as a radiant and sensual goddess, her beauty unparalleled and her charm irresistible, often shown adorned with elegant garments and precious jewels. In her hands, she may hold a mirror, a symbol of beauty and self-reflection, or a cornucopia, representing prosperity and abundance.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>Rose Petal:</strong> Represents love and beauty.</li>\n<li><strong>Silver Coin:</strong> Symbolizes prosperity and wealth.</li>\n<li><strong>Mirror Shard:</strong> Used in rituals of self-reflection.</li>\n<li><strong>Honeycomb:</strong> Signifies abundance and sweetness in life.</li>\n</ul>\n<h2>Relics</h2>\n<ul>\n<li><strong>Mirror of Desire:</strong> A sacred mirror said to reflect one's truest desires.</li>\n<li><strong>The Cornucopia of Abundance:</strong> (Unique) A divine horn that pours forth endless wealth and prosperity.</li>\n</ul>\n<h2>Clergy</h2>\n<p>The higher levels of clergy, Circle V and above, are only accessible to females.</p>\n<ul>\n<li><strong>Gull Thræll</strong> (Circle I: &quot;Golden Thrall&quot;) — Silk Acolyte</li>\n<li><strong>Fegurð Goði/Goðe</strong> (Circle III: &quot;Beauty Priest/Priestess&quot;) — Priest/Priestess of Charm</li>\n<li><strong>Fágr Hersir</strong> (Circle IV: &quot;Fair Warlord&quot;) — Gilded Voice</li>\n<li><strong>Gull Jarl</strong> (Circle V: &quot;Gold Jarl&quot;) — Guardian of Prosperity</li>\n<li><strong>Fríðr Konungrkvinde</strong> (Circle VI: &quot;Fair Queen&quot;) — Golden Sovereign</li>\n<li><strong>Sefja Allsherjargoði</strong> (Circle VII: &quot;Charming High Priest&quot;) — High Enchantress</li>\n<li><strong>Fríðr Móðir</strong> (Circle VIII: &quot;Mother of Beauty&quot;) — Pontiff of the Golden Veil</li>\n</ul>\n<p><strong>Key Skills:</strong> Seduction and charm, Mercantilism, Mathematics</p>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Seraphs of Desire:</strong> Ethereal beings who embody Fréyja's allure, serving as guides in rituals of love and beauty.</li>\n<li><strong>Gilded Wisps:</strong> Spirits that bring wealth and prosperity to Fréyja's followers, often appearing as shimmering lights.</li>\n</ul>\n<h2>Ceremonies and Festivals</h2>\n<p><strong>Low Ceremonies:</strong></p>\n<ul>\n<li><strong>The Blessing of Wealth:</strong> A ritual where the faithful offer tokens of gold or precious items to Fréyja, asking for prosperity and financial success.</li>\n<li><strong>The Golden Veil:</strong> A mystery rite for those who have proven their devotion to Fréyja where the clergy don transparent golden garments and perform sacred rituals of seduction with the faithful.</li>\n</ul>\n<p><strong>High Ceremonies:</strong></p>\n<ul>\n<li><strong>The Rite of Enchantment:</strong> A sacred ceremony where high priests invoke Fréyja's power to bless objects, people, or places with beauty, charm, and wealth.</li>\n</ul>\n<p><strong>Festivals:</strong></p>\n<ul>\n<li><strong>Festival of the Rose:</strong> Held in spring, this festival celebrates love and beauty with grand banquets, elaborate dances, and rituals to honor Fréyja.</li>\n<li><strong>The Day of Silver:</strong> An annual event focused on wealth and prosperity, where the faithful gather to share their successes and offer thanks to Fréyja for her blessings.</li>\n</ul>\n<h2>Ordeals for Favor</h2>\n<ul>\n<li><strong>The Golden Pilgrimage:</strong> A journey to Fréyja's grandest temples, where the faithful offer their most prized possessions in hopes of receiving her blessings.</li>\n<li><strong>The Blessing of the Mirror:</strong> A ritual where the faithful must gaze into the Mirror of Desire for an entire night, contemplating their deepest desires.</li>\n<li><strong>The Gilded Harvest:</strong> A task where participants must accumulate a significant amount of wealth through trade, negotiation, or other means, dedicating it to Fréyja's temples.</li>\n</ul>\n<h2>Orders</h2>\n<p><strong>Clerical Orders:</strong></p>\n<ul>\n<li><strong>Order of the Enchanted Rose:</strong> Priests dedicated to mastering the arts of love and beauty, often serving as advisors to the powerful and influential.</li>\n<li><strong>Keepers of the Golden Veil:</strong> Guardians of Fréyja's sacred wealth, ensuring that the temples are prosperous and well-maintained.</li>\n<li><strong>Gilded Voices:</strong> Priests known for their persuasive abilities, often serving as diplomats, negotiators, and ambassadors.</li>\n</ul>\n<p><strong>Fighting Orders:</strong></p>\n<ul>\n<li><strong>Knights of the Golden Rose:</strong> Elite warriors who protect the temples and followers of Fréyja.</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "asguardian": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "cFyVbOx7bj35ZyPA",
+  "_key": "!items!CRcCfHFzsSdXQ1Df"
+}

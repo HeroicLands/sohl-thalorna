@@ -1,0 +1,39 @@
+{
+  "name": "Revealing Touch",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "8Mt1v3MGhipA2U9I",
+  "system": {
+    "shortcode": "rvltch",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/revealing-touch/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster presses a palm flat against the air and pushes outward; a ripple of disrupted light expands from the point of contact like a stone dropped into still water, and every illusion, glamour, and magical concealment within its radius shudders violently before collapsing in a cascade of prismatic sparks. Hidden doors outlined by enchantment flare with visible seams, invisible creatures are momentarily silhouetted in crackling light, and falsified documents shimmer to reveal the true text beneath the forgery.</p>\n<p>The unveiling wave is indiscriminate—it strips friendly illusions as readily as hostile ones, so the caster must warn allies before releasing it. The effect is instantaneous; new illusions cast after the wave passes are unaffected, making the spell a snapshot of truth rather than a sustained ward. Physical concealment—a mundane curtain, a pile of straw, a hidden trapdoor with no magical component—is untouched, since the spell targets only arcane deception. Against particularly powerful enchantments the wave may only weaken rather than shatter the disguise, causing it to flicker and distort without fully collapsing.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 3,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!8Mt1v3MGhipA2U9I"
+}

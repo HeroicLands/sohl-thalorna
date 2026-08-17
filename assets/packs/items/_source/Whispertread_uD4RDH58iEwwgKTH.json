@@ -1,0 +1,40 @@
+{
+  "name": "Whispertread",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "uD4RDH58iEwwgKTH",
+  "system": {
+    "shortcode": "ElxFtp",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/whispertread/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A dark, nearly black draft that seems to absorb sound as well as light, smelling of moss and damp earth. Bound to the Principle of Silence (Zephäris), this elixir muffles the drinker's presence from auditory perception. When imbibed, the imbiber's movements become whispers—their Stealth Mastery Level increases by an amount equal to their current Aural Shock multiplied by five. The effect applies to any noisy motion, not merely creeping footsteps: a thief picking a lock in silence, a warrior moving through a crowd unnoticed, a scout scaling rubble without dislodging stones.</p>\n<p>The imbiber's voice likewise becomes muted—regular speech becomes barely audible whisper; a shout sounds like normal conversation. Objects the imbiber wields weighing up to half their Spirit Mastery Level in pounds are also silenced, their clash and ring reduced to a muffled thump. The cost is minimal: the imbiber suffers Aural Shock 1, a small but persistent drain on their reserves.</p>\n<p>Thieves, assassins, and those who value stealth above all else treasure Footpad, though some alchemists whisper that the elixir's real magic is teaching the body to move differently—a change that persists faintly even after the effect fades.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 0,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "elixir",
+    "potency": "na",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "zjH2UVFqfHp20lIq",
+  "_key": "!items!uD4RDH58iEwwgKTH"
+}

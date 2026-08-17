@@ -1,0 +1,35 @@
+{
+  "name": "Frostmark",
+  "pages": [
+    {
+      "_id": "5d68a2d7807e67d3",
+      "name": "Frostmark",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!1Rtw3Owv91p4f5yA.5d68a2d7807e67d3"
+    }
+  ],
+  "folder": "tUOAFxX25mViDE7q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "1Rtw3Owv91p4f5yA",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!1Rtw3Owv91p4f5yA"
+}

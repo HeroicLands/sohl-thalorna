@@ -1,0 +1,19 @@
+{
+  "name": "Celestial Order",
+  "sorting": "a",
+  "folder": "jV7c6dJp4Ztnjtb3",
+  "type": "JournalEntry",
+  "_id": "hBkQzhJeB05EwziN",
+  "sort": 0,
+  "color": "#66BB6A",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!hBkQzhJeB05EwziN"
+}

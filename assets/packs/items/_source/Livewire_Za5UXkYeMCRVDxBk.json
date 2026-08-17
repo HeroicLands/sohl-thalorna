@@ -1,0 +1,40 @@
+{
+  "name": "Livewire",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "Za5UXkYeMCRVDxBk",
+  "system": {
+    "shortcode": "PtnStmS",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/livewire/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>This is a vibrant, almost lurid red or orange liquid, sometimes darkening to a deep crimson, laden with visible particles of crushed stimulant botanicals. The aroma hits like a blow—sharp, aggressive, and overwhelming, filling the nostrils with spice and burning sensation. Many describe the smell as almost electric. A single swallow induces intense tingling that spreads from the mouth to the fingertips, along with a racing sensation in the chest. Those unused to this potency sometimes report heart palpitations that cause alarm, though they pass quickly.</p>\n<p>Within a single minute, the stimulant floods the bloodstream entirely. The imbiber becomes restless with energy, almost hyperalert. Eyes sharpen; ears strain to catch distant sounds; every sense sharpens to an almost painful degree. One receives an SV × 2 bonus to Initiative and Awareness, gifts that persist for roughly one hour before the potion's effects fade. The subsequent crash is steeper and more disorienting than with the mild variant—some users become nearly catatonic for hours afterward, and many develop a psychological dependency on the heightened state.</p>\n<p>This strength is favored by soldiers before battle and by performers before high-stakes displays. Some use it to work through nights without rest. The cost to the body is steep.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 48,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "exotic",
+    "potency": "strong",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "DFkZMeVq8rIzo44Q",
+  "_key": "!items!Za5UXkYeMCRVDxBk"
+}

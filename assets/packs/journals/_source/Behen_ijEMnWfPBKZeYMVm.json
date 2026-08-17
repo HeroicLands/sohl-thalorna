@@ -1,0 +1,35 @@
+{
+  "name": "Behen",
+  "pages": [
+    {
+      "_id": "c3d81bb3db8031da",
+      "name": "Behen",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Behen is the great fortress-capital of the empire's [[doc-nometarshk|southern march]], a double-walled stronghold commanding the river at the first cataract — the empire's strongest fortress south of the capital and its gateway to the lands beyond. It guards the point where the river breaks into rapids and the green valley fails, and everything that passes between Ta'Kheperu and the south passes under its walls: the gold, ivory, ebony, and slaves of the southern trade, taxed and escorted through its toll-house and tribute-store, and the embassies and war-parties of the southern tribes, watched from its battlements. Within the walls are the garrison barracks of the frontier army, the war-temple of <strong>Mentu</strong> whose cult is stronger here than anywhere in the empire, and the seat of the warden-[[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] who holds the south. It is a hard, soldierly, mixed Kheperi-and-southern town, the kind of place where the empire's writ is exactly as strong as its garrison.</p>\n<h2>Notable Features</h2>\n<ul>\n<li>The double-walled fortress commanding the first cataract</li>\n<li>The toll-house and tribute-store of the southern gold-and-ivory trade</li>\n<li>The war-temple of Mentu, the war-god</li>\n<li>The garrison barracks and the seat of the warden-Haty'a</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-nometarshk|The Nome of Ta-Resu-Heka]] — Parent nome</li>\n<li>[[doc-bordernoms|The Border Nomes]] — Nome-class</li>\n<li>[[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!ijEMnWfPBKZeYMVm.c3d81bb3db8031da"
+    }
+  ],
+  "folder": "hbi739NdfZ0O28og",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ijEMnWfPBKZeYMVm",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!ijEMnWfPBKZeYMVm"
+}

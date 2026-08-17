@@ -1,0 +1,35 @@
+{
+  "name": "Yürtthāt Zhāk",
+  "pages": [
+    {
+      "_id": "c8da5d8dbbaa4912",
+      "name": "Yürtthāt Zhāk",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The House of the Clouded Mountain</strong></p>\n<p>The <strong>Yürtthāt Zhāk</strong>, once a pillar of the [[doc-empiretnvr|Empire of Tānvür]], now stands on the precipice of ruin.</p>\n<h2>The Decline</h2>\n<p>The house was once formidable in the [[doc-veizhatret|Vëi Zhāt Rëit]] (political intrigue). However, under a previous incompetent leader, they lost much of their influence. Their reputation became tarnished, and their standing in the imperial court diminished.</p>\n<h2>The New Leader's Gamble</h2>\n<p>A new ambitious leader, <strong>Vëngzhük Lüngjëk</strong> (Vëngzhük Lüngjëk, &quot;Wind-Summoning Dragon Spear&quot;), has vowed to restore the house by any means necessary. However, his approach is unorthodox—impatient with traditional methods, he has forged a secret alliance with the [[doc-intrnlsbvrsvthrts|Black Lotus Society]] (Hëk Lōt Zhāk).</p>\n<h2>Internal Division</h2>\n<p>This alliance has sparked deep divisions within the clan. The traditional council members view it as reckless and dishonorable. Lüngjëk has kept the connection secret from many council members, fueling suspicion and mistrust.</p>\n<h2>Consequences of Failure</h2>\n<p>Should the gamble fail:</p>\n<ul>\n<li><strong>Complete Ruin:</strong> The clan's remaining influence would evaporate, leaving them vulnerable to enemies.</li>\n<li><strong>Internal Collapse:</strong> Leadership crisis could lead to fracturing of the clan.</li>\n<li><strong>Legal Repercussions:</strong> Exposure of Black Lotus Society connections could result in execution of key members and confiscation of lands.</li>\n<li><strong>Impact on Black Lotus Society:</strong> Increased imperial scrutiny could disrupt operations and diminish influence.</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — The Black Lotus Society and other destabilizing forces</li>\n<li>[[doc-veizhatret|Vëi Zhāt Rëit]] — The political game that brought the house low</li>\n<li>[[doc-ttjkvngyrt|Tëitjëk Vëngyürt]] — Another internal threat to the empire</li>\n<li>[[doc-empiretnvr|Empire of Tānvür]] — The empire whose court they navigate</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!kx1DYO4Lv2VXJB93.c8da5d8dbbaa4912"
+    }
+  ],
+  "folder": "l3wIL8UihJI5nx6L",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "kx1DYO4Lv2VXJB93",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!kx1DYO4Lv2VXJB93"
+}

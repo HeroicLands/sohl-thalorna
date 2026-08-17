@@ -1,0 +1,40 @@
+{
+  "name": "The Second Utterance",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "TfQhH6ZIzhhvga7c",
+  "system": {
+    "shortcode": "ElxFrm",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/the-second-utterance/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A clear, perfectly transparent elixir that tastes of silvery metal and old words, bound to the Principle of Incantation (Neutral). This elixir grants the drinker a second chance against magical failure. When a Spellcasting or Invocation Roll fails—whether a standard Failure or a Critical Failure—the imbiber makes a d10 roll against a Target Number equal to their current Aural Shock. If successful, the failed spell or talent's success level increases by one, potentially salvaging disaster into ordinary success or turning a critical failure into merely a miscast.</p>\n<p>Note that Formfix offers no benefit to successful rolls; only failed magic can be redeemed. Each successful redemption costs Aural Shock 1, in addition to the monthly Decay Roll loss. A mage who imbibes Formfix before attempting a risky incantation reports a strange sensation of words rearranging themselves in their mouth, fragments of power reassembling at the last moment.</p>\n<p>Hedge mages, desperate spellcasters, and those engaged in dangerous ritual magic rely on Formfix as insurance against catastrophic failure. Temples forbid its use in sacred rites, claiming it represents a lack of faith; nevertheless, many arcane scholars keep a vial at hand.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 0,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "elixir",
+    "potency": "na",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "zjH2UVFqfHp20lIq",
+  "_key": "!items!TfQhH6ZIzhhvga7c"
+}

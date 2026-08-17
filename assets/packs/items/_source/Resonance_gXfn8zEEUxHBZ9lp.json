@@ -1,0 +1,39 @@
+{
+  "name": "Resonance",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "gXfn8zEEUxHBZ9lp",
+  "system": {
+    "shortcode": "rsnnc",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/resonance/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster presses fingertips to their own throat and hums a sustained note; the surrounding air picks up the vibration and begins to oscillate in sympathy, placing every sound within the spell's radius under the caster's direct control. Whispers can be swelled to thunderous volume, a sentry's challenge can be muted to inaudibility, and phantom sounds—phantom footsteps approaching from behind, the creak of a bowstring being drawn—can be woven into the ambient soundscape with unsettling realism.</p>\n<p>The spell's manipulations are subtle enough to fool even alert listeners, provided the caster possesses a musician's ear for timing and texture. A clumsy practitioner produces obvious distortions—voices that echo wrongly, silences that feel artificial—while a master can orchestrate an entire auditory environment so seamlessly that victims never suspect manipulation. Resonance is countered by Silence, which deadens all vibration within its radius and leaves Resonance with nothing to work upon. The caster can hear through their own alterations, perceiving the true soundscape beneath the overlay.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!gXfn8zEEUxHBZ9lp"
+}

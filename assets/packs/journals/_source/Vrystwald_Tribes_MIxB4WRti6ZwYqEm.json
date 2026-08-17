@@ -1,0 +1,35 @@
+{
+  "name": "Vrystwald Tribes",
+  "pages": [
+    {
+      "_id": "3796e24dd9489139",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Vrystwald Tribes are a collection of Varokh barbarian clans and tribal groups that inhabit the vast primeval forests between the Normen kingdoms to the north and the [[doc-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense — the tribes fight among themselves as often as they raid their neighbors — but they share a common language, common gods, and a fierce commitment to their ancestral forests.</p>\n<h2>Government</h2>\n<p>Each tribe is led by a chief whose authority rests on personal prowess, wisdom, and the support of the tribe's warriors. Chiefs are not hereditary in principle, though strong families tend to produce successive leaders. Decisions affecting the whole tribe are made at moots where every free warrior has a voice.</p>\n<p>When an external threat demands coordination — a Vylarian punitive expedition, a Grukar incursion, or a particularly harsh winter — the tribes hold a great-moot to choose a war-chief with temporary authority over multiple tribes. These alliances dissolve as soon as the crisis passes, and attempts to create permanent unity have always failed.</p>\n<h2>Character</h2>\n<p>The Varokh are descendants of the Pelwar nomads who migrated across Ankaris millennia ago — the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Normen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.</p>\n<p>The Vrystwald's frontier with [[doc-provncmktr|Moktur province]] is the [[doc-vylarinmpr|Vylarian Empire]]'s most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything — punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes — but the forest always wins.</p>\n<h2>Commerce and Currency</h2>\n<p>Vrystwald Tribes uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its <em>de facto</em> currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in Vrystwald. The Vylarian script system is <strong>not</strong> honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[doc-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[doc-kinhalcrdt|clan credit]] customs that have no relationship with the Vylarian banking system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-vrystwald|Vrystwald]] — Regional overview</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Southern enemy</li>\n<li>[[doc-provncmktr|Province of Moktur]] — Frontier neighbor</li>\n<li>[[doc-kngdmnrdhm|Kingdom of Nordheim]] — Distant cultural cousins</li>\n<li>[[affiliation-asguardian|Asguardian Pantheon]] — Pantheon</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!MIxB4WRti6ZwYqEm.3796e24dd9489139"
+    }
+  ],
+  "folder": "mCG1TPvjwrV23csZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MIxB4WRti6ZwYqEm",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!MIxB4WRti6ZwYqEm"
+}

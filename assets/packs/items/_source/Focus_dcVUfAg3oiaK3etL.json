@@ -1,0 +1,39 @@
+{
+  "name": "Focus",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "dcVUfAg3oiaK3etL",
+  "system": {
+    "shortcode": "focus",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/focus/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster pinches thumb and forefinger together, and the air between them compresses into an invisible lens of shaped wind that bends passing light to a needle-fine point. Held over a page, the lens magnifies script too small for the naked eye; aimed at distant terrain, it brings faraway details into crisp relief as though viewed from paces away. When directed at strong sunlight, the focal point concentrates enough heat to char parchment, ignite dry tinder, or blister exposed skin—a trick that has more than once served as a last-resort weapon.</p>\n<p>The lens is weightless and can be repositioned with a gesture, floating where the caster wills it. Its diameter determines the field of magnification: a tiny lens yields extreme close-up detail, while a broader one provides a wider but less powerful view. The spell is silent and nearly invisible, making it ideal for covert observation, though a sharp-eyed opponent may notice the telltale shimmer of bent light hanging in mid-air. Rain and heavy fog degrade the lens's clarity, as water droplets scatter the focused beam.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!dcVUfAg3oiaK3etL"
+}

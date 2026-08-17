@@ -1,0 +1,35 @@
+{
+  "name": "Azhûn",
+  "pages": [
+    {
+      "_id": "1ffc732575126635",
+      "name": "Azhûn",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><strong>Type:</strong> Port City</li>\n<li><strong>Region:</strong> [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]]</li>\n<li><strong>Language:</strong> Haradi</li>\n<li><strong>Naming Convention:</strong> [[doc-haradilngg|Haradi]]</li>\n<li><strong>Pantheon:</strong> [[affiliation-arldnpnthn|Aurèldían Pantheon]], [[affiliation-ashanpnthn|Āsháian Pantheon]]</li>\n</ul>\n<h2>Overview</h2>\n<p>Azhûn sprawls along a natural harbor at the mouth of the Alz River, its white-walled warehouses and bustling docks defining one of the Vylarian Sea's most vital trading posts. As one of the three great city-states of the Haradian Confederation, Azhûn serves as the conduit through which goods flow between the Dunhari desert, the inland city-states, and the maritime routes that connect Harad to the western realms. The harbor never sleeps—merchant vessels arrive and depart with the tides, their holds brimming with spices, silks, and rare woods.</p>\n<p>The city's merchant guilds hold absolute power here, and their councils meet in the towering House of Factors that overlooks the harbor. Competition between guilds is fierce but disciplined; they maintain an elaborate system of tariffs, trading monopolies, and agreements that regulate commerce with surgical precision. A ship's captain who violates guild protocol finds no harbor master willing to accept her vessel, no crew willing to work for her. The guilds have learned that stability, however rigidly maintained, yields greater wealth than chaos.</p>\n<p>Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities—both recognized as legitimate paths by the merchant councils. Street markets overflow with languages, accents, and goods so exotic that locals joke the sea itself disgorges treasures at Azhûn's feet.</p>\n<h2>Commerce and Currency</h2>\n<p>Azhûn uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is <em>not</em> honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview</li>\n<li>[[doc-haradilngg|Haradi]] — Naming tradition</li>\n<li>[[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition</li>\n<li>[[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!AqrgBrEk82vRX0Se.1ffc732575126635"
+    }
+  ],
+  "folder": "umL4KFGO3MD4u9X1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "AqrgBrEk82vRX0Se",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!AqrgBrEk82vRX0Se"
+}

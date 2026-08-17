@@ -1,0 +1,35 @@
+{
+  "name": "Denizara",
+  "pages": [
+    {
+      "_id": "5483f4a0b3f3fcb3",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Denizara — the Sea-Between — is the [[doc-byzarianlg|Byzarian League]]'s principal seaport on the [[doc-vylarianse|Vylarian Sea]] coast. It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.</p>\n<h2>Character</h2>\n<p>Denizara is the most cosmopolitan of the five city-states, its docks crowded with [[doc-cnfdrtnhrdnstts|Haradian]] merchantmen, Vylarian galleys, and the occasional vessel from as far as [[doc-kalihara|Kalihara]]. The city has a powerful admiralty that maintains a fleet of fast war-galleys to protect League shipping from pirates and competitors. Denizara's shipwrights are among the finest in the eastern sea, and the city's naval strength gives it considerable influence within the League — Altinkale has the gold, but Denizara has the ships.</p>\n<p>The waterfront district is a maze of warehouses, taverns, and chandleries where a dozen languages can be heard on any given day. Inland, the city climbs a series of terraced hills, with the wealthier districts rising above the harbor's noise and smell.</p>\n<h2>Commerce and Currency</h2>\n<p>Denizara uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Denizara is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-byzarianlg|Byzarian League]] — The confederation</li>\n<li>[[doc-byzariargn|Byzaría Region]] — Regional overview</li>\n<li>[[doc-altinkale|Altinkale]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]], [[doc-karatas|Karataş]] — Sister city-states</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!J7e8bJrYdDQ2KrPY.5483f4a0b3f3fcb3"
+    }
+  ],
+  "folder": "pAXnwYJhDDSvkrPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "J7e8bJrYdDQ2KrPY",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!J7e8bJrYdDQ2KrPY"
+}

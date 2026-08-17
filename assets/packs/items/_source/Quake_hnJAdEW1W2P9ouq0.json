@@ -1,0 +1,39 @@
+{
+  "name": "Quake",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/tree.svg",
+  "_id": "hnJAdEW1W2P9ouq0",
+  "system": {
+    "shortcode": "quake",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/quake/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster strikes the ground with a hand, foot, or elemental focus, and a wave of trembling Physéra energy radiates outward from the point of impact, sending a mild but persistent earth tremor rippling Index x 5 feet out. Although the tremor is not powerful enough to damage structures, it forces every moving or standing creature within its radius—except the caster—to make a Stumble Roll at the start of each turn for the spell's duration, with a -20 penalty applied to the check on Critical Success. Moreover, all movement within the affected area becomes Difficult, halving travel speed as the shaking ground makes every step uncertain.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "physera",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!hnJAdEW1W2P9ouq0"
+}

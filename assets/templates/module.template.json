@@ -1,0 +1,143 @@
+{
+  "id": "sohl-thalorna",
+  "title": "Thalorna Setting",
+  "description": "Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands",
+  "version": "0.0.0",
+  "authors": [
+    {
+      "name": "Toasty",
+      "discord": "toasty#8538",
+      "flags": {}
+    }
+  ],
+  "license": "LICENSE",
+  "readme": "README.md",
+  "changelog": "CHANGELOG.md",
+  "flags": {
+    "allowBugReporter": true
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "sohl",
+        "type": "system",
+        "manifest": "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "0.4.0",
+          "verified": "0.4.3"
+	      }
+      }
+    ]
+  },
+  "packFolders": [
+    {
+      "name": "Thalorna",
+      "sorting": "m",
+      "color": "#008000",
+      "packs": [
+        "items",
+        "actors",
+	      "macros",
+	      "scenes",
+        "journals"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "label": "Items",
+      "name": "items",
+      "path": "packs/Items",
+      "type": "Item",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Actors",
+      "name": "actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Journals",
+      "name": "journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Macros",
+      "name": "macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Scenes",
+      "name": "scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+      "media": [
+        {
+            "type": "setup",
+            "url": "systems/sohl/assets/ui/sohl-setup.webp",
+            "thumbnail": "systems/sohl/assets/ui/sohl-setup-thumb.webp"
+        },
+        {
+            "type": "logo",
+            "url": "systems/sohl/assets/ui/sohl-logo.webp"
+        },
+        {
+            "type": "icon",
+            "url": "systems/sohl/assets/ui/sohl-icon.webp"
+        },
+        {
+            "type": "banner",
+            "url": "systems/sohl/assets/ui/sohl-banner.webp"
+        }
+    ],
+  "socket": true,
+    "url": "",
+    "bugs": "",
+    "manifest": "",
+    "download": ""
+}

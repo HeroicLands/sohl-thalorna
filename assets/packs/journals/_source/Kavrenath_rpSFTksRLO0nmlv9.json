@@ -1,0 +1,35 @@
+{
+  "name": "Kávrenath",
+  "pages": [
+    {
+      "_id": "e1e3beaa2df1b863",
+      "name": "Kávrenath",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!rpSFTksRLO0nmlv9.e1e3beaa2df1b863"
+    }
+  ],
+  "folder": "DB9rgGreD8FtqoBx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "rpSFTksRLO0nmlv9",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!rpSFTksRLO0nmlv9"
+}

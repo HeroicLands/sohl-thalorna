@@ -1,0 +1,19 @@
+{
+  "name": "Heros and Knaves",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "34iLZ9ZqAMnkSQhA",
+  "sort": 0,
+  "color": "#8A2BE2",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!34iLZ9ZqAMnkSQhA"
+}

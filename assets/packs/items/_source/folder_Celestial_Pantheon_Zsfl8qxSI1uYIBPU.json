@@ -1,0 +1,19 @@
+{
+  "name": "Celestial Pantheon",
+  "sorting": "a",
+  "folder": "ElMVW0iSYyeroRC3",
+  "type": "Item",
+  "_id": "Zsfl8qxSI1uYIBPU",
+  "sort": 0,
+  "color": "#DDA0DD",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!Zsfl8qxSI1uYIBPU"
+}

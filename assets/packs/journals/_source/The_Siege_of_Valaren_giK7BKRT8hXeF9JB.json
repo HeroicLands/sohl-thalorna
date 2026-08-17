@@ -1,0 +1,35 @@
+{
+  "name": "The Siege of Válaren",
+  "pages": [
+    {
+      "_id": "ba242f33cd5c1e11",
+      "name": "The Siege of Válaren",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>The coastal [[City_of_Valaren|City of Válaren]] lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.</p>\n<h2>Overview</h2>\n<p>Válaren, a crucial trading port on the [[doc-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of [[doc-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[doc-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.</p>\n<h2>Stage One: Initial Investigation</h2>\n<p>The party arrives in or near Válaren as the blockade enters its third month. They encounter desperate refugees, inflated prices, and conflicting rumors. Key information includes:</p>\n<ul>\n<li>Three ships maintain the blockade, rotating positions to avoid being spotted together</li>\n<li>A local merchant family has mysteriously gone silent</li>\n<li>The city's grain reserves will last another six weeks at best</li>\n<li>A prominent Provenzian noble recently visited Válaren before the blockade began</li>\n</ul>\n<p><strong>NPCs:</strong></p>\n<ul>\n<li>The city's military commander (desperate but honorable)</li>\n<li>A merchant captain trying to break through the blockade</li>\n<li>A mysterious messenger with cryptic warnings</li>\n</ul>\n<h2>Stage Two: Reconnaissance</h2>\n<p>The party must investigate the blockading ships and gather intelligence. They might:</p>\n<ul>\n<li>Pose as merchants attempting to trade with the blockaders</li>\n<li>Sneak out to reconnoiter the naval positions</li>\n<li>Interview prisoners or defectors from the blockade</li>\n<li>Investigate the silent merchant family's connections</li>\n</ul>\n<p><strong>Complications:</strong></p>\n<ul>\n<li>Patrols increase as the party shows interest</li>\n<li>A spy in the city reports their activities to the blockaders</li>\n<li>Weather changes make naval operations dangerous</li>\n</ul>\n<h2>Stage Three: Uncovering the Conspiracy</h2>\n<p>Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[doc-provenzrgn|Provènzia Region]]'s economy.</p>\n<p><strong>Key Revelation:</strong></p>\n<ul>\n<li>The blockading ships are crewed by mercenaries, not military forces</li>\n<li>A corrupt local official provided intelligence on supply routes</li>\n<li>Letters or documents implicate the true conspirators</li>\n</ul>\n<h2>Stage Four: Breaking the Blockade</h2>\n<p>The party must devise and execute a plan to break the blockade. Options include:</p>\n<ul>\n<li>Gather defenders and launch a coordinated attack from the city and sea</li>\n<li>Use espionage to turn the blockaders against one another</li>\n<li>Arrange a supply convoy while the blockade is distracted</li>\n<li>Discover and exploit an unblockaded supply route inland</li>\n<li>Arrange a parley and negotiate or bribe the mercenary captain</li>\n</ul>\n<p><strong>Combat/Challenge Encounters:</strong></p>\n<ul>\n<li>Naval combat (if the party can acquire ships)</li>\n<li>Skirmish with blockade patrols</li>\n<li>Infiltration of the blockade commander's ship</li>\n</ul>\n<h2>Stage Five: Aftermath &amp; Consequences</h2>\n<ul>\n<li>If the party succeeds, Válaren is relieved and supplies begin flowing again</li>\n<li>The conspiracy is exposed, bringing political consequences for the conspirators</li>\n<li>The party may face retaliation from powerful interests</li>\n<li>Evidence of the conspiracy becomes leverage in larger political games</li>\n<li>The city's gratitude opens doors—or closes them, depending on who was behind the blockade</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provenzrgn|Provènzia Region]]</li>\n<li>[[doc-kngdmprvnz|Kingdom of Provènzia]]</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]]</li>\n<li>[[doc-kngdmnrdhm|Kingdom of Nordheim]]</li>\n<li>[[affiliation-arldnpnthn|Aurèldían]]</li>\n<li>[[affiliation-ordoarcanis|Ordo Arcanis]]</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!giK7BKRT8hXeF9JB.ba242f33cd5c1e11"
+    }
+  ],
+  "folder": "TokyoDCf1w4elPns",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "giK7BKRT8hXeF9JB",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!giK7BKRT8hXeF9JB"
+}

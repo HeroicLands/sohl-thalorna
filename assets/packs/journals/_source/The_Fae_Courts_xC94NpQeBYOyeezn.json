@@ -1,0 +1,35 @@
+{
+  "name": "The Fae Courts",
+  "pages": [
+    {
+      "_id": "3c13a6d3b49e615a",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>The <strong>Fae Courts</strong> are said to exist in the deepest and most untraversed reaches of [[doc-elavendre|Élavendre]]'s interior — otherworldly gatherings of fae beings of immense power who occasionally meddle in mortal affairs. Whether the Courts are a single unified polity, several rival factions, or something that does not map onto the human concept of &quot;court&quot; at all is not agreed upon by any authority that has spoken on the subject.</p>\n<p>No mortal scholar has ever described a Fae Court from direct experience in terms that can be verified. The accounts that exist come to the lowland kingdom secondhand, through Áelendan songs, through the fragmentary testimony of travelers who claim to have glimpsed them from the forest edge, and through the occasional bard who returns from the deep woods with stories that may or may not be metaphorical.</p>\n<h2>What Is Known</h2>\n<p>Certain motifs appear consistently across the various accounts:</p>\n<ul>\n<li>\n<p><strong>The Courts are not mortal.</strong> Whatever their rulers are, they are not human, not Sinalëan, and not any of the known elder races. They are described as being &quot;of the forest itself&quot; or &quot;of the thin places,&quot; and they appear to stand outside the ordinary mortal reckoning of time and place.</p>\n</li>\n<li>\n<p><strong>The Courts are aware of mortal affairs.</strong> Though they do not intervene often, when they do intervene the consequences are rarely ambiguous. Ancient Élavendren songs recount occasions on which a Fae Court judgment has granted a blessing, imposed a curse, bound a lineage to a particular duty, or withdrawn some previously granted favor. These events are rare but not imaginary.</p>\n</li>\n<li>\n<p><strong>The Áelendan know more than they say.</strong> The Áelendan clearly know a great deal about the Courts that they do not share with outsiders — and, for the most part, do not share with the [[doc-elavendre|Élavendri]] nobility either. Áelendan tradition-keepers and the senior [[affiliation-alndnwrdns|Wardens]] are believed to have some form of ongoing relationship with the Courts, but the nature of that relationship is not a subject on which Áelendan elders will be drawn.</p>\n</li>\n<li>\n<p><strong>Access is not arranged; it is offered.</strong> In the rare cases where a mortal has been brought before a Fae Court, the encounter was initiated by the Courts themselves, on their terms. There is no known protocol by which a mortal can petition the Courts or seek their attention.</p>\n</li>\n</ul>\n<h2>Relation to the Sinalë</h2>\n<p>Scholars sometimes conflate the Fae Courts with the [[doc-flksinale|Sinalë]] enclaves of the Élavendren forests, but this conflation is mistaken. The Sinalë are an elder race — mortal in their own way, even if exceptionally long-lived, and they occupy ordinary physical locations in the material world. The Fae Courts are something else. The Sinalë themselves distinguish clearly between their own enclaves and &quot;the deeper places,&quot; and they do not claim authority over the latter.</p>\n<p>That said, some Áelendan songs suggest that the Sinalë and the Fae Courts have their own dealings with one another, and that the Sinalëan enclaves in Élavendre may exist partly as intermediaries between the Fae Courts and the mortal world. Whether this is accurate is not something the Sinalë have ever confirmed.</p>\n<h2>Scholarly Status</h2>\n<p>[[affiliation-ordoarcanis|Ordo Arcanis]] theorists have attempted for centuries to develop a systematic account of the Fae Courts, with limited success. The Ordo's agents who venture deep enough into the Élavendren interior to gather firsthand evidence tend either not to return, or to return in states that make their testimony unreliable. The Ordo's standing position — its public position, at least — is that the Fae Courts are a literary conceit that encodes older memories of the Sinalë, conflated and mythologized over generations of oral transmission. Privately, senior members of the Quaesitorium are known to take the question more seriously.</p>\n<p>The Áelendan, for their part, regard Ordo curiosity about the Courts with particular wariness. The Courts are not a subject to be studied by outside scholars. They are not a phenomenon to be cataloged. The Áelendan have given no consent for such investigation and they consider unauthorized inquiry into Court matters to be among the more serious violations of the Covenant.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-elavendre|Élavendre]] — The kingdom in which the Courts are said to dwell</li>\n<li>[[doc-aelendnppl|Áelendan]] — The people closest to the Courts' territory</li>\n<li>[[doc-silvrfrsts|The Silver Forests]] — The principal fae-touched woodland associated with the Courts</li>\n<li>[[doc-flksinale|Sinalë]] — The elder race often conflated with, but distinct from, the Courts</li>\n<li>[[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the approaches</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!xC94NpQeBYOyeezn.3c13a6d3b49e615a"
+    }
+  ],
+  "folder": "drAoDoNnFEygATeK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xC94NpQeBYOyeezn",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!xC94NpQeBYOyeezn"
+}

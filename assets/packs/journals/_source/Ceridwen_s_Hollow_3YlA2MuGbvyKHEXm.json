@@ -1,0 +1,35 @@
+{
+  "name": "Ceridwen's Hollow",
+  "pages": [
+    {
+      "_id": "fa3bc1d8cd3052c8",
+      "name": "Ceridwen's Hollow",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!3YlA2MuGbvyKHEXm.fa3bc1d8cd3052c8"
+    }
+  ],
+  "folder": "drAoDoNnFEygATeK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3YlA2MuGbvyKHEXm",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!3YlA2MuGbvyKHEXm"
+}

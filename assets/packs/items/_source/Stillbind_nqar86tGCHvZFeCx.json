@@ -1,0 +1,40 @@
+{
+  "name": "Stillbind",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "nqar86tGCHvZFeCx",
+  "system": {
+    "shortcode": "PtnParM",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/stillbind/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A clear, slightly greenish liquid that looks almost innocent in its simplicity. The scent is faint but distinctive—something metallic and plant-based, reminiscent of crushed hemlock or nightshade. When held in direct sunlight, a faint iridescence appears across its surface. Those who have handled this potion report a cold sensation that lingers on the skin long after washing. A single taste induces a numbing sensation that spreads from the mouth downward, chilling the throat.</p>\n<p>About ten minutes after ingestion or contact through a wound, the imbiber must make an Endurance test with a penalty equal to the preparation's Success Value. If they fail, paralysis seizes their muscles. They remain frozen for one hour, conscious but immobile, able to breathe and blink and little else. If applied as paste to a weapon and the target is struck, the victim receives a +20 bonus to their Endurance test, a small mercy in a dire situation.</p>\n<p>This potion sees use as a tool of control, restraint, or desperate battle. Some herbalists refuse to prepare it on moral grounds; others see it as a less lethal alternative to poison.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 16,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "exotic",
+    "potency": "mild",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "ggAbjgiu5EiuSik1",
+  "_key": "!items!nqar86tGCHvZFeCx"
+}

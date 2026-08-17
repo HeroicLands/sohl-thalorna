@@ -1,0 +1,39 @@
+{
+  "name": "Unlock",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/divination.svg",
+  "_id": "0F7E9LVpPmZb74aR",
+  "system": {
+    "shortcode": "unlock",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/unlock/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster delves deep into the target's psyche, navigating past the familiar structures of conscious thought into the vast, uncharted territory of latent potential. With precise application of mental energy, the caster identifies dormant capabilities — suppressed talents, forgotten training, instinctive abilities that have never found expression — and creates pathways for them to reach conscious awareness. The target experiences a rush of sudden competence, as skills and understanding they never knew they possessed become available.</p>\n<p>The unlocked potential is genuine — it was always present, merely inaccessible. A farmer's son might discover an aptitude for mathematics inherited from a grandmother he never met. A clumsy apprentice might find that their body remembers the swordplay their father practiced with them as a toddler, before memory begins. The unlocking is permanent once achieved, though the newly accessible abilities still require practice to develop to their full potential. The process is mentally exhausting for the subject and carries a risk of disorientation as new self-knowledge integrates with established identity.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pneumenos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 4,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!0F7E9LVpPmZb74aR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zaristan",
+  "pages": [
+    {
+      "_id": "5652d3220a90b5c2",
+      "name": "Zaristan",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!ImatvlvxdQxFOio9.5652d3220a90b5c2"
+    }
+  ],
+  "folder": "PUSPfoG6UdrnqPhK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ImatvlvxdQxFOio9",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!ImatvlvxdQxFOio9"
+}

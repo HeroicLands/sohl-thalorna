@@ -1,0 +1,39 @@
+{
+  "name": "Strike",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/anvil.svg",
+  "_id": "tz8cj6ntnZKCwg6k",
+  "system": {
+    "shortcode": "strike",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/strike/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster extends their hand and a volley of razor-sharp metal shards materializes and launches toward the target in a glittering, deadly spray. Each shard is small — no larger than a finger joint — but they fly with the velocity and penetrating power of crossbow bolts, their edges honed to molecular sharpness by the magic that created them. The shards punch through leather and cloth with ease and can penetrate mail links or find the gaps between plates.</p>\n<p>The number of shards scales with the caster's power, from a handful sufficient to injure a single target to a withering barrage that can shred everything in a cone before the caster. The shards are genuine metal and remain embedded in whatever they strike, making the wounds they inflict as real and dangerous as those from any physical weapon. A healer treating strike wounds must extract each shard individually. The spell's fire-and-forget nature makes it the most commonly used offensive working in the Sidéros tradition.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "sideros",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!tz8cj6ntnZKCwg6k"
+}

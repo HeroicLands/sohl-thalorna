@@ -1,0 +1,40 @@
+{
+  "name": "Cloak of the Unseen Soul",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "wLOaFGUHoC9oiCDJ",
+  "system": {
+    "shortcode": "ElxSCl",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/cloak-of-the-unseen-soul/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A Soulcloak Elixir shimmers with a defensive luminescence, tinged with protective silver, and tastes of old shields and sanctuary. Drawn from the Principle of Defense (Neutral), this elixir wraps the imbiber's essence in obscurity, rendering them invisible to True Sight and other divinations that pierce the veil between worlds. When an attacker attempts to use True Sight to perceive the imbiber, a d10 roll is made against a TN equal to the elixir's AS; success causes the True Sight to automatically fail and reduces the elixir's AS by 1.</p>\n<p>Each successful block costs the elixir charge via standard Decay rolls. The protection is passive and requires no action, making it invaluable for those who must hide their movements from scrying temples, rival mages, or entities that hunt by spiritual signature. The cost is paid in weariness fatigue equal to AS × 5—the cloaking saps bodily energy as the soul withdraws from easy perception. Mystics and heretics value Soulcloak as essential to survival when the eyes of the divine are ever watching.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 0,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "elixir",
+    "potency": "na",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "zjH2UVFqfHp20lIq",
+  "_key": "!items!wLOaFGUHoC9oiCDJ"
+}

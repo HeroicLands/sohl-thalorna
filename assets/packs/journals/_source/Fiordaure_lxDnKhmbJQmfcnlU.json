@@ -1,0 +1,35 @@
+{
+  "name": "Fiòrdaure",
+  "pages": [
+    {
+      "_id": "355d1fde3b0b08df",
+      "name": "Fiòrdaure",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!lxDnKhmbJQmfcnlU.355d1fde3b0b08df"
+    }
+  ],
+  "folder": "2s244hfP0BpQi195",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "lxDnKhmbJQmfcnlU",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!lxDnKhmbJQmfcnlU"
+}

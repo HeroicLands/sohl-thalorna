@@ -1,0 +1,35 @@
+{
+  "name": "Tz'ikin Ba'alam",
+  "pages": [
+    {
+      "_id": "dd84c9646b712e97",
+      "name": "Tz'ikin Ba'alam",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> Tz'ikin Ba'alam is the central city and seat of the [[doc-tzikinbalm|Tz'ikin Ba'alam]] city-state.</p>\n"
+      },
+      "_key": "!journal.pages!81GNYrgkAYEus3dq.dd84c9646b712e97"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "81GNYrgkAYEus3dq",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!81GNYrgkAYEus3dq"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Faith of Ymir",
+  "type": "affiliation",
+  "img": "images/affiliation/ymir.webp",
+  "_id": "iw5CaLGOvhF2ddKY",
+  "system": {
+    "shortcode": "ymir",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/faith-of-ymir/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Ymir, the god of creation, is a master craftsman and the divine architect of life. Ymir focuses his boundless creative energy on crafting new, unique forms of life, which he refers to as his &quot;children.&quot; This god of innovation and experimentation resides in the physical world, where he has established vast laboratories and sprawling factories dedicated to his ceaseless work.</p>\n<h2>Aspects</h2>\n<p>Ymir's passion lies in recycling the souls of his previous creations, giving them new, often experimental bodies. He is a relentless tinkerer, always seeking the perfect form and combining attributes in novel ways. Many of his creations do not meet his high expectations and are discarded as failures, driving him to incessant experimentation.</p>\n<p>The collective term for Ymir's creations is &quot;Dreadspawn.&quot; These beings are diverse and often bizarre, reflecting the god's unrestrained creativity. One consistent trait among the Dreadspawn is their incapacity for reproduction; every new Dreadspawn must be hand-crafted by Ymir himself.</p>\n<p>Ymir's presence in the material world is a rarity among the gods, and he is largely indifferent to the mortal realm's affairs. His laboratories and factories are marvels of divine craftsmanship, filled with alchemical apparatus, strange machinery, and fragments of discarded experiments.</p>\n<p>Though Ymir possesses worshipers and a clergy dedicated to him, his lack of concern for them results in their disorganization and weakness. His followers gather in loose, scattered factions, united more by their admiration of Ymir's work than by any formal structure or doctrine.</p>\n<p>Depictions of Ymir are as varied as his creations. He is often shown as an imposing figure, clad in the garments of a craftsman — tools and instruments of creation always close at hand. His eyes, filled with a blend of frustration and infinite possibility, are said to pierce through the very essence of life.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>Fragment of the Forge:</strong> (Unique) A piece of Ymir's first laboratory, representing the origin of his endless creative journey.</li>\n<li><strong>Crystal Vial of Souls:</strong> (Unique) A relic said to contain the essence of souls recycled by Ymir for his experiments, symbolizing the cycle of life and creation.</li>\n<li><strong>Incomplete Form:</strong> (Unique) A preserved Dreadspawn that was abandoned during creation, revered as a symbol of Ymir's relentless drive and the imperfection inherent in existence.</li>\n</ul>\n<h2>Clergy and Structure</h2>\n<p>Ymir's religion lacks formal hierarchy or structured organization. Instead, it consists of various scattered factions, each focused on different aspects of Ymir's work. These groups often operate independently, united only by their admiration of Ymir's creative genius.</p>\n<h3>Key Roles (Informal and Fluid)</h3>\n<ul>\n<li><strong>Soul Weavers:</strong> Individuals who attempt to understand and guide the process of soul recycling, believing they can aid Ymir in refining his creations.</li>\n<li><strong>Dreadspawn Keepers:</strong> Followers who dedicate their lives to studying, protecting, or controlling the Dreadspawn, sometimes forming a perilous bond with these beings.</li>\n<li><strong>Echoes of the Creator:</strong> Worshippers who identify with Ymir's drive for perfection and seek to embody his relentless pursuit in their own lives, often becoming creators or innovators in their own right.</li>\n</ul>\n<h3>Key Skills</h3>\n<p>Understanding the nature of life and the process of creation, Experimenting with the fusion of different forms and essences, Controlling or communing with Dreadspawn, Surviving in chaotic experimental environments</p>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Dreadspawn:</strong> Ymir's unique creations, each handcrafted with purpose and potential but often left abandoned due to his dissatisfaction. They are diverse, powerful, and frequently bizarre in form and function.</li>\n</ul>\n<h2>High Ceremonies (Rare and Disorganized)</h2>\n<ul>\n<li><strong>The Call of the Dreadspawn:</strong> A chaotic ritual where priests attempt to summon powerful Dreadspawn, often leading to dangerous and unpredictable results.</li>\n</ul>\n<h2>Ordeals for Favor</h2>\n<ul>\n<li><strong>The Dreadspawn's Bond:</strong> A dangerous task where followers must form a bond with a powerful Dreadspawn, demonstrating their devotion and willingness to share in Ymir's creative torment.</li>\n<li><strong>The Creator's Vision:</strong> A pilgrimage to Ymir's laboratories, where followers seek to witness or participate in the god's ongoing experiments, risking both their lives and sanity.</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "asguardian": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "cFyVbOx7bj35ZyPA",
+  "_key": "!items!iw5CaLGOvhF2ddKY"
+}

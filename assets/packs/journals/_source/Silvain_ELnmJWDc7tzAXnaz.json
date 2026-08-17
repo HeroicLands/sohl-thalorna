@@ -1,0 +1,35 @@
+{
+  "name": "Silvain",
+  "pages": [
+    {
+      "_id": "b4c78ea1e7ad4400",
+      "name": "Silvain",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!ELnmJWDc7tzAXnaz.b4c78ea1e7ad4400"
+    }
+  ],
+  "folder": "drAoDoNnFEygATeK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ELnmJWDc7tzAXnaz",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!ELnmJWDc7tzAXnaz"
+}

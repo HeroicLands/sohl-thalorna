@@ -1,0 +1,35 @@
+{
+  "name": "Vashurán",
+  "pages": [
+    {
+      "_id": "70d853aadc5eedd6",
+      "name": "Vashurán",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!8V6lgZjeFHlQZkRA.70d853aadc5eedd6"
+    }
+  ],
+  "folder": "ySaln4Q82C7W1p0I",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "8V6lgZjeFHlQZkRA",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!8V6lgZjeFHlQZkRA"
+}

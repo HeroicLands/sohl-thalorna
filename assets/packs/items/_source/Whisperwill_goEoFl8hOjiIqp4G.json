@@ -1,0 +1,39 @@
+{
+  "name": "Whisperwill",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/divination.svg",
+  "_id": "goEoFl8hOjiIqp4G",
+  "system": {
+    "shortcode": "whsprwll",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/whisperwill/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster plants a seed of intention in the target's subconscious mind — not a command that overrides free will but a suggestion so skillfully crafted that it feels like the target's own idea. The implanted thought integrates seamlessly with the target's existing desires, beliefs, and plans, emerging into conscious awareness as a natural inclination rather than an external imposition. The target acts on the suggestion believing entirely that the impulse originates from within.</p>\n<p>The suggestion must be plausible within the context of the target's personality and circumstances; wildly incongruous suggestions are rejected by the subconscious before they ever reach awareness. A guard can be suggested to take their break early but not to abandon their post entirely. A merchant can be nudged toward generosity but not toward giving away their entire stock. The subtlety of Whisperwill is both its greatest strength and its most troubling aspect — because the target never realizes they have been influenced, the manipulation can be virtually undetectable even to the subject themselves.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pneumenos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 6,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!goEoFl8hOjiIqp4G"
+}

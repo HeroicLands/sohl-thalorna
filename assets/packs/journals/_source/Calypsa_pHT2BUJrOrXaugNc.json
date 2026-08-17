@@ -1,0 +1,35 @@
+{
+  "name": "Calypsa",
+  "pages": [
+    {
+      "_id": "e42ef826abb2e424",
+      "name": "Calypsa",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> Calypsa is the capital and principal settlement of [[doc-calypsa|Calypsa]].</p>\n"
+      },
+      "_key": "!journal.pages!pHT2BUJrOrXaugNc.e42ef826abb2e424"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "pHT2BUJrOrXaugNc",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!pHT2BUJrOrXaugNc"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Faith of Lôki",
+  "type": "affiliation",
+  "img": "images/affiliation/loki.webp",
+  "_id": "iySZsg4GUX7SXyvZ",
+  "system": {
+    "shortcode": "loki",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/faith-of-l-ki/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Lôki, the god of cunning, deception, and thieves, is the archetypal trickster — an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden — those who lurk in society's shadows and navigate its underworld.</p>\n<h2>Aspects</h2>\n<p>Known for his sharp intellect and silver tongue, Lôki is a master of disguise and manipulation. His trickery knows no bounds, and he delights in orchestrating elaborate schemes that bring downfall to the powerful and instigate disorder. His ultimate goal is not to elevate the marginalized but to sow chaos and dismantle established order.</p>\n<p>Temples dedicated to Lôki are rare and typically hidden from plain sight, often disguised as common establishments or concealed in the darkest corners of cities. Rituals in his name often involve acts of trickery and subversion, as well as offerings of stolen goods or other symbols of defiance.</p>\n<p>Lôki is depicted as a charismatic and enigmatic figure, his expression always carrying a hint of a knowing smile. His eyes, sharp and alert, gleam with mischief and intelligence. In his hands, Lôki might hold a dagger or a coin, icons of his domains of assassination and thievery, or a mask, symbolizing his mastery over deception and disguise.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>Serpent Skin:</strong> Represents cunning and transformation.</li>\n<li><strong>Shifting Sand:</strong> Symbolizes change and the instability of illusions.</li>\n<li><strong>Broken Chain Link:</strong> Signifies breaking free from constraints through cleverness.</li>\n<li><strong>Shadowed Glass:</strong> Used in rituals of deception and hidden truths.</li>\n</ul>\n<h2>Relics</h2>\n<ul>\n<li><strong>The Mask of Deception:</strong> (Unique) A sacred artifact that allows its wearer to assume any identity.</li>\n<li><strong>Dagger of Shadows:</strong> A ceremonial blade used in clandestine rites, believed to be able to pierce through lies and illusions.</li>\n</ul>\n<h2>Clergy</h2>\n<ul>\n<li><strong>Skuggi Thræll</strong> (Circle I: &quot;Shadow Thrall&quot;) — Shade Acolyte</li>\n<li><strong>Svik Goði/Goðe</strong> (Circle III: &quot;Deception Priest/Priestess&quot;) — Priest/Priestess of the Veil</li>\n<li><strong>Ormr Hersir</strong> (Circle IV: &quot;Serpent Warlord&quot;) — Whispering Serpent</li>\n<li><strong>Skuggi Jarl</strong> (Circle V: &quot;Shadow Jarl&quot;) — Shadowbinder</li>\n<li><strong>Ráð Konungr/Konungrkvinde</strong> (Circle VI: &quot;Ruse King/Queen&quot;) — Veilmaster</li>\n<li><strong>Skáld Allsherjargoði</strong> (Circle VII: &quot;Trickster High Priest&quot;) — Serpent of the Shadows</li>\n<li><strong>Ormr Faðir/Móðir</strong> (Circle VIII: &quot;Father/Mother of Serpents&quot;) — Pontiff of the Shifting Veil</li>\n</ul>\n<p><strong>Key Skills:</strong> Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth</p>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Shadow Serpents:</strong> Ethereal snakes that serve as messengers and agents of Lôki, often appearing in times of deception or mischief.</li>\n<li><strong>Whispering Winds:</strong> Spirits that carry secrets and lies, aiding Lôki's followers in their schemes.</li>\n</ul>\n<h2>Ceremonies and Festivals</h2>\n<p><strong>Low Ceremonies:</strong></p>\n<ul>\n<li><strong>The Masked Vigil:</strong> A monthly ritual where followers don masks and share secrets, invoking Lôki's blessings for their cunning and craft.</li>\n</ul>\n<p><strong>High Ceremonies:</strong></p>\n<ul>\n<li><strong>The Rite of Shadows:</strong> A secretive ritual where the clergy gather to deepen their connection with Lôki, often resulting in new insights and abilities in the art of deception.</li>\n</ul>\n<p><strong>Festivals:</strong></p>\n<ul>\n<li><strong>Festival of Masks:</strong> Held in the autumn, this festival celebrates Lôki's mastery of disguise and deception with elaborate masquerades and games of wit.</li>\n<li><strong>The Night of Whispers:</strong> An annual event where the faithful engage in a night of intrigue and subterfuge, with prizes awarded to the most cunning participants.</li>\n</ul>\n<h2>Ordeals for Favor</h2>\n<ul>\n<li><strong>The Shadow Walk:</strong> A task where participants must infiltrate a heavily guarded location and retrieve a valuable item, relying solely on their skills in stealth and deception.</li>\n<li><strong>The Trial of Lies:</strong> A challenge where the faithful must weave a web of lies so intricate that it ensnares a powerful figure.</li>\n<li><strong>The Serpent's Maze:</strong> An ordeal where the participant must navigate a deadly labyrinth filled with traps, illusions, and false leads.</li>\n<li><strong>The Whispering Hunt:</strong> A task where participants must gather valuable secrets from influential figures, using them to manipulate events in Lôki's favor.</li>\n</ul>\n<h2>Orders</h2>\n<p><strong>Clerical Orders:</strong></p>\n<ul>\n<li><strong>Order of the Shifting Veil:</strong> Priests dedicated to mastering the arts of illusion and disguise, often serving as spies and infiltrators.</li>\n</ul>\n<p><strong>Fighting Orders:</strong></p>\n<ul>\n<li><strong>Serpentfangs:</strong> Fighters who combine physical prowess with the art of poison, using their knowledge of toxins to weaken and kill their foes.</li>\n<li><strong>Knights of the Shifting Shadow:</strong> A militant order dedicated to protecting Lôki's temples and followers, using stealth and strategy.</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "asguardian": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "cFyVbOx7bj35ZyPA",
+  "_key": "!items!iySZsg4GUX7SXyvZ"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Dunmere",
+  "pages": [
+    {
+      "_id": "5467c3b1277c01c4",
+      "name": "Dunmere",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!MbOkXD6PFlAjMucq.5467c3b1277c01c4"
+    }
+  ],
+  "folder": "ZbE1NQo3ApZ26xon",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MbOkXD6PFlAjMucq",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!MbOkXD6PFlAjMucq"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Blackroot Tincture",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "s5ec54onwXf6YvUJ",
+  "system": {
+    "shortcode": "PtnPoiS",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/blackroot-tincture/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A vivid green liquid with an oily sheen, visibly separated into layers in the vial. The stench is unmistakable—acrid and choking, like burned vegetation mixed with copper and something rotten. Even sealed, the vial may be identified by smell alone. The herbalist who prepares this works in a well-ventilated room, often with cloth soaked in vinegar wrapped around their face. A single drop on exposed skin causes painful welts. The very act of preparation marks one's hands with stains that persist for days.</p>\n<p>When ingested or injected through a bleeding wound, this poison acts as a HR3 virulence toxin that courses through the victim's body in minutes rather than hours. Death or recovery occurs within roughly fifteen minus the preparation's Success Value minutes. The victim experiences rapid deterioration: fever, convulsions, internal bleeding. When applied as paste to a weapon, the target receives a +20 bonus to resist, but the rapid timescale leaves little opportunity for intervention or cure. Physicians report that victims at this stage can rarely be saved.</p>\n<p>This is the poison of those who wish their enemies not merely dead but dead swiftly, before help can arrive. It is outlawed in most civilized lands, and those caught preparing it often face execution.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 48,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "exotic",
+    "potency": "strong",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "DFkZMeVq8rIzo44Q",
+  "_key": "!items!s5ec54onwXf6YvUJ"
+}

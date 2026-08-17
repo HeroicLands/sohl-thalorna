@@ -1,0 +1,39 @@
+{
+  "name": "Nourish",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/divination.svg",
+  "_id": "uRZ17Ffgwt3MwtEH",
+  "system": {
+    "shortcode": "nourish",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/nourish/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster channels sustaining mental energy into the target's mind, and the fog of exhaustion lifts. Scattered thoughts coalesce into focused chains of reasoning. Memory sharpens, retrieving details that had slipped beyond reach. The creative faculties, dulled by fatigue or stress, reawaken with renewed vigor. The effect is like a second wind of the intellect — a surge of mental freshness that restores the mind to its peak operating condition.</p>\n<p>The enhancement does not make the target smarter in any absolute sense; it removes the accumulated degradation of fatigue, stress, and information overload that dulls cognitive performance over the course of demanding work. A scholar who has been poring over manuscripts for twelve hours suddenly finds the clarity they had at dawn. A commander who has been making decisions under pressure for days recovers the sharp judgment of their first hour. The relief is temporary, and when it fades, the underlying exhaustion reasserts itself with compounded force.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pneumenos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!uRZ17Ffgwt3MwtEH"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Province of Moktur",
+  "pages": [
+    {
+      "_id": "babca2b6133341f1",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Moktur is the empire's northern shield — a mountainous province bordering the [[doc-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction.</p>\n<h2>Character</h2>\n<p>Moktur is the most martial province of the empire. Life here is harder, colder, and more dangerous than in the southern provinces. The settlements are fortified — even market towns have walls and watchtowers. The population is smaller and more spread out, clustered in mountain valleys and along the fortified roads that connect frontier garrisons.</p>\n<p>The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[doc-provinclys|Alyssa]] and [[doc-provnchyln|Hylen]]. Military service is not just honored — it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.</p>\n<p>The frontier with [[doc-vrystwald|Vrystwald]] is not a clean line. There are Varokh communities within Moktur's nominal borders, and some Mokturan border lords have more in common with the barbarian chiefs across the line than with the senators in the capital. Intermarriage, trade, and occasional truces create a complex border culture that neither side fully controls.</p>\n<h2>Economy</h2>\n<p>Mining and timber are the primary industries, supplemented by herding and limited highland agriculture. Moktur's mountains contain iron, copper, and silver deposits that feed the empire's metalworking industry. The province also profits from the overland trade routes that pass through its mountain passes — tolls and customs duties are a major source of revenue for the military governors.</p>\n<h2>Notable Features</h2>\n<ul>\n<li>Fortified frontier garrisons along the Vrystwald border</li>\n<li>Semi-autonomous military governors with their own armies</li>\n<li>Rich mineral deposits fueling the empire's metalworking</li>\n<li>A hybrid border culture blending Vylarian and Varokh traditions</li>\n</ul>\n<h2>Settlements</h2>\n<p>Moktur's settlements are few, fortified, and strung along the mountain valleys and the garrison roads.</p>\n<p><strong>Towns.</strong></p>\n<ul>\n<li><strong>[[doc-tyrellan|Tyrellan]]</strong> (~15,000) — the provincial capital, seat of the military governor.</li>\n<li><strong>[[doc-ferrovan|Ferrovan]]</strong> (~7,000) — the chief mining town, above the iron, copper, and silver lodes.</li>\n<li><strong>[[doc-castrovar|Castrovar]]</strong> (~6,000) — a legion fortress-town on the Vrystwald frontier.</li>\n<li><strong>[[doc-korrast|Korrast]]</strong> (~5,000) — a fortified toll-town commanding a principal mountain pass.</li>\n<li><strong>[[doc-stennvold|Stennvold]]</strong> (~4,000) — a high mining-and-smelting town.</li>\n<li><strong>[[doc-pinnhald|Pinnhald]]</strong> (~3,000) — a timber town of the forested slopes, half-Varokh in custom.</li>\n<li><strong>[[doc-sanctara|Sanctara]]</strong> (~2,000) — a temple town among the heights.</li>\n</ul>\n<p><strong>Hamlets, camps, and border communities.</strong> Between the towns lie scattered settlements of 100–800 — fortified herding steads, mining and cutting camps, watchtower-villages, and the Varokh communities that sit within Moktur's nominal borders but answer to no Vylarian magistrate. Among them: Greythorn, Ironcamp, Skarrholt, Vargmoot, Highfell, Drekkar's Steading, Wolfstead, Coldreach, and Stennvik — several more Varokh than Vylarian in tongue and custom. Moktur is thinly peopled by the empire's standards; its mountains hold far more sheep, ore, and timber than men.</p>\n<h2>For the Worldbuilder</h2>\n<p>Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers, and a short hard growing season. This is the province for mines, logging, hunting, and frontier soldiering — and the one place inside the empire where the wilderness, and the people who live by it, are genuinely beyond the capital's reach. Power is held by the military governors and border-lords, some little better than warlords, whose loyalty to Magnápolis is a matter of convenience. Adventure here is frontier adventure: raids and reprisals across the Vrystwald march, feuds between border-lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-barbarian borderland. What is abundant is metal, timber, game, and danger; what is scarce is imperial authority, soft living, and trust. A settlement here is walled, watchful, and loyal first to whoever can defend it.</p>\n<h2>Commerce and Currency</h2>\n<p>Province of Moktur uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Parent polity</li>\n<li>[[doc-vrystwald|Vrystwald]] — Northern frontier threat</li>\n<li>[[doc-provinclys|Province of Alyssa]], [[doc-provnchyln|Province of Hylen]], [[doc-provincvld|Province of Vald]] — Sister provinces</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!6EwzNjLfh0DcbxEP.babca2b6133341f1"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "6EwzNjLfh0DcbxEP",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!6EwzNjLfh0DcbxEP"
+}

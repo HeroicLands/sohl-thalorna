@@ -1,0 +1,35 @@
+{
+  "name": "Zarhánor",
+  "pages": [
+    {
+      "_id": "80b35a79a9ef1f81",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>meaning:</strong> <em>The First Flame</em></p>\n<ul>\n<li>Known as the spiritual capital, Zarhánis houses the largest temple complex, believed to have been the birthplace of the kingdom’s religion.</li>\n<li>The temple is adorned with murals and carvings detailing the creation of the world by Nkaru’thar.</li>\n<li>Ruled by the <strong>High Pyremant</strong>, the spiritual leader of Okháris and advisor to the overlord.</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!2fdrzbEWF4pDGpTo.80b35a79a9ef1f81"
+    }
+  ],
+  "folder": "voxX57xvTC1eRnSO",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2fdrzbEWF4pDGpTo",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!2fdrzbEWF4pDGpTo"
+}

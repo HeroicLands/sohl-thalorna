@@ -1,0 +1,39 @@
+{
+  "name": "Parch",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/fire.svg",
+  "_id": "R0PHjXlcaw38G35H",
+  "system": {
+    "shortcode": "parch",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/parch/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster draws the moisture from a targeted area, and everything within begins to desiccate. Plants droop and crisp, their leaves curling inward. Puddles shrink and vanish. Wood dries until it cracks, and leather stiffens and grows brittle. The air itself becomes parched and throat-catchingly dry, carrying the faint scent of dust and sun-baked earth.</p>\n<p>Against living targets, Parch induces symptoms of severe dehydration — cracked lips, dizziness, and a desperate, burning thirst that dominates thought. The effect is uncomfortable and debilitating rather than immediately dangerous, sapping strength and concentration without inflicting direct injury. The spell's practical applications include drying wet equipment, preserving food against spoilage, preparing waterlogged materials for use, and making a campsite more comfortable after rain. Some practitioners use it to remove moisture from walls before applying repair plaster.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pyrethos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 1,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!R0PHjXlcaw38G35H"
+}

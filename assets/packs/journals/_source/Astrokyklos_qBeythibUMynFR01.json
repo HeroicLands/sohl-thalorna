@@ -1,0 +1,35 @@
+{
+  "name": "Astrokýklos",
+  "pages": [
+    {
+      "_id": "2b412917ccc90fce",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes</p>\n<p>Astrokyklos - Star Circle</p>\n"
+      },
+      "_key": "!journal.pages!qBeythibUMynFR01.2b412917ccc90fce"
+    }
+  ],
+  "folder": "UP1TiHn0Xt9ZGvYo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "qBeythibUMynFR01",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!qBeythibUMynFR01"
+}

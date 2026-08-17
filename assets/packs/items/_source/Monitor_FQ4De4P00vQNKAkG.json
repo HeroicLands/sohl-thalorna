@@ -1,0 +1,39 @@
+{
+  "name": "Monitor",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/circle.svg",
+  "_id": "FQ4De4P00vQNKAkG",
+  "system": {
+    "shortcode": "monitor",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/monitor/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster fixes a location firmly in mind — a room they have visited, a crossroads they have studied — and extends a thread of awareness to that distant point. Through this invisible tether, the caster perceives the location as though standing within it: hearing conversations, observing movements, and sensing any magical activity. The monitoring point is stationary and invisible, betraying no physical sign of the caster's remote presence.</p>\n<p>The spell demands sustained concentration, and the caster's body remains vulnerable while their attention is divided. Warded locations or areas of magical interference can block or degrade the connection, producing gaps in perception like static in a message. The caster cannot interact with the monitored location in any way — they are a passive observer only. Skilled practitioners learn to split their attention enough to maintain basic bodily awareness while monitoring, but this requires considerable practice.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "kentra",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!FQ4De4P00vQNKAkG"
+}

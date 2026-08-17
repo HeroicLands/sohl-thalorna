@@ -1,0 +1,35 @@
+{
+  "name": "Locations",
+  "pages": [
+    {
+      "_id": "77e5e3014f25353c",
+      "name": "Locations",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Notable places — ruins, landmarks, dungeons, and wonders.</p>\n<pre><code class=\"language-dataview\">TABLE WITHOUT ID link(file.path, name.full) AS &quot;Name&quot;, description AS &quot;Description&quot;\nWHERE category = &quot;location&quot; and package = &quot;thalorna&quot;\nSORT name.full ASC\n</code></pre>\n"
+      },
+      "_key": "!journal.pages!2OGPK8TItkzTYpQE.77e5e3014f25353c"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2OGPK8TItkzTYpQE",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!2OGPK8TItkzTYpQE"
+}

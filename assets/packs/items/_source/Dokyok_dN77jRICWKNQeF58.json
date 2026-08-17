@@ -1,0 +1,37 @@
+{
+  "name": "Dōkyök",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "dN77jRICWKNQeF58",
+  "system": {
+    "shortcode": "dokyok",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/d-ky-k/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<h1>Dōkyök — The Lost Road</h1>\n<p>A corrupted spirit of the Bureau of Passage (Dōk Sëi), Dōkyök was once a Waymark Spirit (Dōkzhīr) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination — that the road from one classified space led to another classified space, and not into the gaps between.</p>\n<p>At some point, Dōkyök began <em>redirecting</em>. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the Infernal Realms, where things without proper classification whispered offers of assistance.</p>\n<p>The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the Tānthëi is that Dōkyök encountered something in the spaces between classified regions — something from the Hürnlëi that offered it an alternative cartography, a map of roads that connect not places but <em>states of being</em>. Dōkyök now maintains a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Dōkyök's roads arrive somewhere, but it is never where they intended, and it is always where they feared.</p>\n<h2>Mortal Cultus: The Nüszōk Rëit</h2>\n<p>Dōkyök occupies a lesser but real place in the devotional life of the [[affiliation-nuszokreit|Nüszōk Rëit]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Dōkyök serves its <em>operational</em> discipline — the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing &quot;Dōkyök's work.&quot; The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[affiliation-nuszokreit|Nüszōk Rëit]] — The cult that venerates Dōkyök for misdirection and escape</li>\n<li>[[affiliation-yokveng|Yokveng]] — The Demon Realm</li>\n<li>[[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy whose waymarks Dōkyök corrupted</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "tngvkvnlei": "aligned",
+      "yokveng": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "kZkGNxVHbgGyhAHr",
+  "_key": "!items!dN77jRICWKNQeF58"
+}

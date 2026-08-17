@@ -1,0 +1,39 @@
+{
+  "name": "Sentience",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/circle.svg",
+  "_id": "hb7eujMIrSYD9x5r",
+  "system": {
+    "shortcode": "sntnc",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/sentience/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Through an extended and profoundly demanding ritual, the caster kindles the spark of genuine awareness within a magical construct, granting it the capacity for independent thought, emotional response, and autonomous decision-making. The newly awakened entity possesses a rudimentary personality shaped by the caster's intent and the nature of its physical form, but it rapidly develops its own preferences, opinions, and understanding of the world.</p>\n<p>This is among the most controversial and carefully regulated workings in the arcane tradition. A sentient construct is not a servant — it possesses genuine feelings and can experience suffering, making the ethical implications of its creation a subject of intense debate among practitioners. The Ordo Arcanis maintains strict guidelines governing the creation of sentient constructs, requiring formal justification and ongoing responsibility for the entity's wellbeing. Constructs that are mistreated or abandoned have been known to develop deep resentment toward their creators.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "kentra",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 6,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!hb7eujMIrSYD9x5r"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Lion",
+  "type": "mystery",
+  "img": "images/mystery/lion.webp",
+  "_id": "MU6HVFla6YShVxgi",
+  "system": {
+    "shortcode": "lion",
+    "docUrl": "https://heroiclands.org/sohl/mystery/lion/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Dominant and strategic, lions are social big cats that work cooperatively within a pride to hunt and defend their territory with calculated precision.</p>\n<h2>Human Personality</h2>\n<p>This person is a natural leader who works well within a team, using their strategic mind to lead and defend their group. They are dominant, taking charge of situations.</p>\n<ul>\n<li><strong>Physical:</strong> Strong, dominant presence; regal and authoritative appearance.</li>\n<li><strong>Behavioral:</strong> Dominant, strategic in leadership and social engagements.</li>\n<li><strong>Positive:</strong> Natural leader, cooperative, and strategic.</li>\n<li><strong>Negative:</strong> Can be domineering and may struggle with letting others take charge.</li>\n<li><strong>Minor Trait:</strong> Naturally commanding, expecting to lead and carrying themselves with an authority that others instinctively defer to.</li>\n<li><strong>Major Disorder:</strong> Demands unwavering admiration and obedience, treating any challenge to their authority as a personal affront deserving of swift retribution.</li>\n</ul>\n",
+    "levelBase": 0,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "vRIKmqTJtHtY4VEX",
+  "_key": "!items!MU6HVFla6YShVxgi"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Sense",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/divination.svg",
+  "_id": "AGDIBlqVdMHfEas9",
+  "system": {
+    "shortcode": "sense",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/sense/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster opens their awareness to the emotional landscape of a chosen individual, and feelings that would normally be hidden behind composure and social convention become perceptible as distinct, almost tangible impressions. Fear presents as a cold tightness in the caster's own chest. Anger arrives as heat behind the eyes. Joy manifests as a lightness, grief as a leaden heaviness, and the complex layered emotions of an intelligent mind reveal themselves as intricate patterns of sensation.</p>\n<p>The empathic connection is one-directional — the caster perceives the target's emotions without broadcasting their own. It cannot read thoughts, access memories, or discern the specific causes of what the target feels; a perception of fear reveals that the target is afraid but not of what. Skilled practitioners learn to distinguish between emotions the target is actively experiencing and those they are suppressing, and between genuine feelings and those the target is performing for social purposes.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pneumenos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!AGDIBlqVdMHfEas9"
+}

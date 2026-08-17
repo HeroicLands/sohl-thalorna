@@ -1,0 +1,19 @@
+{
+  "name": "Malagna",
+  "sorting": "a",
+  "folder": "yCT7BtuH6hMwWnob",
+  "type": "JournalEntry",
+  "_id": "3JdV0mOrMUISPmRz",
+  "sort": 0,
+  "color": "#66BB6A",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!3JdV0mOrMUISPmRz"
+}

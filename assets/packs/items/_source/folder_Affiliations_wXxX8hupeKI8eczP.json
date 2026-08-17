@@ -1,0 +1,19 @@
+{
+  "name": "Affiliations",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "wXxX8hupeKI8eczP",
+  "sort": 0,
+  "color": "#1B4965",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!wXxX8hupeKI8eczP"
+}

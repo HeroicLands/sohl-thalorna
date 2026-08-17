@@ -1,0 +1,35 @@
+{
+  "name": "Kaljékor",
+  "pages": [
+    {
+      "_id": "baeace006583721c",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>meaning:</strong> <em>The Golden Flame</em></p>\n<ul>\n<li>The economic hub, Kaljékor sits at the crossroads of major trade routes. Its pyramidal temple complex doubles as a marketplace, bustling with merchants from Ta’ kheperu and the Valyrian Sea and beyond.</li>\n<li>Kaljékor is ruled by a council of priest-nobles</li>\n<li>Known for its golden adornments and the wealth of its priest-nobles, Kaljékor’s influence extends far through trade alliances.</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!pHo7smFVBkLA9NEb.baeace006583721c"
+    }
+  ],
+  "folder": "voxX57xvTC1eRnSO",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "pHo7smFVBkLA9NEb",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!pHo7smFVBkLA9NEb"
+}

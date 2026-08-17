@@ -1,0 +1,35 @@
+{
+  "name": "Maréndal",
+  "pages": [
+    {
+      "_id": "02dc0e59f10fe2f9",
+      "name": "Maréndal",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> Maréndal is the capital and principal settlement of [[doc-kngdmglvrn|Kingdom of Galváren]].</p>\n"
+      },
+      "_key": "!journal.pages!NgdpgK19TbXSBuwE.02dc0e59f10fe2f9"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NgdpgK19TbXSBuwE",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!NgdpgK19TbXSBuwE"
+}

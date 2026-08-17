@@ -1,0 +1,35 @@
+{
+  "name": "Sanctara",
+  "pages": [
+    {
+      "_id": "d21b0b130645a1b4",
+      "name": "Sanctara",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!MJVnfnwAYz0bbQAS.d21b0b130645a1b4"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MJVnfnwAYz0bbQAS",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!MJVnfnwAYz0bbQAS"
+}

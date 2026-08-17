@@ -1,0 +1,34 @@
+{
+  "name": "Aurèldián Pantheon",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "MB1QS9G4v0JW9Osw",
+  "system": {
+    "shortcode": "arldnpnthn",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/aur-ldi-n-pantheon/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p><strong>Pronunciation:</strong> <em>Aw-REL-dee-ahn</em></p>\n<p>The Aurèldían pantheon is the dominant religious tradition of western [[doc-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[doc-vylarinmpr|Vylaria]], [[doc-provenzrgn|Provènzia Region]], [[doc-tarvenirgn|Tarvénia Region]], [[doc-helionis|Heliónis]], [[doc-cnfdrtnhrdnstts|Harad]], [[doc-elavendre|Élavendre]], [[doc-aelwyth|Aelwyth]], and [[doc-byzariargn|Byzaría Region]], with a secondary presence in the port cities of [[doc-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.</p>\n<h2>The Twelve</h2>\n<p>| Domain     | Deity        | Epithet                     | Symbol                                             | Faith                    |\n| ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------ | ------------------- |\n| Dreams     | <strong>Æthería</strong>  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-aetheria | Faith of Æthería]]  |\n| Death      | <strong>Thánatos</strong> | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-thanatos   | Faith of Thánatos]] |\n| Storms     | <strong>Táranon</strong>  | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-taranon   | Faith of Táranon]]  |\n| Order      | <strong>Jánus</strong>    | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-janus   | Faith of Jánus]]    |\n| Knowledge  | <strong>Ménérva</strong>  | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-menerva   | Faith of Ménérva]]  |\n| Prosperity | <strong>Vénusia</strong>  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-venusia   | Faith of Vénusia]]  |\n| Fire       | <strong>Vúlcan</strong>   | The Forge-Lord              | Hammer over a flame-ringed anvil                   | <em>See below</em>              |\n| Creation   | <strong>Lúsinía</strong>  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia   | Faith of Lúsinía]]  |\n| Chaos      | <strong>Karnavos</strong> | The Wild Beast              | Antlers framing a swirling spiral                  | [[affiliation-karnavos   | Faith of Karnavos]] |\n| Voyages    | <strong>Múrkír</strong>   | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-murkir   | Faith of Múrkír]]   |\n| Decay      | <strong>Mórváná</strong>  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana  | Faith of Mórváná]]  |\n| Fertility  | <strong>Flórania</strong> | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-florania   | Faith of Flórania]] |</p>\n<h2>The Vúlcani Schism</h2>\n<p>Vúlcan, the Forge-Lord, embodies both the creative and destructive aspects of flame — the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Vúlcani clergy declared that Vúlcan's true nature was destruction, purification through fire, and the dominance of the strong over the weak.</p>\n<p>The resulting schism produced two bitterly opposed faiths, each considering the other heretical:</p>\n<ul>\n<li><strong>[[affiliation-sacredforge|The Sacred Forge]]</strong> — Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. The mainstream faith in most of western Ankaris.\n<ul>\n<li><strong>Symbol:</strong> A radiant anvil beneath a sheltering flame.</li>\n</ul>\n</li>\n<li><strong>[[affiliation-blackflame|The Black Flame]]</strong> — Vúlcan's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.\n<ul>\n<li><strong>Symbol:</strong> A black flame consuming a broken chain.</li>\n</ul>\n</li>\n</ul>\n<p>The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Vúlcan's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries.</p>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {}
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "uMjCDTomEtc5Z0KV",
+  "_key": "!items!MB1QS9G4v0JW9Osw"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Shadowveil",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/fire.svg",
+  "_id": "MGjDeQGxZxAAudiO",
+  "system": {
+    "shortcode": "shdwvl",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/shadowveil/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster draws a mantle of dark, smoldering flame around their shoulders like a heavy cloak. Unlike normal fire, these flames produce a deep, ruddy glow that swallows surrounding light rather than adding to it, creating a pool of warm shadow that softens the caster's outline and makes their features difficult to discern. The cloak radiates uncomfortable heat, deterring close approach and causing burns to anyone who touches it.</p>\n<p>The paradox of fire that darkens rather than illuminates is unsettling to observers, who instinctively associate flames with light and find the shadow-casting fire deeply wrong. The cloak provides genuine physical protection against cold, wind, and rain — all moisture evaporates before reaching the caster, and the temperature within the veil remains comfortable regardless of external conditions. In darkness, the caster appears as a moving shadow wreathed in deep red embers, visible but indistinct.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pyrethos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!MGjDeQGxZxAAudiO"
+}

@@ -1,0 +1,341 @@
+# This file is part of the Thalorna module for Foundry VTT.
+# Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.com>
+#
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+# International License (CC BY-SA 4.0). You are free to share and adapt this
+# material for any purpose, even commercially, under the terms of that license.
+#
+# For full terms, see the LICENSE.md file in the project root or visit:
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+# Folder hierarchy for the "items" compendium.
+#
+# Each entry declares one folder:
+#   name            (required) display name
+#   id              (required) stable 16-char Foundry ID
+#   parentFolderId  (required) id of the parent folder, or "" for top-level
+#   color           (optional) folder color (CSS hex)
+#
+# Sibling folders (same parentFolderId) must have unique names. Cousins
+# (different parents) may share a name; vault frontmatter references the
+# specific folder's id, so name collisions across the tree are fine.
+#
+# Vault notes link to folders via `sohl.folder: <id>` in frontmatter,
+# where <id> is the target folder's id from this file. Unknown ids fail
+# the export loudly.
+# ---- Possessions tree ----------------------------------------------------
+- name: Possessions
+  id: O9ilOMwjidmb04JY
+  parentFolderId: ""
+  color: '#8B4513'
+
+- name: Armor
+  id: A3lkLw5amU7NmRP4
+  parentFolderId: O9ilOMwjidmb04JY
+  color: '#708090'
+- name: Armor
+  id: M4nHcUWOatfVGuh3
+  parentFolderId: A3lkLw5amU7NmRP4
+  color: '#4A4A4A'
+- name: Clothing
+  id: gaC79vNjSo6VO6Ym
+  parentFolderId: A3lkLw5amU7NmRP4
+  color: '#DEB887'
+
+- name: Misc_Gear
+  id: xJuw3RXTfrjeQbG8
+  parentFolderId: O9ilOMwjidmb04JY
+  color: '#6B8E23'
+- name: Jewelry_Cash
+  id: qhgjZ2XB83LXoBSv
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#DAA520'
+- name: Cash
+  id: TV3IMHs8SLZ1L1vv
+  parentFolderId: qhgjZ2XB83LXoBSv
+  color: '#C0C0C0'
+- name: Jewelry
+  id: 3YyFU1QkTs2yFq5t
+  parentFolderId: qhgjZ2XB83LXoBSv
+  color: '#FFD700'
+- name: Dye
+  id: 7r8WTAO2Ac8SF9tf
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#C71585'
+- name: Cooking
+  id: 7TT0OzoIoEn40zfs
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#E63946'
+- name: Expedition
+  id: FSPVI1eObGEpMVck
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#2A9D8F'
+- name: Food
+  id: cHM58zOI1EcSG3cP
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#F5DEB3'
+- name: Instruments
+  id: xniLjmZWYQZkSxyv
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#1D3557'
+- name: Lighting
+  id: csqutf8WiTRM8oru
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#FFA500'
+- name: Music
+  id: ncTaRcZt0RFYz0Gq
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#9B59B6'
+- name: Natural
+  id: 0JqxkW5hHZ8XVILm
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#9ACD32'
+- name: Religious
+  id: 9JkoGqoUGqV8b5aL
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#483D8B'
+- name: Scribe
+  id: BYkA5NDQxTXDvsAC
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#36454F'
+- name: Spirits
+  id: jLdeIpOIZokm8obv
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#722F37'
+- name: Stone
+  id: 7HORJHbbizVSds9r
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#95A5A6'
+- name: Tack
+  id: WTIUTjADwAcpyv0H
+  parentFolderId: xJuw3RXTfrjeQbG8
+  color: '#A0522D'
+
+- name: Projectiles
+  id: ADQPHjgKsdWsJhyy
+  parentFolderId: O9ilOMwjidmb04JY
+  color: '#228B22'
+
+- name: Weapons
+  id: HXiYHvG6igI3Wlmm
+  parentFolderId: O9ilOMwjidmb04JY
+  color: '#8B0000'
+
+- name: Characteristics
+  id: lTBlwwkZ8D1RuH7T
+  parentFolderId: ""
+  color: '#2C3E50'
+
+- name: Lineages
+  id: ey1udC5XHjlJoowT
+  parentFolderId: lTBlwwkZ8D1RuH7T
+  color: '#2E8B57'
+
+- name: Skills
+  id: vP5BufUGUOMMlPlB
+  parentFolderId: lTBlwwkZ8D1RuH7T
+  color: '#1E5BBA'
+- name: Lore
+  id: QlkEHXbk2EXlRiMM
+  parentFolderId: vP5BufUGUOMMlPlB
+  color: '#5D3FD3'
+- name: Language
+  id: sn9NBuZMZOBqxsYv
+  parentFolderId: vP5BufUGUOMMlPlB
+  color: '#3498DB'
+- name: Script
+  id: RgFGiT3LqmNP0uRB
+  parentFolderId: vP5BufUGUOMMlPlB
+  color: '#2F4F4F'
+
+- name: Esoteric
+  id: oPaj2BHhAX2fvkx6
+  parentFolderId: ""
+
+- name: Mystical Skills
+  id: IY7snVGTGcpTxofH
+  parentFolderId: oPaj2BHhAX2fvkx6
+  color: '#BA55D3'
+- name: Ashalan
+  id: MabmtFedtqaXvY4V
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Asguardian
+  id: motZrE11IrlKjBz2
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Aureldian
+  id: iRIw6GzQvZ4UF0Lf
+  parentFolderId: IY7snVGTGcpTxofH
+- name: First_Gods
+  id: TaEFzwgEGaEh7qJX
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Hex_Hodai
+  id: aSvW7yJDk7r76eTo
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Kemetian
+  id: dxhPBmJv9YgSa4dJ
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Nkaruthar
+  id: fcLFzLU9FKB7h0gp
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Tengvok_Van_Lei
+  id: NBtFDtltKzvNwsiN
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Tharivaan
+  id: gaQ0wZzHjUoQG0to
+  parentFolderId: IY7snVGTGcpTxofH
+- name: Varnaka
+  id: n4PWls70WXc5KR8H
+  parentFolderId: IY7snVGTGcpTxofH
+
+- name: Mysteries
+  id: HuZ8x0cRs5l2bXzL
+  parentFolderId: oPaj2BHhAX2fvkx6
+- name: Totems
+  id: vRIKmqTJtHtY4VEX
+  parentFolderId: HuZ8x0cRs5l2bXzL
+- name: Astrokýklos
+  id: 22zncJuZCvjO7YSY
+  parentFolderId: HuZ8x0cRs5l2bXzL
+  color: '#D2691E'
+
+- name: Mystical Abilities
+  id: gpLM4ElXNiI1rN7l
+  parentFolderId: oPaj2BHhAX2fvkx6
+- name: Arcane_Talents
+  id: 39gY1kO95oSXng6M
+  parentFolderId: gpLM4ElXNiI1rN7l
+- name: Spells
+  id: geh9MPdhQ9ieSHa4
+  parentFolderId: gpLM4ElXNiI1rN7l
+
+- name: Concoctions
+  id: 2SRsFWRAWEQi4x89
+  parentFolderId: ""
+- name: Potions
+  id: WWuv4ykKIugJrbH0
+  parentFolderId: 2SRsFWRAWEQi4x89
+- name: Great
+  id: P4XrNWSkN9K7XpZr
+  parentFolderId: WWuv4ykKIugJrbH0
+- name: Mild
+  id: ggAbjgiu5EiuSik1
+  parentFolderId: WWuv4ykKIugJrbH0
+- name: Strong
+  id: DFkZMeVq8rIzo44Q
+  parentFolderId: WWuv4ykKIugJrbH0
+- name: Elixirs
+  id: zjH2UVFqfHp20lIq
+  parentFolderId: 2SRsFWRAWEQi4x89
+- name: Simples
+  id: UIaCQCssWD0VmxHY
+  parentFolderId: 2SRsFWRAWEQi4x89
+
+# ---- Affiliations tree ---------------------------------------------------
+# Bodies a character can belong to: pantheons and their faiths, orders,
+# guilds, syndicates, and warbands. These notes carry the same
+# `sohl.folder` ids their journal counterparts use, so the ids below match
+# the journals manifest entry for entry; only the parent chain differs,
+# rooted here in one "Affiliations" folder rather than the journals'
+# Setting/Regions split.
+- name: Affiliations
+  id: wXxX8hupeKI8eczP
+  parentFolderId: ""
+  color: '#1B4965'
+
+- name: Pantheons
+  id: 6NICDnQl8B4GjvL7
+  parentFolderId: wXxX8hupeKI8eczP
+  color: '#9370DB'
+- name: Asguardian
+  id: cFyVbOx7bj35ZyPA
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Āsháian
+  id: 7so6UiPt445oIHWs
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Aurèldían
+  id: uMjCDTomEtc5Z0KV
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: First Gods
+  id: w9xJ9t5nQB0ajETq
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Itzáni
+  id: PODpbcuTxbU2Df2I
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Kemetian
+  id: RGkIoZ4nXKx1qnID
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Nkaru'thar
+  id: nxa3f1OrL9YY0I1Z
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Nyáluba
+  id: kiz45F34jXa6kr8Z
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Tëngvōk Vān Lëi
+  id: ElMVW0iSYyeroRC3
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Celestial Pantheon
+  id: Zsfl8qxSI1uYIBPU
+  parentFolderId: ElMVW0iSYyeroRC3
+  color: '#DDA0DD'
+- name: Elemental Lords
+  id: VmJuVqaOGhXrvXQs
+  parentFolderId: Zsfl8qxSI1uYIBPU
+  color: '#EE82EE'
+- name: Yokveng
+  id: hDKxtkbJFjn8bIUr
+  parentFolderId: Zsfl8qxSI1uYIBPU
+  color: '#EE82EE'
+- name: Demon Lords
+  id: kZkGNxVHbgGyhAHr
+  parentFolderId: hDKxtkbJFjn8bIUr
+  color: '#FF69B4'
+- name: Thári'vaan
+  id: yYfrxFxB71tBPR8k
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+- name: Varṇaka
+  id: dxzsTyaF4LMapIJX
+  parentFolderId: 6NICDnQl8B4GjvL7
+  color: '#BA55D3'
+
+- name: Organizations
+  id: DWK5QE0GRZ8br2mk
+  parentFolderId: wXxX8hupeKI8eczP
+  color: '#696969'
+- name: Academy of Knowledge
+  id: 6Gi1DyUGAYGvWCIo
+  parentFolderId: DWK5QE0GRZ8br2mk
+  color: '#808080'
+- name: Companies
+  id: ISwKf7qndL5yzTKG
+  parentFolderId: DWK5QE0GRZ8br2mk
+  color: '#808080'
+- name: Crime Syndicates
+  id: GOlgYgpU2BQfAG6g
+  parentFolderId: DWK5QE0GRZ8br2mk
+  color: '#808080'
+
+- name: Héx Hodäi
+  id: H8lfX9Zy7YDUeAjX
+  parentFolderId: wXxX8hupeKI8eczP
+  color: '#D2691E'
+
+- name: Élavendre
+  id: drAoDoNnFEygATeK
+  parentFolderId: wXxX8hupeKI8eczP
+  color: '#66BB6A'
+- name: Harad
+  id: umL4KFGO3MD4u9X1
+  parentFolderId: wXxX8hupeKI8eczP
+  color: '#66BB6A'

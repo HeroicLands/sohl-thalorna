@@ -1,0 +1,39 @@
+{
+  "name": "Icebridge",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/water.svg",
+  "_id": "RXXKYO2Z00N4PEpX",
+  "system": {
+    "shortcode": "icbrdg",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/icebridge/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster freezes a path across open water, forming a bridge of thick, solid ice that can support the weight of travelers, animals, and even laden carts. The ice spreads from the caster's position, extending outward in the direction they indicate, thickening and reinforcing itself as it grows. The resulting bridge is rough-surfaced for grip and arches slightly above the water line, with edges that curve upward to prevent slipping off the sides.</p>\n<p>The bridge persists for as long as the surrounding conditions and the caster's lingering enchantment allow — in cold weather it may last hours or days; in warm conditions it begins thinning almost immediately once the spell ends. The ice is strong enough to bear considerable weight but will crack and groan under loads near its limit, giving warning before catastrophic failure. The spell cannot be cast over moving water with a strong current, as the flow breaks the ice apart faster than it forms.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "hydalis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 6,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!RXXKYO2Z00N4PEpX"
+}

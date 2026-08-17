@@ -1,0 +1,35 @@
+{
+  "name": "The Lost Relic of Menavar Abbey",
+  "pages": [
+    {
+      "_id": "698039d47b2a5cba",
+      "name": "The Lost Relic of Ménavar Abbey",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>An ancient relic of the Aurèldían faith has been lost in the ruins of [[Menavar_Abbey|Ménavar Abbey]], and both the Church and shadowy interests seek to recover it before the other.</p>\n<h2>Overview</h2>\n<p>Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[doc-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.</p>\n<h2>Stage One: The Commission</h2>\n<p>The party is approached by one of several factions seeking the relic:</p>\n<ul>\n<li>An Aurèldían bishop or abbott who believes the relic belongs to the Church</li>\n<li>An agent of the [[affiliation-ordoarcanis|Ordo Arcanis]] tasked with &quot;studying&quot; the artifact</li>\n<li>A noble house that claims historical custody of the relic</li>\n<li>A mysterious collector who makes a substantial offer</li>\n</ul>\n<p><strong>Initial Information:</strong></p>\n<ul>\n<li>The relic's location within the abbey is uncertain (old maps conflict)</li>\n<li>The abbey's ruins are dangerous—both from structural instability and other guardians</li>\n<li>Previous expedition failed; some members returned mad or not at all</li>\n<li>The abbey is said to be haunted by monks who died protecting it</li>\n</ul>\n<p><strong>NPCs:</strong></p>\n<ul>\n<li>The hiring authority (with their own agenda)</li>\n<li>A scholar who studied the abbey (partial information, possibly unreliable)</li>\n<li>A local guide who claims familiarity with the ruins</li>\n</ul>\n<h2>Stage Two: Preparation &amp; Research</h2>\n<p>The party must gather information about the abbey's layout and defenses:</p>\n<ul>\n<li>Interview survivors of earlier expeditions</li>\n<li>Consult historical records at a monastery or archive</li>\n<li>Acquire maps or blueprints of the abbey's design</li>\n<li>Learn about the relic's nature and why it matters</li>\n<li>Discover wards or protections the monks placed on the relic</li>\n</ul>\n<p><strong>Complications:</strong></p>\n<ul>\n<li>Information is deliberately obscured or contradictory</li>\n<li>Other factions are gathering intelligence and may interfere</li>\n<li>Local superstitions add confusion (false leads)</li>\n<li>A member of the party may be secretly representing a rival faction</li>\n</ul>\n<h2>Stage Three: Approach &amp; Discovery</h2>\n<p>The party travels to the abbey's ruins (a journey that may present its own challenges—bandits, weather, cursed lands). Upon arrival:</p>\n<ul>\n<li>The structure is more damaged than expected</li>\n<li>Signs of recent activity suggest others have been here</li>\n<li>Environmental hazards: unstable floors, cave-ins, flooded chambers</li>\n<li>Strange phenomena: unnatural cold, disembodied voices, time distortions</li>\n</ul>\n<p><strong>Encounters:</strong></p>\n<ul>\n<li>Skeletal remains of previous explorers</li>\n<li>Undead monks or sanctified guardians created to protect the relic</li>\n<li>A rival expedition claiming prior discovery</li>\n<li>Creatures that lair in the ruins (owlbears, swarms, spectral entities)</li>\n</ul>\n<h2>Stage Four: Retrieving the Relic</h2>\n<p>The party must navigate the abbey to locate the relic's chamber. Challenges include:</p>\n<ul>\n<li>Solving puzzles or riddles left by the monks</li>\n<li>Bypassing magical wards or locks</li>\n<li>Navigating a guardian construct or spirit bound to protect the relic</li>\n<li>Managing the abbey's structural hazards while under time pressure</li>\n<li>Confrontation with a rival faction that has also reached the chamber</li>\n</ul>\n<p><strong>The Guardian:</strong> A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aurèldían magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.</p>\n<h2>Stage Five: Aftermath &amp; Complications</h2>\n<ul>\n<li>If the party succeeds, they must decide what to do with the relic\n<ul>\n<li>Return it to the hiring faction (creates enemies among rivals)</li>\n<li>Claim it (brings the [[affiliation-ordoarcanis|Ordo Arcanis]] and Church down on them)</li>\n<li>Destroy or hide it (prevents anyone from misusing it, but angers the hiring authority)</li>\n</ul>\n</li>\n<li>The relic may be cursed, addictive, or carry unforeseen consequences</li>\n<li>Previously hidden secrets of the abbey are revealed (historical knowledge, prophecies)</li>\n<li>Other factions pursue the party to recover or prevent use of the relic</li>\n<li>The abbey itself may be awakening to new threats</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provenzrgn|Provènzia Region]]</li>\n<li>[[doc-kngdmprvnz|Kingdom of Provènzia]]</li>\n<li>[[affiliation-arldnpnthn|Aurèldían]]</li>\n<li>[[affiliation-ordoarcanis|Ordo Arcanis]]</li>\n<li>[[doc-kngdmnrdhm|Kingdom of Nordheim]]</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!9rDXBIWrlzRL2nwF.698039d47b2a5cba"
+    }
+  ],
+  "folder": "TokyoDCf1w4elPns",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "9rDXBIWrlzRL2nwF",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!9rDXBIWrlzRL2nwF"
+}

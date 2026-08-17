@@ -1,0 +1,19 @@
+{
+  "name": "City States",
+  "sorting": "a",
+  "folder": "7FEOBPGjB1skqAzO",
+  "type": "JournalEntry",
+  "_id": "voxX57xvTC1eRnSO",
+  "sort": 0,
+  "color": "#81C784",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!voxX57xvTC1eRnSO"
+}

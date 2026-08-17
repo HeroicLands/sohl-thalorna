@@ -1,0 +1,39 @@
+{
+  "name": "Conduit",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "kIDckuJ9okXrbTKj",
+  "system": {
+    "shortcode": "conduit",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/conduit/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster extends both arms and traces a line through the air; where the fingers pass, a cylindrical corridor of rushing wind snaps into existence, its interior walls defined by counter-rotating spirals that hold the passage rigid against crosswinds. Anything placed at one mouth of the conduit—an arrow, a coiled rope, a satchel of supplies—is seized by the internal current and accelerated to tremendous speed, emerging from the far end on a precise trajectory determined at the moment of casting. Living creatures can ride the conduit as well, though the experience is violently disorienting for the unprepared.</p>\n<p>The corridor's length and curvature are limited by the caster's skill; a novice manages only a short, straight tube, while a master can arc the conduit around corners, over fortifications, or even in a gentle helix up a cliff face. The interior wind is powerful enough to extinguish torches and strip loose clothing, so cargo must be secured and passengers warned to tuck in cloaks and close their eyes. If the spell's concentration falters, the conduit collapses in a thunderclap of displaced air that scatters anything still inside.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 5,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!kIDckuJ9okXrbTKj"
+}

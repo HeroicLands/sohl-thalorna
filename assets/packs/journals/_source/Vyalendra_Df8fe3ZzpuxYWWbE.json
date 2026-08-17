@@ -1,0 +1,35 @@
+{
+  "name": "Vyālendra",
+  "pages": [
+    {
+      "_id": "a3d5bf5c88a6e689",
+      "name": "Vyālendra",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> Vyālendra is the capital and principal settlement of [[doc-vyalendra2|Vyālendra]].</p>\n"
+      },
+      "_key": "!journal.pages!Df8fe3ZzpuxYWWbE.a3d5bf5c88a6e689"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Df8fe3ZzpuxYWWbE",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Df8fe3ZzpuxYWWbE"
+}

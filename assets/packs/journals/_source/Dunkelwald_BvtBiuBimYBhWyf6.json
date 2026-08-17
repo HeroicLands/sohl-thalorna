@@ -1,0 +1,35 @@
+{
+  "name": "Dunkelwald",
+  "pages": [
+    {
+      "_id": "c3aeab73ceafe0db",
+      "name": "Dunkelwald",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!BvtBiuBimYBhWyf6.c3aeab73ceafe0db"
+    }
+  ],
+  "folder": "mCG1TPvjwrV23csZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BvtBiuBimYBhWyf6",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!BvtBiuBimYBhWyf6"
+}

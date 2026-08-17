@@ -1,0 +1,35 @@
+{
+  "name": "Kethramír",
+  "pages": [
+    {
+      "_id": "8211d9c76f97414b",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Kethramír lies along the caravan routes that cross the Khazryn Desert, serving as a waypoint and refuge for merchants traversing the harsh landscape. The settlement has grown around three deep wells that have provided water to travelers for centuries, and the settlement's inhabitants—a mix of permanent residents and those who have given up the nomadic life—have built structures designed for both resilience and adaptation to the relentless heat. Adobe buildings with thick walls and narrow windows provide shelter, while courtyards offer gathering places for merchants to negotiate, rest, and prepare for the journey ahead.</p>\n<p>The population of Kethramír is characterized by transience and pragmatic cooperation. Merchants from rival trading houses maintain careful civility, knowing that disputes threaten the settlement's stability and thus everyone's survival. The town's modest bazaar offers provisions, water, and shelter, while local guides broker their services to caravans traveling north toward Harad or south toward the distant lands beyond. Kethramír's reputation for fair dealing and neutral hospitality has made it a preferred stopping point—a merchant who cheats or murders in Kethramír finds that other travelers learn of it within days, and no guide will agree to lead their caravan.</p>\n<p>The settlement's character is pragmatic rather than grand. There is no great temple here, only a modest shrine to the Āsháian deities where travelers make offerings before continuing their journeys. The town's ruler is technically a elder merchant family, but real power rests with the well-keepers and guide masters whose skills are essential to the settlement's function. Kethramír survives not through wealth or military strength, but through an understanding that in the desert, survival itself is the greatest achievement.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview</li>\n<li>[[doc-dunharlngg|Dunhari]] — Naming tradition</li>\n<li>[[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!GkOSX9uDj3AmjiVz.8211d9c76f97414b"
+    }
+  ],
+  "folder": "PbQ9B1r6hEaJvyco",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "GkOSX9uDj3AmjiVz",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!GkOSX9uDj3AmjiVz"
+}

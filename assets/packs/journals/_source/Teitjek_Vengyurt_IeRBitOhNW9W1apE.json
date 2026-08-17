@@ -1,0 +1,35 @@
+{
+  "name": "Tëitjëk Vëngyürt",
+  "pages": [
+    {
+      "_id": "9e7222f570e4b786",
+      "name": "Tëitjëk Vëngyürt",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>&quot;Iron Spear Piercing the Clouds&quot;</strong></p>\n<p>Tëitjëk Vëngyürt was once a highly respected general within the [[doc-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.</p>\n<h2>The Rebellion</h2>\n<p>Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning desire for revenge, he began to plot his return—not as a servant of the empire, but as its conqueror. In exile, he gathered disaffected soldiers and minor [[doc-zheklung|Zhëklüng]] nobles who had grievances against the imperial court. These nobles brought with them [[doc-venduk|Vëndük]]—magically attuned individuals who, though technically chattel, held significant arcane power.</p>\n<h2>Key Allied Nobles</h2>\n<p><strong>Zhākvëi Lëngzhāt (&quot;Radiant Phoenix&quot;)</strong> — The cunning matriarch of the Zhākvëi clan seeks to restore her family's influence, which had waned due to internal strife. She brings Vëndük skilled in fire and earth elemental forces.</p>\n<p><strong>Vürtzhāk Vëngdāk (&quot;Wind's Roar&quot;)</strong> — The young leader of the Vürtzhāk clan, frustrated with slow political rehabilitation, aligns with Tëitjëk to reclaim his family's honor quickly. His Vëndük are skilled in air and spirit domains.</p>\n<h2>Internal Tensions</h2>\n<p>Despite their common cause, the alliance between Tëitjëk, Zhākvëi Lëngzhāt, and Vürtzhāk Vëngdāk is fraught with tension and hidden agendas. Both nobles view Tëitjëk as a necessary but expendable tool, continuing to play the [[doc-veizhatret|Vëi Zhāt Rëit]] even within the rebellion. Tëitjëk, however, is aware of these undercurrents and uses subtle manipulation to balance their ambitions against each other.</p>\n<p>Both nobles are aware that if the rebellion fails, they face torture and execution. Each has begun to quietly explore escape routes and alliances beyond the empire's borders.</p>\n<h2>Current Status</h2>\n<p>The rebellion has begun to make significant gains in border regions, but internal cracks are showing. The tension between the noble leaders grows, with Lëngzhāt favoring direct confrontation while Vëngdāk prefers subterfuge.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion</li>\n<li>[[doc-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat</li>\n<li>[[doc-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion</li>\n<li>[[doc-empiretnvr|Empire of Tānvür]] — The empire under threat</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!IeRBitOhNW9W1apE.9e7222f570e4b786"
+    }
+  ],
+  "folder": "l3wIL8UihJI5nx6L",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "IeRBitOhNW9W1apE",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!IeRBitOhNW9W1apE"
+}

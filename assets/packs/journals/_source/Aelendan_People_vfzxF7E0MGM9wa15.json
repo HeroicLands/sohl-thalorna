@@ -1,0 +1,35 @@
+{
+  "name": "Áelendan People",
+  "pages": [
+    {
+      "_id": "326e2fc0e6c87a40",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><strong>Parent realm:</strong> [[doc-elavendre|Élavendre]]</li>\n<li><strong>Related peoples:</strong> [[doc-pelwarpepl|Pelwar People]] (ancestral), [[doc-flksinale|Sinalë]] (neighbors)</li>\n<li><strong>Language:</strong> [[skill-aelendlngg|Áelendi]]</li>\n<li><strong>Pantheon:</strong> [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)</li>\n</ul>\n<p>The <strong>Áelendan People</strong> — also known as the <strong>People of the Covenant</strong> — are a sub-people of [[doc-elavendre|Élavendre]], the ancestor tribes of the [[doc-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[doc-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.</p>\n<h2>The Covenant</h2>\n<p>The name &quot;People of the Covenant&quot; refers to an ancient compact that the Áelendan believe binds them to the land itself — a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Covenant are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Covenant is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits.</p>\n<h2>Culture and Society</h2>\n<p>Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan place extraordinary value on continuity — of language, of custom, of relationship with place — and they view the rapid cultural change that characterizes the lowland Élavendri with a mixture of affection and unease.</p>\n<p>The Áelendan speak <strong>Áelendi</strong>, the ancestral Pelwar tongue — the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlngg|Áelendi Language]] for linguistic details.</p>\n<h2>Relationship with the Élavendri</h2>\n<p>The relationship between the Áelendan and the settled [[doc-elavendre|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of Élavendre protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it — they govern themselves by their own customs and answer to their own elders.</p>\n<p>Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.</p>\n<h2>Relationship with the Sinalë</h2>\n<p>The Áelendan maintain a uniquely close neighborly relationship with the [[doc-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense — the Sinalë do not concern themselves with human political structures — but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.</p>\n<h2>Institutions</h2>\n<ul>\n<li><strong>[[affiliation-alndnwrdns|The Áelendan Wardens]]</strong> — An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.</li>\n<li><strong>Council of Elders</strong> — The local governing bodies of each Áelendan tribe, composed of recognized elders from the community's leading families and lineages.</li>\n<li><strong>Tradition Keepers</strong> — Specialist memorizers who hold the unwritten Covenant, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.</li>\n</ul>\n<h2>Territories</h2>\n<p>Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Covenant:</p>\n<ul>\n<li><strong>[[doc-drenavrspn|The Drenavar Spine]]</strong> — Sacred mountain range at the heart of Áelendan territory</li>\n<li><strong>[[doc-eshalshldg|Eshálosha Lodge]]</strong> — The principal Áelendan settlement, a ceremonial and political center</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-elavendre|Élavendre]] — The kingdom within which Áelendan territory lies</li>\n<li>[[skill-aelendlngg|Áelendi]] — The ancestral Pelwar tongue of the Áelendan</li>\n<li>[[doc-pelwarpepl|Pelwar People]] — The ancestral people from whom the Áelendan descend</li>\n<li>[[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects sacred sites</li>\n<li>[[doc-flksinale|Sinalë]] — The elder race with whom the Áelendan maintain neighborly relations</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!vfzxF7E0MGM9wa15.326e2fc0e6c87a40"
+    }
+  ],
+  "folder": "drAoDoNnFEygATeK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vfzxF7E0MGM9wa15",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!vfzxF7E0MGM9wa15"
+}

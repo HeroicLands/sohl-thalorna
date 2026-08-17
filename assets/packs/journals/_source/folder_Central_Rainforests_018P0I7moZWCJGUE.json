@@ -1,0 +1,19 @@
+{
+  "name": "Central Rainforests",
+  "sorting": "a",
+  "folder": "IfwW2GJ5xbLA9MDZ",
+  "type": "JournalEntry",
+  "_id": "018P0I7moZWCJGUE",
+  "sort": 0,
+  "color": "#4CAF50",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!018P0I7moZWCJGUE"
+}

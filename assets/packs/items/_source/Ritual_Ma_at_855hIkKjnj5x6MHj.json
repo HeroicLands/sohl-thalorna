@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: Má'át",
+  "type": "skill",
+  "img": "systems/sohl/assets/icons/head-gear.svg",
+  "_id": "855hIkKjnj5x6MHj",
+  "system": {
+    "shortcode": "maat",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-m-t/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-maat|Faith of Má'át]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "dxhPBmJv9YgSa4dJ",
+  "_key": "!items!855hIkKjnj5x6MHj"
+}

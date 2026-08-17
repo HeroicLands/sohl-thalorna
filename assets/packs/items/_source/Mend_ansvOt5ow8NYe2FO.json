@@ -1,0 +1,39 @@
+{
+  "name": "Mend",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/anvil.svg",
+  "_id": "ansvOt5ow8NYe2FO",
+  "system": {
+    "shortcode": "mend",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/mend/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster places their hands upon a damaged structure or complex object and channels deep, sustained restoration into it. Broken masonry resets and bonds. Shattered beams reassemble and fuse. Collapsed sections of wall rise back into place and solidify. The repair works on a scale far beyond what Repair can achieve, reassembling entire walls, restoring collapsed bridges, or rebuilding damaged fortifications to something approaching their original condition.</p>\n<p>The process requires the broken pieces to be present — Mend reassembles what is available rather than creating new material. Missing sections remain missing, though the spell will stabilize the structure around the gaps. The restoration is physically genuine; repaired stonework bears weight, mended timber resists rot, and rejoined metal holds under stress. Complex mechanisms — locks, hinges, drawbridges — are restored to function if their components are substantially present. The spell is enormously energy-intensive at large scales, making it a working that most practitioners can perform only once or twice before requiring rest.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "sideros",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 5,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!ansvOt5ow8NYe2FO"
+}

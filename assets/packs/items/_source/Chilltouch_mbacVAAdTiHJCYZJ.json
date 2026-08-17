@@ -1,0 +1,39 @@
+{
+  "name": "Chilltouch",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/water.svg",
+  "_id": "mbacVAAdTiHJCYZJ",
+  "system": {
+    "shortcode": "chlltch",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/chilltouch/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster's hand radiates an intense, penetrating cold that freezes whatever it contacts. A touch can coat a surface in a thick rime of ice, freeze a puddle solid, or numb flesh to the point of uselessness. The cold is not merely surface-level but reaches deep, crystallizing water within materials and causing them to become brittle and fragile.</p>\n<p>In combat, Chilltouch can lock joints in place, freeze a weapon to a fighter's hand, or coat a shield in ice that splinters on the next impact. Against living targets, the touch causes intense pain and numbness, slowing movement and dulling reflexes as the body's warmth is violently drawn away. The caster must be cautious — the cold radiates from their hand continuously while the spell is active, and handling objects or touching allies becomes dangerous.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "hydalis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 3,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!mbacVAAdTiHJCYZJ"
+}

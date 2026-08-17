@@ -1,0 +1,39 @@
+{
+  "name": "Orb",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/fire.svg",
+  "_id": "S0zg9Srqb4TPocD5",
+  "system": {
+    "shortcode": "orb",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/orb/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster shapes a sphere of compressed flame between their hands and releases it. The orb rises to a commanded height and hovers there, casting warm orange-gold light across the surrounding area. It follows the caster's mental direction, drifting forward to illuminate passages, rising to light a high ceiling, or descending to reveal the contents of a deep pit. The light it produces is steady and reliable, brighter than a torch and free from the flickering that strains the eyes.</p>\n<p>The orb can be directed to strike a target with an expenditure of its remaining energy, impacting with a burst of heat and flame before extinguishing. This makes it both a practical light source and an emergency weapon, though using it offensively sacrifices the illumination it provides. Skilled practitioners can maintain multiple orbs simultaneously, filling a large space with warm, steady light or positioning them strategically to eliminate shadows.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pyrethos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 1,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!S0zg9Srqb4TPocD5"
+}

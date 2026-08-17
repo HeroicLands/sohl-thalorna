@@ -1,0 +1,35 @@
+{
+  "name": "Sultanate of Amradad",
+  "pages": [
+    {
+      "_id": "1b685b1c23206402",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation — a settled, urban, and comparatively wealthy state built around a cluster of major oases in the heart of the desert. Where the [[doc-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.</p>\n<h2>Character</h2>\n<p>Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes — the point where the roads from [[doc-cnfdrtnhrdnstts|Harad]], [[doc-byzariargn|Byzaría Region]], [[doc-vedyarargn|Vedyara Region]], and the [[doc-khzryndsrtrgn|Khazryn Desert Region]] all converge. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.</p>\n<p>The Sultan's court is a center of learning and patronage. Scholars of theology, astronomy, mathematics, and medicine gather in Amradad's libraries and academies. The [[affiliation-ashanpnthn|Āsháian Pantheon]] faith finds its most elaborate expression here — the great fire-temples of Amradad are architectural wonders, and the theological debates of its priestly scholars set the standard for Āsháian orthodoxy.</p>\n<p>Amradad's relationship with the nomadic tribes is complicated. The Sultan claims authority over all Dunhari peoples; the tribes consider this claim laughable. In practice, the two coexist through a web of trade agreements, marriage alliances, and carefully negotiated border arrangements. The Sultan's standing army is strong enough to defend the oases but not to project power into the open desert, where the nomads are uncatchable.</p>\n<h2>Commerce and Currency</h2>\n<p>The Sultanate uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach — Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[Dunhara_Tribes_Region|Dunhara]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-dunharargn|Dunhara Region]] — Regional overview</li>\n<li>[[doc-dunhartrbs|Dunhara Tribes]] — Nomadic counterpart</li>\n<li>[[affiliation-ashanpnthn|Āsháian Pantheon]] — Pantheon</li>\n<li>[[doc-khzryndsrtrgn|Khazryn Desert Region]], [[doc-byzariargn|Byzaría Region]] — Trade route neighbors</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!FCDitFqLgistUMZe.1b685b1c23206402"
+    }
+  ],
+  "folder": "PUSPfoG6UdrnqPhK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "FCDitFqLgistUMZe",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!FCDitFqLgistUMZe"
+}

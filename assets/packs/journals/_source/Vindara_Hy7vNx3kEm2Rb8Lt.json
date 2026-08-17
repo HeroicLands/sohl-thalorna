@@ -1,0 +1,35 @@
+{
+  "name": "Vindara",
+  "pages": [
+    {
+      "_id": "853343dd9996b6df",
+      "name": "Vindara",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Vindara sits among the terraced hillsides of [[doc-provnchyln|Hylen]]'s wine country, a prosperous town of vintners, coopers, and the estate-houses whose vintages travel across the [[doc-vylarianse|Vylarian Sea]]. The surrounding slopes are quilted with vineyards worked by tenant families, and the town's fortunes rise and fall with the vintage. Its merchants deal in the casks and the contracts that carry Hylen's wine to the ports of [[doc-provincvld|Vald]] and beyond.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provnchyln|Province of Hylen]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Hy7vNx3kEm2Rb8Lt.853343dd9996b6df"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Hy7vNx3kEm2Rb8Lt",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Hy7vNx3kEm2Rb8Lt"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Mistcloak",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/water.svg",
+  "_id": "hpaBzKNMHwozkuek",
+  "system": {
+    "shortcode": "mstclk",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/mistcloak/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A thick, clammy fog rises from the ground around the caster, spreading rapidly to fill an area with impenetrable mist. Visibility drops to arm's length, sounds become directionless and muffled, and the damp cold seeps through clothing to chill the skin. The fog clings to the ground and resists wind, maintaining its density through magical sustenance rather than natural conditions.</p>\n<p>The spell excels at covering retreats, confusing pursuers, and creating chaos in an enemy formation. Those within the mist lose their bearings quickly — landmarks vanish, allies become indistinguishable from enemies, and even familiar terrain becomes treacherous. The caster retains a slightly better sense of direction within their own fog, feeling the density and boundaries of the mist as an extension of their awareness, though this advantage diminishes with distance.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "hydalis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 4,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!hpaBzKNMHwozkuek"
+}

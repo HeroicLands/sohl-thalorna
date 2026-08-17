@@ -1,0 +1,35 @@
+{
+  "name": "Terravia",
+  "pages": [
+    {
+      "_id": "de4fd1be0bb8687e",
+      "name": "Terravia",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Terravia lies in [[doc-provincvld|Vald]]'s inland country, where the coastal province turns to farmland — a market town among the agrarian estates that feed the port cities. It supplies grain, leather, and wool to the harbors rather than shipping them abroad directly, and is the quiet, landward face of an otherwise seafaring province. Its estate-lords have more in common with the gentry of [[doc-provnchyln|Hylen]] than with the merchant houses of the coast.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provincvld|Province of Vald]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Vd6yGx4kVm8Sb3Ld.de4fd1be0bb8687e"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Vd6yGx4kVm8Sb3Ld",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Vd6yGx4kVm8Sb3Ld"
+}

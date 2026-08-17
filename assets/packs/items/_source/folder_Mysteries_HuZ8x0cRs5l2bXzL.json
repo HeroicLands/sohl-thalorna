@@ -1,0 +1,18 @@
+{
+  "name": "Mysteries",
+  "sorting": "a",
+  "folder": "oPaj2BHhAX2fvkx6",
+  "type": "Item",
+  "_id": "HuZ8x0cRs5l2bXzL",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!HuZ8x0cRs5l2bXzL"
+}

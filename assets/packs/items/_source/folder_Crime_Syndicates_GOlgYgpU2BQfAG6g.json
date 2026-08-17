@@ -1,0 +1,19 @@
+{
+  "name": "Crime Syndicates",
+  "sorting": "a",
+  "folder": "DWK5QE0GRZ8br2mk",
+  "type": "Item",
+  "_id": "GOlgYgpU2BQfAG6g",
+  "sort": 0,
+  "color": "#808080",
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!GOlgYgpU2BQfAG6g"
+}

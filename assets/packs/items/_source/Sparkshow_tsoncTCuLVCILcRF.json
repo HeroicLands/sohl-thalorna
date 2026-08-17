@@ -1,0 +1,39 @@
+{
+  "name": "Sparkshow",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/fire.svg",
+  "_id": "tsoncTCuLVCILcRF",
+  "system": {
+    "shortcode": "sprkshw",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/sparkshow/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster flings handfuls of magical fire into the air, where the flames burst apart in cascading explosions of color and light. Red, gold, silver, and green sparks shower across the sky, trailing luminous streamers and crackling with sharp, satisfying reports. The display can be shaped to form patterns, words, or images, limited only by the caster's imagination and skill.</p>\n<p>While primarily spectacular, Sparkshow has genuine tactical value. The bursts can signal distant allies with prearranged patterns, illuminate a battlefield to deny enemies the advantage of darkness, or create a momentary sensory overload that distracts and disorients opponents. The noise and spectacle can stampede animals, alert a sleeping camp, or mark a location visible for miles. Many practitioners consider Sparkshow undignified, but those who have used it to coordinate a night retreat or signal a distant ship recognize its worth.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pyrethos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!tsoncTCuLVCILcRF"
+}

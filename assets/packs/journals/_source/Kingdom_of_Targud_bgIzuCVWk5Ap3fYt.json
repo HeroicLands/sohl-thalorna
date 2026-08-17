@@ -1,0 +1,35 @@
+{
+  "name": "Kingdom of Targud",
+  "pages": [
+    {
+      "_id": "9d1bc0fd2efa2c2a",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Targud is the easternmost Normen kingdom, bordering the territories of the [[doc-grkrhlmrgn|Grukar]] tribes. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.</p>\n<h2>Character</h2>\n<p>Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat — they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other Normen kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.</p>\n<p>The kingdom's eastern border is a contested no-man's-land of burned farmsteads, abandoned watchtowers, and forests where neither Normen nor Grukar can safely travel alone. Targud maintains a network of frontier forts manned by warriors who serve rotating duty — a system that ensures every able-bodied person in the kingdom has combat experience.</p>\n<p>Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar — their language, customs, and internal politics. Some Targudan border lords maintain cautious trading relationships with the nearer Grukar clans, exchanging metalwork and salt for furs and amber.</p>\n<h2>Commerce and Currency</h2>\n<p>Kingdom of Targud uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its <em>de facto</em> currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is <strong>not</strong> honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[doc-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[doc-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-grkrhlmrgn|Grukarholm Region]] — Eastern enemy</li>\n<li>[[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms</li>\n<li>[[affiliation-asguardian|Asguardian Pantheon]] — Pantheon</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!bgIzuCVWk5Ap3fYt.9d1bc0fd2efa2c2a"
+    }
+  ],
+  "folder": "oLeer7axjoeYQHiT",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "bgIzuCVWk5Ap3fYt",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!bgIzuCVWk5Ap3fYt"
+}

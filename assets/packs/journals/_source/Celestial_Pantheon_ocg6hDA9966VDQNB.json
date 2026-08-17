@@ -1,0 +1,35 @@
+{
+  "name": "Celestial Pantheon",
+  "pages": [
+    {
+      "_id": "0434dc92ebed57ba",
+      "name": "The Celestial Pantheon of Tānvür",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>The Celestial Pantheon of the [[doc-empiretnvr|Empire of Tānvür]] is not a collection of gods in the Western sense. It is the <strong>senior administrative staff</strong> of the celestial bureaucracy — immensely powerful beings who hold posts within the cosmic classification system. Their power derives not from inherent divinity but from the authority of their office, and the Tānvüri relate to them not through worship but through <strong>petition, transaction, and procedural compliance</strong>.</p>\n<p>The pantheon is organized as the <strong>Celestial Bureaucracy</strong>, with Tānlüng as the foundational principle of classification, Vëizhük Dāknëi as chief administrator, and the lesser deities governing specific portfolios. Below the major officials serve the [[doc-fvlmntlrds|Five Elemental Lords]], each administering one of the fundamental domains of classification.</p>\n<hr>\n<h2>Tānlüng Zhükvōr — The First Classifier</h2>\n<p><strong>Domain:</strong> Classification, Cosmic Order, and the Neutral Lëi</p>\n<p>Tānlüng is not an administrator. He is the <em>principle of classification itself</em> — the first act of drawing a distinction between one thing and another. The Tānvüri do not petition Tānlüng, do not make offerings to him, and do not expect intervention from him. He is not a person, not an official, not even a being in any recognizable sense. He is the reason that categories exist.</p>\n<p>The imperial line claims descent from Tānlüng, which in Tānvüri theology means not biological parentage but <em>administrative continuity</em> — the Emperor inherits the Mandate of Heaven because the classification system requires a mortal administrator, and the imperial line is the classification-lineage designated for that function.</p>\n<p>Tānlüng is represented in art not as a figure but as a <strong>single vertical line</strong> — the First Distinction, the boundary between above and below, the stroke that divided the Hürnlëi. Temples dedicated to Tānlüng contain no statues, no offerings, and no petition forms. They are empty rooms with a single vertical mark on the far wall. The Emperor alone performs rituals in these temples, and the nature of those rituals is not disclosed to any other caste.</p>\n<hr>\n<h2>Vëizhük Dāknëi — The Jade Sovereign</h2>\n<p><strong>Domain:</strong> Administration, Celestial Coordination, and the Master Registry</p>\n<p>Vëizhük Dāknëi is the chief administrator of the celestial bureaucracy — the official who makes the system <em>function</em>. While Tānlüng established the classifications, Vëizhük maintains them. She resolves jurisdictional disputes between bureaus, processes inter-departmental appeals, and maintains the <strong>Dāk Thōklëi</strong> (the Master Registry) — the comprehensive index of every classified thing in existence.</p>\n<p>The Jade Sovereign is the most commonly petitioned deity in Tānvür, because any matter that does not clearly fall within a single bureau's jurisdiction must be escalated to her office. She is depicted in art as a figure seated behind an enormous desk, surrounded by towering stacks of documents, with a jade seal in one hand and a ledger in the other. Her expression is always neutral — not compassionate, not stern, simply <em>processing</em>.</p>\n<p>The [[doc-tanthei|Tānthëi]] (Celestial Scholars) consider themselves servants of Vëizhük's administrative mandate and model their scholarly practices on her office's procedures.</p>\n<hr>\n<h2>Rëkgüng Vōrdāk — The Minister of Storms</h2>\n<p><strong>Domain:</strong> Thunder, Storms, Justice, and Punitive Action</p>\n<p>Rëkgüng is the celestial official responsible for atmospheric phenomena and, by extension, the enforcement of celestial displeasure. In the bureaucratic model, storms are not natural events — they are <em>administrative actions</em>. Rain is allocated. Lightning is a punitive strike order. Thunder is the sound of celestial enforcement.</p>\n<p>Rëkgüng is the patron of the [[doc-vushok|Vüshōk]] (Warrior Nobility) not because he embodies martial valor, but because the warriors are the mortal enforcement arm, just as Rëkgüng is the celestial one. His temples are military institutions where rituals are conducted not to invoke divine favor but to <strong>file authorization requests</strong> for military campaigns, ensuring that the violence about to be committed has celestial sanction.</p>\n<p>Rëkgüng is depicted as an armored figure with lightning in one hand and a <em>stamp of enforcement</em> in the other — the celestial seal that authorizes punitive action.</p>\n<hr>\n<h2>Yütvëi Tëngyōk — The Minister of the Moon</h2>\n<p><strong>Domain:</strong> Moon, Night, Dreams, Cycles, and Prophecy</p>\n<p>Yütvëi governs the nighttime — the period when Hëk (Dark Flow) is ascendant, when classifications loosen and the boundaries between sorted things become permeable. This makes her office simultaneously necessary and dangerous. The nighttime is when dreams carry messages from the celestial administration (processed through the Bureau of Night Counsel), but it is also when the Hürnlëi presses closest to the sorted world.</p>\n<p>Yütvëi's role is to <strong>maintain classification integrity during the period of maximum vulnerability</strong>. She ensures that the loosening of boundaries at night does not become permanent dissolution. The [[doc-tanthei|Tānthëi]] consult her office for prophetic insight, understanding prophecy not as divine revelation but as <em>advance filing</em> — information from the celestial administration about decisions that have already been processed but not yet implemented in the mortal plane.</p>\n<p>Yütvëi is depicted as a pale figure holding a lantern in one hand (the light of classification persisting through darkness) and a sealed scroll in the other (the night's dispatches, awaiting morning delivery).</p>\n<hr>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-fvlmntlrds|Five Elemental Lords]] — The elemental administrators who serve beneath the major officials</li>\n<li>[[doc-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework</li>\n<li>[[doc-mandatehvn|Mandate of Heaven]] — The cosmic appointment derived from Tānlüng's classification</li>\n<li>[[doc-empiretnvr|Empire of Tānvür]] — The empire administered under this pantheon</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!ocg6hDA9966VDQNB.0434dc92ebed57ba"
+    }
+  ],
+  "folder": "hBkQzhJeB05EwziN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ocg6hDA9966VDQNB",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!ocg6hDA9966VDQNB"
+}

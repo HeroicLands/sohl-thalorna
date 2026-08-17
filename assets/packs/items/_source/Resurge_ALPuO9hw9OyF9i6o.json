@@ -1,0 +1,39 @@
+{
+  "name": "Resurge",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/circle.svg",
+  "_id": "ALPuO9hw9OyF9i6o",
+  "system": {
+    "shortcode": "resurge",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/resurge/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster lays hands upon a failing magical construct — a guttering ward, a dimming enchantment, a ritual circle whose inscriptions are fading — and pours fresh energy into its weakening framework. The infusion does not merely delay the inevitable collapse; it actively repairs the structural damage that accumulated use and the passage of time have inflicted, restoring the construct to something approaching its original potency.</p>\n<p>The skill lies in reading the construct's original architecture well enough to reinforce it sympathetically rather than crudely. A clumsy resurge can restore power while introducing distortions that cause the magic to behave unpredictably. The most elegant practitioners can resurge a construct so seamlessly that it becomes indistinguishable from freshly cast magic. Resurge cannot improve upon the original — it restores but does not enhance — and it cannot salvage a construct that has already fully collapsed.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "kentra",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 4,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!ALPuO9hw9OyF9i6o"
+}

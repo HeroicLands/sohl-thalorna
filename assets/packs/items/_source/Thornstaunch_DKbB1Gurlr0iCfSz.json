@@ -1,0 +1,40 @@
+{
+  "name": "Thornstaunch",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "DKbB1Gurlr0iCfSz",
+  "system": {
+    "shortcode": "PtnCoagS",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/thornstaunch/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Deep maroon, almost black, this concentrated coagulant has the stiffness of pine resin, requiring warming between the hands to make it malleable enough to apply. The smell is sharper than mild coagulant—iron and crushed herbs dominant, but layered with something chemical and potent, the scent of real alchemical intervention. When pressed against a wound, the paste seems to grip the injury immediately, sealing it almost aggressively, and the surrounding flesh visibly pales and tightens as the coagulation forces blood inward and clotting forward.</p>\n<p>Applied to a single bleeding injury, the strong coagulant provides a doubled SV bonus—SV ×2—to the Bleeding Rolls. The preparation remains effective for approximately ten minutes, during which the body's clotting response is pushed to its absolute limit. What might otherwise be a grim race against exsanguination becomes manageable; a wound that would require constant attention becomes one that allows a moment of respite. Experienced battle-surgeons favor the strong coagulant for serious trauma—deep thrusts from lances, heavy blade wounds, and punctures from crossbow bolts—where every moment of controlled bleeding translates directly to survival probability.</p>\n<p>The strong coagulant carries a higher price and is found primarily in the medical stocks of wealthy adventuring companies, mercenary bands with serious resources, and the private stores of renowned healers who treat the serious injuries that come with dangerous work. Its obvious potency when applied makes it a mark of serious preparation.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 48,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "exotic",
+    "potency": "strong",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "DFkZMeVq8rIzo44Q",
+  "_key": "!items!DKbB1Gurlr0iCfSz"
+}

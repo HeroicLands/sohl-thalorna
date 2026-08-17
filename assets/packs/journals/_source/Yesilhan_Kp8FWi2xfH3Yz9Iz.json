@@ -1,0 +1,35 @@
+{
+  "name": "Yeşilhan",
+  "pages": [
+    {
+      "_id": "f301d4dc962f1d70",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Yeşilhan — the Green Caravanserai — is an inland city positioned at the junction of the great caravan routes leading east toward the [[doc-khzryndsrtrgn|Khazryn Desert Region]] and south toward [[doc-dunharargn|Dunhara Region]]. It is here that eastern goods — spices, silk, incense, gemstones — first pass into [[doc-byzarianlg|League]] hands before being distributed to the other city-states and onward to [[doc-midhalnrgn|Mídhalión Region]].</p>\n<h2>Character</h2>\n<p>Yeşilhan is named for the lush river valley in which it sits — a green oasis amid the drier eastern hills — and for the vast caravanserais that are the heart of its economy. These fortified inn-complexes can house hundreds of merchants, their servants, and their pack animals, and the largest of them are small cities in their own right. The caravansary masters who run these establishments are legendarily shrewd negotiators, and their political influence within the city rivals that of the merchant-princes.</p>\n<p>The city has a stronger eastern character than the other League members. [[affiliation-ashanpnthn|Āsháian]] worship has a significant following here, particularly among the Dunhari and Khazryni merchant communities who maintain permanent trading quarters. The bazaars of Yeşilhan are famous across [[doc-ankrscntnnt|Ankaris Continent]] for the variety and quality of their eastern goods.</p>\n<h2>Commerce and Currency</h2>\n<p>Yeşilhan uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Yeşilhan is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-byzarianlg|Byzarian League]] — The confederation</li>\n<li>[[doc-byzariargn|Byzaría Region]] — Regional overview</li>\n<li>[[doc-altinkale|Altinkale]], [[doc-denizara|Denizara]], [[doc-gumushisar|Gümüşhisar]], [[doc-karatas|Karataş]] — Sister city-states</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Kp8FWi2xfH3Yz9Iz.f301d4dc962f1d70"
+    }
+  ],
+  "folder": "pAXnwYJhDDSvkrPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Kp8FWi2xfH3Yz9Iz",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Kp8FWi2xfH3Yz9Iz"
+}

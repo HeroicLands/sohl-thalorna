@@ -1,0 +1,35 @@
+{
+  "name": "Stennvold",
+  "pages": [
+    {
+      "_id": "ebac625de408a961",
+      "name": "Stennvold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Stennvold is a high mining-and-smelting town of the Mokturan heights, its furnaces working the ore that [[doc-ferrovan|Ferrovan]] and the lesser camps send down to it. Smoke hangs over its valley the year round; its half-Varokh workforce is hard, insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold under guard is among the empire's most jealously taxed.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provncmktr|Province of Moktur]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Mk9vNx3kSp2Rb8Lt.ebac625de408a961"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Mk9vNx3kSp2Rb8Lt",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Mk9vNx3kSp2Rb8Lt"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "The Silent Scribe",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "tDc4nTSkUSS0QUjb",
+  "system": {
+    "shortcode": "ElxEgo",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/the-silent-scribe/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A crystalline purple draft that sparkles with interior light, as if filled with finely ground amethyst dissolved in clear liquid. Bound to the Principle of Artifact (Neutral), Egosight grants the imbiber an uncanny connection to the will-bearing objects of the world. When the drinker touches a major artifact, they intuit its Ego and whether it suffers Ego Subversion—a corruption of its original purpose. Minor artifacts reveal themselves as such without their powers becoming known. And when the imbiber's fingers brush a major artifact of considerable will, they perceive that volition without knowing its precise strength.</p>\n<p>The elixir exacts a single, measured cost: the imbiber suffers Aural Shock 1, a light but persistent damage to their spiritual essence. This is the price of peering into the hearts of enchanted things.</p>\n<p>Artificers, tomb-robbers, and those who seek to bargain with powerful relics swear by Egosight for identifying treasures in darkness and verifying the ownership of claimed artifacts. Some say that repeated use gives one an instinct for magic, a sixth sense that lingers even after the elixir's effect fades.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 0,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "elixir",
+    "potency": "na",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "zjH2UVFqfHp20lIq",
+  "_key": "!items!tDc4nTSkUSS0QUjb"
+}

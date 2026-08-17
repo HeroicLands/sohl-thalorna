@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: Zhütshüt Lüng",
+  "type": "skill",
+  "img": "systems/sohl/assets/icons/head-gear.svg",
+  "_id": "YlTN0MpIQsOls3gi",
+  "system": {
+    "shortcode": "zhutshtlng",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-zh-tsh-t-l-ng/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-zhutshtlng|Zhütshüt Lüng]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "NBtFDtltKzvNwsiN",
+  "_key": "!items!YlTN0MpIQsOls3gi"
+}

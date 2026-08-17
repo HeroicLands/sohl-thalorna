@@ -1,0 +1,39 @@
+{
+  "name": "Extinguish",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/water.svg",
+  "_id": "Km8HLjxgjb5c47Ac",
+  "system": {
+    "shortcode": "extngsh",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/extinguish/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster quenches fire by drawing its heat away through a rapid condensation of ambient moisture. A visible mist rushes toward the flame as water vapor in the air surrenders its warmth, smothering the fire under a sudden blanket of damp cold. Small fires gutter and die instantly; larger blazes are beaten back and weakened, their fuel left steaming and reluctant to reignite.</p>\n<p>The spell works best on mundane flames — cooking fires, burning thatch, oil lamps — though it can suppress even alchemical or magical fire briefly. The area around the extinguished flame is left damp and cold, and the sudden temperature change can crack heated stone or warp metal if the fire was particularly intense. Practitioners learn to judge the force needed carefully, as over-quenching a forge can ruin hours of a smith's work.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "hydalis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 1,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!Km8HLjxgjb5c47Ac"
+}

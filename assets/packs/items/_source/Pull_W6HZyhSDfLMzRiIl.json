@@ -1,0 +1,39 @@
+{
+  "name": "Pull",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/anvil.svg",
+  "_id": "W6HZyhSDfLMzRiIl",
+  "system": {
+    "shortcode": "pull",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/pull/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster extends their hand toward a metallic object and exerts an invisible magnetic grip upon it. The targeted metal lurches toward the caster — or in whatever direction the caster wills — with a force proportional to the caster's power and inversely proportional to the object's mass. A sword can be wrenched from a warrior's grip. A ring of keys can fly across a room into the caster's waiting hand. Loose coins scatter toward the caster's position like iron filings drawn to a lodestone.</p>\n<p>The spell affects only metallic materials, passing harmlessly through wood, leather, stone, and flesh. This selectivity makes it ideal for disarming metal-weapon-bearing opponents while leaving them otherwise unaffected, or for manipulating metal mechanisms — bolts, latches, chains — from a distance. The force is sustained rather than instantaneous, allowing the caster to guide metal objects along specific paths rather than simply yanking them in a straight line. Heavier objects require more sustained effort, and items firmly secured may resist rather than break free.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "sideros",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 2,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!W6HZyhSDfLMzRiIl"
+}

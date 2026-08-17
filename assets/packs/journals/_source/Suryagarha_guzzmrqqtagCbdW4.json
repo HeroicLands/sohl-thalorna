@@ -1,0 +1,35 @@
+{
+  "name": "Sūryāgarha",
+  "pages": [
+    {
+      "_id": "ab77e3204c7c613f",
+      "name": "Sūryāgarha",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> Sūryāgarha is the capital and principal settlement of [[doc-vindhyalay|Vindhyālaya]].</p>\n"
+      },
+      "_key": "!journal.pages!guzzmrqqtagCbdW4.ab77e3204c7c613f"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "guzzmrqqtagCbdW4",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!guzzmrqqtagCbdW4"
+}

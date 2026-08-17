@@ -1,0 +1,39 @@
+{
+  "name": "Message",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/divination.svg",
+  "_id": "zBoJgOLaGL1tnAIL",
+  "system": {
+    "shortcode": "message",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/message/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster forms a thought clearly in their mind — words, images, or emotional impressions — and projects it across the intervening distance to a specific individual whose mental signature they know. The message arrives in the recipient's consciousness as a clear internal voice, distinct from their own thoughts and immediately recognizable as external communication. Brief visual impressions or emotional tones can accompany the words, lending nuance that pure text cannot convey.</p>\n<p>The transmission is one-directional; the recipient cannot respond unless they possess the means to send their own message in return. Range is limited by the caster's power and their familiarity with the recipient — a well-known companion can be reached across great distances, while a casual acquaintance might be contactable only within the same city. The message cannot be intercepted by physical means, though certain psychic wards can block or distort the transmission. The recipient always knows who sent the message, as the caster's mental signature is embedded in the communication.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "pneumenos",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 3,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!zBoJgOLaGL1tnAIL"
+}

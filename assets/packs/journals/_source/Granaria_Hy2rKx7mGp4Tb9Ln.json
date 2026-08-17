@@ -1,0 +1,35 @@
+{
+  "name": "Granaria",
+  "pages": [
+    {
+      "_id": "8084e387219a568b",
+      "name": "Granaria",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Granaria is the chief grain-market of central [[doc-provnchyln|Hylen]], its great granaries and weighing-yards the point where the harvest of a hundred estates is gathered, measured, and sent on toward the capital and the legions. In a good year it overflows with sacked grain; in a lean one its empty granaries are the first warning that the empire's bread is short.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provnchyln|Province of Hylen]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Hy2rKx7mGp4Tb9Ln.8084e387219a568b"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Hy2rKx7mGp4Tb9Ln",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Hy2rKx7mGp4Tb9Ln"
+}

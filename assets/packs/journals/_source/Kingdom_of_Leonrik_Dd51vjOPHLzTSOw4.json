@@ -1,0 +1,35 @@
+{
+  "name": "Kingdom of Léonrik",
+  "pages": [
+    {
+      "_id": "c7c9baa64fa1d7f7",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><strong>Overlord:</strong> [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal)</li>\n<li><strong>Language:</strong> Tarvéni</li>\n<li><strong>Naming Convention:</strong> [[doc-tarvenlngg|Tarvéni]]</li>\n<li><strong>Pantheon:</strong> [[affiliation-arldnpnthn|Aurèldían]]</li>\n<li><strong>Government:</strong> Hereditary monarchy with feudal nobility</li>\n</ul>\n<h2>Overview</h2>\n<p>Léonrik is the largest, most populous, and most fertile of the three Tarvénan kingdoms, occupying the central-southern lowlands between the mountains of [[doc-kngdmstrth|Astúrath]] and the coast of [[doc-kngdmglvrn|Galváren]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[doc-tarvenirgn|Tarvénia Region]] — and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.</p>\n<h2>Character</h2>\n<p>Léonrik has the most conventional feudal structure of any Tarvénan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of Tarvénia. In practice, Léonriki nobles are among the most politically active in the kingdom — their wealth gives them ambitions that the mountain lords of Astúrath and the shipmasters of Galváren cannot easily match. Léonriki lords have contested the High Kingship more often than anyone, and several have worn the crown.</p>\n<p>The kingdom's lowland terrain makes it more accessible — and more vulnerable — than mountainous Astúrath. Léonrik bore the brunt of Vylarian occupation during the imperial era, and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that once served as an early-warning system against Vylarian patrols. The occupation left a lasting mark on Léonriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence — all legacies of Vylarian influence, though no Léonriki lord would thank you for pointing this out.</p>\n<p>The capital, <strong>Torváleth</strong>, is the largest town in Tarvénia — a prosperous market center surrounded by some of the richest farmland in western [[doc-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[doc-vylarianse|Vylarian Sea]], and its cattle markets are legendary.</p>\n<h2>Commerce and Currency</h2>\n<p>Kingdom of Léonrik uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Léonrik is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord</li>\n<li>[[doc-tarvenirgn|Tarvénia Region]] — Regional overview</li>\n<li>[[doc-kngdmstrth|Kingdom of Astúrath]], [[doc-kngdmglvrn|Kingdom of Galváren]] — Sister kingdoms</li>\n<li>[[doc-frctyvlthr|Free City of Valthári]], [[doc-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Dd51vjOPHLzTSOw4.c7c9baa64fa1d7f7"
+    }
+  ],
+  "folder": "DB9rgGreD8FtqoBx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Dd51vjOPHLzTSOw4",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Dd51vjOPHLzTSOw4"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Arnos",
+  "type": "mystery",
+  "img": "systems/sohl/assets/icons/other/astrology.svg",
+  "_id": "7IP3RJVcyDlNdHeN",
+  "system": {
+    "shortcode": "arnos",
+    "docUrl": "https://heroiclands.org/sohl/mystery/arnos/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Those born under Arnos, the Ram, are said to carry the vigour of green things breaking through frost. Herbalists, hunters, and wardens of the wild claim its favour, while the sign turns its face from those who would master flesh and blade.</p>\n<table>\n<thead>\n<tr>\n<th>Element</th>\n<th>Skills it claims</th>\n<th>EML</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Earth</td>\n<td>Nature</td>\n<td>+15</td>\n</tr>\n<tr>\n<td>Metal</td>\n<td>Craft, Script</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Fire</td>\n<td>Combat, Combat Techniques</td>\n<td>−5</td>\n</tr>\n<tr>\n<td>Air</td>\n<td>Physical</td>\n<td>−15</td>\n</tr>\n<tr>\n<td>Spirit</td>\n<td>Lore, Mystical</td>\n<td>−5</td>\n</tr>\n<tr>\n<td>Water</td>\n<td>Language, Social</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<p>The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[doc-brthsgn|Birthsign]].</p>\n",
+    "levelBase": 0,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "22zncJuZCvjO7YSY",
+  "_key": "!items!7IP3RJVcyDlNdHeN"
+}

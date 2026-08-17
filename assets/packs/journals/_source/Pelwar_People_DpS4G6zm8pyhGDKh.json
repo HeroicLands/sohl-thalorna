@@ -1,0 +1,35 @@
+{
+  "name": "Pelwar People",
+  "pages": [
+    {
+      "_id": "15d18020afa4c744",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><strong>Type:</strong> Ancestral people / language family</li>\n<li><strong>Descendants:</strong> [[doc-elavendre|Élavendri]], [[doc-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarvéni, Provenzal, and related peoples of [[doc-ankrscntnnt|Ankaris Continent]]</li>\n</ul>\n<p>The <strong>Pelwar</strong> were ancient nomadic peoples who migrated across [[doc-ankrscntnnt|Ankaris Continent]] in a great movement beginning millennia ago. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. Over the course of centuries, the various Pelwar migrations settled different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.</p>\n<p>The Pelwar no longer exist as a unified people. The name survives primarily as an ethnographic and linguistic category — the common ancestor from which many contemporary Ankarian peoples trace their descent, and the root language from which the Pelwar language family derives.</p>\n<h2>Proto-Pelwar</h2>\n<p><strong>Proto-Pelwar</strong> is the reconstructed ancestral tongue of the Pelwar family — the language that the earliest Pelwar migrants spoke before their descendants dispersed across Ankaris and began their slow linguistic divergence. No Proto-Pelwar texts survive, and indeed Proto-Pelwar was spoken long before any of its descendant peoples developed writing. What scholars and loremasters know about Proto-Pelwar is reconstructed through the comparative study of its surviving descendants — particularly [[doc-elvndrlngg|Áelendi]], which is the most conservative member of the family and preserves features the other languages have lost.</p>\n<p>The Áelendan of [[doc-elavendre|Élavendre]] claim — and with considerable justification — that their language, their songs, and their sacred traditions are the closest surviving echo of the Proto-Pelwar culture. The Covenant they uphold, by their understanding, traces back to the earliest Pelwar settlement of western Ankaris, when their forebears entered into sacred agreement with the land itself.</p>\n<h2>The Pelwar Language Family</h2>\n<p>The languages of Pelwar descent share deep structural commonalities and a significant core vocabulary, though centuries of divergence have made most of them mutually unintelligible without study. Speakers of one Pelwar language can sometimes catch fragments of another. The principal surviving Pelwar languages are:</p>\n<ul>\n<li><strong>[[doc-elvndrlngg|Áelendi]]</strong> — Spoken by the [[doc-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.</li>\n<li><strong>[[doc-elvndrlngg|Élavendri]]</strong> — The modern language of [[doc-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.</li>\n<li><strong>Vylari</strong> — The language of the [[doc-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.</li>\n<li><strong>Nordmal</strong> — The tongue of the northern Normen kingdoms.</li>\n<li><strong>Varokhi</strong> — Spoken by the Varokh tribes of [[doc-vrystwald|Vrystwald]], closely related to Nordmal but diverged significantly.</li>\n<li><strong>Tarvéni</strong> — The language of [[doc-tarvenirgn|Tarvénia Region]].</li>\n<li><strong>Provenzal</strong> — The refined tongue of [[doc-provenzrgn|Provènzia Region]].</li>\n</ul>\n<h2>The Pelwar Peoples Today</h2>\n<p>The major peoples descended from Pelwar migrations share certain cultural commonalities — particularly an aristocratic social structure, a strong bardic tradition, and a reverence for ancestral lineage — but they have diverged substantially over the centuries. Some have preserved more of the original Pelwar heritage than others:</p>\n<ul>\n<li><strong>[[doc-aelendnppl|Áelendan]]</strong> — The most conservative living Pelwar culture, preserving the old language, the Covenant, and traditional tribal organization</li>\n<li><strong>[[doc-elavendre|Élavendri]]</strong> — Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors</li>\n<li><strong>Vylari</strong> — The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire</li>\n<li><strong>Normen</strong> (of the northern kingdoms) — Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures</li>\n<li><strong>Varokh</strong> (of [[doc-vrystwald|Vrystwald]]) — Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life</li>\n<li><strong>Tarvéni, Provenzian</strong> — Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures</li>\n</ul>\n<p>The Varokh of Vrystwald share Pelwar ancestry with both the Normen of the north and the Élavendri of the west, though the three peoples are now profoundly different in culture, language, and outlook.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-elvndrlngg|Élavendri Language]] — The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar</li>\n<li>[[doc-aelendnppl|Áelendan]] — The most conservative Pelwar descendants</li>\n<li>[[doc-elavendre|Élavendre]] — Region where Pelwar heritage is most consciously preserved</li>\n<li>[[doc-vrystwald|Vrystwald]] — The forest kingdoms of the Varokh tribes</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!DpS4G6zm8pyhGDKh.15d18020afa4c744"
+    }
+  ],
+  "folder": "ItBuDdxR2fBHx2Jw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "DpS4G6zm8pyhGDKh",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!DpS4G6zm8pyhGDKh"
+}

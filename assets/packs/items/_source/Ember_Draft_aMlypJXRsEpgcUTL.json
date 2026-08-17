@@ -1,0 +1,40 @@
+{
+  "name": "Ember Draft",
+  "type": "concoctiongear",
+  "img": "systems/sohl/assets/icons/potion.svg",
+  "_id": "aMlypJXRsEpgcUTL",
+  "system": {
+    "shortcode": "PtnStmM",
+    "docUrl": "https://heroiclands.org/sohl/concoctiongear/ember-draft/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>A bright, energetic liquid—usually clear with a faint amber or reddish tint, sometimes with visible suspension of herbs and seeds. The smell is sharp and invigorating: citrus, pepper, and stimulating botanicals like elfroot or wakefast leaf. When tasted, it is bright and almost metallic, causing an immediate tingling in the mouth and throat. The first sip induces a prickling sensation that spreads across the body. Merchants and scouts swear by this draft for long journeys and the grind of repetitive labor.</p>\n<p>About ten minutes after swallowing, the stimulant takes hold. The imbiber's heart quickens noticeably. Fatigue that seemed overwhelming moments before fades into irrelevance. One receives a bonus to Initiative and Awareness equal to the preparation's Success Value, and this enhancement persists for roughly one hour as the potion's effects gradually wear off. The heightened state is not without cost—once the hour passes, many experience a crash of exhaustion and irritability.</p>\n<p>Soldiers, night-watch guards, and those who must remain vigilant through dark hours keep vials of this close at hand. It is a tool of endurance, though one that extracts a price.</p>\n",
+    "quantity": 1,
+    "weightBase": 0.25,
+    "valueBase": 16,
+    "qualityBase": 0,
+    "durabilityBase": 5,
+    "sharedWithCohortIds": [],
+    "containerId": null,
+    "isCarried": true,
+    "isEquipped": false,
+    "subType": "exotic",
+    "potency": "mild",
+    "strength": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "ggAbjgiu5EiuSik1",
+  "_key": "!items!aMlypJXRsEpgcUTL"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Set-Maat",
+  "pages": [
+    {
+      "_id": "fde3022cc13dd9bc",
+      "name": "Set-Maat",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Set-Maat — &quot;the Place of Truth&quot; — is the walled company-village on the western bank where the master-craftsmen of the [[doc-nomekhnsrt|Khensuret]] necropolis live apart, close to their work. Its people are the stonecutters, draughtsmen, sculptors, and painters who cut and decorate the great tombs — an elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of the distinction. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds. The tombs they raise are meant never to be opened again, and the men of Set-Maat know better than anyone where the dead and their treasures lie — knowledge that makes the village at once the most trusted and the most watched community in the nome.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-nomekhnsrt|The Nome of Khensuret]] — Parent nome</li>\n<li>[[doc-khensuret|Khensuret]] — Nome capital and temple-city</li>\n<li>[[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!j7kLfLuyqbHAZVA4.fde3022cc13dd9bc"
+    }
+  ],
+  "folder": "bq0QGXXvq8fNpewL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "j7kLfLuyqbHAZVA4",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!j7kLfLuyqbHAZVA4"
+}

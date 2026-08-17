@@ -1,0 +1,35 @@
+{
+  "name": "Blood and Ashes in Céravel Vale",
+  "pages": [
+    {
+      "_id": "20a3968c0cc35ca4",
+      "name": "Introduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Teaser</h2>\n<p>Céravel Vale, a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. Târlas Pélanvri, Lord of Bélsaren, has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to Tarvénia, the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.</p>\n<h2>Campaign Summary</h2>\n<p>The campaign focuses on the power struggles within the Vale of Céravel, where Thárion al Dracáen, a deposed noble-turned-bandit, must be defeated. However, this is only the surface conflict. Kílan alrí Ilóvrel, a secret Black Flame sympathizer, manipulates events for his own gain, seeking a powerful Black Flame artifact—the [[doc-maulgashng|Maul of Gashang]]—hidden in the Blood Hills east of Bélsaren.</p>\n<p>What begins as a straightforward bandit-hunting job gradually reveals layers of political manipulation, religious conspiracy, and ancient evil. The adventurers are drawn from mercenary work into noble intrigue and finally into a confrontation with forces older and darker than any of the human factions involved.</p>\n<h2>Key NPCs</h2>\n<ul>\n<li><strong>Thárion al Dracáen</strong> — Deposed former lord of Bélsaren, now a charismatic bandit leader fighting for the Thânevar peasants. Sympathetic but increasingly desperate and violent.</li>\n<li><strong>Élgâr Târlas al Pélanvri nâ Bélsaren</strong> — Current lord of Bélsaren. Harsh, self-interested, and oppressive toward the Thânevar. Hires the adventurers.</li>\n<li><strong>Khiráta Jârvel al Pélanvri nâ Caêr Céravel</strong> — Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.</li>\n<li><strong>Nâlor Kílan alrí Ilóvrel nâ Ilóvren</strong> — The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.</li>\n<li><strong>Kâldin al Lénavel nâ Léravren</strong> — Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.</li>\n<li><strong>Darisen al Olrûn</strong> — An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Thanatine with his own designs on the artifact.</li>\n</ul>\n<h2>The Three Parts</h2>\n<h3>[[Part 1 - The Bandits of Céravel Vale|Part 1: The Brigands of Céravel Vale]]</h3>\n<p>The adventurers are hired by Târlas to eliminate the bandit threat. They gather information in the village (navigating the divide between Thânevar and Provenzian peasants), ambush the bandits on the Old South Road, survive a counterattack in the village square, and assault Thárion's cave hideout. The resolution reveals hints of a deeper conspiracy—Kílan's hidden hand behind the chaos.</p>\n<h3>[[doc-webdeceit|Part 2: The Web of Deceit]]</h3>\n<p>With the bandits defeated, evidence points to Kílan's manipulation. The adventurers investigate his network, uncover his alliance with the Zûravel Black Flame clan, survive his political counterattacks, and eventually confront him in his stronghold. His defeat reveals detailed plans for recovering the [[doc-maulgashng|Maul of Gashang]] from a hidden shrine in the Blood Hills.</p>\n<h3>[[doc-firsbldhls|Part 3: The Fires of the Blood Hills]]</h3>\n<p>The adventurers venture into the cursed Blood Hills, navigate treacherous terrain and Black Flame ambushes, enter the hidden shrine with its deadly traps, and confront the V'hir demon guardian. The campaign culminates in a moral choice: claim the [[doc-maulgashng|Maul of Gashang]], destroy it, or surrender it to a Sacred Forge authority. Each path carries consequences.</p>\n<h2>Key Themes</h2>\n<ul>\n<li><strong>Deception and Betrayal</strong> — Layers of manipulation from Kílan, Kâldin, and even apparent allies like Darisen</li>\n<li><strong>Moral Dilemmas</strong> — The adventurers repeatedly face choices that challenge their values: trust or betray, mercy or justice, power or principle</li>\n<li><strong>Political Intrigue</strong> — Noble rivalries, fabricated charges, shifting alliances, and the cynical use of peasant suffering as a political tool</li>\n<li><strong>Power and Corruption</strong> — The Black Flame artifact represents the seductive and corrupting nature of power itself</li>\n</ul>\n<h2>Future Hooks</h2>\n<ul>\n<li><strong>Black Flame Rage</strong> — The Zûr clan seeks revenge or attempts to reclaim the relic</li>\n<li><strong>Power Shifts in the Region</strong> — New political dynamics emerge depending on how the adventurers handled Târlas and Kílan</li>\n<li><strong>Mysterious Forces</strong> — The artifact's origins hint at deeper lore tied to the Black Flame or other ancient powers</li>\n</ul>\n<h2>Related Notes</h2>\n<ul>\n<li>[[doc-maulgashng|Maul of Gashang]] — The Black Flame artifact at the heart of the conspiracy</li>\n<li>[[doc-caveoutlin|Cave Outline]] — Detailed layout of Thárion's bandit hideout</li>\n<li>[[doc-sumryprvnz|Summary of Provènzia]] — Regional context</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!1e0pksxoUKkUxRFB.20a3968c0cc35ca4"
+    }
+  ],
+  "folder": "9TmLIkGXGHMtFxzy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "1e0pksxoUKkUxRFB",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!1e0pksxoUKkUxRFB"
+}

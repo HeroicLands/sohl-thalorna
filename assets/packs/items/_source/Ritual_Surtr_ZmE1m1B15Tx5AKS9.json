@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: Súrtr",
+  "type": "skill",
+  "img": "images/affiliation/surtr.webp",
+  "_id": "ZmE1m1B15Tx5AKS9",
+  "system": {
+    "shortcode": "surtr",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-s-rtr/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-surtr|Faith of Súrtr]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "motZrE11IrlKjBz2",
+  "_key": "!items!ZmE1m1B15Tx5AKS9"
+}

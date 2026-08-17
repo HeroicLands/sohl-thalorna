@@ -1,0 +1,35 @@
+{
+  "name": "Monvèrdre",
+  "pages": [
+    {
+      "_id": "80dee4212940a451",
+      "name": "Monvèrdre",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Features</h2>\n<p><em>To be written.</em></p>\n<h2>Notable Figures</h2>\n<p><em>To be written.</em></p>\n"
+      },
+      "_key": "!journal.pages!gcqQMrf3iloHRPXm.80dee4212940a451"
+    }
+  ],
+  "folder": "2s244hfP0BpQi195",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "gcqQMrf3iloHRPXm",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!gcqQMrf3iloHRPXm"
+}

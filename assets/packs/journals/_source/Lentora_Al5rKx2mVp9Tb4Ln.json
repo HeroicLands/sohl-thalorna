@@ -1,0 +1,35 @@
+{
+  "name": "Lentora",
+  "pages": [
+    {
+      "_id": "afa8903623b7375f",
+      "name": "Lentora",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Lentora is the second city of [[doc-provinclys|Alyssa]] after the capital — an old inland city of forums, baths, and guildhalls that serves as the market and administrative hub for the populous farm-and-villa country of the inner province. Wealthy but unglamorous beside [[doc-magnapolis|Magnápolis]], it is where the lesser senatorial houses and the prosperous equestrian families keep their seats, and where much of Alyssa's day-to-day governing actually gets done while the capital is consumed with imperial politics.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provinclys|Province of Alyssa]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Al5rKx2mVp9Tb4Ln.afa8903623b7375f"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Al5rKx2mVp9Tb4Ln",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Al5rKx2mVp9Tb4Ln"
+}

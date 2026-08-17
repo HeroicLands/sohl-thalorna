@@ -1,0 +1,35 @@
+{
+  "name": "Southern K'ich'chik",
+  "pages": [
+    {
+      "_id": "aae387317068ec52",
+      "name": "Southern K'ich'chik",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> The southern subdivision of the [[doc-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Ba'alam Tza'ku, K'awiil Tza'kul, K'uxi Balam, Tz'ikin Ba'alam.</p>\n"
+      },
+      "_key": "!journal.pages!8vKZQIhOcNjXSRjS.aae387317068ec52"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "8vKZQIhOcNjXSRjS",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!8vKZQIhOcNjXSRjS"
+}

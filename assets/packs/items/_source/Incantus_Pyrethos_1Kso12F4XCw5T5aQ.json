@@ -1,0 +1,35 @@
+{
+  "name": "Incantus Pyréthos",
+  "type": "skill",
+  "img": "images/affiliation/pyrethos.webp",
+  "_id": "1Kso12F4XCw5T5aQ",
+  "system": {
+    "shortcode": "pyrethos",
+    "docUrl": "https://heroiclands.org/sohl/skill/incantus-pyr-thos/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-pyrethos|Eídma Pyréthos]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@aur, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "aSvW7yJDk7r76eTo",
+  "_key": "!items!1Kso12F4XCw5T5aQ"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Belos",
+  "type": "mystery",
+  "img": "systems/sohl/assets/icons/other/astrology.svg",
+  "_id": "VDbFbTOOigCx0XOp",
+  "system": {
+    "shortcode": "belos",
+    "docUrl": "https://heroiclands.org/sohl/mystery/belos/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Belos, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.</p>\n<table>\n<thead>\n<tr>\n<th>Element</th>\n<th>Skills it claims</th>\n<th>EML</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Earth</td>\n<td>Nature</td>\n<td>−5</td>\n</tr>\n<tr>\n<td>Metal</td>\n<td>Craft, Script</td>\n<td>−15</td>\n</tr>\n<tr>\n<td>Fire</td>\n<td>Combat, Combat Techniques</td>\n<td>−5</td>\n</tr>\n<tr>\n<td>Air</td>\n<td>Physical</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Spirit</td>\n<td>Lore, Mystical</td>\n<td>+15</td>\n</tr>\n<tr>\n<td>Water</td>\n<td>Language, Social</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<p>The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[doc-brthsgn|Birthsign]].</p>\n",
+    "levelBase": 0,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "22zncJuZCvjO7YSY",
+  "_key": "!items!VDbFbTOOigCx0XOp"
+}

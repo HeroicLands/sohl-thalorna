@@ -1,0 +1,35 @@
+{
+  "name": "Thātlüng",
+  "pages": [
+    {
+      "_id": "ccda1927c30d91b6",
+      "name": "The Thātlüng (\"Mountain Dragon\")",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A devastating earthquake has struck the remote northwest territories of the [[doc-empiretnvr|Empire of Tānvür]], a region long home to the [[doc-flksinale|Sinalë]] in their ancient forests and [[doc-flkkhazar|Khazári]] in their mountain strongholds. The earthquake, unprecedented in severity, has unearthed something terrifying: the <strong>Thātlüng</strong>.</p>\n<h2>The Thātlüng: The New Predators</h2>\n<p>The Thātlüng are fearsome, reptilian creatures that are large, swift, and highly intelligent, hunting in coordinated packs with deadly precision. Standing taller than a man, these creatures are built for speed and lethal precision. Their skin is thick and almost impenetrable to conventional weapons, making them a near-invincible foe for the unprepared. Their claws and teeth can tear through flesh and bone with ease, and their pack mentality allows them to hunt and kill with ruthless efficiency.</p>\n<p>What makes the Thātlüng particularly dangerous is their resilience. Only the finest Sinalëan blades and arrows, and the sturdiest of Khazárian weapons, can pierce their tough hide. This has made them a significant challenge even for the elder races, who are struggling to contain the threat in their own lands.</p>\n<h2>The Aftermath of the Earthquake</h2>\n<p>The earthquake, which has come to be known as the <strong>Kōtjür Tūrhürn</strong> (&quot;The Millennial Earthshatter&quot;), has devastated the northwest territories. Khazárian strongholds have collapsed, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.</p>\n<h2>The Threat Beyond the Mountains</h2>\n<p>For now, the Thātlüng have been contained within the earthquake-affected area, but the situation is precarious. The elder races are fighting valiantly to protect their lands, but the sheer number of these creatures and their deadly nature make the battle difficult.</p>\n<p>Some members of the imperial court view this as an isolated problem, believing it is the responsibility of the elder races to manage. However, more astute observers recognize the potential for disaster if the Thātlüng break free. These creatures, with their speed, intelligence, and almost impervious hides, could decimate entire regions of the empire.</p>\n<h2>The Empire's Response</h2>\n<p>The imperial government is in a difficult position. While there is sympathy for the plight of the elder races, many see this as their problem to solve. However, the more forward-thinking members of the court understand the stakes. The emperor has quietly begun to offer aid to the elder races, dispatching small contingents of soldiers equipped with the best Khazárian-forged weapons.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-dreadspawn|Dreadspawn]] — Another supernatural threat facing the empire</li>\n<li>[[doc-flksinale|Sinalë]] — The elder race bearing the brunt of this threat</li>\n<li>[[doc-flkkhazar|Khazári]] — The deep folk fighting to contain the creatures</li>\n<li>[[doc-empiretnvr|Empire of Tānvür]] — The empire's response to the crisis</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!dShd6mhcDw4j2zkN.ccda1927c30d91b6"
+    }
+  ],
+  "folder": "l3wIL8UihJI5nx6L",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "dShd6mhcDw4j2zkN",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!dShd6mhcDw4j2zkN"
+}

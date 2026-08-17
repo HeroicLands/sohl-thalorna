@@ -1,0 +1,36 @@
+{
+  "name": "Jñānasūra",
+  "type": "affiliation",
+  "img": "systems/sohl/assets/icons/shield.svg",
+  "_id": "SaDYZeRnoxIhEPUr",
+  "system": {
+    "shortcode": "jnanasura",
+    "docUrl": "https://heroiclands.org/sohl/affiliation/j-nas-ra/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<h1>Jñānasūra — The Radiant Sage</h1>\n<ul>\n<li><strong>Domain:</strong> Knowledge, learning, enlightenment, the discipline of study, the clarity granted before battle</li>\n<li><strong>Symbol:</strong> A radiant sun with an open book</li>\n<li><strong>Pronunciation:</strong> <em>GYAH-nah-soo-rah</em></li>\n<li><strong>Pantheon:</strong> [[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n</ul>\n<p>Jñānasūra is the god of wisdom and of the work of the mind. The theology holds that knowledge is the sun of the inner life — without it, the soul is in darkness, and no virtue can take its proper form. He is the patron of scholars and of the great schools of [[doc-vedyarargn|Vedyara Region]], but also — perhaps more surprisingly to outsiders — of warriors, for whom the clarity of thought before the blow is as important as the strength of the arm.</p>\n<p>Every major Vedyaran school, library, and academy maintains a shrine to Jñānasūra. Those who serve him are among the most learned in the world, trained as deeply in the sciences and the poetic arts as in theology, and they serve as teachers and advisors to royal courts, temple hierarchies, and guild councils.</p>\n<h2>Aspects</h2>\n<p>Jñānasūra is depicted as a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book of wisdom. Behind him blazes the golden sun of understanding. His colour is the gold of morning light, and his presence is understood as a quiet radiance — not the heat of [[affiliation-rasikara|Rásikara]]'s fire, but the steady light by which a page can be read.</p>\n<h2>Sacred Objects</h2>\n<ul>\n<li><strong>The Open Book</strong> — the central relic of a Jñānasūran shrine; households and temples compete to produce the finest illuminated and bound sacred texts</li>\n<li><strong>Sun-medallion</strong> — a small golden disc incised with the opening lines of a chosen sutra, worn by scholars and teachers</li>\n<li><strong>Reading-stand</strong> — a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed</li>\n</ul>\n<h2>Divine Servants</h2>\n<ul>\n<li><strong>Vidyā-Karanas</strong> — the scribes of divine knowledge, celestial spirits who inspire mortals in moments of intellectual breakthrough. Scholars offer thanks to them when a difficult passage suddenly yields its sense.</li>\n</ul>\n<h2>Veneration</h2>\n<p>A Jñānasūran household keeps a reading-stand in its main room, and a book is placed open on it from dawn until sunset each day; any household member who pauses beside it is expected to read a line aloud. Students touch the sun-medallion before sitting for an examination; warriors touch it before taking the field. Before undertaking a difficult decision — a lawsuit, a marriage negotiation, a major commercial venture — the devout read three passages chosen at random from a sacred text and meditate briefly on the thread that connects them.</p>\n<h2>Ordeals for Favour</h2>\n<ul>\n<li><strong>The Examination Beyond the Veil</strong> — an ordeal in which the devotee is examined on subjects they were not told to prepare, over a period of seven days, by a council that includes at least one member of every scholarly specialisation.</li>\n<li><strong>The Silent Year of Reading</strong> — a year of study spent in a temple library, speaking to no one, consuming only what the library provides.</li>\n<li><strong>The Contest of Open Questions</strong> — a public ordeal in which the devotee must answer any question posed by any member of the community for a full day, from dawn to sunset.</li>\n</ul>\n<h2>See Also</h2>\n<ul>\n<li>[[affiliation-varakpnthn|Varṇaka Pantheon]]</li>\n</ul>\n",
+    "subType": "divine",
+    "society": "",
+    "office": "",
+    "title": "",
+    "level": 0,
+    "relation": {
+      "varakpnthn": "aligned"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "dxzsTyaF4LMapIJX",
+  "_key": "!items!SaDYZeRnoxIhEPUr"
+}

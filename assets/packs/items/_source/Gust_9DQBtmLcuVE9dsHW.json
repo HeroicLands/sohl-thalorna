@@ -1,0 +1,39 @@
+{
+  "name": "Gust",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "9DQBtmLcuVE9dsHW",
+  "system": {
+    "shortcode": "gust",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/gust/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster throws both arms wide and a wall of shrieking wind erupts forward, expanding into a full-scale tempest that tears across the battlefield with enough force to topple cavalry, shatter wooden barricades, and hurl loose debris like sling-stones. The howling gale strips banners from poles, extinguishes every open flame in its path, and fills the air with a blinding maelstrom of dust, leaves, and grit that renders archers useless and cavalry charges suicidal.</p>\n<p>Controlling a tempest of this magnitude demands enormous concentration and stamina; the caster stands at the storm's eye, relatively sheltered but unable to move or cast other spells without collapsing the effect. Allies must be positioned behind the caster or risk being swept up alongside the enemy. The storm's duration is measured in heartbeats rather than minutes, but even a few seconds of hurricane-force wind on an open field can shatter a formation beyond recovery. When the spell ends, the sudden stillness is almost as disorienting as the gale itself.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 6,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!9DQBtmLcuVE9dsHW"
+}

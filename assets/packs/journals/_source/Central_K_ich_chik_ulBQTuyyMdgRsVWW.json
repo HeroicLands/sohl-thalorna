@@ -1,0 +1,35 @@
+{
+  "name": "Central K'ich'chik",
+  "pages": [
+    {
+      "_id": "dc0bab5116001b77",
+      "name": "Central K'ich'chik",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p><em>To be written.</em> The centralern subdivision of the [[doc-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Balamkul, K'ankul, Ki'ik Ba'ate, Tz'ikin.</p>\n"
+      },
+      "_key": "!journal.pages!ulBQTuyyMdgRsVWW.dc0bab5116001b77"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ulBQTuyyMdgRsVWW",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!ulBQTuyyMdgRsVWW"
+}

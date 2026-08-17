@@ -1,0 +1,18 @@
+{
+  "name": "Ashalan",
+  "sorting": "a",
+  "folder": "IY7snVGTGcpTxofH",
+  "type": "Item",
+  "_id": "MabmtFedtqaXvY4V",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!folders!MabmtFedtqaXvY4V"
+}

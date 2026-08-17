@@ -1,0 +1,34 @@
+{
+  "name": "Donkey",
+  "type": "mystery",
+  "img": "images/mystery/donkey.webp",
+  "_id": "06wasGpojK17FTdC",
+  "system": {
+    "shortcode": "donkey",
+    "docUrl": "https://heroiclands.org/sohl/mystery/donkey/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.</p>\n<h2>Human Personality</h2>\n<p>Stubborn and resilient, this person stands firm in their beliefs and resists being forced into actions they perceive as unreasonable. They are patient, enduring, and steadfast.</p>\n<ul>\n<li><strong>Physical:</strong> Compact, sturdy build; strong legs and back.</li>\n<li><strong>Behavioral:</strong> Extremely patient, often stubborn and resistant to change.</li>\n<li><strong>Positive:</strong> Resilient, persistent, and patient.</li>\n<li><strong>Negative:</strong> Stubborn, resistant to guidance, and inflexible.</li>\n<li><strong>Minor Trait:</strong> Quietly tenacious, holding to their chosen course with steady patience even when others have long since given up or moved on.</li>\n<li><strong>Major Disorder:</strong> Outwardly patient and calm, but under any pressure their stubbornness hardens into an immovable wall, refusing all compromise or change with a quiet, implacable obstinacy.</li>\n</ul>\n",
+    "levelBase": 0,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "vRIKmqTJtHtY4VEX",
+  "_key": "!items!06wasGpojK17FTdC"
+}

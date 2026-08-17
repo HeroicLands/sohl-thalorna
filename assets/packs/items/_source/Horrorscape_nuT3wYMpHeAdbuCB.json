@@ -1,0 +1,39 @@
+{
+  "name": "Horrorscape",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/wind.svg",
+  "_id": "nuT3wYMpHeAdbuCB",
+  "system": {
+    "shortcode": "hrrrscp",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/horrorscape/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster exhales a long, low note, and the surrounding wind takes up the sound, warping it into a chorus of unearthly voices—shrieks that rise and fall like a tortured choir, wet whispers that seem to emanate from just behind each listener's ear, and a deep, resonant thrum that vibrates in the chest cavity and triggers a primal fight-or-flight response. The sounds have no visible source, which amplifies the terror; victims whirl to confront phantoms that aren't there, stumble over their own feet, and lose all sense of coordinated action.</p>\n<p>The acoustic illusion is layered and adaptive—the spell reads the ambient soundscape and weaves its horrors into the gaps, ensuring that even experienced soldiers cannot dismiss the effect as mere trickery. A veteran who steels himself against screaming may find the whispers replaced by the specific voice of a dead comrade calling his name. Resisting requires exceptional willpower, and even those who succeed report lingering unease for hours afterward. The caster is not immune to the peripheral effects and typically stuffs wax in their ears or maintains a personal Silence ward.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "zepharis",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 4,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!nuT3wYMpHeAdbuCB"
+}

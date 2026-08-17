@@ -1,0 +1,35 @@
+{
+  "name": "Aravantia",
+  "pages": [
+    {
+      "_id": "2934ba9f6078313c",
+      "name": "Aravantia",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h2>Overview</h2>\n<p>Aravantia is the seat of [[doc-provnchyln|Hylen]]'s provincial administration and the great clearing-house of the breadbasket's wealth — the market-city where the grain, wine, and oil of a hundred aristocratic estates are weighed, taxed, and sent on toward the capital. Its forums are dominated less by senators than by estate-factors and grain-brokers, and its calendar turns on the harvest. The old landed families keep townhouses here, and Hylen's conservative temper — traditionalist, suspicious of merchants and mages alike — is nowhere stronger than in Aravantia's councils.</p>\n<h2>See Also</h2>\n<ul>\n<li>[[doc-provnchyln|Province of Hylen]] — Parent province</li>\n<li>[[doc-vylarinmpr|Vylarian Empire]] — Imperial overview</li>\n</ul>\n"
+      },
+      "_key": "!journal.pages!Hy4rKx2mVqL9Tb7n.2934ba9f6078313c"
+    }
+  ],
+  "folder": "WSdLuPc7BaRqxNEt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Hy4rKx2mVqL9Tb7n",
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "_key": "!journal!Hy4rKx2mVqL9Tb7n"
+}

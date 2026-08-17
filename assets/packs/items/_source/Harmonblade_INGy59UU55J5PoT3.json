@@ -1,0 +1,39 @@
+{
+  "name": "Harmonblade",
+  "type": "mysticalability",
+  "img": "systems/sohl/assets/icons/anvil.svg",
+  "_id": "INGy59UU55J5PoT3",
+  "system": {
+    "shortcode": "hrmnbld",
+    "docUrl": "https://heroiclands.org/sohl/mysticalability/harmonblade/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>The caster grips a metal blade and sends a vibration through it — a sustained, harmonic frequency that makes the weapon sing with a clear, bell-like tone audible to everyone nearby. The vibration tightens the metal's molecular structure along the edge, creating a cutting surface sharper than any conventional whetstone can achieve. The singing blade parts armor, leather, and flesh with visibly less resistance than an ordinary weapon, its strokes accompanied by the eerie, musical hum of resonating steel.</p>\n<p>Beyond its enhanced cutting power, the vibration disrupts the structural integrity of whatever the blade strikes, causing armor to weaken at the point of impact and shields to develop cracks that spread with each blow. The singing sound is both a tactical advantage — the intimidating tone unnerves opponents — and a disadvantage — the blade's location is immediately obvious to everyone within earshot. The enchantment persists as long as the caster maintains the resonance, typically lasting through a single engagement before the sustained vibration exhausts the underlying magic.</p>\n",
+    "subType": "arcaneincantation",
+    "assocSkillCode": "sideros",
+    "assocMysteryCode": "",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "levelBase": 3,
+    "charges": {
+      "usesCharges": false,
+      "value": 0,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "geh9MPdhQ9ieSHa4",
+  "_key": "!items!INGy59UU55J5PoT3"
+}

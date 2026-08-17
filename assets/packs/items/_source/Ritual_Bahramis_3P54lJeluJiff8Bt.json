@@ -1,0 +1,35 @@
+{
+  "name": "Ritual: Báhrámiš",
+  "type": "skill",
+  "img": "systems/sohl/assets/icons/head-gear.svg",
+  "_id": "3P54lJeluJiff8Bt",
+  "system": {
+    "shortcode": "bahramis",
+    "docUrl": "https://heroiclands.org/sohl/skill/ritual-b-hr-mi/",
+    "actionDefs": [],
+    "notes": "",
+    "docHtml": "<p>See [[affiliation-bahramis|Faith of Báhrámiš]]</p>\n",
+    "subType": "mystical",
+    "skillBaseFormula": "@wil, @rea",
+    "masteryLevelBase": 0,
+    "improveFlag": false,
+    "combatCategory": "none",
+    "parentSkillCode": "",
+    "initSkillMult": 0
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "sohl",
+    "systemVersion": "0.6.0",
+    "coreVersion": "14",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "sohlbuilder00000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "MabmtFedtqaXvY4V",
+  "_key": "!items!3P54lJeluJiff8Bt"
+}
