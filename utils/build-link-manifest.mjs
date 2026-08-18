@@ -55,11 +55,106 @@ import fs from "node:fs";
 import path from "node:path";
 
 import { contentSlug } from "./content-slug.mjs";
-import { writeManifests } from "./kb-manifest.mjs";
+import { canonicalKey, writeManifests } from "./kb-manifest.mjs";
+import { compendiumUuid, pageUuid } from "./packs/ids.mjs";
+import { isItemDocType, itemDocEntryId } from "./packs/item-docs.mjs";
+import { journalPageId, splitPages } from "./packs/journals.mjs";
 import { walkMarkdownTree } from "./packs/helpers.mjs";
-import { CONTENT_PACKAGE } from "./packs/content-package.mjs";
+import {
+  CONTENT_PACKAGE,
+  FOUNDRY_PACKAGE_ID,
+} from "./packs/content-package.mjs";
 
 const CONTENT_BASE = path.resolve("./assets/content");
+
+/**
+ * The reserved anchor name for a journal's **first** page.
+ *
+ * Every journal has one and it is what an item's `docHtml` points at, but it
+ * carries no authored `{#slug}` — so without a reserved name the one page that
+ * always exists would be the one page the manifest could not address. Cannot
+ * collide with an authored slug, which is `[a-z0-9-]+`.
+ */
+const LEAD_ANCHOR = "$lead";
+
+/**
+ * Every page of a note's journal, as `anchorName → whole UUID`.
+ *
+ * @param {string} entryUuid - The journal entry's UUID.
+ * @param {string} entryId - The entry's id, which page ids hash against.
+ * @param {string} body - The note's markdown body.
+ * @param {string} name - The note's name, used as the lead page's title.
+ * @returns {Record<string, string>} The anchors.
+ */
+function anchorsOf(entryUuid, entryId, body, name) {
+  const anchors = {};
+  splitPages(body, name).forEach((page, index) => {
+    const uuid = pageUuid(entryUuid, journalPageId(entryId, page, index));
+    if (index === 0) anchors[LEAD_ANCHOR] = uuid;
+    if (page.anchorSlug) anchors[page.anchorSlug] = uuid;
+  });
+  return anchors;
+}
+
+/**
+ * The manifest entries a single note produces.
+ *
+ * An item note produces **two**: the item, and separately the JournalEntry its
+ * prose compiles into. They are two documents with two UUIDs, so they get two
+ * addresses; the item's entry points at the other by address rather than
+ * repeating its UUID, because the doc entry owns that fact (#1499).
+ *
+ * @param {object} fm - Parsed frontmatter.
+ * @param {string} name - The note's display name.
+ * @param {string} url - The note's site-absolute URL.
+ * @param {string} body - The note's markdown body.
+ * @returns {Array<object>} One or two entries.
+ */
+function entriesFor(fm, name, url, body) {
+  const key = canonicalKey(CONTENT_PACKAGE, fm.type, fm.shortcode);
+  const own = fm.id
+    ? compendiumUuid(FOUNDRY_PACKAGE_ID, fm.type, fm.id)
+    : undefined;
+
+  if (isItemDocType(fm.type)) {
+    const docKey = canonicalKey(CONTENT_PACKAGE, `doc${fm.type}`, fm.shortcode);
+    const docEntryId = fm.id ? itemDocEntryId(fm.id) : undefined;
+    const docUuid = docEntryId
+      ? compendiumUuid(FOUNDRY_PACKAGE_ID, "doc", docEntryId)
+      : undefined;
+    return [
+      { key, fm, name, url, uuid: own, doc: docKey },
+      {
+        key: docKey,
+        fm,
+        name,
+        // On the web the item note renders as one page which *is* its
+        // documentation, so both addresses resolve to the same URL.
+        url,
+        uuid: docUuid,
+        anchors: docUuid
+          ? anchorsOf(docUuid, docEntryId, body ?? "", name)
+          : undefined,
+      },
+    ];
+  }
+
+  // Everything else is one document. A `doc` note compiles into a journal in
+  // its own right, so its anchors sit on its own entry.
+  return [
+    {
+      key,
+      fm,
+      name,
+      url,
+      uuid: own,
+      anchors:
+        own && fm.type === "doc"
+          ? anchorsOf(own, fm.id, body ?? "", name)
+          : undefined,
+    },
+  ];
+}
 const MANIFEST_OUT = path.resolve("./build/manifests");
 
 /**
@@ -90,10 +185,12 @@ function sectionOf(fm) {
 export function collectPublishedEntries(contentBase) {
   const entries = [];
   const skipped = [];
-  for (const { frontmatter: fm, absPath } of walkMarkdownTree(contentBase)) {
+  for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
+    contentBase,
+  )) {
     if (!fm || fm.package !== CONTENT_PACKAGE) continue;
     if (fm.draft === true) continue;
-    if (!fm.type) continue;
+    if (!fm.type || !fm.shortcode) continue;
 
     const rel = path.relative(contentBase, absPath);
     const section = sectionOf(fm);
@@ -120,11 +217,9 @@ export function collectPublishedEntries(contentBase) {
         });
         continue;
       }
-      entries.push({
-        fm,
-        name,
-        url: `/${CONTENT_PACKAGE}/${landing}/`,
-      });
+      entries.push(
+        ...entriesFor(fm, name, `/${CONTENT_PACKAGE}/${landing}/`, body),
+      );
       continue;
     }
 
@@ -135,11 +230,9 @@ export function collectPublishedEntries(contentBase) {
       skipped.push({ file: rel, reason: err.message });
       continue;
     }
-    entries.push({
-      fm,
-      name,
-      url: `/${CONTENT_PACKAGE}/${section}/${slug}/`,
-    });
+    entries.push(
+      ...entriesFor(fm, name, `/${CONTENT_PACKAGE}/${section}/${slug}/`, body),
+    );
   }
   return { entries, skipped };
 }
@@ -167,6 +260,9 @@ function main() {
     // The base the URLs above are built with, and therefore what each recorded
     // address is relative to (#1465).
     { [CONTENT_PACKAGE]: `/${CONTENT_PACKAGE}/` },
+    // The Foundry package this repository ships the compiled documents in, so
+    // the manifest carries a usable UUID beside each web address.
+    { [CONTENT_PACKAGE]: FOUNDRY_PACKAGE_ID },
   );
 
   for (const { package: pkg, file, count } of written) {

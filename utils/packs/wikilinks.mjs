@@ -233,7 +233,7 @@ export function anchorPageId(noteId, anchorSlug) {
  *   unusable for it. `types` is every type the tree actually contains, so a
  *   qualifier naming no real type can be told apart from a missing target.
  */
-export function buildWikilinkIndex(docs, packageId) {
+export function buildWikilinkIndex(docs, packageId, foreign, contentPackage) {
   if (!packageId) {
     throw new Error(
       "buildWikilinkIndex: packageId is required — it is the first segment of " +
@@ -271,7 +271,63 @@ export function buildWikilinkIndex(docs, packageId) {
       byAlias.set(key, byAlias.has(key) && byAlias.get(key) !== d ? null : d);
     }
   }
-  return { byShortcode, byAlias, types, uuidByDoc, packageId };
+  // Entries published by *other* packages, keyed canonically. Merged as one
+  // map rather than consulted separately: the keys are globally unique, so a
+  // foreign address resolves exactly like a local one and there is no
+  // precedence rule to get wrong. A foreign package's types are added to
+  // `types` too — without that, `polity-xyz` is read as prose and silently
+  // loses its link (#1499).
+  const foreignByKey = new Map(foreign ?? []);
+  for (const v of foreignByKey.values()) if (v.type) types.add(norm(v.type));
+
+  // Every package an address may name: this one, plus every package a vendored
+  // manifest speaks for. What lets `sohl-skill-lang` be read as an address.
+  const packages = new Set([contentPackage ?? packageId]);
+  for (const v of foreignByKey.values()) if (v.package) packages.add(v.package);
+
+  return {
+    byShortcode,
+    byAlias,
+    types,
+    uuidByDoc,
+    packageId,
+    packages,
+    foreign: foreignByKey,
+  };
+}
+
+/**
+ * The foreign manifest entry an address names, or `null`.
+ *
+ * A package-qualified address is one lookup. A bare one names no package, so it
+ * resolves against whichever foreign package publishes it — and only when
+ * exactly one does. Claimed by two, it is genuinely ambiguous and the author
+ * writes the qualified form; guessing would make the build depend on which
+ * manifest happened to load first.
+ *
+ * @param {object} index - From {@link buildWikilinkIndex}.
+ * @param {object|null} read - The parsed qualifier, or `null` for a bare alias.
+ * @returns {object|null} The manifest entry.
+ */
+function findForeign(index, read) {
+  if (!read || read.reason || !index.foreign?.size) return null;
+  const wanted = read.itemDoc ? `doc${read.type}` : read.type;
+  if (read.package) {
+    return (
+      index.foreign.get(
+        `${read.package}-${wanted}-${read.shortcode}`.toLowerCase(),
+      ) ?? null
+    );
+  }
+  const hits = [];
+  for (const [key, v] of index.foreign) {
+    const parts = key.split("-");
+    if (parts.length !== 3) continue;
+    if (parts[1] === norm(wanted) && parts[2] === norm(read.shortcode)) {
+      hits.push(v);
+    }
+  }
+  return hits.length === 1 ? hits[0] : null;
 }
 
 /** Matches a whole wikilink, capturing its inner text. */
@@ -323,10 +379,13 @@ export function convertWikilinks(markdown, { type, id, index }) {
     // Set when the target was read as `type-shortcode` — an address rather
     // than prose, which decides what an unlabelled link shows (#1409).
     let addressed = false;
+    // Kept for the foreign fallback below, which needs the parsed address.
+    let qualifiedRead = null;
     if (target === "" && slug) {
       doc = { type, id };
     } else {
-      const qualified = readQualifier(target, index.types);
+      const qualified = readQualifier(target, index.types, index.packages);
+      qualifiedRead = qualified;
       if (qualified?.reason) {
         unresolved.push({ link: all, target, reason: qualified.reason });
         return all;
@@ -345,7 +404,27 @@ export function convertWikilinks(markdown, { type, id, index }) {
       }
     }
     if (!doc) {
-      unresolved.push({ link: all, target, reason: "unknown" });
+      // Nothing local answers. A foreign package may publish this address, in
+      // which case the manifest hands back a complete UUID — including, for a
+      // section link, the anchor's own — so nothing is derived here.
+      const hit = findForeign(index, qualifiedRead);
+      if (hit) {
+        const uuid = slug ? hit.anchors?.[slug] : hit.uuid;
+        if (!uuid) {
+          unresolved.push({ link: all, target, reason: "unknown-anchor" });
+          return all;
+        }
+        return `@UUID[${uuid}]{${text || hit.name || target}}`;
+      }
+      unresolved.push({
+        link: all,
+        target,
+        reason: "unknown",
+        // A *qualified* address that resolves nowhere is a typo: every package
+        // it could name is either built here or vendored, so there is no third
+        // possibility left. A bare alias is not — it may simply be prose.
+        addressed: !!qualifiedRead && !qualifiedRead.reason,
+      });
       return all;
     }
 
