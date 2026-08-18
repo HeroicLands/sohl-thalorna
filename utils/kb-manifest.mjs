@@ -116,8 +116,30 @@ export function readCanonicalKey(key) {
  * Foundry `uuid` / `docUuid` beside the web `path`. A v2 key read as a v3 one
  * addresses a package named after a type, so again the version is what turns a
  * stale vendored file into an error.
+ *
+ * Bumped to 5 by #1516: `path` became optional, so a package that ships
+ * compendiums and publishes no site can still publish the Foundry addresses of
+ * its documents — the mirror of an entry that has a `path` and no `uuid`.
  */
-export const MANIFEST_VERSION = 4;
+export const MANIFEST_VERSION = 5;
+
+/**
+ * Every version this build can read, newest last.
+ *
+ * A version exists to stop a file whose values *read differently* from being
+ * resolved anyway, and that is the only thing it is allowed to gate. Every bump
+ * so far did change a reading — a v2 key read as a v4 one addresses a package
+ * named after a type — so each dropped its predecessors. **v5 did not**: it
+ * only permits an absent `path`, so every v4 value still means exactly what it
+ * meant, and refusing v4 would make a purely relaxing change a flag day in
+ * which every package must re-emit on the same afternoon or every build breaks
+ * (#1516).
+ *
+ * The unsafe direction is unchanged and still hard-fails: an older consumer
+ * meeting a newer file rejects it, because it cannot know what the new shape
+ * permits.
+ */
+export const READABLE_VERSIONS = Object.freeze([4, MANIFEST_VERSION]);
 
 /**
  * Where this build serves each package, keyed by package name.
@@ -213,14 +235,23 @@ export function resolvePackageUrl(rel, base) {
  * @returns {object} The manifest document.
  */
 export function buildManifest(pkg, entries, base, foundryPackage) {
-  checkBase(base, `buildManifest(${pkg})`);
+  // A base is what a `path` is recorded relative to, so having none is exactly
+  // the statement "this build publishes no pages for this package" (#1516).
+  // Making it a package-level decision the caller states once — not a per-note
+  // condition — is what stops a web-publishing package from half-emitting,
+  // where the notes that quietly lost a `path` would degrade to unlinked prose
+  // in every consumer with nothing erroring anywhere.
+  const web = base != null;
+  if (web) checkBase(base, `buildManifest(${pkg})`);
   const out = {};
   for (const e of entries) {
     const type = e.fm?.type;
     const shortcode = e.fm?.shortcode;
     if (!type || typeof shortcode !== "string" || !shortcode) continue;
     const entry = {
-      path: packageRelative(e.url, base),
+      // Absent for a pack-only package, which has no page to point at — the
+      // mirror of the `uuid` case below.
+      ...(web ? { path: packageRelative(e.url, base) } : {}),
       name: e.name,
     };
     // The Foundry address, supplied by the caller rather than derived here:
@@ -322,22 +353,29 @@ export function loadForeignManifests(dir, localPackages, bases = PACKAGE_BASE) {
       stale.push({ package: pkg, reason: `unreadable: ${err.message}` });
       continue;
     }
-    if (doc.version !== MANIFEST_VERSION) {
+    if (!READABLE_VERSIONS.includes(doc.version)) {
       // A v1 file is the site-absolute shape (#1465). Prefixing one of
       // its URLs would produce `/thalorna/thalorna/…` — a link that
       // resolves here and 404s for the reader — so the mismatch has to
       // stop the load rather than be resolved anyway.
       stale.push({
         package: pkg,
-        reason: `manifest version ${doc.version}, expected ${MANIFEST_VERSION}`,
+        reason:
+          `manifest version ${doc.version}, expected one of ` +
+          `${READABLE_VERSIONS.join(", ")}`,
       });
       continue;
     }
+    const entriesIn = Object.entries(doc.entries ?? {});
+    // A base is only needed to resolve a `path`, so a pack-only manifest —
+    // Foundry addresses and no pages (#1516) — needs none, and demanding one
+    // would make its documents uncitable from anywhere. Any entry that does
+    // carry a `path` brings the requirement straight back: dropping the
+    // package silently would turn every link into it back into an unresolved
+    // address, which reads as a typo far from the cause.
     const base = bases?.[pkg];
-    if (typeof base !== "string" || !base) {
-      // Skipping it silently would turn every link into that package back
-      // into an unresolved address — which, once the guard is on, reads as
-      // a typo and fails the build somewhere far from the cause.
+    const needsBase = entriesIn.some(([, v]) => v?.path != null);
+    if (needsBase && (typeof base !== "string" || !base)) {
       stale.push({
         package: pkg,
         reason: `no package base configured for "${pkg}" (PACKAGE_BASE in utils/kb-manifest.mjs)`,
@@ -346,15 +384,18 @@ export function loadForeignManifests(dir, localPackages, bases = PACKAGE_BASE) {
     }
     const resolved = [];
     try {
-      for (const [key, v] of Object.entries(doc.entries ?? {})) {
+      for (const [key, v] of entriesIn) {
         // The type is read back out of the canonical key so a consumer can
         // recognise a foreign package's types as addresses at all.
         const type = readCanonicalKey(key)?.type;
         resolved.push([
           key,
+          // `url` is absent for an entry with no page, exactly as `uuid` is
+          // for one that compiles into no document. A consumer must tolerate
+          // that rather than invent an href.
           {
             name: v.name,
-            url: resolvePackageUrl(v.path, base),
+            url: v.path == null ? undefined : resolvePackageUrl(v.path, base),
             uuid: v.uuid,
             doc: v.doc,
             anchors: v.anchors,

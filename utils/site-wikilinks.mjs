@@ -158,6 +158,13 @@ export function resolveSiteWikilinks(body, ctx) {
       // packs' own (#1409).
       const text =
         display ?? (isAddress(target, ctx.contentTypes) ? hit.name : target);
+      // A pack-only package publishes Foundry addresses and no pages (#1516),
+      // so its entries carry no `path` and resolve to no URL. The address is
+      // real — not a typo, and not a build failure — but there is nothing on
+      // the web to point at, so the reader gets the text and no href. Emitting
+      // it anyway yields `[Name](undefined)`: a link that renders and goes
+      // nowhere, which is the silent dead link the manifest exists to prevent.
+      if (!hit.url) return text;
       return `[${text}](${anchor ? `${hit.url}#${slugify(anchor)}` : hit.url})`;
     }
 
