@@ -14,32 +14,23 @@
 /**
  * Entry point for the Thalorna Setting module.
  *
- * This module is almost entirely content: its Items, Actors and Journals are
- * compiled into compendium packs from `assets/content/` at build time, and
- * Foundry loads them from `module.json` without any code running. What little
- * code there is exists to configure that content against its host system.
+ * This module is almost entirely content: its packs are compiled from
+ * `assets/content/` at build time and Foundry loads them from `module.json`
+ * without any code running.
+ *
+ * It is deliberately usable **without** Song of Heroic Lands. The Item and
+ * Actor packs are system-specific and Foundry hides them outside SoHL, but the
+ * Journal, Macro and Scene packs are setting material that any system can use,
+ * so they carry no system of their own. Running under another system is a
+ * supported configuration, not an error — nothing here warns about it.
  */
 
 /** This module's Foundry id, as declared in `assets/templates/module.template.json`. */
 const MODULE_ID = "sohl-thalorna";
-
-/** The system this module's compendium content is authored against. */
-const REQUIRED_SYSTEM_ID = "sohl";
 
 Hooks.once("init", () => {
   const module = game.modules.get(MODULE_ID);
   console.log(
     `${MODULE_ID} | Thalorna Setting ${module?.version} initializing`,
   );
-
-  // Every pack in module.json declares `"system": "sohl"`, so under any other
-  // system this module's compendiums load as empty and nothing explains why.
-  // Say so plainly instead.
-  if (game.system.id !== REQUIRED_SYSTEM_ID) {
-    const message = game.i18n.format("THALORNA.Notification.wrongSystem", {
-      systemId: game.system.id,
-    });
-    console.warn(`${MODULE_ID} | ${message}`);
-    ui.notifications?.warn(message);
-  }
 });

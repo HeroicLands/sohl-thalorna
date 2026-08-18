@@ -80,7 +80,6 @@
       "path": "packs/journals",
       "type": "JournalEntry",
       "flags": {},
-      "system": "sohl",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -92,7 +91,6 @@
       "path": "packs/macros",
       "type": "Macro",
       "flags": {},
-      "system": "sohl",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -104,7 +102,6 @@
       "path": "packs/scenes",
       "type": "Scene",
       "flags": {},
-      "system": "sohl",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
