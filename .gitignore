@@ -18,6 +18,9 @@ AI.md
 # GitHub
 .github/copilot-instructions.md
 
+# Obsidian (assets/content is opened as a vault; local UI state only)
+assets/content/.obsidian/
+
 # macOS specific files
 # general
 .DS_Store
