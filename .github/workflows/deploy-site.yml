@@ -18,6 +18,7 @@ on:
       - "assets/manifests/**"
       - "site/**"
       - "utils/build-site-content.mjs"
+      - "utils/build-site-root.mjs"
       - "utils/site-wikilinks.mjs"
       - "utils/site-config.mjs"
       - "utils/content-slug.mjs"
@@ -84,6 +85,15 @@ jobs:
           pages=$(find build/site/thalorna -name index.html | wc -l)
           echo "build/site/thalorna carries $pages page(s)"
           test "$pages" -gt 1000
+
+      # The hosting project answers at an address of its own
+      # (sohl-thalorna.pages.dev) as well as under www.heroiclands.org, and a
+      # second address for the same pages can be indexed and compete with the
+      # canonical URL. `_headers` marks those hostnames noindex — but only at
+      # the deployment ROOT, which is the sole place Pages reads it
+      # (HeroicLands/Song-of-Heroic-Lands-FoundryVTT#1469).
+      - name: Verify the deployment root carries its headers
+        run: test -s build/site/_headers
 
       # The hosting project and the path-prefix routing that puts it at
       # www.heroiclands.org/thalorna are #1468. Until its credentials are
