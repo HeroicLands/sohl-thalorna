@@ -13,6 +13,14 @@ baseURL = "https://www.heroiclands.org/thalorna/"
 locale = "en-us"
 title = "The World of Thalorna"
 
+# The output is published *with* the prefix — `build/site/thalorna/` — and the
+# deploy uploads `build/site`, whose root is the hosting project's origin. So
+# the deployment is byte-for-byte what www serves: it can be checked at the
+# project's own address before any routing points at it, and it leaves the
+# routing layer a path-preserving pass-through rather than a rewriter
+# (Song-of-Heroic-Lands-FoundryVTT#1468).
+publishDir = "../build/site/thalorna"
+
 # Brand chrome, layouts, palette, and the SoHL info-block partials come from
 # the shared theme, so this site reads as one whole with www and the SoHL
 # knowledgebase.

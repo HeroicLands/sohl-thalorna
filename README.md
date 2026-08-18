@@ -9,7 +9,7 @@ npm install
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals}
 npm run build:link-manifest  # assets/content/ → build/manifests/thalorna.json
 npm run build:site-content   # assets/content/ → site/content/
-npm run build:site           # the above, then Hugo → site/public/
+npm run build:site           # the above, then Hugo → build/site/thalorna/
 ```
 
 A plain checkout is all that is needed. There is no sibling repository to clone
@@ -25,7 +25,7 @@ rather than a journal, and how to write a link into another package.
 
 Everything built from those notes — the compendium packs, the link manifest, and
 the website — is generated output: the packs and the manifest land under
-`build/`, the site under `site/content/` and `site/public/`. All of it is
+`build/`, the site under `site/content/` and `build/site/thalorna/`. All of it is
 gitignored, and no compiled output is committed.
 
 The pack compiler in [`utils/packs/`](utils/packs/README.md) is a vendored copy
@@ -40,7 +40,7 @@ builds, renders and deploys the whole of it. Nothing else writes to that prefix,
 and no other repository is in the path between these pages and their readers.
 
 ```sh
-npm run build:site   # assets/content/ → site/content/ → site/public/
+npm run build:site   # assets/content/ → site/content/ → build/site/thalorna/
 npm run serve:site   # the same, then `hugo server` for a local preview
 ```
 

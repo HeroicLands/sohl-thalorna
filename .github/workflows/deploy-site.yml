@@ -72,7 +72,7 @@ jobs:
       # check, so assert the file exists rather than discovering its
       # absence in production (#1416).
       - name: Verify the 404 page was built
-        run: test -s site/public/404.html
+        run: test -s build/site/thalorna/404.html
 
       # Nothing outside /thalorna is this repository's to publish, and a
       # deploy is a whole-subtree replacement — so prove the tree carries
@@ -80,9 +80,9 @@ jobs:
       # build came out empty.
       - name: Verify the tree is a complete site
         run: |
-          test -s site/public/index.html
-          pages=$(find site/public -name index.html | wc -l)
-          echo "site/public carries $pages page(s)"
+          test -s build/site/thalorna/index.html
+          pages=$(find build/site/thalorna -name index.html | wc -l)
+          echo "build/site/thalorna carries $pages page(s)"
           test "$pages" -gt 1000
 
       # The hosting project and the path-prefix routing that puts it at
@@ -96,7 +96,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy site/public --project-name=sohl-thalorna --branch=main
+          command: pages deploy build/site --project-name=sohl-thalorna --branch=main
 
       - name: Say why nothing was uploaded
         if: ${{ env.CLOUDFLARE_API_TOKEN == '' || env.CLOUDFLARE_ACCOUNT_ID == '' }}
