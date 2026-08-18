@@ -29,5 +29,5 @@ address it gives; inventing one produces a link that resolves at build time and
 dead-ends in Foundry.
 
 **Re-vendor after the other package changes its content.** The `version` field
-makes a stale *format* an error, but it cannot detect stale *content* — a note
+makes a stale _format_ an error, but it cannot detect stale _content_ — a note
 added there is simply unlinkable here until the file is copied over again.
