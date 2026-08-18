@@ -36,11 +36,18 @@
  * "Gear"), the bare form is ambiguous and resolves to neither; the author writes
  * the full `[[type/shortcode|Text]]` form instead.
  *
- * At compile time each becomes a Foundry UUID enricher, routed to the pack that
- * the target's type compiles into (see {@link packForType}):
+ * At compile time each becomes a Foundry UUID enricher, addressed to the pack
+ * that the target's type compiles into (see {@link packForType}), inside the
+ * package this repository ships:
  *
- *   `@UUID[Compendium.sohl.items.Item.<id>]{Text}`
- *   `@UUID[Compendium.sohl.journals.JournalEntry.<id>.JournalEntryPage.<anchorId>]{Text}`
+ *   `@UUID[Compendium.sohl-thalorna.items.Item.<id>]{Text}`
+ *   `@UUID[Compendium.sohl-thalorna.journals.JournalEntry.<id>.JournalEntryPage.<anchorId>]{Text}`
+ *
+ * **Every address is computed once, when the target is indexed** — see
+ * {@link buildWikilinkIndex} — and a link is resolved by looking that value up.
+ * Nothing here concatenates a prefix at the point of use: doing so in two
+ * separate files is how every emitted link came to address the `sohl` system
+ * from a repository that ships `sohl-thalorna` (#1498).
  *
  * Section links address a **JournalEntryPage**, because Foundry UUIDs cannot
  * target a position inside a page. A heading carrying `{#slug}` therefore starts
@@ -75,7 +82,16 @@
 
 import crypto from "crypto";
 
+import {
+  compendiumUuid,
+  ITEM_PACK,
+  packForType,
+  pageUuid,
+  PACK_BY_TYPE,
+} from "./ids.mjs";
 import { itemDocEntryId } from "./item-docs.mjs";
+
+export { ITEM_PACK, PACK_BY_TYPE, packForType };
 
 /**
  * The qualifier prefix that addresses an item's **documentation** rather than
@@ -83,37 +99,6 @@ import { itemDocEntryId } from "./item-docs.mjs";
  * compiled into. See {@link resolveItemDocType}.
  */
 const ITEM_DOC_PREFIX = "doc";
-
-/**
- * Content type → the compendium UUID prefix its documents compile into, for the
- * types that are **not** items.
- *
- * @type {Readonly<Record<string, string>>}
- */
-export const PACK_BY_TYPE = Object.freeze({
-  doc: "Compendium.sohl.journals.JournalEntry",
-  macro: "Compendium.sohl.macros.Macro",
-  character: "Compendium.sohl.actors.Actor",
-  creature: "Compendium.sohl.actors.Actor",
-});
-
-/** Where every other content type compiles: the items pack. */
-export const ITEM_PACK = "Compendium.sohl.items.Item";
-
-/**
- * The compendium a type's documents live in.
- *
- * Item types are the open set — a new one is added whenever the system grows a
- * document type — so they are the **default** rather than an enumerated list. A
- * hand-maintained list is what made an entire content directory silently
- * unlinkable once (#1276); nothing to maintain, nothing to forget.
- *
- * @param {string} type - The target note's `type`.
- * @returns {string} The compendium UUID prefix.
- */
-export function packForType(type) {
-  return PACK_BY_TYPE[type] ?? ITEM_PACK;
-}
 
 const norm = (s) => String(s).toLowerCase().trim();
 
@@ -140,7 +125,7 @@ export function resolveItemDocType(qualifier, types) {
   if (!qualifier.startsWith(ITEM_DOC_PREFIX)) return null;
   const base = qualifier.slice(ITEM_DOC_PREFIX.length);
   if (!base || !types.has(base)) return null;
-  return packForType(base) === ITEM_PACK ? base : null;
+  return packForType(base).pack === ITEM_PACK.pack ? base : null;
 }
 
 /**
@@ -248,13 +233,37 @@ export function anchorPageId(noteId, anchorSlug) {
  *   unusable for it. `types` is every type the tree actually contains, so a
  *   qualifier naming no real type can be told apart from a missing target.
  */
-export function buildWikilinkIndex(docs) {
+export function buildWikilinkIndex(docs, packageId) {
+  if (!packageId) {
+    throw new Error(
+      "buildWikilinkIndex: packageId is required — it is the first segment of " +
+        "every emitted UUID, and defaulting it is how links came to address " +
+        "the wrong package (#1498).",
+    );
+  }
+
   const byShortcode = new Map();
   const byAlias = new Map();
   const types = new Set();
+
+  // Each note's address is computed once, here, and every reference to it is
+  // that stored value. Nothing downstream assembles a UUID from parts, so a
+  // link and its target cannot disagree about where the document lives.
+  const uuidByDoc = new Map();
+
   for (const d of docs) {
     if (!d.id || !d.type) continue;
     types.add(norm(d.type));
+
+    const entryUuid = compendiumUuid(packageId, d.type, d.id);
+    uuidByDoc.set(d, {
+      uuid: entryUuid,
+      // An item's prose compiles into a separate JournalEntry, addressed by
+      // the virtual `doc<type>` qualifier. Its id is derived from the item's,
+      // so its address is knowable here too.
+      docUuid: compendiumUuid(packageId, "doc", itemDocEntryId(d.id)),
+    });
+
     if (d.shortcode) byShortcode.set(`${norm(d.type)}/${norm(d.shortcode)}`, d);
     for (const a of d.aliases ?? []) {
       const key = `${norm(d.type)}|${norm(a)}`;
@@ -262,7 +271,7 @@ export function buildWikilinkIndex(docs) {
       byAlias.set(key, byAlias.has(key) && byAlias.get(key) !== d ? null : d);
     }
   }
-  return { byShortcode, byAlias, types };
+  return { byShortcode, byAlias, types, uuidByDoc, packageId };
 }
 
 /** Matches a whole wikilink, capturing its inner text. */
@@ -348,10 +357,20 @@ export function convertWikilinks(markdown, { type, id, index }) {
     // The knowledgebase build reads the same authored link the same way.
     if (!text || (!labelled && addressed)) text = doc.name ?? target;
 
-    // An item doc lives in the journals pack under its own derived entry id,
-    // and its pages hash against *that* id — not the item's.
-    const pack = itemDoc ? PACK_BY_TYPE.doc : packForType(doc.type);
+    // Both addresses were computed when the target was indexed. An item doc
+    // lives in the journals pack under its own derived entry id, and its pages
+    // hash against *that* id — not the item's.
+    //
+    // The one target with no index entry is the note itself: a `[[#slug]]`
+    // self-link is resolved from the source's own type and id, which the
+    // caller supplied, so it is addressed the same way here.
+    const addresses = index.uuidByDoc.get(doc) ?? {
+      uuid: compendiumUuid(index.packageId, doc.type, doc.id),
+      docUuid: compendiumUuid(index.packageId, "doc", itemDocEntryId(doc.id)),
+    };
+    const entryUuid = itemDoc ? addresses.docUuid : addresses.uuid;
     const entryId = itemDoc ? itemDocEntryId(doc.id) : doc.id;
+    const isJournal = itemDoc || packForType(doc.type).pack === "journals";
     // A JournalEntry link opens a journal — at its first page, or at the
     // page an anchor names. An Item or Actor link opens that document's
     // *sheet*, which has no sections, so the anchor has nothing to address
@@ -359,9 +378,9 @@ export function convertWikilinks(markdown, { type, id, index }) {
     // can never hold one is what made such links dead-end (#1362); an
     // item's pages are addressed through its `doc<type>` counterpart.
     const uuid =
-      slug && pack === PACK_BY_TYPE.doc
-        ? `${pack}.${entryId}.JournalEntryPage.${anchorPageId(entryId, slug)}`
-        : `${pack}.${entryId}`;
+      slug && isJournal
+        ? pageUuid(entryUuid, anchorPageId(entryId, slug))
+        : entryUuid;
     return `@UUID[${uuid}]{${text}}`;
   });
 

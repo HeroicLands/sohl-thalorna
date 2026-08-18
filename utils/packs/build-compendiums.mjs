@@ -42,6 +42,7 @@ import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import { compilePack, extractPack } from "@foundryvtt/foundryvtt-cli";
 import { generatePacksJson, packJsonDir } from "./generate.mjs";
+import { FOUNDRY_PACKAGE_ID } from "./content-package.mjs";
 
 /**
  * Packs compiled from the authoritative `assets/content/` Markdown. Each pack's
@@ -54,6 +55,29 @@ import { generatePacksJson, packJsonDir } from "./generate.mjs";
  * `DEFERRED_PACK_CONFIGS` in `generate.mjs`.
  */
 const SOURCE_PACKS = ["items", "journals"];
+
+/** The manifest the module is built from, and the source of truth for its id. */
+const MODULE_TEMPLATE = path.resolve("./assets/templates/module.template.json");
+
+/**
+ * Fails the build when {@link FOUNDRY_PACKAGE_ID} and the manifest disagree.
+ *
+ * The package id is declared in `content-package.mjs` so the link resolver
+ * stays filesystem-free, which means it is a second copy of a value the
+ * manifest already holds. Two copies drift; this one drifts silently, because
+ * a wrong id still produces well-formed UUIDs that simply address nothing
+ * (#1498). Checking costs one file read per build.
+ */
+function assertPackageIdMatchesManifest() {
+  const manifestId = JSON.parse(fs.readFileSync(MODULE_TEMPLATE, "utf-8")).id;
+  if (manifestId !== FOUNDRY_PACKAGE_ID) {
+    throw new Error(
+      `Package id mismatch: content-package.mjs says "${FOUNDRY_PACKAGE_ID}" ` +
+        `but ${path.relative(process.cwd(), MODULE_TEMPLATE)} says ` +
+        `"${manifestId}". Every emitted UUID would address the wrong package.`,
+    );
+  }
+}
 
 /** Where `unpack` writes extracted JSON, and where `clean` operates. */
 const PACK_DEST = path.resolve("./build/tmp/packs");
@@ -136,6 +160,8 @@ async function compilePacks(packName) {
   const packNames = SOURCE_PACKS.filter(
     (name) => !packName || name === packName,
   );
+
+  assertPackageIdMatchesManifest();
 
   // Generate the per-entry JSON from assets/content/ into build/packs-json/.
   const errors = await generatePacksJson({ only: packName });

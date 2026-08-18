@@ -25,3 +25,20 @@
  * @see {@link https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/issues/1441}
  */
 export const CONTENT_PACKAGE = "thalorna";
+
+/**
+ * The **Foundry package** this repository's packs are shipped in — the `id` in
+ * `assets/templates/module.template.json`, and the first segment of every
+ * compendium UUID the compilers emit.
+ *
+ * Distinct from {@link CONTENT_PACKAGE} above, which names the *content*
+ * distribution unit a note declares in its frontmatter. A note says
+ * `package: thalorna`; the documents it compiles into are addressed as
+ * `Compendium.sohl-thalorna.<pack>.<Type>.<id>`. The two are different
+ * namespaces and only coincide by accident in the system repository.
+ *
+ * Declared here rather than read from the manifest so the link resolver stays
+ * filesystem-free and unit-testable. `assertPackageIdMatchesManifest` in
+ * `build-compendiums.mjs` fails the build if the two ever drift.
+ */
+export const FOUNDRY_PACKAGE_ID = "sohl-thalorna";
