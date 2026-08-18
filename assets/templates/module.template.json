@@ -28,6 +28,12 @@
     }
   ],
   "esmodules": ["sohl-thalorna.mjs"],
+  "styles": [
+    {
+      "src": "styles/sohl-thalorna.css",
+      "layer": "sohl-thalorna"
+    }
+  ],
   "relationships": {
     "systems": [
       {

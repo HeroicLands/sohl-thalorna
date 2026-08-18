@@ -47,6 +47,10 @@ function copyFile(src, dest) {
  */
 const ASSETS = [
   ["lang", "build/stage/lang"],
+  // Declared in module.json `styles`, so Foundry loads it whenever the module
+  // is active — including under another system, where the system's stylesheet
+  // is absent and this is the only thing marking an unresolved link.
+  ["styles", "build/stage/styles"],
   ["README.md", "build/stage/README.md"],
   ["LICENSE", "build/stage/LICENSE"],
 ];
