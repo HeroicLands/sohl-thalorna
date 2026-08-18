@@ -8,23 +8,11 @@
 name: Deploy the Thalorna site to Cloudflare Pages
 
 on:
-  # Republish whenever the content, the build deriving it, the site itself, or
-  # the shared theme pin changes.
+  # Every push to `main` republishes the site. No path filter: a rebuild is
+  # cheap next to how quietly a hand-maintained path list goes stale, and a push
+  # that changes nothing the site serves merely republishes the same bytes.
   push:
     branches: [main]
-    paths:
-      - "assets/content/**"
-      - "assets/legacy-urls.json"
-      - "assets/manifests/**"
-      - "site/**"
-      - "utils/build-site-content.mjs"
-      - "utils/build-site-root.mjs"
-      - "utils/site-wikilinks.mjs"
-      - "utils/site-config.mjs"
-      - "utils/content-slug.mjs"
-      - "utils/content-tables.mjs"
-      - "utils/kb-manifest.mjs"
-      - ".github/workflows/deploy-site.yml"
   workflow_dispatch:
 
 permissions:
