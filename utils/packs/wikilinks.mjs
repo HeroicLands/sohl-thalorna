@@ -278,7 +278,24 @@ export function buildWikilinkIndex(docs, packageId, foreign, contentPackage) {
   // `types` too — without that, `polity-xyz` is read as prose and silently
   // loses its link (#1499).
   const foreignByKey = new Map(foreign ?? []);
-  for (const v of foreignByKey.values()) if (v.type) types.add(norm(v.type));
+  for (const v of foreignByKey.values()) {
+    if (!v.type) continue;
+    const t = norm(v.type);
+    // A manifest publishes `doc<type>` addresses, but `doc<type>` is a
+    // *virtual* qualifier formed by prefix — never a real type. Admitting it
+    // here would make it one, and a real type owns its own name, so the virtual
+    // reading would stop firing and every `[[docskill-wpnc]]` would resolve
+    // nowhere. The virtual form still reaches a foreign item doc: it reads as
+    // `skill` + `itemDoc`, which the manifest lookup then asks for as
+    // `docskill`.
+    if (
+      t.startsWith(ITEM_DOC_PREFIX) &&
+      types.has(t.slice(ITEM_DOC_PREFIX.length))
+    ) {
+      continue;
+    }
+    types.add(t);
+  }
 
   // Every package an address may name: this one, plus every package a vendored
   // manifest speaks for. What lets `sohl-skill-lang` be read as an address.
@@ -328,6 +345,31 @@ function findForeign(index, read) {
     }
   }
   return hits.length === 1 ? hits[0] : null;
+}
+
+/**
+ * How an **unresolved** link renders.
+ *
+ * The author's text is kept, so the sentence still reads — dropping it would
+ * silently rewrite the prose. It is marked so a reader can tell that something
+ * was meant to be a link, and a maintainer can find it. The appearance lives in
+ * the system's stylesheet, not here.
+ *
+ * @param {string} text - The text to show, from the link's label or target.
+ * @param {string} target - The address that resolved nowhere, for the tooltip.
+ * @returns {string} An HTML span. The markdown renderer passes raw HTML through.
+ */
+function unresolvedLink(text, target) {
+  const esc = (v) =>
+    String(v)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  return (
+    `<span class="sohl-unresolved-link" title="Unresolved link: ` +
+    `${esc(target)}">${esc(text)}</span>`
+  );
 }
 
 /** Matches a whole wikilink, capturing its inner text. */
@@ -388,7 +430,7 @@ export function convertWikilinks(markdown, { type, id, index }) {
       qualifiedRead = qualified;
       if (qualified?.reason) {
         unresolved.push({ link: all, target, reason: qualified.reason });
-        return all;
+        return unresolvedLink(text || target, target);
       }
       if (qualified) {
         addressed = true;
@@ -398,7 +440,7 @@ export function convertWikilinks(markdown, { type, id, index }) {
         const hit = index.byAlias.get(`${norm(type)}|${norm(target)}`);
         if (hit === null) {
           unresolved.push({ link: all, target, reason: "ambiguous" });
-          return all;
+          return unresolvedLink(text || target, target);
         }
         doc = hit;
       }
@@ -411,8 +453,13 @@ export function convertWikilinks(markdown, { type, id, index }) {
       if (hit) {
         const uuid = slug ? hit.anchors?.[slug] : hit.uuid;
         if (!uuid) {
-          unresolved.push({ link: all, target, reason: "unknown-anchor" });
-          return all;
+          unresolved.push({
+            link: all,
+            target,
+            reason: "unknown-anchor",
+            addressed: true,
+          });
+          return unresolvedLink(text || target, target);
         }
         return `@UUID[${uuid}]{${text || hit.name || target}}`;
       }
@@ -425,7 +472,7 @@ export function convertWikilinks(markdown, { type, id, index }) {
         // possibility left. A bare alias is not — it may simply be prose.
         addressed: !!qualifiedRead && !qualifiedRead.reason,
       });
-      return all;
+      return unresolvedLink(text || target, target);
     }
 
     // With no explicit label, a *qualified* target has no prose to show — a
