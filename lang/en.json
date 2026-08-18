@@ -1,1 +1,3 @@
-{}
+{
+  "THALORNA.Notification.wrongSystem": "The Thalorna Setting module is authored for the Song of Heroic Lands system. Its compendium content will not load under the {systemId} system."
+}
