@@ -28,6 +28,7 @@
     "distclean": "node utils/clean.mjs --distclean",
     "build": "npm ci && npm run build:noci",
     "build:local": "npm i && npm run build:noci",
+    "build:noci": "run-s format:check build:prepare build:link-manifest",
     "build:prepare": "run-p build:db build:system",
     "build:db": "run-s build:assets build:compiledb",
     "build:system": "node ./utils/build-system-json.mjs",

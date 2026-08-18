@@ -11,7 +11,7 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-import { copyFileSync, mkdirSync, readdirSync, statSync } from "fs";
+import { copyFileSync, existsSync, mkdirSync, readdirSync, statSync } from "fs";
 import { join, dirname } from "path";
 
 function copyFolder(src, dest) {
@@ -32,18 +32,37 @@ function copyFile(src, dest) {
   copyFileSync(src, dest);
 }
 
-// Copy custom documentation markdown to doc directory
-copyFolder("assets/docs", "build/docs");
+/**
+ * Everything this module ships, as [source, destination] pairs.
+ *
+ * This is an explicit manifest rather than the system repository's asset list,
+ * because a content module ships almost none of what a system does — no audio,
+ * icons, fonts, silhouettes, UI art or Handlebars templates. The compendium
+ * packs are not listed: `build:compiledb` compiles them into `build/stage/packs`
+ * directly from `assets/content`.
+ *
+ * A listed path that does not exist is a hard error, not a silent skip — a
+ * missing `lang/` would otherwise ship a module with no localization and no
+ * warning.
+ */
+const ASSETS = [
+  ["lang", "build/stage/lang"],
+  ["README.md", "build/stage/README.md"],
+  ["LICENSE", "build/stage/LICENSE"],
+];
 
-// Copy static assets to build/stage
-copyFolder("assets/audio", "build/stage/assets/audio");
-copyFolder("assets/icons", "build/stage/assets/icons");
-copyFolder("assets/silhouette", "build/stage/assets/silhouette");
-copyFolder("assets/fonts", "build/stage/assets/fonts");
-copyFolder("assets/ui", "build/stage/assets/ui");
-copyFolder("lang", "build/stage/lang");
-copyFolder("templates", "build/stage/templates");
-copyFile("LICENSE.md", "build/stage/LICENSE.md");
-copyFile("README.md", "build/stage/README.md");
+const missing = ASSETS.filter(([src]) => !existsSync(src)).map(([src]) => src);
+if (missing.length) {
+  console.error(
+    `❌ Cannot copy static assets — these paths do not exist:\n` +
+      missing.map((p) => `   ${p}`).join("\n"),
+  );
+  process.exit(1);
+}
 
-console.log("✅ Static assets copied.");
+for (const [src, dest] of ASSETS) {
+  if (statSync(src).isDirectory()) copyFolder(src, dest);
+  else copyFile(src, dest);
+}
+
+console.log(`✅ Static assets copied (${ASSETS.length} entries).`);

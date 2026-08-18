@@ -14,16 +14,22 @@
 import { mkdir, readFile, writeFile } from "fs/promises";
 import { resolve } from "path";
 
+// This repository ships a Foundry *module*, not a system, so it builds a
+// `module.json` from `module.template.json`. Every address below points at this
+// module's own repository: a manifest that advertised the system's URLs would
+// send Foundry to the wrong release on every update check.
+const REPO = "https://github.com/HeroicLands/sohl-thalorna";
+
 const STAGE_DIR = resolve("build/stage");
-const systemTemplatePath = resolve("assets/templates/system.template.json");
-const systemJsonPath = resolve(STAGE_DIR, "system.json");
+const moduleTemplatePath = resolve("assets/templates/module.template.json");
+const moduleJsonPath = resolve(STAGE_DIR, "module.json");
 const packageJsonPath = resolve("package.json");
 
 await mkdir(STAGE_DIR, { recursive: true });
 
 // --- Load files ---
 const [templateRaw, packageRaw] = await Promise.all([
-  readFile(systemTemplatePath, "utf-8"),
+  readFile(moduleTemplatePath, "utf-8"),
   readFile(packageJsonPath, "utf-8"),
 ]);
 
@@ -32,13 +38,12 @@ const pkg = JSON.parse(packageRaw);
 
 // --- Modify fields ---
 template.version = pkg.version;
-template.url = "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT";
-template.bugs =
-  "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/issues";
-template.manifest = `https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json`;
-template.download = `https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v${pkg.version}/system.zip`;
+template.url = REPO;
+template.bugs = `${REPO}/issues`;
+template.manifest = `${REPO}/releases/latest/download/module.json`;
+template.download = `${REPO}/releases/download/v${pkg.version}/module.zip`;
 
-// --- Write final system.json ---
-await writeFile(systemJsonPath, JSON.stringify(template, null, 2), "utf-8");
+// --- Write final module.json ---
+await writeFile(moduleJsonPath, JSON.stringify(template, null, 2), "utf-8");
 
-console.log(`✅ Wrote ${systemJsonPath}`);
+console.log(`✅ Wrote ${moduleJsonPath}`);
