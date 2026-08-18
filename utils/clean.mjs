@@ -20,7 +20,17 @@ const repoRoot = path.resolve(
   "..",
 );
 
-const dirs = ["build", ".vite", ".vitepress", ".rollup.cache"];
+const dirs = [
+  "build",
+  ".vite",
+  ".vitepress",
+  ".rollup.cache",
+  // The website: everything Hugo and the content build write beneath `site/`.
+  // Its configuration, layouts and theme submodule are committed and stay.
+  "site/content",
+  "site/public",
+  "site/resources",
+];
 
 // If "distclean" is passed as an argument, also remove node_modules
 if (process.argv.includes("--distclean")) {

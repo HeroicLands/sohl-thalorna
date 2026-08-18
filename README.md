@@ -8,7 +8,8 @@ This module provides the necessary items, actors, and assets needed to play in t
 npm install
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals}
 npm run build:link-manifest  # assets/content/ → build/manifests/thalorna.json
-npm run build:site-content   # assets/content/ → build/site/content/
+npm run build:site-content   # assets/content/ → site/content/
+npm run build:site           # the above, then Hugo → site/public/
 ```
 
 A plain checkout is all that is needed. There is no sibling repository to clone
@@ -22,8 +23,10 @@ That README is the one to read before adding or editing a note: it covers the
 frontmatter fields that carry identity, what makes a note compile into an item
 rather than a journal, and how to write a link into another package.
 
-Everything built from those notes — the compendium packs and the link manifest —
-lands under `build/`, which is gitignored. No compiled output is committed.
+Everything built from those notes — the compendium packs, the link manifest, and
+the website — is generated output: the packs and the manifest land under
+`build/`, the site under `site/content/` and `site/public/`. All of it is
+gitignored, and no compiled output is committed.
 
 The pack compiler in [`utils/packs/`](utils/packs/README.md) is a vendored copy
 of the Song of Heroic Lands system repository's, kept deliberately identical so
@@ -33,12 +36,37 @@ why each exists.
 ## Publishing to the website
 
 This repository owns exactly one path on heroiclands.org — **`/thalorna`** — and
-nothing else writes to it. `npm run build:site-content` turns `assets/content/`
-into a Hugo-ready tree under `build/site/content/`: the pages of that path,
-derived from the content this repository owns.
+builds, renders and deploys the whole of it. Nothing else writes to that prefix,
+and no other repository is in the path between these pages and their readers.
 
-Rendering that tree and deploying it is #1451, and lands next. Until it does,
-the tree is built and verified here but not yet published.
+```sh
+npm run build:site   # assets/content/ → site/content/ → site/public/
+npm run serve:site   # the same, then `hugo server` for a local preview
+```
+
+`site/` is the Hugo project: its configuration, this site's own home-page
+layout, and the shared `heroiclands-hugo-theme` as a submodule (so clone with
+`--recurse-submodules`, or run `git submodule update --init`). The pages
+themselves are generated beneath it and are not committed.
+`.github/workflows/deploy-site.yml` builds the site on every push that touches
+the content or the build deriving it, and deploys it to this package's own
+Cloudflare Pages project. That project and the routing that puts it at
+`www.heroiclands.org/thalorna` are #1468; until its credentials are set here the
+workflow builds and verifies the site, and skips the upload.
+
+### The address is written down once
+
+`baseURL` in [`site/hugo.toml`](site/hugo.toml) is the only place the site's
+address appears. The content build reads it (`utils/site-config.mjs`) and spells
+every href, redirect and link-manifest entry against it, so pointing that line at
+another prefix — or at an origin of this package's own — moves the whole site
+with one edit. Both cases are verified rather than assumed: the site rebuilds at
+`https://thalorna.example.org/` and at `https://example.org/setting/thalorna/`
+with all 28,201 internal links resolving.
+
+That is what the arrangement is for. A successor inheriting this repository and
+nothing else can publish Thalorna wherever they like, without inheriting the rest
+of the project to do it.
 
 What the build does to a note:
 

@@ -12,11 +12,16 @@
  */
 
 /**
- * Website content build — `assets/content/` → `build/site/content/` (#1451).
+ * Website content build — `assets/content/` → `site/content/` (#1451).
  *
  * This package owns exactly one path on heroiclands.org, `/thalorna`, and
  * nothing here writes outside it. The tree this script produces is the pages of
- * that path; rendering and deploying them is the other half of #1451.
+ * that path, and `site/` renders and deploys them: `npm run build:site` runs
+ * this script and then Hugo over its output.
+ *
+ * Where the site is served is read from `site/hugo.toml`, not written here —
+ * every address this build bakes into a page carries that prefix, so the two
+ * halves cannot disagree and a relocation is one line (`utils/site-config.mjs`).
  *
  * The output is the same shape the site's vault exporter produced before this
  * repository owned its content — a flat section directory per published type,
@@ -40,8 +45,9 @@
  *    before, as Hugo `aliases`, and the name its CDN artwork was uploaded under,
  *    as `artwork` (`assets/legacy-urls.json`).
  *
- * Output is a build artifact under `build/`, regenerated from source on every
- * run and never committed.
+ * Output is a build artifact, regenerated from source on every run and never
+ * committed: `site/` holds the configuration, the layouts and the theme, and
+ * the pages appear beneath it only at build time.
  *
  * Usage: node utils/build-site-content.mjs
  */
@@ -58,13 +64,43 @@ import {
   loadForeignManifests,
   manifestsComplete,
 } from "./kb-manifest.mjs";
+import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
 import { walkMarkdownTree } from "./packs/helpers.mjs";
 import { isItemDocType } from "./packs/item-docs.mjs";
 import { CONTENT_PACKAGE } from "./packs/content-package.mjs";
 
 const REPO = path.resolve(".");
 const CONTENT_SRC = path.join(REPO, "assets/content");
-const OUT = path.join(REPO, "build/site/content");
+
+/**
+ * Where the pages go: the Hugo project's content root.
+ *
+ * Generated on every run and never committed, so `site/` in the repository is
+ * the configuration, the layouts and the theme submodule — the parts a person
+ * writes — and the pages appear beneath it only at build time.
+ */
+const OUT = path.join(REPO, SITE_DIR, "content");
+
+/**
+ * The path prefix this site is served under, read from `site/hugo.toml`.
+ *
+ * Every address written into a page carries it: an `href` Hugo will not
+ * rewrite, and the base the link manifest records its entries relative to. See
+ * `utils/site-config.mjs` for why the Hugo configuration is where it is
+ * written down.
+ */
+const SITE_BASE = sitePathPrefix();
+
+/**
+ * The prefix the recorded URL history was captured under.
+ *
+ * `assets/legacy-urls.json` holds addresses this package published at on
+ * www.heroiclands.org, where it sits at `/thalorna/`. They are rebased onto
+ * {@link SITE_BASE} before becoming redirects, so relocating the site moves
+ * its history with it instead of stranding it at an address the site no longer
+ * owns.
+ */
+const LEGACY_BASE = `/${CONTENT_PACKAGE}/`;
 
 /** Manifests for packages this build links into but does not publish (#1446). */
 const MANIFEST_SRC = path.join(REPO, "assets/manifests");
@@ -237,6 +273,27 @@ function deriveBeingSohl(sohl, index) {
 }
 
 /**
+ * A recorded address as the site-root-relative one Hugo redirects from.
+ *
+ * Hugo resolves an `aliases` entry against the site root — the directory
+ * `baseURL` names — so a redirect is written without the package's own prefix
+ * and lands under whatever prefix the site is built with. Stripping the prefix
+ * it was recorded under is therefore what carries the history across a move.
+ *
+ * @param {string} recorded - An address from `assets/legacy-urls.json`.
+ * @returns {string} The address relative to the site root, leading slash kept.
+ */
+function withinPackage(recorded) {
+  if (!recorded.startsWith(LEGACY_BASE)) {
+    throw new Error(
+      `legacy-urls: ${JSON.stringify(recorded)} is not an address in this ` +
+        `package (${LEGACY_BASE}), so it is not this site's to redirect`,
+    );
+  }
+  return `/${recorded.slice(LEGACY_BASE.length)}`;
+}
+
+/**
  * Apply a page's recorded URL history: the redirects it owes and its artwork name.
  *
  * @param {object} data - Frontmatter about to be written (mutated).
@@ -255,7 +312,10 @@ function applyHistory(data, fm, slug, url) {
   // already is; that is a loop.
   const previous = (
     Array.isArray(recorded) ? recorded : recorded ? [recorded] : []
-  ).filter((u) => u && u !== url);
+  )
+    .filter(Boolean)
+    .map(withinPackage)
+    .filter((u) => `${SITE_BASE}${u.slice(1)}` !== url);
 
   if (previous.length > 0) data.aliases = previous;
   // The artwork name is the earliest address it was uploaded under: deriving a
@@ -302,7 +362,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
   const name = fm.name?.full ?? path.basename(absPath, ".md");
 
   // A `category: collection` note *is* a section's landing page, not a page
-  // within one: `Creatures.md` publishes at `/thalorna/creature/`, and the
+  // within one: `Creatures.md` publishes at the site's `creature/`, and the
   // segment is the section it introduces — authored as `section`, because it is
   // identity and is not derivable from the note's title.
   const isLanding = fm.type === "doc" && fm.category === "collection";
@@ -330,8 +390,8 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
   }
 
   const url = isLanding
-    ? `/${CONTENT_PACKAGE}/${section}/`
-    : `/${CONTENT_PACKAGE}/${section}/${slug}/`;
+    ? `${SITE_BASE}${section}/`
+    : `${SITE_BASE}${section}/${slug}/`;
 
   entries.push({
     fm,
@@ -631,6 +691,10 @@ for (const sec of knownSections) {
 for (const w of writeManifests(
   new Map([[CONTENT_PACKAGE, entries]]),
   MANIFEST_OUT,
+  // Where *this* build serves the package, which each entry's address is
+  // recorded relative to, so a consumer resolves it against its own base
+  // rather than inheriting ours (#1465).
+  { [CONTENT_PACKAGE]: SITE_BASE },
 )) {
   console.log(
     `site-content: manifest ${w.package} — ${w.count} addressable note(s)`,

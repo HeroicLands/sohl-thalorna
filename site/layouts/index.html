@@ -1,0 +1,47 @@
+{{- /*
+  SPDX-License-Identifier: GPL-3.0-or-later
+  Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
+
+  The World of Thalorna — home page.
+
+  Overrides the shared theme's `layouts/index.html`, which is the www marketing
+  hero and names sections this site does not have. A landing is the one page no
+  two consumers share, so it lives here rather than in the theme (issue #1454).
+
+  The section list is read from the site itself rather than written out by hand:
+  a new section appears here the moment the content build emits one, and a
+  retired one leaves without anybody having to remember. Every address resolves
+  through `.RelPermalink` or `relURL`, so the page is correct under any
+  `baseURL`.
+*/ -}}
+{{ define "main" }}
+{{- $home := .Site.Params.home | default dict -}}
+{{- $hero := partial "cdn-url.html" (dict "site" .Site "path" ($home.heroimage | default "images/banners/default.webp")) -}}
+<section class="hero hero-with-image" style="background-image: url('{{ $hero }}');">
+  <div class="hero-inner">
+    <h1>{{ $home.herotitle | default .Site.Title }}</h1>
+    {{- with $home.herotagline }}
+    <p class="hero-tagline">{{ . }}</p>
+    {{- end }}
+  </div>
+</section>
+
+<article class="single">
+  <div class="single-content">
+    {{- with .Content }}
+    <div class="single-body">{{ . }}</div>
+    {{- end }}
+
+    <ul class="page-list">
+      {{- range .Site.Sections.ByTitle }}
+      <li class="page-list-item">
+        <a class="page-list-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- with .Params.description }}
+        <span class="page-list-desc">{{ . }}</span>
+        {{- end }}
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,105 @@
+# Build and deploy /thalorna — this repository's own website (#1451).
+#
+# This package renders its own HTML and publishes its own subtree. No other
+# repository is in the path between it and its readers: a checkout, the theme
+# submodule, Node and Hugo are the whole build, and the deploy uses credentials
+# scoped to this package's own hosting project. That is what makes the package
+# movable — a successor inheriting only this repository can publish it (#1444).
+name: Deploy the Thalorna site to Cloudflare Pages
+
+on:
+  # Republish whenever the content, the build deriving it, the site itself, or
+  # the shared theme pin changes.
+  push:
+    branches: [main]
+    paths:
+      - "assets/content/**"
+      - "assets/legacy-urls.json"
+      - "assets/manifests/**"
+      - "site/**"
+      - "utils/build-site-content.mjs"
+      - "utils/site-wikilinks.mjs"
+      - "utils/site-config.mjs"
+      - "utils/content-slug.mjs"
+      - "utils/content-tables.mjs"
+      - "utils/kb-manifest.mjs"
+      - ".github/workflows/deploy-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: thalorna-site-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    # Job-level, so each step's `if` can ask whether the credentials exist:
+    # a secret cannot be tested directly in a condition.
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - name: Checkout (with the theme submodule)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.163.3"
+          extended: true
+
+      - name: Build the site
+        run: npm run build:site
+
+      # Cloudflare Pages serves the deployment's 404.html — with a real
+      # 404 status — for any unmatched path, and falls back to the site
+      # root when the file is missing. That fallback is a soft-404 (200
+      # carrying the landing page), which reads as success to every link
+      # check, so assert the file exists rather than discovering its
+      # absence in production (#1416).
+      - name: Verify the 404 page was built
+        run: test -s site/public/404.html
+
+      # Nothing outside /thalorna is this repository's to publish, and a
+      # deploy is a whole-subtree replacement — so prove the tree carries
+      # a home page and the sections, and stop before uploading if the
+      # build came out empty.
+      - name: Verify the tree is a complete site
+        run: |
+          test -s site/public/index.html
+          pages=$(find site/public -name index.html | wc -l)
+          echo "site/public carries $pages page(s)"
+          test "$pages" -gt 1000
+
+      # The hosting project and the path-prefix routing that puts it at
+      # www.heroiclands.org/thalorna are #1468. Until its credentials are
+      # set here the build still runs on every push — which is the half
+      # of this workflow that catches a broken site — and the upload
+      # skips rather than failing.
+      - name: Deploy to Cloudflare Pages (production)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site/public --project-name=sohl-thalorna --branch=main
+
+      - name: Say why nothing was uploaded
+        if: ${{ env.CLOUDFLARE_API_TOKEN == '' || env.CLOUDFLARE_ACCOUNT_ID == '' }}
+        run: |
+          echo "::notice::Built the site but did not deploy it: this repository has no" \
+               "CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID yet. The hosting project is #1468."
