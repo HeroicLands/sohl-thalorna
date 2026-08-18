@@ -90,6 +90,31 @@ jobs:
       # set here the build still runs on every push — which is the half
       # of this workflow that catches a broken site — and the upload
       # skips rather than failing.
+      # A Pages project is account state, not repository state, so without
+      # this a clone of this repository plus a scoped token still could not
+      # publish: someone would have to know to create the project by hand
+      # first. That hidden step is exactly what the succession test behind
+      # #1444 exists to remove, and it costs one API call to close.
+      #
+      # Checked before creating rather than tolerating the create's failure,
+      # so a genuine error (a bad token, a revoked scope) still fails the run.
+      - name: Ensure the hosting project exists
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
+        run: |
+          set -euo pipefail
+          api="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects"
+          code=$(curl -sS -o /dev/null -w '%{http_code}' \
+                 -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
+                 "${api}/sohl-thalorna")
+          case "$code" in
+            200) echo "Pages project sohl-thalorna already exists." ;;
+            404) echo "Creating Pages project sohl-thalorna."
+                 npx --yes wrangler@4 pages project create sohl-thalorna \
+                   --production-branch=main ;;
+            *)   echo "::error::Cloudflare answered ${code} for the project lookup."
+                 exit 1 ;;
+          esac
+
       - name: Deploy to Cloudflare Pages (production)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
         uses: cloudflare/wrangler-action@v3
