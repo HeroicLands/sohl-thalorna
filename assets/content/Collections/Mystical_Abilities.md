@@ -24,6 +24,62 @@ Arcane incantations are divided by tradition.
 
 - [[doc-hexhodai|Hex Hodai]]
 
+### Incantus Hydälis
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "hydalis" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Kentra
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "kentra" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Physéra
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "physera" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Pneuménos
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "pneumenos" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Pyréthos
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "pyrethos" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Sidéros
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "sideros" and package = "thalorna"
+SORT name.full ASC
+```
+
+### Incantus Zephäris
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "zepharis" and package = "thalorna"
+SORT name.full ASC
+```
+
 ## Arcane Talent
 
 ```dataview
@@ -44,7 +100,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and SubType = "spiritaction" and package = "thalorna"
+WHERE type = "mysticalability" and sohl.subType = "spiritaction" and package = "thalorna"
 SORT name.full ASC
 ```
 
