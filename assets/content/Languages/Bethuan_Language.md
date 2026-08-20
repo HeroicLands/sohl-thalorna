@@ -166,7 +166,7 @@ The borrowing followed the realm's history. When Ta'Kheperu backed Bethûan inde
 The loans are overwhelmingly **concrete nouns**, and they pile up exactly where the modern state and economy do:
 
 | Domain                 | Bethuan loan (illustrative) | Meaning                           | Kheperi source / note                                           |
-| ---------------------- | --------------------------- | --------------------------------- | --------------------------------------------------------------- | ------------------------------ |
+| ---------------------- | --------------------------- | --------------------------------- | --------------------------------------------------------------- |
 | Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Kheperi taught                          |
 |                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                        |
 |                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                        |
@@ -178,7 +178,7 @@ The loans are overwhelmingly **concrete nouns**, and they pile up exactly where 
 |                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                              |
 | Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Sep Tepy_                                         |
 |                        | _Akhet, Peret, Shemu_       | the three seasons                 | the Kheperi agricultural year                                   |
-| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫꜣt_, "balance"; tied to the [[affiliation-arldnpnthn | Æthérían]] oracle's "weighing" |
+| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫꜣt_, "balance"; tied to the [[affiliation-arldnpnthn\|Æthérían]] oracle's "weighing" |
 | Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                               |
 |                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                         |
 

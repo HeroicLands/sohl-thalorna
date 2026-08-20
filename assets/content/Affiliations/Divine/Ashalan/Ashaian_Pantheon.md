@@ -41,18 +41,18 @@ After death, the soul crosses the **Chinvat Bridge** — the Bridge of the Separ
 ## The Twelve
 
 | Domain     | Deity         | Epithet                   | Symbol                                         | Faith                                      |
-| ---------- | ------------- | ------------------------- | ---------------------------------------------- | ------------------------------------------ | --------------------- |
-| Dreams     | **Zárványä**  | The Weaver of Visions     | Silver crescent moon with trailing threads     | [[affiliation-zarvanya                     | Faith of Zarvanya]]   |
-| Death      | **Ázráván**   | Lord of the Final Horizon | Black sun with a golden edge                   | [[affiliation-azravan                     | Faith of Azravan]]    |
-| Storms     | **Báhrámiš**  | The Thunder Rider         | Spear wrapped in a spiral of clouds            | [[affiliation-bahramis                     | Faith of Bahramis]]   |
-| Order      | **Āhúrdáén**  | The Keeper of Harmony     | Golden flame encircled by stars                | [[affiliation-ahurdaen                     | Faith of Ahurdaen]]   |
-| Knowledge  | **Khóršádrä** | Bearer of Eternal Light   | Golden sunburst with radiant beams             | [[affiliation-korsadra                   | Faith of Khorshadra]] |
-| Prosperity | **Árávēštä**  | The Golden Giver          | Golden chalice overflowing with wine and fruit | [[affiliation-aravesta                     | Faith of Araveshta]]  |
-| Fertility  | **Zúráthrä**  | Mother of the Oasis       | Flowing spring encircled by palm fronds        | [[affiliation-zurathra                     | Faith of Zurathra]]   |
-| Fire       | **Ātáröš**    | The Sacred Flame          | Flame atop an altar, encircled by sparks       | [[affiliation-ataros                     | Faith of Ataros]]     |
-| Creation   | **Míthárä**   | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mithara                     | Faith of Mithara]]    |
-| Chaos      | **Ángáróš**   | The Shadowed Serpent      | Serpent coiled around a broken blade           | [[affiliation-angaros                     | Faith of Angaros]]    |
-| Voyages    | **Šírvádár**  | The Wandering Guide       | Star chart etched on a golden disc             | [[affiliation-sirvadar                     | Faith of Sirvadar]]   |
+| ---------- | ------------- | ------------------------- | ---------------------------------------------- | ------------------------------------------ |
+| Dreams     | **Zárványä**  | The Weaver of Visions     | Silver crescent moon with trailing threads     | [[affiliation-zarvanya\|Faith of Zarvanya]]   |
+| Death      | **Ázráván**   | Lord of the Final Horizon | Black sun with a golden edge                   | [[affiliation-azravan\|Faith of Azravan]]    |
+| Storms     | **Báhrámiš**  | The Thunder Rider         | Spear wrapped in a spiral of clouds            | [[affiliation-bahramis\|Faith of Bahramis]]   |
+| Order      | **Āhúrdáén**  | The Keeper of Harmony     | Golden flame encircled by stars                | [[affiliation-ahurdaen\|Faith of Ahurdaen]]   |
+| Knowledge  | **Khóršádrä** | Bearer of Eternal Light   | Golden sunburst with radiant beams             | [[affiliation-korsadra\|Faith of Khorshadra]] |
+| Prosperity | **Árávēštä**  | The Golden Giver          | Golden chalice overflowing with wine and fruit | [[affiliation-aravesta\|Faith of Araveshta]]  |
+| Fertility  | **Zúráthrä**  | Mother of the Oasis       | Flowing spring encircled by palm fronds        | [[affiliation-zurathra\|Faith of Zurathra]]   |
+| Fire       | **Ātáröš**    | The Sacred Flame          | Flame atop an altar, encircled by sparks       | [[affiliation-ataros\|Faith of Ataros]]     |
+| Creation   | **Míthárä**   | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mithara\|Faith of Mithara]]    |
+| Chaos      | **Ángáróš**   | The Shadowed Serpent      | Serpent coiled around a broken blade           | [[affiliation-angaros\|Faith of Angaros]]    |
+| Voyages    | **Šírvádár**  | The Wandering Guide       | Star chart etched on a golden disc             | [[affiliation-sirvadar\|Faith of Sirvadar]]   |
 | Decay      | **Mórváhñä**   | The Silent Keeper         | Crescent moon cradling a wilting flower        | [[affiliation-morvahna\|Faith of Mórváhñä]] |
 
 ## Temple and Priesthood Structure

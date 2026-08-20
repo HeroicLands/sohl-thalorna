@@ -44,17 +44,17 @@ The Asguardian pantheon is the dominant religious tradition of the northern and 
 ## The Ten
 
 | Domain                                  | Deity      | Epithet              | Symbol                                 | Faith            |
-| --------------------------------------- | ---------- | -------------------- | -------------------------------------- | ---------------- | ----------------- |
-| Dead & Underworld                       | **Hél**    | The Despiser of Life | Obsidian shard and the Eye of the Void | [[affiliation-hel   | Faith of Hél]]    |
-| Elder Races, Dreams & Light             | **Baldr**  | The Radiant One      | Sunstone and silver leaf               | [[affiliation-baldr   | Faith of Baldr]]  |
-| Fertility, Agriculture, Peace & Healing | **Fréyr**  | The Healer           | Sheaf of wheat and healing herb bundle | [[affiliation-freyr   | Faith of Fréyr]]  |
-| Love, Beauty & Prosperity               | **Fréyja** | The Golden One       | Rose petal and silver coin             | [[affiliation-freyja   | Faith of Fréyja]] |
-| Cunning, Deception & Thieves            | **Lôki**   | The Trickster        | Serpent skin and shadowed glass        | [[affiliation-loki    | Faith of Lôki]]   |
-| Knowledge & Wisdom                      | **Óðinn**  | The All-Father       | Raven feather and runestone            | [[affiliation-odinn | Faith of Óðinn]]  |
-| Fire & Savage Battle                    | **Súrtr**  | The Destroyer        | Ember and volcanic rock                | [[affiliation-surtr   | Faith of Súrtr]]  |
-| War, Reavers & Sea                      | **Thórr**  | The Thunderer        | Hammer stone (Mjolnir) and sea shell   | [[affiliation-thorr   | Faith of Thórr]]  |
-| Justice & Honorable Combat              | **Týr**    | The Just             | Iron scale and oath ring               | [[affiliation-tyr   | Faith of Týr]]    |
-| Creation & Dreadspawn                   | **Ymir**   | The Creator          | Fragment of the Forge                  | [[affiliation-ymir    | Faith of Ymir]]   |
+| --------------------------------------- | ---------- | -------------------- | -------------------------------------- | ---------------- |
+| Dead & Underworld                       | **Hél**    | The Despiser of Life | Obsidian shard and the Eye of the Void | [[affiliation-hel\|Faith of Hél]]    |
+| Elder Races, Dreams & Light             | **Baldr**  | The Radiant One      | Sunstone and silver leaf               | [[affiliation-baldr\|Faith of Baldr]]  |
+| Fertility, Agriculture, Peace & Healing | **Fréyr**  | The Healer           | Sheaf of wheat and healing herb bundle | [[affiliation-freyr\|Faith of Fréyr]]  |
+| Love, Beauty & Prosperity               | **Fréyja** | The Golden One       | Rose petal and silver coin             | [[affiliation-freyja\|Faith of Fréyja]] |
+| Cunning, Deception & Thieves            | **Lôki**   | The Trickster        | Serpent skin and shadowed glass        | [[affiliation-loki\|Faith of Lôki]]   |
+| Knowledge & Wisdom                      | **Óðinn**  | The All-Father       | Raven feather and runestone            | [[affiliation-odinn\|Faith of Óðinn]]  |
+| Fire & Savage Battle                    | **Súrtr**  | The Destroyer        | Ember and volcanic rock                | [[affiliation-surtr\|Faith of Súrtr]]  |
+| War, Reavers & Sea                      | **Thórr**  | The Thunderer        | Hammer stone (Mjolnir) and sea shell   | [[affiliation-thorr\|Faith of Thórr]]  |
+| Justice & Honorable Combat              | **Týr**    | The Just             | Iron scale and oath ring               | [[affiliation-tyr\|Faith of Týr]]    |
+| Creation & Dreadspawn                   | **Ymir**   | The Creator          | Fragment of the Forge                  | [[affiliation-ymir\|Faith of Ymir]]   |
 
 ## Theological Foundations
 
