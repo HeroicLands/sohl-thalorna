@@ -3,7 +3,7 @@ aliases:
   - Father Iztéban Alkássar
   - Father Iztéban Alkássar
   - Father Izteban Alkassar
-  - character-frztbnlksr
+  - being-frztbnlksr
 tags:
   - heroes-and-knaves
   - todo
@@ -21,7 +21,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: frztbnlksr
 img: icons/person.svg
 portrait: images/being/frztbnlksr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn
@@ -727,7 +727,7 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 
 ### Patrons
 
-- **Sir [[character-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A loyal knight and Iztéban’s close friend, Sir [[character-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[character-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
+- **Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
 - **Archbishop Valerio Córdava**
 
 ### Enemies
@@ -737,7 +737,7 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 
 ### Affiliations
 
-- **Sir [[character-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A staunch advocate of chivalry and honor, Sir [[character-srndrslrcknghtwstrnmrchs|Andrés]] was impressed with Father Iztéban’s commitment and dedication, and has decided to support his goals. Their friendship is borne out of mutual respect and admiration.
+- **Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A staunch advocate of chivalry and honor, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] was impressed with Father Iztéban’s commitment and dedication, and has decided to support his goals. Their friendship is borne out of mutual respect and admiration.
 
 ## Plot Hooks
 

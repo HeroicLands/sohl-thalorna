@@ -1,7 +1,7 @@
 ---
 aliases:
   - Stonebeast
-  - creature-stnbst
+  - being-stnbst
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: vkJVD3VzKCKvgPCx
 img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/stnbst-portrait.webp
 shortcode: stnbst
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

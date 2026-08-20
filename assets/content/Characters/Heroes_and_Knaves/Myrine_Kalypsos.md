@@ -1,7 +1,7 @@
 ---
 aliases:
   - Myrine Kalypsos
-  - character-myrnklypss
+  - being-myrnklypss
 tags:
   - heroes-and-knaves
   - character
@@ -19,7 +19,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: myrnklypss
 img: icons/person.svg
 portrait: images/being/myrnklypss-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provinclys
@@ -728,7 +728,7 @@ Her success has been notable. She has not built a mass movement — that is not 
 
 ### Kallistratos
 
-Myrine met [[character-klstrtsxrchds|Kallistratos Exarchides]] in Velysâra, where she had returned to the temple for one of her periodic visits. Kallistratos came to the temple seeking what he called "perspective" — drawn by an interest in Vúlcan that his Ordo training framed as academic but that Myrine recognized immediately as spiritual hunger. She saw in him not just a potential convert but a figure of genuine significance: a man of extraordinary arcane talent, noble blood, burning anger, and the kind of driven ambition that the Black Flame teaches is the truest expression of Vúlcan's will.
+Myrine met [[being-klstrtsxrchds|Kallistratos Exarchides]] in Velysâra, where she had returned to the temple for one of her periodic visits. Kallistratos came to the temple seeking what he called "perspective" — drawn by an interest in Vúlcan that his Ordo training framed as academic but that Myrine recognized immediately as spiritual hunger. She saw in him not just a potential convert but a figure of genuine significance: a man of extraordinary arcane talent, noble blood, burning anger, and the kind of driven ambition that the Black Flame teaches is the truest expression of Vúlcan's will.
 
 She also saw something in the flames. During a private divination shortly after their first meeting, Myrine read in the fire a vision of Kallistratos at the center of a great conflagration — not merely a physical fire but a transformation, a burning-away of old structures that would leave something new in its wake. The vision was vivid but ambiguous, as all genuine fire readings are: it might mean his ascension to power, or his destruction, or both. What it meant with certainty was that Vúlcan had marked him, and that Myrine's path was now bound to his.
 
@@ -778,9 +778,9 @@ Her relationship with Kallistratos is both her greatest work and her greatest vu
 
 ### Companions
 
-- **[[character-klstrtsxrchds|Kallistratos Exarchides]]**: The young Ordo Arcanis fire mage whom Myrine considers her life's most important work. She serves as his spiritual advisor, fire reader, and — from her perspective — the instrument of Vúlcan's will in his life. Their relationship is warm, genuine, and deeply unequal in ways Kallistratos has not yet perceived.
-- **[[character-phltsklfts|Philetos Kleftes]]**: The company's tactician. Myrine respects his mind and his usefulness but considers him a man of limited vision — capable of solving problems but incapable of grasping the larger purpose that drives her.
-- **[[character-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The blade dancer and diplomat. Myrine finds him interesting — his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
+- **[[being-klstrtsxrchds|Kallistratos Exarchides]]**: The young Ordo Arcanis fire mage whom Myrine considers her life's most important work. She serves as his spiritual advisor, fire reader, and — from her perspective — the instrument of Vúlcan's will in his life. Their relationship is warm, genuine, and deeply unequal in ways Kallistratos has not yet perceived.
+- **[[being-phltsklfts|Philetos Kleftes]]**: The company's tactician. Myrine respects his mind and his usefulness but considers him a man of limited vision — capable of solving problems but incapable of grasping the larger purpose that drives her.
+- **[[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The blade dancer and diplomat. Myrine finds him interesting — his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
 
 ### Patrons
 

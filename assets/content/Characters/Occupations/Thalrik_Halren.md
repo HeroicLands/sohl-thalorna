@@ -2,7 +2,7 @@
 aliases:
   - Thálrik Hálren
   - Thalrik Halren
-  - character-thalrkhlrn
+  - being-thalrkhlrn
 tags: []
 name:
   full: Thálrik Hálren
@@ -18,7 +18,7 @@ shortcode: thalrkhlrn
 img: icons/person.svg
 draft: true
 portrait: images/being/thalrkhlrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcutter

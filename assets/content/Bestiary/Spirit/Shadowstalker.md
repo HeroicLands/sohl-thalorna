@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadowstalker
-  - creature-shdwstlk
+  - being-shdwstlk
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: K30OECnGa5hVR22R
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/shdwstlk-portrait.webp
 shortcode: shdwstlk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

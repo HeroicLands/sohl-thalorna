@@ -3,7 +3,7 @@ aliases:
   - Björg Drekanótt
   - Björg Drekanótt
   - Bjorg Drekanott
-  - character-bjorgdrknt
+  - being-bjorgdrknt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: bjorgdrknt
 img: icons/person.svg
 portrait: images/being/bjorgdrknt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

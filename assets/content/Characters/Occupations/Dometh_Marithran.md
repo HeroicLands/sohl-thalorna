@@ -2,7 +2,7 @@
 aliases:
   - Dómeth Maríthran
   - Dometh Marithran
-  - character-dmthmrthrn
+  - being-dmthmrthrn
 tags: []
 name:
   full: Dómeth Maríthran
@@ -18,7 +18,7 @@ shortcode: dmthmrthrn
 img: icons/person.svg
 draft: true
 portrait: images/being/dmthmrthrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thespian

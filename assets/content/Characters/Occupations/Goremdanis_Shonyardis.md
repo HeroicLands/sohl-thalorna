@@ -2,7 +2,7 @@
 aliases:
   - Goremdânis Shônyàrdîs
   - Goremdanis Shonyardis
-  - character-grmdnshnyrds
+  - being-grmdnshnyrds
 tags: []
 name:
   full: Goremdânis Shônyàrdîs
@@ -18,7 +18,7 @@ shortcode: grmdnshnyrds
 img: icons/person.svg
 draft: true
 portrait: images/being/grmdnshnyrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Musician (Lyre)

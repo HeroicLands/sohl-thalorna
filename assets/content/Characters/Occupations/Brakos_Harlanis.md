@@ -2,7 +2,7 @@
 aliases:
   - Brákôs Hârlânis
   - Brakos Harlanis
-  - character-brakshrlns
+  - being-brakshrlns
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: brakshrlns
 img: icons/person.svg
 draft: true
 portrait: images/being/brakshrlns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

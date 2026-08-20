@@ -1,7 +1,7 @@
 ---
 aliases:
   - Frostmaw
-  - creature-frostmaw
+  - being-frostmaw
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: eUOcXzXo2vWIG2sf
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/frostmaw-portrait.webp
 shortcode: frostmaw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

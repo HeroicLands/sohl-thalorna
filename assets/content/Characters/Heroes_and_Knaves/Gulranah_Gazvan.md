@@ -3,7 +3,7 @@ aliases:
   - Gulrânah Gazvân
   - Gulrânah Gazvân
   - Gulranah Gazvan
-  - character-gulrnhgzvn
+  - being-gulrnhgzvn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: gulrnhgzvn
 img: icons/person.svg
 portrait: images/being/gulrnhgzvn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

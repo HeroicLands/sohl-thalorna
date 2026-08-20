@@ -1,7 +1,7 @@
 ---
 aliases:
   - Goda Barnwell
-  - character-godabarnwl
+  - being-godabarnwl
 tags: []
 name:
   full: Goda Barnwell
@@ -17,7 +17,7 @@ shortcode: godabarnwl
 img: icons/person.svg
 draft: true
 portrait: images/being/godabarnwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Potter

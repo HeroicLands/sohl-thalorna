@@ -2,7 +2,7 @@
 aliases:
   - Ràkhîmêa Khalîthôn
   - Rakhimea Khalithon
-  - character-rkhmkhlthn
+  - being-rkhmkhlthn
 tags: []
 name:
   full: Ràkhîmêa Khalîthôn
@@ -18,7 +18,7 @@ shortcode: rkhmkhlthn
 img: icons/person.svg
 draft: true
 portrait: images/being/rkhmkhlthn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

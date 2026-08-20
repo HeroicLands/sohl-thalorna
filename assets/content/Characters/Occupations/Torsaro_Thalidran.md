@@ -2,7 +2,7 @@
 aliases:
   - Tórsaro Thalídran
   - Torsaro Thalidran
-  - character-trsrthldrn
+  - being-trsrthldrn
 tags: []
 name:
   full: Tórsaro Thalídran
@@ -18,7 +18,7 @@ shortcode: trsrthldrn
 img: icons/person.svg
 draft: true
 portrait: images/being/trsrthldrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Infantry

@@ -2,7 +2,7 @@
 aliases:
   - Sǫlmundr Blóthǫll
   - Solmundr Blotholl
-  - character-slmndrblthl
+  - being-slmndrblthl
 tags: []
 name:
   full: Sǫlmundr Blóthǫll
@@ -18,7 +18,7 @@ shortcode: slmndrblthl
 img: icons/person.svg
 draft: true
 portrait: images/being/slmndrblthl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Archer

@@ -2,7 +2,7 @@
 aliases:
   - Fródwyn Dómhár
   - Frodwyn Domhar
-  - character-frdwyndmhr
+  - being-frdwyndmhr
 tags: []
 name:
   full: Fródwyn Dómhár
@@ -18,7 +18,7 @@ shortcode: frdwyndmhr
 img: icons/person.svg
 draft: true
 portrait: images/being/frdwyndmhr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scholar

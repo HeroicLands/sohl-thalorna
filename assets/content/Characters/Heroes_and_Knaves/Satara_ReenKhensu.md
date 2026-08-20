@@ -2,7 +2,7 @@
 aliases:
   - Satara Re'en'Khensu
   - Satara ReenKhensu
-  - character-satrrnkhns
+  - being-satrrnkhns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: satrrnkhns
 img: icons/person.svg
 portrait: images/being/satrrnkhns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

@@ -2,7 +2,7 @@
 aliases:
   - Lâmzû Damîkî
   - Lamzu Damiki
-  - character-lamzudamik
+  - being-lamzudamik
 tags: []
 name:
   full: Lâmzû Damîkî
@@ -18,7 +18,7 @@ shortcode: lamzudamik
 img: icons/person.svg
 draft: true
 portrait: images/being/lamzudamik-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scribe

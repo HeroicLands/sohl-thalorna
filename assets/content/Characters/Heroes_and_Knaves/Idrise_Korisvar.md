@@ -3,7 +3,7 @@ aliases:
   - Ídrisè Kórisvar
   - Ídrisè Kórisvar
   - Idrise Korisvar
-  - character-idriskrsvr
+  - being-idriskrsvr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: idriskrsvr
 img: icons/person.svg
 portrait: images/being/idriskrsvr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz

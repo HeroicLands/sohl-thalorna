@@ -2,7 +2,7 @@
 aliases:
   - Yálith Kálmereth
   - Yalith Kalmereth
-  - character-ylthklmrth
+  - being-ylthklmrth
 tags: []
 name:
   full: Yálith Kálmereth
@@ -18,7 +18,7 @@ shortcode: ylthklmrth
 img: icons/person.svg
 draft: true
 portrait: images/being/ylthklmrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bard

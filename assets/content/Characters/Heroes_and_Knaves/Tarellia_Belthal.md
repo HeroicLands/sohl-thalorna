@@ -3,7 +3,7 @@ aliases:
   - Tárellia Bélthal
   - Tárellia Bélthal
   - Tarellia Belthal
-  - character-tarelblthl
+  - being-tarelblthl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: tarelblthl
 img: icons/person.svg
 portrait: images/being/tarelblthl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

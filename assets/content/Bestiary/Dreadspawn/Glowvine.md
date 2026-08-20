@@ -1,7 +1,7 @@
 ---
 aliases:
   - Glowvine
-  - creature-glowvine
+  - being-glowvine
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: dQx4jt8bWKxTwaOT
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/glowvine-portrait.webp
 shortcode: glowvine
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

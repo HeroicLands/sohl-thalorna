@@ -2,7 +2,7 @@
 aliases:
   - Bâlden Stýlgon
   - Balden Stylgon
-  - character-bldnstylgn
+  - being-bldnstylgn
 tags: []
 name:
   full: Bâlden Stýlgon
@@ -18,7 +18,7 @@ shortcode: bldnstylgn
 img: icons/person.svg
 draft: true
 portrait: images/being/bldnstylgn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Skald

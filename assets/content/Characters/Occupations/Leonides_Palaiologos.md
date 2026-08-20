@@ -2,7 +2,7 @@
 aliases:
   - Leónidês Palaiológos
   - Leonides Palaiologos
-  - character-lendspllgs
+  - being-lendspllgs
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: lendspllgs
 img: icons/person.svg
 draft: true
 portrait: images/being/lendspllgs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

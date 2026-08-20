@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ylíra Skorrsdottir
-  - character-ylrskrsdtr
+  - being-ylrskrsdtr
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: ylrskrsdtr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/ylrskrsdtr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

@@ -2,7 +2,7 @@
 aliases:
   - Sigríthr Hafringr
   - Sigrithr Hafringr
-  - character-sgrthrhfrngr
+  - being-sgrthrhfrngr
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: sgrthrhfrngr
 img: icons/person.svg
 draft: true
 portrait: images/being/sgrthrhfrngr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

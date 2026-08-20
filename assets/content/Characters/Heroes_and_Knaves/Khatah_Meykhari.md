@@ -2,7 +2,7 @@
 aliases:
   - Khatah Mey'khari
   - Khatah Meykhari
-  - character-khathmykhr
+  - being-khathmykhr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
 img: icons/person.svg
 portrait: images/being/khathmykhr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

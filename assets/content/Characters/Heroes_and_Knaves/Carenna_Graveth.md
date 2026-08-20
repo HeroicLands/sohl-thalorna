@@ -3,7 +3,7 @@ aliases:
   - Cárenna Gráveth
   - Cárenna Gráveth
   - Carenna Graveth
-  - character-carengrvth
+  - being-carengrvth
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: carengrvth
 img: icons/person.svg
 portrait: images/being/carengrvth-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

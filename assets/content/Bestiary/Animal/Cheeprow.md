@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cheeprow
-  - creature-cheeprow
+  - being-cheeprow
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: IlhU4aquYsNBK4Q1
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/cheeprow-portrait.webp
 shortcode: cheeprow
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

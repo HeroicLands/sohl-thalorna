@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hrafnkell Hrafnsvald
-  - character-hrfnklhrfnsvld
+  - being-hrfnklhrfnsvld
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hrfnklhrfnsvld
 img: icons/person.svg
 portrait: images/being/hrfnklhrfnsvld-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd
@@ -693,11 +693,11 @@ Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark br
 
 ### From War to Craft
 
-Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the Kingdom of Vithgard's levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[character-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
+Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the Kingdom of Vithgard's levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[being-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
 ### The Homecoming
 
-When Hrafnkell finally returned from the wars at thirty-three, he found his wife dead—killed in a bandit raid on the farm while he was away fighting someone else's battles. His son [[character-bjlfhrfnsvld|Bjalfi]], then fifteen, had survived and was already hardening into something fierce and angry. The boy blamed his father for not being there, and Hrafnkell could not argue with him. The guilt of that absence—and the knowledge that his wife died unprotected because he had chosen soldiering over family—has never left him. [[character-bjlfhrfnsvld|Bjalfi]] soon joined the militia himself, and the two Hrafnsvald men settled into an uneasy coexistence: living in the same kingdom, seeing each other from time to time, but never quite able to speak about the thing that sits between them.
+When Hrafnkell finally returned from the wars at thirty-three, he found his wife dead—killed in a bandit raid on the farm while he was away fighting someone else's battles. His son [[being-bjlfhrfnsvld|Bjalfi]], then fifteen, had survived and was already hardening into something fierce and angry. The boy blamed his father for not being there, and Hrafnkell could not argue with him. The guilt of that absence—and the knowledge that his wife died unprotected because he had chosen soldiering over family—has never left him. [[being-bjlfhrfnsvld|Bjalfi]] soon joined the militia himself, and the two Hrafnsvald men settled into an uneasy coexistence: living in the same kingdom, seeing each other from time to time, but never quite able to speak about the thing that sits between them.
 
 ### The Apprenticeship
 
@@ -755,8 +755,8 @@ Hrafnkell is driven by a simple but profound conviction: good shelter saves live
 
 - **The Tentmakers' Guild of Vithgard**: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
 - **The Old Soldiers' Lodge**: An informal fraternity of veterans who gather monthly to share drink and stories. Hrafnkell contributes his skills and craftsmanship to the Lodge's projects.
-- **[[character-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Brother)**: Hrafnkell's elder brother by eight years, a celebrated clothier in the Kingdom of Norgaad. [[character-thjthrhrfnsvld|Thjótharr]] left Vithgard long before Hrafnkell enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Hrafnkell finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[character-thjthrhrfnsvld|Thjótharr]] has never once failed to send something extravagant for the winter holidays.
-- **[[character-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Son)**: Hrafnkell's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Hrafnkell is quietly proud of the man [[character-bjlfhrfnsvld|Bjalfi]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
+- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Brother)**: Hrafnkell's elder brother by eight years, a celebrated clothier in the Kingdom of Norgaad. [[being-thjthrhrfnsvld|Thjótharr]] left Vithgard long before Hrafnkell enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Hrafnkell finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-thjthrhrfnsvld|Thjótharr]] has never once failed to send something extravagant for the winter holidays.
+- **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Son)**: Hrafnkell's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Hrafnkell is quietly proud of the man [[being-bjlfhrfnsvld|Bjalfi]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
 
 ## Plot Hooks
 

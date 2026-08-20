@@ -1,7 +1,7 @@
 ---
 aliases:
   - Stormseer
-  - creature-strmsr
+  - being-strmsr
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: TXoRX749dQrUkWYC
 img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/strmsr-portrait.webp
 shortcode: strmsr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

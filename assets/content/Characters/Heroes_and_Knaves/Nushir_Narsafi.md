@@ -3,7 +3,7 @@ aliases:
   - Nushir Narsâfî
   - Nushir Narsâfî
   - Nushir Narsafi
-  - character-nushirnrsf
+  - being-nushirnrsf
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: nushirnrsf
 img: icons/person.svg
 portrait: images/being/nushirnrsf-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

@@ -2,7 +2,7 @@
 aliases:
   - Hàrêkôs Bàremzâtôr
   - Harekos Baremzator
-  - character-hrksbrmztr
+  - being-hrksbrmztr
 tags: []
 name:
   full: Hàrêkôs Bàremzâtôr
@@ -18,7 +18,7 @@ shortcode: hrksbrmztr
 img: icons/person.svg
 draft: true
 portrait: images/being/hrksbrmztr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thatcher

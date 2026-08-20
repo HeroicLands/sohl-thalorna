@@ -2,7 +2,7 @@
 aliases:
   - Old Fire Dragon
   - Fire Wyrm
-  - creature-oldfrdrg
+  - being-oldfrdrg
 tags:
   - mythic
   - image-needed
@@ -14,7 +14,7 @@ id: 4g9BryPNyWeQLBA0
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/oldfrdrg-portrait.webp
 shortcode: oldfrdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

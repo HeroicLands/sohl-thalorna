@@ -3,7 +3,7 @@ aliases:
   - Thorsteinn Járnskel
   - Thorsteinn Járnskel
   - Thorsteinn Jarnskel
-  - character-thrstnjrnskl
+  - being-thrstnjrnskl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnjrnskl
 img: icons/person.svg
 portrait: images/being/thrstnjrnskl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmnrgd

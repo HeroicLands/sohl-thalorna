@@ -3,7 +3,7 @@ aliases:
   - Kêlena Stýlgon
   - Kêlena Stýlgon
   - Kelena Stylgon
-  - character-kelnstylgn
+  - being-kelnstylgn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: kelnstylgn
 img: icons/person.svg
 portrait: images/being/kelnstylgn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz

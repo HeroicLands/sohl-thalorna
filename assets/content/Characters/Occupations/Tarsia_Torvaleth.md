@@ -2,7 +2,7 @@
 aliases:
   - Társia Torvaleth
   - Tarsia Torvaleth
-  - character-tarstrvlth
+  - being-tarstrvlth
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: tarstrvlth
 img: icons/person.svg
 draft: true
 portrait: images/being/tarstrvlth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

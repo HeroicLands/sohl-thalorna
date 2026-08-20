@@ -1,7 +1,7 @@
 ---
 aliases:
   - Oswin Harden
-  - character-oswinhardn
+  - being-oswinhardn
 tags: []
 name:
   full: Oswin Harden
@@ -17,7 +17,7 @@ shortcode: oswinhardn
 img: icons/person.svg
 draft: true
 portrait: images/being/oswinhardn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

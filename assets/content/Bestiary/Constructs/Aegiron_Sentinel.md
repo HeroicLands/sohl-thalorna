@@ -1,7 +1,7 @@
 ---
 aliases:
   - Aegiron Sentinel
-  - creature-agrnsntn
+  - being-agrnsntn
 tags:
   - construct
 name:
@@ -12,7 +12,7 @@ id: 0XIdKN3uKTf5qx8n
 img: icons/game-icons/delapouite/golem-head.svg
 portrait: images/being/agrnsntn-portrait.webp
 shortcode: agrnsntn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: construct

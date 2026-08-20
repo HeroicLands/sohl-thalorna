@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Beaver
-  - creature-gntbvr
+  - being-gntbvr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: sChYtBXlCKoOHaHl
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/gntbvr-portrait.webp
 shortcode: gntbvr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

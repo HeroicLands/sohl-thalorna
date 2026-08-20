@@ -3,7 +3,7 @@ aliases:
   - Vígbrandr Skýrekkr
   - Vígbrandr Skýrekkr
   - Vigbrandr Skyrekkr
-  - character-vgbrndrskyrkr
+  - being-vgbrndrskyrkr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: vgbrndrskyrkr
 img: icons/person.svg
 portrait: images/being/vgbrndrskyrkr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrgd

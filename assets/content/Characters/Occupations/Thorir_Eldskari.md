@@ -2,7 +2,7 @@
 aliases:
   - Thórir Eldskari
   - Thorir Eldskari
-  - character-thorrldskr
+  - being-thorrldskr
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: thorrldskr
 img: icons/person.svg
 draft: true
 portrait: images/being/thorrldskr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

@@ -3,7 +3,7 @@ aliases:
   - Vīrāṅgaśikharam Dukṣana
   - Vīrāṅgaśikharam Dukṣana
   - Virangasikharam Duksana
-  - character-vrgskhrmdkn
+  - being-vrgskhrmdkn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: vrgskhrmdkn
 img: icons/person.svg
 portrait: images/being/vrgskhrmdkn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: suvrgrjnpd

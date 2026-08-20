@@ -3,7 +3,7 @@ aliases:
   - Kassándria Bessarîon
   - Kassándria Bessarîon
   - Kassandria Bessarion
-  - character-kasndrbsrn
+  - being-kasndrbsrn
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: kasndrbsrn
 img: icons/person.svg
 portrait: images/being/kasndrbsrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

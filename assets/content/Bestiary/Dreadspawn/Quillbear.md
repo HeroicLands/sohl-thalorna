@@ -1,7 +1,7 @@
 ---
 aliases:
   - Quillbear
-  - creature-qllbr
+  - being-qllbr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: oqNIZvLCRl1RMynG
 img: icons/game-icons/delapouite/bear-head.svg
 portrait: images/being/qllbr-portrait.webp
 shortcode: qllbr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

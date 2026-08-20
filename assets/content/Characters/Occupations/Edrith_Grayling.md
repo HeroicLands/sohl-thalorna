@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edrith Grayling
-  - character-edrthgrylng
+  - being-edrthgrylng
 tags: []
 name:
   full: Edrith Grayling
@@ -17,7 +17,7 @@ shortcode: edrthgrylng
 img: icons/person.svg
 draft: true
 portrait: images/being/edrthgrylng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hideworker

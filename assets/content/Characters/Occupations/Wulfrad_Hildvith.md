@@ -2,7 +2,7 @@
 aliases:
   - Wulfrád Hildvith
   - Wulfrad Hildvith
-  - character-wlfrdhldvth
+  - being-wlfrdhldvth
 tags: []
 name:
   full: Wulfrád Hildvith
@@ -18,7 +18,7 @@ shortcode: wlfrdhldvth
 img: icons/person.svg
 draft: true
 portrait: images/being/wlfrdhldvth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms (Sapper)

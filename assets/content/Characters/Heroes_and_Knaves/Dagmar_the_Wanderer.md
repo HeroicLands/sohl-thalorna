@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dagmar the Wanderer
-  - character-dagmrwndrr
+  - being-dagmrwndrr
 tags:
   - heroes-and-knaves
   - hero
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: dagmrwndrr
 img: icons/person.svg
 portrait: images/being/dagmrwndrr-portrait.webp
-type: character
+type: being
 package: thalorna
 sohl:
   attributes:
@@ -675,7 +675,7 @@ Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and 
 
 # Dossier {#dossier}
 
-Dagmar is a skald from the far northern reaches of Norgaad, where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[character-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Dagmar is a skald from the far northern reaches of Norgaad, where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ### Skills and Abilities
 
@@ -698,11 +698,11 @@ Dagmar is a skald from the far northern reaches of Norgaad, where he wandered fr
 
 ### Personality
 
-Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[character-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seiðr as a kindred spirit, both outcasts who walk between worlds.
+Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seiðr as a kindred spirit, both outcasts who walk between worlds.
 
 ### Motivation
 
-Dagmar’s interest in [[character-grosdrnrgd|Gróa]] lies in the Seiðr’s connection to the spirit world, which fascinates him. She sees [[character-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
+Dagmar’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seiðr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
 
 ### Strengths
 

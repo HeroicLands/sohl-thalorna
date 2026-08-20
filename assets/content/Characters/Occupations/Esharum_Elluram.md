@@ -2,7 +2,7 @@
 aliases:
   - Eshârum Ellûram
   - Esharum Elluram
-  - character-esharumlrm
+  - being-esharumlrm
 tags: []
 name:
   full: Eshârum Ellûram
@@ -18,7 +18,7 @@ shortcode: esharumlrm
 img: icons/person.svg
 draft: true
 portrait: images/being/esharumlrm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Domestic Servant

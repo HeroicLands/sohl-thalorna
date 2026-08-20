@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sevion Myrkelis
-  - character-sevnmyrkls
+  - being-sevnmyrkls
 tags:
   - heroes-and-knaves
   - hero
@@ -17,7 +17,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: sevnmyrkls
 img: icons/person.svg
 portrait: images/being/sevnmyrkls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

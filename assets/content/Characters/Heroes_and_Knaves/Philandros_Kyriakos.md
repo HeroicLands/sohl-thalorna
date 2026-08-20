@@ -3,7 +3,7 @@ aliases:
   - Philándros Kyriákos
   - Philándros Kyriákos
   - Philandros Kyriakos
-  - character-phlndrskyrks
+  - being-phlndrskyrks
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: phlndrskyrks
 img: icons/person.svg
 portrait: images/being/phlndrskyrks-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

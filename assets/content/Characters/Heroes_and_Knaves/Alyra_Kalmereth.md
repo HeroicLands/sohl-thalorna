@@ -3,7 +3,7 @@ aliases:
   - Ályra Kálmereth
   - Ályra Kálmereth
   - Alyra Kalmereth
-  - character-alyrklmrth
+  - being-alyrklmrth
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: alyrklmrth
 img: icons/person.svg
 portrait: images/being/alyrklmrth-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

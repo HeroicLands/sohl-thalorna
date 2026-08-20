@@ -1,7 +1,7 @@
 ---
 aliases:
   - Eshârum Tarûzî
-  - character-esharumtrz
+  - being-esharumtrz
 tags:
   - tamzir-crew
 name:
@@ -17,7 +17,7 @@ shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/esharumtrz-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: cnfdrtnhrdnstts

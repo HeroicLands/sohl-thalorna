@@ -1,7 +1,7 @@
 ---
 aliases:
   - Flamewraith
-  - creature-flmwrth
+  - being-flmwrth
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: IkisGKow2uz3lPSw
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/flmwrth-portrait.webp
 shortcode: flmwrth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

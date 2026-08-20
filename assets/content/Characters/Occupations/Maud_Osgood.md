@@ -1,7 +1,7 @@
 ---
 aliases:
   - Maud Osgood
-  - character-maudosgood
+  - being-maudosgood
 tags: []
 name:
   full: Maud Osgood
@@ -17,7 +17,7 @@ shortcode: maudosgood
 img: icons/person.svg
 draft: true
 portrait: images/being/maudosgood-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Beggar

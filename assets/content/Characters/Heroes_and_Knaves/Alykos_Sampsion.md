@@ -3,7 +3,7 @@ aliases:
   - Alýkos Sampsiôn
   - Alýkos Sampsiôn
   - Alykos Sampsion
-  - character-alykosmpsn
+  - being-alykosmpsn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: alykosmpsn
 img: icons/person.svg
 portrait: images/being/alykosmpsn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

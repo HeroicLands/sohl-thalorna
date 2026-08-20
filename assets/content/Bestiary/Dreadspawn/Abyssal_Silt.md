@@ -1,7 +1,7 @@
 ---
 aliases:
   - Abyssal Silt
-  - creature-abysslsl
+  - being-abysslsl
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 1afcBWsxQXPUIBxG
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/abysslsl-portrait.webp
 shortcode: abysslsl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

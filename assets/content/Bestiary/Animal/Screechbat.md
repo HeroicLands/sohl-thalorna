@@ -1,7 +1,7 @@
 ---
 aliases:
   - Screechbat
-  - creature-scrchbt
+  - being-scrchbt
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: lHuMVOj4m48jiGcS
 img: icons/game-icons/delapouite/bat.svg
 portrait: images/being/scrchbt-portrait.webp
 shortcode: scrchbt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

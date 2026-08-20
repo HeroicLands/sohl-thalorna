@@ -2,7 +2,7 @@
 aliases:
   - Hallveig Stormrót
   - Hallveig Stormrot
-  - character-hlvgstrmrt
+  - being-hlvgstrmrt
 tags: []
 name:
   full: Hallveig Stormrót
@@ -18,7 +18,7 @@ shortcode: hlvgstrmrt
 img: icons/person.svg
 draft: true
 portrait: images/being/hlvgstrmrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: "Mage (Illusion)"

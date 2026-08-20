@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sigyn the Enchantress
-  - character-sgynnchntrs
+  - being-sgynnchntrs
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: sgynnchntrs
 img: icons/person.svg
 portrait: images/being/sgynnchntrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Courtier and Counselor

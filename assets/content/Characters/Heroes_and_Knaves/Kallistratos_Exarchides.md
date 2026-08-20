@@ -1,7 +1,7 @@
 ---
 aliases:
   - Kallistratos Exarchides
-  - character-klstrtsxrchds
+  - being-klstrtsxrchds
 tags:
   - heroes-and-knaves
   - hero
@@ -17,7 +17,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: klstrtsxrchds
 img: icons/person.svg
 portrait: images/being/klstrtsxrchds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provinclys
@@ -727,7 +727,7 @@ This conviction — that strength earned through mastery was the only true found
 
 ### Myrine Kalypsos and the Black Flame
 
-It was in Velysâra, during the restless months after his elevation to Adeptus, that Kallistratos first encountered [[character-myrnklypss|Myrine Kalypsos]], a priestess of [[affiliation-blackflame|The Black Flame]]. Though Kallistratos was raised in the Flóranian tradition and had never given the Black Flame much thought, Myrine's philosophy struck a nerve. She didn't preach at him — she simply talked, asked questions, and listened. When he spoke of his family's downfall, she nodded and asked whether the houses that destroyed them had done so through moral virtue or through strength. When he described his vision of fire as a purifying force, she smiled and said he already understood what most people spent their lives denying. She never told him he was wrong about anything. She only made him feel that his instincts — that power was earned, that weakness invited ruin, that fire burned away what deserved to burn — were not just personal convictions but ancient truths that Vúlcan himself had ordained.
+It was in Velysâra, during the restless months after his elevation to Adeptus, that Kallistratos first encountered [[being-myrnklypss|Myrine Kalypsos]], a priestess of [[affiliation-blackflame|The Black Flame]]. Though Kallistratos was raised in the Flóranian tradition and had never given the Black Flame much thought, Myrine's philosophy struck a nerve. She didn't preach at him — she simply talked, asked questions, and listened. When he spoke of his family's downfall, she nodded and asked whether the houses that destroyed them had done so through moral virtue or through strength. When he described his vision of fire as a purifying force, she smiled and said he already understood what most people spent their lives denying. She never told him he was wrong about anything. She only made him feel that his instincts — that power was earned, that weakness invited ruin, that fire burned away what deserved to burn — were not just personal convictions but ancient truths that Vúlcan himself had ordained.
 
 Kallistratos has not formally embraced the Black Flame. He still considers himself a follower of Flórania, and he would say that his reverence for Vúlcan is a natural extension of his work as a Pyréthos mage, nothing more. But Myrine's influence runs deeper than he admits. She has given him a framework for his anger, a theology for his ambition, and a sense that his desire to reshape the world through fire is not just justified but divinely mandated. Whether he realizes it or not, she is grooming him — patiently, warmly, and with absolute conviction — toward the Black Flame's doctrine that might makes right.
 
@@ -799,9 +799,9 @@ His association with Myrine Kalypsos is a growing liability. The Black Flame's p
 
 ### Companions
 
-- **[[character-phltsklfts|Philetos Kleftes]]**: The fire-sworn strategist, a tactician and planner who complements Kallistratos's directness with careful forethought.
-- **[[character-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kallistratos's temperament would keep firmly shut.
-- **[[character-myrnklypss|Myrine Kalypsos]]**: The mendicant priestess of the Black Flame, who travels with the group as a spiritual advisor and fire diviner. Her influence on Kallistratos is the most significant and least recognized danger in his life.
+- **[[being-phltsklfts|Philetos Kleftes]]**: The fire-sworn strategist, a tactician and planner who complements Kallistratos's directness with careful forethought.
+- **[[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kallistratos's temperament would keep firmly shut.
+- **[[being-myrnklypss|Myrine Kalypsos]]**: The mendicant priestess of the Black Flame, who travels with the group as a spiritual advisor and fire diviner. Her influence on Kallistratos is the most significant and least recognized danger in his life.
 
 ## Plot Hooks
 

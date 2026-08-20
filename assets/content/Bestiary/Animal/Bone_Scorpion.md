@@ -1,7 +1,7 @@
 ---
 aliases:
   - Bone Scorpion
-  - creature-bnscrpn
+  - being-bnscrpn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 6qq2ohVEMdu3Lmwo
 img: icons/game-icons/lorc/scorpion.svg
 portrait: images/being/bnscrpn-portrait.webp
 shortcode: bnscrpn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

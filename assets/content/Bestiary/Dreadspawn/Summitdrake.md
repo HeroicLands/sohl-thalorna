@@ -1,7 +1,7 @@
 ---
 aliases:
   - Summitdrake
-  - creature-smmtdrk
+  - being-smmtdrk
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: I96v45Ggz9t91r4o
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/smmtdrk-portrait.webp
 shortcode: smmtdrk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

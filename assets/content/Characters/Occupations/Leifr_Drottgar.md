@@ -2,7 +2,7 @@
 aliases:
   - Leifr Dróttgar
   - Leifr Drottgar
-  - character-leifrdrtgr
+  - being-leifrdrtgr
 tags: []
 name:
   full: Leifr Dróttgar
@@ -18,7 +18,7 @@ shortcode: leifrdrtgr
 img: icons/person.svg
 draft: true
 portrait: images/being/leifrdrtgr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Farmer

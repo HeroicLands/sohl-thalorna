@@ -3,7 +3,7 @@ aliases:
   - Gávrilos Niktariôtês
   - Gávrilos Niktariôtês
   - Gavrilos Niktariotes
-  - character-gvrlsnktrts
+  - being-gvrlsnktrts
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: gvrlsnktrts
 img: icons/person.svg
 portrait: images/being/gvrlsnktrts-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

@@ -2,7 +2,7 @@
 aliases:
   - Lýraen Válskyr
   - Lyraen Valskyr
-  - character-lyrnvlskyr
+  - being-lyrnvlskyr
 tags: []
 name:
   full: Lýraen Válskyr
@@ -18,7 +18,7 @@ shortcode: lyrnvlskyr
 img: icons/person.svg
 draft: true
 portrait: images/being/lyrnvlskyr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Domestic Servant

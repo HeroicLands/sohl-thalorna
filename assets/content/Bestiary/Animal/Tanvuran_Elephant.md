@@ -2,7 +2,7 @@
 aliases:
   - Tānvüran Elephant
   - Tanvuran Elephant
-  - creature-tnvrnelp
+  - being-tnvrnelp
 tags:
   - animal
 name:
@@ -13,7 +13,7 @@ id: hKF5XSPgvAUIQtLc
 img: icons/game-icons/delapouite/elephant.svg
 portrait: images/being/tnvrnelp-portrait.webp
 shortcode: tnvrnelp
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

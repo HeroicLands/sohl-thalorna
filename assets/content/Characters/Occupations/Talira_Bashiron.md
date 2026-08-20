@@ -2,7 +2,7 @@
 aliases:
   - Tàlîra Bâshirôn
   - Talira Bashiron
-  - character-talirbshrn
+  - being-talirbshrn
 tags: []
 name:
   full: Tàlîra Bâshirôn
@@ -18,7 +18,7 @@ shortcode: talirbshrn
 img: icons/person.svg
 draft: true
 portrait: images/being/talirbshrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Alchemist

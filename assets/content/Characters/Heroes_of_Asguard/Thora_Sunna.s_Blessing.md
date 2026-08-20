@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thora Sunna's Blessing
-  - character-thrsnsblsng
+  - being-thrsnsblsng
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thrsnsblsng
 img: icons/person.svg
 portrait: images/being/thrsnsblsng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

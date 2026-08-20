@@ -1,7 +1,7 @@
 ---
 aliases:
   - Wystan Osgood
-  - character-wystanosgd
+  - being-wystanosgd
 tags: []
 name:
   full: Wystan Osgood
@@ -17,7 +17,7 @@ shortcode: wystanosgd
 img: icons/person.svg
 draft: true
 portrait: images/being/wystanosgd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ratter

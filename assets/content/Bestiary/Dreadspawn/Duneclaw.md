@@ -1,7 +1,7 @@
 ---
 aliases:
   - Duneclaw
-  - creature-duneclaw
+  - being-duneclaw
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 2DpHrcNw4BfmRgld
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/duneclaw-portrait.webp
 shortcode: duneclaw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

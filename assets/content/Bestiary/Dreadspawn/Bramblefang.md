@@ -1,7 +1,7 @@
 ---
 aliases:
   - Bramblefang
-  - creature-brmblfng
+  - being-brmblfng
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 6KSkMKbbQE2We7kA
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/brmblfng-portrait.webp
 shortcode: brmblfng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

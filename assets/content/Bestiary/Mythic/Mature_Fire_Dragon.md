@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mature Fire Dragon
-  - creature-mtrfrdrg
+  - being-mtrfrdrg
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: KnuTXF76FU1MTtAN
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/mtrfrdrg-portrait.webp
 shortcode: mtrfrdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

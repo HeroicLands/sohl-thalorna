@@ -23,7 +23,7 @@ folder: tUOAFxX25mViDE7q
 - **Type:** Sinalëan enclave (destroyed)
 - **Location:** Deep interior of [[doc-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
 - **Status:** Corrupted necropolis; no living inhabitants
-- **Current Master:** [[character-grmsvrtrnr|Gríma Svartrúnar]]
+- **Current Master:** [[being-grmsvrtrnr|Gríma Svartrúnar]]
 
 ## Overview
 
@@ -33,7 +33,7 @@ The enclave was small by Sinalëan standards — perhaps a few hundred souls at 
 
 ## Destruction
 
-The fall of Laurelossë is the most notorious deed of [[character-grmsvrtrnr|Gríma Svartrúnar]], a Nightwight necromancer in the service of [[affiliation-hel|Hél]]. The goddess tasked Gríma with the enclave's destruction — whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
+The fall of Laurelossë is the most notorious deed of [[being-grmsvrtrnr|Gríma Svartrúnar]], a Nightwight necromancer in the service of [[affiliation-hel|Hél]]. The goddess tasked Gríma with the enclave's destruction — whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
 
 Under cover of night, Gríma pierced the enclave's ancient wards — a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Hél's direct intercession. Once inside, he carved black runes into the earth itself, corrupting the natural energies that bound the sanctuary together. The corruption spread like a sickness, twisting the ancient trees, poisoning the waters, and turning the wards that once protected the enclave into a cage that trapped its inhabitants.
 
@@ -63,7 +63,7 @@ Among the Normen, the blight spreading from the corrupted valley has become a gr
 
 ## See Also
 
-- [[character-grmsvrtrnr|Gríma Svartrúnar]] — The Nightwight necromancer who destroyed the enclave
+- [[being-grmsvrtrnr|Gríma Svartrúnar]] — The Nightwight necromancer who destroyed the enclave
 - [[doc-flksinale|Sinalë]] — The Firstborn; the elder race that built and inhabited Laurelossë
 - [[doc-kngdmnrdhm|Kingdom of Nordheim]] — The kingdom in whose deep interior Laurelossë was hidden
 - [[affiliation-hel|Faith of Hél]] — The goddess who commanded the enclave's destruction

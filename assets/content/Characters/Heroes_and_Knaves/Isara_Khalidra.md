@@ -1,7 +1,7 @@
 ---
 aliases:
   - Isâra Khalîdra
-  - character-isarakhldr
+  - being-isarakhldr
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
 img: icons/person.svg
 portrait: images/being/isarakhldr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: theradon

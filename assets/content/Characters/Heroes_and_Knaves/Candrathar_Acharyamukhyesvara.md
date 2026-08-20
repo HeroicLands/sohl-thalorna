@@ -3,7 +3,7 @@ aliases:
   - Càndrathar Āchāryamukhyēśvara
   - Càndrathar Āchāryamukhyēśvara
   - Candrathar Acharyamukhyesvara
-  - character-cndrthrchrymkhysvr
+  - being-cndrthrchrymkhysvr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: cndrthrchrymkhysvr
 img: icons/person.svg
 portrait: images/being/cndrthrchrymkhysvr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: rajaprjnpd
@@ -736,7 +736,7 @@ Càndrathar is driven by survival—not merely physical survival, but the preser
 
 2. **The Mentor's Ghost**: A group of investigators arrives from the outer provinces seeking information about the death of **Master Karī Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or professional rivalry. Càndrathar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so embedded in his psyche that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
 
-3. **The Collector's Commission**: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[character-carengrvth|Cárenna Gráveth]]**, who will stop at nothing to protect her if she learns of the plot.
+3. **The Collector's Commission**: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Cárenna Gráveth]]**, who will stop at nothing to protect her if she learns of the plot.
 
 4. **The Guild's Reckoning**: The Apothecaries' Guild votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to ensure compliance with new regulations regarding controlled substances. Càndrathar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandávar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and decide whether to disappear or to compromise Mandávar and the guild leadership through revelation of their own secrets and complicity in his crimes.
 

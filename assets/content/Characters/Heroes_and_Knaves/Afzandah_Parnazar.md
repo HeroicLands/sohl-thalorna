@@ -3,7 +3,7 @@ aliases:
   - Afzandah Parnâzar
   - Afzandah Parnâzar
   - Afzandah Parnazar
-  - character-afzndhprnzr
+  - being-afzndhprnzr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: afzndhprnzr
 img: icons/person.svg
 portrait: images/being/afzndhprnzr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hrothgar Ironfist
-  - character-hrthgrrnfst
+  - being-hrthgrrnfst
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hrthgrrnfst
 img: icons/person.svg
 portrait: images/being/hrthgrrnfst-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Blacksmith and Warrior

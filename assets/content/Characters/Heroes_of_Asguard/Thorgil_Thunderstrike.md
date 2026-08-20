@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thorgil Thunderstrike
-  - character-thrglthndrstrk
+  - being-thrglthndrstrk
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thrglthndrstrk
 img: icons/person.svg
 portrait: images/being/thrglthndrstrk-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Champion

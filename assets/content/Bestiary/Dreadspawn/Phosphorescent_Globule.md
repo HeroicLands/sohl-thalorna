@@ -1,7 +1,7 @@
 ---
 aliases:
   - Phosphorescent Globule
-  - creature-phsphrsc
+  - being-phsphrsc
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: WQjWcb6PtRpcRxGe
 img: icons/game-icons/delapouite/slime.svg
 portrait: images/being/phsphrsc-portrait.webp
 shortcode: phsphrsc
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

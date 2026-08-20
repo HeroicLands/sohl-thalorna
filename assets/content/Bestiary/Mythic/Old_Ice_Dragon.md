@@ -2,7 +2,7 @@
 aliases:
   - Old Ice Dragon
   - Frost Wyrm
-  - creature-oldicdrg
+  - being-oldicdrg
 tags:
   - mythic
   - image-needed
@@ -14,7 +14,7 @@ id: IHBBFMFd2LieAudc
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/oldicdrg-portrait.webp
 shortcode: oldicdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

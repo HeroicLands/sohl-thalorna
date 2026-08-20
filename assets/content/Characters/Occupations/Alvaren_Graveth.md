@@ -2,7 +2,7 @@
 aliases:
   - Alváren Gráveth
   - Alvaren Graveth
-  - character-alvrngrvth
+  - being-alvrngrvth
 tags: []
 name:
   full: Alváren Gráveth
@@ -18,7 +18,7 @@ shortcode: alvrngrvth
 img: icons/person.svg
 draft: true
 portrait: images/being/alvrngrvth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Salter

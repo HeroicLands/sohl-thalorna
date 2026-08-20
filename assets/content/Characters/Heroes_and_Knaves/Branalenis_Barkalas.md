@@ -3,7 +3,7 @@ aliases:
   - Brânalenîs Bárkalâs
   - Brânalenîs Bárkalâs
   - Branalenis Barkalas
-  - character-brnlnsbrkls
+  - being-brnlnsbrkls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: brnlnsbrkls
 img: icons/person.svg
 portrait: images/being/brnlnsbrkls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provinclys

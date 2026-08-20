@@ -2,7 +2,7 @@
 aliases:
   - Hródar Skáldrith
   - Hrodar Skaldrith
-  - character-hrdrskldrth
+  - being-hrdrskldrth
 tags: []
 name:
   full: Hródar Skáldrith
@@ -18,7 +18,7 @@ shortcode: hrdrskldrth
 img: icons/person.svg
 draft: true
 portrait: images/being/hrdrskldrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercenary

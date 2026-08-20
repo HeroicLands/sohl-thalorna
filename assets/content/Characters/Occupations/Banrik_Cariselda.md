@@ -2,7 +2,7 @@
 aliases:
   - Bánrik Cáriselda
   - Banrik Cariselda
-  - character-banrkcrsld
+  - being-banrkcrsld
 tags: []
 name:
   full: Bánrik Cáriselda
@@ -18,7 +18,7 @@ shortcode: banrkcrsld
 img: icons/person.svg
 draft: true
 portrait: images/being/banrkcrsld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bodyguard

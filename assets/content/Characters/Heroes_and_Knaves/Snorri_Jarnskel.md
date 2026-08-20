@@ -3,7 +3,7 @@ aliases:
   - Snorri Járnskel
   - Snorri Járnskel
   - Snorri Jarnskel
-  - character-snorjrnskl
+  - being-snorjrnskl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: snorjrnskl
 img: icons/person.svg
 portrait: images/being/snorjrnskl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

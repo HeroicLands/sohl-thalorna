@@ -3,7 +3,7 @@ aliases:
   - Leónantos Stratégopoulos
   - Leónantos Stratégopoulos
   - Leonantos Strategopoulos
-  - character-lnntstrtgpls
+  - being-lnntstrtgpls
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: lnntstrtgpls
 img: icons/person.svg
 portrait: images/being/lnntstrtgpls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

@@ -2,7 +2,7 @@
 aliases:
   - Émyna Óthral
   - Emyna Othral
-  - character-emynaothrl
+  - being-emynaothrl
 tags: []
 name:
   full: Émyna Óthral
@@ -18,7 +18,7 @@ shortcode: emynaothrl
 img: icons/person.svg
 draft: true
 portrait: images/being/emynaothrl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Courtesan

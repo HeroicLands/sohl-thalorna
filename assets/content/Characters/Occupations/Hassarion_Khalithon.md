@@ -2,7 +2,7 @@
 aliases:
   - Hassârìon Khalîthôn
   - Hassarion Khalithon
-  - character-hsrnkhlthn
+  - being-hsrnkhlthn
 tags: []
 name:
   full: Hassârìon Khalîthôn
@@ -18,7 +18,7 @@ shortcode: hsrnkhlthn
 img: icons/person.svg
 draft: true
 portrait: images/being/hsrnkhlthn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Nobility (Tenant-in-chief)

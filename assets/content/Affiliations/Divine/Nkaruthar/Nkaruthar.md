@@ -51,7 +51,7 @@ The theology of Nkaru'thar holds that the Eternal Flame's power divides into thr
 
 **Vuthráka — The Wild Flame** (red fire) The flame of war, protection, and destruction. Vuthráka guards the southern frontier of Okháris. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats. Ruled by the **Warden of the Flame**, a warrior-priest who commands Okháris's armies during times of conflict. The Wild Flame governs the body and the battlefield: strength, courage, sacrifice, and the violent renewal that follows destruction.
 
-The three aspects are not rivals but necessary complements — spirit without strength is helpless, strength without wisdom is blind, and neither endures without prosperity. The Overlord, currently [[character-takorozanethar|Tákoro Zanethar]] (the Keeper of the Three Flames), embodies the unity of all three, regularly visiting each city-state's temple to participate in grand ceremonies that reaffirm the wholeness of the Eternal Flame.
+The three aspects are not rivals but necessary complements — spirit without strength is helpless, strength without wisdom is blind, and neither endures without prosperity. The Overlord, currently [[being-takorozanethar|Tákoro Zanethar]] (the Keeper of the Three Flames), embodies the unity of all three, regularly visiting each city-state's temple to participate in grand ceremonies that reaffirm the wholeness of the Eternal Flame.
 
 ## The Zohira: Intermediary Spirits
 

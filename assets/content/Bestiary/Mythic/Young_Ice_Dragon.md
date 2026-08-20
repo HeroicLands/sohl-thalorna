@@ -1,7 +1,7 @@
 ---
 aliases:
   - Young Ice Dragon
-  - creature-yngicdrg
+  - being-yngicdrg
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: 7ifxZxScmlMHr44B
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/yngicdrg-portrait.webp
 shortcode: yngicdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

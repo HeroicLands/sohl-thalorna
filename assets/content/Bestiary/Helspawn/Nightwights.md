@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nightwights
-  - creature-nghtwght
+  - being-nghtwght
 tags:
   - helspawn
 name:
@@ -12,7 +12,7 @@ id: Kpo7Htb3b9uJEh6x
 img: icons/game-icons/delapouite/person.svg
 portrait: images/being/nghtwght-portrait.webp
 shortcode: nghtwght
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: helspawn

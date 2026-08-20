@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mountain Drake
-  - creature-mntndrk
+  - being-mntndrk
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: LtrwdR2jwzBxLm9J
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/mntndrk-portrait.webp
 shortcode: mntndrk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

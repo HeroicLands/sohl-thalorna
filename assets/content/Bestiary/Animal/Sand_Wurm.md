@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sand Wurm
-  - creature-sandwurm
+  - being-sandwurm
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 7hW9W4pXEtgVMSMD
 img: icons/game-icons/lorc/worm-mouth.svg
 portrait: images/being/sandwurm-portrait.webp
 shortcode: sandwurm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

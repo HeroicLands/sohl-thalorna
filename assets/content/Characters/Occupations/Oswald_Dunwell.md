@@ -1,7 +1,7 @@
 ---
 aliases:
   - Oswald Dunwell
-  - character-oswaldunwl
+  - being-oswaldunwl
 tags: []
 name:
   full: Oswald Dunwell
@@ -17,7 +17,7 @@ shortcode: oswaldunwl
 img: icons/person.svg
 draft: true
 portrait: images/being/oswaldunwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Nobility (Manor Lord)

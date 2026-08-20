@@ -1,7 +1,7 @@
 ---
 aliases:
   - Razanash Mervaran
-  - character-rznshmrvrn
+  - being-rznshmrvrn
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: rznshmrvrn
 img: icons/person.svg
 portrait: images/being/rznshmrvrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

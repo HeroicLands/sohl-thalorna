@@ -2,7 +2,7 @@
 aliases:
   - Vandaric Gárskald
   - Vandaric Garskald
-  - character-vndrcgrskld
+  - being-vndrcgrskld
 tags: []
 name:
   full: Vandaric Gárskald
@@ -18,7 +18,7 @@ shortcode: vndrcgrskld
 img: icons/person.svg
 draft: true
 portrait: images/being/vndrcgrskld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ostler

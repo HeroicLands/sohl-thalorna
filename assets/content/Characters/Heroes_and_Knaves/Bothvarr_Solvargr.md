@@ -3,7 +3,7 @@ aliases:
   - Bǫthvarr Sólvargr
   - Bǫthvarr Sólvargr
   - Bothvarr Solvargr
-  - character-bthvrslvrgr
+  - being-bthvrslvrgr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: bthvrslvrgr
 img: icons/person.svg
 portrait: images/being/bthvrslvrgr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdomlgn

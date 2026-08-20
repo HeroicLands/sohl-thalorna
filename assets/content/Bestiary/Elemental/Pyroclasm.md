@@ -1,7 +1,7 @@
 ---
 aliases:
   - Pyroclasm
-  - creature-pyrclsm
+  - being-pyrclsm
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: 2ubjJNt3rPAcOeTj
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/pyrclsm-portrait.webp
 shortcode: pyrclsm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

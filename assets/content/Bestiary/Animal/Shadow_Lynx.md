@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadow Lynx
-  - creature-shdwlynx
+  - being-shdwlynx
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: i1hrH7tYkoFMzTzq
 img: icons/game-icons/delapouite/lynx-head.svg
 portrait: images/being/shdwlynx-portrait.webp
 shortcode: shdwlynx
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

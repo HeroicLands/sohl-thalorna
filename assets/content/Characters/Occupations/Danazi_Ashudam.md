@@ -2,7 +2,7 @@
 aliases:
   - Dânâzi Ashûdam
   - Danazi Ashudam
-  - character-danazishdm
+  - being-danazishdm
 tags: []
 name:
   full: Dânâzi Ashûdam
@@ -18,7 +18,7 @@ shortcode: danazishdm
 img: icons/person.svg
 draft: true
 portrait: images/being/danazishdm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gladiator

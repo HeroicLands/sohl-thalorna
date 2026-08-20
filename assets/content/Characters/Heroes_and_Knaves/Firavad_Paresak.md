@@ -3,7 +3,7 @@ aliases:
   - Firâvâd Pâresak
   - Firâvâd Pâresak
   - Firavad Paresak
-  - character-firavdprsk
+  - being-firavdprsk
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: kCKYObmsvraIezCd
 shortcode: firavdprsk
 img: icons/person.svg
 portrait: images/being/firavdprsk-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dunhartrbs

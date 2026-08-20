@@ -62,7 +62,7 @@ The current **First Smith of the Per-Aá** (_Imy-Khent Mesnu_), the guild's chai
 
 ## Notable Members
 
-- **[[character-shenurbapt|Shenur Bapata]]** — Master of the highest standing; widely regarded as the finest active armorer in the empire. He maintains formal guild registration and pays dues but refuses leadership positions, working out of a personal forge in his home city. His standing contract with the **Imperial Military Quartermaster's Office** grants him priority access to the finest raw materials in imperial warehouses — an arrangement that some Council members consider a quiet violation of guild equality and that Shenur considers earned.
+- **[[being-shenurbapt|Shenur Bapata]]** — Master of the highest standing; widely regarded as the finest active armorer in the empire. He maintains formal guild registration and pays dues but refuses leadership positions, working out of a personal forge in his home city. His standing contract with the **Imperial Military Quartermaster's Office** grants him priority access to the finest raw materials in imperial warehouses — an arrangement that some Council members consider a quiet violation of guild equality and that Shenur considers earned.
 - **Khâfra Sebenmery** — First Smith of the Per-Aá; conservative; presiding over the most contentious internal politics the guild has seen in a generation.
 - **The Reformists** (informal faction) — younger Great Smiths and senior Masters who wish to shorten the apprenticeship, broaden recruitment beyond the traditional smithing families, and modernize the guild's accounting. Led publicly by Great Smith Userhat Pamenes.
 

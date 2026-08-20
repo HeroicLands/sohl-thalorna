@@ -2,7 +2,7 @@
 aliases:
   - Vélaria Óthral
   - Velaria Othral
-  - character-velarithrl
+  - being-velarithrl
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: velarithrl
 img: icons/person.svg
 draft: true
 portrait: images/being/velarithrl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

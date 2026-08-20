@@ -2,7 +2,7 @@
 aliases:
   - Shenur Ba'pata
   - Shenur Bapata
-  - character-shenurbapt
+  - being-shenurbapt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
 img: icons/person.svg
 portrait: images/being/shenurbapt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

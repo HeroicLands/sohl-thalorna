@@ -3,7 +3,7 @@ aliases:
   - Timothéon Gaválas
   - Timothéon Gaválas
   - Timotheon Gavalas
-  - character-timthngvls
+  - being-timthngvls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: timthngvls
 img: icons/person.svg
 portrait: images/being/timthngvls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

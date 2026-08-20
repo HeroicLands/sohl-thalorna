@@ -3,7 +3,7 @@ aliases:
   - Kallínikos Zygomálas
   - Kallínikos Zygomálas
   - Kallinikos Zygomalas
-  - character-klnkszygmls
+  - being-klnkszygmls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: klnkszygmls
 img: icons/person.svg
 portrait: images/being/klnkszygmls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

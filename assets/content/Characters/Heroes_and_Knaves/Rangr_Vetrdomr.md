@@ -3,7 +3,7 @@ aliases:
   - Rängr Vetrdómr
   - Rängr Vetrdómr
   - Rangr Vetrdomr
-  - character-rngrvtrdmr
+  - being-rngrvtrdmr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: rngrvtrdmr
 img: icons/person.svg
 portrait: images/being/rngrvtrdmr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdomlgn

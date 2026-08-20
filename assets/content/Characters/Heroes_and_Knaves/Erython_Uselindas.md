@@ -3,7 +3,7 @@ aliases:
   - Érython Ûselîndâs
   - Érython Ûselîndâs
   - Erython Uselindas
-  - character-erythnslnds
+  - being-erythnslnds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: erythnslnds
 img: icons/person.svg
 portrait: images/being/erythnslnds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: hlykngdmnrtm

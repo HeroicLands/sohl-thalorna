@@ -2,7 +2,7 @@
 aliases:
   - Álmera Desolárdran
   - Almera Desolardran
-  - character-almrdslrdrn
+  - being-almrdslrdrn
 tags: []
 name:
   full: Álmera Desolárdran
@@ -18,7 +18,7 @@ shortcode: almrdslrdrn
 img: icons/person.svg
 draft: true
 portrait: images/being/almrdslrdrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Caravan Guard

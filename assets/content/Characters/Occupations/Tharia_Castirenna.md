@@ -2,7 +2,7 @@
 aliases:
   - Thária Castírenna
   - Tharia Castirenna
-  - character-tharicstrn
+  - being-tharicstrn
 tags: []
 name:
   full: Thária Castírenna
@@ -18,7 +18,7 @@ shortcode: tharicstrn
 img: icons/person.svg
 draft: true
 portrait: images/being/tharicstrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Domestic Servant

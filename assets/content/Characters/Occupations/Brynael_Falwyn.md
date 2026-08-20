@@ -2,7 +2,7 @@
 aliases:
   - Brýnael Fálwyn
   - Brynael Falwyn
-  - character-brynlflwyn
+  - being-brynlflwyn
 tags: []
 name:
   full: Brýnael Fálwyn
@@ -18,7 +18,7 @@ shortcode: brynlflwyn
 img: icons/person.svg
 draft: true
 portrait: images/being/brynlflwyn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Toymaker

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Venomspitter
-  - creature-vnmspttr
+  - being-vnmspttr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: YmCBrcF6Kw2CrctD
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/vnmspttr-portrait.webp
 shortcode: vnmspttr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

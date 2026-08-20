@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sky Serpent
-  - creature-skysrpnt
+  - being-skysrpnt
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: IufOc6e3iYJZ46GV
 img: icons/game-icons/lorc/harpy.svg
 portrait: images/being/skysrpnt-portrait.webp
 shortcode: skysrpnt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

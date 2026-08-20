@@ -3,7 +3,7 @@ aliases:
   - Chandrakīrtisundarī Jayavalli
   - Chandrakīrtisundarī Jayavalli
   - Chandrakirtisundari Jayavalli
-  - character-chndrkrtsndrjyvl
+  - being-chndrkrtsndrjyvl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: chndrkrtsndrjyvl
 img: icons/person.svg
 portrait: images/being/chndrkrtsndrjyvl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2
@@ -718,7 +718,7 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 
 - **The Guild of Rivals**: Several members of the Thieves' Guild view her divided loyalty as a threat. **Master Thief Gorrán** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
 - **Discarded Lovers**: Several former clients have become obsessed with her, believing that her professional warmth was genuine love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
-- **Apothecary [[character-cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]**: Chandrakīrtisundarī discovered that [[character-cndrthrchrymkhysvr|Càndrathar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
+- **Apothecary [[being-cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]**: Chandrakīrtisundarī discovered that [[being-cndrthrchrymkhysvr|Càndrathar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
 
 ### Affiliations
 
@@ -732,7 +732,7 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 
 2. **The Patricide Commission**: The Thieves' Guild assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the guild's leadership. The target is her own biological father—the Byzarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the guild conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by ensuring she becomes too compromised to remain useful. She must choose between betraying the guild, committing patricide, or finding a third path that allows her to escape both organizations.
 
-3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[character-cndrthrchrymkhysvr|Càndrathar]]** is suspected of involvement, and the city guard begins investigating. Chandrakīrtisundarī realizes that [[character-cndrthrchrymkhysvr|Càndrathar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the guild and the Twilight House. She must determine whether to approach [[character-cndrthrchrymkhysvr|Càndrathar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
+3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Càndrathar]]** is suspected of involvement, and the city guard begins investigating. Chandrakīrtisundarī realizes that [[being-cndrthrchrymkhysvr|Càndrathar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the guild and the Twilight House. She must determine whether to approach [[being-cndrthrchrymkhysvr|Càndrathar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
 
 4. **The Twilight House's Fall**: **Madame Síralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakīrtisundarī discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.
 

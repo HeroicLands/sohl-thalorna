@@ -1,7 +1,7 @@
 ---
 aliases:
   - Alfred Barnwell
-  - character-alfrdbrnwl
+  - being-alfrdbrnwl
 tags: []
 name:
   full: Alfred Barnwell
@@ -17,7 +17,7 @@ shortcode: alfrdbrnwl
 img: icons/person.svg
 draft: true
 portrait: images/being/alfrdbrnwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Alchemist

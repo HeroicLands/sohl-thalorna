@@ -1,7 +1,7 @@
 ---
 aliases:
   - Frostjaw
-  - creature-frostjaw
+  - being-frostjaw
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: 1qpvK28UB8kSIGR0
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/frostjaw-portrait.webp
 shortcode: frostjaw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

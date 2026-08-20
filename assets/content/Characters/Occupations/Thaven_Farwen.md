@@ -2,7 +2,7 @@
 aliases:
   - Thâven Fárwèn
   - Thaven Farwen
-  - character-thavenfrwn
+  - being-thavenfrwn
 tags: []
 name:
   full: Thâven Fárwèn
@@ -18,7 +18,7 @@ shortcode: thavenfrwn
 img: icons/person.svg
 draft: true
 portrait: images/being/thavenfrwn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bosun

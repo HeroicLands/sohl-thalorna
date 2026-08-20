@@ -2,7 +2,7 @@
 aliases:
   - Alîmû Lâmarû
   - Alimu Lamaru
-  - character-alimulamar
+  - being-alimulamar
 tags: []
 name:
   full: Alîmû Lâmarû
@@ -18,7 +18,7 @@ shortcode: alimulamar
 img: icons/person.svg
 draft: true
 portrait: images/being/alimulamar-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bureaucrat

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thundertalon
-  - creature-thndrtln
+  - being-thndrtln
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: BER0R5sENldRKjgM
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/thndrtln-portrait.webp
 shortcode: thndrtln
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

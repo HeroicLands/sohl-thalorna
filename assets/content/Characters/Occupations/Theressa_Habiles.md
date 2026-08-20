@@ -2,7 +2,7 @@
 aliases:
   - Thêrèssa Hàbîlês
   - Theressa Habiles
-  - character-thereshbls
+  - being-thereshbls
 tags: []
 name:
   full: Thêrèssa Hàbîlês
@@ -18,7 +18,7 @@ shortcode: thereshbls
 img: icons/person.svg
 draft: true
 portrait: images/being/thereshbls-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Prostitute

@@ -2,7 +2,7 @@
 aliases:
   - Thráwald Hildskorn
   - Thrawald Hildskorn
-  - character-thrwldhldskrn
+  - being-thrwldhldskrn
 tags:
   - blackpine-wolves
   - brigand
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: thrwldhldskrn
 img: icons/person.svg
 portrait: images/being/thrwldhldskrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Brigand

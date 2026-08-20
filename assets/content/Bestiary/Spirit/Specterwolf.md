@@ -1,7 +1,7 @@
 ---
 aliases:
   - Specterwolf
-  - creature-spctrwlf
+  - being-spctrwlf
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: rD3EROAf0ElFfGjr
 img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/spctrwlf-portrait.webp
 shortcode: spctrwlf
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

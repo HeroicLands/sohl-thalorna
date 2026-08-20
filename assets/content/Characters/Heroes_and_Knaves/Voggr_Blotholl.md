@@ -3,7 +3,7 @@ aliases:
   - Vǫggr Blóthǫll
   - Vǫggr Blóthǫll
   - Voggr Blotholl
-  - character-vogrblothl
+  - being-vogrblothl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: vogrblothl
 img: icons/person.svg
 portrait: images/being/vogrblothl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

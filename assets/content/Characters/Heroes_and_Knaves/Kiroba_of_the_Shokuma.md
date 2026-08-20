@@ -3,7 +3,7 @@ aliases:
   - Kiroba of the Shókuma
   - Kiroba of the Shókuma
   - Kiroba of the Shokuma
-  - character-kirobashkm
+  - being-kirobashkm
 tags:
   - heroes-and-knaves
   - hero
@@ -19,7 +19,7 @@ folder: 5ECInZ91R1WeEtYz
 shortcode: kirobashkm
 img: icons/person.svg
 portrait: images/being/kirobashkm-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: okharis
@@ -741,8 +741,8 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
 ### Affiliations
 
-- **[[character-eshewamagr|Eshe wa Magara]]**: When her village began suffering from the same spiritual imbalance plauging the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
-- **[[character-isaretkskr|Isaret Ka'Seker]]**: After uncovering secret experiments to disrupt the spiritual balance, Isaret fled Ta’Kheperu and sought out Kiroba, hoping that together they could restore the balance.
+- **[[being-eshewamagr|Eshe wa Magara]]**: When her village began suffering from the same spiritual imbalance plauging the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
+- **[[being-isaretkskr|Isaret Ka'Seker]]**: After uncovering secret experiments to disrupt the spiritual balance, Isaret fled Ta’Kheperu and sought out Kiroba, hoping that together they could restore the balance.
 
 ## Plot Hooks
 

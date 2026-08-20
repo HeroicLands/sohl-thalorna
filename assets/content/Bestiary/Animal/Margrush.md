@@ -1,7 +1,7 @@
 ---
 aliases:
   - Margrush
-  - creature-margrush
+  - being-margrush
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: hfTq2IglUl64LTn9
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/margrush-portrait.webp
 shortcode: margrush
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

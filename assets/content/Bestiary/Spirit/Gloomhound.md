@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gloomhound
-  - creature-glmhnd
+  - being-glmhnd
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: ldVaPfqXY1Mh4tK4
 img: icons/game-icons/lorc/hound.svg
 portrait: images/being/glmhnd-portrait.webp
 shortcode: glmhnd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

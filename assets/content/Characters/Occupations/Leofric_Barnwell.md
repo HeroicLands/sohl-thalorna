@@ -1,7 +1,7 @@
 ---
 aliases:
   - Leofric Barnwell
-  - character-lefrcbrnwl
+  - being-lefrcbrnwl
 tags: []
 name:
   full: Leofric Barnwell
@@ -17,7 +17,7 @@ shortcode: lefrcbrnwl
 img: icons/person.svg
 draft: true
 portrait: images/being/lefrcbrnwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Physician

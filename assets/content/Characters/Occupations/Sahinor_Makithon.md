@@ -2,7 +2,7 @@
 aliases:
   - Sahînór Mâkîthôn
   - Sahinor Makithon
-  - character-sahnrmkthn
+  - being-sahnrmkthn
 tags: []
 name:
   full: Sahînór Mâkîthôn
@@ -18,7 +18,7 @@ shortcode: sahnrmkthn
 img: icons/person.svg
 draft: true
 portrait: images/being/sahnrmkthn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herald

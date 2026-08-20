@@ -2,7 +2,7 @@
 aliases:
   - Nûbàris Jâdîrôs
   - Nubaris Jadiros
-  - character-nubarsjdrs
+  - being-nubarsjdrs
 tags: []
 name:
   full: Nûbàris Jâdîrôs
@@ -18,7 +18,7 @@ shortcode: nubarsjdrs
 img: icons/person.svg
 draft: true
 portrait: images/being/nubarsjdrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Nobility (Courtier)

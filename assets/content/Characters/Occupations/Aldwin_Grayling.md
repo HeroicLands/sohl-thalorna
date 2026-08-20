@@ -1,7 +1,7 @@
 ---
 aliases:
   - Aldwin Grayling
-  - character-aldwngrylng
+  - being-aldwngrylng
 tags: []
 name:
   full: Aldwin Grayling
@@ -17,7 +17,7 @@ shortcode: aldwngrylng
 img: icons/person.svg
 draft: true
 portrait: images/being/aldwngrylng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Beggar

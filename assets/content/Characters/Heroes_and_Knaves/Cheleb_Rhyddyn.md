@@ -1,7 +1,7 @@
 ---
 aliases:
   - Chéleb Rhýddýn
-  - character-chlbrhydyn
+  - being-chlbrhydyn
 tags:
   - character
   - hero
@@ -17,7 +17,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: chlbrhydyn
 img: icons/person.svg
 portrait: images/being/chlbrhydyn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz
@@ -701,10 +701,10 @@ Chéleb's goal is to gather enough wealth to secure a future for his tribe and t
 
 ## Companions
 
-- **[[character-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
-- **[[character-elyseskyrn|Elýsè Skýrn]]**: Fellow band member.
-- **[[character-torniskbry|Tórnis Kúbrý]]**: Fellow band member.
-- **[[character-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
+- **[[being-elyseskyrn|Elýsè Skýrn]]**: Fellow band member.
+- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member.
+- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
 
 ### Patrons
 

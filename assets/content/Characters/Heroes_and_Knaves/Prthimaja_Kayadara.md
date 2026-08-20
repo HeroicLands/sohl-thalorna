@@ -3,7 +3,7 @@ aliases:
   - Prthîmâja Kâyadara
   - Prthîmâja Kâyadara
   - Prthimaja Kayadara
-  - character-prthmjkydr
+  - being-prthmjkydr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: prthmjkydr
 img: icons/person.svg
 portrait: images/being/prthmjkydr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

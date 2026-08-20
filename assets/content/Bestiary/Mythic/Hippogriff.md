@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hippogryph
-  - creature-hppgryph
+  - being-hppgryph
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: 9JVkmvPhZ6b3UtGU
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/hppgryph-portrait.webp
 shortcode: hppgryph
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

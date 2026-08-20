@@ -2,7 +2,7 @@
 aliases:
   - Hródar Arnthúl
   - Hrodar Arnthul
-  - character-hrodrrnthl
+  - being-hrodrrnthl
 tags:
   - blackpine-wolves
   - brigand
@@ -19,7 +19,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: hrodrrnthl
 img: icons/person.svg
 portrait: images/being/hrodrrnthl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Brigand

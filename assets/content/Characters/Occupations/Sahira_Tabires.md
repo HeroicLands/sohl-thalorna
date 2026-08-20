@@ -2,7 +2,7 @@
 aliases:
   - Sahîra Tâbîrês
   - Sahira Tabires
-  - character-sahiratbrs
+  - being-sahiratbrs
 tags: []
 name:
   full: Sahîra Tâbîrês
@@ -18,7 +18,7 @@ shortcode: sahiratbrs
 img: icons/person.svg
 draft: true
 portrait: images/being/sahiratbrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scribe

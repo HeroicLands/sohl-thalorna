@@ -2,7 +2,7 @@
 aliases:
   - Sigrún Hafringr
   - Sigrun Hafringr
-  - character-sgrnhfrngr
+  - being-sgrnhfrngr
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: sgrnhfrngr
 img: icons/person.svg
 draft: true
 portrait: images/being/sgrnhfrngr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

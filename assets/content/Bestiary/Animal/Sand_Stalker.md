@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sand Stalker
-  - creature-sndstlkr
+  - being-sndstlkr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: cF5pl6GNTSOo7LyT
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/sndstlkr-portrait.webp
 shortcode: sndstlkr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -2,7 +2,7 @@
 aliases:
   - Ívelyn Zálreth
   - Ivelyn Zalreth
-  - character-ivlynzlrth
+  - being-ivlynzlrth
 tags: []
 name:
   full: Ívelyn Zálreth
@@ -18,7 +18,7 @@ shortcode: ivlynzlrth
 img: icons/person.svg
 draft: true
 portrait: images/being/ivlynzlrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcrafter

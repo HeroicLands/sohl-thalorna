@@ -2,7 +2,7 @@
 aliases:
   - Sigríthr Hrafnsvald
   - Sigrithr Hrafnsvald
-  - character-sgrthrhrfnsvld
+  - being-sgrthrhrfnsvld
 tags: []
 name:
   full: Sigríthr Hrafnsvald
@@ -18,7 +18,7 @@ shortcode: sgrthrhrfnsvld
 img: icons/person.svg
 draft: true
 portrait: images/being/sgrthrhrfnsvld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shipwright

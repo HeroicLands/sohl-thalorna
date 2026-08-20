@@ -2,7 +2,7 @@
 aliases:
   - Târlig Tólgen
   - Tarlig Tolgen
-  - character-tarligtlgn
+  - being-tarligtlgn
 tags: []
 name:
   full: Târlig Tólgen
@@ -18,7 +18,7 @@ shortcode: tarligtlgn
 img: icons/person.svg
 draft: true
 portrait: images/being/tarligtlgn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thatcher

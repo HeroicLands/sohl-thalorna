@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cliff Stalker
-  - creature-clffstlk
+  - being-clffstlk
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: A2bZirKOMgCcZ7qS
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/clffstlk-portrait.webp
 shortcode: clffstlk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

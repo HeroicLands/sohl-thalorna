@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hakon Fire-Tongue
-  - character-hakonfrtng
+  - being-hakonfrtng
 tags:
   - hero
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hakonfrtng
 img: icons/person.svg
 portrait: images/being/hakonfrtng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Agitator and Orator

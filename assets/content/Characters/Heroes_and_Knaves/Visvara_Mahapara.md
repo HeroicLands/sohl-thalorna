@@ -3,7 +3,7 @@ aliases:
   - Viśvàra Mahâpara
   - Viśvàra Mahâpara
   - Visvara Mahapara
-  - character-visvarmhpr
+  - being-visvarmhpr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: visvarmhpr
 img: icons/person.svg
 portrait: images/being/visvarmhpr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2

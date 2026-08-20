@@ -2,7 +2,7 @@
 aliases:
   - Mêntrâ Kêrîamyês
   - Mentra Keriamyes
-  - character-mentrkrmys
+  - being-mentrkrmys
 tags: []
 name:
   full: Mêntrâ Kêrîamyês
@@ -18,7 +18,7 @@ shortcode: mentrkrmys
 img: icons/person.svg
 draft: true
 portrait: images/being/mentrkrmys-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Glassworker

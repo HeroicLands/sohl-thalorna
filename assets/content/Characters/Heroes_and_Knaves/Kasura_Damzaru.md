@@ -1,7 +1,7 @@
 ---
 aliases:
   - Kasûra Damzarû
-  - character-kasuradmzr
+  - being-kasuradmzr
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: kasuradmzr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/kasuradmzr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: cnfdrtnhrdnstts

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Emberhound
-  - creature-embrhnd
+  - being-embrhnd
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: WGeazrSoyg3VKwns
 img: icons/game-icons/lorc/hound.svg
 portrait: images/being/embrhnd-portrait.webp
 shortcode: embrhnd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

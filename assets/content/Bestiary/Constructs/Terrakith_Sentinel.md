@@ -1,7 +1,7 @@
 ---
 aliases:
   - Terrakith Sentinel
-  - creature-trrkthsn
+  - being-trrkthsn
 tags:
   - construct
 name:
@@ -12,7 +12,7 @@ id: mYRlDMSiKnHIpUzq
 img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/trrkthsn-portrait.webp
 shortcode: trrkthsn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: construct

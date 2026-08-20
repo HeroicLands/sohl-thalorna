@@ -2,7 +2,7 @@
 aliases:
   - Gorâzendîs Bârês
   - Gorazendis Bares
-  - character-gorzndsbrs
+  - being-gorzndsbrs
 tags: []
 name:
   full: Gorâzendîs Bârês
@@ -18,7 +18,7 @@ shortcode: gorzndsbrs
 img: icons/person.svg
 draft: true
 portrait: images/being/gorzndsbrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Locksmith

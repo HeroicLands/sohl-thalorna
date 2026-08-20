@@ -3,7 +3,7 @@ aliases:
   - Samarína Kalokyrês
   - Samarína Kalokyrês
   - Samarina Kalokyres
-  - character-smrnklkyrs
+  - being-smrnklkyrs
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: smrnklkyrs
 img: icons/person.svg
 portrait: images/being/smrnklkyrs-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

@@ -2,7 +2,7 @@
 aliases:
   - Rimmârû Ushûrî
   - Rimmaru Ushuri
-  - character-rimarushur
+  - being-rimarushur
 tags: []
 name:
   full: Rimmârû Ushûrî
@@ -18,7 +18,7 @@ shortcode: rimarushur
 img: icons/person.svg
 draft: true
 portrait: images/being/rimarushur-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Perfumer

@@ -2,7 +2,7 @@
 aliases:
   - Rádrún Vithrúnd
   - Radrun Vithrund
-  - character-rdrnvthrnd
+  - being-rdrnvthrnd
 tags: []
 name:
   full: Rádrún Vithrúnd
@@ -18,7 +18,7 @@ shortcode: rdrnvthrnd
 img: icons/person.svg
 draft: true
 portrait: images/being/rdrnvthrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Prostitute

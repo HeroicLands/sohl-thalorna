@@ -3,7 +3,7 @@ aliases:
   - Ríkarthr Íseldr
   - Ríkarthr Íseldr
   - Rikarthr Iseldr
-  - character-rkrthrsldr
+  - being-rkrthrsldr
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: rkrthrsldr
 img: icons/person.svg
 portrait: images/being/rkrthrsldr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd

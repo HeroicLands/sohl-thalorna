@@ -2,7 +2,7 @@
 aliases:
   - Sigvarðr One-Hand
   - Sigvardr One-Hand
-  - character-sgvrdrnhnd
+  - being-sgvrdrnhnd
 tags:
   - paragon
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: sgvrdrnhnd
 img: icons/person.svg
 portrait: images/being/sgvrdrnhnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Warrior and Judge

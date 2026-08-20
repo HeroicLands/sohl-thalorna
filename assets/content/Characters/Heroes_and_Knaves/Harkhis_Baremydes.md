@@ -3,7 +3,7 @@ aliases:
   - Harkhîs Bàremydês
   - Harkhîs Bàremydês
   - Harkhis Baremydes
-  - character-hrkhsbrmyds
+  - being-hrkhsbrmyds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: hrkhsbrmyds
 img: icons/person.svg
 portrait: images/being/hrkhsbrmyds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provinclys

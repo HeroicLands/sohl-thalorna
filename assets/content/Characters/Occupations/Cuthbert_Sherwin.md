@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cuthbert Sherwin
-  - character-cthbrtshrwn
+  - being-cthbrtshrwn
 tags: []
 name:
   full: Cuthbert Sherwin
@@ -17,7 +17,7 @@ shortcode: cthbrtshrwn
 img: icons/person.svg
 draft: true
 portrait: images/being/cthbrtshrwn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcutter

@@ -3,7 +3,7 @@ aliases:
   - Arévyn Llýdar
   - Arévyn Llýdar
   - Arevyn Llydar
-  - character-arevynlydr
+  - being-arevynlydr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: arevynlydr
 img: icons/person.svg
 portrait: images/being/arevynlydr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

@@ -3,7 +3,7 @@ aliases:
   - Patnefur Setmaâr
   - Pat'nefur Set'maâr
   - Patnefur Setmaar
-  - character-patnfrstmr
+  - being-patnfrstmr
 tags:
   - heroes-and-knaves
 name:
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: patnfrstmr
 img: icons/person.svg
 portrait: images/being/patnfrstmr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

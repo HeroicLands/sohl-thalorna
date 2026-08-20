@@ -1,7 +1,7 @@
 ---
 aliases:
   - Luminshade
-  - creature-lmnshd
+  - being-lmnshd
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: V51NYCYdbU2A7tse
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/lmnshd-portrait.webp
 shortcode: lmnshd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

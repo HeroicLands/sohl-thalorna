@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Eagle
-  - creature-gntegl
+  - being-gntegl
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: qXfebwntoioh2qjT
 img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/gntegl-portrait.webp
 shortcode: gntegl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

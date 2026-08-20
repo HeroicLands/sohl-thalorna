@@ -2,7 +2,7 @@
 aliases:
   - Dágulf Véthar
   - Dagulf Vethar
-  - character-dagulfvthr
+  - being-dagulfvthr
 tags:
   - blackpine-wolves
   - brigand
@@ -19,7 +19,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: dagulfvthr
 img: icons/person.svg
 portrait: images/being/dagulfvthr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vrystwldtrbs

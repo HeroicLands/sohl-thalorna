@@ -2,7 +2,7 @@
 aliases:
   - Óthwin Dómhár
   - Othwin Domhar
-  - character-othwindmhr
+  - being-othwindmhr
 tags: []
 name:
   full: Óthwin Dómhár
@@ -18,7 +18,7 @@ shortcode: othwindmhr
 img: icons/person.svg
 draft: true
 portrait: images/being/othwindmhr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Trapper

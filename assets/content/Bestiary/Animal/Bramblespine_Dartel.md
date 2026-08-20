@@ -1,7 +1,7 @@
 ---
 aliases:
   - Bramblespine Dartel
-  - creature-brmblspn
+  - being-brmblspn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: eDyiMoyAhdyDQpvk
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/brmblspn-portrait.webp
 shortcode: brmblspn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

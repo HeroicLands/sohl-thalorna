@@ -3,7 +3,7 @@ aliases:
   - Thalísa Torvaleth
   - Thalísa Torvaleth
   - Thalisa Torvaleth
-  - character-thlstrvlth
+  - being-thlstrvlth
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: thlstrvlth
 img: icons/person.svg
 portrait: images/being/thlstrvlth-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

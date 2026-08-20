@@ -2,7 +2,7 @@
 aliases:
   - Zahira Malkhet
   - The Hound of the Veil
-  - character-zahirmlkht
+  - being-zahirmlkht
 tags:
   - heroes-and-knaves
   - hero
@@ -20,7 +20,7 @@ folder: pRBSOhf2qVrV1SQB
 shortcode: zahirmlkht
 img: icons/person.svg
 portrait: images/being/zahirmlkht-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: mtrrchybth
@@ -689,7 +689,7 @@ Zahira has now been engaged for the most dangerous hunt of her life, and by the 
 
 What sets this hunt apart is what Zahira has _not_ been told. Her handlers at the Veil have given her only the shape of the thing — that Rashîra stole secrets that would be catastrophic in the wrong hands — and bound her with one standing order above all others: **she is never to read the stolen papers, and never to let Rashîra speak her case.** The fugitive is a liar, they warn, a silver-tongued clerk who will say anything to save her own neck, and a single conversation could turn a loyal woman. So Zahira's charge is as simple as it is absolute — recover the rolls or destroy them, kill their keeper, and learn nothing of what they contain. She does not know that the order to keep her ignorant is the whole point, nor that the truth written on that purple vellum would damn the very masters who loosed her.
 
-Rashîra did not run for the northern ports as a defector is expected to, but the other way — south, into the **[[affiliation-jcklsthmrchs|South Marches]]** beyond the matriarchy's frontier, and through them west: her goal is **[[doc-empirtkhpr|Ta'Kheperu]]**, the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands — and into the territory of **[[character-yasurajckl|Yâsûra the Jackal]]**, the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent **[[character-casiaveric|Cassia Verric]]** works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Kheperi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
+Rashîra did not run for the northern ports as a defector is expected to, but the other way — south, into the **[[affiliation-jcklsthmrchs|South Marches]]** beyond the matriarchy's frontier, and through them west: her goal is **[[doc-empirtkhpr|Ta'Kheperu]]**, the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands — and into the territory of **[[being-yasurajckl|Yâsûra the Jackal]]**, the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent **[[being-casiaveric|Cassia Verric]]** works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Kheperi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
 
 ### End Goal
 
@@ -736,14 +736,14 @@ Despite her skills and reputation, Zahira is not without doubts. She struggles w
 
 ### Enemies
 
-- **[[character-rshrhssfrn|Rashîra of House Safîrôn]]**: Zahira's quarry — the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[doc-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
-- **[[character-casiaveric|Cassia Verric]]**: The Vylarian agent working the same Marches — courting Rashîra toward a Vylarian handover, closing the roads east to keep the register from Ta'Kheperu, and sabotaging Zahira's own hunt at every turn. To Vylaria a Bethûan recovery is the worst outcome of all, so Cassia means to see the Hound confused, misled, and delayed until the rolls are in imperial hands — though she is far too careful to be seen doing it.
-- **[[character-yasurajckl|Yâsûra the Jackal]] and her [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: A warband of the Houseless in the drylands beyond Bethûa's southern frontier, led by an exiled spear-sister who blames Zahira — rightly — for her ruin. Years ago a hunt of Zahira's turned bloody on Yâsûra's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethûa's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays — and Rashîra's protectors have coin enough to set them on Zahira's trail.
+- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]**: Zahira's quarry — the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[doc-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
+- **[[being-casiaveric|Cassia Verric]]**: The Vylarian agent working the same Marches — courting Rashîra toward a Vylarian handover, closing the roads east to keep the register from Ta'Kheperu, and sabotaging Zahira's own hunt at every turn. To Vylaria a Bethûan recovery is the worst outcome of all, so Cassia means to see the Hound confused, misled, and delayed until the rolls are in imperial hands — though she is far too careful to be seen doing it.
+- **[[being-yasurajckl|Yâsûra the Jackal]] and her [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: A warband of the Houseless in the drylands beyond Bethûa's southern frontier, led by an exiled spear-sister who blames Zahira — rightly — for her ruin. Years ago a hunt of Zahira's turned bloody on Yâsûra's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethûa's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays — and Rashîra's protectors have coin enough to set them on Zahira's trail.
 
 ### Affiliations
 
-- **[[character-laylamarut|Layla Marut, the Merchant Princess]]**: [[character-laylamarut|Layla]] and Zahira met when Zahira was hired by Layla's trading clan to recover goods stolen from one of their caravans. Taken with Zahira's nerve and skill, the restless daughter of the House talked her family into letting her ride along — trading the gilded cage of a Bethûan trade-clan's expectations for the road, and bringing her web of mercantile contacts and her sharp tongue to Zahira's hunts.
-- **[[character-narisahrvn|Nari Sahravân, the Desert Mystic]]**: A far-wandering mystic and healer of the deep [[doc-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands — a vision had carried Nari there, a hunt had carried Zahira — and [[character-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
+- **[[being-laylamarut|Layla Marut, the Merchant Princess]]**: [[being-laylamarut|Layla]] and Zahira met when Zahira was hired by Layla's trading clan to recover goods stolen from one of their caravans. Taken with Zahira's nerve and skill, the restless daughter of the House talked her family into letting her ride along — trading the gilded cage of a Bethûan trade-clan's expectations for the road, and bringing her web of mercantile contacts and her sharp tongue to Zahira's hunts.
+- **[[being-narisahrvn|Nari Sahravân, the Desert Mystic]]**: A far-wandering mystic and healer of the deep [[doc-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands — a vision had carried Nari there, a hunt had carried Zahira — and [[being-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
 
 ## Plot Hooks
 
@@ -757,7 +757,7 @@ Despite her skills and reputation, Zahira is not without doubts. She struggles w
 
 3. **Into the Marches**:
 
-   Following Rashîra's trail into the dry **[[affiliation-jcklsthmrchs|South Marches]]**, Zahira's party rides straight into the country of **[[character-yasurajckl|Yâsûra the Jackal]]** — and into an ambush the exiled warlord has prepared with a patience no contract could buy. Hired through [[character-casiaveric|Verric]]'s agents to bleed away the time Rashîra needs, Yâsûra means to take far more than coin from this hunt. With [[character-narisahrvn|Nari]]'s sight and [[character-laylamarut|Layla]]'s contacts, Zahira must break free of the woman she herself unmade — who wants her dead for reasons far older than any paymaster's — before her quarry slips out the far side of the Marches and away.
+   Following Rashîra's trail into the dry **[[affiliation-jcklsthmrchs|South Marches]]**, Zahira's party rides straight into the country of **[[being-yasurajckl|Yâsûra the Jackal]]** — and into an ambush the exiled warlord has prepared with a patience no contract could buy. Hired through [[being-casiaveric|Verric]]'s agents to bleed away the time Rashîra needs, Yâsûra means to take far more than coin from this hunt. With [[being-narisahrvn|Nari]]'s sight and [[being-laylamarut|Layla]]'s contacts, Zahira must break free of the woman she herself unmade — who wants her dead for reasons far older than any paymaster's — before her quarry slips out the far side of the Marches and away.
 
 4. **What the Rolls Reveal**:
 

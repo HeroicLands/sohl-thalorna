@@ -2,7 +2,7 @@
 aliases:
   - Vôrnan Tólgen
   - Vornan Tolgen
-  - character-vornantlgn
+  - being-vornantlgn
 tags: []
 name:
   full: Vôrnan Tólgen
@@ -18,7 +18,7 @@ shortcode: vornantlgn
 img: icons/person.svg
 draft: true
 portrait: images/being/vornantlgn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scholar

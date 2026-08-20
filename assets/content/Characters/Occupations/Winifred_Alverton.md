@@ -1,7 +1,7 @@
 ---
 aliases:
   - Winifred Alverton
-  - character-wnfrdlvrtn
+  - being-wnfrdlvrtn
 tags: []
 name:
   full: Winifred Alverton
@@ -17,7 +17,7 @@ shortcode: wnfrdlvrtn
 img: icons/person.svg
 draft: true
 portrait: images/being/wnfrdlvrtn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cartographer/Artist

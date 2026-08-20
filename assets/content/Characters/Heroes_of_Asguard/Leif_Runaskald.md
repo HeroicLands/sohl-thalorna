@@ -1,7 +1,7 @@
 ---
 aliases:
   - Leif Runaskald
-  - character-leifrnskld
+  - being-leifrnskld
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: leifrnskld
 img: icons/person.svg
 portrait: images/being/leifrnskld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Skald and Runemaster

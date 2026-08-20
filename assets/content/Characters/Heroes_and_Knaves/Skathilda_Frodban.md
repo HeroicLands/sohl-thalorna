@@ -3,7 +3,7 @@ aliases:
   - Skathilda Froðban
   - Skathilda Fróðbán
   - Skathilda Frodban
-  - character-skthldfrdbn
+  - being-skthldfrdbn
 tags:
   - blackpine-wolves
   - brigand
@@ -20,7 +20,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: skthldfrdbn
 img: icons/person.svg
 portrait: images/being/skthldfrdbn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Brigand

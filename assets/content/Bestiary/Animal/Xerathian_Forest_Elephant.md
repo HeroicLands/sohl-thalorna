@@ -1,7 +1,7 @@
 ---
 aliases:
   - Xerathian Forest Elephant
-  - creature-xrthnfrs
+  - being-xrthnfrs
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: pGoe1xHOveNk8ycM
 img: icons/game-icons/delapouite/elephant.svg
 portrait: images/being/xrthnfrs-portrait.webp
 shortcode: xrthnfrs
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

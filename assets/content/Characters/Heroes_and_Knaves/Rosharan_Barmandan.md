@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rosharan Barmandan
-  - character-rshrnbrmndn
+  - being-rshrnbrmndn
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: rshrnbrmndn
 img: icons/person.svg
 portrait: images/being/rshrnbrmndn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

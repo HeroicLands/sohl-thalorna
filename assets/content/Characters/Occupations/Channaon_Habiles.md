@@ -2,7 +2,7 @@
 aliases:
   - Chánnâon Hàbîlês
   - Channaon Habiles
-  - character-chananhbls
+  - being-chananhbls
 tags: []
 name:
   full: Chánnâon Hàbîlês
@@ -18,7 +18,7 @@ shortcode: chananhbls
 img: icons/person.svg
 draft: true
 portrait: images/being/chananhbls-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Timberwright

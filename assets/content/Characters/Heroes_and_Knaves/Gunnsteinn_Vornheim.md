@@ -3,7 +3,7 @@ aliases:
   - Gunnsteinn Vǫrnheim
   - Gunnsteinn Vǫrnheim
   - Gunnsteinn Vornheim
-  - character-gnstnvrnhm
+  - being-gnstnvrnhm
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: gnstnvrnhm
 img: icons/person.svg
 portrait: images/being/gnstnvrnhm-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd

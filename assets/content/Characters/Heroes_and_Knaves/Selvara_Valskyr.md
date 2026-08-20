@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sélvara Válskyr
-  - character-slvrvlskyr
+  - being-slvrvlskyr
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/slvrvlskyr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

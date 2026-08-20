@@ -1,7 +1,7 @@
 ---
 aliases:
   - Harpy
-  - creature-harpy
+  - being-harpy
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: PE8La0dJVHwnZDWg
 img: icons/game-icons/lorc/harpy.svg
 portrait: images/being/harpy-portrait.webp
 shortcode: harpy
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

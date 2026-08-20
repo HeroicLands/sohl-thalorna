@@ -2,7 +2,7 @@
 aliases:
   - Skúli Vetrdómr
   - Skuli Vetrdomr
-  - character-skulvtrdmr
+  - being-skulvtrdmr
 tags:
   - heroes-and-knaves
 name:
@@ -17,7 +17,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: skulvtrdmr
 img: icons/person.svg
 portrait: images/being/skulvtrdmr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

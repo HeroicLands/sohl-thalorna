@@ -2,7 +2,7 @@
 aliases:
   - Kélyra Sálthar
   - Kelyra Salthar
-  - character-kelyrslthr
+  - being-kelyrslthr
 tags: []
 name:
   full: Kélyra Sálthar
@@ -18,7 +18,7 @@ shortcode: kelyrslthr
 img: icons/person.svg
 draft: true
 portrait: images/being/kelyrslthr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bureaucrat

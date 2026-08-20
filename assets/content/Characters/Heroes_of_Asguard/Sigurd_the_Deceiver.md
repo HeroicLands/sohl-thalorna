@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sigurd the Deceiver
-  - character-sigurdecvr
+  - being-sigurdecvr
 tags:
   - hero
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: sigurdecvr
 img: icons/person.svg
 portrait: images/being/sigurdecvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thief and Con Artist

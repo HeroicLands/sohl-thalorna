@@ -2,7 +2,7 @@
 aliases:
   - Jǫrundr Frostulf
   - Jorundr Frostulf
-  - character-jrndrfrstlf
+  - being-jrndrfrstlf
 tags: []
 name:
   full: Jǫrundr Frostulf
@@ -18,7 +18,7 @@ shortcode: jrndrfrstlf
 img: icons/person.svg
 draft: true
 portrait: images/being/jrndrfrstlf-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gaoler

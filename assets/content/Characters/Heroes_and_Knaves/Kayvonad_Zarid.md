@@ -3,7 +3,7 @@ aliases:
   - Kayvonad Zârîd
   - Kayvonad Zârîd
   - Kayvonad Zarid
-  - character-kayvondzrd
+  - being-kayvondzrd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: kayvondzrd
 img: icons/person.svg
 portrait: images/being/kayvondzrd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: tribestrzd

@@ -2,7 +2,7 @@
 aliases:
   - Hârlak Válskyr
   - Harlak Valskyr
-  - character-hrlkvlskyr
+  - being-hrlkvlskyr
 tags: []
 name:
   full: Hârlak Válskyr
@@ -18,7 +18,7 @@ shortcode: hrlkvlskyr
 img: icons/person.svg
 draft: true
 portrait: images/being/hrlkvlskyr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Animal Trainer

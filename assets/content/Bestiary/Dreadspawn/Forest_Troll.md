@@ -1,7 +1,7 @@
 ---
 aliases:
   - Forest Troll
-  - creature-frsttrll
+  - being-frsttrll
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: l4GBcRoNaHSO3RRn
 img: icons/game-icons/skoll/troll.svg
 portrait: images/being/frsttrll-portrait.webp
 shortcode: frsttrll
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

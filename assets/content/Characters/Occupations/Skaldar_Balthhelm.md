@@ -2,7 +2,7 @@
 aliases:
   - Skaldár Balthhelm
   - Skaldar Balthhelm
-  - character-skldrblthlm
+  - being-skldrblthlm
 tags: []
 name:
   full: Skaldár Balthhelm
@@ -18,7 +18,7 @@ shortcode: skldrblthlm
 img: icons/person.svg
 draft: true
 portrait: images/being/skldrblthlm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Toymaker

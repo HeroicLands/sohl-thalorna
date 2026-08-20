@@ -1,7 +1,7 @@
 ---
 aliases:
   - Harold Helmsley
-  - character-hrldhlmsly
+  - being-hrldhlmsly
 tags: []
 name:
   full: Harold Helmsley
@@ -17,7 +17,7 @@ shortcode: hrldhlmsly
 img: icons/person.svg
 draft: true
 portrait: images/being/hrldhlmsly-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Animal Trainer

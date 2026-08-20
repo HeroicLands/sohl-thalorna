@@ -1,7 +1,7 @@
 ---
 aliases:
   - Lucerian Serentia
-  - character-lucernsrnt
+  - being-lucernsrnt
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: lucernsrnt
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/lucernsrnt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vylarinmpr

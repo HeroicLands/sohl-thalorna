@@ -2,7 +2,7 @@
 aliases:
   - Gálver Maríthran
   - Galver Marithran
-  - character-glvrmrthrn
+  - being-glvrmrthrn
 tags: []
 name:
   full: Gálver Maríthran
@@ -18,7 +18,7 @@ shortcode: glvrmrthrn
 img: icons/person.svg
 draft: true
 portrait: images/being/glvrmrthrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mason

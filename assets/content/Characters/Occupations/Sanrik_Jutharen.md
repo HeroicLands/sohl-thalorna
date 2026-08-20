@@ -2,7 +2,7 @@
 aliases:
   - Sánrik Jútharen
   - Sanrik Jutharen
-  - character-sanrkjthrn
+  - being-sanrkjthrn
 tags: []
 name:
   full: Sánrik Jútharen
@@ -18,7 +18,7 @@ shortcode: sanrkjthrn
 img: icons/person.svg
 draft: true
 portrait: images/being/sanrkjthrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Glassworker

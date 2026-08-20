@@ -2,7 +2,7 @@
 aliases:
   - Mákrion Nâfrinês
   - Makrion Nafrines
-  - character-makrinfrns
+  - being-makrinfrns
 tags: []
 name:
   full: Mákrion Nâfrinês
@@ -18,7 +18,7 @@ shortcode: makrinfrns
 img: icons/person.svg
 draft: true
 portrait: images/being/makrinfrns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Astrologer

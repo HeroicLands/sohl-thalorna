@@ -3,7 +3,7 @@ aliases:
   - Thêkla Rhomaios
   - Thêkla Rhomaios
   - Thekla Rhomaios
-  - character-theklarhms
+  - being-theklarhms
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: theklarhms
 img: icons/person.svg
 portrait: images/being/theklarhms-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

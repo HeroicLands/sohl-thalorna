@@ -23,13 +23,13 @@ The **Tamzîr** is a weathered trading vessel that works the [[doc-vylarinmpr|Vy
 
 ## Background
 
-Roughly twelve years ago, the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] fought a war of independence from the [[doc-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[character-esharumtrz|Eshârum Tarûzî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
+Roughly twelve years ago, the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] fought a war of independence from the [[doc-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-esharumtrz|Eshârum Tarûzî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
 
 The Tamzîr operates in the gray spaces of maritime law — legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serentia siblings. [[character-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[character-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of extraordinary and erratic power — damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[doc-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
+The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of extraordinary and erratic power — damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[doc-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
 
 ## Shared Enemies
 
@@ -37,20 +37,20 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo
 
 ## Crew
 
-- [[character-esharumtrz|Eshârum Tarûzî]] (Captian)
-- [[character-slvrvlskyr|Sélvara Válskyr]] (First Mate)
-- [[character-fethardhrl|Féthar Dhárel]] (Pilot)
-- [[character-kasuradmzr|Kasûra Damzarû]] (Shipwright)
-- [[character-grlfdrthgr|Garulf Druthgar]] (Sellsword)
-- [[character-isarakhldr|Isâra Khalîdra]] (Courtesan)
-- [[character-damsnghlrn|Dámàsûn Ghôlâron]] (Preist)
-- [[character-lucernsrnt|Lucerian Serentia]] (Physician)
-- [[character-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
-- [[character-ylrskrsdtr|Ylíra Skorrsdottir]] (Warrior)
+- [[being-esharumtrz|Eshârum Tarûzî]] (Captian)
+- [[being-slvrvlskyr|Sélvara Válskyr]] (First Mate)
+- [[being-fethardhrl|Féthar Dhárel]] (Pilot)
+- [[being-kasuradmzr|Kasûra Damzarû]] (Shipwright)
+- [[being-grlfdrthgr|Garulf Druthgar]] (Sellsword)
+- [[being-isarakhldr|Isâra Khalîdra]] (Courtesan)
+- [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Preist)
+- [[being-lucernsrnt|Lucerian Serentia]] (Physician)
+- [[being-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
+- [[being-ylrskrsdtr|Ylíra Skorrsdottir]] (Warrior)
 
 ## The Ship
 
-The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair — [[character-kasuradmzr|Kasûra]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzîr has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
+The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair — [[being-kasuradmzr|Kasûra]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzîr has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
 
 ## Plot Hooks
 

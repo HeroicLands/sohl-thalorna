@@ -2,7 +2,7 @@
 aliases:
   - Áleren Párdalen
   - Aleren Pardalen
-  - character-alernprdln
+  - being-alernprdln
 tags: []
 name:
   full: Áleren Párdalen
@@ -18,7 +18,7 @@ shortcode: alernprdln
 img: icons/person.svg
 draft: true
 portrait: images/being/alernprdln-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shaman

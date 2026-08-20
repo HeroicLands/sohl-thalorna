@@ -2,7 +2,7 @@
 aliases:
   - Rísàkós Ibârìthôs
   - Risakos Ibarithos
-  - character-risksbrths
+  - being-risksbrths
 tags: []
 name:
   full: Rísàkós Ibârìthôs
@@ -18,7 +18,7 @@ shortcode: risksbrths
 img: icons/person.svg
 draft: true
 portrait: images/being/risksbrths-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Apothecary

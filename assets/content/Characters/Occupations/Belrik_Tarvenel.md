@@ -2,7 +2,7 @@
 aliases:
   - Bélrik Tárvenel
   - Belrik Tarvenel
-  - character-belrktrvnl
+  - being-belrktrvnl
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: belrktrvnl
 img: icons/person.svg
 draft: true
 portrait: images/being/belrktrvnl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

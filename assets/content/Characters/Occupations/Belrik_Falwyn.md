@@ -2,7 +2,7 @@
 aliases:
   - Bélrik Fálwyn
   - Belrik Falwyn
-  - character-belrkflwyn
+  - being-belrkflwyn
 tags: []
 name:
   full: Bélrik Fálwyn
@@ -18,7 +18,7 @@ shortcode: belrkflwyn
 img: icons/person.svg
 draft: true
 portrait: images/being/belrkflwyn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Alchemist

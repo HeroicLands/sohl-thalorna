@@ -2,7 +2,7 @@
 aliases:
   - Theódris Sundrýth
   - Theodris Sundryth
-  - character-thdrsndryth
+  - being-thdrsndryth
 tags: []
 name:
   full: Theódris Sundrýth
@@ -18,7 +18,7 @@ shortcode: thdrsndryth
 img: icons/person.svg
 draft: true
 portrait: images/being/thdrsndryth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Beggar

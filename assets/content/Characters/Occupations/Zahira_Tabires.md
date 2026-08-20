@@ -2,7 +2,7 @@
 aliases:
   - Zahîra Tâbîrês
   - Zahira Tabires
-  - character-zahiratbrs
+  - being-zahiratbrs
 tags: []
 name:
   full: Zahîra Tâbîrês
@@ -18,7 +18,7 @@ shortcode: zahiratbrs
 img: icons/person.svg
 draft: true
 portrait: images/being/zahiratbrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Tentmaker

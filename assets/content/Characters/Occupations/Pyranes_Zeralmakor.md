@@ -2,7 +2,7 @@
 aliases:
   - Pyrânês Zêralmâkor
   - Pyranes Zeralmakor
-  - character-pyrnszrlmkr
+  - being-pyrnszrlmkr
 tags: []
 name:
   full: Pyrânês Zêralmâkor
@@ -18,7 +18,7 @@ shortcode: pyrnszrlmkr
 img: icons/person.svg
 draft: true
 portrait: images/being/pyrnszrlmkr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cartographer/Artist

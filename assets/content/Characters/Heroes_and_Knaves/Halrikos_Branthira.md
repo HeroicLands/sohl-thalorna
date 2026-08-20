@@ -3,7 +3,7 @@ aliases:
   - Hálrikos Bránthira
   - Hálrikos Bránthira
   - Halrikos Branthira
-  - character-hlrksbrnthr
+  - being-hlrksbrnthr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: hlrksbrnthr
 img: icons/person.svg
 portrait: images/being/hlrksbrnthr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

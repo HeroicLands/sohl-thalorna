@@ -3,7 +3,7 @@ aliases:
   - Párthun Bélthal
   - Párthun Bélthal
   - Parthun Belthal
-  - character-prthnblthl
+  - being-prthnblthl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: prthnblthl
 img: icons/person.svg
 portrait: images/being/prthnblthl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

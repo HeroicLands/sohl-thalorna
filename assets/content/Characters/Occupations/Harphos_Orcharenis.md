@@ -2,7 +2,7 @@
 aliases:
   - Harphôs Ôrchârenîs
   - Harphos Orcharenis
-  - character-hrphsrchrns
+  - being-hrphsrchrns
 tags: []
 name:
   full: Harphôs Ôrchârenîs
@@ -18,7 +18,7 @@ shortcode: hrphsrchrns
 img: icons/person.svg
 draft: true
 portrait: images/being/hrphsrchrns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chandler

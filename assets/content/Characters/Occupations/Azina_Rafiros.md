@@ -2,7 +2,7 @@
 aliases:
   - Ázîna Râfîrôs
   - Azina Rafiros
-  - character-azinarafrs
+  - being-azinarafrs
 tags: []
 name:
   full: Ázîna Râfîrôs
@@ -18,7 +18,7 @@ shortcode: azinarafrs
 img: icons/person.svg
 draft: true
 portrait: images/being/azinarafrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Embalmer

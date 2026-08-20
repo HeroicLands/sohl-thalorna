@@ -2,7 +2,7 @@
 aliases:
   - Frithgár Vithrúnd
   - Frithgar Vithrund
-  - character-frthgrvthrnd
+  - being-frthgrvthrnd
 tags: []
 name:
   full: Frithgár Vithrúnd
@@ -18,7 +18,7 @@ shortcode: frthgrvthrnd
 img: icons/person.svg
 draft: true
 portrait: images/being/frthgrvthrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

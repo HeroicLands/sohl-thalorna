@@ -2,7 +2,7 @@
 aliases:
   - Tàbîsa Mârinadês
   - Tabisa Marinades
-  - character-tabismrnds
+  - being-tabismrnds
 tags: []
 name:
   full: Tàbîsa Mârinadês
@@ -18,7 +18,7 @@ shortcode: tabismrnds
 img: icons/person.svg
 draft: true
 portrait: images/being/tabismrnds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

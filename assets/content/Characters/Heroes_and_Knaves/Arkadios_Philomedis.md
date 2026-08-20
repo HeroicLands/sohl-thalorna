@@ -3,7 +3,7 @@ aliases:
   - Arkádios Philomédis
   - Arkádios Philomédis
   - Arkadios Philomedis
-  - character-arkdsphlmds
+  - being-arkdsphlmds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: arkdsphlmds
 img: icons/person.svg
 portrait: images/being/arkdsphlmds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

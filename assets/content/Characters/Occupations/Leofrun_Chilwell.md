@@ -1,7 +1,7 @@
 ---
 aliases:
   - Leofrun Chilwell
-  - character-lefrnchlwl
+  - being-lefrnchlwl
 tags: []
 name:
   full: Leofrun Chilwell
@@ -17,7 +17,7 @@ shortcode: lefrnchlwl
 img: icons/person.svg
 draft: true
 portrait: images/being/lefrnchlwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Trapper

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thyra Goldenhair
-  - character-thyrgldnhr
+  - being-thyrgldnhr
 tags:
   - hero
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thyrgldnhr
 img: icons/person.svg
 portrait: images/being/thyrgldnhr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Courtesan and Power Broker

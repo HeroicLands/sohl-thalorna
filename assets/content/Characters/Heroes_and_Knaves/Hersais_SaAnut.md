@@ -3,7 +3,7 @@ aliases:
   - Hersaîs SaAnut
   - Her'sa'îs Sa'Anut
   - Hersais SaAnut
-  - character-hersaisant
+  - being-hersaisant
 tags:
   - heroes-and-knaves
 name:
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
 img: icons/person.svg
 portrait: images/being/hersaisant-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

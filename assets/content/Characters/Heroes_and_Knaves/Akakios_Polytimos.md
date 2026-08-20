@@ -3,7 +3,7 @@ aliases:
   - Akákios Polytimós
   - Akákios Polytimós
   - Akakios Polytimos
-  - character-akksplytms
+  - being-akksplytms
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: akksplytms
 img: icons/person.svg
 portrait: images/being/akksplytms-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

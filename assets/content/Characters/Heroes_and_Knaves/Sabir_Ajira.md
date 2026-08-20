@@ -3,7 +3,7 @@ aliases:
   - Sâbir Âjira
   - Sâbir Âjira
   - Sabir Ajira
-  - character-sabirajira
+  - being-sabirajira
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: mtJ4TzKdySHbE2OM
 shortcode: sabirajira
 img: icons/person.svg
 portrait: images/being/sabirajira-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kalihara

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dire Honey Badger
-  - creature-drhnybdg
+  - being-drhnybdg
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: yfdwPLNfDfwLHV8b
 img: icons/game-icons/caro-asercion/badger.svg
 portrait: images/being/drhnybdg-portrait.webp
 shortcode: drhnybdg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

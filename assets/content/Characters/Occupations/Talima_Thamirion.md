@@ -2,7 +2,7 @@
 aliases:
   - Tàlîma Thamîrîon
   - Talima Thamirion
-  - character-talimthmrn
+  - being-talimthmrn
 tags: []
 name:
   full: Tàlîma Thamîrîon
@@ -18,7 +18,7 @@ shortcode: talimthmrn
 img: icons/person.svg
 draft: true
 portrait: images/being/talimthmrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms (Sapper)

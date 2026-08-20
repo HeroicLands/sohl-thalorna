@@ -1,7 +1,7 @@
 ---
 aliases:
   - Young Fire Dragon
-  - creature-yngfrdrg
+  - being-yngfrdrg
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: x9FJYB3bym5ZUUgs
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/yngfrdrg-portrait.webp
 shortcode: yngfrdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

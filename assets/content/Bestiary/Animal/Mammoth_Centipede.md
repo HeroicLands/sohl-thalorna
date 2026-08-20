@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mammoth Centipede
-  - creature-mmmthcnt
+  - being-mmmthcnt
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: DQLxBAAPzYaUa5K2
 img: icons/game-icons/lorc/centipede.svg
 portrait: images/being/mmmthcnt-portrait.webp
 shortcode: mmmthcnt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -2,7 +2,7 @@
 aliases:
   - Raiya Waset'neb
   - Raiya Wasetneb
-  - character-raiyawstnb
+  - being-raiyawstnb
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: raiyawstnb
 img: icons/person.svg
 portrait: images/being/raiyawstnb-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

@@ -2,7 +2,7 @@
 aliases:
   - Làgôra Xêrâzêndis
   - Lagora Xerazendis
-  - character-lagrxrznds
+  - being-lagrxrznds
 tags: []
 name:
   full: Làgôra Xêrâzêndis
@@ -18,7 +18,7 @@ shortcode: lagrxrznds
 img: icons/person.svg
 draft: true
 portrait: images/being/lagrxrznds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Fool

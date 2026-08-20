@@ -1,7 +1,7 @@
 ---
 aliases:
   - Erthran Hildvith
-  - character-erthrnhldvth
+  - being-erthrnhldvth
 tags: []
 name:
   full: Erthran Hildvith
@@ -17,7 +17,7 @@ shortcode: erthrnhldvth
 img: icons/person.svg
 draft: true
 portrait: images/being/erthrnhldvth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Trapper

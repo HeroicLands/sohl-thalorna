@@ -1,7 +1,7 @@
 ---
 aliases:
   - Earthcharger
-  - creature-erthchrg
+  - being-erthchrg
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: u8zP1zROlFGp2zuv
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/erthchrg-portrait.webp
 shortcode: erthchrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

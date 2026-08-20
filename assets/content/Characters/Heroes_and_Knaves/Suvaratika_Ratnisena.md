@@ -3,7 +3,7 @@ aliases:
   - Suvaratika Ratniseṇa
   - Suvaratika Ratniseṇa
   - Suvaratika Ratnisena
-  - character-suvrtkrtns
+  - being-suvrtkrtns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: suvrtkrtns
 img: icons/person.svg
 portrait: images/being/suvrtkrtns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

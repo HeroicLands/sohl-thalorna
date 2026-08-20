@@ -1,7 +1,7 @@
 ---
 aliases:
   - Wyvern
-  - creature-wyvern
+  - being-wyvern
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: f7qow0t2vLn2UWpk
 img: icons/game-icons/lorc/wyvern.svg
 portrait: images/being/wyvern-portrait.webp
 shortcode: wyvern
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

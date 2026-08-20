@@ -3,7 +3,7 @@ aliases:
   - Véldor Bélthal
   - Véldor Bélthal
   - Veldor Belthal
-  - character-veldrblthl
+  - being-veldrblthl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: veldrblthl
 img: icons/person.svg
 portrait: images/being/veldrblthl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

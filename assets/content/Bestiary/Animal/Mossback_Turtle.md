@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mossback Turtle
-  - creature-mssbcktr
+  - being-mssbcktr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 8e0pLwFIiIUuHOsb
 img: icons/game-icons/lorc/turtle.svg
 portrait: images/being/mssbcktr-portrait.webp
 shortcode: mssbcktr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

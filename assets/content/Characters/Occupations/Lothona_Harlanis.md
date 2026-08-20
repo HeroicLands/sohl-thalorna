@@ -2,7 +2,7 @@
 aliases:
   - Lôthônâ Hârlânis
   - Lothona Harlanis
-  - character-lothnhrlns
+  - being-lothnhrlns
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: lothnhrlns
 img: icons/person.svg
 draft: true
 portrait: images/being/lothnhrlns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

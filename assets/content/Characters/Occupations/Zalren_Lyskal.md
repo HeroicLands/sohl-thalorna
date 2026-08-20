@@ -2,7 +2,7 @@
 aliases:
   - Zálren Lýskal
   - Zalren Lyskal
-  - character-zalrnlyskl
+  - being-zalrnlyskl
 tags: []
 name:
   full: Zálren Lýskal
@@ -18,7 +18,7 @@ shortcode: zalrnlyskl
 img: icons/person.svg
 draft: true
 portrait: images/being/zalrnlyskl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcrafter

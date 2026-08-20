@@ -2,7 +2,7 @@
 aliases:
   - Belshar Gûlamû
   - Belshar Gulamu
-  - character-belsharglm
+  - being-belsharglm
 tags: []
 name:
   full: Belshar Gûlamû
@@ -18,7 +18,7 @@ shortcode: belsharglm
 img: icons/person.svg
 draft: true
 portrait: images/being/belsharglm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Locksmith

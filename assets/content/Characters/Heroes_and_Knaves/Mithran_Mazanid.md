@@ -3,7 +3,7 @@ aliases:
   - Mithran Mazânid
   - Mithran Mazânid
   - Mithran Mazanid
-  - character-mithrnmznd
+  - being-mithrnmznd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: mithrnmznd
 img: icons/person.svg
 portrait: images/being/mithrnmznd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mirelurker
-  - creature-mrlrkr
+  - being-mrlrkr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: EAg26B2pYAXS9TJv
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/mrlrkr-portrait.webp
 shortcode: mrlrkr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

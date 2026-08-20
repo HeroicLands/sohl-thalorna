@@ -3,7 +3,7 @@ aliases:
   - Dharmàpala Vimuktaṇa
   - Dharmàpala Vimuktaṇa
   - Dharmapala Vimuktana
-  - character-dhrmplvmkt
+  - being-dhrmplvmkt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: dhrmplvmkt
 img: icons/person.svg
 portrait: images/being/dhrmplvmkt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dhnrktjnpd

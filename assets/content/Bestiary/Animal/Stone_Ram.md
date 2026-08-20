@@ -1,7 +1,7 @@
 ---
 aliases:
   - Stone Ram
-  - creature-stoneram
+  - being-stoneram
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: ev0hqSRmPJlFtV7E
 img: icons/game-icons/delapouite/sheep.svg
 portrait: images/being/stoneram-portrait.webp
 shortcode: stoneram
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

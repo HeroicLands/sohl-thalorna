@@ -2,7 +2,7 @@
 aliases:
   - Tirye Djetamê
   - Tirye Djet'amê
-  - character-tiryedjetm
+  - being-tiryedjetm
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
 img: icons/person.svg
 portrait: images/being/tiryedjetm-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

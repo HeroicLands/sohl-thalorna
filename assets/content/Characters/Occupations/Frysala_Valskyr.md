@@ -2,7 +2,7 @@
 aliases:
   - Frýsala Válskyr
   - Frysala Valskyr
-  - character-fryslvlskyr
+  - being-fryslvlskyr
 tags: []
 name:
   full: Frýsala Válskyr
@@ -18,7 +18,7 @@ shortcode: fryslvlskyr
 img: icons/person.svg
 draft: true
 portrait: images/being/fryslvlskyr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chieftain

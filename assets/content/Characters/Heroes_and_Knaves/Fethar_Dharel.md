@@ -1,7 +1,7 @@
 ---
 aliases:
   - Féthar Dhárel
-  - character-fethardhrl
+  - being-fethardhrl
 tags:
   - tamzir-crew
 name:
@@ -17,7 +17,7 @@ shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/fethardhrl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz

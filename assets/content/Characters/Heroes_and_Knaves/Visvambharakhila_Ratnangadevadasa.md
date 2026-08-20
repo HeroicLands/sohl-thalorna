@@ -3,7 +3,7 @@ aliases:
   - Viśvambhārākhila Ratnāṅgadēvadāsa
   - Viśvambhārākhila Ratnāṅgadēvadāsa
   - Visvambharakhila Ratnangadevadasa
-  - character-vsvmbhrkhlrtngdvds
+  - being-vsvmbhrkhlrtngdvds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: vsvmbhrkhlrtngdvds
 img: icons/person.svg
 portrait: images/being/vsvmbhrkhlrtngdvds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

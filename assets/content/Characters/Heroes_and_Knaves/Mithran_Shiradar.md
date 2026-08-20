@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mithran Shiradar
-  - character-mthrnshrdr
+  - being-mthrnshrdr
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: kCKYObmsvraIezCd
 shortcode: mthrnshrdr
 img: icons/person.svg
 portrait: images/being/mthrnshrdr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dunhartrbs

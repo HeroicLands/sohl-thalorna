@@ -1,7 +1,7 @@
 ---
 aliases:
   - Aldous Brandon
-  - character-aldosbrndn
+  - being-aldosbrndn
 tags: []
 name:
   full: Aldous Brandon
@@ -17,7 +17,7 @@ shortcode: aldosbrndn
 img: icons/person.svg
 draft: true
 portrait: images/being/aldosbrndn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Charcoaler

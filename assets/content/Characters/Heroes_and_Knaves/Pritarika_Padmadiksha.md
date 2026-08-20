@@ -3,7 +3,7 @@ aliases:
   - Pritàrika Padmadîksha
   - Pritàrika Padmadîksha
   - Pritarika Padmadiksha
-  - character-prtrkpdmdksh
+  - being-prtrkpdmdksh
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: prtrkpdmdksh
 img: icons/person.svg
 portrait: images/being/prtrkpdmdksh-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: suvrgrjnpd

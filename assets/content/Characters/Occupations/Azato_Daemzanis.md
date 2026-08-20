@@ -2,7 +2,7 @@
 aliases:
   - Azatô Dâemzânis
   - Azato Daemzanis
-  - character-azatodmzns
+  - being-azatodmzns
 tags: []
 name:
   full: Azatô Dâemzânis
@@ -18,7 +18,7 @@ shortcode: azatodmzns
 img: icons/person.svg
 draft: true
 portrait: images/being/azatodmzns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Alchemist

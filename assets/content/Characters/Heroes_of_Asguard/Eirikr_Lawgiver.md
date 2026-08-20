@@ -2,7 +2,7 @@
 aliases:
   - Eiríkr Lawgiver
   - Eirikr Lawgiver
-  - character-eirkrlwgvr
+  - being-eirkrlwgvr
 tags:
   - paragon
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: eirkrlwgvr
 img: icons/person.svg
 portrait: images/being/eirkrlwgvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Judge and Lawman

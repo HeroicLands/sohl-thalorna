@@ -3,7 +3,7 @@ aliases:
   - Theomídes Epiphaniôtês
   - Theomídes Epiphaniôtês
   - Theomides Epiphaniotes
-  - character-thmdspphnts
+  - being-thmdspphnts
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: thmdspphnts
 img: icons/person.svg
 portrait: images/being/thmdspphnts-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

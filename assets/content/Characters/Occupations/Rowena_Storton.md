@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rowena Storton
-  - character-rowenstrtn
+  - being-rowenstrtn
 tags: []
 name:
   full: Rowena Storton
@@ -17,7 +17,7 @@ shortcode: rowenstrtn
 img: icons/person.svg
 draft: true
 portrait: images/being/rowenstrtn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Animal Trainer

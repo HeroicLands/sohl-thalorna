@@ -2,7 +2,7 @@
 aliases:
   - Pâtûri Lamûshî
   - Paturi Lamushi
-  - character-paturilmsh
+  - being-paturilmsh
 tags: []
 name:
   full: Pâtûri Lamûshî
@@ -18,7 +18,7 @@ shortcode: paturilmsh
 img: icons/person.svg
 draft: true
 portrait: images/being/paturilmsh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cook

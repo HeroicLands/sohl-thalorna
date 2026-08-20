@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Hedgehog
-  - creature-gnthdghg
+  - being-gnthdghg
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: DWJU5xSE5N4KxtaN
 img: icons/game-icons/caro-asercion/hedgehog.svg
 portrait: images/being/gnthdghg-portrait.webp
 shortcode: gnthdghg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shardbeak
-  - creature-shrdbk
+  - being-shrdbk
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: P8wL9XPubsbvSFty
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/shrdbk-portrait.webp
 shortcode: shrdbk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

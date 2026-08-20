@@ -1,7 +1,7 @@
 ---
 aliases:
   - Yâsûra the Jackal
-  - character-yasurajckl
+  - being-yasurajckl
 tags:
   - heroes-and-knaves
   - hero
@@ -20,7 +20,7 @@ folder: 7H2fgS0uI3S0B1qz
 shortcode: yasurajckl
 img: icons/person.svg
 portrait: images/being/yasurajckl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: mtrrchybth
@@ -620,7 +620,7 @@ Yâsûra was born to a minor clan of the southern cantons of the [[doc-mtrrchybt
 
 ### The Fall
 
-Her ruin came through a hunt — the same hunt that scarred her face. Years ago a fugitive she had reason to shelter, or was bound by debt or kin to protect, was run to ground in her cantons by the rising thief-taker **[[character-zahirmlkht|Zahira Malkhet]]**, then still building the name that would become the Hound of the Veil. The hunt turned bloody on Yâsûra's own ground; people under her protection died, her judgement was called into question, and the matter reached higher than she could answer. The Houses needed a failure to blame, and a minor clan's daughter served. Yâsûra was **stripped of her commission, cast out of her House, and exiled** — unmade, in a single season, from a spear-sister of the realm into a woman with no House, no standing, and no country. She knows exactly whom to blame: had **[[character-zahirmlkht|Zahira]]** never come hunting into her cantons, Yâsûra would still have her rank, her House, and the name she was born with. Zahira is, quite simply, _the reason she is what she is_ — and that is a debt the Jackal-Queen means to collect in full. It is not the contract that drives her after the Hound of the Veil; it is the exile.
+Her ruin came through a hunt — the same hunt that scarred her face. Years ago a fugitive she had reason to shelter, or was bound by debt or kin to protect, was run to ground in her cantons by the rising thief-taker **[[being-zahirmlkht|Zahira Malkhet]]**, then still building the name that would become the Hound of the Veil. The hunt turned bloody on Yâsûra's own ground; people under her protection died, her judgement was called into question, and the matter reached higher than she could answer. The Houses needed a failure to blame, and a minor clan's daughter served. Yâsûra was **stripped of her commission, cast out of her House, and exiled** — unmade, in a single season, from a spear-sister of the realm into a woman with no House, no standing, and no country. She knows exactly whom to blame: had **[[being-zahirmlkht|Zahira]]** never come hunting into her cantons, Yâsûra would still have her rank, her House, and the name she was born with. Zahira is, quite simply, _the reason she is what she is_ — and that is a debt the Jackal-Queen means to collect in full. It is not the contract that drives her after the Hound of the Veil; it is the exile.
 
 ### The Jackal-Queen
 
@@ -633,7 +633,7 @@ It was in those years that the byname found her. Whether the marcher clans first
 - **The Charíssa**: Yâsûra was trained from girlhood in the Bethûan open-hand killing art, and remains lethal weaponless — a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
 - **Spear-Sister's Craft**: Years as a Lonkha officer gave her real command, tactics, and discipline, which she has bent to the warband — her Jackals fight as a trained pack, not a rabble, and her Spádai core fights in the Bethûan manner.
 - **Mounted Raider**: A superb horsewoman, deadly with scimitar and throwing-axe from the saddle, at home in the waterless marcher country she once patrolled and now rules.
-- **A Personal Stake**: Against [[character-zahirmlkht|Zahira]] in particular she is more dangerous than any contract could make her — she has waited years for the chance to repay the woman who unmade her.
+- **A Personal Stake**: Against [[being-zahirmlkht|Zahira]] in particular she is more dangerous than any contract could make her — she has waited years for the chance to repay the woman who unmade her.
 
 ## Psyche
 
@@ -651,7 +651,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Weaknesses
 
-- **The grudge** against [[character-zahirmlkht|Zahira]] clouds her otherwise careful judgement
+- **The grudge** against [[being-zahirmlkht|Zahira]] clouds her otherwise careful judgement
 - **A divided band**: her loyal Houseless core is small; the marcher men who pad her ranks ride for loot and scatter when it dries up
 - **An exile among exiles**: feared by Bethûa and distrusted by the Marches alike, she has no true country to fall back on
 
@@ -659,11 +659,11 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Enemies
 
-- **[[character-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]**: The thief-taker whose long-ago hunt cost Yâsûra her commission, her House, and her country. Yâsûra wants her dead by her own hand, and the present contract to run her down is, to the Jackal-Queen, the settling of the oldest debt she owns as much as any paid job.
+- **[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]**: The thief-taker whose long-ago hunt cost Yâsûra her commission, her House, and her country. Yâsûra wants her dead by her own hand, and the present contract to run her down is, to the Jackal-Queen, the settling of the oldest debt she owns as much as any paid job.
 
 ### Patrons of Convenience
 
-- **[[character-casiaveric|Cassia Verric]]**: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[character-rshrhssfrn|Rashîra]] needs to cross the Marches toward the Kheperi frontier. Yâsûra does not know — or care — whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
+- **[[being-casiaveric|Cassia Verric]]**: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashîra]] needs to cross the Marches toward the Kheperi frontier. Yâsûra does not know — or care — whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
 ### The Band
 
@@ -671,22 +671,22 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### The Prize on Her Ground
 
-- **[[character-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border — the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[doc-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself — and the woman it threw away now holds, by sheerest accident, the power to ruin it.
+- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border — the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[doc-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself — and the woman it threw away now holds, by sheerest accident, the power to ruin it.
 
 ## Plot Hooks
 
 1. **The Hunt Comes South**:
 
-   Rashîra's flight into the **[[affiliation-jcklsthmrchs|South Marches]]** brings the one quarry Yâsûra truly wants onto her own ground: [[character-zahirmlkht|Zahira]], hunting straight into the territory of the woman she unmade. Paid through [[character-casiaveric|Verric's]] agents to cost the Hound the time her own quarry needs, Yâsûra needs no second reason — it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Zahira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
+   Rashîra's flight into the **[[affiliation-jcklsthmrchs|South Marches]]** brings the one quarry Yâsûra truly wants onto her own ground: [[being-zahirmlkht|Zahira]], hunting straight into the territory of the woman she unmade. Paid through [[being-casiaveric|Verric's]] agents to cost the Hound the time her own quarry needs, Yâsûra needs no second reason — it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Zahira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
 
 2. **Two Daughters of the Matriarchy**:
 
-   The hunt forces Yâsûra and [[character-zahirmlkht|Zahira]] face to face at last — two Bethûan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Zahira can be made to see what her old success really cost.
+   The hunt forces Yâsûra and [[being-zahirmlkht|Zahira]] face to face at last — two Bethûan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Zahira can be made to see what her old success really cost.
 
 3. **A Warlord's Price**:
 
-   Approached by the other side, Yâsûra proves willing to hear an offer — her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[character-casiaveric|Verric's]] leash entirely.
+   Approached by the other side, Yâsûra proves willing to hear an offer — her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verric's]] leash entirely.
 
 4. **The Register and the Jackal**:
 
-   Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach — and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[doc-empirtkhpr|Ta'Kheperu]], while [[character-casiaveric|Cassia]], the Veil, and [[character-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.
+   Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach — and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[doc-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.

@@ -3,7 +3,7 @@ aliases:
   - Tamûra Sūryatejamahānanda
   - Tamûra Sūryatejamahānanda
   - Tamura Suryatejamahananda
-  - character-tmrsrytjmhnnd
+  - being-tmrsrytjmhnnd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: tmrsrytjmhnnd
 img: icons/person.svg
 portrait: images/being/tmrsrytjmhnnd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: rajaprjnpd

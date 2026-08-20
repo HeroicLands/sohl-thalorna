@@ -3,7 +3,7 @@ aliases:
   - Bjǫrn Vetrdómr
   - Bjǫrn Vetrdómr
   - Bjorn Vetrdomr
-  - character-bjrnvtrdmr
+  - being-bjrnvtrdmr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: bjrnvtrdmr
 img: icons/person.svg
 portrait: images/being/bjrnvtrdmr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

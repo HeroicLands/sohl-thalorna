@@ -2,7 +2,7 @@
 aliases:
   - Mália Náredh
   - Malia Naredh
-  - character-malianardh
+  - being-malianardh
 tags: []
 name:
   full: Mália Náredh
@@ -18,7 +18,7 @@ shortcode: malianardh
 img: icons/person.svg
 draft: true
 portrait: images/being/malianardh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herder

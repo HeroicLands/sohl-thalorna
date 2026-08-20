@@ -2,7 +2,7 @@
 aliases:
   - Hâlira Náredh
   - Halira Naredh
-  - character-haliranrdh
+  - being-haliranrdh
 tags: []
 name:
   full: Hâlira Náredh
@@ -18,7 +18,7 @@ shortcode: haliranrdh
 img: icons/person.svg
 draft: true
 portrait: images/being/haliranrdh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scribe

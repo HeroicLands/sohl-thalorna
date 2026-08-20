@@ -1,7 +1,7 @@
 ---
 aliases:
   - Inga Harvest-Blessed
-  - character-inghrvstblsd
+  - being-inghrvstblsd
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: inghrvstblsd
 img: icons/person.svg
 portrait: images/being/inghrvstblsd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

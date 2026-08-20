@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edith Wolford
-  - character-edithwlfrd
+  - being-edithwlfrd
 tags: []
 name:
   full: Edith Wolford
@@ -17,7 +17,7 @@ shortcode: edithwlfrd
 img: icons/person.svg
 draft: true
 portrait: images/being/edithwlfrd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Jeweller

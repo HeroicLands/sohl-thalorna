@@ -2,7 +2,7 @@
 aliases:
   - Magnús Skǫllbrandr
   - Magnus Skollbrandr
-  - character-mgnsklbrndr
+  - being-mgnsklbrndr
 tags: []
 name:
   full: Magnús Skǫllbrandr
@@ -18,7 +18,7 @@ shortcode: mgnsklbrndr
 img: icons/person.svg
 draft: true
 portrait: images/being/mgnsklbrndr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Jeweller

@@ -2,7 +2,7 @@
 aliases:
   - Girdanû Rashîmû
   - Girdanu Rashimu
-  - character-girdanrshm
+  - being-girdanrshm
 tags: []
 name:
   full: Girdanû Rashîmû
@@ -18,7 +18,7 @@ shortcode: girdanrshm
 img: icons/person.svg
 draft: true
 portrait: images/being/girdanrshm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gladiator

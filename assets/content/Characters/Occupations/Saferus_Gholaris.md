@@ -2,7 +2,7 @@
 aliases:
   - Sáfêrús Ghôlâris
   - Saferus Gholaris
-  - character-safrsghlrs
+  - being-safrsghlrs
 tags: []
 name:
   full: Sáfêrús Ghôlâris
@@ -18,7 +18,7 @@ shortcode: safrsghlrs
 img: icons/person.svg
 draft: true
 portrait: images/being/safrsghlrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Clothier

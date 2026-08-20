@@ -3,7 +3,7 @@ aliases:
   - Sharmînah Tahvân
   - Sharmînah Tahvân
   - Sharminah Tahvan
-  - character-shrmnhthvn
+  - being-shrmnhthvn
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: shrmnhthvn
 img: icons/person.svg
 portrait: images/being/shrmnhthvn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: tribestrzd

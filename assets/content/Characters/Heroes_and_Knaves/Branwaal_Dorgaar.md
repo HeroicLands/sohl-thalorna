@@ -1,7 +1,7 @@
 ---
 aliases:
   - Brànwâal Dôrgaar
-  - character-branwldrgr
+  - being-branwldrgr
 tags:
   - hero
   - silent-talon
@@ -16,7 +16,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: branwldrgr
 img: icons/person.svg
 portrait: images/being/branwldrgr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz
@@ -717,10 +717,10 @@ Brànwâal seeks to restore his family's honor and reclaim their lost lands by a
 
 ## Companions
 
-- **[[character-elyseskyrn|Elýsè Skýrn]]**: The band's healer and alchemist.
-- **[[character-torniskbry|Tórnis Kúbrý]]**: Scout, spy, and infiltrator.
-- **[[character-chlbrhydyn|Chéleb Rhýddýn]]**: Áelendan tracker and archer.
-- **[[character-dornsyndlr|Dôren Sýndalr]]**: Frontline fighter and axeman.
+- **[[being-elyseskyrn|Elýsè Skýrn]]**: The band's healer and alchemist.
+- **[[being-torniskbry|Tórnis Kúbrý]]**: Scout, spy, and infiltrator.
+- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Áelendan tracker and archer.
+- **[[being-dornsyndlr|Dôren Sýndalr]]**: Frontline fighter and axeman.
 
 ### Patrons
 

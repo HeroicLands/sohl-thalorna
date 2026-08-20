@@ -2,7 +2,7 @@
 aliases:
   - Déraen Kálmereth
   - Deraen Kalmereth
-  - character-dernklmrth
+  - being-dernklmrth
 tags: []
 name:
   full: Déraen Kálmereth
@@ -18,7 +18,7 @@ shortcode: dernklmrth
 img: icons/person.svg
 draft: true
 portrait: images/being/dernklmrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Salter

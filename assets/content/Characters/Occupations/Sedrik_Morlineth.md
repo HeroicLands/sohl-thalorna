@@ -2,7 +2,7 @@
 aliases:
   - Sédrik Mórlineth
   - Sedrik Morlineth
-  - character-sdrkmrlnth
+  - being-sdrkmrlnth
 tags: []
 name:
   full: Sédrik Mórlineth
@@ -18,7 +18,7 @@ shortcode: sdrkmrlnth
 img: icons/person.svg
 draft: true
 portrait: images/being/sdrkmrlnth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gaoler

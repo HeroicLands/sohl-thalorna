@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thornback Boar
-  - creature-thrnbckb
+  - being-thrnbckb
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: eQYklk8rdEDE0Dzb
 img: icons/game-icons/caro-asercion/boar.svg
 portrait: images/being/thrnbckb-portrait.webp
 shortcode: thrnbckb
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

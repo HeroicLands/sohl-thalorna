@@ -2,7 +2,7 @@
 aliases:
   - Dûmàrês Râfîrôs
   - Dumares Rafiros
-  - character-dumarsrfrs
+  - being-dumarsrfrs
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: dumarsrfrs
 img: icons/person.svg
 draft: true
 portrait: images/being/dumarsrfrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

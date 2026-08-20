@@ -3,7 +3,7 @@ aliases:
   - Anûraja Harṣadēvāmbujakar
   - Anûraja Harṣadēvāmbujakar
   - Anuraja Harsadevambujakar
-  - character-anrjhrdvmbjkr
+  - being-anrjhrdvmbjkr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: anrjhrdvmbjkr
 img: icons/person.svg
 portrait: images/being/anrjhrdvmbjkr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

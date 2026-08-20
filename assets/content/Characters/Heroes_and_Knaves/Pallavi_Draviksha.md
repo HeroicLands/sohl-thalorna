@@ -3,7 +3,7 @@ aliases:
   - Pallàvi Drâviksha
   - Pallàvi Drâviksha
   - Pallavi Draviksha
-  - character-palvdrvksh
+  - being-palvdrvksh
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: palvdrvksh
 img: icons/person.svg
 portrait: images/being/palvdrvksh-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Titan Beetle
-  - creature-ttnbtl
+  - being-ttnbtl
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: uIJSscPVcBwVMyGp
 img: icons/game-icons/lorc/scarab-beetle.svg
 portrait: images/being/ttnbtl-portrait.webp
 shortcode: ttnbtl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

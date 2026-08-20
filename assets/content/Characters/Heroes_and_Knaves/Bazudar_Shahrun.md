@@ -3,7 +3,7 @@ aliases:
   - Bazûdar Shahrûn
   - Bazûdar Shahrûn
   - Bazudar Shahrun
-  - character-bazdrshhrn
+  - being-bazdrshhrn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: bazdrshhrn
 img: icons/person.svg
 portrait: images/being/bazdrshhrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

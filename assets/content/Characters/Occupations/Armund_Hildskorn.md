@@ -2,7 +2,7 @@
 aliases:
   - Ármund Hildskorn
   - Armund Hildskorn
-  - character-armndhldskrn
+  - being-armndhldskrn
 tags: []
 name:
   full: Ármund Hildskorn
@@ -18,7 +18,7 @@ shortcode: armndhldskrn
 img: icons/person.svg
 draft: true
 portrait: images/being/armndhldskrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Jester

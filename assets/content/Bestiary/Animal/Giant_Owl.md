@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Owl
-  - creature-giantowl
+  - being-giantowl
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: QQBrXJej14IhQbcW
 img: icons/game-icons/lorc/owl.svg
 portrait: images/being/giantowl-portrait.webp
 shortcode: giantowl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

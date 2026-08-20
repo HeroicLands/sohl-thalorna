@@ -3,7 +3,7 @@ aliases:
   - Màkîthos Vânardis
   - Màkîthos Vânardis
   - Makithos Vanardis
-  - character-mkthsvnrds
+  - being-mkthsvnrds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: mkthsvnrds
 img: icons/person.svg
 portrait: images/being/mkthsvnrds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provnchyln

@@ -2,7 +2,7 @@
 aliases:
   - Estára Sánriceth
   - Estara Sanriceth
-  - character-estrsnrcth
+  - being-estrsnrcth
 tags: []
 name:
   full: Estára Sánriceth
@@ -18,7 +18,7 @@ shortcode: estrsnrcth
 img: icons/person.svg
 draft: true
 portrait: images/being/estrsnrcth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Teamster

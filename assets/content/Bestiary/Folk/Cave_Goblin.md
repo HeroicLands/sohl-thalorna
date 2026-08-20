@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cave Goblin
-  - creature-cvgbln
+  - being-cvgbln
 tags:
   - folk
 name:
@@ -12,7 +12,7 @@ id: pDiXk1iBL5unp4Q3
 img: icons/game-icons/caro-asercion/goblin.svg
 portrait: images/being/cvgbln-portrait.webp
 shortcode: cvgbln
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: goblin

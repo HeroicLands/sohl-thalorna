@@ -1,7 +1,7 @@
 ---
 aliases:
   - Grimshadow
-  - creature-grmshdw
+  - being-grmshdw
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: S7yW1LZ9GR7D7Zdg
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/grmshdw-portrait.webp
 shortcode: grmshdw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

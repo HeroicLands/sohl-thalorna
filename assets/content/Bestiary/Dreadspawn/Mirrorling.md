@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mirrorling
-  - creature-mrrrlng
+  - being-mrrrlng
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: u7FShyu98eDuRwVS
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/mrrrlng-portrait.webp
 shortcode: mrrrlng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

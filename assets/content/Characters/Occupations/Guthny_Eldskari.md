@@ -2,7 +2,7 @@
 aliases:
   - Guthný Eldskari
   - Guthny Eldskari
-  - character-gthnyldskr
+  - being-gthnyldskr
 tags: []
 name:
   full: Guthný Eldskari
@@ -18,7 +18,7 @@ shortcode: gthnyldskr
 img: icons/person.svg
 draft: true
 portrait: images/being/gthnyldskr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Labourer (farm)

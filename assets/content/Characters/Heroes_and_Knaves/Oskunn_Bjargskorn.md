@@ -3,7 +3,7 @@ aliases:
   - Óskunn Bjargskorn
   - Óskunn Bjargskorn
   - Oskunn Bjargskorn
-  - character-osknbjrgskrn
+  - being-osknbjrgskrn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: osknbjrgskrn
 img: icons/person.svg
 portrait: images/being/osknbjrgskrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmnrgd

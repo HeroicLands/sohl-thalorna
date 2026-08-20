@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Spider
-  - creature-gntspdr
+  - being-gntspdr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: HzxG1auqS4IJfpH1
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/gntspdr-portrait.webp
 shortcode: gntspdr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

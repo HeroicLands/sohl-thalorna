@@ -3,7 +3,7 @@ aliases:
   - Gahiji wa Fénjara
   - Gahiji wa Fénjara
   - Gahiji wa Fenjara
-  - character-gahijwfnjr
+  - being-gahijwfnjr
 tags:
   - heroes-and-knaves
   - hero
@@ -20,7 +20,7 @@ folder: j9OL4rpRFGxbX57i
 shortcode: gahijwfnjr
 img: icons/person.svg
 portrait: images/being/gahijwfnjr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: nylbtrblntn
@@ -695,7 +695,7 @@ Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe 
 
 Gahiji's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Gahiji was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
 
-When [[character-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[character-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
+When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
 
 ### Skills and Abilities
 

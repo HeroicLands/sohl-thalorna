@@ -1,7 +1,7 @@
 ---
 aliases:
   - Starcrawler
-  - creature-strcrwlr
+  - being-strcrwlr
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: KwgKiSFDeCgFjebo
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/strcrwlr-portrait.webp
 shortcode: strcrwlr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

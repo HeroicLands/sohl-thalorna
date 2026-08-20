@@ -2,7 +2,7 @@
 aliases:
   - Chýnara Kórisvar
   - Chynara Korisvar
-  - character-chynrkrsvr
+  - being-chynrkrsvr
 tags: []
 name:
   full: Chýnara Kórisvar
@@ -18,7 +18,7 @@ shortcode: chynrkrsvr
 img: icons/person.svg
 draft: true
 portrait: images/being/chynrkrsvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Salter

@@ -3,7 +3,7 @@ aliases:
   - Thorlákr Vindrkvé
   - Thorlákr Vindrkvé
   - Thorlakr Vindrkve
-  - character-thrlkrvndrkv
+  - being-thrlkrvndrkv
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thrlkrvndrkv
 img: icons/person.svg
 portrait: images/being/thrlkrvndrkv-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm
