@@ -328,18 +328,26 @@ The project spans several repositories in the `HeroicLands` organization, and �
 of the process split — **each one tracks its own work.** There is no central
 tracker.
 
-| Repository                        | Tracks                                                                      |
-| --------------------------------- | --------------------------------------------------------------------------- |
-| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build |
-| `sohl-thalorna`                   | **This repository** — the `thalorna` package and the `/thalorna` site       |
-| `sohl-kethira-basic`              | The `kethira` package — unofficial Hârn fan material, Foundry packs only    |
-| `heroiclands-site`                | heroiclands.org — the Hugo site, Cloudflare Pages, the CDN                  |
+| Repository                        | Tracks                                                                       |
+| --------------------------------- | ---------------------------------------------------------------------------- |
+| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build  |
+| `sohl-thalorna`                   | **This repository** — the `thalorna` package and the `/thalorna` site        |
+| `sohl-kethira-basic`              | The `kethira` package — unofficial Hârn fan material, Foundry packs only     |
+| `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                     |
+| `heroiclands-hugo-theme`          | The shared Hugo theme this site renders through — layouts, partials, styling |
 
 **File the issue where the work will be done.** The rule is delivery, not subject: if
 the fix is an edit to a file in this repository, the issue belongs here, even when the
 symptom shows up elsewhere. A Thalorna note rendering wrong because of a **theme**
 bug is a theme issue; the same note rendering wrong because of its own frontmatter is
 an issue here.
+
+**Telling those two apart:** the theme is the same bytes for every site that renders
+through it, so if a page is wrong here and the equivalent page is fine on `/sohl`,
+the variable is this repository's content or site config — not the theme. If it is
+wrong on both, file it in `heroiclands-hugo-theme`. Anything about a URL, menu entry,
+or branding is ours either way: the theme carries no addresses, `site/hugo.toml`
+does.
 
 **When work genuinely spans two repositories, file in each and link them.** Cross-repo
 references work fine (`HeroicLands/<repo>#123`); what does **not** work is closing:
