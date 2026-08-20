@@ -265,7 +265,7 @@ Per-legion specialist staff:
 | **Fabricar**  | Armorer / smith                                                                                                     |
 | **Medicar**   | Field surgeon (typically several per legion, including assistants)                                                  |
 | **Scribar**   | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld                                              | Imperial Scribal Guild]]-trained) |
-| **Augurar**   | Diviner/chaplain — reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis | Ordo Arcanis]]                    |
+| **Augurar**   | Diviner/chaplain — reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Ordo Arcanis]]                    |
 
 ## Cavalry, Auxiliaries, and Naval
 

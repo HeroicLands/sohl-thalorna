@@ -282,20 +282,20 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 ## At a Glance
 
 |                       |                                                                                                                                                                     |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Name**              | Magnápolis — _the Great City_ (also "the Polis," "the Magna")                                                                                                       |
 | **Demonym**           | Magnápolitan                                                                                                                                                        |
-| **Nation**            | [[doc-vylarinmpr                                                                                                                                                    | Vylarian Empire]]                                                                                         |
-| **Region**            | [[doc-midhalnrgn                                                                                                                                                    | Midhalion]], western [[doc-ankrscntnnt                                                                    | Ankaris]]                                    |
+| **Nation**            | [[doc-vylarinmpr\|Vylarian Empire]]                                                                                         |
+| **Region**            | [[doc-midhalnrgn\|Midhalion]], western [[doc-ankrscntnnt\|Ankaris]]                                    |
 | **Population**        | 750,000–1,000,000 (city + outskirts)                                                                                                                                |
 | **Setting**           | A cluster of six hills on the eastern bank of the [[River Vylaris]]; the Inner City crowns the highest, Mons Aquila                                                 |
 | **The Six Hills**     | Mons Aquila (Inner City & Palace); Mons Corónus & Mons Lauríne (the Heights); Mons Sápiens (Scholars'); Mons Vétus (the faded hill); Mons Rípae (above the Wharves) |
-| **Seat of power**     | The [[doc-palatimgnm                                                                                                                                                | Grand Palace]], in the walled Inner City — **[[Magnapolis_Inner_City\|Urbs Aquilion]]**, atop Mons Aquila |
-| **Governing bodies**  | The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar                                                         | Vylarian Senate]]; the civic [[Courts_of_Magnapolis\|Curia Urbis]] and the courts beneath it              |
-| **Defenses**          | The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (the city has no outer wall); the [[affiliation-vylrnmltry                            | City Watch]] (urban cohorts); the [[affiliation-pratrgstrm                                                | Praetar Augustarum]] guarding the Inner City |
+| **Seat of power**     | The [[doc-palatimgnm\|Grand Palace]], in the walled Inner City — **[[Magnapolis_Inner_City\|Urbs Aquilion]]**, atop Mons Aquila |
+| **Governing bodies**  | The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar\|Vylarian Senate]]; the civic [[Courts_of_Magnapolis\|Curia Urbis]] and the courts beneath it              |
+| **Defenses**          | The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (the city has no outer wall); the [[affiliation-vylrnmltry\|City Watch]] (urban cohorts); the [[affiliation-pratrgstrm\|Praetar Augustarum]] guarding the Inner City |
 | **Signature marvels** | The [[Grand Orrery\|Mechanical Court]], the [[Temple of the Twelve]], the [[Circus Maximus (Magnápolis)\|Circus Maximus]], the great Circles                        |
-| **Dominant faith**    | [[affiliation-arldnpnthn                                                                                                                                            | Aurèldían Pantheon]] (state religion); all major pantheons represented                                    |
-| **Arcane presence**   | The [[affiliation-ordoarcanis                                                                                                                                       | Ordo Arcanis]] — openly displayed here as nowhere else                                                    |
+| **Dominant faith**    | [[affiliation-arldnpnthn\|Aurèldían Pantheon]] (state religion); all major pantheons represented                                    |
+| **Arcane presence**   | The [[affiliation-ordoarcanis\|Ordo Arcanis]] — openly displayed here as nowhere else                                                    |
 
 ---
 
