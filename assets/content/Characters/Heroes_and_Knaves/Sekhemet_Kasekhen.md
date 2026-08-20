@@ -2,7 +2,7 @@
 aliases:
   - Sekhemet Ka'sekhen
   - Sekhemet Kasekhen
-  - character-skhmtkskhn
+  - being-skhmtkskhn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: skhmtkskhn
 img: icons/person.svg
 portrait: images/being/skhmtkskhn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

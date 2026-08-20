@@ -1,7 +1,7 @@
 ---
 aliases:
   - Eldgrimr Flameheart
-  - character-eldgrmrflmhrt
+  - being-eldgrmrflmhrt
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: eldgrmrflmhrt
 img: icons/person.svg
 portrait: images/being/eldgrmrflmhrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Champion

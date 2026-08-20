@@ -3,7 +3,7 @@ aliases:
   - Júthâra Jâmîthôn
   - Júthâra Jâmîthôn
   - Juthara Jamithon
-  - character-juthrjmthn
+  - being-juthrjmthn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: pRBSOhf2qVrV1SQB
 shortcode: juthrjmthn
 img: icons/person.svg
 portrait: images/being/juthrjmthn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: mtrrchybth

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadowclaw
-  - creature-shdwclw
+  - being-shdwclw
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: jjuIModhoOI5xUyv
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/shdwclw-portrait.webp
 shortcode: shdwclw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Vaporwisp
-  - creature-vprwsp
+  - being-vprwsp
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: SZSbxQbHhZFFCLQh
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/vprwsp-portrait.webp
 shortcode: vprwsp
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

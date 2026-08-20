@@ -2,7 +2,7 @@
 aliases:
   - Hathura Isefré
   - Hathura Ise'fré
-  - character-hathurasfr
+  - being-hathurasfr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
 img: icons/person.svg
 portrait: images/being/hathurasfr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

@@ -2,7 +2,7 @@
 aliases:
   - Delânash Faradân
   - Delanash Faradan
-  - character-delnshfrdn
+  - being-delnshfrdn
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: delnshfrdn
 img: icons/person.svg
 draft: true
 portrait: images/being/delnshfrdn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

@@ -3,7 +3,7 @@ aliases:
   - Fakhrad Tamârân
   - Fakhrad Tamârân
   - Fakhrad Tamaran
-  - character-fakhrdtmrn
+  - being-fakhrdtmrn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: fakhrdtmrn
 img: icons/person.svg
 portrait: images/being/fakhrdtmrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

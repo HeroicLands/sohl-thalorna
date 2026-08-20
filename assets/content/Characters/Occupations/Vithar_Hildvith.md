@@ -2,7 +2,7 @@
 aliases:
   - Vithár Hildvith
   - Vithar Hildvith
-  - character-vthrhldvth
+  - being-vthrhldvth
 tags: []
 name:
   full: Vithár Hildvith
@@ -18,7 +18,7 @@ shortcode: vthrhldvth
 img: icons/person.svg
 draft: true
 portrait: images/being/vthrhldvth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)

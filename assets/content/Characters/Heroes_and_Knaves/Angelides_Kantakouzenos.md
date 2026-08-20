@@ -3,7 +3,7 @@ aliases:
   - Ángelides Kantakouzenós
   - Ángelides Kantakouzenós
   - Angelides Kantakouzenos
-  - character-angldskntkzns
+  - being-angldskntkzns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: angldskntkzns
 img: icons/person.svg
 portrait: images/being/angldskntkzns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Verdantcoil
-  - creature-vrdntcl
+  - being-vrdntcl
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: e18xTUwy6qZEDvSE
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/vrdntcl-portrait.webp
 shortcode: vrdntcl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

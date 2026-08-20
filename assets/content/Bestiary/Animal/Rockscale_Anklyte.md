@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rockscale Anklyte
-  - creature-rcksclan
+  - being-rcksclan
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: UWITLnj5XOBDX43o
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/rcksclan-portrait.webp
 shortcode: rcksclan
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

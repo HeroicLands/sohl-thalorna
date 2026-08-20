@@ -2,7 +2,7 @@
 aliases:
   - Maḥmûdrós Gharîdís
   - Mahmudros Gharidis
-  - character-mmdrsghrds
+  - being-mmdrsghrds
 tags: []
 name:
   full: Maḥmûdrós Gharîdís
@@ -18,7 +18,7 @@ shortcode: mmdrsghrds
 img: icons/person.svg
 draft: true
 portrait: images/being/mmdrsghrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hideworker

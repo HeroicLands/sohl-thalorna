@@ -2,7 +2,7 @@
 aliases:
   - Hármund Vetrdómr
   - Harmund Vetrdomr
-  - character-hrmndvtrdmr
+  - being-hrmndvtrdmr
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: hrmndvtrdmr
 img: icons/person.svg
 draft: true
 portrait: images/being/hrmndvtrdmr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

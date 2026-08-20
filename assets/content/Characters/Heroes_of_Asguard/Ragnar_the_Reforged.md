@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ragnar the Reforged
-  - character-ragnarfrgd
+  - being-ragnarfrgd
 tags:
   - demigod
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: ragnarfrgd
 img: icons/person.svg
 portrait: images/being/ragnarfrgd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Champion

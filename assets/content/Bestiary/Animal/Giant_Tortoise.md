@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Tortoise
-  - creature-gnttrts
+  - being-gnttrts
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: ydAbGU9VRn1tdWQ5
 img: icons/game-icons/delapouite/tortoise.svg
 portrait: images/being/gnttrts-portrait.webp
 shortcode: gnttrts
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

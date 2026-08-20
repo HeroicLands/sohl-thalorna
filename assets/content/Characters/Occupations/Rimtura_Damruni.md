@@ -2,7 +2,7 @@
 aliases:
   - Rimtûra Damrûnî
   - Rimtura Damruni
-  - character-rimturdmrn
+  - being-rimturdmrn
 tags: []
 name:
   full: Rimtûra Damrûnî
@@ -18,7 +18,7 @@ shortcode: rimturdmrn
 img: icons/person.svg
 draft: true
 portrait: images/being/rimturdmrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Litigant

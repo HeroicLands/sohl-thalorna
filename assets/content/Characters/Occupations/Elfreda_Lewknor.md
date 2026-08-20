@@ -1,7 +1,7 @@
 ---
 aliases:
   - Elfreda Lewknor
-  - character-elfrdlwknr
+  - being-elfrdlwknr
 tags: []
 name:
   full: Elfreda Lewknor
@@ -17,7 +17,7 @@ shortcode: elfrdlwknr
 img: icons/person.svg
 draft: true
 portrait: images/being/elfrdlwknr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Farmer

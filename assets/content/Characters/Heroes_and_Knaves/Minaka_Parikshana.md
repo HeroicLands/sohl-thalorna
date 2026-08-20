@@ -3,7 +3,7 @@ aliases:
   - Minàka Parikṣhana
   - Minàka Parikṣhana
   - Minaka Parikshana
-  - character-minakprkhn
+  - being-minakprkhn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: minakprkhn
 img: icons/person.svg
 portrait: images/being/minakprkhn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2

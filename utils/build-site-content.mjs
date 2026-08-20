@@ -72,7 +72,13 @@ import {
 import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
 import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
 import { hasDocEntry } from "@heroiclands/content-build/engine/item-docs";
-import { CONTENT_PACKAGE } from "@heroiclands/content-build/engine/content-package";
+import { contentPackage } from "@heroiclands/content-build/engine/content-package";
+
+// Resolved once, here, rather than at each use. The package exports these as
+// accessors so that *importing* a module never needs a consumer config; this is
+// a build entry point, which always has one, so reading them at module scope is
+// the same instant the script runs.
+const CONTENT_PACKAGE = contentPackage();
 
 const REPO = path.resolve(".");
 const CONTENT_SRC = path.join(REPO, "assets/content");
@@ -129,7 +135,7 @@ const MANIFEST_OUT = path.join(REPO, "build/manifests");
  * already been linked and bookmarked, and whose portraits had already been
  * uploaded to the CDN under the old segment. Two things depend on this record:
  * the Hugo `aliases` that keep the old address answering, and `artwork`, the
- * filename the character and creature sidebars ask the CDN for.
+ * filename the being sidebar asks the CDN for.
  *
  * Entries are append-only history: never edit one, and only add a row when a
  * page's URL changes again. Absent → a page redirects from nothing and its
@@ -194,9 +200,9 @@ const GEAR_TYPE_TO_KEY = {
 /**
  * Derive a being's sidebar fields from its raw `sohl.items[]`.
  *
- * A character/creature note carries its embedded documents as `sohl.items` —
- * `{ shortcode, type, system? }` entries — but the shared theme's character /
- * creature sidebars read flattened, resolved shapes: a `skills` map, grouped
+ * A `being` note carries its embedded documents as `sohl.items` —
+ * `{ shortcode, type, system? }` entries — but the shared theme's being
+ * sidebar reads flattened, resolved shapes: a `skills` map, grouped
  * `gear`, and `spells` / `talents`. Each item's `shortcode` resolves against the
  * content-wide `index` (`"<type>:<shortcode>" → { name, url }`) for display
  * names and links. Attributes already match the sidebar shape and pass through
@@ -644,7 +650,7 @@ for (const e of entries) {
   if (fm.traits?.gender) data.gender = fm.traits.gender;
   if (fm.social?.occupation) data.occupation = fm.social.occupation;
 
-  if (fm.type === "character" || fm.type === "creature") {
+  if (fm.type === "being") {
     data.sohl = deriveBeingSohl(fm.sohl, refIndex);
   }
   applyHistory(data, fm, slug, e.url);

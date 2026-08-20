@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ethelinda Wigmore
-  - character-ethlndwgmr
+  - being-ethlndwgmr
 tags: []
 name:
   full: Ethelinda Wigmore
@@ -17,7 +17,7 @@ shortcode: ethlndwgmr
 img: icons/person.svg
 draft: true
 portrait: images/being/ethlndwgmr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gaoler

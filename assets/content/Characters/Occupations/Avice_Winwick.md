@@ -1,7 +1,7 @@
 ---
 aliases:
   - Avice Winwick
-  - character-avicewnwck
+  - being-avicewnwck
 tags: []
 name:
   full: Avice Winwick
@@ -17,7 +17,7 @@ shortcode: avicewnwck
 img: icons/person.svg
 draft: true
 portrait: images/being/avicewnwck-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercantyler (Supercargo)

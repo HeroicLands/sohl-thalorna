@@ -2,7 +2,7 @@
 aliases:
   - Sofíenna Torvaleth
   - Sofienna Torvaleth
-  - character-sofntrvlth
+  - being-sofntrvlth
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: sofntrvlth
 img: icons/person.svg
 draft: true
 portrait: images/being/sofntrvlth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

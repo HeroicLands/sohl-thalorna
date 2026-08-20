@@ -2,7 +2,7 @@
 aliases:
   - Arkálòrdâs Kâlmâkanês
   - Arkalordas Kalmakanes
-  - character-arklrdsklmkns
+  - being-arklrdsklmkns
 tags: []
 name:
   full: Arkálòrdâs Kâlmâkanês
@@ -18,7 +18,7 @@ shortcode: arklrdsklmkns
 img: icons/person.svg
 draft: true
 portrait: images/being/arklrdsklmkns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Common Seaman

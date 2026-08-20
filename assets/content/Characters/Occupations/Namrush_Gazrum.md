@@ -2,7 +2,7 @@
 aliases:
   - Namrûsh Gazrûm
   - Namrush Gazrum
-  - character-namrshgzrm
+  - being-namrshgzrm
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: namrshgzrm
 img: icons/person.svg
 draft: true
 portrait: images/being/namrshgzrm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

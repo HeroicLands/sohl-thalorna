@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gloomfang
-  - creature-glmfng
+  - being-glmfng
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: PdsQX4rPIfQgbxtn
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/glmfng-portrait.webp
 shortcode: glmfng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

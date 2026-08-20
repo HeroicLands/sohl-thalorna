@@ -2,7 +2,7 @@
 aliases:
   - Hallbjǫrn Ásgrind
   - Hallbjorn Asgrind
-  - character-hlbjrnsgrnd
+  - being-hlbjrnsgrnd
 tags: []
 name:
   full: Hallbjǫrn Ásgrind
@@ -18,7 +18,7 @@ shortcode: hlbjrnsgrnd
 img: icons/person.svg
 draft: true
 portrait: images/being/hlbjrnsgrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hunter

@@ -3,7 +3,7 @@ aliases:
   - Nárava Sūryatejamahānanda
   - Nárava Sūryatejamahānanda
   - Narava Suryatejamahananda
-  - character-nrvsrytjmhnnd
+  - being-nrvsrytjmhnnd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: nrvsrytjmhnnd
 img: icons/person.svg
 portrait: images/being/nrvsrytjmhnnd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2

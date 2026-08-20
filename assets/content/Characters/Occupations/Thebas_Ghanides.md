@@ -2,7 +2,7 @@
 aliases:
   - Thêbas Ghânîdês
   - Thebas Ghanides
-  - character-thebsghnds
+  - being-thebsghnds
 tags: []
 name:
   full: Thêbas Ghânîdês
@@ -18,7 +18,7 @@ shortcode: thebsghnds
 img: icons/person.svg
 draft: true
 portrait: images/being/thebsghnds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Teamster

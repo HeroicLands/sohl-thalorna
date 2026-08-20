@@ -2,7 +2,7 @@
 aliases:
   - Tákoro Zanethar
   - Takoro Zanethar
-  - character-takorozanethar
+  - being-takorozanethar
 tags: []
 name:
   full: Tákoro Zanethar
@@ -15,7 +15,7 @@ folder: 5ECInZ91R1WeEtYz
 shortcode: takorozanethar
 img: images/takoro-zanethar-headshot.webp
 portrait: images/being/takorozanethar-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: okharis

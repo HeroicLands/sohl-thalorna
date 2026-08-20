@@ -3,7 +3,7 @@ aliases:
   - Phótianos Stratégopoulos
   - Phótianos Stratégopoulos
   - Photianos Strategopoulos
-  - character-phtnstrtgpls
+  - being-phtnstrtgpls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: phtnstrtgpls
 img: icons/person.svg
 portrait: images/being/phtnstrtgpls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

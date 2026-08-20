@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edmund Wolford
-  - character-edmndwlfrd
+  - being-edmndwlfrd
 tags: []
 name:
   full: Edmund Wolford
@@ -17,7 +17,7 @@ shortcode: edmndwlfrd
 img: icons/person.svg
 draft: true
 portrait: images/being/edmndwlfrd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Clothier

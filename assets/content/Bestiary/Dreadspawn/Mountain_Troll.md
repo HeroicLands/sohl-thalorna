@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mountain Troll
-  - creature-mntntrll
+  - being-mntntrll
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: CkpnCdKnSiNWnnjO
 img: icons/game-icons/skoll/troll.svg
 portrait: images/being/mntntrll-portrait.webp
 shortcode: mntntrll
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

@@ -2,7 +2,7 @@
 aliases:
   - Azéndas Dâemâtôr
   - Azendas Daemator
-  - character-azendsdmtr
+  - being-azendsdmtr
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: azendsdmtr
 img: icons/person.svg
 draft: true
 portrait: images/being/azendsdmtr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

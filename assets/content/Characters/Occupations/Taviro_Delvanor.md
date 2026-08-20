@@ -2,7 +2,7 @@
 aliases:
   - Tavíro Delvánor
   - Taviro Delvanor
-  - character-tavirdlvnr
+  - being-tavirdlvnr
 tags: []
 name:
   full: Tavíro Delvánor
@@ -18,7 +18,7 @@ shortcode: tavirdlvnr
 img: icons/person.svg
 draft: true
 portrait: images/being/tavirdlvnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Common Seaman

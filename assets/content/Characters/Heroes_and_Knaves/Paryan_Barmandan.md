@@ -1,7 +1,7 @@
 ---
 aliases:
   - Paryan Barmandan
-  - character-prynbrmndn
+  - being-prynbrmndn
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: prynbrmndn
 img: icons/person.svg
 portrait: images/being/prynbrmndn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

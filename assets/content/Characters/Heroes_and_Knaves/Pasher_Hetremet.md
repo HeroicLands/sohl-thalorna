@@ -2,7 +2,7 @@
 aliases:
   - Pasher Het'remet
   - Pasher Hetremet
-  - character-pashrhtrmt
+  - being-pashrhtrmt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
 img: icons/person.svg
 portrait: images/being/pashrhtrmt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

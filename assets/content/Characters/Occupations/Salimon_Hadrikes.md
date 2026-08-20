@@ -2,7 +2,7 @@
 aliases:
   - Sâlimón Hâdrîkês
   - Salimon Hadrikes
-  - character-salmnhdrks
+  - being-salmnhdrks
 tags: []
 name:
   full: Sâlimón Hâdrîkês
@@ -18,7 +18,7 @@ shortcode: salmnhdrks
 img: icons/person.svg
 draft: true
 portrait: images/being/salmnhdrks-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Scholar

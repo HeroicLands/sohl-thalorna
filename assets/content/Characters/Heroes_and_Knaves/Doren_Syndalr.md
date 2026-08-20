@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dôren Sýndalr
-  - character-dornsyndlr
+  - being-dornsyndlr
 tags:
   - hero
   - silent-talon
@@ -16,7 +16,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: dornsyndlr
 img: icons/person.svg
 portrait: images/being/dornsyndlr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz
@@ -704,10 +704,10 @@ Dôren seeks stability after losing his family and home. He has little desire fo
 
 ## Companions
 
-- **[[character-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Kôris respects Brànwâal's competence and follows his orders without question.
-- **[[character-elyseskyrn|Elýsè Skýrn]]**: Fellow band member. Kôris is protective of her.
-- **[[character-torniskbry|Tórnis Kúbrý]]**: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
-- **[[character-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
+- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Kôris respects Brànwâal's competence and follows his orders without question.
+- **[[being-elyseskyrn|Elýsè Skýrn]]**: Fellow band member. Kôris is protective of her.
+- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
+- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
 
 ### Patrons
 

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rootwraith
-  - creature-rtwrth
+  - being-rtwrth
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 1deqLlOJoWRJ2sPS
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/rtwrth-portrait.webp
 shortcode: rtwrth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

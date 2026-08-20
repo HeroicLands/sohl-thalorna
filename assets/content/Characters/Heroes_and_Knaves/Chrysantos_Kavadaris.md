@@ -3,7 +3,7 @@ aliases:
   - Chrysántos Kavadáris
   - Chrysántos Kavadáris
   - Chrysantos Kavadaris
-  - character-chrysntskvdrs
+  - being-chrysntskvdrs
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: chrysntskvdrs
 img: icons/person.svg
 portrait: images/being/chrysntskvdrs-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg
@@ -743,7 +743,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 
 1. **The Cursed Artifact**: Chrysántos acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, psychological deterioration. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Chrysántos is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Chrysántos discovers that the artifact may indeed be genuinely supernatural in nature. He must determine whether to recover it, find a way to neutralize whatever curse attends it, or convince the collector that the misfortunes are coincidental.
 
-2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Chrysántos personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Chrysántos faces not merely financial loss but serious legal consequences. The thief proves to be operatives from the Thieves' Guild (possibly including **[[character-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]**), who were hired to steal the piece by a rival merchant attempting to damage Chrysántos's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
+2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Chrysántos personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Chrysántos faces not merely financial loss but serious legal consequences. The thief proves to be operatives from the Thieves' Guild (possibly including **[[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]**), who were hired to steal the piece by a rival merchant attempting to damage Chrysántos's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
 
 3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Tharenis**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Chrysántos discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Tharenis to drive his business into Chrysántos's ready hands. The question becomes: who orchestrated Tharenis's ruin, why did they choose to benefit Chrysántos, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Chrysántos to become their broker and facilitate specific acquisitions for unknown purposes.
 

@@ -2,7 +2,7 @@
 aliases:
   - Nûlazî Zarrâshî
   - Nulazi Zarrashi
-  - character-nulazizrsh
+  - being-nulazizrsh
 tags: []
 name:
   full: Nûlazî Zarrâshî
@@ -18,7 +18,7 @@ shortcode: nulazizrsh
 img: icons/person.svg
 draft: true
 portrait: images/being/nulazizrsh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Timberwright

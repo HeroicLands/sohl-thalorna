@@ -2,7 +2,7 @@
 aliases:
   - Floréth Bránthira
   - Floreth Branthira
-  - character-flrthbrnthr
+  - being-flrthbrnthr
 tags: []
 name:
   full: Floréth Bránthira
@@ -18,7 +18,7 @@ shortcode: flrthbrnthr
 img: icons/person.svg
 draft: true
 portrait: images/being/flrthbrnthr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Labourer (semi-skilled)

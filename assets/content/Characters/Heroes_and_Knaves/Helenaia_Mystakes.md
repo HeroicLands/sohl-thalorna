@@ -3,7 +3,7 @@ aliases:
   - Hélénaia Mystákês
   - Hélénaia Mystákês
   - Helenaia Mystakes
-  - character-helnmystks
+  - being-helnmystks
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: helnmystks
 img: icons/person.svg
 portrait: images/being/helnmystks-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

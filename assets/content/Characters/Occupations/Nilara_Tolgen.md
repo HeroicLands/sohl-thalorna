@@ -2,7 +2,7 @@
 aliases:
   - Nílara Tólgen
   - Nilara Tolgen
-  - character-nilaratlgn
+  - being-nilaratlgn
 tags: []
 name:
   full: Nílara Tólgen
@@ -18,7 +18,7 @@ shortcode: nilaratlgn
 img: icons/person.svg
 draft: true
 portrait: images/being/nilaratlgn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Archer

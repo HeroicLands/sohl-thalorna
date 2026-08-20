@@ -2,7 +2,7 @@
 aliases:
   - Bréthar Sálthar
   - Brethar Salthar
-  - character-brthrslthr
+  - being-brthrslthr
 tags: []
 name:
   full: Bréthar Sálthar
@@ -18,7 +18,7 @@ shortcode: brthrslthr
 img: icons/person.svg
 draft: true
 portrait: images/being/brthrslthr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Charcoaler

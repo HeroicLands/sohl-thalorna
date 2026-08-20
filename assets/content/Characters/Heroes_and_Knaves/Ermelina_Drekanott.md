@@ -3,7 +3,7 @@ aliases:
   - Ermelína Drekanótt
   - Ermelína Drekanótt
   - Ermelina Drekanott
-  - character-ermlndrknt
+  - being-ermlndrknt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: ermlndrknt
 img: icons/person.svg
 portrait: images/being/ermlndrknt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrgd

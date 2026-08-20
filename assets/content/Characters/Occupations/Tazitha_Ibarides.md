@@ -2,7 +2,7 @@
 aliases:
   - Tázîtha Ibârîdês
   - Tazitha Ibarides
-  - character-tazithbrds
+  - being-tazithbrds
 tags: []
 name:
   full: Tázîtha Ibârîdês
@@ -18,7 +18,7 @@ shortcode: tazithbrds
 img: icons/person.svg
 draft: true
 portrait: images/being/tazithbrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Charcoaler

@@ -2,7 +2,7 @@
 aliases:
   - Tirrûsh Namrûzî
   - Tirrush Namruzi
-  - character-tirushnmrz
+  - being-tirushnmrz
 tags: []
 name:
   full: Tirrûsh Namrûzî
@@ -18,7 +18,7 @@ shortcode: tirushnmrz
 img: icons/person.svg
 draft: true
 portrait: images/being/tirushnmrz-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Glassworker

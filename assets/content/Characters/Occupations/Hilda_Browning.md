@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hilda Browning
-  - character-hildbrwnng
+  - being-hildbrwnng
 tags: []
 name:
   full: Hilda Browning
@@ -17,7 +17,7 @@ shortcode: hildbrwnng
 img: icons/person.svg
 draft: true
 portrait: images/being/hildbrwnng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Prostitute

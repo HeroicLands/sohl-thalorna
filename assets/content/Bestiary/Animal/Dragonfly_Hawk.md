@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dragonfly Hawk
-  - creature-drgnflyh
+  - being-drgnflyh
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: Ld3BjQ7uxeuVYQa7
 img: icons/game-icons/lorc/dragonfly.svg
 portrait: images/being/drgnflyh-portrait.webp
 shortcode: drgnflyh
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

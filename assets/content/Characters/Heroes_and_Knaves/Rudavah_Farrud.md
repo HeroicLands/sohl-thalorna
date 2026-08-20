@@ -3,7 +3,7 @@ aliases:
   - Rudâvah Farrud
   - Rudâvah Farrud
   - Rudavah Farrud
-  - character-rudavahfrd
+  - being-rudavahfrd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: rudavahfrd
 img: icons/person.svg
 portrait: images/being/rudavahfrd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

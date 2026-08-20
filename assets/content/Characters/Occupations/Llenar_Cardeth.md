@@ -2,7 +2,7 @@
 aliases:
   - Llénar Cárdeth
   - Llenar Cardeth
-  - character-lenarcrdth
+  - being-lenarcrdth
 tags: []
 name:
   full: Llénar Cárdeth
@@ -18,7 +18,7 @@ shortcode: lenarcrdth
 img: icons/person.svg
 draft: true
 portrait: images/being/lenarcrdth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ratter

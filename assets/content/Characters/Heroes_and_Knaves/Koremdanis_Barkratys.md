@@ -3,7 +3,7 @@ aliases:
   - Korêmdânis Bárkrâtys
   - Korêmdânis Bárkrâtys
   - Koremdanis Barkratys
-  - character-krmdnsbrkrtys
+  - being-krmdnsbrkrtys
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: krmdnsbrkrtys
 img: icons/person.svg
 portrait: images/being/krmdnsbrkrtys-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provincvld

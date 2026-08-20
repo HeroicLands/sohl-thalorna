@@ -2,7 +2,7 @@
 aliases:
   - Tamîtha Jâdurîon
   - Tamitha Jadurion
-  - character-tamithjdrn
+  - being-tamithjdrn
 tags: []
 name:
   full: Tamîtha Jâdurîon
@@ -18,7 +18,7 @@ shortcode: tamithjdrn
 img: icons/person.svg
 draft: true
 portrait: images/being/tamithjdrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mason

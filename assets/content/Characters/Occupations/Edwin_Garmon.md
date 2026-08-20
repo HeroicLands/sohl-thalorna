@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edwin Garmon
-  - character-edwingarmn
+  - being-edwingarmn
 tags: []
 name:
   full: Edwin Garmon
@@ -17,7 +17,7 @@ shortcode: edwingarmn
 img: icons/person.svg
 draft: true
 portrait: images/being/edwingarmn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

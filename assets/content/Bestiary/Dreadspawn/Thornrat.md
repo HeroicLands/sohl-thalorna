@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thornrat
-  - creature-thornrat
+  - being-thornrat
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: RIxGnXKWRth60BN7
 img: icons/game-icons/delapouite/rat.svg
 portrait: images/being/thornrat-portrait.webp
 shortcode: thornrat
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

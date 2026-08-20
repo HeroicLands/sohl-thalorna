@@ -2,7 +2,7 @@
 aliases:
   - Dalzûru Tûbashî
   - Dalzuru Tubashi
-  - character-dalzurtbsh
+  - being-dalzurtbsh
 tags: []
 name:
   full: Dalzûru Tûbashî
@@ -18,7 +18,7 @@ shortcode: dalzurtbsh
 img: icons/person.svg
 draft: true
 portrait: images/being/dalzurtbsh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Skald

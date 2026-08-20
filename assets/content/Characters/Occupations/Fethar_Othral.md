@@ -2,7 +2,7 @@
 aliases:
   - Féthar Óthral
   - Fethar Othral
-  - character-fetharthrl
+  - being-fetharthrl
 tags: []
 name:
   full: Féthar Óthral
@@ -18,7 +18,7 @@ shortcode: fetharthrl
 img: icons/person.svg
 draft: true
 portrait: images/being/fetharthrl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Potter

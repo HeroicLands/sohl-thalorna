@@ -3,7 +3,7 @@ aliases:
   - Xadrôs Dâemâtês
   - Xadrôs Dâemâtês
   - Xadros Daemates
-  - character-xadrosdmts
+  - being-xadrosdmts
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: xadrosdmts
 img: icons/person.svg
 portrait: images/being/xadrosdmts-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: hlykngdmnrtm

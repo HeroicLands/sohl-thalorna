@@ -2,7 +2,7 @@
 aliases:
   - Zádìmêros Mâkîthôn
   - Zadimeros Makithon
-  - character-zdmrsmkthn
+  - being-zdmrsmkthn
 tags: []
 name:
   full: Zádìmêros Mâkîthôn
@@ -18,7 +18,7 @@ shortcode: zdmrsmkthn
 img: icons/person.svg
 draft: true
 portrait: images/being/zdmrsmkthn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cartographer/Artist

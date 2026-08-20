@@ -1,7 +1,7 @@
 ---
 aliases:
   - Octowolf
-  - creature-octowolf
+  - being-octowolf
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: BwTf4AoCnGxgkYyZ
 img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/octowolf-portrait.webp
 shortcode: octowolf
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

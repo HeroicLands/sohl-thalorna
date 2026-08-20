@@ -1,7 +1,7 @@
 ---
 aliases:
   - Phantomwing
-  - creature-phntmwng
+  - being-phntmwng
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: HgferELsOeHk6yUO
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/phntmwng-portrait.webp
 shortcode: phntmwng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

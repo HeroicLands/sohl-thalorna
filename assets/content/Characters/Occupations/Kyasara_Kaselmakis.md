@@ -2,7 +2,7 @@
 aliases:
   - Kyàsârâ Kâselmakîs
   - Kyasara Kaselmakis
-  - character-kysrkslmks
+  - being-kysrkslmks
 tags: []
 name:
   full: Kyàsârâ Kâselmakîs
@@ -18,7 +18,7 @@ shortcode: kysrkslmks
 img: icons/person.svg
 draft: true
 portrait: images/being/kysrkslmks-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thespian

@@ -3,7 +3,7 @@ aliases:
   - Màdhurava Rudraṭa
   - Màdhurava Rudraṭa
   - Madhurava Rudrata
-  - character-madhurvrdr
+  - being-madhurvrdr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: madhurvrdr
 img: icons/person.svg
 portrait: images/being/madhurvrdr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

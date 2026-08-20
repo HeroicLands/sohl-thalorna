@@ -2,7 +2,7 @@
 aliases:
   - Meneti Shap'kher
   - Meneti Shapkher
-  - character-mentshpkhr
+  - being-mentshpkhr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
 img: icons/person.svg
 portrait: images/being/mentshpkhr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

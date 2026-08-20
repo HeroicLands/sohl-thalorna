@@ -2,7 +2,7 @@
 aliases:
   - Párthun Cárdeth
   - Parthun Cardeth
-  - character-prthncrdth
+  - being-prthncrdth
 tags: []
 name:
   full: Párthun Cárdeth
@@ -18,7 +18,7 @@ shortcode: prthncrdth
 img: icons/person.svg
 draft: true
 portrait: images/being/prthncrdth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thespian

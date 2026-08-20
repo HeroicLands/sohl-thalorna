@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dire Wolverine
-  - creature-drwlvrn
+  - being-drwlvrn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 9zpdW3LB7gb3PZXi
 img: icons/game-icons/caro-asercion/badger.svg
 portrait: images/being/drwlvrn-portrait.webp
 shortcode: drwlvrn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

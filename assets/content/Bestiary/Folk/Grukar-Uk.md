@@ -1,7 +1,7 @@
 ---
 aliases:
   - Grukar-Uk
-  - creature-grukaruk
+  - being-grukaruk
 tags:
   - folk
 name:
@@ -12,7 +12,7 @@ id: VBfGJvhWaj4uisjN
 img: icons/game-icons/delapouite/orc-head.svg
 portrait: images/being/grukaruk-portrait.webp
 shortcode: grukaruk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: grukar

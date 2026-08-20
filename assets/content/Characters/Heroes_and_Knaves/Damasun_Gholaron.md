@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dámàsûn Ghôlâron
-  - character-damsnghlrn
+  - being-damsnghlrn
 tags:
   - tamzir-crew
 name:
@@ -17,7 +17,7 @@ shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/damsnghlrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: ctysttshlns

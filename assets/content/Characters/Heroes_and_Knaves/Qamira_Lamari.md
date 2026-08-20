@@ -3,7 +3,7 @@ aliases:
   - Qâmira Lamari
   - Qâmira Lamari
   - Qamira Lamari
-  - character-qamiralamr
+  - being-qamiralamr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: mtJ4TzKdySHbE2OM
 shortcode: qamiralamr
 img: icons/person.svg
 portrait: images/being/qamiralamr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kalihara

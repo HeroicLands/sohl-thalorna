@@ -1,7 +1,7 @@
 ---
 aliases:
   - Eshe wa Magara
-  - character-eshewamagr
+  - being-eshewamagr
 tags:
   - heroes-and-knaves
   - hero
@@ -18,7 +18,7 @@ folder: 5ECInZ91R1WeEtYz
 shortcode: eshewamagr
 img: icons/person.svg
 portrait: images/being/eshewamagr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: okharis
@@ -686,9 +686,9 @@ Her most notable feature is the series of tribal markings etched into her skin, 
 
 # Dossier {#dossier}
 
-Eshe wa Magara is a fierce warrior hailing from the **Magara** people, a neighboring Okháris tribe known for their martial prowess and connection to spirit weapons. Unlike [[character-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Eshe’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the zohira—that set her apart.
+Eshe wa Magara is a fierce warrior hailing from the **Magara** people, a neighboring Okháris tribe known for their martial prowess and connection to spirit weapons. Unlike [[being-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Eshe’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the zohira—that set her apart.
 
-The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Eshe was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Eshe’s destiny became intertwined with [[character-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Eshe joined [[character-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
+The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Eshe was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Eshe’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Eshe joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
 
 ### Skills and Abilities
 
@@ -700,7 +700,7 @@ The Spirit Blade, passed down through the generations, grants its wielder the ab
 - **Comeliness**: Eshe’s rugged appearance is not traditionally beautiful, but her strength and confidence give her a powerful presence that commands respect.
 - **Aura**: Her bond with the Spirit Blade and her spiritual training give her a significant presence in the spirit realm, making her a formidable force against spiritual enemies.
 - **Will**: Eshe’s determination is one of her greatest strengths; once she sets her mind to a task, she does not falter, no matter the challenge.
-- **Reasoning**: Eshe is practical and sensible, often relying on her instincts and training to solve problems in combat, though she is not a strategist like [[character-kirobashkm|Kiroba]].
+- **Reasoning**: Eshe is practical and sensible, often relying on her instincts and training to solve problems in combat, though she is not a strategist like [[being-kirobashkm|Kiroba]].
 - **Creativity**: While she doesn’t rely on creativity in battle, Eshe’s experience allows her to adapt quickly to new threats and environments.
 - **Empathy**: Eshe is focused on her duty as a protector, sometimes making her seem distant or unemotional, though she cares deeply for those she protects.
 - **Eloquence**: Eshe is not one for grand speeches, but when she speaks, her words are calm, measured, and carry the weight of her experience.
@@ -708,13 +708,13 @@ The Spirit Blade, passed down through the generations, grants its wielder the ab
 - **Voice**: Eshe’s voice is steady and clear, capable of delivering war chants or spiritual invocations, though not particularly notable for its musical quality.
 - **Spirit Blade Mastery**: Eshe’s sword can harm spirits and spiritual beings as easily as it cuts through physical foes. Her connection with the blade allows her to sense disturbances in the spiritual realm.
 - **Martial Expertise**: Eshe is highly trained in both melee and ranged combat, making her a versatile and dangerous fighter in any situation.
-- **Guardian’s Instinct**: Eshe is fiercely protective of [[character-kirobashkm|Kiroba]] and the group, often acting as the vanguard in combat and shielding them from attacks.
+- **Guardian’s Instinct**: Eshe is fiercely protective of [[being-kirobashkm|Kiroba]] and the group, often acting as the vanguard in combat and shielding them from attacks.
 
 ## Psyche
 
 ### Personality
 
-Eshe is a pragmatic and fearless warrior, with a deep sense of loyalty to her people and to the greater good. She is highly protective of [[character-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way to ensure their safety. Despite her harsh upbringing, Eshe has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
+Eshe is a pragmatic and fearless warrior, with a deep sense of loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way to ensure their safety. Despite her harsh upbringing, Eshe has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
 
 ## Social
 

@@ -3,7 +3,7 @@ aliases:
   - Ósk Drekanótt
   - Ósk Drekanótt
   - Osk Drekanott
-  - character-oskdrekant
+  - being-oskdrekant
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: oskdrekant
 img: icons/person.svg
 portrait: images/being/oskdrekant-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdomlgn

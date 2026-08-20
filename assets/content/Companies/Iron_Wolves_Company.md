@@ -48,7 +48,7 @@ The defining incident in the company's history occurred twenty-six years ago, in
 
 What occurred at Trianthion was substantially more than the standard. By the end of the day every adult in the village had been killed. The bandit chief was among them but indistinguishable, by the time the bodies were counted, from any other victim. The company collected its standard rate and departed. The lord paid without comment.
 
-Trianthion is the central wound in the company's modern history. It produced one famous defection ([[character-kyrksptrks|Kyriákos Patrikios]], whose subsequent decades of attempted obscurity in a peripheral village have not protected him from the company's standing interest in his whereabouts). It produced the lasting reputation that has since made the company synonymous, in League political discourse, with the kinds of work that the League prefers not to acknowledge purchasing. And it produced the internal culture — a self-perception of professional ruthlessness — that has shaped the company's recruitment, training, and contract selection ever since.
+Trianthion is the central wound in the company's modern history. It produced one famous defection ([[being-kyrksptrks|Kyriákos Patrikios]], whose subsequent decades of attempted obscurity in a peripheral village have not protected him from the company's standing interest in his whereabouts). It produced the lasting reputation that has since made the company synonymous, in League political discourse, with the kinds of work that the League prefers not to acknowledge purchasing. And it produced the internal culture — a self-perception of professional ruthlessness — that has shaped the company's recruitment, training, and contract selection ever since.
 
 ## Organization
 
@@ -63,7 +63,7 @@ The company is structured along legion lines, with adaptations for mercenary wor
 ### Notable Personnel
 
 - **Captain Lukás Themiras** — professional, methodical, cold-blooded by selection rather than by temperament. He has no record of personal cruelty and is regarded by his men as fair, even generous. His decisions about which contracts to accept are the moral question that he, alone among the company, refuses to ask.
-- **First-Sergeant Karûsh** — Lukás's senior field deputy and a Trianthion veteran. Karûsh was a lieutenant at Trianthion under the previous captain and has never forgiven [[character-kyrksptrks|Kyriákos Patrikios]] for his subsequent desertion. Karûsh keeps an informal standing inquiry running for any rumor of Kyriákos's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
+- **First-Sergeant Karûsh** — Lukás's senior field deputy and a Trianthion veteran. Karûsh was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-kyrksptrks|Kyriákos Patrikios]] for his subsequent desertion. Karûsh keeps an informal standing inquiry running for any rumor of Kyriákos's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
 - **First-Sergeant Demetrion Aikastos** — the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
 - **Lieutenant Ariana Pelagiou** — commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
 
@@ -95,7 +95,7 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 - **The Byzarian League** — formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
 - **The [[affiliation-malldbndlg|Málaliðabandalag]]** — unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain.
 - **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — interested counterparty. Both the [[affiliation-velvethand|Velvet Hand]] and the [[affiliation-theashroad|Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
-- **[[character-kyrksptrks|Kyriákos Patrikios]]** — the great unfinished business. The company's standing position is that Kyriákos is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
+- **[[being-kyrksptrks|Kyriákos Patrikios]]** — the great unfinished business. The company's standing position is that Kyriákos is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
 
 ## Identifying Marks
 

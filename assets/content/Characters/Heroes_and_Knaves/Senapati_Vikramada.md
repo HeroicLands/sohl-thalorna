@@ -3,7 +3,7 @@ aliases:
   - Sénapati Vikramâda
   - Sénapati Vikramâda
   - Senapati Vikramada
-  - character-senptvkrmd
+  - being-senptvkrmd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: senptvkrmd
 img: icons/person.svg
 portrait: images/being/senptvkrmd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vyalendra2

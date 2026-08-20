@@ -2,7 +2,7 @@
 aliases:
   - Valáren Álvianar
   - Valaren Alvianar
-  - character-valarnlvnr
+  - being-valarnlvnr
 tags: []
 name:
   full: Valáren Álvianar
@@ -18,7 +18,7 @@ shortcode: valarnlvnr
 img: icons/person.svg
 draft: true
 portrait: images/being/valarnlvnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bureaucrat

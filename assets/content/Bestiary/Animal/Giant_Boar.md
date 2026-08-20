@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Boar
-  - creature-gntbr
+  - being-gntbr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: lZvL9MY97JDX0GeN
 img: icons/game-icons/caro-asercion/boar.svg
 portrait: images/being/gntbr-portrait.webp
 shortcode: gntbr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

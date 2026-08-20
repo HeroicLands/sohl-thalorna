@@ -3,7 +3,7 @@ aliases:
   - Sênta TaSereket
   - Sênta Ta'Sereket
   - Senta TaSereket
-  - character-sentatsrkt
+  - being-sentatsrkt
 tags:
   - heroes-and-knaves
 name:
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
 img: icons/person.svg
 portrait: images/being/sentatsrkt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

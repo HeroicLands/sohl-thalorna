@@ -49,7 +49,7 @@ The guild maintains the **Cartographic Archive** in Byzaría, the central reposi
 
 ## Notable Members
 
-- **Master [[character-damklsmpsn|Damáklios Sampsiôn]]** — among the finest cartographers in the known world, suspected by the League's city guard of espionage. The investigation is ongoing.
+- **Master [[being-damklsmpsn|Damáklios Sampsiôn]]** — among the finest cartographers in the known world, suspected by the League's city guard of espionage. The investigation is ongoing.
 - **Master Vésalon** (deceased) — legendary mentor; trained Damáklios. Famous for the dictum, _the map is not the territory but the territory is judged against the map._
 - **Master Méchon** — a younger, jealous talent, cultivating relationships with the city guard and quietly spreading insinuations against Damáklios. Méchon's motives are not entirely pure; he hopes to inherit Damáklios's commissions and is not above hastening the outcome.
 

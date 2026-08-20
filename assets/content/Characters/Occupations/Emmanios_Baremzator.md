@@ -2,7 +2,7 @@
 aliases:
   - Émmanîôs Bàremzâtôr
   - Emmanios Baremzator
-  - character-emnsbrmztr
+  - being-emnsbrmztr
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: emnsbrmztr
 img: icons/person.svg
 draft: true
 portrait: images/being/emnsbrmztr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

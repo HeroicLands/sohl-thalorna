@@ -2,7 +2,7 @@
 aliases:
   - Kàlendrîs Korkâlenîs
   - Kalendris Korkalenis
-  - character-klndrskrklns
+  - being-klndrskrklns
 tags: []
 name:
   full: Kàlendrîs Korkâlenîs
@@ -18,7 +18,7 @@ shortcode: klndrskrklns
 img: icons/person.svg
 draft: true
 portrait: images/being/klndrskrklns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Clothier

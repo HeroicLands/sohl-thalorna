@@ -2,7 +2,7 @@
 aliases:
   - Thóren Bélthal
   - Thoren Belthal
-  - character-thornblthl
+  - being-thornblthl
 tags: []
 name:
   full: Thóren Bélthal
@@ -18,7 +18,7 @@ shortcode: thornblthl
 img: icons/person.svg
 draft: true
 portrait: images/being/thornblthl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shipwright

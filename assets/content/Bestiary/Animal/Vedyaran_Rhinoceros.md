@@ -1,7 +1,7 @@
 ---
 aliases:
   - Vedyaran Rhinoceros
-  - creature-vdyrnrhn
+  - being-vdyrnrhn
 tags:
   - animal
   - image-needed
@@ -13,7 +13,7 @@ id: gg3f6OB21jF3mg0f
 img: icons/game-icons/delapouite/rhinoceros-horn.svg
 portrait: images/being/vdyrnrhn-portrait.webp
 shortcode: vdyrnrhn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

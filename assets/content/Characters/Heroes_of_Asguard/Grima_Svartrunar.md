@@ -2,7 +2,7 @@
 aliases:
   - Gríma Svartrúnar
   - Grima Svartrunar
-  - character-grmsvrtrnr
+  - being-grmsvrtrnr
 tags:
   - demigod
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: grmsvrtrnr
 img: icons/person.svg
 portrait: images/being/grmsvrtrnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Necromancer

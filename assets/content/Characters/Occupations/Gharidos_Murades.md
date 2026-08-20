@@ -2,7 +2,7 @@
 aliases:
   - Ghârîdos Mûrâdês
   - Gharidos Murades
-  - character-ghardsmrds
+  - being-ghardsmrds
 tags: []
 name:
   full: Ghârîdos Mûrâdês
@@ -18,7 +18,7 @@ shortcode: ghardsmrds
 img: icons/person.svg
 draft: true
 portrait: images/being/ghardsmrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Longshoreman

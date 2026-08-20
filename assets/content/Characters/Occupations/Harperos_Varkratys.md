@@ -2,7 +2,7 @@
 aliases:
   - Harpêros Vârkrâtys
   - Harperos Varkratys
-  - character-hrprsvrkrtys
+  - being-hrprsvrkrtys
 tags: []
 name:
   full: Harpêros Vârkrâtys
@@ -18,7 +18,7 @@ shortcode: hrprsvrkrtys
 img: icons/person.svg
 draft: true
 portrait: images/being/hrprsvrkrtys-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Archer

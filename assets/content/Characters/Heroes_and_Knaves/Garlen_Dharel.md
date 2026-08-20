@@ -3,7 +3,7 @@ aliases:
   - Gârlen Dhárel
   - Gârlen Dhárel
   - Garlen Dharel
-  - character-garlendhrl
+  - being-garlendhrl
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: garlendhrl
 img: icons/person.svg
 portrait: images/being/garlendhrl-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

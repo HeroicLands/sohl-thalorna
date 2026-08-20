@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rockback Bear
-  - creature-rckbckbr
+  - being-rckbckbr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: KRJCfi3ZMuOYTwFd
 img: icons/game-icons/delapouite/bear-head.svg
 portrait: images/being/rckbckbr-portrait.webp
 shortcode: rckbckbr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

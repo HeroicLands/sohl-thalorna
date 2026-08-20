@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dune Strider
-  - creature-dnstrdr
+  - being-dnstrdr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: FSZZ80hJvwUGnbkD
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/dnstrdr-portrait.webp
 shortcode: dnstrdr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

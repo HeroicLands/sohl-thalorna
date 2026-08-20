@@ -1,7 +1,7 @@
 ---
 aliases:
   - Dunstan Helmsley
-  - character-dnstnhlmsly
+  - being-dnstnhlmsly
 tags: []
 name:
   full: Dunstan Helmsley
@@ -17,7 +17,7 @@ shortcode: dnstnhlmsly
 img: icons/person.svg
 draft: true
 portrait: images/being/dnstnhlmsly-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chieftain

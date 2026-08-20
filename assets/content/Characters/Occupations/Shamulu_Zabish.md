@@ -2,7 +2,7 @@
 aliases:
   - Shamûlû Zabîsh
   - Shamulu Zabish
-  - character-shamulzbsh
+  - being-shamulzbsh
 tags:
   - todo
 name:
@@ -18,7 +18,7 @@ shortcode: shamulzbsh
 img: icons/person.svg
 draft: true
 portrait: images/being/shamulzbsh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

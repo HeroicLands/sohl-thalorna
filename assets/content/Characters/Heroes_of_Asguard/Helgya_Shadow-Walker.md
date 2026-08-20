@@ -1,7 +1,7 @@
 ---
 aliases:
   - Helgya Shadow-Walker
-  - character-hlgyshdwlkr
+  - being-hlgyshdwlkr
 tags:
   - hero
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hlgyshdwlkr
 img: icons/person.svg
 portrait: images/being/hlgyshdwlkr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thief and Spy

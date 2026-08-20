@@ -1,7 +1,7 @@
 ---
 aliases:
   - Garulf Druthgar
-  - character-grlfdrthgr
+  - being-grlfdrthgr
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/grlfdrthgr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vrystwldtrbs

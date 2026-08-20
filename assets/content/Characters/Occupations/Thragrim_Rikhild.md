@@ -2,7 +2,7 @@
 aliases:
   - Thrágrim Ríkhild
   - Thragrim Rikhild
-  - character-thrgrmrkhld
+  - being-thrgrmrkhld
 tags: []
 name:
   full: Thrágrim Ríkhild
@@ -18,7 +18,7 @@ shortcode: thrgrmrkhld
 img: icons/person.svg
 draft: true
 portrait: images/being/thrgrmrkhld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Timberwright

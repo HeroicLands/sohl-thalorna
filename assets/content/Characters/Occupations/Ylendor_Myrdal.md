@@ -2,7 +2,7 @@
 aliases:
   - Yléndor Mýrdal
   - Ylendor Myrdal
-  - character-ylndrmyrdl
+  - being-ylndrmyrdl
 tags: []
 name:
   full: Yléndor Mýrdal
@@ -18,7 +18,7 @@ shortcode: ylndrmyrdl
 img: icons/person.svg
 draft: true
 portrait: images/being/ylndrmyrdl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Astrologer

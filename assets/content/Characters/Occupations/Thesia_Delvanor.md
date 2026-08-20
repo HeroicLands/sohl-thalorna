@@ -2,7 +2,7 @@
 aliases:
   - Thésia Delvánor
   - Thesia Delvanor
-  - character-thesidlvnr
+  - being-thesidlvnr
 tags: []
 name:
   full: Thésia Delvánor
@@ -18,7 +18,7 @@ shortcode: thesidlvnr
 img: icons/person.svg
 draft: true
 portrait: images/being/thesidlvnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercenary

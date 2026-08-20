@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Scorpion
-  - creature-gntscrpn
+  - being-gntscrpn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: D8RLnGJ3DDuh4jNr
 img: icons/game-icons/lorc/scorpion.svg
 portrait: images/being/gntscrpn-portrait.webp
 shortcode: gntscrpn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

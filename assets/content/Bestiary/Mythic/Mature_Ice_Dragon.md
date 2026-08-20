@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mature Ice Dragon
-  - creature-mtricdrg
+  - being-mtricdrg
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: 2tsk1oPbOk4V5jJf
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/mtricdrg-portrait.webp
 shortcode: mtricdrg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

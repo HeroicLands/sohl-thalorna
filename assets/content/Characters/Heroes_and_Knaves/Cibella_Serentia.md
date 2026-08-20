@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cibella Serentia
-  - character-cibelasrnt
+  - being-cibelasrnt
 tags:
   - tamzir-crew
 name:
@@ -16,7 +16,7 @@ shortcode: cibelasrnt
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/cibelasrnt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vylarinmpr

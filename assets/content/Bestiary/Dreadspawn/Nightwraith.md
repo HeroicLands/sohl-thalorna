@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nightwraith
-  - creature-nghtwrth
+  - being-nghtwrth
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: ep28BnO3DsmrKAf2
 img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/nghtwrth-portrait.webp
 shortcode: nghtwrth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

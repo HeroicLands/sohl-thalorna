@@ -3,7 +3,7 @@ aliases:
   - Muri Târikh
   - Muri Târikh
   - Muri Tarikh
-  - character-muritarikh
+  - being-muritarikh
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: mtJ4TzKdySHbE2OM
 shortcode: muritarikh
 img: icons/person.svg
 portrait: images/being/muritarikh-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kalihara

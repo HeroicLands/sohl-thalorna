@@ -2,7 +2,7 @@
 aliases:
   - Tot'kar Het'Wera
   - Totkar HetWera
-  - character-totkarhtwr
+  - being-totkarhtwr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: totkarhtwr
 img: icons/person.svg
 portrait: images/being/totkarhtwr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

@@ -2,7 +2,7 @@
 aliases:
   - Alvárik Árenthal
   - Alvarik Arenthal
-  - character-alvrkrnthl
+  - being-alvrkrnthl
 tags: []
 name:
   full: Alvárik Árenthal
@@ -18,7 +18,7 @@ shortcode: alvrkrnthl
 img: icons/person.svg
 draft: true
 portrait: images/being/alvrkrnthl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Farmer

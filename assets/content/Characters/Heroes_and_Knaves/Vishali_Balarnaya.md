@@ -3,7 +3,7 @@ aliases:
   - Vishali Bâlarṇaya
   - Vishali Bâlarṇaya
   - Vishali Balarnaya
-  - character-vishalblry
+  - being-vishalblry
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: vishalblry
 img: icons/person.svg
 portrait: images/being/vishalblry-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: rajaprjnpd

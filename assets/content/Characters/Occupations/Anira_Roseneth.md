@@ -2,7 +2,7 @@
 aliases:
   - Ánira Róseneth
   - Anira Roseneth
-  - character-anirarsnth
+  - being-anirarsnth
 tags: []
 name:
   full: Ánira Róseneth
@@ -18,7 +18,7 @@ shortcode: anirarsnth
 img: icons/person.svg
 draft: true
 portrait: images/being/anirarsnth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Musician (Lute)

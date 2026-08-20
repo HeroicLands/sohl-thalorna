@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nightshade Serpent
-  - creature-nghtshds
+  - being-nghtshds
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: sihuakxB0kpupEU6
 img: icons/game-icons/lorc/snake.svg
 portrait: images/being/nghtshds-portrait.webp
 shortcode: nghtshds
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

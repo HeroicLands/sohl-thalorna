@@ -2,7 +2,7 @@
 aliases:
   - Pitûrû Tûbanî
   - Pituru Tubani
-  - character-piturutubn
+  - being-piturutubn
 tags: []
 name:
   full: Pitûrû Tûbanî
@@ -18,7 +18,7 @@ shortcode: piturutubn
 img: icons/person.svg
 draft: true
 portrait: images/being/piturutubn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms (Sapper)

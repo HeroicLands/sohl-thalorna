@@ -2,7 +2,7 @@
 aliases:
   - Járaen Lýskal
   - Jaraen Lyskal
-  - character-jaranlyskl
+  - being-jaranlyskl
 tags: []
 name:
   full: Járaen Lýskal
@@ -18,7 +18,7 @@ shortcode: jaranlyskl
 img: icons/person.svg
 draft: true
 portrait: images/being/jaranlyskl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Toymaker

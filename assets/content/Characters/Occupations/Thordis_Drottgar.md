@@ -2,7 +2,7 @@
 aliases:
   - Thórdís Dróttgar
   - Thordis Drottgar
-  - character-thrdsdrtgr
+  - being-thrdsdrtgr
 tags: []
 name:
   full: Thórdís Dróttgar
@@ -18,7 +18,7 @@ shortcode: thrdsdrtgr
 img: icons/person.svg
 draft: true
 portrait: images/being/thrdsdrtgr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Apothecary

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ridged Skimmer
-  - creature-rdgdskmm
+  - being-rdgdskmm
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 6dbt4Nbd3KY7TJta
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/rdgdskmm-portrait.webp
 shortcode: rdgdskmm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

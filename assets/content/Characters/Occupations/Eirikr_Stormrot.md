@@ -2,7 +2,7 @@
 aliases:
   - Eiríkr Stormrót
   - Eirikr Stormrot
-  - character-erkrstrmrt
+  - being-erkrstrmrt
 tags: []
 name:
   full: Eiríkr Stormrót
@@ -18,7 +18,7 @@ shortcode: erkrstrmrt
 img: icons/person.svg
 draft: true
 portrait: images/being/erkrstrmrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Fisher

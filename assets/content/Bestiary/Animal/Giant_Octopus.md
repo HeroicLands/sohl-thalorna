@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Octopus
-  - creature-gntoctps
+  - being-gntoctps
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: ZlKGP4V2B881MIoc
 img: icons/game-icons/lorc/octopus.svg
 portrait: images/being/gntoctps-portrait.webp
 shortcode: gntoctps
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

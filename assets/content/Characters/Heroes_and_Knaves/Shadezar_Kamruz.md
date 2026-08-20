@@ -3,7 +3,7 @@ aliases:
   - Shâdezar Kamruz
   - Shâdezar Kamruz
   - Shadezar Kamruz
-  - character-shadzrkmrz
+  - being-shadzrkmrz
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: kCKYObmsvraIezCd
 shortcode: shadzrkmrz
 img: icons/person.svg
 portrait: images/being/shadzrkmrz-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dunhartrbs

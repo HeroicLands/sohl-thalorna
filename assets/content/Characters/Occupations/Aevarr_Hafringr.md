@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ævarr Hafringr
-  - character-aevrhfrngr
+  - being-aevrhfrngr
 tags: []
 name:
   full: Ævarr Hafringr
@@ -17,7 +17,7 @@ shortcode: aevrhfrngr
 img: icons/person.svg
 draft: true
 portrait: images/being/aevrhfrngr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Longshoreman

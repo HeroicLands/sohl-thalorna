@@ -3,7 +3,7 @@ aliases:
   - Zênais Philokálos
   - Zênais Philokálos
   - Zenais Philokalos
-  - character-zensphlkls
+  - being-zensphlkls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: zensphlkls
 img: icons/person.svg
 portrait: images/being/zensphlkls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Wraithbloom
-  - creature-wrthblm
+  - being-wrthblm
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: NZjkwSdqmk6Tuf64
 img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/wrthblm-portrait.webp
 shortcode: wrthblm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

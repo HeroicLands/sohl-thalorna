@@ -3,7 +3,7 @@ aliases:
   - Goremadânis Hérendânis
   - Goremadânis Hérendânis
   - Goremadanis Herendanis
-  - character-grmdnshrndns
+  - being-grmdnshrndns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: grmdnshrndns
 img: icons/person.svg
 portrait: images/being/grmdnshrndns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provncmktr

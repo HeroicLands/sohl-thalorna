@@ -1,7 +1,7 @@
 ---
 aliases:
   - Earthreaver
-  - creature-erthrvr
+  - being-erthrvr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: sSoExpz4Qk9l3k5m
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/erthrvr-portrait.webp
 shortcode: erthrvr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

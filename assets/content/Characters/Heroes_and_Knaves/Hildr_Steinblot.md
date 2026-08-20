@@ -3,7 +3,7 @@ aliases:
   - Hildr Steinblót
   - Hildr Steinblót
   - Hildr Steinblot
-  - character-hldrstnblt
+  - being-hldrstnblt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hldrstnblt
 img: icons/person.svg
 portrait: images/being/hldrstnblt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd

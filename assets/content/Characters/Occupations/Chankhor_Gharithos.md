@@ -2,7 +2,7 @@
 aliases:
   - Chânkhor Ghârîthôs
   - Chankhor Gharithos
-  - character-chnkhrghrths
+  - being-chnkhrghrths
 tags: []
 name:
   full: Chânkhor Ghârîthôs
@@ -18,7 +18,7 @@ shortcode: chnkhrghrths
 img: icons/person.svg
 draft: true
 portrait: images/being/chnkhrghrths-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ostler

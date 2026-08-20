@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cave Troll
-  - creature-cvtrll
+  - being-cvtrll
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: LLdlPmp4JmXGcj1o
 img: icons/game-icons/skoll/troll.svg
 portrait: images/being/cvtrll-portrait.webp
 shortcode: cvtrll
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

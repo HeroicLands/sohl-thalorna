@@ -2,7 +2,7 @@
 aliases:
   - Bárnek Lánthrik
   - Barnek Lanthrik
-  - character-brnklnthrk
+  - being-brnklnthrk
 tags: []
 name:
   full: Bárnek Lánthrik
@@ -18,7 +18,7 @@ shortcode: brnklnthrk
 img: icons/person.svg
 draft: true
 portrait: images/being/brnklnthrk-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bard

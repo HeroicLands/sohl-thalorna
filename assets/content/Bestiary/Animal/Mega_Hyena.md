@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mega Hyena
-  - creature-mghyn
+  - being-mghyn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: KwFBcUKIMJnaE7kG
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/mghyn-portrait.webp
 shortcode: mghyn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

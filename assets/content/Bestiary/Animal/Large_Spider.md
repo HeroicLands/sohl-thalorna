@@ -1,7 +1,7 @@
 ---
 aliases:
   - Large Spider
-  - creature-lrgspdr
+  - being-lrgspdr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 7z21KuX3vzQ2XC2E
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/lrgspdr-portrait.webp
 shortcode: lrgspdr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

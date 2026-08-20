@@ -2,7 +2,7 @@
 aliases:
   - Shârûsh Kadûmû
   - Sharush Kadumu
-  - character-sharushkdm
+  - being-sharushkdm
 tags: []
 name:
   full: Shârûsh Kadûmû
@@ -18,7 +18,7 @@ shortcode: sharushkdm
 img: icons/person.svg
 draft: true
 portrait: images/being/sharushkdm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cook

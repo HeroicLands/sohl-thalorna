@@ -1,7 +1,7 @@
 ---
 aliases:
   - Stoneclimber
-  - creature-stnclmbr
+  - being-stnclmbr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: K2ltSub3JftqQzbn
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/stnclmbr-portrait.webp
 shortcode: stnclmbr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

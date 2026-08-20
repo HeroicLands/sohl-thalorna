@@ -1,7 +1,7 @@
 ---
 aliases:
   - Feathercrest Velon
-  - creature-fthrcrst
+  - being-fthrcrst
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: Or8DbTmkrdKMEqDi
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/fthrcrst-portrait.webp
 shortcode: fthrcrst
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

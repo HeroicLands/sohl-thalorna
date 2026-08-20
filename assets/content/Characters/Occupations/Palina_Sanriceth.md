@@ -2,7 +2,7 @@
 aliases:
   - Pálina Sánriceth
   - Palina Sanriceth
-  - character-palnsnrcth
+  - being-palnsnrcth
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: palnsnrcth
 img: icons/person.svg
 draft: true
 portrait: images/being/palnsnrcth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

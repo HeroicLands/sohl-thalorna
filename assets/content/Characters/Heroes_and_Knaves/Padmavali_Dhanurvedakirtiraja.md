@@ -3,7 +3,7 @@ aliases:
   - Padmàvali Dhanurvedakīrtirāja
   - Padmàvali Dhanurvedakīrtirāja
   - Padmavali Dhanurvedakirtiraja
-  - character-pdmvldhnrvdkrtrj
+  - being-pdmvldhnrvdkrtrj
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: pdmvldhnrvdkrtrj
 img: icons/person.svg
 portrait: images/being/pdmvldhnrvdkrtrj-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: suvrgrjnpd

@@ -2,7 +2,7 @@
 aliases:
   - Ârnela Kórisvar
   - Arnela Korisvar
-  - character-arnelkrsvr
+  - being-arnelkrsvr
 tags: []
 name:
   full: Ârnela Kórisvar
@@ -18,7 +18,7 @@ shortcode: arnelkrsvr
 img: icons/person.svg
 draft: true
 portrait: images/being/arnelkrsvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Nobility (Manor Lord)

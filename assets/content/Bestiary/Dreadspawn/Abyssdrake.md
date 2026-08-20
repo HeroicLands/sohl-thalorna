@@ -1,7 +1,7 @@
 ---
 aliases:
   - Abyssdrake
-  - creature-abyssdrk
+  - being-abyssdrk
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: MoaH3MMvKwCfPZpw
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/abyssdrk-portrait.webp
 shortcode: abyssdrk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

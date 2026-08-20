@@ -1,7 +1,7 @@
 ---
 aliases:
   - Astrid the Forsaken
-  - character-astrdfrskn
+  - being-astrdfrskn
 tags:
   - demigod
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: astrdfrskn
 img: icons/person.svg
 portrait: images/being/astrdfrskn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Wanderer and Warrior

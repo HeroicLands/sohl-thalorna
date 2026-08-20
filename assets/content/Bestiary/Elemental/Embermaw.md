@@ -1,7 +1,7 @@
 ---
 aliases:
   - Embermaw
-  - creature-embermaw
+  - being-embermaw
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: Q2oJByEiRbME0lGy
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/embermaw-portrait.webp
 shortcode: embermaw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

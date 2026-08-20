@@ -2,7 +2,7 @@
 aliases:
   - Thaldrá Druthgar
   - Thaldra Druthgar
-  - character-thldrdrthgr
+  - being-thldrdrthgr
 tags: []
 name:
   full: Thaldrá Druthgar
@@ -19,7 +19,7 @@ shortcode: thldrdrthgr
 img: icons/person.svg
 draft: true
 portrait: images/being/thldrdrthgr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Common Seaman

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Bjalfi Hrafnsvald
-  - character-bjlfhrfnsvld
+  - being-bjlfhrfnsvld
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: bjlfhrfnsvld
 img: icons/person.svg
 portrait: images/being/bjlfhrfnsvld-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd
@@ -667,13 +667,13 @@ Thjótharr stands 6'0" tall with a medium build. He has light fair skin, brown h
 
 # Dossier {#dossier}
 
-Bjalfi was born in a rural settlement of the **Kingdom of Vithgard**, the son of **[[character-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
+Bjalfi was born in a rural settlement of the **Kingdom of Vithgard**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
 
-At fifteen, his family's lands were attacked by a raider band. Bjalfi's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[character-hrfnklhrfnsvld|Hrafnkell]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
+At fifteen, his family's lands were attacked by a raider band. Bjalfi's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-hrfnklhrfnsvld|Hrafnkell]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 
 At eighteen, Bjalfi joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain Aldric Stonefist**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Aldric became the father figure Bjalfi had lacked growing up. For the past eleven years, Bjalfi has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
 
-[[character-hrfnklhrfnsvld|Hrafnkell]], meanwhile, returned from military service around the same time, settling in Vithgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[character-hrfnklhrfnsvld|Hrafnkell]]'s part and unresolved anger on Bjalfi's. They see each other occasionally, and there is genuine love beneath the tension, but neither man finds it easy to bridge the years of absence.
+[[being-hrfnklhrfnsvld|Hrafnkell]], meanwhile, returned from military service around the same time, settling in Vithgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[being-hrfnklhrfnsvld|Hrafnkell]]'s part and unresolved anger on Bjalfi's. They see each other occasionally, and there is genuine love beneath the tension, but neither man finds it easy to bridge the years of absence.
 
 Recently promoted to the rank of sergeant, Bjalfi stands at a crossroads. **Captain Aldric** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Bjalfi feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
@@ -723,8 +723,8 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 
 - **The Militia of **Vithgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 - **The Followers of Týr**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
-- **[[character-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
-- **[[character-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the Kingdom of Norgaad. Though they live in different realms and lead very different lives, the family bond remains. [[character-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
+- **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
+- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the Kingdom of Norgaad. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
 ## Plot Hooks
 
@@ -736,4 +736,4 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 
 4. **The Succession Crisis**: **Captain Aldric** suffers a serious injury, forcing him to consider retirement. Bjalfi and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Bjalfi must navigate politics while remaining true to his principles, and must decide whether he wants leadership badly enough to compromise his ideals.
 
-5. **The Dark Revelation**: Bjalfi discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Bjalfi's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must decide whether to tell [[character-hrfnklhrfnsvld|Hrafnkell]] the truth, knowing the guilt might destroy his father entirely.
+5. **The Dark Revelation**: Bjalfi discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Bjalfi's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must decide whether to tell [[being-hrfnklhrfnsvld|Hrafnkell]] the truth, knowing the guilt might destroy his father entirely.

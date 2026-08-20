@@ -1,7 +1,7 @@
 ---
 aliases:
   - Forest Goblin
-  - creature-frstgbln
+  - being-frstgbln
 tags:
   - folk
 name:
@@ -12,7 +12,7 @@ id: B24v0x403YmclrJb
 img: icons/game-icons/caro-asercion/goblin.svg
 portrait: images/being/frstgbln-portrait.webp
 shortcode: frstgbln
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: goblin

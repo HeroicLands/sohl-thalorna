@@ -2,7 +2,7 @@
 aliases:
   - Habìdon Ghânîdês
   - Habidon Ghanides
-  - character-habdnghnds
+  - being-habdnghnds
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: habdnghnds
 img: icons/person.svg
 draft: true
 portrait: images/being/habdnghnds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Man-at-Arms

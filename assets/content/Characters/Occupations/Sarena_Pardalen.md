@@ -2,7 +2,7 @@
 aliases:
   - Sárena Párdalen
   - Sarena Pardalen
-  - character-sarenprdln
+  - being-sarenprdln
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: sarenprdln
 img: icons/person.svg
 draft: true
 portrait: images/being/sarenprdln-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

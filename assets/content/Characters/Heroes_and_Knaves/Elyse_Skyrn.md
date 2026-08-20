@@ -1,7 +1,7 @@
 ---
 aliases:
   - Elýsè Skýrn
-  - character-elyseskyrn
+  - being-elyseskyrn
 tags:
   - hero
   - silent-talon
@@ -16,7 +16,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: elyseskyrn
 img: icons/person.svg
 portrait: images/being/elyseskyrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr
@@ -732,10 +732,10 @@ Elýsè's primary goal is the discovery of new alchemical recipes, medical remed
 
 ## Companions
 
-- **[[character-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
-- **[[character-torniskbry|Tórnis Kúbrý]]**: Fellow band member; a developing romantic relationship.
-- **[[character-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
-- **[[character-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
+- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member; a developing romantic relationship.
+- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
+- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
 
 ### Patrons
 

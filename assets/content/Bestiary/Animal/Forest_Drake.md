@@ -1,7 +1,7 @@
 ---
 aliases:
   - Forest Drake
-  - creature-frstdrk
+  - being-frstdrk
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: TD1mrTArS6vzQzxW
 img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/frstdrk-portrait.webp
 shortcode: frstdrk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

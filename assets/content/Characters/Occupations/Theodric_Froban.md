@@ -2,7 +2,7 @@
 aliases:
   - Theódric Fróðbán
   - Theodric Froban
-  - character-thdrcfrdbn
+  - being-thdrcfrdbn
 tags: []
 name:
   full: Theódric Fróðbán
@@ -18,7 +18,7 @@ shortcode: thdrcfrdbn
 img: icons/person.svg
 draft: true
 portrait: images/being/thdrcfrdbn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Miner

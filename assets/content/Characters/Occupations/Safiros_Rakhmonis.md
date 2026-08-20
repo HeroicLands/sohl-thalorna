@@ -2,7 +2,7 @@
 aliases:
   - Sàfîros Râkhmônis
   - Safiros Rakhmonis
-  - character-sfrsrkhmns
+  - being-sfrsrkhmns
 tags: []
 name:
   full: Sàfîros Râkhmônis
@@ -18,7 +18,7 @@ shortcode: sfrsrkhmns
 img: icons/person.svg
 draft: true
 portrait: images/being/sfrsrkhmns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Infantry

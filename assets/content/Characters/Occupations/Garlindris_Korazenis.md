@@ -2,7 +2,7 @@
 aliases:
   - Garlîndris Korâzênis
   - Garlindris Korazenis
-  - character-grlndrskrzns
+  - being-grlndrskrzns
 tags: []
 name:
   full: Garlîndris Korâzênis
@@ -18,7 +18,7 @@ shortcode: grlndrskrzns
 img: icons/person.svg
 draft: true
 portrait: images/being/grlndrskrzns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herald

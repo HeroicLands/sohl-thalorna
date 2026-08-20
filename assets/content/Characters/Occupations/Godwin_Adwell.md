@@ -1,7 +1,7 @@
 ---
 aliases:
   - Godwin Adwell
-  - character-godwinadwl
+  - being-godwinadwl
 tags: []
 name:
   full: Godwin Adwell
@@ -17,7 +17,7 @@ shortcode: godwinadwl
 img: icons/person.svg
 draft: true
 portrait: images/being/godwinadwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herder

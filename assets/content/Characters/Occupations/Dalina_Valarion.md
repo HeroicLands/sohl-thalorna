@@ -2,7 +2,7 @@
 aliases:
   - Dálina Valárion
   - Dalina Valarion
-  - character-dalinavlrn
+  - being-dalinavlrn
 tags: []
 name:
   full: Dálina Valárion
@@ -18,7 +18,7 @@ shortcode: dalinavlrn
 img: icons/person.svg
 draft: true
 portrait: images/being/dalinavlrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Pilot

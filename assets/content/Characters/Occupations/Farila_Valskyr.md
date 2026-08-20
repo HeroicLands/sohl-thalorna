@@ -2,7 +2,7 @@
 aliases:
   - Fárila Válskyr
   - Farila Valskyr
-  - character-farlvlskyr
+  - being-farlvlskyr
 tags: []
 name:
   full: Fárila Válskyr
@@ -18,7 +18,7 @@ shortcode: farlvlskyr
 img: icons/person.svg
 draft: true
 portrait: images/being/farlvlskyr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Physician

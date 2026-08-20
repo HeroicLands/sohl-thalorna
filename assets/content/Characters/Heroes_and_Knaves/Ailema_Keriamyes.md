@@ -3,7 +3,7 @@ aliases:
   - Ailêmâ Kêrîamyês
   - Ailêmâ Kêrîamyês
   - Ailema Keriamyes
-  - character-ailemkrmys
+  - being-ailemkrmys
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: ailemkrmys
 img: icons/person.svg
 portrait: images/being/ailemkrmys-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provinclys

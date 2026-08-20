@@ -3,7 +3,7 @@ aliases:
   - Rǫgnvaldr Ásgrind
   - Rǫgnvaldr Ásgrind
   - Rognvaldr Asgrind
-  - character-rgnvldrsgrnd
+  - being-rgnvldrsgrnd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: rgnvldrsgrnd
 img: icons/person.svg
 portrait: images/being/rgnvldrsgrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrgd

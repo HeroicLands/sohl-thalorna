@@ -2,7 +2,7 @@
 aliases:
   - Thórir Járnskel
   - Thorir Jarnskel
-  - character-thrrjrnskl
+  - being-thrrjrnskl
 tags: []
 name:
   full: Thórir Járnskel
@@ -18,7 +18,7 @@ shortcode: thrrjrnskl
 img: icons/person.svg
 draft: true
 portrait: images/being/thrrjrnskl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: "Mage (Spirit)"

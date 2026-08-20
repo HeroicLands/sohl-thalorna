@@ -2,7 +2,7 @@
 aliases:
   - Lýrena Tólgen
   - Lyrena Tolgen
-  - character-lyrenatlgn
+  - being-lyrenatlgn
 tags: []
 name:
   full: Lýrena Tólgen
@@ -18,7 +18,7 @@ shortcode: lyrenatlgn
 img: icons/person.svg
 draft: true
 portrait: images/being/lyrenatlgn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Skald

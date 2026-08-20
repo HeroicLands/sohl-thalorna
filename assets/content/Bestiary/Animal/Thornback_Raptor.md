@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thornback Raptor
-  - creature-thrnbckr
+  - being-thrnbckr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 9nYhkvI252ewBJW3
 img: icons/game-icons/lorc/dinosaur-rex.svg
 portrait: images/being/thrnbckr-portrait.webp
 shortcode: thrnbckr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

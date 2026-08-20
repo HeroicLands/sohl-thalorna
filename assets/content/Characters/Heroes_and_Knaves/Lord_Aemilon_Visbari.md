@@ -1,7 +1,7 @@
 ---
 aliases:
   - Lord Aemilon Visbari
-  - character-lrdmlnvsbr
+  - being-lrdmlnvsbr
 tags:
   - heroes-and-knaves
   - fffv1
@@ -21,7 +21,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: lrdmlnvsbr
 img: icons/person.svg
 portrait: images/being/lrdmlnvsbr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vylarinmpr

@@ -2,7 +2,7 @@
 aliases:
   - Thornak Blodtūsc Bār
   - Thornak Mahnlin
-  - character-thrnkbldtscbr
+  - being-thrnkbldtscbr
 tags:
   - heroes-and-knaves
   - hero
@@ -20,7 +20,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: thrnkbldtscbr
 img: icons/person.svg
 portrait: images/being/thrnkbldtscbr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vrystwldtrbs

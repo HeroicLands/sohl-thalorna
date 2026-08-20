@@ -2,7 +2,7 @@
 aliases:
   - Úrelè Rálwen
   - Urele Ralwen
-  - character-ureleralwn
+  - being-ureleralwn
 tags: []
 name:
   full: Úrelè Rálwen
@@ -18,7 +18,7 @@ shortcode: ureleralwn
 img: icons/person.svg
 draft: true
 portrait: images/being/ureleralwn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Perfumer

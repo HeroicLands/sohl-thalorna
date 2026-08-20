@@ -2,7 +2,7 @@
 aliases:
   - Glýenna Cárdeth
   - Glyenna Cardeth
-  - character-glyencrdth
+  - being-glyencrdth
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: glyencrdth
 img: icons/person.svg
 draft: true
 portrait: images/being/glyencrdth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Noblewoman / Head of House Cárdeth
@@ -622,7 +622,7 @@ Glýenna was born into House Cárdeth, a noble family of moderate standing in th
 
 She married young, at nineteen, to Lord Ráegon Cárdeth, a man fifteen years her senior who held the family's estates and its seat on the regional council. The match was advantageous and, by all outward appearances, stable. Ráegon was a decent man — well-liked, politically moderate, content to manage his lands and let the larger currents of Élavendri politics flow around him. Glýenna found him dull. She managed the household, bore the social obligations of the marriage, and quietly began building her own network of relationships among the court's more ambitious factions.
 
-Three years ago, Lord Ráegon was killed in what was reported as a bandit raid on the road between his estates and Elanmere. The attack was unusually well-coordinated for common bandits — the escort was ambushed at a narrow point where reinforcement was impossible, and Ráegon was specifically targeted while his servants were left alive to carry the news. The Wardens investigated under the command of Captain [[character-dharnvldrn|Dháran Véldarin]], who concluded that the attackers were a raiding party from beyond the border, likely opportunistic, and that there were no further leads to pursue. The case was closed.
+Three years ago, Lord Ráegon was killed in what was reported as a bandit raid on the road between his estates and Elanmere. The attack was unusually well-coordinated for common bandits — the escort was ambushed at a narrow point where reinforcement was impossible, and Ráegon was specifically targeted while his servants were left alive to carry the news. The Wardens investigated under the command of Captain [[being-dharnvldrn|Dháran Véldarin]], who concluded that the attackers were a raiding party from beyond the border, likely opportunistic, and that there were no further leads to pursue. The case was closed.
 
 The raid was, in fact, coordinated by Dháran at Glýenna's request.
 

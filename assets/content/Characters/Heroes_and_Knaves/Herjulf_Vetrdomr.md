@@ -3,7 +3,7 @@ aliases:
   - Herjúlf Vetrdómr
   - Herjúlf Vetrdómr
   - Herjulf Vetrdomr
-  - character-hrjlfvtrdmr
+  - being-hrjlfvtrdmr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: hrjlfvtrdmr
 img: icons/person.svg
 portrait: images/being/hrjlfvtrdmr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

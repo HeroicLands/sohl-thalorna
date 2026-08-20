@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Armadillo
-  - creature-gntarmdl
+  - being-gntarmdl
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: n2nQ2Jd3wZHiIlb9
 img: icons/game-icons/caro-asercion/pangolin.svg
 portrait: images/being/gntarmdl-portrait.webp
 shortcode: gntarmdl
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

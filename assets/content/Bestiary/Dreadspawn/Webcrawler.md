@@ -1,7 +1,7 @@
 ---
 aliases:
   - Webcrawler
-  - creature-wbcrwlr
+  - being-wbcrwlr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: c0MYxLmxJqlP3eq6
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/wbcrwlr-portrait.webp
 shortcode: wbcrwlr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

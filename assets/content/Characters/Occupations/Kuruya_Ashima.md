@@ -2,7 +2,7 @@
 aliases:
   - Kûrûya Ashîmâ
   - Kuruya Ashima
-  - character-kuruyashim
+  - being-kuruyashim
 tags: []
 name:
   full: Kûrûya Ashîmâ
@@ -18,7 +18,7 @@ shortcode: kuruyashim
 img: icons/person.svg
 draft: true
 portrait: images/being/kuruyashim-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)

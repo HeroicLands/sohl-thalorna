@@ -2,7 +2,7 @@
 aliases:
   - Xâthrîon Kâserânis
   - Xathrion Kaseranis
-  - character-xthrnksrns
+  - being-xthrnksrns
 tags: []
 name:
   full: Xâthrîon Kâserânis
@@ -18,7 +18,7 @@ shortcode: xthrnksrns
 img: icons/person.svg
 draft: true
 portrait: images/being/xthrnksrns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Physician

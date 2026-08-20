@@ -1,7 +1,7 @@
 ---
 aliases:
   - Vandaric Garwald
-  - character-vndrcgrwld
+  - being-vndrcgrwld
 tags:
   - blackpine-wolves
   - brigand
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: vndrcgrwld
 img: icons/person.svg
 portrait: images/being/vndrcgrwld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Brigand

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Camel Spider
-  - creature-gntcmlsp
+  - being-gntcmlsp
 tags:
   - animal
   - image-needed
@@ -13,7 +13,7 @@ id: k5mpq1z2caMC2nJ0
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/gntcmlsp-portrait.webp
 shortcode: gntcmlsp
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -2,7 +2,7 @@
 aliases:
   - Wítharic Druthgar
   - Witharic Druthgar
-  - character-wthrcdrthgr
+  - being-wthrcdrthgr
 tags: []
 name:
   full: Wítharic Druthgar
@@ -18,7 +18,7 @@ shortcode: wthrcdrthgr
 img: icons/person.svg
 draft: true
 portrait: images/being/wthrcdrthgr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shipwright

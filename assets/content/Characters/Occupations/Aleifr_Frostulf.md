@@ -2,7 +2,7 @@
 aliases:
   - Áleifr Frostulf
   - Aleifr Frostulf
-  - character-alfrfrstlf
+  - being-alfrfrstlf
 tags: []
 name:
   full: Áleifr Frostulf
@@ -18,7 +18,7 @@ shortcode: alfrfrstlf
 img: icons/person.svg
 draft: true
 portrait: images/being/alfrfrstlf-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hunter

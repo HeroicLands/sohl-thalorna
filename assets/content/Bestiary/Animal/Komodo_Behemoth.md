@@ -1,7 +1,7 @@
 ---
 aliases:
   - Komodo Behemoth
-  - creature-kmdbhmth
+  - being-kmdbhmth
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 2cHRBpFKXGd8RaX4
 img: icons/game-icons/lorc/gecko.svg
 portrait: images/being/kmdbhmth-portrait.webp
 shortcode: kmdbhmth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

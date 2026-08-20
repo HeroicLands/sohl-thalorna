@@ -2,7 +2,7 @@
 aliases:
   - Pórena Dhárel
   - Porena Dharel
-  - character-porenadhrl
+  - being-porenadhrl
 tags: []
 name:
   full: Pórena Dhárel
@@ -18,7 +18,7 @@ shortcode: porenadhrl
 img: icons/person.svg
 draft: true
 portrait: images/being/porenadhrl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Longshorewoman

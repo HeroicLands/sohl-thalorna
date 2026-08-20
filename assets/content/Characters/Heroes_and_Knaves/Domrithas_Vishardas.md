@@ -3,7 +3,7 @@ aliases:
   - Dómrithâs Vîshârdâs
   - Dómrithâs Vîshârdâs
   - Domrithas Vishardas
-  - character-dmrthsvshrds
+  - being-dmrthsvshrds
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: dmrthsvshrds
 img: icons/person.svg
 portrait: images/being/dmrthsvshrds-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: hlykngdmnrtm

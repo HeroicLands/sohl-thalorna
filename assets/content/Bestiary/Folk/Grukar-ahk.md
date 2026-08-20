@@ -2,7 +2,7 @@
 aliases:
   - Grukar-ahk
   - Grukar-Ahk
-  - creature-grkrahk
+  - being-grkrahk
 tags:
   - folk
 name:
@@ -13,7 +13,7 @@ id: ZwRLpmQF1zAklkyE
 img: icons/game-icons/delapouite/orc-head.svg
 portrait: images/being/grkrahk-portrait.webp
 shortcode: grkrahk
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: grukar

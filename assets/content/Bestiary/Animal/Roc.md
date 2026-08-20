@@ -1,7 +1,7 @@
 ---
 aliases:
   - Roc
-  - creature-roc
+  - being-roc
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: MM4WsOp5MweEuH4U
 img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/roc-portrait.webp
 shortcode: roc
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

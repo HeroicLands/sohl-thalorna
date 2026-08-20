@@ -3,7 +3,7 @@ aliases:
   - Dómeth Gráveth
   - Dómeth Gráveth
   - Dometh Graveth
-  - character-domthgrvth
+  - being-domthgrvth
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: domthgrvth
 img: icons/person.svg
 portrait: images/being/domthgrvth-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

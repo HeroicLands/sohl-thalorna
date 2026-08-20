@@ -1,7 +1,7 @@
 ---
 aliases:
   - Swampgolem
-  - creature-swmpglm
+  - being-swmpglm
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: rkqNzivEoFUry3Wa
 img: icons/game-icons/delapouite/golem-head.svg
 portrait: images/being/swmpglm-portrait.webp
 shortcode: swmpglm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

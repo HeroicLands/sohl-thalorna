@@ -1,7 +1,7 @@
 ---
 aliases:
   - Lithogiant
-  - creature-lthgnt
+  - being-lthgnt
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: OBrElkIzfPrZaQbM
 img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/lthgnt-portrait.webp
 shortcode: lthgnt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

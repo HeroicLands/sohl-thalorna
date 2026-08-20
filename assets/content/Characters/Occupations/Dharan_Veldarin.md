@@ -2,7 +2,7 @@
 aliases:
   - Dháran Véldarin
   - Dharan Veldarin
-  - character-dharnvldrn
+  - being-dharnvldrn
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: dharnvldrn
 img: icons/person.svg
 draft: true
 portrait: images/being/dharnvldrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

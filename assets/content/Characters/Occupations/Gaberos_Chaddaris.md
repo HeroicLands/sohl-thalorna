@@ -2,7 +2,7 @@
 aliases:
   - Gábêros Chàddâris
   - Gaberos Chaddaris
-  - character-gabrschdrs
+  - being-gabrschdrs
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: gabrschdrs
 img: icons/person.svg
 draft: true
 portrait: images/being/gabrschdrs-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

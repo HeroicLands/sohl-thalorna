@@ -1,7 +1,7 @@
 ---
 aliases:
   - Valdrik the Shaper
-  - character-valdrkshpr
+  - being-valdrkshpr
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: valdrkshpr
 img: icons/person.svg
 portrait: images/being/valdrkshpr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Alchemist and Scholar

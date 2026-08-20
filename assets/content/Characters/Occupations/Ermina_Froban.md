@@ -2,7 +2,7 @@
 aliases:
   - Ermína Fróðbán
   - Ermina Froban
-  - character-erminfrdbn
+  - being-erminfrdbn
 tags: []
 name:
   full: Ermína Fróðbán
@@ -18,7 +18,7 @@ shortcode: erminfrdbn
 img: icons/person.svg
 draft: true
 portrait: images/being/erminfrdbn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Fisher

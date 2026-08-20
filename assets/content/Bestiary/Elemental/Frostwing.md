@@ -1,7 +1,7 @@
 ---
 aliases:
   - Frostwing
-  - creature-frstwng
+  - being-frstwng
 tags:
   - elemental
 name:
@@ -12,7 +12,7 @@ id: MzYAPPEnFLXmQ6Cg
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/frstwng-portrait.webp
 shortcode: frstwng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: elemental

@@ -2,7 +2,7 @@
 aliases:
   - Dárya Náredh
   - Darya Naredh
-  - character-daryanardh
+  - being-daryanardh
 tags: []
 name:
   full: Dárya Náredh
@@ -18,7 +18,7 @@ shortcode: daryanardh
 img: icons/person.svg
 draft: true
 portrait: images/being/daryanardh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bard

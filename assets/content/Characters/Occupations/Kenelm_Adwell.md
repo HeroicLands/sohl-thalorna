@@ -1,7 +1,7 @@
 ---
 aliases:
   - Kenelm Adwell
-  - character-kenelmadwl
+  - being-kenelmadwl
 tags: []
 name:
   full: Kenelm Adwell
@@ -17,7 +17,7 @@ shortcode: kenelmadwl
 img: icons/person.svg
 draft: true
 portrait: images/being/kenelmadwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Caravan Guard

@@ -2,7 +2,7 @@
 aliases:
   - Skjaldmær Eiriksdottir
   - Skjaldmaer Eiriksdottir
-  - character-skjldmrrksdtr
+  - being-skjldmrrksdtr
 tags:
   - paragon
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: skjldmrrksdtr
 img: icons/person.svg
 portrait: images/being/skjldmrrksdtr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shieldmaiden

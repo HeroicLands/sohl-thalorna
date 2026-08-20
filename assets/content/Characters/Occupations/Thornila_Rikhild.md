@@ -2,7 +2,7 @@
 aliases:
   - Thornila Ríkhild
   - Thornila Rikhild
-  - character-thrnlrkhld
+  - being-thrnlrkhld
 tags:
   - todo
 name:
@@ -19,7 +19,7 @@ shortcode: thrnlrkhld
 img: icons/person.svg
 draft: true
 portrait: images/being/thrnlrkhld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

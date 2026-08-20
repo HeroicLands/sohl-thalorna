@@ -2,7 +2,7 @@
 aliases:
   - Zórila Dómivar
   - Zorila Domivar
-  - character-zoriladmvr
+  - being-zoriladmvr
 tags: []
 name:
   full: Zórila Dómivar
@@ -18,7 +18,7 @@ shortcode: zoriladmvr
 img: icons/person.svg
 draft: true
 portrait: images/being/zoriladmvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hunter

@@ -2,7 +2,7 @@
 aliases:
   - Júbênós Safîthês
   - Jubenos Safithes
-  - character-jubensfths
+  - being-jubensfths
 tags: []
 name:
   full: Júbênós Safîthês
@@ -18,7 +18,7 @@ shortcode: jubensfths
 img: icons/person.svg
 draft: true
 portrait: images/being/jubensfths-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Courtesan

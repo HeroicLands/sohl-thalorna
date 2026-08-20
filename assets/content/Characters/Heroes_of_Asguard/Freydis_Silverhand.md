@@ -1,7 +1,7 @@
 ---
 aliases:
   - Freydis Silverhand
-  - character-frydslvrhnd
+  - being-frydslvrhnd
 tags:
   - hero
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: frydslvrhnd
 img: icons/person.svg
 portrait: images/being/frydslvrhnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Merchant and Diplomat

@@ -75,9 +75,16 @@ import {
 } from "@heroiclands/content-build/engine/journals";
 import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
 import {
-  CONTENT_PACKAGE,
-  FOUNDRY_PACKAGE_ID,
+  contentPackage,
+  foundryPackageId,
 } from "@heroiclands/content-build/engine/content-package";
+
+// Resolved once, here, rather than at each use. The package exports these as
+// accessors so that *importing* a module never needs a consumer config; this is
+// a build entry point, which always has one, so reading them at module scope is
+// the same instant the script runs.
+const CONTENT_PACKAGE = contentPackage();
+const FOUNDRY_PACKAGE_ID = foundryPackageId();
 
 const CONTENT_BASE = path.resolve("./assets/content");
 

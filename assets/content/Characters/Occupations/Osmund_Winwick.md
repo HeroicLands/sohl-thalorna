@@ -1,7 +1,7 @@
 ---
 aliases:
   - Osmund Winwick
-  - character-osmndwnwck
+  - being-osmndwnwck
 tags: []
 name:
   full: Osmund Winwick
@@ -17,7 +17,7 @@ shortcode: osmndwnwck
 img: icons/person.svg
 draft: true
 portrait: images/being/osmndwnwck-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercantyler (Supercargo)

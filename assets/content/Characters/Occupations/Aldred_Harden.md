@@ -1,7 +1,7 @@
 ---
 aliases:
   - Aldred Harden
-  - character-aldredhrdn
+  - being-aldredhrdn
 tags: []
 name:
   full: Aldred Harden
@@ -17,7 +17,7 @@ shortcode: aldredhrdn
 img: icons/person.svg
 draft: true
 portrait: images/being/aldredhrdn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercantyler

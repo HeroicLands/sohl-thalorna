@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hotep Anu
-  - character-hotepanu
+  - being-hotepanu
 tags:
   - heroes-and-knaves
   - hero
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
 img: icons/person.svg
 portrait: images/being/hotepanu-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

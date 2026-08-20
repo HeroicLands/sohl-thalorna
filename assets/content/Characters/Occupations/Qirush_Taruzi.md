@@ -2,7 +2,7 @@
 aliases:
   - Qirûsh Tarûzî
   - Qirush Taruzi
-  - character-qirushtarz
+  - being-qirushtarz
 tags: []
 name:
   full: Qirûsh Tarûzî
@@ -18,7 +18,7 @@ shortcode: qirushtarz
 img: icons/person.svg
 draft: true
 portrait: images/being/qirushtarz-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Hideworker

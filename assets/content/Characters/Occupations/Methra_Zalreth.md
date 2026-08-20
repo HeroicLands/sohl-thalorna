@@ -2,7 +2,7 @@
 aliases:
   - Méthra Zálreth
   - Methra Zalreth
-  - character-methrzlrth
+  - being-methrzlrth
 tags: []
 name:
   full: Méthra Zálreth
@@ -18,7 +18,7 @@ shortcode: methrzlrth
 img: icons/person.svg
 draft: true
 portrait: images/being/methrzlrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Labourer (unskilled)

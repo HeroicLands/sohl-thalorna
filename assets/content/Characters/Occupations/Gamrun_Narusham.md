@@ -2,7 +2,7 @@
 aliases:
   - Gamrûn Narûsham
   - Gamrun Narusham
-  - character-gamrunrshm
+  - being-gamrunrshm
 tags: []
 name:
   full: Gamrûn Narûsham
@@ -18,7 +18,7 @@ shortcode: gamrunrshm
 img: icons/person.svg
 draft: true
 portrait: images/being/gamrunrshm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Swordmaster

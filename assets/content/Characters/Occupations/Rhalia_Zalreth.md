@@ -2,7 +2,7 @@
 aliases:
   - Rhália Zálreth
   - Rhalia Zalreth
-  - character-rhalizlrth
+  - being-rhalizlrth
 tags: []
 name:
   full: Rhália Zálreth
@@ -18,7 +18,7 @@ shortcode: rhalizlrth
 img: icons/person.svg
 draft: true
 portrait: images/being/rhalizlrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Pilot

@@ -2,7 +2,7 @@
 aliases:
   - Véthar Balthhelm
   - Vethar Balthhelm
-  - character-vthrblthlm
+  - being-vthrblthlm
 tags: []
 name:
   full: Véthar Balthhelm
@@ -18,7 +18,7 @@ shortcode: vthrblthlm
 img: icons/person.svg
 draft: true
 portrait: images/being/vthrblthlm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

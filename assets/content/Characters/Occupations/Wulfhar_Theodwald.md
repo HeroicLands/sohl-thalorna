@@ -2,7 +2,7 @@
 aliases:
   - Wulfhár Theódwald
   - Wulfhar Theodwald
-  - character-wlfhrthdwld
+  - being-wlfhrthdwld
 tags: []
 name:
   full: Wulfhár Theódwald
@@ -18,7 +18,7 @@ shortcode: wlfhrthdwld
 img: icons/person.svg
 draft: true
 portrait: images/being/wlfhrthdwld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

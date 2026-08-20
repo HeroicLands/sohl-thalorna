@@ -2,7 +2,7 @@
 aliases:
   - Mitharâkîs Gêrazêndis
   - Mitharakis Gerazendis
-  - character-mthrksgrznds
+  - being-mthrksgrznds
 tags: []
 name:
   full: Mitharâkîs Gêrazêndis
@@ -18,7 +18,7 @@ shortcode: mthrksgrznds
 img: icons/person.svg
 draft: true
 portrait: images/being/mthrksgrznds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Jester

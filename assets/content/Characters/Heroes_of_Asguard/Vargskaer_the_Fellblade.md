@@ -2,7 +2,7 @@
 aliases:
   - Vargskær the Fellblade
   - Vargskaer the Fellblade
-  - character-vrgskrflbld
+  - being-vrgskrflbld
 tags:
   - demigod
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: vrgskrflbld
 img: icons/person.svg
 portrait: images/being/vrgskrflbld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Helspawn Warlord

@@ -3,7 +3,7 @@ aliases:
   - Vànika Ratniseṇa
   - Vànika Ratniseṇa
   - Vanika Ratnisena
-  - character-vanikartns
+  - being-vanikartns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: vanikartns
 img: icons/person.svg
 portrait: images/being/vanikartns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: rajaprjnpd

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thunderbird
-  - creature-thndrbrd
+  - being-thndrbrd
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: cCvH3RbioiVmP5uA
 img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/thndrbrd-portrait.webp
 shortcode: thndrbrd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

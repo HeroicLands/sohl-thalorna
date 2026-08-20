@@ -1,7 +1,7 @@
 ---
 aliases:
   - Blinkfox
-  - creature-blinkfox
+  - being-blinkfox
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: yWF2AXVSDAjJXF4f
 img: icons/game-icons/caro-asercion/fox.svg
 portrait: images/being/blinkfox-portrait.webp
 shortcode: blinkfox
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

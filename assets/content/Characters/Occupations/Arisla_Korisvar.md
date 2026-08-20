@@ -2,7 +2,7 @@
 aliases:
   - Árisla Kórisvar
   - Arisla Korisvar
-  - character-arislkrsvr
+  - being-arislkrsvr
 tags: []
 name:
   full: Árisla Kórisvar
@@ -18,7 +18,7 @@ shortcode: arislkrsvr
 img: icons/person.svg
 draft: true
 portrait: images/being/arislkrsvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herald

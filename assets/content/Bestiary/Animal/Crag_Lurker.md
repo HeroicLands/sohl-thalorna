@@ -1,7 +1,7 @@
 ---
 aliases:
   - Crag Lurker
-  - creature-crglrkr
+  - being-crglrkr
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: bnKZuFaJKbkhFJxn
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/crglrkr-portrait.webp
 shortcode: crglrkr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

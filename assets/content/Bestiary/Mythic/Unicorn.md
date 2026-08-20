@@ -1,7 +1,7 @@
 ---
 aliases:
   - Unicorn
-  - creature-unicorn
+  - being-unicorn
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: BHOxntPKnVng9YYZ
 img: icons/game-icons/delapouite/unicorn.svg
 portrait: images/being/unicorn-portrait.webp
 shortcode: unicorn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

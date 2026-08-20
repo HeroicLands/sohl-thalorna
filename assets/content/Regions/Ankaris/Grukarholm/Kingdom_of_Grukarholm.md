@@ -20,7 +20,7 @@ ruler:
   title: Warlord
 government:
   type: warlord-confederation
-  summary: A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile [[creature-grkrahk|Grukar-ahk]]; subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian convenience — Grukar themselves recognize no king and have no concept of hereditary monarchy.
+  summary: A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile [[being-grkrahk|Grukar-ahk]]; subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian convenience — Grukar themselves recognize no king and have no concept of hereditary monarchy.
 parent:
   regions:
     - grkrhlmrgn
@@ -41,7 +41,7 @@ Grukarhölm stretches east from the Nordheim frontier across a vast expanse of t
 
 ## Culture and Society
 
-The Grukar are organized into large tribal confederations, each centered around a dominant Grukar-Hai warlord, the spawn-chamber of a fertile [[creature-grkrahk|Grukar-ahk]] that the warlord protects, and a network of subordinate clans. Their society is hierarchical and martial, with status determined by prowess in battle and the ability to command obedience. Unlike the Normen, who prize individual honor and eloquence, the Grukar value collective strength and obedience to the pack. The Grukar themselves are genderless; "king" and "queen" are categories outsiders impose on them and that Grukar do not recognize.
+The Grukar are organized into large tribal confederations, each centered around a dominant Grukar-Hai warlord, the spawn-chamber of a fertile [[being-grkrahk|Grukar-ahk]] that the warlord protects, and a network of subordinate clans. Their society is hierarchical and martial, with status determined by prowess in battle and the ability to command obedience. Unlike the Normen, who prize individual honor and eloquence, the Grukar value collective strength and obedience to the pack. The Grukar themselves are genderless; "king" and "queen" are categories outsiders impose on them and that Grukar do not recognize.
 
 Grukar settlements are scattered among the hills and icy coastlines of the inland sea. Their architecture is functional and brutal — longhouses of timber and turf, fortified with palisades of sharpened logs. They are skilled hunters and trappers, and the fur trade is one of the few points of contact between the Grukar and the civilizations to the south.
 

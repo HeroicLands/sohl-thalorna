@@ -2,7 +2,7 @@
 aliases:
   - Êrmyn Véldarin
   - Ermyn Veldarin
-  - character-ermynvldrn
+  - being-ermynvldrn
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: ermynvldrn
 img: icons/person.svg
 draft: true
 portrait: images/being/ermynvldrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

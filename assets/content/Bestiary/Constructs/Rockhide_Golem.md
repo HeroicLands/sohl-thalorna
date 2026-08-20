@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rockhide Golem
-  - creature-rckhdglm
+  - being-rckhdglm
 tags:
   - construct
 name:
@@ -12,7 +12,7 @@ id: 5bCOMUSs7gQSkDPD
 img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/rckhdglm-portrait.webp
 shortcode: rckhdglm
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: construct

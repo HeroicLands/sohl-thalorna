@@ -3,7 +3,7 @@ aliases:
   - Ángelides Patrikîos
   - Ángelides Patrikîos
   - Angelides Patrikios
-  - character-angldsptrks
+  - being-angldsptrks
 tags:
   - heroes-and-knaves
   - todo
@@ -19,7 +19,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: angldsptrks
 img: icons/person.svg
 portrait: images/being/angldsptrks-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

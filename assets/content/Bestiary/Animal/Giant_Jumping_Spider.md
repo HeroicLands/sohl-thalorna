@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Jumping Spider
-  - creature-gntjmpng
+  - being-gntjmpng
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: A95HDhCBTL8EVKBO
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/gntjmpng-portrait.webp
 shortcode: gntjmpng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

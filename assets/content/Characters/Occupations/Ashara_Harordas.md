@@ -2,7 +2,7 @@
 aliases:
   - Ashârâ Hârôrdâs
   - Ashara Harordas
-  - character-asharhrrds
+  - being-asharhrrds
 tags: []
 name:
   full: Ashârâ Hârôrdâs
@@ -18,7 +18,7 @@ shortcode: asharhrrds
 img: icons/person.svg
 draft: true
 portrait: images/being/asharhrrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Swordmaster

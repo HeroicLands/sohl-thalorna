@@ -2,7 +2,7 @@
 aliases:
   - Nüsvōrroth
   - Nusvorroth
-  - creature-nsvrroth
+  - being-nsvrroth
 tags:
   - animal
 name:
@@ -13,7 +13,7 @@ id: 0ygZo8s6O9Rj2kRt
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/nsvrroth-portrait.webp
 shortcode: nsvrroth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -2,7 +2,7 @@
 aliases:
   - Lamûshar Damrûnî
   - Lamushar Damruni
-  - character-lamshrdmrn
+  - being-lamshrdmrn
 tags: []
 name:
   full: Lamûshar Damrûnî
@@ -18,7 +18,7 @@ shortcode: lamshrdmrn
 img: icons/person.svg
 draft: true
 portrait: images/being/lamshrdmrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Litigant

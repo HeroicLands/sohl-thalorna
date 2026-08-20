@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Rat
-  - creature-giantrat
+  - being-giantrat
 tags:
   - animal
   - image-needed
@@ -13,7 +13,7 @@ id: JYYfIP5IvvkQ0oJK
 img: icons/game-icons/delapouite/rat.svg
 portrait: images/being/giantrat-portrait.webp
 shortcode: giantrat
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

@@ -2,7 +2,7 @@
 aliases:
   - Kadméros Hârôrdîs
   - Kadmeros Harordis
-  - character-kdmrshrrds
+  - being-kdmrshrrds
 tags: []
 name:
   full: Kadméros Hârôrdîs
@@ -18,7 +18,7 @@ shortcode: kdmrshrrds
 img: icons/person.svg
 draft: true
 portrait: images/being/kdmrshrrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcrafter

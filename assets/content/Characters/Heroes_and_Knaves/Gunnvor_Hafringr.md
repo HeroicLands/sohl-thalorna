@@ -3,7 +3,7 @@ aliases:
   - Gunnvǫr Hafringr
   - Gunnvǫr Hafringr
   - Gunnvor Hafringr
-  - character-gnvrhfrngr
+  - being-gnvrhfrngr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: gnvrhfrngr
 img: icons/person.svg
 portrait: images/being/gnvrhfrngr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmnrgd

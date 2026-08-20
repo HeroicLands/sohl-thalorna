@@ -1,7 +1,7 @@
 ---
 aliases:
   - Swampstrider
-  - creature-swmpstrd
+  - being-swmpstrd
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: nx1JBaUtNq1pa3Ki
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/swmpstrd-portrait.webp
 shortcode: swmpstrd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

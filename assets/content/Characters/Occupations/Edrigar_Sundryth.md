@@ -2,7 +2,7 @@
 aliases:
   - Edrígar Sundrýth
   - Edrigar Sundryth
-  - character-edrgrsndryth
+  - being-edrgrsndryth
 tags: []
 name:
   full: Edrígar Sundrýth
@@ -18,7 +18,7 @@ shortcode: edrgrsndryth
 img: icons/person.svg
 draft: true
 portrait: images/being/edrgrsndryth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Miner

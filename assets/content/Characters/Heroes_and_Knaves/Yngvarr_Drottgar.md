@@ -3,7 +3,7 @@ aliases:
   - Yngvarr Dróttgar
   - Yngvarr Dróttgar
   - Yngvarr Drottgar
-  - character-yngvrdrtgr
+  - being-yngvrdrtgr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrdrtgr
 img: icons/person.svg
 portrait: images/being/yngvrdrtgr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edric Alverton
-  - character-edriclvrtn
+  - being-edriclvrtn
 tags: []
 name:
   full: Edric Alverton
@@ -17,7 +17,7 @@ shortcode: edriclvrtn
 img: icons/person.svg
 draft: true
 portrait: images/being/edriclvrtn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Farmer

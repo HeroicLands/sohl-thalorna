@@ -2,7 +2,7 @@
 aliases:
   - Grímr Stormrót
   - Grimr Stormrot
-  - character-grmrstrmrt
+  - being-grmrstrmrt
 tags: []
 name:
   full: Grímr Stormrót
@@ -18,7 +18,7 @@ shortcode: grmrstrmrt
 img: icons/person.svg
 draft: true
 portrait: images/being/grmrstrmrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Litigant

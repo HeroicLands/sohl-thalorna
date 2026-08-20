@@ -2,7 +2,7 @@
 aliases:
   - Vólyra Brýlond
   - Volyra Brylond
-  - character-vlyrbrylnd
+  - being-vlyrbrylnd
 tags: []
 name:
   full: Vólyra Brýlond
@@ -18,7 +18,7 @@ shortcode: vlyrbrylnd
 img: icons/person.svg
 draft: true
 portrait: images/being/vlyrbrylnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Thatcher

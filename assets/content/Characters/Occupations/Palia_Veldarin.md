@@ -2,7 +2,7 @@
 aliases:
   - Pália Véldarin
   - Palia Veldarin
-  - character-paliavldrn
+  - being-paliavldrn
 tags: []
 name:
   full: Pália Véldarin
@@ -18,7 +18,7 @@ shortcode: paliavldrn
 img: icons/person.svg
 draft: true
 portrait: images/being/paliavldrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Domestic Servant

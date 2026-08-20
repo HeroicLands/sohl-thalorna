@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gróa the Seiðr of Norgaad
-  - character-grosdrnrgd
+  - being-grosdrnrgd
 tags:
   - heroes-and-knaves
   - hero
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: grosdrnrgd
 img: icons/person.svg
 portrait: images/being/grosdrnrgd-portrait.webp
-type: character
+type: being
 package: thalorna
 sohl:
   attributes:
@@ -698,9 +698,9 @@ This singular event shook Gróa to her core and set her on a journey beyond the 
 
 ### Companions
 
-- **[[character-rnhrngsdtr|Rúna Hringsdóttir]]**
-- **[[character-eldridfrhr|Eldrid Firehair]]**
-- **[[character-dagmrwndrr|Dagmar the Wanderer]]**
+- **[[being-rnhrngsdtr|Rúna Hringsdóttir]]**
+- **[[being-eldridfrhr|Eldrid Firehair]]**
+- **[[being-dagmrwndrr|Dagmar the Wanderer]]**
 
 ### Skills and Abilities
 

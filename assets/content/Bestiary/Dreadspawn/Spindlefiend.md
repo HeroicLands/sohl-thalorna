@@ -1,7 +1,7 @@
 ---
 aliases:
   - Spindlefiend
-  - creature-spndlfnd
+  - being-spndlfnd
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: uiCv7LNZzmeo0C5F
 img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/spndlfnd-portrait.webp
 shortcode: spndlfnd
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

@@ -2,7 +2,7 @@
 aliases:
   - Frítha Stormrót
   - Fritha Stormrot
-  - character-frthstrmrt
+  - being-frthstrmrt
 tags: []
 name:
   full: Frítha Stormrót
@@ -18,7 +18,7 @@ shortcode: frthstrmrt
 img: icons/person.svg
 draft: true
 portrait: images/being/frthstrmrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ratter

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ironjaw
-  - creature-ironjaw
+  - being-ironjaw
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: HKFCGWSqLCYSzPqf
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/ironjaw-portrait.webp
 shortcode: ironjaw
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

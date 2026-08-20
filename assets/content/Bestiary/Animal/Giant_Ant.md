@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Ant
-  - creature-giantant
+  - being-giantant
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: z1mE9iVDLalVjhSc
 img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/giantant-portrait.webp
 shortcode: giantant
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

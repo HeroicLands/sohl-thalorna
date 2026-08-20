@@ -2,7 +2,7 @@
 aliases:
   - Akhrem Reenfré
   - Akhrem Re'en'fré
-  - character-akhremrnfr
+  - being-akhremrnfr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
 img: icons/person.svg
 portrait: images/being/akhremrnfr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

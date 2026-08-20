@@ -2,7 +2,7 @@
 aliases:
   - Dékêla Bàremzâtês
   - Dekela Baremzates
-  - character-deklbrmzts
+  - being-deklbrmzts
 tags: []
 name:
   full: Dékêla Bàremzâtês
@@ -18,7 +18,7 @@ shortcode: deklbrmzts
 img: icons/person.svg
 draft: true
 portrait: images/being/deklbrmzts-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Potter

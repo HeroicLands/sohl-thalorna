@@ -2,7 +2,7 @@
 aliases:
   - Chéagan Zêrâzêndis
   - Cheagan Zerazendis
-  - character-chgnzrznds
+  - being-chgnzrznds
 tags: []
 name:
   full: Chéagan Zêrâzêndis
@@ -18,7 +18,7 @@ shortcode: chgnzrznds
 img: icons/person.svg
 draft: true
 portrait: images/being/chgnzrznds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

@@ -2,7 +2,7 @@
 aliases:
   - Kashnûra Arshûmû
   - Kashnura Arshumu
-  - character-kashnrrshm
+  - being-kashnrrshm
 tags: []
 name:
   full: Kashnûra Arshûmû
@@ -18,7 +18,7 @@ shortcode: kashnrrshm
 img: icons/person.svg
 draft: true
 portrait: images/being/kashnrrshm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chandler

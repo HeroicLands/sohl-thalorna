@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gloomsprite
-  - creature-glmsprt
+  - being-glmsprt
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: TzpgPd5BTOfbWPIY
 img: icons/game-icons/delapouite/fairy.svg
 portrait: images/being/glmsprt-portrait.webp
 shortcode: glmsprt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

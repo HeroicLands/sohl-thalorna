@@ -2,7 +2,7 @@
 aliases:
   - Rýlden Brânwyld
   - Rylden Branwyld
-  - character-ryldnbrnwyld
+  - being-ryldnbrnwyld
 tags: []
 name:
   full: Rýlden Brânwyld
@@ -18,7 +18,7 @@ shortcode: ryldnbrnwyld
 img: icons/person.svg
 draft: true
 portrait: images/being/ryldnbrnwyld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chieftain

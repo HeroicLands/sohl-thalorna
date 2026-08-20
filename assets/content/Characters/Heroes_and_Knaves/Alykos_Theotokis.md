@@ -3,7 +3,7 @@ aliases:
   - Alýkos Theotókis
   - Alýkos Theotókis
   - Alykos Theotokis
-  - character-alyksthtks
+  - being-alyksthtks
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: alyksthtks
 img: icons/person.svg
 portrait: images/being/alyksthtks-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

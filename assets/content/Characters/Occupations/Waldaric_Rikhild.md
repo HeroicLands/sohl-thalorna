@@ -2,7 +2,7 @@
 aliases:
   - Waldaric Ríkhild
   - Waldaric Rikhild
-  - character-wldrcrkhld
+  - being-wldrcrkhld
 tags: []
 name:
   full: Waldaric Ríkhild
@@ -18,7 +18,7 @@ shortcode: wldrcrkhld
 img: icons/person.svg
 draft: true
 portrait: images/being/wldrcrkhld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Tentmaker

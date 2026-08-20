@@ -1,7 +1,7 @@
 ---
 aliases:
   - Mildred Harden
-  - character-mildrdhrdn
+  - being-mildrdhrdn
 tags: []
 name:
   full: Mildred Harden
@@ -17,7 +17,7 @@ shortcode: mildrdhrdn
 img: icons/person.svg
 draft: true
 portrait: images/being/mildrdhrdn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

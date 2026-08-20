@@ -1,7 +1,7 @@
 ---
 aliases:
   - Asbjorn Oakheart
-  - character-asbjrnkhrt
+  - being-asbjrnkhrt
 tags:
   - demigod
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: asbjrnkhrt
 img: icons/person.svg
 portrait: images/being/asbjrnkhrt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodsman and Guardian

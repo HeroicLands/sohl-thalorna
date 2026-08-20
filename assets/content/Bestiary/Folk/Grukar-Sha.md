@@ -1,7 +1,7 @@
 ---
 aliases:
   - Grukar-Sha
-  - creature-grkrsh
+  - being-grkrsh
 tags:
   - folk
 name:
@@ -12,7 +12,7 @@ id: FBrFf3Qr1QfvV4QY
 img: icons/game-icons/delapouite/orc-head.svg
 portrait: images/being/grkrsh-portrait.webp
 shortcode: grkrsh
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: grukar

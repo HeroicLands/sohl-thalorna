@@ -1,7 +1,7 @@
 ---
 aliases:
   - Luminophage
-  - creature-lmnphg
+  - being-lmnphg
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: Ul7aa7gAof3P8b46
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/lmnphg-portrait.webp
 shortcode: lmnphg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

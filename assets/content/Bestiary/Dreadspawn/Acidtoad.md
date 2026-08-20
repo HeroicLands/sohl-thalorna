@@ -1,7 +1,7 @@
 ---
 aliases:
   - Acidtoad
-  - creature-acidtoad
+  - being-acidtoad
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: ho5hsRAglADOtInP
 img: icons/game-icons/lorc/toad-teeth.svg
 portrait: images/being/acidtoad-portrait.webp
 shortcode: acidtoad
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadiq ibn Rahman, The Diplomatic Blade Dancer
-  - character-shdqbnrhmndplmtcblddncr
+  - being-shdqbnrhmndplmtcblddncr
 tags:
   - heroes-and-knaves
   - hero
@@ -18,7 +18,7 @@ folder: mtJ4TzKdySHbE2OM
 shortcode: shdqbnrhmndplmtcblddncr
 img: icons/person.svg
 portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kalihara

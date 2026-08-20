@@ -3,7 +3,7 @@ aliases:
   - Guthrún Sólvargr
   - Guthrún Sólvargr
   - Guthrun Solvargr
-  - character-gthrnslvrgr
+  - being-gthrnslvrgr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: gthrnslvrgr
 img: icons/person.svg
 portrait: images/being/gthrnslvrgr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmnrdhm

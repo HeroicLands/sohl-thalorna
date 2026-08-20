@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadal Nadina
-  - character-shadalnadn
+  - being-shadalnadn
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: mtJ4TzKdySHbE2OM
 shortcode: shadalnadn
 img: icons/person.svg
 portrait: images/being/shadalnadn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kalihara

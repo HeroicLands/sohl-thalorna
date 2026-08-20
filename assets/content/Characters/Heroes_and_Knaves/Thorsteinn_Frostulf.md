@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thorsteinn Frostulf
-  - character-thrstnfrstlf
+  - being-thrstnfrstlf
 tags:
   - heroes-and-knaves
 name:
@@ -16,7 +16,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnfrstlf
 img: icons/person.svg
 portrait: images/being/thrstnfrstlf-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmvthgrd

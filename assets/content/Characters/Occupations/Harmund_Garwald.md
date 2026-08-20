@@ -2,7 +2,7 @@
 aliases:
   - Hármund Garwald
   - Harmund Garwald
-  - character-hrmndgrwld
+  - being-hrmndgrwld
 tags: []
 name:
   full: Hármund Garwald
@@ -18,7 +18,7 @@ shortcode: hrmndgrwld
 img: icons/person.svg
 draft: true
 portrait: images/being/hrmndgrwld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)

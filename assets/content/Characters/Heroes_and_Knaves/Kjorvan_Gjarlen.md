@@ -3,7 +3,7 @@ aliases:
   - Kjôrvan Gjârlen
   - Kjôrvan Gjârlen
   - Kjorvan Gjarlen
-  - character-kjrvngjrln
+  - being-kjrvngjrln
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: kjrvngjrln
 img: icons/person.svg
 portrait: images/being/kjrvngjrln-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmprvnz

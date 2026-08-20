@@ -2,7 +2,7 @@
 aliases:
   - Jólren Álvianar
   - Jolren Alvianar
-  - character-jolrenlvnr
+  - being-jolrenlvnr
 tags: []
 name:
   full: Jólren Álvianar
@@ -18,7 +18,7 @@ shortcode: jolrenlvnr
 img: icons/person.svg
 draft: true
 portrait: images/being/jolrenlvnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mason

@@ -3,7 +3,7 @@ aliases:
   - Xerôphôn Kâlmâkanês
   - Xerôphôn Kâlmâkanês
   - Xerophon Kalmakanes
-  - character-xrphnklmkns
+  - being-xrphnklmkns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: xrphnklmkns
 img: icons/person.svg
 portrait: images/being/xrphnklmkns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: provncmktr

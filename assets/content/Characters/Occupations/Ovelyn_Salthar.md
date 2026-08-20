@@ -2,7 +2,7 @@
 aliases:
   - Óvelyn Sálthar
   - Ovelyn Salthar
-  - character-ovlynslthr
+  - being-ovlynslthr
 tags: []
 name:
   full: Óvelyn Sálthar
@@ -18,7 +18,7 @@ shortcode: ovlynslthr
 img: icons/person.svg
 draft: true
 portrait: images/being/ovlynslthr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Chandler

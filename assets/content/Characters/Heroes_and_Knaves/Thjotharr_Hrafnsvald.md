@@ -2,7 +2,7 @@
 aliases:
   - Thjótharr Hrafnsvald
   - Thjotharr Hrafnsvald
-  - character-thjthrhrfnsvld
+  - being-thjthrhrfnsvld
 tags:
   - heroes-and-knaves
 name:
@@ -17,7 +17,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: thjthrhrfnsvld
 img: icons/person.svg
 portrait: images/being/thjthrhrfnsvld-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmnrgd
@@ -743,8 +743,8 @@ Thjótharr is motivated by a desire for recognition and immortality through his 
 
 - **The City Tailors' Guild**: Thjótharr holds a prestigious position and effectively shapes the guild's standards, though this creates resentment among other members.
 - **Elite Social Circles of **Norgaad\*\*: He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
-- **[[character-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Brother)**: Thjótharr's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Thjótharr considers tentmaking a waste of genuine skill—[[character-hrfnklhrfnsvld|Hrafnkell]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[character-hrfnklhrfnsvld|Hrafnkell]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
-- **[[character-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Nephew)**: Thjótharr's nephew, the son of [[character-hrfnklhrfnsvld|Hrafnkell]], a young militia sergeant in Vithgard. Thjótharr finds [[character-bjlfhrfnsvld|Bjalfi]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[character-bjlfhrfnsvld|Bjalfi]] wears awkwardly but with quiet appreciation.
+- **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Brother)**: Thjótharr's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Thjótharr considers tentmaking a waste of genuine skill—[[being-hrfnklhrfnsvld|Hrafnkell]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-hrfnklhrfnsvld|Hrafnkell]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
+- **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Nephew)**: Thjótharr's nephew, the son of [[being-hrfnklhrfnsvld|Hrafnkell]], a young militia sergeant in Vithgard. Thjótharr finds [[being-bjlfhrfnsvld|Bjalfi]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-bjlfhrfnsvld|Bjalfi]] wears awkwardly but with quiet appreciation.
 
 ## Plot Hooks
 

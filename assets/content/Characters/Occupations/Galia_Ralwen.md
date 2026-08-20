@@ -2,7 +2,7 @@
 aliases:
   - Gália Rálwen
   - Galia Ralwen
-  - character-galiaralwn
+  - being-galiaralwn
 tags: []
 name:
   full: Gália Rálwen
@@ -18,7 +18,7 @@ shortcode: galiaralwn
 img: icons/person.svg
 draft: true
 portrait: images/being/galiaralwn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Nobility (Courtier)

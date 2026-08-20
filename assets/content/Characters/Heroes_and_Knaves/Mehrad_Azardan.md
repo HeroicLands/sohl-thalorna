@@ -3,7 +3,7 @@ aliases:
   - Mehrâd Âzardan
   - Mehrâd Âzardan
   - Mehrad Azardan
-  - character-mehradzrdn
+  - being-mehradzrdn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: mehradzrdn
 img: icons/person.svg
 portrait: images/being/mehradzrdn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

@@ -3,7 +3,7 @@ aliases:
   - Khârânah Khafûr
   - Khârânah Khafûr
   - Kharanah Khafur
-  - character-kharnhkhfr
+  - being-kharnhkhfr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: kharnhkhfr
 img: icons/person.svg
 portrait: images/being/kharnhkhfr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

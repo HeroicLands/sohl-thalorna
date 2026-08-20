@@ -2,7 +2,7 @@
 aliases:
   - Syphrânôs Vârênlâs
   - Syphranos Varenlas
-  - character-syphrnsvrnls
+  - being-syphrnsvrnls
 tags: []
 name:
   full: Syphrânôs Vârênlâs
@@ -18,7 +18,7 @@ shortcode: syphrnsvrnls
 img: icons/person.svg
 draft: true
 portrait: images/being/syphrnsvrnls-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Gladiator

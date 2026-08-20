@@ -1,7 +1,7 @@
 ---
 aliases:
   - Hawise Ashby
-  - character-hawiseshby
+  - being-hawiseshby
 tags: []
 name:
   full: Hawise Ashby
@@ -17,7 +17,7 @@ shortcode: hawiseshby
 img: icons/person.svg
 draft: true
 portrait: images/being/hawiseshby-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

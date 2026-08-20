@@ -2,7 +2,7 @@
 aliases:
   - Ríthara Dómivar
   - Rithara Domivar
-  - character-rithardmvr
+  - being-rithardmvr
 tags: []
 name:
   full: Ríthara Dómivar
@@ -18,7 +18,7 @@ shortcode: rithardmvr
 img: icons/person.svg
 draft: true
 portrait: images/being/rithardmvr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Common Seaman

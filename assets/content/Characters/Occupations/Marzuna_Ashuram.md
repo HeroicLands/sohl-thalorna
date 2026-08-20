@@ -2,7 +2,7 @@
 aliases:
   - Marzûna Ashûram
   - Marzuna Ashuram
-  - character-marzunshrm
+  - being-marzunshrm
 tags: []
 name:
   full: Marzûna Ashûram
@@ -18,7 +18,7 @@ shortcode: marzunshrm
 img: icons/person.svg
 draft: true
 portrait: images/being/marzunshrm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bodyguard

@@ -2,7 +2,7 @@
 aliases:
   - Girmûn Takkûnûm
   - Girmun Takkunum
-  - character-girmuntknm
+  - being-girmuntknm
 tags: []
 name:
   full: Girmûn Takkûnûm
@@ -18,7 +18,7 @@ shortcode: girmuntknm
 img: icons/person.svg
 draft: true
 portrait: images/being/girmuntknm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Apothecary

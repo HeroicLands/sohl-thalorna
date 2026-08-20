@@ -2,7 +2,7 @@
 aliases:
   - Arûzan Kamûmû
   - Aruzan Kamumu
-  - character-aruzankamm
+  - being-aruzankamm
 tags: []
 name:
   full: Arûzan Kamûmû
@@ -18,7 +18,7 @@ shortcode: aruzankamm
 img: icons/person.svg
 draft: true
 portrait: images/being/aruzankamm-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Bodyguard

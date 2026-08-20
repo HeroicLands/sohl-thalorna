@@ -3,7 +3,7 @@ aliases:
   - Vishnusha Vidyāsāgaramaṇḍala
   - Vishnusha Vidyāsāgaramaṇḍala
   - Vishnusha Vidyasagaramandala
-  - character-vshnshvdysgrml
+  - being-vshnshvdysgrml
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: vshnshvdysgrml
 img: icons/person.svg
 portrait: images/being/vshnshvdysgrml-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dhnrktjnpd

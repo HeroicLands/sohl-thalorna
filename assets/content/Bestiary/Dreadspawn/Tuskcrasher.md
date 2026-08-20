@@ -1,7 +1,7 @@
 ---
 aliases:
   - Tuskcrasher
-  - creature-tskcrshr
+  - being-tskcrshr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 1LGC1Tv40FQz4hXf
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/tskcrshr-portrait.webp
 shortcode: tskcrshr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

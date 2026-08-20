@@ -2,7 +2,7 @@
 aliases:
   - Kírisa Zýrand
   - Kirisa Zyrand
-  - character-kiriszyrnd
+  - being-kiriszyrnd
 tags: []
 name:
   full: Kírisa Zýrand
@@ -18,7 +18,7 @@ shortcode: kiriszyrnd
 img: icons/person.svg
 draft: true
 portrait: images/being/kiriszyrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Cook

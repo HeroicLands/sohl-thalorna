@@ -2,7 +2,7 @@
 aliases:
   - Rodrén Jútharen
   - Rodren Jutharen
-  - character-rodrnjthrn
+  - being-rodrnjthrn
 tags: []
 name:
   full: Rodrén Jútharen
@@ -18,7 +18,7 @@ shortcode: rodrnjthrn
 img: icons/person.svg
 draft: true
 portrait: images/being/rodrnjthrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Miner

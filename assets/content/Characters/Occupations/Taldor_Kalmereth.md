@@ -2,7 +2,7 @@
 aliases:
   - Táldor Kálmereth
   - Taldor Kalmereth
-  - character-tldrklmrth
+  - being-tldrklmrth
 tags: []
 name:
   full: Táldor Kálmereth
@@ -18,7 +18,7 @@ shortcode: tldrklmrth
 img: icons/person.svg
 draft: true
 portrait: images/being/tldrklmrth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Fisher

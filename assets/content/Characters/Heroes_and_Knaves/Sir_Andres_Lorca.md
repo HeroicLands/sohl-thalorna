@@ -3,7 +3,7 @@ aliases:
   - Sir Andrés Lorca Knight of the Western Marches
   - Sir Andrés Lorca, Knight of the Western Marches
   - Sir Andres Lorca
-  - character-srndrslrcknghtwstrnmrchs
+  - being-srndrslrcknghtwstrnmrchs
 tags:
   - heroes-and-knaves
   - hero
@@ -20,7 +20,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: srndrslrcknghtwstrnmrchs
 img: icons/person.svg
 portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn

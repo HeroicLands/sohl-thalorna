@@ -3,7 +3,7 @@ aliases:
   - Sunáti Āyodhyārājavardhan
   - Sunáti Āyodhyārājavardhan
   - Sunati Ayodhyarajavardhan
-  - character-sntydhyrjvrdhn
+  - being-sntydhyrjvrdhn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: sntydhyrjvrdhn
 img: icons/person.svg
 portrait: images/being/sntydhyrjvrdhn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

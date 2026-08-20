@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Wasp
-  - creature-gntwsp
+  - being-gntwsp
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: 3gqGlLb8DWK538oW
 img: icons/game-icons/lorc/wasp-sting.svg
 portrait: images/being/gntwsp-portrait.webp
 shortcode: gntwsp
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

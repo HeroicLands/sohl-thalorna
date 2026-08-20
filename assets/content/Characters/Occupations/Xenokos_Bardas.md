@@ -2,7 +2,7 @@
 aliases:
   - Xénokôs Bárdâs
   - Xenokos Bardas
-  - character-xenoksbrds
+  - being-xenoksbrds
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: xenoksbrds
 img: icons/person.svg
 draft: true
 portrait: images/being/xenoksbrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

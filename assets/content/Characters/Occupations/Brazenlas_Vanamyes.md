@@ -2,7 +2,7 @@
 aliases:
   - Bràzenlâs Vânamyês
   - Brazenlas Vanamyes
-  - character-brznlsvnmys
+  - being-brznlsvnmys
 tags: []
 name:
   full: Bràzenlâs Vânamyês
@@ -18,7 +18,7 @@ shortcode: brznlsvnmys
 img: icons/person.svg
 draft: true
 portrait: images/being/brznlsvnmys-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Embalmer

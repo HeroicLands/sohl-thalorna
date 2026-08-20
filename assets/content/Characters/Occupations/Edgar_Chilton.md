@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edgar Chilton
-  - character-edgarchltn
+  - being-edgarchltn
 tags: []
 name:
   full: Edgar Chilton
@@ -17,7 +17,7 @@ shortcode: edgarchltn
 img: icons/person.svg
 draft: true
 portrait: images/being/edgarchltn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Embalmer

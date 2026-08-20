@@ -1,7 +1,7 @@
 ---
 aliases:
   - Xerathian Savanna Elephant
-  - creature-xrthnsvn
+  - being-xrthnsvn
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: XghBgeCi6JfLAZbD
 img: icons/game-icons/delapouite/elephant.svg
 portrait: images/being/xrthnsvn-portrait.webp
 shortcode: xrthnsvn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

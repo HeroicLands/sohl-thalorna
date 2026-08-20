@@ -2,7 +2,7 @@
 aliases:
   - Vanâdîs Kâserânis
   - Vanadis Kaseranis
-  - character-vandsksrns
+  - being-vandsksrns
 tags: []
 name:
   full: Vanâdîs Kâserânis
@@ -18,7 +18,7 @@ shortcode: vandsksrns
 img: icons/person.svg
 draft: true
 portrait: images/being/vandsksrns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Courtesan

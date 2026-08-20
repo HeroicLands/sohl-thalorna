@@ -2,7 +2,7 @@
 aliases:
   - Teshûran Bûrnashî
   - Teshuran Burnashi
-  - character-tshrnbrnsh
+  - being-tshrnbrnsh
 tags: []
 name:
   full: Teshûran Bûrnashî
@@ -18,7 +18,7 @@ shortcode: tshrnbrnsh
 img: icons/person.svg
 draft: true
 portrait: images/being/tshrnbrnsh-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Swordmaster

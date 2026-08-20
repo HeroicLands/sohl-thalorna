@@ -1,7 +1,7 @@
 ---
 aliases:
   - Wilfred Dunwell
-  - character-wilfrednwl
+  - being-wilfrednwl
 tags: []
 name:
   full: Wilfred Dunwell
@@ -17,7 +17,7 @@ shortcode: wilfrednwl
 img: icons/person.svg
 draft: true
 portrait: images/being/wilfrednwl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Herder

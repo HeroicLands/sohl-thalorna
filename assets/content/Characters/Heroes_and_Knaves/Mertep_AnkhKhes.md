@@ -2,7 +2,7 @@
 aliases:
   - Mer'tep Ankh'Khes
   - Mertep AnkhKhes
-  - character-mrtpnkhkhs
+  - being-mrtpnkhkhs
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: mrtpnkhkhs
 img: icons/person.svg
 portrait: images/being/mrtpnkhkhs-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr

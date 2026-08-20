@@ -3,7 +3,7 @@ aliases:
   - Athalwa Vithrúnd
   - Athalwa Vithrúnd
   - Athalwa Vithrund
-  - character-athlwvthrnd
+  - being-athlwvthrnd
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: athlwvthrnd
 img: icons/person.svg
 portrait: images/being/athlwvthrnd-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: vrystwldtrbs

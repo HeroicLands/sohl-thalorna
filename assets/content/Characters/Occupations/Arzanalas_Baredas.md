@@ -2,7 +2,7 @@
 aliases:
   - Arzânalàs Bâredâs
   - Arzanalas Baredas
-  - character-arznlsbrds
+  - being-arznlsbrds
 tags: []
 name:
   full: Arzânalàs Bâredâs
@@ -18,7 +18,7 @@ shortcode: arznlsbrds
 img: icons/person.svg
 draft: true
 portrait: images/being/arznlsbrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Huscarl

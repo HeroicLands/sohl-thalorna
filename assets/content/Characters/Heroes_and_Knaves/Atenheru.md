@@ -1,7 +1,7 @@
 ---
 aliases:
   - Atenheru Sahri
-  - character-atenhershr
+  - being-atenhershr
 tags:
   - heroes-and-knaves
   - hero
@@ -19,7 +19,7 @@ folder: kCKYObmsvraIezCd
 shortcode: atenhershr
 img: icons/person.svg
 portrait: images/being/atenhershr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: dunhartrbs
@@ -687,9 +687,9 @@ Atenheru stands 6'2\" tall with a medium build. He has olive-tanned skin, dark h
 
 # Dossier {#dossier}
 
-Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri** nomads, a tribe living in the remote reaches of the **Desert of Khazryn Desert**. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[character-mrtsbkhkmn|Meret-Sebek]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[character-mrtsbkhkmn|Meret-Sebek]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri** nomads, a tribe living in the remote reaches of the **Desert of Khazryn Desert**. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-mrtsbkhkmn|Meret-Sebek]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-mrtsbkhkmn|Meret-Sebek]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
-Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[character-mrtsbkhkmn|Meret-Sebek]] and brought him to a hidden oasis. It was there, as [[character-mrtsbkhkmn|Meret-Sebek]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[character-mrtsbkhkmn|Meret-Sebek]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[character-mrtsbkhkmn|Meret-Sebek]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
+Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-mrtsbkhkmn|Meret-Sebek]] and brought him to a hidden oasis. It was there, as [[being-mrtsbkhkmn|Meret-Sebek]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-mrtsbkhkmn|Meret-Sebek]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-mrtsbkhkmn|Meret-Sebek]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
 ### Skills and Abilities
 
@@ -715,11 +715,11 @@ Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector
 
 ### Personality
 
-Atenheru is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atenheru believes in fate and destiny, but he tempers this with practicality, focusing on survival and ensuring [[character-mrtsbkhkmn|Meret-Sebek]]’s safety as they journey into the unknown.
+Atenheru is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atenheru believes in fate and destiny, but he tempers this with practicality, focusing on survival and ensuring [[being-mrtsbkhkmn|Meret-Sebek]]’s safety as they journey into the unknown.
 
 ### Motivation
 
-Atenheru believes that [[character-mrtsbkhkmn|Meret-Sebek]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels a sense of destiny in helping [[character-mrtsbkhkmn|Meret-Sebek]] navigate the challenges of the desert and beyond.
+Atenheru believes that [[being-mrtsbkhkmn|Meret-Sebek]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels a sense of destiny in helping [[being-mrtsbkhkmn|Meret-Sebek]] navigate the challenges of the desert and beyond.
 
 ### Strengths
 

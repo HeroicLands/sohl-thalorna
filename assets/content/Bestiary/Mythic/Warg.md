@@ -1,7 +1,7 @@
 ---
 aliases:
   - Warg
-  - creature-warg
+  - being-warg
 tags:
   - mythic
   - image-needed
@@ -13,7 +13,7 @@ id: Fk5LGJPnTZLxzWuG
 img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/warg-portrait.webp
 shortcode: warg
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: mythic

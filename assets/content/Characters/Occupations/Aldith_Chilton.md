@@ -1,7 +1,7 @@
 ---
 aliases:
   - Aldith Chilton
-  - character-aldthchltn
+  - being-aldthchltn
 tags:
   - todo
 name:
@@ -18,7 +18,7 @@ shortcode: aldthchltn
 img: icons/person.svg
 draft: true
 portrait: images/being/aldthchltn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

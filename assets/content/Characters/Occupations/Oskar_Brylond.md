@@ -2,7 +2,7 @@
 aliases:
   - Óskar Brýlond
   - Oskar Brylond
-  - character-oskrbrylnd
+  - being-oskrbrylnd
 tags: []
 name:
   full: Óskar Brýlond
@@ -18,7 +18,7 @@ shortcode: oskrbrylnd
 img: icons/person.svg
 draft: true
 portrait: images/being/oskrbrylnd-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercantyler

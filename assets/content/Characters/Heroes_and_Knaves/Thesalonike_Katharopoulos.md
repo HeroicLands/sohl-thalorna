@@ -3,7 +3,7 @@ aliases:
   - Thêsaloníke Katharópoulos
   - Thêsaloníke Katharópoulos
   - Thesalonike Katharopoulos
-  - character-thslnkkthrpls
+  - being-thslnkkthrpls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: thslnkkthrpls
 img: icons/person.svg
 portrait: images/being/thslnkkthrpls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

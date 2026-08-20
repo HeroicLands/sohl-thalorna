@@ -3,7 +3,7 @@ aliases:
   - Faradûn Afrûn
   - Faradûn Afrûn
   - Faradun Afrun
-  - character-faradunfrn
+  - being-faradunfrn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: V1t8DVX0wKSOCJd5
 shortcode: faradunfrn
 img: icons/person.svg
 portrait: images/being/faradunfrn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: sultntmrdd

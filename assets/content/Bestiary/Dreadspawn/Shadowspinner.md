@@ -1,7 +1,7 @@
 ---
 aliases:
   - Shadowspinner
-  - creature-shdwspnn
+  - being-shdwspnn
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: 0zzYLJWzwisk1CDQ
 img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/shdwspnn-portrait.webp
 shortcode: shdwspnn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

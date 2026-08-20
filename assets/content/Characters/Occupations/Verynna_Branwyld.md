@@ -2,7 +2,7 @@
 aliases:
   - Vérynna Brânwyld
   - Verynna Branwyld
-  - character-vrynbrnwyld
+  - being-vrynbrnwyld
 tags: []
 name:
   full: Vérynna Brânwyld
@@ -18,7 +18,7 @@ shortcode: vrynbrnwyld
 img: icons/person.svg
 draft: true
 portrait: images/being/vrynbrnwyld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shaman

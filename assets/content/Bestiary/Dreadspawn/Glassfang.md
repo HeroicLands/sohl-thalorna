@@ -1,7 +1,7 @@
 ---
 aliases:
   - Glassfang
-  - creature-glssfng
+  - being-glssfng
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: ehEf5wCFXsQmP6pd
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/glssfng-portrait.webp
 shortcode: glssfng
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

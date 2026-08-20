@@ -2,7 +2,7 @@
 aliases:
   - Jâdhâros Bâshirôn
   - Jadharos Bashiron
-  - character-jdhrsbshrn
+  - being-jdhrsbshrn
 tags: []
 name:
   full: Jâdhâros Bâshirôn
@@ -18,7 +18,7 @@ shortcode: jdhrsbshrn
 img: icons/person.svg
 draft: true
 portrait: images/being/jdhrsbshrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Common Seaman

@@ -3,7 +3,7 @@ aliases:
   - Skúfrún Stormrót
   - Skúfrún Stormrót
   - Skufrun Stormrot
-  - character-skfrnstrmrt
+  - being-skfrnstrmrt
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: skfrnstrmrt
 img: icons/person.svg
 portrait: images/being/skfrnstrmrt-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdomlgn

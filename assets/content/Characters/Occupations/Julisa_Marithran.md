@@ -2,7 +2,7 @@
 aliases:
   - Júlisa Maríthran
   - Julisa Marithran
-  - character-julsmrthrn
+  - being-julsmrthrn
 tags: []
 name:
   full: Júlisa Maríthran
@@ -18,7 +18,7 @@ shortcode: julsmrthrn
 img: icons/person.svg
 draft: true
 portrait: images/being/julsmrthrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

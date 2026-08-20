@@ -1,7 +1,7 @@
 ---
 aliases:
   - Nari Sahravân
-  - character-narisahrvn
+  - being-narisahrvn
 tags:
   - heroes-and-knaves
   - hero
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: narisahrvn
 img: icons/person.svg
 portrait: images/being/narisahrvn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn
@@ -672,7 +672,7 @@ Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and b
 
 Nari Sahravân is a daughter of the deep **[[doc-khzryndsrtrgn|Khazryn]]** — the steppe and desert of the [[doc-khzrncnfdrtn|Khazran Confederation]], far to the north and east, where the nomad tribes keep the old ways and the old gods. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who travelled between camps — until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
-Nari and [[character-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern Mídhalion borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness — the gentle healer and the killer-for-hire made an uneasy pair — they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her — above all what the matriarchy does to its men — and she does not always keep that disquiet to herself.
+Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern Mídhalion borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness — the gentle healer and the killer-for-hire made an uneasy pair — they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her — above all what the matriarchy does to its men — and she does not always keep that disquiet to herself.
 
 ### Skills and Abilities
 
@@ -698,11 +698,11 @@ Nari and [[character-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in 
 
 ### Personality
 
-Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[character-zahirmlkht|Zahira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or enigmatic at times, Nari is deeply loyal to those she considers her allies.
+Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-zahirmlkht|Zahira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or enigmatic at times, Nari is deeply loyal to those she considers her allies.
 
 ### Motivation
 
-Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions — the smouldering war between Bethûa, its Kheperi patron, and Vylaria over the southern sea — threaten that balance, and she sees her journey with [[character-zahirmlkht|Zahira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Mídhalion before her visions are done with her.
+Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions — the smouldering war between Bethûa, its Kheperi patron, and Vylaria over the southern sea — threaten that balance, and she sees her journey with [[being-zahirmlkht|Zahira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Mídhalion before her visions are done with her.
 
 ### Strengths
 
@@ -713,14 +713,14 @@ Nari is driven by her spiritual quest to maintain the balance of the natural wor
 
 ## Plot Hooks
 
-1. **The Weight of the Rolls**: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **Rashîra** and her stolen [[doc-bethuanflt|Warrant-register]], Nari alone grasps that the prize is not a person but a truth — and that catching it for the [[doc-gvrnmntbth|Veil]] may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[character-zahirmlkht|Zahira]]'s contract and [[character-laylamarut|Layla]]'s instinct for advantage, and she presses Zahira to ask not whether she can take the register, but who is served when she does.
+1. **The Weight of the Rolls**: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **Rashîra** and her stolen [[doc-bethuanflt|Warrant-register]], Nari alone grasps that the prize is not a person but a truth — and that catching it for the [[doc-gvrnmntbth|Veil]] may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-zahirmlkht|Zahira]]'s contract and [[being-laylamarut|Layla]]'s instinct for advantage, and she presses Zahira to ask not whether she can take the register, but who is served when she does.
    - **Nari's Sight**: Her divinations give the company leads no tracker could find — and warnings no patron wants to hear.
    - **The Healer's Objection**: To Nari, balance is not the crown's secret kept but the bloodshed prevented; she argues for the harder road of the truth, even against the woman who saved her life by hunting.
 
-2. **What Bethûa Does to Its Men**: As an outsider, Nari sees plainly what Bethûans have stopped seeing — the bound men, the watched men, the oar-slaves chained to the benches of the very [[doc-bethuanflt|galley]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[character-zahirmlkht|Zahira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[character-laylamarut|Layla]] must decide whether to shield her foreign friend or protect her House's good name.
+2. **What Bethûa Does to Its Men**: As an outsider, Nari sees plainly what Bethûans have stopped seeing — the bound men, the watched men, the oar-slaves chained to the benches of the very [[doc-bethuanflt|galley]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[being-zahirmlkht|Zahira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[being-laylamarut|Layla]] must decide whether to shield her foreign friend or protect her House's good name.
    - **A Foreigner's License**: A foreign woman may do much in Bethûa that a Bethûan would not dare — but only so far, and the line is sharper at sea than on the docks.
    - **The Mutiny's Spark**: Nari's compassion, in the wrong hold at the wrong moment, could be the small kindness that lights a rising among men with nothing left to lose.
 
-3. **The Marches and the Jackals**: When the chase swings into Bethûa's arid southern marches, it is Nari — not the Bethûans — who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen **[[character-yasurajckl|Yâsûra the Jackal]]** and her Jackals have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[character-zahirmlkht|Zahira]]'s hunt. Nari can open doors among the nomads that would stay shut to a Bethûan thief-taker — if she is willing to spend her own standing among kindred peoples to do it.
+3. **The Marches and the Jackals**: When the chase swings into Bethûa's arid southern marches, it is Nari — not the Bethûans — who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen **[[being-yasurajckl|Yâsûra the Jackal]]** and her Jackals have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[being-zahirmlkht|Zahira]]'s hunt. Nari can open doors among the nomads that would stay shut to a Bethûan thief-taker — if she is willing to spend her own standing among kindred peoples to do it.
 
-4. **The Thread Home**: A vision reaches Nari from the deep [[doc-khzryndsrtrgn|Khazryn]] — kin in trouble, or a calling she cannot ignore — at the very moment the hunt for Rashîra reaches its knife-edge. She must weigh the thread that drew her across the world to [[character-zahirmlkht|Zahira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smouldering war, or back among her own.
+4. **The Thread Home**: A vision reaches Nari from the deep [[doc-khzryndsrtrgn|Khazryn]] — kin in trouble, or a calling she cannot ignore — at the very moment the hunt for Rashîra reaches its knife-edge. She must weigh the thread that drew her across the world to [[being-zahirmlkht|Zahira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smouldering war, or back among her own.

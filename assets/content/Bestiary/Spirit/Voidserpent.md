@@ -1,7 +1,7 @@
 ---
 aliases:
   - Voidserpent
-  - creature-vdsrpnt
+  - being-vdsrpnt
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: mXr47FnIDlmq2RCz
 img: icons/game-icons/lorc/snake.svg
 portrait: images/being/vdsrpnt-portrait.webp
 shortcode: vdsrpnt
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

@@ -3,7 +3,7 @@ aliases:
   - Drákonis Dalássênos
   - Drákonis Dalássênos
   - Drakonis Dalassenos
-  - character-drknsdlsns
+  - being-drknsdlsns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: drknsdlsns
 img: icons/person.svg
 portrait: images/being/drknsdlsns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

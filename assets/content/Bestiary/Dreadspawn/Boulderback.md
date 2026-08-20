@@ -1,7 +1,7 @@
 ---
 aliases:
   - Boulderback
-  - creature-bldrbck
+  - being-bldrbck
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: yBv7xJJafJv5vXrt
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/bldrbck-portrait.webp
 shortcode: bldrbck
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

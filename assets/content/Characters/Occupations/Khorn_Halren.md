@@ -2,7 +2,7 @@
 aliases:
   - Khôrn Hálren
   - Khorn Halren
-  - character-khornhalrn
+  - being-khornhalrn
 tags: []
 name:
   full: Khôrn Hálren
@@ -18,7 +18,7 @@ shortcode: khornhalrn
 img: icons/person.svg
 draft: true
 portrait: images/being/khornhalrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Yeoman Infantry

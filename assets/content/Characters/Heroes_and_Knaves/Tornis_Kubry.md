@@ -1,7 +1,7 @@
 ---
 aliases:
   - Tórnis Kúbrý
-  - character-torniskbry
+  - being-torniskbry
 tags:
   - hero
   - silent-talon
@@ -17,7 +17,7 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: torniskbry
 img: icons/person.svg
 portrait: images/being/torniskbry-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kingdmtrvn
@@ -699,10 +699,10 @@ Tórnis seeks to distance himself from his past life as a Tarvénan brigand and 
 
 ## Companions
 
-- **[[character-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
-- **[[character-elyseskyrn|Elýsè Skýrn]]**: A developing romantic relationship that Tórnis is unsure how to handle.
-- **[[character-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
-- **[[character-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
+- **[[being-elyseskyrn|Elýsè Skýrn]]**: A developing romantic relationship that Tórnis is unsure how to handle.
+- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
+- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
 
 ### Patrons
 

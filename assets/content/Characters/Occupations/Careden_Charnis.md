@@ -2,7 +2,7 @@
 aliases:
   - Cáreden Chárnis
   - Careden Charnis
-  - character-cardnchrns
+  - being-cardnchrns
 tags: []
 name:
   full: Cáreden Chárnis
@@ -18,7 +18,7 @@ shortcode: cardnchrns
 img: icons/person.svg
 draft: true
 portrait: images/being/cardnchrns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Shaman

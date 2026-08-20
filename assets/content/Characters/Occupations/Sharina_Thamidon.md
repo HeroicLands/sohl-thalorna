@@ -2,7 +2,7 @@
 aliases:
   - Shárîna Thâmîdon
   - Sharina Thamidon
-  - character-sharnthmdn
+  - being-sharnthmdn
 tags: []
 name:
   full: Shárîna Thâmîdon
@@ -18,7 +18,7 @@ shortcode: sharnthmdn
 img: icons/person.svg
 draft: true
 portrait: images/being/sharnthmdn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Miner

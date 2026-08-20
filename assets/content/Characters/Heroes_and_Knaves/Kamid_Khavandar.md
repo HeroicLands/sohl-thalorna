@@ -3,7 +3,7 @@ aliases:
   - Kamîd Khâvandar
   - Kamîd Khâvandar
   - Kamid Khavandar
-  - character-kamdkhvndr
+  - being-kamdkhvndr
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: heI5Ky6Kqmb61L6c
 shortcode: kamdkhvndr
 img: icons/person.svg
 portrait: images/being/kamdkhvndr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: khzrncnfdrtn

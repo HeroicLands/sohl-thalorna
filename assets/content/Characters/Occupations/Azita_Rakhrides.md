@@ -2,7 +2,7 @@
 aliases:
   - Ázîta Râkhrîdês
   - Azita Rakhrides
-  - character-azitrkhrds
+  - being-azitrkhrds
 tags: []
 name:
   full: Ázîta Râkhrîdês
@@ -18,7 +18,7 @@ shortcode: azitrkhrds
 img: icons/person.svg
 draft: true
 portrait: images/being/azitrkhrds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Mercantyler

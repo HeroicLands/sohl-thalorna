@@ -2,7 +2,7 @@
 aliases:
   - Kólrith Delvánor
   - Kolrith Delvanor
-  - character-klrthdlvnr
+  - being-klrthdlvnr
 tags: []
 name:
   full: Kólrith Delvánor
@@ -18,7 +18,7 @@ shortcode: klrthdlvnr
 img: icons/person.svg
 draft: true
 portrait: images/being/klrthdlvnr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Pilot

@@ -2,7 +2,7 @@
 aliases:
   - Mörkvidr the Deathmage
   - Morkvidr the Deathmage
-  - character-mrkvdrdthmg
+  - being-mrkvdrdthmg
 tags:
   - demigod
   - heroes-of-asguard
@@ -19,7 +19,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: mrkvdrdthmg
 img: icons/person.svg
 portrait: images/being/mrkvdrdthmg-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Necromancer

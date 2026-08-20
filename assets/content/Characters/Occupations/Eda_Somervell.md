@@ -1,7 +1,7 @@
 ---
 aliases:
   - Eda Somervell
-  - character-edasomervl
+  - being-edasomervl
 tags: []
 name:
   full: Eda Somervell
@@ -17,7 +17,7 @@ shortcode: edasomervl
 img: icons/person.svg
 draft: true
 portrait: images/being/edasomervl-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Innkeeper

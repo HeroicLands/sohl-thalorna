@@ -3,7 +3,7 @@ aliases:
   - Lysándros Chrysanthópoulos
   - Lysándros Chrysanthópoulos
   - Lysandros Chrysanthopoulos
-  - character-lysndrschrysnthpls
+  - being-lysndrschrysnthpls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: lysndrschrysnthpls
 img: icons/person.svg
 portrait: images/being/lysndrschrysnthpls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg

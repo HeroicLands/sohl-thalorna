@@ -1,7 +1,7 @@
 ---
 aliases:
   - Giant Bee
-  - creature-giantbee
+  - being-giantbee
 tags:
   - animal
 name:
@@ -12,7 +12,7 @@ id: LBdgt05Nh0uI1pIt
 img: icons/game-icons/lorc/bee.svg
 portrait: images/being/giantbee-portrait.webp
 shortcode: giantbee
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: animal

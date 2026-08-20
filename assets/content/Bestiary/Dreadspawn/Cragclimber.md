@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cragclimber
-  - creature-crgclmbr
+  - being-crgclmbr
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: lehcDkx0YgAsYjaw
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/crgclmbr-portrait.webp
 shortcode: crgclmbr
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

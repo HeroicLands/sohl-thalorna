@@ -1,7 +1,7 @@
 ---
 aliases:
   - Feraldew
-  - creature-feraldew
+  - being-feraldew
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: c9Dwi7Xceu24w4P6
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/feraldew-portrait.webp
 shortcode: feraldew
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

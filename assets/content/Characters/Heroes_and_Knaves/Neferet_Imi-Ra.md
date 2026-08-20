@@ -1,7 +1,7 @@
 ---
 aliases:
   - Neferet Imi-Ra
-  - character-neferetimr
+  - being-neferetimr
 tags:
   - heroes-and-knaves
   - hero
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
 img: icons/person.svg
 portrait: images/being/neferetimr-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr
@@ -680,9 +680,9 @@ Neferet stands 5'6\" tall with a light build. He has deep brown skin, tightly cu
 
 Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[doc-empirtkhpr|Ta’Kheperu]]** in Zerula, renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
 
-Her life took a sudden turn when [[character-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[character-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
+Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 
-Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[character-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[character-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
+Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[being-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
 
 ### Skills and Abilities
 
@@ -700,7 +700,7 @@ Neferet, driven by both curiosity and a hunger for knowledge, decided to accompa
 - **Eloquence**: She speaks clearly and thoughtfully, often using her knowledge to persuade.
 - **Morality**: As a scholar of ancient texts, Neferet follows the sacred practices of her people and upholds the intellectual and spiritual standards of her culture without compromise.
 - **Voice**: Neferet’s voice is clear and composed, used primarily for recitations of ancient texts and rituals, though not particularly noted for musicality.
-- **Astrological Scholar**: Neferet is an expert in interpreting ancient prophecies and celestial phenomena. She can read and decipher star charts, ancient runes, and astrological texts, providing essential insights into [[character-mrtsbkhkmn|Meret-Sebek]]’s visions.
+- **Astrological Scholar**: Neferet is an expert in interpreting ancient prophecies and celestial phenomena. She can read and decipher star charts, ancient runes, and astrological texts, providing essential insights into [[being-mrtsbkhkmn|Meret-Sebek]]’s visions.
 - **Master of Forgotten Languages**: Neferet’s ability to translate obscure languages and decode forgotten scripts allows the group to unlock hidden knowledge from ancient scrolls, artifacts, and ruins.
 - **Arcane Knowledge**: Though not a practitioner of magic, Neferet’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
 - **Folklore Knowledge**: Neferet has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tānvür. The exception is Vylaria, with which she has considerable knowledge.
@@ -709,11 +709,11 @@ Neferet, driven by both curiosity and a hunger for knowledge, decided to accompa
 
 ### Personality
 
-Neferet is highly intelligent and ambitious, with a thirst for knowledge that sometimes borders on obsession. Her keen intellect makes her invaluable when interpreting ancient texts and astrological charts, but her single-minded pursuit of knowledge can sometimes lead her to take risks others would avoid. Beneath her academic exterior, Neferet is deeply loyal to [[character-mrtsbkhkmn|Meret-Sebek]], seeing him as the key to fulfilling her scholarly ambitions.
+Neferet is highly intelligent and ambitious, with a thirst for knowledge that sometimes borders on obsession. Her keen intellect makes her invaluable when interpreting ancient texts and astrological charts, but her single-minded pursuit of knowledge can sometimes lead her to take risks others would avoid. Beneath her academic exterior, Neferet is deeply loyal to [[being-mrtsbkhkmn|Meret-Sebek]], seeing him as the key to fulfilling her scholarly ambitions.
 
 ### Motivation
 
-Neferet is driven by a desire for discovery and recognition. She believes that helping [[character-mrtsbkhkmn|Meret-Sebek]] unlock the mysteries of the stars will not only elevate her scholarly standing but also provide her with the knowledge needed to reshape the world. She is committed to seeing the quest through, convinced that the celestial upheavals described in [[character-mrtsbkhkmn|Meret-Sebek]]’s visions are the key to unlocking ancient power.
+Neferet is driven by a desire for discovery and recognition. She believes that helping [[being-mrtsbkhkmn|Meret-Sebek]] unlock the mysteries of the stars will not only elevate her scholarly standing but also provide her with the knowledge needed to reshape the world. She is committed to seeing the quest through, convinced that the celestial upheavals described in [[being-mrtsbkhkmn|Meret-Sebek]]’s visions are the key to unlocking ancient power.
 
 ### Strengths
 
@@ -725,7 +725,7 @@ Neferet is driven by a desire for discovery and recognition. She believes that h
 
 ## Plot Hooks
 
-1. **The Forbidden Archive**: Neferet learns of a hidden chamber in the Imperial Library of Ta’Kheperu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[character-mrtsbkhkmn|Meret-Sebek]] is studying. Gaining access requires navigating political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal.
+1. **The Forbidden Archive**: Neferet learns of a hidden chamber in the Imperial Library of Ta’Kheperu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-mrtsbkhkmn|Meret-Sebek]] is studying. Gaining access requires navigating political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal.
 
 2. **The Glyph of Summoning**: While deciphering an ancient tablet, Neferet accidentally activates a ward, conjuring a spectral guardian bound to the artifact. The spirit demands she fulfill a forgotten oath tied to its creation or face retribution. To unravel the truth, Neferet must delve into the tablet’s history while managing the increasingly erratic behavior of the summoned entity.
 

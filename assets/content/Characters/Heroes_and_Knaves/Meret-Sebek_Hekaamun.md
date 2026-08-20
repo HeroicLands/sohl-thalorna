@@ -2,7 +2,7 @@
 aliases:
   - Meret-Sebek Heka’amun
   - Meret-Sebek Hekaamun
-  - character-mrtsbkhkmn
+  - being-mrtsbkhkmn
 tags:
   - heroes-and-knaves
   - hero
@@ -19,7 +19,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
 img: icons/person.svg
 portrait: images/being/mrtsbkhkmn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: empirtkhpr
@@ -720,7 +720,7 @@ His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure l
 
 Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. Additionally, his journey into the ruins reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
-Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Additionally, Meret-Sebek encounters a scholar, **[[character-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[character-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
+Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Additionally, Meret-Sebek encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
@@ -736,9 +736,9 @@ The culmination of his journey will lead to a dramatic confrontation, not only w
 
 ### Companions
 
-- [[character-atenhershr|Atenheru Sahri]]
-- [[character-neferetimr|Neferet Imi-Ra]]
-- [[character-hotepanu|Hotep Anu]]
+- [[being-atenhershr|Atenheru Sahri]]
+- [[being-neferetimr|Neferet Imi-Ra]]
+- [[being-hotepanu|Hotep Anu]]
 
 ### Skills and Abilities
 

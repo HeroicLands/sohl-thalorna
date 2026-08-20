@@ -2,7 +2,7 @@
 aliases:
   - Hrefna Íseldr
   - Hrefna Iseldr
-  - character-hrefnasldr
+  - being-hrefnasldr
 tags: []
 name:
   full: Hrefna Íseldr
@@ -18,7 +18,7 @@ shortcode: hrefnasldr
 img: icons/person.svg
 draft: true
 portrait: images/being/hrefnasldr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Woodcutter

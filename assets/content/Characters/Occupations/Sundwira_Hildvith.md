@@ -2,7 +2,7 @@
 aliases:
   - Sundwíra Hildvith
   - Sundwira Hildvith
-  - character-sndwrhldvth
+  - being-sndwrhldvth
 tags: []
 name:
   full: Sundwíra Hildvith
@@ -18,7 +18,7 @@ shortcode: sndwrhldvth
 img: icons/person.svg
 draft: true
 portrait: images/being/sndwrhldvth-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Ostler

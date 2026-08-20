@@ -2,7 +2,7 @@
 aliases:
   - Demétrion Komnênos
   - Demetrion Komnenos
-  - character-dmtrnkmnns
+  - being-dmtrnkmnns
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: dmtrnkmnns
 img: icons/person.svg
 draft: true
 portrait: images/being/dmtrnkmnns-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

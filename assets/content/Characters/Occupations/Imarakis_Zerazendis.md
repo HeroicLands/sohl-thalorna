@@ -2,7 +2,7 @@
 aliases:
   - Îmarakîs Zêrâzêndis
   - Imarakis Zerazendis
-  - character-imrkszrznds
+  - being-imrkszrznds
 tags: []
 name:
   full: Îmarakîs Zêrâzêndis
@@ -18,7 +18,7 @@ shortcode: imrkszrznds
 img: icons/person.svg
 draft: true
 portrait: images/being/imrkszrznds-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Musician (Drums)

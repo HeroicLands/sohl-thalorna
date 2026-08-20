@@ -1,7 +1,7 @@
 ---
 aliases:
   - Voidmoth
-  - creature-voidmoth
+  - being-voidmoth
 tags:
   - spirit
 name:
@@ -12,7 +12,7 @@ id: 0YaWh1FabKCGtnAs
 img: icons/game-icons/lorc/butterfly.svg
 portrait: images/being/voidmoth-portrait.webp
 shortcode: voidmoth
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: spirit

@@ -3,7 +3,7 @@ aliases:
   - Drkṣàrana Manṛṣṭi
   - Drkṣàrana Manṛṣṭi
   - Drksarana Manrsti
-  - character-drkaranamn
+  - being-drkaranamn
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: JotxZnnXcTECeYW3
 shortcode: drkaranamn
 img: icons/person.svg
 portrait: images/being/drkaranamn-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: chandrapur

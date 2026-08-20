@@ -2,7 +2,7 @@
 aliases:
   - Grácena Castírenna
   - Gracena Castirenna
-  - character-gracncstrn
+  - being-gracncstrn
 tags:
   - todo-warrior
 name:
@@ -18,7 +18,7 @@ shortcode: gracncstrn
 img: icons/person.svg
 draft: true
 portrait: images/being/gracncstrn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Town Guard

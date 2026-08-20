@@ -3,7 +3,7 @@ aliases:
   - Bránakis Kâserânis
   - Bránakis Kâserânis
   - Branakis Kaseranis
-  - character-brnksksrns
+  - being-brnksksrns
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: brnksksrns
 img: icons/person.svg
 portrait: images/being/brnksksrns-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: hlykngdmnrtm

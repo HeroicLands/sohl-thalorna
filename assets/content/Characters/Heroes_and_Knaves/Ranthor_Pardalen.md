@@ -3,7 +3,7 @@ aliases:
   - Ránthor Párdalen
   - Ránthor Párdalen
   - Ranthor Pardalen
-  - character-rnthrprdln
+  - being-rnthrprdln
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: 4cwfdMa34UryZqPR
 shortcode: rnthrprdln
 img: icons/person.svg
 portrait: images/being/rnthrprdln-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: kngdmlvndr

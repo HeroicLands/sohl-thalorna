@@ -1,7 +1,7 @@
 ---
 aliases:
   - Thunderhorn
-  - creature-thndrhrn
+  - being-thndrhrn
 tags:
   - dreadspawn
 name:
@@ -12,7 +12,7 @@ id: AimHPopglSXjxhWa
 img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/thndrhrn-portrait.webp
 shortcode: thndrhrn
-type: creature
+type: being
 package: thalorna
 sohl:
   kbcat: dreadspawn

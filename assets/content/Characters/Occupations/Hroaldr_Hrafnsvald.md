@@ -2,7 +2,7 @@
 aliases:
   - Hróaldr Hrafnsvald
   - Hroaldr Hrafnsvald
-  - character-hrldrhrfnsvld
+  - being-hrldrhrfnsvld
 tags: []
 name:
   full: Hróaldr Hrafnsvald
@@ -18,7 +18,7 @@ shortcode: hrldrhrfnsvld
 img: icons/person.svg
 draft: true
 portrait: images/being/hrldrhrfnsvld-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Jeweller

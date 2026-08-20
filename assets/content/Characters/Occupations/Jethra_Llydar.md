@@ -2,7 +2,7 @@
 aliases:
   - Jéthra Llýdar
   - Jethra Llydar
-  - character-jethralydr
+  - being-jethralydr
 tags: []
 name:
   full: Jéthra Llýdar
@@ -18,7 +18,7 @@ shortcode: jethralydr
 img: icons/person.svg
 draft: true
 portrait: images/being/jethralydr-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Astrologer

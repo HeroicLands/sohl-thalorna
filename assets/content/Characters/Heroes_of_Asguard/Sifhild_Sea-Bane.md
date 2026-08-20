@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sifhild Sea-Bane
-  - character-sifhildsbn
+  - being-sifhildsbn
 tags:
   - paragon
   - heroes-of-asguard
@@ -18,7 +18,7 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: sifhildsbn
 img: icons/person.svg
 portrait: images/being/sifhildsbn-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Sailor and Warrior

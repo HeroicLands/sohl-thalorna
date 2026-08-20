@@ -2,7 +2,7 @@
 aliases:
   - Vígbrandr Steinblót
   - Vigbrandr Steinblot
-  - character-vgbrndrstnblt
+  - being-vgbrndrstnblt
 tags: []
 name:
   full: Vígbrandr Steinblót
@@ -18,7 +18,7 @@ shortcode: vgbrndrstnblt
 img: icons/person.svg
 draft: true
 portrait: images/being/vgbrndrstnblt-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Perfumer

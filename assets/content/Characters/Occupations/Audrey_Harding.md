@@ -1,7 +1,7 @@
 ---
 aliases:
   - Audrey Harding
-  - character-audryhrdng
+  - being-audryhrdng
 tags:
   - todo
 name:
@@ -18,7 +18,7 @@ shortcode: audryhrdng
 img: icons/person.svg
 draft: true
 portrait: images/being/audryhrdng-portrait.webp
-type: character
+type: being
 package: thalorna
 social:
   occupation: Priest

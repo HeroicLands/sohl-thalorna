@@ -3,7 +3,7 @@ aliases:
   - Athênagoras Katakálos
   - Athênagoras Katakálos
   - Athenagoras Katakalos
-  - character-athngrsktkls
+  - being-athngrsktkls
 tags:
   - heroes-and-knaves
 name:
@@ -18,7 +18,7 @@ folder: b81DHx3S7C9ep13E
 shortcode: athngrsktkls
 img: icons/person.svg
 portrait: images/being/athngrsktkls-portrait.webp
-type: character
+type: being
 package: thalorna
 thalorna:
   realm: byzarianlg
