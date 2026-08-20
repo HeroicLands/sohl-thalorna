@@ -20,7 +20,7 @@ government:
   summary: Philosophical council of senior scholars and patrician families.
 parent:
   regions:
-    - heladregin
+    - heladrgn
   polities:
     - ctysttshlns
 languages:

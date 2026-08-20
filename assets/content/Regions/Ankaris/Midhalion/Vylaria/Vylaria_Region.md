@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Vylaria Region
+  - Vylaría Region
   - doc-vylariargn
 id: GHIXrjvkfpw2yc6e
 description: ""
@@ -9,7 +9,7 @@ category: region
 draft: true
 package: thalorna
 name:
-  full: Vylaria Region
+  full: Vylaría Region
   aliases: []
 shortcode: vylariargn
 parent:
@@ -17,3 +17,4 @@ parent:
     - midhalnrgn
 folder: WSdLuPc7BaRqxNEt
 ---
+TBD

@@ -642,7 +642,7 @@ Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the Vylaria region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the Vylaría region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs came into the world of the swordmaster through a combination of circumstance and aptitude.
 
 Thalia is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Thalia's quick reflexes and keen eye make her a formidable opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 

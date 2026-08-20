@@ -27,7 +27,7 @@ This note maps the languages spoken across [[doc-worldthlrn|Thalorna]], the poli
 | **Élavendri** | [[doc-elavendre       | Élavendre]]                                                         | [[doc-elvndrlngg         | Elavendri Language]] | Descended from Áelendi. Rich in words for magic, nature, and the fae. The language of the settled kingdom.                   |
 | **Áelendi**   | [[doc-elavendre       | Élavendre]] (Áelendan tribal areas)                                 | [[doc-elvndrlngg         | Elavendri Language]] | The older tongue from which Élavendri descends, spoken by the Áelendan (People of the Covenant) in the mountainous interior. |
 | **Haradi**    | [[doc-cnfdrtnhrdnstts | Confederation of Haradian States]]                                  | [[doc-haradilngg         | Haradi Language]]    | The language of the merchant guilds and the sea. Contains extensive vocabulary for commerce, navigation, and maritime life.  |
-| **Byzarian**  | [[doc-byzariargn      | Byzaria Region]]                                                    | [[doc-byzarnlngg         | Byzarian Language]]  | A crossroads language blending Helonic grammar with eastern vocabulary. Widely understood by traders between east and west.  |
+| **Byzarian**  | [[doc-byzariargn      | Byzaría Region]]                                                    | [[doc-byzarnlngg         | Byzarian Language]]  | A crossroads language blending Helonic grammar with eastern vocabulary. Widely understood by traders between east and west.  |
 
 ## Northern Ankaris
 

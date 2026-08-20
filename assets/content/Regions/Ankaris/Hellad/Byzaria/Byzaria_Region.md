@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Byzaria
   - Byzaria Region
+  - Byzaría Region
   - doc-byzariargn
 tags:
   - region
@@ -14,11 +14,11 @@ shortcode: byzariargn
 img: ""
 type: doc
 category: region
-draft: true
 package: thalorna
 terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 parent:
   regions:
-    - heladregin
+    - heladrgn
 folder: pAXnwYJhDDSvkrPt
 ---
+TBD

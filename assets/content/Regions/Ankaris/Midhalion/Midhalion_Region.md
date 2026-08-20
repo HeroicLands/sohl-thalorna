@@ -75,7 +75,7 @@ Every major commodity-class of Thalorna moves through the region. Vylarian steel
 
 ## Relations with Neighboring Regions
 
-Mídhalión connects to every other major region of Ankaris. It fronts the [[doc-aureldirgn|Aurèldían]] heartlands to the northwest, the [[doc-heladregin|Hellád]] to the north, [[doc-cnfdrtnhrdnstts|Harad]] and the [[doc-khzryndsrtrgn|Khazryn]] to the northeast, and the [[doc-dunharargn|Dunhara]] and [[doc-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it connects to the far-eastern empires of [[doc-tanvuregin|Tānvür]] and [[doc-vedyarargn|Vedyara]]. Through the western strait it connects to [[doc-kalihara|Kalihara]] and, theoretically, to [[doc-kchchkcntnnt|K'ich'chik]] and the southern continents.
+Mídhalión connects to every other major region of Ankaris. It fronts the [[doc-aureldirgn|Aurèldían]] heartlands to the northwest, the [[doc-heladrgn|Hellád]] to the north, [[doc-cnfdrtnhrdnstts|Harad]] and the [[doc-khzryndsrtrgn|Khazryn]] to the northeast, and the [[doc-dunharargn|Dunhara]] and [[doc-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it connects to the far-eastern empires of [[doc-tanvuregin|Tānvür]] and [[doc-vedyarargn|Vedyara]]. Through the western strait it connects to [[doc-kalihara|Kalihara]] and, theoretically, to [[doc-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 

@@ -2,7 +2,7 @@
 aliases:
   - Hellád
   - Hellad Region
-  - doc-heladregin
+  - doc-heladrgn
 tags:
   - region
 title: ""
@@ -11,7 +11,7 @@ name:
   full: Hellád Region
   aliases: []
 id: fT0m0zgori7CbpJj
-shortcode: heladregin
+shortcode: heladrgn
 img: ""
 draft: false
 type: doc

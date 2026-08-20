@@ -37,7 +37,7 @@ Ankaris is the largest continent on [[doc-worldthlrn|Thalorna]] and the setting 
 
 ## Geography
 
-Ankaris spans every major climate zone short of the polar extremes. The far north is dominated by boreal forests, fjords, and tundra that shade into the Nordland steppes and the frozen [[doc-grkrhlmrgn|Grukarholm]] taiga. South of this lies a broad temperate belt containing the western heartlands of [[doc-aureldirgn|Aurèldía]], the crossroads cities of the [[doc-heladregin|Hellád]], and the deep forests of Vrystwald. Further south the land grows arid: the [[doc-khzryndsrtrgn|Khazryn Desert]] forms a vast central barrier, and the [[doc-dunharargn|Dunhara]] stretches beyond it into true wasteland broken only by oases. The southern shore is bounded by the [[doc-vylarianse|Vylarian Sea]], around whose waters the cosmopolitan [[doc-midhalnrgn|Mídhalión]] region has formed.
+Ankaris spans every major climate zone short of the polar extremes. The far north is dominated by boreal forests, fjords, and tundra that shade into the Nordland steppes and the frozen [[doc-grkrhlmrgn|Grukarholm]] taiga. South of this lies a broad temperate belt containing the western heartlands of [[doc-aureldirgn|Aurèldía]], the crossroads cities of the [[doc-heladrgn|Hellád]], and the deep forests of Vrystwald. Further south the land grows arid: the [[doc-khzryndsrtrgn|Khazryn Desert]] forms a vast central barrier, and the [[doc-dunharargn|Dunhara]] stretches beyond it into true wasteland broken only by oases. The southern shore is bounded by the [[doc-vylarianse|Vylarian Sea]], around whose waters the cosmopolitan [[doc-midhalnrgn|Mídhalión]] region has formed.
 
 In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host the [[doc-vedyarargn|Vedyarian]] subcontinent, the insular [[doc-tanvuregin|Empire of Tānvür]], and — across a narrow strait — the island empire of [[doc-jurthatrgn|Jürthāt]]. The continent's western coast is broken by the great island of [[doc-aelwyth|Aelwyth]] and the smaller port-island of [[doc-calypsa|Calypsa]], both within the Aurèldían cultural sphere.
 
@@ -82,7 +82,7 @@ Across the Vylarian Sea, Ankaris is connected to [[doc-xerathia|Xerathia]]: the 
 - [[doc-worldthlrn|The World of Thalorna]] — World overview
 - [[doc-aureldirgn|Aurèldía Region]] — Western heartland
 - [[doc-midhalnrgn|Mídhalión Region]] — Vylarian Sea basin (shared with Xerathia)
-- [[doc-heladregin|Hellád Region]] — Intellectual and trade crossroads
+- [[doc-heladrgn|Hellád Region]] — Intellectual and trade crossroads
 - [[doc-nrdlndsrgn|Nordlands Region]] — The frozen north
 - [[doc-grkrhlmrgn|Grukarholm Region]] — Far northeastern Grukar lands
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Central desert

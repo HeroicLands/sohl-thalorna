@@ -20,7 +20,7 @@ government:
   summary: Democratic assembly of free citizens.
 parent:
   regions:
-    - heladregin
+    - heladrgn
   polities:
     - ctysttshlns
 languages:

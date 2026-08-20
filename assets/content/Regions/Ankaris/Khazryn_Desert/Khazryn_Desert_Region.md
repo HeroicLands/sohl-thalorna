@@ -32,7 +32,7 @@ languages:
 folder: PbQ9B1r6hEaJvyco
 ---
 
-The Khazryn Desert is the great central wasteland of [[doc-ankrscntnnt|Ankaris Continent]] — an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[doc-heladregin|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[doc-vedyarargn|Vedyara]] and [[doc-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.
+The Khazryn Desert is the great central wasteland of [[doc-ankrscntnnt|Ankaris Continent]] — an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[doc-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[doc-vedyarargn|Vedyara]] and [[doc-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.
 
 The desert is not empty. Nomadic confederations, oasis settlements, and the long-running Celestial Road trade system have made the Khazryn one of the most economically consequential regions on the continent, despite holding only a fraction of the population of any of its neighbors. To cross the Khazryn successfully is to reach the other half of the known world; to control any significant oasis on the route is to be wealthy beyond the imagination of any settled peasant.
 
@@ -122,7 +122,7 @@ To the **northwest** lies [[doc-vrystwald|Vrystwald]] across a long mountain-and
 
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — primary pantheon, shared with Dunhara and Harad
 - [[doc-dunharlngg|Dunhari]] — the related naming tradition
-- [[doc-heladregin|Hellád Region]] — western gateway
+- [[doc-heladrgn|Hellád Region]] — western gateway
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — western trading partner
 - [[doc-dunharargn|Dunhara Region]] — southern desert cousin
 - [[doc-vedyarargn|Vedyara Region]] — southeastern pass-end

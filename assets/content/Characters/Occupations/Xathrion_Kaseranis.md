@@ -652,7 +652,7 @@ Xâthrîon Kâserânis is a 48-year-old man who stands 5'9" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the Vylaria region to a noble family of Vylarian heritage, Xâthrîon Kâserânis came into the world of the physician through a combination of circumstance and aptitude.
+Born in the Vylaría region to a noble family of Vylarian heritage, Xâthrîon Kâserânis came into the world of the physician through a combination of circumstance and aptitude.
 
 Dr. Fenwick is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Fenwick is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
 

@@ -645,7 +645,7 @@ harnworld:
 
 # Dossier {#dossier}
 
-Born in the Vylaria region to a freeman family of Vylarian heritage, Îmarakîs Zêrâzêndis came into the world of the musician (drums) through a combination of circumstance and aptitude.
+Born in the Vylaría region to a freeman family of Vylarian heritage, Îmarakîs Zêrâzêndis came into the world of the musician (drums) through a combination of circumstance and aptitude.
 
 Halda grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Halda’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
 

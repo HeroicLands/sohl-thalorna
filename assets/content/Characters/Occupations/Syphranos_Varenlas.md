@@ -638,7 +638,7 @@ Syphrânôs Vârênlâs is a 37-year-old man who stands 6'2" tall and is broad a
 
 # Dossier {#dossier}
 
-Born in the Vylaria region to a freeman family of Vylarian heritage, Syphrânôs Vârênlâs came into the world of the gladiator through a combination of circumstance and aptitude.
+Born in the Vylaría region to a freeman family of Vylarian heritage, Syphrânôs Vârênlâs came into the world of the gladiator through a combination of circumstance and aptitude.
 
 Marcus was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Bloodbane" for his ferocity in combat. Marcus has fought countless opponents and gained his freedom through his victories, but he continues to fight for glory and coin. While known for his brutal fighting style, he is surprisingly honorable, following a strict code of conduct in the arena.
 

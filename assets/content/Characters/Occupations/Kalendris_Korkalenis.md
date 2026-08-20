@@ -648,7 +648,7 @@ Kàlendrîs Korkâlenîs is a 30-year-old woman who stands 5'6" tall and is slen
 
 # Dossier {#dossier}
 
-Born in the Vylaria region to a freeman family of Vylarian heritage, Kàlendrîs Korkâlenîs came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the Vylaría region to a freeman family of Vylarian heritage, Kàlendrîs Korkâlenîs came into the world of the clothier through a combination of circumstance and aptitude.
 
 Marisella learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Marisella has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
 

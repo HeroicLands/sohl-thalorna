@@ -13,7 +13,6 @@ shortcode: haradregin
 img: ""
 type: doc
 category: region
-draft: true
 package: thalorna
 terran_analog: ""
 parent:
@@ -23,3 +22,4 @@ parent:
     - ankrscntnnt
 folder: umL4KFGO3MD4u9X1
 ---
+TBD

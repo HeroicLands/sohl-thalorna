@@ -20,7 +20,7 @@ government:
   type: city-state
 parent:
   regions:
-    - heladregin
+    - heladrgn
   polities:
     - ctysttshlns
 languages:

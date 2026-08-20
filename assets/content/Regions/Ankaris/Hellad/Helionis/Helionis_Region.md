@@ -13,7 +13,7 @@ name:
 shortcode: helionis
 parent:
   regions:
-    - heladregin
+    - heladrgn
 folder: L06n59aSySB8zVbI
 ---
 
