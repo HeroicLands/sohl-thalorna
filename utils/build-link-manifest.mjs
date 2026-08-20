@@ -18,7 +18,8 @@
  * file, keyed by the canonical `type/shortcode` address and valued `{ path, name }`.
  * Another package's build vendors the file and can then resolve a link into this
  * package instead of guessing whether an unknown address is a typo — see
- * `utils/kb-manifest.mjs` for the format and what turns on when it is complete.
+ * `@heroiclands/content-build/engine/kb-manifest` for the format and what turns
+ * on when it is complete.
  *
  * **The URLs must be real.** A manifest asserts that a page exists at the address
  * it gives; inventing one produces a link that passes the dead-link check and
@@ -28,7 +29,8 @@
  *     /{package}/{type-or-category}/{slug}/
  *
  * with `slug` derived from `name.full` by the shared rule in
- * `utils/content-slug.mjs` (#1278/#1389), `doc` notes routing by their
+ * `@heroiclands/content-build/engine/content-slug` (#1278/#1389), `doc` notes
+ * routing by their
  * `category` rather than their type, and a `category: collection` note using its
  * authored `section` — the section it introduces — rather than a derived slug.
  * That is `export-hugo.ts`'s dispatch, restated against the tree that is now
@@ -54,16 +56,28 @@
 import fs from "node:fs";
 import path from "node:path";
 
-import { contentSlug } from "./content-slug.mjs";
-import { canonicalKey, writeManifests } from "./kb-manifest.mjs";
-import { compendiumUuid, pageUuid } from "./packs/ids.mjs";
-import { isItemDocType, itemDocEntryId } from "./packs/item-docs.mjs";
-import { journalPageId, splitPages } from "./packs/journals.mjs";
-import { walkMarkdownTree } from "./packs/helpers.mjs";
+import { contentSlug } from "@heroiclands/content-build/engine/content-slug";
+import {
+  canonicalKey,
+  writeManifests,
+} from "@heroiclands/content-build/engine/kb-manifest";
+import {
+  compendiumUuid,
+  pageUuid,
+} from "@heroiclands/content-build/engine/ids";
+import {
+  hasDocEntry,
+  itemDocEntryId,
+} from "@heroiclands/content-build/engine/item-docs";
+import {
+  journalPageId,
+  splitPages,
+} from "@heroiclands/content-build/engine/journals";
+import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
 import {
   CONTENT_PACKAGE,
   FOUNDRY_PACKAGE_ID,
-} from "./packs/content-package.mjs";
+} from "@heroiclands/content-build/engine/content-package";
 
 const CONTENT_BASE = path.resolve("./assets/content");
 
@@ -116,7 +130,7 @@ function entriesFor(fm, name, url, body) {
     ? compendiumUuid(FOUNDRY_PACKAGE_ID, fm.type, fm.id)
     : undefined;
 
-  if (isItemDocType(fm.type)) {
+  if (hasDocEntry(fm.type)) {
     const docKey = canonicalKey(CONTENT_PACKAGE, `doc${fm.type}`, fm.shortcode);
     const docEntryId = fm.id ? itemDocEntryId(fm.id) : undefined;
     const docUuid = docEntryId

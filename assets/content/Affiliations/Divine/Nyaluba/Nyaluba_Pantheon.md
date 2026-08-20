@@ -24,7 +24,7 @@ sohl:
   office: null
   title: null
   level: null
-  relation: []
+  relation: {}
   archetype: null
 package: thalorna
 description: The totemic religious tradition of the Nyáluba Tribal Nation of southern Xerathia — a lineage-bound system of clan totems and innumerable land, water, ancestor, and hunt spirits venerated, appeased, or warded against according to their character.

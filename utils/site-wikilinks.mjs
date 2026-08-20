@@ -15,7 +15,8 @@
  * Wikilink resolution for the website content build (#1451).
  *
  * The same authored links the pack compilers turn into Foundry `@UUID` enrichers
- * (see `utils/packs/wikilinks.mjs`) become site-local hrefs here:
+ * (see `@heroiclands/content-build/engine/wikilinks`) become site-local hrefs
+ * here:
  *
  *   `[[type-shortcode|Text]]`      → `[Text](/thalorna/section/slug/)`
  *   `[[Text]]`                     → the same, via a type-scoped alias
@@ -28,16 +29,16 @@
  * so this module never learns the `/thalorna` prefix, and the same rules serve
  * any package that publishes a path.
  *
- * Vendored from the SoHL system repository's `utils/kb-wikilinks.mjs` so the two
- * builds resolve an authored link identically; see `utils/packs/README.md` for
- * how the vendored tree is kept diffable against upstream.
+ * A sibling of the SoHL system repository's `utils/kb-wikilinks.mjs`: both read a
+ * link's qualifier with the shared toolchain's own rule, so the two builds
+ * resolve an authored link identically.
  */
 
 // Whether a target is an *address* rather than prose is read with the pack
 // build's own rule, so the two builds cannot drift apart on it: they disagreed
 // once over the unlabelled hyphen form, which the packs showed as a raw
 // shortcode and the knowledgebase as a name (#1409).
-import { readQualifier } from "./packs/wikilinks.mjs";
+import { readQualifier } from "@heroiclands/content-build/engine/wikilinks";
 
 /** Heading/anchor slug: lowercase, non-alphanumerics to single hyphens. */
 export const slugify = (s) =>

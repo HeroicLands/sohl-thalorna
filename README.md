@@ -28,10 +28,11 @@ the website — is generated output: the packs and the manifest land under
 `build/`, the site under `site/content/` and `build/site/thalorna/`. All of it is
 gitignored, and no compiled output is committed.
 
-The pack compiler in [`utils/packs/`](utils/packs/README.md) is a vendored copy
-of the Song of Heroic Lands system repository's, kept deliberately identical so
-that the two cannot drift unnoticed; that README lists the few differences and
-why each exists.
+The pack compiler is [`@heroiclands/content-build`](https://www.npmjs.com/package/@heroiclands/content-build),
+the shared toolchain every HeroicLands content package builds with. This
+repository declares what is its own — the content package it compiles, the
+Foundry package it ships, its pack list — in `content-build.config.mjs`, and
+holds no copy of the compilers.
 
 ## Publishing to the website
 
@@ -72,7 +73,7 @@ What the build does to a note:
 
 - **Routes** it to `<section>/<slug>.md`, where the section is its `type` (a
   `type: doc` routes by its `category`) and the slug is derived from `name.full`
-  by the shared rule in `utils/content-slug.mjs`. A `category: collection` note
+  by the shared rule in `@heroiclands/content-build/engine/content-slug`. A `category: collection` note
   _is_ a section's landing and writes that section's `_index.md`.
 - **Expands** its fenced `dataview` table directives against every published note.
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the

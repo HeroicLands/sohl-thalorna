@@ -14,6 +14,7 @@ shortcode: byzariargn
 img: ""
 type: doc
 category: region
+draft: true
 package: thalorna
 terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 parent:

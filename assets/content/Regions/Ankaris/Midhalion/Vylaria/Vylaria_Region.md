@@ -6,6 +6,7 @@ id: GHIXrjvkfpw2yc6e
 description: ""
 type: doc
 category: region
+draft: true
 package: thalorna
 name:
   full: Vylaria Region

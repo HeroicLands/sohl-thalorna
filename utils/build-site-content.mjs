@@ -32,11 +32,13 @@
  *
  * 1. **Route** each note to `<section>/<slug>.md`. The section is the note's
  *    `type`, except a `type: doc` routes by its `category`; the slug is derived
- *    from `name.full` by the shared rule in `utils/content-slug.mjs` (#1278).
+ *    from `name.full` by the shared rule in
+ *    `@heroiclands/content-build/engine/content-slug` (#1278).
  *    A `category: collection` note *is* a section's landing and writes that
  *    section's `_index.md` instead.
  * 2. **Expand** the fenced `dataview` table directives against every published
- *    note (`utils/content-tables.mjs`), so a collection page tabulates its
+ *    note (`@heroiclands/content-build/engine/content-tables`), so a collection
+ *    page tabulates its
  *    section.
  * 3. **Resolve** the authored wikilinks to site-local hrefs
  *    (`utils/site-wikilinks.mjs`), the same links the pack compilers turn into
@@ -56,18 +58,21 @@ import fs from "node:fs";
 import path from "node:path";
 import yaml from "yaml";
 
-import { contentSlug, findSlugCollisions } from "./content-slug.mjs";
-import { expandContentTables } from "./content-tables.mjs";
+import {
+  contentSlug,
+  findSlugCollisions,
+} from "@heroiclands/content-build/engine/content-slug";
+import { expandContentTables } from "@heroiclands/content-build/engine/content-tables";
 import { resolveSiteWikilinks } from "./site-wikilinks.mjs";
 import {
   writeManifests,
   loadForeignManifests,
   manifestsComplete,
-} from "./kb-manifest.mjs";
+} from "@heroiclands/content-build/engine/kb-manifest";
 import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
-import { walkMarkdownTree } from "./packs/helpers.mjs";
-import { isItemDocType } from "./packs/item-docs.mjs";
-import { CONTENT_PACKAGE } from "./packs/content-package.mjs";
+import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
+import { hasDocEntry } from "@heroiclands/content-build/engine/item-docs";
+import { CONTENT_PACKAGE } from "@heroiclands/content-build/engine/content-package";
 
 const REPO = path.resolve(".");
 const CONTENT_SRC = path.join(REPO, "assets/content");
@@ -505,7 +510,7 @@ for (const e of entries) {
     // Here the item note renders as one page which *is* its documentation, so
     // the two qualifiers are aliases for the same URL. One authored link,
     // correct in both builds.
-    if (isItemDocType(type)) {
+    if (hasDocEntry(type)) {
       contentTypes.add(`doc${type}`);
       wikiIndex.set(`doc${type}/${e.fm.shortcode}`.toLowerCase(), v);
     }

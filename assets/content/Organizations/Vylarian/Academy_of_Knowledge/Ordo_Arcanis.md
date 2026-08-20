@@ -26,7 +26,7 @@ sohl:
   office: null
   title: null
   level: null
-  relation: []
+  relation: {}
   archetype: null
 folder: 6Gi1DyUGAYGvWCIo
 ---

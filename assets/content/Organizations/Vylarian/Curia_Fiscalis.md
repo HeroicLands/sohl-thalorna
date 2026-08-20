@@ -21,7 +21,7 @@ sohl:
   office: null
   title: null
   level: null
-  relation: []
+  relation: {}
   archetype: null
 folder:
 ---

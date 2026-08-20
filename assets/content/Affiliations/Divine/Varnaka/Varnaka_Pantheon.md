@@ -17,7 +17,7 @@ sohl:
   office: null
   title: null
   level: null
-  relation: []
+  relation: {}
   archetype: null
 package: thalorna
 folder: dxzsTyaF4LMapIJX
