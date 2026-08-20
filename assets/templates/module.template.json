@@ -10,7 +10,7 @@
       "flags": {}
     }
   ],
-  "license": "LICENSE",
+  "license": "LICENSE.md",
   "readme": "README.md",
   "changelog": "CHANGELOG.md",
   "flags": {

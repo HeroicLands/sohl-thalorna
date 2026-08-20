@@ -52,7 +52,11 @@ const ASSETS = [
   // is absent and this is the only thing marking an unresolved link.
   ["styles", "build/stage/styles"],
   ["README.md", "build/stage/README.md"],
-  ["LICENSE", "build/stage/LICENSE"],
+  // The dual license: the explainer, plus the full text of each half, at the
+  // same paths the explainer points at (`src/LICENSE`, `assets/LICENSE`).
+  ["LICENSE.md", "build/stage/LICENSE.md"],
+  ["src/LICENSE", "build/stage/src/LICENSE"],
+  ["assets/LICENSE", "build/stage/assets/LICENSE"],
 ];
 
 const missing = ASSETS.filter(([src]) => !existsSync(src)).map(([src]) => src);
