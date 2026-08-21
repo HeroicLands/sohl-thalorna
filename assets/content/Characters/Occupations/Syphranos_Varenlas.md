@@ -3,7 +3,8 @@ aliases:
   - Syphrânôs Vârênlâs
   - Syphranos Varenlas
   - being-syphrnsvrnls
-tags: []
+tags:
+  - draft
 name:
   full: Syphrânôs Vârênlâs
   title: ""
@@ -16,7 +17,6 @@ id: BjpHAKRYlklfN3yN
 folder: UFBfgKZUF0bAE7gG
 shortcode: syphrnsvrnls
 img: icons/person.svg
-draft: true
 portrait: images/being/syphrnsvrnls-portrait.webp
 type: being
 package: thalorna

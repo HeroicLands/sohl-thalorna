@@ -3,7 +3,8 @@ aliases:
   - Táldor Kálmereth
   - Taldor Kalmereth
   - being-tldrklmrth
-tags: []
+tags:
+  - draft
 name:
   full: Táldor Kálmereth
   title: ""
@@ -16,7 +17,6 @@ id: AcuVET6ZyyQY0PjF
 folder: 4cwfdMa34UryZqPR
 shortcode: tldrklmrth
 img: icons/person.svg
-draft: true
 portrait: images/being/tldrklmrth-portrait.webp
 type: being
 package: thalorna

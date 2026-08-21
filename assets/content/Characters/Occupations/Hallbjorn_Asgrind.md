@@ -3,7 +3,8 @@ aliases:
   - Hallbjǫrn Ásgrind
   - Hallbjorn Asgrind
   - being-hlbjrnsgrnd
-tags: []
+tags:
+  - draft
 name:
   full: Hallbjǫrn Ásgrind
   title: ""
@@ -16,7 +17,6 @@ id: JTuyMHsDGMBgYSh2
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hlbjrnsgrnd
 img: icons/person.svg
-draft: true
 portrait: images/being/hlbjrnsgrnd-portrait.webp
 type: being
 package: thalorna

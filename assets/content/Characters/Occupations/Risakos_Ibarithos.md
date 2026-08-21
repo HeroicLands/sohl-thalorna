@@ -3,7 +3,8 @@ aliases:
   - Rísàkós Ibârìthôs
   - Risakos Ibarithos
   - being-risksbrths
-tags: []
+tags:
+  - draft
 name:
   full: Rísàkós Ibârìthôs
   title: ""
@@ -16,7 +17,6 @@ id: do0cZuzren68K4Tu
 folder: gpXd1anXulwRWZqn
 shortcode: risksbrths
 img: icons/person.svg
-draft: true
 portrait: images/being/risksbrths-portrait.webp
 type: being
 package: thalorna

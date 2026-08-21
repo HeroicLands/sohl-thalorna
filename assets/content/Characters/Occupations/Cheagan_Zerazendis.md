@@ -3,7 +3,8 @@ aliases:
   - Chéagan Zêrâzêndis
   - Cheagan Zerazendis
   - being-chgnzrznds
-tags: []
+tags:
+  - draft
 name:
   full: Chéagan Zêrâzêndis
   title: ""
@@ -16,7 +17,6 @@ id: ArnWGhwBhsRRLFHQ
 folder: UFBfgKZUF0bAE7gG
 shortcode: chgnzrznds
 img: icons/person.svg
-draft: true
 portrait: images/being/chgnzrznds-portrait.webp
 type: being
 package: thalorna

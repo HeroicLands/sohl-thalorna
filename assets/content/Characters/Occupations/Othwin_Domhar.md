@@ -3,7 +3,8 @@ aliases:
   - Óthwin Dómhár
   - Othwin Domhar
   - being-othwindmhr
-tags: []
+tags:
+  - draft
 name:
   full: Óthwin Dómhár
   title: ""
@@ -16,7 +17,6 @@ id: msoxltaTIircdJsS
 folder: Nu7AgLZEmR26u2pk
 shortcode: othwindmhr
 img: icons/person.svg
-draft: true
 portrait: images/being/othwindmhr-portrait.webp
 type: being
 package: thalorna

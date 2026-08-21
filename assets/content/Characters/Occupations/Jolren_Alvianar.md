@@ -3,7 +3,8 @@ aliases:
   - Jólren Álvianar
   - Jolren Alvianar
   - being-jolrenlvnr
-tags: []
+tags:
+  - draft
 name:
   full: Jólren Álvianar
   title: ""
@@ -16,7 +17,6 @@ id: 6o0C4w7bAdzGxpyf
 folder: 9t9O4iB5cYJtSaTG
 shortcode: jolrenlvnr
 img: icons/person.svg
-draft: true
 portrait: images/being/jolrenlvnr-portrait.webp
 type: being
 package: thalorna

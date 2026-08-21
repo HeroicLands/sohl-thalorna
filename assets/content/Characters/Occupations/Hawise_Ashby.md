@@ -2,7 +2,8 @@
 aliases:
   - Hawise Ashby
   - being-hawiseshby
-tags: []
+tags:
+  - draft
 name:
   full: Hawise Ashby
   title: ""
@@ -15,7 +16,6 @@ id: HnyADvkxtUuX8KMf
 folder: elH5NDPUuiRCICrE
 shortcode: hawiseshby
 img: icons/person.svg
-draft: true
 portrait: images/being/hawiseshby-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Qirûsh Tarûzî
   - Qirush Taruzi
   - being-qirushtarz
-tags: []
+tags:
+  - draft
 name:
   full: Qirûsh Tarûzî
   title: ""
@@ -16,7 +17,6 @@ id: eECXxGLgCGo8NcUY
 folder: PuQFDMkRM9i60i5Z
 shortcode: qirushtarz
 img: icons/person.svg
-draft: true
 portrait: images/being/qirushtarz-portrait.webp
 type: being
 package: thalorna

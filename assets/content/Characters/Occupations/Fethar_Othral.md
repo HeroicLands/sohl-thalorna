@@ -3,7 +3,8 @@ aliases:
   - Féthar Óthral
   - Fethar Othral
   - being-fetharthrl
-tags: []
+tags:
+  - draft
 name:
   full: Féthar Óthral
   title: ""
@@ -16,7 +17,6 @@ id: NhigzxYvJ8xWjmMG
 folder: 4cwfdMa34UryZqPR
 shortcode: fetharthrl
 img: icons/person.svg
-draft: true
 portrait: images/being/fetharthrl-portrait.webp
 type: being
 package: thalorna

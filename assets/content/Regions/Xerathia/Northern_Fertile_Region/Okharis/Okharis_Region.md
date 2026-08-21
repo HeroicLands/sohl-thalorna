@@ -13,7 +13,6 @@ name:
 id: rD2cSVqLcGUxWBMV
 shortcode: okharisrgn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

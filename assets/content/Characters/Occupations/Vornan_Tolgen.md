@@ -3,7 +3,8 @@ aliases:
   - Vôrnan Tólgen
   - Vornan Tolgen
   - being-vornantlgn
-tags: []
+tags:
+  - draft
 name:
   full: Vôrnan Tólgen
   title: ""
@@ -16,7 +17,6 @@ id: pRWM3YfHCHTxe6Kh
 folder: J9R0fnGUTBY5z4pd
 shortcode: vornantlgn
 img: icons/person.svg
-draft: true
 portrait: images/being/vornantlgn-portrait.webp
 type: being
 package: thalorna

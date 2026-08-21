@@ -3,7 +3,8 @@ aliases:
   - Belshar Gûlamû
   - Belshar Gulamu
   - being-belsharglm
-tags: []
+tags:
+  - draft
 name:
   full: Belshar Gûlamû
   title: ""
@@ -16,7 +17,6 @@ id: V4HcQv4XNiMyjkl1
 folder: PuQFDMkRM9i60i5Z
 shortcode: belsharglm
 img: icons/person.svg
-draft: true
 portrait: images/being/belsharglm-portrait.webp
 type: being
 package: thalorna

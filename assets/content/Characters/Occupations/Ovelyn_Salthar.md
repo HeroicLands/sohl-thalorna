@@ -3,7 +3,8 @@ aliases:
   - Óvelyn Sálthar
   - Ovelyn Salthar
   - being-ovlynslthr
-tags: []
+tags:
+  - draft
 name:
   full: Óvelyn Sálthar
   title: ""
@@ -16,7 +17,6 @@ id: BlrDp37eCZ32JgdP
 folder: 4cwfdMa34UryZqPR
 shortcode: ovlynslthr
 img: icons/person.svg
-draft: true
 portrait: images/being/ovlynslthr-portrait.webp
 type: being
 package: thalorna

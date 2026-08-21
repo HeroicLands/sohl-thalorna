@@ -2,7 +2,8 @@
 aliases:
   - Ethelinda Wigmore
   - being-ethlndwgmr
-tags: []
+tags:
+  - draft
 name:
   full: Ethelinda Wigmore
   title: ""
@@ -15,7 +16,6 @@ id: IcNepOR6soVfBgWO
 folder: elH5NDPUuiRCICrE
 shortcode: ethlndwgmr
 img: icons/person.svg
-draft: true
 portrait: images/being/ethlndwgmr-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Chýnara Kórisvar
   - Chynara Korisvar
   - being-chynrkrsvr
-tags: []
+tags:
+  - draft
 name:
   full: Chýnara Kórisvar
   title: ""
@@ -16,7 +17,6 @@ id: 5z0BGufzQgliEu7p
 folder: J9R0fnGUTBY5z4pd
 shortcode: chynrkrsvr
 img: icons/person.svg
-draft: true
 portrait: images/being/chynrkrsvr-portrait.webp
 type: being
 package: thalorna

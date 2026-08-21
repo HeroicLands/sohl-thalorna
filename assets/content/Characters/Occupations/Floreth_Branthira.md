@@ -3,7 +3,8 @@ aliases:
   - Floréth Bránthira
   - Floreth Branthira
   - being-flrthbrnthr
-tags: []
+tags:
+  - draft
 name:
   full: Floréth Bránthira
   title: ""
@@ -16,7 +17,6 @@ id: cC6ZKPmuMEGj9dCg
 folder: 9t9O4iB5cYJtSaTG
 shortcode: flrthbrnthr
 img: icons/person.svg
-draft: true
 portrait: images/being/flrthbrnthr-portrait.webp
 type: being
 package: thalorna

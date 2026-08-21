@@ -5,6 +5,7 @@ aliases:
   - being-velarithrl
 tags:
   - todo
+  - draft
 name:
   full: Vélaria Óthral
   title: ""
@@ -17,7 +18,6 @@ id: OodgAvTEgRXia9J7
 folder: 4cwfdMa34UryZqPR
 shortcode: velarithrl
 img: icons/person.svg
-draft: true
 portrait: images/being/velarithrl-portrait.webp
 type: being
 package: thalorna

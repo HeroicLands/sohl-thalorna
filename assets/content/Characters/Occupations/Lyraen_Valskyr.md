@@ -3,7 +3,8 @@ aliases:
   - Lýraen Válskyr
   - Lyraen Valskyr
   - being-lyrnvlskyr
-tags: []
+tags:
+  - draft
 name:
   full: Lýraen Válskyr
   title: ""
@@ -16,7 +17,6 @@ id: Y3oobQmzvr3e9Xrw
 folder: J9R0fnGUTBY5z4pd
 shortcode: lyrnvlskyr
 img: icons/person.svg
-draft: true
 portrait: images/being/lyrnvlskyr-portrait.webp
 type: being
 package: thalorna

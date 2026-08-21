@@ -3,7 +3,8 @@ aliases:
   - Kashnûra Arshûmû
   - Kashnura Arshumu
   - being-kashnrrshm
-tags: []
+tags:
+  - draft
 name:
   full: Kashnûra Arshûmû
   title: ""
@@ -16,7 +17,6 @@ id: EZAmggQBwBAD3UdR
 folder: PuQFDMkRM9i60i5Z
 shortcode: kashnrrshm
 img: icons/person.svg
-draft: true
 portrait: images/being/kashnrrshm-portrait.webp
 type: being
 package: thalorna

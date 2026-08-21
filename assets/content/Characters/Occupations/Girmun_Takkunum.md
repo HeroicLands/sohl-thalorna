@@ -3,7 +3,8 @@ aliases:
   - Girmûn Takkûnûm
   - Girmun Takkunum
   - being-girmuntknm
-tags: []
+tags:
+  - draft
 name:
   full: Girmûn Takkûnûm
   title: ""
@@ -16,7 +17,6 @@ id: xkxwnQrS7RPeMOkI
 folder: PuQFDMkRM9i60i5Z
 shortcode: girmuntknm
 img: icons/person.svg
-draft: true
 portrait: images/being/girmuntknm-portrait.webp
 type: being
 package: thalorna

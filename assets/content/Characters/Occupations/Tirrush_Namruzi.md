@@ -3,7 +3,8 @@ aliases:
   - Tirrûsh Namrûzî
   - Tirrush Namruzi
   - being-tirushnmrz
-tags: []
+tags:
+  - draft
 name:
   full: Tirrûsh Namrûzî
   title: ""
@@ -16,7 +17,6 @@ id: qD2tmy2EgpyKwKsS
 folder: PuQFDMkRM9i60i5Z
 shortcode: tirushnmrz
 img: icons/person.svg
-draft: true
 portrait: images/being/tirushnmrz-portrait.webp
 type: being
 package: thalorna

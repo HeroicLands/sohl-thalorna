@@ -2,7 +2,8 @@
 aliases:
   - Aldred Harden
   - being-aldredhrdn
-tags: []
+tags:
+  - draft
 name:
   full: Aldred Harden
   title: ""
@@ -15,7 +16,6 @@ id: pTjsBaNwpKAlQQfH
 folder: elH5NDPUuiRCICrE
 shortcode: aldredhrdn
 img: icons/person.svg
-draft: true
 portrait: images/being/aldredhrdn-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Bâlden Stýlgon
   - Balden Stylgon
   - being-bldnstylgn
-tags: []
+tags:
+  - draft
 name:
   full: Bâlden Stýlgon
   title: ""
@@ -16,7 +17,6 @@ id: I4xHG6r1kq608E9Z
 folder: J9R0fnGUTBY5z4pd
 shortcode: bldnstylgn
 img: icons/person.svg
-draft: true
 portrait: images/being/bldnstylgn-portrait.webp
 type: being
 package: thalorna

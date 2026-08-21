@@ -12,7 +12,6 @@ name:
 id: V1Y04Ph8jthE1Fw0
 shortcode: kiximtzul
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

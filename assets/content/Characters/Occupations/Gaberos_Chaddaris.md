@@ -5,6 +5,7 @@ aliases:
   - being-gabrschdrs
 tags:
   - todo-warrior
+  - draft
 name:
   full: Gábêros Chàddâris
   title: ""
@@ -16,7 +17,6 @@ id: LojIIf94ChZESFqZ
 folder: gpXd1anXulwRWZqn
 shortcode: gabrschdrs
 img: icons/person.svg
-draft: true
 portrait: images/being/gabrschdrs-portrait.webp
 type: being
 package: thalorna

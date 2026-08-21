@@ -3,7 +3,8 @@ aliases:
   - Ellimû Ashîmâ
   - Ellimu Ashima
   - being-elimuashim
-tags: []
+tags:
+  - draft
 name:
   full: Ellimû Ashîmâ
   title: ""
@@ -16,7 +17,6 @@ id: IDAdn1Ay5XL8Sb24
 folder: PuQFDMkRM9i60i5Z
 shortcode: elimuashim
 img: icons/person.svg
-draft: true
 portrait: images/being/elimuashim-portrait.webp
 type: being
 package: thalorna

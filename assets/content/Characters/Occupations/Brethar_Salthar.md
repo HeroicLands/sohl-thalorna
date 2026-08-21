@@ -3,7 +3,8 @@ aliases:
   - Bréthar Sálthar
   - Brethar Salthar
   - being-brthrslthr
-tags: []
+tags:
+  - draft
 name:
   full: Bréthar Sálthar
   title: ""
@@ -16,7 +17,6 @@ id: I1af7W2pkAFEn3z5
 folder: 4cwfdMa34UryZqPR
 shortcode: brthrslthr
 img: icons/person.svg
-draft: true
 portrait: images/being/brthrslthr-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Arkálòrdâs Kâlmâkanês
   - Arkalordas Kalmakanes
   - being-arklrdsklmkns
-tags: []
+tags:
+  - draft
 name:
   full: Arkálòrdâs Kâlmâkanês
   title: ""
@@ -16,7 +17,6 @@ id: opDwjrm74UWhcZQA
 folder: UFBfgKZUF0bAE7gG
 shortcode: arklrdsklmkns
 img: icons/person.svg
-draft: true
 portrait: images/being/arklrdsklmkns-portrait.webp
 type: being
 package: thalorna

@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Bethûra
   - Bethura
@@ -13,7 +15,6 @@ languages:
 pantheons:
   - arldnpnthn
 package: thalorna
-draft: true
 name:
   full: Bethûra
   aliases: []

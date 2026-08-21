@@ -3,7 +3,8 @@ aliases:
   - Nûlazî Zarrâshî
   - Nulazi Zarrashi
   - being-nulazizrsh
-tags: []
+tags:
+  - draft
 name:
   full: Nûlazî Zarrâshî
   title: ""
@@ -16,7 +17,6 @@ id: XEDB0ULru2p17fr4
 folder: PuQFDMkRM9i60i5Z
 shortcode: nulazizrsh
 img: icons/person.svg
-draft: true
 portrait: images/being/nulazizrsh-portrait.webp
 type: being
 package: thalorna

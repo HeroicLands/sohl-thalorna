@@ -23,7 +23,6 @@ name:
     - The Veiled Sails
 shortcode: bethuanflt
 img: ""
-draft: false
 parent:
   polities:
     - mtrrchybth

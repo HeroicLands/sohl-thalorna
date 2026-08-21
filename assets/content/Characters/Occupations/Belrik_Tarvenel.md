@@ -5,6 +5,7 @@ aliases:
   - being-belrktrvnl
 tags:
   - todo-warrior
+  - draft
 name:
   full: Bélrik Tárvenel
   title: ""
@@ -16,7 +17,6 @@ id: Y3A4Bj1BU0rWEoBS
 folder: 4cwfdMa34UryZqPR
 shortcode: belrktrvnl
 img: icons/person.svg
-draft: true
 portrait: images/being/belrktrvnl-portrait.webp
 type: being
 package: thalorna

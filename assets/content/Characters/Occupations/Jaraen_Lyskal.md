@@ -3,7 +3,8 @@ aliases:
   - Járaen Lýskal
   - Jaraen Lyskal
   - being-jaranlyskl
-tags: []
+tags:
+  - draft
 name:
   full: Járaen Lýskal
   title: ""
@@ -16,7 +17,6 @@ id: wZqvr4MS4rJaH8mf
 folder: J9R0fnGUTBY5z4pd
 shortcode: jaranlyskl
 img: icons/person.svg
-draft: true
 portrait: images/being/jaranlyskl-portrait.webp
 type: being
 package: thalorna

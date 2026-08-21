@@ -2,7 +2,8 @@
 aliases:
   - Wilfred Dunwell
   - being-wilfrednwl
-tags: []
+tags:
+  - draft
 name:
   full: Wilfred Dunwell
   title: ""
@@ -15,7 +16,6 @@ id: wYYpLublqdiVAHhV
 folder: elH5NDPUuiRCICrE
 shortcode: wilfrednwl
 img: icons/person.svg
-draft: true
 portrait: images/being/wilfrednwl-portrait.webp
 type: being
 package: thalorna

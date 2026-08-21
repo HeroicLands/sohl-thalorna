@@ -3,7 +3,8 @@ aliases:
   - Bélrik Fálwyn
   - Belrik Falwyn
   - being-belrkflwyn
-tags: []
+tags:
+  - draft
 name:
   full: Bélrik Fálwyn
   title: ""
@@ -16,7 +17,6 @@ id: OhbVrpoiVgRV5IfL
 folder: 4cwfdMa34UryZqPR
 shortcode: belrkflwyn
 img: icons/person.svg
-draft: true
 portrait: images/being/belrkflwyn-portrait.webp
 type: being
 package: thalorna

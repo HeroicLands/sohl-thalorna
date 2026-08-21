@@ -3,7 +3,8 @@ aliases:
   - Vanâdîs Kâserânis
   - Vanadis Kaseranis
   - being-vandsksrns
-tags: []
+tags:
+  - draft
 name:
   full: Vanâdîs Kâserânis
   title: ""
@@ -16,7 +17,6 @@ id: 84S5jIc1xLJjBict
 folder: UFBfgKZUF0bAE7gG
 shortcode: vandsksrns
 img: icons/person.svg
-draft: true
 portrait: images/being/vandsksrns-portrait.webp
 type: being
 package: thalorna

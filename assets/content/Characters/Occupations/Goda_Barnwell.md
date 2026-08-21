@@ -2,7 +2,8 @@
 aliases:
   - Goda Barnwell
   - being-godabarnwl
-tags: []
+tags:
+  - draft
 name:
   full: Goda Barnwell
   title: ""
@@ -15,7 +16,6 @@ id: zGccciTvZEHDjM5G
 folder: elH5NDPUuiRCICrE
 shortcode: godabarnwl
 img: icons/person.svg
-draft: true
 portrait: images/being/godabarnwl-portrait.webp
 type: being
 package: thalorna

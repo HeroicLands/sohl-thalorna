@@ -3,7 +3,8 @@ aliases:
   - Hârlak Válskyr
   - Harlak Valskyr
   - being-hrlkvlskyr
-tags: []
+tags:
+  - draft
 name:
   full: Hârlak Válskyr
   title: ""
@@ -16,7 +17,6 @@ id: 9Wvgfygw2wMqZcUD
 folder: J9R0fnGUTBY5z4pd
 shortcode: hrlkvlskyr
 img: icons/person.svg
-draft: true
 portrait: images/being/hrlkvlskyr-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Vérynna Brânwyld
   - Verynna Branwyld
   - being-vrynbrnwyld
-tags: []
+tags:
+  - draft
 name:
   full: Vérynna Brânwyld
   title: ""
@@ -16,7 +17,6 @@ id: cgMBwUYuBMGhy5Km
 folder: J9R0fnGUTBY5z4pd
 shortcode: vrynbrnwyld
 img: icons/person.svg
-draft: true
 portrait: images/being/vrynbrnwyld-portrait.webp
 type: being
 package: thalorna

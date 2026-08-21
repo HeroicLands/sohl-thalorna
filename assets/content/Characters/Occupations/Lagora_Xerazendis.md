@@ -3,7 +3,8 @@ aliases:
   - Làgôra Xêrâzêndis
   - Lagora Xerazendis
   - being-lagrxrznds
-tags: []
+tags:
+  - draft
 name:
   full: Làgôra Xêrâzêndis
   title: ""
@@ -16,7 +17,6 @@ id: tVvovXkeGOhHGm5X
 folder: UFBfgKZUF0bAE7gG
 shortcode: lagrxrznds
 img: icons/person.svg
-draft: true
 portrait: images/being/lagrxrznds-portrait.webp
 type: being
 package: thalorna

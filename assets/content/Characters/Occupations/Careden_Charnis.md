@@ -3,7 +3,8 @@ aliases:
   - Cáreden Chárnis
   - Careden Charnis
   - being-cardnchrns
-tags: []
+tags:
+  - draft
 name:
   full: Cáreden Chárnis
   title: ""
@@ -16,7 +17,6 @@ id: PGzR1Iv8bh4qlL9q
 folder: J9R0fnGUTBY5z4pd
 shortcode: cardnchrns
 img: icons/person.svg
-draft: true
 portrait: images/being/cardnchrns-portrait.webp
 type: being
 package: thalorna

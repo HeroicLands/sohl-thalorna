@@ -5,6 +5,7 @@ aliases:
   - being-delnshfrdn
 tags:
   - todo-warrior
+  - draft
 name:
   full: Delânash Faradân
   title: ""
@@ -16,7 +17,6 @@ id: UkJzZsnWLtBPFX7T
 folder: kCKYObmsvraIezCd
 shortcode: delnshfrdn
 img: icons/person.svg
-draft: true
 portrait: images/being/delnshfrdn-portrait.webp
 type: being
 package: thalorna

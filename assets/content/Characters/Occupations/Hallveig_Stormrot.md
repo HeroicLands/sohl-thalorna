@@ -3,7 +3,8 @@ aliases:
   - Hallveig Stormrót
   - Hallveig Stormrot
   - being-hlvgstrmrt
-tags: []
+tags:
+  - draft
 name:
   full: Hallveig Stormrót
   title: ""
@@ -16,7 +17,6 @@ id: tQAuzSsJimAQ8yRV
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hlvgstrmrt
 img: icons/person.svg
-draft: true
 portrait: images/being/hlvgstrmrt-portrait.webp
 type: being
 package: thalorna

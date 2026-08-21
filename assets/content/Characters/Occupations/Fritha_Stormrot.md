@@ -3,7 +3,8 @@ aliases:
   - Frítha Stormrót
   - Fritha Stormrot
   - being-frthstrmrt
-tags: []
+tags:
+  - draft
 name:
   full: Frítha Stormrót
   title: ""
@@ -16,7 +17,6 @@ id: F48i2GDrmZhvkUDP
 folder: Ka9XqaF27b0I3Gmq
 shortcode: frthstrmrt
 img: icons/person.svg
-draft: true
 portrait: images/being/frthstrmrt-portrait.webp
 type: being
 package: thalorna

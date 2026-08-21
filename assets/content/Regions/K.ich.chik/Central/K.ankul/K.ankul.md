@@ -12,7 +12,6 @@ name:
 id: 6uj0kMpcSvwHhYfb
 shortcode: kankul
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

@@ -3,7 +3,8 @@ aliases:
   - Rýlden Brânwyld
   - Rylden Branwyld
   - being-ryldnbrnwyld
-tags: []
+tags:
+  - draft
 name:
   full: Rýlden Brânwyld
   title: ""
@@ -16,7 +17,6 @@ id: ddLEG62Hkd9Gf2le
 folder: J9R0fnGUTBY5z4pd
 shortcode: ryldnbrnwyld
 img: icons/person.svg
-draft: true
 portrait: images/being/ryldnbrnwyld-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Ermína Fróðbán
   - Ermina Froban
   - being-erminfrdbn
-tags: []
+tags:
+  - draft
 name:
   full: Ermína Fróðbán
   title: ""
@@ -16,7 +17,6 @@ id: 9ciG9Lv3g32CgH6D
 folder: Nu7AgLZEmR26u2pk
 shortcode: erminfrdbn
 img: icons/person.svg
-draft: true
 portrait: images/being/erminfrdbn-portrait.webp
 type: being
 package: thalorna

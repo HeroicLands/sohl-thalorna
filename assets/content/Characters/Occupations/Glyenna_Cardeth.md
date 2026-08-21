@@ -5,6 +5,7 @@ aliases:
   - being-glyencrdth
 tags:
   - todo
+  - draft
 name:
   full: Glýenna Cárdeth
   title: Lady
@@ -17,7 +18,6 @@ id: IFTKtE0bxvRhALtY
 folder: 4cwfdMa34UryZqPR
 shortcode: glyencrdth
 img: icons/person.svg
-draft: true
 portrait: images/being/glyencrdth-portrait.webp
 type: being
 package: thalorna

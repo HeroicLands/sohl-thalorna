@@ -3,7 +3,8 @@ aliases:
   - Jâdhâros Bâshirôn
   - Jadharos Bashiron
   - being-jdhrsbshrn
-tags: []
+tags:
+  - draft
 name:
   full: Jâdhâros Bâshirôn
   title: ""
@@ -16,7 +17,6 @@ id: cBwSeId75e7EcsAl
 folder: gpXd1anXulwRWZqn
 shortcode: jdhrsbshrn
 img: icons/person.svg
-draft: true
 portrait: images/being/jdhrsbshrn-portrait.webp
 type: being
 package: thalorna

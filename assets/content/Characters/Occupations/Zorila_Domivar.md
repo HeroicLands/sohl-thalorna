@@ -3,7 +3,8 @@ aliases:
   - Zórila Dómivar
   - Zorila Domivar
   - being-zoriladmvr
-tags: []
+tags:
+  - draft
 name:
   full: Zórila Dómivar
   title: ""
@@ -16,7 +17,6 @@ id: PP4XJU3nBC4oAv0D
 folder: 9t9O4iB5cYJtSaTG
 shortcode: zoriladmvr
 img: icons/person.svg
-draft: true
 portrait: images/being/zoriladmvr-portrait.webp
 type: being
 package: thalorna

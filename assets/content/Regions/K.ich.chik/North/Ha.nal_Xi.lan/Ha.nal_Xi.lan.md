@@ -12,7 +12,6 @@ name:
 id: 4i28v3FDOsPYV0pv
 shortcode: hanalxilan
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

@@ -5,6 +5,7 @@ aliases:
   - being-thrnlrkhld
 tags:
   - todo
+  - draft
 name:
   full: Thornila Ríkhild
   title: ""
@@ -17,7 +18,6 @@ id: UdLEkHOUNX1yj0Rp
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrnlrkhld
 img: icons/person.svg
-draft: true
 portrait: images/being/thrnlrkhld-portrait.webp
 type: being
 package: thalorna

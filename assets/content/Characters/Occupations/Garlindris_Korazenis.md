@@ -3,7 +3,8 @@ aliases:
   - Garlîndris Korâzênis
   - Garlindris Korazenis
   - being-grlndrskrzns
-tags: []
+tags:
+  - draft
 name:
   full: Garlîndris Korâzênis
   title: ""
@@ -16,7 +17,6 @@ id: 1FNA88rcSxnCC8p2
 folder: UFBfgKZUF0bAE7gG
 shortcode: grlndrskrzns
 img: icons/person.svg
-draft: true
 portrait: images/being/grlndrskrzns-portrait.webp
 type: being
 package: thalorna

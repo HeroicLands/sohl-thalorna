@@ -2,7 +2,8 @@
 aliases:
   - Alfred Barnwell
   - being-alfrdbrnwl
-tags: []
+tags:
+  - draft
 name:
   full: Alfred Barnwell
   title: ""
@@ -15,7 +16,6 @@ id: 5lNKtzJ1atsnBYLM
 folder: elH5NDPUuiRCICrE
 shortcode: alfrdbrnwl
 img: icons/person.svg
-draft: true
 portrait: images/being/alfrdbrnwl-portrait.webp
 type: being
 package: thalorna

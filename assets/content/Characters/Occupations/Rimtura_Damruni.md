@@ -3,7 +3,8 @@ aliases:
   - Rimtûra Damrûnî
   - Rimtura Damruni
   - being-rimturdmrn
-tags: []
+tags:
+  - draft
 name:
   full: Rimtûra Damrûnî
   title: ""
@@ -16,7 +17,6 @@ id: R6HfPQBGxbxtl8nv
 folder: PuQFDMkRM9i60i5Z
 shortcode: rimturdmrn
 img: icons/person.svg
-draft: true
 portrait: images/being/rimturdmrn-portrait.webp
 type: being
 package: thalorna

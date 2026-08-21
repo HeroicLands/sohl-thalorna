@@ -3,7 +3,8 @@ aliases:
   - Dárya Náredh
   - Darya Naredh
   - being-daryanardh
-tags: []
+tags:
+  - draft
 name:
   full: Dárya Náredh
   title: ""
@@ -16,7 +17,6 @@ id: 48Ju6NoPeO0D6StP
 folder: 4cwfdMa34UryZqPR
 shortcode: daryanardh
 img: icons/person.svg
-draft: true
 portrait: images/being/daryanardh-portrait.webp
 type: being
 package: thalorna

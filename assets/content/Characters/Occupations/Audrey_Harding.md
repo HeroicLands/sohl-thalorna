@@ -4,6 +4,7 @@ aliases:
   - being-audryhrdng
 tags:
   - todo
+  - draft
 name:
   full: Audrey Harding
   title: ""
@@ -16,7 +17,6 @@ id: EHyu9lD6IvIwRX3U
 folder: elH5NDPUuiRCICrE
 shortcode: audryhrdng
 img: icons/person.svg
-draft: true
 portrait: images/being/audryhrdng-portrait.webp
 type: being
 package: thalorna

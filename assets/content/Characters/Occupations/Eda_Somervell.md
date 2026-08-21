@@ -2,7 +2,8 @@
 aliases:
   - Eda Somervell
   - being-edasomervl
-tags: []
+tags:
+  - draft
 name:
   full: Eda Somervell
   title: ""
@@ -15,7 +16,6 @@ id: uhaFVBliyIToGJ1Q
 folder: elH5NDPUuiRCICrE
 shortcode: edasomervl
 img: icons/person.svg
-draft: true
 portrait: images/being/edasomervl-portrait.webp
 type: being
 package: thalorna

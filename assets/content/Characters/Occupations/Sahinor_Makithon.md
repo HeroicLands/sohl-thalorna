@@ -3,7 +3,8 @@ aliases:
   - Sahînór Mâkîthôn
   - Sahinor Makithon
   - being-sahnrmkthn
-tags: []
+tags:
+  - draft
 name:
   full: Sahînór Mâkîthôn
   title: ""
@@ -16,7 +17,6 @@ id: 0DfQnPOMbdYvpiYK
 folder: gpXd1anXulwRWZqn
 shortcode: sahnrmkthn
 img: icons/person.svg
-draft: true
 portrait: images/being/sahnrmkthn-portrait.webp
 type: being
 package: thalorna

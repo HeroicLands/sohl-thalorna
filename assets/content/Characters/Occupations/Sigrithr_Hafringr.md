@@ -5,6 +5,7 @@ aliases:
   - being-sgrthrhfrngr
 tags:
   - todo-warrior
+  - draft
 name:
   full: Sigríthr Hafringr
   title: ""
@@ -16,7 +17,6 @@ id: Tkx9NIQ0Wobtqn62
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgrthrhfrngr
 img: icons/person.svg
-draft: true
 portrait: images/being/sgrthrhfrngr-portrait.webp
 type: being
 package: thalorna

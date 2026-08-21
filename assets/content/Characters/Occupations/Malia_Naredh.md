@@ -3,7 +3,8 @@ aliases:
   - Mália Náredh
   - Malia Naredh
   - being-malianardh
-tags: []
+tags:
+  - draft
 name:
   full: Mália Náredh
   title: ""
@@ -16,7 +17,6 @@ id: Mar2jiIqZlhQ3bia
 folder: 4cwfdMa34UryZqPR
 shortcode: malianardh
 img: icons/person.svg
-draft: true
 portrait: images/being/malianardh-portrait.webp
 type: being
 package: thalorna

@@ -2,7 +2,8 @@
 aliases:
   - Edgar Chilton
   - being-edgarchltn
-tags: []
+tags:
+  - draft
 name:
   full: Edgar Chilton
   title: ""
@@ -15,7 +16,6 @@ id: C4SFhbOMZpTktJaJ
 folder: elH5NDPUuiRCICrE
 shortcode: edgarchltn
 img: icons/person.svg
-draft: true
 portrait: images/being/edgarchltn-portrait.webp
 type: being
 package: thalorna

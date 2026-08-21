@@ -3,7 +3,8 @@ aliases:
   - Thálrik Hálren
   - Thalrik Halren
   - being-thalrkhlrn
-tags: []
+tags:
+  - draft
 name:
   full: Thálrik Hálren
   title: ""
@@ -16,7 +17,6 @@ id: eRo7qYYOLQZ7mBhI
 folder: 4cwfdMa34UryZqPR
 shortcode: thalrkhlrn
 img: icons/person.svg
-draft: true
 portrait: images/being/thalrkhlrn-portrait.webp
 type: being
 package: thalorna

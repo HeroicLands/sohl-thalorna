@@ -5,6 +5,7 @@ aliases:
   - being-sarenprdln
 tags:
   - todo
+  - draft
 name:
   full: Sárena Párdalen
   title: ""
@@ -17,7 +18,6 @@ id: A41l76c1zYFl7V93
 folder: 4cwfdMa34UryZqPR
 shortcode: sarenprdln
 img: icons/person.svg
-draft: true
 portrait: images/being/sarenprdln-portrait.webp
 type: being
 package: thalorna

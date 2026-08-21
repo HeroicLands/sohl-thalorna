@@ -3,7 +3,8 @@ aliases:
   - Rhália Zálreth
   - Rhalia Zalreth
   - being-rhalizlrth
-tags: []
+tags:
+  - draft
 name:
   full: Rhália Zálreth
   title: ""
@@ -16,7 +17,6 @@ id: mWkFGDF4tFbf8zGD
 folder: 4cwfdMa34UryZqPR
 shortcode: rhalizlrth
 img: icons/person.svg
-draft: true
 portrait: images/being/rhalizlrth-portrait.webp
 type: being
 package: thalorna

@@ -5,6 +5,7 @@ aliases:
   - being-dumarsrfrs
 tags:
   - todo
+  - draft
 name:
   full: Dûmàrês Râfîrôs
   title: ""
@@ -17,7 +18,6 @@ id: 5U3SObMEq9PYXLKo
 folder: gpXd1anXulwRWZqn
 shortcode: dumarsrfrs
 img: icons/person.svg
-draft: true
 portrait: images/being/dumarsrfrs-portrait.webp
 type: being
 package: thalorna

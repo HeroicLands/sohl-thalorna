@@ -12,7 +12,6 @@ name:
 id: fM8m3hYXswYDcrOt
 shortcode: tzumanotun
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

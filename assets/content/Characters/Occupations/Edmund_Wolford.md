@@ -2,7 +2,8 @@
 aliases:
   - Edmund Wolford
   - being-edmndwlfrd
-tags: []
+tags:
+  - draft
 name:
   full: Edmund Wolford
   title: ""
@@ -15,7 +16,6 @@ id: QPtDu7W7eaDNKgeI
 folder: elH5NDPUuiRCICrE
 shortcode: edmndwlfrd
 img: icons/person.svg
-draft: true
 portrait: images/being/edmndwlfrd-portrait.webp
 type: being
 package: thalorna

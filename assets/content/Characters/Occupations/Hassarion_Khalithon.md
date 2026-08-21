@@ -3,7 +3,8 @@ aliases:
   - Hassârìon Khalîthôn
   - Hassarion Khalithon
   - being-hsrnkhlthn
-tags: []
+tags:
+  - draft
 name:
   full: Hassârìon Khalîthôn
   title: Lord
@@ -16,7 +17,6 @@ id: 4fetzTUEHAXA0Kei
 folder: gpXd1anXulwRWZqn
 shortcode: hsrnkhlthn
 img: icons/person.svg
-draft: true
 portrait: images/being/hsrnkhlthn-portrait.webp
 type: being
 package: thalorna

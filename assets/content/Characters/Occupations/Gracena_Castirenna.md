@@ -5,6 +5,7 @@ aliases:
   - being-gracncstrn
 tags:
   - todo-warrior
+  - draft
 name:
   full: Grácena Castírenna
   title: ""
@@ -16,7 +17,6 @@ id: cAtpf7ZJ69PqcUDO
 folder: 9t9O4iB5cYJtSaTG
 shortcode: gracncstrn
 img: icons/person.svg
-draft: true
 portrait: images/being/gracncstrn-portrait.webp
 type: being
 package: thalorna

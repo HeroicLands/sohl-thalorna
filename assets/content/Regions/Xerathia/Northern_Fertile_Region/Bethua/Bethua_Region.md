@@ -13,7 +13,6 @@ name:
 id: cVnJ8UumMs7ffSZq
 shortcode: bethuargn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

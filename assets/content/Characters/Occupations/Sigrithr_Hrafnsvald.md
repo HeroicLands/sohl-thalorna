@@ -3,7 +3,8 @@ aliases:
   - Sigríthr Hrafnsvald
   - Sigrithr Hrafnsvald
   - being-sgrthrhrfnsvld
-tags: []
+tags:
+  - draft
 name:
   full: Sigríthr Hrafnsvald
   title: ""
@@ -16,7 +17,6 @@ id: fsGQONvf08WpRtoZ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgrthrhrfnsvld
 img: icons/person.svg
-draft: true
 portrait: images/being/sgrthrhrfnsvld-portrait.webp
 type: being
 package: thalorna

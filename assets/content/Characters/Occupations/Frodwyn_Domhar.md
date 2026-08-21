@@ -3,7 +3,8 @@ aliases:
   - Fródwyn Dómhár
   - Frodwyn Domhar
   - being-frdwyndmhr
-tags: []
+tags:
+  - draft
 name:
   full: Fródwyn Dómhár
   title: ""
@@ -16,7 +17,6 @@ id: DVMxASJ6EWIZQ0nW
 folder: Nu7AgLZEmR26u2pk
 shortcode: frdwyndmhr
 img: icons/person.svg
-draft: true
 portrait: images/being/frdwyndmhr-portrait.webp
 type: being
 package: thalorna

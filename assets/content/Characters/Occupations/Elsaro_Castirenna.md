@@ -3,7 +3,8 @@ aliases:
   - Élsaro Castírenna
   - Elsaro Castirenna
   - being-elsarcstrn
-tags: []
+tags:
+  - draft
 name:
   full: Élsaro Castírenna
   title: ""
@@ -16,7 +17,6 @@ id: 3Xd3PvrhZxB4zVC5
 folder: 9t9O4iB5cYJtSaTG
 shortcode: elsarcstrn
 img: icons/person.svg
-draft: true
 portrait: images/being/elsarcstrn-portrait.webp
 type: being
 package: thalorna

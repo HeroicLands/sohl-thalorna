@@ -3,7 +3,8 @@ aliases:
   - Fárila Válskyr
   - Farila Valskyr
   - being-farlvlskyr
-tags: []
+tags:
+  - draft
 name:
   full: Fárila Válskyr
   title: Lady
@@ -16,7 +17,6 @@ id: WxGJgupDhrCpjgds
 folder: J9R0fnGUTBY5z4pd
 shortcode: farlvlskyr
 img: icons/person.svg
-draft: true
 portrait: images/being/farlvlskyr-portrait.webp
 type: being
 package: thalorna

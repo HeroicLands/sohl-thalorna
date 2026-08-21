@@ -3,7 +3,8 @@ aliases:
   - Yléndor Mýrdal
   - Ylendor Myrdal
   - being-ylndrmyrdl
-tags: []
+tags:
+  - draft
 name:
   full: Yléndor Mýrdal
   title: ""
@@ -16,7 +17,6 @@ id: nPFz46PDjqipVJIq
 folder: J9R0fnGUTBY5z4pd
 shortcode: ylndrmyrdl
 img: icons/person.svg
-draft: true
 portrait: images/being/ylndrmyrdl-portrait.webp
 type: being
 package: thalorna

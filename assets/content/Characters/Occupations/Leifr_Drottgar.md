@@ -3,7 +3,8 @@ aliases:
   - Leifr Dróttgar
   - Leifr Drottgar
   - being-leifrdrtgr
-tags: []
+tags:
+  - draft
 name:
   full: Leifr Dróttgar
   title: ""
@@ -16,7 +17,6 @@ id: TSyFzpjPSa5W3X4g
 folder: Ka9XqaF27b0I3Gmq
 shortcode: leifrdrtgr
 img: icons/person.svg
-draft: true
 portrait: images/being/leifrdrtgr-portrait.webp
 type: being
 package: thalorna

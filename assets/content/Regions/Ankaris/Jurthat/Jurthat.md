@@ -17,7 +17,6 @@ name:
 id: X3mxTrn5z3vxzI0C
 shortcode: jurthat
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Frithgár Vithrúnd
   - Frithgar Vithrund
   - being-frthgrvthrnd
-tags: []
+tags:
+  - draft
 name:
   full: Frithgár Vithrúnd
   title: ""
@@ -16,7 +17,6 @@ id: JxhWrKoZB2JX0NNR
 folder: Nu7AgLZEmR26u2pk
 shortcode: frthgrvthrnd
 img: icons/person.svg
-draft: true
 portrait: images/being/frthgrvthrnd-portrait.webp
 type: being
 package: thalorna

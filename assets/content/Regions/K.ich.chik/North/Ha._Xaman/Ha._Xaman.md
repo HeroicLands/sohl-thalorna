@@ -12,7 +12,6 @@ name:
 id: Nfi6Vbb3BYorhP8k
 shortcode: haxaman
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

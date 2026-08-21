@@ -3,7 +3,8 @@ aliases:
   - Jǫrundr Frostulf
   - Jorundr Frostulf
   - being-jrndrfrstlf
-tags: []
+tags:
+  - draft
 name:
   full: Jǫrundr Frostulf
   title: ""
@@ -16,7 +17,6 @@ id: T3gCkSt5bcuYdswx
 folder: Ka9XqaF27b0I3Gmq
 shortcode: jrndrfrstlf
 img: icons/person.svg
-draft: true
 portrait: images/being/jrndrfrstlf-portrait.webp
 type: being
 package: thalorna

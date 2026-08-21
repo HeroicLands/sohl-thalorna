@@ -2,7 +2,8 @@
 aliases:
   - Dunstan Helmsley
   - being-dnstnhlmsly
-tags: []
+tags:
+  - draft
 name:
   full: Dunstan Helmsley
   title: ""
@@ -15,7 +16,6 @@ id: AQLKHu7qnQTupqzi
 folder: elH5NDPUuiRCICrE
 shortcode: dnstnhlmsly
 img: icons/person.svg
-draft: true
 portrait: images/being/dnstnhlmsly-portrait.webp
 type: being
 package: thalorna

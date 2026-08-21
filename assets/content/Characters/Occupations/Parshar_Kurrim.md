@@ -3,7 +3,8 @@ aliases:
   - Pârshar Kûrrîm
   - Parshar Kurrim
   - being-parsharkrm
-tags: []
+tags:
+  - draft
 name:
   full: Pârshar Kûrrîm
   title: ""
@@ -16,7 +17,6 @@ id: sWVYCoIpt9ZYE51m
 folder: PuQFDMkRM9i60i5Z
 shortcode: parsharkrm
 img: icons/person.svg
-draft: true
 portrait: images/being/parsharkrm-portrait.webp
 type: being
 package: thalorna

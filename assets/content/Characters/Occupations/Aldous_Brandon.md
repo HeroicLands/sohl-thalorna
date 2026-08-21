@@ -2,7 +2,8 @@
 aliases:
   - Aldous Brandon
   - being-aldosbrndn
-tags: []
+tags:
+  - draft
 name:
   full: Aldous Brandon
   title: ""
@@ -15,7 +16,6 @@ id: dkyayq7YYDsBS9UY
 folder: elH5NDPUuiRCICrE
 shortcode: aldosbrndn
 img: icons/person.svg
-draft: true
 portrait: images/being/aldosbrndn-portrait.webp
 type: being
 package: thalorna

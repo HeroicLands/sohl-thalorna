@@ -3,7 +3,8 @@ aliases:
   - Wulfhár Theódwald
   - Wulfhar Theodwald
   - being-wlfhrthdwld
-tags: []
+tags:
+  - draft
 name:
   full: Wulfhár Theódwald
   title: ""
@@ -16,7 +17,6 @@ id: sMtwgKGnjQEo2gw2
 folder: Nu7AgLZEmR26u2pk
 shortcode: wlfhrthdwld
 img: icons/person.svg
-draft: true
 portrait: images/being/wlfhrthdwld-portrait.webp
 type: being
 package: thalorna

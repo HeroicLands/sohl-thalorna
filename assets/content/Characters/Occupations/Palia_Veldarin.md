@@ -3,7 +3,8 @@ aliases:
   - Pália Véldarin
   - Palia Veldarin
   - being-paliavldrn
-tags: []
+tags:
+  - draft
 name:
   full: Pália Véldarin
   title: ""
@@ -16,7 +17,6 @@ id: blV7vY7AZQ3VZprk
 folder: 4cwfdMa34UryZqPR
 shortcode: paliavldrn
 img: icons/person.svg
-draft: true
 portrait: images/being/paliavldrn-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Tàlîra Bâshirôn
   - Talira Bashiron
   - being-talirbshrn
-tags: []
+tags:
+  - draft
 name:
   full: Tàlîra Bâshirôn
   title: ""
@@ -16,7 +17,6 @@ id: BcbfnoGMbJmTPSIA
 folder: gpXd1anXulwRWZqn
 shortcode: talirbshrn
 img: icons/person.svg
-draft: true
 portrait: images/being/talirbshrn-portrait.webp
 type: being
 package: thalorna

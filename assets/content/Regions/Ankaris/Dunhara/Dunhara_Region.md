@@ -13,7 +13,6 @@ name:
 id: WME4VbEDaL2Cny92
 shortcode: dunharargn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

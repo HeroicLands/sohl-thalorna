@@ -2,7 +2,8 @@
 aliases:
   - Cuthbert Sherwin
   - being-cthbrtshrwn
-tags: []
+tags:
+  - draft
 name:
   full: Cuthbert Sherwin
   title: ""
@@ -15,7 +16,6 @@ id: 6sChDStSz8rGIFCf
 folder: elH5NDPUuiRCICrE
 shortcode: cthbrtshrwn
 img: icons/person.svg
-draft: true
 portrait: images/being/cthbrtshrwn-portrait.webp
 type: being
 package: thalorna

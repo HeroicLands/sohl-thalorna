@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Cave Outline
   - doc-caveoutlin
@@ -8,7 +10,6 @@ name:
   full: Cave Outline
   aliases: []
 shortcode: caveoutlin
-draft: true
 package: thalorna
 thalorna:
   region: provenzrgn

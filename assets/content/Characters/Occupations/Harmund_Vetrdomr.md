@@ -5,6 +5,7 @@ aliases:
   - being-hrmndvtrdmr
 tags:
   - todo-warrior
+  - draft
 name:
   full: Hármund Vetrdómr
   title: ""
@@ -16,7 +17,6 @@ id: KDGAUuRqphlhHVln
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrmndvtrdmr
 img: icons/person.svg
-draft: true
 portrait: images/being/hrmndvtrdmr-portrait.webp
 type: being
 package: thalorna

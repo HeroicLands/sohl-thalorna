@@ -3,7 +3,8 @@ aliases:
   - Rimmârû Ushûrî
   - Rimmaru Ushuri
   - being-rimarushur
-tags: []
+tags:
+  - draft
 name:
   full: Rimmârû Ushûrî
   title: ""
@@ -16,7 +17,6 @@ id: NU5Mv17Kc03bfc8P
 folder: PuQFDMkRM9i60i5Z
 shortcode: rimarushur
 img: icons/person.svg
-draft: true
 portrait: images/being/rimarushur-portrait.webp
 type: being
 package: thalorna

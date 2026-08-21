@@ -3,7 +3,8 @@ aliases:
   - Hróaldr Hrafnsvald
   - Hroaldr Hrafnsvald
   - being-hrldrhrfnsvld
-tags: []
+tags:
+  - draft
 name:
   full: Hróaldr Hrafnsvald
   title: ""
@@ -16,7 +17,6 @@ id: tYrLdwGetDCcdx1s
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrldrhrfnsvld
 img: icons/person.svg
-draft: true
 portrait: images/being/hrldrhrfnsvld-portrait.webp
 type: being
 package: thalorna

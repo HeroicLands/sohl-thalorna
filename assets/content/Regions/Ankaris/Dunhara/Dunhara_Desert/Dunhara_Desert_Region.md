@@ -13,7 +13,6 @@ name:
 id: JgRovKxsMJfmq3tm
 shortcode: dunhardsrtrgn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

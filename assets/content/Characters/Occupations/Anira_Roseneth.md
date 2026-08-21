@@ -3,7 +3,8 @@ aliases:
   - Ánira Róseneth
   - Anira Roseneth
   - being-anirarsnth
-tags: []
+tags:
+  - draft
 name:
   full: Ánira Róseneth
   title: ""
@@ -16,7 +17,6 @@ id: sV3vZhD9ejW9o3RU
 folder: 9t9O4iB5cYJtSaTG
 shortcode: anirarsnth
 img: icons/person.svg
-draft: true
 portrait: images/being/anirarsnth-portrait.webp
 type: being
 package: thalorna

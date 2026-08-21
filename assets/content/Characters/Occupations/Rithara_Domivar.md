@@ -3,7 +3,8 @@ aliases:
   - Ríthara Dómivar
   - Rithara Domivar
   - being-rithardmvr
-tags: []
+tags:
+  - draft
 name:
   full: Ríthara Dómivar
   title: ""
@@ -16,7 +17,6 @@ id: iUo1aWbtDRUIBIy0
 folder: 9t9O4iB5cYJtSaTG
 shortcode: rithardmvr
 img: icons/person.svg
-draft: true
 portrait: images/being/rithardmvr-portrait.webp
 type: being
 package: thalorna

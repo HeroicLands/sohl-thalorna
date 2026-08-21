@@ -3,7 +3,8 @@ aliases:
   - Eshârum Ellûram
   - Esharum Elluram
   - being-esharumlrm
-tags: []
+tags:
+  - draft
 name:
   full: Eshârum Ellûram
   title: ""
@@ -16,7 +17,6 @@ id: YSgy3c2Eom06Dwt0
 folder: PuQFDMkRM9i60i5Z
 shortcode: esharumlrm
 img: icons/person.svg
-draft: true
 portrait: images/being/esharumlrm-portrait.webp
 type: being
 package: thalorna

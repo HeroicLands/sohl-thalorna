@@ -5,6 +5,7 @@ aliases:
   - being-brygrlyskl
 tags:
   - todo-warrior
+  - draft
 name:
   full: Brýgar Lýskal
   title: ""
@@ -16,7 +17,6 @@ id: hVLXnGBB19sMLT6m
 folder: J9R0fnGUTBY5z4pd
 shortcode: brygrlyskl
 img: icons/person.svg
-draft: true
 portrait: images/being/brygrlyskl-portrait.webp
 type: being
 package: thalorna

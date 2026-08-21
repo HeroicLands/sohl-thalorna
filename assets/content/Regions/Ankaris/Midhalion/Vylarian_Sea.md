@@ -12,7 +12,6 @@ name:
 id: JWByO0F561rYME7K
 shortcode: vylarianse
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

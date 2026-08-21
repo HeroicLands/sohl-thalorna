@@ -12,7 +12,6 @@ name:
 id: a45B4y3xgItfb4jv
 shortcode: kuxibalam
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

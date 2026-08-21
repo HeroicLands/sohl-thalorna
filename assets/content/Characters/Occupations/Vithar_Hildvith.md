@@ -3,7 +3,8 @@ aliases:
   - Vithár Hildvith
   - Vithar Hildvith
   - being-vthrhldvth
-tags: []
+tags:
+  - draft
 name:
   full: Vithár Hildvith
   title: ""
@@ -16,7 +17,6 @@ id: jjZK8tfphJWAMMYN
 folder: Nu7AgLZEmR26u2pk
 shortcode: vthrhldvth
 img: icons/person.svg
-draft: true
 portrait: images/being/vthrhldvth-portrait.webp
 type: being
 package: thalorna

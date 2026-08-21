@@ -3,7 +3,8 @@ aliases:
   - Hâlira Náredh
   - Halira Naredh
   - being-haliranrdh
-tags: []
+tags:
+  - draft
 name:
   full: Hâlira Náredh
   title: ""
@@ -16,7 +17,6 @@ id: dJDRZtUbzq0aVnLe
 folder: 4cwfdMa34UryZqPR
 shortcode: haliranrdh
 img: icons/person.svg
-draft: true
 portrait: images/being/haliranrdh-portrait.webp
 type: being
 package: thalorna

@@ -2,7 +2,8 @@
 aliases:
   - Ævarr Hafringr
   - being-aevrhfrngr
-tags: []
+tags:
+  - draft
 name:
   full: Ævarr Hafringr
   title: ""
@@ -15,7 +16,6 @@ id: H2hsfWkrC5Gj1Bf8
 folder: Ka9XqaF27b0I3Gmq
 shortcode: aevrhfrngr
 img: icons/person.svg
-draft: true
 portrait: images/being/aevrhfrngr-portrait.webp
 type: being
 package: thalorna

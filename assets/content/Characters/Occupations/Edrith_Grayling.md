@@ -2,7 +2,8 @@
 aliases:
   - Edrith Grayling
   - being-edrthgrylng
-tags: []
+tags:
+  - draft
 name:
   full: Edrith Grayling
   title: ""
@@ -15,7 +16,6 @@ id: 63QHtDP9bdE2zBRg
 folder: elH5NDPUuiRCICrE
 shortcode: edrthgrylng
 img: icons/person.svg
-draft: true
 portrait: images/being/edrthgrylng-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Gamrûn Narûsham
   - Gamrun Narusham
   - being-gamrunrshm
-tags: []
+tags:
+  - draft
 name:
   full: Gamrûn Narûsham
   title: ""
@@ -16,7 +17,6 @@ id: GB16JC5kV3ECqWp1
 folder: PuQFDMkRM9i60i5Z
 shortcode: gamrunrshm
 img: icons/person.svg
-draft: true
 portrait: images/being/gamrunrshm-portrait.webp
 type: being
 package: thalorna

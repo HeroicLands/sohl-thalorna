@@ -3,7 +3,8 @@ aliases:
   - Ázîta Râkhrîdês
   - Azita Rakhrides
   - being-azitrkhrds
-tags: []
+tags:
+  - draft
 name:
   full: Ázîta Râkhrîdês
   title: ""
@@ -16,7 +17,6 @@ id: xe9HIGYGJby3EcOy
 folder: gpXd1anXulwRWZqn
 shortcode: azitrkhrds
 img: icons/person.svg
-draft: true
 portrait: images/being/azitrkhrds-portrait.webp
 type: being
 package: thalorna

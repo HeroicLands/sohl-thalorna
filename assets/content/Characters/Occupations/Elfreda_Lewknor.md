@@ -2,7 +2,8 @@
 aliases:
   - Elfreda Lewknor
   - being-elfrdlwknr
-tags: []
+tags:
+  - draft
 name:
   full: Elfreda Lewknor
   title: ""
@@ -15,7 +16,6 @@ id: asUt1LLQF3jCIEwv
 folder: elH5NDPUuiRCICrE
 shortcode: elfrdlwknr
 img: icons/person.svg
-draft: true
 portrait: images/being/elfrdlwknr-portrait.webp
 type: being
 package: thalorna

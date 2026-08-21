@@ -3,7 +3,8 @@ aliases:
   - Arûzan Kamûmû
   - Aruzan Kamumu
   - being-aruzankamm
-tags: []
+tags:
+  - draft
 name:
   full: Arûzan Kamûmû
   title: ""
@@ -16,7 +17,6 @@ id: Y8deQOzxGZVRk8bj
 folder: PuQFDMkRM9i60i5Z
 shortcode: aruzankamm
 img: icons/person.svg
-draft: true
 portrait: images/being/aruzankamm-portrait.webp
 type: being
 package: thalorna

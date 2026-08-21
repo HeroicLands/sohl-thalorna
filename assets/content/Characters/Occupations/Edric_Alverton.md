@@ -2,7 +2,8 @@
 aliases:
   - Edric Alverton
   - being-edriclvrtn
-tags: []
+tags:
+  - draft
 name:
   full: Edric Alverton
   title: ""
@@ -15,7 +16,6 @@ id: JWIyD7u3mSpKyo2X
 folder: elH5NDPUuiRCICrE
 shortcode: edriclvrtn
 img: icons/person.svg
-draft: true
 portrait: images/being/edriclvrtn-portrait.webp
 type: being
 package: thalorna

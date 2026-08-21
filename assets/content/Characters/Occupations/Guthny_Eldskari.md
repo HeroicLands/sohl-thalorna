@@ -3,7 +3,8 @@ aliases:
   - Guthný Eldskari
   - Guthny Eldskari
   - being-gthnyldskr
-tags: []
+tags:
+  - draft
 name:
   full: Guthný Eldskari
   title: ""
@@ -16,7 +17,6 @@ id: eP32fNMGyDLJ9YV5
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gthnyldskr
 img: icons/person.svg
-draft: true
 portrait: images/being/gthnyldskr-portrait.webp
 type: being
 package: thalorna

@@ -13,7 +13,6 @@ name:
 id: SL5ANxIUYDVlM9v7
 shortcode: takheperurgn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

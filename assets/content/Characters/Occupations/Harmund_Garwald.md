@@ -3,7 +3,8 @@ aliases:
   - Hármund Garwald
   - Harmund Garwald
   - being-hrmndgrwld
-tags: []
+tags:
+  - draft
 name:
   full: Hármund Garwald
   title: ""
@@ -16,7 +17,6 @@ id: 8iO3WFg3aKsEECvl
 folder: Nu7AgLZEmR26u2pk
 shortcode: hrmndgrwld
 img: icons/person.svg
-draft: true
 portrait: images/being/hrmndgrwld-portrait.webp
 type: being
 package: thalorna

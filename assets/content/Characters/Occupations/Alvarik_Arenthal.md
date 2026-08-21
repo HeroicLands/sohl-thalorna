@@ -3,7 +3,8 @@ aliases:
   - Alvárik Árenthal
   - Alvarik Arenthal
   - being-alvrkrnthl
-tags: []
+tags:
+  - draft
 name:
   full: Alvárik Árenthal
   title: ""
@@ -16,7 +17,6 @@ id: V4i3erXY2Av7YGr0
 folder: 9t9O4iB5cYJtSaTG
 shortcode: alvrkrnthl
 img: icons/person.svg
-draft: true
 portrait: images/being/alvrkrnthl-portrait.webp
 type: being
 package: thalorna

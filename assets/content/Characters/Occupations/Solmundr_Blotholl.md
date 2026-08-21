@@ -3,7 +3,8 @@ aliases:
   - Sǫlmundr Blóthǫll
   - Solmundr Blotholl
   - being-slmndrblthl
-tags: []
+tags:
+  - draft
 name:
   full: Sǫlmundr Blóthǫll
   title: ""
@@ -16,7 +17,6 @@ id: 2kvASFsQ8z0WJcDf
 folder: Ka9XqaF27b0I3Gmq
 shortcode: slmndrblthl
 img: icons/person.svg
-draft: true
 portrait: images/being/slmndrblthl-portrait.webp
 type: being
 package: thalorna

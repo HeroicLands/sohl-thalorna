@@ -3,7 +3,8 @@ aliases:
   - Arzânalàs Bâredâs
   - Arzanalas Baredas
   - being-arznlsbrds
-tags: []
+tags:
+  - draft
 name:
   full: Arzânalàs Bâredâs
   title: ""
@@ -16,7 +17,6 @@ id: vwal3jKQzejVObfV
 folder: UFBfgKZUF0bAE7gG
 shortcode: arznlsbrds
 img: icons/person.svg
-draft: true
 portrait: images/being/arznlsbrds-portrait.webp
 type: being
 package: thalorna

@@ -5,6 +5,7 @@ aliases:
   - being-dharnvldrn
 tags:
   - todo
+  - draft
 name:
   full: Dháran Véldarin
   title: ""
@@ -17,7 +18,6 @@ id: iu7NukzNV1tLvG1G
 folder: 4cwfdMa34UryZqPR
 shortcode: dharnvldrn
 img: icons/person.svg
-draft: true
 portrait: images/being/dharnvldrn-portrait.webp
 type: being
 package: thalorna

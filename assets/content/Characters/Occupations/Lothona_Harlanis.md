@@ -5,6 +5,7 @@ aliases:
   - being-lothnhrlns
 tags:
   - todo-warrior
+  - draft
 name:
   full: Lôthônâ Hârlânis
   title: ""
@@ -16,7 +17,6 @@ id: PeOaAEAw3CjkGOM5
 folder: UFBfgKZUF0bAE7gG
 shortcode: lothnhrlns
 img: icons/person.svg
-draft: true
 portrait: images/being/lothnhrlns-portrait.webp
 type: being
 package: thalorna

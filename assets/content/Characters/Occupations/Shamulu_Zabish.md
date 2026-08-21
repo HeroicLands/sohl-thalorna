@@ -5,6 +5,7 @@ aliases:
   - being-shamulzbsh
 tags:
   - todo
+  - draft
 name:
   full: Shamûlû Zabîsh
   title: ""
@@ -16,7 +17,6 @@ id: d6XfPKoIVU27c66l
 folder: PuQFDMkRM9i60i5Z
 shortcode: shamulzbsh
 img: icons/person.svg
-draft: true
 portrait: images/being/shamulzbsh-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Kàlendrîs Korkâlenîs
   - Kalendris Korkalenis
   - being-klndrskrklns
-tags: []
+tags:
+  - draft
 name:
   full: Kàlendrîs Korkâlenîs
   title: ""
@@ -16,7 +17,6 @@ id: nGqi7w4e4pxskC1I
 folder: UFBfgKZUF0bAE7gG
 shortcode: klndrskrklns
 img: icons/person.svg
-draft: true
 portrait: images/being/klndrskrklns-portrait.webp
 type: being
 package: thalorna

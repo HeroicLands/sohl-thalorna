@@ -3,7 +3,8 @@ aliases:
   - Vandaric Gárskald
   - Vandaric Garskald
   - being-vndrcgrskld
-tags: []
+tags:
+  - draft
 name:
   full: Vandaric Gárskald
   title: ""
@@ -16,7 +17,6 @@ id: X9iBG63d1hHjtkku
 folder: Nu7AgLZEmR26u2pk
 shortcode: vndrcgrskld
 img: icons/person.svg
-draft: true
 portrait: images/being/vndrcgrskld-portrait.webp
 type: being
 package: thalorna

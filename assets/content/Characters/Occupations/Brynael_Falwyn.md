@@ -3,7 +3,8 @@ aliases:
   - Brýnael Fálwyn
   - Brynael Falwyn
   - being-brynlflwyn
-tags: []
+tags:
+  - draft
 name:
   full: Brýnael Fálwyn
   title: ""
@@ -16,7 +17,6 @@ id: sozSptQLxEJHwBVJ
 folder: 4cwfdMa34UryZqPR
 shortcode: brynlflwyn
 img: icons/person.svg
-draft: true
 portrait: images/being/brynlflwyn-portrait.webp
 type: being
 package: thalorna

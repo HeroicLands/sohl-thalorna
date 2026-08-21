@@ -12,7 +12,6 @@ name:
 id: fzmM3PUidaBMxfbz
 shortcode: chakultzkl
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

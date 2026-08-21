@@ -2,7 +2,8 @@
 aliases:
   - Edwin Garmon
   - being-edwingarmn
-tags: []
+tags:
+  - draft
 name:
   full: Edwin Garmon
   title: ""
@@ -15,7 +16,6 @@ id: f1ffBgVVxZiJdL9J
 folder: elH5NDPUuiRCICrE
 shortcode: edwingarmn
 img: icons/person.svg
-draft: true
 portrait: images/being/edwingarmn-portrait.webp
 type: being
 package: thalorna

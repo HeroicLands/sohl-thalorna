@@ -3,7 +3,8 @@ aliases:
   - Eiríkr Stormrót
   - Eirikr Stormrot
   - being-erkrstrmrt
-tags: []
+tags:
+  - draft
 name:
   full: Eiríkr Stormrót
   title: ""
@@ -16,7 +17,6 @@ id: aUjA3PjeEYqvNSzP
 folder: Ka9XqaF27b0I3Gmq
 shortcode: erkrstrmrt
 img: icons/person.svg
-draft: true
 portrait: images/being/erkrstrmrt-portrait.webp
 type: being
 package: thalorna

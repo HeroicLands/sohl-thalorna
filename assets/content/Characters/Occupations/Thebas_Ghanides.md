@@ -3,7 +3,8 @@ aliases:
   - Thêbas Ghânîdês
   - Thebas Ghanides
   - being-thebsghnds
-tags: []
+tags:
+  - draft
 name:
   full: Thêbas Ghânîdês
   title: ""
@@ -16,7 +17,6 @@ id: VVIZM5oForBFbyvQ
 folder: gpXd1anXulwRWZqn
 shortcode: thebsghnds
 img: icons/person.svg
-draft: true
 portrait: images/being/thebsghnds-portrait.webp
 type: being
 package: thalorna

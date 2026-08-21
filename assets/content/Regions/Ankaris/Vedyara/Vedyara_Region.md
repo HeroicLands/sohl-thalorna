@@ -13,7 +13,6 @@ name:
 id: i3mrG0dvqDp0LHNO
 shortcode: vedyarargn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

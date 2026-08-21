@@ -5,6 +5,7 @@ aliases:
   - being-tarstrvlth
 tags:
   - todo-warrior
+  - draft
 name:
   full: Társia Torvaleth
   title: ""
@@ -16,7 +17,6 @@ id: 1eoPni6JDWYlgAAC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tarstrvlth
 img: icons/person.svg
-draft: true
 portrait: images/being/tarstrvlth-portrait.webp
 type: being
 package: thalorna

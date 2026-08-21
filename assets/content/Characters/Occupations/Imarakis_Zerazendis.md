@@ -3,7 +3,8 @@ aliases:
   - Îmarakîs Zêrâzêndis
   - Imarakis Zerazendis
   - being-imrkszrznds
-tags: []
+tags:
+  - draft
 name:
   full: Îmarakîs Zêrâzêndis
   title: ""
@@ -16,7 +17,6 @@ id: RVRqLy0O8xgRoEbN
 folder: UFBfgKZUF0bAE7gG
 shortcode: imrkszrznds
 img: icons/person.svg
-draft: true
 portrait: images/being/imrkszrznds-portrait.webp
 type: being
 package: thalorna

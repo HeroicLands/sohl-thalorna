@@ -3,7 +3,8 @@ aliases:
   - Tàbîsa Mârinadês
   - Tabisa Marinades
   - being-tabismrnds
-tags: []
+tags:
+  - draft
 name:
   full: Tàbîsa Mârinadês
   title: ""
@@ -16,7 +17,6 @@ id: PJbM7Q1SrblrSWt6
 folder: gpXd1anXulwRWZqn
 shortcode: tabismrnds
 img: icons/person.svg
-draft: true
 portrait: images/being/tabismrnds-portrait.webp
 type: being
 package: thalorna

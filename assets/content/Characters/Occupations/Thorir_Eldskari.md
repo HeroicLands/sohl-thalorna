@@ -5,6 +5,7 @@ aliases:
   - being-thorrldskr
 tags:
   - todo-warrior
+  - draft
 name:
   full: Thórir Eldskari
   title: ""
@@ -16,7 +17,6 @@ id: 8JHUdKF0j7elKPoh
 folder: elH5NDPUuiRCICrE
 shortcode: thorrldskr
 img: icons/person.svg
-draft: true
 portrait: images/being/thorrldskr-portrait.webp
 type: being
 package: thalorna

@@ -2,7 +2,8 @@
 aliases:
   - Oswin Harden
   - being-oswinhardn
-tags: []
+tags:
+  - draft
 name:
   full: Oswin Harden
   title: ""
@@ -15,7 +16,6 @@ id: tcozMdant8nXiWqs
 folder: elH5NDPUuiRCICrE
 shortcode: oswinhardn
 img: icons/person.svg
-draft: true
 portrait: images/being/oswinhardn-portrait.webp
 type: being
 package: thalorna

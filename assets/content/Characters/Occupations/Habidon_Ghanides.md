@@ -5,6 +5,7 @@ aliases:
   - being-habdnghnds
 tags:
   - todo-warrior
+  - draft
 name:
   full: Habìdon Ghânîdês
   title: ""
@@ -16,7 +17,6 @@ id: 1nYCsXoblu17rNy8
 folder: gpXd1anXulwRWZqn
 shortcode: habdnghnds
 img: icons/person.svg
-draft: true
 portrait: images/being/habdnghnds-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Xâthrîon Kâserânis
   - Xathrion Kaseranis
   - being-xthrnksrns
-tags: []
+tags:
+  - draft
 name:
   full: Xâthrîon Kâserânis
   title: ""
@@ -16,7 +17,6 @@ id: 8y3NAp935k0u7KUu
 folder: UFBfgKZUF0bAE7gG
 shortcode: xthrnksrns
 img: icons/person.svg
-draft: true
 portrait: images/being/xthrnksrns-portrait.webp
 type: being
 package: thalorna

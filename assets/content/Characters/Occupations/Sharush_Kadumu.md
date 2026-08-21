@@ -3,7 +3,8 @@ aliases:
   - Shârûsh Kadûmû
   - Sharush Kadumu
   - being-sharushkdm
-tags: []
+tags:
+  - draft
 name:
   full: Shârûsh Kadûmû
   title: ""
@@ -16,7 +17,6 @@ id: O2qGFq562dfOB1rc
 folder: PuQFDMkRM9i60i5Z
 shortcode: sharushkdm
 img: icons/person.svg
-draft: true
 portrait: images/being/sharushkdm-portrait.webp
 type: being
 package: thalorna

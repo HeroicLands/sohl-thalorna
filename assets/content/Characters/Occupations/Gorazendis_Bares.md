@@ -3,7 +3,8 @@ aliases:
   - Gorâzendîs Bârês
   - Gorazendis Bares
   - being-gorzndsbrs
-tags: []
+tags:
+  - draft
 name:
   full: Gorâzendîs Bârês
   title: ""
@@ -16,7 +17,6 @@ id: SXNZ5kUCcAxRUpCN
 folder: UFBfgKZUF0bAE7gG
 shortcode: gorzndsbrs
 img: icons/person.svg
-draft: true
 portrait: images/being/gorzndsbrs-portrait.webp
 type: being
 package: thalorna

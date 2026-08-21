@@ -12,7 +12,6 @@ name:
 id: 4bmHFoaCvpbUggB0
 shortcode: tzikin
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

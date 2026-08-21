@@ -3,7 +3,8 @@ aliases:
   - Ashârâ Hârôrdâs
   - Ashara Harordas
   - being-asharhrrds
-tags: []
+tags:
+  - draft
 name:
   full: Ashârâ Hârôrdâs
   title: ""
@@ -16,7 +17,6 @@ id: OrXXHFOprCeTsprv
 folder: UFBfgKZUF0bAE7gG
 shortcode: asharhrrds
 img: icons/person.svg
-draft: true
 portrait: images/being/asharhrrds-portrait.webp
 type: being
 package: thalorna
