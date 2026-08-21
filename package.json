@@ -68,7 +68,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.26.9",
     "@changesets/cli": "^2.28.1",
-    "@heroiclands/content-build": "^0.7.0",
+    "@heroiclands/content-build": "^0.8.0",
     "@heroiclands/hugo-theme": "^0.1.2",
     "@octokit/rest": "^21.1.1",
     "@rollup/plugin-terser": "^0.4.4",
