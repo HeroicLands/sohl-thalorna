@@ -1,9 +1,8 @@
 ---
 aliases:
-  - Tānvür
+  - Tānvür Empire
   - Empire of Tānvür
-  - Tanvur
-  - doc-empiretnvr
+  - Tanvur Empire
 tags:
   - region
   - Ankaris
@@ -16,14 +15,22 @@ name:
   full: Empire of Tānvür
   aliases: []
 id: SsYaojXUrAE6wy9I
-shortcode: empiretnvr
+shortcode: tanvurempr
 population: "~120,000,000"
 img: ""
 type: doc
-category: region
+category: polity
 package: thalorna
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 demonym: Tānvüri
+population: "~7,000,000"
+subType: empire
+capital: ""
+ruler:
+  title: Emperor
+government:
+  type: monarchy
+  summary: Hereditary monarchy
 parent:
   continents:
     - ankrscntnnt
@@ -77,7 +84,7 @@ See [[doc-celestlrdr|Celestial Order]] for the full overview of Tānvür's relig
 
 The imperial line traces itself back three millennia, through more than a dozen dynasties, each of which represents a reassignment of the Mandate from a decaying house to a more correctly-classified successor. The most recent major reassignment is several centuries old; the current dynasty is in a period that historians (including its own official historians) describe as mature — past the vigor of its founding centuries, not yet in the terminal corruption that would warrant a Mandate-transfer, but increasingly subject to the structural strains that characterize late-dynastic decline.
 
-Those strains are visible on every frontier. The rebellious province of [[doc-jurthatrgn|Jürthāt]] has been rebellious for a full millennium, and no imperial expedition has ever successfully reasserted sovereignty over the archipelago; the imperial position is that Jürthāt remains a province while the practical reality is that it is a sovereign kingdom that raids the coast. The [[doc-grkrhlmrgn|Grukari]] frontier is a fortified marchland of watchtowers and garrison colonies that requires constant imperial attention. The western passes into the [[doc-khzryndsrtrgn|Khazryn]] are quiet but expensively garrisoned. Internal tensions — caste revolts, Vëndük conspiracies, the ongoing political manipulations of the [[doc-veizhatret|Vëi Zhāt Rëit]] — occupy the imperial court continuously.
+Those strains are visible on every frontier. The rebellious province of [[doc-jurthatempr|Jürthāt]] has been rebellious for a full millennium, and no imperial expedition has ever successfully reasserted sovereignty over the archipelago; the imperial position is that Jürthāt remains a province while the practical reality is that it is a sovereign kingdom that raids the coast. The [[doc-grkrhlmrgn|Grukari]] frontier is a fortified marchland of watchtowers and garrison colonies that requires constant imperial attention. The western passes into the [[doc-khzryndsrtrgn|Khazryn]] are quiet but expensively garrisoned. Internal tensions — caste revolts, Vëndük conspiracies, the ongoing political manipulations of the [[doc-veizhatret|Vëi Zhāt Rëit]] — occupy the imperial court continuously.
 
 The Empire's external trade is enormous, flowing along the Celestial Roads westward through the Khazryn toward [[doc-midhalnrgn|Mídhalión]], and by sea southward toward [[doc-vedyarargn|Vedyara]]. The imperial bureaucracy taxes, documents, and classifies every significant movement of goods; smuggling is a highly developed profession; port cities maintain large, carefully walled and surveilled foreign merchant quarters.
 

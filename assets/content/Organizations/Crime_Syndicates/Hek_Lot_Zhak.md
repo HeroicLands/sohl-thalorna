@@ -41,7 +41,7 @@ The Hëk Lōt Zhāk's power is not exercised through street-level thuggery. It i
 
 **Primary:** [[doc-empiretnvr|Empire of Tānvür]] — with particular concentration in the major mercantile cities of the [[doc-shukren|Shükrën]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
-**Secondary:** Cells reach into [[doc-jurthat|Jürthāt]] to the north and occasionally surface in the eastern reaches of [[doc-byzariargn|Byzaría Region]] where Tānvüri trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
+**Secondary:** Cells reach into [[doc-jurthatrgn|Jürthāt]] to the north and occasionally surface in the eastern reaches of [[doc-byzariargn|Byzaría Region]] where Tānvüri trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 

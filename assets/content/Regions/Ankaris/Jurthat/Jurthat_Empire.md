@@ -1,27 +1,36 @@
 ---
 aliases:
-  - Jürthāt
-  - Jurthat
-  - doc-jurthat
+  - Jürthāt Empire
+  - Jurthat Empire
+  - Thātvōng
+  - Kingdom of Mountains and Seas
 tags:
   - region
   - Ankaris
   - East
   - Island-Kingdom
   - Warrior-Culture
-title: ""
-description: Island kingdom east of Tānvür — a feudal, warrior-aristocratic society of great lords, honour-obsessed culture, and a ceremonial emperor.
+description: Island empire east of Tānvür — a feudal, warrior-aristocratic society of great lords, honour-obsessed culture, and a ceremonial emperor.
 name:
-  full: Jürthāt
-  aliases: []
+  full: Jürthāt Empire
+  aliases:
+    - Nine Mountains
 id: X3mxTrn5z3vxzI0C
-shortcode: jurthat
+shortcode: jurthatempr
 img: ""
 type: doc
-category: region
+category: polity
 package: thalorna
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
 demonym: Jürthāti
+population: "~500,000"
+subType: empire
+capital: ""
+ruler:
+  title: Emperor
+government:
+  type: monarchy
+  summary: Hereditary monarchy
 parent:
   regions:
     - jurthatrgn
@@ -33,8 +42,6 @@ languages:
   - tnvrlnggrfrnc
 folder: DhjGF5KsylKDxb7m
 ---
-
-# Jürthāt ("Nine Mountains")
 
 Jürthāt is a mountainous island kingdom to the southeast of the [[doc-empiretnvr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.
 

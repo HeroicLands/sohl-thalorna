@@ -22,7 +22,7 @@ The [[doc-empiretnvr|Empire of Tānvür]] faces multiple serious threats to its 
 ## Military & External Threats
 
 - [[doc-bthrhrtzhk|Bāthür Hürtzhük]] — A northern barbarian warlord who has united the tribes of the Hëkvōr (Black Wilds) and begun aggressive incursions into the empire's northern provinces
-- [[doc-extrnlthrts|External Threats]] — [[doc-jurthat|Jürthāt]] (known to the empire as Thātvōng) and the Coalition of the Western Kingdoms
+- [[doc-extrnlthrts|External Threats]] — [[doc-jurthatempr|Jürthāt]] (known to the empire as Thātvōng) and the Coalition of the Western Kingdoms
 
 ## Internal Conflicts
 

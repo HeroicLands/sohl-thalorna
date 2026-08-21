@@ -19,7 +19,7 @@ Beyond its borders, the [[doc-empiretnvr|Empire of Tānvür]] faces military and
 
 ## Thātvōng ("Kingdom of Mountains and Seas")
 
-**Thātvōng** is the Tānvür name for [[doc-jurthat|Jürthāt]], a powerful island kingdom to the southeast that broke away from the empire over a thousand years ago. Though its culture was originally shaped by Tānvür, Jürthāt has diverged significantly over the centuries, developing its own distinct traditions, governance, and military culture. The empire has never forgiven the secession and still considers Jürthāt a renegade province.
+**Thātvōng** is the Tānvür name for the [[doc-jurthatempr|Jürthāt Empire]], a powerful island "empire" to the southeast that broke away from the empire over a thousand years ago. Though its culture was originally shaped by Tānvür, Jürthāt has diverged significantly over the centuries, developing its own distinct traditions, governance, and military culture. The empire has never forgiven the secession and still considers Jürthāt a renegade province.
 
 Today, Jürthāt seeks to expand its territory by claiming parts of the empire's southern coastal region. With a superior navy and alliances with mercenaries and pirates, Thātvōng poses a significant threat to the empire's coastal trade and access to vital resources.
 

@@ -85,7 +85,7 @@ The **Celestial Order** (Tëngvōk Vān Lëi, "The Celestial Court of Ten Thousa
 
 **Secondary influence:**
 
-- [[doc-jurthat|Jürthāt]] — regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tānvür
+- [[doc-jurthatrgn|Jürthāt]] — regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tānvür
 
 ## [[affiliation-itzanpnthn|Itzáni]]
 
