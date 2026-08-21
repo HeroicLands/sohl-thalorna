@@ -63,7 +63,10 @@ import {
   findSlugCollisions,
 } from "@heroiclands/content-build/engine/content-slug";
 import { expandContentTables } from "@heroiclands/content-build/engine/content-tables";
-import { resolveSiteWikilinks } from "./site-wikilinks.mjs";
+import {
+  resolveSiteWikilinks,
+  frontmatterWikilinks,
+} from "./site-wikilinks.mjs";
 import {
   writeManifests,
   loadForeignManifests,
@@ -361,6 +364,16 @@ const slugErrors = [];
  */
 const unaddressable = [];
 
+/**
+ * Notes with a wikilink in frontmatter (#35) — `{file, path, link}` each.
+ *
+ * Frontmatter is copied to the published page verbatim, so a link written in one
+ * is never resolved and reaches the reader as literal `[[…]]`. Collected across
+ * the walk and failed on before anything is written; see
+ * {@link frontmatterWikilinks}.
+ */
+const frontmatterLinks = [];
+
 for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
   CONTENT_SRC,
 )) {
@@ -370,6 +383,9 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
   if (!fm.type) continue;
 
   const rel = path.relative(CONTENT_SRC, absPath).split(path.sep).join("/");
+  for (const hit of frontmatterWikilinks(fm)) {
+    frontmatterLinks.push({ file: rel, ...hit });
+  }
   const name = fm.name?.full ?? path.basename(absPath, ".md");
 
   // A `category: collection` note *is* a section's landing page, not a page
@@ -425,6 +441,24 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
   if (typeof fm.shortcode === "string") {
     refIndex.set(`${fm.type}:${fm.shortcode}`, { name, url });
   }
+}
+
+// --- Frontmatter integrity -----------------------------------------------
+// Refused before a single page is written: a wikilink in frontmatter is copied
+// through unresolved and publishes as literal `[[…]]` (#35).
+if (frontmatterLinks.length) {
+  console.error(
+    `\n✖ ${frontmatterLinks.length} wikilink(s) authored in frontmatter:`,
+  );
+  for (const e of frontmatterLinks) {
+    console.error(`  ${e.link}  (${e.file}: ${e.path})`);
+  }
+  console.error(
+    "\nWikilinks are resolved in a note's body only — frontmatter is data, and this\n" +
+      "build copies it to the page verbatim, so the reader gets the brackets. Move the\n" +
+      "link into the prose the field summarises, or write the value as plain text.\n",
+  );
+  process.exit(1);
 }
 
 // --- URL integrity -------------------------------------------------------

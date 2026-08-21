@@ -20,7 +20,7 @@ ruler:
   title: Warlord
 government:
   type: warlord-confederation
-  summary: A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile [[being-grkrahk|Grukar-ahk]]; subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian convenience — Grukar themselves recognize no king and have no concept of hereditary monarchy.
+  summary: A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile Grukar-ahk; subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian convenience — Grukar themselves recognize no king and have no concept of hereditary monarchy.
 parent:
   regions:
     - grkrhlmrgn
