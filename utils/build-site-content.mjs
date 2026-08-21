@@ -71,6 +71,7 @@ import {
   writeManifests,
   loadForeignManifests,
   manifestsComplete,
+  readCanonicalKey,
 } from "@heroiclands/content-build/engine/kb-manifest";
 import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
 import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
@@ -524,6 +525,47 @@ if (foreign.stale.length) {
 }
 const manifests = manifestsComplete(localPackages, foreign.packages);
 
+/**
+ * The vendored manifests re-keyed to the address an author actually writes.
+ *
+ * `loadForeignManifests` keys its index by the **canonical** key —
+ * `sohl-skill-lang`, package included — because a manifest has to survive two
+ * packages claiming the same `type-shortcode`. What a note writes is the
+ * unqualified address, `[[skill-lang]]`: content names a document, not the
+ * package that happens to ship it. So the two shapes have to be bridged, and
+ * this is the only place that knows both.
+ *
+ * Doing it here keeps {@link resolveSiteWikilinks} looking up one shape for
+ * local and foreign hits alike, which is what its `{ url, name }` contract
+ * already promises.
+ *
+ * First writer wins, matching `loadForeignManifests`' own rule, so two packages
+ * claiming one address cannot make the result depend on directory order.
+ */
+const foreignByAddress = new Map();
+for (const [key, value] of foreign.index) {
+  const parts = readCanonicalKey(key);
+  if (!parts) continue;
+  const address = `${parts.type}/${parts.shortcode}`.toLowerCase();
+  if (!foreignByAddress.has(address)) foreignByAddress.set(address, value);
+}
+// Entries that read as no address at all mean the manifest key shape has moved
+// again and this bridge no longer spans it. That is precisely how the previous
+// shape change went unnoticed: a lookup that cannot match anything reports
+// nothing, because an unresolved address renders as its own display text — the
+// page is complete and merely unlinked, so only a reader who knew the link was
+// meant to be there would ever see it. A build that loaded entries and can
+// address none of them is broken, not empty, so it says so and stops.
+if (foreign.index.size > 0 && foreignByAddress.size === 0) {
+  console.error(
+    `\n✖ vendored manifest(s) loaded ${foreign.index.size} entr(ies) but none ` +
+      `is a readable canonical key — the manifest key format has changed and ` +
+      `\`readCanonicalKey\` no longer parses it. Cross-package links cannot ` +
+      `resolve until this is bridged.`,
+  );
+  process.exit(1);
+}
+
 // The authored form: `type-shortcode` — `(type, shortcode)` is the system's
 // logical identity and is unique by rule, so this key is unique by construction,
 // the same guarantee `section/slug` gives. Alongside it, every alias is indexed
@@ -535,7 +577,7 @@ const contentTypes = new Set();
 // A foreign package may use a type this build has never seen. Seeding those
 // here is what lets `readQualifier` recognise the address as one at all —
 // without it the link is read as prose and silently loses its href.
-for (const k of foreign.index.keys()) {
+for (const k of foreignByAddress.keys()) {
   const slash = k.indexOf("/");
   if (slash > 0) contentTypes.add(k.slice(0, slash));
 }
@@ -591,7 +633,7 @@ const knownSections = new Set(entries.map((e) => e.sec.toLowerCase()));
 const wikiErrors = [];
 const wikiCtx = (src, type = null) => ({
   index: wikiIndex,
-  foreign: foreign.index,
+  foreign: foreignByAddress,
   manifestsComplete: manifests.complete,
   collide: wikiCollide,
   sections: knownSections,
