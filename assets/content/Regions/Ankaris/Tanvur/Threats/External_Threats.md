@@ -15,7 +15,7 @@ folder: l3wIL8UihJI5nx6L
 
 # External Threats to the Empire of Tānvür
 
-Beyond its borders, the [[doc-empiretnvr|Empire of Tānvür]] faces military and political pressure from neighboring powers.
+Beyond its borders, the [[doc-tanvurempr|Empire of Tānvür]] faces military and political pressure from neighboring powers.
 
 ## Thātvōng ("Kingdom of Mountains and Seas")
 
@@ -31,4 +31,4 @@ A loose alliance of smaller kingdoms to the west, each seeking to exploit Tānv�
 
 - [[doc-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord threat
 - [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — Threats from within the empire
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire under threat
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire under threat

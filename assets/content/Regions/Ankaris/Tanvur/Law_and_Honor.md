@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Zëisīk: The Ritual of Self-Death
 
-Part of the [[doc-empiretnvr|Empire of Tānvür]] world-building.
+Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 **Zëisīk**, meaning "self-death," is a solemn and revered process of ritual suicide that serves multiple purposes within Tānvüri warrior culture. It is most commonly performed as a means of atonement for dishonor or failure — a voluntary act that restores the individual's [[doc-celestlrdr|moral ledger]] through a final, decisive entry. In the classification cosmology, Zëisīk is understood as a **self-initiated reclassification**: the individual removes themselves from the sorted order on their own terms, rather than waiting for the celestial administration to process their disgrace.
 
@@ -37,7 +37,7 @@ However, Zëisīk is not limited to atonement alone. It can also be a powerful a
 
 # The Legal System of the Empire of Tānvür
 
-The legal system of the [[doc-empiretnvr|Empire of Tānvür]] is not a system of laws in the Western sense. It is a **classification enforcement mechanism** — an extension of the same cosmic order that sorts elements, assigns gods to bureaus, and maintains the boundary between the Sorted and the Hürnlëi. Crime in Tānvür is not merely a violation of social rules. It is a **classification breach** — an attempt, whether deliberate or careless, to move things, people, or resources from one sorted category to another without proper authorization.
+The legal system of the [[doc-tanvurempr|Empire of Tānvür]] is not a system of laws in the Western sense. It is a **classification enforcement mechanism** — an extension of the same cosmic order that sorts elements, assigns gods to bureaus, and maintains the boundary between the Sorted and the Hürnlëi. Crime in Tānvür is not merely a violation of social rules. It is a **classification breach** — an attempt, whether deliberate or careless, to move things, people, or resources from one sorted category to another without proper authorization.
 
 The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-plane expression of the classification system established during the [[affiliation-tngvkvnlei|Great Sorting]]. The Emperor serves as the ultimate arbiter of justice not because he is personally wise, but because he holds the [[doc-mandatehvn|Mandate of Heaven]] — the cosmic appointment that makes him the classification system's designated administrator on the mortal plane. In practice, legal authority is exercised by the Warlords (Vüszhük) and their magistrates, who enforce the Tëng Lüt within their territories.
 
@@ -105,4 +105,4 @@ The legal system of Tānvür is not merely a tool for maintaining order. It is t
 - [[doc-ancstrwrshp|Ancestor Worship]] — The moral ledger system that punishment interacts with
 - [[doc-marriage|Marriage]] — Family law and household classification
 - [[doc-castelaws|The Imperial Registry and Identification]] — The census and identification tablet system
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial society
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society

@@ -29,7 +29,7 @@ languages:
 folder: DhjGF5KsylKDxb7m
 ---
 
-The Jürthāt Region is the eastern archipelago of [[doc-ankrscntnnt|Ankaris Continent]] — a ring of nine mountainous, volcanic islands separated from the [[doc-tanvuregin|Tānvüri mainland]] by a treacherous strait. It is dominated politically by the sovereign empire of [[doc-jurthatempr|Jürthāt]], which the [[doc-empiretnvr|Empire of Tānvür]] has for a thousand years refused to recognize — considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the Celestial Mandate that Tānvür, in their telling, has long since forfeited.
+The Jürthāt Region is the eastern archipelago of [[doc-ankrscntnnt|Ankaris Continent]] — a ring of nine mountainous, volcanic islands separated from the [[doc-tanvuregin|Tānvüri mainland]] by a treacherous strait. It is dominated politically by the sovereign empire of [[doc-jurthatempr|Jürthāt]], which the [[doc-tanvurempr|Empire of Tānvür]] has for a thousand years refused to recognize — considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the Celestial Mandate that Tānvür, in their telling, has long since forfeited.
 
 Where the Tānvür Region is a continental civilization of imperial bureaucracy and ordered plains, Jürthāt is its mirror-opposite: maritime, feudal, warrior-aristocratic, and shaped at every turn by the discipline of life on steep, narrow islands.
 
@@ -84,7 +84,7 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 ## See Also
 
 - [[doc-jurthatempr|Jürthāt]] — the empire of Jürthāt, its politics, and its culture
-- [[doc-empiretnvr|Empire of Tānvür]] — the mainland empire from which the archipelago broke away
+- [[doc-tanvurempr|Empire of Tānvür]] — the mainland empire from which the archipelago broke away
 - [[affiliation-tngvkvnlei|Celestial Order]] — the shared pantheon, divergently interpreted
 - [[doc-tanvuregin|Tānvür Region]] — the Tānvüri mainland region
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

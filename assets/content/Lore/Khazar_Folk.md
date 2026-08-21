@@ -59,7 +59,7 @@ The Khazári live in mountain holds — underground complexes carved into living
 
 Like the Sinalëan enclaves, the holds are hidden — not by magical misdirection but by physical inaccessibility and deliberate concealment. The entrances are in places humans do not go: behind waterfalls in trackless mountain gorges, at the bottom of crevasses, in cave systems so deep and complex that no human explorer has reached their end. The Khazári maintain watch over the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough.
 
-Human scholars believe there are holds in the mountains of every major continent — the ranges above [[doc-vrystwald|Vrystwald Region]], the peaks of [[doc-tarvenirgn|Tarvénia]], the great mountains of [[doc-empiretnvr|Tānvür]]'s western border, and ranges in [[doc-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
+Human scholars believe there are holds in the mountains of every major continent — the ranges above [[doc-vrystwald|Vrystwald Region]], the peaks of [[doc-tarvenirgn|Tarvénia]], the great mountains of [[doc-tanvurempr|Tānvür]]'s western border, and ranges in [[doc-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
 
 ## Relations with Humanity
 
@@ -78,6 +78,6 @@ The Khazári do not appear to care that humans possess these remnants. They are 
 ## See Also
 
 - [[doc-flksinale|Sinalë]] — The first elder race; the Firstborn
-- [[doc-empiretnvr|Empire of Tānvür]] — Mountains believed to contain holds; see [[doc-elderraces|Elder Races]]
+- [[doc-tanvurempr|Empire of Tānvür]] — Mountains believed to contain holds; see [[doc-elderraces|Elder Races]]
 - [[doc-vrystwald|Vrystwald Region]] — Mountains above the forest likely contain holds
 - [[doc-tarvenirgn|Tarvénia]] — Mountain ranges believed to contain holds

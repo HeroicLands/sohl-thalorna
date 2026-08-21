@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Sons of the Dragon**
 
-Zhëklüng form the apex of [[doc-empiretnvr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
+Zhëklüng form the apex of [[doc-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
 
 ## Administrative Authority
 
@@ -66,4 +66,4 @@ The number nine holds deep reverence in all ceremonies and rites pertaining to t
 - [[doc-vushok|Vüshōk]] — the Warrior Nobility who share authority with Zhëklüng
 - [[doc-venduk|Vëndük]] — the Chattel Sorcerers who serve and counsel Zhëklüng
 - [[doc-lawhonor|Law and Honor]] — legal framework governing Zhëklüng authority
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

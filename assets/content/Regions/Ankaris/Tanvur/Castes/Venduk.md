@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Chattel Sorcerers**
 
-Though technically enslaved, the Vëndük occupy a unique and highly respected position within [[doc-empiretnvr|Tānvür]] society. Born with powerful innate magical abilities, they are bound to the service of [[doc-zheklung|Zhëklüng]] from birth. Their magical mastery makes them invaluable counselors, artificers, and ritualists, elevating them far above the status of common slaves despite their legal bondage.
+Though technically enslaved, the Vëndük occupy a unique and highly respected position within [[doc-tanvurempr|Tānvür]] society. Born with powerful innate magical abilities, they are bound to the service of [[doc-zheklung|Zhëklüng]] from birth. Their magical mastery makes them invaluable counselors, artificers, and ritualists, elevating them far above the status of common slaves despite their legal bondage.
 
 ## Roles and Responsibilities
 
@@ -56,7 +56,7 @@ The Vëndük possess an absolute and legally enforced monopoly on the practice o
 
 ## Identification and Selection
 
-All children throughout [[doc-empiretnvr|Tānvür]], regardless of caste, are tested at age ten for magical inclinations and potential. Those showing signs of magical affinity are identified, claimed, and converted to the Vëndük caste, separating them from their families of origin.
+All children throughout [[doc-tanvurempr|Tānvür]], regardless of caste, are tested at age ten for magical inclinations and potential. Those showing signs of magical affinity are identified, claimed, and converted to the Vëndük caste, separating them from their families of origin.
 
 Vëndük children who fail to demonstrate magical ability during this period are not returned to their birth families; instead, they are adopted into the [[doc-nokvur|Nōkvür]] caste with love and respect, providing them with a path to a productive life despite their unique origins.
 
@@ -74,4 +74,4 @@ The Vëndük caste maintains constant vigilance against potential influence from
 - [[doc-zheklung|Zhëklüng]] — the masters who own and command the Vëndük
 - [[doc-vushok|Vüshōk]] — Warrior Nobility who work alongside Vëndük counsel
 - [[doc-lawhonor|Law and Honor]] — legal framework enforcing magical monopoly
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial structure and governance
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial structure and governance

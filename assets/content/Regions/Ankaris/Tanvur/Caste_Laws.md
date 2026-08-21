@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Caste Laws of the Empire of Tānvür
 
-The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[doc-empiretnvr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
+The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[doc-tanvurempr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
 
 See also: [[doc-lawhonor|Law and Honor]] for the legal system and punishment framework.
 
@@ -135,4 +135,4 @@ See [[doc-elderraces|Elder Races]] for full details on territories, autonomy, cu
 - [[doc-personlnms|Personal Names]] — Naming conventions
 - [[doc-numerology|Numerology]] — Auspicious and inauspicious numbers
 - [[doc-elderraces|Elder Races]] — How [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] fit within the caste system
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial governance and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial governance and structure

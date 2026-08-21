@@ -17,7 +17,7 @@ folder: TokyoDCf1w4elPns
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
 
-**Central Mission:** The objective is for the [[doc-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[doc-empiretnvr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[doc-vylarinmpr|Vylarian Empire]] as an intermediary, and the king is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+**Central Mission:** The objective is for the [[doc-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[doc-tanvurempr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[doc-vylarinmpr|Vylarian Empire]] as an intermediary, and the king is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
 
 ## Ambassador’s Party Members
 

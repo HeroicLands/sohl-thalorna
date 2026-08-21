@@ -81,7 +81,7 @@ The **Celestial Order** (Tëngvōk Vān Lëi, "The Celestial Court of Ten Thousa
 
 **Primary region:**
 
-- [[doc-empiretnvr|Tānvür]] — state religion, deeply integrated with caste system
+- [[doc-tanvurempr|Tānvür]] — state religion, deeply integrated with caste system
 
 **Secondary influence:**
 

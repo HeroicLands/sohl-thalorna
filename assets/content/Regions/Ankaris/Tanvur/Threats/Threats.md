@@ -15,7 +15,7 @@ folder: l3wIL8UihJI5nx6L
 
 # Threats to the Empire of Tānvür
 
-The [[doc-empiretnvr|Empire of Tānvür]] faces multiple serious threats to its stability and security, from external powers, internal conflicts, supernatural incursions, and the ever-present machinations of the [[doc-veizhatret|Vëi Zhāt Rëit]].
+The [[doc-tanvurempr|Empire of Tānvür]] faces multiple serious threats to its stability and security, from external powers, internal conflicts, supernatural incursions, and the ever-present machinations of the [[doc-veizhatret|Vëi Zhāt Rëit]].
 
 ---
 
@@ -37,6 +37,6 @@ The [[doc-empiretnvr|Empire of Tānvür]] faces multiple serious threats to its 
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of the empire
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire
 - [[doc-castelaws|Caste Laws]] — The social structure these threats destabilize
 - [[doc-lawhonor|Law and Honor]] — The legal framework the empire uses to respond

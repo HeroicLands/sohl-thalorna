@@ -15,7 +15,7 @@ folder: hBkQzhJeB05EwziN
 
 # The Mandate of Heaven (Tëngvōr)
 
-The **Mandate of Heaven** is the foundational political and cosmological doctrine of the [[doc-empiretnvr|Empire of Tānvür]]. It is not a divine blessing, not a covenant, not a promise. It is a **cosmic appointment** — the assignment of administrative authority over the mortal plane to the imperial line, issued by the celestial bureaucracy and subject to review.
+The **Mandate of Heaven** is the foundational political and cosmological doctrine of the [[doc-tanvurempr|Empire of Tānvür]]. It is not a divine blessing, not a covenant, not a promise. It is a **cosmic appointment** — the assignment of administrative authority over the mortal plane to the imperial line, issued by the celestial bureaucracy and subject to review.
 
 ---
 
@@ -67,4 +67,4 @@ The number nine holds deep significance in all ceremonies pertaining to the Empe
 - [[doc-zheklung|Zhëklüng]] — The caste that holds the Mandate
 - [[doc-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework
 - [[doc-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy that links the Emperor's health to cosmic balance
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire governed under the Mandate
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire governed under the Mandate

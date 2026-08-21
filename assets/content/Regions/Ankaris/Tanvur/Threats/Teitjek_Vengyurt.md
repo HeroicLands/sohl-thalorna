@@ -45,4 +45,4 @@ The rebellion has begun to make significant gains in border regions, but interna
 - [[doc-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
 - [[doc-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat
 - [[doc-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire under threat
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire under threat

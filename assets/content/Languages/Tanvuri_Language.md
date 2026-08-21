@@ -17,7 +17,7 @@ shortcode: tnvrlnggrfrnc
 
 # Tānvüri Language Reference
 
-The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[doc-empiretnvr|Empire of Tānvür]] and, in a divergent form, of [[doc-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
+The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[doc-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[doc-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
 
 ---
 
@@ -549,7 +549,7 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of the empire and its culture
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire and its culture
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Order (pantheon)
 - [[doc-phlsphylvr|Philosophy of Lëivōr]] — The philosophy of vital energy
 - [[doc-clndrstrlgy|Calendar and Astrology]] — Calendar, months, and spirit animals

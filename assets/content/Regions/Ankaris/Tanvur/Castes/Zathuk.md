@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Artisans, Craftsmen, and Common Warriors**
 
-The Zāthük form the productive middle stratum of [[doc-empiretnvr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.
+The Zāthük form the productive middle stratum of [[doc-tanvurempr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.
 
 ## Roles and Responsibilities
 
@@ -94,7 +94,7 @@ Yātvōr hold primary responsibility for initiating and managing public health m
 
 ## Elder Races Among Zāthük
 
-The majority of [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] found within [[doc-empiretnvr|Tānvür]] society are placed within the Zāthük caste. They have become renowned for their exceptional craftsmanship:
+The majority of [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] found within [[doc-tanvurempr|Tānvür]] society are placed within the Zāthük caste. They have become renowned for their exceptional craftsmanship:
 
 - **Sinalëan Artisans**: Master woodworkers, textile artists, and jewelers whose creations command premium prices and international renown
 - **Khazárian Smiths**: Legendary metalworkers whose weapons and armor are prized throughout the known world; also master stonemasons and engineers
@@ -109,4 +109,4 @@ Their exceptional quality of work commands considerable wealth and respect, elev
 - [[doc-shukren|Shükrën]] — Merchants and financiers (separate caste)
 - [[doc-tanthei|Tānthëi]] — Celestial scholars who collaborate with Yātvōr on spiritual ailments
 - [[doc-lawhonor|Law and Honor]] — legal framework governing craftsmanship and commerce
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial society and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

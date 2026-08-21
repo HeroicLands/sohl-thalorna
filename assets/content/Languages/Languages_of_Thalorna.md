@@ -43,7 +43,7 @@ This note maps the languages spoken across [[doc-worldthlrn|Thalorna]], the poli
 | ----------- | ---------------- | -------------------------------------------- | ----------------------------------------- |
 | **Dunhari** | [[doc-dunharargn\|Dunhara Region]] tribes, [[doc-khzryndsrtrgn\|Khazryn Desert Region]], [[doc-sultntmrdd\|Sultanate of Amradad]] | [[doc-dunharlngg\|Dunhari Language]] | The language of the desert peoples. Highly poetic; oral tradition is the primary literary form. |
 | **Vedyari** | [[doc-vedyarargn\|City-States of Vedyara]]                     | [[doc-vedyarlngg\|Vedyari Language]]     | An ancient language family with many regional dialects. Sacred texts are composed in Classical Vedyari, distinct from the spoken vernaculars. |
-| **Tānvüri** | [[doc-empiretnvr\|Tānvür]]                                     | [[doc-tnvrlnggrfrnc\|Tanvuri Language]]     | A logographic language with complex compound morphology. The imperial dialect is the standard; regional variations are extensive.             |
+| **Tānvüri** | [[doc-tanvurempr\|Tānvür]]                                     | [[doc-tnvrlnggrfrnc\|Tanvuri Language]]     | A logographic language with complex compound morphology. The imperial dialect is the standard; regional variations are extensive.             |
 
 ## Xerathia
 

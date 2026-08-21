@@ -68,7 +68,7 @@ To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is 
 
 To the **north**, relations with the [[doc-dunhartrbs|Dunhara tribes]] and with the caravan-guilds of the [[doc-dunharargn|Dunhara]] are the kingdom's great diplomatic preoccupation. The tribes raid in lean seasons and trade in fat ones; the Vindhyan army exists primarily to make the first option unprofitable. A formal treaty with the [[doc-sultntmrdd|Sultanate of Amradad]], renewed every generation, regulates the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the passes.
 
-To the **east**, across the mountain spine, lie routes that lead eventually to [[doc-empiretnvr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+To the **east**, across the mountain spine, lie routes that lead eventually to [[doc-tanvurempr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
 
 ## Notable Features
 

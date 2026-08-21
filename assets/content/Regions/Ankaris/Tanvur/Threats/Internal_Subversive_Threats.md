@@ -15,7 +15,7 @@ folder: l3wIL8UihJI5nx6L
 
 # Internal Subversive Threats
 
-The [[doc-empiretnvr|Empire of Tānvür]] faces numerous threats from within — secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
+The [[doc-tanvurempr|Empire of Tānvür]] faces numerous threats from within — secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
 
 ---
 
@@ -63,4 +63,4 @@ A series of poor rice harvests in the south has led to fears of famine across th
 - [[doc-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general's rebellion
 - [[doc-veizhatret|Vëi Zhāt Rëit]] — The political intrigue that enables many of these threats
 - [[doc-castelaws|Caste Laws]] — The rigid social structure under pressure
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire these forces seek to undermine
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire these forces seek to undermine

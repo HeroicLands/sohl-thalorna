@@ -55,7 +55,7 @@ Dúnavarre enjoys good relations with [[doc-elavendre|Élavendre]], with whom it
 
 Relations with [[doc-kngdmldrth|Aldorath]] are competitive — the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[doc-repblctrvn|Republic of Tarvenne]] through coastal trade routes.
 
-Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[doc-empiretnvr|Empire of Tānvür]], seeking to bypass the [[doc-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission — led by Sir Aran al Célavren — represents a bold assertion of Dúnavarren independence on the international stage.
+Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[doc-tanvurempr|Empire of Tānvür]], seeking to bypass the [[doc-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission — led by Sir Aran al Célavren — represents a bold assertion of Dúnavarren independence on the international stage.
 
 ## Notable Places
 

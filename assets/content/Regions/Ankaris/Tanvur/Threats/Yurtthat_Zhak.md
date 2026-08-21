@@ -18,7 +18,7 @@ folder: l3wIL8UihJI5nx6L
 
 **The House of the Clouded Mountain**
 
-The **Yürtthāt Zhāk**, once a pillar of the [[doc-empiretnvr|Empire of Tānvür]], now stands on the precipice of ruin.
+The **Yürtthāt Zhāk**, once a pillar of the [[doc-tanvurempr|Empire of Tānvür]], now stands on the precipice of ruin.
 
 ## The Decline
 
@@ -46,4 +46,4 @@ Should the gamble fail:
 - [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — The Black Lotus Society and other destabilizing forces
 - [[doc-veizhatret|Vëi Zhāt Rëit]] — The political game that brought the house low
 - [[doc-ttjkvngyrt|Tëitjëk Vëngyürt]] — Another internal threat to the empire
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire whose court they navigate
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose court they navigate

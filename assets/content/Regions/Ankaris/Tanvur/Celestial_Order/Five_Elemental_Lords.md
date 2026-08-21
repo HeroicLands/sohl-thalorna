@@ -15,7 +15,7 @@ folder: hBkQzhJeB05EwziN
 
 # The Five Elemental Lords
 
-The **Five Elemental Lords** are the elemental administrators of the [[doc-clstlpnthn|Celestial Pantheon]], each holding the portfolio for one of the five _material_ domains of classification that sustain the physical world within the [[doc-empiretnvr|Empire of Tānvür]]. They are not gods to be worshipped but **bureau chiefs to be petitioned** — powerful officials appointed during the Great Sorting to maintain the elemental categories that keep the physical world from dissolving back into the Hürnlëi.
+The **Five Elemental Lords** are the elemental administrators of the [[doc-clstlpnthn|Celestial Pantheon]], each holding the portfolio for one of the five _material_ domains of classification that sustain the physical world within the [[doc-tanvurempr|Empire of Tānvür]]. They are not gods to be worshipped but **bureau chiefs to be petitioned** — powerful officials appointed during the Great Sorting to maintain the elemental categories that keep the physical world from dissolving back into the Hürnlëi.
 
 The [[doc-phlsphylvr|Lëivōr philosophy]] recognizes seven domains of classification in total, but only five are material — Air, Fire, Earth, Metal, and Water — and each of these is administered by an Elemental Lord. The remaining two domains are too fundamental to the classification system itself for any single bureau chief to hold: **Spirit (Vōrlëi)** is governed collectively by the celestial bureau system (particularly the Ministry of Final Account and the Bureau of Night Counsel), and **Neutral (Hōk)** is the domain of Tānlüng himself — the unsorted energy that sustains all sorting.
 

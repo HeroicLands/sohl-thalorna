@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Elder Races in Tānvür
 
-Part of the [[doc-empiretnvr|Empire of Tānvür]] world-building.
+Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 In the Empire of Tānvür, the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] occupy a unique position within the classification system. Unlike [[doc-castelaws|foreigners]], who exist outside the cosmic order entirely, the Elder Races are _classified_ — absorbed into the caste system based on their functional roles within the empire. But the fit is imperfect: the classification system was designed for humans, and the Elder Races predate it by millennia. They accept their assigned castes pragmatically when operating within the empire, while maintaining their own traditions and self-understanding within their enclaves. See [[doc-castelaws|The Elder Races and the Classification System]] for the cosmological and legal framework of this classification.
 

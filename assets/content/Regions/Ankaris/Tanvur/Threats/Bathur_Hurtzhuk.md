@@ -18,7 +18,7 @@ folder: l3wIL8UihJI5nx6L
 
 **"Master Tiger of the Steppes"**
 
-The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr** (Hëkvōr), or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[doc-empiretnvr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.
+The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr** (Hëkvōr), or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[doc-tanvurempr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.
 
 ## The Rise to Power
 
@@ -41,4 +41,4 @@ Bāthür Hürtzhük's ascent has been fueled by a combination of political insta
 
 - [[doc-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general whose rebellion could align with Bāthür's ambitions
 - [[doc-extrnlthrts|External Threats]] — Other military threats to the empire
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire under threat
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire under threat

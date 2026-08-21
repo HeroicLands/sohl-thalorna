@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Numerology in the Empire of Tānvür
 
-In the [[doc-empiretnvr|Empire of Tānvür]], numerology plays a significant role in shaping cultural practices, beliefs, and rituals. Certain numbers carry deep symbolic weight and influence everything from wedding dates to architectural design to military strategy.
+In the [[doc-tanvurempr|Empire of Tānvür]], numerology plays a significant role in shaping cultural practices, beliefs, and rituals. Certain numbers carry deep symbolic weight and influence everything from wedding dates to architectural design to military strategy.
 
 ## Auspicious Numbers
 
@@ -60,4 +60,4 @@ While the number 6 can have positive connotations in some contexts, it is often 
 - [[doc-marriage|Marriage]] — Wedding dates and ceremonies influenced by numerology
 - [[doc-clndrstrlgy|Calendar and Astrology]] — The calendar system that numerology interacts with
 - [[doc-phlsphylvr|Philosophy of Lëivōr]] — The cosmic framework that gives numbers their meaning
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial culture
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial culture

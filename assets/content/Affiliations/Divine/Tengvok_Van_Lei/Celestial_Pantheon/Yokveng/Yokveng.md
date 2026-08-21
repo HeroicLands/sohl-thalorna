@@ -68,4 +68,4 @@ The cult of the Demon Lords among mortals — most conspicuously the [[affiliati
 - [[affiliation-hurnzhuk|Hürnzhük]], [[affiliation-vekthor|Vëkthōr]], [[affiliation-zhaksok|Zhāksōk]], [[affiliation-nushot|Nüshöt]], [[affiliation-dokyok|Dōkyök]] — The Demon Lords
 - [[affiliation-yvlesrdmns|Lesser Demons]] — The Yōkvëng under the Lords' authority
 - [[affiliation-nuszokreit|Nüszōk Rëit]] — The mortal cult that worships the Demon Lords
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows
