@@ -2,7 +2,8 @@
 aliases:
   - Aldwin Grayling
   - being-aldwngrylng
-tags: []
+tags:
+  - draft
 name:
   full: Aldwin Grayling
   title: ""
@@ -15,7 +16,6 @@ id: kDa9U4UqGWlG6g3O
 folder: elH5NDPUuiRCICrE
 shortcode: aldwngrylng
 img: icons/person.svg
-draft: true
 portrait: images/being/aldwngrylng-portrait.webp
 type: being
 package: thalorna

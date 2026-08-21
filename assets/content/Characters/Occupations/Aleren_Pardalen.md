@@ -3,7 +3,8 @@ aliases:
   - Áleren Párdalen
   - Aleren Pardalen
   - being-alernprdln
-tags: []
+tags:
+  - draft
 name:
   full: Áleren Párdalen
   title: ""
@@ -16,7 +17,6 @@ id: qcTBaH7ZIRU8VVQm
 folder: 4cwfdMa34UryZqPR
 shortcode: alernprdln
 img: icons/person.svg
-draft: true
 portrait: images/being/alernprdln-portrait.webp
 type: being
 package: thalorna

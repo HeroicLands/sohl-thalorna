@@ -3,7 +3,8 @@ aliases:
   - Gália Rálwen
   - Galia Ralwen
   - being-galiaralwn
-tags: []
+tags:
+  - draft
 name:
   full: Gália Rálwen
   title: Lady
@@ -16,7 +17,6 @@ id: l5TCfZR92uQwTeJI
 folder: J9R0fnGUTBY5z4pd
 shortcode: galiaralwn
 img: icons/person.svg
-draft: true
 portrait: images/being/galiaralwn-portrait.webp
 type: being
 package: thalorna

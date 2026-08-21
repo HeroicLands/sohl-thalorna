@@ -3,7 +3,8 @@ aliases:
   - Theódric Fróðbán
   - Theodric Froban
   - being-thdrcfrdbn
-tags: []
+tags:
+  - draft
 name:
   full: Theódric Fróðbán
   title: ""
@@ -16,7 +17,6 @@ id: cMjRC8xxCWeKiHxz
 folder: Nu7AgLZEmR26u2pk
 shortcode: thdrcfrdbn
 img: icons/person.svg
-draft: true
 portrait: images/being/thdrcfrdbn-portrait.webp
 type: being
 package: thalorna

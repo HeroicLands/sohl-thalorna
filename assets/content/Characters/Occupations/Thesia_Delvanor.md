@@ -3,7 +3,8 @@ aliases:
   - Thésia Delvánor
   - Thesia Delvanor
   - being-thesidlvnr
-tags: []
+tags:
+  - draft
 name:
   full: Thésia Delvánor
   title: ""
@@ -16,7 +17,6 @@ id: 9yvlFSFx7ZHrZfUB
 folder: 9t9O4iB5cYJtSaTG
 shortcode: thesidlvnr
 img: icons/person.svg
-draft: true
 portrait: images/being/thesidlvnr-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Azatô Dâemzânis
   - Azato Daemzanis
   - being-azatodmzns
-tags: []
+tags:
+  - draft
 name:
   full: Azatô Dâemzânis
   title: ""
@@ -16,7 +17,6 @@ id: oCLrZ3aWZkSBvrjn
 folder: UFBfgKZUF0bAE7gG
 shortcode: azatodmzns
 img: icons/person.svg
-draft: true
 portrait: images/being/azatodmzns-portrait.webp
 type: being
 package: thalorna

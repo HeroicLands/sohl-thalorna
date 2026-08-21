@@ -3,7 +3,8 @@ aliases:
   - Dânâzi Ashûdam
   - Danazi Ashudam
   - being-danazishdm
-tags: []
+tags:
+  - draft
 name:
   full: Dânâzi Ashûdam
   title: ""
@@ -16,7 +17,6 @@ id: RpF6LjoDOqDqQa5Z
 folder: PuQFDMkRM9i60i5Z
 shortcode: danazishdm
 img: icons/person.svg
-draft: true
 portrait: images/being/danazishdm-portrait.webp
 type: being
 package: thalorna

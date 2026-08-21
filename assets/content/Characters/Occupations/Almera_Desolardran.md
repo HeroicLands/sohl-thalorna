@@ -3,7 +3,8 @@ aliases:
   - Álmera Desolárdran
   - Almera Desolardran
   - being-almrdslrdrn
-tags: []
+tags:
+  - draft
 name:
   full: Álmera Desolárdran
   title: ""
@@ -16,7 +17,6 @@ id: OlZieTX8DcsmcYm4
 folder: 9t9O4iB5cYJtSaTG
 shortcode: almrdslrdrn
 img: icons/person.svg
-draft: true
 portrait: images/being/almrdslrdrn-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Hrefna Íseldr
   - Hrefna Iseldr
   - being-hrefnasldr
-tags: []
+tags:
+  - draft
 name:
   full: Hrefna Íseldr
   title: ""
@@ -16,7 +17,6 @@ id: oPj6r0jedkYtMV0K
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrefnasldr
 img: icons/person.svg
-draft: true
 portrait: images/being/hrefnasldr-portrait.webp
 type: being
 package: thalorna

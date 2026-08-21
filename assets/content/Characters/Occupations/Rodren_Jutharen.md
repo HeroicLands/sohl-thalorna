@@ -3,7 +3,8 @@ aliases:
   - Rodrén Jútharen
   - Rodren Jutharen
   - being-rodrnjthrn
-tags: []
+tags:
+  - draft
 name:
   full: Rodrén Jútharen
   title: ""
@@ -16,7 +17,6 @@ id: iZDQHJMu8W5CN0U5
 folder: 9t9O4iB5cYJtSaTG
 shortcode: rodrnjthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/rodrnjthrn-portrait.webp
 type: being
 package: thalorna

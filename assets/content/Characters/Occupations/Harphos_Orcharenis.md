@@ -3,7 +3,8 @@ aliases:
   - Harphôs Ôrchârenîs
   - Harphos Orcharenis
   - being-hrphsrchrns
-tags: []
+tags:
+  - draft
 name:
   full: Harphôs Ôrchârenîs
   title: ""
@@ -16,7 +17,6 @@ id: PPgdzUvZ3gpmmICi
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrphsrchrns
 img: icons/person.svg
-draft: true
 portrait: images/being/hrphsrchrns-portrait.webp
 type: being
 package: thalorna

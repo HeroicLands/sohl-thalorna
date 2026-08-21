@@ -3,7 +3,8 @@ aliases:
   - Tàlîma Thamîrîon
   - Talima Thamirion
   - being-talimthmrn
-tags: []
+tags:
+  - draft
 name:
   full: Tàlîma Thamîrîon
   title: ""
@@ -16,7 +17,6 @@ id: vevgJRysqU2Q96M3
 folder: gpXd1anXulwRWZqn
 shortcode: talimthmrn
 img: icons/person.svg
-draft: true
 portrait: images/being/talimthmrn-portrait.webp
 type: being
 package: thalorna

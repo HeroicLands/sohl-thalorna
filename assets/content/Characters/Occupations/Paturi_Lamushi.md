@@ -3,7 +3,8 @@ aliases:
   - Pâtûri Lamûshî
   - Paturi Lamushi
   - being-paturilmsh
-tags: []
+tags:
+  - draft
 name:
   full: Pâtûri Lamûshî
   title: ""
@@ -16,7 +17,6 @@ id: iqh4gVJjrsMnTvnR
 folder: PuQFDMkRM9i60i5Z
 shortcode: paturilmsh
 img: icons/person.svg
-draft: true
 portrait: images/being/paturilmsh-portrait.webp
 type: being
 package: thalorna

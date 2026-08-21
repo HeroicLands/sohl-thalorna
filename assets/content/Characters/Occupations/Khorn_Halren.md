@@ -3,7 +3,8 @@ aliases:
   - Khôrn Hálren
   - Khorn Halren
   - being-khornhalrn
-tags: []
+tags:
+  - draft
 name:
   full: Khôrn Hálren
   title: ""
@@ -16,7 +17,6 @@ id: Mc4BVuMqbfo9R13K
 folder: 4cwfdMa34UryZqPR
 shortcode: khornhalrn
 img: icons/person.svg
-draft: true
 portrait: images/being/khornhalrn-portrait.webp
 type: being
 package: thalorna

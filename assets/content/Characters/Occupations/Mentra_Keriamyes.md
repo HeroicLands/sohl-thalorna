@@ -3,7 +3,8 @@ aliases:
   - Mêntrâ Kêrîamyês
   - Mentra Keriamyes
   - being-mentrkrmys
-tags: []
+tags:
+  - draft
 name:
   full: Mêntrâ Kêrîamyês
   title: ""
@@ -16,7 +17,6 @@ id: sb1QzraK3RXVd6MV
 folder: UFBfgKZUF0bAE7gG
 shortcode: mentrkrmys
 img: icons/person.svg
-draft: true
 portrait: images/being/mentrkrmys-portrait.webp
 type: being
 package: thalorna

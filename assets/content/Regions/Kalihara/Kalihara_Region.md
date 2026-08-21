@@ -12,7 +12,6 @@ name:
 id: BGUFytM08ypgI0XE
 shortcode: kaliharargn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

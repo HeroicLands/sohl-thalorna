@@ -3,7 +3,8 @@ aliases:
   - Pórena Dhárel
   - Porena Dharel
   - being-porenadhrl
-tags: []
+tags:
+  - draft
 name:
   full: Pórena Dhárel
   title: ""
@@ -16,7 +17,6 @@ id: mZMi3qdPE3xJ7gT2
 folder: 4cwfdMa34UryZqPR
 shortcode: porenadhrl
 img: icons/person.svg
-draft: true
 portrait: images/being/porenadhrl-portrait.webp
 type: being
 package: thalorna

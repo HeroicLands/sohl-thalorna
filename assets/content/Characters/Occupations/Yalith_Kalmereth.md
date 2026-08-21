@@ -3,7 +3,8 @@ aliases:
   - Yálith Kálmereth
   - Yalith Kalmereth
   - being-ylthklmrth
-tags: []
+tags:
+  - draft
 name:
   full: Yálith Kálmereth
   title: ""
@@ -16,7 +17,6 @@ id: xQ8VS8IALVUj4APg
 folder: 4cwfdMa34UryZqPR
 shortcode: ylthklmrth
 img: icons/person.svg
-draft: true
 portrait: images/being/ylthklmrth-portrait.webp
 type: being
 package: thalorna

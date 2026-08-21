@@ -3,7 +3,8 @@ aliases:
   - Alváren Gráveth
   - Alvaren Graveth
   - being-alvrngrvth
-tags: []
+tags:
+  - draft
 name:
   full: Alváren Gráveth
   title: ""
@@ -16,7 +17,6 @@ id: aqypCWr9vtLUKaqP
 folder: 9t9O4iB5cYJtSaTG
 shortcode: alvrngrvth
 img: icons/person.svg
-draft: true
 portrait: images/being/alvrngrvth-portrait.webp
 type: being
 package: thalorna

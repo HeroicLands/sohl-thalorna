@@ -3,7 +3,8 @@ aliases:
   - Ghârîdos Mûrâdês
   - Gharidos Murades
   - being-ghardsmrds
-tags: []
+tags:
+  - draft
 name:
   full: Ghârîdos Mûrâdês
   title: ""
@@ -16,7 +17,6 @@ id: xR8KCDXsXyGHA9k0
 folder: gpXd1anXulwRWZqn
 shortcode: ghardsmrds
 img: icons/person.svg
-draft: true
 portrait: images/being/ghardsmrds-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Méthra Zálreth
   - Methra Zalreth
   - being-methrzlrth
-tags: []
+tags:
+  - draft
 name:
   full: Méthra Zálreth
   title: ""
@@ -16,7 +17,6 @@ id: Z51vTfGPlcpTCCHH
 folder: 4cwfdMa34UryZqPR
 shortcode: methrzlrth
 img: icons/person.svg
-draft: true
 portrait: images/being/methrzlrth-portrait.webp
 type: being
 package: thalorna

@@ -5,6 +5,7 @@ aliases:
   - being-sofntrvlth
 tags:
   - todo
+  - draft
 name:
   full: Sofíenna Torvaleth
   title: ""
@@ -17,7 +18,6 @@ id: kAP744EEPmW9susP
 folder: 9t9O4iB5cYJtSaTG
 shortcode: sofntrvlth
 img: icons/person.svg
-draft: true
 portrait: images/being/sofntrvlth-portrait.webp
 type: being
 package: thalorna

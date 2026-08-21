@@ -3,7 +3,8 @@ aliases:
   - Sâlimón Hâdrîkês
   - Salimon Hadrikes
   - being-salmnhdrks
-tags: []
+tags:
+  - draft
 name:
   full: Sâlimón Hâdrîkês
   title: ""
@@ -16,7 +17,6 @@ id: XtShO68sxNoo9iEj
 folder: gpXd1anXulwRWZqn
 shortcode: salmnhdrks
 img: icons/person.svg
-draft: true
 portrait: images/being/salmnhdrks-portrait.webp
 type: being
 package: thalorna

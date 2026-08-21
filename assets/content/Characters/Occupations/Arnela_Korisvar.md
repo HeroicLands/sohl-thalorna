@@ -3,7 +3,8 @@ aliases:
   - Ârnela Kórisvar
   - Arnela Korisvar
   - being-arnelkrsvr
-tags: []
+tags:
+  - draft
 name:
   full: Ârnela Kórisvar
   title: Lady
@@ -16,7 +17,6 @@ id: uPeCDRHwi41XJOLl
 folder: J9R0fnGUTBY5z4pd
 shortcode: arnelkrsvr
 img: icons/person.svg
-draft: true
 portrait: images/being/arnelkrsvr-portrait.webp
 type: being
 package: thalorna

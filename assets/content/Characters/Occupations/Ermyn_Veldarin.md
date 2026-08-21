@@ -5,6 +5,7 @@ aliases:
   - being-ermynvldrn
 tags:
   - todo-warrior
+  - draft
 name:
   full: Êrmyn Véldarin
   title: ""
@@ -16,7 +17,6 @@ id: QnBow8w3Ndr86Zfn
 folder: 4cwfdMa34UryZqPR
 shortcode: ermynvldrn
 img: icons/person.svg
-draft: true
 portrait: images/being/ermynvldrn-portrait.webp
 type: being
 package: thalorna

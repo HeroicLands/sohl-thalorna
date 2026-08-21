@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Summary of Provenzia
   - doc-sumryprvnz
@@ -8,7 +10,6 @@ name:
   full: Summary of Provènzia
   aliases: []
 shortcode: sumryprvnz
-draft: true
 package: thalorna
 folder: 9TmLIkGXGHMtFxzy
 thalorna:

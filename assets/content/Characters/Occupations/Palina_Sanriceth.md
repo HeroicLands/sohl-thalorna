@@ -5,6 +5,7 @@ aliases:
   - being-palnsnrcth
 tags:
   - todo
+  - draft
 name:
   full: Pálina Sánriceth
   title: ""
@@ -17,7 +18,6 @@ id: XN6E32VUdTiHnJuQ
 folder: 9t9O4iB5cYJtSaTG
 shortcode: palnsnrcth
 img: icons/person.svg
-draft: true
 portrait: images/being/palnsnrcth-portrait.webp
 type: being
 package: thalorna

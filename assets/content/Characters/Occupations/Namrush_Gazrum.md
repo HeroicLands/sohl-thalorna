@@ -5,6 +5,7 @@ aliases:
   - being-namrshgzrm
 tags:
   - todo-warrior
+  - draft
 name:
   full: Namrûsh Gazrûm
   title: ""
@@ -16,7 +17,6 @@ id: h7ug0g4ai18eWqMy
 folder: PuQFDMkRM9i60i5Z
 shortcode: namrshgzrm
 img: icons/person.svg
-draft: true
 portrait: images/being/namrshgzrm-portrait.webp
 type: being
 package: thalorna

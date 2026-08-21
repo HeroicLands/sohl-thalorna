@@ -3,7 +3,8 @@ aliases:
   - Déraen Kálmereth
   - Deraen Kalmereth
   - being-dernklmrth
-tags: []
+tags:
+  - draft
 name:
   full: Déraen Kálmereth
   title: ""
@@ -16,7 +17,6 @@ id: xSpdQhDtkzRG754T
 folder: 4cwfdMa34UryZqPR
 shortcode: dernklmrth
 img: icons/person.svg
-draft: true
 portrait: images/being/dernklmrth-portrait.webp
 type: being
 package: thalorna

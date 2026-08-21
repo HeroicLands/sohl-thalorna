@@ -3,7 +3,8 @@ aliases:
   - Dómeth Maríthran
   - Dometh Marithran
   - being-dmthmrthrn
-tags: []
+tags:
+  - draft
 name:
   full: Dómeth Maríthran
   title: ""
@@ -16,7 +17,6 @@ id: tKR69yz8TmeLS1Op
 folder: 9t9O4iB5cYJtSaTG
 shortcode: dmthmrthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/dmthmrthrn-portrait.webp
 type: being
 package: thalorna

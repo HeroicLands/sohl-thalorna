@@ -3,7 +3,8 @@ aliases:
   - Edrígar Sundrýth
   - Edrigar Sundryth
   - being-edrgrsndryth
-tags: []
+tags:
+  - draft
 name:
   full: Edrígar Sundrýth
   title: ""
@@ -16,7 +17,6 @@ id: XqTCnNsS6Fmhi2eC
 folder: Nu7AgLZEmR26u2pk
 shortcode: edrgrsndryth
 img: icons/person.svg
-draft: true
 portrait: images/being/edrgrsndryth-portrait.webp
 type: being
 package: thalorna

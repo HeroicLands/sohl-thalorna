@@ -3,7 +3,8 @@ aliases:
   - Estára Sánriceth
   - Estara Sanriceth
   - being-estrsnrcth
-tags: []
+tags:
+  - draft
 name:
   full: Estára Sánriceth
   title: ""
@@ -16,7 +17,6 @@ id: WKyEa8wtWy2591AI
 folder: 9t9O4iB5cYJtSaTG
 shortcode: estrsnrcth
 img: icons/person.svg
-draft: true
 portrait: images/being/estrsnrcth-portrait.webp
 type: being
 package: thalorna

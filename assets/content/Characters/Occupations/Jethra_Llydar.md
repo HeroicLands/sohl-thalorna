@@ -3,7 +3,8 @@ aliases:
   - Jéthra Llýdar
   - Jethra Llydar
   - being-jethralydr
-tags: []
+tags:
+  - draft
 name:
   full: Jéthra Llýdar
   title: ""
@@ -16,7 +17,6 @@ id: VLB5LzxoiGFfWd3h
 folder: 4cwfdMa34UryZqPR
 shortcode: jethralydr
 img: icons/person.svg
-draft: true
 portrait: images/being/jethralydr-portrait.webp
 type: being
 package: thalorna

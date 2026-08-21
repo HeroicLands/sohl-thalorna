@@ -3,7 +3,8 @@ aliases:
   - Lýrena Tólgen
   - Lyrena Tolgen
   - being-lyrenatlgn
-tags: []
+tags:
+  - draft
 name:
   full: Lýrena Tólgen
   title: ""
@@ -16,7 +17,6 @@ id: CcLxUif6suVAlmiY
 folder: J9R0fnGUTBY5z4pd
 shortcode: lyrenatlgn
 img: icons/person.svg
-draft: true
 portrait: images/being/lyrenatlgn-portrait.webp
 type: being
 package: thalorna

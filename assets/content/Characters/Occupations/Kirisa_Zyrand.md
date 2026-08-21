@@ -3,7 +3,8 @@ aliases:
   - Kírisa Zýrand
   - Kirisa Zyrand
   - being-kiriszyrnd
-tags: []
+tags:
+  - draft
 name:
   full: Kírisa Zýrand
   title: ""
@@ -16,7 +17,6 @@ id: avXiOqkVCJTBJahe
 folder: J9R0fnGUTBY5z4pd
 shortcode: kiriszyrnd
 img: icons/person.svg
-draft: true
 portrait: images/being/kiriszyrnd-portrait.webp
 type: being
 package: thalorna

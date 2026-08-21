@@ -3,7 +3,8 @@ aliases:
   - Zálren Lýskal
   - Zalren Lyskal
   - being-zalrnlyskl
-tags: []
+tags:
+  - draft
 name:
   full: Zálren Lýskal
   title: ""
@@ -16,7 +17,6 @@ id: kaACSMEscosTsS3D
 folder: J9R0fnGUTBY5z4pd
 shortcode: zalrnlyskl
 img: icons/person.svg
-draft: true
 portrait: images/being/zalrnlyskl-portrait.webp
 type: being
 package: thalorna

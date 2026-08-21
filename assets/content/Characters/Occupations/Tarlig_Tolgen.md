@@ -3,7 +3,8 @@ aliases:
   - Târlig Tólgen
   - Tarlig Tolgen
   - being-tarligtlgn
-tags: []
+tags:
+  - draft
 name:
   full: Târlig Tólgen
   title: ""
@@ -16,7 +17,6 @@ id: d8woPeX9PcWb8pm1
 folder: J9R0fnGUTBY5z4pd
 shortcode: tarligtlgn
 img: icons/person.svg
-draft: true
 portrait: images/being/tarligtlgn-portrait.webp
 type: being
 package: thalorna

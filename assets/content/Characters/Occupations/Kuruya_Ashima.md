@@ -3,7 +3,8 @@ aliases:
   - Kûrûya Ashîmâ
   - Kuruya Ashima
   - being-kuruyashim
-tags: []
+tags:
+  - draft
 name:
   full: Kûrûya Ashîmâ
   title: ""
@@ -16,7 +17,6 @@ id: 9dq83Eh0ezFeKORd
 folder: PuQFDMkRM9i60i5Z
 shortcode: kuruyashim
 img: icons/person.svg
-draft: true
 portrait: images/being/kuruyashim-portrait.webp
 type: being
 package: thalorna

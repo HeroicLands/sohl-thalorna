@@ -2,7 +2,8 @@
 aliases:
   - Leofric Barnwell
   - being-lefrcbrnwl
-tags: []
+tags:
+  - draft
 name:
   full: Leofric Barnwell
   title: ""
@@ -15,7 +16,6 @@ id: AEDnvMju3TuU3wzi
 folder: elH5NDPUuiRCICrE
 shortcode: lefrcbrnwl
 img: icons/person.svg
-draft: true
 portrait: images/being/lefrcbrnwl-portrait.webp
 type: being
 package: thalorna

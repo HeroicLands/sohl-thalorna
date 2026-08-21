@@ -3,7 +3,8 @@ aliases:
   - Skaldár Balthhelm
   - Skaldar Balthhelm
   - being-skldrblthlm
-tags: []
+tags:
+  - draft
 name:
   full: Skaldár Balthhelm
   title: ""
@@ -16,7 +17,6 @@ id: pUAFJWpSEPTFCYbf
 folder: Nu7AgLZEmR26u2pk
 shortcode: skldrblthlm
 img: icons/person.svg
-draft: true
 portrait: images/being/skldrblthlm-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Úrelè Rálwen
   - Urele Ralwen
   - being-ureleralwn
-tags: []
+tags:
+  - draft
 name:
   full: Úrelè Rálwen
   title: ""
@@ -16,7 +17,6 @@ id: P9tEpZZRztDeSdkC
 folder: J9R0fnGUTBY5z4pd
 shortcode: ureleralwn
 img: icons/person.svg
-draft: true
 portrait: images/being/ureleralwn-portrait.webp
 type: being
 package: thalorna

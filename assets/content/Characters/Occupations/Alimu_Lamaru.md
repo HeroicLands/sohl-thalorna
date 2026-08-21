@@ -3,7 +3,8 @@ aliases:
   - Alîmû Lâmarû
   - Alimu Lamaru
   - being-alimulamar
-tags: []
+tags:
+  - draft
 name:
   full: Alîmû Lâmarû
   title: ""
@@ -16,7 +17,6 @@ id: aMuFbh7x41Ztpdp4
 folder: PuQFDMkRM9i60i5Z
 shortcode: alimulamar
 img: icons/person.svg
-draft: true
 portrait: images/being/alimulamar-portrait.webp
 type: being
 package: thalorna

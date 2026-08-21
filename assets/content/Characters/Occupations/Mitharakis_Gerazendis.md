@@ -3,7 +3,8 @@ aliases:
   - Mitharâkîs Gêrazêndis
   - Mitharakis Gerazendis
   - being-mthrksgrznds
-tags: []
+tags:
+  - draft
 name:
   full: Mitharâkîs Gêrazêndis
   title: ""
@@ -16,7 +17,6 @@ id: wwU90P0jpgjqmlMj
 folder: UFBfgKZUF0bAE7gG
 shortcode: mthrksgrznds
 img: icons/person.svg
-draft: true
 portrait: images/being/mthrksgrznds-portrait.webp
 type: being
 package: thalorna

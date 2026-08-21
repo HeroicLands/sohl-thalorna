@@ -3,7 +3,8 @@ aliases:
   - Vólyra Brýlond
   - Volyra Brylond
   - being-vlyrbrylnd
-tags: []
+tags:
+  - draft
 name:
   full: Vólyra Brýlond
   title: ""
@@ -16,7 +17,6 @@ id: bNjpiEQhK8nDSqXx
 folder: J9R0fnGUTBY5z4pd
 shortcode: vlyrbrylnd
 img: icons/person.svg
-draft: true
 portrait: images/being/vlyrbrylnd-portrait.webp
 type: being
 package: thalorna

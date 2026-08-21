@@ -3,7 +3,8 @@ aliases:
   - Wítharic Druthgar
   - Witharic Druthgar
   - being-wthrcdrthgr
-tags: []
+tags:
+  - draft
 name:
   full: Wítharic Druthgar
   title: ""
@@ -16,7 +17,6 @@ id: mjbcpEN2XeDA4OKm
 folder: Nu7AgLZEmR26u2pk
 shortcode: wthrcdrthgr
 img: icons/person.svg
-draft: true
 portrait: images/being/wthrcdrthgr-portrait.webp
 type: being
 package: thalorna

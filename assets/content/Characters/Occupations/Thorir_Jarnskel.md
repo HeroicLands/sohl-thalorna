@@ -3,7 +3,8 @@ aliases:
   - Thórir Járnskel
   - Thorir Jarnskel
   - being-thrrjrnskl
-tags: []
+tags:
+  - draft
 name:
   full: Thórir Járnskel
   title: ""
@@ -16,7 +17,6 @@ id: xBe8Q6vNuQ2hU5tG
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrrjrnskl
 img: icons/person.svg
-draft: true
 portrait: images/being/thrrjrnskl-portrait.webp
 type: being
 package: thalorna

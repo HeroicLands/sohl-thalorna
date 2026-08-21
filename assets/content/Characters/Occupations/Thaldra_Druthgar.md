@@ -3,7 +3,8 @@ aliases:
   - Thaldrá Druthgar
   - Thaldra Druthgar
   - being-thldrdrthgr
-tags: []
+tags:
+  - draft
 name:
   full: Thaldrá Druthgar
   title: ""
@@ -17,7 +18,6 @@ id: XiXPUP9Ax5yC366y
 folder: Nu7AgLZEmR26u2pk
 shortcode: thldrdrthgr
 img: icons/person.svg
-draft: true
 portrait: images/being/thldrdrthgr-portrait.webp
 type: being
 package: thalorna

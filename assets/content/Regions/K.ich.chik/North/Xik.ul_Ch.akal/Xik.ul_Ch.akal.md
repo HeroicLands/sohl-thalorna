@@ -12,7 +12,6 @@ name:
 id: eCY7rYlyp689dNR7
 shortcode: xikulchakl
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

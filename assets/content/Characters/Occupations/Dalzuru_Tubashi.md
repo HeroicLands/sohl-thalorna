@@ -3,7 +3,8 @@ aliases:
   - Dalzûru Tûbashî
   - Dalzuru Tubashi
   - being-dalzurtbsh
-tags: []
+tags:
+  - draft
 name:
   full: Dalzûru Tûbashî
   title: ""
@@ -16,7 +17,6 @@ id: RWUXQR1iOg5OPctY
 folder: PuQFDMkRM9i60i5Z
 shortcode: dalzurtbsh
 img: icons/person.svg
-draft: true
 portrait: images/being/dalzurtbsh-portrait.webp
 type: being
 package: thalorna

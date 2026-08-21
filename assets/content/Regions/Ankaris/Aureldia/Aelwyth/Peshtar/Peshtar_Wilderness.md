@@ -13,7 +13,6 @@ name:
 id: zb5DAPGsJEJHjycA
 shortcode: pshtrwldrns
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

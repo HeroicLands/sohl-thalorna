@@ -3,7 +3,8 @@ aliases:
   - Zahîra Tâbîrês
   - Zahira Tabires
   - being-zahiratbrs
-tags: []
+tags:
+  - draft
 name:
   full: Zahîra Tâbîrês
   title: ""
@@ -16,7 +17,6 @@ id: QbfPBi3DldqyunDu
 folder: gpXd1anXulwRWZqn
 shortcode: zahiratbrs
 img: icons/person.svg
-draft: true
 portrait: images/being/zahiratbrs-portrait.webp
 type: being
 package: thalorna

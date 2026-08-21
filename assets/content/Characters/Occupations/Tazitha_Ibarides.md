@@ -3,7 +3,8 @@ aliases:
   - Tázîtha Ibârîdês
   - Tazitha Ibarides
   - being-tazithbrds
-tags: []
+tags:
+  - draft
 name:
   full: Tázîtha Ibârîdês
   title: ""
@@ -16,7 +17,6 @@ id: JQTFjmsn9dLVIdVu
 folder: gpXd1anXulwRWZqn
 shortcode: tazithbrds
 img: icons/person.svg
-draft: true
 portrait: images/being/tazithbrds-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Marzûna Ashûram
   - Marzuna Ashuram
   - being-marzunshrm
-tags: []
+tags:
+  - draft
 name:
   full: Marzûna Ashûram
   title: ""
@@ -16,7 +17,6 @@ id: TBkSCwCcU36wNBrO
 folder: PuQFDMkRM9i60i5Z
 shortcode: marzunshrm
 img: icons/person.svg
-draft: true
 portrait: images/being/marzunshrm-portrait.webp
 type: being
 package: thalorna

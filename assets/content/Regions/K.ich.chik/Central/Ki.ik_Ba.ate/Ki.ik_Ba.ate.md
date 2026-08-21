@@ -12,7 +12,6 @@ name:
 id: Avuq4GMpQsnkMxsl
 shortcode: kiikbaate
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

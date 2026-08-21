@@ -3,7 +3,8 @@ aliases:
   - Kyàsârâ Kâselmakîs
   - Kyasara Kaselmakis
   - being-kysrkslmks
-tags: []
+tags:
+  - draft
 name:
   full: Kyàsârâ Kâselmakîs
   title: ""
@@ -16,7 +17,6 @@ id: gSXt2RMZhYKYcwIB
 folder: UFBfgKZUF0bAE7gG
 shortcode: kysrkslmks
 img: icons/person.svg
-draft: true
 portrait: images/being/kysrkslmks-portrait.webp
 type: being
 package: thalorna

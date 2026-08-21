@@ -3,7 +3,8 @@ aliases:
   - Chánnâon Hàbîlês
   - Channaon Habiles
   - being-chananhbls
-tags: []
+tags:
+  - draft
 name:
   full: Chánnâon Hàbîlês
   title: ""
@@ -16,7 +17,6 @@ id: CpWDKNQyvbF2ulFn
 folder: gpXd1anXulwRWZqn
 shortcode: chananhbls
 img: icons/person.svg
-draft: true
 portrait: images/being/chananhbls-portrait.webp
 type: being
 package: thalorna

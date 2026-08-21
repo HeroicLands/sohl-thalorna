@@ -3,7 +3,8 @@ aliases:
   - Nílara Tólgen
   - Nilara Tolgen
   - being-nilaratlgn
-tags: []
+tags:
+  - draft
 name:
   full: Nílara Tólgen
   title: ""
@@ -16,7 +17,6 @@ id: uquhXz3G0aQ3IDAd
 folder: J9R0fnGUTBY5z4pd
 shortcode: nilaratlgn
 img: icons/person.svg
-draft: true
 portrait: images/being/nilaratlgn-portrait.webp
 type: being
 package: thalorna

@@ -12,7 +12,6 @@ name:
 id: 9xRn32VR19yOu6Y7
 shortcode: tzikinbalm
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

@@ -3,7 +3,8 @@ aliases:
   - Harpêros Vârkrâtys
   - Harperos Varkratys
   - being-hrprsvrkrtys
-tags: []
+tags:
+  - draft
 name:
   full: Harpêros Vârkrâtys
   title: ""
@@ -16,7 +17,6 @@ id: mHxNWFOCWdnrJi7s
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrprsvrkrtys
 img: icons/person.svg
-draft: true
 portrait: images/being/hrprsvrkrtys-portrait.webp
 type: being
 package: thalorna

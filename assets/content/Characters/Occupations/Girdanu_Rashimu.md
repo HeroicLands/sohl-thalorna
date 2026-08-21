@@ -3,7 +3,8 @@ aliases:
   - Girdanû Rashîmû
   - Girdanu Rashimu
   - being-girdanrshm
-tags: []
+tags:
+  - draft
 name:
   full: Girdanû Rashîmû
   title: ""
@@ -16,7 +17,6 @@ id: D5sRIkeC8wLtO9BS
 folder: PuQFDMkRM9i60i5Z
 shortcode: girdanrshm
 img: icons/person.svg
-draft: true
 portrait: images/being/girdanrshm-portrait.webp
 type: being
 package: thalorna

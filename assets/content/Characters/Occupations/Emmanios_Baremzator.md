@@ -5,6 +5,7 @@ aliases:
   - being-emnsbrmztr
 tags:
   - todo
+  - draft
 name:
   full: Émmanîôs Bàremzâtôr
   title: ""
@@ -17,7 +18,6 @@ id: s9Tfw7CPqVEnm0Ir
 folder: UFBfgKZUF0bAE7gG
 shortcode: emnsbrmztr
 img: icons/person.svg
-draft: true
 portrait: images/being/emnsbrmztr-portrait.webp
 type: being
 package: thalorna

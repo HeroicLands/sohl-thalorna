@@ -2,7 +2,8 @@
 aliases:
   - Maud Osgood
   - being-maudosgood
-tags: []
+tags:
+  - draft
 name:
   full: Maud Osgood
   title: ""
@@ -15,7 +16,6 @@ id: 8aRUhR4IWrXPvhsB
 folder: elH5NDPUuiRCICrE
 shortcode: maudosgood
 img: icons/person.svg
-draft: true
 portrait: images/being/maudosgood-portrait.webp
 type: being
 package: thalorna

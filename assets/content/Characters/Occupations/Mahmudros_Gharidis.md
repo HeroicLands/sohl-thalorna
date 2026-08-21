@@ -3,7 +3,8 @@ aliases:
   - Maḥmûdrós Gharîdís
   - Mahmudros Gharidis
   - being-mmdrsghrds
-tags: []
+tags:
+  - draft
 name:
   full: Maḥmûdrós Gharîdís
   title: ""
@@ -16,7 +17,6 @@ id: FT6Ce5fuMjeirNOL
 folder: gpXd1anXulwRWZqn
 shortcode: mmdrsghrds
 img: icons/person.svg
-draft: true
 portrait: images/being/mmdrsghrds-portrait.webp
 type: being
 package: thalorna

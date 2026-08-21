@@ -11,7 +11,6 @@ name:
 id: nEilLlvuZtCgyFqW
 shortcode: balamkul
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

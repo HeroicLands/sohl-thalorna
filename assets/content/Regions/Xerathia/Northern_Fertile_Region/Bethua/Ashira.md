@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Ashíra
   - Ashira
@@ -13,7 +15,6 @@ languages:
 pantheons:
   - arldnpnthn
 package: thalorna
-draft: true
 name:
   full: Ashíra
   aliases: []

@@ -3,7 +3,8 @@ aliases:
   - Thêrèssa Hàbîlês
   - Theressa Habiles
   - being-thereshbls
-tags: []
+tags:
+  - draft
 name:
   full: Thêrèssa Hàbîlês
   title: ""
@@ -16,7 +17,6 @@ id: shKRIy5z0w9XZjsc
 folder: gpXd1anXulwRWZqn
 shortcode: thereshbls
 img: icons/person.svg
-draft: true
 portrait: images/being/thereshbls-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Mákrion Nâfrinês
   - Makrion Nafrines
   - being-makrinfrns
-tags: []
+tags:
+  - draft
 name:
   full: Mákrion Nâfrinês
   title: ""
@@ -16,7 +17,6 @@ id: jOkYRBMeyyMDHqJ3
 folder: gpXd1anXulwRWZqn
 shortcode: makrinfrns
 img: icons/person.svg
-draft: true
 portrait: images/being/makrinfrns-portrait.webp
 type: being
 package: thalorna

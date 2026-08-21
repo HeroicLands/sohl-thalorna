@@ -3,7 +3,8 @@ aliases:
   - Zádìmêros Mâkîthôn
   - Zadimeros Makithon
   - being-zdmrsmkthn
-tags: []
+tags:
+  - draft
 name:
   full: Zádìmêros Mâkîthôn
   title: ""
@@ -16,7 +17,6 @@ id: tzQPxC5HChpoevbL
 folder: gpXd1anXulwRWZqn
 shortcode: zdmrsmkthn
 img: icons/person.svg
-draft: true
 portrait: images/being/zdmrsmkthn-portrait.webp
 type: being
 package: thalorna

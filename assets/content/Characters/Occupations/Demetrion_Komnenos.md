@@ -5,6 +5,7 @@ aliases:
   - being-dmtrnkmnns
 tags:
   - todo-warrior
+  - draft
 name:
   full: Demétrion Komnênos
   title: ""
@@ -16,7 +17,6 @@ id: 467s1XDeUnPPy0If
 folder: b81DHx3S7C9ep13E
 shortcode: dmtrnkmnns
 img: icons/person.svg
-draft: true
 portrait: images/being/dmtrnkmnns-portrait.webp
 type: being
 package: thalorna

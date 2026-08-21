@@ -3,7 +3,8 @@ aliases:
   - Ívelyn Zálreth
   - Ivelyn Zalreth
   - being-ivlynzlrth
-tags: []
+tags:
+  - draft
 name:
   full: Ívelyn Zálreth
   title: ""
@@ -16,7 +17,6 @@ id: 9Vg8WnOnqQfkplJe
 folder: 4cwfdMa34UryZqPR
 shortcode: ivlynzlrth
 img: icons/person.svg
-draft: true
 portrait: images/being/ivlynzlrth-portrait.webp
 type: being
 package: thalorna

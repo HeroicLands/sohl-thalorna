@@ -3,7 +3,8 @@ aliases:
   - Kólrith Delvánor
   - Kolrith Delvanor
   - being-klrthdlvnr
-tags: []
+tags:
+  - draft
 name:
   full: Kólrith Delvánor
   title: ""
@@ -16,7 +17,6 @@ id: 9pnLwddsFM41PREs
 folder: 9t9O4iB5cYJtSaTG
 shortcode: klrthdlvnr
 img: icons/person.svg
-draft: true
 portrait: images/being/klrthdlvnr-portrait.webp
 type: being
 package: thalorna

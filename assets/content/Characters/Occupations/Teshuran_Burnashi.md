@@ -3,7 +3,8 @@ aliases:
   - Teshûran Bûrnashî
   - Teshuran Burnashi
   - being-tshrnbrnsh
-tags: []
+tags:
+  - draft
 name:
   full: Teshûran Bûrnashî
   title: ""
@@ -16,7 +17,6 @@ id: u5IfijoySjTneAAv
 folder: PuQFDMkRM9i60i5Z
 shortcode: tshrnbrnsh
 img: icons/person.svg
-draft: true
 portrait: images/being/tshrnbrnsh-portrait.webp
 type: being
 package: thalorna

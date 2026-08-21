@@ -2,7 +2,8 @@
 aliases:
   - Leofrun Chilwell
   - being-lefrnchlwl
-tags: []
+tags:
+  - draft
 name:
   full: Leofrun Chilwell
   title: ""
@@ -15,7 +16,6 @@ id: WSlmnVErULWHMsg1
 folder: elH5NDPUuiRCICrE
 shortcode: lefrnchlwl
 img: icons/person.svg
-draft: true
 portrait: images/being/lefrnchlwl-portrait.webp
 type: being
 package: thalorna

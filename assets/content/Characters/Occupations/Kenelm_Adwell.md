@@ -2,7 +2,8 @@
 aliases:
   - Kenelm Adwell
   - being-kenelmadwl
-tags: []
+tags:
+  - draft
 name:
   full: Kenelm Adwell
   title: ""
@@ -15,7 +16,6 @@ id: cu7tGz0IEqcWPmsw
 folder: elH5NDPUuiRCICrE
 shortcode: kenelmadwl
 img: icons/person.svg
-draft: true
 portrait: images/being/kenelmadwl-portrait.webp
 type: being
 package: thalorna

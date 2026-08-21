@@ -3,7 +3,8 @@ aliases:
   - Pitûrû Tûbanî
   - Pituru Tubani
   - being-piturutubn
-tags: []
+tags:
+  - draft
 name:
   full: Pitûrû Tûbanî
   title: ""
@@ -16,7 +17,6 @@ id: Nkxx6syAXvRMdYOP
 folder: PuQFDMkRM9i60i5Z
 shortcode: piturutubn
 img: icons/person.svg
-draft: true
 portrait: images/being/piturutubn-portrait.webp
 type: being
 package: thalorna

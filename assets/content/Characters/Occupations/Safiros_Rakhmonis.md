@@ -3,7 +3,8 @@ aliases:
   - Sàfîros Râkhmônis
   - Safiros Rakhmonis
   - being-sfrsrkhmns
-tags: []
+tags:
+  - draft
 name:
   full: Sàfîros Râkhmônis
   title: ""
@@ -16,7 +17,6 @@ id: 6rlLBO0FfEwAvuQg
 folder: gpXd1anXulwRWZqn
 shortcode: sfrsrkhmns
 img: icons/person.svg
-draft: true
 portrait: images/being/sfrsrkhmns-portrait.webp
 type: being
 package: thalorna

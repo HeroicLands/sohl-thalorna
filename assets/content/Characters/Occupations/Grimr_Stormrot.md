@@ -3,7 +3,8 @@ aliases:
   - Grímr Stormrót
   - Grimr Stormrot
   - being-grmrstrmrt
-tags: []
+tags:
+  - draft
 name:
   full: Grímr Stormrót
   title: ""
@@ -16,7 +17,6 @@ id: T8ftJyPYv0iQS18V
 folder: Ka9XqaF27b0I3Gmq
 shortcode: grmrstrmrt
 img: icons/person.svg
-draft: true
 portrait: images/being/grmrstrmrt-portrait.webp
 type: being
 package: thalorna

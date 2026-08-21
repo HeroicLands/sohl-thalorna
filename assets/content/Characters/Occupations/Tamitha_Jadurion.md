@@ -3,7 +3,8 @@ aliases:
   - Tamîtha Jâdurîon
   - Tamitha Jadurion
   - being-tamithjdrn
-tags: []
+tags:
+  - draft
 name:
   full: Tamîtha Jâdurîon
   title: ""
@@ -16,7 +17,6 @@ id: xobu7g1TPvYjics6
 folder: gpXd1anXulwRWZqn
 shortcode: tamithjdrn
 img: icons/person.svg
-draft: true
 portrait: images/being/tamithjdrn-portrait.webp
 type: being
 package: thalorna

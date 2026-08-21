@@ -3,7 +3,8 @@ aliases:
   - Júbênós Safîthês
   - Jubenos Safithes
   - being-jubensfths
-tags: []
+tags:
+  - draft
 name:
   full: Júbênós Safîthês
   title: ""
@@ -16,7 +17,6 @@ id: x57Y3c5wnRpQgwXJ
 folder: gpXd1anXulwRWZqn
 shortcode: jubensfths
 img: icons/person.svg
-draft: true
 portrait: images/being/jubensfths-portrait.webp
 type: being
 package: thalorna

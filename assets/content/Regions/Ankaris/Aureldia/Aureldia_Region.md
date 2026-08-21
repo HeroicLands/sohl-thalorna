@@ -16,7 +16,6 @@ name:
 id: 7r7X4XximAt5POjG
 shortcode: aureldirgn
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

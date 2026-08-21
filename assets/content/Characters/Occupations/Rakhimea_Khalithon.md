@@ -3,7 +3,8 @@ aliases:
   - Ràkhîmêa Khalîthôn
   - Rakhimea Khalithon
   - being-rkhmkhlthn
-tags: []
+tags:
+  - draft
 name:
   full: Ràkhîmêa Khalîthôn
   title: ""
@@ -16,7 +17,6 @@ id: JvQhAw3Q8WB36Ud9
 folder: gpXd1anXulwRWZqn
 shortcode: rkhmkhlthn
 img: icons/person.svg
-draft: true
 portrait: images/being/rkhmkhlthn-portrait.webp
 type: being
 package: thalorna

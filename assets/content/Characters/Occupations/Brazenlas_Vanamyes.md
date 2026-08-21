@@ -3,7 +3,8 @@ aliases:
   - Bràzenlâs Vânamyês
   - Brazenlas Vanamyes
   - being-brznlsvnmys
-tags: []
+tags:
+  - draft
 name:
   full: Bràzenlâs Vânamyês
   title: ""
@@ -16,7 +17,6 @@ id: GTrA1EEpDJjym6MG
 folder: UFBfgKZUF0bAE7gG
 shortcode: brznlsvnmys
 img: icons/person.svg
-draft: true
 portrait: images/being/brznlsvnmys-portrait.webp
 type: being
 package: thalorna

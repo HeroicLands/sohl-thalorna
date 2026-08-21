@@ -3,7 +3,8 @@ aliases:
   - Rádrún Vithrúnd
   - Radrun Vithrund
   - being-rdrnvthrnd
-tags: []
+tags:
+  - draft
 name:
   full: Rádrún Vithrúnd
   title: ""
@@ -16,7 +17,6 @@ id: XsTnSTFuEwJ77YUr
 folder: Nu7AgLZEmR26u2pk
 shortcode: rdrnvthrnd
 img: icons/person.svg
-draft: true
 portrait: images/being/rdrnvthrnd-portrait.webp
 type: being
 package: thalorna

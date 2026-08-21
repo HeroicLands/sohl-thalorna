@@ -3,7 +3,8 @@ aliases:
   - Tavíro Delvánor
   - Taviro Delvanor
   - being-tavirdlvnr
-tags: []
+tags:
+  - draft
 name:
   full: Tavíro Delvánor
   title: ""
@@ -16,7 +17,6 @@ id: yfR9Q3IiP3whlIzH
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tavirdlvnr
 img: icons/person.svg
-draft: true
 portrait: images/being/tavirdlvnr-portrait.webp
 type: being
 package: thalorna

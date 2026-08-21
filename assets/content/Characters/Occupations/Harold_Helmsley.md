@@ -2,7 +2,8 @@
 aliases:
   - Harold Helmsley
   - being-hrldhlmsly
-tags: []
+tags:
+  - draft
 name:
   full: Harold Helmsley
   title: ""
@@ -15,7 +16,6 @@ id: ecQoXsf2o3gyrDO1
 folder: elH5NDPUuiRCICrE
 shortcode: hrldhlmsly
 img: icons/person.svg
-draft: true
 portrait: images/being/hrldhlmsly-portrait.webp
 type: being
 package: thalorna

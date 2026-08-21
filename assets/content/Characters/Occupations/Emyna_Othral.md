@@ -3,7 +3,8 @@ aliases:
   - Émyna Óthral
   - Emyna Othral
   - being-emynaothrl
-tags: []
+tags:
+  - draft
 name:
   full: Émyna Óthral
   title: ""
@@ -16,7 +17,6 @@ id: 43ANVj77p3kZZl4A
 folder: 4cwfdMa34UryZqPR
 shortcode: emynaothrl
 img: icons/person.svg
-draft: true
 portrait: images/being/emynaothrl-portrait.webp
 type: being
 package: thalorna

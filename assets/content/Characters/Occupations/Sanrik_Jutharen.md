@@ -3,7 +3,8 @@ aliases:
   - Sánrik Jútharen
   - Sanrik Jutharen
   - being-sanrkjthrn
-tags: []
+tags:
+  - draft
 name:
   full: Sánrik Jútharen
   title: ""
@@ -16,7 +17,6 @@ id: F155sXZoMZwoOmNq
 folder: 9t9O4iB5cYJtSaTG
 shortcode: sanrkjthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/sanrkjthrn-portrait.webp
 type: being
 package: thalorna

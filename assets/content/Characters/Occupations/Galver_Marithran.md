@@ -3,7 +3,8 @@ aliases:
   - Gálver Maríthran
   - Galver Marithran
   - being-glvrmrthrn
-tags: []
+tags:
+  - draft
 name:
   full: Gálver Maríthran
   title: ""
@@ -16,7 +17,6 @@ id: 1ES1iWTECNa5fbqn
 folder: 9t9O4iB5cYJtSaTG
 shortcode: glvrmrthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/glvrmrthrn-portrait.webp
 type: being
 package: thalorna

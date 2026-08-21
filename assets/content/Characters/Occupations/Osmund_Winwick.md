@@ -2,7 +2,8 @@
 aliases:
   - Osmund Winwick
   - being-osmndwnwck
-tags: []
+tags:
+  - draft
 name:
   full: Osmund Winwick
   title: ""
@@ -15,7 +16,6 @@ id: 1jJ8UMHBhXspthdp
 folder: elH5NDPUuiRCICrE
 shortcode: osmndwnwck
 img: icons/person.svg
-draft: true
 portrait: images/being/osmndwnwck-portrait.webp
 type: being
 package: thalorna

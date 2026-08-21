@@ -3,7 +3,8 @@ aliases:
   - Dékêla Bàremzâtês
   - Dekela Baremzates
   - being-deklbrmzts
-tags: []
+tags:
+  - draft
 name:
   full: Dékêla Bàremzâtês
   title: ""
@@ -16,7 +17,6 @@ id: KJmxJseyGCWJr0NR
 folder: UFBfgKZUF0bAE7gG
 shortcode: deklbrmzts
 img: icons/person.svg
-draft: true
 portrait: images/being/deklbrmzts-portrait.webp
 type: being
 package: thalorna

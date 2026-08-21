@@ -2,7 +2,8 @@
 aliases:
   - Erthran Hildvith
   - being-erthrnhldvth
-tags: []
+tags:
+  - draft
 name:
   full: Erthran Hildvith
   title: ""
@@ -15,7 +16,6 @@ id: vwSDrtqohUmuhVI8
 folder: Nu7AgLZEmR26u2pk
 shortcode: erthrnhldvth
 img: icons/person.svg
-draft: true
 portrait: images/being/erthrnhldvth-portrait.webp
 type: being
 package: thalorna

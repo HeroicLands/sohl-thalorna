@@ -2,7 +2,8 @@
 aliases:
   - Rowena Storton
   - being-rowenstrtn
-tags: []
+tags:
+  - draft
 name:
   full: Rowena Storton
   title: ""
@@ -15,7 +16,6 @@ id: Ih7yfJs1ON43xKmT
 folder: elH5NDPUuiRCICrE
 shortcode: rowenstrtn
 img: icons/person.svg
-draft: true
 portrait: images/being/rowenstrtn-portrait.webp
 type: being
 package: thalorna

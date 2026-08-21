@@ -3,7 +3,8 @@ aliases:
   - Theódris Sundrýth
   - Theodris Sundryth
   - being-thdrsndryth
-tags: []
+tags:
+  - draft
 name:
   full: Theódris Sundrýth
   title: ""
@@ -16,7 +17,6 @@ id: t1OGMmjxWkI9X7H6
 folder: Nu7AgLZEmR26u2pk
 shortcode: thdrsndryth
 img: icons/person.svg
-draft: true
 portrait: images/being/thdrsndryth-portrait.webp
 type: being
 package: thalorna

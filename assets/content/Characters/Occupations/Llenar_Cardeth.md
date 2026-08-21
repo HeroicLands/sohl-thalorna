@@ -3,7 +3,8 @@ aliases:
   - Llénar Cárdeth
   - Llenar Cardeth
   - being-lenarcrdth
-tags: []
+tags:
+  - draft
 name:
   full: Llénar Cárdeth
   title: ""
@@ -16,7 +17,6 @@ id: qTlaVvYsKRWmlN2O
 folder: 4cwfdMa34UryZqPR
 shortcode: lenarcrdth
 img: icons/person.svg
-draft: true
 portrait: images/being/lenarcrdth-portrait.webp
 type: being
 package: thalorna

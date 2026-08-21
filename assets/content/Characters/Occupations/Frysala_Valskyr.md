@@ -3,7 +3,8 @@ aliases:
   - Frýsala Válskyr
   - Frysala Valskyr
   - being-fryslvlskyr
-tags: []
+tags:
+  - draft
 name:
   full: Frýsala Válskyr
   title: ""
@@ -16,7 +17,6 @@ id: MeR3pzh84KpLMcNf
 folder: J9R0fnGUTBY5z4pd
 shortcode: fryslvlskyr
 img: icons/person.svg
-draft: true
 portrait: images/being/fryslvlskyr-portrait.webp
 type: being
 package: thalorna

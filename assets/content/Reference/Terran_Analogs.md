@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - doc-trnnlgsrfrnc
 id: BNdQ5Rji7mgldAVd
@@ -8,7 +10,6 @@ name:
 type: doc
 category: lore
 package: thalorna
-draft: true
 shortcode: trnnlgsrfrnc
 ---
 

@@ -3,7 +3,8 @@ aliases:
   - Véthar Balthhelm
   - Vethar Balthhelm
   - being-vthrblthlm
-tags: []
+tags:
+  - draft
 name:
   full: Véthar Balthhelm
   title: ""
@@ -16,7 +17,6 @@ id: Zwez3VcBbD6e3uKB
 folder: Nu7AgLZEmR26u2pk
 shortcode: vthrblthlm
 img: icons/person.svg
-draft: true
 portrait: images/being/vthrblthlm-portrait.webp
 type: being
 package: thalorna

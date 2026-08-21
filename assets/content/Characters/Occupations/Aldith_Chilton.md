@@ -4,6 +4,7 @@ aliases:
   - being-aldthchltn
 tags:
   - todo
+  - draft
 name:
   full: Aldith Chilton
   title: ""
@@ -16,7 +17,6 @@ id: cK8ShmbCuAjASnAG
 folder: elH5NDPUuiRCICrE
 shortcode: aldthchltn
 img: icons/person.svg
-draft: true
 portrait: images/being/aldthchltn-portrait.webp
 type: being
 package: thalorna

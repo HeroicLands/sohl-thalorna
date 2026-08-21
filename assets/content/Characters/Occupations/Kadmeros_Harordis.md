@@ -3,7 +3,8 @@ aliases:
   - Kadméros Hârôrdîs
   - Kadmeros Harordis
   - being-kdmrshrrds
-tags: []
+tags:
+  - draft
 name:
   full: Kadméros Hârôrdîs
   title: ""
@@ -16,7 +17,6 @@ id: oXHyC6Ct3LBtKNdN
 folder: UFBfgKZUF0bAE7gG
 shortcode: kdmrshrrds
 img: icons/person.svg
-draft: true
 portrait: images/being/kdmrshrrds-portrait.webp
 type: being
 package: thalorna

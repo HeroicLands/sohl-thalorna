@@ -2,7 +2,8 @@
 aliases:
   - Hilda Browning
   - being-hildbrwnng
-tags: []
+tags:
+  - draft
 name:
   full: Hilda Browning
   title: ""
@@ -15,7 +16,6 @@ id: RPZSqNEm9prJto8t
 folder: elH5NDPUuiRCICrE
 shortcode: hildbrwnng
 img: icons/person.svg
-draft: true
 portrait: images/being/hildbrwnng-portrait.webp
 type: being
 package: thalorna

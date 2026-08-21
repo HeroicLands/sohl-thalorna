@@ -3,7 +3,8 @@ aliases:
   - Tórsaro Thalídran
   - Torsaro Thalidran
   - being-trsrthldrn
-tags: []
+tags:
+  - draft
 name:
   full: Tórsaro Thalídran
   title: ""
@@ -16,7 +17,6 @@ id: L8bWR0rKcWWlEHPC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: trsrthldrn
 img: icons/person.svg
-draft: true
 portrait: images/being/trsrthldrn-portrait.webp
 type: being
 package: thalorna

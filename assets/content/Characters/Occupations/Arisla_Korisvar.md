@@ -3,7 +3,8 @@ aliases:
   - Árisla Kórisvar
   - Arisla Korisvar
   - being-arislkrsvr
-tags: []
+tags:
+  - draft
 name:
   full: Árisla Kórisvar
   title: Lady
@@ -16,7 +17,6 @@ id: xgRxI5Pwdzrm9h82
 folder: J9R0fnGUTBY5z4pd
 shortcode: arislkrsvr
 img: icons/person.svg
-draft: true
 portrait: images/being/arislkrsvr-portrait.webp
 type: being
 package: thalorna

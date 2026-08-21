@@ -3,7 +3,8 @@ aliases:
   - Thórdís Dróttgar
   - Thordis Drottgar
   - being-thrdsdrtgr
-tags: []
+tags:
+  - draft
 name:
   full: Thórdís Dróttgar
   title: ""
@@ -16,7 +17,6 @@ id: UpkDyr7OSJoRu1XX
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrdsdrtgr
 img: icons/person.svg
-draft: true
 portrait: images/being/thrdsdrtgr-portrait.webp
 type: being
 package: thalorna

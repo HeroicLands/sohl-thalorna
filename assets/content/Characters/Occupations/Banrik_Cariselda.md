@@ -3,7 +3,8 @@ aliases:
   - Bánrik Cáriselda
   - Banrik Cariselda
   - being-banrkcrsld
-tags: []
+tags:
+  - draft
 name:
   full: Bánrik Cáriselda
   title: ""
@@ -16,7 +17,6 @@ id: 2MRYCciepXPxxy8K
 folder: 9t9O4iB5cYJtSaTG
 shortcode: banrkcrsld
 img: icons/person.svg
-draft: true
 portrait: images/being/banrkcrsld-portrait.webp
 type: being
 package: thalorna

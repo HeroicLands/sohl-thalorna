@@ -2,7 +2,8 @@
 aliases:
   - Godwin Adwell
   - being-godwinadwl
-tags: []
+tags:
+  - draft
 name:
   full: Godwin Adwell
   title: ""
@@ -15,7 +16,6 @@ id: ne1WJnLn03ovXjY5
 folder: elH5NDPUuiRCICrE
 shortcode: godwinadwl
 img: icons/person.svg
-draft: true
 portrait: images/being/godwinadwl-portrait.webp
 type: being
 package: thalorna

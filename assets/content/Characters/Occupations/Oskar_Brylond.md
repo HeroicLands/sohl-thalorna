@@ -3,7 +3,8 @@ aliases:
   - Óskar Brýlond
   - Oskar Brylond
   - being-oskrbrylnd
-tags: []
+tags:
+  - draft
 name:
   full: Óskar Brýlond
   title: ""
@@ -16,7 +17,6 @@ id: xqVbwYewpUQOgXLV
 folder: J9R0fnGUTBY5z4pd
 shortcode: oskrbrylnd
 img: icons/person.svg
-draft: true
 portrait: images/being/oskrbrylnd-portrait.webp
 type: being
 package: thalorna

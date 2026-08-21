@@ -5,6 +5,7 @@ aliases:
   - being-azendsdmtr
 tags:
   - todo
+  - draft
 name:
   full: Azéndas Dâemâtôr
   title: ""
@@ -17,7 +18,6 @@ id: 7JSrigNVLppdQ5Ho
 folder: UFBfgKZUF0bAE7gG
 shortcode: azendsdmtr
 img: icons/person.svg
-draft: true
 portrait: images/being/azendsdmtr-portrait.webp
 type: being
 package: thalorna

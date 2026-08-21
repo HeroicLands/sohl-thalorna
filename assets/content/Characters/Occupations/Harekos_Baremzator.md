@@ -3,7 +3,8 @@ aliases:
   - Hàrêkôs Bàremzâtôr
   - Harekos Baremzator
   - being-hrksbrmztr
-tags: []
+tags:
+  - draft
 name:
   full: Hàrêkôs Bàremzâtôr
   title: ""
@@ -16,7 +17,6 @@ id: kMM9VThX0k9tgLb7
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrksbrmztr
 img: icons/person.svg
-draft: true
 portrait: images/being/hrksbrmztr-portrait.webp
 type: being
 package: thalorna

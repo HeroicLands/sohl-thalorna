@@ -5,6 +5,7 @@ aliases:
   - being-brakshrlns
 tags:
   - todo-warrior
+  - draft
 name:
   full: Brákôs Hârlânis
   title: ""
@@ -16,7 +17,6 @@ id: NbrnTP3fAbnFbmOH
 folder: UFBfgKZUF0bAE7gG
 shortcode: brakshrlns
 img: icons/person.svg
-draft: true
 portrait: images/being/brakshrlns-portrait.webp
 type: being
 package: thalorna

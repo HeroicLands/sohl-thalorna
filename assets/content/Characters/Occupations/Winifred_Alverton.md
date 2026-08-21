@@ -2,7 +2,8 @@
 aliases:
   - Winifred Alverton
   - being-wnfrdlvrtn
-tags: []
+tags:
+  - draft
 name:
   full: Winifred Alverton
   title: ""
@@ -15,7 +16,6 @@ id: JoLoaeTOdoe5c3ve
 folder: elH5NDPUuiRCICrE
 shortcode: wnfrdlvrtn
 img: icons/person.svg
-draft: true
 portrait: images/being/wnfrdlvrtn-portrait.webp
 type: being
 package: thalorna

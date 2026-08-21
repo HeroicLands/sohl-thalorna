@@ -2,7 +2,8 @@
 aliases:
   - Oswald Dunwell
   - being-oswaldunwl
-tags: []
+tags:
+  - draft
 name:
   full: Oswald Dunwell
   title: ""
@@ -15,7 +16,6 @@ id: s5t2kTT7SOlYxGoh
 folder: elH5NDPUuiRCICrE
 shortcode: oswaldunwl
 img: icons/person.svg
-draft: true
 portrait: images/being/oswaldunwl-portrait.webp
 type: being
 package: thalorna

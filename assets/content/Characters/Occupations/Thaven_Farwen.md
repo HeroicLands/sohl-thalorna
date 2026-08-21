@@ -3,7 +3,8 @@ aliases:
   - Thâven Fárwèn
   - Thaven Farwen
   - being-thavenfrwn
-tags: []
+tags:
+  - draft
 name:
   full: Thâven Fárwèn
   title: ""
@@ -16,7 +17,6 @@ id: NX744bpnegMcCMRT
 folder: J9R0fnGUTBY5z4pd
 shortcode: thavenfrwn
 img: icons/person.svg
-draft: true
 portrait: images/being/thavenfrwn-portrait.webp
 type: being
 package: thalorna

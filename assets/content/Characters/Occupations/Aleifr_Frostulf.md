@@ -3,7 +3,8 @@ aliases:
   - Áleifr Frostulf
   - Aleifr Frostulf
   - being-alfrfrstlf
-tags: []
+tags:
+  - draft
 name:
   full: Áleifr Frostulf
   title: ""
@@ -16,7 +17,6 @@ id: zAUguBuQqx9jR7Ee
 folder: Ka9XqaF27b0I3Gmq
 shortcode: alfrfrstlf
 img: icons/person.svg
-draft: true
 portrait: images/being/alfrfrstlf-portrait.webp
 type: being
 package: thalorna

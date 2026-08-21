@@ -3,7 +3,8 @@ aliases:
   - Goremdânis Shônyàrdîs
   - Goremdanis Shonyardis
   - being-grmdnshnyrds
-tags: []
+tags:
+  - draft
 name:
   full: Goremdânis Shônyàrdîs
   title: ""
@@ -16,7 +17,6 @@ id: Rz92ZJxfYzaqIhDx
 folder: UFBfgKZUF0bAE7gG
 shortcode: grmdnshnyrds
 img: icons/person.svg
-draft: true
 portrait: images/being/grmdnshnyrds-portrait.webp
 type: being
 package: thalorna

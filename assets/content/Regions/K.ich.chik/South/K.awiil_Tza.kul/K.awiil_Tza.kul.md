@@ -12,7 +12,6 @@ name:
 id: YdTLHYUlxfAuVdNW
 shortcode: kawiltzakl
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

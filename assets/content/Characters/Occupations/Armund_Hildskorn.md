@@ -3,7 +3,8 @@ aliases:
   - Ármund Hildskorn
   - Armund Hildskorn
   - being-armndhldskrn
-tags: []
+tags:
+  - draft
 name:
   full: Ármund Hildskorn
   title: ""
@@ -16,7 +17,6 @@ id: 1S6xfB2gpBLzHfz3
 folder: Nu7AgLZEmR26u2pk
 shortcode: armndhldskrn
 img: icons/person.svg
-draft: true
 portrait: images/being/armndhldskrn-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Chânkhor Ghârîthôs
   - Chankhor Gharithos
   - being-chnkhrghrths
-tags: []
+tags:
+  - draft
 name:
   full: Chânkhor Ghârîthôs
   title: ""
@@ -16,7 +17,6 @@ id: riOtNIfGPkL8LjkQ
 folder: gpXd1anXulwRWZqn
 shortcode: chnkhrghrths
 img: icons/person.svg
-draft: true
 portrait: images/being/chnkhrghrths-portrait.webp
 type: being
 package: thalorna

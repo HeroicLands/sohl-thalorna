@@ -3,7 +3,8 @@ aliases:
   - Lamûshar Damrûnî
   - Lamushar Damruni
   - being-lamshrdmrn
-tags: []
+tags:
+  - draft
 name:
   full: Lamûshar Damrûnî
   title: ""
@@ -16,7 +17,6 @@ id: 8XFmoijes2YgGXI1
 folder: PuQFDMkRM9i60i5Z
 shortcode: lamshrdmrn
 img: icons/person.svg
-draft: true
 portrait: images/being/lamshrdmrn-portrait.webp
 type: being
 package: thalorna

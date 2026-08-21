@@ -3,7 +3,8 @@ aliases:
   - Okharis Tribes Placeholder
   - doc-okhrstrbsplchldr
 id: Zvj8DfE3VgmJWxDj
-tags: []
+tags:
+  - draft
 type: doc
 category: settlement
 settlementType: ""
@@ -14,10 +15,11 @@ package: thalorna
 name:
   full: Okharis Tribes Placeholder
   aliases: []
-draft: true
 shortcode: okhrstrbsplchldr
 parent:
   polities:
     - okharis
 folder: E73gOKMU6M707svD
 ---
+
+TBD

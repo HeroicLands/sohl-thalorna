@@ -3,7 +3,8 @@ aliases:
   - Júlisa Maríthran
   - Julisa Marithran
   - being-julsmrthrn
-tags: []
+tags:
+  - draft
 name:
   full: Júlisa Maríthran
   title: ""
@@ -16,7 +17,6 @@ id: KzTOAshzb9ukZ8ND
 folder: 9t9O4iB5cYJtSaTG
 shortcode: julsmrthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/julsmrthrn-portrait.webp
 type: being
 package: thalorna

@@ -3,7 +3,8 @@ aliases:
   - Sédrik Mórlineth
   - Sedrik Morlineth
   - being-sdrkmrlnth
-tags: []
+tags:
+  - draft
 name:
   full: Sédrik Mórlineth
   title: ""
@@ -16,7 +17,6 @@ id: f2v2R2Iy9uOT4WF3
 folder: 4cwfdMa34UryZqPR
 shortcode: sdrkmrlnth
 img: icons/person.svg
-draft: true
 portrait: images/being/sdrkmrlnth-portrait.webp
 type: being
 package: thalorna

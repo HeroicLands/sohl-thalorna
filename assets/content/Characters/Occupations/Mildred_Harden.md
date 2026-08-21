@@ -2,7 +2,8 @@
 aliases:
   - Mildred Harden
   - being-mildrdhrdn
-tags: []
+tags:
+  - draft
 name:
   full: Mildred Harden
   title: ""
@@ -15,7 +16,6 @@ id: 4djkWNdRfrCQBFMC
 folder: elH5NDPUuiRCICrE
 shortcode: mildrdhrdn
 img: icons/person.svg
-draft: true
 portrait: images/being/mildrdhrdn-portrait.webp
 type: being
 package: thalorna

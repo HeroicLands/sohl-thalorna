@@ -3,7 +3,8 @@ aliases:
   - Bárnek Lánthrik
   - Barnek Lanthrik
   - being-brnklnthrk
-tags: []
+tags:
+  - draft
 name:
   full: Bárnek Lánthrik
   title: ""
@@ -16,7 +17,6 @@ id: Ahic8ctFhgp4IiyD
 folder: J9R0fnGUTBY5z4pd
 shortcode: brnklnthrk
 img: icons/person.svg
-draft: true
 portrait: images/being/brnklnthrk-portrait.webp
 type: being
 package: thalorna

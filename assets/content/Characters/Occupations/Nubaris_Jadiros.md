@@ -3,7 +3,8 @@ aliases:
   - Nûbàris Jâdîrôs
   - Nubaris Jadiros
   - being-nubarsjdrs
-tags: []
+tags:
+  - draft
 name:
   full: Nûbàris Jâdîrôs
   title: Lady
@@ -16,7 +17,6 @@ id: mYipYFbxJKxDZJiN
 folder: gpXd1anXulwRWZqn
 shortcode: nubarsjdrs
 img: icons/person.svg
-draft: true
 portrait: images/being/nubarsjdrs-portrait.webp
 type: being
 package: thalorna

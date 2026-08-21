@@ -3,7 +3,8 @@ aliases:
   - Dálina Valárion
   - Dalina Valarion
   - being-dalinavlrn
-tags: []
+tags:
+  - draft
 name:
   full: Dálina Valárion
   title: ""
@@ -16,7 +17,6 @@ id: Ia2gBi4qUxWzxczd
 folder: 9t9O4iB5cYJtSaTG
 shortcode: dalinavlrn
 img: icons/person.svg
-draft: true
 portrait: images/being/dalinavlrn-portrait.webp
 type: being
 package: thalorna

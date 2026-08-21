@@ -11,7 +11,6 @@ name:
   full: Central K'ich'chik
   aliases: []
 img: ""
-draft: false
 type: doc
 category: region
 package: thalorna

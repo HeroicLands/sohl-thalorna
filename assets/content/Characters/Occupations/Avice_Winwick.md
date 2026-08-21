@@ -2,7 +2,8 @@
 aliases:
   - Avice Winwick
   - being-avicewnwck
-tags: []
+tags:
+  - draft
 name:
   full: Avice Winwick
   title: ""
@@ -15,7 +16,6 @@ id: AOYNDeh15FMIbOGK
 folder: elH5NDPUuiRCICrE
 shortcode: avicewnwck
 img: icons/person.svg
-draft: true
 portrait: images/being/avicewnwck-portrait.webp
 type: being
 package: thalorna

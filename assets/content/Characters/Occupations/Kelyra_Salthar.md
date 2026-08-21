@@ -3,7 +3,8 @@ aliases:
   - Kélyra Sálthar
   - Kelyra Salthar
   - being-kelyrslthr
-tags: []
+tags:
+  - draft
 name:
   full: Kélyra Sálthar
   title: ""
@@ -16,7 +17,6 @@ id: K8ffUF0eWIXiiQE8
 folder: 4cwfdMa34UryZqPR
 shortcode: kelyrslthr
 img: icons/person.svg
-draft: true
 portrait: images/being/kelyrslthr-portrait.webp
 type: being
 package: thalorna

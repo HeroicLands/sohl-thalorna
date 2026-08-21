@@ -3,7 +3,8 @@ aliases:
   - Thária Castírenna
   - Tharia Castirenna
   - being-tharicstrn
-tags: []
+tags:
+  - draft
 name:
   full: Thária Castírenna
   title: ""
@@ -16,7 +17,6 @@ id: XBolZ9SHDdJp62hD
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tharicstrn
 img: icons/person.svg
-draft: true
 portrait: images/being/tharicstrn-portrait.webp
 type: being
 package: thalorna

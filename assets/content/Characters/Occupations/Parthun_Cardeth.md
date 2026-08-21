@@ -3,7 +3,8 @@ aliases:
   - Párthun Cárdeth
   - Parthun Cardeth
   - being-prthncrdth
-tags: []
+tags:
+  - draft
 name:
   full: Párthun Cárdeth
   title: ""
@@ -16,7 +17,6 @@ id: QxeGPva2A0FgB9xO
 folder: 4cwfdMa34UryZqPR
 shortcode: prthncrdth
 img: icons/person.svg
-draft: true
 portrait: images/being/prthncrdth-portrait.webp
 type: being
 package: thalorna

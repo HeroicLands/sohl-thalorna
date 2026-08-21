@@ -3,7 +3,8 @@ aliases:
   - Pédroth Jútharen
   - Pedroth Jutharen
   - being-pdrthjthrn
-tags: []
+tags:
+  - draft
 name:
   full: Pédroth Jútharen
   title: ""
@@ -16,7 +17,6 @@ id: vW4yrW81Aq1fEbVI
 folder: 9t9O4iB5cYJtSaTG
 shortcode: pdrthjthrn
 img: icons/person.svg
-draft: true
 portrait: images/being/pdrthjthrn-portrait.webp
 type: being
 package: thalorna

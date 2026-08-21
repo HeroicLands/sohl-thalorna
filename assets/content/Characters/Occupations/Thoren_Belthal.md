@@ -3,7 +3,8 @@ aliases:
   - Thóren Bélthal
   - Thoren Belthal
   - being-thornblthl
-tags: []
+tags:
+  - draft
 name:
   full: Thóren Bélthal
   title: ""
@@ -16,7 +17,6 @@ id: PuDCCRnGEY59YVkQ
 folder: 4cwfdMa34UryZqPR
 shortcode: thornblthl
 img: icons/person.svg
-draft: true
 portrait: images/being/thornblthl-portrait.webp
 type: being
 package: thalorna

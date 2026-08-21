@@ -3,7 +3,8 @@ aliases:
   - Thrágrim Ríkhild
   - Thragrim Rikhild
   - being-thrgrmrkhld
-tags: []
+tags:
+  - draft
 name:
   full: Thrágrim Ríkhild
   title: ""
@@ -16,7 +17,6 @@ id: 51DTjBlUH9PrNZ6I
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrgrmrkhld
 img: icons/person.svg
-draft: true
 portrait: images/being/thrgrmrkhld-portrait.webp
 type: being
 package: thalorna

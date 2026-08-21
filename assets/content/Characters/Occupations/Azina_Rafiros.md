@@ -3,7 +3,8 @@ aliases:
   - Ázîna Râfîrôs
   - Azina Rafiros
   - being-azinarafrs
-tags: []
+tags:
+  - draft
 name:
   full: Ázîna Râfîrôs
   title: ""
@@ -16,7 +17,6 @@ id: Afo16hD8hP1jF7Ts
 folder: gpXd1anXulwRWZqn
 shortcode: azinarafrs
 img: icons/person.svg
-draft: true
 portrait: images/being/azinarafrs-portrait.webp
 type: being
 package: thalorna

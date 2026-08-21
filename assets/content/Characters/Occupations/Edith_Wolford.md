@@ -2,7 +2,8 @@
 aliases:
   - Edith Wolford
   - being-edithwlfrd
-tags: []
+tags:
+  - draft
 name:
   full: Edith Wolford
   title: ""
@@ -15,7 +16,6 @@ id: 74KPONu3OujCeECO
 folder: elH5NDPUuiRCICrE
 shortcode: edithwlfrd
 img: icons/person.svg
-draft: true
 portrait: images/being/edithwlfrd-portrait.webp
 type: being
 package: thalorna

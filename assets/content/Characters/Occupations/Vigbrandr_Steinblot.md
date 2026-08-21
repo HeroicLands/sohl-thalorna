@@ -3,7 +3,8 @@ aliases:
   - Vígbrandr Steinblót
   - Vigbrandr Steinblot
   - being-vgbrndrstnblt
-tags: []
+tags:
+  - draft
 name:
   full: Vígbrandr Steinblót
   title: ""
@@ -16,7 +17,6 @@ id: XKqPnXKANObF4OIs
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vgbrndrstnblt
 img: icons/person.svg
-draft: true
 portrait: images/being/vgbrndrstnblt-portrait.webp
 type: being
 package: thalorna

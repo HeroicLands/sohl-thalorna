@@ -23,7 +23,6 @@ name:
     - The Mêtríssa and the Two Councils
 shortcode: gvrnmntbth
 img: ""
-draft: false
 parent:
   polities:
     - mtrrchybth

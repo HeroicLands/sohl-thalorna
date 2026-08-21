@@ -5,6 +5,7 @@ aliases:
   - being-xenoksbrds
 tags:
   - todo-warrior
+  - draft
 name:
   full: Xénokôs Bárdâs
   title: ""
@@ -16,7 +17,6 @@ id: H4KPfA1lquCu2r6A
 folder: UFBfgKZUF0bAE7gG
 shortcode: xenoksbrds
 img: icons/person.svg
-draft: true
 portrait: images/being/xenoksbrds-portrait.webp
 type: being
 package: thalorna

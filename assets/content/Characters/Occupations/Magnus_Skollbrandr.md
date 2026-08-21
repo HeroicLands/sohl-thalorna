@@ -3,7 +3,8 @@ aliases:
   - Magnús Skǫllbrandr
   - Magnus Skollbrandr
   - being-mgnsklbrndr
-tags: []
+tags:
+  - draft
 name:
   full: Magnús Skǫllbrandr
   title: ""
@@ -16,7 +17,6 @@ id: WWPel8XOFDWKWLCR
 folder: Ka9XqaF27b0I3Gmq
 shortcode: mgnsklbrndr
 img: icons/person.svg
-draft: true
 portrait: images/being/mgnsklbrndr-portrait.webp
 type: being
 package: thalorna

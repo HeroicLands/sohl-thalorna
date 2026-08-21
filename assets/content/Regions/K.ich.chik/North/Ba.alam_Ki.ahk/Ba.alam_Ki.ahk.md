@@ -12,7 +12,6 @@ name:
 id: k0Cy2pf0fjCujl0l
 shortcode: balamkiahk
 img: ""
-draft: false
 type: doc
 category: polity
 subType: city-state

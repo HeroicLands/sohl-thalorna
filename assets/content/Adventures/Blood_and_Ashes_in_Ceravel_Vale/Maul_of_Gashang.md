@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Maul of Gashang
   - doc-maulgashng
@@ -8,7 +10,6 @@ name:
   full: Maul of Gashang
   aliases: []
 shortcode: maulgashng
-draft: true
 package: thalorna
 thalorna:
   region: provenzrgn

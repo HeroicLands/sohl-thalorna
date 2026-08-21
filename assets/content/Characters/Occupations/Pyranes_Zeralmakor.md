@@ -3,7 +3,8 @@ aliases:
   - Pyrânês Zêralmâkor
   - Pyranes Zeralmakor
   - being-pyrnszrlmkr
-tags: []
+tags:
+  - draft
 name:
   full: Pyrânês Zêralmâkor
   title: ""
@@ -16,7 +17,6 @@ id: GprQFnIiU74KKEpY
 folder: UFBfgKZUF0bAE7gG
 shortcode: pyrnszrlmkr
 img: icons/person.svg
-draft: true
 portrait: images/being/pyrnszrlmkr-portrait.webp
 type: being
 package: thalorna

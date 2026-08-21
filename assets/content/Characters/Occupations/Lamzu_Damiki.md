@@ -3,7 +3,8 @@ aliases:
   - Lâmzû Damîkî
   - Lamzu Damiki
   - being-lamzudamik
-tags: []
+tags:
+  - draft
 name:
   full: Lâmzû Damîkî
   title: ""
@@ -16,7 +17,6 @@ id: nTLFf5GCZdDiGADK
 folder: PuQFDMkRM9i60i5Z
 shortcode: lamzudamik
 img: icons/person.svg
-draft: true
 portrait: images/being/lamzudamik-portrait.webp
 type: being
 package: thalorna

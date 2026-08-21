@@ -3,7 +3,8 @@ aliases:
   - Sáfêrús Ghôlâris
   - Saferus Gholaris
   - being-safrsghlrs
-tags: []
+tags:
+  - draft
 name:
   full: Sáfêrús Ghôlâris
   title: ""
@@ -16,7 +17,6 @@ id: TtNZPHaQ0Jt7Qg84
 folder: gpXd1anXulwRWZqn
 shortcode: safrsghlrs
 img: icons/person.svg
-draft: true
 portrait: images/being/safrsghlrs-portrait.webp
 type: being
 package: thalorna

@@ -2,7 +2,8 @@
 aliases:
   - Wystan Osgood
   - being-wystanosgd
-tags: []
+tags:
+  - draft
 name:
   full: Wystan Osgood
   title: ""
@@ -15,7 +16,6 @@ id: 7s4catKMg7vsDPIH
 folder: elH5NDPUuiRCICrE
 shortcode: wystanosgd
 img: icons/person.svg
-draft: true
 portrait: images/being/wystanosgd-portrait.webp
 type: being
 package: thalorna

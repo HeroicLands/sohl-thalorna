@@ -3,7 +3,8 @@ aliases:
   - Shárîna Thâmîdon
   - Sharina Thamidon
   - being-sharnthmdn
-tags: []
+tags:
+  - draft
 name:
   full: Shárîna Thâmîdon
   title: ""
@@ -16,7 +17,6 @@ id: uPrp9hbVlFHy6Jhq
 folder: gpXd1anXulwRWZqn
 shortcode: sharnthmdn
 img: icons/person.svg
-draft: true
 portrait: images/being/sharnthmdn-portrait.webp
 type: being
 package: thalorna

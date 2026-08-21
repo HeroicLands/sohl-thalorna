@@ -3,7 +3,8 @@ aliases:
   - Waldaric Ríkhild
   - Waldaric Rikhild
   - being-wldrcrkhld
-tags: []
+tags:
+  - draft
 name:
   full: Waldaric Ríkhild
   title: ""
@@ -16,7 +17,6 @@ id: RZzUk1D6iNIb6zLK
 folder: Nu7AgLZEmR26u2pk
 shortcode: wldrcrkhld
 img: icons/person.svg
-draft: true
 portrait: images/being/wldrcrkhld-portrait.webp
 type: being
 package: thalorna

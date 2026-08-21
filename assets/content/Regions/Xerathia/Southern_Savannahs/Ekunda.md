@@ -1,4 +1,6 @@
 ---
+tags:
+  - draft
 aliases:
   - Ékunda
   - Ekunda
@@ -13,7 +15,6 @@ languages:
 pantheons:
   - nyalbpnthn
 package: thalorna
-draft: true
 name:
   full: Ékunda
   aliases: []

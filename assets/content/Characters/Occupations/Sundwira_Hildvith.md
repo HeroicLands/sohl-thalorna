@@ -3,7 +3,8 @@ aliases:
   - Sundwíra Hildvith
   - Sundwira Hildvith
   - being-sndwrhldvth
-tags: []
+tags:
+  - draft
 name:
   full: Sundwíra Hildvith
   title: ""
@@ -16,7 +17,6 @@ id: 7Tow88H5s2fqmO9J
 folder: Nu7AgLZEmR26u2pk
 shortcode: sndwrhldvth
 img: icons/person.svg
-draft: true
 portrait: images/being/sndwrhldvth-portrait.webp
 type: being
 package: thalorna
