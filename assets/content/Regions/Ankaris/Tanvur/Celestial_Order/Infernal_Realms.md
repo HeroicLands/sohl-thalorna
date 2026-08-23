@@ -58,4 +58,4 @@ Whether the Infernal threat is as immediate as the ruling class claims, or wheth
 - [[doc-clstlpnthn|Celestial Pantheon]] — The administrative order the Infernal Realms exist outside of
 - [[doc-dreadspawn|Dreadspawn]] — Mysterious creatures that may be manifestations of unclassified energy
 - [[doc-celestlrdr|Celestial Order]] — The broader cosmological framework
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire defended against these threats
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire defended against these threats

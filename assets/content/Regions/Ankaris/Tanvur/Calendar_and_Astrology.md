@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Tānvür Calendar and Astrology
 
-Part of the [[doc-empiretnvr|Empire of Tānvür]] world-building.
+Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 In the Empire of Tānvür, time is not merely measured — it is **administered**. The calendar is a classification system applied to duration, and its proper maintenance is as essential to cosmic order as the classification of elements or castes. The empire uses two complementary systems: the **Dynasty-based Year Naming** for secular and administrative purposes, and the **Celestial Calendar**, which tracks the cosmic cycles of Lëi and determines the empire's ritual obligations.
 
@@ -170,4 +170,4 @@ The final administrative event of the year, held during Thürtyüt. Every househ
 - [[doc-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy underlying the elemental month system
 - [[doc-numerology|Numerology]] — The significance of numbers in Tānvür's classification theory
 - [[doc-ancstrwrshp|Ancestor Worship]] — The spiritual economy that the Festival of the Dead services
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire whose administration the calendar structures
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose administration the calendar structures

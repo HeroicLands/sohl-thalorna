@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Celestial Scholars**
 
-The Tānthëi form the scholarly and spiritual elite of [[doc-empiretnvr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.
+The Tānthëi form the scholarly and spiritual elite of [[doc-tanvurempr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.
 
 ## Roles and Expertise
 
@@ -75,4 +75,4 @@ Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that 
 - [[doc-zheklung|Zhëklüng]] — the supreme authority consulting with Tānthëi
 - [[doc-vushok|Vüshōk]] — Warrior Nobility who receive Tānthëi counsel
 - [[doc-venduk|Vëndük]] — Magical practitioners whom Tānthëi oversee and restrict
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

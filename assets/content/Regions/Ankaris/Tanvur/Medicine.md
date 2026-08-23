@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # The Role of Apothecaries and Physicians in the Empire of Tānvür
 
-Part of the [[doc-empiretnvr|Empire of Tānvür]] world-building.
+Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 ## Caste Placement
 
@@ -85,4 +85,4 @@ The Yātvōr, though part of the Zāthük caste, are highly respected across all
 - [[doc-celestlrdr|Celestial Order]] — The cosmological system that medicine serves
 - [[doc-ancstrwrshp|Ancestor Worship]] — Spiritual causes of illness and the Lëigürt collaboration
 - [[doc-zathuk|Zāthük]] — The artisan caste to which physicians belong
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial society
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society

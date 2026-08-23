@@ -171,7 +171,7 @@ Years from the Sep Tepy are noted as **ST** — "Renpet Sep Tepy," literally "Ye
 
 The Kheperi calendar also differs in its internal structure. The year is divided into three seasons of four months each — **Akhet** (Inundation), **Peret** (Emergence/Growing), and **Shemu** (Harvest) — each month comprising thirty days, with five intercalary days added at the year's end. The Kheperi astronomers are justly proud of this system, which tracks the solar year with greater precision than anything used in western Ankaris.
 
-Neighboring peoples — including [[doc-okharis|Okháris]] and the smaller polities of the upper river region — use the Sep Tepy dating system as a matter of course. Ta'Kheperu's cultural gravity is such that any civilization within its orbit adopts its chronological framework, just as western Ankaris adopted the Vylarian one. [[doc-vedyarargn|Vedyara Region]] and [[doc-empiretnvr|Empire of Tānvür]] maintain their own independent dating systems, as does [[doc-mtrrchybth|Bethua]], though the Bethuan system shows significant Kheperi influence.
+Neighboring peoples — including [[doc-okharis|Okháris]] and the smaller polities of the upper river region — use the Sep Tepy dating system as a matter of course. Ta'Kheperu's cultural gravity is such that any civilization within its orbit adopts its chronological framework, just as western Ankaris adopted the Vylarian one. [[doc-vedyarargn|Vedyara Region]] and [[doc-tanvurempr|Empire of Tānvür]] maintain their own independent dating systems, as does [[doc-mtrrchybth|Bethua]], though the Bethuan system shows significant Kheperi influence.
 
 ### Festival Life
 

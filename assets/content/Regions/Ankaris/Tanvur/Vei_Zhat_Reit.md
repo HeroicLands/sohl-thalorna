@@ -19,7 +19,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Vëi Zhāt Rëit ("The Jade Fan Dance")
 
-The **Vëi Zhāt Rëit** is the term used to describe the intricate and perilous game of political intrigue that takes place within the imperial court of the [[doc-empiretnvr|Empire of Tānvür]]. Played by noble houses, influential officials, and high-ranking members of the celestial administration, the Jade Fan Dance is a constant, invisible war where the weapons are information, deception, alliances, and betrayal. The stakes are extraordinary: not merely power and wealth, but the [[doc-celestlrdr|moral ledger]] standing of entire families, the effectiveness of their [[doc-ancstrwrshp|ancestor spirits]], and — in the most extreme cases — their very classification within the cosmic order.
+The **Vëi Zhāt Rëit** is the term used to describe the intricate and perilous game of political intrigue that takes place within the imperial court of the [[doc-tanvurempr|Empire of Tānvür]]. Played by noble houses, influential officials, and high-ranking members of the celestial administration, the Jade Fan Dance is a constant, invisible war where the weapons are information, deception, alliances, and betrayal. The stakes are extraordinary: not merely power and wealth, but the [[doc-celestlrdr|moral ledger]] standing of entire families, the effectiveness of their [[doc-ancstrwrshp|ancestor spirits]], and — in the most extreme cases — their very classification within the cosmic order.
 
 The Tānvüri do not consider the Jade Fan Dance dishonorable. Even bureaucracies have politics. _Especially_ bureaucracies have politics. Where there are jurisdictions, there are jurisdictional disputes. Where there are appointments, there is competition for appointments. Where there are filing procedures, there are those who know how to exploit them.
 
@@ -92,4 +92,4 @@ In the most extreme cases, a failed player is quietly assassinated, their death 
 - [[doc-ancstrwrshp|Ancestor Worship]] — The spiritual economy that the Jade Fan Dance manipulates
 - [[doc-lawhonor|Law and Honor]] — The legal framework whose mechanisms the game exploits
 - [[doc-marriage|Marriage]] — The alliance-forming institution that the Jade Fan Dance weaponizes
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire whose court hosts this deadly game
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose court hosts this deadly game

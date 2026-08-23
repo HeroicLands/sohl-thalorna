@@ -32,7 +32,7 @@ folder: ElMVW0iSYyeroRC3
 
 _The Celestial Court of Ten Thousand Spirits_
 
-The **Celestial Order** — formally the Tëngvōk Vān Lëi — is the religious and cosmological framework of the [[doc-empiretnvr|Empire of Tānvür]] and, in divergent regional forms, of [[doc-jurthat|Jürthāt]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. The Celestial Order is an _administration_ — a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
+The **Celestial Order** — formally the Tëngvōk Vān Lëi — is the religious and cosmological framework of the [[doc-tanvurempr|Empire of Tānvür]] and, in divergent regional forms, of [[doc-jurthatempr|Jürthāt]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. The Celestial Order is an _administration_ — a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
 
 For details on how the Celestial Order functions within Tānvür society — including the [[doc-mandatehvn|Mandate of Heaven]], [[doc-ancstrwrshp|Ancestor Worship]], and the [[doc-infrnlrlms|Infernal Realms]] — see [[doc-celestlrdr|Celestial Order]].
 

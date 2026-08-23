@@ -33,7 +33,7 @@ The creation forces do not value repetition. Making the same thing twice holds n
 
 ## Dreadspawn in the Classification System
 
-In the [[doc-empiretnvr|Empire of Tānvür]], the classification cosmology handles Dreadspawn the same way it handles everything else: by sorting them.
+In the [[doc-tanvurempr|Empire of Tānvür]], the classification cosmology handles Dreadspawn the same way it handles everything else: by sorting them.
 
 The Great Sorting classified _all_ of existence — not just people. Dogs, horses, lions, serpents, fish, insects — every living thing occupies a position in the cosmic taxonomy, administered by the relevant bureaus. The **Zāt Sëi** (Bureau of Creation) governs life and birth; the five elemental domains classify creatures by their elemental affinities; and the [[doc-tanthei|Tānthëi]] maintain a comprehensive bestiary that catalogs known species by classification, habitat, and threat level.
 
@@ -59,4 +59,4 @@ The most recent period has seen multiple Dreadspawn appearing within the empire'
 
 - [[doc-thatlung|Thātlüng]] — Reptilian pack-hunters unearthed by the northwestern earthquake
 - [[doc-celestlrdr|Celestial Order]] — The cosmological framework within which Dreadspawn are classified
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire dealing with these incursions
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire dealing with these incursions

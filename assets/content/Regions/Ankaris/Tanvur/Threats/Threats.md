@@ -15,14 +15,14 @@ folder: l3wIL8UihJI5nx6L
 
 # Threats to the Empire of Tānvür
 
-The [[doc-empiretnvr|Empire of Tānvür]] faces multiple serious threats to its stability and security, from external powers, internal conflicts, supernatural incursions, and the ever-present machinations of the [[doc-veizhatret|Vëi Zhāt Rëit]].
+The [[doc-tanvurempr|Empire of Tānvür]] faces multiple serious threats to its stability and security, from external powers, internal conflicts, supernatural incursions, and the ever-present machinations of the [[doc-veizhatret|Vëi Zhāt Rëit]].
 
 ---
 
 ## Military & External Threats
 
 - [[doc-bthrhrtzhk|Bāthür Hürtzhük]] — A northern barbarian warlord who has united the tribes of the Hëkvōr (Black Wilds) and begun aggressive incursions into the empire's northern provinces
-- [[doc-extrnlthrts|External Threats]] — [[doc-jurthat|Jürthāt]] (known to the empire as Thātvōng) and the Coalition of the Western Kingdoms
+- [[doc-extrnlthrts|External Threats]] — [[doc-jurthatempr|Jürthāt]] (known to the empire as Thātvōng) and the Coalition of the Western Kingdoms
 
 ## Internal Conflicts
 
@@ -37,6 +37,6 @@ The [[doc-empiretnvr|Empire of Tānvür]] faces multiple serious threats to its 
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of the empire
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire
 - [[doc-castelaws|Caste Laws]] — The social structure these threats destabilize
 - [[doc-lawhonor|Law and Honor]] — The legal framework the empire uses to respond

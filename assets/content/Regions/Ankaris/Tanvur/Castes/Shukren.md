@@ -85,4 +85,4 @@ Despite their wealth and economic importance, Shükrën occupy a lower social po
 - [[doc-zathuk|Zāthük]] — artisans and craftspeople above Shükrën in social hierarchy
 - [[doc-nokvur|Nōkvür]] — peasant farmers whom Shükrën must not exploit
 - [[doc-vushok|Vüshōk]] — administrators who enforce commercial law
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial society and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Warrior Nobility**
 
-The Vüshōk form the military and administrative backbone of [[doc-empiretnvr|Tānvür]], a nobility bound by codes of martial honor and duty to the realm. From Warlords (Vüszhük) who govern entire provinces to skilled swordmasters who lead armies, the Vüshōk hold the exclusive right to bear arms and command forces in war.
+The Vüshōk form the military and administrative backbone of [[doc-tanvurempr|Tānvür]], a nobility bound by codes of martial honor and duty to the realm. From Warlords (Vüszhük) who govern entire provinces to skilled swordmasters who lead armies, the Vüshōk hold the exclusive right to bear arms and command forces in war.
 
 ## Authority and Responsibilities
 
@@ -81,4 +81,4 @@ The Vüshōk are understood to embody the dynamic and protective aspects of Lëi
 - [[doc-zheklung|Zhëklüng]] — the supreme authority that Vüshōk serve
 - [[doc-tanthei|Tānthëi]] — celestial scholars who advise Vüshōk leadership
 - [[doc-venduk|Vëndük]] — magical counselors who work alongside Vüshōk commanders
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

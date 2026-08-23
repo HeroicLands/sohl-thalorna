@@ -32,7 +32,7 @@ folder: DWK5QE0GRZ8br2mk
 # Hëk Zhāk
 
 - **Type:** Subversive magical sect
-- **Region:** [[doc-empiretnvr|Empire of Tānvür]]
+- **Region:** [[doc-tanvurempr|Empire of Tānvür]]
 - **Composition:** Rogue [[doc-venduk|Vëndük]] sorcerers and their collaborators
 - **Tānvüri:** _Hëk Zhāk_ — literally "Shadow Sect"; collectively sometimes called _Hëkzōk_ ("shadow folk")
 
@@ -99,4 +99,4 @@ Every new member is subjected to an extended evaluation process — years, typic
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]] — The parallel but ideologically different criminal organization
 - [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — Overview of forces working against the imperial order
 - [[doc-castelaws|Caste Laws]] — The legal framework the Sect works to subvert
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire whose classification system the Sect ultimately seeks to overthrow
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Sect ultimately seeks to overthrow

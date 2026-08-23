@@ -37,13 +37,13 @@ folder: DWK5QE0GRZ8br2mk
 # Nüszōk Rëit
 
 - **Type:** Nihilistic apocalyptic cult
-- **Region:** [[doc-empiretnvr|Empire of Tānvür]]
+- **Region:** [[doc-tanvurempr|Empire of Tānvür]]
 - **Composition:** Lower-caste recruits, displaced and condemned persons, Demon Lord devotees
 - **Tānvüri:** _Nüszōk Rëit_ — "the sect of the forsaken" or "the gathering of the cast-aside"
 
 ## Overview
 
-The **Nüszōk Rëit** — the Cult of the Forsaken — is a dangerous and thoroughly nihilistic movement that has emerged among the lower castes of the [[doc-empiretnvr|Empire of Tānvür]]. Where the [[affiliation-hekzhak|Hëk Zhāk]] seeks to reform the classification system and the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] seeks to exploit it for profit, the Nüszōk Rëit seeks the system's violent destruction — and, beyond that, the destruction of the social order itself, which it holds to be irredeemably corrupt.
+The **Nüszōk Rëit** — the Cult of the Forsaken — is a dangerous and thoroughly nihilistic movement that has emerged among the lower castes of the [[doc-tanvurempr|Empire of Tānvür]]. Where the [[affiliation-hekzhak|Hëk Zhāk]] seeks to reform the classification system and the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] seeks to exploit it for profit, the Nüszōk Rëit seeks the system's violent destruction — and, beyond that, the destruction of the social order itself, which it holds to be irredeemably corrupt.
 
 The cult does not aspire to build a new order in the ruins of the old. It regards such aspirations as the self-deception of people who have not yet truly understood the empire. The imperial classification system, in the cult's reading, is not merely unjust but metaphysically obscene — an offense against the cosmos that can only be answered by the system's wholesale annihilation. What comes after the empire is a question the cult declines to consider.
 
@@ -130,4 +130,4 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 - [[doc-thlbestiary#helspawn|Helspawn]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
 - [[doc-veizhatret|Vëi Zhāt Rëit]] — The court intrigue that produces many of the cult's recruits
 - [[doc-castelaws|Caste Laws]] — The classification system the cult exists to destroy
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire the cult intends to annihilate
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire the cult intends to annihilate

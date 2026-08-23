@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Slaves and Outcasts**
 
-The Nützōk occupy the lowest stratum of [[doc-empiretnvr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[doc-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.
+The Nützōk occupy the lowest stratum of [[doc-tanvurempr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[doc-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.
 
 ## Origins of Nützōk Status
 
@@ -77,4 +77,4 @@ The [[doc-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or s
 - [[doc-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy
 - [[doc-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement
 - [[doc-lawhonor|Law and Honor]] — legal framework governing treatment of slaves
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial society and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

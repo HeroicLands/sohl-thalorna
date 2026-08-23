@@ -17,7 +17,7 @@ shortcode: tnvrlnggrfrnc
 
 # Tānvüri Language Reference
 
-The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[doc-empiretnvr|Empire of Tānvür]] and, in a divergent form, of [[doc-jurthat|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
+The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[doc-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[doc-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
 
 ---
 
@@ -519,7 +519,7 @@ Tānvüri is a language isolate with no widely-accepted external relatives. Olde
 
 **Imperial Dialect (_Tëngvōk Thëitōk_, "Celestial Court Speech"):** The prestige standard, spoken in the capital and taught in formal education. Preserves all phonemic distinctions and classical grammatical forms.
 
-**Northern Tānvüri (_Jürthāt Thëitōk_, "Nine Mountains Speech"):** The speech of [[doc-jurthat|Jürthāt]], moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from neighboring steppe languages.
+**Northern Tānvüri (_Jürthāt Thëitōk_, "Nine Mountains Speech"):** The speech of [[doc-jurthatrgn|Jürthāt]], moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from neighboring steppe languages.
 
 **Southern Tānvüri:** Spoken in the agricultural and mercantile south. Greater phonological simplification, faster speech rhythms, and more extensive borrowing from trade languages.
 
@@ -549,7 +549,7 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of the empire and its culture
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire and its culture
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Order (pantheon)
 - [[doc-phlsphylvr|Philosophy of Lëivōr]] — The philosophy of vital energy
 - [[doc-clndrstrlgy|Calendar and Astrology]] — Calendar, months, and spirit animals

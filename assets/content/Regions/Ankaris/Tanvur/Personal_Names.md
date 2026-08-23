@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Personal Names in the Empire of Tānvür
 
-In the [[doc-empiretnvr|Empire of Tānvür]], names carry immense significance and are reserved as marks of honor and distinction. The majority of the population, including those from the lower castes such as the [[doc-nokvur|Nōkvür]], [[doc-zathuk|Zāthük]], and [[doc-shukren|Shükrën]], do not possess personal names. Instead, they are identified by their clan name and their position within the clan, along with the name of their local city or region.
+In the [[doc-tanvurempr|Empire of Tānvür]], names carry immense significance and are reserved as marks of honor and distinction. The majority of the population, including those from the lower castes such as the [[doc-nokvur|Nōkvür]], [[doc-zathuk|Zāthük]], and [[doc-shukren|Shükrën]], do not possess personal names. Instead, they are identified by their clan name and their position within the clan, along with the name of their local city or region.
 
 ## Identification Without Personal Names
 
@@ -56,4 +56,4 @@ Similarly, a [[doc-tanthei|Tānthëi]] scholar might be known as "Third Daughter
 - [[doc-marriage|Marriage]] — Marriage customs tied to clan and caste
 - [[doc-numerology|Numerology]] — Auspicious numbers that influence naming ceremonies
 - [[doc-castelaws|Caste Laws]] — The caste restrictions that determine who may receive names
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial culture
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial culture

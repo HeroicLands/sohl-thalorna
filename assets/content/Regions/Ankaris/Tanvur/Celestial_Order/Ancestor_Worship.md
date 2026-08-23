@@ -15,7 +15,7 @@ folder: hBkQzhJeB05EwziN
 
 # Ancestor Worship in Tānvür
 
-In the [[doc-empiretnvr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
+In the [[doc-tanvurempr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
 
 The dead are not gone. They are _posted_. When a person dies, their soul is processed by the [[affiliation-tngvkvnlei|Ministry of Final Account]], and their lifetime **moral ledger** determines their assignment. Those with favorable balances are posted as **ancestor spirits** — spiritual officials whose assigned function is to advocate for their living descendants within the celestial bureaucracy. Those with unfavorable balances are sentenced to terms of spiritual labor in the lower realms, or dissolution.
 

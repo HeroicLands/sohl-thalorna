@@ -48,7 +48,7 @@ The model is anchored on the one polity worked out in detail: the **[[doc-vylari
 | Region                       | Population       |
 | ---------------------------- | ---------------- |
 | [[doc-vedyarargn\|Vedyára]]        | ~110,000,000 |
-| [[doc-empiretnvr\|Tánvür]]         | ~120,000,000 |
+| [[doc-tanvurempr\|Tánvür]]         | ~120,000,000 |
 | **Eastern Ankaris subtotal** | **~230,000,000** |
 
 ### Xerathia
@@ -102,5 +102,5 @@ The model is anchored on the one polity worked out in detail: the **[[doc-vylari
 
 - [[doc-vylarinmpr|Vylarian Empire]] — the anchor polity, worked out province by province
 - [[doc-magnapolis|Magnápolis]] — the world's great western metropolis
-- [[doc-empiretnvr|Tánvür]] · [[doc-vedyarargn|Vedyára]] — the eastern giants
+- [[doc-tanvurempr|Tánvür]] · [[doc-vedyarargn|Vedyára]] — the eastern giants
 - [[doc-empirtkhpr|Ta'Kheperu]] — the great Xerathian river-civilization

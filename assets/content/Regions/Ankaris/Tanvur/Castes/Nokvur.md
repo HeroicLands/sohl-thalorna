@@ -18,7 +18,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Peasant Farmers**
 
-The Nōkvür comprise the agricultural base of [[doc-empiretnvr|Tānvür]]—peasant farmers, laborers, and common folk who work the land and constitute the largest portion of the empire's population. Though legally unfree and bound to their labor obligations, the Nōkvür maintain their own spiritual traditions centered on ancestor veneration and connection to the natural world through their shamanic Lëigürt.
+The Nōkvür comprise the agricultural base of [[doc-tanvurempr|Tānvür]]—peasant farmers, laborers, and common folk who work the land and constitute the largest portion of the empire's population. Though legally unfree and bound to their labor obligations, the Nōkvür maintain their own spiritual traditions centered on ancestor veneration and connection to the natural world through their shamanic Lëigürt.
 
 ## Life and Labor
 
@@ -79,4 +79,4 @@ The Nōkvür are understood to serve as nurturers of the earth's Lëi, channelin
 - [[doc-venduk|Vëndük]] — Magical practitioners from whom some adoptees come
 - [[doc-zathuk|Zāthük]] — Artisans and craftspeople above Nōkvür
 - [[doc-lawhonor|Law and Honor]] — legal framework governing Nōkvür obligations
-- [[doc-empiretnvr|Empire of Tānvür]] — overview of imperial society and structure
+- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

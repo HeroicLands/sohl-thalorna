@@ -16,7 +16,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # The Philosophy of Lëivōr in Tānvür
 
-Part of the [[doc-empiretnvr|Empire of Tānvür]] world-building.
+Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 **Lëivōr** ("Spirit-Sacred," often translated as "The Way of Lëi") is the philosophical framework that underpins religion, magic, medicine, governance, and daily life in the Empire of Tānvür. It is not a religion in itself — it is the _theoretical language_ through which the Tānvüri understand how the cosmos works, why it holds together, and what happens when it doesn't.
 

@@ -31,7 +31,7 @@ languages:
 folder: jV7c6dJp4Ztnjtb3
 ---
 
-The Tānvür Region is the far east of [[doc-ankrscntnnt|Ankaris Continent]] — a vast, mountain-guarded expanse of river basins, temperate plains, and coastal lowlands that has for three millennia formed the cradle of [[doc-empiretnvr|Tānvüri civilization]]. Where the [[doc-aureldirgn|Aurèldían]] west is a mosaic of sovereign kingdoms bound by shared faith, the Tānvür Region is the opposite: a single continuous civilizational order whose political expression is almost always imperial, whose caste system has outlasted every dynasty, and whose celestial bureaucracy understands its own land as the one place where cosmic order has been properly classified. Ankaris's west has no emperor and does not want one. Ankaris's east has had little else.
+The Tānvür Region is the far east of [[doc-ankrscntnnt|Ankaris Continent]] — a vast, mountain-guarded expanse of river basins, temperate plains, and coastal lowlands that has for three millennia formed the cradle of [[doc-tanvurempr|Tānvüri civilization]]. Where the [[doc-aureldirgn|Aurèldían]] west is a mosaic of sovereign kingdoms bound by shared faith, the Tānvür Region is the opposite: a single continuous civilizational order whose political expression is almost always imperial, whose caste system has outlasted every dynasty, and whose celestial bureaucracy understands its own land as the one place where cosmic order has been properly classified. Ankaris's west has no emperor and does not want one. Ankaris's east has had little else.
 
 ## Geography
 
@@ -81,7 +81,7 @@ To the **north**, the [[doc-grkrhlmrgn|Grukari]] frontier is a fortified marchla
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — the imperial polity of the region
+- [[doc-tanvurempr|Empire of Tānvür]] — the imperial polity of the region
 - [[affiliation-tngvkvnlei|Celestial Order]] — the pantheon and cosmology
 - [[doc-mandatehvn|Mandate of Heaven]] — the imperial doctrine
 - [[doc-castelaws|Caste Laws]] — the legal structure of the eight castes

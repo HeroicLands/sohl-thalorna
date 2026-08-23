@@ -54,7 +54,7 @@ The [[affiliation-arldnpnthn|Aurèldían]] pantheon is the dominant faith, but B
 
 ## Character
 
-Byzarian cities are polyglot, cosmopolitan, and commercially sophisticated. Their bazaars are crossroads markets where western Vylarian goods meet eastern spices, Dunhari incense, and the occasional exotic luxury from [[doc-vedyarargn|Vedyara Region]] or [[doc-empiretnvr|Tānvür]]. The League's merchants are legendary negotiators — Byzarian, the trade language, has more words for types of business agreements than most languages have for colors.
+Byzarian cities are polyglot, cosmopolitan, and commercially sophisticated. Their bazaars are crossroads markets where western Vylarian goods meet eastern spices, Dunhari incense, and the occasional exotic luxury from [[doc-vedyarargn|Vedyara Region]] or [[doc-tanvurempr|Tānvür]]. The League's merchants are legendary negotiators — Byzarian, the trade language, has more words for types of business agreements than most languages have for colors.
 
 Politically, the League navigates between the great powers with careful neutrality. The [[doc-vylarinmpr|Vylarian Empire]] would like to absorb it; the [[doc-cnfdrtnhrdnstts|Haradian]] guilds would like to dominate its trade; the [[affiliation-ashanpnthn|Āsháian]]-worshipping peoples to the east consider it a useful but unreliable partner. The League survives by being indispensable to all of them and subservient to none.
 

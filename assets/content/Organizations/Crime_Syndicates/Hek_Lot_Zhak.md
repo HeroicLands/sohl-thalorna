@@ -33,15 +33,15 @@ folder: GOlgYgpU2BQfAG6g
 
 ## Overview
 
-The **Hëk Lōt Zhāk** — known to outsiders and lowland translators as the **Black Lotus Society** — is the preeminent criminal organization of the [[doc-empiretnvr|Empire of Tānvür]] and the largest crime syndicate of eastern Ankaris. While the four Vylarian Sea syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
+The **Hëk Lōt Zhāk** — known to outsiders and lowland translators as the **Black Lotus Society** — is the preeminent criminal organization of the [[doc-tanvurempr|Empire of Tānvür]] and the largest crime syndicate of eastern Ankaris. While the four Vylarian Sea syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
 
 The Hëk Lōt Zhāk's power is not exercised through street-level thuggery. It is exercised through _leverage_. In a society where every noble house, every merchant clan, and every bureaucratic office depends on a spiritual ledger maintained across generations, a criminal organization that knows precisely which ledgers are in deficit, which ancestor spirits are being starved of offerings, which petitions are moving through which magistrate's office, and which Tānthëi can be bought to read which omens — that organization does not need many enforcers. It needs only good bookkeeping. The Black Lotus has exceptional bookkeeping.
 
 ## Territory
 
-**Primary:** [[doc-empiretnvr|Empire of Tānvür]] — with particular concentration in the major mercantile cities of the [[doc-shukren|Shükrën]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
+**Primary:** [[doc-tanvurempr|Empire of Tānvür]] — with particular concentration in the major mercantile cities of the [[doc-shukren|Shükrën]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
-**Secondary:** Cells reach into [[doc-jurthat|Jürthāt]] to the north and occasionally surface in the eastern reaches of [[doc-byzariargn|Byzaría Region]] where Tānvüri trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
+**Secondary:** Cells reach into [[doc-jurthatrgn|Jürthāt]] to the north and occasionally surface in the eastern reaches of [[doc-byzariargn|Byzaría Region]] where Tānvüri trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 
@@ -88,7 +88,7 @@ Members carry no visible identification. Recognition passes through calligraphic
 
 ## See Also
 
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire in which the Society operates
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire in which the Society operates
 - [[doc-veizhatret|Vëi Zhāt Rëit]] — The political game the Society exploits and enables
 - [[doc-shukren|Shükrën]] — The merchant caste under the Society's particular influence
 - [[doc-yurthatzhk|Yürtthāt Zhāk]] — Noble house entangled with the Society

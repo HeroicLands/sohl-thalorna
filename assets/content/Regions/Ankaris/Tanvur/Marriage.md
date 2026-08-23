@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Marriage Customs of the Empire of Tānvür
 
-Marriage in the [[doc-empiretnvr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event** — the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[doc-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
+Marriage in the [[doc-tanvurempr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event** — the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[doc-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
 
 The customs surrounding marriage vary significantly by caste, but the underlying principle is the same at every level: marriage creates a new node in the classification system, and every node must be properly sorted.
 
@@ -101,4 +101,4 @@ The dissolution process requires a formal petition to the Bureau of Continuity, 
 - [[doc-clndrstrlgy|Calendar and Astrology]] — Astrological classifications that influence match selection
 - [[doc-personlnms|Personal Names]] — Naming conventions tied to caste and household
 - [[doc-lawhonor|Law and Honor]] — The legal framework governing marriage contracts
-- [[doc-empiretnvr|Empire of Tānvür]] — Overview of imperial society
+- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society

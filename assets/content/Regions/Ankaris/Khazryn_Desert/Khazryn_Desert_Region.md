@@ -97,7 +97,7 @@ No single ruler holds the Khazryn. Power is distributed among (a) the steppe con
 
 The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, swept across half of Vedyara and reached the eastern walls of the [[doc-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
 
-Foreign powers have generally given up trying to rule the desert. The [[doc-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[doc-empiretnvr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
+Foreign powers have generally given up trying to rule the desert. The [[doc-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[doc-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
 
 ## Trade
 

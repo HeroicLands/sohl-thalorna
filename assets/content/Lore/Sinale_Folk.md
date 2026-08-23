@@ -82,7 +82,7 @@ Why the Sinalë have opened themselves to the Élavendren and no other human peo
 
 ### Tānvür
 
-The [[doc-empiretnvr|Empire of Tānvür]] represents a different kind of relationship — one that the Sinalë appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalëan standards, and western scholars know almost nothing about it. What is clear is that the Sinalëan enclaves within Tānvür's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world — not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinalë will not answer and the Celestial Bureaucracy considers settled. The arrangement is ancient, and it endures.
+The [[doc-tanvurempr|Empire of Tānvür]] represents a different kind of relationship — one that the Sinalë appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalëan standards, and western scholars know almost nothing about it. What is clear is that the Sinalëan enclaves within Tānvür's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world — not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinalë will not answer and the Celestial Bureaucracy considers settled. The arrangement is ancient, and it endures.
 
 ### K'ich'chik
 
@@ -92,7 +92,7 @@ The Sinalë also maintain some form of connection with the peoples of [[doc-kchc
 
 - [[doc-flkkhazar|Khazári]] — The second elder race; the Deep Folk
 - [[doc-elavendre|Élavendre]] — The human realm with the closest and most willing Sinalëan contact
-- [[doc-empiretnvr|Empire of Tānvür]] — Formal contact, possibly coerced; see [[doc-elderraces|Elder Races]]
+- [[doc-tanvurempr|Empire of Tānvür]] — Formal contact, possibly coerced; see [[doc-elderraces|Elder Races]]
 - [[doc-kchchkcntnnt|K'ich'chik]] — Some form of connection with K'ich'chik society
 - [[doc-vrystwald|Vrystwald Region]] — Known to contain Sinalëan enclaves
 - [[doc-aelwyth|Aelwyth Region]] — Known to contain Sinalëan enclaves

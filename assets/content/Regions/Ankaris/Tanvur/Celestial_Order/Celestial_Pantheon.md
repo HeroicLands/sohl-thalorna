@@ -15,7 +15,7 @@ folder: hBkQzhJeB05EwziN
 
 # The Celestial Pantheon of Tānvür
 
-The Celestial Pantheon of the [[doc-empiretnvr|Empire of Tānvür]] is not a collection of gods in the Western sense. It is the **senior administrative staff** of the celestial bureaucracy — immensely powerful beings who hold posts within the cosmic classification system. Their power derives not from inherent divinity but from the authority of their office, and the Tānvüri relate to them not through worship but through **petition, transaction, and procedural compliance**.
+The Celestial Pantheon of the [[doc-tanvurempr|Empire of Tānvür]] is not a collection of gods in the Western sense. It is the **senior administrative staff** of the celestial bureaucracy — immensely powerful beings who hold posts within the cosmic classification system. Their power derives not from inherent divinity but from the authority of their office, and the Tānvüri relate to them not through worship but through **petition, transaction, and procedural compliance**.
 
 The pantheon is organized as the **Celestial Bureaucracy**, with Tānlüng as the foundational principle of classification, Vëizhük Dāknëi as chief administrator, and the lesser deities governing specific portfolios. Below the major officials serve the [[doc-fvlmntlrds|Five Elemental Lords]], each administering one of the fundamental domains of classification.
 
@@ -74,4 +74,4 @@ Yütvëi is depicted as a pale figure holding a lantern in one hand (the light o
 - [[doc-fvlmntlrds|Five Elemental Lords]] — The elemental administrators who serve beneath the major officials
 - [[doc-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework
 - [[doc-mandatehvn|Mandate of Heaven]] — The cosmic appointment derived from Tānlüng's classification
-- [[doc-empiretnvr|Empire of Tānvür]] — The empire administered under this pantheon
+- [[doc-tanvurempr|Empire of Tānvür]] — The empire administered under this pantheon
