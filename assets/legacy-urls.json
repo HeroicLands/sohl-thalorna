@@ -24,6 +24,7 @@
   "affiliation:thorr": "/thalorna/faith/faith-of-thorr/",
   "affiliation:tyr": "/thalorna/faith/faith-of-tyr/",
   "affiliation:veizhuk": "/thalorna/faith/veizhuk/",
+  "affiliation:velvethand": "/thalorna/affiliation/the-velvet-hand/",
   "affiliation:ymir": "/thalorna/faith/faith-of-ymir/",
   "affiliation:yutvei": "/thalorna/faith/yutvei/",
   "being:abyssdrk": "/thalorna/creature/abyssdrake/",
@@ -122,7 +123,10 @@
   "being:frsttrll": "/thalorna/creature/forest-troll/",
   "being:frstwng": "/thalorna/creature/frostwing/",
   "being:frydslvrhnd": "/thalorna/character/freydis-silverhand/",
-  "being:frztbnlksr": "/thalorna/character/father-izteban-alkassar/",
+  "being:frztbnlksr": [
+    "/thalorna/character/father-izteban-alkassar/",
+    "/thalorna/being/father-izteban-alkassar/"
+  ],
   "being:fthrcrst": "/thalorna/creature/feathercrest-velon/",
   "being:gahijwfnjr": "/thalorna/character/gahiji-wa-fenjara/",
   "being:garlendhrl": "/thalorna/character/garlen-dharel/",
@@ -138,7 +142,10 @@
   "being:gnstnvrnhm": "/thalorna/character/gunnsteinn-vornheim/",
   "being:gntarmdl": "/thalorna/creature/giant-armadillo/",
   "being:gntbr": "/thalorna/creature/giant-boar/",
-  "being:gntbvr": "/thalorna/creature/giant-beaver/",
+  "being:gntbvr": [
+    "/thalorna/creature/giant-beaver/",
+    "/thalorna/being/giant-beaver/"
+  ],
   "being:gntcmlsp": "/thalorna/creature/giant-camel-spider/",
   "being:gntegl": "/thalorna/creature/giant-eagle/",
   "being:gnthdghg": "/thalorna/creature/giant-hedgehog/",
@@ -221,7 +228,10 @@
   "being:lmnphg": "/thalorna/creature/luminophage/",
   "being:lmnshd": "/thalorna/creature/luminshade/",
   "being:lnntstrtgpls": "/thalorna/character/leonantos-strategopoulos/",
-  "being:lrdmlnvsbr": "/thalorna/character/lord-aemilon-visbari/",
+  "being:lrdmlnvsbr": [
+    "/thalorna/character/lord-aemilon-visbari/",
+    "/thalorna/being/lord-aemilon-visbari/"
+  ],
   "being:lrgspdr": "/thalorna/creature/large-spider/",
   "being:lthgnt": "/thalorna/creature/lithogiant/",
   "being:lucernsrnt": "/thalorna/character/lucerian-serentia/",
@@ -235,8 +245,14 @@
   "being:mithrnmznd": "/thalorna/character/mithran-mazanid/",
   "being:mkthsvnrds": "/thalorna/character/makithos-vanardis/",
   "being:mmmthcnt": "/thalorna/creature/mammoth-centipede/",
-  "being:mntndrk": "/thalorna/creature/mountain-drake/",
-  "being:mntntrll": "/thalorna/creature/mountain-troll/",
+  "being:mntndrk": [
+    "/thalorna/creature/mountain-drake/",
+    "/thalorna/being/mountain-drake/"
+  ],
+  "being:mntntrll": [
+    "/thalorna/creature/mountain-troll/",
+    "/thalorna/being/mountain-troll/"
+  ],
   "being:mrkvdrdthmg": "/thalorna/character/morkvidr-the-deathmage/",
   "being:mrlrkr": "/thalorna/creature/mirelurker/",
   "being:mrrrlng": "/thalorna/creature/mirrorling/",
@@ -355,11 +371,13 @@
   "being:spndlfnd": "/thalorna/creature/spindlefiend/",
   "being:srdrzhsycnknghtblckflm": [
     "/thalorna/character/sir-drazha-sycani/",
-    "/thalorna/character/sir-drazha-sycani-knight-of-the-black-flame/"
+    "/thalorna/character/sir-drazha-sycani-knight-of-the-black-flame/",
+    "/thalorna/being/sir-drazha-sycani-knight-of-the-black-flame/"
   ],
   "being:srndrslrcknghtwstrnmrchs": [
     "/thalorna/character/sir-andres-lorca/",
-    "/thalorna/character/sir-andres-lorca-knight-of-the-western-marches/"
+    "/thalorna/character/sir-andres-lorca-knight-of-the-western-marches/",
+    "/thalorna/being/sir-andres-lorca-knight-of-the-western-marches/"
   ],
   "being:stnbst": "/thalorna/creature/stonebeast/",
   "being:stnclmbr": "/thalorna/creature/stoneclimber/",
@@ -447,6 +465,8 @@
   "concoctiongear:ElxIce": "/thalorna/concoctiongear/zepharis-mantle/",
   "concoctiongear:ElxVer": "/thalorna/concoctiongear/hydalis-eye/",
   "concoctiongear:ElxWrm": "/thalorna/concoctiongear/pyrethos-hearth/",
+  "concoctiongear:elxfrm": "/thalorna/concoctiongear/the-second-utterance/",
+  "concoctiongear:ptnsops": "/thalorna/concoctiongear/silk-sleep/",
   "doc:aelendnppl": "/thalorna/lore/aelendan/",
   "doc:aelwyth": "/thalorna/region/aelwyth-region/",
   "doc:affiliatns": [
@@ -456,9 +476,17 @@
     "/thalorna/pantheon/"
   ],
   "doc:altinkale2": "/thalorna/settlement/altinkale-city/",
-  "doc:ankrscntnnt": "/thalorna/continent/ankaris/",
-  "doc:arnscntnnt": "/thalorna/continent/aurionis/",
+  "doc:amradadrgn": "/thalorna/region/amradad-region/",
+  "doc:ankrscntnnt": [
+    "/thalorna/continent/ankaris/",
+    "/thalorna/continent/ankaris-continent/"
+  ],
+  "doc:arnscntnnt": [
+    "/thalorna/continent/aurionis/",
+    "/thalorna/continent/aurionis-continent/"
+  ],
   "doc:ashkabel2": "/thalorna/settlement/ashkabel-city/",
+  "doc:aureldirgn": "/thalorna/region/aureldia-region/",
   "doc:azhun2": "/thalorna/settlement/azhun-city/",
   "doc:balamkiahk2": "/thalorna/settlement/baalam-kiahk-city/",
   "doc:balamkul2": "/thalorna/settlement/balamkul-city/",
@@ -467,68 +495,156 @@
   "doc:bartercnmy": "/thalorna/reference/barter-economy/",
   "doc:beings": ["/thalorna/character/", "/thalorna/creature/"],
   "doc:bethuanflt": "/thalorna/reference/bethuan-fleet/",
+  "doc:bethuargn": "/thalorna/region/bethua-region/",
   "doc:blckpnwlvs": "/thalorna/company/blackpine-wolves/",
   "doc:bordernoms": "/thalorna/polity/border-nomes/",
+  "doc:byzariargn": "/thalorna/region/byzaria-region/",
   "doc:calypsa2": "/thalorna/settlement/calypsa-city/",
-  "doc:capitalnom": "/thalorna/polity/capital-nome/",
+  "doc:capitalnom": [
+    "/thalorna/polity/capital-nome/",
+    "/thalorna/polity/the-capital-nome/"
+  ],
   "doc:chakultzkl2": "/thalorna/settlement/chakul-tzakul-city/",
   "doc:chandrapur2": "/thalorna/settlement/chandrapur-city/",
   "doc:cntrlkchchk": "/thalorna/region/kichchik-central/",
   "doc:crmsyndctsthlrn": "/thalorna/lore/crime-syndicates/",
+  "doc:crsmnthydrvn": "/thalorna/adventure/the-curse-of-mount-hydraven/",
   "doc:deltanomes": "/thalorna/polity/delta-nomes/",
   "doc:denizara2": "/thalorna/settlement/denizara-city/",
   "doc:drenavrspn": "/thalorna/location/drenavar-spine/",
+  "doc:dunharargn": "/thalorna/region/dunhara-region/",
+  "doc:dunhardsrtrgn": "/thalorna/region/dunhara-desert-region/",
   "doc:elavendre": "/thalorna/region/elavendre-region/",
-  "doc:empirtkhpr": "/thalorna/polity/takheperu/",
+  "doc:empiretnvr": "/thalorna/region/empire-of-tanvur/",
+  "doc:empirtkhpr": [
+    "/thalorna/polity/takheperu/",
+    "/thalorna/polity/the-empire-of-takheperu/"
+  ],
   "doc:faecourts": "/thalorna/lore/fae-courts/",
   "doc:graznmntns": "/thalorna/location/grazian-mountains/",
+  "doc:grkrhlmrgn": "/thalorna/region/grukarholm-region/",
   "doc:grukarholm": "/thalorna/polity/kingdom-of-grukarholm/",
   "doc:gumushisar2": "/thalorna/settlement/gumushisar-city/",
+  "doc:gvrnmntbth": "/thalorna/reference/government-of-bethua/",
   "doc:hanalxilan2": "/thalorna/settlement/hanal-xilan-city/",
+  "doc:haradregin": "/thalorna/region/harad-region/",
   "doc:haxaman2": "/thalorna/settlement/ha-xaman-city/",
+  "doc:heladrgn": "/thalorna/region/hellad-region/",
   "doc:helionis": "/thalorna/region/helionis-region/",
+  "doc:hlykngdmnrtm": "/thalorna/polity/holy-kingdom-of-nartum/",
   "doc:irnwlvscmpny": "/thalorna/company/iron-wolves-company/",
-  "doc:isrncntnnt": "/thalorna/continent/iseron/",
+  "doc:isrncntnnt": [
+    "/thalorna/continent/iseron/",
+    "/thalorna/continent/iseron-continent/"
+  ],
+  "doc:jurthatrgn": "/thalorna/region/jurthat-region/",
+  "doc:kaliharargn": "/thalorna/region/kalihara-region/",
   "doc:kalydria2": "/thalorna/settlement/kalydria-city/",
   "doc:kankul2": "/thalorna/settlement/kankul-city/",
   "doc:karatas2": "/thalorna/settlement/karatas-city/",
   "doc:kawiltzakl2": "/thalorna/settlement/kawiil-tzakul-city/",
-  "doc:kchchkcntnnt": "/thalorna/continent/kichchik/",
+  "doc:kchchkcntnnt": [
+    "/thalorna/continent/kichchik/",
+    "/thalorna/continent/kichchik-continent/"
+  ],
   "doc:kethara2": "/thalorna/settlement/kethara-city/",
+  "doc:khzryndsrtrgn": "/thalorna/region/khazryn-desert-region/",
   "doc:kiikbaate2": "/thalorna/settlement/kiik-baate-city/",
+  "doc:kingdmdnvr": "/thalorna/polity/kingdom-of-dunavarre/",
+  "doc:kingdmlnrk": "/thalorna/polity/kingdom-of-leonrik/",
+  "doc:kingdmnrgd": "/thalorna/polity/kingdom-of-norgaad/",
+  "doc:kingdmtrgd": "/thalorna/polity/kingdom-of-targud/",
+  "doc:kingdmtrvn": "/thalorna/polity/kingdom-of-tarvenia/",
+  "doc:kingdomlgn": "/thalorna/polity/kingdom-of-malagna/",
   "doc:kiximtzul2": "/thalorna/settlement/kixim-tzul-city/",
-  "doc:klhrcntnnt": "/thalorna/continent/kalihara/",
+  "doc:klhrcntnnt": [
+    "/thalorna/continent/kalihara/",
+    "/thalorna/continent/kalihara-continent/"
+  ],
+  "doc:kngdmglvrn": "/thalorna/polity/kingdom-of-galvaren/",
+  "doc:kngdmldrth": "/thalorna/polity/kingdom-of-aldorath/",
+  "doc:kngdmlvndr": "/thalorna/polity/kingdom-of-elavendre/",
+  "doc:kngdmnrdhm": "/thalorna/polity/kingdom-of-nordheim/",
+  "doc:kngdmprvnz": "/thalorna/polity/kingdom-of-provenzia/",
+  "doc:kngdmstrth": "/thalorna/polity/kingdom-of-asturath/",
+  "doc:kngdmvthgrd": "/thalorna/polity/kingdom-of-vithgard/",
   "doc:kostaros2": "/thalorna/polity/city-state-of-kostaros/",
   "doc:kuxibalam2": "/thalorna/settlement/kuxi-balam-city/",
   "doc:magnapolis": "/thalorna/settlement/magnapolis-city/",
-  "doc:nomekhnsrt": "/thalorna/polity/nome-of-khensuret/",
-  "doc:nomenkhstn": "/thalorna/polity/nome-of-ankh-setun/",
-  "doc:nomeprnkht": "/thalorna/polity/nome-of-per-ankhet/",
-  "doc:nomeprthth": "/thalorna/polity/nome-of-per-thoth/",
-  "doc:nomesaunfr": "/thalorna/polity/nome-of-sau-neferu/",
-  "doc:nometarshk": "/thalorna/polity/nome-of-ta-resu-heka/",
-  "doc:nometstbtt": "/thalorna/polity/nome-of-ta-set-iabtet/",
+  "doc:midhalnrgn": "/thalorna/region/midhalion-region/",
+  "doc:nomekhnsrt": [
+    "/thalorna/polity/nome-of-khensuret/",
+    "/thalorna/polity/the-nome-of-khensuret/"
+  ],
+  "doc:nomenkhstn": [
+    "/thalorna/polity/nome-of-ankh-setun/",
+    "/thalorna/polity/the-nome-of-ankh-setun/"
+  ],
+  "doc:nomeprnkht": [
+    "/thalorna/polity/nome-of-per-ankhet/",
+    "/thalorna/polity/the-nome-of-per-ankhet/"
+  ],
+  "doc:nomeprthth": [
+    "/thalorna/polity/nome-of-per-thoth/",
+    "/thalorna/polity/the-nome-of-per-thoth/"
+  ],
+  "doc:nomesaunfr": [
+    "/thalorna/polity/nome-of-sau-neferu/",
+    "/thalorna/polity/the-nome-of-sau-neferu/"
+  ],
+  "doc:nometarshk": [
+    "/thalorna/polity/nome-of-ta-resu-heka/",
+    "/thalorna/polity/the-nome-of-ta-resu-heka/"
+  ],
+  "doc:nometstbtt": [
+    "/thalorna/polity/nome-of-ta-set-iabtet/",
+    "/thalorna/polity/the-nome-of-ta-set-iabtet/"
+  ],
+  "doc:nrdlndsrgn": "/thalorna/region/nordlands-region/",
+  "doc:nrthrnfrtlrgn": "/thalorna/region/northern-fertile-region/",
   "doc:nrthrnkchchk": "/thalorna/region/kichchik-north/",
+  "doc:okharisrgn": "/thalorna/region/okharis-region/",
   "doc:pelagora2": "/thalorna/settlement/pelagora-city/",
   "doc:pelwarpepl": "/thalorna/lore/pelwar/",
+  "doc:provenzrgn": "/thalorna/region/provenzia-region/",
   "doc:silvrfrsts": "/thalorna/location/silver-forests/",
   "doc:slntlncmpny": "/thalorna/company/silent-talon/",
   "doc:sthrnkchchk": "/thalorna/region/kichchik-south/",
+  "doc:takheperurgn": "/thalorna/region/takheperu-region/",
+  "doc:tanvuregin": "/thalorna/region/tanvur-region/",
+  "doc:tarvenirgn": "/thalorna/region/tarvenia-region/",
   "doc:theradon2": "/thalorna/settlement/theradon-city/",
   "doc:thetamzir": "/thalorna/company/tamzir/",
   "doc:thyrenae2": "/thalorna/settlement/thyrenae-city/",
-  "doc:tnvrlnggrfrnc": "/thalorna/lore/tanvuri-language/",
+  "doc:tnvrlnggrfrnc": [
+    "/thalorna/lore/tanvuri-language/",
+    "/thalorna/lore/tanvuri-language-reference/"
+  ],
+  "doc:trnnlgsrfrnc": "/thalorna/lore/terran-analogs-reference/",
   "doc:tzikin2": "/thalorna/settlement/tzikin-city/",
   "doc:tzikinbalm2": "/thalorna/settlement/tzikin-baalam-city/",
   "doc:tzumanotun2": "/thalorna/settlement/tzuma-notun-city/",
   "doc:uperivrnms": "/thalorna/polity/upper-river-nomes/",
-  "doc:vedyarargn": "/thalorna/region/vedyara/",
+  "doc:vedyarargn": [
+    "/thalorna/region/vedyara/",
+    "/thalorna/region/vedyara-region/"
+  ],
+  "doc:velanthrgn": "/thalorna/region/velanthia-region/",
   "doc:vrystwald": "/thalorna/region/vrystwald-region/",
   "doc:vyalendra3": "/thalorna/settlement/vyalendra-city/",
+  "doc:vylariargn": "/thalorna/region/vylaria-region/",
+  "doc:vylarinmpr": "/thalorna/polity/vylarian-empire/",
   "doc:worldthlrn": "/thalorna/world/thalorna/",
   "doc:wrldppltnthlrn": "/thalorna/reference/world-population/",
   "doc:xikulchakl2": "/thalorna/settlement/xikul-chakal-city/",
   "doc:yesilhan2": "/thalorna/settlement/yesilhan-city/",
+  "docaffiliation:velvethand": "/thalorna/affiliation/the-velvet-hand/",
+  "docconcoctiongear:elxfrm": "/thalorna/concoctiongear/the-second-utterance/",
+  "docconcoctiongear:ptnsops": "/thalorna/concoctiongear/silk-sleep/",
+  "docmysticalability:arcshld": "/thalorna/mysticalability/arcane-shield/",
+  "docmysticalability:thrall": "/thalorna/mysticalability/thrall/",
+  "mysticalability:arcshld": "/thalorna/mysticalability/arcane-shield/",
+  "mysticalability:thrall": "/thalorna/mysticalability/thrall/",
   "skill:hydalis": "/thalorna/skill/incantushydalis/",
   "skill:inchyd": "/thalorna/skill/incantushydalis/",
   "skill:incken": "/thalorna/skill/incantuskentra/",

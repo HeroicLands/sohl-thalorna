@@ -31,7 +31,7 @@ gitignored, and no compiled output is committed.
 The pack compiler is [`@heroiclands/content-build`](https://www.npmjs.com/package/@heroiclands/content-build),
 the shared toolchain every HeroicLands content package builds with. This
 repository declares what is its own — the content package it compiles, the
-Foundry package it ships, its pack list — in `content-build.config.mjs`, and
+Foundry package it ships, its pack list — in `content-build.config.yaml`, and
 holds no copy of the compilers.
 
 ## Publishing to the website
