@@ -2,8 +2,6 @@
 aliases:
   - Beings
   - doc-beings
-  - doc-characters
-  - doc-creatures2
 id: xTfvYG6qYHuI8qst
 name:
   full: Beings

@@ -1,0 +1,190 @@
+# This repository's content-build configuration — everything about the pack
+# pipeline that is *this* repository's rather than the shared toolchain's.
+#
+# The compilers themselves live in `@heroiclands/content-build`, installed as a
+# devDependency; this file is the whole of what used to be a vendored copy of
+# `utils/packs/`. Every value those compilers carried as a module-level
+# constant — which content package they select, which Foundry package ships the
+# result, where the content tree and the build outputs live, what each compiled
+# document's `_stats` block says, and which packs exist — is declared here.
+#
+# **This file is the source; the manifest is generated from it.** That arrow
+# used to point the other way: `assets/templates/module.template.json` was
+# hand-authored JSON holding the pack list, the Foundry range and the package id
+# a second time, and the build read `compatibility.minimum` back out of it. The
+# template is retired (#50, package-build#9) and nothing reads it any more.
+#
+# **What is absent is derived, not forgotten.** `rootDir` is the directory this
+# file sits in; `foundryPackage` is the `name` of the `package.json` beside it;
+# `stats.systemVersion` is, for a module, the `verified` version of the system
+# it declares a relationship with. Authoring any of them is an error, not an
+# override — which is the fix for the `0.6.0` this repository stamped into every
+# compiled document for as long as the value was transcribed by hand.
+
+# The distribution unit a note declares in its `package:` frontmatter. The pack
+# compilers select their entries by it, and it is stable across compilation
+# targets. This is the value that made a shared toolchain necessary: until
+# content-build #1502 the compilers filtered on the literal `"sohl"`, so this
+# repository would have compiled nothing at all (#1441).
+contentPackage: thalorna
+
+# Thalorna ships as a Foundry *module* — hence `module.json` rather than a
+# system manifest. `foundryPackage` is deliberately absent: it is the `name` of
+# the adjacent `package.json`, `sohl-thalorna`, and is the first segment of
+# every compendium UUID the compilers emit. Distinct from `contentPackage`
+# above: a note says `package: thalorna`, and the documents it compiles into are
+# addressed as `Compendium.sohl-thalorna.<pack>.<Type>.<id>` (#1498).
+packageKind: modules
+
+# The **Foundry core** range this module supports. `minimum` is stamped into
+# every compiled document as `_stats.coreVersion`, so a document never claims to
+# predate the migrations that would rewrite it.
+#
+# Moved here verbatim from the retired manifest template, stale values and all,
+# so that this change is provably a change of mechanism and not of output. What
+# range the module should actually claim is a separate question — the system it
+# targets is well past the range declared under `relationships` below.
+compatibility:
+  minimum: "14"
+  verified: "14.364"
+
+# What this module declares about the **game system** it ships content for.
+# Passed through to the generated manifest unchanged, and read for exactly one
+# derivation: `stats.systemVersion` is `systems[].compatibility.verified`,
+# because a module's own `package.json` version is the *module's* and stamping
+# it would claim a system version that never existed.
+#
+# Also moved verbatim, and also stale — see the note above `compatibility`.
+relationships:
+  systems:
+    - id: sohl
+      type: system
+      manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
+      compatibility:
+        minimum: "0.4.0"
+        verified: "0.4.3"
+
+# Stamped into every compiled document's `_stats`. `systemId` names the game
+# system the content is *for*, which this module — shipping SoHL content —
+# declares as "sohl". `coreVersion` is deliberately absent: it is the top-level
+# `compatibility.minimum` above. So is `systemVersion`, derived as described
+# under `relationships`.
+stats:
+  systemId: sohl
+  lastModifiedBy: sohlbuilder00000
+
+# Which content types compile into Items, and what builds each one's `system`
+# block. `itemTypes` and the doc-carrying-type set are derived from the
+# registry's keys, so a type cannot be accepted without a builder behind it
+# (#1504). It is named rather than supplied: the registry is SoHL data-model
+# knowledge living in the toolchain's `sohl` half, and data cannot carry code.
+# Thalorna's items are SoHL items, so it takes that table unchanged.
+itemBuilders: sohl
+
+# The one pack list — the manifest's `packs` array is generated from it, so the
+# two can no longer drift apart the way they had (#8: the manifest declared
+# five packs while the build compiled two, and Foundry was told to load three
+# directories that did not exist).
+#
+# `actors` is deliberately absent: a Thalorna being is authored as nested items
+# addressed by shortcode (`attribute:str`, `skill:awar`), and almost all of
+# those are defined by the **`sohl` package**, which this repository does not
+# hold. Turning it on needs that package's compiled items available as a
+# build-time catalog, at which point re-enabling it is this list and nothing
+# else (#6, #1441).
+packs:
+  - { name: items, label: Items, type: Item, folders: item-folders.yaml }
+  - {
+      name: journals,
+      label: Journals,
+      type: JournalEntry,
+      folders: journal-folders.yaml,
+    }
+
+# This repository publishes a website (at `/thalorna/`) and a link manifest, and
+# consumes the manifest of the `sohl` package it links into — vendored at
+# `assets/manifests/sohl.json` (#1385/#1451).
+publish:
+  site: true
+  manifests: { publish: true, consume: true }
+
+  # How a note's address is formed. Both values are this repository's existing
+  # scheme written down rather than a change to it: the content tree mounts at
+  # the package root, and a `doc` note whose `category` is `collection`
+  # addresses the section it introduces rather than taking a slug of its own.
+  address:
+    prefix: ""
+    landing: collection
+
+# Everything `@heroiclands/package-build` needs. It reads this same file rather
+# than one of its own: `packageKind` and `foundryPackage` above are two of the
+# values it wants, and restating them in a second file is two places for one
+# fact — which is what `utils/push-stage.mjs` did in the repository this
+# scaffold was copied from, before it was deleted.
+packageBuild:
+  # Staged into `build/stage` (the default), so each `to:` is the path *within*
+  # the shipped module. A content module ships almost none of what a system
+  # does — no audio, icons, fonts, silhouettes, UI art or Handlebars
+  # templates. The compendium packs are not listed either: `build:compiledb`
+  # compiles them into `build/stage/packs` directly from `assets/content`.
+  assets:
+    - { from: lang, to: lang }
+    # Declared in the manifest's `styles`, so Foundry loads it whenever the
+    # module is active — including under another system, where the system's
+    # stylesheet is absent and this is the only thing marking an unresolved
+    # link.
+    - { from: styles, to: styles }
+    - { from: README.md, to: README.md }
+    # The dual license: the explainer, plus the full text of each half, at
+    # the same paths the explainer points at.
+    - { from: LICENSE.md, to: LICENSE.md }
+    - { from: src/LICENSE, to: src/LICENSE }
+    - { from: assets/LICENSE, to: assets/LICENSE }
+
+  # The Foundry package manifest, generated into the build stage by
+  # `package-build manifest`. Emitted as declared — `id`, `version`, the four
+  # release addresses, `compatibility`, `relationships` and `packs` are
+  # derived and must not appear here.
+  #
+  # Moved verbatim out of the retired `assets/templates/module.template.json`.
+  manifest:
+    title: Thalorna Setting
+    description: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
+    authors:
+      - name: Toasty
+        discord: toasty#8538
+        flags: {}
+    license: LICENSE.md
+    readme: README.md
+    changelog: CHANGELOG.md
+    flags:
+      allowBugReporter: true
+    languages:
+      - lang: en
+        name: English
+        path: lang/en.json
+    esmodules:
+      - sohl-thalorna.mjs
+    styles:
+      - src: styles/sohl-thalorna.css
+        layer: sohl-thalorna
+    # Names only the packs this build compiles. The retired template listed
+    # five here as well, three of which were never built.
+    packFolders:
+      - name: Thalorna
+        sorting: m
+        color: "#008000"
+        packs:
+          - items
+          - journals
+    media:
+      - type: setup
+        url: systems/sohl/assets/ui/sohl-setup.webp
+        thumbnail: systems/sohl/assets/ui/sohl-setup-thumb.webp
+      - type: logo
+        url: systems/sohl/assets/ui/sohl-logo.webp
+      - type: icon
+        url: systems/sohl/assets/ui/sohl-icon.webp
+      - type: banner
+        url: systems/sohl/assets/ui/sohl-banner.webp
+    socket: true
