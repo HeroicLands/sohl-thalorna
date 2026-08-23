@@ -23,7 +23,6 @@ category: polity
 package: thalorna
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 demonym: Tānvüri
-population: "~7,000,000"
 subType: empire
 capital: ""
 ruler:
