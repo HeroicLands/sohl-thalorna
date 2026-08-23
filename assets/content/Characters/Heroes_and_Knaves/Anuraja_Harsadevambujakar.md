@@ -3,7 +3,6 @@ aliases:
   - Anûraja Harṣadēvāmbujakar
   - Anûraja Harṣadēvāmbujakar
   - Anuraja Harsadevambujakar
-  - being-anrjhrdvmbjkr
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Quill
-  - mysticalability-scribe
 tags: []
 name:
   full: Scribe

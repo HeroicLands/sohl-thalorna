@@ -2,7 +2,6 @@
 aliases:
   - Yálith Kálmereth
   - Yalith Kalmereth
-  - being-ylthklmrth
 tags:
   - draft
 name:

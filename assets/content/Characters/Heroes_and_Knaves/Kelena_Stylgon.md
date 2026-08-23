@@ -3,7 +3,6 @@ aliases:
   - Kêlena Stýlgon
   - Kêlena Stýlgon
   - Kelena Stylgon
-  - being-kelnstylgn
 tags:
   - heroes-and-knaves
 name:

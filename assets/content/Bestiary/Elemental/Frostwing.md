@@ -1,7 +1,6 @@
 ---
 aliases:
   - Frostwing
-  - being-frstwng
 tags:
   - elemental
 name:

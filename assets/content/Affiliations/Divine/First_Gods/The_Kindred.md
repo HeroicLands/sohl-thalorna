@@ -3,7 +3,6 @@ aliases:
   - The Kindred
   - The Spirit-Kindred
   - Kindred of the First
-  - affiliation-thekindred
 tags: []
 description: The animal and place spirits who serve the Two Powers — venerated, appeased, or warded against by the Áelendan tribes, and the substance of daily religious practice.
 id: S5hZbMaTymAeOQiA

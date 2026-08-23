@@ -1,7 +1,6 @@
 ---
 aliases:
   - River
-  - mysticalability-strmflw
 tags: []
 name:
   full: Streamflow

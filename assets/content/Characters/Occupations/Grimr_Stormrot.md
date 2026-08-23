@@ -2,7 +2,6 @@
 aliases:
   - Grímr Stormrót
   - Grimr Stormrot
-  - being-grmrstrmrt
 tags:
   - draft
 name:

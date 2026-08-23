@@ -2,7 +2,6 @@
 aliases:
   - Lôthônâ Hârlânis
   - Lothona Harlanis
-  - being-lothnhrlns
 tags:
   - todo-warrior
   - draft

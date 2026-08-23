@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ostenna
-  - doc-ostenna
 id: Al6yPx7kOm8Sb3Ln
 type: doc
 category: settlement

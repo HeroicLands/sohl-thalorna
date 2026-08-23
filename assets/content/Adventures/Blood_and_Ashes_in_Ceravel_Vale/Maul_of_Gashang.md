@@ -3,7 +3,6 @@ tags:
   - draft
 aliases:
   - Maul of Gashang
-  - doc-maulgashng
 id: d9BoTVxtuL3YRqgD
 type: doc
 name:

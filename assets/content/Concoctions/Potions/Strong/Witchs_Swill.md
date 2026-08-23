@@ -2,7 +2,6 @@
 aliases:
   - "Witch's Swill"
   - "Potion, Emetic, Strong"
-  - concoctiongear-PtnEmS
 tags:
   - strong-elixir
 name:

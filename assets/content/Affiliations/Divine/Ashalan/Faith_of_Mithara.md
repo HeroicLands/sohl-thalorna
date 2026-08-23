@@ -2,7 +2,6 @@
 aliases:
   - Faith of Míthárä
   - The World's First Light
-  - affiliation-mithara
 id: 8PG0NECWKMt86vzh
 tags:
   - religion

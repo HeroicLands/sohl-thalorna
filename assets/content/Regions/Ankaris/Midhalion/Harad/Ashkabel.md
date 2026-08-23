@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ashkabel
-  - doc-ashkabel
 id: J70oGhDn5xVo7j8f
 description: "City-state of scholars, artists, and shipwrights on Harad's southern coast — smaller and less martial than its sisters, but burning with the creative energy that makes it Harad's cultural heart."
 type: doc

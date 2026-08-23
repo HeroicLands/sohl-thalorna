@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sound
-  - mysticalability-rsnnc
 tags: []
 name:
   full: Resonance

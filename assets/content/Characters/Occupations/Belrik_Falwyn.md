@@ -2,7 +2,6 @@
 aliases:
   - Bélrik Fálwyn
   - Belrik Falwyn
-  - being-belrkflwyn
 tags:
   - draft
 name:

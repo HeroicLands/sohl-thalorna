@@ -2,7 +2,6 @@
 aliases:
   - Telvári
   - Telvari
-  - doc-telvari
 id: WBqnuiArBf5PZWiO
 type: doc
 category: settlement

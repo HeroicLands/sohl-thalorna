@@ -3,7 +3,6 @@ aliases:
   - Firâvâd Pâresak
   - Firâvâd Pâresak
   - Firavad Paresak
-  - being-firavdprsk
 tags:
   - heroes-and-knaves
 name:

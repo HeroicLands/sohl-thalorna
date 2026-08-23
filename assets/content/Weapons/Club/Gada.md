@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gada
-  - weapongear-Gada
 tags: []
 name:
   full: Gada

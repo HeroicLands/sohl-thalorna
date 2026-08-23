@@ -1,7 +1,6 @@
 ---
 aliases:
   - Freydis Silverhand
-  - being-frydslvrhnd
 tags:
   - hero
   - heroes-of-asguard

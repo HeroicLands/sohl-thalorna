@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fireflit
-  - being-fireflit
 tags:
   - elemental
 name:

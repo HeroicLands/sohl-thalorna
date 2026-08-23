@@ -3,7 +3,6 @@ aliases:
   - Nushir Narsâfî
   - Nushir Narsâfî
   - Nushir Narsafi
-  - being-nushirnrsf
 tags:
   - heroes-and-knaves
 name:

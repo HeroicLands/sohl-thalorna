@@ -1,7 +1,6 @@
 ---
 aliases:
   - Golshahr
-  - doc-golshahr
 id: SulSgH0GRCJUbMll
 type: doc
 category: settlement

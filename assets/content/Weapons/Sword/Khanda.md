@@ -1,7 +1,6 @@
 ---
 aliases:
   - Khanda
-  - weapongear-Knda
 tags: []
 name:
   full: Khanda

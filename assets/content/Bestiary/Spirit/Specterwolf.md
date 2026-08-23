@@ -1,7 +1,6 @@
 ---
 aliases:
   - Specterwolf
-  - being-spctrwlf
 tags:
   - spirit
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Beacon
-  - mysticalability-lghtspr
 tags: []
 name:
   full: Lightspire

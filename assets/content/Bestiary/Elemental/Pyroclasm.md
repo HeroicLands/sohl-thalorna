@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pyroclasm
-  - being-pyrclsm
 tags:
   - elemental
 name:

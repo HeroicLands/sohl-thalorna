@@ -2,7 +2,6 @@
 aliases:
   - Arzânalàs Bâredâs
   - Arzanalas Baredas
-  - being-arznlsbrds
 tags:
   - draft
 name:

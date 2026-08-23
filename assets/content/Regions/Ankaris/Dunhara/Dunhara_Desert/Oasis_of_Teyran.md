@@ -1,7 +1,6 @@
 ---
 aliases:
   - Oasis of Teyran
-  - doc-oasisteyrn
 id: GufmJbVpnn7ABWGl
 type: doc
 category: settlement

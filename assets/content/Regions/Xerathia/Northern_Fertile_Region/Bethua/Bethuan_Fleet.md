@@ -3,7 +3,6 @@ aliases:
   - The Bethûan Fleet
   - Navy of Bethûa
   - The Purple Warrant
-  - doc-bethuanflt
 tags:
   - military
   - navy

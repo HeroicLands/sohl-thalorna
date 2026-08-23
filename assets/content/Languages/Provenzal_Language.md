@@ -1,7 +1,6 @@
 ---
 aliases:
   - Provenzal
-  - doc-provnzlngg
 id: DT6O6Enx6UQzQoCA
 name:
   full: Provenzal Language

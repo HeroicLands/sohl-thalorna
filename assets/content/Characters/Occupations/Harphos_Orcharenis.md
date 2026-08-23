@@ -2,7 +2,6 @@
 aliases:
   - Harphôs Ôrchârenîs
   - Harphos Orcharenis
-  - being-hrphsrchrns
 tags:
   - draft
 name:

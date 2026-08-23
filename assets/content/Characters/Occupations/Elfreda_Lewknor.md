@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elfreda Lewknor
-  - being-elfrdlwknr
 tags:
   - draft
 name:

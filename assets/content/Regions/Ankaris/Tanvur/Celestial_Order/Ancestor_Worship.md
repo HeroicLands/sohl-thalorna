@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ancestor Worship
-  - doc-ancstrwrshp
 id: HsTCTeOJqNcesHck
 type: doc
 category: lore

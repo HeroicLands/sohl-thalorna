@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mend
-  - mysticalability-repair
 tags: []
 name:
   full: Repair

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Silvain
-  - doc-silvain
 id: ELnmJWDc7tzAXnaz
 type: doc
 category: settlement

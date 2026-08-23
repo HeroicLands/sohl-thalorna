@@ -2,7 +2,6 @@
 aliases:
   - The Dispelling Draft
   - Physic Elixir
-  - concoctiongear-ElxPhy
 tags:
   - elixir
 name:

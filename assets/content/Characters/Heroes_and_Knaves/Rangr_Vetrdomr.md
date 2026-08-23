@@ -3,7 +3,6 @@ aliases:
   - Rängr Vetrdómr
   - Rängr Vetrdómr
   - Rangr Vetrdomr
-  - being-rngrvtrdmr
 tags:
   - heroes-and-knaves
 name:

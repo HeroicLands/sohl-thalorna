@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grukarholm
-  - doc-grukarholm2
 id: kRq6vgWmxMG5MZ4V
 type: doc
 category: settlement

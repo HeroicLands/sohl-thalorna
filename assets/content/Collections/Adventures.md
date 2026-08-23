@@ -1,7 +1,6 @@
 ---
 aliases:
   - Adventures
-  - doc-adventures
 id: NBEJoUc4b4XcLsiI
 name:
   full: Adventures

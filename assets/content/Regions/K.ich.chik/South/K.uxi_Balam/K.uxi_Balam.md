@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'uxi Balam
-  - doc-kuxibalam
 tags:
   - polity
 title: ""

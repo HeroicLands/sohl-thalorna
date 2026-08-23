@@ -2,7 +2,6 @@
 aliases:
   - Edrígar Sundrýth
   - Edrigar Sundryth
-  - being-edrgrsndryth
 tags:
   - draft
 name:

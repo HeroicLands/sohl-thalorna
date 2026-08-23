@@ -2,7 +2,6 @@
 aliases:
   - Castra Praetoria
   - The Castra
-  - doc-castraprtr
 tags:
   - settlement
   - vylaria

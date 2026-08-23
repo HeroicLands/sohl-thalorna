@@ -2,7 +2,6 @@
 aliases:
   - "Widow's Whisper"
   - "Potion, Poison, Mild"
-  - concoctiongear-PtnPoiM
 tags:
   - mild-elixir
 name:

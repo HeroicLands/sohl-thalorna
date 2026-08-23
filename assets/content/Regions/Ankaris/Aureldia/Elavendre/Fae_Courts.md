@@ -2,7 +2,6 @@
 aliases:
   - The Fae Courts
   - Fae Courts
-  - doc-faecourts
 id: xC94NpQeBYOyeezn
 type: doc
 category: lore

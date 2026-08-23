@@ -3,7 +3,6 @@ aliases:
   - Vígbrandr Skýrekkr
   - Vígbrandr Skýrekkr
   - Vigbrandr Skyrekkr
-  - being-vgbrndrskyrkr
 tags:
   - heroes-and-knaves
 name:

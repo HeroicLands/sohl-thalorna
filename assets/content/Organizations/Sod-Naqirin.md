@@ -5,7 +5,6 @@ aliases:
   - The Sôd
   - The Council of the Guild-Wardens
   - Bêt-Naqîrîn
-  - affiliation-sodnaqirin
 tags:
   - organization
   - harad

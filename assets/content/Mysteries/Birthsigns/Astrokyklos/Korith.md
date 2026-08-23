@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-korith
 tags: []
 name:
   full: Korith

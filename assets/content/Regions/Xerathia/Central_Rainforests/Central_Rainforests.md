@@ -3,7 +3,6 @@ aliases:
   - Central Rainforests
   - Xerathian Rainforests
   - Green Interior
-  - doc-cntrlrnfrsts
 tags:
   - region
 title: ""

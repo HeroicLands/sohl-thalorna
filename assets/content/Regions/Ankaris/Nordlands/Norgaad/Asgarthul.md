@@ -1,7 +1,6 @@
 ---
 aliases:
   - Asgarthul
-  - doc-asgarthul
 id: wuwfHIB8d0m5SUnV
 type: doc
 category: settlement

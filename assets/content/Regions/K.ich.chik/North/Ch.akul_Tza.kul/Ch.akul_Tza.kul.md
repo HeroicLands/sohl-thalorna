@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ch'akul Tza'kul
-  - doc-chakultzkl
 tags:
   - polity
 title: ""

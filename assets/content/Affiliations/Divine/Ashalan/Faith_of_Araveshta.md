@@ -2,7 +2,6 @@
 aliases:
   - Faith of Árávēštä
   - The Golden Giver
-  - affiliation-aravesta
 id: dnb5G8ef4quWwoK3
 tags:
   - religion

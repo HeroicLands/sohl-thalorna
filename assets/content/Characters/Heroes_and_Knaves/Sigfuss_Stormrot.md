@@ -3,7 +3,6 @@ aliases:
   - Sigfúss Stormrót
   - Sigfúss Stormrót
   - Sigfuss Stormrot
-  - being-sigfstrmrt
 tags:
   - heroes-and-knaves
 name:

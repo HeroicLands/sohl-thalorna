@@ -2,7 +2,6 @@
 aliases:
   - Shárîna Thâmîdon
   - Sharina Thamidon
-  - being-sharnthmdn
 tags:
   - draft
 name:

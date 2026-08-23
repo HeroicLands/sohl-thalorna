@@ -1,7 +1,6 @@
 ---
 aliases:
   - Yâsûra the Jackal
-  - being-yasurajckl
 tags:
   - heroes-and-knaves
   - hero

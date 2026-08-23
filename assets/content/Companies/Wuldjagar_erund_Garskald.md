@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wuldjagâr erund Gárskald
-  - doc-wldjgrrndgrskld
 tags:
   - company
   - hunters

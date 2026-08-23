@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-dsbd
 tags: []
 name:
   full: Disembodiment

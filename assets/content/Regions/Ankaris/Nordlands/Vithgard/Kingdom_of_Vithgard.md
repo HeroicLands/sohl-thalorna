@@ -2,7 +2,6 @@
 aliases:
   - Kingdom of Vithgard
   - Vithgard
-  - doc-kngdmvthgrd
 id: tuoLf29uNWFoLJy7
 description: "Northernmost Normen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses — whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
 type: doc

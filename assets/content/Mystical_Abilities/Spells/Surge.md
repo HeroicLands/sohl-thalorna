@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wave
-  - mysticalability-surge
 tags: []
 name:
   full: Surge

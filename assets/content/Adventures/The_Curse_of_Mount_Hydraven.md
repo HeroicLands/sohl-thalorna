@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Curse of Mount Hýdraven
-  - doc-crsmnthydrvn
 id: xCNkAt1rQJwhrv0c
 name:
   full: The Curse of Mount Hydraven

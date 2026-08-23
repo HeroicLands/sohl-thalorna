@@ -2,7 +2,6 @@
 aliases:
   - Nûlazî Zarrâshî
   - Nulazi Zarrashi
-  - being-nulazizrsh
 tags:
   - draft
 name:

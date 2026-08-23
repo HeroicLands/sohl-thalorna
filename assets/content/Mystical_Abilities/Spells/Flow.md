@@ -1,7 +1,6 @@
 ---
 aliases:
   - Transfer
-  - mysticalability-flow
 tags: []
 name:
   full: Flow

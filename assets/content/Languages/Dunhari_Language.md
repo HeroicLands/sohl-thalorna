@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dunhari
-  - doc-dunharlngg
 id: go6gxjqeNeFMuUAT
 name:
   full: Dunhari Language

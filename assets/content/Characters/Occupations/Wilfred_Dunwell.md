@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wilfred Dunwell
-  - being-wilfrednwl
 tags:
   - draft
 name:

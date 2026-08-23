@@ -1,7 +1,6 @@
 ---
 aliases:
   - Assemble
-  - mysticalability-cnstrct
 tags: []
 name:
   full: Construct

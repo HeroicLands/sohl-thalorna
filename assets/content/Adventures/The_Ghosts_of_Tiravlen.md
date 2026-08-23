@@ -2,7 +2,6 @@
 aliases:
   - The Ghosts of Tîravlen
   - The Ghosts of Tiravlen
-  - doc-ghststrvln
 id: AgiBQ1eiTlm3XTyO
 name:
   full: The Ghosts of Tîravlen

@@ -2,7 +2,6 @@
 aliases:
   - Sinalë Folk
   - Sinale Folk
-  - doc-flksinale
 tags:
   - lore
   - lineage

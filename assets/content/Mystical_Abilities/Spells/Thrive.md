@@ -1,7 +1,6 @@
 ---
 aliases:
   - Growth
-  - mysticalability-thrive
 tags: []
 name:
   full: Thrive

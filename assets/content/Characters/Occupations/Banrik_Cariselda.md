@@ -2,7 +2,6 @@
 aliases:
   - Bánrik Cáriselda
   - Banrik Cariselda
-  - being-banrkcrsld
 tags:
   - draft
 name:

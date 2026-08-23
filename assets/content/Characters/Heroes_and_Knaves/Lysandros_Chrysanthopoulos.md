@@ -3,7 +3,6 @@ aliases:
   - Lysándros Chrysanthópoulos
   - Lysándros Chrysanthópoulos
   - Lysandros Chrysanthopoulos
-  - being-lysndrschrysnthpls
 tags:
   - heroes-and-knaves
 name:

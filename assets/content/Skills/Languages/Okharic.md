@@ -1,7 +1,6 @@
 ---
 aliases:
   - Okháric
-  - skill-langokh
 tags: []
 name:
   full: Okháric

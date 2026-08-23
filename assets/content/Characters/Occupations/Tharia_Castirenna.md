@@ -2,7 +2,6 @@
 aliases:
   - Thária Castírenna
   - Tharia Castirenna
-  - being-tharicstrn
 tags:
   - draft
 name:

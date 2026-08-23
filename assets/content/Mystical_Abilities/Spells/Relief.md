@@ -1,7 +1,6 @@
 ---
 aliases:
   - Succour
-  - mysticalability-relief
 tags: []
 name:
   full: Relief

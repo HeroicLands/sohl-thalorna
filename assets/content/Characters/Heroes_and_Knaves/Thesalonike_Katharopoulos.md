@@ -3,7 +3,6 @@ aliases:
   - Thêsaloníke Katharópoulos
   - Thêsaloníke Katharópoulos
   - Thesalonike Katharopoulos
-  - being-thslnkkthrpls
 tags:
   - heroes-and-knaves
 name:

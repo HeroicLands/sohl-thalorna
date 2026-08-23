@@ -1,7 +1,6 @@
 ---
 aliases:
   - The God of Dreams
-  - doc-goddreams
 id: 4prEOILdB8O1sX7q
 tags:
   - deity

@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Rëkgüng"
   - Rëkgüng
   - Rekgung
-  - skill-rekgung
 tags:
   - celestial-pantheon
   - faith-skill

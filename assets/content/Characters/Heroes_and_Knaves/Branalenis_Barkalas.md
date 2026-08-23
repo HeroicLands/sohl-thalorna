@@ -3,7 +3,6 @@ aliases:
   - Brânalenîs Bárkalâs
   - Brânalenîs Bárkalâs
   - Branalenis Barkalas
-  - being-brnlnsbrkls
 tags:
   - heroes-and-knaves
 name:

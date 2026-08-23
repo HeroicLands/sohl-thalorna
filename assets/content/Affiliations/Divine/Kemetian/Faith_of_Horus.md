@@ -2,7 +2,6 @@
 aliases:
   - Faith of Hórús
   - Hórús, The Guiding Falcon
-  - affiliation-horus
 id: 9lJldXhTBsDUDurQ
 tags:
   - kemetian

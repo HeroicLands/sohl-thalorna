@@ -2,7 +2,6 @@
 aliases:
   - Zargandûr
   - Zargandur
-  - doc-zargandur
 id: ge8mFHcZJR9yiiKZ
 type: doc
 category: settlement

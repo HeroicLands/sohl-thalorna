@@ -2,7 +2,6 @@
 aliases:
   - Vëngdāk Zhütvōr
   - Vengdak Zhutvor
-  - affiliation-vngdkzhtvr
 id: hQwxgmytJawKPlD8
 tags:
   - celestial-order

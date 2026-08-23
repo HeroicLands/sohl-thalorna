@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dunkelwald
-  - doc-dunkelwald
 id: BvtBiuBimYBhWyf6
 type: doc
 category: settlement

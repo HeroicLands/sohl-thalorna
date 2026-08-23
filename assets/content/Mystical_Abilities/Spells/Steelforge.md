@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tempering
-  - mysticalability-stlfrg
 tags: []
 name:
   full: Steelforge

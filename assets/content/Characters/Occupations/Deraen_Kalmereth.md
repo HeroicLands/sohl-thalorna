@@ -2,7 +2,6 @@
 aliases:
   - Déraen Kálmereth
   - Deraen Kalmereth
-  - being-dernklmrth
 tags:
   - draft
 name:

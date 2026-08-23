@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dao
-  - weapongear-Dao
 tags: []
 name:
   full: Dao

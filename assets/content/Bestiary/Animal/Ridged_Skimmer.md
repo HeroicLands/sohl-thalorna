@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ridged Skimmer
-  - being-rdgdskmm
 tags:
   - animal
 name:

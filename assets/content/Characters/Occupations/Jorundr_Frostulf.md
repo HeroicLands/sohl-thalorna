@@ -2,7 +2,6 @@
 aliases:
   - Jǫrundr Frostulf
   - Jorundr Frostulf
-  - being-jrndrfrstlf
 tags:
   - draft
 name:

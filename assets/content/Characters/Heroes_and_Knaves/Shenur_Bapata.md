@@ -2,7 +2,6 @@
 aliases:
   - Shenur Ba'pata
   - Shenur Bapata
-  - being-shenurbapt
 tags:
   - heroes-and-knaves
 name:

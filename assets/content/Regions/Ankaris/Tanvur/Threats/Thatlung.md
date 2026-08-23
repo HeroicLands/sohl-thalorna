@@ -2,7 +2,6 @@
 aliases:
   - Thātlüng
   - Thatlung
-  - doc-thatlung
 id: dShd6mhcDw4j2zkN
 type: doc
 category: lore

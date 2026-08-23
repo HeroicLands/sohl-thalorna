@@ -2,7 +2,6 @@
 aliases:
   - The Black Rebuke
   - "Potion, Emetic, Great"
-  - concoctiongear-PtnEmG
 tags:
   - great-elixir
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Faith of Ánubís
   - Ánubís, The Keeper of Transitions
-  - affiliation-anubis
 id: osYzxx5U7L4i9ewN
 tags:
   - kemetian

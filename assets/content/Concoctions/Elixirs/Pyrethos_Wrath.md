@@ -2,7 +2,6 @@
 aliases:
   - "Pyréthos's Wrath"
   - Eruption Elixir
-  - concoctiongear-ElxErp
 tags:
   - elixir
 name:

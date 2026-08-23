@@ -4,7 +4,6 @@ aliases:
   - Mother of New Beginnings
   - Íšét
   - Iset
-  - affiliation-iset
 id: mUm5RJA1Qwqj3EjJ
 tags:
   - kemetian

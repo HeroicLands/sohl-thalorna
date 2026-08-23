@@ -2,7 +2,6 @@
 aliases:
   - The Shattering Cry
   - Shout Elixir
-  - concoctiongear-ElxSht
 tags:
   - elixir
 name:

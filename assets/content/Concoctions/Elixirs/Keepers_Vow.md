@@ -2,7 +2,6 @@
 aliases:
   - "Keeper's Vow"
   - Object Aegis Elixir
-  - concoctiongear-ElxObA
 tags:
   - elixir
 name:

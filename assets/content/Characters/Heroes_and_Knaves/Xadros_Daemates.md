@@ -3,7 +3,6 @@ aliases:
   - Xadrôs Dâemâtês
   - Xadrôs Dâemâtês
   - Xadros Daemates
-  - being-xadrosdmts
 tags:
   - heroes-and-knaves
 name:

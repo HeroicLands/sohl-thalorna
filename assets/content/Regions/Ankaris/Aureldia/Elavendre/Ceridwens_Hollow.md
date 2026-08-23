@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ceridwen's Hollow
-  - doc-cerdwnshlw
 id: 3YlA2MuGbvyKHEXm
 type: doc
 category: settlement

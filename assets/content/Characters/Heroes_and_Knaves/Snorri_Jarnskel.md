@@ -3,7 +3,6 @@ aliases:
   - Snorri Járnskel
   - Snorri Járnskel
   - Snorri Jarnskel
-  - being-snorjrnskl
 tags:
   - heroes-and-knaves
 name:

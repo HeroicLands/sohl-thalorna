@@ -1,7 +1,6 @@
 ---
 aliases:
   - Warp
-  - mysticalability-shift
 tags: []
 name:
   full: Shift

@@ -2,7 +2,6 @@
 aliases:
   - Khazári
   - Khazari
-  - skill-langkha
 tags: []
 name:
   full: Khazári

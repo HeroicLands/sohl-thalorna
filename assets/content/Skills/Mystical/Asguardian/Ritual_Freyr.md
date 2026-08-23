@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Fréyr"
   - The Verdant Path
-  - skill-freyr
 tags:
   - asguardian
   - faith-skill

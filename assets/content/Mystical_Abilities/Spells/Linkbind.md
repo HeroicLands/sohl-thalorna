@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chain
-  - mysticalability-linkbind
 tags: []
 name:
   full: Linkbind

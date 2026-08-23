@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Ymir
-  - affiliation-ymir
 id: iw5CaLGOvhF2ddKY
 tags:
   - asguardian

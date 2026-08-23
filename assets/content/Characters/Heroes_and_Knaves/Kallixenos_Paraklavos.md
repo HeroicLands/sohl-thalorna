@@ -3,7 +3,6 @@ aliases:
   - Kallíxenos Paraklávos
   - Kallíxenos Paraklávos
   - Kallixenos Paraklavos
-  - being-klxnsprklvs
 tags:
   - heroes-and-knaves
 name:

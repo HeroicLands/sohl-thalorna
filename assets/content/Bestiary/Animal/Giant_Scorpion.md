@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Scorpion
-  - being-gntscrpn
 tags:
   - animal
 name:

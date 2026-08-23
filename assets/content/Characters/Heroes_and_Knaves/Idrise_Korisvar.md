@@ -3,7 +3,6 @@ aliases:
   - Ídrisè Kórisvar
   - Ídrisè Kórisvar
   - Idrise Korisvar
-  - being-idriskrsvr
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Chéagan Zêrâzêndis
   - Cheagan Zerazendis
-  - being-chgnzrznds
 tags:
   - draft
 name:

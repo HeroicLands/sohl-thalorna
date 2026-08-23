@@ -1,7 +1,6 @@
 ---
 aliases:
   - Counter
-  - mysticalability-intrrpt
 tags: []
 name:
   full: Interrupt

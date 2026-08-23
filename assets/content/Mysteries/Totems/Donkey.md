@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-donkey
 tags: []
 name:
   full: Donkey

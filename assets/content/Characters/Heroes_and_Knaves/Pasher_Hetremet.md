@@ -2,7 +2,6 @@
 aliases:
   - Pasher Het'remet
   - Pasher Hetremet
-  - being-pashrhtrmt
 tags:
   - heroes-and-knaves
 name:

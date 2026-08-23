@@ -1,7 +1,6 @@
 ---
 aliases:
   - "Ki'ichek"
-  - skill-langkii
 tags: []
 name:
   full: Ki'ichek

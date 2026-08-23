@@ -2,7 +2,6 @@
 aliases:
   - Frítha Stormrót
   - Fritha Stormrot
-  - being-frthstrmrt
 tags:
   - draft
 name:

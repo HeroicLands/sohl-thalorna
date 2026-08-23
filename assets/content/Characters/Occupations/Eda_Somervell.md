@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eda Somervell
-  - being-edasomervl
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aldith Chilton
-  - being-aldthchltn
 tags:
   - todo
   - draft

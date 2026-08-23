@@ -1,7 +1,6 @@
 ---
 aliases:
   - Singing Sword
-  - mysticalability-hrmnbld
 tags: []
 name:
   full: Harmonblade

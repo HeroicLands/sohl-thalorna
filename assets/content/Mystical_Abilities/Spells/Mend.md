@@ -1,7 +1,6 @@
 ---
 aliases:
   - Restoration
-  - mysticalability-mend
 tags: []
 name:
   full: Mend

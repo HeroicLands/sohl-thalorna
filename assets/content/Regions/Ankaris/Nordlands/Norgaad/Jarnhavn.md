@@ -2,7 +2,6 @@
 aliases:
   - Járnhavn
   - Jarnhavn
-  - doc-jarnhavn
 id: qMK74rVgAAQlzEAs
 type: doc
 category: settlement

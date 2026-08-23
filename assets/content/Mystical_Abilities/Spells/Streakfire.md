@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shooting Star
-  - mysticalability-strkfr
 tags: []
 name:
   full: Streakfire

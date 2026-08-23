@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rockscale Anklyte
-  - being-rcksclan
 tags:
   - animal
 name:

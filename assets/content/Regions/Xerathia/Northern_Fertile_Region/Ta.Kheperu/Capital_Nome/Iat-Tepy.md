@@ -3,7 +3,6 @@ aliases:
   - Iat-Tepy
   - The Sacred Island
   - The First Mound
-  - doc-iattepy
 id: eOqlwmPkawe5BQvu
 type: doc
 category: settlement

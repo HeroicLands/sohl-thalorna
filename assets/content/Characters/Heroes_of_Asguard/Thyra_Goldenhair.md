@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thyra Goldenhair
-  - being-thyrgldnhr
 tags:
   - hero
   - heroes-of-asguard

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wolf
-  - mystery-wolf
 tags: []
 name:
   full: Wolf

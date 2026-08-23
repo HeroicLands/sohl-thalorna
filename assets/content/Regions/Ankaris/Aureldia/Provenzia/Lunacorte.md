@@ -2,7 +2,6 @@
 aliases:
   - Lunacòrte
   - Lunacorte
-  - doc-lunacorte
 id: kaluSm7j0sPfWR9d
 type: doc
 category: settlement

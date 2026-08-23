@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forest Drake
-  - being-frstdrk
 tags:
   - animal
 name:

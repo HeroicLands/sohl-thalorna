@@ -3,7 +3,6 @@ aliases:
   - Sunáti Āyodhyārājavardhan
   - Sunáti Āyodhyārājavardhan
   - Sunati Ayodhyarajavardhan
-  - being-sntydhyrjvrdhn
 tags:
   - heroes-and-knaves
 name:

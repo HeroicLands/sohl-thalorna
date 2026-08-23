@@ -2,7 +2,6 @@
 aliases:
   - Thálassos
   - Thalassos
-  - doc-thalassos
 id: 6pXLtYkfQc7JDzuS
 type: doc
 category: settlement

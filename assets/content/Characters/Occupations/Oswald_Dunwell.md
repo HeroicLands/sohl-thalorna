@@ -1,7 +1,6 @@
 ---
 aliases:
   - Oswald Dunwell
-  - being-oswaldunwl
 tags:
   - draft
 name:

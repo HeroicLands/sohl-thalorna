@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Tortoise
-  - being-gnttrts
 tags:
   - animal
 name:

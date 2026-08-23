@@ -3,7 +3,6 @@ aliases:
   - Sâbir Âjira
   - Sâbir Âjira
   - Sabir Ajira
-  - being-sabirajira
 tags:
   - heroes-and-knaves
 name:

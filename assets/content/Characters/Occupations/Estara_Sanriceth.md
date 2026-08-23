@@ -2,7 +2,6 @@
 aliases:
   - Estára Sánriceth
   - Estara Sanriceth
-  - being-estrsnrcth
 tags:
   - draft
 name:

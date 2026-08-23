@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Vëizhük"
   - Vëizhük
   - Veizhuk
-  - skill-veizhuk
 tags:
   - celestial-pantheon
   - faith-skill

@@ -2,7 +2,6 @@
 aliases:
   - Méthra Zálreth
   - Methra Zalreth
-  - being-methrzlrth
 tags:
   - draft
 name:

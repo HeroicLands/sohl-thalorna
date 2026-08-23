@@ -2,7 +2,6 @@
 aliases:
   - Rājapur
   - Rajapur
-  - doc-rajapur
 id: yJkyMAYiTk0t5vvt
 type: doc
 category: settlement

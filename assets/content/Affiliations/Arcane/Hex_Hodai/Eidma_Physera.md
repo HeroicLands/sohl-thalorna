@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Physéra
-  - affiliation-physera
 tags:
   - hex-hodai
 type: affiliation

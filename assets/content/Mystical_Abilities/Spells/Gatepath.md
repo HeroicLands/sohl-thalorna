@@ -1,7 +1,6 @@
 ---
 aliases:
   - Passage
-  - mysticalability-gatepath
 tags: []
 name:
   full: Gatepath

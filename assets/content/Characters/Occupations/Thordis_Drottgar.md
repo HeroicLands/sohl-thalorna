@@ -2,7 +2,6 @@
 aliases:
   - Thórdís Dróttgar
   - Thordis Drottgar
-  - being-thrdsdrtgr
 tags:
   - draft
 name:

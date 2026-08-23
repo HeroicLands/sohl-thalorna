@@ -2,7 +2,6 @@
 aliases:
   - Illusory Form
   - Image
-  - mysticalability-illfrm
 tags: []
 name:
   full: Illusory Form

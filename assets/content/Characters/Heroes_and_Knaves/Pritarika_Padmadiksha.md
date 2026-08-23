@@ -3,7 +3,6 @@ aliases:
   - Pritàrika Padmadîksha
   - Pritàrika Padmadîksha
   - Pritarika Padmadiksha
-  - being-prtrkpdmdksh
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadal Nadina
-  - being-shadalnadn
 tags:
   - heroes-and-knaves
 name:

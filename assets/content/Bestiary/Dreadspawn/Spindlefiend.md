@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spindlefiend
-  - being-spndlfnd
 tags:
   - dreadspawn
 name:

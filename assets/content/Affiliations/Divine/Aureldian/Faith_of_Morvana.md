@@ -3,7 +3,6 @@ aliases:
   - Faith of Mórváná
   - Faith of Morvana
   - Mórváná
-  - affiliation-morvana
 id: uGNJ9wMBepodXTeP
 tags:
   - aureldian

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vrystwald Tribes
-  - doc-vrystwldtrbs
 id: MIxB4WRti6ZwYqEm
 description: "Confederation of warrior tribes inhabiting the Vrystwald forests — hardy people bound by clan honor, hunting tradition, and resistance to foreign rule."
 type: doc

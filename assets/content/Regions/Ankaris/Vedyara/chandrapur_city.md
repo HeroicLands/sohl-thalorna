@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chandrapur
-  - doc-chandrapur2
 id: u06VCq3gWTSKlQJZ
 type: doc
 category: settlement

@@ -2,7 +2,6 @@
 aliases:
   - Hâlira Náredh
   - Halira Naredh
-  - being-haliranrdh
 tags:
   - draft
 name:

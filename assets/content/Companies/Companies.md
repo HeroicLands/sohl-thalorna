@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-companies
 tags: []
 type: doc
 package: thalorna

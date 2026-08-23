@@ -2,7 +2,6 @@
 aliases:
   - Faith of Mórváhñä
   - The Silent Keeper
-  - affiliation-morvahna
 id: KfrgWBWTpFC8P2uZ
 tags:
   - religion

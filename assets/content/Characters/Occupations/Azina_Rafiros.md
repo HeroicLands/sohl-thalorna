@@ -2,7 +2,6 @@
 aliases:
   - Ázîna Râfîrôs
   - Azina Rafiros
-  - being-azinarafrs
 tags:
   - draft
 name:

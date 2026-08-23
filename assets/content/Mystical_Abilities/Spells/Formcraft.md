@@ -1,7 +1,6 @@
 ---
 aliases:
   - Figure
-  - mysticalability-frmcrft
 tags: []
 name:
   full: Formcraft

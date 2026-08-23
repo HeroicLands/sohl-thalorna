@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Hedgehog
-  - being-gnthdghg
 tags:
   - animal
 name:

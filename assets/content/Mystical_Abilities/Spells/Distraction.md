@@ -1,7 +1,6 @@
 ---
 aliases:
   - Diversion
-  - mysticalability-dstrctn
 tags: []
 name:
   full: Distraction

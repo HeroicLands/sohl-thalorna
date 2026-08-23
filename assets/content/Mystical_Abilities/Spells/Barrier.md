@@ -1,7 +1,6 @@
 ---
 aliases:
   - Protection
-  - mysticalability-barrier
 tags: []
 name:
   full: Barrier

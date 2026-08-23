@@ -1,7 +1,6 @@
 ---
 aliases:
   - Starcrawler
-  - being-strcrwlr
 tags:
   - spirit
 name:

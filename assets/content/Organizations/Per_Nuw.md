@@ -3,7 +3,6 @@ aliases:
   - Per'Nuw
   - The House of Hunters
   - Ta'Kheperu Hunters' Guild
-  - affiliation-pernuw
 tags:
   - organization
   - takheperu

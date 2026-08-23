@@ -2,7 +2,6 @@
 aliases:
   - Blackroot Tincture
   - "Potion, Poison, Strong"
-  - concoctiongear-PtnPoiS
 tags:
   - strong-elixir
 name:

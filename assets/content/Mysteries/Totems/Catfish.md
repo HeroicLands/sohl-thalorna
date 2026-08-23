@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-catfish
 tags: []
 name:
   full: Catfish

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bodkin
-  - weapongear-Kel
 tags: []
 name:
   full: Bodkin

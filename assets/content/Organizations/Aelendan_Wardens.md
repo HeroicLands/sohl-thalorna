@@ -3,7 +3,6 @@ aliases:
   - Áelendan Wardens
   - Aelendan Wardens
   - The Wardens
-  - affiliation-alndnwrdns
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Covenant itself."
 package: thalorna
 id: B53EuywhfWU0xgKC

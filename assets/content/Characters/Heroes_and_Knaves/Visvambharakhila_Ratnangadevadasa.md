@@ -3,7 +3,6 @@ aliases:
   - Viśvambhārākhila Ratnāṅgadēvadāsa
   - Viśvambhārākhila Ratnāṅgadēvadāsa
   - Visvambharakhila Ratnangadevadasa
-  - being-vsvmbhrkhlrtngdvds
 tags:
   - heroes-and-knaves
 name:

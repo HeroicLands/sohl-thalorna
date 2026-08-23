@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Murkir"
   - Múrkír
   - The Wayfarer
-  - skill-murkir
 tags:
   - aureldian
   - faith-skill

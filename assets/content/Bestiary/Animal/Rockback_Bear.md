@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rockback Bear
-  - being-rckbckbr
 tags:
   - animal
 name:

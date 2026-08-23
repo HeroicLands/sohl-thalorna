@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kalydria
-  - doc-kalydria2
 id: gG3RL32nHgC2D0B5
 type: doc
 category: settlement

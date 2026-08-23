@@ -2,7 +2,6 @@
 aliases:
   - Faith of Zárványä
   - The Weaver of Visions
-  - affiliation-zarvanya
 id: xgTqdoirwfp6ngyF
 tags:
   - religion

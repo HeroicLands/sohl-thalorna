@@ -3,7 +3,6 @@ aliases:
   - Afzandah Parnâzar
   - Afzandah Parnâzar
   - Afzandah Parnazar
-  - being-afzndhprnzr
 tags:
   - heroes-and-knaves
 name:

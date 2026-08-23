@@ -2,7 +2,6 @@
 aliases:
   - Tānvüran Elephant
   - Tanvuran Elephant
-  - being-tnvrnelp
 tags:
   - animal
 name:

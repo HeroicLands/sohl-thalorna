@@ -2,7 +2,6 @@
 aliases:
   - Thóren Bélthal
   - Thoren Belthal
-  - being-thornblthl
 tags:
   - draft
 name:

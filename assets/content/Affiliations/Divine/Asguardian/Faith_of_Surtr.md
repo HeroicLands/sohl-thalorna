@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Súrtr
-  - affiliation-surtr
 id: ZRe4IWZLZlIFjqOt
 tags:
   - asguardian

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Webcrawler
-  - being-wbcrwlr
 tags:
   - dreadspawn
 name:

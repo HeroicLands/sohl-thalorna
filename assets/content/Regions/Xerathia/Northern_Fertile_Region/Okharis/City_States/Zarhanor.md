@@ -1,7 +1,6 @@
 ---
 aliases:
   - Zarhánor
-  - doc-zarhanor
 id: 2fdrzbEWF4pDGpTo
 tags: []
 type: doc

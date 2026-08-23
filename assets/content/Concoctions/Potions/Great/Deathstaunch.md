@@ -2,7 +2,6 @@
 aliases:
   - Deathstaunch
   - "Potion, Coagulant, Great"
-  - concoctiongear-PtnCoagG
 tags:
   - great-elixir
 name:

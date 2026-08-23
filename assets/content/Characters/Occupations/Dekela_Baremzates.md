@@ -2,7 +2,6 @@
 aliases:
   - Dékêla Bàremzâtês
   - Dekela Baremzates
-  - being-deklbrmzts
 tags:
   - draft
 name:

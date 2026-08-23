@@ -1,7 +1,6 @@
 ---
 aliases:
   - Five Elemental Lords
-  - doc-fvlmntlrds
 id: 3Y2gn4ElGpP6O7ny
 type: doc
 category: lore

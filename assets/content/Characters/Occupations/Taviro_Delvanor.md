@@ -2,7 +2,6 @@
 aliases:
   - Tavíro Delvánor
   - Taviro Delvanor
-  - being-tavirdlvnr
 tags:
   - draft
 name:

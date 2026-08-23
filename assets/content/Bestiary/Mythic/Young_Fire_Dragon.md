@@ -1,7 +1,6 @@
 ---
 aliases:
   - Young Fire Dragon
-  - being-yngfrdrg
 tags:
   - mythic
   - image-needed

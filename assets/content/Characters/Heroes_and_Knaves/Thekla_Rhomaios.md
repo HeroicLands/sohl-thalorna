@@ -3,7 +3,6 @@ aliases:
   - Thêkla Rhomaios
   - Thêkla Rhomaios
   - Thekla Rhomaios
-  - being-theklarhms
 tags:
   - heroes-and-knaves
 name:

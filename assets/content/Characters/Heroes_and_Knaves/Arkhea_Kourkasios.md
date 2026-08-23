@@ -3,7 +3,6 @@ aliases:
   - Arkhêa Kourkásios
   - Arkhêa Kourkásios
   - Arkhea Kourkasios
-  - being-arkhekrkss
 tags:
   - heroes-and-knaves
 name:

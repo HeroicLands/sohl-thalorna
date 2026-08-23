@@ -2,7 +2,6 @@
 aliases:
   - The Torpid Cloud
   - Weakness Elixir
-  - concoctiongear-ElxWkn
 tags:
   - elixir
 name:

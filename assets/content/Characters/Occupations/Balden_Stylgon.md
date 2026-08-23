@@ -2,7 +2,6 @@
 aliases:
   - Bâlden Stýlgon
   - Balden Stylgon
-  - being-bldnstylgn
 tags:
   - draft
 name:

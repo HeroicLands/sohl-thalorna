@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thundertalon
-  - being-thndrtln
 tags:
   - elemental
 name:

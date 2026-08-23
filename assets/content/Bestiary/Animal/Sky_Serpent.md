@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sky Serpent
-  - being-skysrpnt
 tags:
   - animal
 name:

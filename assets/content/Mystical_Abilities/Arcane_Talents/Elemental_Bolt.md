@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elemental Bolt
-  - mysticalability-eblt
 tags: []
 name:
   full: Elemental Bolt

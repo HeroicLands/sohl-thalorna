@@ -1,7 +1,6 @@
 ---
 aliases:
   - Condensation
-  - mysticalability-dewcraft
 tags: []
 name:
   full: Dewcraft

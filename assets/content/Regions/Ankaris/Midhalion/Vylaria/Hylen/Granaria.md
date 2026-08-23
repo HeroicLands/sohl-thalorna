@@ -1,7 +1,6 @@
 ---
 aliases:
   - Granaria
-  - doc-granaria
 id: Hy2rKx7mGp4Tb9Ln
 type: doc
 category: settlement

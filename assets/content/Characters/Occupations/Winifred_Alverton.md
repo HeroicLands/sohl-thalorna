@@ -1,7 +1,6 @@
 ---
 aliases:
   - Winifred Alverton
-  - being-wnfrdlvrtn
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dragonfly Hawk
-  - being-drgnflyh
 tags:
   - animal
 name:

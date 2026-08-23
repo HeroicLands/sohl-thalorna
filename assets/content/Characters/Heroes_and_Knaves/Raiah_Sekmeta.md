@@ -2,7 +2,6 @@
 aliases:
   - Raiah Sekmetâ
   - Raiah Sekmet'â
-  - being-raiahsekmt
 tags:
   - heroes-and-knaves
 name:

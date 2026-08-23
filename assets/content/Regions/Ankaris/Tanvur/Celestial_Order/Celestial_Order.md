@@ -1,7 +1,6 @@
 ---
 aliases:
   - Celestial Order
-  - doc-celestlrdr
 id: Y9Um0puZOcYHNgXy
 type: doc
 category: lore

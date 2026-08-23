@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-negx
 tags: []
 name:
   full: Negation

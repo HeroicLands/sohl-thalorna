@@ -1,6 +1,4 @@
 ---
-aliases:
-  - affiliation-jcklsthmrchs
 tags:
   - organization
   - mercenary

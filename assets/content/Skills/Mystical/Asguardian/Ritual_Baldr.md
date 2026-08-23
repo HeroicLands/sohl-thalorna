@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Baldr"
   - The Luminous Path
-  - skill-baldr
 tags:
   - asguardian
   - faith-skill

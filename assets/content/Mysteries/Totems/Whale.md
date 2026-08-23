@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-whale
 tags: []
 name:
   full: Whale

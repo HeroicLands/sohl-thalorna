@@ -2,7 +2,6 @@
 aliases:
   - The Second Utterance
   - Formfix Elixir
-  - concoctiongear-ElxFrm
 tags:
   - elixir
 name:

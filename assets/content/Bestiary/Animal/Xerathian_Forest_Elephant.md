@@ -1,7 +1,6 @@
 ---
 aliases:
   - Xerathian Forest Elephant
-  - being-xrthnfrs
 tags:
   - animal
 name:

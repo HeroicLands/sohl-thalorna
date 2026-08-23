@@ -2,7 +2,6 @@
 aliases:
   - Namrûsh Gazrûm
   - Namrush Gazrum
-  - being-namrshgzrm
 tags:
   - todo-warrior
   - draft

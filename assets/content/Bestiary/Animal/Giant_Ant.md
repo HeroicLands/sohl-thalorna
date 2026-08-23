@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Ant
-  - being-giantant
 tags:
   - animal
 name:

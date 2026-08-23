@@ -3,7 +3,6 @@ aliases:
   - Sir Drazha Sycâni Knight of the Black Flame
   - Sir Drazha Sycâni, Knight of the Black Flame
   - Sir Drazha Sycani
-  - being-srdrzhsycnknghtblckflm
 tags:
   - heroes-and-knaves
   - hero

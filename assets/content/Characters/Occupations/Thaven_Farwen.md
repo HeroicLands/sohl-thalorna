@@ -2,7 +2,6 @@
 aliases:
   - Thâven Fárwèn
   - Thaven Farwen
-  - being-thavenfrwn
 tags:
   - draft
 name:

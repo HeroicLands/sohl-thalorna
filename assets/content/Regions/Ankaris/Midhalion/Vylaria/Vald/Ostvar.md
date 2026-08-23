@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ostvar
-  - doc-ostvar
 id: Vd4hNx7vEq9Rb2Lt
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Fires of the Blood Hills
-  - doc-firsbldhls
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: doc

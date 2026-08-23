@@ -1,7 +1,6 @@
 ---
 aliases:
   - Subvert
-  - mysticalability-disrupt
 tags: []
 name:
   full: Disrupt

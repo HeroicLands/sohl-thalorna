@@ -2,7 +2,6 @@
 aliases:
   - "Asp's Atonement"
   - "Potion, Antivenin, Great"
-  - concoctiongear-PtnAntvG
 tags:
   - great-elixir
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cheeprow
-  - being-cheeprow
 tags:
   - animal
 name:

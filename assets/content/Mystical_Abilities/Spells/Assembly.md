@@ -1,7 +1,6 @@
 ---
 aliases:
   - Convoke
-  - mysticalability-arcasmbl
 tags: []
 name:
   full: Assembly

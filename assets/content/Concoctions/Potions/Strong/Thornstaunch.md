@@ -2,7 +2,6 @@
 aliases:
   - Thornstaunch
   - "Potion, Coagulant, Strong"
-  - concoctiongear-PtnCoagS
 tags:
   - strong-elixir
 name:

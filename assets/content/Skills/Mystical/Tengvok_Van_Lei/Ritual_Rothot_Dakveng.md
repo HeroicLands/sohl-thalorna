@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Röthöt Dākvëng"
   - Röthöt Dākvëng
   - Rothot Dakveng
-  - skill-rothtdkvng
 tags:
   - celestial-pantheon
   - faith-skill

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nordmal
-  - doc-nordmalngg
 id: sxHjpVrc5K9n3SXA
 name:
   full: Nordmal Language

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Wasp
-  - being-gntwsp
 tags:
   - animal
 name:

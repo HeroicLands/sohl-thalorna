@@ -1,7 +1,6 @@
 ---
 aliases:
   - Southern K'ich'chik
-  - doc-sthrnkchchk
 id: 8vKZQIhOcNjXSRjS
 tags:
   - region

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Whisper
-  - mysticalability-murmur
 tags: []
 name:
   full: Murmur

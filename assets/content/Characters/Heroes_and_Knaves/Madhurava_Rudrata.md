@@ -3,7 +3,6 @@ aliases:
   - Màdhurava Rudraṭa
   - Màdhurava Rudraṭa
   - Madhurava Rudrata
-  - being-madhurvrdr
 tags:
   - heroes-and-knaves
 name:

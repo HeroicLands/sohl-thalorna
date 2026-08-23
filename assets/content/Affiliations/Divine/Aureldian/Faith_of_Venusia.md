@@ -3,7 +3,6 @@ aliases:
   - Faith of Vénusia
   - Faith of Venusia
   - Vénusia
-  - affiliation-venusia
 id: C6gcaaK9X8xfijg6
 tags:
   - aureldian

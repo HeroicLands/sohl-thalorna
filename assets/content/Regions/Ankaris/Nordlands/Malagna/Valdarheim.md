@@ -1,7 +1,6 @@
 ---
 aliases:
   - Valdarheim
-  - doc-valdarheim
 id: fJaEmpvtfouLj68u
 type: doc
 category: settlement

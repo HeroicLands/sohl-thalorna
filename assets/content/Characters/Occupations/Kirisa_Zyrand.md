@@ -2,7 +2,6 @@
 aliases:
   - Kírisa Zýrand
   - Kirisa Zyrand
-  - being-kiriszyrnd
 tags:
   - draft
 name:

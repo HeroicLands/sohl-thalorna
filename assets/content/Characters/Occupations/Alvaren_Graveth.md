@@ -2,7 +2,6 @@
 aliases:
   - Alváren Gráveth
   - Alvaren Graveth
-  - being-alvrngrvth
 tags:
   - draft
 name:

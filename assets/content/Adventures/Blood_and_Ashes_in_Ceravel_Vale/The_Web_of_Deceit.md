@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Web of Deceit
-  - doc-webdeceit
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: doc

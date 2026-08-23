@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stennvold
-  - doc-stennvold
 id: Mk9vNx3kSp2Rb8Lt
 type: doc
 category: settlement

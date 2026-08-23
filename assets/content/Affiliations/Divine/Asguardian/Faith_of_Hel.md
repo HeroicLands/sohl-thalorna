@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Hél
-  - affiliation-hel
 id: wBAfvdAOyxI8JvtP
 tags:
   - asguardian

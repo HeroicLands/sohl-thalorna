@@ -1,7 +1,6 @@
 ---
 aliases:
   - Peoples
-  - doc-peoples
 id: Xzj2jYB2Bd8djJkY
 name:
   full: Peoples

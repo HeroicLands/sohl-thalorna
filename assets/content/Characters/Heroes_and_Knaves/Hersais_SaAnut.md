@@ -3,7 +3,6 @@ aliases:
   - Hersaîs SaAnut
   - Her'sa'îs Sa'Anut
   - Hersais SaAnut
-  - being-hersaisant
 tags:
   - heroes-and-knaves
 name:

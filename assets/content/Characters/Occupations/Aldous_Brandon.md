@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aldous Brandon
-  - being-aldosbrndn
 tags:
   - draft
 name:

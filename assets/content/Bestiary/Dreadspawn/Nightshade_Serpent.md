@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nightshade Serpent
-  - being-nghtshds
 tags:
   - dreadspawn
 name:

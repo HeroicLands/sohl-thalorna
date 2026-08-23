@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dispel
-  - mysticalability-nullify
 tags: []
 name:
   full: Nullify

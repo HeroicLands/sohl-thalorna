@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sand Wurm
-  - being-sandwurm
 tags:
   - animal
 name:

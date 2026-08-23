@@ -3,7 +3,6 @@ aliases:
   - Kyriákos Patrikîos
   - Kyriákos Patrikîos
   - Kyriakos Patrikios
-  - being-kyrksptrks
 tags:
   - heroes-and-knaves
 name:

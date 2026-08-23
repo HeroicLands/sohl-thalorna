@@ -2,7 +2,6 @@
 aliases:
   - Nyáluban
   - Nyaluban
-  - skill-langnya
 tags: []
 name:
   full: Nyáluban

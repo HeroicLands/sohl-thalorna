@@ -1,7 +1,6 @@
 ---
 aliases:
   - Behen
-  - doc-behen
 id: ijEMnWfPBKZeYMVm
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kaljékor
-  - doc-kaljekor
 id: pHo7smFVBkLA9NEb
 tags: []
 type: doc

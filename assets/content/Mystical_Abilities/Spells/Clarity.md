@@ -1,7 +1,6 @@
 ---
 aliases:
   - Insight
-  - mysticalability-clarity
 tags: []
 name:
   full: Clarity

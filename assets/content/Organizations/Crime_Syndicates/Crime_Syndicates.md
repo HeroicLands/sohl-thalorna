@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-crmsyndctsthlrn
 tags:
   - organization
   - crime

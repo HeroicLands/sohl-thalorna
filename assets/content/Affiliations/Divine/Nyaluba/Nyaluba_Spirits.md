@@ -4,7 +4,6 @@ aliases:
   - Nyaluba Spirits
   - Spirits of the Nyáluba
   - The Nyáluba Spirits
-  - affiliation-nyalbsprts
 id: siRKUDxmPwuV13qL
 tags:
   - nyaluba

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Valdosta
-  - doc-valdosta
 id: mT25GbjyVhZHPVHL
 type: doc
 category: settlement

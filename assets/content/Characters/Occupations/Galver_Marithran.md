@@ -2,7 +2,6 @@
 aliases:
   - Gálver Maríthran
   - Galver Marithran
-  - being-glvrmrthrn
 tags:
   - draft
 name:

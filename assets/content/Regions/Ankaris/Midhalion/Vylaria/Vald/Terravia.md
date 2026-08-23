@@ -1,7 +1,6 @@
 ---
 aliases:
   - Terravia
-  - doc-terravia
 id: Vd6yGx4kVm8Sb3Ld
 type: doc
 category: settlement

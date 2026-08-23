@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shamshir
-  - weapongear-Shmshr
 tags: []
 name:
   full: Shamshir

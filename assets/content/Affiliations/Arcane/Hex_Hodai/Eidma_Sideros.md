@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Sidéros
-  - affiliation-sideros
 tags:
   - hex-hodai
 type: affiliation

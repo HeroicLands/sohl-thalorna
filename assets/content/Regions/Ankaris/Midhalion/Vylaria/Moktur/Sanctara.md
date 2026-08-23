@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sanctara
-  - doc-sanctara
 id: MJVnfnwAYz0bbQAS
 type: doc
 category: settlement

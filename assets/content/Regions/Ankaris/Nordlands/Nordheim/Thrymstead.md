@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thrymstead
-  - doc-thrymstead
 id: WNKSFrK83yr8xKyA
 type: doc
 category: settlement

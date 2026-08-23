@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-otter
 tags: []
 name:
   full: Otter

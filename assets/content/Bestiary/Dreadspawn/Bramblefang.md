@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bramblefang
-  - being-brmblfng
 tags:
   - dreadspawn
 name:

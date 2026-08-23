@@ -3,7 +3,6 @@ aliases:
   - Ályra Kálmereth
   - Ályra Kálmereth
   - Alyra Kalmereth
-  - being-alyrklmrth
 tags:
   - heroes-and-knaves
 name:

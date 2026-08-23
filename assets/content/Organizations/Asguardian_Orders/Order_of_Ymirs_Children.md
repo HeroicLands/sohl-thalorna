@@ -3,7 +3,6 @@ aliases:
   - The Order of Ymir's Children
   - Order of Ymirs Children
   - Ymisbǫrn
-  - affiliation-ordrymrschldrn
 tags: []
 description: "Initiatic warrior brotherhood of Ymir — devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
 id: fPIYDgMAxfnG6hA5

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tube
-  - mysticalability-conduit
 tags: []
 name:
   full: Conduit

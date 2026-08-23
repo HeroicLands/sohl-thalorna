@@ -2,7 +2,6 @@
 aliases:
   - Khazár Folk
   - Khazar Folk
-  - doc-flkkhazar
 tags:
   - lore
   - lineage

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-stathmos
 tags: []
 name:
   full: Stathmos

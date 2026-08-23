@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thora Sunna's Blessing
-  - being-thrsnsblsng
 tags:
   - paragon
   - heroes-of-asguard

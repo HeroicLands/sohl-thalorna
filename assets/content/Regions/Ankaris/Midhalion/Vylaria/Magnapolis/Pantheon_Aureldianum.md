@@ -3,7 +3,6 @@ aliases:
   - Pantheon Aurèldiānum
   - Pantheon Aureldianum
   - The Pantheon
-  - doc-pnthnrldnm
 tags:
   - temple
   - aureldian

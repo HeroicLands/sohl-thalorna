@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ixkul K’ul
-  - doc-ixkulkul
 id: AOgoVrsaeRLgPydh
 type: doc
 category: settlement

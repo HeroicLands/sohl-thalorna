@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha’ K’ukul
-  - doc-hakukul
 id: Vz6zv5sq18qR9nya
 type: doc
 category: settlement

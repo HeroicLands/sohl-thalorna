@@ -3,7 +3,6 @@ aliases:
   - Samarína Kalokyrês
   - Samarína Kalokyrês
   - Samarina Kalokyres
-  - being-smrnklkyrs
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Làgôra Xêrâzêndis
   - Lagora Xerazendis
-  - being-lagrxrznds
 tags:
   - draft
 name:

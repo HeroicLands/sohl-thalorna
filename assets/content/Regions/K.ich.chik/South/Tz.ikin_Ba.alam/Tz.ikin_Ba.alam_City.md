@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'ikin Ba'alam
-  - doc-tzikinbalm2
 id: 81GNYrgkAYEus3dq
 type: doc
 category: settlement

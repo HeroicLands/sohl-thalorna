@@ -3,7 +3,6 @@ aliases:
   - Faith of Thánatos
   - Faith of Thanatos
   - Thánatos
-  - affiliation-thanatos
 id: 9cCzJLN7PPWRs0dX
 tags:
   - aureldian

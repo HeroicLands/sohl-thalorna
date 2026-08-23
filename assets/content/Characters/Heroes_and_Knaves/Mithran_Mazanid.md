@@ -3,7 +3,6 @@ aliases:
   - Mithran Mazânid
   - Mithran Mazânid
   - Mithran Mazanid
-  - being-mithrnmznd
 tags:
   - heroes-and-knaves
 name:

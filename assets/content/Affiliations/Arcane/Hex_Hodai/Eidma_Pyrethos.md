@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Pyréthos
-  - affiliation-pyrethos
 tags:
   - hex-hodai
 type: affiliation

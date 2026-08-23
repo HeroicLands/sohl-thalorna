@@ -2,7 +2,6 @@
 aliases:
   - Grukar-ahk
   - Grukar-Ahk
-  - being-grkrahk
 tags:
   - folk
 name:

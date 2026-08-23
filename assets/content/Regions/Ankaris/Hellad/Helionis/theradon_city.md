@@ -1,7 +1,6 @@
 ---
 aliases:
   - Therádon
-  - doc-theradon2
 id: vRDisPmvFKBKEq7e
 type: doc
 category: settlement

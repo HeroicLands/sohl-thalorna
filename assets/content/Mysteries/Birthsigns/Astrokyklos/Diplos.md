@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-diplos
 tags: []
 name:
   full: Diplos

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Enquiry
-  - mysticalability-probe
 tags: []
 name:
   full: Probe

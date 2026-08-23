@@ -1,7 +1,6 @@
 ---
 aliases:
   - Khar al-Sular
-  - doc-kharalsulr
 id: NcCep277z8Lq2woF
 type: doc
 category: settlement

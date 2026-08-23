@@ -1,7 +1,6 @@
 ---
 aliases:
   - Conjure
-  - mysticalability-manifest
 tags: []
 name:
   full: Manifest

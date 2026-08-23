@@ -2,7 +2,6 @@
 aliases:
   - Rimtûra Damrûnî
   - Rimtura Damruni
-  - being-rimturdmrn
 tags:
   - draft
 name:

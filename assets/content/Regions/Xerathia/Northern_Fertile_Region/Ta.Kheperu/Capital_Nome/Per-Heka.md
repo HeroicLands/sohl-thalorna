@@ -1,7 +1,6 @@
 ---
 aliases:
   - Per-Heka
-  - doc-perheka
 id: szUUIRGt86BY1Kjb
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lentora
-  - doc-lentora
 id: Al5rKx2mVp9Tb4Ln
 type: doc
 category: settlement

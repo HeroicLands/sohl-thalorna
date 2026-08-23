@@ -2,7 +2,6 @@
 aliases:
   - Nüsvōrroth
   - Nusvorroth
-  - being-nsvrroth
 tags:
   - animal
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadowspinner
-  - being-shdwspnn
 tags:
   - dreadspawn
 name:

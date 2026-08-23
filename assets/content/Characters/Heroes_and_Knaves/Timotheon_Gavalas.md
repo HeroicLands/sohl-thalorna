@@ -3,7 +3,6 @@ aliases:
   - Timothéon Gaválas
   - Timothéon Gaválas
   - Timotheon Gavalas
-  - being-timthngvls
 tags:
   - heroes-and-knaves
 name:

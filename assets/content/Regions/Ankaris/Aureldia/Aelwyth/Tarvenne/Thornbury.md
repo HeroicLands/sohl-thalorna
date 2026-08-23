@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thornbury
-  - doc-thornbury
 id: E6Vn40TZpRRBN2on
 type: doc
 category: settlement

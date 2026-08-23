@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stench
-  - mysticalability-foulness
 tags: []
 name:
   full: Foulness

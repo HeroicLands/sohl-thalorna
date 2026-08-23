@@ -2,7 +2,6 @@
 aliases:
   - Glýenna Cárdeth
   - Glyenna Cardeth
-  - being-glyencrdth
 tags:
   - todo
   - draft

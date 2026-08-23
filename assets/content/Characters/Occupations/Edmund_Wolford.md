@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edmund Wolford
-  - being-edmndwlfrd
 tags:
   - draft
 name:

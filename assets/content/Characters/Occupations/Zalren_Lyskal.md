@@ -2,7 +2,6 @@
 aliases:
   - Zálren Lýskal
   - Zalren Lyskal
-  - being-zalrnlyskl
 tags:
   - draft
 name:

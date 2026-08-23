@@ -1,7 +1,6 @@
 ---
 aliases:
   - Solace
-  - mysticalability-peace
 tags: []
 name:
   full: Peace

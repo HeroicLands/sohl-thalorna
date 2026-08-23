@@ -2,7 +2,6 @@
 aliases:
   - "Flame's Indifference"
   - Fireshield Elixir
-  - concoctiongear-ElxFir
 tags:
   - elixir
 name:

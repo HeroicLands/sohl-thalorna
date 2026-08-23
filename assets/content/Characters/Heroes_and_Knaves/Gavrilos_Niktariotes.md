@@ -3,7 +3,6 @@ aliases:
   - Gávrilos Niktariôtês
   - Gávrilos Niktariôtês
   - Gavrilos Niktariotes
-  - being-gvrlsnktrts
 tags:
   - heroes-and-knaves
 name:

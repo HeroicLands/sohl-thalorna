@@ -2,7 +2,6 @@
 aliases:
   - The Tamzîr
   - Tamzîr
-  - doc-thetamzir
 tags:
   - company
   - tamzir-crew

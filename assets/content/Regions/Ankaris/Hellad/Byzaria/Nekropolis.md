@@ -2,7 +2,6 @@
 aliases:
   - Nékropolis
   - Nekropolis
-  - doc-nekropolis
 id: oVedEJI68W2dAXzt
 type: doc
 category: location

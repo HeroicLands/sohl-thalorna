@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dire Honey Badger
-  - being-drhnybdg
 tags:
   - animal
 name:

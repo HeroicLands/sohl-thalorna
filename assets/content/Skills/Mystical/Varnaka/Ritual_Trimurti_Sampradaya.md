@@ -5,7 +5,6 @@ aliases:
   - Trimurti Sampradaya
   - Tradition of the Three Forms
   - Trimūrti Tradition
-  - skill-trimurtisampradaya
 tags:
   - varnaka
   - faith-skill

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grimshadow
-  - being-grmshdw
 tags:
   - spirit
 name:

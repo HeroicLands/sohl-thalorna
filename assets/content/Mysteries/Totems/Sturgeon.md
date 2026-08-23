@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-sturgeon
 tags: []
 name:
   full: Sturgeon

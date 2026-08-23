@@ -3,7 +3,6 @@ aliases:
   - Magic Truth
   - The Truth of Magic
   - Magic (GM)
-  - doc-magictruth
 tags:
   - lore
   - arcane

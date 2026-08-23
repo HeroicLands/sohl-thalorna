@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Janus"
   - The Keeper of the Gates
-  - skill-janus
 tags:
   - aureldian
   - faith-skill

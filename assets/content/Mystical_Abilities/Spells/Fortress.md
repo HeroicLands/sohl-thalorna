@@ -1,7 +1,6 @@
 ---
 aliases:
   - Earthwork
-  - mysticalability-fortress
 tags: []
 name:
   full: Fortress

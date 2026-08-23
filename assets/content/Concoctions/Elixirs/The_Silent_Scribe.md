@@ -2,7 +2,6 @@
 aliases:
   - The Silent Scribe
   - Egosight Elixir
-  - concoctiongear-ElxEgo
 tags:
   - elixir
 name:

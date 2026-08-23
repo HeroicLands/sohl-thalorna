@@ -2,7 +2,6 @@
 aliases:
   - Zahîra Tâbîrês
   - Zahira Tabires
-  - being-zahiratbrs
 tags:
   - draft
 name:

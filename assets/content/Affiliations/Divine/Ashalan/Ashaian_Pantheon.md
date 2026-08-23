@@ -2,7 +2,6 @@
 aliases:
   - Āsháian Pantheon
   - Ashaian Pantheon
-  - affiliation-ashanpnthn
 id: vFJwOjifH7GzSqeP
 tags:
   - pantheon

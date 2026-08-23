@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lithogiant
-  - being-lthgnt
 tags:
   - elemental
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Calvaris
-  - doc-calvaris
 id: Al3hGx4mCq9Tb2Ld
 type: doc
 category: settlement

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-trout
 tags: []
 name:
   full: Trout

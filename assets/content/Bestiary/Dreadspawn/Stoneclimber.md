@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stoneclimber
-  - being-stnclmbr
 tags:
   - dreadspawn
 name:

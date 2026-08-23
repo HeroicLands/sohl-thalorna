@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tîgh'Savâran of the Zarnûsh
-  - doc-tghsvrnzrnsh
 tags:
   - company
   - warriors

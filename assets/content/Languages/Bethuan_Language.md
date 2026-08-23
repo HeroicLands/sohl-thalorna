@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bethuan
-  - doc-bethunlngg
 id: iT4D09jKQahZp6K0
 name:
   full: Bethuan Language

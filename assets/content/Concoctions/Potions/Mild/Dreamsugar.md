@@ -2,7 +2,6 @@
 aliases:
   - Dreamsugar
   - "Potion, Hallucinogenic, Mild"
-  - concoctiongear-PtnHalM
 tags:
   - mild-elixir
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langvar
 tags: []
 name:
   full: Varokhi

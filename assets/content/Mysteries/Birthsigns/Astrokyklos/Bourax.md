@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-bourax
 tags: []
 name:
   full: Bourax

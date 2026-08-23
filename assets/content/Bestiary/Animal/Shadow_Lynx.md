@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadow Lynx
-  - being-shdwlynx
 tags:
   - animal
 name:

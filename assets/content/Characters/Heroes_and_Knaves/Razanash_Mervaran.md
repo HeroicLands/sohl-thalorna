@@ -1,7 +1,6 @@
 ---
 aliases:
   - Razanash Mervaran
-  - being-rznshmrvrn
 tags:
   - heroes-and-knaves
 name:

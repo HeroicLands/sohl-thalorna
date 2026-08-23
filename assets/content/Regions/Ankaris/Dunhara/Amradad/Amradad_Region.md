@@ -2,7 +2,6 @@
 aliases:
   - Amradad Region
   - Amradad
-  - doc-amradadrgn
 tags:
   - region
 title: ""

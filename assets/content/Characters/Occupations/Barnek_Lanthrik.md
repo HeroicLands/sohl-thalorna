@@ -2,7 +2,6 @@
 aliases:
   - Bárnek Lánthrik
   - Barnek Lanthrik
-  - being-brnklnthrk
 tags:
   - draft
 name:

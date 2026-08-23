@@ -5,7 +5,6 @@ aliases:
   - Dokyok
   - The Lost Road
   - The Guide Who Leads Astray
-  - skill-dokyok
 tags:
   - celestial-pantheon
   - faith-skill

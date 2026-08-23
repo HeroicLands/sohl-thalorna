@@ -2,7 +2,6 @@
 aliases:
   - Sǫlmundr Blóthǫll
   - Solmundr Blotholl
-  - being-slmndrblthl
 tags:
   - draft
 name:

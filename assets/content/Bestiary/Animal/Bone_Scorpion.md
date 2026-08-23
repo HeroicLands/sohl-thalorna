@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bone Scorpion
-  - being-bnscrpn
 tags:
   - animal
 name:

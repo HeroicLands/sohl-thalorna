@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hilda Browning
-  - being-hildbrwnng
 tags:
   - draft
 name:

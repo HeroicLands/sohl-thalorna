@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Karnavos
-  - affiliation-karnavos
 id: TQr4HUb2KnAc5Ias
 tags:
   - aureldian

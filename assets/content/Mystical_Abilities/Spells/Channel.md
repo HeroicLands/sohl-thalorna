@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spoon
-  - mysticalability-channel
 tags: []
 name:
   full: Channel

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Young Ice Dragon
-  - being-yngicdrg
 tags:
   - mythic
   - image-needed

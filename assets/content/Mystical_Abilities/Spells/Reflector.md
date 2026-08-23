@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mirror
-  - mysticalability-rflctr
 tags: []
 name:
   full: Reflector

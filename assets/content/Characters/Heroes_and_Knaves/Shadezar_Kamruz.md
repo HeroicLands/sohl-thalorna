@@ -3,7 +3,6 @@ aliases:
   - Shâdezar Kamruz
   - Shâdezar Kamruz
   - Shadezar Kamruz
-  - being-shadzrkmrz
 tags:
   - heroes-and-knaves
 name:

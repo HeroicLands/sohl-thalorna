@@ -2,7 +2,6 @@
 aliases:
   - "Hydälis's Eye"
   - Verity Elixir
-  - concoctiongear-ElxVer
 tags:
   - elixir
 name:

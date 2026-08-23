@@ -3,7 +3,6 @@ aliases:
   - Khaut-Imnet
   - The Tombs of the West
   - The Western Fields
-  - doc-khautimnet
 id: Sem7VWXNmBrFGB9L
 type: doc
 category: settlement

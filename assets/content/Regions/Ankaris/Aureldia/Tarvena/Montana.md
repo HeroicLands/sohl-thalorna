@@ -2,7 +2,6 @@
 aliases:
   - Montaña
   - Montana
-  - doc-montana
 id: elbApD1i9cSa1Wyh
 type: doc
 category: settlement

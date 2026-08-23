@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chéleb Rhýddýn
-  - being-chlbrhydyn
 tags:
   - character
   - hero

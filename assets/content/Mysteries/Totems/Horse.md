@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-horse
 tags: []
 name:
   full: Horse

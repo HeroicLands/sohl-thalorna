@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grukar-Uk
-  - being-grukaruk
 tags:
   - folk
 name:

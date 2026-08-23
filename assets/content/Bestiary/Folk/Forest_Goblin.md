@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forest Goblin
-  - being-frstgbln
 tags:
   - folk
 name:

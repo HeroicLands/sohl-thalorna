@@ -2,7 +2,6 @@
 aliases:
   - The Choking Veil
   - Fumebomb Elixir
-  - concoctiongear-ElxFmb
 tags:
   - elixir
 name:

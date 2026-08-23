@@ -3,7 +3,6 @@ aliases:
   - The Storm Cults of Báhrámiš
   - Storm Cults of Bahramish
   - Storm Cults of Báhrámiš
-  - affiliation-strmcltsbhrms
 tags:
   - organization
   - dunhara

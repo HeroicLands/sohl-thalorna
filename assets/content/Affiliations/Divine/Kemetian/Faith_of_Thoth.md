@@ -4,7 +4,6 @@ aliases:
   - Djhuty
   - Thaut
   - The Scribe of the Eternal Library
-  - affiliation-thoth
 id: 0EY3S80hl04Zy5Xx
 tags:
   - kemetian

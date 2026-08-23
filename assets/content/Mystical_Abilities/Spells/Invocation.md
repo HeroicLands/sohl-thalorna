@@ -1,7 +1,6 @@
 ---
 aliases:
   - Call
-  - mysticalability-invctn
 tags: []
 name:
   full: Invocation

@@ -2,7 +2,6 @@
 aliases:
   - "Night's Exhalation"
   - Shadowbreath Elixir
-  - concoctiongear-ElxShd
 tags:
   - elixir
 name:

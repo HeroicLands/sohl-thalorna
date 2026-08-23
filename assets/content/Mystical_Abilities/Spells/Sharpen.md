@@ -1,7 +1,6 @@
 ---
 aliases:
   - Focus
-  - mysticalability-sharpen
 tags: []
 name:
   full: Sharpen

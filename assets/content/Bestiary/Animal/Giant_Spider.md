@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Spider
-  - being-gntspdr
 tags:
   - animal
 name:

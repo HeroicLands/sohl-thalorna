@@ -3,7 +3,6 @@ aliases:
   - Faith of Báhrámiš
   - The Thunder Rider
   - Storm God
-  - affiliation-bahramis
 id: vwIXO5fa1yyEi4FO
 tags:
   - religion

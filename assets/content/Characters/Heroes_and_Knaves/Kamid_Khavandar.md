@@ -3,7 +3,6 @@ aliases:
   - Kamîd Khâvandar
   - Kamîd Khâvandar
   - Kamid Khavandar
-  - being-kamdkhvndr
 tags:
   - heroes-and-knaves
 name:

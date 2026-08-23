@@ -2,7 +2,6 @@
 aliases:
   - Târlig Tólgen
   - Tarlig Tolgen
-  - being-tarligtlgn
 tags:
   - draft
 name:

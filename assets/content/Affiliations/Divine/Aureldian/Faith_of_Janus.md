@@ -2,7 +2,6 @@
 aliases:
   - Faith of Jánus
   - Faith of Janus
-  - affiliation-janus
 id: iBYwSPyqXHZtVMrX
 tags:
   - aureldian

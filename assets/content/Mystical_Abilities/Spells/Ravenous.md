@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hunger
-  - mysticalability-ravenous
 tags: []
 name:
   full: Ravenous

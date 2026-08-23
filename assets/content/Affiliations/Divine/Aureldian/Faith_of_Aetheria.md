@@ -4,7 +4,6 @@ aliases:
   - Faith of Aetheria
   - Æthería
   - Aetheria
-  - affiliation-aetheria
 id: MsCHlWYxXsvCU7T3
 tags:
   - aureldian

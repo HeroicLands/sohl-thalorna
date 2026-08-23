@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blinkfox
-  - being-blinkfox
 tags:
   - dreadspawn
 name:

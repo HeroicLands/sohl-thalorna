@@ -1,7 +1,6 @@
 ---
 aliases:
   - Phosphorescent Globule
-  - being-phsphrsc
 tags:
   - dreadspawn
 name:

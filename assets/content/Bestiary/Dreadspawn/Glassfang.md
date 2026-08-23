@@ -1,7 +1,6 @@
 ---
 aliases:
   - Glassfang
-  - being-glssfng
 tags:
   - dreadspawn
 name:

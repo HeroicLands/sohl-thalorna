@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hippogryph
-  - being-hppgryph
 tags:
   - mythic
   - image-needed

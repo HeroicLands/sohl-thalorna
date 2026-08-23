@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-hedgehog
 tags: []
 name:
   full: Hedgehog

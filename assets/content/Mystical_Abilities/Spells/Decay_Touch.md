@@ -2,7 +2,6 @@
 aliases:
   - Decay Touch
   - Wasting
-  - mysticalability-dcytch
 tags: []
 name:
   full: Decay Touch

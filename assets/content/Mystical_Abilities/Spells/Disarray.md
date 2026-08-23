@@ -1,7 +1,6 @@
 ---
 aliases:
   - Confusion
-  - mysticalability-disarray
 tags: []
 name:
   full: Disarray

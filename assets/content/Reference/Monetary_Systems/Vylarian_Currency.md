@@ -8,7 +8,6 @@ aliases:
   - Bit
   - Vylarian Coinage
   - The Argo
-  - doc-vylrncrncy
 tags:
   - reference
   - currency

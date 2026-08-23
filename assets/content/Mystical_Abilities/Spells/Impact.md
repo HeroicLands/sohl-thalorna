@@ -1,7 +1,6 @@
 ---
 aliases:
   - Meteor
-  - mysticalability-impact
 tags: []
 name:
   full: Impact

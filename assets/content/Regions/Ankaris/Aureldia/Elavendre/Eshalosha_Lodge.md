@@ -3,7 +3,6 @@ aliases:
   - Eshalosha Lodge
   - Eshálosha Lodge
   - Eshálosha
-  - doc-eshalshldg
 id: lfpk5DjHdNISkpXd
 type: doc
 category: settlement

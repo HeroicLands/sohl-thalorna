@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tibur
-  - doc-tibur
 id: Al7vNx3kEp2Rb8Lt
 type: doc
 category: settlement

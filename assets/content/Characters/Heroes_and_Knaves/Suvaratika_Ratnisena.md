@@ -3,7 +3,6 @@ aliases:
   - Suvaratika Ratniseṇa
   - Suvaratika Ratniseṇa
   - Suvaratika Ratnisena
-  - being-suvrtkrtns
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Eshârum Ellûram
   - Esharum Elluram
-  - being-esharumlrm
 tags:
   - draft
 name:

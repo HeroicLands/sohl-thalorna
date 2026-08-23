@@ -2,7 +2,6 @@
 aliases:
   - Júlisa Maríthran
   - Julisa Marithran
-  - being-julsmrthrn
 tags:
   - draft
 name:

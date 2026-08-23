@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-klhrdvntrs
 tags: []
 id: BRel5EHG0Nk0JlGV
 shortcode: klhrdvntrs

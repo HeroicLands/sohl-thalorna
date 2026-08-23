@@ -1,7 +1,6 @@
 ---
 aliases:
   - Isâra Khalîdra
-  - being-isarakhldr
 tags:
   - tamzir-crew
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Féthar Óthral
   - Fethar Othral
-  - being-fetharthrl
 tags:
   - draft
 name:

@@ -3,7 +3,6 @@ aliases:
   - Panepistemium
   - Academy of Knowledge
   - Epistemium
-  - affiliation-panepistmm
 tags:
   - organization
   - scholarly

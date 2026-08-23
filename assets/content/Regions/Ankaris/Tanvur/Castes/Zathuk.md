@@ -2,7 +2,6 @@
 aliases:
   - Zāthük
   - Zathuk
-  - doc-zathuk
 id: NDvnF8oya98zRWdK
 type: doc
 category: lore

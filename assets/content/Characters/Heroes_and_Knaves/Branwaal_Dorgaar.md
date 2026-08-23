@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brànwâal Dôrgaar
-  - being-branwldrgr
 tags:
   - hero
   - silent-talon

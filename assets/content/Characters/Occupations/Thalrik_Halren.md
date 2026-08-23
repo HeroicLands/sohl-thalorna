@@ -2,7 +2,6 @@
 aliases:
   - Thálrik Hálren
   - Thalrik Halren
-  - being-thalrkhlrn
 tags:
   - draft
 name:

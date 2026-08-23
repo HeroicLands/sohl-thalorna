@@ -3,7 +3,6 @@ aliases:
   - Mehrâd Âzardan
   - Mehrâd Âzardan
   - Mehrad Azardan
-  - being-mehradzrdn
 tags:
   - heroes-and-knaves
 name:

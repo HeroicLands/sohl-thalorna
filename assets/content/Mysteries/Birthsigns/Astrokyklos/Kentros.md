@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-kentros
 tags: []
 name:
   full: Kentros

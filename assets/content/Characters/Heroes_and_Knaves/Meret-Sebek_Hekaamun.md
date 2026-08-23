@@ -2,7 +2,6 @@
 aliases:
   - Meret-Sebek Heka’amun
   - Meret-Sebek Hekaamun
-  - being-mrtsbkhkmn
 tags:
   - heroes-and-knaves
   - hero

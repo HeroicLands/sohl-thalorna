@@ -4,7 +4,6 @@ aliases:
   - Mother of New Beginnings
   - Íšét
   - Iset
-  - skill-iset
 tags:
   - kemetian
   - faith-skill

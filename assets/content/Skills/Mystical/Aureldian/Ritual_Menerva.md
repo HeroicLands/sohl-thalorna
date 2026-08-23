@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Menerva"
   - Ménérva
   - Keeper of Sacred Wisdom
-  - skill-menerva
 tags:
   - aureldian
   - faith-skill

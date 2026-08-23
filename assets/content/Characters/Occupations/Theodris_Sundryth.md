@@ -2,7 +2,6 @@
 aliases:
   - Theódris Sundrýth
   - Theodris Sundryth
-  - being-thdrsndryth
 tags:
   - draft
 name:

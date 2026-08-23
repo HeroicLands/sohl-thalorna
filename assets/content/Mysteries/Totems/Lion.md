@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-lion
 tags: []
 name:
   full: Lion

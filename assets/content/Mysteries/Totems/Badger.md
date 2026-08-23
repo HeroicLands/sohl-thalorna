@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-badger
 tags: []
 name:
   full: Badger

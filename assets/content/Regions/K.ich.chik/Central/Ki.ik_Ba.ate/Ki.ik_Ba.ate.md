@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ki'ik Ba'ate
-  - doc-kiikbaate
 tags:
   - polity
 title: ""

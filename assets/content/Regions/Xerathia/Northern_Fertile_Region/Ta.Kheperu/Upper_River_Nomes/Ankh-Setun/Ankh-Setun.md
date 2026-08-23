@@ -2,7 +2,6 @@
 aliases:
   - Ankh-Setûn
   - Ankh-Setun
-  - doc-ankhsetun
 id: kjeTX8avJnpknuJ3
 type: doc
 category: settlement

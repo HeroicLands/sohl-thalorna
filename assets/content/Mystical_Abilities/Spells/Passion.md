@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fervour
-  - mysticalability-passion
 tags: []
 name:
   full: Passion

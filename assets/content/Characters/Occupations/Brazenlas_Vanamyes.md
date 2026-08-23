@@ -2,7 +2,6 @@
 aliases:
   - Bràzenlâs Vânamyês
   - Brazenlas Vanamyes
-  - being-brznlsvnmys
 tags:
   - draft
 name:

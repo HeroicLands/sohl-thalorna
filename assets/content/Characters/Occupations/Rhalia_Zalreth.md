@@ -2,7 +2,6 @@
 aliases:
   - Rhália Zálreth
   - Rhalia Zalreth
-  - being-rhalizlrth
 tags:
   - draft
 name:

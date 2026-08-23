@@ -2,7 +2,6 @@
 aliases:
   - Ember Draft
   - "Potion, Stimulant, Mild"
-  - concoctiongear-PtnStmM
 tags:
   - mild-elixir
 name:

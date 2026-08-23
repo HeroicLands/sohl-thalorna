@@ -2,7 +2,6 @@
 aliases:
   - Bethûa Region
   - Bethua Region
-  - doc-bethuargn
 tags:
   - region
 title: ""

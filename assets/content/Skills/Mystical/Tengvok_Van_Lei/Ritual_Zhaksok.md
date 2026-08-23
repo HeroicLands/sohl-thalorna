@@ -5,7 +5,6 @@ aliases:
   - Zhaksok
   - The Unsorted
   - The Walking Contradiction
-  - skill-zhaksok
 tags:
   - celestial-pantheon
   - faith-skill

@@ -2,7 +2,6 @@
 aliases:
   - Dágulf Véthar
   - Dagulf Vethar
-  - being-dagulfvthr
 tags:
   - blackpine-wolves
   - brigand

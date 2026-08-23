@@ -1,7 +1,6 @@
 ---
 aliases:
   - Affiliations
-  - doc-affiliatns
 id: 7mpaoQ3ZZYCum3Ex
 name:
   full: Affiliations

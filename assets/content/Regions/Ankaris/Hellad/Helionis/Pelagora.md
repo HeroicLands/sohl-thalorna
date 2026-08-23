@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pelagora
-  - doc-pelagora
 id: RZzww0ah4u3cAljF
 description: "Naval power of the Helionite city-states — citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
 type: doc

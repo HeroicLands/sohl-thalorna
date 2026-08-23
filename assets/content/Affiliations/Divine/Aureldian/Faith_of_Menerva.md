@@ -3,7 +3,6 @@ aliases:
   - Faith of Ménérva
   - Faith of Menerva
   - Ménérva
-  - affiliation-menerva
 id: OqrKF1t1dBkOt80m
 tags:
   - aureldian

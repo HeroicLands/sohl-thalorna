@@ -2,7 +2,6 @@
 aliases:
   - The Wakeful Road
   - Verve Elixir
-  - concoctiongear-ElxVrv
 tags:
   - elixir
 name:

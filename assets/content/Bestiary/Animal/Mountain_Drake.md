@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mountain Drake
-  - being-mntndrk
 tags:
   - animal
 name:

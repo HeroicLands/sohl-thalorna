@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hrafnkell Hrafnsvald
-  - being-hrfnklhrfnsvld
 tags:
   - heroes-and-knaves
 name:

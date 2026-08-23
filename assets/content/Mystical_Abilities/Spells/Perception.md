@@ -1,7 +1,6 @@
 ---
 aliases:
   - View
-  - mysticalability-prcptn
 tags: []
 name:
   full: Perception

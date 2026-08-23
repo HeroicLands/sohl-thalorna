@@ -3,7 +3,6 @@ aliases:
   - Óskunn Bjargskorn
   - Óskunn Bjargskorn
   - Oskunn Bjargskorn
-  - being-osknbjrgskrn
 tags:
   - heroes-and-knaves
 name:

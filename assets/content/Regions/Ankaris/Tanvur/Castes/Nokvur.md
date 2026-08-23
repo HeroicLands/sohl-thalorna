@@ -2,7 +2,6 @@
 aliases:
   - Nōkvür
   - Nokvur
-  - doc-nokvur
 id: ftY2uPxiDE8H1Cpu
 type: doc
 category: lore

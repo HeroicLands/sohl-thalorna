@@ -3,7 +3,6 @@ aliases:
   - Héx Hodäi
   - The Six Ways
   - The Sigillum
-  - doc-hexhodai
 tags:
   - lore
   - arcane

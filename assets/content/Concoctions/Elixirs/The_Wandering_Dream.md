@@ -2,7 +2,6 @@
 aliases:
   - The Wandering Dream
   - Dreamwalk Elixir
-  - concoctiongear-ElxDrm
 tags:
   - elixir
 name:

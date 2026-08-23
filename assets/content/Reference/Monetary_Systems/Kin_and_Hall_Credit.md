@@ -4,7 +4,6 @@ aliases:
   - Tribal Credit
   - Hall Credit
   - Kin Credit
-  - doc-kinhalcrdt
 tags:
   - reference
   - currency

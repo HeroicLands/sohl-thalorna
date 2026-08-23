@@ -1,7 +1,6 @@
 ---
 aliases:
   - Varokhi
-  - doc-varokhlngg
 id: 91cRdILZOFVdixF9
 name:
   full: Varokhi Language

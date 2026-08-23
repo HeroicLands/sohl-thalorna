@@ -4,7 +4,6 @@ aliases:
   - Vyāhrati
   - Vyahrati
   - The Keeper of Decay
-  - skill-vyahrati
 tags:
   - varnaka
   - faith-skill

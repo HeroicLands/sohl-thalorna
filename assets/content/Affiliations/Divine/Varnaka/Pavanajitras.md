@@ -2,7 +2,6 @@
 aliases:
   - Pavanajitras
   - The Wandering Wind
-  - affiliation-pavanajitras
 id: IjabyyzZ8t4frOn8
 tags:
   - varnaka

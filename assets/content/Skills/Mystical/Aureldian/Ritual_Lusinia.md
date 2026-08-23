@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Lusinia"
   - Lúsinía
   - The World-Weaver
-  - skill-lusinia
 tags:
   - aureldian
   - faith-skill

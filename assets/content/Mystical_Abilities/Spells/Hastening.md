@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-hstnng
 tags: []
 name:
   full: Hastening

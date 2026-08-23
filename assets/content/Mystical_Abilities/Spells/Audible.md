@@ -1,7 +1,6 @@
 ---
 aliases:
   - Voice
-  - mysticalability-audible
 tags: []
 name:
   full: Audible

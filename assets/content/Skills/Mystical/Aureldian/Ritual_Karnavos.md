@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Karnavos"
   - The Wild Beast
-  - skill-karnavos
 tags:
   - aureldian
   - faith-skill

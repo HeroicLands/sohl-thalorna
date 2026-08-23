@@ -2,7 +2,6 @@
 aliases:
   - Táldor Kálmereth
   - Taldor Kalmereth
-  - being-tldrklmrth
 tags:
   - draft
 name:

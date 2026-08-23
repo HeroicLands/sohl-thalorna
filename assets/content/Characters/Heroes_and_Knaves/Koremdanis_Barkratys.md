@@ -3,7 +3,6 @@ aliases:
   - Korêmdânis Bárkrâtys
   - Korêmdânis Bárkrâtys
   - Koremdanis Barkratys
-  - being-krmdnsbrkrtys
 tags:
   - heroes-and-knaves
 name:

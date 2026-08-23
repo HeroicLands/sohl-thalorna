@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz’ikin K’ul
-  - doc-tzikinkul
 id: YxOv20w4CsGfROM5
 type: doc
 category: settlement

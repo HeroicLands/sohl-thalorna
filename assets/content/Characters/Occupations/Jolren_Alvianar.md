@@ -2,7 +2,6 @@
 aliases:
   - Jólren Álvianar
   - Jolren Alvianar
-  - being-jolrenlvnr
 tags:
   - draft
 name:

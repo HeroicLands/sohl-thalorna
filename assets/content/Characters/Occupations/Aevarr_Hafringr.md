@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ævarr Hafringr
-  - being-aevrhfrngr
 tags:
   - draft
 name:

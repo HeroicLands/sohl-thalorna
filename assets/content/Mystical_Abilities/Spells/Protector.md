@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ward
-  - mysticalability-prtctr
 tags: []
 name:
   full: Protector

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Oasis of Shirvan
-  - doc-oasishirvn
 id: FQHoKNcT3CfFmyIV
 type: doc
 category: settlement

@@ -3,7 +3,6 @@ aliases:
   - Véldor Bélthal
   - Véldor Bélthal
   - Veldor Belthal
-  - being-veldrblthl
 tags:
   - heroes-and-knaves
 name:

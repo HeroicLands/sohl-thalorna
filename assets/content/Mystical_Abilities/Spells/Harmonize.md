@@ -1,7 +1,6 @@
 ---
 aliases:
   - Attune
-  - mysticalability-hrmnz
 tags: []
 name:
   full: Harmonize

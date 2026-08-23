@@ -2,7 +2,6 @@
 aliases:
   - Dânâzi Ashûdam
   - Danazi Ashudam
-  - being-danazishdm
 tags:
   - draft
 name:

@@ -3,7 +3,6 @@ aliases:
   - Kālavrata
   - Kalavrata
   - The Gatekeeper of Death
-  - affiliation-kalavrata
 id: Avwo9jIt0Yj5Vdti
 tags:
   - varnaka

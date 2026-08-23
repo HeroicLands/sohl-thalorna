@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tamavar
-  - doc-tamavar
 id: Qb6P7nW3a8lOcvDz
 description: "Largest and wealthiest city-state of the Confederation of Haradian States — de facto capital where the Grand Council meets and the most powerful merchant guilds command the harbor."
 type: doc

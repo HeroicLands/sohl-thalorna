@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha' Xaman
-  - doc-haxaman
 tags:
   - polity
 title: ""

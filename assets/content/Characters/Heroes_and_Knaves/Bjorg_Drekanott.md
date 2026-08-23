@@ -3,7 +3,6 @@ aliases:
   - Björg Drekanótt
   - Björg Drekanótt
   - Bjorg Drekanott
-  - being-bjorgdrknt
 tags:
   - heroes-and-knaves
 name:

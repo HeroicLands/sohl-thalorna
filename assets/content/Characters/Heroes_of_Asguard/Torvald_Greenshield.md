@@ -1,7 +1,6 @@
 ---
 aliases:
   - Torvald Greenshield
-  - being-trvldgrnshld
 tags:
   - paragon
   - heroes-of-asguard

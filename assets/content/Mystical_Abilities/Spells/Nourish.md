@@ -1,7 +1,6 @@
 ---
 aliases:
   - Enrichment
-  - mysticalability-nourish
 tags: []
 name:
   full: Nourish

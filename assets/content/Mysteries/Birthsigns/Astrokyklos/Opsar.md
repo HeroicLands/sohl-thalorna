@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-opsar
 tags: []
 name:
   full: Opsar

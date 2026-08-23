@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blowgun
-  - weapongear-BGun
 tags: []
 name:
   full: Blowgun

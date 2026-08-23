@@ -5,7 +5,6 @@ aliases:
   - Phtah
   - The Shaper of the Eternal World
   - The Divine Craftsman
-  - affiliation-ptah
 id: 37bXbRYbBzeeSEE7
 tags:
   - kemetian

@@ -3,7 +3,6 @@ aliases:
   - Vylarian Citizenship
   - Citizenship
   - Citizens and Residents
-  - doc-vylrnctznshp
 tags:
   - reference
   - vylaria

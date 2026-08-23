@@ -1,7 +1,6 @@
 ---
 aliases:
   - Threats
-  - doc-threats
 id: qi7U1RdJvNMAbM1I
 type: doc
 category: lore

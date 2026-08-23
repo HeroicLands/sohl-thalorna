@@ -1,7 +1,6 @@
 ---
 aliases:
   - Absorb
-  - mysticalability-drain
 tags: []
 name:
   full: Drain

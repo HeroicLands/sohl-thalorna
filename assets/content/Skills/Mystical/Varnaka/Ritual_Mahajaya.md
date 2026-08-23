@@ -4,7 +4,6 @@ aliases:
   - Mahájaya
   - Mahajaya
   - The Eternal Preserver
-  - skill-mahajaya
 tags:
   - varnaka
   - faith-skill

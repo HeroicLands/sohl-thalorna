@@ -1,7 +1,6 @@
 ---
 aliases:
   - Torreviga
-  - doc-torreviga
 id: yjFOHt9fEyDjHCCZ
 type: doc
 category: settlement

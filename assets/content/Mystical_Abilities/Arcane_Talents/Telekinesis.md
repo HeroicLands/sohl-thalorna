@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-telek
 tags: []
 name:
   full: Telekinesis

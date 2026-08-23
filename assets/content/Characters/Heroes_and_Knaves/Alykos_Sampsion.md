@@ -3,7 +3,6 @@ aliases:
   - Alýkos Sampsiôn
   - Alýkos Sampsiôn
   - Alykos Sampsion
-  - being-alykosmpsn
 tags:
   - heroes-and-knaves
 name:

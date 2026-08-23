@@ -2,7 +2,6 @@
 aliases:
   - Silk Sleep
   - "Potion, Soporific, Strong"
-  - concoctiongear-PtnSopS
 tags:
   - strong-elixir
 name:

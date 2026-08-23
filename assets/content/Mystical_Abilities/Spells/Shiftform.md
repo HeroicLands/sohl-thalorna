@@ -1,7 +1,6 @@
 ---
 aliases:
   - Distort
-  - mysticalability-shftfrm
 tags: []
 name:
   full: Shiftform

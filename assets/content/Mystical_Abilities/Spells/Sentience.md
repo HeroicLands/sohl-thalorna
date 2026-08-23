@@ -1,7 +1,6 @@
 ---
 aliases:
   - Personality
-  - mysticalability-sntnc
 tags: []
 name:
   full: Sentience

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadowstalker
-  - being-shdwstlk
 tags:
   - spirit
 name:

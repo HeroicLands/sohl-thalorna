@@ -3,7 +3,6 @@ aliases:
   - Dómeth Gráveth
   - Dómeth Gráveth
   - Dometh Graveth
-  - being-domthgrvth
 tags:
   - heroes-and-knaves
 name:

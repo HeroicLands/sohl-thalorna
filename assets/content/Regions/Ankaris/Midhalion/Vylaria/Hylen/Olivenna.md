@@ -1,7 +1,6 @@
 ---
 aliases:
   - Olivenna
-  - doc-olivenna
 id: Hy8vNx3kOp2Rb5Lt
 type: doc
 category: settlement

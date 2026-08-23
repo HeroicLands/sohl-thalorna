@@ -1,7 +1,6 @@
 ---
 aliases:
   - Khensuret
-  - doc-khensuret
 id: BFVfBRUFybESEcFb
 type: doc
 category: settlement

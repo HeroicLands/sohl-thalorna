@@ -1,7 +1,6 @@
 ---
 aliases:
   - Layla Marut
-  - being-laylamarut
 tags:
   - heroes-and-knaves
   - hero

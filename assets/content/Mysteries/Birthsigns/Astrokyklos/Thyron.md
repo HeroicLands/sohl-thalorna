@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-thyron
 tags: []
 name:
   full: Thyron

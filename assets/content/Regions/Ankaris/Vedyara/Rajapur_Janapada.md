@@ -5,7 +5,6 @@ aliases:
   - Rajapur
   - Rājapur
   - The Janapada of the King's-Town
-  - doc-rajaprjnpd
 tags: []
 type: doc
 category: polity

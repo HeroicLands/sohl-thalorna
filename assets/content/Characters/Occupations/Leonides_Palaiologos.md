@@ -2,7 +2,6 @@
 aliases:
   - Leónidês Palaiológos
   - Leonides Palaiologos
-  - being-lendspllgs
 tags:
   - todo-warrior
   - draft

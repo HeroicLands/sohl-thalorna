@@ -2,7 +2,6 @@
 aliases:
   - "Desert's Kiss"
   - Exsiccation Elixir
-  - concoctiongear-ElxExs
 tags:
   - elixir
 name:

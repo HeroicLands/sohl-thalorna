@@ -1,7 +1,6 @@
 ---
 aliases:
   - Caecity
-  - mysticalability-blndspt
 tags: []
 name:
   full: Blindspot

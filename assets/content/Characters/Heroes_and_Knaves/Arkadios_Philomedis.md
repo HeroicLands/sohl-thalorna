@@ -3,7 +3,6 @@ aliases:
   - Arkádios Philomédis
   - Arkádios Philomédis
   - Arkadios Philomedis
-  - being-arkdsphlmds
 tags:
   - heroes-and-knaves
 name:

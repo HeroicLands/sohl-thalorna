@@ -1,7 +1,6 @@
 ---
 aliases:
   - Snowball
-  - mysticalability-iceblast
 tags: []
 name:
   full: Iceblast

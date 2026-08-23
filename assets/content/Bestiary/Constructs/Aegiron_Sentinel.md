@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aegiron Sentinel
-  - being-agrnsntn
 tags:
   - construct
 name:

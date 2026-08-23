@@ -2,7 +2,6 @@
 aliases:
   - Haldrvík
   - Haldrvik
-  - doc-haldrvik
 id: zvHZeopFCRUFvSUh
 type: doc
 category: settlement

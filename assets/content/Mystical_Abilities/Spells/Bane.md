@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-bane
 tags: []
 name:
   full: Bane

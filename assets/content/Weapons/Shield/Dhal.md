@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dhal
-  - weapongear-Dhal
 tags: []
 name:
   full: Dhal

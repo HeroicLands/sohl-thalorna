@@ -1,7 +1,6 @@
 ---
 aliases:
   - Skin
-  - mysticalability-shldskn
 tags: []
 name:
   full: Shieldskin

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kiliji
-  - weapongear-Kiliji
 tags: []
 name:
   full: Kiliji

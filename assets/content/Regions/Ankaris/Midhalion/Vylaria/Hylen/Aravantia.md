@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aravantia
-  - doc-aravantia
 id: Hy4rKx2mVqL9Tb7n
 type: doc
 category: settlement

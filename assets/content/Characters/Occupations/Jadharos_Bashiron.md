@@ -2,7 +2,6 @@
 aliases:
   - Jâdhâros Bâshirôn
   - Jadharos Bashiron
-  - being-jdhrsbshrn
 tags:
   - draft
 name:

@@ -4,7 +4,6 @@ aliases:
   - Kālavrata
   - Kalavrata
   - The Gatekeeper of Death
-  - skill-kalavrata
 tags:
   - varnaka
   - faith-skill

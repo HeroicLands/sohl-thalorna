@@ -2,7 +2,6 @@
 aliases:
   - Áleifr Frostulf
   - Aleifr Frostulf
-  - being-alfrfrstlf
 tags:
   - draft
 name:

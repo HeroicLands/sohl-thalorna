@@ -3,7 +3,6 @@ aliases:
   - Padmàvali Dhanurvedakīrtirāja
   - Padmàvali Dhanurvedakīrtirāja
   - Padmavali Dhanurvedakirtiraja
-  - being-pdmvldhnrvdkrtrj
 tags:
   - heroes-and-knaves
 name:

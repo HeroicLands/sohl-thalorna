@@ -2,7 +2,6 @@
 aliases:
   - Nûbàris Jâdîrôs
   - Nubaris Jadiros
-  - being-nubarsjdrs
 tags:
   - draft
 name:

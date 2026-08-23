@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mature Ice Dragon
-  - being-mtricdrg
 tags:
   - mythic
   - image-needed

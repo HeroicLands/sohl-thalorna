@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pox
-  - mysticalability-blight
 tags: []
 name:
   full: Blight

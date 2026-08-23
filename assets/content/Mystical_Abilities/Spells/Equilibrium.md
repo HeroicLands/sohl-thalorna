@@ -1,7 +1,6 @@
 ---
 aliases:
   - Harmony
-  - mysticalability-eqlbrm
 tags: []
 name:
   full: Equilibrium

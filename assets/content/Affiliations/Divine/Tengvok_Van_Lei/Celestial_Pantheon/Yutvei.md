@@ -2,7 +2,6 @@
 aliases:
   - Yütvëi
   - Yutvei
-  - affiliation-yutvei
 id: TD1EXmLxLFzampwA
 tags:
   - celestial-official

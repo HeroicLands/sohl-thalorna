@@ -3,7 +3,6 @@ aliases:
   - Xerathia
   - Xerathian
   - Xerathia Continent
-  - doc-xerathia
 id: YrWaLJNILQB3xNmH
 tags:
   - continent

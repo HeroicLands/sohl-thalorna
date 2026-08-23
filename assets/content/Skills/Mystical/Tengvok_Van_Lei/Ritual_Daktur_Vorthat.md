@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Dāktūr Vōrthāt"
   - Dāktūr Vōrthāt
   - Daktur Vorthat
-  - skill-daktrvrtht
 tags:
   - celestial-pantheon
   - faith-skill

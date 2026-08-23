@@ -3,7 +3,6 @@ aliases:
   - Jñānasūra
   - Jnanasura
   - The Radiant Sage
-  - affiliation-jnanasura
 id: SaDYZeRnoxIhEPUr
 tags:
   - varnaka

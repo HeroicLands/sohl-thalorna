@@ -2,7 +2,6 @@
 aliases:
   - Jéthra Llýdar
   - Jethra Llydar
-  - being-jethralydr
 tags:
   - draft
 name:

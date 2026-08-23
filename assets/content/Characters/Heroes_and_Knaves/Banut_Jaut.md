@@ -3,7 +3,6 @@ aliases:
   - Bânut Jâut
   - Bânut Jâut
   - Banut Jaut
-  - being-banutjaut
 tags:
   - heroes-and-knaves
 name:

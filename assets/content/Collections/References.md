@@ -1,7 +1,6 @@
 ---
 aliases:
   - References
-  - doc-references
 id: QddBTHgnLAzYbXo5
 name:
   full: References

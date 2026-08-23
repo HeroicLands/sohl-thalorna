@@ -1,7 +1,6 @@
 ---
 aliases:
   - Astrokýklos
-  - doc-astrokyklos
 tags: []
 name:
   full: Astrokýklos

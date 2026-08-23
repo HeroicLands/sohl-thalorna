@@ -3,7 +3,6 @@ aliases:
   - Yokveng Lesser Demons
   - Yōkvëng
   - The Demon-Swarm
-  - affiliation-yvlesrdmns
 id: NC2Uu1ewjsP8e43P
 tags:
   - yokveng

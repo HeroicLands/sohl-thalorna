@@ -2,7 +2,6 @@
 aliases:
   - Dalzûru Tûbashî
   - Dalzuru Tubashi
-  - being-dalzurtbsh
 tags:
   - draft
 name:

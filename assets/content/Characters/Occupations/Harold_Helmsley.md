@@ -1,7 +1,6 @@
 ---
 aliases:
   - Harold Helmsley
-  - being-hrldhlmsly
 tags:
   - draft
 name:

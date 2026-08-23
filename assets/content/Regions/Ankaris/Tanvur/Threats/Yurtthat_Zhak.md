@@ -2,7 +2,6 @@
 aliases:
   - Yürtthāt Zhāk
   - Yurtthat Zhak
-  - doc-yurthatzhk
 id: kx1DYO4Lv2VXJB93
 type: doc
 category: lore

@@ -3,7 +3,6 @@ aliases:
   - The Order of the Sealed Word
   - Order of the Sealed Word
   - Ordo Verbi Signati
-  - affiliation-ordrsldwrd
 tags:
   - organization
   - aureldia

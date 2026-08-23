@@ -3,7 +3,6 @@ aliases:
   - Júthâra Jâmîthôn
   - Júthâra Jâmîthôn
   - Juthara Jamithon
-  - being-juthrjmthn
 tags:
   - heroes-and-knaves
 name:

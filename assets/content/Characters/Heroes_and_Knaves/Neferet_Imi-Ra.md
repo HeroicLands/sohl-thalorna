@@ -1,7 +1,6 @@
 ---
 aliases:
   - Neferet Imi-Ra
-  - being-neferetimr
 tags:
   - heroes-and-knaves
   - hero

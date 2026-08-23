@@ -3,7 +3,6 @@ aliases:
   - Smith’s Flame
   - Smith's Flame
   - Foundry
-  - mysticalability-smthflam
 tags: []
 name:
   full: Smith’s Flame

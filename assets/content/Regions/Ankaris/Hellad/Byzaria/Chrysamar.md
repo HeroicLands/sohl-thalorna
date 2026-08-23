@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chrysamar
-  - doc-chrysamar
 id: ACcZGc0wIJI483Nl
 type: doc
 category: settlement

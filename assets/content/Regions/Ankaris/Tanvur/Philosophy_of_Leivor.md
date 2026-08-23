@@ -2,7 +2,6 @@
 aliases:
   - Philosophy of Lëivōr
   - Philosophy of Leivor
-  - doc-phlsphylvr
 id: zyE0FcQlZ3Ej0w7Z
 type: doc
 category: lore

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Waldburg
-  - doc-waldburg
 id: SriprSl9dLBKfsgn
 type: doc
 category: settlement

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-eagle
 tags: []
 name:
   full: Eagle

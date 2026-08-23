@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hotep Anu
-  - being-hotepanu
 tags:
   - heroes-and-knaves
   - hero

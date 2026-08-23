@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Zúráthrä"
   - Mother of the Oasis
-  - skill-zurathra
 tags:
   - ashalan
   - faith-skill

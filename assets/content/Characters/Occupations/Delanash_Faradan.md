@@ -2,7 +2,6 @@
 aliases:
   - Delânash Faradân
   - Delanash Faradan
-  - being-delnshfrdn
 tags:
   - todo-warrior
   - draft

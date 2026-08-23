@@ -1,7 +1,6 @@
 ---
 aliases:
   - Frostmaw
-  - being-frostmaw
 tags:
   - elemental
 name:

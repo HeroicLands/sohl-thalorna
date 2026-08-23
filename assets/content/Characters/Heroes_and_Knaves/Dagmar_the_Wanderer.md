@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dagmar the Wanderer
-  - being-dagmrwndrr
 tags:
   - heroes-and-knaves
   - hero

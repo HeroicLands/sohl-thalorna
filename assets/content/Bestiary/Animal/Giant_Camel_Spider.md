@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Camel Spider
-  - being-gntcmlsp
 tags:
   - animal
   - image-needed

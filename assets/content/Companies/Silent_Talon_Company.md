@@ -1,7 +1,6 @@
 ---
 aliases:
   - Silent Talon Company
-  - doc-slntlncmpny
 tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: doc

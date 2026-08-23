@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sensation
-  - mysticalability-aware
 tags: []
 name:
   full: Aware

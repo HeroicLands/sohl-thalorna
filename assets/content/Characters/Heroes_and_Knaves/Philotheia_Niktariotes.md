@@ -3,7 +3,6 @@ aliases:
   - Philothêia Niktariôtês
   - Philothêia Niktariôtês
   - Philotheia Niktariotes
-  - being-phlthnktrts
 tags:
   - heroes-and-knaves
 name:

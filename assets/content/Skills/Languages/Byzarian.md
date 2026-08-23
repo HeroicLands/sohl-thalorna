@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langbyz
 tags: []
 name:
   full: Byzarian

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dunmere
-  - doc-dunmere
 id: MbOkXD6PFlAjMucq
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Lost Relic of Ménavar Abbey
-  - doc-lstrlcmnvrby
 id: 9rDXBIWrlzRL2nwF
 name:
   full: The Lost Relic of Menavar Abbey

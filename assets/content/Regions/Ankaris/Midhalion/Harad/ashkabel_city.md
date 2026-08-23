@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ashkabel
-  - doc-ashkabel2
 id: Tjq1opR4z8iu24jP
 type: doc
 category: settlement

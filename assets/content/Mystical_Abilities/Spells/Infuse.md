@@ -1,7 +1,6 @@
 ---
 aliases:
   - Charge
-  - mysticalability-infuse
 tags: []
 name:
   full: Infuse

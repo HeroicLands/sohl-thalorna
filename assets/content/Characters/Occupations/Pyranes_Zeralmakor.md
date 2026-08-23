@@ -2,7 +2,6 @@
 aliases:
   - Pyrânês Zêralmâkor
   - Pyranes Zeralmakor
-  - being-pyrnszrlmkr
 tags:
   - draft
 name:

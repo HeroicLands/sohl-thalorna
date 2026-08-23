@@ -1,7 +1,6 @@
 ---
 aliases:
   - Feel
-  - mysticalability-sense
 tags: []
 name:
   full: Sense

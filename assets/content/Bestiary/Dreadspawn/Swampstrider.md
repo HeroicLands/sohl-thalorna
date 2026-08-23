@@ -1,7 +1,6 @@
 ---
 aliases:
   - Swampstrider
-  - being-swmpstrd
 tags:
   - dreadspawn
 name:

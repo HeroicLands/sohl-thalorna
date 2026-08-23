@@ -2,7 +2,6 @@
 aliases:
   - Thári'vaan
   - The Living Whole
-  - affiliation-tharivaan
 id: fphdjEuVLlOrB1Mi
 tags:
   - pantheon

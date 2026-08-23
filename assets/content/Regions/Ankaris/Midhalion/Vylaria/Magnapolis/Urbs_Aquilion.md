@@ -3,7 +3,6 @@ aliases:
   - Urbs Aquilion
   - Inner City
   - Eagle City
-  - doc-urbsaquiln
 tags:
   - settlement
   - vylaria

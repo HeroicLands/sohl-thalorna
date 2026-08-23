@@ -1,7 +1,6 @@
 ---
 aliases:
   - Titan Beetle
-  - being-ttnbtl
 tags:
   - animal
 name:

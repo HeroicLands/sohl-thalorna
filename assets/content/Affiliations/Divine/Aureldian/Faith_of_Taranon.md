@@ -3,7 +3,6 @@ aliases:
   - Faith of Táranon
   - Faith of Taranon
   - Táranon
-  - affiliation-taranon
 id: c5QQBhuSwvnzYVgD
 tags:
   - aureldian

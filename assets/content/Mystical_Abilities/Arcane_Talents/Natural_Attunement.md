@@ -1,7 +1,6 @@
 ---
 aliases:
   - Natural Attunement
-  - mysticalability-natn
 tags: []
 name:
   full: Natural Attunement

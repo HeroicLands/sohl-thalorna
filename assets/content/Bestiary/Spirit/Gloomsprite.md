@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gloomsprite
-  - being-glmsprt
 tags:
   - spirit
 name:

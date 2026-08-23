@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Hórús"
   - Hórús, The Guiding Falcon
-  - skill-horus
 tags:
   - kemetian
   - faith-skill

@@ -2,7 +2,6 @@
 aliases:
   - Nome of Ta-Resu-Heka
   - Ta-Resu-Heka Nome
-  - doc-nometarshk
 id: ms7qhaPwAhEXYQOn
 description: "The great southern march of Ta'Kheperu — the cataract frontier where the river breaks into rapids and the empire ends, held by a soldier-Haty'a who commands the fortress-line, taxes the gold-and-ivory road from the deep south, and watches the tribal lands beyond."
 type: doc

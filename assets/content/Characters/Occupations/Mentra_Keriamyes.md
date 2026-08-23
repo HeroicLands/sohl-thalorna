@@ -2,7 +2,6 @@
 aliases:
   - Mêntrâ Kêrîamyês
   - Mentra Keriamyes
-  - being-mentrkrmys
 tags:
   - draft
 name:

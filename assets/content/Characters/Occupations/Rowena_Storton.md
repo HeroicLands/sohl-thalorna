@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rowena Storton
-  - being-rowenstrtn
 tags:
   - draft
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Élavendri
   - Elavendri
-  - skill-langela
 tags: []
 name:
   full: Élavendri

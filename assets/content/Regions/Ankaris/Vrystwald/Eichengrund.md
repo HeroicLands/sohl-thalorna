@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eichengrund
-  - doc-eichengrnd
 id: IdfMspBEVKOe4Jje
 type: doc
 category: settlement

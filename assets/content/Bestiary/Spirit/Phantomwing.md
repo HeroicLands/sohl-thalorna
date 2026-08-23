@@ -1,7 +1,6 @@
 ---
 aliases:
   - Phantomwing
-  - being-phntmwng
 tags:
   - spirit
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Khôrn Hálren
   - Khorn Halren
-  - being-khornhalrn
 tags:
   - draft
 name:

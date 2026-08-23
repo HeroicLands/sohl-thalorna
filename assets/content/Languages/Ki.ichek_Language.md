@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ki'ichek
-  - doc-kicheklngg
 id: vXpDKLupWlSPeJDm
 name:
   full: Ki'ichek Language

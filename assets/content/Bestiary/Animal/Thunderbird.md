@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thunderbird
-  - being-thndrbrd
 tags:
   - animal
 name:

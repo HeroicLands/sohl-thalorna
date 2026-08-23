@@ -1,7 +1,6 @@
 ---
 aliases:
   - Acidtoad
-  - being-acidtoad
 tags:
   - dreadspawn
 name:

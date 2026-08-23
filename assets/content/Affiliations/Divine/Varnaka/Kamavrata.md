@@ -3,7 +3,6 @@ aliases:
   - Kāmavrata
   - Kamavrata
   - The Celestial Lover
-  - affiliation-kamavrata
 id: pNN7XgjGE8bnHm7U
 tags:
   - varnaka

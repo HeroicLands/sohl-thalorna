@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-fox
 tags: []
 name:
   full: Fox

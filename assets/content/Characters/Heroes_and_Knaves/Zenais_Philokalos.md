@@ -3,7 +3,6 @@ aliases:
   - Zênais Philokálos
   - Zênais Philokálos
   - Zenais Philokalos
-  - being-zensphlkls
 tags:
   - heroes-and-knaves
 name:

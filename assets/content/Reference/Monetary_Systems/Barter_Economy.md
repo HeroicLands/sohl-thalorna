@@ -3,7 +3,6 @@ aliases:
   - Barter Economy
   - Barter
   - Barter System
-  - doc-bartercnmy
 tags:
   - reference
   - currency

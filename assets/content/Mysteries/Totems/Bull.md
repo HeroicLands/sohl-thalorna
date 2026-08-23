@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-bull
 tags: []
 name:
   full: Bull

@@ -2,7 +2,6 @@
 aliases:
   - "Courtier's Allure"
   - "Potion, Aromatic, Strong"
-  - concoctiongear-PtnAromS
 tags:
   - strong-elixir
 name:

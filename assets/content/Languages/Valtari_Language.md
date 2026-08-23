@@ -4,7 +4,6 @@ aliases:
   - Váltongue
   - Dock-talk
   - Trade Pidgin
-  - doc-valtarlngg
 id: zTOuvTgLfc8ZSc2B
 name:
   full: Valtári Language

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Haradi
-  - doc-haradilngg
 id: u384j9FhEZcW10KZ
 name:
   full: Haradi Language

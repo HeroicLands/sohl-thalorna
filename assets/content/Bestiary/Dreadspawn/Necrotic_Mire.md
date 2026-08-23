@@ -1,7 +1,6 @@
 ---
 aliases:
   - Necrotic Mire
-  - being-ncrtcmr
 tags:
   - dreadspawn
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Panic
-  - mysticalability-fright
 tags: []
 name:
   full: Fright

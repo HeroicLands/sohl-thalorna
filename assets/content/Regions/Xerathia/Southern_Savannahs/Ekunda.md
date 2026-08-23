@@ -4,7 +4,6 @@ tags:
 aliases:
   - Ékunda
   - Ekunda
-  - doc-ekunda
 id: VQ6dTH1kqTQUvI3F
 type: doc
 category: settlement

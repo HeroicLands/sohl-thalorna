@@ -4,7 +4,6 @@ aliases:
   - Aurèldía
   - Aureldia
   - Aureldia Region
-  - doc-aureldirgn
 tags:
   - region
   - aureldia

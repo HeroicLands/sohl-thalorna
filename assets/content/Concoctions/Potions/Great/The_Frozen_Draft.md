@@ -2,7 +2,6 @@
 aliases:
   - The Frozen Draft
   - "Potion, Paralytic, Great"
-  - concoctiongear-PtnParG
 tags:
   - great-elixir
 name:

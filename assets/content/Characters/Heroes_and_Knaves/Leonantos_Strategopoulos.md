@@ -3,7 +3,6 @@ aliases:
   - Leónantos Stratégopoulos
   - Leónantos Stratégopoulos
   - Leonantos Strategopoulos
-  - being-lnntstrtgpls
 tags:
   - heroes-and-knaves
   - todo

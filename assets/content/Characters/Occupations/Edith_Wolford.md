@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edith Wolford
-  - being-edithwlfrd
 tags:
   - draft
 name:

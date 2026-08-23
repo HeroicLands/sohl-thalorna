@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-duck
 tags: []
 name:
   full: Duck

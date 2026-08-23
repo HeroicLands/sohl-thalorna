@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thornback Raptor
-  - being-thrnbckr
 tags:
   - animal
 name:

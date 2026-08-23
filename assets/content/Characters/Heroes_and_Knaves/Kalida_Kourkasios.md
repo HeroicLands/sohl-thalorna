@@ -3,7 +3,6 @@ aliases:
   - Kalída Kourkásios
   - Kalída Kourkásios
   - Kalida Kourkasios
-  - being-kalidkrkss
 tags:
   - heroes-and-knaves
 name:

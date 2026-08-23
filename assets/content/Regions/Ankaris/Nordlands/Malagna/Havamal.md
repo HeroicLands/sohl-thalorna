@@ -2,7 +2,6 @@
 aliases:
   - Hávamál
   - Havamal
-  - doc-havamal
 id: rej65SfOdHxrfzld
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bjalfi Hrafnsvald
-  - being-bjlfhrfnsvld
 tags:
   - heroes-and-knaves
 name:

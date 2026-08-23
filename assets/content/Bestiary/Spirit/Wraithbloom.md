@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wraithbloom
-  - being-wrthblm
 tags:
   - spirit
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Ármund Hildskorn
   - Armund Hildskorn
-  - being-armndhldskrn
 tags:
   - draft
 name:

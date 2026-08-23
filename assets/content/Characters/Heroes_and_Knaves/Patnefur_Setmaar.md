@@ -3,7 +3,6 @@ aliases:
   - Patnefur Setmaâr
   - Pat'nefur Set'maâr
   - Patnefur Setmaar
-  - being-patnfrstmr
 tags:
   - heroes-and-knaves
 name:

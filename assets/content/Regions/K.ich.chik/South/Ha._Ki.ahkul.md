@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha’ Ki’ahkul
-  - doc-hakiahkul
 id: kwMVyscLlBNMazGt
 type: doc
 category: settlement

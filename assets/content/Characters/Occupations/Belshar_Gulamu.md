@@ -2,7 +2,6 @@
 aliases:
   - Belshar Gûlamû
   - Belshar Gulamu
-  - being-belsharglm
 tags:
   - draft
 name:

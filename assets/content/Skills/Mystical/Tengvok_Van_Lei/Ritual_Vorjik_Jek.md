@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Vōrjīk Jëk"
   - Vōrjīk Jëk
   - Vorjik Jek
-  - skill-vorjikjek
 tags:
   - celestial-pantheon
   - faith-skill

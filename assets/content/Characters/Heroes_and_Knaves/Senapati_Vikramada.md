@@ -3,7 +3,6 @@ aliases:
   - Sénapati Vikramâda
   - Sénapati Vikramâda
   - Senapati Vikramada
-  - being-senptvkrmd
 tags:
   - heroes-and-knaves
 name:

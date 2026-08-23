@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grukar
-  - doc-grukarlngg
 id: 6WRyhuo5t1ha49uS
 name:
   full: Grukar Language

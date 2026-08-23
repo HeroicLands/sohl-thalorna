@@ -1,7 +1,6 @@
 ---
 aliases:
   - Belekos
-  - doc-belekos
 id: 4sQb0DORaqTYrcOm
 type: doc
 category: settlement

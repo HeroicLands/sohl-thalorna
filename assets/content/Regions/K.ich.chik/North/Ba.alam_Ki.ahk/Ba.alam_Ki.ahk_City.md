@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ba'alam Ki'ahk
-  - doc-balamkiahk2
 id: PVzHCv6vrYI2AmrU
 type: doc
 category: settlement

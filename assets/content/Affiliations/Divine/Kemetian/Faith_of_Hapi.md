@@ -5,7 +5,6 @@ aliases:
   - Apis
   - The Golden Reveler
   - The Overflowing One
-  - affiliation-hapi
 id: mpfUXQTJFTLd0uWF
 tags:
   - kemetian

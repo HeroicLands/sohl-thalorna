@@ -2,7 +2,6 @@
 aliases:
   - Élavendre Region
   - Élavendre
-  - doc-elavendre
 id: Yc8uOHP5C5WDrUBN
 description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic — the only human realm in Ankaris where the Elder Races walk openly as equals."
 type: doc

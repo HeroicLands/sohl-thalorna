@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-jaguar
 tags: []
 name:
   full: Jaguar

@@ -2,7 +2,6 @@
 aliases:
   - Azatô Dâemzânis
   - Azato Daemzanis
-  - being-azatodmzns
 tags:
   - draft
 name:

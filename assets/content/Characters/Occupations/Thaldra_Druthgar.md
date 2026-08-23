@@ -2,7 +2,6 @@
 aliases:
   - Thaldrá Druthgar
   - Thaldra Druthgar
-  - being-thldrdrthgr
 tags:
   - draft
 name:

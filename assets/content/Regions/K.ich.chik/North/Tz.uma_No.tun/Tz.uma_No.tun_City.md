@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'uma No'tun
-  - doc-tzumanotun2
 id: JVMEXCHmxTAMu49N
 type: doc
 category: settlement

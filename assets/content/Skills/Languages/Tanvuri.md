@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tānvüri
-  - skill-langtan
 tags: []
 name:
   full: Tānvüri

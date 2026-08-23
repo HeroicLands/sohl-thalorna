@@ -2,7 +2,6 @@
 aliases:
   - Tórsaro Thalídran
   - Torsaro Thalidran
-  - being-trsrthldrn
 tags:
   - draft
 name:

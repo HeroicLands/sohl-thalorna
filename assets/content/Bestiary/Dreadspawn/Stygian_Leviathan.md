@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stygian Leviathan
-  - being-stygnlvt
 tags:
   - dreadspawn
 name:

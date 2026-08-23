@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shebas Thutmosa
-  - being-shebsthtms
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Medicine
-  - doc-medicine
 id: DY51n86VorJpng21
 type: doc
 category: lore

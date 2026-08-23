@@ -1,7 +1,6 @@
 ---
 aliases:
   - Marriage
-  - doc-marriage
 id: FU7XLpmwbZEhNm5R
 type: doc
 category: lore

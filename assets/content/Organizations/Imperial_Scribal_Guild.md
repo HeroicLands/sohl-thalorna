@@ -3,7 +3,6 @@ aliases:
   - The Imperial Scribal Guild
   - Imperial Scribal Guild
   - The Vylarian Scribal Guild
-  - affiliation-imprlscrblgld
 tags: []
 description: "Chartered guild administering all official writing in the Vylarian Empire — from imperial edicts to provincial tax rolls — and the bureaucratic backbone on which the empire actually runs."
 package: thalorna

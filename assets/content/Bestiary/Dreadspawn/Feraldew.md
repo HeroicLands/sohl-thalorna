@@ -1,7 +1,6 @@
 ---
 aliases:
   - Feraldew
-  - being-feraldew
 tags:
   - dreadspawn
 name:

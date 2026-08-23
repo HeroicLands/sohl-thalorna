@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Black Flame
-  - affiliation-blackflame
 id: CCdyLVFM6CXgmdFx
 tags:
   - aureldian

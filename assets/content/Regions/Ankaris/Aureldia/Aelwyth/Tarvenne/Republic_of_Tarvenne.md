@@ -1,7 +1,6 @@
 ---
 aliases:
   - Republic of Tarvenne
-  - doc-repblctrvn
 id: kvtrEydTIquvAWzO
 description: "Senatorial republic on Aelwyth's southwestern coast — pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
 type: doc

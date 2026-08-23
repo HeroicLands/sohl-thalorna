@@ -2,7 +2,6 @@
 aliases:
   - Pitûrû Tûbanî
   - Pituru Tubani
-  - being-piturutubn
 tags:
   - draft
 name:

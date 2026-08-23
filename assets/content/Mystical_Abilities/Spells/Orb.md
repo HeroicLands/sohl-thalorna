@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sphere
-  - mysticalability-orb
 tags: []
 name:
   full: Orb

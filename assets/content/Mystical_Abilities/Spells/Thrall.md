@@ -1,7 +1,6 @@
 ---
 aliases:
   - Animus
-  - mysticalability-thrall
 tags: []
 name:
   full: Thrall

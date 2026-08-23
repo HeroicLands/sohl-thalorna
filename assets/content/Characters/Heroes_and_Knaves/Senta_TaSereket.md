@@ -3,7 +3,6 @@ aliases:
   - Sênta TaSereket
   - Sênta Ta'Sereket
   - Senta TaSereket
-  - being-sentatsrkt
 tags:
   - heroes-and-knaves
 name:

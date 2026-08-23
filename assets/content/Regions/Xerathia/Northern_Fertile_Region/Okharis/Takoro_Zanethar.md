@@ -2,7 +2,6 @@
 aliases:
   - Tákoro Zanethar
   - Takoro Zanethar
-  - being-takorozanethar
 tags: []
 name:
   full: Tákoro Zanethar

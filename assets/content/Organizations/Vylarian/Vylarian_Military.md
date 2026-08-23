@@ -3,7 +3,6 @@ aliases:
   - The Vylarian Military
   - The Imperial Army of Vylaria
   - The Legions
-  - affiliation-vylrnmltry
 tags:
   - organization
   - vylaria

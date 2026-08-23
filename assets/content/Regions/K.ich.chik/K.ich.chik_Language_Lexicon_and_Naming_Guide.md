@@ -1,7 +1,6 @@
 ---
 aliases:
   - K’ich'chik Language Lexicon and Naming Guide
-  - doc-kchchklngglxcnmngd
 type: doc
 category: lore
 package: thalorna

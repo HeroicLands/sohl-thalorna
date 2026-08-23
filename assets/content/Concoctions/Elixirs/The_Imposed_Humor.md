@@ -2,7 +2,6 @@
 aliases:
   - The Imposed Humor
   - Passion Elixir
-  - concoctiongear-ElxPas
 tags:
   - elixir
 name:

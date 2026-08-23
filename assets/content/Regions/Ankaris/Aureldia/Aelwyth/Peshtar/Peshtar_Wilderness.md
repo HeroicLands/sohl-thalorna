@@ -2,7 +2,6 @@
 aliases:
   - Peshtar Wilderness
   - Peshtar Highlands
-  - doc-pshtrwldrns
 tags:
   - region
 title: ""

@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Curse of Yhârvalen Henge
-  - doc-crsyhrvlnhng
 id: fGz4zRpATEajMuoh
 name:
   full: The Curse of Yharvalen Henge

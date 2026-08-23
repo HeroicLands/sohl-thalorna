@@ -2,7 +2,6 @@
 aliases:
   - Dunhara Desert Region
   - Dunhara Desert
-  - doc-dunhardsrtrgn
 tags:
   - region
 title: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langbet
 tags: []
 name:
   full: Bethuan

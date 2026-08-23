@@ -3,7 +3,6 @@ aliases:
   - Herjúlf Vetrdómr
   - Herjúlf Vetrdómr
   - Herjulf Vetrdomr
-  - being-hrjlfvtrdmr
 tags:
   - heroes-and-knaves
 name:

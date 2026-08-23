@@ -3,7 +3,6 @@ aliases:
   - Viśvàra Mahâpara
   - Viśvàra Mahâpara
   - Visvara Mahapara
-  - being-visvarmhpr
 tags:
   - heroes-and-knaves
 name:

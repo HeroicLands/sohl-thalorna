@@ -1,7 +1,6 @@
 ---
 aliases:
   - Messora
-  - doc-messora
 id: Hy4hGx6mMq9Tb3Ld
 type: doc
 category: settlement

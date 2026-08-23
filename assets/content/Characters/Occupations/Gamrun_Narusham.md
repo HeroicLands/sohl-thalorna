@@ -2,7 +2,6 @@
 aliases:
   - Gamrûn Narûsham
   - Gamrun Narusham
-  - being-gamrunrshm
 tags:
   - draft
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Guthný Eldskari
   - Guthny Eldskari
-  - being-gthnyldskr
 tags:
   - draft
 name:

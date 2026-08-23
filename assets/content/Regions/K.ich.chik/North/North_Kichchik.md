@@ -1,7 +1,6 @@
 ---
 aliases:
   - Northern K'ich'chik
-  - doc-nrthrnkchchk
 id: YXAvC7IO4US66yuY
 tags:
   - region

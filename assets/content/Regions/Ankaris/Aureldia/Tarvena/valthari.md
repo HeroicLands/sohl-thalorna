@@ -1,7 +1,6 @@
 ---
 aliases:
   - Valthari
-  - doc-valthari
 id: USGSRbE2bkZDbV2o
 type: doc
 category: settlement

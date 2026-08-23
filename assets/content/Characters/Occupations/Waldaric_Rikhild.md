@@ -2,7 +2,6 @@
 aliases:
   - Waldaric Ríkhild
   - Waldaric Rikhild
-  - being-wldrcrkhld
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vuthrákor
-  - doc-vuthrakor
 id: pZqyrLQSfBupge0U
 tags: []
 type: doc

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elýsè Skýrn
-  - being-elyseskyrn
 tags:
   - hero
   - silent-talon

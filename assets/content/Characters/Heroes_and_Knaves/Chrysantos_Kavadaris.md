@@ -3,7 +3,6 @@ aliases:
   - Chrysántos Kavadáris
   - Chrysántos Kavadáris
   - Chrysantos Kavadaris
-  - being-chrysntskvdrs
 tags:
   - heroes-and-knaves
 name:

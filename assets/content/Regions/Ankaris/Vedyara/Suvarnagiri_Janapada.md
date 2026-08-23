@@ -5,7 +5,6 @@ aliases:
   - Suvarnagiri
   - Suvarṇagiri
   - The Janapada of the Gold Mountain
-  - doc-suvrgrjnpd
 tags: []
 type: doc
 category: polity

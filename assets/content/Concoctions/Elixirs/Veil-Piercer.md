@@ -2,7 +2,6 @@
 aliases:
   - Veil-Piercer
   - Ghostsight Elixir
-  - concoctiongear-ElxGst
 tags:
   - elixir
 name:

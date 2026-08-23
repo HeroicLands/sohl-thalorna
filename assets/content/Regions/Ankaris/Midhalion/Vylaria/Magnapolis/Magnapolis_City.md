@@ -2,7 +2,6 @@
 aliases:
   - Magnápolis
   - Magnapolis City
-  - doc-magnapolis
 id: aYb1o7HjieqorZW7
 type: doc
 category: settlement

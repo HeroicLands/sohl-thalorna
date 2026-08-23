@@ -1,7 +1,6 @@
 ---
 aliases:
   - Jian
-  - weapongear-Jian
 tags: []
 name:
   full: Jian

@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Ánubís"
   - Ánubís, The Keeper of Transitions
-  - skill-anubis
 tags:
   - kemetian
   - faith-skill

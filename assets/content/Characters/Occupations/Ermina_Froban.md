@@ -2,7 +2,6 @@
 aliases:
   - Ermína Fróðbán
   - Ermina Froban
-  - being-erminfrdbn
 tags:
   - draft
 name:

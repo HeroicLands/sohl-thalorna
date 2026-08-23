@@ -2,7 +2,6 @@
 aliases:
   - Revealing Touch
   - Unveiling
-  - mysticalability-rvltch
 tags: []
 name:
   full: Revealing Touch

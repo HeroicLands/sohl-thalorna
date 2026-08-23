@@ -3,7 +3,6 @@ aliases:
   - The Truth of Religion
   - Gods (GM)
   - Religion (GM)
-  - doc-godsrelign
 tags:
   - lore
   - religion

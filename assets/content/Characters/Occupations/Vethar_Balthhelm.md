@@ -2,7 +2,6 @@
 aliases:
   - Véthar Balthhelm
   - Vethar Balthhelm
-  - being-vthrblthlm
 tags:
   - draft
 name:

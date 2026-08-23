@@ -3,7 +3,6 @@ aliases:
   - Bǫthvarr Sólvargr
   - Bǫthvarr Sólvargr
   - Bothvarr Solvargr
-  - being-bthvrslvrgr
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Chýnara Kórisvar
   - Chynara Korisvar
-  - being-chynrkrsvr
 tags:
   - draft
 name:

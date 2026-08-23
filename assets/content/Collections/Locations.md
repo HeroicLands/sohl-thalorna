@@ -1,7 +1,6 @@
 ---
 aliases:
   - Locations
-  - doc-locations
 id: 2OGPK8TItkzTYpQE
 name:
   full: Locations

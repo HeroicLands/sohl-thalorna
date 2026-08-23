@@ -2,7 +2,6 @@
 aliases:
   - Tot'kar Het'Wera
   - Totkar HetWera
-  - being-totkarhtwr
 tags:
   - heroes-and-knaves
 name:

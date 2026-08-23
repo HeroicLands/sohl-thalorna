@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lens
-  - mysticalability-focus
 tags: []
 name:
   full: Focus

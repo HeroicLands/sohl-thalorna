@@ -2,7 +2,6 @@
 aliases:
   - Kyàsârâ Kâselmakîs
   - Kyasara Kaselmakis
-  - being-kysrkslmks
 tags:
   - draft
 name:

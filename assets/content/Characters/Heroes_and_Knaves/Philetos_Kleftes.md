@@ -1,7 +1,6 @@
 ---
 aliases:
   - Philetos Kleftes
-  - being-phltsklfts
 tags:
   - heroes-and-knaves
   - hero

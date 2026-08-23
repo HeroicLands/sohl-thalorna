@@ -4,7 +4,6 @@ aliases:
   - Trimurti Sampradaya
   - Tradition of the Three Forms
   - Trimūrti Tradition
-  - affiliation-trimurtisampradaya
 id: da6X48OGstsouYWR
 tags:
   - varnaka

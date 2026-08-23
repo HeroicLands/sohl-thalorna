@@ -1,7 +1,6 @@
 ---
 aliases:
   - Diagnosis
-  - mysticalability-insight
 tags: []
 name:
   full: Insight

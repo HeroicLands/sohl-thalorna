@@ -2,7 +2,6 @@
 aliases:
   - Meneti Shap'kher
   - Meneti Shapkher
-  - being-mentshpkhr
 tags:
   - heroes-and-knaves
 name:

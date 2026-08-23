@@ -6,7 +6,6 @@ aliases:
   - Apis
   - The Golden Reveler
   - The Overflowing One
-  - skill-hapi
 tags:
   - kemetian
   - faith-skill

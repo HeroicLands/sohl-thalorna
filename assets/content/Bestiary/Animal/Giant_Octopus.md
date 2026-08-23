@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Octopus
-  - being-gntoctps
 tags:
   - animal
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Sofíenna Torvaleth
   - Sofienna Torvaleth
-  - being-sofntrvlth
 tags:
   - todo
   - draft

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tarvéni
-  - doc-tarvenlngg
 id: 6EfAuh70t8FwjV6R
 name:
   full: Tarvéni Language

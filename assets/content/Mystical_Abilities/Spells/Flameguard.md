@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-flmgrd
 tags: []
 name:
   full: Flameguard

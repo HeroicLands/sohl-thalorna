@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-dove
 tags: []
 name:
   full: Dove

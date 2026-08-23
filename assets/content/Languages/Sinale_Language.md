@@ -3,7 +3,6 @@ aliases:
   - Sinalë
   - Elven
   - Elder Tongue
-  - doc-sinalelngg
 id: bhDQ6ZOiYzw8td5m
 name:
   full: Sinalë Language

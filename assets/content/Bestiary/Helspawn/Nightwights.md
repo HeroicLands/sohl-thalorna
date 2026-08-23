@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nightwights
-  - being-nghtwght
 tags:
   - helspawn
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Crystalclaw
-  - being-crystlcl
 tags:
   - dreadspawn
 name:

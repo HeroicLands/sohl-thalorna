@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mercavia
-  - doc-mercavia
 id: Vd2mKx7rWp4Tb9Ln
 type: doc
 category: settlement

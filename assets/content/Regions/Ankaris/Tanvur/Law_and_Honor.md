@@ -1,7 +1,6 @@
 ---
 aliases:
   - Law and Honor
-  - doc-lawhonor
 id: 7zd9meI8uP5kLiz0
 type: doc
 category: lore

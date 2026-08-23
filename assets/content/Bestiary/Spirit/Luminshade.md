@@ -1,7 +1,6 @@
 ---
 aliases:
   - Luminshade
-  - being-lmnshd
 tags:
   - spirit
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Per-Ankhet
-  - doc-perankhet
 id: MmnxJgu8HPv4ZFm2
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gryphon
-  - being-gryphon
 tags:
   - mythic
   - image-needed

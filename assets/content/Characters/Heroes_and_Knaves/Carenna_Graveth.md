@@ -3,7 +3,6 @@ aliases:
   - Cárenna Gráveth
   - Cárenna Gráveth
   - Carenna Graveth
-  - being-carengrvth
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Faith of Sét
   - Sét, Bringer of Tempests
-  - affiliation-set
 id: 6wqKc4ejFReettDq
 tags:
   - kemetian

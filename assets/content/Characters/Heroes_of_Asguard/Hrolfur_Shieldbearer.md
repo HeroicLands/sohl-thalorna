@@ -2,7 +2,6 @@
 aliases:
   - Hrólfur Shieldbearer
   - Hrolfur Shieldbearer
-  - being-hrlfrshldbrr
 tags:
   - paragon
   - heroes-of-asguard

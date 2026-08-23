@@ -2,7 +2,6 @@
 aliases:
   - Faith of Sēker
   - Lord of Silent Passage
-  - affiliation-seker
 id: hGOwhonk8cDu3pi0
 tags:
   - kemetian

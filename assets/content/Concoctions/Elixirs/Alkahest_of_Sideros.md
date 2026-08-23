@@ -2,7 +2,6 @@
 aliases:
   - Alkahest of Sidéros
   - Acid Elixir
-  - concoctiongear-ElxAcid
 tags:
   - elixir
 name:

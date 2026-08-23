@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mihrabad
-  - doc-mihrabad
 id: rQvNmHX5CBBhFmkH
 type: doc
 category: settlement

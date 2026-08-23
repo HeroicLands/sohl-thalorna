@@ -3,7 +3,6 @@ aliases:
   - Thorsteinn Járnskel
   - Thorsteinn Járnskel
   - Thorsteinn Jarnskel
-  - being-thrstnjrnskl
 tags:
   - heroes-and-knaves
 name:

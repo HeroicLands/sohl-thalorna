@@ -5,7 +5,6 @@ aliases:
   - Yokzhuk
   - The Custodian of Lost Seals
   - The Seal-Thief
-  - skill-yokzhuk
 tags:
   - celestial-pantheon
   - faith-skill

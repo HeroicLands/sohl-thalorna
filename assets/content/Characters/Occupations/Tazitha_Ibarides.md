@@ -2,7 +2,6 @@
 aliases:
   - Tázîtha Ibârîdês
   - Tazitha Ibarides
-  - being-tazithbrds
 tags:
   - draft
 name:

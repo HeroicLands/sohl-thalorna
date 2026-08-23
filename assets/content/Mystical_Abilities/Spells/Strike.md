@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dart
-  - mysticalability-strike
 tags: []
 name:
   full: Strike

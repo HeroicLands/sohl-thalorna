@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'awiil Tza'kul
-  - doc-kawiltzakl2
 id: qHD2DJ9d3jceHp2C
 type: doc
 category: settlement

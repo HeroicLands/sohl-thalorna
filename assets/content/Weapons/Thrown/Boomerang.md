@@ -1,7 +1,6 @@
 ---
 aliases:
   - Boomerang
-  - weapongear-Bmrg
 tags: []
 name:
   full: Boomerang

@@ -2,7 +2,6 @@
 aliases:
   - Leifr Dróttgar
   - Leifr Drottgar
-  - being-leifrdrtgr
 tags:
   - draft
 name:

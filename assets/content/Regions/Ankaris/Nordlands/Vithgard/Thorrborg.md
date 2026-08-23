@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thorrborg
-  - doc-thorrborg
 id: lLZtjVvo1K6TGm1A
 type: doc
 category: settlement

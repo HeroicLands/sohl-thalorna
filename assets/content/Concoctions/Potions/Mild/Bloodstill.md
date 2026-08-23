@@ -2,7 +2,6 @@
 aliases:
   - Bloodstill
   - "Potion, Coagulant, Mild"
-  - concoctiongear-PtnCoagM
 tags:
   - mild-elixir
 name:

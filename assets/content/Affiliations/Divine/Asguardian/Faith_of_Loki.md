@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Lôki
-  - affiliation-loki
 id: iySZsg4GUX7SXyvZ
 tags:
   - asguardian

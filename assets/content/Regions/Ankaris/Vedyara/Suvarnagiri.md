@@ -2,7 +2,6 @@
 aliases:
   - Suvarṇagiri
   - Suvarnagiri
-  - doc-suvaragiri
 id: q5KssAIUA8eYcX2L
 type: doc
 category: settlement

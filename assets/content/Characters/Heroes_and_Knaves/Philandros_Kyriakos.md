@@ -3,7 +3,6 @@ aliases:
   - Philándros Kyriákos
   - Philándros Kyriákos
   - Philandros Kyriakos
-  - being-phlndrskyrks
 tags:
   - heroes-and-knaves
 name:

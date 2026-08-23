@@ -1,7 +1,6 @@
 ---
 aliases:
   - Armour
-  - mysticalability-pltskn
 tags: []
 name:
   full: Plateskin

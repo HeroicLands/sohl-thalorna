@@ -2,7 +2,6 @@
 aliases:
   - Sundwíra Hildvith
   - Sundwira Hildvith
-  - being-sndwrhldvth
 tags:
   - draft
 name:

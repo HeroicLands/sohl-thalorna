@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unnr Eldskari
-  - being-unreldskar
 tags:
   - heroes-and-knaves
 name:

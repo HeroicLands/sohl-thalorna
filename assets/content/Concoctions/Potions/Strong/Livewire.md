@@ -2,7 +2,6 @@
 aliases:
   - Livewire
   - "Potion, Stimulant, Strong"
-  - concoctiongear-PtnStmS
 tags:
   - strong-elixir
 name:

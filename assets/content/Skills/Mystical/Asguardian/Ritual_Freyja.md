@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Fréyja"
   - The Golden Path
-  - skill-freyja
 tags:
   - asguardian
   - faith-skill

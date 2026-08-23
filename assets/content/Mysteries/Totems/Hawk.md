@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-hawk
 tags: []
 name:
   full: Hawk

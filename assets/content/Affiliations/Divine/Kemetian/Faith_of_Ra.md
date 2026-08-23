@@ -4,7 +4,6 @@ aliases:
   - The Solar Flame
   - Rā
   - Ra
-  - affiliation-ra
 id: 9xHFCDNXKlHRKFmJ
 tags:
   - kemetian

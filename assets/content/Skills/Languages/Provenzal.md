@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langpro
 tags: []
 name:
   full: Provenzal

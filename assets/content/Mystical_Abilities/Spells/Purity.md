@@ -1,7 +1,6 @@
 ---
 aliases:
   - Probity
-  - mysticalability-purity
 tags: []
 name:
   full: Purity

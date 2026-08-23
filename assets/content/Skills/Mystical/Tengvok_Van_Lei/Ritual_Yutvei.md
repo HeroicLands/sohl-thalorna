@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Yütvëi"
   - Yütvëi
   - Yutvei
-  - skill-yutvei
 tags:
   - celestial-pantheon
   - faith-skill

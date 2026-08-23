@@ -2,7 +2,6 @@
 aliases:
   - Pórena Dhárel
   - Porena Dharel
-  - being-porenadhrl
 tags:
   - draft
 name:

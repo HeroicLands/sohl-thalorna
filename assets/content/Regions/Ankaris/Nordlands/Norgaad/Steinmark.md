@@ -1,7 +1,6 @@
 ---
 aliases:
   - Steinmark
-  - doc-steinmark
 id: 04Cgf8r1jWswmppD
 type: doc
 category: settlement

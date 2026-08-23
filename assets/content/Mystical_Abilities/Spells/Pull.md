@@ -1,7 +1,6 @@
 ---
 aliases:
   - Magnet
-  - mysticalability-pull
 tags: []
 name:
   full: Pull

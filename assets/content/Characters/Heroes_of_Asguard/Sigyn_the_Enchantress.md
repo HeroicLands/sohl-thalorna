@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sigyn the Enchantress
-  - being-sgynnchntrs
 tags:
   - paragon
   - heroes-of-asguard

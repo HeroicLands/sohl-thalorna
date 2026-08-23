@@ -3,7 +3,6 @@ aliases:
   - Muri Târikh
   - Muri Târikh
   - Muri Tarikh
-  - being-muritarikh
 tags:
   - heroes-and-knaves
 name:

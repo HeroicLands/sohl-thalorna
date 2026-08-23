@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'ixim Tzul
-  - doc-kiximtzul2
 id: RPORfulXgkxwp8zj
 type: doc
 category: settlement

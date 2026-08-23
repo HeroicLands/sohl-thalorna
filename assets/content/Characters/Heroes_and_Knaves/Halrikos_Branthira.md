@@ -3,7 +3,6 @@ aliases:
   - Hálrikos Bránthira
   - Hálrikos Bránthira
   - Halrikos Branthira
-  - being-hlrksbrnthr
 tags:
   - heroes-and-knaves
 name:

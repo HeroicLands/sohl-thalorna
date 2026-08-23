@@ -5,7 +5,6 @@ aliases:
   - The Eternal Flame
   - The Three Flames
   - The Triune Fire
-  - skill-nkaruthar
 tags:
   - nkaruthar
   - faith-skill

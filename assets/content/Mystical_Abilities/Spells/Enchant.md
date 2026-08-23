@@ -1,7 +1,6 @@
 ---
 aliases:
   - Charm
-  - mysticalability-enchant
 tags: []
 name:
   full: Enchant

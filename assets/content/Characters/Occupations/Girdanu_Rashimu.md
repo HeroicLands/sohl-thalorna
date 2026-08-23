@@ -2,7 +2,6 @@
 aliases:
   - Girdanû Rashîmû
   - Girdanu Rashimu
-  - being-girdanrshm
 tags:
   - draft
 name:

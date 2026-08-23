@@ -1,7 +1,6 @@
 ---
 aliases:
   - Key
-  - mysticalability-unlock
 tags: []
 name:
   full: Unlock

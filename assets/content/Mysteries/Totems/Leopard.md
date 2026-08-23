@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-leopard
 tags: []
 name:
   full: Leopard

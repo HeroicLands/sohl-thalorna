@@ -1,7 +1,6 @@
 ---
 aliases:
   - Earthreaver
-  - being-erthrvr
 tags:
   - dreadspawn
 name:

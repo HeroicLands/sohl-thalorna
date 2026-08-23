@@ -2,7 +2,6 @@
 aliases:
   - Párthun Cárdeth
   - Parthun Cardeth
-  - being-prthncrdth
 tags:
   - draft
 name:

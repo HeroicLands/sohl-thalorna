@@ -2,7 +2,6 @@
 aliases:
   - Mália Náredh
   - Malia Naredh
-  - being-malianardh
 tags:
   - draft
 name:

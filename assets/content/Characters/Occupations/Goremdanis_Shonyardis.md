@@ -2,7 +2,6 @@
 aliases:
   - Goremdânis Shônyàrdîs
   - Goremdanis Shonyardis
-  - being-grmdnshnyrds
 tags:
   - draft
 name:

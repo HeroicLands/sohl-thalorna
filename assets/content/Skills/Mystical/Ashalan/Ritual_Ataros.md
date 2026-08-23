@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Ātáröš"
   - The Sacred Flame
   - Fire God
-  - skill-ataros
 tags:
   - ashalan
   - faith-skill

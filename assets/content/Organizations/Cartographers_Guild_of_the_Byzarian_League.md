@@ -3,7 +3,6 @@ aliases:
   - Cartographers' Guild of the Byzarian League
   - The Cartographers' Guild
   - Byzarian Cartographers' Guild
-  - affiliation-crtgrphrsgldbyzrnlg
 tags: []
 description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Byzarian League — and quietly compromised from within."
 package: thalorna

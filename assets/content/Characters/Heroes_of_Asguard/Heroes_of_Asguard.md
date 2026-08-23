@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-heroessgrd
 id: fNdEEVQMjIkyyIeG
 title: "Heroes of Asguard"
 description: "Variety of Asguardian Heroes."

@@ -2,7 +2,6 @@
 aliases:
   - Yökzhük
   - Yokzhuk
-  - affiliation-yokzhuk
 id: rsaiaVKGg0AN8LUC
 tags:
   - yokveng

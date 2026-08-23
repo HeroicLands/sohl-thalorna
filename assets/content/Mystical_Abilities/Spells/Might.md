@@ -1,7 +1,6 @@
 ---
 aliases:
   - Physique
-  - mysticalability-might
 tags: []
 name:
   full: Might

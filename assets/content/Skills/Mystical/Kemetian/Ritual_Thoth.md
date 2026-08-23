@@ -5,7 +5,6 @@ aliases:
   - Djhuty
   - Thaut
   - The Scribe of the Eternal Library
-  - skill-thoth
 tags:
   - kemetian
   - faith-skill

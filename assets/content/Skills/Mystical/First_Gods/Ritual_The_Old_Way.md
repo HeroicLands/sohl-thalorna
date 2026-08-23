@@ -6,7 +6,6 @@ aliases:
   - Way of the First
   - The Way of the First
   - The Shaman Way
-  - skill-theoldway
 tags:
   - first-gods
   - faith-skill

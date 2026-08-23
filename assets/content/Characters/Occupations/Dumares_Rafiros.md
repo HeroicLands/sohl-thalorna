@@ -2,7 +2,6 @@
 aliases:
   - Dûmàrês Râfîrôs
   - Dumares Rafiros
-  - being-dumarsrfrs
 tags:
   - todo
   - draft

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thunderhorn
-  - being-thndrhrn
 tags:
   - dreadspawn
 name:

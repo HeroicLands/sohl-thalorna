@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-hamster
 tags: []
 name:
   full: Hamster

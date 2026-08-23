@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shardbeak
-  - being-shrdbk
 tags:
   - dreadspawn
 name:

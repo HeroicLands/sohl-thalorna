@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ormstead
-  - doc-ormstead
 id: DOIcd67IRmgTlxdK
 type: doc
 category: settlement

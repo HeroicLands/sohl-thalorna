@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mehit-Per
-  - doc-mehitper
 id: npslWzZvPEG6O2PA
 type: doc
 category: settlement

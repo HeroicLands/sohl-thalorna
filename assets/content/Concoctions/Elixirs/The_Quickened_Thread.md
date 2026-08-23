@@ -2,7 +2,6 @@
 aliases:
   - The Quickened Thread
   - Equipose Elixir
-  - concoctiongear-ElxEqp
 tags:
   - elixir
 name:

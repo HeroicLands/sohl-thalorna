@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nightmare
-  - mysticalability-hrrrscp
 tags: []
 name:
   full: Horrorscape

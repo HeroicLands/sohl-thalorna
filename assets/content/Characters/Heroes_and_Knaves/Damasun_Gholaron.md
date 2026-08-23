@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dámàsûn Ghôlâron
-  - being-damsnghlrn
 tags:
   - tamzir-crew
 name:

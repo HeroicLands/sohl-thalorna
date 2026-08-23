@@ -2,7 +2,6 @@
 aliases:
   - Mákrion Nâfrinês
   - Makrion Nafrines
-  - being-makrinfrns
 tags:
   - draft
 name:

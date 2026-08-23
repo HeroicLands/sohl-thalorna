@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Flórania"
   - Flórania
   - The Nurturer
-  - skill-florania
 tags:
   - aureldian
   - faith-skill

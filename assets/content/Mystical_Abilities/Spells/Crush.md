@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fist
-  - mysticalability-crush
 tags: []
 name:
   full: Crush

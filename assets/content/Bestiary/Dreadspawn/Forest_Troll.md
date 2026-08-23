@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forest Troll
-  - being-frsttrll
 tags:
   - dreadspawn
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Lotus Ease
   - "Potion, Narcotic, Strong"
-  - concoctiongear-PtnNarS
 tags:
   - strong-elixir
 name:

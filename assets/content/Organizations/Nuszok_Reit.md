@@ -5,7 +5,6 @@ aliases:
   - The Cult of the Forsaken
   - Cult of the Forsaken
   - The Forsaken
-  - affiliation-nuszokreit
 tags:
   - organization
   - tanvur

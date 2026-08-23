@@ -2,7 +2,6 @@
 aliases:
   - Noxious Fume
   - Mephitis
-  - mysticalability-nxfum
 tags: []
 name:
   full: Noxious Fume

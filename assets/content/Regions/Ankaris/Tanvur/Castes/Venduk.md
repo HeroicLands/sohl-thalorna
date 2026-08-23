@@ -2,7 +2,6 @@
 aliases:
   - Vëndük
   - Venduk
-  - doc-venduk
 id: nLx2MYaX3wPItzq1
 type: doc
 category: lore

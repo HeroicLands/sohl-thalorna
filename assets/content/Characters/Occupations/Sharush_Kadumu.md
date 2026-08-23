@@ -2,7 +2,6 @@
 aliases:
   - Shârûsh Kadûmû
   - Sharush Kadumu
-  - being-sharushkdm
 tags:
   - draft
 name:

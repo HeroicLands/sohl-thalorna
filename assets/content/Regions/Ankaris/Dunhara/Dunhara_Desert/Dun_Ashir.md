@@ -2,7 +2,6 @@
 aliases:
   - Dûn Ashir
   - Dun Ashir
-  - doc-dunashir
 id: OEZyUT8hxlPoOJhD
 type: doc
 category: settlement

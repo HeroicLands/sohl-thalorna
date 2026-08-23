@@ -2,7 +2,6 @@
 aliases:
   - The Siege of Válaren
   - The Siege of Valaren
-  - doc-siegevalrn
 id: giK7BKRT8hXeF9JB
 name:
   full: The Siege of Válaren

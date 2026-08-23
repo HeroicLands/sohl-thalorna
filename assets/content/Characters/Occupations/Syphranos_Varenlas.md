@@ -2,7 +2,6 @@
 aliases:
   - Syphrânôs Vârênlâs
   - Syphranos Varenlas
-  - being-syphrnsvrnls
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ba'alam Tza'ku
-  - doc-balamtzaku2
 id: Ti61MsXgLxbhYAnK
 type: doc
 category: settlement

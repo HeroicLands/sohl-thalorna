@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gümüşhisar
-  - doc-gumushisar2
 id: Lo992b0Iv2JLzXly
 type: doc
 category: settlement

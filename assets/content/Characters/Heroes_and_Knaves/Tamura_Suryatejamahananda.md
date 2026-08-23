@@ -3,7 +3,6 @@ aliases:
   - Tamûra Sūryatejamahānanda
   - Tamûra Sūryatejamahānanda
   - Tamura Suryatejamahananda
-  - being-tmrsrytjmhnnd
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Heartflame
   - "Potion, Stimulant, Great"
-  - concoctiongear-PtnStmG
 tags:
   - great-elixir
 name:

@@ -3,7 +3,6 @@ aliases:
   - Hélénaia Mystákês
   - Hélénaia Mystákês
   - Helenaia Mystakes
-  - being-helnmystks
 tags:
   - heroes-and-knaves
   - todo

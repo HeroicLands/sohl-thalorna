@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cuthbert Sherwin
-  - being-cthbrtshrwn
 tags:
   - draft
 name:

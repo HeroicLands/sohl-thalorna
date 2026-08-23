@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eshârum Tarûzî
-  - being-esharumtrz
 tags:
   - tamzir-crew
 name:

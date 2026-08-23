@@ -1,7 +1,6 @@
 ---
 aliases:
   - Venomspitter
-  - being-vnmspttr
 tags:
   - dreadspawn
 name:

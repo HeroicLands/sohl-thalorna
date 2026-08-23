@@ -2,7 +2,6 @@
 aliases:
   - Vandaric Gárskald
   - Vandaric Garskald
-  - being-vndrcgrskld
 tags:
   - draft
 name:

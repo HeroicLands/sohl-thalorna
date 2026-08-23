@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-belos
 tags: []
 name:
   full: Belos

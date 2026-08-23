@@ -1,7 +1,6 @@
 ---
 aliases:
   - Maud Osgood
-  - being-maudosgood
 tags:
   - draft
 name:

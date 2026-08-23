@@ -4,7 +4,6 @@ aliases:
   - Agni Pantha
   - The Path of the Flame
   - Flame Path
-  - affiliation-agnipantha
 id: MONfrVsJo7l6DMm0
 tags:
   - varnaka

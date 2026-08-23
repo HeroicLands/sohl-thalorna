@@ -3,7 +3,6 @@ aliases:
   - Kalihári
   - Kaliharan
   - Interior Speech
-  - doc-kalihrlngg
 id: gAKv5t5NixE8xTmp
 name:
   full: Kalihári Language

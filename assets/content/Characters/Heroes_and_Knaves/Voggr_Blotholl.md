@@ -3,7 +3,6 @@ aliases:
   - Vǫggr Blóthǫll
   - Vǫggr Blóthǫll
   - Voggr Blotholl
-  - being-vogrblothl
 tags:
   - heroes-and-knaves
 name:

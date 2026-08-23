@@ -3,7 +3,6 @@ aliases:
   - Grégoras Ephthymiópoulos
   - Grégoras Ephthymiópoulos
   - Gregoras Ephthymiopoulos
-  - being-grgrsphthympls
 tags:
   - heroes-and-knaves
 name:

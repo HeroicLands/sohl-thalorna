@@ -2,7 +2,6 @@
 aliases:
   - Demétrion Komnênos
   - Demetrion Komnenos
-  - being-dmtrnkmnns
 tags:
   - todo-warrior
   - draft

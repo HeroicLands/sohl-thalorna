@@ -1,7 +1,6 @@
 ---
 aliases:
   - Trigger
-  - mysticalability-activate
 tags: []
 name:
   full: Activate

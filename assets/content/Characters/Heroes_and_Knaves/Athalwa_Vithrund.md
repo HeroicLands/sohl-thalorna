@@ -3,7 +3,6 @@ aliases:
   - Athalwa Vithrúnd
   - Athalwa Vithrúnd
   - Athalwa Vithrund
-  - being-athlwvthrnd
 tags:
   - heroes-and-knaves
 name:

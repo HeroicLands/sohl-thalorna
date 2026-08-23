@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'ankul
-  - doc-kankul2
 id: vcY8KLpy7ZHBjco4
 type: doc
 category: settlement

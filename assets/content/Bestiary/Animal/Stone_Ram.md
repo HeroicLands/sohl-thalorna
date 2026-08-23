@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stone Ram
-  - being-stoneram
 tags:
   - animal
 name:

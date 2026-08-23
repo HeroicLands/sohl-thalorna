@@ -2,7 +2,6 @@
 aliases:
   - "Scholar's Lantern"
   - Erudition Elixir
-  - concoctiongear-ElxErd
 tags:
   - elixir
 name:

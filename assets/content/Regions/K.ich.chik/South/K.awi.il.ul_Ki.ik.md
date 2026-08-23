@@ -1,7 +1,6 @@
 ---
 aliases:
   - K’awi’il’ul Ki’ik
-  - doc-kawilulkik
 id: LzFK4SEzMloriHpl
 type: doc
 category: settlement

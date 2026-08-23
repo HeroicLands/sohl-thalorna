@@ -4,7 +4,6 @@ aliases:
   - Skalds' Circle
   - Skaldahringr
   - The Skalds' Guild
-  - affiliation-skaldscrcl
 tags:
   - organization
   - nordlands

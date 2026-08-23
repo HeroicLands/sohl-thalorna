@@ -2,7 +2,6 @@
 aliases:
   - Stálbrekka
   - Stalbrekka
-  - doc-stalbrekka
 id: htPFubBTLySO6pYs
 type: doc
 category: settlement

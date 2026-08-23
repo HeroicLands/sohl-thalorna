@@ -2,7 +2,6 @@
 aliases:
   - Hathura Isefré
   - Hathura Ise'fré
-  - being-hathurasfr
 tags:
   - heroes-and-knaves
 name:

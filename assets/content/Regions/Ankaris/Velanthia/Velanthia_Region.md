@@ -2,7 +2,6 @@
 aliases:
   - Velanthia Region
   - Velanthia
-  - doc-velanthrgn
 tags:
   - region
 title: ""

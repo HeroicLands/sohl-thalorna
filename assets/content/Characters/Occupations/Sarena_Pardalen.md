@@ -2,7 +2,6 @@
 aliases:
   - Sárena Párdalen
   - Sarena Pardalen
-  - being-sarenprdln
 tags:
   - todo
   - draft

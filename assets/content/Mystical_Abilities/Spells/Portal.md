@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gate
-  - mysticalability-portal
 tags: []
 name:
   full: Portal

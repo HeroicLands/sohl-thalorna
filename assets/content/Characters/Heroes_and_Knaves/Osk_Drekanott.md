@@ -3,7 +3,6 @@ aliases:
   - Ósk Drekanótt
   - Ósk Drekanótt
   - Osk Drekanott
-  - being-oskdrekant
 tags:
   - heroes-and-knaves
 name:

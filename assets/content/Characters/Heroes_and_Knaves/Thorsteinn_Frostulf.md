@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thorsteinn Frostulf
-  - being-thrstnfrstlf
 tags:
   - heroes-and-knaves
 name:

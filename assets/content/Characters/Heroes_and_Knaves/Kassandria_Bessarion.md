@@ -3,7 +3,6 @@ aliases:
   - Kassándria Bessarîon
   - Kassándria Bessarîon
   - Kassandria Bessarion
-  - being-kasndrbsrn
 tags:
   - heroes-and-knaves
   - todo

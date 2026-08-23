@@ -2,7 +2,6 @@
 aliases:
   - "Mender's Paste"
   - "Potion, Curative, Mild"
-  - concoctiongear-PtnCurM
 tags:
   - mild-elixir
 name:

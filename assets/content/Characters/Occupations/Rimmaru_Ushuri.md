@@ -2,7 +2,6 @@
 aliases:
   - Rimmârû Ushûrî
   - Rimmaru Ushuri
-  - being-rimarushur
 tags:
   - draft
 name:

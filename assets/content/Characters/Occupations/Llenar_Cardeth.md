@@ -2,7 +2,6 @@
 aliases:
   - Llénar Cárdeth
   - Llenar Cardeth
-  - being-lenarcrdth
 tags:
   - draft
 name:

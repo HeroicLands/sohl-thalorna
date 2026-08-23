@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elanmere
-  - doc-elanmere
 id: rvpZLPq6bDeSMrLX
 type: doc
 category: settlement

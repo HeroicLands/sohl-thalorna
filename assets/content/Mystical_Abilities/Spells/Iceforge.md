@@ -1,7 +1,6 @@
 ---
 aliases:
   - Crystals
-  - mysticalability-iceforge
 tags: []
 name:
   full: Iceforge

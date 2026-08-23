@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Velvet Hand
-  - affiliation-velvethand
 tags: []
 description: "Intelligence syndicate trading in secrets—blackmail, espionage, assassination—operating through pleasure houses, theaters, and aristocratic households across the west."
 package: thalorna

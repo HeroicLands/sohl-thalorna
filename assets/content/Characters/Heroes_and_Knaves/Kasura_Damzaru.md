@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kasûra Damzarû
-  - being-kasuradmzr
 tags:
   - tamzir-crew
 name:

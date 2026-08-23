@@ -1,7 +1,6 @@
 ---
 aliases:
   - Isaret Ka'Seker
-  - being-isaretkskr
 tags:
   - heroes-and-knaves
   - hero

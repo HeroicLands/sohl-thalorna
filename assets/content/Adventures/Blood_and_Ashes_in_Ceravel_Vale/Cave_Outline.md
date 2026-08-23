@@ -3,7 +3,6 @@ tags:
   - draft
 aliases:
   - Cave Outline
-  - doc-caveoutlin
 id: xtuTF2bDckVdkrE5
 type: doc
 name:

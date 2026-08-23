@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ashenmere
-  - doc-ashenmere
 id: lmR93dIZz6Bv7Vwh
 type: doc
 category: settlement

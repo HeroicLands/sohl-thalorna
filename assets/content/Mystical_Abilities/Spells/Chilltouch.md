@@ -1,7 +1,6 @@
 ---
 aliases:
   - Freeze
-  - mysticalability-chlltch
 tags: []
 name:
   full: Chilltouch

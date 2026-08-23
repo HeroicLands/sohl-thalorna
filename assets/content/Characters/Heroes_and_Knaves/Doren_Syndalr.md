@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dôren Sýndalr
-  - being-dornsyndlr
 tags:
   - hero
   - silent-talon

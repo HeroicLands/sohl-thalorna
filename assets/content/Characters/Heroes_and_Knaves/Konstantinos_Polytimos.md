@@ -3,7 +3,6 @@ aliases:
   - Konstántinos Polytimós
   - Konstántinos Polytimós
   - Konstantinos Polytimos
-  - being-knstntnsplytms
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Ghârîdos Mûrâdês
   - Gharidos Murades
-  - being-ghardsmrds
 tags:
   - draft
 name:

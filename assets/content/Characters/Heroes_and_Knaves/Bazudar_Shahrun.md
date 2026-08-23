@@ -3,7 +3,6 @@ aliases:
   - Bazûdar Shahrûn
   - Bazûdar Shahrûn
   - Bazudar Shahrun
-  - being-bazdrshhrn
 tags:
   - heroes-and-knaves
 name:

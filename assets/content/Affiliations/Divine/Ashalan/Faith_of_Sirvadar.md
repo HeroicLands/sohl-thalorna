@@ -2,7 +2,6 @@
 aliases:
   - Faith of Šírvádár
   - The Wandering Guide
-  - affiliation-sirvadar
 id: STfdLSd4eLyg0FbT
 tags:
   - religion

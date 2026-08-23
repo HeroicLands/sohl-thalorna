@@ -3,7 +3,6 @@ aliases:
   - Dhanurkota Janapada
   - Dhanurkota
   - The Janapada of the Bow-Fort
-  - doc-dhnrktjnpd
 tags: []
 type: doc
 category: polity

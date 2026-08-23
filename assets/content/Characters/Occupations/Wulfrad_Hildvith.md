@@ -2,7 +2,6 @@
 aliases:
   - Wulfrád Hildvith
   - Wulfrad Hildvith
-  - being-wlfrdhldvth
 tags:
   - draft
 name:

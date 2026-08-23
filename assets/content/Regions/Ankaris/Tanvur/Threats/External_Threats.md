@@ -1,7 +1,6 @@
 ---
 aliases:
   - External Threats
-  - doc-extrnlthrts
 id: 8z3Hj18DKx5GVtVn
 type: doc
 category: lore

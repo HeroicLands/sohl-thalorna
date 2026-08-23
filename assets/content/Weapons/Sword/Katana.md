@@ -1,7 +1,6 @@
 ---
 aliases:
   - Katana
-  - weapongear-Ktna
 tags: []
 name:
   full: Katana

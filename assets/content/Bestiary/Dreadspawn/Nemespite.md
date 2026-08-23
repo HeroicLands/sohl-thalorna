@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nemespite
-  - being-nmspt
 tags:
   - dreadspawn
 name:

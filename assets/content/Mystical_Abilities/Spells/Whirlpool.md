@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vortex
-  - mysticalability-whrlpl
 tags: []
 name:
   full: Whirlpool

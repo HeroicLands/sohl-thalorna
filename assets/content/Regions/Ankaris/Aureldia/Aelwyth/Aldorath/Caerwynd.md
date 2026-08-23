@@ -1,7 +1,6 @@
 ---
 aliases:
   - Caerwynd
-  - doc-caerwynd
 id: qzNN35eMt6RmKQPK
 type: doc
 category: settlement

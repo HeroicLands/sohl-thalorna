@@ -2,7 +2,6 @@
 aliases:
   - Healing Touch
   - Balsam
-  - mysticalability-healtch
 tags: []
 name:
   full: Healing Touch

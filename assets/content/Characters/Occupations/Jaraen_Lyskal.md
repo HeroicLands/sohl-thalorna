@@ -2,7 +2,6 @@
 aliases:
   - Járaen Lýskal
   - Jaraen Lyskal
-  - being-jaranlyskl
 tags:
   - draft
 name:

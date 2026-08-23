@@ -3,7 +3,6 @@ aliases:
   - Philína Markêsianos
   - Philína Markêsianos
   - Philina Markesianos
-  - being-phlnmrksns
 tags:
   - heroes-and-knaves
 name:

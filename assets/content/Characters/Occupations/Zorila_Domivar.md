@@ -2,7 +2,6 @@
 aliases:
   - Zórila Dómivar
   - Zorila Domivar
-  - being-zoriladmvr
 tags:
   - draft
 name:

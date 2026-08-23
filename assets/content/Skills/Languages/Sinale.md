@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sinalë
-  - skill-langsin
 tags: []
 name:
   full: Sinalë

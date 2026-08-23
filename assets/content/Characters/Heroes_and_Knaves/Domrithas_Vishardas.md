@@ -3,7 +3,6 @@ aliases:
   - Dómrithâs Vîshârdâs
   - Dómrithâs Vîshârdâs
   - Domrithas Vishardas
-  - being-dmrthsvshrds
 tags:
   - heroes-and-knaves
 name:

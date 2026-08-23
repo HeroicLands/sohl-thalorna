@@ -2,7 +2,6 @@
 aliases:
   - Kûrûya Ashîmâ
   - Kuruya Ashima
-  - being-kuruyashim
 tags:
   - draft
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Óskar Brýlond
   - Oskar Brylond
-  - being-oskrbrylnd
 tags:
   - draft
 name:

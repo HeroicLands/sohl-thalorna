@@ -3,7 +3,6 @@ aliases:
   - Ángelides Patrikîos
   - Ángelides Patrikîos
   - Angelides Patrikios
-  - being-angldsptrks
 tags:
   - heroes-and-knaves
   - todo

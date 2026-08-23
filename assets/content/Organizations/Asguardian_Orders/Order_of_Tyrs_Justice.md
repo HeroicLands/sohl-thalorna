@@ -3,7 +3,6 @@ aliases:
   - The Order of Týr's Justice
   - Order of Tyrs Justice
   - The Sword-Hand of Týr
-  - affiliation-ordrtyrsjstc
 tags: []
 description: "Sworn warrior-judges of Týr — itinerant arbiters and executors of judgment across the Nordlands, bound to give the right ruling regardless of who suffers from it."
 id: bTnQE6e9aflBDmIH

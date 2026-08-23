@@ -5,7 +5,6 @@ aliases:
   - Itzáni Faith
   - Itzani
   - Itzáni
-  - affiliation-itzanpnthn
 id: IRMVn6AQoZPttpU6
 tags:
   - pantheon

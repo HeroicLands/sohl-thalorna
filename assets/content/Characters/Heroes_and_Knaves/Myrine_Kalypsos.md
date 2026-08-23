@@ -1,7 +1,6 @@
 ---
 aliases:
   - Myrine Kalypsos
-  - being-myrnklypss
 tags:
   - heroes-and-knaves
   - character

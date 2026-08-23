@@ -1,7 +1,6 @@
 ---
 aliases:
   - Prism
-  - mysticalability-lghtbnd
 tags: []
 name:
   full: Lightbend

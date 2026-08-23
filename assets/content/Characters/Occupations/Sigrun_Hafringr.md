@@ -2,7 +2,6 @@
 aliases:
   - Sigrún Hafringr
   - Sigrun Hafringr
-  - being-sgrnhfrngr
 tags:
   - todo-warrior
   - draft

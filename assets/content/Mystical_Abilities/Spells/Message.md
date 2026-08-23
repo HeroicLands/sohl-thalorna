@@ -1,7 +1,6 @@
 ---
 aliases:
   - Missive
-  - mysticalability-message
 tags: []
 name:
   full: Message

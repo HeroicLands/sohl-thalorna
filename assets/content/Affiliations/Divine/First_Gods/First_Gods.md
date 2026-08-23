@@ -2,7 +2,6 @@
 aliases:
   - The First Gods
   - The Old Gods
-  - affiliation-firstgods
 tags: []
 description: The ancestral pantheon of the Áelendan — two primordial Powers locked in eternal struggle, and the celestial kindred who serve them.
 id: 1JgAmvvaQtfCGqoa

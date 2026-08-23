@@ -2,7 +2,6 @@
 aliases:
   - Ârnela Kórisvar
   - Arnela Korisvar
-  - being-arnelkrsvr
 tags:
   - draft
 name:

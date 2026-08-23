@@ -2,7 +2,6 @@
 aliases:
   - Akhrem Reenfré
   - Akhrem Re'en'fré
-  - being-akhremrnfr
 tags:
   - heroes-and-knaves
 name:

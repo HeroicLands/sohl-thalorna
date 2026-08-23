@@ -6,7 +6,6 @@ aliases:
   - Apep
   - The Devouring Shadow
   - The Chaos Serpent
-  - skill-apophis
 tags:
   - kemetian
   - faith-skill

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rúna Hringsdóttir
-  - being-rnhrngsdtr
 tags:
   - heroes-and-knaves
   - hero

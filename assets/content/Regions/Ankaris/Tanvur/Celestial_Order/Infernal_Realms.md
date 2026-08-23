@@ -1,7 +1,6 @@
 ---
 aliases:
   - Infernal Realms
-  - doc-infrnlrlms
 id: 38CzVGSAQ2uOOfyn
 type: doc
 category: lore

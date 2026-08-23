@@ -3,7 +3,6 @@ aliases:
   - Meghanātha
   - Meghanatha
   - Lord of Thunder
-  - affiliation-meghanatha
 id: TBW4cV3eoMkgUR8B
 tags:
   - varnaka

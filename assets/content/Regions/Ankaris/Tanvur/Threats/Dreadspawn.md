@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dreadspawn
-  - doc-dreadspawn
 id: IXbkAjZGvlH7go8k
 type: doc
 category: lore

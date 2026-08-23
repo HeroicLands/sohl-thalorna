@@ -1,7 +1,6 @@
 ---
 aliases:
   - Guardian
-  - mysticalability-sentinel
 tags: []
 name:
   full: Sentinel

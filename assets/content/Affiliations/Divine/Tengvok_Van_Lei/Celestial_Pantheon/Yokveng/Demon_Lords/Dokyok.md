@@ -2,7 +2,6 @@
 aliases:
   - Dōkyök
   - Dokyok
-  - affiliation-dokyok
 id: dN77jRICWKNQeF58
 tags:
   - demon-lord

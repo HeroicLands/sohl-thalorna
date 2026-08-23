@@ -2,7 +2,6 @@
 aliases:
   - Thêbas Ghânîdês
   - Thebas Ghanides
-  - being-thebsghnds
 tags:
   - draft
 name:

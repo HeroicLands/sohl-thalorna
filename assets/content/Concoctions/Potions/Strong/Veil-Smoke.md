@@ -2,7 +2,6 @@
 aliases:
   - Veil-Smoke
   - "Potion, Hallucinogenic, Strong"
-  - concoctiongear-PtnHalS
 tags:
   - strong-elixir
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Provenzian Grand Games
-  - doc-prvnzngrndgms
 id: 4rNLJkKcYOoURxqO
 name:
   full: The Provenzian Grand Games

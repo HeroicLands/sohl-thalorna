@@ -1,7 +1,6 @@
 ---
 aliases:
   - Asbjorn Oakheart
-  - being-asbjrnkhrt
 tags:
   - demigod
   - heroes-of-asguard

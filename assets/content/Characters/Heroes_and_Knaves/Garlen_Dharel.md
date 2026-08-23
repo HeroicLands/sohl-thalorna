@@ -3,7 +3,6 @@ aliases:
   - Gârlen Dhárel
   - Gârlen Dhárel
   - Garlen Dharel
-  - being-garlendhrl
 tags:
   - heroes-and-knaves
 name:

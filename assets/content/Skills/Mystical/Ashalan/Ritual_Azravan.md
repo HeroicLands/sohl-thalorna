@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Ázráván"
   - Lord of the Final Horizon
-  - skill-azravan
 tags:
   - ashalan
   - faith-skill

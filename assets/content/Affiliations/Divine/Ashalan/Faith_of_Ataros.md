@@ -3,7 +3,6 @@ aliases:
   - Faith of Ātáröš
   - The Sacred Flame
   - Fire God
-  - affiliation-ataros
 id: jwJWeIebmMFeKrwf
 tags:
   - religion

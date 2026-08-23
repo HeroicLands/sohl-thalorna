@@ -4,7 +4,6 @@ aliases:
   - Pavanajitras
   - The Wandering Wind
   - The Wind Spirits of the Road
-  - skill-pavanajitras
 tags:
   - varnaka
   - faith-skill

@@ -2,7 +2,6 @@
 aliases:
   - Valáren Álvianar
   - Valaren Alvianar
-  - being-valarnlvnr
 tags:
   - draft
 name:

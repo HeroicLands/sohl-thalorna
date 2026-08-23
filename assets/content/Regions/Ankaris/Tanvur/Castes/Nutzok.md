@@ -2,7 +2,6 @@
 aliases:
   - Nützōk
   - Nutzok
-  - doc-nutzok
 id: nhYIrM34LxAifLFJ
 type: doc
 category: lore

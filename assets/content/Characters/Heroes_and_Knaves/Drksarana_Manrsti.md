@@ -3,7 +3,6 @@ aliases:
   - Drkṣàrana Manṛṣṭi
   - Drkṣàrana Manṛṣṭi
   - Drksarana Manrsti
-  - being-drkaranamn
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Kadméros Hârôrdîs
   - Kadmeros Harordis
-  - being-kdmrshrrds
 tags:
   - draft
 name:

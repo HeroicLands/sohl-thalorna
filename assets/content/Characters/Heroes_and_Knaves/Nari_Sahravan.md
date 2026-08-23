@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nari Sahravân
-  - being-narisahrvn
 tags:
   - heroes-and-knaves
   - hero

@@ -3,7 +3,6 @@ aliases:
   - Ermelína Drekanótt
   - Ermelína Drekanótt
   - Ermelina Drekanott
-  - being-ermlndrknt
 tags:
   - heroes-and-knaves
 name:

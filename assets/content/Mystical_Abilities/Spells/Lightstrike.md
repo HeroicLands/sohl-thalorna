@@ -1,7 +1,6 @@
 ---
 aliases:
   - Beam
-  - mysticalability-lghtstrk
 tags: []
 name:
   full: Lightstrike

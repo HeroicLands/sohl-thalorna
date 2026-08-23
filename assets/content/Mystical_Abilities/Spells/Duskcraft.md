@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadow
-  - mysticalability-dskcrft
 tags: []
 name:
   full: Duskcraft

@@ -2,7 +2,6 @@
 aliases:
   - The Silver Forests
   - Silver Forests
-  - doc-silvrfrsts
 id: X7HiBpa32S79TTrv
 type: doc
 category: location

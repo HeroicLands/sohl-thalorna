@@ -2,7 +2,6 @@
 aliases:
   - Ashârâ Hârôrdâs
   - Ashara Harordas
-  - being-asharhrrds
 tags:
   - draft
 name:

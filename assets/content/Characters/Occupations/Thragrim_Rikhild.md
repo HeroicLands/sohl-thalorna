@@ -2,7 +2,6 @@
 aliases:
   - Thrágrim Ríkhild
   - Thragrim Rikhild
-  - being-thrgrmrkhld
 tags:
   - draft
 name:

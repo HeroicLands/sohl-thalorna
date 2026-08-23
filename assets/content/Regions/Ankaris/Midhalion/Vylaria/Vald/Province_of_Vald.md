@@ -1,7 +1,6 @@
 ---
 aliases:
   - Province of Vald
-  - doc-provincvld
 id: 0v63T4tHaR8TSRU9
 description: "The maritime province of the Vylarian Empire — its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Vylaria's face to the sea and its most commercially minded region."
 type: doc

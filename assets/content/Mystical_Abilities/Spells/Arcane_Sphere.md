@@ -2,7 +2,6 @@
 aliases:
   - Arcane Sphere
   - Bubble
-  - mysticalability-arcsph
 tags: []
 name:
   full: Arcane Sphere

@@ -2,7 +2,6 @@
 aliases:
   - "Serpent's Bane"
   - "Potion, Antivenin, Strong"
-  - concoctiongear-PtnAntvS
 tags:
   - strong-elixir
 name:

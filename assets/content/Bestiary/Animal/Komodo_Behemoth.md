@@ -1,7 +1,6 @@
 ---
 aliases:
   - Komodo Behemoth
-  - being-kmdbhmth
 tags:
   - animal
 name:

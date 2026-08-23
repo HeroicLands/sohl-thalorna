@@ -3,7 +3,6 @@ aliases:
   - Siprah Ipmaâr
   - Sip'rah Ip'maâr
   - Siprah Ipmaar
-  - being-siprahipmr
 tags:
   - heroes-and-knaves
 name:

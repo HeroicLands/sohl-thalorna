@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-tap
 tags: []
 name:
   full: Tap

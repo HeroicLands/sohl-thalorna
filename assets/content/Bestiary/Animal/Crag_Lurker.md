@@ -1,7 +1,6 @@
 ---
 aliases:
   - Crag Lurker
-  - being-crglrkr
 tags:
   - animal
 name:

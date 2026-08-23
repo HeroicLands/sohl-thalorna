@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mildred Harden
-  - being-mildrdhrdn
 tags:
   - draft
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Fiòrdaure
   - Fiordaure
-  - doc-fiordaure
 id: lxDnKhmbJQmfcnlU
 type: doc
 category: settlement

@@ -3,7 +3,6 @@ aliases:
   - Per'Mesnu
   - The House of the Mesnu
   - Ta'Kheperu Metalworkers' Guild
-  - affiliation-permesnu
 tags:
   - organization
   - takheperu

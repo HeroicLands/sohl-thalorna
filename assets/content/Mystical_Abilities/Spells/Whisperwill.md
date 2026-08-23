@@ -1,7 +1,6 @@
 ---
 aliases:
   - Suggestion
-  - mysticalability-whsprwll
 tags: []
 name:
   full: Whisperwill

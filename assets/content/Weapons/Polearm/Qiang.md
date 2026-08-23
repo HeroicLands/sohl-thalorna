@@ -1,7 +1,6 @@
 ---
 aliases:
   - Qiang
-  - weapongear-Qing
 tags: []
 name:
   full: Qiang

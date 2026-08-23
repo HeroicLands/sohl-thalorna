@@ -2,7 +2,6 @@
 aliases:
   - Heart-of-the-Oak
   - Might Elixir
-  - concoctiongear-ElxMgt
 tags:
   - elixir
 name:

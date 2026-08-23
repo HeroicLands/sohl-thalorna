@@ -2,7 +2,6 @@
 aliases:
   - Pâtûri Lamûshî
   - Paturi Lamushi
-  - being-paturilmsh
 tags:
   - draft
 name:

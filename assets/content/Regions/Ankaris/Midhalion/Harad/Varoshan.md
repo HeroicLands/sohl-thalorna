@@ -1,7 +1,6 @@
 ---
 aliases:
   - Varoshan
-  - doc-varoshan
 id: Kn8ogqx91k5GiaqN
 description: "Easternmost city-state of Harad at the crossroads of coastal and caravan routes — dusty, polyglot gateway where Haradian merchants negotiate with Dunhari caravaneers and desert nomads."
 type: doc

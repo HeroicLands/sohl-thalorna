@@ -2,7 +2,6 @@
 aliases:
   - Thalorna
   - The World of Thalorna
-  - doc-worldthlrn
 id: ZwEe2tr8ed7HSXG4
 type: doc
 category: world

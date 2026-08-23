@@ -2,7 +2,6 @@
 aliases:
   - "Siren's Tincture"
   - "Potion, Aphrodisiac, Great"
-  - concoctiongear-PtnAphrG
 tags:
   - great-elixir
 name:

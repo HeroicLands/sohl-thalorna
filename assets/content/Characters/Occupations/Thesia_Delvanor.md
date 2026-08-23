@@ -2,7 +2,6 @@
 aliases:
   - Thésia Delvánor
   - Thesia Delvanor
-  - being-thesidlvnr
 tags:
   - draft
 name:

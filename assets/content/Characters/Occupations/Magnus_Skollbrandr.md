@@ -2,7 +2,6 @@
 aliases:
   - Magnús Skǫllbrandr
   - Magnus Skollbrandr
-  - being-mgnsklbrndr
 tags:
   - draft
 name:

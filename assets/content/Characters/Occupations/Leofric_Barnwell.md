@@ -1,7 +1,6 @@
 ---
 aliases:
   - Leofric Barnwell
-  - being-lefrcbrnwl
 tags:
   - draft
 name:

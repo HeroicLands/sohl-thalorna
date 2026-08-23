@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Pneuménos
-  - affiliation-pneumenos
 tags:
   - hex-hodai
 type: affiliation

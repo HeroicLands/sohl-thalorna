@@ -1,7 +1,6 @@
 ---
 aliases:
   - Avice Winwick
-  - being-avicewnwck
 tags:
   - draft
 name:

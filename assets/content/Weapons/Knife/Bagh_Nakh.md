@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bagh Nakh
-  - weapongear-BghNkh
 tags: []
 name:
   full: Bagh Nakh

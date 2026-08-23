@@ -2,7 +2,6 @@
 aliases:
   - Lýraen Válskyr
   - Lyraen Valskyr
-  - being-lyrnvlskyr
 tags:
   - draft
 name:

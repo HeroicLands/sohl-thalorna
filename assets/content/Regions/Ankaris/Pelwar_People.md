@@ -3,7 +3,6 @@ aliases:
   - Pelwar People
   - Pelwari
   - Proto-Pelwar
-  - doc-pelwarpepl
 id: DpS4G6zm8pyhGDKh
 description: "Ancestral nomadic peoples whose migrations across Ankaris gave rise to modern kingdoms and whose language family still echoes in cultures from north to south."
 type: doc

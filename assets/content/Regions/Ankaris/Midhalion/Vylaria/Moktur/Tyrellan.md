@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tyrellan
-  - doc-tyrellan
 id: P01J8cKSZZ3mWGLH
 type: doc
 category: settlement

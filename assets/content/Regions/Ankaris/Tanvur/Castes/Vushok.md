@@ -2,7 +2,6 @@
 aliases:
   - Vüshōk
   - Vushok
-  - doc-vushok
 id: SAOPtLI8wTxMqwOk
 type: doc
 category: lore

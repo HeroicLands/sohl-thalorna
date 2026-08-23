@@ -2,7 +2,6 @@
 aliases:
   - Skúli Vetrdómr
   - Skuli Vetrdomr
-  - being-skulvtrdmr
 tags:
   - heroes-and-knaves
 name:

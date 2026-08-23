@@ -2,7 +2,6 @@
 aliases:
   - Pédroth Jútharen
   - Pedroth Jutharen
-  - being-pdrthjthrn
 tags:
   - draft
 name:

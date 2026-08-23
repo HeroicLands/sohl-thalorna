@@ -1,7 +1,6 @@
 ---
 aliases:
   - Inga Harvest-Blessed
-  - being-inghrvstblsd
 tags:
   - paragon
   - heroes-of-asguard

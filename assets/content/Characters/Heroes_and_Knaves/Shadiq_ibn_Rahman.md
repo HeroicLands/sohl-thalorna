@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadiq ibn Rahman, The Diplomatic Blade Dancer
-  - being-shdqbnrhmndplmtcblddncr
 tags:
   - heroes-and-knaves
   - hero

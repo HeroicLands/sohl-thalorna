@@ -6,7 +6,6 @@ aliases:
   - Celestial Dragon
   - The First Classifier
   - The Celestial Dragon
-  - skill-tanlung
 tags:
   - celestial-pantheon
   - faith-skill

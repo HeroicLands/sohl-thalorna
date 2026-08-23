@@ -2,7 +2,6 @@
 aliases:
   - Selímara
   - Selimara
-  - doc-selimara
 id: bQUtftL9hRhlCeaf
 type: doc
 category: settlement

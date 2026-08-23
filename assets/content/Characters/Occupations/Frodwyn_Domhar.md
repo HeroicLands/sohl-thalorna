@@ -2,7 +2,6 @@
 aliases:
   - Fródwyn Dómhár
   - Frodwyn Domhar
-  - being-frdwyndmhr
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha' Xaman
-  - doc-haxaman2
 id: n24XoHaQViCi0IYu
 type: doc
 category: settlement

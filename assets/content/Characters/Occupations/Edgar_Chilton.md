@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edgar Chilton
-  - being-edgarchltn
 tags:
   - draft
 name:

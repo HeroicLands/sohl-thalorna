@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-crow
 tags: []
 name:
   full: Crow

@@ -3,7 +3,6 @@ aliases:
   - "Ritual: The Sacred Forge"
   - The Sacred Forge
   - Vúlcani Orthodox
-  - skill-sacredforge
 tags:
   - aureldian
   - faith-skill

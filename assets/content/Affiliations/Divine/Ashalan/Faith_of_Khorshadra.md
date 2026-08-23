@@ -3,7 +3,6 @@ aliases:
   - Faith of Khóršádrä
   - Bearer of Eternal Light
   - Wisdom Goddess
-  - affiliation-korsadra
 id: LUKFXYlNcrFwTl8r
 tags:
   - religion

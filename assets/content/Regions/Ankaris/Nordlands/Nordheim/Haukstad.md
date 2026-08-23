@@ -1,7 +1,6 @@
 ---
 aliases:
   - Haukstad
-  - doc-haukstad
 id: jjrNvguHkGppBHx6
 type: doc
 category: settlement

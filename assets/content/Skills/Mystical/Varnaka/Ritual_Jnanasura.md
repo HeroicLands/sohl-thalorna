@@ -4,7 +4,6 @@ aliases:
   - Jñānasūra
   - Jnanasura
   - The Radiant Sage
-  - skill-jnanasura
 tags:
   - varnaka
   - faith-skill

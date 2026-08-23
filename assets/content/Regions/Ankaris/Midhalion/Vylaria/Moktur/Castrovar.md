@@ -1,7 +1,6 @@
 ---
 aliases:
   - Castrovar
-  - doc-castrovar
 id: Mk3hNx7mEq9Rb2Lt
 type: doc
 category: settlement

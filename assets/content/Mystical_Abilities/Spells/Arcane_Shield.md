@@ -1,7 +1,6 @@
 ---
 aliases:
   - Arcane Shield
-  - mysticalability-arcshld
 tags: []
 name:
   full: Arcane Shield

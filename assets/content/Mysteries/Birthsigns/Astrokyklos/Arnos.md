@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-arnos
 tags: []
 name:
   full: Arnos

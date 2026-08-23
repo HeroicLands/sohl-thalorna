@@ -2,7 +2,6 @@
 aliases:
   - "Oracle's Vapor"
   - "Potion, Hallucinogenic, Great"
-  - concoctiongear-PtnHalG
 tags:
   - great-elixir
 name:

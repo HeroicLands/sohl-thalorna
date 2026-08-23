@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gróa the Seiðr of Norgaad
-  - being-grosdrnrgd
 tags:
   - heroes-and-knaves
   - hero

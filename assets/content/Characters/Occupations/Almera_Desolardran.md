@@ -2,7 +2,6 @@
 aliases:
   - Álmera Desolárdran
   - Almera Desolardran
-  - being-almrdslrdrn
 tags:
   - draft
 name:

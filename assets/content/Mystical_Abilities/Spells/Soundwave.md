@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aural Blast
-  - mysticalability-sndwv
 tags: []
 name:
   full: Soundwave

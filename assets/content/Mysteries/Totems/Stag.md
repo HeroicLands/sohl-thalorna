@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-stag
 tags: []
 name:
   full: Stag

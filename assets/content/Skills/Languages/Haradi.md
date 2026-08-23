@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langhar
 tags: []
 name:
   full: Haradi

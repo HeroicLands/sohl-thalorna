@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Thórr"
   - The Stormborn Path
-  - skill-thorr
 tags:
   - asguardian
   - faith-skill
