@@ -122,13 +122,13 @@ const MANIFEST_SRC = path.join(REPO, "assets/manifests");
 /**
  * This package's own manifest, for the other packages to vendor.
  *
- * `utils/build-link-manifest.mjs` writes the same file, and the two must stay
+ * `content-build manifest` writes the same file, and the two must stay
  * byte-identical: a manifest asserts that a page exists at the URL it gives, so
  * one of them being wrong publishes a link that passes every check and 404s for
  * the reader. They agree because both route a note by the same two rules —
  * `sectionOf` and `contentSlug` — rather than because either defers to the
- * other. The standalone script exists so a contributor can regenerate the
- * manifest without building the website.
+ * other. `npm run build:link-manifest` runs that command, so a contributor can
+ * regenerate the manifest without building the website.
  */
 const MANIFEST_OUT = path.join(REPO, "build/manifests");
 

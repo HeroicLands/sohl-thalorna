@@ -25,7 +25,8 @@
  * supported configuration, not an error — nothing here warns about it.
  */
 
-/** This module's Foundry id, as declared in `assets/templates/module.template.json`. */
+/** This module's Foundry id — the `name` of `package.json`, which the generated
+ * `module.json` takes its `id` from. */
 const MODULE_ID = "sohl-thalorna";
 
 Hooks.once("init", () => {
