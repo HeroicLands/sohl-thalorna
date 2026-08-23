@@ -1,7 +1,6 @@
 ---
 aliases:
   - Trishula
-  - weapongear-Trsha
 tags: []
 name:
   full: Trishula

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Flotation
-  - mysticalability-drift
 tags: []
 name:
   full: Drift

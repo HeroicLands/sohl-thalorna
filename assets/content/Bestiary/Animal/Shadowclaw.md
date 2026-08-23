@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shadowclaw
-  - being-shdwclw
 tags:
   - animal
 name:

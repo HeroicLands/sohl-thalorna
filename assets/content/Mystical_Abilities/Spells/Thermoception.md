@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-thrmcptn
 tags: []
 name:
   full: Thermoception

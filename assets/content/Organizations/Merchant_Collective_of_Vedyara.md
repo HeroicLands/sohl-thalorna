@@ -4,7 +4,6 @@ aliases:
   - Merchant Collective
   - Vedyara Merchant Collective
   - Vyāpārī Sangha
-  - affiliation-mrchntclctvvdyr
 tags: []
 description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade — wielding economic power that rivals the rulers themselves."
 package: thalorna

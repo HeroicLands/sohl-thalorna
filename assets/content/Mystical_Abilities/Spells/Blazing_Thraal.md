@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blazing Thraal
-  - mysticalability-blzgthrl
 tags: []
 name:
   full: Blazing Thraal

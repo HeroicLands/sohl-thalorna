@@ -1,7 +1,6 @@
 ---
 aliases:
   - Candour
-  - mysticalability-trthflr
 tags: []
 name:
   full: Truthflare

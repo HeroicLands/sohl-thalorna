@@ -1,7 +1,6 @@
 ---
 aliases:
   - Qadhirun
-  - doc-qadhirun
 id: eo7Mlrw34ELw2CFY
 type: doc
 category: settlement

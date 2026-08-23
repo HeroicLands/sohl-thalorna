@@ -2,7 +2,6 @@
 aliases:
   - Ríthara Dómivar
   - Rithara Domivar
-  - being-rithardmvr
 tags:
   - draft
 name:

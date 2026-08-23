@@ -2,7 +2,6 @@
 aliases:
   - Áleren Párdalen
   - Aleren Pardalen
-  - being-alernprdln
 tags:
   - draft
 name:

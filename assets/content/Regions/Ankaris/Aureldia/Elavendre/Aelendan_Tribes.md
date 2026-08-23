@@ -2,7 +2,6 @@
 aliases:
   - Áelendan Tribes
   - Aelendan Tribes
-  - doc-aelndntrbs
 id: 1X3hyHGrQc0lEgZK
 description: ""
 type: doc

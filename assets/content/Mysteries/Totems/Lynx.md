@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-lynx
 tags: []
 name:
   full: Lynx

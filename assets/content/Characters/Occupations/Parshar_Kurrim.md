@@ -2,7 +2,6 @@
 aliases:
   - Pârshar Kûrrîm
   - Parshar Kurrim
-  - being-parsharkrm
 tags:
   - draft
 name:

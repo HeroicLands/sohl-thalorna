@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sweat
-  - mysticalability-mstrpll
 tags: []
 name:
   full: Moisturepull

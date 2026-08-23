@@ -1,7 +1,6 @@
 ---
 aliases:
   - Calendar and Astrology
-  - doc-clndrstrlgy
 id: PLoeMYg2nCbgYuDi
 type: doc
 category: lore

@@ -3,7 +3,6 @@ aliases:
   - The Black Ledger
   - Black Ledger
   - The Underground Cartography Network
-  - affiliation-blackledgr
 tags:
   - organization
   - underworld

@@ -3,7 +3,6 @@ aliases:
   - Íngrithr Skýrekkr
   - Íngrithr Skýrekkr
   - Ingrithr Skyrekkr
-  - being-ingrthrskyrkr
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Alfred Barnwell
-  - being-alfrdbrnwl
 tags:
   - draft
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Parched Soul
   - Thirst
-  - mysticalability-pchsoul
 tags: []
 name:
   full: Parched Soul

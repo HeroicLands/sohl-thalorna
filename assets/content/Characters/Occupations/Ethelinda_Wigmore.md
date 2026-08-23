@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ethelinda Wigmore
-  - being-ethlndwgmr
 tags:
   - draft
 name:

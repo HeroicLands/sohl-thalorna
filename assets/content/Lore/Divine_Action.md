@@ -3,7 +3,6 @@ aliases:
   - The Truth of Divine Action
   - Divine Action (GM)
   - The Balance
-  - doc-divineactn
 tags:
   - lore
   - religion

@@ -2,7 +2,6 @@
 aliases:
   - Arûzan Kamûmû
   - Aruzan Kamumu
-  - being-aruzankamm
 tags:
   - draft
 name:

@@ -5,7 +5,6 @@ aliases:
   - Vekthor
   - The Forger of False Records
   - The Counterfeit Scribe
-  - skill-vekthor
 tags:
   - celestial-pantheon
   - faith-skill

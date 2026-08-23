@@ -1,7 +1,6 @@
 ---
 aliases:
   - Central K'ich'chik
-  - doc-cntrlkchchk
 id: ulBQTuyyMdgRsVWW
 tags:
   - region

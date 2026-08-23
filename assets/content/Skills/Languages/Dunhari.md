@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langdun
 tags: []
 name:
   full: Dunhari

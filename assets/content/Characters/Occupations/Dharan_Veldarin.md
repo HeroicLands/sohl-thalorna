@@ -2,7 +2,6 @@
 aliases:
   - Dháran Véldarin
   - Dharan Veldarin
-  - being-dharnvldrn
 tags:
   - todo
   - draft

@@ -2,7 +2,6 @@
 aliases:
   - Orchard Breath
   - "Potion, Aromatic, Mild"
-  - concoctiongear-PtnAromM
 tags:
   - mild-elixir
 name:

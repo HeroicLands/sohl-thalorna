@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Thanatos"
   - Thánatos
   - The Silent Judge
-  - skill-thanatos
 tags:
   - aureldian
   - faith-skill

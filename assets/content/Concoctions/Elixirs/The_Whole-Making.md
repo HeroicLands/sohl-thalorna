@@ -2,7 +2,6 @@
 aliases:
   - The Whole-Making
   - Mending Elixir
-  - concoctiongear-ElxMnd
 tags:
   - elixir
 name:

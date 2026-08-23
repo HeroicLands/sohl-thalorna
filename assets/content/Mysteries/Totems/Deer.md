@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-deer
 tags: []
 name:
   full: Deer

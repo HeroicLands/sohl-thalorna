@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edrith Grayling
-  - being-edrthgrylng
 tags:
   - draft
 name:

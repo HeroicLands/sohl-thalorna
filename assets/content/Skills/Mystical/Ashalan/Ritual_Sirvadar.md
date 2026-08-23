@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Šírvádár"
   - The Wandering Guide
-  - skill-sirvadar
 tags:
   - ashalan
   - faith-skill

@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'ankul
-  - doc-kankul
 tags:
   - polity
 title: ""

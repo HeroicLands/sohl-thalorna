@@ -2,7 +2,6 @@
 aliases:
   - Vígbrandr Steinblót
   - Vigbrandr Steinblot
-  - being-vgbrndrstnblt
 tags:
   - draft
 name:

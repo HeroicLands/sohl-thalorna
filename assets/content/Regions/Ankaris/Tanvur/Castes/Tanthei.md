@@ -2,7 +2,6 @@
 aliases:
   - Tānthëi
   - Tanthei
-  - doc-tanthei
 id: 1jK4MD4BEqFGPa5s
 type: doc
 category: lore

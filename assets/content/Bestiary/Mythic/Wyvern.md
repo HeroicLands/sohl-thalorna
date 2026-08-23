@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wyvern
-  - being-wyvern
 tags:
   - mythic
   - image-needed

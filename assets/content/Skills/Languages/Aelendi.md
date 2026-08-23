@@ -2,7 +2,6 @@
 aliases:
   - Áelendi
   - Aelendi
-  - skill-langael
 tags: []
 name:
   full: Áelendi

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tarvéni
-  - skill-langtar
 tags: []
 name:
   full: Tarvéni

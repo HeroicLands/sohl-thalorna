@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eldgrimr Flameheart
-  - being-eldgrmrflmhrt
 tags:
   - paragon
   - heroes-of-asguard

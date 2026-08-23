@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ki'ik Ba'ate
-  - doc-kiikbaate2
 id: 3E05WzjjmWWWlHf4
 type: doc
 category: settlement

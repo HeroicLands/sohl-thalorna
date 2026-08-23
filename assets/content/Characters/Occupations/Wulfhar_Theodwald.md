@@ -2,7 +2,6 @@
 aliases:
   - Wulfhár Theódwald
   - Wulfhar Theodwald
-  - being-wlfhrthdwld
 tags:
   - draft
 name:

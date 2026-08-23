@@ -2,7 +2,6 @@
 aliases:
   - Okháris Region
   - Okharis Region
-  - doc-okharisrgn
 tags:
   - region
 title: ""

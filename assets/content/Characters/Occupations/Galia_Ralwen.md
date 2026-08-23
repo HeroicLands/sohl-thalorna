@@ -2,7 +2,6 @@
 aliases:
   - Gália Rálwen
   - Galia Ralwen
-  - being-galiaralwn
 tags:
   - draft
 name:

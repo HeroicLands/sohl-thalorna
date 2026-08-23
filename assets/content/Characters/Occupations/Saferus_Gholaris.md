@@ -2,7 +2,6 @@
 aliases:
   - Sáfêrús Ghôlâris
   - Saferus Gholaris
-  - being-safrsghlrs
 tags:
   - draft
 name:

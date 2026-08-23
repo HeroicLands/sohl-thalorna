@@ -2,7 +2,6 @@
 aliases:
   - Ràkhîmêa Khalîthôn
   - Rakhimea Khalithon
-  - being-rkhmkhlthn
 tags:
   - draft
 name:

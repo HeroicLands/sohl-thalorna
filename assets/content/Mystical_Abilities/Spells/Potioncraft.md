@@ -1,7 +1,6 @@
 ---
 aliases:
   - Alchema
-  - mysticalability-ptncrft
 tags: []
 name:
   full: Potioncraft

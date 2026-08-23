@@ -2,7 +2,6 @@
 aliases:
   - Bréthar Sálthar
   - Brethar Salthar
-  - being-brthrslthr
 tags:
   - draft
 name:

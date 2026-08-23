@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dire Wolverine
-  - being-drwlvrn
 tags:
   - animal
 name:

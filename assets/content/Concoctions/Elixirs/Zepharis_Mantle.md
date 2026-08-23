@@ -2,7 +2,6 @@
 aliases:
   - "Zephäris's Mantle"
   - Iceshield Elixir
-  - concoctiongear-ElxIce
 tags:
   - elixir
 name:

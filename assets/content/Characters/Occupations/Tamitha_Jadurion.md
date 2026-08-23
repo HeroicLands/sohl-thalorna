@@ -2,7 +2,6 @@
 aliases:
   - Tamîtha Jâdurîon
   - Tamitha Jadurion
-  - being-tamithjdrn
 tags:
   - draft
 name:

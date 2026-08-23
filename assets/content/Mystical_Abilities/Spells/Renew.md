@@ -1,7 +1,6 @@
 ---
 aliases:
   - Balm
-  - mysticalability-renew
 tags: []
 name:
   full: Renew

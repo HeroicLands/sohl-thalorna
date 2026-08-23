@@ -2,7 +2,6 @@
 aliases:
   - Skaldár Balthhelm
   - Skaldar Balthhelm
-  - being-skldrblthlm
 tags:
   - draft
 name:

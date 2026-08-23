@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Sét"
   - Sét, Bringer of Tempests
-  - skill-set
 tags:
   - kemetian
   - faith-skill

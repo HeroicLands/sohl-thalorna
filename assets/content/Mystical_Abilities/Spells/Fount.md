@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-fount
 tags: []
 name:
   full: Fount

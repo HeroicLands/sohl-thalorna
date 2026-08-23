@@ -2,7 +2,6 @@
 aliases:
   - Velysâra
   - Velysara
-  - doc-velysara
 id: 2I43nt8D8FSmXEY4
 type: doc
 category: settlement

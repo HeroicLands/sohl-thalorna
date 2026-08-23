@@ -2,7 +2,6 @@
 aliases:
   - Gábêros Chàddâris
   - Gaberos Chaddaris
-  - being-gabrschdrs
 tags:
   - todo-warrior
   - draft

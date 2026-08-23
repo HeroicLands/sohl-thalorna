@@ -2,7 +2,6 @@
 aliases:
   - Nartûm
   - Nartum
-  - doc-nartum
 id: lC4TS0SvySTGzr5S
 type: doc
 category: settlement

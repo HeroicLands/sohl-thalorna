@@ -5,7 +5,6 @@ aliases:
   - Vyalendravada
   - The Doctrine of Vyālendra
   - Vyāndran School
-  - skill-vyalendravada
 tags:
   - varnaka
   - faith-skill

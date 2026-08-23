@@ -2,7 +2,6 @@
 aliases:
   - Mer'tep Ankh'Khes
   - Mertep AnkhKhes
-  - being-mrtpnkhkhs
 tags:
   - heroes-and-knaves
 name:

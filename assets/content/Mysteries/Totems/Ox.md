@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-ox
 tags: []
 name:
   full: Ox

@@ -2,7 +2,6 @@
 aliases:
   - Aurèliane
   - Aureliane
-  - doc-aureliane
 id: 6606P1n4SuPO30aI
 type: doc
 category: settlement

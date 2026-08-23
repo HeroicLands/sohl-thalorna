@@ -2,7 +2,6 @@
 aliases:
   - Brákôs Hârlânis
   - Brakos Harlanis
-  - being-brakshrlns
 tags:
   - todo-warrior
   - draft

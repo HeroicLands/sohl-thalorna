@@ -3,7 +3,6 @@ aliases:
   - Faith of Múrkír
   - Faith of Murkir
   - Múrkír
-  - affiliation-murkir
 id: TzNdrr3mAykUz6j0
 tags:
   - aureldian

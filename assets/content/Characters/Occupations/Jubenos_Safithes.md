@@ -2,7 +2,6 @@
 aliases:
   - Júbênós Safîthês
   - Jubenos Safithes
-  - being-jubensfths
 tags:
   - draft
 name:

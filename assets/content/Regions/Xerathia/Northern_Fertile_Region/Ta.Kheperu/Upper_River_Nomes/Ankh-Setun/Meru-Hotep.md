@@ -1,7 +1,6 @@
 ---
 aliases:
   - Meru-Hotep
-  - doc-meruhotep
 id: w37mo3an5Yl3C5an
 type: doc
 category: settlement

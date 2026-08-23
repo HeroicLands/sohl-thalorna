@@ -2,7 +2,6 @@
 aliases:
   - Lýrena Tólgen
   - Lyrena Tolgen
-  - being-lyrenatlgn
 tags:
   - draft
 name:

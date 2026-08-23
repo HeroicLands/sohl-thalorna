@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sponge
-  - mysticalability-absrbt
 tags: []
 name:
   full: Absorbent

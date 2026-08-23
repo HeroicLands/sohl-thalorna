@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cooling
-  - mysticalability-chill
 tags: []
 name:
   full: Chill

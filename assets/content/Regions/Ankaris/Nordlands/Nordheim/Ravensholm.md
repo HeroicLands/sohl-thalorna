@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ravensholm
-  - doc-ravensholm
 id: xdfasuC4zLc5gWSd
 type: doc
 category: settlement

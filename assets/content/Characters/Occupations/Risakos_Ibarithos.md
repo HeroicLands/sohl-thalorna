@@ -2,7 +2,6 @@
 aliases:
   - Rísàkós Ibârìthôs
   - Risakos Ibarithos
-  - being-risksbrths
 tags:
   - draft
 name:

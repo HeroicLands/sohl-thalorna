@@ -3,7 +3,6 @@ aliases:
   - Alýkos Theotókis
   - Alýkos Theotókis
   - Alykos Theotokis
-  - being-alyksthtks
 tags:
   - heroes-and-knaves
 name:

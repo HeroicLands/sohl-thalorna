@@ -3,7 +3,6 @@ aliases:
   - Faith of Āhúrdáén
   - The Keeper of Harmony
   - Ahura Mazda
-  - affiliation-ahurdaen
 id: oFQdmjINfzgmiQvH
 tags:
   - religion

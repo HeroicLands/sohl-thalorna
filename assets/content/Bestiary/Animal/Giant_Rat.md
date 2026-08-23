@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Rat
-  - being-giantrat
 tags:
   - animal
   - image-needed

@@ -3,7 +3,6 @@ aliases:
   - Yngvarr Blóthǫll
   - Yngvarr Blóthǫll
   - Yngvarr Blotholl
-  - being-yngvrblthl
 tags:
   - heroes-and-knaves
 name:

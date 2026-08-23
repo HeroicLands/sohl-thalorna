@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Jumping Spider
-  - being-gntjmpng
 tags:
   - animal
 name:

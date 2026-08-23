@@ -2,7 +2,6 @@
 aliases:
   - Laurelossë
   - Laurelosse
-  - doc-laurelosse
 id: Mp48OQiSLJZ8OVfN
 type: doc
 category: location

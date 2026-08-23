@@ -2,7 +2,6 @@
 aliases:
   - Óthwin Dómhár
   - Othwin Domhar
-  - being-othwindmhr
 tags:
   - draft
 name:

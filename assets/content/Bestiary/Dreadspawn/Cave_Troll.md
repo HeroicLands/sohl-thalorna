@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cave Troll
-  - being-cvtrll
 tags:
   - dreadspawn
 name:

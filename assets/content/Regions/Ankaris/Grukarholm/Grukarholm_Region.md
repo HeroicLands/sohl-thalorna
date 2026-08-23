@@ -3,7 +3,6 @@ aliases:
   - Grukarholm Region
   - Grukarholm
   - Grukarhölm
-  - doc-grkrhlmrgn
 tags:
   - region
 title: ""

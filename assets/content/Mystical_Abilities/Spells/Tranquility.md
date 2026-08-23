@@ -1,7 +1,6 @@
 ---
 aliases:
   - Calm
-  - mysticalability-trnqlty
 tags: []
 name:
   full: Tranquility

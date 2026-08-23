@@ -3,7 +3,6 @@ aliases:
   - Khazryn Desert Region
   - Khazryn Desert
   - Khazryn
-  - doc-khzryndsrtrgn
 tags:
   - region
 title: ""

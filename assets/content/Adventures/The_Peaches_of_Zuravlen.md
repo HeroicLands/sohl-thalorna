@@ -2,7 +2,6 @@
 aliases:
   - The Peaches of Zûravlen
   - The Peaches of Zuravlen
-  - doc-pechszrvln
 id: fzzz6etkn5W7ziDK
 name:
   full: The Peaches of Zûravlen

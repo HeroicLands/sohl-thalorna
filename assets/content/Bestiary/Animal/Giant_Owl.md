@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Owl
-  - being-giantowl
 tags:
   - animal
 name:

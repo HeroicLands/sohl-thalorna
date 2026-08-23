@@ -3,7 +3,6 @@ aliases:
   - Ríkarthr Íseldr
   - Ríkarthr Íseldr
   - Rikarthr Iseldr
-  - being-rkrthrsldr
 tags:
   - heroes-and-knaves
   - todo

@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Sēker"
   - Lord of Silent Passage
-  - skill-seker
 tags:
   - kemetian
   - faith-skill

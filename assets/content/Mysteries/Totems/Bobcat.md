@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-bobcat
 tags: []
 name:
   full: Bobcat

@@ -2,7 +2,6 @@
 aliases:
   - Faith of Ázráván
   - Lord of the Final Horizon
-  - affiliation-azravan
 id: APxOx87sZ9mYwQAO
 tags:
   - religion

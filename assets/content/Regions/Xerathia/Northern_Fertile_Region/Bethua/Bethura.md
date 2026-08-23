@@ -4,7 +4,6 @@ tags:
 aliases:
   - Bethûra
   - Bethura
-  - doc-bethura
 id: CrmLLo78aUYwlRtC
 type: doc
 category: settlement

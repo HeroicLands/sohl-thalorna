@@ -3,7 +3,6 @@ aliases:
   - Fakhrad Tamârân
   - Fakhrad Tamârân
   - Fakhrad Tamaran
-  - being-fakhrdtmrn
 tags:
   - heroes-and-knaves
 name:

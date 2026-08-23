@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tunnel
-  - mysticalability-pthfrg
 tags: []
 name:
   full: Pathforge

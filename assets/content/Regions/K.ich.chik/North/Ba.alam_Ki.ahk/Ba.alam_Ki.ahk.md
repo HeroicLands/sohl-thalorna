@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ba'alam Ki'ahk
-  - doc-balamkiahk
 tags:
   - polity
 title: ""

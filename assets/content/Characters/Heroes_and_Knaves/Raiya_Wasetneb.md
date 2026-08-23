@@ -2,7 +2,6 @@
 aliases:
   - Raiya Waset'neb
   - Raiya Wasetneb
-  - being-raiyawstnb
 tags:
   - heroes-and-knaves
 name:

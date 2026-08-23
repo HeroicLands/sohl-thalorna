@@ -5,7 +5,6 @@ aliases:
   - Per_Hati
   - The Temple Treasury
   - The House of the Account
-  - affiliation-perhati
 tags:
   - organization
   - takheperu

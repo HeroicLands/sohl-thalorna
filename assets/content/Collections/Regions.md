@@ -1,7 +1,6 @@
 ---
 aliases:
   - Regions
-  - doc-regions
 id: jbVHqLXPUnCyns3h
 name:
   full: Regions

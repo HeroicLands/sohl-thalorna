@@ -2,7 +2,6 @@
 aliases:
   - Gróa's Campaign
   - Groa's Campaign
-  - doc-groascmpgn
 id: sbicjzDXh0d6Y4DN
 name:
   full: Gróa's Campaign

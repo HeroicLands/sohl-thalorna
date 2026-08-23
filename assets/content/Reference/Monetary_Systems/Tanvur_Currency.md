@@ -3,7 +3,6 @@ aliases:
   - Tánvür Currency
   - Tanvur Currency
   - Tánvür Monetary System
-  - doc-tanvrcrncy
 tags:
   - reference
   - currency

@@ -2,7 +2,6 @@
 aliases:
   - Alîmû Lâmarû
   - Alimu Lamaru
-  - being-alimulamar
 tags:
   - draft
 name:

@@ -3,7 +3,6 @@ aliases:
   - Xerôphôn Kâlmâkanês
   - Xerôphôn Kâlmâkanês
   - Xerophon Kalmakanes
-  - being-xrphnklmkns
 tags:
   - heroes-and-knaves
 name:

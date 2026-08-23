@@ -1,7 +1,6 @@
 ---
 aliases:
   - Azhûn
-  - doc-azhun2
 id: glFCD2sGQEKQGn6c
 type: doc
 category: settlement

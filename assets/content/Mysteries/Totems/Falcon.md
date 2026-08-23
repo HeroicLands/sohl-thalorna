@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-falcon
 tags: []
 name:
   full: Falcon

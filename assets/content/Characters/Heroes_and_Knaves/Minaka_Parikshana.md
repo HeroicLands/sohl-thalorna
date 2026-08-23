@@ -3,7 +3,6 @@ aliases:
   - Minàka Parikṣhana
   - Minàka Parikṣhana
   - Minaka Parikshana
-  - being-minakprkhn
 tags:
   - heroes-and-knaves
 name:

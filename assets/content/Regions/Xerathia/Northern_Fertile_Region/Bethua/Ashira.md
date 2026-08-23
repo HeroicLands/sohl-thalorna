@@ -4,7 +4,6 @@ tags:
 aliases:
   - Ashíra
   - Ashira
-  - doc-ashira
 id: Wbuh7YBC3fe4JG9m
 type: doc
 category: settlement

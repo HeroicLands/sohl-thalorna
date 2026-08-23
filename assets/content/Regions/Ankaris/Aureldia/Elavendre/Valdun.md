@@ -2,7 +2,6 @@
 aliases:
   - Valdûn
   - Valdun
-  - doc-valdun
 id: x8lAC1ETUs0sqHpi
 type: doc
 category: settlement

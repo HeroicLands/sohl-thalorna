@@ -1,7 +1,6 @@
 ---
 aliases:
   - Large Spider
-  - being-lrgspdr
 tags:
   - animal
 name:

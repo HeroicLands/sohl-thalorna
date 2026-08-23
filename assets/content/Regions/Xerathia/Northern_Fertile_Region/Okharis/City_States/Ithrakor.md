@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ithrákor
-  - doc-ithrakor
 id: 1Bf7A6AabtHRR3Bu
 tags: []
 type: doc

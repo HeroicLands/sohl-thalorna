@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - doc-trnnlgsrfrnc
 id: BNdQ5Rji7mgldAVd
 name:
   full: Terran Analogs Reference

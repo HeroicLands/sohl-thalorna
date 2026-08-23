@@ -3,7 +3,6 @@ aliases:
   - Kiroba of the Shókuma
   - Kiroba of the Shókuma
   - Kiroba of the Shokuma
-  - being-kirobashkm
 tags:
   - heroes-and-knaves
   - hero

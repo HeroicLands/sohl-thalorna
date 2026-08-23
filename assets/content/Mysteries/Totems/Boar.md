@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-boar
 tags: []
 name:
   full: Boar

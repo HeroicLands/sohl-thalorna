@@ -2,7 +2,6 @@
 aliases:
   - Theódric Fróðbán
   - Theodric Froban
-  - being-thdrcfrdbn
 tags:
   - draft
 name:

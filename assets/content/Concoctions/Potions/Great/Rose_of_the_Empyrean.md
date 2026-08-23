@@ -2,7 +2,6 @@
 aliases:
   - Rose of the Empyrean
   - "Potion, Aromatic, Great"
-  - concoctiongear-PtnAromG
 tags:
   - great-elixir
 name:

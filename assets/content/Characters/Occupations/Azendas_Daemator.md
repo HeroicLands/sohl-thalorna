@@ -2,7 +2,6 @@
 aliases:
   - Azéndas Dâemâtôr
   - Azendas Daemator
-  - being-azendsdmtr
 tags:
   - todo
   - draft

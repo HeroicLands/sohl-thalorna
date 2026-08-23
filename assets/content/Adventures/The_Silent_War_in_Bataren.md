@@ -2,7 +2,6 @@
 aliases:
   - The Silent War in Batáren
   - The Silent War in Bataren
-  - doc-slntwrbtrn
 id: JQZTmRad4jLlZdbR
 name:
   full: The Silent War in Batáren

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Oðinn
-  - affiliation-odinn
 id: G4BhgaiMv2pTKezK
 tags:
   - asguardian

@@ -2,7 +2,6 @@
 aliases:
   - Ánira Róseneth
   - Anira Roseneth
-  - being-anirarsnth
 tags:
   - draft
 name:

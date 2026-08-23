@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rockhide Golem
-  - being-rckhdglm
 tags:
   - construct
 name:

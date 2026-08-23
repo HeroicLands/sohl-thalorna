@@ -2,7 +2,6 @@
 aliases:
   - Milk of Sleep
   - "Potion, Narcotic, Great"
-  - concoctiongear-PtnNarG
 tags:
   - great-elixir
 name:

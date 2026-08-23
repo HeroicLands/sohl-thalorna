@@ -2,7 +2,6 @@
 aliases:
   - Bāthür Hürtzhük
   - Bathur Hurtzhuk
-  - doc-bthrhrtzhk
 id: 1pwOmb53lxa04h1Z
 type: doc
 category: lore

@@ -2,7 +2,6 @@
 aliases:
   - Sahînór Mâkîthôn
   - Sahinor Makithon
-  - being-sahnrmkthn
 tags:
   - draft
 name:

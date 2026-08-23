@@ -1,7 +1,6 @@
 ---
 aliases:
   - Decay
-  - mysticalability-wither
 tags: []
 name:
   full: Wither

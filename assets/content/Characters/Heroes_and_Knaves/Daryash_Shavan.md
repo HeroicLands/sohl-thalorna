@@ -3,7 +3,6 @@ aliases:
   - Daryash Shavân
   - Daryash Shavân
   - Daryash Shavan
-  - being-daryshshvn
 tags:
   - heroes-and-knaves
 name:

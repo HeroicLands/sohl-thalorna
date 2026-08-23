@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lore
-  - doc-lore
 id: 1fHs8nlTNP5mbbXv
 name:
   full: Lore

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rest
-  - mysticalability-stllnss
 tags: []
 name:
   full: Stillness

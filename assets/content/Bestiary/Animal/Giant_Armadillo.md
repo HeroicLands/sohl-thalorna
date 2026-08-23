@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Armadillo
-  - being-gntarmdl
 tags:
   - animal
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forge
-  - mysticalability-craft
 tags: []
 name:
   full: Craft

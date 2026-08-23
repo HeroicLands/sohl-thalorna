@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aldwin Grayling
-  - being-aldwngrylng
 tags:
   - draft
 name:

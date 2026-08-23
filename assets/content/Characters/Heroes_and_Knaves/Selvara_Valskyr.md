@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sélvara Válskyr
-  - being-slvrvlskyr
 tags:
   - tamzir-crew
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ironjaw
-  - being-ironjaw
 tags:
   - dreadspawn
 name:

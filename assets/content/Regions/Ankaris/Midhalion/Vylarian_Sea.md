@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vylarian Sea
-  - doc-vylarianse
 tags:
   - region
 title: ""

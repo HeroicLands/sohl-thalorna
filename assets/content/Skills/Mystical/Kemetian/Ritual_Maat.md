@@ -4,7 +4,6 @@ aliases:
   - Keeper of Truth and Harmony
   - "Má'át"
   - Maat
-  - skill-maat
 tags:
   - kemetian
   - faith-skill

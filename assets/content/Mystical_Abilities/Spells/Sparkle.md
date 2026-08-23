@@ -1,7 +1,6 @@
 ---
 aliases:
   - Motes
-  - mysticalability-sparkle
 tags: []
 name:
   full: Sparkle

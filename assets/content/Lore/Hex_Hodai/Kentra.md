@@ -3,7 +3,6 @@ aliases:
   - Kentra
   - The Centre
   - The Centred
-  - affiliation-kentra
 tags:
   - hex-hodai
 type: affiliation

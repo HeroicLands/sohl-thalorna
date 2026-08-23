@@ -1,7 +1,6 @@
 ---
 aliases:
   - Calypsa
-  - doc-calypsa2
 id: pHT2BUJrOrXaugNc
 type: doc
 category: settlement

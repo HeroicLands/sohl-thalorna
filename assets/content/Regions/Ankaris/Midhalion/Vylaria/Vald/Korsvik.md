@@ -1,7 +1,6 @@
 ---
 aliases:
   - Korsvik
-  - doc-korsvik
 id: Vd3yPx6kKm2Sb8Ln
 type: doc
 category: settlement

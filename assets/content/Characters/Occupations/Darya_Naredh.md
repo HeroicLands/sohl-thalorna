@@ -2,7 +2,6 @@
 aliases:
   - Dárya Náredh
   - Darya Naredh
-  - being-daryanardh
 tags:
   - draft
 name:

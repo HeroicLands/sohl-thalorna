@@ -2,7 +2,6 @@
 aliases:
   - Thórir Járnskel
   - Thorir Jarnskel
-  - being-thrrjrnskl
 tags:
   - draft
 name:

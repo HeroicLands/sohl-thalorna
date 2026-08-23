@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dune Strider
-  - being-dnstrdr
 tags:
   - animal
 name:

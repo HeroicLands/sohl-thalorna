@@ -2,7 +2,6 @@
 aliases:
   - Tëitjëk Vëngyürt
   - Teitjek Vengyurt
-  - doc-ttjkvngyrt
 id: IeRBitOhNW9W1apE
 type: doc
 category: lore

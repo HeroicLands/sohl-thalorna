@@ -2,7 +2,6 @@
 aliases:
   - Kashnûra Arshûmû
   - Kashnura Arshumu
-  - being-kashnrrshm
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Caress
-  - mysticalability-touch
 tags: []
 name:
   full: Touch

@@ -2,7 +2,6 @@
 aliases:
   - Sahîra Tâbîrês
   - Sahira Tabires
-  - being-sahiratbrs
 tags:
   - draft
 name:

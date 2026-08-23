@@ -2,7 +2,6 @@
 aliases:
   - Hürnzhük
   - Hurnzhuk
-  - affiliation-hurnzhuk
 id: z3OrhLcuyvskTVCs
 tags:
   - demon-lord

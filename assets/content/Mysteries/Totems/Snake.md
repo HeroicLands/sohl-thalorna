@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-snake
 tags: []
 name:
   full: Snake

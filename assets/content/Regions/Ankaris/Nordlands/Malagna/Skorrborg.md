@@ -1,7 +1,6 @@
 ---
 aliases:
   - Skorrborg
-  - doc-skorrborg
 id: RceXRNNJJjThvqSo
 type: doc
 category: settlement

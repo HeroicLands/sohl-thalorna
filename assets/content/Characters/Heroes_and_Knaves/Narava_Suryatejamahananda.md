@@ -3,7 +3,6 @@ aliases:
   - Nárava Sūryatejamahānanda
   - Nárava Sūryatejamahānanda
   - Narava Suryatejamahananda
-  - being-nrvsrytjmhnnd
 tags:
   - heroes-and-knaves
 name:

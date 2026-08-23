@@ -1,7 +1,6 @@
 ---
 aliases:
   - Denizara
-  - doc-denizara2
 id: 5w6iTAzXPr9vnCPP
 type: doc
 category: settlement

@@ -3,7 +3,6 @@ aliases:
   - Phótianos Stratégopoulos
   - Phótianos Stratégopoulos
   - Photianos Strategopoulos
-  - being-phtnstrtgpls
 tags:
   - heroes-and-knaves
 name:

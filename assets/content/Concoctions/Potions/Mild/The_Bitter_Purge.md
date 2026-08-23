@@ -2,7 +2,6 @@
 aliases:
   - The Bitter Purge
   - "Potion, Emetic, Mild"
-  - concoctiongear-PtnEmM
 tags:
   - mild-elixir
 name:

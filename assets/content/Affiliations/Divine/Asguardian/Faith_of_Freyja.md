@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Fréyja
-  - affiliation-freyja
 id: CRcCfHFzsSdXQ1Df
 tags:
   - asguardian

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Erthran Hildvith
-  - being-erthrnhldvth
 tags:
   - draft
 name:

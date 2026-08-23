@@ -1,7 +1,6 @@
 ---
 aliases:
   - Atenheru Sahri
-  - being-atenhershr
 tags:
   - heroes-and-knaves
   - hero

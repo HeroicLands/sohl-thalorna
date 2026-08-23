@@ -1,7 +1,6 @@
 ---
 aliases:
   - Féthar Dhárel
-  - being-fethardhrl
 tags:
   - tamzir-crew
 name:

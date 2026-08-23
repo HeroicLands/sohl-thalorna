@@ -2,7 +2,6 @@
 aliases:
   - Valdés
   - Valdes
-  - doc-valdes
 id: 76CpaejmRGneqpDj
 type: doc
 category: settlement

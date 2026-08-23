@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-bison
 tags: []
 name:
   full: Bison

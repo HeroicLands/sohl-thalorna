@@ -2,7 +2,6 @@
 aliases:
   - Par'ri Re'en'Khensu
   - Parri ReenKhensu
-  - being-parirnkhns
 tags:
   - heroes-and-knaves
 name:

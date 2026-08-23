@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-pigeon
 tags: []
 name:
   full: Pigeon

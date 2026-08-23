@@ -2,7 +2,6 @@
 aliases:
   - Sâlimón Hâdrîkês
   - Salimon Hadrikes
-  - being-salmnhdrks
 tags:
   - draft
 name:

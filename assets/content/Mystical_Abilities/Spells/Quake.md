@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tremor
-  - mysticalability-quake
 tags: []
 name:
   full: Quake

@@ -3,7 +3,6 @@ aliases:
   - Prthîmâja Kâyadara
   - Prthîmâja Kâyadara
   - Prthimaja Kayadara
-  - being-prthmjkydr
 tags:
   - heroes-and-knaves
 name:

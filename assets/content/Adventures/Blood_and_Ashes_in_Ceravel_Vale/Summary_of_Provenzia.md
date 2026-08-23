@@ -3,7 +3,6 @@ tags:
   - draft
 aliases:
   - Summary of Provenzia
-  - doc-sumryprvnz
 id: RvfilQTQiy26gkk7
 type: doc
 name:

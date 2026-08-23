@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Taranon"
   - Táranon
   - The Thunderer
-  - skill-taranon
 tags:
   - aureldian
   - faith-skill

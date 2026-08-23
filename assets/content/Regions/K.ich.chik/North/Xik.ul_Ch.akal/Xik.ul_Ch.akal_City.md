@@ -1,7 +1,6 @@
 ---
 aliases:
   - Xik'ul Ch'akal
-  - doc-xikulchakl2
 id: YNPzMDFOQqc5veZB
 type: doc
 category: settlement

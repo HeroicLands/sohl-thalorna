@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'awiil Tza'kul
-  - doc-kawiltzakl
 tags:
   - polity
 title: ""

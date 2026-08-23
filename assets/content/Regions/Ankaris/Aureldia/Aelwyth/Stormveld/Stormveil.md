@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stormveil
-  - doc-stormveil
 id: TlYOx3SBgFES4hvV
 type: doc
 category: settlement

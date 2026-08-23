@@ -3,7 +3,6 @@ aliases:
   - Kallínikos Zygomálas
   - Kallínikos Zygomálas
   - Kallinikos Zygomalas
-  - being-klnkszygmls
 tags:
   - heroes-and-knaves
 name:

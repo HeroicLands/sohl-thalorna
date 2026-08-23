@@ -1,7 +1,6 @@
 ---
 aliases:
   - Khemenu
-  - doc-khemenu
 id: U2pzITnUVrmEUuZY
 type: doc
 category: settlement

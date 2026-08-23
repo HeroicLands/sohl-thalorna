@@ -3,7 +3,6 @@ aliases:
   - Thorsteinn Sólvargr
   - Thorsteinn Sólvargr
   - Thorsteinn Solvargr
-  - being-thrstnslvrgr
 tags:
   - heroes-and-knaves
 name:

@@ -3,7 +3,6 @@ aliases:
   - Aula Panepistemium
   - The Aula
   - Court of the Academy
-  - doc-aulpnpstmm
 tags:
   - settlement
   - vylaria

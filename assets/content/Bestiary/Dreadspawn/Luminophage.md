@@ -1,7 +1,6 @@
 ---
 aliases:
   - Luminophage
-  - being-lmnphg
 tags:
   - dreadspawn
 name:

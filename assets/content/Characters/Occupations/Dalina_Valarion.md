@@ -2,7 +2,6 @@
 aliases:
   - Dálina Valárion
   - Dalina Valarion
-  - being-dalinavlrn
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'ikin
-  - doc-tzikin
 tags:
   - polity
 title: ""

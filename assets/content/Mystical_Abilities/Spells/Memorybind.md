@@ -1,7 +1,6 @@
 ---
 aliases:
   - Recollection
-  - mysticalability-mmrybnd
 tags: []
 name:
   full: Memorybind

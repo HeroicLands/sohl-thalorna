@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Óðinn"
   - The Enlightened Path
-  - skill-odinn
 tags:
   - asguardian
   - faith-skill

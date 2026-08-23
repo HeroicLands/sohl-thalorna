@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kethara
-  - doc-kethara2
 id: b1sHNYrkFRl8FjPK
 type: doc
 category: settlement

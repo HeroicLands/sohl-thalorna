@@ -3,7 +3,6 @@ aliases:
   - Guilds of Thalorna
   - The Guild System of Thalorna
   - The Trade Guilds
-  - affiliation-guldsthlrn
 tags: []
 description: "Overview of the guild system as it functions across the realms of Thalorna — varying by region in form, prestige, and authority, but ubiquitous as the institution by which trades are organized, standards are kept, and apprentices are trained."
 package: thalorna

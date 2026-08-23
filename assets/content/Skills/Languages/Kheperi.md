@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langkhe
 tags: []
 name:
   full: Kheperi

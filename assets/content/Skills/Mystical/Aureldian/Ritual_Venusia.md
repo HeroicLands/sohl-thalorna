@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Venusia"
   - Vénusia
   - The Bountiful One
-  - skill-venusia
 tags:
   - aureldian
   - faith-skill

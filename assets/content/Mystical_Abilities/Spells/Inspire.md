@@ -1,7 +1,6 @@
 ---
 aliases:
   - Imbue
-  - mysticalability-inspire
 tags: []
 name:
   full: Inspire

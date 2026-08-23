@@ -3,7 +3,6 @@ aliases:
   - Mídhalión Region
   - Midhalion Region
   - Mídhalión
-  - doc-midhalnrgn
 tags:
   - region
 title: ""

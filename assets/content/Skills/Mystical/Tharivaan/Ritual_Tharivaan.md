@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Thári'vaan"
   - "Thári'vaan"
   - The Living Whole
-  - skill-tharivaan
 tags:
   - tharivaan
   - faith-skill

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Audrey Harding
-  - being-audryhrdng
 tags:
   - todo
   - draft

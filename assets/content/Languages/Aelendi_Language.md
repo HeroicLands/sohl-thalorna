@@ -3,7 +3,6 @@ aliases:
   - Áelendi Language
   - Aelendi Language
   - Áelendi
-  - skill-aelendlngg
 id: l4Wlk5PAtV3u84x4
 name:
   full: Áelendi Language

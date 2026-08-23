@@ -3,7 +3,6 @@ aliases:
   - Sir Andrés Lorca Knight of the Western Marches
   - Sir Andrés Lorca, Knight of the Western Marches
   - Sir Andres Lorca
-  - being-srndrslrcknghtwstrnmrchs
 tags:
   - heroes-and-knaves
   - hero

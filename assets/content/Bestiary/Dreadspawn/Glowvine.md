@@ -1,7 +1,6 @@
 ---
 aliases:
   - Glowvine
-  - being-glowvine
 tags:
   - dreadspawn
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Crimson Ledger
-  - affiliation-crimsnldgr
 tags: []
 description: "Financial crime network born from Harad's post-independence chaos, controlling money laundering, debt bondage, and the leverage that wealthy secrets provide."
 package: thalorna

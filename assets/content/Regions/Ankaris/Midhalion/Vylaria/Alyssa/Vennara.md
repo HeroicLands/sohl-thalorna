@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vennara
-  - doc-vennara
 id: Al9aRx2vVm4Tb7Ld
 type: doc
 category: settlement

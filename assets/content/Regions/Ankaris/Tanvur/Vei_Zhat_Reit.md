@@ -4,7 +4,6 @@ aliases:
   - Vei Zhat Reit
   - Jade Fan Dance
   - The Jade Fan Dance
-  - doc-veizhatret
 id: fE2uikvHIqpHgYyC
 type: doc
 category: lore

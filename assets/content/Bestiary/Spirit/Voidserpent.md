@@ -1,7 +1,6 @@
 ---
 aliases:
   - Voidserpent
-  - being-vdsrpnt
 tags:
   - spirit
 name:

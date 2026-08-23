@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hawise Ashby
-  - being-hawiseshby
 tags:
   - draft
 name:

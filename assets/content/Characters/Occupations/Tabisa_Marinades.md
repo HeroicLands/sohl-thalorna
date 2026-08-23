@@ -2,7 +2,6 @@
 aliases:
   - Tàbîsa Mârinadês
   - Tabisa Marinades
-  - being-tabismrnds
 tags:
   - draft
 name:

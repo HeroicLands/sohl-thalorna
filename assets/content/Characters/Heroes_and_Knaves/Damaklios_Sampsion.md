@@ -3,7 +3,6 @@ aliases:
   - Damáklios Sampsiôn
   - Damáklios Sampsiôn
   - Damaklios Sampsion
-  - being-damklsmpsn
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shroud
-  - mysticalability-cloak
 tags: []
 name:
   full: Cloak

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Earthcharger
-  - being-erthchrg
 tags:
   - dreadspawn
 name:

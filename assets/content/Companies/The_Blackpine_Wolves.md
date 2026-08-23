@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Blackpine Wolves
-  - doc-blckpnwlvs
 tags:
   - company
   - brigands

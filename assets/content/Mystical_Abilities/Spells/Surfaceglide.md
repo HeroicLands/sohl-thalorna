@@ -1,7 +1,6 @@
 ---
 aliases:
   - Waterwalk
-  - mysticalability-srfcgld
 tags: []
 name:
   full: Surfaceglide

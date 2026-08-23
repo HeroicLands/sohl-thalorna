@@ -1,7 +1,6 @@
 ---
 aliases:
   - Garulf Druthgar
-  - being-grlfdrthgr
 tags:
   - tamzir-crew
 name:

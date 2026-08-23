@@ -1,7 +1,6 @@
 ---
 aliases:
   - Feathercrest Velon
-  - being-fthrcrst
 tags:
   - animal
 name:

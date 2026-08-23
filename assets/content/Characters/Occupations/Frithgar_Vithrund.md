@@ -2,7 +2,6 @@
 aliases:
   - Frithgár Vithrúnd
   - Frithgar Vithrund
-  - being-frthgrvthrnd
 tags:
   - draft
 name:

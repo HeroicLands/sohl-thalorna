@@ -3,7 +3,6 @@ aliases:
   - Vedyaran Banking
   - Vedyaran Currency
   - Vedyaran Monetary System
-  - doc-vdyrnbnkng
 tags:
   - reference
   - currency

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Maréndal
-  - doc-marendal
 id: NgdpgK19TbXSBuwE
 type: doc
 category: settlement

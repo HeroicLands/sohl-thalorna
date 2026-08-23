@@ -2,7 +2,6 @@
 aliases:
   - Óvelyn Sálthar
   - Ovelyn Salthar
-  - being-ovlynslthr
 tags:
   - draft
 name:

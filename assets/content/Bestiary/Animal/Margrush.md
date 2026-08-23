@@ -1,7 +1,6 @@
 ---
 aliases:
   - Margrush
-  - being-margrush
 tags:
   - animal
 name:

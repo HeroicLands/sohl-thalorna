@@ -2,7 +2,6 @@
 aliases:
   - Úrelè Rálwen
   - Urele Ralwen
-  - being-ureleralwn
 tags:
   - draft
 name:

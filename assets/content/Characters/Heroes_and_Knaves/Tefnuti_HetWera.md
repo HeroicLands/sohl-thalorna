@@ -3,7 +3,6 @@ aliases:
   - Tefnutî HetWera
   - Tefnutî Het'Wera
   - Tefnuti HetWera
-  - being-tefnuthtwr
 tags:
   - heroes-and-knaves
 name:

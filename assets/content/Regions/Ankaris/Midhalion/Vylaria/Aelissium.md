@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aelissium
-  - doc-aelissium
 id: xwXCIHtqjRX4AyUB
 type: doc
 category: settlement

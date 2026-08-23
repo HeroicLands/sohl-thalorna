@@ -2,7 +2,6 @@
 aliases:
   - The Twinblade Order
   - Ordo Bifrons
-  - affiliation-twinbldrdr
 tags:
   - organization
   - aureldia

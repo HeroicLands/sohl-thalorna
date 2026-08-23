@@ -1,7 +1,6 @@
 ---
 aliases:
   - Karataş
-  - doc-karatas2
 id: BSpoe64cjdqnAb45
 type: doc
 category: settlement

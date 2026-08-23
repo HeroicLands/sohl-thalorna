@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langnor
 tags: []
 name:
   full: Nordmal

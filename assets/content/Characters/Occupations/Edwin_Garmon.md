@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edwin Garmon
-  - being-edwingarmn
 tags:
   - draft
 name:

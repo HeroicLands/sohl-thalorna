@@ -2,7 +2,6 @@
 aliases:
   - Kàlendrîs Korkâlenîs
   - Kalendris Korkalenis
-  - being-klndrskrklns
 tags:
   - draft
 name:

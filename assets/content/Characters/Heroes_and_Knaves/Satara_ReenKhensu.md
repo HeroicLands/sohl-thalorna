@@ -2,7 +2,6 @@
 aliases:
   - Satara Re'en'Khensu
   - Satara ReenKhensu
-  - being-satrrnkhns
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Kalihara Continent
   - Kalihara
-  - doc-klhrcntnnt
 id: uM30bv1vjebkm1kN
 tags:
   - continent

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Valdrik the Shaper
-  - being-valdrkshpr
 tags:
   - paragon
   - heroes-of-asguard

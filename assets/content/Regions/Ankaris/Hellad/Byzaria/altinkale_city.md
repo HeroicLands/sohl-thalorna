@@ -1,7 +1,6 @@
 ---
 aliases:
   - Altinkale
-  - doc-altinkale2
 id: 5MRlAq6xyBaiOMaw
 type: doc
 category: settlement

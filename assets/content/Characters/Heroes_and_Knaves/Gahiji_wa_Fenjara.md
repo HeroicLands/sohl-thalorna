@@ -3,7 +3,6 @@ aliases:
   - Gahiji wa Fénjara
   - Gahiji wa Fénjara
   - Gahiji wa Fenjara
-  - being-gahijwfnjr
 tags:
   - heroes-and-knaves
   - hero

@@ -3,7 +3,6 @@ aliases:
   - Tānvür Region
   - Tanvur
   - Tānvür
-  - doc-tanvuregin
 tags:
   - region
 title: ""

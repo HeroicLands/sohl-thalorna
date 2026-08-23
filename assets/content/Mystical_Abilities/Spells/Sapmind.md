@@ -1,7 +1,6 @@
 ---
 aliases:
   - Enervation
-  - mysticalability-sapmind
 tags: []
 name:
   full: Sapmind

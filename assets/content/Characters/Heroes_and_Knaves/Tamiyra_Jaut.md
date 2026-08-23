@@ -3,7 +3,6 @@ aliases:
   - Tamiyra Jâut
   - Ta'miyra Jâut
   - Tamiyra Jaut
-  - being-tamiyrajat
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Lôki"
   - "The Serpent's Path"
-  - skill-loki
 tags:
   - asguardian
   - faith-skill

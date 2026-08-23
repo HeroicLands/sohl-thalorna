@@ -3,7 +3,6 @@ aliases:
   - Satîya Nebakhet
   - Satîya Neb'akhet
   - Satiya Nebakhet
-  - being-satiynbkht
 tags:
   - heroes-and-knaves
 name:

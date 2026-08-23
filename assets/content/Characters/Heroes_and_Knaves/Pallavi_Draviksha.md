@@ -3,7 +3,6 @@ aliases:
   - Pallàvi Drâviksha
   - Pallàvi Drâviksha
   - Pallavi Draviksha
-  - being-palvdrvksh
 tags:
   - heroes-and-knaves
 name:

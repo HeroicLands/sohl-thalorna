@@ -3,7 +3,6 @@ aliases:
   - Dharmàpala Vimuktaṇa
   - Dharmàpala Vimuktaṇa
   - Dharmapala Vimuktana
-  - being-dhrmplvmkt
 tags:
   - heroes-and-knaves
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ordo Arcanis
-  - affiliation-ordoarcanis
 tags:
   - organization
   - arcane

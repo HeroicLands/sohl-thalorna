@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ulfheim
-  - doc-ulfheim
 id: f9A9olzNoCl9wH8h
 type: doc
 category: settlement

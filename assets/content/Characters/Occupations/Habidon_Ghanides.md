@@ -2,7 +2,6 @@
 aliases:
   - Habìdon Ghânîdês
   - Habidon Ghanides
-  - being-habdnghnds
 tags:
   - todo-warrior
   - draft

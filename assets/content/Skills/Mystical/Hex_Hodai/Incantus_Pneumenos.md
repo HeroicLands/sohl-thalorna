@@ -2,7 +2,6 @@
 aliases:
   - Incantus Pneuménos
   - Incantus Pneumenos
-  - skill-pneumenos
 tags:
   - hex-hodai
 type: skill

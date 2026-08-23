@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Baldr
-  - affiliation-baldr
 id: Pq6R3ldqtsAdv36s
 tags:
   - asguardian

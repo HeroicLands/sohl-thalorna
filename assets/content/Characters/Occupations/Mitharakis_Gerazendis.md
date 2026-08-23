@@ -2,7 +2,6 @@
 aliases:
   - Mitharâkîs Gêrazêndis
   - Mitharakis Gerazendis
-  - being-mthrksgrznds
 tags:
   - draft
 name:

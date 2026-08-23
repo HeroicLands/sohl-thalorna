@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-shark
 tags: []
 name:
   full: Shark

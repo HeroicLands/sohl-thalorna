@@ -3,7 +3,6 @@ aliases:
   - K'ich'chik Continent
   - K'ich'chik
   - Kichchik
-  - doc-kchchkcntnnt
 tags:
   - continent
   - kichchik

@@ -3,7 +3,6 @@ aliases:
   - Tānlüng
   - Tanlung
   - Celestial Dragon
-  - affiliation-tanlung
 id: TqEEmxeY03YCJrt1
 tags:
   - celestial-official

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pinnhald
-  - doc-pinnhald
 id: Mk6yPx4kVm8Sb3Ld
 type: doc
 category: settlement

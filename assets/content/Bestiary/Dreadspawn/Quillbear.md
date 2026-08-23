@@ -1,7 +1,6 @@
 ---
 aliases:
   - Quillbear
-  - being-qllbr
 tags:
   - dreadspawn
 name:

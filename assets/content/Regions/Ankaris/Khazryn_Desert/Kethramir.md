@@ -2,7 +2,6 @@
 aliases:
   - Kethramír
   - Kethramir
-  - doc-kethramir
 id: GkOSX9uDj3AmjiVz
 type: doc
 category: settlement

@@ -4,7 +4,6 @@ aliases:
   - Keeper of Truth and Harmony
   - Má'át
   - Maat
-  - affiliation-maat
 id: 8UDuoqZwGQlSCCc7
 tags:
   - kemetian

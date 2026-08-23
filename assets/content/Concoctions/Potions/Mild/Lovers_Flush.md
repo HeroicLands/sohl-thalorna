@@ -2,7 +2,6 @@
 aliases:
   - "Lover's Flush"
   - "Potion, Aphrodisiac, Mild"
-  - concoctiongear-PtnAphrM
 tags:
   - mild-elixir
 name:

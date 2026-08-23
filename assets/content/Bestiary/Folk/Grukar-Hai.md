@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grukar-Hai
-  - being-grkrh
 tags:
   - folk
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Repel
-  - mysticalability-pushback
 tags: []
 name:
   full: Pushback

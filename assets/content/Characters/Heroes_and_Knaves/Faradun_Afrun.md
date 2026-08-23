@@ -3,7 +3,6 @@ aliases:
   - Faradûn Afrûn
   - Faradûn Afrûn
   - Faradun Afrun
-  - being-faradunfrn
 tags:
   - heroes-and-knaves
 name:

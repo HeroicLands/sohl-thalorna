@@ -1,7 +1,6 @@
 ---
 aliases:
   - Osmund Winwick
-  - being-osmndwnwck
 tags:
   - draft
 name:

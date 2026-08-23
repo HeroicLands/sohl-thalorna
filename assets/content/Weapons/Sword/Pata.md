@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pata
-  - weapongear-Pata
 tags: []
 name:
   full: Pata

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Icewalk
-  - mysticalability-glide
 tags: []
 name:
   full: Glide

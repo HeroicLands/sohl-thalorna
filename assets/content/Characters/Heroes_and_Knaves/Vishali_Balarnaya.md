@@ -3,7 +3,6 @@ aliases:
   - Vishali Bâlarṇaya
   - Vishali Bâlarṇaya
   - Vishali Balarnaya
-  - being-vishalblry
 tags:
   - heroes-and-knaves
 name:

@@ -3,7 +3,6 @@ aliases:
   - Guthrún Sólvargr
   - Guthrún Sólvargr
   - Guthrun Solvargr
-  - being-gthrnslvrgr
 tags:
   - heroes-and-knaves
 name:

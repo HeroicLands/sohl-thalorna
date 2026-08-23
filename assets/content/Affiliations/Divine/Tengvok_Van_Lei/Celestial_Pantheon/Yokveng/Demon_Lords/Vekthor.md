@@ -2,7 +2,6 @@
 aliases:
   - Vëkthōr
   - Vekthor
-  - affiliation-vekthor
 id: 0kTT7LeB6E2TfzZ8
 tags:
   - demon-lord

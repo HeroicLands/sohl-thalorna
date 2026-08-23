@@ -1,7 +1,6 @@
 ---
 aliases:
   - Frostmark
-  - doc-frostmark
 id: 1Rtw3Owv91p4f5yA
 type: doc
 category: settlement

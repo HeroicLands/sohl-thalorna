@@ -2,7 +2,6 @@
 aliases:
   - Nüshöt
   - Nushot
-  - affiliation-nushot
 id: jSZj1XCp5ar3UznI
 tags:
   - demon-lord

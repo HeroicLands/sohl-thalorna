@@ -2,7 +2,6 @@
 aliases:
   - Incantus Zephäris
   - Incantus Zepharis
-  - skill-zepharis
 tags:
   - hex-hodai
 type: skill

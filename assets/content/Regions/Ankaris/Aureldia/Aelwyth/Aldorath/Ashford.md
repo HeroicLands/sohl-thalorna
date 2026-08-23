@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ashford
-  - doc-ashford
 id: RMwDrWEzwzEajWbh
 type: doc
 category: settlement

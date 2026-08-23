@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pocket
-  - mysticalability-haven
 tags: []
 name:
   full: Haven

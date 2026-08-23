@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kvenndal
-  - doc-kvenndal
 id: hlCieAQkrHQguMjN
 type: doc
 category: settlement

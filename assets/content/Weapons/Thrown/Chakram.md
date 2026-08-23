@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chakram
-  - weapongear-Chak
 tags: []
 name:
   full: Chakram

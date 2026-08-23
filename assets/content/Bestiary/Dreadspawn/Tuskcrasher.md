@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tuskcrasher
-  - being-tskcrshr
 tags:
   - dreadspawn
 name:

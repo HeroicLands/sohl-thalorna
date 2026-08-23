@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mithran Shiradar
-  - being-mthrnshrdr
 tags:
   - heroes-and-knaves
 name:

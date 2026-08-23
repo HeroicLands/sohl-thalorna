@@ -1,7 +1,6 @@
 ---
 aliases:
   - Leofrun Chilwell
-  - being-lefrnchlwl
 tags:
   - draft
 name:

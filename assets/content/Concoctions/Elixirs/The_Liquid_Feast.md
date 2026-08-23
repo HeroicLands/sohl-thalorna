@@ -2,7 +2,6 @@
 aliases:
   - The Liquid Feast
   - Sustenance Elixir
-  - concoctiongear-ElxSus
 tags:
   - elixir
 name:

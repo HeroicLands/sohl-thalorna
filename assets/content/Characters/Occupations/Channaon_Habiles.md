@@ -2,7 +2,6 @@
 aliases:
   - Chánnâon Hàbîlês
   - Channaon Habiles
-  - being-chananhbls
 tags:
   - draft
 name:

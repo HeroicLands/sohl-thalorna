@@ -4,7 +4,6 @@ aliases:
   - Mahā-Saṅgha of Vedyara
   - The Vedyari Janapadas
   - The Temple-Republics of Vedyara
-  - doc-janpdsvdyr
 tags: []
 type: doc
 category: polity

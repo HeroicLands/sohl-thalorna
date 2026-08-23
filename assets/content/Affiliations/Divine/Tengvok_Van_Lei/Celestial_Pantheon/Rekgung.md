@@ -2,7 +2,6 @@
 aliases:
   - Rëkgüng
   - Rekgung
-  - affiliation-rekgung
 id: Rcy18TVK0IWJnRSv
 tags:
   - celestial-official

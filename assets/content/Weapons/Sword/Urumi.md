@@ -1,7 +1,6 @@
 ---
 aliases:
   - Urumi
-  - weapongear-Urumi
 tags: []
 name:
   full: Urumi

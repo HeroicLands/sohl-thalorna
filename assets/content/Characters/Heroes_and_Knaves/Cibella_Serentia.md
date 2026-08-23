@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cibella Serentia
-  - being-cibelasrnt
 tags:
   - tamzir-crew
 name:

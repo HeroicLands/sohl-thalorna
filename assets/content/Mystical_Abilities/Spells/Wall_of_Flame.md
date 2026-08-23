@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wall of Flame
-  - mysticalability-wllfflm
 tags: []
 name:
   full: Wall of Flame

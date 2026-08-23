@@ -4,7 +4,6 @@ aliases:
   - Æthería
   - Aetheria
   - The Veiled Dreamer
-  - skill-aetheria
 tags:
   - aureldian
   - faith-skill

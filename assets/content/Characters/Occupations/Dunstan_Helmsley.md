@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dunstan Helmsley
-  - being-dnstnhlmsly
 tags:
   - draft
 name:

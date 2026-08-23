@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Ymir"
   - "The Divine Architect's Path"
-  - skill-ymir
 tags:
   - asguardian
   - faith-skill

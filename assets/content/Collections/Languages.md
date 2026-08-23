@@ -1,7 +1,6 @@
 ---
 aliases:
   - Languages
-  - doc-languages
 id: P5bCjJZ6CRTCDPjl
 name:
   full: Languages

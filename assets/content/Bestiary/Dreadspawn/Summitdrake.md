@@ -1,7 +1,6 @@
 ---
 aliases:
   - Summitdrake
-  - being-smmtdrk
 tags:
   - dreadspawn
 name:

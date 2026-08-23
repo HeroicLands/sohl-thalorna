@@ -1,7 +1,6 @@
 ---
 aliases:
   - Well
-  - mysticalability-pwrfnt
 tags: []
 name:
   full: Powerfont

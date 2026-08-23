@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz’alam Witz
-  - doc-tzalamwitz
 id: 8WCUTA2ntRJRWHRO
 type: doc
 category: settlement

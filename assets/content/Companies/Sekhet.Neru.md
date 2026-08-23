@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sekhet'Neru
-  - doc-sekhetneru
 tags:
   - company
   - hunters

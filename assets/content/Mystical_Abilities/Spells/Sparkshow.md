@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-sprkshw
 tags: []
 name:
   full: Sparkshow

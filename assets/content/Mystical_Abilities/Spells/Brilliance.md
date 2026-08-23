@@ -1,7 +1,6 @@
 ---
 aliases:
   - Flash
-  - mysticalability-brllnc
 tags: []
 name:
   full: Brilliance

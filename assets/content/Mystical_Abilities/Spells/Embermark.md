@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-embrmrk
 tags: []
 name:
   full: Embermark

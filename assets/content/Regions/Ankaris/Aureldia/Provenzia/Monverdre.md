@@ -2,7 +2,6 @@
 aliases:
   - Monvèrdre
   - Monverdre
-  - doc-monverdre
 id: gcqQMrf3iloHRPXm
 type: doc
 category: settlement

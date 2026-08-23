@@ -4,7 +4,6 @@ aliases:
   - The Two Pillars of Bethûa
   - The Mêtríssa
   - The Sacred College and the Council of Houses
-  - doc-gvrnmntbth
 tags:
   - government
   - bethua

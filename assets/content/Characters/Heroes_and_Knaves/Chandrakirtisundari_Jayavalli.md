@@ -3,7 +3,6 @@ aliases:
   - Chandrakīrtisundarī Jayavalli
   - Chandrakīrtisundarī Jayavalli
   - Chandrakirtisundari Jayavalli
-  - being-chndrkrtsndrjyvl
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Zhütshüt Lüng
   - Zhutshut Lung
-  - affiliation-zhutshtlng
 id: uKG7YwrB6Z7ZXJVP
 tags:
   - celestial-order

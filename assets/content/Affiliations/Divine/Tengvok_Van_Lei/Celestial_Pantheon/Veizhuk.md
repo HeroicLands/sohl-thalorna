@@ -2,7 +2,6 @@
 aliases:
   - Vëizhük
   - Veizhuk
-  - affiliation-veizhuk
 id: 9NGsHssTmzCM7m7A
 tags:
   - celestial-official

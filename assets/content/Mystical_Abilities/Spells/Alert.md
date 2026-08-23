@@ -1,7 +1,6 @@
 ---
 aliases:
   - Alarm
-  - mysticalability-alert
 tags: []
 name:
   full: Alert

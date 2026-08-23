@@ -3,7 +3,6 @@ aliases:
   - Drákonis Dalássênos
   - Drákonis Dalássênos
   - Drakonis Dalassenos
-  - being-drknsdlsns
 tags:
   - heroes-and-knaves
 name:

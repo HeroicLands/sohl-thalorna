@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz’alam Ha’
-  - doc-tzalamha
 id: oq4gDoiYMztl68Ri
 type: doc
 category: settlement

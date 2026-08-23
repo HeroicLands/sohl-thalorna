@@ -1,7 +1,6 @@
 ---
 aliases:
   - Perspective
-  - mysticalability-overview
 tags: []
 name:
   full: Overview

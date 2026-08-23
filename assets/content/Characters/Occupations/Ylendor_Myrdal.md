@@ -2,7 +2,6 @@
 aliases:
   - Yléndor Mýrdal
   - Ylendor Myrdal
-  - being-ylndrmyrdl
 tags:
   - draft
 name:

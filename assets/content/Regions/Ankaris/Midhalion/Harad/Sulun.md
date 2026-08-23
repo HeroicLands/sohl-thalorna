@@ -2,7 +2,6 @@
 aliases:
   - Sulûn
   - Sulun
-  - doc-sulun
 id: 5mm5ufJ2syvYaFP8
 type: doc
 category: settlement

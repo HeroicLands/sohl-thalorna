@@ -1,7 +1,6 @@
 ---
 aliases:
   - Green Dragon Crescent Blade
-  - weapongear-GunDao
 tags: []
 name:
   full: Green Dragon Crescent Blade

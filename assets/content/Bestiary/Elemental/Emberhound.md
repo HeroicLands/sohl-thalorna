@@ -1,7 +1,6 @@
 ---
 aliases:
   - Emberhound
-  - being-embrhnd
 tags:
   - elemental
 name:

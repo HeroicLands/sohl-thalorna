@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Ángáróš"
   - The Shadowed Serpent
-  - skill-angaros
 tags:
   - ashalan
   - faith-skill

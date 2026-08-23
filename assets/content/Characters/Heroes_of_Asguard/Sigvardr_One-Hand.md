@@ -2,7 +2,6 @@
 aliases:
   - Sigvarðr One-Hand
   - Sigvardr One-Hand
-  - being-sgvrdrnhnd
 tags:
   - paragon
   - heroes-of-asguard

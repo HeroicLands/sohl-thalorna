@@ -1,7 +1,6 @@
 ---
 aliases:
   - Balamkul
-  - doc-balamkul2
 id: LXNjgk0sJIzvtzuS
 type: doc
 category: settlement

@@ -2,7 +2,6 @@
 aliases:
   - Cinder Kiss
   - "Potion, Aphrodisiac, Strong"
-  - concoctiongear-PtnAphrS
 tags:
   - strong-elixir
 name:

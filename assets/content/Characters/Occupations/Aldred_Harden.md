@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aldred Harden
-  - being-aldredhrdn
 tags:
   - draft
 name:

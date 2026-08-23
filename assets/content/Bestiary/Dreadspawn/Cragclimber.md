@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cragclimber
-  - being-crgclmbr
 tags:
   - dreadspawn
 name:

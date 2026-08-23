@@ -1,7 +1,6 @@
 ---
 aliases:
   - Doom Flame
-  - mysticalability-hellfire
 tags: []
 name:
   full: Hellfire

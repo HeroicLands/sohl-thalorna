@@ -2,7 +2,6 @@
 aliases:
   - "Pyréthos's Hearth"
   - Warmth Elixir
-  - concoctiongear-ElxWrm
 tags:
   - elixir
 name:

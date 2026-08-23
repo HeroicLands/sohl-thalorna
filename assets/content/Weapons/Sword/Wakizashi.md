@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wakizashi
-  - weapongear-Waki
 tags: []
 name:
   full: Wakizashi

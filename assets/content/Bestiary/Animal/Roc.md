@@ -1,7 +1,6 @@
 ---
 aliases:
   - Roc
-  - being-roc
 tags:
   - animal
 name:

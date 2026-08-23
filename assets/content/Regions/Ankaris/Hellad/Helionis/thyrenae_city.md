@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thyrenae
-  - doc-thyrenae2
 id: N2RXl0qu1TbhTref
 type: doc
 category: settlement

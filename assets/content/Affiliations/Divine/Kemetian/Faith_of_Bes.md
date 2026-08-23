@@ -2,7 +2,6 @@
 aliases:
   - Faith of Bēs
   - Bēs, Guardian of Night Visions
-  - affiliation-bes
 id: 8k2bg7XUvvF6NUSI
 tags:
   - kemetian

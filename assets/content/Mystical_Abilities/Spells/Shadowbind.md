@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gloomweb
-  - mysticalability-shdwbnd
 tags: []
 name:
   full: Shadowbind

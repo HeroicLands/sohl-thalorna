@@ -1,7 +1,6 @@
 ---
 aliases:
   - Boulderback
-  - being-bldrbck
 tags:
   - dreadspawn
 name:

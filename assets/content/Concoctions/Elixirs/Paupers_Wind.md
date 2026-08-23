@@ -2,7 +2,6 @@
 aliases:
   - "Pauper's Wind"
   - Airtap Elixir
-  - concoctiongear-ElxAir
 tags:
   - elixir
 name:

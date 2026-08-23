@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Árávēštä"
   - The Golden Giver
-  - skill-aravesta
 tags:
   - ashalan
   - faith-skill

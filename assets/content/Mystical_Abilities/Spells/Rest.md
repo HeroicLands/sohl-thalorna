@@ -1,7 +1,6 @@
 ---
 aliases:
   - Slumber
-  - mysticalability-rest
 tags: []
 name:
   full: Rest

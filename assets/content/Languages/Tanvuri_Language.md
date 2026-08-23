@@ -4,7 +4,6 @@ aliases:
   - Tanvuri Language
   - Tānvüri
   - Tanvuri
-  - doc-tnvrlnggrfrnc
 id: JGgV3y4ISQ4MXFrD
 type: doc
 category: lore

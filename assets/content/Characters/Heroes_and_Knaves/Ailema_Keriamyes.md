@@ -3,7 +3,6 @@ aliases:
   - Ailêmâ Kêrîamyês
   - Ailêmâ Kêrîamyês
   - Ailema Keriamyes
-  - being-ailemkrmys
 tags:
   - heroes-and-knaves
 name:

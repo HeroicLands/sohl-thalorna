@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thornback Boar
-  - being-thrnbckb
 tags:
   - animal
 name:

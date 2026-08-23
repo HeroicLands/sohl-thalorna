@@ -2,7 +2,6 @@
 aliases:
   - Míravel
   - Miravel
-  - doc-miravel
 id: iijF0jFCjTiDjPQA
 type: doc
 category: settlement

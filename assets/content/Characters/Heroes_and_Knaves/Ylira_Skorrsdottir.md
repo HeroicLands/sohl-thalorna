@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ylíra Skorrsdottir
-  - being-ylrskrsdtr
 tags:
   - tamzir-crew
 name:

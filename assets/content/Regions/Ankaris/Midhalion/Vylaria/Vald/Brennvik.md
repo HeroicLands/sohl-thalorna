@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brennvik
-  - doc-brennvik
 id: Vd5vNx3kBp8Rb2Lt
 type: doc
 category: settlement

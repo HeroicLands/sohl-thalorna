@@ -3,7 +3,6 @@ aliases:
   - Nome of Ankh-Setûn
   - Ankh-Setûn Nome
   - Nome of Ankh-Setun
-  - doc-nomenkhstn
 id: IDGs9tpN72HDk056
 description: "The great granary nome of the Ta'Kheperu upper river — the empire's fullest storehouse, where the broadest flood-silt wheatlands, the deepest granaries, and the river-port of Meru-Hotep together make this the breadbasket that feeds the capital and the army."
 type: doc

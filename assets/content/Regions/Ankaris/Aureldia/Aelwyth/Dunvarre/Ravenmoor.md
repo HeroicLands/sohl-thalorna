@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ravenmoor
-  - doc-ravenmoor
 id: mwtTAWXEPhrvwxHS
 type: doc
 category: settlement

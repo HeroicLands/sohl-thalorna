@@ -1,7 +1,6 @@
 ---
 aliases:
   - Katar
-  - weapongear-Katr
 tags: []
 name:
   full: Katar

@@ -2,7 +2,6 @@
 aliases:
   - Hallveig Stormrót
   - Hallveig Stormrot
-  - being-hlvgstrmrt
 tags:
   - draft
 name:

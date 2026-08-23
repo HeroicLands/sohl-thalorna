@@ -2,7 +2,6 @@
 aliases:
   - Salve of the Mind
   - Mindslave Elixir
-  - concoctiongear-ElxMsl
 tags:
   - elixir
 name:

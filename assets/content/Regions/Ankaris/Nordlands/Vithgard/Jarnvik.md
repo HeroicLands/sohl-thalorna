@@ -2,7 +2,6 @@
 aliases:
   - Járnvík
   - Jarnvik
-  - doc-jarnvik
 id: JVjT5UI2QiINN8NC
 type: doc
 category: settlement

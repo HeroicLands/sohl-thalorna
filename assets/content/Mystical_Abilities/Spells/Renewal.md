@@ -1,7 +1,6 @@
 ---
 aliases:
   - Regenesis
-  - mysticalability-renewal
 tags: []
 name:
   full: Renewal

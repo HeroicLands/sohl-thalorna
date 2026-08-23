@@ -1,7 +1,6 @@
 ---
 aliases:
   - Corvinus
-  - doc-corvinus
 id: 0yneTHleAxbUv6TI
 type: doc
 category: settlement

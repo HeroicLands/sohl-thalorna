@@ -3,7 +3,6 @@ aliases:
   - World Population
   - Population of Thalorna
   - Thalorna Demographics
-  - doc-wrldppltnthlrn
 tags:
   - reference
   - demographics

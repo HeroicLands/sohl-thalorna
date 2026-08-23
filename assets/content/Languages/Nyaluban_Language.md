@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nyáluban
-  - doc-nyalbnlngg
 id: LbRTHShoLdT9NPCE
 name:
   full: Nyáluban Language

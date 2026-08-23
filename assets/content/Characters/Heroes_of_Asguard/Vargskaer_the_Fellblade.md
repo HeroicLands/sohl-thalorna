@@ -2,7 +2,6 @@
 aliases:
   - Vargskær the Fellblade
   - Vargskaer the Fellblade
-  - being-vrgskrflbld
 tags:
   - demigod
   - heroes-of-asguard

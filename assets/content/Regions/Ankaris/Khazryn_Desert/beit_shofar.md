@@ -1,7 +1,6 @@
 ---
 aliases:
   - Beit-Shōfár
-  - doc-beitshofar
 id: Jh8qC0VOgrks0Ums
 type: doc
 category: settlement

@@ -3,7 +3,6 @@ aliases:
   - Sharmînah Tahvân
   - Sharmînah Tahvân
   - Sharminah Tahvan
-  - being-shrmnhthvn
 tags:
   - heroes-and-knaves
   - todo

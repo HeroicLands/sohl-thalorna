@@ -2,7 +2,6 @@
 aliases:
   - Khatah Mey'khari
   - Khatah Meykhari
-  - being-khathmykhr
 tags:
   - heroes-and-knaves
 name:

@@ -5,7 +5,6 @@ aliases:
   - The Khazran
   - Princes of the Khazran
   - The League of Princely Houses
-  - doc-khzrncnfdrtn
 tags: []
 type: doc
 category: polity

@@ -2,7 +2,6 @@
 aliases:
   - Girmûn Takkûnûm
   - Girmun Takkunum
-  - being-girmuntknm
 tags:
   - draft
 name:

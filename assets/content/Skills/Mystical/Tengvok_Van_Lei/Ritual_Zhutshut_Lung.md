@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Zhütshüt Lüng"
   - Zhütshüt Lüng
   - Zhutshut Lung
-  - skill-zhutshtlng
 tags:
   - celestial-pantheon
   - faith-skill

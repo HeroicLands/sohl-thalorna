@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-goose
 tags: []
 name:
   full: Goose

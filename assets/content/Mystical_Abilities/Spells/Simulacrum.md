@@ -1,7 +1,6 @@
 ---
 aliases:
   - False Soul
-  - mysticalability-smlcrm
 tags: []
 name:
   full: Simulacrum

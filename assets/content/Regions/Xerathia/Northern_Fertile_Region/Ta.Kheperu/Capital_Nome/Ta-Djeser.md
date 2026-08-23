@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ta-Djeser
-  - doc-tadjeser
 id: qqUbZEiqy6oeywb6
 type: doc
 category: settlement

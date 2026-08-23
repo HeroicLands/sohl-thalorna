@@ -2,7 +2,6 @@
 aliases:
   - Hármund Garwald
   - Harmund Garwald
-  - being-hrmndgrwld
 tags:
   - draft
 name:

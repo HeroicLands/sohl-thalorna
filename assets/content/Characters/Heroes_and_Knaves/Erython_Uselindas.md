@@ -3,7 +3,6 @@ aliases:
   - Érython Ûselîndâs
   - Érython Ûselîndâs
   - Erython Uselindas
-  - being-erythnslnds
 tags:
   - heroes-and-knaves
 name:

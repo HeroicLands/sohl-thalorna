@@ -1,7 +1,6 @@
 ---
 aliases:
   - Yeşilhan
-  - doc-yesilhan2
 id: pIq5WRv3f9mIgJHz
 type: doc
 category: settlement

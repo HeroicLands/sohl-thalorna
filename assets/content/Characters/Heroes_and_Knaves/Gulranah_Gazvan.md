@@ -3,7 +3,6 @@ aliases:
   - Gulrânah Gazvân
   - Gulrânah Gazvân
   - Gulranah Gazvan
-  - being-gulrnhgzvn
 tags:
   - heroes-and-knaves
 name:

@@ -3,7 +3,6 @@ aliases:
   - Qâmira Lamari
   - Qâmira Lamari
   - Qamira Lamari
-  - being-qamiralamr
 tags:
   - heroes-and-knaves
 name:

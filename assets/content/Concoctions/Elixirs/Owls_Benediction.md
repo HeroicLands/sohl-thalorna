@@ -2,7 +2,6 @@
 aliases:
   - "Owl's Benediction"
   - Darkvision Elixir
-  - concoctiongear-ElxDrk
 tags:
   - elixir
 name:

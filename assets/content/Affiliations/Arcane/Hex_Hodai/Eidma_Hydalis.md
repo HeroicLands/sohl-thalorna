@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Hydälis
-  - affiliation-hydalis
 tags:
   - hex-hodai
 type: affiliation

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nurture
-  - mysticalability-foster
 tags: []
 name:
   full: Foster

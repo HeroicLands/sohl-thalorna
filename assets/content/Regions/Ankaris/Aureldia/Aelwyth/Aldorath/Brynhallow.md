@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brynhallow
-  - doc-brynhallow
 id: TowEWAGcIliRpar1
 type: doc
 category: settlement

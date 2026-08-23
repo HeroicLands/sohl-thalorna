@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-turkey
 tags: []
 name:
   full: Turkey

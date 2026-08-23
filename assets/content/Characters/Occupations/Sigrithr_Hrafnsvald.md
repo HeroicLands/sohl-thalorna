@@ -2,7 +2,6 @@
 aliases:
   - Sigríthr Hrafnsvald
   - Sigrithr Hrafnsvald
-  - being-sgrthrhrfnsvld
 tags:
   - draft
 name:

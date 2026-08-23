@@ -1,7 +1,6 @@
 ---
 aliases:
   - Warg
-  - being-warg
 tags:
   - mythic
   - image-needed

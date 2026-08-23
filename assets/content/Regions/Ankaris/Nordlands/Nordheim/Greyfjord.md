@@ -1,7 +1,6 @@
 ---
 aliases:
   - Greyfjord
-  - doc-greyfjord
 id: OD0mDmXO2Yykzwee
 type: doc
 category: settlement

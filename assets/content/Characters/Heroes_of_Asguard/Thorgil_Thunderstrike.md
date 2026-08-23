@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thorgil Thunderstrike
-  - being-thrglthndrstrk
 tags:
   - paragon
   - heroes-of-asguard

@@ -2,7 +2,6 @@
 aliases:
   - Thornak Blodtūsc Bār
   - Thornak Mahnlin
-  - being-thrnkbldtscbr
 tags:
   - heroes-and-knaves
   - hero

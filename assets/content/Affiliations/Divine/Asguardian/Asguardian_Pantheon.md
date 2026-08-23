@@ -2,7 +2,6 @@
 aliases:
   - Asguardian Pantheon
   - Asguardian pantheon
-  - affiliation-asguardian
 id: iC8956babRawiH7S
 tags:
   - pantheon

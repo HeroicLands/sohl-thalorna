@@ -2,7 +2,6 @@
 aliases:
   - Old Fire Dragon
   - Fire Wyrm
-  - being-oldfrdrg
 tags:
   - mythic
   - image-needed

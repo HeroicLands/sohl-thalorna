@@ -2,7 +2,6 @@
 aliases:
   - Ázîta Râkhrîdês
   - Azita Rakhrides
-  - being-azitrkhrds
 tags:
   - draft
 name:

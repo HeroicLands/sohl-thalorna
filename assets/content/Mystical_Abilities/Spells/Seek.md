@@ -1,7 +1,6 @@
 ---
 aliases:
   - Detect
-  - mysticalability-seek
 tags: []
 name:
   full: Seek

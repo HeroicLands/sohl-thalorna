@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wind
-  - mysticalability-gust
 tags: []
 name:
   full: Gust

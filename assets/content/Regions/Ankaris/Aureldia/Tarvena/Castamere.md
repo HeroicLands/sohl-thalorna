@@ -1,7 +1,6 @@
 ---
 aliases:
   - Castamere
-  - doc-castamere
 id: lR8iAwaI3Q3MlekO
 type: doc
 category: settlement

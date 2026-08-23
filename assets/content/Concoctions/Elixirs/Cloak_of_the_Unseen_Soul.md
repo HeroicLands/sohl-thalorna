@@ -2,7 +2,6 @@
 aliases:
   - Cloak of the Unseen Soul
   - Soulcloak Elixir
-  - concoctiongear-ElxSCl
 tags:
   - elixir
 name:

@@ -5,7 +5,6 @@ aliases:
   - The Black Lotus Society
   - Black Lotus Society
   - The Black Lotus
-  - affiliation-heklotzhak
 tags: []
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
 package: thalorna

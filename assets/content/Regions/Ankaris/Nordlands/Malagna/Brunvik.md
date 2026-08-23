@@ -2,7 +2,6 @@
 aliases:
   - Brúnvík
   - Brunvik
-  - doc-brunvik
 id: iEFZaB0kHPIfjSfz
 type: doc
 category: settlement

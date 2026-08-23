@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Báhrámiš"
   - The Thunder Rider
   - Storm God
-  - skill-bahramis
 tags:
   - ashalan
   - faith-skill

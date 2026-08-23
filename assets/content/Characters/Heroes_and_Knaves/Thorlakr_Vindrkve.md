@@ -3,7 +3,6 @@ aliases:
   - Thorlákr Vindrkvé
   - Thorlákr Vindrkvé
   - Thorlakr Vindrkve
-  - being-thrlkrvndrkv
 tags:
   - heroes-and-knaves
 name:

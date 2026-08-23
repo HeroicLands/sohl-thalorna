@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-balamkul
 tags:
   - polity
 title: ""

@@ -2,7 +2,6 @@
 aliases:
   - Whispertread
   - Footpad Elixir
-  - concoctiongear-ElxFtp
 tags:
   - elixir
 name:

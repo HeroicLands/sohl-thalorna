@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kalydria
-  - doc-kalydria
 id: qhGJBzRz3jQRVBHs
 description: "Cultural jewel of the Helionite city-states — oligarchy of patron-families whose theaters, sculptors, and the Academy of the Silver Veil set artistic fashion across western Ankaris, and whose hetairai-graduates carry an unofficial intelligence web through every salon worth knowing."
 type: doc

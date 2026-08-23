@@ -5,7 +5,6 @@ aliases:
   - Hurnzhuk
   - The Lord of the Unclassified
   - The First Refusal
-  - skill-hurnzhuk
 tags:
   - celestial-pantheon
   - faith-skill

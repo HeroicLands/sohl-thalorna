@@ -3,7 +3,6 @@ aliases:
   - Vīrāṅgaśikharam Dukṣana
   - Vīrāṅgaśikharam Dukṣana
   - Virangasikharam Duksana
-  - being-vrgskhrmdkn
 tags:
   - heroes-and-knaves
 name:

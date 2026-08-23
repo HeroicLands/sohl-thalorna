@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mystical Abilities
-  - doc-mystclblts2
 id: sljSrCVNlGMCzI7j
 name:
   full: Mystical Abilities

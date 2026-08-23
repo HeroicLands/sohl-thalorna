@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lance
-  - mysticalability-pierce
 tags: []
 name:
   full: Pierce

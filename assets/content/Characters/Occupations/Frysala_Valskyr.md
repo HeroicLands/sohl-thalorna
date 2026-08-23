@@ -2,7 +2,6 @@
 aliases:
   - Frýsala Válskyr
   - Frysala Valskyr
-  - being-fryslvlskyr
 tags:
   - draft
 name:

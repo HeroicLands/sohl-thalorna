@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gloomhound
-  - being-glmhnd
 tags:
   - spirit
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curtain
-  - mysticalability-shdwscrn
 tags: []
 name:
   full: Shadowscreen

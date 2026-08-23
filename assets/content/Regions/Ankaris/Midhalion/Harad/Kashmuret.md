@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kashmuret
-  - doc-kashmuret
 id: OuVksHRIQjPWu72i
 type: doc
 category: settlement

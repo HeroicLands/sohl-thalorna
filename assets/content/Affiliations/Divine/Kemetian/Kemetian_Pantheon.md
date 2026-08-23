@@ -2,7 +2,6 @@
 aliases:
   - Kemetian Pantheon
   - Kemetian
-  - affiliation-kemtnpnthn
 id: Tmc9larsiBHNJ3ZD
 tags:
   - pantheon

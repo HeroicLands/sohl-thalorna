@@ -2,7 +2,6 @@
 aliases:
   - Tàlîma Thamîrîon
   - Talima Thamirion
-  - being-talimthmrn
 tags:
   - draft
 name:

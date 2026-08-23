@@ -2,7 +2,6 @@
 aliases:
   - Hallbjǫrn Ásgrind
   - Hallbjorn Asgrind
-  - being-hlbjrnsgrnd
 tags:
   - draft
 name:

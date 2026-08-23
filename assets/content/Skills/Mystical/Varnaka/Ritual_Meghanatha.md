@@ -4,7 +4,6 @@ aliases:
   - Meghanātha
   - Meghanatha
   - Lord of Thunder
-  - skill-meghanatha
 tags:
   - varnaka
   - faith-skill

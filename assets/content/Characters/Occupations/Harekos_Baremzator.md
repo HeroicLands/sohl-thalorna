@@ -2,7 +2,6 @@
 aliases:
   - Hàrêkôs Bàremzâtôr
   - Harekos Baremzator
-  - being-hrksbrmztr
 tags:
   - draft
 name:

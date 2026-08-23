@@ -2,7 +2,6 @@
 aliases:
   - Alvárik Árenthal
   - Alvarik Arenthal
-  - being-alvrkrnthl
 tags:
   - draft
 name:

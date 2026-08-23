@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mould
-  - mysticalability-shaper
 tags: []
 name:
   full: Shaper

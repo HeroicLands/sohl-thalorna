@@ -1,7 +1,6 @@
 ---
 aliases:
   - Personal Names
-  - doc-personlnms
 id: LgGLhQV6dRATDaEB
 type: doc
 category: lore

@@ -2,7 +2,6 @@
 aliases:
   - Thórir Eldskari
   - Thorir Eldskari
-  - being-thorrldskr
 tags:
   - todo-warrior
   - draft

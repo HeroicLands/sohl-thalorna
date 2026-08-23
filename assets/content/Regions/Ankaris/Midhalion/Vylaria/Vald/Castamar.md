@@ -1,7 +1,6 @@
 ---
 aliases:
   - Castamar
-  - doc-castamar
 id: Vd9rKx2mWp7Tb4Ln
 type: doc
 category: settlement

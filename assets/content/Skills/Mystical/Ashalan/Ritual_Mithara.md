@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Míthárä"
   - "The World's First Light"
-  - skill-mithara
 tags:
   - ashalan
   - faith-skill

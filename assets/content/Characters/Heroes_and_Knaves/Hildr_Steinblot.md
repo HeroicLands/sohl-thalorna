@@ -3,7 +3,6 @@ aliases:
   - Hildr Steinblót
   - Hildr Steinblót
   - Hildr Steinblot
-  - being-hldrstnblt
 tags:
   - heroes-and-knaves
 name:

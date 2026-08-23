@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lustre
-  - mysticalability-glow
 tags: []
 name:
   full: Glow

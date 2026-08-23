@@ -2,7 +2,6 @@
 aliases:
   - Brýnael Fálwyn
   - Brynael Falwyn
-  - being-brynlflwyn
 tags:
   - draft
 name:

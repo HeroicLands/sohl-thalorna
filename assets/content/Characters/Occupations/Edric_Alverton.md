@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edric Alverton
-  - being-edriclvrtn
 tags:
   - draft
 name:

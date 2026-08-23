@@ -1,7 +1,6 @@
 ---
 aliases:
   - Helgya Shadow-Walker
-  - being-hlgyshdwlkr
 tags:
   - hero
   - heroes-of-asguard

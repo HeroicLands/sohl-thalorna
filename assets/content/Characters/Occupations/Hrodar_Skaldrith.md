@@ -2,7 +2,6 @@
 aliases:
   - Hródar Skáldrith
   - Hrodar Skaldrith
-  - being-hrdrskldrth
 tags:
   - draft
 name:

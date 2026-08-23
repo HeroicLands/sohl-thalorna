@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mandate of Heaven
-  - doc-mandatehvn
 id: Zn84KmMhXmjJnQrQ
 type: doc
 category: lore

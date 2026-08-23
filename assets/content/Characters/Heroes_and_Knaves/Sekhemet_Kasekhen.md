@@ -2,7 +2,6 @@
 aliases:
   - Sekhemet Ka'sekhen
   - Sekhemet Kasekhen
-  - being-skhmtkskhn
 tags:
   - heroes-and-knaves
 name:

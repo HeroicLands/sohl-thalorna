@@ -3,7 +3,6 @@ aliases:
   - Skúfrún Stormrót
   - Skúfrún Stormrót
   - Skufrun Stormrot
-  - being-skfrnstrmrt
 tags:
   - heroes-and-knaves
 name:

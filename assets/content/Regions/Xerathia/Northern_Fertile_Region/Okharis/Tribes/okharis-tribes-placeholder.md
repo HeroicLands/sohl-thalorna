@@ -1,7 +1,6 @@
 ---
 aliases:
   - Okharis Tribes Placeholder
-  - doc-okhrstrbsplchldr
 id: Zvj8DfE3VgmJWxDj
 tags:
   - draft

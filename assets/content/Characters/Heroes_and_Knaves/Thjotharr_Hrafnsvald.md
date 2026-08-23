@@ -2,7 +2,6 @@
 aliases:
   - Thjótharr Hrafnsvald
   - Thjotharr Hrafnsvald
-  - being-thjthrhrfnsvld
 tags:
   - heroes-and-knaves
 name:

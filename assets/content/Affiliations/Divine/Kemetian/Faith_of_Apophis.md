@@ -5,7 +5,6 @@ aliases:
   - Apep
   - The Devouring Shadow
   - The Chaos Serpent
-  - affiliation-apophis
 id: Jrpx4ACa2A9L9xxL
 tags:
   - kemetian

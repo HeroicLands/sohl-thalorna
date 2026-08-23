@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lord Aemilon Visbari
-  - being-lrdmlnvsbr
 tags:
   - heroes-and-knaves
   - fffv1

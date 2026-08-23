@@ -2,7 +2,6 @@
 aliases:
   - Vashurán
   - Vashuran
-  - doc-vashuran
 id: 8V6lgZjeFHlQZkRA
 type: doc
 category: settlement

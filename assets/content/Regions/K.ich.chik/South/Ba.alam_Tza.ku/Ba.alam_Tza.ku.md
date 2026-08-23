@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ba'alam Tza'ku
-  - doc-balamtzaku
 tags:
   - polity
 title: ""

@@ -2,7 +2,6 @@
 aliases:
   - Sàfîros Râkhmônis
   - Safiros Rakhmonis
-  - being-sfrsrkhmns
 tags:
   - draft
 name:

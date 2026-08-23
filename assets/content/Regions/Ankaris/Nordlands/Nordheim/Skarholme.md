@@ -1,7 +1,6 @@
 ---
 aliases:
   - Skarholme
-  - doc-skarholme
 id: dqjMFAr8WiEftACv
 type: doc
 category: settlement

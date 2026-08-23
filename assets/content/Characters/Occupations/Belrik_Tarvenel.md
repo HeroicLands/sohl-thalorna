@@ -2,7 +2,6 @@
 aliases:
   - Bélrik Tárvenel
   - Belrik Tarvenel
-  - being-belrktrvnl
 tags:
   - todo-warrior
   - draft

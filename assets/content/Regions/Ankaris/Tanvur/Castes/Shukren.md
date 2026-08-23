@@ -2,7 +2,6 @@
 aliases:
   - Shükrën
   - Shukren
-  - doc-shukren
 id: cNe8pvkuffxHbqXo
 type: doc
 category: lore

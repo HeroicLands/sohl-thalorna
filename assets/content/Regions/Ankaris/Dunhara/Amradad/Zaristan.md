@@ -1,7 +1,6 @@
 ---
 aliases:
   - Zaristan
-  - doc-zaristan
 id: ImatvlvxdQxFOio9
 type: doc
 category: settlement

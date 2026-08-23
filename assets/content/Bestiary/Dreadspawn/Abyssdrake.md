@@ -1,7 +1,6 @@
 ---
 aliases:
   - Abyssdrake
-  - being-abyssdrk
 tags:
   - dreadspawn
 name:

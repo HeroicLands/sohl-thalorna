@@ -3,7 +3,6 @@ aliases:
   - Màkîthos Vânardis
   - Màkîthos Vânardis
   - Makithos Vanardis
-  - being-mkthsvnrds
 tags:
   - heroes-and-knaves
 name:

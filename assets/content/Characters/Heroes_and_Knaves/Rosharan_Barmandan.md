@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rosharan Barmandan
-  - being-rshrnbrmndn
 tags:
   - heroes-and-knaves
 name:

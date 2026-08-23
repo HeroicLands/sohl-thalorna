@@ -7,7 +7,6 @@ aliases:
   - Dream Assembly
   - The Assembly of the Dream-Followers
   - The Dream Assembly
-  - skill-svapnasarisamaja
 tags:
   - varnaka
   - faith-skill

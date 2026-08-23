@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bakhu
-  - doc-bakhu
 id: FT70zIcHD7OGfSck
 type: doc
 category: settlement

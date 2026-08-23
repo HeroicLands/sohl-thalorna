@@ -1,7 +1,6 @@
 ---
 aliases:
   - Anvil
-  - mysticalability-frgfr
 tags: []
 name:
   full: Forgefire

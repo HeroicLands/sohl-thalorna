@@ -1,7 +1,6 @@
 ---
 aliases:
   - Settlements
-  - doc-setlements
 id: XrNhDp75YDEKcxWD
 name:
   full: Settlements

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Frostjaw
-  - being-frostjaw
 tags:
   - elemental
 name:

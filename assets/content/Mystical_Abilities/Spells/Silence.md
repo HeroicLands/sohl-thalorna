@@ -1,7 +1,6 @@
 ---
 aliases:
   - Muffle
-  - mysticalability-silence
 tags: []
 name:
   full: Silence

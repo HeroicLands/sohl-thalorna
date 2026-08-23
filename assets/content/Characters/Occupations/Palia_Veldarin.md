@@ -2,7 +2,6 @@
 aliases:
   - Pália Véldarin
   - Palia Veldarin
-  - being-paliavldrn
 tags:
   - draft
 name:

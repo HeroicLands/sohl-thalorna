@@ -3,7 +3,6 @@ aliases:
   - The Bardic Colleges
   - Bardic Colleges
   - Bardic Circle
-  - affiliation-bardicolgs
 description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Ordo expansion."
 type: affiliation
 sohl:

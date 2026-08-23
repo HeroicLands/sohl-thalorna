@@ -2,7 +2,6 @@
 aliases:
   - Vérynna Brânwyld
   - Verynna Branwyld
-  - being-vrynbrnwyld
 tags:
   - draft
 name:

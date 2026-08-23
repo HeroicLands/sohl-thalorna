@@ -2,7 +2,6 @@
 aliases:
   - Rádrún Vithrúnd
   - Radrun Vithrund
-  - being-rdrnvthrnd
 tags:
   - draft
 name:

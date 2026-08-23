@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pall
-  - mysticalability-mstclk
 tags: []
 name:
   full: Mistcloak

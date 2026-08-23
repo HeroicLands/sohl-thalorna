@@ -3,7 +3,6 @@ aliases:
   - Akákios Polytimós
   - Akákios Polytimós
   - Akakios Polytimos
-  - being-akksplytms
 tags:
   - heroes-and-knaves
 name:

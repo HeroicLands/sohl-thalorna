@@ -1,7 +1,6 @@
 ---
 aliases:
   - Palm
-  - mysticalability-hndflr
 tags: []
 name:
   full: Handflare

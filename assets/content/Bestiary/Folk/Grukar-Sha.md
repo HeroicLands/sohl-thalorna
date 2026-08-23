@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grukar-Sha
-  - being-grkrsh
 tags:
   - folk
 name:

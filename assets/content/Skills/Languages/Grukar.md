@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langgru
 tags: []
 name:
   full: Grukar

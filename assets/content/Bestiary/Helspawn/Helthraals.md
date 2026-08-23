@@ -1,7 +1,6 @@
 ---
 aliases:
   - Helthraals
-  - being-hlthrls
 tags:
   - helspawn
 name:

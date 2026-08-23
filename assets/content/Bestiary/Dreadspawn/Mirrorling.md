@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mirrorling
-  - being-mrrrlng
 tags:
   - dreadspawn
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wystan Osgood
-  - being-wystanosgd
 tags:
   - draft
 name:

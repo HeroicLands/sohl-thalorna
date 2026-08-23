@@ -3,7 +3,6 @@ aliases:
   - Nordlands Region
   - Nordlands
   - Nordheim
-  - doc-nrdlndsrgn
 tags:
   - region
 title: ""

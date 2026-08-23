@@ -1,7 +1,6 @@
 ---
 aliases:
   - Verdantcoil
-  - being-vrdntcl
 tags:
   - dreadspawn
 name:

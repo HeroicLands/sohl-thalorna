@@ -2,7 +2,6 @@
 aliases:
   - Byzaria Region
   - Byzaría Region
-  - doc-byzariargn
 tags:
   - region
 description: ""

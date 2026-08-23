@@ -2,7 +2,6 @@
 aliases:
   - The Twilight House
   - Twilight House
-  - affiliation-twilighths
 tags:
   - organization
   - vedyara

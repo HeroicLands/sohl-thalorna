@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Hél"
   - The Eternal Night
-  - skill-hel
 tags:
   - asguardian
   - faith-skill

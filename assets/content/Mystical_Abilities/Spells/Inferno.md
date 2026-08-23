@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-inferno
 tags: []
 name:
   full: Inferno

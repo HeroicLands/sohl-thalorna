@@ -2,7 +2,6 @@
 aliases:
   - Röthöt Dākvëng
   - Rothot Dakveng
-  - affiliation-rothtdkvng
 id: Q66XBdzS3rtj7joX
 tags:
   - celestial-order

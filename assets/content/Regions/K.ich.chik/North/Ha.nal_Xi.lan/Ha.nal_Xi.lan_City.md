@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha'nal Xi'lan
-  - doc-hanalxilan2
 id: ZvysDgAlz9mgapDo
 type: doc
 category: settlement

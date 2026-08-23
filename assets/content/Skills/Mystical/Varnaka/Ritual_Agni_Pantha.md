@@ -5,7 +5,6 @@ aliases:
   - Agni Pantha
   - The Path of the Flame
   - Flame Path
-  - skill-agnipantha
 tags:
   - varnaka
   - faith-skill

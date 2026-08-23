@@ -1,7 +1,6 @@
 ---
 aliases:
   - Byzarian
-  - doc-byzarnlngg
 id: PrgXwUGLlwcnAURG
 name:
   full: Byzarian Language

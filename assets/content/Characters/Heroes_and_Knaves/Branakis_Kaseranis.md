@@ -3,7 +3,6 @@ aliases:
   - Bránakis Kâserânis
   - Bránakis Kâserânis
   - Branakis Kaseranis
-  - being-brnksksrns
 tags:
   - heroes-and-knaves
 name:

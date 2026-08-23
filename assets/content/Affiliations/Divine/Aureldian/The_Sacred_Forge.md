@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Sacred Forge
-  - affiliation-sacredforge
 id: MubmTACxWXEdelLk
 tags:
   - aureldian

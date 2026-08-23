@@ -4,7 +4,6 @@ aliases:
   - Svapnasari Samaja
   - Assembly of the Dream-Followers
   - Dream Assembly
-  - affiliation-svapnasarisamaja
 id: 8YiPytElzIGcD4CH
 tags:
   - varnaka

@@ -3,7 +3,6 @@ aliases:
   - Khârânah Khafûr
   - Khârânah Khafûr
   - Kharanah Khafur
-  - being-kharnhkhfr
 tags:
   - heroes-and-knaves
 name:

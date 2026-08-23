@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Zárványä"
   - The Weaver of Visions
-  - skill-zarvanya
 tags:
   - ashalan
   - faith-skill

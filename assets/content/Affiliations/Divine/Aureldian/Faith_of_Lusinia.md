@@ -3,7 +3,6 @@ aliases:
   - Faith of Lúsinía
   - Faith of Lusinia
   - Lúsinía
-  - affiliation-lusinia
 id: 1ftSrMDbroRP1udn
 tags:
   - aureldian

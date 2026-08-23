@@ -1,7 +1,6 @@
 ---
 aliases:
   - Caste Laws
-  - doc-castelaws
 id: EWgtewbsESDxr4KT
 type: doc
 category: lore

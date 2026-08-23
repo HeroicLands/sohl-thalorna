@@ -2,7 +2,6 @@
 aliases:
   - Azhûn
   - Azhun
-  - doc-azhun
 id: AqrgBrEk82vRX0Se
 type: doc
 category: polity

@@ -2,7 +2,6 @@
 aliases:
   - Gríma Svartrúnar
   - Grima Svartrunar
-  - being-grmsvrtrnr
 tags:
   - demigod
   - heroes-of-asguard

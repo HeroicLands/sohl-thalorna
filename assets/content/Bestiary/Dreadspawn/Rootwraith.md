@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rootwraith
-  - being-rtwrth
 tags:
   - dreadspawn
 name:

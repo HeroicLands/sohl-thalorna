@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vedyaran Rhinoceros
-  - being-vdyrnrhn
 tags:
   - animal
   - image-needed

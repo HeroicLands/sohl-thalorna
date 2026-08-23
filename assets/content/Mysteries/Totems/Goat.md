@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-goat
 tags: []
 name:
   full: Goat

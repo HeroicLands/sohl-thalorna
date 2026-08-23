@@ -2,7 +2,6 @@
 aliases:
   - Blood and Ashes in Céravel Vale
   - Blood and Ashes in Ceravel Vale
-  - doc-bldshscrvlvl
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: doc

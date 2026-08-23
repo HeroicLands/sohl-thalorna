@@ -1,7 +1,6 @@
 ---
 aliases:
   - Oswin Harden
-  - being-oswinhardn
 tags:
   - draft
 name:

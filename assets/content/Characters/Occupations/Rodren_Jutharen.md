@@ -2,7 +2,6 @@
 aliases:
   - Rodrén Jútharen
   - Rodren Jutharen
-  - being-rodrnjthrn
 tags:
   - draft
 name:

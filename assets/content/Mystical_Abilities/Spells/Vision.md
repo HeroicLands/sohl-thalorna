@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sight
-  - mysticalability-vision
 tags: []
 name:
   full: Vision

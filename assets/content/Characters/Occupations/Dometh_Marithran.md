@@ -2,7 +2,6 @@
 aliases:
   - Dómeth Maríthran
   - Dometh Marithran
-  - being-dmthmrthrn
 tags:
   - draft
 name:

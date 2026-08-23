@@ -1,7 +1,6 @@
 ---
 aliases:
   - Terrakith Sentinel
-  - being-trrkthsn
 tags:
   - construct
 name:

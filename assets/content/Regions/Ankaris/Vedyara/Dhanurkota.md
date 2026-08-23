@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dhanurkota
-  - doc-dhanurkota
 id: i93FosZcD5HdN48U
 type: doc
 category: settlement

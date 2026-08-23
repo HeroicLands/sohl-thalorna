@@ -1,7 +1,6 @@
 ---
 aliases:
   - Enigma
-  - mysticalability-mystery
 tags: []
 name:
   full: Mystery

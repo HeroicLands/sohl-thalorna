@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sūryāgarha
-  - doc-suryagarha
 id: guzzmrqqtagCbdW4
 type: doc
 category: settlement

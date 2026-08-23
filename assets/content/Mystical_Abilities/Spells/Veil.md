@@ -1,7 +1,6 @@
 ---
 aliases:
   - Screen
-  - mysticalability-veil
 tags: []
 name:
   full: Veil

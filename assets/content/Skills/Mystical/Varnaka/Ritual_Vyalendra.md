@@ -4,7 +4,6 @@ aliases:
   - Vyālendra
   - Vyalendra
   - The Shaper of Worlds
-  - skill-vyalendra
 tags:
   - varnaka
   - faith-skill

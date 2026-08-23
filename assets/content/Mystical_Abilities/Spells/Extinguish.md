@@ -1,7 +1,6 @@
 ---
 aliases:
   - Quenching
-  - mysticalability-extngsh
 tags: []
 name:
   full: Extinguish

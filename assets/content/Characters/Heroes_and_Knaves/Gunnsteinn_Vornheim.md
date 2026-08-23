@@ -3,7 +3,6 @@ aliases:
   - Gunnsteinn Vǫrnheim
   - Gunnsteinn Vǫrnheim
   - Gunnsteinn Vornheim
-  - being-gnstnvrnhm
 tags:
   - heroes-and-knaves
 name:

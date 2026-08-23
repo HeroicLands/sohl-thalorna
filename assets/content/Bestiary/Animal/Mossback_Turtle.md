@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mossback Turtle
-  - being-mssbcktr
 tags:
   - animal
 name:

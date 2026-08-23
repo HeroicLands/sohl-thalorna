@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vapour
-  - mysticalability-mistveil
 tags: []
 name:
   full: Mistveil

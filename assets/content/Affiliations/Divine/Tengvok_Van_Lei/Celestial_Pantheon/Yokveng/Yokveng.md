@@ -3,7 +3,6 @@ aliases:
   - Yokveng
   - The Demon Realm
   - The Infernal Realms
-  - affiliation-yokveng
 id: nAT05cIm5QE8RnLF
 tags:
   - celestial-order

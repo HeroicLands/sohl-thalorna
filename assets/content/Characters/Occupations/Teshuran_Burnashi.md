@@ -2,7 +2,6 @@
 aliases:
   - Teshûran Bûrnashî
   - Teshuran Burnashi
-  - being-tshrnbrnsh
 tags:
   - draft
 name:

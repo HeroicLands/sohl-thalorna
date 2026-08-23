@@ -1,7 +1,6 @@
 ---
 aliases:
   - Byzaris
-  - doc-byzaris
 id: HpB2fXNRSm9qSW6y
 type: doc
 category: settlement

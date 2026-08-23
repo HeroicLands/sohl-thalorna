@@ -3,7 +3,6 @@ aliases:
   - Gunnvǫr Hafringr
   - Gunnvǫr Hafringr
   - Gunnvor Hafringr
-  - being-gnvrhfrngr
 tags:
   - heroes-and-knaves
 name:

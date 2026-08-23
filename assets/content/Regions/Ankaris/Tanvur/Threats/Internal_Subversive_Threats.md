@@ -1,7 +1,6 @@
 ---
 aliases:
   - Internal Subversive Threats
-  - doc-intrnlsbvrsvthrts
 id: CMPw7T4QzM8gCtkS
 type: doc
 category: lore

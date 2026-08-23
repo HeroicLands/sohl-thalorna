@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wasetkara
-  - doc-wasetkara
 id: yKyHOnW4vqQivkJZ
 type: doc
 category: settlement

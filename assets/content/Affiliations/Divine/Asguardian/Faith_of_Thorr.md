@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Thórr
-  - affiliation-thorr
 id: K9I6050D5wN7Vs3Z
 tags:
   - asguardian

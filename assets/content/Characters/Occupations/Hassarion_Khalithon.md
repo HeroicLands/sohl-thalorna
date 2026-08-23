@@ -2,7 +2,6 @@
 aliases:
   - Hassârìon Khalîthôn
   - Hassarion Khalithon
-  - being-hsrnkhlthn
 tags:
   - draft
 name:

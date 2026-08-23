@@ -3,7 +3,6 @@ aliases:
   - The Iron Cinder
   - Iron Cinder
   - Cinis Ferreus
-  - affiliation-ironcinder
 tags:
   - organization
   - aureldia

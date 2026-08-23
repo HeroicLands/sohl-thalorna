@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rupture
-  - mysticalability-shttrmnd
 tags: []
 name:
   full: Shattermind

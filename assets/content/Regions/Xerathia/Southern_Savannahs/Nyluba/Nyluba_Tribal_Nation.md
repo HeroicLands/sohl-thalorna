@@ -5,7 +5,6 @@ aliases:
   - Nyáluba
   - The Five Who Walk Together
   - The Long Pact
-  - doc-nylbtrblntn
 tags: []
 type: doc
 category: polity

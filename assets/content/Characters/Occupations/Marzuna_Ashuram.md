@@ -2,7 +2,6 @@
 aliases:
   - Marzûna Ashûram
   - Marzuna Ashuram
-  - being-marzunshrm
 tags:
   - draft
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-sheep
 tags: []
 name:
   full: Sheep

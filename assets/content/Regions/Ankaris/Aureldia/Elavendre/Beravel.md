@@ -1,7 +1,6 @@
 ---
 aliases:
   - Béravel
-  - doc-beravel
 tags: []
 type: doc
 category: settlement

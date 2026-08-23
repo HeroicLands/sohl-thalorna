@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vindara
-  - doc-vindara
 id: Hy7vNx3kEm2Rb8Lt
 type: doc
 category: settlement

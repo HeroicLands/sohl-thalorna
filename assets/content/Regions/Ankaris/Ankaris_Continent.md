@@ -2,7 +2,6 @@
 aliases:
   - Ankaris Continent
   - Ankaris
-  - doc-ankrscntnnt
 tags:
   - continent
   - ankaris

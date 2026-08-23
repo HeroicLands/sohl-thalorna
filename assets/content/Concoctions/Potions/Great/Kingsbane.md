@@ -2,7 +2,6 @@
 aliases:
   - Kingsbane
   - "Potion, Poison, Great"
-  - concoctiongear-PtnPoiG
 tags:
   - great-elixir
 name:

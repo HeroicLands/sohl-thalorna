@@ -1,7 +1,6 @@
 ---
 aliases:
   - Myrtillos
-  - doc-myrtillos
 id: oS8n3zisICURpMOI
 type: doc
 category: settlement

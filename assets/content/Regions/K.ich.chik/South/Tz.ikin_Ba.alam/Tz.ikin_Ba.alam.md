@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'ikin Ba'alam
-  - doc-tzikinbalm
 tags:
   - polity
 title: ""

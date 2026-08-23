@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vandaric Garwald
-  - being-vndrcgrwld
 tags:
   - blackpine-wolves
   - brigand

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ragnar the Reforged
-  - being-ragnarfrgd
 tags:
   - demigod
   - heroes-of-asguard

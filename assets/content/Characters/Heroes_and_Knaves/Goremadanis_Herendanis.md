@@ -3,7 +3,6 @@ aliases:
   - Goremadânis Hérendânis
   - Goremadânis Hérendânis
   - Goremadanis Herendanis
-  - being-grmdnshrndns
 tags:
   - heroes-and-knaves
 name:

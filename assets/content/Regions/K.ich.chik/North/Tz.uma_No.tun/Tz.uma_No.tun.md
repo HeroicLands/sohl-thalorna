@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'uma No'tun
-  - doc-tzumanotun
 tags:
   - polity
 title: ""

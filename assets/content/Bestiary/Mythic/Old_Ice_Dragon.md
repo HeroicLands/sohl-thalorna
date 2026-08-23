@@ -2,7 +2,6 @@
 aliases:
   - Old Ice Dragon
   - Frost Wyrm
-  - being-oldicdrg
 tags:
   - mythic
   - image-needed

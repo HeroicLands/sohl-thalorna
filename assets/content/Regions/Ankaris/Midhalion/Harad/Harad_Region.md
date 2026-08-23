@@ -1,7 +1,6 @@
 ---
 aliases:
   - Harad Region
-  - doc-haradregin
 tags:
   - region
 description: Archpelegio of islands and coastal region of city-states

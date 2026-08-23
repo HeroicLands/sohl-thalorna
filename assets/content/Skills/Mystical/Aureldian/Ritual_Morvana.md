@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Morvana"
   - Mórváná
   - Mistress of the Waning Moon
-  - skill-morvana
 tags:
   - aureldian
   - faith-skill

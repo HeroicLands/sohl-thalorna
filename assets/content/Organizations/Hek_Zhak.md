@@ -6,7 +6,6 @@ aliases:
   - Shadow Sect
   - Hëkzōk
   - Shadow Folk
-  - affiliation-hekzhak
 tags: []
 description: "Rogue Shadow Sect of escaped Vëndük sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
 package: thalorna

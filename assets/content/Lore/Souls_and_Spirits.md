@@ -3,7 +3,6 @@ aliases:
   - The Truth of Souls
   - Souls (GM)
   - The Spirit Realm
-  - doc-soulspirts
 tags:
   - lore
   - souls

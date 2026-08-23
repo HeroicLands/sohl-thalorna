@@ -2,7 +2,6 @@
 aliases:
   - Xâthrîon Kâserânis
   - Xathrion Kaseranis
-  - being-xthrnksrns
 tags:
   - draft
 name:

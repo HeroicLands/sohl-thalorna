@@ -3,7 +3,6 @@ aliases:
   - Vyāhrati
   - Vyahrati
   - The Keeper of Decay
-  - affiliation-vyahrati
 id: 7Y6bkB0AAlj4MJS8
 tags:
   - varnaka

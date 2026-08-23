@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bolas
-  - weapongear-Bola
 tags: []
 name:
   full: Bolas

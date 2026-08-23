@@ -2,7 +2,6 @@
 aliases:
   - Poppytear
   - "Potion, Narcotic, Mild"
-  - concoctiongear-PtnNarM
 tags:
   - mild-elixir
 name:

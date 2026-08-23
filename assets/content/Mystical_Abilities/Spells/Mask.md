@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-mask
 tags: []
 name:
   full: Mask

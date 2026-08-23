@@ -1,7 +1,6 @@
 ---
 aliases:
   - Abyssal Silt
-  - being-abysslsl
 tags:
   - dreadspawn
 name:

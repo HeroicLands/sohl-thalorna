@@ -2,7 +2,6 @@
 aliases:
   - The Pearl Ward
   - Soulbuffer Elixir
-  - concoctiongear-ElxSBf
 tags:
   - elixir
 name:

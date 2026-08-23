@@ -2,7 +2,6 @@
 aliases:
   - Solárden
   - Solarden
-  - doc-solarden
 id: OXCppoDSENMyNm24
 type: doc
 category: settlement

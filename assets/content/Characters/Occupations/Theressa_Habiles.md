@@ -2,7 +2,6 @@
 aliases:
   - Thêrèssa Hàbîlês
   - Theressa Habiles
-  - being-thereshbls
 tags:
   - draft
 name:

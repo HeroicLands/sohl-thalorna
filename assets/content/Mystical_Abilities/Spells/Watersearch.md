@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dowsing
-  - mysticalability-wtrsrch
 tags: []
 name:
   full: Watersearch

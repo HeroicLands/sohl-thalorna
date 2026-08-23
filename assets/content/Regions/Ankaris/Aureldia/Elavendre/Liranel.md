@@ -1,7 +1,6 @@
 ---
 aliases:
   - Liranel
-  - doc-liranel
 id: 125j2DAi5wNhmQMA
 type: doc
 category: settlement

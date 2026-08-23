@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Týr
-  - affiliation-tyr
 id: c12fS9I0LjihzxT9
 tags:
   - asguardian

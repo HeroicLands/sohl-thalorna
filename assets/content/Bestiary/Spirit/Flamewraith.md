@@ -1,7 +1,6 @@
 ---
 aliases:
   - Flamewraith
-  - being-flmwrth
 tags:
   - spirit
 name:

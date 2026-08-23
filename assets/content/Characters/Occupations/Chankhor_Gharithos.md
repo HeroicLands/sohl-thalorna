@@ -2,7 +2,6 @@
 aliases:
   - Chânkhor Ghârîthôs
   - Chankhor Gharithos
-  - being-chnkhrghrths
 tags:
   - draft
 name:

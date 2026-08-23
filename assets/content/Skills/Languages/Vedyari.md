@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langved
 tags: []
 name:
   full: Vedyari

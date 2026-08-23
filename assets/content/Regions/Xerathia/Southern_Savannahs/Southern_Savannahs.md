@@ -3,7 +3,6 @@ aliases:
   - Southern Savannahs
   - Southern Savannah
   - The Deep South
-  - doc-sthrnsvnhs
 tags:
   - region
 description: The vast subtropical grasslands of southern Xerathia — open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.

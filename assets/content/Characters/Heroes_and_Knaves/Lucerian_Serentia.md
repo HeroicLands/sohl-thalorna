@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lucerian Serentia
-  - being-lucernsrnt
 tags:
   - tamzir-crew
 name:

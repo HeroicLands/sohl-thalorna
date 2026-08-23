@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vindborg
-  - doc-vindborg
 id: 7XxnqkgQlwHbZvb8
 type: doc
 category: settlement

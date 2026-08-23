@@ -2,7 +2,6 @@
 aliases:
   - Valcèrise
   - Valcerise
-  - doc-valcerise
 id: UR8xNtWDuaHZdxsJ
 type: doc
 category: settlement

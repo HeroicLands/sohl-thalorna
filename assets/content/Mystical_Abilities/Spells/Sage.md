@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wisdom
-  - mysticalability-sage
 tags: []
 name:
   full: Sage

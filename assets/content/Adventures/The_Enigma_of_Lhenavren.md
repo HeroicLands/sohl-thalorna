@@ -2,7 +2,6 @@
 aliases:
   - The Enigma of Lhénavren
   - The Enigma of Lhenavren
-  - doc-engmlhnvrn
 id: ITNk4xWlebM9HchL
 name:
   full: The Enigma of Lhénavren

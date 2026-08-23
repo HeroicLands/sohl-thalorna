@@ -3,7 +3,6 @@ aliases:
   - Athênagoras Katakálos
   - Athênagoras Katakálos
   - Athenagoras Katakalos
-  - being-athngrsktkls
 tags:
   - heroes-and-knaves
 name:

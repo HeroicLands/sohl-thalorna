@@ -3,7 +3,6 @@ aliases:
   - Theomídes Epiphaniôtês
   - Theomídes Epiphaniôtês
   - Theomides Epiphaniotes
-  - being-thmdspphnts
 tags:
   - heroes-and-knaves
 name:

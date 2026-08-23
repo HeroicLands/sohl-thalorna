@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-parrot
 tags: []
 name:
   full: Parrot

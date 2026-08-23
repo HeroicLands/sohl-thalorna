@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Beaver
-  - being-gntbvr
 tags:
   - animal
 name:

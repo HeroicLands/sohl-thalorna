@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vaporwisp
-  - being-vprwsp
 tags:
   - spirit
 name:

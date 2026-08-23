@@ -2,7 +2,6 @@
 aliases:
   - The Bandits of Céravel Vale
   - The Bandits of Ceravel Vale
-  - doc-bndtscrvlvl
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: doc

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Astrid the Forsaken
-  - being-astrdfrskn
 tags:
   - demigod
   - heroes-of-asguard

@@ -2,7 +2,6 @@
 aliases:
   - Hróaldr Hrafnsvald
   - Hroaldr Hrafnsvald
-  - being-hrldrhrfnsvld
 tags:
   - draft
 name:

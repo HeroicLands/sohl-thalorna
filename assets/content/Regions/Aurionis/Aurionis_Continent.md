@@ -2,7 +2,6 @@
 aliases:
   - Aurionis Continent
   - Aurionis
-  - doc-arnscntnnt
 tags:
   - continent
   - aurionis

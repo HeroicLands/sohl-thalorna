@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sau
-  - doc-sau
 id: 0WGb17kK6gRRoQyH
 type: doc
 category: settlement

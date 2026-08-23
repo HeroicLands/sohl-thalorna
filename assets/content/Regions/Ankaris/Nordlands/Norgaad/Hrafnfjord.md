@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hrafnfjord
-  - doc-hrafnfjord
 id: xeSkAGJdEwb4NNx6
 type: doc
 category: settlement

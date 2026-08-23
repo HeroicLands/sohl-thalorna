@@ -2,7 +2,6 @@
 aliases:
   - The Long Night
   - "Potion, Soporific, Great"
-  - concoctiongear-PtnSopG
 tags:
   - great-elixir
 name:

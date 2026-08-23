@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cloak
-  - mysticalability-shdwvl
 tags: []
 name:
   full: Shadowveil

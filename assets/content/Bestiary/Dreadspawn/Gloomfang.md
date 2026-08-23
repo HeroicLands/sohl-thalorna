@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gloomfang
-  - being-glmfng
 tags:
   - dreadspawn
 name:

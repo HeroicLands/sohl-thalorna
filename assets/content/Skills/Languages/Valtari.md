@@ -1,7 +1,6 @@
 ---
 aliases:
   - Valtári
-  - skill-langval
 tags: []
 name:
   full: Valtári

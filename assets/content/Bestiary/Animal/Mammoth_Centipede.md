@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mammoth Centipede
-  - being-mmmthcnt
 tags:
   - animal
 name:

@@ -4,7 +4,6 @@ aliases:
   - Kāmavrata
   - Kamavrata
   - The Celestial Lover
-  - skill-kamavrata
 tags:
   - varnaka
   - faith-skill

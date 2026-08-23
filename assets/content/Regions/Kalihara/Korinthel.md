@@ -1,7 +1,6 @@
 ---
 aliases:
   - Korinthel
-  - doc-korinthel
 id: RRmQE1eVIBxDLVXi
 type: doc
 category: settlement

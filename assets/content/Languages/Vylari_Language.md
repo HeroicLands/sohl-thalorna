@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vylari
-  - doc-vylarilngg
 id: hbPa35udkw34okSe
 name:
   full: Vylari Language

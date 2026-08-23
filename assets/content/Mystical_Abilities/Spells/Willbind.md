@@ -1,7 +1,6 @@
 ---
 aliases:
   - Resolve
-  - mysticalability-willbind
 tags: []
 name:
   full: Willbind

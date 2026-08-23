@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sand Stalker
-  - being-sndstlkr
 tags:
   - animal
 name:

@@ -3,7 +3,6 @@ aliases:
   - Rudâvah Farrud
   - Rudâvah Farrud
   - Rudavah Farrud
-  - being-rudavahfrd
 tags:
   - heroes-and-knaves
 name:

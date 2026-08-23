@@ -3,7 +3,6 @@ aliases:
   - Yngvarr Dróttgar
   - Yngvarr Dróttgar
   - Yngvarr Drottgar
-  - being-yngvrdrtgr
 tags:
   - heroes-and-knaves
 name:

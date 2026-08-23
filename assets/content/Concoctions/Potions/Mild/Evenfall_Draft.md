@@ -2,7 +2,6 @@
 aliases:
   - Evenfall Draft
   - "Potion, Soporific, Mild"
-  - concoctiongear-PtnSopM
 tags:
   - mild-elixir
 name:

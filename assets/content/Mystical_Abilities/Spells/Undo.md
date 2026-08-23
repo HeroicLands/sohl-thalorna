@@ -1,7 +1,6 @@
 ---
 aliases:
   - Reverse
-  - mysticalability-undo
 tags: []
 name:
   full: Undo

@@ -2,7 +2,6 @@
 aliases:
   - Hellád
   - Hellad Region
-  - doc-heladrgn
 tags:
   - region
 title: ""

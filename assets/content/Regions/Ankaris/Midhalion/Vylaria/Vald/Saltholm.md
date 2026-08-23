@@ -1,7 +1,6 @@
 ---
 aliases:
   - Saltholm
-  - doc-saltholm
 id: Vd7hGx4mSm9Tb3Ld
 type: doc
 category: settlement

@@ -2,7 +2,6 @@
 aliases:
   - Wítharic Druthgar
   - Witharic Druthgar
-  - being-wthrcdrthgr
 tags:
   - draft
 name:

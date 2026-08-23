@@ -2,7 +2,6 @@
 aliases:
   - Drekavík
   - Drekavik
-  - doc-drekavik
 id: dFMvJ2wRf3xqTdLU
 type: doc
 category: settlement

@@ -6,7 +6,6 @@ aliases:
   - Qedét
   - Khar
   - The Kheperi Weight System
-  - doc-tkhprcrncy
 tags:
   - reference
   - currency

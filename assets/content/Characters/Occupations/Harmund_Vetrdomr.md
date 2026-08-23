@@ -2,7 +2,6 @@
 aliases:
   - Hármund Vetrdómr
   - Harmund Vetrdomr
-  - being-hrmndvtrdmr
 tags:
   - todo-warrior
   - draft

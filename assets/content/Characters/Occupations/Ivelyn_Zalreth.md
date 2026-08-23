@@ -2,7 +2,6 @@
 aliases:
   - Ívelyn Zálreth
   - Ivelyn Zalreth
-  - being-ivlynzlrth
 tags:
   - draft
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-htstrk
 tags: []
 name:
   full: Heatstroke

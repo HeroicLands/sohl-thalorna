@@ -3,7 +3,6 @@ aliases:
   - Renutê Reenfré
   - Renutê Re'en'fré
   - Renute Reenfre
-  - being-renuternfr
 tags:
   - heroes-and-knaves
 name:

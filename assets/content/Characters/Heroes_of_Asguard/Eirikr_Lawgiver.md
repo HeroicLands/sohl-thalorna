@@ -2,7 +2,6 @@
 aliases:
   - Eiríkr Lawgiver
   - Eirikr Lawgiver
-  - being-eirkrlwgvr
 tags:
   - paragon
   - heroes-of-asguard

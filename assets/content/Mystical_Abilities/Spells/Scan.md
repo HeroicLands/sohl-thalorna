@@ -1,7 +1,6 @@
 ---
 aliases:
   - Survey
-  - mysticalability-scan
 tags: []
 name:
   full: Scan

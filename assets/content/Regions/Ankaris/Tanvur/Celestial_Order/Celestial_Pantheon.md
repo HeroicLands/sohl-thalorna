@@ -1,7 +1,6 @@
 ---
 aliases:
   - Celestial Pantheon
-  - doc-clstlpnthn
 id: ocg6hDA9966VDQNB
 type: doc
 category: lore

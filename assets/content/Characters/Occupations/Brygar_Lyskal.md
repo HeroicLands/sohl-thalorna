@@ -2,7 +2,6 @@
 aliases:
   - Brýgar Lýskal
   - Brygar Lyskal
-  - being-brygrlyskl
 tags:
   - todo-warrior
   - draft

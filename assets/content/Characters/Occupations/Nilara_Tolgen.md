@@ -2,7 +2,6 @@
 aliases:
   - Nílara Tólgen
   - Nilara Tolgen
-  - being-nilaratlgn
 tags:
   - draft
 name:

@@ -5,7 +5,6 @@ aliases:
   - Vylarian Senate
   - The Vylarian Senate
   - The Senate
-  - affiliation-curiavylar
 tags: []
 description: "The Curia Vylaria, the Palace of the Senate and the seat of the Vylarian Senate — the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Augustar; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."
 package: thalorna

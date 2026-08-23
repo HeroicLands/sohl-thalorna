@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thought
-  - mysticalability-mndflr
 tags: []
 name:
   full: Mindflare

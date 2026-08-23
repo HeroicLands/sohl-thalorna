@@ -4,7 +4,6 @@ aliases:
   - Aureldian Pantheon
   - Aurèldían pantheon
   - Aureldian pantheon
-  - affiliation-arldnpnthn
 id: MB1QS9G4v0JW9Osw
 tags:
   - pantheon

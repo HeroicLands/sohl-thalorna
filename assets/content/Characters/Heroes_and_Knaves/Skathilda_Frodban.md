@@ -3,7 +3,6 @@ aliases:
   - Skathilda Froðban
   - Skathilda Fróðbán
   - Skathilda Frodban
-  - being-skthldfrdbn
 tags:
   - blackpine-wolves
   - brigand

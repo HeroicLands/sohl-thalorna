@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Bēs"
   - Bēs, Guardian of Night Visions
-  - skill-bes
 tags:
   - kemetian
   - faith-skill

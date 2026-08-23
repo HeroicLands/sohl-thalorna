@@ -2,7 +2,6 @@
 aliases:
   - Lâmzû Damîkî
   - Lamzu Damiki
-  - being-lamzudamik
 tags:
   - draft
 name:

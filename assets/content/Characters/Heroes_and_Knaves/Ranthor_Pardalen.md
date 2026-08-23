@@ -3,7 +3,6 @@ aliases:
   - Ránthor Párdalen
   - Ránthor Párdalen
   - Ranthor Pardalen
-  - being-rnthrprdln
 tags:
   - heroes-and-knaves
 name:

@@ -4,7 +4,6 @@ aliases:
   - The Drenavar Spine
   - Drenavar Mountains
   - The Drenavar
-  - doc-drenavrspn
 id: Vb3c2kCmZT3k4wIa
 type: doc
 category: location

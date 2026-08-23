@@ -2,7 +2,6 @@
 aliases:
   - Hârlak Válskyr
   - Harlak Valskyr
-  - being-hrlkvlskyr
 tags:
   - draft
 name:

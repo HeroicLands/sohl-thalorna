@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kostaros
-  - doc-kostaros
 id: TsDj0UNe3SEKVrTw
 type: doc
 category: settlement

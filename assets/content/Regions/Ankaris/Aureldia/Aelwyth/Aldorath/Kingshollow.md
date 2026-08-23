@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kingshollow
-  - doc-kingsholow
 id: jhd8AiAzVvvLpI9j
 type: doc
 category: settlement

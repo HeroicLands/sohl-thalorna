@@ -2,7 +2,6 @@
 aliases:
   - "Viper's Mercy"
   - "Potion, Antivenin, Mild"
-  - concoctiongear-PtnAntvM
 tags:
   - mild-elixir
 name:

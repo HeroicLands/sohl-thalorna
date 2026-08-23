@@ -1,7 +1,6 @@
 ---
 aliases:
   - Worlds
-  - doc-worlds
 id: h7LJfloVQX6yJmtn
 name:
   full: Worlds

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gills
-  - mysticalability-wtrbrth
 tags: []
 name:
   full: Waterbreath

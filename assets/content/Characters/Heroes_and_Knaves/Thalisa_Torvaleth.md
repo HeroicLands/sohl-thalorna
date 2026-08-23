@@ -3,7 +3,6 @@ aliases:
   - Thalísa Torvaleth
   - Thalísa Torvaleth
   - Thalisa Torvaleth
-  - being-thlstrvlth
 tags:
   - heroes-and-knaves
 name:

@@ -2,7 +2,6 @@
 aliases:
   - Free City of Valthári
   - Free City of Valthari
-  - doc-frctyvlthr
 id: oY2kIQB4bE2PvKq7
 description: "Free city-state on Tarvénia's southern coast, governed by merchant families — richest settlement in Tarvénia and the kingdom's window onto distant trade, jealously guarding its independence."
 type: doc

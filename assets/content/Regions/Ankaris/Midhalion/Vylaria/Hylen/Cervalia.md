@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cervalia
-  - doc-cervalia
 id: Hy5pGx4wUm9Sb3Ld
 type: doc
 category: settlement

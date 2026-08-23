@@ -2,7 +2,6 @@
 aliases:
   - Árisla Kórisvar
   - Arisla Korisvar
-  - being-arislkrsvr
 tags:
   - draft
 name:

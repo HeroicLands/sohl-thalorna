@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kenelm Adwell
-  - being-kenelmadwl
 tags:
   - draft
 name:

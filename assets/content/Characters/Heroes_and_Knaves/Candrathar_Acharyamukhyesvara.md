@@ -3,7 +3,6 @@ aliases:
   - Càndrathar Āchāryamukhyēśvara
   - Càndrathar Āchāryamukhyēśvara
   - Candrathar Acharyamukhyesvara
-  - being-cndrthrchrymkhysvr
 tags:
   - heroes-and-knaves
 name:

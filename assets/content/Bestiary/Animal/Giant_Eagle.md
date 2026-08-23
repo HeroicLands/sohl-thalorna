@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Eagle
-  - being-gntegl
 tags:
   - animal
 name:

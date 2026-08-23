@@ -1,7 +1,6 @@
 ---
 aliases:
   - Floe
-  - mysticalability-icbrdg
 tags: []
 name:
   full: Icebridge

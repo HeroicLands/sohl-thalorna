@@ -2,7 +2,6 @@
 aliases:
   - Physéran Balm
   - Healing Elixir
-  - concoctiongear-ElxHeal
 tags:
   - elixir
 name:

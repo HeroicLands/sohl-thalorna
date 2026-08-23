@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'uxi Balam
-  - doc-kuxibalam2
 id: MMURsVSWP10cDwXu
 type: doc
 category: settlement

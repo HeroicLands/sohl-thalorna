@@ -2,7 +2,6 @@
 aliases:
   - Vithár Hildvith
   - Vithar Hildvith
-  - being-vthrhldvth
 tags:
   - draft
 name:

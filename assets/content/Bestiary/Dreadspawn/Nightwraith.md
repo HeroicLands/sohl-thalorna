@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nightwraith
-  - being-nghtwrth
 tags:
   - dreadspawn
 name:

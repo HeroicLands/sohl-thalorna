@@ -2,7 +2,6 @@
 aliases:
   - Marble Kiss
   - "Potion, Paralytic, Strong"
-  - concoctiongear-PtnParS
 tags:
   - strong-elixir
 name:

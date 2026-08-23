@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-nalos
 tags: []
 name:
   full: Nalos

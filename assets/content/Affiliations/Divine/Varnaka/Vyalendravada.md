@@ -4,7 +4,6 @@ aliases:
   - Vyalendravada
   - The Doctrine of Vyālendra
   - Vyāndran School
-  - affiliation-vyalendravada
 id: tKkSvIIYC4HgE6Fl
 tags:
   - varnaka

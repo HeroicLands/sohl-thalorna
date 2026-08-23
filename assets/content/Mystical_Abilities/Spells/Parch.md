@@ -1,7 +1,6 @@
 ---
 aliases:
   - Desiccation
-  - mysticalability-parch
 tags: []
 name:
   full: Parch

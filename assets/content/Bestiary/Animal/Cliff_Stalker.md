@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cliff Stalker
-  - being-clffstlk
 tags:
   - animal
 name:

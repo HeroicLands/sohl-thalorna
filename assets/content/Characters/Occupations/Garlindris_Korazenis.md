@@ -2,7 +2,6 @@
 aliases:
   - Garlîndris Korâzênis
   - Garlindris Korazenis
-  - being-grlndrskrzns
 tags:
   - draft
 name:

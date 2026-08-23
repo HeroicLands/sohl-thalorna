@@ -1,7 +1,6 @@
 ---
 aliases:
   - Meteor Dart
-  - weapongear-Biao
 tags: []
 name:
   full: Meteor Dart

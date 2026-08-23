@@ -2,7 +2,6 @@
 aliases:
   - Vanâdîs Kâserânis
   - Vanadis Kaseranis
-  - being-vandsksrns
 tags:
   - draft
 name:

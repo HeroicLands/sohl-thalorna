@@ -2,7 +2,6 @@
 aliases:
   - Sédrik Mórlineth
   - Sedrik Morlineth
-  - being-sdrkmrlnth
 tags:
   - draft
 name:

@@ -3,7 +3,6 @@ aliases:
   - Tárellia Bélthal
   - Tárellia Bélthal
   - Tarellia Belthal
-  - being-tarelblthl
 tags:
   - heroes-and-knaves
 name:

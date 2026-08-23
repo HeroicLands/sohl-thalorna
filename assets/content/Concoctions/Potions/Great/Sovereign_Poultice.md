@@ -2,7 +2,6 @@
 aliases:
   - Sovereign Poultice
   - "Potion, Curative, Great"
-  - concoctiongear-PtnCurG
 tags:
   - great-elixir
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - K'ixim Tzul
-  - doc-kiximtzul
 tags:
   - polity
 title: ""

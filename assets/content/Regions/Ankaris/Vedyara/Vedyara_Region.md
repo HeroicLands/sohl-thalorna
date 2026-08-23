@@ -2,7 +2,6 @@
 aliases:
   - Vedyara Region
   - Vedyara
-  - doc-vedyarargn
 tags:
   - region
 title: ""

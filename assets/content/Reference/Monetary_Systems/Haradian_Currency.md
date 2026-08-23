@@ -3,7 +3,6 @@ aliases:
   - Haradian Currency
   - Haradian Currency System
   - Bayt al-Khazînah
-  - doc-hardncrncy
 tags:
   - reference
   - currency

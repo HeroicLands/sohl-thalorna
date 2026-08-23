@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Āhúrdáén"
   - The Keeper of Harmony
   - Ahura Mazda
-  - skill-ahurdaen
 tags:
   - ashalan
   - faith-skill

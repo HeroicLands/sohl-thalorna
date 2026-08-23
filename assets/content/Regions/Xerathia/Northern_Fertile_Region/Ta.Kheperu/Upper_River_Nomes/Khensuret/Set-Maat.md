@@ -2,7 +2,6 @@
 aliases:
   - Set-Maat
   - Set-Ma'at
-  - doc-setmaat
 id: j7kLfLuyqbHAZVA4
 type: doc
 category: settlement

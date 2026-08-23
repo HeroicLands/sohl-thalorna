@@ -2,7 +2,6 @@
 aliases:
   - Émmanîôs Bàremzâtôr
   - Emmanios Baremzator
-  - being-emnsbrmztr
 tags:
   - todo
   - draft

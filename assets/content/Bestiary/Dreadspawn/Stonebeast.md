@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stonebeast
-  - being-stnbst
 tags:
   - dreadspawn
 name:

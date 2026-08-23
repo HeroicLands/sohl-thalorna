@@ -2,7 +2,6 @@
 aliases:
   - Vélaria Óthral
   - Velaria Othral
-  - being-velarithrl
 tags:
   - todo
   - draft

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mature Fire Dragon
-  - being-mtrfrdrg
 tags:
   - mythic
   - image-needed

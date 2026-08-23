@@ -2,7 +2,6 @@
 aliases:
   - The Dormant Draft
   - Quiescence Elixir
-  - concoctiongear-ElxQsc
 tags:
   - elixir
 name:

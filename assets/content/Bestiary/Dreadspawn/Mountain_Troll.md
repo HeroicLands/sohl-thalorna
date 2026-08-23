@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mountain Troll
-  - being-mntntrll
 tags:
   - dreadspawn
 name:

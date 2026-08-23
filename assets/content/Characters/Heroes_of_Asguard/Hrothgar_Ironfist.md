@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hrothgar Ironfist
-  - being-hrthgrrnfst
 tags:
   - paragon
   - heroes-of-asguard

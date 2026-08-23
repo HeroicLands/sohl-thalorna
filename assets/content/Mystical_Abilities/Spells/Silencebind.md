@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hush
-  - mysticalability-slncbnd
 tags: []
 name:
   full: Silencebind

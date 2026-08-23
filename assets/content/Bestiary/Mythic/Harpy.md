@@ -1,7 +1,6 @@
 ---
 aliases:
   - Harpy
-  - being-harpy
 tags:
   - mythic
   - image-needed

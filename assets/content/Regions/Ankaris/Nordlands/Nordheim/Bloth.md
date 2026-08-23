@@ -2,7 +2,6 @@
 aliases:
   - Blóth
   - Bloth
-  - doc-bloth
 id: IxdQgYmu31vb7DlD
 type: doc
 category: settlement

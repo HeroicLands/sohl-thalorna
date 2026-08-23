@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aspect
-  - mysticalability-frmshft
 tags: []
 name:
   full: Formshift

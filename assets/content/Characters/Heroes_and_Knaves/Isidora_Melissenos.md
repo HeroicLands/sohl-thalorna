@@ -3,7 +3,6 @@ aliases:
   - Isidôra Melissenós
   - Isidôra Melissenós
   - Isidora Melissenos
-  - being-isidrmlsns
 tags:
   - heroes-and-knaves
 name:

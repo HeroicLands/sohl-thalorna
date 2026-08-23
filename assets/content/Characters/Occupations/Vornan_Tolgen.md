@@ -2,7 +2,6 @@
 aliases:
   - Vôrnan Tólgen
   - Vornan Tolgen
-  - being-vornantlgn
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Screechbat
-  - being-scrchbt
 tags:
   - animal
 name:

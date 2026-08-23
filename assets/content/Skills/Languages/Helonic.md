@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langhel
 tags: []
 name:
   full: Helonic

@@ -3,7 +3,6 @@ aliases:
   - Kayvonad Zârîd
   - Kayvonad Zârîd
   - Kayvonad Zarid
-  - being-kayvondzrd
 tags:
   - heroes-and-knaves
 name:

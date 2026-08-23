@@ -1,7 +1,6 @@
 ---
 aliases:
   - Swampgolem
-  - being-swmpglm
 tags:
   - dreadspawn
 name:

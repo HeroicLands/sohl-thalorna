@@ -1,7 +1,6 @@
 ---
 aliases:
   - Swordbreaker
-  - mysticalability-bldbn
 tags: []
 name:
   full: Bladebane

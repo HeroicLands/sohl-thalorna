@@ -2,7 +2,6 @@
 aliases:
   - Pálina Sánriceth
   - Palina Sanriceth
-  - being-palnsnrcth
 tags:
   - todo
   - draft

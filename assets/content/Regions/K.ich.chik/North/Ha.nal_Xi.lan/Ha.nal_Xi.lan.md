@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ha'nal Xi'lan
-  - doc-hanalxilan
 tags:
   - polity
 title: ""

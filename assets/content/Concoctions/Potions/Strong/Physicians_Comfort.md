@@ -2,7 +2,6 @@
 aliases:
   - "Physician's Comfort"
   - "Potion, Curative, Strong"
-  - concoctiongear-PtnCurS
 tags:
   - strong-elixir
 name:

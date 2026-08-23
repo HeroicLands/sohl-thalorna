@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Mórváhñä"
   - The Silent Keeper
-  - skill-morvahna
 tags:
   - ashalan
   - faith-skill

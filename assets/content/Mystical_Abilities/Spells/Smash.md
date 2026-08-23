@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shatter
-  - mysticalability-smash
 tags: []
 name:
   full: Smash

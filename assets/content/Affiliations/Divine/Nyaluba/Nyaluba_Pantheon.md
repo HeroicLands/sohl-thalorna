@@ -4,7 +4,6 @@ aliases:
   - Nyaluba Pantheon
   - Nyáluba Faith
   - The Totems of the Nyáluba
-  - affiliation-nyalbpnthn
 id: lx2CetoF1G21hylZ
 tags:
   - pantheon

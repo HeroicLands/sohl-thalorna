@@ -2,7 +2,6 @@
 aliases:
   - Êrmyn Véldarin
   - Ermyn Veldarin
-  - being-ermynvldrn
 tags:
   - todo-warrior
   - draft

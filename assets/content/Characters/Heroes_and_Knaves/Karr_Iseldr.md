@@ -3,7 +3,6 @@ aliases:
   - Kárr Íseldr
   - Kárr Íseldr
   - Karr Iseldr
-  - being-karriseldr
 tags:
   - heroes-and-knaves
 name:

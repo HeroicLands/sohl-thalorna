@@ -2,7 +2,6 @@
 aliases:
   - Harpêros Vârkrâtys
   - Harperos Varkratys
-  - being-hrprsvrkrtys
 tags:
   - draft
 name:

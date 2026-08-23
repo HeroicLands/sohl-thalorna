@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tjebu
-  - doc-tjebu
 id: MdjcGbF0x3kGbwQx
 type: doc
 category: settlement

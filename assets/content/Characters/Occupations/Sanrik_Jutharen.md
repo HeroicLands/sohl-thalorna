@@ -2,7 +2,6 @@
 aliases:
   - Sánrik Jútharen
   - Sanrik Jutharen
-  - being-sanrkjthrn
 tags:
   - draft
 name:

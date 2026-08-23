@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ferrovan
-  - doc-ferrovan
 id: Mk8aRx2vKp7Tb4Ln
 type: doc
 category: settlement

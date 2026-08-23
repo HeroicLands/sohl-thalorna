@@ -1,7 +1,6 @@
 ---
 aliases:
   - Polities
-  - doc-polities
 id: oG61RgHw1mC46eVc
 name:
   full: Polities

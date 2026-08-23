@@ -1,7 +1,6 @@
 ---
 aliases:
   - Languages of Thalorna
-  - doc-lnggsthlrn
 id: G8edp7iIvjWsum74
 type: doc
 category: lore

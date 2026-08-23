@@ -3,7 +3,6 @@ aliases:
   - Rǫgnvaldr Ásgrind
   - Rǫgnvaldr Ásgrind
   - Rognvaldr Asgrind
-  - being-rgnvldrsgrnd
 tags:
   - heroes-and-knaves
 name:

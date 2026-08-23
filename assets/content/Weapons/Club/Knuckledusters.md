@@ -1,7 +1,6 @@
 ---
 aliases:
   - Knuckledusters
-  - weapongear-kncldstr
 tags: []
 name:
   full: Knuckledusters

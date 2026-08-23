@@ -4,7 +4,6 @@ aliases:
   - The Solar Flame
   - Rā
   - Ra
-  - skill-ra
 tags:
   - kemetian
   - faith-skill

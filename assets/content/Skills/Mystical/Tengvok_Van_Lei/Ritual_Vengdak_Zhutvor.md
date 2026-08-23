@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Vëngdāk Zhütvōr"
   - Vëngdāk Zhütvōr
   - Vengdak Zhutvor
-  - skill-vngdkzhtvr
 tags:
   - celestial-pantheon
   - faith-skill

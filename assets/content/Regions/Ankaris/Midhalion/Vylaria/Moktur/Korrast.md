@@ -1,7 +1,6 @@
 ---
 aliases:
   - Korrast
-  - doc-korrast
 id: Mk5rKx2mKp7Tb4Ln
 type: doc
 category: settlement

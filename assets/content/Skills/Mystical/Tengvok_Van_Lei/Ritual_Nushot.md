@@ -5,7 +5,6 @@ aliases:
   - Nushot
   - The Burning Dissolution
   - The Unmaker
-  - skill-nushot
 tags:
   - celestial-pantheon
   - faith-skill

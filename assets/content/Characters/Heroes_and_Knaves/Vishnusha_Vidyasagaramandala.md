@@ -3,7 +3,6 @@ aliases:
   - Vishnusha Vidyāsāgaramaṇḍala
   - Vishnusha Vidyāsāgaramaṇḍala
   - Vishnusha Vidyasagaramandala
-  - being-vshnshvdysgrml
 tags:
   - heroes-and-knaves
 name:

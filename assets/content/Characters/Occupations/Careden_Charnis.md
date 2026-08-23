@@ -2,7 +2,6 @@
 aliases:
   - Cáreden Chárnis
   - Careden Charnis
-  - being-cardnchrns
 tags:
   - draft
 name:

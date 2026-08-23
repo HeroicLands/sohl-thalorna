@@ -1,7 +1,6 @@
 ---
 aliases:
   - Auric Compact
-  - affiliation-auricompct
 description: "Haradian banking cartel wielding financial leverage to dominate the post-independence Confederation and control commerce across the Vylarian Sea."
 type: affiliation
 sohl:

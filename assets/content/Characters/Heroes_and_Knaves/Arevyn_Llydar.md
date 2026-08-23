@@ -3,7 +3,6 @@ aliases:
   - Arévyn Llýdar
   - Arévyn Llýdar
   - Arevyn Llydar
-  - being-arevynlydr
 tags:
   - heroes-and-knaves
 name:

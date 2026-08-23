@@ -1,7 +1,6 @@
 ---
 aliases:
   - Link
-  - mysticalability-bond
 tags: []
 name:
   full: Bond

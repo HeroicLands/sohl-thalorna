@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kávrenath
-  - doc-kavrenath
 id: rpSFTksRLO0nmlv9
 type: doc
 category: settlement

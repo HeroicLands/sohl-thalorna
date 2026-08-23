@@ -1,7 +1,6 @@
 ---
 aliases:
   - Host
-  - mysticalability-sprtgrd
 tags: []
 name:
   full: Spiritguard

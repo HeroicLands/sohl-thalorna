@@ -2,7 +2,6 @@
 aliases:
   - Arkálòrdâs Kâlmâkanês
   - Arkalordas Kalmakanes
-  - being-arklrdsklmkns
 tags:
   - draft
 name:

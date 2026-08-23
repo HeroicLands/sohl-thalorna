@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tórnis Kúbrý
-  - being-torniskbry
 tags:
   - hero
   - silent-talon

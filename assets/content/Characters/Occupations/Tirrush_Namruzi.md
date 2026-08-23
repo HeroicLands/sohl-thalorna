@@ -2,7 +2,6 @@
 aliases:
   - Tirrûsh Namrûzî
   - Tirrush Namruzi
-  - being-tirushnmrz
 tags:
   - draft
 name:

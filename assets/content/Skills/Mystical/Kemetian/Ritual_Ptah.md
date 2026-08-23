@@ -6,7 +6,6 @@ aliases:
   - Phtah
   - The Shaper of the Eternal World
   - The Divine Craftsman
-  - skill-ptah
 tags:
   - kemetian
   - faith-skill

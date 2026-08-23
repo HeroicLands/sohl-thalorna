@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-owl
 tags: []
 name:
   full: Owl

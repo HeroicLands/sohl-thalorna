@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tz'ikin
-  - doc-tzikin2
 id: QmitOkNvJ61JJiuO
 type: doc
 category: settlement

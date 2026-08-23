@@ -2,7 +2,6 @@
 aliases:
   - Nkaru'thar
   - The Eternal Flame
-  - affiliation-nkaruthar
 id: Uyp9QEsfwpKzMwWX
 tags:
   - pantheon

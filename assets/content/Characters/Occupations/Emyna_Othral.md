@@ -2,7 +2,6 @@
 aliases:
   - Émyna Óthral
   - Emyna Othral
-  - being-emynaothrl
 tags:
   - draft
 name:

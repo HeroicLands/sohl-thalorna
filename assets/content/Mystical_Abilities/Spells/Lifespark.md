@@ -1,7 +1,6 @@
 ---
 aliases:
   - Breath
-  - mysticalability-lfsprk
 tags: []
 name:
   full: Lifespark

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Okháric
-  - doc-okharclngg
 id: 6z0OvxXd0ED3PnfW
 name:
   full: Okháric Language

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Paryan Barmandan
-  - being-prynbrmndn
 tags:
   - heroes-and-knaves
 name:

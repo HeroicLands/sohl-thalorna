@@ -2,7 +2,6 @@
 aliases:
   - Floréth Bránthira
   - Floreth Branthira
-  - being-flrthbrnthr
 tags:
   - draft
 name:

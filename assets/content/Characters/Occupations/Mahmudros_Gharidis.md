@@ -2,7 +2,6 @@
 aliases:
   - Maḥmûdrós Gharîdís
   - Mahmudros Gharidis
-  - being-mmdrsghrds
 tags:
   - draft
 name:

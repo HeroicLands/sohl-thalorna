@@ -1,7 +1,6 @@
 ---
 aliases:
   - Alyssar
-  - doc-alyssar
 id: tcjuUdxJxxs60dLX
 type: doc
 category: settlement

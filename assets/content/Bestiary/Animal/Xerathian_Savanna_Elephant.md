@@ -1,7 +1,6 @@
 ---
 aliases:
   - Xerathian Savanna Elephant
-  - being-xrthnsvn
 tags:
   - animal
 name:

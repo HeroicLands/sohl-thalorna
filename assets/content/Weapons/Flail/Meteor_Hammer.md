@@ -1,7 +1,6 @@
 ---
 aliases:
   - Meteor Hammer
-  - weapongear-MtrHmr
 tags: []
 name:
   full: Meteor Hammer

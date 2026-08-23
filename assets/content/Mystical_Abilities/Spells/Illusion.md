@@ -1,7 +1,6 @@
 ---
 aliases:
   - Glamour
-  - mysticalability-illusion
 tags: []
 name:
   full: Illusion

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Falkenstein
-  - doc-falkensten
 id: TgcoCbH421uQfKWo
 type: doc
 category: settlement

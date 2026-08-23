@@ -3,7 +3,6 @@ aliases:
   - "Ritual: Khóršádrä"
   - Bearer of Eternal Light
   - Wisdom Goddess
-  - skill-korsadra
 tags:
   - ashalan
   - faith-skill

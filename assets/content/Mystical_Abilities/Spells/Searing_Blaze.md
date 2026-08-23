@@ -1,7 +1,6 @@
 ---
 aliases:
   - Searing Blaze
-  - mysticalability-srgblz
 tags: []
 name:
   full: Searing Blaze

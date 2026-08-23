@@ -1,7 +1,6 @@
 ---
 aliases:
   - The Ash Road
-  - affiliation-theashroad
 tags: []
 description: "Desert caravan syndicate commanding vast interior territory through drug trafficking, antiquities smuggling, and tribal guides the empire cannot replace."
 package: thalorna

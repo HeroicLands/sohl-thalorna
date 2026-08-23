@@ -3,7 +3,6 @@ aliases:
   - Párthun Bélthal
   - Párthun Bélthal
   - Parthun Belthal
-  - being-prthnblthl
 tags:
   - heroes-and-knaves
 name:

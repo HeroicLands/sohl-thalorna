@@ -2,7 +2,6 @@
 aliases:
   - Zádìmêros Mâkîthôn
   - Zadimeros Makithon
-  - being-zdmrsmkthn
 tags:
   - draft
 name:

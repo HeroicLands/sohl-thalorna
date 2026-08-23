@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shape
-  - mysticalability-morph
 tags: []
 name:
   full: Morph

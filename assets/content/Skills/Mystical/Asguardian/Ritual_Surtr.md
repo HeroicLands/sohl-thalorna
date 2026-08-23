@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Súrtr"
   - The Flameborn Path
-  - skill-surtr
 tags:
   - asguardian
   - faith-skill

@@ -2,7 +2,6 @@
 aliases:
   - Ellimû Ashîmâ
   - Ellimu Ashima
-  - being-elimuashim
 tags:
   - draft
 name:

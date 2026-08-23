@@ -2,7 +2,6 @@
 aliases:
   - Vōrjīk Jëk
   - Vorjik Jek
-  - affiliation-vorjikjek
 id: 7u1nOZUiWdT5a007
 tags:
   - celestial-order

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hand
-  - mysticalability-grasp
 tags: []
 name:
   full: Grasp

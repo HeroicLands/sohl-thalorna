@@ -2,7 +2,6 @@
 aliases:
   - Fárila Válskyr
   - Farila Valskyr
-  - being-farlvlskyr
 tags:
   - draft
 name:

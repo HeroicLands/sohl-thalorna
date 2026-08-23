@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grimholt
-  - doc-grimholt
 id: nslauvnDvb7PsYKm
 type: doc
 category: settlement

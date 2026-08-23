@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-monitor
 tags: []
 name:
   full: Monitor

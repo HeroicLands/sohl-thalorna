@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thornhaven
-  - doc-thornhaven
 id: yWYG8HA84JUmJ0Xv
 type: doc
 category: settlement

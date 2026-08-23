@@ -1,7 +1,6 @@
 ---
 aliases:
   - Godwin Adwell
-  - being-godwinadwl
 tags:
   - draft
 name:

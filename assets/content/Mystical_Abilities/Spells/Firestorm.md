@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-frstrm
 tags: []
 name:
   full: Firestorm

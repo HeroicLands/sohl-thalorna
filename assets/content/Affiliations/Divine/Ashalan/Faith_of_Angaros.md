@@ -2,7 +2,6 @@
 aliases:
   - Faith of Ángáróš
   - The Shadowed Serpent
-  - affiliation-angaros
 id: u0iNnkgrWhg8HM0j
 tags:
   - religion

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mirelurker
-  - being-mrlrkr
 tags:
   - dreadspawn
 name:

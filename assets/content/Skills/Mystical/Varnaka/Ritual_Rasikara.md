@@ -4,7 +4,6 @@ aliases:
   - Rásikara
   - Rasikara
   - The Flame of Renewal
-  - skill-rasikara
 tags:
   - varnaka
   - faith-skill

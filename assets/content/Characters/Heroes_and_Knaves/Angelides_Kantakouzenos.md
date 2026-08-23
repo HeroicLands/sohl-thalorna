@@ -3,7 +3,6 @@ aliases:
   - Ángelides Kantakouzenós
   - Ángelides Kantakouzenós
   - Angelides Kantakouzenos
-  - being-angldskntkzns
 tags:
   - heroes-and-knaves
 name:

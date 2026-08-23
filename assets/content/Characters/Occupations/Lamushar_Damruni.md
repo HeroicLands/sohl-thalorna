@@ -2,7 +2,6 @@
 aliases:
   - Lamûshar Damrûnî
   - Lamushar Damruni
-  - being-lamshrdmrn
 tags:
   - draft
 name:

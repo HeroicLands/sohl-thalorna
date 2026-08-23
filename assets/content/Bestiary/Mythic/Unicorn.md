@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unicorn
-  - being-unicorn
 tags:
   - mythic
   - image-needed

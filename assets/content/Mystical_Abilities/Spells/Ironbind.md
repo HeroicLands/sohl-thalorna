@@ -1,7 +1,6 @@
 ---
 aliases:
   - Steel
-  - mysticalability-ironbind
 tags: []
 name:
   full: Ironbind

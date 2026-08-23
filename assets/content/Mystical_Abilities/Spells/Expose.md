@@ -1,7 +1,6 @@
 ---
 aliases:
   - Reveal
-  - mysticalability-expose
 tags: []
 name:
   full: Expose

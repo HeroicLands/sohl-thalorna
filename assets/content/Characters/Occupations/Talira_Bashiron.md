@@ -2,7 +2,6 @@
 aliases:
   - Tàlîra Bâshirôn
   - Talira Bashiron
-  - being-talirbshrn
 tags:
   - draft
 name:

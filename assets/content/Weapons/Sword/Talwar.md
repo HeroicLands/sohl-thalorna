@@ -1,7 +1,6 @@
 ---
 aliases:
   - Talwar
-  - weapongear-Tlwr
 tags: []
 name:
   full: Talwar

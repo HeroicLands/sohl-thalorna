@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Boar
-  - being-gntbr
 tags:
   - animal
 name:

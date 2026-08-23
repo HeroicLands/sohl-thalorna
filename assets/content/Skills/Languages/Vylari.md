@@ -1,6 +1,4 @@
 ---
-aliases:
-  - skill-langvyl
 tags: []
 name:
   full: Vylari

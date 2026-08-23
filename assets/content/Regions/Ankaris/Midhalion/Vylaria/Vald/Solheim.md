@@ -1,7 +1,6 @@
 ---
 aliases:
   - Solheim
-  - doc-solheim
 id: utl4pebzzsi9nAI4
 type: doc
 category: settlement

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Embassy from Dunavarre to Tānvür
-  - doc-embsydnvrtnvr
 id: vzPh6NZfidnmcxmI
 name:
   full: Embassy from Dunavarre to Tānvür

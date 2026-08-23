@@ -1,7 +1,6 @@
 ---
 aliases:
   - Helonic
-  - doc-helonclngg
 id: ueHoSPtKWLplL2ER
 name:
   full: Helonic Language

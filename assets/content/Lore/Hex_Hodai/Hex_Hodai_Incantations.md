@@ -1,7 +1,6 @@
 ---
 aliases:
   - Héx Hodäi Incantations
-  - doc-hxhdncnttns
 tags:
   - lore
   - arcane

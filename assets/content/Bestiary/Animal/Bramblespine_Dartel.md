@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bramblespine Dartel
-  - being-brmblspn
 tags:
   - animal
 name:

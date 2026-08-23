@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thornrat
-  - being-thornrat
 tags:
   - dreadspawn
 name:

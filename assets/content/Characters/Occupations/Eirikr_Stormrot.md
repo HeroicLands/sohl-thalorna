@@ -2,7 +2,6 @@
 aliases:
   - Eiríkr Stormrót
   - Eirikr Stormrot
-  - being-erkrstrmrt
 tags:
   - draft
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vine
-  - mysticalability-tangle
 tags: []
 name:
   full: Tangle

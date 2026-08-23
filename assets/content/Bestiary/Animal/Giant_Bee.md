@@ -1,7 +1,6 @@
 ---
 aliases:
   - Giant Bee
-  - being-giantbee
 tags:
   - animal
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vyālendra
-  - doc-vyalendra3
 id: Df8fe3ZzpuxYWWbE
 type: doc
 category: settlement

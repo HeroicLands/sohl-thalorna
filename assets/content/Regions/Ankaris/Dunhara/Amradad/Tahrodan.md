@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tahrodan
-  - doc-tahrodan
 id: gqBpXloRdqQrE3Og
 type: doc
 category: settlement

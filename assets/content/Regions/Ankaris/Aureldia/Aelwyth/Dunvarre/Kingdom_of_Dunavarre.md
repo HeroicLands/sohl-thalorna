@@ -2,7 +2,6 @@
 aliases:
   - Kingdom of Dúnavarre
   - Kingdom of Dunavarre
-  - doc-kingdmdnvr
 id: zOfXdRgVLSW3Tvt3
 description: "Island kingdom of Aelwyth ruled directly by a synod of Ordo Arcanis mages — unique on Ankaris as the only polity where the Ordo holds direct political power."
 type: doc

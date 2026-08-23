@@ -2,7 +2,6 @@
 aliases:
   - Gorâzendîs Bârês
   - Gorazendis Bares
-  - being-gorzndsbrs
 tags:
   - draft
 name:

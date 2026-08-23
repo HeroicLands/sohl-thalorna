@@ -2,7 +2,6 @@
 aliases:
   - Thornila Ríkhild
   - Thornila Rikhild
-  - being-thrnlrkhld
 tags:
   - todo
   - draft

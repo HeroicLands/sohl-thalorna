@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cave Goblin
-  - being-cvgbln
 tags:
   - folk
 name:

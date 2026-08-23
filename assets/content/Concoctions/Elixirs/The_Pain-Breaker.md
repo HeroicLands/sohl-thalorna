@@ -2,7 +2,6 @@
 aliases:
   - The Pain-Breaker
   - Traumashield Elixir
-  - concoctiongear-ElxTrm
 tags:
   - elixir
 name:

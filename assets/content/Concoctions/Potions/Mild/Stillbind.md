@@ -2,7 +2,6 @@
 aliases:
   - Stillbind
   - "Potion, Paralytic, Mild"
-  - concoctiongear-PtnParM
 tags:
   - mild-elixir
 name:

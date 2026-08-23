@@ -2,7 +2,6 @@
 aliases:
   - Élsaro Castírenna
   - Elsaro Castirenna
-  - being-elsarcstrn
 tags:
   - draft
 name:

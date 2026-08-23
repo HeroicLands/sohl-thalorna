@@ -1,7 +1,6 @@
 ---
 aliases:
   - Obedience
-  - mysticalability-loyalty
 tags: []
 name:
   full: Loyalty

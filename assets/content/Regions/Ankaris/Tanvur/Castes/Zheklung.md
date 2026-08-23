@@ -2,7 +2,6 @@
 aliases:
   - Zhëklüng
   - Zheklung
-  - doc-zheklung
 id: aKsAcLBGhRxCxtQa
 type: doc
 category: lore

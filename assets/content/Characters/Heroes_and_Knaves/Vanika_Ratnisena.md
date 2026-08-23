@@ -3,7 +3,6 @@ aliases:
   - Vànika Ratniseṇa
   - Vànika Ratniseṇa
   - Vanika Ratnisena
-  - being-vanikartns
 tags:
   - heroes-and-knaves
 name:

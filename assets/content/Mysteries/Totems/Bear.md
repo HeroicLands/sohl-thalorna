@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-bear
 tags: []
 name:
   full: Bear

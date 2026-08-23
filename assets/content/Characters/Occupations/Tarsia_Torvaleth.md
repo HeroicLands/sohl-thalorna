@@ -2,7 +2,6 @@
 aliases:
   - Társia Torvaleth
   - Tarsia Torvaleth
-  - being-tarstrvlth
 tags:
   - todo-warrior
   - draft

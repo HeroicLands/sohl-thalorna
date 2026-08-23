@@ -3,7 +3,6 @@ aliases:
   - Agápeia Varzánês
   - Agápeia Varzánês
   - Agapeia Varzanes
-  - being-agapevrzns
 tags:
   - heroes-and-knaves
 name:

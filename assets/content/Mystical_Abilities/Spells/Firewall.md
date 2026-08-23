@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wall
-  - mysticalability-firewall
 tags: []
 name:
   full: Firewall

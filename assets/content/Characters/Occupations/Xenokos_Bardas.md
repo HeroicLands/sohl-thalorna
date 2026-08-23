@@ -2,7 +2,6 @@
 aliases:
   - Xénokôs Bárdâs
   - Xenokos Bardas
-  - being-xenoksbrds
 tags:
   - todo-warrior
   - draft

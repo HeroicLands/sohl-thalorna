@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bjornstad
-  - doc-bjornstad
 id: 2L0cERpUeRn8zC00
 type: doc
 category: settlement

@@ -2,7 +2,6 @@
 aliases:
   - Îmarakîs Zêrâzêndis
   - Imarakis Zerazendis
-  - being-imrkszrznds
 tags:
   - draft
 name:

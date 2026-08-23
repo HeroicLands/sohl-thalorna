@@ -2,7 +2,6 @@
 aliases:
   - Faith of Zúráthrä
   - Mother of the Oasis
-  - affiliation-zurathra
 id: 1Go7PyToz0pzuoCy
 tags:
   - religion

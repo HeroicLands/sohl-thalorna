@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mysticalability-xmut
 tags: []
 name:
   full: Transmutation

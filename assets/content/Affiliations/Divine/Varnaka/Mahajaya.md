@@ -3,7 +3,6 @@ aliases:
   - Mahájaya
   - Mahajaya
   - The Eternal Preserver
-  - affiliation-mahajaya
 id: D4qPqQ18fKor8ilN
 tags:
   - varnaka

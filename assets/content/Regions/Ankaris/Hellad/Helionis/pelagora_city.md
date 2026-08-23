@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pelagora
-  - doc-pelagora2
 id: zbCX6Tb8noi8LFDF
 type: doc
 category: settlement

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-tuna
 tags: []
 name:
   full: Tuna

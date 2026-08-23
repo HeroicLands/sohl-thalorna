@@ -1,7 +1,6 @@
 ---
 aliases:
   - Victual
-  - mysticalability-sustain
 tags: []
 name:
   full: Sustain

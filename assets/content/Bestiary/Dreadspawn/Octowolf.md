@@ -1,7 +1,6 @@
 ---
 aliases:
   - Octowolf
-  - being-octowolf
 tags:
   - dreadspawn
 name:

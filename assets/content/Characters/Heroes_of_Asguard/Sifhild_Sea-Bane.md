@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sifhild Sea-Bane
-  - being-sifhildsbn
 tags:
   - paragon
   - heroes-of-asguard

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Eídma Zephäris
-  - affiliation-zepharis
 tags:
   - hex-hodai
 type: affiliation

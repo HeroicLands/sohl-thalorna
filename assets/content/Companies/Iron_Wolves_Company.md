@@ -2,7 +2,6 @@
 aliases:
   - Iron Wolves Company
   - The Iron Wolves
-  - doc-irnwlvscmpny
 tags:
   - company
   - mercenary

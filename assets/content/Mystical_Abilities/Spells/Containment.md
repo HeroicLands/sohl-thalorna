@@ -1,7 +1,6 @@
 ---
 aliases:
   - Globe
-  - mysticalability-cntnmnt
 tags: []
 name:
   full: Containment

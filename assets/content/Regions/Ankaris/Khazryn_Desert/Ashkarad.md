@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ashkarad
-  - doc-ashkarad
 id: kDexjFi0gHnVg2xA
 type: doc
 category: settlement

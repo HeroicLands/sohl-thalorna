@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-chelyx
 tags: []
 name:
   full: Chelyx

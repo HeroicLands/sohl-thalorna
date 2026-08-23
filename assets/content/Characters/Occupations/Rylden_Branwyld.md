@@ -2,7 +2,6 @@
 aliases:
   - Rýlden Brânwyld
   - Rylden Branwyld
-  - being-ryldnbrnwyld
 tags:
   - draft
 name:

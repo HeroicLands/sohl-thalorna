@@ -2,7 +2,6 @@
 aliases:
   - Waterheart
   - Aqua Elixir
-  - concoctiongear-ElxAqu
 tags:
   - elixir
 name:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Goda Barnwell
-  - being-godabarnwl
 tags:
   - draft
 name:

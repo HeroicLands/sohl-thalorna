@@ -1,7 +1,6 @@
 ---
 aliases:
   - Petrification
-  - mysticalability-stnbnd
 tags: []
 name:
   full: Stonebind

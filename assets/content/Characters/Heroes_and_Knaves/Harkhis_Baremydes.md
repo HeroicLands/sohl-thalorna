@@ -3,7 +3,6 @@ aliases:
   - Harkhîs Bàremydês
   - Harkhîs Bàremydês
   - Harkhis Baremydes
-  - being-hrkhsbrmyds
 tags:
   - heroes-and-knaves
 name:

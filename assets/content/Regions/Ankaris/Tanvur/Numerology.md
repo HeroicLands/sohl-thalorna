@@ -1,7 +1,6 @@
 ---
 aliases:
   - Numerology
-  - doc-numerology
 id: gu99gyoQOqq2hkDz
 type: doc
 category: lore

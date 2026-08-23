@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stormseer
-  - being-strmsr
 tags:
   - elemental
 name:

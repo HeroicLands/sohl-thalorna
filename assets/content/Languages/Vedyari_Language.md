@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vedyari
-  - doc-vedyarlngg
 id: 7wKctekqh7FR3R6t
 name:
   full: Vedyari Language

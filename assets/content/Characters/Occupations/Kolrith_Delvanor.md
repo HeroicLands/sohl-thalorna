@@ -2,7 +2,6 @@
 aliases:
   - Kólrith Delvánor
   - Kolrith Delvanor
-  - being-klrthdlvnr
 tags:
   - draft
 name:

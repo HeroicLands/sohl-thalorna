@@ -3,7 +3,6 @@ aliases:
   - Kjôrvan Gjârlen
   - Kjôrvan Gjârlen
   - Kjorvan Gjarlen
-  - being-kjrvngjrln
 tags:
   - heroes-and-knaves
 name:

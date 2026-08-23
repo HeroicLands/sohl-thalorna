@@ -2,7 +2,6 @@
 aliases:
   - Shamsûn
   - Shamsun
-  - doc-shamsun
 id: nlCErQbCazleD3Ns
 type: doc
 category: settlement

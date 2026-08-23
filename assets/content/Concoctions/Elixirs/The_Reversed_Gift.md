@@ -2,7 +2,6 @@
 aliases:
   - The Reversed Gift
   - Poison Elixir
-  - concoctiongear-ElxPsn
 tags:
   - elixir
 name:

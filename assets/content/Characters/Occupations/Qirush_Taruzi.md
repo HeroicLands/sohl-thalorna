@@ -2,7 +2,6 @@
 aliases:
   - Qirûsh Tarûzî
   - Qirush Taruzi
-  - being-qirushtarz
 tags:
   - draft
 name:

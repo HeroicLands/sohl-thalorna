@@ -3,7 +3,6 @@ aliases:
   - Rásikara
   - Rasikara
   - The Flame of Renewal
-  - affiliation-rasikara
 id: XDakQX8s87fWHT7t
 tags:
   - varnaka

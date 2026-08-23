@@ -2,7 +2,6 @@
 aliases:
   - Vólyra Brýlond
   - Volyra Brylond
-  - being-vlyrbrylnd
 tags:
   - draft
 name:

@@ -3,7 +3,6 @@ aliases:
   - Nakhtar AmunRâshet
   - Nakhtar Amun'Râshet
   - Nakhtar AmunRashet
-  - being-nkhtrmnrsht
 tags:
   - heroes-and-knaves
 name:

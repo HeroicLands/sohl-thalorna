@@ -1,7 +1,6 @@
 ---
 aliases:
   - Port Aelion
-  - doc-portaelion
 id: O2nIsw1YeLjYDhBp
 type: doc
 category: settlement

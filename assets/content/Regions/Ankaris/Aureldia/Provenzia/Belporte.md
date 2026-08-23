@@ -2,7 +2,6 @@
 aliases:
   - Belpòrte
   - Belporte
-  - doc-belporte
 id: fGQuj4lr8Fd0VQbZ
 type: doc
 category: settlement

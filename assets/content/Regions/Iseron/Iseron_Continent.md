@@ -2,7 +2,6 @@
 aliases:
   - Iseron Continent
   - Iseron
-  - doc-isrncntnnt
 tags:
   - continent
   - iseron

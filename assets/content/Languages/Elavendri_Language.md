@@ -3,7 +3,6 @@ aliases:
   - Élavendri
   - Élavendri_Language
   - Élavendri Language
-  - doc-elvndrlngg
 id: 3aj19bjs3aGT8tJe
 name:
   full: Élavendri Language

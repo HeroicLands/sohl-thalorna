@@ -2,7 +2,6 @@
 aliases:
   - Incantus Sidéros
   - Incantus Sideros
-  - skill-sideros
 tags:
   - hex-hodai
 type: skill

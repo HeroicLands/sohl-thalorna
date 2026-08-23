@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dunhara Tribes
-  - doc-dunhartrbs
 id: i6flX0XOcnBufahH
 description: "Confederation of nomadic tribes ruling the Dunhara Desert — horsemen, raiders, and herders bound by clan tradition and the code of the open sand."
 type: doc

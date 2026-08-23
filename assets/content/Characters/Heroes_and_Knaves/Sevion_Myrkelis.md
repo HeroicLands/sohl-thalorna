@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sevion Myrkelis
-  - being-sevnmyrkls
 tags:
   - heroes-and-knaves
   - hero

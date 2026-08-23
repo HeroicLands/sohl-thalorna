@@ -2,7 +2,6 @@
 aliases:
   - Dek Vetrdómr
   - Dek Vetrdomr
-  - being-dekvetrdmr
 tags:
   - heroes-and-knaves
 name:

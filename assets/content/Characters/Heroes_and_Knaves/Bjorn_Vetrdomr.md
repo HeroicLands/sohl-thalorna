@@ -3,7 +3,6 @@ aliases:
   - Bjǫrn Vetrdómr
   - Bjǫrn Vetrdómr
   - Bjorn Vetrdomr
-  - being-bjrnvtrdmr
 tags:
   - heroes-and-knaves
 name:

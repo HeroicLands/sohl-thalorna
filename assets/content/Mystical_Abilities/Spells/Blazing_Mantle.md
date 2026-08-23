@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blazing Mantle
-  - mysticalability-blzgmntl
 tags: []
 name:
   full: Blazing Mantle

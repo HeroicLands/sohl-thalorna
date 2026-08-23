@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ch'akul Tza'kul
-  - doc-chakultzkl2
 id: KSV987J7Ylm8L6ws
 type: doc
 category: settlement

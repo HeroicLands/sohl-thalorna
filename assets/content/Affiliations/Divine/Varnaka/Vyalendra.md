@@ -3,7 +3,6 @@ aliases:
   - Vyālendra
   - Vyalendra
   - The Shaper of Worlds
-  - affiliation-vyalendra
 id: qCv3VXR1zhjNSJ59
 tags:
   - varnaka

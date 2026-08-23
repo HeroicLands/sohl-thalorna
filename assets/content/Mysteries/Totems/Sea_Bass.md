@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sea Bass
-  - mystery-seabass
 tags: []
 name:
   full: Sea Bass

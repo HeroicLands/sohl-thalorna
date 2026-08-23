@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-tragyx
 tags: []
 name:
   full: Tragyx

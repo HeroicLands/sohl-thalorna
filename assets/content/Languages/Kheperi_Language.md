@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kheperi
-  - doc-kheperlngg
 id: Cuw78hELx266qC7P
 name:
   full: Kheperi Language

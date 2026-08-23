@@ -7,7 +7,6 @@ aliases:
   - Ātárzádegan
   - The Flame-born
   - The Twelve Tribes
-  - doc-tribestrzd
 tags: []
 type: doc
 category: polity

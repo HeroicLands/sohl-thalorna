@@ -1,6 +1,4 @@
 ---
-aliases:
-  - doc-heroesknvs
 id: NVpsgvPxktTz7Mu0
 title: "Heroes and Knaves"
 description: "Variety of characters from several cultures and occupations."

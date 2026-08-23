@@ -2,7 +2,6 @@
 aliases:
   - "Ritual: Týr"
   - The Just Path
-  - skill-tyr
 tags:
   - asguardian
   - faith-skill

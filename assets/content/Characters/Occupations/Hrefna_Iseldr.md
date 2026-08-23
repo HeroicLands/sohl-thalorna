@@ -2,7 +2,6 @@
 aliases:
   - Hrefna Íseldr
   - Hrefna Iseldr
-  - being-hrefnasldr
 tags:
   - draft
 name:

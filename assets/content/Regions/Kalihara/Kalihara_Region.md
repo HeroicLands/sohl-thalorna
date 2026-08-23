@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kalihara Region
-  - doc-kaliharargn
 tags:
   - region
 title: ""

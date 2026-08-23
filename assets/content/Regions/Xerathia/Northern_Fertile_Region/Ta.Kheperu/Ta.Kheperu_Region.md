@@ -2,7 +2,6 @@
 aliases:
   - Ta'Kheperu Region
   - Kheperi Region
-  - doc-takheperurgn
 tags:
   - region
 title: ""

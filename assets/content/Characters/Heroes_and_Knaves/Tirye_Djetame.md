@@ -2,7 +2,6 @@
 aliases:
   - Tirye Djetamê
   - Tirye Djet'amê
-  - being-tiryedjetm
 tags:
   - heroes-and-knaves
 name:

@@ -4,7 +4,6 @@ aliases:
   - Bethûan Trade-Houses
   - Bethûan Matriarchal Trade-Houses
   - The Houses
-  - affiliation-bthntrdhss
 tags: []
 description: "Federation of matriarchal trading clans that dominates Bethûan commerce — clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
 package: thalorna

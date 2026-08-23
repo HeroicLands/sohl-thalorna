@@ -3,7 +3,6 @@ aliases:
   - Khazári
   - Dwarven
   - Elder Tongue
-  - doc-khazarlngg
 id: oO7QJQ1p0Rk637cH
 name:
   full: Khazári Language

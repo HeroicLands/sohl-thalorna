@@ -2,7 +2,6 @@
 aliases:
   - Kélyra Sálthar
   - Kelyra Salthar
-  - being-kelyrslthr
 tags:
   - draft
 name:

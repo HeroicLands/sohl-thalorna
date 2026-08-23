@@ -1,6 +1,4 @@
 ---
-aliases:
-  - mystery-rabbit
 tags: []
 name:
   full: Rabbit

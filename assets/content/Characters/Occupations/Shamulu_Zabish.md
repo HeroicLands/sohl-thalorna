@@ -2,7 +2,6 @@
 aliases:
   - Shamûlû Zabîsh
   - Shamulu Zabish
-  - being-shamulzbsh
 tags:
   - todo
   - draft

@@ -3,7 +3,6 @@ aliases:
   - "Ritual: The Black Flame"
   - The Black Flame
   - Vúlcani Heresy
-  - skill-blackflame
 tags:
   - aureldian
   - faith-skill

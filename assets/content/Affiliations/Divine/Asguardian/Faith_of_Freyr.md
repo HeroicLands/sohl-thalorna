@@ -1,7 +1,6 @@
 ---
 aliases:
   - Faith of Fréyr
-  - affiliation-freyr
 id: L6VRwvMCiSPtVYGb
 tags:
   - asguardian

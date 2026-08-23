@@ -1,7 +1,6 @@
 ---
 aliases:
   - Stay
-  - mysticalability-halt
 tags: []
 name:
   full: Halt

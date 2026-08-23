@@ -2,7 +2,6 @@
 aliases:
   - Kalihári
   - Kalihari
-  - skill-langkal
 tags: []
 name:
   full: Kalihári

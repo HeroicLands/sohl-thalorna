@@ -1,7 +1,6 @@
 ---
 aliases:
   - Greywater
-  - doc-greywater
 id: md1o5v1VaxgYEye0
 type: doc
 category: settlement

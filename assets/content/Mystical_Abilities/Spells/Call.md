@@ -1,7 +1,6 @@
 ---
 aliases:
   - Beckon
-  - mysticalability-call
 tags: []
 name:
   full: Call

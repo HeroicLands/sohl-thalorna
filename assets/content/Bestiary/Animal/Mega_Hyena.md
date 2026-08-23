@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mega Hyena
-  - being-mghyn
 tags:
   - animal
 name:

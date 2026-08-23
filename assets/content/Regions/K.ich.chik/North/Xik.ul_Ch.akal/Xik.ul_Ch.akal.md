@@ -1,7 +1,6 @@
 ---
 aliases:
   - Xik'ul Ch'akal
-  - doc-xikulchakl
 tags:
   - polity
 title: ""

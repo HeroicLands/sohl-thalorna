@@ -2,7 +2,6 @@
 aliases:
   - Skjaldmær Eiriksdottir
   - Skjaldmaer Eiriksdottir
-  - being-skjldmrrksdtr
 tags:
   - paragon
   - heroes-of-asguard
