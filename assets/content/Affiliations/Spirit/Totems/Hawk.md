@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 2Ed7btYI6bIBYi7P
 img: images/mystery/hawk.webp
-shortcode: hawk
+shortcode: hawkttm
 type: affiliation
 package: thalorna
 sohl:

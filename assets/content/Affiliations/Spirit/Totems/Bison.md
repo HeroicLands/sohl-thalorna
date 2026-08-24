@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 2CpsqSoWBpEsHCU9
 img: images/mystery/bison.webp
-shortcode: bison
+shortcode: bisonttm
 type: affiliation
 package: thalorna
 sohl:

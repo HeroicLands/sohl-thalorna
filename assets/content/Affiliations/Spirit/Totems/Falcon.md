@@ -5,7 +5,7 @@ name:
   aliases: []
 id: RakVBHejmx0qHcIn
 img: images/mystery/falcon.webp
-shortcode: falcon
+shortcode: falconttm
 type: affiliation
 package: thalorna
 sohl:

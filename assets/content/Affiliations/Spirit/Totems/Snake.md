@@ -5,7 +5,7 @@ name:
   aliases: []
 id: An835dfH4ekHyiYC
 img: images/mystery/snake.webp
-shortcode: snake
+shortcode: snakettm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: zJVBT4rbche7Cmfb
 img: images/mystery/cow.webp
-shortcode: cow
+shortcode: cowttm
 type: affiliation
 package: thalorna
 sohl:

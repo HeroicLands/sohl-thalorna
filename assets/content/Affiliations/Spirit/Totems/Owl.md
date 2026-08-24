@@ -5,7 +5,7 @@ name:
   aliases: []
 id: Y1YuK9tAyQoCO3Pd
 img: images/mystery/owl.webp
-shortcode: owl
+shortcode: owlttm
 type: affiliation
 package: thalorna
 sohl:

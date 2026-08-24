@@ -5,7 +5,7 @@ name:
   aliases: []
 id: deLZxIhQUl5cFaIO
 img: images/mystery/goose.webp
-shortcode: goose
+shortcode: goosettm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 7tU9QZR1Fp4H8H3v
 img: images/mystery/dove.webp
-shortcode: dove
+shortcode: dovettm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: WxZsuNGUm8U7JpQn
 img: images/mystery/badger.webp
-shortcode: badger
+shortcode: badgerttm
 type: affiliation
 package: thalorna
 sohl:

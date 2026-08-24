@@ -5,7 +5,7 @@ name:
   aliases: []
 id: WvNQBTaORsEATNRc
 img: images/mystery/sheep.webp
-shortcode: sheep
+shortcode: sheepttm
 type: affiliation
 package: thalorna
 sohl:

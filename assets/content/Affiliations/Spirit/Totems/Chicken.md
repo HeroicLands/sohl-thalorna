@@ -5,7 +5,7 @@ name:
   aliases: []
 id: zAcMdNEQ72INVoNU
 img: images/mystery/chicken.webp
-shortcode: chicken
+shortcode: chickenttm
 type: affiliation
 package: thalorna
 sohl:

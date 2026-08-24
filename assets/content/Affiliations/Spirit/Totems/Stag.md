@@ -5,7 +5,7 @@ name:
   aliases: []
 id: sb0q3xC4IjjufQgP
 img: images/mystery/stag.webp
-shortcode: stag
+shortcode: stagttm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: kDExCsZvttQtSzlq
 img: images/mystery/bull.webp
-shortcode: bull
+shortcode: bullttm
 type: affiliation
 package: thalorna
 sohl:

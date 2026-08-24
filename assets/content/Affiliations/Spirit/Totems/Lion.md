@@ -5,7 +5,7 @@ name:
   aliases: []
 id: MU6HVFla6YShVxgi
 img: images/mystery/lion.webp
-shortcode: lion
+shortcode: lionttm
 type: affiliation
 package: thalorna
 sohl:

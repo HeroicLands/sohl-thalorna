@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 5JA4yOkD0TqwsDMp
 img: images/mystery/ox.webp
-shortcode: ox
+shortcode: oxttm
 type: affiliation
 package: thalorna
 sohl:

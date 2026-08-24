@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 06wasGpojK17FTdC
 img: images/mystery/donkey.webp
-shortcode: donkey
+shortcode: donkeyttm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: lWxRr0XkTqO3qDNa
 img: images/mystery/goat.webp
-shortcode: goat
+shortcode: goatttm
 type: affiliation
 package: thalorna
 sohl:

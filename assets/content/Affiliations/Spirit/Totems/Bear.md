@@ -5,7 +5,7 @@ name:
   aliases: []
 id: IPxMGQOSQBsOi48s
 img: images/mystery/bear.webp
-shortcode: bear
+shortcode: bearttm
 type: affiliation
 package: thalorna
 sohl:

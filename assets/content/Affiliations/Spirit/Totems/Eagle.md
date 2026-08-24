@@ -5,7 +5,7 @@ name:
   aliases: []
 id: T2EpauXH7NkoWDwt
 img: images/mystery/eagle.webp
-shortcode: eagle
+shortcode: eaglettm
 type: affiliation
 package: thalorna
 sohl:

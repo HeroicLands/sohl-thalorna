@@ -5,7 +5,7 @@ name:
   aliases: []
 id: UZVuHQMOLIbrSvYS
 img: images/mystery/horse.webp
-shortcode: horse
+shortcode: horsettm
 type: affiliation
 package: thalorna
 sohl:

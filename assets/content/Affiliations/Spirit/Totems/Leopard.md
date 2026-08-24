@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 9kURQgBvCgSoahoC
 img: images/mystery/leopard.webp
-shortcode: leopard
+shortcode: leopardttm
 type: affiliation
 package: thalorna
 sohl:

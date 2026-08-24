@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 1CsCdba2A5DtIurL
 img: images/mystery/tuna.webp
-shortcode: tuna
+shortcode: tunattm
 type: affiliation
 package: thalorna
 sohl:

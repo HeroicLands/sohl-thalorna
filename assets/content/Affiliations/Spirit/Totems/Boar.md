@@ -5,7 +5,7 @@ name:
   aliases: []
 id: jdBjqI048XnA4tfr
 img: images/mystery/boar.webp
-shortcode: boar
+shortcode: boarttm
 type: affiliation
 package: thalorna
 sohl:

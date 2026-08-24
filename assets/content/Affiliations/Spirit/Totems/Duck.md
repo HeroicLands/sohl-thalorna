@@ -5,7 +5,7 @@ name:
   aliases: []
 id: iQHwJSWiNaowM9nN
 img: images/mystery/duck.webp
-shortcode: duck
+shortcode: duckttm
 type: affiliation
 package: thalorna
 sohl:

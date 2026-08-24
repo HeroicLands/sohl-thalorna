@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 7sSIfjhmqoOP3h0E
 img: images/mystery/trout.webp
-shortcode: trout
+shortcode: troutttm
 type: affiliation
 package: thalorna
 sohl:

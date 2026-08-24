@@ -5,7 +5,7 @@ name:
   aliases: []
 id: Ck1MuvxjKNQu79F4
 img: images/mystery/sturgeon.webp
-shortcode: sturgeon
+shortcode: sturgeonttm
 type: affiliation
 package: thalorna
 sohl:

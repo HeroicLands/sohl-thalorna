@@ -7,7 +7,7 @@ name:
   aliases: []
 id: tGunwcnHgwsjE6Ht
 img: images/mystery/seabass.webp
-shortcode: seabass
+shortcode: seabassttm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: aVh7hIiGfJgn3CRU
 img: images/mystery/hamster.webp
-shortcode: hamster
+shortcode: hamsterttm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: HIWEuBejSbFz9oAK
 img: images/mystery/lynx.webp
-shortcode: lynx
+shortcode: lynxttm
 type: affiliation
 package: thalorna
 sohl:

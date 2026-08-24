@@ -5,7 +5,7 @@ name:
   aliases: []
 id: KkBgTFTb3CYb58uj
 img: images/mystery/turkey.webp
-shortcode: turkey
+shortcode: turkeyttm
 type: affiliation
 package: thalorna
 sohl:

@@ -7,7 +7,7 @@ name:
   aliases: []
 id: wYrQBhECXQGbEMw5
 img: images/mystery/wolf.webp
-shortcode: wolf
+shortcode: wolfttm
 type: affiliation
 package: thalorna
 sohl:

@@ -5,7 +5,7 @@ name:
   aliases: []
 id: 0xUsGQi0l0TkirTM
 img: images/mystery/hedgehog.webp
-shortcode: hedgehog
+shortcode: hedgehogttm
 type: affiliation
 package: thalorna
 sohl:

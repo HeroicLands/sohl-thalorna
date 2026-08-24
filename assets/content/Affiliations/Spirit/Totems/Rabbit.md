@@ -5,7 +5,7 @@ name:
   aliases: []
 id: FflqdVjsjGPrZYY9
 img: images/mystery/rabbit.webp
-shortcode: rabbit
+shortcode: rabbitttm
 type: affiliation
 package: thalorna
 sohl:

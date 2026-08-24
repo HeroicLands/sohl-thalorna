@@ -5,7 +5,7 @@ name:
   aliases: []
 id: qPI5hH1aPPOfpS35
 img: images/mystery/whale.webp
-shortcode: whale
+shortcode: whalettm
 type: affiliation
 package: thalorna
 sohl:

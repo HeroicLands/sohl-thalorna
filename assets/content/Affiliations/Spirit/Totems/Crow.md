@@ -5,7 +5,7 @@ name:
   aliases: []
 id: XHwwkctPOTYwybx5
 img: images/mystery/crow.webp
-shortcode: crow
+shortcode: crowttm
 type: affiliation
 package: thalorna
 sohl:

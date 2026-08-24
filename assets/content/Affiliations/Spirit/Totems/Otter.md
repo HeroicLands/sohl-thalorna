@@ -5,7 +5,7 @@ name:
   aliases: []
 id: fXswwp4qhC9zXrtZ
 img: images/mystery/otter.webp
-shortcode: otter
+shortcode: otterttm
 type: affiliation
 package: thalorna
 sohl:

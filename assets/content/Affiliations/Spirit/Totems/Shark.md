@@ -5,7 +5,7 @@ name:
   aliases: []
 id: yKOy6VLXsYFHVggm
 img: images/mystery/shark.webp
-shortcode: shark
+shortcode: sharkttm
 type: affiliation
 package: thalorna
 sohl:

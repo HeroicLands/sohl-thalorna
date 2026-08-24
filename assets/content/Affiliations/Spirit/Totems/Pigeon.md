@@ -5,7 +5,7 @@ name:
   aliases: []
 id: GOFYJG8SHFbxXoPh
 img: images/mystery/pigeon.webp
-shortcode: pigeon
+shortcode: pigeonttm
 type: affiliation
 package: thalorna
 sohl:

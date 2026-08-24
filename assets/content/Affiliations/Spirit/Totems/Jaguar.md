@@ -5,7 +5,7 @@ name:
   aliases: []
 id: wUJqCGHtATIIh99Q
 img: images/mystery/jaguar.webp
-shortcode: jaguar
+shortcode: jaguarttm
 type: affiliation
 package: thalorna
 sohl:
