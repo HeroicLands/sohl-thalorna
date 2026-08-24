@@ -17,6 +17,7 @@ sohl:
   title: null
   level: null
   relation: {}
+  archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---
 
