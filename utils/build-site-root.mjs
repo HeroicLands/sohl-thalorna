@@ -57,33 +57,33 @@ export const PACKAGE_DIR = "thalorna";
  * in the document (`<meta name="robots">`), which is passed through untouched.
  */
 export const HEADERS = [
-  "https://:project.pages.dev/*",
-  "  X-Robots-Tag: noindex",
-  "",
-  "https://:version.:project.pages.dev/*",
-  "  X-Robots-Tag: noindex",
-  "",
+    "https://:project.pages.dev/*",
+    "  X-Robots-Tag: noindex",
+    "",
+    "https://:version.:project.pages.dev/*",
+    "  X-Robots-Tag: noindex",
+    "",
 ].join("\n");
 
 function main() {
-  const root = path.resolve(SITE_OUT);
-  const rendered = path.join(root, PACKAGE_DIR);
+    const root = path.resolve(SITE_OUT);
+    const rendered = path.join(root, PACKAGE_DIR);
 
-  if (!fs.existsSync(path.join(rendered, "index.html"))) {
-    console.error(
-      `build-site-root: ${SITE_OUT}/${PACKAGE_DIR}/ holds no rendered ` +
-        `site — run \`npm run build:site\` first.`,
-    );
-    process.exit(1);
-  }
+    if (!fs.existsSync(path.join(rendered, "index.html"))) {
+        console.error(
+            `build-site-root: ${SITE_OUT}/${PACKAGE_DIR}/ holds no rendered ` +
+                `site — run \`npm run build:site\` first.`,
+        );
+        process.exit(1);
+    }
 
-  fs.writeFileSync(path.join(root, "_headers"), HEADERS);
-  console.log(`build-site-root: wrote ${SITE_OUT}/_headers.`);
+    fs.writeFileSync(path.join(root, "_headers"), HEADERS);
+    console.log(`build-site-root: wrote ${SITE_OUT}/_headers.`);
 }
 
 if (
-  process.argv[1] &&
-  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
+    process.argv[1] &&
+    path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
 ) {
-  main();
+    main();
 }
