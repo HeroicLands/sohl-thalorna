@@ -30,5 +30,5 @@ This person is a solitary and calculated individual, using their strength and st
 - **Behavioral:** Stealthy, capable of intense bursts of power and action.
 - **Positive:** Strong, efficient, and strategic.
 - **Negative:** Secretive, solitary, and may avoid teamwork.
-- **Minor Trait:** Patient and observant, preferring to study a situation thoroughly before acting and always keeping their true intentions close.
-- **Major Disorder:** Cold and calculating in their solitude, patiently studying others for weaknesses to exploit when the moment serves them.
+- **Minor Trait (Cunning):** Patient and observant, preferring to study a situation thoroughly before acting and always keeping their true intentions close.
+- **Major Disorder (Antisocial):** Cold and calculating in their solitude, patiently studying others for weaknesses to exploit when the moment serves them.

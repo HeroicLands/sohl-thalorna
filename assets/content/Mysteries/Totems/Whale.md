@@ -30,5 +30,5 @@ Highly social and expressive, this person enjoys deep connections and uses commu
 - **Behavioral:** Majestic, highly communicative, cooperative in social structures.
 - **Positive:** Social, expressive, and empathetic.
 - **Negative:** Can become overwhelmed by group dynamics and may struggle with solitary tasks.
-- **Minor Trait:** Deeply attuned to the emotions of those around them, easily moved by the moods of others and sometimes wounded by what others would shrug off.
-- **Major Disorder:** Exquisitely sensitive to the moods and judgments of others, withdrawing at the faintest hint of rejection into isolated melancholy.
+- **Minor Trait (Sensitive):** Deeply attuned to the emotions of those around them, easily moved by the moods of others and sometimes wounded by what others would shrug off.
+- **Major Disorder (Avoidant):** Exquisitely sensitive to the moods and judgments of others, withdrawing at the faintest hint of rejection into isolated melancholy.

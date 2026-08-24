@@ -30,5 +30,5 @@ Proud and steadfast, this person is highly aware of their strengths and maintain
 - **Behavioral:** Proud, vigilant, always aware of surroundings.
 - **Positive:** Strong, vigilant, and confident.
 - **Negative:** Can be overly proud, competitive, and confrontational.
-- **Minor Trait:** Carries themselves with quiet dignity and self-assurance, standing tall in any company and expecting to be treated with respect.
-- **Major Disorder:** Fiercely proud and constantly on guard against any slight to their dignity, reacting with disproportionate aggression to perceived disrespect.
+- **Minor Trait (Confident):** Carries themselves with quiet dignity and self-assurance, standing tall in any company and expecting to be treated with respect.
+- **Major Disorder (Narcissistic):** Fiercely proud and constantly on guard against any slight to their dignity, reacting with disproportionate aggression to perceived disrespect.

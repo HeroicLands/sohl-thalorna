@@ -32,5 +32,5 @@ Strongly valuing teamwork and planning, this individual operates effectively wit
 - **Behavioral:** Highly cooperative, skilled in social strategies and teamwork.
 - **Positive:** Team player, strategic, and cooperative.
 - **Negative:** May be overly reliant on group decisions and struggle with independence.
-- **Minor Trait:** Works best alongside others, naturally collaborative and most comfortable when acting as part of a trusted group.
-- **Major Disorder:** Cannot function outside the pack, surrendering all personal judgment to the group and becoming paralyzed with indecision when forced to act alone.
+- **Minor Trait (Team-oriented):** Works best alongside others, naturally collaborative and most comfortable when acting as part of a trusted group.
+- **Major Disorder (Codependent):** Cannot function outside the pack, surrendering all personal judgment to the group and becoming paralyzed with indecision when forced to act alone.

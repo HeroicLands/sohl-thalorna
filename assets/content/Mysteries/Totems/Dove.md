@@ -30,5 +30,5 @@ This person is peaceful and harmonious, seeking strong, friendly bonds with othe
 - **Behavioral:** Companionable, seeks peace and harmony in social settings.
 - **Positive:** Peaceful, harmonious, and good at forming bonds.
 - **Negative:** Overly dependent on companionship and may avoid conflict even when necessary.
-- **Minor Trait:** Warm and accommodating, preferring harmony over conflict and readily deferring to others to keep the peace.
-- **Major Disorder:** Utterly dependent on others for comfort and guidance, unable to make even simple decisions alone and falling apart when separated from companions.
+- **Minor Trait (Agreeable):** Warm and accommodating, preferring harmony over conflict and readily deferring to others to keep the peace.
+- **Major Disorder (Codependent):** Utterly dependent on others for comfort and guidance, unable to make even simple decisions alone and falling apart when separated from companions.

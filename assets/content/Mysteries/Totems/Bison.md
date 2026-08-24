@@ -30,5 +30,5 @@ Steadfast and dependable, this person places a high value on family and communit
 - **Behavioral:** Stoic in face of adversity, protective of loved ones and territory.
 - **Positive:** Loyal, dependable, and community-oriented.
 - **Negative:** Overprotective, inflexible, and resistant to change.
-- **Minor Trait:** Steadfast and dependable to a fault, always there when needed but sometimes slow to accept that others can manage on their own.
-- **Major Disorder:** Becomes emotionally rigid and smotheringly overprotective, refusing all change and controlling their surroundings with an iron grip in a desperate attempt to feel safe and stable.
+- **Minor Trait (Reliable):** Steadfast and dependable to a fault, always there when needed but sometimes slow to accept that others can manage on their own.
+- **Major Disorder (Stoic):** Becomes emotionally rigid and smotheringly overprotective, refusing all change and controlling their surroundings with an iron grip in a desperate attempt to feel safe and stable.

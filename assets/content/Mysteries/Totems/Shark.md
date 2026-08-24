@@ -30,5 +30,5 @@ Highly driven by their instincts, this individual pursues their goals with unyie
 - **Behavioral:** Relentless, driven by strong instincts, effective in pursuit.
 - **Positive:** Driven, focused, and effective.
 - **Negative:** Ruthless, overly aggressive, and may not consider others' feelings.
-- **Minor Trait:** Relentlessly focused on their goals, pushing forward with tireless determination and little tolerance for anything that slows them down.
-- **Major Disorder:** Relentlessly driven and utterly without empathy, cutting through the lives of others in single-minded pursuit of their goals.
+- **Minor Trait (Energetic):** Relentlessly focused on their goals, pushing forward with tireless determination and little tolerance for anything that slows them down.
+- **Major Disorder (Antisocial):** Relentlessly driven and utterly without empathy, cutting through the lives of others in single-minded pursuit of their goals.

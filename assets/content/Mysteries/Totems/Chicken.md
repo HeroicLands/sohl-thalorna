@@ -30,5 +30,5 @@ Easily startled and cautious, this individual seeks safety in familiarity and ro
 - **Behavioral:** Timid and easily startled, wary of risks and changes.
 - **Positive:** Quick reflexes, cautious, and community-oriented.
 - **Negative:** Easily startled, anxious, and overly reliant on group dynamics.
-- **Minor Trait:** Thinks things through carefully before acting, sometimes hesitating longer than necessary while weighing every possible risk.
-- **Major Disorder:** Gripped by relentless, paralyzing worry over every conceivable danger, unable to find peace or rest.
+- **Minor Trait (Cautious):** Thinks things through carefully before acting, sometimes hesitating longer than necessary while weighing every possible risk.
+- **Major Disorder (Anxiety):** Gripped by relentless, paralyzing worry over every conceivable danger, unable to find peace or rest.

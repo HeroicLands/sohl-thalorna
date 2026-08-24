@@ -30,5 +30,5 @@ Highly motivated and resilient, this person embarks on long-term pursuits with u
 - **Behavioral:** Highly driven, endures through long challenges and pursuits.
 - **Positive:** Highly motivated, resilient, and enduring.
 - **Negative:** May overexert themselves and be overly single-minded.
-- **Minor Trait:** Throws themselves wholeheartedly into their pursuits, maintaining a pace and intensity that others find difficult to match.
-- **Major Disorder:** Driven by an obsessive, all-consuming focus on their goals, unable to rest or relent even when exhaustion and reason demand it.
+- **Minor Trait (Energetic):** Throws themselves wholeheartedly into their pursuits, maintaining a pace and intensity that others find difficult to match.
+- **Major Disorder (Obsessive):** Driven by an obsessive, all-consuming focus on their goals, unable to rest or relent even when exhaustion and reason demand it.

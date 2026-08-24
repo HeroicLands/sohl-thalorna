@@ -30,5 +30,5 @@ This person embodies a free-spirited nature, thriving in groups but often follow
 - **Behavioral:** Free-spirited, values independence, often rebellious.
 - **Positive:** Independent, adventurous, and freedom-loving.
 - **Negative:** Undisciplined, irresponsible, and resistant to structure.
-- **Minor Trait:** Drawn to the open road and new experiences, chafing under too many rules and happiest when free to set their own course.
-- **Major Disorder:** Rebels against all rules and expectations with reckless abandon, acting out destructively and refusing to answer to anyone.
+- **Minor Trait (Adventurous):** Drawn to the open road and new experiences, chafing under too many rules and happiest when free to set their own course.
+- **Major Disorder (Aggressive):** Rebels against all rules and expectations with reckless abandon, acting out destructively and refusing to answer to anyone.

@@ -30,5 +30,5 @@ Gregarious and flexible, this person thrives in diverse environments and builds 
 - **Behavioral:** Highly adaptable, enjoys social interaction, quick to adjust to surroundings.
 - **Positive:** Social, adaptable, and builds strong relationships.
 - **Negative:** May be too reliant on social approval and could struggle with independence.
-- **Minor Trait:** Thrives in the company of others, naturally gravitating toward groups and drawing energy from social interaction and approval.
-- **Major Disorder:** Craves constant attention and approval, becoming dramatic and emotionally unstable when ignored or overlooked.
+- **Minor Trait (Sociable):** Thrives in the company of others, naturally gravitating toward groups and drawing energy from social interaction and approval.
+- **Major Disorder (Narcissistic):** Craves constant attention and approval, becoming dramatic and emotionally unstable when ignored or overlooked.

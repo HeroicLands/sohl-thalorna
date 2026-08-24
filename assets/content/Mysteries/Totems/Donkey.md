@@ -30,5 +30,5 @@ Stubborn and resilient, this person stands firm in their beliefs and resists bei
 - **Behavioral:** Extremely patient, often stubborn and resistant to change.
 - **Positive:** Resilient, persistent, and patient.
 - **Negative:** Stubborn, resistant to guidance, and inflexible.
-- **Minor Trait:** Quietly tenacious, holding to their chosen course with steady patience even when others have long since given up or moved on.
-- **Major Disorder:** Outwardly patient and calm, but under any pressure their stubbornness hardens into an immovable wall, refusing all compromise or change with a quiet, implacable obstinacy.
+- **Minor Trait (Stubborn):** Quietly tenacious, holding to their chosen course with steady patience even when others have long since given up or moved on.
+- **Major Disorder (Stubborn):** Outwardly patient and calm, but under any pressure their stubbornness hardens into an immovable wall, refusing all compromise or change with a quiet, implacable obstinacy.

@@ -30,5 +30,5 @@ Routine-oriented and faithful, this person has strong homing instincts and a sen
 - **Behavioral:** Loyal, prefers routine and familiar environments.
 - **Positive:** Loyal, consistent, and routine-oriented.
 - **Negative:** May be overly predictable and resistant to breaking habits or exploring new experiences.
-- **Minor Trait:** Devoted to their people and their commitments, finding deep comfort in familiar bonds and well-worn routines.
-- **Major Disorder:** Rigidly bound to their daily patterns and loyalties, becoming deeply distressed and disoriented by any deviation from the expected order.
+- **Minor Trait (Loyal):** Devoted to their people and their commitments, finding deep comfort in familiar bonds and well-worn routines.
+- **Major Disorder (Obsessive):** Rigidly bound to their daily patterns and loyalties, becoming deeply distressed and disoriented by any deviation from the expected order.

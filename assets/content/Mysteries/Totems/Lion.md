@@ -30,5 +30,5 @@ This person is a natural leader who works well within a team, using their strate
 - **Behavioral:** Dominant, strategic in leadership and social engagements.
 - **Positive:** Natural leader, cooperative, and strategic.
 - **Negative:** Can be domineering and may struggle with letting others take charge.
-- **Minor Trait:** Naturally commanding, expecting to lead and carrying themselves with an authority that others instinctively defer to.
-- **Major Disorder:** Demands unwavering admiration and obedience, treating any challenge to their authority as a personal affront deserving of swift retribution.
+- **Minor Trait (Assertive):** Naturally commanding, expecting to lead and carrying themselves with an authority that others instinctively defer to.
+- **Major Disorder (Narcissistic):** Demands unwavering admiration and obedience, treating any challenge to their authority as a personal affront deserving of swift retribution.

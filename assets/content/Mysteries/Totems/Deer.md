@@ -30,5 +30,5 @@ Constantly vigilant, this individual is always aware of their surroundings. They
 - **Behavioral:** Always alert, evasive and elusive, often avoiding confrontation.
 - **Positive:** Vigilant, alert, and responsive to danger.
 - **Negative:** Skittish, elusive, and may avoid social interactions.
-- **Minor Trait:** Keenly attuned to changes in their surroundings, reacting swiftly to new developments and picking up on signals others miss.
-- **Major Disorder:** Lives in a state of constant, exhausting alertness, flinching at every shadow and fleeing from perceived threats that others cannot see, unable to hold steady in work or relationships.
+- **Minor Trait (Responsive):** Keenly attuned to changes in their surroundings, reacting swiftly to new developments and picking up on signals others miss.
+- **Major Disorder (Anxiety):** Lives in a state of constant, exhausting alertness, flinching at every shadow and fleeing from perceived threats that others cannot see, unable to hold steady in work or relationships.

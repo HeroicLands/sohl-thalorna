@@ -30,5 +30,5 @@ Highly social and inquisitive, this person thrives on interaction and enjoys pla
 - **Behavioral:** Highly curious, playful, enjoys exploring new environments.
 - **Positive:** Social, curious, and engaging.
 - **Negative:** May be overly playful and less focused on serious tasks.
-- **Minor Trait:** Lighthearted and full of energy, always looking for fun and sometimes struggling to take serious matters as seriously as others would like.
-- **Major Disorder:** Incapable of stillness or focus, driven by boundless restless energy that makes sustained effort or quiet reflection impossible.
+- **Minor Trait (Playful):** Lighthearted and full of energy, always looking for fun and sometimes struggling to take serious matters as seriously as others would like.
+- **Major Disorder (Impulsive):** Incapable of stillness or focus, driven by boundless restless energy that makes sustained effort or quiet reflection impossible.

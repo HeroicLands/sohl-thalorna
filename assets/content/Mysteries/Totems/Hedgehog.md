@@ -30,5 +30,5 @@ Preferring to stay hidden and alone, this individual relies on their defenses to
 - **Behavioral:** Prefers solitude, defensive and wary of threats.
 - **Positive:** Self-protective, independent, and resilient.
 - **Negative:** Overly defensive and may isolate themselves too much.
-- **Minor Trait:** Guards their inner world carefully, slow to let others in and quick to raise defenses at the first sign of intrusion.
-- **Major Disorder:** Profoundly withdrawn and emotionally detached, showing no desire for human connection and living entirely within their own inner world.
+- **Minor Trait (Self-protective):** Guards their inner world carefully, slow to let others in and quick to raise defenses at the first sign of intrusion.
+- **Major Disorder (Avoidant):** Profoundly withdrawn and emotionally detached, showing no desire for human connection and living entirely within their own inner world.

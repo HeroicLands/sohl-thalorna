@@ -30,5 +30,5 @@ Highly determined and unwavering, this person faces challenges head-on. Their st
 - **Behavioral:** Willful, confrontational, takes a headstrong approach to challenges.
 - **Positive:** Strong-willed, determined, and resilient.
 - **Negative:** Stubborn, aggressive, and hard to reason with.
-- **Minor Trait:** Speaks their mind plainly and stands their ground, occasionally pushing back harder than the situation calls for.
-- **Major Disorder:** Chronically defiant and combative, refusing authority and picking fights over even trivial matters out of sheer obstinacy.
+- **Minor Trait (Assertive):** Speaks their mind plainly and stands their ground, occasionally pushing back harder than the situation calls for.
+- **Major Disorder (Stubborn):** Chronically defiant and combative, refusing authority and picking fights over even trivial matters out of sheer obstinacy.

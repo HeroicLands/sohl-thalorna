@@ -30,5 +30,5 @@ Highly observant and quick to act, this person spots opportunities and threats f
 - **Behavioral:** Observant, takes swift and decisive actions.
 - **Positive:** Highly observant, quick-witted, and effective.
 - **Negative:** May be impulsive and overly focused, potentially missing broader contexts.
-- **Minor Trait:** Locks onto a task with intense concentration, sometimes becoming so absorbed that everything else fades into the background.
-- **Major Disorder:** Locked into obsessive patterns of thought and behavior, unable to break free from compulsive rituals and fixations that consume their days.
+- **Minor Trait (Focused):** Locks onto a task with intense concentration, sometimes becoming so absorbed that everything else fades into the background.
+- **Major Disorder (Obsessive):** Locked into obsessive patterns of thought and behavior, unable to break free from compulsive rituals and fixations that consume their days.

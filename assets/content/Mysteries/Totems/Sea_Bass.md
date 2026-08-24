@@ -32,5 +32,5 @@ Strategic and patient, this individual waits for the perfect moment to act. They
 - **Behavioral:** Stealthy, takes full advantage of opportunities that arise.
 - **Positive:** Strategic, patient, and precise.
 - **Negative:** Secretive, mistrustful, and opportunistic at the expense of others.
-- **Minor Trait:** Keeps their own counsel, revealing little and preferring to watch and wait rather than show their hand too soon.
-- **Major Disorder:** A patient and calculating predator who stalks opportunities to manipulate and exploit others, devoid of empathy and driven solely by a hunger for control and gain.
+- **Minor Trait (Reticent):** Keeps their own counsel, revealing little and preferring to watch and wait rather than show their hand too soon.
+- **Major Disorder (Obsessive):** A patient and calculating predator who stalks opportunities to manipulate and exploit others, devoid of empathy and driven solely by a hunger for control and gain.

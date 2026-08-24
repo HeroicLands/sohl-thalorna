@@ -30,5 +30,5 @@ Inquisitive and adventurous, this person constantly explores and tests their env
 - **Behavioral:** Inquisitive and determined, won't shy away from obstacles.
 - **Positive:** Inquisitive, adventurous, and resilient.
 - **Negative:** Can be overly stubborn and reckless in pursuing curiosity.
-- **Minor Trait:** Endlessly curious and eager to explore, sometimes wandering into trouble simply because something caught their interest.
-- **Major Disorder:** Restless and impulsive to a reckless degree, leaping from one thing to the next without thought for consequences or the chaos left behind.
+- **Minor Trait (Inquisitive):** Endlessly curious and eager to explore, sometimes wandering into trouble simply because something caught their interest.
+- **Major Disorder (Impulsive):** Restless and impulsive to a reckless degree, leaping from one thing to the next without thought for consequences or the chaos left behind.

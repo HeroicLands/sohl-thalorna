@@ -30,5 +30,5 @@ This individual balances pride with vigilance, displaying confidence while remai
 - **Behavioral:** Proud, cautious, always on the lookout for danger.
 - **Positive:** Confident, vigilant, and social.
 - **Negative:** May be overly cautious and stubbornly prideful.
-- **Minor Trait:** Proud and watchful, keeping careful track of who does what and carrying a quiet suspicion of others' motives.
-- **Major Disorder:** Suspicious of everyone's motives and fiercely proud, interpreting innocent actions as threats and nursing grudges over imagined slights.
+- **Minor Trait (Vigilant):** Proud and watchful, keeping careful track of who does what and carrying a quiet suspicion of others' motives.
+- **Major Disorder (Suspicious):** Suspicious of everyone's motives and fiercely proud, interpreting innocent actions as threats and nursing grudges over imagined slights.

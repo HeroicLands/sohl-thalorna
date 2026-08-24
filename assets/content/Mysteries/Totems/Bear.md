@@ -30,5 +30,5 @@ Quiet and reclusive, this person enjoys their own company and avoids unnecessary
 - **Behavioral:** Prefers solitude, generally calm demeanor but potentially explosive when provoked.
 - **Positive:** Self-sufficient, calm, and introspective.
 - **Negative:** Reclusive, avoidant, and emotionally distant.
-- **Minor Trait:** Quietly prefers their own company, needing solitude to recharge and often slipping away from gatherings without explanation.
-- **Major Disorder:** Withdraws completely from the company of others, overwhelmed by shyness and a deep reluctance to engage with the world.
+- **Minor Trait (Introverted):** Quietly prefers their own company, needing solitude to recharge and often slipping away from gatherings without explanation.
+- **Major Disorder (Avoidant):** Withdraws completely from the company of others, overwhelmed by shyness and a deep reluctance to engage with the world.

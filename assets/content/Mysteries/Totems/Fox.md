@@ -30,5 +30,5 @@ Deceitful and intelligent, this individual uses their sharp mind to navigate cha
 - **Behavioral:** Smart, resourceful, able to outwit and maneuver through challenges.
 - **Positive:** Clever, strategic, and resourceful.
 - **Negative:** Deceitful, manipulative, and may use cunning at the expense of others' trust.
-- **Minor Trait:** Finds a way through most problems with quick thinking and charm, comfortable bending the rules when a straight path isn't available.
-- **Major Disorder:** A habitual deceiver who manipulates everyone around them through lies and charm, viewing honesty as a weakness to be exploited.
+- **Minor Trait (Resourceful):** Finds a way through most problems with quick thinking and charm, comfortable bending the rules when a straight path isn't available.
+- **Major Disorder (Antisocial):** A habitual deceiver who manipulates everyone around them through lies and charm, viewing honesty as a weakness to be exploited.

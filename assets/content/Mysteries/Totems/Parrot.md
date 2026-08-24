@@ -30,5 +30,5 @@ Outgoing and communicative, this individual thrives on interaction and enjoys en
 - **Behavioral:** Highly social, vocal and communicative, enjoys interaction.
 - **Positive:** Communicative, social, and interactive.
 - **Negative:** Overly talkative, needs attention, and may not enjoy solitude.
-- **Minor Trait:** Open and animated in sharing their thoughts and feelings, naturally drawing the attention of those around them.
-- **Major Disorder:** Desperately performs for the approval of others, growing frantic and emotionally erratic when they feel overlooked or unappreciated.
+- **Minor Trait (Dramatic):** Open and animated in sharing their thoughts and feelings, naturally drawing the attention of those around them.
+- **Major Disorder (Narcissistic):** Desperately performs for the approval of others, growing frantic and emotionally erratic when they feel overlooked or unappreciated.
