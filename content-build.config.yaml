@@ -128,6 +128,10 @@ packageBuild:
     # templates. The compendium packs are not listed either: `build:compiledb`
     # compiles them into `build/stage/packs` directly from `assets/content`.
     assets:
+        # The module's entry point, copied rather than bundled. It imports
+        # nothing, so there is nothing for a bundler to resolve: the browser
+        # loads this file directly from the `esmodules` entry in the manifest.
+        - { from: src/sohl-thalorna.mjs, to: sohl-thalorna.mjs }
         - { from: lang, to: lang }
         # Declared in the manifest's `styles`, so Foundry loads it whenever the
         # module is active — including under another system, where the system's
