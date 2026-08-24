@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: nervous
-  disorder: anxiety
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

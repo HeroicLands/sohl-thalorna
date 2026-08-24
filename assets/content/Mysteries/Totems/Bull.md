@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: decisive
-  disorder: angerchr
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

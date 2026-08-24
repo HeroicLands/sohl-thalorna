@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: adventurous
-  disorder: aggressive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

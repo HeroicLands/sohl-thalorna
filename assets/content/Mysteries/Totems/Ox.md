@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: resilient
-  disorder: codependent
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

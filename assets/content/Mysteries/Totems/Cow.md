@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: calm
-  disorder: depression
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

@@ -16,8 +16,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: teamoriented
-  disorder: codependent
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

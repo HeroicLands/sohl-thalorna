@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: vigilant
-  disorder: suspicious
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

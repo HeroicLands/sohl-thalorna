@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: cautious
-  disorder: anxiety
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: intuitive
-  disorder: anxiety
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

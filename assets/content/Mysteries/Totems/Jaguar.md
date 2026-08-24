@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: cunning
-  disorder: antisocial
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

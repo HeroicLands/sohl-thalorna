@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: self-sufficient
-  disorder: obsessive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

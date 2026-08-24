@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: playful
-  disorder: impulsive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

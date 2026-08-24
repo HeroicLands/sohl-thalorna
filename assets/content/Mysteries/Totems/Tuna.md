@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: energetic
-  disorder: obsessive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

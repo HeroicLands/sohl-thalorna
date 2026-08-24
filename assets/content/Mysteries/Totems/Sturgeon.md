@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: patient
-  disorder: avoidant
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

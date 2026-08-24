@@ -16,8 +16,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: reticent
-  disorder: obsessive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

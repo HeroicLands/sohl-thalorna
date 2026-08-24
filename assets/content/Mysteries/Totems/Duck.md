@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: sociable
-  disorder: narcissistic
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

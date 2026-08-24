@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: reliable
-  disorder: stoic
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: dramatic
-  disorder: narcissistic
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

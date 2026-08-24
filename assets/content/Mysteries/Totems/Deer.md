@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: responsive
-  disorder: anxiety
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---

@@ -14,8 +14,6 @@ sohl:
   charges:
     value: null
     max: null
-  trait: loyal
-  disorder: obsessive
   archetype: null
 folder: vRIKmqTJtHtY4VEX
 ---
