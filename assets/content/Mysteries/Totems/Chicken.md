@@ -12,9 +12,8 @@ sohl:
   subType: other
   levelBase: 0
   charges:
-    usesCharges: false
-    value: 0
-    max: 0
+    value: null
+    max: null
   trait: cautious
   disorder: anxiety
   archetype: null

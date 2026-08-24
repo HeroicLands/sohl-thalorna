@@ -20,9 +20,8 @@ sohl:
   levelBase: 5
   masteryLevelBase: 0
   charges:
-    usesCharges: false
-    value: 0
-    max: 0
+    value: null
+    max: null
   archetype: null
 hmk:
   name: Balsam
