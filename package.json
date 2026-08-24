@@ -1,5 +1,6 @@
 {
   "name": "sohl-thalorna",
+  "private": true,
   "productName": "Thalorna Setting",
   "description": "Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands",
   "version": "0.0.1",
@@ -62,7 +63,7 @@
     "changeset:check": "changeset status --since=origin/main"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.28.1",
+    "@changesets/cli": "^3.0.1",
     "@heroiclands/content-build": "^1.4.0",
     "@heroiclands/hugo-theme": "^0.1.2",
     "@heroiclands/package-build": "^0.6.0",
