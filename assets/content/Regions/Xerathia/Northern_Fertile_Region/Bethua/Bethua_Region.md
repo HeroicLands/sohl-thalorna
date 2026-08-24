@@ -26,7 +26,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - bethunlngg
+  - bethunlng
 ---
 
 ## Overview

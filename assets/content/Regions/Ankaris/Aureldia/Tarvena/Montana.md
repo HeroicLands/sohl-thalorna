@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Walled City"
 population: null
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -22,7 +22,7 @@ parent:
   regions:
     - aelwyth
 languages:
-  - elvndrlngg
+  - elvndrlng
 pantheons:
   - arldnpnthn
 peoples:
@@ -75,5 +75,5 @@ Kingdom of Dúnavarre uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Ar
 - [[doc-elavendre|Élavendre]] — Nearest mainland region, cultural cousin
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Governing institution
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — State pantheon
-- [[doc-elvndrlngg|Élavendri]] — Naming conventions
+- [[skill-elvndrlng|Élavendri]] — Naming conventions
 - [[doc-vylarinmpr|Vylarian Empire]] — Diplomatic rival

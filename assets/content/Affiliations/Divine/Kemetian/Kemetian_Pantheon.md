@@ -74,4 +74,4 @@ This theological framework gives the Kemetían faith a coherence that impressed 
 
 - [[doc-empirtkhpr|Empire of Ta'Kheperu]] — The civilization
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
-- [[doc-kheperlngg|Kheperi]] — Naming conventions
+- [[skill-kheperlng|Kheperi]] — Naming conventions

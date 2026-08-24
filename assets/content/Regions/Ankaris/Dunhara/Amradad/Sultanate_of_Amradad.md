@@ -24,7 +24,7 @@ parent:
   regions:
     - amradadrgn
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 peoples:

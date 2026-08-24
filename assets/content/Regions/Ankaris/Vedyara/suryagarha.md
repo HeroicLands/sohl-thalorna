@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortress City"
 population: null
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 package: thalorna

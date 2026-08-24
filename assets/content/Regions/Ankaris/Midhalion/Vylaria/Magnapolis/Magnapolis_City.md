@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Capital City"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

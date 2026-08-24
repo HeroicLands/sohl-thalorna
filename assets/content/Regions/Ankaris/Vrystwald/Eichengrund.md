@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Woodland Village"
 population: null
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 package: thalorna

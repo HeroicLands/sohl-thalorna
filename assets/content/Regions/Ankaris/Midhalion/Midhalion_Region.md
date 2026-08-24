@@ -49,7 +49,7 @@ The interior hinterlands that feed the sea's commerce are themselves diverse: th
 
 Mídhalión is overwhelmingly human. The demographic range is extraordinary even so — from the fair-skinned northerners of coastal Vylaria to the dark-skinned Ta'Kheperians and Bethuans of the southern shore, with every shade and every admixture in between, especially in the great port cities where intermarriage across ethnic and national lines is three thousand years old and still ongoing.
 
-Non-human peoples are scarce but present. Small [[doc-flksinale|Sinalë]] enclaves are documented in Élavendre and in the oldest temples of Ta'Kheperu. A handful of [[doc-flkkhazar|Khazári]] halls are rumored in the highland margins. [[skill-langgru|Grukar]] trading communities — small, carefully managed, carefully segregated — exist in a few Mídhalion port cities as the result of far-northern traders who settled at the end of their trading careers rather than return home.
+Non-human peoples are scarce but present. Small [[doc-flksinale|Sinalë]] enclaves are documented in Élavendre and in the oldest temples of Ta'Kheperu. A handful of [[doc-flkkhazar|Khazári]] halls are rumored in the highland margins. [[skill-grukarlng|Grukar]] trading communities — small, carefully managed, carefully segregated — exist in a few Mídhalion port cities as the result of far-northern traders who settled at the end of their trading careers rather than return home.
 
 Culturally, the port cities of Mídhalión share more with each other than with their interiors. A sailor or merchant moving from Vylaris to [[doc-sanctara|Sanctara]] to [[doc-alyssar|Alyssar]] to [[doc-byzaris|Byzaris]] to [[doc-wasetkara|Wasetkara]] encounters different languages, different pantheons, different architectural styles — but a recognizably similar mercantile class, similar dockside institutions, similar cosmopolitan attitudes toward religion and marriage and law. This "port city" culture is its own thing, distinct from any of the inland cultures that feed it, and it has its own traditions and its own continuity.
 
@@ -67,7 +67,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] is the one institution that crosses
 
 ## Trade
 
-Mídhalión is the densest trading economy in Thalorna. Its commerce operates on multiple timescales simultaneously — daily fishing and coastal cabotage, seasonal grain and wine shipments, annual long-distance exchanges of silks and spices that originated in the far east and find their markets in Aurèldían courts. The common trade language is [[doc-valtarlngg|Valtári]], a pidgin of Vylarian, Helonic, and Haradi foundations that is understood in every significant port.
+Mídhalión is the densest trading economy in Thalorna. Its commerce operates on multiple timescales simultaneously — daily fishing and coastal cabotage, seasonal grain and wine shipments, annual long-distance exchanges of silks and spices that originated in the far east and find their markets in Aurèldían courts. The common trade language is [[skill-valtarlng|Valtári]], a pidgin of Vylarian, Helonic, and Haradi foundations that is understood in every significant port.
 
 Every major commodity-class of Thalorna moves through the region. Vylarian steel, Helionite wisdom and oil, Haradian spice and cloth, Provenzian art, Tarvénan grain, Ta'Kheperian grain and papyrus and gold, Okhárian bronzework, Bethuan leather and textiles, far-eastern silk and porcelain and tea, Dunhari salt and camels, Vedyari gems and manuscripts — all of it circulates, all of it is taxed and transshipped and marked up, and the accumulated wealth of the port cities reflects their position as the intermediaries of the known world.
 
@@ -93,6 +93,6 @@ Mídhalión operates on the **Common Calendar** — the AF/BF system established
 - [[doc-okharis|Okháris]] — southwestern three-flamed kingdom
 - [[doc-mtrrchybth|Matriarchy of Bethua]] — southeastern matriarchal kingdom
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — cross-border arcane institution
-- [[doc-valtarlngg|Valtári]] — the trade pidgin
+- [[skill-valtarlng|Valtári]] — the trade pidgin
 - [[doc-ankrscntnnt|Ankaris Continent]] — northern continent
 - [[doc-xerathia|Xerathia]] — southern continent

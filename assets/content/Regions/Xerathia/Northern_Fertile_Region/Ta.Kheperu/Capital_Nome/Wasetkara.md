@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Imperial City (Capital)"
 population: 450000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

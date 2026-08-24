@@ -25,7 +25,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - helonclngg
+  - helonclng
 folder: ss38lwZR9eyT4C7A
 ---
 

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortress Town"
 population: 24000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

@@ -19,7 +19,7 @@ parent:
   polities:
     - kostaros2
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 peoples:

@@ -23,7 +23,7 @@ parent:
   regions:
     - midhalnrgn
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
   - ashanpnthn
@@ -202,7 +202,7 @@ Confederation of Haradian States uses the [[doc-hardncrncy|Haradian currency sys
 - [[doc-dunharargn|Dunhara Region]] — Eastern overland trade routes
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Arcane guild with complicated local status
 - [[doc-vylarianse|Vylarian Sea]] — Harad's maritime domain
-- [[doc-haradilngg|Haradi]] — Naming conventions
+- [[skill-haradilng|Haradi]] — Naming conventions
 - [[affiliation-arldnpnthn|Aurèldían]] — Primary pantheon
 - [[affiliation-ashanpnthn|Āsháian]] — Secondary pantheon (eastern states)
 - [[doc-tamavar|Tamavar]], [[doc-kethara|Kethara]], [[doc-varoshan|Varoshan]], [[doc-ashkabel|Ashkabel]] — Major city-states

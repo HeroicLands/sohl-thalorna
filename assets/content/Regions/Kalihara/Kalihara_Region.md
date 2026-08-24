@@ -23,8 +23,8 @@ pantheons:
 peoples:
   - human
 languages:
-  - kalihrlngg
-  - valtarlngg
+  - kalihrlng
+  - valtarlng
 ---
 
 ## Overview

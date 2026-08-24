@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Naval City"
 population: null
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 package: thalorna

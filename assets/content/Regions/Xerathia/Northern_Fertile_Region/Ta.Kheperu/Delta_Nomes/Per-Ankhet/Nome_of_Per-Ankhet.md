@@ -18,7 +18,7 @@ government:
   type: nome
   summary: The premier delta nome, governed by a hereditary Haty'a who is as much a merchant-prince and diplomat as a provincial governor.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: perankhet
 population: "~1,100,000"
 pantheons:

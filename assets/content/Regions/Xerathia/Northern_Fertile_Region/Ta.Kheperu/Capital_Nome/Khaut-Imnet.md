@@ -9,7 +9,7 @@ category: settlement
 settlementType: "General Necropolis (the burial-fields of Wasetkara)"
 population: 0
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

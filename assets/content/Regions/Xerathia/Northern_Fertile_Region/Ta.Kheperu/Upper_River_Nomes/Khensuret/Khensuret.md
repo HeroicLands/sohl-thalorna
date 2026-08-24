@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Temple City (Necropolis)"
 population: 90000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

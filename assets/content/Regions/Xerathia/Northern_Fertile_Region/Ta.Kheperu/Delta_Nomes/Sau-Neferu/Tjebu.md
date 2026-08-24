@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Wine Town"
 population: 12000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

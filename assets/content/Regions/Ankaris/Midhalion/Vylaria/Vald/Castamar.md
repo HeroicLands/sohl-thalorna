@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Naval City (Military Hub)"
 population: 20000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

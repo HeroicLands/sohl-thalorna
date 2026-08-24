@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Caravan City"
 population: null
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
   - ashanpnthn

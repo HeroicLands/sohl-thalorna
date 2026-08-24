@@ -18,7 +18,7 @@ government:
   type: nome
   summary: The principal southern frontier nome, governed by a hereditary Haty'a who functions as the empire's military governor of the cataract march.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: behen
 population: "~320,000"
 pantheons:

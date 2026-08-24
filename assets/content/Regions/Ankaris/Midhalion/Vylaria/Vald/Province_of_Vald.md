@@ -16,7 +16,7 @@ government:
   type: province
   summary: Maritime/commercial province of the Vylarian Empire, governed by an imperial appointee.
 languages:
-  - vylarilngg
+  - vylarilng
 capital: mercavia
 population: "~5,000,000"
 pantheons:

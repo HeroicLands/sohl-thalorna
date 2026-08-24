@@ -26,7 +26,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - dunharlngg
+  - dunharlng
 folder: PbQ9B1r6hEaJvyco
 ---
 
@@ -119,7 +119,7 @@ To the **northwest** lies [[doc-vrystwald|Vrystwald]] across a long mountain-and
 ## See Also
 
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — primary pantheon, shared with Dunhara and Harad
-- [[doc-dunharlngg|Dunhari]] — the related naming tradition
+- [[skill-dunharlng|Dunhari]] — the related naming tradition
 - [[doc-heladrgn|Hellád Region]] — western gateway
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — western trading partner
 - [[doc-dunharargn|Dunhara Region]] — southern desert cousin

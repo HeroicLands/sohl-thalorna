@@ -7,8 +7,8 @@ category: settlement
 settlementType: "Lakeside Village"
 population: null
 languages:
-  - elvndrlngg
-  - nordmalngg
+  - elvndrlng
+  - nordmalng
 pantheons:
   - arldnpnthn
   - asguardian

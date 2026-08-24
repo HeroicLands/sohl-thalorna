@@ -33,7 +33,7 @@ government:
   type: confederation
   summary: Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each of the eleven constituent villages and from the principal artisan, merchant, and scholar guilds of the central town. By long tradition the sabhā includes one **Memory-Keeper** — a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 peoples:
@@ -120,4 +120,4 @@ Rājapur Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administer
 - [[doc-rajapur|Rājapur]] — the King's-Town settlement note
 - [[doc-chandrapur|Chandrapur]] — patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[doc-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlng|Vedyari]] — language

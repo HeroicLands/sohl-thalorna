@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Market & Temple Town"
 population: 45000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

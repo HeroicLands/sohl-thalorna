@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Hill Town"
 population: null
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 package: thalorna

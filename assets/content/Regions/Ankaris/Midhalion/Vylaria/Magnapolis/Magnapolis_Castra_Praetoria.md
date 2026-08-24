@@ -15,7 +15,7 @@ category: settlement
 settlementType: "Imperial Fortress"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 id: Ct9rPx2mKvL4Qb7n

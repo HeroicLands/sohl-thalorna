@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Provincial Capital"
 population: 45000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

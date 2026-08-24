@@ -1,0 +1,32 @@
+---
+tags: []
+name:
+  full: Jaguar
+  aliases: []
+id: wUJqCGHtATIIh99Q
+img: images/mystery/jaguar.webp
+shortcode: jaguarttm
+type: affiliation
+package: thalorna
+sohl:
+  subType: spirit
+  society: null
+  office: null
+  title: null
+  level: null
+  relation: {}
+folder: vRIKmqTJtHtY4VEX
+---
+
+Stealthy and powerful, jaguars are solitary hunters that rely on their strength and stealth to ambush and overpower their prey in dense forests.
+
+## Human Personality
+
+This person is a solitary and calculated individual, using their strength and stealth to achieve their goals. They are efficient and often prefer working alone.
+
+- **Physical:** Muscular and agile; quiet but powerful movements.
+- **Behavioral:** Stealthy, capable of intense bursts of power and action.
+- **Positive:** Strong, efficient, and strategic.
+- **Negative:** Secretive, solitary, and may avoid teamwork.
+- **Minor Trait (Cunning):** Patient and observant, preferring to study a situation thoroughly before acting and always keeping their true intentions close.
+- **Major Disorder (Antisocial):** Cold and calculating in their solitude, patiently studying others for weaknesses to exploit when the moment serves them.

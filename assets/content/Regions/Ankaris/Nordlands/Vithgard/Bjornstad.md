@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortified Settlement / Regional Capital"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

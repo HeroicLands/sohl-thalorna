@@ -21,7 +21,7 @@ parent:
   continents:
     - ankrscntnnt
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 peoples:

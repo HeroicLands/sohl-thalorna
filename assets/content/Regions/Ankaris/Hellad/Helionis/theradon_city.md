@@ -7,7 +7,7 @@ category: settlement
 settlementType: "City-State"
 population: null
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 package: thalorna

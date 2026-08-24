@@ -26,7 +26,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - nordmalngg
+  - nordmalng
 folder: yCT7BtuH6hMwWnob
 ---
 
@@ -42,7 +42,7 @@ The climate is brutal by Ankarian standards. Winters last for months and drag a 
 
 ## Peoples and Culture
 
-The Normen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[doc-kngdmnrdhm|Nordheim]], [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[doc-nordmalngg|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _þing_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
+The Normen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[doc-kngdmnrdhm|Nordheim]], [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _þing_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
 The _þing_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
@@ -78,7 +78,7 @@ Far to the south, Mídhalión is the great market. Normen traders and mercenarie
 
 - [[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — the five Nordmal kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — the Twelve of the north
-- [[doc-nordmalngg|Nordmal Language]] — the shared tongue
+- [[skill-nordmalng|Nordmal Language]] — the shared tongue
 - [[doc-grkrhlmrgn|Grukarhölm]] — eastern neighbor
 - [[doc-vrystwald|Vrystwald]] — southern frontier
 - [[doc-aelwyth|Aelwyth]] — religious syncretism and cultural cousin

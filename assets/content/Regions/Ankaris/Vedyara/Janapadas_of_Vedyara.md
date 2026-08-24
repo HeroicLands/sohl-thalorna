@@ -28,7 +28,7 @@ parent:
   regions:
     - vedyarargn
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 peoples:
@@ -97,5 +97,5 @@ Janapadas of Vedyara uses the [[doc-vdyrnbnkng|Vedyaran banking system]] adminis
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition that holds the janapadas together
 - [[doc-chandrapur|Chandrapur]], [[doc-vyalendra2|Vyālendra]], [[doc-vindhyalay|Vindhyālaya]] — the great city-states
 - [[doc-dhnrktjnpd|Dhanurkota Janapada]], [[doc-rajaprjnpd|Rajapur Janapada]], [[doc-suvrgrjnpd|Suvarnagiri Janapada]] — three particular janapadas
-- [[doc-vedyarlngg|Vedyari]] — the shared language
+- [[skill-vedyarlng|Vedyari]] — the shared language
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

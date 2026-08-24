@@ -7,7 +7,7 @@ category: settlement
 settlementType: "City"
 population: null
 languages:
-  - kicheklngg
+  - kicheklng
 pantheons:
   - itzanpnthn
 package: thalorna

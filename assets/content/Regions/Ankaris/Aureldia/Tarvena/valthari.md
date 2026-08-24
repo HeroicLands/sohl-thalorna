@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Free City"
 population: null
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Trade City"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

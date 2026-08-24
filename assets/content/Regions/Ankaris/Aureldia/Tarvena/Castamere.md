@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Castle Town"
 population: null
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 package: thalorna

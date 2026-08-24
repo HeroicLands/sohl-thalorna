@@ -19,7 +19,7 @@ government:
   type: city-state
   summary: Council of caravansary masters and merchant-princes.
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
   - ashanpnthn

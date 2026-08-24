@@ -11,7 +11,7 @@ name:
   aliases: []
 shortcode: tahrodan
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 peoples:
@@ -35,5 +35,5 @@ The spiritual life of Tahrodan centers upon the Āsháian pantheon, with major t
 ## See Also
 
 - [[doc-sultntmrdd|Sultanate of Amradad]] — Regional overview
-- [[doc-dunharlngg|Dunhari]] — Naming tradition
+- [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

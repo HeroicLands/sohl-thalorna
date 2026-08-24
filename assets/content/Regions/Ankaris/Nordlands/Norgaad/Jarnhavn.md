@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Fortified Harbor Town"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

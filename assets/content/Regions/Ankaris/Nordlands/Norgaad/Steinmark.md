@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Inland Trade Town"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

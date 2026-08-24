@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Settlement"
 population: null
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 package: thalorna

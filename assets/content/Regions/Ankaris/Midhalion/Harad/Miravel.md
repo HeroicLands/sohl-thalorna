@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Merchant Town"
 population: null
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
   - ashanpnthn

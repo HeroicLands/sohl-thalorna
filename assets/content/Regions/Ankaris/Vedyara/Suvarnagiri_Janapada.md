@@ -33,7 +33,7 @@ government:
   type: confederation
   summary: Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri. Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions — extraction, taxation, allocation of the temple-share — require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 peoples:
@@ -113,4 +113,4 @@ Suvarṇagiri Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] admin
 - [[doc-suvaragiri|Suvarṇagiri]] — the central town settlement note
 - [[doc-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[doc-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlng|Vedyari]] — language

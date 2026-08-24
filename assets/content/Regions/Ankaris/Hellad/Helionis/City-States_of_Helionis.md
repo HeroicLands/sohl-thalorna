@@ -20,7 +20,7 @@ parent:
   regions:
     - helionis
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 peoples:

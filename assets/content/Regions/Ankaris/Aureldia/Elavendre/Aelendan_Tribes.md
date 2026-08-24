@@ -22,7 +22,7 @@ parent:
   regions:
     - alndntrblnds
 languages:
-  - aelendlngg
+  - aelendlng
 pantheons:
   - firstgods
 peoples:
