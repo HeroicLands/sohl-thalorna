@@ -18,7 +18,7 @@ government:
   type: nome
   summary: An eastern frontier mining-nome governed by a hereditary Haty'a in his capacity as military governor of the hill-mines and desert roads.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: bakhu
 population: "~350,000"
 pantheons:

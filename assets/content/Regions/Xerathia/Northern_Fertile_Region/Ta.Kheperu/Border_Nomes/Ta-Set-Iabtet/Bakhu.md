@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortified Mining Town"
 population: 22000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

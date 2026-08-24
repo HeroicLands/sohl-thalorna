@@ -15,7 +15,7 @@ category: settlement
 settlementType: "Imperial Citadel"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 id: In9rCt4xMzQp7Lub

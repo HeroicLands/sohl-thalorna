@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Tomb-Workers' Village (walled)"
 population: 6000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

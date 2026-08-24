@@ -24,11 +24,11 @@ parent:
 peoples:
   - grukar
 languages:
-  - grukarlngg
+  - grukarlng
 folder: CNzTSOtYWZwLyp5k
 ---
 
-Grukarhölm is a landlocked enclave at the eastern margin of the [[doc-nrdlndsrgn|Nordlands]] — a country of dense mixed-and-coniferous forest, vast roadless marshlands, slow brown rivers, and innumerable shallow lakes that is the recognized homeland of the [[skill-grukarlngg|Grukar]]. It is wholly surrounded by Nordmal-and-Velanthian neighbors and has no coast of its own; what natural defenses it possesses come not from mountains or seas but from the forest cover and the swamp country itself, which is impassable to organized armies for most of the year. Unlike the neighboring Nordmal kingdoms, Grukarhölm is not a confederation of sovereign kingdoms but a constantly shifting mosaic of tribal war-camps, held in precarious check by the hive-politics of Grukar society and by the brutal logic of a country whose terrain punishes the impatient and the soft.
+Grukarhölm is a landlocked enclave at the eastern margin of the [[doc-nrdlndsrgn|Nordlands]] — a country of dense mixed-and-coniferous forest, vast roadless marshlands, slow brown rivers, and innumerable shallow lakes that is the recognized homeland of the [[skill-grukarlng|Grukar]]. It is wholly surrounded by Nordmal-and-Velanthian neighbors and has no coast of its own; what natural defenses it possesses come not from mountains or seas but from the forest cover and the swamp country itself, which is impassable to organized armies for most of the year. Unlike the neighboring Nordmal kingdoms, Grukarhölm is not a confederation of sovereign kingdoms but a constantly shifting mosaic of tribal war-camps, held in precarious check by the hive-politics of Grukar society and by the brutal logic of a country whose terrain punishes the impatient and the soft.
 
 ## Geography
 
@@ -83,9 +83,9 @@ To the **south** lies [[doc-velanthrgn|Velanthia]]. Grukar-Velanthian relations 
 ## See Also
 
 - [[doc-grukarholm|Grukarhölm]] — the dominant Grukar confederation
-- [[skill-grukarlngg|Grukar]] — the folk and their subspecies
+- [[skill-grukarlng|Grukar]] — the folk and their subspecies
 - [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrh|Grukar-Hai]] — the three subspecies
-- [[skill-grukarlngg|Grukar Language]] — the Grukar tongue
+- [[skill-grukarlng|Grukar Language]] — the Grukar tongue
 - [[doc-nrdlndsrgn|Nordlands Region]] — western neighbor
 - [[doc-vrystwald|Vrystwald]] — eastern hostile frontier
 - [[doc-velanthrgn|Velanthia Region]] — southern pragmatic neighbor

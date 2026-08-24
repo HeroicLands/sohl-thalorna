@@ -9,7 +9,7 @@ name:
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
 id: 3d7FEndelpU7xeHV
 img: icons/speaking.svg
-shortcode: nyalbnlngg
+shortcode: nyalbnlng
 type: skill
 package: thalorna
 sohl:

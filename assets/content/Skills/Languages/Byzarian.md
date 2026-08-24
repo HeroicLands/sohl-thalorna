@@ -8,7 +8,7 @@ name:
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
 id: zsiciBcjfp7KMzVh
 img: icons/speaking.svg
-shortcode: byzarnlngg
+shortcode: byzarnlng
 type: skill
 package: thalorna
 sohl:
@@ -108,7 +108,7 @@ Many Helonic case functions are now expressed through **prepositions** borrowed 
 
 ### Grammatical Samples
 
-These examples use vocabulary inherited from [[skill-helonclngg|Helonic]] (see Core Vocabulary), showing Byzarian simplification.
+These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing Byzarian simplification.
 
 - **Ath pólithar ésharikê ên Byzarion** — "The city is in Byzaría" (_pólithar_ nom. fem., _ésharin_ + locative particle _-kê_, _ên_ + dat.)
 - **Ash émpharin parádharin khrémashîn** — "The merchant delivers goods" (_émpharin_ nom., _parádharin_ 1st sing., _khrémashîn_ acc.)
@@ -146,7 +146,7 @@ Byzarian shows more dialectal variation than Helonic, reflecting its hybrid natu
 
 ## Sample Phrases
 
-All phrases draw from the shared [[skill-helonclngg|Helonic]] core vocabulary, with Byzarian simplification and eastern loanwords.
+All phrases draw from the shared [[skill-helonclng|Helonic]] core vocabulary, with Byzarian simplification and eastern loanwords.
 
 - **Émphôria halîron euthálir esh** — "Eastern goods are profitable" (merchant maxim; _émphôria_ from Hel. _émphôria_, _euthálir_ from Hel. lexicon, verb-final order from eastern influence)
 - **Pára phótamir, pântha rhéshir** — "By the rivers, all flows" (_pára_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _pântha_ from Hel. _pâsh_, _rhéshir_ from Hel. _rhésharin_)

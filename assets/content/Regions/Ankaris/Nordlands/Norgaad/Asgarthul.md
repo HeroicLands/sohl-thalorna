@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Market Town / Seat of Local Nobility"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

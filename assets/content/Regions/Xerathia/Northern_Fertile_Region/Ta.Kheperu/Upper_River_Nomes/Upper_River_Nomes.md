@@ -18,7 +18,7 @@ government:
   type: nome-group
   summary: A class of eighteen river-valley nomes, each under a hereditary Haty'a; the empire's grain basket and the most numerous of the four nome-classes.
 languages:
-  - kheperlngg
+  - kheperlng
 population: "~8,000,000"
 pantheons:
   - kemtnpnthn
@@ -95,4 +95,4 @@ The Upper River Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]], but
 
 - [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
 - [[doc-deltanomes|The Delta Nomes]], [[doc-bordernoms|The Border Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlng|Kheperi]] — Naming

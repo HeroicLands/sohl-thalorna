@@ -18,7 +18,7 @@ parent:
   polities:
     - khzrncnfdrtn
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 folder: PbQ9B1r6hEaJvyco

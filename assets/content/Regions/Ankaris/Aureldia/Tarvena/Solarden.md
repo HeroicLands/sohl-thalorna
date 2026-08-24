@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Fortified Town"
 population: null
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 package: thalorna

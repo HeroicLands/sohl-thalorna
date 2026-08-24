@@ -17,7 +17,7 @@ parent:
   polities:
     - khzrncnfdrtn
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 folder: PbQ9B1r6hEaJvyco
@@ -32,5 +32,5 @@ The desert itself shapes Ashkarad's character—life here is precious and fragil
 ## See Also
 
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
-- [[skill-dunharlngg|Dunhari]] — Naming tradition
+- [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

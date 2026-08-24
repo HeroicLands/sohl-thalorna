@@ -19,7 +19,7 @@ government:
   type: city-state
   summary: Military governor and council of merchant-princes.
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 peoples:

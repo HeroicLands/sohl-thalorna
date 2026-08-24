@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Trading Post"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

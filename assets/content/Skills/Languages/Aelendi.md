@@ -10,7 +10,7 @@ name:
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
 id: 2Pk8zNqRvTc4WbYj
 img: icons/speaking.svg
-shortcode: aelendlngg
+shortcode: aelendlng
 type: skill
 package: thalorna
 sohl:
@@ -28,7 +28,7 @@ flags:
     lang_family: Pelwar
 ---
 
-Áelendi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill; see [[skill-aelendlngg|Áelendi Language]] for the linguistic and cultural background of the tongue itself.
+Áelendi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill; see [[skill-aelendlng|Áelendi Language]] for the linguistic and cultural background of the tongue itself.
 
 Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the Áelendan people—the "People of the Covenant"—who dwell in the mountains of central Élavendre. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
 

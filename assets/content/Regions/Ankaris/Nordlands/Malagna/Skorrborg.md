@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortified Town"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

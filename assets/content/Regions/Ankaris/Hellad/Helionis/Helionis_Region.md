@@ -90,5 +90,5 @@ Heliónis was conquered by the Vylarian Republic around 300 BF, during the Repub
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Arcane guild with deep local roots
 - [[doc-ctysttshlns|City-States of Heliónis]] — Polity details
 - [[doc-thyrenae|Thyrenae]], [[doc-pelagora|Pelagora]], [[doc-kalydria|Kalydria]] — The three city-states
-- [[skill-helonclngg|Helonic]] — Naming conventions
+- [[skill-helonclng|Helonic]] — Naming conventions
 - [[affiliation-arldnpnthn|Aurèldían]] — Pantheon

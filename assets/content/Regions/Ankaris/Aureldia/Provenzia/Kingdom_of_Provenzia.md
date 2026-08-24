@@ -23,7 +23,7 @@ parent:
   regions:
     - provenzrgn
 languages:
-  - provnzlngg
+  - provnzlng
 pantheons:
   - arldnpnthn
 peoples:

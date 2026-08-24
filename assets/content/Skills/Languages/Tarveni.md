@@ -8,7 +8,7 @@ name:
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
 id: x0vt7K08NQZPeVL0
 img: icons/speaking.svg
-shortcode: tarvenlngg
+shortcode: tarvenlng
 type: skill
 package: thalorna
 sohl:
@@ -94,7 +94,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 Tarvéni shares its deepest roots with Vylari and other Pelwar tongues, yet stands apart in many features. Speakers of Vylari find Tarvéni difficult due to its phonetic complexity and unfamiliar case system. Provenzal and Tarvéni speakers can often understand each other in trade contexts, though the emotional and poetic registers differ markedly.
 
-The relationship to [[skill-elvndrlngg|Élavendri]] is limited; while both are Pelwar-derived, their phonological systems diverge significantly. Tarvéni has no clear affinity with [[skill-nordmalngg|Nordmal]] or [[skill-varokhlngg|Varokhi]], though scholars recognize ancient common ancestry.
+The relationship to [[skill-elvndrlng|Élavendri]] is limited; while both are Pelwar-derived, their phonological systems diverge significantly. Tarvéni has no clear affinity with [[skill-nordmalng|Nordmal]] or [[skill-varokhlng|Varokhi]], though scholars recognize ancient common ancestry.
 
 ## Naming Traditions
 

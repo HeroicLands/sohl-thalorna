@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Border Town"
 population: 4000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

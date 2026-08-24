@@ -71,5 +71,5 @@ Tarvénan sailors and mercenaries are found across the [[doc-vylarianse|Vylarian
 - [[doc-kngdmstrth|Kingdom of Astúrath]], [[doc-kngdmglvrn|Kingdom of Galváren]], [[doc-kingdmlnrk|Kingdom of Léonrik]] — The three kingdoms
 - [[doc-frctyvlthr|Free City of Valthári]] — The city-state
 - [[doc-frtrtryskrth|Free Territory of Eskárath]] — Highland free territory
-- [[skill-tarvenlngg|Tarvéni]] — Naming conventions
+- [[skill-tarvenlng|Tarvéni]] — Naming conventions
 - [[affiliation-arldnpnthn|Aurèldían]] — Pantheon

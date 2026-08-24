@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Holy City"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

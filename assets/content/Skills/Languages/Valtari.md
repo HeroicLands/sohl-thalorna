@@ -11,7 +11,7 @@ name:
 description: "The harbor pidgin of Mídhalión and beyond — no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
 id: vMzM1w5unpp0xKA0
 img: icons/speaking.svg
-shortcode: valtarlngg
+shortcode: valtarlng
 type: skill
 package: thalorna
 sohl:

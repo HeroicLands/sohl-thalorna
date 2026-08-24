@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Port City"
 population: null
 languages:
-  - kicheklngg
+  - kicheklng
 pantheons:
   - itzanpnthn
 package: thalorna

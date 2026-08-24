@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Merchant City"
 population: 25000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna
@@ -36,5 +36,5 @@ Belekos has begun to feel the weight of empire's decline, but differently than p
 ## See Also
 
 - [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
-- [[skill-vylarilngg|Vylari]] — Naming tradition
+- [[skill-vylarilng|Vylari]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

@@ -16,7 +16,7 @@ category: settlement
 settlementType: "Temple Precinct"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 id: Pn7hKx2VqLm4Rb9T

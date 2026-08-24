@@ -10,7 +10,7 @@ name:
 description: "The eldest of the Elder Tongues — vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 id: aQkFHzC0Jpl1FVng
 img: icons/speaking.svg
-shortcode: sinalelngg
+shortcode: sinalelng
 type: skill
 package: thalorna
 sohl:

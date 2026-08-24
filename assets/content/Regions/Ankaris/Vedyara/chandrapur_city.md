@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Temple City"
 population: null
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 package: thalorna

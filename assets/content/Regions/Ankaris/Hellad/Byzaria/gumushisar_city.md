@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortress City"
 population: null
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 package: thalorna

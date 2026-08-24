@@ -40,7 +40,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - tanvurlngg
+  - tanvurlng
 folder: jV7c6dJp4Ztnjtb3
 ---
 

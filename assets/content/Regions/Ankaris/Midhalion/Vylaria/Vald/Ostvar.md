@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fishing Town"
 population: 8000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

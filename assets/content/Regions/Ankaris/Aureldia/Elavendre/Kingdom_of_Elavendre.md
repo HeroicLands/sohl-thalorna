@@ -24,7 +24,7 @@ parent:
   regions:
     - elavendre
 languages:
-  - elvndrlngg
+  - elvndrlng
 pantheons:
   - arldnpnthn
 peoples:

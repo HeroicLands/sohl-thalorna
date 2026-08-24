@@ -7,7 +7,7 @@ category: settlement
 settlementType: "City"
 population: 32000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

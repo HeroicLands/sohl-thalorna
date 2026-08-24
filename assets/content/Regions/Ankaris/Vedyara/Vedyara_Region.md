@@ -25,7 +25,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - vedyarlngg
+  - vedyarlng
 folder: q61mqomRaSzUNfrY
 ---
 
@@ -90,7 +90,7 @@ To the **southeast**, across the seas, lie lands that the Vedyari know through t
 ## See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — the cycle-gods
-- [[skill-vedyarlngg|Vedyari]] — the language and its classical form
+- [[skill-vedyarlng|Vedyari]] — the language and its classical form
 - [[doc-dunharargn|Dunhara Region]] — northwestern desert neighbor
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — northern desert neighbor
 - [[doc-tanvuregin|Tānvür Region]] — eastern scholarly partner

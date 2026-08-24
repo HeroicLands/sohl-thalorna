@@ -18,7 +18,7 @@ name:
   aliases: []
 shortcode: corsairleg
 languages:
-  - helonclngg
+  - helonclng
 subType: maritime-guild
 pantheons: []
 demonym: ""

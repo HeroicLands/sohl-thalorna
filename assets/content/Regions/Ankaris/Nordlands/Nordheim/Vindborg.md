@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Hill Fort"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

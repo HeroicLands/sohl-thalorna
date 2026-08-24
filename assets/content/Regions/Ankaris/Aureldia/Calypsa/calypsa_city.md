@@ -7,8 +7,8 @@ category: settlement
 settlementType: "Harbor City"
 population: null
 languages:
-  - nordmalngg
-  - valtarlngg
+  - nordmalng
+  - valtarlng
 pantheons:
   - arldnpnthn
 package: thalorna

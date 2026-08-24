@@ -11,7 +11,7 @@ name:
 description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
 id: BMLlZaArJ6H0wPjU
 img: icons/speaking.svg
-shortcode: khazarlngg
+shortcode: khazarlng
 type: skill
 package: thalorna
 sohl:

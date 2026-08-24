@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fishing & Victualling Town"
 population: 14000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

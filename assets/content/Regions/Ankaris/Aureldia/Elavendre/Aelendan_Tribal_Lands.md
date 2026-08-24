@@ -97,6 +97,6 @@ Those who have reason to travel the Lands are expected to take a tribal guide, t
 - [[doc-elavendre|Élavendre]] — The kingdom within which the Lands lie
 - [[doc-drenavrspn|Drenavar Spine]] — The sacred range at the heart of the Lands
 - [[doc-eshalshldg|Eshálosha Lodge]] — Principal Áelendan settlement
-- [[skill-aelendlngg|Áelendi Language]] — The language spoken throughout the Lands
+- [[skill-aelendlng|Áelendi Language]] — The language spoken throughout the Lands
 - [[affiliation-theoldway|The Old Way]] — The religious tradition of the Áelendan (pantheon: [[affiliation-firstgods|The First Gods]])
 - [[doc-flksinale|Sinalë]] — Neighboring elder race of the Silver Forests

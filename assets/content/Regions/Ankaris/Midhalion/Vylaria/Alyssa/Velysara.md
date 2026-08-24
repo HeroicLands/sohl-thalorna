@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Provincial City"
 population: 20000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna
@@ -37,6 +37,6 @@ The city's character is one of dignified endurance. Its citizens acknowledge, wi
 ## See Also
 
 - [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
-- [[skill-vylarilngg|Vylari]] — Naming tradition
+- [[skill-vylarilng|Vylari]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition
 - [[affiliation-panepistmm|Panepistemium]] — Scholarly institution

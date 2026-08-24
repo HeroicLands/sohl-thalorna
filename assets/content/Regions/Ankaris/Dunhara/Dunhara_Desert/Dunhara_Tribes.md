@@ -23,7 +23,7 @@ parent:
   regions:
     - dunhardsrtrgn
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 peoples:

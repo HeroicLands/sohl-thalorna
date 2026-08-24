@@ -10,7 +10,7 @@ category: settlement
 settlementType: "Town"
 population: null
 languages:
-  - okharclngg
+  - okharclng
 pantheons:
   - arldnpnthn
 package: thalorna

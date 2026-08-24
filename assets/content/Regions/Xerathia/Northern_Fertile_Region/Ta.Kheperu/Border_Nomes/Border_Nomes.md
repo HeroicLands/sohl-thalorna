@@ -18,7 +18,7 @@ government:
   type: nome-group
   summary: A class of ten frontier nomes, each under a hereditary Haty'a functioning as a military governor; the empire's marches against steppe, desert, and the southern tribes.
 languages:
-  - kheperlngg
+  - kheperlng
 population: "~2,500,000"
 pantheons:
   - kemtnpnthn
@@ -88,4 +88,4 @@ The Border Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and the 
 - [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
 - [[doc-deltanomes|The Delta Nomes]], [[doc-uperivrnms|The Upper River Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
 - [[affiliation-malldbndlg|Free Companies Compact]] — Chartered mercenaries who take frontier contracts
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlng|Kheperi]] — Naming

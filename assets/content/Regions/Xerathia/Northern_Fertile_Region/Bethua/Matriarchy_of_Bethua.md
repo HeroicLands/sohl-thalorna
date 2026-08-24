@@ -26,7 +26,7 @@ parent:
   regions:
     - bethuargn
 languages:
-  - bethunlngg
+  - bethunlng
 pantheons:
   - arldnpnthn
 peoples:
@@ -57,7 +57,7 @@ Bethûa keeps a large and highly regarded military. Its army is a professional w
 
 ## History
 
-Bethûa began as a **Helonic colonial foundation** — a daughter-settlement of the seafaring Helonic peoples, planted on the southern Vylarian coast and long governed from across the sea. Its matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[skill-bethunlngg|Helonic-descended tongue]] all date to this deep colonial past. Independence came only comparatively recently, in a war of separation from the Helonic metropole that Bethûa won with the decisive backing of [[doc-empirtkhpr|Ta'Kheperu]] — whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[doc-cnfdrtnhrdnstts|Harad]]. That alliance left a permanent mark: Bethûa kept its Aurèldían faith and the Helonic core of its sacred and clan institutions, but its newer machinery — treasury, water-engineering corps, court accounts, currency — was rebuilt on Kheperi models and bears Kheperi names to this day. See [[doc-gvrnmntbth|Government of Bethûa]] for how this history shaped the modern state.
+Bethûa began as a **Helonic colonial foundation** — a daughter-settlement of the seafaring Helonic peoples, planted on the southern Vylarian coast and long governed from across the sea. Its matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[skill-bethunlng|Helonic-descended tongue]] all date to this deep colonial past. Independence came only comparatively recently, in a war of separation from the Helonic metropole that Bethûa won with the decisive backing of [[doc-empirtkhpr|Ta'Kheperu]] — whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[doc-cnfdrtnhrdnstts|Harad]]. That alliance left a permanent mark: Bethûa kept its Aurèldían faith and the Helonic core of its sacred and clan institutions, but its newer machinery — treasury, water-engineering corps, court accounts, currency — was rebuilt on Kheperi models and bears Kheperi names to this day. See [[doc-gvrnmntbth|Government of Bethûa]] for how this history shaped the modern state.
 
 ## Commerce and Currency
 

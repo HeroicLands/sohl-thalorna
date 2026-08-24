@@ -8,7 +8,7 @@ category: settlement
 settlementType: "City-State"
 population: null
 languages:
-  - okharclngg
+  - okharclng
 pantheons:
   - nkaruthar
 package: thalorna

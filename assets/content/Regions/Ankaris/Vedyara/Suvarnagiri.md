@@ -17,7 +17,7 @@ parent:
   polities:
     - suvrgrjnpd
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 folder: q61mqomRaSzUNfrY

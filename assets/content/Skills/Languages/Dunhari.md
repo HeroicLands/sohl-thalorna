@@ -8,7 +8,7 @@ name:
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
 id: fPaFdi3025hUxh1B
 img: icons/speaking.svg
-shortcode: dunharlngg
+shortcode: dunharlng
 type: skill
 package: thalorna
 sohl:

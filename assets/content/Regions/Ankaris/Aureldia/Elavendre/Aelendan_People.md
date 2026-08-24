@@ -18,7 +18,7 @@ folder: drAoDoNnFEygATeK
 
 - **Parent realm:** [[doc-elavendre|Élavendre]]
 - **Related peoples:** [[doc-pelwarpepl|Pelwar People]] (ancestral), [[doc-flksinale|Sinalë]] (neighbors)
-- **Language:** [[skill-aelendlngg|Áelendi]]
+- **Language:** [[skill-aelendlng|Áelendi]]
 - **Pantheon:** [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
 The **Áelendan People** — also known as the **People of the Covenant** — are a sub-people of [[doc-elavendre|Élavendre]], the ancestor tribes of the [[doc-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[doc-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
@@ -31,7 +31,7 @@ The name "People of the Covenant" refers to an ancient compact that the Áelenda
 
 Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan place extraordinary value on continuity — of language, of custom, of relationship with place — and they view the rapid cultural change that characterizes the lowland Élavendri with a mixture of affection and unease.
 
-The Áelendan speak **Áelendi**, the ancestral Pelwar tongue — the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlngg|Áelendi Language]] for linguistic details.
+The Áelendan speak **Áelendi**, the ancestral Pelwar tongue — the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
 
 ## Relationship with the Élavendri
 
@@ -59,7 +59,7 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[doc-f
 ## See Also
 
 - [[doc-elavendre|Élavendre]] — The kingdom within which Áelendan territory lies
-- [[skill-aelendlngg|Áelendi]] — The ancestral Pelwar tongue of the Áelendan
+- [[skill-aelendlng|Áelendi]] — The ancestral Pelwar tongue of the Áelendan
 - [[doc-pelwarpepl|Pelwar People]] — The ancestral people from whom the Áelendan descend
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects sacred sites
 - [[doc-flksinale|Sinalë]] — The elder race with whom the Áelendan maintain neighborly relations

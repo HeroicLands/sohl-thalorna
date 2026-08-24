@@ -10,7 +10,7 @@ name:
 description: "The imperial speech of Tānvür — logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
 id: h9smBUasb0uG7sG0
 img: icons/speaking.svg
-shortcode: tanvurlngg
+shortcode: tanvurlng
 type: skill
 package: thalorna
 sohl:

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Garrison Town"
 population: 9000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

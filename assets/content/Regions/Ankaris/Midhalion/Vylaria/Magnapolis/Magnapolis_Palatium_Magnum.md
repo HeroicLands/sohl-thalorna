@@ -15,7 +15,7 @@ category: settlement
 settlementType: "Palace District"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 id: Pl8mAx3vQrK9Tb2d

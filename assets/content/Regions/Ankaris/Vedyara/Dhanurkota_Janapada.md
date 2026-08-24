@@ -30,7 +30,7 @@ government:
   type: confederation
   summary: Sabhā of forty-two members convened by the senior priest of the Mahájaya temple, with proportional representation from the fourteen constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 peoples:
@@ -100,4 +100,4 @@ Dhanurkota Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administ
 - [[doc-vedyarargn|Vedyara]] — parent region
 - [[doc-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[skill-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlng|Vedyari]] — language

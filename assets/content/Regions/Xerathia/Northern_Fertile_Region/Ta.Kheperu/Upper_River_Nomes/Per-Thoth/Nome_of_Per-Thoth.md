@@ -19,7 +19,7 @@ government:
   type: nome
   summary: A learned, temple-dominated upper-river nome governed by a hereditary Haty'a alongside the powerful priesthood of Thōth.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: khemenu
 population: "~700,000"
 pantheons:

@@ -23,7 +23,7 @@ parent:
   regions:
     - vylariargn
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 peoples:
@@ -55,4 +55,4 @@ Holy Kingdom of Nartûm uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / 
 
 - [[doc-vylarinmpr|Vylarian Empire]] — Cultural parent, political rival
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
-- [[skill-vylarilngg|Vylari]] — Naming conventions
+- [[skill-vylarilng|Vylari]] — Naming conventions

@@ -34,7 +34,7 @@ folder: kiz45F34jXa6kr8Z
 
 - **Pronunciation**: _n'YAH-loo-bah_
 - **Region:** [[doc-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[doc-xerathia|Xerathia]])
-- **Principal language:** [[skill-nyalbnlngg|Nyáluban]]
+- **Principal language:** [[skill-nyalbnlng|Nyáluban]]
 
 The **Nyáluba Pantheon** is the religious tradition of the [[doc-nylbtrblntn|Nyáluba Tribal Nation]], the confederation of clans, lineages, and communities that occupy the savannahs, river-systems, and coastal forests of southern [[doc-xerathia|Xerathia]]. It is not a pantheon in the sense that the [[affiliation-arldnpnthn|Aurèldían]] Twelve or the [[affiliation-asguardian|Asguardian]] Ten are pantheons — there is no council of named deities with defined portfolios, no ordered hierarchy of gods, and no formal priesthood serving a unified creed. What there is, instead, is a **totemic system**: a vast and living web of relationships between the people of the Nyáluba and the spirits of their land, their waters, their animals, and their own ancestors. Because outsiders need a term to describe it, and because the system functions as the religious framework of the Nyáluba in the way that a pantheon functions elsewhere, it is here called a pantheon. The Nyáluba themselves would not use the word.
 
@@ -79,7 +79,7 @@ The animistic traditions of the Xerathian interior and the southern savannahs sh
 
 - [[affiliation-nyalbsprts|Nyáluba Spirits]] — The spirits of land, water, ancestors, and hunt that form the substance of Nyáluba religious life
 - [[doc-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose faith this is
-- [[skill-nyalbnlngg|Nyáluban]] — The language of the faith's songs, drums, and oral tradition
+- [[skill-nyalbnlng|Nyáluban]] — The language of the faith's songs, drums, and oral tradition
 - [[affiliation-nkaruthar|Nkaru'thar]] — The Okháric Eternal Flame, kin-tradition to the Nyáluba shamanic line
 - [[affiliation-firstgods|The First Gods]] — The Áelendan pantheon whose Kindred most closely parallel the Nyáluba spirits
 - [[doc-pnthnrgnlmp|Pantheon Regional Map]] — Regional index of pantheons

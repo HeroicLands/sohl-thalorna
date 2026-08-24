@@ -7,7 +7,7 @@ category: settlement
 settlementType: "City"
 population: null
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 package: thalorna

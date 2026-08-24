@@ -21,7 +21,7 @@ parent:
   regions:
     - vedyarargn
 languages:
-  - vedyarlngg
+  - vedyarlng
 pantheons:
   - varakpnthn
 peoples:
@@ -42,5 +42,5 @@ Chandrapur uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered thro
 ## See Also
 
 - [[doc-vedyarargn|Vedyara Region]] — Regional overview
-- [[skill-vedyarlngg|Vedyari]] — Naming tradition
+- [[skill-vedyarlng|Vedyari]] — Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Religious/Strategic Settlement"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

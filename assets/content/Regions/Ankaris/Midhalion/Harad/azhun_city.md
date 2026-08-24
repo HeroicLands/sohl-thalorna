@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Port City"
 population: null
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -10,7 +10,7 @@ name:
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
 id: M4Rc3yHcl3dYOGz3
 img: icons/speaking.svg
-shortcode: elvndrlngg
+shortcode: elvndrlng
 type: skill
 package: thalorna
 sohl:
@@ -74,7 +74,7 @@ The language is sometimes written with vowel diacriticals to indicate stress and
 
 Élavendri developed from Proto-Pelwar stock but in isolation from the other branches, in the northern forests and mountains of Élavendre. The language absorbed deep influence from the non-Pelwar populations of the region—people of fey heritage, indigenous forest dwellers, and magical practitioners—resulting in a tongue with features quite foreign to other Pelwar languages.
 
-The most conservative member of the Pelwar family is **[[skill-aelendlngg|Áelendi]]**, spoken by the [[doc-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
+The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelendi]]**, spoken by the [[doc-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
 
 ## Regional Dialects
 
@@ -84,7 +84,7 @@ The most conservative member of the Pelwar family is **[[skill-aelendlngg|Áelen
 
 **Magical Register:** A specialized, highly formal variant used in magical rituals and high ceremony, employing archaic vocabulary and conservative phonetics. Knowledge of this register marks one as educated in magical arts.
 
-For the ancestral Pelwar tongue of the [[doc-aelendnppl|Áelendan]] — the most conservative member of the family, spoken in the mountainous interior — see [[skill-aelendlngg|Áelendi Language]].
+For the ancestral Pelwar tongue of the [[doc-aelendnppl|Áelendan]] — the most conservative member of the family, spoken in the mountainous interior — see [[skill-aelendlng|Áelendi Language]].
 
 ## Sample Phrases
 
@@ -98,7 +98,7 @@ For the ancestral Pelwar tongue of the [[doc-aelendnppl|Áelendan]] — the most
 
 Élavendri stands somewhat apart from its Pelwar siblings, having developed in relative isolation and under heavy influence from fey and pre-human populations. Its deep connection to Áelendi marks both as descendents of a northern branch of Proto-Pelwar, distinct from the southern branch that gave rise to Vylari, Tarvéni, and the others.
 
-Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts — Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalngg|Nordmal]] and [[skill-varokhlngg|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
+Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts — Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
 
 ## Naming Traditions
 

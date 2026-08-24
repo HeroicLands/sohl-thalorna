@@ -25,7 +25,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - dunharlngg
+  - dunharlng
 folder: UDHM6flIy1TuzSPh
 ---
 
@@ -93,5 +93,5 @@ To the **southwest**, across the [[doc-vylarianse|Vylarian Sea]], lies [[doc-xer
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — northern desert cousin
 - [[doc-vedyarargn|Vedyara Region]] — southeastern trading neighbor
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — pantheon shared across the desert peoples
-- [[skill-dunharlngg|Dunhari]] — the language and naming tradition
+- [[skill-dunharlng|Dunhari]] — the language and naming tradition
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

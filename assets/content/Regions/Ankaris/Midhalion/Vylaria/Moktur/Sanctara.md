@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Temple Town"
 population: 2000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -8,7 +8,7 @@ name:
 description: "The guttural, sparse speech of the Grukar tribes — stingy with abstractions but lavish with words for weather, prey, and warfare."
 id: 9vZDXOnWSPOxy3DX
 img: icons/speaking.svg
-shortcode: grukarlngg
+shortcode: grukarlng
 type: skill
 package: thalorna
 sohl:

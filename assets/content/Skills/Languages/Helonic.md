@@ -8,7 +8,7 @@ name:
 description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
 id: kzExD71wOODyJRDn
 img: icons/speaking.svg
-shortcode: helonclngg
+shortcode: helonclng
 type: skill
 package: thalorna
 sohl:
@@ -127,7 +127,7 @@ While Helonic is relatively standardized through written tradition and education
 
 ## Core Vocabulary
 
-The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family — [[skill-byzarnlngg|Byzarian]] and [[skill-bethunlngg|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
+The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family — [[skill-byzarnlng|Byzarian]] and [[skill-bethunlng|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
 
 ### Nouns
 

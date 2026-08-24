@@ -23,8 +23,8 @@ parent:
   polities:
     - cnfdrtnhrdnstts
 languages:
-  - haradilngg
-  - dunharlngg
+  - haradilng
+  - dunharlng
 pantheons:
   - ashanpnthn
   - arldnpnthn
