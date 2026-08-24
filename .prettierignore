@@ -4,18 +4,16 @@
 /lang/
 package-lock.json
 
+# Vendored link manifests (#1446): another package's build output, copied here
+# verbatim. They are emitted with JSON.stringify's 2-space indent, which every
+# producing repository shares; reformatting them to this repository's tabWidth
+# would make the copy differ from its source and re-diff on every re-vendor.
+# `sohl.json` alone is 38,000 lines, so that churn is not small.
+assets/manifests/*.json
+
 # The website. The theme is a submodule with its own repository and style, and
 # the pages and rendered output beneath `site/` are generated. The layouts are
 # Go templates in `.html` files, which Prettier reflows as HTML — folding the
 # template comments and directives into prose. The knowledgebase ignores its
 # `kb/` for the same reason.
 /site/
-
-# Content notes are authored in an Obsidian vault and moved here byte-identical
-# (#1441). Prettier's defaults already match what Obsidian writes, so it has
-# nothing to do on all but a handful of hand-tidied Markdown tables — and
-# reformatting those would trade a verifiable "these files are exactly the
-# authored notes" for column padding. The tree's own README is ours, so it is
-# still formatted.
-assets/content/**/*.md
-!assets/content/README.md
