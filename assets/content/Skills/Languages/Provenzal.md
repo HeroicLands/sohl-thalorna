@@ -32,7 +32,7 @@ Provenzal is the melodic tongue of [[doc-provenzrgn|Provènzia Region]], a realm
 
 ## Overview
 
-Provenzal speakers pride themselves on the liquid grace of their language. Where Vylari is formal and structured, Provenzal is flowing and emotional. The language carries the influence of both its Vylari administrative heritage and the fey-touched [[skill-langela|Élavendri]] to the north, having absorbed melodic patterns and poetic vocabulary from both neighbors while maintaining its own distinctive character.
+Provenzal speakers pride themselves on the liquid grace of their language. Where Vylari is formal and structured, Provenzal is flowing and emotional. The language carries the influence of both its Vylari administrative heritage and the fey-touched [[skill-elvndrlngg|Élavendri]] to the north, having absorbed melodic patterns and poetic vocabulary from both neighbors while maintaining its own distinctive character.
 
 The language is inseparable from Provenzal culture: love songs and courtly poetry are composed in Provenzal, sung by traveling bards, and memorized by citizens of all classes. To speak Provenzal without grace is considered a personal failing.
 
@@ -66,7 +66,7 @@ True literacy is confined to the clergy, professional scribes, and perhaps 20-35
 
 ## Élavendri Influence
 
-Provenzal's distinctive character owes much to centuries of contact with [[doc-elvndrlngg|Élavendri]] speakers along the northern border. This influence is visible in three domains:
+Provenzal's distinctive character owes much to centuries of contact with [[skill-elvndrlngg|Élavendri]] speakers along the northern border. This influence is visible in three domains:
 
 **Borrowed Vocabulary:** Provenzal has absorbed Élavendri words wholesale in the domains of art, emotion, magic, and nature — areas where the Pelwar southern tongues had limited vocabulary. Key borrowings include:
 
@@ -105,9 +105,9 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 ## Related Languages
 
-Provenzal occupies a unique position among Pelwar languages as a bridge between the imperial Vylari tradition and the fey-touched Élavendri north. It shares fundamental Pelwar grammar with Vylari and [[skill-langtar|Tarvéni]], but has absorbed so much Élavendri vocabulary and phonetic influence that mutual intelligibility is limited. Speakers of Provenzal and Élavendri often find common ground in poetic expression, though everyday conversation remains challenging.
+Provenzal occupies a unique position among Pelwar languages as a bridge between the imperial Vylari tradition and the fey-touched Élavendri north. It shares fundamental Pelwar grammar with Vylari and [[skill-tarvenlngg|Tarvéni]], but has absorbed so much Élavendri vocabulary and phonetic influence that mutual intelligibility is limited. Speakers of Provenzal and Élavendri often find common ground in poetic expression, though everyday conversation remains challenging.
 
-The relationship to [[skill-langnor|Nordmal]] and [[skill-langvar|Varokhi]] is more distant; northern speakers find Provenzal almost incomprehensibly soft, while Provenzal speakers consider northern tongues harsh and inexpressive.
+The relationship to [[skill-nordmalngg|Nordmal]] and [[skill-varokhlngg|Varokhi]] is more distant; northern speakers find Provenzal almost incomprehensibly soft, while Provenzal speakers consider northern tongues harsh and inexpressive.
 
 ## Naming Traditions
 

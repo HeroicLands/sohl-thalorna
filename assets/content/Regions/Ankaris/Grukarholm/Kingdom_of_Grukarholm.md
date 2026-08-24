@@ -62,5 +62,5 @@ Grukarhölm operates substantially on [[doc-bartercnmy|barter]] for its internal
 
 - [[doc-kngdmnrdhm|Kingdom of Nordheim]] — Western neighbors
 - [[doc-vrystwald|Vrystwald]] — Southern frontier
-- [[doc-grukarlngg|Grukar]] — Naming conventions
+- [[skill-grukarlngg|Grukar]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

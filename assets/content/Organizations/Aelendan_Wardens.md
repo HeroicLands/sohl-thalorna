@@ -49,7 +49,7 @@ Wardens are drawn from Áelendan tribal communities and trained from youth in a 
 - **Survival** — Wardens can live indefinitely in the wilderness, subsisting on what the land provides
 - **Knowledge of sacred geography** — Every Warden knows the locations, histories, and specific protocols of the sites within their patrol territory
 - **Fae lore** — Wardens are trained to recognize fae presence, to navigate fae-touched terrain, and to respond appropriately when fae beings choose to make themselves known
-- **The old tongue** — All Wardens are fluent in [[skill-langael|Áelendi]], the ancestral Pelwar language
+- **The old tongue** — All Wardens are fluent in [[skill-aelendlngg|Áelendi]], the ancestral Pelwar language
 
 ## Doctrine and Response
 

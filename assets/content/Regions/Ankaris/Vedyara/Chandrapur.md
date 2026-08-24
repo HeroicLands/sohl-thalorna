@@ -42,5 +42,5 @@ Chandrapur uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered thro
 ## See Also
 
 - [[doc-vedyarargn|Vedyara Region]] — Regional overview
-- [[doc-vedyarlngg|Vedyari]] — Naming tradition
+- [[skill-vedyarlngg|Vedyari]] — Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition

@@ -82,5 +82,5 @@ Calypsa uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus
 - [[doc-elavendre|Élavendre]] — Nearest mainland neighbour
 - [[doc-kingdomlgn|Kingdom of Malagna]] — Principal Normen trading partner
 - [[doc-aelwyth|Aelwyth]] — Southern island neighbour
-- [[doc-nordmalngg|Nordmal]], [[doc-valtarlngg|Valtari]] — Languages of the docks and markets
+- [[skill-nordmalngg|Nordmal]], [[skill-valtarlngg|Valtari]] — Languages of the docks and markets
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Dominant pantheon

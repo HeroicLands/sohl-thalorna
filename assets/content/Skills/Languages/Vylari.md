@@ -68,7 +68,7 @@ An older runic form persists in ceremonial and architectural contexts. The ancie
 
 Vylari descended from [[doc-pelwarpepl|Pelwar People]], the ancient nomadic tongue brought westward across Ankaris by the peoples who would become the imperial stock. Over centuries of sedentarization and empire-building, Proto-Pelwar simplified many of its more complex grammatical features while developing elaborate systems of formal registers and honorifics—traits valued by an expanding administrative class.
 
-The language absorbed vocabulary from the peoples it conquered, particularly terms of art, philosophy, and governance. Some archaic Vylari religious vocabulary shows influence from pre-imperial [[skill-langael|Áelendi]], suggesting ancient contact between settled Vylari populations and the highland Áelendan.
+The language absorbed vocabulary from the peoples it conquered, particularly terms of art, philosophy, and governance. Some archaic Vylari religious vocabulary shows influence from pre-imperial [[skill-aelendlngg|Áelendi]], suggesting ancient contact between settled Vylari populations and the highland Áelendan.
 
 Vylari stands as the most conservative of the Pelwar languages in terms of basic grammar and phonology, though it has undergone the most dramatic shift in social function—from the practical tongue of nomadic herders to the refined language of imperial bureaucrats and scholars.
 
@@ -92,9 +92,9 @@ Vylari stands as the most conservative of the Pelwar languages in terms of basic
 
 ## Related Languages
 
-Vylari shares its deepest roots with [[skill-langnor|Nordmal]] and [[skill-langvar|Varokhi]], all three descending from an ancient nomadic [[doc-pelwarpepl|Pelwar People]] stock. However, Vylari's development within settled imperial context has given it the most elaborate formal registers and the highest degree of phonetic simplification among siblings.
+Vylari shares its deepest roots with [[skill-nordmalngg|Nordmal]] and [[skill-varokhlngg|Varokhi]], all three descending from an ancient nomadic [[doc-pelwarpepl|Pelwar People]] stock. However, Vylari's development within settled imperial context has given it the most elaborate formal registers and the highest degree of phonetic simplification among siblings.
 
-[[skill-langpro|Provenzal]] shows significant Vylari influence due to historical trade and cultural prestige, though it has resisted structural change. [[skill-langtar|Tarvéni]] preserves some archaic Pelwar features that Vylari has lost entirely. [[skill-langela|Élavendri]] and [[skill-langael|Áelendi]] represent a separate, northern branch descended from different Proto-Pelwar populations, and show less mutual intelligibility with Vylari proper.
+[[skill-provnzlngg|Provenzal]] shows significant Vylari influence due to historical trade and cultural prestige, though it has resisted structural change. [[skill-tarvenlngg|Tarvéni]] preserves some archaic Pelwar features that Vylari has lost entirely. [[skill-elvndrlngg|Élavendri]] and [[skill-aelendlngg|Áelendi]] represent a separate, northern branch descended from different Proto-Pelwar populations, and show less mutual intelligibility with Vylari proper.
 
 ## Naming Traditions
 

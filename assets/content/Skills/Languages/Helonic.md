@@ -127,7 +127,7 @@ While Helonic is relatively standardized through written tradition and education
 
 ## Core Vocabulary
 
-The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family — [[doc-byzarnlngg|Byzarian]] and [[doc-bethunlngg|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
+The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family — [[skill-byzarnlngg|Byzarian]] and [[skill-bethunlngg|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
 
 ### Nouns
 

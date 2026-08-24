@@ -35,6 +35,6 @@ The town is governed by a council of elders that includes the local priest of th
 ## See Also
 
 - [[doc-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
-- [[doc-elvndrlngg|Élavendri]] — Naming tradition
+- [[skill-elvndrlngg|Élavendri]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
 - [[doc-flksinale|Sinalë]] — The Elder Elves

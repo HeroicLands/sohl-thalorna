@@ -35,7 +35,7 @@ folder: umL4KFGO3MD4u9X1
 - **Type:** Port City
 - **Region:** [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]]
 - **Language:** Haradi
-- **Naming Convention:** [[doc-haradilngg|Haradi]]
+- **Naming Convention:** [[skill-haradilngg|Haradi]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían Pantheon]], [[affiliation-ashanpnthn|Āsháian Pantheon]]
 
 ## Overview
@@ -53,6 +53,6 @@ Azhûn uses the [[doc-hardncrncy|Haradian currency system]] — the post-secessi
 ## See Also
 
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
-- [[doc-haradilngg|Haradi]] — Naming tradition
+- [[skill-haradilngg|Haradi]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition

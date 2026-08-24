@@ -92,7 +92,7 @@ Why the Sinalë have opened themselves to the Áelendan is a question that has p
 - [[doc-aelwyth|Aelwyth]] — Island off the western coast
 - [[doc-provenzrgn|Provènzia Region]] — Eastern neighbor and cultural cousin
 - [[doc-vylarinmpr|Vylarian Empire]] — Former imperial overlord
-- [[doc-elvndrlngg|Élavendri]] — Naming conventions (Élavendri)
+- [[skill-elvndrlngg|Élavendri]] — Naming conventions (Élavendri)
 - [[affiliation-arldnpnthn|Aurèldían]] — Primary pantheon
 - [[doc-kngdmlvndr|Kingdom of Élavendre]] — Polity details
 - [[doc-flksinale|Sinalë]] — The elder race with enclaves in Élavendre's forests

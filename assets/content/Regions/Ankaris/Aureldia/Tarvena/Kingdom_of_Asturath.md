@@ -34,7 +34,7 @@ folder: DB9rgGreD8FtqoBx
 
 - **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
 - **Language:** Tarvéni
-- **Naming Convention:** [[doc-tarvenlngg|Tarvéni]]
+- **Naming Convention:** [[skill-tarvenlngg|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]] (with strong folk traditions)
 - **Government:** Hereditary monarchy with council of mountain lords
 

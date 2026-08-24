@@ -75,7 +75,7 @@ Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, a
 - **The King of All Clans:** A great assembly held every seven years on a sacred island, where all the jarls of Nordheim gather to settle inter-clan disputes and make decisions affecting the entire people.
 - **The Longship Fleets:** Nordheim's primary military and economic asset. Fleets range from small raiding parties to massive armadas capable of threatening coastal cities across Ankaris.
 - **The Völvur:** Nordheim's mystic tradition, distinct from the arcane practices of the south, rooted in shamanism and ancestral communion.
-- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[doc-nordmalngg|Nordmal naming]], but each has its own jarl-king and traditions.
+- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalngg|Nordmal naming]], but each has its own jarl-king and traditions.
 
 ## Commerce and Currency
 
@@ -86,5 +86,5 @@ Kingdom of Nordheim uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 - [[doc-grukarholm|Grukarhölm]] — Eastern neighbors, the Grukar tribes
 - [[doc-vrystwald|Vrystwald]] — Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]] — The Normen pantheon
-- [[doc-nordmalngg|Nordmal]] — Naming conventions
+- [[skill-nordmalngg|Nordmal]] — Naming conventions
 - [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms

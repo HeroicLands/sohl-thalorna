@@ -84,6 +84,6 @@ Of the [[doc-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylaria is hun
 - [[doc-velanthrgn|Velanthia Region]] — southern neighbor and most permeable frontier
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — eastern frontier across the mountain passes
 - [[doc-vylarinmpr|Vylarian Empire]] — distant southwestern imperial power, source of the southwestern ruins
-- [[doc-varokhlngg|Varokhi]] — naming conventions
+- [[skill-varokhlngg|Varokhi]] — naming conventions
 - [[affiliation-asguardian|Asguardian Pantheon]] — pantheon
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

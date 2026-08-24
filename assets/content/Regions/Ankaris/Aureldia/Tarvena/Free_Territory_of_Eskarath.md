@@ -31,7 +31,7 @@ folder: DB9rgGreD8FtqoBx
 
 - **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)
 - **Language:** Eskári (primary), Tarvéni (secondary)
-- **Naming Convention:** [[doc-tarvenlngg|Tarvéni]] (with local Eskári variations)
+- **Naming Convention:** [[skill-tarvenlngg|Tarvéni]] (with local Eskári variations)
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]] (nominal), with strong pre-Aurèldían animistic traditions
 - **Government:** Council of elders (the Biltzárrath) drawn from highland clans
 

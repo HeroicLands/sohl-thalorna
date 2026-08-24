@@ -89,4 +89,4 @@ The Delta Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]] — temple
 - [[doc-uperivrnms|The Upper River Nomes]], [[doc-bordernoms|The Border Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Chief trading partner
 - [[doc-vylarianse|Vylarian Sea]] — The delta's sea
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[doc-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlngg|Kheperi]] — Naming

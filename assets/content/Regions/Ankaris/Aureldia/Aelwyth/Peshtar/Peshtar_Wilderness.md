@@ -91,6 +91,6 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 - [[doc-repblctrvn|Republic of Tarvenne]] — southern lowland neighbor
 - [[doc-jrldmstrmvld|Járldom of Stormveld]] — eastern Nordmal-descended neighbor
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — partial overlay of the older Peshtar faith
-- [[doc-varokhlngg|Varokhi]] — related naming tradition
+- [[skill-varokhlngg|Varokhi]] — related naming tradition
 - [[doc-aureldirgn|Aurèldía Region]] — the broader cultural region
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

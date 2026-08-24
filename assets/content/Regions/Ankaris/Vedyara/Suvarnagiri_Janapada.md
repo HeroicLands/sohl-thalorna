@@ -113,4 +113,4 @@ Suvarṇagiri Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] admin
 - [[doc-suvaragiri|Suvarṇagiri]] — the central town settlement note
 - [[doc-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[doc-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlngg|Vedyari]] — language

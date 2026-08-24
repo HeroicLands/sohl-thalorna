@@ -163,7 +163,7 @@ Nyáluba Tribal Nation operates almost entirely on [[doc-bartercnmy|barter]] and
 - [[doc-sthrnsvnhs|Southern Savannahs]] — parent region
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]] — the totemic faith
 - [[affiliation-nyalbsprts|Nyáluba Spirits]] — the spirits venerated, appeased, and warded against
-- [[doc-nyalbnlngg|Nyáluban Language]] — the Nyáluban tongue and the drum-language
+- [[skill-nyalbnlngg|Nyáluban Language]] — the Nyáluban tongue and the drum-language
 - [[doc-cntrlrnfrsts|Central Rainforests]] — northern neighbors and trade-intermediaries
 - [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — distant civilizations known only by rumor
 - [[doc-xerathia|Xerathia]] — parent continent

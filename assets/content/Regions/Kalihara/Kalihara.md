@@ -113,5 +113,5 @@ Kalihara operates outside the major continental monetary systems. Internal comme
 - [[doc-midhalnrgn|Mídhalión Region]] — Nearest continental region
 - [[doc-worldthlrn|The World of Thalorna]] — Global overview
 - [[doc-qasirah|Qasirah]] — Primary trading port
-- [[doc-valtarlngg|Valtári]] — Naming conventions
+- [[skill-valtarlngg|Valtári]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

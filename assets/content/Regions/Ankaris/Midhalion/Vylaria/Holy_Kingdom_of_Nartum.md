@@ -55,4 +55,4 @@ Holy Kingdom of Nartûm uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / 
 
 - [[doc-vylarinmpr|Vylarian Empire]] — Cultural parent, political rival
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
-- [[doc-vylarilngg|Vylari]] — Naming conventions
+- [[skill-vylarilngg|Vylari]] — Naming conventions

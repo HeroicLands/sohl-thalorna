@@ -231,5 +231,5 @@ The Empire of Ta'Kheperu uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]] 
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Primary trade intermediary
 - [[doc-mtrrchybth|Matriarchy of Bethûa]] — Eastern neighbor and proxy
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon
-- [[doc-kheperlngg|Kheperi]] — Naming conventions
+- [[skill-kheperlngg|Kheperi]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

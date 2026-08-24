@@ -98,7 +98,7 @@ For the ancestral Pelwar tongue of the [[doc-aelendnppl|Áelendan]] — the most
 
 Élavendri stands somewhat apart from its Pelwar siblings, having developed in relative isolation and under heavy influence from fey and pre-human populations. Its deep connection to Áelendi marks both as descendents of a northern branch of Proto-Pelwar, distinct from the southern branch that gave rise to Vylari, Tarvéni, and the others.
 
-Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts — Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-langnor|Nordmal]] and [[skill-langvar|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
+Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts — Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalngg|Nordmal]] and [[skill-varokhlngg|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
 
 ## Naming Traditions
 

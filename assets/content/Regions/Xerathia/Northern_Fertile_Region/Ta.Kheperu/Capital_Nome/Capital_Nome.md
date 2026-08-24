@@ -89,4 +89,4 @@ The Capital Nome uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and it 
 - [[doc-wasetkara|Wasetkara]] — The imperial city
 - [[doc-deltanomes|The Delta Nomes]], [[doc-uperivrnms|The Upper River Nomes]], [[doc-bordernoms|The Border Nomes]] — The other nome-classes
 - [[Kenbet_Pat]] — Council of the Nobles · [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[doc-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlngg|Kheperi]] — Naming

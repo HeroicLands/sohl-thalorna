@@ -166,7 +166,7 @@ Vylarian Empire uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus
 - [[doc-provenzrgn|Provènzia Region]] — Former province, cultural inheritor
 - [[doc-vrystwald|Vrystwald]] — Northern frontier
 - [[doc-vylarianse|Vylarian Sea]] — The empire's maritime domain
-- [[doc-vylarilngg|Vylari]] — Naming conventions
+- [[skill-vylarilngg|Vylari]] — Naming conventions
 - [[doc-provinclys|Province of Alyssa]], [[doc-provnchyln|Province of Hylen]], [[doc-provncmktr|Province of Moktur]], [[doc-provincvld|Province of Vald]] — Provinces
 - [[doc-hlykngdmnrtm|Holy Kingdom of Nartûm]] — Independent Vylari-speaking realm
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon

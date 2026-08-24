@@ -100,4 +100,4 @@ Dhanurkota Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administ
 - [[doc-vedyarargn|Vedyara]] — parent region
 - [[doc-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[doc-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlngg|Vedyari]] — language

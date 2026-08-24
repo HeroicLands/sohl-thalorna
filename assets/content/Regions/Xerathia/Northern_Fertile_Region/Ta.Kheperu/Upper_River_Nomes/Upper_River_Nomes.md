@@ -95,4 +95,4 @@ The Upper River Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]], but
 
 - [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
 - [[doc-deltanomes|The Delta Nomes]], [[doc-bordernoms|The Border Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[doc-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlngg|Kheperi]] — Naming

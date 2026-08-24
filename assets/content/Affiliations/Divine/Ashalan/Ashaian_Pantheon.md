@@ -82,4 +82,4 @@ This theology gives the Āsháian faithful a martial quality that permeates even
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Eastern reaches where Āsháian and Aurèldían faiths meet
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
 - [[affiliation-kemtnpnthn|Kemetían Pantheon]] — Ta'Kheperu equivalent
-- [[doc-dunharlngg|Dunhari]] — Naming conventions
+- [[skill-dunharlngg|Dunhari]] — Naming conventions

@@ -65,6 +65,6 @@ Provènzia was once a part of the [[doc-vylarinmpr|Vylarian Empire]], and while 
 - [[doc-tarvenirgn|Tarvénia Region]] — Western neighbor and rival
 - [[doc-vylarinmpr|Vylarian Empire]] — Former imperial overlord
 - [[doc-helionis|Heliónis]] — Intellectual counterpart across the sea
-- [[doc-provnzlngg|Provenzal]] — Naming conventions
+- [[skill-provnzlngg|Provenzal]] — Naming conventions
 - [[affiliation-arldnpnthn|Aurèldían]] — Pantheon
 - [[doc-kngdmprvnz|Kingdom of Provènzia]] — Polity details

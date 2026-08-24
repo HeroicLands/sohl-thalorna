@@ -120,4 +120,4 @@ Rājapur Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administer
 - [[doc-rajapur|Rājapur]] — the King's-Town settlement note
 - [[doc-chandrapur|Chandrapur]] — patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[doc-vedyarlngg|Vedyari]] — language
+- [[skill-vedyarlngg|Vedyari]] — language

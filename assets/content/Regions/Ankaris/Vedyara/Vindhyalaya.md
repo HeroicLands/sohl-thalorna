@@ -82,7 +82,7 @@ Vindhyālaya uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered th
 ## See Also
 
 - [[doc-vedyarargn|Vedyara Region]] — Regional overview
-- [[doc-vedyarlngg|Vedyari]] — Language and naming conventions
+- [[skill-vedyarlngg|Vedyari]] — Language and naming conventions
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
 - [[doc-dunhartrbs|Dunhara Tribes]], [[doc-sultntmrdd|Sultanate of Amradad]] — Northern trading partners and perennial rivals
 - [[doc-chandrapur|Chandrapur]], [[doc-vyalendra2|Vyālendra]] — Southern Vedyari trade partners

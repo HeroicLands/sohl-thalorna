@@ -17,7 +17,7 @@ folder: TokyoDCf1w4elPns
 
 # The Enigma of Lhénavren
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-langael|Áelendi]] tribes and their [[doc-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
+Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlngg|Áelendi]] tribes and their [[doc-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
 
 ## Overview
 

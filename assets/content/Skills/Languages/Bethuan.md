@@ -30,7 +30,7 @@ Bethuan is a tongue of the Helonic family. Fluency measures the sophistication o
 
 The tongue of the [[doc-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient Helonic heritage in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
-Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic** — Bethuan stands to mainland [[doc-helonclngg|Helonic]] roughly as one Romance tongue stands to its sister, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[doc-kheperlngg|Kheperi]]**, the prestige tongue of the [[doc-empirtkhpr|Ta'Kheperu]] that midwifed Bethûan independence — a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury, much as Arabic enriched the Spanish of an older world. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Kheperi loanwords. (See [[#The Kheperi Superstrate]].)
+Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic** — Bethuan stands to mainland [[skill-helonclngg|Helonic]] roughly as one Romance tongue stands to its sister, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-kheperlngg|Kheperi]]**, the prestige tongue of the [[doc-empirtkhpr|Ta'Kheperu]] that midwifed Bethûan independence — a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury, much as Arabic enriched the Spanish of an older world. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Kheperi loanwords. (See [[#The Kheperi Superstrate]].)
 
 ## Overview
 
@@ -127,7 +127,7 @@ Both registers share the core SVO structure and seven cases (nominative, accusat
 
 ### Sample Constructions
 
-These examples use vocabulary inherited from [[doc-helonclngg|Helonic]] (see Core Vocabulary), showing how the two registers handle the same underlying lexicon differently.
+These examples use vocabulary inherited from [[skill-helonclngg|Helonic]] (see Core Vocabulary), showing how the two registers handle the same underlying lexicon differently.
 
 **Feminine register:**
 
@@ -170,7 +170,7 @@ Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geogra
 
 ## The Kheperi Superstrate
 
-If the gender registers are what make Bethuan structurally unique, the **Kheperi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[doc-kheperlngg|Kheperi]], the unrelated and far older tongue of [[doc-empirtkhpr|Ta'Kheperu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbour's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
+If the gender registers are what make Bethuan structurally unique, the **Kheperi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-kheperlngg|Kheperi]], the unrelated and far older tongue of [[doc-empirtkhpr|Ta'Kheperu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbour's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
 The borrowing followed the realm's history. When Ta'Kheperu backed Bethûan independence and the new state rebuilt its institutions on Kheperi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethûa is conducted in a Helonic grammar studded with Kheperi nouns — while the language of poetry, philosophy, and the temple stays defiantly Helonic.
 
@@ -239,7 +239,7 @@ Bethuan shows less dialectal variation than other Helonic languages, due to stro
 
 ## Sample Phrases
 
-All phrases use vocabulary from the shared [[doc-helonclngg|Helonic]] lexicon.
+All phrases use vocabulary from the shared [[skill-helonclngg|Helonic]] lexicon.
 
 - **Thásira sôthira árshidhir pântha** — "The goddess of wisdom rules all things" (formal, feminine; _thásira_ nom. fem., _árshidhir_ 3rd sing. from _árshidhin_, _pântha_ acc. pl.)
 - **Âsh harmôdhin kôshamir sôthashir** — "Harmony holds the world together" (poetic, feminine; _sôthashir_ middle voice from _sôtharin_)
@@ -253,7 +253,7 @@ Bethuan is a distinct member of the **Helonic language family**, alongside:
 
 - **Helonic** — The ancient common ancestor; Bethuan shares vocabulary and grammar but has developed the unique register system. Bethuan stands to mainland Helonic roughly as one Romance tongue stands to a sister: clearly related, broadly intelligible in their shared core, distinct in sound and idiom.
 - **Byzarian** — The synthetic crossroads language; more distantly related through the shared Helonic base
-- **[[doc-kheperlngg|Kheperi]]** — Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[#The Kheperi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
+- **[[skill-kheperlngg|Kheperi]]** — Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[#The Kheperi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
 
 Educated speakers of Helonic can understand formal Bethuan relatively easily — the prestige register's purism works in their favour — but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Kheperi loanwords that mean nothing to a Helonic ear. Byzarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
 

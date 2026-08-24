@@ -70,7 +70,7 @@ The alphabetic script has become increasingly common for practical purposes, par
 
 ## Historical Development
 
-Nordmal descended from Proto-Pelwar stock along with [[skill-langvar|Varokhi]], but followed a unique evolutionary path in isolation across the frozen north. The language preserves many archaic Pelwar features (instrumental case, dual number, strong verbs) that have been lost or simplified in southern branches, suggesting Nordmal represents a more conservative development path.
+Nordmal descended from Proto-Pelwar stock along with [[skill-varokhlngg|Varokhi]], but followed a unique evolutionary path in isolation across the frozen north. The language preserves many archaic Pelwar features (instrumental case, dual number, strong verbs) that have been lost or simplified in southern branches, suggesting Nordmal represents a more conservative development path.
 
 The five Normen kingdoms maintained relative political independence, preventing standardization. Instead, Nordmal developed as a family of related dialects tied to specific kingdoms. This diversity is a source of pride (each kingdom claims its variant is the "truest" Nordmal) but can create difficulties in inter-kingdom diplomacy.
 
@@ -94,11 +94,11 @@ The five Normen kingdoms maintained relative political independence, preventing 
 
 ## Related Languages
 
-Nordmal stands closest to [[skill-langvar|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
+Nordmal stands closest to [[skill-varokhlngg|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
 
-The relationship to southern Pelwar languages ([[skill-langvyl|Vylari]], [[skill-langpro|Provenzal]], [[skill-langtar|Tarvéni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
+The relationship to southern Pelwar languages ([[skill-vylarilngg|Vylari]], [[skill-provnzlngg|Provenzal]], [[skill-tarvenlngg|Tarvéni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
 
-[[skill-langela|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
+[[skill-elvndrlngg|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
 
 ## Naming Traditions
 
