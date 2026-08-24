@@ -68,7 +68,7 @@
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.1",
-        "@heroiclands/content-build": "^1.6.0",
+        "@heroiclands/content-build": "^1.7.0",
         "@heroiclands/hugo-theme": "^0.1.2",
         "@heroiclands/package-build": "^0.6.0",
         "@rollup/plugin-terser": "^0.4.4",
