@@ -71,7 +71,7 @@
         "@heroiclands/content-build": "^1.7.0",
         "@heroiclands/hugo-theme": "^0.1.2",
         "@heroiclands/package-build": "^0.6.0",
-        "@rollup/plugin-terser": "^0.4.4",
+        "@rollup/plugin-terser": "^1.0.0",
         "npm-run-all": "^4.1.5",
         "prettier": "^3.9.6",
         "vite": "^6.2.3",
