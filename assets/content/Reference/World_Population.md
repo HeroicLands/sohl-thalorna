@@ -30,31 +30,31 @@ The model is anchored on the one polity worked out in detail: the **[[doc-vylari
 
 ### Ankaris — the West ("the civilized world")
 
-| Region                                                                | Population                        |
-| --------------------------------------------------------------------- | --------------------------------- |
-| [[doc-vylarinmpr\|Vylarian Empire]] (4 provinces)   | ~21,000,000                  |
-| [[doc-helionis\|Heliónis]] (governed, autonomous) | ~3,000,000                   |
-| Aurèldían kingdoms (Tarvénia, Provènzia, Élavendre, Aelwyth, Calypsa) | ~35,000,000                       |
-| [[doc-byzariargn\|Byzaría]]                         | ~8,000,000                   |
-| [[doc-cnfdrtnhrdnstts\|Harad]]                           | ~12,000,000                  |
-| The north ([[doc-kngdmnrdhm\|Nordheim]], [[doc-nrdlndsrgn\|Nordlands]], [[doc-vrystwald\|Vrystwald]]) | ~7,000,000 |
-| The deserts ([[doc-dunharargn\|Dunhara]], [[doc-khzryndsrtrgn\|Khazryn]])                   | ~6,000,000   |
-| Other minor western regions                                           | ~5,000,000                        |
-| **Western Ankaris subtotal**                                          | **~97,000,000**                   |
+| Region                                                                                                | Population      |
+| ----------------------------------------------------------------------------------------------------- | --------------- |
+| [[doc-vylarinmpr\|Vylarian Empire]] (4 provinces)                                                     | ~21,000,000     |
+| [[doc-helionis\|Heliónis]] (governed, autonomous)                                                     | ~3,000,000      |
+| Aurèldían kingdoms (Tarvénia, Provènzia, Élavendre, Aelwyth, Calypsa)                                 | ~35,000,000     |
+| [[doc-byzariargn\|Byzaría]]                                                                           | ~8,000,000      |
+| [[doc-cnfdrtnhrdnstts\|Harad]]                                                                        | ~12,000,000     |
+| The north ([[doc-kngdmnrdhm\|Nordheim]], [[doc-nrdlndsrgn\|Nordlands]], [[doc-vrystwald\|Vrystwald]]) | ~7,000,000      |
+| The deserts ([[doc-dunharargn\|Dunhara]], [[doc-khzryndsrtrgn\|Khazryn]])                             | ~6,000,000      |
+| Other minor western regions                                                                           | ~5,000,000      |
+| **Western Ankaris subtotal**                                                                          | **~97,000,000** |
 
 ### Ankaris — the East (the great powers)
 
 | Region                       | Population       |
 | ---------------------------- | ---------------- |
-| [[doc-vedyarargn\|Vedyára]]        | ~110,000,000 |
-| [[doc-tanvurempr\|Tánvür]]         | ~120,000,000 |
+| [[doc-vedyarargn\|Vedyára]]  | ~110,000,000     |
+| [[doc-tanvurempr\|Tánvür]]   | ~120,000,000     |
 | **Eastern Ankaris subtotal** | **~230,000,000** |
 
 ### Xerathia
 
 | Region                                              | Population      |
 | --------------------------------------------------- | --------------- |
-| [[doc-empirtkhpr\|Ta'Kheperu]]    | ~19,000,000 |
+| [[doc-empirtkhpr\|Ta'Kheperu]]                      | ~19,000,000     |
 | Rest of Xerathia (Okháris, Bethûa, the rainforests) | ~10,000,000     |
 | **Xerathia subtotal**                               | **~29,000,000** |
 
@@ -71,7 +71,7 @@ The model is anchored on the one polity worked out in detail: the **[[doc-vylari
 
 | Region                                               | Population |
 | ---------------------------------------------------- | ---------- |
-| [[doc-klhrcntnnt\|Kalihara]] | ~3,000,000 |
+| [[doc-klhrcntnnt\|Kalihara]]                         | ~3,000,000 |
 | Far north & scattered isles (Iseron, Aurionis, etc.) | ~3,000,000 |
 
 ## World Total

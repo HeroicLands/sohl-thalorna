@@ -38,7 +38,7 @@ and its region are all but the same country under two names.
 
 The distinction the region draws is the one Kaliharans themselves draw: the
 [[doc-kalihara|Kalihara]] confederation of coastal port-cities and inland
-traditionalist clans is the land as it is *lived in* and governed, while the
+traditionalist clans is the land as it is _lived in_ and governed, while the
 continent is the landmass and the ocean approaches that guard it.
 
 ## Geography
