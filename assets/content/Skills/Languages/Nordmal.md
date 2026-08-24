@@ -13,7 +13,7 @@ sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
-  parentSkillCode: language
+  parentSkillCode: lang
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
