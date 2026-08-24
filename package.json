@@ -58,8 +58,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "changeset": "changeset",
-    "changeset:version": "changeset version",
-    "changeset:check": "changeset check"
+    "changeset:version": "changeset version && npm install --package-lock-only",
+    "changeset:check": "changeset status --since=origin/main"
   },
   "devDependencies": {
     "@changesets/cli": "^2.28.1",
