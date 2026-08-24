@@ -17,7 +17,8 @@ sohl:
   title: null
   level: null
   relation: {}
-folder: UP1TiHn0Xt9ZGvYo
+  archetype: null
+folder: 22zncJuZCvjO7YSY
 ---
 
 Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes
