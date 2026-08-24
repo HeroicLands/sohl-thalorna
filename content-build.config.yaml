@@ -1,20 +1,10 @@
-# This repository's content-build configuration.
-#
-# Every field, and which values are derived rather than authored, is documented
-# in `@heroiclands/content-build`'s README. Comments here are limited to what
-# that cannot tell you: the things about *this* repository that would otherwise
-# read as accidents.
+# See `@heroiclands/content-build` for the full documentation.
 
 contentPackage: thalorna
 packageKind: modules
 
-# ⚠️ Stale, knowingly. These were moved verbatim out of the retired manifest
-# template so that change was provably one of mechanism and not of output —
-# stale values and all. The system this module targets is well past the range
-# declared under `relationships`, and Foundry has moved on from `14`. What this
-# module should actually claim is an open question, not a settled one.
 compatibility:
-    minimum: "14"
+    minimum: "14.359"
     verified: "14.364"
 
 relationships:
@@ -23,8 +13,8 @@ relationships:
           type: system
           manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
           compatibility:
-              minimum: "0.4.0"
-              verified: "0.4.3"
+              minimum: "0.8.2"
+              verified: "0.8.2"
 
 stats:
     systemId: sohl
@@ -50,29 +40,16 @@ packs:
 publish:
     site: true
     manifests: { publish: true, consume: true }
-    # This repository's existing address scheme written down, not a change to
-    # it: the content tree mounts at the package root, and a `doc` note whose
-    # `category` is `collection` addresses the section it introduces rather than
-    # taking a slug of its own.
     address:
         prefix: ""
         landing: collection
 
 packageBuild:
-    # The compendium packs are **not** listed here: `build:compiledb` compiles
-    # them into `build/stage/packs` directly from `assets/content`.
     assets:
-        # Copied rather than bundled — it imports nothing, so there is nothing
-        # for a bundler to resolve. The browser loads it from `esmodules`.
         - { from: src/sohl-thalorna.mjs, to: sohl-thalorna.mjs }
         - { from: lang, to: lang }
-        # Loaded whenever the module is active — including under another system,
-        # where SoHL's stylesheet is absent and this is the only thing marking
-        # an unresolved link.
         - { from: styles, to: styles }
         - { from: README.md, to: README.md }
-        # The dual license: the explainer, plus the full text of each half at
-        # the paths the explainer points at.
         - { from: LICENSE.md, to: LICENSE.md }
         - { from: src/LICENSE, to: src/LICENSE }
         - { from: assets/LICENSE, to: assets/LICENSE }
@@ -105,8 +82,6 @@ packageBuild:
               packs:
                   - items
                   - journals
-        # Points into the **system's** asset paths, so these resolve only where
-        # SoHL is installed.
         media:
             - type: setup
               url: systems/sohl/assets/ui/sohl-setup.webp
