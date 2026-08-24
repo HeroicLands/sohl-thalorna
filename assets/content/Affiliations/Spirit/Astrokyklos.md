@@ -5,7 +5,7 @@ tags: []
 name:
   full: Astrokýklos
   aliases: []
-type: doc
+type: affiliation
 package: thalorna
 id: qBeythibUMynFR01
 shortcode: astrokyklos
