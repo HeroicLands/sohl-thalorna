@@ -627,7 +627,7 @@ sohl:
       system:
         masteryLevelBase: 8
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 56
     - shortcode: PVest

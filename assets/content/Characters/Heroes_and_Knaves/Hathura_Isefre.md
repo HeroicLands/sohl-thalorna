@@ -629,7 +629,7 @@ sohl:
       system:
         masteryLevelBase: 55
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 40
     - shortcode: herb

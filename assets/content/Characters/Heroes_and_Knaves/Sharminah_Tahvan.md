@@ -616,7 +616,7 @@ sohl:
       system:
         masteryLevelBase: 30
     - shortcode: summ
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 28
     - shortcode: WFl

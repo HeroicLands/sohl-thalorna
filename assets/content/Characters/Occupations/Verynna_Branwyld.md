@@ -635,12 +635,8 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 12
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 70
     - shortcode: trnc
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 75
 thalorna:

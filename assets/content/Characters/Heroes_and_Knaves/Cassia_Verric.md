@@ -590,7 +590,7 @@ sohl:
         quantity: 60
     - shortcode: tndrbx
       type: miscgear
-    - shortcode: bpchlgltr
+    - shortcode: bpchlg
       type: containergear
 ---
 

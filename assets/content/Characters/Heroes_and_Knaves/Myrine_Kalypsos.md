@@ -620,7 +620,7 @@ sohl:
       system:
         masteryLevelBase: 24
     - shortcode: summ
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 30
     - shortcode: ritual

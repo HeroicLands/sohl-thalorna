@@ -533,7 +533,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 26
-    - shortcode: merc
+    - shortcode: mrcn
       type: skill
       system:
         masteryLevelBase: 13
@@ -577,7 +577,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 65
-    - shortcode: shck
+    - shortcode: shok
       type: skill
       system:
         masteryLevelBase: 70
@@ -585,7 +585,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 75
-    - shortcode: dodg
+    - shortcode: dge
       type: skill
       system:
         masteryLevelBase: 75
@@ -597,19 +597,19 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 14
-    - shortcode: hidew
+    - shortcode: hide
       type: skill
       system:
         masteryLevelBase: 28
-    - shortcode: weap
+    - shortcode: wpnc
       type: skill
       system:
         masteryLevelBase: 42
-    - shortcode: anlc
+    - shortcode: anmcft
       type: skill
       system:
         masteryLevelBase: 12
-    - shortcode: seam
+    - shortcode: smsh
       type: skill
       system:
         masteryLevelBase: 13
@@ -622,7 +622,7 @@ sohl:
       system:
         masteryLevelBase: 14
     - shortcode: sprt
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 39
     - shortcode: BrdSwd
@@ -650,7 +650,7 @@ sohl:
     - shortcode: Pl34Hlm
       type: armorgear
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
     - shortcode: maps
       type: miscgear
     - shortcode: family signet ring
@@ -668,11 +668,11 @@ sohl:
     - shortcode: Quiver for arrows
       type: miscgear
     - shortcode: ArwHBrd
-      type: miscgear
+      type: projectilegear
       system:
         quantity: 12
     - shortcode: backpk
-      type: miscgear
+      type: containergear
     - shortcode: Leather satchel
       type: miscgear
 ---

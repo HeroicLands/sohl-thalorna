@@ -633,10 +633,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 56
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 39
 thalorna:
   realm: pelagora
   region: helionis

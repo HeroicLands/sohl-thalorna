@@ -638,7 +638,7 @@ sohl:
       type: miscgear
       system:
         quantity: 3
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 3

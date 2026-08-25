@@ -635,8 +635,8 @@ sohl:
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:

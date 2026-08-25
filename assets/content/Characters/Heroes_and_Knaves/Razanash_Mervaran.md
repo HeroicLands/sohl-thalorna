@@ -626,7 +626,7 @@ sohl:
       system:
         masteryLevelBase: 12
     - shortcode: trnc
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 75
     - shortcode: Dgr

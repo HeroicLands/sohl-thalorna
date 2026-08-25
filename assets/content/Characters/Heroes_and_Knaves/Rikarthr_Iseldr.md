@@ -617,7 +617,7 @@ sohl:
       system:
         masteryLevelBase: 14
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 30
     - shortcode: Stf

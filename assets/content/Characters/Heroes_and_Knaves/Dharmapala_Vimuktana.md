@@ -643,7 +643,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 3

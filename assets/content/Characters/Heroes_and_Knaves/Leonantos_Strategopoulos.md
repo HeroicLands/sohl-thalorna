@@ -621,7 +621,7 @@ sohl:
       system:
         masteryLevelBase: 14
     - shortcode: summ
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 14
     - shortcode: Whmr

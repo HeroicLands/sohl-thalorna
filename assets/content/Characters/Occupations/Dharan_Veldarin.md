@@ -620,13 +620,9 @@ sohl:
       system:
         masteryLevelBase: 20
     - shortcode: summ
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 14
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 45
     - shortcode: common
       type: skill
       system:

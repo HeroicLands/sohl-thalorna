@@ -620,11 +620,11 @@ sohl:
       system:
         masteryLevelBase: 39
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 64
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 64
     - shortcode: LtTunic

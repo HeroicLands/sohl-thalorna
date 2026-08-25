@@ -619,10 +619,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 45
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 39
     - shortcode: lang
       type: skill
       system:

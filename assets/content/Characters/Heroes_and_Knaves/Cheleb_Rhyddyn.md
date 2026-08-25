@@ -572,7 +572,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 60
-    - shortcode: shck
+    - shortcode: shok
       type: skill
       system:
         masteryLevelBase: 48
@@ -580,7 +580,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 45
-    - shortcode: dodg
+    - shortcode: dge
       type: skill
       system:
         masteryLevelBase: 42
@@ -596,11 +596,11 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 80
-    - shortcode: hidew
+    - shortcode: hide
       type: skill
       system:
         masteryLevelBase: 32
-    - shortcode: woodw
+    - shortcode: wood
       type: skill
       system:
         masteryLevelBase: 64
@@ -621,7 +621,7 @@ sohl:
       system:
         masteryLevelBase: 88
     - shortcode: sprt
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 39
     - shortcode: LBw75
@@ -637,7 +637,7 @@ sohl:
     - shortcode: LtKBoot
       type: armorgear
     - shortcode: backpk
-      type: miscgear
+      type: containergear
     - shortcode: StdRtns
       type: miscgear
       system:
@@ -645,11 +645,11 @@ sohl:
     - shortcode: LiteBdrl
       type: miscgear
     - shortcode: ArwLBrd
-      type: miscgear
+      type: projectilegear
       system:
         quantity: 30
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
     - shortcode: Quiver
       type: miscgear
     - shortcode: Leather satchel
