@@ -35,9 +35,9 @@ updates:
           # of one still yields one pull request per package, which is the point.
           # Dependabot assigns a dependency to the first group it matches, so the
           # order of these entries is what does the work.
-          content-build:
+          package-build:
               patterns:
-                  - "@heroiclands/content-build"
+                  - "@heroiclands/package-build"
           hugo-theme:
               patterns:
                   - "@heroiclands/hugo-theme"

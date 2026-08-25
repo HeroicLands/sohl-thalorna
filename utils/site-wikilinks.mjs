@@ -15,7 +15,7 @@
  * Wikilink resolution for the website content build (#1451).
  *
  * The same authored links the pack compilers turn into Foundry `@UUID` enrichers
- * (see `@heroiclands/content-build/engine/wikilinks`) become site-local hrefs
+ * (see `@heroiclands/package-build/engine/wikilinks`) become site-local hrefs
  * here:
  *
  *   `[[type-shortcode|Text]]`      → `[Text](/thalorna/section/slug/)`
@@ -38,7 +38,7 @@
 // build's own rule, so the two builds cannot drift apart on it: they disagreed
 // once over the unlabelled hyphen form, which the packs showed as a raw
 // shortcode and the knowledgebase as a name (#1409).
-import { readQualifier } from "@heroiclands/content-build/engine/wikilinks";
+import { readQualifier } from "@heroiclands/package-build/engine/wikilinks";
 
 /** Heading/anchor slug: lowercase, non-alphanumerics to single hyphens. */
 export const slugify = (s) =>
