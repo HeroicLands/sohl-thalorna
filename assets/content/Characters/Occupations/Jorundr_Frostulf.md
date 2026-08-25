@@ -52,6 +52,7 @@ gear:
     - guard whistle
     - logbook
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

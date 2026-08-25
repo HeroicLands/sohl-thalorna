@@ -47,6 +47,7 @@ traits:
       - long arms that give him a gangly look
       - perpetual scowl
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 12

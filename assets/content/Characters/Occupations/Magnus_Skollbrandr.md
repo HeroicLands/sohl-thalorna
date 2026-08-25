@@ -51,6 +51,7 @@ gear:
     - magnifying glass
     - polishing cloths
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

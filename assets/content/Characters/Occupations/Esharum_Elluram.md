@@ -51,6 +51,7 @@ gear:
     - white gloves
     - pocket watch
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

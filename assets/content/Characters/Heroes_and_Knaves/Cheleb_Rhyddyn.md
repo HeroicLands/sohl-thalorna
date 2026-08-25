@@ -51,6 +51,7 @@ traits:
       - Hair tied back with leather thong
       - Often cloaked in green and brown for camouflage
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 11

@@ -46,6 +46,7 @@ traits:
       - thick neck
       - nose broken multiple times
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 14

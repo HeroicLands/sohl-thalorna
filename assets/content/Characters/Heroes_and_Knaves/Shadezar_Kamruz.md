@@ -47,6 +47,7 @@ traits:
     complexion: ruddy
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 17
     end: 15

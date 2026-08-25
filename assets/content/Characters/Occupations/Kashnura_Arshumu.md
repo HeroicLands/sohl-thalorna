@@ -52,6 +52,7 @@ gear:
     - molds
     - and tallow
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

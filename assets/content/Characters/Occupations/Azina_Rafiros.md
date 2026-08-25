@@ -51,6 +51,7 @@ gear:
     - herbal poultices
     - linen wrappings
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

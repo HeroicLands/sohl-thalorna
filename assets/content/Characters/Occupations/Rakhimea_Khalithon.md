@@ -52,6 +52,7 @@ gear:
     - throwing knives
     - grappling hook
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

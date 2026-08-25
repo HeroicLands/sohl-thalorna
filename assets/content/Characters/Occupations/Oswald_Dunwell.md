@@ -49,6 +49,7 @@ gear:
     - Ledger for land management
     - tools for agriculture
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

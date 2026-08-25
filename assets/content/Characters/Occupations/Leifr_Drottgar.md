@@ -51,6 +51,7 @@ gear:
     - hand-carved charm
     - rough rope
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

@@ -49,6 +49,7 @@ gear:
     - Old blanket
     - makeshift walking stick
 sohl:
+  archetype: null
   attributes:
     str: 7
     end: 9

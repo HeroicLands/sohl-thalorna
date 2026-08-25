@@ -52,6 +52,7 @@ gear:
     - gold thread
     - fashion sketchbook
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

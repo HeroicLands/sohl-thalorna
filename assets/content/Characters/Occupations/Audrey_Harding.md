@@ -50,6 +50,7 @@ gear:
     - ledgers
     - business tools
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

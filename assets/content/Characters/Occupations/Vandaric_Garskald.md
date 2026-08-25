@@ -50,6 +50,7 @@ gear:
     - feed bags
     - first aid kit for horses
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

@@ -52,6 +52,7 @@ gear:
     - herbal remedies
     - ledger for bookings
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

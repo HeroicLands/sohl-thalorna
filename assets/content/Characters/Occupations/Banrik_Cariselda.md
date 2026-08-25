@@ -52,6 +52,7 @@ gear:
     - first aid kit
     - survival gear
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

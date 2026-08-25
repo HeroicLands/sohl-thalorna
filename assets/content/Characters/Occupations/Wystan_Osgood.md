@@ -50,6 +50,7 @@ gear:
     - trained ferrets
     - bait
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

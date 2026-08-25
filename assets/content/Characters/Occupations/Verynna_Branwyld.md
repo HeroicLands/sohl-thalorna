@@ -52,6 +52,7 @@ gear:
     - divination stones
     - ceremonial feathers
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

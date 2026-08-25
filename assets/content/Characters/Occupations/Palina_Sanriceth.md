@@ -52,6 +52,7 @@ gear:
     - sacred texts
     - decorative items
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

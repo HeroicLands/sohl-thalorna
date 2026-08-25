@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a tattoo of a skill and crossbones on the chest
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

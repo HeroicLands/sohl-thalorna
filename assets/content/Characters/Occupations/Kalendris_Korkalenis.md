@@ -50,6 +50,7 @@ gear:
     - natural dyes
     - needle and thread
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 12

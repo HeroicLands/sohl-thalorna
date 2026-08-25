@@ -50,6 +50,7 @@ traits:
       - an infectious grin
       - often wears outrageously patterned clothing
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 14

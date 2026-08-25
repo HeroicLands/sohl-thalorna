@@ -51,6 +51,7 @@ gear:
     - pipe and tobacco
     - maintenance tools
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

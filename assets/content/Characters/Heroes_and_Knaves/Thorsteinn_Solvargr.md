@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar on the chin
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

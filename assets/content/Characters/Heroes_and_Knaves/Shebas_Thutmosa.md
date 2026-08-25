@@ -47,6 +47,7 @@ traits:
     extra_features:
       - a scar on the left arm
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 14

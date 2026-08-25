@@ -50,6 +50,7 @@ gear:
     - Books on governance and art
     - ledger for donations
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

@@ -52,6 +52,7 @@ gear:
     - wpnsup
     - trophies from past victories
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

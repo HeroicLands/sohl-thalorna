@@ -50,6 +50,7 @@ gear:
     - sacred texts
     - first aid supplies
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 14

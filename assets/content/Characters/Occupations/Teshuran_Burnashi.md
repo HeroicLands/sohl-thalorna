@@ -52,6 +52,7 @@ gear:
     - wooden practice swords
     - eye patch
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

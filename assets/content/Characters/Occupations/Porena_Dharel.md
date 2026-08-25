@@ -50,6 +50,7 @@ gear:
     - protective gloves
     - first aid kit
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

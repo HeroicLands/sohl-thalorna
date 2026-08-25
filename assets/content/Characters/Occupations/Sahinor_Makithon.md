@@ -52,6 +52,7 @@ gear:
     - writing kit
     - family crest medallion
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

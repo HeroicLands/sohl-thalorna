@@ -52,6 +52,7 @@ gear:
     - drinking horn
     - hand drum
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

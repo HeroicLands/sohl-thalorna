@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a flower on the ankle
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

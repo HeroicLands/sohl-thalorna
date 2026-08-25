@@ -41,6 +41,7 @@ traits:
     complexion: freckled
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: ymir
       type: affiliation

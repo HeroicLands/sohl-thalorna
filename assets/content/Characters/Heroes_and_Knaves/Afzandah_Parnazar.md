@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar on the left ankle
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

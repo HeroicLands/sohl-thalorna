@@ -50,6 +50,7 @@ gear:
     - stage props
     - script collection
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

@@ -51,6 +51,7 @@ gear:
     - ladder
     - bundles of straw
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

@@ -52,6 +52,7 @@ gear:
     - ceremonial sword
     - donations ledger
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

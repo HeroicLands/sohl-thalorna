@@ -52,6 +52,7 @@ gear:
     - fencing mask
     - instructional manuals
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 12

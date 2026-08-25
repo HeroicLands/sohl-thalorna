@@ -52,6 +52,7 @@ gear:
     - measuring tools
     - blueprints
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

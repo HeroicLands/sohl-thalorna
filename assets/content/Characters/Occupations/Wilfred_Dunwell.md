@@ -50,6 +50,7 @@ gear:
     - basic first-aid kit
     - animal feed
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

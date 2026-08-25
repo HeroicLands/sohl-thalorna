@@ -49,6 +49,7 @@ gear:
     - kiln
     - variety of glazes and brushes
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

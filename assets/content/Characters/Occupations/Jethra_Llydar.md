@@ -51,6 +51,7 @@ gear:
     - star maps
     - nautical almanac
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

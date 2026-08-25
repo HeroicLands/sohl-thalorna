@@ -53,6 +53,7 @@ gear:
     - StdRations:3
     - wtrskin:1
 sohl:
+  archetype: null
   attributes:
     agl: 10
     aur: 10

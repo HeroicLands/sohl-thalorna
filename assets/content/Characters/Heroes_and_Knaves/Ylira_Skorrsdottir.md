@@ -50,6 +50,7 @@ traits:
       - scar on her right hand
       - intensity in her gaze that unnerves strangers
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 16

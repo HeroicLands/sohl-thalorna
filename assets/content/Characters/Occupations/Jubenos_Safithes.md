@@ -51,6 +51,7 @@ gear:
     - theater mask
     - silver flask
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 12

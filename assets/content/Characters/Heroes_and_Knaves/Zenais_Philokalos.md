@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a bird on the forearm
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 10

@@ -52,6 +52,7 @@ gear:
     - seed bags
     - leather gloves
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

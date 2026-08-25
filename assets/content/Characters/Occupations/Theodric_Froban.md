@@ -51,6 +51,7 @@ gear:
     - safety gear
     - lantern
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

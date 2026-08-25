@@ -50,6 +50,7 @@ gear:
     - watering can
     - seed packets
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 13

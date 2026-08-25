@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar on the right side of the face
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

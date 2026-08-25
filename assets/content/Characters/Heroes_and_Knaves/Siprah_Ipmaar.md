@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

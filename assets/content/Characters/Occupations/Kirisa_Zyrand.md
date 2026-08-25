@@ -51,6 +51,7 @@ gear:
     - ladle
     - wooden spoons
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

@@ -49,6 +49,7 @@ gear:
     - Laboratory notes
     - rare mineral samples
 sohl:
+  archetype: null
   attributes:
     str: 7
     end: 10

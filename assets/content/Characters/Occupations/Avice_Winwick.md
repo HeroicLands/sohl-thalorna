@@ -50,6 +50,7 @@ gear:
     - navigation tools
     - ledger for accounts
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

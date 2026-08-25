@@ -56,6 +56,7 @@ gear:
     - consecrated ash wrapped in oilcloth
     - torch
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

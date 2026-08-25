@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a serpent on the back
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 17

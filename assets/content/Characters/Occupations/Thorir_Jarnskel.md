@@ -52,6 +52,7 @@ gear:
     - arcane focus
     - magical reagents
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 10

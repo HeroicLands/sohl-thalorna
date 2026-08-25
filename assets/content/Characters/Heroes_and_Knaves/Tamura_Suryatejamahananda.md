@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a butterfly on the neck
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

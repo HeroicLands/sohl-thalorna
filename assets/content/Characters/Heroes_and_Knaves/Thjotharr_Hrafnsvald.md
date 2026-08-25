@@ -47,6 +47,7 @@ traits:
     extra_features:
       - a scar on the abdomen
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

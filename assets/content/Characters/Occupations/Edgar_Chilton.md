@@ -51,6 +51,7 @@ gear:
     - linen cloths
     - herbs for funerary rites
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

@@ -51,6 +51,7 @@ gear:
     - leather gloves
     - field guide to local wildlife
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

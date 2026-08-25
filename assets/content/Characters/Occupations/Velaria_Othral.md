@@ -53,6 +53,7 @@ gear:
     - charcoal and parchment for drawing
     - wooden flute
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

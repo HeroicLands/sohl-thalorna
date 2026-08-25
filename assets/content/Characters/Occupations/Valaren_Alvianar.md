@@ -51,6 +51,7 @@ gear:
     - small knife for sealing wax
     - collection of local laws
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

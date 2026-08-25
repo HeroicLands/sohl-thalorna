@@ -52,6 +52,7 @@ gear:
     - tribal insignia
     - war horn
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

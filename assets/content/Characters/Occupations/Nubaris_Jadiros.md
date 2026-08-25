@@ -50,6 +50,7 @@ gear:
     - Documents for negotiations
     - ledger for alliances
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

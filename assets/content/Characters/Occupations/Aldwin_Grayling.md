@@ -50,6 +50,7 @@ gear:
     - Old hat
     - carved wooden charm for luck
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

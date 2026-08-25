@@ -51,6 +51,7 @@ gear:
     - armor polish
     - training equipment
 sohl:
+  archetype: null
   attributes:
     str: 17
     end: 16

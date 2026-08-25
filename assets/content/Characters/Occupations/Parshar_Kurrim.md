@@ -51,6 +51,7 @@ gear:
     - reference books on locksmithing
     - client contracts
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

@@ -52,6 +52,7 @@ gear:
     - hunting traps
     - whistle for calling dogs
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

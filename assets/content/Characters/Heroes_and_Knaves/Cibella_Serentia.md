@@ -50,6 +50,7 @@ traits:
       - unnervingly still gaze
       - moves with an uncanny grace
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

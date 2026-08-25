@@ -52,6 +52,7 @@ gear:
     - tools for kiln maintenance
     - leather gloves
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 16

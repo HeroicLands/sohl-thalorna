@@ -50,6 +50,7 @@ gear:
     - writing quills
     - sealing wax
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

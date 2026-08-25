@@ -49,6 +49,7 @@ traits:
       - a commanding presence
       - moves with quiet precision
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

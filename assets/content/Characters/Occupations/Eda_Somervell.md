@@ -50,6 +50,7 @@ gear:
     - linen for bedding
     - ledger for reservations
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

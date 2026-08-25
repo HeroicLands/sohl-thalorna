@@ -51,6 +51,7 @@ gear:
     - brewing supplies
     - ledger for bookings
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

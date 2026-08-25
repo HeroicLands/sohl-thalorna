@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a tiger on the forearm
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

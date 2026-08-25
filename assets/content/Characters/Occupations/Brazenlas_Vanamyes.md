@@ -50,6 +50,7 @@ gear:
     - embalming tools
     - ancient texts on funerary practices
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

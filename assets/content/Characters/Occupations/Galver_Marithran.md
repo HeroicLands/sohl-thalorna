@@ -50,6 +50,7 @@ gear:
     - chisels
     - safety gear
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

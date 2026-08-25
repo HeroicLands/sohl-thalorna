@@ -51,6 +51,7 @@ gear:
     - worn lute
     - simple necklace (keepsake)
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 10

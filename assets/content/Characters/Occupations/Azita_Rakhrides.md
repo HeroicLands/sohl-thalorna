@@ -50,6 +50,7 @@ gear:
     - trade agreements
     - map of trade routes
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

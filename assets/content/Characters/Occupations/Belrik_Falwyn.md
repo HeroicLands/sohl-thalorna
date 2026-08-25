@@ -50,6 +50,7 @@ gear:
     - Mortar and pestle
     - alchemical texts
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

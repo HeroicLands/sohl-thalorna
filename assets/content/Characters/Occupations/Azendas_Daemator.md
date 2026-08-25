@@ -53,6 +53,7 @@ gear:
     - herbal remedies
     - farming tools
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 16

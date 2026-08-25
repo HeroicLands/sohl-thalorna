@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 14

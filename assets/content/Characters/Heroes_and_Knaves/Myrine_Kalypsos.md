@@ -48,6 +48,7 @@ traits:
       - Faint burn scars across the fingertips of both hands from years of fire divination practice
       - A thin cord of braided copper wire worn around the left wrist, signifying her status as a mendicant — a wandering priestess authorized to preach and perform rites outside a fixed temple
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar above the left eyebrow
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 12

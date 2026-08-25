@@ -50,6 +50,7 @@ gear:
     - hammers
     - safety goggles
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

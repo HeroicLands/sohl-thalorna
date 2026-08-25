@@ -52,6 +52,7 @@ gear:
     - spare strings
     - collection of folk songs
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

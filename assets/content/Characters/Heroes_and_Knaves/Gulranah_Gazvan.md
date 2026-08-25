@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar on the right wrist
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 15

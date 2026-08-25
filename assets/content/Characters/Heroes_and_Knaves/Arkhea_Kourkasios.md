@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a limp
 sohl:
+  archetype: null
   attributes:
     str: 7
     end: 9

@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar running down the back
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

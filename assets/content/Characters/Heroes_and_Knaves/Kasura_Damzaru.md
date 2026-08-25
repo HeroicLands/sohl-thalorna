@@ -50,6 +50,7 @@ traits:
       - an open and expressive face
       - almost always smiling
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 10

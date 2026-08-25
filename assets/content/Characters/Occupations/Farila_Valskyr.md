@@ -50,6 +50,7 @@ gear:
     - herbal compendium
     - surgical tools
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a skull on the upper arm
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

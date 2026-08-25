@@ -51,6 +51,7 @@ gear:
     - flight logbook
     - map of trade routes
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

@@ -51,6 +51,7 @@ gear:
     - saw
     - wooden pegs
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

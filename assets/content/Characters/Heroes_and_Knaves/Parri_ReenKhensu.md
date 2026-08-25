@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a crescent moon on the neck
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

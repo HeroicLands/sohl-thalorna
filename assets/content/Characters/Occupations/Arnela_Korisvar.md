@@ -50,6 +50,7 @@ gear:
     - Documents for governance
     - ledger for donations
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

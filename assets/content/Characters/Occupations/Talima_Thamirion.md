@@ -51,6 +51,7 @@ gear:
     - measuring tools
     - map
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

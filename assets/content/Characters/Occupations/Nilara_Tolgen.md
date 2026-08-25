@@ -52,6 +52,7 @@ gear:
     - spare arrows
     - map of the local area
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 12

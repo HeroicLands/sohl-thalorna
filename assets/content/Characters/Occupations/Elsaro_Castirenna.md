@@ -52,6 +52,7 @@ gear:
     - poisons
     - grappling hook
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

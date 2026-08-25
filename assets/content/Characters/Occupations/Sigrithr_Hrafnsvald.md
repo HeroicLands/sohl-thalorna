@@ -52,6 +52,7 @@ gear:
     - woodcarving knife
     - sealing wax
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

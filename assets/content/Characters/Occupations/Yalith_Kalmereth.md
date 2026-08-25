@@ -52,6 +52,7 @@ gear:
     - notebook for lyrics
     - healing herbs
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

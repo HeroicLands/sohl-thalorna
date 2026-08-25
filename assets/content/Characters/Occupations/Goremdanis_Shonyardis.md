@@ -51,6 +51,7 @@ gear:
     - spare strings
     - small book of songs
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

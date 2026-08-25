@@ -51,6 +51,7 @@ traits:
     extra_features:
       - Pox marks
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 11

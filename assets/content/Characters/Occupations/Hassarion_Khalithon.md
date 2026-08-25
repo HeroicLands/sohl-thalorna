@@ -51,6 +51,7 @@ gear:
     - military maps
     - personal effects
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 17

@@ -51,6 +51,7 @@ gear:
     - magnifying glass
     - reference books on gemstones
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

@@ -52,6 +52,7 @@ gear:
     - navigation tools
     - fishing gear
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

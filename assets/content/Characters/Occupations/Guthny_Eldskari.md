@@ -51,6 +51,7 @@ gear:
     - gloves
     - water skin
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

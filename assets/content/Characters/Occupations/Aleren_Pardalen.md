@@ -52,6 +52,7 @@ gear:
     - carved totems
     - drum for rituals
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

@@ -52,6 +52,7 @@ gear:
     - hooks
     - weathered sea chart
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 15

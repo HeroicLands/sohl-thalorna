@@ -50,6 +50,7 @@ gear:
     - sketchbook for designs
     - polishing cloths
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

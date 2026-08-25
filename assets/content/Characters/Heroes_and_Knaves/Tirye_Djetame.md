@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a dragonfly on the neck
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

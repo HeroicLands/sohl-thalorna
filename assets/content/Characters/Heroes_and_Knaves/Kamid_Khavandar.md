@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a phoenix on the chest
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

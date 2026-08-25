@@ -52,6 +52,7 @@ gear:
     - wooden models
     - clockmaker’s tools
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

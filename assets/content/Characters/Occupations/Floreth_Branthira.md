@@ -51,6 +51,7 @@ gear:
     - safety gear
     - water skin
 sohl:
+  archetype: null
   attributes:
     str: 17
     end: 16

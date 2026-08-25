@@ -47,6 +47,7 @@ traits:
     complexion: sallow
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

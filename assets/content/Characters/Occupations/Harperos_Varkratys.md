@@ -52,6 +52,7 @@ gear:
     - flint and tinder
     - animal hide cloak
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

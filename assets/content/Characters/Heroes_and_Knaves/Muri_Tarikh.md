@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar across the bridge of the nose
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

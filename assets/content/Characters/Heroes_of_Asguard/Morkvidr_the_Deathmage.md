@@ -42,6 +42,7 @@ traits:
     complexion: sallow
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: hel
       type: affiliation

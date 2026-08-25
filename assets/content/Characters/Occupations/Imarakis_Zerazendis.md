@@ -51,6 +51,7 @@ gear:
     - tambourine
     - carved sticks
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

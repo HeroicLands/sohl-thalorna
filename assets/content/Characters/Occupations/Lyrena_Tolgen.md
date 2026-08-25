@@ -52,6 +52,7 @@ gear:
     - carved wooden amulet
     - ceremonial dagger
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

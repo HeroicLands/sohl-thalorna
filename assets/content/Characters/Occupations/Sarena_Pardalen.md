@@ -53,6 +53,7 @@ gear:
     - dried flower garlands for rites of renewal
     - mortar and pestle
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

@@ -51,6 +51,7 @@ gear:
     - throwing axes
     - wpnsup
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 12

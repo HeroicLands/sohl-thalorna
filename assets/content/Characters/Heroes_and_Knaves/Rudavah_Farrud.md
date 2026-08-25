@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a burn mark on the left hand
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

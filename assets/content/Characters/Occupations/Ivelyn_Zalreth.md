@@ -51,6 +51,7 @@ gear:
     - wood stains
     - varnish
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

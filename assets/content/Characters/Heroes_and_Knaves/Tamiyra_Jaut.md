@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a faint scar on the left side of the neck
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11
