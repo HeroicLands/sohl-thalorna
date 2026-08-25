@@ -33,11 +33,11 @@
  * 1. **Route** each note to `<section>/<slug>.md`. The section is the note's
  *    `type`, except a `type: doc` routes by its `category`; the slug is derived
  *    from `name.full` by the shared rule in
- *    `@heroiclands/content-build/engine/content-slug` (#1278).
+ *    `@heroiclands/package-build/engine/content-slug` (#1278).
  *    A `category: collection` note *is* a section's landing and writes that
  *    section's `_index.md` instead.
  * 2. **Expand** the fenced `dataview` table directives against every published
- *    note (`@heroiclands/content-build/engine/content-tables`), so a collection
+ *    note (`@heroiclands/package-build/engine/content-tables`), so a collection
  *    page tabulates its
  *    section.
  * 3. **Resolve** the authored wikilinks to site-local hrefs
@@ -61,8 +61,8 @@ import yaml from "yaml";
 import {
     contentSlug,
     findSlugCollisions,
-} from "@heroiclands/content-build/engine/content-slug";
-import { expandContentTables } from "@heroiclands/content-build/engine/content-tables";
+} from "@heroiclands/package-build/engine/content-slug";
+import { expandContentTables } from "@heroiclands/package-build/engine/content-tables";
 import {
     resolveSiteWikilinks,
     frontmatterWikilinks,
@@ -72,11 +72,11 @@ import {
     loadForeignManifests,
     manifestsComplete,
     readCanonicalKey,
-} from "@heroiclands/content-build/engine/kb-manifest";
+} from "@heroiclands/package-build/engine/kb-manifest";
 import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
-import { walkMarkdownTree } from "@heroiclands/content-build/engine/helpers";
-import { hasDocEntry } from "@heroiclands/content-build/engine/item-docs";
-import { contentPackage } from "@heroiclands/content-build/engine/content-package";
+import { walkMarkdownTree } from "@heroiclands/package-build/engine/helpers";
+import { hasDocEntry } from "@heroiclands/package-build/engine/item-docs";
+import { contentPackage } from "@heroiclands/package-build/engine/content-package";
 
 // Resolved once, here, rather than at each use. The package exports these as
 // accessors so that *importing* a module never needs a consumer config; this is

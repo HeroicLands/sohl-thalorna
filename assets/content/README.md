@@ -91,7 +91,7 @@ into the `sohl` package resolves through **its** published link manifest, and a
 link from `sohl` into this package resolves through the one this repository
 emits (`npm run build:link-manifest`, then copy `build/manifests/thalorna.json`
 into that repository's `assets/manifests/`). See
-`@heroiclands/content-build/engine/kb-manifest` for the format, and note the
+`@heroiclands/package-build/engine/kb-manifest` for the format, and note the
 consequence: once every package's manifest is present, an address that resolves
 in none of them stops being tolerated and fails the build.
 
