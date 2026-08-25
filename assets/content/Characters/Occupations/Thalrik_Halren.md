@@ -52,6 +52,7 @@ gear:
     - rope
     - sharpening stone
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

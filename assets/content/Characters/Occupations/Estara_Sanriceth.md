@@ -51,6 +51,7 @@ gear:
     - wagon repair tools
     - horse grooming kit
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

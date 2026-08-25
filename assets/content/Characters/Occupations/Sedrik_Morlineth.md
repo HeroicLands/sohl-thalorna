@@ -51,6 +51,7 @@ gear:
     - torch
     - whistle for signaling
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

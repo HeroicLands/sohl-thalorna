@@ -48,6 +48,7 @@ traits:
     complexion: freckled
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 9

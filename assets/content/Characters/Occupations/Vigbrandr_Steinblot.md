@@ -51,6 +51,7 @@ gear:
     - blending tools
     - rare ingredient catalog
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

@@ -51,6 +51,7 @@ gear:
     - bundles of reed
     - wooden pegs
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

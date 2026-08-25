@@ -51,6 +51,7 @@ gear:
     - juggling balls
     - written jokes
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

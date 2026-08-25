@@ -50,6 +50,7 @@ gear:
     - collection of scripts
     - theatrical props
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

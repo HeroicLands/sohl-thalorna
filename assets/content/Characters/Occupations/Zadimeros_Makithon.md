@@ -53,6 +53,7 @@ gear:
     - charcoal
     - and parchment
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

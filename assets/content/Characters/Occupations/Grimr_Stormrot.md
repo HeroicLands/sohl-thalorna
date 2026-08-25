@@ -50,6 +50,7 @@ gear:
     - writing materials
     - personal ledger
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

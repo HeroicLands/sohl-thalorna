@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a wolf on the shoulder
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

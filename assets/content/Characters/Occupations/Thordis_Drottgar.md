@@ -51,6 +51,7 @@ gear:
     - wooden pestle
     - herbal field guide
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 14

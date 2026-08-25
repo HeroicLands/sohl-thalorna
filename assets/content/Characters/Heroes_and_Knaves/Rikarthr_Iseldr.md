@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a tattoo of a dolphin on the left wrist
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 10

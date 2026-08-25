@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a waterfall on the shoulder
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

@@ -51,6 +51,7 @@ gear:
     - secret communication tools
     - notes from the guild
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

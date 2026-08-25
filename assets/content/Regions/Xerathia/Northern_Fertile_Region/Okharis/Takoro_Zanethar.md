@@ -44,6 +44,7 @@ traits:
     complexion: medium
     extra_features: []
 sohl:
+  archetype: null
   birthsign: ""
   attributes:
     str: 14

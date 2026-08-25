@@ -42,6 +42,7 @@ traits:
     complexion: weathered
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: odinn
       type: affiliation

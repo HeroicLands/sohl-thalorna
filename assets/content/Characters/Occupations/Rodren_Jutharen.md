@@ -51,6 +51,7 @@ gear:
     - water flask
     - old map of the mine
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

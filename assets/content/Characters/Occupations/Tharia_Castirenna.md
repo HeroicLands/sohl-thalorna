@@ -50,6 +50,7 @@ gear:
     - wooden hairbrush
     - small keepsake from her home
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 12

@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a scar on the left ear
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 13

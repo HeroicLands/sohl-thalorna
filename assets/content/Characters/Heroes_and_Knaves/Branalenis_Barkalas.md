@@ -47,6 +47,7 @@ traits:
     complexion: tanned
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

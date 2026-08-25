@@ -45,6 +45,7 @@ traits:
       - a disarming smile that does not reach his eyes
       - tattoo of a serpent on his forearm
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 10

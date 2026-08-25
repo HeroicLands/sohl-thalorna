@@ -41,6 +41,7 @@ traits:
     complexion: ruddy
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: odinn
       type: affiliation

@@ -50,6 +50,7 @@ gear:
     - level
     - measuring tape
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

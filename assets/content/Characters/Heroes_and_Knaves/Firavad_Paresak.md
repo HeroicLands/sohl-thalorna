@@ -47,6 +47,7 @@ traits:
     complexion: weathered
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 10

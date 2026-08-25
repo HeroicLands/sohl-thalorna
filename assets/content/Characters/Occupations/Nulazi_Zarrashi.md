@@ -51,6 +51,7 @@ gear:
     - tree identification book
     - woodcarving tools
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

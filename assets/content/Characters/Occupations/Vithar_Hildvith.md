@@ -52,6 +52,7 @@ gear:
     - sharpening stones
     - iron and steel ingots
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

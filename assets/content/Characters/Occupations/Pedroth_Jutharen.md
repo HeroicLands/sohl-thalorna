@@ -52,6 +52,7 @@ gear:
     - leather patches
     - waxed thread
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

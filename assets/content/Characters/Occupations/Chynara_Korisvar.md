@@ -51,6 +51,7 @@ gear:
     - wooden ladles
     - barrels for storage
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 15

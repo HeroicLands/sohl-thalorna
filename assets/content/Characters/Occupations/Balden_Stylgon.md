@@ -52,6 +52,7 @@ gear:
     - ceremonial drinking cup
     - walking stick
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

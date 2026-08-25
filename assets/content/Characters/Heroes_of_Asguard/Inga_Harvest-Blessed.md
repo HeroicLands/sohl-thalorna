@@ -41,6 +41,7 @@ traits:
     complexion: smooth
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: freyr
       type: affiliation

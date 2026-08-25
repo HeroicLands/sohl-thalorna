@@ -51,6 +51,7 @@ gear:
     - amulet of protection
     - arcane ink and quill
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 11

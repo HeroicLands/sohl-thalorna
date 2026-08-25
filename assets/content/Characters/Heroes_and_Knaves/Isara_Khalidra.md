@@ -49,6 +49,7 @@ traits:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 12

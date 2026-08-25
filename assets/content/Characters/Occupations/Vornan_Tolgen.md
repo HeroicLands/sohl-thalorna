@@ -51,6 +51,7 @@ gear:
     - ink
     - various philosophical texts
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

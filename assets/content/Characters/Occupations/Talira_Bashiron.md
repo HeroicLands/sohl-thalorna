@@ -50,6 +50,7 @@ gear:
     - Collection of herbal remedies
     - simple laboratory tools
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 13

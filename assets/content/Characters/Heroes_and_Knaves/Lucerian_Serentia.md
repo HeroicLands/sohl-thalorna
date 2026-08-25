@@ -49,6 +49,7 @@ traits:
       - immaculate grooming even in rough conditions
       - carries a fine leather medical bag
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 11

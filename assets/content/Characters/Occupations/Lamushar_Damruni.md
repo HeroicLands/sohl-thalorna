@@ -50,6 +50,7 @@ gear:
     - writing materials
     - trade agreements
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

@@ -52,6 +52,7 @@ gear:
     - parchment
     - ledgers
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

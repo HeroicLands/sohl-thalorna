@@ -51,6 +51,7 @@ gear:
     - colored glass pieces
     - metal frames for windows
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

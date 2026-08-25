@@ -50,6 +50,7 @@ gear:
     - cooking tools
     - serving dishes
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

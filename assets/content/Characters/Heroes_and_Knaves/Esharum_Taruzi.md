@@ -50,6 +50,7 @@ traits:
       - a long scar across his left jaw
       - lean and hard-bitten
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 16

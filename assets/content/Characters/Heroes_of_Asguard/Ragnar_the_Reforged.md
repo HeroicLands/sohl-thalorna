@@ -41,6 +41,7 @@ traits:
     complexion: battle_scarred
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: ymir
       type: affiliation

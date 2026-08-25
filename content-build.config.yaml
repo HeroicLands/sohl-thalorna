@@ -15,6 +15,11 @@ relationships:
           compatibility:
               minimum: "0.8.2"
               verified: "0.8.2"
+          # Its Item packs are this repository's item catalogue. A Thalorna
+          # being is nested items addressed by shortcode, and almost all of
+          # those belong to sohl; `content-build deps fetch` caches them, keyed
+          # by the `verified` version above so a build names one artifact.
+          itemCatalog: true
 
 stats:
     systemId: sohl
@@ -22,18 +27,15 @@ stats:
 
 itemBuilders: sohl
 
-# `actors` is deliberately absent, but no longer permanently so. A Thalorna
-# being is authored as nested items addressed by shortcode (`attribute:str`,
-# `skill:awar`), and almost all of those belong to the **`sohl` package**, which
-# this repository does not hold — so the pass has nothing to resolve against and
-# every embedded item fails.
+# Order is load-bearing: the actors pass resolves each being's embedded items
+# against the items pass's output, so items compile first. What it cannot find
+# locally comes from sohl's item catalogue, declared above (#6, #1441). Run
+# `content-build deps fetch` before compiling; a cold cache fails saying so.
 #
-# content-build#82 builds the way out: a declared relationship opting in with
-# `itemCatalog: true` has its release fetched and its Item packs extracted, and
-# the actors pass resolves against those exactly as it does a local pack. Once
-# that ships, re-enabling this is one pack entry plus that one flag, and nothing
-# else (#6, #1441). Order will be load-bearing when it returns — the actors pass
-# reads the items pass's output, so items must compile first.
+# This pass does not pass yet, deliberately. See the PR enabling it: sohl 0.8.2
+# is the newest release, and roughly a hundred addresses these beings name exist
+# only in sohl's unreleased main. Bumping `verified` once 0.9.0 is cut clears
+# them; what is left after that is authoring debt in this repository.
 packs:
     - { name: items, label: Items, type: Item, folders: item-folders.yaml }
     - {
@@ -42,6 +44,7 @@ packs:
           type: JournalEntry,
           folders: journal-folders.yaml,
       }
+    - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
 
 publish:
     site: true

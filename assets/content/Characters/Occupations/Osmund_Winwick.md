@@ -51,6 +51,7 @@ gear:
     - trade agreements
     - ledger for accounts
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

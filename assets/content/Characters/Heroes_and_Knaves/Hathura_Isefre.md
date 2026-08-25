@@ -49,6 +49,7 @@ traits:
       - Feather-of-Má'át scarification across the collarbones, concealed by vestments
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

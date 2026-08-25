@@ -20,6 +20,7 @@ portrait: images/being/dagmrwndrr-portrait.webp
 type: being
 package: thalorna
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

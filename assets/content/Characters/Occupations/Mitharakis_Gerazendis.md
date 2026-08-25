@@ -51,6 +51,7 @@ gear:
     - juggling balls
     - written routines
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

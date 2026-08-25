@@ -41,6 +41,7 @@ traits:
     complexion: sun_kissed
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: loki
       type: affiliation

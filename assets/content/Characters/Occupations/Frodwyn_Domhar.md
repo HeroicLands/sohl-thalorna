@@ -51,6 +51,7 @@ gear:
     - laboratory equipment
     - reference books
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

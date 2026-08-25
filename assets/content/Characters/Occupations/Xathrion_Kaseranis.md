@@ -50,6 +50,7 @@ gear:
     - research notes
     - herbal remedies
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

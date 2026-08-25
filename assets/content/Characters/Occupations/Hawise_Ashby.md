@@ -51,6 +51,7 @@ gear:
     - training equipment
     - herbal remedies
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

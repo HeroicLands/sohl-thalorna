@@ -50,6 +50,7 @@ traits:
       - massive hands
       - carries a heavy battleaxe he calls 'Vára'
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 16

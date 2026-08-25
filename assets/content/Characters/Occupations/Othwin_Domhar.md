@@ -52,6 +52,7 @@ gear:
     - dried meat
     - flint
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

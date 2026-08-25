@@ -52,6 +52,7 @@ gear:
     - scrolls of written songs
     - journal
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

@@ -51,6 +51,7 @@ gear:
     - lantern
     - geological maps
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

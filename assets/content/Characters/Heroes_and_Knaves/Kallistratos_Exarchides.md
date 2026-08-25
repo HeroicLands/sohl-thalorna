@@ -45,6 +45,7 @@ traits:
       - Faint burn scarring across both palms and the backs of the hands from years of Pyréthos practice
       - A thin scar along the left jawline from a Quaesitorium field operation
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

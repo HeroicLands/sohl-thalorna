@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a snake on the chest
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

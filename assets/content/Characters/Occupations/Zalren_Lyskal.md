@@ -52,6 +52,7 @@ gear:
     - wood glue
     - planing tools
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

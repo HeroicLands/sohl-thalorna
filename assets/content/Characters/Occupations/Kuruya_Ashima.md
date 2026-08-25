@@ -52,6 +52,7 @@ gear:
     - metal files
     - decorative gemstones
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

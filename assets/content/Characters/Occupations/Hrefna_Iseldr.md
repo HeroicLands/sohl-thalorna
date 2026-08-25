@@ -51,6 +51,7 @@ gear:
     - rope
     - wooden mallet
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 14

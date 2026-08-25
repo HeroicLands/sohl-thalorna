@@ -52,6 +52,7 @@ gear:
     - hunting knife
     - map of the territory
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

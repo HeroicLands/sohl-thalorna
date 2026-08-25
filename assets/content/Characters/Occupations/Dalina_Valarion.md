@@ -51,6 +51,7 @@ gear:
     - navigation tools
     - maps
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

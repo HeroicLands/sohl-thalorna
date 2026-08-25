@@ -51,6 +51,7 @@ gear:
     - map collection
     - letters of introduction
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

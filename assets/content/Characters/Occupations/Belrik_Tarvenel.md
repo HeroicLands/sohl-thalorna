@@ -56,6 +56,7 @@ gear:
     - wtrskin:1
     - Bandg:3
 sohl:
+  archetype: null
   attributes:
     agl: 11
     aur: 12

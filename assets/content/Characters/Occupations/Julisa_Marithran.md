@@ -51,6 +51,7 @@ gear:
     - herbal remedies
     - ledger for tracking guests
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 15

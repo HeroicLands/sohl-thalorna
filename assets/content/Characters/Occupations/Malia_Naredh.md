@@ -51,6 +51,7 @@ gear:
     - herbal remedies
     - wool shears
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

@@ -52,6 +52,7 @@ gear:
     - family signet ring
     - writing quill
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

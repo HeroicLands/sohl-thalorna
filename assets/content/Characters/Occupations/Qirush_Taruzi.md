@@ -52,6 +52,7 @@ gear:
     - dye
     - and stitching materials
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

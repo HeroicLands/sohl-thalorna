@@ -51,6 +51,7 @@ gear:
     - ledger
     - wax seal
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 10

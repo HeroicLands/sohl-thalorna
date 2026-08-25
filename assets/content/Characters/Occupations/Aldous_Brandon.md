@@ -50,6 +50,7 @@ gear:
     - fire starter
     - various types of wood
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

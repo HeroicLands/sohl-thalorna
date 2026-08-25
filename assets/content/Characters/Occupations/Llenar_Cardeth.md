@@ -52,6 +52,7 @@ gear:
     - trained dog
     - bait
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

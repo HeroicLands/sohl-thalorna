@@ -52,6 +52,7 @@ gear:
     - navigation tools
     - ship's log
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

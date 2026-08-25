@@ -42,6 +42,7 @@ traits:
     complexion: fair
     extra_features: []
 sohl:
+  archetype: null
   items:
     - shortcode: tyr
       type: affiliation

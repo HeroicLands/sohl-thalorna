@@ -51,6 +51,7 @@ gear:
     - blending tools
     - herb garden for ingredients
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

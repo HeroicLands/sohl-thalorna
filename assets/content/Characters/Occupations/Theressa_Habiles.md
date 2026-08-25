@@ -50,6 +50,7 @@ gear:
     - Basic hygiene items
     - small gifts for her children
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

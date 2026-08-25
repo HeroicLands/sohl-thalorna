@@ -47,6 +47,7 @@ traits:
       - Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

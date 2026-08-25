@@ -50,6 +50,7 @@ gear:
     - perfume
     - musical instruments
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

@@ -51,6 +51,7 @@ gear:
     - rope
     - sapling seeds for replanting
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 15

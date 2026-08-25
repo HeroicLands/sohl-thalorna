@@ -52,6 +52,7 @@ gear:
     - war horn
     - field guide to tactics
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 16

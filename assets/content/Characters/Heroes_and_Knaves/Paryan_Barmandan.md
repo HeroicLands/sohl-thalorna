@@ -45,6 +45,7 @@ traits:
     complexion: ""
     extra_features: []
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

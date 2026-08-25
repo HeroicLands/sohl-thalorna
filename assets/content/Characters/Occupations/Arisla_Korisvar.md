@@ -51,6 +51,7 @@ gear:
     - family seal
     - silver writing pen
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

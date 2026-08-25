@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a compass on the chest
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 14

@@ -46,6 +46,7 @@ traits:
     extra_features:
       - a tattoo of a bear on the left arm
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

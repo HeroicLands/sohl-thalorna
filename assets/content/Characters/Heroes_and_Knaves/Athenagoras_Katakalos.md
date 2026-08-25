@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a rose vine on the leg
 sohl:
+  archetype: null
   attributes:
     str: 15
     end: 14

@@ -51,6 +51,7 @@ gear:
     - rope
     - small trap
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

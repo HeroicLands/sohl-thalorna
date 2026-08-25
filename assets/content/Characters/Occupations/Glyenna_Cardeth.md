@@ -56,6 +56,7 @@ gear:
     - signet ring of House Cárdeth
     - small vial of perfume concealing consecrated ash
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

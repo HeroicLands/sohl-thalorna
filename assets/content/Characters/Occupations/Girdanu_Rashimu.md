@@ -52,6 +52,7 @@ gear:
     - wpnsup
     - heavy gloves
 sohl:
+  archetype: null
   attributes:
     str: 17
     end: 16

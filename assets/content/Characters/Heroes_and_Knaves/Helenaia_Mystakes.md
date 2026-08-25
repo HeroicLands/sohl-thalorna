@@ -49,6 +49,7 @@ traits:
     extra_features:
       - a scar running down the right leg
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

@@ -49,6 +49,7 @@ traits:
     extra_features:
       - Deep ragged scar diagonally across left cheek
 sohl:
+  archetype: null
   attributes:
     str: 17
     end: 15

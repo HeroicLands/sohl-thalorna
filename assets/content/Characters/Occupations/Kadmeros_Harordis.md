@@ -51,6 +51,7 @@ gear:
     - wood polish
     - various types of wood
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 13

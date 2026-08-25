@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of a spider on the shoulder
 sohl:
+  archetype: null
   attributes:
     str: 12
     end: 12

@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a tattoo of an eagle on the back
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 13

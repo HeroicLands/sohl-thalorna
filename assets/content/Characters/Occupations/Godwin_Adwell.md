@@ -50,6 +50,7 @@ gear:
     - shearing tools
     - cured meats for long trips
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

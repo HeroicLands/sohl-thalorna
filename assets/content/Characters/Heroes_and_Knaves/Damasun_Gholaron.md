@@ -50,6 +50,7 @@ traits:
       - close-cropped grey-streaked hair
       - an air of quiet authority that belies his humble dress
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

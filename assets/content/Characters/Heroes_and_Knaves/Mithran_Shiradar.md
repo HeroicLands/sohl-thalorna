@@ -46,6 +46,7 @@ traits:
     extra_features:
       - a scar from forehead to cheek across the left eye
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

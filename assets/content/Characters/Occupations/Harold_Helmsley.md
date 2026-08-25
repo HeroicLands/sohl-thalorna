@@ -50,6 +50,7 @@ gear:
     - harnesses
     - animal feed
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

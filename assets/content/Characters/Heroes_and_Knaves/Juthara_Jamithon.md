@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar running across the stomach
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

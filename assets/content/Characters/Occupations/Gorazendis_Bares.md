@@ -52,6 +52,7 @@ gear:
     - sketches of lock designs
     - hidden compartments
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

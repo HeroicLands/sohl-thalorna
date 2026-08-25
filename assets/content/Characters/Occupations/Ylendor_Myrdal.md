@@ -51,6 +51,7 @@ gear:
     - star charts
     - telescope
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 10

@@ -50,6 +50,7 @@ gear:
     - fabric dyes
     - small loom
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 13

@@ -49,6 +49,7 @@ gear:
     - charcoal pencils
     - watercolors
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 12

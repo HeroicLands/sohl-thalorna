@@ -51,6 +51,7 @@ gear:
     - books
     - calligraphy set
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

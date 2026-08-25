@@ -51,6 +51,7 @@ gear:
     - throwing knives
     - field medical kit
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

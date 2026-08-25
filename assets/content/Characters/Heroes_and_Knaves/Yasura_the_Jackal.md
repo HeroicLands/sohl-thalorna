@@ -50,6 +50,7 @@ traits:
     extra_features:
       - A long scar from brow to jaw on the left side
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 14

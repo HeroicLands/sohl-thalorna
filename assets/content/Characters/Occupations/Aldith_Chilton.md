@@ -50,6 +50,7 @@ gear:
     - decorative fan
     - sacred texts
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

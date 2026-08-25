@@ -51,6 +51,7 @@ gear:
     - writing materials
     - case notes
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 12

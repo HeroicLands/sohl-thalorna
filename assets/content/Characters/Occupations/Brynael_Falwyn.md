@@ -50,6 +50,7 @@ gear:
     - plant-based dyes
     - straw for stuffing
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

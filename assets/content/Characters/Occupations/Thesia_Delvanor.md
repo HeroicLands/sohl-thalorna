@@ -51,6 +51,7 @@ gear:
     - survival gear
     - personal effects
 sohl:
+  archetype: null
   attributes:
     str: 14
     end: 15

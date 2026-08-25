@@ -48,6 +48,7 @@ traits:
       - sharp pointed features
       - moves with coiled restless energy
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

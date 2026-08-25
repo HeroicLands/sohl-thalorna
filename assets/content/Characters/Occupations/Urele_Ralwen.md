@@ -50,6 +50,7 @@ gear:
     - blending tools
     - eco-friendly packaging
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 11

@@ -50,6 +50,7 @@ gear:
     - scented herbs
     - various molds
 sohl:
+  archetype: null
   attributes:
     str: 8
     end: 11

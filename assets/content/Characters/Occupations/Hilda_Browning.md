@@ -51,6 +51,7 @@ gear:
     - secret communication tools
     - various disguises
 sohl:
+  archetype: null
   attributes:
     str: 10
     end: 12

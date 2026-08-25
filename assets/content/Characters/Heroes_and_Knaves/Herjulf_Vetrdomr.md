@@ -48,6 +48,7 @@ traits:
     extra_features:
       - a scar along the jawline
 sohl:
+  archetype: null
   attributes:
     str: 16
     end: 15

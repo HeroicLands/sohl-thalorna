@@ -51,6 +51,7 @@ gear:
     - bone charms
     - healing poultices
 sohl:
+  archetype: null
   attributes:
     str: 9
     end: 10

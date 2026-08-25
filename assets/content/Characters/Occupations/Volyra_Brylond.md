@@ -51,6 +51,7 @@ gear:
     - twine
     - wooden ladder
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 13

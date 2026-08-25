@@ -52,6 +52,7 @@ gear:
     - knife
     - water skin
 sohl:
+  archetype: null
   attributes:
     str: 13
     end: 13

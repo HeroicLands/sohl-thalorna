@@ -51,6 +51,7 @@ gear:
     - household keys
     - aprons
 sohl:
+  archetype: null
   attributes:
     str: 11
     end: 14
