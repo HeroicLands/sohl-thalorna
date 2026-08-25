@@ -22,12 +22,18 @@ stats:
 
 itemBuilders: sohl
 
-# `actors` is deliberately absent. A Thalorna being is authored as nested items
-# addressed by shortcode (`attribute:str`, `skill:awar`), and almost all of
-# those belong to the **`sohl` package**, which this repository does not hold.
-# Turning it on needs that package's compiled items available as a build-time
-# catalog; at that point re-enabling it is this list and nothing else
-# (#6, #1441).
+# `actors` is deliberately absent, but no longer permanently so. A Thalorna
+# being is authored as nested items addressed by shortcode (`attribute:str`,
+# `skill:awar`), and almost all of those belong to the **`sohl` package**, which
+# this repository does not hold — so the pass has nothing to resolve against and
+# every embedded item fails.
+#
+# content-build#82 builds the way out: a declared relationship opting in with
+# `itemCatalog: true` has its release fetched and its Item packs extracted, and
+# the actors pass resolves against those exactly as it does a local pack. Once
+# that ships, re-enabling this is one pack entry plus that one flag, and nothing
+# else (#6, #1441). Order will be load-bearing when it returns — the actors pass
+# reads the items pass's output, so items must compile first.
 packs:
     - { name: items, label: Items, type: Item, folders: item-folders.yaml }
     - {
