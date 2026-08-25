@@ -7,7 +7,7 @@ category: settlement
 settlementType: "River Town (Grain Port)"
 population: 25000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

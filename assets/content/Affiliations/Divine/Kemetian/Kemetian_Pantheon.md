@@ -39,20 +39,20 @@ The central eschatological doctrine is the **Weighing of the Heart**: after deat
 
 ## The Twelve
 
-| Domain              | Deity       | Epithet                       | Symbol                                      | Faith                  |
-| ------------------- | ----------- | ----------------------------- | ------------------------------------------- | ---------------------- |
-| Dreams              | **Bēs**     | Guardian of Night Visions     | {{< glyph slug="bes" frame="tablet" >}}     | [[affiliation-bes\|Faith of Bes]]     |
-| Death               | **Sēker**   | Lord of Silent Passage        | {{< glyph slug="seker" frame="tablet" >}}   | [[affiliation-seker\|Faith of Seker]]   |
-| Storms              | **Sét**     | Bringer of Tempests           | {{< glyph slug="set" frame="tablet" >}}     | [[affiliation-set\|Faith of Set]]     |
-| Order               | **Má'át**   | Keeper of Truth and Harmony   | {{< glyph slug="maat" frame="tablet" >}}    | [[affiliation-maat\|Faith of Maat]]    |
-| Knowledge           | **Thōth**   | Scribe of the Eternal Library | {{< glyph slug="thoth" frame="tablet" >}}   | [[affiliation-thoth\|Faith of Thoth]]   |
-| Prosperity          | **Hâpi**    | The Golden Reveler            | {{< glyph slug="hapi" frame="tablet" >}}    | [[affiliation-hapi\|Faith of Hapi]]    |
-| Fertility & Healing | **Íšét**    | Mother of New Beginnings      | {{< glyph slug="iset" frame="tablet" >}}    | [[affiliation-iset\|Faith of Iset]]    |
-| Fire                | **Rā**      | The Solar Flame               | {{< glyph slug="ra" frame="tablet" >}}      | [[affiliation-ra\|Faith of Ra]]      |
-| Creation            | **Ptā'h**   | Shaper of the Eternal World   | {{< glyph slug="ptah" frame="tablet" >}}    | [[affiliation-ptah\|Faith of Ptah]]    |
+| Domain              | Deity       | Epithet                       | Symbol                                      | Faith                                     |
+| ------------------- | ----------- | ----------------------------- | ------------------------------------------- | ----------------------------------------- |
+| Dreams              | **Bēs**     | Guardian of Night Visions     | {{< glyph slug="bes" frame="tablet" >}}     | [[affiliation-bes\|Faith of Bes]]         |
+| Death               | **Sēker**   | Lord of Silent Passage        | {{< glyph slug="seker" frame="tablet" >}}   | [[affiliation-seker\|Faith of Seker]]     |
+| Storms              | **Sét**     | Bringer of Tempests           | {{< glyph slug="set" frame="tablet" >}}     | [[affiliation-set\|Faith of Set]]         |
+| Order               | **Má'át**   | Keeper of Truth and Harmony   | {{< glyph slug="maat" frame="tablet" >}}    | [[affiliation-maat\|Faith of Maat]]       |
+| Knowledge           | **Thōth**   | Scribe of the Eternal Library | {{< glyph slug="thoth" frame="tablet" >}}   | [[affiliation-thoth\|Faith of Thoth]]     |
+| Prosperity          | **Hâpi**    | The Golden Reveler            | {{< glyph slug="hapi" frame="tablet" >}}    | [[affiliation-hapi\|Faith of Hapi]]       |
+| Fertility & Healing | **Íšét**    | Mother of New Beginnings      | {{< glyph slug="iset" frame="tablet" >}}    | [[affiliation-iset\|Faith of Iset]]       |
+| Fire                | **Rā**      | The Solar Flame               | {{< glyph slug="ra" frame="tablet" >}}      | [[affiliation-ra\|Faith of Ra]]           |
+| Creation            | **Ptā'h**   | Shaper of the Eternal World   | {{< glyph slug="ptah" frame="tablet" >}}    | [[affiliation-ptah\|Faith of Ptah]]       |
 | Chaos               | **Ápōphis** | The Devouring Shadow          | {{< glyph slug="apophis" frame="tablet" >}} | [[affiliation-apophis\|Faith of Apophis]] |
-| Voyages             | **Hórús**   | The Guiding Falcon            | {{< glyph slug="horus" frame="tablet" >}}   | [[affiliation-horus\|Faith of Horus]]   |
-| Decay               | **Ánubís**  | The Keeper of Transitions     | {{< glyph slug="anubis" frame="tablet" >}}  | [[affiliation-anubis\|Faith of Anubis]]  |
+| Voyages             | **Hórús**   | The Guiding Falcon            | {{< glyph slug="horus" frame="tablet" >}}   | [[affiliation-horus\|Faith of Horus]]     |
+| Decay               | **Ánubís**  | The Keeper of Transitions     | {{< glyph slug="anubis" frame="tablet" >}}  | [[affiliation-anubis\|Faith of Anubis]]   |
 
 ## Temple Hierarchy
 
@@ -74,4 +74,4 @@ This theological framework gives the Kemetían faith a coherence that impressed 
 
 - [[doc-empirtkhpr|Empire of Ta'Kheperu]] — The civilization
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
-- [[doc-kheperlngg|Kheperi]] — Naming conventions
+- [[skill-kheperlng|Kheperi]] — Naming conventions

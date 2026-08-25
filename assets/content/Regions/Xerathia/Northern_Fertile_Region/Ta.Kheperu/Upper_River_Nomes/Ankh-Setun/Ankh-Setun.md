@@ -8,7 +8,7 @@ category: settlement
 settlementType: "City (Granary Capital)"
 population: 80000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

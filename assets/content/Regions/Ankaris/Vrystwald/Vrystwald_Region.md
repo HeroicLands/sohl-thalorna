@@ -18,7 +18,7 @@ terran_analog: "European Russia — the vast taiga, mixed forest, and great rive
 peoples:
   - human
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 folder: mCG1TPvjwrV23csZ
@@ -84,6 +84,6 @@ Of the [[doc-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylaria is hun
 - [[doc-velanthrgn|Velanthia Region]] — southern neighbor and most permeable frontier
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — eastern frontier across the mountain passes
 - [[doc-vylarinmpr|Vylarian Empire]] — distant southwestern imperial power, source of the southwestern ruins
-- [[doc-varokhlngg|Varokhi]] — naming conventions
+- [[skill-varokhlng|Varokhi]] — naming conventions
 - [[affiliation-asguardian|Asguardian Pantheon]] — pantheon
 - [[doc-ankrscntnnt|Ankaris Continent]] — parent continent

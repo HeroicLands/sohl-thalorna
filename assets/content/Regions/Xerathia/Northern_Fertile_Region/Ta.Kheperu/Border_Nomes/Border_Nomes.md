@@ -18,7 +18,7 @@ government:
   type: nome-group
   summary: A class of ten frontier nomes, each under a hereditary Haty'a functioning as a military governor; the empire's marches against steppe, desert, and the southern tribes.
 languages:
-  - kheperlngg
+  - kheperlng
 population: "~2,500,000"
 pantheons:
   - kemtnpnthn
@@ -60,18 +60,18 @@ Mining, herding, garrison-supply, and the caravan trade drive the border economy
 
 Ten nomes make up the border class, each under its hereditary [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] in their capacity as military governor. Two are treated at length in their own notes; the remaining eight are rostered here.
 
-| Nome                 | Seat                | Patron                   | Population | Character                                                                       |
-| -------------------- | ------------------- | ------------------------ | ---------- | ------------------------------------------------------------------------------- |
-| \*\*[[doc-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[doc-bakhu\|Bakhu]]    | [[affiliation-kemtnpnthn\|Ptā'h]]                                                                       | ~350,000                                                                                 | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
-| \*\*[[doc-nometarshk\|Ta-Resu-Heka]]\*\*  | [[doc-behen\|Behen]]    | Mentu (war-god)                                                                 | ~320,000                                                                      | The great southern march; the cataract fortress-line and the gateway to the tribal lands |
-| Khent-Hen-Nefer      | Khent-Hen           | Mentu                    | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings |
-| Wawat                | Wawat               | [[affiliation-kemtnpnthn\|Ptā'h]]    | ~260,000                                                                        | The southern gold-road; mines, caravan-stations, and tribute-collection       |
-| Per-Mentu            | Per-Mentu           | Mentu                    | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools       |
-| Ta-Mentu             | Sile                | [[affiliation-kemtnpnthn\|Rā]]       | ~220,000                                                                        | The western steppe-edge; horse-pasture and the watch against nomad raiders    |
-| Khaset-Imnt          | Khaset              | [[affiliation-kemtnpnthn\|Rā]]       | ~220,000                                                                        | The far western desert march; oasis-forts and the watch over the trade-tracks |
-| Iabet-Heqa           | Iabet-Heqa          | Sobek (crocodile-god)    | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome           |
-| Senmut               | Senmut              | [[affiliation-kemtnpnthn\|Sēker]]    | ~200,000                                                                        | A river-island fortress-nome at the second cataract; gateway and toll-gate    |
-| Behdet-Resu          | Behdet              | Mentu                    | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier    |
+| Nome                                      | Seat                 | Patron                            | Population | Character                                                                                       |
+| ----------------------------------------- | -------------------- | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
+| \*\*[[doc-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[doc-bakhu\|Bakhu]] | [[affiliation-kemtnpnthn\|Ptā'h]] | ~350,000   | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
+| \*\*[[doc-nometarshk\|Ta-Resu-Heka]]\*\*  | [[doc-behen\|Behen]] | Mentu (war-god)                   | ~320,000   | The great southern march; the cataract fortress-line and the gateway to the tribal lands        |
+| Khent-Hen-Nefer                           | Khent-Hen            | Mentu                             | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings                 |
+| Wawat                                     | Wawat                | [[affiliation-kemtnpnthn\|Ptā'h]] | ~260,000   | The southern gold-road; mines, caravan-stations, and tribute-collection                         |
+| Per-Mentu                                 | Per-Mentu            | Mentu                             | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools                       |
+| Ta-Mentu                                  | Sile                 | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The western steppe-edge; horse-pasture and the watch against nomad raiders                      |
+| Khaset-Imnt                               | Khaset               | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
+| Iabet-Heqa                                | Iabet-Heqa           | Sobek (crocodile-god)             | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome                           |
+| Senmut                                    | Senmut               | [[affiliation-kemtnpnthn\|Sēker]] | ~200,000   | A river-island fortress-nome at the second cataract; gateway and toll-gate                      |
+| Behdet-Resu                               | Behdet               | Mentu                             | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
 Border subtotal: **~2,500,000**.
 
@@ -88,4 +88,4 @@ The Border Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and the 
 - [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
 - [[doc-deltanomes|The Delta Nomes]], [[doc-uperivrnms|The Upper River Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
 - [[affiliation-malldbndlg|Free Companies Compact]] — Chartered mercenaries who take frontier contracts
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[doc-kheperlngg|Kheperi]] — Naming
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlng|Kheperi]] — Naming

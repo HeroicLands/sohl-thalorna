@@ -24,7 +24,7 @@ The Pelwar no longer exist as a unified people. The name survives primarily as a
 
 ## Proto-Pelwar
 
-**Proto-Pelwar** is the reconstructed ancestral tongue of the Pelwar family — the language that the earliest Pelwar migrants spoke before their descendants dispersed across Ankaris and began their slow linguistic divergence. No Proto-Pelwar texts survive, and indeed Proto-Pelwar was spoken long before any of its descendant peoples developed writing. What scholars and loremasters know about Proto-Pelwar is reconstructed through the comparative study of its surviving descendants — particularly [[doc-elvndrlngg|Áelendi]], which is the most conservative member of the family and preserves features the other languages have lost.
+**Proto-Pelwar** is the reconstructed ancestral tongue of the Pelwar family — the language that the earliest Pelwar migrants spoke before their descendants dispersed across Ankaris and began their slow linguistic divergence. No Proto-Pelwar texts survive, and indeed Proto-Pelwar was spoken long before any of its descendant peoples developed writing. What scholars and loremasters know about Proto-Pelwar is reconstructed through the comparative study of its surviving descendants — particularly [[skill-elvndrlng|Áelendi]], which is the most conservative member of the family and preserves features the other languages have lost.
 
 The Áelendan of [[doc-elavendre|Élavendre]] claim — and with considerable justification — that their language, their songs, and their sacred traditions are the closest surviving echo of the Proto-Pelwar culture. The Covenant they uphold, by their understanding, traces back to the earliest Pelwar settlement of western Ankaris, when their forebears entered into sacred agreement with the land itself.
 
@@ -32,8 +32,8 @@ The Áelendan of [[doc-elavendre|Élavendre]] claim — and with considerable ju
 
 The languages of Pelwar descent share deep structural commonalities and a significant core vocabulary, though centuries of divergence have made most of them mutually unintelligible without study. Speakers of one Pelwar language can sometimes catch fragments of another. The principal surviving Pelwar languages are:
 
-- **[[doc-elvndrlngg|Áelendi]]** — Spoken by the [[doc-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
-- **[[doc-elvndrlngg|Élavendri]]** — The modern language of [[doc-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
+- **[[skill-elvndrlng|Áelendi]]** — Spoken by the [[doc-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
+- **[[skill-elvndrlng|Élavendri]]** — The modern language of [[doc-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
 - **Vylari** — The language of the [[doc-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
 - **Nordmal** — The tongue of the northern Normen kingdoms.
 - **Varokhi** — Spoken by the Varokh tribes of [[doc-vrystwald|Vrystwald]], closely related to Nordmal but diverged significantly.
@@ -55,7 +55,7 @@ The Varokh of Vrystwald share Pelwar ancestry with both the Normen of the north 
 
 ## See Also
 
-- [[doc-elvndrlngg|Élavendri Language]] — The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
+- [[skill-elvndrlng|Élavendri Language]] — The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
 - [[doc-aelendnppl|Áelendan]] — The most conservative Pelwar descendants
 - [[doc-elavendre|Élavendre]] — Region where Pelwar heritage is most consciously preserved
 - [[doc-vrystwald|Vrystwald]] — The forest kingdoms of the Varokh tribes

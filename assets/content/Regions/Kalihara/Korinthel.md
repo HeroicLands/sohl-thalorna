@@ -7,8 +7,8 @@ category: settlement
 settlementType: "Trading Port"
 population: null
 languages:
-  - valtarlngg
-  - kalihrlngg
+  - valtarlng
+  - kalihrlng
 pantheons:
   - arldnpnthn
 package: thalorna

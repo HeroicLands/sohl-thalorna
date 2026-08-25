@@ -18,7 +18,7 @@ parent:
   polities:
     - khzrncnfdrtn
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 folder: PbQ9B1r6hEaJvyco
@@ -33,5 +33,5 @@ The settlement's character is pragmatic rather than grand. There is no great tem
 ## See Also
 
 - [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
-- [[doc-dunharlngg|Dunhari]] — Naming tradition
+- [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Timber Town"
 population: 3000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

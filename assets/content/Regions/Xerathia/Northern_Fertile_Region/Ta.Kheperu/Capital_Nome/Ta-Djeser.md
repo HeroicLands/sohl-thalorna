@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Necropolis City"
 population: 40000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

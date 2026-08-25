@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Forest Town"
 population: 2500
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

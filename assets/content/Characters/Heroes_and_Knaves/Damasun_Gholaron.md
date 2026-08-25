@@ -612,15 +612,15 @@ sohl:
       system:
         masteryLevelBase: 36
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 59
-    - shortcode: Rune
-      type: skill
+    - shortcode: runecft
+      type: mysticalability
       system:
         masteryLevelBase: 53
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 37
     - shortcode: trak
@@ -643,8 +643,8 @@ sohl:
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:

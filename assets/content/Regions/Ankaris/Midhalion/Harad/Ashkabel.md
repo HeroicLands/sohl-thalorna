@@ -23,7 +23,7 @@ parent:
   polities:
     - cnfdrtnhrdnstts
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
 peoples:

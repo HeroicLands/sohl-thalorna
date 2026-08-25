@@ -7,7 +7,7 @@ category: settlement
 settlementType: "City (Port)"
 population: 120000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

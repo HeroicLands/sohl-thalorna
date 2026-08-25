@@ -24,7 +24,7 @@ parent:
   regions:
     - okharisrgn
 languages:
-  - okharclngg
+  - okharclng
 pantheons:
   - nkaruthar
 peoples:

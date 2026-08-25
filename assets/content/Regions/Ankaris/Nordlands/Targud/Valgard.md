@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Town"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

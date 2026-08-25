@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Temple-Estate Town"
 population: 30000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

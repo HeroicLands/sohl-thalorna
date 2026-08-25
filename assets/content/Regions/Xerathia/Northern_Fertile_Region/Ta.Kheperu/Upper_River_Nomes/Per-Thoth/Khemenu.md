@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Temple City (Scribal)"
 population: 85000
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

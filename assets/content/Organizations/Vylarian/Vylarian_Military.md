@@ -256,15 +256,15 @@ The Imaginar is a politically loaded posting. Insults to the Imaginar are insult
 
 Per-legion specialist staff:
 
-| Vylarian Term | Role                                                                                                                |
+| Vylarian Term | Role |
 | ------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| **Cornar**    | Signal-horn player; relays orders by horn-call within a Centaria                                                    |
-| **Tubar**     | Trumpeter; legion-wide command signals                                                                              |
-| **Architar**  | Field engineer; siege works, road construction, encampment design                                                   |
-| **Fabricar**  | Armorer / smith                                                                                                     |
-| **Medicar**   | Field surgeon (typically several per legion, including assistants)                                                  |
-| **Scribar**   | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld                                              | Imperial Scribal Guild]]-trained) |
-| **Augurar**   | Diviner/chaplain — reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Ordo Arcanis]]                    |
+| **Cornar** | Signal-horn player; relays orders by horn-call within a Centaria |
+| **Tubar** | Trumpeter; legion-wide command signals |
+| **Architar** | Field engineer; siege works, road construction, encampment design |
+| **Fabricar** | Armorer / smith |
+| **Medicar** | Field surgeon (typically several per legion, including assistants) |
+| **Scribar** | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld                                              | Imperial Scribal Guild]]-trained) |
+| **Augurar** | Diviner/chaplain — reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Ordo Arcanis]] |
 
 ## Cavalry, Auxiliaries, and Naval
 

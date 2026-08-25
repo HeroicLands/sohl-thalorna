@@ -32,7 +32,7 @@ folder: Y64e5NGsp8OwZ6xQ
 
 The [[doc-mtrrchybth|Matriarchy of Bethûa]] is governed by a structure the Bethûans call **the Two Pillars** (_ta dýo stélai_): a **sacred pillar** of consecrated priestesses and a **secular pillar** of clan-matriarchs, joined at the summit by a single sovereign who is at once Queen and High Priestess — **the Mêtríssa**. Power in Bethûa is held entirely by women; men lead in craft, commerce, agriculture, and the household, but the throne, the temple, the council bench, and the command of armies belong to women alone.
 
-The shape of the state is a product of Bethûan history. The realm began as a **Helonic colonial foundation** — a daughter-settlement of the Helonic seafaring peoples, planted on the southern Vylarian coast and long governed from across the sea. Its native matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[doc-bethunlngg|Helonic-descended tongue]] all date to this deep colonial past. Independence came only **comparatively recently**, in a war of separation from the Helonic metropole that Bethûa could not have won alone — and did not. It won with the backing of [[doc-empirtkhpr|Ta'Kheperu]], whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[doc-cnfdrtnhrdnstts|Harad]]. The price of that midwifery is written across the modern state: Bethûa keeps the **Aurèldían faith and the Helonic title-core of its sacred and clan institutions**, but its newer machinery — its treasury, its great water-engineering corps, the vocabulary of its court accounts — was built on **Kheperi models**, and bears Kheperi names to this day. The deep structure of Bethûa is Helonic and feminine; the liberation-era veneer is Kheperi.
+The shape of the state is a product of Bethûan history. The realm began as a **Helonic colonial foundation** — a daughter-settlement of the Helonic seafaring peoples, planted on the southern Vylarian coast and long governed from across the sea. Its native matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[skill-bethunlng|Helonic-descended tongue]] all date to this deep colonial past. Independence came only **comparatively recently**, in a war of separation from the Helonic metropole that Bethûa could not have won alone — and did not. It won with the backing of [[doc-empirtkhpr|Ta'Kheperu]], whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[doc-cnfdrtnhrdnstts|Harad]]. The price of that midwifery is written across the modern state: Bethûa keeps the **Aurèldían faith and the Helonic title-core of its sacred and clan institutions**, but its newer machinery — its treasury, its great water-engineering corps, the vocabulary of its court accounts — was built on **Kheperi models**, and bears Kheperi names to this day. The deep structure of Bethûa is Helonic and feminine; the liberation-era veneer is Kheperi.
 
 ## The Sovereign: the Mêtríssa
 
@@ -148,22 +148,22 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 
 ## Collective Bodies
 
-| Body                        | Bethûan      | Composition                                       | Function                                                            |
-| --------------------------- | ------------ | ------------------------------------------------- | ------------------------------------------------------------------- |
-| **The Sacred College**      | _Hieróssa_   | The Hiérissai of the three orders & great temples | Spiritual authority; high religious court; **elects the Mêtríssa**  |
-| **The Council of Houses**   | _Sünédra_    | The Dómissai of the recognised clans              | Secular legislature & high court; law, tax, levy                    |
+| Body                        | Bethûan      | Composition                                       | Function                                                                                     |
+| --------------------------- | ------------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **The Sacred College**      | _Hieróssa_   | The Hiérissai of the three orders & great temples | Spiritual authority; high religious court; **elects the Mêtríssa**                           |
+| **The Council of Houses**   | _Sünédra_    | The Dómissai of the recognised clans              | Secular legislature & high court; law, tax, levy                                             |
 | **Council of Matriarchs**   | —            | The _An'Bet_ (Great Trade-House matriarchs)       | Commercial federation (de facto power; see [[affiliation-bthntrdhss\|Bethuan Trade Houses]]) |
-| **The Order of the Waters** | _Qanatíssai_ | Engineer-priestesses, under the Imet-Mû           | Aqueducts, qanats, cisterns, canals                                 |
-| **The Spear-Sisterhood**    | _Lonkhai_    | The female warrior class, under the Stratégissa   | The army's backbone; trained in arms and the _Charíssa_             |
-| **The Eunuch-Warriors**     | _Spádai_     | Sworn gelded men under the Stratégissa            | Elite corps; the only armed men in Bethûa                           |
-| **The Fleet**               | —            | War-galleys under the Naukrátissa                 | The realm's renowned navy; contests Vylaria on the Vylarian Sea     |
+| **The Order of the Waters** | _Qanatíssai_ | Engineer-priestesses, under the Imet-Mû           | Aqueducts, qanats, cisterns, canals                                                          |
+| **The Spear-Sisterhood**    | _Lonkhai_    | The female warrior class, under the Stratégissa   | The army's backbone; trained in arms and the _Charíssa_                                      |
+| **The Eunuch-Warriors**     | _Spádai_     | Sworn gelded men under the Stratégissa            | Elite corps; the only armed men in Bethûa                                                    |
+| **The Fleet**               | —            | War-galleys under the Naukrátissa                 | The realm's renowned navy; contests Vylaria on the Vylarian Sea                              |
 
 ## See Also
 
 - [[doc-mtrrchybth|Matriarchy of Bethûa]] — the realm
 - [[doc-bethuanflt|The Bethûan Fleet]] — the navy, the Naukrátissa's command, and the privateer war
 - [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] — the commercial federation and the third power
-- [[doc-bethunlngg|Bethuan Language]] — the feminine-register grammar from which the titles derive
+- [[skill-bethunlng|Bethuan Language]] — the feminine-register grammar from which the titles derive
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — the faith of the sacred pillar
 - [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — the patron-neighbour whose institutions shaped the liberation-era state
 - [[affiliation-perhati|Pér-Háti]] — the Kheperi temple-treasury on which Bethûa's fisc is modelled

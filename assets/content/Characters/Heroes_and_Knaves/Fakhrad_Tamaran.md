@@ -628,11 +628,11 @@ sohl:
       system:
         masteryLevelBase: 12
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 48
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 36
     - shortcode: Stf

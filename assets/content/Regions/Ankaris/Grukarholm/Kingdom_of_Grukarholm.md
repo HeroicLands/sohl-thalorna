@@ -24,7 +24,7 @@ parent:
   regions:
     - grkrhlmrgn
 languages:
-  - grukarlngg
+  - grukarlng
 peoples:
   - grukar
 folder: CNzTSOtYWZwLyp5k
@@ -62,5 +62,5 @@ Grukarhölm operates substantially on [[doc-bartercnmy|barter]] for its internal
 
 - [[doc-kngdmnrdhm|Kingdom of Nordheim]] — Western neighbors
 - [[doc-vrystwald|Vrystwald]] — Southern frontier
-- [[doc-grukarlngg|Grukar]] — Naming conventions
+- [[skill-grukarlng|Grukar]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

@@ -9,7 +9,7 @@ category: settlement
 settlementType: "Sacred Precinct (the inner city of Wasetkara)"
 population: null
 languages:
-  - kheperlngg
+  - kheperlng
 pantheons:
   - kemtnpnthn
 package: thalorna

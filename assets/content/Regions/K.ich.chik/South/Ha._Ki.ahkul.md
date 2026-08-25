@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Mining Town"
 population: null
 languages:
-  - kicheklngg
+  - kicheklng
 pantheons:
   - itzanpnthn
 package: thalorna

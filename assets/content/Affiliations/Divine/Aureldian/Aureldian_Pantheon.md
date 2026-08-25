@@ -34,19 +34,19 @@ The Aurèldían pantheon is the dominant religious tradition of western [[doc-an
 
 ## The Twelve
 
-| Domain     | Deity        | Epithet                     | Symbol                                             | Faith                    |
-| ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------ |
+| Domain     | Deity        | Epithet                     | Symbol                                             | Faith                                       |
+| ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------------------------- |
 | Dreams     | **Æthería**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-aetheria\|Faith of Æthería]]  |
 | Death      | **Thánatos** | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-thanatos\|Faith of Thánatos]] |
-| Storms     | **Táranon**  | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-taranon\|Faith of Táranon]]  |
-| Order      | **Jánus**    | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-janus\|Faith of Jánus]]    |
-| Knowledge  | **Ménérva**  | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-menerva\|Faith of Ménérva]]  |
-| Prosperity | **Vénusia**  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-venusia\|Faith of Vénusia]]  |
-| Fire       | **Vúlcan**   | The Forge-Lord              | Hammer over a flame-ringed anvil                   | _See below_              |
-| Creation   | **Lúsinía**  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia\|Faith of Lúsinía]]  |
+| Storms     | **Táranon**  | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-taranon\|Faith of Táranon]]   |
+| Order      | **Jánus**    | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-janus\|Faith of Jánus]]       |
+| Knowledge  | **Ménérva**  | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-menerva\|Faith of Ménérva]]   |
+| Prosperity | **Vénusia**  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-venusia\|Faith of Vénusia]]   |
+| Fire       | **Vúlcan**   | The Forge-Lord              | Hammer over a flame-ringed anvil                   | _See below_                                 |
+| Creation   | **Lúsinía**  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia\|Faith of Lúsinía]]   |
 | Chaos      | **Karnavos** | The Wild Beast              | Antlers framing a swirling spiral                  | [[affiliation-karnavos\|Faith of Karnavos]] |
-| Voyages    | **Múrkír**   | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-murkir\|Faith of Múrkír]]   |
-| Decay      | **Mórváná**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Mórváná]]  |
+| Voyages    | **Múrkír**   | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-murkir\|Faith of Múrkír]]     |
+| Decay      | **Mórváná**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Mórváná]]   |
 | Fertility  | **Flórania** | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-florania\|Faith of Flórania]] |
 
 ## The Vúlcani Schism

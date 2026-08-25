@@ -8,8 +8,8 @@ category: settlement
 settlementType: "Port Town"
 population: null
 languages:
-  - valtarlngg
-  - kalihrlngg
+  - valtarlng
+  - kalihrlng
 pantheons:
   - arldnpnthn
 package: thalorna

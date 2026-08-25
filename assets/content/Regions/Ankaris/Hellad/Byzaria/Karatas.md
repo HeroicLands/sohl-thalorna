@@ -19,7 +19,7 @@ government:
   type: city-state
   summary: Guild council and merchant-princes.
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 peoples:

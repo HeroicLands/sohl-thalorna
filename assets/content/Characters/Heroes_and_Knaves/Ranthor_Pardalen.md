@@ -608,7 +608,7 @@ sohl:
       system:
         masteryLevelBase: 24
     - shortcode: trnc
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 65
     - shortcode: Stf

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Fortified Village"
 population: null
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 package: thalorna

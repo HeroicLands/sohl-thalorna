@@ -649,8 +649,8 @@ sohl:
       type: armorgear
     - shortcode: PlHHelm
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:

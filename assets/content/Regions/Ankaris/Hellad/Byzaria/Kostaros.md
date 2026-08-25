@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Port Town"
 population: null
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 package: thalorna

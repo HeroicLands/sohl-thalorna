@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Provincial City"
 population: 15000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

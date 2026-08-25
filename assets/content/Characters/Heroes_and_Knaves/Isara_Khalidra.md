@@ -619,7 +619,7 @@ sohl:
       system:
         masteryLevelBase: 27
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 27
     - shortcode: txtl
@@ -628,12 +628,12 @@ sohl:
         masteryLevelBase: 44
     - shortcode: Dgr
       type: weapongear
-    - shortcode: SlRobe
+    - shortcode: SlkRobe
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:

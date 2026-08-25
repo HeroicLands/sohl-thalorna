@@ -607,8 +607,8 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 112
-    - shortcode: Rune
-      type: skill
+    - shortcode: runecft
+      type: mysticalability
       system:
         masteryLevelBase: 117
     - shortcode: txtl
@@ -616,15 +616,15 @@ sohl:
       system:
         masteryLevelBase: 56
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 44
     - shortcode: LRobe
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
 ---
 
 # Appearance {#appearance}

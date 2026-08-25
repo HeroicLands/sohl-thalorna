@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Remote Fjord Village"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Pass Town"
 population: 5000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

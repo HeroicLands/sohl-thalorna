@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Forest Town"
 population: null
 languages:
-  - elvndrlngg
+  - elvndrlng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -23,7 +23,7 @@ parent:
   regions:
     - tarvenirgn
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 peoples:

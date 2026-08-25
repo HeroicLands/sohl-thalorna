@@ -7,8 +7,8 @@ category: settlement
 settlementType: "Port Settlement"
 population: null
 languages:
-  - valtarlngg
-  - kalihrlngg
+  - valtarlng
+  - kalihrlng
 pantheons:
   - arldnpnthn
 package: thalorna
@@ -35,5 +35,5 @@ The population is diverse: native Kaliharan families, long-established Vedyaran 
 ## See Also
 
 - [[Kalihara Confederation]] — Regional overview
-- [[doc-valtarlngg|Valtári]] — Naming tradition
+- [[skill-valtarlng|Valtári]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

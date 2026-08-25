@@ -21,7 +21,7 @@ parent:
   regions:
     - byzariargn
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 peoples:

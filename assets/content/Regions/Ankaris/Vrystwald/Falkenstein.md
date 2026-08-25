@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Hill Fort"
 population: null
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 package: thalorna

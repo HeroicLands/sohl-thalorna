@@ -578,7 +578,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 55
-    - shortcode: shck
+    - shortcode: shok
       type: skill
       system:
         masteryLevelBase: 80
@@ -586,7 +586,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 70
-    - shortcode: dodg
+    - shortcode: dge
       type: skill
       system:
         masteryLevelBase: 65
@@ -598,7 +598,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 11
-    - shortcode: weap
+    - shortcode: wpnc
       type: skill
       system:
         masteryLevelBase: 30
@@ -606,11 +606,11 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 33
-    - shortcode: anlc
+    - shortcode: anmcft
       type: skill
       system:
         masteryLevelBase: 22
-    - shortcode: seam
+    - shortcode: smsh
       type: skill
       system:
         masteryLevelBase: 12
@@ -619,7 +619,7 @@ sohl:
       system:
         masteryLevelBase: 55
     - shortcode: sprt
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 30
     - shortcode: BAxe
@@ -653,7 +653,7 @@ sohl:
     - shortcode: Leather flask
       type: miscgear
     - shortcode: backpk
-      type: miscgear
+      type: containergear
     - shortcode: StdRtns
       type: miscgear
       system:
@@ -661,7 +661,7 @@ sohl:
     - shortcode: LiteBdrl
       type: miscgear
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
 ---
 
 # Appearance {#appearance}

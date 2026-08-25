@@ -23,7 +23,7 @@ parent:
   polities:
     - ctysttshlns
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 peoples:
@@ -46,7 +46,7 @@ Therádon uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 ## See Also
 
 - [[doc-helionis|Heliónis]] — Regional overview
-- [[doc-helonclngg|Helonic]] — Naming tradition
-- [[doc-helonclngg|Helonic]] — Naming tradition
+- [[skill-helonclng|Helonic]] — Naming tradition
+- [[skill-helonclng|Helonic]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition
 - [[affiliation-panepistmm|Panepistemium]] — Scholarly institution

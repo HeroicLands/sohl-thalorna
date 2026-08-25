@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Forest Stronghold"
 population: null
 languages:
-  - varokhlngg
+  - varokhlng
 pantheons:
   - asguardian
 package: thalorna

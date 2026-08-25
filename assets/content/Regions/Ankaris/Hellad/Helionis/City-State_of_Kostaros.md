@@ -24,7 +24,7 @@ parent:
   polities:
     - ctysttshlns
 languages:
-  - helonclngg
+  - helonclng
 pantheons:
   - arldnpnthn
 peoples:

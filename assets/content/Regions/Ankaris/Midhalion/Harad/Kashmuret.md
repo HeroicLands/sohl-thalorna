@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Trading Town"
 population: null
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
   - ashanpnthn
@@ -35,6 +35,6 @@ Kashmuret's architecture reflects its role as a transit hub: the largest structu
 ## See Also
 
 - [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
-- [[doc-haradilngg|Haradi]] — Naming tradition
+- [[skill-haradilng|Haradi]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition

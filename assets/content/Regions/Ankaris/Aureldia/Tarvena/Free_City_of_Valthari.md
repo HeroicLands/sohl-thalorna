@@ -22,7 +22,7 @@ parent:
   regions:
     - tarvenirgn
 languages:
-  - tarvenlngg
+  - tarvenlng
 pantheons:
   - arldnpnthn
 peoples:
@@ -32,7 +32,7 @@ folder: DB9rgGreD8FtqoBx
 
 - **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal — pays tribute for self-governance charter)
 - **Language:** Tarvéni (with Provenzal and Haradi widely spoken)
-- **Naming Convention:** [[doc-tarvenlngg|Tarvéni]]
+- **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]]
 - **Government:** Council of merchant families (the Consejárath)
 

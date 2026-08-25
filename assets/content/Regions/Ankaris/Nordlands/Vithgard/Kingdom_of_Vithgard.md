@@ -26,7 +26,7 @@ parent:
   regions:
     - nrdlndsrgn
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 peoples:

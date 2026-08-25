@@ -19,7 +19,7 @@ government:
   type: nome
   summary: A wealthy agricultural upper-river nome governed by a conservative hereditary Haty'a; the empire's chief grain producer and granary.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: ankhsetun
 population: "~800,000"
 pantheons:

@@ -625,7 +625,7 @@ sohl:
       system:
         masteryLevelBase: 26
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 60
     - shortcode: WClk

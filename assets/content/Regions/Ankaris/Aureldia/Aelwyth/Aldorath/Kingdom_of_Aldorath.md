@@ -23,7 +23,7 @@ parent:
   regions:
     - aelwyth
 languages:
-  - elvndrlngg
+  - elvndrlng
 pantheons:
   - arldnpnthn
 peoples:

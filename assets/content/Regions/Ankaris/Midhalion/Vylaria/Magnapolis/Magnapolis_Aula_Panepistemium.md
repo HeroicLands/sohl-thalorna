@@ -16,7 +16,7 @@ category: settlement
 settlementType: "University Hall"
 population: null
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 id: Au5pNx7kEm2Rb9Lt

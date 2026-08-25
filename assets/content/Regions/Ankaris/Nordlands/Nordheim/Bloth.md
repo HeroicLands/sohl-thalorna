@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Ritual Site / Ancient Settlement"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

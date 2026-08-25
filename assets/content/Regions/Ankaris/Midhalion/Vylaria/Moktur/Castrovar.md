@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Frontier Fortress"
 population: 6000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

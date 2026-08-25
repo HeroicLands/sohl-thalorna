@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Port Town"
 population: null
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
   - ashanpnthn

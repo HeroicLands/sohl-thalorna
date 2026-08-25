@@ -630,10 +630,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 32
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 45
 thalorna:
   realm: vylarinmpr
   region: vylariargn

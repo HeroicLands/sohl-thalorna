@@ -18,7 +18,7 @@ government:
   type: province
   summary: Frontier/military province of the Vylarian Empire, governed by an imperial appointee.
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 peoples:

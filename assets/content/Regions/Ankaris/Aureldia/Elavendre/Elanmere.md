@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Lakeside Town"
 population: null
 languages:
-  - elvndrlngg
+  - elvndrlng
 pantheons:
   - arldnpnthn
 package: thalorna

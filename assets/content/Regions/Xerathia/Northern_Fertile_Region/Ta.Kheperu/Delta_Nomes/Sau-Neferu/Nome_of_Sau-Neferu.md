@@ -18,7 +18,7 @@ government:
   type: nome
   summary: A wealthy delta garden-nome governed by a hereditary Haty'a; the empire's luxury-orchard belt and the playground of its merchant aristocracy.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: sau
 population: "~900,000"
 pantheons:

@@ -18,7 +18,7 @@ government:
   type: nome
   summary: A temple-dominated upper-river nome governed by a hereditary Haty'a who shares power uneasily with the Wer'Hekau of the great mortuary temples.
 languages:
-  - kheperlngg
+  - kheperlng
 capital: khensuret
 population: "~700,000"
 pantheons:

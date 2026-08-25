@@ -638,7 +638,7 @@ sohl:
       type: containergear
     - shortcode: tndrbx
       type: miscgear
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 3

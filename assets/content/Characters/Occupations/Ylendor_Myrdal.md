@@ -635,15 +635,11 @@ sohl:
       system:
         masteryLevelBase: 10
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 48
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 42
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 36
     - shortcode: common

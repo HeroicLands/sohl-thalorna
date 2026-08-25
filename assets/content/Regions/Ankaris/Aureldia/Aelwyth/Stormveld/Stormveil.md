@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Castle and Garrison"
 population: null
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 package: thalorna

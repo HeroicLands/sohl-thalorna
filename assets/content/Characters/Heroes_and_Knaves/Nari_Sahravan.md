@@ -611,7 +611,7 @@ sohl:
       system:
         masteryLevelBase: 28
     - shortcode: trnc
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 60
     - shortcode: HsTunic

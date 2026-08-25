@@ -18,7 +18,7 @@ government:
   type: city-state
   summary: Council of merchant-princes and admiralty.
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 peoples:

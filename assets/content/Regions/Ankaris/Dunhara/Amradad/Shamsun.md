@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Oasis City"
 population: null
 languages:
-  - dunharlngg
+  - dunharlng
 pantheons:
   - ashanpnthn
 package: thalorna

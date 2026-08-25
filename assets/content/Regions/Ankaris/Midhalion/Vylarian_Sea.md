@@ -40,7 +40,7 @@ The sea's climate is warm-coastal: hot, dry summers and mild, rainy winters, wit
 
 ## Peoples and Culture
 
-The Vylarian Sea is genuinely shared between Ankaris and Xerathia — the only body of water in Thalorna of which this is true. Its cultural life reflects the mixing. Sailors speak [[doc-valtarlngg|Valtári]] on every dock from Tarvénia to Harad, priests of the Aurèldían, Āsháian, and Kemetian faiths preach in neighboring quarters of the same port cities, and merchant families maintain branches on both shores with the same unconcern with which a Helionite scholar would maintain a winter house and a summer one.
+The Vylarian Sea is genuinely shared between Ankaris and Xerathia — the only body of water in Thalorna of which this is true. Its cultural life reflects the mixing. Sailors speak [[skill-valtarlng|Valtári]] on every dock from Tarvénia to Harad, priests of the Aurèldían, Āsháian, and Kemetian faiths preach in neighboring quarters of the same port cities, and merchant families maintain branches on both shores with the same unconcern with which a Helionite scholar would maintain a winter house and a summer one.
 
 Port cities on both shores are polyglot, pluralistic, and in some ways more similar to one another than to the interiors of their own regions. A Vylarian sailor and a Ta'Kheperian sailor share more daily culture — the superstitions of the sea, the codes of shipboard discipline, the taste for taverns and brothels that their respective inland kinfolk regard with disapproval — than either shares with an inland landsman of their own nation.
 
@@ -71,6 +71,6 @@ No single faith governs the sea. The [[affiliation-arldnpnthn|Aurèldían Panthe
 - [[doc-empirtkhpr|Ta'Kheperu]] — dominant southern-shore power
 - [[doc-okharis|Okháris]] — southwestern shore
 - [[doc-mtrrchybth|Matriarchy of Bethua]] — southeastern shore
-- [[doc-valtarlngg|Valtári]] — the sea's trade pidgin
+- [[skill-valtarlng|Valtári]] — the sea's trade pidgin
 - [[doc-ankrscntnnt|Ankaris Continent]] — the northern continent
 - [[doc-xerathia|Xerathia]] — the southern continent

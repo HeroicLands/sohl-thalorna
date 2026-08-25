@@ -627,7 +627,7 @@ sohl:
       type: armorgear
     - shortcode: LtKBoot
       type: armorgear
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 4

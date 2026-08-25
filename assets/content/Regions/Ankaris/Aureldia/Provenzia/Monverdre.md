@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Hill Town"
 population: null
 languages:
-  - provnzlngg
+  - provnzlng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -7,8 +7,8 @@ category: settlement
 settlementType: "Hill Town"
 population: null
 languages:
-  - elvndrlngg
-  - nordmalngg
+  - elvndrlng
+  - nordmalng
 pantheons:
   - arldnpnthn
   - asguardian

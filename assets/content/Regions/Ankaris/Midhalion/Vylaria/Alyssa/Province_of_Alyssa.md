@@ -16,7 +16,7 @@ government:
   type: province
   summary: Heartland province of the Vylarian Empire, governed by an imperial appointee.
 languages:
-  - vylarilngg
+  - vylarilng
 capital: alyssar
 population: "~7,000,000"
 pantheons:

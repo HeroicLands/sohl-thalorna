@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Harbor Town"
 population: null
 languages:
-  - byzarnlngg
+  - byzarnlng
 pantheons:
   - arldnpnthn
 package: thalorna

@@ -9,7 +9,7 @@ population: null
 pantheons:
   - arldnpnthn
 languages:
-  - elvndrlngg
+  - elvndrlng
 package: thalorna
 name:
   full: Ceridwen's Hollow

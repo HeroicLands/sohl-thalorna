@@ -7,7 +7,7 @@ category: settlement
 settlementType: "Market Town"
 population: 9000
 languages:
-  - vylarilngg
+  - vylarilng
 pantheons:
   - arldnpnthn
 package: thalorna

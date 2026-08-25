@@ -8,7 +8,7 @@ category: settlement
 settlementType: "Coastal Village"
 population: null
 languages:
-  - haradilngg
+  - haradilng
 pantheons:
   - arldnpnthn
   - ashanpnthn

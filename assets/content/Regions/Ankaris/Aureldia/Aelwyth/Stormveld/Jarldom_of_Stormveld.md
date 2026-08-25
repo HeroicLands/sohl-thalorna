@@ -24,7 +24,7 @@ parent:
   regions:
     - aelwyth
 languages:
-  - nordmalngg
+  - nordmalng
 pantheons:
   - asguardian
 peoples:

@@ -26,7 +26,7 @@ pantheons:
 peoples:
   - human
 languages:
-  - okharclngg
+  - okharclng
 ---
 
 ## Overview
