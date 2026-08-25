@@ -621,15 +621,15 @@ sohl:
       system:
         masteryLevelBase: 13
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 28
-    - shortcode: tlnt
-      type: skill
+    - shortcode: eblt
+      type: mysticalability
       system:
         masteryLevelBase: 62
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 35
     - shortcode: ritual

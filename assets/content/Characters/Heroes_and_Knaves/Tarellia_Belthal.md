@@ -615,11 +615,11 @@ sohl:
       system:
         masteryLevelBase: 11
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 52
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 39
     - shortcode: Dgr

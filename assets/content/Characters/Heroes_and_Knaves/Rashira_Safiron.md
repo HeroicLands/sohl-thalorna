@@ -533,7 +533,7 @@ sohl:
       system:
         masteryLevelBase: 40
     - shortcode: astr
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 30
     - shortcode: intr
@@ -574,7 +574,7 @@ sohl:
         masteryLevelBase: 28
     - shortcode: Dgr
       type: weapongear
-    - shortcode: TSTunic
+    - shortcode: WTunic
       type: armorgear
       name: Travelling clothes (worsted)
     - shortcode: WClk
@@ -601,7 +601,7 @@ sohl:
       type: miscgear
       system:
         quantity: 30
-    - shortcode: bpchlgltr
+    - shortcode: bpchlg
       type: containergear
     - shortcode: wtrskin
       type: containergear

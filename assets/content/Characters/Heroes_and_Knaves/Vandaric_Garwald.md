@@ -586,15 +586,15 @@ sohl:
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system: quantity:31
     - shortcode: tndrbx
       type: miscgear
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

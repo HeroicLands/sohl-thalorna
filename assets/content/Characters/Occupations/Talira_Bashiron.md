@@ -634,13 +634,9 @@ sohl:
       system:
         masteryLevelBase: 26
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 60
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 39
     - shortcode: common
       type: skill
       system:

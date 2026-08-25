@@ -597,8 +597,8 @@ sohl:
       type: armorgear
     - shortcode: LtCap
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
       system:
         quantity: 2
     - shortcode: pence

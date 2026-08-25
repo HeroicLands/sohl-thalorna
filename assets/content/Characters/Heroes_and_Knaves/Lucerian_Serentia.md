@@ -595,7 +595,7 @@ sohl:
       system:
         masteryLevelBase: 55
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 74
     - shortcode: herb
@@ -616,8 +616,8 @@ sohl:
       type: armorgear
     - shortcode: LtShoe
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: surgtools
       type: miscgear
     - shortcode: pence

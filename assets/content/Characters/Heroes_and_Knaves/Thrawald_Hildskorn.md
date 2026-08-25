@@ -577,14 +577,14 @@ sohl:
       type: armorgear
     - shortcode: RhCap
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:
         quantity: 7
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

@@ -582,13 +582,13 @@ sohl:
       type: armorgear
     - shortcode: LtCowl
       type: armorgear
-    - shortcode: bpchmdltr
-      type: miscgear
+    - shortcode: bpchmd
+      type: containergear
     - shortcode: pence
       type: miscgear
       system:
         quantity: 9
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 3

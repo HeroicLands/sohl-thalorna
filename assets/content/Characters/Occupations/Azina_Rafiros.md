@@ -634,10 +634,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 24
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 36
 thalorna:
   realm: theradon
   region: helionis

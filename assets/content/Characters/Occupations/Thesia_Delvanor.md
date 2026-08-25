@@ -626,10 +626,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 26
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 39
 thalorna:
   realm: kingdmtrvn
   region: tarvenirgn

@@ -646,10 +646,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 70
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 33
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

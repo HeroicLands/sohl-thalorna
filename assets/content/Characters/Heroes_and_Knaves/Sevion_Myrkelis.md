@@ -622,7 +622,7 @@ sohl:
       system:
         masteryLevelBase: 15
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 64
     - shortcode: Dgr

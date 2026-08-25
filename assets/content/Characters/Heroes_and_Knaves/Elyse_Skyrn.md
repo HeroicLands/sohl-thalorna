@@ -575,7 +575,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 36
-    - shortcode: shck
+    - shortcode: shok
       type: skill
       system:
         masteryLevelBase: 24
@@ -583,7 +583,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 24
-    - shortcode: dodg
+    - shortcode: dge
       type: skill
       system:
         masteryLevelBase: 24
@@ -599,7 +599,7 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 36
-    - shortcode: anlc
+    - shortcode: anmcft
       type: skill
       system:
         masteryLevelBase: 26
@@ -616,11 +616,11 @@ sohl:
       system:
         masteryLevelBase: 26
     - shortcode: alch
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 80
     - shortcode: sprt
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 42
     - shortcode: Dgr
@@ -631,11 +631,14 @@ sohl:
       type: armorgear
     - shortcode: CLeg
       type: armorgear
-    - shortcode: Cloth split skirt
+    - name: Worsted split skirt
+      shortcode: WSkirt
       type: armorgear
+      system:
+        shortcode: WSplSkirt
     - shortcode: CCap
       type: armorgear
-    - shortcode: Wool hooded cloak
+    - shortcode: WHClk
       type: armorgear
     - shortcode: LtKBoot
       type: armorgear
@@ -654,21 +657,21 @@ sohl:
     - shortcode: herbs
       type: miscgear
     - shortcode: backpk
-      type: miscgear
+      type: containergear
     - shortcode: StdRtns
       type: miscgear
       system:
         quantity: 3
     - shortcode: LiteBdrl
       type: miscgear
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 32
     - shortcode: healing elixir
       type: miscgear
     - shortcode: wtrskin
-      type: miscgear
+      type: containergear
     - shortcode: Candles
       type: miscgear
       system:
@@ -680,7 +683,7 @@ sohl:
     - shortcode: Quills
       type: miscgear
     - shortcode: Kni
-      type: miscgear
+      type: weapongear
     - shortcode: Seal Wax (Red)
       type: miscgear
     - shortcode: Stamp

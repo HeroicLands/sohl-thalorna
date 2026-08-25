@@ -639,10 +639,6 @@ sohl:
       type: skill
       system:
         masteryLevelBase: 12
-    - shortcode: tlnt
-      type: skill
-      system:
-        masteryLevelBase: 36
     - shortcode: wood
       type: skill
       system:

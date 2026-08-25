@@ -624,7 +624,7 @@ sohl:
       system:
         masteryLevelBase: 22
     - shortcode: tarot
-      type: skill
+      type: mysticalability
       system:
         masteryLevelBase: 60
     - shortcode: Dgr

@@ -666,7 +666,7 @@ sohl:
       type: miscgear
     - shortcode: wtrskin
       type: containergear
-    - shortcode: Bandg
+    - shortcode: medsupil
       type: miscgear
       system:
         quantity: 4
