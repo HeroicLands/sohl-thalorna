@@ -7,7 +7,6 @@ id: QAXZZlocpugx7jRJ
 description: "Vast continental empire spanning half of Ankaris — mighty, centralized state claiming dominion over multiple provinces, eternal pretender to universal rule."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Vylarian Empire
   aliases: []

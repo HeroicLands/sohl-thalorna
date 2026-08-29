@@ -10,7 +10,6 @@ tags:
   - cartography
   - intelligence
 description: "Underground cartography network of guild-trained mapmakers selling specialized maps for purposes the Cartographers' Guild charter forbids — espionage, smuggling, theft, and the documentation of forbidden territories."
-package: thalorna
 id: AwDdgNeKvyTWwMKt
 name:
   full: The Black Ledger

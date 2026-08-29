@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/person.svg
 portrait: images/being/nghtwght-portrait.webp
 shortcode: nghtwght
 type: being
-package: thalorna
 sohl:
   kbcat: helspawn
   archetype: 0

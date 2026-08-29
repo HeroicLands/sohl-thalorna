@@ -20,7 +20,6 @@ shortcode: gahijwfnjr
 img: icons/person.svg
 portrait: images/being/gahijwfnjr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: nylbtrblntn
   region: sthrnsvnhs

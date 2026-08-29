@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: kankul2
-package: thalorna
 terran_analog: Yucatan Mexico and southern mexico through Honduras
 parent:
   regions:

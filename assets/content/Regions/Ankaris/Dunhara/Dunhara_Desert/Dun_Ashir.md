@@ -11,7 +11,6 @@ languages:
   - dunharlng
 pantheons:
   - ashanpnthn
-package: thalorna
 name:
   full: Dûn Ashir
   aliases: []

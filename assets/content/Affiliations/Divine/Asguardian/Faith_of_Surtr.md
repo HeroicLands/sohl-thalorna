@@ -5,7 +5,6 @@ id: ZRe4IWZLZlIFjqOt
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Súrtr
   aliases:

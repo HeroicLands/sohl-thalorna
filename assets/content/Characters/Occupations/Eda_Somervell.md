@@ -17,7 +17,6 @@ shortcode: edasomervl
 img: icons/person.svg
 portrait: images/being/edasomervl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Innkeeper
   station: tradesfolk

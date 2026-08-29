@@ -6,7 +6,6 @@ tags:
   - asguardian
 type: affiliation
 pantheon: asguardian
-package: thalorna
 name:
   full: Faith of Baldr
   aliases:

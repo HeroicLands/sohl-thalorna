@@ -5,7 +5,6 @@ aliases:
 id: 1jK4MD4BEqFGPa5s
 type: doc
 category: lore
-package: thalorna
 name:
   full: Tānthëi
   aliases: []

@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: hanalxilan2
-package: thalorna
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 parent:
   regions:

@@ -11,7 +11,6 @@ id: OelGEccQlUtRl7lM
 img: icons/water.svg
 shortcode: lfsprk
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

@@ -18,7 +18,6 @@ shortcode: vandsksrns
 img: icons/person.svg
 portrait: images/being/vandsksrns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Courtesan
   station: administration

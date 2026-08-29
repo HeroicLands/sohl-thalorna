@@ -18,7 +18,6 @@ shortcode: ragnarfrgd
 img: icons/person.svg
 portrait: images/being/ragnarfrgd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Champion
   station: soldiery

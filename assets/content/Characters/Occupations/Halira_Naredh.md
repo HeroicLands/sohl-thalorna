@@ -18,7 +18,6 @@ shortcode: haliranrdh
 img: icons/person.svg
 portrait: images/being/haliranrdh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scribe
   station: tradesfolk

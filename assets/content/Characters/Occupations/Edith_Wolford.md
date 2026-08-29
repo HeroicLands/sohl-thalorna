@@ -17,7 +17,6 @@ shortcode: edithwlfrd
 img: icons/person.svg
 portrait: images/being/edithwlfrd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Jeweller
   station: tradesfolk

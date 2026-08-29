@@ -11,7 +11,6 @@ id: VS4YEgUY0ptUQy6A
 img: icons/anvil.svg
 shortcode: glow
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

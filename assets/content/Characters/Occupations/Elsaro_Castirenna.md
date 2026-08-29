@@ -18,7 +18,6 @@ shortcode: elsarcstrn
 img: icons/person.svg
 portrait: images/being/elsarcstrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercenary
   station: soldiery

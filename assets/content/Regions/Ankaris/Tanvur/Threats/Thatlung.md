@@ -5,7 +5,6 @@ aliases:
 id: dShd6mhcDw4j2zkN
 type: doc
 category: lore
-package: thalorna
 name:
   full: Thātlüng
   aliases: []

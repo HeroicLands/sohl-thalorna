@@ -7,7 +7,6 @@ id: GHIXrjvkfpw2yc6e
 description: ""
 type: doc
 category: region
-package: thalorna
 name:
   full: Vylaría Region
   aliases: []

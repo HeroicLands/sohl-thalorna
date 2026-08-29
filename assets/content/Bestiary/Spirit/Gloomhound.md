@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/hound.svg
 portrait: images/being/glmhnd-portrait.webp
 shortcode: glmhnd
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

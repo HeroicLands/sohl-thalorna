@@ -11,7 +11,6 @@ id: BcWKJx0ebfEj6gz3
 img: icons/anvil.svg
 shortcode: shaper
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

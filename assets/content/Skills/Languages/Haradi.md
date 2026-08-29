@@ -10,7 +10,6 @@ id: 61ENCc7QXGaRPDch
 img: icons/speaking.svg
 shortcode: haradilng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

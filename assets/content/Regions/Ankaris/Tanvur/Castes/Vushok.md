@@ -5,7 +5,6 @@ aliases:
 id: SAOPtLI8wTxMqwOk
 type: doc
 category: lore
-package: thalorna
 name:
   full: Vüshōk
   aliases: []

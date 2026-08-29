@@ -18,7 +18,6 @@ shortcode: brnklnthrk
 img: icons/person.svg
 portrait: images/being/brnklnthrk-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bard
   station: tradesfolk

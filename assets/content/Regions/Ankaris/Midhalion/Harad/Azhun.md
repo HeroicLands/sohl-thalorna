@@ -5,7 +5,6 @@ aliases:
 id: AqrgBrEk82vRX0Se
 type: doc
 category: polity
-package: thalorna
 name:
   full: Azhûn
   aliases: []

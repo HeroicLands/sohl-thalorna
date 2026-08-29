@@ -17,7 +17,6 @@ shortcode: erthrnhldvth
 img: icons/person.svg
 portrait: images/being/erthrnhldvth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Trapper
   station: common_folk

@@ -6,7 +6,6 @@ id: 7jTgBUKDCfVWAUzo
 description: "Highland territory on the border with Élavendre, home to an ancient pre-Tarvéni people — fiercely independent even by Tarvénan standards, speaking their own language and following their own law."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Free Territory of Eskárath
   aliases: []

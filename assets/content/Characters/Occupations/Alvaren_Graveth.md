@@ -18,7 +18,6 @@ shortcode: alvrngrvth
 img: icons/person.svg
 portrait: images/being/alvrngrvth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Salter
   station: common_folk

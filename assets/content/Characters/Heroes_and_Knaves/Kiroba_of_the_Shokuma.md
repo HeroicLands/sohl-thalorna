@@ -19,7 +19,6 @@ shortcode: kirobashkm
 img: icons/person.svg
 portrait: images/being/kirobashkm-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: okharis
   region: okharisrgn

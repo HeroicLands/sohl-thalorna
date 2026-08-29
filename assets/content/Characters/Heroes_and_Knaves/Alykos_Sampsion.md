@@ -18,7 +18,6 @@ shortcode: alykosmpsn
 img: icons/person.svg
 portrait: images/being/alykosmpsn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

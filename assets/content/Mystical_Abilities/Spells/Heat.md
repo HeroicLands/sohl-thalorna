@@ -9,7 +9,6 @@ id: pH3InhWZcQ2xmINT
 img: icons/fire.svg
 shortcode: heat
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

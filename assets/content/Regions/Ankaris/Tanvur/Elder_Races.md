@@ -4,7 +4,6 @@ aliases:
 id: VWs3Bs2ajr3a9X7w
 type: doc
 category: lore
-package: thalorna
 name:
   full: Elder Races
   aliases: []

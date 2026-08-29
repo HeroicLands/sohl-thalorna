@@ -7,7 +7,6 @@ tags:
   - aurionis
 type: doc
 category: continent
-package: thalorna
 id: dQ3RMAtfHDsD09IX
 shortcode: arnscntnnt
 name:

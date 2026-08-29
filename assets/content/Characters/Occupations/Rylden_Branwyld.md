@@ -18,7 +18,6 @@ shortcode: ryldnbrnwyld
 img: icons/person.svg
 portrait: images/being/ryldnbrnwyld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Chieftain
   station: administration

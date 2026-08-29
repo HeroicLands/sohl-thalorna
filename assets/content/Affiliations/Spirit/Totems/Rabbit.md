@@ -7,7 +7,6 @@ id: FflqdVjsjGPrZYY9
 img: images/mystery/rabbit.webp
 shortcode: rabbitttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

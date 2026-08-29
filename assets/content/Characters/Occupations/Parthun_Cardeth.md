@@ -18,7 +18,6 @@ shortcode: prthncrdth
 img: icons/person.svg
 portrait: images/being/prthncrdth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thespian
   station: tradesfolk

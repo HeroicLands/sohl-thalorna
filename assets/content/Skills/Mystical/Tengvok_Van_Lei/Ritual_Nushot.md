@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: AOAX8HsKj3dBH4SA
 shortcode: nushot
 name:

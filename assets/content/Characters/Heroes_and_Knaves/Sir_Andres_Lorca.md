@@ -20,7 +20,6 @@ shortcode: srndrslrcknghtwstrnmrchs
 img: icons/person.svg
 portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdmtrvn
   region: tarvenirgn

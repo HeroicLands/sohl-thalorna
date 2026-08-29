@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: SllRC1o8LkNhBYGQ
 img: images/affiliation/kentra.webp
 shortcode: kentra

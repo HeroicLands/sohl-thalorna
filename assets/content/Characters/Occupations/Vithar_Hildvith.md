@@ -18,7 +18,6 @@ shortcode: vthrhldvth
 img: icons/person.svg
 portrait: images/being/vthrhldvth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)
   station: tradesfolk

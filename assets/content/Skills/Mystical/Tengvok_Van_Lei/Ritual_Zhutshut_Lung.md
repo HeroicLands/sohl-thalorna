@@ -7,7 +7,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: YlTN0MpIQsOls3gi
 shortcode: zhutshtlng
 name:

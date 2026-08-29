@@ -9,7 +9,6 @@ settlementType: "Trading Port"
 population: null
 pantheons:
   - nkaruthar
-package: thalorna
 name:
   full: Kaljékor
   aliases:

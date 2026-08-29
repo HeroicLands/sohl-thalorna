@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: vjdx9kGWQ4USV1W4
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp

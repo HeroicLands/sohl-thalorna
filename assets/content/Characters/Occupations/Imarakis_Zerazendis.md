@@ -18,7 +18,6 @@ shortcode: imrkszrznds
 img: icons/person.svg
 portrait: images/being/imrkszrznds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Musician (Drums)
   station: tradesfolk

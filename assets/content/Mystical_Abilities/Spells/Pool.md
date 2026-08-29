@@ -9,7 +9,6 @@ id: V99UpKThZil5gk8t
 img: icons/circle.svg
 shortcode: pool
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: ojOZHGwR62AnSRV3
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp

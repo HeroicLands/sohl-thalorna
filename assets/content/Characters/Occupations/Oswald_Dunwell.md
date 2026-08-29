@@ -17,7 +17,6 @@ shortcode: oswaldunwl
 img: icons/person.svg
 portrait: images/being/oswaldunwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Nobility (Manor Lord)
   station: administration

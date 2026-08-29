@@ -7,7 +7,6 @@ tags:
   - ankaris
 type: doc
 category: continent
-package: thalorna
 id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent

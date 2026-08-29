@@ -18,7 +18,6 @@ shortcode: anirarsnth
 img: icons/person.svg
 portrait: images/being/anirarsnth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Musician (Lute)
   station: tradesfolk

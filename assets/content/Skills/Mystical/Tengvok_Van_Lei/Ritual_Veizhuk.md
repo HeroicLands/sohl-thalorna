@@ -7,7 +7,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: vFyGKnWYwN3hPuCW
 shortcode: veizhuk
 name:

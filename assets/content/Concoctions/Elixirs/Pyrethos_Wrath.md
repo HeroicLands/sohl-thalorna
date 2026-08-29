@@ -12,7 +12,6 @@ id: WIIZGmhspMBZCrsC
 img: icons/potion.svg
 shortcode: ElxErp
 type: concoctiongear
-package: thalorna
 hmk:
   name: Eruption
 sohl:

@@ -4,7 +4,6 @@ aliases:
 id: PLoeMYg2nCbgYuDi
 type: doc
 category: lore
-package: thalorna
 name:
   full: Calendar and Astrology
   aliases: []

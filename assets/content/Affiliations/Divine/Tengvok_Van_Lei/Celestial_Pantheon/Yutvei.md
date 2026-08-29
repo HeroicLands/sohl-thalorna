@@ -26,7 +26,6 @@ epithet: The Keeper of the Jade Seal
 domain: Legitimacy
 symbol: A vermillion seal-impression framing a single gold character
 pantheon: tngvkvnlei
-package: thalorna
 folder: Zsfl8qxSI1uYIBPU
 ---
 

@@ -13,7 +13,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 id: Jg0Pn5U6qFjRyxyJ
 name:
   full: The Bardic Colleges

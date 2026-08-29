@@ -12,7 +12,6 @@ id: vDEGz8YoMfVA9WJW
 img: icons/potion.svg
 shortcode: PtnCurM
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Curative, Mild"
 sohl:

@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/giantant-portrait.webp
 shortcode: giantant
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

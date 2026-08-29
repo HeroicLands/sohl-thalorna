@@ -18,7 +18,6 @@ shortcode: alimulamar
 img: icons/person.svg
 portrait: images/being/alimulamar-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bureaucrat
   station: administration

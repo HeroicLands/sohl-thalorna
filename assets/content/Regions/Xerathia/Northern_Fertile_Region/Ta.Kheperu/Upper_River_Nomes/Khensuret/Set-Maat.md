@@ -11,7 +11,6 @@ languages:
   - kheperlng
 pantheons:
   - kemtnpnthn
-package: thalorna
 name:
   full: Set-Maat
   aliases:

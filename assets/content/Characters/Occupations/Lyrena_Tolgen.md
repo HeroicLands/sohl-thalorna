@@ -18,7 +18,6 @@ shortcode: lyrenatlgn
 img: icons/person.svg
 portrait: images/being/lyrenatlgn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Skald
   station: tradesfolk

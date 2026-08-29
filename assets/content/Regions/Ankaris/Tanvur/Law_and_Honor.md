@@ -4,7 +4,6 @@ aliases:
 id: 7zd9meI8uP5kLiz0
 type: doc
 category: lore
-package: thalorna
 name:
   full: Law and Honor
   aliases: []

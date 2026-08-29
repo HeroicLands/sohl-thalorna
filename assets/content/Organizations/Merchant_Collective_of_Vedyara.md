@@ -6,7 +6,6 @@ aliases:
   - Vyāpārī Sangha
 tags: []
 description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade — wielding economic power that rivals the rulers themselves."
-package: thalorna
 id: rtHt40LrWd0rQ20K
 name:
   full: The Merchant Collective of Vedyara

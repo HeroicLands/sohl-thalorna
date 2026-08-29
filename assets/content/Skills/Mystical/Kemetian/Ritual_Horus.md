@@ -6,7 +6,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: S2quL79WVm0zwEVS
 shortcode: horus
 name:

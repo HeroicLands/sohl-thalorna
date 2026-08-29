@@ -6,7 +6,6 @@ id: to3hR8mfmJQW5w2C
 description: "Green, mist-shrouded western coast of Tarvénia — seafaring kingdom of fishermen and dreamers, with a reputation for mysticism that sits uneasily with Tarvénan skepticism."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Kingdom of Galváren
   aliases: []

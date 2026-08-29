@@ -7,7 +7,6 @@ name:
   aliases: []
 type: doc
 category: lore
-package: thalorna
 shortcode: trnnlgsrfrnc
 ---
 

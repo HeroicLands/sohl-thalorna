@@ -9,7 +9,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: nKUTkE0IvG0Xu2FS
 shortcode: vyalendravada
 name:

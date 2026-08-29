@@ -20,7 +20,6 @@ shortcode: zahirmlkht
 img: icons/person.svg
 portrait: images/being/zahirmlkht-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: mtrrchybth
   region: bethuargn

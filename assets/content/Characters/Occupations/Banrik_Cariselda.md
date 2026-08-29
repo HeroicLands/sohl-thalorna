@@ -18,7 +18,6 @@ shortcode: banrkcrsld
 img: icons/person.svg
 portrait: images/being/banrkcrsld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bodyguard
   station: soldiery

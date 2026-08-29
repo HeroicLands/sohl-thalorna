@@ -11,7 +11,6 @@ id: 9DQBtmLcuVE9dsHW
 img: icons/wind.svg
 shortcode: gust
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

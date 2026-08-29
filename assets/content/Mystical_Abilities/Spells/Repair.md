@@ -11,7 +11,6 @@ id: nhM985RsKb1VwejM
 img: icons/anvil.svg
 shortcode: repair
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

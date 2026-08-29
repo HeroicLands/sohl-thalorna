@@ -5,7 +5,6 @@ id: gqBpXloRdqQrE3Og
 type: doc
 category: settlement
 settlementType: "Fortress Town"
-package: thalorna
 name:
   full: Tahrodan
   aliases: []

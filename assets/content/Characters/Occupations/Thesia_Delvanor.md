@@ -18,7 +18,6 @@ shortcode: thesidlvnr
 img: icons/person.svg
 portrait: images/being/thesidlvnr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercenary
   station: soldiery

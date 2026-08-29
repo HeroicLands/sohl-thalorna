@@ -33,7 +33,6 @@ sohl:
     ymir: aligned
   archetype: null
 folder: cFyVbOx7bj35ZyPA
-package: thalorna
 ---
 
 # Asguardian Pantheon

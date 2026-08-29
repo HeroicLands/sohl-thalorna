@@ -6,7 +6,6 @@ aliases:
   - The Moneylenders' Guild
 tags: []
 description: "The moneylenders' guild chartered under the Magnum Collegium — the visible banking institution of the post-imperial commonwealth, whose chapterhouses operate the note-clearing system that the Aerarium Imperii stands quietly behind."
-package: thalorna
 id: DBPD6lc3Du7tOWOp
 name:
   full: The Collegium Argentariorum

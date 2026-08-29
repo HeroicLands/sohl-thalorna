@@ -7,7 +7,6 @@ id: 9kURQgBvCgSoahoC
 img: images/mystery/leopard.webp
 shortcode: leopardttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

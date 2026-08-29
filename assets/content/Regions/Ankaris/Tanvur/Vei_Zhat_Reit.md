@@ -7,7 +7,6 @@ aliases:
 id: fE2uikvHIqpHgYyC
 type: doc
 category: lore
-package: thalorna
 name:
   full: Vëi Zhāt Rëit
   aliases:

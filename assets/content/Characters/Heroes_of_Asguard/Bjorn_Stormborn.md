@@ -18,7 +18,6 @@ shortcode: bjrnstrmbrn
 img: icons/person.svg
 portrait: images/being/bjrnstrmbrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Warrior and Clan Leader
   station: administration

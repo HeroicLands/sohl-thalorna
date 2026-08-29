@@ -27,7 +27,6 @@ sohl:
     tngvkvnlei: aligned
     yokveng: aligned
   archetype: null
-package: thalorna
 folder: hDKxtkbJFjn8bIUr
 ---
 

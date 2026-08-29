@@ -19,7 +19,6 @@ shortcode: casiaveric
 img: icons/person.svg
 portrait: images/being/casiaveric-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vylarinmpr
   region: vylariargn

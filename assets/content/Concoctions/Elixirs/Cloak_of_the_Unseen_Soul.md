@@ -12,7 +12,6 @@ id: wLOaFGUHoC9oiCDJ
 img: icons/potion.svg
 shortcode: ElxSCl
 type: concoctiongear
-package: thalorna
 hmk:
   name: Soulcloak
 sohl:

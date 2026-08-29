@@ -5,7 +5,6 @@ id: iySZsg4GUX7SXyvZ
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Lôki
   aliases:

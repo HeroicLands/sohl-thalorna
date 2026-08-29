@@ -10,7 +10,6 @@ languages:
   - vylarilng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Granaria
   aliases: []

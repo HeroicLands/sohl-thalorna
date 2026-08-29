@@ -10,7 +10,6 @@ tags:
   - military
 description: "The Castra Praetoria, fortified barracks of the Praetar Augustarum — the imperial guard — set on the palace hill within Urbs Aquilion; the armed heart from which the throne enforces its grip on its own capital, and the one fortress inside the Inner Wall."
 type: doc
-package: thalorna
 category: settlement
 settlementType: "Imperial Fortress"
 population: null

@@ -13,7 +13,6 @@ img: icons/game-icons/delapouite/orc-head.svg
 portrait: images/being/grkrahk-portrait.webp
 shortcode: grkrahk
 type: being
-package: thalorna
 sohl:
   kbcat: grukar
   archetype: 0

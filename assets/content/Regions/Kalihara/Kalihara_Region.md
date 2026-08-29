@@ -13,7 +13,6 @@ shortcode: kaliharargn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Kaliharan
 parent:
   continents:

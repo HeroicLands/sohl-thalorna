@@ -17,7 +17,6 @@ shortcode: skulvtrdmr
 img: icons/person.svg
 portrait: images/being/skulvtrdmr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmnrdhm
   region: nrdlndsrgn

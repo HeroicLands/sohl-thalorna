@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: 3iZvjLH3bPOwHFV7
 shortcode: murkir
 img: images/affiliation/murkir.webp

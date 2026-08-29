@@ -10,7 +10,6 @@ id: UYYIc4v2vhufWMCR
 img: icons/sword.svg
 shortcode: Dao
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

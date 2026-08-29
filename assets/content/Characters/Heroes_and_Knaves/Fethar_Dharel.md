@@ -17,7 +17,6 @@ banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/fethardhrl-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmprvnz
   region: provenzrgn

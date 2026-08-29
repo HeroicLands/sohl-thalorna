@@ -8,7 +8,6 @@ aliases:
 tags: []
 type: doc
 category: polity
-package: thalorna
 description: The temple-republic of Rājapur — eleven villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
 name:
   full: Rājapur Janapada

@@ -13,7 +13,6 @@ languages:
   - local-names
 pantheons:
   - nyalbpnthn
-package: thalorna
 name:
   full: Ékunda
   aliases: []

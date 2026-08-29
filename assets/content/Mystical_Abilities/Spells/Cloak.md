@@ -11,7 +11,6 @@ id: G0uvSYE3j8khDhnb
 img: icons/anvil.svg
 shortcode: cloak
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

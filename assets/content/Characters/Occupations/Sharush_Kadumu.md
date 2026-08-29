@@ -18,7 +18,6 @@ shortcode: sharushkdm
 img: icons/person.svg
 portrait: images/being/sharushkdm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cook
   station: common_folk

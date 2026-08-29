@@ -4,7 +4,6 @@ aliases:
 id: gu99gyoQOqq2hkDz
 type: doc
 category: lore
-package: thalorna
 name:
   full: Numerology
   aliases: []

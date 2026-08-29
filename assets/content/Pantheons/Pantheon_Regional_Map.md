@@ -9,7 +9,6 @@ name:
 shortcode: pnthnrgnlmp
 type: doc
 category: lore
-package: thalorna
 folder: 6NICDnQl8B4GjvL7
 ---
 

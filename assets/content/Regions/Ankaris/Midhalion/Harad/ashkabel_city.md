@@ -10,7 +10,6 @@ languages:
   - haradilng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Ashkabel
   aliases: []

@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: FFQe2Tdg5t5AcOH4
 shortcode: taranon
 img: images/affiliation/taranon.webp

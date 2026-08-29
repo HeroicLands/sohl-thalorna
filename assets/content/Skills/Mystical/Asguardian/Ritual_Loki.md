@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: KEMsXblHB5sHluDk
 shortcode: loki
 img: images/affiliation/loki.webp

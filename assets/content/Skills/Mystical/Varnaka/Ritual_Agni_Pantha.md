@@ -9,7 +9,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: iMGrmk6U0clUqTqm
 shortcode: agnipantha
 name:

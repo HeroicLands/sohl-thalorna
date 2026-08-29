@@ -20,7 +20,6 @@ shortcode: rshrhssfrn
 img: icons/person.svg
 portrait: images/being/rshrhssfrn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: mtrrchybth
   region: bethuargn

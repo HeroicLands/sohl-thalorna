@@ -18,7 +18,6 @@ shortcode: nubarsjdrs
 img: icons/person.svg
 portrait: images/being/nubarsjdrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Nobility (Courtier)
   station: administration

@@ -11,7 +11,6 @@ id: Olccims1BPfJZ0lV
 img: icons/tree.svg
 shortcode: unite
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

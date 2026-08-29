@@ -18,7 +18,6 @@ shortcode: nulazizrsh
 img: icons/person.svg
 portrait: images/being/nulazizrsh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Timberwright
   station: tradesfolk

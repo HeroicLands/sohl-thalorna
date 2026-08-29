@@ -17,7 +17,6 @@ shortcode: edgarchltn
 img: icons/person.svg
 portrait: images/being/edgarchltn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Embalmer
   station: tradesfolk

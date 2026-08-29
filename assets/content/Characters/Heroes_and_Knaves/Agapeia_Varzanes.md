@@ -18,7 +18,6 @@ shortcode: agapevrzns
 img: icons/person.svg
 portrait: images/being/agapevrzns-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

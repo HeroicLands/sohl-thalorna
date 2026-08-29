@@ -7,7 +7,6 @@ id: WvNQBTaORsEATNRc
 img: images/mystery/sheep.webp
 shortcode: sheepttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

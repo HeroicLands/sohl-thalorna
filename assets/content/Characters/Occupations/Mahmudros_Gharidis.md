@@ -18,7 +18,6 @@ shortcode: mmdrsghrds
 img: icons/person.svg
 portrait: images/being/mmdrsghrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hideworker
   station: tradesfolk

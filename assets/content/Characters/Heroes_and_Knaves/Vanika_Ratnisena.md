@@ -18,7 +18,6 @@ shortcode: vanikartns
 img: icons/person.svg
 portrait: images/being/vanikartns-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: rajaprjnpd
   region: vedyarargn

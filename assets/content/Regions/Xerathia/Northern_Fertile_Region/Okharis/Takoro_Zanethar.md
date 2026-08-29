@@ -15,7 +15,6 @@ shortcode: takorozanethar
 img: images/takoro-zanethar-headshot.webp
 portrait: images/being/takorozanethar-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: okharis
   region: okharisrgn

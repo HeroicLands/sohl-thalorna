@@ -18,7 +18,6 @@ shortcode: hrprsvrkrtys
 img: icons/person.svg
 portrait: images/being/hrprsvrkrtys-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Archer
   station: soldiery

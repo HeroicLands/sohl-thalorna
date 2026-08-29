@@ -12,7 +12,6 @@ id: s5yczTmecThiW44P
 img: icons/potion.svg
 shortcode: ElxMnd
 type: concoctiongear
-package: thalorna
 hmk:
   name: Mending
 sohl:

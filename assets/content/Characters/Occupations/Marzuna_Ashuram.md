@@ -18,7 +18,6 @@ shortcode: marzunshrm
 img: icons/person.svg
 portrait: images/being/marzunshrm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bodyguard
   station: soldiery

@@ -15,7 +15,6 @@ shortcode: cntrlrnfrsts
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: Equatorial African interior (Congo basin)
 parent:
   continents:

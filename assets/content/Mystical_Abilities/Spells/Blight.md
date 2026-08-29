@@ -11,7 +11,6 @@ id: iXkZnuXZICv7oUr7
 img: icons/tree.svg
 shortcode: blight
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

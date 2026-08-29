@@ -18,7 +18,6 @@ shortcode: madhurvrdr
 img: icons/person.svg
 portrait: images/being/madhurvrdr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: chandrapur
   region: vedyarargn

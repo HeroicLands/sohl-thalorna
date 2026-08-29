@@ -6,7 +6,6 @@ name:
   full: Astrokýklos
   aliases: []
 type: affiliation
-package: thalorna
 id: qBeythibUMynFR01
 shortcode: astrokyklos
 img: ""

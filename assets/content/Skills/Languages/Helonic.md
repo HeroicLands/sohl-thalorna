@@ -10,7 +10,6 @@ id: kzExD71wOODyJRDn
 img: icons/speaking.svg
 shortcode: helonclng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

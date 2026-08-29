@@ -18,7 +18,6 @@ shortcode: hrdrskldrth
 img: icons/person.svg
 portrait: images/being/hrdrskldrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercenary
   station: soldiery

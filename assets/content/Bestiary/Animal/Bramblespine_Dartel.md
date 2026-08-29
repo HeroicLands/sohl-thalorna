@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/brmblspn-portrait.webp
 shortcode: brmblspn
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

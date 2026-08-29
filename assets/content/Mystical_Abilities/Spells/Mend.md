@@ -11,7 +11,6 @@ id: ansvOt5ow8NYe2FO
 img: icons/anvil.svg
 shortcode: mend
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

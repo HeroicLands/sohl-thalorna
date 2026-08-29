@@ -7,7 +7,6 @@ tags:
   - vrystwald
 description: "Vrystwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."
 type: doc
-package: thalorna
 folder: bVhz4i3fwwT0NDSW
 category: company
 id: dYyYG1Auv2axyCZQ

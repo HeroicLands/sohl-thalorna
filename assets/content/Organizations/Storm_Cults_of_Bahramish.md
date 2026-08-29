@@ -10,7 +10,6 @@ tags:
   - storm
   - cult
 description: "Decentralized religious network of the Dunhara tribes — storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
-package: thalorna
 id: iEJMnA0Kahp4Cvde
 name:
   full: The Storm Cults of Báhrámiš

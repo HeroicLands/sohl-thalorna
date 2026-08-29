@@ -7,7 +7,6 @@ id: aVh7hIiGfJgn3CRU
 img: images/mystery/hamster.webp
 shortcode: hamsterttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

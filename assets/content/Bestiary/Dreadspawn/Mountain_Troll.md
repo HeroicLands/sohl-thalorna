@@ -12,7 +12,6 @@ img: icons/game-icons/skoll/troll.svg
 portrait: images/being/mntntrll-portrait.webp
 shortcode: mntntrll
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

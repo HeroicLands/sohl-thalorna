@@ -10,7 +10,6 @@ settlementType: ""
 population: null
 languages: []
 pantheons: []
-package: thalorna
 name:
   full: Okharis Tribes Placeholder
   aliases: []

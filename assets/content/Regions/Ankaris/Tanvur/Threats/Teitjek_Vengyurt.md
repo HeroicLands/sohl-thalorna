@@ -5,7 +5,6 @@ aliases:
 id: IeRBitOhNW9W1apE
 type: doc
 category: lore
-package: thalorna
 name:
   full: Tëitjëk Vëngyürt
   aliases: []

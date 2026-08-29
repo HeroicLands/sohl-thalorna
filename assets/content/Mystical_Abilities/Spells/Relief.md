@@ -11,7 +11,6 @@ id: hQ2PzdTgogQXd4se
 img: icons/tree.svg
 shortcode: relief
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

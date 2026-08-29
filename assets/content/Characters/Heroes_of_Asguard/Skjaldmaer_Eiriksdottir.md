@@ -19,7 +19,6 @@ shortcode: skjldmrrksdtr
 img: icons/person.svg
 portrait: images/being/skjldmrrksdtr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Shieldmaiden
   station: soldiery

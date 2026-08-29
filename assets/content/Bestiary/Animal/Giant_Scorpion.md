@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/scorpion.svg
 portrait: images/being/gntscrpn-portrait.webp
 shortcode: gntscrpn
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

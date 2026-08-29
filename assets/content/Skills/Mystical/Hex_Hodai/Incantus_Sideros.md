@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: pINYlTKRY56xecsb
 shortcode: sideros
 img: images/affiliation/sideros.webp

@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/strmsr-portrait.webp
 shortcode: strmsr
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

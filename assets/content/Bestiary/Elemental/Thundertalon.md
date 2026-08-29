@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/thndrtln-portrait.webp
 shortcode: thndrtln
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

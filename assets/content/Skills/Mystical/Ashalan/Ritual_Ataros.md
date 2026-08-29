@@ -7,7 +7,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: V6TwVaDMs7y2aCcb
 shortcode: ataros
 name:

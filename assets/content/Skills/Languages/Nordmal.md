@@ -10,7 +10,6 @@ id: TRbo0kPeCLEgw5y8
 img: icons/speaking.svg
 shortcode: nordmalng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

@@ -19,7 +19,6 @@ shortcode: siprahipmr
 img: icons/person.svg
 portrait: images/being/siprahipmr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

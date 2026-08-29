@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: cOfFfssP38q4djfH
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp

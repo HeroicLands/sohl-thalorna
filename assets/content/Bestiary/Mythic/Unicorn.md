@@ -13,7 +13,6 @@ img: icons/game-icons/delapouite/unicorn.svg
 portrait: images/being/unicorn-portrait.webp
 shortcode: unicorn
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

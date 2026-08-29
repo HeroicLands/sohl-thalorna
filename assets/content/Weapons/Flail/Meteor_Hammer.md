@@ -10,7 +10,6 @@ id: PvD8SLaG28Nude2X
 img: icons/bolas.svg
 shortcode: MtrHmr
 type: weapongear
-package: thalorna
 sohl:
   kbcat: thrown
   durability: 11

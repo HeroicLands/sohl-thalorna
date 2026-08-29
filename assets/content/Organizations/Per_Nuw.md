@@ -10,7 +10,6 @@ tags:
   - guild
   - hunters
 description: "Per-Aá's chartered guild of professional hunters and beast-specialists — licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
-package: thalorna
 id: Cjr9tB5LW9cI3eui
 name:
   full: Per'Nuw

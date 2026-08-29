@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/rat.svg
 portrait: images/being/thornrat-portrait.webp
 shortcode: thornrat
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

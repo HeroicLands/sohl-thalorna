@@ -7,7 +7,6 @@ id: HcPVVgkUauyvoGg7
 description: "The vast central nome surrounding the imperial city of Wasetkara — seat of the Per-Aá, home of the central bureaucracy and the greatest temples, and site of the royal necropolis; not one of a class but a single enormous province in its own right."
 type: doc
 category: polity
-package: thalorna
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Capital Nome

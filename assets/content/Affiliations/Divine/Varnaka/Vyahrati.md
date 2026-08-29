@@ -29,7 +29,6 @@ epithet: The Keeper of Decay
 domain: Decay
 symbol: A wilting flower encased in dew
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

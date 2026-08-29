@@ -18,7 +18,6 @@ shortcode: suvrtkrtns
 img: icons/person.svg
 portrait: images/being/suvrtkrtns-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: chandrapur
   region: vedyarargn

@@ -18,7 +18,6 @@ shortcode: gthnyldskr
 img: icons/person.svg
 portrait: images/being/gthnyldskr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Labourer (farm)
   station: common_folk

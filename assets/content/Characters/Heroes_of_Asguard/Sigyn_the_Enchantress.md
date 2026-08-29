@@ -18,7 +18,6 @@ shortcode: sgynnchntrs
 img: icons/person.svg
 portrait: images/being/sgynnchntrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Courtier and Counselor
   station: administration

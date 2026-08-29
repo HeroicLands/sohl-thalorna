@@ -26,7 +26,6 @@ epithet: The Lord of Water
 domain: Water
 symbol: A silver droplet falling onto an unrolled ivory scroll
 pantheon: tngvkvnlei
-package: thalorna
 folder: VmJuVqaOGhXrvXQs
 ---
 

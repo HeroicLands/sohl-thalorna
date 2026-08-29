@@ -4,7 +4,6 @@ title: "Heroes of Asguard"
 description: "Variety of Asguardian Heroes."
 type: doc
 category: lore
-package: thalorna
 shortcode: heroessgrd
 ---
 

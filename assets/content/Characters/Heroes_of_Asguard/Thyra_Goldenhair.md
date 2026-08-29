@@ -18,7 +18,6 @@ shortcode: thyrgldnhr
 img: icons/person.svg
 portrait: images/being/thyrgldnhr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Courtesan and Power Broker
   station: administration

@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: tKrnOyBVtG0CF3bZ
 shortcode: sacredforge
 img: images/affiliation/sacredforge.webp

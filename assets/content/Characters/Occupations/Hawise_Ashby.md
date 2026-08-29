@@ -17,7 +17,6 @@ shortcode: hawiseshby
 img: icons/person.svg
 portrait: images/being/hawiseshby-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Huscarl
   station: soldiery

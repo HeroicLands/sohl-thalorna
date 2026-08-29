@@ -7,7 +7,6 @@ id: q282j5zXN7yLMo70
 img: icons/psionics.svg
 shortcode: dsbd
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

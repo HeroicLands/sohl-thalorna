@@ -7,7 +7,6 @@ id: HIWEuBejSbFz9oAK
 img: images/mystery/lynx.webp
 shortcode: lynxttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

@@ -11,7 +11,6 @@ id: BWH6iFGuJf6YCEVw
 img: icons/wind.svg
 shortcode: gatepath
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

@@ -11,7 +11,6 @@ id: 0BRaRmwBJqZXfgdu
 img: icons/divination.svg
 shortcode: mmrybnd
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

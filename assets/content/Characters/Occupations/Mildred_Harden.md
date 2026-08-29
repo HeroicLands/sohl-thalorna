@@ -17,7 +17,6 @@ shortcode: mildrdhrdn
 img: icons/person.svg
 portrait: images/being/mildrdhrdn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Innkeeper
   station: tradesfolk

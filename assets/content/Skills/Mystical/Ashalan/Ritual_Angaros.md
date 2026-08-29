@@ -6,7 +6,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: DXJgxzKWL7gWh3Zi
 shortcode: angaros
 name:

@@ -18,7 +18,6 @@ shortcode: tirushnmrz
 img: icons/person.svg
 portrait: images/being/tirushnmrz-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Glassworker
   station: tradesfolk

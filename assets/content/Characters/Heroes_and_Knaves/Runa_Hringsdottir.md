@@ -18,7 +18,6 @@ shortcode: rnhrngsdtr
 img: icons/person.svg
 portrait: images/being/rnhrngsdtr-portrait.webp
 type: being
-package: thalorna
 sohl:
   archetype: null
   attributes:

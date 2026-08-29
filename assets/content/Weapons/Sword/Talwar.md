@@ -10,7 +10,6 @@ id: OTitFZ13JLsumTLp
 img: icons/sword.svg
 shortcode: Tlwr
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

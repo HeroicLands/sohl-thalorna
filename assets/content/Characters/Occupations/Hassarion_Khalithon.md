@@ -18,7 +18,6 @@ shortcode: hsrnkhlthn
 img: icons/person.svg
 portrait: images/being/hsrnkhlthn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Nobility (Tenant-in-chief)
   station: administration

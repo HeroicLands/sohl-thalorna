@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: kawiltzakl2
-package: thalorna
 terran_analog: ""
 parent:
   regions:

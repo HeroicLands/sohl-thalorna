@@ -10,7 +10,6 @@ languages:
   - kicheklng
 pantheons:
   - itzanpnthn
-package: thalorna
 name:
   full: K’awi’il’ul Ki’ik
   aliases: []

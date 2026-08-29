@@ -12,7 +12,6 @@ id: C2lKcRBHz6bEwQp6
 img: icons/potion.svg
 shortcode: ElxVer
 type: concoctiongear
-package: thalorna
 hmk:
   name: Verity
 sohl:

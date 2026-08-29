@@ -17,7 +17,6 @@ shortcode: aldwngrylng
 img: icons/person.svg
 portrait: images/being/aldwngrylng-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Beggar
   station: common_folk

@@ -10,7 +10,6 @@ id: IPeTvMjwjUsy4hw2
 img: icons/sword.svg
 shortcode: Pata
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

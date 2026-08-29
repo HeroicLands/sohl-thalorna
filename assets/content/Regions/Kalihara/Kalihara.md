@@ -5,7 +5,6 @@ id: m3LDtpeoNeZYwNVD
 description: "Distant continent south of the known world — ancient, vast, and largely unknown to Ankarian civilization, rumored to hold wonders and terrors beyond reckoning."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Kalihara
   aliases: []

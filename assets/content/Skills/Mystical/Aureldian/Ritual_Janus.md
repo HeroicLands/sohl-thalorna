@@ -6,7 +6,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: BUN9hcUL3vfQj1Cg
 shortcode: janus
 img: images/affiliation/janus.webp

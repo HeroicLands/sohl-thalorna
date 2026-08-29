@@ -8,7 +8,6 @@ tags:
   - kalihara
 type: doc
 category: continent
-package: thalorna
 name:
   full: Kalihara Continent
   aliases: []

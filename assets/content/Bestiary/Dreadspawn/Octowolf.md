@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/octowolf-portrait.webp
 shortcode: octowolf
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

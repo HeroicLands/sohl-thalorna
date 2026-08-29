@@ -18,7 +18,6 @@ shortcode: thrgrmrkhld
 img: icons/person.svg
 portrait: images/being/thrgrmrkhld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Timberwright
   station: tradesfolk

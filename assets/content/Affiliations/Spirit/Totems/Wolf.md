@@ -9,7 +9,6 @@ id: wYrQBhECXQGbEMw5
 img: images/mystery/wolf.webp
 shortcode: wolfttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

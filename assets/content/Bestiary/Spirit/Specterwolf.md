@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/spctrwlf-portrait.webp
 shortcode: spctrwlf
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

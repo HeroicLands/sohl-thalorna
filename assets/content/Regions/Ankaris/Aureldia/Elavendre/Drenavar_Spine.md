@@ -7,7 +7,6 @@ aliases:
 id: Vb3c2kCmZT3k4wIa
 type: doc
 category: location
-package: thalorna
 name:
   full: The Drenavar Spine
   aliases:

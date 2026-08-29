@@ -11,7 +11,6 @@ id: gW3MDHnVzboFQQAP
 img: icons/fire.svg
 shortcode: hellfire
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

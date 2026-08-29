@@ -18,7 +18,6 @@ shortcode: thrdsdrtgr
 img: icons/person.svg
 portrait: images/being/thrdsdrtgr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Apothecary
   station: tradesfolk

@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/gecko.svg
 portrait: images/being/kmdbhmth-portrait.webp
 shortcode: kmdbhmth
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

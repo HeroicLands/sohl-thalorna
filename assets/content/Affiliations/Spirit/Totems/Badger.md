@@ -7,7 +7,6 @@ id: WxZsuNGUm8U7JpQn
 img: images/mystery/badger.webp
 shortcode: badgerttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

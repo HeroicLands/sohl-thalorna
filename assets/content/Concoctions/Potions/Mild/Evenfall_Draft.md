@@ -12,7 +12,6 @@ id: pjjpRBGyKWLo0jXJ
 img: icons/potion.svg
 shortcode: PtnSopM
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Soporific, Mild"
 sohl:

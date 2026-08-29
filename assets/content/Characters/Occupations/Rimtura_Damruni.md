@@ -18,7 +18,6 @@ shortcode: rimturdmrn
 img: icons/person.svg
 portrait: images/being/rimturdmrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Litigant
   station: administration

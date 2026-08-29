@@ -12,7 +12,6 @@ id: I7u0weHNvAjOudHA
 img: icons/potion.svg
 shortcode: PtnAromS
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Aromatic, Strong"
 sohl:

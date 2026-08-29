@@ -23,7 +23,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 folder:
 ---
 

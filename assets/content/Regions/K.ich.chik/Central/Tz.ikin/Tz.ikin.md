@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: tzikin2
-package: thalorna
 terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 parent:
   regions:

@@ -11,7 +11,6 @@ id: iLSVpMCMOjb8wFoV
 img: icons/tree.svg
 shortcode: sustain
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

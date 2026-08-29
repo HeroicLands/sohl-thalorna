@@ -18,7 +18,6 @@ shortcode: paturilmsh
 img: icons/person.svg
 portrait: images/being/paturilmsh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cook
   station: common_folk

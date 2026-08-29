@@ -20,7 +20,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 id: jG85lLZE0iRklqeT
 name:
   full: The Order of the Sealed Word

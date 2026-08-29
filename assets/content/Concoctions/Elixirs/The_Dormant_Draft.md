@@ -12,7 +12,6 @@ id: 0ojDJP4nlr8iNww6
 img: icons/potion.svg
 shortcode: ElxQsc
 type: concoctiongear
-package: thalorna
 hmk:
   name: Quiescence
 sohl:

@@ -11,7 +11,6 @@ id: GTQhkCxkIxII0Yvr
 img: icons/water.svg
 shortcode: dewcraft
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

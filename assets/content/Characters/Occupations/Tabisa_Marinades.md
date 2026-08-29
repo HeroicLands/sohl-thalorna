@@ -18,7 +18,6 @@ shortcode: tabismrnds
 img: icons/person.svg
 portrait: images/being/tabismrnds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Huscarl
   station: soldiery

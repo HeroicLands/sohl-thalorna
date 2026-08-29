@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: gLIfCefUOlx6SjOS
 shortcode: tyr
 img: images/affiliation/tyr.webp

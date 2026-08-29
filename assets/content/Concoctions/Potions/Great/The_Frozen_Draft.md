@@ -12,7 +12,6 @@ id: TEX69NJSCCIvRkyz
 img: icons/potion.svg
 shortcode: PtnParG
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Paralytic, Great"
 sohl:

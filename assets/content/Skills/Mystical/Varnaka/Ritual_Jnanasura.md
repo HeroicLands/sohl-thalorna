@@ -8,7 +8,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: WlBBWI2sPx4TJ0mM
 shortcode: jnanasura
 name:

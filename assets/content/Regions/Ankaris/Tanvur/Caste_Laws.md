@@ -4,7 +4,6 @@ aliases:
 id: EWgtewbsESDxr4KT
 type: doc
 category: lore
-package: thalorna
 name:
   full: Caste Laws
   aliases: []

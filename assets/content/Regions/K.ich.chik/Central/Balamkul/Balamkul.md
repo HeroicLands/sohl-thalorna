@@ -13,7 +13,6 @@ type: doc
 category: polity
 subType: city-state
 capital: balamkul2
-package: thalorna
 terran_analog: Central Mexico
 parent:
   regions:

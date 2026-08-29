@@ -26,7 +26,6 @@ epithet: The Lord of Metal
 domain: Metal
 symbol: A silver ingot incised with a single gold character
 pantheon: tngvkvnlei
-package: thalorna
 folder: VmJuVqaOGhXrvXQs
 ---
 

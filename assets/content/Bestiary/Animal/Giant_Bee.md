@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/bee.svg
 portrait: images/being/giantbee-portrait.webp
 shortcode: giantbee
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

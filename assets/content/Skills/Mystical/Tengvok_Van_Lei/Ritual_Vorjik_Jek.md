@@ -7,7 +7,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: 53jio6hpMUzxskpR
 shortcode: vorjikjek
 name:

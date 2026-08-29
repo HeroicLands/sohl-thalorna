@@ -12,7 +12,6 @@ id: UCbUI60LUC7ElgG7
 img: icons/potion.svg
 shortcode: ElxAcid
 type: concoctiongear
-package: thalorna
 hmk:
   name: Acid
 sohl:

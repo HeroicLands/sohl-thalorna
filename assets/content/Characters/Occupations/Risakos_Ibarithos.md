@@ -18,7 +18,6 @@ shortcode: risksbrths
 img: icons/person.svg
 portrait: images/being/risksbrths-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Apothecary
   station: tradesfolk

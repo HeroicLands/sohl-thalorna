@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/elephant.svg
 portrait: images/being/xrthnsvn-portrait.webp
 shortcode: xrthnsvn
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

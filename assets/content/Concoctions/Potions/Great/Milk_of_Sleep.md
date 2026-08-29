@@ -12,7 +12,6 @@ id: jdFdATz00hX178bO
 img: icons/potion.svg
 shortcode: PtnNarG
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Narcotic, Great"
 sohl:

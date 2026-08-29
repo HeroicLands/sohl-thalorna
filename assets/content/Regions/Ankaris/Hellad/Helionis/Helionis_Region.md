@@ -5,7 +5,6 @@ id: HY15sLyXKGRRXfuy
 description: "Region of independent city-states bound by Greek-like culture, shared games, and eternal rivalry — philosophers, sailors, and heroes in a land where honor is paid in blood and glory."
 type: doc
 category: region
-package: thalorna
 name:
   full: Heliónis
   aliases: []

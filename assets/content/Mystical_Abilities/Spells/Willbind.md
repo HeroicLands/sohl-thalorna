@@ -11,7 +11,6 @@ id: gw615tcfV5fcUfa1
 img: icons/circle.svg
 shortcode: willbind
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

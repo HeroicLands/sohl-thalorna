@@ -10,7 +10,6 @@ id: hjBDJ8jqOrBCEkMh
 img: icons/sword.svg
 shortcode: Ktna
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 13

@@ -5,7 +5,6 @@ id: kvtrEydTIquvAWzO
 description: "Senatorial republic on Aelwyth's southwestern coast — pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Republic of Tarvenne
   aliases: []

@@ -4,7 +4,6 @@ aliases:
   - Magnápolis Courts
 tags: []
 description: "The civic government and courts of Magnápolis — ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
-package: thalorna
 id: Qx7mP2vKdL9nRtZ4
 name:
   full: Curia Urbis

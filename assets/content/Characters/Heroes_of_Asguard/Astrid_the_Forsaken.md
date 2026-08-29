@@ -18,7 +18,6 @@ shortcode: astrdfrskn
 img: icons/person.svg
 portrait: images/being/astrdfrskn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Wanderer and Warrior
   station: soldiery

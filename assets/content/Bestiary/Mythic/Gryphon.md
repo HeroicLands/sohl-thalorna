@@ -13,7 +13,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/gryphon-portrait.webp
 shortcode: gryphon
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

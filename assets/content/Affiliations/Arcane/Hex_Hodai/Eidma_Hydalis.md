@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: RqGGvxWFLseXFR0v
 shortcode: hydalis
 img: images/affiliation/hydalis.webp

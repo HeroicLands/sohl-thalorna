@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: bpEDXvO8OYunAR7Q
 shortcode: vekthor
 name:

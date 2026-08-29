@@ -11,7 +11,6 @@ id: pC8WAWa7RIyM5V3h
 img: icons/anvil.svg
 shortcode: crush
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

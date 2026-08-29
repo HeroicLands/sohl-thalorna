@@ -7,7 +7,6 @@ id: deLZxIhQUl5cFaIO
 img: images/mystery/goose.webp
 shortcode: goosettm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

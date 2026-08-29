@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: vrkBIRs8wYIIObUI
 shortcode: zepharis
 img: images/affiliation/zepharis.webp

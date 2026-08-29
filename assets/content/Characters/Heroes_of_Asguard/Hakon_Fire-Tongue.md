@@ -18,7 +18,6 @@ shortcode: hakonfrtng
 img: icons/person.svg
 portrait: images/being/hakonfrtng-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Agitator and Orator
   station: underworld

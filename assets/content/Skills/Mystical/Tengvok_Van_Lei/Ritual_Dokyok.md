@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: ZhwcSRUOtcal0hi4
 shortcode: dokyok
 name:

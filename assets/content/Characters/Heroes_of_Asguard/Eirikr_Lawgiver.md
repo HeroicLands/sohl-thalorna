@@ -19,7 +19,6 @@ shortcode: eirkrlwgvr
 img: icons/person.svg
 portrait: images/being/eirkrlwgvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Judge and Lawman
   station: administration

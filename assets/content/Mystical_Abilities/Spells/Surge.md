@@ -11,7 +11,6 @@ id: splbdeySktYutmaW
 img: icons/water.svg
 shortcode: surge
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

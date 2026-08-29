@@ -11,7 +11,6 @@ id: SQDBS8UiQ4QDc83T
 img: icons/anvil.svg
 shortcode: craft
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

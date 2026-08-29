@@ -10,7 +10,6 @@ id: 7AH7gKN6gGBqKbdb
 img: icons/polearm.svg
 shortcode: Trsha
 type: weapongear
-package: thalorna
 sohl:
   kbcat: polearm
   durability: 12

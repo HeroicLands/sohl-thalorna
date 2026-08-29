@@ -12,7 +12,6 @@ id: 6o8Z3nBxiMekhBLl
 img: icons/potion.svg
 shortcode: PtnHalS
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Hallucinogenic, Strong"
 sohl:

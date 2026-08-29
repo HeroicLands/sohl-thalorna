@@ -18,7 +18,6 @@ shortcode: lyrnvlskyr
 img: icons/person.svg
 portrait: images/being/lyrnvlskyr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Domestic Servant
   station: common_folk

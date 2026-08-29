@@ -10,7 +10,6 @@ id: 9fUBzprkjX25L734
 img: icons/knuckledusters.svg
 shortcode: kncldstr
 type: weapongear
-package: thalorna
 sohl:
   kbcat: club
   durability: 10

@@ -19,7 +19,6 @@ shortcode: tamiyrajat
 img: icons/person.svg
 portrait: images/being/tamiyrajat-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

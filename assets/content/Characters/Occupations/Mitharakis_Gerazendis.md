@@ -18,7 +18,6 @@ shortcode: mthrksgrznds
 img: icons/person.svg
 portrait: images/being/mthrksgrznds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Jester
   station: tradesfolk

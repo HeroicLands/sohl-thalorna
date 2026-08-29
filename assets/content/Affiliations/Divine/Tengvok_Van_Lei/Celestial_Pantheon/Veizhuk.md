@@ -25,7 +25,6 @@ epithet: The Jade Sovereign
 domain: Bureaucracy
 symbol: A gold-tipped brush poised above an open ivory ledger
 pantheon: tngvkvnlei
-package: thalorna
 folder: Zsfl8qxSI1uYIBPU
 ---
 

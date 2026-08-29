@@ -18,7 +18,6 @@ shortcode: azinarafrs
 img: icons/person.svg
 portrait: images/being/azinarafrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Embalmer
   station: tradesfolk

@@ -11,7 +11,6 @@ id: Ca9UXDVlZcAm0442
 img: icons/water.svg
 shortcode: strmflw
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

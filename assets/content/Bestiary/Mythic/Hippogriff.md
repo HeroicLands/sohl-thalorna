@@ -13,7 +13,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/hppgryph-portrait.webp
 shortcode: hppgryph
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

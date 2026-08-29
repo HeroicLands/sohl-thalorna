@@ -13,7 +13,6 @@ id: BMLlZaArJ6H0wPjU
 img: icons/speaking.svg
 shortcode: khazarlng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

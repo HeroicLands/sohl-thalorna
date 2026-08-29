@@ -11,7 +11,6 @@ id: AGDIBlqVdMHfEas9
 img: icons/divination.svg
 shortcode: sense
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

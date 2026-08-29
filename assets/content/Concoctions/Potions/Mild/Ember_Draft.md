@@ -12,7 +12,6 @@ id: aMlypJXRsEpgcUTL
 img: icons/potion.svg
 shortcode: PtnStmM
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Stimulant, Mild"
 sohl:

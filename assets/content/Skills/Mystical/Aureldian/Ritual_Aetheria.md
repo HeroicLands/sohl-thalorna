@@ -8,7 +8,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: oW0wvKd5yhEbUvId
 shortcode: aetheria
 img: images/affiliation/aetheria.webp

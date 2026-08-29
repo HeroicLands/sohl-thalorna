@@ -10,7 +10,6 @@ languages:
   - dunharlng
 pantheons:
   - ashanpnthn
-package: thalorna
 name:
   full: Golshahr
   aliases: []

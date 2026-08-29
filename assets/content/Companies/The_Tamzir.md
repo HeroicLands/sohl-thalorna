@@ -8,7 +8,6 @@ tags:
 description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Ordo Arcanis."
 type: doc
 folder: bVhz4i3fwwT0NDSW
-package: thalorna
 category: company
 id: kYpjFg4FlWJGOYhc
 name:

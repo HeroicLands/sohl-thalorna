@@ -16,7 +16,6 @@ shortcode: isarakhldr
 img: icons/person.svg
 portrait: images/being/isarakhldr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: theradon
   region: helionis

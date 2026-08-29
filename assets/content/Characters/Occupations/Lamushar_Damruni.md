@@ -18,7 +18,6 @@ shortcode: lamshrdmrn
 img: icons/person.svg
 portrait: images/being/lamshrdmrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Litigant
   station: administration

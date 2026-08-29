@@ -11,7 +11,6 @@ languages:
   - vylarilng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Nartûm
   aliases: []

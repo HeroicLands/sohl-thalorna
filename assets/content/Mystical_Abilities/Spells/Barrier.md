@@ -11,7 +11,6 @@ id: t6f45TKttawRfIqp
 img: icons/anvil.svg
 shortcode: barrier
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

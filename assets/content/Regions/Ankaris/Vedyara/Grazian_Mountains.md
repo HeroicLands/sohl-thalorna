@@ -7,7 +7,6 @@ aliases:
 id: Aj5Li2wQQbLyEMm2
 type: doc
 category: location
-package: thalorna
 name:
   full: The Grazian Mountains
   aliases:

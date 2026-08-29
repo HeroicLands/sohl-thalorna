@@ -18,7 +18,6 @@ shortcode: vgbrndrskyrkr
 img: icons/person.svg
 portrait: images/being/vgbrndrskyrkr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdmtrgd
   region: nrdlndsrgn

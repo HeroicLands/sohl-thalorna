@@ -7,7 +7,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: 3P54lJeluJiff8Bt
 shortcode: bahramis
 name:

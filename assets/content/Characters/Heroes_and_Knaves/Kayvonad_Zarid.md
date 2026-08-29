@@ -18,7 +18,6 @@ shortcode: kayvondzrd
 img: icons/person.svg
 portrait: images/being/kayvondzrd-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: tribestrzd
   region: khzryndsrtrgn

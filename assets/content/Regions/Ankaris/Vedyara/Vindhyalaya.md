@@ -6,7 +6,6 @@ tags: []
 description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that bind Vedyara to the desert realms beyond.
 type: doc
 category: polity
-package: thalorna
 name:
   full: Vindhyālaya
   aliases: []

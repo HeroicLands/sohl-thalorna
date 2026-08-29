@@ -16,7 +16,6 @@ shortcode: elyseskyrn
 img: icons/person.svg
 portrait: images/being/elyseskyrn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmlvndr
   region: elavendre

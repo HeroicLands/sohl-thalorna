@@ -11,7 +11,6 @@ languages:
   - valtarlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Calypsa
   aliases: []

@@ -10,7 +10,6 @@ id: XQAoPtRgy7VDeNDj
 img: icons/sword.svg
 shortcode: Waki
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 13

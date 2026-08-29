@@ -18,7 +18,6 @@ shortcode: hrldrhrfnsvld
 img: icons/person.svg
 portrait: images/being/hrldrhrfnsvld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Jeweller
   station: tradesfolk

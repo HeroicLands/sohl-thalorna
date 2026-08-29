@@ -12,7 +12,6 @@ id: P0BmkIohvhBWudJI
 img: icons/potion.svg
 shortcode: ElxShd
 type: concoctiongear
-package: thalorna
 hmk:
   name: Shadowbreath
 sohl:

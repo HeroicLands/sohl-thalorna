@@ -6,7 +6,6 @@ type: doc
 category: settlement
 settlementType: "Coastal Town"
 population: null
-package: thalorna
 name:
   full: Myrtillos
   aliases: []

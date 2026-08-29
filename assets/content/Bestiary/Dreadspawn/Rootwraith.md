@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/rtwrth-portrait.webp
 shortcode: rtwrth
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

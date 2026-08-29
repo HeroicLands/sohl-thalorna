@@ -12,7 +12,6 @@ id: Q3uPX7MHzya7fWvd
 img: icons/potion.svg
 shortcode: PtnPoiG
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Poison, Great"
 sohl:

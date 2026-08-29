@@ -10,7 +10,6 @@ id: Jfu4nHF79lOF9R7g
 img: icons/club.svg
 shortcode: Gada
 type: weapongear
-package: thalorna
 sohl:
   kbcat: club
   durability: 12

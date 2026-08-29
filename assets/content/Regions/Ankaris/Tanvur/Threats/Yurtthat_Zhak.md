@@ -5,7 +5,6 @@ aliases:
 id: kx1DYO4Lv2VXJB93
 type: doc
 category: lore
-package: thalorna
 name:
   full: Yürtthāt Zhāk
   aliases: []

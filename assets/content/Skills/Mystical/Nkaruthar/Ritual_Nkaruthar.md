@@ -9,7 +9,6 @@ tags:
   - nkaruthar
   - faith-skill
 type: skill
-package: thalorna
 id: Bdo25Hi80xYhGCkL
 shortcode: nkaruthar
 name:

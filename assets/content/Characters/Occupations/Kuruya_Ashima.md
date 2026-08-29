@@ -18,7 +18,6 @@ shortcode: kuruyashim
 img: icons/person.svg
 portrait: images/being/kuruyashim-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)
   station: tradesfolk

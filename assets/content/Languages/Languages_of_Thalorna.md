@@ -4,7 +4,6 @@ aliases:
 id: G8edp7iIvjWsum74
 type: doc
 category: lore
-package: thalorna
 name:
   full: Languages of Thalorna
   aliases: []

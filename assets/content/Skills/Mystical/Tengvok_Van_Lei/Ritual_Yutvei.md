@@ -7,7 +7,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: 2AC9IfPUiDi6WvZC
 shortcode: yutvei
 name:

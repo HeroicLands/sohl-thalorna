@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/turtle.svg
 portrait: images/being/mssbcktr-portrait.webp
 shortcode: mssbcktr
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

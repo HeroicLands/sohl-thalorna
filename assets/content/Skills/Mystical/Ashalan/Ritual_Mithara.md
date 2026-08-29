@@ -6,7 +6,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: Vx0cYWArc0EIPhtK
 shortcode: mithara
 name:

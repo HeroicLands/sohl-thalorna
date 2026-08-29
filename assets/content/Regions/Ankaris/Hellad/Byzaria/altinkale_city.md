@@ -10,7 +10,6 @@ languages:
   - byzarnlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Altinkale
   aliases: []

@@ -18,7 +18,6 @@ shortcode: brznlsvnmys
 img: icons/person.svg
 portrait: images/being/brznlsvnmys-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Embalmer
   station: tradesfolk

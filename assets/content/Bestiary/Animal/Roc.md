@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/roc-portrait.webp
 shortcode: roc
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

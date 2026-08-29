@@ -6,7 +6,6 @@ id: ge8mFHcZJR9yiiKZ
 type: doc
 category: settlement
 settlementType: "Town"
-package: thalorna
 name:
   full: Zargandûr
   aliases: []

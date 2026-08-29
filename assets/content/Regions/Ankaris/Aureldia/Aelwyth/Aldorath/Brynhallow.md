@@ -12,7 +12,6 @@ languages:
 pantheons:
   - arldnpnthn
   - asguardian
-package: thalorna
 name:
   full: Brynhallow
   aliases: []

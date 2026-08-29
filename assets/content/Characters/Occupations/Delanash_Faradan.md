@@ -18,7 +18,6 @@ shortcode: delnshfrdn
 img: icons/person.svg
 portrait: images/being/delnshfrdn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

@@ -10,7 +10,6 @@ languages:
   - kheperlng
 pantheons:
   - kemtnpnthn
-package: thalorna
 name:
   full: Per-Ankhet
   aliases: []

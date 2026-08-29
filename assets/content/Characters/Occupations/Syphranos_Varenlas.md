@@ -18,7 +18,6 @@ shortcode: syphrnsvrnls
 img: icons/person.svg
 portrait: images/being/syphrnsvrnls-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Gladiator
   station: soldiery

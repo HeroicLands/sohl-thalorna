@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/centipede.svg
 portrait: images/being/mmmthcnt-portrait.webp
 shortcode: mmmthcnt
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

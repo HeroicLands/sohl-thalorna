@@ -22,7 +22,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 deity: Vúlcan
 epithet: The Forge-Lord
 domain: Fire (destructive aspect)

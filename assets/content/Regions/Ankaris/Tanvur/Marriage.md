@@ -4,7 +4,6 @@ aliases:
 id: FU7XLpmwbZEhNm5R
 type: doc
 category: lore
-package: thalorna
 name:
   full: Marriage
   aliases: []

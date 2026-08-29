@@ -5,7 +5,6 @@ aliases:
 id: NDvnF8oya98zRWdK
 type: doc
 category: lore
-package: thalorna
 name:
   full: Zāthük
   aliases: []

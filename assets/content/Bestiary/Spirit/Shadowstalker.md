@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/spectre.svg
 portrait: images/being/shdwstlk-portrait.webp
 shortcode: shdwstlk
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

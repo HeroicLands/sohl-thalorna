@@ -10,7 +10,6 @@ id: 2F1GQNY7FtnuzueG
 img: icons/circle.svg
 shortcode: Chak
 type: weapongear
-package: thalorna
 sohl:
   kbcat: knife
   durability: 11

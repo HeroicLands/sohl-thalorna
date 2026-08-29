@@ -7,7 +7,6 @@ id: 6Y0jmaBIzCwrwz1p
 img: images/mystery/bobcat.webp
 shortcode: bobcatttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

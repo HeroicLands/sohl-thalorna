@@ -6,7 +6,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: zFlhrN7SMyM8Wgee
 shortcode: zurathra
 name:

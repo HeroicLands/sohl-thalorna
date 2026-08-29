@@ -18,7 +18,6 @@ shortcode: belrkflwyn
 img: icons/person.svg
 portrait: images/being/belrkflwyn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Alchemist
   station: mages

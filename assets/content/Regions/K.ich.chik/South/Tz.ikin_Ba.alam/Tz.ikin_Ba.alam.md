@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: tzikinbalm2
-package: thalorna
 terran_analog: Southern South America
 parent:
   regions:

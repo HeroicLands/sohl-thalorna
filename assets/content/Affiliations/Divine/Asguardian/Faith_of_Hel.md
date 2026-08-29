@@ -5,7 +5,6 @@ id: wBAfvdAOyxI8JvtP
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Hél
   aliases:

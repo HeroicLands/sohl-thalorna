@@ -29,7 +29,6 @@ epithet: The Burning Dissolution
 domain: Destruction
 symbol: A black flame consuming a folded ivory petition
 pantheon: tngvkvnlei
-package: thalorna
 folder: kZkGNxVHbgGyhAHr
 ---
 

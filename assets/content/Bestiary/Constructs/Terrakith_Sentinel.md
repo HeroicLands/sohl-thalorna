@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/trrkthsn-portrait.webp
 shortcode: trrkthsn
 type: being
-package: thalorna
 sohl:
   kbcat: construct
   archetype: 0

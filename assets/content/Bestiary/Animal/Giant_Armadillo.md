@@ -12,7 +12,6 @@ img: icons/game-icons/caro-asercion/pangolin.svg
 portrait: images/being/gntarmdl-portrait.webp
 shortcode: gntarmdl
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

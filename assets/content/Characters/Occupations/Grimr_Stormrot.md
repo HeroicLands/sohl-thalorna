@@ -18,7 +18,6 @@ shortcode: grmrstrmrt
 img: icons/person.svg
 portrait: images/being/grmrstrmrt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Litigant
   station: administration

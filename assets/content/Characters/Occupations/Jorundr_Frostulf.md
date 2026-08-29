@@ -18,7 +18,6 @@ shortcode: jrndrfrstlf
 img: icons/person.svg
 portrait: images/being/jrndrfrstlf-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Gaoler
   station: soldiery

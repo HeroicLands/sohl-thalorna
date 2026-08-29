@@ -11,7 +11,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 id: YVSd04e4cl22zOrC
 name:
   full: Auric Compact

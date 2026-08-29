@@ -7,7 +7,6 @@ id: 8tXNzvMlIs7L5c7v
 img: images/mystery/parrot.webp
 shortcode: parrotttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

@@ -18,7 +18,6 @@ shortcode: leifrdrtgr
 img: icons/person.svg
 portrait: images/being/leifrdrtgr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Farmer
   station: common_folk

@@ -11,7 +11,6 @@ id: e5dFMri5YIyz4MyU
 img: icons/circle.svg
 shortcode: cmmnn
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

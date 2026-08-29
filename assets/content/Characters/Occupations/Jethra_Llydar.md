@@ -18,7 +18,6 @@ shortcode: jethralydr
 img: icons/person.svg
 portrait: images/being/jethralydr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Astrologer
   station: mages

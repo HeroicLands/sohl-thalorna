@@ -6,7 +6,6 @@ aliases:
   - Tîgh'Bahârân
 tags: []
 description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains — meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
-package: thalorna
 id: 7vtIO7T3uCZrFqjH
 name:
   full: The Warrior's Circle of the Dunhara Tribes

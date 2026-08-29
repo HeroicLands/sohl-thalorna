@@ -8,7 +8,6 @@ aliases:
   - Shadow Folk
 tags: []
 description: "Rogue Shadow Sect of escaped Vëndük sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
-package: thalorna
 id: 3IyOxH4SUjooEbfH
 name:
   full: Hëk Zhāk

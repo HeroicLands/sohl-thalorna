@@ -12,7 +12,6 @@ id: nFNF8vmIEh6lWKYu
 img: icons/potion.svg
 shortcode: ElxMsl
 type: concoctiongear
-package: thalorna
 hmk:
   name: Mindsalve
 sohl:

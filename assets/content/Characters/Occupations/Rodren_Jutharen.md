@@ -18,7 +18,6 @@ shortcode: rodrnjthrn
 img: icons/person.svg
 portrait: images/being/rodrnjthrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Miner
   station: common_folk

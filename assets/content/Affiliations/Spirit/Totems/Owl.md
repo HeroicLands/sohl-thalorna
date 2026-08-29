@@ -7,7 +7,6 @@ id: Y1YuK9tAyQoCO3Pd
 img: images/mystery/owl.webp
 shortcode: owlttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

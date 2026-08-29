@@ -8,7 +8,6 @@ name:
   aliases: []
 shortcode: ghststrvln
 type: doc
-package: thalorna
 category: adventure
 thalorna:
   region: provenzrgn

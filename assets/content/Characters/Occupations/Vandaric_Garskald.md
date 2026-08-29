@@ -18,7 +18,6 @@ shortcode: vndrcgrskld
 img: icons/person.svg
 portrait: images/being/vndrcgrskld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Ostler
   station: common_folk

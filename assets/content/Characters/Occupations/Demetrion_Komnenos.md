@@ -18,7 +18,6 @@ shortcode: dmtrnkmnns
 img: icons/person.svg
 portrait: images/being/dmtrnkmnns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

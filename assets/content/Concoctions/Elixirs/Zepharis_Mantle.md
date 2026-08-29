@@ -12,7 +12,6 @@ id: Y5C2npA6Pkp4FVxt
 img: icons/potion.svg
 shortcode: ElxIce
 type: concoctiongear
-package: thalorna
 hmk:
   name: Iceshield
 sohl:

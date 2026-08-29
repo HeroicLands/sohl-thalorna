@@ -7,7 +7,6 @@ name:
   aliases: []
 type: doc
 category: collection
-package: thalorna
 shortcode: mystclblts2
 section: mysticalability
 tags:

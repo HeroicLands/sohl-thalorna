@@ -9,7 +9,6 @@ id: zM3QEMALDimIYvac
 img: icons/psionics.svg
 shortcode: natn
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

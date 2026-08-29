@@ -26,7 +26,6 @@ epithet: The Minister of Storms
 domain: Storms
 symbol: An ivory scroll bound by a forked vermillion thunderbolt
 pantheon: tngvkvnlei
-package: thalorna
 folder: Zsfl8qxSI1uYIBPU
 ---
 

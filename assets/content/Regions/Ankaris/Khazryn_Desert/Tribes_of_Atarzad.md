@@ -10,7 +10,6 @@ aliases:
 tags: []
 type: doc
 category: polity
-package: thalorna
 description: A confederation of twelve tribes who came up out of bondage in Ta'Kheperu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš — the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazran whose oases they took.
 name:
   full: Tribes of Ātárzád

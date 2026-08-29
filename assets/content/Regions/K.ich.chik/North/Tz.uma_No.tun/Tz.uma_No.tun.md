@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: tzumanotun2
-package: thalorna
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 parent:
   regions:

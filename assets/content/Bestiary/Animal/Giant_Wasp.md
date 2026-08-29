@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/wasp-sting.svg
 portrait: images/being/gntwsp-portrait.webp
 shortcode: gntwsp
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

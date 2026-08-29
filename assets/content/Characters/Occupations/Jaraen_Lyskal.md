@@ -18,7 +18,6 @@ shortcode: jaranlyskl
 img: icons/person.svg
 portrait: images/being/jaranlyskl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Toymaker
   station: tradesfolk

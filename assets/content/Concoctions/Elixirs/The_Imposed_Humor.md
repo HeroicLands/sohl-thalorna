@@ -12,7 +12,6 @@ id: sTHLJjvB1WGtGsau
 img: icons/potion.svg
 shortcode: ElxPas
 type: concoctiongear
-package: thalorna
 hmk:
   name: Passion
 sohl:

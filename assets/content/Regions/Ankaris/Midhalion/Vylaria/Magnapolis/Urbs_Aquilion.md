@@ -10,7 +10,6 @@ tags:
   - magnapolis
 description: "Urbs Aquilion, the Eagle City — the walled citadel atop Mons Aquila at the heart of Magnápolis, the sacred and administrative core of the Vylarian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Officia Imperii, the inner Panepistemium, and the Grand Palace."
 type: doc
-package: thalorna
 category: settlement
 settlementType: "Imperial Citadel"
 population: null

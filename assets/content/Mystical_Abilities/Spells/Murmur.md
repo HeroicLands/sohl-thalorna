@@ -11,7 +11,6 @@ id: I9GfCc23Fy2X2yJy
 img: icons/wind.svg
 shortcode: murmur
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

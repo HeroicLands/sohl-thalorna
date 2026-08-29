@@ -18,7 +18,6 @@ shortcode: chnkhrghrths
 img: icons/person.svg
 portrait: images/being/chnkhrghrths-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Ostler
   station: common_folk

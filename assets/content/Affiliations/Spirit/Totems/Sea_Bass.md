@@ -9,7 +9,6 @@ id: tGunwcnHgwsjE6Ht
 img: images/mystery/seabass.webp
 shortcode: seabassttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

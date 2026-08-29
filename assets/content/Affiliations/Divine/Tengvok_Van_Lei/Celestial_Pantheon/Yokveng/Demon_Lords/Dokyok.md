@@ -29,7 +29,6 @@ epithet: The Lost Road
 domain: Misdirection
 symbol: A black signpost pointing in three directions at once, none inscribed
 pantheon: tngvkvnlei
-package: thalorna
 folder: kZkGNxVHbgGyhAHr
 ---
 

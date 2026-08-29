@@ -12,7 +12,6 @@ id: TfQhH6ZIzhhvga7c
 img: icons/potion.svg
 shortcode: ElxFrm
 type: concoctiongear
-package: thalorna
 hmk:
   name: Formfix
 sohl:

@@ -11,7 +11,6 @@ id: MfKkYChM6yQIBNdK
 img: icons/tree.svg
 shortcode: fortress
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

@@ -7,7 +7,6 @@ id: MU6HVFla6YShVxgi
 img: images/mystery/lion.webp
 shortcode: lionttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

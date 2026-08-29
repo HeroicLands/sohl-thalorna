@@ -7,7 +7,6 @@ tags:
   - south-marches
   - exiles
 description: "A warband of the Houseless gathered in the drylands south of Bethûa — exiled Bethûan women and cast-out Spádai eunuch-warriors, padded with marcher men — led by the renegade spear-sister Yâsûra the Jackal."
-package: thalorna
 id: 8B9OCvy7HCTmXs7m
 name:
   full: The Jackals of the South Marches

@@ -18,7 +18,6 @@ shortcode: athlwvthrnd
 img: icons/person.svg
 portrait: images/being/athlwvthrnd-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

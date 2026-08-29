@@ -17,7 +17,6 @@ shortcode: aevrhfrngr
 img: icons/person.svg
 portrait: images/being/aevrhfrngr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Longshoreman
   station: common_folk

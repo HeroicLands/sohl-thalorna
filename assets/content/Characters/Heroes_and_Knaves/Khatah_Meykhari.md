@@ -18,7 +18,6 @@ shortcode: khathmykhr
 img: icons/person.svg
 portrait: images/being/khathmykhr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

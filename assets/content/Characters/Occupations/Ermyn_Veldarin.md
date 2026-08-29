@@ -18,7 +18,6 @@ shortcode: ermynvldrn
 img: icons/person.svg
 portrait: images/being/ermynvldrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

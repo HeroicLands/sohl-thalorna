@@ -11,7 +11,6 @@ id: 0F7E9LVpPmZb74aR
 img: icons/divination.svg
 shortcode: unlock
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

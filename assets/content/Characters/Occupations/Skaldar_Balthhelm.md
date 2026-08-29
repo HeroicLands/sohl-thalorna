@@ -18,7 +18,6 @@ shortcode: skldrblthlm
 img: icons/person.svg
 portrait: images/being/skldrblthlm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Toymaker
   station: tradesfolk

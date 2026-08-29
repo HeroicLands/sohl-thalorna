@@ -18,7 +18,6 @@ shortcode: emynaothrl
 img: icons/person.svg
 portrait: images/being/emynaothrl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Courtesan
   station: administration

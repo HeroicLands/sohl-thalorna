@@ -11,7 +11,6 @@ id: QCVwLSYn2CPwg2mw
 img: icons/tree.svg
 shortcode: thrall
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

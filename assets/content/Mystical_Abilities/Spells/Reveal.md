@@ -11,7 +11,6 @@ id: jstvC5lsmYjLoicv
 img: icons/anvil.svg
 shortcode: reveal
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

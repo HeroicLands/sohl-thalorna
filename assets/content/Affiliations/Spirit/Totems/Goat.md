@@ -7,7 +7,6 @@ id: lWxRr0XkTqO3qDNa
 img: images/mystery/goat.webp
 shortcode: goatttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

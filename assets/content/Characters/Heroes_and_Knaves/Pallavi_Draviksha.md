@@ -18,7 +18,6 @@ shortcode: palvdrvksh
 img: icons/person.svg
 portrait: images/being/palvdrvksh-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vyalendra2
   region: vedyarargn

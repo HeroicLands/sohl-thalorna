@@ -11,7 +11,6 @@ id: PFmYE7eprAqqvRwL
 img: icons/wind.svg
 shortcode: audible
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

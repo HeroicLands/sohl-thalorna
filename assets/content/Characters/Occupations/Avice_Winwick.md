@@ -17,7 +17,6 @@ shortcode: avicewnwck
 img: icons/person.svg
 portrait: images/being/avicewnwck-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercantyler (Supercargo)
   station: tradesfolk

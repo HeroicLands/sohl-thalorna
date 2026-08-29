@@ -20,7 +20,6 @@ population: "~120,000,000"
 img: ""
 type: doc
 category: polity
-package: thalorna
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 demonym: Tānvüri
 subType: empire

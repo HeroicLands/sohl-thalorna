@@ -11,7 +11,6 @@ id: NjnLfM9cs8UzUmsc
 img: icons/tree.svg
 shortcode: flow
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

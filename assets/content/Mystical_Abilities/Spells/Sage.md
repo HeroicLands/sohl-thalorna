@@ -11,7 +11,6 @@ id: rfdwqUvR6xAR5w7Q
 img: icons/divination.svg
 shortcode: sage
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

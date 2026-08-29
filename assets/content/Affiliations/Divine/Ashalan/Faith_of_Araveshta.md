@@ -16,7 +16,6 @@ sohl:
   relation:
     ashanpnthn: aligned
   archetype: null
-package: thalorna
 name:
   full: Faith of Árávēštä
   aliases: []

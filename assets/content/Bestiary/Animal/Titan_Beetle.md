@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/scarab-beetle.svg
 portrait: images/being/ttnbtl-portrait.webp
 shortcode: ttnbtl
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

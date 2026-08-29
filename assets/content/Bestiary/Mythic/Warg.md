@@ -13,7 +13,6 @@ img: icons/game-icons/lorc/wolf-head.svg
 portrait: images/being/warg-portrait.webp
 shortcode: warg
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

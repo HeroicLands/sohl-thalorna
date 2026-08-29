@@ -18,7 +18,6 @@ shortcode: girmuntknm
 img: icons/person.svg
 portrait: images/being/girmuntknm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Apothecary
   station: tradesfolk

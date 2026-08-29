@@ -18,7 +18,6 @@ shortcode: dernklmrth
 img: icons/person.svg
 portrait: images/being/dernklmrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Salter
   station: common_folk

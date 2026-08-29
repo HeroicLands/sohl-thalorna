@@ -11,7 +11,6 @@ id: YiCIXMfFzyKwIpDq
 img: icons/wind.svg
 shortcode: invctn
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

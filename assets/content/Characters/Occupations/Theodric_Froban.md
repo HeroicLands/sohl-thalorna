@@ -18,7 +18,6 @@ shortcode: thdrcfrdbn
 img: icons/person.svg
 portrait: images/being/thdrcfrdbn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Miner
   station: common_folk

@@ -10,7 +10,6 @@ languages:
   - kicheklng
 pantheons:
   - itzanpnthn
-package: thalorna
 name:
   full: Tz'ikin
   aliases: []

@@ -9,7 +9,6 @@ tags:
   - xerathia
 type: doc
 category: continent
-package: thalorna
 name:
   full: Xerathia
   aliases: []

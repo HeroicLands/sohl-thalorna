@@ -18,7 +18,6 @@ shortcode: shenurbapt
 img: icons/person.svg
 portrait: images/being/shenurbapt-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

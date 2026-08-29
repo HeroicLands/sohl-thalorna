@@ -11,7 +11,6 @@ id: FEscs8keFqDdo76Q
 img: icons/tree.svg
 shortcode: ravenous
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

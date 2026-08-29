@@ -17,7 +17,6 @@ shortcode: lefrnchlwl
 img: icons/person.svg
 portrait: images/being/lefrnchlwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Trapper
   station: common_folk

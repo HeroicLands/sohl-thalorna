@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/octopus.svg
 portrait: images/being/gntoctps-portrait.webp
 shortcode: gntoctps
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

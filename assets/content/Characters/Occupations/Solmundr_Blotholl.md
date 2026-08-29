@@ -18,7 +18,6 @@ shortcode: slmndrblthl
 img: icons/person.svg
 portrait: images/being/slmndrblthl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Archer
   station: soldiery

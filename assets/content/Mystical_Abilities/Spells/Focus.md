@@ -11,7 +11,6 @@ id: dcVUfAg3oiaK3etL
 img: icons/wind.svg
 shortcode: focus
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

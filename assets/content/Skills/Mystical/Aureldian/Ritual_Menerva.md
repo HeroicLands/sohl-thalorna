@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: yKEkerwHS6932xUc
 shortcode: menerva
 img: images/affiliation/menerva.webp

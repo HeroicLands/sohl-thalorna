@@ -18,7 +18,6 @@ shortcode: vornantlgn
 img: icons/person.svg
 portrait: images/being/vornantlgn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scholar
   station: tradesfolk

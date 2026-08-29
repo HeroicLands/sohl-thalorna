@@ -5,7 +5,6 @@ tags:
   - underworld
 description: "Overview of competitive regional criminal syndicates—fragmented underworld where profit drives constantly shifting alliances and violent territorial disputes."
 type: doc
-package: thalorna
 category: lore
 id: DRj0wzDUbdTo5p3U
 name:

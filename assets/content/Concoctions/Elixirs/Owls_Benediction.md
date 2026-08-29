@@ -12,7 +12,6 @@ id: TMhES4h626x22MCA
 img: icons/potion.svg
 shortcode: ElxDrk
 type: concoctiongear
-package: thalorna
 hmk:
   name: Darkvision
 sohl:

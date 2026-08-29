@@ -18,7 +18,6 @@ shortcode: sabirajira
 img: icons/person.svg
 portrait: images/being/sabirajira-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kalihara
   region: kaliharargn

@@ -4,7 +4,6 @@ aliases:
 id: IXbkAjZGvlH7go8k
 type: doc
 category: lore
-package: thalorna
 name:
   full: Dreadspawn
   aliases: []

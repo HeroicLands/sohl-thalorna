@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: BPCoWMJ6RswEUI5K
 shortcode: freyja
 img: images/affiliation/freyja.webp

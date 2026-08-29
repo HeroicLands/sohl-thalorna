@@ -18,7 +18,6 @@ shortcode: zdmrsmkthn
 img: icons/person.svg
 portrait: images/being/zdmrsmkthn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cartographer/Artist
   station: tradesfolk

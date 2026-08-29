@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: VKOYPsnyPcuFREoj
 shortcode: venusia
 img: images/affiliation/venusia.webp

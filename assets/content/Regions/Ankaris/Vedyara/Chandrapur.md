@@ -5,7 +5,6 @@ id: XrRCHHTRbk8tAoQM
 description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River — artisans whose work commands prices across the known realms."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Chandrapur
   aliases: []

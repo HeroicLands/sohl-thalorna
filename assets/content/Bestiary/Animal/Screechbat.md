@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/bat.svg
 portrait: images/being/scrchbt-portrait.webp
 shortcode: scrchbt
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

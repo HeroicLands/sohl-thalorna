@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/dinosaur-rex.svg
 portrait: images/being/thrnbckr-portrait.webp
 shortcode: thrnbckr
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

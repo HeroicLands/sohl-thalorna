@@ -11,7 +11,6 @@ id: X9xsP4cXbJrLMG6n
 img: icons/tree.svg
 shortcode: call
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

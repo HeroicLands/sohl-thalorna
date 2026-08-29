@@ -8,7 +8,6 @@ type: doc
 category: settlement
 settlementType: "Áelendan settlement and ceremonial center"
 population: null
-package: thalorna
 name:
   full: Eshálosha Lodge
   aliases:

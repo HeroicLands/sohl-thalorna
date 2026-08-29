@@ -3,7 +3,6 @@ aliases:
   - K’ich'chik Language Lexicon and Naming Guide
 type: doc
 category: lore
-package: thalorna
 id: 6JdPzB4QxWfdrUbu
 shortcode: kchchklngglxcnmngd
 name:

@@ -18,7 +18,6 @@ shortcode: faradunfrn
 img: icons/person.svg
 portrait: images/being/faradunfrn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: sultntmrdd
   region: amradadrgn

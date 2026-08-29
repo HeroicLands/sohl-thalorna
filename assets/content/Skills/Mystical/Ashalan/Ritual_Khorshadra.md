@@ -7,7 +7,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: FeZJJ076sgnlyvxD
 shortcode: korsadra
 name:

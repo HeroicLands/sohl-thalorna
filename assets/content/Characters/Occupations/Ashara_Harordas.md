@@ -18,7 +18,6 @@ shortcode: asharhrrds
 img: icons/person.svg
 portrait: images/being/asharhrrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Swordmaster
   station: soldiery

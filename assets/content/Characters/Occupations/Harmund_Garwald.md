@@ -18,7 +18,6 @@ shortcode: hrmndgrwld
 img: icons/person.svg
 portrait: images/being/hrmndgrwld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Weaponcrafter (Armorer)
   station: tradesfolk

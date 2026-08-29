@@ -9,7 +9,6 @@ name:
   full: Maul of Gashang
   aliases: []
 shortcode: maulgashng
-package: thalorna
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy

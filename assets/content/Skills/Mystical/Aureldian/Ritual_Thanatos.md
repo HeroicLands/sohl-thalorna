@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: 7MPkk7GpOvOdS67r
 shortcode: thanatos
 img: images/affiliation/thanatos.webp

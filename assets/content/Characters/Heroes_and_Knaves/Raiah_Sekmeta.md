@@ -18,7 +18,6 @@ shortcode: raiahsekmt
 img: icons/person.svg
 portrait: images/being/raiahsekmt-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

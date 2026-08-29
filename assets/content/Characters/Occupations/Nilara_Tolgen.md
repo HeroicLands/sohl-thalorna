@@ -18,7 +18,6 @@ shortcode: nilaratlgn
 img: icons/person.svg
 portrait: images/being/nilaratlgn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Archer
   station: soldiery

@@ -12,7 +12,6 @@ id: v7TG6wRvpcLeDrtZ
 img: icons/potion.svg
 shortcode: ElxEqp
 type: concoctiongear
-package: thalorna
 hmk:
   name: Equipose
 sohl:

@@ -18,7 +18,6 @@ shortcode: safrsghlrs
 img: icons/person.svg
 portrait: images/being/safrsghlrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Clothier
   station: tradesfolk

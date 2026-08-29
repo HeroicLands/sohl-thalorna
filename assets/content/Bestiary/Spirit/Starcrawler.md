@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/strcrwlr-portrait.webp
 shortcode: strcrwlr
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

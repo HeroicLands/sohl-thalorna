@@ -12,7 +12,6 @@ id: 2iHERbCpZn2DzEUS
 img: icons/potion.svg
 shortcode: ElxAir
 type: concoctiongear
-package: thalorna
 hmk:
   name: Airtap
 sohl:

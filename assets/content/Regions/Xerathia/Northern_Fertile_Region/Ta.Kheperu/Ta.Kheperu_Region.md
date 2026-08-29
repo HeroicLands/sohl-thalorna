@@ -14,7 +14,6 @@ shortcode: takheperurgn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Kheperi
 parent:
   regions:

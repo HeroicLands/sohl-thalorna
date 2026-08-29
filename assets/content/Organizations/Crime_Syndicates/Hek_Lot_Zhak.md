@@ -7,7 +7,6 @@ aliases:
   - The Black Lotus
 tags: []
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
-package: thalorna
 id: sPtFcL4yWju92kUg
 name:
   full: Hëk Lōt Zhāk

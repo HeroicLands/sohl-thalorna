@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: zqCvSZmvCT433HXh
 shortcode: odinn
 img: images/affiliation/odinn.webp

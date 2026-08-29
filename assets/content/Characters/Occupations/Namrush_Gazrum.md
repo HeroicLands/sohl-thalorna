@@ -18,7 +18,6 @@ shortcode: namrshgzrm
 img: icons/person.svg
 portrait: images/being/namrshgzrm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

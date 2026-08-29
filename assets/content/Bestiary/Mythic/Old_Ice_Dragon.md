@@ -14,7 +14,6 @@ img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/oldicdrg-portrait.webp
 shortcode: oldicdrg
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

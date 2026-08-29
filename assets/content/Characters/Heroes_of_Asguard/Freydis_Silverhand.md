@@ -18,7 +18,6 @@ shortcode: frydslvrhnd
 img: icons/person.svg
 portrait: images/being/frydslvrhnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Merchant and Diplomat
   station: tradesfolk

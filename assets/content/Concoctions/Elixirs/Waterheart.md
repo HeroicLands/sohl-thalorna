@@ -12,7 +12,6 @@ id: XFda9zcmLdiJF4aW
 img: icons/potion.svg
 shortcode: ElxAqu
 type: concoctiongear
-package: thalorna
 hmk:
   name: Aqua
 sohl:

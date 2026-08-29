@@ -10,7 +10,6 @@ languages:
   - vedyarlng
 pantheons:
   - varakpnthn
-package: thalorna
 name:
   full: Vyālendra
   aliases: []

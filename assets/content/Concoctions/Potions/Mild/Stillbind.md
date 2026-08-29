@@ -12,7 +12,6 @@ id: nqar86tGCHvZFeCx
 img: icons/potion.svg
 shortcode: PtnParM
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Paralytic, Mild"
 sohl:

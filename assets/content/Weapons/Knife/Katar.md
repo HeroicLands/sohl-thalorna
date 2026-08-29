@@ -10,7 +10,6 @@ id: QbOkvwNX1cWioyyn
 img: icons/broad-dagger.svg
 shortcode: Katr
 type: weapongear
-package: thalorna
 sohl:
   kbcat: knife
   durability: 12

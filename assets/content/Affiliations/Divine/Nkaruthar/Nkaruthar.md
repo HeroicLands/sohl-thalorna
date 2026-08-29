@@ -21,7 +21,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 deity: "Nkaru'thar"
 epithet: The Eternal Flame
 domain: Creation, destruction, and renewal

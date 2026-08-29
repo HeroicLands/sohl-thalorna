@@ -18,7 +18,6 @@ shortcode: almrdslrdrn
 img: icons/person.svg
 portrait: images/being/almrdslrdrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Caravan Guard
   station: soldiery

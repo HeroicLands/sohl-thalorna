@@ -7,7 +7,6 @@ tags:
   - tharivaan
   - faith-skill
 type: skill
-package: thalorna
 id: 35hBhSr9lDRVfP5D
 shortcode: tharivaan
 name:

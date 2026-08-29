@@ -12,7 +12,6 @@ id: jMdpyv7dMnWrLmwJ
 img: icons/potion.svg
 shortcode: ElxSus
 type: concoctiongear
-package: thalorna
 hmk:
   name: Sustenance
 sohl:

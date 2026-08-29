@@ -7,7 +7,6 @@ id: xbBAhWDbWnyD8p2l
 img: images/mystery/deer.webp
 shortcode: deerttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

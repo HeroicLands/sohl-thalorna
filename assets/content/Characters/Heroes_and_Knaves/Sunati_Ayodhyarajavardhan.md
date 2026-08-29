@@ -18,7 +18,6 @@ shortcode: sntydhyrjvrdhn
 img: icons/person.svg
 portrait: images/being/sntydhyrjvrdhn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: chandrapur
   region: vedyarargn

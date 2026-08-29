@@ -11,7 +11,6 @@ id: d1vIF9cm4oh89Llz
 img: icons/water.svg
 shortcode: chill
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

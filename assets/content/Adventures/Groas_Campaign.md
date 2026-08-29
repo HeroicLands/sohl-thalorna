@@ -8,7 +8,6 @@ name:
   aliases: []
 shortcode: groascmpgn
 type: doc
-package: thalorna
 category: adventure
 topic: true
 folder: TokyoDCf1w4elPns

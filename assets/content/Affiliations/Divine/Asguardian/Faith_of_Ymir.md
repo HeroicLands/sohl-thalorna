@@ -5,7 +5,6 @@ id: iw5CaLGOvhF2ddKY
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Ymir
   aliases:

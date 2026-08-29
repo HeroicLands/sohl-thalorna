@@ -11,7 +11,6 @@ id: IGm0xYNAo1m3SAXR
 img: icons/circle.svg
 shortcode: drain
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

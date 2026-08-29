@@ -8,7 +8,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: 855hIkKjnj5x6MHj
 shortcode: maat
 name:

@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/sheep.svg
 portrait: images/being/stoneram-portrait.webp
 shortcode: stoneram
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

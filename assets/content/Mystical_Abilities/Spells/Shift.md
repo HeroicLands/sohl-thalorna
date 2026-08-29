@@ -11,7 +11,6 @@ id: TlruOEmbjbH9a3mU
 img: icons/tree.svg
 shortcode: shift
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

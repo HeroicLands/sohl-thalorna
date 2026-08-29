@@ -11,7 +11,6 @@ id: OzKv2XLiqN0IYtaQ
 img: icons/divination.svg
 shortcode: loyalty
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

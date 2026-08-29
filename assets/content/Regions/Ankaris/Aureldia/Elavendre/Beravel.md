@@ -6,7 +6,6 @@ type: doc
 category: settlement
 settlementType: "City"
 population: null
-package: thalorna
 id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel

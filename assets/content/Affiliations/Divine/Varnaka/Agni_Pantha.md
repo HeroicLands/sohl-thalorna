@@ -31,7 +31,6 @@ epithet: The Path of the Flame
 domain: Purification
 symbol: "An ascetic's pilgrim staff bound with a single flame"
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

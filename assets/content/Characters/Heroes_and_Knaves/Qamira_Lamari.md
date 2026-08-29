@@ -18,7 +18,6 @@ shortcode: qamiralamr
 img: icons/person.svg
 portrait: images/being/qamiralamr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kalihara
   region: kaliharargn

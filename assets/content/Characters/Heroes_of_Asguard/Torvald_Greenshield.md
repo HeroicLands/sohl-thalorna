@@ -18,7 +18,6 @@ shortcode: trvldgrnshld
 img: icons/person.svg
 portrait: images/being/trvldgrnshld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Farmer and Protector
   station: soldiery

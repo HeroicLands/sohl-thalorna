@@ -18,7 +18,6 @@ shortcode: kiriszyrnd
 img: icons/person.svg
 portrait: images/being/kiriszyrnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cook
   station: common_folk

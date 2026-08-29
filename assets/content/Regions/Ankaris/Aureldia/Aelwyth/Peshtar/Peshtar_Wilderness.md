@@ -14,7 +14,6 @@ shortcode: pshtrwldrns
 img: ""
 type: doc
 category: region
-package: thalorna
 parent:
   continents:
     - ankrscntnnt

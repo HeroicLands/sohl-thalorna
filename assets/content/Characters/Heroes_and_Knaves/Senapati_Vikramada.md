@@ -18,7 +18,6 @@ shortcode: senptvkrmd
 img: icons/person.svg
 portrait: images/being/senptvkrmd-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vyalendra2
   region: vedyarargn

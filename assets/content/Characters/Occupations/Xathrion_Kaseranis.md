@@ -18,7 +18,6 @@ shortcode: xthrnksrns
 img: icons/person.svg
 portrait: images/being/xthrnksrns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Physician
   station: tradesfolk

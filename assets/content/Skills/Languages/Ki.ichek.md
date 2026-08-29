@@ -11,7 +11,6 @@ id: fGAccw2evZvOQSJO
 img: icons/speaking.svg
 shortcode: kicheklng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

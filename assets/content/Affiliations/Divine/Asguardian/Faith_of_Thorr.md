@@ -5,7 +5,6 @@ id: K9I6050D5wN7Vs3Z
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Thórr
   aliases:

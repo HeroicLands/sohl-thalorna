@@ -11,7 +11,6 @@ languages:
 pantheons:
   - arldnpnthn
   - ashanpnthn
-package: thalorna
 name:
   full: Kethara
   aliases: []

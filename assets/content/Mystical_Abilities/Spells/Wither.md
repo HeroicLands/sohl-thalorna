@@ -11,7 +11,6 @@ id: RtFhB2fBxWQ1qCy1
 img: icons/tree.svg
 shortcode: wither
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

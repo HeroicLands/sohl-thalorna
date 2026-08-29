@@ -18,7 +18,6 @@ shortcode: vshnshvdysgrml
 img: icons/person.svg
 portrait: images/being/vshnshvdysgrml-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: dhnrktjnpd
   region: vedyarargn

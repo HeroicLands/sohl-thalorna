@@ -7,7 +7,6 @@ id: T2EpauXH7NkoWDwt
 img: images/mystery/eagle.webp
 shortcode: eaglettm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

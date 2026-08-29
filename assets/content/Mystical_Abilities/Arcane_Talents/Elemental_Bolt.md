@@ -9,7 +9,6 @@ id: gDV7D2Cmb3Ww5sBe
 img: icons/psionics.svg
 shortcode: eblt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

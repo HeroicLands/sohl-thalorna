@@ -12,7 +12,6 @@ shortcode: haradregin
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: ""
 parent:
   regions:

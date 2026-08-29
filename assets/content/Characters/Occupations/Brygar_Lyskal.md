@@ -18,7 +18,6 @@ shortcode: brygrlyskl
 img: icons/person.svg
 portrait: images/being/brygrlyskl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

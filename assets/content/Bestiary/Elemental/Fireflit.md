@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/fireflit-portrait.webp
 shortcode: fireflit
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

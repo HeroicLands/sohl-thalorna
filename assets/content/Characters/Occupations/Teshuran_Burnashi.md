@@ -18,7 +18,6 @@ shortcode: tshrnbrnsh
 img: icons/person.svg
 portrait: images/being/tshrnbrnsh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Swordmaster
   station: soldiery

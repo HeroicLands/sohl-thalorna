@@ -9,7 +9,6 @@ id: uJg3j6BQHQJDaAnZ
 img: icons/circle.svg
 shortcode: invstmnt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

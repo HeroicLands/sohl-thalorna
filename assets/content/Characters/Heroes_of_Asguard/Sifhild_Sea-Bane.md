@@ -18,7 +18,6 @@ shortcode: sifhildsbn
 img: icons/person.svg
 portrait: images/being/sifhildsbn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Sailor and Warrior
   station: soldiery

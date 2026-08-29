@@ -18,7 +18,6 @@ shortcode: asbjrnkhrt
 img: icons/person.svg
 portrait: images/being/asbjrnkhrt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Woodsman and Guardian
   station: clergy

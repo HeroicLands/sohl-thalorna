@@ -12,7 +12,6 @@ id: takstEy7ZXM9GrEA
 img: icons/potion.svg
 shortcode: ElxFmb
 type: concoctiongear
-package: thalorna
 hmk:
   name: Fumebomb
 sohl:

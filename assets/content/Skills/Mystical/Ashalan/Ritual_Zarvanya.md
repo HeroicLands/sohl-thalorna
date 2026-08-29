@@ -6,7 +6,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: rJttQjmxnBs2t5TL
 shortcode: zarvanya
 name:

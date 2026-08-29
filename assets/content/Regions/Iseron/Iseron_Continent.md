@@ -7,7 +7,6 @@ tags:
   - iseron
 type: doc
 category: continent
-package: thalorna
 id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:

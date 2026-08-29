@@ -19,7 +19,6 @@ shortcode: banutjaut
 img: icons/person.svg
 portrait: images/being/banutjaut-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

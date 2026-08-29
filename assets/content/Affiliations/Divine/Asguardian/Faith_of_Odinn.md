@@ -5,7 +5,6 @@ id: G4BhgaiMv2pTKezK
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Óðinn
   aliases:

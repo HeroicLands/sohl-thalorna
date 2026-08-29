@@ -8,7 +8,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: sfGrabEsJPuY6P6t
 shortcode: meghanatha
 name:

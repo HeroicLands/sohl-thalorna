@@ -15,7 +15,6 @@ shortcode: nrdlndsrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
 demonym: Normen
 parent:

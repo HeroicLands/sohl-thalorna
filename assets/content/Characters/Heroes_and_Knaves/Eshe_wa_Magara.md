@@ -18,7 +18,6 @@ shortcode: eshewamagr
 img: icons/person.svg
 portrait: images/being/eshewamagr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: okharis
   region: okharisrgn

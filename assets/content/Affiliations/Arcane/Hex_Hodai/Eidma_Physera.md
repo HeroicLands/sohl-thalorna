@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: VJaKiwYduxtGC2LR
 shortcode: physera
 img: images/affiliation/physera.webp

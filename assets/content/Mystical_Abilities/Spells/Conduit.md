@@ -11,7 +11,6 @@ id: kIDckuJ9okXrbTKj
 img: icons/wind.svg
 shortcode: conduit
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

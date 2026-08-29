@@ -7,7 +7,6 @@ id: mW6pCO4zFiwfJFhA
 img: icons/psionics.svg
 shortcode: xmut
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

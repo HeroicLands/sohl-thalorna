@@ -18,7 +18,6 @@ shortcode: alyrklmrth
 img: icons/person.svg
 portrait: images/being/alyrklmrth-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmlvndr
   region: elavendre

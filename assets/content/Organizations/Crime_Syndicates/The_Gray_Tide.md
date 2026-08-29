@@ -3,7 +3,6 @@ aliases:
   - The Gray Tide
 tags: []
 description: "Maritime smuggling confederation of northern captains moving contraband, human cargo, and stolen goods through unpatrolled coastal waters and hidden coves."
-package: thalorna
 id: Z6P0QVF1y5SOs9WA
 name:
   full: The Gray Tide

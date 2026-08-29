@@ -18,7 +18,6 @@ shortcode: salmnhdrks
 img: icons/person.svg
 portrait: images/being/salmnhdrks-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scholar
   station: tradesfolk

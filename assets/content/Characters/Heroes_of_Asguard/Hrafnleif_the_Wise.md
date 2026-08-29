@@ -18,7 +18,6 @@ shortcode: hrafnlefws
 img: icons/person.svg
 portrait: images/being/hrafnlefws-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Seer and Runemaster
   station: mages

@@ -9,7 +9,6 @@ id: FQ4De4P00vQNKAkG
 img: icons/circle.svg
 shortcode: monitor
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

@@ -16,7 +16,6 @@ shortcode: unreldskar
 img: icons/person.svg
 portrait: images/being/unreldskar-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmvthgrd
   region: nrdlndsrgn

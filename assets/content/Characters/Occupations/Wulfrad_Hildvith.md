@@ -18,7 +18,6 @@ shortcode: wlfrdhldvth
 img: icons/person.svg
 portrait: images/being/wlfrdhldvth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms (Sapper)
   station: soldiery

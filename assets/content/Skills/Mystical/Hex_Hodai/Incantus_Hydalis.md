@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: 3RxrV5qLjiqszhJy
 shortcode: hydalis
 img: images/affiliation/hydalis.webp

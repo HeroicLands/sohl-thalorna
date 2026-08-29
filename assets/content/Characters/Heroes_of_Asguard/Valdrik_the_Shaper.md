@@ -18,7 +18,6 @@ shortcode: valdrkshpr
 img: icons/person.svg
 portrait: images/being/valdrkshpr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Alchemist and Scholar
   station: mages

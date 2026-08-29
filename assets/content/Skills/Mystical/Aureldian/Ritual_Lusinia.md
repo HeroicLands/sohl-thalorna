@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: Cp5FoZziMlvjSYhp
 shortcode: lusinia
 img: images/affiliation/lusinia.webp

@@ -7,7 +7,6 @@ id: wFQGHGOjYdp98VlC
 img: icons/psionics.svg
 shortcode: psnc
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

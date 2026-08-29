@@ -18,7 +18,6 @@ shortcode: zoriladmvr
 img: icons/person.svg
 portrait: images/being/zoriladmvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hunter
   station: tradesfolk

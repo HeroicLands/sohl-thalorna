@@ -18,7 +18,6 @@ shortcode: timthngvls
 img: icons/person.svg
 portrait: images/being/timthngvls-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

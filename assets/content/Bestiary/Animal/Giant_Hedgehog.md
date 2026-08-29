@@ -12,7 +12,6 @@ img: icons/game-icons/caro-asercion/hedgehog.svg
 portrait: images/being/gnthdghg-portrait.webp
 shortcode: gnthdghg
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

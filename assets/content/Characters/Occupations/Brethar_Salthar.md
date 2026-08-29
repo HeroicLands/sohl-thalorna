@@ -18,7 +18,6 @@ shortcode: brthrslthr
 img: icons/person.svg
 portrait: images/being/brthrslthr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Charcoaler
   station: common_folk

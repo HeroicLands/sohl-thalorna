@@ -18,7 +18,6 @@ shortcode: klrthdlvnr
 img: icons/person.svg
 portrait: images/being/klrthdlvnr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Pilot
   station: tradesfolk

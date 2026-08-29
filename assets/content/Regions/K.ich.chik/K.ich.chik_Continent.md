@@ -8,7 +8,6 @@ tags:
   - kichchik
 type: doc
 category: continent
-package: thalorna
 id: M6DQs1jWkoqbUTr2
 shortcode: kchchkcntnnt
 name:

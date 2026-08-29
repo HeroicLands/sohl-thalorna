@@ -18,7 +18,6 @@ shortcode: sigfstrmrt
 img: icons/person.svg
 portrait: images/being/sigfstrmrt-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmvthgrd
   region: nrdlndsrgn

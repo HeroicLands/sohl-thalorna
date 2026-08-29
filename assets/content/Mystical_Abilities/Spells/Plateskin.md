@@ -11,7 +11,6 @@ id: GpDzz61kM8VIHEXL
 img: icons/anvil.svg
 shortcode: pltskn
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

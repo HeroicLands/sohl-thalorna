@@ -11,7 +11,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 id: xiFjVdpcEHSu3mzF
 name:
   full: Merchantry of the Veil

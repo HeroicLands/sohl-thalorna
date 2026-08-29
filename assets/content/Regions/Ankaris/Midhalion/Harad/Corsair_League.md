@@ -11,7 +11,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 id: Q5oqJ5ibltS7B0oS
 name:
   full: Corsair League

@@ -6,7 +6,6 @@ id: yJkyMAYiTk0t5vvt
 type: doc
 category: settlement
 settlementType: "City"
-package: thalorna
 name:
   full: Rājapur
   aliases: []

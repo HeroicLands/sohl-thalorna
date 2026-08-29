@@ -17,7 +17,6 @@ shortcode: edwingarmn
 img: icons/person.svg
 portrait: images/being/edwingarmn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Huscarl
   station: soldiery

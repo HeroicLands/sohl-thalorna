@@ -18,7 +18,6 @@ shortcode: parirnkhns
 img: icons/person.svg
 portrait: images/being/parirnkhns-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

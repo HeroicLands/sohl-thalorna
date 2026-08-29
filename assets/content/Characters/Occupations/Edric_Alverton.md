@@ -17,7 +17,6 @@ shortcode: edriclvrtn
 img: icons/person.svg
 portrait: images/being/edriclvrtn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Farmer
   station: common_folk

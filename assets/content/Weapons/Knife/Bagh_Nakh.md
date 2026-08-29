@@ -10,7 +10,6 @@ id: LDxnrcyhRCyVyGQK
 img: icons/broad-dagger.svg
 shortcode: BghNkh
 type: weapongear
-package: thalorna
 sohl:
   kbcat: knife
   durability: 10

@@ -18,7 +18,6 @@ shortcode: hrksbrmztr
 img: icons/person.svg
 portrait: images/being/hrksbrmztr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thatcher
   station: common_folk

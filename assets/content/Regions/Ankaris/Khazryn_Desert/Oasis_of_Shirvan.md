@@ -6,7 +6,6 @@ type: doc
 category: settlement
 settlementType: "Oasis Settlement"
 population: null
-package: thalorna
 name:
   full: Oasis of Shirvan
   aliases: []

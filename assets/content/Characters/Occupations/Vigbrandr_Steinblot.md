@@ -18,7 +18,6 @@ shortcode: vgbrndrstnblt
 img: icons/person.svg
 portrait: images/being/vgbrndrstnblt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Perfumer
   station: tradesfolk

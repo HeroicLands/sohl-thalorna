@@ -11,7 +11,6 @@ id: Y6QqSijb8SaNBI26
 img: icons/circle.svg
 shortcode: activate
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

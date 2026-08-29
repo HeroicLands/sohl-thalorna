@@ -6,7 +6,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: ls2C0JbdgiCMzoIX
 shortcode: karnavos
 img: images/affiliation/karnavos.webp

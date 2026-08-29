@@ -18,7 +18,6 @@ shortcode: domthgrvth
 img: icons/person.svg
 portrait: images/being/domthgrvth-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdmtrvn
   region: tarvenirgn

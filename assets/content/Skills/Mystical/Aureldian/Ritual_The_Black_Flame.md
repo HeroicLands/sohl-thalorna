@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: RijnBqD2kYb6ZwP5
 shortcode: blackflame
 img: images/affiliation/blackflame.webp

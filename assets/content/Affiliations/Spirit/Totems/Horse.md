@@ -7,7 +7,6 @@ id: UZVuHQMOLIbrSvYS
 img: images/mystery/horse.webp
 shortcode: horsettm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

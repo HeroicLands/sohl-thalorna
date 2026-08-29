@@ -14,7 +14,6 @@ id: 4xNp2vBr8KqTmY3L
 shortcode: sthrnsvnhs
 type: doc
 category: region
-package: thalorna
 terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
 parent:
   continents:

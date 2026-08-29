@@ -12,7 +12,6 @@ id: xk4TRkNFSve0i309
 img: icons/potion.svg
 shortcode: ElxErd
 type: concoctiongear
-package: thalorna
 hmk:
   name: Erudition
 sohl:

@@ -11,7 +11,6 @@ id: hnJAdEW1W2P9ouq0
 img: icons/tree.svg
 shortcode: quake
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

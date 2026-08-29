@@ -21,7 +21,6 @@ shortcode: lrdmlnvsbr
 img: icons/person.svg
 portrait: images/being/lrdmlnvsbr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vylarinmpr
   region: vylariargn

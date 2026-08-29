@@ -18,7 +18,6 @@ shortcode: dhrmplvmkt
 img: icons/person.svg
 portrait: images/being/dhrmplvmkt-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: dhnrktjnpd
   region: vedyarargn

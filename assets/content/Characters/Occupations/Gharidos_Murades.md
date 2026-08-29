@@ -18,7 +18,6 @@ shortcode: ghardsmrds
 img: icons/person.svg
 portrait: images/being/ghardsmrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Longshoreman
   station: common_folk

@@ -6,7 +6,6 @@ id: 1X3hyHGrQc0lEgZK
 description: ""
 type: doc
 category: polity
-package: thalorna
 name:
   full: Áelendan Tribes
   aliases: []

@@ -10,7 +10,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: tMGfPxqyoVJd8Qmd
 shortcode: tanlung
 name:

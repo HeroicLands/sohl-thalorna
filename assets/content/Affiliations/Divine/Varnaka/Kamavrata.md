@@ -29,7 +29,6 @@ epithet: The Celestial Lover
 domain: Fertility
 symbol: A blooming lotus entwined with flowering vines
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

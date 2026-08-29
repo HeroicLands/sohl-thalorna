@@ -18,7 +18,6 @@ shortcode: trsrthldrn
 img: icons/person.svg
 portrait: images/being/trsrthldrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Infantry
   station: soldiery

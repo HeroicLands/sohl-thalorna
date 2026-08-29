@@ -18,7 +18,6 @@ shortcode: xenoksbrds
 img: icons/person.svg
 portrait: images/being/xenoksbrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

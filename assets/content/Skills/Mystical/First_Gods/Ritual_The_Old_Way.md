@@ -10,7 +10,6 @@ tags:
   - first-gods
   - faith-skill
 type: skill
-package: thalorna
 id: xkiYiIgUFLqiCVFb
 shortcode: theoldway
 name:

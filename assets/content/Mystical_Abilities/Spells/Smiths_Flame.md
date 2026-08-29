@@ -13,7 +13,6 @@ id: 1rU0yvrwcvUB57da
 img: icons/anvil.svg
 shortcode: smthflam
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

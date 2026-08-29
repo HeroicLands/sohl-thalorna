@@ -10,7 +10,6 @@ id: 3JX3cIkIDdIeC8jx
 img: icons/sword.svg
 shortcode: Kiliji
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

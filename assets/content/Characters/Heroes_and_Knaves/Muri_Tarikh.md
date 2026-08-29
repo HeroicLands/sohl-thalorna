@@ -18,7 +18,6 @@ shortcode: muritarikh
 img: icons/person.svg
 portrait: images/being/muritarikh-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kalihara
   region: kaliharargn

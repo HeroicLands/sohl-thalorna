@@ -18,7 +18,6 @@ shortcode: sdrkmrlnth
 img: icons/person.svg
 portrait: images/being/sdrkmrlnth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Gaoler
   station: soldiery

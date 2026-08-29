@@ -11,7 +11,6 @@ id: Cfwl8zMkSkspbdzd
 img: icons/fire.svg
 shortcode: touch
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

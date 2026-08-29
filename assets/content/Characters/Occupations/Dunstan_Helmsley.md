@@ -17,7 +17,6 @@ shortcode: dnstnhlmsly
 img: icons/person.svg
 portrait: images/being/dnstnhlmsly-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Chieftain
   station: administration

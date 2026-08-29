@@ -7,7 +7,6 @@ id: NDRL0yD5OPELKNBM
 img: icons/psionics.svg
 shortcode: telek
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

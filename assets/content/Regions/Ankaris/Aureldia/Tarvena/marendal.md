@@ -10,7 +10,6 @@ languages:
   - tarvenlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Maréndal
   aliases: []

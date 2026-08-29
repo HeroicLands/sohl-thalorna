@@ -7,7 +7,6 @@ id: kDExCsZvttQtSzlq
 img: images/mystery/bull.webp
 shortcode: bullttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

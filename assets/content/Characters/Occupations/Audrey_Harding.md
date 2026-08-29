@@ -18,7 +18,6 @@ shortcode: audryhrdng
 img: icons/person.svg
 portrait: images/being/audryhrdng-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Priest
   station: clergy

@@ -11,7 +11,6 @@ id: M17LRhmoMHryWfVl
 img: icons/tree.svg
 shortcode: tangle
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

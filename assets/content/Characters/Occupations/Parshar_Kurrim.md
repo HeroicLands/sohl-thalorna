@@ -18,7 +18,6 @@ shortcode: parsharkrm
 img: icons/person.svg
 portrait: images/being/parsharkrm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Locksmith
   station: tradesfolk

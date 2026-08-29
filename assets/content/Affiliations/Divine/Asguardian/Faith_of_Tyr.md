@@ -5,7 +5,6 @@ id: c12fS9I0LjihzxT9
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Týr
   aliases:

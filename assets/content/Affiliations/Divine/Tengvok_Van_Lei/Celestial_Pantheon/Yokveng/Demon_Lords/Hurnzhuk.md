@@ -29,7 +29,6 @@ epithet: The Lord of the Unclassified
 domain: Chaos
 symbol: A black seal-smear across a torn ivory registry page
 pantheon: tngvkvnlei
-package: thalorna
 folder: kZkGNxVHbgGyhAHr
 ---
 

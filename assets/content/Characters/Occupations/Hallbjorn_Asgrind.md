@@ -18,7 +18,6 @@ shortcode: hlbjrnsgrnd
 img: icons/person.svg
 portrait: images/being/hlbjrnsgrnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hunter
   station: tradesfolk
