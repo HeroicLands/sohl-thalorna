@@ -57,12 +57,13 @@ contentDir = "content"
   [params.list]
     shortcodes = false
 
-  # The home page, rendered by `layouts/index.html` — this site's own, since a
-  # landing is the one page no two sites share.
-  [params.home]
-    heroimage   = "images/banners/tapestry-of-dreams.webp"
-    herotitle   = "The World of Thalorna"
-    herotagline = "A world of feuding realms, old faiths, and older powers — its peoples, places, creatures, and the lore that binds them."
+  # No `params.home`. That block fed the theme's *featured grid*, the older of
+  # the two shapes its `layouts/index.html` offers, and this site takes the
+  # other one: the home page is the package landing, authored as
+  # `assets/content/homepage.md` and rendered by the theme's
+  # `layouts/partials/landing.html` (#91). The hero title, tagline and banner
+  # that used to be written here are that note's `title`, `description` and
+  # `banner`, because they are the page's, not the site's.
 
   # The "page not found" page. Its template is the theme's, since every
   # consumer needs one; the wording and the routes back are ours. A relative
