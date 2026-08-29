@@ -79,8 +79,18 @@ until #75 stripped all 1,716 of them; from `@heroiclands/package-build@3.3.0` it
 is derived rather than read, and authoring one is on its way to being a hard
 build error (HeroicLands/package-build#56). Do not add it back.
 
-Set `draft: true` on anything unfinished. Drafts compile into no pack and appear
-in no manifest.
+**Mark anything unfinished with a `draft` tag.**
+
+```yaml
+tags:
+  - draft
+```
+
+The tag gates nothing. No build reads `tags`, so a note carrying it compiles
+into its pack, appears in the link manifest, publishes to the site, and may be
+linked to exactly as any other note does. It says the note is not finished, to
+the person reading the tree — and to a generated content table, which can select
+on it (`FROM #draft`).
 
 ## Writing a cross-package link
 
