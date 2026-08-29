@@ -14,7 +14,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos
-  assocMysteryCode: ""
   levelBase: 5
   masteryLevelBase: 0
   charges:

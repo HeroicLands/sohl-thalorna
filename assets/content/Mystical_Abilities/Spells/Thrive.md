@@ -14,7 +14,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera
-  assocMysteryCode: ""
   levelBase: 1
   masteryLevelBase: 0
   charges:

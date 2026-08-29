@@ -15,7 +15,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra
-  assocMysteryCode: ""
   levelBase: 6
   masteryLevelBase: 0
   charges:

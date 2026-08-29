@@ -14,7 +14,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis
-  assocMysteryCode: ""
   levelBase: 5
   masteryLevelBase: 0
   charges:
