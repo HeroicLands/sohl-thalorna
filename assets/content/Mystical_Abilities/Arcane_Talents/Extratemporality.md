@@ -10,7 +10,6 @@ type: mysticalability
 sohl:
   subType: arcanetalent
   assocSkillCode: ""
-  assocMysteryCode: ""
   levelBase: 0
   masteryLevelBase: 0
   charges:

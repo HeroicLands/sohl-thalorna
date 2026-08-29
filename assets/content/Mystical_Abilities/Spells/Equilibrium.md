@@ -14,7 +14,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos
-  assocMysteryCode: ""
   levelBase: 1
   masteryLevelBase: 0
   charges:

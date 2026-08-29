@@ -16,7 +16,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros
-  assocMysteryCode: ""
   levelBase: 2
   masteryLevelBase: 0
   charges:

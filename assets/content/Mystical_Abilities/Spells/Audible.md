@@ -14,7 +14,6 @@ type: mysticalability
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis
-  assocMysteryCode: ""
   levelBase: 2
   masteryLevelBase: 0
   charges:
