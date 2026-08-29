@@ -507,6 +507,7 @@
     "doc:chakultzkl2": "/thalorna/settlement/chakul-tzakul-city/",
     "doc:chandrapur2": "/thalorna/settlement/chandrapur-city/",
     "doc:cntrlkchchk": "/thalorna/region/kichchik-central/",
+    "doc:companies": ["/thalorna/section/companies/", "/thalorna/section/"],
     "doc:crmsyndctsthlrn": "/thalorna/lore/crime-syndicates/",
     "doc:crsmnthydrvn": "/thalorna/adventure/the-curse-of-mount-hydraven/",
     "doc:deltanomes": "/thalorna/polity/delta-nomes/",
