@@ -52,7 +52,6 @@ aliases:
 id: hjBDJ8jqOrBCEkMh # 16-char Foundry id — stable identity, never renumber
 shortcode: brzgnt # unique within (type, package); referenced by saved data
 type: weapongear
-package: thalorna
 sohl:
   archetype: null # required: a number if this is an archetype, null if not
   subType: melee # required on every subType-bearing type
@@ -60,7 +59,7 @@ folder: vRIKmqTJtHtY4VEX
 ---
 ```
 
-Four fields are load-bearing and easy to get wrong:
+Three fields are load-bearing and easy to get wrong:
 
 - **`id`** is identity. Changing one orphans everything that references it —
   folders, actor items, and any existing world. Generate a new one from
@@ -71,8 +70,14 @@ Four fields are load-bearing and easy to get wrong:
 - **`sohl.archetype`** is required on every item type, with no default. Set a
   number when the note _is_ an archetype, `null` when it is not — absent is an
   authoring error, so that "not an archetype" is never silently assumed.
-- **`package`** must read `thalorna`. The compilers select on it, so a note with
-  any other value compiles into nothing, silently.
+
+**A note does not declare its package.** It belongs to `thalorna` because that is
+this repository's `contentPackage` in `package-build.config.yaml`, and every note
+below this directory compiles into that one package — which is the "package" the
+shortcode above is unique within. A `package:` key was authored on every note
+until #75 stripped all 1,716 of them; from `@heroiclands/package-build@3.3.0` it
+is derived rather than read, and authoring one is on its way to being a hard
+build error (HeroicLands/package-build#56). Do not add it back.
 
 Set `draft: true` on anything unfinished. Drafts compile into no pack and appear
 in no manifest.
