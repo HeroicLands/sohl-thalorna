@@ -47,7 +47,19 @@ packs:
     - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
 
 publish:
-    site: true
+    # `content`: this package publishes its homepage *and* every page its
+    # content tree compiles to. The other mode, `homepage`, fences the content
+    # surfaces off entirely — it is what `sohl-kethira-basic` and
+    # `harn-adventures` publish under, where shipping a content page would
+    # breach the terms the material is licensed on.
+    #
+    # No `site:` block accompanies it. `site.out` is optional in either mode,
+    # and it addresses `content-build site` — the engine's own emitter, which
+    # this repository does not run. Pages here are written by
+    # `utils/build-site-content.mjs` into `site/content`, resolved from
+    # `site/hugo.toml`'s `baseURL` via `utils/site-config.mjs` (#85). Declaring
+    # `site.out` would be inert configuration naming a path nothing reads.
+    site: content
     manifests: { publish: true, consume: true }
     address:
         prefix: ""
