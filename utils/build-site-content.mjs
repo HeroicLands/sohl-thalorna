@@ -77,6 +77,10 @@ import { sitePathPrefix, SITE_DIR } from "./site-config.mjs";
 import { walkMarkdownTree } from "@heroiclands/package-build/engine/helpers";
 import { hasDocEntry } from "@heroiclands/package-build/engine/item-docs";
 import { contentPackage } from "@heroiclands/package-build/engine/content-package";
+import {
+    assertNotePackage,
+    searchableFrontmatter,
+} from "@heroiclands/package-build/engine/note-package";
 
 // Resolved once, here, rather than at each use. The package exports these as
 // accessors so that *importing* a module never needs a consumer config; this is
@@ -378,15 +382,40 @@ const unaddressable = [];
  */
 const frontmatterLinks = [];
 
+/**
+ * Notes declaring a package this repository does not compile (#78).
+ *
+ * A note's package is **derived** from the repository's configured
+ * `contentPackage`, not read from its frontmatter — every package is
+ * single-sourced in the repository that ships it, so an absent `package:` is
+ * normal. This used to be a `fm.package !== CONTENT_PACKAGE` skip, which turned
+ * the sweep that deleted the field into a tree that compiled to *nothing* and
+ * reported success. A disagreement is therefore a named finding, never a silent
+ * skip; see `@heroiclands/package-build/engine/note-package`.
+ */
+const packageErrors = [];
+
 for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
     CONTENT_SRC,
 )) {
-    if (!fm || fm.package !== CONTENT_PACKAGE) continue;
+    if (!fm) continue;
+
+    const rel = path.relative(CONTENT_SRC, absPath).split(path.sep).join("/");
+    // Asked before anything else about the note: "may this build compile it".
+    // A note declaring another package is a fault in the tree whether or not it
+    // is a draft or would route anywhere, so nothing below can swallow it.
+    let pkg;
+    try {
+        pkg = assertNotePackage(fm, { file: rel, configured: CONTENT_PACKAGE });
+    } catch (err) {
+        packageErrors.push({ file: rel, reason: err.message });
+        continue;
+    }
+
     // A draft is not published, and a link to an unpublished page is a dead link.
     if (fm.draft === true) continue;
     if (!fm.type) continue;
 
-    const rel = path.relative(CONTENT_SRC, absPath).split(path.sep).join("/");
     for (const hit of frontmatterWikilinks(fm)) {
         frontmatterLinks.push({ file: rel, ...hit });
     }
@@ -428,6 +457,10 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
 
     entries.push({
         fm,
+        // The page's package, resolved once here so every consumer — the
+        // manifest's canonical keys, the table universe, the local-package set
+        // — reads one derived value instead of frontmatter (#78).
+        pkg,
         body,
         name,
         slug,
@@ -447,6 +480,19 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
     if (typeof fm.shortcode === "string") {
         refIndex.set(`${fm.type}:${fm.shortcode}`, { name, url });
     }
+}
+
+// --- Package integrity ---------------------------------------------------
+// Refused before a single page is written, and named: a note claiming another
+// package used to be skipped in silence, which is how a whole tree compiled to
+// zero pages and exited 0 (#78).
+if (packageErrors.length) {
+    console.error(
+        `\n✖ ${packageErrors.length} note(s) declare a package this repository does not compile:`,
+    );
+    for (const e of packageErrors) console.error(`  ${e.reason}`);
+    console.error("");
+    process.exit(1);
 }
 
 // --- Frontmatter integrity -----------------------------------------------
@@ -522,7 +568,10 @@ for (const e of entries) {
 // Manifests for the packages this build links into but does not publish. Which
 // packages are *local* is only known once the tree is walked, so this runs
 // after the parse phase.
-const localPackages = new Set(entries.map((e) => e.fm.package));
+// Derived, not read: `e.pkg` is the package the parse phase resolved for the
+// note, so a swept tree yields `{ "thalorna" }` rather than `{ undefined }` and
+// foreign-manifest resolution runs against a real local-package set (#78).
+const localPackages = new Set(entries.map((e) => e.pkg));
 const foreign = loadForeignManifests(MANIFEST_SRC, localPackages);
 if (foreign.stale.length) {
     console.error("\n✖ unusable link manifest(s):");
@@ -626,7 +675,11 @@ for (const e of entries) {
 // The universe a `dataview` table searches: every published note in this
 // package. A page never tabulates another package's content.
 const tableDocs = entries.map((e) => ({
-    fm: e.fm,
+    // Package present however the note spells it: a `dataview` query scoping
+    // itself with `WHERE … and package = "thalorna"` resolves the field like any
+    // other, so a swept note would match nothing and the page would publish an
+    // empty table in silence (#78).
+    fm: searchableFrontmatter(e.fm, e.pkg),
     path: e.relPath,
     tld: e.tld,
     folder: e.folder,
@@ -713,7 +766,7 @@ let written = 0;
 const byTitle = (a, b) => a.title.localeCompare(b.title);
 
 for (const e of entries) {
-    const { fm, name, slug, sec, isLanding } = e;
+    const { fm, pkg, name, slug, sec, isLanding } = e;
 
     // An Obsidian `aliases` is a list of *names* the note answers to in the
     // vault — Hugo reads the same key as a list of *URLs* to redirect from
@@ -726,7 +779,21 @@ for (const e of entries) {
     // page with no heading; the name is the fallback whenever it is blank.
     const title =
         typeof fm.title === "string" && fm.title.trim() ? fm.title : name;
-    const data = { ...rest, title, slug };
+    // The page carries the package this build **derived**, whether or not the
+    // note declared one, so a published page is self-describing (#78, and
+    // HeroicLands/package-build#65 for the same defect in `content-build site`).
+    // The shared theme reads it — `partials/breadcrumbs.html` builds the middle
+    // crumb from `.Params.package`, and degrades to a bare, unlinked type slug
+    // without it — so a swept tree would otherwise publish 1,715 pages with
+    // broken breadcrumbs. The generated stub landings below have always written
+    // it for exactly this reason; only the pages built from a note relied on the
+    // frontmatter carrying it.
+    //
+    // Written after the spread, matching the upstream fix's shape: a note that
+    // still declares the field keeps it at its authored position (assigning an
+    // existing key does not move it), so an unswept tree emits byte-identically
+    // to before, and a swept one gains the key here.
+    const data = { ...rest, package: pkg, title, slug };
 
     // Three fields the shared theme reads at the top level, hoisted out of the
     // nested blocks the notes author them in. The theme's character sidebar has
