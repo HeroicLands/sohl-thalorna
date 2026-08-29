@@ -76,8 +76,9 @@ this repository's `contentPackage` in `package-build.config.yaml`, and every not
 below this directory compiles into that one package — which is the "package" the
 shortcode above is unique within. A `package:` key was authored on every note
 until #75 stripped all 1,716 of them; from `@heroiclands/package-build@3.3.0` it
-is derived rather than read, and authoring one is on its way to being a hard
-build error (HeroicLands/package-build#56). Do not add it back.
+is derived rather than read, and from 4.0.0 authoring one is a hard build error,
+naming the file and the line (HeroicLands/package-build#56). Do not add it back
+— not even with the value `thalorna`, which is refused exactly as any other is.
 
 **Mark anything unfinished with a `draft` tag.**
 
@@ -91,6 +92,14 @@ into its pack, appears in the link manifest, publishes to the site, and may be
 linked to exactly as any other note does. It says the note is not finished, to
 the person reading the tree — and to a generated content table, which can select
 on it (`FROM #draft`).
+
+**The `draft:` _field_ is retired**, and from
+`@heroiclands/package-build@4.0.0` authoring one is a hard build error —
+`draft: false` included, since it reads as "publish this note", which is what
+happens either way (HeroicLands/package-build#69). It used to drop the note from
+the packs, the link manifest and the site while no checker reported the
+exclusion, so every wikilink into it read as a link to a note that does not
+exist. The tag above is what replaced it.
 
 ## Writing a cross-package link
 

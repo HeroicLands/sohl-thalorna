@@ -78,7 +78,7 @@ import { walkMarkdownTree } from "@heroiclands/package-build/engine/helpers";
 import { hasDocEntry } from "@heroiclands/package-build/engine/item-docs";
 import { contentPackage } from "@heroiclands/package-build/engine/content-package";
 import {
-    assertNotePackage,
+    assertNoDeclaredPackage,
     searchableFrontmatter,
 } from "@heroiclands/package-build/engine/note-package";
 
@@ -383,14 +383,16 @@ const unaddressable = [];
 const frontmatterLinks = [];
 
 /**
- * Notes declaring a package this repository does not compile (#78).
+ * Notes declaring the retired `package:` frontmatter field (#78, #86).
  *
  * A note's package is **derived** from the repository's configured
- * `contentPackage`, not read from its frontmatter — every package is
- * single-sourced in the repository that ships it, so an absent `package:` is
- * normal. This used to be a `fm.package !== CONTENT_PACKAGE` skip, which turned
- * the sweep that deleted the field into a tree that compiled to *nothing* and
- * reported success. A disagreement is therefore a named finding, never a silent
+ * `contentPackage`, never read from its frontmatter — every package is
+ * single-sourced in the repository that ships it, so no note declares one. This
+ * used to be a `fm.package !== CONTENT_PACKAGE` skip, which turned the sweep
+ * that deleted the field into a tree that compiled to *nothing* and reported
+ * success. Presence is now the whole test: a declaration that *agrees* with the
+ * configuration is as retired as one that disagrees, because no value makes
+ * writing the field correct. Either way it is a named finding, never a silent
  * skip; see `@heroiclands/package-build/engine/note-package`.
  */
 const packageErrors = [];
@@ -402,18 +404,19 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
 
     const rel = path.relative(CONTENT_SRC, absPath).split(path.sep).join("/");
     // Asked before anything else about the note: "may this build compile it".
-    // A note declaring another package is a fault in the tree whether or not it
-    // is a draft or would route anywhere, so nothing below can swallow it.
-    let pkg;
+    // A note declaring a package is a fault in the tree whether or not it would
+    // route anywhere, so nothing below can swallow it.
     try {
-        pkg = assertNotePackage(fm, { file: rel, configured: CONTENT_PACKAGE });
+        assertNoDeclaredPackage(fm, {
+            file: rel,
+            absPath,
+            configured: CONTENT_PACKAGE,
+        });
     } catch (err) {
         packageErrors.push({ file: rel, reason: err.message });
         continue;
     }
 
-    // A draft is not published, and a link to an unpublished page is a dead link.
-    if (fm.draft === true) continue;
     if (!fm.type) continue;
 
     for (const hit of frontmatterWikilinks(fm)) {
@@ -460,7 +463,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
         // The page's package, resolved once here so every consumer — the
         // manifest's canonical keys, the table universe, the local-package set
         // — reads one derived value instead of frontmatter (#78).
-        pkg,
+        pkg: CONTENT_PACKAGE,
         body,
         name,
         slug,
@@ -488,7 +491,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
 // zero pages and exited 0 (#78).
 if (packageErrors.length) {
     console.error(
-        `\n✖ ${packageErrors.length} note(s) declare a package this repository does not compile:`,
+        `\n✖ ${packageErrors.length} note(s) declare the retired \`package:\` field:`,
     );
     for (const e of packageErrors) console.error(`  ${e.reason}`);
     console.error("");
