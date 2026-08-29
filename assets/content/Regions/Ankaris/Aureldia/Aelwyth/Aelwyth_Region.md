@@ -6,7 +6,6 @@ id: tCB67AMwzuba3Faw
 description: "Great island off Élavendre's western coast — deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."
 type: doc
 category: region
-package: thalorna
 name:
   full: Aelwyth
   aliases:

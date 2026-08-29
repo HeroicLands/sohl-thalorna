@@ -11,7 +11,6 @@ id: 1T0koAYArl55E0rs
 img: icons/circle.svg
 shortcode: disrupt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

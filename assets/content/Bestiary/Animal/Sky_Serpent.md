@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/harpy.svg
 portrait: images/being/skysrpnt-portrait.webp
 shortcode: skysrpnt
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

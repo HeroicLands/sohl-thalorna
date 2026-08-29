@@ -29,7 +29,6 @@ epithet: The Eternal Preserver
 domain: Order
 symbol: A balanced scale encircled by wheat
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

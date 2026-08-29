@@ -8,7 +8,6 @@ id: R6kUskyAmO8AmYuz
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: korith
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

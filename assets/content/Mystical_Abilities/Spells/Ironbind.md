@@ -11,7 +11,6 @@ id: fQDq7K59UwY4TxOx
 img: icons/anvil.svg
 shortcode: ironbind
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

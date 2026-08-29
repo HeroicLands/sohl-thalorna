@@ -18,7 +18,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 name:
   full: Faith of Æthería
   aliases:

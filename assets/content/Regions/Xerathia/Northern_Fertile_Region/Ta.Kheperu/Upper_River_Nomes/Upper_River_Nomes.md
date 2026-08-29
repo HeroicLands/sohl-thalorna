@@ -6,7 +6,6 @@ id: UtZs57YRWbojgEeS
 description: "The agricultural heartland of Ta'Kheperu — eighteen river-valley nomes upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning nomarchs guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."
 type: doc
 category: polity
-package: thalorna
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Upper River Nomes

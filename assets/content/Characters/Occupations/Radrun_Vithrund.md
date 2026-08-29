@@ -18,7 +18,6 @@ shortcode: rdrnvthrnd
 img: icons/person.svg
 portrait: images/being/rdrnvthrnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Prostitute
   station: underworld

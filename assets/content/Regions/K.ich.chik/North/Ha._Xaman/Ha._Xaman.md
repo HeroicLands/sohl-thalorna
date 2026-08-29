@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: haxaman2
-package: thalorna
 terran_analog: Central US and Plains States East of Rockies
 parent:
   regions:

@@ -8,7 +8,6 @@ aliases:
 tags: []
 type: doc
 category: polity
-package: thalorna
 description: The temple-republic of Suvarṇagiri — fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
 name:
   full: Suvarṇagiri Janapada

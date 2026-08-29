@@ -11,7 +11,6 @@ id: cSqKxsEswJt53AYn
 img: icons/divination.svg
 shortcode: peace
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

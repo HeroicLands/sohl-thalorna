@@ -18,7 +18,6 @@ shortcode: mentshpkhr
 img: icons/person.svg
 portrait: images/being/mentshpkhr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

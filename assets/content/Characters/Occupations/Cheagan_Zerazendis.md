@@ -18,7 +18,6 @@ shortcode: chgnzrznds
 img: icons/person.svg
 portrait: images/being/chgnzrznds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Innkeeper
   station: tradesfolk

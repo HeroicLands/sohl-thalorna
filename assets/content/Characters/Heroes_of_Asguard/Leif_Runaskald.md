@@ -18,7 +18,6 @@ shortcode: leifrnskld
 img: icons/person.svg
 portrait: images/being/leifrnskld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Skald and Runemaster
   station: mages

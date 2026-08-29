@@ -10,7 +10,6 @@ id: M8YvZgWiTMJHd31Q
 img: icons/polearm.svg
 shortcode: Qing
 type: weapongear
-package: thalorna
 sohl:
   kbcat: polearm
   durability: 11

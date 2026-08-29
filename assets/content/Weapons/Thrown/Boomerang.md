@@ -10,7 +10,6 @@ id: pX3qKPrPcgPMjsX5
 img: icons/boomerang.svg
 shortcode: Bmrg
 type: weapongear
-package: thalorna
 sohl:
   kbcat: thrown
   durability: 11

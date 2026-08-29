@@ -18,7 +18,6 @@ shortcode: arevynlydr
 img: icons/person.svg
 portrait: images/being/arevynlydr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmlvndr
   region: elavendre

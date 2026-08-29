@@ -9,7 +9,6 @@ id: 9JKa47vO6SaCw7KX
 img: icons/circle.svg
 shortcode: bane
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

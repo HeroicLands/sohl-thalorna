@@ -12,7 +12,6 @@ id: aQkFHzC0Jpl1FVng
 img: icons/speaking.svg
 shortcode: sinalelng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

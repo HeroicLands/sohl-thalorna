@@ -12,7 +12,6 @@ img: icons/game-icons/caro-asercion/boar.svg
 portrait: images/being/thrnbckb-portrait.webp
 shortcode: thrnbckb
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

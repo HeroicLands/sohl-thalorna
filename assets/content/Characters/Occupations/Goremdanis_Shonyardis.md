@@ -18,7 +18,6 @@ shortcode: grmdnshnyrds
 img: icons/person.svg
 portrait: images/being/grmdnshnyrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Musician (Lyre)
   station: tradesfolk

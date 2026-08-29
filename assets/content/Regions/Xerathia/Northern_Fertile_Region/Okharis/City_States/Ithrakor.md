@@ -11,7 +11,6 @@ languages:
   - okharclng
 pantheons:
   - nkaruthar
-package: thalorna
 name:
   full: Ithrákor
   aliases: []

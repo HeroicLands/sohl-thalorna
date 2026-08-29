@@ -18,7 +18,6 @@ shortcode: dalinavlrn
 img: icons/person.svg
 portrait: images/being/dalinavlrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Pilot
   station: tradesfolk

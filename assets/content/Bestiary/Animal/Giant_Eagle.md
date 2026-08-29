@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/gntegl-portrait.webp
 shortcode: gntegl
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

@@ -18,7 +18,6 @@ shortcode: gorzndsbrs
 img: icons/person.svg
 portrait: images/being/gorzndsbrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Locksmith
   station: tradesfolk

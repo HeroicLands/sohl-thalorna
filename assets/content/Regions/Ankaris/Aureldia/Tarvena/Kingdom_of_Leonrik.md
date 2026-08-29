@@ -6,7 +6,6 @@ id: Dd51vjOPHLzTSOw4
 description: "Largest and most fertile of Tarvénia's three kingdoms in the central-southern lowlands — wealthy, populous, and politically ambitious, with the richest farmland in the realm."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Kingdom of Léonrik
   aliases: []

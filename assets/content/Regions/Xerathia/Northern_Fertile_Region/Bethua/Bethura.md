@@ -13,7 +13,6 @@ languages:
   - okharclng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Bethûra
   aliases: []

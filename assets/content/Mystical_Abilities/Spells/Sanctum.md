@@ -9,7 +9,6 @@ id: LqSMpiZ3yOuamOiO
 img: icons/circle.svg
 shortcode: sanctum
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

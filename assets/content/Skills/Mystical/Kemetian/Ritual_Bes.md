@@ -6,7 +6,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: 4imUgvpxSanM8wbw
 shortcode: bes
 name:

@@ -19,7 +19,6 @@ shortcode: kasndrbsrn
 img: icons/person.svg
 portrait: images/being/kasndrbsrn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

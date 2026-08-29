@@ -18,7 +18,6 @@ shortcode: ylndrmyrdl
 img: icons/person.svg
 portrait: images/being/ylndrmyrdl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Astrologer
   station: mages

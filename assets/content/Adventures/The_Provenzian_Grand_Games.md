@@ -7,7 +7,6 @@ name:
   aliases: []
 shortcode: prvnzngrndgms
 type: doc
-package: thalorna
 category: adventure
 thalorna:
   region: provenzrgn

@@ -18,7 +18,6 @@ shortcode: lagrxrznds
 img: icons/person.svg
 portrait: images/being/lagrxrznds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Fool
   station: tradesfolk

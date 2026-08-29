@@ -18,7 +18,6 @@ shortcode: flrthbrnthr
 img: icons/person.svg
 portrait: images/being/flrthbrnthr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Labourer (semi-skilled)
   station: common_folk

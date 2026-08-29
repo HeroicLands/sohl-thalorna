@@ -11,7 +11,6 @@ id: 4mL8LZR4PnQq2Kvk
 img: icons/anvil.svg
 shortcode: veil
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

@@ -7,7 +7,6 @@ id: jdBjqI048XnA4tfr
 img: images/mystery/boar.webp
 shortcode: boarttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

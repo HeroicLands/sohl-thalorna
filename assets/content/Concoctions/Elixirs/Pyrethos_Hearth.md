@@ -12,7 +12,6 @@ id: pXGLgVdYU2fgpBIU
 img: icons/potion.svg
 shortcode: ElxWrm
 type: concoctiongear
-package: thalorna
 hmk:
   name: Warmth
 sohl:

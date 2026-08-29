@@ -12,7 +12,6 @@ id: M0zSjMxyTVTQBIkD
 img: icons/fire.svg
 shortcode: pchsoul
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

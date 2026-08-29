@@ -8,7 +8,6 @@ id: 7IP3RJVcyDlNdHeN
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: arnos
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

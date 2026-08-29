@@ -18,7 +18,6 @@ shortcode: azitrkhrds
 img: icons/person.svg
 portrait: images/being/azitrkhrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercantyler
   station: tradesfolk

@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/dragonfly.svg
 portrait: images/being/drgnflyh-portrait.webp
 shortcode: drgnflyh
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

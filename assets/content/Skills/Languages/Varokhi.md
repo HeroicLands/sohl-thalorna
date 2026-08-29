@@ -10,7 +10,6 @@ id: MR557P1jb8LCNheH
 img: icons/speaking.svg
 shortcode: varokhlng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

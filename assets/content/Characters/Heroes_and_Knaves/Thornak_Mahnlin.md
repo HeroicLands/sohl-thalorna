@@ -20,7 +20,6 @@ shortcode: thrnkbldtscbr
 img: icons/person.svg
 portrait: images/being/thrnkbldtscbr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

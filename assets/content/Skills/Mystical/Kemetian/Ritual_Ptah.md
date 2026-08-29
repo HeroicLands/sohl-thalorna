@@ -10,7 +10,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: axO24ya2JdtsXpKt
 shortcode: ptah
 name:

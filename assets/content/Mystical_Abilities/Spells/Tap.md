@@ -9,7 +9,6 @@ id: xjMqRC2aTIIdpxfY
 img: icons/circle.svg
 shortcode: tap
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

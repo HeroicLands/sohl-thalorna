@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/butterfly.svg
 portrait: images/being/voidmoth-portrait.webp
 shortcode: voidmoth
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

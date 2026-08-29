@@ -18,7 +18,6 @@ shortcode: skfrnstrmrt
 img: icons/person.svg
 portrait: images/being/skfrnstrmrt-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdomlgn
   region: nrdlndsrgn

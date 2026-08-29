@@ -11,7 +11,6 @@ id: OKia93KgMDPV83Kq
 img: icons/water.svg
 shortcode: iceforge
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

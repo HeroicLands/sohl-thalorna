@@ -18,7 +18,6 @@ shortcode: alvrkrnthl
 img: icons/person.svg
 portrait: images/being/alvrkrnthl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Farmer
   station: common_folk

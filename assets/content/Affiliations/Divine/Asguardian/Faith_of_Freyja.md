@@ -5,7 +5,6 @@ id: CRcCfHFzsSdXQ1Df
 tags:
   - asguardian
 type: affiliation
-package: thalorna
 name:
   full: Faith of Fréyja
   aliases:

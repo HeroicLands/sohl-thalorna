@@ -11,7 +11,6 @@ id: hgEvp4iz6j2sK6Rm
 img: icons/anvil.svg
 shortcode: bldbn
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

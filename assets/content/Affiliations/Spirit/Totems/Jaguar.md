@@ -7,7 +7,6 @@ id: wUJqCGHtATIIh99Q
 img: images/mystery/jaguar.webp
 shortcode: jaguarttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

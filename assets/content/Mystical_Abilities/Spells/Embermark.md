@@ -9,7 +9,6 @@ id: eeK4XtWW4DRjD3mZ
 img: icons/fire.svg
 shortcode: embrmrk
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

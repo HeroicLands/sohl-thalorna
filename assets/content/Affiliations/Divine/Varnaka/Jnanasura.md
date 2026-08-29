@@ -28,7 +28,6 @@ epithet: The Radiant Sage
 domain: Knowledge
 symbol: A radiant sun with an open book
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

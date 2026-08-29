@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: SEH6qnxgvLANIZfq
 shortcode: sideros
 img: images/affiliation/sideros.webp

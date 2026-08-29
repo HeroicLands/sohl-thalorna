@@ -13,7 +13,6 @@ img: icons/game-icons/delapouite/rhinoceros-horn.svg
 portrait: images/being/vdyrnrhn-portrait.webp
 shortcode: vdyrnrhn
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

@@ -19,7 +19,6 @@ shortcode: neferetimr
 img: icons/person.svg
 portrait: images/being/neferetimr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

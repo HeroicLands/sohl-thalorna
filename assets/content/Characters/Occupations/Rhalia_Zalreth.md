@@ -18,7 +18,6 @@ shortcode: rhalizlrth
 img: icons/person.svg
 portrait: images/being/rhalizlrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Pilot
   station: tradesfolk

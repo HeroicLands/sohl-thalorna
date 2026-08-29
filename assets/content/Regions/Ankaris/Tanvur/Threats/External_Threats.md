@@ -4,7 +4,6 @@ aliases:
 id: 8z3Hj18DKx5GVtVn
 type: doc
 category: lore
-package: thalorna
 name:
   full: External Threats
   aliases: []

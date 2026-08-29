@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/embermaw-portrait.webp
 shortcode: embermaw
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

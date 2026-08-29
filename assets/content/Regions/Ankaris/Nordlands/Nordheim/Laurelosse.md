@@ -5,7 +5,6 @@ aliases:
 id: Mp48OQiSLJZ8OVfN
 type: doc
 category: location
-package: thalorna
 subType: ruins
 name:
   full: Laurelossë

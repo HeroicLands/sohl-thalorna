@@ -6,7 +6,6 @@ tags:
   - ashalan
   - faith-skill
 type: skill
-package: thalorna
 id: l3uhBirWLAYnjIsf
 shortcode: aravesta
 name:

@@ -18,7 +18,6 @@ shortcode: ovlynslthr
 img: icons/person.svg
 portrait: images/being/ovlynslthr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Chandler
   station: tradesfolk

@@ -29,7 +29,6 @@ epithet: The First Classifier
 domain: Order
 symbol: A coiled gold dragon enclosing an empty ivory tablet
 pantheon: tngvkvnlei
-package: thalorna
 folder: Zsfl8qxSI1uYIBPU
 ---
 

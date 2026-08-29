@@ -12,7 +12,6 @@ id: NFrsFpQareivWkrh
 img: icons/potion.svg
 shortcode: ElxVrv
 type: concoctiongear
-package: thalorna
 hmk:
   name: Verve
 sohl:

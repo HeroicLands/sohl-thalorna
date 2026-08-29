@@ -18,7 +18,6 @@ shortcode: zalrnlyskl
 img: icons/person.svg
 portrait: images/being/zalrnlyskl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Woodcrafter
   station: tradesfolk

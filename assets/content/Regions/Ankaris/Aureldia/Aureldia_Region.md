@@ -17,7 +17,6 @@ shortcode: aureldirgn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: Medieval Western Europe (Western Christendom)
 demonym: Aurèldían
 parent:

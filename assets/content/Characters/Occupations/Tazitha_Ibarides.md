@@ -18,7 +18,6 @@ shortcode: tazithbrds
 img: icons/person.svg
 portrait: images/being/tazithbrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Charcoaler
   station: common_folk

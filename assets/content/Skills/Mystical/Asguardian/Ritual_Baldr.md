@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: b2xfP8K3h0PxyQSK
 shortcode: baldr
 img: images/affiliation/baldr.webp

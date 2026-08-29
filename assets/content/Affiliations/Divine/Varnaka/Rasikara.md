@@ -29,7 +29,6 @@ epithet: The Flame of Renewal
 domain: Fire
 symbol: A flame rising from a broken circle
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

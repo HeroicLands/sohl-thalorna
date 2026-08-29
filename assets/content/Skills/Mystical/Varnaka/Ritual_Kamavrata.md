@@ -8,7 +8,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: mvVDbo7atxmWl3qm
 shortcode: kamavrata
 name:

@@ -9,7 +9,6 @@ settlementType: "Garrison Town"
 population: null
 pantheons:
   - nkaruthar
-package: thalorna
 name:
   full: Vuthrákor
   aliases:

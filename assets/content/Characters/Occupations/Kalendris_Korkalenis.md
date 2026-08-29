@@ -18,7 +18,6 @@ shortcode: klndrskrklns
 img: icons/person.svg
 portrait: images/being/klndrskrklns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Clothier
   station: tradesfolk

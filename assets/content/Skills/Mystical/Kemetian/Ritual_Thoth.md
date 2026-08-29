@@ -9,7 +9,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: 1rHq1gnkchTJv6ZN
 shortcode: thoth
 name:

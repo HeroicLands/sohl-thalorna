@@ -6,7 +6,6 @@ id: m9D3usjn6fIfh5by
 description: "The vast forest-and-river belt east of the Nordlands proper — endless taiga, dark mixed woodlands, and the great inland river systems of the Varokh tribes, who guard their primeval homeland with a ferocity that has broken every army sent against them."
 type: doc
 category: region
-package: thalorna
 name:
   full: Vrystwald
   aliases: []

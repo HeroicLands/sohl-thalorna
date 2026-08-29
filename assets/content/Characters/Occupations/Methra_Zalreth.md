@@ -18,7 +18,6 @@ shortcode: methrzlrth
 img: icons/person.svg
 portrait: images/being/methrzlrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Labourer (unskilled)
   station: common_folk

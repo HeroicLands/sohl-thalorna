@@ -10,7 +10,6 @@ description: "A categorized catalogue of the creatures inhabiting the world of T
 shortcode: thlbestiary
 type: doc
 category: rules
-package: thalorna
 folder:
 ---
 

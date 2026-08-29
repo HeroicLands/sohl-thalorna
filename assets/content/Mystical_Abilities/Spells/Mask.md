@@ -9,7 +9,6 @@ id: evHnQSALN3l19wSL
 img: icons/circle.svg
 shortcode: mask
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

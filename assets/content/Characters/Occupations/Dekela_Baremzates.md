@@ -18,7 +18,6 @@ shortcode: deklbrmzts
 img: icons/person.svg
 portrait: images/being/deklbrmzts-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Potter
   station: tradesfolk

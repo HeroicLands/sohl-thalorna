@@ -9,7 +9,6 @@ tags:
   - hellad
 description: "Byzarian mercenary company of brutal efficiency — willing to take the contracts other companies refuse, and the standing antagonist of one of the realm's most haunted veterans."
 type: doc
-package: thalorna
 folder:
 category: company
 id: 2mccWDWK0TBkTS8v

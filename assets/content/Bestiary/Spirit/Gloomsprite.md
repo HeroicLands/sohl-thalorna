@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/fairy.svg
 portrait: images/being/glmsprt-portrait.webp
 shortcode: glmsprt
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

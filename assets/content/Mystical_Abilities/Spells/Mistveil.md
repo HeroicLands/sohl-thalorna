@@ -11,7 +11,6 @@ id: s97gMOBl31FlaHkH
 img: icons/wind.svg
 shortcode: mistveil
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

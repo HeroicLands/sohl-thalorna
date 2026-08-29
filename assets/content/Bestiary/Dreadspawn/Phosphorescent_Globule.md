@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/slime.svg
 portrait: images/being/phsphrsc-portrait.webp
 shortcode: phsphrsc
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

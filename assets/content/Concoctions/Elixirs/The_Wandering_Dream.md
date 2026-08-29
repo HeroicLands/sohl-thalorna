@@ -12,7 +12,6 @@ id: 6rTdRtSAhpfVa4Nc
 img: icons/potion.svg
 shortcode: ElxDrm
 type: concoctiongear
-package: thalorna
 hmk:
   name: Dreamwalk
 sohl:

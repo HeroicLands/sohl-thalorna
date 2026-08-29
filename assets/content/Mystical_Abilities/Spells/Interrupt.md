@@ -11,7 +11,6 @@ id: 7bf54JPu6mgIiagn
 img: icons/circle.svg
 shortcode: intrrpt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

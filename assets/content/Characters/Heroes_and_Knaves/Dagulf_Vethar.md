@@ -19,7 +19,6 @@ shortcode: dagulfvthr
 img: icons/person.svg
 portrait: images/being/dagulfvthr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

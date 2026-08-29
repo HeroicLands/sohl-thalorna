@@ -19,7 +19,6 @@ shortcode: hotepanu
 img: icons/person.svg
 portrait: images/being/hotepanu-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

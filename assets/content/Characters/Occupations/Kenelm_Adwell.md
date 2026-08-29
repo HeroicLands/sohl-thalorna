@@ -17,7 +17,6 @@ shortcode: kenelmadwl
 img: icons/person.svg
 portrait: images/being/kenelmadwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Caravan Guard
   station: soldiery

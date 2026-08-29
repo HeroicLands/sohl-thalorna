@@ -4,7 +4,6 @@ title: "Heroes and Knaves"
 description: "Variety of characters from several cultures and occupations."
 type: doc
 category: lore
-package: thalorna
 shortcode: heroesknvs
 ---
 

@@ -7,7 +7,6 @@ id: 0xUsGQi0l0TkirTM
 img: images/mystery/hedgehog.webp
 shortcode: hedgehogttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

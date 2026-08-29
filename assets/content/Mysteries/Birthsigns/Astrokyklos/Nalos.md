@@ -8,7 +8,6 @@ id: rqZ2w3pVH8POKZ1F
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: nalos
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

@@ -20,7 +20,6 @@ shortcode: skthldfrdbn
 img: icons/person.svg
 portrait: images/being/skthldfrdbn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Brigand
   station: underworld

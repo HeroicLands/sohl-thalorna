@@ -9,7 +9,6 @@ id: ALPuO9hw9OyF9i6o
 img: icons/circle.svg
 shortcode: resurge
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

@@ -18,7 +18,6 @@ shortcode: makrinfrns
 img: icons/person.svg
 portrait: images/being/makrinfrns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Astrologer
   station: mages

@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: balamtzaku2
-package: thalorna
 terran_analog: Equador, Peru, western Brazil
 parent:
   regions:

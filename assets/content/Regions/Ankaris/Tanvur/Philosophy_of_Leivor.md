@@ -5,7 +5,6 @@ aliases:
 id: zyE0FcQlZ3Ej0w7Z
 type: doc
 category: lore
-package: thalorna
 name:
   full: Philosophy of Lëivōr
   aliases: []

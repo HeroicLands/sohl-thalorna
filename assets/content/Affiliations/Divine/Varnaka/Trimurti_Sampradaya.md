@@ -31,7 +31,6 @@ epithet: The Tradition of the Three Forms
 domain: Universal
 symbol: Three intertwined lotus blossoms encircling a central flame
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

@@ -6,7 +6,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: Ru9ClYULaK1GevP1
 shortcode: seker
 name:

@@ -7,7 +7,6 @@ id: GOFYJG8SHFbxXoPh
 img: images/mystery/pigeon.webp
 shortcode: pigeonttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

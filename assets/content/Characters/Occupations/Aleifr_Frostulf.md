@@ -18,7 +18,6 @@ shortcode: alfrfrstlf
 img: icons/person.svg
 portrait: images/being/alfrfrstlf-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hunter
   station: tradesfolk

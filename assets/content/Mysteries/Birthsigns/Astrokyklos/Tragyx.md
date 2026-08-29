@@ -8,7 +8,6 @@ id: jq8GiYBpQYyWBMdA
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: tragyx
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

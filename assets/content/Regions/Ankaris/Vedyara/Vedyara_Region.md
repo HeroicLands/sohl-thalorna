@@ -14,7 +14,6 @@ shortcode: vedyarargn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: India (subcontinent of independent states)
 demonym: Vedyaran
 parent:

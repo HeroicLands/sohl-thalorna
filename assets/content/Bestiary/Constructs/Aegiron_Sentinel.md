@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/golem-head.svg
 portrait: images/being/agrnsntn-portrait.webp
 shortcode: agrnsntn
 type: being
-package: thalorna
 sohl:
   kbcat: construct
   archetype: 0

@@ -11,7 +11,6 @@ id: abOHjvEhJ91Fl21O
 img: icons/anvil.svg
 shortcode: grasp
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

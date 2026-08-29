@@ -10,7 +10,6 @@ languages:
   - kheperlng
 pantheons:
   - kemtnpnthn
-package: thalorna
 name:
   full: Mehit-Per
   aliases: []

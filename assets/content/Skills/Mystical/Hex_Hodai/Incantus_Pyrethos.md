@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: 1Kso12F4XCw5T5aQ
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp

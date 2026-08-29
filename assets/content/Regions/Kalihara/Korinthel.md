@@ -11,7 +11,6 @@ languages:
   - kalihrlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Korinthel
   aliases: []

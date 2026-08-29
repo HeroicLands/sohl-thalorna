@@ -16,7 +16,6 @@ shortcode: thrstnfrstlf
 img: icons/person.svg
 portrait: images/being/thrstnfrstlf-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmvthgrd
   region: nrdlndsrgn

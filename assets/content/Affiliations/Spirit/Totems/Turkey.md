@@ -7,7 +7,6 @@ id: KkBgTFTb3CYb58uj
 img: images/mystery/turkey.webp
 shortcode: turkeyttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

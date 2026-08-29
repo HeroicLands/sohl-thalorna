@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/eagle-head.svg
 portrait: images/being/thndrbrd-portrait.webp
 shortcode: thndrbrd
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

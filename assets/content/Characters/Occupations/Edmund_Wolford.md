@@ -17,7 +17,6 @@ shortcode: edmndwlfrd
 img: icons/person.svg
 portrait: images/being/edmndwlfrd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Clothier
   station: tradesfolk

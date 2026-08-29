@@ -14,7 +14,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 id: YiDdtbTWX3I7nh0J
 img: images/affiliation/kentra.webp
 shortcode: kentra

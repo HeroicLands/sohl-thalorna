@@ -18,7 +18,6 @@ shortcode: shamulzbsh
 img: icons/person.svg
 portrait: images/being/shamulzbsh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Priest
   station: clergy

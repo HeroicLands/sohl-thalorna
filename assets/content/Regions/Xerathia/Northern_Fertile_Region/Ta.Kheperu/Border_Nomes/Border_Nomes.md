@@ -6,7 +6,6 @@ id: YoMOpU26pV376QTY
 description: "The military frontier of Ta'Kheperu — ten thinly-peopled marches on the southern cataracts, the eastern mineral hills, and the western steppe-edge, whose nomarchs rule as military governors and whose hard postings breed the empire's most experienced soldiers."
 type: doc
 category: polity
-package: thalorna
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Border Nomes

@@ -11,7 +11,6 @@ id: l7KVpqQvsbTiL5Ic
 img: icons/circle.svg
 shortcode: sharpen
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

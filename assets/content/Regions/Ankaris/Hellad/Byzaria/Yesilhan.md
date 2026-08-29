@@ -6,7 +6,6 @@ id: Kp8FWi2xfH3Yz9Iz
 description: "Green-land city-state of the Byzarian League on the southern coast — prosperous maritime city with a reputation for gardeners, merchants, and peaceful culture."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Yeşilhan
   aliases: []

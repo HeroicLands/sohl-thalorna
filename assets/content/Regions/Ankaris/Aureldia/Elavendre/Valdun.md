@@ -11,7 +11,6 @@ languages:
   - elvndrlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Valdûn
   aliases: []

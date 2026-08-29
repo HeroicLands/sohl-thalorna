@@ -4,7 +4,6 @@ aliases:
 tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: doc
-package: thalorna
 folder: bVhz4i3fwwT0NDSW
 category: company
 id: SG3QpIM8U4cfoua5

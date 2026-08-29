@@ -18,7 +18,6 @@ shortcode: jdhrsbshrn
 img: icons/person.svg
 portrait: images/being/jdhrsbshrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Common Seaman
   station: common_folk

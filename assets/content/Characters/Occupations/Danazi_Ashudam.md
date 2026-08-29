@@ -18,7 +18,6 @@ shortcode: danazishdm
 img: icons/person.svg
 portrait: images/being/danazishdm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Gladiator
   station: soldiery

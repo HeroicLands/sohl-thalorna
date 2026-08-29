@@ -19,7 +19,6 @@ shortcode: eldridfrhr
 img: icons/person.svg
 portrait: images/being/eldridfrhr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdmnrgd
   region: nrdlndsrgn

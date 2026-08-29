@@ -18,7 +18,6 @@ shortcode: idriskrsvr
 img: icons/person.svg
 portrait: images/being/idriskrsvr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmprvnz
   region: provenzrgn

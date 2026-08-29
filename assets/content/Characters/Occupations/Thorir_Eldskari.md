@@ -18,7 +18,6 @@ shortcode: thorrldskr
 img: icons/person.svg
 portrait: images/being/thorrldskr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

@@ -7,7 +7,6 @@ id: f2kNbG0MoglMLN31
 img: icons/psionics.svg
 shortcode: ampl
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

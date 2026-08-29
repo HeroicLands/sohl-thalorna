@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/owl.svg
 portrait: images/being/giantowl-portrait.webp
 shortcode: giantowl
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

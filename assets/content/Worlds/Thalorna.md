@@ -6,7 +6,6 @@ id: ZwEe2tr8ed7HSXG4
 type: doc
 category: world
 folder: wCi1zv06QgydQQoL
-package: thalorna
 name:
   full: The World of Thalorna
   aliases: []

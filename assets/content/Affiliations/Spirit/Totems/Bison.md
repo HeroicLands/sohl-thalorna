@@ -7,7 +7,6 @@ id: 2CpsqSoWBpEsHCU9
 img: images/mystery/bison.webp
 shortcode: bisonttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

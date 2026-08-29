@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/rock-golem.svg
 portrait: images/being/lthgnt-portrait.webp
 shortcode: lthgnt
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

@@ -11,7 +11,6 @@ id: 4tvKHKiNxPnOhUMe
 img: icons/tree.svg
 shortcode: renewal
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

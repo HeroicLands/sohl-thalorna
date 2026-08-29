@@ -17,7 +17,6 @@ shortcode: wilfrednwl
 img: icons/person.svg
 portrait: images/being/wilfrednwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Herder
   station: common_folk

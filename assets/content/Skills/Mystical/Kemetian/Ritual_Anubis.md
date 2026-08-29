@@ -6,7 +6,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: hj4uC8BPlczmfJWV
 shortcode: anubis
 name:

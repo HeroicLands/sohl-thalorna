@@ -19,7 +19,6 @@ shortcode: vrgskrflbld
 img: icons/person.svg
 portrait: images/being/vrgskrflbld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Helspawn Warlord
   station: soldiery

@@ -18,7 +18,6 @@ shortcode: sfrsrkhmns
 img: icons/person.svg
 portrait: images/being/sfrsrkhmns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Infantry
   station: soldiery

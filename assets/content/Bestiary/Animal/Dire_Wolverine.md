@@ -12,7 +12,6 @@ img: icons/game-icons/caro-asercion/badger.svg
 portrait: images/being/drwlvrn-portrait.webp
 shortcode: drwlvrn
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

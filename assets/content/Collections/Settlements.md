@@ -7,7 +7,6 @@ name:
   aliases: []
 type: doc
 category: collection
-package: thalorna
 shortcode: setlements
 section: settlement
 tags:

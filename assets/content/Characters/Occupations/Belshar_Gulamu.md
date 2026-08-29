@@ -18,7 +18,6 @@ shortcode: belsharglm
 img: icons/person.svg
 portrait: images/being/belsharglm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Locksmith
   station: tradesfolk

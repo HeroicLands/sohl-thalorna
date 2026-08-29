@@ -19,7 +19,6 @@ shortcode: hrlfrshldbrr
 img: icons/person.svg
 portrait: images/being/hrlfrshldbrr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Warrior and Defender
   station: soldiery

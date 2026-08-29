@@ -11,7 +11,6 @@ tags:
   - credit
 description: "Credit systems operating in clan- and tribal-based polities — extended kin obligations, hall-credit, and tribal exchange networks that handle long-term commerce without formal banking institutions, currency, or written instruments."
 type: doc
-package: thalorna
 category: reference
 id: oxzYBHD1KdZ6nmeC
 name:

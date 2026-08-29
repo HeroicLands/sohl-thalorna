@@ -9,7 +9,6 @@ id: WBjsWdfKSwApBpN4
 img: icons/fire.svg
 shortcode: flame
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

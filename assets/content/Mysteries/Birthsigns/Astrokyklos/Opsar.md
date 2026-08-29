@@ -8,7 +8,6 @@ id: 7MjeFB12JeEiQEbU
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: opsar
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

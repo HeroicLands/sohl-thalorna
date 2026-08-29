@@ -5,7 +5,6 @@ id: 7oWBo0VIlcveRxf8
 description: "Matriarchal realm of Xerathia where women hold all positions of power and authority — a society shaped by female leadership and the traditions of the elder races."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Matriarchy of Bethûa
   aliases: []

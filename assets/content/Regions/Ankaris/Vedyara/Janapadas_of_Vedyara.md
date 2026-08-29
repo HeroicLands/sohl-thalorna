@@ -7,7 +7,6 @@ aliases:
 tags: []
 type: doc
 category: polity
-package: thalorna
 description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics — the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varṇaka tradition.
 name:
   full: Janapadas of Vedyara

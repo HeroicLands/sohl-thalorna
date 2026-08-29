@@ -8,7 +8,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: MiEDAWoEZ3M08tft
 shortcode: mahajaya
 name:

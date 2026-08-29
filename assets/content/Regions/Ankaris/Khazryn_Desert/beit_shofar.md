@@ -10,7 +10,6 @@ languages:
   - atarzadi-language
 pantheons:
   - ashanpnthn
-package: thalorna
 name:
   full: Beit-Shōfár
   aliases: []

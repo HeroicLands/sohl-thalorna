@@ -12,7 +12,6 @@ img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/mntndrk-portrait.webp
 shortcode: mntndrk
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

@@ -10,7 +10,6 @@ languages:
   - kicheklng
 pantheons:
   - itzanpnthn
-package: thalorna
 name:
   full: Ba'alam Tza'ku
   aliases: []

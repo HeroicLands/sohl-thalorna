@@ -18,7 +18,6 @@ shortcode: galiaralwn
 img: icons/person.svg
 portrait: images/being/galiaralwn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Nobility (Courtier)
   station: administration

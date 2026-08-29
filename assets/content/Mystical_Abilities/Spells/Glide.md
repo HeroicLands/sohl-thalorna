@@ -11,7 +11,6 @@ id: S5e7RbUmFMJPyTvM
 img: icons/water.svg
 shortcode: glide
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

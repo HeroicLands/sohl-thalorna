@@ -12,7 +12,6 @@ id: RLBFOJy4DDLdC7dE
 img: icons/potion.svg
 shortcode: ElxSBf
 type: concoctiongear
-package: thalorna
 hmk:
   name: Soulbuffer
 sohl:

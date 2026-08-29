@@ -18,7 +18,6 @@ shortcode: tldrklmrth
 img: icons/person.svg
 portrait: images/being/tldrklmrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Fisher
   station: common_folk

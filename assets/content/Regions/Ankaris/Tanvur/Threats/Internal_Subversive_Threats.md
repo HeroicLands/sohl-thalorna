@@ -4,7 +4,6 @@ aliases:
 id: CMPw7T4QzM8gCtkS
 type: doc
 category: lore
-package: thalorna
 name:
   full: Internal Subversive Threats
   aliases: []

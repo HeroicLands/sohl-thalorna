@@ -18,7 +18,6 @@ shortcode: thereshbls
 img: icons/person.svg
 portrait: images/being/thereshbls-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Prostitute
   station: underworld

@@ -5,7 +5,6 @@ aliases:
 id: ftY2uPxiDE8H1Cpu
 type: doc
 category: lore
-package: thalorna
 name:
   full: Nōkvür
   aliases: []

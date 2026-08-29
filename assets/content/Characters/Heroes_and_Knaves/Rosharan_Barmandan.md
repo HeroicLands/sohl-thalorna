@@ -16,7 +16,6 @@ shortcode: rshrnbrmndn
 img: icons/person.svg
 portrait: images/being/rshrnbrmndn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: sultntmrdd
   region: amradadrgn

@@ -18,7 +18,6 @@ shortcode: sndwrhldvth
 img: icons/person.svg
 portrait: images/being/sndwrhldvth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Ostler
   station: common_folk

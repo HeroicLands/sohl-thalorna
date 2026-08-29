@@ -12,7 +12,6 @@ id: YWTF2eNjPIeHCF4a
 img: icons/tree.svg
 shortcode: healtch
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

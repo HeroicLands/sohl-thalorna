@@ -11,7 +11,6 @@ id: CifujLwsWAQi0VGw
 img: icons/tree.svg
 shortcode: sentinel
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

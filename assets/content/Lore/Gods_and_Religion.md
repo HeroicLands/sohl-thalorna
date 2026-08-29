@@ -11,7 +11,6 @@ tags:
   - secret
   - metaphysics
 type: doc
-package: thalorna
 category: lore
 id: QWOuw6GkCEWwsRjO
 folder: t3p5qf6rZc8w0Nc4

@@ -18,7 +18,6 @@ shortcode: tamithjdrn
 img: icons/person.svg
 portrait: images/being/tamithjdrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mason
   station: tradesfolk

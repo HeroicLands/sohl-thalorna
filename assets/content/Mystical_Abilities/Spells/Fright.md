@@ -11,7 +11,6 @@ id: JftT2fmGGmmUUHLW
 img: icons/divination.svg
 shortcode: fright
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

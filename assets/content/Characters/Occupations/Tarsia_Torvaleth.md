@@ -18,7 +18,6 @@ shortcode: tarstrvlth
 img: icons/person.svg
 portrait: images/being/tarstrvlth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

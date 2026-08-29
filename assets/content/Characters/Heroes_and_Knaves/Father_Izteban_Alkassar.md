@@ -21,7 +21,6 @@ shortcode: frztbnlksr
 img: icons/person.svg
 portrait: images/being/frztbnlksr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kingdmtrvn
   region: tarvenirgn

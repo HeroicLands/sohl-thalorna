@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: LN755jKLwqE8HQsr
 shortcode: ymir
 img: images/affiliation/ymir.webp

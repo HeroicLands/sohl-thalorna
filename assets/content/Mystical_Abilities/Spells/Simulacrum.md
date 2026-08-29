@@ -11,7 +11,6 @@ id: 9e4TZcO8JbQ6SJSd
 img: icons/circle.svg
 shortcode: smlcrm
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

@@ -12,7 +12,6 @@ languages:
   - kalihrlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Telvári
   aliases: []

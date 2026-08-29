@@ -17,7 +17,6 @@ shortcode: rowenstrtn
 img: icons/person.svg
 portrait: images/being/rowenstrtn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Animal Trainer
   station: tradesfolk

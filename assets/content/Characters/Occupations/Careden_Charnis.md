@@ -18,7 +18,6 @@ shortcode: cardnchrns
 img: icons/person.svg
 portrait: images/being/cardnchrns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Shaman
   station: clergy

@@ -18,7 +18,6 @@ shortcode: hrthgrrnfst
 img: icons/person.svg
 portrait: images/being/hrthgrrnfst-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Blacksmith and Warrior
   station: soldiery

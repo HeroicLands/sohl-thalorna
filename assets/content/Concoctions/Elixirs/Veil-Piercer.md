@@ -12,7 +12,6 @@ id: 01PVAroCjrcBtlNi
 img: icons/potion.svg
 shortcode: ElxGst
 type: concoctiongear
-package: thalorna
 hmk:
   name: Ghostsight
 sohl:

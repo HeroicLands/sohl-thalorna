@@ -9,7 +9,6 @@ settlementType: "Temple City"
 population: null
 pantheons:
   - nkaruthar
-package: thalorna
 name:
   full: Zarhánor
   aliases:

@@ -22,7 +22,6 @@ sohl:
   relation:
     firstgods: aligned
   archetype: null
-package: thalorna
 deity: The First Gods (the Bright and the Dark)
 epithet: The Way of the First
 domain: Shamanism, the Kindred, balance of the Two Powers

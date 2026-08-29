@@ -14,7 +14,6 @@ shortcode: okharisrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Okháric
 parent:
   regions:

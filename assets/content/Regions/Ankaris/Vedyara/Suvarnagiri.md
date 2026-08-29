@@ -6,7 +6,6 @@ id: q5KssAIUA8eYcX2L
 type: doc
 category: settlement
 settlementType: "City"
-package: thalorna
 name:
   full: Suvarṇagiri
   aliases: []

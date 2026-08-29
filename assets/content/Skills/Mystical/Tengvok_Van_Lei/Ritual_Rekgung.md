@@ -7,7 +7,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: ResXgLQ6fWPyAdP3
 shortcode: rekgung
 name:

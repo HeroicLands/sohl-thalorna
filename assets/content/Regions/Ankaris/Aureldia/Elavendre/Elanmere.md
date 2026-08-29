@@ -10,7 +10,6 @@ languages:
   - elvndrlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Elanmere
   aliases: []

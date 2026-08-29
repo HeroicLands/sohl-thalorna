@@ -11,7 +11,6 @@ id: omSoakCgX5yjWReG
 img: icons/anvil.svg
 shortcode: pushback
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

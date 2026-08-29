@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/worm-mouth.svg
 portrait: images/being/sandwurm-portrait.webp
 shortcode: sandwurm
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: g4SPdofC5APWStnr
 shortcode: yokzhuk
 name:

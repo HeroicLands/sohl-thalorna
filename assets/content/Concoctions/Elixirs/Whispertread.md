@@ -12,7 +12,6 @@ id: uD4RDH58iEwwgKTH
 img: icons/potion.svg
 shortcode: ElxFtp
 type: concoctiongear
-package: thalorna
 hmk:
   name: Footpad
 sohl:

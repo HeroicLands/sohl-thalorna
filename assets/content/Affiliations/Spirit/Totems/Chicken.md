@@ -7,7 +7,6 @@ id: zAcMdNEQ72INVoNU
 img: images/mystery/chicken.webp
 shortcode: chickenttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

@@ -11,7 +11,6 @@ id: ReRrO0oHiGYvk6Kz
 img: icons/tree.svg
 shortcode: stnbnd
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

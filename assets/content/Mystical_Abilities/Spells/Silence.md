@@ -11,7 +11,6 @@ id: oYSG6X9TAjXc8Y6q
 img: icons/wind.svg
 shortcode: silence
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

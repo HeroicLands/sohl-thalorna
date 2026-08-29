@@ -17,7 +17,6 @@ shortcode: hrldhlmsly
 img: icons/person.svg
 portrait: images/being/hrldhlmsly-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Animal Trainer
   station: tradesfolk

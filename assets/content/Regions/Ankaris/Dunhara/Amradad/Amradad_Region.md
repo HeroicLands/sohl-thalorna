@@ -14,7 +14,6 @@ shortcode: amradadrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Amradi
 parent:
   regions:

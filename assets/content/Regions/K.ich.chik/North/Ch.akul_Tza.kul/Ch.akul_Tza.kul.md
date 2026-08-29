@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: chakultzkl2
-package: thalorna
 terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 parent:
   regions:

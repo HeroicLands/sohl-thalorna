@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: kuxibalam2
-package: thalorna
 terran_analog: Bolivia, Southern Central Brazil
 parent:
   regions:

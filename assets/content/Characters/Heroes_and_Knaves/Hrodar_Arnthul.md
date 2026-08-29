@@ -19,7 +19,6 @@ shortcode: hrodrrnthl
 img: icons/person.svg
 portrait: images/being/hrodrrnthl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Brigand
   station: underworld

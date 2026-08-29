@@ -9,7 +9,6 @@ name:
   full: Cave Outline
   aliases: []
 shortcode: caveoutlin
-package: thalorna
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy

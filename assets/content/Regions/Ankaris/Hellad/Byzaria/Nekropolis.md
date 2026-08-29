@@ -5,7 +5,6 @@ aliases:
 id: oVedEJI68W2dAXzt
 type: doc
 category: location
-package: thalorna
 name:
   full: Nékropolis
   aliases: []

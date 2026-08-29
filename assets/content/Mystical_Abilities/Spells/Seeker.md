@@ -9,7 +9,6 @@ id: 00MLcg47Jqc1VD89
 img: icons/fire.svg
 shortcode: seeker
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

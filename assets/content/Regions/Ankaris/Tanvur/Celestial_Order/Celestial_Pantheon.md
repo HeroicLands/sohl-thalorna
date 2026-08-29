@@ -4,7 +4,6 @@ aliases:
 id: ocg6hDA9966VDQNB
 type: doc
 category: lore
-package: thalorna
 name:
   full: Celestial Pantheon
   aliases: []

@@ -5,7 +5,6 @@ id: kDexjFi0gHnVg2xA
 type: doc
 category: settlement
 settlementType: "Craft Town"
-package: thalorna
 name:
   full: Ashkarad
   aliases: []

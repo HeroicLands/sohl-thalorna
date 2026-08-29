@@ -18,7 +18,6 @@ shortcode: jolrenlvnr
 img: icons/person.svg
 portrait: images/being/jolrenlvnr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mason
   station: tradesfolk

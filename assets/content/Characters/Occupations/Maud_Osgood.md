@@ -17,7 +17,6 @@ shortcode: maudosgood
 img: icons/person.svg
 portrait: images/being/maudosgood-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Beggar
   station: common_folk

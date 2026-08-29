@@ -7,7 +7,6 @@ id: RbJ9D3CclnLOGenm
 img: images/mystery/catfish.webp
 shortcode: catfishttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

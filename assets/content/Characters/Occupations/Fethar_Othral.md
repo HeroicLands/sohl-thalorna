@@ -18,7 +18,6 @@ shortcode: fetharthrl
 img: icons/person.svg
 portrait: images/being/fetharthrl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Potter
   station: tradesfolk

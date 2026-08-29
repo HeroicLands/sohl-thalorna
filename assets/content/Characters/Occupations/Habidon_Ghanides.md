@@ -18,7 +18,6 @@ shortcode: habdnghnds
 img: icons/person.svg
 portrait: images/being/habdnghnds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

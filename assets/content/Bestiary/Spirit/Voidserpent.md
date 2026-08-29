@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/snake.svg
 portrait: images/being/vdsrpnt-portrait.webp
 shortcode: vdsrpnt
 type: being
-package: thalorna
 sohl:
   kbcat: spirit
   archetype: 0

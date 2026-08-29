@@ -8,7 +8,6 @@ id: BdARpfjp4ZpLEz1M
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: stathmos
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

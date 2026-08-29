@@ -6,7 +6,6 @@ id: GkOSX9uDj3AmjiVz
 type: doc
 category: settlement
 settlementType: "Caravan Waypoint"
-package: thalorna
 name:
   full: Kethramír
   aliases: []

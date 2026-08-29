@@ -14,7 +14,6 @@ shortcode: jurthatrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: Japanese archipelago (mountainous volcanic islands)
 demonym: Jürthāti
 parent:

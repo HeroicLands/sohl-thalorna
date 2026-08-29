@@ -18,7 +18,6 @@ shortcode: nushirnrsf
 img: icons/person.svg
 portrait: images/being/nushirnrsf-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: khzrncnfdrtn
   region: khzryndsrtrgn

@@ -5,7 +5,6 @@ aliases:
 id: 1pwOmb53lxa04h1Z
 type: doc
 category: lore
-package: thalorna
 name:
   full: Bāthür Hürtzhük
   aliases: []

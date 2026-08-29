@@ -11,7 +11,6 @@ id: TFXxc8Oa3DA7Iyhm
 img: icons/anvil.svg
 shortcode: smash
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

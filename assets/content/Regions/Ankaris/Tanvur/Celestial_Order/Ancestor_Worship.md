@@ -4,7 +4,6 @@ aliases:
 id: HsTCTeOJqNcesHck
 type: doc
 category: lore
-package: thalorna
 name:
   full: Ancestor Worship
   aliases: []

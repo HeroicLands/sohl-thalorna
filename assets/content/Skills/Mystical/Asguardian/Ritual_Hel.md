@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: KL7E51ouWGouFCot
 shortcode: hel
 img: images/affiliation/hel.webp

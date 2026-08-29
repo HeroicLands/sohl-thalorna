@@ -11,7 +11,6 @@ id: mh86CmiyMuiF1nwi
 img: icons/wind.svg
 shortcode: cntnmnt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

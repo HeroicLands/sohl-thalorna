@@ -8,7 +8,6 @@ id: vKmINLcD4XwVEtZv
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: bourax
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

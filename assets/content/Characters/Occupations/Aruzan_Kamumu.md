@@ -18,7 +18,6 @@ shortcode: aruzankamm
 img: icons/person.svg
 portrait: images/being/aruzankamm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bodyguard
   station: soldiery

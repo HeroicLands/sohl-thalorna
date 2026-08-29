@@ -16,7 +16,6 @@ shortcode: branwldrgr
 img: icons/person.svg
 portrait: images/being/branwldrgr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmprvnz
   region: provenzrgn

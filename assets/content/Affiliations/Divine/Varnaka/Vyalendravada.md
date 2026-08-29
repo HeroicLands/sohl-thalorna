@@ -31,7 +31,6 @@ epithet: The Doctrine of Vyālendra
 domain: Universal
 symbol: A single golden lotus inscribed within a ring of script
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

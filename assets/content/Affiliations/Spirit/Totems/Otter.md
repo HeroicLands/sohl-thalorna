@@ -7,7 +7,6 @@ id: fXswwp4qhC9zXrtZ
 img: images/mystery/otter.webp
 shortcode: otterttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

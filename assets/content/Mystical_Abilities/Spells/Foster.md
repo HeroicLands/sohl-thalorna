@@ -11,7 +11,6 @@ id: pB5CgIeSEUuCdFo6
 img: icons/tree.svg
 shortcode: foster
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

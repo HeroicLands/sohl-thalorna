@@ -11,7 +11,6 @@ id: jleq8h3pn5zejpkT
 img: icons/tree.svg
 shortcode: insight
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

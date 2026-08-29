@@ -6,7 +6,6 @@ tags: []
 description: Free port city on a small island off Élavendre's northern coast — a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
 type: doc
 category: polity
-package: thalorna
 name:
   full: Calypsa
   aliases: []

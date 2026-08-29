@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: CVBP6nEwAVenRFYe
 shortcode: zhaksok
 name:

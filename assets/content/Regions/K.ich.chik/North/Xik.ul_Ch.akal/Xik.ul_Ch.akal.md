@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: xikulchakl2
-package: thalorna
 terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
 parent:
   regions:

@@ -11,7 +11,6 @@ id: LJUcqEwUPQwVH9N4
 img: icons/divination.svg
 shortcode: passion
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

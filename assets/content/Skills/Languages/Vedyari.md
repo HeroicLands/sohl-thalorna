@@ -10,7 +10,6 @@ id: DKD7KcuikPJx3oIW
 img: icons/speaking.svg
 shortcode: vedyarlng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

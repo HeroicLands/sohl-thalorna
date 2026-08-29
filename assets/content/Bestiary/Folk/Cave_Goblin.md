@@ -12,7 +12,6 @@ img: icons/game-icons/caro-asercion/goblin.svg
 portrait: images/being/cvgbln-portrait.webp
 shortcode: cvgbln
 type: being
-package: thalorna
 sohl:
   kbcat: goblin
   archetype: 0

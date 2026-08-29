@@ -18,7 +18,6 @@ shortcode: rudavahfrd
 img: icons/person.svg
 portrait: images/being/rudavahfrd-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: sultntmrdd
   region: amradadrgn

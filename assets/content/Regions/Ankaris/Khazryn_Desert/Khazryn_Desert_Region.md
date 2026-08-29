@@ -15,7 +15,6 @@ shortcode: khzryndsrtrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazran and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 demonym: Khazryn
 parent:

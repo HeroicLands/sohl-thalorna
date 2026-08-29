@@ -11,7 +11,6 @@ languages:
   - byzarnlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Thálassos
   aliases: []

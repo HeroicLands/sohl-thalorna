@@ -11,7 +11,6 @@ id: dh5Ap7O6XBeWW2ko
 img: icons/tree.svg
 shortcode: halt
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

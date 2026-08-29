@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/fthrcrst-portrait.webp
 shortcode: fthrcrst
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

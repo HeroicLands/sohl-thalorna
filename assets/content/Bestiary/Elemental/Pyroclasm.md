@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/pyrclsm-portrait.webp
 shortcode: pyrclsm
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

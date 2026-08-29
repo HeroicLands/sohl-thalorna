@@ -1,7 +1,6 @@
 ---
 tags: []
 type: doc
-package: thalorna
 folder: bVhz4i3fwwT0NDSW
 category: section
 id: BQnufPtiIE5BNAeX

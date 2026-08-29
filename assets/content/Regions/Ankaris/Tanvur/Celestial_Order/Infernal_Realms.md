@@ -4,7 +4,6 @@ aliases:
 id: 38CzVGSAQ2uOOfyn
 type: doc
 category: lore
-package: thalorna
 name:
   full: Infernal Realms
   aliases: []

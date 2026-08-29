@@ -8,7 +8,6 @@ aliases:
 tags: []
 type: doc
 category: polity
-package: thalorna
 description: The indigenous oasis-civilization of the Khazryn Desert, displaced from its choicest lands four generations ago by the Ātárzád conquest. Reduced today to peripheral oases, dispossessed princely houses in exile, and a large subject merchant-and-craftsman population within the conquered cities — but unyielding in its claim that the Khazryn is named for the Khazran and is the Khazran's by right.
 name:
   full: Khazran Confederation

@@ -17,7 +17,6 @@ shortcode: alfrdbrnwl
 img: icons/person.svg
 portrait: images/being/alfrdbrnwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Alchemist
   station: mages

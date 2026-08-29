@@ -19,7 +19,6 @@ shortcode: dumarsrfrs
 img: icons/person.svg
 portrait: images/being/dumarsrfrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Priest
   station: clergy

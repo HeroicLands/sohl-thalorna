@@ -20,7 +20,6 @@ sohl:
     theoldway: aligned
     thekindred: aligned
   archetype: null
-package: thalorna
 folder: w9xJ9t5nQB0ajETq
 ---
 

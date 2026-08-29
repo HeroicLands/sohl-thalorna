@@ -11,7 +11,6 @@ tags:
   - midhalion
   - philosophy
 description: "Ancient scholarly federation of all human knowledge, co-opted as intellectual cover for the Ordo Arcanis's spread through chapterhouses across western Ankaris."
-package: thalorna
 id: zxIojNlekf2UacyG
 name:
   full: Panepistemium

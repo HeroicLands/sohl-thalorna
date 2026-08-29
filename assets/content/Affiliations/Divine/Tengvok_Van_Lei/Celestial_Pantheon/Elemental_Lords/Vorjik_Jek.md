@@ -26,7 +26,6 @@ epithet: The Lord of Fire
 domain: Fire
 symbol: A vermillion flame rising from a gold ember-disc
 pantheon: tngvkvnlei
-package: thalorna
 folder: VmJuVqaOGhXrvXQs
 ---
 

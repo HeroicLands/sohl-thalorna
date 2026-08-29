@@ -18,7 +18,6 @@ shortcode: tharicstrn
 img: icons/person.svg
 portrait: images/being/tharicstrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Domestic Servant
   station: common_folk

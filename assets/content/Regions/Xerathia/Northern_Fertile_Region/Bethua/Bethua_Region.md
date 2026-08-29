@@ -14,7 +14,6 @@ shortcode: bethuargn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Bethûan
 parent:
   regions:

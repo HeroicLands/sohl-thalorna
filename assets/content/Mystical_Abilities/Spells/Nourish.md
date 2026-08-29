@@ -11,7 +11,6 @@ id: uRZ17Ffgwt3MwtEH
 img: icons/divination.svg
 shortcode: nourish
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

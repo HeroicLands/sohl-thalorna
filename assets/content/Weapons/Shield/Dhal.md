@@ -10,7 +10,6 @@ id: T1SviWWVvq2RfB5V
 img: icons/round-shield.svg
 shortcode: Dhal
 type: weapongear
-package: thalorna
 sohl:
   kbcat: shield
   durability: 11

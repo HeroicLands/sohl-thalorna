@@ -29,7 +29,6 @@ epithet: The Wandering Wind
 domain: Travellers
 symbol: A wind-filled sail
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

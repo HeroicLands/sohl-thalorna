@@ -18,7 +18,6 @@ shortcode: belrktrvnl
 img: icons/person.svg
 portrait: images/being/belrktrvnl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

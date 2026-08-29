@@ -17,7 +17,6 @@ shortcode: wnfrdlvrtn
 img: icons/person.svg
 portrait: images/being/wnfrdlvrtn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cartographer/Artist
   station: tradesfolk

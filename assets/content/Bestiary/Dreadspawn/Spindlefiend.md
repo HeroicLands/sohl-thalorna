@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/spndlfnd-portrait.webp
 shortcode: spndlfnd
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

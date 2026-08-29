@@ -10,7 +10,6 @@ id: 0wzqmCGrAebJzR13
 img: icons/sword.svg
 shortcode: Shmshr
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

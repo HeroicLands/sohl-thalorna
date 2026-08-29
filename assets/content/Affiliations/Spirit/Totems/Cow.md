@@ -7,7 +7,6 @@ id: zJVBT4rbche7Cmfb
 img: images/mystery/cow.webp
 shortcode: cowttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

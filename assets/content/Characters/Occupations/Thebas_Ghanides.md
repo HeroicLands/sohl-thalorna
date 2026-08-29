@@ -18,7 +18,6 @@ shortcode: thebsghnds
 img: icons/person.svg
 portrait: images/being/thebsghnds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Teamster
   station: common_folk

@@ -13,7 +13,6 @@ tags:
   - treasury
   - religion
 description: "Kheperi temple-treasury institution — the network of priestly account-houses attached to the great temples of Ta'Kheperu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."
-package: thalorna
 id: zz1L0rt8RtMBFZ5u
 name:
   full: Pér-Háti

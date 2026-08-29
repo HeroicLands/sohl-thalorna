@@ -12,7 +12,6 @@ id: elc3nRI3un00aLJb
 img: icons/potion.svg
 shortcode: PtnEmS
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Emetic, Strong"
 sohl:

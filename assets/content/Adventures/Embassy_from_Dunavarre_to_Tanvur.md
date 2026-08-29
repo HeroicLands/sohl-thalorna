@@ -7,7 +7,6 @@ name:
   aliases: []
 shortcode: embsydnvrtnvr
 type: doc
-package: thalorna
 category: adventure
 thalorna:
   region: aelwyth

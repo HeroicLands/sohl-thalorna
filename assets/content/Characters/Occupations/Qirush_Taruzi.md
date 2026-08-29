@@ -18,7 +18,6 @@ shortcode: qirushtarz
 img: icons/person.svg
 portrait: images/being/qirushtarz-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hideworker
   station: tradesfolk

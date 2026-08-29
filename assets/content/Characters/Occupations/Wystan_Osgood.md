@@ -17,7 +17,6 @@ shortcode: wystanosgd
 img: icons/person.svg
 portrait: images/being/wystanosgd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Ratter
   station: common_folk

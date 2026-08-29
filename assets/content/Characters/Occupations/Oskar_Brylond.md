@@ -18,7 +18,6 @@ shortcode: oskrbrylnd
 img: icons/person.svg
 portrait: images/being/oskrbrylnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercantyler
   station: tradesfolk

@@ -18,7 +18,6 @@ shortcode: armndhldskrn
 img: icons/person.svg
 portrait: images/being/armndhldskrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Jester
   station: tradesfolk

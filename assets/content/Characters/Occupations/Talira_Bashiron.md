@@ -18,7 +18,6 @@ shortcode: talirbshrn
 img: icons/person.svg
 portrait: images/being/talirbshrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Alchemist
   station: mages

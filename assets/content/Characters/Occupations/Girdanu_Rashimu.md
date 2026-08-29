@@ -18,7 +18,6 @@ shortcode: girdanrshm
 img: icons/person.svg
 portrait: images/being/girdanrshm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Gladiator
   station: soldiery

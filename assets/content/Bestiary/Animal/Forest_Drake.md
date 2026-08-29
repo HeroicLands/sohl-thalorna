@@ -12,7 +12,6 @@ img: icons/game-icons/faithtoken/dragon-head.svg
 portrait: images/being/frstdrk-portrait.webp
 shortcode: frstdrk
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

@@ -18,7 +18,6 @@ shortcode: gracncstrn
 img: icons/person.svg
 portrait: images/being/gracncstrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

@@ -7,7 +7,6 @@ name:
   aliases: []
 type: doc
 category: collection
-package: thalorna
 shortcode: continents
 section: continent
 tags:

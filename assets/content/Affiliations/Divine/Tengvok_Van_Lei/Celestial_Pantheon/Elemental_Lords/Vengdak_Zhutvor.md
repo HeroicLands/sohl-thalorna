@@ -26,7 +26,6 @@ epithet: The Lord of Earth
 domain: Earth
 symbol: 'A bronze disc bearing the gold glyph for "mountain"'
 pantheon: tngvkvnlei
-package: thalorna
 folder: VmJuVqaOGhXrvXQs
 ---
 

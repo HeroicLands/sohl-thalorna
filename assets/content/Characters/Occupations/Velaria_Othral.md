@@ -19,7 +19,6 @@ shortcode: velarithrl
 img: icons/person.svg
 portrait: images/being/velarithrl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Priest
   station: clergy

@@ -5,7 +5,6 @@ aliases:
   - The Fiscal Court
 tags: []
 description: "Vylarian imperial taxation administration — sets imperial tax rates, awards Publicarius collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; operates only in the empire's direct-governance territories (Vylaria and Heliónis)."
-package: thalorna
 id: j248EwqRhOZaItsw
 name:
   full: The Curia Fiscalis

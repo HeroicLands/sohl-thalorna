@@ -19,7 +19,6 @@ shortcode: palnsnrcth
 img: icons/person.svg
 portrait: images/being/palnsnrcth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Priest
   station: clergy

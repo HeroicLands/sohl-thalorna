@@ -18,7 +18,6 @@ shortcode: daryshshvn
 img: icons/person.svg
 portrait: images/being/daryshshvn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: sultntmrdd
   region: amradadrgn

@@ -18,7 +18,6 @@ shortcode: arislkrsvr
 img: icons/person.svg
 portrait: images/being/arislkrsvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Herald
   station: administration

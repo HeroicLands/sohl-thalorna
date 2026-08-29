@@ -11,7 +11,6 @@ id: zV7fxaBJyE7IDOxg
 img: icons/wind.svg
 shortcode: illusion
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

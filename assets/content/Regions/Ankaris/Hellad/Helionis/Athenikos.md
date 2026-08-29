@@ -5,7 +5,6 @@ id: YoecXj6UMRMpDlJx
 description: "City-state of Helionis governed by an oligarchy of wealthy patron families."
 type: doc
 category: polity
-package: thalorna
 name:
   full: Athenikos
   aliases: []

@@ -13,7 +13,6 @@ shortcode: vylarianse
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: The Mediterranean Sea
 parent:
   continents:

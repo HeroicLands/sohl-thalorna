@@ -28,7 +28,6 @@ epithet: The Shaper of Worlds
 domain: Creation
 symbol: A lotus with golden petals
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

@@ -12,7 +12,6 @@ id: 8d92VDvqDzTX5Pdu
 img: icons/potion.svg
 shortcode: ElxWkn
 type: concoctiongear
-package: thalorna
 hmk:
   name: Weakness
 sohl:

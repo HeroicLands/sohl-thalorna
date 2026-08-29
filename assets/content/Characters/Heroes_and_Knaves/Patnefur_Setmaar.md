@@ -19,7 +19,6 @@ shortcode: patnfrstmr
 img: icons/person.svg
 portrait: images/being/patnfrstmr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: empirtkhpr
   region: takheperurgn

@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: 0xHlGRHD5qQ3kvS7
 shortcode: florania
 img: images/affiliation/florania.webp

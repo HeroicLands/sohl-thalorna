@@ -6,7 +6,6 @@ aliases:
 name:
   full: totem-descriptions
   aliases: []
-package: thalorna
 ---
 
 1. **Badger: Tenacious and Independent**

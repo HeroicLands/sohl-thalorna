@@ -18,7 +18,6 @@ shortcode: othwindmhr
 img: icons/person.svg
 portrait: images/being/othwindmhr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Trapper
   station: common_folk

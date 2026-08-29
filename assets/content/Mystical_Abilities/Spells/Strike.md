@@ -11,7 +11,6 @@ id: tz8cj6ntnZKCwg6k
 img: icons/anvil.svg
 shortcode: strike
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

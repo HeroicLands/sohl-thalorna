@@ -10,7 +10,6 @@ id: biesSfy4Vps4r7wt
 img: icons/speaking.svg
 shortcode: okharclng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

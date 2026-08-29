@@ -19,7 +19,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 deity: ""
 epithet: The Living Whole
 domain: Reverence for the interconnected whole; ecological balance

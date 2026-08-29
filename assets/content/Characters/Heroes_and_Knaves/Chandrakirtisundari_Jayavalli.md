@@ -18,7 +18,6 @@ shortcode: chndrkrtsndrjyvl
 img: icons/person.svg
 portrait: images/being/chndrkrtsndrjyvl-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vyalendra2
   region: vedyarargn

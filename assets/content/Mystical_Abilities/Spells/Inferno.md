@@ -9,7 +9,6 @@ id: RTZJsg6pRg9753ie
 img: icons/fire.svg
 shortcode: inferno
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

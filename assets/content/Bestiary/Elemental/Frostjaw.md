@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/frostjaw-portrait.webp
 shortcode: frostjaw
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

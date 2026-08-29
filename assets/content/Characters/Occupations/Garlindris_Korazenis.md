@@ -18,7 +18,6 @@ shortcode: grlndrskrzns
 img: icons/person.svg
 portrait: images/being/grlndrskrzns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Herald
   station: administration

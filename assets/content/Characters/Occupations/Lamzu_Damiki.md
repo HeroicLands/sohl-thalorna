@@ -18,7 +18,6 @@ shortcode: lamzudamik
 img: icons/person.svg
 portrait: images/being/lamzudamik-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scribe
   station: tradesfolk

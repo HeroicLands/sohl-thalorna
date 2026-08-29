@@ -10,7 +10,6 @@ id: 9vZDXOnWSPOxy3DX
 img: icons/speaking.svg
 shortcode: grukarlng
 type: skill
-package: thalorna
 sohl:
   subType: language
   skillBaseFormula: "@elo, @rea"

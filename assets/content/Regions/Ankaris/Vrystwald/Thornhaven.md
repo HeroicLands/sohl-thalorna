@@ -10,7 +10,6 @@ languages:
   - varokhlng
 pantheons:
   - asguardian
-package: thalorna
 name:
   full: Thornhaven
   aliases: []

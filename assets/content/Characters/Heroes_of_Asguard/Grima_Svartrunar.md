@@ -19,7 +19,6 @@ shortcode: grmsvrtrnr
 img: icons/person.svg
 portrait: images/being/grmsvrtrnr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Necromancer
   station: mages

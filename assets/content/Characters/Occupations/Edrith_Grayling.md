@@ -17,7 +17,6 @@ shortcode: edrthgrylng
 img: icons/person.svg
 portrait: images/being/edrthgrylng-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Hideworker
   station: tradesfolk

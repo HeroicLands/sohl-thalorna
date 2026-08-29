@@ -14,7 +14,6 @@ id: 7kQmNf4Yr2xL8pB3
 shortcode: nrthrnfrtlrgn
 type: doc
 category: region
-package: thalorna
 terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 parent:
   continents:

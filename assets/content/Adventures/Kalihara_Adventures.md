@@ -6,7 +6,6 @@ name:
   full: Kalihara Adventures
   aliases: []
 type: doc
-package: thalorna
 category: adventure
 folder: T7mOTtKBjOMdoGy2
 ---

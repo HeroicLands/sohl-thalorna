@@ -18,7 +18,6 @@ shortcode: hlvgstrmrt
 img: icons/person.svg
 portrait: images/being/hlvgstrmrt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: "Mage (Illusion)"
   station: mages

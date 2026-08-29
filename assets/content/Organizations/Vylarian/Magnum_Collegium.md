@@ -6,7 +6,6 @@ aliases:
   - Magnus Ordo Collegiorum
 tags: []
 description: 'Cross-realm "guild of guilds" — the umbrella body to which every chartered guild in Vylaria, the Aurèldían kingdoms, Hellád, and (until secession) Harad must belong; provides the credentialing, market-access, and standards infrastructure that lets the post-imperial commonwealth''s smaller polities access markets none of them could reach alone.'
-package: thalorna
 id: HL6ekX4sRKAHiNuz
 name:
   full: The Magnum Collegium

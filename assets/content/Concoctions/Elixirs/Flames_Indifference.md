@@ -12,7 +12,6 @@ id: JwZQZ0YmaJwAFS6p
 img: icons/potion.svg
 shortcode: ElxFir
 type: concoctiongear
-package: thalorna
 hmk:
   name: Fireshield
 sohl:

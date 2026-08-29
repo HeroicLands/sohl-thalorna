@@ -10,7 +10,6 @@ id: nyibb1NL4ZONuZIf
 img: icons/sword.svg
 shortcode: Urumi
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 10

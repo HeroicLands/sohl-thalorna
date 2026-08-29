@@ -18,7 +18,6 @@ shortcode: erkrstrmrt
 img: icons/person.svg
 portrait: images/being/erkrstrmrt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Fisher
   station: common_folk

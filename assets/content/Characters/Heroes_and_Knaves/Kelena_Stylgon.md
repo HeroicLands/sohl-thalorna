@@ -18,7 +18,6 @@ shortcode: kelnstylgn
 img: icons/person.svg
 portrait: images/being/kelnstylgn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmprvnz
   region: provenzrgn

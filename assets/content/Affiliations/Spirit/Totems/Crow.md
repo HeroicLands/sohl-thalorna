@@ -7,7 +7,6 @@ id: XHwwkctPOTYwybx5
 img: images/mystery/crow.webp
 shortcode: crowttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

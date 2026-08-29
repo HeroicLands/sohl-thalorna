@@ -7,7 +7,6 @@ id: sb0q3xC4IjjufQgP
 img: images/mystery/stag.webp
 shortcode: stagttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

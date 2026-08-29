@@ -5,7 +5,6 @@ aliases:
 id: nLx2MYaX3wPItzq1
 type: doc
 category: lore
-package: thalorna
 name:
   full: Vëndük
   aliases: []

@@ -7,7 +7,6 @@ id: N2SuuuRJq86wgYy6
 img: icons/psionics.svg
 shortcode: clrv
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

@@ -18,7 +18,6 @@ shortcode: brakshrlns
 img: icons/person.svg
 portrait: images/being/brakshrlns-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms
   station: soldiery

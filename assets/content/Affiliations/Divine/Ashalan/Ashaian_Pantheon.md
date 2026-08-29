@@ -21,7 +21,6 @@ sohl:
   level: null
   relation: {}
   archetype: null
-package: thalorna
 folder: 7so6UiPt445oIHWs
 ---
 

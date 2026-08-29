@@ -18,7 +18,6 @@ shortcode: thavenfrwn
 img: icons/person.svg
 portrait: images/being/thavenfrwn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bosun
   station: tradesfolk

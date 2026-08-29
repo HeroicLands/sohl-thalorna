@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: kiikbaate2
-package: thalorna
 terran_analog: Nicaragua through Colombia
 parent:
   regions:

@@ -5,7 +5,6 @@ aliases:
 id: nhYIrM34LxAifLFJ
 type: doc
 category: lore
-package: thalorna
 name:
   full: Nützōk
   aliases: []

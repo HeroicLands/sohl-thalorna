@@ -7,7 +7,6 @@ id: yKOy6VLXsYFHVggm
 img: images/mystery/shark.webp
 shortcode: sharkttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

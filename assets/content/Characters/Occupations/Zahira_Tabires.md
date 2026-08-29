@@ -18,7 +18,6 @@ shortcode: zahiratbrs
 img: icons/person.svg
 portrait: images/being/zahiratbrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Tentmaker
   station: tradesfolk

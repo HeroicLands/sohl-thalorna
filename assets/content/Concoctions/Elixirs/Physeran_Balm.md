@@ -12,7 +12,6 @@ id: Nc1xP3O5wchcF7D3
 img: icons/potion.svg
 shortcode: ElxHeal
 type: concoctiongear
-package: thalorna
 hmk:
   name: Healing
 sohl:

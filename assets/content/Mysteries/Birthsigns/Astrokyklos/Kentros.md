@@ -8,7 +8,6 @@ id: pybQNJnDiHWFS0A4
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: kentros
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

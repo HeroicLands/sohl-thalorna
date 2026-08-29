@@ -18,7 +18,6 @@ shortcode: mentrkrmys
 img: icons/person.svg
 portrait: images/being/mentrkrmys-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Glassworker
   station: tradesfolk

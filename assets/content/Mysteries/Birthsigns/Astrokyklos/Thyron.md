@@ -8,7 +8,6 @@ id: aAfvLe0BicQaJg1Y
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: thyron
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

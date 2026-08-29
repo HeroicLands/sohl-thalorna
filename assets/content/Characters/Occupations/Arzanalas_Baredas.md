@@ -18,7 +18,6 @@ shortcode: arznlsbrds
 img: icons/person.svg
 portrait: images/being/arznlsbrds-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Huscarl
   station: soldiery

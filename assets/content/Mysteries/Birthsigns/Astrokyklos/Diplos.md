@@ -8,7 +8,6 @@ id: aZEAJ3V0isBBQkHw
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: diplos
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

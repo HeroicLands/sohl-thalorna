@@ -5,7 +5,6 @@ aliases:
 id: cNe8pvkuffxHbqXo
 type: doc
 category: lore
-package: thalorna
 name:
   full: Shükrën
   aliases: []

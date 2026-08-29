@@ -4,7 +4,6 @@ aliases:
 id: LgGLhQV6dRATDaEB
 type: doc
 category: lore
-package: thalorna
 name:
   full: Personal Names
   aliases: []

@@ -17,7 +17,6 @@ shortcode: cthbrtshrwn
 img: icons/person.svg
 portrait: images/being/cthbrtshrwn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Woodcutter
   station: common_folk

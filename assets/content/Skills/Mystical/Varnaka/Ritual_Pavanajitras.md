@@ -8,7 +8,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: eMx01DMt7qdWHtmq
 shortcode: pavanajitras
 name:

@@ -11,7 +11,6 @@ id: BTQ9bRycW7RSHqYm
 img: icons/anvil.svg
 shortcode: enchant
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

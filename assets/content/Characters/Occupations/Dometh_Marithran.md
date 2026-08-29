@@ -18,7 +18,6 @@ shortcode: dmthmrthrn
 img: icons/person.svg
 portrait: images/being/dmthmrthrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thespian
   station: tradesfolk

@@ -18,7 +18,6 @@ shortcode: dalzurtbsh
 img: icons/person.svg
 portrait: images/being/dalzurtbsh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Skald
   station: tradesfolk

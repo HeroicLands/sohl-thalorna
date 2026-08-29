@@ -7,7 +7,6 @@ id: 7tU9QZR1Fp4H8H3v
 img: images/mystery/dove.webp
 shortcode: dovettm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

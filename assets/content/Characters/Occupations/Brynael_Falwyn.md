@@ -18,7 +18,6 @@ shortcode: brynlflwyn
 img: icons/person.svg
 portrait: images/being/brynlflwyn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Toymaker
   station: tradesfolk

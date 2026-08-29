@@ -16,7 +16,6 @@ banner: banners/tamzir-banner.webp
 img: icons/person.svg
 portrait: images/being/ylrskrsdtr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmnrdhm
   region: nrdlndsrgn

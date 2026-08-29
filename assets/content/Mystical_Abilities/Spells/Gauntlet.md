@@ -9,7 +9,6 @@ id: CK7GelF58bx7SCr2
 img: icons/fire.svg
 shortcode: gauntlet
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

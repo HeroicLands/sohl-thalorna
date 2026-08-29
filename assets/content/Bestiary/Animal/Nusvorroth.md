@@ -13,7 +13,6 @@ img: icons/game-icons/lorc/paw-print.svg
 portrait: images/being/nsvrroth-portrait.webp
 shortcode: nsvrroth
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

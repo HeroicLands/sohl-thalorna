@@ -18,7 +18,6 @@ shortcode: vogrblothl
 img: icons/person.svg
 portrait: images/being/vogrblothl-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmnrdhm
   region: nrdlndsrgn

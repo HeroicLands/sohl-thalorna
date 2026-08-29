@@ -10,7 +10,6 @@ id: 7qGCDLyqpA1ejoyQ
 img: icons/polearm.svg
 shortcode: GunDao
 type: weapongear
-package: thalorna
 sohl:
   kbcat: polearm
   durability: 12

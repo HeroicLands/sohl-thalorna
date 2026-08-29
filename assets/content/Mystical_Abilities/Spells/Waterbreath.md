@@ -11,7 +11,6 @@ id: YsLsNaMnzxHrmOh5
 img: icons/water.svg
 shortcode: wtrbrth
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

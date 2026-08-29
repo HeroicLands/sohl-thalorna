@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/griffin-symbol.svg
 portrait: images/being/duneclaw-portrait.webp
 shortcode: duneclaw
 type: being
-package: thalorna
 sohl:
   kbcat: dreadspawn
   archetype: 0

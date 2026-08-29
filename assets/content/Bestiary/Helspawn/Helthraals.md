@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/werewolf.svg
 portrait: images/being/hlthrls-portrait.webp
 shortcode: hlthrls
 type: being
-package: thalorna
 sohl:
   kbcat: helspawn
   archetype: 0

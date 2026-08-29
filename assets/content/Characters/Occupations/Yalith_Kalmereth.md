@@ -18,7 +18,6 @@ shortcode: ylthklmrth
 img: icons/person.svg
 portrait: images/being/ylthklmrth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bard
   station: tradesfolk

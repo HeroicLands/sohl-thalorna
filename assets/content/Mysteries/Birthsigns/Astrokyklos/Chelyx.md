@@ -8,7 +8,6 @@ id: bteb60lsodiwjGtL
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: chelyx
 type: mystery
-package: thalorna
 sohl:
   kbcat: birthsign
   archetype: 0

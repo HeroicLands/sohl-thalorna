@@ -10,7 +10,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: gA0jH1zhocwrvUAO
 shortcode: apophis
 name:

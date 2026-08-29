@@ -12,7 +12,6 @@ img: icons/game-icons/lorc/hound.svg
 portrait: images/being/embrhnd-portrait.webp
 shortcode: embrhnd
 type: being
-package: thalorna
 sohl:
   kbcat: elemental
   archetype: 0

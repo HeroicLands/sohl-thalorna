@@ -23,7 +23,6 @@ sohl:
   relation:
     tngvkvnlei: aligned
   archetype: null
-package: thalorna
 folder: hDKxtkbJFjn8bIUr
 ---
 

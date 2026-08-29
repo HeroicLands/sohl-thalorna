@@ -12,7 +12,6 @@ id: s0dSQneHXoBYOHNr
 img: icons/potion.svg
 shortcode: ElxMgt
 type: concoctiongear
-package: thalorna
 hmk:
   name: Might
 sohl:

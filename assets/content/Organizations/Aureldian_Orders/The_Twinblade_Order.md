@@ -19,7 +19,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 id: PIAwCuCX3k8qXu8Z
 name:
   full: The Twinblade Order

@@ -18,7 +18,6 @@ shortcode: daryanardh
 img: icons/person.svg
 portrait: images/being/daryanardh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bard
   station: tradesfolk

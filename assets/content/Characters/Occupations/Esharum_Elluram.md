@@ -18,7 +18,6 @@ shortcode: esharumlrm
 img: icons/person.svg
 portrait: images/being/esharumlrm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Domestic Servant
   station: common_folk

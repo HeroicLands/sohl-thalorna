@@ -18,7 +18,6 @@ shortcode: laylamarut
 img: icons/person.svg
 portrait: images/being/laylamarut-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: mtrrchybth
   region: bethuargn

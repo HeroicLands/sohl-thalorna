@@ -18,7 +18,6 @@ shortcode: piturutubn
 img: icons/person.svg
 portrait: images/being/piturutubn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Man-at-Arms (Sapper)
   station: soldiery

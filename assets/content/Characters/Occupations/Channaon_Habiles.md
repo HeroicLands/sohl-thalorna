@@ -18,7 +18,6 @@ shortcode: chananhbls
 img: icons/person.svg
 portrait: images/being/chananhbls-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Timberwright
   station: tradesfolk

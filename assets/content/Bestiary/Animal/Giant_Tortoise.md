@@ -12,7 +12,6 @@ img: icons/game-icons/delapouite/tortoise.svg
 portrait: images/being/gnttrts-portrait.webp
 shortcode: gnttrts
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

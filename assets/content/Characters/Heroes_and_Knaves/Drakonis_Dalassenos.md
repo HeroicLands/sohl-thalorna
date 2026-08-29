@@ -18,7 +18,6 @@ shortcode: drknsdlsns
 img: icons/person.svg
 portrait: images/being/drknsdlsns-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

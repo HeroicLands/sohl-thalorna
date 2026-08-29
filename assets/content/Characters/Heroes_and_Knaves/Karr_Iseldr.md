@@ -18,7 +18,6 @@ shortcode: karriseldr
 img: icons/person.svg
 portrait: images/being/karriseldr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmvthgrd
   region: nrdlndsrgn

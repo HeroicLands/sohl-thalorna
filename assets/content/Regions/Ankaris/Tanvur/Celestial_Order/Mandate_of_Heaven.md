@@ -4,7 +4,6 @@ aliases:
 id: Zn84KmMhXmjJnQrQ
 type: doc
 category: lore
-package: thalorna
 name:
   full: Mandate of Heaven
   aliases: []

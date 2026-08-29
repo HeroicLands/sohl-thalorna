@@ -18,7 +18,6 @@ shortcode: tarligtlgn
 img: icons/person.svg
 portrait: images/being/tarligtlgn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thatcher
   station: common_folk

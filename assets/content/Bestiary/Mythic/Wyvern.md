@@ -13,7 +13,6 @@ img: icons/game-icons/lorc/wyvern.svg
 portrait: images/being/wyvern-portrait.webp
 shortcode: wyvern
 type: being
-package: thalorna
 sohl:
   kbcat: mythic
   archetype: 0

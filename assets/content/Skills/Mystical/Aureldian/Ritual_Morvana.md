@@ -7,7 +7,6 @@ tags:
   - aureldian
   - faith-skill
 type: skill
-package: thalorna
 id: yrAnq3onWUYzlUci
 shortcode: morvana
 img: images/affiliation/morvana.webp

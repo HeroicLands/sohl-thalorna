@@ -18,7 +18,6 @@ shortcode: sahiratbrs
 img: icons/person.svg
 portrait: images/being/sahiratbrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scribe
   station: tradesfolk

@@ -17,7 +17,6 @@ name:
 shortcode: svapnadevas
 type: affiliation
 pantheon: varakpnthn
-package: thalorna
 sohl:
   subType: divine
   society: null

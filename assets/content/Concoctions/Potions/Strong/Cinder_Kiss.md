@@ -12,7 +12,6 @@ id: nNZur2IAN8REAxbO
 img: icons/potion.svg
 shortcode: PtnAphrS
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Aphrodisiac, Strong"
 sohl:

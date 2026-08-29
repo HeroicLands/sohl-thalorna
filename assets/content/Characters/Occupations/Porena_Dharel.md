@@ -18,7 +18,6 @@ shortcode: porenadhrl
 img: icons/person.svg
 portrait: images/being/porenadhrl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Longshorewoman
   station: common_folk

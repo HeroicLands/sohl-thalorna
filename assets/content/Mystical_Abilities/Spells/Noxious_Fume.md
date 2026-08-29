@@ -12,7 +12,6 @@ id: gcb1kiGnDQGi4pdY
 img: icons/anvil.svg
 shortcode: nxfum
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

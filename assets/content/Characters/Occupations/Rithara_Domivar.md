@@ -18,7 +18,6 @@ shortcode: rithardmvr
 img: icons/person.svg
 portrait: images/being/rithardmvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Common Seaman
   station: common_folk

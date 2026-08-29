@@ -18,7 +18,6 @@ shortcode: drkaranamn
 img: icons/person.svg
 portrait: images/being/drkaranamn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: chandrapur
   region: vedyarargn

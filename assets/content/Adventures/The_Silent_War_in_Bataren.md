@@ -8,7 +8,6 @@ name:
   aliases: []
 shortcode: slntwrbtrn
 type: doc
-package: thalorna
 category: adventure
 thalorna:
   region: provenzrgn

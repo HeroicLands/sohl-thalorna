@@ -21,7 +21,6 @@ sohl:
   relation:
     arldnpnthn: aligned
   archetype: null
-package: thalorna
 id: yC0Si9FTSx0nx06h
 name:
   full: The Iron Cinder

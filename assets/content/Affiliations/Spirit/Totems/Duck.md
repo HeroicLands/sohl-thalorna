@@ -7,7 +7,6 @@ id: iQHwJSWiNaowM9nN
 img: images/mystery/duck.webp
 shortcode: duckttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

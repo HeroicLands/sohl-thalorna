@@ -11,7 +11,6 @@ id: 36EiCFjIwRu1b3Nw
 img: icons/divination.svg
 shortcode: scribe
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

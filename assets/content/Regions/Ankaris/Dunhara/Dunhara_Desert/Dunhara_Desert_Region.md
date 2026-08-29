@@ -14,7 +14,6 @@ shortcode: dunhardsrtrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 demonym: Dunharan
 parent:
   regions:

@@ -18,7 +18,6 @@ shortcode: firavdprsk
 img: icons/person.svg
 portrait: images/being/firavdprsk-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: dunhartrbs
   region: dunhardsrtrgn

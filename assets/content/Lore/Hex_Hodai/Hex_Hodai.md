@@ -9,7 +9,6 @@ tags:
   - hex-hodai
   - ordo-arcanis
 type: doc
-package: thalorna
 category: lore
 topic: true
 id: Y3NajXCuLZv4CSis

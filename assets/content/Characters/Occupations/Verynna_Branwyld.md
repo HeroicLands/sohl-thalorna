@@ -18,7 +18,6 @@ shortcode: vrynbrnwyld
 img: icons/person.svg
 portrait: images/being/vrynbrnwyld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Shaman
   station: clergy

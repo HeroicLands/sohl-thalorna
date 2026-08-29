@@ -18,7 +18,6 @@ shortcode: ureleralwn
 img: icons/person.svg
 portrait: images/being/ureleralwn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Perfumer
   station: tradesfolk

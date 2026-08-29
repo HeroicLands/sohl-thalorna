@@ -26,7 +26,6 @@ epithet: The Lord of Wood
 domain: Wood
 symbol: A white sprig branching from a carved brown wooden stamp
 pantheon: tngvkvnlei
-package: thalorna
 folder: VmJuVqaOGhXrvXQs
 ---
 

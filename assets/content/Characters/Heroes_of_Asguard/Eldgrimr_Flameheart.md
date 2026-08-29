@@ -18,7 +18,6 @@ shortcode: eldgrmrflmhrt
 img: icons/person.svg
 portrait: images/being/eldgrmrflmhrt-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Champion
   station: soldiery

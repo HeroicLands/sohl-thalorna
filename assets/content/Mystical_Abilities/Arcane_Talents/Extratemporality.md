@@ -7,7 +7,6 @@ id: GRInCl46OtvsjWRe
 img: icons/psionics.svg
 shortcode: xtratemp
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

@@ -10,7 +10,6 @@ id: 8XkM69WwCDD6to7G
 img: icons/flail.svg
 shortcode: Biao
 type: weapongear
-package: thalorna
 sohl:
   kbcat: flail
   durability: 11

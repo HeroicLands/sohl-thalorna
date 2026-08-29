@@ -18,7 +18,6 @@ shortcode: estrsnrcth
 img: icons/person.svg
 portrait: images/being/estrsnrcth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Teamster
   station: common_folk

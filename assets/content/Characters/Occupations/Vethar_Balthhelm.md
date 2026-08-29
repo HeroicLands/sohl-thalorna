@@ -18,7 +18,6 @@ shortcode: vthrblthlm
 img: icons/person.svg
 portrait: images/being/vthrblthlm-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Innkeeper
   station: tradesfolk

@@ -12,7 +12,6 @@ id: 46Npuq1hODFdGB47
 img: icons/tree.svg
 shortcode: dcytch
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

@@ -10,7 +10,6 @@ id: po0MtDrMbBIcNdyH
 img: icons/broad-dagger.svg
 shortcode: Kel
 type: weapongear
-package: thalorna
 sohl:
   kbcat: knife
   durability: 12

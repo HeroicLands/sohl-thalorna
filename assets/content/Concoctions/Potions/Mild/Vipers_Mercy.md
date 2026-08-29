@@ -12,7 +12,6 @@ id: t13gFsGnPEwrP9Ye
 img: icons/potion.svg
 shortcode: PtnAntvM
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Antivenin, Mild"
 sohl:

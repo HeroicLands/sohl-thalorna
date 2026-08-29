@@ -17,7 +17,6 @@ shortcode: sevnmyrkls
 img: icons/person.svg
 portrait: images/being/sevnmyrkls-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kngdmlvndr
   region: elavendre

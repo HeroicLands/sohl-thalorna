@@ -18,7 +18,6 @@ shortcode: shdqbnrhmndplmtcblddncr
 img: icons/person.svg
 portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: kalihara
   region: kaliharargn

@@ -9,7 +9,6 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
-package: thalorna
 id: n5aHzGXhwIpKOn73
 shortcode: hurnzhuk
 name:

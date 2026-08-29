@@ -18,7 +18,6 @@ shortcode: minakprkhn
 img: icons/person.svg
 portrait: images/being/minakprkhn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: vyalendra2
   region: vedyarargn

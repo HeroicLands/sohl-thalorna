@@ -18,7 +18,6 @@ shortcode: sahnrmkthn
 img: icons/person.svg
 portrait: images/being/sahnrmkthn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Herald
   station: administration

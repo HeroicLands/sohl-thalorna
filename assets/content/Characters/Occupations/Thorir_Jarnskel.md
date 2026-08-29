@@ -18,7 +18,6 @@ shortcode: thrrjrnskl
 img: icons/person.svg
 portrait: images/being/thrrjrnskl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: "Mage (Spirit)"
   station: mages

@@ -11,7 +11,6 @@ id: MGjDeQGxZxAAudiO
 img: icons/fire.svg
 shortcode: shdwvl
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

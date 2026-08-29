@@ -18,7 +18,6 @@ shortcode: malianardh
 img: icons/person.svg
 portrait: images/being/malianardh-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Herder
   station: common_folk

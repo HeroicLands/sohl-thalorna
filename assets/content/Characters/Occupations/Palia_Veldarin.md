@@ -18,7 +18,6 @@ shortcode: paliavldrn
 img: icons/person.svg
 portrait: images/being/paliavldrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Domestic Servant
   station: common_folk

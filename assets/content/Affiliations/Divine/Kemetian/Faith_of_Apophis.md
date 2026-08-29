@@ -21,7 +21,6 @@ sohl:
   relation:
     kemtnpnthn: aligned
   archetype: null
-package: thalorna
 name:
   full: Faith of Ápōphis
   aliases: []

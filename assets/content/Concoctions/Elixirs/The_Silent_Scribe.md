@@ -12,7 +12,6 @@ id: tDc4nTSkUSS0QUjb
 img: icons/potion.svg
 shortcode: ElxEgo
 type: concoctiongear
-package: thalorna
 hmk:
   name: Egosight
 sohl:

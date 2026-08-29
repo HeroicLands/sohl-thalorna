@@ -19,7 +19,6 @@ shortcode: sgvrdrnhnd
 img: icons/person.svg
 portrait: images/being/sgvrdrnhnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Warrior and Judge
   station: soldiery

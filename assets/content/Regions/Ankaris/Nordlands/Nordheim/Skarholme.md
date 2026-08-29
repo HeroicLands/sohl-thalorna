@@ -10,7 +10,6 @@ languages:
   - nordmalng
 pantheons:
   - asguardian
-package: thalorna
 name:
   full: Skarholme
   aliases: []

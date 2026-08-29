@@ -18,7 +18,6 @@ shortcode: vishalblry
 img: icons/person.svg
 portrait: images/being/vishalblry-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: rajaprjnpd
   region: vedyarargn

@@ -8,7 +8,6 @@ settlementType: "Fortress Town"
 population: null
 languages:
   - grukarlng
-package: thalorna
 name:
   full: Grukarholm
   aliases: []

@@ -4,7 +4,6 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
-package: thalorna
 id: 9TzrmYEx7mtdohBV
 shortcode: zepharis
 img: images/affiliation/zepharis.webp

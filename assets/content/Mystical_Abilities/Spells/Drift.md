@@ -11,7 +11,6 @@ id: SNtlSSfMF0WSZboj
 img: icons/water.svg
 shortcode: drift
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: hydalis

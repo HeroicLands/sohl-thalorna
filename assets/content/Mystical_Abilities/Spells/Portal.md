@@ -11,7 +11,6 @@ id: j5XNcgdPtKh65Ttt
 img: icons/circle.svg
 shortcode: portal
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

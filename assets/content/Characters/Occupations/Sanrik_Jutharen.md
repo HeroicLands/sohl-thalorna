@@ -18,7 +18,6 @@ shortcode: sanrkjthrn
 img: icons/person.svg
 portrait: images/being/sanrkjthrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Glassworker
   station: tradesfolk

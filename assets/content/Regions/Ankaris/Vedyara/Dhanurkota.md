@@ -5,7 +5,6 @@ id: i93FosZcD5HdN48U
 type: doc
 category: settlement
 settlementType: "City"
-package: thalorna
 name:
   full: Dhanurkota
   aliases: []

@@ -11,7 +11,6 @@ tags:
   - subversive
   - cult
 description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying Helspawn to destabilize imperial administration."
-package: thalorna
 id: Fm62pKhLLKABU3ZG
 name:
   full: Nüszōk Rëit

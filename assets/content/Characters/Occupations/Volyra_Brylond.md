@@ -18,7 +18,6 @@ shortcode: vlyrbrylnd
 img: icons/person.svg
 portrait: images/being/vlyrbrylnd-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thatcher
   station: common_folk

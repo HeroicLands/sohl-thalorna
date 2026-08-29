@@ -11,7 +11,6 @@ id: FSuWixExM0DE948r
 img: icons/tree.svg
 shortcode: might
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

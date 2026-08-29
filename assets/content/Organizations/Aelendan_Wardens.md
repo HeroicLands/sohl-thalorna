@@ -4,7 +4,6 @@ aliases:
   - Aelendan Wardens
   - The Wardens
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Covenant itself."
-package: thalorna
 id: B53EuywhfWU0xgKC
 name:
   full: Áelendan Wardens

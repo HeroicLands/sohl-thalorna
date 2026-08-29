@@ -19,7 +19,6 @@ shortcode: shrmnhthvn
 img: icons/person.svg
 portrait: images/being/shrmnhthvn-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: tribestrzd
   region: khzryndsrtrgn

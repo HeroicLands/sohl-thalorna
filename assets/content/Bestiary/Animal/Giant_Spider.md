@@ -12,7 +12,6 @@ img: icons/game-icons/carl-olsen/spider-alt.svg
 portrait: images/being/gntspdr-portrait.webp
 shortcode: gntspdr
 type: being
-package: thalorna
 sohl:
   kbcat: animal
   archetype: 0

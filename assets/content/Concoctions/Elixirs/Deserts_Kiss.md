@@ -12,7 +12,6 @@ id: mWmjbdxedFbpbA0w
 img: icons/potion.svg
 shortcode: ElxExs
 type: concoctiongear
-package: thalorna
 hmk:
   name: Exsiccation
 sohl:

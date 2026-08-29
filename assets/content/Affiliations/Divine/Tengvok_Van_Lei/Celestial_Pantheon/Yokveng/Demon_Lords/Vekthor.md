@@ -29,7 +29,6 @@ epithet: The Forger of False Records
 domain: Lies
 symbol: A vermillion seal pressed reversed in black ink
 pantheon: tngvkvnlei
-package: thalorna
 folder: kZkGNxVHbgGyhAHr
 ---
 

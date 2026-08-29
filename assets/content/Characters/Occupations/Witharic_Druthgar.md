@@ -18,7 +18,6 @@ shortcode: wthrcdrthgr
 img: icons/person.svg
 portrait: images/being/wthrcdrthgr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Shipwright
   station: tradesfolk

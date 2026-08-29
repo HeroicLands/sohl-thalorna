@@ -11,7 +11,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: ZJMNkWFba1o3MVXg
 shortcode: svapnasarisamaja
 name:

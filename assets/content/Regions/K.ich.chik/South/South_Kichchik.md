@@ -12,7 +12,6 @@ name:
 img: ""
 type: doc
 category: region
-package: thalorna
 parent:
   continents:
     - kchchkcntnnt

@@ -29,7 +29,6 @@ epithet: The Custodian of Lost Seals
 domain: Lies
 symbol: A broken vermillion seal-impression beneath an inverted gold brush
 pantheon: tngvkvnlei
-package: thalorna
 folder: hDKxtkbJFjn8bIUr
 ---
 

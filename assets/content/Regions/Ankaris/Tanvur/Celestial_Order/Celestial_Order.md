@@ -4,7 +4,6 @@ aliases:
 id: Y9Um0puZOcYHNgXy
 type: doc
 category: lore
-package: thalorna
 name:
   full: Celestial Order
   aliases: []

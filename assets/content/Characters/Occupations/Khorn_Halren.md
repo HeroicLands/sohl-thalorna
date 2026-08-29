@@ -18,7 +18,6 @@ shortcode: khornhalrn
 img: icons/person.svg
 portrait: images/being/khornhalrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Yeoman Infantry
   station: soldiery

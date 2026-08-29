@@ -11,7 +11,6 @@ languages:
   - provnzlng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Monvèrdre
   aliases: []

@@ -7,7 +7,6 @@ id: IPxMGQOSQBsOi48s
 img: images/mystery/bear.webp
 shortcode: bearttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

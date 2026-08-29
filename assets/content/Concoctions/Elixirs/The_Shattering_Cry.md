@@ -12,7 +12,6 @@ id: Wi9nryQ5RMzw3g4u
 img: icons/potion.svg
 shortcode: ElxSht
 type: concoctiongear
-package: thalorna
 hmk:
   name: Shout
 sohl:

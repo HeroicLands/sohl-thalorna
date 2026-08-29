@@ -24,7 +24,6 @@ sohl:
   relation:
     firstgods: aligned
   archetype: null
-package: thalorna
 folder: w9xJ9t5nQB0ajETq
 ---
 

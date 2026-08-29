@@ -18,7 +18,6 @@ shortcode: farlvlskyr
 img: icons/person.svg
 portrait: images/being/farlvlskyr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Physician
   station: tradesfolk

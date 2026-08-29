@@ -12,7 +12,6 @@ id: kEZYlhCUnvNFGsGP
 img: icons/potion.svg
 shortcode: ElxTrm
 type: concoctiongear
-package: thalorna
 hmk:
   name: Traumashield
 sohl:

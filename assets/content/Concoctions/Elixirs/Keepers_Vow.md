@@ -12,7 +12,6 @@ id: b1VG38CCASqYPjCm
 img: icons/potion.svg
 shortcode: ElxObA
 type: concoctiongear
-package: thalorna
 hmk:
   name: Object Aegis
 sohl:

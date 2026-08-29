@@ -18,7 +18,6 @@ shortcode: pyrnszrlmkr
 img: icons/person.svg
 portrait: images/being/pyrnszrlmkr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Cartographer/Artist
   station: tradesfolk

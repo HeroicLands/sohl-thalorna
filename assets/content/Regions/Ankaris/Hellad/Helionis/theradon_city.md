@@ -10,7 +10,6 @@ languages:
   - helonclng
 pantheons:
   - arldnpnthn
-package: thalorna
 name:
   full: Therádon
   aliases: []

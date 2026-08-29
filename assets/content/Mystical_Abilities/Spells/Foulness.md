@@ -11,7 +11,6 @@ id: nUe98bscAsADqQjT
 img: icons/wind.svg
 shortcode: foulness
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: zepharis

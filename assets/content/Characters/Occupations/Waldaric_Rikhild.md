@@ -18,7 +18,6 @@ shortcode: wldrcrkhld
 img: icons/person.svg
 portrait: images/being/wldrcrkhld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Tentmaker
   station: tradesfolk

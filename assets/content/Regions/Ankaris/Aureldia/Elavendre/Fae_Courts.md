@@ -5,7 +5,6 @@ aliases:
 id: xC94NpQeBYOyeezn
 type: doc
 category: lore
-package: thalorna
 name:
   full: The Fae Courts
   aliases: []

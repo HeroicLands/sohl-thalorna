@@ -32,7 +32,6 @@ epithet: The Assembly of the Dream-Followers
 domain: Dreams
 symbol: A crescent moon cradling a closed eye
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

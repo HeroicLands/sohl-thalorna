@@ -10,7 +10,6 @@ id: QRiORm95BTr4XREA
 img: icons/blowgun.svg
 shortcode: BGun
 type: weapongear
-package: thalorna
 sohl:
   kbcat: blown
   durability: 8

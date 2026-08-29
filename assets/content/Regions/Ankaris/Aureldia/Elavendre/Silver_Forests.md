@@ -5,7 +5,6 @@ aliases:
 id: X7HiBpa32S79TTrv
 type: doc
 category: location
-package: thalorna
 name:
   full: The Silver Forests
   aliases: []

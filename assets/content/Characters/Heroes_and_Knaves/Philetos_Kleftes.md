@@ -18,7 +18,6 @@ shortcode: phltsklfts
 img: icons/person.svg
 portrait: images/being/phltsklfts-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: provinclys
   region: vylariargn

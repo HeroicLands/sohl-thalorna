@@ -18,7 +18,6 @@ shortcode: glvrmrthrn
 img: icons/person.svg
 portrait: images/being/glvrmrthrn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mason
   station: tradesfolk

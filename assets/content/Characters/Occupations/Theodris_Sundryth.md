@@ -18,7 +18,6 @@ shortcode: thdrsndryth
 img: icons/person.svg
 portrait: images/being/thdrsndryth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Beggar
   station: common_folk

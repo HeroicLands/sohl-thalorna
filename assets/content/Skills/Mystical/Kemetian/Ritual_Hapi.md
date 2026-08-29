@@ -10,7 +10,6 @@ tags:
   - kemetian
   - faith-skill
 type: skill
-package: thalorna
 id: xI4DUckihShylSzh
 shortcode: hapi
 name:

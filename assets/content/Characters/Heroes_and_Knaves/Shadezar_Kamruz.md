@@ -18,7 +18,6 @@ shortcode: shadzrkmrz
 img: icons/person.svg
 portrait: images/being/shadzrkmrz-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: dunhartrbs
   region: dunhardsrtrgn

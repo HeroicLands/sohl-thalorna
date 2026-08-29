@@ -11,7 +11,6 @@ id: f2jOOGayDtbOsUnj
 img: icons/tree.svg
 shortcode: rest
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

@@ -18,7 +18,6 @@ shortcode: arnelkrsvr
 img: icons/person.svg
 portrait: images/being/arnelkrsvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Nobility (Manor Lord)
   station: administration

@@ -19,7 +19,6 @@ shortcode: helnmystks
 img: icons/person.svg
 portrait: images/being/helnmystks-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: byzarianlg
   region: byzariargn

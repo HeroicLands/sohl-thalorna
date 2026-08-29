@@ -18,7 +18,6 @@ shortcode: frdwyndmhr
 img: icons/person.svg
 portrait: images/being/frdwyndmhr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Scholar
   station: tradesfolk

@@ -11,7 +11,6 @@ id: AA3VxkdLIKggz4Ms
 img: icons/circle.svg
 shortcode: infuse
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: kentra

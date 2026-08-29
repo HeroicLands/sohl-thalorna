@@ -6,7 +6,6 @@ tags:
   - asguardian
   - faith-skill
 type: skill
-package: thalorna
 id: ZmE1m1B15Tx5AKS9
 shortcode: surtr
 img: images/affiliation/surtr.webp

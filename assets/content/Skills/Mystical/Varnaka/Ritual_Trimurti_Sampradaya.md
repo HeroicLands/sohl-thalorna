@@ -9,7 +9,6 @@ tags:
   - varnaka
   - faith-skill
 type: skill
-package: thalorna
 id: S3Pqxj4TZHXJrRF9
 shortcode: trimurtisampradaya
 name:

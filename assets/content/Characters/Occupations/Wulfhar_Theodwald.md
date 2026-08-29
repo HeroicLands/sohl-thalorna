@@ -18,7 +18,6 @@ shortcode: wlfhrthdwld
 img: icons/person.svg
 portrait: images/being/wlfhrthdwld-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Huscarl
   station: soldiery

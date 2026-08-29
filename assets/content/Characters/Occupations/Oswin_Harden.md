@@ -17,7 +17,6 @@ shortcode: oswinhardn
 img: icons/person.svg
 portrait: images/being/oswinhardn-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Innkeeper
   station: tradesfolk

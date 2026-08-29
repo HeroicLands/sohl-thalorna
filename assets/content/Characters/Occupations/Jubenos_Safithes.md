@@ -18,7 +18,6 @@ shortcode: jubensfths
 img: icons/person.svg
 portrait: images/being/jubensfths-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Courtesan
   station: administration

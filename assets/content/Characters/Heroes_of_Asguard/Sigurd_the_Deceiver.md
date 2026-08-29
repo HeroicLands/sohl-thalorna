@@ -18,7 +18,6 @@ shortcode: sigurdecvr
 img: icons/person.svg
 portrait: images/being/sigurdecvr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thief and Con Artist
   station: underworld

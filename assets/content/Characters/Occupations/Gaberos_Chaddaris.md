@@ -18,7 +18,6 @@ shortcode: gabrschdrs
 img: icons/person.svg
 portrait: images/being/gabrschdrs-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Town Guard
   station: soldiery

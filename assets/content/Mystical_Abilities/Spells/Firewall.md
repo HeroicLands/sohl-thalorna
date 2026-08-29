@@ -11,7 +11,6 @@ id: btu1yJNRbX3aF0wg
 img: icons/fire.svg
 shortcode: firewall
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pyrethos

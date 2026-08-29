@@ -19,7 +19,6 @@ shortcode: glyencrdth
 img: icons/person.svg
 portrait: images/being/glyencrdth-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Noblewoman / Head of House Cárdeth
   station: administration

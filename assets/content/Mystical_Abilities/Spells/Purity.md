@@ -11,7 +11,6 @@ id: kJZzNhmiLuazVFeO
 img: icons/divination.svg
 shortcode: purity
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: pneumenos

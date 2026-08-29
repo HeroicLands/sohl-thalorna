@@ -6,7 +6,6 @@ tags:
   - arcane
   - hex-hodai
 type: doc
-package: thalorna
 category: lore
 id: s9k0RsnEfufDRuQb
 shortcode: hxhdncnttns

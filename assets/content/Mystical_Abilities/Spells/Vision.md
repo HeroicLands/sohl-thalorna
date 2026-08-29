@@ -11,7 +11,6 @@ id: Ck3vJRAUmjtsfh13
 img: icons/anvil.svg
 shortcode: vision
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: sideros

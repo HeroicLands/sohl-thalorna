@@ -9,7 +9,6 @@ name:
   full: Summary of Provènzia
   aliases: []
 shortcode: sumryprvnz
-package: thalorna
 folder: 9TmLIkGXGHMtFxzy
 thalorna:
   region: provenzrgn

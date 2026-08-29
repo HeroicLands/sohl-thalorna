@@ -4,7 +4,6 @@ aliases:
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: doc
-package: thalorna
 id: GmS8jnKKIA28pOO8
 shortcode: webdeceit
 name:

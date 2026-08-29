@@ -12,7 +12,6 @@ id: pLiBpPeUJ4AnLwV6
 img: icons/potion.svg
 shortcode: ElxPsn
 type: concoctiongear
-package: thalorna
 hmk:
   name: Poison
 sohl:

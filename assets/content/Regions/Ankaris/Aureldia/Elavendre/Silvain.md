@@ -10,7 +10,6 @@ pantheons:
   - arldnpnthn
 languages:
   - elvndrlng
-package: thalorna
 name:
   full: Silvain
   aliases: []

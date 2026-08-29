@@ -19,7 +19,6 @@ shortcode: atenhershr
 img: icons/person.svg
 portrait: images/being/atenhershr-portrait.webp
 type: being
-package: thalorna
 thalorna:
   realm: dunhartrbs
   region: dunhardsrtrgn

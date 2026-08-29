@@ -10,7 +10,6 @@ id: i3K0H86rBH3rx3b3
 img: icons/sword.svg
 shortcode: Jian
 type: weapongear
-package: thalorna
 sohl:
   kbcat: sword
   durability: 12

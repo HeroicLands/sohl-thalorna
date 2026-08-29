@@ -11,7 +11,6 @@ id: MqCqO5q1fJplSM6A
 img: icons/tree.svg
 shortcode: pthfrg
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcaneincantation
   assocSkillCode: physera

@@ -20,7 +20,6 @@ shortcode: jurthatempr
 img: ""
 type: doc
 category: polity
-package: thalorna
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
 demonym: Jürthāti
 population: "~500,000"

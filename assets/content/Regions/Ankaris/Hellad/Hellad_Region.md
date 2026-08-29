@@ -14,7 +14,6 @@ shortcode: heladrgn
 img: ""
 type: doc
 category: region
-package: thalorna
 terran_analog: "Greece, Bulgaria, North Macedonia, and Albania — the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
 demonym: Helladic
 parent:

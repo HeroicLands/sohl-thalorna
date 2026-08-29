@@ -18,7 +18,6 @@ shortcode: alernprdln
 img: icons/person.svg
 portrait: images/being/alernprdln-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Shaman
   station: clergy

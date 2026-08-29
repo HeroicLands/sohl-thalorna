@@ -12,7 +12,6 @@ id: HslJhVm3luadFzZh
 img: icons/potion.svg
 shortcode: ElxPhy
 type: concoctiongear
-package: thalorna
 hmk:
   name: Physic
 sohl:

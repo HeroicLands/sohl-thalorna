@@ -17,7 +17,6 @@ shortcode: osmndwnwck
 img: icons/person.svg
 portrait: images/being/osmndwnwck-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Mercantyler (Supercargo)
   station: tradesfolk

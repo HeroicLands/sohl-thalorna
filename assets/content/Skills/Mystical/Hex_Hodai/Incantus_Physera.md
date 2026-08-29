@@ -5,7 +5,6 @@ aliases:
 tags:
   - hex-hodai
 type: skill
-package: thalorna
 id: HE1yCLVIOsOuzSJ8
 shortcode: physera
 img: images/affiliation/physera.webp

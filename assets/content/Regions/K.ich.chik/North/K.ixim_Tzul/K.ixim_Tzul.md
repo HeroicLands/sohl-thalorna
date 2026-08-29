@@ -15,7 +15,6 @@ type: doc
 category: polity
 subType: city-state
 capital: kiximtzul2
-package: thalorna
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 parent:
   regions:

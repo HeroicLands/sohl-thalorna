@@ -28,7 +28,6 @@ epithet: The Gatekeeper of Death
 domain: Death
 symbol: A black conch shell
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

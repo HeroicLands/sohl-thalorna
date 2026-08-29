@@ -18,7 +18,6 @@ shortcode: kelyrslthr
 img: icons/person.svg
 portrait: images/being/kelyrslthr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Bureaucrat
   station: administration

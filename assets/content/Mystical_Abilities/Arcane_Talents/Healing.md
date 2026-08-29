@@ -7,7 +7,6 @@ id: pePR5Mx28MLY4Kgv
 img: icons/psionics.svg
 shortcode: heal
 type: mysticalability
-package: thalorna
 sohl:
   subType: arcanetalent
   assocSkillCode: ""

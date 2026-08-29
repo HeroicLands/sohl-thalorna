@@ -18,7 +18,6 @@ shortcode: hlgyshdwlkr
 img: icons/person.svg
 portrait: images/being/hlgyshdwlkr-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Thief and Spy
   station: underworld

@@ -7,7 +7,6 @@ tags:
   - lineage
 description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
 type: doc
-package: thalorna
 category: lore
 id: xSabnR2YSyocDJxC
 name:

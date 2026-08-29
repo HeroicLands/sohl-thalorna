@@ -10,7 +10,6 @@ id: kreKZTbXQBV0FiBY
 img: icons/bolas.svg
 shortcode: Bola
 type: weapongear
-package: thalorna
 sohl:
   kbcat: thrown
   durability: 10

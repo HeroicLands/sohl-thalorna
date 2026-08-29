@@ -17,7 +17,6 @@ shortcode: godabarnwl
 img: icons/person.svg
 portrait: images/being/godabarnwl-portrait.webp
 type: being
-package: thalorna
 social:
   occupation: Potter
   station: tradesfolk

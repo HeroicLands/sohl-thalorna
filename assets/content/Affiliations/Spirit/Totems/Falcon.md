@@ -7,7 +7,6 @@ id: RakVBHejmx0qHcIn
 img: images/mystery/falcon.webp
 shortcode: falconttm
 type: affiliation
-package: thalorna
 sohl:
   subType: spirit
   society: null

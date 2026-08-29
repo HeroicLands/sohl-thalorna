@@ -28,7 +28,6 @@ epithet: Lord of Thunder
 domain: Storms
 symbol: A drum encircled by lightning bolts
 pantheon: varakpnthn
-package: thalorna
 folder: dxzsTyaF4LMapIJX
 ---
 

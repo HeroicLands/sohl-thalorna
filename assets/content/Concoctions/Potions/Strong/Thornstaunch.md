@@ -12,7 +12,6 @@ id: DKbB1Gurlr0iCfSz
 img: icons/potion.svg
 shortcode: PtnCoagS
 type: concoctiongear
-package: thalorna
 hmk:
   name: "Potion, Coagulant, Strong"
 sohl:
