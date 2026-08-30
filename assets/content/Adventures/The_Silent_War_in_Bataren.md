@@ -122,7 +122,7 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 
 - [[doc-provenzrgn|Provènzia Region]]
 - [[doc-kngdmprvnz|Kingdom of Provènzia]]
-- [[Áelendan]]
+- [[doc-aelendnppl|Áelendan People]]
 - [[doc-vylarinmpr|Vylarian Empire]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
 - [[doc-kngdmnrdhm|Kingdom of Nordheim]]

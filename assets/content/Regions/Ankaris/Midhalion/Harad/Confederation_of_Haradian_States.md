@@ -132,7 +132,7 @@ But the anger does not dissipate. It accumulates. The veterans who fought at Tam
 
 This is the Harad of the present day: free, prosperous, and seething. The merchant guilds rule through money and the institutions they control. The veterans and their children nurse the betrayal. The outlawed captains raid from the island channels. The inland tribes trust no one. And everywhere — in the dock districts, in the fishing villages, in the tribal camps — people remember the words that were used to recruit them, and they wonder when someone will mean them.
 
-It is into this world that the [[doc-thetamzir|The Tamzîr]] sails. Her captain fought at the Shoals. He believed the promises. He watched the merchant princes steal the victory. And now he runs cargo on the margins of a Confederation that would rather he did not exist — too famous to ignore, too dangerous to tolerate, too stubborn to kill quietly. The guilds want him brought to heel; the veterans want him to raise the flag again; and all he wants is to keep his crew alive and his ship moving. It is not a sustainable position, and everyone involved knows it.
+It is into this world that the [[affiliation-thetamzir|The Tamzîr]] sails. Her captain fought at the Shoals. He believed the promises. He watched the merchant princes steal the victory. And now he runs cargo on the margins of a Confederation that would rather he did not exist — too famous to ignore, too dangerous to tolerate, too stubborn to kill quietly. The guilds want him brought to heel; the veterans want him to raise the flag again; and all he wants is to keep his crew alive and his ship moving. It is not a sustainable position, and everyone involved knows it.
 
 ## Culture and Society
 

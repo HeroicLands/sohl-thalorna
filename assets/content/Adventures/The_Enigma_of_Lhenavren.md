@@ -20,7 +20,7 @@ Ancient ruins in the borderlands hold secrets from before human memory, guarded 
 
 ## Overview
 
-Deep in the borderlands between [[doc-provenzrgn|Provènzia Region]] and [[doc-elavendre|Élavendre]], the crumbling ruins of [[Lhénavren]] stand—a sacred site shared between the [[Áelendan]] (the reclusive human tribes who are the original people of Élavendre) and the [[doc-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
+Deep in the borderlands between [[doc-provenzrgn|Provènzia Region]] and [[doc-elavendre|Élavendre]], the crumbling ruins of [[Lhénavren]] stand—a sacred site shared between the [[doc-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[doc-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
 
 ## Stage One: The Commission & Preparation
 
@@ -120,7 +120,7 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 
 - [[doc-provenzrgn|Provènzia Region]]
 - [[doc-kngdmprvnz|Kingdom of Provènzia]]
-- [[Áelendan]]
+- [[doc-aelndntrbs|Áelendan Tribes]]
 - [[doc-flksinale|Sinalë]]
 - [[doc-elavendre|Élavendre]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]

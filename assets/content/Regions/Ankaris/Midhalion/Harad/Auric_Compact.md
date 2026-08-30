@@ -37,7 +37,7 @@ The Compact financed the Haradian War of Independence — a calculated investmen
 
 The Compact prefers economic pressure to violence, but it is not above either. Merchants who default on Compact loans find their credit revoked across every port in the Confederation. Ship captains who carry cargo for Compact rivals find their vessels denied harbor services. And when softer methods fail, the Compact employs enforcers — discreet, professional, and ruthless — who collect debts through intimidation and, when necessary, force.
 
-These enforcers are the people most likely to cross paths with the crew of the [[doc-thetamzir|The Tamzîr]]. Old debts from the war, broken contracts, and the captain's refusal to work within the guild system make the Tamzîr a persistent irritant to the Compact's sense of order.
+These enforcers are the people most likely to cross paths with the crew of the [[affiliation-thetamzir|The Tamzîr]]. Old debts from the war, broken contracts, and the captain's refusal to work within the guild system make the Tamzîr a persistent irritant to the Compact's sense of order.
 
 ## See Also
 
