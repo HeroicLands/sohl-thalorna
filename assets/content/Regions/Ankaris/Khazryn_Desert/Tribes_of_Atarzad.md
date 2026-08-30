@@ -133,7 +133,7 @@ To the **far west**, [[doc-empirtkhpr|Ta'Kheperu]] is a special case. By Ātárz
 
 To the **interior of the Khazryn**, the [[doc-khzrncnfdrtn|Khazryn Confederation]] is the eternal adversary. The two peoples share the desert, share the language family, share most of the same gods (whom the Khazryn honor and the Ātárzád merely acknowledge), and are locked in a blood-feud that no living person remembers the beginning of. The Ātárzád hold the choicest oases by the Promise; the Khazryn claim them by ancestry and millennia of continuous habitation. Neither will yield.
 
-## The Blood-Feud
+## The Blood-Feud {#the-blood-feud}
 
 The Ātárzád-Khazryn blood-feud is not a single ongoing war; it is a continuous low-level conflict punctuated by larger crises. Ordinary Ātárzád and Khazryn live within the same cities, trade with each other, and (rarely but not never) intermarry, and most years pass without any large action. But:
 

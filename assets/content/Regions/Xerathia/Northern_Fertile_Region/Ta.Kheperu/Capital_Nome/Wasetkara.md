@@ -51,7 +51,7 @@ The two banks differ in their very substance, and this too is the local logic of
 
 The island — _Iat-Tepy_, the First Mound — is the holiest ground in the empire and the only part of the capital ringed by a true fortified wall, white-plastered and visible for leagues. Within it stand the **Great Temple of Rā**, an accretion of courts, pylons, and obelisks that a hundred reigns have each added to, and the **palace of the Per-Aá**, with its gardens, audience-halls, and the bureaus of the inner court. Here too is **the Measure** (_the nilometer_) — a graduated well and stair, tended by the priests of Rā, by which the height of the rising flood is read each year; the reading predicts the harvest, sets the year's taxes, and is proclaimed to the city as the single most important number in the empire. The island is reached by the two great bridge-causeways of the Sun's Road, and by sacred barge. Its three great works — temple, palace, and Measure — are treated in full in [[doc-iattepy|Iat-Tepy]].
 
-### The Living City
+### The Living City {#the-living-city}
 
 The east bank is a patchwork of named quarters, grown rather than planned and strung along or branching off the Sun's Road:
 
@@ -69,11 +69,11 @@ The east bank is a patchwork of named quarters, grown rather than planned and st
 
 Green space in Wasetkara is sacred and mostly walled, but real and abundant. Each great temple holds a rectangular **sacred lake** and a planted **grove** of sycamore, persea, tamarisk, and date-palm around lotus pools, fed by groundwater that rises and falls with the flood; these are the city's green lungs, opened to the crowds on festival days. The palace keeps its own gardens on the island. And threading the High City is **the Drowned Way** — an old silted-up channel of the river, long dead, that the noble houses have made into a chain of pleasure-gardens and lotus-pools: a vanished arm of the river become a garden, the city's most prized and exclusive walk.
 
-### Markets and Commerce
+### Markets and Commerce {#markets-and-commerce}
 
 Trade is done in the open — on quays, in squares, and in temple forecourts. **Mer-Wer's riverfront** is the everyday market, a floating bazaar of cargo-boats and a shore lined with stalls. **Open market-squares** stand at the crossings of the districts — a grain-market by the Shenut, a cattle-market on the landward edge, a luxury-and-foreign market by the harbor. But the greatest commerce of the year rides on the **festival calendar**: when the temple precincts open their forecourts for the high feasts, the city fills, and more goods change hands in those days than in whole seasons between.
 
-### The Sun's Road and the Great Processions
+### The Sun's Road and the Great Processions {#the-suns-road-and-the-great-processions}
 
 The Sun's Road is the armature of the monumental city and the stage of its grandest rites. Lined for much of its length with carved sphinxes and ram-statues, it links the river temples through Khent-Pe and carries the god across the water on its two stone causeways. On the high festivals the image of Rā is borne in procession down the avenue and across to the island; on the two solstice climaxes — the midsummer **Festival of the Coming-Forth**, when the dawn breaks straight down the eastern road, and the midwinter **Festival of the Going-Down**, when the sun sets straight into the necropolis — the whole capital turns out to watch the god born and the god die along his own road, the sightlines kept clear by a law older than memory.
 
@@ -85,13 +85,13 @@ The stone city stands above it all. The temple-platforms, the granary-dikes, the
 
 Because the fields lie underwater and farm-labor is impossible, **flood season is building season**: the surplus labor of the nome rebuilds the mud city and raises the monuments, and the great blocks of stone for the tombs and temples are floated on flood-barges right up to the desert edge, which the water reaches only now. The necropolis itself never floods — it sits up on the high desert shelf beyond the water's reach, the death-road causeway climbing from the river onto dry rock — so that the dead lie forever above the inundation and the living forever below it, drowned and renewed each year. Over centuries the flood leaves its slower marks even on the stone: salt creeping up from the damp into the bases of the monuments, and the silt settling unevenly beneath them, cracking obelisks and tilting colossi that a hundred reigns then labor to shore up.
 
-## Governance and Order
+## Governance and Order {#governance-and-order}
 
 Wasetkara answers to three powers at once, and the friction between them is the city's daily politics. Above all sits the Per-Aá, whose word is law and whose presence on [[doc-iattepy|Iat-Tepy]] makes the capital the one place in the empire where the throne governs directly rather than through a distant nomarch. Beneath the throne, the civil administration of the city — and of the empire it runs from here — falls to the **Tjaty**, the chief minister and supreme judge, who keeps his bureaus in [[doc-wasetkara#The Living City|Per-Medjat]] and is, in all but name, the mayor of the capital as well as the second man in the realm. And cutting across both stand the **great temples**, for each major temple precinct is a near-sovereign enclave that owns its lands, feeds its own people, keeps its own guards and courts, and answers to its Wer'Hekau before it answers to the city — so that a fugitive who reaches temple ground, or a dispute that touches a god's estate, passes out of the Tjaty's hands entirely.
 
 Order in the public city is kept by the **Medjay**, the standing city guard — distinct from the army, and distinct again from the necropolis-guard across the water. They walk the quarters and the quays, man the gates of the walled enclosures after dark, chase thieves, break brawls, and double as the fire-watch; their watch-posts stand in every district, with the largest by the markets and the harbor where trouble gathers. Justice runs in tiers beneath the Tjaty: the local **Kenbet**, a magistrate's court in each quarter, handles market disputes, debts, and petty crime under the eye of [[affiliation-kemtnpnthn|Má'át]]; graver matters of blood and theft rise to the higher courts; and anything touching a temple, a noble house, or the crown leaves the civic system altogether. As everywhere, the law bends to the right name and the right purse — but in a city this watched, the wrong enemies are as dangerous as the wrong crimes.
 
-## The People
+## The People {#the-people}
 
 The capital's near half-million sort into a steep pyramid. At the apex, a thin crust of priests, nobles, senior scribes, and court officials lives in the walled mansions of [[doc-wasetkara#The Living City|Ta-Heri]] and on the temple estates; beneath them a broad middling sort of artisans, traders, lesser scribes, and temple-servants; and at the base the vast mass of laborers, porters, boatmen, market-folk, and the poor of the low warrens. The one ladder between the layers is the **scribal school** — a clever child of any birth who masters the demotic hand can rise into the administration, and the capital draws the ambitious of the whole empire to try. Women hold property, trade, plead in the Kenbet, and serve as priestesses here as everywhere in Ta'Kheperu, and the capital has more women of independent means than anywhere else in the realm.
 

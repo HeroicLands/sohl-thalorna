@@ -43,7 +43,7 @@ Vylaria proper occupies a broad peninsula and surrounding coastal territories on
 
 The great Vylarian roads, once the arteries of an empire, still connect the major cities and extend into former provinces. Many are now in disrepair, but their engineering remains impressive — straight, paved, and bridging rivers and gorges with arches of cut stone.
 
-### The Cervaron Spine
+### The Cervaron Spine {#the-cervaron-spine}
 
 The empire's western frontier rises into the **Cervaron Spine** — a great arc of high mountains separating the Vylarian peninsula from the eastern reaches of [[doc-elavendre|Élavendre]] and the northeastern marches of [[doc-tarvenirgn|Tarvénia Region]]. The Cervaron is one of the most striking geographic features of western Ankaris: snow-capped peaks, deep forested valleys, glacier-fed rivers, high alpine pastures that bloom for two months of the year, and the dozen narrow passes that constitute the only practicable east-west crossings of the range.
 
@@ -77,7 +77,7 @@ The decline began roughly two hundred years ago, driven by a combination of over
 
 Today, the empire has retreated to its core territories around the Vylarian peninsula, though it still claims nominal authority over regions that have long since gone their own way. The loss of Harad's trade revenues has accelerated the fiscal decline — made worse by the explosion of direct Haradian-Kheperi commerce that now bypasses Vylarian intermediaries entirely. The humiliation of the defeat, and the knowledge that Ta'Kheperu's hand was behind it, festers in the Senate and the officer corps.
 
-### The Common Calendar
+### The Common Calendar {#the-common-calendar}
 
 The common calendar of western Ankaris reckons from the founding of the Vylarian Empire — the moment a Vylarian Senator seized supreme power and transformed the Republic into an Empire. That moment is **Year 1**. Events before it are reckoned as "Before the Founding" (**BF**); events after it "After the Founding" (**AF**). The current year is **720 AF**. The Vylarian Republic was established around **650 BF**, and by **400 BF** it was already a major economic and political power in the Vylarian Sea region.
 

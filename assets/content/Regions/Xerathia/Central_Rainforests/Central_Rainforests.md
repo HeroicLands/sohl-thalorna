@@ -69,9 +69,9 @@ The trading relationship is never casual. Outside merchants approach the forest 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[doc-xerathia#Northern Fertile Crescent|Northern Fertile Crescent]] — the Kemetian, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Ta'Kheperu), mystical reverence (certain Okhárian traditions), to active avoidance (Bethua).
+To the **north** lies the [[doc-nrthrnfrtlrgn|Northern Fertile Crescent]] — the Kemetian, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Ta'Kheperu), mystical reverence (certain Okhárian traditions), to active avoidance (Bethua).
 
-To the **south** lie the [[doc-xerathia#Southern Savannahs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
+To the **south** lie the [[doc-sthrnsvnhs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
 
 To the **east and west** the forests fade gradually into coastal terrain that has never supported significant settlement. The rainforest peoples are not seafarers; the coastal margins of the interior are known only through the seasonal visits of forest tribes who come to the shore for salt, shellfish, and ritual reasons of their own.
 

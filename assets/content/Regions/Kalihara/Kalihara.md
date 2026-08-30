@@ -63,7 +63,7 @@ The closest Ankarian equivalent might be a kind of reverence — not worship, bu
 
 This custodial priesthood, the **Ithári'kaan** ("Keepers of What Was Left"), forms the spiritual and institutional heart of Kaliharan society. Their role is to preserve the knowledge and practices of the Ithári, to maintain the ancient structures, and to ensure that the balance of Thári'vaan is not disrupted. Over ten thousand years, the original understanding of what they are maintaining has inevitably shifted. Procedures that the Ithári may have understood as practical engineering — the tending of specific structures, the performance of specific sequences of action at specific times — have acquired layers of ritual meaning. The Ithári'kaan perform these maintenance liturgies with meticulous precision, believing them essential to the health of the island, even as the original technical purpose has been forgotten or transformed into something closer to ceremony.
 
-## The Ancient Structures
+## The Ancient Structures {#the-ancient-structures}
 
 Scattered across the interior of Kalihara are structures built by the Ithári that remain standing — and in many cases, functioning — after ten millennia. These are not ruins. They are intact installations of a material that resembles stone but is clearly something else: seamless, without joints or mortar, resistant to weathering, and in some cases warm to the touch or faintly luminous in darkness. The Kaliharans call this material **ithári'sul** ("precursor stone"), and they treat it with the same reverence they extend to the rest of the natural world — because, in their understanding, it is part of the natural world, placed there by the Ithári as part of the whole.
 

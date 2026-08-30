@@ -56,7 +56,7 @@ If the oppositions define what conflicts within the Sigillum, the _adjacencies_ 
 
 Pyréthos and Zephäris share the quality of dynamism — both deal in energy, motion, and change, though fire burns and air flows. Zephäris and Physéra both engage with the natural world — air as weather and earth as terrain, the sky and the ground that are always in conversation. Physéra and Hydälis share the principle of sustenance and growth — earth nourishes and water heals, and both concern themselves with living things. Hydälis and Sidéros share the quality of patience — water adapts and metal endures, and both prize the slow work of shaping over the sudden act of force. Sidéros and Pneuménos both deal in _order imposed on chaos_ — metal through material craft and spirit through the binding of wills and entities. And Pneuménos and Pyréthos share an intensity, a willingness to reach beyond safe limits — fire through raw power and spirit through communion with forces that most people would rather not contemplate.
 
-## Dýnaris and Morphís
+## Dýnaris and Morphís {#dynaris-and-morphis}
 
 Beneath the six Eídmata and their relationships lies a more fundamental theory of how magic actually _works_ — a theory that every Initiatus learns before they are ever assigned to an Eídma. The Ordo teaches that all magical practice rests on two principles: **Dýnaris** (force) and **Morphís** (form).
 

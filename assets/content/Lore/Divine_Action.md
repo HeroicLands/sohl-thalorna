@@ -49,7 +49,7 @@ Several features of this enforcement are worth being explicit about, because the
 
 The Compact-as-enforcement framing absorbs and combines several of the theoretical hypotheses listed in [[doc-godsrelign#The Non-Intervention of the Gods|Gods and Religion]]. It is consistent with **The Compact** (the gods agreed to restrain themselves), with **Mutual constraint** (any god's intervention is matched by others'), and with parts of **Metaphysical limit** (the gods' power, however vast, must operate through agents because the system has shaped itself this way). It explains why the principle holds universally — not because the gods all happen to agree but because they actively prevent each other from breaking ranks. And it sets up the agent typology that the rest of this document develops.
 
-# Agents of the Gods
+# Agents of the Gods {#agents-of-the-gods}
 
 If the gods themselves cannot act directly in the material world, but the gods nevertheless engage with the world (favourable or hostile, attentive or aloof, generative or dissolving), the engagement must be mediated. The gods act through _agents_: beings who can act in the material world directly, who serve a god's purposes, and who are not themselves bound by the Compact that binds the gods.
 

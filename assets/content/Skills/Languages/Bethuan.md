@@ -167,7 +167,7 @@ Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geogra
 
 4. **Modern Bethuan (200 years ago–present):** Gradual simplification of the masculine register through contact with practical trades, and — the great lexical event of the modern period — a heavy influx of **Kheperi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Kheperi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms — and pointedly _un_-borrowed Helonic vocabulary — to signal learning and refinement.
 
-## The Kheperi Superstrate
+## The Kheperi Superstrate {#the-kheperi-superstrate}
 
 If the gender registers are what make Bethuan structurally unique, the **Kheperi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-kheperlng|Kheperi]], the unrelated and far older tongue of [[doc-empirtkhpr|Ta'Kheperu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbour's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
