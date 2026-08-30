@@ -27,10 +27,16 @@ stats:
 
 itemBuilders: sohl
 
-# Order is load-bearing: the actors pass resolves each being's embedded items
-# against the items pass's output, so items compile first. What it cannot find
-# locally comes from sohl's item catalogue, declared above (#6, #1441). Run
-# `content-build deps fetch` before compiling; a cold cache fails saying so.
+# The dependency between the passes is real and the order here is not what
+# enforces it: the actors pass resolves each being's embedded items against the
+# items pass's output, and package-build derives the compile order from what
+# each pass reads, so items compile first whatever order this list declares
+# (package-build#73). The list is free to be ordered for a reader, because it
+# is also the manifest's `packs` array and the thing `packFolders` below names.
+#
+# What the actors pass cannot find locally comes from sohl's item catalogue,
+# declared above (#6, #1441). Run `content-build deps fetch` before compiling;
+# a cold cache fails saying so.
 #
 # This pass does not pass yet, deliberately. See the PR enabling it: sohl 0.8.2
 # is the newest release, and roughly a hundred addresses these beings name exist
@@ -96,6 +102,13 @@ packageBuild:
         styles:
             - src: styles/sohl-thalorna.css
               layer: sohl-thalorna
+        # Names every pack this package ships, so everything Thalorna adds
+        # appears together in the compendium sidebar under one folder. It was
+        # written when the build compiled two packs and described itself as
+        # naming "only the packs this build compiles"; #69 turned the actors
+        # pack on without extending it, and nothing reported the divergence
+        # until package-build#81 began comparing the two (#95). Adding a pack
+        # to `packs:` above means adding it here.
         packFolders:
             - name: Thalorna
               sorting: m
@@ -103,6 +116,7 @@ packageBuild:
               packs:
                   - items
                   - journals
+                  - actors
         media:
             - type: setup
               url: systems/sohl/assets/ui/sohl-setup.webp
