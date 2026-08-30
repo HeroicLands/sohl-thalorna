@@ -94,7 +94,7 @@ The Empire has never been seriously threatened from the west. Its real threats h
 
 ### Governance & Law
 
-- [[doc-lawhonor|Law and Honor]] — Legal system, the Tëng Lüt (Heavenly Law), and the Zëisīk ritual
+- [[doc-zeisik|Law and Honor]] — Legal system, the Tëng Lüt (Heavenly Law), and the Zëisīk ritual
 - [[doc-castelaws|Caste Laws]] — Detailed rights, duties, and restrictions for each caste
 
 ### Culture & Society

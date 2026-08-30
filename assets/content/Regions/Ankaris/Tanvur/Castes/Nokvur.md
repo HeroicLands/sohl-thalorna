@@ -76,5 +76,5 @@ The Nōkvür are understood to serve as nurturers of the earth's Lëi, channelin
 - [[doc-nutzok|Nützōk]] — Slaves and outcasts below Nōkvür
 - [[doc-venduk|Vëndük]] — Magical practitioners from whom some adoptees come
 - [[doc-zathuk|Zāthük]] — Artisans and craftspeople above Nōkvür
-- [[doc-lawhonor|Law and Honor]] — legal framework governing Nōkvür obligations
+- [[doc-zeisik|Law and Honor]] — legal framework governing Nōkvür obligations
 - [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

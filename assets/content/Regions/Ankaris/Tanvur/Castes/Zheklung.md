@@ -63,5 +63,5 @@ The number nine holds deep reverence in all ceremonies and rites pertaining to t
 - [[doc-castelaws|Caste Laws]] — overview of all caste structures and restrictions
 - [[doc-vushok|Vüshōk]] — the Warrior Nobility who share authority with Zhëklüng
 - [[doc-venduk|Vëndük]] — the Chattel Sorcerers who serve and counsel Zhëklüng
-- [[doc-lawhonor|Law and Honor]] — legal framework governing Zhëklüng authority
+- [[doc-zeisik|Law and Honor]] — legal framework governing Zhëklüng authority
 - [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

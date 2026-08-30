@@ -71,5 +71,5 @@ The Vëndük caste maintains constant vigilance against potential influence from
 - [[doc-castelaws|Caste Laws]] — overview of Vëndük rights and restrictions
 - [[doc-zheklung|Zhëklüng]] — the masters who own and command the Vëndük
 - [[doc-vushok|Vüshōk]] — Warrior Nobility who work alongside Vëndük counsel
-- [[doc-lawhonor|Law and Honor]] — legal framework enforcing magical monopoly
+- [[doc-zeisik|Law and Honor]] — legal framework enforcing magical monopoly
 - [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial structure and governance

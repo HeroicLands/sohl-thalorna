@@ -74,5 +74,5 @@ The [[doc-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or s
 - [[doc-nokvur|Nōkvür]] — peasant farmers, the lowest free caste
 - [[doc-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy
 - [[doc-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement
-- [[doc-lawhonor|Law and Honor]] — legal framework governing treatment of slaves
+- [[doc-zeisik|Law and Honor]] — legal framework governing treatment of slaves
 - [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

@@ -37,4 +37,4 @@ The [[doc-tanvurempr|Empire of Tānvür]] faces multiple serious threats to its 
 
 - [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire
 - [[doc-castelaws|Caste Laws]] — The social structure these threats destabilize
-- [[doc-lawhonor|Law and Honor]] — The legal framework the empire uses to respond
+- [[doc-zeisik|Law and Honor]] — The legal framework the empire uses to respond

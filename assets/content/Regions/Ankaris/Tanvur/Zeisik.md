@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Law and Honor
-id: 7zd9meI8uP5kLiz0
+  - Zëisīk
+  - Zeisik
+id: BGxle7KCGjQb8PGt
+title: The Ritual of Self-Death
 type: doc
 category: lore
 name:
-  full: Law and Honor
+  full: Zëisīk
   aliases: []
-shortcode: lawhonor
+shortcode: zeisik
 folder: jV7c6dJp4Ztnjtb3
 ---
 
 # Zëisīk: The Ritual of Self-Death
-
-Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
 
 **Zëisīk**, meaning "self-death," is a solemn and revered process of ritual suicide that serves multiple purposes within Tānvüri warrior culture. It is most commonly performed as a means of atonement for dishonor or failure — a voluntary act that restores the individual's [[doc-celestlrdr|moral ledger]] through a final, decisive entry. In the classification cosmology, Zëisīk is understood as a **self-initiated reclassification**: the individual removes themselves from the sorted order on their own terms, rather than waiting for the celestial administration to process their disgrace.
 
