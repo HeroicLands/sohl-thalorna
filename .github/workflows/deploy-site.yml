@@ -43,6 +43,16 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
+            # Before anything is built, let alone uploaded. The payload asserted
+            # here is a string constant, so this needs no build output — and the
+            # assertion that matters is a NEGATIVE one (see the step further
+            # down), which no amount of inspecting the built tree would catch.
+            # `node --test` needs neither a dependency nor a configuration file;
+            # this repository has no test harness, and introducing one to assert
+            # one constant would be the larger change.
+            - name: Assert the deployment root's headers
+              run: node --test 'utils/*.test.mjs'
+
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v3
               with:
@@ -72,12 +82,26 @@ jobs:
                   echo "build/site/thalorna carries $pages page(s)"
                   test "$pages" -gt 1000
 
-            # The hosting project answers at an address of its own
-            # (sohl-thalorna.pages.dev) as well as under www.heroiclands.org, and a
-            # second address for the same pages can be indexed and compete with the
-            # canonical URL. `_headers` marks those hostnames noindex — but only at
-            # the deployment ROOT, which is the sole place Pages reads it
-            # (HeroicLands/Song-of-Heroic-Lands-FoundryVTT#1469).
+            # The hosting project answers at three addresses of its own —
+            # sohl-thalorna.pages.dev, one per deployment, and
+            # thalorna.pkg.heroiclands.org — as well as under
+            # www.heroiclands.org, and a second address for the same pages can
+            # be indexed and compete with the canonical URL. `_headers` marks
+            # those hostnames noindex, but only at the deployment ROOT, which is
+            # the sole place Pages reads it
+            # (HeroicLands/Song-of-Heroic-Lands-FoundryVTT#1469, #96).
+            #
+            # THE PAYLOAD IS THIS REPOSITORY'S, whatever workflow deploys it.
+            # The reusable workflow in `HeroicLands/.github` writes the same
+            # three rules as a DEFAULT, and only when the build produced none —
+            # "a package that emits its own keeps it, byte for byte" — and
+            # `utils/build-site-root.mjs` writes one unconditionally. Its
+            # completeness guard says as much: "a package that emits its OWN
+            # `_headers` passes this check with whatever it wrote, so it is that
+            # package's job to cover the custom domain too." So this stays true
+            # if this repository ever does migrate, and the three rules must
+            # come with it. Whether to migrate is a separate question with its
+            # own reasons; #96 deliberately did not decide it.
             - name: Verify the deployment root carries its headers
               run: test -s build/site/_headers
 
