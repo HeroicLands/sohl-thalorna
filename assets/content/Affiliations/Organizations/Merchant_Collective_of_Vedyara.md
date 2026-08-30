@@ -70,7 +70,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The five janapada rulers** — clients, debtors, occasional opponents. The relationship is one of mutual dependence and mutual resentment.
 - **The [[doc-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
-- **The [[association-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
+- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** — limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
 
 ## Identifying Marks
