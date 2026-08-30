@@ -109,7 +109,7 @@ Beneath the scale, warriors wear **reinforced linen war-kilts** — layered and 
 
 Kheperi society is hierarchical but not rigid. The Per-Aá and royal family sit at the apex, followed by the priestly and military aristocracies, the scribal and administrative class, merchants and master artisans, and finally the vast population of farmers and laborers who work the floodplains. Social mobility is limited but real — the scribal schools are the primary mechanism, but military service, priestly orders, and commercial success can also elevate a family over generations.
 
-### Titles and Forms of Address
+### Titles and Forms of Address {#titles-and-forms-of-address}
 
 Kheperi nobility uses a titling system distinct from the western Ankarian convention of "Lord" and "Lady." The principal titles of rank are:
 
@@ -155,7 +155,7 @@ Kheperi civilization excels in mathematics, astronomy, medicine, and engineering
 
 The visual arts are highly developed but profoundly conservative. Kheperi art follows conventions established millennia ago — the characteristic profile-and-frontal style, the hierarchical scaling of figures, the symbolic color palette — not from lack of skill but from theological conviction. Art in Ta'Kheperu is not self-expression; it is a magical act that creates eternal reality. A properly executed tomb painting does not merely depict the afterlife — it _is_ the afterlife, made real through correct form. Innovation in artistic technique is therefore not valued; perfection of the established form is.
 
-### The Kheperi Calendar and Dating
+### The Kheperi Calendar and Dating {#the-kheperi-calendar-and-dating}
 
 The Kheperi do not use the western Ankarian calendar and would find the suggestion offensive. Their dating system is older, they will tell you, than the Vylarian people themselves — and they are probably right, though the details are contested.
 

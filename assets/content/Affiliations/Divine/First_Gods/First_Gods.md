@@ -35,7 +35,7 @@ At the heart of the First Gods stand two cosmic Powers. They are spoken of in pa
 
 The two Powers are locked in an eternal struggle that the Áelendan do not regard as evil-versus-good. Both are necessary. Light without dark is a barren sky; dark without light is a silent world. The struggle itself is what keeps the world turning — the alternation of day and night, summer and winter, waking and sleeping, birth and death. Áelendan thinking on this point is emphatic: neither Power is a demon, and neither is a saint. They are what they are, and the world exists because they contend.
 
-### The Bright
+### The Bright {#the-bright}
 
 - **Epithet:** The Ever-Bright
 - **Aspect:** Light, life, growth, flame, dawn
@@ -46,7 +46,7 @@ What the Bright favours can be inferred from what the Bright is. Warmth, generat
 
 Áelendan tradition holds that several of the Aurèldían deities are later refractions of the Bright: [[affiliation-arldnpnthn|Lúsinía]] the World-Weaver, [[affiliation-arldnpnthn|Flórania]] the Nurturer, and — by some accounts — [[affiliation-arldnpnthn|Vénusia]] the Bountiful. The Aurèldían clergy disputes this reading, and no outside scholarship has settled the question. The Áelendan offer the reading but do not insist on it.
 
-### The Dark
+### The Dark {#the-dark}
 
 - **Epithet:** The Unending Shadow
 - **Aspect:** Darkness, death, stillness, cold, the grave, the deep places

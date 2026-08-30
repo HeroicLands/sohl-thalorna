@@ -92,7 +92,7 @@ Larger releases are correspondingly larger disasters. A skilled mage who deliber
 
 A particularly dark possibility, which the Ordo will not discuss, is the _deliberate_ unchannelled release. A sufficiently desperate or sufficiently mad practitioner could open a wide channel and refuse to channel — converting their own death into an indiscriminate magical detonation. The act is suicidal. It is also, in extreme circumstances, devastatingly effective. This is the kind of thing that ends sieges, breaks the back of an invading army, or is whispered about as the final option of a Magister whose life has come apart entirely. It happens rarely. When it happens, it is remembered.
 
-### Thin Places and Focused Objects
+### Thin Places and Focused Objects {#thin-places-and-focused-objects}
 
 In some locations and through some objects, the membrane that separates the physical from the potential is _thin_. The potential flows through such a place into the world directly — without any soul required to act upon it. This is a property of the physical (and metaphysical) configuration of the place itself, not of any practitioner.
 
@@ -118,7 +118,7 @@ Several consequences of this matter for play:
 
 **Leylines and sacred sites are thin places writ large.** A geographic region where the membrane is thin produces ambient magical phenomena — eerie weather, unusual flora and fauna, recurring visions or hauntings, locations where prayers seem to carry weight or where fates seem to converge. Mages working in such places find their own work amplified. Magic items used in such places produce stronger effects. The thinness can be local to a single grove, a single battlefield, a single shrine, or it can extend across regions. Cultures throughout Thalorna recognise these places, even when their explanations differ. The druids of Élavendre work primarily within the great thinness of their forest. The Kheperi temples are built on or near sites of unusual thinness, identified centuries ago by the priestly tradition. The standing stones of the Norden coasts mark thin places that the völvur use in their work.
 
-## Frameworks: The Plurality of Coherent Grammars
+## Frameworks: The Plurality of Coherent Grammars {#frameworks-the-plurality-of-coherent-grammars}
 
 The discussion above has assumed throughout that _any coherent framework can produce real magic_. This is the cosmological core of why Thalorna has multiple working magical traditions, and it deserves explicit treatment.
 
@@ -152,7 +152,7 @@ The Pyréthos current is real _as an effect of Pyréthos training_. A Pyréthos 
 
 But there is no Pyréthos _in the potential itself_. The same potential that becomes Pyréthos in the hands of an Ordo mage becomes something quite different in the hands of a Kheperi priest invoking the fire-aspect of a god, and something different again in the hands of a Sinalë practitioner working the same effect through patterns the Ordo could not name. The potential is the same. The shaping differs. All produce real fire.
 
-### Vertigo Hodäi Is Real, And It Is Recognition
+### Vertigo Hodäi Is Real, And It Is Recognition {#vertigo-hodai-is-real-and-it-is-recognition}
 
 A mage who has worked the Héx Hodäi at the highest levels for decades — who has achieved [[affiliation-kentra|Kentra]] and continues to practise across the full Sigillum — eventually begins to perceive something the framework does not name.
 

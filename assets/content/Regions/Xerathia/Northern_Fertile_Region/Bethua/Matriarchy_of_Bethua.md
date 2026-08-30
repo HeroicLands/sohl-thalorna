@@ -62,7 +62,7 @@ Bethûa began as a **Helonic colonial foundation** — a daughter-settlement of 
 
 Matriarchy of Bethûa uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]] — temple-attested weight-pieces of copper, silver, and gold in deben and kite units. Bethûa has no native coinage; the Kheperi pieces serve as the standard medium of exchange throughout the kingdom. Credit and large-value commerce flow through the [[affiliation-bthntrdhss|matriarchal trade-houses]], whose Great Houses maintain correspondent accounts with specific [[affiliation-perhati|Pér-Háti]] chapters and issue their own letters of credit redeemable through those accounts. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full monetary system and [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] for the Bethûan institutional arrangements.
 
-## Relations
+## Relations {#relations}
 
 ### Ta'Kheperu — the patron
 

@@ -82,7 +82,7 @@ The governing body of the pillar is the **Council of Houses** (Bethûan: _the S�
 - **Imet-Hâti** ("Overseer of the Account") — the **state treasurer**, head of the royal fisc. The title is a direct **Kheperi loan**, and not by accident: Bethûa keeps no native coinage, runs on [[doc-tkhprcrncy|Kheperi weight-pieces]], and built its entire fiscal apparatus on the Kheperi model during the liberation. The treasury of Bethûa speaks Kheperi to this day. (See [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] for the correspondent-banking arrangements that connect the realm's commerce to the [[affiliation-perhati|Pér-Háti]].)
 - **Grammatíssa** (pl. _Grammatíssai_; "scribe-woman") — the literate civil administrators and clerks who keep the rolls, draft the law, and run the offices beneath the Hégissai and the Imet-Hâti.
 
-## The Martial Bridge: the Spear-Sisterhood and the Fleet
+## The Martial Bridge: the Spear-Sisterhood and the Fleet {#the-martial-bridge-the-spear-sisterhood-and-the-fleet}
 
 For all that it is a modest realm in size, Bethûa keeps a **large and famously capable military** — a professional standing army, the fine Bethûan horse for which the realm's cavalry is renowned, and, above all, a **navy whose reputation runs the length of [[doc-midhalnrgn|Mídhalión Region]]**. The fleet is the instrument of Bethûa's outsized role on the [[doc-vylarianse|Vylarian Sea]]: it guards the coast and the orchard-ports, escorts the [[affiliation-bthntrdhss|Trade-Houses']] convoys, and — to the lasting irritation of [[doc-vylarinmpr|Vylaria]] — contests Vylarian dominance of the southern sea on behalf of Bethûa and its Kheperi patron. A Bethûan war-galley is a respected and unwelcome sight in waters Vylarian captains would prefer to call their own.
 
@@ -97,7 +97,7 @@ Command of the whole host is a **bridging office** that belongs neither wholly t
 - **Lonkhíssa** (pl. _Lonkhíssai_) — an officer of the Spear-Sisterhood, commanding a company of the Lonkhai.
 - **Spádon** (pl. _Spádai_) — a eunuch-warrior of the sworn cadre; serves under the Stratégissa and her officers like any other arm of the host.
 
-## The Place of Men
+## The Place of Men {#the-place-of-men}
 
 Men in Bethûa hold no political, religious, or military standing — and, uniquely among the realms of the region, no standing as free persons in the full sense either. In law and custom a Bethûan man is the **dependent and the charge of a woman**: his mother, then the matriarch of his House, then the wife or mistress to whom he is bound. He **cannot own property, cannot inherit, cannot make a binding contract in his own name**, and cannot stand before a court except through the woman responsible for him. Men are, in plain terms, **a kind of property** — valued property, often cherished property, but property nonetheless. The harshest expression of this is the small population of outright **male slaves**, who are bought and sold; the ordinary free-born man stands above them not in right but only in regard.
 

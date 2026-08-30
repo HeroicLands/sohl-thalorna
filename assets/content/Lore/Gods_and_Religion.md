@@ -91,7 +91,7 @@ A pantheon may lack gods of certain domains entirely — and this absence does n
 
 **The number of gods is unknowable.** Are there a small handful of true gods, named differently across thousands of traditions? Are there thousands of gods, each tradition recognising a small subset? Is the answer somewhere in between? The cosmology does not commit. Even a Sinalë philosopher of unusual depth would say that the question itself presupposes a clean enumeration that the divine field may not admit. There may be beings whose distinctness is itself a mortal projection — what one framework treats as one being, another might reasonably treat as several. The actual _count_ of divine beings, if there is such a thing, is among the things mortals cannot determine.
 
-## Order and Chaos Are Objective; Good and Evil Are Not
+## Order and Chaos Are Objective; Good and Evil Are Not {#order-and-chaos-are-objective-good-and-evil-are-not}
 
 A particular subset of mortal projections deserves explicit attention, because confusing what is and is not objective in this domain is one of the most consequential cosmological errors a culture can make.
 
@@ -146,7 +146,7 @@ This makes the Sinalë the most useful in-world voice for articulating the cosmo
 
 The Sinalë's quiet tolerance of younger civilisations' frameworks is not condescension. It is the patience of a tradition that knows that institutions cannot be told these truths; only sustained engagement with the divine, over many lifetimes, produces the recognition. The Sinalë wait. They do not push.
 
-# The Non-Intervention of the Gods
+# The Non-Intervention of the Gods {#the-non-intervention-of-the-gods}
 
 For reasons known only to themselves, the gods of Thalorna do not directly intervene in the affairs of mortals. This is the foundational fact about divine action in the world, and it shapes every other aspect of how religion functions.
 
@@ -348,7 +348,7 @@ Most actual curses in Thalorna are mixtures. The cursing practitioner has some A
 
 This indistinguishability is one reason curses are taken so seriously across all Thalornan cultures. The fact that some curses are "merely" inspirational does not make them less real or less dangerous. The fact that some are real magic makes the whole category a matter of grave concern. A priest, a midwife, a wise-woman, a Quaesitor, or a cunning-folk healer may be called in to help with a cursed person, and any of them may be able to help — through framework counter-magic, through ritual cleansing that addresses the psychological dimension, or through both at once.
 
-# Saints, Prophets, and Mystics
+# Saints, Prophets, and Mystics {#saints-prophets-and-mystics}
 
 Some figures in religious history are described as having abilities far beyond ordinary priests. They produce greater miracles. They see further. They heal more reliably. They command unusual phenomena. They claim direct communion with the divine, see visions, hear voices, fall into ecstatic states. The religion explains them as divinely chosen — saints, prophets, mystics, holy fools.
 
