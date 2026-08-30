@@ -34,7 +34,7 @@ folder:
 _Kheperi: "The House of Hunters" — the guild of professional hunters of Ta'Kheperu_
 
 - **Type:** Imperial chartered guild
-- **Region:** [[Takheperu_Region|Ta'Kheperu]] — central guildhouse at the capital, with regional chapter halls along the Taméresh and at the desert edge
+- **Region:** [[doc-takheperurgn|Ta'Kheperu]] — central guildhouse at the capital, with regional chapter halls along the Taméresh and at the desert edge
 - **Charter:** Granted by the seventh Per-Aá of the present dynasty; renewed regularly thereafter
 - **Magnum Collegium status:** Not a member; independent Ta'Kheperan institution. No standing credential equivalence with the [[affiliation-magnumclgm|The Magnum Collegium]]; foreign hunters operating in Ta'Kheperu require case-by-case license. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has, however, recently approached Per'Nuw with proposals for an equivalence agreement covering desert and frontier work; negotiations are early-stage.
 

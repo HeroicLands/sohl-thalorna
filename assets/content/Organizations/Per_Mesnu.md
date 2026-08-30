@@ -36,7 +36,7 @@ folder:
 _Kheperi: "The House of the Mesnu" — the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Horus_
 
 - **Type:** Imperial chartered guild
-- **Region:** [[Takheperu_Region|Ta'Kheperu]] — central guildhouse at the capital, with chapter forges in every nome of consequence
+- **Region:** [[doc-takheperurgn|Ta'Kheperu]] — central guildhouse at the capital, with chapter forges in every nome of consequence
 - **Charter:** Granted by the eleventh Per-Aá of the present dynasty; renewed and confirmed by each succeeding Per-Aá
 - **Magnum Collegium status:** Not a member; independent Ta'Kheperan institution. Maintains a per-trade credential equivalence agreement with the Vylarian Smiths' federation negotiated through the [[affiliation-magnumclgm|The Magnum Collegium]] for routine work; master-rank elevations remain non-transferable in either direction.
 
