@@ -35,7 +35,10 @@
  *    from `name.full` by the shared rule in
  *    `@heroiclands/package-build/engine/content-slug` (#1278).
  *    A `category: collection` note *is* a section's landing and writes that
- *    section's `_index.md` instead.
+ *    section's `_index.md` instead, and a `type: homepage` note is the
+ *    *package's* landing: it is addressed by the package rather than by its own
+ *    name, so it takes no section and no slug and writes the site root's
+ *    `_index.md` (package-build's `engine/homepage.mjs`).
  * 2. **Expand** the fenced `dataview` table directives against every published
  *    note (`@heroiclands/package-build/engine/content-tables`), so a collection
  *    page tabulates its
@@ -81,6 +84,13 @@ import {
     assertNoDeclaredPackage,
     searchableFrontmatter,
 } from "@heroiclands/package-build/engine/note-package";
+import {
+    isHomepage,
+    homepageTitle,
+    homepageFrontmatter,
+    HOMEPAGE_DESTINATION,
+} from "@heroiclands/package-build/engine/homepage";
+import { loadPackConfig } from "@heroiclands/package-build/engine/pack-config";
 
 // Resolved once, here, rather than at each use. The package exports these as
 // accessors so that *importing* a module never needs a consumer config; this is
@@ -359,6 +369,13 @@ function stringifyPage(data, body) {
 // and the table universe are complete when the first page is rendered.
 
 const entries = [];
+/**
+ * The authored package landing, gathered here and written at the site root.
+ *
+ * A list rather than the one note there should be, so that a second one is
+ * visible as a count rather than silently overwriting the first.
+ */
+const homepages = [];
 const refIndex = new Map();
 /** Notes whose slug cannot be derived — fatal; the page they name would vanish. */
 const slugErrors = [];
@@ -418,6 +435,16 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
     }
 
     if (!fm.type) continue;
+
+    // The package homepage is addressed by the *package*, not by its own name:
+    // it publishes at `/thalorna/` and compiles to no compendium document, so it
+    // takes no section and no slug and appears in no link manifest
+    // (package-build's `engine/homepage.mjs`, HeroicLands/content-build#51). It
+    // is written at the end of the write phase instead.
+    if (isHomepage(fm)) {
+        homepages.push({ fm, body });
+        continue;
+    }
 
     for (const hit of frontmatterWikilinks(fm)) {
         frontmatterLinks.push({ file: rel, ...hit });
@@ -826,6 +853,27 @@ for (const e of entries) {
     written++;
 }
 
+// The package landing, at the site root. Written verbatim — no table expansion
+// and no wikilink resolution — because it is authored prose about the package
+// rather than a page in the content graph, and it is deliberately not routed
+// through the loop above: it has no section to live in and no slug to derive.
+// The title defaults to `packageBuild.manifest.title` when the note declares
+// none, so a package need not write its own name twice.
+const packConfig = loadPackConfig();
+for (const page of homepages) {
+    fs.mkdirSync(OUT, { recursive: true });
+    fs.writeFileSync(
+        path.join(OUT, HOMEPAGE_DESTINATION),
+        stringifyPage(
+            homepageFrontmatter(page.fm, {
+                contentPackage: CONTENT_PACKAGE,
+                title: homepageTitle(page.fm, packConfig),
+            }),
+            page.body,
+        ),
+    );
+}
+
 // A section whose collection note does not exist still needs a landing, or Hugo
 // auto-humanizes the directory name ("Mysticalabilities") and the section lists
 // nothing. Emit a minimal one for any section no collection note claimed.
@@ -893,6 +941,6 @@ if (wikiErrors.length) {
 }
 
 console.log(
-    `site-content: wrote ${written} page(s) + ${stubs} generated landing(s) to ` +
-        `${path.relative(REPO, OUT)}/`,
+    `site-content: wrote ${written} page(s) + ${stubs} generated landing(s) + ` +
+        `${homepages.length} homepage(s) to ${path.relative(REPO, OUT)}/`,
 );
