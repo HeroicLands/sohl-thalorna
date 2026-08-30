@@ -90,7 +90,7 @@ The standards are taught, in their full religious form, only at the elevation to
 - **The Imperial Military Quartermaster's Office** — primary client; the quartermasters wield significant leverage through their procurement decisions but cannot easily replace the guild.
 - **The Temples of [[affiliation-ptah|Ptah]] and [[affiliation-horus|Horus]]** — the guild's religious foundation; senior elevations are conducted in temple rite.
 - **[[affiliation-pernuw|Per'Nuw]]** (the Hunters' Guild) and the other Ta'Kheperan trade guilds — peer institutions; relations are cordial and structured by the inter-guild conventions established at the imperial guildhall.
-- **Foreign metalworking traditions** — the guild views the Vylarian armory tradition with professional respect, the Khazran smithing schools with cautious interest, and the Nordlands traditions with curiosity. Foreign smiths working in Ta'Kheperu must obtain guild permission to seal work; permission is rarely granted.
+- **Foreign metalworking traditions** — the guild views the Vylarian armory tradition with professional respect, the Khazryn smithing schools with cautious interest, and the Nordlands traditions with curiosity. Foreign smiths working in Ta'Kheperu must obtain guild permission to seal work; permission is rarely granted.
 
 ## Identifying Marks
 

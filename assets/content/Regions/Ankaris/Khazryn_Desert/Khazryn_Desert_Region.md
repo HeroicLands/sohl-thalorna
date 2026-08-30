@@ -15,7 +15,7 @@ shortcode: khzryndsrtrgn
 img: ""
 type: doc
 category: region
-terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazran and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
+terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 demonym: Khazryn
 parent:
   continents:
@@ -45,11 +45,11 @@ The **northern and central steppes** — the great open grasslands that dominate
 
 The **central desert** — the truly arid heart of the Khazryn, a complex of great sand seas and stone-and-gravel reaches interrupted by rocky mesas, occasional dry riverbeds, and the scattered oases that make long-distance travel possible at all. The great caravan routes — what the merchants call the **Celestial Road** — are essentially chains of oases, each a waypoint worth killing and dying for.
 
-The **southwestern oasis-belt** — the irrigated corner of the Khazryn, a string of well-watered lowland cities and agricultural districts along the southern margin where Khazryn meets [[doc-dunharargn|Dunhara]]. This is the country of the [[doc-khzrncnfdrtn|Khazran]] and the [[doc-tribestrzd|Ātárzád]], whose civilizational density is utterly unlike anything elsewhere in the Khazryn. The southwestern oasis-belt has urban populations in the hundreds of thousands, written archives going back two thousand years, an established temple-priesthood, and trade-and-political relations with [[doc-sultntmrdd|Amradad]] and beyond. Outsiders who hear "the Khazryn" usually picture this corner; in reality it accounts for less than a fifth of the region's population and a tiny fraction of its area.
+The **southwestern oasis-belt** — the irrigated corner of the Khazryn, a string of well-watered lowland cities and agricultural districts along the southern margin where Khazryn meets [[doc-dunharargn|Dunhara]]. This is the country of the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]], whose civilizational density is utterly unlike anything elsewhere in the Khazryn. The southwestern oasis-belt has urban populations in the hundreds of thousands, written archives going back two thousand years, an established temple-priesthood, and trade-and-political relations with [[doc-sultntmrdd|Amradad]] and beyond. Outsiders who hear "the Khazryn" usually picture this corner; in reality it accounts for less than a fifth of the region's population and a tiny fraction of its area.
 
 The **eastern dryland** — the stone deserts and the high cold steppe approaches to the Tānvüri passes. This is the country of the easternmost steppe confederations, whose relationship with the Tānvüri court is a matter of perpetual frontier-management on both sides.
 
-Oases are precious throughout the region but are densest in the southwestern oasis-belt and along the central caravan routes. Some support permanent walled cities — Khazran-or-Ātárzád in the southwest, smaller and more nomad-controlled in the central desert — while others are merely seasonal waterings known to the local tribes and tightly concealed from outsiders.
+Oases are precious throughout the region but are densest in the southwestern oasis-belt and along the central caravan routes. Some support permanent walled cities — Khazryn-or-Ātárzád in the southwest, smaller and more nomad-controlled in the central desert — while others are merely seasonal waterings known to the local tribes and tightly concealed from outsiders.
 
 The climate is punishing. Summer daytime temperatures can be lethal within hours to the unprepared; winter nights are bitter; sandstorms can bury a camp or scour the paint from a caravan's chests in minutes. The desert's native inhabitants have developed over generations the physiological, technological, and social adaptations to thrive here; outsiders who attempt the crossing without hired guides rarely reach the other side.
 
@@ -71,9 +71,9 @@ The **taiga peoples** of the Khazryn's far north are a smaller and quite distinc
 
 ### The Southwestern Oasis Civilization
 
-The **southwestern oasis-belt** houses the [[doc-khzrncnfdrtn|Khazran]] and the [[doc-tribestrzd|Ātárzád]], whose civilization is utterly unlike either the steppe confederations or the taiga peoples. Urban, literate, polytheistic (Khazran) or monolatrous (Ātárzád), bound to the [[affiliation-ashanpnthn|Āsháian Pantheon]] in ways that the steppe peoples regard as foreign even when they nominally share the same faith — the southwestern civilizations have more in common with the [[doc-sultntmrdd|Sultanate of Amradad]] (with which they share long trade and exile relations) than with the nomads camped two days' ride north.
+The **southwestern oasis-belt** houses the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]], whose civilization is utterly unlike either the steppe confederations or the taiga peoples. Urban, literate, polytheistic (Khazryn) or monolatrous (Ātárzád), bound to the [[affiliation-ashanpnthn|Āsháian Pantheon]] in ways that the steppe peoples regard as foreign even when they nominally share the same faith — the southwestern civilizations have more in common with the [[doc-sultntmrdd|Sultanate of Amradad]] (with which they share long trade and exile relations) than with the nomads camped two days' ride north.
 
-The story of the Ātárzád conquest of the four great Khazran cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) is the central political drama of the southwestern Khazryn and is recited with bitter precision by both sides. See [[doc-khzrncnfdrtn|Khazran Confederation]] and [[doc-tribestrzd|Tribes of Ātárzád]] for the full account.
+The story of the Ātárzád conquest of the four great Khazryn cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) is the central political drama of the southwestern Khazryn and is recited with bitter precision by both sides. See [[doc-khzrncnfdrtn|Khazryn Confederation]] and [[doc-tribestrzd|Tribes of Ātárzád]] for the full account.
 
 ### Pre-Khazryn Ruins
 
@@ -81,7 +81,7 @@ Rumor and tradition hold that beneath the sands of the central desert lie ancien
 
 ## Religion
 
-Religious practice in the Khazryn varies enormously by sub-population. The [[affiliation-ashanpnthn|Āsháian Pantheon]] is the _nominal_ faith of the entire region, and is genuinely the faith of the southwestern oasis-belt — the Khazran practice the full twelve-deity pantheon with [[affiliation-ahurdaen|Āhúrdáén]] supreme, while the Ātárzád practice their monolatrous devotion to [[affiliation-ataros|Ātáröš]] alone. But the steppe confederations honor the Āsháian gods only loosely, layered on top of their own ancestral sky-father / earth-mother cults and shamanic traditions. The taiga peoples have their own animist tradition that the Āsháian priesthood scarcely acknowledges as religion at all.
+Religious practice in the Khazryn varies enormously by sub-population. The [[affiliation-ashanpnthn|Āsháian Pantheon]] is the _nominal_ faith of the entire region, and is genuinely the faith of the southwestern oasis-belt — the Khazryn practice the full twelve-deity pantheon with [[affiliation-ahurdaen|Āhúrdáén]] supreme, while the Ātárzád practice their monolatrous devotion to [[affiliation-ataros|Ātáröš]] alone. But the steppe confederations honor the Āsháian gods only loosely, layered on top of their own ancestral sky-father / earth-mother cults and shamanic traditions. The taiga peoples have their own animist tradition that the Āsháian priesthood scarcely acknowledges as religion at all.
 
 Among the steppe nomads, [[affiliation-bahramis|Báhrámiš]] (storms and protection) and [[affiliation-korsadra|Khóršádrä]] (the eternal sky-light) are the two Āsháian deities who genuinely matter — both have been fitted naturally into pre-existing nomad cosmology, where the sky is the supreme presence and storms are the manifestations of divine will. Khans are inaugurated under open sky; treaties are sworn before lightning; the dead are exposed to the four winds rather than buried.
 
@@ -91,7 +91,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here. The so
 
 ## Politics and Power
 
-No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[doc-khzrncnfdrtn|Khazran]] and [[doc-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
+No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[doc-khzrncnfdrtn|Khazryn]] and [[doc-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
 
 The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, swept across half of Vedyara and reached the eastern walls of the [[doc-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
 
@@ -107,7 +107,7 @@ Byzarian and Haradi merchants dominate the western end of the trade; Tānvüri a
 
 To the **west** lies [[doc-velanthrgn|Velanthia]], the transitional zone of forest-steppe and grain-belt that separates the Khazryn proper from the [[doc-nrdlndsrgn|Nordlands]] forests further west. Velanthian-Khazryn relations are continuous along a long, fluid frontier: Velanthian grain flows east, Khazryn furs and horses flow west, and steppe-confederation raiders periodically test Velanthian frontier defenses with limited success.
 
-To the **southwest** lies the [[doc-sultntmrdd|Sultanate of Amradad]] (in the broader [[doc-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazran exile community.
+To the **southwest** lies the [[doc-sultntmrdd|Sultanate of Amradad]] (in the broader [[doc-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazryn exile community.
 
 To the **south** lies the rest of the [[doc-dunharargn|Dunhara]] — the wider Dunhari world that wraps around the Khazryn's southwestern corner. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
 

@@ -69,7 +69,7 @@ Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that 
 ## See Also
 
 - [[doc-castelaws|Caste Laws]] — rights and restrictions governing Tānthëi
-- [[doc-lawhonor|Law and Honor]] — framework of Celestial Law and Tānthëi interpretation
+- [[doc-zeisik|Law and Honor]] — framework of Celestial Law and Tānthëi interpretation
 - [[doc-zheklung|Zhëklüng]] — the supreme authority consulting with Tānthëi
 - [[doc-vushok|Vüshōk]] — Warrior Nobility who receive Tānthëi counsel
 - [[doc-venduk|Vëndük]] — Magical practitioners whom Tānthëi oversee and restrict

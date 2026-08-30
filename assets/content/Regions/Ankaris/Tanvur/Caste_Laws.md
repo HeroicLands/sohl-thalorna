@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[doc-tanvurempr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
 
-See also: [[doc-lawhonor|Law and Honor]] for the legal system and punishment framework.
+See also: [[doc-zeisik|Law and Honor]] for the legal system and punishment framework.
 
 ---
 
@@ -128,7 +128,7 @@ See [[doc-elderraces|Elder Races]] for full details on territories, autonomy, cu
 
 ## See Also
 
-- [[doc-lawhonor|Law and Honor]] — The Tëng Lüt (Heavenly Law) and punishment framework
+- [[doc-zeisik|Law and Honor]] — The Tëng Lüt (Heavenly Law) and punishment framework
 - [[doc-marriage|Marriage]] — Marriage customs and caste restrictions
 - [[doc-personlnms|Personal Names]] — Naming conventions
 - [[doc-numerology|Numerology]] — Auspicious and inauspicious numbers

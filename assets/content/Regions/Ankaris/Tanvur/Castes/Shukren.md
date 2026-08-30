@@ -79,7 +79,7 @@ Despite their wealth and economic importance, Shükrën occupy a lower social po
 ## See Also
 
 - [[doc-castelaws|Caste Laws]] — rights and restrictions governing Shükrën
-- [[doc-lawhonor|Law and Honor]] — commercial law and tax regulations
+- [[doc-zeisik|Law and Honor]] — commercial law and tax regulations
 - [[doc-zathuk|Zāthük]] — artisans and craftspeople above Shükrën in social hierarchy
 - [[doc-nokvur|Nōkvür]] — peasant farmers whom Shükrën must not exploit
 - [[doc-vushok|Vüshōk]] — administrators who enforce commercial law

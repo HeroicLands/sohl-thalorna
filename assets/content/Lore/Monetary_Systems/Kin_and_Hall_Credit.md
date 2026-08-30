@@ -25,7 +25,7 @@ folder:
 
 ## Overview
 
-Across the tribal and clan-based polities of Thalorna — the [[doc-nrdlndsrgn|Nordlands]], [[doc-vrystwald|Vrystwald]], [[Dunhara_Tribes_Region|Dunhara]], [[doc-khzryndsrtrgn|Khazran steppe]], the [[doc-aelndntrbs|Áelendan]] of Élavendre, and the deep-interior tribes of every continent — a distinctive form of long-term commercial credit operates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
+Across the tribal and clan-based polities of Thalorna — the [[doc-nrdlndsrgn|Nordlands]], [[doc-vrystwald|Vrystwald]], [[Dunhara_Tribes_Region|Dunhara]], [[doc-khzryndsrtrgn|Khazryn steppe]], the [[doc-aelndntrbs|Áelendan]] of Élavendre, and the deep-interior tribes of every continent — a distinctive form of long-term commercial credit operates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
 
 This is not informal credit in the sense that Vylarian moneylenders use the term. It is _structurally formal_ — bound by elaborate custom, enforced by deep social pressure, and central to how the kin- and hall-based polities actually function. A Nordlands jarl who takes a substantial loan from a sworn retainer's family enters into an obligation that will be recited at every gathering between the families for the next generation; it will be reckoned at marriage negotiations, at funeral feasts, at the divisions of estate; it will be remembered by every adult of both families and named in every relevant moment of public reckoning. The Vylarian written-contract apparatus achieves something similar through paper; the kin-and-hall systems achieve it through memory, custom, and the standing watchfulness of the affected community.
 
@@ -59,11 +59,11 @@ A Dunhari trader extends substantial credit to a kin-member with the understandi
 
 The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates particularly contentious credit disputes between tribal groups (a debt that has crossed inter-tribal lines and threatens the Old Promise that holds the confederation together), but most credit operates within the kin-network without external institutional involvement.
 
-### Khazran Tribal Credit
+### Khazryn Tribal Credit
 
-The [[doc-khzrncnfdrtn|Khazran]] system is similar to the Dunhari but operates over wider distances and through tighter trade-relationships. The Khazran trading caravans that move between settled markets carry obligations that span entire tribal territories; the **caravan-master** carries not only his own commercial relationships but the obligations of his backing clan, which extend across the caravan's entire route.
+The [[doc-khzrncnfdrtn|Khazryn]] system is similar to the Dunhari but operates over wider distances and through tighter trade-relationships. The Khazryn trading caravans that move between settled markets carry obligations that span entire tribal territories; the **caravan-master** carries not only his own commercial relationships but the obligations of his backing clan, which extend across the caravan's entire route.
 
-Khazran kin-credit relationships have historically been the principal credit infrastructure of the steppe — more so than in Dunhari country, because Khazran commerce reaches further and connects more strangers. Customary practices for inter-tribal credit have developed accordingly: standing protocols for the recognition of obligations between non-kin parties when their respective kin-networks vouch for them, formal ceremonies for the closure of debts when the parties' descendants finally meet for settlement, traditions of hostage-exchange between great trading families whose obligations span generations.
+Khazryn kin-credit relationships have historically been the principal credit infrastructure of the steppe — more so than in Dunhari country, because Khazryn commerce reaches further and connects more strangers. Customary practices for inter-tribal credit have developed accordingly: standing protocols for the recognition of obligations between non-kin parties when their respective kin-networks vouch for them, formal ceremonies for the closure of debts when the parties' descendants finally meet for settlement, traditions of hostage-exchange between great trading families whose obligations span generations.
 
 ### Áelendan and Aurèldían Variants
 
@@ -92,7 +92,7 @@ Kin-and-hall credit is the dominant commercial credit system in:
 - The [[doc-nrdlndsrgn|Nordlands]] (all five kingdoms) — the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
 - [[doc-vrystwald|Vrystwald]] — similar; the cities have minor moneylender activity but the interior runs on clan-credit
 - The [[Dunhara_Tribes_Region|Dunhara]] — tribal kin-credit is the only credit infrastructure
-- The [[doc-khzrncnfdrtn|Khazran Confederation]] — tribal credit dominates outside the few urbanized trading-cities
+- The [[doc-khzrncnfdrtn|Khazryn Confederation]] — tribal credit dominates outside the few urbanized trading-cities
 - The [[doc-nylbtrblntn|Nyáluba]] and the broader [[doc-sthrnsvnhs|Southern Savannahs]] — clan-credit operates in the partially-settled communities
 - The deep rural areas of every settled polity — even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
 

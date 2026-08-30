@@ -106,5 +106,5 @@ Their exceptional quality of work commands considerable wealth and respect, elev
 - [[doc-nokvur|Nōkvür]] — Peasant farmers below Zāthük in social hierarchy
 - [[doc-shukren|Shükrën]] — Merchants and financiers (separate caste)
 - [[doc-tanthei|Tānthëi]] — Celestial scholars who collaborate with Yātvōr on spiritual ailments
-- [[doc-lawhonor|Law and Honor]] — legal framework governing craftsmanship and commerce
+- [[doc-zeisik|Law and Honor]] — legal framework governing craftsmanship and commerce
 - [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

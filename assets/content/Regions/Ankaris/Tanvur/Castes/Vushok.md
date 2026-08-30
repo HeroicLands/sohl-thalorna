@@ -34,7 +34,7 @@ Vüshōk receive lands and titles in exchange for military service. These holdin
 
 ## Code of Honor
 
-The Vüshōk are bound by a strict code of honor — the **Vüs Hōk Lüt** (Warrior Balance Law) — that governs all aspects of their conduct. Violations of this code can result in severe punishment, including state-ordered ritual suicide ([[doc-lawhonor|Rëitsīk]]) or exile. Personal honor is paramount — accusations of dishonor carry grave consequences that extend beyond legal punishment to social ostracism and disgrace.
+The Vüshōk are bound by a strict code of honor — the **Vüs Hōk Lüt** (Warrior Balance Law) — that governs all aspects of their conduct. Violations of this code can result in severe punishment, including state-ordered ritual suicide ([[doc-zeisik|Rëitsīk]]) or exile. Personal honor is paramount — accusations of dishonor carry grave consequences that extend beyond legal punishment to social ostracism and disgrace.
 
 ## Rights and Duties
 
@@ -75,7 +75,7 @@ The Vüshōk are understood to embody the dynamic and protective aspects of Lëi
 ## See Also
 
 - [[doc-castelaws|Caste Laws]] — detailed rights and restrictions for Vüshōk
-- [[doc-lawhonor|Law and Honor]] — legal framework and codes of honor governing Vüshōk conduct
+- [[doc-zeisik|Law and Honor]] — legal framework and codes of honor governing Vüshōk conduct
 - [[doc-zheklung|Zhëklüng]] — the supreme authority that Vüshōk serve
 - [[doc-tanthei|Tānthëi]] — celestial scholars who advise Vüshōk leadership
 - [[doc-venduk|Vëndük]] — magical counselors who work alongside Vüshōk commanders

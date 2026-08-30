@@ -98,5 +98,5 @@ The dissolution process requires a formal petition to the Bureau of Continuity, 
 - [[doc-celestlrdr|Celestial Order]] — The cosmological framework that marriage operates within
 - [[doc-clndrstrlgy|Calendar and Astrology]] — Astrological classifications that influence match selection
 - [[doc-personlnms|Personal Names]] — Naming conventions tied to caste and household
-- [[doc-lawhonor|Law and Honor]] — The legal framework governing marriage contracts
+- [[doc-zeisik|Law and Honor]] — The legal framework governing marriage contracts
 - [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society

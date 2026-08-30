@@ -42,7 +42,7 @@ The Warrior's Circle is older than any of the present Dunhara tribes. Tradition 
 
 Membership is by recognition. A warrior is named to the Circle by acclamation of the existing members, never by application and never by tribal appointment. The criteria are unwritten and uncontested: the candidate must have demonstrated, over years, a combination of personal skill in arms, leadership of warriors in the field, and a record of judgment that other warriors trust. Chieftains are common in the Circle but not automatic; many chieftains have never been named, and the Circle includes warriors of low birth who have nevertheless earned the recognition.
 
-The Circle's authority is moral, not coercive. It does not levy. It does not adjudicate inter-tribal disputes (the Khans' Council does that, and the two bodies maintain a careful, jealous separation). What the Circle does is coordinate. When a Helspawn incursion threatens the southern grazing lands, when the Khazran Confederation tests the borders, when a heresy among the storm-priests requires concerted suppression — the Circle gathers, debates, and rides. Tribes whose warriors are members feel the obligation deeply; tribes whose warriors are not feel the pressure to produce a candidate.
+The Circle's authority is moral, not coercive. It does not levy. It does not adjudicate inter-tribal disputes (the Khans' Council does that, and the two bodies maintain a careful, jealous separation). What the Circle does is coordinate. When a Helspawn incursion threatens the southern grazing lands, when the Khazryn Confederation tests the borders, when a heresy among the storm-priests requires concerted suppression — the Circle gathers, debates, and rides. Tribes whose warriors are members feel the obligation deeply; tribes whose warriors are not feel the pressure to produce a candidate.
 
 ## Membership
 
@@ -61,7 +61,7 @@ There is no single captain or chieftain of the Circle. By tradition the **Voice 
 
 The Circle holds two principles above all others. The first is the **Old Promise** — that no Dunhari blade is raised against another Dunhari while any non-Dunhari enemy walks Dunhari land. The second is the **Quiet After** — that the Circle's coordinated actions end when the immediate threat ends. The Circle does not annex territory, does not hold prisoners beyond ransom, and does not extract permanent tribute. Its function is to remove a problem and disperse.
 
-These principles have been tested. Twice in the last two centuries the Circle has been petitioned to act against a Dunhari tribe — not against rivals but against a tribe whose leadership had committed acts the petitioners considered intolerable. Both times the Circle refused, and both times the consequences (one tribe became a vassal of the Khazran Confederation, the other was absorbed by its neighbors over a generation) were absorbed as the cost of keeping the Old Promise intact.
+These principles have been tested. Twice in the last two centuries the Circle has been petitioned to act against a Dunhari tribe — not against rivals but against a tribe whose leadership had committed acts the petitioners considered intolerable. Both times the Circle refused, and both times the consequences (one tribe became a vassal of the Khazryn Confederation, the other was absorbed by its neighbors over a generation) were absorbed as the cost of keeping the Old Promise intact.
 
 The Circle's coordinated actions are conducted by the members themselves and by whatever warriors their home tribes send under their command. Each member brings what he can; the assembled host is improvised and often inelegant. Its strength is the personal authority of the members commanding it.
 
@@ -69,7 +69,7 @@ The Circle's coordinated actions are conducted by the members themselves and by 
 
 - **The Khans' Council** (the chieftains' political body) — careful separation. The Circle does not adjudicate disputes between tribes; the Khans do not direct the Circle's coordinated actions. When the two bodies disagree (rarely but consequentially), the Circle defers on questions of policy and the Khans defer on questions of war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Báhrámiš]]** — interwoven. Many Circle members are also storm-cultists; the cults provide the ritual framework for the Circle's openings and closings. The relationship is reciprocal: the cults' standing depends in part on the Circle's recognition.
-- **The Khazran Confederation** to the east — perennial rival; the Circle's coordinated actions are most often directed at Khazran raiding parties or wells contested with Khazran tribes.
+- **The Khazryn Confederation** to the east — perennial rival; the Circle's coordinated actions are most often directed at Khazryn raiding parties or wells contested with Khazryn tribes.
 - **Foreign powers** — minimal engagement. The Circle does not negotiate with non-Dunhari polities. Foreign emissaries who arrive at the Stone of Ranâz uninvited are received with formal courtesy and dismissed without commitment.
 
 ## Identifying Marks
@@ -80,5 +80,5 @@ Members wear a narrow strip of dyed leather around the upper left arm — the _v
 
 - **The Petition Against a Tribe.** A delegation arrives at the Stone of Ranâz to petition the Circle for action against a Dunhari chieftain whose recent acts are widely held intolerable. The petition forces the Circle to choose between the Old Promise and a moral case it cannot easily refuse.
 - **The Vacant Lot.** The marked stones used for choosing the Voice of the Quarter have gone missing from the Storm Cults' keeping between meetings. Their absence is taken as a portent. The next meeting cannot legally open until the stones are recovered or replaced.
-- **The Foreign Offer.** Emissaries from a foreign power — Vylaria, perhaps, working through Khazran intermediaries — arrive at the Stone with an offer of arms and silver in exchange for the Circle's neutrality during the coming season. The offer is rejected, but the question of who let the emissaries reach the Stone undetected is harder.
+- **The Foreign Offer.** Emissaries from a foreign power — Vylaria, perhaps, working through Khazryn intermediaries — arrive at the Stone with an offer of arms and silver in exchange for the Circle's neutrality during the coming season. The offer is rejected, but the question of who let the emissaries reach the Stone undetected is harder.
 - **The Acclamation.** A young warrior, recently distinguished, is being proposed for membership. The acclamation is opposed by an elder of the Council of Scars on grounds not fully disclosed. The meeting devolves into the most divisive internal debate the Circle has seen in years.

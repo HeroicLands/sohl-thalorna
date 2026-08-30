@@ -35,7 +35,7 @@ The Grazian range is effectively impassable to organized travel for ten months o
 
 ## Geography
 
-The Grazian range forms a great curving arc that begins in the high northern country east of [[doc-tanvurempr|Tānvür]]'s western frontier, sweeps south and west across the entire northern margin of [[doc-vedyarargn|Vedyara]], and finally curves north again to enclose the southwestern corner of the [[doc-khzryndsrtrgn|Khazryn Desert]] — the country of the [[doc-khzrncnfdrtn|Khazran]] and the [[doc-tribestrzd|Ātárzád]]. The arc is roughly two thousand miles long and, at its widest, more than three hundred miles deep.
+The Grazian range forms a great curving arc that begins in the high northern country east of [[doc-tanvurempr|Tānvür]]'s western frontier, sweeps south and west across the entire northern margin of [[doc-vedyarargn|Vedyara]], and finally curves north again to enclose the southwestern corner of the [[doc-khzryndsrtrgn|Khazryn Desert]] — the country of the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]]. The arc is roughly two thousand miles long and, at its widest, more than three hundred miles deep.
 
 Three principal sub-ranges are recognized by Vedyari and Khazri scholarship:
 
@@ -43,7 +43,7 @@ Three principal sub-ranges are recognized by Vedyari and Khazri scholarship:
 
 - **The Eastern Reach** — the sub-range that arcs eastward toward Tānvür's western frontier. Less massive than the Southern Wall but still formidable, the Eastern Reach is the principal overland barrier between the Vedyari and Tānvüri civilizations.
 
-- **The Northwestern Arc** — the curving northern segment that wraps around the southwestern Khazryn, separating the Persianate oasis-belt from the Vedyari foothills further south. The Khazran tradition holds that the first Khazran descended from the Northwestern Arc into the great springs of the Khazryn in the deep first age, and the older Khazran genealogies still trace lineage-origins back to specific peaks.
+- **The Northwestern Arc** — the curving northern segment that wraps around the southwestern Khazryn, separating the Persianate oasis-belt from the Vedyari foothills further south. The Khazryn tradition holds that the first Khazryn descended from the Northwestern Arc into the great springs of the Khazryn in the deep first age, and the older Khazryn genealogies still trace lineage-origins back to specific peaks.
 
 ## The Trans-Grazian Peoples
 
@@ -56,7 +56,7 @@ The trans-Grazian peoples are not numerous — perhaps thirty thousand souls acr
 The Grazian range is religiously charged in every direction.
 
 - For the **Vedyari**, specific Southern Wall peaks are the dwelling-places of [[affiliation-varakpnthn|Varṇaka]] deities, and the glacier-springs that feed the great rivers are sites of major pilgrimage. The annual ascent-pilgrimages to the lower slopes draw hundreds of thousands of devotees in the favorable months.
-- For the **Khazran**, the Northwestern Arc is the ancestral homeland — the country from which their forebears descended in the first age. Khazran genealogies still root themselves in specific peaks, and the surviving Khazran princely houses maintain ceremonial hereditary connections to particular Northwestern Arc valleys (most of which they have not actually visited in many generations).
+- For the **Khazryn**, the Northwestern Arc is the ancestral homeland — the country from which their forebears descended in the first age. Khazryn genealogies still root themselves in specific peaks, and the surviving Khazryn princely houses maintain ceremonial hereditary connections to particular Northwestern Arc valleys (most of which they have not actually visited in many generations).
 - For the **Ātárzád**, the Grazian range is theologically irrelevant — the land was promised to them at Mt. Shōfar in the southeastern Khazryn highlands, and the Northwestern Arc is simply the wall that defines the western edge of the Promise's geographic frame.
 - For the **trans-Grazian peoples themselves**, the entire range is the dwelling-place of forces they call by names they do not share with outsiders. The travel-protocols the lowland caravans must observe to cross safely are derived from these protocols; outsiders are told what to do but not why.
 - For the **Tānvüri** of the eastern frontier, the Grazian Eastern Reach is the western edge of the celestial empire's mandate, beyond which the standard Tānvüri view is that geography itself becomes increasingly suspect.
@@ -67,13 +67,13 @@ The trans-Grazian trade is the principal economic significance of the range to t
 
 ## Note on the Drenavar Confusion
 
-Vedyari and Khazri folk-tradition occasionally conflates the Grazian Mountains with the **[[doc-drenavrspn|Drenavar Spine]]** of Élavendre, a range half a continent away in the western Aurèldían world. The two share no geological connection, no cultural connection, and no shared mythology — but the Khazran name for the Northwestern Arc and the Áelendan name for the Drenavar are similar enough that travelers occasionally mistake one for the other in stories. Scholars know better. The two ranges are entirely separate.
+Vedyari and Khazri folk-tradition occasionally conflates the Grazian Mountains with the **[[doc-drenavrspn|Drenavar Spine]]** of Élavendre, a range half a continent away in the western Aurèldían world. The two share no geological connection, no cultural connection, and no shared mythology — but the Khazryn name for the Northwestern Arc and the Áelendan name for the Drenavar are similar enough that travelers occasionally mistake one for the other in stories. Scholars know better. The two ranges are entirely separate.
 
 ## See Also
 
 - [[doc-vedyarargn|Vedyara]] — Southern lowlands, fed by Grazian rivers
 - [[doc-khzryndsrtrgn|Khazryn Desert]] — Northwestern lowlands, fed by Grazian springs
-- [[doc-khzrncnfdrtn|Khazran Confederation]] — Indigenous Khazryn peoples whose origin is traced to the Northwestern Arc
+- [[doc-khzrncnfdrtn|Khazryn Confederation]] — Indigenous Khazryn peoples whose origin is traced to the Northwestern Arc
 - [[doc-tanvurempr|Empire of Tānvür]] — Eastern empire across the Eastern Reach
 - [[doc-drenavrspn|The Drenavar Spine]] — Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)
 - [[doc-ankrscntnnt|Ankaris Continent]] — Parent continent
