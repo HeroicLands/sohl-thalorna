@@ -46,7 +46,7 @@ Amradad's relationship with the nomadic tribes is complicated. The Sultan claims
 
 ## Commerce and Currency
 
-The Sultanate uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach — Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[Dunhara_Tribes_Region|Dunhara]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.
+The Sultanate uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach — Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[doc-dunhardsrtrgn|Dunhara Desert]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.
 
 ## See Also
 
