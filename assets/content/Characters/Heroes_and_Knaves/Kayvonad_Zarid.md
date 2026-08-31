@@ -525,11 +525,7 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 8 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 56 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 56 } }
     - { shortcode: PVest, type: armorgear }
     - { shortcode: LtTunic, type: armorgear }
     - { shortcode: LtBrch, type: armorgear }

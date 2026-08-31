@@ -529,11 +529,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 12 } }
 thalorna:
   realm: thyrenae

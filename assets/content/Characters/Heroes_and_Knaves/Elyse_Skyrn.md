@@ -523,16 +523,8 @@ sohl:
     - { shortcode: herb, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: srvl, type: skill, system: { masteryLevelBase: 26 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 80 },
-      }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 42 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 80 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: PVest, type: armorgear }
     - { shortcode: CSTnc, type: armorgear }
@@ -565,10 +557,7 @@ sohl:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: Seal Wax (Red), type: miscgear }
     - { shortcode: Stamp, type: miscgear }
-    - {
-        shortcode: Portable Alchemist Workshop (wagon and 2 horses),
-        type: miscgear,
-      }
+    - { shortcode: Portable Alchemist Workshop (wagon and 2 horses), type: miscgear }
 ---
 
 # Appearance {#appearance}

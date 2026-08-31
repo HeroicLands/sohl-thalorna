@@ -525,11 +525,7 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 22 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: SlkRobe, type: armorgear }
     - { shortcode: LtCap, type: armorgear }

@@ -277,11 +277,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 40 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 21 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 21 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
     - name: Claw

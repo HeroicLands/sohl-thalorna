@@ -534,11 +534,7 @@ sohl:
     - { shortcode: RhBrch, type: armorgear }
     - { shortcode: RhShoe, type: armorgear }
     - { shortcode: RhGntl, type: armorgear }
-    - {
-        name: Leather tool belt,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Leather tool belt, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Forge tools (hammer, tongs, chisel, anvil stand)
       type: miscgear
       system:

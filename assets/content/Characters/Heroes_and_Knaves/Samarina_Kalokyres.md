@@ -563,11 +563,7 @@ sohl:
         weight: 0.8
         value: 100
         durability: 3
-    - {
-        name: Flint and tinder,
-        type: miscgear,
-        system: { weight: 0.3, value: 100, durability: 3 },
-      }
+    - { name: Flint and tinder, type: miscgear, system: { weight: 0.3, value: 100, durability: 3 } }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 12 } }
     - { shortcode: backpk, type: containergear }
@@ -578,16 +574,8 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Herbal remedies,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Wool shears,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Herbal remedies, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Wool shears, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

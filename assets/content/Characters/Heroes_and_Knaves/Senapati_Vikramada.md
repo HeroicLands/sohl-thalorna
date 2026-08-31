@@ -553,11 +553,7 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - name: Tar and rope repair kit
       type: miscgear
       system:
@@ -582,21 +578,9 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Ropes,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Navigation tools,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Ship's log,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Ropes, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Navigation tools, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Ship's log, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

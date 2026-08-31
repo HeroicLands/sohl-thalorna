@@ -531,11 +531,7 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 75 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 75 } }
 thalorna:
   realm: kngdmprvnz
   region: provenzrgn

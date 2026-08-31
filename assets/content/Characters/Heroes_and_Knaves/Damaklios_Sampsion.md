@@ -559,11 +559,7 @@ sohl:
         value: 100
         durability: 3
     - { shortcode: parchment, type: miscgear, system: { quantity: 10 } }
-    - {
-        name: Inkwell and quills,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Inkwell and quills, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Silver crescent-moon amulet (Flórania cult token)
       type: miscgear
       system:

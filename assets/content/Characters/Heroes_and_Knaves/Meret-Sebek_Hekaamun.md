@@ -524,16 +524,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 39 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 64 },
-      }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 64 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 64 } }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 64 } }
     - { shortcode: LtTunic, type: armorgear }
     - { shortcode: WTrsr, type: armorgear }
     - { shortcode: WCap, type: armorgear }

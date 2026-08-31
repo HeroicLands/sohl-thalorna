@@ -521,11 +521,7 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 36 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 70 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 70 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LtApn, type: armorgear }
     - { shortcode: LShirt, type: armorgear }
@@ -537,11 +533,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Mortar and pestle,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Mortar and pestle, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Collection of glass vials and bottles
       type: miscgear
       system:

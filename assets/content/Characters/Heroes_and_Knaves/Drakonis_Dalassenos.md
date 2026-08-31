@@ -543,11 +543,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Flint and striker,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Flint and striker, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Rope and cord
       type: miscgear
       system:

@@ -555,11 +555,7 @@ sohl:
         weight: 0.3
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - { shortcode: bglgcvs, type: containergear }
     - { shortcode: bpchlg, type: containergear }
 ---

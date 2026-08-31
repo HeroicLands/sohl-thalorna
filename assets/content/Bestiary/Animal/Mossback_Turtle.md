@@ -231,11 +231,7 @@ sohl:
     - { shortcode: cre, type: attribute, system: { scoreBase: 5 } }
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 33 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }

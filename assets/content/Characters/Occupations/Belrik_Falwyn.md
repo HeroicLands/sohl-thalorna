@@ -526,11 +526,7 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 36 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 56 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 26 } }
 thalorna:
   realm: kngdmlvndr

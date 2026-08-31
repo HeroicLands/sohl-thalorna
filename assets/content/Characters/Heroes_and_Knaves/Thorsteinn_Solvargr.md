@@ -534,22 +534,14 @@ sohl:
     - { shortcode: LtApn, type: armorgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
-    - {
-        name: Glassblowing pipe,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Glassblowing pipe, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Wooden toolbox with molds and tools
       type: miscgear
       system:
         weight: 3
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Cloth for polishing
       type: miscgear
       system:

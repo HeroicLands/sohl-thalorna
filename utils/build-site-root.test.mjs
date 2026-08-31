@@ -46,13 +46,13 @@ import { HEADERS, ORIGIN_SUFFIX } from "./build-site-root.mjs";
  * @returns {Array<string[]>} One tuple per rule.
  */
 function rules(headers) {
-  const out = [];
-  for (const line of headers.split("\n")) {
-    if (!line.trim()) continue;
-    if (/^\s/.test(line)) out.at(-1)?.push(line.trim());
-    else out.push([line.trim()]);
-  }
-  return out;
+    const out = [];
+    for (const line of headers.split("\n")) {
+        if (!line.trim()) continue;
+        if (/^\s/.test(line)) out.at(-1)?.push(line.trim());
+        else out.push([line.trim()]);
+    }
+    return out;
 }
 
 /** The hostname part of a rule's match, without scheme or path. */
@@ -71,86 +71,81 @@ const hostOf = (match) => match.replace(/^https:\/\//, "").replace(/\/\*$/, "");
  * @returns {RegExp} A regular expression anchored to a whole hostname.
  */
 function hostMatcher(match) {
-  const source = hostOf(match)
-    .split(".")
-    .map((label) =>
-      label.startsWith(":")
-        ? "[^.]+"
-        : label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
-    )
-    .join("\\.");
-  return new RegExp(`^${source}$`);
+    const source = hostOf(match)
+        .split(".")
+        .map((label) =>
+            label.startsWith(":") ? "[^.]+" : label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
+        )
+        .join("\\.");
+    return new RegExp(`^${source}$`);
 }
 
 /** The rules whose host pattern matches `host`. */
-const rulesMatching = (host) =>
-  rules(HEADERS).filter(([match]) => hostMatcher(match).test(host));
+const rulesMatching = (host) => rules(HEADERS).filter(([match]) => hostMatcher(match).test(host));
 
 describe("the /thalorna/ deployment's host-assigned addresses", () => {
-  it("marks the hosting project's own address noindex", () => {
-    assert.deepEqual(rulesMatching("sohl-thalorna.pages.dev"), [
-      ["https://:project.pages.dev/*", "X-Robots-Tag: noindex"],
-    ]);
-  });
+    it("marks the hosting project's own address noindex", () => {
+        assert.deepEqual(rulesMatching("sohl-thalorna.pages.dev"), [
+            ["https://:project.pages.dev/*", "X-Robots-Tag: noindex"],
+        ]);
+    });
 
-  it("marks every deployment's own address noindex", () => {
-    // A real one, from the deploy that published the tree measured below.
-    assert.deepEqual(rulesMatching("9d284709.sohl-thalorna.pages.dev"), [
-      ["https://:version.:project.pages.dev/*", "X-Robots-Tag: noindex"],
-    ]);
-  });
+    it("marks every deployment's own address noindex", () => {
+        // A real one, from the deploy that published the tree measured below.
+        assert.deepEqual(rulesMatching("9d284709.sohl-thalorna.pages.dev"), [
+            ["https://:version.:project.pages.dev/*", "X-Robots-Tag: noindex"],
+        ]);
+    });
 
-  it("marks the pkg origin address noindex too (#96)", () => {
-    // The newest of the three host-assigned addresses, and the only one a
-    // reader is plausibly handed: `thalorna.pkg.heroiclands.org` is the
-    // custom domain the hosting project carries so `heroiclands-site`'s
-    // router has an origin to fetch. Measured on 2026-08-30 before this
-    // rule existed, it answered 200 with no `X-Robots-Tag` while the *same
-    // deployment* — byte-identical body — set it at `*.pages.dev`.
-    assert.deepEqual(rulesMatching(`thalorna.${ORIGIN_SUFFIX}`), [
-      [`https://:package.${ORIGIN_SUFFIX}/*`, "X-Robots-Tag: noindex"],
-    ]);
-  });
+    it("marks the pkg origin address noindex too (#96)", () => {
+        // The newest of the three host-assigned addresses, and the only one a
+        // reader is plausibly handed: `thalorna.pkg.heroiclands.org` is the
+        // custom domain the hosting project carries so `heroiclands-site`'s
+        // router has an origin to fetch. Measured on 2026-08-30 before this
+        // rule existed, it answered 200 with no `X-Robots-Tag` while the *same
+        // deployment* — byte-identical body — set it at `*.pages.dev`.
+        assert.deepEqual(rulesMatching(`thalorna.${ORIGIN_SUFFIX}`), [
+            [`https://:package.${ORIGIN_SUFFIX}/*`, "X-Robots-Tag: noindex"],
+        ]);
+    });
 
-  it("scopes every rule to a host-assigned address", () => {
-    // An unscoped `/*` would noindex the canonical path as well — and, for
-    // anyone who takes this repository elsewhere, their own domain with it.
-    const hosted = new RegExp(
-      `\\.(pages\\.dev|${ORIGIN_SUFFIX.replace(/\./g, "\\.")})$`,
-    );
-    for (const [match] of rules(HEADERS)) {
-      assert.match(match, /^https:\/\/[^/]+\/\*$/);
-      assert.match(hostOf(match), hosted);
-    }
-  });
+    it("scopes every rule to a host-assigned address", () => {
+        // An unscoped `/*` would noindex the canonical path as well — and, for
+        // anyone who takes this repository elsewhere, their own domain with it.
+        const hosted = new RegExp(`\\.(pages\\.dev|${ORIGIN_SUFFIX.replace(/\./g, "\\.")})$`);
+        for (const [match] of rules(HEADERS)) {
+            assert.match(match, /^https:\/\/[^/]+\/\*$/);
+            assert.match(hostOf(match), hosted);
+        }
+    });
 
-  it("cannot match the canonical host, which must stay indexable", () => {
-    // THE failure mode to design against. `www.heroiclands.org/thalorna/`
-    // is served from this very deployment: the router fetches
-    // `thalorna.pkg.heroiclands.org` as its origin, so anything set there
-    // rides on the canonical response unless something removes it.
-    //
-    // Two independent guards say it cannot. First, this one: the pkg rule
-    // needs FOUR labels with a literal `pkg` third from the end, and a
-    // single-label placeholder cannot span the dot that would be needed to
-    // fold the three-label `www.heroiclands.org` into it. The two
-    // `.pages.dev` rules need a literal `pages.dev` suffix.
-    //
-    // Second, the router strips `X-Robots-Tag` on the way through
-    // (`heroiclands-site`, `worker/src/router.js`, `canonicalHeaders`),
-    // which that repository's suite asserts both as a pure function and end
-    // to end through the handler with a stubbed origin.
-    //
-    // This case passes against the two-rule payload too. It is a standing
-    // regression guard, not a test of the rule added for #96.
-    for (const host of [
-      "www.heroiclands.org",
-      "heroiclands.org",
-      "api.heroiclands.org",
-      "kb.heroiclands.org",
-      ORIGIN_SUFFIX,
-    ]) {
-      assert.deepEqual(rulesMatching(host), []);
-    }
-  });
+    it("cannot match the canonical host, which must stay indexable", () => {
+        // THE failure mode to design against. `www.heroiclands.org/thalorna/`
+        // is served from this very deployment: the router fetches
+        // `thalorna.pkg.heroiclands.org` as its origin, so anything set there
+        // rides on the canonical response unless something removes it.
+        //
+        // Two independent guards say it cannot. First, this one: the pkg rule
+        // needs FOUR labels with a literal `pkg` third from the end, and a
+        // single-label placeholder cannot span the dot that would be needed to
+        // fold the three-label `www.heroiclands.org` into it. The two
+        // `.pages.dev` rules need a literal `pages.dev` suffix.
+        //
+        // Second, the router strips `X-Robots-Tag` on the way through
+        // (`heroiclands-site`, `worker/src/router.js`, `canonicalHeaders`),
+        // which that repository's suite asserts both as a pure function and end
+        // to end through the handler with a stubbed origin.
+        //
+        // This case passes against the two-rule payload too. It is a standing
+        // regression guard, not a test of the rule added for #96.
+        for (const host of [
+            "www.heroiclands.org",
+            "heroiclands.org",
+            "api.heroiclands.org",
+            "kb.heroiclands.org",
+            ORIGIN_SUFFIX,
+        ]) {
+            assert.deepEqual(rulesMatching(host), []);
+        }
+    });
 });

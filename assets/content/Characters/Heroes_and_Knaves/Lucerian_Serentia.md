@@ -518,11 +518,7 @@ sohl:
     - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: jump, type: skill, system: { masteryLevelBase: 58 } }
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 74 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 74 } }
     - { shortcode: herb, type: skill, system: { masteryLevelBase: 77 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: Dgr, type: weapongear }

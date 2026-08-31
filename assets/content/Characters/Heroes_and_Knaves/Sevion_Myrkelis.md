@@ -523,11 +523,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 15 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 64 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 64 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: WRobe, type: armorgear }
     - { shortcode: WMntl, type: armorgear }
@@ -563,11 +559,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Ink and quills,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Ink and quills, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Mortar and pestle (stone)
       type: miscgear
       system:

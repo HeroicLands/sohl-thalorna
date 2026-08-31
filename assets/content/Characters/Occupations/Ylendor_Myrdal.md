@@ -530,16 +530,8 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 10 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 48 },
-      }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 36 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 48 } }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 36 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
 thalorna:
   realm: kngdmprvnz

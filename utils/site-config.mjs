@@ -51,18 +51,18 @@ export const SITE_CONFIG = path.join(SITE_DIR, "hugo.toml");
  * @returns {string} The configured `baseURL`.
  */
 export function readBaseURL(repoRoot = process.cwd()) {
-  const file = path.join(repoRoot, SITE_CONFIG);
-  let text;
-  try {
-    text = fs.readFileSync(file, "utf8");
-  } catch {
-    throw new Error(`site-config: no Hugo configuration at ${SITE_CONFIG}`);
-  }
-  const m = text.match(/^\s*baseURL\s*=\s*["']([^"']+)["']/m);
-  if (!m) {
-    throw new Error(`site-config: ${SITE_CONFIG} declares no baseURL`);
-  }
-  return m[1];
+    const file = path.join(repoRoot, SITE_CONFIG);
+    let text;
+    try {
+        text = fs.readFileSync(file, "utf8");
+    } catch {
+        throw new Error(`site-config: no Hugo configuration at ${SITE_CONFIG}`);
+    }
+    const m = text.match(/^\s*baseURL\s*=\s*["']([^"']+)["']/m);
+    if (!m) {
+        throw new Error(`site-config: ${SITE_CONFIG} declares no baseURL`);
+    }
+    return m[1];
 }
 
 /**
@@ -77,15 +77,13 @@ export function readBaseURL(repoRoot = process.cwd()) {
  * @returns {string} The path prefix, starting and ending with `/`.
  */
 export function sitePathPrefix(baseURL = readBaseURL()) {
-  let pathname;
-  try {
-    pathname = new URL(baseURL).pathname;
-  } catch {
-    throw new Error(
-      `site-config: baseURL ${JSON.stringify(baseURL)} is not a URL`,
-    );
-  }
-  if (!pathname.startsWith("/")) pathname = `/${pathname}`;
-  if (!pathname.endsWith("/")) pathname = `${pathname}/`;
-  return pathname;
+    let pathname;
+    try {
+        pathname = new URL(baseURL).pathname;
+    } catch {
+        throw new Error(`site-config: baseURL ${JSON.stringify(baseURL)} is not a URL`);
+    }
+    if (!pathname.startsWith("/")) pathname = `/${pathname}`;
+    if (!pathname.endsWith("/")) pathname = `${pathname}/`;
+    return pathname;
 }

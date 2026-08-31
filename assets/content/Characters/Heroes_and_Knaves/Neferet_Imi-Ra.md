@@ -528,11 +528,7 @@ sohl:
     - { shortcode: WTrsr, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: WCap, type: armorgear }
-    - {
-        name: Ink and quills,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Ink and quills, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - name: Parchment (bundle)
       type: miscgear
       system:

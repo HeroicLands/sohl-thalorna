@@ -522,21 +522,9 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 28 },
-      }
-    - {
-        shortcode: eblt,
-        type: mysticalability,
-        system: { masteryLevelBase: 62 },
-      }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 35 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 28 } }
+    - { shortcode: eblt, type: mysticalability, system: { masteryLevelBase: 62 } }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 35 } }
     - { shortcode: ritual, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: Stf, type: weapongear }
     - { shortcode: Dgr, type: weapongear }

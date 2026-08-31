@@ -524,11 +524,7 @@ sohl:
     - { shortcode: law, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 27 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 27 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 27 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: SlkRobe, type: armorgear }

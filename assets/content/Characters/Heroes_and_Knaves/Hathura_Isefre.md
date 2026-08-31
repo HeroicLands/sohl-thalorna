@@ -527,11 +527,7 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: ritual, type: skill, system: { masteryLevelBase: 55 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 40 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 40 } }
     - { shortcode: herb, type: skill, system: { masteryLevelBase: 25 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: SlkRobe, type: armorgear }

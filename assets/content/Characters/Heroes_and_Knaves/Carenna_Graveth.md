@@ -545,11 +545,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Silver writing pen,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Silver writing pen, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - name: Ink bottle and parchment sheaf
       type: miscgear

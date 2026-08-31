@@ -527,11 +527,7 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 8 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 56 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 15 } }
 thalorna:
   realm: vylarinmpr

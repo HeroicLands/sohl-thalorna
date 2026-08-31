@@ -533,11 +533,7 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: wtrskin, type: containergear, system: { quantity: 2 } }
     - { shortcode: tndrbx, type: miscgear }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Physician's roll (bandages, herbs, salves)
       type: miscgear
       system:

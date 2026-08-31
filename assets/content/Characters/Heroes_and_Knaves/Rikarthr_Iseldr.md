@@ -524,11 +524,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 30 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
     - { shortcode: Stf, type: weapongear }
     - { shortcode: WRobe, type: armorgear }
     - { shortcode: WMntl, type: armorgear }
@@ -575,21 +571,9 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
     - { shortcode: backpk, type: containergear }
     - { shortcode: bpchlg, type: containergear }
-    - {
-        name: Spellbook,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Arcane focus,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Magical reagents,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Spellbook, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Arcane focus, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Magical reagents, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

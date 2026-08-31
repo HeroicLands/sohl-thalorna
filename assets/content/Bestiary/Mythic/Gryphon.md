@@ -290,11 +290,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 62 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 66 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 40 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 40 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
     - name: Beak

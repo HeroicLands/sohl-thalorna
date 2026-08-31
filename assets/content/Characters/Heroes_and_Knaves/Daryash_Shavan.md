@@ -528,11 +528,7 @@ sohl:
     - { shortcode: HsTunic, type: armorgear }
     - { shortcode: RhBrch, type: armorgear }
     - { shortcode: RhShoe, type: armorgear }
-    - {
-        name: Leather tool apron,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Leather tool apron, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Set of carving and woodworking tools
       type: miscgear
       system:

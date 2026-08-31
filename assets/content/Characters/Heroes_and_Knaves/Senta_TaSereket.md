@@ -549,11 +549,7 @@ sohl:
         weight: 0.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 30 } }

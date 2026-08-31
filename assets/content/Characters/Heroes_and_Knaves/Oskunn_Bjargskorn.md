@@ -527,11 +527,7 @@ sohl:
     - { shortcode: WShirt, type: armorgear }
     - { shortcode: WTrsr, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
-    - {
-        name: Wool shawl,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Wool shawl, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Sewing materials (needles, thread, scissors)
       type: miscgear
       system:

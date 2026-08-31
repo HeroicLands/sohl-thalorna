@@ -533,11 +533,7 @@ sohl:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: medsupil, type: miscgear, system: { quantity: 4 } }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - name: Rope and climbing gear
       type: miscgear
       system:

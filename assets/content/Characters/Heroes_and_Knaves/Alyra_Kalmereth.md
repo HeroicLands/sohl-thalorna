@@ -567,11 +567,7 @@ sohl:
         value: 50
         durability: 4
     - { shortcode: tndrbx, type: miscgear }
-    - {
-        name: Burlap sack,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Burlap sack, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - { shortcode: bgsmcvs, type: containergear }
 ---
 

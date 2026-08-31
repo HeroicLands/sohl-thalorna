@@ -541,21 +541,9 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Hand drum,
-        type: miscgear,
-        system: { weight: 0.6, value: 100, durability: 3 },
-      }
-    - {
-        name: Wooden flute,
-        type: miscgear,
-        system: { weight: 0.2, value: 100, durability: 3 },
-      }
-    - {
-        name: Lute,
-        type: miscgear,
-        system: { weight: 1.8, value: 100, durability: 3 },
-      }
+    - { name: Hand drum, type: miscgear, system: { weight: 0.6, value: 100, durability: 3 } }
+    - { name: Wooden flute, type: miscgear, system: { weight: 0.2, value: 100, durability: 3 } }
+    - { name: Lute, type: miscgear, system: { weight: 1.8, value: 100, durability: 3 } }
     - name: Rope (silk, multi-colored)
       type: miscgear
       system:
@@ -572,16 +560,8 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
     - { shortcode: bgsmcvs, type: containergear }
     - { shortcode: backpk, type: containergear }
-    - {
-        name: Juggling balls,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Written routines,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Juggling balls, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Written routines, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

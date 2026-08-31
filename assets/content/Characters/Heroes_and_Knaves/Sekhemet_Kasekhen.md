@@ -554,11 +554,7 @@ sohl:
         weight: 0.8
         value: 100
         durability: 3
-    - {
-        name: Brass compass,
-        type: miscgear,
-        system: { weight: 0.3, value: 100, durability: 3 },
-      }
+    - { name: Brass compass, type: miscgear, system: { weight: 0.3, value: 100, durability: 3 } }
     - name: Fishing hooks and lines
       type: miscgear
       system:
@@ -576,21 +572,9 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 22 } }
     - { shortcode: backpk, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-    - {
-        name: Cargo manifests,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Navigation tools,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Maps,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Cargo manifests, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Navigation tools, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Maps, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 **Home:** [[doc-khensuret|Khensuret]]

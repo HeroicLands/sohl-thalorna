@@ -550,11 +550,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Leather eye patch,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Leather eye patch, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
     - { shortcode: wtrskin, type: containergear }
     - { shortcode: torch, type: miscgear }

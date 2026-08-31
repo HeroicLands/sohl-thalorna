@@ -548,11 +548,7 @@ sohl:
         weight: 0.8
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - name: Rope (hemp, braided)
       type: miscgear
       system:

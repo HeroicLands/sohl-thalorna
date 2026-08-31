@@ -555,11 +555,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Ink and quills,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Ink and quills, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: FRtns, type: miscgear }
     - { shortcode: wtrskin, type: containergear }

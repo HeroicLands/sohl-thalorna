@@ -524,11 +524,7 @@ sohl:
     - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: smsh, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: srvl, type: skill, system: { masteryLevelBase: 55 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 30 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
     - { shortcode: BAxe, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: RndSh, type: weapongear }

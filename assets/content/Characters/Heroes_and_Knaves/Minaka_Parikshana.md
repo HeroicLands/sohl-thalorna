@@ -529,11 +529,7 @@ sohl:
     - { shortcode: WShirt, type: armorgear }
     - { shortcode: SgBrch, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
-    - {
-        name: Linen chef's apron,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Linen chef's apron, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Wooden spice box
       type: miscgear
       system:
@@ -547,16 +543,8 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Recipe book,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Recipe book, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
     - { shortcode: bglgcvs, type: containergear }
     - { shortcode: bpchlg, type: containergear }

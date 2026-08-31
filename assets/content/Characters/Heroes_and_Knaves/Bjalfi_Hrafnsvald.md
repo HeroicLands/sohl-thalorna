@@ -539,11 +539,7 @@ sohl:
         durability: 3
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: medsupil, type: miscgear, system: { quantity: 3 } }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Military documents and insignia
       type: miscgear
       system:

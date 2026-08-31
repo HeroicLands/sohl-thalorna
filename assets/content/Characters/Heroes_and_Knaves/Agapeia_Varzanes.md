@@ -537,11 +537,7 @@ sohl:
         weight: 2
         value: 100
         durability: 3
-    - {
-        name: Safety rope,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Safety rope, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - name: Oil lantern with lamp oil
       type: miscgear
       system:

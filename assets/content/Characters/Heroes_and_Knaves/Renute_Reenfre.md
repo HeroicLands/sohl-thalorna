@@ -557,24 +557,12 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 35 } }
     - { shortcode: bglgcvs, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-    - {
-        name: Cooking tools,
-        type: miscgear,
-        system: { weight: 2, value: 50, durability: 4 },
-      }
-    - {
-        name: Serving dishes,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Cooking tools, type: miscgear, system: { weight: 2, value: 50, durability: 4 } }
+    - { name: Serving dishes, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
 ---
 
 **Home:** [[doc-wasetkara|Wasetkara]]

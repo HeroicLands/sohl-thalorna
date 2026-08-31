@@ -546,11 +546,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Rough rope (coil),
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Rough rope (coil), type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Woven sack for supplies
       type: miscgear
       system:

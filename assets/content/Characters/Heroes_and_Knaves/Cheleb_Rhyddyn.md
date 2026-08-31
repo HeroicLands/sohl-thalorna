@@ -526,11 +526,7 @@ sohl:
     - { shortcode: srvl, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: timb, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: trak, type: skill, system: { masteryLevelBase: 88 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 39 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
     - { shortcode: LBw75, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: CShirt, type: armorgear }

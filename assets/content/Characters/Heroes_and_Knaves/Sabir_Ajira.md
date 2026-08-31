@@ -546,11 +546,7 @@ sohl:
         weight: 0.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - name: Wood samples (oak, cedar, pine)
       type: miscgear
       system:

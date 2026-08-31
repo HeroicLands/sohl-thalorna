@@ -529,16 +529,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 12 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 48 },
-      }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 36 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 48 } }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 36 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 10 } }
 thalorna:
   realm: thyrenae

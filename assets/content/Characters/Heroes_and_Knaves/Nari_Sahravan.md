@@ -521,11 +521,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 28 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: HsTunic, type: armorgear }
     - { shortcode: HsTrsr, type: armorgear }
     - { shortcode: LtSndls, type: armorgear }

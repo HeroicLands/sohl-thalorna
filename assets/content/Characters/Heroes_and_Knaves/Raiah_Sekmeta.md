@@ -538,16 +538,8 @@ sohl:
         weight: 3.5
         value: 100
         durability: 3
-    - {
-        name: Leather tool roll,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Leather tool roll, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - name: Charcoal for forge
       type: miscgear
       system:
@@ -559,11 +551,7 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
     - { shortcode: bktlrg, type: containergear }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Ingots of various metals
       type: miscgear
       system:

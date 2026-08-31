@@ -4,25 +4,25 @@ contentPackage: thalorna
 packageKind: modules
 
 compatibility:
-  minimum: "14.359"
-  verified: "14.364"
+    minimum: "14.359"
+    verified: "14.364"
 
 relationships:
-  systems:
-    - id: sohl
-      type: system
-      manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
-      compatibility:
-        minimum: "0.8.2"
-        verified: "0.8.2"
-      # Its Item packs are this repository's item catalogue. A Thalorna
-      # being is nested items addressed by shortcode, and almost all of
-      # those belong to sohl; `content-build deps fetch` caches them, keyed
-      # by the `verified` version above so a build names one artifact.
-      itemCatalog: true
+    systems:
+        - id: sohl
+          type: system
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
+          compatibility:
+              minimum: "0.8.2"
+              verified: "0.8.2"
+          # Its Item packs are this repository's item catalogue. A Thalorna
+          # being is nested items addressed by shortcode, and almost all of
+          # those belong to sohl; `content-build deps fetch` caches them, keyed
+          # by the `verified` version above so a build names one artifact.
+          itemCatalog: true
 
 stats:
-  lastModifiedBy: sohlbuilder00000
+    lastModifiedBy: sohlbuilder00000
 
 itemBuilders: sohl
 
@@ -42,88 +42,83 @@ itemBuilders: sohl
 # only in sohl's unreleased main. Bumping `verified` once 0.9.0 is cut clears
 # them; what is left after that is authoring debt in this repository.
 packs:
-  - { name: items, label: Items, type: Item, folders: item-folders.yaml }
-  - {
-      name: journals,
-      label: Journals,
-      type: JournalEntry,
-      folders: journal-folders.yaml,
-    }
-  - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
+    - { name: items, label: Items, type: Item, folders: item-folders.yaml }
+    - { name: journals, label: Journals, type: JournalEntry, folders: journal-folders.yaml }
+    - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
 
 publish:
-  # `content`: this package publishes its homepage *and* every page its
-  # content tree compiles to. The other mode, `homepage`, fences the content
-  # surfaces off entirely — it is what `sohl-kethira-basic` and
-  # `harn-adventures` publish under, where shipping a content page would
-  # breach the terms the material is licensed on.
-  #
-  # No `site:` block accompanies it. `site.out` is optional in either mode,
-  # and it addresses `content-build site` — the engine's own emitter, which
-  # this repository does not run. Pages here are written by
-  # `utils/build-site-content.mjs` into `site/content`, resolved from
-  # `site/hugo.toml`'s `baseURL` via `utils/site-config.mjs` (#85). Declaring
-  # `site.out` would be inert configuration naming a path nothing reads.
-  site: content
-  manifests: { publish: true, consume: true }
-  address:
-    prefix: ""
-    landing: collection
+    # `content`: this package publishes its homepage *and* every page its
+    # content tree compiles to. The other mode, `homepage`, fences the content
+    # surfaces off entirely — it is what `sohl-kethira-basic` and
+    # `harn-adventures` publish under, where shipping a content page would
+    # breach the terms the material is licensed on.
+    #
+    # No `site:` block accompanies it. `site.out` is optional in either mode,
+    # and it addresses `content-build site` — the engine's own emitter, which
+    # this repository does not run. Pages here are written by
+    # `utils/build-site-content.mjs` into `site/content`, resolved from
+    # `site/hugo.toml`'s `baseURL` via `utils/site-config.mjs` (#85). Declaring
+    # `site.out` would be inert configuration naming a path nothing reads.
+    site: content
+    manifests: { publish: true, consume: true }
+    address:
+        prefix: ""
+        landing: collection
 
 packageBuild:
-  assets:
-    - { from: src/sohl-thalorna.mjs, to: sohl-thalorna.mjs }
-    - { from: lang, to: lang }
-    - { from: styles, to: styles }
-    - { from: README.md, to: README.md }
-    - { from: LICENSE.md, to: LICENSE.md }
-    - { from: src/LICENSE, to: src/LICENSE }
-    - { from: assets/LICENSE, to: assets/LICENSE }
+    assets:
+        - { from: src/sohl-thalorna.mjs, to: sohl-thalorna.mjs }
+        - { from: lang, to: lang }
+        - { from: styles, to: styles }
+        - { from: README.md, to: README.md }
+        - { from: LICENSE.md, to: LICENSE.md }
+        - { from: src/LICENSE, to: src/LICENSE }
+        - { from: assets/LICENSE, to: assets/LICENSE }
 
-  manifest:
-    title: Thalorna Setting
-    description: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
-    authors:
-      - name: Toasty
-        discord: toasty#8538
-        flags: {}
-    license: LICENSE.md
-    readme: README.md
-    changelog: CHANGELOG.md
-    flags:
-      allowBugReporter: true
-    languages:
-      - lang: en
-        name: English
-        path: lang/en.json
-    esmodules:
-      - sohl-thalorna.mjs
-    styles:
-      - src: styles/sohl-thalorna.css
-        layer: sohl-thalorna
-    # Names every pack this package ships, so everything Thalorna adds
-    # appears together in the compendium sidebar under one folder. It was
-    # written when the build compiled two packs and described itself as
-    # naming "only the packs this build compiles"; #69 turned the actors
-    # pack on without extending it, and nothing reported the divergence
-    # until package-build#81 began comparing the two (#95). Adding a pack
-    # to `packs:` above means adding it here.
-    packFolders:
-      - name: Thalorna
-        sorting: m
-        color: "#008000"
-        packs:
-          - items
-          - journals
-          - actors
-    media:
-      - type: setup
-        url: systems/sohl/assets/ui/sohl-setup.webp
-        thumbnail: systems/sohl/assets/ui/sohl-setup-thumb.webp
-      - type: logo
-        url: systems/sohl/assets/ui/sohl-logo.webp
-      - type: icon
-        url: systems/sohl/assets/ui/sohl-icon.webp
-      - type: banner
-        url: systems/sohl/assets/ui/sohl-banner.webp
-    socket: true
+    manifest:
+        title: Thalorna Setting
+        description: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
+        authors:
+            - name: Toasty
+              discord: toasty#8538
+              flags: {}
+        license: LICENSE.md
+        readme: README.md
+        changelog: CHANGELOG.md
+        flags:
+            allowBugReporter: true
+        languages:
+            - lang: en
+              name: English
+              path: lang/en.json
+        esmodules:
+            - sohl-thalorna.mjs
+        styles:
+            - src: styles/sohl-thalorna.css
+              layer: sohl-thalorna
+        # Names every pack this package ships, so everything Thalorna adds
+        # appears together in the compendium sidebar under one folder. It was
+        # written when the build compiled two packs and described itself as
+        # naming "only the packs this build compiles"; #69 turned the actors
+        # pack on without extending it, and nothing reported the divergence
+        # until package-build#81 began comparing the two (#95). Adding a pack
+        # to `packs:` above means adding it here.
+        packFolders:
+            - name: Thalorna
+              sorting: m
+              color: "#008000"
+              packs:
+                  - items
+                  - journals
+                  - actors
+        media:
+            - type: setup
+              url: systems/sohl/assets/ui/sohl-setup.webp
+              thumbnail: systems/sohl/assets/ui/sohl-setup-thumb.webp
+            - type: logo
+              url: systems/sohl/assets/ui/sohl-logo.webp
+            - type: icon
+              url: systems/sohl/assets/ui/sohl-icon.webp
+            - type: banner
+              url: systems/sohl/assets/ui/sohl-banner.webp
+        socket: true

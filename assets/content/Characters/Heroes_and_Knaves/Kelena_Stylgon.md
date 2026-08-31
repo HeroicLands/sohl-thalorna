@@ -540,11 +540,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Velvet coin purse,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Velvet coin purse, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 75 } }
     - { shortcode: gldcrwn, type: miscgear }
     - { shortcode: bpchmd, type: containergear }

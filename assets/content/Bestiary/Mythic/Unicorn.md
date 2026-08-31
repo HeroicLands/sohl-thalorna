@@ -233,11 +233,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 80 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 66 } }
     - name: Horn

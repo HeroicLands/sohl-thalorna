@@ -524,11 +524,7 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
-    - {
-        shortcode: summ,
-        type: mysticalability,
-        system: { masteryLevelBase: 30 },
-      }
+    - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 30 } }
     - { shortcode: ritual, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: law, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: ShrtSwd, type: weapongear }

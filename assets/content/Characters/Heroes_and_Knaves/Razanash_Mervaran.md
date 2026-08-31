@@ -524,11 +524,7 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 75 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 75 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LtRobe, type: armorgear }
     - { shortcode: LtMntl, type: armorgear }
@@ -569,16 +565,8 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: bgsmcvs, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-    - {
-        name: Healing herbs,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Divination stones,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Healing herbs, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Divination stones, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Ceremonial feathers
       type: miscgear
       system:

@@ -503,11 +503,7 @@ sohl:
     - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 40 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 30 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 30 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 50 } }

@@ -529,32 +529,16 @@ sohl:
     - { shortcode: MVest, type: armorgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 2 } }
-    - {
-        name: Iron key ring,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Iron key ring, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Shackles and restraint chains
       type: miscgear
       system:
         weight: 3
         value: 100
         durability: 3
-    - {
-        name: Guard's whistle,
-        type: miscgear,
-        system: { weight: 0.1, value: 100, durability: 3 },
-      }
-    - {
-        name: Prison logbook,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Guard's whistle, type: miscgear, system: { weight: 0.1, value: 100, durability: 3 } }
+    - { name: Prison logbook, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: bpchlg, type: containergear }
 ---
 

@@ -312,11 +312,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 85 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 84 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 84 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 66 } }
     - name: Bite
       type: skill

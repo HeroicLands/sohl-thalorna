@@ -552,11 +552,7 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Pocket watch,
-        type: miscgear,
-        system: { weight: 1.5, value: 100, durability: 3 },
-      }
+    - { name: Pocket watch, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 5 } }
     - name: Handkerchief (linen)

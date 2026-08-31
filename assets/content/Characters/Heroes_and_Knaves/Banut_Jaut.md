@@ -526,11 +526,7 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: HsTunic, type: armorgear }
     - { shortcode: HsBrch, type: armorgear }

@@ -522,11 +522,7 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 14 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 48 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: Stf, type: weapongear }
     - { shortcode: GCoat, type: armorgear }
     - { shortcode: HsTrsr, type: armorgear }

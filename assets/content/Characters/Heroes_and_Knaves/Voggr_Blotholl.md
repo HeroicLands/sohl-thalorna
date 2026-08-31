@@ -542,22 +542,14 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Rope and cordage,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Rope and cordage, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Sapling seeds for forest restoration
       type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: bglgcvs, type: containergear }
     - { shortcode: wtrskin, type: containergear }
 ---

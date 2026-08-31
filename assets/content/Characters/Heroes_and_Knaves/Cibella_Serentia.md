@@ -522,17 +522,9 @@ sohl:
     - { shortcode: acro, type: skill, system: { masteryLevelBase: 78 } }
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 81 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 112 } }
-    - {
-        shortcode: runecft,
-        type: mysticalability,
-        system: { masteryLevelBase: 117 },
-      }
+    - { shortcode: runecft, type: mysticalability, system: { masteryLevelBase: 117 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 56 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 44 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 44 } }
     - { shortcode: LRobe, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: bpchmd, type: containergear }

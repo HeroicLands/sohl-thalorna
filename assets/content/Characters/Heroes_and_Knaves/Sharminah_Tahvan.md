@@ -523,11 +523,7 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 30 } }
-    - {
-        shortcode: summ,
-        type: mysticalability,
-        system: { masteryLevelBase: 28 },
-      }
+    - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 28 } }
     - { shortcode: WFl, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: SCui, type: armorgear }

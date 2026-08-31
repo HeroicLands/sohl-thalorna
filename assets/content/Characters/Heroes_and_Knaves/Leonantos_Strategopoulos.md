@@ -525,11 +525,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 14 } }
-    - {
-        shortcode: summ,
-        type: mysticalability,
-        system: { masteryLevelBase: 14 },
-      }
+    - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 14 } }
     - { shortcode: Whmr, type: weapongear }
     - { shortcode: PSht, type: armorgear }
     - { shortcode: WTrsr, type: armorgear }

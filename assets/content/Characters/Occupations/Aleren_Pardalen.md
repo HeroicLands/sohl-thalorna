@@ -526,11 +526,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 65 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 65 } }
 thalorna:
   realm: kngdmlvndr
   region: elavendre

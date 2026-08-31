@@ -523,21 +523,9 @@ sohl:
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: herb, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: law, type: skill, system: { masteryLevelBase: 36 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 59 },
-      }
-    - {
-        shortcode: runecft,
-        type: mysticalability,
-        system: { masteryLevelBase: 53 },
-      }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 37 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 59 } }
+    - { shortcode: runecft, type: mysticalability, system: { masteryLevelBase: 53 } }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 37 } }
     - { shortcode: trak, type: skill, system: { masteryLevelBase: 50 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: embl, type: skill, system: { masteryLevelBase: 31 } }

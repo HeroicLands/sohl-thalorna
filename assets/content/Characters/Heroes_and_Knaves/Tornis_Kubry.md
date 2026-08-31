@@ -522,11 +522,7 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: smsh, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 39 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
     - { shortcode: BrdSwd, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LBw75, type: weapongear }

@@ -522,11 +522,7 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 20 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 75 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 75 } }
     - { shortcode: Stf, type: weapongear }
     - { shortcode: HsTunic, type: armorgear }
     - { shortcode: HsBrch, type: armorgear }

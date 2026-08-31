@@ -549,11 +549,7 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - {
-        name: Herbal manuscripts,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Herbal manuscripts, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
     - { shortcode: bpchmd, type: containergear }

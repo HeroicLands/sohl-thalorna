@@ -534,11 +534,7 @@ sohl:
     - { shortcode: WShirt, type: armorgear }
     - { shortcode: WTrsr, type: armorgear }
     - { shortcode: LtKBoot, type: armorgear }
-    - {
-        name: Glassblowing pipe,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Glassblowing pipe, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Tongs (various weights)
       type: miscgear
       system:

@@ -544,11 +544,7 @@ sohl:
         weight: 0.5
         value: 100
         durability: 3
-    - {
-        name: Whetstone,
-        type: miscgear,
-        system: { weight: 0.5, value: 100, durability: 3 },
-      }
+    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
     - name: Flask of mead
@@ -560,16 +556,8 @@ sohl:
         durability: 3
     - { shortcode: bktlrg, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-    - {
-        name: Ladder,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
-    - {
-        name: Bundles of straw,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Ladder, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Bundles of straw, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

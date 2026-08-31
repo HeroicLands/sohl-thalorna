@@ -528,16 +528,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 30 },
-      }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 48 },
-      }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 75 } }
 thalorna:
   realm: kngdmnrdhm

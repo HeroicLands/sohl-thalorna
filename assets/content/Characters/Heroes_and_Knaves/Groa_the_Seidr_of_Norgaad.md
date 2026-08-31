@@ -491,11 +491,7 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 12 } }
-    - {
-        shortcode: trnc,
-        type: mysticalability,
-        system: { masteryLevelBase: 60 },
-      }
+    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: Stf, type: weapongear }
     - { shortcode: RhTunic, type: armorgear }
     - { shortcode: RhMntl, type: armorgear }

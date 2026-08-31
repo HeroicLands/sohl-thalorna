@@ -522,16 +522,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 11 } }
-    - {
-        shortcode: astr,
-        type: mysticalability,
-        system: { masteryLevelBase: 52 },
-      }
-    - {
-        shortcode: tarot,
-        type: mysticalability,
-        system: { masteryLevelBase: 39 },
-      }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 52 } }
+    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 39 } }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: WBrch, type: armorgear }
@@ -557,11 +549,7 @@ sohl:
         weight: 1
         value: 100
         durability: 3
-    - {
-        name: Nautical almanac,
-        type: miscgear,
-        system: { weight: 1, value: 100, durability: 3 },
-      }
+    - { name: Nautical almanac, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
     - name: Tarot deck and divining cards
       type: miscgear
       system:

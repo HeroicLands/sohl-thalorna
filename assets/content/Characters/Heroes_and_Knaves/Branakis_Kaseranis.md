@@ -551,11 +551,7 @@ sohl:
         quantity: 1
         value: 100
         durability: 3
-    - {
-        name: Firewood bundle,
-        type: miscgear,
-        system: { weight: 2, value: 100, durability: 3 },
-      }
+    - { name: Firewood bundle, type: miscgear, system: { weight: 2, value: 100, durability: 3 } }
     - name: Wooden markers and measuring tools
       type: miscgear
       system:
