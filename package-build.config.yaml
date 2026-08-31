@@ -22,7 +22,6 @@ relationships:
           itemCatalog: true
 
 stats:
-    systemId: sohl
     lastModifiedBy: sohlbuilder00000
 
 itemBuilders: sohl
