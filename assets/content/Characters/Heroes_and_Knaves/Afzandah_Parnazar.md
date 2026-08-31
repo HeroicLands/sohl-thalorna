@@ -48,21 +48,6 @@ traits:
       - a scar on the left ankle
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 13
-    dex: 15
-    agl: 13
-    per: 14
-    cml: 12
-    aur: 11
-    wil: 12
-    rea: 14
-    cre: 17
-    emp: 11
-    elo: 12
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -493,169 +478,83 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sirvadar
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: Whmr
-      type: weapongear
-    - shortcode: RhGntl
-      type: armorgear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhBrch
-      type: armorgear
-    - shortcode: RhShoe
-      type: armorgear
-    - shortcode: RhMntl
-      type: armorgear
-    - type: miscgear
-      name: Metalcraft tools (chisels, files, engraving burins)
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: sirvadar, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: Whmr, type: weapongear }
+    - { shortcode: RhGntl, type: armorgear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhBrch, type: armorgear }
+    - { shortcode: RhShoe, type: armorgear }
+    - { shortcode: RhMntl, type: armorgear }
+    - name: Metalcraft tools (chisels, files, engraving burins)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Decorative gemstones (assorted)
+    - name: Decorative gemstones (assorted)
+      type: miscgear
       system:
         quantity: 20
         value: 50
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Leather apron for workshop
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Whetstone
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - name: Leather apron for workshop
       type: miscgear
-    - shortcode: bktlrg
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - {
+        name: Whetstone,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: bktlrg, type: containergear }
 ---
 
 # Appearance {#appearance}

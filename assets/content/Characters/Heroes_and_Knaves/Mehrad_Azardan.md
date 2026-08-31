@@ -48,21 +48,6 @@ traits:
       - a scar on the lower abdomen
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 14
-    dex: 17
-    agl: 16
-    per: 15
-    cml: 11
-    aur: 12
-    wil: 13
-    rea: 10
-    cre: 12
-    emp: 9
-    elo: 10
-    mor: 12
-    voi: 11
   body:
     structure:
       parts:
@@ -493,198 +478,100 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: bahramis
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 34
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: Scmtr
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Navigator's logbook (personal records)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Collection of rutters (navigation charts)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Compass (brass, well-maintained)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Astrolabe (brass, personal)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Measuring instruments (sextant, scale)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Rope and line (navigation quality)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: FRtns
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: bahramis, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 34 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: Scmtr, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Navigator's logbook (personal records)
       type: miscgear
       system:
-        quantity: 5
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchmd
-      type: containergear
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Collection of rutters (navigation charts)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Compass (brass, well-maintained)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Astrolabe (brass, personal)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Measuring instruments (sextant, scale)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Rope and line (navigation quality)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 # Appearance {#appearance}

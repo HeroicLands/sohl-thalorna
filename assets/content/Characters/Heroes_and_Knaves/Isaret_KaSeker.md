@@ -49,21 +49,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 11
-    dex: 14
-    agl: 15
-    per: 16
-    cml: 12
-    aur: 17
-    wil: 14
-    rea: 13
-    cre: 15
-    emp: 10
-    elo: 12
-    mor: 10
-    voi: 10
   body:
     structure:
       parts:
@@ -494,188 +479,92 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: iset
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: SlkShirt
-      type: armorgear
-    - shortcode: SgBrch
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: SlkClk
-      type: armorgear
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: iset, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: SlkShirt, type: armorgear }
+    - { shortcode: SgBrch, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: SlkClk, type: armorgear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - name: Lockpicks and thief's tools
       type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - type: miscgear
-      name: Lockpicks and thief's tools
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - type: miscgear
-      name: Disguise kit and cosmetics
+    - name: Disguise kit and cosmetics
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Writing materials and coded notes
+    - name: Writing materials and coded notes
+      type: miscgear
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - type: miscgear
-      name: Fine silk face veil
+    - name: Fine silk face veil
+      type: miscgear
       system:
         weight: 0.1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Rope and grappling hook
+    - name: Rope and grappling hook
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 **Home:** [[doc-khensuret|Khensuret]]

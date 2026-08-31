@@ -49,21 +49,6 @@ traits:
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 12
-    dex: 12
-    agl: 10
-    per: 16
-    cml: 13
-    aur: 14
-    wil: 15
-    rea: 18
-    cre: 13
-    emp: 10
-    elo: 16
-    mor: 13
-    voi: 12
   body:
     structure:
       parts:
@@ -494,212 +479,115 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: maat
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 34
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 51
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 34
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 62
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 35
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: ritual
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: astr
-      type: mysticalability
-      system:
-        masteryLevelBase: 40
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 25
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: SlkRobe
-      type: armorgear
-    - shortcode: SlkGlv
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - type: miscgear
-      name: Golden scales of Má'át (ritual artifact)
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: maat, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 34 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 51 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 34 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 62 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 35 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: ritual, type: skill, system: { masteryLevelBase: 55 } }
+    - {
+        shortcode: astr,
+        type: mysticalability,
+        system: { masteryLevelBase: 40 },
+      }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 25 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: SlkRobe, type: armorgear }
+    - { shortcode: SlkGlv, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - name: Golden scales of Má'át (ritual artifact)
+      type: miscgear
       system:
         weight: 0.5
         value: 40
         durability: 3
-    - type: miscgear
-      name: Ostrich-feather token of the goddess
+    - name: Ostrich-feather token of the goddess
+      type: miscgear
       system:
         weight: 0.05
         value: 15
         durability: 3
-    - type: miscgear
-      name: Consecrated chalk and ritual powder
+    - name: Consecrated chalk and ritual powder
+      type: miscgear
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - type: miscgear
-      name: Libation vessels (bronze)
+    - name: Libation vessels (bronze)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Oracle bones (inherited, ancient divination set)
+    - name: Oracle bones (inherited, ancient divination set)
+      type: miscgear
       system:
         weight: 0.4
         value: 50
         durability: 3
-    - type: miscgear
-      name: Judicial correspondence and alliance ledgers
+    - name: Judicial correspondence and alliance ledgers
+      type: miscgear
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Gold pectoral collar of office
+    - name: Gold pectoral collar of office
+      type: miscgear
       system:
         value: 60
         weight: 1
         durability: 3
-    - shortcode: gldcrwn
+    - { shortcode: gldcrwn, type: miscgear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
+    - name: Incense for temple use
       type: miscgear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 15
-    - type: miscgear
-      name: Incense for temple use
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - shortcode: bglgcvs
-      type: containergear
+    - { shortcode: bglgcvs, type: containergear }
 ---
 
 **Home:** [[doc-meruhotep|Meru-Hotep]]

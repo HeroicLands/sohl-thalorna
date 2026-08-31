@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 14
-    end: 15
-    dex: 12
-    agl: 13
-    per: 16
-    cml: 11
-    aur: 12
-    wil: 14
-    rea: 11
-    cre: 10
-    emp: 10
-    elo: 9
-    mor: 14
-    voi: 12
   body:
     structure:
       parts:
@@ -492,172 +477,80 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: taranon
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ShrtSwd
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: LtSTunic
-      type: armorgear
-    - shortcode: LtBrch
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: medsupil
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: taranon, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ShrtSwd, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: LtSTunic, type: armorgear }
+    - { shortcode: LtBrch, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: medsupil, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: tndrbx, type: miscgear }
+    - name: First aid kit (salves, poultices, bandages)
       type: miscgear
-      system:
-        quantity: 4
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 3
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: tndrbx
-      type: miscgear
-    - type: miscgear
-      name: First aid kit (salves, poultices, bandages)
       system:
         weight: 0.6
         value: 100
         durability: 3
-    - type: miscgear
-      name: Survival kit (rope, grappling tools, climbing gear)
+    - name: Survival kit (rope, grappling tools, climbing gear)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Whetstone for blade maintenance
+    - name: Whetstone for blade maintenance
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: backpk
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 12
-    dex: 11
-    agl: 13
-    per: 16
-    cml: 13
-    aur: 16
-    wil: 14
-    rea: 15
-    cre: 14
-    emp: 15
-    elo: 13
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -492,175 +477,89 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: korsadra
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: trnc
-      type: mysticalability
-      system:
-        masteryLevelBase: 60
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsTrsr
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - shortcode: HsCap
-      type: armorgear
-    - type: miscgear
-      name: Herbal healing kit
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: korsadra, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 28 } }
+    - {
+        shortcode: trnc,
+        type: mysticalability,
+        system: { masteryLevelBase: 60 },
+      }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsTrsr, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - { shortcode: HsCap, type: armorgear }
+    - name: Herbal healing kit
+      type: miscgear
       system:
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ritual components (herbs, stones, bones)
+    - name: Ritual components (herbs, stones, bones)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Divination materials (bones, shells, sand)
+    - name: Divination materials (bones, shells, sand)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear }
+    - { shortcode: wtrskin, type: containergear, system: { quantity: 2 } }
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
+    - name: Woven prayer cord
       type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-      system:
-        quantity: 2
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 2
-    - type: miscgear
-      name: Woven prayer cord
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

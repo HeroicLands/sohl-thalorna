@@ -48,21 +48,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 11
-    dex: 13
-    agl: 12
-    per: 16
-    cml: 14
-    aur: 9
-    wil: 15
-    rea: 15
-    cre: 14
-    emp: 14
-    elo: 15
-    mor: 8
-    voi: 13
   body:
     structure:
       parts:
@@ -493,105 +478,52 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: common
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: lang
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 66
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 38
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 35
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: LtVest
-      type: armorgear
-      name: Concealed leather vest
-    - shortcode: WDress
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - type: miscgear
-      name: Sealed letters of credit and forged passes
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: lang, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 66 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 38 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 35 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: LtVest, type: armorgear, name: Concealed leather vest }
+    - { shortcode: WDress, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - name: Sealed letters of credit and forged passes
+      type: miscgear
       system:
         weight: 0.5
         value: 200
         durability: 2
-    - shortcode: goldcrown
-      type: miscgear
-      system:
-        quantity: 60
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: goldcrown, type: miscgear, system: { quantity: 60 } }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -48,21 +48,6 @@ traits:
       - a scar on the back of the left arm
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 16
-    dex: 12
-    agl: 11
-    per: 14
-    cml: 8
-    aur: 10
-    wil: 14
-    rea: 11
-    cre: 9
-    emp: 15
-    elo: 7
-    mor: 12
-    voi: 11
   body:
     structure:
       parts:
@@ -493,191 +478,96 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: thoth
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 18
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 8
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: LtVest
-      type: armorgear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhBrch
-      type: armorgear
-    - shortcode: RhKBoot
-      type: armorgear
-    - shortcode: RhMntl
-      type: armorgear
-    - type: miscgear
-      name: Training whistle (bone)
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: thoth, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 18 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 8 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: LtVest, type: armorgear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhBrch, type: armorgear }
+    - { shortcode: RhKBoot, type: armorgear }
+    - { shortcode: RhMntl, type: armorgear }
+    - name: Training whistle (bone)
+      type: miscgear
       system:
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Animal treats and feed
+    - name: Animal treats and feed
+      type: miscgear
       system:
         weight: 1
         quantity: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Leather leashes and ropes (assorted)
+    - name: Leather leashes and ropes (assorted)
+      type: miscgear
       system:
         weight: 1.5
         quantity: 3
         value: 100
         durability: 3
-    - type: miscgear
-      name: Animal grooming tools (brush, comb, scraper)
+    - name: Animal grooming tools (brush, comb, scraper)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Healing salve for animal wounds
+    - name: Healing salve for animal wounds
+      type: miscgear
       system:
         value: 1
         weight: 1
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 **Home:** [[doc-perankhet|Per-Ankhet]]

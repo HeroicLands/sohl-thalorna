@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 8
-    end: 10
-    dex: 11
-    agl: 9
-    per: 17
-    cml: 12
-    aur: 14
-    wil: 15
-    rea: 16
-    cre: 13
-    emp: 10
-    elo: 13
-    mor: 11
-    voi: 14
   body:
     structure:
       parts:
@@ -492,203 +477,108 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: taranon
-      type: affiliation
-    - shortcode: cook
-      type: skill
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: taranon, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 34 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 9 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 10 } }
+    - {
+        shortcode: astr,
+        type: mysticalability,
+        system: { masteryLevelBase: 48 },
+      }
+    - {
+        shortcode: tarot,
+        type: mysticalability,
+        system: { masteryLevelBase: 36 },
+      }
+    - { shortcode: Stf, type: weapongear }
+    - { shortcode: SlkRobe, type: armorgear }
+    - { shortcode: SlkMntl, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - { shortcode: LCap, type: armorgear }
+    - name: Leather-bound astral charts journal
+      type: miscgear
       system:
-        masteryLevelBase: 34
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 9
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: astr
-      type: mysticalability
-      system:
-        masteryLevelBase: 48
-    - shortcode: tarot
-      type: mysticalability
-      system:
-        masteryLevelBase: 36
-    - shortcode: Stf
-      type: weapongear
-    - shortcode: SlkRobe
-      type: armorgear
-    - shortcode: SlkMntl
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - shortcode: LCap
-      type: armorgear
-    - type: miscgear
-      name: Leather-bound astral charts journal
-      system:
-        weight: 2.0
+        weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Brass astrolabe
-      system:
-        weight: 1.5
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Copper telescope (brass-fitted)
+    - {
+        name: Brass astrolabe,
+        type: miscgear,
+        system: { weight: 1.5, value: 100, durability: 3 },
+      }
+    - name: Copper telescope (brass-fitted)
+      type: miscgear
       system:
         weight: 2.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Star maps (rolled parchment set)
+    - name: Star maps (rolled parchment set)
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ink and quills
+    - name: Ink and quills
+      type: miscgear
       system:
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Carved bone dice for divination
+    - name: Carved bone dice for divination
+      type: miscgear
       system:
         weight: 0.2
         value: 100
         durability: 3
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 30
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: pence, type: miscgear, system: { quantity: 30 } }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

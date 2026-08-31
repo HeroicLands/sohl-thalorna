@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 14
-    dex: 16
-    agl: 15
-    per: 14
-    cml: 11
-    aur: 12
-    wil: 13
-    rea: 10
-    cre: 11
-    emp: 10
-    elo: 12
-    mor: 13
-    voi: 11
   body:
     structure:
       parts:
@@ -492,188 +477,94 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: janus
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: SgShirt
-      type: armorgear
-    - shortcode: SgBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: SgClk
-      type: armorgear
-    - type: miscgear
-      name: Sailor’s rope (braided, coiled)
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: janus, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: SgShirt, type: armorgear }
+    - { shortcode: SgBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: SgClk, type: armorgear }
+    - name: Sailor’s rope (braided, coiled)
+      type: miscgear
       system:
         weight: 2
         quantity: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Navigation tools (compass, astrolabe)
+    - name: Navigation tools (compass, astrolabe)
+      type: miscgear
       system:
         weight: 0.5
         value: 8
         durability: 3
-    - type: miscgear
-      name: Fishing hooks and line
+    - name: Fishing hooks and line
+      type: miscgear
       system:
         quantity: 4
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Net (small, for fishing)
+    - name: Net (small, for fishing)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: wtrskin, type: containergear }
+    - name: Personal journal (sailing records)
       type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: wtrskin
-      type: containergear
-    - type: miscgear
-      name: Personal journal (sailing records)
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

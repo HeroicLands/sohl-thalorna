@@ -42,23 +42,21 @@ traits:
 sohl:
   archetype: null
   items:
-    - shortcode: loki
-      type: affiliation
-  attributes:
-    str: 11
-    end: 12
-    dex: 11
-    agl: 12
-    per: 14
-    cml: 13
-    aur: 12
-    wil: 14
-    rea: 15
-    cre: 16
-    emp: 13
-    elo: 18
-    mor: 8
-    voi: 17
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: loki, type: affiliation }
   body:
     structure:
       parts:

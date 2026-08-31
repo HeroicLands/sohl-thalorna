@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: elemental
   archetype: 0
-  attributes:
-    str: 55
-    end: 19
-    dex: 6
-    agl: 6
-    per: 8
-    aur: 8
-    wil: 11
-    cre: 6
-    rea: 5
   attrRollFormula:
     str: 1d6+52
     end: 1d4+16
@@ -495,30 +485,25 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 27
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 93
+    - { shortcode: str, type: attribute, system: { scoreBase: 55 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 40 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 27 },
+      }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 93 } }
     - name: Crushing Blow
       type: skill
       system:

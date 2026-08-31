@@ -47,21 +47,6 @@ traits:
       - a scar on the abdomen
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 11
-    dex: 16
-    agl: 12
-    per: 14
-    cml: 13
-    aur: 12
-    wil: 14
-    rea: 15
-    cre: 17
-    emp: 9
-    elo: 14
-    mor: 11
-    voi: 13
   body:
     structure:
       parts:
@@ -492,196 +477,100 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: freyr
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: glas
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: PCoat
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Velvet-lined garment bag for carrying fine clothes
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: High-quality fabrics (silk, velvet, wool samples)
-      system:
-        quantity: 2
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Fine needles and specialty thread
-      system:
-        quantity: 2
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Gold thread (specialty, for embroidery)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Fashion sketchbook and design notes
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Measuring tools and tailoring patterns
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: freyr, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: glas, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: PCoat, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Velvet-lined garment bag for carrying fine clothes
       type: miscgear
-    - shortcode: StdRtns
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: High-quality fabrics (silk, velvet, wool samples)
       type: miscgear
       system:
         quantity: 2
-    - shortcode: bpchlg
-      type: containergear
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Fine needles and specialty thread
+      type: miscgear
+      system:
+        quantity: 2
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Gold thread (specialty, for embroidery)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Fashion sketchbook and design notes
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Measuring tools and tailoring patterns
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

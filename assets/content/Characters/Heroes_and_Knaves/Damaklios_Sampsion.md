@@ -48,21 +48,6 @@ traits:
       - a tattoo of a crescent moon on the neck
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 11
-    dex: 14
-    agl: 12
-    per: 16
-    cml: 12
-    aur: 11
-    wil: 13
-    rea: 15
-    cre: 16
-    emp: 10
-    elo: 13
-    mor: 9
-    voi: 12
   body:
     structure:
       parts:
@@ -493,198 +478,100 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: florania
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: LShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: florania, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: LShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
+    - name: Leather map case
       type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 3
-    - type: miscgear
-      name: Leather map case
       img: icons/scroll-case.svg
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Brass surveyor's compass
+    - name: Brass surveyor's compass
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Cartographer's measuring tools
+    - name: Cartographer's measuring tools
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Charcoal sticks (bundle)
+    - name: Charcoal sticks (bundle)
+      type: miscgear
       system:
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - shortcode: parchment
+    - { shortcode: parchment, type: miscgear, system: { quantity: 10 } }
+    - {
+        name: Inkwell and quills,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - name: Silver crescent-moon amulet (Flórania cult token)
       type: miscgear
       system:
-        quantity: 10
-    - type: miscgear
-      name: Inkwell and quills
-      system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Silver crescent-moon amulet (Flórania cult token)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -42,10 +42,10 @@ import { readQualifier } from "@heroiclands/package-build/engine/wikilinks";
 
 /** Heading/anchor slug: lowercase, non-alphanumerics to single hyphens. */
 export const slugify = (s) =>
-    String(s)
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/(^-|-$)/g, "");
+  String(s)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
 
 /**
  * Whether a link target addresses a document as `type-shortcode` (or the legacy
@@ -61,7 +61,7 @@ export const slugify = (s) =>
  * @returns {boolean} `true` when the target is an address.
  */
 function isAddress(target, contentTypes) {
-    return readQualifier(target, contentTypes ?? new Set()) !== null;
+  return readQualifier(target, contentTypes ?? new Set()) !== null;
 }
 
 /**
@@ -82,9 +82,9 @@ function isAddress(target, contentTypes) {
  * @returns {string | null} The index key, or `null` when not qualified.
  */
 function qualifiedKey(target, contentTypes) {
-    const read = readQualifier(target, contentTypes ?? new Set());
-    if (!read || read.reason) return null;
-    return `${read.type}/${read.shortcode}`.toLowerCase();
+  const read = readQualifier(target, contentTypes ?? new Set());
+  if (!read || read.reason) return null;
+  return `${read.type}/${read.shortcode}`.toLowerCase();
 }
 
 /**
@@ -128,23 +128,23 @@ const FRONTMATTER_WIKILINK = /\[\[[^\]\n]+\]\]/g;
  *   dotted key path of the offending value (`government.summary`, `aliases.1`).
  */
 export function frontmatterWikilinks(fm) {
-    const hits = [];
-    const visit = (value, trail) => {
-        if (typeof value === "string") {
-            for (const m of value.matchAll(FRONTMATTER_WIKILINK)) {
-                hits.push({ path: trail, link: m[0] });
-            }
-        } else if (Array.isArray(value)) {
-            value.forEach((v, i) => visit(v, `${trail}.${i}`));
-        } else if (isPlainMap(value)) {
-            for (const [k, v] of Object.entries(value)) {
-                visit(v, trail ? `${trail}.${k}` : k);
-            }
-        }
-    };
-    if (!isPlainMap(fm)) return hits;
-    visit(fm, "");
-    return hits;
+  const hits = [];
+  const visit = (value, trail) => {
+    if (typeof value === "string") {
+      for (const m of value.matchAll(FRONTMATTER_WIKILINK)) {
+        hits.push({ path: trail, link: m[0] });
+      }
+    } else if (Array.isArray(value)) {
+      value.forEach((v, i) => visit(v, `${trail}.${i}`));
+    } else if (isPlainMap(value)) {
+      for (const [k, v] of Object.entries(value)) {
+        visit(v, trail ? `${trail}.${k}` : k);
+      }
+    }
+  };
+  if (!isPlainMap(fm)) return hits;
+  visit(fm, "");
+  return hits;
 }
 
 /**
@@ -155,12 +155,12 @@ export function frontmatterWikilinks(fm) {
  * @returns {boolean}
  */
 function isPlainMap(value) {
-    return (
-        typeof value === "object" &&
-        value !== null &&
-        !Array.isArray(value) &&
-        !(value instanceof Date)
-    );
+  return (
+    typeof value === "object" &&
+    value !== null &&
+    !Array.isArray(value) &&
+    !(value instanceof Date)
+  );
 }
 
 /**
@@ -192,95 +192,92 @@ function isPlainMap(value) {
  * @returns {string} The body with wikilinks rewritten.
  */
 export function resolveSiteWikilinks(body, ctx) {
-    return body.replace(/\[\[([^\]]+)\]\]/g, (_m, rawInner) => {
-        // A pipe inside a markdown table is escaped as `\|`; undo that first.
-        const inner = rawInner.replace(/\\\|/g, "|");
-        const bar = inner.indexOf("|");
-        const linkPart = (bar === -1 ? inner : inner.slice(0, bar)).trim();
-        const hash = linkPart.indexOf("#");
-        const target = (
-            hash === -1 ? linkPart : linkPart.slice(0, hash)).trim();
-        const anchor = hash === -1 ? "" : linkPart.slice(hash + 1).trim();
-        const display = bar === -1 ? null : inner.slice(bar + 1).trim();
+  return body.replace(/\[\[([^\]]+)\]\]/g, (_m, rawInner) => {
+    // A pipe inside a markdown table is escaped as `\|`; undo that first.
+    const inner = rawInner.replace(/\\\|/g, "|");
+    const bar = inner.indexOf("|");
+    const linkPart = (bar === -1 ? inner : inner.slice(0, bar)).trim();
+    const hash = linkPart.indexOf("#");
+    const target = (hash === -1 ? linkPart : linkPart.slice(0, hash)).trim();
+    const anchor = hash === -1 ? "" : linkPart.slice(hash + 1).trim();
+    const display = bar === -1 ? null : inner.slice(bar + 1).trim();
 
-        // `[[#section-slug|Text]]` — a section of this same page.
-        if (!target && anchor) {
-            return `[${display ?? anchor}](#${slugify(anchor)})`;
-        }
+    // `[[#section-slug|Text]]` — a section of this same page.
+    if (!target && anchor) {
+      return `[${display ?? anchor}](#${slugify(anchor)})`;
+    }
 
-        const key = target.toLowerCase();
-        const typeKey = ctx.type ? `${ctx.type}|${key}`.toLowerCase() : null;
-        // The canonical separator (#1398) has to be resolved, not merely
-        // recognised. Without this the form resolved only when source and target
-        // shared a type, by way of the seeded alias below; every *cross-type* link
-        // written in it silently lost its href.
-        const hyphenKey = qualifiedKey(target, ctx.contentTypes);
-        const hit =
-            (typeKey ? ctx.typeAlias.get(typeKey) : undefined) ??
-            ctx.index.get(key) ??
-            (hyphenKey ? ctx.index.get(hyphenKey) : undefined) ??
-            // A manifest entry carries the same `{ url, name }` shape as a local one
-            // (#1446), so a cross-package hit needs no special case below. Local
-            // wins: a live build is authoritative and a vendored manifest can only be
-            // staler.
-            (hyphenKey ? ctx.foreign?.get(hyphenKey) : undefined);
-        if (hit) {
-            ctx.onResolve?.(hit);
-            // With no explicit label, a *qualified* target has no prose to show (a
-            // shortcode is not display text), so fall back to the document's name. A
-            // bare `[[Text]]` is already the prose the author wrote — substituting
-            // the canonical name there would rewrite the sentence ("worsens the
-            // [[Shock State]]" must not render as "Shock"). Both separators qualify:
-            // `type-shortcode` is the canonical form (#1398), and a hyphen inside a
-            // note *name* ("Grukar-ahk") is not one, which is why the rule is the
-            // packs' own (#1409).
-            const text =
-                display ??
-                (isAddress(target, ctx.contentTypes) ? hit.name : target);
-            // A pack-only package publishes Foundry addresses and no pages (#1516),
-            // so its entries carry no `path` and resolve to no URL. The address is
-            // real — not a typo, and not a build failure — but there is nothing on
-            // the web to point at, so the reader gets the text and no href. Emitting
-            // it anyway yields `[Name](undefined)`: a link that renders and goes
-            // nowhere, which is the silent dead link the manifest exists to prevent.
-            if (!hit.url) return text;
-            return `[${text}](${anchor ? `${hit.url}#${slugify(anchor)}` : hit.url})`;
-        }
+    const key = target.toLowerCase();
+    const typeKey = ctx.type ? `${ctx.type}|${key}`.toLowerCase() : null;
+    // The canonical separator (#1398) has to be resolved, not merely
+    // recognised. Without this the form resolved only when source and target
+    // shared a type, by way of the seeded alias below; every *cross-type* link
+    // written in it silently lost its href.
+    const hyphenKey = qualifiedKey(target, ctx.contentTypes);
+    const hit =
+      (typeKey ? ctx.typeAlias.get(typeKey) : undefined) ??
+      ctx.index.get(key) ??
+      (hyphenKey ? ctx.index.get(hyphenKey) : undefined) ??
+      // A manifest entry carries the same `{ url, name }` shape as a local one
+      // (#1446), so a cross-package hit needs no special case below. Local
+      // wins: a live build is authoritative and a vendored manifest can only be
+      // staler.
+      (hyphenKey ? ctx.foreign?.get(hyphenKey) : undefined);
+    if (hit) {
+      ctx.onResolve?.(hit);
+      // With no explicit label, a *qualified* target has no prose to show (a
+      // shortcode is not display text), so fall back to the document's name. A
+      // bare `[[Text]]` is already the prose the author wrote — substituting
+      // the canonical name there would rewrite the sentence ("worsens the
+      // [[Shock State]]" must not render as "Shock"). Both separators qualify:
+      // `type-shortcode` is the canonical form (#1398), and a hyphen inside a
+      // note *name* ("Grukar-ahk") is not one, which is why the rule is the
+      // packs' own (#1409).
+      const text =
+        display ?? (isAddress(target, ctx.contentTypes) ? hit.name : target);
+      // A pack-only package publishes Foundry addresses and no pages (#1516),
+      // so its entries carry no `path` and resolve to no URL. The address is
+      // real — not a typo, and not a build failure — but there is nothing on
+      // the web to point at, so the reader gets the text and no href. Emitting
+      // it anyway yields `[Name](undefined)`: a link that renders and goes
+      // nowhere, which is the silent dead link the manifest exists to prevent.
+      if (!hit.url) return text;
+      return `[${text}](${anchor ? `${hit.url}#${slugify(anchor)}` : hit.url})`;
+    }
 
-        const slash = target.indexOf("/");
-        const prefix =
-            slash === -1 ? null : target.slice(0, slash).toLowerCase();
-        // Deliberately *not* extended to the hyphen form, which is also how a note
-        // addresses content in a package this build does not publish. Nothing in
-        // the syntax separates that from a typo, so failing here would break the
-        // build on correct content.
-        const badQualified =
-            prefix !== null &&
-            (ctx.sections.has(prefix) || ctx.contentTypes.has(prefix));
-        // The hyphen form is the canonical address (#1398) and is what the authored
-        // content writes. It cannot be guarded while some packages are invisible
-        // here: a Thalorna note addresses `skill-climb`, a real note in the `sohl`
-        // package, and nothing in the syntax separates that legitimate
-        // cross-package reference from a typo — so treating the form as
-        // definitely-local would fail the build on correct content.
-        //
-        // The link manifest settles it (#1446). Once every linkable package is
-        // accounted for — built here or vendored as a manifest — an address
-        // resolving in none of them is a typo and nothing else. Until then
-        // `manifestsComplete` is false and the form stays unguarded, so the check
-        // returns exactly when it becomes decidable rather than on a date someone
-        // has to remember.
-        const badAddress = ctx.manifestsComplete === true && hyphenKey !== null;
+    const slash = target.indexOf("/");
+    const prefix = slash === -1 ? null : target.slice(0, slash).toLowerCase();
+    // Deliberately *not* extended to the hyphen form, which is also how a note
+    // addresses content in a package this build does not publish. Nothing in
+    // the syntax separates that from a typo, so failing here would break the
+    // build on correct content.
+    const badQualified =
+      prefix !== null &&
+      (ctx.sections.has(prefix) || ctx.contentTypes.has(prefix));
+    // The hyphen form is the canonical address (#1398) and is what the authored
+    // content writes. It cannot be guarded while some packages are invisible
+    // here: a Thalorna note addresses `skill-climb`, a real note in the `sohl`
+    // package, and nothing in the syntax separates that legitimate
+    // cross-package reference from a typo — so treating the form as
+    // definitely-local would fail the build on correct content.
+    //
+    // The link manifest settles it (#1446). Once every linkable package is
+    // accounted for — built here or vendored as a manifest — an address
+    // resolving in none of them is a typo and nothing else. Until then
+    // `manifestsComplete` is false and the form stays unguarded, so the check
+    // returns exactly when it becomes decidable rather than on a date someone
+    // has to remember.
+    const badAddress = ctx.manifestsComplete === true && hyphenKey !== null;
 
-        if ((typeKey && ctx.typeCollide.has(typeKey)) || ctx.collide.has(key)) {
-            ctx.errors.push({ file: ctx.src, target, reason: "ambiguous" });
-        } else if (badQualified || badAddress) {
-            ctx.errors.push({
-                file: ctx.src,
-                target,
-                reason: "broken type/shortcode",
-            });
-        }
-        return display ?? target;
-    });
+    if ((typeKey && ctx.typeCollide.has(typeKey)) || ctx.collide.has(key)) {
+      ctx.errors.push({ file: ctx.src, target, reason: "ambiguous" });
+    } else if (badQualified || badAddress) {
+      ctx.errors.push({
+        file: ctx.src,
+        target,
+        reason: "broken type/shortcode",
+      });
+    }
+    return display ?? target;
+  });
 }

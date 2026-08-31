@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 16
-    end: 15
-    dex: 12
-    agl: 10
-    per: 14
-    cml: 9
-    aur: 11
-    wil: 12
-    rea: 10
-    cre: 8
-    emp: 10
-    elo: 9
-    mor: 12
-    voi: 10
   body:
     structure:
       parts:
@@ -492,182 +477,89 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: varakpnthn
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 8
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: PkAxe
-      type: weapongear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhBrch
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: RhMntl
-      type: armorgear
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: varakpnthn, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 8 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: PkAxe, type: weapongear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhBrch, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: RhMntl, type: armorgear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 3 } }
+    - name: Leather satchel for personal items
       type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-      system:
-        quantity: 3
-    - type: miscgear
-      name: Leather satchel for personal items
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Mining tools and chisels
+    - name: Mining tools and chisels
+      type: miscgear
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Safety gear (padding, gloves)
+    - name: Safety gear (padding, gloves)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Lantern with oil
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Whetstone
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: bglgcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - {
+        name: Lantern with oil,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - {
+        name: Whetstone,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - { shortcode: bglgcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

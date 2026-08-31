@@ -50,21 +50,6 @@ traits:
       - an air of quiet authority that belies his humble dress
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 11
-    dex: 15
-    agl: 12
-    per: 9
-    cml: 11
-    aur: 14
-    wil: 12
-    rea: 16
-    cre: 18
-    emp: 11
-    elo: 16
-    mor: 11
-    voi: 15
   body:
     structure:
       parts:
@@ -495,160 +480,73 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 86
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 46
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 63
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 81
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 54
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 69
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 59
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 63
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 49
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 88
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 88
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 47
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 49
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 31
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 31
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: astr
-      type: mysticalability
-      system:
-        masteryLevelBase: 59
-    - shortcode: runecft
-      type: mysticalability
-      system:
-        masteryLevelBase: 53
-    - shortcode: tarot
-      type: mysticalability
-      system:
-        masteryLevelBase: 37
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 31
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 31
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: CLeg
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: bpchmd
-      type: containergear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 28
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 86 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 46 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 63 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 81 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 54 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 69 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 59 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 63 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 49 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 88 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 88 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 47 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 49 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 31 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 31 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 36 } }
+    - {
+        shortcode: astr,
+        type: mysticalability,
+        system: { masteryLevelBase: 59 },
+      }
+    - {
+        shortcode: runecft,
+        type: mysticalability,
+        system: { masteryLevelBase: 53 },
+      }
+    - {
+        shortcode: tarot,
+        type: mysticalability,
+        system: { masteryLevelBase: 37 },
+      }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 31 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 31 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: CLeg, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: bpchmd, type: containergear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 28 } }
 ---
 
 # Appearance {#appearance}

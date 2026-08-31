@@ -15,15 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    per: 10
-    aur: 8
-    wil: 18
-    rea: 8
-    str: 42
-    end: 26
-    agl: 6
-    cre: 4
   attrRollFormula:
     per: 1d6+6
     aur: 1d6+4
@@ -493,30 +484,24 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 85
+    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 42 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 26 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 39 },
+      }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 85 } }
     - name: Crushing Blow
       type: skill
       system:

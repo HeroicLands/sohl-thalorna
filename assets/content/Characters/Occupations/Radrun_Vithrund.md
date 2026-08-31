@@ -51,21 +51,6 @@ gear:
     - notes from the guild
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 11
-    dex: 16
-    agl: 15
-    per: 17
-    cml: 16
-    aur: 12
-    wil: 10
-    rea: 12
-    cre: 14
-    emp: 13
-    elo: 15
-    mor: 7
-    voi: 11
   body:
     structure:
       parts:
@@ -496,132 +481,52 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: freyja
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 13
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: freyja, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

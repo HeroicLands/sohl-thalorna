@@ -48,21 +48,6 @@ traits:
       - a tattoo of an eagle on the back
 sohl:
   archetype: null
-  attributes:
-    str: 14
-    end: 13
-    dex: 12
-    agl: 13
-    per: 15
-    cml: 12
-    aur: 14
-    wil: 15
-    rea: 14
-    cre: 13
-    emp: 9
-    elo: 12
-    mor: 11
-    voi: 13
   body:
     structure:
       parts:
@@ -493,175 +478,91 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: ymir
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: Spr
-      type: weapongear
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: LtVest
-      type: armorgear
-    - shortcode: LtSTunic
-      type: armorgear
-    - shortcode: LtBrch
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: LtMntl
-      type: armorgear
-    - type: miscgear
-      name: Tribal necklace (bone and silver, leadership insignia)
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: ymir, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: Spr, type: weapongear }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: LtVest, type: armorgear }
+    - { shortcode: LtSTunic, type: armorgear }
+    - { shortcode: LtBrch, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: LtMntl, type: armorgear }
+    - name: Tribal necklace (bone and silver, leadership insignia)
+      type: miscgear
       system:
         value: 10
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Hunting knife (bone handle)
+    - name: Hunting knife (bone handle)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Territorial maps and survey notes
+    - name: Territorial maps and survey notes
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Herbal remedies (wound treatment)
+    - name: Herbal remedies (wound treatment)
+      type: miscgear
       system:
         quantity: 3
         value: 2
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Leadership seal (carved bone)
+    - name: Leadership seal (carved bone)
+      type: miscgear
       system:
         value: 5
         weight: 1
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

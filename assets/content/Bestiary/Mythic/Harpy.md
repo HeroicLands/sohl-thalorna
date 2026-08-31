@@ -16,18 +16,6 @@ type: being
 sohl:
   kbcat: mythic
   archetype: 0
-  attributes:
-    str: 8
-    end: 7
-    dex: 8
-    agl: 10
-    per: 16
-    aur: 5
-    wil: 10
-    rea: 6
-    cre: 6
-    emp: 3
-    elo: 2
   attrRollFormula:
     str: 1d4+6
     end: 1d4+5
@@ -275,30 +263,27 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 21
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 44
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 40 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 21 },
+      }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
     - name: Claw
       type: skill
       system:

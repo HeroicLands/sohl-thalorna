@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 14
-    dex: 12
-    agl: 11
-    per: 13
-    cml: 9
-    aur: 11
-    wil: 14
-    rea: 13
-    cre: 12
-    emp: 10
-    elo: 8
-    mor: 12
-    voi: 11
   body:
     structure:
       parts:
@@ -492,182 +477,97 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sacredforge
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: Hcht
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsTrsr
-      type: armorgear
-    - shortcode: RhShoe
-      type: armorgear
-    - shortcode: LtGlove
-      type: armorgear
-    - shortcode: HsCap
-      type: armorgear
-    - type: miscgear
-      name: Burlap sacks (charcoal transport)
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: sacredforge, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: Hcht, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsTrsr, type: armorgear }
+    - { shortcode: RhShoe, type: armorgear }
+    - { shortcode: LtGlove, type: armorgear }
+    - { shortcode: HsCap, type: armorgear }
+    - name: Burlap sacks (charcoal transport)
+      type: miscgear
       system:
         quantity: 4
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Kiln tools (rake, poker, spade)
+    - name: Kiln tools (rake, poker, spade)
+      type: miscgear
       system:
-        weight: 2.0
+        weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Fire-starting flint and steel
-      system:
-        weight: 0.5
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Whetstone
+    - name: Fire-starting flint and steel
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wood samples (oak, cedar, pine)
+    - {
+        name: Whetstone,
+        type: miscgear,
+        system: { weight: 0.5, value: 100, durability: 3 },
+      }
+    - name: Wood samples (oak, cedar, pine)
+      type: miscgear
       system:
-        weight: 1.0
+        weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Cloth for filtering charcoal dust
+    - name: Cloth for filtering charcoal dust
+      type: miscgear
       system:
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 4
-    - shortcode: bktlrg
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: bktlrg, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

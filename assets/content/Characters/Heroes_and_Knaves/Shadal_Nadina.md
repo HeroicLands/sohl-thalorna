@@ -46,21 +46,6 @@ traits:
       - a scar on the chin
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 13
-    dex: 14
-    agl: 12
-    per: 16
-    cml: 12
-    aur: 11
-    wil: 10
-    rea: 15
-    cre: 13
-    emp: 16
-    elo: 12
-    mor: 15
-    voi: 11
   body:
     structure:
       parts:
@@ -491,188 +476,103 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: florania
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Leather portfolio with writing implements
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: florania, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Leather portfolio with writing implements
+      type: miscgear
       system:
         weight: 1.2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Set of quality quills (goose and reed)
+    - name: Set of quality quills (goose and reed)
+      type: miscgear
       system:
         quantity: 20
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Multiple bottles of inks (various colors)
+    - name: Multiple bottles of inks (various colors)
+      type: miscgear
       system:
-        weight: 1.0
+        weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Parchment (prime quality sheets)
+    - name: Parchment (prime quality sheets)
+      type: miscgear
       system:
         quantity: 50
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Accounting ledgers (blank and personal)
+    - name: Accounting ledgers (blank and personal)
+      type: miscgear
       system:
-        weight: 2.0
+        weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ink stone and grinding rod
+    - name: Ink stone and grinding rod
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Blotting sand and cloth
+    - name: Blotting sand and cloth
+      type: miscgear
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 20
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

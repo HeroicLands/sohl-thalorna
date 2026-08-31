@@ -48,21 +48,6 @@ traits:
       - a scar on the right side of the face
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 13
-    dex: 12
-    agl: 12
-    per: 14
-    cml: 14
-    aur: 13
-    wil: 14
-    rea: 13
-    cre: 18
-    emp: 15
-    elo: 17
-    mor: 12
-    voi: 16
   body:
     structure:
       parts:
@@ -493,162 +478,86 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sacredforge
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: VShirt
-      type: armorgear
-    - shortcode: VBrch
-      type: armorgear
-    - shortcode: VCap
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: SlkClk
-      type: armorgear
-    - type: miscgear
-      name: Leather-bound notebook (script drafts and notes)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Writing kit (quill, inks, parchment)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Collection of dramatic scripts (personal works)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Theatrical props (small, personal collection)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Mask (theatrical, personal)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: sacredforge, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 90 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: VShirt, type: armorgear }
+    - { shortcode: VBrch, type: armorgear }
+    - { shortcode: VCap, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: SlkClk, type: armorgear }
+    - name: Leather-bound notebook (script drafts and notes)
       type: miscgear
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchmd
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Writing kit (quill, inks, parchment)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Collection of dramatic scripts (personal works)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Theatrical props (small, personal collection)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Mask (theatrical, personal)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -48,21 +48,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 11
-    dex: 12
-    agl: 11
-    per: 15
-    cml: 12
-    aur: 14
-    wil: 13
-    rea: 16
-    cre: 14
-    emp: 11
-    elo: 13
-    mor: 14
-    voi: 10
   body:
     structure:
       parts:
@@ -493,180 +478,91 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: maat
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: LShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Ink and quills
-      system:
-        weight: 1.5
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Parchment (bundle)
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: maat, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: LShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - {
+        name: Ink and quills,
+        type: miscgear,
+        system: { weight: 1.5, value: 100, durability: 3 },
+      }
+    - name: Parchment (bundle)
+      type: miscgear
       system:
         quantity: 10
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Star charts (maps and diagrams)
+    - name: Star charts (maps and diagrams)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Reference texts (scrolls)
+    - name: Reference texts (scrolls)
+      type: miscgear
       system:
         quantity: 4
         weight: 1.5
         value: 200
         durability: 3
-    - type: miscgear
-      name: Writing desk materials
+    - name: Writing desk materials
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bglgcvs
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bglgcvs, type: containergear }
 ---
 
 **Home:** [[doc-wasetkara|Wasetkara]]

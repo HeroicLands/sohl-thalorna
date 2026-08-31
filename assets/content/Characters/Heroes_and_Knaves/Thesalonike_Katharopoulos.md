@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 14
-    end: 14
-    dex: 13
-    agl: 12
-    per: 15
-    cml: 11
-    aur: 11
-    wil: 12
-    rea: 13
-    cre: 12
-    emp: 12
-    elo: 10
-    mor: 13
-    voi: 12
   body:
     structure:
       parts:
@@ -492,199 +477,96 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: lusinia
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: Hcht
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WCoat
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtCBoot
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Leather satchel for woodworking tools
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: lusinia, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: Hcht, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WCoat, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtCBoot, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Leather satchel for woodworking tools
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Hand saw for cutting wood
+    - name: Hand saw for cutting wood
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Rope (coiled)
-      system:
-        quantity: 2
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Wooden mallet and wedges
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Sharpening stone and honing tools
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: torch
+    - name: Rope (coiled)
       type: miscgear
       system:
         quantity: 2
-    - shortcode: FRtns
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Wooden mallet and wedges
       type: miscgear
       system:
-        quantity: 3
-    - shortcode: backpk
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Sharpening stone and honing tools
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

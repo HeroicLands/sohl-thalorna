@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 14
-    dex: 15
-    agl: 13
-    per: 16
-    cml: 13
-    aur: 15
-    wil: 14
-    rea: 13
-    cre: 17
-    emp: 15
-    elo: 16
-    mor: 13
-    voi: 15
   body:
     structure:
       parts:
@@ -492,209 +477,111 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: freyja
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: glas
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: CTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: CCoat
-      type: armorgear
-    - type: miscgear
-      name: Jester’s bells (sewn into cap and vest)
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: freyja, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: glas, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: CTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: CCoat, type: armorgear }
+    - name: Jester’s bells (sewn into cap and vest)
+      type: miscgear
       system:
         weight: 0.4
         value: 100
         durability: 3
-    - type: miscgear
-      name: Satchel of props (juggling balls, scarves, masks)
+    - name: Satchel of props (juggling balls, scarves, masks)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Hand drum
-      system:
-        weight: 0.6
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Wooden flute
-      system:
-        weight: 0.2
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Lute
-      system:
-        weight: 1.8
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Rope (silk, multi-colored)
+    - {
+        name: Hand drum,
+        type: miscgear,
+        system: { weight: 0.6, value: 100, durability: 3 },
+      }
+    - {
+        name: Wooden flute,
+        type: miscgear,
+        system: { weight: 0.2, value: 100, durability: 3 },
+      }
+    - {
+        name: Lute,
+        type: miscgear,
+        system: { weight: 1.8, value: 100, durability: 3 },
+      }
+    - name: Rope (silk, multi-colored)
+      type: miscgear
       system:
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Theatrical makeup and paint
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: pence
+    - name: Theatrical makeup and paint
       type: miscgear
       system:
-        quantity: 15
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: backpk
-      type: containergear
-    - type: miscgear
-      name: Juggling balls
-      system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Written routines
-      system:
-        weight: 1
-        value: 100
-        durability: 3
+    - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: backpk, type: containergear }
+    - {
+        name: Juggling balls,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - {
+        name: Written routines,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
 ---
 
 # Appearance {#appearance}

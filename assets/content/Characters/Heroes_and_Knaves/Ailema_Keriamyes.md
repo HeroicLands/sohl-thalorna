@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 12
-    dex: 17
-    agl: 11
-    per: 15
-    cml: 14
-    aur: 13
-    wil: 12
-    rea: 18
-    cre: 15
-    emp: 10
-    elo: 11
-    mor: 14
-    voi: 12
   body:
     structure:
       parts:
@@ -492,184 +477,102 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: florania
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 17
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: SlkShirt
-      type: armorgear
-    - shortcode: SlkTunic
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: SlkSTnc
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Quill set (goose and reed)
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: florania, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 17 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: SlkShirt, type: armorgear }
+    - { shortcode: SlkTunic, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: SlkSTnc, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Quill set (goose and reed)
+      type: miscgear
       system:
         quantity: 12
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Inkwell with premium black ink
+    - name: Inkwell with premium black ink
+      type: miscgear
       system:
         value: 2
         weight: 0.3
         durability: 3
-    - type: miscgear
-      name: Parchment (premium sheets)
+    - name: Parchment (premium sheets)
+      type: miscgear
       system:
         quantity: 25
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Sealing wax (assorted colors)
+    - name: Sealing wax (assorted colors)
+      type: miscgear
       system:
         quantity: 3
         value: 1
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Seal stamps (personal and guild)
+    - name: Seal stamps (personal and guild)
+      type: miscgear
       system:
         quantity: 2
         value: 3
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Blotting sand
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - {
+        name: Blotting sand,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - { shortcode: tndrbx, type: miscgear }
+    - name: Ruler and straightedge (brass)
       type: miscgear
-    - type: miscgear
-      name: Ruler and straightedge (brass)
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

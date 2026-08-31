@@ -47,21 +47,6 @@ traits:
       - perpetual scowl
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 12
-    dex: 11
-    agl: 13
-    per: 11
-    cml: 8
-    aur: 10
-    wil: 12
-    rea: 9
-    cre: 8
-    emp: 7
-    elo: 8
-    mor: 6
-    voi: 9
   body:
     structure:
       parts:
@@ -492,110 +477,50 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: thorr
-      type: affiliation
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 25
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: common
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 35
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: HAxe
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: PSht
-      type: armorgear
-    - shortcode: LtVest
-      type: armorgear
-    - shortcode: LtCBoot
-      type: armorgear
-    - shortcode: LtCowl
-      type: armorgear
-    - shortcode: bpchmd
-      type: containergear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 9
-    - shortcode: medsupil
-      type: miscgear
-      system:
-        quantity: 3
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 2
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: thorr, type: affiliation }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 25 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: common, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 35 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: HAxe, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: PSht, type: armorgear }
+    - { shortcode: LtVest, type: armorgear }
+    - { shortcode: LtCBoot, type: armorgear }
+    - { shortcode: LtCowl, type: armorgear }
+    - { shortcode: bpchmd, type: containergear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 9 } }
+    - { shortcode: medsupil, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

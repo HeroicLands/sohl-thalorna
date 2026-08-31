@@ -49,21 +49,6 @@ traits:
       - a faint scar on the left side of the neck
 sohl:
   archetype: null
-  attributes:
-    str: 8
-    end: 11
-    dex: 13
-    agl: 15
-    per: 14
-    cml: 17
-    aur: 14
-    wil: 13
-    rea: 15
-    cre: 14
-    emp: 12
-    elo: 16
-    mor: 12
-    voi: 17
   body:
     structure:
       parts:
@@ -494,182 +479,97 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: hapi
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: glas
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: SlkDress
-      type: armorgear
-    - shortcode: ECloak
-      type: armorgear
-    - shortcode: VHat
-      type: armorgear
-    - type: miscgear
-      name: Embroidered silk bag (ornate, hand-sewn)
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: hapi, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: glas, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: SlkDress, type: armorgear }
+    - { shortcode: ECloak, type: armorgear }
+    - { shortcode: VHat, type: armorgear }
+    - name: Embroidered silk bag (ornate, hand-sewn)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Elegant gown (additional formal dress)
+    - name: Elegant gown (additional formal dress)
+      type: miscgear
       system:
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Books (philosophical and romantic texts)
+    - name: Books (philosophical and romantic texts)
+      type: miscgear
       system:
         quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Calligraphy set (brushes, inks, papers)
+    - name: Calligraphy set (brushes, inks, papers)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Jewelry and cosmetics
-      system:
-        quantity: 2
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Scent bottles (perfumes and oils)
+    - name: Jewelry and cosmetics
+      type: miscgear
       system:
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - shortcode: bpchmd
-      type: containergear
+    - name: Scent bottles (perfumes and oils)
+      type: miscgear
+      system:
+        quantity: 2
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 **Home:** [[doc-perankhet|Per-Ankhet]]

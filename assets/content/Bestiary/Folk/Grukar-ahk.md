@@ -16,16 +16,6 @@ type: being
 sohl:
   kbcat: grukar
   archetype: 0
-  attributes:
-    str: 13
-    end: 17
-    dex: 11
-    agl: 9
-    per: 15
-    aur: 16
-    wil: 17
-    rea: 14
-    cre: 12
   attrRollFormula:
     str: 1d6+9
     end: 1d6+13
@@ -495,46 +485,33 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 48
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 38
-    - shortcode: bflkbite
-      type: skill
-    - shortcode: bflkgrab
-      type: skill
-    - shortcode: bflkheadbutt
-      type: skill
-    - shortcode: bflkkick
-      type: skill
-    - shortcode: limbblock
-      type: skill
-    - shortcode: press
-      type: skill
-    - shortcode: bflkpunch
-      type: skill
-    - shortcode: trip
-      type: skill
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 48 },
+      }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
+    - { shortcode: bflkbite, type: skill }
+    - { shortcode: bflkgrab, type: skill }
+    - { shortcode: bflkheadbutt, type: skill }
+    - { shortcode: bflkkick, type: skill }
+    - { shortcode: limbblock, type: skill }
+    - { shortcode: press, type: skill }
+    - { shortcode: bflkpunch, type: skill }
+    - { shortcode: trip, type: skill }
 ---
 
 # Appearance {#appearance}

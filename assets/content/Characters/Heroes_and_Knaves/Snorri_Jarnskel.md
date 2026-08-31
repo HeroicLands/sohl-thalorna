@@ -48,21 +48,6 @@ traits:
       - a scar on the right cheek
 sohl:
   archetype: null
-  attributes:
-    str: 16
-    end: 15
-    dex: 11
-    agl: 12
-    per: 13
-    cml: 8
-    aur: 10
-    wil: 14
-    rea: 11
-    cre: 10
-    emp: 12
-    elo: 9
-    mor: 12
-    voi: 11
   body:
     structure:
       parts:
@@ -493,196 +478,89 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: tyr
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: Stk
-      type: weapongear
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsTrsr
-      type: armorgear
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsCap
-      type: armorgear
-    - type: miscgear
-      name: Wooden shovel (farming tool)
+    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: tyr, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: Stk, type: weapongear }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsTrsr, type: armorgear }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsCap, type: armorgear }
+    - name: Wooden shovel (farming tool)
+      type: miscgear
       system:
         weight: 0.8
         value: 100
         durability: 3
-    - type: miscgear
-      name: Hand-carved charm (blessed)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Rough rope (coil)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Woven sack for supplies
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: FRtns
+    - name: Hand-carved charm (blessed)
       type: miscgear
       system:
-        quantity: 2
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+        weight: 1
+        value: 100
+        durability: 3
+    - {
+        name: Rough rope (coil),
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - name: Woven sack for supplies
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

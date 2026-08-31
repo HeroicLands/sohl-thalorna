@@ -16,16 +16,6 @@ type: being
 sohl:
   kbcat: mythic
   archetype: 0
-  attributes:
-    str: 17
-    end: 13
-    agl: 14
-    per: 19
-    snt: 3
-    aur: 7
-    wil: 13
-    rea: 8
-    cre: 7
   attrRollFormula:
     str: 1d6+14
     end: 1d6+10
@@ -288,30 +278,25 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 62
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 66
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 40
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 70
+    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 62 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 66 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 40 },
+      }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
     - name: Beak
       type: skill
       system:

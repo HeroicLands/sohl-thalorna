@@ -49,21 +49,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 17
-    end: 16
-    dex: 12
-    agl: 14
-    per: 15
-    cml: 10
-    aur: 15
-    wil: 14
-    rea: 12
-    cre: 11
-    emp: 10
-    elo: 9
-    mor: 10
-    voi: 14
   body:
     structure:
       parts:
@@ -494,198 +479,93 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: tyr
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: Spr
-      type: weapongear
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhBrch
-      type: armorgear
-    - shortcode: RhShoe
-      type: armorgear
-    - shortcode: BvCloak
-      type: armorgear
-    - shortcode: BvCap
-      type: armorgear
-    - type: miscgear
-      name: Fur cloak (boar-hide, ritualistic)
+    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: tyr, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: Spr, type: weapongear }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhBrch, type: armorgear }
+    - { shortcode: RhShoe, type: armorgear }
+    - { shortcode: BvCloak, type: armorgear }
+    - { shortcode: BvCap, type: armorgear }
+    - name: Fur cloak (boar-hide, ritualistic)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ritualistic bone decorations and totems
+    - name: Ritualistic bone decorations and totems
+      type: miscgear
       system:
         quantity: 2
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Hunting knife (bone-handled)
+    - name: Hunting knife (bone-handled)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Dried game meat and pemmican
+    - name: Dried game meat and pemmican
+      type: miscgear
       system:
         quantity: 3
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: FRtns
-      type: miscgear
-      system:
-        quantity: 4
-    - shortcode: backpk
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

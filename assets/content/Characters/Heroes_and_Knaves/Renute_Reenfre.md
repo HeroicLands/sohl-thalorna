@@ -48,21 +48,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 15
-    end: 14
-    dex: 12
-    agl: 11
-    per: 13
-    cml: 10
-    aur: 12
-    wil: 13
-    rea: 11
-    cre: 14
-    emp: 12
-    elo: 15
-    mor: 13
-    voi: 14
   body:
     structure:
       parts:
@@ -493,201 +478,103 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: maat
-      type: affiliation
-    - shortcode: brew
-      type: skill
+    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: maat, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: LKni, type: weapongear }
+    - { shortcode: RhApr, type: armorgear }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: HsCap, type: armorgear }
+    - name: Leather bookkeeping ledger for inn
+      type: miscgear
       system:
-        masteryLevelBase: 60
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mill
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: LKni
-      type: weapongear
-    - shortcode: RhApr
-      type: armorgear
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: HsCap
-      type: armorgear
-    - type: miscgear
-      name: Leather bookkeeping ledger for inn
-      system:
-        weight: 1.0
+        weight: 1
         value: 200
         durability: 3
-    - type: miscgear
-      name: Brewing supplies (herbs, spices, seeds)
+    - name: Brewing supplies (herbs, spices, seeds)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Measuring cups and scales
+    - name: Measuring cups and scales
+      type: miscgear
       system:
         weight: 0.8
         value: 100
         durability: 3
-    - shortcode: tndrbx
+    - { shortcode: tndrbx, type: miscgear }
+    - name: Sample bottles of various ales
       type: miscgear
-    - type: miscgear
-      name: Sample bottles of various ales
       system:
         quantity: 4
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Whetstone
-      system:
-        weight: 0.5
-        value: 100
-        durability: 3
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 35
-    - shortcode: bglgcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
-    - type: miscgear
-      name: Cooking tools
-      system:
-        weight: 2
-        value: 50
-        durability: 4
-    - type: miscgear
-      name: Serving dishes
-      system:
-        weight: 1.5
-        value: 100
-        durability: 3
+    - {
+        name: Whetstone,
+        type: miscgear,
+        system: { weight: 0.5, value: 100, durability: 3 },
+      }
+    - { shortcode: pence, type: miscgear, system: { quantity: 35 } }
+    - { shortcode: bglgcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
+    - {
+        name: Cooking tools,
+        type: miscgear,
+        system: { weight: 2, value: 50, durability: 4 },
+      }
+    - {
+        name: Serving dishes,
+        type: miscgear,
+        system: { weight: 1.5, value: 100, durability: 3 },
+      }
 ---
 
 **Home:** [[doc-wasetkara|Wasetkara]]

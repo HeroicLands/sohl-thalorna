@@ -15,10 +15,6 @@ type: being
 sohl:
   kbcat: construct
   archetype: 0
-  attributes:
-    str: 24
-    agl: 6
-    per: 13
   attrRollFormula:
     str: 1d6+21
     agl: 1d4+3
@@ -44,7 +40,10 @@ sohl:
       factors: []
       disabled: false
   defaultCombatGroup: null
-  items: []
+  items:
+    - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
 ---
 
 # Appearance {#appearance}

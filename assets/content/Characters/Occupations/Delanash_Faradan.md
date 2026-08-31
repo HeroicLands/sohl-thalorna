@@ -55,21 +55,6 @@ gear:
     - Bandg:3
 sohl:
   archetype: null
-  attributes:
-    agl: 14
-    aur: 11
-    cml: 11
-    cre: 8
-    dex: 13
-    elo: 11
-    emp: 12
-    end: 13
-    mor: 12
-    per: 10
-    rea: 12
-    str: 12
-    voi: 11
-    wil: 14
   body:
     structure:
       parts:
@@ -500,40 +485,29 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: mithara
-      type: affiliation
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 38
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 25
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 31
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 34
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 25
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mithara, type: affiliation }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 38 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 25 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 31 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 34 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 25 } }
 thalorna:
   realm: dunhartrbs
   region: dunhardsrtrgn

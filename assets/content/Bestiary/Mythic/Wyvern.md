@@ -16,16 +16,6 @@ type: being
 sohl:
   kbcat: mythic
   archetype: 0
-  attributes:
-    str: 24
-    end: 18
-    agl: 10
-    per: 17
-    snt: 3
-    aur: 3
-    wil: 13
-    rea: 4
-    cre: 2
   attrRollFormula:
     str: 1d6+21
     end: 1d6+15
@@ -248,30 +238,25 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 24
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
+    - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 70 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 24 },
+      }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
     - name: Bite
       type: skill
       system:

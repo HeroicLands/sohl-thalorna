@@ -49,21 +49,6 @@ traits:
       - a tattoo of a knight's helmet on the shoulder
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 12
-    dex: 16
-    agl: 12
-    per: 14
-    cml: 13
-    aur: 12
-    wil: 13
-    rea: 17
-    cre: 15
-    emp: 10
-    elo: 11
-    mor: 14
-    voi: 12
   body:
     structure:
       parts:
@@ -494,180 +479,86 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: horus
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Locksmith tools (picks, tension wrenches, feeler gauges)
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: horus, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WTunic, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Locksmith tools (picks, tension wrenches, feeler gauges)
+      type: miscgear
       system:
         weight: 0.6
         value: 100
         durability: 3
-    - type: miscgear
-      name: Templates for lock designs (parchment)
+    - name: Templates for lock designs (parchment)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Legal contracts and guild permits
+    - name: Legal contracts and guild permits
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Measuring calipers and rulers
+    - name: Measuring calipers and rulers
+      type: miscgear
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: bpchmd
-      type: containergear
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bpchmd, type: containergear }
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 **Home:** [[doc-wasetkara|Wasetkara]]

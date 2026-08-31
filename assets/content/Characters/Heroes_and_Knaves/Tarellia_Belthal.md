@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 11
-    dex: 12
-    agl: 13
-    per: 15
-    cml: 11
-    aur: 13
-    wil: 14
-    rea: 14
-    cre: 12
-    emp: 13
-    elo: 14
-    mor: 13
-    voi: 15
   body:
     structure:
       parts:
@@ -492,195 +477,107 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: florania
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: astr
-      type: mysticalability
-      system:
-        masteryLevelBase: 52
-    - shortcode: tarot
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Scroll case with astrological charts
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: florania, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 11 } }
+    - {
+        shortcode: astr,
+        type: mysticalability,
+        system: { masteryLevelBase: 52 },
+      }
+    - {
+        shortcode: tarot,
+        type: mysticalability,
+        system: { masteryLevelBase: 39 },
+      }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WTunic, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Scroll case with astrological charts
+      type: miscgear
       system:
         weight: 0.4
         value: 100
         durability: 3
-    - type: miscgear
-      name: Brass surveyor's compass
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Star maps (portable, rolled)
-      system:
-        quantity: 2
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Nautical almanac
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Tarot deck and divining cards
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Astronomical calculator and tables
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - name: Brass surveyor's compass
       type: miscgear
-    - shortcode: StdRtns
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Star maps (portable, rolled)
       type: miscgear
       system:
         quantity: 2
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: bpchmd
-      type: containergear
+        weight: 1
+        value: 100
+        durability: 3
+    - {
+        name: Nautical almanac,
+        type: miscgear,
+        system: { weight: 1, value: 100, durability: 3 },
+      }
+    - name: Tarot deck and divining cards
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Astronomical calculator and tables
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 # Appearance {#appearance}

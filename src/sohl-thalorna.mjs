@@ -30,8 +30,8 @@
 const MODULE_ID = "sohl-thalorna";
 
 Hooks.once("init", () => {
-    const module = game.modules.get(MODULE_ID);
-    console.log(
-        `${MODULE_ID} | Thalorna Setting ${module?.version} initializing`,
-    );
+  const module = game.modules.get(MODULE_ID);
+  console.log(
+    `${MODULE_ID} | Thalorna Setting ${module?.version} initializing`,
+  );
 });

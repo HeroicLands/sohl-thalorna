@@ -1,7 +1,7 @@
 ---
 aliases:
   - Khazri
-tags: 
+tags:
   - draft
 name:
   full: Khazri Language

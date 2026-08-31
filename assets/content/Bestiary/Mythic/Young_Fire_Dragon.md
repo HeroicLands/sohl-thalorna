@@ -16,19 +16,6 @@ type: being
 sohl:
   kbcat: mythic
   archetype: 0
-  attributes:
-    str: 36
-    end: 27
-    dex: 6
-    agl: 10
-    per: 15
-    snt: 3
-    aur: 12
-    wil: 17
-    rea: 11
-    cre: 9
-    emp: 7
-    elo: 11
   attrRollFormula:
     str: 1d6+33
     end: 1d6+24
@@ -310,26 +297,27 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 70
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
+    - { shortcode: str, type: attribute, system: { scoreBase: 36 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 27 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 80 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 70 },
+      }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
     - name: Bite
       type: skill
       system:

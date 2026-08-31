@@ -20,21 +20,6 @@ portrait: images/being/grosdrnrgd-portrait.webp
 type: being
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 10
-    dex: 11
-    agl: 12
-    per: 15
-    cml: 12
-    aur: 17
-    wil: 14
-    rea: 14
-    cre: 13
-    emp: 12
-    elo: 12
-    mor: 11
-    voi: 17
   body:
     structure:
       parts:
@@ -465,175 +450,98 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: freyr
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: mill
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: trnc
-      type: mysticalability
-      system:
-        masteryLevelBase: 60
-    - shortcode: Stf
-      type: weapongear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhMntl
-      type: armorgear
-    - shortcode: RhShoe
-      type: armorgear
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: freyr, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: mill, type: skill, system: { masteryLevelBase: 12 } }
+    - {
+        shortcode: trnc,
+        type: mysticalability,
+        system: { masteryLevelBase: 60 },
+      }
+    - { shortcode: Stf, type: weapongear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhMntl, type: armorgear }
+    - { shortcode: RhShoe, type: armorgear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - name: Bone runes for divination (carved set)
       type: miscgear
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 3
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - type: miscgear
-      name: Bone runes for divination (carved set)
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ritual bells and charms
+    - name: Ritual bells and charms
+      type: miscgear
       system:
         weight: 0.3
         value: 100
         durability: 3
-    - type: miscgear
-      name: Herbal bundle for smoke-calling
+    - name: Herbal bundle for smoke-calling
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Offering bowl (pewter)
+    - name: Offering bowl (pewter)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Leather journal of visions and omens
+    - name: Leather journal of visions and omens
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Crow feathers (collected tokens)
+    - name: Crow feathers (collected tokens)
+      type: miscgear
       system:
         quantity: 7
         weight: 1
         value: 100
         durability: 3
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 thalorna:
   realm: kingdmnrgd
   region: nrdlndsrgn
