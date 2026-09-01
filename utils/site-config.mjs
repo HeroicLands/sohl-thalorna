@@ -81,9 +81,7 @@ export function sitePathPrefix(baseURL = readBaseURL()) {
     try {
         pathname = new URL(baseURL).pathname;
     } catch {
-        throw new Error(
-            `site-config: baseURL ${JSON.stringify(baseURL)} is not a URL`,
-        );
+        throw new Error(`site-config: baseURL ${JSON.stringify(baseURL)} is not a URL`);
     }
     if (!pathname.startsWith("/")) pathname = `/${pathname}`;
     if (!pathname.endsWith("/")) pathname = `${pathname}/`;

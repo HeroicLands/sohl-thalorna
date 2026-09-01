@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 11
-    dex: 15
-    agl: 12
-    per: 14
-    cml: 15
-    aur: 13
-    wil: 12
-    rea: 11
-    cre: 16
-    emp: 14
-    elo: 12
-    mor: 15
-    voi: 12
   body:
     structure:
       parts:
@@ -492,180 +477,90 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: ahurdaen
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: LtTunic
-      type: armorgear
-    - shortcode: LtBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: LtMntl
-      type: armorgear
-    - type: miscgear
-      name: Perfumery tools (pestles, mortars, blending rods)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Glass bottles for fragrance storage (decorative, 12)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Rare botanical essences (oils, extracts)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Measuring scales for precise blending
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Parchment for fragrance formulas
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: ahurdaen, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: LtTunic, type: armorgear }
+    - { shortcode: LtBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: LtMntl, type: armorgear }
+    - name: Perfumery tools (pestles, mortars, blending rods)
       type: miscgear
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bpchmd
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Glass bottles for fragrance storage (decorative, 12)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Rare botanical essences (oils, extracts)
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Measuring scales for precise blending
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Parchment for fragrance formulas
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 # Appearance {#appearance}

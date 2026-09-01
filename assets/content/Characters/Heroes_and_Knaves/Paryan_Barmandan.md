@@ -45,21 +45,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 12
-    dex: 15
-    agl: 14
-    per: 16
-    cml: 14
-    aur: 12
-    wil: 12
-    rea: 13
-    cre: 18
-    emp: 13
-    elo: 12
-    mor: 15
-    voi: 13
   body:
     structure:
       parts:
@@ -490,183 +475,98 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: aravesta
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Jewelry-making tools (set)
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aravesta, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Jewelry-making tools (set)
+      type: miscgear
       system:
         weight: 2
         value: 50
         durability: 4
-    - type: miscgear
-      name: Polishing cloths and materials
+    - name: Polishing cloths and materials
+      type: miscgear
       system:
         quantity: 3
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Gems and semi-precious stones (various)
+    - name: Gems and semi-precious stones (various)
+      type: miscgear
       system:
         quantity: 5
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Metalworking supplies
+    - name: Metalworking supplies
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Design sketches (portfolio)
+    - name: Design sketches (portfolio)
+      type: miscgear
       system:
         quantity: 1
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Parchment and charcoal (drawing supplies)
+    - name: Parchment and charcoal (drawing supplies)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: elemental
   archetype: 0
-  attributes:
-    str: 15
-    end: 15
-    dex: 13
-    agl: 17
-    per: 17
-    aur: 15
-    wil: 13
-    rea: 9
-    cre: 13
   attrRollFormula:
     str: 1d4+12
     end: 1d4+12
@@ -231,30 +221,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 42
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 68
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 38
+    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
     - name: Lightning-Charged Talons
       type: skill
       system:

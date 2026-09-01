@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 21
-    end: 16
-    dex: 15
-    agl: 17
-    per: 16
-    aur: 10
-    wil: 13
-    rea: 7
-    cre: 6
   attrRollFormula:
     str: 1d6+17
     end: 1d6+12
@@ -164,30 +154,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 48
+    - { shortcode: str, type: attribute, system: { scoreBase: 21 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 48 } }
     - name: Venomous Bite
       type: skill
       system:

@@ -42,23 +42,21 @@ traits:
 sohl:
   archetype: null
   items:
-    - shortcode: odinn
-      type: affiliation
-  attributes:
-    str: 8
-    end: 9
-    dex: 10
-    agl: 9
-    per: 17
-    cml: 10
-    aur: 16
-    wil: 15
-    rea: 18
-    cre: 16
-    emp: 13
-    elo: 15
-    mor: 14
-    voi: 13
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: odinn, type: affiliation }
   body:
     structure:
       parts:

@@ -49,21 +49,6 @@ traits:
       - a scar on the left ear
 sohl:
   archetype: null
-  attributes:
-    str: 8
-    end: 13
-    dex: 14
-    agl: 12
-    per: 13
-    cml: 11
-    aur: 12
-    wil: 14
-    rea: 15
-    cre: 12
-    emp: 14
-    elo: 10
-    mor: 13
-    voi: 14
   body:
     structure:
       parts:
@@ -494,192 +479,99 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: ra
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: alch
-      type: mysticalability
-      system:
-        masteryLevelBase: 60
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: HsTunic
-      type: armorgear
-    - shortcode: HsBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Wicker basket with fresh herbs
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: ra, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 60 } }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Wicker basket with fresh herbs
+      type: miscgear
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Herbal remedies (prepared tinctures)
+    - name: Herbal remedies (prepared tinctures)
+      type: miscgear
       system:
         quantity: 8
         value: 8
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Alchemical laboratory tools (mortar, pestle, scales)
+    - name: Alchemical laboratory tools (mortar, pestle, scales)
+      type: miscgear
       system:
         weight: 1
         value: 5
         durability: 3
-    - type: miscgear
-      name: Glass bottles (assorted sizes)
+    - name: Glass bottles (assorted sizes)
+      type: miscgear
       system:
         quantity: 6
         value: 2
         weight: 1
         durability: 3
-    - type: miscgear
-      name: Herbal reference texts (personal notes)
+    - name: Herbal reference texts (personal notes)
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ritual mourning mark (ear scar, spiritual significance)
+    - name: Ritual mourning mark (ear scar, spiritual significance)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bktlrg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bktlrg, type: containergear }
 ---
 
 **Home:** [[doc-meruhotep|Meru-Hotep]]

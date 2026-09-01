@@ -61,15 +61,9 @@ import fs from "node:fs";
 import path from "node:path";
 import yaml from "yaml";
 
-import {
-    contentSlug,
-    findSlugCollisions,
-} from "@heroiclands/package-build/engine/content-slug";
+import { contentSlug, findSlugCollisions } from "@heroiclands/package-build/engine/content-slug";
 import { expandContentTables } from "@heroiclands/package-build/engine/content-tables";
-import {
-    resolveSiteWikilinks,
-    frontmatterWikilinks,
-} from "./site-wikilinks.mjs";
+import { resolveSiteWikilinks, frontmatterWikilinks } from "./site-wikilinks.mjs";
 import {
     writeManifests,
     loadForeignManifests,
@@ -161,9 +155,7 @@ const MANIFEST_OUT = path.join(REPO, "build/manifests");
  */
 const legacyUrls = (() => {
     try {
-        return JSON.parse(
-            fs.readFileSync(path.join(REPO, "assets/legacy-urls.json"), "utf8"),
-        );
+        return JSON.parse(fs.readFileSync(path.join(REPO, "assets/legacy-urls.json"), "utf8"));
     } catch {
         return {};
     }
@@ -200,9 +192,7 @@ function protectCode(body, transform) {
         /```[\s\S]*?```|~~~[\s\S]*?~~~|``[^`]*``|`[^`]*`/g,
         (m) => `\u0000${stash.push(m) - 1}\u0000`,
     );
-    return transform(masked).replace(/\u0000(\d+)\u0000/g, (_m, i) =>
-        String(stash[Number(i)]),
-    );
+    return transform(masked).replace(/\u0000(\d+)\u0000/g, (_m, i) => String(stash[Number(i)]));
 }
 
 /** Gear item `type` → the `sohl.gear` group key the equipment sidebar renders. */
@@ -243,8 +233,7 @@ function deriveBeingSohl(sohl, index) {
 
     const isMap = (v) => v && typeof v === "object" && !Array.isArray(v);
     const nonEmpty = (v) => Array.isArray(v) && v.length > 0;
-    const lookup = (type, shortcode) =>
-        shortcode ? index.get(`${type}:${shortcode}`) : undefined;
+    const lookup = (type, shortcode) => (shortcode ? index.get(`${type}:${shortcode}`) : undefined);
 
     // Skills: { shortcode: masteryLevelBase }.
     if (!(isMap(out.skills) && Object.keys(out.skills).length > 0)) {
@@ -266,13 +255,9 @@ function deriveBeingSohl(sohl, index) {
             if (!isMap(it)) continue;
             const key = GEAR_TYPE_TO_KEY[it.type];
             if (!key) continue;
-            const shortcode =
-                typeof it.shortcode === "string" ? it.shortcode : undefined;
+            const shortcode = typeof it.shortcode === "string" ? it.shortcode : undefined;
             const ref = lookup(it.type, shortcode);
-            const name =
-                (typeof it.name === "string" && it.name) ||
-                ref?.name ||
-                shortcode;
+            const name = (typeof it.name === "string" && it.name) || ref?.name || shortcode;
             if (!name) continue;
             const entry = { name };
             if (shortcode) entry.shortcode = shortcode;
@@ -287,8 +272,7 @@ function deriveBeingSohl(sohl, index) {
     const talents = [];
     for (const it of items) {
         if (!isMap(it) || it.type !== "mysticalability") continue;
-        const shortcode =
-            typeof it.shortcode === "string" ? it.shortcode : undefined;
+        const shortcode = typeof it.shortcode === "string" ? it.shortcode : undefined;
         const ref = lookup("mysticalability", shortcode);
         const name = (typeof it.name === "string" && it.name) || ref?.name;
         if (!name) continue;
@@ -353,9 +337,7 @@ function applyHistory(data, fm, slug, url) {
     // The artwork name is the earliest address it was uploaded under: deriving a
     // new URL does not rename a file on the CDN.
     data.artwork =
-        previous.length > 0 ?
-            (previous[0].split("/").filter(Boolean).pop() ?? slug)
-        :   slug;
+        previous.length > 0 ? (previous[0].split("/").filter(Boolean).pop() ?? slug) : slug;
 }
 
 /** Serialize a page as YAML front matter plus its body. */
@@ -414,9 +396,7 @@ const frontmatterLinks = [];
  */
 const packageErrors = [];
 
-for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
-    CONTENT_SRC,
-)) {
+for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(CONTENT_SRC)) {
     if (!fm) continue;
 
     const rel = path.relative(CONTENT_SRC, absPath).split(path.sep).join("/");
@@ -480,10 +460,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
         }
     }
 
-    const url =
-        isLanding ?
-            `${SITE_BASE}${section}/`
-        :   `${SITE_BASE}${section}/${slug}/`;
+    const url = isLanding ? `${SITE_BASE}${section}/` : `${SITE_BASE}${section}/${slug}/`;
 
     entries.push({
         fm,
@@ -517,9 +494,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(
 // package used to be skipped in silence, which is how a whole tree compiled to
 // zero pages and exited 0 (#78).
 if (packageErrors.length) {
-    console.error(
-        `\n✖ ${packageErrors.length} note(s) declare the retired \`package:\` field:`,
-    );
+    console.error(`\n✖ ${packageErrors.length} note(s) declare the retired \`package:\` field:`);
     for (const e of packageErrors) console.error(`  ${e.reason}`);
     console.error("");
     process.exit(1);
@@ -529,9 +504,7 @@ if (packageErrors.length) {
 // Refused before a single page is written: a wikilink in frontmatter is copied
 // through unresolved and publishes as literal `[[…]]` (#35).
 if (frontmatterLinks.length) {
-    console.error(
-        `\n✖ ${frontmatterLinks.length} wikilink(s) authored in frontmatter:`,
-    );
+    console.error(`\n✖ ${frontmatterLinks.length} wikilink(s) authored in frontmatter:`);
     for (const e of frontmatterLinks) {
         console.error(`  ${e.link}  (${e.file}: ${e.path})`);
     }
@@ -552,11 +525,8 @@ if (slugErrors.length) {
     process.exit(1);
 }
 if (unaddressable.length) {
-    console.warn(
-        `\n${unaddressable.length} note(s) route nowhere and are not published:`,
-    );
-    for (const e of unaddressable)
-        console.warn(`  ${e.reason}  (in ${e.file})`);
+    console.warn(`\n${unaddressable.length} note(s) route nowhere and are not published:`);
+    for (const e of unaddressable) console.warn(`  ${e.reason}  (in ${e.file})`);
 }
 const collisions = findSlugCollisions(
     entries.map((e) => ({ sec: e.sec, slug: e.slug, src: e.rel })),
@@ -741,25 +711,19 @@ const wikiCtx = (src, type = null) => ({
 
 /** Published URL → the `{ title, url, type }` a `related` entry carries. */
 const byUrl = new Map(
-    entries.map((e) => [
-        e.url,
-        { title: e.name, url: e.url, type: String(e.fm.type) },
-    ]),
+    entries.map((e) => [e.url, { title: e.name, url: e.url, type: String(e.fm.type) }]),
 );
 /** url → outbound links, and url → inbound links. */
 const mentions = new Map();
 const backlinks = new Map();
 
 for (const e of entries) {
-    const { markdown: expanded, errors: tErrors } = expandContentTables(
-        e.body,
-        {
-            docs: tableDocs,
-            linkable: tableLinkable,
-            source: e.rel,
-            self: { fm: e.fm, path: e.relPath },
-        },
-    );
+    const { markdown: expanded, errors: tErrors } = expandContentTables(e.body, {
+        docs: tableDocs,
+        linkable: tableLinkable,
+        source: e.rel,
+        self: { fm: e.fm, path: e.relPath },
+    });
     tableErrors.push(...tErrors);
 
     // One link to a page is one relation however many times it is written, and a
@@ -807,8 +771,7 @@ for (const e of entries) {
     // Most notes carry `title: ""` — a placeholder the Obsidian template writes,
     // not an authored title. It is *present*, so `??` would keep it and publish a
     // page with no heading; the name is the fallback whenever it is blank.
-    const title =
-        typeof fm.title === "string" && fm.title.trim() ? fm.title : name;
+    const title = typeof fm.title === "string" && fm.title.trim() ? fm.title : name;
     // The page carries the package this build **derived**, whether or not the
     // note declared one, so a published page is self-describing (#78, and
     // HeroicLands/package-build#65 for the same defect in `content-build site`).
@@ -844,10 +807,7 @@ for (const e of entries) {
     if (ment?.length) rel.mentions = [...ment].sort(byTitle);
     if (rel.backlinks || rel.mentions) data.related = rel;
 
-    const dest =
-        isLanding ?
-            path.join(OUT, sec, "_index.md")
-        :   path.join(OUT, sec, `${slug}.md`);
+    const dest = isLanding ? path.join(OUT, sec, "_index.md") : path.join(OUT, sec, `${slug}.md`);
     fs.mkdirSync(path.dirname(dest), { recursive: true });
     fs.writeFileSync(dest, stringifyPage(data, e.rendered));
     written++;
@@ -877,9 +837,7 @@ for (const page of homepages) {
 // A section whose collection note does not exist still needs a landing, or Hugo
 // auto-humanizes the directory name ("Mysticalabilities") and the section lists
 // nothing. Emit a minimal one for any section no collection note claimed.
-const landings = new Set(
-    entries.filter((e) => e.isLanding).map((e) => e.sec.toLowerCase()),
-);
+const landings = new Set(entries.filter((e) => e.isLanding).map((e) => e.sec.toLowerCase()));
 let stubs = 0;
 for (const sec of knownSections) {
     if (landings.has(sec)) continue;
@@ -911,9 +869,7 @@ for (const w of writeManifests(
     // rather than inheriting ours (#1465).
     { [CONTENT_PACKAGE]: SITE_BASE },
 )) {
-    console.log(
-        `site-content: manifest ${w.package} — ${w.count} addressable note(s)`,
-    );
+    console.log(`site-content: manifest ${w.package} — ${w.count} addressable note(s)`);
 }
 if (!manifests.complete) {
     console.warn(
@@ -926,8 +882,7 @@ if (!manifests.complete) {
 // Fail the build on any table directive that could not be honoured.
 if (tableErrors.length) {
     console.error(`\n✖ ${tableErrors.length} bad content table(s):`);
-    for (const e of tableErrors)
-        console.error(`  ${e.reason}  (in ${e.source})`);
+    for (const e of tableErrors) console.error(`  ${e.reason}  (in ${e.source})`);
     process.exit(1);
 }
 

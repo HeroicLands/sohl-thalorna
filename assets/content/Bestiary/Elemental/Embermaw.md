@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: elemental
   archetype: 0
-  attributes:
-    str: 30
-    end: 15
-    dex: 9
-    agl: 11
-    per: 11
-    aur: 15
-    wil: 13
-    rea: 9
-    cre: 9
   attrRollFormula:
     str: 1d6+27
     end: 1d4+12
@@ -266,30 +256,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 42
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 58
+    - { shortcode: str, type: attribute, system: { scoreBase: 30 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 58 } }
     - name: Ember Bite
       type: skill
       system:

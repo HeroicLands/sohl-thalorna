@@ -42,23 +42,21 @@ traits:
 sohl:
   archetype: null
   items:
-    - shortcode: ymir
-      type: affiliation
-  attributes:
-    str: 18
-    end: 19
-    dex: 14
-    agl: 15
-    per: 16
-    cml: 6
-    aur: 15
-    wil: 16
-    rea: 11
-    cre: 9
-    emp: 10
-    elo: 7
-    mor: 12
-    voi: 8
+    - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: ymir, type: affiliation }
   body:
     structure:
       parts:

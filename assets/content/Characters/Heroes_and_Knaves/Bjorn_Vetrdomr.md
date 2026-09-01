@@ -48,21 +48,6 @@ traits:
       - a tattoo of a snake on the chest
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 12
-    dex: 14
-    agl: 10
-    per: 15
-    cml: 14
-    aur: 13
-    wil: 12
-    rea: 11
-    cre: 15
-    emp: 16
-    elo: 14
-    mor: 14
-    voi: 12
   body:
     structure:
       parts:
@@ -493,166 +478,84 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: tyr
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - type: miscgear
-      name: Wooden cask (for ale storage and service)
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: tyr, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - name: Wooden cask (for ale storage and service)
+      type: miscgear
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Cooking and brewing supplies
+    - name: Cooking and brewing supplies
+      type: miscgear
       system:
         weight: 1.5
         quantity: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Innkeeper's ledger (guest records)
+    - name: Innkeeper's ledger (guest records)
+      type: miscgear
       system:
         weight: 0.5
         value: 2
         durability: 3
-    - type: miscgear
-      name: Measuring vessels and cups
+    - name: Measuring vessels and cups
+      type: miscgear
       system:
         quantity: 6
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bktlrg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bktlrg, type: containergear }
 ---
 
 # Appearance {#appearance}

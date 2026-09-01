@@ -48,21 +48,6 @@ traits:
       - a tattoo of a tree on the forearm
 sohl:
   archetype: null
-  attributes:
-    str: 14
-    end: 16
-    dex: 10
-    agl: 9
-    per: 11
-    cml: 8
-    aur: 10
-    wil: 13
-    rea: 12
-    cre: 9
-    emp: 8
-    elo: 7
-    mor: 11
-    voi: 10
   body:
     structure:
       parts:
@@ -493,192 +478,90 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sacredforge
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 8
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 18
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: RhApr
-      type: armorgear
-    - shortcode: RhTunic
-      type: armorgear
-    - shortcode: RhBrch
-      type: armorgear
-    - shortcode: RhKBoot
-      type: armorgear
-    - type: miscgear
-      name: Kiln maintenance tools (shovel, rake, poker)
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: sacredforge, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 8 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 18 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: RhApr, type: armorgear }
+    - { shortcode: RhTunic, type: armorgear }
+    - { shortcode: RhBrch, type: armorgear }
+    - { shortcode: RhKBoot, type: armorgear }
+    - name: Kiln maintenance tools (shovel, rake, poker)
+      type: miscgear
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Leather gloves (heavy work)
+    - name: Leather gloves (heavy work)
+      type: miscgear
       system:
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Charcoal samples (assorted grades)
+    - name: Charcoal samples (assorted grades)
+      type: miscgear
       system:
         weight: 1
         quantity: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Firewood bundle
-      system:
-        weight: 2
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Wooden markers and measuring tools
+    - { name: Firewood bundle, type: miscgear, system: { weight: 2, value: 100, durability: 3 } }
+    - name: Wooden markers and measuring tools
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bktlrg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bktlrg, type: containergear }
 ---
 
 # Appearance {#appearance}

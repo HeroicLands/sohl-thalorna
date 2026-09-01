@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    end: 6
-    dex: 15
-    agl: 15
-    per: 11
-    aur: 11
-    wil: 9
-    rea: 8
-    cre: 11
-    str: 8
   attrRollFormula:
     end: 1d4+3
     dex: 1d4+12
@@ -234,30 +224,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 18
+    - { shortcode: end, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 18 } }
     - name: Crystalline Bite
       type: skill
       system:

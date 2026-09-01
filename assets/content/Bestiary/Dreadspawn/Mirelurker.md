@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 13
-    end: 13
-    dex: 11
-    agl: 11
-    per: 9
-    aur: 8
-    wil: 13
-    rea: 5
-    cre: 4
   attrRollFormula:
     str: 1d4+10
     end: 1d4+10
@@ -511,30 +501,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 33
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 33 } }
     - name: Crushing Jaws
       type: skill
       system:

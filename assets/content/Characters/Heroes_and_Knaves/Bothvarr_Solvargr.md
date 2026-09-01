@@ -48,21 +48,6 @@ traits:
       - a tattoo of a lion's mane on the chest
 sohl:
   archetype: null
-  attributes:
-    str: 15
-    end: 14
-    dex: 11
-    agl: 12
-    per: 13
-    cml: 9
-    aur: 11
-    wil: 14
-    rea: 12
-    cre: 10
-    emp: 9
-    elo: 10
-    mor: 12
-    voi: 11
   body:
     structure:
       parts:
@@ -493,181 +478,83 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: thorr
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: MHbk
-      type: armorgear
-    - shortcode: MLeg
-      type: armorgear
-    - shortcode: MCui
-      type: armorgear
-    - shortcode: Pl34Hlm
-      type: armorgear
-    - type: miscgear
-      name: Whetstone and sharpening tools
+    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: thorr, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: MHbk, type: armorgear }
+    - { shortcode: MLeg, type: armorgear }
+    - { shortcode: MCui, type: armorgear }
+    - { shortcode: Pl34Hlm, type: armorgear }
+    - name: Whetstone and sharpening tools
+      type: miscgear
       system:
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - shortcode: StdRtns
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
+    - name: Bedroll (military style)
       type: miscgear
-      system:
-        quantity: 3
-    - type: miscgear
-      name: Bedroll (military style)
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: medsupil
+    - { shortcode: medsupil, type: miscgear, system: { quantity: 4 } }
+    - name: Military insignia and documents
       type: miscgear
-      system:
-        quantity: 4
-    - type: miscgear
-      name: Military insignia and documents
       system:
         value: 2
         weight: 1
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: backpk
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: backpk, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 25
-    end: 23
-    dex: 15
-    agl: 13
-    per: 15
-    aur: 14
-    wil: 21
-    rea: 9
-    cre: 7
   attrRollFormula:
     str: 1d6+21
     end: 1d6+19
@@ -238,30 +228,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 51
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 60
+    - { shortcode: str, type: attribute, system: { scoreBase: 25 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 23 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 21 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 90 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 51 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 60 } }
     - name: Slashing Claws
       type: skill
       system:

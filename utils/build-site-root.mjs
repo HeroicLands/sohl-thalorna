@@ -132,9 +132,6 @@ function main() {
     console.log(`build-site-root: wrote ${SITE_OUT}/_headers.`);
 }
 
-if (
-    process.argv[1] &&
-    path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
-) {
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
     main();
 }

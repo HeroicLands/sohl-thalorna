@@ -43,10 +43,7 @@
     font-weight: var(--sohl-unresolved-link-weight, 700);
     color: var(--sohl-unresolved-link-color, light-dark(#b3261e, #ff8a80));
     /* Kept for a reader who cannot separate the hue from body text. */
-    text-decoration: var(
-        --sohl-unresolved-link-decoration,
-        underline dotted currentcolor
-    );
+    text-decoration: var(--sohl-unresolved-link-decoration, underline dotted currentcolor);
     text-underline-offset: 0.15em;
     cursor: help;
 }

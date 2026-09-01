@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 21
-    end: 19
-    dex: 9
-    agl: 8
-    per: 11
-    aur: 8
-    wil: 14
-    rea: 5
-    cre: 5
   attrRollFormula:
     str: 1d6+17
     end: 1d6+15
@@ -174,30 +164,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 50
+    - { shortcode: str, type: attribute, system: { scoreBase: 21 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 50 } }
     - name: Mandible Crush
       type: skill
       system:

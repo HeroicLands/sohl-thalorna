@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 17
-    end: 19
-    dex: 12
-    agl: 11
-    per: 13
-    aur: 11
-    wil: 14
-    rea: 7
-    cre: 6
   attrRollFormula:
     str: 1d6+13
     end: 1d6+15
@@ -155,30 +145,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 36
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 45
+    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 45 } }
     - name: Pincer Crush
       type: skill
       system:

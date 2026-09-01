@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 20
-    end: 18
-    dex: 14
-    agl: 14
-    per: 16
-    aur: 10
-    wil: 16
-    rea: 12
-    cre: 10
   attrRollFormula:
     str: 1d6+16
     end: 1d6+14
@@ -159,30 +149,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 48
+    - { shortcode: str, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 48 } }
     - name: Crushing Pincer
       type: skill
       system:

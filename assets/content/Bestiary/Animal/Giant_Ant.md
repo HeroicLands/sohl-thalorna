@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 13
-    end: 16
-    dex: 11
-    agl: 13
-    per: 12
-    aur: 9
-    wil: 11
-    rea: 7
-    cre: 5
   attrRollFormula:
     str: 1d6+9
     end: 1d6+12
@@ -174,30 +164,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 38
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
     - name: Mandible Bite
       type: skill
       system:

@@ -45,21 +45,6 @@ traits:
       - tattoo of a serpent on his forearm
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 10
-    dex: 13
-    agl: 12
-    per: 12
-    cml: 14
-    aur: 11
-    wil: 9
-    rea: 13
-    cre: 15
-    emp: 13
-    elo: 16
-    mor: 3
-    voi: 14
   body:
     structure:
       parts:
@@ -490,111 +475,51 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 72
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: common
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 18
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 25
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 35
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: ShrtSwd
-      type: weapongear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: CLeg
-      type: armorgear
-    - shortcode: LtVest
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: bpchmd
-      type: containergear
-    - shortcode: pence
-      type: miscgear
-      system: quantity:31
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 72 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 18 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 25 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 35 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: ShrtSwd, type: weapongear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: CLeg, type: armorgear }
+    - { shortcode: LtVest, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: bpchmd, type: containergear }
+    - { shortcode: pence, type: miscgear, system: quantity:31 }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
 thalorna:
   realm: vrystwldtrbs
   region: vrystwald

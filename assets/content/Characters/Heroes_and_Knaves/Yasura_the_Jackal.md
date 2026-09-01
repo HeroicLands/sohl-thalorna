@@ -50,21 +50,6 @@ traits:
       - A long scar from brow to jaw on the left side
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 14
-    dex: 14
-    agl: 16
-    per: 14
-    cml: 12
-    aur: 10
-    wil: 16
-    rea: 13
-    cre: 12
-    emp: 8
-    elo: 12
-    mor: 6
-    voi: 11
   body:
     structure:
       parts:
@@ -495,116 +480,57 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: morvana
-      type: affiliation
-    - shortcode: common
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: lang
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 72
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 68
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: Scmtr
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: Shkn
-      type: weapongear
-    - shortcode: ArwStd
-      type: projectilegear
-      system:
-        quantity: 20
-    - shortcode: KBrst
-      type: armorgear
-    - shortcode: LtSTunic
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: LtCap
-      type: armorgear
-    - type: miscgear
-      name: War-horse (desert-bred mare)
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: morvana, type: affiliation }
+    - { shortcode: common, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: lang, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 72 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: Scmtr, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: Shkn, type: weapongear }
+    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 20 } }
+    - { shortcode: KBrst, type: armorgear }
+    - { shortcode: LtSTunic, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: LtCap, type: armorgear }
+    - name: War-horse (desert-bred mare)
+      type: miscgear
       system:
         weight: 0
         value: 2500
         durability: 5
-    - shortcode: HvyBdrl
-      type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-      system:
-        quantity: 5
-    - shortcode: goldcrown
-      type: miscgear
-      system:
-        quantity: 25
-    - shortcode: wtrskin
-      type: containergear
-      system:
-        quantity: 2
-    - shortcode: backpk
-      type: containergear
+    - { shortcode: HvyBdrl, type: miscgear }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
+    - { shortcode: goldcrown, type: miscgear, system: { quantity: 25 } }
+    - { shortcode: wtrskin, type: containergear, system: { quantity: 2 } }
+    - { shortcode: backpk, type: containergear }
 ---
 
 # Appearance {#appearance}

@@ -198,8 +198,7 @@ export function resolveSiteWikilinks(body, ctx) {
         const bar = inner.indexOf("|");
         const linkPart = (bar === -1 ? inner : inner.slice(0, bar)).trim();
         const hash = linkPart.indexOf("#");
-        const target = (
-            hash === -1 ? linkPart : linkPart.slice(0, hash)).trim();
+        const target = (hash === -1 ? linkPart : linkPart.slice(0, hash)).trim();
         const anchor = hash === -1 ? "" : linkPart.slice(hash + 1).trim();
         const display = bar === -1 ? null : inner.slice(bar + 1).trim();
 
@@ -234,9 +233,7 @@ export function resolveSiteWikilinks(body, ctx) {
             // `type-shortcode` is the canonical form (#1398), and a hyphen inside a
             // note *name* ("Grukar-ahk") is not one, which is why the rule is the
             // packs' own (#1409).
-            const text =
-                display ??
-                (isAddress(target, ctx.contentTypes) ? hit.name : target);
+            const text = display ?? (isAddress(target, ctx.contentTypes) ? hit.name : target);
             // A pack-only package publishes Foundry addresses and no pages (#1516),
             // so its entries carry no `path` and resolve to no URL. The address is
             // real — not a typo, and not a build failure — but there is nothing on
@@ -248,15 +245,13 @@ export function resolveSiteWikilinks(body, ctx) {
         }
 
         const slash = target.indexOf("/");
-        const prefix =
-            slash === -1 ? null : target.slice(0, slash).toLowerCase();
+        const prefix = slash === -1 ? null : target.slice(0, slash).toLowerCase();
         // Deliberately *not* extended to the hyphen form, which is also how a note
         // addresses content in a package this build does not publish. Nothing in
         // the syntax separates that from a typo, so failing here would break the
         // build on correct content.
         const badQualified =
-            prefix !== null &&
-            (ctx.sections.has(prefix) || ctx.contentTypes.has(prefix));
+            prefix !== null && (ctx.sections.has(prefix) || ctx.contentTypes.has(prefix));
         // The hyphen form is the canonical address (#1398) and is what the authored
         // content writes. It cannot be guarded while some packages are invisible
         // here: a Thalorna note addresses `skill-climb`, a real note in the `sohl`

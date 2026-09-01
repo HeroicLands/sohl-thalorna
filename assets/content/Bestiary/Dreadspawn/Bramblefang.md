@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 15
-    end: 13
-    dex: 11
-    agl: 13
-    per: 9
-    aur: 11
-    wil: 11
-    rea: 8
-    cre: 8
   attrRollFormula:
     str: 1d4+12
     end: 1d4+10
@@ -249,30 +239,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 35
+    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 35 } }
     - name: Tearing Bite
       type: skill
       system:

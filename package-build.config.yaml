@@ -43,12 +43,7 @@ itemBuilders: sohl
 # them; what is left after that is authoring debt in this repository.
 packs:
     - { name: items, label: Items, type: Item, folders: item-folders.yaml }
-    - {
-          name: journals,
-          label: Journals,
-          type: JournalEntry,
-          folders: journal-folders.yaml,
-      }
+    - { name: journals, label: Journals, type: JournalEntry, folders: journal-folders.yaml }
     - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
 
 publish:

@@ -48,21 +48,6 @@ traits:
       - a scar running down the right leg
 sohl:
   archetype: null
-  attributes:
-    str: 10
-    end: 12
-    dex: 15
-    agl: 13
-    per: 14
-    cml: 11
-    aur: 11
-    wil: 12
-    rea: 13
-    cre: 16
-    emp: 15
-    elo: 12
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -493,186 +478,93 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: varakpnthn
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtApn
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Wooden crate for toy supplies and materials
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: varakpnthn, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WTunic, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtApn, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Wooden crate for toy supplies and materials
+      type: miscgear
       system:
         weight: 2.2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Carving and woodworking tools (chisels, gouges, knives)
+    - name: Carving and woodworking tools (chisels, gouges, knives)
+      type: miscgear
       system:
         weight: 0.7
         value: 50
         durability: 4
-    - type: miscgear
-      name: Paintbrushes and paint pigments
+    - name: Paintbrushes and paint pigments
+      type: miscgear
       system:
         quantity: 2
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wooden blocks (assorted sizes, blanks for carving)
+    - name: Wooden blocks (assorted sizes, blanks for carving)
+      type: miscgear
       system:
         quantity: 3
-        weight: 1.0
+        weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ceramic paints and glazes
+    - name: Ceramic paints and glazes
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: bpchmd
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 # Appearance {#appearance}

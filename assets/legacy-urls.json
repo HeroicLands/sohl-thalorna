@@ -142,10 +142,7 @@
     "being:gnstnvrnhm": "/thalorna/character/gunnsteinn-vornheim/",
     "being:gntarmdl": "/thalorna/creature/giant-armadillo/",
     "being:gntbr": "/thalorna/creature/giant-boar/",
-    "being:gntbvr": [
-        "/thalorna/creature/giant-beaver/",
-        "/thalorna/being/giant-beaver/"
-    ],
+    "being:gntbvr": ["/thalorna/creature/giant-beaver/", "/thalorna/being/giant-beaver/"],
     "being:gntcmlsp": "/thalorna/creature/giant-camel-spider/",
     "being:gntegl": "/thalorna/creature/giant-eagle/",
     "being:gnthdghg": "/thalorna/creature/giant-hedgehog/",
@@ -183,10 +180,7 @@
     "being:hlrksbrnthr": "/thalorna/character/halrikos-branthira/",
     "being:hlthrls": "/thalorna/creature/helthraals/",
     "being:hotepanu": "/thalorna/character/hotep-anu/",
-    "being:hppgryph": [
-        "/thalorna/creature/hippogriff/",
-        "/thalorna/creature/hippogryph/"
-    ],
+    "being:hppgryph": ["/thalorna/creature/hippogriff/", "/thalorna/creature/hippogryph/"],
     "being:hrafnlefws": "/thalorna/character/hrafnleif-the-wise/",
     "being:hrfnklhrfnsvld": "/thalorna/character/hrafnkell-hrafnsvald/",
     "being:hrjlfvtrdmr": "/thalorna/character/herjulf-vetrdomr/",
@@ -245,14 +239,8 @@
     "being:mithrnmznd": "/thalorna/character/mithran-mazanid/",
     "being:mkthsvnrds": "/thalorna/character/makithos-vanardis/",
     "being:mmmthcnt": "/thalorna/creature/mammoth-centipede/",
-    "being:mntndrk": [
-        "/thalorna/creature/mountain-drake/",
-        "/thalorna/being/mountain-drake/"
-    ],
-    "being:mntntrll": [
-        "/thalorna/creature/mountain-troll/",
-        "/thalorna/being/mountain-troll/"
-    ],
+    "being:mntndrk": ["/thalorna/creature/mountain-drake/", "/thalorna/being/mountain-drake/"],
+    "being:mntntrll": ["/thalorna/creature/mountain-troll/", "/thalorna/being/mountain-troll/"],
     "being:mrkvdrdthmg": "/thalorna/character/morkvidr-the-deathmage/",
     "being:mrlrkr": "/thalorna/creature/mirelurker/",
     "being:mrrrlng": "/thalorna/creature/mirrorling/",
@@ -477,14 +465,8 @@
     ],
     "doc:altinkale2": "/thalorna/settlement/altinkale-city/",
     "doc:amradadrgn": "/thalorna/region/amradad-region/",
-    "doc:ankrscntnnt": [
-        "/thalorna/continent/ankaris/",
-        "/thalorna/continent/ankaris-continent/"
-    ],
-    "doc:arnscntnnt": [
-        "/thalorna/continent/aurionis/",
-        "/thalorna/continent/aurionis-continent/"
-    ],
+    "doc:ankrscntnnt": ["/thalorna/continent/ankaris/", "/thalorna/continent/ankaris-continent/"],
+    "doc:arnscntnnt": ["/thalorna/continent/aurionis/", "/thalorna/continent/aurionis-continent/"],
     "doc:ashkabel2": "/thalorna/settlement/ashkabel-city/",
     "doc:aureldirgn": "/thalorna/region/aureldia-region/",
     "doc:azhun2": "/thalorna/settlement/azhun-city/",
@@ -500,10 +482,7 @@
     "doc:bordernoms": "/thalorna/polity/border-nomes/",
     "doc:byzariargn": "/thalorna/region/byzaria-region/",
     "doc:calypsa2": "/thalorna/settlement/calypsa-city/",
-    "doc:capitalnom": [
-        "/thalorna/polity/capital-nome/",
-        "/thalorna/polity/the-capital-nome/"
-    ],
+    "doc:capitalnom": ["/thalorna/polity/capital-nome/", "/thalorna/polity/the-capital-nome/"],
     "doc:chakultzkl2": "/thalorna/settlement/chakul-tzakul-city/",
     "doc:chandrapur2": "/thalorna/settlement/chandrapur-city/",
     "doc:cntrlkchchk": "/thalorna/region/kichchik-central/",
@@ -517,10 +496,7 @@
     "doc:dunhardsrtrgn": "/thalorna/region/dunhara-desert-region/",
     "doc:elavendre": "/thalorna/region/elavendre-region/",
     "doc:empiretnvr": "/thalorna/region/empire-of-tanvur/",
-    "doc:empirtkhpr": [
-        "/thalorna/polity/takheperu/",
-        "/thalorna/polity/the-empire-of-takheperu/"
-    ],
+    "doc:empirtkhpr": ["/thalorna/polity/takheperu/", "/thalorna/polity/the-empire-of-takheperu/"],
     "doc:faecourts": "/thalorna/lore/fae-courts/",
     "doc:graznmntns": "/thalorna/location/grazian-mountains/",
     "doc:grkrhlmrgn": "/thalorna/region/grukarholm-region/",
@@ -534,10 +510,7 @@
     "doc:helionis": "/thalorna/region/helionis-region/",
     "doc:hlykngdmnrtm": "/thalorna/polity/holy-kingdom-of-nartum/",
     "doc:irnwlvscmpny": "/thalorna/company/iron-wolves-company/",
-    "doc:isrncntnnt": [
-        "/thalorna/continent/iseron/",
-        "/thalorna/continent/iseron-continent/"
-    ],
+    "doc:isrncntnnt": ["/thalorna/continent/iseron/", "/thalorna/continent/iseron-continent/"],
     "doc:jurthatrgn": "/thalorna/region/jurthat-region/",
     "doc:kaliharargn": "/thalorna/region/kalihara-region/",
     "doc:kalydria2": "/thalorna/settlement/kalydria-city/",
@@ -558,10 +531,7 @@
     "doc:kingdmtrvn": "/thalorna/polity/kingdom-of-tarvenia/",
     "doc:kingdomlgn": "/thalorna/polity/kingdom-of-malagna/",
     "doc:kiximtzul2": "/thalorna/settlement/kixim-tzul-city/",
-    "doc:klhrcntnnt": [
-        "/thalorna/continent/kalihara/",
-        "/thalorna/continent/kalihara-continent/"
-    ],
+    "doc:klhrcntnnt": ["/thalorna/continent/kalihara/", "/thalorna/continent/kalihara-continent/"],
     "doc:kngdmglvrn": "/thalorna/polity/kingdom-of-galvaren/",
     "doc:kngdmldrth": "/thalorna/polity/kingdom-of-aldorath/",
     "doc:kngdmlvndr": "/thalorna/polity/kingdom-of-elavendre/",
@@ -626,10 +596,7 @@
     "doc:tzikinbalm2": "/thalorna/settlement/tzikin-baalam-city/",
     "doc:tzumanotun2": "/thalorna/settlement/tzuma-notun-city/",
     "doc:uperivrnms": "/thalorna/polity/upper-river-nomes/",
-    "doc:vedyarargn": [
-        "/thalorna/region/vedyara/",
-        "/thalorna/region/vedyara-region/"
-    ],
+    "doc:vedyarargn": ["/thalorna/region/vedyara/", "/thalorna/region/vedyara-region/"],
     "doc:velanthrgn": "/thalorna/region/velanthia-region/",
     "doc:vrystwald": "/thalorna/region/vrystwald-region/",
     "doc:vyalendra3": "/thalorna/settlement/vyalendra-city/",

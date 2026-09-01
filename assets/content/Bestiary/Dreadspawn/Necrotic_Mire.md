@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 12
-    end: 20
-    dex: 10
-    agl: 8
-    per: 14
-    aur: 20
-    wil: 16
-    rea: 10
-    cre: 8
   attrRollFormula:
     str: 1d4+9
     end: 1d6+16
@@ -165,30 +155,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 54
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 40
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 54 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 40 } }
     - name: Engulfing Surge
       type: skill
       system:

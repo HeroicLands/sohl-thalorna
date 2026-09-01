@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 12
-    dex: 11
-    agl: 12
-    per: 15
-    cml: 14
-    aur: 14
-    wil: 14
-    rea: 16
-    cre: 13
-    emp: 15
-    elo: 17
-    mor: 12
-    voi: 9
   body:
     structure:
       parts:
@@ -492,195 +477,105 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: blackflame
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: lang
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: Scmtr
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: SlkShirt
-      type: armorgear
-    - shortcode: SlkTunic
-      type: armorgear
-    - shortcode: VBrch
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - shortcode: VCap
-      type: armorgear
-    - shortcode: SlkMntl
-      type: armorgear
-    - type: miscgear
-      name: Leather-bound journal of diplomatic notes
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: blackflame, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: lang, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: Scmtr, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: SlkShirt, type: armorgear }
+    - { shortcode: SlkTunic, type: armorgear }
+    - { shortcode: VBrch, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - { shortcode: VCap, type: armorgear }
+    - { shortcode: SlkMntl, type: armorgear }
+    - name: Leather-bound journal of diplomatic notes
+      type: miscgear
       system:
         weight: 0.8
         value: 100
         durability: 3
-    - type: miscgear
-      name: Silk pouch of cosmetics and oils
+    - name: Silk pouch of cosmetics and oils
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Gold-embroidered handkerchief
+    - name: Gold-embroidered handkerchief
+      type: miscgear
       system:
         weight: 0.2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Set of luxury inks and quills
+    - name: Set of luxury inks and quills
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Small harp or oud (musical instrument)
+    - name: Small harp or oud (musical instrument)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Perfumed silk scarves
+    - name: Perfumed silk scarves
+      type: miscgear
       system:
         quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Letters of introduction from court
+    - name: Letters of introduction from court
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 50
-    - shortcode: bpchlg
-      type: containergear
-    - shortcode: bgsmcvs
-      type: containergear
+    - { shortcode: pence, type: miscgear, system: { quantity: 50 } }
+    - { shortcode: bpchlg, type: containergear }
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

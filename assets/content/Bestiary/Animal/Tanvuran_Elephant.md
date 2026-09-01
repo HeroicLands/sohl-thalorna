@@ -16,16 +16,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 56
-    end: 48
-    agl: 7
-    per: 18
-    snt: 7
-    aur: 6
-    wil: 16
-    rea: 8
-    cre: 8
   attrRollFormula:
     str: 1d6+53
     end: 1d6+45
@@ -297,30 +287,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 90
+    - { shortcode: str, type: attribute, system: { scoreBase: 56 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 48 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 90 } }
     - name: Tusk
       type: skill
       system:

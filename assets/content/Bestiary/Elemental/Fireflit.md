@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: elemental
   archetype: 0
-  attributes:
-    end: 6
-    dex: 20
-    agl: 22
-    per: 14
-    aur: 12
-    wil: 11
-    rea: 10
-    cre: 14
-    str: 2
   attrRollFormula:
     end: 1d4+3
     dex: 1d6+16
@@ -225,30 +215,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 72
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 10
+    - { shortcode: end, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 22 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 72 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 10 } }
     - name: Scorching Touch
       type: skill
       system:

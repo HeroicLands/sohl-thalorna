@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 8
-    end: 9
-    dex: 17
-    agl: 15
-    per: 11
-    aur: 9
-    wil: 11
-    rea: 9
-    cre: 15
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -155,30 +145,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 23
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 23 } }
     - name: Paralytic Bite
       type: skill
       system:

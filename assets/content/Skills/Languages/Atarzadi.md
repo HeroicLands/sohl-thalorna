@@ -2,7 +2,7 @@
 aliases:
   - Ātárzādi Language
   - Atarzari Language
-tags: 
+tags:
   - draft
 name:
   full: Ātárzādi Language

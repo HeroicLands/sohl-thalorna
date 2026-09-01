@@ -43,23 +43,21 @@ traits:
 sohl:
   archetype: null
   items:
-    - shortcode: tyr
-      type: affiliation
-  attributes:
-    str: 8
-    end: 9
-    dex: 10
-    agl: 9
-    per: 16
-    cml: 11
-    aur: 15
-    wil: 16
-    rea: 18
-    cre: 13
-    emp: 14
-    elo: 16
-    mor: 17
-    voi: 14
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: tyr, type: affiliation }
   body:
     structure:
       parts:

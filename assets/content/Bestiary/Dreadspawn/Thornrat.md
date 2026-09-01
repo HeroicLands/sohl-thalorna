@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 6
-    end: 9
-    dex: 11
-    agl: 15
-    per: 9
-    wil: 8
-    cre: 9
-    aur: 4
-    rea: 5
   attrRollFormula:
     str: 1d4+3
     end: 1d4+6
@@ -234,30 +224,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 18
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 20
+    - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 18 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 20 } }
     - name: Barbed Spine Salvo
       type: skill
       system:

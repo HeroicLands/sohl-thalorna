@@ -42,23 +42,21 @@ traits:
 sohl:
   archetype: null
   items:
-    - shortcode: freyja
-      type: affiliation
-  attributes:
-    str: 9
-    end: 10
-    dex: 12
-    agl: 11
-    per: 15
-    cml: 14
-    aur: 12
-    wil: 14
-    rea: 16
-    cre: 14
-    emp: 13
-    elo: 16
-    mor: 13
-    voi: 14
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: freyja, type: affiliation }
   body:
     structure:
       parts:

@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 41
-    end: 36
-    dex: 15
-    agl: 13
-    per: 17
-    aur: 11
-    wil: 15
-    rea: 9
-    cre: 7
   attrRollFormula:
     str: 1d6+37
     end: 1d6+32
@@ -238,30 +228,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 95
+    - { shortcode: str, type: attribute, system: { scoreBase: 41 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 36 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 95 } }
     - name: Diving Talon Strike
       type: skill
       system:

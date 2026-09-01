@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 10
-    end: 18
-    dex: 14
-    agl: 12
-    per: 16
-    aur: 18
-    wil: 16
-    rea: 10
-    cre: 14
   attrRollFormula:
     str: 1d6+6
     end: 1d6+14
@@ -157,30 +147,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 51
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 35
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 51 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 35 } }
     - name: Acidic Engulfment
       type: skill
       system:

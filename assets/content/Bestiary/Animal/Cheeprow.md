@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 4
-    end: 5
-    dex: 12
-    agl: 13
-    per: 13
-    aur: 8
-    wil: 10
-    rea: 6
-    cre: 7
   attrRollFormula:
     str: 1d4+1
     end: 1d4+2
@@ -242,30 +232,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 27
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 13
+    - { shortcode: str, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 27 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 13 } }
     - name: Claw Grip
       type: skill
       system:

@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    end: 19
-    dex: 6
-    per: 12
-    aur: 8
-    wil: 16
-    rea: 10
-    cre: 8
-    str: 50
-    agl: 5
   attrRollFormula:
     end: 1d4+16
     dex: 1d4+3
@@ -249,30 +239,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 36
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 88
+    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 50 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 88 } }
     - name: Crushing Stomp
       type: skill
       system:

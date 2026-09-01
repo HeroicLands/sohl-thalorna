@@ -48,21 +48,6 @@ traits:
       - a tattoo of a lion on the thigh
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 14
-    dex: 13
-    agl: 11
-    per: 15
-    cml: 12
-    aur: 13
-    wil: 14
-    rea: 13
-    cre: 12
-    emp: 12
-    elo: 16
-    mor: 12
-    voi: 17
   body:
     structure:
       parts:
@@ -493,193 +478,94 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: florania
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: WdMce
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Ceremonial robes (formal official attire)
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: florania, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: WdMce, type: weapongear }
+    - { shortcode: WTunic, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Ceremonial robes (formal official attire)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Family signet ring
+    - { name: Family signet ring, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - name: Quills and writing supplies
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Quills and writing supplies
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Official scrolls and documents
+    - name: Official scrolls and documents
+      type: miscgear
       system:
         quantity: 4
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Heraldic precedent references (book)
+    - name: Heraldic precedent references (book)
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wax seals and ribbon
+    - name: Wax seals and ribbon
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bpchlg
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bpchlg, type: containergear }
 ---
 
 # Appearance {#appearance}

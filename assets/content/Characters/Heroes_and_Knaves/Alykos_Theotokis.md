@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 14
-    end: 13
-    dex: 11
-    agl: 10
-    per: 14
-    cml: 10
-    aur: 12
-    wil: 14
-    rea: 12
-    cre: 11
-    emp: 13
-    elo: 12
-    mor: 13
-    voi: 12
   body:
     structure:
       parts:
@@ -492,184 +477,93 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: menerva
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: HAxe
-      type: weapongear
-    - shortcode: WCoat
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Carpenter's toolbox (chisel set, hammer, handsaw, plane)
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: menerva, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: HAxe, type: weapongear }
+    - { shortcode: WCoat, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Carpenter's toolbox (chisel set, hammer, handsaw, plane)
+      type: miscgear
       system:
         weight: 2
         value: 8
         durability: 3
-    - type: miscgear
-      name: Whetstones and stropping leather
+    - name: Whetstones and stropping leather
+      type: miscgear
       system:
         quantity: 2
         weight: 0.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wooden dowels and pegs (assorted)
+    - name: Wooden dowels and pegs (assorted)
+      type: miscgear
       system:
         quantity: 20
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Work apron (heavy canvas)
+    - name: Work apron (heavy canvas)
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - name: Waterskin (leather)
       type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - type: miscgear
-      name: Waterskin (leather)
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: bktlrg
-      type: containergear
+    - { shortcode: bktlrg, type: containergear }
 ---
 
 # Appearance {#appearance}

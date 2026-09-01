@@ -48,21 +48,6 @@ traits:
       - A thin cord of braided copper wire worn around the left wrist, signifying her status as a mendicant — a wandering priestess authorized to preach and perform rites outside a fixed temple
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 14
-    dex: 11
-    agl: 12
-    per: 14
-    cml: 16
-    aur: 16
-    wil: 17
-    rea: 15
-    cre: 12
-    emp: 9
-    elo: 14
-    mor: 13
-    voi: 15
   body:
     structure:
       parts:
@@ -493,188 +478,88 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: blackflame
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 16
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 10
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: masn
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: summ
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: ritual
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: ShrtSwd
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: blackflame, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: masn, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: ritual, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: ShrtSwd, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - name: Hooked fighting net
       type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - type: weapongear
-      name: Hooked fighting net
       system:
         value: 15
         weight: 1
         durability: 3
-    - shortcode: WRobe
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - shortcode: LtBrcr
-      type: armorgear
-    - type: miscgear
-      name: Fire divination implements (copper bowl, consecrated oils, ritual kindling)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Black Flame holy symbol (cast bronze, worn at throat)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Mendicant's cord and seal
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: pence
+    - { shortcode: WRobe, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - { shortcode: LtBrcr, type: armorgear }
+    - name: Fire divination implements (copper bowl, consecrated oils, ritual kindling)
       type: miscgear
       system:
-        quantity: 15
-    - shortcode: tndrbx
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Black Flame holy symbol (cast bronze, worn at throat)
       type: miscgear
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Mendicant's cord and seal
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

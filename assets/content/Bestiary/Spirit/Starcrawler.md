@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: spirit
   archetype: 0
-  attributes:
-    str: 8
-    end: 9
-    dex: 17
-    agl: 19
-    per: 9
-    aur: 11
-    wil: 9
-    rea: 8
-    cre: 9
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -186,30 +176,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 23
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 23 } }
     - name: Sharp Mandibles
       type: skill
       system:

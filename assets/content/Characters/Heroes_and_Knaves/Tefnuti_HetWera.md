@@ -48,21 +48,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 13
-    dex: 14
-    agl: 12
-    per: 14
-    cml: 10
-    aur: 12
-    wil: 13
-    rea: 15
-    cre: 16
-    emp: 12
-    elo: 11
-    mor: 13
-    voi: 12
   body:
     structure:
       parts:
@@ -493,193 +478,99 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: iset
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: cmcs
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: Cdgl
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-    - shortcode: WBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Leather tool belt with pouches
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: iset, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: Cdgl, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WTunic, type: armorgear }
+    - { shortcode: WBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Leather tool belt with pouches
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wooden chest for clockwork and mechanism parts
+    - name: Wooden chest for clockwork and mechanism parts
+      type: miscgear
       system:
-        weight: 2.0
+        weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Tiny gears and springs (assorted)
+    - name: Tiny gears and springs (assorted)
+      type: miscgear
       system:
         quantity: 2
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Wooden models and prototypes
+    - name: Wooden models and prototypes
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Clockmaker’s and toymaker’s tools (files, drills, gauges)
+    - name: Clockmaker’s and toymaker’s tools (files, drills, gauges)
+      type: miscgear
       system:
         weight: 0.8
         value: 50
         durability: 4
-    - type: miscgear
-      name: Wax and finishing materials
+    - name: Wax and finishing materials
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: bpchmd
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: bpchmd, type: containergear }
 ---
 
 **Home:** [[doc-ankhsetun|Ankh-Setûn]]

@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: elemental
   archetype: 0
-  attributes:
-    str: 20
-    end: 15
-    dex: 11
-    agl: 15
-    per: 13
-    aur: 11
-    wil: 13
-    rea: 9
-    cre: 11
   attrRollFormula:
     str: 1d6+17
     end: 1d4+12
@@ -238,30 +228,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 36
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 45
+    - { shortcode: str, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 45 } }
     - name: Frost Bite
       type: skill
       system:

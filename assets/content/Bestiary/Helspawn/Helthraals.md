@@ -15,13 +15,6 @@ type: being
 sohl:
   kbcat: helspawn
   archetype: 0
-  attributes:
-    str: 14
-    end: 16
-    dex: 6
-    agl: 6
-    per: 6
-    pal: 11
   attrRollFormula:
     str: 1d6+10
     end: 1d4+13
@@ -489,22 +482,20 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: bflkbite
-      type: skill
-    - shortcode: bflkgrab
-      type: skill
-    - shortcode: bflkheadbutt
-      type: skill
-    - shortcode: bflkkick
-      type: skill
-    - shortcode: limbblock
-      type: skill
-    - shortcode: press
-      type: skill
-    - shortcode: bflkpunch
-      type: skill
-    - shortcode: trip
-      type: skill
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: pal, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: bflkbite, type: skill }
+    - { shortcode: bflkgrab, type: skill }
+    - { shortcode: bflkheadbutt, type: skill }
+    - { shortcode: bflkkick, type: skill }
+    - { shortcode: limbblock, type: skill }
+    - { shortcode: press, type: skill }
+    - { shortcode: bflkpunch, type: skill }
+    - { shortcode: trip, type: skill }
 ---
 
 # Appearance {#appearance}

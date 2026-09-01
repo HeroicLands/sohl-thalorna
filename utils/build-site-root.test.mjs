@@ -74,17 +74,14 @@ function hostMatcher(match) {
     const source = hostOf(match)
         .split(".")
         .map((label) =>
-            label.startsWith(":") ? "[^.]+" : (
-                label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-            ),
+            label.startsWith(":") ? "[^.]+" : label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
         )
         .join("\\.");
     return new RegExp(`^${source}$`);
 }
 
 /** The rules whose host pattern matches `host`. */
-const rulesMatching = (host) =>
-    rules(HEADERS).filter(([match]) => hostMatcher(match).test(host));
+const rulesMatching = (host) => rules(HEADERS).filter(([match]) => hostMatcher(match).test(host));
 
 describe("the /thalorna/ deployment's host-assigned addresses", () => {
     it("marks the hosting project's own address noindex", () => {
@@ -115,9 +112,7 @@ describe("the /thalorna/ deployment's host-assigned addresses", () => {
     it("scopes every rule to a host-assigned address", () => {
         // An unscoped `/*` would noindex the canonical path as well — and, for
         // anyone who takes this repository elsewhere, their own domain with it.
-        const hosted = new RegExp(
-            `\\.(pages\\.dev|${ORIGIN_SUFFIX.replace(/\./g, "\\.")})$`,
-        );
+        const hosted = new RegExp(`\\.(pages\\.dev|${ORIGIN_SUFFIX.replace(/\./g, "\\.")})$`);
         for (const [match] of rules(HEADERS)) {
             assert.match(match, /^https:\/\/[^/]+\/\*$/);
             assert.match(hostOf(match), hosted);

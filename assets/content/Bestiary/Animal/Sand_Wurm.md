@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 37
-    end: 31
-    dex: 11
-    agl: 10
-    per: 16
-    aur: 9
-    wil: 13
-    rea: 6
-    cre: 5
   attrRollFormula:
     str: 1d6+33
     end: 1d6+27
@@ -160,30 +150,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 33
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 85
+    - { shortcode: str, type: attribute, system: { scoreBase: 37 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 31 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 85 } }
     - name: Erupting Bite
       type: skill
       system:

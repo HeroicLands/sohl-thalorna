@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 17
-    end: 17
-    dex: 8
-    agl: 9
-    per: 9
-    aur: 11
-    wil: 13
-    rea: 8
-    cre: 8
   attrRollFormula:
     str: 1d4+14
     end: 1d4+14
@@ -249,30 +239,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 36
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 43
+    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
     - name: Electrified Charge
       type: skill
       system:

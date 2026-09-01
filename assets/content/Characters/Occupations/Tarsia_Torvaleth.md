@@ -56,21 +56,6 @@ gear:
     - Bandg:3
 sohl:
   archetype: null
-  attributes:
-    agl: 11
-    aur: 12
-    cml: 11
-    cre: 12
-    dex: 13
-    elo: 8
-    emp: 11
-    end: 14
-    mor: 9
-    per: 10
-    rea: 8
-    str: 13
-    voi: 9
-    wil: 9
   body:
     structure:
       parts:
@@ -501,44 +486,30 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: arldnpnthn
-      type: affiliation
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 41
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 43
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 20
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: arldnpnthn, type: affiliation }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 41 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 20 } }
 thalorna:
   realm: kingdmtrvn
   region: tarvenirgn

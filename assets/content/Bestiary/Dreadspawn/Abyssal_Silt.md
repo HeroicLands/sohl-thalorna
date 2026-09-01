@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 14
-    end: 20
-    dex: 16
-    agl: 16
-    per: 14
-    aur: 12
-    wil: 18
-    rea: 12
-    cre: 12
   attrRollFormula:
     str: 1d6+10
     end: 1d6+16
@@ -157,30 +147,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 45
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 43
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 45 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
     - name: Corrosive Envelopment
       type: skill
       system:

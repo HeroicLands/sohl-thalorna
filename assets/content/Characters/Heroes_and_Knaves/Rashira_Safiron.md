@@ -49,21 +49,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 9
-    end: 10
-    dex: 13
-    agl: 11
-    per: 15
-    cml: 13
-    aur: 11
-    wil: 15
-    rea: 16
-    cre: 14
-    emp: 12
-    elo: 14
-    mor: 13
-    voi: 12
   body:
     structure:
       parts:
@@ -494,117 +479,60 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: menerva
-      type: affiliation
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 78
-    - shortcode: runic
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: common
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: lang
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 62
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 58
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: astr
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 38
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WTunic
-      type: armorgear
-      name: Travelling clothes (worsted)
-    - shortcode: WClk
-      type: armorgear
-    - type: miscgear
-      name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: menerva, type: affiliation }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 78 } }
+    - { shortcode: runic, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: lang, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 62 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 58 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 38 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WTunic, type: armorgear, name: Travelling clothes (worsted) }
+    - { shortcode: WClk, type: armorgear }
+    - name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
+      type: miscgear
       system:
         weight: 2
         value: 0
         durability: 2
-    - type: miscgear
-      name: Scribe's writing kit (reeds, inks, wax, seals)
+    - name: Scribe's writing kit (reeds, inks, wax, seals)
+      type: miscgear
       system:
         weight: 2
         value: 120
         durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-      system:
-        quantity: 4
-    - shortcode: goldcrown
-      type: miscgear
-      system:
-        quantity: 30
-    - shortcode: bpchlg
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: goldcrown, type: miscgear, system: { quantity: 30 } }
+    - { shortcode: bpchlg, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

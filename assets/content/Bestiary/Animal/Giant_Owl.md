@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 25
-    end: 21
-    dex: 16
-    agl: 15
-    per: 18
-    aur: 11
-    wil: 15
-    rea: 8
-    cre: 6
   attrRollFormula:
     str: 1d6+21
     end: 1d6+17
@@ -238,30 +228,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 58
+    - { shortcode: str, type: attribute, system: { scoreBase: 25 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 21 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 58 } }
     - name: Talon Rend
       type: skill
       system:

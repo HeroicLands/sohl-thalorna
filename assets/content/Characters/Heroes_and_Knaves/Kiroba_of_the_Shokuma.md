@@ -48,21 +48,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 11
-    end: 14
-    dex: 13
-    agl: 16
-    per: 17
-    cml: 10
-    aur: 15
-    wil: 14
-    rea: 13
-    cre: 12
-    emp: 12
-    elo: 11
-    mor: 15
-    voi: 12
   body:
     structure:
       parts:
@@ -493,168 +478,82 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: nkaruthar
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: LtTunic
-      type: armorgear
-    - shortcode: LtBrch
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Bone pendant (carved, ritual significance)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Spirit charms and talismans
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Ritual herbs and sacred offerings
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Shamanic medicine pouch
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: FRtns
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: nkaruthar, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: LtTunic, type: armorgear }
+    - { shortcode: LtBrch, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Bone pendant (carved, ritual significance)
       type: miscgear
       system:
-        quantity: 3
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: torch
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Spirit charms and talismans
       type: miscgear
-    - shortcode: backpk
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Ritual herbs and sacred offerings
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Shamanic medicine pouch
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: torch, type: miscgear }
+    - { shortcode: backpk, type: containergear }
 ---
 
 # Appearance {#appearance}

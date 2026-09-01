@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 18
-    end: 18
-    dex: 16
-    agl: 16
-    per: 18
-    aur: 10
-    wil: 16
-    rea: 12
-    cre: 12
   attrRollFormula:
     str: 1d6+14
     end: 1d6+14
@@ -248,30 +238,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 85
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 68
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 45
+    - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 45 } }
     - name: Rending Claw
       type: skill
       system:

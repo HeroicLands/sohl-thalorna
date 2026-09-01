@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 13
-    end: 15
-    dex: 12
-    agl: 11
-    per: 14
-    cml: 10
-    aur: 11
-    wil: 12
-    rea: 12
-    cre: 15
-    emp: 13
-    elo: 11
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -492,178 +477,90 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sacredforge
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: herb
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: timb
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Cast-iron cookware (multiple pots and pans)
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Wooden cutting boards and utensils
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Leather gloves for handling hot vessels
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Assorted dried herbs and spices
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Ceramic storage vessels
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: sacredforge, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: herb, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: timb, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Cast-iron cookware (multiple pots and pans)
       type: miscgear
-    - shortcode: torch
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Wooden cutting boards and utensils
       type: miscgear
-    - shortcode: backpk
-      type: containergear
-    - shortcode: bglgcvs
-      type: containergear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Leather gloves for handling hot vessels
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Assorted dried herbs and spices
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Ceramic storage vessels
+      type: miscgear
+      system:
+        weight: 1
+        value: 100
+        durability: 3
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: torch, type: miscgear }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: bglgcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

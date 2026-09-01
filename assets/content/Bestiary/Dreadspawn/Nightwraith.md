@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: dreadspawn
   archetype: 0
-  attributes:
-    str: 14
-    end: 16
-    dex: 18
-    agl: 20
-    per: 20
-    aur: 10
-    wil: 16
-    rea: 12
-    cre: 10
   attrRollFormula:
     str: 1d6+10
     end: 1d4+13
@@ -231,30 +221,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 39
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 38
+    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 90 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 90 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
     - name: Blood-Draining Bite
       type: skill
       system:

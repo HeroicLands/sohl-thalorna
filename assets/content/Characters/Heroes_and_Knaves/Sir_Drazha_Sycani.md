@@ -49,21 +49,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 16
-    end: 14
-    dex: 16
-    agl: 15
-    per: 13
-    cml: 12
-    aur: 10
-    wil: 14
-    rea: 10
-    cre: 11
-    emp: 9
-    elo: 10
-    mor: 8
-    voi: 6
   body:
     structure:
       parts:
@@ -494,190 +479,87 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: blackflame
-      type: affiliation
-    - shortcode: brew
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: lang
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: BstdSwd
-      type: weapongear
-    - shortcode: Shkn
-      type: weapongear
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: PlBreast
-      type: armorgear
-    - shortcode: PlGrvs
-      type: armorgear
-    - shortcode: PlVamb
-      type: armorgear
-    - shortcode: PlSpld
-      type: armorgear
-    - shortcode: Pl34Hlm
-      type: armorgear
-    - shortcode: PlKncp
-      type: armorgear
-    - shortcode: PlCou
-      type: armorgear
-    - shortcode: PlRebr
-      type: armorgear
-    - type: miscgear
-      name: Knight's surcoat with Black Flame sigil
+    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: blackflame, type: affiliation }
+    - { shortcode: brew, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: lang, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: BstdSwd, type: weapongear }
+    - { shortcode: Shkn, type: weapongear }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: PlBreast, type: armorgear }
+    - { shortcode: PlGrvs, type: armorgear }
+    - { shortcode: PlVamb, type: armorgear }
+    - { shortcode: PlSpld, type: armorgear }
+    - { shortcode: Pl34Hlm, type: armorgear }
+    - { shortcode: PlKncp, type: armorgear }
+    - { shortcode: PlCou, type: armorgear }
+    - { shortcode: PlRebr, type: armorgear }
+    - name: Knight's surcoat with Black Flame sigil
+      type: miscgear
       system:
         weight: 0.6
         value: 100
         durability: 3
-    - type: miscgear
-      name: Leather riding gloves
+    - name: Leather riding gloves
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: torch
+    - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
+    - name: Whetstone and oil for weapons
       type: miscgear
-      system:
-        quantity: 3
-    - shortcode: FRtns
-      type: miscgear
-      system:
-        quantity: 4
-    - type: miscgear
-      name: Whetstone and oil for weapons
       system:
         weight: 1
         value: 100
         durability: 3
-    - shortcode: bpchmd
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: bpchmd, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

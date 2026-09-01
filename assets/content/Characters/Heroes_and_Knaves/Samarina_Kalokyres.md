@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 13
-    dex: 14
-    agl: 15
-    per: 16
-    cml: 11
-    aur: 12
-    wil: 12
-    rea: 13
-    cre: 12
-    emp: 16
-    elo: 10
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -492,221 +477,105 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: sacredforge
-      type: affiliation
-    - shortcode: cook
-      type: skill
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: sacredforge, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: eng, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: glas, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: hide, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: Stf, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: WCap, type: armorgear }
+    - name: Herding crook (wooden, carved)
+      type: miscgear
       system:
-        masteryLevelBase: 30
-    - shortcode: eng
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: glas
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: hide
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: Stf
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: WCap
-      type: armorgear
-    - type: miscgear
-      name: Herding crook (wooden, carved)
-      system:
-        weight: 1.0
+        weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Basket of herding tools and equipment
+    - name: Basket of herding tools and equipment
+      type: miscgear
       system:
         weight: 1.5
         value: 100
         durability: 3
-    - type: miscgear
-      name: Rope (hemp, for tethering)
+    - name: Rope (hemp, for tethering)
+      type: miscgear
       system:
         quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Bone whistle (herd calls)
+    - name: Bone whistle (herd calls)
+      type: miscgear
       system:
         weight: 0.1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Herbal remedies (for animals)
+    - name: Herbal remedies (for animals)
+      type: miscgear
       system:
         weight: 0.8
         value: 100
         durability: 3
-    - type: miscgear
-      name: Flint and tinder
-      system:
-        weight: 0.3
-        value: 100
-        durability: 3
-    - shortcode: StdRtns
+    - { name: Flint and tinder, type: miscgear, system: { weight: 0.3, value: 100, durability: 3 } }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: pence, type: miscgear, system: { quantity: 12 } }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
+    - name: Whistle for calling her flock
       type: miscgear
       system:
-        quantity: 4
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 12
-    - shortcode: backpk
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
-    - type: miscgear
-      name: Whistle for calling her flock
-      system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Herbal remedies
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - type: miscgear
-      name: Wool shears
-      system:
-        weight: 1
-        value: 100
-        durability: 3
+    - { name: Herbal remedies, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { name: Wool shears, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
 # Appearance {#appearance}

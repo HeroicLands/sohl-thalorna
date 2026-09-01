@@ -15,16 +15,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 27
-    end: 25
-    dex: 15
-    agl: 15
-    per: 16
-    aur: 15
-    wil: 23
-    rea: 9
-    cre: 8
   attrRollFormula:
     str: 1d6+23
     end: 1d6+21
@@ -238,30 +228,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 95
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 95
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 57
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 65
+    - { shortcode: str, type: attribute, system: { scoreBase: 27 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 25 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 23 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 95 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 95 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 57 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 65 } }
     - name: Raking Claws
       type: skill
       system:

@@ -47,21 +47,6 @@ traits:
     extra_features: []
 sohl:
   archetype: null
-  attributes:
-    str: 8
-    end: 12
-    dex: 15
-    agl: 13
-    per: 14
-    cml: 14
-    aur: 12
-    wil: 11
-    rea: 13
-    cre: 17
-    emp: 13
-    elo: 14
-    mor: 14
-    voi: 13
   body:
     structure:
       parts:
@@ -492,188 +477,89 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: varakpnthn
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: mrcn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: jewl
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: musc
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: wood
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: WClk
-      type: armorgear
-    - shortcode: WShirt
-      type: armorgear
-    - shortcode: WTrsr
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - type: miscgear
-      name: Charcoal pencils and drawing sticks
+    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: varakpnthn, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: WClk, type: armorgear }
+    - { shortcode: WShirt, type: armorgear }
+    - { shortcode: WTrsr, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - name: Charcoal pencils and drawing sticks
+      type: miscgear
       system:
         quantity: 6
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Watercolor palette and brushes
+    - name: Watercolor palette and brushes
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Parchment (bundle for sketches)
+    - name: Parchment (bundle for sketches)
+      type: miscgear
       system:
         quantity: 10
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Measuring compass and straightedge
+    - name: Measuring compass and straightedge
+      type: miscgear
       system:
         weight: 1
         value: 100
         durability: 3
-    - type: miscgear
-      name: Ink and quills
-      system:
-        weight: 1
-        value: 100
-        durability: 3
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: FRtns
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: bgsmcvs
-      type: containergear
+    - { name: Ink and quills, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: FRtns, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: bgsmcvs, type: containergear }
 ---
 
 # Appearance {#appearance}

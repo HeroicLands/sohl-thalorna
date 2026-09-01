@@ -47,21 +47,6 @@ traits:
       - Deep horizontal scar across the left palm from the exile branding
 sohl:
   archetype: null
-  attributes:
-    str: 12
-    end: 14
-    dex: 11
-    agl: 10
-    per: 13
-    cml: 11
-    aur: 16
-    wil: 15
-    rea: 14
-    cre: 13
-    emp: 10
-    elo: 13
-    mor: 16
-    voi: 12
   body:
     structure:
       parts:
@@ -492,188 +477,84 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: maat
-      type: affiliation
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 39
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 14
-    - shortcode: script
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 13
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 15
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: fltch
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: txtl
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: ritual
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: Stf
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: LtSndls
-      type: armorgear
-    - shortcode: LtBrcr
-      type: armorgear
-    - shortcode: bgsmcvs
-      type: containergear
-    - shortcode: wtrskin
-      type: containergear
-    - shortcode: tndrbx
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: maat, type: affiliation }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
+    - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: ritual, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: Stf, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: LtSndls, type: armorgear }
+    - { shortcode: LtBrcr, type: armorgear }
+    - { shortcode: bgsmcvs, type: containergear }
+    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: medsupil, type: miscgear, system: { quantity: 3 } }
+    - name: Concealed ritual implements of Má'át (bronze scales, feather token, consecrated chalk)
       type: miscgear
-    - shortcode: medsupil
-      type: miscgear
-      system:
-        quantity: 3
-    - type: miscgear
-      name: Concealed ritual implements of Má'át (bronze scales, feather token, consecrated chalk)
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - shortcode: pence
+    - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
+    - name: Metalworking tools (hammer, tongs, small anvil)
       type: miscgear
-      system:
-        quantity: 40
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 2
-    - shortcode: torch
-      type: miscgear
-      system:
-        quantity: 2
-    - type: miscgear
-      name: Metalworking tools (hammer, tongs, small anvil)
       system:
         weight: 2
         value: 100
         durability: 3
-    - type: miscgear
-      name: Scrolls and notes on theological doctrine
+    - name: Scrolls and notes on theological doctrine
+      type: miscgear
       system:
         weight: 0.5
         value: 100
         durability: 3
-    - shortcode: backpk
-      type: containergear
+    - { shortcode: backpk, type: containergear }
 ---
 
 **Home:** [[doc-ankhsetun|Ankh-Setûn]]

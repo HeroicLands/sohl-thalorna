@@ -49,21 +49,6 @@ traits:
       - Deep ragged scar diagonally across left cheek
 sohl:
   archetype: null
-  attributes:
-    str: 17
-    end: 15
-    dex: 14
-    agl: 15
-    per: 11
-    cml: 9
-    aur: 8
-    wil: 12
-    rea: 10
-    cre: 8
-    emp: 10
-    elo: 9
-    mor: 11
-    voi: 10
   body:
     structure:
       parts:
@@ -494,174 +479,71 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: chrm
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: cmd
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: dscr
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: guil
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 27
-    - shortcode: thtcs
-      type: skill
-      system:
-        masteryLevelBase: 8
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 45
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 75
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: ridg
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: swim
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: archery
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 11
-    - shortcode: wpnc
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: agri
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 12
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 30
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: CTrsr
-      type: armorgear
-    - shortcode: CSwd
-      type: armorgear
-    - shortcode: CSTnc
-      type: armorgear
-    - shortcode: LtKBoot
-      type: armorgear
-    - shortcode: LtGlove
-      type: armorgear
-    - shortcode: SByrn
-      type: armorgear
-    - shortcode: PCap
-      type: armorgear
-    - shortcode: PSTnc
-      type: armorgear
-    - shortcode: PlHHelm
-      type: armorgear
-    - shortcode: Leather satchel
-      type: miscgear
-    - shortcode: Sharpening stone
-      type: miscgear
-    - shortcode: Leather flask
-      type: miscgear
-    - shortcode: backpk
-      type: containergear
-    - shortcode: StdRtns
-      type: miscgear
-      system:
-        quantity: 3
-    - shortcode: LiteBdrl
-      type: miscgear
-    - shortcode: wtrskin
-      type: containergear
+    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: guil, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 27 } }
+    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 8 } }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: swim, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: archery, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: agri, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: CTrsr, type: armorgear }
+    - { shortcode: CSwd, type: armorgear }
+    - { shortcode: CSTnc, type: armorgear }
+    - { shortcode: LtKBoot, type: armorgear }
+    - { shortcode: LtGlove, type: armorgear }
+    - { shortcode: SByrn, type: armorgear }
+    - { shortcode: PCap, type: armorgear }
+    - { shortcode: PSTnc, type: armorgear }
+    - { shortcode: PlHHelm, type: armorgear }
+    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: Sharpening stone, type: miscgear }
+    - { shortcode: Leather flask, type: miscgear }
+    - { shortcode: backpk, type: containergear }
+    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: LiteBdrl, type: miscgear }
+    - { shortcode: wtrskin, type: containergear }
 ---
 
 # Appearance {#appearance}

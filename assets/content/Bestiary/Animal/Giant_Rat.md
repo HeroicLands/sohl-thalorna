@@ -16,16 +16,6 @@ type: being
 sohl:
   kbcat: animal
   archetype: 0
-  attributes:
-    str: 7
-    end: 8
-    dex: 14
-    agl: 15
-    per: 14
-    aur: 5
-    wil: 8
-    rea: 8
-    cre: 7
   attrRollFormula:
     str: 1d4+4
     end: 1d4+5
@@ -235,30 +225,21 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 18
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 32
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 20
+    - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 18 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 20 } }
     - name: Swarming Bite
       type: skill
       system:
