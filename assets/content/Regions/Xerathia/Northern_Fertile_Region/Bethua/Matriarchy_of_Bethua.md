@@ -8,27 +8,96 @@ name:
   full: Matriarchy of Bethûa
   aliases: []
 shortcode: mtrrchybth
-population: "~3,000,000"
 subType: polity
-capital: bethura
-demonym: Bethûan
-ruler:
-  title: Mêtríssa
-  name: Amîthéna of House Thamîrîon
-government:
-  type: elective theocracy-oligarchy
-  summary: Elected Mêtríssa (Queen and High Priestess) ruling through the Two Pillars — the Sacred College of priestesses and the Council of Houses of the clan-matriarchs.
-parent:
-  continents:
-    - xerathia
-  regions:
+data:
+  templatePriority: null
+  demonym: Bethûan
+  governance:
+    model: theocracy
+    summary: >-
+      Elected Mêtríssa (Queen and High Priestess) ruling through the Two Pillars — the Sacred
+      College of priestesses and the Council of Houses of the clan-matriarchs.
+    ranks:
+      - level: 0
+        title: Cast from the Hearth
+        description: >-
+          Struck from her House's roll and denied its protection, its name and its share — a
+          civil death.
+      - level: 1
+        title: Bondservant
+        description: >-
+          Bound in service to a House, owing labour and holding neither property nor a voice
+          in its councils.
+      - level: 2
+        title: Lay Household
+        description: >-
+          Of a House's dependents, sheltered by it and owing it service, but not counted among
+          its daughters.
+      - level: 3
+        title: Daughter of a House
+        description: >-
+          Counted in a House's blood and entitled to its name, its protection, and a share of
+          its trade.
+      - level: 4
+        title: Initiate of the College
+        description: >-
+          Received into the Sacred College's instruction, serving in the temples while learning
+          its rites.
+      - level: 5
+        title: Priestess
+        description: >-
+          Ordained to the rites, holding authority in matters sacred and a voice in the College's
+          deliberations.
+      - level: 6
+        title: Matriarch of a House
+        description: >-
+          Head of a clan-house, holding its property, its ships and its votes in the Council
+          of Houses.
+      - level: 7
+        title: Sister of the Sacred College
+        description: Of the priestly body that elects the Mêtríssa and constrains her in office.
+      - level: 8
+        title: Mêtríssa
+        description: >-
+          Queen and High Priestess, elected by the Sacred College and ruling through the Two
+          Pillars, never above them.
+    offices:
+      Mêtríssa: >-
+        Queen and High Priestess, elected for life by the Sacred College and answerable to
+        the Two Pillars.
+      High Priestess: Head of a temple and its rites, and an elector of the Mêtríssa.
+      Matriarch: Head of a clan-house, commanding its property, its ships and its marriages.
+      Speaker of the Council of Houses: Presiding officer of the Houses in session, holding
+        no vote beyond her own.
+      Keeper of the Sacred College: Warden of the College's rolls, its instruction and its
+        elections.
+      Navarch: Commander of the Bethûan fleet, and by that the realm's principal instrument
+        abroad.
+      Treasuress: Keeper of the realm's revenue and of the correspondent accounts the trade-houses
+        maintain.
+      Ambassadress: Envoy to a foreign court, appointed by the Mêtríssa and instructed by
+        the Council.
+      Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
+      Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers
+        that sail from it.
+  commonSkills:
+    - bethunlng
+  seat: bethura
+  domains:
     - bethuargn
-languages:
-  - bethunlng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 3000000
+  peoples:
+    - human
+  economy:
+    - lore-tkhprcrncy
+    - affiliation-bthntrdhss
+    - affiliation-perhati
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    empirtkhpr: aligned
+    vylarinmpr: nemesis
+    ctysttshlns: unaligned
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage — Mediterranean coast shading into Saharan interior)"
 folder: Y64e5NGsp8OwZ6xQ
 ---

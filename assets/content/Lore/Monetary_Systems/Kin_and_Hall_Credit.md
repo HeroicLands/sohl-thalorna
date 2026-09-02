@@ -10,8 +10,8 @@ tags:
   - economy
   - credit
 description: "Credit systems operating in clan- and tribal-based polities — extended kin obligations, hall-credit, and tribal exchange networks that handle long-term commerce without formal banking institutions, currency, or written instruments."
-type: doc
-subType: reference
+type: lore
+subType: economy
 id: oxzYBHD1KdZ6nmeC
 name:
   full: Kin and Hall Credit

@@ -9,22 +9,96 @@ name:
   full: Grukarhölm
   aliases: []
 shortcode: grukarholm
-population: "~2,000,000"
 subType: polity
-capital: grukarholm2
-demonym: Grukar
-ruler:
-  title: Warlord
-government:
-  type: warlord-confederation
-  summary: A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile Grukar-ahk; subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian convenience — Grukar themselves recognize no king and have no concept of hereditary monarchy.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Grukar
+  governance:
+    model: stratocracy
+    summary: >-
+      A dominant Grukar-Hai warlord protecting the spawn-chamber of a fertile Grukar-ahk;
+      subordinate clans bound by force and tribute. The "kingdom" framing is a Nordmal-and-Velanthian
+      convenience — Grukar themselves recognize no king and have no concept of hereditary
+      monarchy.
+    ranks:
+      - level: 0
+        title: Broken
+        description: >-
+          Driven from the clans and denied the spawn-chamber's protection; killed on sight by
+          any warrior who finds them.
+      - level: 1
+        title: Drudge
+        description: >-
+          Kept for labour and the carrying of burdens, holding no weapon and no share of the
+          tribute.
+      - level: 2
+        title: Spawn-Tender
+        description: >-
+          Charged with the brood and the chamber that holds it — menial work, and the most sacred
+          in the hold.
+      - level: 3
+        title: Warrior
+        description: >-
+          Blooded in a raid and holding a weapon by right, taking a share of what the war-band
+          takes.
+      - level: 4
+        title: Blooded
+        description: A warrior of proven kills, whose voice is heard when a raid is argued over.
+      - level: 5
+        title: Pack-Leader
+        description: Leading a hand of warriors on the raid and answering for what they bring
+          back.
+      - level: 6
+        title: Clan-Chief
+        description: >-
+          Holding a clan and its hold, bound to the Warlord by force and by tribute rather than
+          by oath.
+      - level: 7
+        title: War-Chief
+        description: >-
+          Commanding the clans of a whole range in war, second only to the Warlord and usually
+          his rival.
+      - level: 8
+        title: Warlord
+        description: >-
+          Holder of the spawn-chamber and of the fertile Grukar-ahk within it, from which his
+          authority over every clan derives.
+    offices:
+      Warlord: >-
+        Holder of the spawn-chamber, to whom every clan renders tribute and from whom no clan
+        is safe.
+      War-Chief: >-
+        Commander of the clans of a range in war, appointed by the Warlord and watched closely
+        by him.
+      Clan-Chief: Head of a clan and its hold, answerable for its tribute and its warriors.
+      Spawn-Warden: >-
+        Guardian of the brood-chamber, holding a sanctity no warrior will violate and an access
+        no warrior is given.
+      Tribute-Taker: >-
+        Collector of the Warlord's due from the clans, travelling with enough warriors to
+        make refusal costly.
+      Trail-Master: Keeper of the mountain ways and of the frontier trading posts where violence
+        is forbidden.
+      Standard-Bearer: Carrier of the Warlord's totem in battle, a post held until killed.
+      Speaker to Outsiders: >-
+        The one Grukar permitted to treat with Normen and Varokh traders, and distrusted by
+        both sides.
+  commonSkills:
+    - grukarlng
+  seat: grukarholm2
+  domains:
     - grkrhlmrgn
-languages:
-  - grukarlng
-peoples:
-  - grukar
+  population: 2000000
+  peoples:
+    - grukar
+  economy:
+    - lore-bartercnmy
+    - lore-vylrncrncy
+  parents: []
+  relations:
+    kngdmnrdhm: nemesis
+    vrystwldtrbs: nemesis
+    kingdmnrgd: rival
 folder: CNzTSOtYWZwLyp5k
 ---
 

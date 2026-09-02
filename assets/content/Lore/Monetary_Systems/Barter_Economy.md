@@ -9,8 +9,8 @@ tags:
   - economy
   - barter
 description: "Direct goods-for-goods exchange — the predominant economic system in tribal, pastoral, and frontier polities of Thalorna where formal currency systems do not function or do not reach."
-type: doc
-subType: reference
+type: lore
+subType: economy
 id: 0ACuB6rbj44tmLVo
 name:
   full: The Barter Economy
