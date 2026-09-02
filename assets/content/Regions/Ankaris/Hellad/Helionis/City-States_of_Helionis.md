@@ -8,21 +8,108 @@ name:
   full: City-States of Heliónis
   aliases: []
 shortcode: ctysttshlns
-population: "~3,000,000"
 subType: polity
-capital: athenikos
-demonym: Helionite
-government:
-  summary: Varies by city — democracies, oligarchies, tyrannies, and mixed constitutions.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Helionite
+  governance:
+    model: democracy
+    summary: >-
+      Three great cities and their lesser neighbours, sharing language, religion and identity,
+      and competing fiercely in trade, athletics, art and occasional war.
+    ranks:
+      - level: 0
+        title: Atimos
+        description: >-
+          Stripped of civic honour by the courts: barred from the assembly, the agora and the
+          temples, though still living among those who barred him.
+      - level: 1
+        title: Slave
+        description: Owned outright, with no standing before the law except through an owner.
+      - level: 2
+        title: Freedman
+        description: Manumitted, working and trading in the city, and barred from the assembly
+          for life.
+      - level: 3
+        title: Metic
+        description: A resident foreigner, taxed and liable to the levy, with no vote and no
+          right to own land.
+      - level: 4
+        title: Citizen
+        description: >-
+          Of the citizen body by descent, voting in the assembly and serving in the militia.
+          A citizen is not yet a member of the council.
+      - level: 5
+        title: Councillor
+        description: >-
+          Chosen by lot to the council that prepares the assembly's business, for one year and
+          never twice.
+      - level: 6
+        title: Magistrate
+        description: >-
+          Elected or allotted to an office of the city — its markets, its walls, its treasury,
+          its courts — and audited at the end of the year.
+      - level: 7
+        title: Strategos
+        description: >-
+          Elected to command the city's forces, the one office the citizens elect rather than
+          allot, and re-elect without limit.
+      - level: 8
+        title: Archon
+        description: >-
+          Presiding magistrate of the year, who gives it his name and hands it back — the assembly
+          remains sovereign throughout.
+    offices:
+      Archon: >-
+        Presiding magistrate for the year, who gives the year his name and surrenders the
+        office at its end.
+      Strategos: >-
+        Elected commander of the city's forces by land and sea; the one office held by election
+        and without term limit.
+      Councillor: Member of the council that prepares business for the assembly, allotted
+        for a single year.
+      Treasurer: >-
+        Keeper of the city's revenue and of the sacred treasuries, audited publicly at the
+        end of his term.
+      Agoranomos: Warden of the market — its weights, its coin, its quality and its disputes.
+      Nomophylax: Guardian of the laws, who may halt a decree of the assembly that contradicts
+        them.
+      Secretary of the Council: Keeper of the council's record and of the decrees the assembly
+        passes.
+      Auditor: >-
+        Examiner of every magistrate's accounts at the end of his year, without whose clearance
+        he may not leave the city.
+      Herald: >-
+        Voice of the assembly and of the city abroad, whose person is inviolable even between
+        enemies.
+      Ambassador: >-
+        Elected to treat with another city or power, and answerable to the assembly for what
+        he agrees.
+      Gymnasiarch: >-
+        Patron and warden of the gymnasium, an office of honour funded from the holder's own
+        purse.
+  commonSkills:
+    - helonclng
+  domains:
     - helionis
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 3000000
+  peoples:
+    - human
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    thyrenae: aligned
+    pelagora: aligned
+    kalydria: aligned
+    panepistmm: aligned
+    ordoarcanis: unaligned
+    vylarinmpr: aligned
 folder: L06n59aSySB8zVbI
 ---
 

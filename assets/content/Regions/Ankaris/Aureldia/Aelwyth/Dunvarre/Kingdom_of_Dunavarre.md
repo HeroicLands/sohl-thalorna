@@ -9,22 +9,103 @@ name:
   full: Kingdom of Dúnavarre
   aliases: []
 shortcode: kingdmdnvr
-population: "~3,500,000"
 subType: polity
-capital: ravenmoor
-demonym: Dúnavarran
-government:
-  type: oligarchy
-  summary: Synod of mages of the Ordo Arcanis.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Dúnavarran
+  governance:
+    model: oligarchy
+    summary: >-
+      A synod of Ordo Arcanis mages governing directly: the crown was set aside, and the Synod
+      sets policy, judges, commands and answers to nobody outside its own closed session.
+    ranks:
+      - level: 0
+        title: Proscribed
+        description: >-
+          Placed under interdict by the Synod: unlicensed, unemployable and barred from every
+          court and market in the realm.
+      - level: 1
+        title: Unfree
+        description: >-
+          Bound in service or debt, and answerable through a master rather than at the Synod's
+          courts.
+      - level: 2
+        title: Subject
+        description: Free at law, taxed, protected and governed — and with no voice whatever
+          in how.
+      - level: 3
+        title: Freeman of a Chartered Town
+        description: >-
+          Enrolled in a town holding a Synod charter, with its markets, its courts and its guild
+          rights.
+      - level: 4
+        title: Licensed Practitioner
+        description: >-
+          Permitted to practise an art the Synod regulates — physic, letters, minor sorcery
+          — under its inspection.
+      - level: 5
+        title: Adept
+        description: >-
+          Admitted to the Synod's instruction, sworn to its discipline and beginning to be trusted
+          with its business.
+      - level: 6
+        title: Magister
+        description: >-
+          A mage of the Synod holding a portfolio of state — a district, a court, a revenue,
+          a garrison.
+      - level: 7
+        title: Elder of the Synod
+        description: Sitting in the closed session where policy is actually decided.
+      - level: 8
+        title: Prime of the Synod
+        description: >-
+          Presiding over the Synod, and thereby over the realm — chosen by the Elders and removable
+          by them.
+    offices:
+      Prime of the Synod: Presiding mage of the Synod and head of state, chosen by the Elders
+        from among themselves.
+      Elder of the Synod: Member of the closed session in which policy, justice and diplomacy
+        are settled.
+      Magister: Mage holding a portfolio of state — a district, a revenue, a court, a garrison.
+      Quaesitor: >-
+        Investigator of the Synod, charged with unlicensed practice and with the conduct of
+        its own members.
+      Chancellor of the Synod: Keeper of its seal and of the writs, charters and licences
+        issued under it.
+      Captain-General: Commander of the realm's forces, appointed by the Synod and never himself
+        a mage.
+      Justiciar: Chief of the realm's courts, applying a law the Synod writes and may revise
+        at will.
+      Bursar: Keeper of the realm's revenue and of the Synod's own considerable endowment.
+      Warden of the Ports: Officer of the harbours, their customs, and the licensing of what
+        may enter the realm.
+      Archivist: >-
+        Keeper of the Synod's records — and, it is widely believed, of a great deal that is
+        not written down.
+      Ambassador: >-
+        Envoy to a foreign court, invariably a mage, and invariably assumed to be more than
+        an envoy.
+  commonSkills:
+    - elvndrlng
+  seat: ravenmoor
+  domains:
     - aelwyth
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 3500000
+  peoples:
+    - human
+  economy:
+    - affiliation-clgmrgntrrm
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    ordoarcanis: aligned
+    kngdmlvndr: aligned
+    kngdmldrth: rival
+    repblctrvn: unaligned
+    tanvurempr: unaligned
+    vylarinmpr: unaligned
 folder: ZbE1NQo3ApZ26xon
 ---
 

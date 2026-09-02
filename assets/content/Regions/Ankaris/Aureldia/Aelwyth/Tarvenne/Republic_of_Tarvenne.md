@@ -8,22 +8,105 @@ name:
   full: Republic of Tarvenne
   aliases: []
 shortcode: repblctrvn
-population: "~2,500,000"
 subType: polity
-capital: thornbury
-demonym: Tarvennan
-government:
-  type: republic
-  summary: Senate of landed citizens and military officers.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Tarvennan
+  governance:
+    model: republic
+    summary: >-
+      A senate of landed citizens and military officers, with a citizen-soldier tradition
+      and a pragmatic, martial political culture.
+    ranks:
+      - level: 0
+        title: Proscribed
+        description: >-
+          Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen
+          may kill them without penalty.
+      - level: 1
+        title: Slave
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        description: >-
+          Manumitted, trading and holding property freely, but barred from office and owing
+          duties to a former master.
+      - level: 3
+        title: Resident Alien
+        description: >-
+          Living and trading in the republic under its protection, paying its taxes, and having
+          no vote in it.
+      - level: 4
+        title: Citizen
+        description: >-
+          Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen
+          is not a member of the governing order.
+      - level: 5
+        title: Equestrian
+        description: >-
+          Of the propertied order that meets the census for office, and from which the magistracies
+          are in practice filled.
+      - level: 6
+        title: Senator
+        description: >-
+          Of the ruling council itself, holding a seat for life and deliberating on war, treasury
+          and law.
+      - level: 7
+        title: Consular
+        description: >-
+          Having held the chief magistracy and vacated it, and speaking with the weight that
+          carries ever after.
+      - level: 8
+        title: First Senator
+        description: >-
+          Presiding over the council and speaking first in it — an office of precedence, held
+          for a term, not a sovereign.
+    offices:
+      First Senator: >-
+        Presiding officer of the senate, who calls it, sets its order and speaks first. Elected,
+        and vacated at term's end.
+      Consul: >-
+        Chief magistrate for the year, holding command in the field and presiding over the
+        senate in the First Senator's absence.
+      Praetor: >-
+        Magistrate of the courts, who declares the law for his year and hears what the lesser
+        courts will not.
+      Censor: >-
+        Keeper of the citizen roll and of the census on which every rank depends; may strike
+        a senator from his seat.
+      Quaestor: >-
+        Officer of the treasury, answerable for revenue, disbursement and the accounts of
+        the magistrates.
+      Aedile: >-
+        Officer of the city — its markets, its streets, its water, its games — and the usual
+        first step in a public career.
+      Tribune: >-
+        Elected to speak for the citizen body and to interpose against a magistrate's act
+        on its behalf.
+      Legate: Commander of a legion in the field, commissioned by the senate and answerable
+        to it.
+      Prefect of the Fleet: Commander of the republic's ships and of the coasts they patrol.
+      Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on
+        return.
+      Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
+  commonSkills:
+    - elvndrlng
+  seat: thornbury
+  domains:
     - aelwyth
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 2500000
+  peoples:
+    - human
+  economy:
+    - affiliation-clgmrgntrrm
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    vylarinmpr: aligned
+    kingdmdnvr: unaligned
+    kngdmldrth: unaligned
 folder: ZbE1NQo3ApZ26xon
 ---
 

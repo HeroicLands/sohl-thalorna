@@ -16,26 +16,97 @@ name:
     - The Janapada of the Gold Mountain
 id: S5gNwK8vRpQ3jLxZ
 shortcode: suvrgrjnpd
-population: "~35,000"
 subType: polity
-capital: suvaragiri
-demonym: Suvarnagiri
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Suvarnagiri
+  governance:
+    model: council
+    summary: >-
+      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the
+      senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri.
+      Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant
+      guilds collectively send twelve; the three temples send two each. Decisions on gold-related
+      questions — extraction, taxation, allocation of the temple-share — require a three-quarters
+      majority, a deliberate constitutional brake against the concentration of mineral wealth.
+    ranks:
+      - level: 0
+        title: Outcaste
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices:
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+        perform.
+      Rājñī: The chief queen, holding her own revenues, household and voice at court.
+      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
+      Mantrin: Minister of the crown, one of the small council through which the kingdom is
+        actually run.
+      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
+      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
+        minister's.
+      Senāpati: Commander of the host, holding the martial council's confidence as well as
+        the king's.
+      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+        mint.
+      Sāmanta: >-
+        A vassal chieftain holding land in return for service, and the kingdom's chief source
+        of both strength and rebellion.
+      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
+        the passes.
+      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+  commonSkills:
+    - vedyarlng
+  seat: suvaragiri
+  domains:
     - vedyarargn
-  polities:
+  population: 35000
+  peoples:
+    - human
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  parents:
     - janpdsvdyr
-government:
-  type: confederation
-  summary: Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri. Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions — extraction, taxation, allocation of the temple-share — require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  relations:
+    varakpnthn: aligned
 terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 folder: q61mqomRaSzUNfrY
 ---

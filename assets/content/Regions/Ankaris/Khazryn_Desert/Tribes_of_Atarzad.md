@@ -18,24 +18,100 @@ name:
     - The Twelve Tribes
 id: TY7K3wF8nQpV2zRm
 shortcode: tribestrzd
-population: "~1,000,000"
 subType: polity
-capital: beitshofar
-demonym: Ātárzád
-government:
-  type: confederation
-  summary: Twelve tribes, each led by a hereditary nasi (chieftain) and a council of elders. The Council of the Twelve convenes annually at Beit-Shōfár (the holy seat at Mt. Shōfar) to coordinate defense, adjudicate inter-tribal disputes, and renew the Covenant. In times of crisis a Shōfet (Judge) is acclaimed with broad temporary authority — by tradition always a prophet or warrior chosen by the Mōbadān-Shōfár, the Keeper of the Unconsuming Flame.
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Ātárzád
+  governance:
+    model: confederation
+    summary: >-
+      Twelve tribes, each led by a hereditary nasi (chieftain) and a council of elders. The
+      Council of the Twelve convenes annually at Beit-Shōfár (the holy seat at Mt. Shōfar)
+      to coordinate defense, adjudicate inter-tribal disputes, and renew the Covenant. In
+      times of crisis a Shōfet (Judge) is acclaimed with broad temporary authority — by tradition
+      always a prophet or warrior chosen by the Mōbadān-Shōfár, the Keeper of the Unconsuming
+      Flame.
+    ranks:
+      - level: 0
+        title: Kinless
+        description: >-
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
+          vengeance.
+      - level: 1
+        title: Bondservant
+        description: >-
+          Held in service or debt to a household, and answerable through its head rather than
+          in their own name.
+      - level: 2
+        title: Dependent
+        description: >-
+          Sheltered by a household without being of its blood — a client, a widow's family,
+          a taken-in stranger.
+      - level: 3
+        title: Kinsman
+        description: Of a household's blood, entitled to its protection, its feud and its share.
+      - level: 4
+        title: Householder
+        description: >-
+          Head of a tent or hall, holding its herds and its people and speaking for them at
+          the moot.
+      - level: 5
+        title: Elder
+        description: Senior of a lineage, whose memory of custom and precedent settles what
+          the young dispute.
+      - level: 6
+        title: Chieftain
+        description: >-
+          Leading a clan or tribe by descent and by consent together, and losing it when either
+          fails.
+      - level: 7
+        title: Delegate
+        description: Sent by a tribe to the common council, empowered to argue and not to bind.
+      - level: 8
+        title: Speaker of the Council
+        description: >-
+          Presiding over the common council, holding the peace of its meeting and no authority
+          beyond it.
+    offices:
+      Speaker of the Council: Presiding officer of the common council, keeper of its peace
+        and of the order of speaking.
+      Chieftain: Head of a clan or tribe, holding by descent and consent together.
+      Elder: Senior of a lineage, whose recollection of custom settles disputes the young
+        cannot.
+      Lawkeeper: >-
+        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs
+        differ.
+      Host-Caller: Summoner of the common muster when a threat concerns every tribe.
+      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered
+        to enforce it.
+      Water-Warden: >-
+        Keeper of the wells, springs or pastures the tribes share, and of the order in which
+        they are used.
+      Guide: >-
+        Holder of the routes — their water, their seasons and their dangers — and hired at
+        a price accordingly.
+      Envoy: Sent to treat with a settled power, and protected by custom while he carries
+        the word.
+      Keeper of the Feud: >-
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement
+        cannot be reckoned.
+  commonSkills:
+    - atarzadilng
+  seat: beitshofar
+  domains:
     - khzryndsrtrgn
-languages:
-  - atarzadi-language
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
+  population: 1000000
+  peoples:
+    - human
+  economy:
+    - lore-bartercnmy
+    - lore-kinhalcrdt
+    - lore-vdyrnbnkng
+  parents: []
+  relations:
+    ashanpnthn: aligned
+    khzrncnfdrtn: nemesis
+    sultntmrdd: unaligned
 terran_analog: "Israelites of the Exodus and Conquest — twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
 folder: PbQ9B1r6hEaJvyco
 ---

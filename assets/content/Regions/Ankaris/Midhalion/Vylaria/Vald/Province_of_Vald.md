@@ -9,23 +9,92 @@ name:
   aliases: []
 shortcode: provincvld
 subType: polity
-demonym: Vylarian
-government:
-  type: province
-  summary: Maritime/commercial province of the Vylarian Empire, governed by an imperial appointee.
-languages:
-  - vylarilng
-capital: mercavia
-population: "~5,000,000"
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Vylarian
+  governance:
+    model: monarchy
+    summary: Maritime/commercial province of the Vylarian Empire, governed by an imperial
+      appointee.
+    ranks:
+      - level: 0
+        title: Proscribed
+        description: >-
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
+          collects it.
+      - level: 1
+        title: Slave
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        description: Manumitted, and in the imperial household often far more powerful than
+          the rank suggests.
+      - level: 3
+        title: Peregrine
+        description: >-
+          A provincial living under imperial authority without the citizenship — the great majority
+          of the empire's people.
+      - level: 4
+        title: Citizen
+        description: >-
+          Holding the citizenship by birth, grant or service, with its protections at law and
+          its liability to its taxes.
+      - level: 5
+        title: Equestrian
+        description: >-
+          Of the propertied order from which the prefectures, the procuratorships and the great
+          commands are filled.
+      - level: 6
+        title: Senator
+        description: >-
+          Of the senatorial families, holding a seat for life and the empire's highest civil
+          offices with it.
+      - level: 7
+        title: Consular
+        description: Having held the consulship, and eligible thereafter for the greatest provincial
+          commands.
+      - level: 8
+        title: Governor
+        description: >-
+          Holding the province for the emperor, commanding its garrison and its courts, and
+          answerable to him alone.
+    offices:
+      Governor: >-
+        Holder of the province in the emperor's name, commanding its garrison, its revenue
+        and its courts.
+      Legate: Commander of the legion stationed in the province, and the governor's deputy
+        in the field.
+      Procurator: >-
+        Officer of the imperial revenue within the province, reporting past the governor to
+        the emperor.
+      Quaestor: Officer of the provincial treasury and of its accounts.
+      Prefect of the Watch: Commander of the province's urban cohorts and keeper of its peace.
+      Curator of the Roads: Warden of the imperial roads, their posts, their bridges and the
+        levy that maintains them.
+      Duumvir: One of the two annually elected chief magistrates of a chartered town within
+        the province.
+      Decurion: Member of a town's council, liable in his own person for the taxes it owes.
+      Flamen: >-
+        Priest of the provincial cult, presiding over the rites that bind the province to
+        the capital.
+  commonSkills:
+    - vylarilng
+  seat: mercavia
+  domains:
     - vylariargn
-  polities:
+  population: 5000000
+  peoples:
+    - human
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  parents:
     - vylarinmpr
+  relations:
+    arldnpnthn: aligned
 folder: WSdLuPc7BaRqxNEt
 ---
 

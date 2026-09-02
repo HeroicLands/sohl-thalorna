@@ -16,29 +16,97 @@ name:
   aliases: []
 id: SsYaojXUrAE6wy9I
 shortcode: tanvurempr
-population: "~120,000,000"
 img: ""
 type: affiliation
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
-demonym: Tānvüri
 subType: polity
-capital: ""
-ruler:
-  title: Emperor
-government:
-  type: monarchy
-  summary: Hereditary monarchy
-parent:
-  continents:
-    - ankrscntnnt
-  region:
-    - tamvur-region
-pantheons:
-  - tngvkvnlei
-peoples:
-  - human
-languages:
-  - tanvurlng
+data:
+  templatePriority: null
+  demonym: Tānvüri
+  governance:
+    model: autocracy
+    summary: >-
+      Emperor and Warlords of the Zhëklüng over a rigid eight-caste order, administered by
+      a celestial bureaucracy that tracks the purity of officials and the movements of comets
+      in the same ministries.
+    ranks:
+      - level: 0
+        title: Nützōk
+        description: >-
+          Slaves and outcasts: the caste that is not a caste, whose members may hold no name
+          the law recognises.
+      - level: 1
+        title: Shükrën
+        description: >-
+          Merchants and usurers — wealthy, indispensable, and ranked beneath the peasantry for
+          the offence of profiting without producing.
+      - level: 2
+        title: Nōkvür
+        description: >-
+          Peasant farmers and labourers, the base on which the celestial order rests and the
+          caste it constrains most.
+      - level: 3
+        title: Zāthük
+        description: >-
+          Artisans, craftsmen and common warriors — skilled hands, and the highest a commoner
+          may ordinarily rise.
+      - level: 4
+        title: Tānthëi
+        description: >-
+          Celestial Scholars: interpreters of omens and keepers of the sacred texts by which
+          the empire reckons everything.
+      - level: 5
+        title: Vüshōk
+        description: >-
+          Warrior nobility — the military commanders and administrators through whom the provinces
+          are held.
+      - level: 6
+        title: Vëndük
+        description: >-
+          Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence
+          and owning nothing, not even themselves.
+      - level: 7
+        title: Zhëklüng
+        description: >-
+          Sons of the Dragon — the imperial family and the Warlords, in whom the celestial mandate
+          is held to run.
+      - level: 8
+        title: Emperor
+        description: >-
+          The Dragon himself, in whom the celestial administration and the caste order alike
+          find their justification.
+    offices:
+      Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
+      Warlord: Of the Zhëklüng, holding a province with its armies and answering to the Emperor
+        alone.
+      Celestial Minister: >-
+        Head of a ministry of the imperial administration, which tracks comets and officials
+        with equal rigour.
+      Omen-Reader: Tānthëi charged with interpreting the heavens for the timing of imperial
+        acts.
+      Keeper of the Sacred Texts: Tānthëi warden of the canon against which every proposal
+        is measured.
+      Caste-Registrar: >-
+        Officer of the rolls on which every subject's caste, and therefore every subject's
+        law, is recorded.
+      Warden of the Bound: Keeper of the Vëndük — their bindings, their assignment and their
+        disposal.
+      Commandant: Vüshōk officer commanding a garrison or a field army.
+      Provincial Administrator: Vüshōk officer holding a district's revenue, courts and corvée.
+      Censor of Purity: >-
+        Inspector of the ritual purity of provincial officials, and the most feared visitor
+        in any prefecture.
+  commonSkills:
+    - tanvurlng
+  domains: []
+  population: 120000000
+  peoples:
+    - human
+  economy: []
+  parents: []
+  relations:
+    tngvkvnlei: aligned
+    kingdmdnvr: unaligned
 folder: jV7c6dJp4Ztnjtb3
 ---
 

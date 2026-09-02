@@ -14,23 +14,72 @@ name:
     - The Temple-Republics of Vedyara
 id: V8KrM9dT3wPq2nXc
 shortcode: janpdsvdyr
-population: "~90,000,000"
 subType: polity
-demonym: Vedyari
-government:
-  type: confederation
-  summary: A loose confederation of several thousand small temple-republics (janapadas), each a federation of ten to fifteen villages organized around a central temple-complex and governed by its own sabhā (assembly). No central executive. Coordination occurs through the great pilgrimage festivals — most importantly the Mahā-Mela held every twelfth year at the holy confluence of the Chandramahī and the Sarvada — at which the senior priests and elders of each janapada confer on inter-republic matters, settle boundary and water disputes, ratify shared trade conventions, and reaffirm the shared Varṇaka tradition.
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Vedyari
+  governance:
+    model: confederation
+    summary: >-
+      The Mahā-Saṅgha convenes and does not govern: no legislature, no taxation, no executive
+      and no officers — only consensus among senior priests, enforced by the withdrawal of
+      inter-janapada goodwill.
+    ranks:
+      - level: 0
+        title: Outcaste
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices: {}
+  commonSkills:
+    - vedyarlng
+  domains:
     - vedyarargn
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  population: 90000000
+  peoples:
+    - human
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  parents: []
+  relations:
+    varakpnthn: aligned
 terran_analog: "Medieval South Indian sabhā/ur temple-republics — Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 folder: q61mqomRaSzUNfrY
 ---

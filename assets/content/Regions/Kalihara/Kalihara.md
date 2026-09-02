@@ -8,25 +8,92 @@ name:
   full: Kalihara
   aliases: []
 shortcode: kalihara
-population: "~3,000,000"
 subType: polity
-capital: qasirah
-demonym: Kaliharan
-government:
-  type: confederation
-  summary: Loose confederation of coastal port-cities and inland traditionalist clans.
-parent:
-  continents:
-    - klhrcntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Kaliharan
+  governance:
+    model: council
+    summary: Loose confederation of coastal port-cities and inland traditionalist clans.
+    ranks:
+      - level: 0
+        title: Severed
+        description: >-
+          Cut off from the lineages and from the structures' service; permitted to live, and
+          spoken to by no one.
+      - level: 1
+        title: Bondservant
+        description: Held in service to a lineage, and answerable through its head.
+      - level: 2
+        title: Islander
+        description: >-
+          Of the common lineages, working the terraces and the fisheries under the island's
+          ancient order.
+      - level: 3
+        title: Craftsman
+        description: >-
+          Of the skilled trades the island's isolation makes precious — shipwrights, dyers,
+          smiths, apothecaries.
+      - level: 4
+        title: Warden of the Approaches
+        description: >-
+          Charged with the sea-lanes, the pilots and the strangers who must never be allowed
+          to land uninvited.
+      - level: 5
+        title: Ithári'kaan
+        description: >-
+          Keeper of the ancient structures, trained from childhood in maintenance rites whose
+          purpose is no longer wholly understood.
+      - level: 6
+        title: Elder of a Lineage
+        description: >-
+          Head of one of the old kindreds, holding its lands, its memory and its share of the
+          island's secrets.
+      - level: 7
+        title: Councillor
+        description: Of the body that governs the island and decides, chiefly, what outsiders
+          may be told.
+      - level: 8
+        title: Speaker for the Island
+        description: Presiding over the Council and the one voice permitted to answer a foreign
+          power.
+    offices:
+      Speaker for the Island: >-
+        Presiding officer of the Council, and the only Kaliharan authorised to treat with
+        a foreign power.
+      Councillor: Member of the governing body, seated by lineage and by charge over the structures.
+      Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what
+        the island knows.
+      Ithári'kaan: >-
+        Keeper of the ancient structures, performing maintenance rites learned by rote across
+        ten millennia.
+      Warden of the Approaches: Keeper of the sea-lanes, the pilots and the reception of anyone
+        who arrives.
+      Keeper of the Failing Works: >-
+        Charged with the installations that have dimmed or gone dark — an office of recent
+        and unadmitted creation.
+      Master of the Terraces: Warden of the island's agriculture, and of the weather-works
+        it has always depended on.
+      Harbour-Warden: >-
+        Keeper of the single anchorage foreigners may use, and of everything they are permitted
+        to see from it.
+      Envoy: >-
+        Sent abroad on the Council's business, briefed in what to say and, more carefully,
+        in what not to.
+  commonSkills:
+    - kalihrlng
+    - valtarlng
+  seat: qasirah
+  domains:
     - kaliharargn
-languages:
-  - kalihrlng
-  - valtarlng
-pantheons:
-  - tharivaan
-peoples:
-  - human
+  population: 3000000
+  peoples:
+    - human
+  economy:
+    - lore-bartercnmy
+  parents: []
+  relations:
+    tharivaan: aligned
 folder: ySaln4Q82C7W1p0I
 ---
 

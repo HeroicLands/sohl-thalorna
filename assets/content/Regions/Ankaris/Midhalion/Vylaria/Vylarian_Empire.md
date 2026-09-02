@@ -10,24 +10,104 @@ name:
   full: Vylarian Empire
   aliases: []
 shortcode: vylarinmpr
-population: "~21,000,000"
 subType: polity
-capital: magnapolis
-demonym: Vylarian
-ruler:
-  title: Emperor
-government:
-  type: empire
-  summary: Centralized imperial bureaucracy under a hereditary emperor; governs four core provinces.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Vylarian
+  governance:
+    model: monarchy
+    summary: >-
+      Hereditary emperor over a senate of the great families, a scribal bureaucracy and the
+      curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+    ranks:
+      - level: 0
+        title: Proscribed
+        description: >-
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
+          collects it.
+      - level: 1
+        title: Slave
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        description: Manumitted, and in the imperial household often far more powerful than
+          the rank suggests.
+      - level: 3
+        title: Peregrine
+        description: >-
+          A provincial living under imperial authority without the citizenship — the great majority
+          of the empire's people.
+      - level: 4
+        title: Citizen
+        description: >-
+          Holding the citizenship by birth, grant or service, with its protections at law and
+          its liability to its taxes.
+      - level: 5
+        title: Equestrian
+        description: >-
+          Of the propertied order from which the prefectures, the procuratorships and the great
+          commands are filled.
+      - level: 6
+        title: Senator
+        description: >-
+          Of the senatorial families, holding a seat for life and the empire's highest civil
+          offices with it.
+      - level: 7
+        title: Consular
+        description: Having held the consulship, and eligible thereafter for the greatest provincial
+          commands.
+      - level: 8
+        title: Emperor
+        description: >-
+          The sovereign, whose authority rests on tradition, the loyalty of the armies and the
+          senate's acquiescence — and who is a prisoner of all three.
+    offices:
+      Emperor: >-
+        The sovereign, first among the senate in name and its master in fact, so long as the
+        armies hold.
+      Augusta: The emperor's consort, holding her own household, revenues and court faction.
+      Consul: >-
+        Chief magistrate of the year — an office of enormous prestige and, under an emperor,
+        of modest power.
+      Praetor: Magistrate of the courts, declaring the law for his year.
+      Censor: Keeper of the citizen roll and of the senatorial census.
+      Quaestor: Officer of the treasury, answerable for revenue and disbursement.
+      Aedile: Officer of the city's markets, streets, water and games.
+      Tribune: >-
+        Speaker for the citizen body, and a title the emperor holds himself for what it lets
+        him block.
+      Praetorian Prefect: Commander of the emperor's guard, and in practice the second man
+        in the empire.
+      Legate: Commander of a legion, or governor of an imperial province, commissioned by
+        the emperor.
+      Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
+      Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his
+        own person.
+  commonSkills:
+    - vylarilng
+  seat: magnapolis
+  domains:
     - vylariargn
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 21000000
+  peoples:
+    - human
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    ordoarcanis: unaligned
+    cnfdrtnhrdnstts: nemesis
+    ctysttshlns: aligned
+    kngdmprvnz: unaligned
+    kingdmtrvn: rival
+    vrystwldtrbs: rival
+    empirtkhpr: unaligned
+    hlykngdmnrtm: rival
 terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria — the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 folder: WSdLuPc7BaRqxNEt
 ---

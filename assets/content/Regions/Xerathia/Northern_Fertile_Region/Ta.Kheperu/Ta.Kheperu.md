@@ -11,27 +11,102 @@ name:
   aliases: []
 id: 4K5TrZq1I8XKWfUx
 shortcode: empirtkhpr
-population: "~19,000,000"
 subType: polity
-demonym: Kheperi
-capital: wasetkara
-ruler:
-  title: Per-Aá
-  name: Nefret-Ka III
-government:
-  type: empire
-  summary: Semi-divine Per-Aá rules; regional princes govern nomes (provinces).
-parent:
-  continents:
-    - xerathia
-  regions:
+data:
+  templatePriority: null
+  demonym: Kheperi
+  governance:
+    model: monarchy
+    summary: >-
+      Divine kingship over hereditary nomarchs and a scribal bureaucracy: the Per-Aá is nominal
+      supreme priest of every god, and the polite fiction holds the whole structure up.
+    ranks:
+      - level: 0
+        title: Outcast
+        description: >-
+          Driven from the nomes and denied burial, which is the true sentence: without a tomb
+          there is no continuation.
+      - level: 1
+        title: Bondsman
+        description: >-
+          Bound to an estate or a temple, owing labour on its fields and its works and holding
+          nothing of his own.
+      - level: 2
+        title: Farmer
+        description: >-
+          Working the floodplain under a lord or a temple, owing a share of the harvest and
+          labour on the canals.
+      - level: 3
+        title: Artisan or Merchant
+        description: >-
+          Of the trades — potters, weavers, boatmen, traders — free of the fields and taxed
+          on their work.
+      - level: 4
+        title: Scribe
+        description: >-
+          Lettered, and therefore the empire's principal path upward: a talented child of any
+          house may enter the schools.
+      - level: 5
+        title: Heka'hut
+        description: >-
+          Ruler of an estate — its manor, its fields and its village — answerable to the nomarch
+          above.
+      - level: 6
+        title: Haty'a
+        description: >-
+          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes
+          and dispensing its justice.
+      - level: 7
+        title: Iry'pat
+        description: >-
+          Of the royal house and the most exalted families, the highest hereditary rank below
+          the throne.
+      - level: 8
+        title: Per-Aá
+        description: >-
+          The divine sovereign, on whose claim all temple and secular authority rests — a fiction
+          nobody believes and nobody may abandon.
+    offices:
+      Per-Aá: The divine sovereign, nominal supreme priest of every god and apex of the state.
+      Iry'pat: >-
+        Highest hereditary rank below the throne, held by the royal house and the most exalted
+        noble families.
+      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
+      Heka'hut: Ruler of an estate — manor, fields and village — answerable to the nomarch.
+      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
+      Nebet: Lady of the court, whose standing comes from position rather than from land.
+      Semer: >-
+        Companion of the Per-Aá: a title of royal favour and access rather than territorial
+        authority.
+      Wer'Hekau: >-
+        Great of Sacred Power — High Priest of a major temple, master of its estates and voice
+        of its god.
+      Hem'Netjer: >-
+        Servant of the God — the ordained priesthood that conducts the rites and runs the
+        temple's lands.
+      Wab: >-
+        Purified One — acolyte in the temple schools, years from ordination and already better
+        educated than most.
+      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
+        men who actually govern.
+  commonSkills:
+    - kheperlng
+  seat: wasetkara
+  domains:
     - takheperurgn
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
-peoples:
-  - human
+  population: 19000000
+  peoples:
+    - human
+  economy:
+    - affiliation-bthntrdhss
+    - affiliation-perhati
+    - lore-tkhprcrncy
+  parents: []
+  relations:
+    kemtnpnthn: aligned
+    mtrrchybth: aligned
+    vylarinmpr: unaligned
+    okharis: unaligned
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
 folder: Mg1l8E3ZTJp6bbHO
 ---

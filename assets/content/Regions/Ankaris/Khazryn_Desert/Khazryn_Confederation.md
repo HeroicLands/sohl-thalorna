@@ -15,24 +15,97 @@ name:
     - Princes of the Khazryn
 id: Q9XLm5Jr3wD8nKvT
 shortcode: khzrncnfdrtn
-population: "~2,000,000"
 subType: polity
-capital: oasishirvn
-demonym: Khazryn
-government:
-  type: confederation
-  summary: League of seven princely houses (three still-ruling on peripheral oases, four in exile from the Ātárzád-conquered cities), bound by ancient compact and presided over by the senior High Mōbad of Āhúrdáén in the Sultanate of Amradad as neutral convenor. The Council of the Princes meets annually at Amradad to coordinate diplomacy, manage the diaspora, dispute Ātárzád encroachments, and maintain the genealogies and claims of the dispossessed houses.
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Khazryn
+  governance:
+    model: confederation
+    summary: >-
+      A Council of the Princes of seven houses — three still ruling their oases, four ruling
+      in exile at Amradad — which coordinates a common diplomatic position and does not govern.
+    ranks:
+      - level: 0
+        title: Blood-Debtor
+        description: >-
+          Under an unsettled feud and outside the confederation's protection until it is paid
+          or avenged.
+      - level: 1
+        title: Bondservant
+        description: >-
+          Bound in service or debt to a house, and answerable through it rather than in his
+          own name.
+      - level: 2
+        title: Subject
+        description: >-
+          Of the peoples the houses ruled and rule, owing dues and labour and holding no place
+          in the Council.
+      - level: 3
+        title: Kinsman of a House
+        description: >-
+          Of a princely house's blood or sworn following, entitled to its protection and its
+          quarrels.
+      - level: 4
+        title: Retainer
+        description: >-
+          Holding a charge in a house's service — its caravans, its guards, its correspondence,
+          its exile courts.
+      - level: 5
+        title: Mōbad
+        description: Ordained to the fire and the law, keeping the rites the Catastrophe did
+          not extinguish.
+      - level: 6
+        title: Elder of a House
+        description: Senior of a princely house, whose counsel binds its head in practice if
+          not in form.
+      - level: 7
+        title: Prince of a House
+        description: >-
+          Head of one of the seven houses — three still ruling, four ruling in exile, and all
+          seven seated at the Council.
+      - level: 8
+        title: First of the Seven
+        description: >-
+          The senior house's prince, who speaks first at the Council by long custom and commands
+          nothing by it.
+    offices:
+      Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining
+        a court in exile.
+      First of the Seven: The senior prince, entitled by custom to speak first at the Council
+        of the Princes.
+      Elder of a House: Senior kinsman whose counsel a prince disregards at his cost.
+      Mōbad: >-
+        Ordained keeper of the fire, the law and the commentaries — the confederation's continuity
+        through its catastrophe.
+      Steward of the Exile Court: >-
+        Administrator of a dispossessed house's affairs in Amradad — its revenues, its clients,
+        its claims.
+      Caravan-Master: Holder of a house's trade upon the routes, and the practical source
+        of its money.
+      Warden of the Oasis: Keeper of a still-held settlement's water, walls and gates.
+      Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim
+        to its ruins rests.
+      Envoy to the Sultanate: A house's representative at Amradad, where the Council meets
+        on the Sultan's courtesy.
+      Keeper of the Feud: Recorder of blood owed and blood paid between houses and against
+        the Ātárzád.
+  commonSkills:
+    - khazrilng
+  seat: oasishirvn
+  domains:
     - khzryndsrtrgn
-languages:
-  - khazri-language
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
+  population: 2000000
+  peoples:
+    - human
+  economy:
+    - lore-bartercnmy
+    - lore-kinhalcrdt
+    - lore-vdyrnbnkng
+  parents: []
+  relations:
+    ashanpnthn: aligned
+    tribestrzd: nemesis
+    sultntmrdd: aligned
 terran_analog: "Canaanites of the post-Conquest period — indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 folder: PbQ9B1r6hEaJvyco
 ---
