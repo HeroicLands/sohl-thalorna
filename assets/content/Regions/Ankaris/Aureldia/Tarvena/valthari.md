@@ -2,8 +2,8 @@
 aliases:
   - Valthari
 id: USGSRbE2bkZDbV2o
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Free City"
 population: null
 languages:

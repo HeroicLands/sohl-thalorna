@@ -3,8 +3,8 @@ aliases:
   - Zhëklüng
   - Zheklung
 id: aKsAcLBGhRxCxtQa
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Zhëklüng
   aliases: []

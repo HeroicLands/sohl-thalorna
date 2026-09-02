@@ -11,8 +11,8 @@ id: AGDIBlqVdMHfEas9
 img: icons/divination.svg
 shortcode: sense
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 2
   masteryLevelBase: 0

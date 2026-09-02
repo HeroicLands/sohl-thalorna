@@ -10,7 +10,7 @@ tags:
   - economy
 description: "Post-secession Haradian monetary system — Vylarian-derived denominations (Aurion, Argo, Bit) issued and cleared through the Sôd-Naqîrîn's Bayt al-Khazînah rather than the Vylarian Aerarium Imperii; uses Haradian-struck coin (slightly underweight Aurion, standard-weight Argo) and Haradian temple-of-treasury chits."
 type: doc
-category: reference
+subType: reference
 id: kZXrUIVkc5qtppwM
 name:
   full: Haradian Currency

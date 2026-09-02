@@ -5,8 +5,8 @@ tags:
   - lore
   - arcane
   - hex-hodai
-type: doc
-category: lore
+type: lore
+subType: folk
 id: s9k0RsnEfufDRuQb
 shortcode: hxhdncnttns
 name:

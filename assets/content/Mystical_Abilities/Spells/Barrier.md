@@ -11,8 +11,8 @@ id: t6f45TKttawRfIqp
 img: icons/anvil.svg
 shortcode: barrier
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 1
   masteryLevelBase: 0

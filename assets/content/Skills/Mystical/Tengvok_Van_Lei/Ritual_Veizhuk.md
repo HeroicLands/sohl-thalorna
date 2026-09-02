@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: vFyGKnWYwN3hPuCW
 shortcode: veizhuk
 name:
   full: "Ritual: Vëizhük"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -2,8 +2,8 @@
 aliases:
   - Sau
 id: 0WGb17kK6gRRoQyH
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market & Temple Town"
 population: 45000
 languages:

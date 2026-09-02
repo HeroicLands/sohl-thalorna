@@ -12,6 +12,7 @@ id: qu6Gu3UYyN8mpfev
 img: icons/potion.svg
 shortcode: PtnCurS
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Curative, Strong"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 48
   weight: 0.25
-  subType: "exotic"
   potency: "strong"
   strength: 0
   archetype: null

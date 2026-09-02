@@ -12,6 +12,7 @@ id: DKbB1Gurlr0iCfSz
 img: icons/potion.svg
 shortcode: PtnCoagS
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Coagulant, Strong"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 48
   weight: 0.25
-  subType: "exotic"
   potency: "strong"
   strength: 0
   archetype: null

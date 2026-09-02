@@ -11,8 +11,8 @@ name:
 id: KL25bRryRCoKb7k5
 shortcode: byzariargn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 parent:
   regions:

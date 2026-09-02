@@ -3,14 +3,13 @@ aliases:
   - Athenikos
 id: YoecXj6UMRMpDlJx
 description: "City-state of Helionis governed by an oligarchy of wealthy patron families."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Athenikos
   aliases: []
 shortcode: athenikos
 population: null
-subType: city-state
+subType: polity
 demonym: Athenikan
 government:
   type: city-state

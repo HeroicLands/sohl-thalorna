@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: KGNBbd2wcsgUoxuh
 shortcode: daktrvrtht
 name:
   full: "Ritual: Dāktūr Vōrthāt"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

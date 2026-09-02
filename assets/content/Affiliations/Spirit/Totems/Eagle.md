@@ -7,8 +7,8 @@ id: T2EpauXH7NkoWDwt
 img: images/mystery/eagle.webp
 shortcode: eaglettm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

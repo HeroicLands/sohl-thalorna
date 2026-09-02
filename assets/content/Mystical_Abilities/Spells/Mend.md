@@ -11,8 +11,8 @@ id: ansvOt5ow8NYe2FO
 img: icons/anvil.svg
 shortcode: mend
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 5
   masteryLevelBase: 0

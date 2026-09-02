@@ -2,8 +2,8 @@
 aliases:
   - Ch'akul Tza'kul
 id: KSV987J7Ylm8L6ws
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

@@ -8,10 +8,10 @@ id: 7IP3RJVcyDlNdHeN
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: arnos
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": 15

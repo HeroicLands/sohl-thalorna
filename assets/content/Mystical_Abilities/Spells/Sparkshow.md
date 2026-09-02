@@ -9,8 +9,8 @@ id: tsoncTCuLVCILcRF
 img: icons/fire.svg
 shortcode: sprkshw
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 2
   masteryLevelBase: 0

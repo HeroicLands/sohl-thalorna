@@ -12,6 +12,7 @@ id: nqar86tGCHvZFeCx
 img: icons/potion.svg
 shortcode: PtnParM
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Paralytic, Mild"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 16
   weight: 0.25
-  subType: "exotic"
   potency: "mild"
   strength: 0
   archetype: null

@@ -3,8 +3,8 @@ aliases:
   - Tānthëi
   - Tanthei
 id: 1jK4MD4BEqFGPa5s
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Tānthëi
   aliases: []

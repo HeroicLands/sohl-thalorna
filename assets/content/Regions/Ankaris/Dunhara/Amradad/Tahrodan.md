@@ -2,8 +2,8 @@
 aliases:
   - Tahrodan
 id: gqBpXloRdqQrE3Og
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress Town"
 name:
   full: Tahrodan

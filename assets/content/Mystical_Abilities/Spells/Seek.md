@@ -11,8 +11,8 @@ id: frToOKkP5XcAqKyR
 img: icons/circle.svg
 shortcode: seek
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 1
   masteryLevelBase: 0

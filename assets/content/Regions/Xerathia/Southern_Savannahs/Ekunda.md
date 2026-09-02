@@ -5,8 +5,8 @@ aliases:
   - Ékunda
   - Ekunda
 id: VQ6dTH1kqTQUvI3F
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Village"
 population: null
 languages:

@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: 2AC9IfPUiDi6WvZC
 shortcode: yutvei
 name:
   full: "Ritual: Yütvëi"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

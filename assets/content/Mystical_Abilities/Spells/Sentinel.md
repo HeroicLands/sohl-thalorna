@@ -11,8 +11,8 @@ id: CifujLwsWAQi0VGw
 img: icons/tree.svg
 shortcode: sentinel
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 4
   masteryLevelBase: 0

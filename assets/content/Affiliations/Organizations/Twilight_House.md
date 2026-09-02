@@ -16,8 +16,8 @@ name:
     - The House of the Long Evening
     - Sandhyāgriha
 shortcode: twilighths
-type: doc
-category: location
+type: place
+subType: region
 folder:
 ---
 

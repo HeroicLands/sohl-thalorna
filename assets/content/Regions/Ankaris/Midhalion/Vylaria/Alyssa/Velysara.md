@@ -3,8 +3,8 @@ aliases:
   - Velysâra
   - Velysara
 id: 2I43nt8D8FSmXEY4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Provincial City"
 population: 20000
 languages:

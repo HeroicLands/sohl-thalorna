@@ -3,8 +3,8 @@ aliases:
   - Dûn Ashir
   - Dun Ashir
 id: OEZyUT8hxlPoOJhD
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Oasis Settlement"
 population: null
 languages:

@@ -12,8 +12,8 @@ id: KdhLK3zMw79DU7AY
 img: icons/speaking.svg
 shortcode: atarzadilng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

@@ -2,8 +2,8 @@
 aliases:
   - Silvain
 id: ELnmJWDc7tzAXnaz
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Woodland Settlement"
 population: null
 pantheons:

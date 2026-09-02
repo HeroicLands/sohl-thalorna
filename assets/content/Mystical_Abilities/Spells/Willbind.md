@@ -11,8 +11,8 @@ id: gw615tcfV5fcUfa1
 img: icons/circle.svg
 shortcode: willbind
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

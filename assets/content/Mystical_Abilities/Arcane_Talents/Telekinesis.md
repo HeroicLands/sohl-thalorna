@@ -7,8 +7,8 @@ id: NDRL0yD5OPELKNBM
 img: icons/psionics.svg
 shortcode: telek
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

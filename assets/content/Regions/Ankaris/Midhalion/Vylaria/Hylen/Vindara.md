@@ -2,8 +2,8 @@
 aliases:
   - Vindara
 id: Hy7vNx3kEm2Rb8Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: 6000
 languages:

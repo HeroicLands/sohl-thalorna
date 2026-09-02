@@ -9,8 +9,8 @@ id: wYrQBhECXQGbEMw5
 img: images/mystery/wolf.webp
 shortcode: wolfttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

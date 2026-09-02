@@ -4,8 +4,8 @@ aliases:
 id: Zvj8DfE3VgmJWxDj
 tags:
   - draft
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: ""
 population: null
 languages: []

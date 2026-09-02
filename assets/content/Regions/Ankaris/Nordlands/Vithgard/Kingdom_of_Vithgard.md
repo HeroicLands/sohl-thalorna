@@ -4,14 +4,13 @@ aliases:
   - Vithgard
 id: tuoLf29uNWFoLJy7
 description: "Northernmost Normen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses — whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Vithgard
   aliases: []
 shortcode: kngdmvthgrd
 population: "~900,000"
-subType: kingdom
+subType: polity
 capital: bjornstad
 demonym: Vithgardian
 ruler:

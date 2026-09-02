@@ -2,8 +2,8 @@
 aliases:
   - Qadhirun
 id: eo7Mlrw34ELw2CFY
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port Town"
 population: null
 languages:

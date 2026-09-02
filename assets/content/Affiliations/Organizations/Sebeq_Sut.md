@@ -14,10 +14,8 @@ name:
     - Merchant Alliance
 shortcode: sebeqsut
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

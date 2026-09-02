@@ -2,8 +2,8 @@
 aliases:
   - Ixkul K’ul
 id: AOgoVrsaeRLgPydh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple City"
 population: null
 languages:

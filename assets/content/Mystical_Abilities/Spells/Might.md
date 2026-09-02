@@ -11,8 +11,8 @@ id: FSuWixExM0DE948r
 img: icons/tree.svg
 shortcode: might
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 3
   masteryLevelBase: 0

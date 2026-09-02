@@ -2,8 +2,8 @@
 aliases:
   - Valdosta
 id: mT25GbjyVhZHPVHL
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: 5000
 languages:

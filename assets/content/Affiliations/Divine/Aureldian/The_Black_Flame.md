@@ -13,8 +13,8 @@ name:
 shortcode: blackflame
 img: images/affiliation/blackflame.webp
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

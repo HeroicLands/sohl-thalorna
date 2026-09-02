@@ -6,7 +6,6 @@ name:
   full: Beings
   aliases: []
 type: doc
-category: collection
 shortcode: beings
 section: being
 tags:

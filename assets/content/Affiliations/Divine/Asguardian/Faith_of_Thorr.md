@@ -5,6 +5,7 @@ id: K9I6050D5wN7Vs3Z
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Thórr
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: thorr
 img: images/affiliation/thorr.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

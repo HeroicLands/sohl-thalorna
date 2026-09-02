@@ -11,8 +11,8 @@ id: czMgm7inuLd1Qokx
 img: icons/water.svg
 shortcode: wtrsrch
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 2
   masteryLevelBase: 0

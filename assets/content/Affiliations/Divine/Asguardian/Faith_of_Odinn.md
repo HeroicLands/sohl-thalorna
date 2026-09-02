@@ -5,6 +5,7 @@ id: G4BhgaiMv2pTKezK
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Óðinn
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: odinn
 img: images/affiliation/odinn.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

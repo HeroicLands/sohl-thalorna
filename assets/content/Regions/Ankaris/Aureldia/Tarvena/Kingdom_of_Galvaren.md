@@ -4,14 +4,13 @@ aliases:
   - Kingdom of Galvaren
 id: to3hR8mfmJQW5w2C
 description: "Green, mist-shrouded western coast of Tarvénia — seafaring kingdom of fishermen and dreamers, with a reputation for mysticism that sits uneasily with Tarvénan skepticism."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Galváren
   aliases: []
 shortcode: kngdmglvrn
 population: "~1,000,000"
-subType: kingdom
+subType: polity
 capital: marendal
 demonym: Galváren
 ruler:

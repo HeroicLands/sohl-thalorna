@@ -6,13 +6,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: rJttQjmxnBs2t5TL
 shortcode: zarvanya
 name:
   full: "Ritual: Zárványä"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

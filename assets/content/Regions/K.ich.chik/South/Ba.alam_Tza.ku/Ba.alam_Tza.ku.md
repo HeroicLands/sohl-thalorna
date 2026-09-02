@@ -11,9 +11,8 @@ name:
 id: POOjlSix7q3cOVCo
 shortcode: balamtzaku
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: balamtzaku2
 terran_analog: Equador, Peru, western Brazil
 parent:

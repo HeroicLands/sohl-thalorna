@@ -6,13 +6,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: CRj9cFABChyUtlJl
 shortcode: morvahna
 name:
   full: "Ritual: Mórváhñä"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

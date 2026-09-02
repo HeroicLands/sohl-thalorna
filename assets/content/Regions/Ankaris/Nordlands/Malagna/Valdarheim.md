@@ -2,8 +2,8 @@
 aliases:
   - Valdarheim
 id: fJaEmpvtfouLj68u
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Settlement"
 population: null
 languages:

@@ -4,14 +4,13 @@ aliases:
   - Kingdom of Asturath
 id: CGTuXON9J9d5yB9r
 description: "Mountainous heartland of Tarvénia, seat of the High King — kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvénan independence."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Astúrath
   aliases: []
 shortcode: kngdmstrth
 population: "~1,000,000"
-subType: kingdom
+subType: polity
 capital: kavrenath
 demonym: Astúrath
 ruler:

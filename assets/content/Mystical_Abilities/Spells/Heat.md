@@ -9,8 +9,8 @@ id: pH3InhWZcQ2xmINT
 img: icons/fire.svg
 shortcode: heat
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 1
   masteryLevelBase: 0

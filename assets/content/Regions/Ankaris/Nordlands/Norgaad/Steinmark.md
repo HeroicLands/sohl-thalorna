@@ -2,8 +2,8 @@
 aliases:
   - Steinmark
 id: 04Cgf8r1jWswmppD
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Inland Trade Town"
 population: null
 languages:

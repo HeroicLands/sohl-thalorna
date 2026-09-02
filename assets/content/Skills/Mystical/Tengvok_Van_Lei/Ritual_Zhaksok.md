@@ -9,13 +9,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: CVBP6nEwAVenRFYe
 shortcode: zhaksok
 name:
   full: "Ritual: Zhāksōk"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

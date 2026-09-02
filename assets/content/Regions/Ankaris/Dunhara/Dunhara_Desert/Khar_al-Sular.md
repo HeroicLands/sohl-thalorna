@@ -2,8 +2,8 @@
 aliases:
   - Khar al-Sular
 id: NcCep277z8Lq2woF
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Oasis Camp"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - K'ankul
 id: vcY8KLpy7ZHBjco4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

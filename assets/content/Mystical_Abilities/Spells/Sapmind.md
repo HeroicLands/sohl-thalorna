@@ -11,8 +11,8 @@ id: zUUmGWmmMnzf3yJY
 img: icons/divination.svg
 shortcode: sapmind
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 5
   masteryLevelBase: 0

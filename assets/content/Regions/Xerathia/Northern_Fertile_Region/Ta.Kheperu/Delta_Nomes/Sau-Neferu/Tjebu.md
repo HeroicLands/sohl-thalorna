@@ -2,8 +2,8 @@
 aliases:
   - Tjebu
 id: MdjcGbF0x3kGbwQx
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Wine Town"
 population: 12000
 languages:

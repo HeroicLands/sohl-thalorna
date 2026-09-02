@@ -9,8 +9,8 @@ id: uJg3j6BQHQJDaAnZ
 img: icons/circle.svg
 shortcode: invstmnt
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 5
   masteryLevelBase: 0

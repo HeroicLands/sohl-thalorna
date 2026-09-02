@@ -8,10 +8,10 @@ id: R6kUskyAmO8AmYuz
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: korith
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": -10

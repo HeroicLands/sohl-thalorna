@@ -9,9 +9,8 @@ name:
 id: nEilLlvuZtCgyFqW
 shortcode: balamkul
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: balamkul2
 terran_analog: Central Mexico
 parent:

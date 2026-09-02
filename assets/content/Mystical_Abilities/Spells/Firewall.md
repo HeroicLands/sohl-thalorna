@@ -11,8 +11,8 @@ id: btu1yJNRbX3aF0wg
 img: icons/fire.svg
 shortcode: firewall
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 4
   masteryLevelBase: 0

@@ -11,8 +11,8 @@ id: fQDq7K59UwY4TxOx
 img: icons/anvil.svg
 shortcode: ironbind
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 4
   masteryLevelBase: 0

@@ -4,7 +4,8 @@ tags:
 aliases:
   - Maul of Gashang
 id: d9BoTVxtuL3YRqgD
-type: doc
+type: scenario
+subType: adventure
 name:
   full: Maul of Gashang
   aliases: []
@@ -12,7 +13,6 @@ shortcode: maulgashng
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
-category: adventure
 ---
 
 ### Background and Creation

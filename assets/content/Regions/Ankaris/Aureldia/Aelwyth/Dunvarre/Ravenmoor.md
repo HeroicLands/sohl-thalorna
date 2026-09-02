@@ -2,8 +2,8 @@
 aliases:
   - Ravenmoor
 id: mwtTAWXEPhrvwxHS
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Moorland Settlement"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - Waldburg
 id: SriprSl9dLBKfsgn
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Forest Stronghold"
 population: null
 languages:

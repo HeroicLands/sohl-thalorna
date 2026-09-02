@@ -11,8 +11,8 @@ id: OelGEccQlUtRl7lM
 img: icons/water.svg
 shortcode: lfsprk
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 3
   masteryLevelBase: 0

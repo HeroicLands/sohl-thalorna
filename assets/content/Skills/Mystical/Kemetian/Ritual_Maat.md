@@ -8,13 +8,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: 855hIkKjnj5x6MHj
 shortcode: maat
 name:
   full: "Ritual: Má'át"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

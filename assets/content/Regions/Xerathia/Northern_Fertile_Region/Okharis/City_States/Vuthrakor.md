@@ -3,8 +3,8 @@ aliases:
   - Vuthrákor
 id: pZqyrLQSfBupge0U
 tags: []
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Garrison Town"
 population: null
 pantheons:

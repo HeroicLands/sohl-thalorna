@@ -2,8 +2,8 @@
 aliases:
   - Asgarthul
 id: wuwfHIB8d0m5SUnV
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town / Seat of Local Nobility"
 population: null
 languages:

@@ -9,13 +9,13 @@ tags:
   - nkaruthar
   - faith-skill
 type: skill
+subType: mystical
 id: Bdo25Hi80xYhGCkL
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

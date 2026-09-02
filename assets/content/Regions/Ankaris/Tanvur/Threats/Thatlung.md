@@ -3,8 +3,8 @@ aliases:
   - Thātlüng
   - Thatlung
 id: dShd6mhcDw4j2zkN
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Thātlüng
   aliases: []

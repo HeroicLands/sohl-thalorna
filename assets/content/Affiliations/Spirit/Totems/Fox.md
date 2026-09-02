@@ -7,8 +7,8 @@ id: YS9L9w2AUIAqL6fy
 img: images/mystery/fox.webp
 shortcode: foxttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

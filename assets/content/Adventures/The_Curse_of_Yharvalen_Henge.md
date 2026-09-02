@@ -6,8 +6,8 @@ name:
   full: The Curse of Yharvalen Henge
   aliases: []
 shortcode: crsyhrvlnhng
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

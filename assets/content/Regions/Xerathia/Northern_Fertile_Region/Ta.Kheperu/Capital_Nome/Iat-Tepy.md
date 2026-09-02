@@ -4,8 +4,8 @@ aliases:
   - The Sacred Island
   - The First Mound
 id: eOqlwmPkawe5BQvu
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Sacred Precinct (the inner city of Wasetkara)"
 population: null
 languages:

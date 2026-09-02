@@ -7,8 +7,8 @@ id: KkBgTFTb3CYb58uj
 img: images/mystery/turkey.webp
 shortcode: turkeyttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

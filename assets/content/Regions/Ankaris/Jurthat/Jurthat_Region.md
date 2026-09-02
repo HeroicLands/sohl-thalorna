@@ -12,8 +12,8 @@ name:
 id: DUxKyyoSACYzRQpy
 shortcode: jurthatrgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: Japanese archipelago (mountainous volcanic islands)
 demonym: Jürthāti
 parent:

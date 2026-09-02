@@ -3,8 +3,8 @@ aliases:
   - Belpòrte
   - Belporte
 id: fGQuj4lr8Fd0VQbZ
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port Town"
 population: null
 languages:

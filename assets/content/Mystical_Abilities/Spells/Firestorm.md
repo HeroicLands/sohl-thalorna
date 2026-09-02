@@ -9,8 +9,8 @@ id: YopkLlE1KVzjcnZS
 img: icons/fire.svg
 shortcode: frstrm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 4
   masteryLevelBase: 0

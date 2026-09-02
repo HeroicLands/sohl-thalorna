@@ -2,8 +2,8 @@
 aliases:
   - Beit-Shōfár
 id: Jh8qC0VOgrks0Ums
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple Settlement"
 population: null
 languages:

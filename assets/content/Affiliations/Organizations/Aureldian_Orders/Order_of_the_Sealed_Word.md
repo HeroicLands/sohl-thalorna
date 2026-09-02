@@ -11,10 +11,8 @@ tags:
   - oath
 description: "Sworn knightly enforcers of binding oaths and contracts under Jánus — answering when civil law fails to compel the oath-breaker who once swore the binding word."
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

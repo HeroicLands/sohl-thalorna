@@ -3,8 +3,8 @@ aliases:
   - Míravel
   - Miravel
 id: iijF0jFCjTiDjPQA
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Merchant Town"
 population: null
 languages:

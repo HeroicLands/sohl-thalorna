@@ -3,14 +3,13 @@ aliases:
   - Holy Kingdom of Nartûm
 id: Zes7Fltjbg7XDqRN
 description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother and center of ecclesiastical power — a sanctuary city where the sacred and secular intertwine under priestly rule."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Holy Kingdom of Nartûm
   aliases: []
 shortcode: hlykngdmnrtm
 population: "~2,500,000"
-subType: kingdom
+subType: polity
 demonym: Nartumi
 ruler:
   title: King

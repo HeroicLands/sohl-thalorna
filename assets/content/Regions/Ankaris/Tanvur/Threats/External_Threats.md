@@ -2,8 +2,8 @@
 aliases:
   - External Threats
 id: 8z3Hj18DKx5GVtVn
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: External Threats
   aliases: []

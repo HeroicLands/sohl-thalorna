@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: yKEkerwHS6932xUc
 shortcode: menerva
 img: images/affiliation/menerva.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Menerva"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

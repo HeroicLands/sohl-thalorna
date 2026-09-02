@@ -3,8 +3,8 @@ aliases:
   - Hávamál
   - Havamal
 id: rej65SfOdHxrfzld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - K'awiil Tza'kul
 id: qHD2DJ9d3jceHp2C
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

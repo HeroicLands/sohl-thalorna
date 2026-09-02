@@ -2,8 +2,8 @@
 aliases:
   - Vindborg
 id: 7XxnqkgQlwHbZvb8
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Hill Fort"
 population: null
 languages:

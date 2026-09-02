@@ -11,8 +11,8 @@ id: GTQhkCxkIxII0Yvr
 img: icons/water.svg
 shortcode: dewcraft
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 4
   masteryLevelBase: 0

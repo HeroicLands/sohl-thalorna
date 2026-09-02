@@ -2,8 +2,8 @@
 aliases:
   - Hrafnfjord
 id: xeSkAGJdEwb4NNx6
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Remote Fjord Village"
 population: null
 languages:

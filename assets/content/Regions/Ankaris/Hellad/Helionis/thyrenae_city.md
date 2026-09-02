@@ -2,8 +2,8 @@
 aliases:
   - Thyrenae
 id: N2RXl0qu1TbhTref
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City-State"
 population: null
 languages:

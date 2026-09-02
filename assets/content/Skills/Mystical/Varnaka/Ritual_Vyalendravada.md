@@ -9,13 +9,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: nKUTkE0IvG0Xu2FS
 shortcode: vyalendravada
 name:
   full: "Ritual: Vyālendravāda"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

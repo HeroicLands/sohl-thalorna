@@ -3,14 +3,13 @@ aliases:
   - Altinkale
 id: JmtVxbjSjbyV7ggu
 description: "Wealthiest city-state of the Byzarian League at the crossroads of eastern and western trade — a merchant-ruled fortress commanding half the League's wealth and two-thirds of its political will."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Altinkale
   aliases: []
 shortcode: altinkale
 population: "~2,000,000"
-subType: city-state
+subType: polity
 capital: altinkale2
 demonym: Altinkalan
 government:

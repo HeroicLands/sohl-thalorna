@@ -11,8 +11,8 @@ id: LJUcqEwUPQwVH9N4
 img: icons/divination.svg
 shortcode: passion
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 2
   masteryLevelBase: 0

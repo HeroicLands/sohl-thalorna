@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: M4V1X9qbD7dlpAyC
 shortcode: rothtdkvng
 name:
   full: "Ritual: Röthöt Dākvëng"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -2,8 +2,8 @@
 aliases:
   - Messora
 id: Hy4hGx6mMq9Tb3Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: 4000
 languages:

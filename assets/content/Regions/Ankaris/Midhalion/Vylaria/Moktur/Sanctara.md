@@ -2,8 +2,8 @@
 aliases:
   - Sanctara
 id: MJVnfnwAYz0bbQAS
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple Town"
 population: 2000
 languages:

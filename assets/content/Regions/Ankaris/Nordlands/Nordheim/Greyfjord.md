@@ -2,8 +2,8 @@
 aliases:
   - Greyfjord
 id: OD0mDmXO2Yykzwee
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Village"
 population: null
 languages:

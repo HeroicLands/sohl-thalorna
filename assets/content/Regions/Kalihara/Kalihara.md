@@ -3,14 +3,13 @@ aliases:
   - Kalihara
 id: m3LDtpeoNeZYwNVD
 description: "Distant continent south of the known world — ancient, vast, and largely unknown to Ankarian civilization, rumored to hold wonders and terrors beyond reckoning."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kalihara
   aliases: []
 shortcode: kalihara
 population: "~3,000,000"
-subType: confederation
+subType: polity
 capital: qasirah
 demonym: Kaliharan
 government:

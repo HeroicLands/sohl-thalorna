@@ -2,8 +2,8 @@
 aliases:
   - Tz’alam Witz
 id: 8WCUTA2ntRJRWHRO
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress City"
 population: null
 languages:

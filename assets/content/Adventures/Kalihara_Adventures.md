@@ -5,8 +5,8 @@ shortcode: klhrdvntrs
 name:
   full: Kalihara Adventures
   aliases: []
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 folder: T7mOTtKBjOMdoGy2
 ---
 

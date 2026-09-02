@@ -3,8 +3,8 @@ aliases:
   - Aurèliane
   - Aureliane
 id: 6606P1n4SuPO30aI
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

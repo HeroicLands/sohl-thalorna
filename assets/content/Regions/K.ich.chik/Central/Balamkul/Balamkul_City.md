@@ -2,8 +2,8 @@
 aliases:
   - Balamkul
 id: LXNjgk0sJIzvtzuS
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

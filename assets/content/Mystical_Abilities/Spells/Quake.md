@@ -11,8 +11,8 @@ id: hnJAdEW1W2P9ouq0
 img: icons/tree.svg
 shortcode: quake
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 2
   masteryLevelBase: 0

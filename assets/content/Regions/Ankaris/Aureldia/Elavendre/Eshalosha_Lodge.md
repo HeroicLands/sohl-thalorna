@@ -4,8 +4,8 @@ aliases:
   - Eshálosha Lodge
   - Eshálosha
 id: lfpk5DjHdNISkpXd
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Áelendan settlement and ceremonial center"
 population: null
 name:

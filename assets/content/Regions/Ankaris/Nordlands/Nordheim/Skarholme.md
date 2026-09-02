@@ -2,8 +2,8 @@
 aliases:
   - Skarholme
 id: dqjMFAr8WiEftACv
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

@@ -17,9 +17,9 @@ name:
     - The Totems and Spirits
 shortcode: nyalbsprts
 type: affiliation
+subType: arcanetradition
 pantheon: nyalbpnthn
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

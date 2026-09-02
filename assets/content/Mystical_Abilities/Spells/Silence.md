@@ -11,8 +11,8 @@ id: oYSG6X9TAjXc8Y6q
 img: icons/wind.svg
 shortcode: silence
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 1
   masteryLevelBase: 0

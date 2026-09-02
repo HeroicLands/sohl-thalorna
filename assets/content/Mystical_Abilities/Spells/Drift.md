@@ -11,8 +11,8 @@ id: SNtlSSfMF0WSZboj
 img: icons/water.svg
 shortcode: drift
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 1
   masteryLevelBase: 0

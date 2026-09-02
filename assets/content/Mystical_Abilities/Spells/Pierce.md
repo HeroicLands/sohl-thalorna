@@ -11,8 +11,8 @@ id: Ej9yjfQX9Oww8Qay
 img: icons/anvil.svg
 shortcode: pierce
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 6
   masteryLevelBase: 0

@@ -4,14 +4,13 @@ aliases:
   - Amradad
 id: FCDitFqLgistUMZe
 description: "Sultanate ruling the Dunhara Desert — settled kingdom of oases, merchant cities, and Islamic-flavored culture distinct from the nomadic tribes."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Sultanate of Amradad
   aliases: []
 shortcode: sultntmrdd
 population: "~2,000,000"
-subType: kingdom
+subType: polity
 capital: shamsun
 demonym: Amradi
 ruler:

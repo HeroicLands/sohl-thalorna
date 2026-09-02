@@ -13,8 +13,8 @@ name:
     - The Triune Fire
 shortcode: nkaruthar
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

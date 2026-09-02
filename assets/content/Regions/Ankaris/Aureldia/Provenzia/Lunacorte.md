@@ -3,8 +3,8 @@ aliases:
   - Lunacòrte
   - Lunacorte
 id: kaluSm7j0sPfWR9d
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

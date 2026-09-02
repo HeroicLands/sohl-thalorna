@@ -11,8 +11,8 @@ id: 4mL8LZR4PnQq2Kvk
 img: icons/anvil.svg
 shortcode: veil
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 6
   masteryLevelBase: 0

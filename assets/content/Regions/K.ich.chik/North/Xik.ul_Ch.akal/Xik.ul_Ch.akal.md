@@ -11,9 +11,8 @@ name:
 id: eCY7rYlyp689dNR7
 shortcode: xikulchakl
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: xikulchakl2
 terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
 parent:

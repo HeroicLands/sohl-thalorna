@@ -11,9 +11,8 @@ name:
 id: fM8m3hYXswYDcrOt
 shortcode: tzumanotun
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: tzumanotun2
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 parent:

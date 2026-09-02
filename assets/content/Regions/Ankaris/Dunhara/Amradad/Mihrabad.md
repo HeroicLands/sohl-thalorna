@@ -2,8 +2,8 @@
 aliases:
   - Mihrabad
 id: rQvNmHX5CBBhFmkH
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

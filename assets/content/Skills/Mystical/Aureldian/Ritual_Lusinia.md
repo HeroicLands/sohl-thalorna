@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: Cp5FoZziMlvjSYhp
 shortcode: lusinia
 img: images/affiliation/lusinia.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Lusinia"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

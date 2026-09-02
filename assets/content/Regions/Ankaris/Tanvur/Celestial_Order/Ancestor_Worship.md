@@ -2,8 +2,8 @@
 aliases:
   - Ancestor Worship
 id: HsTCTeOJqNcesHck
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Ancestor Worship
   aliases: []

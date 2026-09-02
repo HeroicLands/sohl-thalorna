@@ -2,8 +2,8 @@
 aliases:
   - Khensuret
 id: BFVfBRUFybESEcFb
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple City (Necropolis)"
 population: 90000
 languages:

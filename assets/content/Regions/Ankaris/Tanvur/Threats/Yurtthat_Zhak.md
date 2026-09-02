@@ -3,8 +3,8 @@ aliases:
   - Yürtthāt Zhāk
   - Yurtthat Zhak
 id: kx1DYO4Lv2VXJB93
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Yürtthāt Zhāk
   aliases: []

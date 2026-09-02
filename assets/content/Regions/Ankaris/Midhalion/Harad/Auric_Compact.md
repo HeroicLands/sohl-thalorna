@@ -3,8 +3,8 @@ aliases:
   - Auric Compact
 description: "Haradian banking cartel wielding financial leverage to dominate the post-independence Confederation and control commerce across the Vylarian Sea."
 type: affiliation
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

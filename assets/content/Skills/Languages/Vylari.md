@@ -10,8 +10,8 @@ id: gyq4vbxm8DEzKQGo
 img: icons/speaking.svg
 shortcode: vylarilng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

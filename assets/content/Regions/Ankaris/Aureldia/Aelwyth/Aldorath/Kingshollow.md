@@ -2,8 +2,8 @@
 aliases:
   - Kingshollow
 id: jhd8AiAzVvvLpI9j
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

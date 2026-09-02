@@ -2,8 +2,8 @@
 aliases:
   - Haukstad
 id: jjrNvguHkGppBHx6
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Trading Post"
 population: null
 languages:

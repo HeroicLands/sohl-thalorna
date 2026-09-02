@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: SEH6qnxgvLANIZfq
 shortcode: sideros
 img: images/affiliation/sideros.webp
@@ -11,7 +12,6 @@ name:
   full: Sidéros
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

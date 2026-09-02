@@ -6,13 +6,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: U7Qonussj1BpCASX
 shortcode: sirvadar
 name:
   full: "Ritual: Šírvádár"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

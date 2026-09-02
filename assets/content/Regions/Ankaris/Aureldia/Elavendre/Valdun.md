@@ -3,8 +3,8 @@ aliases:
   - Valdûn
   - Valdun
 id: x8lAC1ETUs0sqHpi
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Inland Town"
 population: null
 languages:

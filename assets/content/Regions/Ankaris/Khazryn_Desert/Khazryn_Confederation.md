@@ -6,8 +6,7 @@ aliases:
   - Princes of the Khazryn
   - The League of Princely Houses
 tags: []
-type: doc
-category: polity
+type: affiliation
 description: The indigenous oasis-civilization of the Khazryn Desert, displaced from its choicest lands four generations ago by the Ātárzád conquest. Reduced today to peripheral oases, dispossessed princely houses in exile, and a large subject merchant-and-craftsman population within the conquered cities — but unyielding in its claim that the Khazryn is named for the Khazryn and is the Khazryn's by right.
 name:
   full: Khazryn Confederation
@@ -17,7 +16,7 @@ name:
 id: Q9XLm5Jr3wD8nKvT
 shortcode: khzrncnfdrtn
 population: "~2,000,000"
-subType: confederation
+subType: polity
 capital: oasishirvn
 demonym: Khazryn
 government:

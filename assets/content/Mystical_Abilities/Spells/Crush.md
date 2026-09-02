@@ -11,8 +11,8 @@ id: pC8WAWa7RIyM5V3h
 img: icons/anvil.svg
 shortcode: crush
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 4
   masteryLevelBase: 0

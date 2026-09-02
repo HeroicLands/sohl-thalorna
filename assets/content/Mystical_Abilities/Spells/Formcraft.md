@@ -11,8 +11,8 @@ id: bz89SryJXKLQpnkH
 img: icons/wind.svg
 shortcode: frmcrft
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 6
   masteryLevelBase: 0

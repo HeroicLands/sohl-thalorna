@@ -5,14 +5,13 @@ aliases:
   - Nome of Per-Thoth
 id: v4qDNpUfaMIDjUP6
 description: "The scribal nome of the Ta'Kheperu upper river — seat of the foremost temple of Thōth at Khemenu, home of the empire's finest scribal schools, its astronomers and calendar-keepers, and the priestly archivists who maintain the unbroken king-lists since the Sep Tepy."
-type: doc
-category: polity
+type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Per-Thōth
   aliases: []
 shortcode: nomeprthth
-subType: nome
+subType: polity
 demonym: Kheperi
 government:
   type: nome

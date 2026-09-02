@@ -3,8 +3,7 @@ aliases:
   - Thálassos
   - Thalassos
 id: 6pXLtYkfQc7JDzuS
-type: doc
-category: settlement
+type: place
 settlementType: "Harbor Town"
 population: null
 languages:
@@ -15,7 +14,7 @@ name:
   full: Thálassos
   aliases: []
 shortcode: thalassos
-subType: town
+subType: settlement
 parent:
   regions:
     - byzariargn

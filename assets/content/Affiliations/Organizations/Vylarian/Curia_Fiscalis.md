@@ -13,10 +13,8 @@ name:
     - The Imperial Tax Curia
 shortcode: curiafscls
 type: affiliation
-subType: social
-category: government
+subType: governmental
 sohl:
-  subType: social
   society: null
   office: null
   title: null

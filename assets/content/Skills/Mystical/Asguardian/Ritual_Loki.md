@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: KEMsXblHB5sHluDk
 shortcode: loki
 img: images/affiliation/loki.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Lôki"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

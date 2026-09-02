@@ -2,8 +2,8 @@
 aliases:
   - Xik'ul Ch'akal
 id: YNPzMDFOQqc5veZB
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

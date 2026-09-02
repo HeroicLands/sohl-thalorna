@@ -2,8 +2,8 @@
 aliases:
   - Medicine
 id: DY51n86VorJpng21
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Medicine
   aliases: []

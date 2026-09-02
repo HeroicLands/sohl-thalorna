@@ -7,8 +7,8 @@ id: mW6pCO4zFiwfJFhA
 img: icons/psionics.svg
 shortcode: xmut
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

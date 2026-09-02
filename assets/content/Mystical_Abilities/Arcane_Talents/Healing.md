@@ -7,8 +7,8 @@ id: pePR5Mx28MLY4Kgv
 img: icons/psionics.svg
 shortcode: heal
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

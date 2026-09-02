@@ -3,13 +3,12 @@ aliases:
   - Province of Moktur
 id: 6EwzNjLfh0DcbxEP
 description: "The mountainous northern shield of the Vylarian Empire — a hard frontier province of mines, timber, and fortified garrisons guarding the Vrystwald march, governed by semi-autonomous military lords and home to a hybrid Vylarian–Varokh border culture."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Province of Moktur
   aliases: []
 shortcode: provncmktr
-subType: province
+subType: polity
 demonym: Vylarian
 capital: tyrellan
 population: "~2,000,000"

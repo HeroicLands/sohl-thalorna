@@ -7,8 +7,8 @@ id: Y1YuK9tAyQoCO3Pd
 img: images/mystery/owl.webp
 shortcode: owlttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

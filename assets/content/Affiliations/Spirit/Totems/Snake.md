@@ -7,8 +7,8 @@ id: An835dfH4ekHyiYC
 img: images/mystery/snake.webp
 shortcode: snakettm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

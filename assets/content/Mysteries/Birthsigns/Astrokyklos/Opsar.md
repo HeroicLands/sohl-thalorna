@@ -8,10 +8,10 @@ id: 7MjeFB12JeEiQEbU
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: opsar
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": 10

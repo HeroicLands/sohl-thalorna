@@ -11,8 +11,8 @@ id: wkC0FqnEL0fdIkgi
 img: icons/wind.svg
 shortcode: prcptn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 3
   masteryLevelBase: 0

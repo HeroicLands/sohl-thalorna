@@ -6,7 +6,6 @@ name:
   full: Settlements
   aliases: []
 type: doc
-category: collection
 shortcode: setlements
 section: settlement
 tags:

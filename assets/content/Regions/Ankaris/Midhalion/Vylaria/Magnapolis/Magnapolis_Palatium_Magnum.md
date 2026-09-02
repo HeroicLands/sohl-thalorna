@@ -9,8 +9,8 @@ tags:
   - magnapolis
   - palace
 description: "The Palatium Magnum, the Grand Palace of Magnápolis — the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Mons Aquila, and the stage on which the Ordo Arcanis is permitted to show off."
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Palace District"
 population: null
 languages:

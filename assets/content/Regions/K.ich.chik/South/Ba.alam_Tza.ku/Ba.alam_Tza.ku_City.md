@@ -2,8 +2,8 @@
 aliases:
   - Ba'alam Tza'ku
 id: Ti61MsXgLxbhYAnK
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

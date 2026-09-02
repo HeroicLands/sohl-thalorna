@@ -8,13 +8,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: AOkIhJmM5oyp7OEa
 shortcode: vyahrati
 name:
   full: "Ritual: Vyāhrati"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

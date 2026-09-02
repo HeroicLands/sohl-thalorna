@@ -6,7 +6,6 @@ name:
   full: Locations
   aliases: []
 type: doc
-category: collection
 shortcode: locations
 section: location
 tags:

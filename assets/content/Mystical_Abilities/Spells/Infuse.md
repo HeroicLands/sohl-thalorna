@@ -11,8 +11,8 @@ id: AA3VxkdLIKggz4Ms
 img: icons/circle.svg
 shortcode: infuse
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 2
   masteryLevelBase: 0

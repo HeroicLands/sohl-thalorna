@@ -2,8 +2,8 @@
 aliases:
   - Ceridwen's Hollow
 id: 3YlA2MuGbvyKHEXm
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Village"
 population: null
 pantheons:

@@ -12,8 +12,8 @@ id: YWTF2eNjPIeHCF4a
 img: icons/tree.svg
 shortcode: healtch
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 5
   masteryLevelBase: 0

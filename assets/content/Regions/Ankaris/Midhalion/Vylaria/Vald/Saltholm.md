@@ -2,8 +2,8 @@
 aliases:
   - Saltholm
 id: Vd7hGx4mSm9Tb3Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Town"
 population: 6000
 languages:

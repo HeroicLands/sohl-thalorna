@@ -3,8 +3,8 @@ aliases:
   - Valcèrise
   - Valcerise
 id: UR8xNtWDuaHZdxsJ
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

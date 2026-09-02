@@ -22,10 +22,8 @@ name:
     - Bêt-Naqîrîn
 shortcode: sodnaqirin
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

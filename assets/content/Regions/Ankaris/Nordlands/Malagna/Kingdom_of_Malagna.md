@@ -4,14 +4,13 @@ aliases:
   - Malagna
 id: MDrDmSqmPbXggkp1
 description: "Frost-realm of the far north, land of ice and stone — austere kingdom of hard men and women, surviving in one of the harshest climates on Ankaris."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Malagna
   aliases: []
 shortcode: kingdomlgn
 population: "~1,000,000"
-subType: kingdom
+subType: polity
 capital: skorrborg
 demonym: Malagnan
 ruler:

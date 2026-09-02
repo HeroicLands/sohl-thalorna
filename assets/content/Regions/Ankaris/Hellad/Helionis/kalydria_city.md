@@ -2,8 +2,8 @@
 aliases:
   - Kalydria
 id: gG3RL32nHgC2D0B5
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City-State"
 population: null
 languages:

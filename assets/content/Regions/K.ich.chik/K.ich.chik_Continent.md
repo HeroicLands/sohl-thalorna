@@ -6,8 +6,8 @@ aliases:
 tags:
   - continent
   - kichchik
-type: doc
-category: continent
+type: place
+subType: region
 id: M6DQs1jWkoqbUTr2
 shortcode: kchchkcntnnt
 name:

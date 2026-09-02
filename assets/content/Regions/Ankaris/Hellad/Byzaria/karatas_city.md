@@ -2,8 +2,8 @@
 aliases:
   - Karataş
 id: BSpoe64cjdqnAb45
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Mining City"
 population: null
 languages:

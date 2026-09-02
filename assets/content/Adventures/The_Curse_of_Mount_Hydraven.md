@@ -6,8 +6,8 @@ name:
   full: The Curse of Mount Hydraven
   aliases: []
 shortcode: crsmnthydrvn
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

@@ -2,8 +2,8 @@
 aliases:
   - Cervalia
 id: Hy5pGx4wUm9Sb3Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Forest Town"
 population: 2500
 languages:

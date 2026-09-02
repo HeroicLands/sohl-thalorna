@@ -7,13 +7,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: FeZJJ076sgnlyvxD
 shortcode: korsadra
 name:
   full: "Ritual: Khóršádrä"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

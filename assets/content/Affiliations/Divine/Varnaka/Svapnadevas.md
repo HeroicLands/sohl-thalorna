@@ -16,9 +16,9 @@ name:
     - The Celestial Host of Dreams
 shortcode: svapnadevas
 type: affiliation
+subType: faithtradition
 pantheon: varakpnthn
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

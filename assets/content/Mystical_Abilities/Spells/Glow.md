@@ -11,8 +11,8 @@ id: VS4YEgUY0ptUQy6A
 img: icons/anvil.svg
 shortcode: glow
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 1
   masteryLevelBase: 0

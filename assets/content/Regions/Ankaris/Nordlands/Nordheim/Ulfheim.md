@@ -2,8 +2,8 @@
 aliases:
   - Ulfheim
 id: f9A9olzNoCl9wH8h
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Settlement"
 population: null
 languages:

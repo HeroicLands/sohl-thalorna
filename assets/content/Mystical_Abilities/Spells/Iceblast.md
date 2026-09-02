@@ -11,8 +11,8 @@ id: qH8SKPbjf5aR1bcb
 img: icons/water.svg
 shortcode: iceblast
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 6
   masteryLevelBase: 0

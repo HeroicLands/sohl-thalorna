@@ -9,8 +9,8 @@ id: evHnQSALN3l19wSL
 img: icons/circle.svg
 shortcode: mask
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 5
   masteryLevelBase: 0

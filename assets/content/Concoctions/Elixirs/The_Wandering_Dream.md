@@ -12,6 +12,7 @@ id: 6rTdRtSAhpfVa4Nc
 img: icons/potion.svg
 shortcode: ElxDrm
 type: concoctiongear
+subType: elixir
 hmk:
   name: Dreamwalk
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

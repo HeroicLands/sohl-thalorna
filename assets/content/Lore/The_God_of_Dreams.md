@@ -17,8 +17,8 @@ name:
     - Baldr
     - Æthería
 shortcode: goddreams
-type: doc
-category: lore
+type: lore
+subType: folk
 folder: 6NICDnQl8B4GjvL7
 ---
 

@@ -4,7 +4,8 @@ aliases:
   - Blood and Ashes in Ceravel Vale
 tags:
   - blood-and-ashes-in-ceravel-vale
-type: doc
+type: scenario
+subType: adventure
 id: 1e0pksxoUKkUxRFB
 shortcode: bldshscrvlvl
 name:
@@ -13,7 +14,6 @@ name:
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
-category: adventure
 topic: true
 ---
 

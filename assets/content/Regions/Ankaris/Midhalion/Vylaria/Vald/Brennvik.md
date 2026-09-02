@@ -2,8 +2,8 @@
 aliases:
   - Brennvik
 id: Vd5vNx3kBp8Rb2Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Town"
 population: 9000
 languages:

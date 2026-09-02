@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: w0iPY8iUaUM0j5wZ
 shortcode: freyr
 img: images/affiliation/freyr.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Fréyr"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -6,8 +6,8 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

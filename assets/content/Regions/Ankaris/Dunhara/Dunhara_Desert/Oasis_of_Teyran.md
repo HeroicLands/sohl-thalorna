@@ -2,8 +2,8 @@
 aliases:
   - Oasis of Teyran
 id: GufmJbVpnn7ABWGl
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Oasis"
 population: null
 languages:

@@ -9,8 +9,8 @@ id: WBjsWdfKSwApBpN4
 img: icons/fire.svg
 shortcode: flame
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 1
   masteryLevelBase: 0

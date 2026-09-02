@@ -6,7 +6,6 @@ name:
   full: Peoples
   aliases: []
 type: doc
-category: collection
 shortcode: peoples
 section: people
 tags:

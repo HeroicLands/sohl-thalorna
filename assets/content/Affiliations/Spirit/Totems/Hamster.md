@@ -7,8 +7,8 @@ id: aVh7hIiGfJgn3CRU
 img: images/mystery/hamster.webp
 shortcode: hamsterttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

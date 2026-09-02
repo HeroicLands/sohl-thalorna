@@ -5,6 +5,7 @@ id: CRcCfHFzsSdXQ1Df
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Fréyja
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: freyja
 img: images/affiliation/freyja.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

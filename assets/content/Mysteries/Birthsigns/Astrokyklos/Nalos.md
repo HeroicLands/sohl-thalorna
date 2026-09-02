@@ -8,10 +8,10 @@ id: rqZ2w3pVH8POKZ1F
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: nalos
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": 5

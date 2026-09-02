@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: 53jio6hpMUzxskpR
 shortcode: vorjikjek
 name:
   full: "Ritual: Vōrjīk Jëk"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

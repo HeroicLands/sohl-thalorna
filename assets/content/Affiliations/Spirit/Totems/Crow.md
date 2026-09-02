@@ -7,8 +7,8 @@ id: XHwwkctPOTYwybx5
 img: images/mystery/crow.webp
 shortcode: crowttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

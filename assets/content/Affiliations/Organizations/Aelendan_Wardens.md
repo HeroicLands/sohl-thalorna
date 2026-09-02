@@ -12,10 +12,8 @@ name:
     - Guardians of the Covenant
 shortcode: alndnwrdns
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

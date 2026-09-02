@@ -2,8 +2,8 @@
 aliases:
   - Ashkabel
 id: Tjq1opR4z8iu24jP
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City-State"
 population: null
 languages:

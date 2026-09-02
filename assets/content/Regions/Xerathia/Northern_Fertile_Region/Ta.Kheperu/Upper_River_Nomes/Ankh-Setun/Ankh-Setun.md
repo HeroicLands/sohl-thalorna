@@ -3,8 +3,8 @@ aliases:
   - Ankh-Setûn
   - Ankh-Setun
 id: kjeTX8avJnpknuJ3
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City (Granary Capital)"
 population: 80000
 languages:

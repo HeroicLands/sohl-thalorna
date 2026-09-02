@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: gLIfCefUOlx6SjOS
 shortcode: tyr
 img: images/affiliation/tyr.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Týr"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

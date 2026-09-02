@@ -10,13 +10,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: xI4DUckihShylSzh
 shortcode: hapi
 name:
   full: "Ritual: Hâpi"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

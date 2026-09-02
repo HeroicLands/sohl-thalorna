@@ -6,11 +6,11 @@ name:
   full: Astrokýklos
   aliases: []
 type: affiliation
+subType: arcanetradition
 id: qBeythibUMynFR01
 shortcode: astrokyklos
 img: ""
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

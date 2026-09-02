@@ -2,8 +2,8 @@
 aliases:
   - Therádon
 id: vRDisPmvFKBKEq7e
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City-State"
 population: null
 languages:

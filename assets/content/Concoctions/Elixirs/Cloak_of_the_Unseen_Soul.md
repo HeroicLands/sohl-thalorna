@@ -12,6 +12,7 @@ id: wLOaFGUHoC9oiCDJ
 img: icons/potion.svg
 shortcode: ElxSCl
 type: concoctiongear
+subType: elixir
 hmk:
   name: Soulcloak
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

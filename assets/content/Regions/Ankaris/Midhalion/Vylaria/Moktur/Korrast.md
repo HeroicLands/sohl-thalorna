@@ -2,8 +2,8 @@
 aliases:
   - Korrast
 id: Mk5rKx2mKp7Tb4Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Pass Town"
 population: 5000
 languages:

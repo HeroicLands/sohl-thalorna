@@ -2,8 +2,8 @@
 aliases:
   - Ta-Djeser
 id: qqUbZEiqy6oeywb6
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Necropolis City"
 population: 40000
 languages:

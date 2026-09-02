@@ -2,8 +2,8 @@
 aliases:
   - Tz’ikin K’ul
 id: YxOv20w4CsGfROM5
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress City"
 population: null
 languages:

@@ -9,13 +9,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: bpEDXvO8OYunAR7Q
 shortcode: vekthor
 name:
   full: "Ritual: Vëkthōr"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

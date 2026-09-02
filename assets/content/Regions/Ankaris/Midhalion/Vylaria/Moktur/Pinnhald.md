@@ -2,8 +2,8 @@
 aliases:
   - Pinnhald
 id: Mk6yPx4kVm8Sb3Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Timber Town"
 population: 3000
 languages:

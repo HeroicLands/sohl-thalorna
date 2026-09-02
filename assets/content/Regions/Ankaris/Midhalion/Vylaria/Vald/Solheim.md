@@ -2,8 +2,8 @@
 aliases:
   - Solheim
 id: utl4pebzzsi9nAI4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Pilgrimage Town"
 population: 3000
 languages:

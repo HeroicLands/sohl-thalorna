@@ -2,8 +2,8 @@
 aliases:
   - Thrymstead
 id: WNKSFrK83yr8xKyA
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Town"
 population: null
 languages:

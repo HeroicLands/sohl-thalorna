@@ -13,8 +13,8 @@ id: vMzM1w5unpp0xKA0
 img: icons/speaking.svg
 shortcode: valtarlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

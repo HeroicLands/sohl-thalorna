@@ -2,8 +2,8 @@
 aliases:
   - Languages of Thalorna
 id: G8edp7iIvjWsum74
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Languages of Thalorna
   aliases: []

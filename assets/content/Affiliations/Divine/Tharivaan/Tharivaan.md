@@ -11,8 +11,8 @@ name:
     - The Living Whole
 shortcode: tharivaan
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

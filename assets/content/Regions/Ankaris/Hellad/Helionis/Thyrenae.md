@@ -3,14 +3,13 @@ aliases:
   - Thyrenae
 id: Qov8tGDVc08BrL5P
 description: "City-state of Helionis with a long maritime tradition — island polity that has built wealth and reputation through centuries of sea trade and naval rivalry."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Thyrenae
   aliases: []
 shortcode: thyrenae
 population: "~900,000"
-subType: city-state
+subType: polity
 capital: thyrenae2
 demonym: Thyrenean
 government:

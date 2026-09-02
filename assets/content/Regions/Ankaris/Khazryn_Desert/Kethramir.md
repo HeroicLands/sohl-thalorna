@@ -3,14 +3,13 @@ aliases:
   - Kethramír
   - Kethramir
 id: GkOSX9uDj3AmjiVz
-type: doc
-category: settlement
+type: place
 settlementType: "Caravan Waypoint"
 name:
   full: Kethramír
   aliases: []
 shortcode: kethramir
-subType: hamlet
+subType: settlement
 parent:
   regions:
     - khzryndsrtrgn

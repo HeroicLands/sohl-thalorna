@@ -11,8 +11,8 @@ id: pB5CgIeSEUuCdFo6
 img: icons/tree.svg
 shortcode: foster
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 3
   masteryLevelBase: 0

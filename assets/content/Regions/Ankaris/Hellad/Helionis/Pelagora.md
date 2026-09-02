@@ -3,14 +3,13 @@ aliases:
   - Pelagora
 id: RZzww0ah4u3cAljF
 description: "Naval power of the Helionite city-states — citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Pelagora
   aliases: []
 shortcode: pelagora
 population: "~600,000"
-subType: city-state
+subType: polity
 capital: pelagora2
 demonym: Pelagoran
 government:

@@ -8,8 +8,7 @@ aliases:
   - The Flame-born
   - The Twelve Tribes
 tags: []
-type: doc
-category: polity
+type: affiliation
 description: A confederation of twelve tribes who came up out of bondage in Ta'Kheperu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš — the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazryn whose oases they took.
 name:
   full: Tribes of Ātárzád
@@ -20,7 +19,7 @@ name:
 id: TY7K3wF8nQpV2zRm
 shortcode: tribestrzd
 population: "~1,000,000"
-subType: confederation
+subType: polity
 capital: beitshofar
 demonym: Ātárzád
 government:

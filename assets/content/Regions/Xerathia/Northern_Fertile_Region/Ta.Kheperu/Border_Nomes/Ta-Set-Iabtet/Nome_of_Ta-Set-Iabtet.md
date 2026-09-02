@@ -4,14 +4,13 @@ aliases:
   - Ta-Set-Iabtet Nome
 id: TAKzrNaHD6W0g1Ku
 description: "The eastern mining march of Ta'Kheperu — a rugged hill-and-desert border nome whose gold, copper, and turquoise mines and stone quarries supply the empire's metal and monument-stone, held by a soldier-Haty'a who guards the diggings and the desert roads against eastern raiders."
-type: doc
-category: polity
+type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Ta-Set-Iabtet
   aliases: []
 shortcode: nometstbtt
-subType: nome
+subType: polity
 demonym: Kheperi
 government:
   type: nome

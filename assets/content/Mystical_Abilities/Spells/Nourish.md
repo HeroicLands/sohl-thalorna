@@ -11,8 +11,8 @@ id: uRZ17Ffgwt3MwtEH
 img: icons/divination.svg
 shortcode: nourish
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 2
   masteryLevelBase: 0

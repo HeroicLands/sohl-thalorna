@@ -11,8 +11,8 @@ id: S5e7RbUmFMJPyTvM
 img: icons/water.svg
 shortcode: glide
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 5
   masteryLevelBase: 0

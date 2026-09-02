@@ -4,14 +4,13 @@ aliases:
   - Aelendan Tribes
 id: 1X3hyHGrQc0lEgZK
 description: ""
-type: doc
-category: polity
+type: affiliation
 name:
   full: Áelendan Tribes
   aliases: []
 shortcode: aelndntrbs
 population: "~500,000"
-subType: confederation
+subType: polity
 capital: eshalshldg
 demonym: Áelendan
 government:

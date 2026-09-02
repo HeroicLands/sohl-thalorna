@@ -7,8 +7,8 @@ name:
   full: The Ghosts of Tîravlen
   aliases: []
 shortcode: ghststrvln
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

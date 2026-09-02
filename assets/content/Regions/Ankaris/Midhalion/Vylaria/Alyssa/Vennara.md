@@ -2,8 +2,8 @@
 aliases:
   - Vennara
 id: Al9aRx2vVm4Tb7Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: 6000
 languages:

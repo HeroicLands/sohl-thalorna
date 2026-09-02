@@ -11,8 +11,8 @@ id: NjnLfM9cs8UzUmsc
 img: icons/tree.svg
 shortcode: flow
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 3
   masteryLevelBase: 0

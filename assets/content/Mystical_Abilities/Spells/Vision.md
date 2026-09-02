@@ -11,8 +11,8 @@ id: Ck3vJRAUmjtsfh13
 img: icons/anvil.svg
 shortcode: vision
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 1
   masteryLevelBase: 0

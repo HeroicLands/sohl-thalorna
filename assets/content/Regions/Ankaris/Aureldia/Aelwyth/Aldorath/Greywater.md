@@ -2,8 +2,8 @@
 aliases:
   - Greywater
 id: md1o5v1VaxgYEye0
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Village"
 population: null
 languages:

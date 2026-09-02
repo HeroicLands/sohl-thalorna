@@ -9,13 +9,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: AOAX8HsKj3dBH4SA
 shortcode: nushot
 name:
   full: "Ritual: Nüshöt"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

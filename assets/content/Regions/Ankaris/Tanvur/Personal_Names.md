@@ -2,8 +2,8 @@
 aliases:
   - Personal Names
 id: LgGLhQV6dRATDaEB
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Personal Names
   aliases: []

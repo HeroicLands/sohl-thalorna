@@ -10,13 +10,13 @@ tags:
   - first-gods
   - faith-skill
 type: skill
+subType: mystical
 id: xkiYiIgUFLqiCVFb
 shortcode: theoldway
 name:
   full: "Ritual: The Old Way"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

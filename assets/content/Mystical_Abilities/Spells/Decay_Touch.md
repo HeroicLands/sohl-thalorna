@@ -12,8 +12,8 @@ id: 46Npuq1hODFdGB47
 img: icons/tree.svg
 shortcode: dcytch
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 4
   masteryLevelBase: 0

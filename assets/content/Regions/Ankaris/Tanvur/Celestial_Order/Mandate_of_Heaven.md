@@ -2,8 +2,8 @@
 aliases:
   - Mandate of Heaven
 id: Zn84KmMhXmjJnQrQ
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Mandate of Heaven
   aliases: []

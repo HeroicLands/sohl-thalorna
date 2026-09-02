@@ -2,8 +2,8 @@
 aliases:
   - Calvaris
 id: Al3hGx4mCq9Tb2Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town"
 population: 9000
 languages:

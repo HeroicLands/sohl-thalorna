@@ -11,8 +11,8 @@ id: tz8cj6ntnZKCwg6k
 img: icons/anvil.svg
 shortcode: strike
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 2
   masteryLevelBase: 0

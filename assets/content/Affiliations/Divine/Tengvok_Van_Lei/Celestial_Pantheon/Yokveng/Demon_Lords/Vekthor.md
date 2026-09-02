@@ -14,8 +14,8 @@ name:
     - The Counterfeit Scribe
 shortcode: vekthor
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

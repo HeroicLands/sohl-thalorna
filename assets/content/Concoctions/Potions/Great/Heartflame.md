@@ -12,6 +12,7 @@ id: Zvc03XNhctw5xXAd
 img: icons/potion.svg
 shortcode: PtnStmG
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Stimulant, Great"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 480
   weight: 0.25
-  subType: "exotic"
   potency: "great"
   strength: 0
   archetype: null

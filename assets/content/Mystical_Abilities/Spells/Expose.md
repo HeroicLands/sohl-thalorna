@@ -11,8 +11,8 @@ id: o7MCuiNC97SeiYee
 img: icons/circle.svg
 shortcode: expose
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 1
   masteryLevelBase: 0

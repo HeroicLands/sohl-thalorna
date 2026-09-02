@@ -12,8 +12,8 @@ name:
 id: fT0m0zgori7CbpJj
 shortcode: heladrgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: "Greece, Bulgaria, North Macedonia, and Albania — the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
 demonym: Helladic
 parent:

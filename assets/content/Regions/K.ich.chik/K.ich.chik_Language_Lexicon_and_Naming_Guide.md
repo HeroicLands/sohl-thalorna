@@ -1,8 +1,8 @@
 ---
 aliases:
   - K’ich'chik Language Lexicon and Naming Guide
-type: doc
-category: lore
+type: lore
+subType: folk
 id: 6JdPzB4QxWfdrUbu
 shortcode: kchchklngglxcnmngd
 name:

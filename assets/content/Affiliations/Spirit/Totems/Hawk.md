@@ -7,8 +7,8 @@ id: 2Ed7btYI6bIBYi7P
 img: images/mystery/hawk.webp
 shortcode: hawkttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

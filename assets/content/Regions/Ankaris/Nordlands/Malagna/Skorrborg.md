@@ -2,8 +2,8 @@
 aliases:
   - Skorrborg
 id: RceXRNNJJjThvqSo
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Town"
 population: null
 languages:

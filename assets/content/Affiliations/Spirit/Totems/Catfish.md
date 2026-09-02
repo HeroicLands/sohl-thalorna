@@ -7,8 +7,8 @@ id: RbJ9D3CclnLOGenm
 img: images/mystery/catfish.webp
 shortcode: catfishttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

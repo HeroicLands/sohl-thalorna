@@ -10,8 +10,8 @@ id: 9vZDXOnWSPOxy3DX
 img: icons/speaking.svg
 shortcode: grukarlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

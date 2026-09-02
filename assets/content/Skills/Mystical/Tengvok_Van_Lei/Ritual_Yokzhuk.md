@@ -9,13 +9,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: g4SPdofC5APWStnr
 shortcode: yokzhuk
 name:
   full: "Ritual: Yökzhük"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

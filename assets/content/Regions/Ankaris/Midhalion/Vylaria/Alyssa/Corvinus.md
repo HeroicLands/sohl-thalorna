@@ -2,8 +2,8 @@
 aliases:
   - Corvinus
 id: 0yneTHleAxbUv6TI
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Garrison Town"
 population: 9000
 languages:

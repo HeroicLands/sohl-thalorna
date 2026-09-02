@@ -2,8 +2,8 @@
 aliases:
   - Vyālendra
 id: Df8fe3ZzpuxYWWbE
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

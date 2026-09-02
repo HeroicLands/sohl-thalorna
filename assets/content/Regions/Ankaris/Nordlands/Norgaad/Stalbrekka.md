@@ -3,8 +3,8 @@ aliases:
   - Stálbrekka
   - Stalbrekka
 id: htPFubBTLySO6pYs
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Mountain Settlement"
 population: null
 languages:

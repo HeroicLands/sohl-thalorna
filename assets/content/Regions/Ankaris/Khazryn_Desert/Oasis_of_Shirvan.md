@@ -2,15 +2,14 @@
 aliases:
   - Oasis of Shirvan
 id: FQHoKNcT3CfFmyIV
-type: doc
-category: settlement
+type: place
 settlementType: "Oasis Settlement"
 population: null
 name:
   full: Oasis of Shirvan
   aliases: []
 shortcode: oasishirvn
-subType: town
+subType: settlement
 parent:
   regions:
     - khzryndsrtrgn

@@ -7,8 +7,8 @@ name:
   full: The Siege of Válaren
   aliases: []
 shortcode: siegevalrn
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

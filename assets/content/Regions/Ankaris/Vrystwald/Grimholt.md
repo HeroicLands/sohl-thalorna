@@ -2,8 +2,8 @@
 aliases:
   - Grimholt
 id: nslauvnDvb7PsYKm
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Village"
 population: null
 languages:

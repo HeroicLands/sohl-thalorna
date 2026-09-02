@@ -3,8 +3,8 @@ aliases:
   - Magnápolis
   - Magnapolis City
 id: aYb1o7HjieqorZW7
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Capital City"
 population: null
 languages:

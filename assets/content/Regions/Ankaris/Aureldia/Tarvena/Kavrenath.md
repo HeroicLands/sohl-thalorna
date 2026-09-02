@@ -2,8 +2,8 @@
 aliases:
   - Kávrenath
 id: rpSFTksRLO0nmlv9
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Frontier Town"
 population: null
 languages:

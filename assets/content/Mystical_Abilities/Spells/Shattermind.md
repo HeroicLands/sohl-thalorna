@@ -11,8 +11,8 @@ id: SYLfKWICowUw9Uss
 img: icons/divination.svg
 shortcode: shttrmnd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 6
   masteryLevelBase: 0

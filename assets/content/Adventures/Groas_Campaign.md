@@ -7,8 +7,8 @@ name:
   full: Gróa's Campaign
   aliases: []
 shortcode: groascmpgn
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 topic: true
 folder: TokyoDCf1w4elPns
 ---

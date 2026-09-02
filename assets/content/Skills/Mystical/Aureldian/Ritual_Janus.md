@@ -6,6 +6,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: BUN9hcUL3vfQj1Cg
 shortcode: janus
 img: images/affiliation/janus.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Janus"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -12,6 +12,7 @@ id: JwZQZ0YmaJwAFS6p
 img: icons/potion.svg
 shortcode: ElxFir
 type: concoctiongear
+subType: elixir
 hmk:
   name: Fireshield
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

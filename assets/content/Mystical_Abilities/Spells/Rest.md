@@ -11,8 +11,8 @@ id: f2jOOGayDtbOsUnj
 img: icons/tree.svg
 shortcode: rest
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 4
   masteryLevelBase: 0

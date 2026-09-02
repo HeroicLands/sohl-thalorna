@@ -2,8 +2,8 @@
 aliases:
   - Castamar
 id: Vd9rKx2mWp7Tb4Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Naval City (Military Hub)"
 population: 20000
 languages:

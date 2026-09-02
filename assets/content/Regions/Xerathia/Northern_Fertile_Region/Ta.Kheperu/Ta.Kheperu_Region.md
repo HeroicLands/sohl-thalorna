@@ -12,8 +12,8 @@ name:
 id: SL5ANxIUYDVlM9v7
 shortcode: takheperurgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Kheperi
 parent:
   regions:

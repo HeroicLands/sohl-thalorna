@@ -11,8 +11,8 @@ id: cSqKxsEswJt53AYn
 img: icons/divination.svg
 shortcode: peace
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 1
   masteryLevelBase: 0

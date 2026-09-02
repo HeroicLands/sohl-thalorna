@@ -5,8 +5,8 @@ aliases:
 tags:
   - continent
   - ankaris
-type: doc
-category: continent
+type: place
+subType: region
 id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent

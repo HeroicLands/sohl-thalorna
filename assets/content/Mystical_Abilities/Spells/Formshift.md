@@ -11,8 +11,8 @@ id: A4kMqN9qrvGZtZHo
 img: icons/anvil.svg
 shortcode: frmshft
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 2
   masteryLevelBase: 0

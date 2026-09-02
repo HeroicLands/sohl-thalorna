@@ -2,8 +2,8 @@
 aliases:
   - Ashford
 id: RMwDrWEzwzEajWbh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "River Town"
 population: null
 languages:

@@ -12,8 +12,8 @@ name:
 id: cVnJ8UumMs7ffSZq
 shortcode: bethuargn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Bethûan
 parent:
   regions:

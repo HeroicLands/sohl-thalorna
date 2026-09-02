@@ -2,8 +2,8 @@
 aliases:
   - Dreadspawn
 id: IXbkAjZGvlH7go8k
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Dreadspawn
   aliases: []

@@ -10,8 +10,8 @@ tags:
   - magnapolis
   - scholarly
 description: "The Aula Panepistemium, the ceremonial inner seat of the Panepistemium within Urbs Aquilion — no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Bibliotheca Reservata, the warded library of the rarest and most dangerous knowledge in the Empire."
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "University Hall"
 population: null
 languages:

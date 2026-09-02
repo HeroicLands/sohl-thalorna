@@ -9,8 +9,8 @@ id: zM3QEMALDimIYvac
 img: icons/psionics.svg
 shortcode: natn
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

@@ -2,8 +2,8 @@
 aliases:
   - Tz'uma No'tun
 id: JVMEXCHmxTAMu49N
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

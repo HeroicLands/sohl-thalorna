@@ -12,6 +12,7 @@ id: RLBFOJy4DDLdC7dE
 img: icons/potion.svg
 shortcode: ElxSBf
 type: concoctiongear
+subType: elixir
 hmk:
   name: Soulbuffer
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

@@ -11,7 +11,7 @@ tags:
   - society
 description: "Citizenship in the Vylarian Empire — a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying the grain dole, the right of residence in Magnápolis, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
 type: doc
-category: reference
+subType: reference
 id: Vc7Kp3mZ9rLqXt2B
 name:
   full: Vylarian Citizenship

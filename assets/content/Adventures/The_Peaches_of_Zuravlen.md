@@ -7,8 +7,8 @@ name:
   full: The Peaches of Zûravlen
   aliases: []
 shortcode: pechszrvln
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

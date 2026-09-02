@@ -7,8 +7,8 @@ id: zJVBT4rbche7Cmfb
 img: images/mystery/cow.webp
 shortcode: cowttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

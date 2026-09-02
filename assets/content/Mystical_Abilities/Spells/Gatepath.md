@@ -11,8 +11,8 @@ id: BWH6iFGuJf6YCEVw
 img: icons/wind.svg
 shortcode: gatepath
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 5
   masteryLevelBase: 0

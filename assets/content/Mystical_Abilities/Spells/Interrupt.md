@@ -11,8 +11,8 @@ id: 7bf54JPu6mgIiagn
 img: icons/circle.svg
 shortcode: intrrpt
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 3
   masteryLevelBase: 0

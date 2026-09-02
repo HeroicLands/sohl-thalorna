@@ -2,8 +2,8 @@
 aliases:
   - Caste Laws
 id: EWgtewbsESDxr4KT
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Caste Laws
   aliases: []

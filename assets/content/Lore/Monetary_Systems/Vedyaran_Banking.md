@@ -11,7 +11,7 @@ tags:
   - stub
 description: "Stub note for the Vedyaran banking system — administered through the Merchant Collective's internal credit and clearing arrangements; not yet documented in detail."
 type: doc
-category: reference
+subType: reference
 id: nTyttK88PvAX8k96
 name:
   full: Vedyaran Banking

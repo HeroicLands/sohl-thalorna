@@ -2,8 +2,8 @@
 aliases:
   - Khemenu
 id: U2pzITnUVrmEUuZY
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple City (Scribal)"
 population: 85000
 languages:

@@ -11,8 +11,8 @@ id: 9e4TZcO8JbQ6SJSd
 img: icons/circle.svg
 shortcode: smlcrm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 3
   masteryLevelBase: 0

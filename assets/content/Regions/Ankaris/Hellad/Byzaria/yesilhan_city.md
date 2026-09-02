@@ -2,8 +2,8 @@
 aliases:
   - Yeşilhan
 id: pIq5WRv3f9mIgJHz
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Caravan City"
 population: null
 languages:

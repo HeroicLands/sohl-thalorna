@@ -11,8 +11,8 @@ id: TUqns3vvzIPK7a1o
 img: icons/water.svg
 shortcode: mystery
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 6
   masteryLevelBase: 0

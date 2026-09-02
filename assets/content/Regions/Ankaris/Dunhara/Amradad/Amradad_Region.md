@@ -12,8 +12,8 @@ name:
 id: yvAi0uy6sqpFand1
 shortcode: amradadrgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Amradi
 parent:
   regions:

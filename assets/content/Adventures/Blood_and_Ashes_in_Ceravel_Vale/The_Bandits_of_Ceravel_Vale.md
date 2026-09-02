@@ -4,7 +4,8 @@ aliases:
   - The Bandits of Ceravel Vale
 tags:
   - blood-and-ashes-in-ceravel-vale
-type: doc
+type: scenario
+subType: adventure
 id: UMwapuEoRc7pnmZT
 shortcode: bndtscrvlvl
 name:
@@ -16,7 +17,6 @@ campaign:
   id: 1e0pksxoUKkUxRFB
   part: 1
 folder: 9TmLIkGXGHMtFxzy
-category: adventure
 ---
 
 ## Teaser

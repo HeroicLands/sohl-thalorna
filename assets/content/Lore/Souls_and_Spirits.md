@@ -10,8 +10,8 @@ tags:
   - gm-only
   - secret
   - metaphysics
-type: doc
-category: lore
+type: lore
+subType: folk
 id: 4MHP68GuoaAZVOD9
 folder: t3p5qf6rZc8w0Nc4
 shortcode: soulspirts

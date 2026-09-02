@@ -3,8 +3,8 @@ aliases:
   - Sulûn
   - Sulun
 id: 5mm5ufJ2syvYaFP8
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Village"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - K’awi’il’ul Ki’ik
 id: LzFK4SEzMloriHpl
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Garrison Town"
 population: null
 languages:

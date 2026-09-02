@@ -4,14 +4,13 @@ aliases:
   - Karatas
 id: uiADI8jrs2X2wNS3
 description: "City-state of the Byzarian League — fortress-city controlling critical sea routes between east and west, trading its strategic position for wealth and naval prestige."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Karataş
   aliases: []
 shortcode: karatas
 population: "~1,600,000"
-subType: city-state
+subType: polity
 capital: karatas2
 demonym: Karataşi
 government:

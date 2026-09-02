@@ -2,8 +2,8 @@
 aliases:
   - Belekos
 id: 4sQb0DORaqTYrcOm
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Merchant City"
 population: 25000
 languages:

@@ -3,8 +3,8 @@ aliases:
   - Nützōk
   - Nutzok
 id: nhYIrM34LxAifLFJ
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Nützōk
   aliases: []

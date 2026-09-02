@@ -11,8 +11,8 @@ id: X9xsP4cXbJrLMG6n
 img: icons/tree.svg
 shortcode: call
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 6
   masteryLevelBase: 0

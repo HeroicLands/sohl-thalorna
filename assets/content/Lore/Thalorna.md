@@ -3,8 +3,8 @@ aliases:
   - Thalorna
   - The World of Thalorna
 id: ZwEe2tr8ed7HSXG4
-type: doc
-category: world
+type: place
+subType: world
 folder: wCi1zv06QgydQQoL
 name:
   full: The World of Thalorna

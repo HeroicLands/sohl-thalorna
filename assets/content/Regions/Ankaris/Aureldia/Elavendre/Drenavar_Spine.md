@@ -5,8 +5,8 @@ aliases:
   - Drenavar Mountains
   - The Drenavar
 id: Vb3c2kCmZT3k4wIa
-type: doc
-category: location
+type: place
+subType: region
 name:
   full: The Drenavar Spine
   aliases:

@@ -6,8 +6,8 @@ name:
   full: Embassy from Dunavarre to Tānvür
   aliases: []
 shortcode: embsydnvrtnvr
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: aelwyth
 folder: TokyoDCf1w4elPns

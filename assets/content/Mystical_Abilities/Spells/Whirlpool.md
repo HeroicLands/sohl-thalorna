@@ -11,8 +11,8 @@ id: eIDPdFjxjDzW8r9V
 img: icons/circle.svg
 shortcode: whrlpl
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 6
   masteryLevelBase: 0

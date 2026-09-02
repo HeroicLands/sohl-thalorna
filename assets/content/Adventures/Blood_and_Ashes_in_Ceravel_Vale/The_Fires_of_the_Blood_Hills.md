@@ -3,7 +3,8 @@ aliases:
   - The Fires of the Blood Hills
 tags:
   - blood-and-ashes-in-ceravel-vale
-type: doc
+type: scenario
+subType: adventure
 id: 6TK6erjwIhZeAzxz
 shortcode: firsbldhls
 name:
@@ -15,7 +16,6 @@ campaign:
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
-category: adventure
 ---
 
 ## Teaser

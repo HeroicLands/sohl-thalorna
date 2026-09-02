@@ -18,11 +18,10 @@ id: SsYaojXUrAE6wy9I
 shortcode: tanvurempr
 population: "~120,000,000"
 img: ""
-type: doc
-category: polity
+type: affiliation
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 demonym: Tānvüri
-subType: empire
+subType: polity
 capital: ""
 ruler:
   title: Emperor

@@ -2,8 +2,8 @@
 aliases:
   - Aravantia
 id: Hy4rKx2mVqL9Tb7n
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Provincial Capital"
 population: 28000
 languages:

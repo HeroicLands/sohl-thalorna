@@ -7,8 +7,8 @@ id: 8tXNzvMlIs7L5c7v
 img: images/mystery/parrot.webp
 shortcode: parrotttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -12,6 +12,7 @@ id: 9D5fnGsax0dVVkrJ
 img: icons/potion.svg
 shortcode: PtnAphrM
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Aphrodisiac, Mild"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 16
   weight: 0.25
-  subType: "exotic"
   potency: "mild"
   strength: 0
   archetype: null

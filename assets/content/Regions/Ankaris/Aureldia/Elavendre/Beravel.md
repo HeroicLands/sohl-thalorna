@@ -2,8 +2,8 @@
 aliases:
   - Béravel
 tags: []
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 id: 0IRfMdU0Ti4QDjsE

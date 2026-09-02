@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: yrAnq3onWUYzlUci
 shortcode: morvana
 img: images/affiliation/morvana.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Morvana"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

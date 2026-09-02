@@ -7,8 +7,8 @@ name:
   full: Pantheon Regional Map
   aliases: []
 shortcode: pnthnrgnlmp
-type: doc
-category: lore
+type: lore
+subType: folk
 folder: 6NICDnQl8B4GjvL7
 ---
 

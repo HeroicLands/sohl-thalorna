@@ -9,8 +9,8 @@ id: 00MLcg47Jqc1VD89
 img: icons/fire.svg
 shortcode: seeker
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 5
   masteryLevelBase: 0

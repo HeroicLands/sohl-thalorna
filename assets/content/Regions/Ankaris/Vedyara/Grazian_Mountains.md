@@ -5,8 +5,8 @@ aliases:
   - The Grazians
   - The Grazian Wall
 id: Aj5Li2wQQbLyEMm2
-type: doc
-category: location
+type: place
+subType: region
 name:
   full: The Grazian Mountains
   aliases:

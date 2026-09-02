@@ -11,8 +11,8 @@ id: GpDzz61kM8VIHEXL
 img: icons/anvil.svg
 shortcode: pltskn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 5
   masteryLevelBase: 0

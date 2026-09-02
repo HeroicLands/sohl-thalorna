@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: YlTN0MpIQsOls3gi
 shortcode: zhutshtlng
 name:
   full: "Ritual: Zhütshüt Lüng"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

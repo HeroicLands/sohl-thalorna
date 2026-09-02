@@ -2,8 +2,8 @@
 aliases:
   - Elanmere
 id: rvpZLPq6bDeSMrLX
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Lakeside Town"
 population: null
 languages:

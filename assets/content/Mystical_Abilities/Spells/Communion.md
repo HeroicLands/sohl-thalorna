@@ -11,8 +11,8 @@ id: e5dFMri5YIyz4MyU
 img: icons/circle.svg
 shortcode: cmmnn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

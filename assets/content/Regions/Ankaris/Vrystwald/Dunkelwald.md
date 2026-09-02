@@ -2,8 +2,8 @@
 aliases:
   - Dunkelwald
 id: BvtBiuBimYBhWyf6
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Deep Forest Settlement"
 population: null
 languages:

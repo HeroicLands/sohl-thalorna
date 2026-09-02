@@ -11,8 +11,8 @@ id: S30alTNB7uj1pgeE
 img: icons/water.svg
 shortcode: slncbnd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 2
   masteryLevelBase: 0

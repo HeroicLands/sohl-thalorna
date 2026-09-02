@@ -3,8 +3,8 @@ aliases:
   - Járnvík
   - Jarnvik
 id: JVjT5UI2QiINN8NC
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Harbor Town"
 population: null
 languages:

@@ -4,7 +4,8 @@ tags:
 aliases:
   - Cave Outline
 id: xtuTF2bDckVdkrE5
-type: doc
+type: scenario
+subType: adventure
 name:
   full: Cave Outline
   aliases: []
@@ -12,7 +13,6 @@ shortcode: caveoutlin
 thalorna:
   region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
-category: adventure
 ---
 
 ### Approach to the Cave

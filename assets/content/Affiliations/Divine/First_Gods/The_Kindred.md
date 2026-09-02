@@ -14,9 +14,9 @@ name:
     - The Servants of the First
 shortcode: thekindred
 type: affiliation
+subType: arcanetradition
 pantheon: firstgods
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

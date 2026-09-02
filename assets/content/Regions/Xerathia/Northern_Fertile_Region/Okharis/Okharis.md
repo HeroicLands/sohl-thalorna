@@ -3,15 +3,14 @@ aliases:
   - Okháris
 tags: []
 description: "Collection of ancient city-states in the Northern Fertile Region of Xerathia — centers of civilization and learning in a tropical realm of rivers and rainforests."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Okháris
   aliases: []
 id: pQ4weKzrzcv5Fppm
 shortcode: okharis
 population: "~4,000,000"
-subType: kingdom
+subType: polity
 capital: zarhanor
 demonym: Okháric
 government:

@@ -12,8 +12,8 @@ id: M0zSjMxyTVTQBIkD
 img: icons/fire.svg
 shortcode: pchsoul
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 2
   masteryLevelBase: 0

@@ -7,8 +7,8 @@ id: 7sSIfjhmqoOP3h0E
 img: images/mystery/trout.webp
 shortcode: troutttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -11,8 +11,8 @@ id: splbdeySktYutmaW
 img: icons/water.svg
 shortcode: surge
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 5
   masteryLevelBase: 0

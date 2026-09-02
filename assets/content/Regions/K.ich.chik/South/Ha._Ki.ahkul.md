@@ -2,8 +2,8 @@
 aliases:
   - Ha’ Ki’ahkul
 id: kwMVyscLlBNMazGt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Mining Town"
 population: null
 languages:

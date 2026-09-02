@@ -10,8 +10,8 @@ id: biesSfy4Vps4r7wt
 img: icons/speaking.svg
 shortcode: okharclng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

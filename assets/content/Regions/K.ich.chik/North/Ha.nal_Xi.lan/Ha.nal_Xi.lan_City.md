@@ -2,8 +2,8 @@
 aliases:
   - Ha'nal Xi'lan
 id: ZvysDgAlz9mgapDo
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

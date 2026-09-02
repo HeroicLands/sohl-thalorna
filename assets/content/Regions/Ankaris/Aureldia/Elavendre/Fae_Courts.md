@@ -3,8 +3,8 @@ aliases:
   - The Fae Courts
   - Fae Courts
 id: xC94NpQeBYOyeezn
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: The Fae Courts
   aliases: []

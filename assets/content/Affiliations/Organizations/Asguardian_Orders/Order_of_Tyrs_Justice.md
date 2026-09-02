@@ -13,10 +13,8 @@ name:
     - Týrshönd
 shortcode: ordrtyrsjstc
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

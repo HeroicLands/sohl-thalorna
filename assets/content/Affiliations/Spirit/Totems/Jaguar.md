@@ -7,8 +7,8 @@ id: wUJqCGHtATIIh99Q
 img: images/mystery/jaguar.webp
 shortcode: jaguarttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -7,8 +7,8 @@ id: GOFYJG8SHFbxXoPh
 img: images/mystery/pigeon.webp
 shortcode: pigeonttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

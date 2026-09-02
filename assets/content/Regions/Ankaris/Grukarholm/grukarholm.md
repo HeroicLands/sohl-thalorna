@@ -2,8 +2,8 @@
 aliases:
   - Grukarholm
 id: kRq6vgWmxMG5MZ4V
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress Town"
 population: null
 languages:

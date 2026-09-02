@@ -10,8 +10,8 @@ id: DKD7KcuikPJx3oIW
 img: icons/speaking.svg
 shortcode: vedyarlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

@@ -11,8 +11,8 @@ id: INGy59UU55J5PoT3
 img: icons/anvil.svg
 shortcode: hrmnbld
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 3
   masteryLevelBase: 0

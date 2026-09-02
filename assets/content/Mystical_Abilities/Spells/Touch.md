@@ -11,8 +11,8 @@ id: Cfwl8zMkSkspbdzd
 img: icons/fire.svg
 shortcode: touch
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 1
   masteryLevelBase: 0

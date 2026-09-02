@@ -18,10 +18,8 @@ name:
     - The Ta'Kheperu Hunters' Guild
 shortcode: pernuw
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

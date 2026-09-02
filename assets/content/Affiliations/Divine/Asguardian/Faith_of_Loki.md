@@ -5,6 +5,7 @@ id: iySZsg4GUX7SXyvZ
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Lôki
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: loki
 img: images/affiliation/loki.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

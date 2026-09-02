@@ -6,7 +6,6 @@ name:
   full: Affiliations
   aliases: []
 type: doc
-category: collection
 shortcode: affiliatns
 section: affiliation
 tags:

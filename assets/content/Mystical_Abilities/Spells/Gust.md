@@ -11,8 +11,8 @@ id: 9DQBtmLcuVE9dsHW
 img: icons/wind.svg
 shortcode: gust
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 6
   masteryLevelBase: 0

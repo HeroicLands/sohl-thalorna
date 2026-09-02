@@ -11,8 +11,8 @@ id: abOHjvEhJ91Fl21O
 img: icons/anvil.svg
 shortcode: grasp
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 5
   masteryLevelBase: 0

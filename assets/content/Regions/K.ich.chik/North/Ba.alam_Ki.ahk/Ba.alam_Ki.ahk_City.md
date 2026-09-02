@@ -2,8 +2,8 @@
 aliases:
   - Ba'alam Ki'ahk
 id: PVzHCv6vrYI2AmrU
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

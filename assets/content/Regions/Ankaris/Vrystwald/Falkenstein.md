@@ -2,8 +2,8 @@
 aliases:
   - Falkenstein
 id: TgcoCbH421uQfKWo
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Hill Fort"
 population: null
 languages:

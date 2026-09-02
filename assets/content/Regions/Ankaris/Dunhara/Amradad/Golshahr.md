@@ -2,8 +2,8 @@
 aliases:
   - Golshahr
 id: SulSgH0GRCJUbMll
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

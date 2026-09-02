@@ -5,8 +5,8 @@ aliases:
   - Bethûra
   - Bethura
 id: CrmLLo78aUYwlRtC
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

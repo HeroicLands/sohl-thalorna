@@ -2,8 +2,8 @@
 aliases:
   - Dunmere
 id: MbOkXD6PFlAjMucq
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Lakeside Village"
 population: null
 languages:

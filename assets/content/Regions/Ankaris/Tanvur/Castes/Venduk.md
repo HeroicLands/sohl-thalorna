@@ -3,8 +3,8 @@ aliases:
   - Vëndük
   - Venduk
 id: nLx2MYaX3wPItzq1
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Vëndük
   aliases: []

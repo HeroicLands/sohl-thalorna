@@ -2,8 +2,8 @@
 aliases:
   - Calendar and Astrology
 id: PLoeMYg2nCbgYuDi
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Calendar and Astrology
   aliases: []

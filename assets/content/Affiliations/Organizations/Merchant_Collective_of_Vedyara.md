@@ -15,10 +15,8 @@ name:
     - The Long Caravan
 shortcode: mrchntclctvvdyr
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

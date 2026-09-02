@@ -8,13 +8,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: lHkXWIwppqaaXnSW
 shortcode: rasikara
 name:
   full: "Ritual: Rásikara"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

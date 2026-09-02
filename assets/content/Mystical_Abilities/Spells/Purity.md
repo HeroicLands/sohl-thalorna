@@ -11,8 +11,8 @@ id: kJZzNhmiLuazVFeO
 img: icons/divination.svg
 shortcode: purity
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 4
   masteryLevelBase: 0

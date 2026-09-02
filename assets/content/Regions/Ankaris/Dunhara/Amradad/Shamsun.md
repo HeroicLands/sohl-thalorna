@@ -3,8 +3,8 @@ aliases:
   - Shamsûn
   - Shamsun
 id: nlCErQbCazleD3Ns
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Oasis City"
 population: null
 languages:

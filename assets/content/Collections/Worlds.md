@@ -6,7 +6,6 @@ name:
   full: Worlds
   aliases: []
 type: doc
-category: collection
 shortcode: worlds
 section: world
 tags:

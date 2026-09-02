@@ -19,9 +19,8 @@ name:
     - The Forsaken
 shortcode: nuszokreit
 type: affiliation
-subType: divine
+subType: faithtradition
 sohl:
-  subType: social
   society: null
   office: null
   title: null

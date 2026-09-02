@@ -7,13 +7,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: V6TwVaDMs7y2aCcb
 shortcode: ataros
 name:
   full: "Ritual: Ātáröš"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

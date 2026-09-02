@@ -2,8 +2,8 @@
 aliases:
   - Marriage
 id: FU7XLpmwbZEhNm5R
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Marriage
   aliases: []

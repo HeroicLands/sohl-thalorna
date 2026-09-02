@@ -8,10 +8,10 @@ id: aZEAJ3V0isBBQkHw
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: diplos
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": 5

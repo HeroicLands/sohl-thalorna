@@ -4,15 +4,14 @@ aliases:
   - Vindhyalaya
 tags: []
 description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that bind Vedyara to the desert realms beyond.
-type: doc
-category: polity
+type: affiliation
 name:
   full: Vindhyālaya
   aliases: []
 id: 8t9B6UgMSkTG9Dir
 shortcode: vindhyalay
 population: "~8,000,000"
-subType: kingdom
+subType: polity
 capital: suryagarha
 demonym: Vindhyan
 ruler:

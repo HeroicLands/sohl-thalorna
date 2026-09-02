@@ -5,6 +5,7 @@ id: c12fS9I0LjihzxT9
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Týr
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: tyr
 img: images/affiliation/tyr.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

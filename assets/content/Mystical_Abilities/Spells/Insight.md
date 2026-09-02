@@ -11,8 +11,8 @@ id: jleq8h3pn5zejpkT
 img: icons/tree.svg
 shortcode: insight
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 2
   masteryLevelBase: 0

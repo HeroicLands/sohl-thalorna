@@ -2,8 +2,8 @@
 aliases:
   - Korsvik
 id: Vd3yPx6kKm2Sb8Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Town"
 population: 7000
 languages:

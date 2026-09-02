@@ -10,13 +10,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: gA0jH1zhocwrvUAO
 shortcode: apophis
 name:
   full: "Ritual: Ápōphis"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -11,8 +11,8 @@ id: n9TQJmgMg1o2Qdvo
 img: icons/divination.svg
 shortcode: trthflr
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 1
   masteryLevelBase: 0

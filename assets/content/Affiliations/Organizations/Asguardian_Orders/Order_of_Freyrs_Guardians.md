@@ -14,10 +14,8 @@ name:
     - The Guardians of the Harvest
 shortcode: ordrfryrsgrdns
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

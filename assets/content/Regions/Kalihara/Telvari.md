@@ -3,8 +3,8 @@ aliases:
   - Telvári
   - Telvari
 id: WBqnuiArBf5PZWiO
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Island Town"
 population: null
 languages:

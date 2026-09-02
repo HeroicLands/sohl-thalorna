@@ -11,8 +11,8 @@ id: JftT2fmGGmmUUHLW
 img: icons/divination.svg
 shortcode: fright
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 3
   masteryLevelBase: 0

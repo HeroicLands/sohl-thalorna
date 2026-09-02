@@ -7,8 +7,8 @@ id: lWxRr0XkTqO3qDNa
 img: images/mystery/goat.webp
 shortcode: goatttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

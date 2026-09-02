@@ -3,14 +3,13 @@ aliases:
   - City-States of Helionis
 id: RmbC48jofCWWg627
 description: "Confederation of independent city-states bound by shared culture, language, and games rather than political unity — philosophers, athletes, and seafarers in a region of eternal rivalry and honor."
-type: doc
-category: polity
+type: affiliation
 name:
   full: City-States of Heliónis
   aliases: []
 shortcode: ctysttshlns
 population: "~3,000,000"
-subType: confederation
+subType: polity
 capital: athenikos
 demonym: Helionite
 government:

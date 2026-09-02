@@ -2,8 +2,8 @@
 aliases:
   - Qasirah
 id: 4QzVGEQ6lbgWqm5t
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port Settlement"
 population: null
 languages:

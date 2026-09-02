@@ -11,8 +11,8 @@ id: OzKv2XLiqN0IYtaQ
 img: icons/divination.svg
 shortcode: loyalty
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 4
   masteryLevelBase: 0

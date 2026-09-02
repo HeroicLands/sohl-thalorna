@@ -8,13 +8,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: 1dlx3D1Lg48sCdej
 shortcode: kalavrata
 name:
   full: "Ritual: Kālavrata"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

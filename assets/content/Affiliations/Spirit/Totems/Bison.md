@@ -7,8 +7,8 @@ id: 2CpsqSoWBpEsHCU9
 img: images/mystery/bison.webp
 shortcode: bisonttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

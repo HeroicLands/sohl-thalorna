@@ -11,9 +11,8 @@ name:
 id: a45B4y3xgItfb4jv
 shortcode: kuxibalam
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: kuxibalam2
 terran_analog: Bolivia, Southern Central Brazil
 parent:

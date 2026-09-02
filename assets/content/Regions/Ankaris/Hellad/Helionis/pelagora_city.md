@@ -2,8 +2,8 @@
 aliases:
   - Pelagora
 id: zbCX6Tb8noi8LFDF
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Naval City"
 population: null
 languages:

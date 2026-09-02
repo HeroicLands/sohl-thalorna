@@ -2,8 +2,8 @@
 aliases:
   - Behen
 id: ijEMnWfPBKZeYMVm
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress Town"
 population: 24000
 languages:

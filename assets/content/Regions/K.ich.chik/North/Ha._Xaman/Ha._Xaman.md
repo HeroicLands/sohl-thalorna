@@ -11,9 +11,8 @@ name:
 id: Nfi6Vbb3BYorhP8k
 shortcode: haxaman
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: haxaman2
 terran_analog: Central US and Plains States East of Rockies
 parent:

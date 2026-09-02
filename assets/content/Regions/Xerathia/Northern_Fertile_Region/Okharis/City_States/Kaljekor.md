@@ -3,8 +3,8 @@ aliases:
   - Kaljékor
 id: pHo7smFVBkLA9NEb
 tags: []
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Trading Port"
 population: null
 pantheons:

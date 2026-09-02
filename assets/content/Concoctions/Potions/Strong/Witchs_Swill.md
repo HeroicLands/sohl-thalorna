@@ -12,6 +12,7 @@ id: elc3nRI3un00aLJb
 img: icons/potion.svg
 shortcode: PtnEmS
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Emetic, Strong"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 48
   weight: 0.25
-  subType: "exotic"
   potency: "strong"
   strength: 0
   archetype: null

@@ -10,8 +10,8 @@ id: x0vt7K08NQZPeVL0
 img: icons/speaking.svg
 shortcode: tarvenlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

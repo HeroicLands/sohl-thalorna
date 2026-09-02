@@ -8,8 +8,8 @@ tags:
   - religion
   - fire-deity
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

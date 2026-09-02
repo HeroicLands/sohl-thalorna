@@ -11,8 +11,8 @@ id: nuT3wYMpHeAdbuCB
 img: icons/wind.svg
 shortcode: hrrrscp
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 4
   masteryLevelBase: 0
