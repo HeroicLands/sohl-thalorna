@@ -12,69 +12,79 @@ name:
     - Guardians of the Covenant
 shortcode: alndnwrdns
 type: affiliation
-subType: venture
+subType: order
 data:
   templatePriority: null
   governance:
-    model: stratocracy
+    model: council
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers
-      holding by consent.
+      A chapter of professed brethren under an elected Grand Master, all of them bound by
+      the rule he enforces.
     ranks:
       - level: 0
-        title: Discharged in Disgrace
+        title: Expelled
         description: >-
-          Put out with the share forfeit and the name published, so that no other company will
-          take them.
+          Put out of the order, the habit taken back and the vows declared void; no house of
+          it will receive them again.
       - level: 1
         title: Servant
         description: >-
-          Attached to the company for its baggage, its cooking, its animals; not sworn and not
-          shared with.
+          Attached to a house for its labour — its stables, its kitchens, its fields — and not
+          of the order.
       - level: 2
-        title: Hand
-        description: Taken on for a season or a voyage, paid a wage, and holding no share of
-          the undertaking.
+        title: Postulant
+        description: Petitioning for admission and living under the rule on trial, bound by
+          nothing yet.
       - level: 3
-        title: Sworn Member
+        title: Novice
         description: >-
-          Sworn to the company's articles, entitled to a share of what it takes and bound by
-          what it agrees.
+          Received for a term of formation, under the rule and under a master of novices, and
+          free to leave until profession.
       - level: 4
-        title: Veteran
+        title: Professed
         description: >-
-          Of proven service across several undertakings, drawing a larger share and consulted
-          before the company commits.
+          Vowed to the order for life, holding no property of their own and owing obedience
+          to its officers.
       - level: 5
         title: Officer
-        description: Holding a charge in the company — its stores, its scouts, its accounts,
-          its discipline.
+        description: Holding a charge of a house — its arms, its stores, its almsgiving, its
+          chapel.
       - level: 6
-        title: Lieutenant
-        description: Second in the company, commanding in the captain's absence and detached
-          with a part of it.
-      - level: 7
-        title: Captain
-        description: Commanding the company, holding its articles and negotiating its contracts.
-      - level: 8
-        title: Master of the Company
+        title: Commander
         description: >-
-          Where a company outlives its captains: the standing head who holds the name, the charter
-          and the contracts between them.
+          Holding a house of the order, its brethren and its lands, and answerable for both
+          to the chapter.
+      - level: 7
+        title: Preceptor
+        description: >-
+          Holding a province of the order — several houses — and sitting in the chapter that
+          elects its head.
+      - level: 8
+        title: Grand Master
+        description: >-
+          Head of the order, elected by the chapter, bound by the rule he enforces and removable
+          under it.
     offices:
-      Master of the Company: Standing head of a company that outlives its captains, holding
-        the name and the contracts.
-      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
-      Lieutenant: Second in command, holding the company in the captain's absence.
-      Quartermaster: Keeper of the company's stores, its baggage and the division of what
-        it takes.
-      Purser: Keeper of the accounts — wages, shares, debts and the contract's terms.
-      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
-      Bosun: Master of the working of the ship or the ordering of the march.
-      Master-at-Arms: Keeper of the company's discipline and of its weapons.
-      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
-        the purser.
-      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
+      Preceptor: Holder of a province of the order, and an elector in the chapter.
+      Commander: Holder of a single house, its brethren and its lands.
+      Marshal: Master of the order's arms, horses and discipline in the field.
+      Seneschal: >-
+        Second to the Grand Master, holding the order's administration and standing for him
+        in his absence.
+      Draper: >-
+        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly
+        as any rank.
+      Almoner: >-
+        Administrator of the order's charity, which is commonly the reason it was chartered
+        at all.
+      Chaplain: >-
+        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's
+        discipline.
+      Master of Novices: Charged with formation, and with judging who may profess.
+      Treasurer: Keeper of the order's revenue, its endowments and its debts.
+      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother
+        of proven service.
   parents: []
   relations: {}
 sohl:

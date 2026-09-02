@@ -7,52 +7,55 @@ id: 2CpsqSoWBpEsHCU9
 img: images/mystery/bison.webp
 shortcode: bisonttm
 type: affiliation
-subType: arcanetradition
+subType: spirittradition
 data:
   templatePriority: null
   governance:
-    model: meritocracy
+    model: council
     summary: >-
-      Advancement by degree of initiation, with a body of elders deciding what is taught and
-      who is admitted.
+      A body of elders keeping the tradition's ways, with standing conferred by the spirit
+      through the ordeal and confirmed by them.
     ranks:
       - level: 0
-        title: Anathema
+        title: Spirit-shunned
         description: >-
-          Named against the tradition and cut off from its teaching, its protection and its
-          company; what it taught them is not taken back.
+          Turned from by the spirit and by those who keep it: no rite will include them, and
+          no elder will speak their name in one.
       - level: 1
         title: Uninitiated
-        description: Outside the tradition entirely — served by it, feared by it, and told nothing.
+        description: >-
+          Living under the tradition's observances without having entered it — most of the people,
+          most of the time.
       - level: 2
-        title: Aspirant
-        description: Petitioning for admission and being watched to see whether it should be
-          granted.
+        title: Supplicant
+        description: >-
+          Petitioning the spirit through those who may address it, and bringing what the tradition
+          asks in return.
       - level: 3
         title: Initiate
         description: >-
-          Received into the tradition and bound by its oaths, holding its first mysteries and
-          few of its secrets.
+          Taken through the ordeal and received; permitted at the rites and bound by the tradition's
+          prohibitions.
       - level: 4
-        title: Adept
-        description: Practised in the tradition's art and trusted to work it unsupervised.
+        title: Spirit-Speaker
+        description: >-
+          Permitted to address the spirit directly on another's behalf, and answerable for what
+          is asked of it.
       - level: 5
-        title: Master of the Art
-        description: Competent to teach the tradition and to answer for what a pupil does with
-          it.
+        title: Vessel
+        description: >-
+          One the spirit is allowed to enter, in the rites where somebody must be — a standing
+          of honour and of considerable risk.
       - level: 6
-        title: Keeper of the Tradition
+        title: Elder Shaman
         description: >-
-          Holding one of its bodies of knowledge or one of its houses, and answerable for its
-          continuance.
+          Long practised, teaching initiates and judging when the tradition's forms have been
+          broken.
       - level: 7
-        title: Elder
-        description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 8
-        title: First of the Tradition
+        title: Keeper of the Ways
         description: >-
-          Presiding over the elders and speaking for the whole tradition where it must speak
-          with one voice.
+          Holder of the tradition's paths, observances and sacred places, and its voice where
+          it must speak with one.
     offices:
       Keeper of the Ways: >-
         Holder of the tradition's paths and observances, and the one who says when they have
