@@ -10,12 +10,75 @@ name:
 shortcode: crimsnldgr
 type: affiliation
 subType: criminal
+data:
+  templatePriority: null
+  governance:
+    model: autocracy
+    summary: >-
+      A boss whose word is the organisation's only law, held for exactly as long as it is
+      feared.
+    ranks:
+      - level: 0
+        title: Marked
+        description: Named for killing, and every member who meets them is expected to try.
+      - level: 1
+        title: Hanger-on
+        description: >-
+          Around the organisation and useful to it — a doorman, a runner, a girl in a house
+          — and told nothing.
+      - level: 2
+        title: Associate
+        description: >-
+          Working for the organisation without being of it: paid for jobs, and disposable between
+          them.
+      - level: 3
+        title: Made Member
+        description: >-
+          Sworn in and under the organisation's protection, owing it obedience and a cut of
+          everything.
+      - level: 4
+        title: Earner
+        description: >-
+          Running a business of the organisation's — a racket, a route, a house — and paying
+          up from it.
+      - level: 5
+        title: Enforcer
+        description: >-
+          Charged with what the organisation collects by fear, and with what it does when fear
+          fails.
+      - level: 6
+        title: Crew Boss
+        description: Holding a crew and a territory, answerable for both and for what they bring
+          in.
+      - level: 7
+        title: Underboss
+        description: >-
+          Second in the organisation, running it day to day and standing between the boss and
+          everyone else.
+      - level: 8
+        title: Boss
+        description: >-
+          Head of the organisation, whose word is its only law and whose position lasts exactly
+          as long as it is feared.
+    offices:
+      Boss: Head of the organisation, whose word is its law for as long as it is feared.
+      Underboss: >-
+        Second, running the organisation day to day and standing between the boss and everyone
+        else.
+      Counsellor: Adviser to the boss, holding no crew and no territory and more influence
+        than either.
+      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
+      Enforcer: Collector by fear, and executor of what follows when fear fails.
+      Fence: Buyer and mover of what the organisation takes, and its most closely held connection.
+      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
+      Treasurer: >-
+        Keeper of the organisation's money — its cuts, its bribes, its reserve, and where
+        all three are.
+      Master of Lookouts: Runner of the network of eyes on which every operation depends.
+      Courier: Carrier of what may not be written, between people who may not meet.
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder: GOlgYgpU2BQfAG6g
 ---

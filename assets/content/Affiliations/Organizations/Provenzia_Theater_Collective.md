@@ -14,12 +14,54 @@ name:
 shortcode: prvnzthtrclctv
 type: affiliation
 subType: fellowship
+data:
+  templatePriority: null
+  governance:
+    model: democracy
+    summary: >-
+      A voluntary association whose members decide its affairs and elect its officers for
+      a term.
+    ranks:
+      - level: 0
+        title: Expelled
+        description: Put out by vote of the members, with the fellowship's hospitality and its
+          company closed.
+      - level: 1
+        title: Guest
+        description: Present by a member's invitation, welcome for the evening and party to
+          nothing.
+      - level: 2
+        title: Member
+        description: Admitted, paying the subscription and enjoying the fellowship's company
+          and its hall.
+      - level: 3
+        title: Full Member
+        description: Of standing enough to propose, to vote and to be voted for.
+      - level: 4
+        title: Elder Member
+        description: Long enough of the fellowship that its customs are remembered through them.
+      - level: 5
+        title: Officer
+        description: Elected to a charge of the fellowship — its purse, its records, its hall,
+          its charity.
+      - level: 6
+        title: Chair
+        description: Presiding over the fellowship's meetings for a term, and holding nothing
+          else by it.
+    offices:
+      Chair: >-
+        Presiding officer of the fellowship's meetings, elected for a term and holding nothing
+        else by it.
+      Secretary: Keeper of the roll, the minutes and the correspondence.
+      Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
+      Steward: Warden of the hall, its provision and the ordering of its gatherings.
+      Almoner: Administrator of the fellowship's relief to members in need.
+      Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
+  economy:
+    - affiliation-magnumclgm
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---

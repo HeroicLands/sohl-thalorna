@@ -15,13 +15,72 @@ name:
 shortcode: ordrfryrsgrdns
 type: affiliation
 subType: venture
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  governance:
+    model: stratocracy
+    summary: >-
+      A company bound by its articles, its members sharing in what it takes and its officers
+      holding by consent.
+    ranks:
+      - level: 0
+        title: Discharged in Disgrace
+        description: >-
+          Put out with the share forfeit and the name published, so that no other company will
+          take them.
+      - level: 1
+        title: Servant
+        description: >-
+          Attached to the company for its baggage, its cooking, its animals; not sworn and not
+          shared with.
+      - level: 2
+        title: Hand
+        description: Taken on for a season or a voyage, paid a wage, and holding no share of
+          the undertaking.
+      - level: 3
+        title: Sworn Member
+        description: >-
+          Sworn to the company's articles, entitled to a share of what it takes and bound by
+          what it agrees.
+      - level: 4
+        title: Veteran
+        description: >-
+          Of proven service across several undertakings, drawing a larger share and consulted
+          before the company commits.
+      - level: 5
+        title: Officer
+        description: Holding a charge in the company — its stores, its scouts, its accounts,
+          its discipline.
+      - level: 6
+        title: Lieutenant
+        description: Second in the company, commanding in the captain's absence and detached
+          with a part of it.
+      - level: 7
+        title: Captain
+        description: Commanding the company, holding its articles and negotiating its contracts.
+      - level: 8
+        title: Master of the Company
+        description: >-
+          Where a company outlives its captains: the standing head who holds the name, the charter
+          and the contracts between them.
+    offices:
+      Master of the Company: Standing head of a company that outlives its captains, holding
+        the name and the contracts.
+      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
+      Lieutenant: Second in command, holding the company in the captain's absence.
+      Quartermaster: Keeper of the company's stores, its baggage and the division of what
+        it takes.
+      Purser: Keeper of the accounts — wages, shares, debts and the contract's terms.
+      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
+      Bosun: Master of the working of the ship or the ordering of the march.
+      Master-at-Arms: Keeper of the company's discipline and of its weapons.
+      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
+        the purser.
+      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+  parents: []
+  relations:
     asguardian: aligned
+sohl:
   archetype: null
 folder:
 ---
