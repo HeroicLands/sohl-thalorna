@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Guardian of Night Visions
+  symbol: Crescent moon with a single protective eye
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - besdty
   parents:
     - kemtnpnthn
   relations:
@@ -94,10 +97,6 @@ name:
   aliases: []
 shortcode: bes
 banner: banners/ta-kheperu-banner.webp
-deity: Bēs
-epithet: Guardian of Night Visions
-symbol: Crescent moon with a single protective eye
-glyph: bes
 folder: RGkIoZ4nXKx1qnID
 ---
 

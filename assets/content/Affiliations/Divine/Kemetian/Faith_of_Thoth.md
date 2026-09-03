@@ -15,6 +15,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Scribe of the Eternal Library
+  symbol: Ibis quill writing on a golden scroll
   governance:
     model: theocracy
     summary: >-
@@ -85,7 +87,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - thothdty
   parents:
     - kemtnpnthn
   relations:
@@ -97,10 +100,6 @@ name:
   aliases: []
 shortcode: thoth
 banner: banners/ta-kheperu-banner.webp
-deity: Thōth
-epithet: Scribe of the Eternal Library
-symbol: Ibis quill writing on a golden scroll
-glyph: thoth
 folder: RGkIoZ4nXKx1qnID
 ---
 

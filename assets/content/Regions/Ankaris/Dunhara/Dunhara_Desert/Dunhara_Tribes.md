@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Dunharan
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: Tribal chiefs with seasonal gatherings; no central authority.
@@ -88,7 +90,7 @@ data:
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

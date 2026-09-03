@@ -11,6 +11,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Wild Beast
+  symbol: Antlers framing a swirling spiral
   governance:
     model: theocracy
     summary: >-
@@ -81,7 +83,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - karnavosdty
   parents:
     - arldnpnthn
   relations:
@@ -94,9 +97,6 @@ name:
     - The Wild Beast
 shortcode: karnavos
 img: images/affiliation/karnavos.webp
-deity: Karnavos
-epithet: The Wild Beast
-symbol: Antlers framing a swirling spiral
 folder: uMjCDTomEtc5Z0KV
 ---
 

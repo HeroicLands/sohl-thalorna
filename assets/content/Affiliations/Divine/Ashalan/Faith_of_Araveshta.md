@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Golden Giver
+  symbol: A golden chalice overflowing with wine and fruit, encircled by ivy vines
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - aravestadty
   parents:
     - ashanpnthn
   relations:
@@ -93,9 +96,6 @@ name:
   full: Faith of Árávēštä
   aliases: []
 shortcode: aravesta
-deity: Árávēštä
-epithet: The Golden Giver
-symbol: A golden chalice overflowing with wine and fruit, encircled by ivy vines
 alias: Árávēštä, The Golden Giver
 folder: 7so6UiPt445oIHWs
 ---

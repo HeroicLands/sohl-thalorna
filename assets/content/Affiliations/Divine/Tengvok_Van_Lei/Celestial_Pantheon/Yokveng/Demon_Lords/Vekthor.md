@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Forger of False Records
+  symbol: A vermillion seal pressed reversed in black ink
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vekthordty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Vëkthōr
-epithet: The Forger of False Records
-symbol: A vermillion seal pressed reversed in black ink
 folder: kZkGNxVHbgGyhAHr
 ---
 

@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of Wood
+  symbol: A white sprig branching from a carved brown wooden stamp
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - rthtdkvngdty
   parents:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-deity: Röthöt Dākvëng
-epithet: The Lord of Wood
-symbol: A white sprig branching from a carved brown wooden stamp
 folder: VmJuVqaOGhXrvXQs
 ---
 

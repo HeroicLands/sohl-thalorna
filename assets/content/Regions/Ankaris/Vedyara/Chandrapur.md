@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Chandrapuri
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Council of merchant-princes and temple patrons.
@@ -87,7 +89,7 @@ data:
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

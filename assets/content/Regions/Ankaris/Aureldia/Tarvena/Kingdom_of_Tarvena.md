@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Tarvénan
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Nominal monarchy over a patchwork of petty kingdoms, city-states, and free territories.
@@ -152,7 +154,7 @@ data:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

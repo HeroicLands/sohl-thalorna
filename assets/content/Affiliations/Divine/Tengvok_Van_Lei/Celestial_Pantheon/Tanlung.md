@@ -21,6 +21,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The First Classifier
+  symbol: A coiled gold dragon enclosing an empty ivory tablet
   governance:
     model: theocracy
     summary: >-
@@ -91,15 +93,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - tanlungdty
   parents:
     - tngvkvnlei
   relations: {}
 sohl:
   archetype: null
-deity: Tānlüng
-epithet: The First Classifier
-symbol: A coiled gold dragon enclosing an empty ivory tablet
 folder: Zsfl8qxSI1uYIBPU
 ---
 

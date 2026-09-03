@@ -23,6 +23,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Assembly of the Dream-Followers
+  symbol: A crescent moon cradling a closed eye
   governance:
     model: theocracy
     summary: >-
@@ -93,16 +95,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - svapnadevasdty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Svapnadēvas
-epithet: The Assembly of the Dream-Followers
-symbol: A crescent moon cradling a closed eye
 folder: dxzsTyaF4LMapIJX
 ---
 

@@ -14,6 +14,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Thunder Rider
+  symbol: A spear wrapped in a spiral of clouds
   governance:
     model: theocracy
     summary: >-
@@ -84,7 +86,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - bahramisdty
   parents:
     - ashanpnthn
   relations:
@@ -95,9 +98,6 @@ name:
   full: Faith of Báhrámiš
   aliases: []
 shortcode: bahramis
-deity: Báhrámiš
-epithet: The Thunder Rider
-symbol: A spear wrapped in a spiral of clouds
 alias: Báhrámiš, The Thunder Rider
 folder: 7so6UiPt445oIHWs
 ---

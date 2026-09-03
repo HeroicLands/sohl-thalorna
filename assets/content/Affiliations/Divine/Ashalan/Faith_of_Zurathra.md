@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Mother of the Oasis
+  symbol: A flowing spring encircled by palm fronds
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - zurathradty
   parents:
     - ashanpnthn
   relations:
@@ -93,9 +96,6 @@ name:
   full: Faith of Zúráthrä
   aliases: []
 shortcode: zurathra
-deity: Zúráthrä
-epithet: Mother of the Oasis
-symbol: A flowing spring encircled by palm fronds
 alias: Zúráthrä, Mother of the Oasis
 folder: 7so6UiPt445oIHWs
 ---

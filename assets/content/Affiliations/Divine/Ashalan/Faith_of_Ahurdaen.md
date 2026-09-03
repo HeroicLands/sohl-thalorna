@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Keeper of Harmony
+  symbol: A golden flame encircled by stars
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - ahurdaendty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Āhúrdáén
   aliases: []
 shortcode: ahurdaen
-deity: Āhúrdáén
-epithet: The Keeper of Harmony
-symbol: A golden flame encircled by stars
 alias: Āhúrdáén, The Keeper of Harmony
 folder: 7so6UiPt445oIHWs
 ---

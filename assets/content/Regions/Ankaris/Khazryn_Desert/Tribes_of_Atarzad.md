@@ -22,6 +22,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Ātárzád
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: >-
@@ -105,7 +107,7 @@ data:
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

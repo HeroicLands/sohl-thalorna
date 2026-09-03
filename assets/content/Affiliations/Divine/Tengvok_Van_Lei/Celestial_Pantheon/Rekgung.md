@@ -18,6 +18,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Minister of Storms
+  symbol: An ivory scroll bound by a forked vermillion thunderbolt
   governance:
     model: theocracy
     summary: >-
@@ -88,15 +90,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - rekgungdty
   parents:
     - tngvkvnlei
   relations: {}
 sohl:
   archetype: null
-deity: Rëkgüng
-epithet: The Minister of Storms
-symbol: An ivory scroll bound by a forked vermillion thunderbolt
 folder: Zsfl8qxSI1uYIBPU
 ---
 

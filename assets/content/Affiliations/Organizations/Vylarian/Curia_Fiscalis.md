@@ -17,6 +17,8 @@ subType: governmental
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -77,7 +79,7 @@ data:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

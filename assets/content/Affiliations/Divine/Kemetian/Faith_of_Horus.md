@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Guiding Falcon
+  symbol: Falcon in flight with a compass rose
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - horusdty
   parents:
     - kemtnpnthn
   relations:
@@ -94,10 +97,6 @@ name:
   aliases: []
 shortcode: horus
 banner: banners/ta-kheperu-banner.webp
-deity: Hórús
-epithet: The Guiding Falcon
-symbol: Falcon in flight with a compass rose
-glyph: horus
 folder: RGkIoZ4nXKx1qnID
 ---
 

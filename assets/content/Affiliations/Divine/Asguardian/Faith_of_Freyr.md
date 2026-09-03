@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Healer
+  symbol: Sheaf of wheat and healing herb bundle
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - freyrdty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: freyr
 img: images/affiliation/freyr.webp
 sohl:
   archetype: null
-deity: Fréyr
-epithet: The Healer
-symbol: Sheaf of wheat and healing herb bundle
 folder: cFyVbOx7bj35ZyPA
 ---
 

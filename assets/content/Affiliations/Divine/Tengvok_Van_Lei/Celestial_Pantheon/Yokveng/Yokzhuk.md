@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Custodian of Lost Seals
+  symbol: A broken vermillion seal-impression beneath an inverted gold brush
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - yokzhukdty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Yökzhük
-epithet: The Custodian of Lost Seals
-symbol: A broken vermillion seal-impression beneath an inverted gold brush
 folder: hDKxtkbJFjn8bIUr
 ---
 

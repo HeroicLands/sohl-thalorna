@@ -21,6 +21,8 @@ subType: guild
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: >-
@@ -101,7 +103,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

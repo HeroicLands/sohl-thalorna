@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Grukar
+  epithet: null
+  symbol: null
   governance:
     model: stratocracy
     summary: >-
@@ -92,7 +94,7 @@ data:
   economy:
     - lore-bartercnmy
     - lore-vylrncrncy
-  peoples:
+  lore:
     - grukarflk
   parents: []
   relations:

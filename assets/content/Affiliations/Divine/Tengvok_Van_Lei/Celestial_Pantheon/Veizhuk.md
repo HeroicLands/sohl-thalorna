@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Jade Sovereign
+  symbol: A gold-tipped brush poised above an open ivory ledger
   governance:
     model: theocracy
     summary: >-
@@ -87,15 +89,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - veizhukdty
   parents:
     - tngvkvnlei
   relations: {}
 sohl:
   archetype: null
-deity: Vëizhük
-epithet: The Jade Sovereign
-symbol: A gold-tipped brush poised above an open ivory ledger
 folder: Zsfl8qxSI1uYIBPU
 ---
 

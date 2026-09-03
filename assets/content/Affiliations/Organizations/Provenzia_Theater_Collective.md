@@ -17,6 +17,8 @@ subType: fellowship
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: >-
@@ -64,7 +66,7 @@ data:
   population: null
   economy:
     - affiliation-magnumclgm
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

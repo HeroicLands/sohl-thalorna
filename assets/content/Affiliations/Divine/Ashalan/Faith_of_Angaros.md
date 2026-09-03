@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Shadowed Serpent
+  symbol: A serpent coiled around a broken blade
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - angarosdty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Ángáróš
   aliases: []
 shortcode: angaros
-deity: Ángáróš
-epithet: The Shadowed Serpent
-symbol: A serpent coiled around a broken blade
 alias: Ángáróš, The Shadowed Serpent
 folder: 7so6UiPt445oIHWs
 ---

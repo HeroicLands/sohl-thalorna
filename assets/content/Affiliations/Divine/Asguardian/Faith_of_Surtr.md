@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Destroyer
+  symbol: Ember and volcanic rock
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - surtrdty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: surtr
 img: images/affiliation/surtr.webp
 sohl:
   archetype: null
-deity: Súrtr
-epithet: The Destroyer
-symbol: Ember and volcanic rock
 folder: cFyVbOx7bj35ZyPA
 ---
 

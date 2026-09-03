@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Keeper of Sacred Wisdom
+  symbol: An open book with glowing stars
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - menervadty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - Keeper of Sacred Wisdom
 shortcode: menerva
 img: images/affiliation/menerva.webp
-deity: Ménérva
-epithet: Keeper of Sacred Wisdom
-symbol: An open book with glowing stars
 folder: uMjCDTomEtc5Z0KV
 ---
 

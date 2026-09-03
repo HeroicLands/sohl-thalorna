@@ -20,6 +20,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Flame of Renewal
+  symbol: A flame rising from a broken circle
   governance:
     model: theocracy
     summary: >-
@@ -90,16 +92,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - rasikaradty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Rásikara
-epithet: The Flame of Renewal
-symbol: A flame rising from a broken circle
 folder: dxzsTyaF4LMapIJX
 ---
 

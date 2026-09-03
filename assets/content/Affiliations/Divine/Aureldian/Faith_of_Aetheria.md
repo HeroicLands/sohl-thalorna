@@ -14,6 +14,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Veiled Dreamer
+  symbol: Freestanding stone arch with a radiant star beyond
   governance:
     model: theocracy
     summary: >-
@@ -84,7 +86,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - theriadty
   parents:
     - arldnpnthn
   relations:
@@ -97,9 +100,6 @@ name:
     - The Veiled Dreamer
 shortcode: aetheria
 img: images/affiliation/aetheria.webp
-deity: Æthería
-epithet: The Veiled Dreamer
-symbol: Freestanding stone arch with a radiant star beyond
 folder: uMjCDTomEtc5Z0KV
 ---
 

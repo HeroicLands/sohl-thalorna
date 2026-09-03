@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Okháric
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: >-
@@ -87,7 +89,7 @@ data:
     - lore-tkhprcrncy
     - affiliation-crwntrdskhrs
     - affiliation-perhati
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

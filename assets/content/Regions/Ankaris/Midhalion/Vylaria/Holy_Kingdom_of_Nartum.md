@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Nartumi
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: >-
@@ -161,7 +163,7 @@ data:
     - affiliation-magnumclgm
     - affiliation-curiafscls
     - affiliation-aerarimmpr
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

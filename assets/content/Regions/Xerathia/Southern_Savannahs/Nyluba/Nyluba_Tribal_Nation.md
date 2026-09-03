@@ -18,6 +18,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Nyáluban
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: >-
@@ -99,7 +101,7 @@ data:
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

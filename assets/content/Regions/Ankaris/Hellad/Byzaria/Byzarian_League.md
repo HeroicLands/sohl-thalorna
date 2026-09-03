@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Byzarian
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: >-
@@ -93,7 +95,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

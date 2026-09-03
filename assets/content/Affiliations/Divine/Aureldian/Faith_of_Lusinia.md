@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The World-Weaver
+  symbol: A spinning wheel encircled by vines
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - lusiniadty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The World-Weaver
 shortcode: lusinia
 img: images/affiliation/lusinia.webp
-deity: Lúsinía
-epithet: The World-Weaver
-symbol: A spinning wheel encircled by vines
 folder: uMjCDTomEtc5Z0KV
 ---
 

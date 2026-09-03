@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Silent Judge
+  symbol: A black gate adorned with skeletal vines
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - thanatosdty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Silent Judge
 shortcode: thanatos
 img: images/affiliation/thanatos.webp
-deity: Thánatos
-epithet: The Silent Judge
-symbol: A black gate adorned with skeletal vines
 folder: uMjCDTomEtc5Z0KV
 ---
 

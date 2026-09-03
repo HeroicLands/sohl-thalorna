@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Helionite
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: >-
@@ -100,7 +102,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

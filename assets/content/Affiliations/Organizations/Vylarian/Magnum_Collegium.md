@@ -16,6 +16,8 @@ subType: guild
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -83,7 +85,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-curiafscls
     - affiliation-mrchntclctvvdyr
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

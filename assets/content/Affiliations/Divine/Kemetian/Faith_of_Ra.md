@@ -15,6 +15,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Solar Flame
+  symbol: Blazing sun disk with rays of fire
   governance:
     model: theocracy
     summary: >-
@@ -85,7 +87,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - radty
   parents:
     - kemtnpnthn
   relations:
@@ -97,10 +100,6 @@ name:
   aliases: []
 shortcode: ra
 banner: banners/ta-kheperu-banner.webp
-deity: Rā
-epithet: The Solar Flame
-symbol: Blazing sun disk with rays of fire
-glyph: ra
 alias: Rā, The Solar Flame
 folder: RGkIoZ4nXKx1qnID
 ---

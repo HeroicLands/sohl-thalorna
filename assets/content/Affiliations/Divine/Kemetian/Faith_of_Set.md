@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Bringer of Tempests
+  symbol: Serpent coiled around a lightning bolt
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - setdty
   parents:
     - kemtnpnthn
   relations:
@@ -94,10 +97,6 @@ name:
   aliases: []
 shortcode: set
 banner: banners/ta-kheperu-banner.webp
-deity: Sét
-epithet: Bringer of Tempests
-symbol: Serpent coiled around a lightning bolt
-glyph: set
 folder: RGkIoZ4nXKx1qnID
 ---
 

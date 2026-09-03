@@ -16,6 +16,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Living Whole
+  symbol: An unbroken ring woven of green vine and coral branch
   governance:
     model: theocracy
     summary: >-
@@ -86,15 +88,12 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents:
     - tharivaan
   relations: {}
 sohl:
   archetype: null
-deity: ""
-epithet: The Living Whole
-symbol: An unbroken ring woven of green vine and coral branch
 folder: yYfrxFxB71tBPR8k
 ---
 

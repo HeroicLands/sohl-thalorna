@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Thunderer
+  symbol: A thunderbolt striking down from a spiral cloud
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - taranondty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Thunderer
 shortcode: taranon
 img: images/affiliation/taranon.webp
-deity: Táranon
-epithet: The Thunderer
-symbol: A thunderbolt striking down from a spiral cloud
 folder: uMjCDTomEtc5Z0KV
 ---
 

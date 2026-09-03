@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Therádoni
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: ""
@@ -99,7 +101,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - ctysttshlns

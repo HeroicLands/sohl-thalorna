@@ -18,6 +18,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Vedyari
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: >-
@@ -76,7 +78,7 @@ data:
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

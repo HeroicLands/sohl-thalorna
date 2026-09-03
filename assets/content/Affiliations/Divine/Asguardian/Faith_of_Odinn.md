@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The All-Father
+  symbol: Raven feather and runestone
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - oinndty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: odinn
 img: images/affiliation/odinn.webp
 sohl:
   archetype: null
-deity: Óðinn
-epithet: The All-Father
-symbol: Raven feather and runestone
 folder: cFyVbOx7bj35ZyPA
 ---
 

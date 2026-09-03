@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Shaper of the Eternal World
+  symbol: Chisel carving a star
   governance:
     model: theocracy
     summary: >-
@@ -87,7 +89,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - ptahdty
   parents:
     - kemtnpnthn
   relations:
@@ -99,10 +102,6 @@ name:
   aliases: []
 shortcode: ptah
 banner: banners/ta-kheperu-banner.webp
-deity: Ptā'h
-epithet: Shaper of the Eternal World
-symbol: Chisel carving a star
-glyph: ptah
 folder: RGkIoZ4nXKx1qnID
 ---
 

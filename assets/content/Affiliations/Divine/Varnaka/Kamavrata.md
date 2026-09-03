@@ -20,6 +20,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Celestial Lover
+  symbol: A blooming lotus entwined with flowering vines
   governance:
     model: theocracy
     summary: >-
@@ -90,16 +92,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - kamavratadty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Kāmavrata
-epithet: The Celestial Lover
-symbol: A blooming lotus entwined with flowering vines
 folder: dxzsTyaF4LMapIJX
 ---
 

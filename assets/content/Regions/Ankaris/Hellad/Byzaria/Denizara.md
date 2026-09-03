@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Denizaran
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: Council of merchant-princes and admiralty.
@@ -91,7 +93,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - byzarianlg

@@ -18,6 +18,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Forge-Lord
+  symbol: A mailed fist enclosed in black flames
   governance:
     model: theocracy
     summary: >-
@@ -88,16 +90,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vulcandty
   parents:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
 sohl:
   archetype: null
-deity: Vúlcan
-epithet: The Forge-Lord
-symbol: A mailed fist enclosed in black flames
 folder: uMjCDTomEtc5Z0KV
 ---
 

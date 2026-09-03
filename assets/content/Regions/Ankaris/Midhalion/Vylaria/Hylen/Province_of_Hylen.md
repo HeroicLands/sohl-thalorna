@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Vylarian
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Agricultural heartland province of the Vylarian Empire, governed by an imperial
@@ -89,7 +91,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - vylarinmpr

@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Golden One
+  symbol: Rose petal and silver coin
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - freyjadty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: freyja
 img: images/affiliation/freyja.webp
 sohl:
   archetype: null
-deity: Fréyja
-epithet: The Golden One
-symbol: Rose petal and silver coin
 folder: cFyVbOx7bj35ZyPA
 ---
 

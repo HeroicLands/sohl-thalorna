@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Korinthean
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: Oligarchy of wealthy patron families.
@@ -93,7 +95,7 @@ data:
     - helionis
   population: null
   economy: []
-  peoples:
+  lore:
     - humanflk
   parents:
     - ctysttshlns

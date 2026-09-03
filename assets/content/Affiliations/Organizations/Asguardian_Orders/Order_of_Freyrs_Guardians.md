@@ -18,6 +18,8 @@ subType: order
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -93,7 +95,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents: []
   relations:
     asguardian: aligned

@@ -22,6 +22,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Doctrine of Vyālendra
+  symbol: A single golden lotus inscribed within a ring of script
   governance:
     model: theocracy
     summary: >-
@@ -92,16 +94,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vyalendradty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Vyālendra
-epithet: The Doctrine of Vyālendra
-symbol: A single golden lotus inscribed within a ring of script
 folder: dxzsTyaF4LMapIJX
 ---
 

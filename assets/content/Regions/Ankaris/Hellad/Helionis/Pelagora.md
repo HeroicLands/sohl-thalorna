@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Pelagoran
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: Democratic assembly of free citizens.
@@ -98,7 +100,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - ctysttshlns

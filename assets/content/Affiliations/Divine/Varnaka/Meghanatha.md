@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Lord of Thunder
+  symbol: A drum encircled by lightning bolts
   governance:
     model: theocracy
     summary: >-
@@ -89,16 +91,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - meghanathadty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Meghanātha
-epithet: Lord of Thunder
-symbol: A drum encircled by lightning bolts
 folder: dxzsTyaF4LMapIJX
 ---
 

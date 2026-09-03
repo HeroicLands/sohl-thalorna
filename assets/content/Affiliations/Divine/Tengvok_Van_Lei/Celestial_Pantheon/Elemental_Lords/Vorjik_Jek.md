@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of Fire
+  symbol: A vermillion flame rising from a gold ember-disc
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vorjikjekdty
   parents:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-deity: Vōrjīk Jëk
-epithet: The Lord of Fire
-symbol: A vermillion flame rising from a gold ember-disc
 folder: VmJuVqaOGhXrvXQs
 ---
 

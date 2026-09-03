@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Bountiful One
+  symbol: A tree with golden fruits encircled by a wreath
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - venusiadty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Bountiful One
 shortcode: venusia
 img: images/affiliation/venusia.webp
-deity: Vénusia
-epithet: The Bountiful One
-symbol: A tree with golden fruits encircled by a wreath
 folder: uMjCDTomEtc5Z0KV
 ---
 

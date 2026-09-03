@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of the Unclassified
+  symbol: A black seal-smear across a torn ivory registry page
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - hurnzhukdty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Hürnzhük
-epithet: The Lord of the Unclassified
-symbol: A black seal-smear across a torn ivory registry page
 folder: kZkGNxVHbgGyhAHr
 ---
 

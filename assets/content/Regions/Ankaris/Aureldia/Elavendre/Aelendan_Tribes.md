@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Áelendan
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: Confederation of independent tribes
@@ -90,7 +92,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

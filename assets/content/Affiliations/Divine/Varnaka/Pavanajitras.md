@@ -20,6 +20,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Wandering Wind
+  symbol: A wind-filled sail
   governance:
     model: theocracy
     summary: >-
@@ -90,16 +92,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - pvnjtrsdty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Pavanajitras
-epithet: The Wandering Wind
-symbol: A wind-filled sail
 folder: dxzsTyaF4LMapIJX
 ---
 

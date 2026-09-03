@@ -17,6 +17,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Dhanurkoti
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -97,7 +99,7 @@ data:
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents:
     - janpdsvdyr

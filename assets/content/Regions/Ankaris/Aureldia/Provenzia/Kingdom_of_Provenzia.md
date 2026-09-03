@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Provenzian
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Constitutional monarchy with a powerful nobility and strong guild traditions.
@@ -152,7 +154,7 @@ data:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

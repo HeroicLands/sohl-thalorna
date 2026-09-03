@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Radiant Sage
+  symbol: A radiant sun with an open book
   governance:
     model: theocracy
     summary: >-
@@ -89,16 +91,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - jnanasuradty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Jñānasūra
-epithet: The Radiant Sage
-symbol: A radiant sun with an open book
 folder: dxzsTyaF4LMapIJX
 ---
 

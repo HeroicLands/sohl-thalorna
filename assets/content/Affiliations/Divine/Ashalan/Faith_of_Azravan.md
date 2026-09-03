@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Lord of the Final Horizon
+  symbol: A black sun with a golden edge
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - azravandty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Ázráván
   aliases: []
 shortcode: azravan
-deity: Ázráván
-epithet: Lord of the Final Horizon
-symbol: A black sun with a golden edge
 alias: Ázráván, Lord of the Final Horizon
 folder: 7so6UiPt445oIHWs
 ---

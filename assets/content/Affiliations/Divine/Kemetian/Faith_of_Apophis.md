@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Devouring Shadow
+  symbol: Coiled serpent encircling a shattered star
   governance:
     model: theocracy
     summary: >-
@@ -87,7 +89,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - apophisdty
   parents:
     - kemtnpnthn
   relations:
@@ -99,10 +102,6 @@ name:
   aliases: []
 shortcode: apophis
 banner: banners/ta-kheperu-banner.webp
-deity: Ápōphis
-epithet: The Devouring Shadow
-symbol: Coiled serpent encircling a shattered star
-glyph: apophis
 folder: RGkIoZ4nXKx1qnID
 ---
 

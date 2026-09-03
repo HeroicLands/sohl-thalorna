@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Vyālendri
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Guilds of master weavers control production, trade networks, and civic life.
@@ -88,7 +90,7 @@ data:
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

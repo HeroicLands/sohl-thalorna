@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Léonrikan
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Hereditary monarchy with feudal nobility.
@@ -153,7 +155,7 @@ data:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
-  peoples:
+  lore:
     - humanflk
   parents:
     - kingdmtrvn

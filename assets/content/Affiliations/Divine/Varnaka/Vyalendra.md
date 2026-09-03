@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Shaper of Worlds
+  symbol: A lotus with golden petals
   governance:
     model: theocracy
     summary: >-
@@ -89,16 +91,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vyalendradty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Vyālendra
-epithet: The Shaper of Worlds
-symbol: A lotus with golden petals
 folder: dxzsTyaF4LMapIJX
 ---
 

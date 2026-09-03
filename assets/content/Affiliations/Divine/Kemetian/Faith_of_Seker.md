@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Lord of Silent Passage
+  symbol: Black hawk with gold-tipped wings
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - sekerdty
   parents:
     - kemtnpnthn
   relations:
@@ -95,10 +98,6 @@ name:
   aliases: []
 shortcode: seker
 banner: banners/ta-kheperu-banner.webp
-deity: Sēker
-epithet: Lord of Silent Passage
-symbol: Black hawk with gold-tipped wings
-glyph: seker
 alias: Sēker, Lord of Silent Passage
 folder: RGkIoZ4nXKx1qnID
 ---

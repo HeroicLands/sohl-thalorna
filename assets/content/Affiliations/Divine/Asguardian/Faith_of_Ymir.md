@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Creator
+  symbol: Fragment of the Forge
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - ymirdty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: ymir
 img: images/affiliation/ymir.webp
 sohl:
   archetype: null
-deity: Ymir
-epithet: The Creator
-symbol: Fragment of the Forge
 folder: cFyVbOx7bj35ZyPA
 ---
 

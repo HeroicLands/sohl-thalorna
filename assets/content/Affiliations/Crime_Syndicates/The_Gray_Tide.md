@@ -13,6 +13,8 @@ subType: criminal
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: autocracy
     summary: >-
@@ -82,7 +84,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

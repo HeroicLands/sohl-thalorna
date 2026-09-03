@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Calypsi
+  epithet: null
+  symbol: null
   governance:
     model: republic
     summary: >-
@@ -97,7 +99,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

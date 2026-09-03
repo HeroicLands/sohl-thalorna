@@ -18,6 +18,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Keeper of the Jade Seal
+  symbol: A vermillion seal-impression framing a single gold character
   governance:
     model: theocracy
     summary: >-
@@ -88,15 +90,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - yutveidty
   parents:
     - tngvkvnlei
   relations: {}
 sohl:
   archetype: null
-deity: Yütvëi
-epithet: The Keeper of the Jade Seal
-symbol: A vermillion seal-impression framing a single gold character
 folder: Zsfl8qxSI1uYIBPU
 ---
 

@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Weaver of Visions
+  symbol: A silver crescent moon with trailing threads
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - zarvanyadty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Zárványä
   aliases: []
 shortcode: zarvanya
-deity: Zárványä
-epithet: The Weaver of Visions
-symbol: A silver crescent moon with trailing threads
 alias: Zárványä, The Weaver of Visions
 folder: 7so6UiPt445oIHWs
 ---

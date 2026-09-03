@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Burning Dissolution
+  symbol: A black flame consuming a folded ivory petition
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - nushotdty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Nüshöt
-epithet: The Burning Dissolution
-symbol: A black flame consuming a folded ivory petition
 folder: kZkGNxVHbgGyhAHr
 ---
 

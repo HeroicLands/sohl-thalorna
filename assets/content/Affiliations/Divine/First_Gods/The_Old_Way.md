@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Way of the First
+  symbol: A circle divided into light and shadow, ringed by a paw, a leaf, and an antler
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - thfrstgdsthdty
   parents:
     - firstgods
   relations:
     firstgods: aligned
 sohl:
   archetype: null
-deity: The First Gods (the Bright and the Dark)
-epithet: The Way of the First
-symbol: A circle divided into light and shadow, ringed by a paw, a leaf, and an antler
 folder: w9xJ9t5nQB0ajETq
 ---
 

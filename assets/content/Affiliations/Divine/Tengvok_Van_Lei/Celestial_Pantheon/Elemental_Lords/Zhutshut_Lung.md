@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of Water
+  symbol: A silver droplet falling onto an unrolled ivory scroll
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - zhtshtlngdty
   parents:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-deity: Zhütshüt Lüng
-epithet: The Lord of Water
-symbol: A silver droplet falling onto an unrolled ivory scroll
 folder: VmJuVqaOGhXrvXQs
 ---
 

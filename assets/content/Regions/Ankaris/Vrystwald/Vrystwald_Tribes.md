@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Varokh
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: Tribal chiefs with a seasonal great-moot tradition.
@@ -90,7 +92,7 @@ data:
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

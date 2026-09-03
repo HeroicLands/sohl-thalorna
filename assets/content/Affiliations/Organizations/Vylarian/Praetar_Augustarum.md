@@ -18,6 +18,8 @@ subType: venture
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: stratocracy
     summary: >-
@@ -84,7 +86,7 @@ data:
   population: null
   economy:
     - affiliation-aerarimmpr
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

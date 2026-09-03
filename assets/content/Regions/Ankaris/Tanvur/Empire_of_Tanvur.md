@@ -23,6 +23,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Tānvüri
+  epithet: null
+  symbol: null
   governance:
     model: autocracy
     summary: >-
@@ -102,7 +104,7 @@ data:
   domains: []
   population: 120000000
   economy: []
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

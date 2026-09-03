@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Just
+  symbol: Iron scale and oath ring
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - tyrdty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: tyr
 img: images/affiliation/tyr.webp
 sohl:
   archetype: null
-deity: Týr
-epithet: The Just
-symbol: Iron scale and oath ring
 folder: cFyVbOx7bj35ZyPA
 ---
 

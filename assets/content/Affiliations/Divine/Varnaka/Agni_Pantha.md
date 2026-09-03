@@ -22,6 +22,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Path of the Flame
+  symbol: An ascetic's pilgrim staff bound with a single flame
   governance:
     model: theocracy
     summary: >-
@@ -92,16 +94,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - rasikaradty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Rásikara
-epithet: The Path of the Flame
-symbol: "An ascetic's pilgrim staff bound with a single flame"
 folder: dxzsTyaF4LMapIJX
 ---
 

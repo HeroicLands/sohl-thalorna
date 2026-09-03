@@ -14,6 +14,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Vindhyan
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: >-
@@ -91,7 +93,7 @@ data:
   economy:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

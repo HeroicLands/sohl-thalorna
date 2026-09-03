@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Despiser of Life
+  symbol: Obsidian shard and the Eye of the Void
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - heldty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: hel
 img: images/affiliation/hel.webp
 sohl:
   archetype: null
-deity: Hél
-epithet: The Despiser of Life
-symbol: Obsidian shard and the Eye of the Void
 folder: cFyVbOx7bj35ZyPA
 ---
 

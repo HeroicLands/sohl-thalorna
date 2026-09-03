@@ -16,6 +16,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Golden Reveler
+  symbol: Golden amphora overflowing with wheat and coins
   governance:
     model: theocracy
     summary: >-
@@ -86,7 +88,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - hapidty
   parents:
     - kemtnpnthn
   relations:
@@ -98,10 +101,6 @@ name:
   aliases: []
 shortcode: hapi
 banner: banners/ta-kheperu-banner.webp
-deity: Hâpi
-epithet: The Golden Reveler
-symbol: Golden amphora overflowing with wheat and coins
-glyph: hapi
 folder: RGkIoZ4nXKx1qnID
 ---
 

@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Trickster
+  symbol: Serpent skin and shadowed glass
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - lokidty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: loki
 img: images/affiliation/loki.webp
 sohl:
   archetype: null
-deity: Lôki
-epithet: The Trickster
-symbol: Serpent skin and shadowed glass
 folder: cFyVbOx7bj35ZyPA
 ---
 

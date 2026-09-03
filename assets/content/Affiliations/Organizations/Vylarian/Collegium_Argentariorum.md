@@ -18,6 +18,8 @@ subType: guild
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -83,7 +85,7 @@ data:
   economy:
     - affiliation-aerarimmpr
     - affiliation-magnumclgm
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

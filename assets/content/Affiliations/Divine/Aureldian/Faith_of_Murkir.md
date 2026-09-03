@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Wayfarer
+  symbol: A staff entwined with serpents, crowned by a compass
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - murkirdty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Wayfarer
 shortcode: murkir
 img: images/affiliation/murkir.webp
-deity: Múrkír
-epithet: The Wayfarer
-symbol: A staff entwined with serpents, crowned by a compass
 folder: uMjCDTomEtc5Z0KV
 ---
 

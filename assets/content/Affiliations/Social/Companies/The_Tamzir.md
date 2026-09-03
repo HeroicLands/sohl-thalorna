@@ -11,6 +11,8 @@ subType: venture
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: stratocracy
     summary: >-
@@ -76,7 +78,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

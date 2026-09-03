@@ -14,6 +14,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Haradian
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: >-
@@ -95,7 +97,7 @@ data:
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

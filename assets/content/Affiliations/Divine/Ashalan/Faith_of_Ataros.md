@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Sacred Flame
+  symbol: A flame atop an altar, encircled by sparks
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - atarosdty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Ātáröš
   aliases: []
 shortcode: ataros
-deity: Ātáröš
-epithet: The Sacred Flame
-symbol: A flame atop an altar, encircled by sparks
 alias: Ātáröš, The Sacred Flame
 folder: 7so6UiPt445oIHWs
 ---

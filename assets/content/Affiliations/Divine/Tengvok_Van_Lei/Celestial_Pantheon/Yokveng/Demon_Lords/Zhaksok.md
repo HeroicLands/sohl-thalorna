@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Unsorted
+  symbol: Scattered ivory tiles falling from a broken black brush
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - zhaksokdty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Zhāksōk
-epithet: The Unsorted
-symbol: Scattered ivory tiles falling from a broken black brush
 folder: kZkGNxVHbgGyhAHr
 ---
 

@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Bethûan
+  epithet: null
+  symbol: null
   governance:
     model: theocracy
     summary: >-
@@ -90,7 +92,7 @@ data:
     - lore-tkhprcrncy
     - affiliation-bthntrdhss
     - affiliation-perhati
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

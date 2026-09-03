@@ -15,6 +15,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Kheperi
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: >-
@@ -99,7 +101,7 @@ data:
     - affiliation-bthntrdhss
     - affiliation-perhati
     - lore-tkhprcrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

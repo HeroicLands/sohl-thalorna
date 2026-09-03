@@ -20,6 +20,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Keeper of Decay
+  symbol: A wilting flower encased in dew
   governance:
     model: theocracy
     summary: >-
@@ -90,16 +92,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vyahratidty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Vyāhrati
-epithet: The Keeper of Decay
-symbol: A wilting flower encased in dew
 folder: dxzsTyaF4LMapIJX
 ---
 

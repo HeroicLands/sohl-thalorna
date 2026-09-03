@@ -24,6 +24,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Jürthāti
+  epithet: null
+  symbol: null
   governance:
     model: autocracy
     summary: Hereditary monarchy
@@ -101,7 +103,7 @@ data:
     - jurthatrgn
   population: 500000
   economy: []
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

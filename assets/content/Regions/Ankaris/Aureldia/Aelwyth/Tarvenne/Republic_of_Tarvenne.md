@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Tarvennan
+  epithet: null
+  symbol: null
   governance:
     model: republic
     summary: >-
@@ -99,7 +101,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

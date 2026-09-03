@@ -20,6 +20,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Rājapuri
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -102,7 +104,7 @@ data:
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
-  peoples:
+  lore:
     - humanflk
   parents:
     - janpdsvdyr

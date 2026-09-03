@@ -18,6 +18,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Eternal Flame
+  symbol: Three interlocking flames (one white, one gold, one red)
   governance:
     model: theocracy
     summary: >-
@@ -88,15 +90,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - nkaruthardty
   parents:
     - nkaruthar
   relations: {}
 sohl:
   archetype: null
-deity: "Nkaru'thar"
-epithet: The Eternal Flame
-symbol: Three interlocking flames (one white, one gold, one red)
 folder: nxa3f1OrL9YY0I1Z
 ---
 

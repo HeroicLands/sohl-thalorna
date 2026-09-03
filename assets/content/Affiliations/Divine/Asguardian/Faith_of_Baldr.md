@@ -9,6 +9,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: theocracy
     summary: >-
@@ -79,7 +81,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents:
     - asguardian
   relations:

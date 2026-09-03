@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Wandering Guide
+  symbol: A star chart etched on a golden disc, surrounded by a caravan route
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - sirvadardty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Šírvádár
   aliases: []
 shortcode: sirvadar
-deity: Šírvádár
-epithet: The Wandering Guide
-symbol: A star chart etched on a golden disc, surrounded by a caravan route
 alias: Šírvádár, The Wandering Guide
 folder: 7so6UiPt445oIHWs
 ---

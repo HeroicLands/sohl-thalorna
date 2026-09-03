@@ -14,6 +14,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Bearer of Eternal Light
+  symbol: A golden sunburst with radiant beams
   governance:
     model: theocracy
     summary: >-
@@ -84,7 +86,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - khorsadradty
   parents:
     - ashanpnthn
   relations:
@@ -95,9 +98,6 @@ name:
   full: Faith of Khóršádrä
   aliases: []
 shortcode: korsadra
-deity: Khóršádrä
-epithet: Bearer of Eternal Light
-symbol: A golden sunburst with radiant beams
 alias: Khóršádrä, Bearer of Eternal Light
 folder: 7so6UiPt445oIHWs
 ---

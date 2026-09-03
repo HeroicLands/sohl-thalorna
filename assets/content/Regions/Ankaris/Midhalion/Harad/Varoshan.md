@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Varoshanian
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: Council of merchant-princes.
@@ -91,7 +93,7 @@ data:
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - cnfdrtnhrdnstts

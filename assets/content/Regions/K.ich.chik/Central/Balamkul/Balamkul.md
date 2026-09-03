@@ -14,6 +14,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: ""
@@ -91,7 +93,7 @@ data:
     - cntrlkchchk
   population: null
   economy: []
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

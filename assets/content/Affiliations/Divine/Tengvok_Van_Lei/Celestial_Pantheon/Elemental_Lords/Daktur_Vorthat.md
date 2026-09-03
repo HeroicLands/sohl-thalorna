@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of Metal
+  symbol: A silver ingot incised with a single gold character
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - dktrvrthtdty
   parents:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-deity: Dāktūr Vōrthāt
-epithet: The Lord of Metal
-symbol: A silver ingot incised with a single gold character
 folder: VmJuVqaOGhXrvXQs
 ---
 

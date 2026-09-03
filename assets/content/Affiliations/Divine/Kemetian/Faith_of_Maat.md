@@ -15,6 +15,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Keeper of Truth and Harmony
+  symbol: Feather atop a golden scale
   governance:
     model: theocracy
     summary: >-
@@ -85,7 +87,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - maatdty
   parents:
     - kemtnpnthn
   relations:
@@ -97,10 +100,6 @@ name:
   aliases: []
 shortcode: maat
 banner: banners/ta-kheperu-banner.webp
-deity: Má'át
-epithet: Keeper of Truth and Harmony
-symbol: Feather atop a golden scale
-glyph: maat
 alias: Má'át, Keeper of Truth and Harmony
 folder: RGkIoZ4nXKx1qnID
 ---

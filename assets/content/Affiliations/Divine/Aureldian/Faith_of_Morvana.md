@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Mistress of the Waning Moon
+  symbol: A wilting flower surrounded by mist
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - morvanadty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - Mistress of the Waning Moon
 shortcode: morvana
 img: images/affiliation/morvana.webp
-deity: Mórváná
-epithet: Mistress of the Waning Moon
-symbol: A wilting flower surrounded by mist
 folder: uMjCDTomEtc5Z0KV
 ---
 

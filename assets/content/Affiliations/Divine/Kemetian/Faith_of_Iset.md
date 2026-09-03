@@ -15,6 +15,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: Mother of New Beginnings
+  symbol: Blooming lotus intertwined with a serpent
   governance:
     model: theocracy
     summary: >-
@@ -85,7 +87,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - isetdty
   parents:
     - kemtnpnthn
   relations:
@@ -97,10 +100,6 @@ name:
   aliases: []
 shortcode: iset
 banner: banners/ta-kheperu-banner.webp
-deity: Íšét
-epithet: Mother of New Beginnings
-symbol: Blooming lotus intertwined with a serpent
-glyph: iset
 alias: Íšét, Mother of New Beginnings and Restorer of Health
 folder: RGkIoZ4nXKx1qnID
 ---

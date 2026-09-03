@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Silent Keeper
+  symbol: A crescent moon cradling a wilting flower
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - morvahnadty
   parents:
     - ashanpnthn
   relations:
@@ -94,9 +97,6 @@ name:
   full: Faith of Mórváhñä
   aliases: []
 shortcode: morvahna
-deity: Mórváhñä
-epithet: The Silent Keeper
-symbol: A crescent moon cradling a wilting flower
 alias: Mórváhñä, The Silent Keeper
 folder: 7so6UiPt445oIHWs
 ---

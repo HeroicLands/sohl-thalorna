@@ -14,6 +14,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Vylarian
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: >-
@@ -95,7 +97,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

@@ -18,6 +18,8 @@ subType: guild
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: >-
@@ -84,7 +86,7 @@ data:
     - affiliation-bthntrdhss
     - affiliation-clgmrgntrrm
     - affiliation-perhati
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

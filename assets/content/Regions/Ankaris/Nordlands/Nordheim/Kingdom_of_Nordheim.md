@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Nordem
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Hereditary monarchy with a þing (assembly) tradition.
@@ -100,7 +102,7 @@ data:
     - lore-vylrncrncy
     - lore-bartercnmy
     - lore-kinhalcrdt
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

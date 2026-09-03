@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Gümüşhisari
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: Military governor and council of merchant-princes.
@@ -92,7 +94,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - byzarianlg

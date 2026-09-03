@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Amradi
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Hereditary sultan ruling through a vizier and court bureaucracy.
@@ -100,7 +102,7 @@ data:
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-hardncrncy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

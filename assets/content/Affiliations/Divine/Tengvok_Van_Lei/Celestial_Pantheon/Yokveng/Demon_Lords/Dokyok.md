@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lost Road
+  symbol: A black signpost pointing in three directions at once, none inscribed
   governance:
     model: theocracy
     summary: >-
@@ -89,7 +91,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - dokyokdty
   parents:
     - tngvkvnlei
   relations:
@@ -97,9 +100,6 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-deity: Dōkyök
-epithet: The Lost Road
-symbol: A black signpost pointing in three directions at once, none inscribed
 folder: kZkGNxVHbgGyhAHr
 ---
 

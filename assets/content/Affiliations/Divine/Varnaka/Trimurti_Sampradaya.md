@@ -22,6 +22,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Tradition of the Three Forms
+  symbol: Three intertwined lotus blossoms encircling a central flame
   governance:
     model: theocracy
     summary: >-
@@ -92,16 +94,13 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: ""
-epithet: The Tradition of the Three Forms
-symbol: Three intertwined lotus blossoms encircling a central flame
 folder: dxzsTyaF4LMapIJX
 ---
 

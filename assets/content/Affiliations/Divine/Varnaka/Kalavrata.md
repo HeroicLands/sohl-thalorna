@@ -19,6 +19,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Gatekeeper of Death
+  symbol: A black conch shell
   governance:
     model: theocracy
     summary: >-
@@ -89,16 +91,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - kalavratadty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Kālavrata
-epithet: The Gatekeeper of Death
-symbol: A black conch shell
 folder: dxzsTyaF4LMapIJX
 ---
 

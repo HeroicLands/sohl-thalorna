@@ -20,6 +20,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Eternal Preserver
+  symbol: A balanced scale encircled by wheat
   governance:
     model: theocracy
     summary: >-
@@ -90,16 +92,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - mahajayadty
   parents:
     - varakpnthn
   relations:
     varakpnthn: aligned
 sohl:
   archetype: null
-deity: Mahájaya
-epithet: The Eternal Preserver
-symbol: A balanced scale encircled by wheat
 folder: dxzsTyaF4LMapIJX
 ---
 

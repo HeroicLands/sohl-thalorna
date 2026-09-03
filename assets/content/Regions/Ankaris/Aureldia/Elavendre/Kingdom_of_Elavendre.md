@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Élavendren
+  epithet: null
+  symbol: null
   governance:
     model: monarchy
     summary: Hereditary monarchy with a powerful bardic and druidic advisory tradition.
@@ -153,7 +155,7 @@ data:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

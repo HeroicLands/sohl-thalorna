@@ -12,6 +12,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The World's First Light
+  symbol: A tree with roots entwined in a circle, eternally renewing itself
   governance:
     model: theocracy
     summary: >-
@@ -82,7 +84,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - mitharadty
   parents:
     - ashanpnthn
   relations:
@@ -93,9 +96,6 @@ name:
   full: Faith of Míthárä
   aliases: []
 shortcode: mithara
-deity: Míthárä
-epithet: The World's First Light
-symbol: A tree with roots entwined in a circle, eternally renewing itself
 alias: Míthárä, The World's First Light
 folder: 7so6UiPt445oIHWs
 ---

@@ -10,6 +10,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Thunderer
+  symbol: Hammer stone (Mjolnir) and sea shell
   governance:
     model: theocracy
     summary: >-
@@ -80,7 +82,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - thorrdty
   parents:
     - asguardian
   relations:
@@ -93,9 +96,6 @@ shortcode: thorr
 img: images/affiliation/thorr.webp
 sohl:
   archetype: null
-deity: Thórr
-epithet: The Thunderer
-symbol: Hammer stone (Mjolnir) and sea shell
 folder: cFyVbOx7bj35ZyPA
 ---
 

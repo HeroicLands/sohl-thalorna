@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Keeper of the Gates
+  symbol: A dual-faced mask, one side serene and the other stern
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - janusdty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Keeper of the Gates
 shortcode: janus
 img: images/affiliation/janus.webp
-deity: Jánus
-epithet: The Keeper of the Gates
-symbol: A dual-faced mask, one side serene and the other stern
 folder: uMjCDTomEtc5Z0KV
 ---
 

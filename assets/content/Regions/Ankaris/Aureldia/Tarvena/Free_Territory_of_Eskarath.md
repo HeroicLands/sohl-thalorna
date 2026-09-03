@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Eskárath
+  epithet: null
+  symbol: null
   governance:
     model: confederation
     summary: >-
@@ -92,7 +94,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - kingdmtrvn

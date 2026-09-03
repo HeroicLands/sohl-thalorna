@@ -13,6 +13,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Nurturer
+  symbol: A blooming flower encircled by a crescent
   governance:
     model: theocracy
     summary: >-
@@ -83,7 +85,8 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - floraniadty
   parents:
     - arldnpnthn
   relations:
@@ -96,9 +99,6 @@ name:
     - The Nurturer
 shortcode: florania
 img: images/affiliation/florania.webp
-deity: Flórania
-epithet: The Nurturer
-symbol: A blooming flower encircled by a crescent
 folder: uMjCDTomEtc5Z0KV
 ---
 

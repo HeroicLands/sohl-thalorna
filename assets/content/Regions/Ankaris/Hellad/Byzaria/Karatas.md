@@ -13,6 +13,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Karataşi
+  epithet: null
+  symbol: null
   governance:
     model: oligarchy
     summary: Guild council and merchant-princes.
@@ -92,7 +94,7 @@ data:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - byzarianlg

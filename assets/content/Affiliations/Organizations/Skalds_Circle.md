@@ -24,6 +24,8 @@ subType: fellowship
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: >-
@@ -70,7 +72,7 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

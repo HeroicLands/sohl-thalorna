@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Kaliharan
+  epithet: null
+  symbol: null
   governance:
     model: council
     summary: Loose confederation of coastal port-cities and inland traditionalist clans.
@@ -89,7 +91,7 @@ data:
   population: 3000000
   economy:
     - lore-bartercnmy
-  peoples:
+  lore:
     - humanflk
   parents: []
   relations:

@@ -22,6 +22,8 @@ subType: venture
 data:
   templatePriority: null
   demonym: null
+  epithet: null
+  symbol: null
   governance:
     model: stratocracy
     summary: >-
@@ -90,7 +92,7 @@ data:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - lore-vylrncrncy
-  peoples: []
+  lore: []
   parents: []
   relations: {}
 sohl:

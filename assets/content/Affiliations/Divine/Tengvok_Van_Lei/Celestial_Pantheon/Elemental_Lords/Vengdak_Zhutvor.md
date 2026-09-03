@@ -17,6 +17,8 @@ subType: faithtradition
 data:
   templatePriority: null
   demonym: null
+  epithet: The Lord of Earth
+  symbol: A bronze disc bearing the gold glyph for "mountain"
   governance:
     model: theocracy
     summary: >-
@@ -87,16 +89,14 @@ data:
   domains: []
   population: null
   economy: []
-  peoples: []
+  lore:
+    - vngdkzhtvrdty
   parents:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-deity: Vëngdāk Zhütvōr
-epithet: The Lord of Earth
-symbol: 'A bronze disc bearing the gold glyph for "mountain"'
 folder: VmJuVqaOGhXrvXQs
 ---
 

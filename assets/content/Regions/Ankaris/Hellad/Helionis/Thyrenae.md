@@ -12,6 +12,8 @@ subType: polity
 data:
   templatePriority: null
   demonym: Thyrenean
+  epithet: null
+  symbol: null
   governance:
     model: democracy
     summary: Philosophical council of senior scholars and patrician families.
@@ -98,7 +100,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  peoples:
+  lore:
     - humanflk
   parents:
     - ctysttshlns
