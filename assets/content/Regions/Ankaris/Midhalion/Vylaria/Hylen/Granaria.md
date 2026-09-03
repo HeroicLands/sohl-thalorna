@@ -2,6 +2,10 @@
 aliases:
   - Granaria
 id: Hy2rKx7mGp4Tb9Ln
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
 data:

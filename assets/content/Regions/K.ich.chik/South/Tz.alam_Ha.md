@@ -2,6 +2,10 @@
 aliases:
   - Tz’alam Ha’
 id: oq4gDoiYMztl68Ri
+tags:
+  - port
+  - city
+description: "Port City"
 type: place
 subType: settlement
 data:

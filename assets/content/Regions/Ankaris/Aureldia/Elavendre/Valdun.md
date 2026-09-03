@@ -3,6 +3,10 @@ aliases:
   - Valdûn
   - Valdun
 id: x8lAC1ETUs0sqHpi
+tags:
+  - town
+  - inland
+description: "Inland Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,9 @@
 aliases:
   - K'awiil Tza'kul
 id: qHD2DJ9d3jceHp2C
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

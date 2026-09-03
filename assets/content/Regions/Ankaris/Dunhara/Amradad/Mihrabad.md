@@ -2,6 +2,9 @@
 aliases:
   - Mihrabad
 id: rQvNmHX5CBBhFmkH
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

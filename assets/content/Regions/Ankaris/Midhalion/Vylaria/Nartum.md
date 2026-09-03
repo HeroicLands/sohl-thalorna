@@ -3,6 +3,10 @@ aliases:
   - Nartûm
   - Nartum
 id: lC4TS0SvySTGzr5S
+tags:
+  - city
+  - holy
+description: "Holy City"
 type: place
 subType: settlement
 data:

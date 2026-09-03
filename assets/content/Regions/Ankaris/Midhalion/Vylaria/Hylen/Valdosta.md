@@ -2,6 +2,9 @@
 aliases:
   - Valdosta
 id: mT25GbjyVhZHPVHL
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Ashkabel
 id: Tjq1opR4z8iu24jP
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
 data:

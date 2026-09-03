@@ -3,6 +3,9 @@ aliases:
   - Hávamál
   - Havamal
 id: rej65SfOdHxrfzld
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

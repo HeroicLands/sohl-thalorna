@@ -2,6 +2,9 @@
 aliases:
   - Skarholme
 id: dqjMFAr8WiEftACv
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,9 @@
 aliases:
   - Tz'ikin Ba'alam
 id: 81GNYrgkAYEus3dq
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

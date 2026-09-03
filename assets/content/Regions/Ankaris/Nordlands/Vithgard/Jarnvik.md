@@ -3,6 +3,10 @@ aliases:
   - Járnvík
   - Jarnvik
 id: JVjT5UI2QiINN8NC
+tags:
+  - port
+  - town
+description: "Harbor Town"
 type: place
 subType: settlement
 data:

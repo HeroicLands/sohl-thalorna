@@ -2,6 +2,10 @@
 aliases:
   - Ixkul K’ul
 id: AOgoVrsaeRLgPydh
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
 data:

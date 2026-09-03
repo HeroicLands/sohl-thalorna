@@ -2,6 +2,10 @@
 aliases:
   - Behen
 id: ijEMnWfPBKZeYMVm
+tags:
+  - fortress
+  - town
+description: "Fortress Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,9 @@
 aliases:
   - Tz'uma No'tun
 id: JVMEXCHmxTAMu49N
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

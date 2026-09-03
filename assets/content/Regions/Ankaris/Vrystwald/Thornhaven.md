@@ -2,6 +2,9 @@
 aliases:
   - Thornhaven
 id: yWYG8HA84JUmJ0Xv
+tags:
+  - settlement
+description: "Settlement"
 type: place
 subType: settlement
 data:

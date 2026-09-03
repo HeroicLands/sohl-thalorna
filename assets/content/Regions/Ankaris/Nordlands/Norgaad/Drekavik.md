@@ -3,6 +3,10 @@ aliases:
   - Drekavík
   - Drekavik
 id: dFMvJ2wRf3xqTdLU
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
 data:

@@ -3,6 +3,10 @@ aliases:
   - Thálassos
   - Thalassos
 id: 6pXLtYkfQc7JDzuS
+tags:
+  - port
+  - town
+description: "Harbor Town"
 type: place
 name:
   full: Thálassos

@@ -2,6 +2,9 @@
 aliases:
   - Ravenmoor
 id: mwtTAWXEPhrvwxHS
+tags:
+  - settlement
+description: "Moorland Settlement"
 type: place
 subType: settlement
 data:

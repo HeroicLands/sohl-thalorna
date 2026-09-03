@@ -2,6 +2,10 @@
 aliases:
   - Saltholm
 id: Vd7hGx4mSm9Tb3Ld
+tags:
+  - town
+  - fishing
+description: "Fishing Town"
 type: place
 subType: settlement
 data:

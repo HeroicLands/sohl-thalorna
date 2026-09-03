@@ -2,6 +2,10 @@
 aliases:
   - Brennvik
 id: Vd5vNx3kBp8Rb2Lt
+tags:
+  - town
+  - fishing
+description: "Fishing Town"
 type: place
 subType: settlement
 data:

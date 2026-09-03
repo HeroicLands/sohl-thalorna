@@ -2,7 +2,10 @@
 aliases:
   - Kaljékor
 id: pHo7smFVBkLA9NEb
-tags: []
+tags:
+  - port
+  - trading
+description: "Trading Port"
 type: place
 subType: settlement
 data:

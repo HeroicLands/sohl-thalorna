@@ -2,6 +2,10 @@
 aliases:
   - Valthari
 id: USGSRbE2bkZDbV2o
+tags:
+  - city
+  - free
+description: "Free City"
 type: place
 subType: settlement
 data:

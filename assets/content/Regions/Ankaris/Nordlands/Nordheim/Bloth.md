@@ -3,6 +3,9 @@ aliases:
   - Blóth
   - Bloth
 id: IxdQgYmu31vb7DlD
+tags:
+  - settlement
+description: "Ritual Site / Ancient Settlement"
 type: place
 subType: settlement
 data:

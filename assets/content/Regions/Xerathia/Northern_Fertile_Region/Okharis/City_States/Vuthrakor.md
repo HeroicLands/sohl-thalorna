@@ -2,7 +2,10 @@
 aliases:
   - Vuthrákor
 id: pZqyrLQSfBupge0U
-tags: []
+tags:
+  - garrison
+  - town
+description: "Garrison Town"
 type: place
 subType: settlement
 data:

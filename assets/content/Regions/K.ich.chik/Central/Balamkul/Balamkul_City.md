@@ -2,6 +2,9 @@
 aliases:
   - Balamkul
 id: LXNjgk0sJIzvtzuS
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

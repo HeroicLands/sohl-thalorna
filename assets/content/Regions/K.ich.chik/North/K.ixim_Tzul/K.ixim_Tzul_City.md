@@ -2,6 +2,9 @@
 aliases:
   - K'ixim Tzul
 id: RPORfulXgkxwp8zj
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

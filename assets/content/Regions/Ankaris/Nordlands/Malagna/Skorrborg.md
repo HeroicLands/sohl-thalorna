@@ -2,6 +2,10 @@
 aliases:
   - Skorrborg
 id: RceXRNNJJjThvqSo
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

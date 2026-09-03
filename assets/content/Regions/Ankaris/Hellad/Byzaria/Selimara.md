@@ -3,6 +3,10 @@ aliases:
   - Selímara
   - Selimara
 id: bQUtftL9hRhlCeaf
+tags:
+  - town
+  - trading
+description: "Trading Town"
 type: place
 name:
   full: Selímara

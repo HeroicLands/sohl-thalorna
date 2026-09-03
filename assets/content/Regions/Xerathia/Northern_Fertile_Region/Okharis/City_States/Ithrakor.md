@@ -2,7 +2,10 @@
 aliases:
   - Ithrákor
 id: 1Bf7A6AabtHRR3Bu
-tags: []
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
 data:

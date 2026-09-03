@@ -3,6 +3,10 @@ aliases:
   - Ankh-Setûn
   - Ankh-Setun
 id: kjeTX8avJnpknuJ3
+tags:
+  - city
+  - capital
+description: "City (Granary Capital)"
 type: place
 subType: settlement
 data:

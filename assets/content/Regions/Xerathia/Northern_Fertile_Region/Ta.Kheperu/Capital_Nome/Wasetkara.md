@@ -2,6 +2,11 @@
 aliases:
   - Wasetkara
 id: yKyHOnW4vqQivkJZ
+tags:
+  - city
+  - capital
+  - imperial
+description: "Imperial City (Capital)"
 type: place
 subType: settlement
 data:

@@ -3,6 +3,11 @@ aliases:
   - Járnhavn
   - Jarnhavn
 id: qMK74rVgAAQlzEAs
+tags:
+  - port
+  - town
+  - fortified
+description: "Fortified Harbor Town"
 type: place
 subType: settlement
 data:

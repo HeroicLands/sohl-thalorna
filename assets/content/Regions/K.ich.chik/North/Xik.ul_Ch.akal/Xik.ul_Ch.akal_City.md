@@ -2,6 +2,9 @@
 aliases:
   - Xik'ul Ch'akal
 id: YNPzMDFOQqc5veZB
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

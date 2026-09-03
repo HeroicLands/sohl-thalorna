@@ -2,6 +2,10 @@
 aliases:
   - Belekos
 id: 4sQb0DORaqTYrcOm
+tags:
+  - city
+  - merchant
+description: "Merchant City"
 type: place
 subType: settlement
 data:

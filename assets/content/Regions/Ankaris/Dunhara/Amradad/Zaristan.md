@@ -2,6 +2,9 @@
 aliases:
   - Zaristan
 id: ImatvlvxdQxFOio9
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

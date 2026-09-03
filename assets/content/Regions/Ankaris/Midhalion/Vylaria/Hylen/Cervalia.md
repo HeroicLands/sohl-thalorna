@@ -2,6 +2,10 @@
 aliases:
   - Cervalia
 id: Hy5pGx4wUm9Sb3Ld
+tags:
+  - town
+  - forest
+description: "Forest Town"
 type: place
 subType: settlement
 data:

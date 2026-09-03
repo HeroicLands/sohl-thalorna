@@ -1,7 +1,9 @@
 ---
 aliases:
   - Béravel
-tags: []
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

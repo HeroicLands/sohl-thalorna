@@ -2,6 +2,10 @@
 aliases:
   - Brynhallow
 id: TowEWAGcIliRpar1
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
 data:

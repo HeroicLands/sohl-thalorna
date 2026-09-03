@@ -2,6 +2,10 @@
 aliases:
   - Maréndal
 id: NgdpgK19TbXSBuwE
+tags:
+  - port
+  - town
+description: "Harbor Town"
 type: place
 subType: settlement
 data:

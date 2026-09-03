@@ -3,6 +3,10 @@ aliases:
   - Telvári
   - Telvari
 id: WBqnuiArBf5PZWiO
+tags:
+  - town
+  - island
+description: "Island Town"
 type: place
 subType: settlement
 data:

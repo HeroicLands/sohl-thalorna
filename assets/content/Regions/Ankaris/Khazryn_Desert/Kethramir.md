@@ -3,6 +3,10 @@ aliases:
   - Kethramír
   - Kethramir
 id: GkOSX9uDj3AmjiVz
+tags:
+  - waypoint
+  - caravan
+description: "Caravan Waypoint"
 type: place
 name:
   full: Kethramír

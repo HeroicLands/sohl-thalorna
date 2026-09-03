@@ -2,6 +2,10 @@
 aliases:
   - Ha’ Ki’ahkul
 id: kwMVyscLlBNMazGt
+tags:
+  - town
+  - mining
+description: "Mining Town"
 type: place
 subType: settlement
 data:

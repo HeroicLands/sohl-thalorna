@@ -2,6 +2,9 @@
 aliases:
   - Tjebu
 id: MdjcGbF0x3kGbwQx
+tags:
+  - town
+description: "Wine Town"
 type: place
 subType: settlement
 data:

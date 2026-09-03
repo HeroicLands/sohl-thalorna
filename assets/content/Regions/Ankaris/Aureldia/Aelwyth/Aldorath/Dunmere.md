@@ -2,6 +2,10 @@
 aliases:
   - Dunmere
 id: MbOkXD6PFlAjMucq
+tags:
+  - village
+  - lakeside
+description: "Lakeside Village"
 type: place
 subType: settlement
 data:

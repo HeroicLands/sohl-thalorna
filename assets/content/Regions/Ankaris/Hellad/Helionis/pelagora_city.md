@@ -2,6 +2,10 @@
 aliases:
   - Pelagora
 id: zbCX6Tb8noi8LFDF
+tags:
+  - city
+  - naval
+description: "Naval City"
 type: place
 subType: settlement
 data:

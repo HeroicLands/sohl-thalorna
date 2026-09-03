@@ -2,6 +2,10 @@
 aliases:
   - Greywater
 id: md1o5v1VaxgYEye0
+tags:
+  - village
+  - fishing
+description: "Fishing Village"
 type: place
 subType: settlement
 data:

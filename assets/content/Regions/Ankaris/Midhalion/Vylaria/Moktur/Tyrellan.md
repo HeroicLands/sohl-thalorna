@@ -2,6 +2,10 @@
 aliases:
   - Tyrellan
 id: P01J8cKSZZ3mWGLH
+tags:
+  - city
+  - provincial
+description: "Provincial City"
 type: place
 subType: settlement
 data:

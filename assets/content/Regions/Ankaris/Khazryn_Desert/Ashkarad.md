@@ -2,6 +2,10 @@
 aliases:
   - Ashkarad
 id: kDexjFi0gHnVg2xA
+tags:
+  - town
+  - craft
+description: "Craft Town"
 type: place
 name:
   full: Ashkarad

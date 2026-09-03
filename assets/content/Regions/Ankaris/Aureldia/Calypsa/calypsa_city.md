@@ -2,6 +2,10 @@
 aliases:
   - Calypsa
 id: pHT2BUJrOrXaugNc
+tags:
+  - port
+  - city
+description: "Harbor City"
 type: place
 subType: settlement
 data:

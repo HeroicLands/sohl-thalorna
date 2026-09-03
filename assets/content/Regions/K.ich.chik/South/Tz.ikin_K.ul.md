@@ -2,6 +2,10 @@
 aliases:
   - Tz’ikin K’ul
 id: YxOv20w4CsGfROM5
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
 data:

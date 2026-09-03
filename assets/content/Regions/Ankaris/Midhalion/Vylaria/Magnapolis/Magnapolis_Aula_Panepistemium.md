@@ -4,6 +4,7 @@ aliases:
   - The Aula
   - Court of the Academy
 tags:
+  - hall
   - settlement
   - vylaria
   - imperial

@@ -3,6 +3,10 @@ aliases:
   - Brúnvík
   - Brunvik
 id: iEFZaB0kHPIfjSfz
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
 data:

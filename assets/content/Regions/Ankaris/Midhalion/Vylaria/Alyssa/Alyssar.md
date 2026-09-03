@@ -2,6 +2,10 @@
 aliases:
   - Alyssar
 id: tcjuUdxJxxs60dLX
+tags:
+  - capital
+  - provincial
+description: "Provincial Capital"
 type: place
 subType: settlement
 data:

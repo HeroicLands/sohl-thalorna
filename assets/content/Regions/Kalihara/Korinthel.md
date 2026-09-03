@@ -2,6 +2,10 @@
 aliases:
   - Korinthel
 id: RRmQE1eVIBxDLVXi
+tags:
+  - port
+  - trading
+description: "Trading Port"
 type: place
 subType: settlement
 data:

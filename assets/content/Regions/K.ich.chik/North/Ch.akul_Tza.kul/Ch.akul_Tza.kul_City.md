@@ -2,6 +2,9 @@
 aliases:
   - Ch'akul Tza'kul
 id: KSV987J7Ylm8L6ws
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

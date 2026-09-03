@@ -2,6 +2,10 @@
 aliases:
   - Chrysamar
 id: ACcZGc0wIJI483Nl
+tags:
+  - port
+  - city
+description: "Port City"
 type: place
 name:
   full: Chrysamar

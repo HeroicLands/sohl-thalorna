@@ -1,10 +1,12 @@
 ---
 tags:
   - draft
+  - town
 aliases:
   - Ashíra
   - Ashira
 id: Wbuh7YBC3fe4JG9m
+description: "Town"
 type: place
 subType: settlement
 data:

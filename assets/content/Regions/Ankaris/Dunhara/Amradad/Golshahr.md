@@ -2,6 +2,9 @@
 aliases:
   - Golshahr
 id: SulSgH0GRCJUbMll
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

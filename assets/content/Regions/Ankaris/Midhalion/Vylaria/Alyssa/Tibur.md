@@ -2,6 +2,10 @@
 aliases:
   - Tibur
 id: Al7vNx3kEp2Rb8Lt
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
 data:

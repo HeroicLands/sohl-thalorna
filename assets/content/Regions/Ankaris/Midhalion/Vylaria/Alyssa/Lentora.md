@@ -2,6 +2,9 @@
 aliases:
   - Lentora
 id: Al5rKx2mVp9Tb4Ln
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

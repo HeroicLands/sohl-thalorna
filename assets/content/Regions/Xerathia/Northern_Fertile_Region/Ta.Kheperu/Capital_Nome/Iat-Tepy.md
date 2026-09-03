@@ -4,6 +4,10 @@ aliases:
   - The Sacred Island
   - The First Mound
 id: eOqlwmPkawe5BQvu
+tags:
+  - precinct
+  - city
+  - sacred
 type: place
 subType: settlement
 data:

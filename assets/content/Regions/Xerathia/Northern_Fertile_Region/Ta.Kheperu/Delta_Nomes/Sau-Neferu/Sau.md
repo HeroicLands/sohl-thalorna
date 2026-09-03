@@ -2,6 +2,11 @@
 aliases:
   - Sau
 id: 0WGb17kK6gRRoQyH
+tags:
+  - town
+  - market
+  - temple
+description: "Market & Temple Town"
 type: place
 subType: settlement
 data:

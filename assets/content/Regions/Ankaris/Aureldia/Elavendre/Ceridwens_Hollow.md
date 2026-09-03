@@ -2,6 +2,9 @@
 aliases:
   - Ceridwen's Hollow
 id: 3YlA2MuGbvyKHEXm
+tags:
+  - village
+description: "Village"
 type: place
 subType: settlement
 data:

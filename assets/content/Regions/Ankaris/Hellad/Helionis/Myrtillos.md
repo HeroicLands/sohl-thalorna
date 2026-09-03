@@ -2,6 +2,10 @@
 aliases:
   - Myrtillos
 id: oS8n3zisICURpMOI
+tags:
+  - town
+  - coastal
+description: "Coastal Town"
 type: place
 subType: settlement
 data:

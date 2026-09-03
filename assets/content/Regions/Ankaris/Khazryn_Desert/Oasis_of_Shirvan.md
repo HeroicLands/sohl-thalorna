@@ -2,6 +2,10 @@
 aliases:
   - Oasis of Shirvan
 id: FQHoKNcT3CfFmyIV
+tags:
+  - oasis
+  - settlement
+description: "Oasis Settlement"
 type: place
 name:
   full: Oasis of Shirvan

@@ -2,6 +2,10 @@
 aliases:
   - Torreviga
 id: yjFOHt9fEyDjHCCZ
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
 data:

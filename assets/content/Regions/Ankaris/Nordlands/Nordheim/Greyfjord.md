@@ -2,6 +2,10 @@
 aliases:
   - Greyfjord
 id: OD0mDmXO2Yykzwee
+tags:
+  - village
+  - fishing
+description: "Fishing Village"
 type: place
 subType: settlement
 data:

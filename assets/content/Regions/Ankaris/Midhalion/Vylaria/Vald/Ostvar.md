@@ -2,6 +2,10 @@
 aliases:
   - Ostvar
 id: Vd4hNx7vEq9Rb2Lt
+tags:
+  - town
+  - fishing
+description: "Fishing Town"
 type: place
 subType: settlement
 data:

@@ -3,6 +3,9 @@ aliases:
   - Valcèrise
   - Valcerise
 id: UR8xNtWDuaHZdxsJ
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

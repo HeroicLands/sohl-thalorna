@@ -3,6 +3,9 @@ aliases:
   - Zargandûr
   - Zargandur
 id: ge8mFHcZJR9yiiKZ
+tags:
+  - town
+description: "Town"
 type: place
 name:
   full: Zargandûr

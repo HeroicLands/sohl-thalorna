@@ -3,6 +3,10 @@ aliases:
   - Monvèrdre
   - Monverdre
 id: gcqQMrf3iloHRPXm
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
 data:

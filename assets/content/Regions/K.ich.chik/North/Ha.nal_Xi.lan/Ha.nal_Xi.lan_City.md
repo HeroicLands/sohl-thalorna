@@ -2,6 +2,9 @@
 aliases:
   - Ha'nal Xi'lan
 id: ZvysDgAlz9mgapDo
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

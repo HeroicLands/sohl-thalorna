@@ -1,10 +1,12 @@
 ---
 tags:
   - draft
+  - city
 aliases:
   - Bethûra
   - Bethura
 id: CrmLLo78aUYwlRtC
+description: "City"
 type: place
 subType: settlement
 data:

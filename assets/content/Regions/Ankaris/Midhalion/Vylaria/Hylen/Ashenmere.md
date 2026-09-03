@@ -2,6 +2,10 @@
 aliases:
   - Ashenmere
 id: lmR93dIZz6Bv7Vwh
+tags:
+  - town
+  - border
+description: "Border Town"
 type: place
 subType: settlement
 data:

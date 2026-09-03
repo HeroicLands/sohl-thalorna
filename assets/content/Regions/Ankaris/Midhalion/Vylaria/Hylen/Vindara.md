@@ -2,6 +2,9 @@
 aliases:
   - Vindara
 id: Hy7vNx3kEm2Rb8Lt
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

@@ -3,6 +3,10 @@ aliases:
   - Chastèlclair
   - Chastelclair
 id: ZwiemPCXqySQ19Tm
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,9 @@
 aliases:
   - Olivenna
 id: Hy8vNx3kOp2Rb5Lt
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

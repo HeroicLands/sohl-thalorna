@@ -2,6 +2,10 @@
 aliases:
   - Aravantia
 id: Hy4rKx2mVqL9Tb7n
+tags:
+  - capital
+  - provincial
+description: "Provincial Capital"
 type: place
 subType: settlement
 data:

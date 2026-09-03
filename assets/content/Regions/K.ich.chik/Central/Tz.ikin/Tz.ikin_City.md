@@ -2,6 +2,9 @@
 aliases:
   - Tz'ikin
 id: QmitOkNvJ61JJiuO
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

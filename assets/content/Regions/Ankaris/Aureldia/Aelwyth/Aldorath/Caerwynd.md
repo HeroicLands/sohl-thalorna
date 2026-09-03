@@ -2,6 +2,10 @@
 aliases:
   - Caerwynd
 id: qzNN35eMt6RmKQPK
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
 data:

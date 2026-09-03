@@ -2,6 +2,9 @@
 aliases:
   - Valdarheim
 id: fJaEmpvtfouLj68u
+tags:
+  - settlement
+description: "Settlement"
 type: place
 subType: settlement
 data:

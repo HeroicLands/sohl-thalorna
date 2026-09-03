@@ -2,6 +2,10 @@
 aliases:
   - Tz’alam Witz
 id: 8WCUTA2ntRJRWHRO
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Aelissium
 id: xwXCIHtqjRX4AyUB
+tags:
+  - city
+  - trading
+description: "Trade City"
 type: place
 subType: settlement
 data:

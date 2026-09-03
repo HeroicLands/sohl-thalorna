@@ -2,6 +2,10 @@
 aliases:
   - Ha’ K’ukul
 id: Vz6zv5sq18qR9nya
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
 data:

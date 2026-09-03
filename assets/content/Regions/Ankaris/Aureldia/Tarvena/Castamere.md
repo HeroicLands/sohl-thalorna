@@ -2,6 +2,10 @@
 aliases:
   - Castamere
 id: lR8iAwaI3Q3MlekO
+tags:
+  - castle
+  - town
+description: "Castle Town"
 type: place
 subType: settlement
 data:

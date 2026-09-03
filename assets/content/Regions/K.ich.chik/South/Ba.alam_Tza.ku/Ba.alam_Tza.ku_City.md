@@ -2,6 +2,9 @@
 aliases:
   - Ba'alam Tza'ku
 id: Ti61MsXgLxbhYAnK
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

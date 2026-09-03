@@ -2,6 +2,10 @@
 aliases:
   - Therádon
 id: vRDisPmvFKBKEq7e
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Mehit-Per
 id: npslWzZvPEG6O2PA
+tags:
+  - town
+  - fishing
+description: "Fishing & Victualling Town"
 type: place
 subType: settlement
 data:

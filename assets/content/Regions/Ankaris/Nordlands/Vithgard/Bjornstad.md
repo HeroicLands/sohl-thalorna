@@ -2,6 +2,11 @@
 aliases:
   - Bjornstad
 id: 2L0cERpUeRn8zC00
+tags:
+  - settlement
+  - capital
+  - fortified
+description: "Fortified Settlement / Regional Capital"
 type: place
 subType: settlement
 data:

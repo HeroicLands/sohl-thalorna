@@ -2,6 +2,11 @@
 aliases:
   - Castamar
 id: Vd9rKx2mWp7Tb4Ln
+tags:
+  - city
+  - naval
+  - military
+description: "Naval City (Military Hub)"
 type: place
 subType: settlement
 data:

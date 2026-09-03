@@ -2,6 +2,10 @@
 aliases:
   - Beit-Shōfár
 id: Jh8qC0VOgrks0Ums
+tags:
+  - settlement
+  - temple
+description: "Temple Settlement"
 type: place
 subType: settlement
 data:

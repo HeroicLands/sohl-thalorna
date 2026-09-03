@@ -2,6 +2,9 @@
 aliases:
   - Ormstead
 id: DOIcd67IRmgTlxdK
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
 data:

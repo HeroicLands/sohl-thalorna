@@ -2,6 +2,10 @@
 aliases:
   - Calvaris
 id: Al3hGx4mCq9Tb2Ld
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
 data:

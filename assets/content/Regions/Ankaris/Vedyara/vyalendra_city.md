@@ -2,6 +2,9 @@
 aliases:
   - Vyālendra
 id: Df8fe3ZzpuxYWWbE
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Haukstad
 id: jjrNvguHkGppBHx6
+tags:
+  - post
+  - trading
+description: "Trading Post"
 type: place
 subType: settlement
 data:

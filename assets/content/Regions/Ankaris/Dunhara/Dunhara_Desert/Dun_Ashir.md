@@ -3,6 +3,10 @@ aliases:
   - Dûn Ashir
   - Dun Ashir
 id: OEZyUT8hxlPoOJhD
+tags:
+  - oasis
+  - settlement
+description: "Oasis Settlement"
 type: place
 subType: settlement
 data:

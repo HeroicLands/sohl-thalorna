@@ -2,6 +2,10 @@
 aliases:
   - Ashford
 id: RMwDrWEzwzEajWbh
+tags:
+  - town
+  - river
+description: "River Town"
 type: place
 subType: settlement
 data:

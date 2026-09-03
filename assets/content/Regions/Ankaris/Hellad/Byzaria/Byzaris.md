@@ -2,6 +2,10 @@
 aliases:
   - Byzaris
 id: HpB2fXNRSm9qSW6y
+tags:
+  - city
+  - craft
+description: "Craft City"
 type: place
 name:
   full: Byzaris

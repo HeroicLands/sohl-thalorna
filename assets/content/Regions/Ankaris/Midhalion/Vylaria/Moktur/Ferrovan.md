@@ -2,6 +2,10 @@
 aliases:
   - Ferrovan
 id: Mk8aRx2vKp7Tb4Ln
+tags:
+  - town
+  - mining
+description: "Mining Town"
 type: place
 subType: settlement
 data:

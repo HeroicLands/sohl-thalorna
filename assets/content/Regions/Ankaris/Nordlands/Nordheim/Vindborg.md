@@ -2,6 +2,10 @@
 aliases:
   - Vindborg
 id: 7XxnqkgQlwHbZvb8
+tags:
+  - fortress
+  - hill
+description: "Hill Fort"
 type: place
 subType: settlement
 data:

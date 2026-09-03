@@ -2,6 +2,10 @@
 aliases:
   - Thyrenae
 id: N2RXl0qu1TbhTref
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Chandrapur
 id: u06VCq3gWTSKlQJZ
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
 data:

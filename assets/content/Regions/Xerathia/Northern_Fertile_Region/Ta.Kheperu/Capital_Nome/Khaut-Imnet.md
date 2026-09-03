@@ -4,6 +4,8 @@ aliases:
   - The Tombs of the West
   - The Western Fields
 id: Sem7VWXNmBrFGB9L
+tags:
+  - necropolis
 type: place
 subType: settlement
 data:

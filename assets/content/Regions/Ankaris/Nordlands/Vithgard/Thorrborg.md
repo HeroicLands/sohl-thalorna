@@ -2,6 +2,10 @@
 aliases:
   - Thorrborg
 id: lLZtjVvo1K6TGm1A
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

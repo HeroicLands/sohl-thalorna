@@ -2,6 +2,10 @@
 aliases:
   - Elanmere
 id: rvpZLPq6bDeSMrLX
+tags:
+  - town
+  - lakeside
+description: "Lakeside Town"
 type: place
 subType: settlement
 data:

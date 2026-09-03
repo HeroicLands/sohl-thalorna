@@ -2,6 +2,10 @@
 aliases:
   - Mercavia
 id: Vd2mKx7rWp4Tb9Ln
+tags:
+  - capital
+  - provincial
+description: "Provincial Capital (Economic Hub)"
 type: place
 subType: settlement
 data:

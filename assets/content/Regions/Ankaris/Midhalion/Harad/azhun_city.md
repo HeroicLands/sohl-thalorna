@@ -2,6 +2,10 @@
 aliases:
   - Azhûn
 id: glFCD2sGQEKQGn6c
+tags:
+  - port
+  - city
+description: "Port City"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Solheim
 id: utl4pebzzsi9nAI4
+tags:
+  - town
+  - pilgrimage
+description: "Pilgrimage Town"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,9 @@
 aliases:
   - Ha' Xaman
 id: n24XoHaQViCi0IYu
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

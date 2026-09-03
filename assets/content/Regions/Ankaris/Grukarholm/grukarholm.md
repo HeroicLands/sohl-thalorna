@@ -2,6 +2,10 @@
 aliases:
   - Grukarholm
 id: kRq6vgWmxMG5MZ4V
+tags:
+  - fortress
+  - town
+description: "Fortress Town"
 type: place
 subType: settlement
 data:

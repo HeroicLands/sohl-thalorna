@@ -2,6 +2,11 @@
 aliases:
   - Bakhu
 id: FT70zIcHD7OGfSck
+tags:
+  - town
+  - fortified
+  - mining
+description: "Fortified Mining Town"
 type: place
 subType: settlement
 data:

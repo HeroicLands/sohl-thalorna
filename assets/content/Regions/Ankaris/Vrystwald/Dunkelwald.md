@@ -2,6 +2,10 @@
 aliases:
   - Dunkelwald
 id: BvtBiuBimYBhWyf6
+tags:
+  - settlement
+  - forest
+description: "Deep Forest Settlement"
 type: place
 subType: settlement
 data:

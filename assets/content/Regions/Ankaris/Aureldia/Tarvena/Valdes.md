@@ -3,6 +3,10 @@ aliases:
   - Valdés
   - Valdes
 id: 76CpaejmRGneqpDj
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
 data:

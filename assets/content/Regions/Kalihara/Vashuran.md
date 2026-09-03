@@ -3,6 +3,10 @@ aliases:
   - Vashurán
   - Vashuran
 id: 8V6lgZjeFHlQZkRA
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
 data:

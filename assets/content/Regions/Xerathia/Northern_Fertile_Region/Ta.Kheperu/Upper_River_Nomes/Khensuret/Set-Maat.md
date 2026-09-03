@@ -3,6 +3,9 @@ aliases:
   - Set-Maat
   - Set-Ma'at
 id: j7kLfLuyqbHAZVA4
+tags:
+  - village
+description: "Tomb-Workers' Village (walled)"
 type: place
 subType: settlement
 data:

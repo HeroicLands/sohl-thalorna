@@ -3,6 +3,10 @@ aliases:
   - Stálbrekka
   - Stalbrekka
 id: htPFubBTLySO6pYs
+tags:
+  - settlement
+  - mountain
+description: "Mountain Settlement"
 type: place
 subType: settlement
 data:

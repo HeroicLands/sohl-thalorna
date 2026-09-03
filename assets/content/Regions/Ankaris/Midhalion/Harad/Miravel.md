@@ -3,6 +3,10 @@ aliases:
   - Míravel
   - Miravel
 id: iijF0jFCjTiDjPQA
+tags:
+  - town
+  - merchant
+description: "Merchant Town"
 type: place
 subType: settlement
 data:

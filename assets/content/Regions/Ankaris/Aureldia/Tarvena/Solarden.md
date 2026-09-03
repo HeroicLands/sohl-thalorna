@@ -3,6 +3,10 @@ aliases:
   - Solárden
   - Solarden
 id: OXCppoDSENMyNm24
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

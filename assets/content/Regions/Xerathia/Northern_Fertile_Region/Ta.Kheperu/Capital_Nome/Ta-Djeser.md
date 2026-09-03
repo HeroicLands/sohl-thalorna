@@ -2,6 +2,10 @@
 aliases:
   - Ta-Djeser
 id: qqUbZEiqy6oeywb6
+tags:
+  - necropolis
+  - city
+description: "Necropolis City"
 type: place
 subType: settlement
 data:

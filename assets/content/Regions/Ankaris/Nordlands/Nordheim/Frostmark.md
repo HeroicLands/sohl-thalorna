@@ -2,6 +2,10 @@
 aliases:
   - Frostmark
 id: 1Rtw3Owv91p4f5yA
+tags:
+  - settlement
+  - border
+description: "Border Settlement"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Kashmuret
 id: OuVksHRIQjPWu72i
+tags:
+  - town
+  - trading
+description: "Trading Town"
 type: place
 subType: settlement
 data:

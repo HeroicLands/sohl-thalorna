@@ -3,6 +3,10 @@ aliases:
   - Sulûn
   - Sulun
 id: 5mm5ufJ2syvYaFP8
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
 data:

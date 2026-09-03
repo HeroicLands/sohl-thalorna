@@ -2,6 +2,10 @@
 aliases:
   - Stormveil
 id: TlYOx3SBgFES4hvV
+tags:
+  - castle
+  - garrison
+description: "Castle and Garrison"
 type: place
 subType: settlement
 data:

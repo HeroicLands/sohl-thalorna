@@ -2,6 +2,9 @@
 aliases:
   - Ravensholm
 id: xdfasuC4zLc5gWSd
+tags:
+  - settlement
+description: "Religious/Strategic Settlement"
 type: place
 subType: settlement
 data:

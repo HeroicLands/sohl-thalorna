@@ -2,6 +2,10 @@
 aliases:
   - Per-Heka
 id: szUUIRGt86BY1Kjb
+tags:
+  - town
+  - temple
+description: "Temple-Estate Town"
 type: place
 subType: settlement
 data:

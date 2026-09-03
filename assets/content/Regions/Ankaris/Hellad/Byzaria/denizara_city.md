@@ -2,6 +2,10 @@
 aliases:
   - Denizara
 id: 5w6iTAzXPr9vnCPP
+tags:
+  - port
+  - city
+description: "Port City"
 type: place
 subType: settlement
 data:

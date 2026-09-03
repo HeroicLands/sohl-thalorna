@@ -2,6 +2,10 @@
 aliases:
   - Thornbury
 id: E6Vn40TZpRRBN2on
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

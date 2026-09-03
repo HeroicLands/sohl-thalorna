@@ -2,6 +2,10 @@
 aliases:
   - Liranel
 id: 125j2DAi5wNhmQMA
+tags:
+  - town
+  - forest
+description: "Forest Town"
 type: place
 subType: settlement
 data:

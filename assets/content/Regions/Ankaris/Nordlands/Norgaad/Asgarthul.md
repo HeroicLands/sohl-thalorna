@@ -2,6 +2,10 @@
 aliases:
   - Asgarthul
 id: wuwfHIB8d0m5SUnV
+tags:
+  - town
+  - market
+description: "Market Town / Seat of Local Nobility"
 type: place
 subType: settlement
 data:

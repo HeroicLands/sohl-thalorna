@@ -2,6 +2,10 @@
 aliases:
   - Kethara
 id: b1sHNYrkFRl8FjPK
+tags:
+  - city
+  - naval
+description: "Naval City"
 type: place
 subType: settlement
 data:

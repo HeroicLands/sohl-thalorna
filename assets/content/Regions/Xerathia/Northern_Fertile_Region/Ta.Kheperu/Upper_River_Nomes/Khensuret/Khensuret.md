@@ -2,6 +2,11 @@
 aliases:
   - Khensuret
 id: BFVfBRUFybESEcFb
+tags:
+  - city
+  - necropolis
+  - temple
+description: "Temple City (Necropolis)"
 type: place
 subType: settlement
 data:

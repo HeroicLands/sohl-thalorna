@@ -2,6 +2,10 @@
 aliases:
   - Korsvik
 id: Vd3yPx6kKm2Sb8Ln
+tags:
+  - town
+  - fishing
+description: "Fishing Town"
 type: place
 subType: settlement
 data:

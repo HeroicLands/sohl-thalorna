@@ -2,6 +2,9 @@
 aliases:
   - K'uxi Balam
 id: MMURsVSWP10cDwXu
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
 data:

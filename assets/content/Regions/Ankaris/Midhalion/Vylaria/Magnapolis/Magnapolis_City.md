@@ -3,6 +3,10 @@ aliases:
   - Magnápolis
   - Magnapolis City
 id: aYb1o7HjieqorZW7
+tags:
+  - capital
+  - city
+description: "Capital City"
 type: place
 subType: settlement
 data:

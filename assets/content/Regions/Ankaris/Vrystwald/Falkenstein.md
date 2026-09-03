@@ -2,6 +2,10 @@
 aliases:
   - Falkenstein
 id: TgcoCbH421uQfKWo
+tags:
+  - fortress
+  - hill
+description: "Hill Fort"
 type: place
 subType: settlement
 data:

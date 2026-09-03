@@ -3,6 +3,10 @@ aliases:
   - Haldrvík
   - Haldrvik
 id: zvHZeopFCRUFvSUh
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
 data:

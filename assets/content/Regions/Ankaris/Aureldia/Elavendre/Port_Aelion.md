@@ -2,6 +2,10 @@
 aliases:
   - Port Aelion
 id: O2nIsw1YeLjYDhBp
+tags:
+  - town
+  - coastal
+description: "Coastal Town"
 type: place
 subType: settlement
 data:

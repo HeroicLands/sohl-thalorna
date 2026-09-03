@@ -2,6 +2,10 @@
 aliases:
   - Kvenndal
 id: hlCieAQkrHQguMjN
+tags:
+  - settlement
+  - valley
+description: "Valley Settlement"
 type: place
 subType: settlement
 data:

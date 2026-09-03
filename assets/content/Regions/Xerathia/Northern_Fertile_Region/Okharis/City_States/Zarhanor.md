@@ -2,7 +2,10 @@
 aliases:
   - Zarhánor
 id: 2fdrzbEWF4pDGpTo
-tags: []
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
 data:

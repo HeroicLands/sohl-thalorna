@@ -2,6 +2,9 @@
 aliases:
   - Oasis of Teyran
 id: GufmJbVpnn7ABWGl
+tags:
+  - oasis
+description: "Oasis"
 type: place
 subType: settlement
 data:

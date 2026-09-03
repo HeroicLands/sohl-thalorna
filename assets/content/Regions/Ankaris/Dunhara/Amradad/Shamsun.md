@@ -3,6 +3,10 @@ aliases:
   - Shamsûn
   - Shamsun
 id: nlCErQbCazleD3Ns
+tags:
+  - oasis
+  - city
+description: "Oasis City"
 type: place
 subType: settlement
 data:

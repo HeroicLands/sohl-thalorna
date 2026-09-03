@@ -2,6 +2,10 @@
 aliases:
   - Per-Ankhet
 id: MmnxJgu8HPv4ZFm2
+tags:
+  - city
+  - port
+description: "City (Port)"
 type: place
 subType: settlement
 data:

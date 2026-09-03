@@ -2,6 +2,11 @@
 aliases:
   - Meru-Hotep
 id: w37mo3an5Yl3C5an
+tags:
+  - town
+  - port
+  - river
+description: "River Town (Grain Port)"
 type: place
 subType: settlement
 data:

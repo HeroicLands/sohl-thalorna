@@ -2,6 +2,10 @@
 aliases:
   - Kalydria
 id: gG3RL32nHgC2D0B5
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
 data:

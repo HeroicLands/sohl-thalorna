@@ -2,6 +2,10 @@
 aliases:
   - Sanctara
 id: MJVnfnwAYz0bbQAS
+tags:
+  - town
+  - temple
+description: "Temple Town"
 type: place
 subType: settlement
 data:

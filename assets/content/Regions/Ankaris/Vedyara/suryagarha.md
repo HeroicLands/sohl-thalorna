@@ -2,6 +2,10 @@
 aliases:
   - Sūryāgarha
 id: guzzmrqqtagCbdW4
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
 data:

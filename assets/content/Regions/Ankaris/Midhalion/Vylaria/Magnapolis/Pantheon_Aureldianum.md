@@ -9,6 +9,7 @@ tags:
   - vylaria
   - imperial
   - magnapolis
+  - precinct
 description: "The Pantheon Aurèldiānum, the colossal domed sanctuary at the heart of the Regio Templum of Magnápolis that honors the whole Aurèldían Pantheon at once — the supreme house of the state religion, kept by the priests of Jánus, its impossible dome raised with the quiet help of the Ordo Arcanis."
 type: place
 subType: settlement

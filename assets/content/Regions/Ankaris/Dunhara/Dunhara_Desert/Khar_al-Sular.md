@@ -2,6 +2,10 @@
 aliases:
   - Khar al-Sular
 id: NcCep277z8Lq2woF
+tags:
+  - oasis
+  - camp
+description: "Oasis Camp"
 type: place
 subType: settlement
 data:

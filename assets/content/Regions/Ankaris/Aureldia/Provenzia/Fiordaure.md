@@ -3,6 +3,10 @@ aliases:
   - Fiòrdaure
   - Fiordaure
 id: lxDnKhmbJQmfcnlU
+tags:
+  - town
+  - coastal
+description: "Coastal Town"
 type: place
 subType: settlement
 data:

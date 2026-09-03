@@ -2,6 +2,10 @@
 aliases:
   - Waldburg
 id: SriprSl9dLBKfsgn
+tags:
+  - stronghold
+  - forest
+description: "Forest Stronghold"
 type: place
 subType: settlement
 data:

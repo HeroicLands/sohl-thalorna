@@ -2,6 +2,10 @@
 aliases:
   - Silvain
 id: ELnmJWDc7tzAXnaz
+tags:
+  - settlement
+  - woodland
+description: "Woodland Settlement"
 type: place
 subType: settlement
 data:

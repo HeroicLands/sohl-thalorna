@@ -2,6 +2,10 @@
 aliases:
   - Corvinus
 id: 0yneTHleAxbUv6TI
+tags:
+  - garrison
+  - town
+description: "Garrison Town"
 type: place
 subType: settlement
 data:

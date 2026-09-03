@@ -2,6 +2,10 @@
 aliases:
   - Karataş
 id: BSpoe64cjdqnAb45
+tags:
+  - city
+  - mining
+description: "Mining City"
 type: place
 subType: settlement
 data:

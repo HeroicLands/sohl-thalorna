@@ -2,6 +2,10 @@
 aliases:
   - Gümüşhisar
 id: Lo992b0Iv2JLzXly
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
 data:

@@ -2,6 +2,10 @@
 aliases:
   - Khemenu
 id: U2pzITnUVrmEUuZY
+tags:
+  - city
+  - temple
+description: "Temple City (Scribal)"
 type: place
 subType: settlement
 data:

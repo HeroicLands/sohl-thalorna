@@ -2,6 +2,10 @@
 aliases:
   - Thrymstead
 id: WNKSFrK83yr8xKyA
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
 data:

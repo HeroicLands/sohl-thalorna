@@ -2,6 +2,11 @@
 aliases:
   - Ostenna
 id: Al6yPx7kOm8Sb3Ln
+tags:
+  - port
+  - town
+  - river
+description: "River-Port Town"
 type: place
 subType: settlement
 data:

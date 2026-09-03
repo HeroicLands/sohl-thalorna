@@ -2,6 +2,10 @@
 aliases:
   - Eichengrund
 id: IdfMspBEVKOe4Jje
+tags:
+  - village
+  - woodland
+description: "Woodland Village"
 type: place
 subType: settlement
 data:

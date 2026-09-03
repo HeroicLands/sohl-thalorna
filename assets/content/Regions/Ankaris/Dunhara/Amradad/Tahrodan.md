@@ -2,6 +2,10 @@
 aliases:
   - Tahrodan
 id: gqBpXloRdqQrE3Og
+tags:
+  - fortress
+  - town
+description: "Fortress Town"
 type: place
 subType: settlement
 data:

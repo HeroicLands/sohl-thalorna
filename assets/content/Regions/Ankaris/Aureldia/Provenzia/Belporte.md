@@ -3,6 +3,10 @@ aliases:
   - Belpòrte
   - Belporte
 id: fGQuj4lr8Fd0VQbZ
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
 data:
