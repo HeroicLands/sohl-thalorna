@@ -31,10 +31,10 @@
  * What the transformation does, in order:
  *
  * 1. **Route** each note to `<section>/<slug>.md`. The section is the note's
- *    `type`, except a `type: doc` routes by its `category`; the slug is derived
+ *    `type`, except a `type: doc` routes by its `subType`; the slug is derived
  *    from `name.full` by the shared rule in
  *    `@heroiclands/package-build/engine/content-slug` (#1278).
- *    A `category: collection` note *is* a section's landing and writes that
+ *    A `subType: collection` note *is* a section's landing and writes that
  *    section's `_index.md` instead, and a `type: homepage` note is the
  *    *package's* landing: it is addressed by the package rather than by its own
  *    name, so it takes no section and no slug and writes the site root's
@@ -165,15 +165,21 @@ const legacyUrls = (() => {
  * The URL section a note routes to.
  *
  * A `doc` is narrative content whose only identity is its subtype label, so it
- * routes by `category`; every other type names its own section. This is the one
- * rule, and it is the same one `utils/build-link-manifest.mjs` applies — the
- * manifest and the pages it names cannot disagree about where a page is.
+ * routes by `subType`; every other type names its own section. This is the one
+ * rule, and it is the same one `content-build manifest` applies — the manifest
+ * and the pages it names cannot disagree about where a page is.
+ *
+ * The label moved from `category` to `subType` with the content format, and
+ * this copy did not move with it (package-build#169 fixed the engine's). Every
+ * `doc` in the tree then routed nowhere: `sectionOf` read a key no note carries
+ * any more, so all 21 were reported as having no section, published no page,
+ * and every wikilink naming one was reported broken.
  *
  * @param {object} fm - Parsed frontmatter.
  * @returns {string|undefined} The section, or `undefined` when the note has none.
  */
 function sectionOf(fm) {
-    return fm.type === "doc" ? fm.category : fm.type;
+    return fm.type === "doc" ? fm.subType : fm.type;
 }
 
 /**
@@ -364,7 +370,7 @@ const slugErrors = [];
 /**
  * Notes that route nowhere, and so are not published.
  *
- * A `type` with no section — a `doc` carrying no `category` — has no address at
+ * A `type` with no section — a `doc` carrying no `subType` — has no address at
  * all, and `utils/build-link-manifest.mjs` already declines to name it. Reported
  * rather than fatal, so the two builds agree on what this package publishes and
  * one unaddressable note cannot block every other page from being published.
@@ -435,7 +441,7 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(CONTENT_SRC)) 
     // within one: `Creatures.md` publishes at the site's `creature/`, and the
     // segment is the section it introduces — authored as `section`, because it is
     // identity and is not derivable from the note's title.
-    const isLanding = fm.type === "doc" && fm.category === "collection";
+    const isLanding = fm.type === "doc" && fm.subType === "collection";
     const section = isLanding ? (fm.section ?? fm.slug) : sectionOf(fm);
     if (typeof section !== "string" || !section) {
         unaddressable.push({
