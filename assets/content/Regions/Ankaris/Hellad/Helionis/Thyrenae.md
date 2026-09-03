@@ -105,6 +105,8 @@ data:
   relations:
     arldnpnthn: aligned
     panepistmm: aligned
+sohl:
+  archetype: null
 folder: L06n59aSySB8zVbI
 ---
 

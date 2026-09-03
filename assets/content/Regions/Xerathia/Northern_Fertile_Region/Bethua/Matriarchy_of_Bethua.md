@@ -98,6 +98,8 @@ data:
     empirtkhpr: aligned
     vylarinmpr: nemesis
     ctysttshlns: unaligned
+sohl:
+  archetype: null
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage — Mediterranean coast shading into Saharan interior)"
 folder: Y64e5NGsp8OwZ6xQ
 ---

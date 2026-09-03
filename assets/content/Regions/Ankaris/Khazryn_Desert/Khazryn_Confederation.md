@@ -106,6 +106,8 @@ data:
     ashanpnthn: aligned
     tribestrzd: nemesis
     sultntmrdd: aligned
+sohl:
+  archetype: null
 terran_analog: "Canaanites of the post-Conquest period — indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 folder: PbQ9B1r6hEaJvyco
 ---

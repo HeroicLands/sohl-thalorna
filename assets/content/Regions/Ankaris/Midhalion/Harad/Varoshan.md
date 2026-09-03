@@ -98,6 +98,8 @@ data:
   relations:
     ashanpnthn: aligned
     arldnpnthn: aligned
+sohl:
+  archetype: null
 folder: umL4KFGO3MD4u9X1
 ---
 

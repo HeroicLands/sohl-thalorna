@@ -95,6 +95,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Central US and Plains States East of Rockies
 folder: n40OZFhNduPioI61
 ---

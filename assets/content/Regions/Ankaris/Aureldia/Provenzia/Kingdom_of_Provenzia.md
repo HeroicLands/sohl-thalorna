@@ -159,6 +159,8 @@ data:
     arldnpnthn: aligned
     ordoarcanis: unaligned
     vylarinmpr: unaligned
+sohl:
+  archetype: null
 terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal — the kingdom of vineyards, river-mouth ports, and the great Provenzan illuminated-manuscript and glassworking traditions that flow along the Atlantic seaboard from north to south."
 folder: 2s244hfP0BpQi195
 ---

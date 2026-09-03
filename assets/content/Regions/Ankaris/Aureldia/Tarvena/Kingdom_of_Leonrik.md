@@ -163,6 +163,8 @@ data:
     kngdmstrth: rival
     kngdmglvrn: rival
     vylarinmpr: nemesis
+sohl:
+  archetype: null
 folder: DB9rgGreD8FtqoBx
 ---
 

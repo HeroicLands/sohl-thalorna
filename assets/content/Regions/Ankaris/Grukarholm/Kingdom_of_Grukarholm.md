@@ -99,6 +99,8 @@ data:
     kngdmnrdhm: nemesis
     vrystwldtrbs: nemesis
     kingdmnrgd: rival
+sohl:
+  archetype: null
 folder: CNzTSOtYWZwLyp5k
 ---
 

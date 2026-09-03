@@ -98,6 +98,8 @@ data:
     kngdmlvndr: aligned
     alndnwrdns: aligned
     ordoarcanis: nemesis
+sohl:
+  archetype: null
 folder: drAoDoNnFEygATeK
 ---
 

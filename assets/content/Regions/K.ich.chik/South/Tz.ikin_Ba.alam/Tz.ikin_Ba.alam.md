@@ -94,6 +94,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Southern South America
 folder: uNATz0Iv2pqXLFmc
 ---

@@ -102,6 +102,8 @@ data:
     - deltanomes
   relations:
     kemtnpnthn: aligned
+sohl:
+  archetype: null
 folder: hY8ShSjfUm9QnlGu
 ---
 

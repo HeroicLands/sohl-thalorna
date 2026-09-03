@@ -104,6 +104,8 @@ data:
     - ctysttshlns
   relations:
     arldnpnthn: aligned
+sohl:
+  archetype: null
 folder: L06n59aSySB8zVbI
 ---
 

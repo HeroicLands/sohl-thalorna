@@ -93,6 +93,8 @@ data:
   relations:
     varakpnthn: aligned
     vindhyalay: aligned
+sohl:
+  archetype: null
 folder: q61mqomRaSzUNfrY
 ---
 

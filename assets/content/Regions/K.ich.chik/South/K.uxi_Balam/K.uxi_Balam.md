@@ -96,6 +96,8 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: Bolivia, Southern Central Brazil
 folder: vqgSYECMjSAfVrNA
 ---

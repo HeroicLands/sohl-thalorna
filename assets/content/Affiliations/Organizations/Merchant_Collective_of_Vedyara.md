@@ -121,12 +121,12 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions; the older houses, whose fortunes were built on the present system, resist. The reform faction has not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[affiliation-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
-- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[place-twilighths|The Twilight House]] or the [[Thieves' Guild of Vedyara]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
+- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[Thieves' Guild of Vedyara]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
 
 ## Relations
 
 - **The five janapada rulers** — clients, debtors, occasional opponents. The relationship is one of mutual dependence and mutual resentment.
-- **The [[place-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
+- **The [[affiliation-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** — limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
 
@@ -137,6 +137,6 @@ Kulina-rank members wear a gold pin at the collar in the shape of a balance-scal
 ## Plot Hooks
 
 - **The Mine Collapse.** A major Suvarnagiri silver mine has collapsed; hundreds are trapped or dead. The Collective's Standards Committee finds that safety protocols were violated. The kulina responsible is too senior to expel without fracturing the Collective; the survivors and the families of the dead are organizing for redress that the rulers' courts have shown no interest in providing.
-- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[place-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public — and without confronting the Twilight House directly.
+- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public — and without confronting the Twilight House directly.
 - **The Reform Petition.** A younger kulina, supported by a coalition of pratisthas and a sympathetic janapada ruler, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits. The Speaker's procedural rulings will determine whether the petition reaches a vote at all.
 - **The Crown's Default.** One of the five janapada rulers has defaulted on his Collective loans and is offering, in lieu of repayment, a permanent grant of mining rights on contested frontier territory. Accepting transforms the Collective from creditor to landholder and inflames every other ruler in the realm.

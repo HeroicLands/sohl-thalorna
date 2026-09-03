@@ -99,6 +99,8 @@ data:
   relations:
     arldnpnthn: aligned
     ashanpnthn: aligned
+sohl:
+  archetype: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

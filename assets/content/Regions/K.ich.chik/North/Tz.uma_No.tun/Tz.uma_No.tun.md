@@ -95,6 +95,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 folder: 2PfxBk6mbXf65WO3
 ---

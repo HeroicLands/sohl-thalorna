@@ -72,6 +72,8 @@ data:
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 id: W9GL9vBPyw1YBHJZ
 name:
   full: The Blackpine Wolves

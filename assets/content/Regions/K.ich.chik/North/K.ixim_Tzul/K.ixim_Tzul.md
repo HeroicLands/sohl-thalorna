@@ -95,6 +95,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 folder: NBEB5yxMuE00eFBX
 ---

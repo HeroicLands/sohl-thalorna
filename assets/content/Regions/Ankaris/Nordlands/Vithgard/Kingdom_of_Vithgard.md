@@ -109,6 +109,8 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
+sohl:
+  archetype: null
 folder: KvGb463Iw9hZLRjp
 ---
 

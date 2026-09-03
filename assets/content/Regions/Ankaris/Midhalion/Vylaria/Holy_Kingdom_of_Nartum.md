@@ -168,6 +168,8 @@ data:
     arldnpnthn: aligned
     vylarinmpr: rival
     ordoarcanis: nemesis
+sohl:
+  archetype: null
 folder: WSdLuPc7BaRqxNEt
 ---
 

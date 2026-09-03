@@ -101,6 +101,8 @@ data:
     - empirtkhpr
   relations:
     kemtnpnthn: aligned
+sohl:
+  archetype: null
 folder: sjT6pv0uEmMUji53
 ---
 

@@ -101,6 +101,8 @@ data:
     vylarinmpr: unaligned
     cnfdrtnhrdnstts: rival
     sultntmrdd: unaligned
+sohl:
+  archetype: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

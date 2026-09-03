@@ -111,6 +111,8 @@ data:
     kngdmvthgrd: unaligned
     grukarholm: nemesis
     vrystwldtrbs: rival
+sohl:
+  archetype: null
 folder: tUOAFxX25mViDE7q
 ---
 

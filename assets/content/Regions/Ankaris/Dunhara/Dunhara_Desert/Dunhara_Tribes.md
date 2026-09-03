@@ -96,6 +96,8 @@ data:
     sultntmrdd: unaligned
     vindhyalay: rival
     cnfdrtnhrdnstts: unaligned
+sohl:
+  archetype: null
 folder: fHLmguBwgTuZfGJ9
 ---
 

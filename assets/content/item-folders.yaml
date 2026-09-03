@@ -339,3 +339,227 @@
   id: umL4KFGO3MD4u9X1
   parentFolderId: wXxX8hupeKI8eczP
   color: "#66BB6A"
+
+# ---- Polities -----------------------------------------------------------
+# The bodies that hold territory. Their notes were journals until the content
+# format made a polity an affiliation, so their `folder` ids were declared only
+# in journal-folders.yaml. The ids below are those same ids, entry for entry, as
+# the Affiliations comment above describes — only the parent chain differs,
+# rooted here rather than under the journals' Regions split. Where one of these
+# folders contained another it still does; the rest sit flat.
+- name: Polities
+  id: Pol1t1esR00tFldr
+  parentFolderId: wXxX8hupeKI8eczP
+  color: "#8B5A2B"
+
+- name: Aelwyth
+  id: ZbE1NQo3ApZ26xon
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Amradad
+  id: PUSPfoG6UdrnqPhK
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ba'alam Ki'ahk
+  id: hezjXhhbCdNEFB8Z
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ba'alam Tza'ku
+  id: HJMzFtDo9EUD6XNz
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Balamkul
+  id: JIpHitH6s8GEYrtS
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Bethûa
+  id: Y64e5NGsp8OwZ6xQ
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Byzaría
+  id: pAXnwYJhDDSvkrPt
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Calypsa
+  id: APQDAmZn0gqBQElZ
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ch'akul Tza'kul
+  id: Qs7NMfy6BnhXD1Mv
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Companies
+  id: bVhz4i3fwwT0NDSW
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Dunhara Desert
+  id: fHLmguBwgTuZfGJ9
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Grukarholm
+  id: CNzTSOtYWZwLyp5k
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ha' Xaman
+  id: n40OZFhNduPioI61
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ha'nal Xi'lan
+  id: hFl3NDeuBUrGahiq
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Heliónis
+  id: L06n59aSySB8zVbI
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Jürthāt
+  id: DhjGF5KsylKDxb7m
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: K'ankul
+  id: e4aRsjbU1JBSJt7G
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: K'awiil Tza'kul
+  id: YJt55birPfCnMuib
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: K'ixim Tzul
+  id: NBEB5yxMuE00eFBX
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: K'uxi Balam
+  id: vqgSYECMjSAfVrNA
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Kalihara
+  id: ySaln4Q82C7W1p0I
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Khazryn Desert
+  id: PbQ9B1r6hEaJvyco
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ki'ik Ba'ate
+  id: fZUfyTAYC6BsvwDl
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Malagna
+  id: 3JdV0mOrMUISPmRz
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Nordheim
+  id: tUOAFxX25mViDE7q
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Norgaad
+  id: k5SVeYFVPAxS9hci
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Nyáluba
+  id: KS8i9DNgMKNlpeMT
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Okháris
+  id: 7FEOBPGjB1skqAzO
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Provènzia
+  id: 2s244hfP0BpQi195
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ta'Kheperu
+  id: Mg1l8E3ZTJp6bbHO
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Targud
+  id: oLeer7axjoeYQHiT
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Tarvénia
+  id: DB9rgGreD8FtqoBx
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Tz'ikin
+  id: e6Oj9YgsjyjZBPCW
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Tz'ikin Ba'alam
+  id: uNATz0Iv2pqXLFmc
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Tz'uma No'tun
+  id: 2PfxBk6mbXf65WO3
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Tānvür
+  id: jV7c6dJp4Ztnjtb3
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Vedyara
+  id: q61mqomRaSzUNfrY
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Vithgard
+  id: KvGb463Iw9hZLRjp
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Vrystwald
+  id: mCG1TPvjwrV23csZ
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Vylaria
+  id: WSdLuPc7BaRqxNEt
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Xik'ul Ch'akal
+  id: GdUiGeQ1tfZoJYbl
+  parentFolderId: Pol1t1esR00tFldr
+
+- name: Ankh-Setûn
+  id: DCVpoMWDdub9pwDR
+  parentFolderId: 606qfybH6UUPJEBr
+
+- name: Border Nomes
+  id: sjT6pv0uEmMUji53
+  parentFolderId: Mg1l8E3ZTJp6bbHO
+
+- name: Capital Nome
+  id: 6HgEgHggm50Aphlq
+  parentFolderId: Mg1l8E3ZTJp6bbHO
+
+- name: Delta Nomes
+  id: 9Ztq2T3o803vS4Ry
+  parentFolderId: Mg1l8E3ZTJp6bbHO
+
+- name: Khensuret
+  id: bq0QGXXvq8fNpewL
+  parentFolderId: 606qfybH6UUPJEBr
+
+- name: Per-Ankhet
+  id: hY8ShSjfUm9QnlGu
+  parentFolderId: 9Ztq2T3o803vS4Ry
+
+- name: Per-Thōth
+  id: g26kf6A7QBdom2kv
+  parentFolderId: 606qfybH6UUPJEBr
+
+- name: Sau-Neferu
+  id: 9wsmaBsHPmmto2k3
+  parentFolderId: 9Ztq2T3o803vS4Ry
+
+- name: Ta-Resu-Heka
+  id: hbi739NdfZ0O28og
+  parentFolderId: sjT6pv0uEmMUji53
+
+- name: Ta-Set-Iabtet
+  id: G7beOi7xbLclZh5f
+  parentFolderId: sjT6pv0uEmMUji53
+
+- name: Threats
+  id: l3wIL8UihJI5nx6L
+  parentFolderId: jV7c6dJp4Ztnjtb3
+
+- name: Upper River Nomes
+  id: 606qfybH6UUPJEBr
+  parentFolderId: Mg1l8E3ZTJp6bbHO

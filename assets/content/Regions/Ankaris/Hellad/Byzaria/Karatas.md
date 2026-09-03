@@ -98,6 +98,8 @@ data:
     - byzarianlg
   relations:
     arldnpnthn: aligned
+sohl:
+  archetype: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

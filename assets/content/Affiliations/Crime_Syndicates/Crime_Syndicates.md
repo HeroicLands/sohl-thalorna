@@ -74,6 +74,8 @@ data:
       Courier: Carrier of what may not be written, between people who may not meet.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 id: DRj0wzDUbdTo5p3U
 name:
   full: Crime Syndicates of Thalorna

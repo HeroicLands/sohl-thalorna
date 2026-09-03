@@ -110,6 +110,8 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
+sohl:
+  archetype: null
 folder: 3JdV0mOrMUISPmRz
 ---
 

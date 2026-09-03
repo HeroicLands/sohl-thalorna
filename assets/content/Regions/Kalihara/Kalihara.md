@@ -94,6 +94,8 @@ data:
   parents: []
   relations:
     tharivaan: aligned
+sohl:
+  archetype: null
 folder: ySaln4Q82C7W1p0I
 ---
 

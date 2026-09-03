@@ -21,6 +21,8 @@ description: >-
   disobedience that won the battle it defied, and now leading the revolt that
   condemnation made inevitable.
 type: being
+sohl:
+  archetype: null
 ---
 
 # Tëitjëk Vëngyürt

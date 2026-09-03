@@ -94,6 +94,8 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: Central Mexico
 folder: JIpHitH6s8GEYrtS
 ---

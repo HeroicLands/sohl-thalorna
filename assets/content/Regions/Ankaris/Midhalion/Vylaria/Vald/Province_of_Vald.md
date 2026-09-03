@@ -95,6 +95,8 @@ data:
     - vylarinmpr
   relations:
     arldnpnthn: aligned
+sohl:
+  archetype: null
 folder: WSdLuPc7BaRqxNEt
 ---
 

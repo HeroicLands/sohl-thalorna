@@ -107,6 +107,8 @@ data:
     vylarinmpr: aligned
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
+sohl:
+  archetype: null
 folder: ZbE1NQo3ApZ26xon
 ---
 

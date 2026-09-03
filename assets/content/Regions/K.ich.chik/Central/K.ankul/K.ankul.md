@@ -96,6 +96,8 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: Yucatan Mexico and southern mexico through Honduras
 folder: e4aRsjbU1JBSJt7G
 ---

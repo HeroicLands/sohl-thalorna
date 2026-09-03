@@ -70,6 +70,8 @@ data:
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 id: SG3QpIM8U4cfoua5
 shortcode: slntlncmpny
 name:

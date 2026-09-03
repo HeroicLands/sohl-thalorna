@@ -95,6 +95,8 @@ data:
   relations:
     arldnpnthn: aligned
     ordoarcanis: aligned
+sohl:
+  archetype: null
 folder: WSdLuPc7BaRqxNEt
 ---
 

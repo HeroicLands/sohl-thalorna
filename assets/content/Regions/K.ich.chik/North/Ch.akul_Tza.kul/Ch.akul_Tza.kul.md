@@ -95,6 +95,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 folder: Qs7NMfy6BnhXD1Mv
 ---

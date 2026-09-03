@@ -106,6 +106,8 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: rival
+sohl:
+  archetype: null
 folder: DhjGF5KsylKDxb7m
 ---
 

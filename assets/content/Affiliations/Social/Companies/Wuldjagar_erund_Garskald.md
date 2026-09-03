@@ -60,6 +60,8 @@ data:
       Scout: Sent ahead into ground the company does not know, and gone for days at a time.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 folder: bVhz4i3fwwT0NDSW
 id: dYyYG1Auv2axyCZQ
 name:

@@ -107,6 +107,8 @@ data:
   relations:
     tngvkvnlei: aligned
     kingdmdnvr: unaligned
+sohl:
+  archetype: null
 folder: jV7c6dJp4Ztnjtb3
 ---
 

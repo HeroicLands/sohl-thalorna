@@ -95,6 +95,8 @@ data:
   economy: []
   parents: []
   relations: {}
+sohl:
+  archetype: null
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 folder: hFl3NDeuBUrGahiq
 ---

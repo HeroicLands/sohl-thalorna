@@ -74,6 +74,8 @@ data:
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 folder:
 subtype: social
 id: 2mccWDWK0TBkTS8v

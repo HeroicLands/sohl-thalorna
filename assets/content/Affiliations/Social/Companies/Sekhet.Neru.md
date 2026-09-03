@@ -70,6 +70,8 @@ data:
         often alone.
   parents: []
   relations: {}
+sohl:
+  archetype: null
 id: 679Cgowsm63fuzBR
 name:
   full: Sekhet'Neru

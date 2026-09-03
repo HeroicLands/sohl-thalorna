@@ -103,6 +103,8 @@ data:
     arldnpnthn: aligned
     kingdmtrvn: aligned
     vylarinmpr: unaligned
+sohl:
+  archetype: null
 folder: DB9rgGreD8FtqoBx
 ---
 

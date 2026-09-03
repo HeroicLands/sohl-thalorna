@@ -96,6 +96,8 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: Equador, Peru, western Brazil
 folder: HJMzFtDo9EUD6XNz
 ---

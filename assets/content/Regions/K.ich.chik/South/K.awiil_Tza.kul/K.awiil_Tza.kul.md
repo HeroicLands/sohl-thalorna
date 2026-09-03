@@ -96,6 +96,8 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: ""
 folder: YJt55birPfCnMuib
 ---

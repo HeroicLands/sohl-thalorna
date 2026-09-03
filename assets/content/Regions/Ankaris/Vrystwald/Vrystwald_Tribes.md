@@ -98,6 +98,8 @@ data:
     kngdmnrdhm: rival
     grukarholm: nemesis
     vylarinmpr: rival
+sohl:
+  archetype: null
 folder: mCG1TPvjwrV23csZ
 ---
 
