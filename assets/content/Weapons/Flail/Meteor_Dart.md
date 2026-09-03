@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meteor Dart
 tags: []
 name:
   full: Meteor Dart

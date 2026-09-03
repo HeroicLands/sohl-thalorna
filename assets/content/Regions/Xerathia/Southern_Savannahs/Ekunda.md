@@ -2,9 +2,6 @@
 tags:
   - draft
   - village
-aliases:
-  - Ékunda
-  - Ekunda
 id: VQ6dTH1kqTQUvI3F
 description: "Village"
 type: place

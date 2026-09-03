@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Alýkos Sampsiôn
-  - Alýkos Sampsiôn
-  - Alykos Sampsion
 tags:
   - heroes-and-knaves
   - guilded

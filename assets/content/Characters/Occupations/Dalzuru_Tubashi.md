@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dalzûru Tûbashî
-  - Dalzuru Tubashi
 tags:
   - draft
   - tradesfolk

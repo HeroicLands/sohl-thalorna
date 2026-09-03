@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vérynna Brânwyld
-  - Verynna Branwyld
 tags:
   - draft
   - clergy

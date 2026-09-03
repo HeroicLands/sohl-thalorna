@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ylíra Skorrsdottir
 tags:
   - tamzir-crew
   - soldiery

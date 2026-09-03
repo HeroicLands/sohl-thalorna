@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Frozen Draft
-  - "Potion, Paralytic, Great"
 tags:
   - great-elixir
 name:
   full: The Frozen Draft
-  aliases: []
+  aliases:
+    - Potion, Paralytic, Great
 description: "Sickly pale green viscous substance; freezes body and movement."
 id: TEX69NJSCCIvRkyz
 img: icons/potion.svg

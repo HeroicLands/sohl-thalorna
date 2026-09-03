@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khanda
 tags: []
 name:
   full: Khanda

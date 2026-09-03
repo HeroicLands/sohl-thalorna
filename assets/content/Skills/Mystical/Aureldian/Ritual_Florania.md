@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Flórania"
-  - Flórania
-  - The Nurturer
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: florania
 img: images/affiliation/florania.webp
 name:
   full: "Ritual: Flórania"
-  aliases: []
+  aliases:
+    - Flórania
+    - The Nurturer
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

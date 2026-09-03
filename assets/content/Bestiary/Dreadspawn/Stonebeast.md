@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stonebeast
 tags:
   - dreadspawn
 name:

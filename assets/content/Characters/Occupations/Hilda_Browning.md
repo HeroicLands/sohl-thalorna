@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hilda Browning
 tags:
   - draft
   - underworld

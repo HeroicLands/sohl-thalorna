@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Heat
-  aliases:
-    - Heat
+  aliases: []
 description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
 id: pH3InhWZcQ2xmINT
 img: icons/fire.svg

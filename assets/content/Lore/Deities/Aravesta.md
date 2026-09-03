@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Árávēštä
 tags:
   - draft
 id: oqO38U6kdc6IVdPK

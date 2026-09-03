@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ósk Drekanótt
-  - Ósk Drekanótt
-  - Osk Drekanott
 tags:
   - heroes-and-knaves
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Outlaw
 tags:
   - draft
 id: ho8kw5HZ5ZsKxapx

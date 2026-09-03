@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hróaldr Hrafnsvald
-  - Hroaldr Hrafnsvald
 tags:
   - draft
   - guilded

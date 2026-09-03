@@ -1,10 +1,5 @@
 ---
 description: "Purification."
-aliases:
-  - Agnī-panthā
-  - Agni Pantha
-  - The Path of the Flame
-  - Flame Path
 id: MONfrVsJo7l6DMm0
 tags:
   - varnaka
@@ -16,6 +11,7 @@ name:
   full: Agnī-panthā
   aliases:
     - The Path of the Flame
+    - Flame Path
 shortcode: agnipantha
 type: affiliation
 subType: faithtradition

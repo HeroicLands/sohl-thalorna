@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mörkvidr the Deathmage
-  - Morkvidr the Deathmage
 tags:
   - demigod
   - heroes-of-asguard

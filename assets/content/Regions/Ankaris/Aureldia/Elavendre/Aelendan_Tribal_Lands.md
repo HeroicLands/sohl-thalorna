@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Áelendan Tribal Lands
-  - Aelendan Tribal Lands
 tags:
   - region
 description: Mountainous interior of Élavendre, sovereign to the Áelendan tribal confederation — Pelwar forest-dwellers who keep the Old Way.

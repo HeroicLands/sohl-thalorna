@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Missive
 tags: []
 name:
   full: Message

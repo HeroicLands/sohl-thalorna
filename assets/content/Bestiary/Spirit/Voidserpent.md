@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Voidserpent
 tags:
   - spirit
 name:

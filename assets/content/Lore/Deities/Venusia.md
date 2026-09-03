@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vénusia
 tags:
   - draft
 id: duBEDqcIkleK7a6G

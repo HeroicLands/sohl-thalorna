@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karataş
 id: BSpoe64cjdqnAb45
 tags:
   - city

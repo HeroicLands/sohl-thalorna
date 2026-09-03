@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Knight
 tags:
   - draft
 id: WIQiy4t2gqNnCctu

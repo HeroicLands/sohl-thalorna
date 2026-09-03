@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aravantia
 id: Hy4rKx2mVqL9Tb7n
 tags:
   - capital

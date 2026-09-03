@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Tza'ku
 id: Ti61MsXgLxbhYAnK
 tags:
   - city

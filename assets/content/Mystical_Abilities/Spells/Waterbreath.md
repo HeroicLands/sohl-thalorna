@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gills
 tags: []
 name:
   full: Waterbreath

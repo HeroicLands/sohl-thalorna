@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Earthwork
 tags: []
 name:
   full: Fortress

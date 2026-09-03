@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sǫlmundr Blóthǫll
-  - Solmundr Blotholl
 tags:
   - draft
   - soldiery

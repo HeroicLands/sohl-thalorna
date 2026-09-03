@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Therádon
 id: vRDisPmvFKBKEq7e
 tags:
   - city-state

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Searing Blaze
 tags: []
 name:
   full: Searing Blaze

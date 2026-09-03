@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Free Territory of Eskárath
-  - Free Territory of Eskarath
 id: 7jTgBUKDCfVWAUzo
 description: "Highland territory on the border with Élavendre, home to an ancient pre-Tarvéni people — fiercely independent even by Tarvénan standards, speaking their own language and following their own law."
 type: affiliation

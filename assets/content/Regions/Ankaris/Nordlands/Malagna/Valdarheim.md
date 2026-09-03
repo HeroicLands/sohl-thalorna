@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valdarheim
 id: fJaEmpvtfouLj68u
 tags:
   - settlement

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eldrid Firehair
 tags:
   - heroes-and-knaves
   - hero

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kasûra Damzarû
 tags:
   - tamzir-crew
   - tradesfolk

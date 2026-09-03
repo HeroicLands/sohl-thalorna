@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Namrûsh Gazrûm
-  - Namrush Gazrum
 tags:
   - todo-warrior
   - draft

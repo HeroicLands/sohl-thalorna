@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Skathilda Froðban
-  - Skathilda Fróðbán
-  - Skathilda Frodban
 tags:
   - blackpine-wolves
   - brigand
@@ -15,6 +11,7 @@ name:
   clan: Fróðbán
   aliases:
     - the Weasel
+    - Skathilda Frodban
 id: YDi8ZNGZXZN1gfUY
 folder: Nu7AgLZEmR26u2pk
 shortcode: skthldfrdbn

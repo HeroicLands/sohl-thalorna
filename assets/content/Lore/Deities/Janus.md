@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jánus
 tags:
   - draft
 id: y1APP5EYtZFmFlIP

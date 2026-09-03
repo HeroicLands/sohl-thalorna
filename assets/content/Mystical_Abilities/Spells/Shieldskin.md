@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skin
 tags: []
 name:
   full: Shieldskin

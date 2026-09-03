@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ki'ik Ba'ate
 id: 3E05WzjjmWWWlHf4
 tags:
   - city

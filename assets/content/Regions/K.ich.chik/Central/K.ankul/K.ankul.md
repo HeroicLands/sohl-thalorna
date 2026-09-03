@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'ankul
 tags:
   - polity
 title: ""

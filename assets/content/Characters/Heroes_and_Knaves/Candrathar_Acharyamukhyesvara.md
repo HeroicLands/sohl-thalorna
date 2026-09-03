@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Càndrathar Āchāryamukhyēśvara
-  - Càndrathar Āchāryamukhyēśvara
-  - Candrathar Acharyamukhyesvara
 tags:
   - heroes-and-knaves
   - guilded

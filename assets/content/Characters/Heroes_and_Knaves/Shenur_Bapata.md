@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shenur Ba'pata
-  - Shenur Bapata
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,7 +9,8 @@ name:
   given: Shenur
   clan: Ba'pata
   home: Ankh-Setûn
-  aliases: []
+  aliases:
+    - Shenur Bapata
 id: FP1Qp5eteOJJbpvp
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

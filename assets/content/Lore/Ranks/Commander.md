@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander
 tags:
   - draft
 id: Ypoe1COQPcRWZzHL

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Renutê Reenfré
-  - Renutê Re'en'fré
-  - Renute Reenfre
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,9 @@ name:
   given: Renutê
   clan: Re'en'fré
   home: Wasetkara
-  aliases: []
+  aliases:
+    - Renutê Reenfré
+    - Renute Reenfre
 id: qXxPfRUDCQtkpbuI
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

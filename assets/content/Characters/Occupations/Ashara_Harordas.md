@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ashârâ Hârôrdâs
-  - Ashara Harordas
 tags:
   - draft
   - guilded

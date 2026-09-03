@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Heart-of-the-Oak
-  - Might Elixir
 tags:
   - elixir
 name:
   full: Heart-of-the-Oak
-  aliases: []
+  aliases:
+    - Might Elixir
 description: "Dense amber strength elixir; surges Strength by four points temporarily."
 id: s0dSQneHXoBYOHNr
 img: icons/potion.svg

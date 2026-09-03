@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Philosophy of Lëivōr
-  - Philosophy of Leivor
 id: zyE0FcQlZ3Ej0w7Z
 type: lore
 subType: cosmology

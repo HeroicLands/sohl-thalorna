@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zúráthrä
 tags:
   - draft
 id: wnbh4TXCcSG50DFZ

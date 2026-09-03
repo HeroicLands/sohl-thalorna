@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ályra Kálmereth
-  - Ályra Kálmereth
-  - Alyra Kalmereth
 tags:
   - heroes-and-knaves
   - tradesfolk

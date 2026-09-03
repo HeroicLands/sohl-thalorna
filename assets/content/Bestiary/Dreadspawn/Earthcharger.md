@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Earthcharger
 tags:
   - dreadspawn
 name:

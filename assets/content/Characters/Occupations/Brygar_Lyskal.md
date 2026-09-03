@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brýgar Lýskal
-  - Brygar Lyskal
 tags:
   - todo-warrior
   - draft

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Björg Drekanótt
-  - Björg Drekanótt
-  - Bjorg Drekanott
 tags:
   - heroes-and-knaves
   - common-folk

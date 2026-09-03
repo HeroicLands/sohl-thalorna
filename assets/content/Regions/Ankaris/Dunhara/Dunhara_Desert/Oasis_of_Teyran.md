@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Oasis of Teyran
 id: GufmJbVpnn7ABWGl
 tags:
   - oasis

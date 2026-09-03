@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vígbrandr Steinblót
-  - Vigbrandr Steinblot
 tags:
   - draft
   - tradesfolk

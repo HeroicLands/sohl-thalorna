@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Beaver
 tags:
   - animal
 name:

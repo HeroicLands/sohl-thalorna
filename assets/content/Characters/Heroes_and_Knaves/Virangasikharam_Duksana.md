@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vīrāṅgaśikharam Dukṣana
-  - Vīrāṅgaśikharam Dukṣana
-  - Virangasikharam Duksana
 tags:
   - heroes-and-knaves
   - administration

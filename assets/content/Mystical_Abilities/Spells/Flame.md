@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Flame
-  aliases:
-    - Flame
+  aliases: []
 description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
 id: WBjsWdfKSwApBpN4
 img: icons/fire.svg

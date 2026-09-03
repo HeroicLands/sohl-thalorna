@@ -1,10 +1,4 @@
 ---
-aliases:
-  - Itzani Pantheon
-  - Itzáni Pantheon
-  - Itzáni Faith
-  - Itzani
-  - Itzáni
 id: IRMVn6AQoZPttpU6
 tags:
   - pantheon
@@ -16,6 +10,9 @@ name:
   aliases:
     - The Ten of the Celestial Round
     - The Itzáni Faith
+    - Itzáni Faith
+    - Itzani
+    - Itzáni
 shortcode: itzanpnthn
 type: affiliation
 subType: faithtradition

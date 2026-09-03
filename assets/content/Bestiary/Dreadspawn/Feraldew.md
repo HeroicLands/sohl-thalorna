@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feraldew
 tags:
   - dreadspawn
 name:

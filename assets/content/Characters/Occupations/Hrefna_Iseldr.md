@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hrefna Íseldr
-  - Hrefna Iseldr
 tags:
   - draft
   - common-folk

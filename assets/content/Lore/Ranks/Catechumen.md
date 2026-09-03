@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Catechumen
 tags:
   - draft
 id: 8ZFtPLlVkhk32HvJ

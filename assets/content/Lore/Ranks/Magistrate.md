@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Magistrate
 tags:
   - draft
 id: KZrJQRzz1lnDA83e

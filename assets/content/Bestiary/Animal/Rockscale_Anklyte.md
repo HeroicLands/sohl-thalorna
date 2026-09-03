@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rockscale Anklyte
 tags:
   - animal
 name:

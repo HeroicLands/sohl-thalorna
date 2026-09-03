@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Well
 tags: []
 name:
   full: Powerfont

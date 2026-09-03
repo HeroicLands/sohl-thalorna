@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hórús
 tags:
   - draft
 id: jVRlijjv3lDe7bCI

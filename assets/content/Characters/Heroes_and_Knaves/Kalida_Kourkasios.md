@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kalída Kourkásios
-  - Kalída Kourkásios
-  - Kalida Kourkasios
 tags:
   - heroes-and-knaves
   - tradesfolk

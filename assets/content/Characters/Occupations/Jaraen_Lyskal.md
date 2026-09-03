@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Járaen Lýskal
-  - Jaraen Lyskal
 tags:
   - draft
   - tradesfolk

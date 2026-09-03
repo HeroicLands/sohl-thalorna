@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sanctara
 id: MJVnfnwAYz0bbQAS
 tags:
   - town

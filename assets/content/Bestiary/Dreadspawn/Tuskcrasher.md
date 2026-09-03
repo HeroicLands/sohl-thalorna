@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tuskcrasher
 tags:
   - dreadspawn
 name:

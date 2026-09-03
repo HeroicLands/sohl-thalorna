@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edith Wolford
 tags:
   - draft
   - guilded

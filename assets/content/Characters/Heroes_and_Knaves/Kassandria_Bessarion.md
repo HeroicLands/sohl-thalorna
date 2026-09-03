@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kassándria Bessarîon
-  - Kassándria Bessarîon
-  - Kassandria Bessarion
 tags:
   - heroes-and-knaves
   - todo

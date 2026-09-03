@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helionite
 tags:
   - draft
 id: UA5Ve1rFl11Gqdfh

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ríthara Dómivar
-  - Rithara Domivar
 tags:
   - draft
   - common-folk

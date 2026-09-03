@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grukar-Hai
 tags:
   - folk
 name:

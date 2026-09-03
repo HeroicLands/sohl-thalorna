@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valdûn
-  - Valdun
 id: x8lAC1ETUs0sqHpi
 tags:
   - town

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Healing Touch
-  - Balsam
 tags: []
 name:
   full: Healing Touch

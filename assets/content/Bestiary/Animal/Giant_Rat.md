@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Rat
 tags:
   - animal
   - image-needed

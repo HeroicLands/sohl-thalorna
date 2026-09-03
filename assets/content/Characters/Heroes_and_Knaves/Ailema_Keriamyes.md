@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ailêmâ Kêrîamyês
-  - Ailêmâ Kêrîamyês
-  - Ailema Keriamyes
 tags:
   - heroes-and-knaves
   - guilded

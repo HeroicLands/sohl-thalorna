@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Globe
 tags: []
 name:
   full: Containment

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Frostjaw
 tags:
   - elemental
 name:

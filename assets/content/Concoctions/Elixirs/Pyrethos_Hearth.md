@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Pyréthos's Hearth"
-  - Warmth Elixir
 tags:
   - elixir
 name:
   full: "Pyréthos's Hearth"
-  aliases: []
+  aliases:
+    - Warmth Elixir
 description: "Golden-amber warmth elixir; shields allies from cold and frost."
 id: pXGLgVdYU2fgpBIU
 img: icons/potion.svg

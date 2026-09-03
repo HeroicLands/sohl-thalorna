@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ríkarthr Íseldr
-  - Ríkarthr Íseldr
-  - Rikarthr Iseldr
 tags:
   - heroes-and-knaves
   - todo

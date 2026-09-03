@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pyrânês Zêralmâkor
-  - Pyranes Zeralmakor
 tags:
   - draft
   - tradesfolk

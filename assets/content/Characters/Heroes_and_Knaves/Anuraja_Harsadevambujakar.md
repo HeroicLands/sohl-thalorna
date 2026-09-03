@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Anûraja Harṣadēvāmbujakar
-  - Anûraja Harṣadēvāmbujakar
-  - Anuraja Harsadevambujakar
 tags:
   - heroes-and-knaves
   - underworld

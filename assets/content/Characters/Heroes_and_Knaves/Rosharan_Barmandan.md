@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosharan Barmandan
 tags:
   - heroes-and-knaves
   - guilded

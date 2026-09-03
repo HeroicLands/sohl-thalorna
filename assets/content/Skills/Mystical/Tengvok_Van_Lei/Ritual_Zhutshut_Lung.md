@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Zhütshüt Lüng"
-  - Zhütshüt Lüng
-  - Zhutshut Lung
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,7 +8,9 @@ id: YlTN0MpIQsOls3gi
 shortcode: zhutshtlng
 name:
   full: "Ritual: Zhütshüt Lüng"
-  aliases: []
+  aliases:
+    - Zhütshüt Lüng
+    - Zhutshut Lung
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

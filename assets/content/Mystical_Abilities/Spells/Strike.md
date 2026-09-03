@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dart
 tags: []
 name:
   full: Strike

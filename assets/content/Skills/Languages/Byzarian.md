@@ -1,10 +1,9 @@
 ---
-aliases:
-  - Byzarian
 tags: []
 name:
   full: Byzarian Language
-  aliases: []
+  aliases:
+    - Byzarian
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
 id: zsiciBcjfp7KMzVh
 img: icons/speaking.svg

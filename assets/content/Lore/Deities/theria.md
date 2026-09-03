@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Æthería
 tags:
   - draft
 id: 7FkUUA0MYJMBIrbx

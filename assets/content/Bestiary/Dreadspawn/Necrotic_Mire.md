@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Necrotic Mire
 tags:
   - dreadspawn
 name:

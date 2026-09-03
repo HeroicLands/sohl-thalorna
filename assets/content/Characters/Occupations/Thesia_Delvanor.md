@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thésia Delvánor
-  - Thesia Delvanor
 tags:
   - draft
   - soldiery

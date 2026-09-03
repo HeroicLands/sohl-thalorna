@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gate
 tags: []
 name:
   full: Portal

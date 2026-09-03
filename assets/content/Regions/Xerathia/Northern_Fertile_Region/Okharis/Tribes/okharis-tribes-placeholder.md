@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Okharis Tribes Placeholder
 id: Zvj8DfE3VgmJWxDj
 tags:
   - draft

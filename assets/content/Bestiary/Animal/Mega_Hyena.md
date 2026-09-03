@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mega Hyena
 tags:
   - animal
 name:

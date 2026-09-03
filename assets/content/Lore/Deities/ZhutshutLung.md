@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zhütshüt Lüng
 tags:
   - draft
 id: cL8iOhI0jNiwwyTx

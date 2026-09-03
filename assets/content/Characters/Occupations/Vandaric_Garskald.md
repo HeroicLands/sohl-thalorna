@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vandaric Gárskald
-  - Vandaric Garskald
 tags:
   - draft
   - common-folk

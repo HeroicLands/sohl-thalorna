@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Incantus Physéra
-  - Incantus Physera
 tags:
   - hex-hodai
 type: skill

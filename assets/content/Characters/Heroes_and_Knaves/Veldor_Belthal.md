@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Véldor Bélthal
-  - Véldor Bélthal
-  - Veldor Belthal
 tags:
   - heroes-and-knaves
   - tradesfolk

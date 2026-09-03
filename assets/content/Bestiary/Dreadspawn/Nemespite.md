@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nemespite
 tags:
   - dreadspawn
 name:

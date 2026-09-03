@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vindara
 id: Hy7vNx3kEm2Rb8Lt
 tags:
   - town

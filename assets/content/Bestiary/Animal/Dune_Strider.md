@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dune Strider
 tags:
   - animal
 name:

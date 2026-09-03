@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commoner
 tags:
   - draft
 id: r9BSaFx7KfiwwqMf

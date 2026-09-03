@@ -1,13 +1,12 @@
 ---
-aliases:
-  - Kalihári
-  - Kalihari
-  - Kaliharan
-  - Interior Speech
 tags: []
 name:
   full: Kalihári Language
-  aliases: []
+  aliases:
+    - Kalihári
+    - Kalihari
+    - Kaliharan
+    - Interior Speech
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."
 id: OmKyOqXSHdBU60oF
 img: icons/speaking.svg

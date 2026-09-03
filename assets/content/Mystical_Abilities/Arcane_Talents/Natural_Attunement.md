@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Natural Attunement
 tags: []
 name:
   full: Natural Attunement

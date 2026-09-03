@@ -1,8 +1,5 @@
 ---
 description: "Dreams."
-aliases:
-  - Faith of Bēs
-  - Bēs, Guardian of Night Visions
 id: 8k2bg7XUvvF6NUSI
 tags:
   - kemetian
@@ -103,7 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Bēs
-  aliases: []
+  aliases:
+    - Bēs, Guardian of Night Visions
 shortcode: bes
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

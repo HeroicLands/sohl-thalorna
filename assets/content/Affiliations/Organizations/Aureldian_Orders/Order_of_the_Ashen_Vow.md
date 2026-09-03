@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Order of the Ashen Vow
-  - Order of the Ashen Vow
-  - Ordo Voti Cinerei
 tags: []
 description: 'Sworn purifier-knights of the Black Flame — heretic-hunters who burn what no other remedy can cleanse, inward against Sacred Forge "softness" and outward against rival faiths.'
 id: 0kDuQJEPPd673VCn

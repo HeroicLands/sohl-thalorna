@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Padmàvali Dhanurvedakīrtirāja
-  - Padmàvali Dhanurvedakīrtirāja
-  - Padmavali Dhanurvedakirtiraja
 tags:
   - heroes-and-knaves
   - tradesfolk

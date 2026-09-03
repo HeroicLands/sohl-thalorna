@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kāmavrata
 tags:
   - draft
 id: D4SsukKtWzLeUeSQ

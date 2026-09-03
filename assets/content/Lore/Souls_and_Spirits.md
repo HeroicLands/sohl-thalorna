@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Truth of Souls
-  - Souls (GM)
-  - The Spirit Realm
 tags:
   - lore
   - souls
@@ -13,7 +9,9 @@ tags:
 type: lore
 name:
   full: The Truth of Souls
-  aliases: []
+  aliases:
+    - Souls (GM)
+    - The Spirit Realm
 subType: cosmology
 id: 4MHP68GuoaAZVOD9
 folder: t3p5qf6rZc8w0Nc4

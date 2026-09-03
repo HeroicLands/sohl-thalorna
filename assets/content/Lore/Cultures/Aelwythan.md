@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aelwythan
 tags:
   - draft
 id: AB3M4mo9WATArzfc

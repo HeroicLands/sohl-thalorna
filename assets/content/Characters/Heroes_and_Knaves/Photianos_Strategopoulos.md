@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Phótianos Stratégopoulos
-  - Phótianos Stratégopoulos
-  - Photianos Strategopoulos
 tags:
   - heroes-and-knaves
   - tradesfolk

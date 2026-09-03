@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ātáröš
 tags:
   - draft
 id: BFfa323gzRqxIw14

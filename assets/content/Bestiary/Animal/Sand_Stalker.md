@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sand Stalker
 tags:
   - animal
 name:

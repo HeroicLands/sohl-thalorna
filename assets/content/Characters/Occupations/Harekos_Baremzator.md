@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hàrêkôs Bàremzâtôr
-  - Harekos Baremzator
 tags:
   - draft
   - common-folk

@@ -1,8 +1,5 @@
 ---
 description: "Confusion."
-aliases:
-  - Zhāksōk
-  - Zhaksok
 id: T0rS1cKbMfZ3cWSv
 tags:
   - demon-lord

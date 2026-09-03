@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Osmund Winwick
 tags:
   - draft
   - tradesfolk

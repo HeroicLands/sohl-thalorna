@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kālavrata
 tags:
   - draft
 id: uyG2A2fRDUzl7xaY

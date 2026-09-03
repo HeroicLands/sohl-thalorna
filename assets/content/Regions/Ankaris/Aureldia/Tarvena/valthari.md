@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valthari
 id: USGSRbE2bkZDbV2o
 tags:
   - city

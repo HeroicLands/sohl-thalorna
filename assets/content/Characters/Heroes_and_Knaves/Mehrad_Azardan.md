@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Mehrâd Âzardan
-  - Mehrâd Âzardan
-  - Mehrad Azardan
 tags:
   - heroes-and-knaves
   - guilded

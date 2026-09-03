@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Vylaría Region
 id: GHIXrjvkfpw2yc6e
 description: ""
 type: place

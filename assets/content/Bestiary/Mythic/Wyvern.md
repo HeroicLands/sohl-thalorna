@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wyvern
 tags:
   - mythic
   - image-needed

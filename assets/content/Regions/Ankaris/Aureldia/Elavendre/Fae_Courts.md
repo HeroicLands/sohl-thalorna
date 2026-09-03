@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Fae Courts
-  - Fae Courts
 id: xC94NpQeBYOyeezn
 type: lore
 subType: spirit

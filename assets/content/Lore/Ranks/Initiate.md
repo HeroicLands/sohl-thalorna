@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Initiate
 tags:
   - draft
 id: J7OTEzN4NWFBiVxj

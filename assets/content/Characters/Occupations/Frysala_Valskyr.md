@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Frýsala Válskyr
-  - Frysala Valskyr
 tags:
   - draft
   - administration

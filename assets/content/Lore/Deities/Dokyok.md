@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dōkyök
 tags:
   - draft
 id: UBDwCn9tTH9VECRe

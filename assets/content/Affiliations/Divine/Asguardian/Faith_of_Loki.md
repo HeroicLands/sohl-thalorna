@@ -1,7 +1,5 @@
 ---
 description: "Cunning, Deception, and Thieves."
-aliases:
-  - Faith of Lôki
 id: iySZsg4GUX7SXyvZ
 tags:
   - asguardian

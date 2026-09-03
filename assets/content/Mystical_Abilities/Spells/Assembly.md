@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Convoke
 tags: []
 name:
   full: Assembly

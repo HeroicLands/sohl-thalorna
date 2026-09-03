@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hálrikos Bránthira
-  - Hálrikos Bránthira
-  - Halrikos Branthira
 tags:
   - heroes-and-knaves
   - guilded

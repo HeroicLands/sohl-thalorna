@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Luminshade
 tags:
   - spirit
 name:

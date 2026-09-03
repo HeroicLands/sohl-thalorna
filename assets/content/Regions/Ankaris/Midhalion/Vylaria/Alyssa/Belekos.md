@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Belekos
 id: 4sQb0DORaqTYrcOm
 tags:
   - city

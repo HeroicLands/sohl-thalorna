@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dámàsûn Ghôlâron
 tags:
   - tamzir-crew
   - clergy

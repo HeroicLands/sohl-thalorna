@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Nakhtar AmunRâshet
-  - Nakhtar Amun'Râshet
-  - Nakhtar AmunRashet
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,9 @@ name:
   given: Nakhtar
   clan: Amun'Râshet
   home: Wasetkara
-  aliases: []
+  aliases:
+    - Nakhtar AmunRâshet
+    - Nakhtar AmunRashet
 id: VAuokF0eOIzfBP52
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Owl's Benediction"
-  - Darkvision Elixir
 tags:
   - elixir
 name:
   full: "Owl's Benediction"
-  aliases: []
+  aliases:
+    - Darkvision Elixir
 description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
 id: TMhES4h626x22MCA
 img: icons/potion.svg

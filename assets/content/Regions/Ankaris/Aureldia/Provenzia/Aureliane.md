@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Aurèliane
-  - Aureliane
 id: 6606P1n4SuPO30aI
 tags:
   - city

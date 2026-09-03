@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tahrodan
 id: gqBpXloRdqQrE3Og
 tags:
   - fortress

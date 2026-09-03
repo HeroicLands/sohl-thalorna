@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dómrithâs Vîshârdâs
-  - Dómrithâs Vîshârdâs
-  - Domrithas Vishardas
 tags:
   - heroes-and-knaves
   - guilded

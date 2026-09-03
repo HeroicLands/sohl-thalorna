@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Reversed Gift
-  - Poison Elixir
 tags:
   - elixir
 name:
   full: The Reversed Gift
-  aliases: []
+  aliases:
+    - Poison Elixir
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."
 id: pLiBpPeUJ4AnLwV6
 img: icons/potion.svg

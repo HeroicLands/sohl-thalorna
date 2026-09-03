@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chánnâon Hàbîlês
-  - Channaon Habiles
 tags:
   - draft
   - tradesfolk

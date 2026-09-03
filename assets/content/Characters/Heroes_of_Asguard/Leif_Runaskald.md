@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Leif Runaskald
 tags:
   - paragon
   - heroes-of-asguard

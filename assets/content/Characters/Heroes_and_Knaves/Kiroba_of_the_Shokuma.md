@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kiroba of the Shókuma
-  - Kiroba of the Shókuma
-  - Kiroba of the Shokuma
 tags:
   - heroes-and-knaves
   - hero

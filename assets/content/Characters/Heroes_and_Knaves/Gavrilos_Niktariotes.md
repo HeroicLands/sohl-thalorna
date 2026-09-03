@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gávrilos Niktariôtês
-  - Gávrilos Niktariôtês
-  - Gavrilos Niktariotes
 tags:
   - heroes-and-knaves
   - soldiery

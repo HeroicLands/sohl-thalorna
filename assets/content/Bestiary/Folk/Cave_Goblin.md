@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cave Goblin
 tags:
   - folk
 name:

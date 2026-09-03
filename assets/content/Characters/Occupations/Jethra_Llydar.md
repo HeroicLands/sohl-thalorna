@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jéthra Llýdar
-  - Jethra Llydar
 tags:
   - draft
   - guilded

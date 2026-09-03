@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Embassy from Dunavarre to Tānvür
 id: vzPh6NZfidnmcxmI
 name:
   full: Embassy from Dunavarre to Tānvür

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Asgarthul
 id: wuwfHIB8d0m5SUnV
 tags:
   - town

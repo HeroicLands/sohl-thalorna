@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Warp
 tags: []
 name:
   full: Shift

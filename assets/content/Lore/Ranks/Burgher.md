@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burgher
 tags:
   - draft
 id: kL6KUhEPfeQ54JGA

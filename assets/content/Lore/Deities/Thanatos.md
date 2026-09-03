@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thánatos
 tags:
   - draft
 id: 1R2Ik8ErE5I44zGz

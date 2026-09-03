@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wulfrád Hildvith
-  - Wulfrad Hildvith
 tags:
   - draft
   - soldiery

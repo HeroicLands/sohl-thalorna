@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pitûrû Tûbanî
-  - Pituru Tubani
 tags:
   - draft
   - soldiery

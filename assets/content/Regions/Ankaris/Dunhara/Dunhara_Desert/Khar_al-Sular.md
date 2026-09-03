@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khar al-Sular
 id: NcCep277z8Lq2woF
 tags:
   - oasis

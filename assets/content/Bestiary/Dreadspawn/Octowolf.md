@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Octowolf
 tags:
   - dreadspawn
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clerk
 tags:
   - draft
 id: 60SVr7ZymO1Czmo3

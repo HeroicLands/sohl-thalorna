@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Counter
 tags: []
 name:
   full: Interrupt

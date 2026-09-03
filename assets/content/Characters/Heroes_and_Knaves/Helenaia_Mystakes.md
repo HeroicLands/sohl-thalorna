@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hélénaia Mystákês
-  - Hélénaia Mystákês
-  - Helenaia Mystakes
 tags:
   - heroes-and-knaves
   - todo

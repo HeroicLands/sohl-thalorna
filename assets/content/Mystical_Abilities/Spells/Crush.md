@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fist
 tags: []
 name:
   full: Crush

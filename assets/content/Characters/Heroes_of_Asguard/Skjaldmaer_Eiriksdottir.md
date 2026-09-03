@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Skjaldmær Eiriksdottir
-  - Skjaldmaer Eiriksdottir
 tags:
   - paragon
   - heroes-of-asguard
@@ -13,6 +10,7 @@ name:
   clan: null
   aliases:
     - Eiriksdottir
+    - Skjaldmaer Eiriksdottir
   home: null
 id: NmwOdGbbT4nruZhH
 folder: Ka9XqaF27b0I3Gmq

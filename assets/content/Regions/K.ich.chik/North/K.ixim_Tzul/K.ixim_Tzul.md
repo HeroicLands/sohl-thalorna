@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'ixim Tzul
 tags:
   - polity
 title: ""

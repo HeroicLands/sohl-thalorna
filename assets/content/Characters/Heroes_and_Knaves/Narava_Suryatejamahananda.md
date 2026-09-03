@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Nárava Sūryatejamahānanda
-  - Nárava Sūryatejamahānanda
-  - Narava Suryatejamahananda
 tags:
   - heroes-and-knaves
   - tradesfolk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maud Osgood
 tags:
   - draft
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadow
 tags: []
 name:
   full: Duskcraft

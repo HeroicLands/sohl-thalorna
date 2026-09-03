@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Khaut-Imnet
-  - The Tombs of the West
-  - The Western Fields
 id: Sem7VWXNmBrFGB9L
 tags:
   - necropolis
@@ -20,6 +16,7 @@ name:
   full: Khaut-Imnet
   aliases:
     - The Tombs of the West
+    - The Western Fields
 shortcode: khautimnet
 folder: 6HgEgHggm50Aphlq
 ---

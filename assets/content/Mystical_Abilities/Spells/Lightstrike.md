@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beam
 tags: []
 name:
   full: Lightstrike

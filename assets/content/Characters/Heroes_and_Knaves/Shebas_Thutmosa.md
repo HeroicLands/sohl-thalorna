@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shebas Thutmosa
 tags:
   - heroes-and-knaves
   - guilded

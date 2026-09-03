@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wave
 tags: []
 name:
   full: Surge

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karnavos
 tags:
   - draft
 id: RpVELfnH8GC0Pi2R

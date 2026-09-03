@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vedyaran Rhinoceros
 tags:
   - animal
   - image-needed

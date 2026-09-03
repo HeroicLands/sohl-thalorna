@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadowclaw
 tags:
   - animal
 name:

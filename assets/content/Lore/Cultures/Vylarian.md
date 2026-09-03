@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vylarian
 tags:
   - draft
 id: vW1vwbhmk7ortUcD

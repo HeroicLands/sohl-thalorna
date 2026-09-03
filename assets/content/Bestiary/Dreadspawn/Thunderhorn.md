@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thunderhorn
 tags:
   - dreadspawn
 name:

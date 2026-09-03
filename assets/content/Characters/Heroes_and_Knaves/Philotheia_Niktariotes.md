@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Philothêia Niktariôtês
-  - Philothêia Niktariôtês
-  - Philotheia Niktariotes
 tags:
   - heroes-and-knaves
   - tradesfolk

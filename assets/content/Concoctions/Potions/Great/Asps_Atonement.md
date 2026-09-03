@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Asp's Atonement"
-  - "Potion, Antivenin, Great"
 tags:
   - great-elixir
 name:
   full: "Asp's Atonement"
-  aliases: []
+  aliases:
+    - Potion, Antivenin, Great
 description: "Nearly transparent golden distillation; heals poison and venom damage."
 id: ZMrOHxOikbXU6D8a
 img: icons/potion.svg

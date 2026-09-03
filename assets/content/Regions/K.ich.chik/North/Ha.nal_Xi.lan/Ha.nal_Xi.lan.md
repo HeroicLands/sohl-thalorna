@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha'nal Xi'lan
 tags:
   - polity
 title: ""

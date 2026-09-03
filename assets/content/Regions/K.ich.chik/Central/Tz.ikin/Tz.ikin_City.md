@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'ikin
 id: QmitOkNvJ61JJiuO
 tags:
   - city

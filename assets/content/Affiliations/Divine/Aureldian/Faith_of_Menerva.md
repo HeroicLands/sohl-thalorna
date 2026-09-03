@@ -1,9 +1,5 @@
 ---
 description: "Knowledge."
-aliases:
-  - Faith of Ménérva
-  - Faith of Menerva
-  - Ménérva
 id: OqrKF1t1dBkOt80m
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Menerva
   aliases:
     - Keeper of Sacred Wisdom
+    - Ménérva
 shortcode: menerva
 img: images/affiliation/menerva.webp
 folder: uMjCDTomEtc5Z0KV

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bárnek Lánthrik
-  - Barnek Lanthrik
 tags:
   - draft
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Apprentice
 tags:
   - draft
 id: HN222cS720SQJZI0

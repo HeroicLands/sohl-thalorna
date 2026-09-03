@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gahiji wa Fénjara
-  - Gahiji wa Fénjara
-  - Gahiji wa Fenjara
 tags:
   - heroes-and-knaves
   - hero

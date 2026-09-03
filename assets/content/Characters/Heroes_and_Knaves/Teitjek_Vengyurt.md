@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tëitjëk Vëngyürt
-  - Teitjek Vengyurt
-  - Iron Spear Piercing the Clouds
 tags:
   - draft
 name:

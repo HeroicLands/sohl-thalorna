@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Imbue
 tags: []
 name:
   full: Inspire

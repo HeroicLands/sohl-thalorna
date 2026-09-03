@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kallínikos Zygomálas
-  - Kallínikos Zygomálas
-  - Kallinikos Zygomalas
 tags:
   - heroes-and-knaves
   - tradesfolk

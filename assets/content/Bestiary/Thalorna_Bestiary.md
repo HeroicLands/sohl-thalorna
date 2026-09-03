@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thalorna Bestiary
 tags: []
 id: niRVJdWi29jLSmP2
 name:

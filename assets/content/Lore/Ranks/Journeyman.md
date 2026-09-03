@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Journeyman
 tags:
   - draft
 id: eSYdbucyUoFJtsLp

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Karataş
-  - Karatas
 id: uiADI8jrs2X2wNS3
 description: "City-state of the Byzarian League — fortress-city controlling critical sea routes between east and west, trading its strategic position for wealth and naval prestige."
 type: affiliation

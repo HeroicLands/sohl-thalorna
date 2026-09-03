@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kadméros Hârôrdîs
-  - Kadmeros Harordis
 tags:
   - draft
   - tradesfolk

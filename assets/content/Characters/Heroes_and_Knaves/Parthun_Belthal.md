@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Párthun Bélthal
-  - Párthun Bélthal
-  - Parthun Belthal
 tags:
   - heroes-and-knaves
   - guilded

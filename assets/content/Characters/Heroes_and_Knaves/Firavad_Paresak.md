@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Firâvâd Pâresak
-  - Firâvâd Pâresak
-  - Firavad Paresak
 tags:
   - heroes-and-knaves
   - clergy

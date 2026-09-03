@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bjǫrn Vetrdómr
-  - Bjǫrn Vetrdómr
-  - Bjorn Vetrdomr
 tags:
   - heroes-and-knaves
   - tradesfolk

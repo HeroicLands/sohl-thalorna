@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gada
 tags: []
 name:
   full: Gada

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Celestial Order
 id: Y9Um0puZOcYHNgXy
 type: lore
 subType: theology

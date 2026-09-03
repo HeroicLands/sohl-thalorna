@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jâdhâros Bâshirôn
-  - Jadharos Bashiron
 tags:
   - draft
   - common-folk

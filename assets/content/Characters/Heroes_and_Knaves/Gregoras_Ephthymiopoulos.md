@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Grégoras Ephthymiópoulos
-  - Grégoras Ephthymiópoulos
-  - Gregoras Ephthymiopoulos
 tags:
   - heroes-and-knaves
   - guilded

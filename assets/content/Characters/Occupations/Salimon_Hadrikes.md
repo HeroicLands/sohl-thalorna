@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sâlimón Hâdrîkês
-  - Salimon Hadrikes
 tags:
   - draft
   - tradesfolk

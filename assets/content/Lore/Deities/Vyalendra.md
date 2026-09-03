@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vyālendra
 tags:
   - draft
 id: LKhmHUw0m3fwbvj9

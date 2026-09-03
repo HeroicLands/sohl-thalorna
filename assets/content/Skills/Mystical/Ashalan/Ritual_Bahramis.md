@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Báhrámiš"
-  - The Thunder Rider
-  - Storm God
 tags:
   - ashalan
   - faith-skill
@@ -12,7 +8,9 @@ id: 3P54lJeluJiff8Bt
 shortcode: bahramis
 name:
   full: "Ritual: Báhrámiš"
-  aliases: []
+  aliases:
+    - The Thunder Rider
+    - Storm God
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

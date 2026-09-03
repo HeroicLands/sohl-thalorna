@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wolf
 tags: []
 name:
   full: Wolf

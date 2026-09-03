@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Underboss
 tags:
   - draft
 id: ToSE4sfO1xkPjiR1

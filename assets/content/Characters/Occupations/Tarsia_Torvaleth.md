@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Társia Torvaleth
-  - Tarsia Torvaleth
 tags:
   - todo-warrior
   - draft

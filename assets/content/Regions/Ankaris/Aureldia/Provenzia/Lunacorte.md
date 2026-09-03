@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lunacòrte
-  - Lunacorte
 id: kaluSm7j0sPfWR9d
 tags:
   - city

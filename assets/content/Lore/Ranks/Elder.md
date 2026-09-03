@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elder
 tags:
   - draft
 id: xRg6HUrmKB278fM5

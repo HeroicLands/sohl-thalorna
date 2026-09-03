@@ -1,7 +1,5 @@
 ---
 description: "Chaos."
-aliases:
-  - Faith of Karnavos
 id: TQr4HUb2KnAc5Ias
 tags:
   - aureldian

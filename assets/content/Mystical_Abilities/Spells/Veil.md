@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Screen
 tags: []
 name:
   full: Veil

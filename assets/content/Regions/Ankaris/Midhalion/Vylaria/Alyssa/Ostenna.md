@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ostenna
 id: Al6yPx7kOm8Sb3Ln
 tags:
   - port

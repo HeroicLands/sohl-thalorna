@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forest Troll
 tags:
   - dreadspawn
 name:

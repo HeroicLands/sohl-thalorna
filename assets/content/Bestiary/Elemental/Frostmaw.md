@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Frostmaw
 tags:
   - elemental
 name:

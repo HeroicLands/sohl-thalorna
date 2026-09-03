@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bolas
 tags: []
 name:
   full: Bolas

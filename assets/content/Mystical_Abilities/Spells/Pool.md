@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Pool
-  aliases:
-    - Pool
+  aliases: []
 description: "Creates body of water; water persists or evaporates gradually."
 id: V99UpKThZil5gk8t
 img: icons/circle.svg

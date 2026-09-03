@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Camel Spider
 tags:
   - animal
   - image-needed

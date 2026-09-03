@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Habìdon Ghânîdês
-  - Habidon Ghanides
 tags:
   - todo-warrior
   - draft

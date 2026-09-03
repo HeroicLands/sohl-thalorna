@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Daryash Shavân
-  - Daryash Shavân
-  - Daryash Shavan
 tags:
   - heroes-and-knaves
   - tradesfolk

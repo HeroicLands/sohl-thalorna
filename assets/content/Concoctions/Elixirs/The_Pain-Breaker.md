@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Pain-Breaker
-  - Traumashield Elixir
 tags:
   - elixir
 name:
   full: The Pain-Breaker
-  aliases: []
+  aliases:
+    - Traumashield Elixir
 description: "Luminescent draft; hardens resilience against shock and suffering."
 id: kEZYlhCUnvNFGsGP
 img: icons/potion.svg

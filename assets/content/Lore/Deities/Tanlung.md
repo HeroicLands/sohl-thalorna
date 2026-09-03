@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tānlüng
 tags:
   - draft
 id: 0fb4QRkzwkvtq4HP

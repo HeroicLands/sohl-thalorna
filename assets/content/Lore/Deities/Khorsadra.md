@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khóršádrä
 tags:
   - draft
 id: J7XvtdZcGD1vY7xy

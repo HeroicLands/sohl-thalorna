@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Nkaru'thar"
-  - "Nkaru'thar"
-  - The Eternal Flame
-  - The Three Flames
-  - The Triune Fire
 tags:
   - nkaruthar
   - faith-skill
@@ -14,7 +8,11 @@ id: Bdo25Hi80xYhGCkL
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
-  aliases: []
+  aliases:
+    - Nkaru'thar
+    - The Eternal Flame
+    - The Three Flames
+    - The Triune Fire
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

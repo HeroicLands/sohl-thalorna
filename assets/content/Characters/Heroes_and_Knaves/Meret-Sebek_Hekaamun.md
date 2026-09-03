@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Meret-Sebek Heka’amun
-  - Meret-Sebek Hekaamun
 tags:
   - heroes-and-knaves
   - hero
@@ -12,7 +9,8 @@ name:
   given: Meret-Sebek
   clan: Heka’amun
   home: Meru-Hotep
-  aliases: []
+  aliases:
+    - Meret-Sebek Hekaamun
 id: O8DM193IL84QUQZb
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

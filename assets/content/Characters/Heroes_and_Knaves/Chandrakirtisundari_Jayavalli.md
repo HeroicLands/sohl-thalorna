@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Chandrakīrtisundarī Jayavalli
-  - Chandrakīrtisundarī Jayavalli
-  - Chandrakirtisundari Jayavalli
 tags:
   - heroes-and-knaves
   - underworld

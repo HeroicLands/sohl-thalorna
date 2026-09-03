@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wraithbloom
 tags:
   - spirit
 name:

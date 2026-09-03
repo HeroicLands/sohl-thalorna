@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Belshar Gûlamû
-  - Belshar Gulamu
 tags:
   - draft
   - guilded

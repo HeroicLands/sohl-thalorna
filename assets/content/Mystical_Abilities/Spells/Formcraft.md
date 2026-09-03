@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Figure
 tags: []
 name:
   full: Formcraft

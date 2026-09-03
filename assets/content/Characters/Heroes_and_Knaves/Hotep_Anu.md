@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hotep Anu
 tags:
   - heroes-and-knaves
   - hero

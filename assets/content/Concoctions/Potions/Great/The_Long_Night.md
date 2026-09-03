@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Long Night
-  - "Potion, Soporific, Great"
 tags:
   - great-elixir
 name:
   full: The Long Night
-  aliases: []
+  aliases:
+    - Potion, Soporific, Great
 description: "Nearly black liquid; induces prolonged darkness of consciousness."
 id: YEsgZarTo8VAzOal
 img: icons/potion.svg

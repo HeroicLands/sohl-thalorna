@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrafnleif the Wise
 tags:
   - paragon
   - heroes-of-asguard

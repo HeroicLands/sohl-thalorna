@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Scorpion
 tags:
   - animal
 name:

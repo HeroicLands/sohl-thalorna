@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Goremdânis Shônyàrdîs
-  - Goremdanis Shonyardis
 tags:
   - draft
   - tradesfolk

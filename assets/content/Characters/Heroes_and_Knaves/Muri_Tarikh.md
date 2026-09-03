@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Muri Târikh
-  - Muri Târikh
-  - Muri Tarikh
 tags:
   - heroes-and-knaves
   - soldiery

@@ -1,14 +1,12 @@
 ---
-aliases:
-  - Central Rainforests
-  - Xerathian Rainforests
-  - Green Interior
 tags:
   - region
 description: Trackless equatorial jungle at the heart of Xerathia — teeming with life, disease, and scattered tribes whose spirit-traditions resist outside systematization.
 name:
   full: Central Rainforests
-  aliases: []
+  aliases:
+    - Xerathian Rainforests
+    - Green Interior
 id: YPcQy1qNckWAGrR8
 shortcode: cntrlrnfrsts
 img: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thunderbird
 tags:
   - animal
 name:

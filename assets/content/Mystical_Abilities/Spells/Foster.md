@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nurture
 tags: []
 name:
   full: Foster

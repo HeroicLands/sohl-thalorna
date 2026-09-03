@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Regions
 id: jbVHqLXPUnCyns3h
 name:
   full: Regions

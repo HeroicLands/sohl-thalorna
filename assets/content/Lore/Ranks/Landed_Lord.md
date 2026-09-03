@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Landed Lord
 tags:
   - draft
 id: TR0nXFe8nFiUL8Ed

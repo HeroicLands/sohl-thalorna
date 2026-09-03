@@ -1,8 +1,5 @@
 ---
 description: "Bureaucracy."
-aliases:
-  - Vëizhük
-  - Veizhuk
 id: 9NGsHssTmzCM7m7A
 tags:
   - celestial-official

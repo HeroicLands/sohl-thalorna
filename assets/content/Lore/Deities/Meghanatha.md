@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meghanātha
 tags:
   - draft
 id: VvgTQBynftcWLC1X

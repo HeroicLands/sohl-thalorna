@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Father Iztéban Alkássar
-  - Father Iztéban Alkássar
-  - Father Izteban Alkassar
 tags:
   - heroes-and-knaves
   - todo

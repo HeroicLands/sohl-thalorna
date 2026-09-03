@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kûrûya Ashîmâ
-  - Kuruya Ashima
 tags:
   - draft
   - tradesfolk

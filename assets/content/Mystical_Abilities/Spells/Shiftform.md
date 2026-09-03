@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Distort
 tags: []
 name:
   full: Shiftform

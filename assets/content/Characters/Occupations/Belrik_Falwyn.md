@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bélrik Fálwyn
-  - Belrik Falwyn
 tags:
   - draft
   - guilded

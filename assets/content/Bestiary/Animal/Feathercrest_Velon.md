@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feathercrest Velon
 tags:
   - animal
 name:

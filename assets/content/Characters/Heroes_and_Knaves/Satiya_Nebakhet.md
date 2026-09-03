@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Satîya Nebakhet
-  - Satîya Neb'akhet
-  - Satiya Nebakhet
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,9 @@ name:
   given: Satîya
   clan: Neb'akhet
   home: Meru-Hotep
-  aliases: []
+  aliases:
+    - Satîya Nebakhet
+    - Satiya Nebakhet
 id: dJqasQpgkCLp0rSM
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

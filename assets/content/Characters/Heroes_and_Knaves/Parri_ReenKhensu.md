@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Par'ri Re'en'Khensu
-  - Parri ReenKhensu
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,7 +9,8 @@ name:
   given: Par'ri
   clan: Re'en'Khensu
   home: Wasetkara
-  aliases: []
+  aliases:
+    - Parri ReenKhensu
 id: 2f0ZMAmYp9RXcMX4
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

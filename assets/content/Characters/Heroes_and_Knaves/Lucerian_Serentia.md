@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lucerian Serentia
 tags:
   - tamzir-crew
   - tradesfolk

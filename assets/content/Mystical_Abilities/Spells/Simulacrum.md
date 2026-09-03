@@ -1,6 +1,4 @@
 ---
-aliases:
-  - False Soul
 tags: []
 name:
   full: Simulacrum

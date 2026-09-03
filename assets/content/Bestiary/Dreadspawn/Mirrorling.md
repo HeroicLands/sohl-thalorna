@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mirrorling
 tags:
   - dreadspawn
 name:

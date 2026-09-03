@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Spirit-Speaker
 tags:
   - draft
 id: HGOuhauQRYqWTVr2

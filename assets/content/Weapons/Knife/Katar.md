@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Katar
 tags: []
 name:
   full: Katar

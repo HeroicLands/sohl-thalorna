@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Imposed Humor
-  - Passion Elixir
 tags:
   - elixir
 name:
   full: The Imposed Humor
-  aliases: []
+  aliases:
+    - Passion Elixir
 description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
 id: sTHLJjvB1WGtGsau
 img: icons/potion.svg

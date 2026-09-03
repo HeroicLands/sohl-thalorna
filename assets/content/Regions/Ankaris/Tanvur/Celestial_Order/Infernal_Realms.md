@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Infernal Realms
 id: 38CzVGSAQ2uOOfyn
 type: lore
 subType: cosmology

@@ -1,10 +1,9 @@
 ---
-aliases:
-  - Haradi
 tags: []
 name:
   full: Haradi Language
-  aliases: []
+  aliases:
+    - Haradi
 description: "The tongue of Harad's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
 id: 61ENCc7QXGaRPDch
 img: icons/speaking.svg

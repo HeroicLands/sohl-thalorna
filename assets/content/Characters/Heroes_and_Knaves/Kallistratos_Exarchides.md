@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kallistratos Exarchides
 tags:
   - heroes-and-knaves
   - hero

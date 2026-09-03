@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunmere
 id: MbOkXD6PFlAjMucq
 tags:
   - village

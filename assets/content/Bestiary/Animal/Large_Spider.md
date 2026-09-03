@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Large Spider
 tags:
   - animal
 name:

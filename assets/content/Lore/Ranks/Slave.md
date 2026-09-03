@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Slave
 tags:
   - draft
 id: hbLqYMfJgnvVkouc

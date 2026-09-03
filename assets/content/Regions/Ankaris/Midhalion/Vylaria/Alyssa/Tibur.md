@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tibur
 id: Al7vNx3kEp2Rb8Lt
 tags:
   - town

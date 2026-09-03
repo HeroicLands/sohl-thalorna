@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Medicine
 id: DY51n86VorJpng21
 type: lore
 subType: culture

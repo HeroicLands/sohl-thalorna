@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bélrik Tárvenel
-  - Belrik Tarvenel
 tags:
   - todo-warrior
   - draft

@@ -1,9 +1,5 @@
 ---
 description: "Fertility."
-aliases:
-  - Kāmavrata
-  - Kamavrata
-  - The Celestial Lover
 id: pNN7XgjGE8bnHm7U
 tags:
   - varnaka

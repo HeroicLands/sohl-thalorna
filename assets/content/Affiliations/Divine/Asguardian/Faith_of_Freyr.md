@@ -1,7 +1,5 @@
 ---
 description: "Fertility, Agriculture, Peace, and Healing."
-aliases:
-  - Faith of Fréyr
 id: L6VRwvMCiSPtVYGb
 tags:
   - asguardian

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Îmarakîs Zêrâzêndis
-  - Imarakis Zerazendis
 tags:
   - draft
   - tradesfolk

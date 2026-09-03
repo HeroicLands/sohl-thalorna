@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Leónantos Stratégopoulos
-  - Leónantos Stratégopoulos
-  - Leonantos Strategopoulos
 tags:
   - heroes-and-knaves
   - todo

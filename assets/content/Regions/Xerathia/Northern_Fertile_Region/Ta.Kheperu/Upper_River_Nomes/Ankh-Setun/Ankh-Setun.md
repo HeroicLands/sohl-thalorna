@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ankh-Setûn
-  - Ankh-Setun
 id: kjeTX8avJnpknuJ3
 tags:
   - city

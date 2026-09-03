@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Quickened Thread
-  - Equipose Elixir
 tags:
   - elixir
 name:
   full: The Quickened Thread
-  aliases: []
+  aliases:
+    - Equipose Elixir
 description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."
 id: v7TG6wRvpcLeDrtZ
 img: icons/potion.svg

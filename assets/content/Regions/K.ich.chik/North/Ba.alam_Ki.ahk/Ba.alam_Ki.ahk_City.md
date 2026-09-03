@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Ki'ahk
 id: PVzHCv6vrYI2AmrU
 tags:
   - city

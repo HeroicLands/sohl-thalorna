@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brànwâal Dôrgaar
 tags:
   - hero
   - silent-talon

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Confusion
 tags: []
 name:
   full: Disarray

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ithrákor
 id: 1Bf7A6AabtHRR3Bu
 tags:
   - city-state

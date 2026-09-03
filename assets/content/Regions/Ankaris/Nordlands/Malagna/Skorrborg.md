@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skorrborg
 id: RceXRNNJJjThvqSo
 tags:
   - town

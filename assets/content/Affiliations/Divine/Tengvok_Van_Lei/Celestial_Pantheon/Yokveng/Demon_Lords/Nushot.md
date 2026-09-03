@@ -1,8 +1,5 @@
 ---
 description: "Destruction."
-aliases:
-  - Nüshöt
-  - Nushot
 id: jSZj1XCp5ar3UznI
 tags:
   - demon-lord

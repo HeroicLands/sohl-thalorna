@@ -1,8 +1,5 @@
 ---
 description: "Metal."
-aliases:
-  - Dāktūr Vōrthāt
-  - Daktur Vorthat
 id: ehQkCW10QJdB3q4q
 tags:
   - celestial-order

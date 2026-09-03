@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rashîra of House Safîrôn
-  - Rashîra
 tags:
   - heroes-and-knaves
   - hero

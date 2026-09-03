@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bāthür Hürtzhük
-  - Bathur Hurtzhuk
-  - Master Tiger of the Steppes
 tags:
   - draft
 name:

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vindhyālaya
-  - Vindhyalaya
 tags: []
 description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that bind Vedyara to the desert realms beyond.
 type: affiliation

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sunáti Āyodhyārājavardhan
-  - Sunáti Āyodhyārājavardhan
-  - Sunati Ayodhyarajavardhan
 tags:
   - heroes-and-knaves
   - administration

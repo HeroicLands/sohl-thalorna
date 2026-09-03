@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Élavendri
 tags:
   - draft
 id: 52m1xsYWxpfwW5H8

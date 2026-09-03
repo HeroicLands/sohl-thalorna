@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Choking Veil
-  - Fumebomb Elixir
 tags:
   - elixir
 name:
   full: The Choking Veil
-  aliases: []
+  aliases:
+    - Fumebomb Elixir
 description: "Murky greenish liquid; hurled to create choking smoke cloud."
 id: takstEy7ZXM9GrEA
 img: icons/potion.svg

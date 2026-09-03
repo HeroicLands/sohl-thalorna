@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caerwynd
 id: qzNN35eMt6RmKQPK
 tags:
   - town

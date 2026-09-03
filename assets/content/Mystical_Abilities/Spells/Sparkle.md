@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Motes
 tags: []
 name:
   full: Sparkle

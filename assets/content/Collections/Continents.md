@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Continents
 id: UwE0NrIry321IzYO
 name:
   full: Continents

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Balamkul
 id: LXNjgk0sJIzvtzuS
 tags:
   - city

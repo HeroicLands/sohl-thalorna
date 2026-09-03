@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kentra
-  - The Centre
-  - The Centred
 tags:
   - hex-hodai
 type: affiliation
@@ -94,7 +90,9 @@ img: images/affiliation/kentra.webp
 shortcode: kentra
 name:
   full: Kentra
-  aliases: []
+  aliases:
+    - The Centre
+    - The Centred
 school: center
 opposition: none
 adjacent: all

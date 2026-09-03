@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Skúli Vetrdómr
-  - Skuli Vetrdomr
 tags:
   - heroes-and-knaves
   - guilded

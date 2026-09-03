@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Owl
 tags:
   - animal
 name:

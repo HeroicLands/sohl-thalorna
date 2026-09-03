@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Héx Hodäi Incantations
 tags:
   - lore
   - arcane

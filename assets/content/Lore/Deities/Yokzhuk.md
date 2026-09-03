@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yökzhük
 tags:
   - draft
 id: vadMvD0ZLmshGhbF

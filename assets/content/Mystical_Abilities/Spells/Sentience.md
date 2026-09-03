@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Personality
 tags: []
 name:
   full: Sentience

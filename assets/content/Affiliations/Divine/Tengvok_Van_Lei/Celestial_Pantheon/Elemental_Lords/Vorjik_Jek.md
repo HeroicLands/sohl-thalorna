@@ -1,8 +1,5 @@
 ---
 description: "Fire."
-aliases:
-  - Vōrjīk Jëk
-  - Vorjik Jek
 id: 7u1nOZUiWdT5a007
 tags:
   - celestial-order

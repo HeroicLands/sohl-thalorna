@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Érython Ûselîndâs
-  - Érython Ûselîndâs
-  - Erython Uselindas
 tags:
   - heroes-and-knaves
   - soldiery

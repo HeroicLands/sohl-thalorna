@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bone Scorpion
 tags:
   - animal
 name:

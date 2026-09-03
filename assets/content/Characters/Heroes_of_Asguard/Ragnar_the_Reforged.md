@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ragnar the Reforged
 tags:
   - demigod
   - heroes-of-asguard

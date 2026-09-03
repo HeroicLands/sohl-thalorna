@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Xerathian Forest Elephant
 tags:
   - animal
 name:

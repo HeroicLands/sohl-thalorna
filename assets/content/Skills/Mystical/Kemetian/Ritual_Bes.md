@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Bēs"
-  - Bēs, Guardian of Night Visions
 tags:
   - kemetian
   - faith-skill
@@ -11,7 +8,8 @@ id: 4imUgvpxSanM8wbw
 shortcode: bes
 name:
   full: "Ritual: Bēs"
-  aliases: []
+  aliases:
+    - Bēs, Guardian of Night Visions
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

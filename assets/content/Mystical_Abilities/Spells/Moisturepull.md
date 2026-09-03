@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sweat
 tags: []
 name:
   full: Moisturepull

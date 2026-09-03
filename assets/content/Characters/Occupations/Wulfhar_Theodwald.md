@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wulfhár Theódwald
-  - Wulfhar Theodwald
 tags:
   - draft
   - soldiery

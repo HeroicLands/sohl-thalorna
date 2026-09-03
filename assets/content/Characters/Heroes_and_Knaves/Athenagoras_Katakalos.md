@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Athênagoras Katakálos
-  - Athênagoras Katakálos
-  - Athenagoras Katakalos
 tags:
   - heroes-and-knaves
   - soldiery

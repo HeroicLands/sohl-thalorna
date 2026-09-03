@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Viśvàra Mahâpara
-  - Viśvàra Mahâpara
-  - Visvara Mahapara
 tags:
   - heroes-and-knaves
   - common-folk

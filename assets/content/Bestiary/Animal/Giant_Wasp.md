@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Wasp
 tags:
   - animal
 name:

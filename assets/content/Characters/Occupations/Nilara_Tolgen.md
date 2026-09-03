@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nílara Tólgen
-  - Nilara Tolgen
 tags:
   - draft
   - soldiery

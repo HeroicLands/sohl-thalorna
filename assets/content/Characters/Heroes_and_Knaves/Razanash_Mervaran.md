@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Razanash Mervaran
 tags:
   - heroes-and-knaves
   - clergy

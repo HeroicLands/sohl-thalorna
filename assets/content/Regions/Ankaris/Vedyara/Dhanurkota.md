@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dhanurkota
 id: i93FosZcD5HdN48U
 tags:
   - city

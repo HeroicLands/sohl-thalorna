@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aegiron Sentinel
 tags:
   - construct
 name:

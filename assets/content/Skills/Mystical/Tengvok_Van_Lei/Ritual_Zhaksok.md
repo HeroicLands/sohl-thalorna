@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Zhāksōk"
-  - Zhāksōk
-  - Zhaksok
-  - The Unsorted
-  - The Walking Contradiction
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,7 +8,11 @@ id: CVBP6nEwAVenRFYe
 shortcode: zhaksok
 name:
   full: "Ritual: Zhāksōk"
-  aliases: []
+  aliases:
+    - Zhāksōk
+    - Zhaksok
+    - The Unsorted
+    - The Walking Contradiction
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

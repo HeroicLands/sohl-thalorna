@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Xik'ul Ch'akal
 id: YNPzMDFOQqc5veZB
 tags:
   - city

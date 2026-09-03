@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sight
 tags: []
 name:
   full: Vision

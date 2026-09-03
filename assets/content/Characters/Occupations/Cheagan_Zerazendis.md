@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chéagan Zêrâzêndis
-  - Cheagan Zerazendis
 tags:
   - draft
   - tradesfolk

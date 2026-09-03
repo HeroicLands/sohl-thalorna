@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helthraals
 tags:
   - helspawn
 name:

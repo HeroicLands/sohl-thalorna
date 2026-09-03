@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Párthun Cárdeth
-  - Parthun Cardeth
 tags:
   - draft
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grand Master
 tags:
   - draft
 id: 02qHnmoShbTJGRoV

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thalísa Torvaleth
-  - Thalísa Torvaleth
-  - Thalisa Torvaleth
 tags:
   - heroes-and-knaves
   - guilded

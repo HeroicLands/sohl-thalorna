@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pavanajitras
 tags:
   - draft
 id: E3UiCKGhGKYXjwSW

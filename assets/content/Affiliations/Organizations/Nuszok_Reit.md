@@ -1,10 +1,4 @@
 ---
-aliases:
-  - Nüszōk Rëit
-  - Nuszok Reit
-  - The Cult of the Forsaken
-  - Cult of the Forsaken
-  - The Forsaken
 tags:
   - organization
   - tanvur
@@ -17,6 +11,7 @@ name:
   aliases:
     - The Cult of the Forsaken
     - The Forsaken
+    - Cult of the Forsaken
 shortcode: nuszokreit
 type: affiliation
 subType: faithtradition

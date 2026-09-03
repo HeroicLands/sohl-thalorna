@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kenelm Adwell
 tags:
   - draft
   - soldiery

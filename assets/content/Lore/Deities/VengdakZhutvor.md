@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vëngdāk Zhütvōr
 tags:
   - draft
 id: O2FkewEDrTg9aWKa

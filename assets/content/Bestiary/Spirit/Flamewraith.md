@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Flamewraith
 tags:
   - spirit
 name:

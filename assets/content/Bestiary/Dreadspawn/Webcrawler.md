@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Webcrawler
 tags:
   - dreadspawn
 name:

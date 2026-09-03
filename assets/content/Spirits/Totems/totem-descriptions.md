@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - totem-descriptions
 name:
   full: totem-descriptions
   aliases: []

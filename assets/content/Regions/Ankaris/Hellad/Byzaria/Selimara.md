@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Selímara
-  - Selimara
 id: bQUtftL9hRhlCeaf
 tags:
   - town

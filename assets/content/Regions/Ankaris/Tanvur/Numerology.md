@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Numerology
 id: gu99gyoQOqq2hkDz
 type: lore
 subType: arcana

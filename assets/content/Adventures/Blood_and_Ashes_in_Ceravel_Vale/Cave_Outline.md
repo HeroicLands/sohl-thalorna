@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Cave Outline
 id: xtuTF2bDckVdkrE5
 type: scenario
 subType: adventure

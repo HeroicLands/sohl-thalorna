@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harmony
 tags: []
 name:
   full: Equilibrium

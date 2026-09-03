@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Satara Re'en'Khensu
-  - Satara ReenKhensu
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,7 +9,8 @@ name:
   given: Satara
   clan: Re'en'Khensu
   home: Khensuret
-  aliases: []
+  aliases:
+    - Satara ReenKhensu
 id: 0Cn6X5sgjYv7AeHV
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

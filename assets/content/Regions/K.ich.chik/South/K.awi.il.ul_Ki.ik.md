@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K’awi’il’ul Ki’ik
 id: LzFK4SEzMloriHpl
 tags:
   - garrison

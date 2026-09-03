@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Roc
 tags:
   - animal
 name:

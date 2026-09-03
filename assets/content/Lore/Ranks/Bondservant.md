@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bondservant
 tags:
   - draft
 id: IFrgsCXWz9lVonua

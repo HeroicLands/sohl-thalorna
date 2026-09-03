@@ -1,8 +1,5 @@
 ---
 description: "Order."
-aliases:
-  - Faith of Jánus
-  - Faith of Janus
 id: iBYwSPyqXHZtVMrX
 tags:
   - aureldian

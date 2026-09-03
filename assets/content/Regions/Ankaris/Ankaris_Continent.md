@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ankaris Continent
-  - Ankaris
 tags:
   - continent
   - ankaris
@@ -20,7 +17,8 @@ data:
 id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent
-  aliases: []
+  aliases:
+    - Ankaris
 shortcode: ankrscntnnt
 description: The largest continent of Thalorna — home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
 terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)

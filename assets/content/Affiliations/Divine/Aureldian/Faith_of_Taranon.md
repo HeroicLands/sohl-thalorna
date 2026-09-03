@@ -1,9 +1,5 @@
 ---
 description: "Storms."
-aliases:
-  - Faith of Táranon
-  - Faith of Taranon
-  - Táranon
 id: c5QQBhuSwvnzYVgD
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Taranon
   aliases:
     - The Thunderer
+    - Táranon
 shortcode: taranon
 img: images/affiliation/taranon.webp
 folder: uMjCDTomEtc5Z0KV

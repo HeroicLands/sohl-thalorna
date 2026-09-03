@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eichengrund
 id: IdfMspBEVKOe4Jje
 tags:
   - village

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Oasis of Shirvan
 id: FQHoKNcT3CfFmyIV
 tags:
   - oasis

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tëngvōk Vān Lëi
-  - Tengvok Van Lei
 id: 99l2h4yB0fzlO9Xt
 tags:
   - pantheon

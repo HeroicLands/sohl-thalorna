@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pox
 tags: []
 name:
   full: Blight

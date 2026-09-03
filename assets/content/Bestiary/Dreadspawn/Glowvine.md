@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Glowvine
 tags:
   - dreadspawn
 name:

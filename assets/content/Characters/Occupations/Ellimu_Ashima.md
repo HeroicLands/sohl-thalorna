@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ellimû Ashîmâ
-  - Ellimu Ashima
 tags:
   - draft
   - common-folk

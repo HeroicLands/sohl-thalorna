@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hávamál
-  - Havamal
 id: rej65SfOdHxrfzld
 tags:
   - town

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Singing Sword
 tags: []
 name:
   full: Harmonblade

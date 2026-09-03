@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hathura Isefré
-  - Hathura Ise'fré
 tags:
   - heroes-and-knaves
   - clergy
@@ -11,7 +8,8 @@ name:
   given: Hathura
   clan: Ise'fré
   home: Meru-Hotep
-  aliases: []
+  aliases:
+    - Hathura Isefré
 id: KBtuTe3yT29FRm6C
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

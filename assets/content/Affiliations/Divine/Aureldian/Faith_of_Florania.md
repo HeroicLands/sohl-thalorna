@@ -1,9 +1,5 @@
 ---
 description: "Fertility."
-aliases:
-  - Faith of Flórania
-  - Faith of Florania
-  - Flórania
 id: B6CNbbdTIbmiSLxd
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Flórania
   aliases:
     - The Nurturer
+    - Flórania
 shortcode: florania
 img: images/affiliation/florania.webp
 folder: uMjCDTomEtc5Z0KV

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Arkálòrdâs Kâlmâkanês
-  - Arkalordas Kalmakanes
 tags:
   - draft
   - common-folk

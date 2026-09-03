@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Maḥmûdrós Gharîdís
-  - Mahmudros Gharidis
 tags:
   - draft
   - tradesfolk

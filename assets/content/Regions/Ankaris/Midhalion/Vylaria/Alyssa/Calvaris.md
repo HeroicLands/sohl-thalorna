@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calvaris
 id: Al3hGx4mCq9Tb2Ld
 tags:
   - town

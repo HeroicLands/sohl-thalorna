@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Thornstaunch
-  - "Potion, Coagulant, Strong"
 tags:
   - strong-elixir
 name:
   full: Thornstaunch
-  aliases: []
+  aliases:
+    - Potion, Coagulant, Strong
 description: "Deep maroon almost-black coagulant; stops bleeding effectively."
 id: DKbB1Gurlr0iCfSz
 img: icons/potion.svg

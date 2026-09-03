@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Hydälis
 tags:
   - hex-hodai
 type: affiliation
@@ -93,7 +91,8 @@ shortcode: hydalis
 img: images/affiliation/hydalis.webp
 name:
   full: Hydälis
-  aliases: []
+  aliases:
+    - Eídma Hydälis
 sohl:
   archetype: null
 thalorna:

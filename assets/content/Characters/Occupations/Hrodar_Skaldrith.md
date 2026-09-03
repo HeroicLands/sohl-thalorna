@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hródar Skáldrith
-  - Hrodar Skaldrith
 tags:
   - draft
   - soldiery

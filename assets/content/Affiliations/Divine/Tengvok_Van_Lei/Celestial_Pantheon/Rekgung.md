@@ -1,8 +1,5 @@
 ---
 description: "Storms."
-aliases:
-  - Rëkgüng
-  - Rekgung
 id: Rcy18TVK0IWJnRSv
 tags:
   - celestial-official

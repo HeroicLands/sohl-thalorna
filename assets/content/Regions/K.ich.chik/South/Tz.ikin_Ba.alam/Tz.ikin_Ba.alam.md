@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'ikin Ba'alam
 tags:
   - polity
 title: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solace
 tags: []
 name:
   full: Peace

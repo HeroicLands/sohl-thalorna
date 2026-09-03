@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ívelyn Zálreth
-  - Ivelyn Zalreth
 tags:
   - draft
   - tradesfolk

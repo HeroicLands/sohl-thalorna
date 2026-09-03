@@ -1,9 +1,5 @@
 ---
 description: "Creation."
-aliases:
-  - Faith of Lúsinía
-  - Faith of Lusinia
-  - Lúsinía
 id: 1ftSrMDbroRP1udn
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Lusinia
   aliases:
     - The World-Weaver
+    - Lúsinía
 shortcode: lusinia
 img: images/affiliation/lusinia.webp
 folder: uMjCDTomEtc5Z0KV

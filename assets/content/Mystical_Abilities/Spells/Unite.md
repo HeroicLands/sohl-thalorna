@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meld
 tags: []
 name:
   full: Unite

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Afzandah Parnâzar
-  - Afzandah Parnâzar
-  - Afzandah Parnazar
 tags:
   - heroes-and-knaves
   - guilded

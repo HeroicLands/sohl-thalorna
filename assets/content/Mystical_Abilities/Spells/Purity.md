@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Probity
 tags: []
 name:
   full: Purity

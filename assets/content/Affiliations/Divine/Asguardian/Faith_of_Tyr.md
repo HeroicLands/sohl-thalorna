@@ -1,7 +1,5 @@
 ---
 description: "Justice and Honorable Combat."
-aliases:
-  - Faith of Týr
 id: c12fS9I0LjihzxT9
 tags:
   - asguardian

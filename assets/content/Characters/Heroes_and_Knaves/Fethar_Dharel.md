@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Féthar Dhárel
 tags:
   - tamzir-crew
   - tradesfolk

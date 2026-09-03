@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Alîmû Lâmarû
-  - Alimu Lamaru
 tags:
   - draft
   - guilded

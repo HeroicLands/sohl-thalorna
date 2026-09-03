@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bagh Nakh
 tags: []
 name:
   full: Bagh Nakh

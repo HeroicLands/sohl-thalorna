@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Laurelossë
-  - Laurelosse
 id: Mp48OQiSLJZ8OVfN
 type: place
 subType: site

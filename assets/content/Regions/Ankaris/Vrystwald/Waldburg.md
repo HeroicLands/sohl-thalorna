@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Waldburg
 id: SriprSl9dLBKfsgn
 tags:
   - stronghold

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thráwald Hildskorn
-  - Thrawald Hildskorn
 tags:
   - blackpine-wolves
   - brigand

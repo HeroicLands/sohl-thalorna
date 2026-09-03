@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Qâmira Lamari
-  - Qâmira Lamari
-  - Qamira Lamari
 tags:
   - heroes-and-knaves
   - guilded

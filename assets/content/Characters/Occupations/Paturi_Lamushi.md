@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pâtûri Lamûshî
-  - Paturi Lamushi
 tags:
   - draft
   - guilded

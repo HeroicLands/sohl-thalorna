@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Táranon
 tags:
   - draft
 id: B54JUWw8dZVudpXA

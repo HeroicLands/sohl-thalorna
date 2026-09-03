@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Tamzîr
-  - Tamzîr
 tags:
   - company
   - tamzir-crew

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vashurán
-  - Vashuran
 id: 8V6lgZjeFHlQZkRA
 tags:
   - port

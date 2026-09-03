@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kyriákos Patrikîos
-  - Kyriákos Patrikîos
-  - Kyriakos Patrikios
 tags:
   - heroes-and-knaves
   - soldiery

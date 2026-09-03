@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Yléndor Mýrdal
-  - Ylendor Myrdal
 tags:
   - draft
   - guilded

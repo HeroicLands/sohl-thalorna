@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Tortoise
 tags:
   - animal
 name:

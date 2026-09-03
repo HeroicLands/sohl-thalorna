@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bjornstad
 id: 2L0cERpUeRn8zC00
 tags:
   - settlement

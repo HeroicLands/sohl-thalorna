@@ -1,9 +1,5 @@
 ---
 description: "Fire."
-aliases:
-  - Faith of Ātáröš
-  - The Sacred Flame
-  - Fire God
 id: jwJWeIebmMFeKrwf
 tags:
   - religion
@@ -104,7 +100,9 @@ sohl:
   archetype: null
 name:
   full: Faith of Ātáröš
-  aliases: []
+  aliases:
+    - The Sacred Flame
+    - Fire God
 shortcode: ataros
 alias: Ātáröš, The Sacred Flame
 folder: 7so6UiPt445oIHWs

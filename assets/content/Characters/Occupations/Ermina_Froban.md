@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ermína Fróðbán
-  - Ermina Froban
 tags:
   - draft
   - common-folk
@@ -13,6 +10,7 @@ name:
   home: Thornhaven
   aliases:
     - Elira Seabrook
+    - Ermina Froban
 id: 9ciG9Lv3g32CgH6D
 folder: Nu7AgLZEmR26u2pk
 shortcode: erminfrdbn

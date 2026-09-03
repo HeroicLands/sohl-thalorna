@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stormseer
 tags:
   - elemental
 name:

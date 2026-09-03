@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Bee
 tags:
   - animal
 name:

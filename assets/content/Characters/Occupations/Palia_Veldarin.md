@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pália Véldarin
-  - Palia Veldarin
 tags:
   - draft
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tjebu
 id: MdjcGbF0x3kGbwQx
 tags:
   - town

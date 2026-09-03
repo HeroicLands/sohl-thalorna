@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz’alam Ha’
 id: oq4gDoiYMztl68Ri
 tags:
   - port

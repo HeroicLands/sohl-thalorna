@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saltholm
 id: Vd7hGx4mSm9Tb3Ld
 tags:
   - town

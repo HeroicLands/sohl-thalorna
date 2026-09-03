@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gunnsteinn Vǫrnheim
-  - Gunnsteinn Vǫrnheim
-  - Gunnsteinn Vornheim
 tags:
   - heroes-and-knaves
   - soldiery

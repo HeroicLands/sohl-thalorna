@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sigurd the Deceiver
 tags:
   - hero
   - heroes-of-asguard

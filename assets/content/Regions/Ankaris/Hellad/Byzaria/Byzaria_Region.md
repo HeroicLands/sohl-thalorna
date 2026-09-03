@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Byzaria Region
-  - Byzaría Region
 tags:
   - region
 description: ""

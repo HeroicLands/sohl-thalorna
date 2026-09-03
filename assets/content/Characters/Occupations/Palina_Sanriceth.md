@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pálina Sánriceth
-  - Palina Sanriceth
 tags:
   - todo
   - draft

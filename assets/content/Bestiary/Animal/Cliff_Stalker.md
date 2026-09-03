@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cliff Stalker
 tags:
   - animal
 name:

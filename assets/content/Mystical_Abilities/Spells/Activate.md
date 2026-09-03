@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Trigger
 tags: []
 name:
   full: Activate

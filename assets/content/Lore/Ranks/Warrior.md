@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Warrior
 tags:
   - draft
 id: MFeQ0sAu0WtRjfZE

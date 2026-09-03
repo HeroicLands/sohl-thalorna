@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meteor Hammer
 tags: []
 name:
   full: Meteor Hammer

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mossback Turtle
 tags:
   - animal
 name:

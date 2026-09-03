@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Snowball
 tags: []
 name:
   full: Iceblast

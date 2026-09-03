@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ki'ik Ba'ate
 tags:
   - polity
 title: ""

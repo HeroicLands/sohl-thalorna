@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Summitdrake
 tags:
   - dreadspawn
 name:

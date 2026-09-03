@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Verdantcoil
 tags:
   - dreadspawn
 name:

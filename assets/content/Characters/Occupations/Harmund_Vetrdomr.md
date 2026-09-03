@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hármund Vetrdómr
-  - Harmund Vetrdomr
 tags:
   - todo-warrior
   - draft

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hippogryph
 tags:
   - mythic
   - image-needed

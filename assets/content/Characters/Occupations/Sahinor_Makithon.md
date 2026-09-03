@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sahînór Mâkîthôn
-  - Sahinor Makithon
 tags:
   - draft
   - administration

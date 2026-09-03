@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'ikin
 tags:
   - polity
 title: ""

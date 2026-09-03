@@ -1,9 +1,5 @@
 ---
 description: "Storms."
-aliases:
-  - Meghanātha
-  - Meghanatha
-  - Lord of Thunder
 id: TBW4cV3eoMkgUR8B
 tags:
   - varnaka

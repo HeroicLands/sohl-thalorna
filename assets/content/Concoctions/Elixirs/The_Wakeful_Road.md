@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Wakeful Road
-  - Verve Elixir
 tags:
   - elixir
 name:
   full: The Wakeful Road
-  aliases: []
+  aliases:
+    - Verve Elixir
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."
 id: NFrsFpQareivWkrh
 img: icons/potion.svg

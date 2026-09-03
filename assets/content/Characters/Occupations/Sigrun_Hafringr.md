@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigrún Hafringr
-  - Sigrun Hafringr
 tags:
   - todo-warrior
   - draft

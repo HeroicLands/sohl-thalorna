@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ídrisè Kórisvar
-  - Ídrisè Kórisvar
-  - Idrise Korisvar
 tags:
   - heroes-and-knaves
   - soldiery

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sovereign
 tags:
   - draft
 id: NY333Hi9ktfrU42N

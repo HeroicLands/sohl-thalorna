@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha’ Ki’ahkul
 id: kwMVyscLlBNMazGt
 tags:
   - town

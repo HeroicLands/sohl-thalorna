@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grukar-Uk
 tags:
   - folk
 name:

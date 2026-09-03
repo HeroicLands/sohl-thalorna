@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Má'át
 tags:
   - draft
 id: jKGHJ9HwdLGiQzoW

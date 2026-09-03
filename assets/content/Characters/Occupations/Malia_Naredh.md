@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mália Náredh
-  - Malia Naredh
 tags:
   - draft
   - common-folk

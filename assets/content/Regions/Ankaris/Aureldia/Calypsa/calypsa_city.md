@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calypsa
 id: pHT2BUJrOrXaugNc
 tags:
   - port

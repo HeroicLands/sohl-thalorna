@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lôki
 tags:
   - draft
 id: FBlwpW2lSJ9ndcVU

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elemental Bolt
 tags: []
 name:
   full: Elemental Bolt

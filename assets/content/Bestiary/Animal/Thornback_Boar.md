@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thornback Boar
 tags:
   - animal
 name:

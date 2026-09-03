@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ránthor Párdalen
-  - Ránthor Párdalen
-  - Ranthor Pardalen
 tags:
   - heroes-and-knaves
   - clergy

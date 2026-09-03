@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khemenu
 id: U2pzITnUVrmEUuZY
 tags:
   - city

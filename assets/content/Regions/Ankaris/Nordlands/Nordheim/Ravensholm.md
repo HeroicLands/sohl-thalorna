@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ravensholm
 id: xdfasuC4zLc5gWSd
 tags:
   - settlement

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Expelled
 tags:
   - draft
 id: ZT291UdhcdNalgzy

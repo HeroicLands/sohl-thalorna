@@ -1,9 +1,4 @@
 ---
-aliases:
-  - The Warrior's Circle of the Dunhara Tribes
-  - Dunhara Warrior's Circle
-  - The Warrior's Circle
-  - Tîgh'Bahârân
 tags: []
 description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains — meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
 id: 7vtIO7T3uCZrFqjH
@@ -13,6 +8,8 @@ name:
     - Tîgh'Bahârân
     - The Circle of the Mighty
     - The Quarterly Hall
+    - Dunhara Warrior's Circle
+    - The Warrior's Circle
 shortcode: wrrscrcldnhrtrbs
 type: affiliation
 subType: governmental

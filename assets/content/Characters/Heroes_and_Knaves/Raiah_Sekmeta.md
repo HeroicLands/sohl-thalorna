@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Raiah Sekmetâ
-  - Raiah Sekmet'â
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,7 +9,8 @@ name:
   given: Raiah
   clan: Sekmet'â
   home: Wasetkara
-  aliases: []
+  aliases:
+    - Raiah Sekmetâ
 id: 0M8HOay3gpvRiuUF
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

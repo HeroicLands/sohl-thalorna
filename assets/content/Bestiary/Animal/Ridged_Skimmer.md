@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ridged Skimmer
 tags:
   - animal
 name:

@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vëkthōr"
-  - Vëkthōr
-  - Vekthor
-  - The Forger of False Records
-  - The Counterfeit Scribe
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,7 +8,11 @@ id: bpEDXvO8OYunAR7Q
 shortcode: vekthor
 name:
   full: "Ritual: Vëkthōr"
-  aliases: []
+  aliases:
+    - Vëkthōr
+    - Vekthor
+    - The Forger of False Records
+    - The Counterfeit Scribe
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

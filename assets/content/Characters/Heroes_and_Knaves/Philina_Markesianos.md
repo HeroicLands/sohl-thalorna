@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Philína Markêsianos
-  - Philína Markêsianos
-  - Philina Markesianos
 tags:
   - heroes-and-knaves
   - tradesfolk

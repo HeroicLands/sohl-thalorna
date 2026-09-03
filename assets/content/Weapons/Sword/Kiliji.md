@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kiliji
 tags: []
 name:
   full: Kiliji

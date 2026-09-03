@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mithran Shiradar
 tags:
   - heroes-and-knaves
   - administration

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Marzûna Ashûram
-  - Marzuna Ashuram
 tags:
   - draft
   - soldiery

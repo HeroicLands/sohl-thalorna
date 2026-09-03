@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Samarína Kalokyrês
-  - Samarína Kalokyrês
-  - Samarina Kalokyres
 tags:
   - heroes-and-knaves
   - common-folk

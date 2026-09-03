@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gryphon
 tags:
   - mythic
   - image-needed

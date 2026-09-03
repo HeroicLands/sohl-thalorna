@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Timothéon Gaválas
-  - Timothéon Gaválas
-  - Timotheon Gavalas
 tags:
   - heroes-and-knaves
   - guilded

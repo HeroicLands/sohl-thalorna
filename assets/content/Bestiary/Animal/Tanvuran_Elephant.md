@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tānvüran Elephant
-  - Tanvuran Elephant
 tags:
   - animal
 name:

@@ -1,8 +1,5 @@
 ---
 description: "Water."
-aliases:
-  - Zhütshüt Lüng
-  - Zhutshut Lung
 id: uKG7YwrB6Z7ZXJVP
 tags:
   - celestial-order

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ymir
 tags:
   - draft
 id: 07S55XmjAZVNXDdv

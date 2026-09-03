@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ázráván
 tags:
   - draft
 id: VHXqdgn0ms1dkjup

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alyssar
 id: tcjuUdxJxxs60dLX
 tags:
   - capital

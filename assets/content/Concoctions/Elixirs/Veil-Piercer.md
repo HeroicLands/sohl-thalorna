@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Veil-Piercer
-  - Ghostsight Elixir
 tags:
   - elixir
 name:
   full: Veil-Piercer
-  aliases: []
+  aliases:
+    - Ghostsight Elixir
 description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."
 id: 01PVAroCjrcBtlNi
 img: icons/potion.svg

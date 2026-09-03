@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pyroclasm
 tags:
   - elemental
 name:

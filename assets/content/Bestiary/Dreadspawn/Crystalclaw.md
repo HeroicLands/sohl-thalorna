@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crystalclaw
 tags:
   - dreadspawn
 name:

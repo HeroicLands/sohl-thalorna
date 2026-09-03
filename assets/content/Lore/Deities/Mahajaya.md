@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mahájaya
 tags:
   - draft
 id: iosYdLqeDq9zwuif

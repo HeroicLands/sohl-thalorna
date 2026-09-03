@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valdosta
 id: mT25GbjyVhZHPVHL
 tags:
   - town

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sir Drazha Sycâni Knight of the Black Flame
-  - Sir Drazha Sycâni, Knight of the Black Flame
-  - Sir Drazha Sycani
 tags:
   - heroes-and-knaves
   - hero
@@ -15,6 +11,7 @@ name:
   home: Telvári
   aliases:
     - Knight of the Black Flame
+    - Sir Drazha Sycani
 id: quoq4fCBYQEsUFGC
 folder: mtJ4TzKdySHbE2OM
 shortcode: srdrzhsycnknghtblckflm

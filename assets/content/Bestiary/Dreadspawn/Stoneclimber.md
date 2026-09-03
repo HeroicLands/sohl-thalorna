@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stoneclimber
 tags:
   - dreadspawn
 name:

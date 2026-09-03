@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ángelides Kantakouzenós
-  - Ángelides Kantakouzenós
-  - Angelides Kantakouzenos
 tags:
   - heroes-and-knaves
   - guilded

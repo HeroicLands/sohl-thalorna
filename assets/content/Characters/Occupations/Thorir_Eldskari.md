@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thórir Eldskari
-  - Thorir Eldskari
 tags:
   - todo-warrior
   - draft

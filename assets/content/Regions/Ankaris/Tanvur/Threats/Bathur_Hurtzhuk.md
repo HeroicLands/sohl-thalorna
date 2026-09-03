@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bāthür Hürtzhük
-  - Bathur Hurtzhuk
 id: 1pwOmb53lxa04h1Z
 type: lore
 subType: history

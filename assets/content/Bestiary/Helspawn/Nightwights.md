@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nightwights
 tags:
   - helspawn
 name:

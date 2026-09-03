@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Spindlefiend
 tags:
   - dreadspawn
 name:

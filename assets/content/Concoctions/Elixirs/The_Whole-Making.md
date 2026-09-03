@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Whole-Making
-  - Mending Elixir
 tags:
   - elixir
 name:
   full: The Whole-Making
-  aliases: []
+  aliases:
+    - Mending Elixir
 description: "Shimmering silvery liquid; repairs damage to broken objects."
 id: s5yczTmecThiW44P
 img: icons/potion.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eda Somervell
 tags:
   - draft
   - tradesfolk

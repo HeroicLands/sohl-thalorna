@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Incantus Kentra
 tags:
   - hex-hodai
 type: skill

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dhal
 tags: []
 name:
   full: Dhal

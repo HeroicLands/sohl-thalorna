@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Týr"
-  - The Just Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: tyr
 img: images/affiliation/tyr.webp
 name:
   full: "Ritual: Týr"
-  aliases: []
+  aliases:
+    - The Just Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dhanurkota Janapada
-  - Dhanurkota
-  - The Janapada of the Bow-Fort
 tags: []
 type: affiliation
 description: The temple-republic of Dhanurkota — fourteen villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong warrior-caste presence and famed across Vedyara for its archery academies.

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Akákios Polytimós
-  - Akákios Polytimós
-  - Akakios Polytimos
 tags:
   - heroes-and-knaves
   - common-folk

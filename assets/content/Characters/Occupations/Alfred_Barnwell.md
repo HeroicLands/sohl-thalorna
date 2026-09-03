@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alfred Barnwell
 tags:
   - draft
   - mages

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ironjaw
 tags:
   - dreadspawn
 name:

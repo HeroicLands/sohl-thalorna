@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hródar Arnthúl
-  - Hrodar Arnthul
 tags:
   - blackpine-wolves
   - brigand

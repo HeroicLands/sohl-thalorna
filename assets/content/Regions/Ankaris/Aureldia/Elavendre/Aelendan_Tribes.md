@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Áelendan Tribes
-  - Aelendan Tribes
 id: 1X3hyHGrQc0lEgZK
 description: ""
 type: affiliation

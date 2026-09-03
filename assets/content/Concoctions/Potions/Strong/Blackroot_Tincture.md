@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Blackroot Tincture
-  - "Potion, Poison, Strong"
 tags:
   - strong-elixir
 name:
   full: Blackroot Tincture
-  aliases: []
+  aliases:
+    - Potion, Poison, Strong
 description: "Vivid green oily liquid; causes violent illness and death."
 id: s5ec54onwXf6YvUJ
 img: icons/potion.svg

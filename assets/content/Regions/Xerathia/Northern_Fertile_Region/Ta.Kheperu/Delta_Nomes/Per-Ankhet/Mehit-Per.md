@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mehit-Per
 id: npslWzZvPEG6O2PA
 tags:
   - town

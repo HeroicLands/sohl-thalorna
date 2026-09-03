@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kjôrvan Gjârlen
-  - Kjôrvan Gjârlen
-  - Kjorvan Gjarlen
 tags:
   - heroes-and-knaves
   - guilded

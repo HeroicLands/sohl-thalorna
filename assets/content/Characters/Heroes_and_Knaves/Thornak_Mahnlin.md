@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thornak Blodtūsc Bār
-  - Thornak Mahnlin
 tags:
   - heroes-and-knaves
   - hero
@@ -15,6 +12,7 @@ name:
   aliases:
     - The Boar-Totem Warrior
     - Blodtūsc Bār
+    - Thornak Mahnlin
 id: hH7o4YAGiDlrPEZb
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrnkbldtscbr

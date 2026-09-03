@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pata
 tags: []
 name:
   full: Pata

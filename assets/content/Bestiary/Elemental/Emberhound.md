@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Emberhound
 tags:
   - elemental
 name:

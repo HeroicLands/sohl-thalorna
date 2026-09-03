@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alarm
 tags: []
 name:
   full: Alert

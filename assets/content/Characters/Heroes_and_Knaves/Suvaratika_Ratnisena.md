@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Suvaratika Ratniseṇa
-  - Suvaratika Ratniseṇa
-  - Suvaratika Ratnisena
 tags:
   - heroes-and-knaves
   - tradesfolk

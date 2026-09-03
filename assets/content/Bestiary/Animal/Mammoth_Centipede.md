@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mammoth Centipede
 tags:
   - animal
 name:

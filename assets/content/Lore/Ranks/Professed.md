@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Professed
 tags:
   - draft
 id: ldZgYOrVQot8JI1w

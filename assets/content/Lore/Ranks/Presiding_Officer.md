@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Presiding Officer
 tags:
   - draft
 id: FSUIl6z96VdJCvaA

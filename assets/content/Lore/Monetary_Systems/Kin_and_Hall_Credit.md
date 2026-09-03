@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Kin and Hall Credit
-  - Tribal Credit
-  - Hall Credit
-  - Kin Credit
 tags:
   - reference
   - currency
@@ -17,6 +12,8 @@ name:
   full: Kin and Hall Credit
   aliases:
     - Tribal Credit
+    - Hall Credit
+    - Kin Credit
 shortcode: kinhalcrdt
 folder:
 ---

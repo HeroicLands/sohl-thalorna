@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bránakis Kâserânis
-  - Bránakis Kâserânis
-  - Branakis Kaseranis
 tags:
   - heroes-and-knaves
   - guilded

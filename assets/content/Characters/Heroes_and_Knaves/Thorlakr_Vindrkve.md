@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorlákr Vindrkvé
-  - Thorlákr Vindrkvé
-  - Thorlakr Vindrkve
 tags:
   - heroes-and-knaves
   - common-folk

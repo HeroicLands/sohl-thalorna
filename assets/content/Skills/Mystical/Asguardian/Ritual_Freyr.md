@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Fréyr"
-  - The Verdant Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: freyr
 img: images/affiliation/freyr.webp
 name:
   full: "Ritual: Fréyr"
-  aliases: []
+  aliases:
+    - The Verdant Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

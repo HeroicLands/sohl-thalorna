@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vúlcan
 tags:
   - draft
 id: mVAQbFimfOR8HnXS

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Óðinn"
-  - The Enlightened Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: odinn
 img: images/affiliation/odinn.webp
 name:
   full: "Ritual: Óðinn"
-  aliases: []
+  aliases:
+    - The Enlightened Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

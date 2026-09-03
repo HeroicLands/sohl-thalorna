@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Míthárä
 tags:
   - draft
 id: apJ2HYvLKEC17ZF7

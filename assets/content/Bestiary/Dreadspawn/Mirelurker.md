@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mirelurker
 tags:
   - dreadspawn
 name:

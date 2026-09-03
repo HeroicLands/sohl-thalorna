@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sharmînah Tahvân
-  - Sharmînah Tahvân
-  - Sharminah Tahvan
 tags:
   - heroes-and-knaves
   - todo

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forest Goblin
 tags:
   - folk
 name:

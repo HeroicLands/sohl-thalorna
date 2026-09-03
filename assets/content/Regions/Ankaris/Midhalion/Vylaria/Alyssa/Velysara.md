@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Velysâra
-  - Velysara
 id: 2I43nt8D8FSmXEY4
 tags:
   - city

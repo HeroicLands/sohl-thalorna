@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Byzarian
 tags:
   - draft
 id: rg2KWMLP3bYJnxgI

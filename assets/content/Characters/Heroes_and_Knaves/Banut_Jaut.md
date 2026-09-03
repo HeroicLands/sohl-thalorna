@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bânut Jâut
-  - Bânut Jâut
-  - Banut Jaut
 tags:
   - heroes-and-knaves
   - guilded

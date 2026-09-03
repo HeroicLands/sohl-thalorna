@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bǫthvarr Sólvargr
-  - Bǫthvarr Sólvargr
-  - Bothvarr Solvargr
 tags:
   - heroes-and-knaves
   - soldiery

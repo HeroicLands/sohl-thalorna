@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Liranel
 id: 125j2DAi5wNhmQMA
 tags:
   - town

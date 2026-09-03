@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yokveng
-  - The Demon Realm
-  - The Infernal Realms
 id: nAT05cIm5QE8RnLF
 tags:
   - celestial-order
@@ -11,6 +7,7 @@ name:
   full: Yokveng
   aliases:
     - The Demon Realm
+    - The Infernal Realms
 shortcode: yokveng
 type: affiliation
 subType: faithtradition

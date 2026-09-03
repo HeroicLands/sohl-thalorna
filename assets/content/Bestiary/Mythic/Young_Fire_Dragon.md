@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Young Fire Dragon
 tags:
   - mythic
   - image-needed

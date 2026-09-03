@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Frostwing
 tags:
   - elemental
 name:

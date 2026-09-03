@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Týr
 tags:
   - draft
 id: TGGqhmqkbWfPDoyw

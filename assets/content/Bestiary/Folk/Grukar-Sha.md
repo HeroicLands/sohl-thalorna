@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grukar-Sha
 tags:
   - folk
 name:

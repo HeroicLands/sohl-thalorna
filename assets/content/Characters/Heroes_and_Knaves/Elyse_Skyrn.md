@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elýsè Skýrn
 tags:
   - hero
   - silent-talon

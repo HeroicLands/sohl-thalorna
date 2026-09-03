@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rest
 tags: []
 name:
   full: Stillness

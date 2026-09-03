@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Lysándros Chrysanthópoulos
-  - Lysándros Chrysanthópoulos
-  - Lysandros Chrysanthopoulos
 tags:
   - heroes-and-knaves
   - guilded

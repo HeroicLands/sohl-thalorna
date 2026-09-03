@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeşilhan
 id: pIq5WRv3f9mIgJHz
 tags:
   - city

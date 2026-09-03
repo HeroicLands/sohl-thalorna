@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vígbrandr Skýrekkr
-  - Vígbrandr Skýrekkr
-  - Vigbrandr Skyrekkr
 tags:
   - heroes-and-knaves
   - guilded

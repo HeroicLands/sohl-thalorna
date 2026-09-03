@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Incantus Sidéros
-  - Incantus Sideros
 tags:
   - hex-hodai
 type: skill

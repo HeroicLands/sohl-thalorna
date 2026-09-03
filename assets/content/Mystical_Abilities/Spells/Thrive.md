@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Growth
 tags: []
 name:
   full: Thrive

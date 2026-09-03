@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brákôs Hârlânis
-  - Brakos Harlanis
 tags:
   - todo-warrior
   - draft

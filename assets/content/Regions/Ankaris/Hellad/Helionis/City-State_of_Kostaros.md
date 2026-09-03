@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kostaros
-  - City-State of Kostaros
 id: ACWYsT3UvDpr6Do1
 description: "City-state of Helionis on the coast, governing the surrounding district including the town of Myrtillos."
 type: affiliation

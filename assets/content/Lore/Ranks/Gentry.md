@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gentry
 tags:
   - draft
 id: WqvS1RBU7KtdFW6E

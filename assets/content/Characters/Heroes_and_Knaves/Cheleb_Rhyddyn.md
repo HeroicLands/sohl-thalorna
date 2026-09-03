@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chéleb Rhýddýn
 tags:
   - character
   - hero

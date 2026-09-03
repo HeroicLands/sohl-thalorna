@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haukstad
 id: jjrNvguHkGppBHx6
 tags:
   - post

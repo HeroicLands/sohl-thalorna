@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ch'akul Tza'kul
 tags:
   - polity
 title: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Golshahr
 id: SulSgH0GRCJUbMll
 tags:
   - city

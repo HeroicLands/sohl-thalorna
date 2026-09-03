@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korinthel
 id: RRmQE1eVIBxDLVXi
 tags:
   - port

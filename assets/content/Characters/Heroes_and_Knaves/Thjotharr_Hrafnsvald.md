@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thjótharr Hrafnsvald
-  - Thjotharr Hrafnsvald
 tags:
   - heroes-and-knaves
   - tradesfolk

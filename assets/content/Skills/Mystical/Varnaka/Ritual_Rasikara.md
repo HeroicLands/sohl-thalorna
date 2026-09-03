@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Rásikara"
-  - Rásikara
-  - Rasikara
-  - The Flame of Renewal
 tags:
   - varnaka
   - faith-skill
@@ -13,7 +8,10 @@ id: lHkXWIwppqaaXnSW
 shortcode: rasikara
 name:
   full: "Ritual: Rásikara"
-  aliases: []
+  aliases:
+    - Rásikara
+    - Rasikara
+    - The Flame of Renewal
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Floréth Bránthira
-  - Floreth Branthira
 tags:
   - draft
   - common-folk

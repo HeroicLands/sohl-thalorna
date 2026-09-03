@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Starcrawler
 tags:
   - spirit
 name:

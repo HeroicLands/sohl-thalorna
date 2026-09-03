@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mature Ice Dragon
 tags:
   - mythic
   - image-needed

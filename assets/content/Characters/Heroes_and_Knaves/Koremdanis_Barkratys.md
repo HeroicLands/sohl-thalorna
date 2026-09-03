@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Korêmdânis Bárkrâtys
-  - Korêmdânis Bárkrâtys
-  - Koremdanis Barkratys
 tags:
   - heroes-and-knaves
   - soldiery

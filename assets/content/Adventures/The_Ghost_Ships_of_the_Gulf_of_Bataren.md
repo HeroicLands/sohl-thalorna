@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Ghost Ships of the Gulf of Batáren
-  - The Ghost Ships of the Gulf of Bataren
 id: kL30gvIcF47D6ASE
 name:
   full: The Ghost Ships of the Gulf of Batáren

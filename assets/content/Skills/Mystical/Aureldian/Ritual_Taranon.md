@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Taranon"
-  - Táranon
-  - The Thunderer
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: taranon
 img: images/affiliation/taranon.webp
 name:
   full: "Ritual: Taranon"
-  aliases: []
+  aliases:
+    - Táranon
+    - The Thunderer
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

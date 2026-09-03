@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chandrapur
 id: u06VCq3gWTSKlQJZ
 tags:
   - city

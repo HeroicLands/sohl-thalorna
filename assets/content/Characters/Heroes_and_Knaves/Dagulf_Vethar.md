@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dágulf Véthar
-  - Dagulf Vethar
 tags:
   - blackpine-wolves
   - brigand

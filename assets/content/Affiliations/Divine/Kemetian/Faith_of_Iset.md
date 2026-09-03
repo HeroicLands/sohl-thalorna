@@ -1,10 +1,5 @@
 ---
 description: "Fertility & Healing."
-aliases:
-  - Faith of Íšét
-  - Mother of New Beginnings
-  - Íšét
-  - Iset
 id: mUm5RJA1Qwqj3EjJ
 tags:
   - kemetian
@@ -106,7 +101,10 @@ sohl:
   archetype: null
 name:
   full: Faith of Íšét
-  aliases: []
+  aliases:
+    - Mother of New Beginnings
+    - Íšét
+    - Iset
 shortcode: iset
 banner: banners/ta-kheperu-banner.webp
 alias: Íšét, Mother of New Beginnings and Restorer of Health

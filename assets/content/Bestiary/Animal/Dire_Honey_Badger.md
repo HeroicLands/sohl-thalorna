@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dire Honey Badger
 tags:
   - animal
 name:

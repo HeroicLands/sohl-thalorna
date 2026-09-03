@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashkarad
 id: kDexjFi0gHnVg2xA
 tags:
   - town

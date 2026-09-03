@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha' Xaman
 tags:
   - polity
 title: ""

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kemetian Pantheon
-  - Kemetian
 id: Tmc9larsiBHNJ3ZD
 tags:
   - pantheon
@@ -12,6 +9,7 @@ name:
   full: Kemetían Pantheon
   aliases:
     - The Twelve of the River
+    - Kemetian
 banner: banners/ta-kheperu-banner.webp
 shortcode: kemtnpnthn
 type: affiliation

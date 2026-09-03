@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Swampgolem
 tags:
   - dreadspawn
 name:

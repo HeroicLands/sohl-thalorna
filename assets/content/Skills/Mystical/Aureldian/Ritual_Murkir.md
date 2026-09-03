@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Murkir"
-  - Múrkír
-  - The Wayfarer
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: murkir
 img: images/affiliation/murkir.webp
 name:
   full: "Ritual: Murkir"
-  aliases: []
+  aliases:
+    - Múrkír
+    - The Wayfarer
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

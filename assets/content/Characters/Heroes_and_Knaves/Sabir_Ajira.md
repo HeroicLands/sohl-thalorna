@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sâbir Âjira
-  - Sâbir Âjira
-  - Sabir Ajira
 tags:
   - heroes-and-knaves
   - guilded

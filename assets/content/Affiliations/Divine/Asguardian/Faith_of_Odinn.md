@@ -1,7 +1,5 @@
 ---
 description: "Knowledge and Wisdom."
-aliases:
-  - Faith of Oðinn
 id: G4BhgaiMv2pTKezK
 tags:
   - asguardian

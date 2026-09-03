@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gloomfang
 tags:
   - dreadspawn
 name:

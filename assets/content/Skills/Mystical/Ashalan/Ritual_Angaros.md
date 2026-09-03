@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ángáróš"
-  - The Shadowed Serpent
 tags:
   - ashalan
   - faith-skill
@@ -11,7 +8,8 @@ id: DXJgxzKWL7gWh3Zi
 shortcode: angaros
 name:
   full: "Ritual: Ángáróš"
-  aliases: []
+  aliases:
+    - The Shadowed Serpent
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

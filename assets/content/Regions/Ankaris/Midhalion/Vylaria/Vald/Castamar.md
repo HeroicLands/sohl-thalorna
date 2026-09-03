@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Castamar
 id: Vd9rKx2mWp7Tb4Ln
 tags:
   - city

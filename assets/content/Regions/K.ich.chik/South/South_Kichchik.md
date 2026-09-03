@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Southern K'ich'chik
 id: 8vKZQIhOcNjXSRjS
 tags:
   - region

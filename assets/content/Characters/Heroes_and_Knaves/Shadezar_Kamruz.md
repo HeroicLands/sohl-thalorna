@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Shâdezar Kamruz
-  - Shâdezar Kamruz
-  - Shadezar Kamruz
 tags:
   - heroes-and-knaves
   - administration

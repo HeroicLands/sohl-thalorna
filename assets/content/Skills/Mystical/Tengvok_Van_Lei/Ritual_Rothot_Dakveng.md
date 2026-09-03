@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Röthöt Dākvëng"
-  - Röthöt Dākvëng
-  - Rothot Dakveng
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,7 +8,9 @@ id: M4V1X9qbD7dlpAyC
 shortcode: rothtdkvng
 name:
   full: "Ritual: Röthöt Dākvëng"
-  aliases: []
+  aliases:
+    - Röthöt Dākvëng
+    - Rothot Dakveng
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

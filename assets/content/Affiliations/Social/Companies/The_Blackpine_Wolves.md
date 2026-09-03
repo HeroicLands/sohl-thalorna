@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Blackpine Wolves
 tags:
   - company
   - brigands

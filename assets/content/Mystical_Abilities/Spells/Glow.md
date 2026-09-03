@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lustre
 tags: []
 name:
   full: Glow

@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Zephäris's Mantle"
-  - Iceshield Elixir
 tags:
   - elixir
 name:
   full: "Zephäris's Mantle"
-  aliases: []
+  aliases:
+    - Iceshield Elixir
 description: "Pale frosted blue elixir; grants protection against cold elements."
 id: Y5C2npA6Pkp4FVxt
 img: icons/potion.svg

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Thári'vaan"
-  - "Thári'vaan"
-  - The Living Whole
 tags:
   - tharivaan
   - faith-skill
@@ -12,7 +8,9 @@ id: 35hBhSr9lDRVfP5D
 shortcode: tharivaan
 name:
   full: "Ritual: Thári'vaan"
-  aliases: []
+  aliases:
+    - Thári'vaan
+    - The Living Whole
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

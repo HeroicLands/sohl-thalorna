@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Azatô Dâemzânis
-  - Azato Daemzanis
 tags:
   - draft
   - guilded

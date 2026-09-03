@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cervalia
 id: Hy5pGx4wUm9Sb3Ld
 tags:
   - town

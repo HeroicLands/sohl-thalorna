@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harpy
 tags:
   - mythic
   - image-needed

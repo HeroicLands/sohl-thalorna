@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lúsinía
 tags:
   - draft
 id: cYx1jstE26mZhur0

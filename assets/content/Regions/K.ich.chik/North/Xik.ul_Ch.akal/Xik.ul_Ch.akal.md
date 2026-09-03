@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Xik'ul Ch'akal
 tags:
   - polity
 title: ""

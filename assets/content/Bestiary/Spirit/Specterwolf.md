@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Specterwolf
 tags:
   - spirit
 name:

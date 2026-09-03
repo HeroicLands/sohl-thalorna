@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Girdanû Rashîmû
-  - Girdanu Rashimu
 tags:
   - draft
   - soldiery

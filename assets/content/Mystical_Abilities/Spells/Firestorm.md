@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Firestorm
-  aliases:
-    - Firestorm
+  aliases: []
 description: "Conjures whirling inferno; swirls consuming flames across wide area."
 id: YopkLlE1KVzjcnZS
 img: icons/fire.svg

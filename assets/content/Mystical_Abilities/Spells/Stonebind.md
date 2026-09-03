@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Petrification
 tags: []
 name:
   full: Stonebind

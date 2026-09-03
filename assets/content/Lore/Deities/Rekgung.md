@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rëkgüng
 tags:
   - draft
 id: afyCvLtkH5sjWODd

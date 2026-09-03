@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dûn Ashir
-  - Dun Ashir
 id: OEZyUT8hxlPoOJhD
 tags:
   - oasis

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigríthr Hafringr
-  - Sigrithr Hafringr
 tags:
   - todo-warrior
   - draft

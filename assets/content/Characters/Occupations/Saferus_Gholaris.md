@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sáfêrús Ghôlâris
-  - Saferus Gholaris
 tags:
   - draft
   - tradesfolk

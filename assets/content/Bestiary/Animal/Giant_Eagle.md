@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Eagle
 tags:
   - animal
 name:

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kárr Íseldr
-  - Kárr Íseldr
-  - Karr Iseldr
 tags:
   - heroes-and-knaves
   - tradesfolk

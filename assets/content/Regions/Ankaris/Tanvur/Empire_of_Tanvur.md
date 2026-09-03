@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tānvür Empire
-  - Empire of Tānvür
-  - Tanvur Empire
 tags:
   - region
   - Ankaris

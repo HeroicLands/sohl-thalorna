@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cassia Verric
 tags:
   - heroes-and-knaves
   - hero

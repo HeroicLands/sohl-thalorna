@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corvinus
 id: 0yneTHleAxbUv6TI
 tags:
   - garrison

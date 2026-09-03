@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Palatium Magnum
-  - The Grand Palace
 tags:
   - settlement
   - vylaria

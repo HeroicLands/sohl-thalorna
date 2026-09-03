@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Earthreaver
 tags:
   - dreadspawn
 name:

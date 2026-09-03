@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crag Lurker
 tags:
   - animal
 name:

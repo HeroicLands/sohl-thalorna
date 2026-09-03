@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vylarian Citizenship
-  - Citizenship
-  - Citizens and Residents
 tags:
   - reference
   - vylaria
@@ -17,6 +13,7 @@ name:
   full: Vylarian Citizenship
   aliases:
     - Citizenship
+    - Citizens and Residents
 shortcode: vylrnctznshp
 folder:
 ---

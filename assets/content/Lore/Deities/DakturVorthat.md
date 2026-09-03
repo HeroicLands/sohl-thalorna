@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dāktūr Vōrthāt
 tags:
   - draft
 id: tBeW46gk1BguLeiJ

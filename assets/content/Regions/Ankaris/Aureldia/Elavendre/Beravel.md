@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Béravel
 tags:
   - city
 description: "City"

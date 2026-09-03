@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dragonfly Hawk
 tags:
   - animal
 name:

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Šírvádár"
-  - The Wandering Guide
 tags:
   - ashalan
   - faith-skill
@@ -11,7 +8,8 @@ id: U7Qonussj1BpCASX
 shortcode: sirvadar
 name:
   full: "Ritual: Šírvádár"
-  aliases: []
+  aliases:
+    - The Wandering Guide
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

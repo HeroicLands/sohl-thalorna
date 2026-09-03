@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Candour
 tags: []
 name:
   full: Truthflare

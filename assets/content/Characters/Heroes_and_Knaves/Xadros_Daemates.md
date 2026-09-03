@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Xadrôs Dâemâtês
-  - Xadrôs Dâemâtês
-  - Xadros Daemates
 tags:
   - heroes-and-knaves
   - tradesfolk

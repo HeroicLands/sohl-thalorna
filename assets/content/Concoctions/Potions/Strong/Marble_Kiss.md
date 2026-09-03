@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Marble Kiss
-  - "Potion, Paralytic, Strong"
 tags:
   - strong-elixir
 name:
   full: Marble Kiss
-  aliases: []
+  aliases:
+    - Potion, Paralytic, Strong
 description: "Clouded murky pale greenish draft; causes paralysis and petrification."
 id: rtycig2DxAVWwBpk
 img: icons/potion.svg

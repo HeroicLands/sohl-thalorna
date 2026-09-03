@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadowstalker
 tags:
   - spirit
 name:

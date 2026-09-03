@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forest Drake
 tags:
   - animal
 name:

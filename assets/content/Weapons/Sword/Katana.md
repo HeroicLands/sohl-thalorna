@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Katana
 tags: []
 name:
   full: Katana

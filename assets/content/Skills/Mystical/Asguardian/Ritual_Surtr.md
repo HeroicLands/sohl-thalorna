@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Súrtr"
-  - The Flameborn Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: surtr
 img: images/affiliation/surtr.webp
 name:
   full: "Ritual: Súrtr"
-  aliases: []
+  aliases:
+    - The Flameborn Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

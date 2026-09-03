@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cibella Serentia
 tags:
   - tamzir-crew
   - dependents

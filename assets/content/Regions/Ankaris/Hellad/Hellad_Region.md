@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Hellád
-  - Hellad Region
 tags:
   - region
 description: Crossroads region of southern Ankaris — a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
 name:
   full: Hellád Region
-  aliases: []
+  aliases:
+    - Hellád
 id: fT0m0zgori7CbpJj
 shortcode: heladrgn
 img: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beit-Shōfár
 id: Jh8qC0VOgrks0Ums
 tags:
   - settlement

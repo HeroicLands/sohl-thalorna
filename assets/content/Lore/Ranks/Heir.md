@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heir
 tags:
   - draft
 id: vbAWsvbwAkq6CU1x

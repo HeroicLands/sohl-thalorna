@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rootwraith
 tags:
   - dreadspawn
 name:

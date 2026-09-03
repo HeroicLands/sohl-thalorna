@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Járnskel
-  - Thorsteinn Járnskel
-  - Thorsteinn Jarnskel
 tags:
   - heroes-and-knaves
   - common-folk

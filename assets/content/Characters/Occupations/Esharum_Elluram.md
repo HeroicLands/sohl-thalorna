@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Eshârum Ellûram
-  - Esharum Elluram
 tags:
   - draft
   - common-folk

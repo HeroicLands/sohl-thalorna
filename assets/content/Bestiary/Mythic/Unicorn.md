@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Unicorn
 tags:
   - mythic
   - image-needed

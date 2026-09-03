@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stennvold
 id: Mk9vNx3kSp2Rb8Lt
 tags:
   - town

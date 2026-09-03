@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kingshollow
 id: jhd8AiAzVvvLpI9j
 tags:
   - town

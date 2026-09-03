@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kêlena Stýlgon
-  - Kêlena Stýlgon
-  - Kelena Stylgon
 tags:
   - heroes-and-knaves
   - administration

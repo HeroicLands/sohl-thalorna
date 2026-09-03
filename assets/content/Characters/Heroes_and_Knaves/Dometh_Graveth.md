@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dómeth Gráveth
-  - Dómeth Gráveth
-  - Dometh Graveth
 tags:
   - heroes-and-knaves
   - guilded

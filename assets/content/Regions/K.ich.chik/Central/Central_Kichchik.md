@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Central K'ich'chik
 id: ulBQTuyyMdgRsVWW
 tags:
   - region

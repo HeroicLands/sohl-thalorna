@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Āhúrdáén"
-  - The Keeper of Harmony
-  - Ahura Mazda
 tags:
   - ashalan
   - faith-skill
@@ -12,7 +8,9 @@ id: FPbUzVB3RDuzU9NX
 shortcode: ahurdaen
 name:
   full: "Ritual: Āhúrdáén"
-  aliases: []
+  aliases:
+    - The Keeper of Harmony
+    - Ahura Mazda
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Pallàvi Drâviksha
-  - Pallàvi Drâviksha
-  - Pallavi Draviksha
 tags:
   - heroes-and-knaves
   - guilded

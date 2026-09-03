@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nékropolis
-  - Nekropolis
 id: oVedEJI68W2dAXzt
 type: place
 subType: region

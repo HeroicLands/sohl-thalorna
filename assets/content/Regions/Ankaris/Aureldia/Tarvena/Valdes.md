@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valdés
-  - Valdes
 id: 76CpaejmRGneqpDj
 tags:
   - port

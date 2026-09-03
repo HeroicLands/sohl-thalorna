@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Freedman
 tags:
   - draft
 id: uk77fDswLRrdwP27

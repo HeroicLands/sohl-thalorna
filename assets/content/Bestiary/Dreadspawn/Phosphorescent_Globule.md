@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Phosphorescent Globule
 tags:
   - dreadspawn
 name:

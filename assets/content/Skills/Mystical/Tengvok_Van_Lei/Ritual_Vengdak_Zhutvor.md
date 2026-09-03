@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vëngdāk Zhütvōr"
-  - Vëngdāk Zhütvōr
-  - Vengdak Zhutvor
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,7 +8,9 @@ id: hCLRzI9YNf2BpYPH
 shortcode: vngdkzhtvr
 name:
   full: "Ritual: Vëngdāk Zhütvōr"
-  aliases: []
+  aliases:
+    - Vëngdāk Zhütvōr
+    - Vengdak Zhutvor
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Drákonis Dalássênos
-  - Drákonis Dalássênos
-  - Drakonis Dalassenos
 tags:
   - heroes-and-knaves
   - common-folk

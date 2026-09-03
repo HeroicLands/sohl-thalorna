@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Order of the Sealed Word
-  - Order of the Sealed Word
-  - Ordo Verbi Signati
 tags:
   - organization
   - aureldia

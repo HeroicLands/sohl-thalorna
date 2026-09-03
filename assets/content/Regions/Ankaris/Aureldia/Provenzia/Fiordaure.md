@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fiòrdaure
-  - Fiordaure
 id: lxDnKhmbJQmfcnlU
 tags:
   - town

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Astrokýklos
 tags: []
 name:
   full: Astrokýklos

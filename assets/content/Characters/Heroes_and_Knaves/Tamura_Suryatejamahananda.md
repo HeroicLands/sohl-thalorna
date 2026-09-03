@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tamûra Sūryatejamahānanda
-  - Tamûra Sūryatejamahānanda
-  - Tamura Suryatejamahananda
 tags:
   - heroes-and-knaves
   - tradesfolk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Councillor
 tags:
   - draft
 id: 2xZVKOv4osSZFQaM

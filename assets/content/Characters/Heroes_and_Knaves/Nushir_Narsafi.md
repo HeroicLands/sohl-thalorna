@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Nushir Narsâfî
-  - Nushir Narsâfî
-  - Nushir Narsafi
 tags:
   - heroes-and-knaves
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz’ikin K’ul
 id: YxOv20w4CsGfROM5
 tags:
   - fortress

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pédroth Jútharen
-  - Pedroth Jutharen
 tags:
   - draft
   - tradesfolk

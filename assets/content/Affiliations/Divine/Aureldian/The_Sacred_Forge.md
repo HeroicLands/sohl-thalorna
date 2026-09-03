@@ -1,7 +1,5 @@
 ---
 description: "Fire (creative aspect)."
-aliases:
-  - The Sacred Forge
 id: MubmTACxWXEdelLk
 tags:
   - aureldian

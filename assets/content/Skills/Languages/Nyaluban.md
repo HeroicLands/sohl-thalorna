@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Nyáluban
-  - Nyaluban
 tags: []
 name:
   full: Nyáluban Language
-  aliases: []
+  aliases:
+    - Nyáluban
+    - Nyaluban
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
 id: 3d7FEndelpU7xeHV
 img: icons/speaking.svg

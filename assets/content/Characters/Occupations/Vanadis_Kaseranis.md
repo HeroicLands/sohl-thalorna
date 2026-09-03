@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vanâdîs Kâserânis
-  - Vanadis Kaseranis
 tags:
   - draft
   - administration

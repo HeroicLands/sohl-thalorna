@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Sultanate of Amradad
-  - Amradad
 id: FCDitFqLgistUMZe
 description: "Sultanate ruling the Dunhara Desert — settled kingdom of oases, merchant cities, and Islamic-flavored culture distinct from the nomadic tribes."
 type: affiliation
 name:
   full: Sultanate of Amradad
-  aliases: []
+  aliases:
+    - Amradad
 shortcode: sultntmrdd
 subType: polity
 data:

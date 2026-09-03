@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Boomerang
 tags: []
 name:
   full: Boomerang

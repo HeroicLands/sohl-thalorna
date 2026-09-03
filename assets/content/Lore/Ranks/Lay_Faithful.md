@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lay Faithful
 tags:
   - draft
 id: qPBNFSaLm640q53I

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stygian Leviathan
 tags:
   - dreadspawn
 name:

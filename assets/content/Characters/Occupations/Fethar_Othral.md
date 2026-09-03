@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Féthar Óthral
-  - Fethar Othral
 tags:
   - draft
   - tradesfolk

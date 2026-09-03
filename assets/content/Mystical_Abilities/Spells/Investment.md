@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Investment
-  aliases:
-    - Investment
+  aliases: []
 description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
 id: uJg3j6BQHQJDaAnZ
 img: icons/circle.svg

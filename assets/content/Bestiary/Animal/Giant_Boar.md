@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Boar
 tags:
   - animal
 name:

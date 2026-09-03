@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calendar and Astrology
 id: PLoeMYg2nCbgYuDi
 type: lore
 subType: calendar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kashmuret
 id: OuVksHRIQjPWu72i
 tags:
   - town

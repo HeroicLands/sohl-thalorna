@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grimholt
 id: nslauvnDvb7PsYKm
 tags:
   - village

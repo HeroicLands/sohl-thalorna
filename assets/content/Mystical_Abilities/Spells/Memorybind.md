@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Recollection
 tags: []
 name:
   full: Memorybind

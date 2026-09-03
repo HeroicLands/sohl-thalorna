@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Janapadas of Vedyara
-  - Mahā-Saṅgha of Vedyara
-  - The Vedyari Janapadas
-  - The Temple-Republics of Vedyara
 tags: []
 type: affiliation
 description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics — the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varṇaka tradition.
@@ -12,6 +7,7 @@ name:
   aliases:
     - Mahā-Saṅgha of Vedyara
     - The Temple-Republics of Vedyara
+    - The Vedyari Janapadas
 id: V8KrM9dT3wPq2nXc
 shortcode: janpdsvdyr
 subType: polity

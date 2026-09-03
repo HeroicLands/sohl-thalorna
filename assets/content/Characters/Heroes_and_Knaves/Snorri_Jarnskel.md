@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Snorri Járnskel
-  - Snorri Járnskel
-  - Snorri Jarnskel
 tags:
   - heroes-and-knaves
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunkelwald
 id: BvtBiuBimYBhWyf6
 tags:
   - settlement

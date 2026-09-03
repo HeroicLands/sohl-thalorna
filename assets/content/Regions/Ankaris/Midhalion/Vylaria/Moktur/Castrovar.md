@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Castrovar
 id: Mk3hNx7mEq9Rb2Lt
 tags:
   - fortress

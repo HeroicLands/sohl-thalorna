@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ptā'h
 tags:
   - draft
 id: UUk1Nn9fnhaWDJKV

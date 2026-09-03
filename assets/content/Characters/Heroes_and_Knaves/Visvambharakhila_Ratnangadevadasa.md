@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Viśvambhārākhila Ratnāṅgadēvadāsa
-  - Viśvambhārākhila Ratnāṅgadēvadāsa
-  - Visvambharakhila Ratnangadevadasa
 tags:
   - heroes-and-knaves
   - guilded

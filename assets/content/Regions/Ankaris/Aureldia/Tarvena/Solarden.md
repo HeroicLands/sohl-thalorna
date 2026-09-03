@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Solárden
-  - Solarden
 id: OXCppoDSENMyNm24
 tags:
   - town

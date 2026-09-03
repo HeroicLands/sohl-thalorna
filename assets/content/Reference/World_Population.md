@@ -1,8 +1,4 @@
 ---
-aliases:
-  - World Population
-  - Population of Thalorna
-  - Thalorna Demographics
 tags:
   - reference
   - demographics
@@ -15,6 +11,8 @@ name:
   full: World Population of Thalorna
   aliases:
     - Thalorna Demographics
+    - World Population
+    - Population of Thalorna
 shortcode: wrldppltnthlrn
 folder:
 ---

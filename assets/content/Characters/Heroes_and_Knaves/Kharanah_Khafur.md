@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Khârânah Khafûr
-  - Khârânah Khafûr
-  - Kharanah Khafur
 tags:
   - heroes-and-knaves
   - guilded

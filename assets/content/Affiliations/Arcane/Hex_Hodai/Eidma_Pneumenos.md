@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Pneuménos
 tags:
   - hex-hodai
 type: affiliation
@@ -93,7 +91,8 @@ shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
 name:
   full: Pneuménos
-  aliases: []
+  aliases:
+    - Eídma Pneuménos
 sohl:
   archetype: null
 thalorna:

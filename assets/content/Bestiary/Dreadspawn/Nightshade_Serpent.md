@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nightshade Serpent
 tags:
   - dreadspawn
 name:

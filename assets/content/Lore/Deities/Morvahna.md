@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mórváhñä
 tags:
   - draft
 id: iTmWDlMDkCiXw2uY

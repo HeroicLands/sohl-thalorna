@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Eiríkr Lawgiver
-  - Eirikr Lawgiver
 tags:
   - paragon
   - heroes-of-asguard

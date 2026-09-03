@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brennvik
 id: Vd5vNx3kBp8Rb2Lt
 tags:
   - town

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kávrenath
 id: rpSFTksRLO0nmlv9
 tags:
   - town

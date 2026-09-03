@@ -1,14 +1,12 @@
 ---
-aliases:
-  - Delta Nomes
-  - The Delta Nomes of Ta'Kheperu
 id: R5bx9iJVQWKNl83B
 description: "The wealthiest and most cosmopolitan class of Kheperi nomes — the river-mouth provinces where the great river fans into the sea, controlling the empire's international trade, its finest garden-farmland, and its polyglot ports."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Delta Nomes
-  aliases: []
+  aliases:
+    - The Delta Nomes of Ta'Kheperu
 shortcode: deltanomes
 subType: polity
 data:

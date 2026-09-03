@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Human Folk
 tags:
   - lore
   - lineage

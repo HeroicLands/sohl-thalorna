@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Paryan Barmandan
 tags:
   - heroes-and-knaves
   - guilded

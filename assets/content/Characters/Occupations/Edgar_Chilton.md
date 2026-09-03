@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edgar Chilton
 tags:
   - draft
   - tradesfolk

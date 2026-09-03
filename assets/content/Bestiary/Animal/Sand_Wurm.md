@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sand Wurm
 tags:
   - animal
 name:

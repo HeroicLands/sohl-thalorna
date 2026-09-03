@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Asbjorn Oakheart
 tags:
   - demigod
   - heroes-of-asguard

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelagora
 id: zbCX6Tb8noi8LFDF
 tags:
   - city

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thálassos
-  - Thalassos
 id: 6pXLtYkfQc7JDzuS
 tags:
   - port

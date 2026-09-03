@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shamsûn
-  - Shamsun
 id: nlCErQbCazleD3Ns
 tags:
   - oasis

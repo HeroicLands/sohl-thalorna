@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rupture
 tags: []
 name:
   full: Shattermind

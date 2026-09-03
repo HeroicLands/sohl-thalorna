@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Súrtr
 tags:
   - draft
 id: tlmdnZSz2H43OKsV

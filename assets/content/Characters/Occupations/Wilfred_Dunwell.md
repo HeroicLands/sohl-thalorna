@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wilfred Dunwell
 tags:
   - draft
   - common-folk

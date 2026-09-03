@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shükrën
-  - Shukren
 id: cNe8pvkuffxHbqXo
 type: lore
 subType: culture

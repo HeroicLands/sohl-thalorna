@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrafnkell Hrafnsvald
 tags:
   - heroes-and-knaves
   - guilded

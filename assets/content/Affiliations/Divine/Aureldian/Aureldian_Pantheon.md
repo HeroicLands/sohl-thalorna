@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Aurèldían Pantheon
-  - Aureldian Pantheon
-  - Aurèldían pantheon
-  - Aureldian pantheon
 id: MB1QS9G4v0JW9Osw
 tags:
   - pantheon

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The God of Dreams
 id: 4prEOILdB8O1sX7q
 tags:
   - deity

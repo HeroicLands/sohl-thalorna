@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zárványä
 tags:
   - draft
 id: T8kflOeqLM2Xz0iz

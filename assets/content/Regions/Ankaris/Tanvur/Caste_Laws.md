@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caste Laws
 id: EWgtewbsESDxr4KT
 type: lore
 subType: law

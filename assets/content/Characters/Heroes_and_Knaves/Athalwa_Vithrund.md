@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Athalwa Vithrúnd
-  - Athalwa Vithrúnd
-  - Athalwa Vithrund
 tags:
   - heroes-and-knaves
   - administration

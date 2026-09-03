@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Settlements
 id: XrNhDp75YDEKcxWD
 name:
   full: Settlements

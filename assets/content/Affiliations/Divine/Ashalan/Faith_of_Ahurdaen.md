@@ -1,9 +1,5 @@
 ---
 description: "Order."
-aliases:
-  - Faith of Āhúrdáén
-  - The Keeper of Harmony
-  - Ahura Mazda
 id: oFQdmjINfzgmiQvH
 tags:
   - religion
@@ -104,7 +100,9 @@ sohl:
   archetype: null
 name:
   full: Faith of Āhúrdáén
-  aliases: []
+  aliases:
+    - The Keeper of Harmony
+    - Ahura Mazda
 shortcode: ahurdaen
 alias: Āhúrdáén, The Keeper of Harmony
 folder: 7so6UiPt445oIHWs

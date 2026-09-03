@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Ant
 tags:
   - animal
 name:

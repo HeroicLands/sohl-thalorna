@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Abyssal Silt
 tags:
   - dreadspawn
 name:

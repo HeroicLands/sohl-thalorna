@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hârlak Válskyr
-  - Harlak Valskyr
 tags:
   - draft
   - tradesfolk

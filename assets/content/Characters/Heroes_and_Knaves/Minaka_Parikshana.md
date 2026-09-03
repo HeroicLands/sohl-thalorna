@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Minàka Parikṣhana
-  - Minàka Parikṣhana
-  - Minaka Parikshana
 tags:
   - heroes-and-knaves
   - common-folk

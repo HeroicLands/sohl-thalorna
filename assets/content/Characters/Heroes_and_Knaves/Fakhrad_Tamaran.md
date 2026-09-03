@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Fakhrad Tamârân
-  - Fakhrad Tamârân
-  - Fakhrad Tamaran
 tags:
   - heroes-and-knaves
   - guilded

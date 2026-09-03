@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Phantomwing
 tags:
   - spirit
 name:

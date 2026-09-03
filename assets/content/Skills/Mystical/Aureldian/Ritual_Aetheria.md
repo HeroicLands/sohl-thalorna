@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Æthería"
-  - Æthería
-  - Aetheria
-  - The Veiled Dreamer
 tags:
   - aureldian
   - faith-skill
@@ -14,7 +9,10 @@ shortcode: aetheria
 img: images/affiliation/aetheria.webp
 name:
   full: "Ritual: Æthería"
-  aliases: []
+  aliases:
+    - Æthería
+    - Aetheria
+    - The Veiled Dreamer
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

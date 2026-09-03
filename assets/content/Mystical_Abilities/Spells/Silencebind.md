@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hush
 tags: []
 name:
   full: Silencebind

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Damáklios Sampsiôn
-  - Damáklios Sampsiôn
-  - Damaklios Sampsion
 tags:
   - heroes-and-knaves
   - tradesfolk

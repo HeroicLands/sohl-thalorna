@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Drekavík
-  - Drekavik
 id: dFMvJ2wRf3xqTdLU
 tags:
   - village

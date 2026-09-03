@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vëkthōr
 tags:
   - draft
 id: 8enPHncfd51tH3vY

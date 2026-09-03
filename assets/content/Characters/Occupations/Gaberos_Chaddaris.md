@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gábêros Chàddâris
-  - Gaberos Chaddaris
 tags:
   - todo-warrior
   - draft

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Passage
 tags: []
 name:
   full: Gatepath

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Spoon
 tags: []
 name:
   full: Channel

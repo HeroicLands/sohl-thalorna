@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ancestor Worship
 id: HsTCTeOJqNcesHck
 type: lore
 subType: spirit

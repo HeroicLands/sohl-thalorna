@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Xénokôs Bárdâs
-  - Xenokos Bardas
 tags:
   - todo-warrior
   - draft

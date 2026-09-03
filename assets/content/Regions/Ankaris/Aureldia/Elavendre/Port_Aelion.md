@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Port Aelion
 id: O2nIsw1YeLjYDhBp
 tags:
   - town

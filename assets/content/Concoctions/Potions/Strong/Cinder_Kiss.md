@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Cinder Kiss
-  - "Potion, Aphrodisiac, Strong"
 tags:
   - strong-elixir
 name:
   full: Cinder Kiss
-  aliases: []
+  aliases:
+    - Potion, Aphrodisiac, Strong
 description: "Deep crimson concentrated preparation; ignites passion and desire."
 id: nNZur2IAN8REAxbO
 img: icons/potion.svg

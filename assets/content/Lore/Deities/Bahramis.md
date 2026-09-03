@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Báhrámiš
 tags:
   - draft
 id: GrsAzrY0P8NUCfcL

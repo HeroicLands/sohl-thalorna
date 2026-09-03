@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stone Ram
 tags:
   - animal
 name:

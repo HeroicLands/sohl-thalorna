@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nüsvōrroth
-  - Nusvorroth
 tags:
   - animal
 name:

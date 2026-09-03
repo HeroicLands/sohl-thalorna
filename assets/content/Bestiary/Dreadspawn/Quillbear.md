@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quillbear
 tags:
   - dreadspawn
 name:

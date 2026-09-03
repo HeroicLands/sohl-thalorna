@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Suvarṇagiri
-  - Suvarnagiri
 id: q5KssAIUA8eYcX2L
 tags:
   - city

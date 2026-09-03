@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrtillos
 id: oS8n3zisICURpMOI
 tags:
   - town

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rowena Storton
 tags:
   - draft
   - guilded

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Êrmyn Véldarin
-  - Ermyn Veldarin
 tags:
   - todo-warrior
   - draft

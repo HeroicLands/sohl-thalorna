@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beckon
 tags: []
 name:
   full: Call

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fireflit
 tags:
   - elemental
 name:

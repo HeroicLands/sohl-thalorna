@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mercavia
 id: Vd2mKx7rWp4Tb9Ln
 tags:
   - capital

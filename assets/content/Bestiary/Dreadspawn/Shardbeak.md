@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shardbeak
 tags:
   - dreadspawn
 name:

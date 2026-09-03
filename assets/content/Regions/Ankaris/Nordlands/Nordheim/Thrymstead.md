@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thrymstead
 id: WNKSFrK83yr8xKyA
 tags:
   - town

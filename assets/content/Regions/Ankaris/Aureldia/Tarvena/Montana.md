@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Montaña
-  - Montana
 id: elbApD1i9cSa1Wyh
 tags:
   - city

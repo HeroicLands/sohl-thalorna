@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vyāhrati"
-  - Vyāhrati
-  - Vyahrati
-  - The Keeper of Decay
 tags:
   - varnaka
   - faith-skill
@@ -13,7 +8,10 @@ id: AOkIhJmM5oyp7OEa
 shortcode: vyahrati
 name:
   full: "Ritual: Vyāhrati"
-  aliases: []
+  aliases:
+    - Vyāhrati
+    - Vyahrati
+    - The Keeper of Decay
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

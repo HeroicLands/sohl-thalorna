@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Goremadânis Hérendânis
-  - Goremadânis Hérendânis
-  - Goremadanis Herendanis
 tags:
   - heroes-and-knaves
   - common-folk

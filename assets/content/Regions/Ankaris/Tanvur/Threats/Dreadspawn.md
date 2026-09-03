@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dreadspawn
 id: IXbkAjZGvlH7go8k
 type: lore
 subType: bestiary

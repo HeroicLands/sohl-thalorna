@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: The Black Flame"
-  - The Black Flame
-  - Vúlcani Heresy
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: blackflame
 img: images/affiliation/blackflame.webp
 name:
   full: "Ritual: The Black Flame"
-  aliases: []
+  aliases:
+    - The Black Flame
+    - Vúlcani Heresy
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Theomídes Epiphaniôtês
-  - Theomídes Epiphaniôtês
-  - Theomides Epiphaniotes
 tags:
   - heroes-and-knaves
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Hedgehog
 tags:
   - animal
 name:

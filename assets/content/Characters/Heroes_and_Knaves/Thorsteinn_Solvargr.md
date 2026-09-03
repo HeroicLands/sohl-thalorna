@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Sólvargr
-  - Thorsteinn Sólvargr
-  - Thorsteinn Solvargr
 tags:
   - heroes-and-knaves
   - guilded

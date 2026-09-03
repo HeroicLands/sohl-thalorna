@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Silent War in Batáren
-  - The Silent War in Bataren
 id: JQZTmRad4jLlZdbR
 name:
   full: The Silent War in Batáren

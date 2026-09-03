@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aelissium
 id: xwXCIHtqjRX4AyUB
 tags:
   - city

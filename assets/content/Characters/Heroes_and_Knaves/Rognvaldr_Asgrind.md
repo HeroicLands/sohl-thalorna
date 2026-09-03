@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Rǫgnvaldr Ásgrind
-  - Rǫgnvaldr Ásgrind
-  - Rognvaldr Asgrind
 tags:
   - heroes-and-knaves
   - tradesfolk

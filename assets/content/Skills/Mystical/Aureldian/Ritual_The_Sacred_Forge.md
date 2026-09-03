@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: The Sacred Forge"
-  - The Sacred Forge
-  - Vúlcani Orthodox
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: sacredforge
 img: images/affiliation/sacredforge.webp
 name:
   full: "Ritual: The Sacred Forge"
-  aliases: []
+  aliases:
+    - The Sacred Forge
+    - Vúlcani Orthodox
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

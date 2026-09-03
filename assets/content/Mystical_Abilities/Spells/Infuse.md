@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charge
 tags: []
 name:
   full: Infuse

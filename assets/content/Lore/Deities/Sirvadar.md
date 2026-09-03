@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Šírvádár
 tags:
   - draft
 id: W0YlDdLEfYL3FKrq

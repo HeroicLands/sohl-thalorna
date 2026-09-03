@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Oswin Harden
 tags:
   - draft
   - guilded

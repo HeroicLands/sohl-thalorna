@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silvain
 id: ELnmJWDc7tzAXnaz
 tags:
   - settlement

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chânkhor Ghârîthôs
-  - Chankhor Gharithos
 tags:
   - draft
   - common-folk

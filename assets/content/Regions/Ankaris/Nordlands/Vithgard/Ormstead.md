@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ormstead
 id: DOIcd67IRmgTlxdK
 tags:
   - town

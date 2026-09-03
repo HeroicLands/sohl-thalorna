@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vyālendra
 id: Df8fe3ZzpuxYWWbE
 tags:
   - city

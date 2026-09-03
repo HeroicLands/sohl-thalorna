@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yâsûra the Jackal
 tags:
   - heroes-and-knaves
   - hero

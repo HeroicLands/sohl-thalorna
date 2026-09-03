@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Per-Heka
 id: szUUIRGt86BY1Kjb
 tags:
   - town

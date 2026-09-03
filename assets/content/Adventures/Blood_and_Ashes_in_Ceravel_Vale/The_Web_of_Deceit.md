@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Web of Deceit
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario

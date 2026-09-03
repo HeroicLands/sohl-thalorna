@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Summary of Provenzia
 id: RvfilQTQiy26gkk7
 type: scenario
 subType: adventure

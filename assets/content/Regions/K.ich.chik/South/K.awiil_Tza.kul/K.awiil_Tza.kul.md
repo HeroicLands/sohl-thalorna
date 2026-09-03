@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'awiil Tza'kul
 tags:
   - polity
 title: ""

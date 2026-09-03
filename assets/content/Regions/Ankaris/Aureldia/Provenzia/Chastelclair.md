@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chastèlclair
-  - Chastelclair
 id: ZwiemPCXqySQ19Tm
 tags:
   - town

@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Drenavar Spine
-  - The Drenavar Spine
-  - Drenavar Mountains
-  - The Drenavar
 id: Vb3c2kCmZT3k4wIa
 type: place
 subType: region

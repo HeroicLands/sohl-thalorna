@@ -1,6 +1,4 @@
 ---
-aliases:
-  - References
 id: QddBTHgnLAzYbXo5
 name:
   full: References

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Grácena Castírenna
-  - Gracena Castirenna
 tags:
   - todo-warrior
   - draft

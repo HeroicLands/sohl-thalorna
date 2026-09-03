@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Balm
 tags: []
 name:
   full: Renew

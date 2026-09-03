@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mould
 tags: []
 name:
   full: Shaper

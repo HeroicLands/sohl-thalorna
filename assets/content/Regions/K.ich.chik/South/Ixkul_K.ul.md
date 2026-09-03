@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ixkul K’ul
 id: AOgoVrsaeRLgPydh
 tags:
   - city

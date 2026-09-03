@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Āhúrdáén
 tags:
   - draft
 id: wlbQ9Qc2EaOoFBjk

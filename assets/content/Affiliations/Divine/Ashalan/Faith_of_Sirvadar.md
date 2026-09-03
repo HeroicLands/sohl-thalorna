@@ -1,8 +1,5 @@
 ---
 description: "Travel, Trade Routes, Commerce, Safe Passage."
-aliases:
-  - Faith of Šírvádár
-  - The Wandering Guide
 id: STfdLSd4eLyg0FbT
 tags:
   - religion
@@ -104,7 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Šírvádár
-  aliases: []
+  aliases:
+    - The Wandering Guide
 shortcode: sirvadar
 alias: Šírvádár, The Wandering Guide
 folder: 7so6UiPt445oIHWs

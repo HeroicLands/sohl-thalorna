@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Blazing Mantle
 tags: []
 name:
   full: Blazing Mantle
-  aliases:
-    - Blazing Mantle
+  aliases: []
 description: "Surrounds caster in white-hot flame; scorches those who touch."
 id: vuzkWBoQVMusVD9s
 img: icons/fire.svg

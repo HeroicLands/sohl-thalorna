@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Excommunicate
 tags:
   - draft
 id: 7o6mAnZUN6pCq21G

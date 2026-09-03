@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grimshadow
 tags:
   - spirit
 name:

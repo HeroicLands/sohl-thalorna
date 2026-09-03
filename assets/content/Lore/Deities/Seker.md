@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sēker
 tags:
   - draft
 id: lNZBs7GCZ5ARGuiE

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Belpòrte
-  - Belporte
 id: fGQuj4lr8Fd0VQbZ
 tags:
   - port

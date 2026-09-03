@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Servant
 tags:
   - draft
 id: IrHwPHhxwfQfaC9e

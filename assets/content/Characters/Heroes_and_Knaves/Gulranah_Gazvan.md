@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gulrânah Gazvân
-  - Gulrânah Gazvân
-  - Gulranah Gazvan
 tags:
   - heroes-and-knaves
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Physique
 tags: []
 name:
   full: Might

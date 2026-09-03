@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Màkîthos Vânardis
-  - Màkîthos Vânardis
-  - Makithos Vanardis
 tags:
   - heroes-and-knaves
   - tradesfolk

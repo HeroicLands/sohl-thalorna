@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Aula Panepistemium
-  - The Aula
-  - Court of the Academy
 tags:
   - hall
   - settlement

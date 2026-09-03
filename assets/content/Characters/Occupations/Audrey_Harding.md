@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Audrey Harding
 tags:
   - todo
   - draft

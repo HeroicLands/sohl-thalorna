@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ménérva
 tags:
   - draft
 id: zKCEnSpYqGm1V9Yu

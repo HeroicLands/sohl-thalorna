@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Faith of Baldr
 id: Pq6R3ldqtsAdv36s
 tags:
   - asguardian

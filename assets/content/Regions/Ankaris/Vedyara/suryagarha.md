@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sūryāgarha
 id: guzzmrqqtagCbdW4
 tags:
   - fortress

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Júbênós Safîthês
-  - Jubenos Safithes
 tags:
   - draft
   - guilded

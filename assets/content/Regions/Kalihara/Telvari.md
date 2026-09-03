@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Telvári
-  - Telvari
 id: WBqnuiArBf5PZWiO
 tags:
   - town

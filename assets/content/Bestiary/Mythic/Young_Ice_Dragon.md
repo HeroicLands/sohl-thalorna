@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Young Ice Dragon
 tags:
   - mythic
   - image-needed

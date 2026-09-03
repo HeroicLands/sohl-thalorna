@@ -1,10 +1,5 @@
 ---
 description: "Universal."
-aliases:
-  - Trimūrti-sampradāya
-  - Trimurti Sampradaya
-  - Tradition of the Three Forms
-  - Trimūrti Tradition
 id: da6X48OGstsouYWR
 tags:
   - varnaka

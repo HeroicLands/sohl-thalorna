@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ceridwen's Hollow
 id: 3YlA2MuGbvyKHEXm
 tags:
   - village

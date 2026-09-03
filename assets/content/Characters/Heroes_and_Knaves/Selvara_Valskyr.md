@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sélvara Válskyr
 tags:
   - tamzir-crew
   - tradesfolk

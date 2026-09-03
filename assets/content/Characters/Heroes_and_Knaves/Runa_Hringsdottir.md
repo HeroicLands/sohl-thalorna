@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rúna Hringsdóttir
 tags:
   - heroes-and-knaves
   - hero

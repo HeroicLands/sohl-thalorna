@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Earner
 tags:
   - draft
 id: H9WZ4plvLc4kib10

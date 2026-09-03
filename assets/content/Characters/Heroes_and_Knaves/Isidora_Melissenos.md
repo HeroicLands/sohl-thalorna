@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Isidôra Melissenós
-  - Isidôra Melissenós
-  - Isidora Melissenos
 tags:
   - heroes-and-knaves
   - tradesfolk

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Waldaric Ríkhild
-  - Waldaric Rikhild
 tags:
   - draft
   - tradesfolk

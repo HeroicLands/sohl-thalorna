@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brúnvík
-  - Brunvik
 id: iEFZaB0kHPIfjSfz
 tags:
   - village

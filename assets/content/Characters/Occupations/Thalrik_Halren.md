@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thálrik Hálren
-  - Thalrik Halren
 tags:
   - draft
   - common-folk

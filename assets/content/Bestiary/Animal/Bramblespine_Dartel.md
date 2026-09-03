@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bramblespine Dartel
 tags:
   - animal
 name:

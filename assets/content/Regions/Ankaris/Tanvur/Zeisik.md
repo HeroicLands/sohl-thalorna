@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zëisīk
-  - Zeisik
 id: BGxle7KCGjQb8PGt
 type: lore
 subType: culture

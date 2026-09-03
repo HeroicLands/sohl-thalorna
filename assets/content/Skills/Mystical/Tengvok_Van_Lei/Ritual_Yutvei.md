@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Yütvëi"
-  - Yütvëi
-  - Yutvei
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,7 +8,9 @@ id: 2AC9IfPUiDi6WvZC
 shortcode: yutvei
 name:
   full: "Ritual: Yütvëi"
-  aliases: []
+  aliases:
+    - Yütvëi
+    - Yutvei
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

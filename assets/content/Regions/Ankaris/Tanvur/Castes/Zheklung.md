@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zhëklüng
-  - Zheklung
 id: aKsAcLBGhRxCxtQa
 type: lore
 subType: culture

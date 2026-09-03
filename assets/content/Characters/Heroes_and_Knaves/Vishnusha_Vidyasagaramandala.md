@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vishnusha Vidyāsāgaramaṇḍala
-  - Vishnusha Vidyāsāgaramaṇḍala
-  - Vishnusha Vidyasagaramandala
 tags:
   - heroes-and-knaves
   - common-folk

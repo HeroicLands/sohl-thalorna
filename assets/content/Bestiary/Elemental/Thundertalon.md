@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thundertalon
 tags:
   - elemental
 name:

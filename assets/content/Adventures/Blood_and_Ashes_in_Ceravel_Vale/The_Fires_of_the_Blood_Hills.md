@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Fires of the Blood Hills
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario

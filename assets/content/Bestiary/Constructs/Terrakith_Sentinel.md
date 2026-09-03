@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terrakith Sentinel
 tags:
   - construct
 name:

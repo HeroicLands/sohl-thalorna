@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Fréyja"
-  - The Golden Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: freyja
 img: images/affiliation/freyja.webp
 name:
   full: "Ritual: Fréyja"
-  aliases: []
+  aliases:
+    - The Golden Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

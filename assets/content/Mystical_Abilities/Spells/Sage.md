@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wisdom
 tags: []
 name:
   full: Sage

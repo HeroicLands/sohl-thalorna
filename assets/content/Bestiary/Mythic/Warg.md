@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Warg
 tags:
   - mythic
   - image-needed

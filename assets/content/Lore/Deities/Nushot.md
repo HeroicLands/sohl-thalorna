@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nüshöt
 tags:
   - draft
 id: TrNbejUv4xx0jj9H

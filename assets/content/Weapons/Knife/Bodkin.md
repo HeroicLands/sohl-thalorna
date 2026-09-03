@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bodkin
 tags: []
 name:
   full: Bodkin

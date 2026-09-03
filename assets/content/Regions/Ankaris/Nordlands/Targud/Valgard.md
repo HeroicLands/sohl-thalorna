@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valgard
 id: Qv1h5Bkc8jxqYmxh
 tags:
   - town

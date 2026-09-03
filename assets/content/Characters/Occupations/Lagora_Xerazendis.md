@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Làgôra Xêrâzêndis
-  - Lagora Xerazendis
 tags:
   - draft
   - tradesfolk

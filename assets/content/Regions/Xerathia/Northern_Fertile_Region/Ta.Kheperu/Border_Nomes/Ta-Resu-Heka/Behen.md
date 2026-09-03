@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Behen
 id: ijEMnWfPBKZeYMVm
 tags:
   - fortress

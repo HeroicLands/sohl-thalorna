@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Méthra Zálreth
-  - Methra Zalreth
 tags:
   - draft
   - common-folk

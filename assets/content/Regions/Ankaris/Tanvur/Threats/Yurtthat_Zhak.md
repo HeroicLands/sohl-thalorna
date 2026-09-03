@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Yürtthāt Zhāk
-  - Yurtthat Zhak
 id: kx1DYO4Lv2VXJB93
 type: affiliation
 subType: lineage

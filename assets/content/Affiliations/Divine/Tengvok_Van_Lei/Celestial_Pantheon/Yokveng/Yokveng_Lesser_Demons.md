@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yokveng Lesser Demons
-  - Yōkvëng
-  - The Demon-Swarm
 id: NC2Uu1ewjsP8e43P
 tags:
   - yokveng
@@ -14,6 +10,7 @@ name:
     - The Yōkvëng
     - The Demon-Swarm
     - The Infernal Functionaries
+    - Yōkvëng
 shortcode: yvlesrdmns
 type: affiliation
 subType: faithtradition

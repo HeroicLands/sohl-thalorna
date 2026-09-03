@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mystical Abilities
 id: sljSrCVNlGMCzI7j
 name:
   full: Mystical Abilities

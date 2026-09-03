@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Torreviga
 id: yjFOHt9fEyDjHCCZ
 tags:
   - town

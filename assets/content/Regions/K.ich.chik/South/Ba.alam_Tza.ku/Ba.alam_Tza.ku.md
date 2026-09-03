@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Tza'ku
 tags:
   - polity
 title: ""

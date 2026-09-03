@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Blóth
-  - Bloth
 id: IxdQgYmu31vb7DlD
 tags:
   - settlement

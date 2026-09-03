@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Yökzhük"
-  - Yökzhük
-  - Yokzhuk
-  - The Custodian of Lost Seals
-  - The Seal-Thief
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,7 +8,11 @@ id: g4SPdofC5APWStnr
 shortcode: yokzhuk
 name:
   full: "Ritual: Yökzhük"
-  aliases: []
+  aliases:
+    - Yökzhük
+    - Yokzhuk
+    - The Custodian of Lost Seals
+    - The Seal-Thief
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

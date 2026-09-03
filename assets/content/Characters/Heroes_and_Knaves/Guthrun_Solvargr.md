@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Guthrún Sólvargr
-  - Guthrún Sólvargr
-  - Guthrun Solvargr
 tags:
   - heroes-and-knaves
   - common-folk

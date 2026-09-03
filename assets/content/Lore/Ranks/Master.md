@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Master
 tags:
   - draft
 id: 8RscXylg1CQGMLTf

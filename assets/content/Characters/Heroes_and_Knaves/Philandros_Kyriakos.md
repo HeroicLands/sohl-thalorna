@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Philándros Kyriákos
-  - Philándros Kyriákos
-  - Philandros Kyriakos
 tags:
   - heroes-and-knaves
   - guilded

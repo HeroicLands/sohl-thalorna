@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Enforcer
 tags:
   - draft
 id: 1WsBTUqqnibyttFr

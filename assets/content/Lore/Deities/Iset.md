@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Íšét
 tags:
   - draft
 id: HR2OFM1hfAahLxy9

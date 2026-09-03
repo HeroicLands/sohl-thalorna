@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Varokhi
 tags:
   - draft
 id: iY18XCGincibtB2I

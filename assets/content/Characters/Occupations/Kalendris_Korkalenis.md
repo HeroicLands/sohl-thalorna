@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kàlendrîs Korkâlenîs
-  - Kalendris Korkalenis
 tags:
   - draft
   - tradesfolk

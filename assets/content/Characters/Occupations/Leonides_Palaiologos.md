@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Leónidês Palaiológos
-  - Leonides Palaiologos
 tags:
   - todo-warrior
   - draft

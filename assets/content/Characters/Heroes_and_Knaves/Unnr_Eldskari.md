@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Unnr Eldskari
 tags:
   - heroes-and-knaves
   - guilded

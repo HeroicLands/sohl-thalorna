@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Great Lord
 tags:
   - draft
 id: Yn3Fkqen4dvIEBRx

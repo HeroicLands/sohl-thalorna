@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ángáróš
 tags:
   - draft
 id: OFwF6Fe8N4hC68eD

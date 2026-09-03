@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Harkhîs Bàremydês
-  - Harkhîs Bàremydês
-  - Harkhis Baremydes
 tags:
   - heroes-and-knaves
   - guilded

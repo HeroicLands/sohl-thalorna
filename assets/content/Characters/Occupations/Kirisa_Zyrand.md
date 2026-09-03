@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kírisa Zýrand
-  - Kirisa Zyrand
 tags:
   - draft
   - common-folk

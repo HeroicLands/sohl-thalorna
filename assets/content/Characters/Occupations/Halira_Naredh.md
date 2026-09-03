@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hâlira Náredh
-  - Halira Naredh
 tags:
   - draft
   - tradesfolk

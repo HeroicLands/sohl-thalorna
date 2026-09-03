@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vōrjīk Jëk
 tags:
   - draft
 id: T6PAskSt6LKAA9BT

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Resident Alien
 tags:
   - draft
 id: fa41ybkvgO382sOT

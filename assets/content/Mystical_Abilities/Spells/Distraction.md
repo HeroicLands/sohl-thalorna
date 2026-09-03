@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diversion
 tags: []
 name:
   full: Distraction

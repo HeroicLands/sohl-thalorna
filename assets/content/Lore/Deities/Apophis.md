@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ápōphis
 tags:
   - draft
 id: vAFu3kAzSMYRz7r0

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vaporwisp
 tags:
   - spirit
 name:

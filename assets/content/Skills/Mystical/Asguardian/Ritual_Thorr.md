@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Thórr"
-  - The Stormborn Path
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: thorr
 img: images/affiliation/thorr.webp
 name:
   full: "Ritual: Thórr"
-  aliases: []
+  aliases:
+    - The Stormborn Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

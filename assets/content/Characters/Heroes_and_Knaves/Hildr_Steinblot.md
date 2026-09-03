@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hildr Steinblót
-  - Hildr Steinblót
-  - Hildr Steinblot
 tags:
   - heroes-and-knaves
   - tradesfolk

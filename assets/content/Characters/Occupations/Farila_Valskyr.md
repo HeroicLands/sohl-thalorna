@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fárila Válskyr
-  - Farila Valskyr
 tags:
   - draft
   - tradesfolk

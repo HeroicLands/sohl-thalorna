@@ -1,8 +1,5 @@
 ---
 description: "Travellers."
-aliases:
-  - Pavanajitras
-  - The Wandering Wind
 id: IjabyyzZ8t4frOn8
 tags:
   - varnaka

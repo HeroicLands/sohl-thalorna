@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadowspinner
 tags:
   - dreadspawn
 name:

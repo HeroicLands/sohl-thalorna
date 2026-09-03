@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Physéra
 tags:
   - hex-hodai
 type: affiliation
@@ -93,7 +91,8 @@ shortcode: physera
 img: images/affiliation/physera.webp
 name:
   full: Physéra
-  aliases: []
+  aliases:
+    - Eídma Physéra
 sohl:
   archetype: null
 thalorna:

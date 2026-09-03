@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Tap
-  aliases:
-    - Tap
+  aliases: []
 description: "Draws upon power source; taps magical reservoir for energy."
 id: xjMqRC2aTIIdpxfY
 img: icons/circle.svg

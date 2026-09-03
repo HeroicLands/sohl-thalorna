@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gloomweb
 tags: []
 name:
   full: Shadowbind

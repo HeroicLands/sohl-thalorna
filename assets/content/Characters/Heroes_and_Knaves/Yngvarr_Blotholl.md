@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yngvarr Blóthǫll
-  - Yngvarr Blóthǫll
-  - Yngvarr Blotholl
 tags:
   - heroes-and-knaves
   - tradesfolk

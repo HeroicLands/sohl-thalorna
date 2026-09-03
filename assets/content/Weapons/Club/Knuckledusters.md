@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Knuckledusters
 tags: []
 name:
   full: Knuckledusters

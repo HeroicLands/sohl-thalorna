@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sky Serpent
 tags:
   - animal
 name:

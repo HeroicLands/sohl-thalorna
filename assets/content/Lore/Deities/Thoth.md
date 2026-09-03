@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thōth
 tags:
   - draft
 id: QgveRb3W1nrQIv2o

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chain
 tags: []
 name:
   full: Linkbind

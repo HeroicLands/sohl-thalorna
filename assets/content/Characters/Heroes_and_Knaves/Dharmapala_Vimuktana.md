@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dharmàpala Vimuktaṇa
-  - Dharmàpala Vimuktaṇa
-  - Dharmapala Vimuktana
 tags:
   - heroes-and-knaves
   - soldiery

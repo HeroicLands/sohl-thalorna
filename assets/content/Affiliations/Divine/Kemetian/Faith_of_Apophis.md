@@ -1,11 +1,5 @@
 ---
 description: "Chaos."
-aliases:
-  - Ápōphis
-  - Apophis
-  - Apep
-  - The Devouring Shadow
-  - The Chaos Serpent
 id: Jrpx4ACa2A9L9xxL
 tags:
   - kemetian
@@ -108,7 +102,12 @@ sohl:
   archetype: null
 name:
   full: Faith of Ápōphis
-  aliases: []
+  aliases:
+    - Ápōphis
+    - Apophis
+    - Apep
+    - The Devouring Shadow
+    - The Chaos Serpent
 shortcode: apophis
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

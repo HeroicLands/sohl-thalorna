@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Prthîmâja Kâyadara
-  - Prthîmâja Kâyadara
-  - Prthimaja Kayadara
 tags:
   - heroes-and-knaves
   - guilded

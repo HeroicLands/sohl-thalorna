@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Swampstrider
 tags:
   - dreadspawn
 name:

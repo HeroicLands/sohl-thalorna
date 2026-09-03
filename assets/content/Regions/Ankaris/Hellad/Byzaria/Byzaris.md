@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Byzaris
 id: HpB2fXNRSm9qSW6y
 tags:
   - city

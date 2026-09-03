@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thêkla Rhomaios
-  - Thêkla Rhomaios
-  - Thekla Rhomaios
 tags:
   - heroes-and-knaves
   - soldiery

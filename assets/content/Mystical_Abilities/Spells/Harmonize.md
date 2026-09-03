@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Attune
 tags: []
 name:
   full: Harmonize

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Zênais Philokálos
-  - Zênais Philokálos
-  - Zenais Philokalos
 tags:
   - heroes-and-knaves
   - tradesfolk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sea Bass
 tags: []
 name:
   full: Sea Bass

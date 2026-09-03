@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crystals
 tags: []
 name:
   full: Iceforge

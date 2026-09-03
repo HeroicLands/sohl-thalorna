@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Estára Sánriceth
-  - Estara Sanriceth
 tags:
   - draft
   - common-folk

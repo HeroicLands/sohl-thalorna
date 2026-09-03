@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kostaros
 id: TsDj0UNe3SEKVrTw
 tags:
   - port

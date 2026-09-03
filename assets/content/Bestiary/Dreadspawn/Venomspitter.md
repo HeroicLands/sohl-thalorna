@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Venomspitter
 tags:
   - dreadspawn
 name:

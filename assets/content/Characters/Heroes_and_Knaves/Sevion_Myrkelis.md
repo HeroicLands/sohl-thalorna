@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sevion Myrkelis
 tags:
   - heroes-and-knaves
   - hero

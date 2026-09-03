@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashkabel
 id: Tjq1opR4z8iu24jP
 tags:
   - city-state

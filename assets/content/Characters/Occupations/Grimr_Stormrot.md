@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Grímr Stormrót
-  - Grimr Stormrot
 tags:
   - draft
   - administration

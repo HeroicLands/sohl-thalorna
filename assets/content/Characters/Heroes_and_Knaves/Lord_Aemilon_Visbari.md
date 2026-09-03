@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lord Aemilon Visbari
 tags:
   - heroes-and-knaves
   - fffv1

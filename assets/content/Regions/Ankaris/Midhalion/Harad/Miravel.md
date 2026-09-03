@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Míravel
-  - Miravel
 id: iijF0jFCjTiDjPQA
 tags:
   - town

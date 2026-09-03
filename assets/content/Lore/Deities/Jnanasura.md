@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jñānasūra
 tags:
   - draft
 id: KuOQ8DEh53pNVPuC

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Incantus Pyréthos
-  - Incantus Pyrethos
 tags:
   - hex-hodai
 type: skill

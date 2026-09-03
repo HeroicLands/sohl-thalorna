@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'uma No'tun
 tags:
   - polity
 title: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Worlds
 id: h7LJfloVQX6yJmtn
 name:
   full: Worlds

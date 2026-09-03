@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Oracle's Vapor"
-  - "Potion, Hallucinogenic, Great"
 tags:
   - great-elixir
 name:
   full: "Oracle's Vapor"
-  aliases: []
+  aliases:
+    - Potion, Hallucinogenic, Great
 description: "Writhing near-black liquid; grants prophetic visions and future sight."
 id: J686wCu7Irv9uza5
 img: icons/potion.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vyāhrati
 tags:
   - draft
 id: PLT7MtD2sqJftgbB

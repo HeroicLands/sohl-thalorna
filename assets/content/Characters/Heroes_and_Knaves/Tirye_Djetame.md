@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tirye Djetamê
-  - Tirye Djet'amê
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -11,7 +8,8 @@ name:
   given: Tirye
   clan: Djet'amê
   home: Meru-Hotep
-  aliases: []
+  aliases:
+    - Tirye Djetamê
 id: 1gRrA9CzFh9ey0KG
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

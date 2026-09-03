@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dowsing
 tags: []
 name:
   full: Watersearch

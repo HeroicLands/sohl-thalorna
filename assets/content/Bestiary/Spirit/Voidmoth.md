@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Voidmoth
 tags:
   - spirit
 name:

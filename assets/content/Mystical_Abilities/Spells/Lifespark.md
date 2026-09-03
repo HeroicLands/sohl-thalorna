@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breath
 tags: []
 name:
   full: Lifespark

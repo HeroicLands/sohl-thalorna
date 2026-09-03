@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Flotation
 tags: []
 name:
   full: Drift

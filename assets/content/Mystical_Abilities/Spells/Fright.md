@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Panic
 tags: []
 name:
   full: Fright

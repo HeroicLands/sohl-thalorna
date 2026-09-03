@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Layla Marut
 tags:
   - heroes-and-knaves
   - hero

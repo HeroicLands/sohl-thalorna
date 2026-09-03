@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sét
 tags:
   - draft
 id: ybgfVGic0xiDaXbR

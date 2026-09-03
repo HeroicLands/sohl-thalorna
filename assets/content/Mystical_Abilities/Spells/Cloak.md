@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shroud
 tags: []
 name:
   full: Cloak

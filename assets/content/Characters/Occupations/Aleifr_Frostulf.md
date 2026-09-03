@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Áleifr Frostulf
-  - Aleifr Frostulf
 tags:
   - draft
   - tradesfolk

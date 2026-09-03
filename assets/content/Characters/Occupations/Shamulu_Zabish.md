@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shamûlû Zabîsh
-  - Shamulu Zabish
 tags:
   - todo
   - draft

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarvénan
 tags:
   - draft
 id: uH8DtMEOS94xKNJW

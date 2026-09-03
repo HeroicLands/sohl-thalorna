@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hâpi
 tags:
   - draft
 id: yst6gVIGCRPDFwB3

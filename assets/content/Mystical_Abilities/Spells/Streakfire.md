@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shooting Star
 tags: []
 name:
   full: Streakfire

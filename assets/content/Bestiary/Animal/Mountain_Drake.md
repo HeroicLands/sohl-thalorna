@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mountain Drake
 tags:
   - animal
 name:

@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Dōkyök"
-  - Dōkyök
-  - Dokyok
-  - The Lost Road
-  - The Guide Who Leads Astray
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,7 +8,11 @@ id: ZhwcSRUOtcal0hi4
 shortcode: dokyok
 name:
   full: "Ritual: Dōkyök"
-  aliases: []
+  aliases:
+    - Dōkyök
+    - Dokyok
+    - The Lost Road
+    - The Guide Who Leads Astray
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

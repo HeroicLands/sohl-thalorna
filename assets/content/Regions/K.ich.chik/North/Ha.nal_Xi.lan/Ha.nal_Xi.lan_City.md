@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha'nal Xi'lan
 id: ZvysDgAlz9mgapDo
 tags:
   - city

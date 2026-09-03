@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Sét"
-  - Sét, Bringer of Tempests
 tags:
   - kemetian
   - faith-skill
@@ -11,7 +8,8 @@ id: zeHVXI9W8LM9miul
 shortcode: set
 name:
   full: "Ritual: Sét"
-  aliases: []
+  aliases:
+    - Sét, Bringer of Tempests
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

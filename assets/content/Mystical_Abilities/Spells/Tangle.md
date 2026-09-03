@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vine
 tags: []
 name:
   full: Tangle

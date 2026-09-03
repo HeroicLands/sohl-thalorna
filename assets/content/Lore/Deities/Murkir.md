@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Múrkír
 tags:
   - draft
 id: PbnCvfYqppGEIGCd

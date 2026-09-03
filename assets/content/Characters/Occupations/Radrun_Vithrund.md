@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rádrún Vithrúnd
-  - Radrun Vithrund
 tags:
   - draft
   - underworld

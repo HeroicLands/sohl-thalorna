@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Drkṣàrana Manṛṣṭi
-  - Drkṣàrana Manṛṣṭi
-  - Drksarana Manrsti
 tags:
   - heroes-and-knaves
   - common-folk

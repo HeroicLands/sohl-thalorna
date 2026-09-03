@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Screechbat
 tags:
   - animal
 name:

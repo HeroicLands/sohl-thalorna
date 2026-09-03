@@ -1,9 +1,5 @@
 ---
 description: "Knowledge."
-aliases:
-  - Jñānasūra
-  - Jnanasura
-  - The Radiant Sage
 id: SaDYZeRnoxIhEPUr
 tags:
   - varnaka

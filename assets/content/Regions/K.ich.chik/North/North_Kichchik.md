@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Northern K'ich'chik
 id: YXAvC7IO4US66yuY
 tags:
   - region

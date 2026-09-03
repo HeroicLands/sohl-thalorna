@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hunger
 tags: []
 name:
   full: Ravenous

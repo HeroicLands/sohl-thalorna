@@ -1,14 +1,12 @@
 ---
-aliases:
-  - Tānvür Region
-  - Tanvur
-  - Tānvür
 tags:
   - region
 description: The Tānvüri heartland — the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
 name:
   full: Tānvür Region
-  aliases: []
+  aliases:
+    - Tanvur
+    - Tānvür
 id: DZh5LWUGaeKrOvam
 shortcode: tanvuregin
 img: ""

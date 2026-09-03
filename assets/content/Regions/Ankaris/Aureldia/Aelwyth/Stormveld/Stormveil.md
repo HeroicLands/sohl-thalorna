@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stormveil
 id: TlYOx3SBgFES4hvV
 tags:
   - castle

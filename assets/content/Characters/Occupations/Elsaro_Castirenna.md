@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Élsaro Castírenna
-  - Elsaro Castirenna
 tags:
   - draft
   - soldiery

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Citizen
 tags:
   - draft
 id: 17GsUFKeImxowuTu

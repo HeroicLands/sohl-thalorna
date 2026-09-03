@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Wandering Dream
-  - Dreamwalk Elixir
 tags:
   - elixir
 name:
   full: The Wandering Dream
-  aliases: []
+  aliases:
+    - Dreamwalk Elixir
 description: "Opalescent shifting liquid; projects consciousness to distant locations."
 id: 6rTdRtSAhpfVa4Nc
 img: icons/potion.svg

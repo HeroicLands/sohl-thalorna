@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Cárenna Gráveth
-  - Cárenna Gráveth
-  - Carenna Graveth
 tags:
   - heroes-and-knaves
   - guilded

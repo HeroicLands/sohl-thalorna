@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bazûdar Shahrûn
-  - Bazûdar Shahrûn
-  - Bazudar Shahrun
 tags:
   - heroes-and-knaves
   - tradesfolk

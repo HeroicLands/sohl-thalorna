@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gríma Svartrúnar
-  - Grima Svartrunar
 tags:
   - demigod
   - heroes-of-asguard

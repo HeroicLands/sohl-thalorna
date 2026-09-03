@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeoman
 tags:
   - draft
 id: CLWwveQ2GkReoBOZ

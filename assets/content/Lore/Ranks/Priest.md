@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Priest
 tags:
   - draft
 id: fYD90NQDaH4HLTB3

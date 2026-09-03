@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Succour
 tags: []
 name:
   full: Relief

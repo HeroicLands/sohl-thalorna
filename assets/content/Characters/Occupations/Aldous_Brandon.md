@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aldous Brandon
 tags:
   - draft
   - common-folk

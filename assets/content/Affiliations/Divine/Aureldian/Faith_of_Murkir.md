@@ -1,9 +1,5 @@
 ---
 description: "Voyages."
-aliases:
-  - Faith of Múrkír
-  - Faith of Murkir
-  - Múrkír
 id: TzNdrr3mAykUz6j0
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Murkir
   aliases:
     - The Wayfarer
+    - Múrkír
 shortcode: murkir
 img: images/affiliation/murkir.webp
 folder: uMjCDTomEtc5Z0KV

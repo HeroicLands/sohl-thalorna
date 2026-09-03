@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Menerva"
-  - Ménérva
-  - Keeper of Sacred Wisdom
 tags:
   - aureldian
   - faith-skill
@@ -13,7 +9,9 @@ shortcode: menerva
 img: images/affiliation/menerva.webp
 name:
   full: "Ritual: Menerva"
-  aliases: []
+  aliases:
+    - Ménérva
+    - Keeper of Sacred Wisdom
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

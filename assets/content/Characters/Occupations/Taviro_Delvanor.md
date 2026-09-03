@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tavíro Delvánor
-  - Taviro Delvanor
 tags:
   - draft
   - common-folk

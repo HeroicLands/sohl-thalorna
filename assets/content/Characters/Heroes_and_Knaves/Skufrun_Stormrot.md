@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Skúfrún Stormrót
-  - Skúfrún Stormrót
-  - Skufrun Stormrot
 tags:
   - heroes-and-knaves
   - guilded

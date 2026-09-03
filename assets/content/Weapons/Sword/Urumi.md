@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urumi
 tags: []
 name:
   full: Urumi

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Threats
 id: qi7U1RdJvNMAbM1I
 type: lore
 subType: history

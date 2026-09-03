@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nützōk
-  - Nutzok
 id: nhYIrM34LxAifLFJ
 type: lore
 subType: culture

@@ -1,8 +1,5 @@
 ---
 description: "Death."
-aliases:
-  - Faith of Ázráván
-  - Lord of the Final Horizon
 id: APxOx87sZ9mYwQAO
 tags:
   - religion
@@ -104,7 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Ázráván
-  aliases: []
+  aliases:
+    - Lord of the Final Horizon
 shortcode: azravan
 alias: Ázráván, Lord of the Final Horizon
 folder: 7so6UiPt445oIHWs

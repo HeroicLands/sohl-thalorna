@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garulf Druthgar
 tags:
   - tamzir-crew
   - soldiery

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Xerôphôn Kâlmâkanês
-  - Xerôphôn Kâlmâkanês
-  - Xerophon Kalmakanes
 tags:
   - heroes-and-knaves
   - soldiery

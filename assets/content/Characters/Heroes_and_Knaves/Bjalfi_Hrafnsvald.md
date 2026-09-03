@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bjalfi Hrafnsvald
 tags:
   - heroes-and-knaves
   - soldiery

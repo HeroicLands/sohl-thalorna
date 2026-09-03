@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gorâzendîs Bârês
-  - Gorazendis Bares
 tags:
   - draft
   - tradesfolk

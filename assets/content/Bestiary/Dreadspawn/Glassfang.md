@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Glassfang
 tags:
   - dreadspawn
 name:

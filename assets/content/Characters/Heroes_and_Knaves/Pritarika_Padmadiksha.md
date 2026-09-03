@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Pritàrika Padmadîksha
-  - Pritàrika Padmadîksha
-  - Pritarika Padmadiksha
 tags:
   - heroes-and-knaves
   - administration

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Íngrithr Skýrekkr
-  - Íngrithr Skýrekkr
-  - Ingrithr Skyrekkr
 tags:
   - heroes-and-knaves
   - common-folk

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Járnhavn
-  - Jarnhavn
 id: qMK74rVgAAQlzEAs
 tags:
   - port

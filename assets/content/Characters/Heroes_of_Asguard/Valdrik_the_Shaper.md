@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valdrik the Shaper
 tags:
   - paragon
   - heroes-of-asguard

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aldred Harden
 tags:
   - draft
   - tradesfolk

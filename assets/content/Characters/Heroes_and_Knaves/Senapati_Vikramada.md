@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sénapati Vikramâda
-  - Sénapati Vikramâda
-  - Senapati Vikramada
 tags:
   - heroes-and-knaves
   - tradesfolk

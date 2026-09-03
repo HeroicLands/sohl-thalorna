@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Faradûn Afrûn
-  - Faradûn Afrûn
-  - Faradun Afrun
 tags:
   - heroes-and-knaves
   - guilded

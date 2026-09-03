@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gloomhound
 tags:
   - spirit
 name:

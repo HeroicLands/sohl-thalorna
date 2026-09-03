@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vôrnan Tólgen
-  - Vornan Tolgen
 tags:
   - draft
   - tradesfolk

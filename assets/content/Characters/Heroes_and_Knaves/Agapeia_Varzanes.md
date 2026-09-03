@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Agápeia Varzánês
-  - Agápeia Varzánês
-  - Agapeia Varzanes
 tags:
   - heroes-and-knaves
   - common-folk

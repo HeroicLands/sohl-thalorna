@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Provenzian
 tags:
   - draft
 id: OwN1BVqzhOQKKVSt

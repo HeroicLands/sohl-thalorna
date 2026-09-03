@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brynhallow
 id: TowEWAGcIliRpar1
 tags:
   - town

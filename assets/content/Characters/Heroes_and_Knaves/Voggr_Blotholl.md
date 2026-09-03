@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vǫggr Blóthǫll
-  - Vǫggr Blóthǫll
-  - Voggr Blotholl
 tags:
   - heroes-and-knaves
   - common-folk

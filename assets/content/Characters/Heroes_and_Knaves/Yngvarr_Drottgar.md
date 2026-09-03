@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yngvarr Dróttgar
-  - Yngvarr Dróttgar
-  - Yngvarr Drottgar
 tags:
   - heroes-and-knaves
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Olivenna
 id: Hy8vNx3kOp2Rb5Lt
 tags:
   - town

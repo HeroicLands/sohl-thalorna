@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Frostulf
 tags:
   - heroes-and-knaves
   - tradesfolk

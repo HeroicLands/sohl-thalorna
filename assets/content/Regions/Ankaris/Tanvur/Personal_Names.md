@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Personal Names
 id: LgGLhQV6dRATDaEB
 type: lore
 subType: culture

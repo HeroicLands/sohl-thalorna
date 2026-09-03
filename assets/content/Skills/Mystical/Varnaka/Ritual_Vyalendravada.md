@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vyālendravāda"
-  - Vyālendravāda
-  - Vyalendravada
-  - The Doctrine of Vyālendra
-  - Vyāndran School
 tags:
   - varnaka
   - faith-skill
@@ -14,7 +8,11 @@ id: nKUTkE0IvG0Xu2FS
 shortcode: vyalendravada
 name:
   full: "Ritual: Vyālendravāda"
-  aliases: []
+  aliases:
+    - Vyālendravāda
+    - Vyalendravada
+    - The Doctrine of Vyālendra
+    - Vyāndran School
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

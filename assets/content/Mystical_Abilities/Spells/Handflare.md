@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Palm
 tags: []
 name:
   full: Handflare

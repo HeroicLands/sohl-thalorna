@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hand
 tags: []
 name:
   full: Grasp

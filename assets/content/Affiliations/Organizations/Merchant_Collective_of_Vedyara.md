@@ -1,9 +1,4 @@
 ---
-aliases:
-  - The Merchant Collective of Vedyara
-  - Merchant Collective
-  - Vedyara Merchant Collective
-  - Vyāpārī Sangha
 tags: []
 description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade — wielding economic power that rivals the rulers themselves."
 id: rtHt40LrWd0rQ20K
@@ -13,6 +8,7 @@ name:
     - Vyāpārī Sangha
     - The Collective
     - The Long Caravan
+    - Merchant Collective
 shortcode: mrchntclctvvdyr
 type: affiliation
 subType: guild

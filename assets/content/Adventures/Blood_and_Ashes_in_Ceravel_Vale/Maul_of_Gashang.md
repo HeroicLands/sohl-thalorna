@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Maul of Gashang
 id: d9BoTVxtuL3YRqgD
 type: scenario
 subType: adventure

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Rängr Vetrdómr
-  - Rängr Vetrdómr
-  - Rangr Vetrdomr
 tags:
   - heroes-and-knaves
   - common-folk

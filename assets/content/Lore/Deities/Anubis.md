@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ánubís
 tags:
   - draft
 id: dEJE1HPiJfwuxTKi

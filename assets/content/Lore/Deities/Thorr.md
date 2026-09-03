@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thórr
 tags:
   - draft
 id: BPLi52UfRhSjDGNg

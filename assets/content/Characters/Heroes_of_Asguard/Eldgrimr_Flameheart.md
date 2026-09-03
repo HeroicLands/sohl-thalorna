@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eldgrimr Flameheart
 tags:
   - paragon
   - heroes-of-asguard

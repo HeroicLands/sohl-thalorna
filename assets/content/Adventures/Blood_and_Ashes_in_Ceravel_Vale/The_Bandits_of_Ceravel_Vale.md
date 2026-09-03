@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Bandits of Céravel Vale
-  - The Bandits of Ceravel Vale
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario

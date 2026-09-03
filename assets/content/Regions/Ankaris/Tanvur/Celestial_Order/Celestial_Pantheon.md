@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Celestial Pantheon
 id: ocg6hDA9966VDQNB
 type: lore
 subType: theology

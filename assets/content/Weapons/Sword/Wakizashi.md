@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wakizashi
 tags: []
 name:
   full: Wakizashi

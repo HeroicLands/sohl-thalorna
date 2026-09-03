@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gloomsprite
 tags:
   - spirit
 name:

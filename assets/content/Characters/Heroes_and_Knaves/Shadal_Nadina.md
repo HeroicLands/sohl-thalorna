@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadal Nadina
 tags:
   - heroes-and-knaves
   - guilded

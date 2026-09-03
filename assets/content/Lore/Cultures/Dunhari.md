@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunhari
 tags:
   - draft
 id: a1diCLx7ARCQyBlc

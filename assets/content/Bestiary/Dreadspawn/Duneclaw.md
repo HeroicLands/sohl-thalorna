@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Duneclaw
 tags:
   - dreadspawn
 name:

@@ -1,8 +1,5 @@
 ---
 description: "Earth."
-aliases:
-  - Vëngdāk Zhütvōr
-  - Vengdak Zhutvor
 id: hQwxgmytJawKPlD8
 tags:
   - celestial-order

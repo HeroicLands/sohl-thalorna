@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vindborg
 id: 7XxnqkgQlwHbZvb8
 tags:
   - fortress

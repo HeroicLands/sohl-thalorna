@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nightwraith
 tags:
   - dreadspawn
 name:

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tárellia Bélthal
-  - Tárellia Bélthal
-  - Tarellia Belthal
 tags:
   - heroes-and-knaves
   - guilded

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Siege of Válaren
-  - The Siege of Valaren
 id: giK7BKRT8hXeF9JB
 name:
   full: The Siege of Válaren

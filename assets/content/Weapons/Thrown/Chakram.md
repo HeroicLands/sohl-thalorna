@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chakram
 tags: []
 name:
   full: Chakram

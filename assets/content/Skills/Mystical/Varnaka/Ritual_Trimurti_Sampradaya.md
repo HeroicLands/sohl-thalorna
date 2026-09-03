@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Trimūrti-sampradāya"
-  - Trimūrti-sampradāya
-  - Trimurti Sampradaya
-  - Tradition of the Three Forms
-  - Trimūrti Tradition
 tags:
   - varnaka
   - faith-skill
@@ -14,7 +8,11 @@ id: S3Pqxj4TZHXJrRF9
 shortcode: trimurtisampradaya
 name:
   full: "Ritual: Trimūrti-sampradāya"
-  aliases: []
+  aliases:
+    - Trimūrti-sampradāya
+    - Trimurti Sampradaya
+    - Tradition of the Three Forms
+    - Trimūrti Tradition
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

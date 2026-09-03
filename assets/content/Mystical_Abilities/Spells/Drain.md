@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Absorb
 tags: []
 name:
   full: Drain

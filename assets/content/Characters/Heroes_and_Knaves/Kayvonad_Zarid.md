@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kayvonad Zârîd
-  - Kayvonad Zârîd
-  - Kayvonad Zarid
 tags:
   - heroes-and-knaves
   - guilded

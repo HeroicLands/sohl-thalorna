@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Trishula
 tags: []
 name:
   full: Trishula

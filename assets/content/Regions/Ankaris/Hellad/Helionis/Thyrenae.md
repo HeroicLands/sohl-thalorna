@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thyrenae
 id: Qov8tGDVc08BrL5P
 description: "City-state of Helionis with a long maritime tradition — island polity that has built wealth and reputation through centuries of sea trade and naval rivalry."
 type: affiliation

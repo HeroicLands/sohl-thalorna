@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tefnutî HetWera
-  - Tefnutî Het'Wera
-  - Tefnuti HetWera
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,9 @@ name:
   given: Tefnutî
   clan: Het'Wera
   home: Ankh-Setûn
-  aliases: []
+  aliases:
+    - Tefnutî HetWera
+    - Tefnuti HetWera
 id: YQqx7K6B85XCEHAN
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

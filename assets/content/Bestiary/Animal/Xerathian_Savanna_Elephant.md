@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Xerathian Savanna Elephant
 tags:
   - animal
 name:

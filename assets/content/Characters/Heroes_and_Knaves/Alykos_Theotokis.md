@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Alýkos Theotókis
-  - Alýkos Theotókis
-  - Alykos Theotokis
 tags:
   - heroes-and-knaves
   - guilded

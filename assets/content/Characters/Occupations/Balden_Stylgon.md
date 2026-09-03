@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bâlden Stýlgon
-  - Balden Stylgon
 tags:
   - draft
   - tradesfolk

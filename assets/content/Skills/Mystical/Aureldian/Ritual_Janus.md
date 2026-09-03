@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Janus"
-  - The Keeper of the Gates
 tags:
   - aureldian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: janus
 img: images/affiliation/janus.webp
 name:
   full: "Ritual: Janus"
-  aliases: []
+  aliases:
+    - The Keeper of the Gates
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

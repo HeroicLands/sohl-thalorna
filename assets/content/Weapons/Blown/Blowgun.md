@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Blowgun
 tags: []
 name:
   full: Blowgun

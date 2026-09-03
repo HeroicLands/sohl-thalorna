@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rásikara
 tags:
   - draft
 id: kDSw8KxVsGi5EBbg

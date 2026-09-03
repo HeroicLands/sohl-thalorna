@@ -1,9 +1,5 @@
 ---
 description: "Death."
-aliases:
-  - Faith of Thánatos
-  - Faith of Thanatos
-  - Thánatos
 id: 9cCzJLN7PPWRs0dX
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Thanatos
   aliases:
     - The Silent Judge
+    - Thánatos
 shortcode: thanatos
 img: images/affiliation/thanatos.webp
 folder: uMjCDTomEtc5Z0KV

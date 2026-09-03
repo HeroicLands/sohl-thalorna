@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Frithgár Vithrúnd
-  - Frithgar Vithrund
 tags:
   - draft
   - soldiery

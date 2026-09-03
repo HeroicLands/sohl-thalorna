@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gunnvǫr Hafringr
-  - Gunnvǫr Hafringr
-  - Gunnvor Hafringr
 tags:
   - heroes-and-knaves
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Spider
 tags:
   - animal
 name:

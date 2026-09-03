@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cragclimber
 tags:
   - dreadspawn
 name:

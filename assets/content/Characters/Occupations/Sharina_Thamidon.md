@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shárîna Thâmîdon
-  - Sharina Thamidon
 tags:
   - draft
   - common-folk

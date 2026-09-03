@@ -1,10 +1,9 @@
 ---
-aliases:
-  - Helonic
 tags: []
 name:
   full: Helonic Language
-  aliases: []
+  aliases:
+    - Helonic
 description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
 id: kzExD71wOODyJRDn
 img: icons/speaking.svg

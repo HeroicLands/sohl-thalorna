@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Óskunn Bjargskorn
-  - Óskunn Bjargskorn
-  - Oskunn Bjargskorn
 tags:
   - heroes-and-knaves
   - tradesfolk

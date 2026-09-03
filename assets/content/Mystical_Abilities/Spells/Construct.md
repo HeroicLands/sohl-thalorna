@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Assemble
 tags: []
 name:
   full: Construct

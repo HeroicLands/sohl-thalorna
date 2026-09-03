@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wasetkara
 id: yKyHOnW4vqQivkJZ
 tags:
   - city

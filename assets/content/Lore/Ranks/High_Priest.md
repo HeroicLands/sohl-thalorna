@@ -1,6 +1,4 @@
 ---
-aliases:
-  - High Priest
 tags:
   - draft
 id: KHwJXa1kr5FZ6Y1U

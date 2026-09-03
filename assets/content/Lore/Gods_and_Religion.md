@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Truth of Religion
-  - Gods (GM)
-  - Religion (GM)
 tags:
   - lore
   - religion
@@ -13,7 +9,9 @@ tags:
 type: lore
 name:
   full: The Truth of Religion
-  aliases: []
+  aliases:
+    - Gods (GM)
+    - Religion (GM)
 subType: theology
 id: QWOuw6GkCEWwsRjO
 folder: t3p5qf6rZc8w0Nc4

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khensuret
 id: BFVfBRUFybESEcFb
 tags:
   - city

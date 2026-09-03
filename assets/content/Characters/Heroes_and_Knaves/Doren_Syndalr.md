@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dôren Sýndalr
 tags:
   - hero
   - silent-talon

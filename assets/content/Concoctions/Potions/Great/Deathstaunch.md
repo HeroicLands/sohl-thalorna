@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Deathstaunch
-  - "Potion, Coagulant, Great"
 tags:
   - great-elixir
 name:
   full: Deathstaunch
-  aliases: []
+  aliases:
+    - Potion, Coagulant, Great
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 id: cMbQm31VG5fPSRKF
 img: icons/potion.svg

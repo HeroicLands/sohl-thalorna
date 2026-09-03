@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cooling
 tags: []
 name:
   full: Chill

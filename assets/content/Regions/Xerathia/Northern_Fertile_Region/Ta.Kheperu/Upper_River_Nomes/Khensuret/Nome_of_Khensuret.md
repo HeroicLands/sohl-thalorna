@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nome of Khensuret
-  - Khensuret Nome
 id: s0lFV4Hwi1l07J4X
 description: "The great mortuary nome of the Ta'Kheperu upper river — built around the temple-city of Khensuret and its western-bank necropolis, the heart of the empire's embalming, tomb-building, and funerary trades, and the destination of its largest pilgrimage to the lords of the dead."
 type: affiliation

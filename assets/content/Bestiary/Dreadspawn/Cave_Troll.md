@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cave Troll
 tags:
   - dreadspawn
 name:

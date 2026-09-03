@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vishali Bâlarṇaya
-  - Vishali Bâlarṇaya
-  - Vishali Balarnaya
 tags:
   - heroes-and-knaves
   - tradesfolk

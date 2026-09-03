@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tëitjëk Vëngyürt
-  - Teitjek Vengyurt
 id: IeRBitOhNW9W1apE
 type: lore
 subType: history

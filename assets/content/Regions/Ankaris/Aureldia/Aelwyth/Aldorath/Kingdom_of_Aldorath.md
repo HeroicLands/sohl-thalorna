@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kingdom of Aldorath
 id: O5NWBA1qYTtyGOrM
 description: "Chivalric kingdom surrounding Aelwyth's great central lake — feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
 type: affiliation

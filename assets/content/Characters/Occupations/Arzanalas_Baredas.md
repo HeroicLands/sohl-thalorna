@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Arzânalàs Bâredâs
-  - Arzanalas Baredas
 tags:
   - draft
   - soldiery

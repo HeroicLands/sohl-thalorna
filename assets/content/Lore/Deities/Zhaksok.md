@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zhāksōk
 tags:
   - draft
 id: OScZ04PV1cEjLfoA

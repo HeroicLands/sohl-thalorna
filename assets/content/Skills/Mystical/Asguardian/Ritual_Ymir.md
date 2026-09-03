@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ymir"
-  - "The Divine Architect's Path"
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: ymir
 img: images/affiliation/ymir.webp
 name:
   full: "Ritual: Ymir"
-  aliases: []
+  aliases:
+    - The Divine Architect's Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

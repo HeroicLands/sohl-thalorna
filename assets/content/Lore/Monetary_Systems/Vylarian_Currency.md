@@ -1,13 +1,4 @@
 ---
-aliases:
-  - Vylarian Currency
-  - Aurion
-  - Argentus
-  - Argo
-  - Octus
-  - Bit
-  - Vylarian Coinage
-  - The Argo
 tags:
   - reference
   - currency
@@ -22,6 +13,12 @@ name:
   full: Vylarian Currency
   aliases:
     - Vylarian Coinage
+    - Aurion
+    - Argentus
+    - Argo
+    - Octus
+    - Bit
+    - The Argo
 shortcode: vylrncrncy
 folder:
 ---

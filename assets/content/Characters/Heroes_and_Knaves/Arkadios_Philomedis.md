@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Arkádios Philomédis
-  - Arkádios Philomédis
-  - Arkadios Philomedis
 tags:
   - heroes-and-knaves
   - soldiery

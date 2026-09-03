@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Leifr Dróttgar
-  - Leifr Drottgar
 tags:
   - draft
   - common-folk

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thalorna
-  - The World of Thalorna
 id: ZwEe2tr8ed7HSXG4
 type: place
 subType: world
@@ -13,7 +10,8 @@ data:
 folder: wCi1zv06QgydQQoL
 name:
   full: The World of Thalorna
-  aliases: []
+  aliases:
+    - Thalorna
 shortcode: worldthlrn
 cascade:
   - target:

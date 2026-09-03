@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Azhûn
 id: glFCD2sGQEKQGn6c
 tags:
   - port

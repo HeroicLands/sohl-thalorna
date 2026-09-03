@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mature Fire Dragon
 tags:
   - mythic
   - image-needed

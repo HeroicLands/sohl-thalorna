@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pârshar Kûrrîm
-  - Parshar Kurrim
 tags:
   - draft
   - guilded

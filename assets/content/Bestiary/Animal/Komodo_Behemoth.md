@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Komodo Behemoth
 tags:
   - animal
 name:

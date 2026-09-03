@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mer'tep Ankh'Khes
-  - Mertep AnkhKhes
 tags:
   - heroes-and-knaves
   - common-folk
@@ -11,7 +8,8 @@ name:
   given: Mer'tep
   clan: Ankh'Khes
   home: Per-Ankhet
-  aliases: []
+  aliases:
+    - Mertep AnkhKhes
 id: dxWxIHy6AlGTauWz
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Arévyn Llýdar
-  - Arévyn Llýdar
-  - Arevyn Llydar
 tags:
   - heroes-and-knaves
   - common-folk

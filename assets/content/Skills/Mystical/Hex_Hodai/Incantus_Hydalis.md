@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Incantus Hydälis
-  - Incantus Hydalis
 tags:
   - hex-hodai
 type: skill

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thóren Bélthal
-  - Thoren Belthal
 tags:
   - draft
   - tradesfolk

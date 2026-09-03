@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kinsman
 tags:
   - draft
 id: sCXDuEPJYQlkv8xS

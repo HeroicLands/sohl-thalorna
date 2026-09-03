@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valcèrise
-  - Valcerise
 id: UR8xNtWDuaHZdxsJ
 tags:
   - town

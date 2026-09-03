@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alchema
 tags: []
 name:
   full: Potioncraft

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terravia
 id: Vd6yGx4kVm8Sb3Ld
 tags:
   - town

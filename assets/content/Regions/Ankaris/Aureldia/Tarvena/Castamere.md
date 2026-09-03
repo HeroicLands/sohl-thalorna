@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Castamere
 id: lR8iAwaI3Q3MlekO
 tags:
   - castle

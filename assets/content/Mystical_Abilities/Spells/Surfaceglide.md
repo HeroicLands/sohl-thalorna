@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Waterwalk
 tags: []
 name:
   full: Surfaceglide

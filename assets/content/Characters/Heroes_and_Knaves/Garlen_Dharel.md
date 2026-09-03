@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gârlen Dhárel
-  - Gârlen Dhárel
-  - Garlen Dharel
 tags:
   - heroes-and-knaves
   - tradesfolk

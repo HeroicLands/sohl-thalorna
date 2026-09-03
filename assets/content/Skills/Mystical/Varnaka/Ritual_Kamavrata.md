@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Kāmavrata"
-  - Kāmavrata
-  - Kamavrata
-  - The Celestial Lover
 tags:
   - varnaka
   - faith-skill
@@ -13,7 +8,10 @@ id: mvVDbo7atxmWl3qm
 shortcode: kamavrata
 name:
   full: "Ritual: Kāmavrata"
-  aliases: []
+  aliases:
+    - Kāmavrata
+    - Kamavrata
+    - The Celestial Lover
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

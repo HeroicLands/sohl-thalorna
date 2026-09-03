@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dek Vetrdómr
-  - Dek Vetrdomr
 tags:
   - heroes-and-knaves
   - common-folk

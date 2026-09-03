@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Greywater
 id: md1o5v1VaxgYEye0
 tags:
   - village

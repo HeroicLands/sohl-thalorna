@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Decay
 tags: []
 name:
   full: Wither

@@ -1,8 +1,5 @@
 ---
 description: "Legitimacy."
-aliases:
-  - Yütvëi
-  - Yutvei
 id: TD1EXmLxLFzampwA
 tags:
   - celestial-official

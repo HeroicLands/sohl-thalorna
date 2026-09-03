@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Falkenstein
 id: TgcoCbH421uQfKWo
 tags:
   - fortress

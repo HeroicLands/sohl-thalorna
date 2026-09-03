@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rísàkós Ibârìthôs
-  - Risakos Ibarithos
 tags:
   - draft
   - tradesfolk

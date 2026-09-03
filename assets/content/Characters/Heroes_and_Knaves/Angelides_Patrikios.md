@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ángelides Patrikîos
-  - Ángelides Patrikîos
-  - Angelides Patrikios
 tags:
   - heroes-and-knaves
   - todo

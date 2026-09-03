@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Khazár Folk
-  - Khazar Folk
 tags:
   - lore
   - lineage

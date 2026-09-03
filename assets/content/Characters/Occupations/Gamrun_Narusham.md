@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gamrûn Narûsham
-  - Gamrun Narusham
 tags:
   - draft
   - guilded

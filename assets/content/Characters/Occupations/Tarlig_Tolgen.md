@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Târlig Tólgen
-  - Tarlig Tolgen
 tags:
   - draft
   - common-folk

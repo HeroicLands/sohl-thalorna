@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sekhet'Neru
 tags:
   - company
   - hunters

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gróa the Seiðr of Norgaad
 tags:
   - heroes-and-knaves
   - hero

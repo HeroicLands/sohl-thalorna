@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rockhide Golem
 tags:
   - construct
 name:

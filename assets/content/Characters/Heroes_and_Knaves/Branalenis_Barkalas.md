@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Brânalenîs Bárkalâs
-  - Brânalenîs Bárkalâs
-  - Branalenis Barkalas
 tags:
   - heroes-and-knaves
   - common-folk

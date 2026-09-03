@@ -1,8 +1,5 @@
 ---
 description: "Prosperity, Wealth, Hedonism, Sensual Pleasure."
-aliases:
-  - Faith of Árávēštä
-  - The Golden Giver
 id: dnb5G8ef4quWwoK3
 tags:
   - religion
@@ -103,7 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Árávēštä
-  aliases: []
+  aliases:
+    - The Golden Giver
 shortcode: aravesta
 alias: Árávēštä, The Golden Giver
 folder: 7so6UiPt445oIHWs

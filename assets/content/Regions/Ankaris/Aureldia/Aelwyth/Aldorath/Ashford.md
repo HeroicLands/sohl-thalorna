@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashford
 id: RMwDrWEzwzEajWbh
 tags:
   - town

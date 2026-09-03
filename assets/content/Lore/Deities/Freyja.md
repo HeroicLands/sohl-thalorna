@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fréyja
 tags:
   - draft
 id: 4xtDLgcLGqMLaXd7

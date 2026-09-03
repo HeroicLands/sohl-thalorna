@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Frítha Stormrót
-  - Fritha Stormrot
 tags:
   - draft
   - common-folk

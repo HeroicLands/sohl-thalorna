@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Demétrion Komnênos
-  - Demetrion Komnenos
 tags:
   - todo-warrior
   - draft

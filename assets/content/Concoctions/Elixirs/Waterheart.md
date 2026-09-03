@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Waterheart
-  - Aqua Elixir
 tags:
   - elixir
 name:
   full: Waterheart
-  aliases: []
+  aliases:
+    - Aqua Elixir
 description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
 id: XFda9zcmLdiJF4aW
 img: icons/potion.svg

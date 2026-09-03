@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Hél"
-  - The Eternal Night
 tags:
   - asguardian
   - faith-skill
@@ -12,7 +9,8 @@ shortcode: hel
 img: images/affiliation/hel.webp
 name:
   full: "Ritual: Hél"
-  aliases: []
+  aliases:
+    - The Eternal Night
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

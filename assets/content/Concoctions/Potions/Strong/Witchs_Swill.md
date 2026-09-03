@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "Witch's Swill"
-  - "Potion, Emetic, Strong"
 tags:
   - strong-elixir
 name:
   full: "Witch's Swill"
-  aliases: []
+  aliases:
+    - Potion, Emetic, Strong
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."
 id: elc3nRI3un00aLJb
 img: icons/potion.svg

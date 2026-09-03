@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Blood and Ashes in Céravel Vale
-  - Blood and Ashes in Ceravel Vale
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario

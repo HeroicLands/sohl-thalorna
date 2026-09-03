@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kallíxenos Paraklávos
-  - Kallíxenos Paraklávos
-  - Kallixenos Paraklavos
 tags:
   - heroes-and-knaves
   - guilded

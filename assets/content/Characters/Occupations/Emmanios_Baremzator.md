@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Émmanîôs Bàremzâtôr
-  - Emmanios Baremzator
 tags:
   - todo
   - draft

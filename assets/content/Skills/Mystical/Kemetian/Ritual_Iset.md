@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Íšét"
-  - Mother of New Beginnings
-  - Íšét
-  - Iset
 tags:
   - kemetian
   - faith-skill
@@ -13,7 +8,10 @@ id: q5DDjRoqPhzgAKZL
 shortcode: iset
 name:
   full: "Ritual: Íšét"
-  aliases: []
+  aliases:
+    - Mother of New Beginnings
+    - Íšét
+    - Iset
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

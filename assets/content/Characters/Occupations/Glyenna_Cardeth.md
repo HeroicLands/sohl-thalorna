@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Glýenna Cárdeth
-  - Glyenna Cardeth
 tags:
   - todo
   - draft

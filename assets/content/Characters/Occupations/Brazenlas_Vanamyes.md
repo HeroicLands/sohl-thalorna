@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bràzenlâs Vânamyês
-  - Brazenlas Vanamyes
 tags:
   - draft
   - tradesfolk

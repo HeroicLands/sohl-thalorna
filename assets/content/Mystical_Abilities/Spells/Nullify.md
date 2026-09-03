@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dispel
 tags: []
 name:
   full: Nullify

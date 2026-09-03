@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shadow Lynx
 tags:
   - animal
 name:

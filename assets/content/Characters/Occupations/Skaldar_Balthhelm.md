@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Skaldár Balthhelm
-  - Skaldar Balthhelm
 tags:
   - draft
   - guilded

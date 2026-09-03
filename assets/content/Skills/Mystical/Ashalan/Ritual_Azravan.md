@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ázráván"
-  - Lord of the Final Horizon
 tags:
   - ashalan
   - faith-skill
@@ -11,7 +8,8 @@ id: 6ZtPiHC4pBErOYsN
 shortcode: azravan
 name:
   full: "Ritual: Ázráván"
-  aliases: []
+  aliases:
+    - Lord of the Final Horizon
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

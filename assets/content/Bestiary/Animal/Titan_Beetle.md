@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Titan Beetle
 tags:
   - animal
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thornback Raptor
 tags:
   - animal
 name:

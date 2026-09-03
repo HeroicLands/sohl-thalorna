@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Júthâra Jâmîthôn
-  - Júthâra Jâmîthôn
-  - Juthara Jamithon
 tags:
   - heroes-and-knaves
   - tradesfolk

@@ -1,10 +1,5 @@
 ---
 description: "Order."
-aliases:
-  - Faith of Má'át
-  - Keeper of Truth and Harmony
-  - Má'át
-  - Maat
 id: 8UDuoqZwGQlSCCc7
 tags:
   - kemetian
@@ -106,7 +101,10 @@ sohl:
   archetype: null
 name:
   full: Faith of Má'át
-  aliases: []
+  aliases:
+    - Keeper of Truth and Harmony
+    - Má'át
+    - Maat
 shortcode: maat
 banner: banners/ta-kheperu-banner.webp
 alias: Má'át, Keeper of Truth and Harmony

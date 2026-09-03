@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sinalë Folk
-  - Sinale Folk
 tags:
   - lore
   - lineage

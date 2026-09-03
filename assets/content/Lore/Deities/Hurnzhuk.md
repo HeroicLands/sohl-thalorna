@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hürnzhük
 tags:
   - draft
 id: 5zTCtj8ctmolFYHP

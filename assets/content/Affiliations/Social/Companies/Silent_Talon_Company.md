@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silent Talon Company
 tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: affiliation

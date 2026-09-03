@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Monvèrdre
-  - Monverdre
 id: gcqQMrf3iloHRPXm
 tags:
   - town

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Boulderback
 tags:
   - dreadspawn
 name:

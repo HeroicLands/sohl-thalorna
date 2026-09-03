@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mandate of Heaven
 id: Zn84KmMhXmjJnQrQ
 type: lore
 subType: theology

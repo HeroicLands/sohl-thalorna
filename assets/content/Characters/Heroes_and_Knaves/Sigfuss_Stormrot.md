@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sigfúss Stormrót
-  - Sigfúss Stormrót
-  - Sigfuss Stormrot
 tags:
   - heroes-and-knaves
   - common-folk

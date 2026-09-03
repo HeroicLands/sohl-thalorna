@@ -1,8 +1,5 @@
 ---
 description: "Death."
-aliases:
-  - Faith of Sēker
-  - Lord of Silent Passage
 id: hGOwhonk8cDu3pi0
 tags:
   - kemetian
@@ -104,7 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Sēker
-  aliases: []
+  aliases:
+    - Lord of Silent Passage
 shortcode: seker
 banner: banners/ta-kheperu-banner.webp
 alias: Sēker, Lord of Silent Passage

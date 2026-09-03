@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ethelinda Wigmore
 tags:
   - draft
   - soldiery

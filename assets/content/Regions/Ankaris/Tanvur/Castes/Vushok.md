@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vüshōk
-  - Vushok
 id: SAOPtLI8wTxMqwOk
 type: lore
 subType: culture

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thária Castírenna
-  - Tharia Castirenna
 tags:
   - draft
   - common-folk

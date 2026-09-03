@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kamîd Khâvandar
-  - Kamîd Khâvandar
-  - Kamid Khavandar
 tags:
   - heroes-and-knaves
   - common-folk

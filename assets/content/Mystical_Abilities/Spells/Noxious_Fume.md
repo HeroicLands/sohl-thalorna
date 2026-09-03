@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Noxious Fume
-  - Mephitis
 tags: []
 name:
   full: Noxious Fume

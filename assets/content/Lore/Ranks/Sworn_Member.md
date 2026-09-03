@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sworn Member
 tags:
   - draft
 id: TlJYBFsUwS0lYjBY

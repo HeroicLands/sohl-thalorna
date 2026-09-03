@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Haldrvík
-  - Haldrvik
 id: zvHZeopFCRUFvSUh
 tags:
   - port

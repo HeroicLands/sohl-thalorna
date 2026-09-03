@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Mithran Mazânid
-  - Mithran Mazânid
-  - Mithran Mazanid
 tags:
   - heroes-and-knaves
   - common-folk

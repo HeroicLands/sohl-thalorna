@@ -1,7 +1,5 @@
 ---
 description: "Love, Beauty, and Prosperity."
-aliases:
-  - Faith of Fréyja
 id: CRcCfHFzsSdXQ1Df
 tags:
   - asguardian

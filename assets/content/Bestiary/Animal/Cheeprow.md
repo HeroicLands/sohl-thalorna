@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheeprow
 tags:
   - animal
 name:

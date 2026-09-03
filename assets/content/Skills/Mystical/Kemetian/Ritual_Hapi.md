@@ -1,11 +1,4 @@
 ---
-aliases:
-  - "Ritual: Hâpi"
-  - Hâpi
-  - Hapy
-  - Apis
-  - The Golden Reveler
-  - The Overflowing One
 tags:
   - kemetian
   - faith-skill
@@ -15,7 +8,12 @@ id: xI4DUckihShylSzh
 shortcode: hapi
 name:
   full: "Ritual: Hâpi"
-  aliases: []
+  aliases:
+    - Hâpi
+    - Hapy
+    - Apis
+    - The Golden Reveler
+    - The Overflowing One
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

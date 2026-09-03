@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Dāktūr Vōrthāt"
-  - Dāktūr Vōrthāt
-  - Daktur Vorthat
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,7 +8,9 @@ id: KGNBbd2wcsgUoxuh
 shortcode: daktrvrtht
 name:
   full: "Ritual: Dāktūr Vōrthāt"
-  aliases: []
+  aliases:
+    - Dāktūr Vōrthāt
+    - Daktur Vorthat
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

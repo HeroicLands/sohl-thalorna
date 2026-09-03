@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Revelation
 tags: []
 name:
   full: Reveal

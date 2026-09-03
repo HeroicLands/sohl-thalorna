@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vithár Hildvith
-  - Vithar Hildvith
 tags:
   - draft
   - tradesfolk

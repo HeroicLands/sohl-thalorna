@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stench
 tags: []
 name:
   full: Foulness

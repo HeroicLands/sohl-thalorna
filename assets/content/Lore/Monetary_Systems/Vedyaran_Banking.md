@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vedyaran Banking
-  - Vedyaran Currency
-  - Vedyaran Monetary System
 tags:
   - reference
   - currency
@@ -17,6 +13,7 @@ name:
   full: Vedyaran Banking
   aliases:
     - Vedyaran Currency
+    - Vedyaran Monetary System
 shortcode: vdyrnbnkng
 folder:
 ---

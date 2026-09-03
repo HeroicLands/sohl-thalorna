@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mountain Troll
 tags:
   - dreadspawn
 name:

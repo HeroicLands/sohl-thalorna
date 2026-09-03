@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dire Wolverine
 tags:
   - animal
 name:

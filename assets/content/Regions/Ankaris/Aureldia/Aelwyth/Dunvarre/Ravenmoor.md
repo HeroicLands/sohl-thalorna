@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ravenmoor
 id: mwtTAWXEPhrvwxHS
 tags:
   - settlement

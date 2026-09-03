@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tot'kar Het'Wera
-  - Totkar HetWera
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,7 +9,8 @@ name:
   given: Tot'kar
   clan: Het'Wera
   home: Meru-Hotep
-  aliases: []
+  aliases:
+    - Totkar HetWera
 id: oVd0fGTKVyci3mOS
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

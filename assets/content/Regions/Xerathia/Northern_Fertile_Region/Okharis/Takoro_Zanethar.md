@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tákoro Zanethar
-  - Takoro Zanethar
 tags:
   - administration
 name:

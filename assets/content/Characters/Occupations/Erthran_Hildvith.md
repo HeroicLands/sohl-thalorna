@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erthran Hildvith
 tags:
   - draft
   - common-folk

@@ -1,8 +1,5 @@
 ---
 description: "Decay."
-aliases:
-  - Faith of Mórváhñä
-  - The Silent Keeper
 id: KfrgWBWTpFC8P2uZ
 tags:
   - religion
@@ -104,7 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Mórváhñä
-  aliases: []
+  aliases:
+    - The Silent Keeper
 shortcode: morvahna
 alias: Mórváhñä, The Silent Keeper
 folder: 7so6UiPt445oIHWs

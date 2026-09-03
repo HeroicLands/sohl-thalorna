@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Luminophage
 tags:
   - dreadspawn
 name:

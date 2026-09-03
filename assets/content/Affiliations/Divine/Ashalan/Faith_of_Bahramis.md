@@ -1,9 +1,5 @@
 ---
 description: "Storms, Battle, Protection."
-aliases:
-  - Faith of Báhrámiš
-  - The Thunder Rider
-  - Storm God
 id: vwIXO5fa1yyEi4FO
 tags:
   - religion
@@ -105,7 +101,9 @@ sohl:
   archetype: null
 name:
   full: Faith of Báhrámiš
-  aliases: []
+  aliases:
+    - The Thunder Rider
+    - Storm God
 shortcode: bahramis
 alias: Báhrámiš, The Thunder Rider
 folder: 7so6UiPt445oIHWs

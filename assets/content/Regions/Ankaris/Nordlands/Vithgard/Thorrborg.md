@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thorrborg
 id: lLZtjVvo1K6TGm1A
 tags:
   - town

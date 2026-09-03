@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maréndal
 id: NgdpgK19TbXSBuwE
 tags:
   - port

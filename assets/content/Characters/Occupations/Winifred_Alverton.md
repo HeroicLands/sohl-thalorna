@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Winifred Alverton
 tags:
   - draft
   - tradesfolk

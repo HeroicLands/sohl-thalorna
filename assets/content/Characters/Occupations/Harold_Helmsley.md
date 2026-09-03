@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harold Helmsley
 tags:
   - draft
   - tradesfolk

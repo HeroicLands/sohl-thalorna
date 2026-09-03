@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The First Gods (the Bright and the Dark)
 tags:
   - draft
 id: zgKtxZp9xkDq8Ayb

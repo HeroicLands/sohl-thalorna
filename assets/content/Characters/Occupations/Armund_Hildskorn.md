@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ármund Hildskorn
-  - Armund Hildskorn
 tags:
   - draft
   - tradesfolk

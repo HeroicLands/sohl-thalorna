@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Stálbrekka
-  - Stalbrekka
 id: htPFubBTLySO6pYs
 tags:
   - settlement

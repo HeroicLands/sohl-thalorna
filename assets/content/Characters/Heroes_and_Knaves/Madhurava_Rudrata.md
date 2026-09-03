@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Màdhurava Rudraṭa
-  - Màdhurava Rudraṭa
-  - Madhurava Rudrata
 tags:
   - heroes-and-knaves
   - guilded

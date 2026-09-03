@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Per'Mesnu
-  - The House of the Mesnu
-  - Ta'Kheperu Metalworkers' Guild
 tags:
   - organization
   - takheperu
@@ -18,6 +14,7 @@ name:
     - The House of the Mesnu
     - The Ta'Kheperu Metalworkers' Guild
     - The Smith-House of the Per-Aá
+    - Ta'Kheperu Metalworkers' Guild
 shortcode: permesnu
 type: affiliation
 subType: guild

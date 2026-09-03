@@ -2,8 +2,7 @@
 tags: []
 name:
   full: Mask
-  aliases:
-    - Mask
+  aliases: []
 description: "Illusion hiding caster's identity and appearance; deeply deceptive."
 id: evHnQSALN3l19wSL
 img: icons/circle.svg

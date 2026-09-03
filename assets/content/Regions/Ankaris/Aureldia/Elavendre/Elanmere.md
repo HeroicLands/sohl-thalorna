@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elanmere
 id: rvpZLPq6bDeSMrLX
 tags:
   - town

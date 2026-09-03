@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tyrellan
 id: P01J8cKSZZ3mWGLH
 tags:
   - city

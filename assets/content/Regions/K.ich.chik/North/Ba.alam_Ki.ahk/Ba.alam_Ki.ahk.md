@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Ki'ahk
 tags:
   - polity
 title: ""

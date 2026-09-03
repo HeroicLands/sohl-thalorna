@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Konstántinos Polytimós
-  - Konstántinos Polytimós
-  - Konstantinos Polytimos
 tags:
   - heroes-and-knaves
   - common-folk

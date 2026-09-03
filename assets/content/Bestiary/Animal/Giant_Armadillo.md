@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Armadillo
 tags:
   - animal
 name:

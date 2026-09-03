@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sebeq'Sut
-  - Kheperi Merchant Alliance
 tags:
   - organization
   - takheperu
@@ -12,6 +9,7 @@ name:
   full: Sebeq'Sut
   aliases:
     - Merchant Alliance
+    - Kheperi Merchant Alliance
 shortcode: sebeqsut
 type: affiliation
 subType: guild

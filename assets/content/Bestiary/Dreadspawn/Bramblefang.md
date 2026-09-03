@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bramblefang
 tags:
   - dreadspawn
 name:

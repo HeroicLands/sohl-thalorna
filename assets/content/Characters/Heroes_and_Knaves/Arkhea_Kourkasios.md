@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Arkhêa Kourkásios
-  - Arkhêa Kourkásios
-  - Arkhea Kourkasios
 tags:
   - heroes-and-knaves
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rockback Bear
 tags:
   - animal
 name:

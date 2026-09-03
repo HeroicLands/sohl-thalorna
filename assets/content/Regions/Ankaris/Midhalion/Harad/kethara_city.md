@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kethara
 id: b1sHNYrkFRl8FjPK
 tags:
   - city

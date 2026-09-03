@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veil
 tags: []
 name:
   full: Mystic Cloak

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lôthônâ Hârlânis
-  - Lothona Harlanis
 tags:
   - todo-warrior
   - draft

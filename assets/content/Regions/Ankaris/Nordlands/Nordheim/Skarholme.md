@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skarholme
 id: dqjMFAr8WiEftACv
 tags:
   - town

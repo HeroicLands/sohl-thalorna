@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nordheimn
 tags:
   - draft
 id: p2mwimODwqalEhGn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Officer
 tags:
   - draft
 id: elUW7FNLWEKWFB34

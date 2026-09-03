@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Röthöt Dākvëng
 tags:
   - draft
 id: WEUPn7ylNcIAFD28

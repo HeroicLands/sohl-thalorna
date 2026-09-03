@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tarvénia Region
-  - Tarvénia
 id: m9INe4BtMRe7EMjd
 description: "Region of the Aurèldían heartland — patchwork of independent fiefdoms, city-states, and free territories bound by shared Tarvéni language and warrior culture."
 type: place
@@ -15,7 +12,8 @@ data:
   population: null
 name:
   full: Tarvénia Region
-  aliases: []
+  aliases:
+    - Tarvénia
 shortcode: tarvenirgn
 terran_analog: "The bulk of Spain (including Andorra) and southeastern France up to the southern Alps — a peninsular patchwork of feudal kingdoms, free cities, and contested mountain marches between the Aurèldían west and the Vylarian east."
 folder: DB9rgGreD8FtqoBx

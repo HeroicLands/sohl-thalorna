@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yütvëi
 tags:
   - draft
 id: I7Nj21uTRJdynMjD

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ánira Róseneth
-  - Anira Roseneth
 tags:
   - draft
   - tradesfolk

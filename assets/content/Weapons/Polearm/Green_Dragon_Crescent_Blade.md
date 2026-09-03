@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Green Dragon Crescent Blade
 tags: []
 name:
   full: Green Dragon Crescent Blade

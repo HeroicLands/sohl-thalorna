@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Ember Draft
-  - "Potion, Stimulant, Mild"
 tags:
   - mild-elixir
 name:
   full: Ember Draft
-  aliases: []
+  aliases:
+    - Potion, Stimulant, Mild
 description: "Bright energetic liquid; invigorates body and stimulates mental."
 id: aMlypJXRsEpgcUTL
 img: icons/potion.svg

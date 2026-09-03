@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thâven Fárwèn
-  - Thaven Farwen
 tags:
   - draft
   - tradesfolk

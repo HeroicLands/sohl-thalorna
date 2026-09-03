@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Isâra Khalîdra
 tags:
   - tamzir-crew
   - administration

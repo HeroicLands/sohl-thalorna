@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Qiang
 tags: []
 name:
   full: Qiang

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giant Jumping Spider
 tags:
   - animal
 name:

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Capital Nome
-  - The Capital Nome of Ta'Kheperu
-  - Nome of Wasetkara
 id: HcPVVgkUauyvoGg7
 description: "The vast central nome surrounding the imperial city of Wasetkara — seat of the Per-Aá, home of the central bureaucracy and the greatest temples, and site of the royal necropolis; not one of a class but a single enormous province in its own right."
 type: affiliation
@@ -11,6 +7,7 @@ name:
   full: The Capital Nome
   aliases:
     - Nome of Wasetkara
+    - The Capital Nome of Ta'Kheperu
 shortcode: capitalnom
 subType: polity
 data:

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Véthar Balthhelm
-  - Vethar Balthhelm
 tags:
   - draft
   - guilded

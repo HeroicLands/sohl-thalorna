@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jian
 tags: []
 name:
   full: Jian

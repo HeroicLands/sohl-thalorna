@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mórváná
 tags:
   - draft
 id: MLpgdvKgiysKU4Q9

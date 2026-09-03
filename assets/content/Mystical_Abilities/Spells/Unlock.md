@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Key
 tags: []
 name:
   full: Unlock

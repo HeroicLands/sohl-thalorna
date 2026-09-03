@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Óðinn
 tags:
   - draft
 id: 4aJ2I19XyEG2cEA9

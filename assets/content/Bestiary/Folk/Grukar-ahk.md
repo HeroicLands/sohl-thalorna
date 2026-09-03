@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Grukar-ahk
-  - Grukar-Ahk
 tags:
   - folk
 name:

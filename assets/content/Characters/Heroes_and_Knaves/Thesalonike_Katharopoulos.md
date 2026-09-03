@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thêsaloníke Katharópoulos
-  - Thêsaloníke Katharópoulos
-  - Thesalonike Katharopoulos
 tags:
   - heroes-and-knaves
   - common-folk

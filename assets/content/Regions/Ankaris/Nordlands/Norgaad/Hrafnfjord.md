@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrafnfjord
 id: xeSkAGJdEwb4NNx6
 tags:
   - village

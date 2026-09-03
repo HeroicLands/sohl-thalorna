@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ermelína Drekanótt
-  - Ermelína Drekanótt
-  - Ermelina Drekanott
 tags:
   - heroes-and-knaves
   - tradesfolk

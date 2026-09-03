@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Chrysántos Kavadáris
-  - Chrysántos Kavadáris
-  - Chrysantos Kavadaris
 tags:
   - heroes-and-knaves
   - guilded

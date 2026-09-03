@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Xâthrîon Kâserânis
-  - Xathrion Kaseranis
 tags:
   - draft
   - tradesfolk

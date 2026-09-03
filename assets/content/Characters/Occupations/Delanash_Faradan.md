@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Delânash Faradân
-  - Delanash Faradan
 tags:
   - todo-warrior
   - draft

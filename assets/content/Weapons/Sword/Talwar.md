@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Talwar
 tags: []
 name:
   full: Talwar

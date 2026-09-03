@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tîgh'Savâran of the Zarnûsh
 tags:
   - company
   - warriors

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Khazri
 tags:
   - draft
 name:
   full: Khazri Language
-  aliases: []
+  aliases:
+    - Khazri
 description: "The tongue of Khazri people."
 id: JZqjDh0FCr8uFOt2
 img: icons/speaking.svg

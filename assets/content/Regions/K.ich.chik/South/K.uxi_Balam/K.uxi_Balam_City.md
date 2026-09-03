@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'uxi Balam
 id: MMURsVSWP10cDwXu
 tags:
   - city

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Rudâvah Farrud
-  - Rudâvah Farrud
-  - Rudavah Farrud
 tags:
   - heroes-and-knaves
   - guilded

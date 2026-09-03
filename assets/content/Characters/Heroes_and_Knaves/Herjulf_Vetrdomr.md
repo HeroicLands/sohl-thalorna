@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Herjúlf Vetrdómr
-  - Herjúlf Vetrdómr
-  - Herjulf Vetrdomr
 tags:
   - heroes-and-knaves
   - common-folk

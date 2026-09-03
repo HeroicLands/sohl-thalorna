@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Embermaw
 tags:
   - elemental
 name:

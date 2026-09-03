@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Slumber
 tags: []
 name:
   full: Rest

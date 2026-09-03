@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sound
 tags: []
 name:
   full: Resonance

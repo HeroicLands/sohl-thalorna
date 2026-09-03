@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mihrabad
 id: rQvNmHX5CBBhFmkH
 tags:
   - town

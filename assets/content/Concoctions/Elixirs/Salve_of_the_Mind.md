@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Salve of the Mind
-  - Mindslave Elixir
 tags:
   - elixir
 name:
   full: Salve of the Mind
-  aliases: []
+  aliases:
+    - Mindslave Elixir
 description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
 id: nFNF8vmIEh6lWKYu
 img: icons/potion.svg

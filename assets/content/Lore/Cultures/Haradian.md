@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haradian
 tags:
   - draft
 id: GNLAmiucBWlc0Fnh

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Northern Fertile Region
-  - Northern Fertile Crescent
-  - The Fertile Crescent
 tags:
   - region
 description: The productive belt along Xerathia's northern shore — three distinct civilizations (Bethua, Ta'Kheperu, Okháris) layered across a climate gradient from wet-coastal Vylarian-Sea littoral through aqueduct-irrigated interior to semi-arid southern savanna.
@@ -10,6 +6,7 @@ name:
   full: Northern Fertile Region
   aliases:
     - Northern Fertile Crescent
+    - The Fertile Crescent
 id: 7kQmNf4Yr2xL8pB3
 shortcode: nrthrnfrtlrgn
 type: place

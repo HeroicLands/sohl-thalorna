@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fréyr
 tags:
   - draft
 id: mq344TtjhhR4dopA

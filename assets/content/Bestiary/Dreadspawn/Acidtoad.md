@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Acidtoad
 tags:
   - dreadspawn
 name:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'uxi Balam
 tags:
   - polity
 title: ""
