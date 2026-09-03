@@ -91,9 +91,9 @@ data:
   economy: []
   lore: []
   parents:
-    - mtrrchybth
+    - gvrnmntbth
   relations:
-    mtrrchybth: aligned
+    gvrnmntbth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
 sohl:
