@@ -92,8 +92,10 @@ data:
   lore: []
   parents:
     - gvrnmntbth
+    - mtrrchybth
   relations:
     gvrnmntbth: aligned
+    mtrrchybth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
 sohl:
