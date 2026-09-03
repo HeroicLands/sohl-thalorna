@@ -108,7 +108,7 @@ folder: Y64e5NGsp8OwZ6xQ
 
 ## Overview
 
-The Matriarchy of Bethûa is a society in which women hold political, religious, and military authority. Located in the [[place-xerathia|Northern Fertile Region]] of Xerathia, east of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], Bethûa is a prosperous agricultural state organized around a strict gender hierarchy that inverts the patriarchal norms common to most of [[place-ankrscntnnt|Ankaris Continent]]. The realm is governed by the **Two Pillars** — a sacred pillar of priestesses and a secular pillar of clan-matriarchs — joined at the summit by the **[[affiliation-gvrnmntbth|Mêtríssa]]**, who is at once Queen and High Priestess. The throne passes not by inheritance but by election within the female royal line. See **[[affiliation-gvrnmntbth|Government of Bethûa]]** for the full structure, titles, and succession.
+The Matriarchy of Bethûa is a society in which women hold political, religious, and military authority. Located in the [[place-xerathia|Northern Fertile Region]] of Xerathia, east of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], Bethûa is a prosperous agricultural state organized around a strict gender hierarchy that inverts the patriarchal norms common to most of [[place-ankrscntnnt|Ankaris Continent]]. The realm is governed by the **Two Pillars** — a sacred pillar of priestesses and a secular pillar of clan-matriarchs — joined at the summit by the **[[affiliation-gvrnmntbth|Mêtríssa]]**, who is at once Queen and High Priestess. The throne passes not by inheritance but by election within the female royal line. See **[[affiliation-gvrnmntbth|Bethûan Matriarchy]]** for the full structure, titles, and succession.
 
 ## Geography
 
@@ -128,7 +128,7 @@ Bethûa keeps a large and highly regarded military. Its army is a professional w
 
 ## History
 
-Bethûa began as a **Helonic colonial foundation** — a daughter-settlement of the seafaring Helonic peoples, planted on the southern Vylarian coast and long governed from across the sea. Its matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[skill-bethunlng|Helonic-descended tongue]] all date to this deep colonial past. Independence came only comparatively recently, in a war of separation from the Helonic metropole that Bethûa won with the decisive backing of [[affiliation-empirtkhpr|Ta'Kheperu]] — whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[affiliation-cnfdrtnhrdnstts|Harad]]. That alliance left a permanent mark: Bethûa kept its Aurèldían faith and the Helonic core of its sacred and clan institutions, but its newer machinery — treasury, water-engineering corps, court accounts, currency — was rebuilt on Kheperi models and bears Kheperi names to this day. See [[affiliation-gvrnmntbth|Government of Bethûa]] for how this history shaped the modern state.
+Bethûa began as a **Helonic colonial foundation** — a daughter-settlement of the seafaring Helonic peoples, planted on the southern Vylarian coast and long governed from across the sea. Its matriarchal traditions, its [[affiliation-arldnpnthn|Aurèldían]] faith, and its [[skill-bethunlng|Helonic-descended tongue]] all date to this deep colonial past. Independence came only comparatively recently, in a war of separation from the Helonic metropole that Bethûa won with the decisive backing of [[affiliation-empirtkhpr|Ta'Kheperu]] — whose court saw in a free Bethûa a useful check on Helonic and Vylarian reach along the southern sea, much as it would later midwife the secession of [[affiliation-cnfdrtnhrdnstts|Harad]]. That alliance left a permanent mark: Bethûa kept its Aurèldían faith and the Helonic core of its sacred and clan institutions, but its newer machinery — treasury, water-engineering corps, court accounts, currency — was rebuilt on Kheperi models and bears Kheperi names to this day. See [[affiliation-gvrnmntbth|Bethûan Matriarchy]] for how this history shaped the modern state.
 
 ## Commerce and Currency
 
@@ -148,7 +148,7 @@ The single exception is **Ta'Kheperu**. An official representative of the Kheper
 
 ## See Also
 
-- [[affiliation-gvrnmntbth|Government of Bethûa]] — The Two Pillars: full government structure, titles, and succession
+- [[affiliation-gvrnmntbth|Bethûan Matriarchy]] — The Two Pillars: full government structure, titles, and succession
 - [[affiliation-bethuanflt|The Bethûan Fleet]] — The navy and the privateer war on Vylarian shipping
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Western neighbor and patron
 - [[place-helionis|Heliónis]] — Distant cultural cousin (shared Helonic linguistic roots)

@@ -173,7 +173,7 @@ The equilibrium holds because no one wants it broken: Vylaria cannot project dec
 ## See Also
 
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — the realm
-- [[affiliation-gvrnmntbth|Government of Bethûa]] — the Two Pillars, the martial command, and the status of men
+- [[affiliation-gvrnmntbth|Bethûan Matriarchy]] — the Two Pillars, the martial command, and the status of men
 - [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] — the maritime Houses that build, crew, and profit from the fleet
 - [[place-vylarianse|Vylarian Sea]] — the contested sea and its maritime powers
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the patron whose proxy strategy the fleet enacts

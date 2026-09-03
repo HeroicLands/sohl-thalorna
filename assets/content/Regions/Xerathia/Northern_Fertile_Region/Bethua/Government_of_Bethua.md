@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Bethûan Matriarchy
   - Government of Bethûa
   - The Two Pillars of Bethûa
   - The Mêtríssa
@@ -101,8 +102,9 @@ sohl:
   archetype: null
 id: lGNHthvWH3rv0JTS
 name:
-  full: Government of Bethûa
+  full: Bethûan Matriarchy
   aliases:
+    - Government of Bethûa
     - The Two Pillars
     - The Mêtríssa and the Two Councils
 shortcode: gvrnmntbth
