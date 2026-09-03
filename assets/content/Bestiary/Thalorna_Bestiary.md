@@ -22,7 +22,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "animal" AND package = "thalorna"
+WHERE type = "being" AND sohl.kbcat = "animal" AND package = "thalorna"
 ```
 
 # Constructs {#constructs}
@@ -36,7 +36,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "construct"
+WHERE type = "being" AND sohl.kbcat = "construct"
 ```
 
 # Dreadspawn {#dreadspawn}
@@ -50,7 +50,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "dreadspawn"
+WHERE type = "being" AND sohl.kbcat = "dreadspawn"
 ```
 
 # Elementals {#elementals}
@@ -64,7 +64,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "elemental"
+WHERE type = "being" AND sohl.kbcat = "elemental"
 ```
 
 # Grukar - A Blight Upon the Land {#grukar}
@@ -172,7 +172,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "goblin"
+WHERE type = "being" AND sohl.kbcat = "goblin"
 ```
 
 # Helspawn {#helspawn}
@@ -200,7 +200,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "helspawn"
+WHERE type = "being" AND sohl.kbcat = "helspawn"
 ```
 
 # Mythic Creatures {#mythic}
@@ -214,7 +214,7 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "mythic"
+WHERE type = "being" AND sohl.kbcat = "mythic"
 ```
 
 # Spirit Creatures {#spirit}
@@ -228,5 +228,5 @@ TABLE WITHOUT ID
   sohl.body.weight.base AS "Weight",
   sohl.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
-WHERE type = "creature" AND sohl.kbcat = "spirit"
+WHERE type = "being" AND sohl.kbcat = "spirit"
 ```

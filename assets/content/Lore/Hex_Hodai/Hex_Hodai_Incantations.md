@@ -17,7 +17,7 @@ folder: H8lfX9Zy7YDUeAjX
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "pyrethos"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "pyrethos"
 SORT level, name.full ASC
 ```
 
@@ -25,7 +25,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "zepharis"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "zepharis"
 SORT level, name.full ASC
 ```
 
@@ -33,7 +33,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "physera"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "physera"
 SORT level, name.full ASC
 ```
 
@@ -41,7 +41,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "hydalis"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "hydalis"
 SORT level, name.full ASC
 ```
 
@@ -49,7 +49,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "sideros"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "sideros"
 SORT level, name.full ASC
 ```
 
@@ -57,7 +57,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "pneumenos"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "pneumenos"
 SORT level, name.full ASC
 ```
 
@@ -65,7 +65,7 @@ SORT level, name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and sohl.subType = "arcaneincantation" and sohl.assocSkillCode = "kentra"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "kentra"
 SORT level, name.full ASC
 ```
 
