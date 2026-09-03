@@ -9,10 +9,6 @@ name:
   full: The Fae Courts
   aliases: []
 shortcode: faecourts
-languages: []
-pantheons: []
-demonym: ""
-government: ""
 folder: drAoDoNnFEygATeK
 ---
 

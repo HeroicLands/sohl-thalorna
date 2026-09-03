@@ -10,13 +10,11 @@ tags:
   - ordo-arcanis
 type: lore
 subType: arcana
-topic: true
 id: Y3NajXCuLZv4CSis
 shortcode: hexhodai
 name:
   full: Héx Hodäi
   aliases: []
-region: Western Ankaris
 folder: H8lfX9Zy7YDUeAjX
 ---
 

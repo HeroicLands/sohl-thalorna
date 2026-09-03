@@ -10,6 +10,9 @@ tags:
   - secret
   - metaphysics
 type: lore
+name:
+  full: The Truth of Magic
+  aliases: []
 subType: arcana
 id: DtLucc6IKCuifIbL
 folder: t3p5qf6rZc8w0Nc4

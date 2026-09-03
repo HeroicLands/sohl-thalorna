@@ -3,7 +3,6 @@ aliases:
   - Zëisīk
   - Zeisik
 id: BGxle7KCGjQb8PGt
-title: The Ritual of Self-Death
 type: lore
 subType: culture
 name:

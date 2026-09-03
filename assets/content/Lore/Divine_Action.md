@@ -11,6 +11,9 @@ tags:
   - secret
   - metaphysics
 type: lore
+name:
+  full: The Truth of Divine Action
+  aliases: []
 subType: theology
 id: VHMy9CkCoifLkNnA
 folder: t3p5qf6rZc8w0Nc4

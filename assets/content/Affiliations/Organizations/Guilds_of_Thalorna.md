@@ -14,13 +14,6 @@ name:
 shortcode: guldsthlrn
 type: lore
 subType: economy
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
-  archetype: null
 folder:
 ---
 
