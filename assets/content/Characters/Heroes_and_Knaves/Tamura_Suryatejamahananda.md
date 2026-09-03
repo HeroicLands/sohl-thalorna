@@ -5,6 +5,7 @@ aliases:
   - Tamura Suryatejamahananda
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Tamûra Sūryatejamahānanda
   title: ""
@@ -16,34 +17,31 @@ id: e5ZUZ5Awlc7fthSo
 folder: JotxZnnXcTECeYW3
 shortcode: tmrsrytjmhnnd
 img: icons/person.svg
-portrait: images/being/tmrsrytjmhnnd-portrait.webp
 type: being
-thalorna:
-  realm: rajaprjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/tmrsrytjmhnnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - rajaprjnpd
   gender: male
+  species: null
   age: 54
   birthday: 666/2/26
-  height:
-    m: 1.83
-  weight:
-    kg: 79.8
-  build:
-    frame: medium
+  height: 1.83
+  weight: 79.8
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: graying_black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a butterfly on the neck
 sohl:

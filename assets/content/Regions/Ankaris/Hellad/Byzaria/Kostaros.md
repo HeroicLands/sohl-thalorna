@@ -2,23 +2,22 @@
 aliases:
   - Kostaros
 id: TsDj0UNe3SEKVrTw
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
-settlementType: "Port Town"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Kostaros
   aliases: []
 shortcode: kostaros
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

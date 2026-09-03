@@ -5,6 +5,7 @@ aliases:
   - Anuraja Harsadevambujakar
 tags:
   - heroes-and-knaves
+  - underworld
 name:
   full: Anûraja Harṣadēvāmbujakar
   title: ""
@@ -16,34 +17,31 @@ id: YHBgnmtqKa4EczPy
 folder: JotxZnnXcTECeYW3
 shortcode: anrjhrdvmbjkr
 img: icons/person.svg
-portrait: images/being/anrjhrdvmbjkr-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/anrjhrdvmbjkr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Assassin
-  station: underworld
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: male
+  species: null
   age: 31
   birthday: 689/10/30
-  height:
-    m: 1.83
-  weight:
-    kg: 74.8
-  build:
-    frame: medium
+  height: 1.83
+  weight: 74.8
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a tiger on the forearm
 sohl:

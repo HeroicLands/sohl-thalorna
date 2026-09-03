@@ -2,22 +2,22 @@
 aliases:
   - Kashmuret
 id: OuVksHRIQjPWu72i
+tags:
+  - town
+  - trading
+description: "Trading Town"
 type: place
 subType: settlement
-settlementType: "Trading Town"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - haradregin
+  population: null
 name:
   full: Kashmuret
   aliases: []
 shortcode: kashmuret
-parent:
-  polities:
-    - varoshan
 folder: umL4KFGO3MD4u9X1
 ---
 
@@ -33,7 +33,7 @@ Kashmuret's architecture reflects its role as a transit hub: the largest structu
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
 - [[skill-haradilng|Haradi]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition

@@ -2,23 +2,22 @@
 aliases:
   - Ashford
 id: RMwDrWEzwzEajWbh
+tags:
+  - town
+  - river
+description: "River Town"
 type: place
 subType: settlement
-settlementType: "River Town"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aldorathrgn
+  population: null
 name:
   full: Ashford
   aliases: []
 shortcode: ashford
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

@@ -4,6 +4,7 @@ aliases:
   - Kalendris Korkalenis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kàlendrîs Korkâlenîs
   title: ""
@@ -16,38 +17,33 @@ id: nGqi7w4e4pxskC1I
 folder: UFBfgKZUF0bAE7gG
 shortcode: klndrskrklns
 img: icons/person.svg
-portrait: images/being/klndrskrklns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/klndrskrklns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 30
   birthday: 690/3/22
-  height:
-    m: 1.68
-  weight:
-    kg: 58
-  build:
-    frame: light
+  height: 1.68
+  weight: 58
+  frame: light
   appearance:
     eye_color: green
     hair_color: auburn
     skin_color: medium
     complexion: bronzed
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Woolen shawl
-  misc:
-    - Woven basket for sewing materials
-    - Fabric scraps
-    - natural dyes
-    - needle and thread
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 11 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

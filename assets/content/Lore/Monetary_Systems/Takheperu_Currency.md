@@ -13,8 +13,8 @@ tags:
   - xerathia
   - economy
 description: "Standard currency system of the Northern Fertile Region of Xerathia — temple-attested weight-pieces of copper, silver, and gold organized in deben and kite units; backed by the Kemetian temple banking system (Per'Háti); used across Ta'Kheperu, Bethûa, and Okháris."
-type: doc
-subType: reference
+type: lore
+subType: economy
 id: fKp8fKdTTpsgcUQY
 name:
   full: Ta'Kheperu Currency
@@ -26,11 +26,11 @@ folder:
 
 # Ta'Kheperu Currency
 
-**Scope:** The Ta'Kheperu currency is the standard currency of the **Northern Fertile Region of Xerathia** — the empire of [[doc-empirtkhpr|Ta'Kheperu]] itself, the [[doc-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[doc-okharis|Okháris]]. Outside the Northern Fertile Region it is exchangeable as foreign currency, principally against the [[doc-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the Vylarian Sea.
+**Scope:** The Ta'Kheperu currency is the standard currency of the **Northern Fertile Region of Xerathia** — the empire of [[affiliation-empirtkhpr|Ta'Kheperu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[affiliation-okharis|Okháris]]. Outside the Northern Fertile Region it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the Vylarian Sea.
 
 The system is **weight-based rather than coined**. Where the Vylarian Aerarium Imperii strikes named coins (Aurion, Argentus, Octus) bearing the Augustar's image and the imperial Aquila, the Kheperi temples attest **standardized weight-pieces** of copper, silver, and gold — small ingots, rings, or stamped wedges of fixed mass, marked with the issuing temple's seal certifying their weight and metal purity. The pieces are not called coins. They are _attested metal of known weight_, and they are accepted at face value in commerce throughout the Northern Fertile Region without need for re-weighing.
 
-The system is administered by the **[[affiliation-perhati|Pér-Háti]]** — the temple-treasury institution of the Kemetian priesthood — which maintains the reference weights against which any piece can be checked, holds the great granaries that anchor the empire's grain-based credit system, and issues the **temple chits** that serve as the Northern Fertile Region's equivalent of paper script. [[doc-mtrrchybth|Bethûa]] and [[doc-okharis|Okháris]] do not maintain native monetary systems; they use the Kheperi system through commercial institutions (the [[affiliation-bthntrdhss|matriarchal trade-houses]] of Bethûa, the [[affiliation-crwntrdskhrs|crown-chartered trades]] of Okháris) whose credit is ultimately backed by correspondent relationships with specific Ta'Kheperan temples.
+The system is administered by the **[[affiliation-perhati|Pér-Háti]]** — the temple-treasury institution of the Kemetian priesthood — which maintains the reference weights against which any piece can be checked, holds the great granaries that anchor the empire's grain-based credit system, and issues the **temple chits** that serve as the Northern Fertile Region's equivalent of paper script. [[affiliation-mtrrchybth|Bethûa]] and [[affiliation-okharis|Okháris]] do not maintain native monetary systems; they use the Kheperi system through commercial institutions (the [[affiliation-bthntrdhss|matriarchal trade-houses]] of Bethûa, the [[affiliation-crwntrdskhrs|crown-chartered trades]] of Okháris) whose credit is ultimately backed by correspondent relationships with specific Ta'Kheperan temples.
 
 ## The Three Metals and Two Units
 
@@ -222,11 +222,11 @@ For travelers, the practical rule is: large sums move on temple chits; small sum
 
 ## Where Used
 
-| Status                                           | Regions                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Native standard currency**                     | [[doc-empirtkhpr\|Ta'Kheperu]] (with full Pér-Háti infrastructure); [[doc-mtrrchybth\|Bethûa]] (no native coinage; uses Ta'Kheperan pieces; credit through [[affiliation-bthntrdhss\|matriarchal trade-houses]]); [[doc-okharis\|Okháris]] (no native coinage; credit through [[affiliation-crwntrdskhrs\|crown-chartered trades]])                   |
-| **Foreign currency, exchanged through changers** | [[doc-vylarinmpr\|Vylaria]] and [[doc-helionis\|Heliónis]] (Vylarian Sea trading ports); [[doc-aureldirgn\|Aurèldían kingdoms]]; [[doc-byzariargn\|Byzaría]]; [[doc-haradregin\|Harad]] (through Bayt al-Khazînah-affiliated moneylenders)                                                                                                            |
-| **Effectively absent**                           | Other Xerathian regions (Southern Savannahs, Central Rainforests, [[doc-nylbtrblntn\|Nyáluba]]); [[doc-nrdlndsrgn\|Nordlands]]; [[doc-vrystwald\|Vrystwald]]; [[doc-vedyarargn\|Vedyara]]; [[doc-khzrncnfdrtn\|Khazryn]]; [[Dunhara_Tribes_Region\|Dunhara]]; [[doc-tanvuregin\|Tánvür]]; distant continents (K'ich'chik, Iseron, Aurionis, Kalihara) |
+| Status                                           | Regions                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Native standard currency**                     | [[affiliation-empirtkhpr\|Ta'Kheperu]] (with full Pér-Háti infrastructure); [[affiliation-mtrrchybth\|Bethûa]] (no native coinage; uses Ta'Kheperan pieces; credit through [[affiliation-bthntrdhss\|matriarchal trade-houses]]); [[affiliation-okharis\|Okháris]] (no native coinage; credit through [[affiliation-crwntrdskhrs\|crown-chartered trades]])                   |
+| **Foreign currency, exchanged through changers** | [[affiliation-vylarinmpr\|Vylaria]] and [[place-helionis\|Heliónis]] (Vylarian Sea trading ports); [[place-aureldirgn\|Aurèldían kingdoms]]; [[place-byzariargn\|Byzaría]]; [[place-haradregin\|Harad]] (through Bayt al-Khazînah-affiliated moneylenders)                                                                                                                    |
+| **Effectively absent**                           | Other Xerathian regions (Southern Savannahs, Central Rainforests, [[affiliation-nylbtrblntn\|Nyáluba]]); [[place-nrdlndsrgn\|Nordlands]]; [[place-vrystwald\|Vrystwald]]; [[place-vedyarargn\|Vedyara]]; [[affiliation-khzrncnfdrtn\|Khazryn]]; [[Dunhara_Tribes_Region\|Dunhara]]; [[place-tanvuregin\|Tánvür]]; distant continents (K'ich'chik, Iseron, Aurionis, Kalihara) |
 
 The most important friction-point for travel and commerce is the **Vylarian–Ta'Kheperan exchange** at the trading ports of the Vylarian Sea. The Heliónite, Bethûan, and Kheperi merchant houses that operate at these ports — the **changers** — make substantial livings facilitating conversion between the two systems at a 3–5% spread.
 
@@ -257,6 +257,6 @@ Like the Vylarian system, large sums of physical metal are heavy. 100 silver deb
 - **[[affiliation-perhati|Pér-Háti]]** — the temple-treasury institution that issues and backs the system
 - **[[affiliation-bthntrdhss|The Bethûan Trade-Houses]]** — Bethûan commercial institutions using the system through Kheperi correspondents
 - **[[affiliation-crwntrdskhrs|The Crown Trades of Okháris]]** — Okhárian commercial institutions using the system through Kheperi correspondents
-- **[[doc-vylrncrncy|Vylarian Currency]]** — the parallel currency system used in the western and central Ankaris commonwealth; exchanged with Ta'Kheperan currency through changers at the trading ports
+- **[[lore-vylrncrncy|Vylarian Currency]]** — the parallel currency system used in the western and central Ankaris commonwealth; exchanged with Ta'Kheperan currency through changers at the trading ports
 - **[[affiliation-permesnu|Per'Mesnu]]** — the Ta'Kheperan smiths' guild (which mints the temple-attested pieces under Pér-Háti's supervision)
 - **[[affiliation-aerarimmpr|The Aerarium Imperii]]** — the Vylarian central treasury; the institutional counterpart whose existence the Pér-Háti system is structurally distinct from

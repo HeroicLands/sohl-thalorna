@@ -9,9 +9,30 @@ name:
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
 id: u7FShyu98eDuRwVS
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/mrrrlng-portrait.webp
 shortcode: mrrrlng
 type: being
+data:
+  portrait: images/being/mrrrlng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

@@ -4,6 +4,7 @@ aliases:
   - Torsaro Thalidran
 tags:
   - draft
+  - soldiery
 name:
   full: Tórsaro Thalídran
   title: ""
@@ -16,39 +17,33 @@ id: L8bWR0rKcWWlEHPC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: trsrthldrn
 img: icons/person.svg
-portrait: images/being/trsrthldrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/trsrthldrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 29
   birthday: 691/5/19
-  height:
-    m: 1.83
-  weight:
-    kg: 75
-  build:
-    frame: medium
+  height: 1.83
+  weight: 75
+  frame: medium
   appearance:
     eye_color: black
     hair_color: black
     skin_color: medium
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Spear
-  armor:
-    - Leather armor
-  misc:
-    - Small pack for provisions
-    - Shield
-    - knife
-    - water flask
 sohl:
   archetype: null
   body:
@@ -525,12 +520,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

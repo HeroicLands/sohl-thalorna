@@ -2,23 +2,22 @@
 aliases:
   - Khar al-Sular
 id: NcCep277z8Lq2woF
+tags:
+  - oasis
+  - camp
+description: "Oasis Camp"
 type: place
 subType: settlement
-settlementType: "Oasis Camp"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - dunhardsrtrgn
+  population: null
 name:
   full: Khar al-Sular
   aliases: []
 shortcode: kharalsulr
-parent:
-  regions:
-    - dunhardsrtrgn
-  polities:
-    - dunhartrbs
 folder: fHLmguBwgTuZfGJ9
 ---
 

@@ -4,6 +4,7 @@ aliases:
   - Deraen Kalmereth
 tags:
   - draft
+  - common-folk
 name:
   full: Déraen Kálmereth
   title: ""
@@ -16,38 +17,33 @@ id: xSpdQhDtkzRG754T
 folder: 4cwfdMa34UryZqPR
 shortcode: dernklmrth
 img: icons/person.svg
-portrait: images/being/dernklmrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dernklmrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Salter
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 29
   birthday: 695/4/3
-  height:
-    m: 1.75
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.75
+  weight: 71
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: brown
     skin_color: light
     complexion: pale
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small bag for personal items
-    - Evaporation trays
-    - packaging materials
-    - salt storage jars
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -4,6 +4,7 @@ aliases:
   - Talira Bashiron
 tags:
   - draft
+  - mages
 name:
   full: Tàlîra Bâshirôn
   title: ""
@@ -16,23 +17,27 @@ id: BcbfnoGMbJmTPSIA
 folder: gpXd1anXulwRWZqn
 shortcode: talirbshrn
 img: icons/person.svg
-portrait: images/being/talirbshrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/talirbshrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: female
+  species: null
   age: 35
   birthday: 685/6/2
-  height:
-    m: 1.6
-  weight:
-    kg: 53
-  build:
-    frame: light
+  height: 1.6
+  weight: 53
+  frame: light
   appearance:
     eye_color: amber
     hair_color: auburn
@@ -40,14 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the left ear
-gear:
-  weapons: []
-  armor:
-    - Thick woolen cloak
-  misc:
-    - Wicker basket with herbs
-    - Collection of herbal remedies
-    - simple laboratory tools
 sohl:
   archetype: null
   body:
@@ -531,12 +528,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

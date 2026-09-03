@@ -3,6 +3,7 @@ aliases:
   - Eshârum Tarûzî
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Eshârum Tarûzî
   title: Captain
@@ -15,31 +16,27 @@ folder: PuQFDMkRM9i60i5Z
 shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/esharumtrz-portrait.webp
 type: being
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-social:
+data:
+  portrait: images/being/esharumtrz-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ship Captain
-  station: tradesfolk
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - thetamzir
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 39
   birthday: 680/7/8
-  height:
-    m: 1.88
-  weight:
-    kg: 81.6
-  build:
-    frame: medium
+  height: 1.88
+  weight: 81.6
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown

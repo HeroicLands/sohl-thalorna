@@ -10,9 +10,30 @@ name:
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
 id: gg3f6OB21jF3mg0f
 img: icons/game-icons/delapouite/rhinoceros-horn.svg
-portrait: images/being/vdyrnrhn-portrait.webp
 shortcode: vdyrnrhn
 type: being
+data:
+  portrait: images/being/vdyrnrhn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0
@@ -371,7 +392,7 @@ The riverbank explodes. That is your first impression — the mud itself eruptin
 
 # Dossier {#dossier}
 
-The Vedyaran Rhinoceros is the armored giant of the Vedyaran floodplains — a massive, semi-aquatic megaherbivore found along the great rivers, in the tall grasslands of the floodplain margins, and in the marshes and wallows that characterize the lowland landscape. An adult male stands five to six feet at the shoulder and weighs four thousand to five thousand pounds, making it the second-largest land animal in [[doc-vedyarargn|Vedyara Region]] after the elephant. Its defining feature is its hide — thick, folded, and plated in a pattern that so closely resembles manufactured armor that early western travelers refused to believe it was natural. The hide's plates overlap at joints and flex at the deep creases between them, providing both protection and mobility in a combination that no armorer has ever successfully replicated.
+The Vedyaran Rhinoceros is the armored giant of the Vedyaran floodplains — a massive, semi-aquatic megaherbivore found along the great rivers, in the tall grasslands of the floodplain margins, and in the marshes and wallows that characterize the lowland landscape. An adult male stands five to six feet at the shoulder and weighs four thousand to five thousand pounds, making it the second-largest land animal in [[place-vedyarargn|Vedyara Region]] after the elephant. Its defining feature is its hide — thick, folded, and plated in a pattern that so closely resembles manufactured armor that early western travelers refused to believe it was natural. The hide's plates overlap at joints and flex at the deep creases between them, providing both protection and mobility in a combination that no armorer has ever successfully replicated.
 
 The Vedyaran rhinoceros is solitary, territorial, and aggressive — more willing to charge and engage than most herbivores, and powerful enough to back that aggression with lethal force. It inhabits the river margins and floodplains where the tall elephant grass grows in dense stands twelve to fifteen feet high, and within this habitat it is both extremely difficult to detect and extremely dangerous to encounter at close range. A rhino that has been startled or that perceives an intrusion into its territory will charge first and assess the situation later, and its charge — two tons of armored animal accelerating to a gallop — is one of the most destructive impacts in the natural world.
 

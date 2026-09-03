@@ -5,6 +5,8 @@ aliases:
   - Pallavi Draviksha
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Pallàvi Drâviksha
   title: ""
@@ -16,34 +18,31 @@ id: H5ejeuVYV1L7tk3n
 folder: JotxZnnXcTECeYW3
 shortcode: palvdrvksh
 img: icons/person.svg
-portrait: images/being/palvdrvksh-portrait.webp
 type: being
-thalorna:
-  realm: vyalendra2
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/palvdrvksh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - vyalendra2
   gender: female
+  species: null
   age: 26
   birthday: 694/9/3
-  height:
-    m: 1.75
-  weight:
-    kg: 66.7
-  build:
-    frame: light
+  height: 1.75
+  weight: 66.7
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

@@ -9,9 +9,30 @@ name:
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
 id: XghBgeCi6JfLAZbD
 img: icons/game-icons/delapouite/elephant.svg
-portrait: images/being/xrthnsvn-portrait.webp
 shortcode: xrthnsvn
 type: being
+data:
+  portrait: images/being/xrthnsvn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

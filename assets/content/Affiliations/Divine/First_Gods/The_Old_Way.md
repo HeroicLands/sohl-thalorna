@@ -14,29 +14,108 @@ name:
 shortcode: theoldway
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Way of the First
+  symbol: A circle divided into light and shadow, ringed by a paw, a leaf, and an antler
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - thfrstgdsthdty
+  parents:
+    - firstgods
+  relations:
     firstgods: aligned
+sohl:
   archetype: null
-deity: The First Gods (the Bright and the Dark)
-epithet: The Way of the First
-domain: Shamanism, the Kindred, balance of the Two Powers
-symbol: A circle divided into light and shadow, ringed by a paw, a leaf, and an antler
-pantheon: firstgods
 folder: w9xJ9t5nQB0ajETq
 ---
 
 # The Old Way
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]
-- **Principal adherents:** [[doc-aelendnppl|Áelendan]]
-- **Ancestral origin:** [[doc-pelwarpepl|Pelwar People]]
+- **Principal adherents:** [[lore-aelendnppl|Áelendan]]
+- **Ancestral origin:** [[lore-pelwarpepl|Pelwar People]]
 
-The **Old Way** is the shamanic faith of the Áelendan. It is the oldest continuously practised religious tradition on [[doc-ankrscntnnt|Ankaris Continent]] — a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[doc-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organised pantheons of the settled world, the Áelendan kept it.
+The **Old Way** is the shamanic faith of the Áelendan. It is the oldest continuously practised religious tradition on [[place-ankrscntnnt|Ankaris Continent]] — a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organised pantheons of the settled world, the Áelendan kept it.
 
 The Old Way has no scripture, no temples in the sense that the [[affiliation-arldnpnthn|Aurèldían]] clergy would recognise, and no centralised hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
 
@@ -86,7 +165,7 @@ The Old Way is not the same thing as the **Covenant** — the ancient compact be
 
 A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Covenant's terms. The two offices work together, but they are distinct.
 
-Many of the [[doc-faecourts|Fae]] whom the Wardens deal with are understood, within the Old Way, as particularly ancient and powerful Kindred — though this is a matter on which shamen speak carefully and only to other shamen.
+Many of the [[lore-faecourts|Fae]] whom the Wardens deal with are understood, within the Old Way, as particularly ancient and powerful Kindred — though this is a matter on which shamen speak carefully and only to other shamen.
 
 ## Relation to Later Faiths
 
@@ -100,6 +179,6 @@ Among the Élavendri nobility, who claim Áelendan ancestry and whose own religi
 
 - [[affiliation-firstgods|The First Gods]] — The pantheon the Old Way venerates (the Bright, the Dark, and the Kindred)
 - [[affiliation-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, or warded against in daily practice
-- [[doc-aelendnppl|Áelendan]] — The people whose faith this is
+- [[lore-aelendnppl|Áelendan]] — The people whose faith this is
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — The later pantheon the Áelendan regard as descended from the First

@@ -2,25 +2,26 @@
 aliases:
   - Maréndal
 id: NgdpgK19TbXSBuwE
+tags:
+  - port
+  - town
+description: "Harbor Town"
 type: place
 subType: settlement
-settlementType: "Harbor Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Maréndal
   aliases: []
 shortcode: marendal
-parent:
-  polities:
-    - kngdmglvrn
 ---
 
 # Maréndal
 
 ## Overview
 
-_To be written._ Maréndal is the capital and principal settlement of [[doc-kngdmglvrn|Kingdom of Galváren]].
+_To be written._ Maréndal is the capital and principal settlement of [[affiliation-kngdmglvrn|Kingdom of Galváren]].

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Thórir Eldskari
   title: ""
@@ -16,23 +17,27 @@ id: 8JHUdKF0j7elKPoh
 folder: elH5NDPUuiRCICrE
 shortcode: thorrldskr
 img: icons/person.svg
-portrait: images/being/thorrldskr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thorrldskr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - jrldmstrmvld
   gender: male
+  species: null
   age: 43
   birthday: 677/10/2
-  height:
-    m: 1.86
-  weight:
-    kg: 116
-  build:
-    frame: massive
+  height: 1.86
+  weight: 116
+  frame: massive
   appearance:
     eye_color: dark_amber
     hair_color: graying_black
@@ -40,20 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - scar across forehead
-gear:
-  weapons:
-    - BAxe:1
-    - MByr:1
-    - RndSh:1
-  armor:
-    - MByr:1
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
 sohl:
   archetype: null
   body:
@@ -510,12 +501,6 @@ sohl:
     - { shortcode: ridg, type: skill, system: { masteryLevelBase: 17 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 27 } }
-thalorna:
-  realm: jrldmstrmvld
-  region: aelwyth
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

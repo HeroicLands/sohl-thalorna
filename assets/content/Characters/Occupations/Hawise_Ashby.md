@@ -3,6 +3,7 @@ aliases:
   - Hawise Ashby
 tags:
   - draft
+  - soldiery
 name:
   full: Hawise Ashby
   title: ""
@@ -15,23 +16,27 @@ id: HnyADvkxtUuX8KMf
 folder: elH5NDPUuiRCICrE
 shortcode: hawiseshby
 img: icons/person.svg
-portrait: images/being/hawiseshby-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hawiseshby-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: female
+  species: null
   age: 48
   birthday: 676/1/28
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.78
+  weight: 78
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -39,16 +44,6 @@ traits:
     complexion: fair
     extra_features:
       - a scar across the right hand
-gear:
-  weapons:
-    - Spear
-  armor:
-    - Heavy leather armor
-  misc:
-    - Leather pouch for supplies
-    - Shield
-    - training equipment
-    - herbal remedies
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

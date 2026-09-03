@@ -10,9 +10,30 @@ name:
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
 id: k5mpq1z2caMC2nJ0
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/gntcmlsp-portrait.webp
 shortcode: gntcmlsp
 type: being
+data:
+  portrait: images/being/gntcmlsp-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0
@@ -241,7 +262,7 @@ You hear it before you see it — a wet, rhythmic wheezing, like bellows worked 
 
 # Dossier {#dossier}
 
-The Giant Camel Spider is a monstrous desert arachnid of the order Solifugae — not a true spider but something older and in many ways worse. Enlarged to the size of a fox or small dog, with a body length of sixteen to twenty-two inches and a leg span of three to four feet, it weighs five to eight kilograms of pale chitin, bristle, and jaw muscle. It lacks the venom of a spider and the silk of a web-spinner, compensating with raw speed, crushing mandibles, and an aggressive temperament that borders on the deranged. Giant camel spiders are solitary, territorial predators and scavengers found in the arid wastes of [[doc-dunharargn|Dunhara Region]] and the [[doc-khzryndsrtrgn|Khazryn Desert Region]] — in rocky badlands, beneath sand-scoured ruins, in the shade of desert escarpments, and, inevitably, at the margins of human camps where warmth, shade, and food scraps draw them like a curse. They are the most feared small predator of the deep desert — not because they are the most lethal (a cobra will kill you faster) but because they are the most _present_, the most aggressive, and the most viscerally horrifying thing that will ever sprint at you out of the darkness.
+The Giant Camel Spider is a monstrous desert arachnid of the order Solifugae — not a true spider but something older and in many ways worse. Enlarged to the size of a fox or small dog, with a body length of sixteen to twenty-two inches and a leg span of three to four feet, it weighs five to eight kilograms of pale chitin, bristle, and jaw muscle. It lacks the venom of a spider and the silk of a web-spinner, compensating with raw speed, crushing mandibles, and an aggressive temperament that borders on the deranged. Giant camel spiders are solitary, territorial predators and scavengers found in the arid wastes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]] — in rocky badlands, beneath sand-scoured ruins, in the shade of desert escarpments, and, inevitably, at the margins of human camps where warmth, shade, and food scraps draw them like a curse. They are the most feared small predator of the deep desert — not because they are the most lethal (a cobra will kill you faster) but because they are the most _present_, the most aggressive, and the most viscerally horrifying thing that will ever sprint at you out of the darkness.
 
 Every Dunharan nomad knows the giant camel spider. They check their boots before dawn. They shake out blankets before unrolling them. They know the sound of the chelicerae rattling in threat display, and they know that a campsite with exposed food scraps will draw them from the surrounding dark like flies to carrion. Caravan guards swap stories about them the way soldiers swap stories about bad officers — with a mixture of contempt, resignation, and genuine unease. The creatures are too common to be legendary and too horrible to be mundane.
 

@@ -4,6 +4,8 @@ aliases:
   - Gamrun Narusham
 tags:
   - draft
+  - guilded
+  - soldiery
 name:
   full: Gamrûn Narûsham
   title: ""
@@ -16,39 +18,33 @@ id: GB16JC5kV3ECqWp1
 folder: PuQFDMkRM9i60i5Z
 shortcode: gamrunrshm
 img: icons/person.svg
-portrait: images/being/gamrunrshm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/gamrunrshm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 45
   birthday: 675/3/19
-  height:
-    m: 1.85
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
     skin_color: tanned
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Longsword
-  armor:
-    - Leather armor
-  misc:
-    - Leather weapon case
-    - Practice swords
-    - sharpening stone
-    - instructional scrolls
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

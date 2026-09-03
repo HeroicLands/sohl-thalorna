@@ -2,21 +2,22 @@
 aliases:
   - Kávrenath
 id: rpSFTksRLO0nmlv9
+tags:
+  - town
+  - frontier
+description: "Frontier Town"
 type: place
 subType: settlement
-settlementType: "Frontier Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Kávrenath
   aliases: []
 shortcode: kavrenath
-parent:
-  polities:
-    - kngdmstrth
 folder: DB9rgGreD8FtqoBx
 ---
 

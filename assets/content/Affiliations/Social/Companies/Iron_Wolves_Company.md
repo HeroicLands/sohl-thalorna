@@ -10,6 +10,90 @@ tags:
 description: "Byzarian mercenary company of brutal efficiency — willing to take the contracts other companies refuse, and the standing antagonist of one of the realm's most haunted veterans."
 type: affiliation
 subType: venture
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: stratocracy
+    summary: >-
+      A company bound by its articles, its members sharing in what it takes and its officers
+      holding by consent.
+    ranks:
+      - level: 0
+        title: Discharged in Disgrace
+        lore: expelledrnk
+        description: >-
+          Put out with the share forfeit and the name published, so that no other company will
+          take them.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: >-
+          Attached to the company for its baggage, its cooking, its animals; not sworn and not
+          shared with.
+      - level: 2
+        title: Hand
+        lore: dependentrnk
+        description: Taken on for a season or a voyage, paid a wage, and holding no share of
+          the undertaking.
+      - level: 3
+        title: Sworn Member
+        lore: swornmemberrnk
+        description: >-
+          Sworn to the company's articles, entitled to a share of what it takes and bound by
+          what it agrees.
+      - level: 4
+        title: Veteran
+        lore: warriorrnk
+        description: >-
+          Of proven service across several undertakings, drawing a larger share and consulted
+          before the company commits.
+      - level: 5
+        title: Officer
+        lore: officerrnk
+        description: Holding a charge in the company — its stores, its scouts, its accounts,
+          its discipline.
+      - level: 6
+        title: Lieutenant
+        lore: commanderrnk
+        description: Second in the company, commanding in the captain's absence and detached
+          with a part of it.
+      - level: 7
+        title: Captain
+        lore: commanderrnk
+        description: Commanding the company, holding its articles and negotiating its contracts.
+      - level: 8
+        title: Master of the Company
+        lore: grandmasterrnk
+        description: >-
+          Where a company outlives its captains: the standing head who holds the name, the charter
+          and the contracts between them.
+    offices:
+      Master of the Company: Standing head of a company that outlives its captains, holding
+        the name and the contracts.
+      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
+      Lieutenant: Second in command, holding the company in the captain's absence.
+      Quartermaster: Keeper of the company's stores, its baggage and the division of what
+        it takes.
+      Purser: Keeper of the accounts — wages, shares, debts and the contract's terms.
+      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
+      Bosun: Master of the working of the ship or the ordering of the march.
+      Master-at-Arms: Keeper of the company's discipline and of its weapons.
+      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
+        the purser.
+      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
 folder:
 subtype: social
 id: 2mccWDWK0TBkTS8v
@@ -27,7 +111,7 @@ banner: banners/company.webp
 _Byzarian: Lupi Ferri_
 
 - **Type:** Independent mercenary company
-- **Region:** [[doc-byzariargn|Byzaría]] principally; operates throughout western Ankaris under contract
+- **Region:** [[place-byzariargn|Byzaría]] principally; operates throughout western Ankaris under contract
 - **Strength:** Approximately one hundred and twenty effectives at present muster, with reserve and auxiliary perhaps doubling that figure
 - **Status:** Operating; unsigned with the [[affiliation-malldbndlg|Málaliðabandalag]]; has held no consistent contract with the Byzarian League's military in over a decade
 
@@ -75,7 +159,7 @@ Operational deployments take the company throughout western Ankaris under whatev
 - A two-season campaign in the Provenzian frontier suppressing brigandage on behalf of a coalition of merchant lords.
 - A short, brutal mining strike-breaking operation in a Heliónite copper concern.
 - A long-running security contract for a Vylarian provincial governor whose name the company will not disclose.
-- Standing offers from at least two of the [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for direct retainer; the company has, so far, declined.
+- Standing offers from at least two of the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for direct retainer; the company has, so far, declined.
 
 ## Methods
 
@@ -93,7 +177,7 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 
 - **The Byzarian League** — formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
 - **The [[affiliation-malldbndlg|Málaliðabandalag]]** — unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — interested counterparty. Both the [[affiliation-velvethand|Velvet Hand]] and the [[affiliation-theashroad|Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — interested counterparty. Both the [[affiliation-velvethand|Velvet Hand]] and the [[affiliation-theashroad|Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
 - **[[being-kyrksptrks|Kyriákos Patrikios]]** — the great unfinished business. The company's standing position is that Kyriákos is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
 
 ## Identifying Marks

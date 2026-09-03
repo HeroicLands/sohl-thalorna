@@ -3,21 +3,21 @@ aliases:
   - Lunacòrte
   - Lunacorte
 id: kaluSm7j0sPfWR9d
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
 name:
   full: Lunacòrte
   aliases: []
 shortcode: lunacorte
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

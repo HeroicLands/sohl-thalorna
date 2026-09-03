@@ -12,23 +12,110 @@ name:
   aliases: []
 shortcode: nomenkhstn
 subType: polity
-demonym: Kheperi
-government:
-  type: nome
-  summary: A wealthy agricultural upper-river nome governed by a conservative hereditary Haty'a; the empire's chief grain producer and granary.
-languages:
-  - kheperlng
-capital: ankhsetun
-population: "~800,000"
-pantheons:
-  - kemtnpnthn
-peoples:
-  - human
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Kheperi
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: >-
+      A wealthy agricultural upper-river nome governed by a conservative hereditary Haty'a;
+      the empire's chief grain producer and granary.
+    ranks:
+      - level: 0
+        title: Outcast
+        lore: expelledrnk
+        description: >-
+          Driven from the nomes and denied burial, which is the true sentence: without a tomb
+          there is no continuation.
+      - level: 1
+        title: Bondsman
+        lore: slavernk
+        description: >-
+          Bound to an estate or a temple, owing labour on its fields and its works and holding
+          nothing of his own.
+      - level: 2
+        title: Farmer
+        lore: commonerrnk
+        description: >-
+          Working the floodplain under a lord or a temple, owing a share of the harvest and
+          labour on the canals.
+      - level: 3
+        title: Artisan or Merchant
+        lore: journeymanrnk
+        description: >-
+          Of the trades — potters, weavers, boatmen, traders — free of the fields and taxed
+          on their work.
+      - level: 4
+        title: Scribe
+        lore: clerkrnk
+        description: >-
+          Lettered, and therefore the empire's principal path upward: a talented child of any
+          house may enter the schools.
+      - level: 5
+        title: Heka'hut
+        lore: landedlordrnk
+        description: >-
+          Ruler of an estate — its manor, its fields and its village — answerable to the nomarch
+          above.
+      - level: 6
+        title: Haty'a
+        lore: greatlordrnk
+        description: >-
+          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes
+          and dispensing its justice.
+      - level: 7
+        title: Iry'pat
+        lore: greatlordrnk
+        description: >-
+          Of the royal house and the most exalted families, the highest hereditary rank below
+          the throne.
+      - level: 8
+        title: Per-Aá
+        lore: sovereignrnk
+        description: >-
+          The divine sovereign, on whose claim all temple and secular authority rests — a fiction
+          nobody believes and nobody may abandon.
+    offices:
+      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
+      Heka'hut: Ruler of an estate — manor, fields and village — answerable to the nomarch.
+      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
+      Nebet: Lady of the court, whose standing comes from position rather than from land.
+      Semer: >-
+        Companion of the Per-Aá: a title of royal favour and access rather than territorial
+        authority.
+      Wer'Hekau: >-
+        Great of Sacred Power — High Priest of a major temple, master of its estates and voice
+        of its god.
+      Hem'Netjer: >-
+        Servant of the God — the ordained priesthood that conducts the rites and runs the
+        temple's lands.
+      Wab: >-
+        Purified One — acolyte in the temple schools, years from ordination and already better
+        educated than most.
+      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
+        men who actually govern.
+      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the nome's harvest — and its tax
+        — depends.
+  commonSkills:
+    - kheperlng
+  seat: ankhsetun
+  domains:
     - takheperurgn
-  polities:
-    - empirtkhpr
+  population: 800000
+  economy:
+    - affiliation-perhati
+    - lore-tkhprcrncy
+  lore:
+    - humanflk
+  parents:
+    - uperivrnms
+  relations:
+    kemtnpnthn: aligned
+sohl:
+  archetype: null
 folder: DCVpoMWDdub9pwDR
 ---
 
@@ -36,7 +123,7 @@ folder: DCVpoMWDdub9pwDR
 
 ## Overview
 
-Ankh-Setûn is the great granary of [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — the most productive agricultural nome in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the nome's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. Its [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] is the very type of the [[doc-uperivrnms|upper-river]] noble — conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain. The nome's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Ankh-Setûn.
+Ankh-Setûn is the great granary of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the most productive agricultural nome in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the nome's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. Its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] is the very type of the [[affiliation-uperivrnms|upper-river]] noble — conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain. The nome's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Ankh-Setûn.
 
 ## Character
 
@@ -44,20 +131,20 @@ Ankh-Setûn is the heartland's heartland — broad, fertile, settled, and stubbo
 
 ## Economy
 
-Grain is the whole foundation — wheat above all, with barley and millet — grown on flood-silt and on the irrigated margins drawn from the river. The surplus is the point: Ankh-Setûn produces far more than it eats, and the difference, stored in its great granaries and barged downriver, underwrites the imperial economy. Around the grain runs everything grain requires: the surveyors and tally-scribes who measure and assess it, the canal-and-dike gangs who manage the flood, the granary-keepers and the river-port that ships the harvest, and the cattle and flax of the basin margins. The river-town of [[doc-meruhotep|Meru-Hotep]] is the nome's throat, where the grain-barges load. Wealth here is reckoned in granaries and field-rents, not in coin, and the Haty'a's power is the power of the man who controls the bread.
+Grain is the whole foundation — wheat above all, with barley and millet — grown on flood-silt and on the irrigated margins drawn from the river. The surplus is the point: Ankh-Setûn produces far more than it eats, and the difference, stored in its great granaries and barged downriver, underwrites the imperial economy. Around the grain runs everything grain requires: the surveyors and tally-scribes who measure and assess it, the canal-and-dike gangs who manage the flood, the granary-keepers and the river-port that ships the harvest, and the cattle and flax of the basin margins. The river-town of [[place-meruhotep|Meru-Hotep]] is the nome's throat, where the grain-barges load. Wealth here is reckoned in granaries and field-rents, not in coin, and the Haty'a's power is the power of the man who controls the bread.
 
 ## Notable Features
 
 - The great flood-basin wheatlands — the broadest and most productive in the empire
 - The deep imperial and temple granaries that store the empire's reserve against famine
-- The river-port of [[doc-meruhotep|Meru-Hotep]], where the grain-harvest is loaded for the capital
+- The river-port of [[place-meruhotep|Meru-Hotep]], where the grain-harvest is loaded for the capital
 - The temple of [[affiliation-kemtnpnthn|Má'át]] and the survey-and-assize courts that measure the land
 - The canal, dike, and basin-irrigation works that govern the flood
 
 ## Settlements
 
-- **[[doc-ankhsetun|Ankh-Setûn]]** (~80,000) — the nome capital; a substantial inland city of granaries, grain-markets, survey-courts, and the seat of the Haty'a, set among the richest wheatland in the empire.
-- **[[doc-meruhotep|Meru-Hotep]]** (~25,000) — the nome's river-port, a busy quayside town where the grain of the basin is gathered, measured, and loaded onto the barges that carry it down to the capital and the delta; the nome's window on the river-traffic and its busiest, most worldly place.
+- **[[place-ankhsetun|Ankh-Setûn]]** (~80,000) — the nome capital; a substantial inland city of granaries, grain-markets, survey-courts, and the seat of the Haty'a, set among the richest wheatland in the empire.
+- **[[place-meruhotep|Meru-Hotep]]** (~25,000) — the nome's river-port, a busy quayside town where the grain of the basin is gathered, measured, and loaded onto the barges that carry it down to the capital and the delta; the nome's window on the river-traffic and its busiest, most worldly place.
 - **The basin villages:** the dense farm-country holds scores of grain-villages of 500–3,000 — among them Per-Sekhem, Hut-Mut, Iat-Tawy, Sma-Renpet, and Per-Anpu — each working its share of the flood-basin and rendering grain up the chain to the granaries and the Haty'a.
 
 ## For the Worldbuilder
@@ -66,12 +153,12 @@ Ankh-Setûn is the empire's breadbasket, and its importance is exactly its grain
 
 ## Commerce and Currency
 
-Ankh-Setûn uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]], but its economy runs more on grain-render and granary-account than on struck metal: taxes are paid and wealth is held in stored grain as much as in silver, reckoned and warehoused through the temple-treasuries and the [[affiliation-perhati|Pér-Háti]] houses. The river-port of Meru-Hotep is where the nome touches the coined economy most. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Ankh-Setûn uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], but its economy runs more on grain-render and granary-account than on struck metal: taxes are paid and wealth is held in stored grain as much as in silver, reckoned and warehoused through the temple-treasuries and the [[affiliation-perhati|Pér-Háti]] houses. The river-port of Meru-Hotep is where the nome touches the coined economy most. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-uperivrnms|The Upper River Nomes]] — Parent nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[doc-ankhsetun|Ankh-Setûn]] — Nome capital
-- [[doc-meruhotep|Meru-Hotep]] — The nome's river-port
+- [[affiliation-uperivrnms|The Upper River Nomes]] — Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[place-ankhsetun|Ankh-Setûn]] — Nome capital
+- [[place-meruhotep|Meru-Hotep]] — The nome's river-port
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Má'át)

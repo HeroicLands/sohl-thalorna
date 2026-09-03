@@ -4,7 +4,6 @@ aliases:
   - Velanthia
 tags:
   - region
-title: ""
 description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east — a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
 name:
   full: Velanthia Region
@@ -14,17 +13,18 @@ shortcode: velanthrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea — the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
-demonym: Velanthian
-parent:
-  continents:
+data:
+  demonym: Velanthian
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-peoples:
-  - human
+  population: null
+terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea — the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
 folder: dEwGyxsS5Sg40UgS
 ---
 
-Velanthia is the great east-of-the-Nordlands transitional zone — the long forest-steppe belt and the black-earth grain country that bridges the deep boreal forests of the [[doc-nrdlndsrgn|Nordlands]] in the west and the open steppes of the [[doc-khzryndsrtrgn|Khazryn]] in the east. It is a region defined less by what it is than by what borders it: forest country to the north and west, open steppe to the south and east, the great inland sea on its far eastern shore, and a thousand-mile internal gradient where mixed forest, river meadow, dense farmland, and open horse-pasture all interleave on a scale that produces no simple cultural type.
+Velanthia is the great east-of-the-Nordlands transitional zone — the long forest-steppe belt and the black-earth grain country that bridges the deep boreal forests of the [[place-nrdlndsrgn|Nordlands]] in the west and the open steppes of the [[place-khzryndsrtrgn|Khazryn]] in the east. It is a region defined less by what it is than by what borders it: forest country to the north and west, open steppe to the south and east, the great inland sea on its far eastern shore, and a thousand-mile internal gradient where mixed forest, river meadow, dense farmland, and open horse-pasture all interleave on a scale that produces no simple cultural type.
 
 What Velanthia _has_ is rivers, soil, and a particular knack for surviving between predators. Its great river systems — the western, central, and eastern groups — are the trade arteries that carry Nordmal furs and ironwork south, Khazryn horses and steppe-goods west, and the region's own staggering grain surplus everywhere it can be sold. Its black-earth belt produces some of the finest cereal yields on the continent. And its political culture has been shaped, generation after generation, by the awkward fact that the great steppe khanates to the east and the great Nordmal kingdoms to the west have both, repeatedly across the centuries, considered Velanthia a strategic prize worth taking.
 
@@ -32,7 +32,7 @@ The Velanthians have not been taken. Not lastingly. The region has lost border d
 
 ## Geography
 
-Velanthia stretches from the eastern margin of the Nordlands forests in the west to the western shore of the great inland sea in the east, and from the northern boreal-forest margin in the north down to the [[doc-heladrgn|Helladic]] uplands in the southwest and the [[doc-khzryndsrtrgn|Khazryn]] steppe-frontier in the south.
+Velanthia stretches from the eastern margin of the Nordlands forests in the west to the western shore of the great inland sea in the east, and from the northern boreal-forest margin in the north down to the [[place-heladrgn|Helladic]] uplands in the southwest and the [[place-khzryndsrtrgn|Khazryn]] steppe-frontier in the south.
 
 The terrain transitions through three principal belts:
 
@@ -95,25 +95,25 @@ Major external threats have come repeatedly from two directions: the western Nor
 
 ## Relations with Neighboring Regions
 
-To the **west** lies the [[doc-nrdlndsrgn|Nordlands]]. Relations are old, complicated, and generally tense — Nordmal princes consider Velanthia a frontier prize that someone, eventually, will take; Velanthian princes consider the Nordmal a perpetual problem requiring careful management. Trade is substantial despite the friction; intermarriage among the western princely houses and the eastern Nordmal jarls is common.
+To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. Relations are old, complicated, and generally tense — Nordmal princes consider Velanthia a frontier prize that someone, eventually, will take; Velanthian princes consider the Nordmal a perpetual problem requiring careful management. Trade is substantial despite the friction; intermarriage among the western princely houses and the eastern Nordmal jarls is common.
 
-To the **northwest** lies the [[doc-grkrhlmrgn|Grukarhölm]] — the Grukar enclave wedged into the eastern Nordlands forest. Velanthian-Grukar relations are minimal and cordial; the Grukari have no territorial designs on the river-kingdoms, and the Velanthians treat the Grukar holds as a useful buffer between themselves and the deeper Nordmal kingdoms beyond.
+To the **northwest** lies the [[place-grkrhlmrgn|Grukarhölm]] — the Grukar enclave wedged into the eastern Nordlands forest. Velanthian-Grukar relations are minimal and cordial; the Grukari have no territorial designs on the river-kingdoms, and the Velanthians treat the Grukar holds as a useful buffer between themselves and the deeper Nordmal kingdoms beyond.
 
-To the **north** lies [[doc-vrystwald|Vrystwald]] — the great Varokh forest country of the eastern Ankarian interior. The Vrystwald-Velanthian frontier is the most permeable border in the region: the southern Varokh tribes and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The southern Varokh tribes look as much like Velanthian frontier-settlers as they do like their northern kin, and the Velanthian river-princes consider them useful auxiliaries and unreliable subjects in approximately equal measure.
+To the **north** lies [[place-vrystwald|Vrystwald]] — the great Varokh forest country of the eastern Ankarian interior. The Vrystwald-Velanthian frontier is the most permeable border in the region: the southern Varokh tribes and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The southern Varokh tribes look as much like Velanthian frontier-settlers as they do like their northern kin, and the Velanthian river-princes consider them useful auxiliaries and unreliable subjects in approximately equal measure.
 
-To the **east** lies the vast [[doc-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn confederations conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great khan rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
+To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn confederations conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great khan rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
 
-To the **south** lies the [[doc-heladrgn|Hellád]] across the southern uplands. Velanthian grain feeds Helladic cities; Helladic philosophy, medicine, and luxury goods flow north. The two regions are good commercial partners and have rarely come into political conflict.
+To the **south** lies the [[place-heladrgn|Hellád]] across the southern uplands. Velanthian grain feeds Helladic cities; Helladic philosophy, medicine, and luxury goods flow north. The two regions are good commercial partners and have rarely come into political conflict.
 
-To the **southeast** lies the western shore of the inland sea, beyond which lie the [[doc-sultntmrdd|Sultanate of Amradad]] and the broader [[doc-dunharargn|Dunhara]]. Velanthian-Amradadi sea-trade has grown substantially over the past century; the Velanthian eastern hybrid communities serve as the principal intermediaries.
+To the **southeast** lies the western shore of the inland sea, beyond which lie the [[affiliation-sultntmrdd|Sultanate of Amradad]] and the broader [[place-dunharargn|Dunhara]]. Velanthian-Amradadi sea-trade has grown substantially over the past century; the Velanthian eastern hybrid communities serve as the principal intermediaries.
 
 ## See Also
 
-- [[doc-nrdlndsrgn|Nordlands Region]] — western neighbor
-- [[doc-vrystwald|Vrystwald]] — northern neighbor across the most permeable frontier
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — eastern frontier
-- [[doc-heladrgn|Hellád Region]] — southern trading partner
-- [[doc-grkrhlmrgn|Grukarholm Region]] — northwestern enclave-buffer
-- [[doc-sultntmrdd|Sultanate of Amradad]] — eastern-shore trading partner
+- [[place-nrdlndsrgn|Nordlands Region]] — western neighbor
+- [[place-vrystwald|Vrystwald]] — northern neighbor across the most permeable frontier
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — eastern frontier
+- [[place-heladrgn|Hellád Region]] — southern trading partner
+- [[place-grkrhlmrgn|Grukarholm Region]] — northwestern enclave-buffer
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — eastern-shore trading partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — formal religion
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

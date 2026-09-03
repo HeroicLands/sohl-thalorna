@@ -15,12 +15,92 @@ name:
 shortcode: bthntrdhss
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-clgmrgntrrm
+    - affiliation-crwntrdskhrs
+    - affiliation-magnumclgm
+    - affiliation-perhati
+    - lore-tkhprcrncy
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -28,16 +108,16 @@ folder:
 # The Bethûan Trade-Houses
 
 - **Type:** Federation of matriarchal trading clans; commercial institution
-- **Region:** [[doc-mtrrchybth|The Matriarchy of Bethûa]] — principal houses concentrated in the coastal trading ports of the northern Vylarian Sea coast; lesser houses operate inland and at the southern frontier
+- **Region:** [[affiliation-mtrrchybth|The Matriarchy of Bethûa]] — principal houses concentrated in the coastal trading ports of the northern Vylarian Sea coast; lesser houses operate inland and at the southern frontier
 - **Founded:** The individual houses are ancient; their formal federation as a recognized commercial body dates to roughly two centuries ago
 
 ## Overview
 
-The Bethûan Trade-Houses are the great matriarchal clans that dominate the [[doc-mtrrchybth|Bethûan]] commercial economy. Each house is a clan — extended kin-network led by a matriarch and inherited through the female line — with substantial wealth in coastal estates, premium-export production (Bethûan wine, olive oil, preserved fruits, fine horses), and trade relationships with the Vylarian Sea ports, [[doc-empirtkhpr|Ta'Kheperu]], and the wider Northern Fertile Region. They are not formally a government institution; the Matriarchy of Bethûa is its own thing, governed by the **[[doc-gvrnmntbth|Mêtríssa]]** through the Two Pillars — the Sacred College of priestesses and the Council of Houses of the clan-matriarchs. The Houses are the commercial powers that operate alongside the political authority, often overlapping with it (many priestesses are also matriarchs of trading houses; many royal officials are drawn from trade-house families) but distinguishable in function.
+The Bethûan Trade-Houses are the great matriarchal clans that dominate the [[affiliation-mtrrchybth|Bethûan]] commercial economy. Each house is a clan — extended kin-network led by a matriarch and inherited through the female line — with substantial wealth in coastal estates, premium-export production (Bethûan wine, olive oil, preserved fruits, fine horses), and trade relationships with the Vylarian Sea ports, [[affiliation-empirtkhpr|Ta'Kheperu]], and the wider Northern Fertile Region. They are not formally a government institution; the Matriarchy of Bethûa is its own thing, governed by the **[[affiliation-mtrrchybth|Mêtríssa]]** through the Two Pillars — the Sacred College of priestesses and the Council of Houses of the clan-matriarchs. The Houses are the commercial powers that operate alongside the political authority, often overlapping with it (many priestesses are also matriarchs of trading houses; many royal officials are drawn from trade-house families) but distinguishable in function.
 
 The federation of the Houses — the formal recognition that the leading trade-houses act collectively on certain commercial questions — is two centuries old and is itself a Bethûan response to the institutional pressures of doing business with much larger trading economies. The federation negotiates collectively with the Vylarian [[affiliation-magnumclgm|The Magnum Collegium]] (which recognizes Bethûan goods and producers through its standing trade-recognition arrangements, even though Bethûa is not a member territory), with the Kheperi [[affiliation-perhati|Pér-Háti]] (which maintains formal correspondent arrangements with the major Houses), and with the Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] (where the Bethûan exporting class has been the principal beneficiary of post-secession Haradian trade re-routing through the Northern Fertile Region).
 
-The Houses are not a banking system in their own right. Bethûa does not maintain a native currency, and the Houses do not issue their own coinage. They use the [[doc-tkhprcrncy|Ta'Kheperan currency system]] — the temple-attested weight-pieces of copper, silver, and gold that circulate throughout the Northern Fertile Region — and conduct their large-value commerce through correspondent accounts at Kheperi temples. A Bethûan trade-house with a substantial Wasetkara correspondent account can issue its own **letters of credit** redeemable through that account; functionally these letters serve the same purpose as Kheperi temple chits, but they are _trade-house instruments_ rather than temple instruments, and their range of acceptance depends on the issuing house's network of correspondent relationships.
+The Houses are not a banking system in their own right. Bethûa does not maintain a native currency, and the Houses do not issue their own coinage. They use the [[lore-tkhprcrncy|Ta'Kheperan currency system]] — the temple-attested weight-pieces of copper, silver, and gold that circulate throughout the Northern Fertile Region — and conduct their large-value commerce through correspondent accounts at Kheperi temples. A Bethûan trade-house with a substantial Wasetkara correspondent account can issue its own **letters of credit** redeemable through that account; functionally these letters serve the same purpose as Kheperi temple chits, but they are _trade-house instruments_ rather than temple instruments, and their range of acceptance depends on the issuing house's network of correspondent relationships.
 
 ## Structure
 

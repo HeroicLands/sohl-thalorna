@@ -5,6 +5,8 @@ aliases:
   - Domrithas Vishardas
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Dómrithâs Vîshârdâs
   title: ""
@@ -16,29 +18,26 @@ id: UjnAChynlU60dM9m
 folder: UFBfgKZUF0bAE7gG
 shortcode: dmrthsvshrds
 img: icons/person.svg
-portrait: images/being/dmrthsvshrds-portrait.webp
 type: being
-thalorna:
-  realm: hlykngdmnrtm
-  region: vylariargn
-social:
+data:
+  portrait: images/being/dmrthsvshrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - hlykngdmnrtm
   gender: male
+  species: null
   age: 43
   birthday: 677/4/15
-  height:
-    m: 1.63
-  weight:
-    kg: 57.6
-  build:
-    frame: medium
+  height: 1.63
+  weight: 57.6
+  frame: medium
   appearance:
     eye_color: green
     hair_color: graying_brown

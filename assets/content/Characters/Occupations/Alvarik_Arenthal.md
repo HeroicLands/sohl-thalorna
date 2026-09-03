@@ -4,6 +4,7 @@ aliases:
   - Alvarik Arenthal
 tags:
   - draft
+  - common-folk
 name:
   full: Alvárik Árenthal
   title: ""
@@ -16,23 +17,27 @@ id: V4i3erXY2Av7YGr0
 folder: 9t9O4iB5cYJtSaTG
 shortcode: alvrkrnthl
 img: icons/person.svg
-portrait: images/being/alvrkrnthl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alvrkrnthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 41
   birthday: 679/8/15
-  height:
-    m: 1.88
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: gray
@@ -40,16 +45,6 @@ traits:
     complexion: bronzed
     extra_features:
       - a tattoo of a compass on the chest
-gear:
-  weapons:
-    - Sickle
-  armor:
-    - Thick woolen cloak
-  misc:
-    - Large wicker basket
-    - Farming tools
-    - seed bags
-    - leather gloves
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -9,9 +9,30 @@ name:
 description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
 id: bnKZuFaJKbkhFJxn
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/crglrkr-portrait.webp
 shortcode: crglrkr
 type: being
+data:
+  portrait: images/being/crglrkr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

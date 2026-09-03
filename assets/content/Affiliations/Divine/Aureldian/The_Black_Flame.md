@@ -1,4 +1,5 @@
 ---
+description: "Fire (destructive aspect)."
 aliases:
   - The Black Flame
 id: CCdyLVFM6CXgmdFx
@@ -14,19 +15,98 @@ shortcode: blackflame
 img: images/affiliation/blackflame.webp
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Forge-Lord
+  symbol: A mailed fist enclosed in black flames
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - vulcandty
+  parents:
+    - arldnpnthn
+  relations:
     arldnpnthn: aligned
+sohl:
   archetype: null
-deity: Vúlcan
-epithet: The Forge-Lord
-domain: Fire (destructive aspect)
-symbol: A mailed fist enclosed in black flames
-pantheon: arldnpnthn
 folder: uMjCDTomEtc5Z0KV
 ---
 
@@ -39,7 +119,7 @@ The Black Flame represents Vúlcan's destructive aspect: fire as purifier, as we
 
 Despite being suppressed in most kingdoms and condemned by both [[affiliation-sacredforge|The Sacred Forge]] and the [[affiliation-janus|Faith of Janus]], the Black Flame thrives. Its "might makes right" philosophy holds a brutal, honest appeal for those who feel the established order has failed them — sellswords, ambitious minor nobles, dispossessed soldiers, frontier settlers, and anyone who has learned that the world rewards strength and punishes weakness. The faith draws followers not through elaborate theology but through a simple, seductive promise: the strong take what they deserve. In lands where feudal law protects the powerful and grinds the common folk, this message resonates far more widely than Jánite clergy care to admit.
 
-The Black Flame operates through secretive orders and hidden shrines in most of western Ankaris, maintaining footholds through noble patrons who find its doctrines politically useful and frontier regions where the arm of established religion does not reach. The notable exception is the [[doc-vylarinmpr|Empire of Vylaria]], whose longstanding policy of religious tolerance has never formally proscribed the Black Flame. In Vylaria — particularly in the commercial cities of the Province of Alyssa and the empire's frontier territories — the faith operates openly, maintaining temples, ordaining clergy, and preaching its doctrine without legal impediment. The Black Flame's philosophy of strength-as-virtue resonates powerfully in a mercantile culture that rewards competition and in border regions where survival depends on practical capability rather than theological niceties. This Vylarian tolerance infuriates the [[affiliation-janus|Jánite]] orders and the [[affiliation-sacredforge|Sacred Forge]] clergy who operate within the empire, but imperial law is clear: faiths are permitted so long as they do not threaten the stability of the state.
+The Black Flame operates through secretive orders and hidden shrines in most of western Ankaris, maintaining footholds through noble patrons who find its doctrines politically useful and frontier regions where the arm of established religion does not reach. The notable exception is the [[affiliation-vylarinmpr|Empire of Vylaria]], whose longstanding policy of religious tolerance has never formally proscribed the Black Flame. In Vylaria — particularly in the commercial cities of the Province of Alyssa and the empire's frontier territories — the faith operates openly, maintaining temples, ordaining clergy, and preaching its doctrine without legal impediment. The Black Flame's philosophy of strength-as-virtue resonates powerfully in a mercantile culture that rewards competition and in border regions where survival depends on practical capability rather than theological niceties. This Vylarian tolerance infuriates the [[affiliation-janus|Jánite]] orders and the [[affiliation-sacredforge|Sacred Forge]] clergy who operate within the empire, but imperial law is clear: faiths are permitted so long as they do not threaten the stability of the state.
 
 ## Worship
 

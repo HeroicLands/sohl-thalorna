@@ -4,6 +4,7 @@ aliases:
   - Dalzuru Tubashi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Dalzûru Tûbashî
   title: ""
@@ -16,23 +17,27 @@ id: RWUXQR1iOg5OPctY
 folder: PuQFDMkRM9i60i5Z
 shortcode: dalzurtbsh
 img: icons/person.svg
-portrait: images/being/dalzurtbsh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dalzurtbsh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Skald
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 43
   birthday: 677/5/16
-  height:
-    m: 1.78
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.78
+  weight: 73
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -40,16 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a falcon on the right arm
-gear:
-  weapons:
-    - Short sword
-  armor:
-    - Thick fur cloak
-  misc:
-    - Leather satchel for scrolls
-    - Carved runestones
-    - drinking horn
-    - hand drum
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

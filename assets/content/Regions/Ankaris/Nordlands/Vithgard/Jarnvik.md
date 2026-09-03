@@ -3,23 +3,22 @@ aliases:
   - Járnvík
   - Jarnvik
 id: JVjT5UI2QiINN8NC
+tags:
+  - port
+  - town
+description: "Harbor Town"
 type: place
 subType: settlement
-settlementType: "Harbor Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Járnvík
   aliases: []
 shortcode: jarnvik
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

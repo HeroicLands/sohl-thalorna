@@ -5,6 +5,7 @@ aliases:
   - Makithos Vanardis
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Màkîthos Vânardis
   title: ""
@@ -16,29 +17,26 @@ id: XPJffxceSnvQmDsI
 folder: UFBfgKZUF0bAE7gG
 shortcode: mkthsvnrds
 img: icons/person.svg
-portrait: images/being/mkthsvnrds-portrait.webp
 type: being
-thalorna:
-  realm: provnchyln
-  region: vylariargn
-social:
+data:
+  portrait: images/being/mkthsvnrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - provnchyln
   gender: male
+  species: null
   age: 41
   birthday: 679/5/25
-  height:
-    m: 1.7
-  weight:
-    kg: 62.6
-  build:
-    frame: medium
+  height: 1.7
+  weight: 62.6
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black

@@ -5,6 +5,8 @@ aliases:
   - Gregoras Ephthymiopoulos
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Grégoras Ephthymiópoulos
   title: ""
@@ -16,29 +18,26 @@ id: Qk52LmyfyG3PPgI4
 folder: b81DHx3S7C9ep13E
 shortcode: grgrsphthympls
 img: icons/person.svg
-portrait: images/being/grgrsphthympls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/grgrsphthympls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 42
   birthday: 678/2/30
-  height:
-    m: 1.83
-  weight:
-    kg: 80.7
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 80.7
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: dark_brown

@@ -4,6 +4,8 @@ aliases:
   - Darya Naredh
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Dárya Náredh
   title: ""
@@ -16,23 +18,27 @@ id: 48Ju6NoPeO0D6StP
 folder: 4cwfdMa34UryZqPR
 shortcode: daryanardh
 img: icons/person.svg
-portrait: images/being/daryanardh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/daryanardh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bard
-  station: tradesfolk
-  class: guilded
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 28
   birthday: 692/4/23
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: light
+  height: 1.8
+  weight: 73
+  frame: light
   appearance:
     eye_color: green
     hair_color: graying_brown
@@ -40,16 +46,6 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Silk cloak
-  misc:
-    - Leather satchel
-    - Harp
-    - scrolls of written songs
-    - journal
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 64 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 45 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

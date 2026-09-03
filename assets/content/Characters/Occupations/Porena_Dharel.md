@@ -4,6 +4,7 @@ aliases:
   - Porena Dharel
 tags:
   - draft
+  - common-folk
 name:
   full: Pórena Dhárel
   title: ""
@@ -16,38 +17,33 @@ id: mZMi3qdPE3xJ7gT2
 folder: 4cwfdMa34UryZqPR
 shortcode: porenadhrl
 img: icons/person.svg
-portrait: images/being/porenadhrl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/porenadhrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Longshorewoman
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 28
   birthday: 696/4/9
-  height:
-    m: 1.73
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.73
+  weight: 68
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: pale
     complexion: smooth
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small satchel for personal items
-    - Cargo handling tools
-    - protective gloves
-    - first aid kit
 sohl:
   archetype: null
   body:
@@ -523,12 +519,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

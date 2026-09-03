@@ -2,23 +2,22 @@
 aliases:
   - Corvinus
 id: 0yneTHleAxbUv6TI
+tags:
+  - garrison
+  - town
+description: "Garrison Town"
 type: place
 subType: settlement
-settlementType: "Garrison Town"
-population: 9000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 9000
 name:
   full: Corvinus
   aliases: []
 shortcode: corvinus
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

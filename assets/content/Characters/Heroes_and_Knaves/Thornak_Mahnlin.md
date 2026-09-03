@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Thornak Blodtūsc Bār
   title: ""
@@ -18,34 +19,31 @@ id: hH7o4YAGiDlrPEZb
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrnkbldtscbr
 img: icons/person.svg
-portrait: images/being/thrnkbldtscbr-portrait.webp
 type: being
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-social:
+data:
+  portrait: images/being/thrnkbldtscbr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 41
   birthday: 679/5/8
-  height:
-    m: 1.98
-  weight:
-    kg: 122.5
-  build:
-    frame: heavy
+  height: 1.98
+  weight: 122.5
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: auburn
     skin_color: pale
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

@@ -4,6 +4,7 @@ aliases:
   - Harekos Baremzator
 tags:
   - draft
+  - common-folk
 name:
   full: Hàrêkôs Bàremzâtôr
   title: ""
@@ -16,39 +17,33 @@ id: kMM9VThX0k9tgLb7
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrksbrmztr
 img: icons/person.svg
-portrait: images/being/hrksbrmztr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrksbrmztr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 58
   birthday: 662/2/2
-  height:
-    m: 1.75
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.75
+  weight: 70
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Thick woolen vest
-  misc:
-    - Large wicker basket for tools
-    - Thatching tools
-    - bundles of reed
-    - wooden pegs
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 55 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

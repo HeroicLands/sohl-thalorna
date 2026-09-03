@@ -3,22 +3,21 @@ aliases:
   - Zargandûr
   - Zargandur
 id: ge8mFHcZJR9yiiKZ
+tags:
+  - town
+description: "Town"
 type: place
-settlementType: "Town"
 name:
   full: Zargandûr
   aliases: []
 shortcode: zargandur
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - khzryndsrtrgn
-  polities:
-    - khzrncnfdrtn
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

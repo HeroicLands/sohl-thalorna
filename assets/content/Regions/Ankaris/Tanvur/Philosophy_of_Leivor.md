@@ -4,7 +4,7 @@ aliases:
   - Philosophy of Leivor
 id: zyE0FcQlZ3Ej0w7Z
 type: lore
-subType: folk
+subType: cosmology
 name:
   full: Philosophy of Lëivōr
   aliases: []
@@ -14,7 +14,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # The Philosophy of Lëivōr in Tānvür
 
-Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
+Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
 **Lëivōr** ("Spirit-Sacred," often translated as "The Way of Lëi") is the philosophical framework that underpins religion, magic, medicine, governance, and daily life in the Empire of Tānvür. It is not a religion in itself — it is the _theoretical language_ through which the Tānvüri understand how the cosmos works, why it holds together, and what happens when it doesn't.
 
@@ -58,9 +58,9 @@ Magic in Tānvür is structured around **Domains of Classification** — the fun
 
 ### The Five Material Domains
 
-Each of the five material domains is administered by one of the [[doc-fvlmntlrds|Five Elemental Lords]] — elemental bureau chiefs appointed during the Great Sorting.
+Each of the five material domains is administered by one of the [[lore-fvlmntlrds|Five Elemental Lords]] — elemental bureau chiefs appointed during the Great Sorting.
 
-1. **Air (Lëi):** The domain of breath, communication, and the medium through which all other classifications flow. Air is the carrier — the channel that connects sorted things to each other, the force of expansion and movement that prevents the sorted world from stagnating. Governed by Vëngdāk Zhütvōr of the [[doc-fvlmntlrds|Five Elemental Lords]].
+1. **Air (Lëi):** The domain of breath, communication, and the medium through which all other classifications flow. Air is the carrier — the channel that connects sorted things to each other, the force of expansion and movement that prevents the sorted world from stagnating. Governed by Vëngdāk Zhütvōr of the [[lore-fvlmntlrds|Five Elemental Lords]].
 
 2. **Fire (Höt):** The domain of transformation, purification, and transmission. Fire converts things from one classification to another — physical to spiritual, sorted to recycled, mortal to ancestor. Fire is the medium through which spirit documents are transmitted to the celestial filing system. Governed by Röthöt Dākvëng of the Bureau of Transformation ([[affiliation-tngvkvnlei|Höt Sëi]]).
 
@@ -86,7 +86,7 @@ The practical application of Lëivōr to magical practice is what makes Tānvür
 
 The Tānvüri build their forms as **documents**.
 
-A [[doc-venduk|Vëndük]] (chattel sorcerer) preparing a magical working constructs, in their mind's eye, a formal petition: addressed to the relevant celestial bureau, stamped with the appropriate seals of authority, filed through proper administrative channels. The petition _is_ the form. The seals are the structural elements that give it coherence. The bureau address determines which domain of Lëi the energy flows through. The formal language of the petition defines the specific effect.
+A [[lore-venduk|Vëndük]] (chattel sorcerer) preparing a magical working constructs, in their mind's eye, a formal petition: addressed to the relevant celestial bureau, stamped with the appropriate seals of authority, filed through proper administrative channels. The petition _is_ the form. The seals are the structural elements that give it coherence. The bureau address determines which domain of Lëi the energy flows through. The formal language of the petition defines the specific effect.
 
 This is not metaphor. The bureaucratic visualization genuinely shapes how the cosmic energy is channeled, just as the Ordo's geometric visualizations shape their workings. The result is magic with distinctive characteristics:
 
@@ -134,11 +134,11 @@ The medical practices of Tānvür are built on Lëivōr's classification framewo
 
 The concept of Lëi-as-classification extends directly into political philosophy. Each caste and role within Tānvüri society is understood as occupying a specific classification within the Great Sorting:
 
-- The **[[doc-zheklung|Zhëklüng]]** embody administrative Lëi — the authority to classify and govern
-- The **[[doc-venduk|Vëndük]]** embody channeled Lëi — the capacity to manipulate cosmic energy through bureaucratic form
-- The **[[doc-vushok|Vüshōk]]** embody enforcing Lëi — the power that maintains classifications through force
-- The **[[doc-tanthei|Tānthëi]]** embody recording Lëi — the preservation of the classification system's records and precedents
-- The **[[doc-nokvur|Nōkvür]]** embody sustaining Lëi — the maintenance of the physical world's classifications through labor
+- The **[[lore-zheklung|Zhëklüng]]** embody administrative Lëi — the authority to classify and govern
+- The **[[lore-venduk|Vëndük]]** embody channeled Lëi — the capacity to manipulate cosmic energy through bureaucratic form
+- The **[[lore-vushok|Vüshōk]]** embody enforcing Lëi — the power that maintains classifications through force
+- The **[[lore-tanthei|Tānthëi]]** embody recording Lëi — the preservation of the classification system's records and precedents
+- The **[[lore-nokvur|Nōkvür]]** embody sustaining Lëi — the maintenance of the physical world's classifications through labor
 
 Marriages, rituals, and daily practices are designed to maintain the flow of Lëi within and between these classifications. Cross-caste mixing is not merely a social transgression — it is a _classification error_ that weakens the sorting and creates gaps through which the Hürnlëi may seep.
 

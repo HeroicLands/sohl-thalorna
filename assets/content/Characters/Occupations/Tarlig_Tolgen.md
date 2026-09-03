@@ -4,6 +4,7 @@ aliases:
   - Tarlig Tolgen
 tags:
   - draft
+  - common-folk
 name:
   full: Târlig Tólgen
   title: ""
@@ -16,39 +17,33 @@ id: d8woPeX9PcWb8pm1
 folder: J9R0fnGUTBY5z4pd
 shortcode: tarligtlgn
 img: icons/person.svg
-portrait: images/being/tarligtlgn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tarligtlgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 47
   birthday: 673/5/5
-  height:
-    m: 1.85
-  weight:
-    kg: 81
-  build:
-    frame: medium
+  height: 1.85
+  weight: 81
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: graying_brown
     skin_color: fair
     complexion: clear
     extra_features: []
-gear:
-  weapons:
-    - Small hatchet
-  armor:
-    - Leather gloves
-  misc:
-    - Wicker basket for thatching materials
-    - Thatching tools
-    - ladder
-    - bundles of straw
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

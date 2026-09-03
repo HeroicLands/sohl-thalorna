@@ -9,9 +9,30 @@ name:
 description: "A leathery-hided forest and swamp predator over 350 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
 id: hfTq2IglUl64LTn9
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/margrush-portrait.webp
 shortcode: margrush
 type: being
+data:
+  portrait: images/being/margrush-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

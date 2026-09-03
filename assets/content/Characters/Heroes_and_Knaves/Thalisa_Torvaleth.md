@@ -5,6 +5,8 @@ aliases:
   - Thalisa Torvaleth
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Thalísa Torvaleth
   title: ""
@@ -16,34 +18,31 @@ id: KRJE8JnPkSUIjjAs
 folder: 9t9O4iB5cYJtSaTG
 shortcode: thlstrvlth
 img: icons/person.svg
-portrait: images/being/thlstrvlth-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/thlstrvlth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 27
   birthday: 693/4/19
-  height:
-    m: 1.78
-  weight:
-    kg: 71.2
-  build:
-    frame: light
+  height: 1.78
+  weight: 71.2
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a wolf on the shoulder
 sohl:

@@ -2,21 +2,23 @@
 aliases:
   - Zarhánor
 id: 2fdrzbEWF4pDGpTo
-tags: []
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
-settlementType: "Temple City"
-population: null
-pantheons:
-  - nkaruthar
+data:
+  demonym: null
+  lore: []
+  parents:
+    - okharisrgn
+  population: null
 name:
   full: Zarhánor
   aliases:
     - The First Flame
 shortcode: zarhanor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

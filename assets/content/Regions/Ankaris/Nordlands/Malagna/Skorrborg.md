@@ -2,23 +2,22 @@
 aliases:
   - Skorrborg
 id: RceXRNNJJjThvqSo
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
-settlementType: "Fortified Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Skorrborg
   aliases: []
 shortcode: skorrborg
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

@@ -5,6 +5,7 @@ aliases:
   - Senapati Vikramada
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Sénapati Vikramâda
   title: ""
@@ -16,34 +17,31 @@ id: mCsuUes7ZyvdxVMu
 folder: JotxZnnXcTECeYW3
 shortcode: senptvkrmd
 img: icons/person.svg
-portrait: images/being/senptvkrmd-portrait.webp
 type: being
-thalorna:
-  realm: vyalendra2
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/senptvkrmd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bosun
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - vyalendra2
   gender: male
+  species: null
   age: 45
   birthday: 675/9/12
-  height:
-    m: 1.83
-  weight:
-    kg: 81.2
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 81.2
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: graying_brown
     skin_color: medium
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
 sohl:

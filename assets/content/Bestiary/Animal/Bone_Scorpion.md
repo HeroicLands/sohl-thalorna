@@ -9,9 +9,30 @@ name:
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
 id: 6qq2ohVEMdu3Lmwo
 img: icons/game-icons/lorc/scorpion.svg
-portrait: images/being/bnscrpn-portrait.webp
 shortcode: bnscrpn
 type: being
+data:
+  portrait: images/being/bnscrpn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

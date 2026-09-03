@@ -2,23 +2,21 @@
 aliases:
   - Ormstead
 id: DOIcd67IRmgTlxdK
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Ormstead
   aliases: []
 shortcode: ormstead
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

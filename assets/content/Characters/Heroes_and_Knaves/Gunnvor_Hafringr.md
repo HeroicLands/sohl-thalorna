@@ -5,6 +5,8 @@ aliases:
   - Gunnvor Hafringr
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Gunnvǫr Hafringr
   title: ""
@@ -16,29 +18,26 @@ id: SbSOX4r7roxdSEi4
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gnvrhfrngr
 img: icons/person.svg
-portrait: images/being/gnvrhfrngr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/gnvrhfrngr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
   gender: female
+  species: null
   age: 29
   birthday: 691/12/3
-  height:
-    m: 1.8
-  weight:
-    kg: 71.7
-  build:
-    frame: medium
+  height: 1.8
+  weight: 71.7
+  frame: medium
   appearance:
     eye_color: green
     hair_color: blonde

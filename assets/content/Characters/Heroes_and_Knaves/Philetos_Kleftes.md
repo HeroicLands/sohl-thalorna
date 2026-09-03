@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Philetos Kleftes
   title: ""
@@ -16,29 +17,26 @@ id: jvc9JLBxL6l2hfKF
 folder: UFBfgKZUF0bAE7gG
 shortcode: phltsklfts
 img: icons/person.svg
-portrait: images/being/phltsklfts-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/phltsklfts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: male
+  species: null
   age: 33
   birthday: 687/4/19
-  height:
-    m: 1.8
-  weight:
-    kg: 78
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 78
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown

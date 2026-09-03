@@ -17,12 +17,93 @@ name:
 shortcode: hekzhak
 type: affiliation
 subType: criminal
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: autocracy
+    summary: >-
+      A boss whose word is the organisation's only law, held for exactly as long as it is
+      feared.
+    ranks:
+      - level: 0
+        title: Marked
+        lore: outlawrnk
+        description: Named for killing, and every member who meets them is expected to try.
+      - level: 1
+        title: Hanger-on
+        lore: dependentrnk
+        description: >-
+          Around the organisation and useful to it — a doorman, a runner, a girl in a house
+          — and told nothing.
+      - level: 2
+        title: Associate
+        lore: swornmemberrnk
+        description: >-
+          Working for the organisation without being of it: paid for jobs, and disposable between
+          them.
+      - level: 3
+        title: Made Member
+        lore: swornmemberrnk
+        description: >-
+          Sworn in and under the organisation's protection, owing it obedience and a cut of
+          everything.
+      - level: 4
+        title: Earner
+        lore: earnerrnk
+        description: >-
+          Running a business of the organisation's — a racket, a route, a house — and paying
+          up from it.
+      - level: 5
+        title: Enforcer
+        lore: enforcerrnk
+        description: >-
+          Charged with what the organisation collects by fear, and with what it does when fear
+          fails.
+      - level: 6
+        title: Crew Boss
+        lore: commanderrnk
+        description: Holding a crew and a territory, answerable for both and for what they bring
+          in.
+      - level: 7
+        title: Underboss
+        lore: underbossrnk
+        description: >-
+          Second in the organisation, running it day to day and standing between the boss and
+          everyone else.
+      - level: 8
+        title: Boss
+        lore: grandmasterrnk
+        description: >-
+          Head of the organisation, whose word is its only law and whose position lasts exactly
+          as long as it is feared.
+    offices:
+      Boss: Head of the organisation, whose word is its law for as long as it is feared.
+      Underboss: >-
+        Second, running the organisation day to day and standing between the boss and everyone
+        else.
+      Counsellor: Adviser to the boss, holding no crew and no territory and more influence
+        than either.
+      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
+      Enforcer: Collector by fear, and executor of what follows when fear fails.
+      Fence: Buyer and mover of what the organisation takes, and its most closely held connection.
+      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
+      Treasurer: >-
+        Keeper of the organisation's money — its cuts, its bribes, its reserve, and where
+        all three are.
+      Master of Lookouts: Runner of the network of eyes on which every operation depends.
+      Courier: Carrier of what may not be written, between people who may not meet.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder: DWK5QE0GRZ8br2mk
 ---
@@ -30,13 +111,13 @@ folder: DWK5QE0GRZ8br2mk
 # Hëk Zhāk
 
 - **Type:** Subversive magical sect
-- **Region:** [[doc-tanvurempr|Empire of Tānvür]]
-- **Composition:** Rogue [[doc-venduk|Vëndük]] sorcerers and their collaborators
+- **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]
+- **Composition:** Rogue [[lore-venduk|Vëndük]] sorcerers and their collaborators
 - **Tānvüri:** _Hëk Zhāk_ — literally "Shadow Sect"; collectively sometimes called _Hëkzōk_ ("shadow folk")
 
 ## Overview
 
-The **Hëk Zhāk** — the Shadow Sect — is a clandestine network of rogue [[doc-venduk|Vëndük]] who have escaped imperial control and the chains of chattel service. They operate in the empire's dark interstices, offering forbidden magical services to those willing to pay in coin or leverage, and pursuing an ideological goal that would be unthinkable within the imperial order: the liberation of magic itself from the classification system.
+The **Hëk Zhāk** — the Shadow Sect — is a clandestine network of rogue [[lore-venduk|Vëndük]] who have escaped imperial control and the chains of chattel service. They operate in the empire's dark interstices, offering forbidden magical services to those willing to pay in coin or leverage, and pursuing an ideological goal that would be unthinkable within the imperial order: the liberation of magic itself from the classification system.
 
 The Shadow Sect is not a crime syndicate. Where the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] pursues wealth through protection, bribery, and commerce, the Hëk Zhāk pursues freedom — and sees every coin earned through its magical services as an investment in an order that does not yet exist. This ideological character makes the Sect far more dangerous to the imperial system than any mere criminal organization. The Black Lotus wants a larger share of the pie. The Shadow Sect wants a different pie.
 
@@ -60,7 +141,7 @@ Those who escape and are not caught find one another, over time, through channel
 
 Of all the Shadow Sect's external relationships, the most consequential — and the most perilous — is its arrangement with the [[affiliation-ordoarcanis|Ordo Arcanis]] embassy in the imperial capital. The relationship is strained, transactional, and deeply subversive, and it exists because each side needs something that only the other can provide.
 
-**What the Ordo needs.** The Ordo Arcanis operates in Tānvür under severe constraints. The imperial classification system treats unsanctioned magical inquiry as a form of heresy, and the empire's own magic — the bureaucratic arts of the [[doc-tanthei|Tānthëi]], the chattel sorcery of the Vëndük, and the forbidden techniques preserved in private archives — is largely closed to outsiders. An Ordo surveyor who attempts open research is deported if lucky and executed if not. Yet the Ordo's scholarly imperatives demand access: it cannot produce a complete account of Thalornan magical tradition while the richest and strangest tradition on the continent remains behind a wall.
+**What the Ordo needs.** The Ordo Arcanis operates in Tānvür under severe constraints. The imperial classification system treats unsanctioned magical inquiry as a form of heresy, and the empire's own magic — the bureaucratic arts of the [[lore-tanthei|Tānthëi]], the chattel sorcery of the Vëndük, and the forbidden techniques preserved in private archives — is largely closed to outsiders. An Ordo surveyor who attempts open research is deported if lucky and executed if not. Yet the Ordo's scholarly imperatives demand access: it cannot produce a complete account of Thalornan magical tradition while the richest and strangest tradition on the continent remains behind a wall.
 
 **What the Sect needs.** The Shadow Sect requires protection, resources, and — at rare intervals — extraction of members whose cover has failed catastrophically enough that no Tānvüri asylum remains safe. The Ordo embassy can provide all three. Its diplomatic status affords a shield against direct Tānvüri enforcement; its resources include coin, materiel, and safe passage beyond imperial borders; and its network of chapterhouses across the wider world can absorb a relocated Vëndük into a new life in Vylaria or Béravel, where the classification system does not reach.
 
@@ -74,7 +155,7 @@ The practical effect is an arrangement that has lasted longer than most Tānvür
 
 ## Ideology
 
-The Sect's long-term goal is the liberation of magic from the classification system — a world in which magical practice is not confined to state-sanctioned channels, in which sorcerers are not born into chattel service, and in which the Great Sorting's authority over the magical domain is broken. This is not a position any loyal Tānvüri can contemplate without horror. It is the reason the empire would pursue the Sect to the end of the continent if it could identify its members, and it is the reason that the Sect's external alliances — with the Ordo, with limited elements of the Merchant Uprising, with occasional sympathizers in the [[doc-shukren|Shükrën]] caste — are always held at arm's length and always conducted with the assumption that any ally may become a threat.
+The Sect's long-term goal is the liberation of magic from the classification system — a world in which magical practice is not confined to state-sanctioned channels, in which sorcerers are not born into chattel service, and in which the Great Sorting's authority over the magical domain is broken. This is not a position any loyal Tānvüri can contemplate without horror. It is the reason the empire would pursue the Sect to the end of the continent if it could identify its members, and it is the reason that the Sect's external alliances — with the Ordo, with limited elements of the Merchant Uprising, with occasional sympathizers in the [[lore-shukren|Shükrën]] caste — are always held at arm's length and always conducted with the assumption that any ally may become a threat.
 
 The Sect does not believe its goal is achievable within a human lifetime. It believes that the work of building the conditions under which such a goal becomes possible is itself the point.
 
@@ -92,9 +173,9 @@ Every new member is subjected to an extended evaluation process — years, typic
 
 ## See Also
 
-- [[doc-venduk|Vëndük]] — The chattel sorcerer caste from which the Sect's members are drawn
+- [[lore-venduk|Vëndük]] — The chattel sorcerer caste from which the Sect's members are drawn
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The external partner, rival, and perpetual potential blackmailer
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]] — The parallel but ideologically different criminal organization
-- [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — Overview of forces working against the imperial order
-- [[doc-castelaws|Caste Laws]] — The legal framework the Sect works to subvert
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Sect ultimately seeks to overthrow
+- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] — Overview of forces working against the imperial order
+- [[lore-castelaws|Caste Laws]] — The legal framework the Sect works to subvert
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Sect ultimately seeks to overthrow

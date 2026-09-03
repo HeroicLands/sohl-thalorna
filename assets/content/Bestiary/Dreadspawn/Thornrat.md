@@ -9,9 +9,30 @@ name:
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
 id: RIxGnXKWRth60BN7
 img: icons/game-icons/delapouite/rat.svg
-portrait: images/being/thornrat-portrait.webp
 shortcode: thornrat
 type: being
+data:
+  portrait: images/being/thornrat-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

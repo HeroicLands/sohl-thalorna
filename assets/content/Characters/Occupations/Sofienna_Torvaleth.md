@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Sofíenna Torvaleth
   title: ""
@@ -17,23 +18,27 @@ id: kAP744EEPmW9susP
 folder: 9t9O4iB5cYJtSaTG
 shortcode: sofntrvlth
 img: icons/person.svg
-portrait: images/being/sofntrvlth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sofntrvlth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 34
   birthday: 690/4/9
-  height:
-    m: 1.73
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.73
+  weight: 68
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: gray
@@ -41,15 +46,6 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the right elbow
-gear:
-  weapons: []
-  armor:
-    - Simple robes suitable for fieldwork
-  misc:
-    - Leather satchel for supplies
-    - Sacred texts
-    - farming tools
-    - offerings for rituals
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

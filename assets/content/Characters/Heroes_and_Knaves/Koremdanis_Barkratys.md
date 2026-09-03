@@ -5,6 +5,7 @@ aliases:
   - Koremdanis Barkratys
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Korêmdânis Bárkrâtys
   title: ""
@@ -16,34 +17,31 @@ id: 9UQwsC5dVnahmw52
 folder: UFBfgKZUF0bAE7gG
 shortcode: krmdnsbrkrtys
 img: icons/person.svg
-portrait: images/being/krmdnsbrkrtys-portrait.webp
 type: being
-thalorna:
-  realm: provincvld
-  region: vylariargn
-social:
+data:
+  portrait: images/being/krmdnsbrkrtys-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - provincvld
   gender: female
+  species: null
   age: 34
   birthday: 686/4/8
-  height:
-    m: 1.83
-  weight:
-    kg: 79.8
-  build:
-    frame: medium
+  height: 1.83
+  weight: 79.8
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: auburn
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
 sohl:

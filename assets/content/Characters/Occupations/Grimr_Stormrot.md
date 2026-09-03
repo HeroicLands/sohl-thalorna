@@ -4,6 +4,7 @@ aliases:
   - Grimr Stormrot
 tags:
   - draft
+  - administration
 name:
   full: Grímr Stormrót
   title: ""
@@ -16,38 +17,33 @@ id: T8ftJyPYv0iQS18V
 folder: Ka9XqaF27b0I3Gmq
 shortcode: grmrstrmrt
 img: icons/person.svg
-portrait: images/being/grmrstrmrt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/grmrstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 38
   birthday: 686/4/7
-  height:
-    m: 1.68
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.68
+  weight: 63
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: pale
     complexion: freckled
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather briefcase for documents
-    - Legal texts
-    - writing materials
-    - personal ledger
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 68 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

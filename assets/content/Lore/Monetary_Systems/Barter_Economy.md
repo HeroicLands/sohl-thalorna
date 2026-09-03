@@ -9,8 +9,8 @@ tags:
   - economy
   - barter
 description: "Direct goods-for-goods exchange — the predominant economic system in tribal, pastoral, and frontier polities of Thalorna where formal currency systems do not function or do not reach."
-type: doc
-subType: reference
+type: lore
+subType: economy
 id: 0ACuB6rbj44tmLVo
 name:
   full: The Barter Economy
@@ -69,7 +69,7 @@ A trader operating in a deep barter economy carries some mix of these — typica
 
 Barter is the dominant economic system in:
 
-- The **Nordlands** and **Vrystwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[doc-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
+- The **Nordlands** and **Vrystwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
 - The **Khazryn Confederation** outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
 - The **Dunhara Tribes** in their entirety; the pastoral economy has not monetized.
 - The **Southern Savannahs** including the **Nyáluba Tribal Nation**.
@@ -82,7 +82,7 @@ Barter is the _secondary_ economic system in most settled polities — operating
 
 The pure-spot-exchange form of barter — A trades goods for B's goods, transaction complete — is the simple case. The more complex case is **deferred barter**, in which goods are exchanged for the _promise_ of future goods. A Nordlands fur-trader gives a hall its season's furs in exchange for the hall's commitment to provide a season's worth of ale and grain at the harvest. The arrangement requires trust and is enforced by the social structures within which the parties operate (kin obligation, tribal custom, the standing reputation of both parties).
 
-Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and Dunhara, where **[[doc-kinhalcrdt|kin and hall credit]]** operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
+Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and Dunhara, where **[[lore-kinhalcrdt|kin and hall credit]]** operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
 
 ## Limitations
 
@@ -98,7 +98,7 @@ Where these limitations bite hard enough, cultures develop formal currency. Wher
 
 ## See Also
 
-- **[[doc-kinhalcrdt|Kin and Hall Credit]]** — the credit-system extension of barter customs in clan- and tribal-based polities
-- **[[doc-vylrncrncy|Vylarian Currency]]** — the formal currency that operates in the Nordlands without script infrastructure
-- **[[doc-tkhprcrncy|Ta'Kheperu Currency]]** — the formal currency system that operates in the Northern Fertile Region
-- Polity-specific notes for barter-dominated regions: [[doc-dunhartrbs|Dunhara Tribes]], [[doc-khzrncnfdrtn|Khazryn Confederation]], [[doc-vrystwldtrbs|Vrystwald Tribes]], [[doc-nylbtrblntn|Nyáluba Tribal Nation]]
+- **[[lore-kinhalcrdt|Kin and Hall Credit]]** — the credit-system extension of barter customs in clan- and tribal-based polities
+- **[[lore-vylrncrncy|Vylarian Currency]]** — the formal currency that operates in the Nordlands without script infrastructure
+- **[[lore-tkhprcrncy|Ta'Kheperu Currency]]** — the formal currency system that operates in the Northern Fertile Region
+- Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

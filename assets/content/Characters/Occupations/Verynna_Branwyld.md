@@ -4,6 +4,7 @@ aliases:
   - Verynna Branwyld
 tags:
   - draft
+  - clergy
 name:
   full: Vérynna Brânwyld
   title: ""
@@ -16,23 +17,27 @@ id: cgMBwUYuBMGhy5Km
 folder: J9R0fnGUTBY5z4pd
 shortcode: vrynbrnwyld
 img: icons/person.svg
-portrait: images/being/vrynbrnwyld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vrynbrnwyld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 34
   birthday: 690/8/22
-  height:
-    m: 1.7
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.7
+  weight: 65
+  frame: light
   appearance:
     eye_color: blue
     hair_color: dark_brown
@@ -40,16 +45,6 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the left thigh
-gear:
-  weapons:
-    - Ceremonial dagger
-  armor:
-    - Leather robes
-  misc:
-    - Woven bag with ritual tools
-    - Healing herbs
-    - divination stones
-    - ceremonial feathers
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

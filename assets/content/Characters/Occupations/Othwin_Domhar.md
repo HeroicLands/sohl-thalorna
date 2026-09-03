@@ -4,6 +4,7 @@ aliases:
   - Othwin Domhar
 tags:
   - draft
+  - common-folk
 name:
   full: Óthwin Dómhár
   title: ""
@@ -16,40 +17,33 @@ id: msoxltaTIircdJsS
 folder: Nu7AgLZEmR26u2pk
 shortcode: othwindmhr
 img: icons/person.svg
-portrait: images/being/othwindmhr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/othwindmhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 52
   birthday: 668/2/2
-  height:
-    m: 1.83
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: gray
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Long hunting knife
-  armor:
-    - Heavy leather coat
-  misc:
-    - Large leather pack
-    - Snares
-    - hunting traps
-    - dried meat
-    - flint
 sohl:
   archetype: null
   body:
@@ -529,12 +523,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -9,9 +9,30 @@ name:
 description: "A small, heavily armored arid-land reptile, far less deadly than large predators but disproportionately hazardous through its spined defenses."
 id: eDyiMoyAhdyDQpvk
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/brmblspn-portrait.webp
 shortcode: brmblspn
 type: being
+data:
+  portrait: images/being/brmblspn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

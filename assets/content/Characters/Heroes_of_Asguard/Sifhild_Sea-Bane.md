@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Sifhild Sea-Bane
   title: null
@@ -16,23 +17,27 @@ id: EOvIik9nMOMWRORv
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sifhildsbn
 img: icons/person.svg
-portrait: images/being/sifhildsbn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sifhildsbn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Sailor and Warrior
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 30
   birthday: 690/6/22
-  height:
-    m: 1.79
-  weight:
-    kg: 68
-  build:
-    frame: heavy
+  height: 1.79
+  weight: 68
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: red
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

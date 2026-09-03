@@ -4,6 +4,7 @@ aliases:
   - Radrun Vithrund
 tags:
   - draft
+  - underworld
 name:
   full: Rádrún Vithrúnd
   title: ""
@@ -16,39 +17,33 @@ id: XsTnSTFuEwJ77YUr
 folder: Nu7AgLZEmR26u2pk
 shortcode: rdrnvthrnd
 img: icons/person.svg
-portrait: images/being/rdrnvthrnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rdrnvthrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Prostitute
-  station: underworld
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 22
   birthday: 702/3/12
-  height:
-    m: 1.75
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.75
+  weight: 64
+  frame: light
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Simple yet enticing attire suitable for her work
-  misc:
-    - Small pouch for personal items
-    - Basic makeup
-    - secret communication tools
-    - notes from the guild
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

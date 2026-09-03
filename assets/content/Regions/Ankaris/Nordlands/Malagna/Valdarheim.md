@@ -2,23 +2,21 @@
 aliases:
   - Valdarheim
 id: fJaEmpvtfouLj68u
+tags:
+  - settlement
+description: "Settlement"
 type: place
 subType: settlement
-settlementType: "Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Valdarheim
   aliases: []
 shortcode: valdarheim
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

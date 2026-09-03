@@ -9,9 +9,30 @@ name:
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
 id: 0zzYLJWzwisk1CDQ
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/shdwspnn-portrait.webp
 shortcode: shdwspnn
 type: being
+data:
+  portrait: images/being/shdwspnn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

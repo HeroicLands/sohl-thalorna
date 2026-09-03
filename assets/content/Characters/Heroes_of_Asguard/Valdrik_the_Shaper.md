@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - mages
 name:
   full: Valdrik the Shaper
   title: null
@@ -16,23 +17,27 @@ id: UvT1G72vpeZ1mj5X
 folder: Nu7AgLZEmR26u2pk
 shortcode: valdrkshpr
 img: icons/person.svg
-portrait: images/being/valdrkshpr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/valdrkshpr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist and Scholar
-  station: mages
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 52
   birthday: 668/5/24
-  height:
-    m: 1.79
-  weight:
-    kg: 95
-  build:
-    frame: heavy
+  height: 1.79
+  weight: 95
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: silver
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

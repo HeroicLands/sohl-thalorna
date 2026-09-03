@@ -2,23 +2,22 @@
 aliases:
   - Calvaris
 id: Al3hGx4mCq9Tb2Ld
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
-settlementType: "Market Town"
-population: 9000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 9000
 name:
   full: Calvaris
   aliases: []
 shortcode: calvaris
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -30,5 +29,5 @@ Calvaris is a market town grown up around an ancient hilltop temple precinct of 
 
 ## See Also
 
-- [[doc-provinclys|Province of Alyssa]] — Parent province
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]] — Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview

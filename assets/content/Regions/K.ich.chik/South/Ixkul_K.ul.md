@@ -2,27 +2,28 @@
 aliases:
   - Ixkul K’ul
 id: AOgoVrsaeRLgPydh
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
-settlementType: "Temple City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - sthrnkchchk
+  population: null
 name:
   full: Ixkul K’ul
   aliases: []
 shortcode: ixkulkul
-parent:
-  polities:
-    - kuxibalam
 folder: 13VGFYcT7sKTGll7
 ---
 
 ## Overview
 
-Ixkul K’ul, "The Sacred Lake House," stands on the shore of the vast, mystical lake that dominates [[doc-kuxibalam|K’uxi Balam]]’s eastern reaches. The settlement is more temple-city than mercantile hub—a pilgrimage destination where the faithful journey to commune with the divine and peer, if only briefly, into the boundary between mortal and celestial realms. The lake itself is said to be the eye through which the gods observe the mortal world, and the priesthood maintains absolute control over access to its waters.
+Ixkul K’ul, "The Sacred Lake House," stands on the shore of the vast, mystical lake that dominates [[affiliation-kuxibalam|K’uxi Balam]]’s eastern reaches. The settlement is more temple-city than mercantile hub—a pilgrimage destination where the faithful journey to commune with the divine and peer, if only briefly, into the boundary between mortal and celestial realms. The lake itself is said to be the eye through which the gods observe the mortal world, and the priesthood maintains absolute control over access to its waters.
 
 ## Location and Geography
 
@@ -30,7 +31,7 @@ The city sprawls along the northern shore of the great lake, its primary pyramid
 
 ## Religious Significance
 
-Ixkul K’ul is one of the most important pilgrimage destinations in the southern [[doc-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itzáni]] gods are worshipped particularly intensely here—especially [[K.in.ul_Tq.an|K’in’ul Tq’an]], god of order and cosmic law.
+Ixkul K’ul is one of the most important pilgrimage destinations in the southern [[place-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itzáni]] gods are worshipped particularly intensely here—especially [[K.in.ul_Tq.an|K’in’ul Tq’an]], god of order and cosmic law.
 
 ## Community
 
@@ -38,5 +39,5 @@ The population outside the priesthood consists primarily of servant families who
 
 ## See Also
 
-- [[doc-kuxibalam|K’uxi Balam]] — The plateau realm
+- [[affiliation-kuxibalam|K’uxi Balam]] — The plateau realm
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that guards the sacred lake

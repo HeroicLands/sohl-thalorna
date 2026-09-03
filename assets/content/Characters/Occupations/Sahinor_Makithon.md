@@ -4,6 +4,7 @@ aliases:
   - Sahinor Makithon
 tags:
   - draft
+  - administration
 name:
   full: Sahînór Mâkîthôn
   title: ""
@@ -16,23 +17,27 @@ id: 0DfQnPOMbdYvpiYK
 folder: gpXd1anXulwRWZqn
 shortcode: sahnrmkthn
 img: icons/person.svg
-portrait: images/being/sahnrmkthn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sahnrmkthn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: male
+  species: null
   age: 50
   birthday: 670/11/9
-  height:
-    m: 1.78
-  weight:
-    kg: 76
-  build:
-    frame: medium
+  height: 1.78
+  weight: 76
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: white
@@ -40,16 +45,6 @@ traits:
     complexion: bronzed
     extra_features:
       - a scar on the left foot
-gear:
-  weapons:
-    - Ceremonial sword
-  armor:
-    - Padded doublet bearing his family's coat of arms
-  misc:
-    - Leather satchel for scrolls
-    - Scrolls of royal decrees
-    - writing kit
-    - family crest medallion
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 45 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

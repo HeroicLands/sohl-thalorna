@@ -9,9 +9,30 @@ name:
 description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates ambushes with psychological terror through jungles, forests, and ruins."
 id: 9nYhkvI252ewBJW3
 img: icons/game-icons/lorc/dinosaur-rex.svg
-portrait: images/being/thrnbckr-portrait.webp
 shortcode: thrnbckr
 type: being
+data:
+  portrait: images/being/thrnbckr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

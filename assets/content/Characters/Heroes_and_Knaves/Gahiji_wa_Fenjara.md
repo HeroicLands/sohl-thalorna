@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Gahiji wa Fénjara
   title: ""
@@ -18,34 +19,31 @@ id: DsVbnDM8LZGFtqA1
 folder: j9OL4rpRFGxbX57i
 shortcode: gahijwfnjr
 img: icons/person.svg
-portrait: images/being/gahijwfnjr-portrait.webp
 type: being
-thalorna:
-  realm: nylbtrblntn
-  region: sthrnsvnhs
-social:
+data:
+  portrait: images/being/gahijwfnjr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - sthrnsvnhs
+  affiliations:
+    - nylbtrblntn
   gender: male
+  species: null
   age: 28
   birthday: 692/2/2
-  height:
-    m: 1.88
-  weight:
-    kg: 90.7
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 90.7
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

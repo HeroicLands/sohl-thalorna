@@ -1,4 +1,5 @@
 ---
+description: "Order."
 aliases:
   - Faith of Jánus
   - Faith of Janus
@@ -9,13 +10,97 @@ tags:
   - janus
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Keeper of the Gates
+  symbol: A dual-faced mask, one side serene and the other stern
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - janusdty
+  parents:
+    - arldnpnthn
+  relations:
     arldnpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Janus
@@ -23,11 +108,6 @@ name:
     - The Keeper of the Gates
 shortcode: janus
 img: images/affiliation/janus.webp
-deity: Jánus
-epithet: The Keeper of the Gates
-domain: Order
-symbol: A dual-faced mask, one side serene and the other stern
-pantheon: arldnpnthn
 folder: uMjCDTomEtc5Z0KV
 ---
 
@@ -47,7 +127,7 @@ Individual piety to Jánus takes the form of adherence to a personal code of hon
 
 ## Organization
 
-The priesthood of Jánus is the most powerful and politically influential of any Aureldian faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Pontifex Iuris**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Pontifex Iuris serves as final arbiter of Jánite doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Pontifex Iuris, based in [[doc-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
+The priesthood of Jánus is the most powerful and politically influential of any Aureldian faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Pontifex Iuris**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Pontifex Iuris serves as final arbiter of Jánite doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Pontifex Iuris, based in [[place-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
 
 Below the Pontifex stands the **Collegium Sacerdotalis**, a body of perhaps fifteen to twenty senior **Praetores Templi**—Temple Judges—who oversee the major temples and serve as the priesthood's administrative body. These individuals are chosen for both theological knowledge and judicial wisdom, and they often serve as royal judges, interpreters of law, and settlement arbiters in disputes between nobles. A Praetor Templi in a major city commands respect approaching that of a local lord, and their judgments carry weight in both religious and secular domains.
 
@@ -55,7 +135,7 @@ The **Flamines Iuris**, ordained priests scattered throughout cities and settlem
 
 The **Acolytes of the Threshold** are young initiates undergoing training in Jánite theology, law, and ritual. Their education is rigorous and lengthy, typically lasting a decade or more, and only a fraction advance to full priestly status. Many who complete part of their training but do not pursue ordination become scribes, notaries, and legal experts whose training in Jánite principles allows them to draft binding contracts and records.
 
-A distinctive feature of Jánite organization is the **Ordo Equestris Iuris**, knightly orders dedicated to the enforcement of Jánus's will in the mortal world. These are not mere religious fraternities but semi-military organizations, some with significant military power and extensive territorial holdings. Knights of these orders pledge themselves to defend the righteous, punish oath-breakers, and serve as the god's instruments of justice. The Order of the Eternal Gate, based in [[doc-provenzrgn|Provènzia Region]], maintains a standing force of perhaps three thousand knights and serves as a counterweight to the temporal power of secular nobles. Conflicts have occasionally erupted between local lords and these knightly orders when judicial decisions favored the order over the lord's interests.
+A distinctive feature of Jánite organization is the **Ordo Equestris Iuris**, knightly orders dedicated to the enforcement of Jánus's will in the mortal world. These are not mere religious fraternities but semi-military organizations, some with significant military power and extensive territorial holdings. Knights of these orders pledge themselves to defend the righteous, punish oath-breakers, and serve as the god's instruments of justice. The Order of the Eternal Gate, based in [[place-provenzrgn|Provènzia Region]], maintains a standing force of perhaps three thousand knights and serves as a counterweight to the temporal power of secular nobles. Conflicts have occasionally erupted between local lords and these knightly orders when judicial decisions favored the order over the lord's interests.
 
 The priesthood maintains vast temple complexes that serve simultaneously as religious centers, courts of law, archives of recorded oaths and contracts, and in some cases fortified strongholds. The financial power of the priesthood derives from royal support, from fees charged for witnessing oaths and contracts (a percentage of all major commercial transactions in some regions), and from endowments left by pious nobles. This creates a degree of independence from secular authority that some kings view with suspicion and others with pragmatic acceptance.
 
@@ -63,7 +143,7 @@ The priesthood maintains vast temple complexes that serve simultaneously as reli
 
 The Faith of Jánus exists in a state of perpetual, irreconcilable war with [[affiliation-blackflame|The Black Flame]]. Where Jánus demands order, honor, and the protection of the weak, the Black Flame preaches domination, the supremacy of the strong, and the burning away of all that cannot resist. This is not a theological disagreement — it is a cosmic struggle, fought in every kingdom, every court, and every battlefield where their followers meet. Jánite knights and Black Flame warlords regard each other as existential threats, and neither faith will rest while the other endures.
 
-Jánus and [[affiliation-sacredforge|The Sacred Forge]] are natural allies. Both value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Jánite knights; Jánite courts protect Sacred Forge temples. The alliance is deep and longstanding, though the Sacred Forge's own war with the Black Flame is a matter of doctrinal schism rather than the fundamental opposition of values that defines the Jánite struggle. In some regions, particularly [[doc-provenzrgn|Provènzia Region]], the two priesthoods work in such close coordination that their temples are physically connected by covered passages, and joint rituals honoring both deities are common.
+Jánus and [[affiliation-sacredforge|The Sacred Forge]] are natural allies. Both value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Jánite knights; Jánite courts protect Sacred Forge temples. The alliance is deep and longstanding, though the Sacred Forge's own war with the Black Flame is a matter of doctrinal schism rather than the fundamental opposition of values that defines the Jánite struggle. In some regions, particularly [[place-provenzrgn|Provènzia Region]], the two priesthoods work in such close coordination that their temples are physically connected by covered passages, and joint rituals honoring both deities are common.
 
 Jánus maintains a relationship of intellectual partnership with [[affiliation-menerva|Faith of Ménérva]], goddess of knowledge and wisdom. The two deities are understood as complementary expressions of civilization: Ménérva illuminates the mind and provides understanding of natural and philosophical truths, while Jánus establishes the legal and moral frameworks within which such knowledge can be preserved and transmitted. Jánite temples often incorporate libraries and schools, recognizing that education and law are both essential to maintaining civilized order.
 

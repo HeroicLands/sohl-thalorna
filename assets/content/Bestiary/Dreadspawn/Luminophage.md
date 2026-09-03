@@ -9,9 +9,30 @@ name:
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
 id: Ul7aa7gAof3P8b46
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/lmnphg-portrait.webp
 shortcode: lmnphg
 type: being
+data:
+  portrait: images/being/lmnphg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

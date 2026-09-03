@@ -2,23 +2,21 @@
 aliases:
   - Ravensholm
 id: xdfasuC4zLc5gWSd
+tags:
+  - settlement
+description: "Religious/Strategic Settlement"
 type: place
 subType: settlement
-settlementType: "Religious/Strategic Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Ravensholm
   aliases: []
 shortcode: ravensholm
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 
@@ -34,5 +32,5 @@ Beyond its religious significance, Ravensholm serves a strategic role in Nordhei
 
 ## See Also
 
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north, especially Odin

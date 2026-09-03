@@ -2,23 +2,22 @@
 aliases:
   - Thornbury
 id: E6Vn40TZpRRBN2on
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
-settlementType: "Fortified Town"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aelwyth
+  population: null
 name:
   full: Thornbury
   aliases: []
 shortcode: thornbury
-parent:
-  polities:
-    - repblctrvn
 folder: ZbE1NQo3ApZ26xon
 ---
 

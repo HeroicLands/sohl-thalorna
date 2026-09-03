@@ -4,6 +4,7 @@ aliases:
   - Tirye Djet'amê
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Tirye Djet'amê
   title: ""
@@ -16,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
 img: icons/person.svg
-portrait: images/being/tiryedjetm-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/tiryedjetm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 29
   birthday: 691/9/10
-  height:
-    m: 1.63
-  weight:
-    kg: 55.3
-  build:
-    frame: light
+  height: 1.63
+  weight: 55.3
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
 sohl:
@@ -555,7 +553,7 @@ sohl:
     - { shortcode: bglgcvs, type: containergear }
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -565,7 +563,7 @@ Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and br
 
 ### The Daughter of Performance
 
-Born in 691 in one of [[doc-empirtkhpr|Ta'Kheperu]]'s greatest theatrical centers, Tirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Kemetían theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Kemetían Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s greatest theatrical centers, Tirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Kemetían theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Kemetían Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
 ### The Rising Star
 

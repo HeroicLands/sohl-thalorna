@@ -3,23 +3,22 @@ aliases:
   - Nartûm
   - Nartum
 id: lC4TS0SvySTGzr5S
+tags:
+  - city
+  - holy
+description: "Holy City"
 type: place
 subType: settlement
-settlementType: "Holy City"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: null
 name:
   full: Nartûm
   aliases: []
 shortcode: nartum
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - hlykngdmnrtm
 folder: WSdLuPc7BaRqxNEt
 ---
 

@@ -23,11 +23,11 @@ folder: t3p5qf6rZc8w0Nc4
 
 - **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born
 - **Self-Name:** Khazári (singular: _Khazár_; adjective: _Khazárian_)
-- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly five millennia ago (~4280 BF), about a thousand years after the [[doc-flksinale|Sinalë]] — in a period when most human populations were still hunter-gatherers
+- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly five millennia ago (~4280 BF), about a thousand years after the [[lore-flksinale|Sinalë]] — in a period when most human populations were still hunter-gatherers
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
 - **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, deep cavern systems, and subterranean halls far from human settlement
 
-The **Khazári** are the second of the elder races — younger than the [[doc-flksinale|Sinalë]], but ancient beyond any human reckoning. If the Sinalë are creatures of forest and starlight, the Khazári are creatures of stone and fire, of the deep places of the earth where rock bears the weight of mountains and the heat of the world's core rises through cracks in the bedrock. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
+The **Khazári** are the second of the elder races — younger than the [[lore-flksinale|Sinalë]], but ancient beyond any human reckoning. If the Sinalë are creatures of forest and starlight, the Khazári are creatures of stone and fire, of the deep places of the earth where rock bears the weight of mountains and the heat of the world's core rises through cracks in the bedrock. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
 
 Like the Sinalë, the Khazári are a rumor to most humans. Miners and mountain folk tell stories of strange lights in deep caves, of tunnels that seem too regular to be natural, of hammer-sounds echoing from places where no one should be working. Merchants in mountain passes occasionally report encountering short, broad, heavily bearded figures who watched them from a distance and vanished before they could approach. These stories are dismissed as superstition by educated city-dwellers, which suits the Khazári perfectly.
 
@@ -57,7 +57,7 @@ The Khazári live in mountain holds — underground complexes carved into living
 
 Like the Sinalëan enclaves, the holds are hidden — not by magical misdirection but by physical inaccessibility and deliberate concealment. The entrances are in places humans do not go: behind waterfalls in trackless mountain gorges, at the bottom of crevasses, in cave systems so deep and complex that no human explorer has reached their end. The Khazári maintain watch over the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough.
 
-Human scholars believe there are holds in the mountains of every major continent — the ranges above [[doc-vrystwald|Vrystwald Region]], the peaks of [[doc-tarvenirgn|Tarvénia]], the great mountains of [[doc-tanvurempr|Tānvür]]'s western border, and ranges in [[doc-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
+Human scholars believe there are holds in the mountains of every major continent — the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
 
 ## Relations with Humanity
 
@@ -75,7 +75,7 @@ The Khazári do not appear to care that humans possess these remnants. They are 
 
 ## See Also
 
-- [[doc-flksinale|Sinalë]] — The first elder race; the Firstborn
-- [[doc-tanvurempr|Empire of Tānvür]] — Mountains believed to contain holds; see [[doc-elderraces|Elder Races]]
-- [[doc-vrystwald|Vrystwald Region]] — Mountains above the forest likely contain holds
-- [[doc-tarvenirgn|Tarvénia]] — Mountain ranges believed to contain holds
+- [[lore-flksinale|Sinalë]] — The first elder race; the Firstborn
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
+- [[place-vrystwald|Vrystwald Region]] — Mountains above the forest likely contain holds
+- [[place-tarvenirgn|Tarvénia]] — Mountain ranges believed to contain holds

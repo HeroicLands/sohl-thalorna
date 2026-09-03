@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - unguilded
+  - underworld
 name:
   full: Sigurd the Deceiver
   title: null
@@ -16,23 +18,27 @@ id: iB0pAohYTsOGW5Kv
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sigurdecvr
 img: icons/person.svg
-portrait: images/being/sigurdecvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sigurdecvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thief and Con Artist
-  station: underworld
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 33
   birthday: 687/1/16
-  height:
-    m: 1.75
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.75
+  weight: 67
+  frame: light
   appearance:
     eye_color: blue
     hair_color: red
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

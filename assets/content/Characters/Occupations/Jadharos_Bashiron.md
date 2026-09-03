@@ -4,6 +4,7 @@ aliases:
   - Jadharos Bashiron
 tags:
   - draft
+  - common-folk
 name:
   full: Jâdhâros Bâshirôn
   title: ""
@@ -16,39 +17,33 @@ id: cBwSeId75e7EcsAl
 folder: gpXd1anXulwRWZqn
 shortcode: jdhrsbshrn
 img: icons/person.svg
-portrait: images/being/jdhrsbshrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jdhrsbshrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - kostaros2
   gender: male
+  species: null
   age: 30
   birthday: 694/2/15
-  height:
-    m: 1.88
-  weight:
-    kg: 83
-  build:
-    frame: medium
+  height: 1.88
+  weight: 83
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: dark_brown
     skin_color: olive
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Cutlass (for self-defense)
-  armor:
-    - Simple sailor’s attire
-  misc:
-    - Small satchel for personal items
-    - Ropes
-    - navigation tools
-    - fishing gear
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 55 } }
-thalorna:
-  realm: kostaros2
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

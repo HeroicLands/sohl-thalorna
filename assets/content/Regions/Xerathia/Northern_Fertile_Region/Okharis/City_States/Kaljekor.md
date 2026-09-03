@@ -2,21 +2,23 @@
 aliases:
   - Kaljékor
 id: pHo7smFVBkLA9NEb
-tags: []
+tags:
+  - port
+  - trading
+description: "Trading Port"
 type: place
 subType: settlement
-settlementType: "Trading Port"
-population: null
-pantheons:
-  - nkaruthar
+data:
+  demonym: null
+  lore: []
+  parents:
+    - okharisrgn
+  population: null
 name:
   full: Kaljékor
   aliases:
     - The Golden Flame
 shortcode: kaljekor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

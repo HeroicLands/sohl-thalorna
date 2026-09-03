@@ -5,6 +5,7 @@ aliases:
   - Idrise Korisvar
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Ídrisè Kórisvar
   title: ""
@@ -16,34 +17,31 @@ id: Ell1HtmhWLO71Iv6
 folder: J9R0fnGUTBY5z4pd
 shortcode: idriskrsvr
 img: icons/person.svg
-portrait: images/being/idriskrsvr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/idriskrsvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 29
   birthday: 691/1/15
-  height:
-    m: 1.91
-  weight:
-    kg: 86.2
-  build:
-    frame: medium
+  height: 1.91
+  weight: 86.2
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

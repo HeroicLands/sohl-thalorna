@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Eldrid Firehair
   title: ""
@@ -17,31 +19,26 @@ id: Yn25raq7PEoX9VDX
 folder: Ka9XqaF27b0I3Gmq
 shortcode: eldridfrhr
 img: icons/person.svg
-portrait: images/being/eldridfrhr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/eldridfrhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: guilded
-  society: tributary
-harnworld:
-  realm:
-    - Meglana
-  ritual:
-    - Sarajin
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
   gender: male
+  species: null
   age: 28
   birthday: 692/4/3
-  height:
-    m: 1.85
-  weight:
-    kg: 79.4
-  build:
-    frame: light
+  height: 1.85
+  weight: 79.4
+  frame: light
   appearance:
     eye_color: blue
     hair_color: red

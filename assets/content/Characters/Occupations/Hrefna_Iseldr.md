@@ -4,6 +4,7 @@ aliases:
   - Hrefna Iseldr
 tags:
   - draft
+  - common-folk
 name:
   full: Hrefna Íseldr
   title: ""
@@ -16,39 +17,33 @@ id: oPj6r0jedkYtMV0K
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrefnasldr
 img: icons/person.svg
-portrait: images/being/hrefnasldr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrefnasldr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 34
   birthday: 686/4/24
-  height:
-    m: 1.78
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.78
+  weight: 73
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: pale
     complexion: pale
     extra_features: []
-gear:
-  weapons:
-    - Hatchet
-  armor:
-    - Thick woolen coat
-  misc:
-    - Leather satchel for tools
-    - Saw
-    - rope
-    - wooden mallet
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

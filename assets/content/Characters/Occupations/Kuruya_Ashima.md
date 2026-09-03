@@ -4,6 +4,7 @@ aliases:
   - Kuruya Ashima
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kûrûya Ashîmâ
   title: ""
@@ -16,23 +17,27 @@ id: 9dq83Eh0ezFeKORd
 folder: PuQFDMkRM9i60i5Z
 shortcode: kuruyashim
 img: icons/person.svg
-portrait: images/being/kuruyashim-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kuruyashim-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 33
   birthday: 687/4/16
-  height:
-    m: 1.73
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.73
+  weight: 71
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: bronzed
     extra_features:
       - a scar on the left ankle
-gear:
-  weapons:
-    - Small hammer
-  armor:
-    - Leather gloves
-  misc:
-    - Wooden crate for tools
-    - Engraving tools
-    - metal files
-    - decorative gemstones
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

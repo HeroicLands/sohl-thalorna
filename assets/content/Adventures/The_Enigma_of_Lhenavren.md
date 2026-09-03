@@ -9,18 +9,27 @@ name:
 shortcode: engmlhnvrn
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
 # The Enigma of Lhénavren
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[doc-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
+Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
 
 ## Overview
 
-Deep in the borderlands between [[doc-provenzrgn|Provènzia Region]] and [[doc-elavendre|Élavendre]], the crumbling ruins of [[Lhénavren]] stand—a sacred site shared between the [[doc-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[doc-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
+Deep in the borderlands between [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of [[Lhénavren]] stand—a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
 
 ## Stage One: The Commission & Preparation
 
@@ -118,10 +127,10 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
-- [[doc-aelndntrbs|Áelendan Tribes]]
-- [[doc-flksinale|Sinalë]]
-- [[doc-elavendre|Élavendre]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[affiliation-aelndntrbs|Áelendan Tribes]]
+- [[lore-flksinale|Sinalë]]
+- [[place-elavendre|Élavendre]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
 - [[affiliation-arldnpnthn|Aurèldían]]

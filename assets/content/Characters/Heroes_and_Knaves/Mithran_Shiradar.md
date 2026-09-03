@@ -3,6 +3,7 @@ aliases:
   - Mithran Shiradar
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Mithran Shiradar
   title: ""
@@ -14,29 +15,26 @@ id: skGF7W5mzTVDMTFm
 folder: kCKYObmsvraIezCd
 shortcode: mthrnshrdr
 img: icons/person.svg
-portrait: images/being/mthrnshrdr-portrait.webp
 type: being
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-social:
+data:
+  portrait: images/being/mthrnshrdr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: male
+  species: null
   age: 56
   birthday: 664/12/18
-  height:
-    m: 1.88
-  weight:
-    kg: 85.7
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85.7
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: gray

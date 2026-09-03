@@ -3,22 +3,22 @@ aliases:
   - Telvári
   - Telvari
 id: WBqnuiArBf5PZWiO
+tags:
+  - town
+  - island
+description: "Island Town"
 type: place
 subType: settlement
-settlementType: "Island Town"
-population: null
-languages:
-  - valtarlng
-  - kalihrlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - kaliharargn
+  population: null
 name:
   full: Telvári
   aliases: []
 shortcode: telvari
-parent:
-  polities:
-    - kalihara
 folder: ySaln4Q82C7W1p0I
 ---
 

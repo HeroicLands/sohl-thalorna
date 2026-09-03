@@ -4,6 +4,8 @@ aliases:
   - Parshar Kurrim
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Pârshar Kûrrîm
   title: ""
@@ -16,23 +18,27 @@ id: sWVYCoIpt9ZYE51m
 folder: PuQFDMkRM9i60i5Z
 shortcode: parsharkrm
 img: icons/person.svg
-portrait: images/being/parsharkrm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/parsharkrm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 55
   birthday: 669/9/19
-  height:
-    m: 1.73
-  weight:
-    kg: 67
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 67
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: gray
@@ -40,15 +46,6 @@ traits:
     complexion: rough
     extra_features:
       - a scar running across the stomach
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Leather bag for tools
-    - Lockmaking tools
-    - reference books on locksmithing
-    - client contracts
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

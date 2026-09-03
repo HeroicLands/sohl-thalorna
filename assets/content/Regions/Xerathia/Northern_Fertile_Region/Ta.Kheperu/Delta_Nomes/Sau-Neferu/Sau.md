@@ -2,24 +2,24 @@
 aliases:
   - Sau
 id: 0WGb17kK6gRRoQyH
+tags:
+  - town
+  - market
+  - temple
+description: "Market & Temple Town"
 type: place
 subType: settlement
-settlementType: "Market & Temple Town"
-population: 45000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - takheperurgn
+  population: 45000
 name:
   full: Sau
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: sau
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomesaunfr
 folder: 9wsmaBsHPmmto2k3
 ---
 
@@ -27,7 +27,7 @@ folder: 9wsmaBsHPmmto2k3
 
 ## Overview
 
-Sau is the capital of the delta's [[doc-nomesaunfr|garden-coast nome]], an old and prosperous town set back a little from the [[doc-vylarianse|Vylarian Sea]] among the citrus orchards and vineyards. It is the place where the wealth of the orchard-coast is gathered and turned to account: its great produce-markets buy the harvest of wine, oil, citrus, figs, and dates and ship it down to [[doc-perankhet|Per-Ankhet]] and the export trade; its presses and warehouses concentrate the high-value crops; and its administration seats the [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] who governs the gentry of villas around it. At its heart stands the great temple of [[affiliation-kemtnpnthn|Íšét]], goddess of the fertile land, whose birth-shrines and healing-halls draw worshippers from across the delta. Sau is comfortable, devout, and prosperous in the unhurried way of a town that grows good things and is in no rush about anything.
+Sau is the capital of the delta's [[affiliation-nomesaunfr|garden-coast nome]], an old and prosperous town set back a little from the [[place-vylarianse|Vylarian Sea]] among the citrus orchards and vineyards. It is the place where the wealth of the orchard-coast is gathered and turned to account: its great produce-markets buy the harvest of wine, oil, citrus, figs, and dates and ship it down to [[place-perankhet|Per-Ankhet]] and the export trade; its presses and warehouses concentrate the high-value crops; and its administration seats the [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who governs the gentry of villas around it. At its heart stands the great temple of [[affiliation-kemtnpnthn|Íšét]], goddess of the fertile land, whose birth-shrines and healing-halls draw worshippers from across the delta. Sau is comfortable, devout, and prosperous in the unhurried way of a town that grows good things and is in no rush about anything.
 
 ## Notable Features
 
@@ -38,6 +38,6 @@ Sau is the capital of the delta's [[doc-nomesaunfr|garden-coast nome]], an old a
 
 ## See Also
 
-- [[doc-nomesaunfr|The Nome of Sau-Neferu]] — Parent nome
-- [[doc-deltanomes|The Delta Nomes]] — Nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[affiliation-nomesaunfr|The Nome of Sau-Neferu]] — Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]] — Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview

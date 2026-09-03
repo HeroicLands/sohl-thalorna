@@ -4,6 +4,7 @@ aliases:
   - Salimon Hadrikes
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sâlimón Hâdrîkês
   title: ""
@@ -16,23 +17,27 @@ id: XtShO68sxNoo9iEj
 folder: gpXd1anXulwRWZqn
 shortcode: salmnhdrks
 img: icons/person.svg
-portrait: images/being/salmnhdrks-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/salmnhdrks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: noble
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
+  homes:
+    - helionis
+  affiliations:
+    - theradon
   gender: male
+  species: null
   age: 45
   birthday: 679/3/20
-  height:
-    m: 1.7
-  weight:
-    kg: 61
-  build:
-    frame: medium
+  height: 1.7
+  weight: 61
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,15 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar above the left eyebrow
-gear:
-  weapons: []
-  armor:
-    - Fine robes suitable for lectures and academic gatherings
-  misc:
-    - Leather satchel for scrolls and books
-    - Quills
-    - ink
-    - various scrolls and manuscripts
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: common, type: skill, system: { masteryLevelBase: 34 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 68 } }
-thalorna:
-  realm: theradon
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -3,21 +3,22 @@ aliases:
   - Valdûn
   - Valdun
 id: x8lAC1ETUs0sqHpi
+tags:
+  - town
+  - inland
+description: "Inland Town"
 type: place
 subType: settlement
-settlementType: "Inland Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - elavendre
+  population: null
 name:
   full: Valdûn
   aliases: []
 shortcode: valdun
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 
@@ -33,7 +34,7 @@ The town is governed by a council of elders that includes the local priest of th
 
 ## See Also
 
-- [[doc-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
+- [[affiliation-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
 - [[skill-elvndrlng|Élavendri]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
-- [[doc-flksinale|Sinalë]] — The Elder Elves
+- [[lore-flksinale|Sinalë]] — The Elder Elves

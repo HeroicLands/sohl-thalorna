@@ -4,6 +4,7 @@ aliases:
   - Hrodar Skaldrith
 tags:
   - draft
+  - soldiery
 name:
   full: Hródar Skáldrith
   title: ""
@@ -16,23 +17,27 @@ id: fBM0lIsugfuQstCM
 folder: Nu7AgLZEmR26u2pk
 shortcode: hrdrskldrth
 img: icons/person.svg
-portrait: images/being/hrdrskldrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrdrskldrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 45
   birthday: 678/4/2
-  height:
-    m: 1.93
-  weight:
-    kg: 89
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 89
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: red
@@ -40,16 +45,6 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a serpent on the back
-gear:
-  weapons:
-    - Battle axe and shield
-  armor:
-    - Heavy plate armor
-  misc:
-    - Large pack for supplies
-    - Survival gear
-    - healing potions
-    - personal effects
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

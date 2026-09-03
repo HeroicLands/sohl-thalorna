@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Eldgrimr Flameheart
   title: null
@@ -16,23 +17,27 @@ id: eN5rOZknYKp72v0P
 folder: Ka9XqaF27b0I3Gmq
 shortcode: eldgrmrflmhrt
 img: icons/person.svg
-portrait: images/being/eldgrmrflmhrt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/eldgrmrflmhrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Champion
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 35
   birthday: 685/7/15
-  height:
-    m: 1.8
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: amber
     hair_color: brown
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

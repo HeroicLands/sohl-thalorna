@@ -2,27 +2,28 @@
 aliases:
   - Tz’alam Witz
 id: 8WCUTA2ntRJRWHRO
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
-settlementType: "Fortress City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - sthrnkchchk
+  population: null
 name:
   full: Tz’alam Witz
   aliases: []
 shortcode: tzalamwitz
-parent:
-  polities:
-    - balamtzaku
 folder: 13VGFYcT7sKTGll7
 ---
 
 ## Overview
 
-Tz’alam Witz, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[doc-balamtzaku|Ba’alam Tza’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
+Tz’alam Witz, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-balamtzaku|Ba’alam Tza’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
 
 ## Location and Geography
 
@@ -30,7 +31,7 @@ Tz’alam Witz perches at the highest navigable pass, positioned to command both
 
 ## Military Role
 
-The city hosts the largest garrison of warriors in [[doc-balamtzaku|Ba’alam Tza’ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itzáni]] priesthood.
+The city hosts the largest garrison of warriors in [[affiliation-balamtzaku|Ba’alam Tza’ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itzáni]] priesthood.
 
 ## Society
 
@@ -38,6 +39,6 @@ Tz’alam Witz is austere and martial in character. The population consists prim
 
 ## See Also
 
-- [[doc-balamtzaku|Ba’alam Tza’ku]] — The highland region
-- [[doc-tzalamha|Tz’alam Ha’]] — The coastal port city
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]] — The highland region
+- [[place-tzalamha|Tz’alam Ha’]] — The coastal port city
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that commands this fortress

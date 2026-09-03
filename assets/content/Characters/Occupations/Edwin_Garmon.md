@@ -3,6 +3,7 @@ aliases:
   - Edwin Garmon
 tags:
   - draft
+  - soldiery
 name:
   full: Edwin Garmon
   title: ""
@@ -15,23 +16,27 @@ id: f1ffBgVVxZiJdL9J
 folder: elH5NDPUuiRCICrE
 shortcode: edwingarmn
 img: icons/person.svg
-portrait: images/being/edwingarmn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edwingarmn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 28
   birthday: 696/1/12
-  height:
-    m: 1.88
-  weight:
-    kg: 79
-  build:
-    frame: medium
+  height: 1.88
+  weight: 79
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -39,16 +44,6 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the right calf
-gear:
-  weapons:
-    - Longsword
-  armor:
-    - Leather armor
-  misc:
-    - Small pack for provisions
-    - Shield
-    - throwing axes
-    - wpnsup
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

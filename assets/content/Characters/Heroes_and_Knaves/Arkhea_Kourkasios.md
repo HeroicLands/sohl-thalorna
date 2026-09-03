@@ -5,6 +5,7 @@ aliases:
   - Arkhea Kourkasios
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Arkhêa Kourkásios
   title: ""
@@ -16,29 +17,26 @@ id: on35i2IjiOvRMa0c
 folder: b81DHx3S7C9ep13E
 shortcode: arkhekrkss
 img: icons/person.svg
-portrait: images/being/arkhekrkss-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/arkhekrkss-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 62
   birthday: 658/6/10
-  height:
-    m: 1.65
-  weight:
-    kg: 51.7
-  build:
-    frame: scant
+  height: 1.65
+  weight: 51.7
+  frame: scant
   appearance:
     eye_color: brown
     hair_color: gray

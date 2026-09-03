@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Demétrion Komnênos
   title: ""
@@ -16,23 +17,27 @@ id: 467s1XDeUnPPy0If
 folder: b81DHx3S7C9ep13E
 shortcode: dmtrnkmnns
 img: icons/person.svg
-portrait: images/being/dmtrnkmnns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dmtrnkmnns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Byzarian
-traits:
+  stations: []
+  lore:
+    - byzarianclt
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 39
   birthday: 681/2/15
-  height:
-    m: 1.77
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.77
+  weight: 73
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: dark_blonde
@@ -40,17 +45,6 @@ traits:
     complexion: fair
     extra_features:
       - deep-set eyes
-gear:
-  weapons:
-    - BrdSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
 sohl:
   archetype: null
   body:
@@ -507,12 +501,6 @@ sohl:
     - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 19 } }
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

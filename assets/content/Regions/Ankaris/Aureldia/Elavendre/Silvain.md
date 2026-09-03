@@ -2,21 +2,22 @@
 aliases:
   - Silvain
 id: ELnmJWDc7tzAXnaz
+tags:
+  - settlement
+  - woodland
+description: "Woodland Settlement"
 type: place
 subType: settlement
-settlementType: "Woodland Settlement"
-population: null
-pantheons:
-  - arldnpnthn
-languages:
-  - elvndrlng
+data:
+  demonym: null
+  lore: []
+  parents:
+    - elavendre
+  population: null
 name:
   full: Silvain
   aliases: []
 shortcode: silvain
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

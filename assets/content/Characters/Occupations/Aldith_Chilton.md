@@ -4,6 +4,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Aldith Chilton
   title: ""
@@ -16,38 +17,33 @@ id: cK8ShmbCuAjASnAG
 folder: elH5NDPUuiRCICrE
 shortcode: aldthchltn
 img: icons/person.svg
-portrait: images/being/aldthchltn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aldthchltn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 30
   birthday: 694/6/10
-  height:
-    m: 1.7
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.7
+  weight: 63
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: auburn
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Elegant and revealing attire suitable for ceremonies
-  misc:
-    - Small pouch for offerings
-    - Scented oils
-    - decorative fan
-    - sacred texts
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

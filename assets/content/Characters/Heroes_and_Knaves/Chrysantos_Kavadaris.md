@@ -5,6 +5,8 @@ aliases:
   - Chrysantos Kavadaris
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Chrysántos Kavadáris
   title: ""
@@ -16,29 +18,26 @@ id: BtMTHqs8q6Gckwb6
 folder: b81DHx3S7C9ep13E
 shortcode: chrysntskvdrs
 img: icons/person.svg
-portrait: images/being/chrysntskvdrs-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/chrysntskvdrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 27
   birthday: 693/10/2
-  height:
-    m: 1.78
-  weight:
-    kg: 68.9
-  build:
-    frame: light
+  height: 1.78
+  weight: 68.9
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black

@@ -9,9 +9,30 @@ name:
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
 id: Ld3BjQ7uxeuVYQa7
 img: icons/game-icons/lorc/dragonfly.svg
-portrait: images/being/drgnflyh-portrait.webp
 shortcode: drgnflyh
 type: being
+data:
+  portrait: images/being/drgnflyh-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

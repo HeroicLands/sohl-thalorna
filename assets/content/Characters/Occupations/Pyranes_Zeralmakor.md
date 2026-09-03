@@ -4,6 +4,7 @@ aliases:
   - Pyranes Zeralmakor
 tags:
   - draft
+  - tradesfolk
 name:
   full: Pyrânês Zêralmâkor
   title: ""
@@ -16,23 +17,27 @@ id: GprQFnIiU74KKEpY
 folder: UFBfgKZUF0bAE7gG
 shortcode: pyrnszrlmkr
 img: icons/person.svg
-portrait: images/being/pyrnszrlmkr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/pyrnszrlmkr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: noble
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - landedlordrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 39
   birthday: 681/3/27
-  height:
-    m: 1.75
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.75
+  weight: 71
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the left thigh
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Padded vest
-  misc:
-    - Waterproof map case
-    - Surveying tools
-    - magnifying glass
-    - compass
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 45 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

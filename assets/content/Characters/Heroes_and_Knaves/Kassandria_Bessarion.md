@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - mages
 name:
   full: Kassándria Bessarîon
   title: ""
@@ -17,34 +19,31 @@ id: AMMNpo1BObedkvJe
 folder: b81DHx3S7C9ep13E
 shortcode: kasndrbsrn
 img: icons/person.svg
-portrait: images/being/kasndrbsrn-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
-  occupation: "Mage (Lore)"
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+data:
+  portrait: images/being/kasndrbsrn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Lore)
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 37
   birthday: 683/9/4
-  height:
-    m: 1.65
-  weight:
-    kg: 60.8
-  build:
-    frame: light
+  height: 1.65
+  weight: 60.8
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

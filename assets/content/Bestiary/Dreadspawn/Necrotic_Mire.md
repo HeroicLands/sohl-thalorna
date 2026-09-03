@@ -9,9 +9,30 @@ name:
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
 id: a2al6XRUzVftGyhp
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/ncrtcmr-portrait.webp
 shortcode: ncrtcmr
 type: being
+data:
+  portrait: images/being/ncrtcmr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

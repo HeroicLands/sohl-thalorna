@@ -4,6 +4,7 @@ aliases:
   - Mitharakis Gerazendis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Mitharâkîs Gêrazêndis
   title: ""
@@ -16,39 +17,33 @@ id: wwU90P0jpgjqmlMj
 folder: UFBfgKZUF0bAE7gG
 shortcode: mthrksgrznds
 img: icons/person.svg
-portrait: images/being/mthrksgrznds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mthrksgrznds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jester
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 50
   birthday: 670/10/18
-  height:
-    m: 1.83
-  weight:
-    kg: 75
-  build:
-    frame: medium
+  height: 1.83
+  weight: 75
+  frame: medium
   appearance:
     eye_color: green
     hair_color: gray
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Jester’s bells (on his costume)
-  armor:
-    - Colorful motley outfit
-  misc:
-    - Satchel for props
-    - Musical instruments
-    - juggling balls
-    - written routines
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 32 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

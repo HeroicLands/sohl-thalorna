@@ -2,25 +2,26 @@
 aliases:
   - Ashkabel
 id: Tjq1opR4z8iu24jP
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
-settlementType: "City-State"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - haradregin
+  population: null
 name:
   full: Ashkabel
   aliases: []
 shortcode: ashkabel2
-parent:
-  polities:
-    - ashkabel
 ---
 
 # Ashkabel
 
 ## Overview
 
-_To be written._ Ashkabel is the capital and principal settlement of [[doc-ashkabel|Ashkabel]].
+_To be written._ Ashkabel is the capital and principal settlement of [[affiliation-ashkabel|Ashkabel]].

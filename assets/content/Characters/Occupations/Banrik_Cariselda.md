@@ -4,6 +4,7 @@ aliases:
   - Banrik Cariselda
 tags:
   - draft
+  - soldiery
 name:
   full: Bánrik Cáriselda
   title: ""
@@ -16,23 +17,27 @@ id: 2MRYCciepXPxxy8K
 folder: 9t9O4iB5cYJtSaTG
 shortcode: banrkcrsld
 img: icons/person.svg
-portrait: images/being/banrkcrsld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/banrkcrsld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 33
   birthday: 691/2/19
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: medium
+  height: 1.85
+  weight: 79
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: graying_brown
@@ -40,16 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a flower on the ankle
-gear:
-  weapons:
-    - Dagger and short sword
-  armor:
-    - Light leather armor
-  misc:
-    - Small pack for personal items
-    - Cloak for stealth
-    - first aid kit
-    - survival gear
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

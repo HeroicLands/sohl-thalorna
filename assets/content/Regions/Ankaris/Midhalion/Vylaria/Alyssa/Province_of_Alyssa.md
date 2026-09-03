@@ -9,29 +9,111 @@ name:
   aliases: []
 shortcode: provinclys
 subType: polity
-demonym: Vylarian
-government:
-  type: province
-  summary: Heartland province of the Vylarian Empire, governed by an imperial appointee.
-languages:
-  - vylarilng
-capital: alyssar
-population: "~7,000,000"
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Vylarian
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: Heartland province of the Vylarian Empire, governed by an imperial appointee.
+    ranks:
+      - level: 0
+        title: Proscribed
+        lore: excmmnctrnk
+        description: >-
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
+          collects it.
+      - level: 1
+        title: Slave
+        lore: slavernk
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        lore: freedmanrnk
+        description: Manumitted, and in the imperial household often far more powerful than
+          the rank suggests.
+      - level: 3
+        title: Peregrine
+        lore: rsdntlnrnk
+        description: >-
+          A provincial living under imperial authority without the citizenship — the great majority
+          of the empire's people.
+      - level: 4
+        title: Citizen
+        lore: citizenrnk
+        description: >-
+          Holding the citizenship by birth, grant or service, with its protections at law and
+          its liability to its taxes.
+      - level: 5
+        title: Equestrian
+        lore: landedlordrnk
+        description: >-
+          Of the propertied order from which the prefectures, the procuratorships and the great
+          commands are filled.
+      - level: 6
+        title: Senator
+        lore: councillorrnk
+        description: >-
+          Of the senatorial families, holding a seat for life and the empire's highest civil
+          offices with it.
+      - level: 7
+        title: Consular
+        lore: highpriestrnk
+        description: Having held the consulship, and eligible thereafter for the greatest provincial
+          commands.
+      - level: 8
+        title: Governor
+        lore: magistraternk
+        description: >-
+          Holding the province for the emperor, commanding its garrison and its courts, and
+          answerable to him alone.
+    offices:
+      Governor: >-
+        Holder of the province in the emperor's name, commanding its garrison, its revenue
+        and its courts.
+      Legate: Commander of the legion stationed in the province, and the governor's deputy
+        in the field.
+      Procurator: >-
+        Officer of the imperial revenue within the province, reporting past the governor to
+        the emperor.
+      Quaestor: Officer of the provincial treasury and of its accounts.
+      Prefect of the Watch: Commander of the province's urban cohorts and keeper of its peace.
+      Curator of the Roads: Warden of the imperial roads, their posts, their bridges and the
+        levy that maintains them.
+      Duumvir: One of the two annually elected chief magistrates of a chartered town within
+        the province.
+      Decurion: Member of a town's council, liable in his own person for the taxes it owes.
+      Flamen: >-
+        Priest of the provincial cult, presiding over the rites that bind the province to
+        the capital.
+  commonSkills:
+    - vylarilng
+  seat: alyssar
+  domains:
     - vylariargn
-  polities:
+  population: 7000000
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  lore:
+    - humanflk
+  parents:
     - vylarinmpr
+  relations:
+    arldnpnthn: aligned
+    ordoarcanis: aligned
+sohl:
+  archetype: null
 folder: WSdLuPc7BaRqxNEt
 ---
 
 ## Overview
 
-Alyssa is the heartland of the [[doc-vylarinmpr|Vylarian Empire]] — the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second.
+Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] — the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second.
 
 ## Character
 
@@ -41,7 +123,7 @@ Alyssan society is intensely political. Every conversation carries subtext; ever
 
 ## Economy
 
-Alyssa's economy is driven by government, trade, and the crafts that serve the wealthy. The province produces little agricultural surplus of its own — it depends on [[doc-provnchyln|Hylen]] for grain and [[doc-provincvld|Vald]] for seafood and imports. What Alyssa produces is influence, law, and [[doc-vylarinmpr|Vylarian Steel]]. The capital's metalworking guilds are the finest in Ankaris, and access to Vylarian Steel production is one of the empire's most closely guarded advantages.
+Alyssa's economy is driven by government, trade, and the crafts that serve the wealthy. The province produces little agricultural surplus of its own — it depends on [[affiliation-provnchyln|Hylen]] for grain and [[affiliation-provincvld|Vald]] for seafood and imports. What Alyssa produces is influence, law, and [[affiliation-vylarinmpr|Vylarian Steel]]. The capital's metalworking guilds are the finest in Ankaris, and access to Vylarian Steel production is one of the empire's most closely guarded advantages.
 
 ## Notable Features
 
@@ -56,32 +138,32 @@ Alyssa is the most densely settled of the provinces — its countryside a near-c
 
 **The cities.**
 
-- **[[doc-magnapolis|Magnápolis]]** (~1,000,000) — the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[doc-urbsaquiln|Urbs Aquilion]] and the [[doc-pnthnrldnm|Pantheon Aurèldiānum]].)
-- **[[doc-alyssar|Alyssar]]** (~45,000) — the provincial capital, administrative seat of Alyssa proper.
-- **[[doc-lentora|Lentora]]** (~32,000) — the province's second city, market and governing hub of the inner farm-and-villa country.
-- **[[doc-belekos|Belekos]]** (~25,000) — a merchant city of the river valleys, grown rich on agricultural surplus and trade.
-- **[[doc-velysara|Velysâra]]** (~20,000) — a secondary provincial city of columned forums and faded imperial grandeur.
+- **[[place-magnapolis|Magnápolis]]** (~1,000,000) — the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].)
+- **[[place-alyssar|Alyssar]]** (~45,000) — the provincial capital, administrative seat of Alyssa proper.
+- **[[place-lentora|Lentora]]** (~32,000) — the province's second city, market and governing hub of the inner farm-and-villa country.
+- **[[place-belekos|Belekos]]** (~25,000) — a merchant city of the river valleys, grown rich on agricultural surplus and trade.
+- **[[place-velysara|Velysâra]]** (~20,000) — a secondary provincial city of columned forums and faded imperial grandeur.
 
 **Towns.**
 
-- **[[doc-tibur|Tibur]]** (~12,000) — a market town on a great road into the capital.
-- **[[doc-corvinus|Corvinus]]** (~9,000) — a garrison town anchoring the province's interior.
-- **[[doc-calvaris|Calvaris]]** (~9,000) — a temple-and-market town around an ancient hilltop precinct.
-- **[[doc-ostenna|Ostenna]]** (~7,000) — a river-port town transshipping grain by barge.
-- **[[doc-vennara|Vennara]]** (~6,000) — a villa-town in the hills, favored for senatorial country estates.
+- **[[place-tibur|Tibur]]** (~12,000) — a market town on a great road into the capital.
+- **[[place-corvinus|Corvinus]]** (~9,000) — a garrison town anchoring the province's interior.
+- **[[place-calvaris|Calvaris]]** (~9,000) — a temple-and-market town around an ancient hilltop precinct.
+- **[[place-ostenna|Ostenna]]** (~7,000) — a river-port town transshipping grain by barge.
+- **[[place-vennara|Vennara]]** (~6,000) — a villa-town in the hills, favored for senatorial country estates.
 
 **Villages and villa-estates.** Beyond the towns the heartland is a near-unbroken quilt of villages and country villas of 300–1,500 souls — among them Aventis, Caldera, Tibrenna, Sorrenza, Marvale, Corennis, Vellano, Pradio, Sennara, Olivetta, Tarsenna, Quirnis, Belluno, Castellis, Florenza, Nervia, Ostrella, and Aravenna — most within a half-day's road of a market town and a magistrate. These are only the named places; the great mass of Alyssa's people live in countless smaller hamlets and farms between them.
 
 ## For the Worldbuilder
 
-Alyssa is the empire at its most cultivated and most political — paved roads, aqueducts, market towns, and great estates, where almost nothing is more than a day's ride from a temple, a magistrate, and a tax-collector. Adventure here is rarely about wilderness; it is about the press of people and power: senatorial intrigue, Ordo surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything. What is scarce is food (imported from [[doc-provnchyln|Hylen]] and [[doc-provincvld|Vald]]) and privacy; what is abundant is law, rumor, money, and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
+Alyssa is the empire at its most cultivated and most political — paved roads, aqueducts, market towns, and great estates, where almost nothing is more than a day's ride from a temple, a magistrate, and a tax-collector. Adventure here is rarely about wilderness; it is about the press of people and power: senatorial intrigue, Ordo surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything. What is scarce is food (imported from [[affiliation-provnchyln|Hylen]] and [[affiliation-provincvld|Vald]]) and privacy; what is abundant is law, rumor, money, and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
 
 ## Commerce and Currency
 
-Province of Alyssa uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Province of Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Parent polity
-- [[doc-provnchyln|Province of Hylen]], [[doc-provncmktr|Province of Moktur]], [[doc-provincvld|Province of Vald]] — Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Parent polity
+- [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]] — Sister provinces
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Headquartered here

@@ -2,21 +2,22 @@
 aliases:
   - Waldburg
 id: SriprSl9dLBKfsgn
+tags:
+  - stronghold
+  - forest
+description: "Forest Stronghold"
 type: place
 subType: settlement
-settlementType: "Forest Stronghold"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vrystwald
+  population: null
 name:
   full: Waldburg
   aliases: []
 shortcode: waldburg
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

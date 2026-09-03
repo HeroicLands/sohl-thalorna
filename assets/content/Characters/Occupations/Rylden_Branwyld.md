@@ -4,6 +4,7 @@ aliases:
   - Rylden Branwyld
 tags:
   - draft
+  - administration
 name:
   full: Rýlden Brânwyld
   title: ""
@@ -16,23 +17,27 @@ id: ddLEG62Hkd9Gf2le
 folder: J9R0fnGUTBY5z4pd
 shortcode: ryldnbrnwyld
 img: icons/person.svg
-portrait: images/being/ryldnbrnwyld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ryldnbrnwyld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 56
   birthday: 664/12/18
-  height:
-    m: 1.88
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: gray
@@ -40,16 +45,6 @@ traits:
     complexion: wrinkled
     extra_features:
       - a scar on the left eye
-gear:
-  weapons:
-    - Battle axe
-  armor:
-    - Leather and fur armor
-  misc:
-    - Leather satchel for personal items
-    - Hunting knife
-    - tribal insignia
-    - war horn
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

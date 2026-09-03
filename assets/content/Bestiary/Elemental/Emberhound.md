@@ -9,9 +9,30 @@ name:
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
 id: WGeazrSoyg3VKwns
 img: icons/game-icons/lorc/hound.svg
-portrait: images/being/embrhnd-portrait.webp
 shortcode: embrhnd
 type: being
+data:
+  portrait: images/being/embrhnd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: elemental
   archetype: 0

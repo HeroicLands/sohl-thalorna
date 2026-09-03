@@ -9,9 +9,30 @@ name:
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
 id: 9zpdW3LB7gb3PZXi
 img: icons/game-icons/caro-asercion/badger.svg
-portrait: images/being/drwlvrn-portrait.webp
 shortcode: drwlvrn
 type: being
+data:
+  portrait: images/being/drwlvrn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

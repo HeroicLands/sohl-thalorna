@@ -10,9 +10,30 @@ name:
 description: "A massive, highly intelligent tusked megafauna often domesticated for labor and war, yet formidable and deadly in the wild."
 id: hKF5XSPgvAUIQtLc
 img: icons/game-icons/delapouite/elephant.svg
-portrait: images/being/tnvrnelp-portrait.webp
 shortcode: tnvrnelp
 type: being
+data:
+  portrait: images/being/tnvrnelp-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

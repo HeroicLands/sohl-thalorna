@@ -1,4 +1,5 @@
 ---
+description: "Dreams."
 aliases:
   - Faith of Bēs
   - Bēs, Guardian of Night Visions
@@ -8,29 +9,107 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: Guardian of Night Visions
+  symbol: Crescent moon with a single protective eye
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - besdty
+  parents:
+    - kemtnpnthn
+  relations:
     kemtnpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Bēs
   aliases: []
 shortcode: bes
 banner: banners/ta-kheperu-banner.webp
-deity: Bēs
-epithet: Guardian of Night Visions
-domain: Dreams
-symbol: Crescent moon with a single protective eye
-glyph: bes
-pantheon: kemtnpnthn
 folder: RGkIoZ4nXKx1qnID
 ---
 
-Bēs is the Kemetían name for [[doc-goddreams|The God of Dreams]], a deity far older than any single civilization. Known to the [[doc-flksinale|Sinalë]] since time immemorial and worshipped by countless peoples across the lands of Thalorna, this ancient god manifests uniquely in the Kemetían faith as a protective guardian of sleep and the visions it brings. While the Asguardian peoples call this deity Baldr and the Aurèldían peoples know them as Æthería, the Kheperi understand the god through Bēs—not as a distant celestial force, but as an intimate companion who walks through the night with each sleeping mortal.
+Bēs is the Kemetían name for [[lore-goddreams|The God of Dreams]], a deity far older than any single civilization. Known to the [[lore-flksinale|Sinalë]] since time immemorial and worshipped by countless peoples across the lands of Thalorna, this ancient god manifests uniquely in the Kemetían faith as a protective guardian of sleep and the visions it brings. While the Asguardian peoples call this deity Baldr and the Aurèldían peoples know them as Æthería, the Kheperi understand the god through Bēs—not as a distant celestial force, but as an intimate companion who walks through the night with each sleeping mortal.
 
 In Ta'Kheperu, where the brilliant southern sun burns long across the river valley and the great river's floods reshape the land in cycles both predictable and mysterious, sleep is more than mere rest. It is a sacred passage into the otherworld, a time when mortals commune with the divine and the deceased, when prophecy flows like water and truth reveals itself unburdened by the constraints of daylight. Bēs stands as guardian at the threshold between these worlds, shielding the vulnerable sleeper from the predations of hostile spirits and darker forces that stalk the night. The crescent moon that crowns Bēs's symbol represents not only the night itself but also the cyclical nature of rest—the eternal rhythm by which mortals renew themselves.
 

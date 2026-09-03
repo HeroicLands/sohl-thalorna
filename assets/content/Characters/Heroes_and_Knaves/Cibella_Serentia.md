@@ -3,6 +3,7 @@ aliases:
   - Cibella Serentia
 tags:
   - tamzir-crew
+  - dependents
 name:
   full: Cibella Serentia
   title: ""
@@ -14,31 +15,27 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: cibelasrnt
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/cibelasrnt-portrait.webp
 type: being
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-social:
-  occupation: "Ward"
-  station: dependents
-  class: privileged
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+data:
+  portrait: images/being/cibelasrnt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Ward
+  stations: []
+  lore:
+    - gentryrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - thetamzir
+    - vylarinmpr
   gender: female
+  species: null
   age: 17
   birthday: 702/11/27
-  height:
-    m: 1.73
-  weight:
-    kg: 62.6
-  build:
-    frame: light
+  height: 1.73
+  weight: 62.6
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown

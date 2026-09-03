@@ -9,8 +9,17 @@ name:
 shortcode: ghststrvln
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
@@ -20,7 +29,7 @@ folder: TokyoDCf1w4elPns
 
 ## Overview
 
-Lake Tîravel, in central [[doc-provenzrgn|Provènzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Trédavar III fought his final battle against invaders at the blood-field of Tîravlen. Though Trédavar fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
+Lake Tîravel, in central [[place-provenzrgn|Provènzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Trédavar III fought his final battle against invaders at the blood-field of Tîravlen. Though Trédavar fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
 
 ## Stage One: The Haunting
 
@@ -110,7 +119,7 @@ The party must make direct contact with the spirits:
 - A sacred oath that was broken or abandoned
 - A treasure, artifact, or body that was lost and not properly honored
 - A descendant or heir who should inherit Trédavar's legacy
-- A warning about a future threat to [[doc-provenzrgn|Provènzia Region]]
+- A warning about a future threat to [[place-provenzrgn|Provènzia Region]]
 - The identity of a ghost that holds particular power or authority
 
 **The Ghostly King:**
@@ -163,7 +172,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 - The party may be bound by oath to protect Trédavar's legacy
 - If a descendant was restored, they may become an ally or complication
 - The party's reputation grows as defenders and restorers of history
-- Ancient knowledge about [[doc-provenzrgn|Provènzia Region]]'s past is revealed, affecting regional politics or religion
+- Ancient knowledge about [[place-provenzrgn|Provènzia Region]]'s past is revealed, affecting regional politics or religion
 - The [[affiliation-arldnpnthn|Aurèldían]] Church may seek to reconsecrate the site or claim authority over it
 
 **If the party fails or refuses the quest:**
@@ -176,7 +185,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]

@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Thorgil Thunderstrike
   title: null
@@ -16,23 +17,27 @@ id: nfC0bpNA1h7ehe0w
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrglthndrstrk
 img: icons/person.svg
-portrait: images/being/thrglthndrstrk-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrglthndrstrk-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Champion
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 37
   birthday: 683/12/27
-  height:
-    m: 1.74
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.74
+  weight: 82
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

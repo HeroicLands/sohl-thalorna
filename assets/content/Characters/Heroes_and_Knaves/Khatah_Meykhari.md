@@ -4,6 +4,7 @@ aliases:
   - Khatah Meykhari
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Khatah Mey'khari
   title: ""
@@ -16,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
 img: icons/person.svg
-portrait: images/being/khathmykhr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/khathmykhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 27
   birthday: 693/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 72.6
-  build:
-    frame: light
+  height: 1.78
+  weight: 72.6
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a spider on the shoulder
 sohl:
@@ -556,7 +554,7 @@ sohl:
     - { shortcode: backpk, type: containergear }
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -566,7 +564,7 @@ Khatah stands 5'10" tall with a light build. She has dark brown skin, black hair
 
 ### Born to the Hunt
 
-**Khatah** was born in the borderlands of the Empire of [[doc-empirtkhpr|Ta'Kheperu]], in a region where civilization gradually gives way to vast wilderness. Her people—the Meykhari clan—were traditionally keepers of sacred hunting grounds and custodians of a careful balance between human use and ecological preservation of the lands. Her childhood was spent learning the arts of tracking, archery, and survival in environments where a single mistake could prove fatal. Her father, **Vahren Meykhari**, was the clan's most respected tracker; her mother, **Iseth**, was a healer and wise woman who taught **Khatah** to read the spiritual significance of plants and animals. By the age of eight, **Khatah** was hunting alongside the adults, and by thirteen, she had already established herself as the most naturally gifted archer in the clan.
+**Khatah** was born in the borderlands of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a region where civilization gradually gives way to vast wilderness. Her people—the Meykhari clan—were traditionally keepers of sacred hunting grounds and custodians of a careful balance between human use and ecological preservation of the lands. Her childhood was spent learning the arts of tracking, archery, and survival in environments where a single mistake could prove fatal. Her father, **Vahren Meykhari**, was the clan's most respected tracker; her mother, **Iseth**, was a healer and wise woman who taught **Khatah** to read the spiritual significance of plants and animals. By the age of eight, **Khatah** was hunting alongside the adults, and by thirteen, she had already established herself as the most naturally gifted archer in the clan.
 
 ### The Violation of the Lands
 

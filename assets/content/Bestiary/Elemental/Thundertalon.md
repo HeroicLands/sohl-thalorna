@@ -9,9 +9,30 @@ name:
 description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
 id: BER0R5sENldRKjgM
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/thndrtln-portrait.webp
 shortcode: thndrtln
 type: being
+data:
+  portrait: images/being/thndrtln-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: elemental
   archetype: 0

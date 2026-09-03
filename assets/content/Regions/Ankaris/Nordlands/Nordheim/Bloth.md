@@ -3,23 +3,21 @@ aliases:
   - Blóth
   - Bloth
 id: IxdQgYmu31vb7DlD
+tags:
+  - settlement
+description: "Ritual Site / Ancient Settlement"
 type: place
 subType: settlement
-settlementType: "Ritual Site / Ancient Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Blóth
   aliases: []
 shortcode: bloth
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 
@@ -35,5 +33,5 @@ The settlement attracts pilgrims of a particular kind—those seeking communion 
 
 ## See Also
 
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

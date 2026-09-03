@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - unguilded
+  - soldiery
 name:
   full: Dôren Sýndalr
   title: ""
@@ -14,32 +16,27 @@ id: 5l0LmrkfSYMUUxui
 folder: J9R0fnGUTBY5z4pd
 shortcode: dornsyndlr
 img: icons/person.svg
-portrait: images/being/dornsyndlr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/dornsyndlr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: unguilded
-  society: ""
-  organizations:
-    - silent-talon
-harnworld:
-  realm: ""
-  ritual:
-    - Flórania
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - slntlncmpny
+    - kngdmprvnz
   gender: male
+  species: null
   age: 28
   birthday: 692/6/8
-  height:
-    m: 1.93
-  weight:
-    kg: 98
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 98
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black

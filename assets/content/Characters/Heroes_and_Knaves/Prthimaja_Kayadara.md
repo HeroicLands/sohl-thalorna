@@ -5,6 +5,8 @@ aliases:
   - Prthimaja Kayadara
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Prthîmâja Kâyadara
   title: ""
@@ -16,34 +18,31 @@ id: IGbqFKlLlHrrWLBA
 folder: JotxZnnXcTECeYW3
 shortcode: prthmjkydr
 img: icons/person.svg
-portrait: images/being/prthmjkydr-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/prthmjkydr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jeweller
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: male
+  species: null
   age: 35
   birthday: 685/4/10
-  height:
-    m: 1.68
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.68
+  weight: 63
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

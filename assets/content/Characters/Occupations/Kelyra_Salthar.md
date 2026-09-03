@@ -4,6 +4,8 @@ aliases:
   - Kelyra Salthar
 tags:
   - draft
+  - guilded
+  - administration
 name:
   full: Kélyra Sálthar
   title: ""
@@ -16,39 +18,33 @@ id: K8ffUF0eWIXiiQE8
 folder: 4cwfdMa34UryZqPR
 shortcode: kelyrslthr
 img: icons/person.svg
-portrait: images/being/kelyrslthr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kelyrslthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 42
   birthday: 678/2/5
-  height:
-    m: 1.65
-  weight:
-    kg: 61
-  build:
-    frame: light
+  height: 1.65
+  weight: 61
+  frame: light
   appearance:
     eye_color: blue
     hair_color: auburn
     skin_color: pale
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Letter opener
-  armor:
-    - Thick cloak
-  misc:
-    - Leather document case
-    - Abacus
-    - ledger
-    - wax seal
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -3,7 +3,7 @@ aliases:
   - Ancestor Worship
 id: HsTCTeOJqNcesHck
 type: lore
-subType: folk
+subType: spirit
 name:
   full: Ancestor Worship
   aliases: []
@@ -13,7 +13,7 @@ folder: hBkQzhJeB05EwziN
 
 # Ancestor Worship in Tānvür
 
-In the [[doc-tanvurempr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
+In the [[affiliation-tanvurempr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
 
 The dead are not gone. They are _posted_. When a person dies, their soul is processed by the [[affiliation-tngvkvnlei|Ministry of Final Account]], and their lifetime **moral ledger** determines their assignment. Those with favorable balances are posted as **ancestor spirits** — spiritual officials whose assigned function is to advocate for their living descendants within the celestial bureaucracy. Those with unfavorable balances are sentenced to terms of spiritual labor in the lower realms, or dissolution.
 
@@ -59,17 +59,17 @@ This means that in Tānvür, **the dead govern the living**. Not metaphorically.
 
 ## The Lëigürt: Spirit Masters
 
-The **Lëigürt** (Spirit Masters) are shamanic practitioners who emerge from within [[doc-nokvur|Nōkvür]] communities, possessing the ability to commune directly with the spirit realm. They are the primary interface between living families and their ancestor spirits, serving as translators, mediators, and spiritual clerks.
+The **Lëigürt** (Spirit Masters) are shamanic practitioners who emerge from within [[lore-nokvur|Nōkvür]] communities, possessing the ability to commune directly with the spirit realm. They are the primary interface between living families and their ancestor spirits, serving as translators, mediators, and spiritual clerks.
 
-Lëigürt functions include receiving and interpreting ancestral commands, performing healing rituals for spiritually-caused ailments (often in collaboration with the Yātvōr healers of the [[doc-zathuk|Zāthük]] caste), conducting rites of passage that register births, marriages, and deaths with the celestial administration, and mediating disputes by consulting the relevant ancestor spirits for rulings.
+Lëigürt functions include receiving and interpreting ancestral commands, performing healing rituals for spiritually-caused ailments (often in collaboration with the Yātvōr healers of the [[lore-zathuk|Zāthük]] caste), conducting rites of passage that register births, marriages, and deaths with the celestial administration, and mediating disputes by consulting the relevant ancestor spirits for rulings.
 
-Though technically of the [[doc-nokvur|Nōkvür]] caste, Lëigürt command profound respect across all levels of society. Their ability to communicate with the dead — and by extension, with the celestial bureaucracy — gives them a unique form of authority that transcends caste. Warlords and even members of the [[doc-zheklung|Zhëklüng]] consult Lëigürt on spiritually complex matters, though always in private, since formally acknowledging a peasant's authority would be a caste violation.
+Though technically of the [[lore-nokvur|Nōkvür]] caste, Lëigürt command profound respect across all levels of society. Their ability to communicate with the dead — and by extension, with the celestial bureaucracy — gives them a unique form of authority that transcends caste. Warlords and even members of the [[lore-zheklung|Zhëklüng]] consult Lëigürt on spiritually complex matters, though always in private, since formally acknowledging a peasant's authority would be a caste violation.
 
 ---
 
 ## Elder Race Traditions
 
-The [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] within the empire do not practice ancestor worship in the Tānvüri form. The Sinalë honor their dead through rituals tied to nature — planting trees and tending sacred groves in private ceremonies that bear no resemblance to the bureaucratic transaction of the Celestial Order. The Khazári revere their ancestors through the crafting of memorials and the preservation of ancient tools and weapons, which are considered sacred. Both traditions remain entirely separate from human practice, and the Tānvüri bureaucratic framework has no mechanism for incorporating them — a theological loose end that the [[doc-tanthei|Tānthëi]] prefer not to examine too closely.
+The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within the empire do not practice ancestor worship in the Tānvüri form. The Sinalë honor their dead through rituals tied to nature — planting trees and tending sacred groves in private ceremonies that bear no resemblance to the bureaucratic transaction of the Celestial Order. The Khazári revere their ancestors through the crafting of memorials and the preservation of ancient tools and weapons, which are considered sacred. Both traditions remain entirely separate from human practice, and the Tānvüri bureaucratic framework has no mechanism for incorporating them — a theological loose end that the [[lore-tanthei|Tānthëi]] prefer not to examine too closely.
 
 ---
 
@@ -79,14 +79,14 @@ Several annual festivals center on the spiritual economy and the maintenance of 
 
 The most significant is the **Sīklëi Jëit** (Festival of the Dead) during **Zhürtyüt** (the Month of Snow) in mid-winter, when families conduct elaborate rituals to provision their ancestor spirits for the coming year. Massive quantities of spirit money and goods are burned, accounts are settled, and the Lëigürt commune with the dead to receive their instructions for the year ahead. It is simultaneously the most sacred and most expensive event in the Tānvüri calendar — a family that cannot afford proper Sīklëi Jëit observances faces a year of diminished spiritual advocacy.
 
-See [[doc-clndrstrlgy|Calendar and Astrology]] for the full festival calendar.
+See [[lore-clndrstrlgy|Calendar and Astrology]] for the full festival calendar.
 
 ---
 
 ## See Also
 
-- [[doc-nokvur|Nōkvür]] — The caste most closely tied to ancestor worship practices
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The cosmological framework of Lëi and the spirit world
-- [[doc-celestlrdr|Celestial Order]] — The broader religious and administrative framework
-- [[doc-elderraces|Elder Races]] — The distinct ancestral traditions of the Sinalë and Khazári
-- [[doc-clndrstrlgy|Calendar and Astrology]] — Festivals tied to the spiritual economy
+- [[lore-nokvur|Nōkvür]] — The caste most closely tied to ancestor worship practices
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The cosmological framework of Lëi and the spirit world
+- [[lore-celestlrdr|Celestial Order]] — The broader religious and administrative framework
+- [[lore-elderraces|Elder Races]] — The distinct ancestral traditions of the Sinalë and Khazári
+- [[lore-clndrstrlgy|Calendar and Astrology]] — Festivals tied to the spiritual economy

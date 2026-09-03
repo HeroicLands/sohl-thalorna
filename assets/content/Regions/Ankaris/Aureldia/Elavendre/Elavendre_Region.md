@@ -6,25 +6,22 @@ id: Yc8uOHP5C5WDrUBN
 description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic — the only human realm in Ankaris where the Elder Races walk openly as equals."
 type: place
 subType: region
+data:
+  demonym: null
+  lore:
+    - humanflk
+  parents:
+    - aureldirgn
+  population: null
 name:
   full: Élavendre
   aliases: []
 shortcode: elavendre
-parent:
-  regions:
-    - aureldirgn
-languages:
-  - elvndrlng
-  - aelendlng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
 terran_analog: "Northern France and Switzerland — the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
 folder: drAoDoNnFEygATeK
 ---
 
-On the western shores of [[doc-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
+On the western shores of [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
 
 ## Geography
 
@@ -38,7 +35,7 @@ On the western shores of [[doc-ankrscntnnt|Ankaris Continent]], Élavendre stand
 
 The Élavendri are the settled, urbanized majority — the people of the kingdom, its cities, farms, and coastal towns. Descendants of the Pelwar nomads who migrated from the east, they developed over centuries into a refined and deeply spiritual culture that blends ancient traditions with a profound respect for the natural world. Their cities are renowned for their beauty and enchanting architecture — soaring towers of pale stone, bridges woven with living vines, and gardens that blur the line between the cultivated and the wild.
 
-Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across [[doc-midhalnrgn|Mídhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
+Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across [[place-midhalnrgn|Mídhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
 
 Noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
@@ -64,13 +61,13 @@ Sacred groves, standing stones, and holy wells serve as places of worship alongs
 
 ## Magic
 
-Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains a substantial presence in the kingdom's cities — the **University of Béravel** is the largest [[affiliation-panepistmm|Panepistemium]] campus outside of [[doc-vylarinmpr|Vylarian Empire]], with multiple Sodalitas chapterhouses — but its authority is bitterly contested by the kingdom's own traditions. The Bardic Circle, the Grove Council, and the Áelendan guard magical practices that predate the Ordo by centuries, and the struggle between these institutions and the Ordo for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. In the cities, this contest is conducted through civilized rivalry; beyond the city walls, it turns deadly (see [[doc-kngdmlvndr|The Ordo Arcanis in Élavendre]]).
+Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains a substantial presence in the kingdom's cities — the **University of Béravel** is the largest [[affiliation-panepistmm|Panepistemium]] campus outside of [[affiliation-vylarinmpr|Vylarian Empire]], with multiple Sodalitas chapterhouses — but its authority is bitterly contested by the kingdom's own traditions. The Bardic Circle, the Grove Council, and the Áelendan guard magical practices that predate the Ordo by centuries, and the struggle between these institutions and the Ordo for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. In the cities, this contest is conducted through civilized rivalry; beyond the city walls, it turns deadly (see [[affiliation-kngdmlvndr|The Ordo Arcanis in Élavendre]]).
 
 The fae influence that makes Élavendre so magically rich is real and tangible: strange lights in the forest, paths that shift between visits, and encounters with beings that are neither fully mortal nor fully divine. It is precisely this richness that draws the Ordo's relentless interest — and that the traditional institutions are determined to keep beyond its grasp.
 
 ### The Sinalë
 
-Élavendre's magical character is not merely cultural — it reflects genuine proximity to the [[doc-flksinale|Sinalë]], the elder race whose enclaves in the deep forests of the western coast predate human settlement by thousands of years. Both the Áelendan and the Élavendren royal family have maintained a relationship with the local Sinalëan communities for centuries. This is not an alliance in the political sense; the Sinalë do not concern themselves with Élavendre's human political structures. It is closer to a neighborly understanding between peoples who share the same forests and have, over many generations, learned to respect each other's presence.
+Élavendre's magical character is not merely cultural — it reflects genuine proximity to the [[lore-flksinale|Sinalë]], the elder race whose enclaves in the deep forests of the western coast predate human settlement by thousands of years. Both the Áelendan and the Élavendren royal family have maintained a relationship with the local Sinalëan communities for centuries. This is not an alliance in the political sense; the Sinalë do not concern themselves with Élavendre's human political structures. It is closer to a neighborly understanding between peoples who share the same forests and have, over many generations, learned to respect each other's presence.
 
 The Áelendan fae traditions — the sacred groves, the nature spirits, the bardic magic — are not superstition. They reflect genuine contact with the Sinalë and with the other fae beings that inhabit these ancient forests. The bardic colleges preserve songs and stories that the Sinalë have shared with them, and Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. The Sinalë tolerate this — perhaps even encourage it — in a way they do not elsewhere.
 
@@ -78,21 +75,21 @@ Why the Sinalë have opened themselves to the Áelendan is a question that has p
 
 ## Relations
 
-Élavendre has close cultural ties with [[doc-provenzrgn|Provènzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with [[doc-vylarinmpr|Vylarian Empire]] is more complicated — while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state and retains some Vylarian cultural influence. The island of [[doc-aelwyth|Aelwyth]] lies off Élavendre's western coast, and the two regions have deep historical and cultural connections.
+Élavendre has close cultural ties with [[place-provenzrgn|Provènzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with [[affiliation-vylarinmpr|Vylarian Empire]] is more complicated — while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state and retains some Vylarian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies off Élavendre's western coast, and the two regions have deep historical and cultural connections.
 
 ## Notable Features
 
-- **[[doc-faecourts|The Fae Courts]]:** Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
+- **[[lore-faecourts|The Fae Courts]]:** Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
 - **[[affiliation-bardicolgs|The Bardic Colleges]]:** Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Mídhalión.
-- **[[doc-silvrfrsts|The Silver Forests]]:** Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.
+- **[[place-silvrfrsts|The Silver Forests]]:** Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.
 
 ## See Also
 
-- [[doc-aelwyth|Aelwyth]] — Island off the western coast
-- [[doc-provenzrgn|Provènzia Region]] — Eastern neighbor and cultural cousin
-- [[doc-vylarinmpr|Vylarian Empire]] — Former imperial overlord
+- [[place-aelwyth|Aelwyth]] — Island off the western coast
+- [[place-provenzrgn|Provènzia Region]] — Eastern neighbor and cultural cousin
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Former imperial overlord
 - [[skill-elvndrlng|Élavendri]] — Naming conventions (Élavendri)
 - [[affiliation-arldnpnthn|Aurèldían]] — Primary pantheon
-- [[doc-kngdmlvndr|Kingdom of Élavendre]] — Polity details
-- [[doc-flksinale|Sinalë]] — The elder race with enclaves in Élavendre's forests
-- [[doc-flkkhazar|Khazári]] — The second elder race (no known presence in Élavendre)
+- [[affiliation-kngdmlvndr|Kingdom of Élavendre]] — Polity details
+- [[lore-flksinale|Sinalë]] — The elder race with enclaves in Élavendre's forests
+- [[lore-flkkhazar|Khazári]] — The second elder race (no known presence in Élavendre)

@@ -4,7 +4,7 @@ aliases:
   - Nokvur
 id: ftY2uPxiDE8H1Cpu
 type: lore
-subType: folk
+subType: culture
 name:
   full: Nōkvür
   aliases: []
@@ -16,11 +16,11 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Peasant Farmers**
 
-The Nōkvür comprise the agricultural base of [[doc-tanvurempr|Tānvür]]—peasant farmers, laborers, and common folk who work the land and constitute the largest portion of the empire's population. Though legally unfree and bound to their labor obligations, the Nōkvür maintain their own spiritual traditions centered on ancestor veneration and connection to the natural world through their shamanic Lëigürt.
+The Nōkvür comprise the agricultural base of [[affiliation-tanvurempr|Tānvür]]—peasant farmers, laborers, and common folk who work the land and constitute the largest portion of the empire's population. Though legally unfree and bound to their labor obligations, the Nōkvür maintain their own spiritual traditions centered on ancestor veneration and connection to the natural world through their shamanic Lëigürt.
 
 ## Life and Labor
 
-The Nōkvür work the fields, forests, and waters of the empire, sustaining all others through their labor. All land in the empire belongs to [[doc-zheklung|Zhëklüng]] and [[doc-vushok|Vüshōk]] administrators; the Nōkvür have the right to work specific lands but cannot own them outright.
+The Nōkvür work the fields, forests, and waters of the empire, sustaining all others through their labor. All land in the empire belongs to [[lore-zheklung|Zhëklüng]] and [[lore-vushok|Vüshōk]] administrators; the Nōkvür have the right to work specific lands but cannot own them outright.
 
 ## Rights and Restrictions
 
@@ -32,14 +32,14 @@ The Nōkvür work the fields, forests, and waters of the empire, sustaining all 
 
 ### Restrictions
 
-- **Obligation to Labor**: Must render tribute of produce and labor to [[doc-zheklung|Zhëklüng]] and [[doc-vushok|Vüshōk]]; failure to meet tribute obligations results in flogging or death
+- **Obligation to Labor**: Must render tribute of produce and labor to [[lore-zheklung|Zhëklüng]] and [[lore-vushok|Vüshōk]]; failure to meet tribute obligations results in flogging or death
 - **No Land Ownership**: All land belongs to the ruling classes; the Nōkvür are bound to specific territories and cannot leave without permission
 - **Marriage Within Caste**: Legal marriage is not available to Nōkvür; they may cohabitate within their caste but have no legal recognition of family bonds
 - **No Personal Names**: Nōkvür are identified by clan name, occupation or position, and geographic location rather than personal names
 
 ## Ancestor Veneration and Spiritual Life
 
-Among the Nōkvür, [[doc-ancstrwrshp|ancestor worship]] is the center of spiritual practice and social cohesion. Ancestor spirits are understood as posted officials within the celestial bureaucracy — they advocate for their living descendants, file petitions on their behalf, and use their accumulated moral ledger credit to influence outcomes. Maintaining proper shrines, conducting seasonal rituals, and provisioning the dead with spirit offerings are fundamental obligations that sustain this spiritual supply chain.
+Among the Nōkvür, [[lore-ancstrwrshp|ancestor worship]] is the center of spiritual practice and social cohesion. Ancestor spirits are understood as posted officials within the celestial bureaucracy — they advocate for their living descendants, file petitions on their behalf, and use their accumulated moral ledger credit to influence outcomes. Maintaining proper shrines, conducting seasonal rituals, and provisioning the dead with spirit offerings are fundamental obligations that sustain this spiritual supply chain.
 
 Regular festivals and private ceremonies keep ancestor spirits provisioned and effective — a family that fails in its obligations weakens its advocates in the celestial administration, with consequences that propagate through every aspect of daily life.
 
@@ -57,13 +57,13 @@ The **Lëigürt** are shamanic practitioners who emerge from within Nōkvür com
 
 ### Standing in Society
 
-Lëigürt occupy a unique position within Nōkvür society: though technically of the same caste, they command profound respect and authority. Warlords and even higher castes sometimes consult Lëigürt when facing spiritually complex matters. Their knowledge of the spirit realm is treated with reverence approaching that shown to [[doc-tanthei|Tānthëi]], though Lëigürt practice remains distinct and separate from celestial scholarship.
+Lëigürt occupy a unique position within Nōkvür society: though technically of the same caste, they command profound respect and authority. Warlords and even higher castes sometimes consult Lëigürt when facing spiritually complex matters. Their knowledge of the spirit realm is treated with reverence approaching that shown to [[lore-tanthei|Tānthëi]], though Lëigürt practice remains distinct and separate from celestial scholarship.
 
 The Lëigürt preserve knowledge passed down through generations—understanding of plants, animals, spiritual practices, and the hidden connections between the living and dead.
 
 ## Vëndük Adoption into Nōkvür
 
-When [[doc-venduk|Vëndük]] children are tested at age ten for magical ability and found to lack sufficient magical affinity, they are not returned to their families of origin. Instead, they are adopted into Nōkvür communities with genuine love and respect. These adoptees receive full acceptance and are treated as valued members of their new caste, their unusual origins acknowledged but not held against them.
+When [[lore-venduk|Vëndük]] children are tested at age ten for magical ability and found to lack sufficient magical affinity, they are not returned to their families of origin. Instead, they are adopted into Nōkvür communities with genuine love and respect. These adoptees receive full acceptance and are treated as valued members of their new caste, their unusual origins acknowledged but not held against them.
 
 ## Philosophy of Lëi
 
@@ -71,10 +71,10 @@ The Nōkvür are understood to serve as nurturers of the earth's Lëi, channelin
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — rights and restrictions governing Nōkvür
-- [[doc-shukren|Shükrën]] — Merchants and traders above Nōkvür in hierarchy
-- [[doc-nutzok|Nützōk]] — Slaves and outcasts below Nōkvür
-- [[doc-venduk|Vëndük]] — Magical practitioners from whom some adoptees come
-- [[doc-zathuk|Zāthük]] — Artisans and craftspeople above Nōkvür
-- [[doc-zeisik|Law and Honor]] — legal framework governing Nōkvür obligations
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Nōkvür
+- [[lore-shukren|Shükrën]] — Merchants and traders above Nōkvür in hierarchy
+- [[lore-nutzok|Nützōk]] — Slaves and outcasts below Nōkvür
+- [[lore-venduk|Vëndük]] — Magical practitioners from whom some adoptees come
+- [[lore-zathuk|Zāthük]] — Artisans and craftspeople above Nōkvür
+- [[lore-zeisik|Law and Honor]] — legal framework governing Nōkvür obligations
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

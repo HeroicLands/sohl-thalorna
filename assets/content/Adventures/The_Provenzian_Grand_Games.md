@@ -8,8 +8,17 @@ name:
 shortcode: prvnzngrndgms
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
@@ -19,7 +28,7 @@ The [[Giochi_Grandi|Giochi Grandi]] (Provenzian Grand Games), the realm's greate
 
 ## Overview
 
-Every five years, the City of Hárivren hosts the Giochi Grandi—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[doc-provenzrgn|Provènzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the [[affiliation-arldnpnthn|Aurèldían]] faith is honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
+Every five years, the City of Hárivren hosts the Giochi Grandi—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provènzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the [[affiliation-arldnpnthn|Aurèldían]] faith is honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
 
 ## Stage One: Arrival & Opportunity
 
@@ -76,9 +85,9 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 
 **Key Discoveries:**
 
-- The assassination plot targets the ruler of [[doc-provenzrgn|Provènzia Region]] or another prominent dignitary
+- The assassination plot targets the ruler of [[place-provenzrgn|Provènzia Region]] or another prominent dignitary
 - Cheating is far more widespread than initially suspected
-- An outside power (the [[doc-vylarinmpr|Vylarian Empire]], [[doc-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
+- An outside power (the [[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
 - One of the party members is recognized or identified as a threat by conspirators
 - The true motive is not money or prestige but something deeper: political positioning, magical research, or preparation for conflict
 
@@ -112,11 +121,11 @@ The party must decide how to act. Options include:
 
 **If the party fails or is compromised:**
 
-- The assassination succeeds, throwing [[doc-provenzrgn|Provènzia Region]] into chaos
+- The assassination succeeds, throwing [[place-provenzrgn|Provènzia Region]] into chaos
 - The conspirators consolidate power, using the disruption to their advantage
 - The games are canceled or severely disrupted
 - The party may be blamed for the failure or exposed as complicit
-- Political upheaval in [[doc-provenzrgn|Provènzia Region]] creates both danger and opportunity
+- Political upheaval in [[place-provenzrgn|Provènzia Region]] creates both danger and opportunity
 
 **Ongoing Consequences:**
 
@@ -128,9 +137,9 @@ The party must decide how to act. Options include:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-vylarinmpr|Vylarian Empire]]
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]]
+- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

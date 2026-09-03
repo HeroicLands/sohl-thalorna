@@ -9,9 +9,30 @@ name:
 description: "A corrupted, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
 id: 1LGC1Tv40FQz4hXf
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/tskcrshr-portrait.webp
 shortcode: tskcrshr
 type: being
+data:
+  portrait: images/being/tskcrshr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

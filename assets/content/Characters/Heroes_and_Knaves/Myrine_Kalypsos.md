@@ -5,6 +5,7 @@ tags:
   - heroes-and-knaves
   - character
   - hero
+  - clergy
 name:
   full: Myrine Kalypsos
   title: ""
@@ -17,35 +18,42 @@ id: yrsuou8x6G2HF5hA
 folder: UFBfgKZUF0bAE7gG
 shortcode: myrnklypss
 img: icons/person.svg
-portrait: images/being/myrnklypss-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/myrnklypss-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: The Black Flame
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
+    - blackflame
   gender: female
+  species: null
   age: 24
   birthday: 696/12/6
-  height:
-    m: 1.7
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.7
+  weight: 68
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features:
-      - Flame-shaped tattoo on the right forearm, the Black Flame's mark of ordination — black ink over ritual scarification, deliberately conspicuous
-      - Faint burn scars across the fingertips of both hands from years of fire divination practice
-      - A thin cord of braided copper wire worn around the left wrist, signifying her status as a mendicant — a wandering priestess authorized to preach and perform rites outside a fixed temple
+      - >-
+        Flame-shaped tattoo on the right forearm, the Black Flame's mark of ordination — black
+        ink over ritual scarification, deliberately conspicuous
+      - >-
+        Faint burn scars across the fingertips of both hands from years of fire divination practice
+      - >-
+        A thin cord of braided copper wire worn around the left wrist, signifying her status
+        as a mendicant — a wandering priestess authorized to preach and perform rites outside
+        a fixed temple
 sohl:
   archetype: null
   body:
@@ -578,7 +586,7 @@ The Black Flame teaches that might makes right. This is the doctrine's core, and
 
 ### Origins
 
-Myrine was born in [[doc-belekos|Belekos]], a wealthy merchant city in the Province of Alyssa, the youngest of four children in the Kalypsos household — a Helionite-descended family that had settled in Belekos two generations prior and made a comfortable living in the grain trade. The Kalypsos name carried no particular distinction; they were prosperous enough to be comfortable, well-connected enough to be invited to the right gatherings, and shrewd enough to avoid the worst of Belekos's mercantile blood-feuds. Her father, Phaidros, managed the family's warehouses and contracts. Her mother, Alkyone, handled the accounts and maintained the social alliances that kept the house solvent. It was a sensible, practical, merchant-class upbringing — and Myrine was temperamentally unsuited to it from birth.
+Myrine was born in [[place-belekos|Belekos]], a wealthy merchant city in the Province of Alyssa, the youngest of four children in the Kalypsos household — a Helionite-descended family that had settled in Belekos two generations prior and made a comfortable living in the grain trade. The Kalypsos name carried no particular distinction; they were prosperous enough to be comfortable, well-connected enough to be invited to the right gatherings, and shrewd enough to avoid the worst of Belekos's mercantile blood-feuds. Her father, Phaidros, managed the family's warehouses and contracts. Her mother, Alkyone, handled the accounts and maintained the social alliances that kept the house solvent. It was a sensible, practical, merchant-class upbringing — and Myrine was temperamentally unsuited to it from birth.
 
 She was intense where her siblings were measured, passionate where they were prudent, and possessed of a charisma that was evident even as a child. She could talk other children into things. She could talk adults into things. She had a way of looking at someone while she listened — patient, attentive, her hazel eyes holding theirs — that made people feel understood, and a way of asking questions that led them to conclusions she had already reached. Her parents recognized the talent and assumed it would serve her well in commerce. They were wrong about the application, but right about the talent.
 
@@ -588,7 +596,7 @@ She sought him out afterward. Drakonides was experienced enough to recognize a p
 
 ### Temple Training
 
-The Temple of the Black Flame in [[doc-velysara|Velysâra]] was the largest in the Province of Alyssa — not hidden but not ostentatious, occupying a compound of dark stone in the old quarter of the city, its presence known to everyone and discussed with the careful neutrality that Vylarians apply to institutions they tolerate without endorsing. Myrine entered as an acolyte at fourteen and spent the next six years in training that was, by design, the most demanding experience of her life.
+The Temple of the Black Flame in [[place-velysara|Velysâra]] was the largest in the Province of Alyssa — not hidden but not ostentatious, occupying a compound of dark stone in the old quarter of the city, its presence known to everyone and discussed with the careful neutrality that Vylarians apply to institutions they tolerate without endorsing. Myrine entered as an acolyte at fourteen and spent the next six years in training that was, by design, the most demanding experience of her life.
 
 The Black Flame's priesthood trains its clergy as warrior-priests. The doctrine requires it: a faith that teaches strength as virtue cannot afford priests who cannot fight. Myrine trained in the sword and the hooked net — the net to entangle and control, the sword to finish — and in the martial forms that the Black Flame considers sacred, each movement a prayer to Vúlcan's destructive aspect. She was not the strongest fighter in her cohort, but her initiative was ferocious, her tactical instincts sharp, and she fought with a relentless determination that compensated for what she lacked in raw physical power. The masters noted that she was most dangerous not when she was angry but when she was calm — when she had assessed her opponent and decided, with cold clarity, how they would lose.
 

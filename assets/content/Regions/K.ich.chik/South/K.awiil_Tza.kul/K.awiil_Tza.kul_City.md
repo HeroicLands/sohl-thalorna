@@ -2,25 +2,25 @@
 aliases:
   - K'awiil Tza'kul
 id: qHD2DJ9d3jceHp2C
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - sthrnkchchk
+  population: null
 name:
   full: K'awiil Tza'kul
   aliases: []
 shortcode: kawiltzakl2
-parent:
-  polities:
-    - kawiltzakl
 ---
 
 # K'awiil Tza'kul
 
 ## Overview
 
-_To be written._ K'awiil Tza'kul is the central city and seat of the [[doc-kawiltzakl|K'awiil Tza'kul]] city-state.
+_To be written._ K'awiil Tza'kul is the central city and seat of the [[affiliation-kawiltzakl|K'awiil Tza'kul]] city-state.

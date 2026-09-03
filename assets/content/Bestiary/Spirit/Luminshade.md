@@ -9,9 +9,30 @@ name:
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."
 id: V51NYCYdbU2A7tse
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/lmnshd-portrait.webp
 shortcode: lmnshd
 type: being
+data:
+  portrait: images/being/lmnshd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

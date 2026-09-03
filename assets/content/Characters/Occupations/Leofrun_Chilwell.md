@@ -3,6 +3,7 @@ aliases:
   - Leofrun Chilwell
 tags:
   - draft
+  - common-folk
 name:
   full: Leofrun Chilwell
   title: ""
@@ -15,23 +16,27 @@ id: WSlmnVErULWHMsg1
 folder: elH5NDPUuiRCICrE
 shortcode: lefrnchlwl
 img: icons/person.svg
-portrait: images/being/lefrnchlwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lefrnchlwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 30
   birthday: 690/4/21
-  height:
-    m: 1.8
-  weight:
-    kg: 76
-  build:
-    frame: light
+  height: 1.8
+  weight: 76
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: red
@@ -39,16 +44,6 @@ traits:
     complexion: freckled
     extra_features:
       - a tattoo of a skull on the upper arm
-gear:
-  weapons:
-    - Small bow
-  armor:
-    - Woolen cloak
-  misc:
-    - Leather satchel
-    - Traps
-    - snares
-    - herbal remedies
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

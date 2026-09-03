@@ -5,6 +5,7 @@ aliases:
   - Virangasikharam Duksana
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Vīrāṅgaśikharam Dukṣana
   title: ""
@@ -16,34 +17,31 @@ id: Z3xWPxIHGgXk3UmE
 folder: JotxZnnXcTECeYW3
 shortcode: vrgskhrmdkn
 img: icons/person.svg
-portrait: images/being/vrgskhrmdkn-portrait.webp
 type: being
-thalorna:
-  realm: suvrgrjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/vrgskhrmdkn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Manor Lord)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - suvrgrjnpd
   gender: male
+  species: null
   age: 33
   birthday: 687/2/4
-  height:
-    m: 1.83
-  weight:
-    kg: 73.9
-  build:
-    frame: medium
+  height: 1.83
+  weight: 73.9
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

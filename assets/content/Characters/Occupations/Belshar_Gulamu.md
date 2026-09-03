@@ -4,6 +4,8 @@ aliases:
   - Belshar Gulamu
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Belshar Gûlamû
   title: ""
@@ -16,23 +18,27 @@ id: V4HcQv4XNiMyjkl1
 folder: PuQFDMkRM9i60i5Z
 shortcode: belsharglm
 img: icons/person.svg
-portrait: images/being/belsharglm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/belsharglm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 40
   birthday: 684/4/14
-  height:
-    m: 1.73
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.73
+  weight: 68
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: gray
@@ -40,15 +46,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
-gear:
-  weapons: []
-  armor:
-    - Simple tunic
-  misc:
-    - Leather pouch for tools
-    - Locksmith tools
-    - templates for lock designs
-    - legal contracts
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -2,23 +2,23 @@
 aliases:
   - Ostenna
 id: Al6yPx7kOm8Sb3Ln
+tags:
+  - port
+  - town
+  - river
+description: "River-Port Town"
 type: place
 subType: settlement
-settlementType: "River-Port Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 7000
 name:
   full: Ostenna
   aliases: []
 shortcode: ostenna
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -30,5 +30,5 @@ Ostenna sits where a navigable river meets the road network, a small river-port 
 
 ## See Also
 
-- [[doc-provinclys|Province of Alyssa]] — Parent province
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]] — Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview

@@ -4,6 +4,7 @@ aliases:
   - Elsaro Castirenna
 tags:
   - draft
+  - soldiery
 name:
   full: Élsaro Castírenna
   title: ""
@@ -16,23 +17,27 @@ id: 3Xd3PvrhZxB4zVC5
 folder: 9t9O4iB5cYJtSaTG
 shortcode: elsarcstrn
 img: icons/person.svg
-portrait: images/being/elsarcstrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/elsarcstrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 31
   birthday: 693/1/30
-  height:
-    m: 1.83
-  weight:
-    kg: 75
-  build:
-    frame: medium
+  height: 1.83
+  weight: 75
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: graying_brown
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a tiger on the forearm
-gear:
-  weapons:
-    - Twin daggers
-  armor:
-    - Dark leather armor
-  misc:
-    - Small satchel for tools
-    - Lockpicking tools
-    - poisons
-    - grappling hook
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

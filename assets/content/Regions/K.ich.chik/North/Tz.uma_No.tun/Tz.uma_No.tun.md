@@ -13,15 +13,104 @@ shortcode: tzumanotun
 img: ""
 type: affiliation
 subType: polity
-capital: tzumanotun2
-terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: ""
+    ranks:
+      - level: 0
+        title: Exile
+        lore: outlawrnk
+        description: >-
+          Driven from the city and denied its ballcourt, its market and its rites; no lord will
+          take him and no kin will own him.
+      - level: 1
+        title: Captive
+        lore: slavernk
+        description: >-
+          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          no long future.
+      - level: 2
+        title: Commoner
+        lore: commonerrnk
+        description: >-
+          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          in maize, cloth and cacao.
+      - level: 3
+        title: Craftsman
+        lore: journeymanrnk
+        description: >-
+          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          to a lord's household or a temple.
+      - level: 4
+        title: Warrior
+        lore: warriorrnk
+        description: Taker of captives, whose standing rises with each one and whose dress records
+          them.
+      - level: 5
+        title: Scribe or Priest
+        lore: priestrnk
+        description: >-
+          Keeper of the count of days, the glyphs and the rites, without whom no lord may act
+          at an auspicious hour.
+      - level: 6
+        title: Ajaw
+        lore: greatlordrnk
+        description: A noble lord of the city, holding land, dependents and a place in the k'uhul
+          ajaw's court.
+      - level: 7
+        title: Sahal
+        lore: greatlordrnk
+        description: >-
+          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          of a conquered city's ruler.
+      - level: 8
+        title: K'uhul Ajaw
+        lore: sovereignrnk
+        description: >-
+          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar
+          and embodies it in war.
+    offices:
+      K'uhul Ajaw: >-
+        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns
+        sustains it.
+      Ix Ajaw: >-
+        Royal lady of the city, of a lineage recorded and married for, and a ruler in her
+        own right where the line requires it.
+      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
+      Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
+        hour.
+      Ah Ts'ib: >-
+        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert
+        them.
+      Nacom: War-leader appointed for a campaign, and set aside when it ends.
+      Batab: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
+        were his.
+      Ah Ppolom: >-
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        a lord's eyes abroad.
+      Ballcourt Keeper: >-
+        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
+        at once.
+  commonSkills: []
+  seat: tzumanotun2
+  domains:
     - nrthrnkchchk
-  continents:
-    - kchchkcntnnt
-peoples:
-  - human
+  population: null
+  economy: []
+  lore:
+    - humanflk
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
+terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 folder: 2PfxBk6mbXf65WO3
 ---
 
@@ -37,7 +126,7 @@ Tz'uma No'tun's landscape transitions dramatically from north to south. The nort
 
 As one moves south and east from the mountains, the land gradually descends into the piedmont—a landscape of rolling hills and river valleys where the forest opens into meadows and the first significant swamplands appear. Major rivers drain eastward from the Appalachians, and these river valleys become increasingly complex and water-saturated as one approaches the coast. The Great Dismal Swamp and similar vast marshes form the heart of Ch'aqun territory in the south; these trackless expanses of cypress, tupelo, and saw palm, crisscrossed by sluggish black-water rivers and interconnected by hidden waterways, are simultaneously vast and intimate. The swamps support tremendous biological productivity—fish, waterfowl, alligators, and mammals of all sizes—and the Ch'aqun have learned to harvest this abundance sustainably.
 
-The southeastern coastal regions of Tz'uma No'tun feature salt marshes, islands, and low-lying barrier lands where fresh water and salt water mix. The Ch'aqun build temporary settlements in these regions during certain seasons, harvesting salt, shellfish, and fish. Mangrove forests replace the cypress in the most southern reaches, indicating the subtropical character of the lower portions of Ch'aqun territory. The western boundaries of Tz'uma No'tun approach [[doc-hanalxilan|Ha'nal Xi'lan]]'s contested river valleys in a zone of shared hunting grounds and frequent inter-tribal contact; the southern and eastern boundaries reach toward the edge of [[doc-kchchkcntnnt|K'ich'chik]] proper.
+The southeastern coastal regions of Tz'uma No'tun feature salt marshes, islands, and low-lying barrier lands where fresh water and salt water mix. The Ch'aqun build temporary settlements in these regions during certain seasons, harvesting salt, shellfish, and fish. Mangrove forests replace the cypress in the most southern reaches, indicating the subtropical character of the lower portions of Ch'aqun territory. The western boundaries of Tz'uma No'tun approach [[affiliation-hanalxilan|Ha'nal Xi'lan]]'s contested river valleys in a zone of shared hunting grounds and frequent inter-tribal contact; the southern and eastern boundaries reach toward the edge of [[place-kchchkcntnnt|K'ich'chik]] proper.
 
 ## The Ch'aqun Tz'aqalil
 
@@ -49,15 +138,15 @@ The Ch'aqun have developed sophisticated traditions of mound-building—construc
 
 ## Trade
 
-Tz'uma No'tun's position at the southeastern frontier of the northern territories gives the Ch'aqun unique access to southern goods and unique items not available elsewhere in the north. Feathered cloaks, tropical fruits, obsidian tools, and dyed textiles flow northward from [[doc-kchchkcntnnt|K'ich'chik]] through Ch'aqun hands; the Ch'aqun serve as intermediaries and carefully control access to particularly valuable items. This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'aqun leadership substantial leverage in inter-tribal negotiations.
+Tz'uma No'tun's position at the southeastern frontier of the northern territories gives the Ch'aqun unique access to southern goods and unique items not available elsewhere in the north. Feathered cloaks, tropical fruits, obsidian tools, and dyed textiles flow northward from [[place-kchchkcntnnt|K'ich'chik]] through Ch'aqun hands; the Ch'aqun serve as intermediaries and carefully control access to particularly valuable items. This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'aqun leadership substantial leverage in inter-tribal negotiations.
 
 The Ch'aqun also produce goods valuable in southern markets: poisons and herbal medicines, preserved foods, and certain rare items of spiritual power. The Ch'aqun reputation as masters of poison and herbalism makes their medicinal compounds highly sought-after despite their reputation; wealthy southern merchants and healers will pay premium prices for documented Ch'aqun medicines. The Ch'aqun never trade raw materials — only finished products that reveal nothing of their methods. K'ich'chik physicians who have analyzed Ch'aqun medicines report compounds of extraordinary potency but have been unable to identify the source plants or replicate the preparation.
 
-Hides, furs, and game products from Tz'uma No'tun reach K'ich'chik markets through indirect chains of intermediaries, never through direct contact. The Ch'aqun appear to maintain some presence in the contested [[doc-hanalxilan|Ha'nal Xi'lan]] borderlands, and rare transactions with K'ich'chik merchants occur there — always on Ch'aqun terms, always brief, and always through intermediaries who may or may not actually be Ch'aqun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
+Hides, furs, and game products from Tz'uma No'tun reach K'ich'chik markets through indirect chains of intermediaries, never through direct contact. The Ch'aqun appear to maintain some presence in the contested [[affiliation-hanalxilan|Ha'nal Xi'lan]] borderlands, and rare transactions with K'ich'chik merchants occur there — always on Ch'aqun terms, always brief, and always through intermediaries who may or may not actually be Ch'aqun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
 
 ## See Also
 
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the north and west, source of frequent inter-tribal tensions
-- [[doc-xikulchakl|Xik'ul Ch'akal]] — The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
-- [[doc-haxaman|Ha' Xaman]] — The Coyote People's grasslands, contacted through the Ha'nal Xi'lan borderlands
-- [[doc-kchchkcntnnt|K'ich'chik]] — The civilized southern lands, source of trade goods and occasional military threat
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the north and west, source of frequent inter-tribal tensions
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
+- [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands, contacted through the Ha'nal Xi'lan borderlands
+- [[place-kchchkcntnnt|K'ich'chik]] — The civilized southern lands, source of trade goods and occasional military threat

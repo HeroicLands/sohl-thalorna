@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - clergy
 name:
   full: Sharmînah Tahvân
   title: ""
@@ -17,34 +18,31 @@ id: pECuT0gi0X82fudW
 folder: heI5Ky6Kqmb61L6c
 shortcode: shrmnhthvn
 img: icons/person.svg
-portrait: images/being/shrmnhthvn-portrait.webp
 type: being
-thalorna:
-  realm: tribestrzd
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/shrmnhthvn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - tribestrzd
   gender: female
+  species: null
   age: 32
   birthday: 688/3/25
-  height:
-    m: 1.8
-  weight:
-    kg: 76.2
-  build:
-    frame: medium
+  height: 1.8
+  weight: 76.2
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: dark_brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

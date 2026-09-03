@@ -4,6 +4,7 @@ aliases:
   - Hathura Ise'fré
 tags:
   - heroes-and-knaves
+  - clergy
 name:
   full: Hathura Ise'fré
   title: Nebet
@@ -16,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
 img: icons/person.svg
-portrait: images/being/hathurasfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/hathurasfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 40
   birthday: 680/10/2
-  height:
-    m: 1.7
-  weight:
-    kg: 63.5
-  build:
-    frame: light
+  height: 1.7
+  weight: 63.5
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - Feather-of-Má'át scarification across the collarbones, concealed by vestments
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
@@ -586,7 +584,7 @@ sohl:
     - { shortcode: bglgcvs, type: containergear }
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -596,7 +594,7 @@ She dresses in the formal silk robes of her office when conducting judicial cere
 
 # Dossier {#dossier}
 
-Hathura was born into the Ise'fré family in [[doc-meruhotep|Meru-Hotep]], the eldest daughter of a minor Heka'hut whose lands produced modest harvests and whose political connections amounted to very little. Her mother, however, was a priestess of Má'át — not a powerful one, but one who understood that the temple's reach exceeded any petty estate's. When Hathura was seven, her mother placed her in the temple school at the great Má'át complex in the capital. Her brothers would inherit the estate; Hathura would inherit something more durable.
+Hathura was born into the Ise'fré family in [[place-meruhotep|Meru-Hotep]], the eldest daughter of a minor Heka'hut whose lands produced modest harvests and whose political connections amounted to very little. Her mother, however, was a priestess of Má'át — not a powerful one, but one who understood that the temple's reach exceeded any petty estate's. When Hathura was seven, her mother placed her in the temple school at the great Má'át complex in the capital. Her brothers would inherit the estate; Hathura would inherit something more durable.
 
 She proved exceptional. The temple schools of Má'át are among the most rigorous in the empire: they teach law, procedure, the weighing of evidence, the reading of testimony, the identification of deception, and above all the principle that truth is sacred because it holds the cosmos together. Beyond the judicial disciplines, the schools teach history, heraldry, mathematics, the languages of the empire's major trading partners, and the political geography of the nomes — because a priest who adjudicates disputes between noble houses must understand the houses she judges. Hathura absorbed it all with a ferocity that unsettled her tutors. By fifteen she was assisting in the judicial ceremonies; by twenty she was conducting minor auguries and arbitrations for provincial nobles who came to the temple seeking the goddess's guidance on boundary disputes, inheritance claims, and commercial ventures. She learned that a priestess who could read evidence — or appear to — held power that no sword could match. The nobles who kneeled before her judgment seat told her things they would never tell their own families, and Hathura remembered everything.
 

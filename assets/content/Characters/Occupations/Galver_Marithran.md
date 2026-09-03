@@ -4,6 +4,7 @@ aliases:
   - Galver Marithran
 tags:
   - draft
+  - tradesfolk
 name:
   full: Gálver Maríthran
   title: ""
@@ -16,38 +17,33 @@ id: 1ES1iWTECNa5fbqn
 folder: 9t9O4iB5cYJtSaTG
 shortcode: glvrmrthrn
 img: icons/person.svg
-portrait: images/being/glvrmrthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/glvrmrthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mason
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 50
   birthday: 674/9/30
-  height:
-    m: 1.83
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: white
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Leather bag for tools
-    - Trowels
-    - chisels
-    - safety gear
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

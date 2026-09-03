@@ -9,9 +9,30 @@ name:
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
 id: TXoRX749dQrUkWYC
 img: icons/game-icons/lorc/werewolf.svg
-portrait: images/being/strmsr-portrait.webp
 shortcode: strmsr
 type: being
+data:
+  portrait: images/being/strmsr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: elemental
   archetype: 0

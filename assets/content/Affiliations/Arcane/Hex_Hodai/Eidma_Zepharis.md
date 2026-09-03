@@ -5,6 +5,89 @@ tags:
   - hex-hodai
 type: affiliation
 subType: arcanetradition
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: meritocracy
+    summary: >-
+      Advancement by degree of initiation, with a body of elders deciding what is taught and
+      who is admitted.
+    ranks:
+      - level: 0
+        title: Anathema
+        lore: excmmnctrnk
+        description: >-
+          Named against the tradition and cut off from its teaching, its protection and its
+          company; what it taught them is not taken back.
+      - level: 1
+        title: Uninitiated
+        lore: catechumenrnk
+        description: Outside the tradition entirely — served by it, feared by it, and told nothing.
+      - level: 2
+        title: Aspirant
+        lore: catechumenrnk
+        description: Petitioning for admission and being watched to see whether it should be
+          granted.
+      - level: 3
+        title: Initiate
+        lore: initiaternk
+        description: >-
+          Received into the tradition and bound by its oaths, holding its first mysteries and
+          few of its secrets.
+      - level: 4
+        title: Adept
+        lore: masterrnk
+        description: Practised in the tradition's art and trusted to work it unsupervised.
+      - level: 5
+        title: Master of the Art
+        lore: masterrnk
+        description: Competent to teach the tradition and to answer for what a pupil does with
+          it.
+      - level: 6
+        title: Keeper of the Tradition
+        lore: highpriestrnk
+        description: >-
+          Holding one of its bodies of knowledge or one of its houses, and answerable for its
+          continuance.
+      - level: 7
+        title: Elder
+        lore: elderrnk
+        description: Of the small body that decides what the tradition teaches and whom it admits.
+      - level: 8
+        title: First of the Tradition
+        lore: grandmasterrnk
+        description: >-
+          Presiding over the elders and speaking for the whole tradition where it must speak
+          with one voice.
+    offices:
+      First of the Tradition: Presiding elder, who speaks for the tradition where it must
+        speak with one voice.
+      Elder: Of the body that decides doctrine, admission and expulsion.
+      Magister: Master of a school, holding its teaching, its pupils and its reputation.
+      Preceptor: Charged with the instruction of initiates, and with judging when they are
+        ready.
+      Keeper of the Grimoires: Warden of the tradition's written work, and of who may read
+        which part of it.
+      Warden of the Threshold: Examiner of aspirants, and the last check before an oath is
+        taken.
+      Quaesitor: Investigator of the tradition's own — unlicensed practice, broken oaths,
+        and worse.
+      Bursar: Keeper of the tradition's endowment, its houses and its stipends.
+      Envoy: The tradition's representative to a court or a rival school.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations:
+    sideros: nemesis
+    pyrethos: aligned
+    physera: aligned
 id: 9TzrmYEx7mtdohBV
 shortcode: zepharis
 img: images/affiliation/zepharis.webp
@@ -12,21 +95,13 @@ name:
   full: Zephäris
   aliases: []
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
-    sideros: nemesis
-    pyrethos: aligned
-    physera: aligned
   archetype: null
 thalorna:
   school: air
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Zephäris** is the Eídma of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-sideros|Eídma Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zephäris is the smallest of the six Sodalitates by membership, but its practitioners are disproportionately represented among the Ordo's most subtle and dangerous operatives.
+Eídma **Zephäris** is the Eídma of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-sideros|Eídma Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zephäris is the smallest of the six Sodalitates by membership, but its practitioners are disproportionately represented among the Ordo's most subtle and dangerous operatives.
 
 ## Philosophy
 
@@ -62,7 +137,7 @@ The Sodalitas Zephäris also produces the Ordo's finest illusionists and communi
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-sideros|Eídma Sidéros]] — The opposing Eídma
 - [[affiliation-pyrethos|Eídma Pyréthos]] — Adjacent Eídma (dynamism)
 - [[affiliation-physera|Eídma Physéra]] — Adjacent Eídma (the natural world)

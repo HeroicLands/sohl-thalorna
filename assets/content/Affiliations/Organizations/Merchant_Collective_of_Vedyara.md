@@ -16,12 +16,88 @@ name:
 shortcode: mrchntclctvvdyr
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-magnumclgm
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -31,7 +107,7 @@ folder:
 _Vedyaran: Vyāpārī Sangha — "the Merchants' Assembly"_
 
 - **Type:** Mercantile federation
-- **Region:** All five Vedyaran janapadas — [[doc-chandrapur|Chandrapur]], [[doc-dhnrktjnpd|Dhanurkota]], [[doc-rajaprjnpd|Rajapur]], [[doc-suvrgrjnpd|Suvarnagiri]], and [[affiliation-vyalendra|Vyālendra]] — with caravan stations as far west as Amradad and as far east as the K'ich'chik frontier
+- **Region:** All five Vedyaran janapadas — [[affiliation-chandrapur|Chandrapur]], [[affiliation-dhnrktjnpd|Dhanurkota]], [[affiliation-rajaprjnpd|Rajapur]], [[affiliation-suvrgrjnpd|Suvarnagiri]], and [[affiliation-vyalendra|Vyālendra]] — with caravan stations as far west as Amradad and as far east as the K'ich'chik frontier
 - **Founded:** Traditionally dated to the Third Janapada Compact, four centuries ago
 - **Magnum Collegium status:** Not a member; independent. The [[affiliation-magnumclgm|The Magnum Collegium]] has, for two generations, attempted to negotiate trade-recognition agreements with the Collective; the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has likewise been refused.
 
@@ -61,14 +137,14 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 ## Internal Tensions
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions; the older houses, whose fortunes were built on the present system, resist. The reform faction has not yet found a champion willing to risk his standing.
-- **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[doc-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
-- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[doc-twilighths|The Twilight House]] or the [[Thieves' Guild of Vedyara]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
+- **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[affiliation-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
+- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[Thieves' Guild of Vedyara]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
 
 ## Relations
 
 - **The five janapada rulers** — clients, debtors, occasional opponents. The relationship is one of mutual dependence and mutual resentment.
-- **The [[doc-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
+- **The [[affiliation-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** — limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
 
 ## Identifying Marks
@@ -78,6 +154,6 @@ Kulina-rank members wear a gold pin at the collar in the shape of a balance-scal
 ## Plot Hooks
 
 - **The Mine Collapse.** A major Suvarnagiri silver mine has collapsed; hundreds are trapped or dead. The Collective's Standards Committee finds that safety protocols were violated. The kulina responsible is too senior to expel without fracturing the Collective; the survivors and the families of the dead are organizing for redress that the rulers' courts have shown no interest in providing.
-- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[doc-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public — and without confronting the Twilight House directly.
+- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public — and without confronting the Twilight House directly.
 - **The Reform Petition.** A younger kulina, supported by a coalition of pratisthas and a sympathetic janapada ruler, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits. The Speaker's procedural rulings will determine whether the petition reaches a vote at all.
 - **The Crown's Default.** One of the five janapada rulers has defaulted on his Collective loans and is offering, in lieu of repayment, a permanent grant of mining rights on contested frontier territory. Accepting transforms the Collective from creditor to landholder and inflames every other ruler in the realm.

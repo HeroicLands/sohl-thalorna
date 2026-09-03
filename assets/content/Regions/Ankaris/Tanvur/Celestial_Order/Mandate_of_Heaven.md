@@ -3,7 +3,7 @@ aliases:
   - Mandate of Heaven
 id: Zn84KmMhXmjJnQrQ
 type: lore
-subType: folk
+subType: theology
 name:
   full: Mandate of Heaven
   aliases: []
@@ -13,7 +13,7 @@ folder: hBkQzhJeB05EwziN
 
 # The Mandate of Heaven (Tëngvōr)
 
-The **Mandate of Heaven** is the foundational political and cosmological doctrine of the [[doc-tanvurempr|Empire of Tānvür]]. It is not a divine blessing, not a covenant, not a promise. It is a **cosmic appointment** — the assignment of administrative authority over the mortal plane to the imperial line, issued by the celestial bureaucracy and subject to review.
+The **Mandate of Heaven** is the foundational political and cosmological doctrine of the [[affiliation-tanvurempr|Empire of Tānvür]]. It is not a divine blessing, not a covenant, not a promise. It is a **cosmic appointment** — the assignment of administrative authority over the mortal plane to the imperial line, issued by the celestial bureaucracy and subject to review.
 
 ---
 
@@ -45,24 +45,24 @@ For Western visitors accustomed to cultures that celebrate progress, invention, 
 
 The Mandate underpins the entire legal, political, and spiritual structure of the empire:
 
-**Legal Authority.** The Emperor is the supreme legal authority, the final court of appeal within the mortal administrative system. His decrees are not merely law — they are _administrative directives_ that carry celestial sanction. In practice, the [[doc-zheklung|Warlords]] exercise delegated authority within their territories, but their legitimacy derives from the Emperor's appointment, which derives from the Mandate, which derives from the celestial bureaucracy.
+**Legal Authority.** The Emperor is the supreme legal authority, the final court of appeal within the mortal administrative system. His decrees are not merely law — they are _administrative directives_ that carry celestial sanction. In practice, the [[lore-zheklung|Warlords]] exercise delegated authority within their territories, but their legitimacy derives from the Emperor's appointment, which derives from the Mandate, which derives from the celestial bureaucracy.
 
-**Spiritual Obligation.** The [[doc-zheklung|Zhëklüng]] caste is not merely privileged — it is _burdened_. The imperial family and the Warlords bear the cosmic responsibility of maintaining the classification system within their jurisdictions. Every failure of governance — a famine, a flood, a plague — is an entry against the institutional ledger. The Zhëklüng do not rule because they are superior. They rule because the position was assigned to them, and with the position came the obligation to ensure that the sorted world remains sorted.
+**Spiritual Obligation.** The [[lore-zheklung|Zhëklüng]] caste is not merely privileged — it is _burdened_. The imperial family and the Warlords bear the cosmic responsibility of maintaining the classification system within their jurisdictions. Every failure of governance — a famine, a flood, a plague — is an entry against the institutional ledger. The Zhëklüng do not rule because they are superior. They rule because the position was assigned to them, and with the position came the obligation to ensure that the sorted world remains sorted.
 
-**The Health of the Realm.** The Yātvōr (healers of the [[doc-zathuk|Zāthük]] caste) hold that public health is a direct expression of the Mandate. The body is a microcosm of the classified cosmos — its organs correspond to elements, its meridians to administrative channels. When the Emperor's administration is effective, the population is healthy. When it fails, disease spreads — not as divine punishment, but as a _systemic failure_ propagating from the administrative level to the physical.
+**The Health of the Realm.** The Yātvōr (healers of the [[lore-zathuk|Zāthük]] caste) hold that public health is a direct expression of the Mandate. The body is a microcosm of the classified cosmos — its organs correspond to elements, its meridians to administrative channels. When the Emperor's administration is effective, the population is healthy. When it fails, disease spreads — not as divine punishment, but as a _systemic failure_ propagating from the administrative level to the physical.
 
 ---
 
 ## The Number Nine
 
-The number nine holds deep significance in all ceremonies pertaining to the Emperor and the [[doc-zheklung|Zhëklüng]] caste. Nine is the highest single digit — the fullest expression of quantity before cycling back to unity. It represents the _completeness of classification_, the Great Sorting at its most comprehensive. Imperial audiences convene in nines, ritual offerings are presented in sets of nine, and the celestial calendar marks nine as the number of administrative completion. See [[doc-numerology|Numerology]] for the broader significance of numbers in Tānvür culture.
+The number nine holds deep significance in all ceremonies pertaining to the Emperor and the [[lore-zheklung|Zhëklüng]] caste. Nine is the highest single digit — the fullest expression of quantity before cycling back to unity. It represents the _completeness of classification_, the Great Sorting at its most comprehensive. Imperial audiences convene in nines, ritual offerings are presented in sets of nine, and the celestial calendar marks nine as the number of administrative completion. See [[lore-numerology|Numerology]] for the broader significance of numbers in Tānvür culture.
 
 ---
 
 ## See Also
 
-- [[doc-clstlpnthn|Celestial Pantheon]] — The officials from whom the Mandate derives
-- [[doc-zheklung|Zhëklüng]] — The caste that holds the Mandate
-- [[doc-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy that links the Emperor's health to cosmic balance
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire governed under the Mandate
+- [[lore-clstlpnthn|Celestial Pantheon]] — The officials from whom the Mandate derives
+- [[lore-zheklung|Zhëklüng]] — The caste that holds the Mandate
+- [[lore-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy that links the Emperor's health to cosmic balance
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire governed under the Mandate

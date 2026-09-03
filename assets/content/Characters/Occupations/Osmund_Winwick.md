@@ -3,6 +3,7 @@ aliases:
   - Osmund Winwick
 tags:
   - draft
+  - tradesfolk
 name:
   full: Osmund Winwick
   title: ""
@@ -15,23 +16,27 @@ id: 1jJ8UMHBhXspthdp
 folder: elH5NDPUuiRCICrE
 shortcode: osmndwnwck
 img: icons/person.svg
-portrait: images/being/osmndwnwck-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/osmndwnwck-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler (Supercargo)
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: male
+  species: null
   age: 37
   birthday: 687/3/15
-  height:
-    m: 1.73
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.73
+  weight: 70
+  frame: medium
   appearance:
     eye_color: green
     hair_color: auburn
@@ -39,16 +44,6 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the right hand
-gear:
-  weapons:
-    - Dagger (for self-defense)
-  armor:
-    - Fine clothing suitable for sea travel
-  misc:
-    - Leather satchel for documents
-    - Navigation tools
-    - trade agreements
-    - ledger for accounts
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 32 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

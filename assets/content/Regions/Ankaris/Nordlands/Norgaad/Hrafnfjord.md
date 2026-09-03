@@ -2,23 +2,21 @@
 aliases:
   - Hrafnfjord
 id: xeSkAGJdEwb4NNx6
+tags:
+  - village
+description: "Remote Fjord Village"
 type: place
 subType: settlement
-settlementType: "Remote Fjord Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Hrafnfjord
   aliases: []
 shortcode: hrafnfjord
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 
@@ -34,5 +32,5 @@ The community sustains itself through fishing, hunting seal and whale, and trade
 
 ## See Also
 
-- [[doc-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

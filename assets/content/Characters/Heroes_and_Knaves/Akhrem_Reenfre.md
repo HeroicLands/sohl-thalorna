@@ -4,6 +4,7 @@ aliases:
   - Akhrem Re'en'fré
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Akhrem Re'en'fré
   title: ""
@@ -16,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
 img: icons/person.svg
-portrait: images/being/akhremrnfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/akhremrnfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 38
   birthday: 682/8/6
-  height:
-    m: 1.85
-  weight:
-    kg: 78.9
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 78.9
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the back of the left arm
 sohl:
@@ -570,7 +568,7 @@ sohl:
     - { shortcode: bpchlg, type: containergear }
 ---
 
-**Home:** [[doc-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Per-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -578,7 +576,7 @@ Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black ha
 
 # Dossier {#dossier}
 
-Akhrem was born in the Empire of [[doc-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to **Master Soren**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Soren taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Soren, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Soren grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
 

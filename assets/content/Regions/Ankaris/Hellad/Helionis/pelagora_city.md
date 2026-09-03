@@ -2,25 +2,26 @@
 aliases:
   - Pelagora
 id: zbCX6Tb8noi8LFDF
+tags:
+  - city
+  - naval
+description: "Naval City"
 type: place
 subType: settlement
-settlementType: "Naval City"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - heladrgn
+  population: null
 name:
   full: Pelagora
   aliases: []
 shortcode: pelagora2
-parent:
-  polities:
-    - pelagora
 ---
 
 # Pelagora
 
 ## Overview
 
-_To be written._ Pelagora is the capital and principal settlement of [[doc-pelagora|Pelagora]].
+_To be written._ Pelagora is the capital and principal settlement of [[affiliation-pelagora|Pelagora]].

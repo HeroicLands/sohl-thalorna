@@ -3,21 +3,22 @@ aliases:
   - Solárden
   - Solarden
 id: OXCppoDSENMyNm24
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
-settlementType: "Fortified Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Solárden
   aliases: []
 shortcode: solarden
-parent:
-  polities:
-    - kngdmglvrn
 folder: DB9rgGreD8FtqoBx
 ---
 

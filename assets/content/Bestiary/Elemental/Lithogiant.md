@@ -9,9 +9,30 @@ name:
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."
 id: OBrElkIzfPrZaQbM
 img: icons/game-icons/delapouite/rock-golem.svg
-portrait: images/being/lthgnt-portrait.webp
 shortcode: lthgnt
 type: being
+data:
+  portrait: images/being/lthgnt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: elemental
   archetype: 0

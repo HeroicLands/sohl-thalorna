@@ -5,6 +5,8 @@ aliases:
   - Kjorvan Gjarlen
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Kjôrvan Gjârlen
   title: ""
@@ -16,34 +18,31 @@ id: fCySNaHBQkTfCcF5
 folder: J9R0fnGUTBY5z4pd
 shortcode: kjrvngjrln
 img: icons/person.svg
-portrait: images/being/kjrvngjrln-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/kjrvngjrln-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ostler
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 25
   birthday: 695/4/4
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

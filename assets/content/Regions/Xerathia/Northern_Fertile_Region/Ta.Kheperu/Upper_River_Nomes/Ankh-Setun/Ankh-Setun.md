@@ -3,24 +3,23 @@ aliases:
   - Ankh-Setûn
   - Ankh-Setun
 id: kjeTX8avJnpknuJ3
+tags:
+  - city
+  - capital
+description: "City (Granary Capital)"
 type: place
 subType: settlement
-settlementType: "City (Granary Capital)"
-population: 80000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - takheperurgn
+  population: 80000
 name:
   full: Ankh-Setûn
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: ankhsetun
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomenkhstn
 folder: DCVpoMWDdub9pwDR
 ---
 
@@ -28,7 +27,7 @@ folder: DCVpoMWDdub9pwDR
 
 ## Overview
 
-Ankh-Setûn — "the living storehouse" — is the capital of the empire's [[doc-nomenkhstn|great granary nome]], a substantial inland city set among the richest wheatland in [[doc-empirtkhpr|The Empire of Ta'Kheperu]]. It is a city built around grain: its skyline is a forest of granary-domes, its markets trade in wheat and barley by the boatload, and its busiest halls are the survey-courts and tally-bureaus where the flood-fields are measured and the harvests assessed. Here the [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] holds court — a conservative, land-proud lord whose power rests on the bread he controls — and the great temple of [[affiliation-kemtnpnthn|Má'át]], goddess of order and right measure, presides fittingly over a city whose whole life is survey, tally, and the honest filling of stores. It is not a glamorous place, but it is one of the most important in the empire: when the harvest fails elsewhere, it is Ankh-Setûn's granaries that decide who eats.
+Ankh-Setûn — "the living storehouse" — is the capital of the empire's [[affiliation-nomenkhstn|great granary nome]], a substantial inland city set among the richest wheatland in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. It is a city built around grain: its skyline is a forest of granary-domes, its markets trade in wheat and barley by the boatload, and its busiest halls are the survey-courts and tally-bureaus where the flood-fields are measured and the harvests assessed. Here the [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] holds court — a conservative, land-proud lord whose power rests on the bread he controls — and the great temple of [[affiliation-kemtnpnthn|Má'át]], goddess of order and right measure, presides fittingly over a city whose whole life is survey, tally, and the honest filling of stores. It is not a glamorous place, but it is one of the most important in the empire: when the harvest fails elsewhere, it is Ankh-Setûn's granaries that decide who eats.
 
 ## Notable Features
 
@@ -39,7 +38,7 @@ Ankh-Setûn — "the living storehouse" — is the capital of the empire's [[doc
 
 ## See Also
 
-- [[doc-nomenkhstn|The Nome of Ankh-Setûn]] — Parent nome
-- [[doc-meruhotep|Meru-Hotep]] — The nome's river-port
-- [[doc-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[affiliation-nomenkhstn|The Nome of Ankh-Setûn]] — Parent nome
+- [[place-meruhotep|Meru-Hotep]] — The nome's river-port
+- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview

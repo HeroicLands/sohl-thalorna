@@ -5,6 +5,7 @@ aliases:
   - Padmavali Dhanurvedakirtiraja
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Padmàvali Dhanurvedakīrtirāja
   title: ""
@@ -16,34 +17,31 @@ id: oWXEiRFuiXNLGHa9
 folder: JotxZnnXcTECeYW3
 shortcode: pdmvldhnrvdkrtrj
 img: icons/person.svg
-portrait: images/being/pdmvldhnrvdkrtrj-portrait.webp
 type: being
-thalorna:
-  realm: suvrgrjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/pdmvldhnrvdkrtrj-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - suvrgrjnpd
   gender: female
+  species: null
   age: 31
   birthday: 689/6/19
-  height:
-    m: 1.57
-  weight:
-    kg: 54
-  build:
-    frame: light
+  height: 1.57
+  weight: 54
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

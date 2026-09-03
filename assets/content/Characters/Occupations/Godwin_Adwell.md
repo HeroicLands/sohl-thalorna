@@ -3,6 +3,7 @@ aliases:
   - Godwin Adwell
 tags:
   - draft
+  - common-folk
 name:
   full: Godwin Adwell
   title: ""
@@ -15,39 +16,33 @@ id: ne1WJnLn03ovXjY5
 folder: elH5NDPUuiRCICrE
 shortcode: godwinadwl
 img: icons/person.svg
-portrait: images/being/godwinadwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/godwinadwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 38
   birthday: 682/6/27
-  height:
-    m: 1.85
-  weight:
-    kg: 83
-  build:
-    frame: medium
+  height: 1.85
+  weight: 83
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: gray
     skin_color: pale
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - Shepherd’s staff
-  armor:
-    - Thick woolen coat
-  misc:
-    - Leather satchel
-    - Fleece blankets
-    - shearing tools
-    - cured meats for long trips
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

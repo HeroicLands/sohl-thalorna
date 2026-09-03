@@ -5,6 +5,7 @@ aliases:
   - Muri Tarikh
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Muri Târikh
   title: ""
@@ -16,34 +17,31 @@ id: eKzDzF6fdG1wdtaH
 folder: mtJ4TzKdySHbE2OM
 shortcode: muritarikh
 img: icons/person.svg
-portrait: images/being/muritarikh-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/muritarikh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Caravan Guard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 40
   birthday: 680/4/9
-  height:
-    m: 1.88
-  weight:
-    kg: 85.7
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85.7
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar across the bridge of the nose
 sohl:

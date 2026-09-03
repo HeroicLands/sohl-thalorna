@@ -9,9 +9,30 @@ name:
 description: "A four-foot iridescent-plumed pack predator of dense forests and rocky highlands, aggressively territorial and cunning in its hunts."
 id: Or8DbTmkrdKMEqDi
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/fthrcrst-portrait.webp
 shortcode: fthrcrst
 type: being
+data:
+  portrait: images/being/fthrcrst-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

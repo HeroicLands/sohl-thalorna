@@ -2,24 +2,22 @@
 aliases:
   - Tjebu
 id: MdjcGbF0x3kGbwQx
+tags:
+  - town
+description: "Wine Town"
 type: place
 subType: settlement
-settlementType: "Wine Town"
-population: 12000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - takheperurgn
+  population: 12000
 name:
   full: Tjebu
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tjebu
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomesaunfr
 folder: 9wsmaBsHPmmto2k3
 ---
 
@@ -27,10 +25,10 @@ folder: 9wsmaBsHPmmto2k3
 
 ## Overview
 
-Tjebu is a coastal wine-town among the western vineyards of [[doc-nomesaunfr|Sau-Neferu]], famous out of all proportion to its size for what comes out of its cellars. Its presses and aging-cellars produce the most prized vintages in [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — wines that grace the Per-Aá's table and travel, sealed and named, to the markets of [[doc-midhalnrgn|Mídhalión Region]] — and its little harbor ships them straight down the coast to [[doc-perankhet|Per-Ankhet]] and the export trade. The town is a place of vintners, coopers, and merchant-factors, prosperous and proud, where the year turns on the vintage and a good or bad season is felt in every household. Its labels are jealously guarded, its best slopes worth a fortune, and its wine-merchants reckon themselves a cut above ordinary orchard-folk.
+Tjebu is a coastal wine-town among the western vineyards of [[affiliation-nomesaunfr|Sau-Neferu]], famous out of all proportion to its size for what comes out of its cellars. Its presses and aging-cellars produce the most prized vintages in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — wines that grace the Per-Aá's table and travel, sealed and named, to the markets of [[place-midhalnrgn|Mídhalión Region]] — and its little harbor ships them straight down the coast to [[place-perankhet|Per-Ankhet]] and the export trade. The town is a place of vintners, coopers, and merchant-factors, prosperous and proud, where the year turns on the vintage and a good or bad season is felt in every household. Its labels are jealously guarded, its best slopes worth a fortune, and its wine-merchants reckon themselves a cut above ordinary orchard-folk.
 
 ## See Also
 
-- [[doc-nomesaunfr|The Nome of Sau-Neferu]] — Parent nome
-- [[doc-sau|Sau]] — Nome capital
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[affiliation-nomesaunfr|The Nome of Sau-Neferu]] — Parent nome
+- [[place-sau|Sau]] — Nome capital
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview

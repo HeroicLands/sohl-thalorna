@@ -2,25 +2,25 @@
 aliases:
   - Xik'ul Ch'akal
 id: YNPzMDFOQqc5veZB
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrthrnkchchk
+  population: null
 name:
   full: Xik'ul Ch'akal
   aliases: []
 shortcode: xikulchakl2
-parent:
-  polities:
-    - xikulchakl
 ---
 
 # Xik'ul Ch'akal
 
 ## Overview
 
-_To be written._ Xik'ul Ch'akal is the central city and seat of the [[doc-xikulchakl|Xik'ul Ch'akal]] city-state.
+_To be written._ Xik'ul Ch'akal is the central city and seat of the [[affiliation-xikulchakl|Xik'ul Ch'akal]] city-state.

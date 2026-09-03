@@ -3,6 +3,8 @@ aliases:
   - Oswin Harden
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Oswin Harden
   title: ""
@@ -15,39 +17,33 @@ id: tcozMdant8nXiWqs
 folder: elH5NDPUuiRCICrE
 shortcode: oswinhardn
 img: icons/person.svg
-portrait: images/being/oswinhardn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/oswinhardn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 50
   birthday: 674/3/3
-  height:
-    m: 1.88
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: gray
     skin_color: fair
     complexion: freckled
     extra_features: []
-gear:
-  weapons:
-    - Heavy iron knife
-  armor:
-    - Leather apron
-  misc:
-    - Large wooden barrels for ale
-    - Ledger for bookings
-    - cooking tools
-    - serving dishes
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

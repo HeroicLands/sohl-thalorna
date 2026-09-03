@@ -3,21 +3,21 @@ aliases:
   - Valcèrise
   - Valcerise
 id: UR8xNtWDuaHZdxsJ
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
 name:
   full: Valcèrise
   aliases: []
 shortcode: valcerise
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

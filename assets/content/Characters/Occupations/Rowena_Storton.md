@@ -3,6 +3,8 @@ aliases:
   - Rowena Storton
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Rowena Storton
   title: ""
@@ -15,23 +17,27 @@ id: Ih7yfJs1ON43xKmT
 folder: elH5NDPUuiRCICrE
 shortcode: rowenstrtn
 img: icons/person.svg
-portrait: images/being/rowenstrtn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rowenstrtn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kingdmdnvr
   gender: female
+  species: null
   age: 28
   birthday: 692/9/19
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.7
+  weight: 64
+  frame: light
   appearance:
     eye_color: green
     hair_color: red
@@ -39,16 +45,6 @@ traits:
     complexion: pale
     extra_features:
       - a tattoo of a bird on the forearm
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Thick cloak
-  misc:
-    - Satchel with bird treats
-    - Training rods
-    - bells for birds
-    - journal
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: kingdmdnvr
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

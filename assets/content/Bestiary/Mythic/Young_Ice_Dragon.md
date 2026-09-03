@@ -10,9 +10,30 @@ name:
 description: "A young apex ice-wyrm of high peaks and glaciers, methodical and cold rather than aggressive, mastering the frozen air."
 id: 7ifxZxScmlMHr44B
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/yngicdrg-portrait.webp
 shortcode: yngicdrg
 type: being
+data:
+  portrait: images/being/yngicdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

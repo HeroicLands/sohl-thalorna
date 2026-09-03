@@ -4,6 +4,8 @@ aliases:
   - Ashara Harordas
 tags:
   - draft
+  - guilded
+  - soldiery
 name:
   full: Ashârâ Hârôrdâs
   title: ""
@@ -16,23 +18,27 @@ id: OrXXHFOprCeTsprv
 folder: UFBfgKZUF0bAE7gG
 shortcode: asharhrrds
 img: icons/person.svg
-portrait: images/being/asharhrrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/asharhrrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: guilded
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 34
   birthday: 686/4/8
-  height:
-    m: 1.83
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.83
+  weight: 80
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,16 +46,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
-gear:
-  weapons:
-    - Rapier
-  armor:
-    - Padded fencing jacket
-  misc:
-    - Wooden weapon case
-    - Practice foils
-    - fencing mask
-    - instructional manuals
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

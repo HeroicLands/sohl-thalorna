@@ -19,31 +19,106 @@ founded: Late Republic era (before the Founding)
 shortcode: ordoarcanis
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder: 6Gi1DyUGAYGvWCIo
 ---
 
 # Ordo Arcanis
 
-The **Ordo Arcanis** is the dominant arcane guild of western [[doc-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[doc-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and — if necessary — elimination.
+The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and — if necessary — elimination.
 
-The Ordo predates even the [[doc-vylarinmpr|Vylarian Empire]] itself — it was founded during the days of the Vylarian Republic, making it one of the oldest surviving institutions in western Ankaris. When the Republic became an Empire in Year 1 of the common calendar, the Ordo was already an established power.
+The Ordo predates even the [[affiliation-vylarinmpr|Vylarian Empire]] itself — it was founded during the days of the Vylarian Republic, making it one of the oldest surviving institutions in western Ankaris. When the Republic became an Empire in Year 1 of the common calendar, the Ordo was already an established power.
 
 ## The Age Before the Ordo
 
 Before the founding of the Ordo, magic was practiced in various forms across western Ankaris, and it was ungoverned. The consequences were often catastrophic. Mage-kings and mage-warlords arose with disturbing regularity — arcanists who seized temporal power and wielded magic as a weapon of conquest and coercion. Alchemical disasters poisoned rivers and blighted farmland. Summoning experiments tore holes in the fabric of reality. Seer-cults manipulated succession crises. Rogue necromancers raised armies of the dead. Entire communities were destroyed or transformed by magical experimentation gone wrong. At its worst, a single mage-warlord commanding enough power could threaten the existence of entire kingdoms — the arcane equivalent of a devastating weapon, wielded without restraint or accountability.
 
-The [[doc-helionis|Helionite]] city-states were home to the most sophisticated scholarship in the west — not merely arcane, but in every domain of philosophical inquiry. The **[[affiliation-panepistmm|Panepistemium]]** — a federation of scholars encompassing metaphysics, ethics, logic, natural philosophy, political thought, and the arcane arts — had been the intellectual crown jewel of Helionite civilization since roughly 400 BF. Its College of Arcane Philosophy had developed a rich body of arcane theory, including the foundational concepts of elemental classification and oppositional forces that would eventually become the **The Héx Hodäi (The Six Ways)**. But the Epistemium was an intellectual society, not an enforcement body. It maintained standards through peer reputation and scholarly consensus, and it had no power to prevent individual mages — or individual city-states — from weaponizing the knowledge its arcane college had helped systematize.
+The [[place-helionis|Helionite]] city-states were home to the most sophisticated scholarship in the west — not merely arcane, but in every domain of philosophical inquiry. The **[[affiliation-panepistmm|Panepistemium]]** — a federation of scholars encompassing metaphysics, ethics, logic, natural philosophy, political thought, and the arcane arts — had been the intellectual crown jewel of Helionite civilization since roughly 400 BF. Its College of Arcane Philosophy had developed a rich body of arcane theory, including the foundational concepts of elemental classification and oppositional forces that would eventually become the **The Héx Hodäi (The Six Ways)**. But the Epistemium was an intellectual society, not an enforcement body. It maintained standards through peer reputation and scholarly consensus, and it had no power to prevent individual mages — or individual city-states — from weaponizing the knowledge its arcane college had helped systematize.
 
 ### The Wars of Vylaria and Heliónis
 
-The Vylarian Republic — by 400 BF the dominant military and economic power of the Vylarian Sea — turned its attention to [[doc-helionis|Heliónis]] around 300 BF. The conquest of the Helionite city-states should have been straightforward: the Republic's legions were the finest in western Ankaris, and the Helionite poleis were politically fractured and militarily outmatched in conventional terms.
+The Vylarian Republic — by 400 BF the dominant military and economic power of the Vylarian Sea — turned its attention to [[place-helionis|Heliónis]] around 300 BF. The conquest of the Helionite city-states should have been straightforward: the Republic's legions were the finest in western Ankaris, and the Helionite poleis were politically fractured and militarily outmatched in conventional terms.
 
 But the city-states had mages, and they used them.
 
@@ -100,7 +175,7 @@ The Ordo organizes its members into five formal ranks, each with its own rights,
 
 - **Magistri** (sing. _Magister_) — Masters. The governing rank of the Ordo. A Magister has demonstrated not merely competence but mastery of their discipline, and — just as importantly — the political acumen to navigate the Order's internal politics. Every Magister has a vote in their chapter's council, and every chapter is governed by its council of Magistri. In practice, however, seniority matters enormously. A newly elevated Magister may have a vote, but a Magister who has held the rank for decades, who controls key resources, who has trained a generation of Discipuli — that Magister's voice carries far more weight. The informal gradations of influence among the Magistri are as complex and unwritten as the politics of any royal court.
 
-- **Praelati** (sing. _Praelatus_) — Senior Masters. The highest rank below the Archmagister, the Praelati are the "cardinals" of the Ordo. Each Praelatus holds a seat on the **Concilium Magnum**, the Order's supreme governing body. Not every chapter produces a Praelatus — smaller or less important chapters may have none, while the great chapters of [[doc-provinclys|Alyssa]] and [[doc-helionis|Heliónis]] send several. Elevation to Praelatus is by appointment of the existing Concilium, making it an intensely political process. A Praelatus typically leads their chapter, though not always — some prefer to wield influence from the Concilium without the burden of local administration, and some chapters are led by senior Magistri who lack the political connections (or ambition) to claim a seat on the Concilium.
+- **Praelati** (sing. _Praelatus_) — Senior Masters. The highest rank below the Archmagister, the Praelati are the "cardinals" of the Ordo. Each Praelatus holds a seat on the **Concilium Magnum**, the Order's supreme governing body. Not every chapter produces a Praelatus — smaller or less important chapters may have none, while the great chapters of [[affiliation-provinclys|Alyssa]] and [[place-helionis|Heliónis]] send several. Elevation to Praelatus is by appointment of the existing Concilium, making it an intensely political process. A Praelatus typically leads their chapter, though not always — some prefer to wield influence from the Concilium without the burden of local administration, and some chapters are led by senior Magistri who lack the political connections (or ambition) to claim a seat on the Concilium.
 
 ### The Concilium Magnum
 
@@ -118,7 +193,7 @@ Most chapters are led by a Praelatus, who serves as both the chapter's internal 
 
 At the heart of the Ordo's arcane philosophy is the **Héx Hodäi** — the Six Ways — a classification of all magical phenomena into six fundamental schools. This framework was developed over centuries of research and debate, and it represents the Ordo's deepest understanding of the nature of magic itself.
 
-The six schools are arranged in a hexagonal diagram (the [[doc-hexhodai|The Sigillum]], or Seal):
+The six schools are arranged in a hexagonal diagram (the [[lore-hexhodai|The Sigillum]], or Seal):
 
 - [[affiliation-pyrethos|Pyréthos]] (Fire) — the magic of heat, light, energy, and transformation through destruction
 - [[affiliation-hydalis|Hydälis]] (Water) — the magic of cold, flow, healing, and transformation through adaptation
@@ -200,27 +275,27 @@ The result is that chapter houses function as nodes of quiet influence operating
 
 The Ordo operates through regional chapters established in every significant city and territory within its sphere of influence. The strength of these chapters varies enormously by region:
 
-- **[[doc-provinclys|Alyssa]]:** The Ordo's headquarters. Maximum strength and influence. The Concilium Magnum meets here.
-- **[[doc-helionis|Heliónis]]:** Deeply rooted — the intellectual birthplace of the Ordo. Among the most prestigious chapters, with the finest libraries and scholars. Negotiated autonomy for local philosophical-magical traditions; the Quaesitorium treads carefully here.
-- **[[doc-provincvld|Vald]] and [[doc-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
-- **[[doc-provncmktr|Moktur]]:** Limited presence; the frontier military governors tolerate the Ordo but don't prioritize its agenda.
-- **[[doc-provenzrgn|Provènzia Region]]:** Present but operating under royal oversight — mages answer to the Provenzian crown as well as to the Ordo.
-- **[[doc-cnfdrtnhrdnstts|Harad]]:** Active but politically constrained. The merchant guilds view the Ordo as a tool of Vylarian influence and have placed restrictions on its activities.
-- **[[doc-tarvenirgn|Tarvénia Region]]:** Minimal presence. A handful of chapters in major cities, operating cautiously in a culture deeply hostile to institutional magic.
-- **[[doc-elavendre|Élavendre]]:** Substantial urban presence centered on the **University of Béravel** — the largest Epistemium campus outside Vylaria, with multiple Sodalitas chapterhouses in residence. The Ordo wields considerable influence in the capital and major towns, rivaling or exceeding the Bardic Circle and Grove Council. Outside the cities, however, the Ordo's reach is fiercely contested by traditional institutions and the Áelendan Wardens, and its agents who probe the fae-touched interior do so at genuine personal risk.
-- **[[doc-kngdmnrdhm|Kingdom of Nordheim]] and the Normen kingdoms:** No presence. The Normen have their own völvur traditions and no interest in southern magical bureaucracy.
-- **[[doc-byzariargn|Byzaría Region]]:** Small but growing. The League's commercial interests create demand for Ordo services.
+- **[[affiliation-provinclys|Alyssa]]:** The Ordo's headquarters. Maximum strength and influence. The Concilium Magnum meets here.
+- **[[place-helionis|Heliónis]]:** Deeply rooted — the intellectual birthplace of the Ordo. Among the most prestigious chapters, with the finest libraries and scholars. Negotiated autonomy for local philosophical-magical traditions; the Quaesitorium treads carefully here.
+- **[[affiliation-provincvld|Vald]] and [[affiliation-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
+- **[[affiliation-provncmktr|Moktur]]:** Limited presence; the frontier military governors tolerate the Ordo but don't prioritize its agenda.
+- **[[place-provenzrgn|Provènzia Region]]:** Present but operating under royal oversight — mages answer to the Provenzian crown as well as to the Ordo.
+- **[[affiliation-cnfdrtnhrdnstts|Harad]]:** Active but politically constrained. The merchant guilds view the Ordo as a tool of Vylarian influence and have placed restrictions on its activities.
+- **[[place-tarvenirgn|Tarvénia Region]]:** Minimal presence. A handful of chapters in major cities, operating cautiously in a culture deeply hostile to institutional magic.
+- **[[place-elavendre|Élavendre]]:** Substantial urban presence centered on the **University of Béravel** — the largest Epistemium campus outside Vylaria, with multiple Sodalitas chapterhouses in residence. The Ordo wields considerable influence in the capital and major towns, rivaling or exceeding the Bardic Circle and Grove Council. Outside the cities, however, the Ordo's reach is fiercely contested by traditional institutions and the Áelendan Wardens, and its agents who probe the fae-touched interior do so at genuine personal risk.
+- **[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Normen kingdoms:** No presence. The Normen have their own völvur traditions and no interest in southern magical bureaucracy.
+- **[[place-byzariargn|Byzaría Region]]:** Small but growing. The League's commercial interests create demand for Ordo services.
 
 ### Beyond Western Ankaris
 
 The Ordo has attempted to extend its influence across the rest of Thalorna with varying degrees of success. It frames these efforts as partnerships — offering expertise, magical services, and the prestige of association with the most powerful arcane institution in the west. In practice, the Ordo is seeking footholds from which to expand its monopoly, and most foreign powers understand this perfectly well.
 
-- **[[doc-empirtkhpr|The Empire of Ta'Kheperu]]:** The Kheperi tolerate the Ordo's presence but strictly control it. Ordo agents operate under close surveillance — agents of the Per-Aá's court shadow them to ensure they do not overstep their bounds. The Kheperi priestly-magical establishment is older, more deeply rooted, and more powerful within its own borders than the Ordo, and it has no intention of ceding any authority. The Ordo chafes at these restrictions but has no leverage to change them.
-- **[[doc-tanvurempr|Tānvür]]:** The Ordo is all but forbidden. Its members are confined to diplomatic enclaves — essentially embassy compounds — and are prohibited on pain of death from practicing magic outside these walls. Tānvür's own arcane traditions are sophisticated and ancient, and the imperial court views the Ordo as a foreign intelligence service wearing scholarly robes. The Ordo maintains its enclaves primarily for intelligence-gathering and as a token of diplomatic presence, not because it has any real power there.
-- **[[doc-dunharargn|Dunhara Region]] and the [[doc-khzryndsrtrgn|Khazryn Desert Region]]:** Minimal presence. The desert peoples have their own traditions and no centralized authority for the Ordo to negotiate with. Individual Ordo agents sometimes travel the caravan routes, but they operate at their own risk.
-- **[[doc-vedyarargn|Vedyara Region]]:** Limited but growing. The fragmented political landscape of the Vedyaran states gives the Ordo opportunities to establish relationships with individual rulers, offering magical services in exchange for recognition. Some states welcome the Ordo; others view it with deep suspicion.
-- **[[doc-kalihara|Kalihara]]:** No presence. The island confederation is too remote and too self-sufficient to have attracted serious Ordo attention.
-- **[[doc-mtrrchybth|Bethua]]:** No presence. The Matriarchy has its own magical traditions and no interest in western institutions.
+- **[[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]:** The Kheperi tolerate the Ordo's presence but strictly control it. Ordo agents operate under close surveillance — agents of the Per-Aá's court shadow them to ensure they do not overstep their bounds. The Kheperi priestly-magical establishment is older, more deeply rooted, and more powerful within its own borders than the Ordo, and it has no intention of ceding any authority. The Ordo chafes at these restrictions but has no leverage to change them.
+- **[[affiliation-tanvurempr|Tānvür]]:** The Ordo is all but forbidden. Its members are confined to diplomatic enclaves — essentially embassy compounds — and are prohibited on pain of death from practicing magic outside these walls. Tānvür's own arcane traditions are sophisticated and ancient, and the imperial court views the Ordo as a foreign intelligence service wearing scholarly robes. The Ordo maintains its enclaves primarily for intelligence-gathering and as a token of diplomatic presence, not because it has any real power there.
+- **[[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]]:** Minimal presence. The desert peoples have their own traditions and no centralized authority for the Ordo to negotiate with. Individual Ordo agents sometimes travel the caravan routes, but they operate at their own risk.
+- **[[place-vedyarargn|Vedyara Region]]:** Limited but growing. The fragmented political landscape of the Vedyaran states gives the Ordo opportunities to establish relationships with individual rulers, offering magical services in exchange for recognition. Some states welcome the Ordo; others view it with deep suspicion.
+- **[[affiliation-kalihara|Kalihara]]:** No presence. The island confederation is too remote and too self-sufficient to have attracted serious Ordo attention.
+- **[[affiliation-mtrrchybth|Bethua]]:** No presence. The Matriarchy has its own magical traditions and no interest in western institutions.
 
 ## The Quaesitorium
 
@@ -256,7 +331,7 @@ What the shrewdest minds within the Ordo have begun to recognize — even if the
 
 ## Relationship with the Vylarian Court
 
-The Ordo and the [[doc-vylarinmpr|Vylarian]] state have been intertwined since the Order's founding. The relationship is symbiotic but deeply complicated — a partnership of mutual dependence between two institutions that need each other, use each other, and do not entirely trust each other.
+The Ordo and the [[affiliation-vylarinmpr|Vylarian]] state have been intertwined since the Order's founding. The relationship is symbiotic but deeply complicated — a partnership of mutual dependence between two institutions that need each other, use each other, and do not entirely trust each other.
 
 ### The Ordo as Imperial Instrument
 
@@ -272,9 +347,9 @@ The Ordo, for its part, is not naive about this. The Quaesitorium's intelligence
 
 ### The Decline Problem — and the Opportunity
 
-The current political situation has strained the Ordo-Empire arrangement to its limits. As the Empire weakens, the Ordo's ability to project power through imperial channels diminishes. Former provinces like [[doc-provenzrgn|Provènzia Region]], [[doc-tarvenirgn|Tarvénia Region]], and [[doc-cnfdrtnhrdnstts|Harad]] no longer accept Vylarian authority, and the Ordo's chapters in those regions must negotiate their own terms with local powers.
+The current political situation has strained the Ordo-Empire arrangement to its limits. As the Empire weakens, the Ordo's ability to project power through imperial channels diminishes. Former provinces like [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], and [[affiliation-cnfdrtnhrdnstts|Harad]] no longer accept Vylarian authority, and the Ordo's chapters in those regions must negotiate their own terms with local powers.
 
-But this is not simply a crisis — it is also, for certain factions within the Ordo, an opportunity. The Empire's decline forces the Ordo to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In [[doc-provenzrgn|Provènzia Region]], the Ordo operates under royal oversight — but it operates, and the Provenzian crown has come to depend on its services. In [[doc-cnfdrtnhrdnstts|Harad]], the merchant guilds restrict the Ordo's activities — but they also hire its mages. Even in [[doc-tarvenirgn|Tarvénia Region]], where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Ordo academies rather than let their talents go untrained.
+But this is not simply a crisis — it is also, for certain factions within the Ordo, an opportunity. The Empire's decline forces the Ordo to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In [[place-provenzrgn|Provènzia Region]], the Ordo operates under royal oversight — but it operates, and the Provenzian crown has come to depend on its services. In [[affiliation-cnfdrtnhrdnstts|Harad]], the merchant guilds restrict the Ordo's activities — but they also hire its mages. Even in [[place-tarvenirgn|Tarvénia Region]], where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Ordo academies rather than let their talents go untrained.
 
 The pattern is unmistakable to anyone willing to see it: the Ordo is becoming a cross-realm institution, one whose authority derives not from any single state but from its monopoly on essential services. Just as the common calendar still reckons from the founding of the Empire even in lands that no longer obey the Emperor, so the Ordo's standards, its training, its certifications, and its prohibitions are becoming the shared framework of arcane practice across western Ankaris — a framework that will persist regardless of what happens to the Vylarian throne.
 
@@ -289,9 +364,9 @@ The Ordo hunts the siblings through its preferred channels: Vylarian imperial ag
 ## See Also
 
 - [[affiliation-panepistmm|Panepistemium]] — Parent institution; the Ordo is technically the College of Arcane Philosophy within the Epistemium
-- [[doc-vylarinmpr|Vylarian Empire]] — Primary political patron
-- [[doc-provinclys|Province of Alyssa]] — Headquarters location
-- [[doc-helionis|Heliónis]] — Birthplace of the Panepistemium; complicated coexistence with local traditions
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Contested territory, complicated by post-independence politics
-- [[doc-elavendre|Élavendre]] — No presence; rival druidic tradition
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — No presence; older and more powerful magical establishment
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Primary political patron
+- [[affiliation-provinclys|Province of Alyssa]] — Headquarters location
+- [[place-helionis|Heliónis]] — Birthplace of the Panepistemium; complicated coexistence with local traditions
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Contested territory, complicated by post-independence politics
+- [[place-elavendre|Élavendre]] — No presence; rival druidic tradition
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — No presence; older and more powerful magical establishment

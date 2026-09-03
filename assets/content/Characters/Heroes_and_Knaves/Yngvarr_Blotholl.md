@@ -5,6 +5,7 @@ aliases:
   - Yngvarr Blotholl
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Yngvarr Blóthǫll
   title: ""
@@ -16,29 +17,26 @@ id: kIbWnNYsUS07Rw5e
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrblthl
 img: icons/person.svg
-portrait: images/being/yngvrblthl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/yngvrblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jester
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 30
   birthday: 690/3/15
-  height:
-    m: 1.7
-  weight:
-    kg: 64.9
-  build:
-    frame: light
+  height: 1.7
+  weight: 64.9
+  frame: light
   appearance:
     eye_color: blue
     hair_color: red

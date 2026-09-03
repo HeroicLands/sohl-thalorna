@@ -19,12 +19,93 @@ name:
 shortcode: blackledgr
 type: affiliation
 subType: criminal
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: autocracy
+    summary: >-
+      A boss whose word is the organisation's only law, held for exactly as long as it is
+      feared.
+    ranks:
+      - level: 0
+        title: Marked
+        lore: outlawrnk
+        description: Named for killing, and every member who meets them is expected to try.
+      - level: 1
+        title: Hanger-on
+        lore: dependentrnk
+        description: >-
+          Around the organisation and useful to it — a doorman, a runner, a girl in a house
+          — and told nothing.
+      - level: 2
+        title: Associate
+        lore: swornmemberrnk
+        description: >-
+          Working for the organisation without being of it: paid for jobs, and disposable between
+          them.
+      - level: 3
+        title: Made Member
+        lore: swornmemberrnk
+        description: >-
+          Sworn in and under the organisation's protection, owing it obedience and a cut of
+          everything.
+      - level: 4
+        title: Earner
+        lore: earnerrnk
+        description: >-
+          Running a business of the organisation's — a racket, a route, a house — and paying
+          up from it.
+      - level: 5
+        title: Enforcer
+        lore: enforcerrnk
+        description: >-
+          Charged with what the organisation collects by fear, and with what it does when fear
+          fails.
+      - level: 6
+        title: Crew Boss
+        lore: commanderrnk
+        description: Holding a crew and a territory, answerable for both and for what they bring
+          in.
+      - level: 7
+        title: Underboss
+        lore: underbossrnk
+        description: >-
+          Second in the organisation, running it day to day and standing between the boss and
+          everyone else.
+      - level: 8
+        title: Boss
+        lore: grandmasterrnk
+        description: >-
+          Head of the organisation, whose word is its only law and whose position lasts exactly
+          as long as it is feared.
+    offices:
+      Boss: Head of the organisation, whose word is its law for as long as it is feared.
+      Underboss: >-
+        Second, running the organisation day to day and standing between the boss and everyone
+        else.
+      Counsellor: Adviser to the boss, holding no crew and no territory and more influence
+        than either.
+      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
+      Enforcer: Collector by fear, and executor of what follows when fear fails.
+      Fence: Buyer and mover of what the organisation takes, and its most closely held connection.
+      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
+      Treasurer: >-
+        Keeper of the organisation's money — its cuts, its bribes, its reserve, and where
+        all three are.
+      Master of Lookouts: Runner of the network of eyes on which every operation depends.
+      Courier: Carrier of what may not be written, between people who may not meet.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -32,7 +113,7 @@ folder:
 # The Black Ledger
 
 - **Type:** Underground professional network
-- **Region:** [[doc-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
+- **Region:** [[place-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
 - **Founded:** Informal in origin, perhaps two centuries old; never chartered
 
 ## Overview
@@ -57,7 +138,7 @@ Among working members, the principal informal distinction is between **cartograp
 ## Practice and Specialties
 
 - **Espionage cartography.** Detailed maps of fortifications, garrison positions, supply lines, and naval bases — produced for sale to foreign powers or to interested parties within the League itself.
-- **Smuggling charts.** Hidden coves, unpatrolled routes, secure storage locations, the timing of customs patrols. Standard product for the [[doc-crmsyndctsthlrn|crime syndicates]] and for any merchant lord with cargo that prefers not to be inspected.
+- **Smuggling charts.** Hidden coves, unpatrolled routes, secure storage locations, the timing of customs patrols. Standard product for the [[affiliation-crmsyndctsthlrn|crime syndicates]] and for any merchant lord with cargo that prefers not to be inspected.
 - **Forbidden territory.** Maps of regions that legitimate cartographers refuse on grounds of danger, taboo, or political sensitivity. Includes fae-touched lands in Élavendre, Helspawn-incursion zones in eastern Vrystwald, and contested frontier territories where any official mapping would constitute a political claim.
 - **The Cursed Maps.** A small specialty within the Ledger: maps commissioned by patrons who suspect the territory itself responds to being mapped. Cartographers who accept these commissions report consistent psychological effects — vivid dreams, premonitions, the sense of being watched by the territory itself. Most Ledger members refuse this work. Those who accept charge accordingly.
 - **Counterfeit guild maps.** Maps deliberately produced to be passed off as the work of named guild masters, complete with forged seals. The riskiest of all Ledger work, since it directly attacks the institution most of its members also belong to.
@@ -65,8 +146,8 @@ Among working members, the principal informal distinction is between **cartograp
 ## Relations
 
 - **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]** — parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — major clients. The [[affiliation-velvethand|Velvet Hand]] buys document specialists; the [[affiliation-crimsnldgr|Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; the [[affiliation-theashroad|Ash Road]] buys desert and caravan charts; the Theft Syndicate of the Eastern Docks buys city-interior surveys.
-- **Foreign powers** — Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[doc-khzrncnfdrtn|Khazryn Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — major clients. The [[affiliation-velvethand|Velvet Hand]] buys document specialists; the [[affiliation-crimsnldgr|Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; the [[affiliation-theashroad|Ash Road]] buys desert and caravan charts; the Theft Syndicate of the Eastern Docks buys city-interior surveys.
+- **Foreign powers** — Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
 - **The League's City Guard** — the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.
 
 ## Identifying Marks

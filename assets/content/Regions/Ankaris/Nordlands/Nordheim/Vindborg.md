@@ -2,23 +2,22 @@
 aliases:
   - Vindborg
 id: 7XxnqkgQlwHbZvb8
+tags:
+  - fortress
+  - hill
+description: "Hill Fort"
 type: place
 subType: settlement
-settlementType: "Hill Fort"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Vindborg
   aliases: []
 shortcode: vindborg
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

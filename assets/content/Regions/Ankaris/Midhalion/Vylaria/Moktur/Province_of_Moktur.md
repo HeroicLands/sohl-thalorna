@@ -9,37 +9,118 @@ name:
   aliases: []
 shortcode: provncmktr
 subType: polity
-demonym: Vylarian
-capital: tyrellan
-population: "~2,000,000"
-government:
-  type: province
-  summary: Frontier/military province of the Vylarian Empire, governed by an imperial appointee.
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Vylarian
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: Frontier/military province of the Vylarian Empire, governed by an imperial appointee.
+    ranks:
+      - level: 0
+        title: Proscribed
+        lore: excmmnctrnk
+        description: >-
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
+          collects it.
+      - level: 1
+        title: Slave
+        lore: slavernk
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        lore: freedmanrnk
+        description: Manumitted, and in the imperial household often far more powerful than
+          the rank suggests.
+      - level: 3
+        title: Peregrine
+        lore: rsdntlnrnk
+        description: >-
+          A provincial living under imperial authority without the citizenship — the great majority
+          of the empire's people.
+      - level: 4
+        title: Citizen
+        lore: citizenrnk
+        description: >-
+          Holding the citizenship by birth, grant or service, with its protections at law and
+          its liability to its taxes.
+      - level: 5
+        title: Equestrian
+        lore: landedlordrnk
+        description: >-
+          Of the propertied order from which the prefectures, the procuratorships and the great
+          commands are filled.
+      - level: 6
+        title: Senator
+        lore: councillorrnk
+        description: >-
+          Of the senatorial families, holding a seat for life and the empire's highest civil
+          offices with it.
+      - level: 7
+        title: Consular
+        lore: highpriestrnk
+        description: Having held the consulship, and eligible thereafter for the greatest provincial
+          commands.
+      - level: 8
+        title: Governor
+        lore: magistraternk
+        description: >-
+          Holding the province for the emperor, commanding its garrison and its courts, and
+          answerable to him alone.
+    offices:
+      Governor: >-
+        Holder of the province in the emperor's name, commanding its garrison, its revenue
+        and its courts.
+      Legate: Commander of the legion stationed in the province, and the governor's deputy
+        in the field.
+      Procurator: >-
+        Officer of the imperial revenue within the province, reporting past the governor to
+        the emperor.
+      Quaestor: Officer of the provincial treasury and of its accounts.
+      Prefect of the Watch: Commander of the province's urban cohorts and keeper of its peace.
+      Curator of the Roads: Warden of the imperial roads, their posts, their bridges and the
+        levy that maintains them.
+      Duumvir: One of the two annually elected chief magistrates of a chartered town within
+        the province.
+      Decurion: Member of a town's council, liable in his own person for the taxes it owes.
+      Flamen: >-
+        Priest of the provincial cult, presiding over the rites that bind the province to
+        the capital.
+  commonSkills:
+    - vylarilng
+  seat: tyrellan
+  domains:
     - vylariargn
-  polities:
+  population: 2000000
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  lore:
+    - humanflk
+  parents:
     - vylarinmpr
+  relations:
+    arldnpnthn: aligned
+sohl:
+  archetype: null
 folder: WSdLuPc7BaRqxNEt
 ---
 
 ## Overview
 
-Moktur is the empire's northern shield — a mountainous province bordering the [[doc-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction.
+Moktur is the empire's northern shield — a mountainous province bordering the [[place-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction.
 
 ## Character
 
 Moktur is the most martial province of the empire. Life here is harder, colder, and more dangerous than in the southern provinces. The settlements are fortified — even market towns have walls and watchtowers. The population is smaller and more spread out, clustered in mountain valleys and along the fortified roads that connect frontier garrisons.
 
-The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[doc-provinclys|Alyssa]] and [[doc-provnchyln|Hylen]]. Military service is not just honored — it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.
+The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service is not just honored — it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.
 
-The frontier with [[doc-vrystwald|Vrystwald]] is not a clean line. There are Varokh communities within Moktur's nominal borders, and some Mokturan border lords have more in common with the barbarian chiefs across the line than with the senators in the capital. Intermarriage, trade, and occasional truces create a complex border culture that neither side fully controls.
+The frontier with [[place-vrystwald|Vrystwald]] is not a clean line. There are Varokh communities within Moktur's nominal borders, and some Mokturan border lords have more in common with the barbarian chiefs across the line than with the senators in the capital. Intermarriage, trade, and occasional truces create a complex border culture that neither side fully controls.
 
 ## Economy
 
@@ -58,13 +139,13 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 
 **Towns.**
 
-- **[[doc-tyrellan|Tyrellan]]** (~15,000) — the provincial capital, seat of the military governor.
-- **[[doc-ferrovan|Ferrovan]]** (~7,000) — the chief mining town, above the iron, copper, and silver lodes.
-- **[[doc-castrovar|Castrovar]]** (~6,000) — a legion fortress-town on the Vrystwald frontier.
-- **[[doc-korrast|Korrast]]** (~5,000) — a fortified toll-town commanding a principal mountain pass.
-- **[[doc-stennvold|Stennvold]]** (~4,000) — a high mining-and-smelting town.
-- **[[doc-pinnhald|Pinnhald]]** (~3,000) — a timber town of the forested slopes, half-Varokh in custom.
-- **[[doc-sanctara|Sanctara]]** (~2,000) — a temple town among the heights.
+- **[[place-tyrellan|Tyrellan]]** (~15,000) — the provincial capital, seat of the military governor.
+- **[[place-ferrovan|Ferrovan]]** (~7,000) — the chief mining town, above the iron, copper, and silver lodes.
+- **[[place-castrovar|Castrovar]]** (~6,000) — a legion fortress-town on the Vrystwald frontier.
+- **[[place-korrast|Korrast]]** (~5,000) — a fortified toll-town commanding a principal mountain pass.
+- **[[place-stennvold|Stennvold]]** (~4,000) — a high mining-and-smelting town.
+- **[[place-pinnhald|Pinnhald]]** (~3,000) — a timber town of the forested slopes, half-Varokh in custom.
+- **[[place-sanctara|Sanctara]]** (~2,000) — a temple town among the heights.
 
 **Hamlets, camps, and border communities.** Between the towns lie scattered settlements of 100–800 — fortified herding steads, mining and cutting camps, watchtower-villages, and the Varokh communities that sit within Moktur's nominal borders but answer to no Vylarian magistrate. Among them: Greythorn, Ironcamp, Skarrholt, Vargmoot, Highfell, Drekkar's Steading, Wolfstead, Coldreach, and Stennvik — several more Varokh than Vylarian in tongue and custom. Moktur is thinly peopled by the empire's standards; its mountains hold far more sheep, ore, and timber than men.
 
@@ -74,10 +155,10 @@ Moktur is the wild end of the empire: mountains, forested hills, fast cold river
 
 ## Commerce and Currency
 
-Province of Moktur uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Parent polity
-- [[doc-vrystwald|Vrystwald]] — Northern frontier threat
-- [[doc-provinclys|Province of Alyssa]], [[doc-provnchyln|Province of Hylen]], [[doc-provincvld|Province of Vald]] — Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Parent polity
+- [[place-vrystwald|Vrystwald]] — Northern frontier threat
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]] — Sister provinces

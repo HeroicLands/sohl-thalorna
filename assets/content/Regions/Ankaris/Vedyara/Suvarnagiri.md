@@ -3,22 +3,21 @@ aliases:
   - Suvarṇagiri
   - Suvarnagiri
 id: q5KssAIUA8eYcX2L
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vedyarargn
+  population: null
 name:
   full: Suvarṇagiri
   aliases: []
 shortcode: suvaragiri
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - suvrgrjnpd
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

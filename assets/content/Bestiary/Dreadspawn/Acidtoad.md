@@ -9,9 +9,30 @@ name:
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
 id: ho5hsRAglADOtInP
 img: icons/game-icons/lorc/toad-teeth.svg
-portrait: images/being/acidtoad-portrait.webp
 shortcode: acidtoad
 type: being
+data:
+  portrait: images/being/acidtoad-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

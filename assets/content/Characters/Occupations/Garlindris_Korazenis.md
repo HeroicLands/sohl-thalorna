@@ -4,6 +4,7 @@ aliases:
   - Garlindris Korazenis
 tags:
   - draft
+  - administration
 name:
   full: Garlîndris Korâzênis
   title: ""
@@ -16,23 +17,27 @@ id: 1FNA88rcSxnCC8p2
 folder: UFBfgKZUF0bAE7gG
 shortcode: grlndrskrzns
 img: icons/person.svg
-portrait: images/being/grlndrskrzns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/grlndrskrzns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 45
   birthday: 675/10/3
-  height:
-    m: 1.75
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.75
+  weight: 73
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a lion on the thigh
-gear:
-  weapons:
-    - Ceremonial mace
-  armor:
-    - Embroidered tunic bearing his family’s coat of arms
-  misc:
-    - Leather satchel for scrolls
-    - Scrolls of announcements
-    - family signet ring
-    - writing quill
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

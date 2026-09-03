@@ -5,6 +5,7 @@ aliases:
   - Photianos Strategopoulos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Phótianos Stratégopoulos
   title: ""
@@ -16,29 +17,26 @@ id: ZEGtH5NEBaA6gzHw
 folder: b81DHx3S7C9ep13E
 shortcode: phtnstrtgpls
 img: icons/person.svg
-portrait: images/being/phtnstrtgpls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/phtnstrtgpls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 60
   birthday: 660/12/1
-  height:
-    m: 1.73
-  weight:
-    kg: 64.4
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 64.4
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: gray

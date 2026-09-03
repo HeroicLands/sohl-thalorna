@@ -1,25 +1,24 @@
 ---
 tags:
   - draft
+  - town
 aliases:
   - Ashíra
   - Ashira
 id: Wbuh7YBC3fe4JG9m
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - okharclng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - bethuargn
+  population: null
 name:
   full: Ashíra
   aliases: []
 shortcode: ashira
-parent:
-  polities:
-    - mtrrchybth
 folder: Y64e5NGsp8OwZ6xQ
 ---
 

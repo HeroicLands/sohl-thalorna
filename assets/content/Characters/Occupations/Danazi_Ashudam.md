@@ -4,6 +4,7 @@ aliases:
   - Danazi Ashudam
 tags:
   - draft
+  - soldiery
 name:
   full: Dânâzi Ashûdam
   title: ""
@@ -16,23 +17,27 @@ id: RpF6LjoDOqDqQa5Z
 folder: PuQFDMkRM9i60i5Z
 shortcode: danazishdm
 img: icons/person.svg
-portrait: images/being/danazishdm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/danazishdm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gladiator
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 29
   birthday: 691/5/10
-  height:
-    m: 1.85
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the right upper arm
-gear:
-  weapons:
-    - Pair of curved daggers
-  armor:
-    - Light leather armor
-  misc:
-    - Small leather satchel
-    - Throwing knives
-    - wrist wraps
-    - cloak
 sohl:
   archetype: null
   body:
@@ -523,12 +518,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

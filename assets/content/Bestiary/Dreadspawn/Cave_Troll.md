@@ -9,9 +9,30 @@ name:
 description: "A slow-witted but devastating cavern apex predator that hunts in absolute darkness using senses far keener than any humanoid's."
 id: LLdlPmp4JmXGcj1o
 img: icons/game-icons/skoll/troll.svg
-portrait: images/being/cvtrll-portrait.webp
 shortcode: cvtrll
 type: being
+data:
+  portrait: images/being/cvtrll-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

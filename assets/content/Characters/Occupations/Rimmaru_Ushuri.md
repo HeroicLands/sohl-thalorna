@@ -4,6 +4,7 @@ aliases:
   - Rimmaru Ushuri
 tags:
   - draft
+  - tradesfolk
 name:
   full: Rimmârû Ushûrî
   title: ""
@@ -16,23 +17,27 @@ id: NU5Mv17Kc03bfc8P
 folder: PuQFDMkRM9i60i5Z
 shortcode: rimarushur
 img: icons/person.svg
-portrait: images/being/rimarushur-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rimarushur-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: noble
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - landedlordrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 30
   birthday: 694/3/18
-  height:
-    m: 1.8
-  weight:
-    kg: 71
-  build:
-    frame: light
+  height: 1.8
+  weight: 71
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -40,15 +45,6 @@ traits:
     complexion: sun_kissed
     extra_features:
       - a scar on the neck
-gear:
-  weapons: []
-  armor:
-    - Elegant clothing suitable for the shop
-  misc:
-    - Beautiful glass bottles for perfumes
-    - Scent samples
-    - blending tools
-    - herb garden for ingredients
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 18 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

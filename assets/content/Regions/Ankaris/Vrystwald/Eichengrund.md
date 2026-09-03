@@ -2,21 +2,22 @@
 aliases:
   - Eichengrund
 id: IdfMspBEVKOe4Jje
+tags:
+  - village
+  - woodland
+description: "Woodland Village"
 type: place
 subType: settlement
-settlementType: "Woodland Village"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vrystwald
+  population: null
 name:
   full: Eichengrund
   aliases: []
 shortcode: eichengrnd
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

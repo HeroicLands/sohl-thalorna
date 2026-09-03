@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Neferet Imi-Ra
   title: ""
@@ -17,34 +19,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
 img: icons/person.svg
-portrait: images/being/neferetimr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/neferetimr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/5/9
-  height:
-    m: 1.68
-  weight:
-    kg: 65.8
-  build:
-    frame: light
+  height: 1.68
+  weight: 65.8
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -561,7 +560,7 @@ sohl:
     - { shortcode: bglgcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -569,7 +568,7 @@ Neferet stands 5'6\" tall with a light build. He has deep brown skin, tightly cu
 
 # Dossier {#dossier}
 
-Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[doc-empirtkhpr|Ta’Kheperu]]** in Zerula, renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
+Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[affiliation-empirtkhpr|Ta’Kheperu]]** in Zerula, renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
 
 Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 

@@ -3,22 +3,22 @@ aliases:
   - Míravel
   - Miravel
 id: iijF0jFCjTiDjPQA
+tags:
+  - town
+  - merchant
+description: "Merchant Town"
 type: place
 subType: settlement
-settlementType: "Merchant Town"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - haradregin
+  population: null
 name:
   full: Míravel
   aliases: []
 shortcode: miravel
-parent:
-  polities:
-    - varoshan
 folder: umL4KFGO3MD4u9X1
 ---
 

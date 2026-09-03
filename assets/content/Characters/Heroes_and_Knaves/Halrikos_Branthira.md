@@ -5,6 +5,8 @@ aliases:
   - Halrikos Branthira
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Hálrikos Bránthira
   title: ""
@@ -16,29 +18,26 @@ id: emuJyRdRzH4YsiI3
 folder: 9t9O4iB5cYJtSaTG
 shortcode: hlrksbrnthr
 img: icons/person.svg
-portrait: images/being/hlrksbrnthr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/hlrksbrnthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 53
   birthday: 667/4/16
-  height:
-    m: 1.63
-  weight:
-    kg: 56.2
-  build:
-    frame: medium
+  height: 1.63
+  weight: 56.2
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: graying_black

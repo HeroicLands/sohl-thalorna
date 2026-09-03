@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Layla Marut
   title: ""
@@ -16,34 +18,31 @@ id: suoA7Rl4e1TOlo6L
 folder: pRBSOhf2qVrV1SQB
 shortcode: laylamarut
 img: icons/person.svg
-portrait: images/being/laylamarut-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/laylamarut-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 26
   birthday: 694/1/4
-  height:
-    m: 1.68
-  weight:
-    kg: 59
-  build:
-    frame: light
+  height: 1.68
+  weight: 59
+  frame: light
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -560,7 +559,7 @@ Layla stands 5'6" tall with a light build. She has light golden skin, dark brown
 
 # Dossier {#dossier}
 
-Layla Marut is the eldest daughter — and heir-presumptive — of **House Marut**, a prosperous Lesser House of the [[affiliation-bthntrdhss|Bethûan Trade-Houses]], whose trade reaches from the orchard-ports of the [[doc-mtrrchybth|Bethûan]] coast across the [[doc-vylarianse|Vylarian Sea]] to [[doc-empirtkhpr|Ta'Kheperu]] and the wider Northern Fertile Region. As is the Bethûan way, the House is led by its matriarch — Layla's mother — and it is Layla, the eldest daughter, who is meant one day to take the bench and the seal. She was trained from childhood in the arts of negotiation, trade, reckoning, and diplomacy, and she is formidable at all of them; her sharp mind and quicker tongue have already won the House deals and clients beyond its station. But the prospect of a life spent on the matriarch's bench, marrying for advantage and counting another generation's coin, stifles her. She wants the world, not the ledger.
+Layla Marut is the eldest daughter — and heir-presumptive — of **House Marut**, a prosperous Lesser House of the [[affiliation-bthntrdhss|Bethûan Trade-Houses]], whose trade reaches from the orchard-ports of the [[affiliation-mtrrchybth|Bethûan]] coast across the [[place-vylarianse|Vylarian Sea]] to [[affiliation-empirtkhpr|Ta'Kheperu]] and the wider Northern Fertile Region. As is the Bethûan way, the House is led by its matriarch — Layla's mother — and it is Layla, the eldest daughter, who is meant one day to take the bench and the seal. She was trained from childhood in the arts of negotiation, trade, reckoning, and diplomacy, and she is formidable at all of them; her sharp mind and quicker tongue have already won the House deals and clients beyond its station. But the prospect of a life spent on the matriarch's bench, marrying for advantage and counting another generation's coin, stifles her. She wants the world, not the ledger.
 
 Layla and [[being-zahirmlkht|Zahira]] met when House Marut hired the bounty hunter to run down a thief who had robbed one of the family's caravans. Taken with Zahira's nerve and skill, Layla talked her mother into letting her ride along "to learn the trade-roads first-hand" — and never quite came back to the counting-house. She brings to Zahira's hunts a web of mercantile contacts, an intimate grasp of the trade-routes and the credit that moves along them, and a reading of people and politics as sharp as any blade in the company.
 
@@ -617,4 +616,4 @@ Layla is driven by a desire for freedom and adventure. She views her alliance wi
 
 4. **The Foreign Suitor**:
 
-   A wealthy Aurelian noble of [[doc-vylarinmpr|Vylaria]] — **Aurelian Tavius** — makes discreet overtures, through intermediaries, for Layla's hand. Bethûan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Layla's mother is tempted; the [[doc-gvrnmntbth|Council of Priestesses]] is uneasy at any Vylarian entanglement while the privateer war smoulders; and Layla — who was not consulted — must decide whether to be a pawn, a player, or gone.
+   A wealthy Aurelian noble of [[affiliation-vylarinmpr|Vylaria]] — **Aurelian Tavius** — makes discreet overtures, through intermediaries, for Layla's hand. Bethûan matriarchal custom does not permit a foreign husband to alter a House's inheritance, so the proposal is less a marriage than a gambit: an alliance and an opening into Vylarian markets, dangled before an ambitious Lesser House. Layla's mother is tempted; the [[affiliation-mtrrchybth|Council of Priestesses]] is uneasy at any Vylarian entanglement while the privateer war smoulders; and Layla — who was not consulted — must decide whether to be a pawn, a player, or gone.

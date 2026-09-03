@@ -9,26 +9,117 @@ name:
   full: Free City of Valthári
   aliases: []
 shortcode: frctyvlthr
-population: "~300,000"
 subType: polity
-capital: valthari
-demonym: Valthárin
-government:
-  type: city-state
-  summary: Council of merchant families (the Consejárath).
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Valthárin
+  epithet: null
+  symbol: null
+  governance:
+    model: oligarchy
+    summary: >-
+      The Consejárath — a council of the great merchant houses — governing under a royal charter
+      bought with tribute, which guarantees its self-government, its own courts and freedom
+      from feudal levies.
+    ranks:
+      - level: 0
+        title: Struck from the Roll
+        lore: expelledrnk
+        description: >-
+          Expelled from the city's register: no charter, no protection, no standing in its courts,
+          and every contract void.
+      - level: 1
+        title: Unfree
+        lore: slavernk
+        description: Bound in service or debt-bondage, holding neither property nor the right
+          to contract.
+      - level: 2
+        title: Resident
+        lore: commonerrnk
+        description: >-
+          Dwelling and labouring in the city under its protection, without its freedom or a
+          vote in it.
+      - level: 3
+        title: Freeman of the City
+        lore: burgherrnk
+        description: Enrolled in the city's register, entitled to trade in its markets and plead
+          in its courts.
+      - level: 4
+        title: Guild Master
+        lore: masterrnk
+        description: >-
+          Head of a chartered trade, speaking for it before the Council and answerable for its
+          members' conduct.
+      - level: 5
+        title: House Factor
+        lore: officerrnk
+        description: >-
+          Managing the affairs of one of the great houses — its warehouses, its ships, its correspondents
+          abroad.
+      - level: 6
+        title: House Head
+        lore: councillorrnk
+        description: Master of a merchant house, its capital and its name, and an elector of
+          the Council.
+      - level: 7
+        title: Councillor
+        lore: councillorrnk
+        description: Sitting on the Council that governs the city, by weight of the house behind
+          him.
+      - level: 8
+        title: First of the Council
+        lore: prsdngffcrrnk
+        description: Presiding over the Council for a term, and holding the city's seal while
+          he does.
+    offices:
+      First of the Council: >-
+        Presiding officer of the governing council, elected by it for a fixed term and holding
+        the city's seal.
+      Councillor: Member of the governing council, seated by the standing of the house he
+        heads.
+      Chancellor: Keeper of the city's charters, treaties and correspondence.
+      Treasurer: >-
+        Keeper of the city's revenue — its customs, its tolls, and the loans it raises against
+        them.
+      Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
+        hull that enters.
+      Master of the Mint: Keeper of the coin struck in the city's name and of the standard
+        it is struck to.
+      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade
+        disputes there.
+      Captain of the Watch: Commander of the city's guard and of the militia its guilds are
+        bound to raise.
+      Warden of the Weights: >-
+        Inspector of measures, coin and quality in the markets — the office that makes the
+        city's word good.
+      Guild Master: Head of a chartered trade, speaking for it before the Council.
+      Arbitrator: >-
+        Professional settler of disputes between houses under the commercial custom, whose
+        rulings the Council enforces.
+  commonSkills:
+    - tarvenlng
+  seat: valthari
+  domains:
     - tarvenirgn
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 300000
+  economy:
+    - affiliation-clgmrgntrrm
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  lore:
+    - humanflk
+  parents:
+    - kingdmtrvn
+  relations:
+    arldnpnthn: aligned
+    kingdmtrvn: aligned
+    vylarinmpr: unaligned
+sohl:
+  archetype: null
 folder: DB9rgGreD8FtqoBx
 ---
 
-- **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal — pays tribute for self-governance charter)
+- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal — pays tribute for self-governance charter)
 - **Language:** Tarvéni (with Provenzal and Haradi widely spoken)
 - **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]]
@@ -36,11 +127,11 @@ folder: DB9rgGreD8FtqoBx
 
 ## Overview
 
-Valthári is Tarvénia's great port — a wealthy, cosmopolitan city-state on the southern coast where the [[doc-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[doc-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline.
+Valthári is Tarvénia's great port — a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline.
 
 ## Character
 
-Valthári is everything the mountain lords of [[doc-kngdmstrth|Astúrath]] distrust: wealthy, cosmopolitan, and thoroughly mercantile. Its harbor is crowded with ships from [[doc-provenzrgn|Provènzia Region]], [[doc-cnfdrtnhrdnstts|Harad]], [[doc-helionis|Heliónis]], and beyond, and its dockside markets trade in goods from across [[doc-midhalnrgn|Mídhalión Region]]. The city's wealth is built on its position as the gateway for seaborne trade into Tarvénia — wine, olive oil, grain, wool, and iron flow out; spices, silk, luxury goods, and coin flow in.
+Valthári is everything the mountain lords of [[affiliation-kngdmstrth|Astúrath]] distrust: wealthy, cosmopolitan, and thoroughly mercantile. Its harbor is crowded with ships from [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], and beyond, and its dockside markets trade in goods from across [[place-midhalnrgn|Mídhalión Region]]. The city's wealth is built on its position as the gateway for seaborne trade into Tarvénia — wine, olive oil, grain, wool, and iron flow out; spices, silk, luxury goods, and coin flow in.
 
 The Consejárath — the ruling council — is drawn from the dozen or so merchant dynasties that control the city's major trading houses, shipyards, and banking operations. Seats on the council are fiercely contested, and Valthári politics are an intricate dance of commercial alliances, marriage pacts, and occasionally, discreet assassination. The city maintains its own small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia.
 
@@ -48,12 +139,12 @@ Culturally, Valthári is more cosmopolitan than the rest of Tarvénia. Provenzal
 
 ## Commerce and Currency
 
-Free City of Valthári uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Free City of Valthári is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Free City of Valthári uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Free City of Valthári is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
-- [[doc-tarvenirgn|Tarvénia Region]] — Regional overview
-- [[doc-kngdmstrth|Kingdom of Astúrath]], [[doc-kngdmglvrn|Kingdom of Galváren]], [[doc-kingdmlnrk|Kingdom of Léonrik]] — The three kingdoms
-- [[doc-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan free polity
-- [[doc-provenzrgn|Provènzia Region]], [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Major trading partners
+- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
+- [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — The three kingdoms
+- [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan free polity
+- [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Major trading partners

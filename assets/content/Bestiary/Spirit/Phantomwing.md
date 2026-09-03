@@ -9,9 +9,30 @@ name:
 description: "The lonely, searching spirit of a creature that died far from home, pursuing living beings in hope of companionship it can never reclaim."
 id: HgferELsOeHk6yUO
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/phntmwng-portrait.webp
 shortcode: phntmwng
 type: being
+data:
+  portrait: images/being/phntmwng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

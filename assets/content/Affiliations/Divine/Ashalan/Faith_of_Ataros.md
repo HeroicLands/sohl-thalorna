@@ -1,4 +1,5 @@
 ---
+description: "Fire."
 aliases:
   - Faith of Ātáröš
   - The Sacred Flame
@@ -9,28 +10,107 @@ tags:
   - fire-deity
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Sacred Flame
+  symbol: A flame atop an altar, encircled by sparks
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - atarosdty
+  parents:
+    - ashanpnthn
+  relations:
     ashanpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Ātáröš
   aliases: []
 shortcode: ataros
-deity: Ātáröš
-epithet: The Sacred Flame
-domain: Fire
-symbol: A flame atop an altar, encircled by sparks
-pantheon: ashanpnthn
 alias: Ātáröš, The Sacred Flame
 folder: 7so6UiPt445oIHWs
 ---
 
-Ātáröš is unique among the deities of the Āsháian pantheon—not merely a god among gods, but the visible, tangible presence through which all the other gods make themselves known to the world. Fire is transformation incarnate: it consumes the raw and makes it useful, destroys the corrupt and renders the world clean, illuminates darkness, provides warmth that sustains life in the killing deserts and steppes. Every sacred fire that burns in every temple from the marble palaces of [[doc-sultntmrdd|Amradad]] to the humblest nomadic camp is understood as a physical manifestation of Ātáröš himself, a god made present in tangible, knowable form. When the Āsháian faithful gather around the sacred fire to pray, they are not merely using fire as a symbol—they are communing directly with divinity. The smoke that rises from the altar carries prayers to the heavens. The flames that dance respond to the fervor of the faithful. The ashes that remain are the god's blessing, to be collected and preserved as relics of divine presence.
+Ātáröš is unique among the deities of the Āsháian pantheon—not merely a god among gods, but the visible, tangible presence through which all the other gods make themselves known to the world. Fire is transformation incarnate: it consumes the raw and makes it useful, destroys the corrupt and renders the world clean, illuminates darkness, provides warmth that sustains life in the killing deserts and steppes. Every sacred fire that burns in every temple from the marble palaces of [[affiliation-sultntmrdd|Amradad]] to the humblest nomadic camp is understood as a physical manifestation of Ātáröš himself, a god made present in tangible, knowable form. When the Āsháian faithful gather around the sacred fire to pray, they are not merely using fire as a symbol—they are communing directly with divinity. The smoke that rises from the altar carries prayers to the heavens. The flames that dance respond to the fervor of the faithful. The ashes that remain are the god's blessing, to be collected and preserved as relics of divine presence.
 
 The relationship between Ātáröš and [[affiliation-ahurdaen|Āhúrdáén]] is intimate and paradoxical. Theologians debate endlessly whether Ātáröš is a subordinate deity who serves Āhúrdáén's will, or whether the two are aspects of a single divine reality—that Āhúrdáén is the abstract principle of cosmic order, while Ātáröš is that order made manifest and active. The practical implications, however, are clear: Ātáröš is the god that mortals can reach, can petition, can receive direct blessings from. A mystic might spend a lifetime seeking direct knowledge of Āhúrdáén's will through meditation and study, but even the simplest child can approach Ātáröš by kindling a flame and speaking their prayer into the smoke. This accessibility, combined with the god's raw power and majesty, makes Ātáröš the most beloved deity in Āsháian practice, the one whose name is spoken most frequently, whose altars receive the most constant devotion.
 
@@ -56,7 +136,7 @@ The **Hērbad** (Teacher-Priest) specializes in fire-ritual and teaches both the
 
 The **Āthravān** (Fire-Keeper) are initiates whose primary duty is the maintenance of the flame itself. They are trained to feed the fire with practiced precision, to keep it safe from wind and rain, to collect and preserve the ashes. Advancement from Āthravān to full Hērbad requires not merely intellectual mastery of theology but demonstrated commitment to the sacred flame—the candidate must have maintained a portion of the temple fire for at least a full year without the flame failing.
 
-The priesthood of Ātáröš is notably free of the theological schisms and internal disputes that plague other faiths. Unlike the Aurèldían Vúlcani, who split into the Sacred Forge and Black Flame traditions, the priesthood of Ātáröš maintains unity of practice and theology across all lands and sects. This unity is enforced not by hierarchical authority but by the objective reality of the flames themselves—a Hērbad in remote [[doc-dunharargn|Dunhara Region]] uses identical procedures and recites identical prayers as one in [[doc-sultntmrdd|Amradad]], because the sacred fire responds to proper technique and sincere faith, not to theological innovation or sectarian innovation.
+The priesthood of Ātáröš is notably free of the theological schisms and internal disputes that plague other faiths. Unlike the Aurèldían Vúlcani, who split into the Sacred Forge and Black Flame traditions, the priesthood of Ātáröš maintains unity of practice and theology across all lands and sects. This unity is enforced not by hierarchical authority but by the objective reality of the flames themselves—a Hērbad in remote [[place-dunharargn|Dunhara Region]] uses identical procedures and recites identical prayers as one in [[affiliation-sultntmrdd|Amradad]], because the sacred fire responds to proper technique and sincere faith, not to theological innovation or sectarian innovation.
 
 ## Relations
 

@@ -4,6 +4,8 @@ aliases:
   - Totkar HetWera
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Tot'kar Het'Wera
   title: ""
@@ -16,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: totkarhtwr
 img: icons/person.svg
-portrait: images/being/totkarhtwr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/totkarhtwr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 48
   birthday: 672/9/17
-  height:
-    m: 1.78
-  weight:
-    kg: 66.7
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 66.7
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: graying_black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a leaf on the wrist
 sohl:
@@ -558,7 +557,7 @@ sohl:
     - { shortcode: bpchlg, type: containergear }
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -568,7 +567,7 @@ Tot'kar stands 5'10" tall with a heavy build. He has tawny skin, graying black h
 
 ### The Scholar's Path
 
-Born in 676 to a merchant family with modest social standing, Totkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant Amenhophis, a man of legendary acumen and integrity, Totkar studied the vast and intricate legal codes that governed [[doc-empirtkhpr|Ta'Kheperu]]'s empire, learning not merely rules but the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 676 to a merchant family with modest social standing, Totkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant Amenhophis, a man of legendary acumen and integrity, Totkar studied the vast and intricate legal codes that governed [[affiliation-empirtkhpr|Ta'Kheperu]]'s empire, learning not merely rules but the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 

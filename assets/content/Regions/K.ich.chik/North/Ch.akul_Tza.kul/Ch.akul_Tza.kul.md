@@ -13,21 +13,110 @@ shortcode: chakultzkl
 img: ""
 type: affiliation
 subType: polity
-capital: chakultzkl2
-terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: ""
+    ranks:
+      - level: 0
+        title: Exile
+        lore: outlawrnk
+        description: >-
+          Driven from the city and denied its ballcourt, its market and its rites; no lord will
+          take him and no kin will own him.
+      - level: 1
+        title: Captive
+        lore: slavernk
+        description: >-
+          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          no long future.
+      - level: 2
+        title: Commoner
+        lore: commonerrnk
+        description: >-
+          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          in maize, cloth and cacao.
+      - level: 3
+        title: Craftsman
+        lore: journeymanrnk
+        description: >-
+          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          to a lord's household or a temple.
+      - level: 4
+        title: Warrior
+        lore: warriorrnk
+        description: Taker of captives, whose standing rises with each one and whose dress records
+          them.
+      - level: 5
+        title: Scribe or Priest
+        lore: priestrnk
+        description: >-
+          Keeper of the count of days, the glyphs and the rites, without whom no lord may act
+          at an auspicious hour.
+      - level: 6
+        title: Ajaw
+        lore: greatlordrnk
+        description: A noble lord of the city, holding land, dependents and a place in the k'uhul
+          ajaw's court.
+      - level: 7
+        title: Sahal
+        lore: greatlordrnk
+        description: >-
+          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          of a conquered city's ruler.
+      - level: 8
+        title: K'uhul Ajaw
+        lore: sovereignrnk
+        description: >-
+          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar
+          and embodies it in war.
+    offices:
+      K'uhul Ajaw: >-
+        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns
+        sustains it.
+      Ix Ajaw: >-
+        Royal lady of the city, of a lineage recorded and married for, and a ruler in her
+        own right where the line requires it.
+      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
+      Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
+        hour.
+      Ah Ts'ib: >-
+        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert
+        them.
+      Nacom: War-leader appointed for a campaign, and set aside when it ends.
+      Batab: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
+        were his.
+      Ah Ppolom: >-
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        a lord's eyes abroad.
+      Ballcourt Keeper: >-
+        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
+        at once.
+  commonSkills: []
+  seat: chakultzkl2
+  domains:
     - nrthrnkchchk
-  continents:
-    - kchchkcntnnt
-peoples:
-  - human
+  population: null
+  economy: []
+  lore:
+    - humanflk
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
+terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 folder: Qs7NMfy6BnhXD1Mv
 ---
 
 ## Overview
 
-Ch'akul Tza'kul, the "Thirsty Land," is a vast expanse of inhospitable desert, salt flats, barren mesas, and scorching rock that forms a nearly impenetrable barrier between the tribal north and the civilizations of southern [[doc-kchchkcntnnt|K'ich'chik]]. This is not a land of any one people; no nation claims dominion here, though travelers and traders pass through with necessity born of commerce and exploration. The desert is a realm unto itself, and it has shaped the relationship between north and south fundamentally—the distance, the hardship, and the difficulty of maintaining supply lines have made large-scale military conquest of the northern frontier virtually impossible. A southern army strong enough to cross the desert and establish itself in the north would exhaust itself in transit; the northern peoples, meanwhile, find desert crossing equally daunting and have never attempted major campaigns southward.
+Ch'akul Tza'kul, the "Thirsty Land," is a vast expanse of inhospitable desert, salt flats, barren mesas, and scorching rock that forms a nearly impenetrable barrier between the tribal north and the civilizations of southern [[place-kchchkcntnnt|K'ich'chik]]. This is not a land of any one people; no nation claims dominion here, though travelers and traders pass through with necessity born of commerce and exploration. The desert is a realm unto itself, and it has shaped the relationship between north and south fundamentally—the distance, the hardship, and the difficulty of maintaining supply lines have made large-scale military conquest of the northern frontier virtually impossible. A southern army strong enough to cross the desert and establish itself in the north would exhaust itself in transit; the northern peoples, meanwhile, find desert crossing equally daunting and have never attempted major campaigns southward.
 
 The desert stands as a natural boundary maintained by neither wall nor garrison, but by the sheer hostility of its environment. Those who venture into Ch'akul Tza'kul come prepared with water, supplies, and knowledge of hidden oases; those who venture unprepared do not emerge. The desert's character has changed in living memory; ancient ruins of structures suggest that in some previous age, the land was more fertile, when rains fell more abundantly and rivers flowed where now only dry channels remain. Whether this transformation is permanent or cyclical remains unknown, though scholars and shamans have debated the question for generations.
 
@@ -37,7 +126,7 @@ Ch'akul Tza'kul encompasses several distinct desert environments, each with its 
 
 Central and western portions of the desert feature rocky plateaus, mesas, and badlands where stone replaces sand. These lands are slightly more navigable than the sand seas—physical landmarks provide navigation markers—but the absence of vegetation and limited water sources makes them equally deadly. Scattered throughout this region are box canyons and arroyos that can flash-flood with sudden violence during the infrequent rains that do fall; travelers who shelter in such features without knowing weather patterns upstream have perished when torrents of water suddenly filled previously dry channels.
 
-The southern and southeastern portions of Ch'akul Tza'kul feature increasingly complex topography as the land transitions toward the mountains and highlands of southern [[doc-kchchkcntnnt|K'ich'chik]]. Salt flats of otherworldly appearance—vast expanses of crystallized salt deposits—stretch across areas where ancient inland seas evaporated in a geological past beyond human memory. These salt flats are impassable for most travelers; the salt crust can cut feet and pack animal hooves, and the reflected heat from the white surface intensifies the scorching temperatures. The air above salt flats shimmers with mirages that can deceive unwary travelers into wandering away from established routes.
+The southern and southeastern portions of Ch'akul Tza'kul feature increasingly complex topography as the land transitions toward the mountains and highlands of southern [[place-kchchkcntnnt|K'ich'chik]]. Salt flats of otherworldly appearance—vast expanses of crystallized salt deposits—stretch across areas where ancient inland seas evaporated in a geological past beyond human memory. These salt flats are impassable for most travelers; the salt crust can cut feet and pack animal hooves, and the reflected heat from the white surface intensifies the scorching temperatures. The air above salt flats shimmers with mirages that can deceive unwary travelers into wandering away from established routes.
 
 Water is the fundamental scarcity in Ch'akul Tza'kul. The few permanent water sources—scattered oases where underground springs surface—are essential stopping points on cross-desert routes. These oases support small groves of date palms, acacias, and other drought-resistant vegetation. The oases are guarded or monitored by traders and scouts who maintain records of their condition and safety; disputes over access to oases occasionally erupt into violence, though most oases maintain a tradition of neutrality and allow safe passage to travelers of any nation or origin in exchange for modest payment or trade goods.
 
@@ -57,7 +146,7 @@ The crossing of Ch'akul Tza'kul is arduous enough that it effectively limits the
 
 ## See Also
 
-- [[doc-kchchkcntnnt|K'ich'chik]] — The southern civilization separated from the northern frontier by this great desert barrier
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands, one of the northern departure points for desert crossing
-- [[doc-tzumanotun|Tz'uma No'tun]] — The southern nation nearest to Ch'akul Tza'kul, most frequent southern traders in desert
-- [[doc-xikulchakl|Xik'ul Ch'akal]] — Eastern woodlands, source of some of the most detailed geographical knowledge about desert oases
+- [[place-kchchkcntnnt|K'ich'chik]] — The southern civilization separated from the northern frontier by this great desert barrier
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands, one of the northern departure points for desert crossing
+- [[affiliation-tzumanotun|Tz'uma No'tun]] — The southern nation nearest to Ch'akul Tza'kul, most frequent southern traders in desert
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]] — Eastern woodlands, source of some of the most detailed geographical knowledge about desert oases

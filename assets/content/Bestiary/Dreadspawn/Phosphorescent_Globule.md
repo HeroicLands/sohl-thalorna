@@ -9,9 +9,30 @@ name:
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
 id: WQjWcb6PtRpcRxGe
 img: icons/game-icons/delapouite/slime.svg
-portrait: images/being/phsphrsc-portrait.webp
 shortcode: phsphrsc
 type: being
+data:
+  portrait: images/being/phsphrsc-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

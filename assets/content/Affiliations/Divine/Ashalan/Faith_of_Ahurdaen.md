@@ -1,4 +1,5 @@
 ---
+description: "Order."
 aliases:
   - Faith of Āhúrdáén
   - The Keeper of Harmony
@@ -9,28 +10,107 @@ tags:
   - order-deity
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Keeper of Harmony
+  symbol: A golden flame encircled by stars
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - ahurdaendty
+  parents:
+    - ashanpnthn
+  relations:
     ashanpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Āhúrdáén
   aliases: []
 shortcode: ahurdaen
-deity: Āhúrdáén
-epithet: The Keeper of Harmony
-domain: Order
-symbol: A golden flame encircled by stars
-pantheon: ashanpnthn
 alias: Āhúrdáén, The Keeper of Harmony
 folder: 7so6UiPt445oIHWs
 ---
 
-Āhúrdáén is the supreme sovereign of the Āsháian pantheon, the creator and sustainer of all existence. He is wisdom embodied, justice made manifest, the cosmic order that permits creation to persist against the endless tide of Druj. Where the Aurèldían west speaks of a pantheon of divine equals, the Āsháian faithful know a hierarchy centered on Āhúrdáén's unquestioned supremacy. Not tyranny, however, but kingship of the truest kind—the rule of one who loves creation so deeply that he has ordered every atom, every moment, every soul in accordance with Āsha. In the great fire-temples of [[doc-sultntmrdd|Amradad]], inscriptions proclaim his titles in letters of lapis and gold: "He who made the stars to stand in their courses. He who breathed law into the chaos. He whose flame sustains all things."
+Āhúrdáén is the supreme sovereign of the Āsháian pantheon, the creator and sustainer of all existence. He is wisdom embodied, justice made manifest, the cosmic order that permits creation to persist against the endless tide of Druj. Where the Aurèldían west speaks of a pantheon of divine equals, the Āsháian faithful know a hierarchy centered on Āhúrdáén's unquestioned supremacy. Not tyranny, however, but kingship of the truest kind—the rule of one who loves creation so deeply that he has ordered every atom, every moment, every soul in accordance with Āsha. In the great fire-temples of [[affiliation-sultntmrdd|Amradad]], inscriptions proclaim his titles in letters of lapis and gold: "He who made the stars to stand in their courses. He who breathed law into the chaos. He whose flame sustains all things."
 
 The theology of Āhúrdáén teaches that the universe is not a neutral stage upon which the gods and mortals play, but a deliberate creation organized according to immutable law. The rising and setting of the sun, the cycling of the seasons, the progression of night and day—these are not mere mechanical repetitions but the heartbeat of Āhúrdáén's will, the rhythm of cosmic order itself. The righteous person who lives according to Āsha participates in this order; the wicked one who embraces Druj fractures it. This is why morality in Āsháian thought is not arbitrary—it is natural law, the way the cosmos is fundamentally structured. A lie is not merely disapproved by the gods; it tears the fabric of reality itself. Murder does not merely break a divine commandment; it betrays the order by which all beings exist. To live according to truth, goodness, and justice is quite literally to align oneself with the foundation of reality.
 
@@ -46,11 +126,11 @@ Private worship of Āhúrdáén is characterized by stillness and contemplation.
 
 ## Organization
 
-The priesthood of Āhúrdáén forms the backbone of the entire Āsháian religious structure. The Mōbad of Āhúrdáén's Great Fire-Temple in [[doc-sultntmrdd|Amradad]] holds a position of extraordinary influence—not merely spiritual but political and economic. The current Mōbad, Aravdán the Stargazer, is said to wield as much power as the Sultan's vizier, and in matters of state religion and cosmic portent, more. The Great Fire-Temple maintains the most ancient and elaborate astronomical observatories in all Ankaris; the Mōbad and his learned Hērbads map the movements of planets and stars, observing them for signs of cosmic order or disorder, for omens that guide state policy.
+The priesthood of Āhúrdáén forms the backbone of the entire Āsháian religious structure. The Mōbad of Āhúrdáén's Great Fire-Temple in [[affiliation-sultntmrdd|Amradad]] holds a position of extraordinary influence—not merely spiritual but political and economic. The current Mōbad, Aravdán the Stargazer, is said to wield as much power as the Sultan's vizier, and in matters of state religion and cosmic portent, more. The Great Fire-Temple maintains the most ancient and elaborate astronomical observatories in all Ankaris; the Mōbad and his learned Hērbads map the movements of planets and stars, observing them for signs of cosmic order or disorder, for omens that guide state policy.
 
 Below the Mōbad serve the senior Hērbads, each responsible for different theological domains. The Hērbad of Astronomy watches the stars and maintains detailed records of celestial phenomena. The Hērbad of Law interprets the divine principles of justice that underlie human governance. The Hērbad of Cosmology teaches the priesthood and educated laity about the structure and meaning of the cosmos. These senior priests meet in council at the great equinox festivals to discuss whether the cosmic order shows signs of stress, whether Druj gains ground, whether the faithful are slipping from Āsha.
 
-In smaller cities and towns throughout [[doc-sultntmrdd|Amradad]], local Hērbads maintain fire-temples dedicated to Āhúrdáén. These priests serve as judges in disputes, interpreters of the divine will, educators of children in the threefold path. Among the nomadic tribes of [[doc-dunharargn|Dunhara Region]] and the [[doc-khzryndsrtrgn|Khazryn Desert Region]], the role of the priesthood is looser—wandering Hērbads travel from tribe to tribe, sometimes remaining with a single band for years, serving as advisors, arbiters, and keepers of the sacred fire. The most respected of these desert holy men develop reputations as mystics and seers, individuals who have supposedly achieved such perfect alignment with Āsha that they can perceive the will of Āhúrdáén directly.
+In smaller cities and towns throughout [[affiliation-sultntmrdd|Amradad]], local Hērbads maintain fire-temples dedicated to Āhúrdáén. These priests serve as judges in disputes, interpreters of the divine will, educators of children in the threefold path. Among the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the role of the priesthood is looser—wandering Hērbads travel from tribe to tribe, sometimes remaining with a single band for years, serving as advisors, arbiters, and keepers of the sacred fire. The most respected of these desert holy men develop reputations as mystics and seers, individuals who have supposedly achieved such perfect alignment with Āsha that they can perceive the will of Āhúrdáén directly.
 
 Training for the priesthood of Āhúrdáén is rigorous and extended. Āthravān initiates must spend years in study of the sacred texts, learning the long creation liturgy (which takes three hours to recite in full), mastering the principles of theology, and developing the meditative practices that allow a priest to enter the state of calm understanding necessary for divining the cosmic order. The final test for advancement to Hērbad involves a night alone with the sacred fire, where the candidate must maintain perfect focus and clarity while meditating on the first moments of creation, the eternal struggle between Āsha and Druj, and their own role in sustaining cosmic order.
 

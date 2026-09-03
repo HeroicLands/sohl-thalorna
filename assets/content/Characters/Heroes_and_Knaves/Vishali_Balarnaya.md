@@ -5,6 +5,7 @@ aliases:
   - Vishali Balarnaya
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Vishali Bâlarṇaya
   title: ""
@@ -16,34 +17,31 @@ id: GsNhNWQb3LsLeUGY
 folder: JotxZnnXcTECeYW3
 shortcode: vishalblry
 img: icons/person.svg
-portrait: images/being/vishalblry-portrait.webp
 type: being
-thalorna:
-  realm: rajaprjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/vishalblry-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Fool
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - rajaprjnpd
   gender: female
+  species: null
   age: 27
   birthday: 693/10/4
-  height:
-    m: 1.73
-  weight:
-    kg: 68.9
-  build:
-    frame: light
+  height: 1.73
+  weight: 68.9
+  frame: light
   appearance:
     eye_color: warm_brown
     hair_color: black
     skin_color: rich_brown
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the right elbow
 sohl:

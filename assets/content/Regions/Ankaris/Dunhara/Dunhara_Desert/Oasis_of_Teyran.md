@@ -2,23 +2,21 @@
 aliases:
   - Oasis of Teyran
 id: GufmJbVpnn7ABWGl
+tags:
+  - oasis
+description: "Oasis"
 type: place
 subType: settlement
-settlementType: "Oasis"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - dunhardsrtrgn
+  population: null
 name:
   full: Oasis of Teyran
   aliases: []
 shortcode: oasisteyrn
-parent:
-  regions:
-    - dunhardsrtrgn
-  polities:
-    - dunhartrbs
 folder: fHLmguBwgTuZfGJ9
 ---
 

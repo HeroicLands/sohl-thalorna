@@ -4,6 +4,7 @@ aliases:
   - Harperos Varkratys
 tags:
   - draft
+  - soldiery
 name:
   full: Harpêros Vârkrâtys
   title: ""
@@ -16,23 +17,27 @@ id: mHxNWFOCWdnrJi7s
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrprsvrkrtys
 img: icons/person.svg
-portrait: images/being/hrprsvrkrtys-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrprsvrkrtys-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 39
   birthday: 681/5/18
-  height:
-    m: 1.8
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.8
+  weight: 78
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: auburn
@@ -40,16 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a scar along the jawline
-gear:
-  weapons:
-    - Longbow
-  armor:
-    - Leather jerkin
-  misc:
-    - Quiver for arrows
-    - wpnsup
-    - flint and tinder
-    - animal hide cloak
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 64 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

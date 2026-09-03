@@ -4,6 +4,7 @@ aliases:
   - Brethar Salthar
 tags:
   - draft
+  - common-folk
 name:
   full: Bréthar Sálthar
   title: ""
@@ -16,23 +17,27 @@ id: I1af7W2pkAFEn3z5
 folder: 4cwfdMa34UryZqPR
 shortcode: brthrslthr
 img: icons/person.svg
-portrait: images/being/brthrslthr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brthrslthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 51
   birthday: 669/9/2
-  height:
-    m: 1.88
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: graying_brown
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a mystical symbol on the forearm
-gear:
-  weapons:
-    - Heavy axe
-  armor:
-    - Thick leather apron
-  misc:
-    - Wooden crates for storing charcoal
-    - Firewood
-    - tools for kiln maintenance
-    - leather gloves
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

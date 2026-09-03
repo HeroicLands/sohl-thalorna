@@ -2,23 +2,22 @@
 aliases:
   - Frostmark
 id: 1Rtw3Owv91p4f5yA
+tags:
+  - settlement
+  - border
+description: "Border Settlement"
 type: place
 subType: settlement
-settlementType: "Border Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Frostmark
   aliases: []
 shortcode: frostmark
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

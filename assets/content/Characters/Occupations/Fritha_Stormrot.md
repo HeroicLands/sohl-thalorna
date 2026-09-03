@@ -4,6 +4,7 @@ aliases:
   - Fritha Stormrot
 tags:
   - draft
+  - common-folk
 name:
   full: Frítha Stormrót
   title: ""
@@ -16,39 +17,33 @@ id: F48i2GDrmZhvkUDP
 folder: Ka9XqaF27b0I3Gmq
 shortcode: frthstrmrt
 img: icons/person.svg
-portrait: images/being/frthstrmrt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/frthstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ratter
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 27
   birthday: 697/4/4
-  height:
-    m: 1.8
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.8
+  weight: 71
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: auburn
     skin_color: medium
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Simple work clothes
-  misc:
-    - Satchel for traps and bait
-    - Traps
-    - trained cat
-    - bait
 sohl:
   archetype: null
   body:
@@ -523,12 +518,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 51 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 17 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 34 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -5,6 +5,8 @@ aliases:
   - Visvambharakhila Ratnangadevadasa
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Viśvambhārākhila Ratnāṅgadēvadāsa
   title: ""
@@ -16,34 +18,31 @@ id: Jmrmm5y8MbguqGeu
 folder: JotxZnnXcTECeYW3
 shortcode: vsvmbhrkhlrtngdvds
 img: icons/person.svg
-portrait: images/being/vsvmbhrkhlrtngdvds-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/vsvmbhrkhlrtngdvds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: male
+  species: null
   age: 38
   birthday: 682/6/24
-  height:
-    m: 1.78
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: warm_brown
     hair_color: dark_brown
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

@@ -4,6 +4,7 @@ aliases:
   - Mahmudros Gharidis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Maḥmûdrós Gharîdís
   title: ""
@@ -16,39 +17,33 @@ id: FT6Ce5fuMjeirNOL
 folder: gpXd1anXulwRWZqn
 shortcode: mmdrsghrds
 img: icons/person.svg
-portrait: images/being/mmdrsghrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mmdrsghrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hideworker
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - pelagora
   gender: male
+  species: null
   age: 54
   birthday: 670/3/30
-  height:
-    m: 1.83
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: graying_brown
     skin_color: medium
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Heavy knife
-  armor:
-    - Leather apron
-  misc:
-    - Large wooden crate for supplies
-    - Tanning vats
-    - heavy stitching tools
-    - sharpening stone
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: pelagora
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

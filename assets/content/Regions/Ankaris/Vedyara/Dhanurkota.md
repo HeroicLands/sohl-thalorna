@@ -2,22 +2,21 @@
 aliases:
   - Dhanurkota
 id: i93FosZcD5HdN48U
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vedyarargn
+  population: null
 name:
   full: Dhanurkota
   aliases: []
 shortcode: dhanurkota
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - dhnrktjnpd
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

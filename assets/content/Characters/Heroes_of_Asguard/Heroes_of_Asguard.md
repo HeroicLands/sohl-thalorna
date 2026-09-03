@@ -1,9 +1,11 @@
 ---
 id: fNdEEVQMjIkyyIeG
-title: "Heroes of Asguard"
 description: "Variety of Asguardian Heroes."
-type: lore
-subType: folk
+name:
+  full: Heroes of Asguard
+  aliases: []
+type: doc
+subType: collection
 shortcode: heroessgrd
 ---
 

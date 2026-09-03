@@ -4,6 +4,8 @@ aliases:
   - Barnek Lanthrik
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Bárnek Lánthrik
   title: ""
@@ -16,39 +18,33 @@ id: Ahic8ctFhgp4IiyD
 folder: J9R0fnGUTBY5z4pd
 shortcode: brnklnthrk
 img: icons/person.svg
-portrait: images/being/brnklnthrk-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brnklnthrk-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bard
-  station: tradesfolk
-  class: guilded
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 40
   birthday: 680/1/8
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: gray
     skin_color: warm
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Rapier
-  armor:
-    - Leather jerkin
-  misc:
-    - Travel bag
-    - Lute
-    - map collection
-    - letters of introduction
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

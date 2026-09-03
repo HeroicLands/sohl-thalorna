@@ -9,8 +9,17 @@ name:
 shortcode: ghstshpsglfbtrn
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
@@ -172,8 +181,8 @@ The party must decide how to address the ghost ships. Options include:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vylarian Empire]]

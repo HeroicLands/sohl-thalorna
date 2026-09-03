@@ -3,6 +3,8 @@ aliases:
   - Rosharan Barmandan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Rosharan Barmandan
   title: ""
@@ -14,34 +16,31 @@ id: POk5Kke569heakuq
 folder: V1t8DVX0wKSOCJd5
 shortcode: rshrnbrmndn
 img: icons/person.svg
-portrait: images/being/rshrnbrmndn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/rshrnbrmndn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: female
+  species: null
   age: 35
   birthday: 685/6/6
-  height:
-    m: 1.8
-  weight:
-    kg: 77.6
-  build:
-    frame: medium
+  height: 1.8
+  weight: 77.6
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a bear on the left arm
 sohl:

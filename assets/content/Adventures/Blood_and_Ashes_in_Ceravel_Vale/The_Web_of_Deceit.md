@@ -5,17 +5,25 @@ tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows:
+    - bndtscrvlvl
+  status: draft
+  party:
+    size: null
+    archetypes: []
 id: GmS8jnKKIA28pOO8
 shortcode: webdeceit
 name:
   full: The Web of Deceit
   aliases: []
-campaign:
-  id: 1e0pksxoUKkUxRFB
-  part: 2
 folder: 9TmLIkGXGHMtFxzy
-thalorna:
-  region: provenzrgn
 ---
 
 ## Teaser

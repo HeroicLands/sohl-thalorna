@@ -2,23 +2,22 @@
 aliases:
   - Greywater
 id: md1o5v1VaxgYEye0
+tags:
+  - village
+  - fishing
+description: "Fishing Village"
 type: place
 subType: settlement
-settlementType: "Fishing Village"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aldorathrgn
+  population: null
 name:
   full: Greywater
   aliases: []
 shortcode: greywater
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

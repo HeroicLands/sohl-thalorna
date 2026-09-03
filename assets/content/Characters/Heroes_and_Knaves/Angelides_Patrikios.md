@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - mages
 name:
   full: Ángelides Patrikîos
   title: ""
@@ -17,29 +19,26 @@ id: qVZXP6qXaetsnV9z
 folder: b81DHx3S7C9ep13E
 shortcode: angldsptrks
 img: icons/person.svg
-portrait: images/being/angldsptrks-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
-  occupation: "Mage (Healing)"
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+data:
+  portrait: images/being/angldsptrks-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Healing)
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 42
   birthday: 678/10/12
-  height:
-    m: 1.75
-  weight:
-    kg: 64.9
-  build:
-    frame: medium
+  height: 1.75
+  weight: 64.9
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown

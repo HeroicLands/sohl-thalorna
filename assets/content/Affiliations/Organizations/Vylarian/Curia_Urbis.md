@@ -12,19 +12,90 @@ name:
 shortcode: curiaurbis
 type: affiliation
 subType: governmental
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A bureau holding delegated authority from the polity that constituted it, and accountable
+      to it.
+    ranks:
+      - level: 0
+        title: Dismissed in Disgrace
+        lore: expelledrnk
+        description: >-
+          Put out of the service with the record endorsed, which closes every other office to
+          them for life.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept about the offices for their labour, and not of the service.
+      - level: 2
+        title: Clerk
+        lore: clerkrnk
+        description: Copying, filing and reckoning under supervision, and the entry to every
+          career here.
+      - level: 3
+        title: Officer
+        lore: officerrnk
+        description: Holding a charge of the body in their own name and answerable for it.
+      - level: 4
+        title: Senior Officer
+        lore: officerrnk
+        description: Holding a charge of consequence, and supervising officers holding lesser
+          ones.
+      - level: 5
+        title: Deputy
+        lore: officerrnk
+        description: Standing for the head of the office and empowered to act in it.
+      - level: 6
+        title: Head of Office
+        lore: magistraternk
+        description: Directing a bureau of the body, its staff and its portion of the revenue.
+      - level: 7
+        title: Councillor
+        lore: councillorrnk
+        description: >-
+          Of the body that decides the office's policy and answers for it to the power that
+          constituted it.
+      - level: 8
+        title: Minister
+        lore: grandmasterrnk
+        description: >-
+          Head of the body, holding its authority from the polity and accountable to it for
+          every use of it.
+    offices:
+      Minister: Head of the body, holding its authority from the polity that constituted it.
+      Councillor: Member of the deciding body, answerable with it for what it decides.
+      Deputy: Standing for the head and empowered to act in the office.
+      Head of Office: Director of a bureau, its staff and its share of the revenue.
+      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
+      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
+      Inspector: Sent to see whether what is reported is what is happening.
+      Recorder: Keeper of the register the body's authority is exercised through.
+      Bailiff: Server of the body's process and executor of its distraints.
+      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-curiafscls
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
 
 # The Courts of Magnápolis
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[doc-magnapolis|city]] beyond the Inner Wall** — its administration, its courts, its Watch, and its daily supply — is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals** — the throne's own courts — sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall** — its administration, its courts, its Watch, and its daily supply — is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals** — the throne's own courts — sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
 
 ## The Curia Urbis — the Council of the City
 
@@ -62,7 +133,7 @@ For all its tiers and titles, the law of Magnápolis runs partly on influence, a
 
 ## See Also
 
-- [[doc-magnapolis|Magnápolis]] — the imperial capital this council and these courts govern
+- [[place-magnapolis|Magnápolis]] — the imperial capital this council and these courts govern
 - [[affiliation-vylrnmltry|The Vylarian Military]] — home of the City Watch (a branch of the legions) and the Praetar Augustarum (the imperial guard)
 - [[affiliation-aerarimmpr|The Aerarium Imperii]] — housed, like the imperial tribunals, in the Officia Imperii
 - [[affiliation-curiafscls|The Curia Fiscalis]] — the tax administration, also seated in the Officia

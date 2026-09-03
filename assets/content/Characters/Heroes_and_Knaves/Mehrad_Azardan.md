@@ -5,6 +5,8 @@ aliases:
   - Mehrad Azardan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Mehrâd Âzardan
   title: ""
@@ -16,34 +18,31 @@ id: nAWp90UIXOg1Pc6y
 folder: V1t8DVX0wKSOCJd5
 shortcode: mehradzrdn
 img: icons/person.svg
-portrait: images/being/mehradzrdn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/mehradzrdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: male
+  species: null
   age: 35
   birthday: 685/10/30
-  height:
-    m: 1.7
-  weight:
-    kg: 71.7
-  build:
-    frame: light
+  height: 1.7
+  weight: 71.7
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the lower abdomen
 sohl:

@@ -5,6 +5,7 @@ aliases:
   - Ingrithr Skyrekkr
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Íngrithr Skýrekkr
   title: ""
@@ -16,29 +17,26 @@ id: aiXt5Gk0y8qyILNJ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ingrthrskyrkr
 img: icons/person.svg
-portrait: images/being/ingrthrskyrkr-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/ingrthrskyrkr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: unfree
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - slavernk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: female
+  species: null
   age: 27
   birthday: 693/9/21
-  height:
-    m: 1.73
-  weight:
-    kg: 64.9
-  build:
-    frame: light
+  height: 1.73
+  weight: 64.9
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: black

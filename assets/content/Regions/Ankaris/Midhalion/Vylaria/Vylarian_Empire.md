@@ -10,53 +10,146 @@ name:
   full: Vylarian Empire
   aliases: []
 shortcode: vylarinmpr
-population: "~21,000,000"
 subType: polity
-capital: magnapolis
-demonym: Vylarian
-ruler:
-  title: Emperor
-government:
-  type: empire
-  summary: Centralized imperial bureaucracy under a hereditary emperor; governs four core provinces.
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Vylarian
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: >-
+      Hereditary emperor over a senate of the great families, a scribal bureaucracy and the
+      curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+    ranks:
+      - level: 0
+        title: Proscribed
+        lore: excmmnctrnk
+        description: >-
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
+          collects it.
+      - level: 1
+        title: Slave
+        lore: slavernk
+        description: Owned outright, with no standing at law except through an owner.
+      - level: 2
+        title: Freedman
+        lore: freedmanrnk
+        description: Manumitted, and in the imperial household often far more powerful than
+          the rank suggests.
+      - level: 3
+        title: Peregrine
+        lore: rsdntlnrnk
+        description: >-
+          A provincial living under imperial authority without the citizenship — the great majority
+          of the empire's people.
+      - level: 4
+        title: Citizen
+        lore: citizenrnk
+        description: >-
+          Holding the citizenship by birth, grant or service, with its protections at law and
+          its liability to its taxes.
+      - level: 5
+        title: Equestrian
+        lore: landedlordrnk
+        description: >-
+          Of the propertied order from which the prefectures, the procuratorships and the great
+          commands are filled.
+      - level: 6
+        title: Senator
+        lore: councillorrnk
+        description: >-
+          Of the senatorial families, holding a seat for life and the empire's highest civil
+          offices with it.
+      - level: 7
+        title: Consular
+        lore: highpriestrnk
+        description: Having held the consulship, and eligible thereafter for the greatest provincial
+          commands.
+      - level: 8
+        title: Emperor
+        lore: sovereignrnk
+        description: >-
+          The sovereign, whose authority rests on tradition, the loyalty of the armies and the
+          senate's acquiescence — and who is a prisoner of all three.
+    offices:
+      Emperor: >-
+        The sovereign, first among the senate in name and its master in fact, so long as the
+        armies hold.
+      Augusta: The emperor's consort, holding her own household, revenues and court faction.
+      Consul: >-
+        Chief magistrate of the year — an office of enormous prestige and, under an emperor,
+        of modest power.
+      Praetor: Magistrate of the courts, declaring the law for his year.
+      Censor: Keeper of the citizen roll and of the senatorial census.
+      Quaestor: Officer of the treasury, answerable for revenue and disbursement.
+      Aedile: Officer of the city's markets, streets, water and games.
+      Tribune: >-
+        Speaker for the citizen body, and a title the emperor holds himself for what it lets
+        him block.
+      Praetorian Prefect: Commander of the emperor's guard, and in practice the second man
+        in the empire.
+      Legate: Commander of a legion, or governor of an imperial province, commissioned by
+        the emperor.
+      Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
+      Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his
+        own person.
+  commonSkills:
+    - vylarilng
+  seat: magnapolis
+  domains:
     - vylariargn
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
+  population: 21000000
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  lore:
+    - humanflk
+  parents: []
+  relations:
+    arldnpnthn: aligned
+    ordoarcanis: unaligned
+    cnfdrtnhrdnstts: nemesis
+    ctysttshlns: aligned
+    kngdmprvnz: unaligned
+    kingdmtrvn: rival
+    vrystwldtrbs: rival
+    empirtkhpr: unaligned
+    hlykngdmnrtm: rival
+sohl:
+  archetype: null
 terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria — the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 folder: WSdLuPc7BaRqxNEt
 ---
 
 ## Overview
 
-Vylaria, once the pinnacle of civilization, lies at the southern edge of [[doc-vrystwald|Vrystwald]] on the northern shores of the [[doc-vylarianse|Vylarian Sea]]. For hundreds of years the Vylarian Empire ruled over vast swaths of [[doc-midhalnrgn|Mídhalión Region]], stretching from [[doc-tarvenirgn|Tarvénia Region]] and [[doc-provenzrgn|Provènzia Region]] in the west to the edge of [[doc-cnfdrtnhrdnstts|Harad]] in the east. Its power has greatly diminished over the last two centuries, but the empire's legacy — its roads, its language, its law, and its steel — still shapes the world.
+Vylaria, once the pinnacle of civilization, lies at the southern edge of [[place-vrystwald|Vrystwald]] on the northern shores of the [[place-vylarianse|Vylarian Sea]]. For hundreds of years the Vylarian Empire ruled over vast swaths of [[place-midhalnrgn|Mídhalión Region]], stretching from [[place-tarvenirgn|Tarvénia Region]] and [[place-provenzrgn|Provènzia Region]] in the west to the edge of [[affiliation-cnfdrtnhrdnstts|Harad]] in the east. Its power has greatly diminished over the last two centuries, but the empire's legacy — its roads, its language, its law, and its steel — still shapes the world.
 
 ## Geography
 
-Vylaria proper occupies a broad peninsula and surrounding coastal territories on the northern shore of the Vylarian Sea. The terrain is Vylarian in character: sun-drenched coastal lowlands, terraced hillsides of olive groves and vineyards, and a mountainous interior that rises toward the forests of [[doc-vrystwald|Vrystwald]]. The climate is warm and dry in summer, mild in winter, with the sea moderating temperatures year-round.
+Vylaria proper occupies a broad peninsula and surrounding coastal territories on the northern shore of the Vylarian Sea. The terrain is Vylarian in character: sun-drenched coastal lowlands, terraced hillsides of olive groves and vineyards, and a mountainous interior that rises toward the forests of [[place-vrystwald|Vrystwald]]. The climate is warm and dry in summer, mild in winter, with the sea moderating temperatures year-round.
 
 The great Vylarian roads, once the arteries of an empire, still connect the major cities and extend into former provinces. Many are now in disrepair, but their engineering remains impressive — straight, paved, and bridging rivers and gorges with arches of cut stone.
 
 ### The Cervaron Spine {#the-cervaron-spine}
 
-The empire's western frontier rises into the **Cervaron Spine** — a great arc of high mountains separating the Vylarian peninsula from the eastern reaches of [[doc-elavendre|Élavendre]] and the northeastern marches of [[doc-tarvenirgn|Tarvénia Region]]. The Cervaron is one of the most striking geographic features of western Ankaris: snow-capped peaks, deep forested valleys, glacier-fed rivers, high alpine pastures that bloom for two months of the year, and the dozen narrow passes that constitute the only practicable east-west crossings of the range.
+The empire's western frontier rises into the **Cervaron Spine** — a great arc of high mountains separating the Vylarian peninsula from the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia Region]]. The Cervaron is one of the most striking geographic features of western Ankaris: snow-capped peaks, deep forested valleys, glacier-fed rivers, high alpine pastures that bloom for two months of the year, and the dozen narrow passes that constitute the only practicable east-west crossings of the range.
 
-The Vylarian imperial chancery has claimed the Cervaron as Vylarian territory since the early Republic, on the strength of legionary expeditions that planted boundary-stones at the principal passes during the height of imperial expansion. In practice, the empire has never controlled the range. The Cervaron is and always has been the sacred country of the [[doc-alndntrblnds|Áelendan]] — the eastern Pelwar tribes whose religious tradition holds the high peaks as the dwelling-places of the [[affiliation-firstgods|First Gods]] and the great glacier-springs as the sources from which the world's first waters poured. The Áelendan recognize no Vylarian claim, treat the imperial boundary-stones as ritual objects of obscure foreign meaning, and have repulsed every Vylarian punitive expedition that has attempted to enforce the chancery's writ — sometimes through pitched battle, more often through the simple and devastating tactic of letting an imperial column climb deep into the range and then quietly sealing the passes behind it.
+The Vylarian imperial chancery has claimed the Cervaron as Vylarian territory since the early Republic, on the strength of legionary expeditions that planted boundary-stones at the principal passes during the height of imperial expansion. In practice, the empire has never controlled the range. The Cervaron is and always has been the sacred country of the [[place-alndntrblnds|Áelendan]] — the eastern Pelwar tribes whose religious tradition holds the high peaks as the dwelling-places of the [[affiliation-firstgods|First Gods]] and the great glacier-springs as the sources from which the world's first waters poured. The Áelendan recognize no Vylarian claim, treat the imperial boundary-stones as ritual objects of obscure foreign meaning, and have repulsed every Vylarian punitive expedition that has attempted to enforce the chancery's writ — sometimes through pitched battle, more often through the simple and devastating tactic of letting an imperial column climb deep into the range and then quietly sealing the passes behind it.
 
-The arrangement has settled, over many generations, into a workable equilibrium. The Vylarian Senate continues to list the Cervaron among the empire's territories. The Áelendan continue to hold it. Vylarian merchants pay informal "passage-gifts" to the local clans when they need to cross with goods, and the clans accept these gifts and grant safe passage; both sides find this preferable to attempting either conquest or formal treaty. The Áelendan name for the range — given only in their own tongue and rarely shared with outsiders — is said to mean _"the bones of the world's first dawn."_ The Vylarians use **Cervaron**, an old chancery word whose original meaning is contested but most commonly translated as _"the stag-walked place."_ The [[doc-elavendre|Pelwar]] of [[doc-elavendre|Élavendre]], who descend from the same root-population as the Áelendan and treat the range with comparable reverence, use a Pelwar form of the Áelendan name and quietly support their tribal cousins in any matter that touches the Cervaron — a fact the Vylarian chancery is aware of and has not raised diplomatically in nearly a century.
+The arrangement has settled, over many generations, into a workable equilibrium. The Vylarian Senate continues to list the Cervaron among the empire's territories. The Áelendan continue to hold it. Vylarian merchants pay informal "passage-gifts" to the local clans when they need to cross with goods, and the clans accept these gifts and grant safe passage; both sides find this preferable to attempting either conquest or formal treaty. The Áelendan name for the range — given only in their own tongue and rarely shared with outsiders — is said to mean _"the bones of the world's first dawn."_ The Vylarians use **Cervaron**, an old chancery word whose original meaning is contested but most commonly translated as _"the stag-walked place."_ The [[place-elavendre|Pelwar]] of [[place-elavendre|Élavendre]], who descend from the same root-population as the Áelendan and treat the range with comparable reverence, use a Pelwar form of the Áelendan name and quietly support their tribal cousins in any matter that touches the Cervaron — a fact the Vylarian chancery is aware of and has not raised diplomatically in nearly a century.
 
 ## History
 
 ### The Republic
 
-The Vylarian Republic was established around 650 BF by patrician families who overthrew the last Vylarian king. Governed by a Senate of landed aristocrats, the Republic grew steadily from a regional city-state into the dominant power of the Vylarian Sea. By 400 BF, Vylaria controlled significant territory and had become a major economic and political force in [[doc-midhalnrgn|Mídhalión Region]].
+The Vylarian Republic was established around 650 BF by patrician families who overthrew the last Vylarian king. Governed by a Senate of landed aristocrats, the Republic grew steadily from a regional city-state into the dominant power of the Vylarian Sea. By 400 BF, Vylaria controlled significant territory and had become a major economic and political force in [[place-midhalnrgn|Mídhalión Region]].
 
-The Republic era was a period of expansion, legal innovation, and — increasingly — internal strife. The conquest of [[doc-helionis|Heliónis]] around 300 BF proved to be a crucible. The Helionite city-states turned their mages against the Republic's legions, unleashing the most devastating magical warfare western Ankaris had ever seen. Conventional forces were helpless against sorceries that shattered formations and poisoned the land. Vylaria's answer was the **Dragon Riders** — warriors bonded to dragons whose very presence destabilized magic, causing spells to misfire and turning arcane power back upon its wielder with catastrophic results. The Dragon Riders broke the great mages of Heliónis where legions could not, though how the Republic first secured the dragons' aid remains poorly documented. The cost of the war was staggering regardless.
+The Republic era was a period of expansion, legal innovation, and — increasingly — internal strife. The conquest of [[place-helionis|Heliónis]] around 300 BF proved to be a crucible. The Helionite city-states turned their mages against the Republic's legions, unleashing the most devastating magical warfare western Ankaris had ever seen. Conventional forces were helpless against sorceries that shattered formations and poisoned the land. Vylaria's answer was the **Dragon Riders** — warriors bonded to dragons whose very presence destabilized magic, causing spells to misfire and turning arcane power back upon its wielder with catastrophic results. The Dragon Riders broke the great mages of Heliónis where legions could not, though how the Republic first secured the dragons' aid remains poorly documented. The cost of the war was staggering regardless.
 
 In the aftermath, the Senate founded the [[affiliation-ordoarcanis|Ordo Arcanis]], imposing a monopoly on arcane practice throughout the Republic's territories and ensuring that magic would never again be wielded freely on the battlefield. The Ordo drew on Helionite arcane theory but enforced it with Vylarian military power — one of the Republic's most consequential and enduring acts. With magic now regulated, the Dragon Riders were quietly disbanded — under circumstances that the Republic did not see fit to record honestly. The dragons' destabilizing effect on magic was incompatible with the Ordo's mission, but the manner of their departure involved a betrayal whose details remain among the most suppressed secrets of the early Republic.
 
@@ -68,11 +161,11 @@ In what is now reckoned as **Year 1** of the common calendar, a powerful Senator
 
 The common calendar of western Ankaris reckons from this moment. Events before it are dated "Before the Founding" (BF). The current year is approximately **720**.
 
-At its height, the Vylarian Empire controlled most of western Ankaris, from the forests of [[doc-vrystwald|Vrystwald]] to the deserts of [[doc-dunharargn|Dunhara Region]], and from the shores of [[doc-elavendre|Élavendre]] to the harbors of [[doc-cnfdrtnhrdnstts|Harad]]. Its legions were unmatched, its bureaucracy efficient, and its culture the benchmark against which all others were measured.
+At its height, the Vylarian Empire controlled most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the deserts of [[place-dunharargn|Dunhara Region]], and from the shores of [[place-elavendre|Élavendre]] to the harbors of [[affiliation-cnfdrtnhrdnstts|Harad]]. Its legions were unmatched, its bureaucracy efficient, and its culture the benchmark against which all others were measured.
 
 ### The Decline
 
-The decline began roughly two hundred years ago, driven by a combination of overextension, internal corruption, barbarian pressure from [[doc-vrystwald|Vrystwald]] and [[doc-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces like [[doc-provenzrgn|Provènzia Region]] and [[doc-tarvenirgn|Tarvénia Region]]. The most humiliating blow came roughly twelve years ago, when [[doc-cnfdrtnhrdnstts|Harad]] — the empire's wealthiest eastern province — fought a successful war of independence. The Haradian merchant princes, grown rich as intermediaries in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any representation in the Senate. When the empire responded to their growing power with heavier levies and tighter control, the merchants bankrolled a revolution, recruiting the common people with promises of liberty. The empire's initial military response was effective on land, but [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — seeing an opportunity to weaken its northern rival — covertly provided the rebels with gold, weapons, and military advisors. The Kheperi court maintained the fiction of "humanitarian commerce," but the effect was decisive: Kheperi gold kept the rebellion solvent, and Kheperi naval expertise helped the Haradian captains organize their ragtag flotilla into a fighting force. The destruction of a Vylarian naval squadron at the Battle of Tamzîr Shoals broke the empire's ability to sustain its eastern garrisons. Harad's independence was recognized within the year — a pragmatic concession by an empire that could not afford another costly campaign.
+The decline began roughly two hundred years ago, driven by a combination of overextension, internal corruption, barbarian pressure from [[place-vrystwald|Vrystwald]] and [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces like [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]]. The most humiliating blow came roughly twelve years ago, when [[affiliation-cnfdrtnhrdnstts|Harad]] — the empire's wealthiest eastern province — fought a successful war of independence. The Haradian merchant princes, grown rich as intermediaries in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any representation in the Senate. When the empire responded to their growing power with heavier levies and tighter control, the merchants bankrolled a revolution, recruiting the common people with promises of liberty. The empire's initial military response was effective on land, but [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — seeing an opportunity to weaken its northern rival — covertly provided the rebels with gold, weapons, and military advisors. The Kheperi court maintained the fiction of "humanitarian commerce," but the effect was decisive: Kheperi gold kept the rebellion solvent, and Kheperi naval expertise helped the Haradian captains organize their ragtag flotilla into a fighting force. The destruction of a Vylarian naval squadron at the Battle of Tamzîr Shoals broke the empire's ability to sustain its eastern garrisons. Harad's independence was recognized within the year — a pragmatic concession by an empire that could not afford another costly campaign.
 
 Today, the empire has retreated to its core territories around the Vylarian peninsula, though it still claims nominal authority over regions that have long since gone their own way. The loss of Harad's trade revenues has accelerated the fiscal decline — made worse by the explosion of direct Haradian-Kheperi commerce that now bypasses Vylarian intermediaries entirely. The humiliation of the defeat, and the knowledge that Ta'Kheperu's hand was behind it, festers in the Senate and the officer corps.
 
@@ -80,7 +173,7 @@ Today, the empire has retreated to its core territories around the Vylarian peni
 
 The common calendar of western Ankaris reckons from the founding of the Vylarian Empire — the moment a Vylarian Senator seized supreme power and transformed the Republic into an Empire. That moment is **Year 1**. Events before it are reckoned as "Before the Founding" (**BF**); events after it "After the Founding" (**AF**). The current year is **720 AF**. The Vylarian Republic was established around **650 BF**, and by **400 BF** it was already a major economic and political power in the Vylarian Sea region.
 
-This calendar is a product of Vylarian political authority, not a natural feature of the world. It is the working calendar of [[doc-midhalnrgn|Mídhalión Region]], [[doc-aureldirgn|Aurèldía]], and the regions that were or still are within the Empire's cultural sphere — [[doc-helionis|Heliónis]], [[doc-cnfdrtnhrdnstts|Harad]], [[doc-provenzrgn|Provènzia Region]], [[doc-tarvenirgn|Tarvénia Region]], [[doc-elavendre|Élavendre]], and [[doc-aelwyth|Aelwyth]] all use it. Beyond that sphere, other civilizations keep their own reckoning: [[doc-empirtkhpr|Ta'Kheperu]] and [[doc-okharis|Okháris]] reckon from the **Sep Tepy** ("First Occasion") roughly 2,830 years ago; [[doc-vedyarargn|Vedyara]] and the [[doc-tanvurempr|Empire of Tānvür]] maintain their own independent dating systems. The Common Calendar's spread across western Ankaris is itself a visible measure of where the Empire's cultural gravity still reaches, even where its legions no longer do.
+This calendar is a product of Vylarian political authority, not a natural feature of the world. It is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and the regions that were or still are within the Empire's cultural sphere — [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]], and [[place-aelwyth|Aelwyth]] all use it. Beyond that sphere, other civilizations keep their own reckoning: [[affiliation-empirtkhpr|Ta'Kheperu]] and [[affiliation-okharis|Okháris]] reckon from the **Sep Tepy** ("First Occasion") roughly 2,830 years ago; [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] maintain their own independent dating systems. The Common Calendar's spread across western Ankaris is itself a visible measure of where the Empire's cultural gravity still reaches, even where its legions no longer do.
 
 ## Culture and Society
 
@@ -102,7 +195,7 @@ The Emperor's authority rests on a combination of tradition, military loyalty, a
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the official state religion, and [[affiliation-arldnpnthn|Jánus]] (order, justice, and honorable struggle) nominally holds the highest position as patron of the empire. But the reality of Vylarian religious life is far more dynamic and chaotic than the official picture suggests.
 
-Vylaria is remarkably tolerant of different faiths — and remarkably fickle about them. The empire has always absorbed the religions of its conquered peoples, and the capital is a bazaar of competing cults, temples, and spiritual movements. All the major pantheons are represented: [[affiliation-arldnpnthn|Aurèldían]] temples dominate the old city, but [[affiliation-ashanpnthn|Āsháian Pantheon]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian Pantheon]] warrior-cults attract military officers, and mystery traditions from [[doc-helionis|Heliónis]] offer initiation rites to the curious aristocracy. New religious movements arrive with each passing season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool — backing a particular temple is a way to signal allegiance, build networks, and undermine rivals.
+Vylaria is remarkably tolerant of different faiths — and remarkably fickle about them. The empire has always absorbed the religions of its conquered peoples, and the capital is a bazaar of competing cults, temples, and spiritual movements. All the major pantheons are represented: [[affiliation-arldnpnthn|Aurèldían]] temples dominate the old city, but [[affiliation-ashanpnthn|Āsháian Pantheon]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian Pantheon]] warrior-cults attract military officers, and mystery traditions from [[place-helionis|Heliónis]] offer initiation rites to the curious aristocracy. New religious movements arrive with each passing season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool — backing a particular temple is a way to signal allegiance, build networks, and undermine rivals.
 
 The Imperial Cult — veneration of deceased emperors as divine or semi-divine figures — is the one institution that cuts across this religious chaos. Temples to deified emperors dot the cities, and participation in the cult is both a religious act and a declaration of political loyalty. It is the empire's civic religion, binding subjects of all faiths to a common ritual of imperial allegiance.
 
@@ -118,7 +211,7 @@ The relationship between the Ordo and the imperial government is symbiotic but u
 
 ## Population and Scale
 
-For all its decline, the empire that remains is no small thing. Under direct imperial governance live some **21 million** souls across the four core provinces, with another two to three million in the semi-autonomous city-states of [[doc-helionis|Heliónis]] — well over twenty-three million in all. The distribution is uneven: the dense heartland of [[doc-provinclys|Alyssa]] (~7 million, including the million of [[doc-magnapolis|Magnápolis]] itself) and the breadbasket of [[doc-provnchyln|Hylen]] (~7 million) hold the bulk of the people; the maritime province of [[doc-provincvld|Vald]] some five million; and the mountainous frontier of [[doc-provncmktr|Moktur]] barely two million, thinly spread across its valleys.
+For all its decline, the empire that remains is no small thing. Under direct imperial governance live some **21 million** souls across the four core provinces, with another two to three million in the semi-autonomous city-states of [[place-helionis|Heliónis]] — well over twenty-three million in all. The distribution is uneven: the dense heartland of [[affiliation-provinclys|Alyssa]] (~7 million, including the million of [[place-magnapolis|Magnápolis]] itself) and the breadbasket of [[affiliation-provnchyln|Hylen]] (~7 million) hold the bulk of the people; the maritime province of [[affiliation-provincvld|Vald]] some five million; and the mountainous frontier of [[affiliation-provncmktr|Moktur]] barely two million, thinly spread across its valleys.
 
 These are the numbers of a great power — but a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. And the capital's million mouths are fed not by Alyssa alone but by Hylen's grain, Vald's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]] — the same logistics that make so vast a city possible at all.
 
@@ -126,24 +219,24 @@ These are the numbers of a great power — but a fraction of what the empire com
 
 The diminished empire is organized into four provinces, each with its own character and internal politics:
 
-- **[[doc-provinclys|Alyssa]]** — The heartland province, containing the imperial capital and the Senate. The most urbanized and politically sophisticated region, home to the oldest senatorial families and the seat of the Ordo Arcanis.
-- **[[doc-provnchyln|Hylen]]** — The agricultural breadbasket of the empire, with fertile lowlands producing grain, wine, and olive oil. Hylen's landed aristocracy are conservative and traditionalist, resistant to change.
-- **[[doc-provncmktr|Moktur]]** — The mountainous northern province bordering [[doc-vrystwald|Vrystwald]], responsible for the empire's frontier defense. Moktur's military governors have significant autonomy and sometimes act as semi-independent warlords.
-- **[[doc-provincvld|Vald]]** — The coastal province facing the [[doc-vylarianse|Vylarian Sea]], home to the empire's shipyards and naval bases. Vald's merchant class has the most contact with [[doc-cnfdrtnhrdnstts|Harad]] and [[doc-helionis|Heliónis]], making it the most cosmopolitan and commercially minded province.
+- **[[affiliation-provinclys|Alyssa]]** — The heartland province, containing the imperial capital and the Senate. The most urbanized and politically sophisticated region, home to the oldest senatorial families and the seat of the Ordo Arcanis.
+- **[[affiliation-provnchyln|Hylen]]** — The agricultural breadbasket of the empire, with fertile lowlands producing grain, wine, and olive oil. Hylen's landed aristocracy are conservative and traditionalist, resistant to change.
+- **[[affiliation-provncmktr|Moktur]]** — The mountainous northern province bordering [[place-vrystwald|Vrystwald]], responsible for the empire's frontier defense. Moktur's military governors have significant autonomy and sometimes act as semi-independent warlords.
+- **[[affiliation-provincvld|Vald]]** — The coastal province facing the [[place-vylarianse|Vylarian Sea]], home to the empire's shipyards and naval bases. Vald's merchant class has the most contact with [[affiliation-cnfdrtnhrdnstts|Harad]] and [[place-helionis|Heliónis]], making it the most cosmopolitan and commercially minded province.
 
-The [[doc-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm, shares cultural and linguistic ties with the empire but maintains its own sovereignty and a theocratic devotion to the Aurèldían faith.
+The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm, shares cultural and linguistic ties with the empire but maintains its own sovereignty and a theocratic devotion to the Aurèldían faith.
 
 ## Military
 
 The Vylarian legions, once the most feared fighting force in Ankaris, are a shadow of their former selves. The empire can still field disciplined, well-equipped armies, but they are stretched thin, defending borders that the empire can no longer fully control. Mercenaries — often Tarvénan or Normen — fill gaps in the ranks, and the reliability of these hired swords varies considerably.
 
-The Vylarian navy remains competent, controlling key points in the [[doc-vylarianse|Vylarian Sea]], but it too has declined. Haradian naval supremacy in the eastern sea is an uncomfortable reality that Vylarian admirals prefer not to discuss.
+The Vylarian navy remains competent, controlling key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Haradian naval supremacy in the eastern sea is an uncomfortable reality that Vylarian admirals prefer not to discuss.
 
 ## Relations
 
-Vylaria's relationships with its neighbors are defined by the long shadow of empire. [[doc-provenzrgn|Provènzia Region]] and [[doc-tarvenirgn|Tarvénia Region]] were once provinces and retain significant Vylarian cultural influence, but both guard their independence fiercely. [[doc-cnfdrtnhrdnstts|Harad]] fought a successful war of independence roughly twelve years ago, and relations remain tense — the empire has not forgotten the humiliation, and Haradian merchant guilds are aggressively expanding into markets the empire once dominated.
+Vylaria's relationships with its neighbors are defined by the long shadow of empire. [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] were once provinces and retain significant Vylarian cultural influence, but both guard their independence fiercely. [[affiliation-cnfdrtnhrdnstts|Harad]] fought a successful war of independence roughly twelve years ago, and relations remain tense — the empire has not forgotten the humiliation, and Haradian merchant guilds are aggressively expanding into markets the empire once dominated.
 
-[[doc-helionis|Heliónis]], once the cultural jewel of the empire, maintains close but complicated ties. Vylaria conquered Heliónis militarily, but Helionite culture conquered Vylaria in return — Vylarian education, philosophy, law, and theology all bear deep Helionite influence. Vylarian aristocrats still send their children to Helionite academies, even as the empire's practical authority over the region fades. [[doc-vrystwald|Vrystwald]] to the north represents a chronic military problem, with Varokh raids a persistent nuisance. And across the sea, the [[doc-empirtkhpr|The Empire of Ta'Kheperu]] empire represents the other great power in the region — the two empires have fought wars in the past but have largely settled into a wary equilibrium, with Ta'Kheperu dominant in the south and Vylaria in the north.
+[[place-helionis|Heliónis]], once the cultural jewel of the empire, maintains close but complicated ties. Vylaria conquered Heliónis militarily, but Helionite culture conquered Vylaria in return — Vylarian education, philosophy, law, and theology all bear deep Helionite influence. Vylarian aristocrats still send their children to Helionite academies, even as the empire's practical authority over the region fades. [[place-vrystwald|Vrystwald]] to the north represents a chronic military problem, with Varokh raids a persistent nuisance. And across the sea, the [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] empire represents the other great power in the region — the two empires have fought wars in the past but have largely settled into a wary equilibrium, with Ta'Kheperu dominant in the south and Vylaria in the north.
 
 ## Notable Features
 
@@ -154,17 +247,17 @@ Vylaria's relationships with its neighbors are defined by the long shadow of emp
 
 ## Commerce and Currency
 
-Vylarian Empire uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Vylarian Empire uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The dominant arcane guild
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Former province, now independent rival
-- [[doc-helionis|Heliónis]] — Cultural heartland
-- [[doc-provenzrgn|Provènzia Region]] — Former province, cultural inheritor
-- [[doc-vrystwald|Vrystwald]] — Northern frontier
-- [[doc-vylarianse|Vylarian Sea]] — The empire's maritime domain
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Former province, now independent rival
+- [[place-helionis|Heliónis]] — Cultural heartland
+- [[place-provenzrgn|Provènzia Region]] — Former province, cultural inheritor
+- [[place-vrystwald|Vrystwald]] — Northern frontier
+- [[place-vylarianse|Vylarian Sea]] — The empire's maritime domain
 - [[skill-vylarilng|Vylari]] — Naming conventions
-- [[doc-provinclys|Province of Alyssa]], [[doc-provnchyln|Province of Hylen]], [[doc-provncmktr|Province of Moktur]], [[doc-provincvld|Province of Vald]] — Provinces
-- [[doc-hlykngdmnrtm|Holy Kingdom of Nartûm]] — Independent Vylari-speaking realm
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]] — Provinces
+- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]] — Independent Vylari-speaking realm
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon

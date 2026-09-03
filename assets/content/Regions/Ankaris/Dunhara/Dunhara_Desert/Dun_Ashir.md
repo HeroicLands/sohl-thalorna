@@ -3,23 +3,22 @@ aliases:
   - Dûn Ashir
   - Dun Ashir
 id: OEZyUT8hxlPoOJhD
+tags:
+  - oasis
+  - settlement
+description: "Oasis Settlement"
 type: place
 subType: settlement
-settlementType: "Oasis Settlement"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - dunhardsrtrgn
+  population: null
 name:
   full: Dûn Ashir
   aliases: []
 shortcode: dunashir
-parent:
-  regions:
-    - dunhardsrtrgn
-  polities:
-    - dunhartrbs
 folder: fHLmguBwgTuZfGJ9
 ---
 

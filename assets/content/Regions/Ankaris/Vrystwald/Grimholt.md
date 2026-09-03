@@ -2,21 +2,22 @@
 aliases:
   - Grimholt
 id: nslauvnDvb7PsYKm
+tags:
+  - village
+  - fortified
+description: "Fortified Village"
 type: place
 subType: settlement
-settlementType: "Fortified Village"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vrystwald
+  population: null
 name:
   full: Grimholt
   aliases: []
 shortcode: grimholt
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

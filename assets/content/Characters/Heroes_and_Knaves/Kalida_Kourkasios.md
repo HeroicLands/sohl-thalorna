@@ -5,6 +5,7 @@ aliases:
   - Kalida Kourkasios
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kalída Kourkásios
   title: ""
@@ -16,29 +17,26 @@ id: Sx0wO6RzgXlBRE42
 folder: b81DHx3S7C9ep13E
 shortcode: kalidkrkss
 img: icons/person.svg
-portrait: images/being/kalidkrkss-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/kalidkrkss-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 29
   birthday: 691/4/11
-  height:
-    m: 1.7
-  weight:
-    kg: 65.3
-  build:
-    frame: light
+  height: 1.7
+  weight: 65.3
+  frame: light
   appearance:
     eye_color: green
     hair_color: black

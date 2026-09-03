@@ -3,7 +3,7 @@ aliases:
   - Internal Subversive Threats
 id: CMPw7T4QzM8gCtkS
 type: lore
-subType: folk
+subType: history
 name:
   full: Internal Subversive Threats
   aliases: []
@@ -13,23 +13,23 @@ folder: l3wIL8UihJI5nx6L
 
 # Internal Subversive Threats
 
-The [[doc-tanvurempr|Empire of Tānvür]] faces numerous threats from within — secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
+The [[affiliation-tanvurempr|Empire of Tānvür]] faces numerous threats from within — secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
 
 ---
 
 ## The Sorcerers' Guild (The [[affiliation-ordoarcanis|Ordo Arcanis]])
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] (known in Tānvür as the Sorcerers' Guild) is an independent and powerful guild of sorcerers from beyond the empire's borders. The guild advocates for the freedom and self-determination of the [[doc-venduk|Vëndük]], believing that they should not be bound to servitude. The Sorcerers' Guild has begun clandestine operations within Tānvür, attempting to incite rebellion among the Vëndük and gather arcane knowledge. Their activities represent a significant threat to the empire's control over its magical resources.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] (known in Tānvür as the Sorcerers' Guild) is an independent and powerful guild of sorcerers from beyond the empire's borders. The guild advocates for the freedom and self-determination of the [[lore-venduk|Vëndük]], believing that they should not be bound to servitude. The Sorcerers' Guild has begun clandestine operations within Tānvür, attempting to incite rebellion among the Vëndük and gather arcane knowledge. Their activities represent a significant threat to the empire's control over its magical resources.
 
 ## [[affiliation-hekzhak|Hëk Zhāk]] (The Shadow Sect)
 
-A secretive network of rogue [[doc-venduk|Vëndük]] who have escaped imperial control and now operate in the empire's dark underbelly. The [[affiliation-hekzhak|Shadow Sect]] offers forbidden magical services to those willing to pay, and pursues an ideological goal unthinkable within the imperial order: the liberation of magic itself from the classification system. Their long-term aim is to overthrow the existing order and establish a society in which magic is free from imperial restrictions.
+A secretive network of rogue [[lore-venduk|Vëndük]] who have escaped imperial control and now operate in the empire's dark underbelly. The [[affiliation-hekzhak|Shadow Sect]] offers forbidden magical services to those willing to pay, and pursues an ideological goal unthinkable within the imperial order: the liberation of magic itself from the classification system. Their long-term aim is to overthrow the existing order and establish a society in which magic is free from imperial restrictions.
 
 The Sect's most consequential external relationship is with the [[affiliation-ordoarcanis|Ordo Arcanis]] embassy in the imperial capital — strained, transactional, and deeply subversive. The Ordo secretly provides the Sect with funds, safe houses, and extraction support in exchange for information and carefully measured access to magical practices that the Ordo cannot otherwise acquire in so rigid a society. Neither side wants to be caught; the repercussions would be catastrophic for both. The arrangement is rife with blackmail potential on both sides, and is managed with extreme care through intermediaries and compartmentalized exchange (see [[affiliation-hekzhak|Hëk Zhāk]] for detail).
 
 ## The Merchant Uprising
 
-The [[doc-shukren|Shükrën]] caste, though wealthy, is often looked down upon by the higher castes. A growing faction within the Shükrën is organizing an uprising, demanding greater political power and representation. This movement is gaining momentum and, if not addressed, could lead to widespread civil unrest, especially as the Shükrën have begun covertly collaborating with the Black Lotus Society to achieve their goals.
+The [[lore-shukren|Shükrën]] caste, though wealthy, is often looked down upon by the higher castes. A growing faction within the Shükrën is organizing an uprising, demanding greater political power and representation. This movement is gaining momentum and, if not addressed, could lead to widespread civil unrest, especially as the Shükrën have begun covertly collaborating with the Black Lotus Society to achieve their goals.
 
 ## [[affiliation-nuszokreit|Nüszōk Rëit]] (The Cult of the Forsaken)
 
@@ -47,18 +47,18 @@ The **Black Lotus Society** is a secretive criminal organization that operates d
 
 **Influence and Threats:**
 
-- The Black Lotus Society has significant control over the [[doc-shukren|Shükrën]] caste, offering protection and illicit services that can greatly enhance a merchant's wealth or lead them to ruin.
+- The Black Lotus Society has significant control over the [[lore-shukren|Shükrën]] caste, offering protection and illicit services that can greatly enhance a merchant's wealth or lead them to ruin.
 - The society's assassins, while rare and highly discreet, are feared for their effectiveness.
 - The society's alliance with the Cult of the Forsaken and the Merchant Uprising makes them a potent threat to the empire's stability, capable of undermining both the social order and the economy from within.
 
 ## The Great Famine
 
-A series of poor rice harvests in the south has led to fears of famine across the empire. Crops have failed, rivers have dried up, and the people are starving. The disaster is exacerbated by rumors of supernatural causes — the [[doc-tanthei|Tānthëi]] debate whether it represents a classification failure in the Earth and Water domains or a sign that the [[doc-mandatehvn|Mandate of Heaven]] is weakening. As desperation grows, so does unrest, with starving peasants beginning to revolt against the landowners and the imperial authorities in some areas.
+A series of poor rice harvests in the south has led to fears of famine across the empire. Crops have failed, rivers have dried up, and the people are starving. The disaster is exacerbated by rumors of supernatural causes — the [[lore-tanthei|Tānthëi]] debate whether it represents a classification failure in the Earth and Water domains or a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening. As desperation grows, so does unrest, with starving peasants beginning to revolt against the landowners and the imperial authorities in some areas.
 
 ## See Also
 
-- [[doc-yurthatzhk|Yürtthāt Zhāk]] — A noble house entangled with the Black Lotus Society
-- [[doc-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general's rebellion
-- [[doc-veizhatret|Vëi Zhāt Rëit]] — The political intrigue that enables many of these threats
-- [[doc-castelaws|Caste Laws]] — The rigid social structure under pressure
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire these forces seek to undermine
+- [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — A noble house entangled with the Black Lotus Society
+- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general's rebellion
+- [[lore-veizhatret|Vëi Zhāt Rëit]] — The political intrigue that enables many of these threats
+- [[lore-castelaws|Caste Laws]] — The rigid social structure under pressure
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire these forces seek to undermine

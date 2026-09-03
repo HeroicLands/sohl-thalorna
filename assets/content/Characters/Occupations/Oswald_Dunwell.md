@@ -3,6 +3,7 @@ aliases:
   - Oswald Dunwell
 tags:
   - draft
+  - administration
 name:
   full: Oswald Dunwell
   title: ""
@@ -15,38 +16,33 @@ id: s5t2kTT7SOlYxGoh
 folder: elH5NDPUuiRCICrE
 shortcode: oswaldunwl
 img: icons/person.svg
-portrait: images/being/oswaldunwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/oswaldunwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Manor Lord)
-  station: administration
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 33
   birthday: 691/2/4
-  height:
-    m: 1.83
-  weight:
-    kg: 74
-  build:
-    frame: medium
+  height: 1.83
+  weight: 74
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: blonde
     skin_color: pale
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Short sword
-  armor:
-    - Simple noble attire suitable for overseeing lands
-  misc:
-    - Leather pouch for documents
-    - Ledger for land management
-    - tools for agriculture
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

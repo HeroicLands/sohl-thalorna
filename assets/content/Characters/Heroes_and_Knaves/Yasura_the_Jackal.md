@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Yâsûra the Jackal
   title: ""
@@ -18,29 +19,26 @@ id: BYP7Z32nydjk2iyi
 folder: 7H2fgS0uI3S0B1qz
 shortcode: yasurajckl
 img: icons/person.svg
-portrait: images/being/yasurajckl-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/yasurajckl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Raider Warlord
-  station: soldiery
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 41
   birthday: 679/3/19
-  height:
-    m: 1.72
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.72
+  weight: 66
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -541,7 +539,7 @@ Yâsûra is a lean, weather-hardened woman in her early forties, built in the wi
 
 ### Origin: A Daughter of the Matriarchy
 
-Yâsûra was born to a minor clan of the southern cantons of the [[doc-mtrrchybth|Matriarchy of Bethûa]] — lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the **Charíssa**, the lethal Bethûan unarmed art, and she earned a place among the **Lonkhai**, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethûa raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
+Yâsûra was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the **Charíssa**, the lethal Bethûan unarmed art, and she earned a place among the **Lonkhai**, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethûa raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
 
 ### The Fall
 
@@ -596,7 +594,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### The Prize on Her Ground
 
-- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border — the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[doc-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself — and the woman it threw away now holds, by sheerest accident, the power to ruin it.
+- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border — the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[affiliation-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself — and the woman it threw away now holds, by sheerest accident, the power to ruin it.
 
 ## Plot Hooks
 
@@ -614,4 +612,4 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 4. **The Register and the Jackal**:
 
-   Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach — and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[doc-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.
+   Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach — and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[affiliation-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.

@@ -4,7 +4,6 @@ aliases:
   - Bethua Region
 tags:
   - region
-title: ""
 description: The western coast of Xerathia's northern shore and the engineered interior behind it — the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
 name:
   full: Bethûa Region
@@ -14,27 +13,23 @@ shortcode: bethuargn
 img: ""
 type: place
 subType: region
-demonym: Bethûan
-parent:
-  regions:
+data:
+  demonym: Bethûan
+  lore:
+    - humanflk
+  parents:
     - nrthrnfrtlrgn
-  continents:
     - xerathia
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-languages:
-  - bethunlng
+  population: null
 ---
 
 ## Overview
 
 The Bethûa Region is the western end of the
-[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the coast and hinterland held
-by the [[doc-mtrrchybth|Matriarchy of Bethûa]], and the part of Xerathia's
+[[place-nrthrnfrtlrgn|Northern Fertile Region]] — the coast and hinterland held
+by the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the part of Xerathia's
 northern shore that faces most directly across the
-[[doc-vylarianse|Vylarian Sea]] toward Ankaris.
+[[place-vylarianse|Vylarian Sea]] toward Ankaris.
 
 ## Geography
 
@@ -58,21 +53,21 @@ between them, open grassland pastures sheep, cattle and horses.
 The region is Bethûan, and its ruling class, priesthood and engineering corps
 are all female. Its cultural gravity pulls north across the sea rather than
 toward its immediate neighbours: its language carries ancient Pelwar-linked
-roots shared with [[doc-helionis|Heliónis]], and it venerates the
+roots shared with [[place-helionis|Heliónis]], and it venerates the
 [[affiliation-arldnpnthn|Aurèldían Pantheon]] in a matriarchal rite rather
 than any home-grown tradition.
 
 ## Politics and Power
 
-The region is the territory of the [[doc-mtrrchybth|Matriarchy of Bethûa]].
+The region is the territory of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]].
 Along its southern margins, Okháric frontier clans pay tribute to Bethûan
 authorities in exchange for grazing rights; its eastern frontier with
-[[doc-takheperurgn|Ta'Kheperu]] is poorly defined and a recurring source of
+[[place-takheperurgn|Ta'Kheperu]] is poorly defined and a recurring source of
 friction.
 
 ## See Also
 
-- [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
-- [[doc-mtrrchybth|Matriarchy of Bethûa]] — the realm that holds this region
-- [[doc-takheperurgn|Ta'Kheperu Region]] — neighbour to the east
-- [[doc-okharisrgn|Okháris Region]] — neighbour to the south
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
+- [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — the realm that holds this region
+- [[place-takheperurgn|Ta'Kheperu Region]] — neighbour to the east
+- [[place-okharisrgn|Okháris Region]] — neighbour to the south

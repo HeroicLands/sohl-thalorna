@@ -4,6 +4,7 @@ aliases:
   - Guthny Eldskari
 tags:
   - draft
+  - common-folk
 name:
   full: Guthný Eldskari
   title: ""
@@ -16,23 +17,27 @@ id: eP32fNMGyDLJ9YV5
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gthnyldskr
 img: icons/person.svg
-portrait: images/being/gthnyldskr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/gthnyldskr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Labourer (farm)
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 32
   birthday: 692/2/4
-  height:
-    m: 1.83
-  weight:
-    kg: 86
-  build:
-    frame: medium
+  height: 1.83
+  weight: 86
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
@@ -40,15 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
-gear:
-  weapons: []
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Leather bag for personal items
-    - Basic tools
-    - gloves
-    - water skin
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -2,23 +2,22 @@
 aliases:
   - Stennvold
 id: Mk9vNx3kSp2Rb8Lt
+tags:
+  - town
+  - mining
+description: "Mining Town"
 type: place
 subType: settlement
-settlementType: "Mining Town"
-population: 4000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 4000
 name:
   full: Stennvold
   aliases: []
 shortcode: stennvold
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -26,9 +25,9 @@ folder: WSdLuPc7BaRqxNEt
 
 ## Overview
 
-Stennvold is a high mining-and-smelting town of the Mokturan heights, its furnaces working the ore that [[doc-ferrovan|Ferrovan]] and the lesser camps send down to it. Smoke hangs over its valley the year round; its half-Varokh workforce is hard, insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold under guard is among the empire's most jealously taxed.
+Stennvold is a high mining-and-smelting town of the Mokturan heights, its furnaces working the ore that [[place-ferrovan|Ferrovan]] and the lesser camps send down to it. Smoke hangs over its valley the year round; its half-Varokh workforce is hard, insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold under guard is among the empire's most jealously taxed.
 
 ## See Also
 
-- [[doc-provncmktr|Province of Moktur]] — Parent province
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provncmktr|Province of Moktur]] — Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview

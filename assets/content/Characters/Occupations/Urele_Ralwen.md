@@ -4,6 +4,7 @@ aliases:
   - Urele Ralwen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Úrelè Rálwen
   title: ""
@@ -16,38 +17,33 @@ id: P9tEpZZRztDeSdkC
 folder: J9R0fnGUTBY5z4pd
 shortcode: ureleralwn
 img: icons/person.svg
-portrait: images/being/ureleralwn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ureleralwn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 28
   birthday: 696/10/21
-  height:
-    m: 1.78
-  weight:
-    kg: 69
-  build:
-    frame: medium
+  height: 1.78
+  weight: 69
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: dark_brown
     skin_color: olive
     complexion: fair
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple but elegant clothing suitable for her shop
-  misc:
-    - Decorative glass bottles for perfumes
-    - Herb garden for ingredients
-    - blending tools
-    - eco-friendly packaging
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

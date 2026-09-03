@@ -29,7 +29,7 @@ Dunhari is a tongue of the Desert family. Fluency measures the sophistication of
 
 ## Overview
 
-Dunhari is the melodic, poetic tongue of the desert peoples: the [[doc-dunharargn|Dunhara Region]] tribes, the settled communities of the [[doc-khzryndsrtrgn|Khazryn Desert Region]], and the urban centers of the [[doc-sultntmrdd|Sultanate of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
+Dunhari is the melodic, poetic tongue of the desert peoples: the [[place-dunharargn|Dunhara Region]] tribes, the settled communities of the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the urban centers of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
 
 The language features extensive vocabulary for desert navigation, astronomy, water sources, kinship, honor, and the subtleties of weather and seasonal change. Dunhari is the voice of nomadic wisdom and courtly refinement.
 

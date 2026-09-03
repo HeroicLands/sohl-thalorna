@@ -5,6 +5,7 @@ aliases:
   - Senta TaSereket
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Sênta Ta'Sereket
   title: ""
@@ -17,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
 img: icons/person.svg
-portrait: images/being/sentatsrkt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/sentatsrkt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Caravan Guard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 28
   birthday: 692/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -557,7 +555,7 @@ sohl:
     - { shortcode: wtrskin, type: containergear }
 ---
 
-**Home:** [[doc-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Per-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -567,7 +565,7 @@ Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair
 
 ### Early Life
 
-Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[doc-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of Íšét, blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of Íšét, blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 

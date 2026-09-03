@@ -9,9 +9,30 @@ name:
 description: "A ten-foot armored arachnid ambusher that waits motionless for prey, combining crushing claws with lethal venom across a multi-mile territory."
 id: D8RLnGJ3DDuh4jNr
 img: icons/game-icons/lorc/scorpion.svg
-portrait: images/being/gntscrpn-portrait.webp
 shortcode: gntscrpn
 type: being
+data:
+  portrait: images/being/gntscrpn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

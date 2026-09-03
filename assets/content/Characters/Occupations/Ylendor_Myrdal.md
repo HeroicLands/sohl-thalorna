@@ -4,6 +4,8 @@ aliases:
   - Ylendor Myrdal
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Yléndor Mýrdal
   title: ""
@@ -16,39 +18,33 @@ id: nPFz46PDjqipVJIq
 folder: J9R0fnGUTBY5z4pd
 shortcode: ylndrmyrdl
 img: icons/person.svg
-portrait: images/being/ylndrmyrdl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ylndrmyrdl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: guilded
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 58
   birthday: 662/10/29
-  height:
-    m: 1.63
-  weight:
-    kg: 58
-  build:
-    frame: medium
+  height: 1.63
+  weight: 58
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: chestnut
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Ornate staff
-  armor:
-    - Robes adorned with star patterns
-  misc:
-    - Leather-bound journal for charts
-    - Astrolabe
-    - star charts
-    - telescope
 sohl:
   archetype: null
   body:
@@ -533,12 +529,6 @@ sohl:
     - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 36 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

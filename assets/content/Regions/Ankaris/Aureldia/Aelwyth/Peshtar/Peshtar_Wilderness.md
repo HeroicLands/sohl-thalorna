@@ -4,7 +4,6 @@ aliases:
   - Peshtar Highlands
 tags:
   - region
-title: ""
 description: Ungoverned highland forests of the Peshtar tribes — animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.
 name:
   full: Peshtar Wilderness
@@ -14,23 +13,23 @@ shortcode: pshtrwldrns
 img: ""
 type: place
 subType: region
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  demonym: Peshtar
+  lore:
+    - humanflk
+  parents:
     - aelwyth
+    - ankrscntnnt
+  population: null
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
-demonym: Peshtar
-peoples:
-  - human
 folder: ZbE1NQo3ApZ26xon
 ---
 
-The Peshtar Wilderness is the ungoverned highland quarter of [[doc-aelwyth|Aelwyth]] — rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aurèldían clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
+The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Aelwyth]] — rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aurèldían clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
 
 ## Geography
 
-The Peshtar Wilderness occupies the northwestern quarter of [[doc-aelwyth|Aelwyth]], the largest island of the [[doc-aureldirgn|Aurèldían]] sphere. Its physical character is defined by highland terrain — granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor — with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
+The Peshtar Wilderness occupies the northwestern quarter of [[place-aelwyth|Aelwyth]], the largest island of the [[place-aureldirgn|Aurèldían]] sphere. Its physical character is defined by highland terrain — granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor — with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
 
 The coastline is cliff-bound, broken by a handful of rocky inlets that the tribes use for fishing and occasional coastal raids but that support no real harbors. The one or two natural anchorages that might have made good ports have never been developed — the Peshtar have no interest in concentrated settlement of any kind, and any outsider who has tried to build a port has had his workers harassed, his materials burned, and his stockade overrun within a season.
 
@@ -48,7 +47,7 @@ SORT name.full ASC
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descendants of the island's earliest recorded human inhabitants and predating both the Élavendri-influenced southern kingdoms of Aelwyth and the Normen settlers of the eastern coasts by thousands of years. They are not a single tribe but a constellation of related clans — the [[doc-pshtrwldrns|accounts vary widely]] on how many clans there are and which have lineal relationships with which — who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descendants of the island's earliest recorded human inhabitants and predating both the Élavendri-influenced southern kingdoms of Aelwyth and the Normen settlers of the eastern coasts by thousands of years. They are not a single tribe but a constellation of related clans — the [[place-pshtrwldrns|accounts vary widely]] on how many clans there are and which have lineal relationships with which — who share a language family, a ritual complex, and a common contempt for the lowlands.
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the druid. The war-chief is the martial leader — typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The druid is the spiritual and legal authority — trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and druid openly quarrel tend to fission.
 
@@ -78,18 +77,18 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 ## Relations with Neighboring Regions
 
-To the **south** lies the [[doc-repblctrvn|Republic of Tarvenne]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
+To the **south** lies the [[affiliation-repblctrvn|Republic of Tarvenne]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
 
-To the **east** lies the [[doc-jrldmstrmvld|Járldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Normen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Járldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Normen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
 
 ## See Also
 
-- [[doc-aelwyth|Aelwyth]] — the parent island
-- [[doc-repblctrvn|Republic of Tarvenne]] — southern lowland neighbor
-- [[doc-jrldmstrmvld|Járldom of Stormveld]] — eastern Nordmal-descended neighbor
+- [[place-aelwyth|Aelwyth]] — the parent island
+- [[affiliation-repblctrvn|Republic of Tarvenne]] — southern lowland neighbor
+- [[affiliation-jrldmstrmvld|Járldom of Stormveld]] — eastern Nordmal-descended neighbor
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — partial overlay of the older Peshtar faith
 - [[skill-varokhlng|Varokhi]] — related naming tradition
-- [[doc-aureldirgn|Aurèldía Region]] — the broader cultural region
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-aureldirgn|Aurèldía Region]] — the broader cultural region
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

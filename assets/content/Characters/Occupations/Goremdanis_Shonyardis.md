@@ -4,6 +4,7 @@ aliases:
   - Goremdanis Shonyardis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Goremdânis Shônyàrdîs
   title: ""
@@ -16,39 +17,33 @@ id: Rz92ZJxfYzaqIhDx
 folder: UFBfgKZUF0bAE7gG
 shortcode: grmdnshnyrds
 img: icons/person.svg
-portrait: images/being/grmdnshnyrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/grmdnshnyrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Lyre)
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 35
   birthday: 685/2/8
-  height:
-    m: 1.85
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.85
+  weight: 77
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: medium
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Simple leather vest
-  misc:
-    - Leather pouch
-    - Lyre
-    - spare strings
-    - small book of songs
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

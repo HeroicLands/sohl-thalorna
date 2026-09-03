@@ -2,24 +2,23 @@
 aliases:
   - Tahrodan
 id: gqBpXloRdqQrE3Og
+tags:
+  - fortress
+  - town
+description: "Fortress Town"
 type: place
 subType: settlement
-settlementType: "Fortress Town"
+data:
+  demonym: null
+  lore:
+    - humanflk
+  parents:
+    - amradadrgn
+  population: null
 name:
   full: Tahrodan
   aliases: []
 shortcode: tahrodan
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 
@@ -33,6 +32,6 @@ The spiritual life of Tahrodan centers upon the Āsháian pantheon, with major t
 
 ## See Also
 
-- [[doc-sultntmrdd|Sultanate of Amradad]] — Regional overview
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — Regional overview
 - [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

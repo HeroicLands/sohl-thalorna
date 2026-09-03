@@ -9,9 +9,30 @@ name:
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
 id: c9Dwi7Xceu24w4P6
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/feraldew-portrait.webp
 shortcode: feraldew
 type: being
+data:
+  portrait: images/being/feraldew-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

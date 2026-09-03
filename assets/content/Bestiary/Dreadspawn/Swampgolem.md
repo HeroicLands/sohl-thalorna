@@ -9,9 +9,30 @@ name:
 description: "A malevolent animate mass of mud, rot, and drowned bones, formed by the swamp itself to lash out at intruders."
 id: rkqNzivEoFUry3Wa
 img: icons/game-icons/delapouite/golem-head.svg
-portrait: images/being/swmpglm-portrait.webp
 shortcode: swmpglm
 type: being
+data:
+  portrait: images/being/swmpglm-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

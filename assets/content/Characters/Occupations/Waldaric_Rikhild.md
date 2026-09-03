@@ -4,6 +4,7 @@ aliases:
   - Waldaric Rikhild
 tags:
   - draft
+  - tradesfolk
 name:
   full: Waldaric Ríkhild
   title: ""
@@ -16,23 +17,27 @@ id: RZzUk1D6iNIb6zLK
 folder: Nu7AgLZEmR26u2pk
 shortcode: wldrcrkhld
 img: icons/person.svg
-portrait: images/being/wldrcrkhld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wldrcrkhld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 44
   birthday: 676/3/11
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a fire on the leg
-gear:
-  weapons:
-    - Small knife for cutting fabric
-  armor:
-    - Leather apron
-  misc:
-    - Wooden chest for storing fabric
-    - Sewing tools
-    - canvas rolls
-    - leather thimbles
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

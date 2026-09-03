@@ -4,6 +4,7 @@ aliases:
   - Rodren Jutharen
 tags:
   - draft
+  - common-folk
 name:
   full: Rodrén Jútharen
   title: ""
@@ -16,23 +17,27 @@ id: iZDQHJMu8W5CN0U5
 folder: 9t9O4iB5cYJtSaTG
 shortcode: rodrnjthrn
 img: icons/person.svg
-portrait: images/being/rodrnjthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rodrnjthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 38
   birthday: 682/5/12
-  height:
-    m: 1.85
-  weight:
-    kg: 84
-  build:
-    frame: medium
+  height: 1.85
+  weight: 84
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: chestnut
@@ -40,15 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a tiger on the forearm
-gear:
-  weapons: []
-  armor:
-    - Tattered tunic
-  misc:
-    - Cloth sack for carrying tools
-    - Pickaxe
-    - water flask
-    - old map of the mine
 sohl:
   archetype: null
   body:
@@ -534,12 +530,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

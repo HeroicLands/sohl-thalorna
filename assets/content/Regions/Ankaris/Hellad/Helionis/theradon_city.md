@@ -2,25 +2,26 @@
 aliases:
   - Therádon
 id: vRDisPmvFKBKEq7e
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
-settlementType: "City-State"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - heladrgn
+  population: null
 name:
   full: Therádon
   aliases: []
 shortcode: theradon2
-parent:
-  polities:
-    - theradon
 ---
 
 # Therádon
 
 ## Overview
 
-_To be written._ Therádon is the capital and principal settlement of [[doc-theradon|Therádon]].
+_To be written._ Therádon is the capital and principal settlement of [[affiliation-theradon|Therádon]].

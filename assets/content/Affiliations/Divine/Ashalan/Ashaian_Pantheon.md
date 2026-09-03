@@ -14,12 +14,94 @@ name:
 shortcode: ashanpnthn
 type: affiliation
 subType: faithtradition
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder: 7so6UiPt445oIHWs
 ---
@@ -28,9 +110,9 @@ folder: 7so6UiPt445oIHWs
 
 **Pronunciation**: _Ah-SHY-uhn_
 
-The Āsháian pantheon is the religious tradition of the desert and steppe peoples of central and south-central [[doc-ankrscntnnt|Ankaris Continent]] — the nomadic tribes of [[doc-dunharargn|Dunhara Region]] and the [[doc-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[doc-sultntmrdd|Sultanate of Amradad]], and the eastern reaches of the [[doc-cnfdrtnhrdnstts|Haradian Confederation]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of the west and the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, though the faithful would insist that the Āsháian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
+The Āsháian pantheon is the religious tradition of the desert and steppe peoples of central and south-central [[place-ankrscntnnt|Ankaris Continent]] — the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[affiliation-sultntmrdd|Sultanate of Amradad]], and the eastern reaches of the [[affiliation-cnfdrtnhrdnstts|Haradian Confederation]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of the west and the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, though the faithful would insist that the Āsháian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
 
-The Āsháian faith is shaped by its environment. Where the Kemetían religion is institutional — massive temples, hierarchical priesthood, intimate ties to an ancient state — the Āsháian tradition is both older in spirit and looser in structure. Its core theology emerged among nomadic peoples for whom fire was survival itself: warmth against the killing cold of desert nights, light against predators, the transformation of raw meat into sustenance. Fire sits at the theological center of the Āsháian faith in a way that has no parallel in the other major pantheons. [[affiliation-ataros|Ātáröš]], the Sacred Flame, is not merely one god among twelve but the living presence through which all the other gods make themselves known. Every prayer begins with the kindling of fire. Every sacred site maintains an eternal flame. The great fire-temples of [[doc-sultntmrdd|Amradad]] are architectural wonders precisely because the entire Āsháian faith is built around the principle that divine truth is revealed through flame.
+The Āsháian faith is shaped by its environment. Where the Kemetían religion is institutional — massive temples, hierarchical priesthood, intimate ties to an ancient state — the Āsháian tradition is both older in spirit and looser in structure. Its core theology emerged among nomadic peoples for whom fire was survival itself: warmth against the killing cold of desert nights, light against predators, the transformation of raw meat into sustenance. Fire sits at the theological center of the Āsháian faith in a way that has no parallel in the other major pantheons. [[affiliation-ataros|Ātáröš]], the Sacred Flame, is not merely one god among twelve but the living presence through which all the other gods make themselves known. Every prayer begins with the kindling of fire. Every sacred site maintains an eternal flame. The great fire-temples of [[affiliation-sultntmrdd|Amradad]] are architectural wonders precisely because the entire Āsháian faith is built around the principle that divine truth is revealed through flame.
 
 The central theological framework is the cosmic struggle between **Āsha** (truth, order, righteousness) and **Druj** (falsehood, chaos, corruption). [[affiliation-ahurdaen|Āhúrdáén]], the supreme deity, created the world in accordance with Āsha and sustains it through the cooperation of the righteous gods. [[affiliation-angaros|Ángáróš]], the Shadowed Serpent, opposes creation with Druj — deception, entropy, and the slow dissolution of all things. Every mortal, every spirit, every act of will is understood as a choice between these two principles. Unlike the Kemetían theology, where the cosmic struggle is largely fought by the gods while mortals are judged after death, the Āsháian faith places the struggle squarely in the hands of the living. Each person is a soldier in the war between truth and falsehood. Good thoughts, good words, good deeds — this is the threefold path of Āsha, repeated at every fire-ritual, inscribed on every temple wall, taught to every child before they can walk.
 
@@ -75,10 +157,10 @@ This theology gives the Āsháian faithful a martial quality that permeates even
 
 ## See Also
 
-- [[doc-sultntmrdd|Sultanate of Amradad]] — The great settled Āsháian civilization
-- [[doc-dunharargn|Dunhara Region]] — Desert homeland of the nomadic faithful
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Central Ankarian steppe
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Eastern reaches where Āsháian and Aurèldían faiths meet
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — The great settled Āsháian civilization
+- [[place-dunharargn|Dunhara Region]] — Desert homeland of the nomadic faithful
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Central Ankarian steppe
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Eastern reaches where Āsháian and Aurèldían faiths meet
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
 - [[affiliation-kemtnpnthn|Kemetían Pantheon]] — Ta'Kheperu equivalent
 - [[skill-dunharlng|Dunhari]] — Naming conventions

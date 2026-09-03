@@ -2,21 +2,22 @@
 aliases:
   - Oasis of Shirvan
 id: FQHoKNcT3CfFmyIV
+tags:
+  - oasis
+  - settlement
+description: "Oasis Settlement"
 type: place
-settlementType: "Oasis Settlement"
-population: null
 name:
   full: Oasis of Shirvan
   aliases: []
 shortcode: oasishirvn
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - khzryndsrtrgn
-  polities:
-    - khzrncnfdrtn
-pantheons:
-  - ashanpnthn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

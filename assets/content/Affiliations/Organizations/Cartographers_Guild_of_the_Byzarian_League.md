@@ -14,12 +14,88 @@ name:
 shortcode: crtgrphrsgldbyzrnlg
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-magnumclgm
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -27,15 +103,15 @@ folder:
 # The Cartographers' Guild of the Byzarian League
 
 - **Type:** Chartered professional guild
-- **Region:** [[doc-byzariargn|Byzaría]], with chapterhouses in every League city
-- **Charter:** Originally granted by the [[doc-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative — the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
+- **Region:** [[place-byzariargn|Byzaría]], with chapterhouses in every League city
+- **Charter:** Originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative — the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
 - **Magnum Collegium status:** Full member; the Grand Cartographer holds the Cartographers' seat on the Curia Collegiorum at Magnápolis
 
 ## Overview
 
 The Cartographers' Guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military, or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in Byzaría. To practice cartography in the League for a paying client without guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
 
-This is, of course, an aspiration rather than a fact. The guild is the most prestigious mapmaking body in western Ankaris, but it cannot prevent its members from selling the same map twice — once to the patron who commissioned it and once to whoever else will pay — and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
+This is, of course, an aspiration rather than a fact. The guild is the most prestigious mapmaking body in western Ankaris, but it cannot prevent its members from selling the same map twice — once to the patron who commissioned it and once to whoever else will pay — and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
 
 ## Membership and Structure
 
@@ -61,7 +137,7 @@ In practice, the guild's standards have eroded under commercial pressure. Maps a
 
 - **The League Council and Military** — primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
 - **The [[affiliation-magnumclgm|The Magnum Collegium]]** — supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Collegium charter; the Censores Collegiorum have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation currently underway against Master Damáklios. The matter is being held at chapter level for now; if it reaches Curia attention the consequences for the guild's charter could be substantial.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, particularly the **Theft Syndicate of the Eastern Docks** — quietly major purchasers of guild work for purposes the guild's charter forbids.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, particularly the **Theft Syndicate of the Eastern Docks** — quietly major purchasers of guild work for purposes the guild's charter forbids.
 - **The [[affiliation-blackledgr|Black Ledger]]** — the guild's shadow. Most Ledger members are guild-trained; many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist; the city guard pretends the Council does not know.
 - **Foreign powers** — Tarvénia, an unidentified northern confederation, and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
 

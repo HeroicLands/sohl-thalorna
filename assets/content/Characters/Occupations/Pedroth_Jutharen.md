@@ -4,6 +4,7 @@ aliases:
   - Pedroth Jutharen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Pédroth Jútharen
   title: ""
@@ -16,23 +17,27 @@ id: vW4yrW81Aq1fEbVI
 folder: 9t9O4iB5cYJtSaTG
 shortcode: pdrthjthrn
 img: icons/person.svg
-portrait: images/being/pdrthjthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/pdrthjthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 53
   birthday: 667/2/18
-  height:
-    m: 1.83
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: white
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a falcon on the right arm
-gear:
-  weapons:
-    - Heavy hammer
-  armor:
-    - Thick leather apron
-  misc:
-    - Large wooden chest for tools
-    - Heavy-duty stitching tools
-    - leather patches
-    - waxed thread
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

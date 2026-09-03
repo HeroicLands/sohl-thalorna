@@ -4,6 +4,7 @@ aliases:
   - Sharush Kadumu
 tags:
   - draft
+  - common-folk
 name:
   full: Shârûsh Kadûmû
   title: ""
@@ -16,38 +17,33 @@ id: O2qGFq562dfOB1rc
 folder: PuQFDMkRM9i60i5Z
 shortcode: sharushkdm
 img: icons/person.svg
-portrait: images/being/sharushkdm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sharushkdm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cook
-  station: common_folk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 34
   birthday: 686/3/8
-  height:
-    m: 1.78
-  weight:
-    kg: 75
-  build:
-    frame: medium
+  height: 1.78
+  weight: 75
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: dark_brown
     skin_color: golden
     complexion: tanned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Thick leather gloves for handling hot pots
-  misc:
-    - Woven basket for ingredients
-    - Cast-iron pots
-    - cutting board
-    - dried herbs
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

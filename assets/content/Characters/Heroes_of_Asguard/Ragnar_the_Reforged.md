@@ -4,6 +4,7 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - soldiery
 name:
   full: Ragnar the Reforged
   title: null
@@ -16,23 +17,27 @@ id: Jtz47rULGmErzIfx
 folder: Nu7AgLZEmR26u2pk
 shortcode: ragnarfrgd
 img: icons/person.svg
-portrait: images/being/ragnarfrgd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ragnarfrgd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Champion
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 34
   birthday: 686/12/9
-  height:
-    m: 1.76
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.76
+  weight: 78
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: auburn
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

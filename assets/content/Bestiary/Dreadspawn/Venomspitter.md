@@ -9,9 +9,30 @@ name:
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."
 id: YmCBrcF6Kw2CrctD
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/vnmspttr-portrait.webp
 shortcode: vnmspttr
 type: being
+data:
+  portrait: images/being/vnmspttr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

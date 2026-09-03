@@ -4,6 +4,8 @@ aliases:
   - Vethar Balthhelm
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Véthar Balthhelm
   title: ""
@@ -16,23 +18,27 @@ id: Zwez3VcBbD6e3uKB
 folder: Nu7AgLZEmR26u2pk
 shortcode: vthrblthlm
 img: icons/person.svg
-portrait: images/being/vthrblthlm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vthrblthlm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 60
   birthday: 664/12/1
-  height:
-    m: 1.73
-  weight:
-    kg: 64
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 64
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: red
@@ -40,16 +46,6 @@ traits:
     complexion: rough
     extra_features:
       - a scar on the right hand
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Simple tunic
-  misc:
-    - Leather pouch for money
-    - Cooking tools
-    - herbal remedies
-    - ledger for bookings
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

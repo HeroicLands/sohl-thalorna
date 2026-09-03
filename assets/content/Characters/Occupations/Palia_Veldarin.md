@@ -4,6 +4,7 @@ aliases:
   - Palia Veldarin
 tags:
   - draft
+  - common-folk
 name:
   full: Pália Véldarin
   title: ""
@@ -16,23 +17,27 @@ id: blV7vY7AZQ3VZprk
 folder: 4cwfdMa34UryZqPR
 shortcode: paliavldrn
 img: icons/person.svg
-portrait: images/being/paliavldrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/paliavldrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 46
   birthday: 674/4/9
-  height:
-    m: 1.83
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.83
+  weight: 72
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: gray
@@ -40,15 +45,6 @@ traits:
     complexion: clear
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
-gear:
-  weapons: []
-  armor:
-    - Heavy woolen dress
-  misc:
-    - Simple cloth bag
-    - Cleaning tools
-    - household keys
-    - aprons
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

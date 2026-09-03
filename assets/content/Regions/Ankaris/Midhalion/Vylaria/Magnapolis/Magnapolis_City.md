@@ -3,21 +3,22 @@ aliases:
   - Magnápolis
   - Magnapolis City
 id: aYb1o7HjieqorZW7
+tags:
+  - capital
+  - city
+description: "Capital City"
 type: place
 subType: settlement
-settlementType: "Capital City"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: null
 name:
   full: Magnápolis
   aliases: []
 shortcode: magnapolis
-parent:
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -25,7 +26,7 @@ folder: WSdLuPc7BaRqxNEt
 
 > _"All roads are the Empire's roads, and every one of them runs home to Magnápolis."_ — Vylarian proverb
 
-**Magnápolis** — _the Great City_ — is the capital and beating heart of the [[doc-vylarinmpr|Vylarian Empire]], and the largest city in [[doc-midhalnrgn|Midhalion]] and all of western [[doc-ankrscntnnt|Ankaris]]. With somewhere between **750,000 and a million souls** — counting both those who dwell within the city proper and the sprawling outskirt communities pressed up against them — it is dwarfed only by the great cities of the [[doc-tanvurempr|Tanvur]] and [[doc-kchchkcntnnt|K'ich'chik]] peoples far to the east. To the average subject of the western world, Magnápolis is not merely _a_ city. It is **the Polis** — the City entire, the measure against which all others are found wanting, and (in the eyes of its people) the single greatest city on all of [[doc-worldthlrn|The World of Thalorna]].
+**Magnápolis** — _the Great City_ — is the capital and beating heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and the largest city in [[place-midhalnrgn|Midhalion]] and all of western [[place-ankrscntnnt|Ankaris]]. With somewhere between **750,000 and a million souls** — counting both those who dwell within the city proper and the sprawling outskirt communities pressed up against them — it is dwarfed only by the great cities of the [[affiliation-tanvurempr|Tanvur]] and [[place-kchchkcntnnt|K'ich'chik]] peoples far to the east. To the average subject of the western world, Magnápolis is not merely _a_ city. It is **the Polis** — the City entire, the measure against which all others are found wanting, and (in the eyes of its people) the single greatest city on all of [[place-worldthlrn|The World of Thalorna]].
 
 It rises across a cluster of hills above the eastern bank of the **[[River Vylaris]]**, the chief and highest of them crowned by the citadel and the palace, and from a distance it seems less a settlement than a mountain range of marble, tile, and gilded bronze, crowned with smoke from a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its people call themselves **Magnápolitans**, and they say the word as though it settles every argument.
 
@@ -33,7 +34,7 @@ It rises across a cluster of hills above the eastern bank of the **[[River Vylar
 
 ## The Shape of the City
 
-Magnápolis grew, as great cities do, in rough rings of fortune if not of geometry — for the hills and the river (see _The Site_ below) bend its true plan well out of any circle. At its heart, upon the highest hill, sits the **[[doc-urbsaquiln|Inner City]]** — a walled citadel-within-a-city housing the temples, the palaces, and the machinery of empire. Around and below it spread the great civic districts, and beyond _those_ the dense residential and commercial quarters, until the stone gives way to the chaotic, half-legal warren of the **outskirt communities** that have spilled beyond the Clearance like floodwater.
+Magnápolis grew, as great cities do, in rough rings of fortune if not of geometry — for the hills and the river (see _The Site_ below) bend its true plan well out of any circle. At its heart, upon the highest hill, sits the **[[place-urbsaquiln|Inner City]]** — a walled citadel-within-a-city housing the temples, the palaces, and the machinery of empire. Around and below it spread the great civic districts, and beyond _those_ the dense residential and commercial quarters, until the stone gives way to the chaotic, half-legal warren of the **outskirt communities** that have spilled beyond the Clearance like floodwater.
 
 The citadel is ringed by its ancient **Inner Wall**, but the city at large has none — a metropolis of a million is far too vast to wall, and Magnápolis, deep in the imperial heartland with its enemies held at distant frontiers, has never needed to be. The city's edge is instead a **boundary**: the sacred **pomerium**, made absolute on the ground by **the Clearance**, a swept hundred-foot strip of open land that by ancient decree must be kept forever empty. Buildings crowd to its inner edge and stop dead, as though against an invisible wall; the [[affiliation-vylrnmltry|City Watch]] keep their stations on the gate-roads that cross it. (See _The Pomerium and the Clearance_ below.)
 
@@ -43,7 +44,7 @@ Every street in the city is **paved** — a point of immense civic pride and a m
 
 Magnápolis is not the neat ringed city of its idealized maps. It rises across a **cluster of six hills** above the eastern bank of the [[River Vylaris]], and its true shape is dictated by them and by the water: an irregular sprawl, kinked along the river on its western flank and notched and bulging elsewhere as the city's bounds follow the contours of the outlying high ground rather than any drawn circle.
 
-Highest and chief is **Mons Aquila**, the Eagle Hill, crowned by the walled [[doc-urbsaquiln|Inner City]] and the [[doc-palatimgnm|Grand Palace]] — the literal and figurative summit of the Empire, looking down on all the rest. Around it stand five lesser hills, each with its own character:
+Highest and chief is **Mons Aquila**, the Eagle Hill, crowned by the walled [[place-urbsaquiln|Inner City]] and the [[place-palatimgnm|Grand Palace]] — the literal and figurative summit of the Empire, looking down on all the rest. Around it stand five lesser hills, each with its own character:
 
 - **Mons Corónus** ("the Coronal") and **Mons Lauríne** ("the Laurel") — the twin patrician hills that together make _the Heights_. Corónus is the older and prouder, ringed with the ancestral villas of the senatorial houses and facing the palace across the central saddle; Lauríne is greener and newer, its gardens and great houses the address of the risen and the rich, with the **Gilded Quarter** climbing its lower slopes toward them.
 - **Mons Sápiens** ("the Scholars' Hill") — bearing the [[affiliation-panepistmm|Scholars' District]] and the Circle of Ménérva.
@@ -93,7 +94,7 @@ By ancient tradition the city holds exactly **twelve** of them — the **Twelve 
 - **The Circle of Ménérva** — heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
 - **The Grand Market Circle** — the largest licensed market in the Empire.
 - **The Circle of Jánus** — Jánus of the Gates, lord of order and justice; the forum of the law-courts.
-- **The Legions' Circle** — on the approach to the [[doc-castraprtr|Castra Praetoria]]; a war-monument to Táranon; the ground of musters and military reviews.
+- **The Legions' Circle** — on the approach to the [[place-castraprtr|Castra Praetoria]]; a war-monument to Táranon; the ground of musters and military reviews.
 - **The River Circle** — by the river gate and the docks, around a great aqueduct-fountain; the haunt of watermen and mariners.
 - **The Spire Circle** — built about a soaring spire hauled from a conquered province.
 - **The Circle of Heroes** — ranked with the statues of the Empire's great figures.
@@ -138,7 +139,7 @@ The city's pleasures keep their own quarters too — the [[Theatre District (Mag
 
 ### The Scholars' District
 
-On **Mons Sápiens**, around the **Circle of Ménérva** and its statue of the goddess of wisdom, lies the **Scholars' District** — the main campus of the **[[affiliation-panepistmm|Panepistemium]]** and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one — ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Panepistemium's small inner [[doc-urbsaquiln|Compound]] and its Bibliotheca Reservata are kept up on Mons Aquila within the citadel. (For the institution itself, see [[affiliation-panepistmm|Panepistemium]].)
+On **Mons Sápiens**, around the **Circle of Ménérva** and its statue of the goddess of wisdom, lies the **Scholars' District** — the main campus of the **[[affiliation-panepistmm|Panepistemium]]** and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one — ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Panepistemium's small inner [[place-urbsaquiln|Compound]] and its Bibliotheca Reservata are kept up on Mons Aquila within the citadel. (For the institution itself, see [[affiliation-panepistmm|Panepistemium]].)
 
 ### The Viridarium
 
@@ -148,17 +149,17 @@ Within the city, Magnápolis keeps one great expanse of open green: the **Virida
 
 ## The Inner City
 
-Crowning **Mons Aquila** behind its own ancient ring of walls stands **[[doc-urbsaquiln|Urbs Aquilion]]** — the Inner City: the Eagle City, sacred and administrative core of the Empire, and the one quarter closed to the common crowd. Entry is controlled; much of it is the preserve of priests, senators, soldiers, magistrates, and the great families. Gathered on the summit are:
+Crowning **Mons Aquila** behind its own ancient ring of walls stands **[[place-urbsaquiln|Urbs Aquilion]]** — the Inner City: the Eagle City, sacred and administrative core of the Empire, and the one quarter closed to the common crowd. Entry is controlled; much of it is the preserve of priests, senators, soldiers, magistrates, and the great families. Gathered on the summit are:
 
 - the **Temple District**, seat of the [[affiliation-arldnpnthn|Aurèldían]] _Twelve_ and, by ancient toleration-edict, a house for nearly every faith of the known world;
 - the **Palace District** of foreign embassies, among them the ceremonial palace of the [[affiliation-magnumclgm|The Magnum Collegium]];
 - the **[[affiliation-curiavylar|Curia Vylaria]]**, seat of the [[affiliation-curiavylar|Curia Vylaria]];
-- the **[[doc-castraprtr|Castra Praetoria]]**, barracks of the [[affiliation-pratrgstrm|The Praetar Augustarum]] imperial guard;
+- the **[[place-castraprtr|Castra Praetoria]]**, barracks of the [[affiliation-pratrgstrm|The Praetar Augustarum]] imperial guard;
 - the **Officia Imperii**, the walled compound of the imperial bureaucracy — the [[affiliation-aerarimmpr|treasury]], the [[affiliation-curiafscls|fiscal administration]], the imperial tribunals, and the archives;
 - the inner **[[affiliation-panepistmm|Panepistemium]] Compound** with its warded Bibliotheca Reservata;
-- and, above all, the **[[doc-palatimgnm|Grand Palace]]**, where the [[affiliation-ordoarcanis|Ordo Arcanis]] works its wonders openly.
+- and, above all, the **[[place-palatimgnm|Grand Palace]]**, where the [[affiliation-ordoarcanis|Ordo Arcanis]] works its wonders openly.
 
-For the full account of the citadel and its precincts, see **[[doc-urbsaquiln|the Inner City]]**.
+For the full account of the citadel and its precincts, see **[[place-urbsaquiln|the Inner City]]**.
 
 ---
 
@@ -283,12 +284,12 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Name**              | Magnápolis — _the Great City_ (also "the Polis," "the Magna")                                                                                                                                                                                      |
 | **Demonym**           | Magnápolitan                                                                                                                                                                                                                                       |
-| **Nation**            | [[doc-vylarinmpr\|Vylarian Empire]]                                                                                                                                                                                                                |
-| **Region**            | [[doc-midhalnrgn\|Midhalion]], western [[doc-ankrscntnnt\|Ankaris]]                                                                                                                                                                                |
+| **Nation**            | [[affiliation-vylarinmpr\|Vylarian Empire]]                                                                                                                                                                                                        |
+| **Region**            | [[place-midhalnrgn\|Midhalion]], western [[place-ankrscntnnt\|Ankaris]]                                                                                                                                                                            |
 | **Population**        | 750,000–1,000,000 (city + outskirts)                                                                                                                                                                                                               |
 | **Setting**           | A cluster of six hills on the eastern bank of the [[River Vylaris]]; the Inner City crowns the highest, Mons Aquila                                                                                                                                |
 | **The Six Hills**     | Mons Aquila (Inner City & Palace); Mons Corónus & Mons Lauríne (the Heights); Mons Sápiens (Scholars'); Mons Vétus (the faded hill); Mons Rípae (above the Wharves)                                                                                |
-| **Seat of power**     | The [[doc-palatimgnm\|Grand Palace]], in the walled Inner City — **[[Magnapolis_Inner_City\|Urbs Aquilion]]**, atop Mons Aquila                                                                                                                    |
+| **Seat of power**     | The [[place-palatimgnm\|Grand Palace]], in the walled Inner City — **[[Magnapolis_Inner_City\|Urbs Aquilion]]**, atop Mons Aquila                                                                                                                  |
 | **Governing bodies**  | The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar\|Vylarian Senate]]; the civic [[Courts_of_Magnapolis\|Curia Urbis]] and the courts beneath it                                          |
 | **Defenses**          | The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (the city has no outer wall); the [[affiliation-vylrnmltry\|City Watch]] (urban cohorts); the [[affiliation-pratrgstrm\|Praetar Augustarum]] guarding the Inner City |
 | **Signature marvels** | The [[Grand Orrery\|Mechanical Court]], the [[Temple of the Twelve]], the [[Circus Maximus (Magnápolis)\|Circus Maximus]], the great Circles                                                                                                       |
@@ -299,11 +300,11 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 
 ### Related Notes
 
-- [[doc-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-midhalnrgn|Midhalion]]
-- [[doc-worldthlrn|The World of Thalorna]]
-- [[doc-palatimgnm|Grand Palace]]
+- [[place-midhalnrgn|Midhalion]]
+- [[place-worldthlrn|The World of Thalorna]]
+- [[place-palatimgnm|Grand Palace]]
 - [[Circus Maximus (Magnápolis)]]
 - [[Grand Orrery]]
 - [[Necropolis of Magnápolis]]

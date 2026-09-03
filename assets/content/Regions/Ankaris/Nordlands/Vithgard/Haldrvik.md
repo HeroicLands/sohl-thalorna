@@ -3,23 +3,22 @@ aliases:
   - Haldrvík
   - Haldrvik
 id: zvHZeopFCRUFvSUh
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
-settlementType: "Port Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Haldrvík
   aliases: []
 shortcode: haldrvik
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

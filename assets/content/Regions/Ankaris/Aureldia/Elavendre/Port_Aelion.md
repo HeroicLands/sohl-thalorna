@@ -2,21 +2,22 @@
 aliases:
   - Port Aelion
 id: O2nIsw1YeLjYDhBp
+tags:
+  - town
+  - coastal
+description: "Coastal Town"
 type: place
 subType: settlement
-settlementType: "Coastal Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - elavendre
+  population: null
 name:
   full: Port Aelion
   aliases: []
 shortcode: portaelion
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 
@@ -32,7 +33,7 @@ The town's patron saint is Aelion, a half-legendary Élavendren hero said to hav
 
 ## See Also
 
-- [[doc-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
+- [[affiliation-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
 - [[skill-elvndrlng|Élavendri]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
-- [[doc-flksinale|Sinalë]] — The Elder Elves
+- [[lore-flksinale|Sinalë]] — The Elder Elves

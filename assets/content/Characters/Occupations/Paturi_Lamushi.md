@@ -4,6 +4,8 @@ aliases:
   - Paturi Lamushi
 tags:
   - draft
+  - guilded
+  - common-folk
 name:
   full: Pâtûri Lamûshî
   title: ""
@@ -16,23 +18,27 @@ id: iqh4gVJjrsMnTvnR
 folder: PuQFDMkRM9i60i5Z
 shortcode: paturilmsh
 img: icons/person.svg
-portrait: images/being/paturilmsh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/paturilmsh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cook
-  station: common_folk
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 50
   birthday: 670/4/3
-  height:
-    m: 1.75
-  weight:
-    kg: 70
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 70
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: graying_black
@@ -40,16 +46,6 @@ traits:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
-gear:
-  weapons:
-    - Kitchen knife
-  armor:
-    - Sturdy apron
-  misc:
-    - Wooden spice box
-    - Cooking utensils
-    - spices
-    - recipe book
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

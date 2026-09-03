@@ -3,21 +3,22 @@ aliases:
   - Monvèrdre
   - Monverdre
 id: gcqQMrf3iloHRPXm
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
-settlementType: "Hill Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
 name:
   full: Monvèrdre
   aliases: []
 shortcode: monverdre
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

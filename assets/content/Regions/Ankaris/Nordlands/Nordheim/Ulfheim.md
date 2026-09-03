@@ -2,23 +2,21 @@
 aliases:
   - Ulfheim
 id: f9A9olzNoCl9wH8h
+tags:
+  - settlement
+description: "Settlement"
 type: place
 subType: settlement
-settlementType: "Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Ulfheim
   aliases: []
 shortcode: ulfheim
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

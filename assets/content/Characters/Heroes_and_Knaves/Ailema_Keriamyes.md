@@ -5,6 +5,8 @@ aliases:
   - Ailema Keriamyes
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Ailêmâ Kêrîamyês
   title: ""
@@ -16,34 +18,31 @@ id: B2MmcByySffMkCPX
 folder: UFBfgKZUF0bAE7gG
 shortcode: ailemkrmys
 img: icons/person.svg
-portrait: images/being/ailemkrmys-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/ailemkrmys-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: female
+  species: null
   age: 29
   birthday: 691/4/11
-  height:
-    m: 1.8
-  weight:
-    kg: 67.6
-  build:
-    frame: light
+  height: 1.8
+  weight: 67.6
+  frame: light
   appearance:
     eye_color: brown
     hair_color: chestnut
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

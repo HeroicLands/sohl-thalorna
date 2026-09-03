@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Sigríthr Hafringr
   title: ""
@@ -16,23 +17,27 @@ id: Tkx9NIQ0Wobtqn62
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgrthrhfrngr
 img: icons/person.svg
-portrait: images/being/sgrthrhfrngr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sgrthrhfrngr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 40
   birthday: 680/7/21
-  height:
-    m: 1.6
-  weight:
-    kg: 52
-  build:
-    frame: scant
+  height: 1.6
+  weight: 52
+  frame: scant
   appearance:
     eye_color: honey_brown
     hair_color: gray
@@ -40,20 +45,6 @@ traits:
     complexion: clear
     extra_features:
       - crooked nose
-gear:
-  weapons:
-    - BAxe:1
-    - MByr:1
-    - KnSh:1
-  armor:
-    - MByr:1
-    - LtVest:1
-    - torch:1
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
 sohl:
   archetype: null
   body:
@@ -510,12 +501,6 @@ sohl:
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 23 } }
     - { shortcode: swim, type: skill, system: { masteryLevelBase: 37 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

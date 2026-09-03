@@ -2,22 +2,22 @@
 aliases:
   - Ithrákor
 id: 1Bf7A6AabtHRR3Bu
-tags: []
+tags:
+  - city-state
+  - city
+description: "City-State"
 type: place
 subType: settlement
-settlementType: "City-State"
-population: null
-languages:
-  - okharclng
-pantheons:
-  - nkaruthar
+data:
+  demonym: null
+  lore: []
+  parents:
+    - okharisrgn
+  population: null
 name:
   full: Ithrákor
   aliases: []
 shortcode: ithrakor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

@@ -4,14 +4,16 @@ aliases:
   - The Tombs of the West
   - The Western Fields
 id: Sem7VWXNmBrFGB9L
+tags:
+  - necropolis
 type: place
 subType: settlement
-settlementType: "General Necropolis (the burial-fields of Wasetkara)"
-population: 0
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - takheperurgn
+  population: null
 banner: banners/ta-kheperu-banner.webp
 description: "The vast general necropolis of Wasetkara — the graded burial-fields flanking the royal necropolis of Ta-Djeser, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
 name:
@@ -19,17 +21,12 @@ name:
   aliases:
     - The Tombs of the West
 shortcode: khautimnet
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - capitalnom
 folder: 6HgEgHggm50Aphlq
 ---
 
 # Khaut-Imnet — the Tombs of the West
 
-Khaut-Imnet — "the Tombs of the West" — is the burial-ground of [[doc-wasetkara|Wasetkara]]: not the royal necropolis of [[doc-tadjeser|Ta-Djeser]], which holds the Per-Aás alone, but the far larger and humbler landscape of the dead that stretches across the desert shelf to either side of it, where everyone else in the capital is laid to rest. From the gold-rich mastaba-fields of the nobility hard against the royal ground, out through the tomb-galleries of the merchants and scribes, to the open sand-fields where the poor are buried by the thousand, Khaut-Imnet is a city of the dead many times larger than the city of the living across the water. It is worked, not lived in: the embalmers, masons, and mortuary-priests who serve it cross from the [[doc-wasetkara#The People|Wabet]] quarter and from [[doc-tadjeser|Ta-Djeser]] by day, and by night it is left to the guards, the curses, and the things set to walk among the tombs.
+Khaut-Imnet — "the Tombs of the West" — is the burial-ground of [[place-wasetkara|Wasetkara]]: not the royal necropolis of [[place-tadjeser|Ta-Djeser]], which holds the Per-Aás alone, but the far larger and humbler landscape of the dead that stretches across the desert shelf to either side of it, where everyone else in the capital is laid to rest. From the gold-rich mastaba-fields of the nobility hard against the royal ground, out through the tomb-galleries of the merchants and scribes, to the open sand-fields where the poor are buried by the thousand, Khaut-Imnet is a city of the dead many times larger than the city of the living across the water. It is worked, not lived in: the embalmers, masons, and mortuary-priests who serve it cross from the [[place-wasetkara#The People|Wabet]] quarter and from [[place-tadjeser|Ta-Djeser]] by day, and by night it is left to the guards, the curses, and the things set to walk among the tombs.
 
 ## The Gradient of the Dead
 
@@ -49,12 +46,12 @@ Against all of it stands the robbers' one unanswerable weapon: **knowledge**. Ev
 
 ## For the Worldbuilder
 
-Khaut-Imnet is the capital's dungeon, sitting in plain sight at the edge of the holy ground — a near-endless supply of trapped, warded, guarded tombs and the desperate, expert, and damned who break into them. Run it for exactly that: a tomb-crack as a layered delve (concealment, barriers, traps, curses, and the waking dead at the bottom); a robbing-ring to join or to hunt; a corrupt tomb-architect selling maps; a noble house hiring the party to robber-proof a new tomb — or to quietly rob a rival's; a stolen heirloom or relic to recover from a fence in the [[doc-wasetkara#Markets and Commerce|markets]]; the necropolis-guard's bounty on tomb-breakers; or a delve gone wrong when something set to guard the dead is loosed among the living. It also frames the line the empire will not cross: the guarded royal Ways of [[doc-tadjeser|Ta-Djeser]] are hard game and harshly punished, and the cursed road of the **False Rā** is death on sight — Khaut-Imnet is where the robbing trade lives instead.
+Khaut-Imnet is the capital's dungeon, sitting in plain sight at the edge of the holy ground — a near-endless supply of trapped, warded, guarded tombs and the desperate, expert, and damned who break into them. Run it for exactly that: a tomb-crack as a layered delve (concealment, barriers, traps, curses, and the waking dead at the bottom); a robbing-ring to join or to hunt; a corrupt tomb-architect selling maps; a noble house hiring the party to robber-proof a new tomb — or to quietly rob a rival's; a stolen heirloom or relic to recover from a fence in the [[place-wasetkara#Markets and Commerce|markets]]; the necropolis-guard's bounty on tomb-breakers; or a delve gone wrong when something set to guard the dead is loosed among the living. It also frames the line the empire will not cross: the guarded royal Ways of [[place-tadjeser|Ta-Djeser]] are hard game and harshly punished, and the cursed road of the **False Rā** is death on sight — Khaut-Imnet is where the robbing trade lives instead.
 
 ## See Also
 
-- [[doc-tadjeser|Ta-Djeser]] — The royal necropolis it surrounds
-- [[doc-wasetkara|Wasetkara]] — The living city across the water
-- [[doc-capitalnom|The Capital Nome]] — Parent nome
-- [[doc-khensuret|Khensuret]] — The empire's great mortuary nome and pilgrimage necropolis
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview · [[affiliation-kemtnpnthn|Kemetian]] — Pantheon
+- [[place-tadjeser|Ta-Djeser]] — The royal necropolis it surrounds
+- [[place-wasetkara|Wasetkara]] — The living city across the water
+- [[affiliation-capitalnom|The Capital Nome]] — Parent nome
+- [[place-khensuret|Khensuret]] — The empire's great mortuary nome and pilgrimage necropolis
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview · [[affiliation-kemtnpnthn|Kemetian]] — Pantheon

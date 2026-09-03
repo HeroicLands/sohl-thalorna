@@ -4,7 +4,6 @@ aliases:
   - Dunhara Desert
 tags:
   - region
-title: ""
 description: The open desert of the Dunhara beyond the settled cities — sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.
 name:
   full: Dunhara Desert Region
@@ -14,26 +13,22 @@ shortcode: dunhardsrtrgn
 img: ""
 type: place
 subType: region
-demonym: Dunharan
-parent:
-  regions:
+data:
+  demonym: Dunharan
+  lore:
+    - humanflk
+  parents:
     - dunharargn
-  continents:
     - ankrscntnnt
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-languages:
-  - dunharlng
+  population: null
 ---
 
 ## Overview
 
 The Dunhara Desert Region is the open desert of the
-[[doc-dunharargn|Dunhara Region]] — everything the walled cities of
-[[doc-amradadrgn|Amradad]] do not hold, which is very nearly all of it. It is
-the country of the [[doc-dunhartrbs|Dunhara Tribes]], and it has no fixed
+[[place-dunharargn|Dunhara Region]] — everything the walled cities of
+[[place-amradadrgn|Amradad]] do not hold, which is very nearly all of it. It is
+the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no fixed
 borders at all: what bounds it are the customary circuits of movement and the
 oases of right that each confederation holds by usage.
 
@@ -75,6 +70,6 @@ outside and quarrel when left alone, and that balance has held for centuries.
 
 ## See Also
 
-- [[doc-dunharargn|Dunhara Region]] — the parent region
-- [[doc-dunhartrbs|Dunhara Tribes]] — the confederation that ranges this region
-- [[doc-amradadrgn|Amradad Region]] — the settled cities within the desert
+- [[place-dunharargn|Dunhara Region]] — the parent region
+- [[affiliation-dunhartrbs|Dunhara Tribes]] — the confederation that ranges this region
+- [[place-amradadrgn|Amradad Region]] — the settled cities within the desert

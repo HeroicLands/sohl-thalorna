@@ -5,6 +5,7 @@ aliases:
   - Tamiyra Jaut
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Ta'miyra Jâut
   title: ""
@@ -17,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: tamiyrajat
 img: icons/person.svg
-portrait: images/being/tamiyrajat-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/tamiyrajat-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 36
   birthday: 684/9/18
-  height:
-    m: 1.6
-  weight:
-    kg: 55.8
-  build:
-    frame: light
+  height: 1.6
+  weight: 55.8
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a faint scar on the left side of the neck
 sohl:
@@ -572,7 +570,7 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
 ---
 
-**Home:** [[doc-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Per-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -580,7 +578,7 @@ Ta'miyra stands 5'3" tall with a light build. She has warm bronze skin, jet blac
 
 # Dossier {#dossier}
 
-Tamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[doc-empirtkhpr|Ta'Kheperu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Tamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and strategic influence. What was meant as temporary survived became permanent when Tamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
+Tamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Tamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and strategic influence. What was meant as temporary survived became permanent when Tamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
 
 By twenty-eight, Tamiyra had become the most sought-after courtesan in the imperial capital, not for beauty alone but for an intelligence that rivaled scribes and a wit that could wound or heal with equal precision. She collected patrons like scholars collect texts, each relationship carefully cultivated and maintained. Her apparent scandal—a messy affair involving a high-ranking military officer and forged diplomatic correspondence that nearly destabilized a trade agreement—nearly destroyed her reputation, though careful maneuvering and well-placed allies saw her emerge, if cautiously, intact.
 

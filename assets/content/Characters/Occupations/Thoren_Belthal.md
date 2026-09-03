@@ -4,6 +4,7 @@ aliases:
   - Thoren Belthal
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thóren Bélthal
   title: ""
@@ -16,23 +17,27 @@ id: PuDCCRnGEY59YVkQ
 folder: 4cwfdMa34UryZqPR
 shortcode: thornblthl
 img: icons/person.svg
-portrait: images/being/thornblthl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thornblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 49
   birthday: 675/7/15
-  height:
-    m: 1.8
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: chestnut
@@ -40,17 +45,6 @@ traits:
     complexion: flawless
     extra_features:
       - a tattoo of a snake on the chest
-gear:
-  weapons:
-    - Hatchet
-  armor:
-    - Leather apron
-  misc:
-    - Wooden toolbox
-    - Shipbuilding tools
-    - tar
-    - rope
-    - nautical charts
 sohl:
   archetype: null
   body:
@@ -536,12 +530,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

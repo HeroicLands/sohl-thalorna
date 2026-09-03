@@ -4,6 +4,8 @@ aliases:
   - Shenur Bapata
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Shenur Ba'pata
   title: ""
@@ -16,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
 img: icons/person.svg
-portrait: images/being/shenurbapt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/shenurbapt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 47
   birthday: 673/12/9
-  height:
-    m: 1.91
-  weight:
-    kg: 84.8
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 84.8
+  frame: heavy
   appearance:
     eye_color: dark_amber
     hair_color: dark_brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a serpent on the back
 sohl:
@@ -560,7 +559,7 @@ sohl:
     - { shortcode: bpchlg, type: containergear }
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -568,7 +567,7 @@ Shenur stands 6'3" tall with a heavy build. He has warm brown skin, very dark br
 
 # Dossier {#dossier}
 
-Shenur was born to the Ba'pata clan during the flooding season, third son of a metalworker's family. His father, **Neferhotep Ba'pata**, recognized early that young Shenur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shenur was apprenticed at age twelve to **Master Taharqo**, keeper of the Imperial forge in [[doc-empirtkhpr|Ta'Kheperu]]'s merchant quarter. For twenty-three years, he honed his art under Taharqo's exacting eye, learning not merely to shape metal, but to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
+Shenur was born to the Ba'pata clan during the flooding season, third son of a metalworker's family. His father, **Neferhotep Ba'pata**, recognized early that young Shenur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shenur was apprenticed at age twelve to **Master Taharqo**, keeper of the Imperial forge in [[affiliation-empirtkhpr|Ta'Kheperu]]'s merchant quarter. For twenty-three years, he honed his art under Taharqo's exacting eye, learning not merely to shape metal, but to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
 Upon his master's retirement, Shenur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Ba'pata blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with **Menara**, a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shenur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 

@@ -3,23 +3,22 @@ aliases:
   - Selímara
   - Selimara
 id: bQUtftL9hRhlCeaf
+tags:
+  - town
+  - trading
+description: "Trading Town"
 type: place
-settlementType: "Trading Town"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Selímara
   aliases: []
 shortcode: selimara
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

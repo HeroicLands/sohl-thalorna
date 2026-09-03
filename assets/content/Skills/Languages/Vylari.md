@@ -27,7 +27,7 @@ flags:
 
 Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[doc-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[doc-pelwarpepl|Pelwar People]] language family. It serves as the lingua franca of trade, law, and administration across much of Mídhalión, spoken in the great cities of Alyssa, Hylen, Moktur, and Vald, and maintaining ritual importance in the Holy Kingdom of Nartum despite the rise of local dialects.
+Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] language family. It serves as the lingua franca of trade, law, and administration across much of Mídhalión, spoken in the great cities of Alyssa, Hylen, Moktur, and Vald, and maintaining ritual importance in the Holy Kingdom of Nartum despite the rise of local dialects.
 
 ## Overview
 
@@ -65,7 +65,7 @@ An older runic form persists in ceremonial and architectural contexts. The ancie
 
 ## Historical Development
 
-Vylari descended from [[doc-pelwarpepl|Pelwar People]], the ancient nomadic tongue brought westward across Ankaris by the peoples who would become the imperial stock. Over centuries of sedentarization and empire-building, Proto-Pelwar simplified many of its more complex grammatical features while developing elaborate systems of formal registers and honorifics—traits valued by an expanding administrative class.
+Vylari descended from [[lore-pelwarpepl|Pelwar People]], the ancient nomadic tongue brought westward across Ankaris by the peoples who would become the imperial stock. Over centuries of sedentarization and empire-building, Proto-Pelwar simplified many of its more complex grammatical features while developing elaborate systems of formal registers and honorifics—traits valued by an expanding administrative class.
 
 The language absorbed vocabulary from the peoples it conquered, particularly terms of art, philosophy, and governance. Some archaic Vylari religious vocabulary shows influence from pre-imperial [[skill-aelendlng|Áelendi]], suggesting ancient contact between settled Vylari populations and the highland Áelendan.
 
@@ -91,7 +91,7 @@ Vylari stands as the most conservative of the Pelwar languages in terms of basic
 
 ## Related Languages
 
-Vylari shares its deepest roots with [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]], all three descending from an ancient nomadic [[doc-pelwarpepl|Pelwar People]] stock. However, Vylari's development within settled imperial context has given it the most elaborate formal registers and the highest degree of phonetic simplification among siblings.
+Vylari shares its deepest roots with [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]], all three descending from an ancient nomadic [[lore-pelwarpepl|Pelwar People]] stock. However, Vylari's development within settled imperial context has given it the most elaborate formal registers and the highest degree of phonetic simplification among siblings.
 
 [[skill-provnzlng|Provenzal]] shows significant Vylari influence due to historical trade and cultural prestige, though it has resisted structural change. [[skill-tarvenlng|Tarvéni]] preserves some archaic Pelwar features that Vylari has lost entirely. [[skill-elvndrlng|Élavendri]] and [[skill-aelendlng|Áelendi]] represent a separate, northern branch descended from different Proto-Pelwar populations, and show less mutual intelligibility with Vylari proper.
 

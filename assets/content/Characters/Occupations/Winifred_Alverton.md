@@ -3,6 +3,7 @@ aliases:
   - Winifred Alverton
 tags:
   - draft
+  - tradesfolk
 name:
   full: Winifred Alverton
   title: ""
@@ -15,38 +16,33 @@ id: JoLoaeTOdoe5c3ve
 folder: elH5NDPUuiRCICrE
 shortcode: wnfrdlvrtn
 img: icons/person.svg
-portrait: images/being/wnfrdlvrtn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wnfrdlvrtn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 31
   birthday: 689/6/19
-  height:
-    m: 1.57
-  weight:
-    kg: 54
-  build:
-    frame: light
+  height: 1.57
+  weight: 54
+  frame: light
   appearance:
     eye_color: blue
     hair_color: dark_brown
     skin_color: fair
     complexion: fair
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Woolen cloak
-  misc:
-    - Satchel with drawing materials
-    - Sketchbook
-    - charcoal pencils
-    - watercolors
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

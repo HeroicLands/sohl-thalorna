@@ -4,6 +4,7 @@ aliases:
   - Hallveig Stormrot
 tags:
   - draft
+  - mages
 name:
   full: Hallveig Stormrót
   title: ""
@@ -16,39 +17,33 @@ id: tQAuzSsJimAQ8yRV
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hlvgstrmrt
 img: icons/person.svg
-portrait: images/being/hlvgstrmrt-portrait.webp
 type: being
-social:
-  occupation: "Mage (Illusion)"
-  station: mages
-  class: noble
-  society: Nordheimn
-traits:
+data:
+  portrait: images/being/hlvgstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Illusion)
+  stations: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 37
   birthday: 683/9/4
-  height:
-    m: 1.65
-  weight:
-    kg: 61
-  build:
-    frame: light
+  height: 1.65
+  weight: 61
+  frame: light
   appearance:
     eye_color: green
     hair_color: blonde
     skin_color: light
     complexion: clear
     extra_features: []
-gear:
-  weapons:
-    - Small enchanted dagger
-  armor:
-    - Robes with subtle protective enchantments
-  misc:
-    - Leather-bound spellbook
-    - Rare magical texts
-    - amulet of protection
-    - arcane ink and quill
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 60 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 51 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

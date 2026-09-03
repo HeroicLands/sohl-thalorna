@@ -4,7 +4,6 @@ aliases:
 id: YXAvC7IO4US66yuY
 tags:
   - region
-title: ""
 description: "The northern reach of the K'ich'chik continent and its city-states."
 name:
   full: Northern K'ich'chik
@@ -12,13 +11,13 @@ name:
 img: ""
 type: place
 subType: region
-parent:
-  continents:
+data:
+  demonym: null
+  lore:
+    - humanflk
+  parents:
     - kchchkcntnnt
-pantheons:
-  - itzanpnthn
-peoples:
-  - human
+  population: null
 shortcode: nrthrnkchchk
 ---
 
@@ -26,4 +25,4 @@ shortcode: nrthrnkchchk
 
 ## Overview
 
-_To be written._ The northern subdivision of the [[doc-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Ba'alam Ki'ahk, Ch'akul Tza'kul, Ha' Xaman, Ha'nal Xi'lan, K'ixim Tzul, Tz'uma No'tun, Xik'ul Ch'akal.
+_To be written._ The northern subdivision of the [[place-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Ba'alam Ki'ahk, Ch'akul Tza'kul, Ha' Xaman, Ha'nal Xi'lan, K'ixim Tzul, Tz'uma No'tun, Xik'ul Ch'akal.

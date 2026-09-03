@@ -4,6 +4,7 @@ aliases:
   - Zalren Lyskal
 tags:
   - draft
+  - tradesfolk
 name:
   full: Zálren Lýskal
   title: ""
@@ -16,23 +17,27 @@ id: kaACSMEscosTsS3D
 folder: J9R0fnGUTBY5z4pd
 shortcode: zalrnlyskl
 img: icons/person.svg
-portrait: images/being/zalrnlyskl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/zalrnlyskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 54
   birthday: 666/2/26
-  height:
-    m: 1.83
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.83
+  weight: 80
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: gray
@@ -40,16 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a butterfly on the neck
-gear:
-  weapons:
-    - Woodcutting axe
-  armor:
-    - Heavy leather apron
-  misc:
-    - Large wooden chest for tools
-    - Saw
-    - wood glue
-    - planing tools
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

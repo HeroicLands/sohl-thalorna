@@ -2,25 +2,26 @@
 aliases:
   - Chandrapur
 id: u06VCq3gWTSKlQJZ
+tags:
+  - city
+  - temple
+description: "Temple City"
 type: place
 subType: settlement
-settlementType: "Temple City"
-population: null
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vedyarargn
+  population: null
 name:
   full: Chandrapur
   aliases: []
 shortcode: chandrapur2
-parent:
-  polities:
-    - chandrapur
 ---
 
 # Chandrapur
 
 ## Overview
 
-_To be written._ Chandrapur is the capital and principal settlement of [[doc-chandrapur|Chandrapur]].
+_To be written._ Chandrapur is the capital and principal settlement of [[affiliation-chandrapur|Chandrapur]].

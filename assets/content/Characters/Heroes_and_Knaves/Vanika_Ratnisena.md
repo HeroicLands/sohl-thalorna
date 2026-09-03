@@ -5,6 +5,7 @@ aliases:
   - Vanika Ratnisena
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Vànika Ratniseṇa
   title: ""
@@ -16,34 +17,31 @@ id: YDrk4CIsTjtWzOqG
 folder: JotxZnnXcTECeYW3
 shortcode: vanikartns
 img: icons/person.svg
-portrait: images/being/vanikartns-portrait.webp
 type: being
-thalorna:
-  realm: rajaprjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/vanikartns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cook
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - rajaprjnpd
   gender: female
+  species: null
   age: 41
   birthday: 679/2/27
-  height:
-    m: 1.78
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.78
+  weight: 73
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

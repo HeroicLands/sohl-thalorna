@@ -4,6 +4,7 @@ aliases:
   - Almera Desolardran
 tags:
   - draft
+  - soldiery
 name:
   full: Álmera Desolárdran
   title: ""
@@ -16,39 +17,33 @@ id: OlZieTX8DcsmcYm4
 folder: 9t9O4iB5cYJtSaTG
 shortcode: almrdslrdrn
 img: icons/person.svg
-portrait: images/being/almrdslrdrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/almrdslrdrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Caravan Guard
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 28
   birthday: 696/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: olive_tanned
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - Shortbow
-  armor:
-    - Light leather armor
-  misc:
-    - Quiver for arrows
-    - Dagger
-    - climbing gear
-    - map of trade routes
 sohl:
   archetype: null
   body:
@@ -524,12 +519,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -13,31 +13,114 @@ name:
     - The Janapada of the Bow-Fort
 id: D7nKwH4mRpQ8vLxZ
 shortcode: dhnrktjnpd
-population: "~30,000"
 subType: polity
-capital: dhanurkota
-demonym: Dhanurkoti
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Dhanurkoti
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      Sabhā of forty-two members convened by the senior priest of the Mahájaya temple, with
+      proportional representation from the fourteen constituent villages and reserved seats
+      for the masters of the four great archery academies. The sabhā meets monthly during
+      the campaign season and bi-monthly during the rest of the year; major decisions require
+      a two-thirds concurrence.
+    ranks:
+      - level: 0
+        title: Outcaste
+        lore: excmmnctrnk
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        lore: bondservantrnk
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        lore: commonerrnk
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        lore: gentryrnk
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        lore: warriorrnk
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        lore: priestrnk
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        lore: greatlordrnk
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        lore: heirrnk
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        lore: sovereignrnk
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices:
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+        perform.
+      Rājñī: The chief queen, holding her own revenues, household and voice at court.
+      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
+      Mantrin: Minister of the crown, one of the small council through which the kingdom is
+        actually run.
+      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
+      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
+        minister's.
+      Senāpati: Commander of the host, holding the martial council's confidence as well as
+        the king's.
+      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+        mint.
+      Sāmanta: >-
+        A vassal chieftain holding land in return for service, and the kingdom's chief source
+        of both strength and rebellion.
+      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
+        the passes.
+      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+  commonSkills:
+    - vedyarlng
+  seat: dhanurkota
+  domains:
     - vedyarargn
-  polities:
+  population: 30000
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  lore:
+    - humanflk
+  parents:
     - janpdsvdyr
-government:
-  type: confederation
-  summary: Sabhā of forty-two members convened by the senior priest of the Mahájaya temple, with proportional representation from the fourteen constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  relations:
+    varakpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[doc-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.
+The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.
 
 ## The Bow-Fort
 
@@ -84,18 +167,18 @@ In practice, Dhanurkota has not been seriously threatened in three centuries. It
 
 ## Relations
 
-Dhanurkota maintains formal patron-client relations with three neighboring kingdoms (the small mountain kingdoms whose names rotate as their dynasties rise and fall) and informal supplier-client relations with most of the major Vedyari city-states, including [[doc-chandrapur|Chandrapur]] and the inland branches of the great coastal merchant houses. Its relationship with [[doc-vyalendra2|Vyālendra]] is particularly close — Vyālendra has historically retained a Dhanurkoti graduate as commander of its city watch for as long as anyone can remember, and the two polities maintain a continuous diplomatic correspondence on military and commercial matters.
+Dhanurkota maintains formal patron-client relations with three neighboring kingdoms (the small mountain kingdoms whose names rotate as their dynasties rise and fall) and informal supplier-client relations with most of the major Vedyari city-states, including [[affiliation-chandrapur|Chandrapur]] and the inland branches of the great coastal merchant houses. Its relationship with [[affiliation-vyalendra2|Vyālendra]] is particularly close — Vyālendra has historically retained a Dhanurkoti graduate as commander of its city watch for as long as anyone can remember, and the two polities maintain a continuous diplomatic correspondence on military and commercial matters.
 
-Within the [[doc-janpdsvdyr|Mahā-Saṅgha]], Dhanurkota's reputation is high. The senior priest of the Mahájaya temple is one of the seniormost voices at every Mahā-Mela, and the four academy masters together are routinely consulted on inter-janapada military questions.
+Within the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], Dhanurkota's reputation is high. The senior priest of the Mahájaya temple is one of the seniormost voices at every Mahā-Mela, and the four academy masters together are routinely consulted on inter-janapada military questions.
 
 ## Commerce and Currency
 
-Dhanurkota Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

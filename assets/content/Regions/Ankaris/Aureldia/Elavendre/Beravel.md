@@ -1,19 +1,22 @@
 ---
 aliases:
   - Béravel
-tags: []
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
+data:
+  demonym: null
+  lore: []
+  parents:
+    - elavendre
+  population: null
 id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel
   aliases: []
 shortcode: beravel
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

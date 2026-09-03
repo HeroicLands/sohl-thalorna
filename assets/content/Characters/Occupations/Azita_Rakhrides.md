@@ -4,6 +4,7 @@ aliases:
   - Azita Rakhrides
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ázîta Râkhrîdês
   title: ""
@@ -16,38 +17,33 @@ id: xe9HIGYGJby3EcOy
 folder: gpXd1anXulwRWZqn
 shortcode: azitrkhrds
 img: icons/person.svg
-portrait: images/being/azitrkhrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/azitrkhrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler
-  station: tradesfolk
-  class: noble
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
+  homes:
+    - helionis
+  affiliations:
+    - kalydria
   gender: female
+  species: null
   age: 34
   birthday: 690/3/29
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: medium
     complexion: tanned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather satchel for documents
-    - Samples of spices
-    - trade agreements
-    - map of trade routes
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kalydria
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

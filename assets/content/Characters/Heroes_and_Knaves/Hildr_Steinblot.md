@@ -5,6 +5,7 @@ aliases:
   - Hildr Steinblot
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Hildr Steinblót
   title: ""
@@ -16,29 +17,26 @@ id: 2mnu06IiMqWhvNFg
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hldrstnblt
 img: icons/person.svg
-portrait: images/being/hldrstnblt-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/hldrstnblt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: female
+  species: null
   age: 32
   birthday: 688/2/15
-  height:
-    m: 1.8
-  weight:
-    kg: 74.4
-  build:
-    frame: medium
+  height: 1.8
+  weight: 74.4
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown

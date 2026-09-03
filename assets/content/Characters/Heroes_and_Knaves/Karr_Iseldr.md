@@ -5,6 +5,7 @@ aliases:
   - Karr Iseldr
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kárr Íseldr
   title: ""
@@ -16,29 +17,26 @@ id: 3p77MTlQ0N5PHfSM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: karriseldr
 img: icons/person.svg
-portrait: images/being/karriseldr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/karriseldr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 44
   birthday: 676/10/4
-  height:
-    m: 1.73
-  weight:
-    kg: 60.8
-  build:
-    frame: medium
+  height: 1.73
+  weight: 60.8
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown

@@ -4,6 +4,7 @@ aliases:
   - Chankhor Gharithos
 tags:
   - draft
+  - common-folk
 name:
   full: Chânkhor Ghârîthôs
   title: ""
@@ -16,38 +17,33 @@ id: riOtNIfGPkL8LjkQ
 folder: gpXd1anXulwRWZqn
 shortcode: chnkhrghrths
 img: icons/person.svg
-portrait: images/being/chnkhrghrths-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/chnkhrghrths-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ostler
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - theradon
   gender: male
+  species: null
   age: 42
   birthday: 682/2/9
-  height:
-    m: 1.91
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black
     skin_color: fair
     complexion: bronzed
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Large bag for tools and supplies
-    - Grooming tools
-    - feed bags
-    - first aid kit for horses
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: theradon
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

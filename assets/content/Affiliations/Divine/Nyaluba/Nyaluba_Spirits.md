@@ -18,14 +18,89 @@ name:
 shortcode: nyalbsprts
 type: affiliation
 subType: arcanetradition
-pantheon: nyalbpnthn
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: meritocracy
+    summary: >-
+      Advancement by degree of initiation, with a body of elders deciding what is taught and
+      who is admitted.
+    ranks:
+      - level: 0
+        title: Anathema
+        lore: excmmnctrnk
+        description: >-
+          Named against the tradition and cut off from its teaching, its protection and its
+          company; what it taught them is not taken back.
+      - level: 1
+        title: Uninitiated
+        lore: catechumenrnk
+        description: Outside the tradition entirely — served by it, feared by it, and told nothing.
+      - level: 2
+        title: Aspirant
+        lore: catechumenrnk
+        description: Petitioning for admission and being watched to see whether it should be
+          granted.
+      - level: 3
+        title: Initiate
+        lore: initiaternk
+        description: >-
+          Received into the tradition and bound by its oaths, holding its first mysteries and
+          few of its secrets.
+      - level: 4
+        title: Adept
+        lore: masterrnk
+        description: Practised in the tradition's art and trusted to work it unsupervised.
+      - level: 5
+        title: Master of the Art
+        lore: masterrnk
+        description: Competent to teach the tradition and to answer for what a pupil does with
+          it.
+      - level: 6
+        title: Keeper of the Tradition
+        lore: highpriestrnk
+        description: >-
+          Holding one of its bodies of knowledge or one of its houses, and answerable for its
+          continuance.
+      - level: 7
+        title: Elder
+        lore: elderrnk
+        description: Of the small body that decides what the tradition teaches and whom it admits.
+      - level: 8
+        title: First of the Tradition
+        lore: grandmasterrnk
+        description: >-
+          Presiding over the elders and speaking for the whole tradition where it must speak
+          with one voice.
+    offices:
+      First of the Tradition: Presiding elder, who speaks for the tradition where it must
+        speak with one voice.
+      Elder: Of the body that decides doctrine, admission and expulsion.
+      Magister: Master of a school, holding its teaching, its pupils and its reputation.
+      Preceptor: Charged with the instruction of initiates, and with judging when they are
+        ready.
+      Keeper of the Grimoires: Warden of the tradition's written work, and of who may read
+        which part of it.
+      Warden of the Threshold: Examiner of aspirants, and the last check before an oath is
+        taken.
+      Quaesitor: Investigator of the tradition's own — unlicensed practice, broken oaths,
+        and worse.
+      Bursar: Keeper of the tradition's endowment, its houses and its stipends.
+      Envoy: The tradition's representative to a court or a rival school.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents:
+    - nyalbpnthn
+  relations:
     nyalbpnthn: aligned
+sohl:
   archetype: null
 description: The clan totems, land-spirits, water-spirits, ancestor-spirits, and hunt-spirits of the Nyáluba — venerated, appeased, or warded against according to their character, and the substance of daily Nyáluba religious practice.
 folder: kiz45F34jXa6kr8Z
@@ -34,8 +109,8 @@ folder: kiz45F34jXa6kr8Z
 # Nyáluba Spirits
 
 - **Parent pantheon:** [[affiliation-nyalbpnthn|Nyáluba Pantheon]]
-- **People:** [[doc-nylbtrblntn|Nyáluba Tribal Nation]]
-- **Region:** southern [[doc-xerathia|Xerathia]]
+- **People:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+- **Region:** southern [[place-xerathia|Xerathia]]
 
 The **Nyáluba Spirits** are the living face of the [[affiliation-nyalbpnthn|Nyáluba faith]] in the world. They are the clan totems, the land-spirits, the water-spirits, the hunt-spirits, and the ancestor-spirits whose territories and lineages interleave with those of the Nyáluba peoples. They are not gods. They are not worshipped. They are, in the language of the tradition, **venerated, appeased, or warded against** — each according to its character and the need of the moment. The three postures are those of the shamans themselves, and the craft of Nyáluba religious practice consists, in large part, of knowing which posture a given spirit requires.
 
@@ -80,6 +155,6 @@ Outsiders — traders, travellers, foreign envoys — do not have pacts with the
 ## See Also
 
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]] — The totemic system of which the Spirits are the active substance
-- [[doc-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose religious life centres on the Spirits
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose religious life centres on the Spirits
 - [[affiliation-thekindred|The Kindred]] — The Áelendan parallel tradition, structurally very similar
 - [[affiliation-nkaruthar|Nkaru'thar]] — The Okháric Eternal Flame, whose _zohira_ fulfil a comparable role in the northern Xerathian tradition

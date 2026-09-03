@@ -2,23 +2,22 @@
 aliases:
   - Brynhallow
 id: TowEWAGcIliRpar1
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
-settlementType: "Hill Town"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aldorathrgn
+  population: null
 name:
   full: Brynhallow
   aliases: []
 shortcode: brynhallow
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

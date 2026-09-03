@@ -4,6 +4,8 @@ aliases:
   - Harmund Garwald
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Hármund Garwald
   title: ""
@@ -16,39 +18,33 @@ id: 8iO3WFg3aKsEECvl
 folder: Nu7AgLZEmR26u2pk
 shortcode: hrmndgrwld
 img: icons/person.svg
-portrait: images/being/hrmndgrwld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrmndgrwld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 55
   birthday: 665/6/12
-  height:
-    m: 1.83
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: graying_brown
     skin_color: light
     complexion: wrinkled
     extra_features: []
-gear:
-  weapons:
-    - Smithing hammer
-  armor:
-    - Leather apron
-  misc:
-    - Wooden chest for metalworking tools
-    - Forge tools
-    - wpnsup
-    - ingots of various metals
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

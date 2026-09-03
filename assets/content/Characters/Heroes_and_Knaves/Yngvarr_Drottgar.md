@@ -5,6 +5,8 @@ aliases:
   - Yngvarr Drottgar
 tags:
   - heroes-and-knaves
+  - guilded
+  - soldiery
 name:
   full: Yngvarr Dróttgar
   title: ""
@@ -16,29 +18,26 @@ id: 2mKYgaRHKWc3R4gK
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrdrtgr
 img: icons/person.svg
-portrait: images/being/yngvrdrtgr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/yngvrdrtgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Guard
-  station: soldiery
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 34
   birthday: 686/3/29
-  height:
-    m: 1.8
-  weight:
-    kg: 81.6
-  build:
-    frame: medium
+  height: 1.8
+  weight: 81.6
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: red

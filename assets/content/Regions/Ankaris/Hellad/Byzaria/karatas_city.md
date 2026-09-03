@@ -2,25 +2,26 @@
 aliases:
   - Karataş
 id: BSpoe64cjdqnAb45
+tags:
+  - city
+  - mining
+description: "Mining City"
 type: place
 subType: settlement
-settlementType: "Mining City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - byzariargn
+  population: null
 name:
   full: Karataş
   aliases: []
 shortcode: karatas2
-parent:
-  polities:
-    - karatas
 ---
 
 # Karataş
 
 ## Overview
 
-_To be written._ Karataş is the capital and principal settlement of [[doc-karatas|Karataş]].
+_To be written._ Karataş is the capital and principal settlement of [[affiliation-karatas|Karataş]].

@@ -3,6 +3,7 @@ aliases:
   - Ylíra Skorrsdottir
 tags:
   - tamzir-crew
+  - soldiery
 name:
   full: Ylíra Skorrsdottir
   title: ""
@@ -14,31 +15,27 @@ folder: Ka9XqaF27b0I3Gmq
 shortcode: ylrskrsdtr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/ylrskrsdtr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/ylrskrsdtr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Warrior
-  station: soldiery
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - thetamzir
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 25
   birthday: 694/2/17
-  height:
-    m: 1.7
-  weight:
-    kg: 54
-  build:
-    frame: scant
+  height: 1.7
+  weight: 54
+  frame: scant
   appearance:
     eye_color: blue
     hair_color: blonde

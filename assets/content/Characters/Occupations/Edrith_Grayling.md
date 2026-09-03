@@ -3,6 +3,7 @@ aliases:
   - Edrith Grayling
 tags:
   - draft
+  - tradesfolk
 name:
   full: Edrith Grayling
   title: ""
@@ -15,39 +16,33 @@ id: 63QHtDP9bdE2zBRg
 folder: elH5NDPUuiRCICrE
 shortcode: edrthgrylng
 img: icons/person.svg
-portrait: images/being/edrthgrylng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edrthgrylng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hideworker
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kingdmdnvr
   gender: female
+  species: null
   age: 28
   birthday: 696/4/5
-  height:
-    m: 1.73
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.73
+  weight: 64
+  frame: light
   appearance:
     eye_color: blue
     hair_color: blonde
     skin_color: pale
     complexion: rough
     extra_features: []
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Leather gloves
-  misc:
-    - Woven basket for tools
-    - Tanning solutions
-    - decorative dyes
-    - sewing kit
 sohl:
   archetype: null
   body:
@@ -526,12 +521,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kingdmdnvr
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

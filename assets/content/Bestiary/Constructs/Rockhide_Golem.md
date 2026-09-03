@@ -9,9 +9,30 @@ name:
 description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
 id: 5bCOMUSs7gQSkDPD
 img: icons/game-icons/delapouite/rock-golem.svg
-portrait: images/being/rckhdglm-portrait.webp
 shortcode: rckhdglm
 type: being
+data:
+  portrait: images/being/rckhdglm-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: construct
   archetype: 0

@@ -9,9 +9,30 @@ name:
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
 id: Y8roQ11S5nFysVFW
 img: icons/game-icons/lorc/werewolf.svg
-portrait: images/being/hlthrls-portrait.webp
 shortcode: hlthrls
 type: being
+data:
+  portrait: images/being/hlthrls-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: helspawn
   archetype: 0

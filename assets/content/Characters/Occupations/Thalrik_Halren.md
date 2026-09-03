@@ -4,6 +4,7 @@ aliases:
   - Thalrik Halren
 tags:
   - draft
+  - common-folk
 name:
   full: Thálrik Hálren
   title: ""
@@ -16,23 +17,27 @@ id: eRo7qYYOLQZ7mBhI
 folder: 4cwfdMa34UryZqPR
 shortcode: thalrkhlrn
 img: icons/person.svg
-portrait: images/being/thalrkhlrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thalrkhlrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 46
   birthday: 674/10/17
-  height:
-    m: 1.96
-  weight:
-    kg: 92
-  build:
-    frame: heavy
+  height: 1.96
+  weight: 92
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: blonde
@@ -40,16 +45,6 @@ traits:
     complexion: flawless
     extra_features:
       - a scar along the jawline
-gear:
-  weapons:
-    - Woodcutting axe
-  armor:
-    - Leather gloves
-  misc:
-    - Canvas pack for tools
-    - Saw
-    - rope
-    - sharpening stone
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

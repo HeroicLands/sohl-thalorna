@@ -2,22 +2,22 @@
 aliases:
   - Korinthel
 id: RRmQE1eVIBxDLVXi
+tags:
+  - port
+  - trading
+description: "Trading Port"
 type: place
 subType: settlement
-settlementType: "Trading Port"
-population: null
-languages:
-  - valtarlng
-  - kalihrlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - kaliharargn
+  population: null
 name:
   full: Korinthel
   aliases: []
 shortcode: korinthel
-parent:
-  polities:
-    - kalihara
 folder: ySaln4Q82C7W1p0I
 ---
 

@@ -5,7 +5,6 @@ aliases:
   - Nordheim
 tags:
   - region
-title: ""
 description: The frozen fjord-lands of northern Ankaris — homeland of the Normen, seafarers and raiders of the Asguardian faith.
 name:
   full: Nordlands Region
@@ -15,33 +14,30 @@ shortcode: nrdlndsrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
-demonym: Normen
-parent:
-  continents:
+data:
+  demonym: Normen
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - asguardian
-peoples:
-  - human
-languages:
-  - nordmalng
+  population: null
+terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
 folder: yCT7BtuH6hMwWnob
 ---
 
-The Nordlands are the frozen north of [[doc-ankrscntnnt|Ankaris Continent]] — a region of jagged mountains, deep fjords, boreal forests, and glacier-fed rivers that together define the homeland of the **Normen**. Across five kinship-kingdoms bound by a shared language, pantheon, and seafaring tradition, the Normen make the Nordlands one of the most cohesive cultural regions on the continent: no imperial authority has ever ruled here, and none is expected to.
+The Nordlands are the frozen north of [[place-ankrscntnnt|Ankaris Continent]] — a region of jagged mountains, deep fjords, boreal forests, and glacier-fed rivers that together define the homeland of the **Normen**. Across five kinship-kingdoms bound by a shared language, pantheon, and seafaring tradition, the Normen make the Nordlands one of the most cohesive cultural regions on the continent: no imperial authority has ever ruled here, and none is expected to.
 
 ## Geography
 
-The Nordlands occupy Ankaris's northwestern quarter, stretching from the old forested marches that front the [[doc-aureldirgn|Aurèldían]] north down to the iron coasts that face the open northern ocean. The region is defined above all by its coastline — a saw-toothed geography of thousands of natural harbors carved by glaciers into granite and basalt. The fjords reach deep inland, each a sheltered road for longship fleets.
+The Nordlands occupy Ankaris's northwestern quarter, stretching from the old forested marches that front the [[place-aureldirgn|Aurèldían]] north down to the iron coasts that face the open northern ocean. The region is defined above all by its coastline — a saw-toothed geography of thousands of natural harbors carved by glaciers into granite and basalt. The fjords reach deep inland, each a sheltered road for longship fleets.
 
-Behind the fjords the land rises into mountain ranges of wind-scoured stone and ice, breaking into high interior plateaus where caribou migrate and the most reclusive clans dwell. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[doc-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather — their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
+Behind the fjords the land rises into mountain ranges of wind-scoured stone and ice, breaking into high interior plateaus where caribou migrate and the most reclusive clans dwell. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather — their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
 
 The climate is brutal by Ankarian standards. Winters last for months and drag a near-total darkness across the far north; summers are short, light-flooded, and violently alive. A Normen child learns early that the land does not feed those who cannot read its moods.
 
 ## Peoples and Culture
 
-The Normen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[doc-kngdmnrdhm|Nordheim]], [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _þing_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
+The Normen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _þing_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
 The _þing_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
@@ -65,21 +61,21 @@ Succession is nominally hereditary, but it is qualified by the _þing_: a king w
 
 ## Trade
 
-Despite the reputation for raiding, the Nordlands are deeply integrated into Ankaris's trade. Normen longships reach as far south as the [[doc-vylarianse|Vylarian Sea]], and Normen mercenaries serve in armies from [[doc-aelwyth|Aelwyth]] to [[doc-tanvuregin|Tānvür]]. The region exports amber, furs, whale ivory, iron, smoked fish, and slaves; it imports wine, fine cloth, grain, silver, and the luxuries that only a warmer climate produces. **Aelwyth** is the most intimate trading partner — the two regions share a coast, a family of gods (through the Aelwythan syncretism of the Twelve and the Asguardians), and centuries of intermarriage, feud, and quiet alliance.
+Despite the reputation for raiding, the Nordlands are deeply integrated into Ankaris's trade. Normen longships reach as far south as the [[place-vylarianse|Vylarian Sea]], and Normen mercenaries serve in armies from [[place-aelwyth|Aelwyth]] to [[place-tanvuregin|Tānvür]]. The region exports amber, furs, whale ivory, iron, smoked fish, and slaves; it imports wine, fine cloth, grain, silver, and the luxuries that only a warmer climate produces. **Aelwyth** is the most intimate trading partner — the two regions share a coast, a family of gods (through the Aelwythan syncretism of the Twelve and the Asguardians), and centuries of intermarriage, feud, and quiet alliance.
 
 ## Relations with Neighboring Regions
 
-To the **south and west** lies [[doc-aureldirgn|Aurèldía]]. Contact is ancient and ambiguous: simultaneous trading partner, theological rival, occasional victim of raids, and participant in the Aelwythan religious syncretism that weaves the Asguardian gods into an Aurèldían landscape. To the **south**, the Normen frontier with [[doc-vrystwald|Vrystwald]] is a long, wooded contest between Normen settlers and the Varokh tribes of the deep forests — the kind of border where formal rule matters less than who has built the last stockade. To the **east** is [[doc-grkrhlmrgn|Grukarhölm]], home of the Grukar clans. The two peoples share a climate and a martial temper but nothing else — Grukar raids against Nordmal coastal settlements are a perennial problem, and Normen punitive expeditions into Grukar territory a recurring counter.
+To the **south and west** lies [[place-aureldirgn|Aurèldía]]. Contact is ancient and ambiguous: simultaneous trading partner, theological rival, occasional victim of raids, and participant in the Aelwythan religious syncretism that weaves the Asguardian gods into an Aurèldían landscape. To the **south**, the Normen frontier with [[place-vrystwald|Vrystwald]] is a long, wooded contest between Normen settlers and the Varokh tribes of the deep forests — the kind of border where formal rule matters less than who has built the last stockade. To the **east** is [[place-grkrhlmrgn|Grukarhölm]], home of the Grukar clans. The two peoples share a climate and a martial temper but nothing else — Grukar raids against Nordmal coastal settlements are a perennial problem, and Normen punitive expeditions into Grukar territory a recurring counter.
 
 Far to the south, Mídhalión is the great market. Normen traders and mercenaries are a familiar sight in every Vylarian port, and a significant share of Nordmal silver is earned under southern skies.
 
 ## See Also
 
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — the five Nordmal kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — the five Nordmal kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — the Twelve of the north
 - [[skill-nordmalng|Nordmal Language]] — the shared tongue
-- [[doc-grkrhlmrgn|Grukarhölm]] — eastern neighbor
-- [[doc-vrystwald|Vrystwald]] — southern frontier
-- [[doc-aelwyth|Aelwyth]] — religious syncretism and cultural cousin
-- [[doc-aureldirgn|Aurèldía Region]] — southern religious neighbor
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-grkrhlmrgn|Grukarhölm]] — eastern neighbor
+- [[place-vrystwald|Vrystwald]] — southern frontier
+- [[place-aelwyth|Aelwyth]] — religious syncretism and cultural cousin
+- [[place-aureldirgn|Aurèldía Region]] — southern religious neighbor
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

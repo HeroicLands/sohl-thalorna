@@ -14,14 +14,96 @@ name:
 shortcode: yokveng
 type: affiliation
 subType: faithtradition
-pantheon: tngvkvnlei
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents:
+    - tngvkvnlei
+  relations:
     tngvkvnlei: aligned
+sohl:
   archetype: null
 folder: hDKxtkbJFjn8bIUr
 ---
@@ -58,7 +140,7 @@ The Yokveng also houses a large population of lesser demonic beings — the [[af
 
 The Yokveng is not accessible to mortals in the ordinary sense — one does not travel there by any geographic means — but its influence bleeds into the classified cosmos through weak points in the classification system: archives that have been neglected, rituals that have been improperly performed, households whose ancestor tablets have been destroyed, and territories where the imperial administration's reach has frayed. Mortals who seek contact with the Yokveng can find it in such places, and mortals who do not seek contact can nonetheless be found by the Yokveng when they venture too close to its weak points.
 
-The cult of the Demon Lords among mortals — most conspicuously the [[affiliation-nuszokreit|Nüszōk Rëit]] — is the most sustained organized engagement between the Yokveng and imperial society in the present era. The orthodox imperial religion regards such worship as the gravest possible heresy, and the [[doc-tanthei|Tānthëi]] have devoted substantial theological labor to refuting the cult's claim that the Demon Lords represent the truth of the Bureaucracy rather than its pathology.
+The cult of the Demon Lords among mortals — most conspicuously the [[affiliation-nuszokreit|Nüszōk Rëit]] — is the most sustained organized engagement between the Yokveng and imperial society in the present era. The orthodox imperial religion regards such worship as the gravest possible heresy, and the [[lore-tanthei|Tānthëi]] have devoted substantial theological labor to refuting the cult's claim that the Demon Lords represent the truth of the Bureaucracy rather than its pathology.
 
 ## See Also
 
@@ -66,4 +148,4 @@ The cult of the Demon Lords among mortals — most conspicuously the [[affiliati
 - [[affiliation-hurnzhuk|Hürnzhük]], [[affiliation-vekthor|Vëkthōr]], [[affiliation-zhaksok|Zhāksōk]], [[affiliation-nushot|Nüshöt]], [[affiliation-dokyok|Dōkyök]] — The Demon Lords
 - [[affiliation-yvlesrdmns|Lesser Demons]] — The Yōkvëng under the Lords' authority
 - [[affiliation-nuszokreit|Nüszōk Rëit]] — The mortal cult that worships the Demon Lords
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows

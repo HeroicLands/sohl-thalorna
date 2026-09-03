@@ -9,9 +9,30 @@ name:
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
 id: mYRlDMSiKnHIpUzq
 img: icons/game-icons/delapouite/rock-golem.svg
-portrait: images/being/trrkthsn-portrait.webp
 shortcode: trrkthsn
 type: being
+data:
+  portrait: images/being/trrkthsn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: construct
   archetype: 0

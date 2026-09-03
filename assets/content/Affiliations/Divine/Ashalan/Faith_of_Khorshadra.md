@@ -1,4 +1,5 @@
 ---
+description: "Knowledge, Wisdom, Truth."
 aliases:
   - Faith of Khóršádrä
   - Bearer of Eternal Light
@@ -10,30 +11,109 @@ tags:
   - light-deity
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: Bearer of Eternal Light
+  symbol: A golden sunburst with radiant beams
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - khorsadradty
+  parents:
+    - ashanpnthn
+  relations:
     ashanpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Khóršádrä
   aliases: []
 shortcode: korsadra
-deity: Khóršádrä
-epithet: Bearer of Eternal Light
-domain: Knowledge, Wisdom, Truth
-symbol: A golden sunburst with radiant beams
-pantheon: ashanpnthn
 alias: Khóršádrä, Bearer of Eternal Light
 folder: 7so6UiPt445oIHWs
 ---
 
 Khóršádrä is the goddess of knowledge, eternal light, and the clarity that reveals truth hidden beneath layers of deception. She is depicted as a radiant female figure crowned with a sunburst, holding aloft a lamp or torch that illuminates even the deepest shadows. Her eyes are said to perceive all things without illusion—she sees through darkness and falsehood as easily as daylight pierces fog. In Āsháian theology, she embodies the principle that knowledge is the foundation of all virtue, that a person who understands truth cannot help but align with Āsha, while one who operates in ignorance cannot help but stumble into Druj. She is revered by scholars, astronomers, physicians, and all those who pursue understanding as a form of spiritual practice. Where [[affiliation-ataros|Ātáröš]] is the fire that transforms and purifies through heat, Khóršádrä is the light that shows things as they truly are—the two are complementary aspects of divine revelation.
 
-The cult of Khóršádrä teaches that ignorance is the root of all evil. The person who lies deliberately chooses Druj, but the person who lies unwittingly because they are ignorant is trapped in deception against their will. The person who commits cruelty with understanding of what they do is wicked, but the person who causes harm through ignorance is equally damnable, for they have failed to seek the knowledge that would have guided them toward Āsha. This creates a theological imperative toward learning—it is a sacred duty to pursue knowledge, to educate oneself and others, to shine the light of understanding into all the dark corners of the world. The great libraries and academies of [[doc-sultntmrdd|Amradad]] are understood as temples to Khóršádrä, sacred spaces where the eternal light of wisdom burns undiminished, where knowledge accumulated by generations of scholars is preserved and transmitted to those who come after.
+The cult of Khóršádrä teaches that ignorance is the root of all evil. The person who lies deliberately chooses Druj, but the person who lies unwittingly because they are ignorant is trapped in deception against their will. The person who commits cruelty with understanding of what they do is wicked, but the person who causes harm through ignorance is equally damnable, for they have failed to seek the knowledge that would have guided them toward Āsha. This creates a theological imperative toward learning—it is a sacred duty to pursue knowledge, to educate oneself and others, to shine the light of understanding into all the dark corners of the world. The great libraries and academies of [[affiliation-sultntmrdd|Amradad]] are understood as temples to Khóršádrä, sacred spaces where the eternal light of wisdom burns undiminished, where knowledge accumulated by generations of scholars is preserved and transmitted to those who come after.
 
 Among the nomadic peoples of the desert and steppe, Khóršádrä holds a special place as the goddess of navigation and the reading of omens. The stars are her primary domain—she is the one who arranged them in their courses and continues to speak through their movements to those wise enough to listen. A skilled stargazer or desert navigator is understood to be a priest of Khóršádrä, reading the heavens as if reading a sacred text, interpreting the positions of planets and stars as divine messages about the future. In the great oases and caravan cities, Khóršádrä's temples maintain sophisticated astronomical observatories where precise records of celestial movements are kept. These records are not mere scientific curiosity—they are understood as the actual words of the goddess, written in the sky for those with eyes to see and minds to understand. A merchant planning a journey will consult with a priest of Khóršádrä to learn what the stars foretell about the success of the expedition; a leader planning military campaigns will seek the goddess's guidance through astrological interpretation; a young couple seeking marriage will time their wedding ceremony according to favorable astronomical configurations.
 
@@ -45,13 +125,13 @@ The major festival honoring Khóršádrä occurs at the spring equinox, coincidi
 
 A second, smaller festival celebrates the heliacal rising of major stars—the moments when particular bright stars first become visible in the dawn sky after a period of invisibility. These astronomically significant moments are understood as Khóršádrä revealing herself and reasserting her presence in the heavens. The exact dates vary by latitude and by which star is being observed, but in all Āsháian lands, these moments are marked by gatherings of astronomers, scholars, and common people who come to witness the star's first appearance. Priests conduct ceremonies honoring the goddess, and astronomical observations are recorded in temple archives for comparison with observations from previous years.
 
-Individual worship of Khóršádrä involves devotion to learning and truthfulness. A merchant might maintain a small shrine to the goddess in their counting-house, making daily offerings of incense or oil-lamp fuel while seeking her guidance on business decisions. A scholar will spend evening hours in study and meditation, deliberately seeking to increase their understanding of a subject as a form of prayer to the goddess. Some devotees practice a discipline of daily truth-telling—a commitment to avoid any deception in speech, no matter how small or convenient, as a way of aligning themselves with Khóršádrä's principle and making their own lives an offering to her. A group of philosophers in [[doc-sultntmrdd|Amradad]] is known to gather weekly to debate fundamental questions—not to reach definitive answers (which may be impossible), but to expose themselves and each other to new perspectives, to refine their understanding, to push thinking to sharper edges. They consider these philosophical debates a form of worship more profound than any ritual.
+Individual worship of Khóršádrä involves devotion to learning and truthfulness. A merchant might maintain a small shrine to the goddess in their counting-house, making daily offerings of incense or oil-lamp fuel while seeking her guidance on business decisions. A scholar will spend evening hours in study and meditation, deliberately seeking to increase their understanding of a subject as a form of prayer to the goddess. Some devotees practice a discipline of daily truth-telling—a commitment to avoid any deception in speech, no matter how small or convenient, as a way of aligning themselves with Khóršádrä's principle and making their own lives an offering to her. A group of philosophers in [[affiliation-sultntmrdd|Amradad]] is known to gather weekly to debate fundamental questions—not to reach definitive answers (which may be impossible), but to expose themselves and each other to new perspectives, to refine their understanding, to push thinking to sharper edges. They consider these philosophical debates a form of worship more profound than any ritual.
 
 ## Organization
 
 The priesthood of Khóršádrä is perhaps the most intellectually demanding of all Āsháian religious orders. Unlike the warrior-priests of [[affiliation-bahramis|Báhrámiš]] or the flame-keepers of [[affiliation-ataros|Ātáröš]], the priests of Khóršádrä must combine spiritual devotion with genuine scholarly attainment. The training is rigorous and extended, often lasting a decade or more.
 
-The **Mōbad** of Khóršádrä's temples is invariably a scholar of the highest order—someone who has made original contributions to knowledge, who has published works recognized across multiple kingdoms, whose understanding is so deep and sophisticated that they can guide others through complex material. In [[doc-sultntmrdd|Amradad]], the Mōbad of Khóršádrä's Great Temple serves as the chief astronomer and chief advisor on scholarly matters to the Sultan. The current Mōbad, Khazafir the Stargazer, has written definitive treatises on planetary motion, on the classification of herbs and minerals, and on the interpretation of ancient scripts. His recommendations regarding the construction of a new astronomical observatory influenced the Sultan's decision to fund the massive Temple of the Eternal Star, now the largest such observatory in all Ankaris.
+The **Mōbad** of Khóršádrä's temples is invariably a scholar of the highest order—someone who has made original contributions to knowledge, who has published works recognized across multiple kingdoms, whose understanding is so deep and sophisticated that they can guide others through complex material. In [[affiliation-sultntmrdd|Amradad]], the Mōbad of Khóršádrä's Great Temple serves as the chief astronomer and chief advisor on scholarly matters to the Sultan. The current Mōbad, Khazafir the Stargazer, has written definitive treatises on planetary motion, on the classification of herbs and minerals, and on the interpretation of ancient scripts. His recommendations regarding the construction of a new astronomical observatory influenced the Sultan's decision to fund the massive Temple of the Eternal Star, now the largest such observatory in all Ankaris.
 
 The **Hērbad** of Khóršádrä are scholars and teachers who maintain temples and academies dedicated to learning. Many are specialists in particular fields—mathematics, medicine, astronomy, history, law, engineering. The largest temples function essentially as universities, with multiple Hērbads each teaching their specialization, with libraries containing thousands of volumes, with laboratories where medical and alchemical research is conducted. These temples are centers of intellectual life, places where ambitious young people come to study, where scholars migrate to discuss their work with peers, where the accumulated knowledge of generations is preserved and advanced. The Hērbads maintain high standards for accuracy and methodology—sloppy thinking is not tolerated, claims require supporting evidence, theories must be coherent and testable.
 

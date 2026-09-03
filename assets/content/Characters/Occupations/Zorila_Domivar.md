@@ -4,6 +4,7 @@ aliases:
   - Zorila Domivar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Zórila Dómivar
   title: ""
@@ -16,39 +17,33 @@ id: PP4XJU3nBC4oAv0D
 folder: 9t9O4iB5cYJtSaTG
 shortcode: zoriladmvr
 img: icons/person.svg
-portrait: images/being/zoriladmvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/zoriladmvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 29
   birthday: 695/3/27
-  height:
-    m: 1.73
-  weight:
-    kg: 71
-  build:
-    frame: light
+  height: 1.73
+  weight: 71
+  frame: light
   appearance:
     eye_color: amber
     hair_color: dark_brown
     skin_color: olive_tanned
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Longbow
-  armor:
-    - Leather vest
-  misc:
-    - Quiver for arrows
-    - Hunting knife
-    - rope
-    - small trap
 sohl:
   archetype: null
   body:
@@ -526,12 +521,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

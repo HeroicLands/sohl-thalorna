@@ -5,6 +5,7 @@ aliases:
   - Philina Markesianos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Philína Markêsianos
   title: ""
@@ -16,34 +17,31 @@ id: 1sTgw2TTJsatwD83
 folder: b81DHx3S7C9ep13E
 shortcode: phlnmrksns
 img: icons/person.svg
-portrait: images/being/phlnmrksns-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/phlnmrksns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hideworker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 28
   birthday: 692/4/5
-  height:
-    m: 1.73
-  weight:
-    kg: 63.5
-  build:
-    frame: light
+  height: 1.73
+  weight: 63.5
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

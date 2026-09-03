@@ -2,23 +2,22 @@
 aliases:
   - Alyssar
 id: tcjuUdxJxxs60dLX
+tags:
+  - capital
+  - provincial
+description: "Provincial Capital"
 type: place
 subType: settlement
-settlementType: "Provincial Capital"
-population: 45000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 45000
 name:
   full: Alyssar
   aliases: []
 shortcode: alyssar
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

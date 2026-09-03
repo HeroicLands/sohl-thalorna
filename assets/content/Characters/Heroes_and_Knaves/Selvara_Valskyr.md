@@ -3,6 +3,7 @@ aliases:
   - Sélvara Válskyr
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Sélvara Válskyr
   title: ""
@@ -14,31 +15,27 @@ folder: 9t9O4iB5cYJtSaTG
 shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/slvrvlskyr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/slvrvlskyr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: First Mate
-  station: tradesfolk
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - thetamzir
+    - kingdmtrvn
   gender: female
+  species: null
   age: 34
   birthday: 685/2/26
-  height:
-    m: 1.78
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.78
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown

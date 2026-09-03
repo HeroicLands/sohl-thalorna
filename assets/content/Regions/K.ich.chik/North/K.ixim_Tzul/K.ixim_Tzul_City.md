@@ -2,25 +2,25 @@
 aliases:
   - K'ixim Tzul
 id: RPORfulXgkxwp8zj
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrthrnkchchk
+  population: null
 name:
   full: K'ixim Tzul
   aliases: []
 shortcode: kiximtzul2
-parent:
-  polities:
-    - kiximtzul
 ---
 
 # K'ixim Tzul
 
 ## Overview
 
-_To be written._ K'ixim Tzul is the central city and seat of the [[doc-kiximtzul|K'ixim Tzul]] city-state.
+_To be written._ K'ixim Tzul is the central city and seat of the [[affiliation-kiximtzul|K'ixim Tzul]] city-state.

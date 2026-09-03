@@ -4,6 +4,7 @@ aliases:
   - Risakos Ibarithos
 tags:
   - draft
+  - tradesfolk
 name:
   full: Rísàkós Ibârìthôs
   title: ""
@@ -16,23 +17,27 @@ id: do0cZuzren68K4Tu
 folder: gpXd1anXulwRWZqn
 shortcode: risksbrths
 img: icons/person.svg
-portrait: images/being/risksbrths-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/risksbrths-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - korinthea
   gender: male
+  species: null
   age: 46
   birthday: 674/2/11
-  height:
-    m: 1.73
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.73
+  weight: 66
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: clear
     extra_features:
       - a scar on the left calf
-gear:
-  weapons:
-    - Dagger
-  armor:
-    - Thick leather gloves
-  misc:
-    - Belt pouch with vials
-    - Poison samples
-    - antidote recipes
-    - medical toolkit
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: korinthea
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

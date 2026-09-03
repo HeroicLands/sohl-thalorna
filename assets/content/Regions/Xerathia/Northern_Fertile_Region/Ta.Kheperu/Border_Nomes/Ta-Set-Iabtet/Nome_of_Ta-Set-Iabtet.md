@@ -11,23 +11,110 @@ name:
   aliases: []
 shortcode: nometstbtt
 subType: polity
-demonym: Kheperi
-government:
-  type: nome
-  summary: An eastern frontier mining-nome governed by a hereditary Haty'a in his capacity as military governor of the hill-mines and desert roads.
-languages:
-  - kheperlng
-capital: bakhu
-population: "~350,000"
-pantheons:
-  - kemtnpnthn
-peoples:
-  - human
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Kheperi
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: >-
+      An eastern frontier mining-nome governed by a hereditary Haty'a in his capacity as military
+      governor of the hill-mines and desert roads.
+    ranks:
+      - level: 0
+        title: Outcast
+        lore: expelledrnk
+        description: >-
+          Driven from the nomes and denied burial, which is the true sentence: without a tomb
+          there is no continuation.
+      - level: 1
+        title: Bondsman
+        lore: slavernk
+        description: >-
+          Bound to an estate or a temple, owing labour on its fields and its works and holding
+          nothing of his own.
+      - level: 2
+        title: Farmer
+        lore: commonerrnk
+        description: >-
+          Working the floodplain under a lord or a temple, owing a share of the harvest and
+          labour on the canals.
+      - level: 3
+        title: Artisan or Merchant
+        lore: journeymanrnk
+        description: >-
+          Of the trades — potters, weavers, boatmen, traders — free of the fields and taxed
+          on their work.
+      - level: 4
+        title: Scribe
+        lore: clerkrnk
+        description: >-
+          Lettered, and therefore the empire's principal path upward: a talented child of any
+          house may enter the schools.
+      - level: 5
+        title: Heka'hut
+        lore: landedlordrnk
+        description: >-
+          Ruler of an estate — its manor, its fields and its village — answerable to the nomarch
+          above.
+      - level: 6
+        title: Haty'a
+        lore: greatlordrnk
+        description: >-
+          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes
+          and dispensing its justice.
+      - level: 7
+        title: Iry'pat
+        lore: greatlordrnk
+        description: >-
+          Of the royal house and the most exalted families, the highest hereditary rank below
+          the throne.
+      - level: 8
+        title: Per-Aá
+        lore: sovereignrnk
+        description: >-
+          The divine sovereign, on whose claim all temple and secular authority rests — a fiction
+          nobody believes and nobody may abandon.
+    offices:
+      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
+      Heka'hut: Ruler of an estate — manor, fields and village — answerable to the nomarch.
+      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
+      Nebet: Lady of the court, whose standing comes from position rather than from land.
+      Semer: >-
+        Companion of the Per-Aá: a title of royal favour and access rather than territorial
+        authority.
+      Wer'Hekau: >-
+        Great of Sacred Power — High Priest of a major temple, master of its estates and voice
+        of its god.
+      Hem'Netjer: >-
+        Servant of the God — the ordained priesthood that conducts the rites and runs the
+        temple's lands.
+      Wab: >-
+        Purified One — acolyte in the temple schools, years from ordination and already better
+        educated than most.
+      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
+        men who actually govern.
+      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the nome's harvest — and its tax
+        — depends.
+  commonSkills:
+    - kheperlng
+  seat: bakhu
+  domains:
     - takheperurgn
-  polities:
-    - empirtkhpr
+  population: 350000
+  economy:
+    - affiliation-perhati
+    - lore-tkhprcrncy
+  lore:
+    - humanflk
+  parents:
+    - bordernoms
+  relations:
+    kemtnpnthn: aligned
+sohl:
+  archetype: null
 folder: G7beOi7xbLclZh5f
 ---
 
@@ -35,7 +122,7 @@ folder: G7beOi7xbLclZh5f
 
 ## Overview
 
-Ta-Set-Iabtet — "the Land of the Eastern Hills" — is the great mining march of [[doc-empirtkhpr|The Empire of Ta'Kheperu]], a rugged border nome where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from. It is a [[doc-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
+Ta-Set-Iabtet — "the Land of the Eastern Hills" — is the great mining march of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], a rugged border nome where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from. It is a [[affiliation-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
 
 ## Character
 
@@ -55,7 +142,7 @@ Mining and quarrying are the whole of it. The nome's gold and copper feed the em
 
 ## Settlements
 
-- **[[doc-bakhu|Bakhu]]** (~22,000) — the nome capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Haty'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Ptā'h the smith.
+- **[[place-bakhu|Bakhu]]** (~22,000) — the nome capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Haty'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Ptā'h the smith.
 - **The mine-and-quarry camps:** scattered through the hills and desert are mining settlements, smelter-towns, and quarry-camps of 500–4,000 — among them Bia-Resu (the copper diggings), Mefkat (the turquoise camps), Inr-Hedj (the white-stone quarry), and the convict-station of Kheset — each clustered around its diggings and its guard-fort, supplied by water-caravan from the river.
 
 ## For the Worldbuilder
@@ -64,12 +151,12 @@ Ta-Set-Iabtet is the empire's strongbox and its anvil — run it as a hard front
 
 ## Commerce and Currency
 
-Ta-Set-Iabtet uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and as the source of much of the empire's gold and copper it sits at the very head of the coined economy — yet its own daily life runs on garrison-pay and rationed supply rather than open markets. The assay-house at [[doc-bakhu|Bakhu]] weighs and seals the crown's metal, and [[affiliation-perhati|Pér-Háti]] agents travel with the gold-convoys. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Ta-Set-Iabtet uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and as the source of much of the empire's gold and copper it sits at the very head of the coined economy — yet its own daily life runs on garrison-pay and rationed supply rather than open markets. The assay-house at [[place-bakhu|Bakhu]] weighs and seals the crown's metal, and [[affiliation-perhati|Pér-Háti]] agents travel with the gold-convoys. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-bordernoms|The Border Nomes]] — Parent nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[doc-bakhu|Bakhu]] — Nome capital
+- [[affiliation-bordernoms|The Border Nomes]] — Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[place-bakhu|Bakhu]] — Nome capital
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Ptā'h)
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries

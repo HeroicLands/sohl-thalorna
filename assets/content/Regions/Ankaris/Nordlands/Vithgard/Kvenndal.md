@@ -2,23 +2,22 @@
 aliases:
   - Kvenndal
 id: hlCieAQkrHQguMjN
+tags:
+  - settlement
+  - valley
+description: "Valley Settlement"
 type: place
 subType: settlement
-settlementType: "Valley Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Kvenndal
   aliases: []
 shortcode: kvenndal
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

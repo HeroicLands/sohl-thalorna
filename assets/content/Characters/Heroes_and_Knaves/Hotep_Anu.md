@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - clergy
 name:
   full: Hotep Anu
   title: ""
@@ -17,33 +18,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
 img: icons/person.svg
-portrait: images/being/hotepanu-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/hotepanu-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: ""
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 40
   birthday: 680/1/15
-  height:
-    m: 1.75
-  weight:
-    kg: 74.8
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 74.8
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: bald
     skin_color: dark
     complexion: weathered
     extra_features:
-      - Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's mark of expulsion
+      - >-
+        Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's
+        mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
 sohl:
   archetype: null
@@ -557,7 +560,7 @@ sohl:
     - { shortcode: backpk, type: containergear }
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -567,7 +570,7 @@ He dresses in a plain cloth tunic and worn leather sandals — indistinguishable
 
 # Dossier {#dossier}
 
-Hotep was born in [[doc-ankhsetun|Ankh-Setûn]], the second son of a minor scribe who managed grain inventories for the nome's central granary. The family was respectable but unremarkable — literate, employed, and utterly without social ambition. His father's highest aspiration for his sons was that they follow him into the scribal service. Hotep's older brother did exactly that. Hotep, at the age of nine, was accepted as a Wab into the Temple of Má'át at Ankh-Setûn — not through family connections but because the temple's recruiting priests identified a boy with an unusual capacity for concentration and an instinctive discomfort with dishonesty that bordered on the pathological.
+Hotep was born in [[place-ankhsetun|Ankh-Setûn]], the second son of a minor scribe who managed grain inventories for the nome's central granary. The family was respectable but unremarkable — literate, employed, and utterly without social ambition. His father's highest aspiration for his sons was that they follow him into the scribal service. Hotep's older brother did exactly that. Hotep, at the age of nine, was accepted as a Wab into the Temple of Má'át at Ankh-Setûn — not through family connections but because the temple's recruiting priests identified a boy with an unusual capacity for concentration and an instinctive discomfort with dishonesty that bordered on the pathological.
 
 The temple schools of Má'át are among the most rigorous in the empire. Where the schools of Íšét teach diplomacy and the reading of people, and the schools of Thōth teach the preservation and interpretation of knowledge, the schools of Má'át teach law, procedure, the weighing of evidence, and the sacred obligation of truthful speech. A Wab of Má'át learns to adjudicate disputes, administer oaths, conduct the rituals of judgment, and — above all — to recognize deception. The training is not gentle. Students are tested relentlessly: presented with false evidence, subjected to elaborate fabrications designed to test their ability to separate truth from persuasion, and punished not for being deceived but for failing to admit it. The theology is simple and unforgiving: Má'át is the principle that holds the cosmos together. Untruth weakens it. A priest who cannot identify falsehood — or worse, who tolerates it — is not merely incompetent but cosmically dangerous.
 

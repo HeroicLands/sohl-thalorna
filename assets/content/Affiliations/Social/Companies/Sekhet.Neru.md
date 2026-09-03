@@ -8,7 +8,86 @@ tags:
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Taméresh River through ritual, courage, and divine obligation."
 type: affiliation
 folder: bVhz4i3fwwT0NDSW
-subType: venture
+subType: order
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A sworn hunting company of the Khetai, bound by sacred obligation and led by the Steersman
+      who holds the Per-Aá's charter over the reach.
+    ranks:
+      - level: 0
+        title: Cast from the Hunt
+        lore: expelledrnk
+        description: >-
+          Put out of the Sekhet'Neru and denied its rites; the shame falls on the Khetai and
+          is not forgotten in seven generations.
+      - level: 1
+        title: Kin of the Khetai
+        lore: dependentrnk
+        description: >-
+          Of the family the charter was granted to, and entitled to nothing of the hunt by that
+          alone.
+      - level: 2
+        title: Bearer
+        lore: dependentrnk
+        description: >-
+          Carrying the harpoons, poling the boats and butchering what is taken, without striking
+          at the quarry.
+      - level: 3
+        title: Sworn of the Hunt
+        lore: swornmemberrnk
+        description: Bound by the sacred obligation, permitted at the rites, and permitted to
+          strike.
+      - level: 4
+        title: Blooded
+        lore: warriorrnk
+        description: >-
+          Having taken a hippopotamus or a crocodile in open water, and reckoned a hunter rather
+          than a hand.
+      - level: 5
+        title: Wab of the Hunt
+        lore: initiaternk
+        description: >-
+          Reading the will of the river gods before an expedition, without whose word it does
+          not launch.
+      - level: 6
+        title: Steersman of the Sacred Waters
+        lore: commanderrnk
+        description: >-
+          Holder of the Per-Aá's charter over this reach of the Taméresh, whose authority in
+          the hunt is absolute and whose tenure is not.
+    offices:
+      Steersman of the Sacred Waters: >-
+        Holder of the charter and leader of the hunt, answerable to the Haty'a for what the
+        river does.
+      Wab of the Hunt: Ritualist of the company, who reads the river gods' will before each
+        expedition.
+      Harpooner: Striker at the quarry from the bow, the post that decides whether a hunt
+        ends well.
+      Boat-Steerer: >-
+        Holder of a boat in the marshes, answerable for its crew in water that kills them
+        if he is wrong.
+      Keeper of the Charter: Warden of the grant itself and of the record of every hunt made
+        under it.
+      Butcher of the Offering: Divider of what is taken between the temples, the nomes and
+        the company.
+      Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and
+        often alone.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
 id: 679Cgowsm63fuzBR
 name:
   full: Sekhet'Neru

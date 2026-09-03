@@ -4,6 +4,7 @@ aliases:
   - Armund Hildskorn
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ármund Hildskorn
   title: ""
@@ -16,39 +17,33 @@ id: 1S6xfB2gpBLzHfz3
 folder: Nu7AgLZEmR26u2pk
 shortcode: armndhldskrn
 img: icons/person.svg
-portrait: images/being/armndhldskrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/armndhldskrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jester
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 30
   birthday: 694/3/15
-  height:
-    m: 1.7
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.7
+  weight: 65
+  frame: light
   appearance:
     eye_color: green
     hair_color: red
     skin_color: fair
     complexion: freckled
     extra_features: []
-gear:
-  weapons:
-    - Jester’s staff (decorative)
-  armor:
-    - Colorful motley outfit
-  misc:
-    - Satchel for props
-    - Musical instruments
-    - juggling balls
-    - written jokes
 sohl:
   archetype: null
   body:
@@ -526,12 +521,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 68 } }
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

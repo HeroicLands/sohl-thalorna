@@ -4,6 +4,7 @@ aliases:
   - Rakhimea Khalithon
 tags:
   - draft
+  - soldiery
 name:
   full: Ràkhîmêa Khalîthôn
   title: ""
@@ -16,23 +17,27 @@ id: JvQhAw3Q8WB36Ud9
 folder: gpXd1anXulwRWZqn
 shortcode: rkhmkhlthn
 img: icons/person.svg
-portrait: images/being/rkhmkhlthn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rkhmkhlthn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - athenikos
   gender: female
+  species: null
   age: 27
   birthday: 695/6/5
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: medium
+  height: 1.85
+  weight: 79
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: chestnut
@@ -40,16 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a bear on the left arm
-gear:
-  weapons:
-    - Battle axe
-  armor:
-    - Chainmail
-  misc:
-    - Leather satchel for provisions
-    - Shield
-    - throwing knives
-    - grappling hook
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: athenikos
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -5,6 +5,7 @@ aliases:
   - Akakios Polytimos
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Akákios Polytimós
   title: ""
@@ -16,29 +17,26 @@ id: 4Ls4vyEaxtqnkRON
 folder: b81DHx3S7C9ep13E
 shortcode: akksplytms
 img: icons/person.svg
-portrait: images/being/akksplytms-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/akksplytms-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 26
   birthday: 694/6/30
-  height:
-    m: 1.88
-  weight:
-    kg: 88.9
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 88.9
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown

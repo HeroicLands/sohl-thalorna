@@ -2,23 +2,22 @@
 aliases:
   - Korsvik
 id: Vd3yPx6kKm2Sb8Ln
+tags:
+  - town
+  - fishing
+description: "Fishing Town"
 type: place
 subType: settlement
-settlementType: "Fishing Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 7000
 name:
   full: Korsvik
   aliases: []
 shortcode: korsvik
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -26,9 +25,9 @@ folder: WSdLuPc7BaRqxNEt
 
 ## Overview
 
-Korsvik is the last of [[doc-provincvld|Vald]]'s four principal fishing towns, perched on a rocky headland over deep water. Its crews fish the far grounds and, in season, hunt the great sea-beasts whose oil lights lamps across the province — a harder, more dangerous trade than the inshore netting of its sister-towns. Korsvik men have a name up and down the coast for being half-wild and wholly fearless, and its captains are as comfortable smuggling as fishing when the imperial customs press too hard.
+Korsvik is the last of [[affiliation-provincvld|Vald]]'s four principal fishing towns, perched on a rocky headland over deep water. Its crews fish the far grounds and, in season, hunt the great sea-beasts whose oil lights lamps across the province — a harder, more dangerous trade than the inshore netting of its sister-towns. Korsvik men have a name up and down the coast for being half-wild and wholly fearless, and its captains are as comfortable smuggling as fishing when the imperial customs press too hard.
 
 ## See Also
 
-- [[doc-provincvld|Province of Vald]] — Parent province
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provincvld|Province of Vald]] — Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview

@@ -3,23 +3,22 @@ aliases:
   - Velysâra
   - Velysara
 id: 2I43nt8D8FSmXEY4
+tags:
+  - city
+  - provincial
+description: "Provincial City"
 type: place
 subType: settlement
-settlementType: "Provincial City"
-population: 20000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 20000
 name:
   full: Velysâra
   aliases: []
 shortcode: velysara
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -35,7 +34,7 @@ The city's character is one of dignified endurance. Its citizens acknowledge, wi
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
 - [[skill-vylarilng|Vylari]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition
 - [[affiliation-panepistmm|Panepistemium]] — Scholarly institution

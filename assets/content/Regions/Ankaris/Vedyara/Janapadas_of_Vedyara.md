@@ -14,30 +14,93 @@ name:
     - The Temple-Republics of Vedyara
 id: V8KrM9dT3wPq2nXc
 shortcode: janpdsvdyr
-population: "~90,000,000"
 subType: polity
-demonym: Vedyari
-government:
-  type: confederation
-  summary: A loose confederation of several thousand small temple-republics (janapadas), each a federation of ten to fifteen villages organized around a central temple-complex and governed by its own sabhā (assembly). No central executive. Coordination occurs through the great pilgrimage festivals — most importantly the Mahā-Mela held every twelfth year at the holy confluence of the Chandramahī and the Sarvada — at which the senior priests and elders of each janapada confer on inter-republic matters, settle boundary and water disputes, ratify shared trade conventions, and reaffirm the shared Varṇaka tradition.
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Vedyari
+  epithet: null
+  symbol: null
+  governance:
+    model: confederation
+    summary: >-
+      The Mahā-Saṅgha convenes and does not govern: no legislature, no taxation, no executive
+      and no officers — only consensus among senior priests, enforced by the withdrawal of
+      inter-janapada goodwill.
+    ranks:
+      - level: 0
+        title: Outcaste
+        lore: excmmnctrnk
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        lore: bondservantrnk
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        lore: commonerrnk
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        lore: gentryrnk
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        lore: warriorrnk
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        lore: priestrnk
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        lore: greatlordrnk
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        lore: heirrnk
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        lore: sovereignrnk
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices: {}
+  commonSkills:
+    - vedyarlng
+  seat: null
+  domains:
     - vedyarargn
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  population: 90000000
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  lore:
+    - humanflk
+  parents: []
+  relations:
+    varakpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: "Medieval South Indian sabhā/ur temple-republics — Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Janapadas of Vedyara** are not a single polity in the western sense. They are the loose confederation — call it a **Mahā-Saṅgha**, the "Great Council" — of the several thousand small temple-republics that, alongside the great coastal city-states (Chandrapur, Vyālendra, Vindhyālaya, and the others), make up most of [[doc-vedyarargn|Vedyari]] political life. Each janapada is itself a federation: ten to fifteen villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The Janapadas of Vedyara are what you call the whole when you mean to speak of them as a class and not of any one in particular.
+The **Janapadas of Vedyara** are not a single polity in the western sense. They are the loose confederation — call it a **Mahā-Saṅgha**, the "Great Council" — of the several thousand small temple-republics that, alongside the great coastal city-states (Chandrapur, Vyālendra, Vindhyālaya, and the others), make up most of [[place-vedyarargn|Vedyari]] political life. Each janapada is itself a federation: ten to fifteen villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The Janapadas of Vedyara are what you call the whole when you mean to speak of them as a class and not of any one in particular.
 
-A traveling merchant from [[doc-provenzrgn|Provènzia Region]] who passes through Vedyara may meet a man who calls himself a citizen of the **Suvarnagiri Janapada** and another who calls himself a citizen of the **Dhanurkota Janapada** and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Saṅgha is the framework that allows the third designation to mean something even when the first two would be in dispute over a water-channel.
+A traveling merchant from [[place-provenzrgn|Provènzia Region]] who passes through Vedyara may meet a man who calls himself a citizen of the **Suvarnagiri Janapada** and another who calls himself a citizen of the **Dhanurkota Janapada** and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Saṅgha is the framework that allows the third designation to mean something even when the first two would be in dispute over a water-channel.
 
 ## What a Janapada Is
 
@@ -47,7 +110,7 @@ Janapadas vary enormously in size. The smallest may comprise eight or nine villa
 
 The janapada owns its land collectively through the temple. Individual cultivators hold rights of use that are inherited within their families but cannot be sold to outsiders without the sabhā's consent. The temple maintains the irrigation works, the boundary stones, the granary, the genealogical records, and the legal codes; the cultivators pay a tithe in produce and labor; the artisan and merchant castes within the janapada pay tithes in coin and goods. Disputes are adjudicated by the sabhā or, in particular cases, by the senior priest acting as mediator.
 
-This arrangement has proven remarkably durable. Janapadas come and go — temples burn, droughts depopulate villages, kingdoms briefly absorb and then release smaller polities — but the janapada _form_ has been continuous for nearly three thousand years, and the typical Vedyari village-cluster today is governed in essentially the same way that the typical Vedyari village-cluster was governed at the founding of the [[doc-vylarinmpr|Vylarian Empire]].
+This arrangement has proven remarkably durable. Janapadas come and go — temples burn, droughts depopulate villages, kingdoms briefly absorb and then release smaller polities — but the janapada _form_ has been continuous for nearly three thousand years, and the typical Vedyari village-cluster today is governed in essentially the same way that the typical Vedyari village-cluster was governed at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## The Mahā-Saṅgha
 
@@ -59,7 +122,7 @@ There is no Mahā-Mela executive. There are no Mahā-Mela officers. There is, in
 
 ## Relationship to the Great City-States
 
-The great city-state polities of Vedyara — [[doc-chandrapur|Chandrapur]], [[doc-vyalendra2|Vyālendra]], [[doc-vindhyalay|Vindhyālaya]], and the others — are not janapadas. They are independent city-states with their own internal governments (typically councils of merchant-princes plus temple patrons), their own foreign policies, their own armies, and their own seats at the Mahā-Mela. They are the senior political units of Vedyara, and they are larger and more powerful than any individual janapada.
+The great city-state polities of Vedyara — [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], and the others — are not janapadas. They are independent city-states with their own internal governments (typically councils of merchant-princes plus temple patrons), their own foreign policies, their own armies, and their own seats at the Mahā-Mela. They are the senior political units of Vedyara, and they are larger and more powerful than any individual janapada.
 
 But they coexist with the janapadas, and the janapadas outnumber them by hundreds to one. The relationship is generally cooperative: the city-states need the janapadas as their hinterlands, their grain suppliers, their pilgrimage networks, and their reservoirs of skilled artisan labor; the janapadas need the city-states as their markets, their trade gateways to the wider world, and their occasional military protectors. Conflict is rare, and when it occurs it is usually over a specific resource (water, mineral, particular fertile fields) rather than over status or sovereignty.
 
@@ -87,13 +150,13 @@ Geographically, janapadas are concentrated wherever sustainable village-cluster 
 
 ## Commerce and Currency
 
-Janapadas of Vedyara uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Janapadas of Vedyara uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-vedyarargn|Vedyara Region]] — parent region
+- [[place-vedyarargn|Vedyara Region]] — parent region
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition that holds the janapadas together
-- [[doc-chandrapur|Chandrapur]], [[doc-vyalendra2|Vyālendra]], [[doc-vindhyalay|Vindhyālaya]] — the great city-states
-- [[doc-dhnrktjnpd|Dhanurkota Janapada]], [[doc-rajaprjnpd|Rajapur Janapada]], [[doc-suvrgrjnpd|Suvarnagiri Janapada]] — three particular janapadas
+- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]] — the great city-states
+- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rajapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] — three particular janapadas
 - [[skill-vedyarlng|Vedyari]] — the shared language
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

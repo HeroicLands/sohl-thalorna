@@ -2,23 +2,21 @@
 aliases:
   - Zaristan
 id: ImatvlvxdQxFOio9
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - amradadrgn
+  population: null
 name:
   full: Zaristan
   aliases: []
 shortcode: zaristan
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

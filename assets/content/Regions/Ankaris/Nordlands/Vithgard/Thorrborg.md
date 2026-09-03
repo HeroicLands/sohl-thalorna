@@ -2,23 +2,22 @@
 aliases:
   - Thorrborg
 id: lLZtjVvo1K6TGm1A
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
-settlementType: "Fortified Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Thorrborg
   aliases: []
 shortcode: thorrborg
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

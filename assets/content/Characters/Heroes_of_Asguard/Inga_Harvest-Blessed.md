@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - clergy
 name:
   full: Inga Harvest-Blessed
   title: null
@@ -16,23 +17,27 @@ id: GhSo3e8vrKA459Us
 folder: Ka9XqaF27b0I3Gmq
 shortcode: inghrvstblsd
 img: icons/person.svg
-portrait: images/being/inghrvstblsd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/inghrvstblsd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 36
   birthday: 684/2/17
-  height:
-    m: 1.64
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.64
+  weight: 64
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: brown
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

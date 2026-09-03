@@ -1,4 +1,5 @@
 ---
+description: "Dreams."
 aliases:
   - Svapnasāri-samāja
   - Svapnasari Samaja
@@ -19,31 +20,110 @@ name:
 shortcode: svapnasarisamaja
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Assembly of the Dream-Followers
+  symbol: A crescent moon cradling a closed eye
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - svapnadevasdty
+  parents:
+    - varakpnthn
+  relations:
     varakpnthn: aligned
+sohl:
   archetype: null
-deity: Svapnadēvas
-epithet: The Assembly of the Dream-Followers
-domain: Dreams
-symbol: A crescent moon cradling a closed eye
-pantheon: varakpnthn
 folder: dxzsTyaF4LMapIJX
 ---
 
 # Svapnasāri-samāja — The Assembly of the Dream-Followers
 
 - **Tradition:** Svapnasāri-samāja — _The Assembly of the Dream-Followers_
-- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[doc-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honoured as a companion presence, since the dead and the dream share the threshold
+- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honoured as a companion presence, since the dead and the dream share the threshold
 - **Emphasis:** Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Svapnasāri-samāja** is a small, respected mystical sect centred on the [[affiliation-svapnadevas|Svapnadēvas]] — the Dreaming Host. Through the Host, the sect holds, the dream-power of [[doc-goddreams|The God of Dreams]] reaches the world, though the greater deity is never named directly in the sect's rites. The sect's members are the oneiromancers, the keepers of the dream-registers, and the counsellors to whom Vedyaran rulers, generals, and merchants turn when a question has passed beyond the reach of ordinary deliberation.
+The **Svapnasāri-samāja** is a small, respected mystical sect centred on the [[affiliation-svapnadevas|Svapnadēvas]] — the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, though the greater deity is never named directly in the sect's rites. The sect's members are the oneiromancers, the keepers of the dream-registers, and the counsellors to whom Vedyaran rulers, generals, and merchants turn when a question has passed beyond the reach of ordinary deliberation.
 
 The Samāja's temples are often set at a remove from the bustle of civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. Its priests keep their own hours and often their own silence, and their institutional presence is small compared to the Trimūrti-sampradāya. But the weight of their counsel is considerable, and few Vedyaran courts are without at least one Dream-reader whose provenance traces back to a Samāja monastery.
 
@@ -86,4 +166,4 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 ## Geographic Presence
 
-Established Samāja monasteries are found in the uplands north of [[doc-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries are found in the uplands north of [[place-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.

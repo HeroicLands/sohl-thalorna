@@ -4,6 +4,7 @@ aliases:
   - Gorazendis Bares
 tags:
   - draft
+  - tradesfolk
 name:
   full: Gorâzendîs Bârês
   title: ""
@@ -16,23 +17,27 @@ id: SXNZ5kUCcAxRUpCN
 folder: UFBfgKZUF0bAE7gG
 shortcode: gorzndsbrs
 img: icons/person.svg
-portrait: images/being/gorzndsbrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/gorzndsbrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 27
   birthday: 697/10/2
-  height:
-    m: 1.78
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.78
+  weight: 67
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a scar across the cheek
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Dark clothing
-  misc:
-    - Satchel for tools
-    - Lockpicking tools
-    - sketches of lock designs
-    - hidden compartments
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

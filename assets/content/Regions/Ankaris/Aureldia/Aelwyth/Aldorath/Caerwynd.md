@@ -2,23 +2,22 @@
 aliases:
   - Caerwynd
 id: qzNN35eMt6RmKQPK
+tags:
+  - town
+  - market
+description: "Market Town"
 type: place
 subType: settlement
-settlementType: "Market Town"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aldorathrgn
+  population: null
 name:
   full: Caerwynd
   aliases: []
 shortcode: caerwynd
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

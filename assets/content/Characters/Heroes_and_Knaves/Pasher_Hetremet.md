@@ -4,6 +4,7 @@ aliases:
   - Pasher Hetremet
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Pasher Het'remet
   title: ""
@@ -16,29 +17,26 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
 img: icons/person.svg
-portrait: images/being/pashrhtrmt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/pashrhtrmt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Lyre)
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/2/8
-  height:
-    m: 1.85
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.85
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -555,7 +553,7 @@ sohl:
     - { shortcode: bglgcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -565,7 +563,7 @@ Pasher stands 6'1" tall with a medium build. He has ebony weathered skin, very d
 
 **Early Years**
 
-Pasher was born in the merchant quarter of Wasetkara, the capital of [[doc-empirtkhpr|Ta'Kheperu]], to a family of modest means. His mother, Senet, was a healer of some renown, while his father, Het'rem, worked as a scribe in the Temple of Sét. From childhood, Pasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named Ahliya, who sponsored his first real performances in the halls of nobility.
+Pasher was born in the merchant quarter of Wasetkara, the capital of [[affiliation-empirtkhpr|Ta'Kheperu]], to a family of modest means. His mother, Senet, was a healer of some renown, while his father, Het'rem, worked as a scribe in the Temple of Sét. From childhood, Pasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named Ahliya, who sponsored his first real performances in the halls of nobility.
 
 **The Scar and Its Meaning**
 

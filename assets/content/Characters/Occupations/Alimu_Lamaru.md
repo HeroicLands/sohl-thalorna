@@ -4,6 +4,8 @@ aliases:
   - Alimu Lamaru
 tags:
   - draft
+  - guilded
+  - administration
 name:
   full: Alîmû Lâmarû
   title: ""
@@ -16,38 +18,33 @@ id: aMuFbh7x41Ztpdp4
 folder: PuQFDMkRM9i60i5Z
 shortcode: alimulamar
 img: icons/person.svg
-portrait: images/being/alimulamar-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alimulamar-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 53
   birthday: 667/4/16
-  height:
-    m: 1.63
-  weight:
-    kg: 56
-  build:
-    frame: medium
+  height: 1.63
+  weight: 56
+  frame: medium
   appearance:
     eye_color: black
     hair_color: brown
     skin_color: olive
     complexion: smooth
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Formal robes
-  misc:
-    - Leather satchel
-    - Ledger
-    - writing quills
-    - sealing wax
 sohl:
   archetype: null
   body:
@@ -530,12 +527,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 10 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

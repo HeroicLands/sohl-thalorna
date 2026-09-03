@@ -4,6 +4,7 @@ aliases:
   - Sahira Tabires
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sahîra Tâbîrês
   title: ""
@@ -16,39 +17,33 @@ id: d1J5GmKIjku2HChR
 folder: gpXd1anXulwRWZqn
 shortcode: sahiratbrs
 img: icons/person.svg
-portrait: images/being/sahiratbrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sahiratbrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: noble
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
+  homes:
+    - helionis
+  affiliations:
+    - pelagora
   gender: female
+  species: null
   age: 29
   birthday: 695/4/11
-  height:
-    m: 1.8
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.8
+  weight: 68
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Elegant clothing suitable for her work
-  misc:
-    - Leather satchel for supplies
-    - Quills
-    - ink
-    - parchment
-    - sealing wax
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
-thalorna:
-  realm: pelagora
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

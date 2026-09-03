@@ -4,6 +4,7 @@ aliases:
   - Thordis Drottgar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thórdís Dróttgar
   title: ""
@@ -16,23 +17,27 @@ id: UpkDyr7OSJoRu1XX
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrdsdrtgr
 img: icons/person.svg
-portrait: images/being/thrdsdrtgr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrdsdrtgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 34
   birthday: 686/5/21
-  height:
-    m: 1.7
-  weight:
-    kg: 61
-  build:
-    frame: light
+  height: 1.7
+  weight: 61
+  frame: light
   appearance:
     eye_color: gray
     hair_color: blonde
@@ -40,15 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the left arm
-gear:
-  weapons: []
-  armor:
-    - Woolen shawl
-  misc:
-    - Woven basket for herbs
-    - Herbal pouch
-    - wooden pestle
-    - herbal field guide
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 22 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

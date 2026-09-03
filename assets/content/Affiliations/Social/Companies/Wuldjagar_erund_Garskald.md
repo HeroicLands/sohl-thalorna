@@ -7,7 +7,77 @@ tags:
   - vrystwald
 description: "Vrystwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."
 type: affiliation
-subType: venture
+subType: order
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A clan's sworn hunting company under a huntmaster who answers to the chief, bound by
+      tradition rather than by contract.
+    ranks:
+      - level: 0
+        title: Foresworn
+        lore: expelledrnk
+        description: >-
+          Broken from the company for breaking its discipline; the clan feeds them and the forest
+          does not open to them again.
+      - level: 1
+        title: Clan-Kin
+        lore: dependentrnk
+        description: Of the Gárskald, fed by the Wuldjagâr and no part of it.
+      - level: 2
+        title: Follower
+        lore: dependentrnk
+        description: Carrying, skinning and hauling on the hunt, and learning the ways by walking
+          them.
+      - level: 3
+        title: Sworn Hunter
+        lore: swornmemberrnk
+        description: Bound to the company's discipline and trusted with a spear at the kill.
+      - level: 4
+        title: Proven Hunter
+        lore: warriorrnk
+        description: Having taken great game, and consulted before the company commits to a
+          season.
+      - level: 5
+        title: Track-Leader
+        lore: officerrnk
+        description: Leading a party on its own line, and answerable for bringing it back.
+      - level: 6
+        title: Huntmaster
+        lore: commanderrnk
+        description: >-
+          Leader of the Wuldjagâr, answering directly to the clan chief. A Varokh hunting company
+          is not a democracy.
+    offices:
+      Huntmaster: >-
+        Leader of the company, holding it by example and unquestioned authority, and answering
+        to the clan chief.
+      Track-Leader: Commander of a party working its own line, and answerable for every hunter
+        on it.
+      Healer: Keeper of the company's wounded and reader of what ails the herds it lives on.
+      Spear-Bearer: >-
+        Holder of the killing spear at the stand, a charge given to the steadiest rather than
+        the strongest.
+      Skinner: >-
+        Master of what is taken — the hide, the meat, the division of both between hunters
+        and clan.
+      Dog-Keeper: Warden of the hounds, without which the great game is not brought to bay.
+      Scout: Sent ahead into ground the company does not know, and gone for days at a time.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
 folder: bVhz4i3fwwT0NDSW
 id: dYyYG1Auv2axyCZQ
 name:

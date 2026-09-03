@@ -3,23 +3,22 @@ aliases:
   - Drekavík
   - Drekavik
 id: dFMvJ2wRf3xqTdLU
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
-settlementType: "Coastal Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Drekavík
   aliases: []
 shortcode: drekavik
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 

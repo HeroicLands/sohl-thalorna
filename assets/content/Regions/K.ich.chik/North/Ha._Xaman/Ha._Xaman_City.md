@@ -2,25 +2,25 @@
 aliases:
   - Ha' Xaman
 id: n24XoHaQViCi0IYu
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrthrnkchchk
+  population: null
 name:
   full: Ha' Xaman
   aliases: []
 shortcode: haxaman2
-parent:
-  polities:
-    - haxaman
 ---
 
 # Ha' Xaman
 
 ## Overview
 
-_To be written._ Ha' Xaman is the central city and seat of the [[doc-haxaman|Ha' Xaman]] city-state.
+_To be written._ Ha' Xaman is the central city and seat of the [[affiliation-haxaman|Ha' Xaman]] city-state.

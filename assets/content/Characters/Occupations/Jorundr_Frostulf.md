@@ -4,6 +4,7 @@ aliases:
   - Jorundr Frostulf
 tags:
   - draft
+  - soldiery
 name:
   full: Jǫrundr Frostulf
   title: ""
@@ -16,23 +17,27 @@ id: T3gCkSt5bcuYdswx
 folder: Ka9XqaF27b0I3Gmq
 shortcode: jrndrfrstlf
 img: icons/person.svg
-portrait: images/being/jrndrfrstlf-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jrndrfrstlf-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gaoler
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 51
   birthday: 669/4/3
-  height:
-    m: 1.83
-  weight:
-    kg: 78
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 78
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: white
@@ -40,16 +45,6 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the left ear
-gear:
-  weapons:
-    - Heavy baton
-  armor:
-    - Chainmail vest
-  misc:
-    - Iron key ring
-    - Shackles
-    - guard whistle
-    - logbook
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

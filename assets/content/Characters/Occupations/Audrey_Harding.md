@@ -4,6 +4,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Audrey Harding
   title: ""
@@ -16,38 +17,33 @@ id: EHyu9lD6IvIwRX3U
 folder: elH5NDPUuiRCICrE
 shortcode: audryhrdng
 img: icons/person.svg
-portrait: images/being/audryhrdng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/audryhrdng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 35
   birthday: 689/1/18
-  height:
-    m: 1.68
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.68
+  weight: 64
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: chestnut
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Stylish but seductive attire suitable for meetings
-  misc:
-    - Leather portfolio for documents
-    - Trade agreements
-    - ledgers
-    - business tools
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 17 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 34 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

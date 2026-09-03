@@ -14,12 +14,85 @@ name:
 shortcode: aerarimmpr
 type: affiliation
 subType: governmental
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A bureau holding delegated authority from the polity that constituted it, and accountable
+      to it.
+    ranks:
+      - level: 0
+        title: Dismissed in Disgrace
+        lore: expelledrnk
+        description: >-
+          Put out of the service with the record endorsed, which closes every other office to
+          them for life.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept about the offices for their labour, and not of the service.
+      - level: 2
+        title: Clerk
+        lore: clerkrnk
+        description: Copying, filing and reckoning under supervision, and the entry to every
+          career here.
+      - level: 3
+        title: Officer
+        lore: officerrnk
+        description: Holding a charge of the body in their own name and answerable for it.
+      - level: 4
+        title: Senior Officer
+        lore: officerrnk
+        description: Holding a charge of consequence, and supervising officers holding lesser
+          ones.
+      - level: 5
+        title: Deputy
+        lore: officerrnk
+        description: Standing for the head of the office and empowered to act in it.
+      - level: 6
+        title: Head of Office
+        lore: magistraternk
+        description: Directing a bureau of the body, its staff and its portion of the revenue.
+      - level: 7
+        title: Councillor
+        lore: councillorrnk
+        description: >-
+          Of the body that decides the office's policy and answers for it to the power that
+          constituted it.
+      - level: 8
+        title: Minister
+        lore: grandmasterrnk
+        description: >-
+          Head of the body, holding its authority from the polity and accountable to it for
+          every use of it.
+    offices:
+      Minister: Head of the body, holding its authority from the polity that constituted it.
+      Councillor: Member of the deciding body, answerable with it for what it decides.
+      Deputy: Standing for the head and empowered to act in the office.
+      Head of Office: Director of a bureau, its staff and its share of the revenue.
+      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
+      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
+      Inspector: Sent to see whether what is reported is what is happening.
+      Recorder: Keeper of the register the body's authority is exercised through.
+      Bailiff: Server of the body's process and executor of its distraints.
+      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-magnumclgm
+    - lore-vylrncrncy
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -29,22 +102,22 @@ folder:
 _Vylarian: Aerarium Imperii — "the Imperial Treasury"_
 
 - **Type:** Imperial state institution; central bank and imperial treasury
-- **Region of direct presence:** [[doc-vylarinmpr|Vylaria]] proper and [[doc-helionis|Heliónis]] — the territories where imperial governance currently runs
-- **Region of indirect presence:** All territories where the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] operates, including the [[doc-aureldirgn|Aurèldían kingdoms]] and [[doc-byzariargn|Byzaría]] — banking functions there are handled by Argentariorum chapterhouses and their member moneylenders, with the Aerarium standing behind them as the ultimate backing
-- **Seat:** The Aerarium's strongroom and clearing house within the **Officia Imperii**, the bureaucratic compound of the Inner City of [[doc-magnapolis|Magnápolis]]
+- **Region of direct presence:** [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]] — the territories where imperial governance currently runs
+- **Region of indirect presence:** All territories where the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] operates, including the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] — banking functions there are handled by Argentariorum chapterhouses and their member moneylenders, with the Aerarium standing behind them as the ultimate backing
+- **Seat:** The Aerarium's strongroom and clearing house within the **Officia Imperii**, the bureaucratic compound of the Inner City of [[place-magnapolis|Magnápolis]]
 - **Founded:** By edict of the founding Augustar at the establishment of the empire; the institution has operated continuously since
 
 ## Overview
 
 The Aerarium Imperii is the empire's treasury and, since the consolidation of the script system three centuries ago, its central bank. It holds the empire's bullion reserves, receives the imperial tax revenue that the [[affiliation-curiafscls|The Curia Fiscalis]] collects through its Publicarii, disburses imperial expenditure on the joint authorization of the Augustar and the Dux Bellorum, and operates the central-bank functions on which most large-value commerce in member territory depends. The Quaestor Imperii — its chief officer — is widely regarded as second in power only to the Dux Bellorum among non-noble imperial appointments.
 
-The Aerarium's reach is wider than its formal authority. Its direct offices operate only in Vylaria proper and Heliónis — the two territories where imperial governance currently runs — but the banking system it anchors extends across the entire post-imperial commonwealth: the [[doc-aureldirgn|Aurèldían kingdoms]], [[doc-byzariargn|Byzaría]], and (until twelve years ago) [[doc-haradregin|Harad]]. Outside the empire, the visible institution is the **[[affiliation-clgmrgntrrm|The Collegium Argentariorum]]** — the moneylenders' guild chartered under the [[affiliation-magnumclgm|The Magnum Collegium]] — whose chapterhouses and member moneylenders handle the note traffic, hold the local reserves, and present the public face of the system. The Aerarium itself does not visit these territories. Everyone knows the Argentariorum's chapter reserves are part of the Aerarium-backed pool; nobody publicly says so.
+The Aerarium's reach is wider than its formal authority. Its direct offices operate only in Vylaria proper and Heliónis — the two territories where imperial governance currently runs — but the banking system it anchors extends across the entire post-imperial commonwealth: the [[place-aureldirgn|Aurèldían kingdoms]], [[place-byzariargn|Byzaría]], and (until twelve years ago) [[place-haradregin|Harad]]. Outside the empire, the visible institution is the **[[affiliation-clgmrgntrrm|The Collegium Argentariorum]]** — the moneylenders' guild chartered under the [[affiliation-magnumclgm|The Magnum Collegium]] — whose chapterhouses and member moneylenders handle the note traffic, hold the local reserves, and present the public face of the system. The Aerarium itself does not visit these territories. Everyone knows the Argentariorum's chapter reserves are part of the Aerarium-backed pool; nobody publicly says so.
 
 This polite fiction is one of the most consequential pieces of imperial diplomacy. The Aerarium gets its 2% note-issuance fee from every note generated in the Argentariorum system, regardless of where the originating moneylender holds his chapter — which means the imperial treasury draws a substantial revenue stream from territories the empire no longer governs. The Aurèldían crowns and the Byzarian League know this and tolerate it because the cost of withdrawing from the banking system would be ruinous to their commercial life. The fiction holds because both sides have powerful reasons not to disturb it.
 
 ## The Three Tiers of Paper
 
-The Vylarian currency anchors at the **Aurion** (gold), circulates in the **Argentus** (Argo, silver, 160 per Aurion), and pays small transactions in the **Octus** (Bit, 1/8 of an Argo, 1,280 per Aurion). Physical Aurion coin is rare — perhaps 200,000 in existence empire-wide — and large-value commerce moves not in coin but in paper, in three distinct forms. (For the full coinage system, geographic acceptance, sample prices, and wage scale, see the canonical [[doc-vylrncrncy|Vylarian Currency]] reference.)
+The Vylarian currency anchors at the **Aurion** (gold), circulates in the **Argentus** (Argo, silver, 160 per Aurion), and pays small transactions in the **Octus** (Bit, 1/8 of an Argo, 1,280 per Aurion). Physical Aurion coin is rare — perhaps 200,000 in existence empire-wide — and large-value commerce moves not in coin but in paper, in three distinct forms. (For the full coinage system, geographic acceptance, sample prices, and wage scale, see the canonical [[lore-vylrncrncy|Vylarian Currency]] reference.)
 
 | Paper                | Issued By                                     | Backed By                                                                          | Honored Where                                                                        | Typical Use                                                                             |
 | -------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |

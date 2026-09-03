@@ -3,7 +3,7 @@ aliases:
   - Calendar and Astrology
 id: PLoeMYg2nCbgYuDi
 type: lore
-subType: folk
+subType: calendar
 name:
   full: Calendar and Astrology
   aliases: []
@@ -13,7 +13,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Tānvür Calendar and Astrology
 
-Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
+Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
 In the Empire of Tānvür, time is not merely measured — it is **administered**. The calendar is a classification system applied to duration, and its proper maintenance is as essential to cosmic order as the classification of elements or castes. The empire uses two complementary systems: the **Dynasty-based Year Naming** for secular and administrative purposes, and the **Celestial Calendar**, which tracks the cosmic cycles of Lëi and determines the empire's ritual obligations.
 
@@ -58,7 +58,7 @@ For secular and administrative purposes, the years are named according to the ru
 - **Format**: "Year X of the [Emperor's Name] Emperor of the [Dynasty Name] Dynasty"
 - **Example**: **"Year 5 of the Zhüklüng Emperor of the Tānlüng Dynasty"** (Tānlüng Zhüklüng Vürt Nëir)
 
-**Era-Based:** Each emperor's reign constitutes a separate administrative era. When a new emperor receives the [[doc-mandatehvn|Mandate of Heaven]], a new era begins and the year count resets. Old-era documents remain valid but must be cross-referenced to the new era's filing system — a task that employs entire bureaus of scholars during every succession.
+**Era-Based:** Each emperor's reign constitutes a separate administrative era. When a new emperor receives the [[lore-mandatehvn|Mandate of Heaven]], a new era begins and the year count resets. Old-era documents remain valid but must be cross-referenced to the new era's filing system — a task that employs entire bureaus of scholars during every succession.
 
 ---
 
@@ -154,7 +154,7 @@ Celebrated during Yütjëit in late autumn, when the Minister of the Moon's juri
 
 ### Festival of the Dead (Sīklëi Jëit)
 
-The most elaborate and expensive festival in the calendar, held during Zhürtyüt in mid-winter. This is the **annual settlement with the ancestor spirits** — the time when families burn massive quantities of spirit money and goods to provision their ancestors for the coming year, review the ancestral ledgers, and receive commands from the dead through the Lëigürt. See [[doc-ancstrwrshp|Ancestor Worship]] for the full implications of this festival, including its role in reinforcing the spiritual aristocracy.
+The most elaborate and expensive festival in the calendar, held during Zhürtyüt in mid-winter. This is the **annual settlement with the ancestor spirits** — the time when families burn massive quantities of spirit money and goods to provision their ancestors for the coming year, review the ancestral ledgers, and receive commands from the dead through the Lëigürt. See [[lore-ancstrwrshp|Ancestor Worship]] for the full implications of this festival, including its role in reinforcing the spiritual aristocracy.
 
 ### New Year Purification (Shëit Nëir Vōr)
 
@@ -164,8 +164,8 @@ The final administrative event of the year, held during Thürtyüt. Every househ
 
 ## See Also
 
-- [[doc-celestlrdr|Celestial Order]] — The cosmological and administrative framework that the calendar serves
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy underlying the elemental month system
-- [[doc-numerology|Numerology]] — The significance of numbers in Tānvür's classification theory
-- [[doc-ancstrwrshp|Ancestor Worship]] — The spiritual economy that the Festival of the Dead services
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose administration the calendar structures
+- [[lore-celestlrdr|Celestial Order]] — The cosmological and administrative framework that the calendar serves
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy underlying the elemental month system
+- [[lore-numerology|Numerology]] — The significance of numbers in Tānvür's classification theory
+- [[lore-ancstrwrshp|Ancestor Worship]] — The spiritual economy that the Festival of the Dead services
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose administration the calendar structures

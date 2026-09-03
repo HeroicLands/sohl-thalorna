@@ -2,25 +2,26 @@
 aliases:
   - Valthari
 id: USGSRbE2bkZDbV2o
+tags:
+  - city
+  - free
+description: "Free City"
 type: place
 subType: settlement
-settlementType: "Free City"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Valthari
   aliases: []
 shortcode: valthari
-parent:
-  polities:
-    - frctyvlthr
 ---
 
 # Valthari
 
 ## Overview
 
-_To be written._ Valthari is the capital and principal settlement of [[doc-frctyvlthr|Free City of Valthári]].
+_To be written._ Valthari is the capital and principal settlement of [[affiliation-frctyvlthr|Free City of Valthári]].

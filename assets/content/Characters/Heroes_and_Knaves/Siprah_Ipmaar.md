@@ -5,6 +5,8 @@ aliases:
   - Siprah Ipmaar
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Sip'rah Ip'maâr
   title: ""
@@ -17,34 +19,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
 img: icons/person.svg
-portrait: images/being/siprahipmr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/siprahipmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 40
   birthday: 680/4/14
-  height:
-    m: 1.73
-  weight:
-    kg: 67.6
-  build:
-    frame: medium
+  height: 1.73
+  weight: 67.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
 sohl:
@@ -561,7 +560,7 @@ sohl:
     - { shortcode: bgsmcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -569,7 +568,7 @@ Sip'rah stands 5'8" tall with a medium build. He has dark skin, deep black hair,
 
 # Dossier {#dossier}
 
-Siprah was born into the Ipmaâr family, a minor merchant household of [[doc-empirtkhpr|Ta'Kheperu]] with no particular distinction or wealth. His father, **Paher Ipmaâr**, was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was **Paher** who first introduced young Siprah to locks and security, teaching him that these mechanisms were not merely barriers but conversations between those who would protect and those who would steal.
+Siprah was born into the Ipmaâr family, a minor merchant household of [[affiliation-empirtkhpr|Ta'Kheperu]] with no particular distinction or wealth. His father, **Paher Ipmaâr**, was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was **Paher** who first introduced young Siprah to locks and security, teaching him that these mechanisms were not merely barriers but conversations between those who would protect and those who would steal.
 
 Apprenticed at thirteen to **Master Sokhoth**, then the Empire's foremost locksmith, Siprah spent twelve years in intensive study of his craft. Sokhoth was an exacting teacher whose patience was legendary but whose standards were impossibly high. Under his tutelage, Siprah learned that locks were not simple mechanical devices but expressions of philosophy—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When **Sokhoth** retired at Siprah's twenty-fifth year, he personally recommended Siprah as his successor to the guild, an honor rarely granted.
 

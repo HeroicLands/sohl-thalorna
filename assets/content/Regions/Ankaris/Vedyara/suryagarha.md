@@ -2,25 +2,26 @@
 aliases:
   - Sūryāgarha
 id: guzzmrqqtagCbdW4
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
-settlementType: "Fortress City"
-population: null
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vedyarargn
+  population: null
 name:
   full: Sūryāgarha
   aliases: []
 shortcode: suryagarha
-parent:
-  polities:
-    - vindhyalay
 ---
 
 # Sūryāgarha
 
 ## Overview
 
-_To be written._ Sūryāgarha is the capital and principal settlement of [[doc-vindhyalay|Vindhyālaya]].
+_To be written._ Sūryāgarha is the capital and principal settlement of [[affiliation-vindhyalay|Vindhyālaya]].

@@ -4,6 +4,7 @@ aliases:
   - Saferus Gholaris
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sáfêrús Ghôlâris
   title: ""
@@ -16,23 +17,27 @@ id: TtNZPHaQ0Jt7Qg84
 folder: gpXd1anXulwRWZqn
 shortcode: safrsghlrs
 img: icons/person.svg
-portrait: images/being/safrsghlrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/safrsghlrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: noble
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
+  homes:
+    - helionis
+  affiliations:
+    - pelagora
   gender: male
+  species: null
   age: 52
   birthday: 668/4/9
-  height:
-    m: 1.75
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.75
+  weight: 68
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: graying_brown
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the abdomen
-gear:
-  weapons: []
-  armor:
-    - Padded cloak
-  misc:
-    - Velvet-lined garment bag
-    - High-quality fabrics
-    - fine needles
-    - gold thread
-    - fashion sketchbook
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: pelagora
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

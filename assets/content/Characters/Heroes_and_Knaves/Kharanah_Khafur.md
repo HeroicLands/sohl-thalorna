@@ -5,6 +5,8 @@ aliases:
   - Kharanah Khafur
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Khârânah Khafûr
   title: ""
@@ -16,34 +18,31 @@ id: fVcWZBuAv0d4Q10o
 folder: heI5Ky6Kqmb61L6c
 shortcode: kharnhkhfr
 img: icons/person.svg
-portrait: images/being/kharnhkhfr-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/kharnhkhfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: female
+  species: null
   age: 28
   birthday: 692/10/21
-  height:
-    m: 1.78
-  weight:
-    kg: 68.9
-  build:
-    frame: medium
+  height: 1.78
+  weight: 68.9
+  frame: medium
   appearance:
     eye_color: green
     hair_color: black
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

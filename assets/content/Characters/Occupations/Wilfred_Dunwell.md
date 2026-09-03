@@ -3,6 +3,7 @@ aliases:
   - Wilfred Dunwell
 tags:
   - draft
+  - common-folk
 name:
   full: Wilfred Dunwell
   title: ""
@@ -15,39 +16,33 @@ id: wYYpLublqdiVAHhV
 folder: elH5NDPUuiRCICrE
 shortcode: wilfrednwl
 img: icons/person.svg
-portrait: images/being/wilfrednwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wilfrednwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 45
   birthday: 675/3/22
-  height:
-    m: 1.85
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: brown
     skin_color: fair
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Heavy staff
-  armor:
-    - Sturdy leather gear
-  misc:
-    - Large leather bag for supplies
-    - Rope for herding
-    - basic first-aid kit
-    - animal feed
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Émmanîôs Bàremzâtôr
   title: ""
@@ -17,38 +18,33 @@ id: s9Tfw7CPqVEnm0Ir
 folder: UFBfgKZUF0bAE7gG
 shortcode: emnsbrmztr
 img: icons/person.svg
-portrait: images/being/emnsbrmztr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/emnsbrmztr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 38
   birthday: 686/6/15
-  height:
-    m: 1.73
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.73
+  weight: 71
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
     skin_color: light
     complexion: tanned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple robes adorned with symbols of Flórania
-  misc:
-    - Leather pouch for offerings
-    - Herbal remedies
-    - farming tools
-    - sacred texts
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

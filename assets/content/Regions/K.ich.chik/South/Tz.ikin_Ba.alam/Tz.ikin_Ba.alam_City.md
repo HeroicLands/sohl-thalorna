@@ -2,25 +2,25 @@
 aliases:
   - Tz'ikin Ba'alam
 id: 81GNYrgkAYEus3dq
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - sthrnkchchk
+  population: null
 name:
   full: Tz'ikin Ba'alam
   aliases: []
 shortcode: tzikinbalm2
-parent:
-  polities:
-    - tzikinbalm
 ---
 
 # Tz'ikin Ba'alam
 
 ## Overview
 
-_To be written._ Tz'ikin Ba'alam is the central city and seat of the [[doc-tzikinbalm|Tz'ikin Ba'alam]] city-state.
+_To be written._ Tz'ikin Ba'alam is the central city and seat of the [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] city-state.

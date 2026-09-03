@@ -3,23 +3,21 @@ aliases:
   - Hávamál
   - Havamal
 id: rej65SfOdHxrfzld
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Hávamál
   aliases: []
 shortcode: havamal
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

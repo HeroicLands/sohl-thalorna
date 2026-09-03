@@ -5,7 +5,6 @@ aliases:
   - Khazryn
 tags:
   - region
-title: ""
 description: Vast central-Ankaris steppe-desert — a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
 name:
   full: Khazryn Desert Region
@@ -15,37 +14,34 @@ shortcode: khzryndsrtrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
-demonym: Khazryn
-parent:
-  continents:
+data:
+  demonym: Khazryn
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-languages:
-  - dunharlng
+  population: null
+terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 folder: PbQ9B1r6hEaJvyco
 ---
 
-The Khazryn Desert is the great central wasteland of [[doc-ankrscntnnt|Ankaris Continent]] — an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[doc-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[doc-vedyarargn|Vedyara]] and [[doc-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.
+The Khazryn Desert is the great central wasteland of [[place-ankrscntnnt|Ankaris Continent]] — an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[place-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.
 
 The desert is not empty. Nomadic confederations, oasis settlements, and the long-running Celestial Road trade system have made the Khazryn one of the most economically consequential regions on the continent, despite holding only a fraction of the population of any of its neighbors. To cross the Khazryn successfully is to reach the other half of the known world; to control any significant oasis on the route is to be wealthy beyond the imagination of any settled peasant.
 
 ## Geography
 
-The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[doc-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the western passes that descend into [[doc-vedyarargn|Vedyara]] and [[doc-tanvuregin|Tānvür]]. North to south, it stretches from the Siberian-analog taiga that borders [[doc-grkrhlmrgn|Grukarhölm]] down to the southern oasis-belt where it shades into the [[doc-dunharargn|Dunhara]].
+The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the western passes that descend into [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]]. North to south, it stretches from the Siberian-analog taiga that borders [[place-grkrhlmrgn|Grukarhölm]] down to the southern oasis-belt where it shades into the [[place-dunharargn|Dunhara]].
 
 The region's vastness produces extraordinary internal variation. Five distinct zones can be distinguished:
 
-The **northern taiga** — vast cold-temperate boreal forest that runs along the Khazryn's far northern margin against the southern fringe of [[doc-grkrhlmrgn|Grukarhölm]]. Sparsely populated by hunter-fisher-trapper peoples whose lifeways are closer to the Nordmal than to anything in the southern Khazryn. The taiga's furs (sable, ermine, marten) are valuable trade goods that flow south through Khazryn merchants to the cities of Mídhalión.
+The **northern taiga** — vast cold-temperate boreal forest that runs along the Khazryn's far northern margin against the southern fringe of [[place-grkrhlmrgn|Grukarhölm]]. Sparsely populated by hunter-fisher-trapper peoples whose lifeways are closer to the Nordmal than to anything in the southern Khazryn. The taiga's furs (sable, ermine, marten) are valuable trade goods that flow south through Khazryn merchants to the cities of Mídhalión.
 
 The **northern and central steppes** — the great open grasslands that dominate the region by area: cold-winter, hot-summer, treeless or thinly-treed plains supporting enormous seasonal herds of horses, sheep, and cattle. This is the country of the great horse-nomad confederations whose mounted warriors have been the terror of every settled neighbor for as long as records have been kept. Their khanates rise and fall on roughly the same generational cycles as the desert sand-seas advance and retreat.
 
 The **central desert** — the truly arid heart of the Khazryn, a complex of great sand seas and stone-and-gravel reaches interrupted by rocky mesas, occasional dry riverbeds, and the scattered oases that make long-distance travel possible at all. The great caravan routes — what the merchants call the **Celestial Road** — are essentially chains of oases, each a waypoint worth killing and dying for.
 
-The **southwestern oasis-belt** — the irrigated corner of the Khazryn, a string of well-watered lowland cities and agricultural districts along the southern margin where Khazryn meets [[doc-dunharargn|Dunhara]]. This is the country of the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]], whose civilizational density is utterly unlike anything elsewhere in the Khazryn. The southwestern oasis-belt has urban populations in the hundreds of thousands, written archives going back two thousand years, an established temple-priesthood, and trade-and-political relations with [[doc-sultntmrdd|Amradad]] and beyond. Outsiders who hear "the Khazryn" usually picture this corner; in reality it accounts for less than a fifth of the region's population and a tiny fraction of its area.
+The **southwestern oasis-belt** — the irrigated corner of the Khazryn, a string of well-watered lowland cities and agricultural districts along the southern margin where Khazryn meets [[place-dunharargn|Dunhara]]. This is the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Ātárzád]], whose civilizational density is utterly unlike anything elsewhere in the Khazryn. The southwestern oasis-belt has urban populations in the hundreds of thousands, written archives going back two thousand years, an established temple-priesthood, and trade-and-political relations with [[affiliation-sultntmrdd|Amradad]] and beyond. Outsiders who hear "the Khazryn" usually picture this corner; in reality it accounts for less than a fifth of the region's population and a tiny fraction of its area.
 
 The **eastern dryland** — the stone deserts and the high cold steppe approaches to the Tānvüri passes. This is the country of the easternmost steppe confederations, whose relationship with the Tānvüri court is a matter of perpetual frontier-management on both sides.
 
@@ -71,9 +67,9 @@ The **taiga peoples** of the Khazryn's far north are a smaller and quite distinc
 
 ### The Southwestern Oasis Civilization
 
-The **southwestern oasis-belt** houses the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]], whose civilization is utterly unlike either the steppe confederations or the taiga peoples. Urban, literate, polytheistic (Khazryn) or monolatrous (Ātárzád), bound to the [[affiliation-ashanpnthn|Āsháian Pantheon]] in ways that the steppe peoples regard as foreign even when they nominally share the same faith — the southwestern civilizations have more in common with the [[doc-sultntmrdd|Sultanate of Amradad]] (with which they share long trade and exile relations) than with the nomads camped two days' ride north.
+The **southwestern oasis-belt** houses the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Ātárzád]], whose civilization is utterly unlike either the steppe confederations or the taiga peoples. Urban, literate, polytheistic (Khazryn) or monolatrous (Ātárzád), bound to the [[affiliation-ashanpnthn|Āsháian Pantheon]] in ways that the steppe peoples regard as foreign even when they nominally share the same faith — the southwestern civilizations have more in common with the [[affiliation-sultntmrdd|Sultanate of Amradad]] (with which they share long trade and exile relations) than with the nomads camped two days' ride north.
 
-The story of the Ātárzád conquest of the four great Khazryn cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) is the central political drama of the southwestern Khazryn and is recited with bitter precision by both sides. See [[doc-khzrncnfdrtn|Khazryn Confederation]] and [[doc-tribestrzd|Tribes of Ātárzád]] for the full account.
+The story of the Ātárzád conquest of the four great Khazryn cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) is the central political drama of the southwestern Khazryn and is recited with bitter precision by both sides. See [[affiliation-khzrncnfdrtn|Khazryn Confederation]] and [[affiliation-tribestrzd|Tribes of Ātárzád]] for the full account.
 
 ### Pre-Khazryn Ruins
 
@@ -91,11 +87,11 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here. The so
 
 ## Politics and Power
 
-No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[doc-khzrncnfdrtn|Khazryn]] and [[doc-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
+No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[affiliation-khzrncnfdrtn|Khazryn]] and [[affiliation-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
 
-The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, swept across half of Vedyara and reached the eastern walls of the [[doc-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
+The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, swept across half of Vedyara and reached the eastern walls of the [[affiliation-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
 
-Foreign powers have generally given up trying to rule the desert. The [[doc-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[doc-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
+Foreign powers have generally given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
 
 ## Trade
 
@@ -105,23 +101,23 @@ Byzarian and Haradi merchants dominate the western end of the trade; Tānvüri a
 
 ## Relations with Neighboring Regions
 
-To the **west** lies [[doc-velanthrgn|Velanthia]], the transitional zone of forest-steppe and grain-belt that separates the Khazryn proper from the [[doc-nrdlndsrgn|Nordlands]] forests further west. Velanthian-Khazryn relations are continuous along a long, fluid frontier: Velanthian grain flows east, Khazryn furs and horses flow west, and steppe-confederation raiders periodically test Velanthian frontier defenses with limited success.
+To the **west** lies [[place-velanthrgn|Velanthia]], the transitional zone of forest-steppe and grain-belt that separates the Khazryn proper from the [[place-nrdlndsrgn|Nordlands]] forests further west. Velanthian-Khazryn relations are continuous along a long, fluid frontier: Velanthian grain flows east, Khazryn furs and horses flow west, and steppe-confederation raiders periodically test Velanthian frontier defenses with limited success.
 
-To the **southwest** lies the [[doc-sultntmrdd|Sultanate of Amradad]] (in the broader [[doc-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazryn exile community.
+To the **southwest** lies the [[affiliation-sultntmrdd|Sultanate of Amradad]] (in the broader [[place-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazryn exile community.
 
-To the **south** lies the rest of the [[doc-dunharargn|Dunhara]] — the wider Dunhari world that wraps around the Khazryn's southwestern corner. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
+To the **south** lies the rest of the [[place-dunharargn|Dunhara]] — the wider Dunhari world that wraps around the Khazryn's southwestern corner. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
 
-To the **east** lie the passes that lead to [[doc-vedyarargn|Vedyara]] and [[doc-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade with both, and Tānvür has spent centuries managing its frontier with the easternmost steppe confederations as a permanent strategic problem.
+To the **east** lie the passes that lead to [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade with both, and Tānvür has spent centuries managing its frontier with the easternmost steppe confederations as a permanent strategic problem.
 
-To the **northwest** lies [[doc-vrystwald|Vrystwald]] across a long mountain-and-forest frontier. Contact is sparse — the mountains are bad terrain for everyone, and the Varokh forest tribes have little appetite for the open steppe — but the few crossings that exist carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous cross-border culture along this frontier.
+To the **northwest** lies [[place-vrystwald|Vrystwald]] across a long mountain-and-forest frontier. Contact is sparse — the mountains are bad terrain for everyone, and the Varokh forest tribes have little appetite for the open steppe — but the few crossings that exist carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous cross-border culture along this frontier.
 
 ## See Also
 
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — primary pantheon, shared with Dunhara and Harad
 - [[skill-dunharlng|Dunhari]] — the related naming tradition
-- [[doc-heladrgn|Hellád Region]] — western gateway
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — western trading partner
-- [[doc-dunharargn|Dunhara Region]] — southern desert cousin
-- [[doc-vedyarargn|Vedyara Region]] — southeastern pass-end
-- [[doc-tanvuregin|Tānvür Region]] — far eastern pass-end
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-heladrgn|Hellád Region]] — western gateway
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — western trading partner
+- [[place-dunharargn|Dunhara Region]] — southern desert cousin
+- [[place-vedyarargn|Vedyara Region]] — southeastern pass-end
+- [[place-tanvuregin|Tānvür Region]] — far eastern pass-end
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

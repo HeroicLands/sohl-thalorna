@@ -4,6 +4,7 @@ aliases:
   - Dek Vetrdomr
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Dek Vetrdómr
   title: ""
@@ -15,29 +16,26 @@ id: iX6xDDr8qwN2G3pb
 folder: Ka9XqaF27b0I3Gmq
 shortcode: dekvetrdmr
 img: icons/person.svg
-portrait: images/being/dekvetrdmr-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/dekvetrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: male
+  species: null
   age: 47
   birthday: 673/5/5
-  height:
-    m: 1.85
-  weight:
-    kg: 80.7
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80.7
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown

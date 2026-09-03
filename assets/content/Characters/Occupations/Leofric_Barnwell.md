@@ -3,6 +3,7 @@ aliases:
   - Leofric Barnwell
 tags:
   - draft
+  - tradesfolk
 name:
   full: Leofric Barnwell
   title: ""
@@ -15,38 +16,33 @@ id: AEDnvMju3TuU3wzi
 folder: elH5NDPUuiRCICrE
 shortcode: lefrcbrnwl
 img: icons/person.svg
-portrait: images/being/lefrcbrnwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lefrcbrnwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Physician
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 42
   birthday: 682/3/15
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: fair
     complexion: freckled
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple but elegant clothing
-  misc:
-    - Leather satchel for medical supplies
-    - Medical texts
-    - herbal remedies
-    - surgical instruments
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 24 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

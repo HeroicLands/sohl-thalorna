@@ -9,9 +9,30 @@ name:
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
 id: dQx4jt8bWKxTwaOT
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/glowvine-portrait.webp
 shortcode: glowvine
 type: being
+data:
+  portrait: images/being/glowvine-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

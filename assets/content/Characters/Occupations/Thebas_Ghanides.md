@@ -4,6 +4,7 @@ aliases:
   - Thebas Ghanides
 tags:
   - draft
+  - common-folk
 name:
   full: Thêbas Ghânîdês
   title: ""
@@ -16,39 +17,33 @@ id: VVIZM5oForBFbyvQ
 folder: gpXd1anXulwRWZqn
 shortcode: thebsghnds
 img: icons/person.svg
-portrait: images/being/thebsghnds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thebsghnds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - korinthea
   gender: male
+  species: null
   age: 51
   birthday: 669/2/22
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: white
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Thick woolen cloak
-  misc:
-    - Leather pack
-    - Map of trade routes
-    - pipe and tobacco
-    - maintenance tools
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: korinthea
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

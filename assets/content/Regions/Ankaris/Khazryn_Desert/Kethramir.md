@@ -3,22 +3,22 @@ aliases:
   - Kethramír
   - Kethramir
 id: GkOSX9uDj3AmjiVz
+tags:
+  - waypoint
+  - caravan
+description: "Caravan Waypoint"
 type: place
-settlementType: "Caravan Waypoint"
 name:
   full: Kethramír
   aliases: []
 shortcode: kethramir
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - khzryndsrtrgn
-  polities:
-    - khzrncnfdrtn
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 
@@ -30,6 +30,6 @@ The settlement's character is pragmatic rather than grand. There is no great tem
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
 - [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

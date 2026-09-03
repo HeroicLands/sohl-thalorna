@@ -9,7 +9,16 @@ name:
 shortcode: groascmpgn
 type: scenario
 subType: adventure
-topic: true
+data:
+  parents: []
+  locations: []
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
@@ -17,14 +26,14 @@ folder: TokyoDCf1w4elPns
 
 ### Campaign Overview:
 
-Gróa’s vision of the future is one of three interconnected threats: **internal strife** within the [[doc-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of **[[Njörven]]**, the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Gróa and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
+Gróa’s vision of the future is one of three interconnected threats: **internal strife** within the [[affiliation-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of **[[Njörven]]**, the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Gróa and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
 
 This is a campaign where wisdom, diplomacy, and strength of character are valued over brute magical force. While Gróa’s Seiðr powers and her companions' skills will play important roles, the solutions to problems will often involve non-magical strategies. The internal political instability, foreign threats, and the plight of the people will shape much of the campaign.
 
 ### The Three Great Challenges
 
 1.  **Internal Strife:** Malagna is teetering on the edge of civil war. [[King Hákon III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the [[Hrafnvar]] and [[Grímvar]], vie for dominance. Gróa and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
-2.  **Foreign Invasions:** In addition to internal turmoil, foreign threats loom on Malagna’s borders. [[doc-kngdmnrdhm|Kingdom of Nordheim]] and the [[doc-kingdmtrgd|Kingdom of Targud]], emboldened by Malagna’s political weakness, launch raids along the coast. Villages are left defenseless, and the kingdom’s military is too fractured to protect the people. Gróa and her companions will need to confront these invaders, rally the common folk, and defend their homeland against these external dangers.
+2.  **Foreign Invasions:** In addition to internal turmoil, foreign threats loom on Malagna’s borders. [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]], emboldened by Malagna’s political weakness, launch raids along the coast. Villages are left defenseless, and the kingdom’s military is too fractured to protect the people. Gróa and her companions will need to confront these invaders, rally the common folk, and defend their homeland against these external dangers.
 3.  **Njörven’s Rise:** The ancient Sea Wraith, Njörven, is beginning to stir from his watery prison. His wrath is manifesting in destructive storms, and his influence grows as the seas become more perilous. However, Njörven’s awakening is not only a spiritual threat—it is also a political one, as some coastal clans begin questioning their allegiance to Thórr, the god who once vanquished Njörven. Gróa’s mission to retrieve the three relics and stop Njörven’s rise is the overarching quest, but much of the campaign will be about dealing with the tangible effects of his influence.
 
 ## Campaign Structure:
@@ -55,7 +64,7 @@ As Gróa and her companions acquire more relics, Njörven’s influence grows st
 The final act sees the kingdom on the brink of collapse. Civil war looms, foreign invaders press in from the borders, and Njörven’s full power is about to be unleashed.
 
 - **[[The Ritual of Binding]]:** With the three relics in hand, Gróa must perform the ancient **Ritual of Binding** to seal Njörven away. The ritual must be performed at a specific location—perhaps a hidden coastal temple—but it will require both spiritual and material preparation. Gróa will need to ensure that her companions can protect her during the ritual while also dealing with the external threats of rival factions, invaders, and Njörven’s minions.
-- **A Non-Magical Solution:** Though magic will play a role in the final battle, the ultimate solution to sealing Njörven away will rely on Gróa’s knowledge, strategy, and diplomacy. Perhaps convincing a key faction to support her, or finding an ancient piece of lore hidden in the archives of the [[doc-flkkhazar|Khazári]], will turn the tide of the battle.
+- **A Non-Magical Solution:** Though magic will play a role in the final battle, the ultimate solution to sealing Njörven away will rely on Gróa’s knowledge, strategy, and diplomacy. Perhaps convincing a key faction to support her, or finding an ancient piece of lore hidden in the archives of the [[lore-flkkhazar|Khazári]], will turn the tide of the battle.
 
 ## Key Themes and Non-Magical Elements
 

@@ -5,6 +5,7 @@ aliases:
   - Vishnusha Vidyasagaramandala
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Vishnusha Vidyāsāgaramaṇḍala
   title: ""
@@ -16,34 +17,31 @@ id: OfQVaxe1HktFIUMr
 folder: JotxZnnXcTECeYW3
 shortcode: vshnshvdysgrml
 img: icons/person.svg
-portrait: images/being/vshnshvdysgrml-portrait.webp
 type: being
-thalorna:
-  realm: dhnrktjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/vshnshvdysgrml-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - dhnrktjnpd
   gender: male
+  species: null
   age: 36
   birthday: 684/4/15
-  height:
-    m: 1.91
-  weight:
-    kg: 90.3
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 90.3
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

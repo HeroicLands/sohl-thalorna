@@ -5,6 +5,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - administration
 name:
   full: Eiríkr Lawgiver
   title: null
@@ -17,23 +18,27 @@ id: kJ8l5sMQNaJK9dzj
 folder: Ka9XqaF27b0I3Gmq
 shortcode: eirkrlwgvr
 img: icons/person.svg
-portrait: images/being/eirkrlwgvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/eirkrlwgvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Judge and Lawman
-  station: administration
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 55
   birthday: 665/8/25
-  height:
-    m: 1.81
-  weight:
-    kg: 91
-  build:
-    frame: heavy
+  height: 1.81
+  weight: 91
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: auburn
@@ -487,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

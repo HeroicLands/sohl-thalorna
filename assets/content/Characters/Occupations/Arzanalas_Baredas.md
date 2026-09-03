@@ -4,6 +4,7 @@ aliases:
   - Arzanalas Baredas
 tags:
   - draft
+  - soldiery
 name:
   full: Arzânalàs Bâredâs
   title: ""
@@ -16,23 +17,27 @@ id: vwal3jKQzejVObfV
 folder: UFBfgKZUF0bAE7gG
 shortcode: arznlsbrds
 img: icons/person.svg
-portrait: images/being/arznlsbrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/arznlsbrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 54
   birthday: 670/2/15
-  height:
-    m: 1.88
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: gray
@@ -40,16 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a heart on the chest
-gear:
-  weapons:
-    - Great sword
-  armor:
-    - Heavy plate armor
-  misc:
-    - Large pack for provisions
-    - Shield
-    - war horn
-    - field guide to tactics
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

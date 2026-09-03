@@ -4,6 +4,8 @@ aliases:
   - Harphos Orcharenis
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Harphôs Ôrchârenîs
   title: ""
@@ -16,40 +18,33 @@ id: PPgdzUvZ3gpmmICi
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrphsrchrns
 img: icons/person.svg
-portrait: images/being/hrphsrchrns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrphsrchrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: guilded
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 38
   birthday: 682/6/24
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70
+  frame: medium
   appearance:
     eye_color: green
     hair_color: black
     skin_color: medium
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Small club for self-defense
-  armor:
-    - Leather gloves
-  misc:
-    - Canvas bag for carrying supplies
-    - Scented oils
-    - dyes
-    - beeswax
-    - tallow
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

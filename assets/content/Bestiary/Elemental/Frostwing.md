@@ -9,9 +9,30 @@ name:
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
 id: MzYAPPEnFLXmQ6Cg
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/frstwng-portrait.webp
 shortcode: frstwng
 type: being
+data:
+  portrait: images/being/frstwng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: elemental
   archetype: 0

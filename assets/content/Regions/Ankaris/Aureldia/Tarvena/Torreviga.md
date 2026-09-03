@@ -2,21 +2,22 @@
 aliases:
   - Torreviga
 id: yjFOHt9fEyDjHCCZ
+tags:
+  - town
+  - hill
+description: "Hill Town"
 type: place
 subType: settlement
-settlementType: "Hill Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Torreviga
   aliases: []
 shortcode: torreviga
-parent:
-  polities:
-    - kingdmtrvn
 folder: DB9rgGreD8FtqoBx
 ---
 

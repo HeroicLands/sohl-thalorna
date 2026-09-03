@@ -5,6 +5,7 @@ aliases:
   - Konstantinos Polytimos
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Konstántinos Polytimós
   title: ""
@@ -16,29 +17,26 @@ id: mi6F6AVRK3KcbqFK
 folder: b81DHx3S7C9ep13E
 shortcode: knstntnsplytms
 img: icons/person.svg
-portrait: images/being/knstntnsplytms-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/knstntnsplytms-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cook
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 34
   birthday: 686/3/8
-  height:
-    m: 1.78
-  weight:
-    kg: 75.3
-  build:
-    frame: medium
+  height: 1.78
+  weight: 75.3
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown

@@ -4,7 +4,7 @@ aliases:
   - Tanthei
 id: 1jK4MD4BEqFGPa5s
 type: lore
-subType: folk
+subType: culture
 name:
   full: Tānthëi
   aliases: []
@@ -16,7 +16,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Celestial Scholars**
 
-The Tānthëi form the scholarly and spiritual elite of [[doc-tanvurempr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.
+The Tānthëi form the scholarly and spiritual elite of [[affiliation-tanvurempr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.
 
 ## Roles and Expertise
 
@@ -30,7 +30,7 @@ Tānthëi are the sole keepers and interpreters of certain sacred texts and anci
 
 ### Advisory Authority
 
-Tānthëi serve as primary counselors to [[doc-zheklung|Zhëklüng]] and [[doc-vushok|Vüshōk]] on matters of celestial law and the classification system's requirements. They may draft new laws in consultation with Warlords, always ensuring that imperial action aligns with the principles of the Tëng Lüt (Heavenly Law) and the cosmic sorting order.
+Tānthëi serve as primary counselors to [[lore-zheklung|Zhëklüng]] and [[lore-vushok|Vüshōk]] on matters of celestial law and the classification system's requirements. They may draft new laws in consultation with Warlords, always ensuring that imperial action aligns with the principles of the Tëng Lüt (Heavenly Law) and the cosmic sorting order.
 
 ## Rights and Restrictions
 
@@ -56,11 +56,11 @@ Personal names are granted to Tānthëi of exceptional wisdom, particularly thos
 
 ### Sinalëan Scholars
 
-[[doc-flksinale|Sinalë]] possess deep, ancient knowledge of cosmology, astronomy, and natural science, often granted Tānthëi status for these contributions. Their counsel to human leadership is highly valued, though occasionally met with suspicion due to the secretive nature of their knowledge and their perceived distance from human concerns.
+[[lore-flksinale|Sinalë]] possess deep, ancient knowledge of cosmology, astronomy, and natural science, often granted Tānthëi status for these contributions. Their counsel to human leadership is highly valued, though occasionally met with suspicion due to the secretive nature of their knowledge and their perceived distance from human concerns.
 
 ### Khazárian Scholars
 
-[[doc-flkkhazar|Khazári]] masters of engineering, geology, and metallurgy are sometimes classified as Tānthëi when their expertise proves essential to major imperial projects. Their knowledge of stone and earth is viewed with both awe and mistrust, their esoteric understanding of the deep places and their inner workings creating both respect and unease.
+[[lore-flkkhazar|Khazári]] masters of engineering, geology, and metallurgy are sometimes classified as Tānthëi when their expertise proves essential to major imperial projects. Their knowledge of stone and earth is viewed with both awe and mistrust, their esoteric understanding of the deep places and their inner workings creating both respect and unease.
 
 ## Philosophy of Lëi
 
@@ -68,9 +68,9 @@ Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that 
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — rights and restrictions governing Tānthëi
-- [[doc-zeisik|Law and Honor]] — framework of Celestial Law and Tānthëi interpretation
-- [[doc-zheklung|Zhëklüng]] — the supreme authority consulting with Tānthëi
-- [[doc-vushok|Vüshōk]] — Warrior Nobility who receive Tānthëi counsel
-- [[doc-venduk|Vëndük]] — Magical practitioners whom Tānthëi oversee and restrict
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Tānthëi
+- [[lore-zeisik|Law and Honor]] — framework of Celestial Law and Tānthëi interpretation
+- [[lore-zheklung|Zhëklüng]] — the supreme authority consulting with Tānthëi
+- [[lore-vushok|Vüshōk]] — Warrior Nobility who receive Tānthëi counsel
+- [[lore-venduk|Vëndük]] — Magical practitioners whom Tānthëi oversee and restrict
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

@@ -3,6 +3,7 @@ aliases:
   - Aldwin Grayling
 tags:
   - draft
+  - common-folk
 name:
   full: Aldwin Grayling
   title: ""
@@ -15,23 +16,27 @@ id: kDa9U4UqGWlG6g3O
 folder: elH5NDPUuiRCICrE
 shortcode: aldwngrylng
 img: icons/person.svg
-portrait: images/being/aldwngrylng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aldwngrylng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kingdmdnvr
   gender: male
+  species: null
   age: 48
   birthday: 672/9/27
-  height:
-    m: 1.83
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.83
+  weight: 78
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
@@ -39,15 +44,6 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a phoenix on the chest
-gear:
-  weapons:
-    - Wooden club
-  armor:
-    - Worn coat
-  misc:
-    - Canvas sack
-    - Old hat
-    - carved wooden charm for luck
 sohl:
   archetype: null
   body:
@@ -524,12 +520,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kingdmdnvr
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

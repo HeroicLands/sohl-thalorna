@@ -5,6 +5,7 @@ aliases:
   - Thorsteinn Jarnskel
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Thorsteinn Járnskel
   title: ""
@@ -16,29 +17,26 @@ id: PfkHxcqixrNhiLmM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnjrnskl
 img: icons/person.svg
-portrait: images/being/thrstnjrnskl-portrait.webp
 type: being
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/thrstnjrnskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
   gender: male
+  species: null
   age: 45
   birthday: 675/3/22
-  height:
-    m: 1.85
-  weight:
-    kg: 85.7
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 85.7
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black

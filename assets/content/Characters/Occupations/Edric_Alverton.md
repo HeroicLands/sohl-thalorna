@@ -3,6 +3,7 @@ aliases:
   - Edric Alverton
 tags:
   - draft
+  - common-folk
 name:
   full: Edric Alverton
   title: ""
@@ -15,23 +16,27 @@ id: JWIyD7u3mSpKyo2X
 folder: elH5NDPUuiRCICrE
 shortcode: edriclvrtn
 img: icons/person.svg
-portrait: images/being/edriclvrtn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edriclvrtn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 53
   birthday: 667/2/30
-  height:
-    m: 1.8
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: white
@@ -39,16 +44,6 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the left side of the ribcage
-gear:
-  weapons:
-    - Walking stick
-  armor:
-    - Thick woolen coat
-  misc:
-    - Wooden crate for produce
-    - Farming tools
-    - leather gloves
-    - burlap sacks
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

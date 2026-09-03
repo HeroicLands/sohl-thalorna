@@ -4,7 +4,7 @@ aliases:
   - Zheklung
 id: aKsAcLBGhRxCxtQa
 type: lore
-subType: folk
+subType: culture
 name:
   full: Zhëklüng
   aliases: []
@@ -16,7 +16,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Sons of the Dragon**
 
-Zhëklüng form the apex of [[doc-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
+Zhëklüng form the apex of [[affiliation-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
 
 ## Administrative Authority
 
@@ -48,11 +48,11 @@ Zhëklüng retain final authority in all matters pertaining to governance, milit
 
 ## Naming and Honors
 
-Personal names are a rare honor granted only to Zhëklüng, [[doc-vushok|Vüshōk]], and [[doc-tanthei|Tānthëi]] for outstanding service to the empire. Names conferred upon Zhëklüng typically reflect dragons, celestial authority, and the Mandate of Heaven.
+Personal names are a rare honor granted only to Zhëklüng, [[lore-vushok|Vüshōk]], and [[lore-tanthei|Tānthëi]] for outstanding service to the empire. Names conferred upon Zhëklüng typically reflect dragons, celestial authority, and the Mandate of Heaven.
 
 ## Elder Races Among Zhëklüng
 
-Few [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] are ever granted Zhëklüng status—such elevation is reserved for their nobility or those with significant strategic alliances with human rulers. Those who achieve this rank serve crucial roles in managing relations between their people and the empire, though their position remains precarious and subject to the whims of imperial politics.
+Few [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] are ever granted Zhëklüng status—such elevation is reserved for their nobility or those with significant strategic alliances with human rulers. Those who achieve this rank serve crucial roles in managing relations between their people and the empire, though their position remains precarious and subject to the whims of imperial politics.
 
 ## Celestial Numerology
 
@@ -60,8 +60,8 @@ The number nine holds deep reverence in all ceremonies and rites pertaining to t
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — overview of all caste structures and restrictions
-- [[doc-vushok|Vüshōk]] — the Warrior Nobility who share authority with Zhëklüng
-- [[doc-venduk|Vëndük]] — the Chattel Sorcerers who serve and counsel Zhëklüng
-- [[doc-zeisik|Law and Honor]] — legal framework governing Zhëklüng authority
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[lore-castelaws|Caste Laws]] — overview of all caste structures and restrictions
+- [[lore-vushok|Vüshōk]] — the Warrior Nobility who share authority with Zhëklüng
+- [[lore-venduk|Vëndük]] — the Chattel Sorcerers who serve and counsel Zhëklüng
+- [[lore-zeisik|Law and Honor]] — legal framework governing Zhëklüng authority
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Hármund Vetrdómr
   title: ""
@@ -16,40 +17,33 @@ id: KDGAUuRqphlhHVln
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrmndvtrdmr
 img: icons/person.svg
-portrait: images/being/hrmndvtrdmr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrmndvtrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 40
   birthday: 680/9/20
-  height:
-    m: 1.82
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.82
+  weight: 71
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: auburn
     skin_color: olive
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Clb:1
-    - RndSh:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
 sohl:
   archetype: null
   body:
@@ -505,12 +499,6 @@ sohl:
     - { shortcode: init, type: skill, system: { masteryLevelBase: 35 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 18 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -2,23 +2,22 @@
 aliases:
   - Haukstad
 id: jjrNvguHkGppBHx6
+tags:
+  - post
+  - trading
+description: "Trading Post"
 type: place
 subType: settlement
-settlementType: "Trading Post"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Haukstad
   aliases: []
 shortcode: haukstad
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

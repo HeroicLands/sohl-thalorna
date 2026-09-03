@@ -3,6 +3,7 @@ aliases:
   - Garulf Druthgar
 tags:
   - tamzir-crew
+  - soldiery
 name:
   full: Garulf Druthgar
   title: ""
@@ -14,31 +15,27 @@ folder: Nu7AgLZEmR26u2pk
 shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/grlfdrthgr-portrait.webp
 type: being
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-social:
+data:
+  portrait: images/being/grlfdrthgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Sellsword
-  station: soldiery
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - thetamzir
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 43
   birthday: 676/9/19
-  height:
-    m: 1.93
-  weight:
-    kg: 94.8
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 94.8
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: brown

@@ -3,21 +3,22 @@ aliases:
   - Belpòrte
   - Belporte
 id: fGQuj4lr8Fd0VQbZ
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
-settlementType: "Port Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
 name:
   full: Belpòrte
   aliases: []
 shortcode: belporte
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

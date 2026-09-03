@@ -5,6 +5,7 @@ aliases:
   - Narava Suryatejamahananda
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Nárava Sūryatejamahānanda
   title: ""
@@ -16,34 +17,31 @@ id: knEigojy3UhmSf7X
 folder: JotxZnnXcTECeYW3
 shortcode: nrvsrytjmhnnd
 img: icons/person.svg
-portrait: images/being/nrvsrytjmhnnd-portrait.webp
 type: being
-thalorna:
-  realm: vyalendra2
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/nrvsrytjmhnnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - vyalendra2
   gender: male
+  species: null
   age: 37
   birthday: 683/10/25
-  height:
-    m: 1.88
-  weight:
-    kg: 76.7
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 76.7
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a compass on the chest
 sohl:

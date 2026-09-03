@@ -5,16 +5,24 @@ tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows:
+    - webdeceit
+  status: draft
+  party:
+    size: null
+    archetypes: []
 id: 6TK6erjwIhZeAzxz
 shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills
   aliases: []
-campaign:
-  id: 1e0pksxoUKkUxRFB
-  part: 3
-thalorna:
-  region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
 ---
 
@@ -57,7 +65,7 @@ In the final part, the adventurers venture into the Blood Hills to find the shri
 
 ### The Black Flame Artifact and Final Decision
 
-- **Description:** In the shrine's inner sanctum, the adventurers find the artifact resting on an ornate, blood-stained altar. The room is filled with a sinister energy, and the artifact—the [[doc-maulgashng|Maul of Gashang]]—radiates a dark, intoxicating power that calls to anyone who enters.
+- **Description:** In the shrine's inner sanctum, the adventurers find the artifact resting on an ornate, blood-stained altar. The room is filled with a sinister energy, and the artifact—the [[scenario-maulgashng|Maul of Gashang]]—radiates a dark, intoxicating power that calls to anyone who enters.
 - **Challenge:** The adventurers face an intense moral and practical decision. They can take the artifact for themselves, destroy it, or choose to bring it to a Sacred Forge authority. Each choice carries risks: possessing it might corrupt or curse the wielder, destroying it could unleash its power unpredictably, and turning it over to authorities could earn them enemies among Black Flame cultists or the Zûr clan.
 - **Resolution:** As they make their choice, they may experience visions or whispers from the Black Flame, promising them power if they embrace the artifact's purpose. This moment is tense, filled with the potential for betrayal, temptation, or introspection. The decision they make will determine the campaign's legacy and the adventurers' role in the fate of the Céravel Vale.
 

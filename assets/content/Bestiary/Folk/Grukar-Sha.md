@@ -9,9 +9,30 @@ name:
 description: "A frail, cunning Grukar schemer who survives by never seeming a threat, winning through manipulation rather than any fair fight."
 id: FBrFf3Qr1QfvV4QY
 img: icons/game-icons/delapouite/orc-head.svg
-portrait: images/being/grkrsh-portrait.webp
 shortcode: grkrsh
 type: being
+data:
+  portrait: images/being/grkrsh-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: grukar
   archetype: 0

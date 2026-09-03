@@ -9,9 +9,30 @@ name:
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."
 id: pGoe1xHOveNk8ycM
 img: icons/game-icons/delapouite/elephant.svg
-portrait: images/being/xrthnfrs-portrait.webp
 shortcode: xrthnfrs
 type: being
+data:
+  portrait: images/being/xrthnfrs-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

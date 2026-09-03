@@ -2,21 +2,23 @@
 aliases:
   - Vuthrákor
 id: pZqyrLQSfBupge0U
-tags: []
+tags:
+  - garrison
+  - town
+description: "Garrison Town"
 type: place
 subType: settlement
-settlementType: "Garrison Town"
-population: null
-pantheons:
-  - nkaruthar
+data:
+  demonym: null
+  lore: []
+  parents:
+    - okharisrgn
+  population: null
 name:
   full: Vuthrákor
   aliases:
     - The Wild Flame
 shortcode: vuthrakor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

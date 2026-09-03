@@ -4,6 +4,7 @@ aliases:
   - Kashnura Arshumu
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kashnûra Arshûmû
   title: ""
@@ -16,40 +17,33 @@ id: EZAmggQBwBAD3UdR
 folder: PuQFDMkRM9i60i5Z
 shortcode: kashnrrshm
 img: icons/person.svg
-portrait: images/being/kashnrrshm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kashnrrshm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 47
   birthday: 673/4/11
-  height:
-    m: 1.68
-  weight:
-    kg: 61
-  build:
-    frame: medium
+  height: 1.68
+  weight: 61
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small knife for cutting wax
-  armor:
-    - Thick apron
-  misc:
-    - Wooden crate for transporting candles
-    - Wax
-    - wick materials
-    - molds
-    - and tallow
 sohl:
   archetype: null
   body:
@@ -533,12 +527,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

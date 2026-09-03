@@ -6,8 +6,8 @@ name:
   full: Locations
   aliases: []
 type: doc
+subType: collection
 shortcode: locations
-section: location
 tags:
 description: Notable places — ruins, landmarks, dungeons, and wonders.
 banner: banners/site.webp
@@ -19,6 +19,6 @@ Notable places — ruins, landmarks, dungeons, and wonders.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "location" and package = "thalorna"
+WHERE type = "place" and (subType = "site" or subType = "structure" or subType = "feature") and package = "thalorna"
 SORT name.full ASC
 ```

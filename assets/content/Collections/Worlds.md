@@ -6,8 +6,8 @@ name:
   full: Worlds
   aliases: []
 type: doc
+subType: collection
 shortcode: worlds
-section: world
 tags:
 description: The worlds of the Heroic Lands multiverse.
 banner: banners/world.webp
@@ -19,6 +19,6 @@ The worlds of the Heroic Lands multiverse.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "world" and package = "thalorna"
+WHERE type = "place" and subType = "world" and package = "thalorna"
 SORT name.full ASC
 ```

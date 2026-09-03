@@ -4,6 +4,7 @@ aliases:
   - Cheagan Zerazendis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Chéagan Zêrâzêndis
   title: ""
@@ -16,23 +17,27 @@ id: ArnWGhwBhsRRLFHQ
 folder: UFBfgKZUF0bAE7gG
 shortcode: chgnzrznds
 img: icons/person.svg
-portrait: images/being/chgnzrznds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/chgnzrznds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 32
   birthday: 692/2/8
-  height:
-    m: 1.7
-  weight:
-    kg: 62
-  build:
-    frame: light
+  height: 1.7
+  weight: 62
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar across the bridge of the nose
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Simple tunic
-  misc:
-    - Clay pots for cooking
-    - Ledger for bookings
-    - cooking utensils
-    - ale casks
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

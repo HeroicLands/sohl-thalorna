@@ -9,9 +9,30 @@ name:
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."
 id: I96v45Ggz9t91r4o
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/smmtdrk-portrait.webp
 shortcode: smmtdrk
 type: being
+data:
+  portrait: images/being/smmtdrk-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

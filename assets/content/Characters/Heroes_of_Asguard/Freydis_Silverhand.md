@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - tradesfolk
 name:
   full: Freydis Silverhand
   title: null
@@ -16,23 +17,27 @@ id: uc36Ag2geh9YjBvy
 folder: Ka9XqaF27b0I3Gmq
 shortcode: frydslvrhnd
 img: icons/person.svg
-portrait: images/being/frydslvrhnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/frydslvrhnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Merchant and Diplomat
-  station: tradesfolk
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 42
   birthday: 678/9/6
-  height:
-    m: 1.59
-  weight:
-    kg: 56
-  build:
-    frame: light
+  height: 1.59
+  weight: 56
+  frame: light
   appearance:
     eye_color: green
     hair_color: silver
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

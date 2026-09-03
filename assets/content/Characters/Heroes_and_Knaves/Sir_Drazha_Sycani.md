@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Sir Drazha Sycâni, Knight of the Black Flame
   title: Sir
@@ -18,34 +19,31 @@ id: quoq4fCBYQEsUFGC
 folder: mtJ4TzKdySHbE2OM
 shortcode: srdrzhsycnknghtblckflm
 img: icons/person.svg
-portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Knight Bachelor)
-  station: soldiery
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 43
   birthday: 677/7/17
-  height:
-    m: 1.93
-  weight:
-    kg: 106.6
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 106.6
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: bald
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

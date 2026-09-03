@@ -4,6 +4,8 @@ aliases:
   - Raiah Sekmet'â
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Raiah Sekmet'â
   title: ""
@@ -16,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt
 img: icons/person.svg
-portrait: images/being/raiahsekmt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/raiahsekmt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 55
   birthday: 665/6/12
-  height:
-    m: 1.83
-  weight:
-    kg: 79.8
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 79.8
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black
     skin_color: ebony
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -560,7 +559,7 @@ sohl:
         durability: 3
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -570,7 +569,7 @@ Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair
 
 **Early Mastery**
 
-Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[doc-empirtkhpr|Ta'Kheperu]] for three generations. His father, **Mentuhotep Sekmetâ**, was himself a renowned craftsman, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] for three generations. His father, **Mentuhotep Sekmetâ**, was himself a renowned craftsman, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 

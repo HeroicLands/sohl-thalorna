@@ -1,4 +1,5 @@
 ---
+description: "Knowledge."
 aliases:
   - Faith of Ménérva
   - Faith of Menerva
@@ -9,13 +10,97 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: Keeper of Sacred Wisdom
+  symbol: An open book with glowing stars
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - menervadty
+  parents:
+    - arldnpnthn
+  relations:
     arldnpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Menerva
@@ -23,11 +108,6 @@ name:
     - Keeper of Sacred Wisdom
 shortcode: menerva
 img: images/affiliation/menerva.webp
-deity: Ménérva
-epithet: Keeper of Sacred Wisdom
-domain: Knowledge
-symbol: An open book with glowing stars
-pantheon: arldnpnthn
 folder: uMjCDTomEtc5Z0KV
 ---
 
@@ -53,7 +133,7 @@ The **Magistri Artes**, ordained teachers scattered throughout cities and settle
 
 The **Scholares Ménérva**, students and junior scholars, form the foundation of the priesthood. Many are young people undergoing intensive training in specific fields of knowledge; others are mature individuals who have come to scholarship later in life. The path to full priesthood is highly variable—there is no fixed tenure, no rigid hierarchy. A brilliant young mathematician might be ordained as a Magistra Artis after five years of study, while a slower student might spend a decade in training or may find their calling lies in advanced apprenticeship rather than formal priesthood.
 
-A distinctive feature of Ménérvan organization is the network of **Bibliothecae Magnae**, great libraries that serve as centers of knowledge preservation and research. These libraries are jointly maintained by the priesthood and by wealthy patrons who understand the value of preserved knowledge. The libraries in [[doc-provenzrgn|Provènzia Region]] and [[doc-vylarinmpr|Vylarian Empire]] contain thousands of manuscripts and are destinations of pilgrimage for scholars throughout western Ankaris. Librarians within these institutions hold significant authority within the priesthood, as the preservation and organization of knowledge is understood as sacred work.
+A distinctive feature of Ménérvan organization is the network of **Bibliothecae Magnae**, great libraries that serve as centers of knowledge preservation and research. These libraries are jointly maintained by the priesthood and by wealthy patrons who understand the value of preserved knowledge. The libraries in [[place-provenzrgn|Provènzia Region]] and [[affiliation-vylarinmpr|Vylarian Empire]] contain thousands of manuscripts and are destinations of pilgrimage for scholars throughout western Ankaris. Librarians within these institutions hold significant authority within the priesthood, as the preservation and organization of knowledge is understood as sacred work.
 
 The priesthood is funded through a combination of sources: endowments from wealthy patrons of learning, fees charged for education and apprenticeship training (often waived or reduced for the poor), and direct patronage from secular rulers who recognize that a learned priesthood brings prestige and practical benefit to their kingdoms. Unlike some other Aureldian faiths, Ménérva's priesthood deliberately avoids accumulating temporal power or territorial holdings, instead maintaining focus on intellectual and educational work.
 

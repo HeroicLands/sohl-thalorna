@@ -9,9 +9,30 @@ name:
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
 id: 7hW9W4pXEtgVMSMD
 img: icons/game-icons/lorc/worm-mouth.svg
-portrait: images/being/sandwurm-portrait.webp
 shortcode: sandwurm
 type: being
+data:
+  portrait: images/being/sandwurm-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

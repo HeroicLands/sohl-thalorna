@@ -3,23 +3,22 @@ aliases:
   - Shamsûn
   - Shamsun
 id: nlCErQbCazleD3Ns
+tags:
+  - oasis
+  - city
+description: "Oasis City"
 type: place
 subType: settlement
-settlementType: "Oasis City"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - amradadrgn
+  population: null
 name:
   full: Shamsûn
   aliases: []
 shortcode: shamsun
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

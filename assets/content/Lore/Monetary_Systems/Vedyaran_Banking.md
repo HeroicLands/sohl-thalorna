@@ -10,8 +10,8 @@ tags:
   - economy
   - stub
 description: "Stub note for the Vedyaran banking system — administered through the Merchant Collective's internal credit and clearing arrangements; not yet documented in detail."
-type: doc
-subType: reference
+type: lore
+subType: economy
 id: nTyttK88PvAX8k96
 name:
   full: Vedyaran Banking
@@ -34,15 +34,15 @@ The system's specific mechanics — denominations, credit instruments, intra-jan
 What is presently known:
 
 - The Merchant Collective operates as the principal banking institution of Vedyaran commerce, in addition to its role as the federation of mercantile _kulas_ (the great hereditary trading families).
-- The five Vedyaran janapadas — [[doc-chandrapur|Chandrapur]], [[doc-dhnrktjnpd|Dhanurkota]], [[doc-rajaprjnpd|Rajapur]], [[doc-suvrgrjnpd|Suvarnagiri]], and [[affiliation-vyalendra|Vyālendra]] — share the system; the Collective's standing as a supra-realm institution gives the banking infrastructure continent-internal scope.
+- The five Vedyaran janapadas — [[affiliation-chandrapur|Chandrapur]], [[affiliation-dhnrktjnpd|Dhanurkota]], [[affiliation-rajaprjnpd|Rajapur]], [[affiliation-suvrgrjnpd|Suvarnagiri]], and [[affiliation-vyalendra|Vyālendra]] — share the system; the Collective's standing as a supra-realm institution gives the banking infrastructure continent-internal scope.
 - Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable through Collective-controlled rates at frontier trading posts; the rates are not favorable to the bearer.
 - The Collective has refused trade-recognition agreements with both the Vylarian Magnum Collegium and the Haradian Sôd-Naqîrîn, which means Vedyaran merchants traveling to those territories must conduct their commerce in the local currency rather than through any clearing arrangement.
 
 ## See Also
 
 - **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]** — the chartering institution; full institutional description
-- **[[doc-vylrncrncy|Vylarian Currency]]** — the principal foreign currency Vedyaran merchants encounter
-- **[[doc-tkhprcrncy|Ta'Kheperu Currency]]** — the second principal foreign currency
+- **[[lore-vylrncrncy|Vylarian Currency]]** — the principal foreign currency Vedyaran merchants encounter
+- **[[lore-tkhprcrncy|Ta'Kheperu Currency]]** — the second principal foreign currency
 
 ---
 

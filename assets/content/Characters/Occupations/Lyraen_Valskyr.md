@@ -4,6 +4,7 @@ aliases:
   - Lyraen Valskyr
 tags:
   - draft
+  - common-folk
 name:
   full: Lýraen Válskyr
   title: ""
@@ -16,38 +17,33 @@ id: Y3oobQmzvr3e9Xrw
 folder: J9R0fnGUTBY5z4pd
 shortcode: lyrnvlskyr
 img: icons/person.svg
-portrait: images/being/lyrnvlskyr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lyrnvlskyr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 38
   birthday: 682/2/25
-  height:
-    m: 1.83
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.83
+  weight: 73
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
     skin_color: olive
     complexion: medium
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Sturdy housekeeper's uniform
-  misc:
-    - Leather belt pouch for keys
-    - Ledgers
-    - household keys
-    - cleaning supplies
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

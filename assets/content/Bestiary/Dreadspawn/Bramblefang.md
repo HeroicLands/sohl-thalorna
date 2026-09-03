@@ -9,9 +9,30 @@ name:
 description: "A corruption-born woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
 id: 6KSkMKbbQE2We7kA
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/brmblfng-portrait.webp
 shortcode: brmblfng
 type: being
+data:
+  portrait: images/being/brmblfng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

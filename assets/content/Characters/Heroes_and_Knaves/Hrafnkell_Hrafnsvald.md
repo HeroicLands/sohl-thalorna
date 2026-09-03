@@ -3,6 +3,8 @@ aliases:
   - Hrafnkell Hrafnsvald
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Hrafnkell Hrafnsvald
   title: ""
@@ -14,29 +16,26 @@ id: z7z7tW1x70FIeB2H
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrfnklhrfnsvld
 img: icons/person.svg
-portrait: images/being/hrfnklhrfnsvld-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/hrfnklhrfnsvld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 44
   birthday: 676/3/11
-  height:
-    m: 1.8
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.8
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown

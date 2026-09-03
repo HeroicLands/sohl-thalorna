@@ -3,22 +3,21 @@ aliases:
   - Rājapur
   - Rajapur
 id: yJkyMAYiTk0t5vvt
+tags:
+  - city
+description: "City"
 type: place
 subType: settlement
-settlementType: "City"
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vedyarargn
+  population: null
 name:
   full: Rājapur
   aliases: []
 shortcode: rajapur
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - rajaprjnpd
-languages:
-  - vedyarlng
-pantheon:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

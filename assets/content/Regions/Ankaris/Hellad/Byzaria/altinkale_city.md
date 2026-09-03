@@ -2,25 +2,26 @@
 aliases:
   - Altinkale
 id: 5MRlAq6xyBaiOMaw
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
-settlementType: "Fortress City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - byzariargn
+  population: null
 name:
   full: Altinkale
   aliases: []
 shortcode: altinkale2
-parent:
-  polities:
-    - altinkale
 ---
 
 # Altinkale
 
 ## Overview
 
-_To be written._ Altinkale is the capital and principal settlement of [[doc-altinkale|Altinkale]].
+_To be written._ Altinkale is the capital and principal settlement of [[affiliation-altinkale|Altinkale]].

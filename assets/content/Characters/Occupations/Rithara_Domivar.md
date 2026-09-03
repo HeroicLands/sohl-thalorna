@@ -4,6 +4,7 @@ aliases:
   - Rithara Domivar
 tags:
   - draft
+  - common-folk
 name:
   full: Ríthara Dómivar
   title: ""
@@ -16,38 +17,33 @@ id: iUo1aWbtDRUIBIy0
 folder: 9t9O4iB5cYJtSaTG
 shortcode: rithardmvr
 img: icons/person.svg
-portrait: images/being/rithardmvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rithardmvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 22
   birthday: 702/2/7
-  height:
-    m: 1.73
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.73
+  weight: 66
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple sailor’s attire
-  misc:
-    - Small satchel for personal items
-    - Ropes
-    - navigation tools
-    - fishing gear
 sohl:
   archetype: null
   body:
@@ -525,12 +521,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

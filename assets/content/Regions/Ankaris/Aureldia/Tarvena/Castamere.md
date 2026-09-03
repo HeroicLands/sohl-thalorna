@@ -2,21 +2,22 @@
 aliases:
   - Castamere
 id: lR8iAwaI3Q3MlekO
+tags:
+  - castle
+  - town
+description: "Castle Town"
 type: place
 subType: settlement
-settlementType: "Castle Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Castamere
   aliases: []
 shortcode: castamere
-parent:
-  polities:
-    - kingdmtrvn
 folder: DB9rgGreD8FtqoBx
 ---
 

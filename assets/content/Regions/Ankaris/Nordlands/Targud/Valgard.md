@@ -2,23 +2,21 @@
 aliases:
   - Valgard
 id: Qv1h5Bkc8jxqYmxh
+tags:
+  - town
+description: "Town"
 type: place
 subType: settlement
-settlementType: "Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Valgard
   aliases: []
 shortcode: valgard
-parent:
-  polities:
-    - kingdmtrgd
-  regions:
-    - nrdlndsrgn
 folder: oLeer7axjoeYQHiT
 ---
 

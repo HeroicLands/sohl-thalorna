@@ -9,9 +9,30 @@ name:
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."
 id: QQBrXJej14IhQbcW
 img: icons/game-icons/lorc/owl.svg
-portrait: images/being/giantowl-portrait.webp
 shortcode: giantowl
 type: being
+data:
+  portrait: images/being/giantowl-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

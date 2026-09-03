@@ -6,6 +6,7 @@ name:
   full: Mystical Abilities
   aliases: []
 type: doc
+subType: collection
 shortcode: mystclblts2
 section: mysticalability
 tags:
@@ -19,7 +20,7 @@ banner: banners/mysticalability.webp
 
 Arcane incantations are divided by tradition.
 
-- [[doc-hexhodai|Hex Hodai]]
+- [[lore-hexhodai|Hex Hodai]]
 
 ### Incantus Hydälis
 

@@ -19,12 +19,92 @@ name:
 shortcode: vylrnmltry
 type: affiliation
 subType: venture
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: stratocracy
+    summary: >-
+      A company bound by its articles, its members sharing in what it takes and its officers
+      holding by consent.
+    ranks:
+      - level: 0
+        title: Discharged in Disgrace
+        lore: expelledrnk
+        description: >-
+          Put out with the share forfeit and the name published, so that no other company will
+          take them.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: >-
+          Attached to the company for its baggage, its cooking, its animals; not sworn and not
+          shared with.
+      - level: 2
+        title: Hand
+        lore: dependentrnk
+        description: Taken on for a season or a voyage, paid a wage, and holding no share of
+          the undertaking.
+      - level: 3
+        title: Sworn Member
+        lore: swornmemberrnk
+        description: >-
+          Sworn to the company's articles, entitled to a share of what it takes and bound by
+          what it agrees.
+      - level: 4
+        title: Veteran
+        lore: warriorrnk
+        description: >-
+          Of proven service across several undertakings, drawing a larger share and consulted
+          before the company commits.
+      - level: 5
+        title: Officer
+        lore: officerrnk
+        description: Holding a charge in the company — its stores, its scouts, its accounts,
+          its discipline.
+      - level: 6
+        title: Lieutenant
+        lore: commanderrnk
+        description: Second in the company, commanding in the captain's absence and detached
+          with a part of it.
+      - level: 7
+        title: Captain
+        lore: commanderrnk
+        description: Commanding the company, holding its articles and negotiating its contracts.
+      - level: 8
+        title: Master of the Company
+        lore: grandmasterrnk
+        description: >-
+          Where a company outlives its captains: the standing head who holds the name, the charter
+          and the contracts between them.
+    offices:
+      Master of the Company: Standing head of a company that outlives its captains, holding
+        the name and the contracts.
+      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
+      Lieutenant: Second in command, holding the company in the captain's absence.
+      Quartermaster: Keeper of the company's stores, its baggage and the division of what
+        it takes.
+      Purser: Keeper of the accounts — wages, shares, debts and the contract's terms.
+      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
+      Bosun: Master of the working of the ship or the ordering of the march.
+      Master-at-Arms: Keeper of the company's discipline and of its weapons.
+      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
+        the purser.
+      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - lore-vylrncrncy
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -32,7 +112,7 @@ folder:
 # The Vylarian Military
 
 - **Type:** Imperial military institution
-- **Region of operation:** [[doc-vylarinmpr|Vylaria]] proper and [[doc-helionis|Heliónis]] — the territories under direct imperial governance. The legions do _not_ freely operate in [[doc-aureldirgn|Aurèldía]] or [[doc-byzariargn|Byzaría]], which have their own armies; nor in [[doc-haradregin|Harad]] since the secession; nor anywhere else outside imperial territory except by invitation or hire.
+- **Region of operation:** [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]] — the territories under direct imperial governance. The legions do _not_ freely operate in [[place-aureldirgn|Aurèldía]] or [[place-byzariargn|Byzaría]], which have their own armies; nor in [[place-haradregin|Harad]] since the secession; nor anywhere else outside imperial territory except by invitation or hire.
 - **Supreme commander:** The reigning **Augustar** (Emperor)
 - **Operational command:** The **Dux Bellorum** at Magnápolis, presiding over the war council of **Comares Augustari**
 
@@ -116,7 +196,7 @@ When a real campaign is mounted, operational command is given to a **Magnar** (t
 
 Two standing bodies sit apart from the field legions and the war command, dedicated not to the borders but to the throne and the capital.
 
-The **Praetar Augustarum** are the **imperial guard** — the Augustar's personal bodyguard, and the keepers of order and justice within the Inner City of [[doc-magnapolis|Magnápolis]] itself. They garrison the **[[doc-castraprtr|Castra Praetoria]]** on the palace hill, recruit and promote apart from the line legions, and answer to the Augustar alone. Elite, lavishly equipped, and intensely political, they are the praetorian muscle of the court: the body best placed to guard an Augustar is also the body best placed to unmake one, and every reigning Augustar courts their loyalty with care. Their writ stops at the Inner Wall — the rest of the capital is not theirs to police.
+The **Praetar Augustarum** are the **imperial guard** — the Augustar's personal bodyguard, and the keepers of order and justice within the Inner City of [[place-magnapolis|Magnápolis]] itself. They garrison the **[[place-castraprtr|Castra Praetoria]]** on the palace hill, recruit and promote apart from the line legions, and answer to the Augustar alone. Elite, lavishly equipped, and intensely political, they are the praetorian muscle of the court: the body best placed to guard an Augustar is also the body best placed to unmake one, and every reigning Augustar courts their loyalty with care. Their writ stops at the Inner Wall — the rest of the capital is not theirs to police.
 
 The **City Watch** is a standing branch of the legions detailed permanently to the policing of Magnápolis. Legionary in recruitment, discipline, and equipment, it is nonetheless a city institution rather than a field force: it takes no part in foreign campaigns, but patrols the wards, breaks the riots, hunts the city's criminals, and enforces the rulings of the civic magistrates from its fortified watch-houses — one on or near each of the city's Twelve Circles. Its everyday direction belongs not to a general but to the city's civic council, the **[[affiliation-curiaurbis|Curia Urbis]]**, through the curator who holds the portfolio of order — an arrangement that deliberately keeps the capital's standing muscle answerable to the Augustar's civic appointees rather than to any one commander. Lesser watches on the same model keep the peace in the empire's other great cities.
 
@@ -187,7 +267,7 @@ Movement between estates is rare but real. An Aerean house that produces three g
 
 ## Currency and the Commission System
 
-The Vylarian currency anchors at the **Aurion** (gold coin) but circulates principally in the **Argentus** (Argo) and **Octus** (Bit). One Aurion equals 160 Argo equals 1,280 Bits. The Aurion is barely a circulating coin — perhaps 200,000 in existence empire-wide, mostly held in noble vaults, the imperial treasury, and the [[affiliation-aerarimmpr|The Aerarium Imperii]]'s strongroom at Magnápolis. (See the [[doc-vylrncrncy|Vylarian Currency]] reference for the full coinage system, sample prices, and wage scale.)
+The Vylarian currency anchors at the **Aurion** (gold coin) but circulates principally in the **Argentus** (Argo) and **Octus** (Bit). One Aurion equals 160 Argo equals 1,280 Bits. The Aurion is barely a circulating coin — perhaps 200,000 in existence empire-wide, mostly held in noble vaults, the imperial treasury, and the [[affiliation-aerarimmpr|The Aerarium Imperii]]'s strongroom at Magnápolis. (See the [[lore-vylrncrncy|Vylarian Currency]] reference for the full coinage system, sample prices, and wage scale.)
 
 Large-value commerce moves not in physical Aurion coin but in **paper script** issued by the [[affiliation-clgmrgntrrm|moneylenders' guild]] against the [[affiliation-aerarimmpr|imperial treasury]]'s reserves. (See the [[affiliation-aerarimmpr|The Aerarium Imperii]] note for the structure of the three-tier note system — retail, traveler's, and master notes.) Commission payments — even at the largest scales — are settled in script for nearly all houses and nearly all commissions; physical Aurion payment is reserved for the most prestigious transactions where an Aurelian house wishes to make a public display of liquid wealth.
 

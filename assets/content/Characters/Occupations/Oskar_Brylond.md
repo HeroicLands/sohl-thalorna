@@ -4,6 +4,7 @@ aliases:
   - Oskar Brylond
 tags:
   - draft
+  - tradesfolk
 name:
   full: Óskar Brýlond
   title: ""
@@ -16,23 +17,27 @@ id: xqVbwYewpUQOgXLV
 folder: J9R0fnGUTBY5z4pd
 shortcode: oskrbrylnd
 img: icons/person.svg
-portrait: images/being/oskrbrylnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/oskrbrylnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler
-  station: tradesfolk
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 46
   birthday: 678/4/8
-  height:
-    m: 1.75
-  weight:
-    kg: 72
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 72
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black
@@ -40,15 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a scar above the left eyebrow
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather briefcase for documents
-    - Trade agreements
-    - evaluation tools
-    - personal ledger
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

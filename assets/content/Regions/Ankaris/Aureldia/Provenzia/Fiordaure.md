@@ -3,21 +3,22 @@ aliases:
   - Fiòrdaure
   - Fiordaure
 id: lxDnKhmbJQmfcnlU
+tags:
+  - town
+  - coastal
+description: "Coastal Town"
 type: place
 subType: settlement
-settlementType: "Coastal Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
 name:
   full: Fiòrdaure
   aliases: []
 shortcode: fiordaure
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

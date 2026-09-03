@@ -2,23 +2,22 @@
 aliases:
   - Asgarthul
 id: wuwfHIB8d0m5SUnV
+tags:
+  - town
+  - market
+description: "Market Town / Seat of Local Nobility"
 type: place
 subType: settlement
-settlementType: "Market Town / Seat of Local Nobility"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Asgarthul
   aliases: []
 shortcode: asgarthul
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 
@@ -34,5 +33,5 @@ The settlement functions as a market town and administrative center for the inla
 
 ## See Also
 
-- [[doc-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

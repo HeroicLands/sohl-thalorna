@@ -2,23 +2,26 @@
 aliases:
   - Grukarholm
 id: kRq6vgWmxMG5MZ4V
+tags:
+  - fortress
+  - town
+description: "Fortress Town"
 type: place
 subType: settlement
-settlementType: "Fortress Town"
-population: null
-languages:
-  - grukarlng
+data:
+  demonym: null
+  lore: []
+  parents:
+    - grkrhlmrgn
+  population: null
 name:
   full: Grukarholm
   aliases: []
 shortcode: grukarholm2
-parent:
-  polities:
-    - grukarholm
 ---
 
 # Grukarholm
 
 ## Overview
 
-_To be written._ Grukarholm is the capital and principal settlement of [[doc-grukarholm|Grukarhölm]].
+_To be written._ Grukarholm is the capital and principal settlement of [[affiliation-grukarholm|Grukarhölm]].

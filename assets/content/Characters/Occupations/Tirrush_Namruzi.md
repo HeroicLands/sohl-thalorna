@@ -4,6 +4,7 @@ aliases:
   - Tirrush Namruzi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Tirrûsh Namrûzî
   title: ""
@@ -16,23 +17,27 @@ id: qD2tmy2EgpyKwKsS
 folder: PuQFDMkRM9i60i5Z
 shortcode: tirushnmrz
 img: icons/person.svg
-portrait: images/being/tirushnmrz-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tirushnmrz-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 38
   birthday: 682/3/14
-  height:
-    m: 1.83
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a compass on the chest
-gear:
-  weapons:
-    - Small hammer (for breaking damaged glass)
-  armor:
-    - Thick leather apron
-  misc:
-    - Wooden chest for tools
-    - Glassblowing pipe
-    - tongs
-    - colored glass powders
 sohl:
   archetype: null
   body:
@@ -534,12 +529,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

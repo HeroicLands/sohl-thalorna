@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - clergy
 name:
   full: Leónantos Stratégopoulos
   title: ""
@@ -17,29 +19,26 @@ id: 4wtqksxBi9W6iVQ1
 folder: b81DHx3S7C9ep13E
 shortcode: lnntstrtgpls
 img: icons/person.svg
-portrait: images/being/lnntstrtgpls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/lnntstrtgpls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/4/17
-  height:
-    m: 1.91
-  weight:
-    kg: 87.5
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 87.5
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black

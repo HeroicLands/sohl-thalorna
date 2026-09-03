@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Habìdon Ghânîdês
   title: ""
@@ -16,23 +17,27 @@ id: 1nYCsXoblu17rNy8
 folder: gpXd1anXulwRWZqn
 shortcode: habdnghnds
 img: icons/person.svg
-portrait: images/being/habdnghnds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/habdnghnds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - athenikos
   gender: male
+  species: null
   age: 28
   birthday: 692/5/6
-  height:
-    m: 1.99
-  weight:
-    kg: 103
-  build:
-    frame: massive
+  height: 1.99
+  weight: 103
+  frame: massive
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,20 +45,6 @@ traits:
     complexion: bronzed
     extra_features:
       - tattoo on arm
-gear:
-  weapons:
-    - BrdSwd:1
-    - MHbgn:1
-    - KnSh:1
-  armor:
-    - MHbgn:1
-    - LtShirt:1
-    - torch:2
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
 sohl:
   archetype: null
   body:
@@ -510,12 +501,6 @@ sohl:
     - { shortcode: ridg, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 29 } }
-thalorna:
-  realm: athenikos
-  region: helionis
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -5,6 +5,7 @@ aliases:
   - Bjorg Drekanott
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Björg Drekanótt
   title: ""
@@ -16,29 +17,26 @@ id: 27J04R6N0Txnbpgm
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjorgdrknt
 img: icons/person.svg
-portrait: images/being/bjorgdrknt-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/bjorgdrknt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 29
   birthday: 691/3/3
-  height:
-    m: 1.6
-  weight:
-    kg: 54
-  build:
-    frame: light
+  height: 1.6
+  weight: 54
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown

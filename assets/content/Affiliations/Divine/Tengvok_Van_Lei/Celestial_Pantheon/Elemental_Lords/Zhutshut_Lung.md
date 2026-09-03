@@ -1,4 +1,5 @@
 ---
+description: "Water."
 aliases:
   - Zhütshüt Lüng
   - Zhutshut Lung
@@ -13,19 +14,98 @@ name:
 shortcode: zhutshtlng
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Lord of Water
+  symbol: A silver droplet falling onto an unrolled ivory scroll
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - zhtshtlngdty
+  parents:
+    - tngvkvnlei
+  relations:
     tngvkvnlei: aligned
+sohl:
   archetype: null
-deity: Zhütshüt Lüng
-epithet: The Lord of Water
-domain: Water
-symbol: A silver droplet falling onto an unrolled ivory scroll
-pantheon: tngvkvnlei
 folder: VmJuVqaOGhXrvXQs
 ---
 
@@ -79,4 +159,4 @@ Mortals petition Zhütshüt Lüng through offerings at water shrines, through th
 - [[affiliation-rekgung|Rëkgüng]] — Overseer of the Bureau of Thunder and Rain, with whom Zhütshüt Lüng disputes jurisdiction over rainfall
 - [[Vordok|Vōrdōk]] — Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Zhütshüt Lüng shares jurisdiction over groundwater
-- [[doc-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
+- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords

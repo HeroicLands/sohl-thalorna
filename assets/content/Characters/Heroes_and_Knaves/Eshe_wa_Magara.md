@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Eshe wa Magara
   title: ""
@@ -16,34 +17,31 @@ id: Lx9sOAx8WULtNPca
 folder: 5ECInZ91R1WeEtYz
 shortcode: eshewamagr
 img: icons/person.svg
-portrait: images/being/eshewamagr-portrait.webp
 type: being
-thalorna:
-  realm: okharis
-  region: okharisrgn
-social:
+data:
+  portrait: images/being/eshewamagr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - okharisrgn
+  affiliations:
+    - okharis
   gender: female
+  species: null
   age: 37
   birthday: 683/6/10
-  height:
-    m: 1.75
-  weight:
-    kg: 86.2
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 86.2
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

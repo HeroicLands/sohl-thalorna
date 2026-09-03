@@ -6,6 +6,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Thráwald Hildskorn
   title: ""
@@ -16,25 +17,28 @@ id: H8W36Py5SZwjqIEr
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrwldhldskrn
 img: icons/person.svg
-portrait: images/being/thrwldhldskrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrwldhldskrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Brigand
-  station: underworld
-  class: unfree
-  society: Varokh
-  organizations:
-    - blackpine-wolves
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - slavernk
+  homes:
+    - vrystwald
+  affiliations:
+    - blckpnwlvs
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 41
   birthday: 678/6/14
-  height:
-    m: 1.91
-  weight:
-    kg: 102.1
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 102.1
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_brown
@@ -518,12 +522,6 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 7 } }
     - { shortcode: wtrskin, type: containergear }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -2,23 +2,22 @@
 aliases:
   - Tyrellan
 id: P01J8cKSZZ3mWGLH
+tags:
+  - city
+  - provincial
+description: "Provincial City"
 type: place
 subType: settlement
-settlementType: "Provincial City"
-population: 15000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 15000
 name:
   full: Tyrellan
   aliases: []
 shortcode: tyrellan
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

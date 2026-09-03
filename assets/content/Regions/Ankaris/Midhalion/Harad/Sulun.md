@@ -3,22 +3,22 @@ aliases:
   - Sulûn
   - Sulun
 id: 5mm5ufJ2syvYaFP8
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
-settlementType: "Coastal Village"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - haradregin
+  population: null
 name:
   full: Sulûn
   aliases: []
 shortcode: sulun
-parent:
-  polities:
-    - tamavar
 folder: umL4KFGO3MD4u9X1
 ---
 

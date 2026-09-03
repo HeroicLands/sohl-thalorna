@@ -5,6 +5,8 @@ aliases:
   - Alykos Theotokis
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Alýkos Theotókis
   title: ""
@@ -16,29 +18,26 @@ id: xHAlCIQh56sf9sy0
 folder: b81DHx3S7C9ep13E
 shortcode: alyksthtks
 img: icons/person.svg
-portrait: images/being/alyksthtks-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/alyksthtks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 53
   birthday: 667/5/8
-  height:
-    m: 1.83
-  weight:
-    kg: 80.3
-  build:
-    frame: medium
+  height: 1.83
+  weight: 80.3
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: graying_brown

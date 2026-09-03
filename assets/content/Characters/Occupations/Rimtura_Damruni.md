@@ -4,6 +4,7 @@ aliases:
   - Rimtura Damruni
 tags:
   - draft
+  - administration
 name:
   full: Rimtûra Damrûnî
   title: ""
@@ -16,23 +17,27 @@ id: R6HfPQBGxbxtl8nv
 folder: PuQFDMkRM9i60i5Z
 shortcode: rimturdmrn
 img: icons/person.svg
-portrait: images/being/rimturdmrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rimturdmrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: noble
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - landedlordrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 32
   birthday: 692/3/29
-  height:
-    m: 1.73
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.73
+  weight: 67
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -40,15 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a leaf on the wrist
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather satchel for documents
-    - Legal texts
-    - writing materials
-    - case notes
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

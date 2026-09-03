@@ -9,9 +9,30 @@ name:
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."
 id: ldVaPfqXY1Mh4tK4
 img: icons/game-icons/lorc/hound.svg
-portrait: images/being/glmhnd-portrait.webp
 shortcode: glmhnd
 type: being
+data:
+  portrait: images/being/glmhnd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

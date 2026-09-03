@@ -33,7 +33,7 @@ flags:
 
 ### Áelendi Overview
 
-Áelendi represents a direct descent from an ancient form of [[doc-pelwarpepl|Pelwar People]], preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords.
+Áelendi represents a direct descent from an ancient form of [[lore-pelwarpepl|Pelwar People]], preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords.
 
 ### Áelendi Phonology
 

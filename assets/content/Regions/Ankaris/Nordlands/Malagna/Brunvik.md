@@ -3,23 +3,22 @@ aliases:
   - Brúnvík
   - Brunvik
 id: iEFZaB0kHPIfjSfz
+tags:
+  - village
+  - coastal
+description: "Coastal Village"
 type: place
 subType: settlement
-settlementType: "Coastal Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Brúnvík
   aliases: []
 shortcode: brunvik
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

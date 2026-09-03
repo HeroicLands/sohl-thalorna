@@ -3,7 +3,7 @@ aliases:
   - Numerology
 id: gu99gyoQOqq2hkDz
 type: lore
-subType: folk
+subType: arcana
 name:
   full: Numerology
   aliases: []
@@ -13,7 +13,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Numerology in the Empire of Tānvür
 
-In the [[doc-tanvurempr|Empire of Tānvür]], numerology plays a significant role in shaping cultural practices, beliefs, and rituals. Certain numbers carry deep symbolic weight and influence everything from wedding dates to architectural design to military strategy.
+In the [[affiliation-tanvurempr|Empire of Tānvür]], numerology plays a significant role in shaping cultural practices, beliefs, and rituals. Certain numbers carry deep symbolic weight and influence everything from wedding dates to architectural design to military strategy.
 
 ## Auspicious Numbers
 
@@ -23,7 +23,7 @@ The number 8 is highly auspicious as it represents infinity, balance, and harmon
 
 ### Nine (9)
 
-The number 9 is associated with the celestial administration and is considered a number of completeness and cosmic perfection — the highest single digit, representing the fullest expression of classified order. Nine is revered in ceremonies related to the Emperor and the [[doc-zheklung|Zhëklüng]] caste, as it is connected to the Tëngvōr (Mandate of Heaven) and the cosmic appointment of the imperial line. It is also considered a number of protection, used in rituals to reinforce classification boundaries against the Hürnlëi.
+The number 9 is associated with the celestial administration and is considered a number of completeness and cosmic perfection — the highest single digit, representing the fullest expression of classified order. Nine is revered in ceremonies related to the Emperor and the [[lore-zheklung|Zhëklüng]] caste, as it is connected to the Tëngvōr (Mandate of Heaven) and the cosmic appointment of the imperial line. It is also considered a number of protection, used in rituals to reinforce classification boundaries against the Hürnlëi.
 
 ### Five (5)
 
@@ -55,7 +55,7 @@ While the number 6 can have positive connotations in some contexts, it is often 
 
 ## See Also
 
-- [[doc-marriage|Marriage]] — Wedding dates and ceremonies influenced by numerology
-- [[doc-clndrstrlgy|Calendar and Astrology]] — The calendar system that numerology interacts with
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The cosmic framework that gives numbers their meaning
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial culture
+- [[lore-marriage|Marriage]] — Wedding dates and ceremonies influenced by numerology
+- [[lore-clndrstrlgy|Calendar and Astrology]] — The calendar system that numerology interacts with
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The cosmic framework that gives numbers their meaning
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial culture

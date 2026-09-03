@@ -9,9 +9,30 @@ name:
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
 id: 1afcBWsxQXPUIBxG
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/abysslsl-portrait.webp
 shortcode: abysslsl
 type: being
+data:
+  portrait: images/being/abysslsl-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

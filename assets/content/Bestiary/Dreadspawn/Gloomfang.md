@@ -9,9 +9,30 @@ name:
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
 id: PdsQX4rPIfQgbxtn
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/glmfng-portrait.webp
 shortcode: glmfng
 type: being
+data:
+  portrait: images/being/glmfng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

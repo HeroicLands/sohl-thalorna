@@ -9,9 +9,30 @@ name:
 description: "A wolf-sized insect and hive worker directed by pheromone signals, defending colossal colonies of hundreds or thousands as one collective intelligence."
 id: LBdgt05Nh0uI1pIt
 img: icons/game-icons/lorc/bee.svg
-portrait: images/being/giantbee-portrait.webp
 shortcode: giantbee
 type: being
+data:
+  portrait: images/being/giantbee-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

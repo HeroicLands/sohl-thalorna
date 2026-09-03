@@ -20,28 +20,110 @@ shortcode: jurthatempr
 img: ""
 type: affiliation
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
-demonym: Jürthāti
-population: "~500,000"
 subType: polity
-capital: ""
-ruler:
-  title: Emperor
-government:
-  type: monarchy
-  summary: Hereditary monarchy
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: Jürthāti
+  epithet: null
+  symbol: null
+  governance:
+    model: autocracy
+    summary: Hereditary monarchy
+    ranks:
+      - level: 0
+        title: Nützōk
+        lore: expelledrnk
+        description: >-
+          Slaves and outcasts: the caste that is not a caste, whose members may hold no name
+          the law recognises.
+      - level: 1
+        title: Shükrën
+        lore: slavernk
+        description: >-
+          Merchants and usurers — wealthy, indispensable, and ranked beneath the peasantry for
+          the offence of profiting without producing.
+      - level: 2
+        title: Nōkvür
+        lore: commonerrnk
+        description: >-
+          Peasant farmers and labourers, the base on which the celestial order rests and the
+          caste it constrains most.
+      - level: 3
+        title: Zāthük
+        lore: journeymanrnk
+        description: >-
+          Artisans, craftsmen and common warriors — skilled hands, and the highest a commoner
+          may ordinarily rise.
+      - level: 4
+        title: Tānthëi
+        lore: officerrnk
+        description: >-
+          Celestial Scholars: interpreters of omens and keepers of the sacred texts by which
+          the empire reckons everything.
+      - level: 5
+        title: Vüshōk
+        lore: officerrnk
+        description: >-
+          Warrior nobility — the military commanders and administrators through whom the provinces
+          are held.
+      - level: 6
+        title: Vëndük
+        lore: underbossrnk
+        description: >-
+          Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence
+          and owning nothing, not even themselves.
+      - level: 7
+        title: Zhëklüng
+        lore: heirrnk
+        description: >-
+          Sons of the Dragon — the imperial family and the Warlords, in whom the celestial mandate
+          is held to run.
+      - level: 8
+        title: Emperor
+        lore: sovereignrnk
+        description: >-
+          The Dragon himself, in whom the celestial administration and the caste order alike
+          find their justification.
+    offices:
+      Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
+      Warlord: Of the Zhëklüng, holding a province with its armies and answering to the Emperor
+        alone.
+      Celestial Minister: >-
+        Head of a ministry of the imperial administration, which tracks comets and officials
+        with equal rigour.
+      Omen-Reader: Tānthëi charged with interpreting the heavens for the timing of imperial
+        acts.
+      Keeper of the Sacred Texts: Tānthëi warden of the canon against which every proposal
+        is measured.
+      Caste-Registrar: >-
+        Officer of the rolls on which every subject's caste, and therefore every subject's
+        law, is recorded.
+      Warden of the Bound: Keeper of the Vëndük — their bindings, their assignment and their
+        disposal.
+      Commandant: Vüshōk officer commanding a garrison or a field army.
+      Provincial Administrator: Vüshōk officer holding a district's revenue, courts and corvée.
+      Censor of Purity: >-
+        Inspector of the ritual purity of provincial officials, and the most feared visitor
+        in any prefecture.
+  commonSkills:
+    - tanvurlng
+  seat: null
+  domains:
     - jurthatrgn
-pantheons:
-  - tngvkvnlei
-peoples:
-  - human
-languages:
-  - tanvurlng
+  population: 500000
+  economy: []
+  lore:
+    - humanflk
+  parents: []
+  relations:
+    tngvkvnlei: aligned
+    tanvurempr: rival
+sohl:
+  archetype: null
 folder: DhjGF5KsylKDxb7m
 ---
 
-Jürthāt is a mountainous island kingdom to the southeast of the [[doc-tanvurempr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.
+Jürthāt is a mountainous island kingdom to the southeast of the [[affiliation-tanvurempr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.
 
 Jürthāt's culture is unmistakably shaped by its Tānvür origins — the caste structures, the written script, the religious calendar, and the broad outlines of the Celestial Order all echo the mainland. But a millennium of separation has warped these shared roots into something distinctly Jürthātese, and the islanders are deeply proud of what they have become.
 
@@ -63,7 +145,7 @@ The current balance of power rests on three or four Great Lords of roughly equal
 
 Personal honor is the organizing principle of Jürthātese society, more deeply embedded even than in Tānvür's warrior caste. A lord's word is sacred; broken oaths are remembered for generations and can poison alliances centuries later. Insults — real or perceived — demand satisfaction, and the rituals of formal challenge and duel are codified in exhaustive detail.
 
-The Jürthātese practice their own form of ritual suicide, **Rëitsīk** (Rëitsīk, "Sacrificial Death"), which evolved from the Tānvür tradition of [[doc-zeisik|Zëisīk]] but carries different cultural weight. Where Zëisīk in Tānvür is primarily an act of atonement or defiance, Rëitsīk in Jürthāt is more broadly understood — it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rëitsīk wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
+The Jürthātese practice their own form of ritual suicide, **Rëitsīk** (Rëitsīk, "Sacrificial Death"), which evolved from the Tānvür tradition of [[lore-zeisik|Zëisīk]] but carries different cultural weight. Where Zëisīk in Tānvür is primarily an act of atonement or defiance, Rëitsīk in Jürthāt is more broadly understood — it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rëitsīk wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
 
 ## Relationship with Tānvür
 
@@ -91,8 +173,8 @@ Jürthāt's greatest military advantage is its navy. Island geography forced the
 
 ## See Also
 
-- [[doc-extrnlthrts|External Threats]] — Tānvür's view of Jürthāt as a military threat
-- [[doc-tanvurempr|Empire of Tānvür]] — The mainland empire from which Jürthāt broke away
-- [[doc-zeisik|Law and Honor]] — The Tānvür tradition of Zëisīk, ancestor of Jürthāt's Rëitsīk
-- [[doc-celestlrdr|Celestial Order]] — The shared religious framework, divergently interpreted
-- [[doc-castelaws|Caste Laws]] — The Tānvür caste system that Jürthāt inherited and reshaped
+- [[lore-extrnlthrts|External Threats]] — Tānvür's view of Jürthāt as a military threat
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The mainland empire from which Jürthāt broke away
+- [[lore-zeisik|Law and Honor]] — The Tānvür tradition of Zëisīk, ancestor of Jürthāt's Rëitsīk
+- [[lore-celestlrdr|Celestial Order]] — The shared religious framework, divergently interpreted
+- [[lore-castelaws|Caste Laws]] — The Tānvür caste system that Jürthāt inherited and reshaped

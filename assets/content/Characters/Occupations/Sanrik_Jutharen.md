@@ -4,6 +4,7 @@ aliases:
   - Sanrik Jutharen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sánrik Jútharen
   title: ""
@@ -16,23 +17,27 @@ id: F155sXZoMZwoOmNq
 folder: 9t9O4iB5cYJtSaTG
 shortcode: sanrkjthrn
 img: icons/person.svg
-portrait: images/being/sanrkjthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sanrkjthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 52
   birthday: 668/9/5
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: medium
+  height: 1.85
+  weight: 79
+  frame: medium
   appearance:
     eye_color: green
     hair_color: gray
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the chin
-gear:
-  weapons:
-    - Small hammer
-  armor:
-    - Heavy leather apron
-  misc:
-    - Wooden toolbox
-    - Glassblowing pipe
-    - molds
-    - annealing kiln
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

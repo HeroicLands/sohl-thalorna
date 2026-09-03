@@ -5,6 +5,7 @@ aliases:
   - Rognvaldr Asgrind
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Rǫgnvaldr Ásgrind
   title: ""
@@ -16,29 +17,26 @@ id: KZegPHrI9zZwcX7L
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rgnvldrsgrnd
 img: icons/person.svg
-portrait: images/being/rgnvldrsgrnd-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/rgnvldrsgrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jester
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmtrgd
   gender: male
+  species: null
   age: 50
   birthday: 670/10/18
-  height:
-    m: 1.83
-  weight:
-    kg: 74.8
-  build:
-    frame: medium
+  height: 1.83
+  weight: 74.8
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_black

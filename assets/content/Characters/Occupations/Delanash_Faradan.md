@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Delânash Faradân
   title: ""
@@ -16,43 +17,33 @@ id: UkJzZsnWLtBPFX7T
 folder: kCKYObmsvraIezCd
 shortcode: delnshfrdn
 img: icons/person.svg
-portrait: images/being/delnshfrdn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/delnshfrdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Dunhari
-traits:
+  stations: []
+  lore:
+    - dunhariclt
+    - commonerrnk
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: female
+  species: null
   age: 41
   birthday: 679/11/21
-  height:
-    m: 1.9
-  weight:
-    kg: 119
-  build:
-    frame: massive
+  height: 1.9
+  weight: 119
+  frame: massive
   appearance:
     eye_color: honey_brown
     hair_color: chestnut
     skin_color: medium
     complexion: freckled
     extra_features: []
-gear:
-  weapons:
-    - Scmtr:1
-    - SByrn:1
-    - RndSh:1
-  armor:
-    - SByrn:1
-    - LtVest:1
-    - Bandg:3
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
 sohl:
   archetype: null
   body:
@@ -508,12 +499,6 @@ sohl:
     - { shortcode: ridg, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 34 } }
     - { shortcode: swim, type: skill, system: { masteryLevelBase: 25 } }
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -13,15 +13,104 @@ shortcode: kiximtzul
 img: ""
 type: affiliation
 subType: polity
-capital: kiximtzul2
-terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: ""
+    ranks:
+      - level: 0
+        title: Exile
+        lore: outlawrnk
+        description: >-
+          Driven from the city and denied its ballcourt, its market and its rites; no lord will
+          take him and no kin will own him.
+      - level: 1
+        title: Captive
+        lore: slavernk
+        description: >-
+          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          no long future.
+      - level: 2
+        title: Commoner
+        lore: commonerrnk
+        description: >-
+          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          in maize, cloth and cacao.
+      - level: 3
+        title: Craftsman
+        lore: journeymanrnk
+        description: >-
+          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          to a lord's household or a temple.
+      - level: 4
+        title: Warrior
+        lore: warriorrnk
+        description: Taker of captives, whose standing rises with each one and whose dress records
+          them.
+      - level: 5
+        title: Scribe or Priest
+        lore: priestrnk
+        description: >-
+          Keeper of the count of days, the glyphs and the rites, without whom no lord may act
+          at an auspicious hour.
+      - level: 6
+        title: Ajaw
+        lore: greatlordrnk
+        description: A noble lord of the city, holding land, dependents and a place in the k'uhul
+          ajaw's court.
+      - level: 7
+        title: Sahal
+        lore: greatlordrnk
+        description: >-
+          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          of a conquered city's ruler.
+      - level: 8
+        title: K'uhul Ajaw
+        lore: sovereignrnk
+        description: >-
+          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar
+          and embodies it in war.
+    offices:
+      K'uhul Ajaw: >-
+        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns
+        sustains it.
+      Ix Ajaw: >-
+        Royal lady of the city, of a lineage recorded and married for, and a ruler in her
+        own right where the line requires it.
+      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
+      Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
+        hour.
+      Ah Ts'ib: >-
+        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert
+        them.
+      Nacom: War-leader appointed for a campaign, and set aside when it ends.
+      Batab: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
+        were his.
+      Ah Ppolom: >-
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        a lord's eyes abroad.
+      Ballcourt Keeper: >-
+        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
+        at once.
+  commonSkills: []
+  seat: kiximtzul2
+  domains:
     - nrthrnkchchk
-  continents:
-    - kchchkcntnnt
-peoples:
-  - human
+  population: null
+  economy: []
+  lore:
+    - humanflk
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
+terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 folder: NBEB5yxMuE00eFBX
 ---
 
@@ -33,11 +122,11 @@ From the little K'ich'chik observers have pieced together, the No'kin move with 
 
 ## Geography
 
-K'ixim Tzul encompasses vast territories of striking diversity and extreme climate. The western portion, bordering [[doc-balamkiahk|Ba'alam Ki'ahk]], features high plateau and mountain foothills where coniferous forests stretch to the horizon. These lands receive heavy precipitation and snow, and the Xak'nal and No'kin maintain contested hunting grounds along their border—a source of occasional friction, though active war between them is virtually unknown.
+K'ixim Tzul encompasses vast territories of striking diversity and extreme climate. The western portion, bordering [[affiliation-balamkiahk|Ba'alam Ki'ahk]], features high plateau and mountain foothills where coniferous forests stretch to the horizon. These lands receive heavy precipitation and snow, and the Xak'nal and No'kin maintain contested hunting grounds along their border—a source of occasional friction, though active war between them is virtually unknown.
 
 The central expanses of K'ixim Tzul comprise the true boreal forest: an immense landscape of spruce, larch, and pine interrupted by muskegs, small lakes, and winding river valleys. This is the heart of the bear-people's domain, where the forests seem to extend forever beneath a sky that hardly knows true darkness in summer or true light in winter. The climate is harsh—winters bring temperatures that kill the unprepared within hours, and the insect swarms of summer are themselves legendary torments. Yet these forests are not barren; they team with life for those who know how to read the signs: moose and elk, beaver whose lodges dot the rivers, countless birds and smaller game.
 
-To the east, K'ixim Tzul transitions gradually into grassland and the edge of the arctic tundra. The tree line becomes ragged and broken here, and the No'kin follow the great caribou herds that migrate across these open spaces. The border between K'ixim Tzul and [[doc-haxaman|Ha' Xaman]] is similarly fluid; where boreal forest meets prairie, the No'kin and the more restless Tz'okum Tz'aqalil (Coyote People) maintain seasonal camps and trade posts, and disputes over hunting rights are settled through a combination of negotiation and occasional armed confrontation.
+To the east, K'ixim Tzul transitions gradually into grassland and the edge of the arctic tundra. The tree line becomes ragged and broken here, and the No'kin follow the great caribou herds that migrate across these open spaces. The border between K'ixim Tzul and [[affiliation-haxaman|Ha' Xaman]] is similarly fluid; where boreal forest meets prairie, the No'kin and the more restless Tz'okum Tz'aqalil (Coyote People) maintain seasonal camps and trade posts, and disputes over hunting rights are settled through a combination of negotiation and occasional armed confrontation.
 
 ## The No'kin Tz'aqalil
 
@@ -49,13 +138,13 @@ K'ich'chik scholars speculate that the No'kin are organized into loose bands fol
 
 ## Trade
 
-The No'kin maintain active trade relationships with all four of the other northern nations, but their greatest commercial contacts extend southward through the mountain passes of Ba'alam Ki'ahk and along river routes toward the [[doc-hanalxilan|Ha'nal Xi'lan]] borderlands. Hides, furs, and rendered fat flow south, with [[doc-kchchkcntnnt|K'ich'chik]] merchants hungry for the highest-quality materials. In return, the No'kin acquire obsidian, jade, and craft materials that find their way north and east. Some No'kin traders venture into the subarctic territories beyond their claimed lands, trading for amber, arctic fox fur, and mysterious items whose origins remain obscure.
+The No'kin maintain active trade relationships with all four of the other northern nations, but their greatest commercial contacts extend southward through the mountain passes of Ba'alam Ki'ahk and along river routes toward the [[affiliation-hanalxilan|Ha'nal Xi'lan]] borderlands. Hides, furs, and rendered fat flow south, with [[place-kchchkcntnnt|K'ich'chik]] merchants hungry for the highest-quality materials. In return, the No'kin acquire obsidian, jade, and craft materials that find their way north and east. Some No'kin traders venture into the subarctic territories beyond their claimed lands, trading for amber, arctic fox fur, and mysterious items whose origins remain obscure.
 
-The isolation of K'ixim Tzul from direct access to the [[doc-chakultzkl|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The isolation of K'ixim Tzul from direct access to the [[affiliation-chakultzkl|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
 
 ## See Also
 
-- [[doc-balamkiahk|Ba'alam Ki'ahk]] — The Xak'nal domain to the west, separated by high passes and shared hunting territories
-- [[doc-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the south and east
-- [[doc-xikulchakl|Xik'ul Ch'akal]] — The Otter People's woodlands to the east, connected by river routes
-- [[doc-tzumanotun|Tz'uma No'tun]] — The Serpent People's distant southern territories, reached through intermediaries
+- [[affiliation-balamkiahk|Ba'alam Ki'ahk]] — The Xak'nal domain to the west, separated by high passes and shared hunting territories
+- [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the south and east
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The Otter People's woodlands to the east, connected by river routes
+- [[affiliation-tzumanotun|Tz'uma No'tun]] — The Serpent People's distant southern territories, reached through intermediaries

@@ -5,6 +5,7 @@ aliases:
   - Kyriakos Patrikios
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Kyriákos Patrikîos
   title: ""
@@ -16,29 +17,26 @@ id: ufOwxGi74z7sajfY
 folder: b81DHx3S7C9ep13E
 shortcode: kyrksptrks
 img: icons/person.svg
-portrait: images/being/kyrksptrks-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/kyrksptrks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 50
   birthday: 670/2/4
-  height:
-    m: 1.83
-  weight:
-    kg: 83.9
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 83.9
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: gray

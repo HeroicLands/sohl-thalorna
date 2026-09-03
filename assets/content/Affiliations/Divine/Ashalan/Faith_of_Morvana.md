@@ -1,4 +1,5 @@
 ---
+description: "Decay."
 aliases:
   - Faith of Mórváhñä
   - The Silent Keeper
@@ -9,30 +10,109 @@ tags:
   - decay
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Silent Keeper
+  symbol: A crescent moon cradling a wilting flower
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - morvahnadty
+  parents:
+    - ashanpnthn
+  relations:
     ashanpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Mórváhñä
   aliases: []
 shortcode: morvahna
-deity: Mórváhñä
-epithet: The Silent Keeper
-domain: Decay
-symbol: A crescent moon cradling a wilting flower
-pantheon: ashanpnthn
 alias: Mórváhñä, The Silent Keeper
 folder: 7so6UiPt445oIHWs
 ---
 
 Mórváhñä is the goddess of decay, endings, transformation, and renewal. She oversees the cycles of death and rebirth that turn the world, the slow dissolution of the ancient into the substrate from which the new will grow. She is the sister of [[affiliation-azravan|Ázráván]], but where Ázráván governs the soul's passage and the moment of transition, Mórváhñä governs the body's return and the dissolution of physical form back into its constituent elements. She is not feared as death is feared, nor is she honored with the ceremonial formality with which [[affiliation-ataros|Ātáröš]] is reverenced. Rather, Mórváhñä is acknowledged with quiet understanding: she is the necessary, inevitable, and ultimately compassionate principle through which the world maintains balance.
 
-The desert teaches the theology of Mórváhñä with brutal clarity. In the arid lands of [[doc-dunharargn|Dunhara Region]], [[doc-khzryndsrtrgn|Khazryn Desert Region]], and the wastes of southern [[doc-sultntmrdd|Amradad]], life blooms suddenly and violently in response to water, then withers with equal speed as the dry wind returns. A shepherd tends his flocks, knowing that each creature will eventually fall to predator, disease, or age. Their bones will bleach in the sun, their flesh will nourish scavengers, their dust will blow across the desert and settle into crevices where, years later, seeds will sprout. A merchant's warehouse is built, its goods carefully preserved against decay through wax and salt and careful stacking—yet inevitably, within decades or centuries, the building itself begins to crumble. Moisture seeps into wood, salt corrodes metal, leather stiffens and cracks. All things dissolve. The Āsháian desert peoples understand this not as tragedy but as natural law, and Mórváhñä is the goddess who presides over that law.
+The desert teaches the theology of Mórváhñä with brutal clarity. In the arid lands of [[place-dunharargn|Dunhara Region]], [[place-khzryndsrtrgn|Khazryn Desert Region]], and the wastes of southern [[affiliation-sultntmrdd|Amradad]], life blooms suddenly and violently in response to water, then withers with equal speed as the dry wind returns. A shepherd tends his flocks, knowing that each creature will eventually fall to predator, disease, or age. Their bones will bleach in the sun, their flesh will nourish scavengers, their dust will blow across the desert and settle into crevices where, years later, seeds will sprout. A merchant's warehouse is built, its goods carefully preserved against decay through wax and salt and careful stacking—yet inevitably, within decades or centuries, the building itself begins to crumble. Moisture seeps into wood, salt corrodes metal, leather stiffens and cracks. All things dissolve. The Āsháian desert peoples understand this not as tragedy but as natural law, and Mórváhñä is the goddess who presides over that law.
 
 Critically, Mórváhñä's decay is not the same as the chaos that [[affiliation-angaros|Ángáróš]] represents. Ángáróš seeks the dissolution of meaning itself, the unmaking of all value and structure into meaningless chaos. Mórváhñä's decay, by contrast, is part of the cosmic order that [[affiliation-ahurdaen|Āhúrdáén]] established. It follows patterns, cycles, rhythms. A tree decays and returns its nutrients to the soil; those nutrients feed new growth. An animal dies and becomes part of the ecosystem that supports other animals. A person's body dissolves and joins the eternal elements. This is not entropy in the sense of meaningless dissolution—it is transformation, the continuous recycling of matter and energy through endless cycles. To serve Mórváhñä is not to embrace the dissolution of meaning but to honor the necessity of change and transformation as part of a meaningful cosmos.
 
@@ -40,7 +120,7 @@ The symbol of Mórváhñä—a crescent moon cradling a wilting flower—capture
 
 ## Worship
 
-The worship of Mórváhñä differs significantly between settled and nomadic cultures, but in both contexts, it emphasizes acceptance and balance. In the great cities of [[doc-sultntmrdd|Amradad]], where life is more stable and decay can be partially held at bay through careful preservation, Mórváhñä is honored primarily by craftspeople and keepers of ancient knowledge. A master mason who builds to last centuries still acknowledges Mórváhñä, understanding that the structure will eventually crumble and that his art is not to deny decay but to delay it gracefully. A scholar who copies ancient texts does so with the knowledge that eventually even the finest parchment will crumble; their work is to preserve truth long enough for it to be passed to the next generation. A vintner ferments wine and watches it age, understanding that fermentation is itself a controlled form of decay—the transformation of grape into something new through the breaking-down of old structures.
+The worship of Mórváhñä differs significantly between settled and nomadic cultures, but in both contexts, it emphasizes acceptance and balance. In the great cities of [[affiliation-sultntmrdd|Amradad]], where life is more stable and decay can be partially held at bay through careful preservation, Mórváhñä is honored primarily by craftspeople and keepers of ancient knowledge. A master mason who builds to last centuries still acknowledges Mórváhñä, understanding that the structure will eventually crumble and that his art is not to deny decay but to delay it gracefully. A scholar who copies ancient texts does so with the knowledge that eventually even the finest parchment will crumble; their work is to preserve truth long enough for it to be passed to the next generation. A vintner ferments wine and watches it age, understanding that fermentation is itself a controlled form of decay—the transformation of grape into something new through the breaking-down of old structures.
 
 Worship of Mórváhñä involves quiet contemplation and the acceptance of impermanence. A devotee might sit in a meditation-chamber before an altar displaying objects at various stages of decay: a fresh flower, a partially wilted one, a dried husk, finally scattered petals returning to soil. The devotee watches the progression over days or weeks, seeing the process not as loss but as transformation. This practice is understood to teach the fundamental principle that Mórváhñä reveals: that change is not tragedy but necessity, that endings are not failures but transitions, that the death of one thing makes possible the birth of another.
 
@@ -60,7 +140,7 @@ The Hērbads of Mórváhñä are often herbalists, physicians, morticians, and k
 
 The Āthravāns training under Mórváhñä undergo a distinctive initiation. They spend extended time in the natural world, often in desert environments, witnessing decay firsthand. An initiate might camp for weeks near the carcass of a dead animal, observing and recording how it transforms through the work of insects, bacteria, scavengers, and weather. They study the layers of an ancient ruin, reading in the stratification of stone and soil the slow transformation of human architecture back into natural substance. They harvest and preserve foods, learning through hands-on practice how the processes of fermentation and drying are forms of controlled transformation rather than simple preservation.
 
-Notably, many of Mórváhñä's priests eventually become scholars and archivers, working to preserve knowledge even as they understand and accept that all preservation is temporary. The great libraries of [[doc-sultntmrdd|Amradad]] are overseen by priests of Mórváhñä who understand themselves to be engaged in a sacred task: keeping flames of knowledge alight long enough to illuminate the present, knowing that eventually those flames will gutter out and other flames must be kindled by those who come after.
+Notably, many of Mórváhñä's priests eventually become scholars and archivers, working to preserve knowledge even as they understand and accept that all preservation is temporary. The great libraries of [[affiliation-sultntmrdd|Amradad]] are overseen by priests of Mórváhñä who understand themselves to be engaged in a sacred task: keeping flames of knowledge alight long enough to illuminate the present, knowing that eventually those flames will gutter out and other flames must be kindled by those who come after.
 
 ## Relations
 

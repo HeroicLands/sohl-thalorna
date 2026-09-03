@@ -9,9 +9,30 @@ name:
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
 id: uIJSscPVcBwVMyGp
 img: icons/game-icons/lorc/scarab-beetle.svg
-portrait: images/being/ttnbtl-portrait.webp
 shortcode: ttnbtl
 type: being
+data:
+  portrait: images/being/ttnbtl-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

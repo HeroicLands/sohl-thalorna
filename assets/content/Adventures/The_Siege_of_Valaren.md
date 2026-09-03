@@ -9,8 +9,17 @@ name:
 shortcode: siegevalrn
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
@@ -20,7 +29,7 @@ The coastal [[City_of_Valaren|City of Válaren]] lies under blockade by forces u
 
 ## Overview
 
-Válaren, a crucial trading port on the [[doc-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of [[doc-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[doc-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.
+Válaren, a crucial trading port on the [[affiliation-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of [[affiliation-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.
 
 ## Stage One: Initial Investigation
 
@@ -54,7 +63,7 @@ The party must investigate the blockading ships and gather intelligence. They mi
 
 ## Stage Three: Uncovering the Conspiracy
 
-Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[doc-provenzrgn|Provènzia Region]]'s economy.
+Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provènzia Region]]'s economy.
 
 **Key Revelation:**
 
@@ -88,9 +97,9 @@ The party must devise and execute a plan to break the blockade. Options include:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
-- [[doc-vylarinmpr|Vylarian Empire]]
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]

@@ -4,6 +4,7 @@ aliases:
   - Lamushar Damruni
 tags:
   - draft
+  - administration
 name:
   full: Lamûshar Damrûnî
   title: ""
@@ -16,38 +17,33 @@ id: 8XFmoijes2YgGXI1
 folder: PuQFDMkRM9i60i5Z
 shortcode: lamshrdmrn
 img: icons/person.svg
-portrait: images/being/lamshrdmrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lamshrdmrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: noble
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - landedlordrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 45
   birthday: 679/10/12
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather briefcase for documents
-    - Legal documents
-    - writing materials
-    - trade agreements
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

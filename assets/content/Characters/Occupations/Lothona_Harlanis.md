@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Lôthônâ Hârlânis
   title: ""
@@ -16,23 +17,27 @@ id: PeOaAEAw3CjkGOM5
 folder: UFBfgKZUF0bAE7gG
 shortcode: lothnhrlns
 img: icons/person.svg
-portrait: images/being/lothnhrlns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lothnhrlns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - commonerrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 35
   birthday: 685/12/19
-  height:
-    m: 1.73
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.73
+  weight: 72
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: chestnut
@@ -40,17 +45,6 @@ traits:
     complexion: freckled
     extra_features:
       - calloused knuckles
-gear:
-  weapons:
-    - BrdSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
 sohl:
   archetype: null
   body:
@@ -507,12 +501,6 @@ sohl:
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 43 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

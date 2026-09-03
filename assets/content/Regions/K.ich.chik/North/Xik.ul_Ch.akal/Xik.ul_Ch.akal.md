@@ -13,15 +13,104 @@ shortcode: xikulchakl
 img: ""
 type: affiliation
 subType: polity
-capital: xikulchakl2
-terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
-parent:
-  regions:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: ""
+    ranks:
+      - level: 0
+        title: Exile
+        lore: outlawrnk
+        description: >-
+          Driven from the city and denied its ballcourt, its market and its rites; no lord will
+          take him and no kin will own him.
+      - level: 1
+        title: Captive
+        lore: slavernk
+        description: >-
+          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          no long future.
+      - level: 2
+        title: Commoner
+        lore: commonerrnk
+        description: >-
+          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          in maize, cloth and cacao.
+      - level: 3
+        title: Craftsman
+        lore: journeymanrnk
+        description: >-
+          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          to a lord's household or a temple.
+      - level: 4
+        title: Warrior
+        lore: warriorrnk
+        description: Taker of captives, whose standing rises with each one and whose dress records
+          them.
+      - level: 5
+        title: Scribe or Priest
+        lore: priestrnk
+        description: >-
+          Keeper of the count of days, the glyphs and the rites, without whom no lord may act
+          at an auspicious hour.
+      - level: 6
+        title: Ajaw
+        lore: greatlordrnk
+        description: A noble lord of the city, holding land, dependents and a place in the k'uhul
+          ajaw's court.
+      - level: 7
+        title: Sahal
+        lore: greatlordrnk
+        description: >-
+          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          of a conquered city's ruler.
+      - level: 8
+        title: K'uhul Ajaw
+        lore: sovereignrnk
+        description: >-
+          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar
+          and embodies it in war.
+    offices:
+      K'uhul Ajaw: >-
+        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns
+        sustains it.
+      Ix Ajaw: >-
+        Royal lady of the city, of a lineage recorded and married for, and a ruler in her
+        own right where the line requires it.
+      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
+      Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
+        hour.
+      Ah Ts'ib: >-
+        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert
+        them.
+      Nacom: War-leader appointed for a campaign, and set aside when it ends.
+      Batab: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
+        were his.
+      Ah Ppolom: >-
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        a lord's eyes abroad.
+      Ballcourt Keeper: >-
+        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
+        at once.
+  commonSkills: []
+  seat: xikulchakl2
+  domains:
     - nrthrnkchchk
-  continents:
-    - kchchkcntnnt
-peoples:
-  - human
+  population: null
+  economy: []
+  lore:
+    - humanflk
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
+terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
 folder: GdUiGeQ1tfZoJYbl
 ---
 
@@ -39,7 +128,7 @@ Xik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes rang
 
 The forests surrounding the waterways are mixed boreal and hardwood: spruce and pine provide shelter and materials, while maple, birch, and oak offer resources for tools, fuel, and food. The sugar maples of the southern portions of Ha'ik territory produce sap in spring, and the Ha'ik have developed elaborate syrup production and maple sugar crafting traditions that are traded throughout the northern frontier. The forests are productive in other ways as well; the Ha'ik gather roots, berries, nuts, and medicinal plants with systematic precision, and this botanical knowledge has developed into a sophisticated herbal medicine tradition that makes Ha'ik healers sought-after even by distant peoples.
 
-The western and southwestern borders of Xik'ul Ch'akal shade gradually into the prairie lands of [[doc-haxaman|Ha' Xaman]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Tz'okum maintain contested hunting grounds. The northwestern borders meet [[doc-kiximtzul|K'ixim Tzul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[doc-hanalxilan|Ha'nal Xi'lan]]'s contested rivers, and the southeastern approaches [[doc-tzumanotun|Tz'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them — conducted entirely outside K'ich'chik knowledge or participation.
+The western and southwestern borders of Xik'ul Ch'akal shade gradually into the prairie lands of [[affiliation-haxaman|Ha' Xaman]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Tz'okum maintain contested hunting grounds. The northwestern borders meet [[affiliation-kiximtzul|K'ixim Tzul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[affiliation-hanalxilan|Ha'nal Xi'lan]]'s contested rivers, and the southeastern approaches [[affiliation-tzumanotun|Tz'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them — conducted entirely outside K'ich'chik knowledge or participation.
 
 ## The Ha'ik Tz'aqalil
 
@@ -59,7 +148,7 @@ The Ha'ik appear less reliant on southern trade than some of the other northern 
 
 ## See Also
 
-- [[doc-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the west
-- [[doc-kiximtzul|K'ixim Tzul]] — The Bear People's boreal forests to the northwest
-- [[doc-tzumanotun|Tz'uma No'tun]] — The Serpent People's southern territories, connected via river routes
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the south where Ha'ik, Tz'okum, and Ch'aqun meet
+- [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the west
+- [[affiliation-kiximtzul|K'ixim Tzul]] — The Bear People's boreal forests to the northwest
+- [[affiliation-tzumanotun|Tz'uma No'tun]] — The Serpent People's southern territories, connected via river routes
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the south where Ha'ik, Tz'okum, and Ch'aqun meet

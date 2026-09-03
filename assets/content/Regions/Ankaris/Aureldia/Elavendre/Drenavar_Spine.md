@@ -7,15 +7,18 @@ aliases:
 id: Vb3c2kCmZT3k4wIa
 type: place
 subType: region
+data:
+  demonym: null
+  lore: []
+  parents:
+    - alndntrblnds
+  population: null
 name:
   full: The Drenavar Spine
   aliases:
     - The Drenavar
     - Drenavar Mountains
 shortcode: drenavrspn
-parent:
-  regions:
-    - alndntrblnds
 terran_analog: "The Swiss Alps and adjacent French Alpine massifs — the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
 folder: drAoDoNnFEygATeK
 ---
@@ -23,15 +26,15 @@ folder: drAoDoNnFEygATeK
 # The Drenavar Spine
 
 - **Type:** Sacred mountain range
-- **Region:** Interior [[doc-elavendre|Élavendre]]
-- **Controlled by:** [[doc-aelendnppl|Áelendan]]
+- **Region:** Interior [[place-elavendre|Élavendre]]
+- **Controlled by:** [[lore-aelendnppl|Áelendan]]
 - **Guardians:** [[affiliation-alndnwrdns|Áelendan Wardens]]
 
 ## Overview
 
-The **Drenavar Spine** is the central sacred mountain range of [[doc-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[doc-aelendnppl|Áelendan]] territory — the land in which the Covenant is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of Élavendre recognizes Áelendan sovereignty over the mountains by ancient law.
+The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan]] territory — the land in which the Covenant is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of Élavendre recognizes Áelendan sovereignty over the mountains by ancient law.
 
-The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the **[[doc-vylarinmpr#The Cervaron Spine|Cervaron Spine]]** — the contested Vylarian frontier range — and south into the **[[doc-alndntrblnds#The Tarvénan Diaspora|Toravar Range]]** that runs along the northern Tarvénan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Cervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
+The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the **[[affiliation-vylarinmpr#The Cervaron Spine|Cervaron Spine]]** — the contested Vylarian frontier range — and south into the **[[place-alndntrblnds#The Tarvénan Diaspora|Toravar Range]]** that runs along the northern Tarvénan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Cervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
 ## Geography
 
@@ -47,11 +50,11 @@ The Drenavar Spine contains many of the most significant sacred sites of the Áe
 - **Mountain sanctuaries** — High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Covenant pledges.
 - **Sacred springs and lakes** — Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
 
-The [[doc-silvrfrsts|Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.
+The [[place-silvrfrsts|Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.
 
-## [[doc-eshalshldg|Eshálosha Lodge]]
+## [[place-eshalshldg|Eshálosha Lodge]]
 
-[[doc-eshalshldg|Eshálosha Lodge]] — the principal settlement of the Áelendan and the center of their political and ceremonial life — is located in a sheltered valley within the Drenavar range. The Lodge is the seat of the tribal councils and the traditional gathering place for seasonal ceremonies.
+[[place-eshalshldg|Eshálosha Lodge]] — the principal settlement of the Áelendan and the center of their political and ceremonial life — is located in a sheltered valley within the Drenavar range. The Lodge is the seat of the tribal councils and the traditional gathering place for seasonal ceremonies.
 
 ## Access and Restrictions
 
@@ -65,10 +68,10 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 
 ## See Also
 
-- [[doc-aelendnppl|Áelendan]] — The people who inhabit and protect the mountains
+- [[lore-aelendnppl|Áelendan]] — The people who inhabit and protect the mountains
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that patrols the sacred sites
-- [[doc-eshalshldg|Eshálosha Lodge]] — The principal Áelendan settlement
-- [[doc-silvrfrsts|The Silver Forests]] — The fae-touched woodland at the mountains' edge
-- [[doc-elavendre|Élavendre]] — The kingdom whose interior contains the Drenavar
-- [[doc-vylarinmpr#The Cervaron Spine|The Cervaron Spine]] — The contested eastern arm of the same Áelendan sacred uplift
-- [[doc-graznmntns|The Grazian Mountains]] — A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Khazri folk-confusion)
+- [[place-eshalshldg|Eshálosha Lodge]] — The principal Áelendan settlement
+- [[place-silvrfrsts|The Silver Forests]] — The fae-touched woodland at the mountains' edge
+- [[place-elavendre|Élavendre]] — The kingdom whose interior contains the Drenavar
+- [[affiliation-vylarinmpr#The Cervaron Spine|The Cervaron Spine]] — The contested eastern arm of the same Áelendan sacred uplift
+- [[place-graznmntns|The Grazian Mountains]] — A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Khazri folk-confusion)

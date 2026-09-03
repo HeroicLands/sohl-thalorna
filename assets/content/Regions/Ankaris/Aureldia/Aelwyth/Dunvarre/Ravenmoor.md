@@ -2,23 +2,21 @@
 aliases:
   - Ravenmoor
 id: mwtTAWXEPhrvwxHS
+tags:
+  - settlement
+description: "Moorland Settlement"
 type: place
 subType: settlement
-settlementType: "Moorland Settlement"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aelwyth
+  population: null
 name:
   full: Ravenmoor
   aliases: []
 shortcode: ravenmoor
-parent:
-  polities:
-    - kingdmdnvr
 folder: ZbE1NQo3ApZ26xon
 ---
 

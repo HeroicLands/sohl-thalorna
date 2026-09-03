@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Vélaria Óthral
   title: ""
@@ -17,40 +18,33 @@ id: OodgAvTEgRXia9J7
 folder: 4cwfdMa34UryZqPR
 shortcode: velarithrl
 img: icons/person.svg
-portrait: images/being/velarithrl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/velarithrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 29
   birthday: 695/1/11
-  height:
-    m: 1.8
-  weight:
-    kg: 67
-  build:
-    frame: medium
+  height: 1.8
+  weight: 67
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: blonde
     skin_color: medium
     complexion: fair
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - LRobe
-    - LtShoe
-  misc:
-    - bgsmcvs
-    - Bandg
-    - dried herbs and poultices
-    - charcoal and parchment for drawing
-    - wooden flute
 sohl:
   archetype: null
   body:
@@ -531,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 51 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

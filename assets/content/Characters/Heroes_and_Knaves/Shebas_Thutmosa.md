@@ -3,6 +3,8 @@ aliases:
   - Shebas Thutmosa
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Shebas Thutmosa
   title: ""
@@ -15,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: shebsthtms
 img: icons/person.svg
-portrait: images/being/shebsthtms-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/shebsthtms-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 34
   birthday: 686/5/21
-  height:
-    m: 1.7
-  weight:
-    kg: 61.2
-  build:
-    frame: light
+  height: 1.7
+  weight: 61.2
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left arm
 sohl:
@@ -568,7 +567,7 @@ sohl:
     - { shortcode: wtrskin, type: containergear }
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -578,7 +577,7 @@ Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shebas was born in the capital city of the Empire of [[doc-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thutmosa family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thutmosa family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shebas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named **Meshara the Wise**, a woman of legendary skill who had served the city's poor for decades.
 

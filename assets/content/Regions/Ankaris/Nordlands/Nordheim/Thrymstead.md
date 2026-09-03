@@ -2,23 +2,22 @@
 aliases:
   - Thrymstead
 id: WNKSFrK83yr8xKyA
+tags:
+  - town
+  - fortified
+description: "Fortified Town"
 type: place
 subType: settlement
-settlementType: "Fortified Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Thrymstead
   aliases: []
 shortcode: thrymstead
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Atenheru Sahri
   title: ""
@@ -17,34 +18,31 @@ id: Nm9WhaLkJEPn02Ho
 folder: kCKYObmsvraIezCd
 shortcode: atenhershr
 img: icons/person.svg
-portrait: images/being/atenhershr-portrait.webp
 type: being
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-social:
+data:
+  portrait: images/being/atenhershr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: male
+  species: null
   age: 41
   birthday: 679/2/29
-  height:
-    m: 1.88
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.88
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: olive_tanned
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

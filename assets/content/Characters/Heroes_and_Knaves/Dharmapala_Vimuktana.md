@@ -5,6 +5,7 @@ aliases:
   - Dharmapala Vimuktana
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Dharmàpala Vimuktaṇa
   title: ""
@@ -16,34 +17,31 @@ id: dhCoCEo0H7FWyMlT
 folder: JotxZnnXcTECeYW3
 shortcode: dhrmplvmkt
 img: icons/person.svg
-portrait: images/being/dhrmplvmkt-portrait.webp
 type: being
-thalorna:
-  realm: dhnrktjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/dhrmplvmkt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - dhnrktjnpd
   gender: male
+  species: null
   age: 33
   birthday: 687/2/19
-  height:
-    m: 1.85
-  weight:
-    kg: 78.9
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78.9
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: warm_golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a flower on the ankle
 sohl:

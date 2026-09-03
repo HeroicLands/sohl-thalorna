@@ -5,6 +5,8 @@ aliases:
   - Patnefur Setmaar
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Pat'nefur Set'maâr
   title: ""
@@ -17,34 +19,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: patnfrstmr
 img: icons/person.svg
-portrait: images/being/patnfrstmr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/patnfrstmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/6/7
-  height:
-    m: 1.7
-  weight:
-    kg: 62.6
-  build:
-    frame: medium
+  height: 1.7
+  weight: 62.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left side of the neck
 sohl:
@@ -568,7 +567,7 @@ sohl:
     - { shortcode: bgsmcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -588,7 +587,7 @@ At twenty-two years of age, Patnefur achieved his first true triumph: a fragranc
 
 **Current Mastery**
 
-Now at the height of his powers, Patnefur operates one of the most sought-after perfumeries in all of [[doc-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking something that will define their identity. His creations are not merely pleasant to smell; they are considered transformative, capable of altering mood and perception through the power of scent alone.
+Now at the height of his powers, Patnefur operates one of the most sought-after perfumeries in all of [[affiliation-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking something that will define their identity. His creations are not merely pleasant to smell; they are considered transformative, capable of altering mood and perception through the power of scent alone.
 
 ## Psyche
 

@@ -5,6 +5,8 @@ aliases:
   - Dometh Graveth
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Dómeth Gráveth
   title: ""
@@ -16,29 +18,26 @@ id: 4V407t5CS3PWmdoC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: domthgrvth
 img: icons/person.svg
-portrait: images/being/domthgrvth-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/domthgrvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 49
   birthday: 671/7/15
-  height:
-    m: 1.8
-  weight:
-    kg: 79.8
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 79.8
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black

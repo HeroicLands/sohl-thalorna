@@ -10,9 +10,30 @@ name:
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
 id: JYYfIP5IvvkQ0oJK
 img: icons/game-icons/delapouite/rat.svg
-portrait: images/being/giantrat-portrait.webp
 shortcode: giantrat
 type: being
+data:
+  portrait: images/being/giantrat-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0
@@ -284,7 +305,7 @@ The torch catches a pair of eyes in the dark — low, reddish, reflecting the fl
 
 # Dossier {#dossier}
 
-The Giant Rat is the universal vermin of civilization — a dog-sized rodent weighing twenty to fifty pounds that infests sewers, cellars, ruins, ship holds, granaries, and anywhere else that darkness and food waste intersect. They are found across every continent and in every settlement large enough to produce garbage. Giant rats are not natural animals — they are the product of magical contamination, alchemical runoff, or simply the accelerated evolution that occurs wherever large quantities of arcane waste accumulate near grain stores. Whatever their origin, they are now permanently established in the ecology of every major city in [[doc-ankrscntnnt|Ankaris Continent]] and beyond. Individually, a giant rat is a nuisance — aggressive enough to bite, fast enough to be difficult to hit, but too small to pose a serious threat to an armed adult. In packs, they are genuinely dangerous. A dozen giant rats swarming from the darkness in a confined space can overwhelm and kill an armored warrior through sheer numbers, each bite tearing a small wound that bleeds and festers. Giant rats are the first serious combat encounter many adventurers face, and veterans who dismiss them as trivial tend to accumulate scars and infections that teach respect.
+The Giant Rat is the universal vermin of civilization — a dog-sized rodent weighing twenty to fifty pounds that infests sewers, cellars, ruins, ship holds, granaries, and anywhere else that darkness and food waste intersect. They are found across every continent and in every settlement large enough to produce garbage. Giant rats are not natural animals — they are the product of magical contamination, alchemical runoff, or simply the accelerated evolution that occurs wherever large quantities of arcane waste accumulate near grain stores. Whatever their origin, they are now permanently established in the ecology of every major city in [[place-ankrscntnnt|Ankaris Continent]] and beyond. Individually, a giant rat is a nuisance — aggressive enough to bite, fast enough to be difficult to hit, but too small to pose a serious threat to an armed adult. In packs, they are genuinely dangerous. A dozen giant rats swarming from the darkness in a confined space can overwhelm and kill an armored warrior through sheer numbers, each bite tearing a small wound that bleeds and festers. Giant rats are the first serious combat encounter many adventurers face, and veterans who dismiss them as trivial tend to accumulate scars and infections that teach respect.
 
 ## Presentation
 

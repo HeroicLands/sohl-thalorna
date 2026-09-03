@@ -5,6 +5,7 @@ aliases:
   - Bazudar Shahrun
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Bazûdar Shahrûn
   title: ""
@@ -16,29 +17,26 @@ id: wjLn1VqrmO3CHSZU
 folder: heI5Ky6Kqmb61L6c
 shortcode: bazdrshhrn
 img: icons/person.svg
-portrait: images/being/bazdrshhrn-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/bazdrshhrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: male
+  species: null
   age: 45
   birthday: 675/2/8
-  height:
-    m: 1.91
-  weight:
-    kg: 83
-  build:
-    frame: medium
+  height: 1.91
+  weight: 83
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: black

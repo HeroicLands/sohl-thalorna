@@ -4,6 +4,7 @@ aliases:
   - Raiya Wasetneb
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Raiya Waset'neb
   title: Nebet
@@ -16,34 +17,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiyawstnb
 img: icons/person.svg
-portrait: images/being/raiyawstnb-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/raiyawstnb-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Courtier)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 27
   birthday: 693/6/15
-  height:
-    m: 1.73
-  weight:
-    kg: 64.9
-  build:
-    frame: light
+  height: 1.73
+  weight: 64.9
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -561,7 +559,7 @@ sohl:
     - { shortcode: bgsmcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -571,7 +569,7 @@ Raiya stands 5'8" tall with a light build. She has dark skin, black hair, and da
 
 **A Daughter of Privilege**
 
-**Raiya** was born into the House of Wasetneb, one of the oldest and most respected noble families in the Empire of [[doc-empirtkhpr|Ta'Kheperu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased **Lord Amunet Wasetneb**, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, **Lady Seneb Wasetneb** (née Khenti), brought connections to the military elite through her own lineage. From childhood, **Raiya** was groomed for the courtier's life: trained in languages, the arts, diplomatic protocols, and the intricate mathematics of noble alliance-building.
+**Raiya** was born into the House of Wasetneb, one of the oldest and most respected noble families in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased **Lord Amunet Wasetneb**, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, **Lady Seneb Wasetneb** (née Khenti), brought connections to the military elite through her own lineage. From childhood, **Raiya** was groomed for the courtier's life: trained in languages, the arts, diplomatic protocols, and the intricate mathematics of noble alliance-building.
 
 **Cultivation of Influence Through Compassion**
 

@@ -5,6 +5,7 @@ aliases:
   - Snorri Jarnskel
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Snorri Járnskel
   title: ""
@@ -16,29 +17,26 @@ id: k4JEKZEOQVEktuMQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: snorjrnskl
 img: icons/person.svg
-portrait: images/being/snorjrnskl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/snorjrnskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: unfree
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - slavernk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 31
   birthday: 689/4/17
-  height:
-    m: 1.91
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown

@@ -5,6 +5,7 @@ aliases:
   - Mithran Mazanid
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Mithran Mazânid
   title: ""
@@ -16,29 +17,26 @@ id: DgnJDWv2gTRRXzJJ
 folder: V1t8DVX0wKSOCJd5
 shortcode: mithrnmznd
 img: icons/person.svg
-portrait: images/being/mithrnmznd-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/mithrnmznd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: male
+  species: null
   age: 38
   birthday: 682/6/27
-  height:
-    m: 1.85
-  weight:
-    kg: 82.6
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown

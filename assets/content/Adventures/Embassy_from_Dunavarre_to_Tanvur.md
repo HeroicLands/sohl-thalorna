@@ -8,14 +8,23 @@ name:
 shortcode: embsydnvrtnvr
 type: scenario
 subType: adventure
-thalorna:
-  region: aelwyth
+data:
+  parents: []
+  locations:
+    - aelwyth
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
 
-**Central Mission:** The objective is for the [[doc-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[doc-tanvurempr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[doc-vylarinmpr|Vylarian Empire]] as an intermediary, and the king is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tanvurempr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[affiliation-vylarinmpr|Vylarian Empire]] as an intermediary, and the king is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
 
 ## Ambassador’s Party Members
 
@@ -122,7 +131,7 @@ Name: [[Geldar_Panivel_the_Younger|Geldar Panivel, the Younger]]
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.
-- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[Baloth Nemirina]], a [[doc-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
+- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[Baloth Nemirina]], a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 
@@ -175,7 +184,7 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 
 ## Adventure 1: The Heart of Dhiríkri
 
-Central Plot: The mission arrives at [[doc-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, Alananor Enéwyn, expresses interest in sending a party to the Lællyn to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, Alananor Enéwyn, expresses interest in sending a party to the Lællyn to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Leader of Panepistemium:
 

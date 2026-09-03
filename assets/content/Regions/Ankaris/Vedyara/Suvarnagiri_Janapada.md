@@ -16,31 +16,115 @@ name:
     - The Janapada of the Gold Mountain
 id: S5gNwK8vRpQ3jLxZ
 shortcode: suvrgrjnpd
-population: "~35,000"
 subType: polity
-capital: suvaragiri
-demonym: Suvarnagiri
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Suvarnagiri
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the
+      senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri.
+      Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant
+      guilds collectively send twelve; the three temples send two each. Decisions on gold-related
+      questions — extraction, taxation, allocation of the temple-share — require a three-quarters
+      majority, a deliberate constitutional brake against the concentration of mineral wealth.
+    ranks:
+      - level: 0
+        title: Outcaste
+        lore: excmmnctrnk
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        lore: bondservantrnk
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        lore: commonerrnk
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        lore: gentryrnk
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        lore: warriorrnk
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        lore: priestrnk
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        lore: greatlordrnk
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        lore: heirrnk
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        lore: sovereignrnk
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices:
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+        perform.
+      Rājñī: The chief queen, holding her own revenues, household and voice at court.
+      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
+      Mantrin: Minister of the crown, one of the small council through which the kingdom is
+        actually run.
+      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
+      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
+        minister's.
+      Senāpati: Commander of the host, holding the martial council's confidence as well as
+        the king's.
+      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+        mint.
+      Sāmanta: >-
+        A vassal chieftain holding land in return for service, and the kingdom's chief source
+        of both strength and rebellion.
+      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
+        the passes.
+      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+  commonSkills:
+    - vedyarlng
+  seat: suvaragiri
+  domains:
     - vedyarargn
-  polities:
+  population: 35000
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  lore:
+    - humanflk
+  parents:
     - janpdsvdyr
-government:
-  type: confederation
-  summary: Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri. Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions — extraction, taxation, allocation of the temple-share — require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  relations:
+    varakpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain. It is one of the wealthier and more institutionally elaborate janapadas of the [[doc-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom.
+The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom.
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
@@ -80,7 +164,7 @@ A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at e
 
 ## Economy
 
-Beyond the gold, Suvarṇagiri's economy includes the standard Vedyari upland agricultural mix (millet, mountain rice, pulses, certain temperate fruits that don't grow on the lowland plain), an unusually well-developed metallurgical tradition (the local iron-smelting work, fed by gold-byproduct knowledge, is some of the best in inland Vedyara), and a thriving jeweler's quarter at Lower Suvarṇagiri whose work — using both the local gold and gemstones imported from [[doc-chandrapur|Chandrapur]] — has a continental reputation, second only to Chandrapur's own.
+Beyond the gold, Suvarṇagiri's economy includes the standard Vedyari upland agricultural mix (millet, mountain rice, pulses, certain temperate fruits that don't grow on the lowland plain), an unusually well-developed metallurgical tradition (the local iron-smelting work, fed by gold-byproduct knowledge, is some of the best in inland Vedyara), and a thriving jeweler's quarter at Lower Suvarṇagiri whose work — using both the local gold and gemstones imported from [[affiliation-chandrapur|Chandrapur]] — has a continental reputation, second only to Chandrapur's own.
 
 The janapada exports gold (about half of annual extraction is sold or traded to the wider Vedyari economy, generating the cash that funds many of the common-share expenditures), iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahájaya tradition. It imports textiles, books, gemstones, salt, and the various luxuries the wealthier Suvarnagiri can afford within their constitutional caps.
 
@@ -98,17 +182,17 @@ The reinforcements are the more important defense. Suvarṇagiri maintains forma
 
 **The Twenty-Eight**, the collective designation of the heads of the twenty-eight hereditary panning-families. They meet quarterly to coordinate their work, settle inter-family disputes, and present a united view to the sabhā on questions affecting the panning regime. They are not technically a constitutional body, but they have a recognized voice in any sabhā discussion of panning-related matters and their joint pronouncements carry weight.
 
-**Padmavali Dhanurvedakirtiraja**, the most prominent recent Suvarnagiri-born scholar to have made a name in the wider Vedyari classical tradition. Currently teaching at one of the great academies of [[doc-chandrapur|Chandrapur]]; her commentary on the Suvarnagiri Gold Constitution is one of the major recent contributions to Vedyari political-philosophical literature.
+**Padmavali Dhanurvedakirtiraja**, the most prominent recent Suvarnagiri-born scholar to have made a name in the wider Vedyari classical tradition. Currently teaching at one of the great academies of [[affiliation-chandrapur|Chandrapur]]; her commentary on the Suvarnagiri Gold Constitution is one of the major recent contributions to Vedyari political-philosophical literature.
 
 ## Commerce and Currency
 
-Suvarṇagiri Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-suvaragiri|Suvarṇagiri]] — the central town settlement note
-- [[doc-chandrapur|Chandrapur]] — major trading partner
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-suvaragiri|Suvarṇagiri]] — the central town settlement note
+- [[affiliation-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

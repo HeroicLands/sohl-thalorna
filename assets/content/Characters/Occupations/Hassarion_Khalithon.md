@@ -4,6 +4,7 @@ aliases:
   - Hassarion Khalithon
 tags:
   - draft
+  - administration
 name:
   full: Hassârìon Khalîthôn
   title: Lord
@@ -16,39 +17,33 @@ id: 4fetzTUEHAXA0Kei
 folder: gpXd1anXulwRWZqn
 shortcode: hsrnkhlthn
 img: icons/person.svg
-portrait: images/being/hsrnkhlthn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hsrnkhlthn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Tenant-in-chief)
-  station: administration
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - kostaros2
   gender: male
+  species: null
   age: 48
   birthday: 676/4/20
-  height:
-    m: 1.88
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black
     skin_color: olive
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Longsword
-  armor:
-    - Plate armor suitable for battle
-  misc:
-    - Large chest for documents
-    - Battle standard
-    - military maps
-    - personal effects
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: kostaros2
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

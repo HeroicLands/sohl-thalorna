@@ -7,12 +7,87 @@ tags:
   - hex-hodai
 type: affiliation
 subType: arcanetradition
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: meritocracy
+    summary: >-
+      Advancement by degree of initiation, with a body of elders deciding what is taught and
+      who is admitted.
+    ranks:
+      - level: 0
+        title: Anathema
+        lore: excmmnctrnk
+        description: >-
+          Named against the tradition and cut off from its teaching, its protection and its
+          company; what it taught them is not taken back.
+      - level: 1
+        title: Uninitiated
+        lore: catechumenrnk
+        description: Outside the tradition entirely — served by it, feared by it, and told nothing.
+      - level: 2
+        title: Aspirant
+        lore: catechumenrnk
+        description: Petitioning for admission and being watched to see whether it should be
+          granted.
+      - level: 3
+        title: Initiate
+        lore: initiaternk
+        description: >-
+          Received into the tradition and bound by its oaths, holding its first mysteries and
+          few of its secrets.
+      - level: 4
+        title: Adept
+        lore: masterrnk
+        description: Practised in the tradition's art and trusted to work it unsupervised.
+      - level: 5
+        title: Master of the Art
+        lore: masterrnk
+        description: Competent to teach the tradition and to answer for what a pupil does with
+          it.
+      - level: 6
+        title: Keeper of the Tradition
+        lore: highpriestrnk
+        description: >-
+          Holding one of its bodies of knowledge or one of its houses, and answerable for its
+          continuance.
+      - level: 7
+        title: Elder
+        lore: elderrnk
+        description: Of the small body that decides what the tradition teaches and whom it admits.
+      - level: 8
+        title: First of the Tradition
+        lore: grandmasterrnk
+        description: >-
+          Presiding over the elders and speaking for the whole tradition where it must speak
+          with one voice.
+    offices:
+      First of the Tradition: Presiding elder, who speaks for the tradition where it must
+        speak with one voice.
+      Elder: Of the body that decides doctrine, admission and expulsion.
+      Magister: Master of a school, holding its teaching, its pupils and its reputation.
+      Preceptor: Charged with the instruction of initiates, and with judging when they are
+        ready.
+      Keeper of the Grimoires: Warden of the tradition's written work, and of who may read
+        which part of it.
+      Warden of the Threshold: Examiner of aspirants, and the last check before an oath is
+        taken.
+      Quaesitor: Investigator of the tradition's own — unlicensed practice, broken oaths,
+        and worse.
+      Bursar: Keeper of the tradition's endowment, its houses and its stipends.
+      Envoy: The tradition's representative to a court or a rival school.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 id: YiDdtbTWX3I7nh0J
 img: images/affiliation/kentra.webp
@@ -26,11 +101,11 @@ adjacent: all
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-**Kentra** is not a seventh Eídma of the [[doc-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the centre of the [[doc-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
+**Kentra** is not a seventh Eídma of the [[lore-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the centre of the [[lore-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
 
 ## The Nature of Kentra
 
-Every mage in the Ordo begins their training within a single Eídma. The Héx Hodäi is structured this way deliberately: by attuning a student to a single current of the [[doc-hexhodai#Dýnaris and Morphís|Dýnaris]], the framework accelerates their mastery of that Eídma's principles and Morphís. A Pyréthos mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood — the student gains mastery of their Eídma at the cost of increasing alienation from the opposing Eídma — and the Ordo considers this an acceptable bargain. Most mages spend their entire careers within the Eídma that claimed them as Initiati, and most are content to do so.
+Every mage in the Ordo begins their training within a single Eídma. The Héx Hodäi is structured this way deliberately: by attuning a student to a single current of the [[lore-hexhodai#Dýnaris and Morphís|Dýnaris]], the framework accelerates their mastery of that Eídma's principles and Morphís. A Pyréthos mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood — the student gains mastery of their Eídma at the cost of increasing alienation from the opposing Eídma — and the Ordo considers this an acceptable bargain. Most mages spend their entire careers within the Eídma that claimed them as Initiati, and most are content to do so.
 
 But a few are not content, and a very few are _capable_ of something more. Over years or decades of practice, certain mages begin to extend their attunement — first to an adjacent Eídma whose current shares qualities with their own, then to a second, then in rare cases to all six. Each extension is the work of years. Each requires the mage to learn a new repertoire of Morphís, to develop sensitivity to a current they have spent their career learning to ignore, and to hold the new attunement without losing the old. Most who attempt the work fail at one or another stage, settling into a partial mastery that the Ordo respects but does not consider Kentra. A very few succeed entirely, achieving fluency across the full Sigillum.
 
@@ -71,7 +146,7 @@ The Ordo recognises a tragic but well-documented affliction among the most advan
 
 The Ordo's understanding of Vertigo Hodäi is presented with great compassion and authority: the human mind was not made to hold all six Eídmata simultaneously over the long term. The cognitive burden of sustained Kentra practice is simply too great for most practitioners. A few exceptional minds achieve true Kentra and remain stable; others, despite their gifts, are eventually broken by the weight of the work. This is framed as a tragic but understood occupational hazard — a reason for caution in pursuing Kentra at the most advanced levels, and a reason to defer to the Ordo's careful guidance about who is ready to attempt what.
 
-Mages diagnosed with Vertigo Hodäi are evaluated by a panel of senior Magistri convened for the purpose, and — once the diagnosis is confirmed — are removed from active practice. They are placed in one of the Ordo's residential houses: comfortable, well-staffed institutions, often near older Helionite sanctuaries or in the gentler countryside of provinces like [[doc-provnchyln|Hylen]]. The houses are not prisons. The doors are not locked. The afflicted mage may read, write, walk in the gardens, receive visitors. They are looked after by Ordo-trained healers of genuine kindness. They simply never leave. Their writings do not circulate. They are gently but firmly discouraged from speaking about magic at all.
+Mages diagnosed with Vertigo Hodäi are evaluated by a panel of senior Magistri convened for the purpose, and — once the diagnosis is confirmed — are removed from active practice. They are placed in one of the Ordo's residential houses: comfortable, well-staffed institutions, often near older Helionite sanctuaries or in the gentler countryside of provinces like [[affiliation-provnchyln|Hylen]]. The houses are not prisons. The doors are not locked. The afflicted mage may read, write, walk in the gardens, receive visitors. They are looked after by Ordo-trained healers of genuine kindness. They simply never leave. Their writings do not circulate. They are gently but firmly discouraged from speaking about magic at all.
 
 The Ordo's care for its afflicted is sincere, in the only way the Ordo knows how to be sincere: institutionally, paternally, and absolutely.
 
@@ -109,7 +184,7 @@ A few have escaped. A very few have found their way to foreign teachers. What be
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-pyrethos|Eídma Pyréthos]] — Fire
 - [[affiliation-hydalis|Eídma Hydälis]] — Water
 - [[affiliation-zepharis|Eídma Zephäris]] — Air

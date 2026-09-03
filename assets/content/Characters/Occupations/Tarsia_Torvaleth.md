@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Társia Torvaleth
   title: ""
@@ -16,23 +17,27 @@ id: 1eoPni6JDWYlgAAC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tarstrvlth
 img: icons/person.svg
-portrait: images/being/tarstrvlth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tarstrvlth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 26
   birthday: 694/7/24
-  height:
-    m: 1.85
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: honey_brown
     hair_color: auburn
@@ -40,20 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - crooked nose
-gear:
-  weapons:
-    - Scmtr:1
-    - LtVest:1
-    - RndSh:1
-  armor:
-    - LtVest:1
-    - LtShirt:1
-    - Bandg:5
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
 sohl:
   archetype: null
   body:
@@ -510,12 +501,6 @@ sohl:
     - { shortcode: ridg, type: skill, system: { masteryLevelBase: 27 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 20 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

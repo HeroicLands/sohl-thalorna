@@ -9,9 +9,30 @@ name:
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."
 id: 7z21KuX3vzQ2XC2E
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/lrgspdr-portrait.webp
 shortcode: lrgspdr
 type: being
+data:
+  portrait: images/being/lrgspdr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

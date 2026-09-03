@@ -6,12 +6,22 @@ aliases:
 id: d9BoTVxtuL3YRqgD
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 name:
   full: Maul of Gashang
   aliases: []
 shortcode: maulgashng
-thalorna:
-  region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
 ---
 

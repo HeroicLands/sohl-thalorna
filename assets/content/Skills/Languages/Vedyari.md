@@ -29,7 +29,7 @@ Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Vedyari is the primary tongue of the [[doc-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari—used in sacred texts, legal documents, and formal ceremonies—differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
+Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari—used in sacred texts, legal documents, and formal ceremonies—differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
 
 Vedyari speakers are found throughout the city-states and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
 

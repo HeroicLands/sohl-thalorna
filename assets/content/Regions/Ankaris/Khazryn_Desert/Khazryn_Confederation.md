@@ -15,37 +15,123 @@ name:
     - Princes of the Khazryn
 id: Q9XLm5Jr3wD8nKvT
 shortcode: khzrncnfdrtn
-population: "~2,000,000"
 subType: polity
-capital: oasishirvn
-demonym: Khazryn
-government:
-  type: confederation
-  summary: League of seven princely houses (three still-ruling on peripheral oases, four in exile from the Ātárzád-conquered cities), bound by ancient compact and presided over by the senior High Mōbad of Āhúrdáén in the Sultanate of Amradad as neutral convenor. The Council of the Princes meets annually at Amradad to coordinate diplomacy, manage the diaspora, dispute Ātárzád encroachments, and maintain the genealogies and claims of the dispossessed houses.
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Khazryn
+  epithet: null
+  symbol: null
+  governance:
+    model: confederation
+    summary: >-
+      A Council of the Princes of seven houses — three still ruling their oases, four ruling
+      in exile at Amradad — which coordinates a common diplomatic position and does not govern.
+    ranks:
+      - level: 0
+        title: Blood-Debtor
+        lore: outlawrnk
+        description: >-
+          Under an unsettled feud and outside the confederation's protection until it is paid
+          or avenged.
+      - level: 1
+        title: Bondservant
+        lore: bondservantrnk
+        description: >-
+          Bound in service or debt to a house, and answerable through it rather than in his
+          own name.
+      - level: 2
+        title: Subject
+        lore: commonerrnk
+        description: >-
+          Of the peoples the houses ruled and rule, owing dues and labour and holding no place
+          in the Council.
+      - level: 3
+        title: Kinsman of a House
+        lore: kinsmanrnk
+        description: >-
+          Of a princely house's blood or sworn following, entitled to its protection and its
+          quarrels.
+      - level: 4
+        title: Retainer
+        lore: dependentrnk
+        description: >-
+          Holding a charge in a house's service — its caravans, its guards, its correspondence,
+          its exile courts.
+      - level: 5
+        title: Mōbad
+        lore: priestrnk
+        description: Ordained to the fire and the law, keeping the rites the Catastrophe did
+          not extinguish.
+      - level: 6
+        title: Elder of a House
+        lore: elderrnk
+        description: Senior of a princely house, whose counsel binds its head in practice if
+          not in form.
+      - level: 7
+        title: Prince of a House
+        lore: councillorrnk
+        description: >-
+          Head of one of the seven houses — three still ruling, four ruling in exile, and all
+          seven seated at the Council.
+      - level: 8
+        title: First of the Seven
+        lore: prsdngffcrrnk
+        description: >-
+          The senior house's prince, who speaks first at the Council by long custom and commands
+          nothing by it.
+    offices:
+      Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining
+        a court in exile.
+      First of the Seven: The senior prince, entitled by custom to speak first at the Council
+        of the Princes.
+      Elder of a House: Senior kinsman whose counsel a prince disregards at his cost.
+      Mōbad: >-
+        Ordained keeper of the fire, the law and the commentaries — the confederation's continuity
+        through its catastrophe.
+      Steward of the Exile Court: >-
+        Administrator of a dispossessed house's affairs in Amradad — its revenues, its clients,
+        its claims.
+      Caravan-Master: Holder of a house's trade upon the routes, and the practical source
+        of its money.
+      Warden of the Oasis: Keeper of a still-held settlement's water, walls and gates.
+      Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim
+        to its ruins rests.
+      Envoy to the Sultanate: A house's representative at Amradad, where the Council meets
+        on the Sultan's courtesy.
+      Keeper of the Feud: Recorder of blood owed and blood paid between houses and against
+        the Ātárzád.
+  commonSkills:
+    - khazrilng
+  seat: oasishirvn
+  domains:
     - khzryndsrtrgn
-languages:
-  - khazri-language
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
+  population: 2000000
+  economy:
+    - lore-bartercnmy
+    - lore-kinhalcrdt
+    - lore-vdyrnbnkng
+  lore:
+    - humanflk
+  parents: []
+  relations:
+    ashanpnthn: aligned
+    tribestrzd: nemesis
+    sultntmrdd: aligned
+sohl:
+  archetype: null
 terran_analog: "Canaanites of the post-Conquest period — indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 folder: PbQ9B1r6hEaJvyco
 ---
 
-The **Khazryn Confederation** is what survives of the indigenous civilization of the [[doc-khzryndsrtrgn|Khazryn Desert]] — the people for whom the desert itself is named, the oasis-builders whose hereditary princes ruled the great walled cities for the better part of three thousand years, and the dispossessed nation that has been locked since the **Catastrophe** (four generations ago) in unresolved blood-feud with the [[doc-tribestrzd|Tribes of Ātárzád]] who took its choicest lands.
+The **Khazryn Confederation** is what survives of the indigenous civilization of the [[place-khzryndsrtrgn|Khazryn Desert]] — the people for whom the desert itself is named, the oasis-builders whose hereditary princes ruled the great walled cities for the better part of three thousand years, and the dispossessed nation that has been locked since the **Catastrophe** (four generations ago) in unresolved blood-feud with the [[affiliation-tribestrzd|Tribes of Ātárzád]] who took its choicest lands.
 
-The Khazryn are not a small people. There are perhaps eight hundred thousand of them in all — three hundred thousand still living on Khazryn-held peripheral oases under three of the original seven princely houses; nearly five hundred thousand more living within the great Ātárzád-held cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) as a subject class of merchants, craftsmen, water-engineers, scribes, physicians, and palm-grove tenders. The four other princely houses are in continuous exile, mostly in [[doc-sultntmrdd|Amradad]], where they have maintained their genealogies, their household priests, their court-ceremonial, and their explicit claim to the thrones from which their forebears were driven. The exile courts are not large — a few hundred souls each — but they are scrupulous about their continuity. A Khazryn prince in Amradad today can recite the names of every ancestor back to the founding of his line.
+The Khazryn are not a small people. There are perhaps eight hundred thousand of them in all — three hundred thousand still living on Khazryn-held peripheral oases under three of the original seven princely houses; nearly five hundred thousand more living within the great Ātárzád-held cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) as a subject class of merchants, craftsmen, water-engineers, scribes, physicians, and palm-grove tenders. The four other princely houses are in continuous exile, mostly in [[affiliation-sultntmrdd|Amradad]], where they have maintained their genealogies, their household priests, their court-ceremonial, and their explicit claim to the thrones from which their forebears were driven. The exile courts are not large — a few hundred souls each — but they are scrupulous about their continuity. A Khazryn prince in Amradad today can recite the names of every ancestor back to the founding of his line.
 
 To the Ātárzád, the Khazryn are the people whose oases were promised to the Flame-born by Ātáröš and who must accept that the Promise has been fulfilled. To the Khazryn, the Ātárzád are six generations of trespassers whose theology cannot create a fact that history did not establish. The land is named **Khazryn** because it is the land of the **Khazryn**. No other claim outweighs that.
 
 ## Origins: The Ancient Settlement
 
-Khazryn tradition holds that the first Khazryn came down from the [[doc-graznmntns|Grazian Mountains]] — specifically from the **Northwestern Arc**, the great curving range that wraps the southwestern corner of the Khazryn between the Persianate oasis-belt and the Vedyari foothills further south — in the deep first age, settled the great springs of the Khazryn one by one as their lineages spread, and built the seven cities of which only the foundations of the original walls now remain — buried beneath the rebuilt walls of every successive generation. The seven cities, in order of their founding: **Shirvan** (the holiest, the first, founded at the great spring beneath the Mōrávar cliff), **Ashkarad**, **Zargandûr**, **Kethramír**, **Vahúrdash** (lost to the desert in a long-ago drought, ruins still visible in the deep interior), **Mehrnāgord**, and **Ushtra-bēr**.
+Khazryn tradition holds that the first Khazryn came down from the [[place-graznmntns|Grazian Mountains]] — specifically from the **Northwestern Arc**, the great curving range that wraps the southwestern corner of the Khazryn between the Persianate oasis-belt and the Vedyari foothills further south — in the deep first age, settled the great springs of the Khazryn one by one as their lineages spread, and built the seven cities of which only the foundations of the original walls now remain — buried beneath the rebuilt walls of every successive generation. The seven cities, in order of their founding: **Shirvan** (the holiest, the first, founded at the great spring beneath the Mōrávar cliff), **Ashkarad**, **Zargandûr**, **Kethramír**, **Vahúrdash** (lost to the desert in a long-ago drought, ruins still visible in the deep interior), **Mehrnāgord**, and **Ushtra-bēr**.
 
 Of these seven, three remain in Khazryn hands today: **Mehrnāgord** in the western fringe, **Ushtra-bēr** in the deep north, and a small revived settlement at the ruins of **Vahúrdash** that has been kept barely alive by determined Khazryn reclamation over the past generation. The other four — Shirvan, Ashkarad, Zargandûr, Kethramír — were taken by the Ātárzád in the War of the Twelve Years and have been Ātárzád-held since.
 
@@ -118,7 +204,7 @@ Khávar of Zargandûr's quiet preparations toward an eventual reclamation campai
 
 ## The Blood-Feud
 
-(See [[doc-tribestrzd#The Blood-Feud|the Ātárzád article]] for the structural account.)
+(See [[affiliation-tribestrzd#The Blood-Feud|the Ātárzád article]] for the structural account.)
 
 The Khazryn view of the blood-feud is that it is not a feud at all — it is a pending case of stolen property, in which the rightful owners are simply waiting for the moment when restitution becomes possible. The Khazryn do not seek revenge; they seek **return**. The exile princes of Shirvan, Ashkarad, Zargandûr, and Kethramír would, if they could, simply walk back into their cities, take possession of the palaces of their forebears, restore the dismantled temples of Āhúrdáén and Zúráthrä, and resume the government their families exercised for centuries before the Catastrophe. They have no interest in retribution against ordinary Ātárzád settlers, whom they would (so they say) tolerate as a subject population in their reclaimed cities — much as the Khazryn have been tolerated under Ātárzád rule, but with somewhat more dignity.
 
@@ -126,7 +212,7 @@ Whether this magnanimity would survive contact with the actuality of reconquest 
 
 ## Famous Figures
 
-**Aravdán the Stargazer**, High Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, presiding convenor of the Council of the Princes, senior religious authority of the entire Khazryn Confederation. About sixty years old, an astronomer of continental reputation, and the man whose moral and political weight has held the Khazryn exile community together through three decades of small crises. (Note: also exercises significant influence within the Sultanate of Amradad's secular government — see [[doc-sultntmrdd|Sultanate of Amradad]].)
+**Aravdán the Stargazer**, High Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, presiding convenor of the Council of the Princes, senior religious authority of the entire Khazryn Confederation. About sixty years old, an astronomer of continental reputation, and the man whose moral and political weight has held the Khazryn exile community together through three decades of small crises. (Note: also exercises significant influence within the Sultanate of Amradad's secular government — see [[affiliation-sultntmrdd|Sultanate of Amradad]].)
 
 **Mōrá-Shirván**, heir-in-exile of the senior princely house. Theologian, legal historian, and the author of the comprehensive case for Shirvan's restoration that has become the central document of Khazryn political claims. Forty years old, unmarried, considered by some exile factions as a possible focal point for a more activist phase in Khazryn diplomacy.
 
@@ -140,14 +226,14 @@ Whether this magnanimity would survive contact with the actuality of reconquest 
 
 ## Commerce and Currency
 
-Khazryn Confederation's commerce operates primarily through [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[doc-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Kheperan deben pieces from southern trade) circulates by intrinsic-metal value among traders.
+Khazryn Confederation's commerce operates primarily through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Kheperan deben pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert]] — the contested homeland (named for the Khazryn)
-- [[doc-tribestrzd|Tribes of Ātárzád]] — the eternal adversary
+- [[place-khzryndsrtrgn|Khazryn Desert]] — the contested homeland (named for the Khazryn)
+- [[affiliation-tribestrzd|Tribes of Ātárzád]] — the eternal adversary
 - [[affiliation-ahurdaen|Faith of Āhúrdáén]] — the central object of Khazryn formal devotion
 - [[affiliation-zurathra|Faith of Zúráthrä]] — the central object of Khazryn popular devotion
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — the wider faith in its Khazryn-codified form
-- [[doc-sultntmrdd|Sultanate of Amradad]] — host of the exile community and protector
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — host of the exile community and protector
 - [[skill-khazrilng|Khazri Language]] — the Khazryn tongue

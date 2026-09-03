@@ -9,9 +9,30 @@ name:
 description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
 id: KRJCfi3ZMuOYTwFd
 img: icons/game-icons/delapouite/bear-head.svg
-portrait: images/being/rckbckbr-portrait.webp
 shortcode: rckbckbr
 type: being
+data:
+  portrait: images/being/rckbckbr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

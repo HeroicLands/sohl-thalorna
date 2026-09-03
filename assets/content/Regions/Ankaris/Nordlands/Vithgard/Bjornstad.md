@@ -2,23 +2,23 @@
 aliases:
   - Bjornstad
 id: 2L0cERpUeRn8zC00
+tags:
+  - settlement
+  - capital
+  - fortified
+description: "Fortified Settlement / Regional Capital"
 type: place
 subType: settlement
-settlementType: "Fortified Settlement / Regional Capital"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Bjornstad
   aliases: []
 shortcode: bjornstad
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 
@@ -34,5 +34,5 @@ The royal hall is the administrative and ceremonial heart of Bjornstad, where th
 
 ## See Also
 
-- [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Normen kingdom of Vithgard
+- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Normen kingdom of Vithgard
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

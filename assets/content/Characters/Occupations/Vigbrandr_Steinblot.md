@@ -4,6 +4,7 @@ aliases:
   - Vigbrandr Steinblot
 tags:
   - draft
+  - tradesfolk
 name:
   full: Vígbrandr Steinblót
   title: ""
@@ -16,23 +17,27 @@ id: XKqPnXKANObF4OIs
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vgbrndrstnblt
 img: icons/person.svg
-portrait: images/being/vgbrndrstnblt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vgbrndrstnblt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 35
   birthday: 689/6/7
-  height:
-    m: 1.7
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.7
+  weight: 63
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: brown
@@ -40,15 +45,6 @@ traits:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
-gear:
-  weapons: []
-  armor:
-    - Stylish clothing suitable for public appearances
-  misc:
-    - Intricate glass bottles for perfumes
-    - Scent samples
-    - blending tools
-    - rare ingredient catalog
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 51 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

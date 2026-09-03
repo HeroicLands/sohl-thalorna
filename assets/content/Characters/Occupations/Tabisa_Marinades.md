@@ -4,6 +4,7 @@ aliases:
   - Tabisa Marinades
 tags:
   - draft
+  - soldiery
 name:
   full: Tàbîsa Mârinadês
   title: ""
@@ -16,39 +17,33 @@ id: PJbM7Q1SrblrSWt6
 folder: gpXd1anXulwRWZqn
 shortcode: tabismrnds
 img: icons/person.svg
-portrait: images/being/tabismrnds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tabismrnds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - kalydria
   gender: female
+  species: null
   age: 38
   birthday: 686/3/3
-  height:
-    m: 1.75
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.75
+  weight: 70
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Battle axe
-  armor:
-    - Chainmail and leather
-  misc:
-    - Backpack for supplies
-    - Shield
-    - throwing knives
-    - field medical kit
 sohl:
   archetype: null
   body:
@@ -527,12 +522,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kalydria
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

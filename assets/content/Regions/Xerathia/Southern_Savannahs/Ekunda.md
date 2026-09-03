@@ -1,29 +1,25 @@
 ---
 tags:
   - draft
+  - village
 aliases:
   - Ékunda
   - Ekunda
 id: VQ6dTH1kqTQUvI3F
+description: "Village"
 type: place
 subType: settlement
-settlementType: "Village"
-population: null
-languages:
-  - local-names
-pantheons:
-  - nyalbpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - sthrnsvnhs
+    - xerathia
+  population: null
 name:
   full: Ékunda
   aliases: []
 shortcode: ekunda
-parent:
-  polities:
-    - nylbtrblntn
-  continents:
-    - xerathia
-  regions:
-    - sthrnsvnhs
 folder: Ka6y9l5O5XGpNhfI
 ---
 

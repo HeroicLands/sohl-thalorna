@@ -4,6 +4,7 @@ aliases:
   - Aleifr Frostulf
 tags:
   - draft
+  - tradesfolk
 name:
   full: Áleifr Frostulf
   title: ""
@@ -16,39 +17,33 @@ id: zAUguBuQqx9jR7Ee
 folder: Ka9XqaF27b0I3Gmq
 shortcode: alfrfrstlf
 img: icons/person.svg
-portrait: images/being/alfrfrstlf-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alfrfrstlf-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 40
   birthday: 684/6/11
-  height:
-    m: 1.83
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: dark_blonde
     skin_color: light
     complexion: pale
     extra_features: []
-gear:
-  weapons:
-    - Heavy hunting axe
-  armor:
-    - Thick leather armor
-  misc:
-    - Large leather pack
-    - Hunting traps
-    - leather gloves
-    - field guide to local wildlife
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

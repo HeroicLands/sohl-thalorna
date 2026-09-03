@@ -4,6 +4,7 @@ aliases:
   - Jolren Alvianar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Jólren Álvianar
   title: ""
@@ -16,38 +17,33 @@ id: 6o0C4w7bAdzGxpyf
 folder: 9t9O4iB5cYJtSaTG
 shortcode: jolrenlvnr
 img: icons/person.svg
-portrait: images/being/jolrenlvnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jolrenlvnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mason
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 35
   birthday: 689/3/18
-  height:
-    m: 1.83
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: medium
     complexion: tanned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Leather pouch for tools
-    - Chisels
-    - hammers
-    - safety goggles
 sohl:
   archetype: null
   body:
@@ -533,12 +529,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

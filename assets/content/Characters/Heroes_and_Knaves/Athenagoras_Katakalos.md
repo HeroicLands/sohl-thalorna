@@ -5,6 +5,7 @@ aliases:
   - Athenagoras Katakalos
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Athênagoras Katakálos
   title: ""
@@ -16,29 +17,26 @@ id: 8cGFS7lwMpacShaL
 folder: b81DHx3S7C9ep13E
 shortcode: athngrsktkls
 img: icons/person.svg
-portrait: images/being/athngrsktkls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/athngrsktkls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 36
   birthday: 684/6/14
-  height:
-    m: 1.83
-  weight:
-    kg: 82.1
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 82.1
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black

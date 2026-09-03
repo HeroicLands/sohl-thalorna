@@ -4,7 +4,7 @@ aliases:
   - Teitjek Vengyurt
 id: IeRBitOhNW9W1apE
 type: lore
-subType: folk
+subType: history
 name:
   full: Tëitjëk Vëngyürt
   aliases: []
@@ -16,11 +16,11 @@ folder: l3wIL8UihJI5nx6L
 
 **"Iron Spear Piercing the Clouds"**
 
-Tëitjëk Vëngyürt was once a highly respected general within the [[doc-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.
+Tëitjëk Vëngyürt was once a highly respected general within the [[lore-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.
 
 ## The Rebellion
 
-Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning desire for revenge, he began to plot his return—not as a servant of the empire, but as its conqueror. In exile, he gathered disaffected soldiers and minor [[doc-zheklung|Zhëklüng]] nobles who had grievances against the imperial court. These nobles brought with them [[doc-venduk|Vëndük]]—magically attuned individuals who, though technically chattel, held significant arcane power.
+Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning desire for revenge, he began to plot his return—not as a servant of the empire, but as its conqueror. In exile, he gathered disaffected soldiers and minor [[lore-zheklung|Zhëklüng]] nobles who had grievances against the imperial court. These nobles brought with them [[lore-venduk|Vëndük]]—magically attuned individuals who, though technically chattel, held significant arcane power.
 
 ## Key Allied Nobles
 
@@ -30,7 +30,7 @@ Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning 
 
 ## Internal Tensions
 
-Despite their common cause, the alliance between Tëitjëk, Zhākvëi Lëngzhāt, and Vürtzhāk Vëngdāk is fraught with tension and hidden agendas. Both nobles view Tëitjëk as a necessary but expendable tool, continuing to play the [[doc-veizhatret|Vëi Zhāt Rëit]] even within the rebellion. Tëitjëk, however, is aware of these undercurrents and uses subtle manipulation to balance their ambitions against each other.
+Despite their common cause, the alliance between Tëitjëk, Zhākvëi Lëngzhāt, and Vürtzhāk Vëngdāk is fraught with tension and hidden agendas. Both nobles view Tëitjëk as a necessary but expendable tool, continuing to play the [[lore-veizhatret|Vëi Zhāt Rëit]] even within the rebellion. Tëitjëk, however, is aware of these undercurrents and uses subtle manipulation to balance their ambitions against each other.
 
 Both nobles are aware that if the rebellion fails, they face torture and execution. Each has begun to quietly explore escape routes and alliances beyond the empire's borders.
 
@@ -40,7 +40,7 @@ The rebellion has begun to make significant gains in border regions, but interna
 
 ## See Also
 
-- [[doc-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
-- [[doc-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat
-- [[doc-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire under threat
+- [[lore-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
+- [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat
+- [[lore-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire under threat

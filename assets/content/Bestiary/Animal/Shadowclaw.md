@@ -9,9 +9,30 @@ name:
 description: "A highly intelligent pack-hunting reptile up to twelve feet long, coordinating sophisticated ambushes across jungles and rocky valleys as an apex predator."
 id: jjuIModhoOI5xUyv
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/shdwclw-portrait.webp
 shortcode: shdwclw
 type: being
+data:
+  portrait: images/being/shdwclw-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

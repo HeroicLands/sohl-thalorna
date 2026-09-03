@@ -3,6 +3,8 @@ aliases:
   - Unnr Eldskari
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Unnr Eldskari
   title: ""
@@ -14,29 +16,26 @@ id: aedUEUFwI1ZeDk46
 folder: Ka9XqaF27b0I3Gmq
 shortcode: unreldskar
 img: icons/person.svg
-portrait: images/being/unreldskar-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/unreldskar-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: female
+  species: null
   age: 29
   birthday: 691/3/6
-  height:
-    m: 1.6
-  weight:
-    kg: 55.8
-  build:
-    frame: light
+  height: 1.6
+  weight: 55.8
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown

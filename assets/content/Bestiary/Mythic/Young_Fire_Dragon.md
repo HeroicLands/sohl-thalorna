@@ -10,9 +10,30 @@ name:
 description: "A century-old fire dragon at its most volatile, killing with raw territorial ferocity as it carves out fresh land and hoard."
 id: x9FJYB3bym5ZUUgs
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/yngfrdrg-portrait.webp
 shortcode: yngfrdrg
 type: being
+data:
+  portrait: images/being/yngfrdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

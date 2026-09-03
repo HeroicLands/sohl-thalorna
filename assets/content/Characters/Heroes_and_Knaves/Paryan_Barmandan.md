@@ -3,6 +3,8 @@ aliases:
   - Paryan Barmandan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Paryan Barmandan
   title: ""
@@ -14,34 +16,31 @@ id: 84mKejK7twbhw2Vo
 folder: V1t8DVX0wKSOCJd5
 shortcode: prynbrmndn
 img: icons/person.svg
-portrait: images/being/prynbrmndn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/prynbrmndn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jeweller
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: female
+  species: null
   age: 29
   birthday: 691/10/25
-  height:
-    m: 1.73
-  weight:
-    kg: 67.1
-  build:
-    frame: light
+  height: 1.73
+  weight: 67.1
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

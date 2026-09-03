@@ -4,6 +4,8 @@ aliases:
   - Meneti Shapkher
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Meneti Shap'kher
   title: ""
@@ -16,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
 img: icons/person.svg
-portrait: images/being/mentshpkhr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/mentshpkhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 42
   birthday: 678/2/5
-  height:
-    m: 1.65
-  weight:
-    kg: 61.2
-  build:
-    frame: light
+  height: 1.65
+  weight: 61.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: ebony
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -569,7 +568,7 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
 ---
 
-**Home:** [[doc-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khensuret]]
 
 # Appearance {#appearance}
 
@@ -627,7 +626,7 @@ Meneti is driven by an almost religious belief in the power of transparency and 
 ### Affiliations
 
 - **The Imperial Treasury**: Her primary institution and the source of her authority.
-- **The Scribes' Guild of [[doc-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
+- **The Scribes' Guild of [[affiliation-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
 - **The Order of Hâpi**: A religious devotional order dedicated to Hâpi, god of prosperity and the inundation. She maintains private worship and donates portions of her salary to their works.
 
 ## Plot Hooks

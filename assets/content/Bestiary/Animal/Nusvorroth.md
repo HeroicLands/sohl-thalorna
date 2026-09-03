@@ -10,9 +10,30 @@ name:
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
 id: 0ygZo8s6O9Rj2kRt
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/nsvrroth-portrait.webp
 shortcode: nsvrroth
 type: being
+data:
+  portrait: images/being/nsvrroth-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

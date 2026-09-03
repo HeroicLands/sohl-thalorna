@@ -14,29 +14,114 @@ name:
     - The Five Who Walk Together
 id: U5XViByz9vC1SuJw
 shortcode: nylbtrblntn
-population: "~2,000,000"
 subType: polity
-capital: ekunda
-demonym: Nyáluban
-government:
-  type: confederation
-  summary: Five clan-nations (Mvuzi, Kambezi, Ngonzi, Sengala, Bombwe), each internally autonomous under its own paramount and council of elders. The quadrennial Great Indaba — convened by the Mvuzi paramount at Indala-Bomba in the southeastern highlands — coordinates defense, settles inter-clan disputes, and renews the totemic compacts. No central executive; the Indaba ratifies what the clans have already chosen.
-parent:
-  continents:
-    - xerathia
-  regions:
+data:
+  templatePriority: null
+  demonym: Nyáluban
+  epithet: null
+  symbol: null
+  governance:
+    model: confederation
+    summary: >-
+      Five clan-nations (Mvuzi, Kambezi, Ngonzi, Sengala, Bombwe), each internally autonomous
+      under its own paramount and council of elders. The quadrennial Great Indaba — convened
+      by the Mvuzi paramount at Indala-Bomba in the southeastern highlands — coordinates defense,
+      settles inter-clan disputes, and renews the totemic compacts. No central executive;
+      the Indaba ratifies what the clans have already chosen.
+    ranks:
+      - level: 0
+        title: Kinless
+        lore: outlawrnk
+        description: >-
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
+          vengeance.
+      - level: 1
+        title: Bondservant
+        lore: bondservantrnk
+        description: >-
+          Held in service or debt to a household, and answerable through its head rather than
+          in their own name.
+      - level: 2
+        title: Dependent
+        lore: dependentrnk
+        description: >-
+          Sheltered by a household without being of its blood — a client, a widow's family,
+          a taken-in stranger.
+      - level: 3
+        title: Kinsman
+        lore: kinsmanrnk
+        description: Of a household's blood, entitled to its protection, its feud and its share.
+      - level: 4
+        title: Householder
+        lore: commonerrnk
+        description: >-
+          Head of a tent or hall, holding its herds and its people and speaking for them at
+          the moot.
+      - level: 5
+        title: Elder
+        lore: elderrnk
+        description: Senior of a lineage, whose memory of custom and precedent settles what
+          the young dispute.
+      - level: 6
+        title: Chieftain
+        lore: councillorrnk
+        description: >-
+          Leading a clan or tribe by descent and by consent together, and losing it when either
+          fails.
+      - level: 7
+        title: Delegate
+        lore: councillorrnk
+        description: Sent by a tribe to the common council, empowered to argue and not to bind.
+      - level: 8
+        title: Speaker of the Council
+        lore: prsdngffcrrnk
+        description: >-
+          Presiding over the common council, holding the peace of its meeting and no authority
+          beyond it.
+    offices:
+      Speaker of the Council: Presiding officer of the common council, keeper of its peace
+        and of the order of speaking.
+      Chieftain: Head of a clan or tribe, holding by descent and consent together.
+      Elder: Senior of a lineage, whose recollection of custom settles disputes the young
+        cannot.
+      Lawkeeper: >-
+        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs
+        differ.
+      Host-Caller: Summoner of the common muster when a threat concerns every tribe.
+      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered
+        to enforce it.
+      Water-Warden: >-
+        Keeper of the wells, springs or pastures the tribes share, and of the order in which
+        they are used.
+      Guide: >-
+        Holder of the routes — their water, their seasons and their dangers — and hired at
+        a price accordingly.
+      Envoy: Sent to treat with a settled power, and protected by custom while he carries
+        the word.
+      Keeper of the Feud: >-
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement
+        cannot be reckoned.
+  commonSkills:
+    - nyalbnlng
+  seat: ekunda
+  domains:
     - sthrnsvnhs
-languages:
-  - nyalbnlng
-pantheons:
-  - nyalbpnthn
-peoples:
-  - human
+  population: 2000000
+  economy:
+    - lore-bartercnmy
+    - lore-kinhalcrdt
+  lore:
+    - humanflk
+  parents: []
+  relations:
+    nyalbpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe — five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 folder: KS8i9DNgMKNlpeMT
 ---
 
-The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[doc-sthrnsvnhs|Southern Savannahs]] of [[doc-xerathia|Xerathia]] — the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, perhaps two and a half million people across a territory roughly the size of Provènzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aurèldían or Vylarian as a government. They have, instead, the **Long Pact** — an ancient covenant binding five clan-nations to a shared way of life — and the apparatus by which the Pact is renewed: the Great Indaba, the drum-network, the griots, and the totemic law.
+The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]] — the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, perhaps two and a half million people across a territory roughly the size of Provènzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aurèldían or Vylarian as a government. They have, instead, the **Long Pact** — an ancient covenant binding five clan-nations to a shared way of life — and the apparatus by which the Pact is renewed: the Great Indaba, the drum-network, the griots, and the totemic law.
 
 Northerners who reach the Nyáluba — and almost none do, since the Northern Fertile civilizations know the savannahs only through rainforest intermediaries — typically misread what they find. They see no palace and infer no power. They see no army and infer no defense. They see no priesthood and infer no faith. They are wrong on all three counts, and the Nyáluba find their bewilderment quietly amusing.
 
@@ -50,7 +135,7 @@ The **southeastern highlands** rise abruptly from the central plains in a long e
 
 The **eastern wetlands** are where the great rivers from the highlands spread and slow before reaching the eastern coast — a maze of papyrus channels, oxbow lakes, hippopotamus pools, and crocodile-haunted reaches. The **Kambezi**, the crocodile-clan, are the river-people: they fish and hunt in the wetlands, navigate the channels in long reed canoes, and maintain the most elaborate spirit-relationships of any Nyáluban clan, since the river-spirits of their country are numerous and unforgiving.
 
-The **northern grass-and-tree belt**, where the central savannah grades into the southern margin of the [[doc-cntrlrnfrsts|Central Rainforests]], is the country of the **Sengala**, the leopard-clan. They are the trade-tribe — the only Nyáluban clan with sustained contact with the rainforest peoples to the north and, through them, with the distant civilizations of the [[doc-nrthrnfrtlrgn|Northern Fertile Region]].
+The **northern grass-and-tree belt**, where the central savannah grades into the southern margin of the [[place-cntrlrnfrsts|Central Rainforests]], is the country of the **Sengala**, the leopard-clan. They are the trade-tribe — the only Nyáluban clan with sustained contact with the rainforest peoples to the north and, through them, with the distant civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]].
 
 The **scattered settled-belts** — small districts of perennial water, dense soil, and sustained habitation that lie in pockets across the Nyáluban territory — are the country of the **Bombwe**, the baobab-clan. They are the only Nyáluban clan that builds in any permanence, the only one with anything resembling towns (a few thousand people each, gathered around an ancient sacred tree), and the keepers of the senior griot tradition.
 
@@ -134,9 +219,9 @@ The Nyáluban warrior tradition is built around mobility, surprise, the intellig
 
 ## Relations with Neighboring Peoples
 
-To the **north**, beyond the Sengala margin, lie the [[doc-cntrlrnfrsts|Central Rainforest]] peoples. Relations are sustained, generally peaceful, and culturally important — the Sengala maintain marriage exchanges with several frontier rainforest tribes, and a substantial body of shared religious and economic practice has built up over generations. The rainforest peoples are also the Nyáluba's window onto the world beyond the savannahs, and the Sengala carefully cultivate that channel.
+To the **north**, beyond the Sengala margin, lie the [[place-cntrlrnfrsts|Central Rainforest]] peoples. Relations are sustained, generally peaceful, and culturally important — the Sengala maintain marriage exchanges with several frontier rainforest tribes, and a substantial body of shared religious and economic practice has built up over generations. The rainforest peoples are also the Nyáluba's window onto the world beyond the savannahs, and the Sengala carefully cultivate that channel.
 
-To the **far north**, beyond the rainforest, lie the civilizations of the [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — Bethua, Ta'Kheperu, Okháris. The Nyáluba know these peoples almost entirely through hearsay and through the secondhand goods that arrive via the Sengala. Bethuan slave-raiders did reach the northern Sengala margin twice in living memory; both expeditions were destroyed by mobilized age-set regiments before they could withdraw, and Bethua has not tried again. The Nyáluba consider the Northern Fertile peoples to be impressive in their stone-building and agriculture but politically deformed — too centralized, too reliant on hereditary autocrats, too quick to coerce their own people.
+To the **far north**, beyond the rainforest, lie the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]] — Bethua, Ta'Kheperu, Okháris. The Nyáluba know these peoples almost entirely through hearsay and through the secondhand goods that arrive via the Sengala. Bethuan slave-raiders did reach the northern Sengala margin twice in living memory; both expeditions were destroyed by mobilized age-set regiments before they could withdraw, and Bethua has not tried again. The Nyáluba consider the Northern Fertile peoples to be impressive in their stone-building and agriculture but politically deformed — too centralized, too reliant on hereditary autocrats, too quick to coerce their own people.
 
 To the **west**, in the central and southwestern savannahs beyond the Mvuzi territory, lie the **dry-country tribes** — smaller, more dispersed, more nomadic peoples who are not part of the Long Pact and do not consider themselves Nyáluban. Relations are mixed: extensive trade and intermarriage in some places, sustained low-level raiding in others. The Mvuzi paramounts maintain individual relationships with the major dry-country chieftains and rely on personal diplomacy more than confederation policy.
 
@@ -154,14 +239,14 @@ To the **south and southeast**, beyond the Kambezi wetlands and the Ngonzi highl
 
 ## Commerce and Currency
 
-Nyáluba Tribal Nation operates almost entirely on [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|tribal credit]] customs. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Ta'Kheperan currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
+Nyáluba Tribal Nation operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Ta'Kheperan currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
 
 ## See Also
 
-- [[doc-sthrnsvnhs|Southern Savannahs]] — parent region
+- [[place-sthrnsvnhs|Southern Savannahs]] — parent region
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]] — the totemic faith
 - [[affiliation-nyalbsprts|Nyáluba Spirits]] — the spirits venerated, appeased, and warded against
 - [[skill-nyalbnlng|Nyáluban Language]] — the Nyáluban tongue and the drum-language
-- [[doc-cntrlrnfrsts|Central Rainforests]] — northern neighbors and trade-intermediaries
-- [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — distant civilizations known only by rumor
-- [[doc-xerathia|Xerathia]] — parent continent
+- [[place-cntrlrnfrsts|Central Rainforests]] — northern neighbors and trade-intermediaries
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]] — distant civilizations known only by rumor
+- [[place-xerathia|Xerathia]] — parent continent

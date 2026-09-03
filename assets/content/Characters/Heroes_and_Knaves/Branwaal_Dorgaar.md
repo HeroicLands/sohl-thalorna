@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - soldiery
 name:
   full: Brànwâal Dôrgaar
   title: Captain
@@ -14,32 +15,27 @@ id: WSk96sYAqyEqOLpg
 folder: J9R0fnGUTBY5z4pd
 shortcode: branwldrgr
 img: icons/person.svg
-portrait: images/being/branwldrgr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/branwldrgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary Captain
-  station: soldiery
-  class: noble
-  society: ""
-  organizations:
-    - silent-talon
-harnworld:
-  realm: ""
-  ritual:
-    - Larani
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - slntlncmpny
+    - kngdmprvnz
   gender: male
+  species: null
   age: 34
   birthday: 686/3/16
-  height:
-    m: 1.85
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_brown
@@ -556,7 +552,7 @@ Brànwâal is a weathered, sharp-eyed man of thirty-four with a medium frame, fa
 
 # Dossier {#dossier}
 
-Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[doc-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
+Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
 
 He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Elýsè, Tórnis, Chéleb, and Dôren—who together form the Silent Talon.
 

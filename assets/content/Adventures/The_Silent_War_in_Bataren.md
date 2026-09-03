@@ -9,18 +9,27 @@ name:
 shortcode: slntwrbtrn
 type: scenario
 subType: adventure
-thalorna:
-  region: provenzrgn
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: draft
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
 # The Silent War in Batáren
 
-Tensions boil beneath the surface in the coastal [[City_of_Bataren|City of Batáren]], where Provenzian rulers and the indigenous [[Élavendren]] people — descendants of [[doc-elavendre|Élavendre]] who settled in these borderlands centuries ago — clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
+Tensions boil beneath the surface in the coastal [[City_of_Bataren|City of Batáren]], where Provenzian rulers and the indigenous [[Élavendren]] people — descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago — clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
 
 ## Overview
 
-Batáren, a prosperous coastal city in southern [[doc-provenzrgn|Provènzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
+Batáren, a prosperous coastal city in southern [[place-provenzrgn|Provènzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
 
 ## Stage One: Arrival & Observation
 
@@ -30,7 +39,7 @@ The party arrives in Batáren (or is already present) and begins to notice:
 - Isolated violence: attacks on Áelendan merchants, vandalism, murder
 - The Provenzian authorities seem more interested in suppressing news than investigating causes
 - Áelendi leaders are meeting secretly, preparing for organized response
-- Rumors of foreign influence: whispers of [[doc-vylarinmpr|Vylarian]] agents, [[affiliation-ordoarcanis|Ordo Arcanis]] manipulation, or northern interests
+- Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vylarian]] agents, [[affiliation-ordoarcanis|Ordo Arcanis]] manipulation, or northern interests
 
 **NPCs:**
 
@@ -63,9 +72,9 @@ Investigation reveals that a foreign power is deliberately stoking conflict to d
 
 **Possible Architects:**
 
-- **Vylarian Agents:** The [[doc-vylarinmpr|Vylarian Empire]] seeks to undermine Provenzian stability and justify imperial intervention
+- **Vylarian Agents:** The [[affiliation-vylarinmpr|Vylarian Empire]] seeks to undermine Provenzian stability and justify imperial intervention
 - **Ordo Arcanis Manipulation:** The [[affiliation-ordoarcanis|Ordo Arcanis]] manipulates both sides to weaken Provenzian independence or create a pretext for magical research
-- **Nordheim Interests:** [[doc-kngdmnrdhm|Nordheim raiders]] or their agents seek to damage the city's naval power and trade influence
+- **Nordheim Interests:** [[affiliation-kngdmnrdhm|Nordheim raiders]] or their agents seek to damage the city's naval power and trade influence
 - **Internal Conspiracy:** A Provenzian noble faction uses foreign agents to advance their own position
 
 **Key Evidence:**
@@ -115,15 +124,15 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 
 - Open warfare erupts between communities
 - Batáren is crippled economically and socially
-- The foreign conspiracy succeeds in weakening [[doc-provenzrgn|Provènzia Region]]
+- The foreign conspiracy succeeds in weakening [[place-provenzrgn|Provènzia Region]]
 - The party may be blamed for the violence or forced into one side of the conflict
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
-- [[doc-aelendnppl|Áelendan People]]
-- [[doc-vylarinmpr|Vylarian Empire]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[lore-aelendnppl|Áelendan People]]
+- [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]]
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aurèldían]]

@@ -3,7 +3,7 @@ aliases:
   - Medicine
 id: DY51n86VorJpng21
 type: lore
-subType: folk
+subType: culture
 name:
   full: Medicine
   aliases: []
@@ -13,25 +13,25 @@ folder: jV7c6dJp4Ztnjtb3
 
 # The Role of Apothecaries and Physicians in the Empire of Tānvür
 
-Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
+Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
 ## Caste Placement
 
-Apothecaries and physicians in the Empire of Tānvür belong to the **[[doc-zathuk|Zāthük]]** (Artisans and Craftsmen) caste. However, they occupy a distinct and respected sub-caste within this group, known as the **Yātvōr** (Healers of the Art). While they do not hold the same level of influence as the [[doc-tanthei|Tānthëi]] or [[doc-venduk|Vëndük]], the Yātvōr are vital to the health and well-being of the empire's population, from the lowest peasant to the highest noble. Their understanding of the body's internal classification system — the way elements, organs, and Lëi flows are sorted and maintained within a living being — makes them essential figures in society.
+Apothecaries and physicians in the Empire of Tānvür belong to the **[[lore-zathuk|Zāthük]]** (Artisans and Craftsmen) caste. However, they occupy a distinct and respected sub-caste within this group, known as the **Yātvōr** (Healers of the Art). While they do not hold the same level of influence as the [[lore-tanthei|Tānthëi]] or [[lore-venduk|Vëndük]], the Yātvōr are vital to the health and well-being of the empire's population, from the lowest peasant to the highest noble. Their understanding of the body's internal classification system — the way elements, organs, and Lëi flows are sorted and maintained within a living being — makes them essential figures in society.
 
 ## Belief System
 
-The Yātvōr operate within the broader cosmological framework of the [[doc-celestlrdr|Celestial Order]]. Their practices are rooted in the principle that the human body is a **microcosm of the Great Sorting** — a self-contained classification system in which elements, energies, and organs are sorted into their proper categories and must be maintained in correct relationship. Illness, in this framework, is a **classification failure** within the body: elements that have shifted out of their designated categories, Lëi flows that have been misdirected, or boundaries between internal domains that have weakened.
+The Yātvōr operate within the broader cosmological framework of the [[lore-celestlrdr|Celestial Order]]. Their practices are rooted in the principle that the human body is a **microcosm of the Great Sorting** — a self-contained classification system in which elements, energies, and organs are sorted into their proper categories and must be maintained in correct relationship. Illness, in this framework, is a **classification failure** within the body: elements that have shifted out of their designated categories, Lëi flows that have been misdirected, or boundaries between internal domains that have weakened.
 
 ### Key Beliefs
 
-1. **Balance of Energies:** The Yātvōr hold that health is achieved through the proper sorting of **Hëk and Lëng** within the body — the same dual flows that govern the cosmic order (see [[doc-phlsphylvr|Philosophy of Lëivōr]]). Illness arises when these flows fall out of their designated balance, allowing one to encroach on the other's classified territory. The goal of treatment is to restore the internal classification — to re-sort what has become disordered.
+1. **Balance of Energies:** The Yātvōr hold that health is achieved through the proper sorting of **Hëk and Lëng** within the body — the same dual flows that govern the cosmic order (see [[lore-phlsphylvr|Philosophy of Lëivōr]]). Illness arises when these flows fall out of their designated balance, allowing one to encroach on the other's classified territory. The goal of treatment is to restore the internal classification — to re-sort what has become disordered.
 
 2. **Five Elements Theory:** Each of the five elemental classifications (Wood, Fire, Earth, Metal, Water) corresponds to specific organs and systems within the body. The Yātvōr diagnose illness by identifying which elemental classification has been disrupted and prescribe remedies that target the specific breach — herbs, minerals, and preparations classified under the element that needs reinforcement, or that suppress the element that has overstepped its boundaries.
 
-3. **Spiritual and Physical Integration:** The Yātvōr hold that the physical body and the spirit are interconnected classification systems. They incorporate spiritual practices into their healing methods: meditation to realign internal Lëi flow, petitions to the relevant celestial bureaus requesting that a patient's classification be restored, and rituals that reconnect the patient's internal sorting with the cosmic order. They often collaborate with the [[doc-ancstrwrshp|Lëigürt]], especially when treating ailments believed to be caused by spiritual disruptions — ancestor spirits withdrawing their advocacy, or classification breaches that have damaged the patient's moral ledger.
+3. **Spiritual and Physical Integration:** The Yātvōr hold that the physical body and the spirit are interconnected classification systems. They incorporate spiritual practices into their healing methods: meditation to realign internal Lëi flow, petitions to the relevant celestial bureaus requesting that a patient's classification be restored, and rituals that reconnect the patient's internal sorting with the cosmic order. They often collaborate with the [[lore-ancstrwrshp|Lëigürt]], especially when treating ailments believed to be caused by spiritual disruptions — ancestor spirits withdrawing their advocacy, or classification breaches that have damaged the patient's moral ledger.
 
-4. **The Mandate of Health:** Reflecting the broader [[doc-mandatehvn|Mandate of Heaven]], the Yātvōr believe that maintaining the health of the population is an essential function of the classification system. Each individual is sorted into a caste with a designated function — warriors, scholars, laborers — and illness that prevents them from fulfilling that function is a classification malfunction. The Yātvōr see their work as ensuring that bodies remain properly sorted so that each person can perform their assigned role within the Great Sorting.
+4. **The Mandate of Health:** Reflecting the broader [[lore-mandatehvn|Mandate of Heaven]], the Yātvōr believe that maintaining the health of the population is an essential function of the classification system. Each individual is sorted into a caste with a designated function — warriors, scholars, laborers — and illness that prevents them from fulfilling that function is a classification malfunction. The Yātvōr see their work as ensuring that bodies remain properly sorted so that each person can perform their assigned role within the Great Sorting.
 
 ## Roles and Practices
 
@@ -43,11 +43,11 @@ The Yātvōr who specialize in preparing and dispensing remedies are known as **
 
 The physicians, or **Zhëkyāt** (Life Healers), are the Yātvōr who diagnose illness and prescribe treatment. They are trained in multiple diagnostic methods: pulse diagnosis (reading the flow of Lëi through the body's classification channels), acupuncture (redirecting Lëi by stimulating specific junction points where the body's internal classifications intersect), moxibustion (applying the fire element to reinforce weakened classifications), and cupping (drawing out misdirected Lëi that has accumulated in the wrong domain). The Zhëkyāt are respected for their deep understanding of the body's classification channels — the pathways along which Lëi flows between the internal elemental domains — and the ways in which disruptions propagate from one domain to another.
 
-Zhëkyāt often serve in noble households, acting as personal physicians to the Warlords and their families. They are also called upon to treat the Emperor and the [[doc-zheklung|Zhëklüng]], where the stakes are highest — illness in the imperial family is not merely a personal crisis but a sign that the empire's cosmic classification may be weakening.
+Zhëkyāt often serve in noble households, acting as personal physicians to the Warlords and their families. They are also called upon to treat the Emperor and the [[lore-zheklung|Zhëklüng]], where the stakes are highest — illness in the imperial family is not merely a personal crisis but a sign that the empire's cosmic classification may be weakening.
 
 ### Lëigürt Collaboration
 
-The Yātvōr frequently collaborate with the [[doc-ancstrwrshp|Lëigürt]], especially when dealing with ailments believed to have a spiritual origin. Some illnesses are understood as the result of ancestor spirits withdrawing their advocacy, or of moral ledger debits manifesting as physical symptoms — the classification system expressing a spiritual deficit through the body. In such cases, the Yātvōr prepare remedies to address the physical symptoms while the Lëigürt perform rituals to address the underlying spiritual cause: petitioning ancestor spirits, filing appeals with the relevant bureau, or conducting cleansing rites to clear ledger debits that are disrupting the patient's internal Lëi flow.
+The Yātvōr frequently collaborate with the [[lore-ancstrwrshp|Lëigürt]], especially when dealing with ailments believed to have a spiritual origin. Some illnesses are understood as the result of ancestor spirits withdrawing their advocacy, or of moral ledger debits manifesting as physical symptoms — the classification system expressing a spiritual deficit through the body. In such cases, the Yātvōr prepare remedies to address the physical symptoms while the Lëigürt perform rituals to address the underlying spiritual cause: petitioning ancestor spirits, filing appeals with the relevant bureau, or conducting cleansing rites to clear ledger debits that are disrupting the patient's internal Lëi flow.
 
 This collaboration is particularly important during festivals and rites of passage, where maintaining the health of participants is considered essential to the success of the ritual — a sick participant whose internal classification is disordered could disrupt the filing.
 
@@ -79,8 +79,8 @@ The Yātvōr, though part of the Zāthük caste, are highly respected across all
 
 ## See Also
 
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The Lëi framework underlying medical theory
-- [[doc-celestlrdr|Celestial Order]] — The cosmological system that medicine serves
-- [[doc-ancstrwrshp|Ancestor Worship]] — Spiritual causes of illness and the Lëigürt collaboration
-- [[doc-zathuk|Zāthük]] — The artisan caste to which physicians belong
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The Lëi framework underlying medical theory
+- [[lore-celestlrdr|Celestial Order]] — The cosmological system that medicine serves
+- [[lore-ancstrwrshp|Ancestor Worship]] — Spiritual causes of illness and the Lëigürt collaboration
+- [[lore-zathuk|Zāthük]] — The artisan caste to which physicians belong
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial society

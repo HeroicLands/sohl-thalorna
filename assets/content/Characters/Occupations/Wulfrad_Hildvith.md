@@ -4,6 +4,7 @@ aliases:
   - Wulfrad Hildvith
 tags:
   - draft
+  - soldiery
 name:
   full: Wulfrád Hildvith
   title: ""
@@ -16,39 +17,33 @@ id: jvfLQj6wt9PSQziM
 folder: Nu7AgLZEmR26u2pk
 shortcode: wlfrdhldvth
 img: icons/person.svg
-portrait: images/being/wlfrdhldvth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wlfrdhldvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms (Sapper)
-  station: soldiery
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 40
   birthday: 684/6/15
-  height:
-    m: 1.85
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: white
     skin_color: light
     complexion: rugged
     extra_features: []
-gear:
-  weapons:
-    - Heavy tool (for work)
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Large leather pack for tools
-    - Basic explosives
-    - measuring tools
-    - blueprints
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

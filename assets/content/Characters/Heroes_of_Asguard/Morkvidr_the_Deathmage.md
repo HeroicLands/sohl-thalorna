@@ -5,6 +5,8 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - unguilded
+  - mages
 name:
   full: Mörkvidr the Deathmage
   title: null
@@ -17,23 +19,27 @@ id: nuBxrco7vFWAzASM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: mrkvdrdthmg
 img: icons/person.svg
-portrait: images/being/mrkvdrdthmg-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mrkvdrdthmg-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Necromancer
-  station: mages
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 67
   birthday: 653/7/6
-  height:
-    m: 1.84
-  weight:
-    kg: 76
-  build:
-    frame: medium
+  height: 1.84
+  weight: 76
+  frame: medium
   appearance:
     eye_color: black
     hair_color: black
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

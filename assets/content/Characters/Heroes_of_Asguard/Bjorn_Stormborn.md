@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - administration
 name:
   full: Bjorn Stormborn
   title: null
@@ -16,23 +17,27 @@ id: IQJpaW7lB8mYgiWK
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjrnstrmbrn
 img: icons/person.svg
-portrait: images/being/bjrnstrmbrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/bjrnstrmbrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Warrior and Clan Leader
-  station: administration
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 46
   birthday: 674/1/6
-  height:
-    m: 1.81
-  weight:
-    kg: 103
-  build:
-    frame: heavy
+  height: 1.81
+  weight: 103
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: dark_blonde
@@ -486,12 +491,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

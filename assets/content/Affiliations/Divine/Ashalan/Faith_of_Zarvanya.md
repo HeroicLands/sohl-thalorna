@@ -1,4 +1,5 @@
 ---
+description: "Dreams."
 aliases:
   - Faith of Zárványä
   - The Weaver of Visions
@@ -9,38 +10,117 @@ tags:
   - dreams
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: The Weaver of Visions
+  symbol: A silver crescent moon with trailing threads
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore:
+    - zarvanyadty
+  parents:
+    - ashanpnthn
+  relations:
     ashanpnthn: aligned
+sohl:
   archetype: null
 name:
   full: Faith of Zárványä
   aliases: []
 shortcode: zarvanya
-deity: Zárványä
-epithet: The Weaver of Visions
-domain: Dreams
-symbol: A silver crescent moon with trailing threads
-pantheon: ashanpnthn
 alias: Zárványä, The Weaver of Visions
 folder: 7so6UiPt445oIHWs
 ---
 
-Zárványä is the goddess of dreams, visions, omens, and divine insight. She is the weaver of the threads that connect the waking world to the realm of eternal truth—that timeless space where past and future exist simultaneously, where the gods speak directly to mortal minds, and where the deepest patterns of Āsha become visible to those gifted with the sight to perceive them. She is known across every major pantheon by different names—the Aurèldían call her [[doc-goddreams|the God of Dreams]], the Kemetíans honor her as a form of Thōth, the northern peoples know her by a dozen titles—but the Āsháian name alone captures her essence: she is not merely the goddess of sleep and dreams, but the Weaver, the one who spins the threads of vision into patterns of meaning.
+Zárványä is the goddess of dreams, visions, omens, and divine insight. She is the weaver of the threads that connect the waking world to the realm of eternal truth—that timeless space where past and future exist simultaneously, where the gods speak directly to mortal minds, and where the deepest patterns of Āsha become visible to those gifted with the sight to perceive them. She is known across every major pantheon by different names—the Aurèldían call her [[lore-goddreams|the God of Dreams]], the Kemetíans honor her as a form of Thōth, the northern peoples know her by a dozen titles—but the Āsháian name alone captures her essence: she is not merely the goddess of sleep and dreams, but the Weaver, the one who spins the threads of vision into patterns of meaning.
 
 In the desert lands where the Āsháian faith took root, dreams carry weight that civilized peoples of greener lands can scarcely comprehend. A nomadic tribe lost in the Khazryn steppe, their water running low and the stars obscured by sandstorm, will place absolute faith in the vision of their fire-keeper if Zárványä has spoken clearly through it. A sheikh will make decisions of war and peace based on a dream vouchsafed to him in the night. A merchant will commit vast resources to a trading venture because Zárványä showed him the path in sleep. In desert cultures, where the margin between life and death is often the width of a single choice, the ability to perceive divine guidance through dreams is not a luxury or an eccentricity—it is survival. Zárványä does not offer comfort or escape through dreams; she offers truth, guidance, and the whispered counsel of the eternal gods.
 
 The Āsháian understanding is that Zárványä does not create dreams from nothing. Rather, she is a weaver who takes the threads of past and future, of cosmic pattern and individual destiny, and arranges them in such a way that the dreamer can perceive the truth encoded within them. A dream from Zárványä is not random neurological noise—it is a message, cryptic perhaps, symbolic certainly, but absolutely meaningful. This is why dream-interpretation is elevated to the status of sacred science in Āsháian cultures. To ignore a dream vouchsafed by Zárványä is to turn away from divine counsel; to misinterpret it is to act on falsehood and invite catastrophe.
 
-Unlike the priests of many other deities, who are appointed or trained through formal institutional structures, the priests of Zárványä are often called directly through dreams. A child in [[doc-sultntmrdd|Amradad]] might be seized by a vivid, recurring vision—always the same sequence, the same symbols, the same impossible clarity—and when the family seeks interpretation from a Hērbad of Zárványä, the priest will often declare that the goddess herself has chosen this child. The visions will intensify, becoming more frequent and more insistent, until the child's family brings them to a Dream House for formal training. Alternatively, a nomadic tribesperson might wander alone into the desert—as all young adults of both genders are expected to do—and experience a vision-quest in which Zárványä speaks directly, showing the person's true calling and purpose. Such individuals, if their visions prove authentic, are brought into the priesthood with reverence and some awe.
+Unlike the priests of many other deities, who are appointed or trained through formal institutional structures, the priests of Zárványä are often called directly through dreams. A child in [[affiliation-sultntmrdd|Amradad]] might be seized by a vivid, recurring vision—always the same sequence, the same symbols, the same impossible clarity—and when the family seeks interpretation from a Hērbad of Zárványä, the priest will often declare that the goddess herself has chosen this child. The visions will intensify, becoming more frequent and more insistent, until the child's family brings them to a Dream House for formal training. Alternatively, a nomadic tribesperson might wander alone into the desert—as all young adults of both genders are expected to do—and experience a vision-quest in which Zárványä speaks directly, showing the person's true calling and purpose. Such individuals, if their visions prove authentic, are brought into the priesthood with reverence and some awe.
 
 ## Worship
 
-The central ritual of Zárványä's worship is the sacred sleep. In the great Dream Houses of [[doc-sultntmrdd|Amradad]] and the other settled cities of the Āsháian realms, the faithful enter specially prepared chambers at dusk. These rooms are painted with intricate iconography—stars and geometric patterns that echo the architecture of the cosmos, symbols of truth woven into the very walls. A Hērbad of Zárványä kindles a fire using incense specifically prepared to induce clarity of vision: dried herbs that open the mind, aromatic oils that sharpen perception, rare unguents whose origins are closely guarded secrets of the priesthood. The faithful lie on cushions of wool, their minds cleared through meditation and prayer, and wait for Zárványä to speak.
+The central ritual of Zárványä's worship is the sacred sleep. In the great Dream Houses of [[affiliation-sultntmrdd|Amradad]] and the other settled cities of the Āsháian realms, the faithful enter specially prepared chambers at dusk. These rooms are painted with intricate iconography—stars and geometric patterns that echo the architecture of the cosmos, symbols of truth woven into the very walls. A Hērbad of Zárványä kindles a fire using incense specifically prepared to induce clarity of vision: dried herbs that open the mind, aromatic oils that sharpen perception, rare unguents whose origins are closely guarded secrets of the priesthood. The faithful lie on cushions of wool, their minds cleared through meditation and prayer, and wait for Zárványä to speak.
 
 The goddess does not always speak clearly. Some nights yield visions of profound clarity—the dreamer awakens knowing exactly what must be done, seeing the pattern that had been hidden. Other nights produce only fragmentary images, symbols that must be parsed and interpreted. The next morning, the Hērbads of the Dream House gather with the supplicants, and together they perform dream-interpretation—a practice that combines philosophical insight, knowledge of symbolism, astronomical lore, and pure intuition. A master dream-interpreter (known as a Rūshnaveh, or "vision-reader") might spend hours unpacking the layers of meaning in a single dream, tracing the symbolism back to its roots in cosmic principle and forward to its practical application in waking life.
 

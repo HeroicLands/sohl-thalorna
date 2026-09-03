@@ -5,6 +5,7 @@ aliases:
   - Oskunn Bjargskorn
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Óskunn Bjargskorn
   title: ""
@@ -16,29 +17,26 @@ id: ltUbakCQz8bc9FeL
 folder: Ka9XqaF27b0I3Gmq
 shortcode: osknbjrgskrn
 img: icons/person.svg
-portrait: images/being/osknbjrgskrn-portrait.webp
 type: being
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/osknbjrgskrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
   gender: female
+  species: null
   age: 30
   birthday: 690/3/22
-  height:
-    m: 1.68
-  weight:
-    kg: 58.1
-  build:
-    frame: light
+  height: 1.68
+  weight: 58.1
+  frame: light
   appearance:
     eye_color: green
     hair_color: auburn

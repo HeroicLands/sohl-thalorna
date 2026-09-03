@@ -5,6 +5,8 @@ aliases:
   - Qamira Lamari
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Qâmira Lamari
   title: ""
@@ -16,34 +18,31 @@ id: id1VYkFj9m65hNCu
 folder: mtJ4TzKdySHbE2OM
 shortcode: qamiralamr
 img: icons/person.svg
-portrait: images/being/qamiralamr-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/qamiralamr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: female
+  species: null
   age: 58
   birthday: 662/10/29
-  height:
-    m: 1.63
-  weight:
-    kg: 57.6
-  build:
-    frame: medium
+  height: 1.63
+  weight: 57.6
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: white
     skin_color: rich_brown
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

@@ -2,23 +2,22 @@
 aliases:
   - Belekos
 id: 4sQb0DORaqTYrcOm
+tags:
+  - city
+  - merchant
+description: "Merchant City"
 type: place
 subType: settlement
-settlementType: "Merchant City"
-population: 25000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vylariargn
+  population: 25000
 name:
   full: Belekos
   aliases: []
 shortcode: belekos
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 
@@ -34,6 +33,6 @@ Belekos has begun to feel the weight of empire's decline, but differently than p
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
 - [[skill-vylarilng|Vylari]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

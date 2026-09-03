@@ -9,9 +9,30 @@ name:
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
 id: nx1JBaUtNq1pa3Ki
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/swmpstrd-portrait.webp
 shortcode: swmpstrd
 type: being
+data:
+  portrait: images/being/swmpstrd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

@@ -5,6 +5,7 @@ aliases:
   - Kallinikos Zygomalas
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kallínikos Zygomálas
   title: ""
@@ -16,29 +17,26 @@ id: Yrbze8Mf1QdwE0J4
 folder: b81DHx3S7C9ep13E
 shortcode: klnkszygmls
 img: icons/person.svg
-portrait: images/being/klnkszygmls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/klnkszygmls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 39
   birthday: 681/3/27
-  height:
-    m: 1.75
-  weight:
-    kg: 70.8
-  build:
-    frame: medium
+  height: 1.75
+  weight: 70.8
+  frame: medium
   appearance:
     eye_color: warm_brown
     hair_color: dark_brown

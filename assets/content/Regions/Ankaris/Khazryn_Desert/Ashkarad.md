@@ -2,22 +2,22 @@
 aliases:
   - Ashkarad
 id: kDexjFi0gHnVg2xA
+tags:
+  - town
+  - craft
+description: "Craft Town"
 type: place
-settlementType: "Craft Town"
 name:
   full: Ashkarad
   aliases: []
 shortcode: ashkarad
 subType: settlement
-parent:
-  regions:
+data:
+  demonym: null
+  lore: []
+  parents:
     - khzryndsrtrgn
-  polities:
-    - khzrncnfdrtn
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 
@@ -29,6 +29,6 @@ The desert itself shapes Ashkarad's character—life here is precious and fragil
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
 - [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

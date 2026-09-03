@@ -4,6 +4,7 @@ aliases:
   - Dalina Valarion
 tags:
   - draft
+  - tradesfolk
 name:
   full: Dálina Valárion
   title: ""
@@ -16,23 +17,27 @@ id: Ia2gBi4qUxWzxczd
 folder: 9t9O4iB5cYJtSaTG
 shortcode: dalinavlrn
 img: icons/person.svg
-portrait: images/being/dalinavlrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dalinavlrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: noble
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - landedlordrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 32
   birthday: 692/6/9
-  height:
-    m: 1.75
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.75
+  weight: 65
+  frame: light
   appearance:
     eye_color: amber
     hair_color: dark_brown
@@ -40,15 +45,6 @@ traits:
     complexion: tanned
     extra_features:
       - a scar running down the right leg
-gear:
-  weapons: []
-  armor:
-    - Professional attire suitable for piloting
-  misc:
-    - Leather satchel for documents
-    - Cargo manifests
-    - navigation tools
-    - maps
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

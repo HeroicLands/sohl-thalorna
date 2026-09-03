@@ -4,7 +4,6 @@ aliases:
   - Hellad Region
 tags:
   - region
-title: ""
 description: Crossroads region of southern Ankaris — a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
 name:
   full: Hellád Region
@@ -14,31 +13,28 @@ shortcode: heladrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Greece, Bulgaria, North Macedonia, and Albania — the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
-demonym: Helladic
-parent:
-  regions:
+data:
+  demonym: Helladic
+  lore:
+    - humanflk
+  parents:
     - midhalnrgn
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-languages:
-  - helonclng
+  population: null
+terran_analog: "Greece, Bulgaria, North Macedonia, and Albania — the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
 folder: ss38lwZR9eyT4C7A
 ---
 
-The Hellád is the crossroads region of southern [[doc-ankrscntnnt|Ankaris Continent]] — a band of mountainous peninsulas, archipelagos, and narrow coastal plains that bridges the Aurèldían west and the eastern realms of [[doc-khzryndsrtrgn|Khazryn]], [[doc-cnfdrtnhrdnstts|Harad]], and ultimately [[doc-tanvuregin|Tānvür]]. It is physically small compared to the sprawling regions that flank it, but its strategic position at the meeting of sea lanes, caravan routes, and cultural spheres has made it one of the most influential regions on the continent. Where [[doc-aureldirgn|Aurèldía]] is the civilization of kings and cathedrals and [[doc-tanvuregin|Tānvür]] the civilization of empire and classification, the Hellád is the civilization of the city-state — fractious, philosophical, and proud.
+The Hellád is the crossroads region of southern [[place-ankrscntnnt|Ankaris Continent]] — a band of mountainous peninsulas, archipelagos, and narrow coastal plains that bridges the Aurèldían west and the eastern realms of [[place-khzryndsrtrgn|Khazryn]], [[affiliation-cnfdrtnhrdnstts|Harad]], and ultimately [[place-tanvuregin|Tānvür]]. It is physically small compared to the sprawling regions that flank it, but its strategic position at the meeting of sea lanes, caravan routes, and cultural spheres has made it one of the most influential regions on the continent. Where [[place-aureldirgn|Aurèldía]] is the civilization of kings and cathedrals and [[place-tanvuregin|Tānvür]] the civilization of empire and classification, the Hellád is the civilization of the city-state — fractious, philosophical, and proud.
 
-Two great cultural-political complexes define the region: [[doc-helionis|Heliónis]] in the west, intellectual heartland of the Aurèldían world, and the [[doc-byzarianlg|Byzarian League]] in the east, a confederation of five merchant city-states that controls the overland approaches to the desert and the eastern sea. Between and around them stretch smaller independent polities, contested islands, and the mountainous interior where local lords and bandit-kings rule their own villages without much reference to either great power.
+Two great cultural-political complexes define the region: [[place-helionis|Heliónis]] in the west, intellectual heartland of the Aurèldían world, and the [[affiliation-byzarianlg|Byzarian League]] in the east, a confederation of five merchant city-states that controls the overland approaches to the desert and the eastern sea. Between and around them stretch smaller independent polities, contested islands, and the mountainous interior where local lords and bandit-kings rule their own villages without much reference to either great power.
 
 ## Geography
 
-The Hellád occupies the central-southern shore of Ankaris, fronting the [[doc-vylarianse|Vylarian Sea]] along its western length and extending east along the northern coast of that sea toward the desert frontier. The terrain is overwhelmingly mountainous: rugged peninsulas jut into the sea, cut by narrow fertile valleys and ringed by archipelagos of small islands. Interior plateaus support terraced olive groves, vineyards, and hardy grain crops; the coastal margins are densely urbanized.
+The Hellád occupies the central-southern shore of Ankaris, fronting the [[place-vylarianse|Vylarian Sea]] along its western length and extending east along the northern coast of that sea toward the desert frontier. The terrain is overwhelmingly mountainous: rugged peninsulas jut into the sea, cut by narrow fertile valleys and ringed by archipelagos of small islands. Interior plateaus support terraced olive groves, vineyards, and hardy grain crops; the coastal margins are densely urbanized.
 
 The climate is warm-coastal — hot, dry summers and mild, rainy winters — with the brilliant clarity of light for which Helionite artists and philosophers are famous. The sea is close at hand from nearly every significant settlement, and the Helladic cultural imagination is inescapably maritime: even interior cities orient themselves toward their nearest harbor.
 
-The eastern portion of the region, held by the Byzarian League, transitions from the warm coast into the drier, steppe-like uplands that lead to the [[doc-khzryndsrtrgn|Khazryn Desert]]. The Byzarian cities sit astride the passes, controlling the chokepoints between the sea trade and the caravan trade.
+The eastern portion of the region, held by the Byzarian League, transitions from the warm coast into the drier, steppe-like uplands that lead to the [[place-khzryndsrtrgn|Khazryn Desert]]. The Byzarian cities sit astride the passes, controlling the chokepoints between the sea trade and the caravan trade.
 
 ## Peoples and Culture
 
@@ -46,7 +42,7 @@ The Helladic peoples are overwhelmingly human, descendants of an ancient stock w
 
 Helionite society is the intellectual fountainhead of the Aurèldían world. Its academies, philosophical schools, and civic assemblies have produced more of the continent's theological, metaphysical, and political literature than any other region. Helionite city-states practice varying forms of governance — oligarchy, democracy, hereditary tyranny, elected kingship — and quarrel fiercely with one another over which form is best, often resolving the argument by war. The _hetairai_ of Heliónis, educated courtesans trained in music, philosophy, rhetoric, and the social arts, are famous across Mídhalión as subtle political agents and companions to the powerful.
 
-The Byzarian cities — [[doc-altinkale|Altinkale]], [[doc-denizara|Denizara]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]], and [[doc-karatas|Karataş]] — are merchant republics of a distinct flavor, their populations an extraordinary polyglot mix of Helonic, Haradi, Khazryn, and Vylarian stock. Byzarian governance is dominated by guilds and banking houses; the League's decisions are hammered out in trade-councils more often than battlefield tribunals, and its elected Despots serve fixed terms under heavy institutional constraint.
+The Byzarian cities — [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], and [[affiliation-karatas|Karataş]] — are merchant republics of a distinct flavor, their populations an extraordinary polyglot mix of Helonic, Haradi, Khazryn, and Vylarian stock. Byzarian governance is dominated by guilds and banking houses; the League's decisions are hammered out in trade-councils more often than battlefield tribunals, and its elected Despots serve fixed terms under heavy institutional constraint.
 
 ## Religion
 
@@ -68,21 +64,21 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] is well-established throughout the 
 
 ## Relations with Neighboring Regions
 
-To the **west**, across the sea, lies [[doc-aureldirgn|Aurèldía]] proper. Relations are old, dense, and amicable: Heliónis is culturally and religiously part of the western sphere, and its intellectual influence runs deep through every Aurèldían court.
+To the **west**, across the sea, lies [[place-aureldirgn|Aurèldía]] proper. Relations are old, dense, and amicable: Heliónis is culturally and religiously part of the western sphere, and its intellectual influence runs deep through every Aurèldían court.
 
-To the **north** lies the [[doc-nrdlndsrgn|Nordlands]]. Nordmal merchants and mercenaries are a familiar sight in Helladic ports; the relationship is commercial and transactional, without the religious tension that marks the Nordmal-Aurèldían frontier further west.
+To the **north** lies the [[place-nrdlndsrgn|Nordlands]]. Nordmal merchants and mercenaries are a familiar sight in Helladic ports; the relationship is commercial and transactional, without the religious tension that marks the Nordmal-Aurèldían frontier further west.
 
-To the **south**, across the [[doc-vylarianse|Vylarian Sea]], lie the northern coasts of [[doc-xerathia|Xerathia]]. Helladic and Xerathian merchants have traded across these waters for a thousand years; Helionite philosophers have studied — at a respectful distance — the theological traditions of [[doc-empirtkhpr|Ta'Kheperu]].
+To the **south**, across the [[place-vylarianse|Vylarian Sea]], lie the northern coasts of [[place-xerathia|Xerathia]]. Helladic and Xerathian merchants have traded across these waters for a thousand years; Helionite philosophers have studied — at a respectful distance — the theological traditions of [[affiliation-empirtkhpr|Ta'Kheperu]].
 
-To the **east** lies the [[doc-khzryndsrtrgn|Khazryn Desert]] and, beyond it, the world of the [[affiliation-ashanpnthn|Āsháian]] faiths. The Byzarian League is the gateway through which eastern goods and eastern ideas have always entered the western world.
+To the **east** lies the [[place-khzryndsrtrgn|Khazryn Desert]] and, beyond it, the world of the [[affiliation-ashanpnthn|Āsháian]] faiths. The Byzarian League is the gateway through which eastern goods and eastern ideas have always entered the western world.
 
 ## See Also
 
-- [[doc-helionis|Heliónis]] — western intellectual heartland
-- [[doc-byzarianlg|Byzarian League]] — eastern merchant confederation
-- [[doc-altinkale|Altinkale]], [[doc-denizara|Denizara]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]], [[doc-karatas|Karataş]] — the five Byzarian city-states
-- [[doc-aureldirgn|Aurèldía Region]] — western cultural cousin
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — eastern desert frontier
-- [[doc-vylarianse|Vylarian Sea]] — the sea at the region's feet
+- [[place-helionis|Heliónis]] — western intellectual heartland
+- [[affiliation-byzarianlg|Byzarian League]] — eastern merchant confederation
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — the five Byzarian city-states
+- [[place-aureldirgn|Aurèldía Region]] — western cultural cousin
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — eastern desert frontier
+- [[place-vylarianse|Vylarian Sea]] — the sea at the region's feet
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — primary pantheon
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

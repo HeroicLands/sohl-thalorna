@@ -9,9 +9,30 @@ name:
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
 id: ep28BnO3DsmrKAf2
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/nghtwrth-portrait.webp
 shortcode: nghtwrth
 type: being
+data:
+  portrait: images/being/nghtwrth-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

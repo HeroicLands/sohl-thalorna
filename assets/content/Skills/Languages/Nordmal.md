@@ -27,7 +27,7 @@ flags:
 
 Nordmal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five Normen kingdoms of [[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], and [[doc-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[doc-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five Normen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 

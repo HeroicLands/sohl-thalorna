@@ -7,21 +7,24 @@ tags:
   - iseron
 type: place
 subType: region
+data:
+  demonym: Iseronian
+  lore:
+    - humanflk
+  parents:
+    - worldthlrn
+  population: null
 id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:
   full: Iseron Continent
   aliases: []
 description: The frozen southernmost continent — desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes.
-demonym: Iseronian
-peoples:
-  - human
 terran_analog: "Antarctica — the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
-world: worldthlrn
 folder: H7q8ucUhRFPfD3Dt
 ---
 
-Iseron is the southernmost continent of [[doc-worldthlrn|Thalorna]] — a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
+Iseron is the southernmost continent of [[place-worldthlrn|Thalorna]] — a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
 
 ## Geography
 
@@ -53,7 +56,7 @@ The most persistent and troubling stories about Iseron concern what lies under t
 
 Whether these ruins are the remains of an ancient human civilization that flourished before the last great cooling, a long-vanished outpost of the Elder Races, or something more alien still, is not known. The climate, the distance, and the lethality of Iseronian travel have so far prevented any systematic investigation. What has been recovered from the ice — the occasional carved object, the occasional inscription in a script no living scholar can read — has only deepened the mystery rather than solved it.
 
-A persistent thread of Kaliharan commentary, rarely repeated and never confirmed, suggests that whoever built in Iseron may have been contemporary with — or even related to — the Ithári whose legacy shaped [[doc-kalihara|Kalihara]]. Whether this is informed speculation, garbled tradition, or a hint at something the Kaliharans know but will not say is impossible to determine from outside.
+A persistent thread of Kaliharan commentary, rarely repeated and never confirmed, suggests that whoever built in Iseron may have been contemporary with — or even related to — the Ithári whose legacy shaped [[affiliation-kalihara|Kalihara]]. Whether this is informed speculation, garbled tradition, or a hint at something the Kaliharans know but will not say is impossible to determine from outside.
 
 ## Relations with the Wider World
 
@@ -63,7 +66,7 @@ What draws the occasional expedition south is not trade but the ruins — and th
 
 ## See Also
 
-- [[doc-worldthlrn|The World of Thalorna]] — World overview
-- [[doc-arnscntnnt|Aurionis Continent]] — Northern neighbor across the southern ocean
-- [[doc-kalihara|Kalihara]] — Possible distant connection through the Ithári tradition
-- [[doc-flksinale|Sinalë]], [[doc-flkkhazar|Khazári]] — Elder Races, whose relationship (if any) to the Iseronian ruins is unknown
+- [[place-worldthlrn|The World of Thalorna]] — World overview
+- [[place-arnscntnnt|Aurionis Continent]] — Northern neighbor across the southern ocean
+- [[affiliation-kalihara|Kalihara]] — Possible distant connection through the Ithári tradition
+- [[lore-flksinale|Sinalë]], [[lore-flkkhazar|Khazári]] — Elder Races, whose relationship (if any) to the Iseronian ruins is unknown

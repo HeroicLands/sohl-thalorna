@@ -11,21 +11,103 @@ name:
 shortcode: firstgods
 type: affiliation
 subType: faithtradition
-sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: theocracy
+    summary: >-
+      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
+      than by office.
+    ranks:
+      - level: 0
+        title: Excommunicate
+        lore: excmmnctrnk
+        description: >-
+          Cut off from the rites, the temples and the burial the tradition promises — the one
+          sentence it can pass that outlives the body.
+      - level: 1
+        title: Catechumen
+        lore: catechumenrnk
+        description: Under instruction and not yet received; permitted to hear and not to partake.
+      - level: 2
+        title: Lay Faithful
+        lore: layfaithfulrnk
+        description: >-
+          Of the tradition by profession and observance, keeping its feasts and its prohibitions
+          without office in it.
+      - level: 3
+        title: Devotee
+        lore: layfaithfulrnk
+        description: >-
+          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
+          owe.
+      - level: 4
+        title: Acolyte
+        lore: initiaternk
+        description: >-
+          Serving in the temple and learning its rites, on the path to ordination and not yet
+          holding it.
+      - level: 5
+        title: Ordained
+        lore: priestrnk
+        description: >-
+          Priest or priestess of the tradition, empowered to perform the rites and to bind and
+          loose in its name.
+      - level: 6
+        title: Temple Officer
+        lore: highpriestrnk
+        description: Holding a charge within a temple — its treasury, its schools, its estates,
+          its oracles.
+      - level: 7
+        title: High Priest
+        lore: highpriestrnk
+        description: Head of a temple or a cult, speaking with the voice of the god in matters
+          of its doctrine.
+      - level: 8
+        title: Hierophant
+        lore: grandmasterrnk
+        description: >-
+          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
+          every high priest holds at.
+    offices:
+      Hierophant: >-
+        Head of the tradition, final authority on its doctrine and source of every high priest's
+        sanction.
+      High Priest: Head of a temple or cult, master of its estates and voice of its god on
+        doctrine.
+      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
+        must bless.
+      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
+      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
+      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
+      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
+      Exorcist: >-
+        Charged with what the tradition holds should not be present, and with the rites that
+        remove it.
+      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
+      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
+        obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations:
     theoldway: aligned
     thekindred: aligned
+sohl:
   archetype: null
 folder: w9xJ9t5nQB0ajETq
 ---
 
 # The First Gods
 
-The **First Gods** are the ancestral pantheon of the [[doc-aelendnppl|Áelendan]] and, through them, of the [[doc-pelwarpepl|Pelwar People]] peoples more broadly. The Áelendan hold that the First Gods are older than any other gods worshipped anywhere on [[doc-ankrscntnnt|Ankaris Continent]] — that all later pantheons, including the [[affiliation-arldnpnthn|Aurèldían]], the [[affiliation-asguardian|Asguardian]], and the [[affiliation-kemtnpnthn|Kemetian]], arose out of the First, whether as descendants, refractions, or mortal misreadings of powers too great to be named.
+The **First Gods** are the ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, of the [[lore-pelwarpepl|Pelwar People]] peoples more broadly. The Áelendan hold that the First Gods are older than any other gods worshipped anywhere on [[place-ankrscntnnt|Ankaris Continent]] — that all later pantheons, including the [[affiliation-arldnpnthn|Aurèldían]], the [[affiliation-asguardian|Asguardian]], and the [[affiliation-kemtnpnthn|Kemetian]], arose out of the First, whether as descendants, refractions, or mortal misreadings of powers too great to be named.
 
 Unlike the organised pantheons of the settled kingdoms, the First Gods are not a formal council of named deities with defined portfolios. They are, in the words of Áelendan teaching, a **celestial tribe**: two great Powers who stand in perpetual tension, and the Kindred — animal spirits, place spirits, water spirits, stone spirits — who serve them. There is no separate faith to either Power, because neither Power is worshipped directly. The Kindred, for their part, are not worshipped either — they are **venerated, appeased, or warded against** as the situation requires, through the standing pacts each tribe maintains with them. The religion built around this whole is the [[affiliation-theoldway|Old Way]], a single shamanic tradition that holds the three-layered cosmology together: the Two Powers above, the Kindred between, and the tribes below.
 
@@ -71,13 +153,13 @@ The Kindred are not an abstract concept. They are, in Áelendan experience, as r
 
 ## Relation to Later Pantheons
 
-Áelendan teaching holds that the gods of the settled kingdoms are not strangers to the First. The Aurèldían Twelve, the Asguardian gods of the north, the bright-and-terrible deities of [[doc-kalihara|Kalihara]] — all of these, the Áelendan say, are children of the First, or echoes of the Two Powers refracted through the mortal peoples who first carried their names. The Áelendan do not insist on this lineage and do not proselytise it to outsiders. It is simply how they understand what they see.
+Áelendan teaching holds that the gods of the settled kingdoms are not strangers to the First. The Aurèldían Twelve, the Asguardian gods of the north, the bright-and-terrible deities of [[affiliation-kalihara|Kalihara]] — all of these, the Áelendan say, are children of the First, or echoes of the Two Powers refracted through the mortal peoples who first carried their names. The Áelendan do not insist on this lineage and do not proselytise it to outsiders. It is simply how they understand what they see.
 
 This view is not universally shared. The Aurèldían clergy regard the claim as primitive and theologically naïve, and the Ordo Arcanis treats it as folk-memory that conflates unrelated divine traditions. But in Élavendre, where the nobility traces lineage to Áelendan ancestors and the Aurèldían pantheon is "heavily inflected by older fae traditions," the claim is taken more seriously than elsewhere, and certain Élavendren bardic songs hint at the older cosmology beneath the newer gods.
 
 ## Antiquity
 
-The First Gods are not a recent revelation. Áelendan tradition holds that the Old Way was carried by the earliest Pelwar out of the eastern lands of their origin and was already ancient when the ancestors of the Áelendan reached the shores of [[doc-elavendre|Élavendre]]. The other Pelwar peoples who settled farther east — the Vylari, the Provenzians, the Tarvéni — mostly set the old faith aside as they built cities and adopted the organised Aurèldían pantheon, but the Áelendan kept it, and keep it still.
+The First Gods are not a recent revelation. Áelendan tradition holds that the Old Way was carried by the earliest Pelwar out of the eastern lands of their origin and was already ancient when the ancestors of the Áelendan reached the shores of [[place-elavendre|Élavendre]]. The other Pelwar peoples who settled farther east — the Vylari, the Provenzians, the Tarvéni — mostly set the old faith aside as they built cities and adopted the organised Aurèldían pantheon, but the Áelendan kept it, and keep it still.
 
 Whether the Old Way genuinely predates every other faith on Ankaris is a question that outside scholarship cannot settle. What can be said is that among the living religious traditions of the continent, the Áelendan claim to the earliest roots is not contradicted by any surviving record.
 
@@ -85,7 +167,7 @@ Whether the Old Way genuinely predates every other faith on Ankaris is a questio
 
 - [[affiliation-theoldway|The Old Way]] — The religion that venerates the First Gods
 - [[affiliation-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, and warded against in daily practice
-- [[doc-aelendnppl|Áelendan]] — The people whose pantheon this is
-- [[doc-pelwarpepl|Pelwar People]] — The ancestral people who carried the First Gods out of the east
+- [[lore-aelendnppl|Áelendan]] — The people whose pantheon this is
+- [[lore-pelwarpepl|Pelwar People]] — The ancestral people who carried the First Gods out of the east
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — The organised pantheon the Áelendan regard as descended from the First

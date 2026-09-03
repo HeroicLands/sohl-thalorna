@@ -9,9 +9,30 @@ name:
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
 id: ydAbGU9VRn1tdWQ5
 img: icons/game-icons/delapouite/tortoise.svg
-portrait: images/being/gnttrts-portrait.webp
 shortcode: gnttrts
 type: being
+data:
+  portrait: images/being/gnttrts-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -5,6 +5,7 @@ aliases:
   - Veldor Belthal
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Véldor Bélthal
   title: ""
@@ -16,29 +17,26 @@ id: KGChYYem9ligaSh9
 folder: 4cwfdMa34UryZqPR
 shortcode: veldrblthl
 img: icons/person.svg
-portrait: images/being/veldrblthl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/veldrblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 36
   birthday: 684/10/15
-  height:
-    m: 1.75
-  weight:
-    kg: 65.8
-  build:
-    frame: medium
+  height: 1.75
+  weight: 65.8
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: dark_brown

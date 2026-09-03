@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Zahira Malkhet
   title: ""
@@ -18,29 +19,26 @@ id: y9DjC9T3RB04prDK
 folder: pRBSOhf2qVrV1SQB
 shortcode: zahirmlkht
 img: icons/person.svg
-portrait: images/being/zahirmlkht-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/zahirmlkht-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bounty Hunter
-  station: soldiery
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 28
   birthday: 692/12/3
-  height:
-    m: 1.7
-  weight:
-    kg: 68
-  build:
-    frame: heavy
+  height: 1.7
+  weight: 68
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
@@ -558,9 +556,9 @@ Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair
 
 ### Origin and Early Life
 
-Zahira Malkhet was born in **Sehéla**, a small grain-village of the dry southern interior of the [[doc-mtrrchybth|Matriarchy of Bethûa]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the Bethûan way, the household turned on its women: Zahira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house laboured in the fields as the dependents they were under law. Zahira, the eldest daughter, was raised from the first as one who would matter — for in Bethûa it is daughters who inherit, carry the line, and answer for a household.
+Zahira Malkhet was born in **Sehéla**, a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the Bethûan way, the household turned on its women: Zahira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house laboured in the fields as the dependents they were under law. Zahira, the eldest daughter, was raised from the first as one who would matter — for in Bethûa it is daughters who inherit, carry the line, and answer for a household.
 
-Like every free Bethûan girl, Zahira was trained young in arms and in the **[[doc-gvrnmntbth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
+Like every free Bethûan girl, Zahira was trained young in arms and in the **[[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
 
 ### Training and Rise to Prominence
 
@@ -570,15 +568,15 @@ For a time she served as one of the Dómissa's household guard, enforcing her mi
 
 ### Becoming a Bounty Hunter
 
-Her chance came with a runaway bound-man — a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethûa, where no man may raise his hand to a woman and live. Zahira tracked him across the borderlands and returned him for judgement, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Charíssa to any woman with coin and a quarry: the Houses, the Trade-Houses, the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of [[doc-bethura|Bethûra]], she built a name as the woman you sent after a quarry no one else could run to ground.
+Her chance came with a runaway bound-man — a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethûa, where no man may raise his hand to a woman and live. Zahira tracked him across the borderlands and returned him for judgement, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Charíssa to any woman with coin and a quarry: the Houses, the Trade-Houses, the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of [[place-bethura|Bethûra]], she built a name as the woman you sent after a quarry no one else could run to ground.
 
 ### Current Mission
 
-Zahira has now been engaged for the most dangerous hunt of her life, and by the highest authority in the realm. Through the discreet intermediaries of the **Court of the Veil**, the household of **[[doc-gvrnmntbth|Mêtríssa Amîthéna of House Thamîrîon]]** herself has set Zahira after **Rashîra of House Safîrôn** — a former senior **Grammatíssa** of the [[doc-bethuanflt|Naukrátissa's]] office and a keeper of the sealed rolls of the **Purple Warrant**. Rashîra has fled with the one stolen original: the crown register that lays bare the truth of the deniable war on [[doc-vylarianse|Vylarian]] shipping — that most of its "patriot privateers" are common criminals, that the Great Houses and the Mêtríssa herself grow rich on the plunder with no real benefit to the realm, and, worst of all, that the matriarchy has been secretly preying on its own patron **[[doc-empirtkhpr|Ta'Kheperu]]**, fencing grave-goods robbed from the Kheperi dead. Written on crown purple vellum under unforgeable seals, that single roll is incontrovertible — and in the wrong hands it could cost Bethûa the patron on whom its freedom depends. For taking up the work of the Veil, Zahira has earned a quiet and dangerous name in the right circles: **the Hound of the Veil**.
+Zahira has now been engaged for the most dangerous hunt of her life, and by the highest authority in the realm. Through the discreet intermediaries of the **Court of the Veil**, the household of **[[affiliation-mtrrchybth|Mêtríssa Amîthéna of House Thamîrîon]]** herself has set Zahira after **Rashîra of House Safîrôn** — a former senior **Grammatíssa** of the [[affiliation-bethuanflt|Naukrátissa's]] office and a keeper of the sealed rolls of the **Purple Warrant**. Rashîra has fled with the one stolen original: the crown register that lays bare the truth of the deniable war on [[place-vylarianse|Vylarian]] shipping — that most of its "patriot privateers" are common criminals, that the Great Houses and the Mêtríssa herself grow rich on the plunder with no real benefit to the realm, and, worst of all, that the matriarchy has been secretly preying on its own patron **[[affiliation-empirtkhpr|Ta'Kheperu]]**, fencing grave-goods robbed from the Kheperi dead. Written on crown purple vellum under unforgeable seals, that single roll is incontrovertible — and in the wrong hands it could cost Bethûa the patron on whom its freedom depends. For taking up the work of the Veil, Zahira has earned a quiet and dangerous name in the right circles: **the Hound of the Veil**.
 
 What sets this hunt apart is what Zahira has _not_ been told. Her handlers at the Veil have given her only the shape of the thing — that Rashîra stole secrets that would be catastrophic in the wrong hands — and bound her with one standing order above all others: **she is never to read the stolen papers, and never to let Rashîra speak her case.** The fugitive is a liar, they warn, a silver-tongued clerk who will say anything to save her own neck, and a single conversation could turn a loyal woman. So Zahira's charge is as simple as it is absolute — recover the rolls or destroy them, kill their keeper, and learn nothing of what they contain. She does not know that the order to keep her ignorant is the whole point, nor that the truth written on that purple vellum would damn the very masters who loosed her.
 
-Rashîra did not run for the northern ports as a defector is expected to, but the other way — south, into the **[[affiliation-jcklsthmrchs|South Marches]]** beyond the matriarchy's frontier, and through them west: her goal is **[[doc-empirtkhpr|Ta'Kheperu]]**, the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands — and into the territory of **[[being-yasurajckl|Yâsûra the Jackal]]**, the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent **[[being-casiaveric|Cassia Verric]]** works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Kheperi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
+Rashîra did not run for the northern ports as a defector is expected to, but the other way — south, into the **[[affiliation-jcklsthmrchs|South Marches]]** beyond the matriarchy's frontier, and through them west: her goal is **[[affiliation-empirtkhpr|Ta'Kheperu]]**, the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands — and into the territory of **[[being-yasurajckl|Yâsûra the Jackal]]**, the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent **[[being-casiaveric|Cassia Verric]]** works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Kheperi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
 
 ### End Goal
 
@@ -625,20 +623,20 @@ Despite her skills and reputation, Zahira is not without doubts. She struggles w
 
 ### Enemies
 
-- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]**: Zahira's quarry — the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[doc-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
+- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]**: Zahira's quarry — the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[place-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
 - **[[being-casiaveric|Cassia Verric]]**: The Vylarian agent working the same Marches — courting Rashîra toward a Vylarian handover, closing the roads east to keep the register from Ta'Kheperu, and sabotaging Zahira's own hunt at every turn. To Vylaria a Bethûan recovery is the worst outcome of all, so Cassia means to see the Hound confused, misled, and delayed until the rolls are in imperial hands — though she is far too careful to be seen doing it.
 - **[[being-yasurajckl|Yâsûra the Jackal]] and her [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: A warband of the Houseless in the drylands beyond Bethûa's southern frontier, led by an exiled spear-sister who blames Zahira — rightly — for her ruin. Years ago a hunt of Zahira's turned bloody on Yâsûra's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethûa's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays — and Rashîra's protectors have coin enough to set them on Zahira's trail.
 
 ### Affiliations
 
 - **[[being-laylamarut|Layla Marut, the Merchant Princess]]**: [[being-laylamarut|Layla]] and Zahira met when Zahira was hired by Layla's trading clan to recover goods stolen from one of their caravans. Taken with Zahira's nerve and skill, the restless daughter of the House talked her family into letting her ride along — trading the gilded cage of a Bethûan trade-clan's expectations for the road, and bringing her web of mercantile contacts and her sharp tongue to Zahira's hunts.
-- **[[being-narisahrvn|Nari Sahravân, the Desert Mystic]]**: A far-wandering mystic and healer of the deep [[doc-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands — a vision had carried Nari there, a hunt had carried Zahira — and [[being-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
+- **[[being-narisahrvn|Nari Sahravân, the Desert Mystic]]**: A far-wandering mystic and healer of the deep [[place-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands — a vision had carried Nari there, a hunt had carried Zahira — and [[being-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
 
 ## Plot Hooks
 
 1. **The Fugitive's Refuge**:
 
-   Zahira learns that Rashîra has not run blindly north but has bought the protection of a [[doc-bethuanflt|warrant-captain]] of doubtful loyalty — a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashîra to Vylaria herself. To reach her quarry, Zahira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
+   Zahira learns that Rashîra has not run blindly north but has bought the protection of a [[affiliation-bethuanflt|warrant-captain]] of doubtful loyalty — a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashîra to Vylaria herself. To reach her quarry, Zahira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
 
 2. **The Price of the Trail**:
 
@@ -650,4 +648,4 @@ Despite her skills and reputation, Zahira is not without doubts. She struggles w
 
 4. **What the Rolls Reveal**:
 
-   Cornered at last, Rashîra offers Zahira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. The register lays bare the whole machinery of the deniable war — the crown-licensed piracy, the Houses grown rich on it, the [[doc-empirtkhpr|Kheperi]] patron pulling the strings, and the men and ships spent to keep it secret. Rashîra means to carry the truth to those who would end it; Zahira must weigh her oath to the Mêtríssa who loosed her against the rot the register would expose — and decide, at last, whose hound she truly is.
+   Cornered at last, Rashîra offers Zahira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. The register lays bare the whole machinery of the deniable war — the crown-licensed piracy, the Houses grown rich on it, the [[affiliation-empirtkhpr|Kheperi]] patron pulling the strings, and the men and ships spent to keep it secret. Rashîra means to carry the truth to those who would end it; Zahira must weigh her oath to the Mêtríssa who loosed her against the rot the register would expose — and decide, at last, whose hound she truly is.

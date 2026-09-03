@@ -2,21 +2,22 @@
 aliases:
   - Stormveil
 id: TlYOx3SBgFES4hvV
+tags:
+  - castle
+  - garrison
+description: "Castle and Garrison"
 type: place
 subType: settlement
-settlementType: "Castle and Garrison"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - aelwyth
+  population: null
 name:
   full: Stormveil
   aliases: []
 shortcode: stormveil
-parent:
-  polities:
-    - jrldmstrmvld
 folder: ZbE1NQo3ApZ26xon
 ---
 

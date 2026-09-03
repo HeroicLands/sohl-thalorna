@@ -4,6 +4,7 @@ aliases:
   - Halira Naredh
 tags:
   - draft
+  - tradesfolk
 name:
   full: Hâlira Náredh
   title: ""
@@ -16,39 +17,33 @@ id: dJDRZtUbzq0aVnLe
 folder: 4cwfdMa34UryZqPR
 shortcode: haliranrdh
 img: icons/person.svg
-portrait: images/being/haliranrdh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/haliranrdh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  lore:
+    - elavendriclt
+    - commonerrnk
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 26
   birthday: 698/9/3
-  height:
-    m: 1.75
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.75
+  weight: 67
+  frame: light
   appearance:
     eye_color: blue
     hair_color: silver
     skin_color: medium
     complexion: clear
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Colorful clothing suitable for her work
-  misc:
-    - Small bag for tools
-    - Quills
-    - ink
-    - decorative parchment
-    - colored inks
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

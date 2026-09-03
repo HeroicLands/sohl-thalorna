@@ -9,9 +9,30 @@ name:
 description: "A supremely cunning spider of dark caverns and ruins that spreads nearly invisible webs across confined spaces to snare prey."
 id: c0MYxLmxJqlP3eq6
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/wbcrwlr-portrait.webp
 shortcode: wbcrwlr
 type: being
+data:
+  portrait: images/being/wbcrwlr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

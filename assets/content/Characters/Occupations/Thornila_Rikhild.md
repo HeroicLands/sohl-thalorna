@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Thornila Ríkhild
   title: ""
@@ -17,39 +18,33 @@ id: UdLEkHOUNX1yj0Rp
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrnlrkhld
 img: icons/person.svg
-portrait: images/being/thrnlrkhld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrnlrkhld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - landedlordrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 35
   birthday: 689/1/8
-  height:
-    m: 1.83
-  weight:
-    kg: 82
-  build:
-    frame: light
+  height: 1.83
+  weight: 82
+  frame: light
   appearance:
     eye_color: amber
     hair_color: black
     skin_color: fair
     complexion: rough
     extra_features: []
-gear:
-  weapons:
-    - Sword and shield
-  armor:
-    - Fine armor adorned with the symbols of Jánus
-  misc:
-    - Small satchel for offerings
-    - Sacred texts
-    - ceremonial items
-    - donation ledger
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

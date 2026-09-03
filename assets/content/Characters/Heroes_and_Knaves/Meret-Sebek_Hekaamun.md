@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - mages
 name:
   full: Meret-Sebek Heka’amun
   title: ""
@@ -17,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
 img: icons/person.svg
-portrait: images/being/mrtsbkhkmn-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/mrtsbkhkmn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 43
   birthday: 677/7/12
-  height:
-    m: 1.75
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.75
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -572,7 +570,7 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -582,7 +580,7 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 ### Origin and Early Life
 
-Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **Zerula**, a cultural and scholarly hub of the **Empire of [[doc-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **Zerula**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Meret-Sebek, from a young age, showed a remarkable affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, ensured he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 

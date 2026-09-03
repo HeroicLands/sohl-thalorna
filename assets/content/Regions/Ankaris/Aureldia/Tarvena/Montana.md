@@ -3,21 +3,21 @@ aliases:
   - Montaña
   - Montana
 id: elbApD1i9cSa1Wyh
+tags:
+  - city
+description: "Walled City"
 type: place
 subType: settlement
-settlementType: "Walled City"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Montaña
   aliases: []
 shortcode: montana
-parent:
-  polities:
-    - kingdmlnrk
 folder: DB9rgGreD8FtqoBx
 ---
 

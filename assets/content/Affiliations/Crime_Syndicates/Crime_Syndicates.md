@@ -6,6 +6,94 @@ tags:
 description: "Overview of competitive regional criminal syndicates—fragmented underworld where profit drives constantly shifting alliances and violent territorial disputes."
 type: affiliation
 subType: criminal
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: autocracy
+    summary: >-
+      A boss whose word is the organisation's only law, held for exactly as long as it is
+      feared.
+    ranks:
+      - level: 0
+        title: Marked
+        lore: outlawrnk
+        description: Named for killing, and every member who meets them is expected to try.
+      - level: 1
+        title: Hanger-on
+        lore: dependentrnk
+        description: >-
+          Around the organisation and useful to it — a doorman, a runner, a girl in a house
+          — and told nothing.
+      - level: 2
+        title: Associate
+        lore: swornmemberrnk
+        description: >-
+          Working for the organisation without being of it: paid for jobs, and disposable between
+          them.
+      - level: 3
+        title: Made Member
+        lore: swornmemberrnk
+        description: >-
+          Sworn in and under the organisation's protection, owing it obedience and a cut of
+          everything.
+      - level: 4
+        title: Earner
+        lore: earnerrnk
+        description: >-
+          Running a business of the organisation's — a racket, a route, a house — and paying
+          up from it.
+      - level: 5
+        title: Enforcer
+        lore: enforcerrnk
+        description: >-
+          Charged with what the organisation collects by fear, and with what it does when fear
+          fails.
+      - level: 6
+        title: Crew Boss
+        lore: commanderrnk
+        description: Holding a crew and a territory, answerable for both and for what they bring
+          in.
+      - level: 7
+        title: Underboss
+        lore: underbossrnk
+        description: >-
+          Second in the organisation, running it day to day and standing between the boss and
+          everyone else.
+      - level: 8
+        title: Boss
+        lore: grandmasterrnk
+        description: >-
+          Head of the organisation, whose word is its only law and whose position lasts exactly
+          as long as it is feared.
+    offices:
+      Boss: Head of the organisation, whose word is its law for as long as it is feared.
+      Underboss: >-
+        Second, running the organisation day to day and standing between the boss and everyone
+        else.
+      Counsellor: Adviser to the boss, holding no crew and no territory and more influence
+        than either.
+      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
+      Enforcer: Collector by fear, and executor of what follows when fear fails.
+      Fence: Buyer and mover of what the organisation takes, and its most closely held connection.
+      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
+      Treasurer: >-
+        Keeper of the organisation's money — its cuts, its bribes, its reserve, and where
+        all three are.
+      Master of Lookouts: Runner of the network of eyes on which every operation depends.
+      Courier: Carrier of what may not be written, between people who may not meet.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
+sohl:
+  archetype: null
 id: DRj0wzDUbdTo5p3U
 name:
   full: Crime Syndicates of Thalorna
@@ -16,7 +104,7 @@ folder: GOlgYgpU2BQfAG6g
 
 # Crime Syndicates of Thalorna
 
-Unlike some settings where a single monolithic "thieves' guild" spans the known world, Thalorna's criminal underworld is fractured, competitive, and deeply regional. Four major syndicates operate across the Vylarian Sea basin, with a fifth — the Hëk Lōt Zhāk — dominating the far east in the [[doc-tanvurempr|Empire of Tānvür]]. None share any love for one another. Alliances shift with the tides — the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
+Unlike some settings where a single monolithic "thieves' guild" spans the known world, Thalorna's criminal underworld is fractured, competitive, and deeply regional. Four major syndicates operate across the Vylarian Sea basin, with a fifth — the Hëk Lōt Zhāk — dominating the far east in the [[affiliation-tanvurempr|Empire of Tānvür]]. None share any love for one another. Alliances shift with the tides — the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
 
 Most towns also have smaller, purely local organizations — gangs that handle petty crime, prostitution, protection rackets, blackmail, extortion, and the occasional hit job. These local outfits exist in an uneasy relationship with the larger syndicates, who use them as subcontractors and buffers. A local gang boss might take a cut from the Gray Tide to look the other way about shipments at the docks, while simultaneously selling information about those same shipments to the Velvet Hand. This layered structure means that the syndicate bosses rarely get their hands dirty, and if a local gang is broken up by the authorities, the larger organization loses an asset but suffers no real exposure.
 
@@ -33,7 +121,7 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 
 ### Eastern Ankaris
 
-- [[affiliation-heklotzhak|Hëk Lōt Zhāk]] (The Black Lotus Society) — Bureaucratic, commercial, and ritual crime network dominating the [[doc-tanvurempr|Empire of Tānvür]]
+- [[affiliation-heklotzhak|Hëk Lōt Zhāk]] (The Black Lotus Society) — Bureaucratic, commercial, and ritual crime network dominating the [[affiliation-tanvurempr|Empire of Tānvür]]
 
 ## Inter-Syndicate Relations
 

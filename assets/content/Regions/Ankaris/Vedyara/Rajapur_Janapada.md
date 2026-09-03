@@ -16,31 +16,116 @@ name:
     - The Janapada of the King's-Town
 id: R3pXzL6vNwQk9mYf
 shortcode: rajaprjnpd
-population: "~25,000"
 subType: polity
-capital: rajapur
-demonym: Rājapuri
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  templatePriority: null
+  demonym: Rājapuri
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple,
+      with representation drawn from each of the eleven constituent villages and from the
+      principal artisan, merchant, and scholar guilds of the central town. By long tradition
+      the sabhā includes one **Memory-Keeper** — a hereditary office whose holder maintains
+      the genealogies of the displaced royal line and recites them at the opening of every
+      formal session, as a continuing acknowledgment of what Rājapur was before it became
+      a janapada.
+    ranks:
+      - level: 0
+        title: Outcaste
+        lore: excmmnctrnk
+        description: >-
+          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          the temples and the courts.
+      - level: 1
+        title: Bonded Servant
+        lore: bondservantrnk
+        description: Bound by debt or birth to a household, owing labour and lacking the standing
+          to hold land.
+      - level: 2
+        title: Śūdra
+        lore: commonerrnk
+        description: >-
+          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          work rather than by rite.
+      - level: 3
+        title: Vaiśya
+        lore: gentryrnk
+        description: >-
+          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          the court and its temples.
+      - level: 4
+        title: Kṣatriya
+        lore: warriorrnk
+        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+          host.
+      - level: 5
+        title: Brāhmaṇa
+        lore: priestrnk
+        description: >-
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          act is complete.
+      - level: 6
+        title: Sāmanta
+        lore: greatlordrnk
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
+          council.
+      - level: 7
+        title: Royal Kin
+        lore: heirrnk
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
+          its regencies.
+      - level: 8
+        title: Mahārāja
+        lore: sovereignrnk
+        description: >-
+          The great king himself, in whom the martial council and the priestly court alike find
+          their sanction.
+    offices:
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+        perform.
+      Rājñī: The chief queen, holding her own revenues, household and voice at court.
+      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
+      Mantrin: Minister of the crown, one of the small council through which the kingdom is
+        actually run.
+      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
+      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
+        minister's.
+      Senāpati: Commander of the host, holding the martial council's confidence as well as
+        the king's.
+      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+        mint.
+      Sāmanta: >-
+        A vassal chieftain holding land in return for service, and the kingdom's chief source
+        of both strength and rebellion.
+      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
+        the passes.
+      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+  commonSkills:
+    - vedyarlng
+  seat: rajapur
+  domains:
     - vedyarargn
-  polities:
+  population: 25000
+  economy:
+    - affiliation-mrchntclctvvdyr
+    - lore-vdyrnbnkng
+  lore:
+    - humanflk
+  parents:
     - janpdsvdyr
-government:
-  type: confederation
-  summary: Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each of the eleven constituent villages and from the principal artisan, merchant, and scholar guilds of the central town. By long tradition the sabhā includes one **Memory-Keeper** — a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
-peoples:
-  - human
+  relations:
+    varakpnthn: aligned
+sohl:
+  archetype: null
 terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom — a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. Its population is roughly twenty-two thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi. It is one of the larger and wealthier janapadas of the [[doc-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one.
+The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. Its population is roughly twenty-two thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one.
 
 The "King's-Town" of the name is a memory. There is no longer a king. There has not been one for nine hundred years.
 
@@ -52,7 +137,7 @@ It collapsed not from external conquest but from internal decadence — the stan
 
 The sabhā was convened. It met for forty days. It declared the kingdom dissolved, the dynastic line ended (with full honors and ceremonial acknowledgment of the line's contributions during its better generations), and the territory of the former kingdom reorganized as a federation of villages governed jointly through the temple. The royal palace was demolished and its stones used to enlarge the temple. The royal granaries were nationalized as common stores. The royal army was disbanded; its members were given parcels of land and absorbed into the cultivator and artisan castes of the new janapada.
 
-This was, by the classical chronicles, the year **−240 AF** (using the [[doc-vylarinmpr#The Common Calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
+This was, by the classical chronicles, the year **−240 AF** (using the [[affiliation-vylarinmpr#The Common Calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
 
 ## The Memory-Keeper
 
@@ -95,7 +180,7 @@ The janapada maintains a modest endowment of common funds — managed by the tem
 
 ## Defense
 
-Rājapur has had no army since the dissolution. The villages can muster perhaps a thousand fighting men of the cultivator and artisan castes if absolutely necessary, but the janapada's standard response to any military threat is to (a) appeal to its patron city-state, [[doc-chandrapur|Chandrapur]], with which it has maintained a formal protection arrangement for nearly two centuries; (b) appeal to the Mahā-Saṅgha for moral support and the threat of broader inter-janapada disapproval against the aggressor; and (c) trust to the Mahānadi floodplain itself, which is difficult terrain for any sustained military campaign during the wet season.
+Rājapur has had no army since the dissolution. The villages can muster perhaps a thousand fighting men of the cultivator and artisan castes if absolutely necessary, but the janapada's standard response to any military threat is to (a) appeal to its patron city-state, [[affiliation-chandrapur|Chandrapur]], with which it has maintained a formal protection arrangement for nearly two centuries; (b) appeal to the Mahā-Saṅgha for moral support and the threat of broader inter-janapada disapproval against the aggressor; and (c) trust to the Mahānadi floodplain itself, which is difficult terrain for any sustained military campaign during the wet season.
 
 The janapada has not been seriously threatened in living memory. The last actual incident of armed conflict on Rājapuri territory was a banditry suppression operation conducted jointly with two neighboring janapadas eighty-three years ago.
 
@@ -105,17 +190,17 @@ The janapada has not been seriously threatened in living memory. The last actual
 
 **Rāmavāhana Smṛti-Bhāra**, current Memory-Keeper. Late fifties, scholar, author of the standard modern commentary on the dissolution.
 
-**Anuraja Harsadevambujakar** of Chandrapur, a Rājapuri-born scholar now resident in [[doc-chandrapur|Chandrapur]] who has been corresponding with several major Vedyari kingdoms about the desirability of more dissolutions on the Rājapuri model. His ideas are controversial but well-received in some janapadas; the kingdoms in question consider him a dangerous radical and have asked Chandrapur to expel him. Chandrapur has declined.
+**Anuraja Harsadevambujakar** of Chandrapur, a Rājapuri-born scholar now resident in [[affiliation-chandrapur|Chandrapur]] who has been corresponding with several major Vedyari kingdoms about the desirability of more dissolutions on the Rājapuri model. His ideas are controversial but well-received in some janapadas; the kingdoms in question consider him a dangerous radical and have asked Chandrapur to expel him. Chandrapur has declined.
 
 ## Commerce and Currency
 
-Rājapur Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-rajapur|Rājapur]] — the King's-Town settlement note
-- [[doc-chandrapur|Chandrapur]] — patron city-state
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-rajapur|Rājapur]] — the King's-Town settlement note
+- [[affiliation-chandrapur|Chandrapur]] — patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

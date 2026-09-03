@@ -4,6 +4,7 @@ aliases:
   - Floreth Branthira
 tags:
   - draft
+  - common-folk
 name:
   full: Floréth Bránthira
   title: ""
@@ -16,39 +17,33 @@ id: cC6ZKPmuMEGj9dCg
 folder: 9t9O4iB5cYJtSaTG
 shortcode: flrthbrnthr
 img: icons/person.svg
-portrait: images/being/flrthbrnthr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/flrthbrnthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Labourer (semi-skilled)
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 45
   birthday: 679/3/18
-  height:
-    m: 1.93
-  weight:
-    kg: 95
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 95
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: black
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Heavy tool (for work)
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Leather pouch for small tools
-    - Construction tools
-    - safety gear
-    - water skin
 sohl:
   archetype: null
   body:
@@ -529,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

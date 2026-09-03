@@ -4,6 +4,7 @@ aliases:
   - Thjotharr Hrafnsvald
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Thjótharr Hrafnsvald
   title: ""
@@ -15,29 +16,26 @@ id: 5hPtTtbAjhP3zcGU
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thjthrhrfnsvld
 img: icons/person.svg
-portrait: images/being/thjthrhrfnsvld-portrait.webp
 type: being
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/thjthrhrfnsvld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
   gender: male
+  species: null
   age: 52
   birthday: 668/4/9
-  height:
-    m: 1.75
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.75
+  weight: 68
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: gray

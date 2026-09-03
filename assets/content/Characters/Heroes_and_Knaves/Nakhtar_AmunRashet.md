@@ -5,6 +5,7 @@ aliases:
   - Nakhtar AmunRashet
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Nakhtar Amun'Râshet
   title: ""
@@ -17,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
 img: icons/person.svg
-portrait: images/being/nkhtrmnrsht-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/nkhtrmnrsht-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 58
   birthday: 662/2/2
-  height:
-    m: 1.75
-  weight:
-    kg: 69.9
-  build:
-    frame: medium
+  height: 1.75
+  weight: 69.9
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: white
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -559,7 +557,7 @@ sohl:
     - { shortcode: bktlrg, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -573,7 +571,7 @@ Nakhtar Amun'Râshet was born into the reeds themselves. His family had been tha
 
 ### Years of Mastery
 
-By his thirtieth year, Nakhtar had established himself as the premier thatcher of his region. His roofs did not merely shed water; they sang in the rain, their multiple layers creating harmonies that villagers claimed had medicinal properties. His methods, refined through his own innovations layered atop centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[doc-empirtkhpr|Ta'Kheperian]] empire, his reputation preceding him, his fees among the highest but universally considered worth the investment. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
+By his thirtieth year, Nakhtar had established himself as the premier thatcher of his region. His roofs did not merely shed water; they sang in the rain, their multiple layers creating harmonies that villagers claimed had medicinal properties. His methods, refined through his own innovations layered atop centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empirtkhpr|Ta'Kheperian]] empire, his reputation preceding him, his fees among the highest but universally considered worth the investment. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
 
 ### The Long Afternoon
 

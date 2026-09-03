@@ -2,21 +2,22 @@
 aliases:
   - Falkenstein
 id: TgcoCbH421uQfKWo
+tags:
+  - fortress
+  - hill
+description: "Hill Fort"
 type: place
 subType: settlement
-settlementType: "Hill Fort"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vrystwald
+  population: null
 name:
   full: Falkenstein
   aliases: []
 shortcode: falkensten
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

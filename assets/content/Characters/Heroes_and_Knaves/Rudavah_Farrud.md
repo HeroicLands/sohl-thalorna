@@ -5,6 +5,8 @@ aliases:
   - Rudavah Farrud
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Rudâvah Farrud
   title: ""
@@ -16,34 +18,31 @@ id: Tep93UDYlLWAd6KL
 folder: V1t8DVX0wKSOCJd5
 shortcode: rudavahfrd
 img: icons/person.svg
-portrait: images/being/rudavahfrd-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/rudavahfrd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ostler
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: female
+  species: null
   age: 30
   birthday: 690/3/22
-  height:
-    m: 1.75
-  weight:
-    kg: 67.1
-  build:
-    frame: medium
+  height: 1.75
+  weight: 67.1
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: black
     skin_color: olive_tanned
-    complexion: ""
+    complexion: null
     extra_features:
       - a burn mark on the left hand
 sohl:

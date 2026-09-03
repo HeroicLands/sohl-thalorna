@@ -5,6 +5,8 @@ aliases:
   - Madhurava Rudrata
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Màdhurava Rudraṭa
   title: ""
@@ -16,34 +18,31 @@ id: A1n0eOJtWKSf2XEC
 folder: JotxZnnXcTECeYW3
 shortcode: madhurvrdr
 img: icons/person.svg
-portrait: images/being/madhurvrdr-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/madhurvrdr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: male
+  species: null
   age: 50
   birthday: 670/11/9
-  height:
-    m: 1.78
-  weight:
-    kg: 76.2
-  build:
-    frame: medium
+  height: 1.78
+  weight: 76.2
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: graying_brown
     skin_color: medium
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left foot
 sohl:

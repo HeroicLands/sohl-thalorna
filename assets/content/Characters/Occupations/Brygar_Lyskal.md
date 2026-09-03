@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Brýgar Lýskal
   title: ""
@@ -16,40 +17,33 @@ id: hVLXnGBB19sMLT6m
 folder: J9R0fnGUTBY5z4pd
 shortcode: brygrlyskl
 img: icons/person.svg
-portrait: images/being/brygrlyskl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brygrlyskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Provenzal
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 27
   birthday: 693/4/6
-  height:
-    m: 1.76
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.76
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: blonde
     skin_color: dark_brown
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - ShrtSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
 sohl:
   archetype: null
   body:
@@ -506,12 +500,6 @@ sohl:
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 27 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 24 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

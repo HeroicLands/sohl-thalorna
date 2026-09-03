@@ -3,6 +3,7 @@ aliases:
   - Dunstan Helmsley
 tags:
   - draft
+  - administration
 name:
   full: Dunstan Helmsley
   title: ""
@@ -15,39 +16,33 @@ id: AQLKHu7qnQTupqzi
 folder: elH5NDPUuiRCICrE
 shortcode: dnstnhlmsly
 img: icons/person.svg
-portrait: images/being/dnstnhlmsly-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dnstnhlmsly-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 49
   birthday: 671/4/8
-  height:
-    m: 1.96
-  weight:
-    kg: 98
-  build:
-    frame: heavy
+  height: 1.96
+  weight: 98
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: red
     skin_color: fair
     complexion: pale
     extra_features: []
-gear:
-  weapons:
-    - Warhammer
-  armor:
-    - Chainmail
-  misc:
-    - Leather pack
-    - Drinking horn
-    - tribal runestone
-    - wpnsup
 sohl:
   archetype: null
   body:
@@ -524,12 +519,6 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 22 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

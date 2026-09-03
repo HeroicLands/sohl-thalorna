@@ -9,9 +9,30 @@ name:
 description: "A lean, granite-scaled reptilian predator up to eight feet long, spined along the back and built to climb and ambush across rocky mountain terrain."
 id: LtrwdR2jwzBxLm9J
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/mntndrk-portrait.webp
 shortcode: mntndrk
 type: being
+data:
+  portrait: images/being/mntndrk-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

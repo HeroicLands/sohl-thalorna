@@ -4,6 +4,7 @@ aliases:
   - Thaldra Druthgar
 tags:
   - draft
+  - common-folk
 name:
   full: Thaldrá Druthgar
   title: ""
@@ -17,39 +18,33 @@ id: XiXPUP9Ax5yC366y
 folder: Nu7AgLZEmR26u2pk
 shortcode: thldrdrthgr
 img: icons/person.svg
-portrait: images/being/thldrdrthgr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thldrdrthgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - commonerrnk
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 27
   birthday: 697/4/2
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
     skin_color: light
     complexion: rugged
     extra_features: []
-gear:
-  weapons:
-    - Dagger (for self-defense)
-  armor:
-    - Practical sailor’s attire
-  misc:
-    - Small satchel for personal items
-    - Ropes
-    - navigation tools
-    - fishing gear
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 55 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

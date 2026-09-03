@@ -11,9 +11,30 @@ name:
 description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient and vengeful, hoarding kingdom-bankrupting wealth over lands it conquers and razes."
 id: 4g9BryPNyWeQLBA0
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/oldfrdrg-portrait.webp
 shortcode: oldfrdrg
 type: being
+data:
+  portrait: images/being/oldfrdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

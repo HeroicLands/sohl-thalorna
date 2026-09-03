@@ -4,6 +4,7 @@ aliases:
   - Solmundr Blotholl
 tags:
   - draft
+  - soldiery
 name:
   full: Sǫlmundr Blóthǫll
   title: ""
@@ -16,23 +17,27 @@ id: 2kvASFsQ8z0WJcDf
 folder: Ka9XqaF27b0I3Gmq
 shortcode: slmndrblthl
 img: icons/person.svg
-portrait: images/being/slmndrblthl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/slmndrblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 32
   birthday: 688/9/7
-  height:
-    m: 1.85
-  weight:
-    kg: 81
-  build:
-    frame: medium
+  height: 1.85
+  weight: 81
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_blonde
@@ -40,16 +45,6 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
-gear:
-  weapons:
-    - Longbow
-  armor:
-    - Leather jerkin
-  misc:
-    - Quiver for arrows
-    - wpnsup
-    - knife
-    - water skin
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 17 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

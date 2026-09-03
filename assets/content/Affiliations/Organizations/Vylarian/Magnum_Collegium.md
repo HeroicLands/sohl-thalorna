@@ -13,12 +13,91 @@ name:
 shortcode: magnumclgm
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-curiafscls
+    - affiliation-mrchntclctvvdyr
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -28,8 +107,8 @@ folder:
 _Vylarian: Magnum Collegium Collegiorum — "The Great Guild of the Guilds"_
 
 - **Type:** Imperial umbrella institution; mandatory federation of chartered guilds
-- **Region:** [[doc-vylarinmpr|Vylaria]], the five Aurèldían kingdoms ([[doc-tarvenirgn|Tarvénia]], [[doc-provenzrgn|Provènzia]], [[doc-elavendre|Élavendre]], [[doc-aelwyth|Aelwyth]], [[Calypsa_Region|Calypsa]]), and Hellád ([[doc-byzariargn|Byzaría]] and [[doc-helionis|Heliónis]]). Formerly [[doc-haradregin|Harad]] until the recent secession.
-- **Seat:** The **Curia Collegiorum** at [[doc-magnapolis|Magnápolis]], the imperial capital
+- **Region:** [[affiliation-vylarinmpr|Vylaria]], the five Aurèldían kingdoms ([[place-tarvenirgn|Tarvénia]], [[place-provenzrgn|Provènzia]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], [[Calypsa_Region|Calypsa]]), and Hellád ([[place-byzariargn|Byzaría]] and [[place-helionis|Heliónis]]). Formerly [[place-haradregin|Harad]] until the recent secession.
+- **Seat:** The **Curia Collegiorum** at [[place-magnapolis|Magnápolis]], the imperial capital
 - **Founded:** By edict of the second Vylarian emperor at the close of the western conquests, three centuries ago
 
 ## Overview
@@ -60,7 +139,7 @@ This is the post-imperial commonwealth's central institutional logic: the Colleg
 
 ### Influenced but Independent
 
-- **The Northern Fertile Region** — [[doc-bethuargn|Bethûa]], [[doc-okharisrgn|Okháris]], [[doc-takheperurgn|Ta'Kheperu]]. None were ever conquered by Vylaria; none are Collegium members. All three have, however, developed guild structures that visibly borrow from the Vylarian model — multi-tier ranks, formal examinations, registered seals, standing inter-guild councils. The Ta'Kheperan houses ([[affiliation-permesnu|Per'Mesnu]], [[affiliation-pernuw|Per'Nuw]], and the others) are nominally distinct institutions in religious framing but their administrative procedures are unmistakably Collegium-derived. The Bethûan matriarchal trade-houses likewise. Where members of Northern Fertile Region trades come into contact with the Collegium — through trade negotiations, embassies, occasional masters traveling abroad — the institutions deal with one another as peers, not as parent-and-subordinate.
+- **The Northern Fertile Region** — [[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], [[place-takheperurgn|Ta'Kheperu]]. None were ever conquered by Vylaria; none are Collegium members. All three have, however, developed guild structures that visibly borrow from the Vylarian model — multi-tier ranks, formal examinations, registered seals, standing inter-guild councils. The Ta'Kheperan houses ([[affiliation-permesnu|Per'Mesnu]], [[affiliation-pernuw|Per'Nuw]], and the others) are nominally distinct institutions in religious framing but their administrative procedures are unmistakably Collegium-derived. The Bethûan matriarchal trade-houses likewise. Where members of Northern Fertile Region trades come into contact with the Collegium — through trade negotiations, embassies, occasional masters traveling abroad — the institutions deal with one another as peers, not as parent-and-subordinate.
 
 ### Untouched
 
@@ -87,7 +166,7 @@ The thirty-six seats of the Curia Collegiorum are far from equal. More than twen
 | \*\*[[affiliation-imprlscrblgld\|Scribes & Records]]\*\* | The largest single member and the most politically weighty; its High Hand sits on the Curia ex officio. Controls the clerks, registers, and record-keeping on which every other guild's charter ultimately depends. |
 | \*\*[[affiliation-clgmrgntrrm\|Moneylenders]]\*\* | The banking guild whose chapterhouses run the note-and-clearing system behind nearly all large commerce; chaired by the Argentarius Magnar and quietly backed by the [[affiliation-aerarimmpr\|imperial treasury]]. By far the wealthiest seat. |
 | **Merchants** | The _Collegium Mercatorum_ — those whose trade is trade itself: general-goods dealers, factors, brokers, and the great trading houses who buy and sell, across every category, goods they never made. One of the weightiest seats, rivaling the Moneylenders, and perennially at odds with the producing crafts over where a maker's right to sell his own work ends and a merchant's right to trade begins. Its members include the **supercargoes** — the merchant-agents who sail with a cargo and conduct the voyage's buying and selling, so that a single hull answers at once to the Shipwrights who built it, the Navigators who sail it, the Sailors who crew it, and the Merchants who own what fills the hold. |
-| **Builders & Masons** | Raise the aqueducts, walls, temples, and great domes of the commonwealth; in a capital of marble their masters command armies of labor — and the secrets of structures that, like the [[doc-pnthnrldnm\|Pantheon's]] impossible dome, verge on the unbuildable. Work touching such structures is handled on joint panel with the Ordo. |
+| **Builders & Masons** | Raise the aqueducts, walls, temples, and great domes of the commonwealth; in a capital of marble their masters command armies of labor — and the secrets of structures that, like the [[place-pnthnrldnm\|Pantheon's]] impossible dome, verge on the unbuildable. Work touching such structures is handled on joint panel with the Ordo. |
 | **Carpenters & Woodworkers** | The great timber craft beside the Masons — roof-frames, floors, furniture, wagons, casks, and half the fabric of every ship. A large and quarrelsome seat, forever disputing the bounds of its work with the masons above and the timberwrights below (the perennial "woodworkers vs. timberwrights" case before the Curia). |
 | \*\*[[affiliation-crtgrphrsgldbyzrnlg\|Cartographers & Surveyors]]\*\* | Mapmakers and land-surveyors; the Byzarian League seat, held by Grand Cartographer Olára Mareniês. Their charts are instruments of trade, taxation, and war, which makes the seat more sensitive than its size suggests. |
 | **Smiths' Federation** | Metalcraft across the commonwealth — arms, tools, hardware; culturally entangled with the [[affiliation-sacredforge\|Sacred Forge]] cult, whose temples and smiths' guilds are in many cities all but indistinguishable. |
@@ -99,7 +178,7 @@ The thirty-six seats of the Curia Collegiorum are far from equal. More than twen
 | **Innkeepers & Victuallers** | The inns, taverns, and posthouses that line the roads and fill the cities — the waystations on which travel, the imperial post, and the movement of merchants all depend. Weighty beyond their trade because they are where strangers lodge, news gathers, and rumor is bought and sold; the [[affiliation-curiaurbis\|civic authorities]] watch them closely, and so does everyone with cause to track who passes through. |
 | **Millers** | The mills — water, wind, and beast-driven — that grind the commonwealth's grain into flour. A chokepoint trade: every harvest must pass through the millstones, the mills themselves are costly fixed capital often held by crown or lord, and the miller is the commonwealth's most proverbially distrusted tradesman, forever suspected of skimming the flour that passes his hands. |
 | **Bakers** | The ovens that turn flour into the daily loaf the whole city lives on — the most politically charged seat of all. Bread is the staple, its price and weight watched and regulated, and a shortage of it is how cities riot; the bakers' fortunes run straight through Magnápolis's grain dole and the [[affiliation-curiaurbis\|Curator of the Grain]]. |
-| **Vintners** | The winemakers and wine-factors of the [[doc-aureldirgn\|Aurèldían kingdoms]], whose vintages are among the commonwealth's premier trade goods; a wealthy, cross-realm seat whose interests reach into every kingdom's customs schedule. |
+| **Vintners** | The winemakers and wine-factors of the [[place-aureldirgn\|Aurèldían kingdoms]], whose vintages are among the commonwealth's premier trade goods; a wealthy, cross-realm seat whose interests reach into every kingdom's customs schedule. |
 | **Brewers** | The makers of ale and beer — humbler than the vintners but far more universal, for where wine is the luxury of the south, ale is the everyday drink of nearly every table; a broad, populous seat bound by grain to the millers and by custom to the innkeepers who pour its work. |
 | **Drapers & Textiles** | The cloth trade — by volume and value one of the largest in the commonwealth, and locked in perennial jurisdictional war with the dyers, fullers, and tailors over where one craft ends and the next begins. |
 | **Goldsmiths & Jewelers** | Hold the assay and the hallmark; their work shades into bullion and credit, which keeps them in constant, wary proximity to the moneylenders' seat. |

@@ -5,6 +5,8 @@ aliases:
   - Vigbrandr Skyrekkr
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Vígbrandr Skýrekkr
   title: ""
@@ -16,29 +18,26 @@ id: 0kCfEiBx8AXiqcIR
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vgbrndrskyrkr
 img: icons/person.svg
-portrait: images/being/vgbrndrskyrkr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/vgbrndrskyrkr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Skald
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmtrgd
   gender: male
+  species: null
   age: 43
   birthday: 677/5/16
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.78
+  weight: 78
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: dark_blonde

@@ -5,6 +5,7 @@ aliases:
   - Guthrun Solvargr
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Guthrún Sólvargr
   title: ""
@@ -16,29 +17,26 @@ id: m9vFKsnAzKnA3Uar
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gthrnslvrgr
 img: icons/person.svg
-portrait: images/being/gthrnslvrgr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/gthrnslvrgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 30
   birthday: 690/4/21
-  height:
-    m: 1.8
-  weight:
-    kg: 76.2
-  build:
-    frame: light
+  height: 1.8
+  weight: 76.2
+  frame: light
   appearance:
     eye_color: green
     hair_color: brown

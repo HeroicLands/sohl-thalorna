@@ -1,9 +1,11 @@
 ---
 id: NVpsgvPxktTz7Mu0
-title: "Heroes and Knaves"
 description: "Variety of characters from several cultures and occupations."
-type: lore
-subType: folk
+name:
+  full: Heroes and Knaves
+  aliases: []
+type: doc
+subType: collection
 shortcode: heroesknvs
 ---
 

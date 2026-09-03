@@ -3,23 +3,23 @@ aliases:
   - Járnhavn
   - Jarnhavn
 id: qMK74rVgAAQlzEAs
+tags:
+  - port
+  - town
+  - fortified
+description: "Fortified Harbor Town"
 type: place
 subType: settlement
-settlementType: "Fortified Harbor Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Járnhavn
   aliases: []
 shortcode: jarnhavn
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 
@@ -35,5 +35,5 @@ The shield-maiden who commands Járnhavn's respect is legendary for her victorie
 
 ## See Also
 
-- [[doc-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

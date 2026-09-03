@@ -6,6 +6,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Hródar Arnthúl
   title: ""
@@ -17,25 +18,28 @@ id: D6xkziKoyoWEuzDs
 folder: Nu7AgLZEmR26u2pk
 shortcode: hrodrrnthl
 img: icons/person.svg
-portrait: images/being/hrodrrnthl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrodrrnthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Brigand
-  station: underworld
-  class: unfree
-  society: Varokh
-  organizations:
-    - blackpine-wolves
-traits:
+  stations: []
+  lore:
+    - varokhiclt
+    - slavernk
+  homes:
+    - vrystwald
+  affiliations:
+    - blckpnwlvs
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 29
   birthday: 690/12/7
-  height:
-    m: 1.82
-  weight:
-    kg: 76.5
-  build:
-    frame: light
+  height: 1.82
+  weight: 76.5
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -521,12 +525,6 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 9 } }
     - { shortcode: medsupil, type: miscgear, system: { quantity: 3 } }
     - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

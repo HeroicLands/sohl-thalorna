@@ -9,9 +9,30 @@ name:
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
 id: NTZQh3DsxPrIxvtI
 img: icons/game-icons/lorc/sea-serpent.svg
-portrait: images/being/stygnlvt-portrait.webp
 shortcode: stygnlvt
 type: being
+data:
+  portrait: images/being/stygnlvt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

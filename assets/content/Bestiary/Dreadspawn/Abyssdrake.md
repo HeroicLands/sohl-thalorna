@@ -9,9 +9,30 @@ name:
 description: "A rare, intelligent draconic ambush predator of lightless depths that guards sunken ruins, trenches, and corrupted underwater sanctuaries."
 id: MoaH3MMvKwCfPZpw
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/abyssdrk-portrait.webp
 shortcode: abyssdrk
 type: being
+data:
+  portrait: images/being/abyssdrk-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

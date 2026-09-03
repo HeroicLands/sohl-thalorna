@@ -3,21 +3,22 @@ aliases:
   - Valdés
   - Valdes
 id: 76CpaejmRGneqpDj
+tags:
+  - port
+  - town
+description: "Port Town"
 type: place
 subType: settlement
-settlementType: "Port Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - tarvenirgn
+  population: null
 name:
   full: Valdés
   aliases: []
 shortcode: valdes
-parent:
-  polities:
-    - kngdmglvrn
 folder: DB9rgGreD8FtqoBx
 ---
 

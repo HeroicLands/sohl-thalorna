@@ -4,6 +4,7 @@ aliases:
   - Xathrion Kaseranis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Xâthrîon Kâserânis
   title: ""
@@ -16,38 +17,33 @@ id: 8y3NAp935k0u7KUu
 folder: UFBfgKZUF0bAE7gG
 shortcode: xthrnksrns
 img: icons/person.svg
-portrait: images/being/xthrnksrns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/xthrnksrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Physician
-  station: tradesfolk
-  class: noble
-  society: Vylarian
-traits:
+  stations: []
+  lore:
+    - vylarianclt
+    - landedlordrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 48
   birthday: 676/6/10
-  height:
-    m: 1.75
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.75
+  weight: 66
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: chestnut
     skin_color: tanned
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple yet professional attire
-  misc:
-    - Leather satchel for medical supplies
-    - Medical instruments
-    - research notes
-    - herbal remedies
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

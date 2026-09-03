@@ -4,6 +4,7 @@ aliases:
   - Vornan Tolgen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Vôrnan Tólgen
   title: ""
@@ -16,23 +17,27 @@ id: pRWM3YfHCHTxe6Kh
 folder: J9R0fnGUTBY5z4pd
 shortcode: vornantlgn
 img: icons/person.svg
-portrait: images/being/vornantlgn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vornantlgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 50
   birthday: 674/9/3
-  height:
-    m: 1.73
-  weight:
-    kg: 67
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 67
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: gray
@@ -40,15 +45,6 @@ traits:
     complexion: smooth
     extra_features:
       - a tattoo of a crescent moon on the neck
-gear:
-  weapons: []
-  armor:
-    - Simple clothing suitable for teaching
-  misc:
-    - Leather satchel for scrolls and writings
-    - Quills
-    - ink
-    - various philosophical texts
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

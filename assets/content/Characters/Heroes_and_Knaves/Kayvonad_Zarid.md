@@ -5,6 +5,8 @@ aliases:
   - Kayvonad Zarid
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Kayvonad Zârîd
   title: ""
@@ -16,34 +18,31 @@ id: 1GBQoF5UrJkfoC2p
 folder: heI5Ky6Kqmb61L6c
 shortcode: kayvondzrd
 img: icons/person.svg
-portrait: images/being/kayvondzrd-portrait.webp
 type: being
-thalorna:
-  realm: tribestrzd
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/kayvondzrd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - tribestrzd
   gender: male
+  species: null
   age: 50
   birthday: 670/5/25
-  height:
-    m: 1.63
-  weight:
-    kg: 50.8
-  build:
-    frame: medium
+  height: 1.63
+  weight: 50.8
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: bald
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

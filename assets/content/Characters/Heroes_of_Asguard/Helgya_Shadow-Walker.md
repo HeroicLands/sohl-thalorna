@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - unguilded
+  - underworld
 name:
   full: Helgya Shadow-Walker
   title: null
@@ -16,23 +18,27 @@ id: FtLsFezwL64M4zuB
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hlgyshdwlkr
 img: icons/person.svg
-portrait: images/being/hlgyshdwlkr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hlgyshdwlkr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thief and Spy
-  station: underworld
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 28
   birthday: 692/3/19
-  height:
-    m: 1.57
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.57
+  weight: 60
+  frame: light
   appearance:
     eye_color: gray
     hair_color: blonde
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

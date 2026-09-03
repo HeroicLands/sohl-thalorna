@@ -5,6 +5,7 @@ aliases:
   - Renute Reenfre
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Renutê Re'en'fré
   title: ""
@@ -17,34 +18,31 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: renuternfr
 img: icons/person.svg
-portrait: images/being/renuternfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/renuternfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 32
   birthday: 688/2/8
-  height:
-    m: 1.7
-  weight:
-    kg: 86.6
-  build:
-    frame: light
+  height: 1.7
+  weight: 86.6
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null
@@ -565,7 +563,7 @@ sohl:
     - { name: Serving dishes, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -575,7 +573,7 @@ Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and 
 
 **From Humble Hearth to the Reenfré**
 
-**Renutê** was born the daughter of a cook in the grand house of a noble family of the Empire of [[doc-empirtkhpr|Ta'Kheperu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where exceptional food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become legendary across the empire.
+**Renutê** was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where exceptional food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become legendary across the empire.
 
 **The Making of Legend**
 

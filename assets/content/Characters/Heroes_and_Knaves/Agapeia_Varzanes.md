@@ -5,6 +5,7 @@ aliases:
   - Agapeia Varzanes
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Agápeia Varzánês
   title: ""
@@ -16,34 +17,31 @@ id: ek8aQBwT3vKbseKG
 folder: b81DHx3S7C9ep13E
 shortcode: agapevrzns
 img: icons/person.svg
-portrait: images/being/agapevrzns-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/agapevrzns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 28
   birthday: 692/2/9
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

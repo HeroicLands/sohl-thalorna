@@ -4,6 +4,7 @@ aliases:
   - Sigrithr Hrafnsvald
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sigríthr Hrafnsvald
   title: ""
@@ -16,23 +17,27 @@ id: fsGQONvf08WpRtoZ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgrthrhrfnsvld
 img: icons/person.svg
-portrait: images/being/sgrthrhrfnsvld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sgrthrhrfnsvld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 35
   birthday: 689/6/6
-  height:
-    m: 1.8
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.8
+  weight: 78
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: black
@@ -40,16 +45,6 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a bear on the left arm
-gear:
-  weapons:
-    - Small hand axe
-  armor:
-    - Work gloves
-  misc:
-    - Leather tool belt
-    - Drafting tools
-    - woodcarving knife
-    - sealing wax
 sohl:
   archetype: null
   body:
@@ -534,12 +529,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

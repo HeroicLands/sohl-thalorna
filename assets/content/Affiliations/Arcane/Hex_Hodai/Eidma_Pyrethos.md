@@ -5,6 +5,89 @@ tags:
   - hex-hodai
 type: affiliation
 subType: arcanetradition
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: meritocracy
+    summary: >-
+      Advancement by degree of initiation, with a body of elders deciding what is taught and
+      who is admitted.
+    ranks:
+      - level: 0
+        title: Anathema
+        lore: excmmnctrnk
+        description: >-
+          Named against the tradition and cut off from its teaching, its protection and its
+          company; what it taught them is not taken back.
+      - level: 1
+        title: Uninitiated
+        lore: catechumenrnk
+        description: Outside the tradition entirely — served by it, feared by it, and told nothing.
+      - level: 2
+        title: Aspirant
+        lore: catechumenrnk
+        description: Petitioning for admission and being watched to see whether it should be
+          granted.
+      - level: 3
+        title: Initiate
+        lore: initiaternk
+        description: >-
+          Received into the tradition and bound by its oaths, holding its first mysteries and
+          few of its secrets.
+      - level: 4
+        title: Adept
+        lore: masterrnk
+        description: Practised in the tradition's art and trusted to work it unsupervised.
+      - level: 5
+        title: Master of the Art
+        lore: masterrnk
+        description: Competent to teach the tradition and to answer for what a pupil does with
+          it.
+      - level: 6
+        title: Keeper of the Tradition
+        lore: highpriestrnk
+        description: >-
+          Holding one of its bodies of knowledge or one of its houses, and answerable for its
+          continuance.
+      - level: 7
+        title: Elder
+        lore: elderrnk
+        description: Of the small body that decides what the tradition teaches and whom it admits.
+      - level: 8
+        title: First of the Tradition
+        lore: grandmasterrnk
+        description: >-
+          Presiding over the elders and speaking for the whole tradition where it must speak
+          with one voice.
+    offices:
+      First of the Tradition: Presiding elder, who speaks for the tradition where it must
+        speak with one voice.
+      Elder: Of the body that decides doctrine, admission and expulsion.
+      Magister: Master of a school, holding its teaching, its pupils and its reputation.
+      Preceptor: Charged with the instruction of initiates, and with judging when they are
+        ready.
+      Keeper of the Grimoires: Warden of the tradition's written work, and of who may read
+        which part of it.
+      Warden of the Threshold: Examiner of aspirants, and the last check before an oath is
+        taken.
+      Quaesitor: Investigator of the tradition's own — unlicensed practice, broken oaths,
+        and worse.
+      Bursar: Keeper of the tradition's endowment, its houses and its stipends.
+      Envoy: The tradition's representative to a court or a rival school.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations:
+    hydalis: nemesis
+    zepharis: aligned
+    pneumenos: aligned
 id: cOfFfssP38q4djfH
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
@@ -12,21 +95,13 @@ name:
   full: Pyréthos
   aliases: []
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation:
-    hydalis: nemesis
-    zepharis: aligned
-    pneumenos: aligned
   archetype: null
 thalorna:
   school: fire
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Pyréthos** is the Eídma of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[doc-hexhodai|Sigillum]], and its practitioners are among the most visible and politically influential mages within the [[affiliation-ordoarcanis|Ordo]]. Where other schools work through subtlety, patience, or communion, Pyréthos works through _force_ — the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
+Eídma **Pyréthos** is the Eídma of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[lore-hexhodai|Sigillum]], and its practitioners are among the most visible and politically influential mages within the [[affiliation-ordoarcanis|Ordo]]. Where other schools work through subtlety, patience, or communion, Pyréthos works through _force_ — the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
 
 ## Philosophy
 
@@ -60,7 +135,7 @@ This meritocratic streak makes the Sodalitas Pyréthos simultaneously one of the
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-hydalis|Eídma Hydälis]] — The opposing Eídma
 - [[affiliation-zepharis|Eídma Zephäris]] — Adjacent Eídma (dynamism)
 - [[affiliation-pneumenos|Eídma Pneuménos]] — Adjacent Eídma (intensity)

@@ -7,6 +7,7 @@ tags:
   - heroes-and-knaves
   - todo
   - hero
+  - clergy
 name:
   full: Father Iztéban Alkássar
   title: Father
@@ -19,34 +20,31 @@ id: Nzu2JgeuaTC1ZcZa
 folder: 9t9O4iB5cYJtSaTG
 shortcode: frztbnlksr
 img: icons/person.svg
-portrait: images/being/frztbnlksr-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/frztbnlksr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 26
   birthday: 694/4/30
-  height:
-    m: 1.8
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.8
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features: []
 sohl:
   archetype: null

@@ -30,7 +30,7 @@ Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the so
 
 ## Overview
 
-Nyáluban is the principal language of the [[doc-nylbtrblntn|Nyáluba Tribal Nation]], a confederation of communities occupying the southern reaches of the [[doc-xerathia|Xerathia]] continent. Spoken by an estimated 2-3 million people across dispersed communities, Nyáluban remains primarily an oral language, transmitted through memory, song, and ceremonial recitation rather than through written texts. This linguistic orientation reflects a cultural emphasis on the spoken word, memory, and communal participation in the creation and preservation of knowledge.
+Nyáluban is the principal language of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], a confederation of communities occupying the southern reaches of the [[place-xerathia|Xerathia]] continent. Spoken by an estimated 2-3 million people across dispersed communities, Nyáluban remains primarily an oral language, transmitted through memory, song, and ceremonial recitation rather than through written texts. This linguistic orientation reflects a cultural emphasis on the spoken word, memory, and communal participation in the creation and preservation of knowledge.
 
 The language is remarkable for its sophisticated system of drum and tone communication, which permits long-distance transmission of complex messages across the savanna and through forested regions. This feature, combined with its tonal phonology and rich metaphorical vocabulary, gives Nyáluban a distinctive character among the world's languages.
 

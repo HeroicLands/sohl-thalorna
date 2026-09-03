@@ -21,12 +21,68 @@ name:
 shortcode: skaldscrcl
 type: affiliation
 subType: fellowship
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: democracy
+    summary: >-
+      A voluntary association whose members decide its affairs and elect its officers for
+      a term.
+    ranks:
+      - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: Put out by vote of the members, with the fellowship's hospitality and its
+          company closed.
+      - level: 1
+        title: Guest
+        lore: dependentrnk
+        description: Present by a member's invitation, welcome for the evening and party to
+          nothing.
+      - level: 2
+        title: Member
+        lore: swornmemberrnk
+        description: Admitted, paying the subscription and enjoying the fellowship's company
+          and its hall.
+      - level: 3
+        title: Full Member
+        lore: swornmemberrnk
+        description: Of standing enough to propose, to vote and to be voted for.
+      - level: 4
+        title: Elder Member
+        lore: elderrnk
+        description: Long enough of the fellowship that its customs are remembered through them.
+      - level: 5
+        title: Officer
+        lore: officerrnk
+        description: Elected to a charge of the fellowship — its purse, its records, its hall,
+          its charity.
+      - level: 6
+        title: Chair
+        lore: councillorrnk
+        description: Presiding over the fellowship's meetings for a term, and holding nothing
+          else by it.
+    offices:
+      Chair: >-
+        Presiding officer of the fellowship's meetings, elected for a term and holding nothing
+        else by it.
+      Secretary: Keeper of the roll, the minutes and the correspondence.
+      Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
+      Steward: Warden of the hall, its provision and the ordering of its gatherings.
+      Almoner: Administrator of the fellowship's relief to members in need.
+      Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -36,7 +92,7 @@ folder:
 _Old Norse: Skaldahringr — "the Ring of the Skalds"_
 
 - **Type:** Pan-regional bardic fellowship
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]] — all five kingdoms, plus [[doc-vrystwald|Vrystwald]] and [[doc-aelwyth|Aelwyth]] where Asguardian custom holds
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — all five kingdoms, plus [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]] where Asguardian custom holds
 - **Founded:** Tradition holds that the Circle was sworn at the great gathering at Hringstead five generations before the founding of any present Nordland kingdom
 
 ## Overview

@@ -2,25 +2,26 @@
 aliases:
   - Gümüşhisar
 id: Lo992b0Iv2JLzXly
+tags:
+  - fortress
+  - city
+description: "Fortress City"
 type: place
 subType: settlement
-settlementType: "Fortress City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - byzariargn
+  population: null
 name:
   full: Gümüşhisar
   aliases: []
 shortcode: gumushisar2
-parent:
-  polities:
-    - gumushisar
 ---
 
 # Gümüşhisar
 
 ## Overview
 
-_To be written._ Gümüşhisar is the capital and principal settlement of [[doc-gumushisar|Gümüşhisar]].
+_To be written._ Gümüşhisar is the capital and principal settlement of [[affiliation-gumushisar|Gümüşhisar]].

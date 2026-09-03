@@ -2,23 +2,22 @@
 aliases:
   - Greyfjord
 id: OD0mDmXO2Yykzwee
+tags:
+  - village
+  - fishing
+description: "Fishing Village"
 type: place
 subType: settlement
-settlementType: "Fishing Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
+data:
+  demonym: null
+  lore: []
+  parents:
+    - nrdlndsrgn
+  population: null
 name:
   full: Greyfjord
   aliases: []
 shortcode: greyfjord
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

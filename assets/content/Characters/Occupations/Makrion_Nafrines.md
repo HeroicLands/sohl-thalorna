@@ -4,6 +4,7 @@ aliases:
   - Makrion Nafrines
 tags:
   - draft
+  - mages
 name:
   full: Mákrion Nâfrinês
   title: ""
@@ -16,23 +17,27 @@ id: jOkYRBMeyyMDHqJ3
 folder: gpXd1anXulwRWZqn
 shortcode: makrinfrns
 img: icons/person.svg
-portrait: images/being/makrinfrns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/makrinfrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - commonerrnk
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: male
+  species: null
   age: 46
   birthday: 674/1/22
-  height:
-    m: 1.8
-  weight:
-    kg: 74
-  build:
-    frame: medium
+  height: 1.8
+  weight: 74
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: graying_brown
@@ -40,15 +45,6 @@ traits:
     complexion: smooth
     extra_features:
       - a scar on the right hand
-gear:
-  weapons:
-    - Walking staff
-  armor: []
-  misc:
-    - Worn leather bag
-    - Almanac
-    - simple telescope
-    - carving of constellations
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 36 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 10 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

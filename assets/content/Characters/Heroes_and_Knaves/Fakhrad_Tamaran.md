@@ -5,6 +5,8 @@ aliases:
   - Fakhrad Tamaran
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Fakhrad Tamârân
   title: ""
@@ -16,29 +18,26 @@ id: mz6d5dp9JqrXm87U
 folder: V1t8DVX0wKSOCJd5
 shortcode: fakhrdtmrn
 img: icons/person.svg
-portrait: images/being/fakhrdtmrn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/fakhrdtmrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - commonerrnk
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: male
+  species: null
   age: 46
   birthday: 674/1/22
-  height:
-    m: 1.8
-  weight:
-    kg: 73.9
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73.9
+  frame: medium
   appearance:
     eye_color: green
     hair_color: black

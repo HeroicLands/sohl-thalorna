@@ -23,12 +23,91 @@ name:
 shortcode: sodnaqirin
 type: affiliation
 subType: guild
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: council
+    summary: >-
+      A court of wardens and assistants under an elected head, governing the craft between
+      general assemblies.
+    ranks:
+      - level: 0
+        title: Blacklisted
+        lore: expelledrnk
+        description: >-
+          Struck from the roll: no member may employ, teach, supply or trade with them, in any
+          city the guild reaches.
+      - level: 1
+        title: Servant
+        lore: servantrnk
+        description: Kept for labour about the hall and the workshops, and not of the craft.
+      - level: 2
+        title: Apprentice
+        lore: apprenticernk
+        description: Bound to a master for a term of years, fed and taught and owning neither
+          tools nor wage.
+      - level: 3
+        title: Journeyman
+        lore: journeymanrnk
+        description: >-
+          Out of apprenticeship and working for wages, free to move between masters and not
+          yet to keep a shop.
+      - level: 4
+        title: Master
+        lore: masterrnk
+        description: >-
+          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
+          guild.
+      - level: 5
+        title: Warden
+        lore: officerrnk
+        description: >-
+          Elected to inspect the craft — its work, its weights, its prices — and to present
+          offenders.
+      - level: 6
+        title: Assistant
+        lore: councillorrnk
+        description: Of the court that governs the guild between its general assemblies.
+      - level: 7
+        title: Alderman
+        lore: highpriestrnk
+        description: Senior of the court, and the guild's voice before the city that chartered
+          it.
+      - level: 8
+        title: Grand Master
+        lore: grandmasterrnk
+        description: Head of the guild, elected by the court, holding its seal and answering
+          for its charter.
+    offices:
+      Grand Master: Head of the guild, elected by its court, holding the seal and answering
+        for the charter.
+      Alderman: Senior of the governing court and the guild's voice before the city.
+      Warden: >-
+        Elected inspector of the craft's work, weights and prices, who presents offenders
+        to the court.
+      Assistant: Member of the court that governs the guild between general assemblies.
+      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
+      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
+      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
+      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
+      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy:
+    - affiliation-aerarimmpr
+    - affiliation-clgmrgntrrm
+    - affiliation-magnumclgm
+    - affiliation-mrchntclctvvdyr
+  lore: []
+  parents: []
+  relations: {}
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
-  relation: {}
   archetype: null
 folder:
 ---
@@ -38,8 +117,8 @@ folder:
 _Haradi: Sôd-Naqîrîn — "The Council of the Guild-Wardens"_
 
 - **Type:** Confederation-chartered guild umbrella; institutional replacement for the [[affiliation-magnumclgm|The Magnum Collegium]]'s former Haradian operations
-- **Region:** [[doc-haradregin|The Confederation of Haradian States]]
-- **Seat:** **Bêt-Naqîrîn** ("The House of the Wardens") at [[doc-tamavar|Tamavar]], in the converted hall of the old Tamavar merchant princes' compact-house — a deliberate choice that places the institution on ground sacred to the pre-conquest Haradian commercial tradition rather than in any building the empire built
+- **Region:** [[place-haradregin|The Confederation of Haradian States]]
+- **Seat:** **Bêt-Naqîrîn** ("The House of the Wardens") at [[affiliation-tamavar|Tamavar]], in the converted hall of the old Tamavar merchant princes' compact-house — a deliberate choice that places the institution on ground sacred to the pre-conquest Haradian commercial tradition rather than in any building the empire built
 - **Founded:** Twelve years ago, by act of the Confederation's founding council, in the closing weeks of the War of Independence
 
 ## Overview
@@ -76,7 +155,7 @@ In practice the institution does several things differently from its imperial pr
 
 When the secession began, the immediate practical crisis was not military but financial. Harad's commercial life had run for more than a century on paper script issued by [[affiliation-clgmrgntrrm|Argentariorum]]-member moneylenders, clearing ultimately through the Vylarian [[affiliation-aerarimmpr|imperial treasury]] at Magnápolis, and within weeks of the war's outbreak those clearing accounts were frozen. Haradian moneylenders woke one morning unable to honor their own outstanding script. Merchants discovered the notes in their strongboxes were no longer redeemable. The harbor cities, on which the Confederation's wealth depended, faced commercial collapse before the first major engagement was even fought.
 
-Harad's break was therefore unusually deep. Where the [[doc-aureldirgn|Aurèldían kingdoms]] over the past two centuries had thrown off imperial governance _but kept_ the [[affiliation-magnumclgm|The Magnum Collegium]] and the Aerarium-backed banking system because they could not afford to leave them, Harad's secession war forced a full withdrawal from all three institutions at once. The Magnum Collegium suspended Haradian guild standing; the Argentariorum revoked Haradian moneylenders' chapter affiliation; the Aerarium Imperii froze the clearing accounts. The Confederation had to build replacements for all three from scratch, and the Sôd-Naqîrîn was the institution that emerged to provide them — combining the Collegium's guild umbrella function, the Argentariorum's banking-system role, and a treasury arm of its own.
+Harad's break was therefore unusually deep. Where the [[place-aureldirgn|Aurèldían kingdoms]] over the past two centuries had thrown off imperial governance _but kept_ the [[affiliation-magnumclgm|The Magnum Collegium]] and the Aerarium-backed banking system because they could not afford to leave them, Harad's secession war forced a full withdrawal from all three institutions at once. The Magnum Collegium suspended Haradian guild standing; the Argentariorum revoked Haradian moneylenders' chapter affiliation; the Aerarium Imperii froze the clearing accounts. The Confederation had to build replacements for all three from scratch, and the Sôd-Naqîrîn was the institution that emerged to provide them — combining the Collegium's guild umbrella function, the Argentariorum's banking-system role, and a treasury arm of its own.
 
 The Confederation's response on the banking front was the **Bayt al-Khazînah**, the "House of the Treasury," operated as the Gizbar's office within the Bêt-Naqîrîn at Tamavar. The Bayt is the Haradian parallel to the Aerarium Imperii: it accepts bullion deposits, issues master script against its reserves, and operates as the clearinghouse for the network of Haradian moneylender houses that now anchor the Confederation's banking system. The current Gizbar is **Kashnûra Bel-Tarûzî**, an Aerean-trained banker whose Haradian family lineage and twenty years of pre-secession Argentariorum experience made her the obvious choice for the founding office and who has now served for twelve years.
 
@@ -103,7 +182,7 @@ The cross-border script problem is the most consistent friction-point in twelve 
 - **The Aurèldían and Helladic Collegium chapters** — through the Vylarian Collegium's structure these chapters are formally above the Sôd's reach, but the Sôd has, with quiet diplomatic effort, established working contacts with several of their Magistri Provinciarum at the personal level. The contacts are not approved by Magnápolis and are conducted accordingly.
 - **The Confederation's federal council** — patron and ultimate authority. The relationship is closer and more politicized than the parent Vylarian body's relationship with its imperial throne; the federal council intervenes in Sôd decisions more frequently than the empire does in the Collegium's, and the Sôd's Rab-Naqîr is, in practice, accountable to a coalition of merchant princes whose interests may not always align with the institution's stated mission.
 - **The non-Vylarian guild systems** — the Sôd has aggressively pursued recognition agreements with all the major independent traditions on terms generally more favorable to the foreign counterparty than what the Vylarian Collegium historically offered. Agreements concluded with [[affiliation-permesnu|Per'Mesnu]] (per-trade equivalence, mid-stage negotiations), [[affiliation-pernuw|Per'Nuw]] (early-stage on desert and frontier work), the Bethûan trade-houses (concluded last year, full recognition), and the [[affiliation-skaldscrcl|The Skalds' Circle]] (reciprocal hospitality recognition). The Vedyaran [[affiliation-mrchntclctvvdyr|Merchant Collective]] has, characteristically, declined every overture from the Sôd just as it has from the Vylarian Collegium.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]], particularly the [[affiliation-crimsnldgr|Crimson Ledger]]** — the Sôd has formal anti-corruption protocols and informal acknowledgment that the Crimson Ledger's financial reach into the Haradian guild economy is substantial. The Pāqîdîn have brought cases against guild members with Ledger ties; the cases have, to date, mostly resulted in censure rather than charter revocation, a pattern the Sôd's reformist faction is increasingly impatient with.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], particularly the [[affiliation-crimsnldgr|Crimson Ledger]]** — the Sôd has formal anti-corruption protocols and informal acknowledgment that the Crimson Ledger's financial reach into the Haradian guild economy is substantial. The Pāqîdîn have brought cases against guild members with Ledger ties; the cases have, to date, mostly resulted in censure rather than charter revocation, a pattern the Sôd's reformist faction is increasingly impatient with.
 
 ## Identifying Marks
 

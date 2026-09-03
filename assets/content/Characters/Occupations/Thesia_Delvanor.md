@@ -4,6 +4,7 @@ aliases:
   - Thesia Delvanor
 tags:
   - draft
+  - soldiery
 name:
   full: Thésia Delvánor
   title: ""
@@ -16,39 +17,33 @@ id: 9yvlFSFx7ZHrZfUB
 folder: 9t9O4iB5cYJtSaTG
 shortcode: thesidlvnr
 img: icons/person.svg
-portrait: images/being/thesidlvnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thesidlvnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 29
   birthday: 695/3/4
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.78
+  weight: 78
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: dark_brown
     skin_color: medium
     complexion: bronzed
     extra_features: []
-gear:
-  weapons:
-    - Longsword and shield
-  armor:
-    - Chainmail
-  misc:
-    - Medium pack for supplies
-    - Healing potions
-    - survival gear
-    - personal effects
 sohl:
   archetype: null
   body:
@@ -528,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

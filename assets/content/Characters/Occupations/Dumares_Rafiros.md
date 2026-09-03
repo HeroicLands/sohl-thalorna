@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Dûmàrês Râfîrôs
   title: ""
@@ -17,39 +18,33 @@ id: 5U3SObMEq9PYXLKo
 folder: gpXd1anXulwRWZqn
 shortcode: dumarsrfrs
 img: icons/person.svg
-portrait: images/being/dumarsrfrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dumarsrfrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Helionite
-traits:
+  stations: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
+  homes:
+    - helionis
+  affiliations:
+    - korinthea
   gender: male
+  species: null
   age: 40
   birthday: 684/6/12
-  height:
-    m: 1.75
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.75
+  weight: 72
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: medium
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Elegant rapier
-  armor:
-    - Fine armor adorned with symbols of Jánus
-  misc:
-    - Leather pouch for offerings
-    - Sacred texts
-    - ceremonial sword
-    - donations ledger
 sohl:
   archetype: null
   body:
@@ -533,12 +528,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 16 } }
-thalorna:
-  realm: korinthea
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

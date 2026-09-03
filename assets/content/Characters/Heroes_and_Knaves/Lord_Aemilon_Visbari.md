@@ -8,6 +8,7 @@ tags:
   - noble
   - spymaster
   - vylaria
+  - administration
 name:
   full: Lord Aemilon Visbari
   title: Lord
@@ -19,29 +20,26 @@ id: ETrFSo0UKTY2q0nN
 folder: UFBfgKZUF0bAE7gG
 shortcode: lrdmlnvsbr
 img: icons/person.svg
-portrait: images/being/lrdmlnvsbr-portrait.webp
 type: being
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-social:
+data:
+  portrait: images/being/lrdmlnvsbr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  lore:
+    - landedlordrnk
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 54
   birthday: 665/3/15
-  height:
-    m: 1.8
-  weight:
-    kg: 89.4
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 89.4
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: gray

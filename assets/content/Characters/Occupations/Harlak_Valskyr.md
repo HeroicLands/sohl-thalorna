@@ -4,6 +4,7 @@ aliases:
   - Harlak Valskyr
 tags:
   - draft
+  - tradesfolk
 name:
   full: Hârlak Válskyr
   title: ""
@@ -16,23 +17,27 @@ id: 9Wvgfygw2wMqZcUD
 folder: J9R0fnGUTBY5z4pd
 shortcode: hrlkvlskyr
 img: icons/person.svg
-portrait: images/being/hrlkvlskyr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrlkvlskyr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - commonerrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 38
   birthday: 682/8/6
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 79
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: brown
@@ -40,16 +45,6 @@ traits:
     complexion: clear
     extra_features:
       - a scar on the back of the left arm
-gear:
-  weapons:
-    - Hunting knife
-  armor:
-    - Leather vest
-  misc:
-    - Belt pouch for treats
-    - Training whistle
-    - leash
-    - animal grooming tools
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

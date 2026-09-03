@@ -10,9 +10,30 @@ name:
 description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot wings, an ancient architect of its own legend after centuries of scheming."
 id: 2tsk1oPbOk4V5jJf
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/mtricdrg-portrait.webp
 shortcode: mtricdrg
 type: being
+data:
+  portrait: images/being/mtricdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

@@ -4,6 +4,7 @@ aliases:
   - Arnela Korisvar
 tags:
   - draft
+  - administration
 name:
   full: Ârnela Kórisvar
   title: Lady
@@ -16,38 +17,33 @@ id: uPeCDRHwi41XJOLl
 folder: J9R0fnGUTBY5z4pd
 shortcode: arnelkrsvr
 img: icons/person.svg
-portrait: images/being/arnelkrsvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/arnelkrsvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Manor Lord)
-  station: administration
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 42
   birthday: 678/6/12
-  height:
-    m: 1.68
-  weight:
-    kg: 61
-  build:
-    frame: medium
+  height: 1.68
+  weight: 61
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: auburn
     skin_color: medium
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Elegant rapier (for self-defense)
-  armor:
-    - Fine noble attire suitable for gatherings
-  misc:
-    - Leather purse for personal items
-    - Documents for governance
-    - ledger for donations
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 51 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

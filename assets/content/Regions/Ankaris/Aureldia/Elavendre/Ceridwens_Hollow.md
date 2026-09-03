@@ -2,21 +2,21 @@
 aliases:
   - Ceridwen's Hollow
 id: 3YlA2MuGbvyKHEXm
+tags:
+  - village
+description: "Village"
 type: place
 subType: settlement
-settlementType: "Village"
-population: null
-pantheons:
-  - arldnpnthn
-languages:
-  - elvndrlng
+data:
+  demonym: null
+  lore: []
+  parents:
+    - elavendre
+  population: null
 name:
   full: Ceridwen's Hollow
   aliases: []
 shortcode: cerdwnshlw
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

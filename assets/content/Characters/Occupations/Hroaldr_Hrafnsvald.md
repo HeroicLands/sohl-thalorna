@@ -4,6 +4,8 @@ aliases:
   - Hroaldr Hrafnsvald
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Hróaldr Hrafnsvald
   title: ""
@@ -16,39 +18,33 @@ id: tYrLdwGetDCcdx1s
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrldrhrfnsvld
 img: icons/person.svg
-portrait: images/being/hrldrhrfnsvld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrldrhrfnsvld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jeweller
-  station: tradesfolk
-  class: guilded
-  society: Nordheimn
-traits:
+  stations: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 48
   birthday: 676/9/17
-  height:
-    m: 1.78
-  weight:
-    kg: 71
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 71
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_blonde
     skin_color: fair
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small knife (for self-defense)
-  armor:
-    - Simple tunic
-  misc:
-    - Wooden chest for valuable stones
-    - Jewellers' tools
-    - magnifying glass
-    - reference books on gemstones
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

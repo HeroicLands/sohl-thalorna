@@ -4,6 +4,8 @@ aliases:
   - Girmun Takkunum
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Girmûn Takkûnûm
   title: ""
@@ -16,39 +18,33 @@ id: xkxwnQrS7RPeMOkI
 folder: PuQFDMkRM9i60i5Z
 shortcode: girmuntknm
 img: icons/person.svg
-portrait: images/being/girmuntknm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/girmuntknm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: guilded
-  society: Haradian
-traits:
+  stations: []
+  lore:
+    - haradianclt
+    - commonerrnk
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 52
   birthday: 668/3/17
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: gray
     skin_color: warm_golden
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Small knife for cutting herbs
-  armor:
-    - Leather apron
-  misc:
-    - Satchel with herbal samples
-    - Mortar and pestle
-    - glass vials
-    - herbal manuscripts
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

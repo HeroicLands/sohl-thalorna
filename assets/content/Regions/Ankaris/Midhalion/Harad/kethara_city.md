@@ -2,26 +2,26 @@
 aliases:
   - Kethara
 id: b1sHNYrkFRl8FjPK
+tags:
+  - city
+  - naval
+description: "Naval City"
 type: place
 subType: settlement
-settlementType: "Naval City"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
+data:
+  demonym: null
+  lore: []
+  parents:
+    - haradregin
+  population: null
 name:
   full: Kethara
   aliases: []
 shortcode: kethara2
-parent:
-  polities:
-    - kethara
 ---
 
 # Kethara
 
 ## Overview
 
-_To be written._ Kethara is the capital and principal settlement of [[doc-kethara|Kethara]].
+_To be written._ Kethara is the capital and principal settlement of [[affiliation-kethara|Kethara]].

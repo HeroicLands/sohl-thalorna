@@ -9,20 +9,18 @@ tags:
   - hex-hodai
   - ordo-arcanis
 type: lore
-subType: folk
-topic: true
+subType: arcana
 id: Y3NajXCuLZv4CSis
 shortcode: hexhodai
 name:
   full: Héx Hodäi
   aliases: []
-region: Western Ankaris
 folder: H8lfX9Zy7YDUeAjX
 ---
 
 # The Héx Hodäi (The Six Ways)
 
-The **Héx Hodäi** — the Six Ways — is the foundational framework of arcane philosophy in western [[doc-ankrscntnnt|Ankaris Continent]]. Developed over centuries by scholars of the [[affiliation-panepistmm|Panepistemium]] and refined into doctrine by the [[affiliation-ordoarcanis|Ordo Arcanis]], it holds that all magical phenomena belong to one of six fundamental **Eídmata** — six elemental forms of the arcane, each corresponding to a principle of reality. Within Ordo cosmology, the Héx Hodäi is not a model of magic; it _is_ magic. The arcane is composed of six Eídmata, and the Eídmata exhaust the arcane.
+The **Héx Hodäi** — the Six Ways — is the foundational framework of arcane philosophy in western [[place-ankrscntnnt|Ankaris Continent]]. Developed over centuries by scholars of the [[affiliation-panepistmm|Panepistemium]] and refined into doctrine by the [[affiliation-ordoarcanis|Ordo Arcanis]], it holds that all magical phenomena belong to one of six fundamental **Eídmata** — six elemental forms of the arcane, each corresponding to a principle of reality. Within Ordo cosmology, the Héx Hodäi is not a model of magic; it _is_ magic. The arcane is composed of six Eídmata, and the Eídmata exhaust the arcane.
 
 This conviction is so foundational that it is invisible to those inside it. To a Magister of the Ordo, asking "what lies beyond the Héx Hodäi?" is not a heretical question — it is a meaningless one, like asking what colour exists outside the visible spectrum. The framework is not presented to Initiati as one possible model among many; it is presented as the structure of arcane reality itself.
 
@@ -34,7 +32,7 @@ The six Eídmata are traditionally represented as a hexagonal diagram known as t
 
 Reading clockwise from the top, the Sigillum places: **[[affiliation-pyrethos|Eídma Pyréthos]]** (Fire), **[[affiliation-zepharis|Eídma Zephäris]]** (Air), **[[affiliation-physera|Eídma Physéra]]** (Earth), **[[affiliation-hydalis|Eídma Hydälis]]** (Water), **[[affiliation-sideros|Eídma Sidéros]]** (Metal), and **[[affiliation-pneumenos|Eídma Pneuménos]]** (Spirit). Each Eídma sits directly opposite its natural antagonist, connected by a line that passes through the centre of the figure. At that centre sits **[[affiliation-kentra|Kentra]]** — not a seventh Eídma, but the mastery of all six.
 
-The Sigillum appears throughout the Ordo's iconography: carved above chapter house doorways, embossed on the covers of arcane texts, woven into the robes of Magistri, and — most importantly — inscribed on the floor of the great examination hall in [[doc-provinclys|Alyssa]], where every Initiatus first learns which Eídma will claim them.
+The Sigillum appears throughout the Ordo's iconography: carved above chapter house doorways, embossed on the covers of arcane texts, woven into the robes of Magistri, and — most importantly — inscribed on the floor of the great examination hall in [[affiliation-provinclys|Alyssa]], where every Initiatus first learns which Eídma will claim them.
 
 In formal Ordo usage, an Eídma is named with the Eídma word first and the qualifier following — _Eídma Physéra_, _Eídma Pyréthos_ — mirroring the construction of the Sodalitates. In casual speech among mages, the _Eídma_ is often dropped: "Pyréthos mages," "the Hydälis," "those Sidéros types." Both forms are correct; the formal construction is preferred in Ordo documents, ceremony, and instruction.
 
@@ -94,7 +92,7 @@ The most powerful workings require both mastery of Dýnaris (the ability to open
 
 ## Foreign Traditions and Cosmological Scandal
 
-The Ordo's conviction that the Héx Hodäi _is_ magic — that the Dýnaris is six-fold and the Eídmata exhaust the arcane — produces a particular kind of distress when its members encounter the magical traditions of other peoples. The arcanists of [[doc-tanvurempr|Tānvür]] work magic that does not align cleanly with any of the six Eídmata. The priesthood of [[doc-empirtkhpr|Ta'Kheperu]] speaks of nine sacred aspects of the divine arcane, drawn through divine patronage in patterns that cut across the Ordo's elemental categories entirely. The druidic traditions of [[doc-elavendre|Élavendre]] appear to work without any clear Eídma attunement at all, accepting whatever the moment provides and shaping it as it comes. The völvur of the [[doc-kngdmnrdhm|Normen]] kingdoms work through runes and fate-patterns that bear no resemblance to the Sigillum. The [[doc-flksinale|Sinalë]] regard the Héx Hodäi with a polite tolerance that the Ordo finds maddening and refuses to examine too closely.
+The Ordo's conviction that the Héx Hodäi _is_ magic — that the Dýnaris is six-fold and the Eídmata exhaust the arcane — produces a particular kind of distress when its members encounter the magical traditions of other peoples. The arcanists of [[affiliation-tanvurempr|Tānvür]] work magic that does not align cleanly with any of the six Eídmata. The priesthood of [[affiliation-empirtkhpr|Ta'Kheperu]] speaks of nine sacred aspects of the divine arcane, drawn through divine patronage in patterns that cut across the Ordo's elemental categories entirely. The druidic traditions of [[place-elavendre|Élavendre]] appear to work without any clear Eídma attunement at all, accepting whatever the moment provides and shaping it as it comes. The völvur of the [[affiliation-kngdmnrdhm|Normen]] kingdoms work through runes and fate-patterns that bear no resemblance to the Sigillum. The [[lore-flksinale|Sinalë]] regard the Héx Hodäi with a polite tolerance that the Ordo finds maddening and refuses to examine too closely.
 
 For an Ordo mage, sustained contact with these practices is genuinely disturbing — not in the sense of mere disagreement, but in the sense of _cosmological scandal_. Things are happening that, by the framework's lights, cannot happen. The Dýnaris cannot be drawn except through one of the Six; and yet, here is a Tānvürian arcanist drawing power that does not feel like any Eídma the mage knows. The Ordo's three available responses are all forms of refusal:
 
