@@ -5,10 +5,11 @@ id: 4sQb0DORaqTYrcOm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 25000
-settlementType: "Merchant City"
 name:
   full: Belekos
   aliases: []

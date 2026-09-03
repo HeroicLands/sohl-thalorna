@@ -11,6 +11,7 @@ shortcode: azhun
 subType: polity
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: oligarchy
     summary: Council of merchant-princes.
@@ -86,11 +87,11 @@ data:
   domains:
     - haradregin
   population: 2500000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
+  peoples:
+    - humanflk
   parents:
     - cnfdrtnhrdnstts
   relations:

@@ -5,9 +5,11 @@ id: 2L0cERpUeRn8zC00
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fortified Settlement / Regional Capital"
+  population: null
 name:
   full: Bjornstad
   aliases: []

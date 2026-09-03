@@ -6,9 +6,11 @@ id: 76CpaejmRGneqpDj
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Port Town"
+  population: null
 name:
   full: Valdés
   aliases: []

@@ -5,9 +5,11 @@ id: BSpoe64cjdqnAb45
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
-settlementType: "Mining City"
+  population: null
 name:
   full: Karataş
   aliases: []

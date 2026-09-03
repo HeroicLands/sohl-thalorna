@@ -4,15 +4,17 @@ aliases:
   - Thalassos
 id: 6pXLtYkfQc7JDzuS
 type: place
-settlementType: "Harbor Town"
 name:
   full: Thálassos
   aliases: []
 shortcode: thalassos
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

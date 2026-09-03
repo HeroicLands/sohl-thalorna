@@ -5,9 +5,11 @@ id: Vz6zv5sq18qR9nya
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Market Town"
+  population: null
 name:
   full: Ha’ K’ukul
   aliases: []

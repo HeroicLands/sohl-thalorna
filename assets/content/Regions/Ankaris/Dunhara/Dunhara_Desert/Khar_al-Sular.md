@@ -5,9 +5,11 @@ id: NcCep277z8Lq2woF
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - dunhardsrtrgn
-settlementType: "Oasis Camp"
+  population: null
 name:
   full: Khar al-Sular
   aliases: []

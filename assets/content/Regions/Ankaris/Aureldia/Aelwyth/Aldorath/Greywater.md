@@ -5,9 +5,11 @@ id: md1o5v1VaxgYEye0
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "Fishing Village"
+  population: null
 name:
   full: Greywater
   aliases: []

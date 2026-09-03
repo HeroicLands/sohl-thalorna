@@ -91,12 +91,12 @@ data:
   domains:
     - tarvenirgn
   population: 300000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents:
     - kingdmtrvn
   relations:

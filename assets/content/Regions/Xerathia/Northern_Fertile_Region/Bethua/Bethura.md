@@ -8,9 +8,11 @@ id: CrmLLo78aUYwlRtC
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - bethuargn
-settlementType: "City"
+  population: null
 name:
   full: Bethûra
   aliases: []

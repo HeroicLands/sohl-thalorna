@@ -21,6 +21,7 @@ data:
   parents:
     - nrthrnfrtlrgn
     - xerathia
+  population: null
 ---
 
 ## Overview

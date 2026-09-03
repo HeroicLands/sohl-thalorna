@@ -5,10 +5,11 @@ id: 0yneTHleAxbUv6TI
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 9000
-settlementType: "Garrison Town"
 name:
   full: Corvinus
   aliases: []

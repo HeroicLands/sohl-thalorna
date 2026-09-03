@@ -9,11 +9,12 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: K'ich'chik
   lore:
     - humanflk
+  parents:
+    - worldthlrn
+  population: null
 id: M6DQs1jWkoqbUTr2
 shortcode: kchchkcntnnt
 name:

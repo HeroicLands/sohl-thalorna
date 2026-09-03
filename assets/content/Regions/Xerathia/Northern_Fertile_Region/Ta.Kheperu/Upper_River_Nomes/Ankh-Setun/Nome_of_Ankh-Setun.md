@@ -94,11 +94,11 @@ data:
   domains:
     - takheperurgn
   population: 800000
-  peoples:
-    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
+  peoples:
+    - humanflk
   parents:
     - uperivrnms
   relations:

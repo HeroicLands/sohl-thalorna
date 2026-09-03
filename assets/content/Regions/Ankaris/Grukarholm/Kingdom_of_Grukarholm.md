@@ -89,11 +89,11 @@ data:
   domains:
     - grkrhlmrgn
   population: 2000000
-  peoples:
-    - grukarflk
   economy:
     - lore-bartercnmy
     - lore-vylrncrncy
+  peoples:
+    - grukarflk
   parents: []
   relations:
     kngdmnrdhm: nemesis

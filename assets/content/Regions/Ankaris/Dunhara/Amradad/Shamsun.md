@@ -6,9 +6,11 @@ id: nlCErQbCazleD3Ns
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - amradadrgn
-settlementType: "Oasis City"
+  population: null
 name:
   full: Shamsûn
   aliases: []

@@ -4,15 +4,17 @@ aliases:
   - Selimara
 id: bQUtftL9hRhlCeaf
 type: place
-settlementType: "Trading Town"
 name:
   full: Selímara
   aliases: []
 shortcode: selimara
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

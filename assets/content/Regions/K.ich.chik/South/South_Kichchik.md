@@ -13,10 +13,12 @@ img: ""
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - kchchkcntnnt
+  population: null
 shortcode: sthrnkchchk
 ---
 

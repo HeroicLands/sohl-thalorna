@@ -95,13 +95,13 @@ data:
   domains:
     - amradadrgn
   population: 2000000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-hardncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     ashanpnthn: aligned

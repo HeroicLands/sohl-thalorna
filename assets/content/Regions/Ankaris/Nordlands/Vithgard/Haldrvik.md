@@ -6,9 +6,11 @@ id: zvHZeopFCRUFvSUh
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Port Town"
+  population: null
 name:
   full: Haldrvík
   aliases: []

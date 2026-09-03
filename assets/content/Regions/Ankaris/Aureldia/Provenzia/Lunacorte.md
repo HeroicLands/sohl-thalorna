@@ -6,9 +6,11 @@ id: kaluSm7j0sPfWR9d
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "City"
+  population: null
 name:
   full: Lunacòrte
   aliases: []

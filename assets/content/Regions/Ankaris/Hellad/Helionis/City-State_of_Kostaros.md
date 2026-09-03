@@ -90,11 +90,13 @@ data:
         purse.
   commonSkills:
     - helonclng
+  seat: null
   domains:
     - helionis
+  population: null
+  economy: []
   peoples:
     - humanflk
-  economy: []
   parents:
     - ctysttshlns
   relations:

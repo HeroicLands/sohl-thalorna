@@ -5,9 +5,11 @@ id: N2RXl0qu1TbhTref
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - heladrgn
-settlementType: "City-State"
+  population: null
 name:
   full: Thyrenae
   aliases: []

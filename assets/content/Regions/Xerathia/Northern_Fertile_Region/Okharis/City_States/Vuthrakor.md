@@ -6,9 +6,11 @@ tags: []
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - okharisrgn
-settlementType: "Garrison Town"
+  population: null
 name:
   full: Vuthrákor
   aliases:

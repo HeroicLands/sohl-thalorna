@@ -21,6 +21,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar) — the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 folder: jV7c6dJp4Ztnjtb3
 ---

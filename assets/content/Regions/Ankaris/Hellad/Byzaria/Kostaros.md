@@ -3,15 +3,17 @@ aliases:
   - Kostaros
 id: TsDj0UNe3SEKVrTw
 type: place
-settlementType: "Port Town"
 name:
   full: Kostaros
   aliases: []
 shortcode: kostaros
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

@@ -20,6 +20,7 @@ data:
     - humanflk
   parents:
     - midhalnrgn
+  population: null
 terran_analog: "Greece, Bulgaria, North Macedonia, and Albania — the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
 folder: ss38lwZR9eyT4C7A
 ---

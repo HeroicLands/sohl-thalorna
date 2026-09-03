@@ -5,10 +5,11 @@ id: Hy5pGx4wUm9Sb3Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 2500
-settlementType: "Forest Town"
 name:
   full: Cervalia
   aliases: []

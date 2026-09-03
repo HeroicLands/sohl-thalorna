@@ -5,10 +5,11 @@ id: Hy2rKx7mGp4Tb9Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 7000
-settlementType: "Market Town"
 name:
   full: Granaria
   aliases: []

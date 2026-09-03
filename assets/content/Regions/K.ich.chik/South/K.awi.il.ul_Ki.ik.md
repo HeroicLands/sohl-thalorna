@@ -5,9 +5,11 @@ id: LzFK4SEzMloriHpl
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Garrison Town"
+  population: null
 name:
   full: K’awi’il’ul Ki’ik
   aliases: []

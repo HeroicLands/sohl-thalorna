@@ -5,9 +5,11 @@ id: TlYOx3SBgFES4hvV
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aelwyth
-settlementType: "Castle and Garrison"
+  population: null
 name:
   full: Stormveil
   aliases: []

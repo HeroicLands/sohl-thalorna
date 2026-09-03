@@ -5,9 +5,11 @@ id: kRq6vgWmxMG5MZ4V
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - grkrhlmrgn
-settlementType: "Fortress Town"
+  population: null
 name:
   full: Grukarholm
   aliases: []

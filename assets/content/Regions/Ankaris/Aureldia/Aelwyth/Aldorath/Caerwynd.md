@@ -5,9 +5,11 @@ id: qzNN35eMt6RmKQPK
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "Market Town"
+  population: null
 name:
   full: Caerwynd
   aliases: []

@@ -5,9 +5,11 @@ id: eo7Mlrw34ELw2CFY
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Port Town"
+  population: null
 name:
   full: Qadhirun
   aliases: []

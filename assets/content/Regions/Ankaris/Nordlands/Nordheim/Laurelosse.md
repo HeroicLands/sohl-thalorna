@@ -6,8 +6,11 @@ id: Mp48OQiSLJZ8OVfN
 type: place
 subType: site
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
+  population: null
 name:
   full: Laurelossë
   aliases: []

@@ -5,9 +5,11 @@ id: rQvNmHX5CBBhFmkH
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - amradadrgn
-settlementType: "Town"
+  population: null
 name:
   full: Mihrabad
   aliases: []

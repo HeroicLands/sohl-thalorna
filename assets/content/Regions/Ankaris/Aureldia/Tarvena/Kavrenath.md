@@ -5,9 +5,11 @@ id: rpSFTksRLO0nmlv9
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Frontier Town"
+  population: null
 name:
   full: Kávrenath
   aliases: []

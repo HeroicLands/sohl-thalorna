@@ -8,8 +8,11 @@ description: ""
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - midhalnrgn
+  population: null
 name:
   full: Vylaría Region
   aliases: []

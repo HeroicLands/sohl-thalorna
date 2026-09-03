@@ -5,10 +5,11 @@ id: MJVnfnwAYz0bbQAS
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 2000
-settlementType: "Temple Town"
 name:
   full: Sanctara
   aliases: []

@@ -6,9 +6,11 @@ id: aYb1o7HjieqorZW7
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Capital City"
+  population: null
 name:
   full: Magnápolis
   aliases: []

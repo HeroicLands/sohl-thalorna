@@ -5,9 +5,11 @@ id: jjrNvguHkGppBHx6
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Trading Post"
+  population: null
 name:
   full: Haukstad
   aliases: []

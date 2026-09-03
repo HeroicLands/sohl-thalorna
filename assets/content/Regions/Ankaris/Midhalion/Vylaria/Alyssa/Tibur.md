@@ -5,10 +5,11 @@ id: Al7vNx3kEp2Rb8Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 12000
-settlementType: "Market Town"
 name:
   full: Tibur
   aliases: []

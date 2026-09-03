@@ -85,13 +85,13 @@ data:
   domains:
     - vrystwald
   population: 1000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     asguardian: aligned

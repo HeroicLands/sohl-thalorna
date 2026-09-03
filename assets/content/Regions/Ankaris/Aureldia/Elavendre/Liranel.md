@@ -5,9 +5,11 @@ id: 125j2DAi5wNhmQMA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Forest Town"
+  population: null
 name:
   full: Liranel
   aliases: []

@@ -5,10 +5,11 @@ id: MmnxJgu8HPv4ZFm2
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 120000
-settlementType: "City (Port)"
 name:
   full: Per-Ankhet
   aliases: []

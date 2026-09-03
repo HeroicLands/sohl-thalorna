@@ -69,14 +69,15 @@ data:
     offices: {}
   commonSkills:
     - vedyarlng
+  seat: null
   domains:
     - vedyarargn
   population: 90000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
+  peoples:
+    - humanflk
   parents: []
   relations:
     varakpnthn: aligned

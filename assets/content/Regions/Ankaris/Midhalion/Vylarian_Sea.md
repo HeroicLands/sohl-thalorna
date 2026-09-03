@@ -14,10 +14,13 @@ img: ""
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - midhalnrgn
     - ankrscntnnt
     - xerathia
+  population: null
 terran_analog: The Mediterranean Sea
 folder: RiHN4YkIZjYsHW4W
 ---

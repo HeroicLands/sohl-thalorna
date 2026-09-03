@@ -5,9 +5,11 @@ id: Jh8qC0VOgrks0Ums
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - khzryndsrtrgn
-settlementType: "Temple Settlement"
+  population: null
 name:
   full: Beit-Shōfár
   aliases: []

@@ -8,9 +8,12 @@ id: Aj5Li2wQQbLyEMm2
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
     - khzryndsrtrgn
+  population: null
 name:
   full: The Grazian Mountains
   aliases:

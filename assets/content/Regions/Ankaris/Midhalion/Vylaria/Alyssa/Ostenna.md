@@ -5,10 +5,11 @@ id: Al6yPx7kOm8Sb3Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 7000
-settlementType: "River-Port Town"
 name:
   full: Ostenna
   aliases: []

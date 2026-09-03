@@ -86,12 +86,12 @@ data:
   domains:
     - bethuargn
   population: 3000000
-  peoples:
-    - humanflk
   economy:
     - lore-tkhprcrncy
     - affiliation-bthntrdhss
     - affiliation-perhati
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

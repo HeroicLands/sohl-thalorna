@@ -5,6 +5,11 @@ aliases:
 id: ZwEe2tr8ed7HSXG4
 type: place
 subType: world
+data:
+  demonym: null
+  lore: []
+  parents: []
+  population: null
 folder: wCi1zv06QgydQQoL
 name:
   full: The World of Thalorna

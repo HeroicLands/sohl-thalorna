@@ -5,10 +5,11 @@ id: Vd7hGx4mSm9Tb3Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 6000
-settlementType: "Fishing Town"
 name:
   full: Saltholm
   aliases: []

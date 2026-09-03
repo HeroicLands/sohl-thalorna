@@ -5,9 +5,11 @@ id: wuwfHIB8d0m5SUnV
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Market Town / Seat of Local Nobility"
+  population: null
 name:
   full: Asgarthul
   aliases: []

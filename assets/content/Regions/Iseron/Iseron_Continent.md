@@ -8,11 +8,12 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: Iseronian
   lore:
     - humanflk
+  parents:
+    - worldthlrn
+  population: null
 id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:

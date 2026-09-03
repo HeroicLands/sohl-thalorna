@@ -5,9 +5,11 @@ id: WNKSFrK83yr8xKyA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Thrymstead
   aliases: []

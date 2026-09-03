@@ -7,9 +7,12 @@ description: "Eastern coastal region of Aureldia — wealthy merchant-prince rea
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - aureldirgn
     - midhalnrgn
+  population: null
 name:
   full: Provènzia Region
   aliases: []

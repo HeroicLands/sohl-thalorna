@@ -5,9 +5,11 @@ id: TgcoCbH421uQfKWo
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Hill Fort"
+  population: null
 name:
   full: Falkenstein
   aliases: []

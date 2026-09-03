@@ -6,10 +6,11 @@ id: 2I43nt8D8FSmXEY4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 20000
-settlementType: "Provincial City"
 name:
   full: Velysâra
   aliases: []

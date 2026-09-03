@@ -6,9 +6,11 @@ tags: []
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - okharisrgn
-settlementType: "Trading Port"
+  population: null
 name:
   full: Kaljékor
   aliases:

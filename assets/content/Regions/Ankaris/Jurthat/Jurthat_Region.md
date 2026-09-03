@@ -20,6 +20,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: Japanese archipelago (mountainous volcanic islands)
 folder: DhjGF5KsylKDxb7m
 ---

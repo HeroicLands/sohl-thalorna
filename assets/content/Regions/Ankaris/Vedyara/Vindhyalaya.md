@@ -88,11 +88,11 @@ data:
   domains:
     - vedyarargn
   population: 8000000
-  peoples:
-    - humanflk
   economy:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
+  peoples:
+    - humanflk
   parents: []
   relations:
     varakpnthn: aligned

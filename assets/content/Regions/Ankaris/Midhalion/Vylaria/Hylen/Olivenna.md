@@ -5,10 +5,11 @@ id: Hy8vNx3kOp2Rb5Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 5000
-settlementType: "Town"
 name:
   full: Olivenna
   aliases: []

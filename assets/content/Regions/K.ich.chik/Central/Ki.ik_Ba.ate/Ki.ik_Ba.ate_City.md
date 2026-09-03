@@ -5,9 +5,11 @@ id: 3E05WzjjmWWWlHf4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - cntrlkchchk
-settlementType: "City"
+  population: null
 name:
   full: Ki'ik Ba'ate
   aliases: []

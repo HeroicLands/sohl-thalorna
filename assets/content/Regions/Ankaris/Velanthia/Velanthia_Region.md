@@ -20,6 +20,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea — the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
 folder: dEwGyxsS5Sg40UgS
 ---

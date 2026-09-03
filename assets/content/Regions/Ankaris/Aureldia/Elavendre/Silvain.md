@@ -5,9 +5,11 @@ id: ELnmJWDc7tzAXnaz
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Woodland Settlement"
+  population: null
 name:
   full: Silvain
   aliases: []

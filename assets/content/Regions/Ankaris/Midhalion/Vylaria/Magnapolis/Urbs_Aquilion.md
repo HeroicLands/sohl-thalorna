@@ -12,9 +12,11 @@ description: "Urbs Aquilion, the Eagle City — the walled citadel atop Mons Aqu
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Imperial Citadel"
+  population: null
 id: In9rCt4xMzQp7Lub
 name:
   full: Urbs Aquilion

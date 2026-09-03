@@ -5,10 +5,11 @@ id: MdjcGbF0x3kGbwQx
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 12000
-settlementType: "Wine Town"
 name:
   full: Tjebu
   aliases: []

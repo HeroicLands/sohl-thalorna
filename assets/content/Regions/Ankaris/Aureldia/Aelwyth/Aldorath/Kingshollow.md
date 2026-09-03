@@ -5,9 +5,11 @@ id: jhd8AiAzVvvLpI9j
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "Town"
+  population: null
 name:
   full: Kingshollow
   aliases: []

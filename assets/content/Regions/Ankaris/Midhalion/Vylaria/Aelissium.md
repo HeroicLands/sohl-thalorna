@@ -5,9 +5,11 @@ id: xwXCIHtqjRX4AyUB
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Trade City"
+  population: null
 name:
   full: Aelissium
   aliases: []

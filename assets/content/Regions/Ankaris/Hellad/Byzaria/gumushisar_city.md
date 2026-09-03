@@ -5,9 +5,11 @@ id: Lo992b0Iv2JLzXly
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
-settlementType: "Fortress City"
+  population: null
 name:
   full: Gümüşhisar
   aliases: []

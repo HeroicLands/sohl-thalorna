@@ -93,14 +93,14 @@ data:
   domains:
     - heladrgn
   population: 800000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents:
     - ctysttshlns
   relations:

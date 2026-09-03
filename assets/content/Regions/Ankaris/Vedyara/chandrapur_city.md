@@ -5,9 +5,11 @@ id: u06VCq3gWTSKlQJZ
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "Temple City"
+  population: null
 name:
   full: Chandrapur
   aliases: []

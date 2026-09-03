@@ -13,6 +13,7 @@ shortcode: corsairleg
 subType: guild
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -73,6 +74,11 @@ data:
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
   commonSkills:
     - helonclng
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations: {}
 headquarters: city-of-kethara

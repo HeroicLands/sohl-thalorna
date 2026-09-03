@@ -5,9 +5,11 @@ id: vRDisPmvFKBKEq7e
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - heladrgn
-settlementType: "City-State"
+  population: null
 name:
   full: Therádon
   aliases: []

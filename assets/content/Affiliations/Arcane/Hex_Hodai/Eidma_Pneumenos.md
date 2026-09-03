@@ -7,6 +7,7 @@ type: affiliation
 subType: arcanetradition
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: meritocracy
     summary: >-
@@ -65,6 +66,12 @@ data:
         and worse.
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations:
     physera: nemesis

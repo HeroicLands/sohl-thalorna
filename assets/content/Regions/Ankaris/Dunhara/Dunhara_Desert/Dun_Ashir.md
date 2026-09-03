@@ -6,9 +6,11 @@ id: OEZyUT8hxlPoOJhD
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - dunhardsrtrgn
-settlementType: "Oasis Settlement"
+  population: null
 name:
   full: Dûn Ashir
   aliases: []

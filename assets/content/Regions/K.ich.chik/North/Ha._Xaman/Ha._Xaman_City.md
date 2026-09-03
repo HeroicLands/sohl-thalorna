@@ -5,9 +5,11 @@ id: n24XoHaQViCi0IYu
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Ha' Xaman
   aliases: []

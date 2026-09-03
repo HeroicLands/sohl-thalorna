@@ -5,9 +5,11 @@ id: oq4gDoiYMztl68Ri
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Port City"
+  population: null
 name:
   full: Tz’alam Ha’
   aliases: []

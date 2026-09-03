@@ -6,9 +6,11 @@ id: IxdQgYmu31vb7DlD
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Ritual Site / Ancient Settlement"
+  population: null
 name:
   full: Blóth
   aliases: []

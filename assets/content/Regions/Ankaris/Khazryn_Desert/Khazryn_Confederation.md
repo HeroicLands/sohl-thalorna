@@ -95,12 +95,12 @@ data:
   domains:
     - khzryndsrtrgn
   population: 2000000
-  peoples:
-    - humanflk
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
     - lore-vdyrnbnkng
+  peoples:
+    - humanflk
   parents: []
   relations:
     ashanpnthn: aligned

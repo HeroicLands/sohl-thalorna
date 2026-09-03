@@ -5,10 +5,11 @@ id: Hy7vNx3kEm2Rb8Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 6000
-settlementType: "Town"
 name:
   full: Vindara
   aliases: []

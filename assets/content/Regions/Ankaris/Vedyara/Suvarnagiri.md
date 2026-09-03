@@ -6,9 +6,11 @@ id: q5KssAIUA8eYcX2L
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "City"
+  population: null
 name:
   full: Suvarṇagiri
   aliases: []

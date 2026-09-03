@@ -86,12 +86,12 @@ data:
   domains:
     - alndntrblnds
   population: 500000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     firstgods: aligned

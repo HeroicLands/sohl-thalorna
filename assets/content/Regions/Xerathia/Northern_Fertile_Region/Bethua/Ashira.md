@@ -8,9 +8,11 @@ id: Wbuh7YBC3fe4JG9m
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - bethuargn
-settlementType: "Town"
+  population: null
 name:
   full: Ashíra
   aliases: []

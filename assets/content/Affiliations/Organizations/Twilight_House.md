@@ -20,6 +20,7 @@ type: affiliation
 subType: guild
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: oligarchy
     summary: >-
@@ -97,6 +98,9 @@ data:
   commonSkills:
     - vedyarlng
   seat: sandhyagrha
+  domains: []
+  population: null
+  economy: []
   peoples:
     - humanflk
   parents: []

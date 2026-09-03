@@ -5,10 +5,11 @@ id: Vd9rKx2mWp7Tb4Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 20000
-settlementType: "Naval City (Military Hub)"
 name:
   full: Castamar
   aliases: []

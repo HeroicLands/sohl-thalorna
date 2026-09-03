@@ -155,14 +155,14 @@ data:
   domains:
     - vylariargn
   population: 2500000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - affiliation-curiafscls
     - affiliation-aerarimmpr
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

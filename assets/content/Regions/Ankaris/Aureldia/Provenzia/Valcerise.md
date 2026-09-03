@@ -6,9 +6,11 @@ id: UR8xNtWDuaHZdxsJ
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "Town"
+  population: null
 name:
   full: Valcèrise
   aliases: []

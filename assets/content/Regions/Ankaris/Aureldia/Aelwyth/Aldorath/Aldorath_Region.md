@@ -12,8 +12,11 @@ description: >-
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - aelwyth
+  population: null
 name:
   full: Aldorath Region
   aliases:

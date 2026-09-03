@@ -10,6 +10,7 @@ type: affiliation
 subType: venture
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: stratocracy
     summary: >-
@@ -70,6 +71,12 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations: {}
 sohl:

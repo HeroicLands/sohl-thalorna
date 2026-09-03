@@ -5,10 +5,11 @@ id: qqUbZEiqy6oeywb6
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 40000
-settlementType: "Necropolis City"
 name:
   full: Ta-Djeser
   aliases: []

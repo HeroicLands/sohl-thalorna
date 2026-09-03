@@ -5,9 +5,11 @@ id: pHT2BUJrOrXaugNc
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aureldirgn
-settlementType: "Harbor City"
+  population: null
 name:
   full: Calypsa
   aliases: []

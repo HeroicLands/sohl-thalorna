@@ -5,9 +5,11 @@ id: qHD2DJ9d3jceHp2C
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: K'awiil Tza'kul
   aliases: []

@@ -5,9 +5,11 @@ id: zbCX6Tb8noi8LFDF
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - heladrgn
-settlementType: "Naval City"
+  population: null
 name:
   full: Pelagora
   aliases: []

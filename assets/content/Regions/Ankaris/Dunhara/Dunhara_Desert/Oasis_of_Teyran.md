@@ -5,9 +5,11 @@ id: GufmJbVpnn7ABWGl
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - dunhardsrtrgn
-settlementType: "Oasis"
+  population: null
 name:
   full: Oasis of Teyran
   aliases: []

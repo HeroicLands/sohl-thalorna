@@ -6,10 +6,11 @@ id: kjeTX8avJnpknuJ3
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 80000
-settlementType: "City (Granary Capital)"
 name:
   full: Ankh-Setûn
   aliases: []

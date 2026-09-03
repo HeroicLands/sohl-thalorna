@@ -4,15 +4,17 @@ aliases:
   - Kethramir
 id: GkOSX9uDj3AmjiVz
 type: place
-settlementType: "Caravan Waypoint"
 name:
   full: Kethramír
   aliases: []
 shortcode: kethramir
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - khzryndsrtrgn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

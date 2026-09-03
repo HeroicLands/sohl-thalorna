@@ -6,9 +6,11 @@ id: JVjT5UI2QiINN8NC
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Harbor Town"
+  population: null
 name:
   full: Járnvík
   aliases: []

@@ -6,9 +6,11 @@ id: elbApD1i9cSa1Wyh
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Walled City"
+  population: null
 name:
   full: Montaña
   aliases: []

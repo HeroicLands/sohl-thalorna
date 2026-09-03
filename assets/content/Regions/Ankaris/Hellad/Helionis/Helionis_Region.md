@@ -6,8 +6,11 @@ description: "Region of independent city-states bound by Greek-like culture, sha
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - heladrgn
+  population: null
 name:
   full: Heliónis
   aliases: []

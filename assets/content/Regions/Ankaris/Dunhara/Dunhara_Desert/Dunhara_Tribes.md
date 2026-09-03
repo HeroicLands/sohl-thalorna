@@ -85,11 +85,11 @@ data:
   domains:
     - dunhardsrtrgn
   population: 1000000
-  peoples:
-    - humanflk
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
+  peoples:
+    - humanflk
   parents: []
   relations:
     ashanpnthn: aligned

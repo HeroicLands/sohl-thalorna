@@ -90,17 +90,18 @@ data:
         purse.
   commonSkills:
     - helonclng
+  seat: null
   domains:
     - helionis
   population: 3000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

@@ -13,6 +13,7 @@ type: affiliation
 subType: polity
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: monarchy
     summary: ""
@@ -88,9 +89,10 @@ data:
   seat: balamkul2
   domains:
     - cntrlkchchk
+  population: null
+  economy: []
   peoples:
     - humanflk
-  economy: []
   parents: []
   relations:
     itzanpnthn: aligned

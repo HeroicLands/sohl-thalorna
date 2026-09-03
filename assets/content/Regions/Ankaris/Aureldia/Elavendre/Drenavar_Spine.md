@@ -8,8 +8,11 @@ id: Vb3c2kCmZT3k4wIa
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - alndntrblnds
+  population: null
 name:
   full: The Drenavar Spine
   aliases:

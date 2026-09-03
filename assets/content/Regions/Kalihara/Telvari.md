@@ -6,9 +6,11 @@ id: WBqnuiArBf5PZWiO
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - kaliharargn
-settlementType: "Island Town"
+  population: null
 name:
   full: Telvári
   aliases: []

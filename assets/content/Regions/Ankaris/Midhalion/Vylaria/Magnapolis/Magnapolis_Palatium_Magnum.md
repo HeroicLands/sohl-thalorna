@@ -12,9 +12,11 @@ description: "The Palatium Magnum, the Grand Palace of Magnápolis — the large
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Palace District"
+  population: null
 id: Pl8mAx3vQrK9Tb2d
 name:
   full: Palatium Magnum

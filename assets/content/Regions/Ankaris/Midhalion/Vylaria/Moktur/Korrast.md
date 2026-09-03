@@ -5,10 +5,11 @@ id: Mk5rKx2mKp7Tb4Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 5000
-settlementType: "Pass Town"
 name:
   full: Korrast
   aliases: []

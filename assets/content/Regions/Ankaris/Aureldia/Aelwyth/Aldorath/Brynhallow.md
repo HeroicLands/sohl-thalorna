@@ -5,9 +5,11 @@ id: TowEWAGcIliRpar1
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "Hill Town"
+  population: null
 name:
   full: Brynhallow
   aliases: []

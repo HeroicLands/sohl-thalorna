@@ -5,10 +5,11 @@ id: Vd3yPx6kKm2Sb8Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 7000
-settlementType: "Fishing Town"
 name:
   full: Korsvik
   aliases: []

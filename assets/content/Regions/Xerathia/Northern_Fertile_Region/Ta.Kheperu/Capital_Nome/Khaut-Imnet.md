@@ -7,9 +7,11 @@ id: Sem7VWXNmBrFGB9L
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
-settlementType: "General Necropolis (the burial-fields of Wasetkara)"
+  population: null
 banner: banners/ta-kheperu-banner.webp
 description: "The vast general necropolis of Wasetkara — the graded burial-fields flanking the royal necropolis of Ta-Djeser, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
 name:

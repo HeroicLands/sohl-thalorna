@@ -83,12 +83,12 @@ data:
   domains:
     - okharisrgn
   population: 4000000
-  peoples:
-    - humanflk
   economy:
     - lore-tkhprcrncy
     - affiliation-crwntrdskhrs
     - affiliation-perhati
+  peoples:
+    - humanflk
   parents: []
   relations:
     nkaruthar: aligned

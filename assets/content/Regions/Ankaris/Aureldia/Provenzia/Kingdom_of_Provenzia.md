@@ -148,12 +148,12 @@ data:
   domains:
     - provenzrgn
   population: 7000000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

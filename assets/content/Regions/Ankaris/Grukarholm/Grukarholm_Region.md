@@ -21,6 +21,7 @@ data:
     - grukarflk
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: "Belarus — a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 folder: CNzTSOtYWZwLyp5k
 ---

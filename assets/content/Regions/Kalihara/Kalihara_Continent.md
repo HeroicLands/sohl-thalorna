@@ -9,11 +9,12 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: Kaliharan
   lore:
     - humanflk
+  parents:
+    - worldthlrn
+  population: null
 name:
   full: Kalihara Continent
   aliases: []

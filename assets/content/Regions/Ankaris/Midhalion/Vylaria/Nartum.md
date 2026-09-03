@@ -6,9 +6,11 @@ id: lC4TS0SvySTGzr5S
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Holy City"
+  population: null
 name:
   full: Nartûm
   aliases: []

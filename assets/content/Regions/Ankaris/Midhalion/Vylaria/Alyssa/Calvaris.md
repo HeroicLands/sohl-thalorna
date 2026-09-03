@@ -5,10 +5,11 @@ id: Al3hGx4mCq9Tb2Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 9000
-settlementType: "Market Town"
 name:
   full: Calvaris
   aliases: []

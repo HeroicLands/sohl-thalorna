@@ -5,9 +5,11 @@ id: JVMEXCHmxTAMu49N
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Tz'uma No'tun
   aliases: []

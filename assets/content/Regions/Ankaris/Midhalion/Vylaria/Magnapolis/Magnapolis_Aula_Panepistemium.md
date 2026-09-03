@@ -13,9 +13,11 @@ description: "The Aula Panepistemium, the ceremonial inner seat of the Panepiste
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "University Hall"
+  population: null
 id: Au5pNx7kEm2Rb9Lt
 name:
   full: Aula Panepistemium

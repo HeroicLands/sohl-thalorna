@@ -95,12 +95,12 @@ data:
   domains:
     - aelwyth
   population: 2500000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

@@ -5,9 +5,11 @@ id: 8WCUTA2ntRJRWHRO
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Fortress City"
+  population: null
 name:
   full: Tz’alam Witz
   aliases: []

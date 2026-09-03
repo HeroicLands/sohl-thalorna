@@ -5,9 +5,11 @@ id: BvtBiuBimYBhWyf6
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Deep Forest Settlement"
+  population: null
 name:
   full: Dunkelwald
   aliases: []

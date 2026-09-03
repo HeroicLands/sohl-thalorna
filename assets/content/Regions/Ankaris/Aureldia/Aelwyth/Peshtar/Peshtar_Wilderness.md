@@ -21,6 +21,7 @@ data:
   parents:
     - aelwyth
     - ankrscntnnt
+  population: null
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
 folder: ZbE1NQo3ApZ26xon
 ---

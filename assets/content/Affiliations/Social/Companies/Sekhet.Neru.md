@@ -11,6 +11,7 @@ folder: bVhz4i3fwwT0NDSW
 subType: order
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -68,6 +69,12 @@ data:
         the company.
       Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and
         often alone.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations: {}
 sohl:

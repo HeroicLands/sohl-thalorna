@@ -5,9 +5,11 @@ id: mwtTAWXEPhrvwxHS
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aelwyth
-settlementType: "Moorland Settlement"
+  population: null
 name:
   full: Ravenmoor
   aliases: []

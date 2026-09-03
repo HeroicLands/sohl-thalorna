@@ -14,6 +14,7 @@ type: affiliation
 subType: governmental
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -66,9 +67,14 @@ data:
       Recorder: Keeper of the register the body's authority is exercised through.
       Bailiff: Server of the body's process and executor of its distraints.
       Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
   economy:
     - affiliation-aerarimmpr
     - affiliation-curiafscls
+  peoples: []
   parents: []
   relations: {}
 sohl:

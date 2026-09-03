@@ -3,15 +3,17 @@ aliases:
   - Ashkarad
 id: kDexjFi0gHnVg2xA
 type: place
-settlementType: "Craft Town"
 name:
   full: Ashkarad
   aliases: []
 shortcode: ashkarad
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - khzryndsrtrgn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

@@ -5,9 +5,11 @@ id: 4QzVGEQ6lbgWqm5t
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - kaliharargn
-settlementType: "Port Settlement"
+  population: null
 name:
   full: Qasirah
   aliases: []

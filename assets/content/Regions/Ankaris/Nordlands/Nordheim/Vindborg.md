@@ -5,9 +5,11 @@ id: 7XxnqkgQlwHbZvb8
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Hill Fort"
+  population: null
 name:
   full: Vindborg
   aliases: []

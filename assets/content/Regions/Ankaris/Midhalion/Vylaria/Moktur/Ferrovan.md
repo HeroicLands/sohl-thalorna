@@ -5,10 +5,11 @@ id: Mk8aRx2vKp7Tb4Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 7000
-settlementType: "Mining Town"
 name:
   full: Ferrovan
   aliases: []

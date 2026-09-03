@@ -5,9 +5,11 @@ id: nslauvnDvb7PsYKm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Fortified Village"
+  population: null
 name:
   full: Grimholt
   aliases: []

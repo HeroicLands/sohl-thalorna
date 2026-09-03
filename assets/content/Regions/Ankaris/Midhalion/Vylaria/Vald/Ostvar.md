@@ -5,10 +5,11 @@ id: Vd4hNx7vEq9Rb2Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 8000
-settlementType: "Fishing Town"
 name:
   full: Ostvar
   aliases: []

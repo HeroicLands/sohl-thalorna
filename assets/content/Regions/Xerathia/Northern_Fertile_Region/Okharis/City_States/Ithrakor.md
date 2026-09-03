@@ -6,9 +6,11 @@ tags: []
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - okharisrgn
-settlementType: "City-State"
+  population: null
 name:
   full: Ithrákor
   aliases: []

@@ -5,9 +5,11 @@ id: vcY8KLpy7ZHBjco4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - cntrlkchchk
-settlementType: "City"
+  population: null
 name:
   full: K'ankul
   aliases: []

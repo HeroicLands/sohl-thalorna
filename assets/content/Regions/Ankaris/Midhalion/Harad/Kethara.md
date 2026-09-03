@@ -87,11 +87,11 @@ data:
   domains:
     - haradregin
   population: 2200000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
+  peoples:
+    - humanflk
   parents:
     - cnfdrtnhrdnstts
   relations:

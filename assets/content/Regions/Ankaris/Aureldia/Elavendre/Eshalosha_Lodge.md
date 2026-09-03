@@ -7,9 +7,11 @@ id: lfpk5DjHdNISkpXd
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - alndntrblnds
-settlementType: "Áelendan settlement and ceremonial center"
+  population: null
 name:
   full: Eshálosha Lodge
   aliases:

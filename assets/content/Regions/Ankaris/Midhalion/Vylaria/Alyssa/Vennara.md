@@ -5,10 +5,11 @@ id: Al9aRx2vVm4Tb7Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 6000
-settlementType: "Town"
 name:
   full: Vennara
   aliases: []

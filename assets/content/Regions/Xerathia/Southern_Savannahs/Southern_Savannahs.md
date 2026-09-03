@@ -15,10 +15,12 @@ shortcode: sthrnsvnhs
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - xerathia
+  population: null
 terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
 folder: Ka6y9l5O5XGpNhfI
 ---

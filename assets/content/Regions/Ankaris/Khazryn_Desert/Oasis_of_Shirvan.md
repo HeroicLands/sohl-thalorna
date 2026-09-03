@@ -3,15 +3,17 @@ aliases:
   - Oasis of Shirvan
 id: FQHoKNcT3CfFmyIV
 type: place
-settlementType: "Oasis Settlement"
 name:
   full: Oasis of Shirvan
   aliases: []
 shortcode: oasishirvn
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - khzryndsrtrgn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

@@ -6,9 +6,11 @@ id: 5mm5ufJ2syvYaFP8
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Coastal Village"
+  population: null
 name:
   full: Sulûn
   aliases: []

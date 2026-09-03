@@ -5,9 +5,11 @@ id: yWYG8HA84JUmJ0Xv
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Settlement"
+  population: null
 name:
   full: Thornhaven
   aliases: []

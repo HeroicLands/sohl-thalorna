@@ -5,9 +5,11 @@ id: lLZtjVvo1K6TGm1A
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Thorrborg
   aliases: []

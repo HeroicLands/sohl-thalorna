@@ -7,10 +7,12 @@ description: "The vast forest-and-river belt east of the Nordlands proper — en
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - ankrscntnnt
+  population: null
 name:
   full: Vrystwald
   aliases: []

@@ -5,9 +5,11 @@ id: OD0mDmXO2Yykzwee
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fishing Village"
+  population: null
 name:
   full: Greyfjord
   aliases: []

@@ -5,9 +5,11 @@ id: guzzmrqqtagCbdW4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "Fortress City"
+  population: null
 name:
   full: Sūryāgarha
   aliases: []

@@ -10,6 +10,7 @@ type: affiliation
 subType: order
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -58,6 +59,12 @@ data:
         and clan.
       Dog-Keeper: Warden of the hounds, without which the great game is not brought to bay.
       Scout: Sent ahead into ground the company does not know, and gone for days at a time.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations: {}
 sohl:

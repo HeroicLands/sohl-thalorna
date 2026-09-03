@@ -5,11 +5,12 @@ id: gqBpXloRdqQrE3Og
 type: place
 subType: settlement
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - amradadrgn
-settlementType: "Fortress Town"
+  population: null
 name:
   full: Tahrodan
   aliases: []

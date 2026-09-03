@@ -6,9 +6,11 @@ id: 8V6lgZjeFHlQZkRA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - kaliharargn
-settlementType: "Port Town"
+  population: null
 name:
   full: Vashurán
   aliases: []

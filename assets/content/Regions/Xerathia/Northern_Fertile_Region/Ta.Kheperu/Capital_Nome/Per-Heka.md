@@ -5,10 +5,11 @@ id: szUUIRGt86BY1Kjb
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 30000
-settlementType: "Temple-Estate Town"
 name:
   full: Per-Heka
   aliases: []

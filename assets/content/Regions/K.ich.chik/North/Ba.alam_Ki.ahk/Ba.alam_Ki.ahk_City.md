@@ -5,9 +5,11 @@ id: PVzHCv6vrYI2AmrU
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Ba'alam Ki'ahk
   aliases: []

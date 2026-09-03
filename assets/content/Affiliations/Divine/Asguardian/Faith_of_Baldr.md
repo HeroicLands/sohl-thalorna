@@ -8,6 +8,7 @@ type: affiliation
 subType: faithtradition
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: theocracy
     summary: >-
@@ -73,6 +74,12 @@ data:
       Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
       Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
         obligations fall due.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents:
     - asguardian
   relations:

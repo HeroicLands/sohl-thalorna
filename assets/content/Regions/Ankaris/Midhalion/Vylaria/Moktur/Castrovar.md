@@ -5,10 +5,11 @@ id: Mk3hNx7mEq9Rb2Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 6000
-settlementType: "Frontier Fortress"
 name:
   full: Castrovar
   aliases: []

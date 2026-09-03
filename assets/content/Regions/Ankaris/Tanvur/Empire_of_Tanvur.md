@@ -98,11 +98,12 @@ data:
         in any prefecture.
   commonSkills:
     - tanvurlng
+  seat: null
   domains: []
   population: 120000000
+  economy: []
   peoples:
     - humanflk
-  economy: []
   parents: []
   relations:
     tngvkvnlei: aligned

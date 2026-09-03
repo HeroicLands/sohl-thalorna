@@ -81,12 +81,12 @@ data:
   domains:
     - aelwyth
   population: 1500000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     asguardian: aligned

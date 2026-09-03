@@ -5,10 +5,11 @@ id: mT25GbjyVhZHPVHL
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 5000
-settlementType: "Town"
 name:
   full: Valdosta
   aliases: []

@@ -5,9 +5,11 @@ tags: []
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "City"
+  population: null
 id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel

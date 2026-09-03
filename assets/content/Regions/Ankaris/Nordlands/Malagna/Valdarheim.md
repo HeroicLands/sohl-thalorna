@@ -5,9 +5,11 @@ id: fJaEmpvtfouLj68u
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Settlement"
+  population: null
 name:
   full: Valdarheim
   aliases: []

@@ -96,12 +96,13 @@ data:
         in any prefecture.
   commonSkills:
     - tanvurlng
+  seat: null
   domains:
     - jurthatrgn
   population: 500000
+  economy: []
   peoples:
     - humanflk
-  economy: []
   parents: []
   relations:
     tngvkvnlei: aligned

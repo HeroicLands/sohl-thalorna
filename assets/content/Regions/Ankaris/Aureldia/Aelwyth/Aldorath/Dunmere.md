@@ -5,9 +5,11 @@ id: MbOkXD6PFlAjMucq
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "Lakeside Village"
+  population: null
 name:
   full: Dunmere
   aliases: []

@@ -5,9 +5,11 @@ id: IdfMspBEVKOe4Jje
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Woodland Village"
+  population: null
 name:
   full: Eichengrund
   aliases: []

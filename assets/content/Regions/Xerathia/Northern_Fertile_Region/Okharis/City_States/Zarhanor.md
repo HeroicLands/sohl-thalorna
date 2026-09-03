@@ -6,9 +6,11 @@ tags: []
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - okharisrgn
-settlementType: "Temple City"
+  population: null
 name:
   full: Zarhánor
   aliases:

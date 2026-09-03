@@ -92,14 +92,14 @@ data:
   domains:
     - helionis
   population: 700000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents:
     - ctysttshlns
   relations:

@@ -6,9 +6,11 @@ id: gcqQMrf3iloHRPXm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "Hill Town"
+  population: null
 name:
   full: Monvèrdre
   aliases: []

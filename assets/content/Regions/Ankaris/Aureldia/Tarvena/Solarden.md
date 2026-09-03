@@ -6,9 +6,11 @@ id: OXCppoDSENMyNm24
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Solárden
   aliases: []

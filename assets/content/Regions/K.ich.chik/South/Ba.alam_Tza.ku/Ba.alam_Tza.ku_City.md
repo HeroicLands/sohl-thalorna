@@ -5,9 +5,11 @@ id: Ti61MsXgLxbhYAnK
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Ba'alam Tza'ku
   aliases: []

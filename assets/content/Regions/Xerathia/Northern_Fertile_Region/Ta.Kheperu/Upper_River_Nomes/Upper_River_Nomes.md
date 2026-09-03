@@ -89,14 +89,15 @@ data:
         — depends.
   commonSkills:
     - kheperlng
+  seat: null
   domains:
     - takheperurgn
   population: 8000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
+  peoples:
+    - humanflk
   parents:
     - empirtkhpr
   relations:

@@ -8,10 +8,12 @@ id: VQ6dTH1kqTQUvI3F
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnsvnhs
     - xerathia
-settlementType: "Village"
+  population: null
 name:
   full: Ékunda
   aliases: []

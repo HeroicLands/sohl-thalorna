@@ -5,10 +5,11 @@ id: ijEMnWfPBKZeYMVm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 24000
-settlementType: "Fortress Town"
 name:
   full: Behen
   aliases: []

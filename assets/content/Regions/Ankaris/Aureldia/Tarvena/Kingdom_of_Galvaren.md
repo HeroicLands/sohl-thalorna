@@ -149,12 +149,12 @@ data:
   domains:
     - tarvenirgn
   population: 1000000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
+  peoples:
+    - humanflk
   parents:
     - kingdmtrvn
   relations:

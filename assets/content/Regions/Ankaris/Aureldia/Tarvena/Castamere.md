@@ -5,9 +5,11 @@ id: lR8iAwaI3Q3MlekO
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Castle Town"
+  population: null
 name:
   full: Castamere
   aliases: []

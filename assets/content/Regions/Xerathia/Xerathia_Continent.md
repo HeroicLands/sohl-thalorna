@@ -10,13 +10,14 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: Xerathian
   lore:
     - humanflk
     - flksinale
     - flkkhazar
+  parents:
+    - worldthlrn
+  population: null
 name:
   full: Xerathia
   aliases: []

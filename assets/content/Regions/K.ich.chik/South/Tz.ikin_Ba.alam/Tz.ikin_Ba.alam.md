@@ -15,6 +15,7 @@ type: affiliation
 subType: polity
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: monarchy
     summary: ""
@@ -90,8 +91,9 @@ data:
   seat: tzikinbalm2
   domains:
     - sthrnkchchk
-  peoples: []
+  population: null
   economy: []
+  peoples: []
   parents: []
   relations: {}
 sohl:

@@ -5,9 +5,11 @@ id: RceXRNNJJjThvqSo
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Skorrborg
   aliases: []

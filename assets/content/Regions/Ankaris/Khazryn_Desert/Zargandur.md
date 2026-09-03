@@ -4,15 +4,17 @@ aliases:
   - Zargandur
 id: ge8mFHcZJR9yiiKZ
 type: place
-settlementType: "Town"
 name:
   full: Zargandûr
   aliases: []
 shortcode: zargandur
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - khzryndsrtrgn
+  population: null
 folder: PbQ9B1r6hEaJvyco
 ---
 

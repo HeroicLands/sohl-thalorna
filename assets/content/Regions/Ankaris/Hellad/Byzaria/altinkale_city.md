@@ -5,9 +5,11 @@ id: 5MRlAq6xyBaiOMaw
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
-settlementType: "Fortress City"
+  population: null
 name:
   full: Altinkale
   aliases: []

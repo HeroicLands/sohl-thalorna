@@ -5,10 +5,11 @@ id: Mk6yPx4kVm8Sb3Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 3000
-settlementType: "Timber Town"
 name:
   full: Pinnhald
   aliases: []

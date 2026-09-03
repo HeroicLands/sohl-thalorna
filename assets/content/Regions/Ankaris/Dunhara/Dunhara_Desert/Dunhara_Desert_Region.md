@@ -21,6 +21,7 @@ data:
   parents:
     - dunharargn
     - ankrscntnnt
+  population: null
 ---
 
 ## Overview

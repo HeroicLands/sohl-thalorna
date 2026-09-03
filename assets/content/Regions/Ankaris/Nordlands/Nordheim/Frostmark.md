@@ -5,9 +5,11 @@ id: 1Rtw3Owv91p4f5yA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Border Settlement"
+  population: null
 name:
   full: Frostmark
   aliases: []

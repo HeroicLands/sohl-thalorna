@@ -7,9 +7,12 @@ description: "Great island off Élavendre's western coast — deeply legendary. 
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - aureldirgn
     - ankrscntnnt
+  population: null
 name:
   full: Aelwyth
   aliases:

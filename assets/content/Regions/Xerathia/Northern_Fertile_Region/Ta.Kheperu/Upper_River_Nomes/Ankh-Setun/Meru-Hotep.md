@@ -5,10 +5,11 @@ id: w37mo3an5Yl3C5an
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 25000
-settlementType: "River Town (Grain Port)"
 name:
   full: Meru-Hotep
   aliases: []

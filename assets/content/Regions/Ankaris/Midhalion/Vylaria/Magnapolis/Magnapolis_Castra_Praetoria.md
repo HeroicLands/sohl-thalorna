@@ -12,9 +12,11 @@ description: "The Castra Praetoria, fortified barracks of the Praetar Augustarum
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Imperial Fortress"
+  population: null
 id: Ct9rPx2mKvL4Qb7n
 name:
   full: Castra Praetoria

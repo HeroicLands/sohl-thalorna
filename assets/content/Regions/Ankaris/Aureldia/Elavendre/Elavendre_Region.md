@@ -7,10 +7,12 @@ description: "Woodland kingdom where Sinalë and humans coexist in a culture of 
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - aureldirgn
+  population: null
 name:
   full: Élavendre
   aliases: []

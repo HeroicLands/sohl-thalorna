@@ -5,9 +5,11 @@ id: SulSgH0GRCJUbMll
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - amradadrgn
-settlementType: "City"
+  population: null
 name:
   full: Golshahr
   aliases: []

@@ -6,9 +6,11 @@ id: fGQuj4lr8Fd0VQbZ
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "Port Town"
+  population: null
 name:
   full: Belpòrte
   aliases: []

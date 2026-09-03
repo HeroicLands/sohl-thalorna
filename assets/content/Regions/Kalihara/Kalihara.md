@@ -87,10 +87,10 @@ data:
   domains:
     - kaliharargn
   population: 3000000
-  peoples:
-    - humanflk
   economy:
     - lore-bartercnmy
+  peoples:
+    - humanflk
   parents: []
   relations:
     tharivaan: aligned

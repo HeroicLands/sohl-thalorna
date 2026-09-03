@@ -5,10 +5,11 @@ id: yKyHOnW4vqQivkJZ
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 450000
-settlementType: "Imperial City (Capital)"
 name:
   full: Wasetkara
   aliases: []

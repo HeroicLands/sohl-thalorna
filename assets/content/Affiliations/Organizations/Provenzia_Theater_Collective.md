@@ -16,6 +16,7 @@ type: affiliation
 subType: fellowship
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: democracy
     summary: >-
@@ -57,8 +58,13 @@ data:
       Steward: Warden of the hall, its provision and the ordering of its gatherings.
       Almoner: Administrator of the fellowship's relief to members in need.
       Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
   economy:
     - affiliation-magnumclgm
+  peoples: []
   parents: []
   relations: {}
 sohl:

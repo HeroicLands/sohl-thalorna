@@ -87,12 +87,12 @@ data:
   domains:
     - byzariargn
   population: 2000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents:
     - byzarianlg
   relations:

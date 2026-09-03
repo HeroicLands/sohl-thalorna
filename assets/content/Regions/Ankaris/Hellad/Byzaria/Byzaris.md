@@ -3,15 +3,17 @@ aliases:
   - Byzaris
 id: HpB2fXNRSm9qSW6y
 type: place
-settlementType: "Craft City"
 name:
   full: Byzaris
   aliases: []
 shortcode: byzaris
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
+  population: null
 folder: pAXnwYJhDDSvkrPt
 ---
 

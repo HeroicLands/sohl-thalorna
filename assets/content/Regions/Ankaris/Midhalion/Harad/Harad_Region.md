@@ -13,9 +13,12 @@ img: ""
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - midhalnrgn
     - ankrscntnnt
+  population: null
 terran_analog: ""
 folder: umL4KFGO3MD4u9X1
 ---

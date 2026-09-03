@@ -6,9 +6,11 @@ id: htPFubBTLySO6pYs
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Mountain Settlement"
+  population: null
 name:
   full: Stálbrekka
   aliases: []

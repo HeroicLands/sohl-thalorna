@@ -5,9 +5,11 @@ id: pIq5WRv3f9mIgJHz
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
-settlementType: "Caravan City"
+  population: null
 name:
   full: Yeşilhan
   aliases: []

@@ -5,10 +5,11 @@ id: P01J8cKSZZ3mWGLH
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 15000
-settlementType: "Provincial City"
 name:
   full: Tyrellan
   aliases: []

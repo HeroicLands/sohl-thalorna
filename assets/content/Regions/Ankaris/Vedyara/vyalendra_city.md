@@ -5,9 +5,11 @@ id: Df8fe3ZzpuxYWWbE
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "City"
+  population: null
 name:
   full: Vyālendra
   aliases: []

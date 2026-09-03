@@ -96,12 +96,12 @@ data:
   domains:
     - nrdlndsrgn
   population: 900000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
     - lore-kinhalcrdt
+  peoples:
+    - humanflk
   parents: []
   relations:
     asguardian: aligned

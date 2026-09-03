@@ -8,14 +8,15 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: Ankarian
   lore:
     - humanflk
     - grukarflk
     - flksinale
     - flkkhazar
+  parents:
+    - worldthlrn
+  population: null
 id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent

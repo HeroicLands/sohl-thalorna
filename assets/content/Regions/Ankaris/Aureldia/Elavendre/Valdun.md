@@ -6,9 +6,11 @@ id: x8lAC1ETUs0sqHpi
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Inland Town"
+  population: null
 name:
   full: Valdûn
   aliases: []

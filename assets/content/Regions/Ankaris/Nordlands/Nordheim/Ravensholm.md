@@ -5,9 +5,11 @@ id: xdfasuC4zLc5gWSd
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Religious/Strategic Settlement"
+  population: null
 name:
   full: Ravensholm
   aliases: []

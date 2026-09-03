@@ -5,9 +5,11 @@ id: LXNjgk0sJIzvtzuS
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - cntrlkchchk
-settlementType: "City"
+  population: null
 name:
   full: Balamkul
   aliases: []

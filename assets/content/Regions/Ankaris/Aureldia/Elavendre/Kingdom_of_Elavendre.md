@@ -149,12 +149,12 @@ data:
   domains:
     - elavendre
   population: 5000000
-  peoples:
-    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

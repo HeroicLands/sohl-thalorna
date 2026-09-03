@@ -5,11 +5,12 @@ id: oS8n3zisICURpMOI
 type: place
 subType: settlement
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - helionis
-settlementType: "Coastal Town"
+  population: null
 name:
   full: Myrtillos
   aliases: []

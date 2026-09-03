@@ -18,6 +18,7 @@ type: affiliation
 subType: order
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -88,6 +89,12 @@ data:
       Treasurer: Keeper of the order's revenue, its endowments and its debts.
       Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother
         of proven service.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations:
     asguardian: aligned

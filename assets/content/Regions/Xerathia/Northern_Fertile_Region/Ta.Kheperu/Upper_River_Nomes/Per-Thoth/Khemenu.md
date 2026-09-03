@@ -5,10 +5,11 @@ id: U2pzITnUVrmEUuZY
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 85000
-settlementType: "Temple City (Scribal)"
 name:
   full: Khemenu
   aliases: []

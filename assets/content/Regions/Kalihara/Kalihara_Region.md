@@ -19,6 +19,7 @@ data:
     - humanflk
   parents:
     - klhrcntnnt
+  population: null
 ---
 
 ## Overview

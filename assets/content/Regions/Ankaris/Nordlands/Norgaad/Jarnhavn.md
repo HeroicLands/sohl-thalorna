@@ -6,9 +6,11 @@ id: qMK74rVgAAQlzEAs
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Fortified Harbor Town"
+  population: null
 name:
   full: Járnhavn
   aliases: []

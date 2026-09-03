@@ -5,9 +5,11 @@ id: 81GNYrgkAYEus3dq
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Tz'ikin Ba'alam
   aliases: []

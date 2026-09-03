@@ -12,6 +12,7 @@ type: affiliation
 subType: spirittradition
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -78,6 +79,12 @@ data:
       Initiator: Conductor of the ordeal by which an aspirant becomes an initiate.
       Keeper of the Tally: Recorder of the offerings owed and made, without which the reckoning
         cannot be kept.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  peoples: []
   parents: []
   relations: {}
 sohl:

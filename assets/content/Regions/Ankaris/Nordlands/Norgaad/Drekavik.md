@@ -6,9 +6,11 @@ id: dFMvJ2wRf3xqTdLU
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Coastal Village"
+  population: null
 name:
   full: Drekavík
   aliases: []

@@ -92,11 +92,11 @@ data:
   domains:
     - midhalnrgn
   population: 12000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

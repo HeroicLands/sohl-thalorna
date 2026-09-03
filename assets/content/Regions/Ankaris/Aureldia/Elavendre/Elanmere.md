@@ -5,9 +5,11 @@ id: rvpZLPq6bDeSMrLX
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Lakeside Town"
+  population: null
 name:
   full: Elanmere
   aliases: []

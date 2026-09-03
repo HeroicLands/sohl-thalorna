@@ -5,10 +5,11 @@ id: Vd2mKx7rWp4Tb9Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 50000
-settlementType: "Provincial Capital (Economic Hub)"
 name:
   full: Mercavia
   aliases: []

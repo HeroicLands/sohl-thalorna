@@ -15,10 +15,12 @@ shortcode: nrthrnfrtlrgn
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
   parents:
     - xerathia
+  population: null
 terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 folder: CoHsV0UM8KUX7ytU
 ---

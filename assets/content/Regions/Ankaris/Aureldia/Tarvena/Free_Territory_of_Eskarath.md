@@ -84,15 +84,16 @@ data:
         cannot be reckoned.
   commonSkills:
     - tarvenlng
+  seat: null
   domains:
     - tarvenirgn
   population: 200000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents:
     - kingdmtrvn
   relations:

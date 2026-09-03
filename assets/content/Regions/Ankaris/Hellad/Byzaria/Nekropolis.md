@@ -6,8 +6,11 @@ id: oVedEJI68W2dAXzt
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - helionis
+  population: null
 name:
   full: Nékropolis
   aliases: []

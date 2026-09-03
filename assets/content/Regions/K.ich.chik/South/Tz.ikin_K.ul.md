@@ -5,9 +5,11 @@ id: YxOv20w4CsGfROM5
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Fortress City"
+  population: null
 name:
   full: Tz’ikin K’ul
   aliases: []

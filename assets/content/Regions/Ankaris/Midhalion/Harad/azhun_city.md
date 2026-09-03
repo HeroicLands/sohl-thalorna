@@ -5,9 +5,11 @@ id: glFCD2sGQEKQGn6c
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Port City"
+  population: null
 name:
   full: Azhûn
   aliases: []

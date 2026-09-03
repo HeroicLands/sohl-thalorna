@@ -5,9 +5,11 @@ id: b1sHNYrkFRl8FjPK
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Naval City"
+  population: null
 name:
   full: Kethara
   aliases: []

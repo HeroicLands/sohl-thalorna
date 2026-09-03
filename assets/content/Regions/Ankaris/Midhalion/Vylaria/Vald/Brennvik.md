@@ -5,10 +5,11 @@ id: Vd5vNx3kBp8Rb2Lt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 9000
-settlementType: "Fishing Town"
 name:
   full: Brennvik
   aliases: []

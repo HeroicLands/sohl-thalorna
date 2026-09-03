@@ -5,9 +5,11 @@ id: AOgoVrsaeRLgPydh
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Temple City"
+  population: null
 name:
   full: Ixkul K’ul
   aliases: []

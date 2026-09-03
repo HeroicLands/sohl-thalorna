@@ -25,6 +25,7 @@ type: affiliation
 subType: guild
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: council
     summary: >-
@@ -83,11 +84,16 @@ data:
       Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
       Almoner: Administrator of the guild's relief to sick members, widows and orphans.
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+  commonSkills: []
+  seat: null
+  domains: []
+  population: null
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - affiliation-mrchntclctvvdyr
+  peoples: []
   parents: []
   relations: {}
 sohl:

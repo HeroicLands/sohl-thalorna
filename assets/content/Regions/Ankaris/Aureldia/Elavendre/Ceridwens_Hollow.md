@@ -5,9 +5,11 @@ id: 3YlA2MuGbvyKHEXm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Village"
+  population: null
 name:
   full: Ceridwen's Hollow
   aliases: []

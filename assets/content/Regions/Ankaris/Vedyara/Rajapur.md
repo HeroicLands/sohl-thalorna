@@ -6,9 +6,11 @@ id: yJkyMAYiTk0t5vvt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "City"
+  population: null
 name:
   full: Rājapur
   aliases: []

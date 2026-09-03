@@ -5,9 +5,11 @@ id: QmitOkNvJ61JJiuO
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - cntrlkchchk
-settlementType: "City"
+  population: null
 name:
   full: Tz'ikin
   aliases: []

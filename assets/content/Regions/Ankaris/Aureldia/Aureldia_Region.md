@@ -26,6 +26,7 @@ data:
     - flkkhazar
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: Medieval Western Europe (Western Christendom)
 folder: FHG6uCapSKzoG5l2
 ---

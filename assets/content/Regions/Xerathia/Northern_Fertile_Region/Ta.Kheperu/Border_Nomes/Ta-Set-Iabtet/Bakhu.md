@@ -5,10 +5,11 @@ id: FT70zIcHD7OGfSck
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 22000
-settlementType: "Fortified Mining Town"
 name:
   full: Bakhu
   aliases: []

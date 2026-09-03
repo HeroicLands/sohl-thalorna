@@ -5,9 +5,11 @@ id: RRmQE1eVIBxDLVXi
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - kaliharargn
-settlementType: "Trading Port"
+  population: null
 name:
   full: Korinthel
   aliases: []

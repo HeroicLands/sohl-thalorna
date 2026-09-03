@@ -5,9 +5,11 @@ id: KSV987J7Ylm8L6ws
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Ch'akul Tza'kul
   aliases: []

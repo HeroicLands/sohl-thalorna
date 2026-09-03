@@ -20,6 +20,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  population: null
 terran_analog: India (subcontinent of independent states)
 folder: q61mqomRaSzUNfrY
 ---

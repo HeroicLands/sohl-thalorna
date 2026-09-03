@@ -8,11 +8,12 @@ tags:
 type: place
 subType: region
 data:
-  parents:
-    - worldthlrn
   demonym: Aurionite
   lore:
     - humanflk
+  parents:
+    - worldthlrn
+  population: null
 id: dQ3RMAtfHDsD09IX
 shortcode: arnscntnnt
 name:

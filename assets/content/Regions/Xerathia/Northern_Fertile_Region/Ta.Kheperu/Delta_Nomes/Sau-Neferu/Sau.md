@@ -5,10 +5,11 @@ id: 0WGb17kK6gRRoQyH
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 45000
-settlementType: "Market & Temple Town"
 name:
   full: Sau
   aliases: []

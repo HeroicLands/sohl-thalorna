@@ -93,12 +93,12 @@ data:
   domains:
     - aureldirgn
   population: 1000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
     - lore-vylrncrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     arldnpnthn: aligned

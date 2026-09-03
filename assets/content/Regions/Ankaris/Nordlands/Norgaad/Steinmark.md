@@ -5,9 +5,11 @@ id: 04Cgf8r1jWswmppD
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Inland Trade Town"
+  population: null
 name:
   full: Steinmark
   aliases: []

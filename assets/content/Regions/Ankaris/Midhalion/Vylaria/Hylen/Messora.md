@@ -5,10 +5,11 @@ id: Hy4hGx6mMq9Tb3Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 4000
-settlementType: "Town"
 name:
   full: Messora
   aliases: []

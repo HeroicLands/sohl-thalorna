@@ -7,6 +7,7 @@ type: affiliation
 subType: lineage
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: oligarchy
     summary: >-
@@ -74,6 +75,10 @@ data:
       Agent at Court: The house's standing representative where the intrigue is conducted.
   commonSkills:
     - tanvurlng
+  seat: null
+  domains: []
+  population: null
+  economy: []
   peoples:
     - humanflk
   parents:

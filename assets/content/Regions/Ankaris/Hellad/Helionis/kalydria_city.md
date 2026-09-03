@@ -5,9 +5,11 @@ id: gG3RL32nHgC2D0B5
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - helionis
-settlementType: "City-State"
+  population: null
 name:
   full: Kalydria
   aliases: []

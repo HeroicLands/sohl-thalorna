@@ -7,9 +7,12 @@ description: "Region of the Aurèldían heartland — patchwork of independent f
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - aureldirgn
     - midhalnrgn
+  population: null
 name:
   full: Tarvénia Region
   aliases: []

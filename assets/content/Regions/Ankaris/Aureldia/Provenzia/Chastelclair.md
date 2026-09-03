@@ -6,9 +6,11 @@ id: ZwiemPCXqySQ19Tm
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Chastèlclair
   aliases: []

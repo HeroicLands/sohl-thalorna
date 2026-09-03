@@ -5,9 +5,11 @@ id: DOIcd67IRmgTlxdK
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Town"
+  population: null
 name:
   full: Ormstead
   aliases: []

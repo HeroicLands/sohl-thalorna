@@ -5,10 +5,11 @@ id: npslWzZvPEG6O2PA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 14000
-settlementType: "Fishing & Victualling Town"
 name:
   full: Mehit-Per
   aliases: []

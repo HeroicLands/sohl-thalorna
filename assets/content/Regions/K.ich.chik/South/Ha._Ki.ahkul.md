@@ -5,9 +5,11 @@ id: kwMVyscLlBNMazGt
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "Mining Town"
+  population: null
 name:
   full: Ha’ Ki’ahkul
   aliases: []

@@ -5,9 +5,11 @@ id: O2nIsw1YeLjYDhBp
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - elavendre
-settlementType: "Coastal Town"
+  population: null
 name:
   full: Port Aelion
   aliases: []

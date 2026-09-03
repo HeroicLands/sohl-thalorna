@@ -6,9 +6,11 @@ id: lxDnKhmbJQmfcnlU
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "Coastal Town"
+  population: null
 name:
   full: Fiòrdaure
   aliases: []

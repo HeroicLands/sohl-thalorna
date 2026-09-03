@@ -5,9 +5,11 @@ id: yjFOHt9fEyDjHCCZ
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Hill Town"
+  population: null
 name:
   full: Torreviga
   aliases: []

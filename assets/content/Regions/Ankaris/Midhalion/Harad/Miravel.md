@@ -6,9 +6,11 @@ id: iijF0jFCjTiDjPQA
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Merchant Town"
+  population: null
 name:
   full: Míravel
   aliases: []

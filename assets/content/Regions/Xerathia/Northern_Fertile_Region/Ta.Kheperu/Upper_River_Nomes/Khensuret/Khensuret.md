@@ -5,10 +5,11 @@ id: BFVfBRUFybESEcFb
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 90000
-settlementType: "Temple City (Necropolis)"
 name:
   full: Khensuret
   aliases: []

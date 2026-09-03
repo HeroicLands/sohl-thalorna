@@ -5,9 +5,11 @@ id: SriprSl9dLBKfsgn
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vrystwald
-settlementType: "Forest Stronghold"
+  population: null
 name:
   full: Waldburg
   aliases: []

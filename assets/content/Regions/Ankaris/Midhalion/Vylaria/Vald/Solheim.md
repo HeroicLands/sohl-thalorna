@@ -5,10 +5,11 @@ id: utl4pebzzsi9nAI4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 3000
-settlementType: "Pilgrimage Town"
 name:
   full: Solheim
   aliases: []

@@ -5,9 +5,11 @@ id: hlCieAQkrHQguMjN
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Valley Settlement"
+  population: null
 name:
   full: Kvenndal
   aliases: []

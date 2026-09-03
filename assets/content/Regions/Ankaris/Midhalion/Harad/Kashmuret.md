@@ -5,9 +5,11 @@ id: OuVksHRIQjPWu72i
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "Trading Town"
+  population: null
 name:
   full: Kashmuret
   aliases: []

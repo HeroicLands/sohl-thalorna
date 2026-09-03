@@ -5,9 +5,11 @@ id: 5w6iTAzXPr9vnCPP
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - byzariargn
-settlementType: "Port City"
+  population: null
 name:
   full: Denizara
   aliases: []

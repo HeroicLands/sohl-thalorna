@@ -5,9 +5,11 @@ id: E6Vn40TZpRRBN2on
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aelwyth
-settlementType: "Fortified Town"
+  population: null
 name:
   full: Thornbury
   aliases: []

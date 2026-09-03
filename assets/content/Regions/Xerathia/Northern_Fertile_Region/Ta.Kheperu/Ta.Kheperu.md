@@ -95,12 +95,12 @@ data:
   domains:
     - takheperurgn
   population: 19000000
-  peoples:
-    - humanflk
   economy:
     - affiliation-bthntrdhss
     - affiliation-perhati
     - lore-tkhprcrncy
+  peoples:
+    - humanflk
   parents: []
   relations:
     kemtnpnthn: aligned

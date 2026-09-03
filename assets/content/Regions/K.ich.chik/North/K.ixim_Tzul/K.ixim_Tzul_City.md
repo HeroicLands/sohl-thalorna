@@ -5,9 +5,11 @@ id: RPORfulXgkxwp8zj
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: K'ixim Tzul
   aliases: []

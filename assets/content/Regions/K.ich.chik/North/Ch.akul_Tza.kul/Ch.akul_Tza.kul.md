@@ -15,6 +15,7 @@ type: affiliation
 subType: polity
 data:
   templatePriority: null
+  demonym: null
   governance:
     model: monarchy
     summary: ""
@@ -90,9 +91,10 @@ data:
   seat: chakultzkl2
   domains:
     - nrthrnkchchk
+  population: null
+  economy: []
   peoples:
     - humanflk
-  economy: []
   parents: []
   relations: {}
 sohl:

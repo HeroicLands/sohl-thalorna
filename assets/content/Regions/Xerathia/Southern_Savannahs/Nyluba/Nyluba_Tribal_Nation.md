@@ -96,11 +96,11 @@ data:
   domains:
     - sthrnsvnhs
   population: 2000000
-  peoples:
-    - humanflk
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
+  peoples:
+    - humanflk
   parents: []
   relations:
     nyalbpnthn: aligned

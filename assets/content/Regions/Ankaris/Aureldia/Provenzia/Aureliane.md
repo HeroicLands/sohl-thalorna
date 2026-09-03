@@ -6,9 +6,11 @@ id: 6606P1n4SuPO30aI
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - provenzrgn
-settlementType: "City"
+  population: null
 name:
   full: Aurèliane
   aliases: []

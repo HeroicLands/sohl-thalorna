@@ -5,9 +5,11 @@ id: NgdpgK19TbXSBuwE
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Harbor Town"
+  population: null
 name:
   full: Maréndal
   aliases: []

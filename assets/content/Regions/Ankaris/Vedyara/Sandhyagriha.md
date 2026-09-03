@@ -12,14 +12,17 @@ description: >-
   overheard. Satellite houses stand in each major Vedyaran city.
 type: place
 subType: structure
+data:
+  demonym: null
+  lore: []
+  parents:
+    - vyalendra3
+  population: null
 name:
   full: Sandhyāgriha
   aliases:
     - The House of the Long Evening
 shortcode: sandhyagrha
-data:
-  parents:
-    - vyalendra3
 ---
 
 # Sandhyāgriha

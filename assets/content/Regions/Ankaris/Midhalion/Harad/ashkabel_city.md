@@ -5,9 +5,11 @@ id: Tjq1opR4z8iu24jP
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - haradregin
-settlementType: "City-State"
+  population: null
 name:
   full: Ashkabel
   aliases: []

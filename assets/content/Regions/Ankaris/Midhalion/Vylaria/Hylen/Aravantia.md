@@ -5,10 +5,11 @@ id: Hy4rKx2mVqL9Tb7n
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 28000
-settlementType: "Provincial Capital"
 name:
   full: Aravantia
   aliases: []

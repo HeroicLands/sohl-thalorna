@@ -13,9 +13,11 @@ description: "The Pantheon Aurèldiānum, the colossal domed sanctuary at the he
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
-settlementType: "Temple Precinct"
+  population: null
 id: Pn7hKx2VqLm4Rb9T
 name:
   full: Pantheon Aurèldiānum

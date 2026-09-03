@@ -6,10 +6,11 @@ id: j7kLfLuyqbHAZVA4
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - takheperurgn
   population: 6000
-settlementType: "Tomb-Workers' Village (walled)"
 name:
   full: Set-Maat
   aliases:

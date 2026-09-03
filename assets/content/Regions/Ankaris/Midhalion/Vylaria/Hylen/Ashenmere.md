@@ -5,10 +5,11 @@ id: lmR93dIZz6Bv7Vwh
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 4000
-settlementType: "Border Town"
 name:
   full: Ashenmere
   aliases: []

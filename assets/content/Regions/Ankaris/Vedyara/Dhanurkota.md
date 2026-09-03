@@ -5,9 +5,11 @@ id: i93FosZcD5HdN48U
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vedyarargn
-settlementType: "City"
+  population: null
 name:
   full: Dhanurkota
   aliases: []

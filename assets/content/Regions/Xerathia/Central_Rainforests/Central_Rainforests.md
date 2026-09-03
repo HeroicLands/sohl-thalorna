@@ -16,11 +16,13 @@ img: ""
 type: place
 subType: region
 data:
+  demonym: null
   lore:
     - humanflk
     - flksinale
   parents:
     - xerathia
+  population: null
 terran_analog: Equatorial African interior (Congo basin)
 folder: 018P0I7moZWCJGUE
 ---

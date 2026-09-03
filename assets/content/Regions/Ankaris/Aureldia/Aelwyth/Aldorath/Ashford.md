@@ -5,9 +5,11 @@ id: RMwDrWEzwzEajWbh
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - aldorathrgn
-settlementType: "River Town"
+  population: null
 name:
   full: Ashford
   aliases: []

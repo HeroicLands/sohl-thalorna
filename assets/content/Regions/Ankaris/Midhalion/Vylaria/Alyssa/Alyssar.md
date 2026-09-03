@@ -5,10 +5,11 @@ id: tcjuUdxJxxs60dLX
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 45000
-settlementType: "Provincial Capital"
 name:
   full: Alyssar
   aliases: []

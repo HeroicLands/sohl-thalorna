@@ -6,8 +6,11 @@ id: X7HiBpa32S79TTrv
 type: place
 subType: region
 data:
+  demonym: null
+  lore: []
   parents:
     - alndntrblnds
+  population: null
 name:
   full: The Silver Forests
   aliases: []

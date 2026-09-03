@@ -5,9 +5,11 @@ id: MMURsVSWP10cDwXu
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - sthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: K'uxi Balam
   aliases: []

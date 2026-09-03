@@ -5,9 +5,11 @@ id: YNPzMDFOQqc5veZB
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrthrnkchchk
-settlementType: "City"
+  population: null
 name:
   full: Xik'ul Ch'akal
   aliases: []

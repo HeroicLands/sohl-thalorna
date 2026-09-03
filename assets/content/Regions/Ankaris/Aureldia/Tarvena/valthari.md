@@ -5,9 +5,11 @@ id: USGSRbE2bkZDbV2o
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - tarvenirgn
-settlementType: "Free City"
+  population: null
 name:
   full: Valthari
   aliases: []

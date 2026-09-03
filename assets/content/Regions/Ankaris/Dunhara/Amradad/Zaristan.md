@@ -5,9 +5,11 @@ id: ImatvlvxdQxFOio9
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - amradadrgn
-settlementType: "Town"
+  population: null
 name:
   full: Zaristan
   aliases: []

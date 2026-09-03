@@ -6,9 +6,11 @@ id: rej65SfOdHxrfzld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Town"
+  population: null
 name:
   full: Hávamál
   aliases: []

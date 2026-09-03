@@ -5,9 +5,11 @@ id: f9A9olzNoCl9wH8h
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Settlement"
+  population: null
 name:
   full: Ulfheim
   aliases: []

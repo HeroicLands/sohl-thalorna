@@ -5,9 +5,11 @@ id: xeSkAGJdEwb4NNx6
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - nrdlndsrgn
-settlementType: "Remote Fjord Village"
+  population: null
 name:
   full: Hrafnfjord
   aliases: []

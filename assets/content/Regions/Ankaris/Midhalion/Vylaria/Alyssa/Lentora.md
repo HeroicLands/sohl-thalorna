@@ -5,10 +5,11 @@ id: Al5rKx2mVp9Tb4Ln
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 32000
-settlementType: "City"
 name:
   full: Lentora
   aliases: []

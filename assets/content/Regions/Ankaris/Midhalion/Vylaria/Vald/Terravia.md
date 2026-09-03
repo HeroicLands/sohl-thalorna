@@ -5,10 +5,11 @@ id: Vd6yGx4kVm8Sb3Ld
 type: place
 subType: settlement
 data:
+  demonym: null
+  lore: []
   parents:
     - vylariargn
   population: 4000
-settlementType: "Town"
 name:
   full: Terravia
   aliases: []
