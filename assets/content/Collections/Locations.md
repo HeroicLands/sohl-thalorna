@@ -19,6 +19,6 @@ Notable places — ruins, landmarks, dungeons, and wonders.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "location" and package = "thalorna"
+WHERE type = "place" and contains(list("site", "structure", "feature"), subType) and package = "thalorna"
 SORT name.full ASC
 ```

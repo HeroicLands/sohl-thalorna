@@ -19,6 +19,6 @@ Playable adventures and modules.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "adventure" and package = "thalorna"
+WHERE type = "scenario" and subType = "adventure" and package = "thalorna"
 SORT name.full ASC
 ```

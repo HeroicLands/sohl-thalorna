@@ -19,6 +19,6 @@ Reference materials and source documents.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "reference" and package = "thalorna"
+WHERE type = "doc" and subType = "reference" and package = "thalorna"
 SORT name.full ASC
 ```

@@ -19,6 +19,6 @@ States, kingdoms, empires, and other political bodies.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "polity" and package = "thalorna"
+WHERE type = "affiliation" and subType = "polity" and package = "thalorna"
 SORT name.full ASC
 ```

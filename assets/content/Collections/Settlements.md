@@ -19,6 +19,6 @@ Cities, towns, villages, and other inhabited places.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "settlement" and package = "thalorna"
+WHERE type = "place" and subType = "settlement" and package = "thalorna"
 SORT name.full ASC
 ```

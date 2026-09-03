@@ -19,6 +19,6 @@ Spoken and written languages.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "language" and package = "thalorna"
+WHERE type = "skill" and subType = "language" and package = "thalorna"
 SORT name.full ASC
 ```

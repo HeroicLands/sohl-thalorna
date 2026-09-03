@@ -19,6 +19,6 @@ Myths, legends, and background lore.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE category = "lore" and package = "thalorna"
+WHERE type = "lore" and package = "thalorna"
 SORT name.full ASC
 ```
