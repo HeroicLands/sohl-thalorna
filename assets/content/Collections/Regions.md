@@ -6,8 +6,8 @@ name:
   full: Regions
   aliases: []
 type: doc
+subType: collection
 shortcode: regions
-section: region
 tags:
 description: Geographic and cultural regions.
 banner: banners/region.webp

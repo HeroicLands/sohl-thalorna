@@ -1,13 +1,13 @@
 ---
 tags: []
 type: doc
+subType: collection
 folder: bVhz4i3fwwT0NDSW
 id: BQnufPtiIE5BNAeX
 name:
   full: Companies
   aliases: []
 shortcode: companies
-section: company
 description: Warbands, mercenary companies, hunting bands, and ships' crews of note.
 banner: banners/company.webp
 ---

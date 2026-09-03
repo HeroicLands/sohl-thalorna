@@ -6,6 +6,7 @@ name:
   full: References
   aliases: []
 type: doc
+subType: collection
 shortcode: references
 section: reference
 tags:

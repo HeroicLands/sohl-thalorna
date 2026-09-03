@@ -6,8 +6,8 @@ name:
   full: Polities
   aliases: []
 type: doc
+subType: collection
 shortcode: polities
-section: polity
 tags:
 description: States, kingdoms, empires, and other political bodies.
 banner: banners/polity.webp

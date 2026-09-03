@@ -6,8 +6,9 @@ name:
   full: Languages
   aliases: []
 type: doc
+subType: collection
 shortcode: languages
-section: language
+section: skill
 tags:
 description: Spoken and written languages.
 banner: banners/language.webp

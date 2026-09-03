@@ -6,8 +6,8 @@ name:
   full: Continents
   aliases: []
 type: doc
+subType: collection
 shortcode: continents
-section: continent
 tags:
 description: Major landmasses of the world.
 banner: banners/continent.webp

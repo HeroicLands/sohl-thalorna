@@ -6,8 +6,8 @@ name:
   full: Settlements
   aliases: []
 type: doc
+subType: collection
 shortcode: setlements
-section: settlement
 tags:
 description: Cities, towns, villages, and other inhabited places.
 banner: banners/settlement.webp

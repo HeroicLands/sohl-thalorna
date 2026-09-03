@@ -6,6 +6,7 @@ name:
   full: Lore
   aliases: []
 type: doc
+subType: collection
 shortcode: lore
 section: lore
 tags:

@@ -6,8 +6,8 @@ name:
   full: Locations
   aliases: []
 type: doc
+subType: collection
 shortcode: locations
-section: location
 tags:
 description: Notable places — ruins, landmarks, dungeons, and wonders.
 banner: banners/site.webp

@@ -9,7 +9,7 @@ name:
 description: "A categorized catalogue of the creatures inhabiting the world of Thalorna, from mundane animals to spirits, elementals, and mythic beasts."
 shortcode: thlbestiary
 type: doc
-subType: rules
+subType: collection
 folder:
 ---
 
