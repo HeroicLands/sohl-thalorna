@@ -25,42 +25,51 @@ data:
     ranks:
       - level: 0
         title: Excommunicate
+        lore: excmmnctrnk
         description: >-
           Cut off from the rites, the temples and the burial the tradition promises — the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Catechumen
+        lore: catechumenrnk
         description: Under instruction and not yet received; permitted to hear and not to partake.
       - level: 2
         title: Lay Faithful
+        lore: layfaithfulrnk
         description: >-
           Of the tradition by profession and observance, keeping its feasts and its prohibitions
           without office in it.
       - level: 3
         title: Devotee
+        lore: layfaithfulrnk
         description: >-
           Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
           owe.
       - level: 4
         title: Acolyte
+        lore: initiaternk
         description: >-
           Serving in the temple and learning its rites, on the path to ordination and not yet
           holding it.
       - level: 5
         title: Ordained
+        lore: priestrnk
         description: >-
           Priest or priestess of the tradition, empowered to perform the rites and to bind and
           loose in its name.
       - level: 6
         title: Temple Officer
+        lore: highpriestrnk
         description: Holding a charge within a temple — its treasury, its schools, its estates,
           its oracles.
       - level: 7
         title: High Priest
+        lore: highpriestrnk
         description: Head of a temple or a cult, speaking with the voice of the god in matters
           of its doctrine.
       - level: 8
         title: Hierophant
+        lore: grandmasterrnk
         description: >-
           Head of the whole tradition, whose ruling on doctrine is final and whose sanction
           every high priest holds at.

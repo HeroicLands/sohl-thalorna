@@ -21,46 +21,55 @@ data:
     ranks:
       - level: 0
         title: Níðing
+        lore: outlawrnk
         description: >-
           Outlawed at the þing and set beyond the law's protection, so that any man may kill
           them and owe no wergild for it.
       - level: 1
         title: Thrall
+        lore: slavernk
         description: >-
           Owned outright, owing labour rather than rent, bearing no weapon by right and having
           no voice at the assembly.
       - level: 2
         title: Freedman
+        lore: freedmanrnk
         description: >-
           Manumitted but still bound in obligation to a former master, and not yet reckoned
           a full man of the þing.
       - level: 3
         title: Bóndi
+        lore: yeomanrnk
         description: >-
           A free farmer holding his own land, bearing arms, and speaking at the þing in his
           own name.
       - level: 4
         title: Hauldr
+        lore: yeomanrnk
         description: >-
           A bóndi whose kin have held their odal land for generations, ranking first among the
           free farmers and weightiest in the assembly.
       - level: 5
         title: Hersir
+        lore: landedlordrnk
         description: >-
           A local chieftain who leads the men of a district in war and speaks for them in peace,
           holding by their consent rather than by grant.
       - level: 6
         title: Jarl
+        lore: greatlordrnk
         description: >-
           Holding a province of the king, commanding its hersar, and taking a share of its dues
           in return for keeping its peace.
       - level: 7
         title: Royal Kin
+        lore: heirrnk
         description: >-
           Of the royal line by blood or marriage, eligible to be acclaimed king but holding
           no crown.
       - level: 8
         title: King
+        lore: sovereignrnk
         description: >-
           Chosen from the royal kin and acclaimed at the þing, holding the realm by the assembly's
           consent as much as by descent.

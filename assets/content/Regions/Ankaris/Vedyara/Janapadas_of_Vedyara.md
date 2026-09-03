@@ -29,42 +29,51 @@ data:
     ranks:
       - level: 0
         title: Outcaste
+        lore: excmmnctrnk
         description: >-
           Placed outside the varṇa order by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
+        lore: bondservantrnk
         description: Bound by debt or birth to a household, owing labour and lacking the standing
           to hold land.
       - level: 2
         title: Śūdra
+        lore: commonerrnk
         description: >-
           Of the serving varṇa — cultivators, artisans and labourers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
+        lore: gentryrnk
         description: >-
           Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
         title: Kṣatriya
+        lore: warriorrnk
         description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
           host.
       - level: 5
         title: Brāhmaṇa
+        lore: priestrnk
         description: >-
           Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
           act is complete.
       - level: 6
         title: Sāmanta
+        lore: greatlordrnk
         description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
           council.
       - level: 7
         title: Royal Kin
+        lore: heirrnk
         description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
           its regencies.
       - level: 8
         title: Mahārāja
+        lore: sovereignrnk
         description: >-
           The great king himself, in whom the martial council and the priestly court alike find
           their sanction.

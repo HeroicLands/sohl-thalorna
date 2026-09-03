@@ -26,43 +26,52 @@ data:
     ranks:
       - level: 0
         title: Struck from the Rolls
+        lore: expelledrnk
         description: >-
           Put out of the fleet in disgrace; no Bethûan hull will ship her and no house will
           own the service.
       - level: 1
         title: Ship's Servant
+        lore: servantrnk
         description: Kept aboard for the cooking, the carrying and the pumps, and not counted
           among the crew.
       - level: 2
         title: Oarswoman
+        lore: dependentrnk
         description: At the sweeps of a war-galley, rated and paid, and holding no voice in
           how she is fought.
       - level: 3
         title: Rated Hand
+        lore: dependentrnk
         description: Of the working crew — sail, rigging, ordnance, boarding — and trusted at
           a station.
       - level: 4
         title: Petty Officer
+        lore: warriorrnk
         description:
           "Holding a station's people: the bosun, the master of ordnance, the sailing-master's
           mate."
       - level: 5
         title: Naukléra
+        lore: officerrnk
         description: >-
           Ship-mistress: captain of a war-galley or a squadron's hull, and in the privateer
           service commonly her owner.
       - level: 6
         title: Squadron Commander
+        lore: commanderrnk
         description: >-
           Holding several hulls under her own pennant, answerable for what they take and what
           they start.
       - level: 7
         title: Naukrátissa
+        lore: magistraternk
         description: >-
           Sea-mistress: admiral of the fleet and the realm's chief naval commander — one of
           its most prestigious commands.
       - level: 8
         title: Stratégissa
+        lore: magistraternk
         description: >-
           Supreme command of the whole host, army and fleet alike, held as the Mêtríssa's lent
           authority.

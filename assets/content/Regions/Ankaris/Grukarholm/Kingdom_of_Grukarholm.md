@@ -25,43 +25,52 @@ data:
     ranks:
       - level: 0
         title: Broken
+        lore: expelledrnk
         description: >-
           Driven from the clans and denied the spawn-chamber's protection; killed on sight by
           any warrior who finds them.
       - level: 1
         title: Drudge
+        lore: bondservantrnk
         description: >-
           Kept for labour and the carrying of burdens, holding no weapon and no share of the
           tribute.
       - level: 2
         title: Spawn-Tender
+        lore: bondservantrnk
         description: >-
           Charged with the brood and the chamber that holds it — menial work, and the most sacred
           in the hold.
       - level: 3
         title: Warrior
+        lore: warriorrnk
         description: >-
           Blooded in a raid and holding a weapon by right, taking a share of what the war-band
           takes.
       - level: 4
         title: Blooded
+        lore: warriorrnk
         description: A warrior of proven kills, whose voice is heard when a raid is argued over.
       - level: 5
         title: Pack-Leader
+        lore: officerrnk
         description: Leading a hand of warriors on the raid and answering for what they bring
           back.
       - level: 6
         title: Clan-Chief
+        lore: councillorrnk
         description: >-
           Holding a clan and its hold, bound to the Warlord by force and by tribute rather than
           by oath.
       - level: 7
         title: War-Chief
+        lore: commanderrnk
         description: >-
           Commanding the clans of a whole range in war, second only to the Warlord and usually
           his rival.
       - level: 8
         title: Warlord
+        lore: sovereignrnk
         description: >-
           Holder of the spawn-chamber and of the fertile Grukar-ahk within it, from which his
           authority over every clan derives.

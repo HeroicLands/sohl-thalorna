@@ -25,36 +25,45 @@ data:
     ranks:
       - level: 0
         title: Dismissed in Disgrace
+        lore: expelledrnk
         description: >-
           Put out of the service with the record endorsed, which closes every other office to
           them for life.
       - level: 1
         title: Servant
+        lore: servantrnk
         description: Kept about the offices for their labour, and not of the service.
       - level: 2
         title: Clerk
+        lore: clerkrnk
         description: Copying, filing and reckoning under supervision, and the entry to every
           career here.
       - level: 3
         title: Officer
+        lore: officerrnk
         description: Holding a charge of the body in their own name and answerable for it.
       - level: 4
         title: Senior Officer
+        lore: officerrnk
         description: Holding a charge of consequence, and supervising officers holding lesser
           ones.
       - level: 5
         title: Deputy
+        lore: officerrnk
         description: Standing for the head of the office and empowered to act in it.
       - level: 6
         title: Head of Office
+        lore: magistraternk
         description: Directing a bureau of the body, its staff and its portion of the revenue.
       - level: 7
         title: Councillor
+        lore: councillorrnk
         description: >-
           Of the body that decides the office's policy and answers for it to the power that
           constituted it.
       - level: 8
         title: Minister
+        lore: grandmasterrnk
         description: >-
           Head of the body, holding its authority from the polity and accountable to it for
           every use of it.

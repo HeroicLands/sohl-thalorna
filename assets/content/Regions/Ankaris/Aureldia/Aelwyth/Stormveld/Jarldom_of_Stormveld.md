@@ -23,40 +23,49 @@ data:
     ranks:
       - level: 0
         title: Níðing
+        lore: outlawrnk
         description: >-
           Outlawed at the moot and beyond the law's protection, so that any man may kill them
           and owe nothing for it.
       - level: 1
         title: Thrall
+        lore: slavernk
         description: Owned outright, owing labour, bearing no weapon by right and having no
           voice at the moot.
       - level: 2
         title: Freedman
+        lore: freedmanrnk
         description: Manumitted but still bound in obligation to a former master.
       - level: 3
         title: Bóndi
+        lore: yeomanrnk
         description: A free farmer holding his own land, bearing arms and speaking at his járldom's
           moot.
       - level: 4
         title: Hauldr
+        lore: yeomanrnk
         description: >-
           Holding odal land his kin have held for generations, and weightiest among the free
           farmers.
       - level: 5
         title: Hersir
+        lore: landedlordrnk
         description: Chieftain of a district, leading its men in war and speaking for them in
           peace.
       - level: 6
         title: Járl
+        lore: greatlordrnk
         description: Ruling a járldom in his own right, owing the High Járl nominal allegiance
           and no more.
       - level: 7
         title: Elector
+        lore: councillorrnk
         description: >-
           A járl entitled to a voice in choosing the High Járl, which is the confederation's
           only real act.
       - level: 8
         title: High Járl
+        lore: sovereignrnk
         description: Elected from among the járls and holding no authority they do not lend
           him.
     offices:
