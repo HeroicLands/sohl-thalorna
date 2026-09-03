@@ -4,7 +4,7 @@ name:
   full: Peoples
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: peoples
 tags:
 description: Distinct peoples, races, and lineages.

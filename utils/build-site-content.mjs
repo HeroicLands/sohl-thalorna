@@ -34,15 +34,14 @@
  *    `type`, except a `type: doc` routes by its `subType`; the slug is derived
  *    from `name.full` by the shared rule in
  *    `@heroiclands/package-build/engine/content-slug` (#1278).
- *    A `subType: collection` note *is* a section's landing and writes that
- *    section's `_index.md` instead, and a `type: homepage` note is the
+ *    A `README.md` *is* a section's landing and writes that section's
+ *    `_index.md` instead, and a `type: homepage` note is the
  *    *package's* landing: it is addressed by the package rather than by its own
  *    name, so it takes no section and no slug and writes the site root's
  *    `_index.md` (package-build's `engine/homepage.mjs`).
  * 2. **Expand** the fenced `dataview` table directives against every published
- *    note (`@heroiclands/package-build/engine/content-tables`), so a collection
- *    page tabulates its
- *    section.
+ *    note (`@heroiclands/package-build/engine/content-tables`), so a landing
+ *    page tabulates its section.
  * 3. **Resolve** the authored wikilinks to site-local hrefs
  *    (`utils/site-wikilinks.mjs`), the same links the pack compilers turn into
  *    Foundry `@UUID` enrichers.
@@ -437,18 +436,23 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(CONTENT_SRC)) 
     }
     const name = fm.name?.full ?? path.basename(absPath, ".md");
 
-    // A `category: collection` note *is* a section's landing page, not a page
-    // within one: `Creatures.md` publishes at the site's `creature/`, and the
-    // segment is the section it introduces — authored as `section`, because it is
-    // identity and is not derivable from the note's title.
-    const isLanding = fm.type === "doc" && fm.subType === "collection";
-    const section = isLanding ? (fm.section ?? fm.slug) : sectionOf(fm);
+    // A `README.md` *is* its section's landing page, not a page within one:
+    // `Characters/README.md` publishes at the site's `being/`. The segment is
+    // the section it introduces, which is `sectionOf` — for a `doc` landing,
+    // its `subType` (`publish.address.landing: readme`).
+    //
+    // The rule this replaces keyed the landing off `subType: collection` and
+    // took its segment from an authored `section:`. Both are retired: one
+    // landing mechanism, and a `doc` subType that *is* the section rather than
+    // a genre alongside it (package-build#197).
+    const isLanding = path.basename(absPath) === "README.md";
+    const section = sectionOf(fm);
     if (typeof section !== "string" || !section) {
         unaddressable.push({
             file: rel,
             reason:
                 isLanding ?
-                    "collection note declares no `section`, so it lands nowhere"
+                    "README landing declares no section, so it lands nowhere"
                 :   `type "${fm.type}" has no section`,
         });
         continue;
@@ -850,9 +854,9 @@ for (const page of homepages) {
     );
 }
 
-// A section whose collection note does not exist still needs a landing, or Hugo
-// auto-humanizes the directory name ("Mysticalabilities") and the section lists
-// nothing. Emit a minimal one for any section no collection note claimed.
+// A section with no `README.md` landing still needs one, or Hugo auto-humanizes
+// the directory name ("Mysticalabilities") and the section lists nothing. Emit a
+// minimal one for any section no README claimed.
 const landings = new Set(entries.filter((e) => e.isLanding).map((e) => e.sec.toLowerCase()));
 let stubs = 0;
 for (const sec of knownSections) {

@@ -5,7 +5,7 @@ name:
   full: Heroes of Asguard
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: heroessgrd
 ---
 

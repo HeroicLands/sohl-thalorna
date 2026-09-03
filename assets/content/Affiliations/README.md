@@ -4,9 +4,8 @@ name:
   full: Affiliations
   aliases: []
 type: doc
-subType: collection
+subType: affiliation
 shortcode: affiliatns
-section: affiliation
 tags:
 description: Every organized body of Thalorna — religions, schools of magic, spirit traditions, and secular orders.
 banner: banners/organization.webp

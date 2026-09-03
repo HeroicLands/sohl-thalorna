@@ -4,9 +4,8 @@ name:
   full: References
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: references
-section: reference
 tags:
 description: Reference materials and source documents.
 banner: banners/reference.webp

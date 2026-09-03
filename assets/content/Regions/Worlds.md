@@ -4,7 +4,7 @@ name:
   full: Worlds
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: worlds
 tags:
 description: The worlds of the Heroic Lands multiverse.

@@ -5,7 +5,7 @@ name:
   full: Heroes and Knaves
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: heroesknvs
 ---
 
