@@ -5,7 +5,6 @@ description: The productive belt along Xerathia's northern shore — three disti
 name:
   full: Northern Fertile Region
   aliases:
-    - Northern Fertile Crescent
     - The Fertile Crescent
 id: 7kQmNf4Yr2xL8pB3
 shortcode: nrthrnfrtlrgn

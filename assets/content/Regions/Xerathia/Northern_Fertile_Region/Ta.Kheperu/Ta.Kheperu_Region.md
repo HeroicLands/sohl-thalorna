@@ -4,8 +4,7 @@ tags:
 description: The great river valley and delta of Xerathia's northern shore — a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Ta'Kheperu.
 name:
   full: Ta'Kheperu Region
-  aliases:
-    - Kheperi Region
+  aliases: []
 id: SL5ANxIUYDVlM9v7
 shortcode: takheperurgn
 img: ""

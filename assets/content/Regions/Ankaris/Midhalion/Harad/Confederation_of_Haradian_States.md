@@ -4,9 +4,7 @@ description: "Twelve-year-old maritime confederation on the eastern Vylarian Sea
 type: affiliation
 name:
   full: Confederation of Haradian States
-  aliases:
-    - Harad
-    - Confederation of Harad
+  aliases: []
 shortcode: cnfdrtnhrdnstts
 subType: polity
 data:
