@@ -11,8 +11,92 @@ tags:
   - matriarchal
   - reference
 description: "The twin-pillar government of the Matriarchy of Bethûa — the Mêtríssa who is at once Queen and High Priestess, the Sacred College of the Aurèldían goddess-orders, the Council of Houses of the clan-matriarchs, and the title-ladder that orders a society where women hold all authority."
-type: doc
-subType: reference
+type: affiliation
+subType: polity
+data:
+  templatePriority: null
+  demonym: Bethûan
+  epithet: null
+  symbol: null
+  governance:
+    model: theocracy
+    summary: >-
+      Elected Mêtríssa (Queen and High Priestess) ruling through the Two Pillars — the Sacred
+      College of priestesses and the Council of Houses of the clan-matriarchs.
+    ranks:
+      - level: 0
+        title: Cast from the Hearth
+        description: >-
+          Struck from her House's roll and denied its protection, its name and its share — a
+          civil death.
+      - level: 1
+        title: Bondservant
+        description: >-
+          Bound in service to a House, owing labour and holding neither property nor a voice
+          in its councils.
+      - level: 2
+        title: Lay Household
+        description: >-
+          Of a House's dependents, sheltered by it and owing it service, but not counted among
+          its daughters.
+      - level: 3
+        title: Daughter of a House
+        description: >-
+          Counted in a House's blood and entitled to its name, its protection, and a share of
+          its trade.
+      - level: 4
+        title: Initiate of the College
+        description: >-
+          Received into the Sacred College's instruction, serving in the temples while learning
+          its rites.
+      - level: 5
+        title: Priestess
+        description: >-
+          Ordained to the rites, holding authority in matters sacred and a voice in the College's
+          deliberations.
+      - level: 6
+        title: Matriarch of a House
+        description: >-
+          Head of a clan-house, holding its property, its ships and its votes in the Council
+          of Houses.
+      - level: 7
+        title: Sister of the Sacred College
+        description: Of the priestly body that elects the Mêtríssa and constrains her in office.
+      - level: 8
+        title: Mêtríssa
+        description: >-
+          Queen and High Priestess, elected by the Sacred College and ruling through the Two
+          Pillars, never above them.
+    offices:
+      Mêtríssa: >-
+        Queen and High Priestess, elected for life by the Sacred College and answerable to
+        the Two Pillars.
+      High Priestess: Head of a temple and its rites, and an elector of the Mêtríssa.
+      Matriarch: Head of a clan-house, commanding its property, its ships and its marriages.
+      Speaker of the Council of Houses: Presiding officer of the Houses in session, holding
+        no vote beyond her own.
+      Keeper of the Sacred College: Warden of the College's rolls, its instruction and its
+        elections.
+      Navarch: Commander of the Bethûan fleet, and by that the realm's principal instrument
+        abroad.
+      Treasuress: Keeper of the realm's revenue and of the correspondent accounts the trade-houses
+        maintain.
+      Ambassadress: Envoy to a foreign court, appointed by the Mêtríssa and instructed by
+        the Council.
+      Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
+      Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers
+        that sail from it.
+  commonSkills:
+    - bethunlng
+  seat: bethura
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents:
+    - mtrrchybth
+  relations:
+    mtrrchybth: aligned
 id: lGNHthvWH3rv0JTS
 name:
   full: Government of Bethûa
@@ -21,9 +105,6 @@ name:
     - The Mêtríssa and the Two Councils
 shortcode: gvrnmntbth
 img: ""
-parent:
-  polities:
-    - mtrrchybth
 folder: Y64e5NGsp8OwZ6xQ
 ---
 
@@ -93,7 +174,7 @@ Alongside the women fights one cadre of men: the **Spádai**, the sworn eunuch-w
 Command of the whole host is a **bridging office** that belongs neither wholly to the temple nor wholly to the Houses:
 
 - **Stratégissa** ("she-general") — the supreme war-leader of Bethûa, appointed by the Mêtríssa and answerable to her. She commands the army — Lonkhai and Spádai alike — and, through the Naukrátissa, the fleet besides. She attends both the Sacred College and the Council of Houses when matters of war are in question, but votes in neither; her authority is the sovereign's, lent.
-- **Naukrátissa** ("sea-mistress") — the admiral of the Bethûan fleet and the realm's chief naval commander, answering to the Stratégissa and the Mêtríssa. In a maritime power whose navy is its proudest arm, hers is among the most prestigious military commands in Bethûa. (For the fleet and the privateer war it wages, see [[doc-bethuanflt|the Bethûan Fleet]].)
+- **Naukrátissa** ("sea-mistress") — the admiral of the Bethûan fleet and the realm's chief naval commander, answering to the Stratégissa and the Mêtríssa. In a maritime power whose navy is its proudest arm, hers is among the most prestigious military commands in Bethûa. (For the fleet and the privateer war it wages, see [[affiliation-bethuanflt|the Bethûan Fleet]].)
 - **Lonkhíssa** (pl. _Lonkhíssai_) — an officer of the Spear-Sisterhood, commanding a company of the Lonkhai.
 - **Spádon** (pl. _Spádai_) — a eunuch-warrior of the sworn cadre; serves under the Stratégissa and her officers like any other arm of the host.
 
@@ -160,7 +241,7 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 ## See Also
 
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — the realm
-- [[doc-bethuanflt|The Bethûan Fleet]] — the navy, the Naukrátissa's command, and the privateer war
+- [[affiliation-bethuanflt|The Bethûan Fleet]] — the navy, the Naukrátissa's command, and the privateer war
 - [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] — the commercial federation and the third power
 - [[skill-bethunlng|Bethuan Language]] — the feminine-register grammar from which the titles derive
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — the faith of the sacred pillar
