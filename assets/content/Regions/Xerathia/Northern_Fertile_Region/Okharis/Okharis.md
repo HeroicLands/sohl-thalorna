@@ -114,7 +114,7 @@ Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Reg
 
 ## Geography
 
-The Okháric landscape is semi-arid savannah — rolling grasslands broken by seasonal streams, scattered acacia and baobab groves, and outcrops of red sandstone. The wet-coastal strip that Bethua and Ta'Kheperu enjoy gives out before it reaches Okháric territory; here the land runs inland from the southern margins of the fertile crescent out into the vast grass plains that roll southward to the edge of the rainforest. Summers are long and hot, rainfall erratic and concentrated in a short wet season that swells the seasonal rivers into ribbons of life before shrinking them back to chains of pools for most of the year.
+The Okháric landscape is semi-arid savannah — rolling grasslands broken by seasonal streams, scattered acacia and baobab groves, and outcrops of red sandstone. The wet-coastal strip that Bethua and Ta'Kheperu enjoy gives out before it reaches Okháric territory; here the land runs inland from the southern margins of [[place-nrthrnfrtlrgn|the Fertile crescent]] out into the vast grass plains that roll southward to the edge of the rainforest. Summers are long and hot, rainfall erratic and concentrated in a short wet season that swells the seasonal rivers into ribbons of life before shrinking them back to chains of pools for most of the year.
 
 The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]] — a wall of dense tropical jungle that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
 

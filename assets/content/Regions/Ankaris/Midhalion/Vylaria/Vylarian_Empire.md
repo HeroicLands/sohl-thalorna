@@ -4,9 +4,7 @@ description: "Vast continental empire spanning half of Ankaris — mighty, centr
 type: affiliation
 name:
   full: Vylarian Empire
-  aliases:
-    - Vylaria
-    - Empire of Vylaria
+  aliases: []
 shortcode: vylarinmpr
 subType: polity
 data:

@@ -7,8 +7,6 @@ name:
   aliases:
     - The League of Princely Houses
     - Princes of the Khazryn
-    - Khazryn
-    - The Khazryn
 id: Q9XLm5Jr3wD8nKvT
 shortcode: khzrncnfdrtn
 subType: polity

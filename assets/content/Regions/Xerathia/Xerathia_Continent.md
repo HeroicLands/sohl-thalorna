@@ -2,7 +2,6 @@
 id: YrWaLJNILQB3xNmH
 tags:
   - continent
-  - xerathia
 type: place
 subType: region
 data:
@@ -16,9 +15,7 @@ data:
   population: null
 name:
   full: Xerathia
-  aliases:
-    - Xerathian
-    - Xerathia Continent
+  aliases: []
 shortcode: xerathia
 description: The southern continent — fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
 terran_analog: Africa
@@ -67,7 +64,7 @@ The rainforests and savannahs have their own histories, almost entirely oral, an
 
 ## Trade and External Relations
 
-Xerathia's connection to the wider world runs primarily across the [[place-vylarianse|Vylarian Sea]]. The northern ports of the fertile crescent have hosted Ankarian merchants for centuries, and the [[place-midhalnrgn|Mídhalión]] trade zone is genuinely shared between the two continents — Ta'Kheperu, Okháris, and the Matriarchy of Bethua all sit on its southern shore, and the cities of Vylaria, Harad, and Provènzia on its northern. Grain, papyrus, linen, gold, gemstones, spices, and exotic animals flow north; wine, steel, wool, and timber flow south.
+Xerathia's connection to the wider world runs primarily across the [[place-vylarianse|Vylarian Sea]]. The northern ports of [[place-nrthrnfrtlrgn|the Fertile crescent]] have hosted Ankarian merchants for centuries, and the [[place-midhalnrgn|Mídhalión]] trade zone is genuinely shared between the two continents — Ta'Kheperu, Okháris, and the Matriarchy of Bethua all sit on its southern shore, and the cities of Vylaria, Harad, and Provènzia on its northern. Grain, papyrus, linen, gold, gemstones, spices, and exotic animals flow north; wine, steel, wool, and timber flow south.
 
 Beyond the Vylarian Sea, Xerathia's contact with the rest of Thalorna is thin. The western coast touches the open ocean but has no significant seafaring tradition that has produced regular contact with [[place-kchchkcntnnt|K'ich'chik]] or [[affiliation-kalihara|Kalihara]]. The continent's southern tip is known to be coastline, but beyond that coastline lies speculation rather than geography.
 

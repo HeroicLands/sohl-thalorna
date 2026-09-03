@@ -9,8 +9,7 @@ name:
   clan: Druthgar
   home: Thornhaven
   aliases:
-    - "Thalia "
-    - " Hart"
+    - "Thalia Hart"
 id: XiXPUP9Ax5yC366y
 folder: Nu7AgLZEmR26u2pk
 shortcode: thldrdrthgr

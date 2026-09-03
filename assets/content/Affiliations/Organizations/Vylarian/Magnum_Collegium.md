@@ -141,7 +141,7 @@ This is the post-imperial commonwealth's central institutional logic: the Colleg
 
 ### Untouched
 
-- **The Nordlands, Vrystwald, Vedyara, Khazryn, Dunhara, K'ich'chik, Iseron, Aurionis, Kalihara, Xerathian regions south of the Fertile crescent.** No formal Collegium presence; no influence on guild structure beyond the occasional Vylarian merchant whose presence is the closest thing to an institutional footprint. Vedyara's [[affiliation-mrchntclctvvdyr|Merchant Collective]] in particular operates a parallel federation that the Collegium has, for two generations, attempted to negotiate trade-recognition agreements with — without success.
+- **The Nordlands, Vrystwald, Vedyara, Khazryn, Dunhara, K'ich'chik, Iseron, Aurionis, Kalihara, Xerathian regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]].** No formal Collegium presence; no influence on guild structure beyond the occasional Vylarian merchant whose presence is the closest thing to an institutional footprint. Vedyara's [[affiliation-mrchntclctvvdyr|Merchant Collective]] in particular operates a parallel federation that the Collegium has, for two generations, attempted to negotiate trade-recognition agreements with — without success.
 
 ## Structure
 

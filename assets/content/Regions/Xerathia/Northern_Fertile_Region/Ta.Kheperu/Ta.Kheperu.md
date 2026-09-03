@@ -4,9 +4,8 @@ description: "Ancient continuous civilization of Xerathia's Northern Fertile Reg
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
-  full: The Empire of Ta'Kheperu
-  aliases:
-    - Ta'Kheperu
+  full: Empire of Ta'Kheperu
+  aliases: []
 id: 4K5TrZq1I8XKWfUx
 shortcode: empirtkhpr
 subType: polity
