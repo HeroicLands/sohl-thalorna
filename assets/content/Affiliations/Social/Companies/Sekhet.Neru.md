@@ -8,69 +8,66 @@ tags:
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Taméresh River through ritual, courage, and divine obligation."
 type: affiliation
 folder: bVhz4i3fwwT0NDSW
-subType: venture
+subType: order
 data:
   templatePriority: null
   governance:
-    model: stratocracy
+    model: council
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers
-      holding by consent.
+      A sworn hunting company of the Khetai, bound by sacred obligation and led by the Steersman
+      who holds the Per-Aá's charter over the reach.
     ranks:
       - level: 0
-        title: Discharged in Disgrace
+        title: Cast from the Hunt
         description: >-
-          Put out with the share forfeit and the name published, so that no other company will
-          take them.
+          Put out of the Sekhet'Neru and denied its rites; the shame falls on the Khetai and
+          is not forgotten in seven generations.
       - level: 1
-        title: Servant
+        title: Kin of the Khetai
         description: >-
-          Attached to the company for its baggage, its cooking, its animals; not sworn and not
-          shared with.
+          Of the family the charter was granted to, and entitled to nothing of the hunt by that
+          alone.
       - level: 2
-        title: Hand
-        description: Taken on for a season or a voyage, paid a wage, and holding no share of
-          the undertaking.
+        title: Bearer
+        description: >-
+          Carrying the harpoons, poling the boats and butchering what is taken, without striking
+          at the quarry.
       - level: 3
-        title: Sworn Member
-        description: >-
-          Sworn to the company's articles, entitled to a share of what it takes and bound by
-          what it agrees.
+        title: Sworn of the Hunt
+        description: Bound by the sacred obligation, permitted at the rites, and permitted to
+          strike.
       - level: 4
-        title: Veteran
+        title: Blooded
         description: >-
-          Of proven service across several undertakings, drawing a larger share and consulted
-          before the company commits.
+          Having taken a hippopotamus or a crocodile in open water, and reckoned a hunter rather
+          than a hand.
       - level: 5
-        title: Officer
-        description: Holding a charge in the company — its stores, its scouts, its accounts,
-          its discipline.
-      - level: 6
-        title: Lieutenant
-        description: Second in the company, commanding in the captain's absence and detached
-          with a part of it.
-      - level: 7
-        title: Captain
-        description: Commanding the company, holding its articles and negotiating its contracts.
-      - level: 8
-        title: Master of the Company
+        title: Wab of the Hunt
         description: >-
-          Where a company outlives its captains: the standing head who holds the name, the charter
-          and the contracts between them.
+          Reading the will of the river gods before an expedition, without whose word it does
+          not launch.
+      - level: 6
+        title: Steersman of the Sacred Waters
+        description: >-
+          Holder of the Per-Aá's charter over this reach of the Taméresh, whose authority in
+          the hunt is absolute and whose tenure is not.
     offices:
-      Master of the Company: Standing head of a company that outlives its captains, holding
-        the name and the contracts.
-      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
-      Lieutenant: Second in command, holding the company in the captain's absence.
-      Quartermaster: Keeper of the company's stores, its baggage and the division of what
-        it takes.
-      Purser: Keeper of the accounts — wages, shares, debts and the contract's terms.
-      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
-      Bosun: Master of the working of the ship or the ordering of the march.
-      Master-at-Arms: Keeper of the company's discipline and of its weapons.
-      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
-        the purser.
-      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+      Steersman of the Sacred Waters: >-
+        Holder of the charter and leader of the hunt, answerable to the Haty'a for what the
+        river does.
+      Wab of the Hunt: Ritualist of the company, who reads the river gods' will before each
+        expedition.
+      Harpooner: Striker at the quarry from the bow, the post that decides whether a hunt
+        ends well.
+      Boat-Steerer: >-
+        Holder of a boat in the marshes, answerable for its crew in water that kills them
+        if he is wrong.
+      Keeper of the Charter: Warden of the grant itself and of the record of every hunt made
+        under it.
+      Butcher of the Offering: Divider of what is taken between the temples, the nomes and
+        the company.
+      Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and
+        often alone.
   parents: []
   relations: {}
 id: 679Cgowsm63fuzBR
