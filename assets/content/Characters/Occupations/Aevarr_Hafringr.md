@@ -15,23 +15,25 @@ id: H2hsfWkrC5Gj1Bf8
 folder: Ka9XqaF27b0I3Gmq
 shortcode: aevrhfrngr
 img: icons/person.svg
-portrait: images/being/aevrhfrngr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aevrhfrngr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Longshoreman
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 45
   birthday: 679/9/3
-  height:
-    m: 1.83
-  weight:
-    kg: 81
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 81
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: auburn
@@ -39,15 +41,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Leather bag for personal items
-    - Basic tools
-    - protective gloves
-    - safety gear
+social:
+  station: common_folk
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

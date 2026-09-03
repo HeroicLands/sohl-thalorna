@@ -16,29 +16,35 @@ id: vxzpRAsxTUQXIGov
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrafnlefws
 img: icons/person.svg
-portrait: images/being/hrafnlefws-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrafnlefws-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Seer and Runemaster
-  station: mages
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 58
   birthday: 662/9/2
-  height:
-    m: 1.85
-  weight:
-    kg: 99
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 99
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: gray
     skin_color: light
     complexion: freckled
     extra_features: []
+social:
+  station: mages
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

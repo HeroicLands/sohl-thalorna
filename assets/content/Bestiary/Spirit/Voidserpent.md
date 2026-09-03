@@ -9,9 +9,30 @@ name:
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
 id: mXr47FnIDlmq2RCz
 img: icons/game-icons/lorc/snake.svg
-portrait: images/being/vdsrpnt-portrait.webp
 shortcode: vdsrpnt
 type: being
+data:
+  portrait: images/being/vdsrpnt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

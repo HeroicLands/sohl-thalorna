@@ -16,23 +16,25 @@ id: Y3A4Bj1BU0rWEoBS
 folder: 4cwfdMa34UryZqPR
 shortcode: belrktrvnl
 img: icons/person.svg
-portrait: images/being/belrktrvnl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/belrktrvnl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Élavendren
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 35
   birthday: 685/9/3
-  height:
-    m: 1.7
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.7
+  weight: 77
+  frame: medium
   appearance:
     eye_color: warm_brown
     hair_color: auburn
@@ -40,20 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - prominent scar on neck
-gear:
-  weapons:
-    - BrdSwd:1
-    - LtVest:1
-    - KnSh:1
-  armor:
-    - LtVest:1
-    - PSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
+social:
+  station: soldiery
+  class: freeman
+  society: Élavendren
 sohl:
   archetype: null
   body:
@@ -510,12 +502,6 @@ sohl:
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: swim, type: skill, system: { masteryLevelBase: 35 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

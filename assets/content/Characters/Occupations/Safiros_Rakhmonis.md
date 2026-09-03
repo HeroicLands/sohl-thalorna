@@ -16,23 +16,25 @@ id: 6rlLBO0FfEwAvuQg
 folder: gpXd1anXulwRWZqn
 shortcode: sfrsrkhmns
 img: icons/person.svg
-portrait: images/being/sfrsrkhmns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sfrsrkhmns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - kalydria
   gender: male
+  species: null
   age: 42
   birthday: 678/2/28
-  height:
-    m: 1.91
-  weight:
-    kg: 89
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 89
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -40,16 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a lion's mane on the chest
-gear:
-  weapons:
-    - Battleaxe
-  armor:
-    - Chainmail
-  misc:
-    - Leather pack for rations
-    - Shield
-    - wpnsup
-    - helmet
+social:
+  station: soldiery
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kalydria
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

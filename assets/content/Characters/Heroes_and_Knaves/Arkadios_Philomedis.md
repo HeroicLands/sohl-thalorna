@@ -16,29 +16,25 @@ id: JtOURC71suokEdaY
 folder: b81DHx3S7C9ep13E
 shortcode: arkdsphlmds
 img: icons/person.svg
-portrait: images/being/arkdsphlmds-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/arkdsphlmds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/4/2
-  height:
-    m: 1.93
-  weight:
-    kg: 88.9
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 88.9
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

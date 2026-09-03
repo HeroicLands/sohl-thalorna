@@ -15,23 +15,25 @@ id: ecQoXsf2o3gyrDO1
 folder: elH5NDPUuiRCICrE
 shortcode: hrldhlmsly
 img: icons/person.svg
-portrait: images/being/hrldhlmsly-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrldhlmsly-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 45
   birthday: 675/2/8
-  height:
-    m: 1.91
-  weight:
-    kg: 83
-  build:
-    frame: medium
+  height: 1.91
+  weight: 83
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -39,15 +41,10 @@ traits:
     complexion: clear
     extra_features:
       - a tattoo of a woman on the shoulder
-gear:
-  weapons:
-    - Wooden staff
-  armor: []
-  misc:
-    - Leather pack
-    - Rope
-    - harnesses
-    - animal feed
+social:
+  station: tradesfolk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

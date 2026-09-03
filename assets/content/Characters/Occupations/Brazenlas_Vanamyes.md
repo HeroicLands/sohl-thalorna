@@ -16,38 +16,35 @@ id: GTrA1EEpDJjym6MG
 folder: UFBfgKZUF0bAE7gG
 shortcode: brznlsvnmys
 img: icons/person.svg
-portrait: images/being/brznlsvnmys-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brznlsvnmys-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Embalmer
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 52
   birthday: 668/11/27
-  height:
-    m: 1.83
-  weight:
-    kg: 76
-  build:
-    frame: medium
+  height: 1.83
+  weight: 76
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: gray
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Thick leather apron
-  misc:
-    - Large wooden chest for embalming supplies
-    - Preserving fluids
-    - embalming tools
-    - ancient texts on funerary practices
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -530,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
 img: icons/person.svg
-portrait: images/being/shenurbapt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/shenurbapt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 47
   birthday: 673/12/9
-  height:
-    m: 1.91
-  weight:
-    kg: 84.8
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 84.8
+  frame: heavy
   appearance:
     eye_color: dark_amber
     hair_color: dark_brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a serpent on the back
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

@@ -16,23 +16,25 @@ id: opDwjrm74UWhcZQA
 folder: UFBfgKZUF0bAE7gG
 shortcode: arklrdsklmkns
 img: icons/person.svg
-portrait: images/being/arklrdsklmkns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/arklrdsklmkns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 37
   birthday: 687/4/10
-  height:
-    m: 1.93
-  weight:
-    kg: 89
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 89
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black
@@ -40,16 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the right calf and a Seaman's Guild tatoo on his right arm
-gear:
-  weapons:
-    - Cutlass (for self-defense)
-  armor:
-    - Sturdy sailor’s attire
-  misc:
-    - Large bag for personal items
-    - Ropes
-    - navigation tools
-    - fishing gear
+social:
+  station: common_folk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 50 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

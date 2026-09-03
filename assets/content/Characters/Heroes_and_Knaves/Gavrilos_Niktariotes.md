@@ -16,35 +16,34 @@ id: uK9EFGQgo0b4Bo6b
 folder: b81DHx3S7C9ep13E
 shortcode: gvrlsnktrts
 img: icons/person.svg
-portrait: images/being/gvrlsnktrts-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/gvrlsnktrts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/3/19
-  height:
-    m: 1.85
-  weight:
-    kg: 82.1
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82.1
+  frame: medium
   appearance:
     eye_color: green
     hair_color: graying_black
     skin_color: light
     complexion: tanned
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

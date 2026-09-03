@@ -14,31 +14,26 @@ folder: UFBfgKZUF0bAE7gG
 shortcode: lucernsrnt
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/lucernsrnt-portrait.webp
 type: being
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-social:
+data:
+  portrait: images/being/lucernsrnt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Physician
-  station: tradesfolk
-  class: privileged
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - thetamzir
+    - vylarinmpr
   gender: male
+  species: null
   age: 26
   birthday: 693/10/8
-  height:
-    m: 1.78
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.78
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
@@ -47,6 +42,9 @@ traits:
     extra_features:
       - immaculate grooming even in rough conditions
       - carries a fine leather medical bag
+social:
+  station: tradesfolk
+  class: privileged
 sohl:
   archetype: null
   body:

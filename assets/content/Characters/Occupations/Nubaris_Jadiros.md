@@ -16,38 +16,35 @@ id: mYipYFbxJKxDZJiN
 folder: gpXd1anXulwRWZqn
 shortcode: nubarsjdrs
 img: icons/person.svg
-portrait: images/being/nubarsjdrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/nubarsjdrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Courtier)
-  station: administration
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - theradon
   gender: female
+  species: null
   age: 40
   birthday: 684/10/2
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.7
+  weight: 64
+  frame: light
   appearance:
     eye_color: blue
     hair_color: black
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Elegant dagger (for self-defense)
-  armor:
-    - Fine noble attire
-  misc:
-    - Small purse for personal items
-    - Documents for negotiations
-    - ledger for alliances
+social:
+  station: administration
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -526,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: theradon
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

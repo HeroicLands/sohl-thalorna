@@ -16,35 +16,34 @@ id: kSbpsbr6fEgtilry
 folder: UFBfgKZUF0bAE7gG
 shortcode: xadrosdmts
 img: icons/person.svg
-portrait: images/being/xadrosdmts-portrait.webp
 type: being
-thalorna:
-  realm: hlykngdmnrtm
-  region: vylariargn
-social:
+data:
+  portrait: images/being/xadrosdmts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - hlykngdmnrtm
   gender: male
+  species: null
   age: 38
   birthday: 682/9/20
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
     complexion: tanned
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

@@ -16,35 +16,34 @@ id: 9MWvA6UWlp8vQf1B
 folder: b81DHx3S7C9ep13E
 shortcode: lysndrschrysnthpls
 img: icons/person.svg
-portrait: images/being/lysndrschrysnthpls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/lysndrschrysnthpls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 48
   birthday: 672/2/6
-  height:
-    m: 1.91
-  weight:
-    kg: 84.8
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 84.8
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

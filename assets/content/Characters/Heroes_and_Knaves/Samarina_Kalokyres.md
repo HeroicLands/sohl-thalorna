@@ -16,35 +16,34 @@ id: kdVyqNewPWRnhw1s
 folder: b81DHx3S7C9ep13E
 shortcode: smrnklkyrs
 img: icons/person.svg
-portrait: images/being/smrnklkyrs-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/smrnklkyrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 32
   birthday: 688/5/10
-  height:
-    m: 1.78
-  weight:
-    kg: 69.9
-  build:
-    frame: light
+  height: 1.78
+  weight: 69.9
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

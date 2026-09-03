@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: renuternfr
 img: icons/person.svg
-portrait: images/being/renuternfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/renuternfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 32
   birthday: 688/2/8
-  height:
-    m: 1.7
-  weight:
-    kg: 86.6
-  build:
-    frame: light
+  height: 1.7
+  weight: 86.6
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

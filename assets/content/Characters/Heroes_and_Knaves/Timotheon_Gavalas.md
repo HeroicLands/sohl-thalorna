@@ -16,35 +16,34 @@ id: eZMSqTKJeZNuLNO5
 folder: b81DHx3S7C9ep13E
 shortcode: timthngvls
 img: icons/person.svg
-portrait: images/being/timthngvls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/timthngvls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 51
   birthday: 669/2/22
-  height:
-    m: 1.8
-  weight:
-    kg: 73.5
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73.5
+  frame: medium
   appearance:
     eye_color: green
     hair_color: gray
     skin_color: light
     complexion: ruddy
     extra_features: []
+social:
+  station: common_folk
+  class: guilded
 sohl:
   archetype: null
   body:

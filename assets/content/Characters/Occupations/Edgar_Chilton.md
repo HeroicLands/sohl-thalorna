@@ -15,23 +15,25 @@ id: C4SFhbOMZpTktJaJ
 folder: elH5NDPUuiRCICrE
 shortcode: edgarchltn
 img: icons/person.svg
-portrait: images/being/edgarchltn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edgarchltn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Embalmer
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 45
   birthday: 679/1/9
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: blonde
@@ -39,16 +41,10 @@ traits:
     complexion: freckled
     extra_features:
       - a scar on the abdomen
-gear:
-  weapons:
-    - Small embalming knife
-  armor:
-    - Thick leather apron
-  misc:
-    - Wooden chest for embalming tools
-    - Preserving fluids
-    - linen cloths
-    - herbs for funerary rites
+social:
+  station: tradesfolk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

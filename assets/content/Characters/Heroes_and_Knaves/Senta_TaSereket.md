@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
 img: icons/person.svg
-portrait: images/being/sentatsrkt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/sentatsrkt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Caravan Guard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 28
   birthday: 692/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

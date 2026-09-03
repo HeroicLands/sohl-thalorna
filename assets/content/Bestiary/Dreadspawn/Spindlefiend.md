@@ -9,9 +9,30 @@ name:
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
 id: uiCv7LNZzmeo0C5F
 img: icons/game-icons/lorc/werewolf.svg
-portrait: images/being/spndlfnd-portrait.webp
 shortcode: spndlfnd
 type: being
+data:
+  portrait: images/being/spndlfnd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

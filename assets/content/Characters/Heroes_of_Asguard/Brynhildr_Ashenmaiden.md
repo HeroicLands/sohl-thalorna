@@ -16,29 +16,35 @@ id: qlJODLpgKXPE441j
 folder: Ka9XqaF27b0I3Gmq
 shortcode: brynhldrshnmdn
 img: icons/person.svg
-portrait: images/being/brynhldrshnmdn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brynhldrshnmdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 29
   birthday: 691/5/8
-  height:
-    m: 1.55
-  weight:
-    kg: 52
-  build:
-    frame: light
+  height: 1.55
+  weight: 52
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: pale
     complexion: weathered
     extra_features: []
+social:
+  station: clergy
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -15,23 +15,25 @@ id: IcNepOR6soVfBgWO
 folder: elH5NDPUuiRCICrE
 shortcode: ethlndwgmr
 img: icons/person.svg
-portrait: images/being/ethlndwgmr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ethlndwgmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gaoler
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 34
   birthday: 690/3/7
-  height:
-    m: 1.83
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.83
+  weight: 73
+  frame: medium
   appearance:
     eye_color: green
     hair_color: graying_brown
@@ -39,16 +41,10 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a snake wrapping around the leg
-gear:
-  weapons:
-    - Short sword
-  armor:
-    - Padded leather armor
-  misc:
-    - Small satchel
-    - Set of keys
-    - torch
-    - journal for incident reports
+social:
+  station: soldiery
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

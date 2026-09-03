@@ -15,23 +15,25 @@ id: QPtDu7W7eaDNKgeI
 folder: elH5NDPUuiRCICrE
 shortcode: edmndwlfrd
 img: icons/person.svg
-portrait: images/being/edmndwlfrd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edmndwlfrd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Clothier
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 44
   birthday: 676/10/4
-  height:
-    m: 1.73
-  weight:
-    kg: 61
-  build:
-    frame: medium
+  height: 1.73
+  weight: 61
+  frame: medium
   appearance:
     eye_color: green
     hair_color: graying_brown
@@ -39,17 +41,10 @@ traits:
     complexion: clear
     extra_features:
       - a scar above the left eyebrow
-gear:
-  weapons:
-    - Small sewing scissors
-  armor:
-    - Thick woolen vest
-  misc:
-    - Leather sewing kit
-    - Fine fabrics
-    - needles
-    - thread
-    - measuring tape
+social:
+  station: tradesfolk
+  class: guilded
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

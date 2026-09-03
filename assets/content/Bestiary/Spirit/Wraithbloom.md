@@ -9,9 +9,30 @@ name:
 description: "The animated spirit of ancient magic-steeped plants, haunting old groves and sacred gardens where the veil between living and dead has worn thin."
 id: NZjkwSdqmk6Tuf64
 img: icons/game-icons/lorc/werewolf.svg
-portrait: images/being/wrthblm-portrait.webp
 shortcode: wrthblm
 type: being
+data:
+  portrait: images/being/wrthblm-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

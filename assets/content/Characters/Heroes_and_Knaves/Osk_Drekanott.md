@@ -16,29 +16,25 @@ id: PGJWdx0sS4X1Q4cV
 folder: Ka9XqaF27b0I3Gmq
 shortcode: oskdrekant
 img: icons/person.svg
-portrait: images/being/oskdrekant-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/oskdrekant-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: female
+  species: null
   age: 34
   birthday: 686/3/20
-  height:
-    m: 1.7
-  weight:
-    kg: 66.2
-  build:
-    frame: light
+  height: 1.7
+  weight: 66.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: blonde
@@ -46,6 +42,9 @@ traits:
     complexion: fair
     extra_features:
       - a scar running down the right leg
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

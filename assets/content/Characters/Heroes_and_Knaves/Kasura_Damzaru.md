@@ -14,31 +14,26 @@ folder: PuQFDMkRM9i60i5Z
 shortcode: kasuradmzr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/kasuradmzr-portrait.webp
 type: being
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-social:
+data:
+  portrait: images/being/kasuradmzr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - thetamzir
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 23
   birthday: 696/5/3
-  height:
-    m: 1.68
-  weight:
-    kg: 65.8
-  build:
-    frame: medium
+  height: 1.68
+  weight: 65.8
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -48,6 +43,9 @@ traits:
       - perpetually stained hands
       - an open and expressive face
       - almost always smiling
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

@@ -16,29 +16,25 @@ id: pOqNxorvMT9K0YFZ
 folder: UFBfgKZUF0bAE7gG
 shortcode: xrphnklmkns
 img: icons/person.svg
-portrait: images/being/xrphnklmkns-portrait.webp
 type: being
-thalorna:
-  realm: provncmktr
-  region: vylariargn
-social:
+data:
+  portrait: images/being/xrphnklmkns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gaoler
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provncmktr
   gender: male
+  species: null
   age: 39
   birthday: 681/5/18
-  height:
-    m: 1.8
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.8
+  weight: 78
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the left ear
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

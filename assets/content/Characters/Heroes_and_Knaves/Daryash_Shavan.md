@@ -16,35 +16,34 @@ id: O6tHeE3VuZgiVhP8
 folder: V1t8DVX0wKSOCJd5
 shortcode: daryshshvn
 img: icons/person.svg
-portrait: images/being/daryshshvn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/daryshshvn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: female
+  species: null
   age: 29
   birthday: 691/7/3
-  height:
-    m: 1.78
-  weight:
-    kg: 71.2
-  build:
-    frame: light
+  height: 1.78
+  weight: 71.2
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

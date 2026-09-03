@@ -16,39 +16,35 @@ id: mjbcpEN2XeDA4OKm
 folder: Nu7AgLZEmR26u2pk
 shortcode: wthrcdrthgr
 img: icons/person.svg
-portrait: images/being/wthrcdrthgr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wthrcdrthgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shipwright
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 42
   birthday: 682/2/30
-  height:
-    m: 1.83
-  weight:
-    kg: 81
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 81
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: dark_brown
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Hammer
-  armor:
-    - Thick leather apron
-  misc:
-    - Canvas tool bag
-    - Blueprint case
-    - measuring rope
-    - caulking tools
+social:
+  station: tradesfolk
+  class: guilded
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -533,12 +529,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

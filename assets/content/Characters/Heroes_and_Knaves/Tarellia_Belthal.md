@@ -16,35 +16,34 @@ id: Phe3YMnWvtD0zL3T
 folder: 4cwfdMa34UryZqPR
 shortcode: tarelblthl
 img: icons/person.svg
-portrait: images/being/tarelblthl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/tarelblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 39
   birthday: 681/5/3
-  height:
-    m: 1.68
-  weight:
-    kg: 60.3
-  build:
-    frame: light
+  height: 1.68
+  weight: 60.3
+  frame: light
   appearance:
     eye_color: blue
     hair_color: dark_brown
     skin_color: light
     complexion: fair
     extra_features: []
+social:
+  station: mages
+  class: guilded
 sohl:
   archetype: null
   body:

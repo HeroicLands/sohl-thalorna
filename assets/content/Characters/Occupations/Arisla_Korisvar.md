@@ -16,39 +16,35 @@ id: xgRxI5Pwdzrm9h82
 folder: J9R0fnGUTBY5z4pd
 shortcode: arislkrsvr
 img: icons/person.svg
-portrait: images/being/arislkrsvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/arislkrsvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 32
   birthday: 688/4/20
-  height:
-    m: 1.83
-  weight:
-    kg: 76
-  build:
-    frame: light
+  height: 1.83
+  weight: 76
+  frame: light
   appearance:
     eye_color: gray
     hair_color: black
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Ornate dagger
-  armor:
-    - Embroidered silk cloak bearing her family's colors
-  misc:
-    - Leather satchel for documents
-    - Scrolls of announcements
-    - family seal
-    - silver writing pen
+social:
+  station: administration
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

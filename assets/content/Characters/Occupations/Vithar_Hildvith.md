@@ -16,23 +16,25 @@ id: jjZK8tfphJWAMMYN
 folder: Nu7AgLZEmR26u2pk
 shortcode: vthrhldvth
 img: icons/person.svg
-portrait: images/being/vthrhldvth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vthrhldvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 47
   birthday: 673/12/9
-  height:
-    m: 1.91
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,16 +42,10 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a serpent on the back
-gear:
-  weapons:
-    - Heavy hammer
-  armor:
-    - Leather apron
-  misc:
-    - Leather tool belt
-    - Forge tools
-    - sharpening stones
-    - iron and steel ingots
+social:
+  station: tradesfolk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

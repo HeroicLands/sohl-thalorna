@@ -15,32 +15,26 @@ id: PTMNrOoyG1L212mK
 folder: J9R0fnGUTBY5z4pd
 shortcode: chlbrhydyn
 img: icons/person.svg
-portrait: images/being/chlbrhydyn-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/chlbrhydyn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter / Scout
-  station: soldiery
-  class: unguilded
-  society: ""
-  organizations:
-    - silent-talon
-harnworld:
-  realm: ""
-  ritual:
-    - Kuélrhyn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - slntlncmpny
+    - kngdmprvnz
   gender: male
+  species: null
   age: 32
   birthday: 688/8/20
-  height:
-    m: 1.8
-  weight:
-    kg: 70
-  build:
-    frame: light
+  height: 1.8
+  weight: 70
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -49,6 +43,9 @@ traits:
     extra_features:
       - Hair tied back with leather thong
       - Often cloaked in green and brown for camouflage
+social:
+  station: soldiery
+  class: unguilded
 sohl:
   archetype: null
   body:

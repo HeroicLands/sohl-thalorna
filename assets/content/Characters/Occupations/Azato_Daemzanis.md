@@ -16,37 +16,35 @@ id: oCLrZ3aWZkSBvrjn
 folder: UFBfgKZUF0bAE7gG
 shortcode: azatodmzns
 img: icons/person.svg
-portrait: images/being/azatodmzns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/azatodmzns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 50
   birthday: 670/5/25
-  height:
-    m: 1.63
-  weight:
-    kg: 51
-  build:
-    frame: medium
+  height: 1.63
+  weight: 51
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Padded robes
-  misc:
-    - Leather belt pouch for materials
-    - Laboratory notes
-    - rare mineral samples
+social:
+  station: mages
+  class: guilded
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -529,12 +527,6 @@ sohl:
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 8 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

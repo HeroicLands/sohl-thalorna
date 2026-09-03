@@ -16,29 +16,25 @@ id: 8VoyUIKJpLklwgC4
 folder: 4cwfdMa34UryZqPR
 shortcode: rnthrprdln
 img: icons/person.svg
-portrait: images/being/rnthrprdln-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/rnthrprdln-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 48
   birthday: 672/5/16
-  height:
-    m: 1.75
-  weight:
-    kg: 69.9
-  build:
-    frame: medium
+  height: 1.75
+  weight: 69.9
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a crown on the chest
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:

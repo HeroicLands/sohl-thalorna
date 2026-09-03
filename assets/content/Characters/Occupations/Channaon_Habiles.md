@@ -16,39 +16,35 @@ id: CpWDKNQyvbF2ulFn
 folder: gpXd1anXulwRWZqn
 shortcode: chananhbls
 img: icons/person.svg
-portrait: images/being/chananhbls-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/chananhbls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: male
+  species: null
   age: 53
   birthday: 667/5/8
-  height:
-    m: 1.83
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.83
+  weight: 80
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: olive_tanned
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Hand axe
-  armor:
-    - Heavy woolen coat
-  misc:
-    - Wooden toolbox
-    - Sharpening stone
-    - saw
-    - wooden pegs
+social:
+  station: tradesfolk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

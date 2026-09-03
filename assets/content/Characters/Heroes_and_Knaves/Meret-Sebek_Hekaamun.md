@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
 img: icons/person.svg
-portrait: images/being/mrtsbkhkmn-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/mrtsbkhkmn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 43
   birthday: 677/7/12
-  height:
-    m: 1.75
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.75
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: mages
+  class: noble
 sohl:
   archetype: null
   body:

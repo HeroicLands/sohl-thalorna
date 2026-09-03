@@ -15,23 +15,25 @@ id: pTjsBaNwpKAlQQfH
 folder: elH5NDPUuiRCICrE
 shortcode: aldredhrdn
 img: icons/person.svg
-portrait: images/being/aldredhrdn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aldredhrdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 42
   birthday: 682/10/10
-  height:
-    m: 1.8
-  weight:
-    kg: 69
-  build:
-    frame: medium
+  height: 1.8
+  weight: 69
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: blonde
@@ -39,15 +41,10 @@ traits:
     complexion: freckled
     extra_features:
       - a tattoo of a fire on the leg
-gear:
-  weapons: []
-  armor:
-    - Fine clothing
-  misc:
-    - Leather briefcase for documents
-    - Samples of goods
-    - trade agreements
-    - personal ledger
+social:
+  station: tradesfolk
+  class: noble
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -531,12 +528,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 34 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

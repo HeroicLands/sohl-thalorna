@@ -16,35 +16,34 @@ id: CLSKx2YS5Xc26oaP
 folder: mtJ4TzKdySHbE2OM
 shortcode: sabirajira
 img: icons/person.svg
-portrait: images/being/sabirajira-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/sabirajira-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 37
   birthday: 683/5/15
-  height:
-    m: 1.85
-  weight:
-    kg: 80.3
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80.3
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: guilded
 sohl:
   archetype: null
   body:

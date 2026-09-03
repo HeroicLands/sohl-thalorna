@@ -18,25 +18,26 @@ id: YDi8ZNGZXZN1gfUY
 folder: Nu7AgLZEmR26u2pk
 shortcode: skthldfrdbn
 img: icons/person.svg
-portrait: images/being/skthldfrdbn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/skthldfrdbn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Brigand
-  station: underworld
-  class: unfree
-  society: Varokh
-  organizations:
-    - blackpine-wolves
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - blckpnwlvs
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 27
   birthday: 692/1/9
-  height:
-    m: 1.6
-  weight:
-    kg: 52.2
-  build:
-    frame: scant
+  height: 1.6
+  weight: 52.2
+  frame: scant
   appearance:
     eye_color: green
     hair_color: dark_blonde
@@ -46,6 +47,10 @@ traits:
       - a thin scar from ear to jawline on the right side
       - sharp pointed features
       - moves with coiled restless energy
+social:
+  station: underworld
+  class: unfree
+  society: Varokh
 sohl:
   archetype: null
   body:
@@ -524,12 +529,6 @@ sohl:
     - { shortcode: bpchmd, type: containergear, system: { quantity: 2 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 22 } }
     - { shortcode: tndrbx, type: miscgear }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

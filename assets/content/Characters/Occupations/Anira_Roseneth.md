@@ -16,23 +16,25 @@ id: sV3vZhD9ejW9o3RU
 folder: 9t9O4iB5cYJtSaTG
 shortcode: anirarsnth
 img: icons/person.svg
-portrait: images/being/anirarsnth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/anirarsnth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Lute)
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 26
   birthday: 694/9/6
-  height:
-    m: 1.75
-  weight:
-    kg: 66
-  build:
-    frame: light
+  height: 1.75
+  weight: 66
+  frame: light
   appearance:
     eye_color: black
     hair_color: gray
@@ -40,16 +42,10 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a tree on the back
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Woolen cloak
-  misc:
-    - Leather case for the lute
-    - Lute
-    - spare strings
-    - collection of folk songs
+social:
+  station: tradesfolk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -524,12 +520,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

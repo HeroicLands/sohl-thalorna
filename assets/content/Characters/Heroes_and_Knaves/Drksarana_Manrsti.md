@@ -16,36 +16,35 @@ id: lRVZo2QwwY20k6XS
 folder: JotxZnnXcTECeYW3
 shortcode: drkaranamn
 img: icons/person.svg
-portrait: images/being/drkaranamn-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/drkaranamn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: male
+  species: null
   age: 29
   birthday: 691/9/18
-  height:
-    m: 1.7
-  weight:
-    kg: 64.4
-  build:
-    frame: light
+  height: 1.7
+  weight: 64.4
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a waterfall on the shoulder
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

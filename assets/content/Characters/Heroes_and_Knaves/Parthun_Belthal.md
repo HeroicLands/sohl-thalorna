@@ -16,29 +16,25 @@ id: EG2uzxHZTnhI9IPS
 folder: 4cwfdMa34UryZqPR
 shortcode: prthnblthl
 img: icons/person.svg
-portrait: images/being/prthnblthl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/prthnblthl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 37
   birthday: 683/5/20
-  height:
-    m: 1.75
-  weight:
-    kg: 67.1
-  build:
-    frame: medium
+  height: 1.75
+  weight: 67.1
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the left foot
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

@@ -16,38 +16,35 @@ id: OhbVrpoiVgRV5IfL
 folder: 4cwfdMa34UryZqPR
 shortcode: belrkflwyn
 img: icons/person.svg
-portrait: images/being/belrkflwyn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/belrkflwyn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 43
   birthday: 677/4/15
-  height:
-    m: 1.63
-  weight:
-    kg: 58
-  build:
-    frame: medium
+  height: 1.63
+  weight: 58
+  frame: medium
   appearance:
     eye_color: violet
     hair_color: black
     skin_color: fair
     complexion: pale
     extra_features: []
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Leather apron
-  misc:
-    - Satchel with potion vials
-    - Mortar and pestle
-    - alchemical texts
+social:
+  station: mages
+  class: guilded
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

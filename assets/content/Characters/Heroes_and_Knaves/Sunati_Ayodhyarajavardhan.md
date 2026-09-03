@@ -16,35 +16,34 @@ id: m3zyA5WlzKIBStex
 folder: JotxZnnXcTECeYW3
 shortcode: sntydhyrjvrdhn
 img: icons/person.svg
-portrait: images/being/sntydhyrjvrdhn-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/sntydhyrjvrdhn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: female
+  species: null
   age: 28
   birthday: 692/10/14
-  height:
-    m: 1.7
-  weight:
-    kg: 60.3
-  build:
-    frame: medium
+  height: 1.7
+  weight: 60.3
+  frame: medium
   appearance:
     eye_color: honey_brown
     hair_color: black
     skin_color: rich_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: freeman
 sohl:
   archetype: null
   body:

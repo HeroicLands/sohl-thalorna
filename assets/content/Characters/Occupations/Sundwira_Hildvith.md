@@ -16,23 +16,25 @@ id: 7Tow88H5s2fqmO9J
 folder: Nu7AgLZEmR26u2pk
 shortcode: sndwrhldvth
 img: icons/person.svg
-portrait: images/being/sndwrhldvth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sndwrhldvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ostler
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 30
   birthday: 694/3/22
-  height:
-    m: 1.75
-  weight:
-    kg: 67
-  build:
-    frame: medium
+  height: 1.75
+  weight: 67
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: brown
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a burn mark on the left hand
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small bag for personal items
-    - Grooming tools
-    - feed bags
-    - herbal remedies for horses
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -526,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

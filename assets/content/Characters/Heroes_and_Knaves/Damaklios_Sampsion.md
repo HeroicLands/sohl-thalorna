@@ -16,29 +16,25 @@ id: f18FWVA5XOWaW9tc
 folder: b81DHx3S7C9ep13E
 shortcode: damklsmpsn
 img: icons/person.svg
-portrait: images/being/damklsmpsn-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/damklsmpsn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/10/7
-  height:
-    m: 1.68
-  weight:
-    kg: 59.4
-  build:
-    frame: medium
+  height: 1.68
+  weight: 59.4
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: graying_brown
@@ -46,6 +42,9 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a crescent moon on the neck
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

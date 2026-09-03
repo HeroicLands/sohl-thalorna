@@ -15,39 +15,35 @@ id: uhaFVBliyIToGJ1Q
 folder: elH5NDPUuiRCICrE
 shortcode: edasomervl
 img: icons/person.svg
-portrait: images/being/edasomervl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edasomervl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: female
+  species: null
   age: 27
   birthday: 695/4/19
-  height:
-    m: 1.7
-  weight:
-    kg: 61
-  build:
-    frame: light
+  height: 1.7
+  weight: 61
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown
     skin_color: pale
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Simple dress
-  misc:
-    - Basket for supplies
-    - Cooking utensils
-    - linen for bedding
-    - ledger for reservations
+social:
+  station: tradesfolk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

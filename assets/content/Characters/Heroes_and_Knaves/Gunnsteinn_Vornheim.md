@@ -16,29 +16,25 @@ id: Dm5aSUfrER4V3eMn
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gnstnvrnhm
 img: icons/person.svg
-portrait: images/being/gnstnvrnhm-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/gnstnvrnhm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 35
   birthday: 685/6/30
-  height:
-    m: 1.88
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

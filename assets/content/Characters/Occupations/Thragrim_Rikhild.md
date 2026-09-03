@@ -16,39 +16,35 @@ id: 51DTjBlUH9PrNZ6I
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrgrmrkhld
 img: icons/person.svg
-portrait: images/being/thrgrmrkhld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrgrmrkhld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 48
   birthday: 672/2/6
-  height:
-    m: 1.91
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: gray
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Woodcutting axe
-  armor:
-    - Thick leather vest
-  misc:
-    - Canvas pack for tools
-    - Saw
-    - measuring rope
-    - woodcarving knife
+social:
+  station: tradesfolk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

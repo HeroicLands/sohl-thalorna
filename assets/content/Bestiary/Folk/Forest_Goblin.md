@@ -9,9 +9,30 @@ name:
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
 id: B24v0x403YmclrJb
 img: icons/game-icons/caro-asercion/goblin.svg
-portrait: images/being/frstgbln-portrait.webp
 shortcode: frstgbln
 type: being
+data:
+  portrait: images/being/frstgbln-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: goblin
   archetype: 0

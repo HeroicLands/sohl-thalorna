@@ -10,9 +10,30 @@ name:
 description: "A calculating apex fire dragon of three or four centuries, cruel and supreme, selecting its prey with deliberate predatory strategy."
 id: KnuTXF76FU1MTtAN
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/mtrfrdrg-portrait.webp
 shortcode: mtrfrdrg
 type: being
+data:
+  portrait: images/being/mtrfrdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

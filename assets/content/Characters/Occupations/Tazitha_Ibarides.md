@@ -16,23 +16,25 @@ id: JQTFjmsn9dLVIdVu
 folder: gpXd1anXulwRWZqn
 shortcode: tazithbrds
 img: icons/person.svg
-portrait: images/being/tazithbrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tazithbrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - pelagora
   gender: female
+  species: null
   age: 29
   birthday: 691/2/23
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: light
+  height: 1.85
+  weight: 79
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -40,16 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the right wrist
-gear:
-  weapons:
-    - Wooden staff
-  armor:
-    - Woolen cloak
-  misc:
-    - Leather sacks for carrying charcoal
-    - Kiln tools
-    - herbs
-    - tndrbx
+social:
+  station: common_folk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 33 } }
-thalorna:
-  realm: pelagora
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

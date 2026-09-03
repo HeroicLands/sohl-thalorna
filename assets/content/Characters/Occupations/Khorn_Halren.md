@@ -16,23 +16,25 @@ id: Mc4BVuMqbfo9R13K
 folder: 4cwfdMa34UryZqPR
 shortcode: khornhalrn
 img: icons/person.svg
-portrait: images/being/khornhalrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/khornhalrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 36
   birthday: 684/6/14
-  height:
-    m: 1.83
-  weight:
-    kg: 82
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 82
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: blonde
@@ -40,16 +42,10 @@ traits:
     complexion: freckled
     extra_features:
       - a tattoo of a rose vine on the leg
-gear:
-  weapons:
-    - Longsword
-  armor:
-    - Chainmail
-  misc:
-    - Leather belt pouch
-    - Shield
-    - wpnsup
-    - rations
+social:
+  station: soldiery
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

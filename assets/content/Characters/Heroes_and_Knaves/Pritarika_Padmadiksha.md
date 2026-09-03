@@ -16,35 +16,34 @@ id: kCtgf7de4hSOoag2
 folder: JotxZnnXcTECeYW3
 shortcode: prtrkpdmdksh
 img: icons/person.svg
-portrait: images/being/prtrkpdmdksh-portrait.webp
 type: being
-thalorna:
-  realm: suvrgrjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/prtrkpdmdksh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Manor Lord)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - suvrgrjnpd
   gender: female
+  species: null
   age: 42
   birthday: 678/6/12
-  height:
-    m: 1.68
-  weight:
-    kg: 61.2
-  build:
-    frame: medium
+  height: 1.68
+  weight: 61.2
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: rich_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: noble
 sohl:
   archetype: null
   body:

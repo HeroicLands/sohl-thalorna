@@ -16,23 +16,25 @@ id: H4KPfA1lquCu2r6A
 folder: UFBfgKZUF0bAE7gG
 shortcode: xenoksbrds
 img: icons/person.svg
-portrait: images/being/xenoksbrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/xenoksbrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 22
   birthday: 698/12/18
-  height:
-    m: 1.75
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.75
+  weight: 60
+  frame: light
   appearance:
     eye_color: honey_brown
     hair_color: dark_brown
@@ -40,17 +42,10 @@ traits:
     complexion: pale
     extra_features:
       - scar across forehead
-gear:
-  weapons:
-    - BrdSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -507,12 +502,6 @@ sohl:
     - { shortcode: init, type: skill, system: { masteryLevelBase: 34 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 43 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 54 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,23 +16,25 @@ id: t1OGMmjxWkI9X7H6
 folder: Nu7AgLZEmR26u2pk
 shortcode: thdrsndryth
 img: icons/person.svg
-portrait: images/being/thdrsndryth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thdrsndryth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 29
   birthday: 691/3/3
-  height:
-    m: 1.6
-  weight:
-    kg: 54
-  build:
-    frame: light
+  height: 1.6
+  weight: 54
+  frame: light
   appearance:
     eye_color: blue
     hair_color: dark_blonde
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a crescent moon on the neck
-gear:
-  weapons: []
-  armor:
-    - Woolen cloak
-  misc:
-    - Small leather pouch
-    - Tin cup
-    - worn lute
-    - simple necklace (keepsake)
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -524,12 +521,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

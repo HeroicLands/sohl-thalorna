@@ -16,35 +16,34 @@ id: WfReEkqClUXafnNc
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rngrvtrdmr
 img: icons/person.svg
-portrait: images/being/rngrvtrdmr-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/rngrvtrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: male
+  species: null
   age: 47
   birthday: 673/5/5
-  height:
-    m: 1.85
-  weight:
-    kg: 80.7
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80.7
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

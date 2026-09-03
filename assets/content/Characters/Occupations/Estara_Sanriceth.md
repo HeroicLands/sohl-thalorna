@@ -16,39 +16,35 @@ id: WKyEa8wtWy2591AI
 folder: 9t9O4iB5cYJtSaTG
 shortcode: estrsnrcth
 img: icons/person.svg
-portrait: images/being/estrsnrcth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/estrsnrcth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 29
   birthday: 691/12/3
-  height:
-    m: 1.8
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.8
+  weight: 72
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: black
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Woolen coat
-  misc:
-    - Canvas satchel
-    - Delivery manifests
-    - wagon repair tools
-    - horse grooming kit
+social:
+  station: common_folk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

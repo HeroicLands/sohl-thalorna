@@ -16,40 +16,35 @@ id: LojIIf94ChZESFqZ
 folder: gpXd1anXulwRWZqn
 shortcode: gabrschdrs
 img: icons/person.svg
-portrait: images/being/gabrschdrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/gabrschdrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - athenikos
   gender: male
+  species: null
   age: 39
   birthday: 681/3/13
-  height:
-    m: 1.74
-  weight:
-    kg: 63
-  build:
-    frame: light
+  height: 1.74
+  weight: 63
+  frame: light
   appearance:
     eye_color: warm_brown
     hair_color: dark_brown
     skin_color: warm
     complexion: bronzed
     extra_features: []
-gear:
-  weapons:
-    - ShrtSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -505,12 +500,6 @@ sohl:
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 27 } }
-thalorna:
-  realm: athenikos
-  region: helionis
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,38 +16,35 @@ id: KJmxJseyGCWJr0NR
 folder: UFBfgKZUF0bAE7gG
 shortcode: deklbrmzts
 img: icons/person.svg
-portrait: images/being/deklbrmzts-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/deklbrmzts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 32
   birthday: 692/2/15
-  height:
-    m: 1.8
-  weight:
-    kg: 74
-  build:
-    frame: medium
+  height: 1.8
+  weight: 74
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: auburn
     skin_color: olive
     complexion: ruddy
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small bag for tools
-    - Pottery wheel
-    - kiln
-    - various glazes
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -526,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 32 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

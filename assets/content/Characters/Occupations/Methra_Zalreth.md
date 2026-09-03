@@ -16,23 +16,25 @@ id: Z51vTfGPlcpTCCHH
 folder: 4cwfdMa34UryZqPR
 shortcode: methrzlrth
 img: icons/person.svg
-portrait: images/being/methrzlrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/methrzlrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Labourer (unskilled)
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 26
   birthday: 698/10/9
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: light
+  height: 1.8
+  weight: 73
+  frame: light
   appearance:
     eye_color: green
     hair_color: brown
@@ -40,15 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the left arm
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small pouch for personal items
-    - Basic tools
-    - gardening gloves
-    - water skin
+social:
+  station: common_folk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

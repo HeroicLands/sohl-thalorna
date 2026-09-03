@@ -16,39 +16,35 @@ id: yfR9Q3IiP3whlIzH
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tavirdlvnr
 img: icons/person.svg
-portrait: images/being/tavirdlvnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tavirdlvnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 26
   birthday: 698/6/30
-  height:
-    m: 1.88
-  weight:
-    kg: 89
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 89
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
     complexion: rugged
     extra_features: []
-gear:
-  weapons:
-    - Cutlass (for self-defense)
-  armor:
-    - Simple sailor’s attire
-  misc:
-    - Small satchel for personal items
-    - Ropes
-    - navigation tools
-    - fishing gear
+social:
+  station: common_folk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

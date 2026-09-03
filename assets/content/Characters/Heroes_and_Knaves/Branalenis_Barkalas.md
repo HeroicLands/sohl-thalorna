@@ -16,35 +16,34 @@ id: HySXklJQfb8FnTsx
 folder: UFBfgKZUF0bAE7gG
 shortcode: brnlnsbrkls
 img: icons/person.svg
-portrait: images/being/brnlnsbrkls-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/brnlnsbrkls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: female
+  species: null
   age: 27
   birthday: 693/4/2
-  height:
-    m: 1.78
-  weight:
-    kg: 70.3
-  build:
-    frame: light
+  height: 1.78
+  weight: 70.3
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: light
     complexion: tanned
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

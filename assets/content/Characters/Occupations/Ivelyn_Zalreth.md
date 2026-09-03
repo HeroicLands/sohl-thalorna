@@ -16,39 +16,35 @@ id: 9Vg8WnOnqQfkplJe
 folder: 4cwfdMa34UryZqPR
 shortcode: ivlynzlrth
 img: icons/person.svg
-portrait: images/being/ivlynzlrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ivlynzlrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 29
   birthday: 691/7/3
-  height:
-    m: 1.78
-  weight:
-    kg: 71
-  build:
-    frame: light
+  height: 1.78
+  weight: 71
+  frame: light
   appearance:
     eye_color: gray
     hair_color: gray
     skin_color: fair
     complexion: fair
     extra_features: []
-gear:
-  weapons:
-    - Small hatchet
-  armor:
-    - Woolen work coat
-  misc:
-    - Wooden crate for tools
-    - Carving knives
-    - wood stains
-    - varnish
+social:
+  station: tradesfolk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 64 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,35 +16,34 @@ id: aTwfQByXFdJ0R4QM
 folder: b81DHx3S7C9ep13E
 shortcode: alykosmpsn
 img: icons/person.svg
-portrait: images/being/alykosmpsn-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/alykosmpsn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Physician
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 42
   birthday: 678/3/15
-  height:
-    m: 1.7
-  weight:
-    kg: 64.4
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64.4
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: gray
     skin_color: light
     complexion: tanned
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

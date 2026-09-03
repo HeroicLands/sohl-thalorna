@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
 img: icons/person.svg
-portrait: images/being/akhremrnfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/akhremrnfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 38
   birthday: 682/8/6
-  height:
-    m: 1.85
-  weight:
-    kg: 78.9
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 78.9
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the back of the left arm
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

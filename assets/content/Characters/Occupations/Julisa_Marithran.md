@@ -16,39 +16,35 @@ id: KzTOAshzb9ukZ8ND
 folder: 9t9O4iB5cYJtSaTG
 shortcode: julsmrthrn
 img: icons/person.svg
-portrait: images/being/julsmrthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/julsmrthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: guilded
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 52
   birthday: 672/3/30
-  height:
-    m: 1.78
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.78
+  weight: 72
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
     skin_color: dark
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Thick woolen dress
-  misc:
-    - Basket for provisions
-    - Cooking tools
-    - herbal remedies
-    - ledger for tracking guests
+social:
+  station: tradesfolk
+  class: guilded
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 22 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

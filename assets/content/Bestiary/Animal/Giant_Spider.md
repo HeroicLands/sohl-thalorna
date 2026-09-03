@@ -9,9 +9,30 @@ name:
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."
 id: HzxG1auqS4IJfpH1
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/gntspdr-portrait.webp
 shortcode: gntspdr
 type: being
+data:
+  portrait: images/being/gntspdr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

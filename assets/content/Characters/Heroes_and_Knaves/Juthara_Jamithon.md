@@ -16,36 +16,35 @@ id: UqERNMxqW9jiWub4
 folder: pRBSOhf2qVrV1SQB
 shortcode: juthrjmthn
 img: icons/person.svg
-portrait: images/being/juthrjmthn-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/juthrjmthn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 34
   birthday: 686/9/20
-  height:
-    m: 1.8
-  weight:
-    kg: 64.9
-  build:
-    frame: medium
+  height: 1.8
+  weight: 64.9
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar running across the stomach
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

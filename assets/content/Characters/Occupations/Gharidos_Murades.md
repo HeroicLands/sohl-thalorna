@@ -16,38 +16,35 @@ id: xR8KCDXsXyGHA9k0
 folder: gpXd1anXulwRWZqn
 shortcode: ghardsmrds
 img: icons/person.svg
-portrait: images/being/ghardsmrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ghardsmrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Longshoreman
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - korinthea
   gender: male
+  species: null
   age: 30
   birthday: 694/6/25
-  height:
-    m: 1.91
-  weight:
-    kg: 93
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 93
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
     complexion: bronzed
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Leather bag for personal items
-    - Ropes
-    - basic tools
-    - protective gloves
+social:
+  station: common_folk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -525,12 +522,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: korinthea
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

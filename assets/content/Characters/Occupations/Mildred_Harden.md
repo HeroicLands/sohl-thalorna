@@ -15,23 +15,25 @@ id: 4djkWNdRfrCQBFMC
 folder: elH5NDPUuiRCICrE
 shortcode: mildrdhrdn
 img: icons/person.svg
-portrait: images/being/mildrdhrdn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mildrdhrdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 45
   birthday: 679/5/20
-  height:
-    m: 1.78
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.78
+  weight: 72
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: blonde
@@ -39,16 +41,10 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Simple dress
-  misc:
-    - Wooden cask for ale
-    - Cooking tools
-    - brewing supplies
-    - ledger for bookings
+social:
+  station: tradesfolk
+  class: guilded
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

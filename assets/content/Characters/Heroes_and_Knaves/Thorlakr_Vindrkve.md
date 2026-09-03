@@ -16,29 +16,25 @@ id: u6Leo9Ecs0DxnsNo
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrlkrvndrkv
 img: icons/person.svg
-portrait: images/being/thrlkrvndrkv-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/thrlkrvndrkv-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: unfree
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 38
   birthday: 682/5/12
-  height:
-    m: 1.85
-  weight:
-    kg: 84.4
-  build:
-    frame: medium
+  height: 1.85
+  weight: 84.4
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: gray
@@ -46,6 +42,9 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a tiger on the forearm
+social:
+  station: common_folk
+  class: unfree
 sohl:
   archetype: null
   body:

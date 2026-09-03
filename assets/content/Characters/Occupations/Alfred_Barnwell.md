@@ -15,39 +15,35 @@ id: 5lNKtzJ1atsnBYLM
 folder: elH5NDPUuiRCICrE
 shortcode: alfrdbrnwl
 img: icons/person.svg
-portrait: images/being/alfrdbrnwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alfrdbrnwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 42
   birthday: 678/10/12
-  height:
-    m: 1.75
-  weight:
-    kg: 65
-  build:
-    frame: medium
+  height: 1.75
+  weight: 65
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: red
     skin_color: light
     complexion: pale
     extra_features: []
-gear:
-  weapons:
-    - Staff imbued with magical properties
-  armor:
-    - Worn traveler's robes
-  misc:
-    - Leather satchel for magical components
-    - Herbal poultices
-    - enchanted stones
-    - rune-carved staff
+social:
+  station: mages
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 68 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -14,35 +14,34 @@ id: uxEkxAHHqmd0fVfS
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnfrstlf
 img: icons/person.svg
-portrait: images/being/thrstnfrstlf-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/thrstnfrstlf-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 40
   birthday: 680/3/9
-  height:
-    m: 1.85
-  weight:
-    kg: 78.5
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78.5
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

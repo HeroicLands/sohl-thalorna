@@ -15,39 +15,35 @@ id: 74KPONu3OujCeECO
 folder: elH5NDPUuiRCICrE
 shortcode: edithwlfrd
 img: icons/person.svg
-portrait: images/being/edithwlfrd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edithwlfrd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jeweller
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 29
   birthday: 695/10/25
-  height:
-    m: 1.73
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.73
+  weight: 67
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: red
     skin_color: fair
     complexion: fair
     extra_features: []
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Simple dress
-  misc:
-    - Leather pouch for gems and tools
-    - Jewellery-making tools
-    - sketchbook for designs
-    - polishing cloths
+social:
+  station: tradesfolk
+  class: guilded
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -525,12 +521,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 64 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

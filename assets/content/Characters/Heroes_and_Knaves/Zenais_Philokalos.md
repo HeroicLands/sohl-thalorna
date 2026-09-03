@@ -16,29 +16,25 @@ id: 4ZF2JPTBYsrm932y
 folder: b81DHx3S7C9ep13E
 shortcode: zensphlkls
 img: icons/person.svg
-portrait: images/being/zensphlkls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/zensphlkls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 28
   birthday: 692/9/19
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.7
+  weight: 64
+  frame: light
   appearance:
     eye_color: green
     hair_color: auburn
@@ -46,6 +42,9 @@ traits:
     complexion: freckled
     extra_features:
       - a tattoo of a bird on the forearm
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

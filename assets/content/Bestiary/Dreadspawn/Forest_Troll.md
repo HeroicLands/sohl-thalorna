@@ -9,9 +9,30 @@ name:
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
 id: l4GBcRoNaHSO3RRn
 img: icons/game-icons/skoll/troll.svg
-portrait: images/being/frsttrll-portrait.webp
 shortcode: frsttrll
 type: being
+data:
+  portrait: images/being/frsttrll-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

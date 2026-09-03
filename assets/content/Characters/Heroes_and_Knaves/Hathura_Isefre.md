@@ -16,37 +16,36 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
 img: icons/person.svg
-portrait: images/being/hathurasfr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/hathurasfr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 40
   birthday: 680/10/2
-  height:
-    m: 1.7
-  weight:
-    kg: 63.5
-  build:
-    frame: light
+  height: 1.7
+  weight: 63.5
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - Feather-of-Má'át scarification across the collarbones, concealed by vestments
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
+social:
+  station: clergy
+  class: noble
 sohl:
   archetype: null
   body:

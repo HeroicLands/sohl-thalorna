@@ -16,23 +16,25 @@ id: BjpHAKRYlklfN3yN
 folder: UFBfgKZUF0bAE7gG
 shortcode: syphrnsvrnls
 img: icons/person.svg
-portrait: images/being/syphrnsvrnls-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/syphrnsvrnls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gladiator
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 37
   birthday: 683/10/25
-  height:
-    m: 1.88
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -40,16 +42,10 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a moon on the neck
-gear:
-  weapons:
-    - Gladius (short sword)
-  armor:
-    - Leather and metal bracers
-  misc:
-    - Leather belt pouch
-    - Arena training gear
-    - wpnsup
-    - trophies from past victories
+social:
+  station: soldiery
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

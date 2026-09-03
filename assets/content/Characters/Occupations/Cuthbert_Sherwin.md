@@ -15,23 +15,25 @@ id: 6sChDStSz8rGIFCf
 folder: elH5NDPUuiRCICrE
 shortcode: cthbrtshrwn
 img: icons/person.svg
-portrait: images/being/cthbrtshrwn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/cthbrtshrwn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: male
+  species: null
   age: 52
   birthday: 668/2/29
-  height:
-    m: 1.8
-  weight:
-    kg: 82
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 82
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: dark_blonde
@@ -39,16 +41,10 @@ traits:
     complexion: fair
     extra_features:
       - a scar running down the back
-gear:
-  weapons:
-    - Heavy axe
-  armor:
-    - Leather vest
-  misc:
-    - Large canvas bag
-    - Saw
-    - rope
-    - sapling seeds for replanting
+social:
+  station: common_folk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -525,12 +521,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

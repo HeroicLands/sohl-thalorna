@@ -15,38 +15,35 @@ id: zGccciTvZEHDjM5G
 folder: elH5NDPUuiRCICrE
 shortcode: godabarnwl
 img: icons/person.svg
-portrait: images/being/godabarnwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/godabarnwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 29
   birthday: 695/4/11
-  height:
-    m: 1.7
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.7
+  weight: 65
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: fair
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Stylish work clothes
-  misc:
-    - Small bag for personal items
-    - Pottery wheel
-    - kiln
-    - variety of glazes and brushes
+social:
+  station: tradesfolk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -524,12 +521,6 @@ sohl:
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

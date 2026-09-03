@@ -16,38 +16,35 @@ id: sozSptQLxEJHwBVJ
 folder: 4cwfdMa34UryZqPR
 shortcode: brynlflwyn
 img: icons/person.svg
-portrait: images/being/brynlflwyn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brynlflwyn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 27
   birthday: 693/3/12
-  height:
-    m: 1.75
-  weight:
-    kg: 68
-  build:
-    frame: light
+  height: 1.75
+  weight: 68
+  frame: light
   appearance:
     eye_color: blue
     hair_color: red
     skin_color: fair
     complexion: smooth
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Woven cloak
-  misc:
-    - Burlap sack for carrying toys
-    - Wooden carving tools
-    - plant-based dyes
-    - straw for stuffing
+social:
+  station: tradesfolk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

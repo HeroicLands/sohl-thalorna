@@ -16,29 +16,25 @@ id: BomCu7u0xgOlNbPW
 folder: UFBfgKZUF0bAE7gG
 shortcode: erythnslnds
 img: icons/person.svg
-portrait: images/being/erythnslnds-portrait.webp
 type: being
-thalorna:
-  realm: hlykngdmnrtm
-  region: vylariargn
-social:
+data:
+  portrait: images/being/erythnslnds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - hlykngdmnrtm
   gender: male
+  species: null
   age: 32
   birthday: 688/9/7
-  height:
-    m: 1.85
-  weight:
-    kg: 80.7
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80.7
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
@@ -46,6 +42,9 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a serpent on the back
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

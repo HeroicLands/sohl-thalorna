@@ -16,8 +16,34 @@ id: pTNOxSvYuw4eXF5r
 folder: Ka9XqaF27b0I3Gmq
 shortcode: dagmrwndrr
 img: icons/person.svg
-portrait: images/being/dagmrwndrr-portrait.webp
 type: being
+data:
+  portrait: images/being/dagmrwndrr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Skald
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
+  gender: male
+  species: null
+  age: 30
+  birthday: 690/2/6
+  height: 1.7
+  weight: 63.5
+  frame: light
+  appearance:
+    eye_color: green
+    hair_color: brown
+    skin_color: light
+    complexion: null
+    extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:
@@ -522,33 +548,6 @@ sohl:
         value: 100
         durability: 3
     - { shortcode: backpk, type: containergear }
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
-  occupation: Skald
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
-  gender: male
-  age: 30
-  birthday: 690/2/6
-  height:
-    m: 1.7
-  weight:
-    kg: 63.5
-  build:
-    frame: light
-  appearance:
-    eye_color: green
-    hair_color: brown
-    skin_color: light
-    complexion: ""
-    extra_features: []
 ---
 
 # Appearance {#appearance}

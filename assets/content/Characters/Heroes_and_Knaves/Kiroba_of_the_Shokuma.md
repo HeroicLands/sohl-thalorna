@@ -17,35 +17,34 @@ id: 5l2XBtKG8RPHxPsW
 folder: 5ECInZ91R1WeEtYz
 shortcode: kirobashkm
 img: icons/person.svg
-portrait: images/being/kirobashkm-portrait.webp
 type: being
-thalorna:
-  realm: okharis
-  region: okharisrgn
-social:
+data:
+  portrait: images/being/kirobashkm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - okharisrgn
+  affiliations:
+    - okharis
   gender: male
+  species: null
   age: 28
   birthday: 692/2/2
-  height:
-    m: 1.8
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.8
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: noble
 sohl:
   archetype: null
   body:

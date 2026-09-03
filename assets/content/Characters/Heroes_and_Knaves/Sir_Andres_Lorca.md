@@ -18,35 +18,34 @@ id: wjpyASdgdi32ZXfT
 folder: 9t9O4iB5cYJtSaTG
 shortcode: srndrslrcknghtwstrnmrchs
 img: icons/person.svg
-portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Knight Bachelor)
-  station: soldiery
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 44
   birthday: 676/10/8
-  height:
-    m: 1.85
-  weight:
-    kg: 99.8
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 99.8
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: olive_tanned
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: soldiery
+  class: noble
 sohl:
   archetype: null
   body:

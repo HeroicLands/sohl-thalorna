@@ -16,39 +16,35 @@ id: uPrp9hbVlFHy6Jhq
 folder: gpXd1anXulwRWZqn
 shortcode: sharnthmdn
 img: icons/person.svg
-portrait: images/being/sharnthmdn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sharnthmdn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - athenikos
   gender: female
+  species: null
   age: 28
   birthday: 696/2/9
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: warm
     complexion: olive_toned
     extra_features: []
-gear:
-  weapons:
-    - Lightweight pickaxe
-  armor:
-    - Simple work clothes
-  misc:
-    - Small satchel for personal items
-    - Safety gear
-    - lantern
-    - mining tools
+social:
+  station: common_folk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: athenikos
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

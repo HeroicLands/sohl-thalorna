@@ -14,36 +14,35 @@ id: hwF1FvYG8pTuJkwE
 folder: heI5Ky6Kqmb61L6c
 shortcode: rznshmrvrn
 img: icons/person.svg
-portrait: images/being/rznshmrvrn-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/rznshmrvrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: female
+  species: null
   age: 34
   birthday: 686/8/22
-  height:
-    m: 1.7
-  weight:
-    kg: 65.3
-  build:
-    frame: light
+  height: 1.7
+  weight: 65.3
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left thigh
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:

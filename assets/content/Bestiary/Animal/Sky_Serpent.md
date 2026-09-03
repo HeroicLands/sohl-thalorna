@@ -9,9 +9,30 @@ name:
 description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
 id: IufOc6e3iYJZ46GV
 img: icons/game-icons/lorc/harpy.svg
-portrait: images/being/skysrpnt-portrait.webp
 shortcode: skysrpnt
 type: being
+data:
+  portrait: images/being/skysrpnt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

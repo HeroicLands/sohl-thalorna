@@ -9,9 +9,30 @@ name:
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."
 id: 3gqGlLb8DWK538oW
 img: icons/game-icons/lorc/wasp-sting.svg
-portrait: images/being/gntwsp-portrait.webp
 shortcode: gntwsp
 type: being
+data:
+  portrait: images/being/gntwsp-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -16,35 +16,34 @@ id: PpxoHMQ7KrREO9Z0
 folder: b81DHx3S7C9ep13E
 shortcode: isidrmlsns
 img: icons/person.svg
-portrait: images/being/isidrmlsns-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/isidrmlsns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 27
   birthday: 693/4/19
-  height:
-    m: 1.7
-  weight:
-    kg: 61.2
-  build:
-    frame: light
+  height: 1.7
+  weight: 61.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: olive
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

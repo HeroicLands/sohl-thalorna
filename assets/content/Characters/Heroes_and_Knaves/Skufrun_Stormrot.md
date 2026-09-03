@@ -16,35 +16,34 @@ id: eDRKhmTUeFfr53qe
 folder: Ka9XqaF27b0I3Gmq
 shortcode: skfrnstrmrt
 img: icons/person.svg
-portrait: images/being/skfrnstrmrt-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/skfrnstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: female
+  species: null
   age: 32
   birthday: 688/4/29
-  height:
-    m: 1.7
-  weight:
-    kg: 64.9
-  build:
-    frame: light
+  height: 1.7
+  weight: 64.9
+  frame: light
   appearance:
     eye_color: green
     hair_color: blonde
     skin_color: pale
     complexion: fair
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

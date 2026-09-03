@@ -9,9 +9,30 @@ name:
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."
 id: CkpnCdKnSiNWnnjO
 img: icons/game-icons/skoll/troll.svg
-portrait: images/being/mntntrll-portrait.webp
 shortcode: mntntrll
 type: being
+data:
+  portrait: images/being/mntntrll-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

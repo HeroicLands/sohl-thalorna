@@ -9,9 +9,30 @@ name:
 description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
 id: S7yW1LZ9GR7D7Zdg
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/grmshdw-portrait.webp
 shortcode: grmshdw
 type: being
+data:
+  portrait: images/being/grmshdw-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

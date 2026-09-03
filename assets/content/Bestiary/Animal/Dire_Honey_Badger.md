@@ -9,9 +9,30 @@ name:
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."
 id: yfdwPLNfDfwLHV8b
 img: icons/game-icons/caro-asercion/badger.svg
-portrait: images/being/drhnybdg-portrait.webp
 shortcode: drhnybdg
 type: being
+data:
+  portrait: images/being/drhnybdg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

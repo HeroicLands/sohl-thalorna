@@ -16,38 +16,35 @@ id: XBolZ9SHDdJp62hD
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tharicstrn
 img: icons/person.svg
-portrait: images/being/tharicstrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tharicstrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 27
   birthday: 693/9/21
-  height:
-    m: 1.73
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.73
+  weight: 65
+  frame: light
   appearance:
     eye_color: amber
     hair_color: gray
     skin_color: olive
     complexion: battle_scarred
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Thin linen dress
-  misc:
-    - Basket for carrying household items
-    - Cleaning rags
-    - wooden hairbrush
-    - small keepsake from her home
+social:
+  station: common_folk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -525,12 +522,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

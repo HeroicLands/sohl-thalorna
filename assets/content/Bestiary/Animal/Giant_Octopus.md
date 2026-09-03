@@ -9,9 +9,30 @@ name:
 description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
 id: ZlKGP4V2B881MIoc
 img: icons/game-icons/lorc/octopus.svg
-portrait: images/being/gntoctps-portrait.webp
 shortcode: gntoctps
 type: being
+data:
+  portrait: images/being/gntoctps-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

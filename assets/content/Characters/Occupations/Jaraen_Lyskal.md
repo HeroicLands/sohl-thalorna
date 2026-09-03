@@ -16,23 +16,25 @@ id: wZqvr4MS4rJaH8mf
 folder: J9R0fnGUTBY5z4pd
 shortcode: jaranlyskl
 img: icons/person.svg
-portrait: images/being/jaranlyskl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jaranlyskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 39
   birthday: 681/4/4
-  height:
-    m: 1.68
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.68
+  weight: 60
+  frame: light
   appearance:
     eye_color: brown
     hair_color: chestnut
@@ -40,15 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - a scar running down the right leg
-gear:
-  weapons: []
-  armor:
-    - Thick woolen apron
-  misc:
-    - Wooden crate for toy supplies
-    - Carving tools
-    - paintbrushes
-    - wooden blocks
+social:
+  station: tradesfolk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

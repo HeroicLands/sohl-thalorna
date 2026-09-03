@@ -16,23 +16,25 @@ id: JTuyMHsDGMBgYSh2
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hlbjrnsgrnd
 img: icons/person.svg
-portrait: images/being/hlbjrnsgrnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hlbjrnsgrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hunter
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 34
   birthday: 690/4/15
-  height:
-    m: 1.85
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: auburn
@@ -40,16 +42,10 @@ traits:
     complexion: rough
     extra_features:
       - a scar on the back of the left arm
-gear:
-  weapons:
-    - Hunting spear
-  armor:
-    - Leather tunic
-  misc:
-    - Leather satchel for tools
-    - Quiver of arrows
-    - hunting traps
-    - whistle for calling dogs
+social:
+  station: tradesfolk
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,23 +16,25 @@ id: u5IfijoySjTneAAv
 folder: PuQFDMkRM9i60i5Z
 shortcode: tshrnbrnsh
 img: icons/person.svg
-portrait: images/being/tshrnbrnsh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tshrnbrnsh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Swordmaster
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 50
   birthday: 670/2/4
-  height:
-    m: 1.83
-  weight:
-    kg: 84
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 84
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: gray
@@ -40,16 +42,10 @@ traits:
     complexion: weathered
     extra_features:
       - a scar running down the back
-gear:
-  weapons:
-    - Bastard sword
-  armor:
-    - Chainmail
-  misc:
-    - Leather scabbard
-    - wpnsup
-    - wooden practice swords
-    - eye patch
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 33 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

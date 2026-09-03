@@ -16,23 +16,25 @@ id: tVvovXkeGOhHGm5X
 folder: UFBfgKZUF0bAE7gG
 shortcode: lagrxrznds
 img: icons/person.svg
-portrait: images/being/lagrxrznds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lagrxrznds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Fool
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 27
   birthday: 697/1/4
-  height:
-    m: 1.73
-  weight:
-    kg: 69
-  build:
-    frame: light
+  height: 1.73
+  weight: 69
+  frame: light
   appearance:
     eye_color: brown
     hair_color: brown
@@ -40,16 +42,10 @@ traits:
     complexion: sallow
     extra_features:
       - a scar on the right elbow
-gear:
-  weapons:
-    - Simple dagger (for show)
-  armor:
-    - Colorful dress
-  misc:
-    - Small pouch for tricks
-    - Props for tricks
-    - musical instruments
-    - small mirror
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 17 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 16 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

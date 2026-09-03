@@ -16,35 +16,34 @@ id: XXiPdWrbAZaXkOY9
 folder: JotxZnnXcTECeYW3
 shortcode: cndrthrchrymkhysvr
 img: icons/person.svg
-portrait: images/being/cndrthrchrymkhysvr-portrait.webp
 type: being
-thalorna:
-  realm: rajaprjnpd
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/cndrthrchrymkhysvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - rajaprjnpd
   gender: male
+  species: null
   age: 52
   birthday: 668/3/17
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_brown
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

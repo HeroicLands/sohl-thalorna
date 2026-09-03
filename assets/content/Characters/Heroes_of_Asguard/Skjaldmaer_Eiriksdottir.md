@@ -17,29 +17,35 @@ id: NmwOdGbbT4nruZhH
 folder: Ka9XqaF27b0I3Gmq
 shortcode: skjldmrrksdtr
 img: icons/person.svg
-portrait: images/being/skjldmrrksdtr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/skjldmrrksdtr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shieldmaiden
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 32
   birthday: 688/6/10
-  height:
-    m: 1.82
-  weight:
-    kg: 89
-  build:
-    frame: massive
+  height: 1.82
+  weight: 89
+  frame: massive
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: pale
     complexion: weathered
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

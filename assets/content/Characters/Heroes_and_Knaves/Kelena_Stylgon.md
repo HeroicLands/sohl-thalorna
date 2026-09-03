@@ -16,35 +16,34 @@ id: dcR8CKR8PUfUxVVF
 folder: J9R0fnGUTBY5z4pd
 shortcode: kelnstylgn
 img: icons/person.svg
-portrait: images/being/kelnstylgn-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/kelnstylgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 32
   birthday: 688/4/6
-  height:
-    m: 1.7
-  weight:
-    kg: 59.4
-  build:
-    frame: heavy
+  height: 1.7
+  weight: 59.4
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: freeman
 sohl:
   archetype: null
   body:

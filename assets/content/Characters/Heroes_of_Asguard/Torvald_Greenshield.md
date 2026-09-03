@@ -16,29 +16,35 @@ id: pTeGY4ZF40gbIFT7
 folder: Ka9XqaF27b0I3Gmq
 shortcode: trvldgrnshld
 img: icons/person.svg
-portrait: images/being/trvldgrnshld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/trvldgrnshld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer and Protector
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 43
   birthday: 677/3/7
-  height:
-    m: 1.84
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.84
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: brown
     skin_color: fair
     complexion: ruddy
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

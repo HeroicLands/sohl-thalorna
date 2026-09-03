@@ -16,39 +16,35 @@ id: f2v2R2Iy9uOT4WF3
 folder: 4cwfdMa34UryZqPR
 shortcode: sdrkmrlnth
 img: icons/person.svg
-portrait: images/being/sdrkmrlnth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sdrkmrlnth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gaoler
-  station: soldiery
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 49
   birthday: 671/1/14
-  height:
-    m: 1.91
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Heavy baton
-  armor:
-    - Leather armor
-  misc:
-    - Iron key ring
-    - Shackles
-    - torch
-    - whistle for signaling
+social:
+  station: soldiery
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

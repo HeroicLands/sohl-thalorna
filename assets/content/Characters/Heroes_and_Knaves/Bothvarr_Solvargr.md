@@ -16,29 +16,25 @@ id: V5HnPNXCvbny78Mm
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bthvrslvrgr
 img: icons/person.svg
-portrait: images/being/bthvrslvrgr-portrait.webp
 type: being
-thalorna:
-  realm: kingdomlgn
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/bthvrslvrgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdomlgn
   gender: male
+  species: null
   age: 42
   birthday: 678/2/28
-  height:
-    m: 1.91
-  weight:
-    kg: 89.4
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 89.4
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: gray
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a lion's mane on the chest
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

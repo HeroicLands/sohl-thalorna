@@ -16,29 +16,35 @@ id: 8ZmZXqZ3szmBuY4r
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrthgrrnfst
 img: icons/person.svg
-portrait: images/being/hrthgrrnfst-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrthgrrnfst-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Blacksmith and Warrior
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 44
   birthday: 676/10/1
-  height:
-    m: 1.77
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.77
+  weight: 60
+  frame: light
   appearance:
     eye_color: gray
     hair_color: brown
     skin_color: fair
     complexion: ruddy
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

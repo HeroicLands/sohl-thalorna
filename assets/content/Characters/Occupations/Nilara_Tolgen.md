@@ -16,23 +16,25 @@ id: uquhXz3G0aQ3IDAd
 folder: J9R0fnGUTBY5z4pd
 shortcode: nilaratlgn
 img: icons/person.svg
-portrait: images/being/nilaratlgn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/nilaratlgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 27
   birthday: 693/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 73
-  build:
-    frame: light
+  height: 1.78
+  weight: 73
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: chestnut
@@ -40,16 +42,10 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a spider on the shoulder
-gear:
-  weapons:
-    - Shortbow
-  armor:
-    - Leather armor
-  misc:
-    - Quiver for arrows
-    - Hunting knife
-    - spare arrows
-    - map of the local area
+social:
+  station: soldiery
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 15 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

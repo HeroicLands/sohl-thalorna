@@ -16,23 +16,25 @@ id: eECXxGLgCGo8NcUY
 folder: PuQFDMkRM9i60i5Z
 shortcode: qirushtarz
 img: icons/person.svg
-portrait: images/being/qirushtarz-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/qirushtarz-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hideworker
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 41
   birthday: 683/9/14
-  height:
-    m: 1.8
-  weight:
-    kg: 76
-  build:
-    frame: medium
+  height: 1.8
+  weight: 76
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,16 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar running down the right leg
-gear:
-  weapons:
-    - Leather knife
-  armor:
-    - Leather apron
-  misc:
-    - Wooden chest for tools
-    - Tanning supplies
-    - dye
-    - and stitching materials
+social:
+  station: tradesfolk
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,29 +16,25 @@ id: 8cGFS7lwMpacShaL
 folder: b81DHx3S7C9ep13E
 shortcode: athngrsktkls
 img: icons/person.svg
-portrait: images/being/athngrsktkls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/athngrsktkls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 36
   birthday: 684/6/14
-  height:
-    m: 1.83
-  weight:
-    kg: 82.1
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 82.1
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a rose vine on the leg
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

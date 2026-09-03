@@ -16,23 +16,25 @@ id: Y8deQOzxGZVRk8bj
 folder: PuQFDMkRM9i60i5Z
 shortcode: aruzankamm
 img: icons/person.svg
-portrait: images/being/aruzankamm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aruzankamm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 35
   birthday: 689/6/30
-  height:
-    m: 1.88
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,16 +42,10 @@ traits:
     complexion: medium
     extra_features:
       - a scar on the right forearm
-gear:
-  weapons:
-    - Heavy club
-  armor:
-    - Chainmail
-  misc:
-    - Large pack for supplies
-    - Shield
-    - basic first aid kit
-    - protective gear
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

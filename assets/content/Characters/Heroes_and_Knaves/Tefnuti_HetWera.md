@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: tefnuthtwr
 img: icons/person.svg
-portrait: images/being/tefnuthtwr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/tefnuthtwr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 51
   birthday: 669/6/27
-  height:
-    m: 1.78
-  weight:
-    kg: 69.4
-  build:
-    frame: medium
+  height: 1.78
+  weight: 69.4
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: gray
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

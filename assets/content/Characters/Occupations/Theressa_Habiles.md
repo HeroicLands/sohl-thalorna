@@ -16,23 +16,25 @@ id: shKRIy5z0w9XZjsc
 folder: gpXd1anXulwRWZqn
 shortcode: thereshbls
 img: icons/person.svg
-portrait: images/being/thereshbls-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thereshbls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Prostitute
-  station: underworld
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - theradon
   gender: female
+  species: null
   age: 34
   birthday: 690/9/20
-  height:
-    m: 1.8
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.8
+  weight: 68
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
@@ -40,14 +42,10 @@ traits:
     complexion: clear
     extra_features:
       - a tattoo of a butterfly on the neck
-gear:
-  weapons: []
-  armor:
-    - Simple clothing suitable for her work
-  misc:
-    - Small satchel for personal items
-    - Basic hygiene items
-    - small gifts for her children
+social:
+  station: underworld
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -525,12 +523,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: theradon
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

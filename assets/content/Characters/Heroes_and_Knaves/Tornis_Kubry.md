@@ -15,38 +15,35 @@ id: q1U2hLtb9m4uuzGK
 folder: 9t9O4iB5cYJtSaTG
 shortcode: torniskbry
 img: icons/person.svg
-portrait: images/being/torniskbry-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/torniskbry-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scout / Spy
-  station: soldiery
-  class: unguilded
-  society: ""
-  organizations:
-    - silent-talon
-harnworld:
-  realm: ""
-  ritual:
-    - Larani
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - slntlncmpny
+    - kingdmtrvn
   gender: male
+  species: null
   age: 30
   birthday: 686/3/16
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: soldiery
+  class: unguilded
 sohl:
   archetype: null
   body:

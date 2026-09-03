@@ -16,23 +16,25 @@ id: JxhWrKoZB2JX0NNR
 folder: Nu7AgLZEmR26u2pk
 shortcode: frthgrvthrnd
 img: icons/person.svg
-portrait: images/being/frthgrvthrnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/frthgrvthrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 42
   birthday: 678/9/22
-  height:
-    m: 1.88
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: red
@@ -40,16 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the left ear
-gear:
-  weapons:
-    - Long spear
-  armor:
-    - Chainmail
-  misc:
-    - Leather satchel for gear
-    - Shield
-    - healing salves
-    - maps
+social:
+  station: soldiery
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

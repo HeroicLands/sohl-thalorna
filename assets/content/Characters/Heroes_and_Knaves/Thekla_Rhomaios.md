@@ -16,35 +16,34 @@ id: Az5pxgK7QZddXlN1
 folder: b81DHx3S7C9ep13E
 shortcode: theklarhms
 img: icons/person.svg
-portrait: images/being/theklarhms-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/theklarhms-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 29
   birthday: 691/3/4
-  height:
-    m: 1.78
-  weight:
-    kg: 77.6
-  build:
-    frame: medium
+  height: 1.78
+  weight: 77.6
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

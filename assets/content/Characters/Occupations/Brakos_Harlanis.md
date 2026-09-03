@@ -16,23 +16,25 @@ id: NbrnTP3fAbnFbmOH
 folder: UFBfgKZUF0bAE7gG
 shortcode: brakshrlns
 img: icons/person.svg
-portrait: images/being/brakshrlns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/brakshrlns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 25
   birthday: 695/3/23
-  height:
-    m: 1.62
-  weight:
-    kg: 52
-  build:
-    frame: scant
+  height: 1.62
+  weight: 52
+  frame: scant
   appearance:
     eye_color: honey_brown
     hair_color: red
@@ -40,20 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - tattoo on arm
-gear:
-  weapons:
-    - BrdSwd:1
-    - MShirt:1
-    - LtShirt:1
-  armor:
-    - MShirt:1
-    - LtShirt:1
-    - torch:2
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
+social:
+  station: soldiery
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -510,12 +502,6 @@ sohl:
     - { shortcode: ridg, type: skill, system: { masteryLevelBase: 27 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

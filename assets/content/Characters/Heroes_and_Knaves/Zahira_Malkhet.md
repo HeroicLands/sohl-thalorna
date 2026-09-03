@@ -18,35 +18,34 @@ id: y9DjC9T3RB04prDK
 folder: pRBSOhf2qVrV1SQB
 shortcode: zahirmlkht
 img: icons/person.svg
-portrait: images/being/zahirmlkht-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/zahirmlkht-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bounty Hunter
-  station: soldiery
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 28
   birthday: 692/12/3
-  height:
-    m: 1.7
-  weight:
-    kg: 68
-  build:
-    frame: heavy
+  height: 1.7
+  weight: 68
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
     complexion: tanned
     extra_features: []
+social:
+  station: soldiery
+  class: free
 sohl:
   archetype: null
   body:

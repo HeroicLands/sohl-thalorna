@@ -16,35 +16,34 @@ id: 1t4ij9G8873glDfp
 folder: V1t8DVX0wKSOCJd5
 shortcode: faradunfrn
 img: icons/person.svg
-portrait: images/being/faradunfrn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/faradunfrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: male
+  species: null
   age: 42
   birthday: 678/7/7
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 78
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: common_folk
+  class: guilded
 sohl:
   archetype: null
   body:

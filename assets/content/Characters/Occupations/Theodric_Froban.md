@@ -16,39 +16,35 @@ id: cMjRC8xxCWeKiHxz
 folder: Nu7AgLZEmR26u2pk
 shortcode: thdrcfrdbn
 img: icons/person.svg
-portrait: images/being/thdrcfrdbn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thdrcfrdbn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 36
   birthday: 688/4/15
-  height:
-    m: 1.91
-  weight:
-    kg: 90
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 90
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: blonde
     skin_color: fair
     complexion: rough
     extra_features: []
-gear:
-  weapons:
-    - Pickaxe (for mining)
-  armor:
-    - Heavy work clothes
-  misc:
-    - Leather satchel for personal items
-    - Mining tools
-    - safety gear
-    - lantern
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

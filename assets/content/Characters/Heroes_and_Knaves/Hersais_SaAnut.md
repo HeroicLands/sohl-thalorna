@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
 img: icons/person.svg
-portrait: images/being/hersaisant-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/hersaisant-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Tenant-in-chief)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 48
   birthday: 672/4/20
-  height:
-    m: 1.88
-  weight:
-    kg: 85.3
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85.3
+  frame: heavy
   appearance:
     eye_color: dark_amber
     hair_color: black
     skin_color: olive
     complexion: weathered
     extra_features: []
+social:
+  station: administration
+  class: noble
 sohl:
   archetype: null
   body:

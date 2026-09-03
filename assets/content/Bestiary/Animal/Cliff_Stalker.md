@@ -9,9 +9,30 @@ name:
 description: "A massive solitary mountain feline built for vertical terrain and patient precision ambush, far larger than any snow leopard."
 id: A2bZirKOMgCcZ7qS
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/clffstlk-portrait.webp
 shortcode: clffstlk
 type: being
+data:
+  portrait: images/being/clffstlk-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

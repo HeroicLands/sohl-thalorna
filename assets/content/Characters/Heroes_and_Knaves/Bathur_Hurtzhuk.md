@@ -21,6 +21,28 @@ description: >-
   Tānvür — a master strategist whose steppe confederation has become the
   gravest external threat the imperial frontier has faced in a generation.
 type: being
+data:
+  portrait: null
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   archetype: null
 ---

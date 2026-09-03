@@ -17,29 +17,35 @@ id: Ps4lfDePe0mQJBIZ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: grmsvrtrnr
 img: icons/person.svg
-portrait: images/being/grmsvrtrnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/grmsvrtrnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Necromancer
-  station: mages
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 73
   birthday: 647/3/28
-  height:
-    m: 1.84
-  weight:
-    kg: 91
-  build:
-    frame: heavy
+  height: 1.84
+  weight: 91
+  frame: heavy
   appearance:
     eye_color: black
     hair_color: black
     skin_color: pale
     complexion: sallow
     extra_features: []
+social:
+  station: mages
+  class: unguilded
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

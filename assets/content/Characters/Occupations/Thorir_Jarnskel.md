@@ -16,23 +16,25 @@ id: xBe8Q6vNuQ2hU5tG
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrrjrnskl
 img: icons/person.svg
-portrait: images/being/thrrjrnskl-portrait.webp
 type: being
-social:
-  occupation: "Mage (Spirit)"
-  station: mages
-  class: guilded
-  society: Nordheimn
-traits:
+data:
+  portrait: images/being/thrrjrnskl-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Spirit)
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 54
   birthday: 666/4/27
-  height:
-    m: 1.63
-  weight:
-    kg: 56
-  build:
-    frame: medium
+  height: 1.63
+  weight: 56
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
@@ -40,16 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a dolphin on the left wrist
-gear:
-  weapons:
-    - relies on magic
-  armor:
-    - Robes with concealed enchantments
-  misc:
-    - Satchel for magical texts
-    - Spellbook
-    - arcane focus
-    - magical reagents
+social:
+  station: mages
+  class: guilded
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
     - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 48 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

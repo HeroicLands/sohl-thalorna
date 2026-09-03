@@ -16,23 +16,25 @@ id: DVMxASJ6EWIZQ0nW
 folder: Nu7AgLZEmR26u2pk
 shortcode: frdwyndmhr
 img: icons/person.svg
-portrait: images/being/frdwyndmhr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/frdwyndmhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: noble
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 38
   birthday: 686/4/5
-  height:
-    m: 1.73
-  weight:
-    kg: 65
-  build:
-    frame: medium
+  height: 1.73
+  weight: 65
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_blonde
@@ -40,15 +42,10 @@ traits:
     complexion: freckled
     extra_features:
       - a scar running across the stomach
-gear:
-  weapons: []
-  armor:
-    - Elegant robes suitable for academic settings
-  misc:
-    - Small satchel for research notes
-    - Herb samples
-    - laboratory equipment
-    - reference books
+social:
+  station: tradesfolk
+  class: noble
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -531,12 +528,6 @@ sohl:
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 68 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

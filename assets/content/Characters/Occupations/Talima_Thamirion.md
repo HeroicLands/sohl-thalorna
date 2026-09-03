@@ -16,39 +16,35 @@ id: vevgJRysqU2Q96M3
 folder: gpXd1anXulwRWZqn
 shortcode: talimthmrn
 img: icons/person.svg
-portrait: images/being/talimthmrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/talimthmrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms (Sapper)
-  station: soldiery
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - korinthea
   gender: female
+  species: null
   age: 26
   birthday: 698/4/3
-  height:
-    m: 1.73
-  weight:
-    kg: 63
-  build:
-    frame: light
+  height: 1.73
+  weight: 63
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: medium
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Light leather armor
-  misc:
-    - Tool belt for supplies
-    - Basic explosives
-    - measuring tools
-    - map
+social:
+  station: soldiery
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: korinthea
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

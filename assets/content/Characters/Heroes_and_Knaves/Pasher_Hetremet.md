@@ -16,29 +16,25 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
 img: icons/person.svg
-portrait: images/being/pashrhtrmt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/pashrhtrmt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Lyre)
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/2/8
-  height:
-    m: 1.85
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.85
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the left eye
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

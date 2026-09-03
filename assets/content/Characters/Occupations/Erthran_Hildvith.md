@@ -15,39 +15,35 @@ id: vwSDrtqohUmuhVI8
 folder: Nu7AgLZEmR26u2pk
 shortcode: erthrnhldvth
 img: icons/person.svg
-portrait: images/being/erthrnhldvth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/erthrnhldvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 44
   birthday: 676/9/8
-  height:
-    m: 1.83
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.83
+  weight: 82
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Hunting knife
-  armor:
-    - Leather cloak
-  misc:
-    - Leather satchel for traps
-    - Animal traps
-    - snares
-    - dried meat
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

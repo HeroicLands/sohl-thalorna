@@ -16,36 +16,35 @@ id: eGECK7DL3dikpz5l
 folder: JotxZnnXcTECeYW3
 shortcode: suvrtkrtns
 img: icons/person.svg
-portrait: images/being/suvrtkrtns-portrait.webp
 type: being
-thalorna:
-  realm: chandrapur
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/suvrtkrtns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - chandrapur
   gender: female
+  species: null
   age: 39
   birthday: 681/4/4
-  height:
-    m: 1.68
-  weight:
-    kg: 59.9
-  build:
-    frame: light
+  height: 1.68
+  weight: 59.9
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar running down the right leg
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

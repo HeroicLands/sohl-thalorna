@@ -16,23 +16,25 @@ id: YSgy3c2Eom06Dwt0
 folder: PuQFDMkRM9i60i5Z
 shortcode: esharumlrm
 img: icons/person.svg
-portrait: images/being/esharumlrm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/esharumlrm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 29
   birthday: 691/9/18
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: light
+  height: 1.7
+  weight: 64
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,15 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a tattoo of a waterfall on the shoulder
-gear:
-  weapons: []
-  armor:
-    - Formal uniform
-  misc:
-    - Leather pouch for tips
-    - Silver tray
-    - white gloves
-    - pocket watch
+social:
+  station: common_folk
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

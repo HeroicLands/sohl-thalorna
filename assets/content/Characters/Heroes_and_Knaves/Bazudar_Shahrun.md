@@ -16,29 +16,25 @@ id: wjLn1VqrmO3CHSZU
 folder: heI5Ky6Kqmb61L6c
 shortcode: bazdrshhrn
 img: icons/person.svg
-portrait: images/being/bazdrshhrn-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/bazdrshhrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Animal Trainer
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: male
+  species: null
   age: 45
   birthday: 675/2/8
-  height:
-    m: 1.91
-  weight:
-    kg: 83
-  build:
-    frame: medium
+  height: 1.91
+  weight: 83
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a woman on the shoulder
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

@@ -9,9 +9,30 @@ name:
 description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
 id: KwgKiSFDeCgFjebo
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/strcrwlr-portrait.webp
 shortcode: strcrwlr
 type: being
+data:
+  portrait: images/being/strcrwlr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

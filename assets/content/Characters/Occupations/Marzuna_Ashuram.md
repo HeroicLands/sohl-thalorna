@@ -16,39 +16,35 @@ id: TBkSCwCcU36wNBrO
 folder: PuQFDMkRM9i60i5Z
 shortcode: marzunshrm
 img: icons/person.svg
-portrait: images/being/marzunshrm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/marzunshrm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bodyguard
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 29
   birthday: 695/1/15
-  height:
-    m: 1.91
-  weight:
-    kg: 86
-  build:
-    frame: medium
+  height: 1.91
+  weight: 86
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: golden
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Short sword
-  armor:
-    - Leather armor
-  misc:
-    - Small pack for personal items
-    - Shield
-    - first aid kit
-    - survival gear
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

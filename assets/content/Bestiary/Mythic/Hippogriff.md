@@ -10,9 +10,30 @@ name:
 description: "A five-hundred-pound eagle-and-horse hybrid prized for balance over raw power, lacking the gryphon's fierce territorial aggression."
 id: 9JVkmvPhZ6b3UtGU
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/hppgryph-portrait.webp
 shortcode: hppgryph
 type: being
+data:
+  portrait: images/being/hppgryph-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

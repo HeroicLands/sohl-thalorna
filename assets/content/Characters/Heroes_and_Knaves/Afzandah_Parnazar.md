@@ -16,36 +16,35 @@ id: DpKTLyMGMTZ1lJ2E
 folder: heI5Ky6Kqmb61L6c
 shortcode: afzndhprnzr
 img: icons/person.svg
-portrait: images/being/afzndhprnzr-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/afzndhprnzr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: female
+  species: null
   age: 33
   birthday: 687/4/16
-  height:
-    m: 1.73
-  weight:
-    kg: 70.8
-  build:
-    frame: medium
+  height: 1.73
+  weight: 70.8
+  frame: medium
   appearance:
     eye_color: green
     hair_color: black
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left ankle
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

@@ -16,35 +16,34 @@ id: FlkeLYuSgvdRipj3
 folder: kCKYObmsvraIezCd
 shortcode: shadzrkmrz
 img: icons/person.svg
-portrait: images/being/shadzrkmrz-portrait.webp
 type: being
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-social:
+data:
+  portrait: images/being/shadzrkmrz-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: male
+  species: null
   age: 49
   birthday: 671/4/8
-  height:
-    m: 1.96
-  weight:
-    kg: 98.4
-  build:
-    frame: heavy
+  height: 1.96
+  weight: 98.4
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
     complexion: ruddy
     extra_features: []
+social:
+  station: administration
+  class: freeman
 sohl:
   archetype: null
   body:

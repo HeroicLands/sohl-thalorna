@@ -16,29 +16,25 @@ id: QN3ixBlCs7Ho4lzi
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrjlfvtrdmr
 img: icons/person.svg
-portrait: images/being/hrjlfvtrdmr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/hrjlfvtrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 46
   birthday: 674/10/17
-  height:
-    m: 1.96
-  weight:
-    kg: 92.1
-  build:
-    frame: heavy
+  height: 1.96
+  weight: 92.1
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar along the jawline
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

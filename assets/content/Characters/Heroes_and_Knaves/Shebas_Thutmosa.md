@@ -15,36 +15,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: shebsthtms
 img: icons/person.svg
-portrait: images/being/shebsthtms-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/shebsthtms-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 34
   birthday: 686/5/21
-  height:
-    m: 1.7
-  weight:
-    kg: 61.2
-  build:
-    frame: light
+  height: 1.7
+  weight: 61.2
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left arm
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

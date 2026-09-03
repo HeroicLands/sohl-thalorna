@@ -16,29 +16,25 @@ id: CKhqAnKWmu18wZ1L
 folder: UFBfgKZUF0bAE7gG
 shortcode: brnksksrns
 img: icons/person.svg
-portrait: images/being/brnksksrns-portrait.webp
 type: being
-thalorna:
-  realm: hlykngdmnrtm
-  region: vylariargn
-social:
+data:
+  portrait: images/being/brnksksrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - hlykngdmnrtm
   gender: male
+  species: null
   age: 51
   birthday: 669/9/2
-  height:
-    m: 1.88
-  weight:
-    kg: 83.5
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 83.5
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a tree on the forearm
+social:
+  station: common_folk
+  class: guilded
 sohl:
   archetype: null
   body:

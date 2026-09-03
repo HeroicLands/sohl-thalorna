@@ -15,39 +15,35 @@ id: asUt1LLQF3jCIEwv
 folder: elH5NDPUuiRCICrE
 shortcode: elfrdlwknr
 img: icons/person.svg
-portrait: images/being/elfrdlwknr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/elfrdlwknr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 28
   birthday: 692/4/22
-  height:
-    m: 1.78
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.78
+  weight: 72
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: auburn
     skin_color: light
     complexion: freckled
     extra_features: []
-gear:
-  weapons:
-    - Pitchfork
-  armor:
-    - Leather work boots
-  misc:
-    - Canvas bag for produce
-    - Gardening tools
-    - watering can
-    - seed packets
+social:
+  station: common_folk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -525,12 +521,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

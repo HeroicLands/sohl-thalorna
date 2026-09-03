@@ -16,23 +16,25 @@ id: I4xHG6r1kq608E9Z
 folder: J9R0fnGUTBY5z4pd
 shortcode: bldnstylgn
 img: icons/person.svg
-portrait: images/being/bldnstylgn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/bldnstylgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Skald
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 51
   birthday: 669/12/28
-  height:
-    m: 1.83
-  weight:
-    kg: 78
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 78
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: black
@@ -40,16 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the right hand
-gear:
-  weapons:
-    - Hand axe
-  armor:
-    - Fur-lined cloak
-  misc:
-    - Wooden box for scrolls
-    - Runestones
-    - ceremonial drinking cup
-    - walking stick
+social:
+  station: tradesfolk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -11,9 +11,30 @@ name:
 description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merciless patience and predatory cunning honed across centuries of frozen dominion."
 id: IHBBFMFd2LieAudc
 img: icons/game-icons/faithtoken/dragon-head.svg
-portrait: images/being/oldicdrg-portrait.webp
 shortcode: oldicdrg
 type: being
+data:
+  portrait: images/being/oldicdrg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

@@ -16,35 +16,34 @@ id: LNLKyWIEhGtW5FUc
 folder: b81DHx3S7C9ep13E
 shortcode: thmdspphnts
 img: icons/person.svg
-portrait: images/being/thmdspphnts-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/thmdspphnts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 44
   birthday: 676/9/8
-  height:
-    m: 1.83
-  weight:
-    kg: 81.6
-  build:
-    frame: medium
+  height: 1.83
+  weight: 81.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

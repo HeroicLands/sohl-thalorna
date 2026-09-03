@@ -14,29 +14,25 @@ id: skGF7W5mzTVDMTFm
 folder: kCKYObmsvraIezCd
 shortcode: mthrnshrdr
 img: icons/person.svg
-portrait: images/being/mthrnshrdr-portrait.webp
 type: being
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-social:
+data:
+  portrait: images/being/mthrnshrdr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: male
+  species: null
   age: 56
   birthday: 664/12/18
-  height:
-    m: 1.88
-  weight:
-    kg: 85.7
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85.7
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: gray
@@ -44,6 +40,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar from forehead to cheek across the left eye
+social:
+  station: administration
+  class: freeman
 sohl:
   archetype: null
   body:

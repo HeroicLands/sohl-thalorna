@@ -16,35 +16,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt
 img: icons/person.svg
-portrait: images/being/raiahsekmt-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/raiahsekmt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Weaponcrafter (Armorer)
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 55
   birthday: 665/6/12
-  height:
-    m: 1.83
-  weight:
-    kg: 79.8
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 79.8
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black
     skin_color: ebony
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
 img: icons/person.svg
-portrait: images/being/tiryedjetm-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/tiryedjetm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 29
   birthday: 691/9/10
-  height:
-    m: 1.63
-  weight:
-    kg: 55.3
-  build:
-    frame: light
+  height: 1.63
+  weight: 55.3
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

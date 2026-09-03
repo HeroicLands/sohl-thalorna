@@ -16,39 +16,35 @@ id: avXiOqkVCJTBJahe
 folder: J9R0fnGUTBY5z4pd
 shortcode: kiriszyrnd
 img: icons/person.svg
-portrait: images/being/kiriszyrnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kiriszyrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cook
-  station: common_folk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 41
   birthday: 679/2/27
-  height:
-    m: 1.78
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.78
+  weight: 73
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_brown
     skin_color: olive
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Cleaver
-  armor:
-    - Thick apron
-  misc:
-    - Clay pots for storing food
-    - Large cooking pot
-    - ladle
-    - wooden spoons
+social:
+  station: common_folk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

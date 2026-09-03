@@ -15,29 +15,25 @@ id: 84SmKjnQrLLxWImQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: skulvtrdmr
 img: icons/person.svg
-portrait: images/being/skulvtrdmr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/skulvtrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 53
   birthday: 667/2/18
-  height:
-    m: 1.83
-  weight:
-    kg: 76.7
-  build:
-    frame: medium
+  height: 1.83
+  weight: 76.7
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: gray
@@ -45,6 +41,9 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a falcon on the right arm
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

@@ -16,35 +16,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: satrrnkhns
 img: icons/person.svg
-portrait: images/being/satrrnkhns-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/satrrnkhns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 31
   birthday: 689/6/19
-  height:
-    m: 1.83
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: rich_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

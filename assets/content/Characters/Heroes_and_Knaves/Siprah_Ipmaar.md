@@ -17,36 +17,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
 img: icons/person.svg
-portrait: images/being/siprahipmr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/siprahipmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Locksmith
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 40
   birthday: 680/4/14
-  height:
-    m: 1.73
-  weight:
-    kg: 67.6
-  build:
-    frame: medium
+  height: 1.73
+  weight: 67.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

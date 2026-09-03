@@ -16,29 +16,25 @@ id: s99osv3adjS5B63L
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrkhsbrmyds
 img: icons/person.svg
-portrait: images/being/hrkhsbrmyds-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/hrkhsbrmyds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Apothecary
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: male
+  species: null
   age: 46
   birthday: 674/2/11
-  height:
-    m: 1.73
-  weight:
-    kg: 66.2
-  build:
-    frame: medium
+  height: 1.73
+  weight: 66.2
+  frame: medium
   appearance:
     eye_color: green
     hair_color: gray
@@ -46,6 +42,9 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the left calf
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

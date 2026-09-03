@@ -16,23 +16,25 @@ id: JkqH3MB9n7IWUSmT
 folder: 9t9O4iB5cYJtSaTG
 shortcode: valarnlvnr
 img: icons/person.svg
-portrait: images/being/valarnlvnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/valarnlvnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 37
   birthday: 683/5/20
-  height:
-    m: 1.75
-  weight:
-    kg: 67
-  build:
-    frame: medium
+  height: 1.75
+  weight: 67
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,15 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the left foot
-gear:
-  weapons: []
-  armor:
-    - Simple robe
-  misc:
-    - Pouch for documents
-    - Ink and quill
-    - small knife for sealing wax
-    - collection of local laws
+social:
+  station: administration
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

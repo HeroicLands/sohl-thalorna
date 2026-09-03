@@ -16,29 +16,35 @@ id: EhZ7oubLCClWzgDt
 folder: Nu7AgLZEmR26u2pk
 shortcode: astrdfrskn
 img: icons/person.svg
-portrait: images/being/astrdfrskn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/astrdfrskn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Wanderer and Warrior
-  station: soldiery
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 27
   birthday: 693/9/7
-  height:
-    m: 1.69
-  weight:
-    kg: 60
-  build:
-    frame: medium
+  height: 1.69
+  weight: 60
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: dark_brown
     skin_color: fair
     complexion: smooth
     extra_features: []
+social:
+  station: soldiery
+  class: unguilded
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

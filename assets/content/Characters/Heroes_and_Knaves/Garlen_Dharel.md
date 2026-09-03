@@ -16,29 +16,25 @@ id: cKCD0maKPSHQ03nD
 folder: 4cwfdMa34UryZqPR
 shortcode: garlendhrl
 img: icons/person.svg
-portrait: images/being/garlendhrl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/garlendhrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Hideworker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 41
   birthday: 679/9/14
-  height:
-    m: 1.8
-  weight:
-    kg: 75.7
-  build:
-    frame: medium
+  height: 1.8
+  weight: 75.7
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: tanned
     extra_features:
       - a scar running down the right leg
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

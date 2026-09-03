@@ -16,8 +16,34 @@ id: EjXww1TgpaxLD192
 folder: Ka9XqaF27b0I3Gmq
 shortcode: grosdrnrgd
 img: icons/person.svg
-portrait: images/being/grosdrnrgd-portrait.webp
 type: being
+data:
+  portrait: images/being/grosdrnrgd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Shaman
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
+  gender: female
+  species: null
+  age: 30
+  birthday: 690/6/7
+  height: 1.73
+  weight: 63.5
+  frame: light
+  appearance:
+    eye_color: blue
+    hair_color: blonde
+    skin_color: pale
+    complexion: null
+    extra_features: []
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:
@@ -538,33 +564,6 @@ sohl:
         durability: 3
     - { shortcode: bgsmcvs, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
-  occupation: Shaman
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
-  gender: female
-  age: 30
-  birthday: 690/6/7
-  height:
-    m: 1.73
-  weight:
-    kg: 63.5
-  build:
-    frame: light
-  appearance:
-    eye_color: blue
-    hair_color: blonde
-    skin_color: pale
-    complexion: ""
-    extra_features: []
 ---
 
 # Appearance {#appearance}

@@ -16,35 +16,34 @@ id: afXTPv4Ov9YCgZNC
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ermlndrknt
 img: icons/person.svg
-portrait: images/being/ermlndrknt-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrgd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/ermlndrknt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmtrgd
   gender: female
+  species: null
   age: 52
   birthday: 668/3/30
-  height:
-    m: 1.78
-  weight:
-    kg: 71.7
-  build:
-    frame: medium
+  height: 1.78
+  weight: 71.7
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown
     skin_color: light
     complexion: weathered
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

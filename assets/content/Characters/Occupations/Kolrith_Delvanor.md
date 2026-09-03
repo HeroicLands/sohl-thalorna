@@ -16,23 +16,25 @@ id: 9pnLwddsFM41PREs
 folder: 9t9O4iB5cYJtSaTG
 shortcode: klrthdlvnr
 img: icons/person.svg
-portrait: images/being/klrthdlvnr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/klrthdlvnr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 29
   birthday: 695/2/22
-  height:
-    m: 1.8
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.8
+  weight: 72
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -40,15 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - a scar on the lower abdomen
-gear:
-  weapons: []
-  armor:
-    - Flight suit suitable for racing
-  misc:
-    - Small bag for personal items
-    - Flight logbook
-    - speedometer
-    - racing maps
+social:
+  station: tradesfolk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -530,12 +527,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

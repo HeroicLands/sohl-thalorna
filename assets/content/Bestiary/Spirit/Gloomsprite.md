@@ -9,9 +9,30 @@ name:
 description: "A fey trickster of the shadow-touched borderlands who delights in puzzles and bargains, leading travelers astray to punish broken unspoken promises."
 id: TzpgPd5BTOfbWPIY
 img: icons/game-icons/delapouite/fairy.svg
-portrait: images/being/glmsprt-portrait.webp
 shortcode: glmsprt
 type: being
+data:
+  portrait: images/being/glmsprt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

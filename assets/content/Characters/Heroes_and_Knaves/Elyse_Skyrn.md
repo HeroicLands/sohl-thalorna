@@ -14,38 +14,36 @@ id: R9JqWrIVvy6hxCDo
 folder: 4cwfdMa34UryZqPR
 shortcode: elyseskyrn
 img: icons/person.svg
-portrait: images/being/elyseskyrn-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/elyseskyrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: ""
-  organizations:
-    - silent-talon
-    - ordo-arcanis
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - slntlncmpny
+    - ordoarcanis
+    - kngdmlvndr
   gender: female
+  species: null
   age: 27
   birthday: 693/11/25
-  height:
-    m: 1.68
-  weight:
-    kg: 59
-  build:
-    frame: light
+  height: 1.68
+  weight: 59
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
     complexion: freckled
     extra_features: []
+social:
+  station: mages
+  class: guilded
 sohl:
   archetype: null
   body:

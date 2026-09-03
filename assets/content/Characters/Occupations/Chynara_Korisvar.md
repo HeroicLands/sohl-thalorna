@@ -16,23 +16,25 @@ id: 5z0BGufzQgliEu7p
 folder: J9R0fnGUTBY5z4pd
 shortcode: chynrkrsvr
 img: icons/person.svg
-portrait: images/being/chynrkrsvr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/chynrkrsvr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Salter
-  station: common_folk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 33
   birthday: 691/3/20
-  height:
-    m: 1.85
-  weight:
-    kg: 79
-  build:
-    frame: medium
+  height: 1.85
+  weight: 79
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
@@ -40,15 +42,10 @@ traits:
     complexion: clear
     extra_features:
       - a scar on the lower abdomen
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes suitable for the saltworks
-  misc:
-    - Leather pouch for personal items
-    - Evaporation pans
-    - wooden ladles
-    - barrels for storage
+social:
+  station: common_folk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 11 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

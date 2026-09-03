@@ -16,23 +16,25 @@ id: hgIqLSmNqE40fAra
 folder: b81DHx3S7C9ep13E
 shortcode: lendspllgs
 img: icons/person.svg
-portrait: images/being/lendspllgs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lendspllgs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms
-  station: soldiery
-  class: freeman
-  society: Byzarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 30
   birthday: 690/12/15
-  height:
-    m: 1.96
-  weight:
-    kg: 112
-  build:
-    frame: massive
+  height: 1.96
+  weight: 112
+  frame: massive
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,20 +42,10 @@ traits:
     complexion: smooth
     extra_features:
       - tattoo on arm
-gear:
-  weapons:
-    - BstdSwd:1
-    - MHaub:1
-    - TwrSh:1
-  armor:
-    - MHaub:1
-    - PSht:1
-    - torch:3
-  misc:
-    - backpk:1
-    - FeRations:7
-    - wtrskin:1
-    - Bandg:3
+social:
+  station: soldiery
+  class: freeman
+  society: Byzarian
 sohl:
   archetype: null
   body:
@@ -510,12 +502,6 @@ sohl:
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 47 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: swim, type: skill, system: { masteryLevelBase: 25 } }
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

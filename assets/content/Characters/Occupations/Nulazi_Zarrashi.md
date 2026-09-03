@@ -16,39 +16,35 @@ id: XEDB0ULru2p17fr4
 folder: PuQFDMkRM9i60i5Z
 shortcode: nulazizrsh
 img: icons/person.svg
-portrait: images/being/nulazizrsh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/nulazizrsh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Timberwright
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: female
+  species: null
   age: 31
   birthday: 689/6/19
-  height:
-    m: 1.83
-  weight:
-    kg: 77
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: warm
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Hatchet
-  armor:
-    - Leather gloves
-  misc:
-    - Woven basket for tools
-    - Measuring tape
-    - tree identification book
-    - woodcarving tools
+social:
+  station: tradesfolk
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

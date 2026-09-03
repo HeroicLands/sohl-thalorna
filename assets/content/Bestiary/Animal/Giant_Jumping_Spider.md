@@ -9,9 +9,30 @@ name:
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
 id: A95HDhCBTL8EVKBO
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/gntjmpng-portrait.webp
 shortcode: gntjmpng
 type: being
+data:
+  portrait: images/being/gntjmpng-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

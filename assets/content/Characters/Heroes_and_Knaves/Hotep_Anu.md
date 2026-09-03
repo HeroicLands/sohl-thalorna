@@ -17,34 +17,38 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
 img: icons/person.svg
-portrait: images/being/hotepanu-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/hotepanu-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: ""
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 40
   birthday: 680/1/15
-  height:
-    m: 1.75
-  weight:
-    kg: 74.8
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 74.8
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: bald
     skin_color: dark
     complexion: weathered
     extra_features:
-      - Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's mark of expulsion
+      - >-
+        Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's
+        mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:

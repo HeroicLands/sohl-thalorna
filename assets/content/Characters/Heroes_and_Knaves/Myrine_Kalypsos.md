@@ -17,35 +17,44 @@ id: yrsuou8x6G2HF5hA
 folder: UFBfgKZUF0bAE7gG
 shortcode: myrnklypss
 img: icons/person.svg
-portrait: images/being/myrnklypss-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
+data:
+  portrait: images/being/myrnklypss-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: The Black Flame
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: female
+  species: null
   age: 24
   birthday: 696/12/6
-  height:
-    m: 1.7
-  weight:
-    kg: 68
-  build:
-    frame: medium
+  height: 1.7
+  weight: 68
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features:
-      - Flame-shaped tattoo on the right forearm, the Black Flame's mark of ordination — black ink over ritual scarification, deliberately conspicuous
-      - Faint burn scars across the fingertips of both hands from years of fire divination practice
-      - A thin cord of braided copper wire worn around the left wrist, signifying her status as a mendicant — a wandering priestess authorized to preach and perform rites outside a fixed temple
+      - >-
+        Flame-shaped tattoo on the right forearm, the Black Flame's mark of ordination — black
+        ink over ritual scarification, deliberately conspicuous
+      - >-
+        Faint burn scars across the fingertips of both hands from years of fire divination practice
+      - >-
+        A thin cord of braided copper wire worn around the left wrist, signifying her status
+        as a mendicant — a wandering priestess authorized to preach and perform rites outside
+        a fixed temple
+social:
+  station: clergy
+  class: freeman
+  society: The Black Flame
 sohl:
   archetype: null
   body:

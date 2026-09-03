@@ -16,23 +16,25 @@ id: tzQPxC5HChpoevbL
 folder: gpXd1anXulwRWZqn
 shortcode: zdmrsmkthn
 img: icons/person.svg
-portrait: images/being/zdmrsmkthn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/zdmrsmkthn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Cartographer/Artist
-  station: tradesfolk
-  class: guilded
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: male
+  species: null
   age: 45
   birthday: 675/10/7
-  height:
-    m: 1.68
-  weight:
-    kg: 59
-  build:
-    frame: medium
+  height: 1.68
+  weight: 59
+  frame: medium
   appearance:
     eye_color: green
     hair_color: graying_brown
@@ -40,17 +42,10 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a crescent moon on the neck
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Thick cloak
-  misc:
-    - Leather map case
-    - Compass
-    - measuring tools
-    - charcoal
-    - and parchment
+social:
+  station: tradesfolk
+  class: guilded
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -531,12 +526,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

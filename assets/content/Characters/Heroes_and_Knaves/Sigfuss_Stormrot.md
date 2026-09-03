@@ -16,35 +16,34 @@ id: uKal2sQw3LTDMtFf
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sigfstrmrt
 img: icons/person.svg
-portrait: images/being/sigfstrmrt-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/sigfstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 30
   birthday: 690/2/15
-  height:
-    m: 1.88
-  weight:
-    kg: 83.5
-  build:
-    frame: medium
+  height: 1.88
+  weight: 83.5
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

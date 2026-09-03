@@ -16,23 +16,25 @@ id: aqypCWr9vtLUKaqP
 folder: 9t9O4iB5cYJtSaTG
 shortcode: alvrngrvth
 img: icons/person.svg
-portrait: images/being/alvrngrvth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alvrngrvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Salter
-  station: common_folk
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 40
   birthday: 684/6/15
-  height:
-    m: 1.88
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -40,15 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - a scar on the left knee
-gear:
-  weapons: []
-  armor:
-    - Durable work clothes
-  misc:
-    - Large sack for personal items
-    - Evaporation pans
-    - barrels
-    - measurement tools
+social:
+  station: common_folk
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,23 +16,25 @@ id: cAtpf7ZJ69PqcUDO
 folder: 9t9O4iB5cYJtSaTG
 shortcode: gracncstrn
 img: icons/person.svg
-portrait: images/being/gracncstrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/gracncstrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 40
   birthday: 680/7/21
-  height:
-    m: 1.82
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.82
+  weight: 80
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_blonde
@@ -40,17 +42,10 @@ traits:
     complexion: tanned
     extra_features:
       - missing tooth
-gear:
-  weapons:
-    - BrdSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -507,12 +502,6 @@ sohl:
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 31 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 51 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

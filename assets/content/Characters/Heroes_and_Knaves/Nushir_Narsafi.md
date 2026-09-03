@@ -16,35 +16,34 @@ id: XujRU8bZpk8v4Y3f
 folder: heI5Ky6Kqmb61L6c
 shortcode: nushirnrsf
 img: icons/person.svg
-portrait: images/being/nushirnrsf-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/nushirnrsf-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: female
+  species: null
   age: 47
   birthday: 673/4/11
-  height:
-    m: 1.68
-  weight:
-    kg: 61.2
-  build:
-    frame: medium
+  height: 1.68
+  weight: 61.2
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: gray
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

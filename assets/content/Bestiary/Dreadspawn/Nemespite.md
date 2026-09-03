@@ -9,9 +9,30 @@ name:
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
 id: ZSoywGNHpw4z64RZ
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/nmspt-portrait.webp
 shortcode: nmspt
 type: being
+data:
+  portrait: images/being/nmspt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

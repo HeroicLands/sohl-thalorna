@@ -9,9 +9,30 @@ name:
 description: "A tactical spirit-realm assassin born of murder, moving unseen and striking from darkness to hunt targets across years or guard a single domain."
 id: K30OECnGa5hVR22R
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/shdwstlk-portrait.webp
 shortcode: shdwstlk
 type: being
+data:
+  portrait: images/being/shdwstlk-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

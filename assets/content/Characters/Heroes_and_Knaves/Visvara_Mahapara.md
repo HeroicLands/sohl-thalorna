@@ -16,36 +16,35 @@ id: 0gab7SwO7XpdEeqv
 folder: JotxZnnXcTECeYW3
 shortcode: visvarmhpr
 img: icons/person.svg
-portrait: images/being/visvarmhpr-portrait.webp
 type: being
-thalorna:
-  realm: vyalendra2
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/visvarmhpr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - vyalendra2
   gender: male
+  species: null
   age: 37
   birthday: 683/4/10
-  height:
-    m: 1.93
-  weight:
-    kg: 89.4
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 89.4
+  frame: heavy
   appearance:
     eye_color: warm_brown
     hair_color: black
     skin_color: warm_golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the right calf
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

@@ -16,29 +16,35 @@ id: IJjbnGBvpektfbZ4
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrsnsblsng
 img: icons/person.svg
-portrait: images/being/thrsnsblsng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thrsnsblsng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 34
   birthday: 686/9/13
-  height:
-    m: 1.76
-  weight:
-    kg: 89
-  build:
-    frame: massive
+  height: 1.76
+  weight: 89
+  frame: massive
   appearance:
     eye_color: green
     hair_color: red
     skin_color: fair
     complexion: freckled
     extra_features: []
+social:
+  station: clergy
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

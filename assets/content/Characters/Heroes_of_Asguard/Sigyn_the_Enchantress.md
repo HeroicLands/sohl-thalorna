@@ -16,29 +16,35 @@ id: p1AKpLn5kKnmJ9rU
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgynnchntrs
 img: icons/person.svg
-portrait: images/being/sgynnchntrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sgynnchntrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtier and Counselor
-  station: administration
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 38
   birthday: 682/8/4
-  height:
-    m: 1.74
-  weight:
-    kg: 56
-  build:
-    frame: medium
+  height: 1.74
+  weight: 56
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: fair
     complexion: fair
     extra_features: []
+social:
+  station: administration
+  class: noble
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,38 +16,35 @@ id: WxGJgupDhrCpjgds
 folder: J9R0fnGUTBY5z4pd
 shortcode: farlvlskyr
 img: icons/person.svg
-portrait: images/being/farlvlskyr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/farlvlskyr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Physician
-  station: tradesfolk
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 35
   birthday: 689/1/30
-  height:
-    m: 1.7
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.7
+  weight: 65
+  frame: light
   appearance:
     eye_color: gray
     hair_color: black
     skin_color: fair
     complexion: tanned
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Elegant yet practical attire suitable for her practice
-  misc:
-    - Leather pouch for herbal remedies
-    - Medical texts
-    - herbal compendium
-    - surgical tools
+social:
+  station: tradesfolk
+  class: noble
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

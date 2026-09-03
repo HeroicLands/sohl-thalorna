@@ -16,23 +16,25 @@ id: xQ8VS8IALVUj4APg
 folder: 4cwfdMa34UryZqPR
 shortcode: ylthklmrth
 img: icons/person.svg
-portrait: images/being/ylthklmrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ylthklmrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bard
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 33
   birthday: 687/1/12
-  height:
-    m: 1.73
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.73
+  weight: 70
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: white
@@ -40,16 +42,10 @@ traits:
     complexion: freckled
     extra_features:
       - a scar on the left eye
-gear:
-  weapons:
-    - Short sword
-  armor:
-    - Woolen cloak
-  misc:
-    - Travel bag
-    - Harp
-    - notebook for lyrics
-    - healing herbs
+social:
+  station: tradesfolk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 45 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

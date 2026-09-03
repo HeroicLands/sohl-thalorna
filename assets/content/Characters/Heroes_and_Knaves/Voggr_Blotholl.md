@@ -16,29 +16,25 @@ id: MveWFi3LLbH015Yk
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vogrblothl
 img: icons/person.svg
-portrait: images/being/vogrblothl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/vogrblothl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 52
   birthday: 668/2/29
-  height:
-    m: 1.8
-  weight:
-    kg: 81.6
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 81.6
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: gray
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar running down the back
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

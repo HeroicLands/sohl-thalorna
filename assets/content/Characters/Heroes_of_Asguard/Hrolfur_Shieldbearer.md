@@ -17,29 +17,35 @@ id: 6sPufPIIO5wpeDbB
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrlfrshldbrr
 img: icons/person.svg
-portrait: images/being/hrlfrshldbrr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hrlfrshldbrr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Warrior and Defender
-  station: soldiery
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 39
   birthday: 681/3/18
-  height:
-    m: 1.78
-  weight:
-    kg: 97
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 97
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: blonde
     skin_color: pale
     complexion: fair
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

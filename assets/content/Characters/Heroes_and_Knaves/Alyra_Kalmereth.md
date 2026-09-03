@@ -16,35 +16,34 @@ id: SJC2oE0E6CsazPKq
 folder: 4cwfdMa34UryZqPR
 shortcode: alyrklmrth
 img: icons/person.svg
-portrait: images/being/alyrklmrth-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/alyrklmrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 27
   birthday: 693/3/12
-  height:
-    m: 1.75
-  weight:
-    kg: 68.5
-  build:
-    frame: light
+  height: 1.75
+  weight: 68.5
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: pale
     complexion: fair
     extra_features: []
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

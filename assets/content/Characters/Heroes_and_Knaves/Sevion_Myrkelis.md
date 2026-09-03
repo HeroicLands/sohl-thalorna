@@ -15,35 +15,34 @@ id: haT4BX4HIh5GeqEe
 folder: 4cwfdMa34UryZqPR
 shortcode: sevnmyrkls
 img: icons/person.svg
-portrait: images/being/sevnmyrkls-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/sevnmyrkls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 37
   birthday: 683/9/21
-  height:
-    m: 1.78
-  weight:
-    kg: 72.6
-  build:
-    frame: light
+  height: 1.78
+  weight: 72.6
+  frame: light
   appearance:
     eye_color: blue
     hair_color: dark_brown
     skin_color: pale
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: mages
+  class: guilded
 sohl:
   archetype: null
   body:

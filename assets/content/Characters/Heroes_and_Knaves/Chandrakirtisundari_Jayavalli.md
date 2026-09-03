@@ -16,35 +16,34 @@ id: mJfvEsyCUxVmCzNJ
 folder: JotxZnnXcTECeYW3
 shortcode: chndrkrtsndrjyvl
 img: icons/person.svg
-portrait: images/being/chndrkrtsndrjyvl-portrait.webp
 type: being
-thalorna:
-  realm: vyalendra2
-  region: vedyarargn
-social:
+data:
+  portrait: images/being/chndrkrtsndrjyvl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Prostitute
-  station: underworld
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vedyarargn
+  affiliations:
+    - vyalendra2
   gender: female
+  species: null
   age: 35
   birthday: 685/1/18
-  height:
-    m: 1.68
-  weight:
-    kg: 64.4
-  build:
-    frame: light
+  height: 1.68
+  weight: 64.4
+  frame: light
   appearance:
     eye_color: warm_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: underworld
+  class: freeman
 sohl:
   archetype: null
   body:

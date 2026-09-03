@@ -10,9 +10,30 @@ name:
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
 id: JYYfIP5IvvkQ0oJK
 img: icons/game-icons/delapouite/rat.svg
-portrait: images/being/giantrat-portrait.webp
 shortcode: giantrat
 type: being
+data:
+  portrait: images/being/giantrat-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -16,38 +16,35 @@ id: 84S5jIc1xLJjBict
 folder: UFBfgKZUF0bAE7gG
 shortcode: vandsksrns
 img: icons/person.svg
-portrait: images/being/vandsksrns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vandsksrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 28
   birthday: 692/10/14
-  height:
-    m: 1.7
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.7
+  weight: 60
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: medium
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Small concealed dagger
-  armor: []
-  misc:
-    - Silk purse
-    - Jewelry
-    - perfume
-    - musical instruments
+social:
+  station: administration
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -522,12 +519,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

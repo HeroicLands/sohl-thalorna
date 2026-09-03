@@ -15,39 +15,35 @@ id: AOYNDeh15FMIbOGK
 folder: elH5NDPUuiRCICrE
 shortcode: avicewnwck
 img: icons/person.svg
-portrait: images/being/avicewnwck-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/avicewnwck-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler (Supercargo)
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: female
+  species: null
   age: 30
   birthday: 694/9/24
-  height:
-    m: 1.78
-  weight:
-    kg: 71
-  build:
-    frame: light
+  height: 1.78
+  weight: 71
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
     complexion: freckled
     extra_features: []
-gear:
-  weapons:
-    - Dagger (for self-defense)
-  armor:
-    - Fine clothing suitable for sea travel
-  misc:
-    - Leather pouch for documents
-    - Trade agreements
-    - navigation tools
-    - ledger for accounts
+social:
+  station: tradesfolk
+  class: noble
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 68 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

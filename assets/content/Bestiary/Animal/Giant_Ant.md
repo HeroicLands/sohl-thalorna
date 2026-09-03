@@ -9,9 +9,30 @@ name:
 description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
 id: z1mE9iVDLalVjhSc
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/giantant-portrait.webp
 shortcode: giantant
 type: being
+data:
+  portrait: images/being/giantant-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

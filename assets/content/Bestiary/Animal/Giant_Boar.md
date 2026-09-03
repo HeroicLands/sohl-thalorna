@@ -9,9 +9,30 @@ name:
 description: "A thousand-pound apex boar of northern forests, standing five feet at the shoulder and jealously guarding vast territories with barely restrained violence."
 id: lZvL9MY97JDX0GeN
 img: icons/game-icons/caro-asercion/boar.svg
-portrait: images/being/gntbr-portrait.webp
 shortcode: gntbr
 type: being
+data:
+  portrait: images/being/gntbr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

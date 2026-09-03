@@ -16,29 +16,25 @@ id: k4JEKZEOQVEktuMQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: snorjrnskl
 img: icons/person.svg
-portrait: images/being/snorjrnskl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/snorjrnskl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: unfree
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 31
   birthday: 689/4/17
-  height:
-    m: 1.91
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the right cheek
+social:
+  station: common_folk
+  class: unfree
 sohl:
   archetype: null
   body:

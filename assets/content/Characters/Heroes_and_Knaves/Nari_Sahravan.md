@@ -16,35 +16,34 @@ id: xFeMlO6Esxer4BfX
 folder: heI5Ky6Kqmb61L6c
 shortcode: narisahrvn
 img: icons/person.svg
-portrait: images/being/narisahrvn-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/narisahrvn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: female
+  species: null
   age: 33
   birthday: 687/7/15
-  height:
-    m: 1.65
-  weight:
-    kg: 59
-  build:
-    frame: light
+  height: 1.65
+  weight: 59
+  frame: light
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: clergy
+  class: free
 sohl:
   archetype: null
   body:

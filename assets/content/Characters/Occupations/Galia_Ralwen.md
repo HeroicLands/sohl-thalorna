@@ -16,38 +16,35 @@ id: l5TCfZR92uQwTeJI
 folder: J9R0fnGUTBY5z4pd
 shortcode: galiaralwn
 img: icons/person.svg
-portrait: images/being/galiaralwn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/galiaralwn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Courtier)
-  station: administration
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 27
   birthday: 697/6/15
-  height:
-    m: 1.73
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.73
+  weight: 65
+  frame: light
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: warm
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Elegant gown suitable for gatherings
-  misc:
-    - Small purse for personal items
-    - Books on governance and art
-    - ledger for donations
+social:
+  station: administration
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -524,12 +521,6 @@ sohl:
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

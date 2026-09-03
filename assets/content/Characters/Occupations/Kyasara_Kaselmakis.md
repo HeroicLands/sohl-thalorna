@@ -16,23 +16,25 @@ id: gSXt2RMZhYKYcwIB
 folder: UFBfgKZUF0bAE7gG
 shortcode: kysrkslmks
 img: icons/person.svg
-portrait: images/being/kysrkslmks-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kysrkslmks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 29
   birthday: 691/9/10
-  height:
-    m: 1.63
-  weight:
-    kg: 55
-  build:
-    frame: light
+  height: 1.63
+  weight: 55
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -40,14 +42,10 @@ traits:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
-gear:
-  weapons: []
-  armor: []
-  misc:
-    - Silk pouch for makeup
-    - Variety of costumes
-    - stage props
-    - script collection
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -522,12 +520,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,39 +16,35 @@ id: Mar2jiIqZlhQ3bia
 folder: 4cwfdMa34UryZqPR
 shortcode: malianardh
 img: icons/person.svg
-portrait: images/being/malianardh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/malianardh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herder
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 32
   birthday: 692/5/10
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: light
+  height: 1.78
+  weight: 70
+  frame: light
   appearance:
     eye_color: brown
     hair_color: auburn
     skin_color: light
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Light staff
-  armor:
-    - Simple tunic and leggings
-  misc:
-    - Woven basket for tools
-    - Whistle for calling her flock
-    - herbal remedies
-    - wool shears
+social:
+  station: common_folk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 45 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

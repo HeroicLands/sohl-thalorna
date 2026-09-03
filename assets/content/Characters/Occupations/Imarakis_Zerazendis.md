@@ -16,23 +16,25 @@ id: RVRqLy0O8xgRoEbN
 folder: UFBfgKZUF0bAE7gG
 shortcode: imrkszrznds
 img: icons/person.svg
-portrait: images/being/imrkszrznds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/imrkszrznds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Drums)
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 31
   birthday: 689/6/19
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar along the jawline
-gear:
-  weapons: []
-  armor:
-    - Leather bracers
-  misc:
-    - Cloth bag for drums
-    - Drums of different sizes
-    - tambourine
-    - carved sticks
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

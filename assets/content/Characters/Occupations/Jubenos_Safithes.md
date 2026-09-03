@@ -16,23 +16,25 @@ id: x57Y3c5wnRpQgwXJ
 folder: gpXd1anXulwRWZqn
 shortcode: jubensfths
 img: icons/person.svg
-portrait: images/being/jubensfths-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jubensfths-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: guilded
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: male
+  species: null
   age: 32
   birthday: 688/4/6
-  height:
-    m: 1.7
-  weight:
-    kg: 59
-  build:
-    frame: medium
+  height: 1.7
+  weight: 59
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -40,15 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - a tattoo of a skull on the upper arm
-gear:
-  weapons:
-    - Concealed rapier
-  armor: []
-  misc:
-    - Velvet coin pouch
-    - Fine clothing
-    - theater mask
-    - silver flask
+social:
+  station: administration
+  class: guilded
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

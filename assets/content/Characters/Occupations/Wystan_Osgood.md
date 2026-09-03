@@ -15,39 +15,35 @@ id: 7s4catKMg7vsDPIH
 folder: elH5NDPUuiRCICrE
 shortcode: wystanosgd
 img: icons/person.svg
-portrait: images/being/wystanosgd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wystanosgd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ratter
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 34
   birthday: 690/3/21
-  height:
-    m: 1.75
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.75
+  weight: 73
+  frame: medium
   appearance:
     eye_color: green
     hair_color: blonde
     skin_color: light
     complexion: clear
     extra_features: []
-gear:
-  weapons:
-    - Rat-catching net
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Leather pouch for traps and bait
-    - Traps
-    - trained ferrets
-    - bait
+social:
+  station: common_folk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: lock, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

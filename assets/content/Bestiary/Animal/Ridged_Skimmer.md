@@ -9,9 +9,30 @@ name:
 description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
 id: 6dbt4Nbd3KY7TJta
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/rdgdskmm-portrait.webp
 shortcode: rdgdskmm
 type: being
+data:
+  portrait: images/being/rdgdskmm-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

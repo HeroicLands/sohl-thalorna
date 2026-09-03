@@ -9,9 +9,30 @@ name:
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
 id: cCvH3RbioiVmP5uA
 img: icons/game-icons/delapouite/eagle-head.svg
-portrait: images/being/thndrbrd-portrait.webp
 shortcode: thndrbrd
 type: being
+data:
+  portrait: images/being/thndrbrd-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

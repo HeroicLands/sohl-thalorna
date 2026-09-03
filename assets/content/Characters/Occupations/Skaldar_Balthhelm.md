@@ -16,40 +16,35 @@ id: pUAFJWpSEPTFCYbf
 folder: Nu7AgLZEmR26u2pk
 shortcode: skldrblthlm
 img: icons/person.svg
-portrait: images/being/skldrblthlm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/skldrblthlm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Toymaker
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 51
   birthday: 669/6/27
-  height:
-    m: 1.78
-  weight:
-    kg: 69
-  build:
-    frame: medium
+  height: 1.78
+  weight: 69
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: fair
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - Small hammer
-  armor:
-    - Leather tool belt
-  misc:
-    - Wooden chest for clockwork parts
-    - Tiny gears
-    - springs
-    - wooden models
-    - clockmaker’s tools
+social:
+  station: tradesfolk
+  class: guilded
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -530,12 +525,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

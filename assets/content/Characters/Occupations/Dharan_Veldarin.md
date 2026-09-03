@@ -17,43 +17,38 @@ id: iu7NukzNV1tLvG1G
 folder: 4cwfdMa34UryZqPR
 shortcode: dharnvldrn
 img: icons/person.svg
-portrait: images/being/dharnvldrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dharnvldrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 45
   birthday: 679/4/17
-  height:
-    m: 1.91
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: auburn
     skin_color: pale
     complexion: smooth
     extra_features:
-      - a brand of the Black Flame scarred into the skin above the heart, always concealed beneath clothing
-gear:
-  weapons:
-    - Warhammer
-  armor:
-    - MShirt
-    - LtKBoot
-    - KVamb
-  misc:
-    - backpk
-    - bpchmdltr
-    - tndrbx
-    - consecrated ash wrapped in oilcloth
-    - torch
+      - >-
+        a brand of the Black Flame scarred into the skin above the heart, always concealed beneath
+        clothing
+social:
+  station: clergy
+  class: noble
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 14 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

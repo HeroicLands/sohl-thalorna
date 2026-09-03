@@ -14,36 +14,35 @@ id: a40goq3AuU9OErFG
 folder: mtJ4TzKdySHbE2OM
 shortcode: shadalnadn
 img: icons/person.svg
-portrait: images/being/shadalnadn-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/shadalnadn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 34
   birthday: 686/3/15
-  height:
-    m: 1.83
-  weight:
-    kg: 71.7
-  build:
-    frame: medium
+  height: 1.83
+  weight: 71.7
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the chin
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

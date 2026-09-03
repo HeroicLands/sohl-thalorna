@@ -16,36 +16,35 @@ id: c7RWGvTLcVd5Lg7A
 folder: V1t8DVX0wKSOCJd5
 shortcode: gulrnhgzvn
 img: icons/person.svg
-portrait: images/being/gulrnhgzvn-portrait.webp
 type: being
-thalorna:
-  realm: sultntmrdd
-  region: amradadrgn
-social:
+data:
+  portrait: images/being/gulrnhgzvn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - amradadrgn
+  affiliations:
+    - sultntmrdd
   gender: female
+  species: null
   age: 29
   birthday: 691/2/23
-  height:
-    m: 1.85
-  weight:
-    kg: 78.9
-  build:
-    frame: light
+  height: 1.85
+  weight: 78.9
+  frame: light
   appearance:
     eye_color: warm_brown
     hair_color: dark_brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the right wrist
+social:
+  station: common_folk
+  class: guilded
 sohl:
   archetype: null
   body:

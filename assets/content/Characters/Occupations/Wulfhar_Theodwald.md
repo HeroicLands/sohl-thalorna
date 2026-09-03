@@ -16,39 +16,35 @@ id: sMtwgKGnjQEo2gw2
 folder: Nu7AgLZEmR26u2pk
 shortcode: wlfhrthdwld
 img: icons/person.svg
-portrait: images/being/wlfhrthdwld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/wlfhrthdwld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 30
   birthday: 694/4/10
-  height:
-    m: 1.85
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
     complexion: tanned
     extra_features: []
-gear:
-  weapons:
-    - Great sword
-  armor:
-    - Plate armor
-  misc:
-    - Heavy pack for provisions
-    - Shield
-    - armor polish
-    - training equipment
+social:
+  station: soldiery
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -523,12 +519,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
 img: icons/person.svg
-portrait: images/being/nkhtrmnrsht-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/nkhtrmnrsht-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 58
   birthday: 662/2/2
-  height:
-    m: 1.75
-  weight:
-    kg: 69.9
-  build:
-    frame: medium
+  height: 1.75
+  weight: 69.9
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: white
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

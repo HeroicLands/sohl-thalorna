@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
 img: icons/person.svg
-portrait: images/being/neferetimr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/neferetimr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/5/9
-  height:
-    m: 1.68
-  weight:
-    kg: 65.8
-  build:
-    frame: light
+  height: 1.68
+  weight: 65.8
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

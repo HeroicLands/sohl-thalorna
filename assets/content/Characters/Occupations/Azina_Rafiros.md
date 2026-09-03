@@ -16,23 +16,25 @@ id: Afo16hD8hP1jF7Ts
 folder: gpXd1anXulwRWZqn
 shortcode: azinarafrs
 img: icons/person.svg
-portrait: images/being/azinarafrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/azinarafrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Embalmer
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - theradon
   gender: female
+  species: null
   age: 33
   birthday: 687/12/4
-  height:
-    m: 1.8
-  weight:
-    kg: 67
-  build:
-    frame: light
+  height: 1.8
+  weight: 67
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_brown
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
-gear:
-  weapons: []
-  armor:
-    - Simple woolen cloak
-  misc:
-    - Wooden box for herbs and tools
-    - Ritual candles
-    - herbal poultices
-    - linen wrappings
+social:
+  station: tradesfolk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -530,12 +527,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
-thalorna:
-  realm: theradon
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

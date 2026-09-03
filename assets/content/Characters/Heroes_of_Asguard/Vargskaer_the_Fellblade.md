@@ -17,29 +17,35 @@ id: sflJFLRFBVN0a1zP
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vrgskrflbld
 img: icons/person.svg
-portrait: images/being/vrgskrflbld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vrgskrflbld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Helspawn Warlord
-  station: soldiery
-  class: unguilded
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 41
   birthday: 679/10/16
-  height:
-    m: 1.83
-  weight:
-    kg: 98
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 98
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: dark_blonde
     skin_color: pale
     complexion: battle_scarred
     extra_features: []
+social:
+  station: soldiery
+  class: unguilded
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

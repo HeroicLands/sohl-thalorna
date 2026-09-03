@@ -18,35 +18,34 @@ id: quoq4fCBYQEsUFGC
 folder: mtJ4TzKdySHbE2OM
 shortcode: srdrzhsycnknghtblckflm
 img: icons/person.svg
-portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Knight Bachelor)
-  station: soldiery
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 43
   birthday: 677/7/17
-  height:
-    m: 1.93
-  weight:
-    kg: 106.6
-  build:
-    frame: heavy
+  height: 1.93
+  weight: 106.6
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: bald
     skin_color: dark_brown
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: soldiery
+  class: noble
 sohl:
   archetype: null
   body:

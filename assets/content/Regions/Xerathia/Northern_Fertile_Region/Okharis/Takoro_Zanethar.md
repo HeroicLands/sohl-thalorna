@@ -13,35 +13,34 @@ id: kIJdPc7U4AEkhMfz
 folder: 5ECInZ91R1WeEtYz
 shortcode: takorozanethar
 img: images/takoro-zanethar-headshot.webp
-portrait: images/being/takorozanethar-portrait.webp
 type: being
-thalorna:
-  realm: okharis
-  region: okharisrgn
-social:
+data:
+  portrait: images/being/takorozanethar-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: king
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - okharisrgn
+  affiliations:
+    - okharis
   gender: male
+  species: null
   age: 42
   birthday: 679/9/24
-  height:
-    m: 1.62
-  weight:
-    kg: 64.4
-  build:
-    frame: medium
+  height: 1.62
+  weight: 64.4
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: ebony
     complexion: medium
     extra_features: []
+social:
+  station: administration
+  class: noble
 sohl:
   archetype: null
   birthsign: ""
@@ -520,10 +519,6 @@ sohl:
     - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: trak, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 24 } }
-gear:
-  weapons: []
-  armor: []
-  misc: []
 ---
 
 #### The Overlord

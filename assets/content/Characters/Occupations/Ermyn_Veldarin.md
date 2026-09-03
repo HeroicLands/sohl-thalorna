@@ -16,40 +16,35 @@ id: QnBow8w3Ndr86Zfn
 folder: 4cwfdMa34UryZqPR
 shortcode: ermynvldrn
 img: icons/person.svg
-portrait: images/being/ermynvldrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ermynvldrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Élavendren
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 23
   birthday: 697/6/8
-  height:
-    m: 1.72
-  weight:
-    kg: 58
-  build:
-    frame: light
+  height: 1.72
+  weight: 58
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: gray
     skin_color: medium
     complexion: rugged
     extra_features: []
-gear:
-  weapons:
-    - ShrtSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Élavendren
 sohl:
   archetype: null
   body:
@@ -506,12 +501,6 @@ sohl:
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 19 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

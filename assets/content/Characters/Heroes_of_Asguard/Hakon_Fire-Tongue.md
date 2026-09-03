@@ -16,29 +16,35 @@ id: 30golrnmNsRWhWcH
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hakonfrtng
 img: icons/person.svg
-portrait: images/being/hakonfrtng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hakonfrtng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Agitator and Orator
-  station: underworld
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 36
   birthday: 684/9/1
-  height:
-    m: 1.83
-  weight:
-    kg: 81
-  build:
-    frame: medium
+  height: 1.83
+  weight: 81
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: white
     skin_color: pale
     complexion: sun_kissed
     extra_features: []
+social:
+  station: underworld
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

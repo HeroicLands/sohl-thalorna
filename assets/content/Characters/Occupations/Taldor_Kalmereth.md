@@ -16,23 +16,25 @@ id: AcuVET6ZyyQY0PjF
 folder: 4cwfdMa34UryZqPR
 shortcode: tldrklmrth
 img: icons/person.svg
-portrait: images/being/tldrklmrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tldrklmrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Fisher
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 47
   birthday: 673/1/18
-  height:
-    m: 1.83
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.83
+  weight: 82
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: red
@@ -40,16 +42,10 @@ traits:
     complexion: weathered
     extra_features:
       - a scar near the right ear
-gear:
-  weapons:
-    - Fishing knife
-  armor:
-    - Thick woolen coat
-  misc:
-    - Wooden crate for storing fish
-    - Fishing nets
-    - rope
-    - harpoon
+social:
+  station: common_folk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

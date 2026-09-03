@@ -16,23 +16,25 @@ id: NX744bpnegMcCMRT
 folder: J9R0fnGUTBY5z4pd
 shortcode: thavenfrwn
 img: icons/person.svg
-portrait: images/being/thavenfrwn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thavenfrwn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bosun
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 45
   birthday: 679/9/12
-  height:
-    m: 1.83
-  weight:
-    kg: 81
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 81
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: red
@@ -40,16 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of a crescent moon on the neck and a Seaman's Guild tatoo on his right arm.
-gear:
-  weapons:
-    - Cutlass (for self-defense)
-  armor:
-    - Sturdy sailor’s attire
-  misc:
-    - Leather bag for personal items
-    - Ropes
-    - navigation tools
-    - ship's log
+social:
+  station: tradesfolk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

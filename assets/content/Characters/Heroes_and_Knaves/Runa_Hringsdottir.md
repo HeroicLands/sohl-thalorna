@@ -16,8 +16,34 @@ id: QOSper74Psh635yp
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rnhrngsdtr
 img: icons/person.svg
-portrait: images/being/rnhrngsdtr-portrait.webp
 type: being
+data:
+  portrait: images/being/rnhrngsdtr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Huscarl
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kingdmnrgd
+  gender: female
+  species: null
+  age: 26
+  birthday: 694/8/5
+  height: 1.78
+  weight: 81.6
+  frame: heavy
+  appearance:
+    eye_color: green
+    hair_color: red
+    skin_color: pale
+    complexion: null
+    extra_features: []
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:
@@ -529,33 +555,6 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
     - { shortcode: backpk, type: containergear }
     - { shortcode: wtrskin, type: containergear }
-thalorna:
-  realm: kingdmnrgd
-  region: nrdlndsrgn
-social:
-  occupation: Huscarl
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
-  gender: female
-  age: 26
-  birthday: 694/8/5
-  height:
-    m: 1.78
-  weight:
-    kg: 81.6
-  build:
-    frame: heavy
-  appearance:
-    eye_color: green
-    hair_color: red
-    skin_color: pale
-    complexion: ""
-    extra_features: []
 ---
 
 # Appearance {#appearance}

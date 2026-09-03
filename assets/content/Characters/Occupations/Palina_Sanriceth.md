@@ -17,23 +17,25 @@ id: XN6E32VUdTiHnJuQ
 folder: 9t9O4iB5cYJtSaTG
 shortcode: palnsnrcth
 img: icons/person.svg
-portrait: images/being/palnsnrcth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/palnsnrcth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: noble
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 28
   birthday: 696/3/25
-  height:
-    m: 1.78
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.78
+  weight: 70
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: dark_brown
@@ -41,15 +43,10 @@ traits:
     complexion: rugged
     extra_features:
       - a scar running down the right leg
-gear:
-  weapons: []
-  armor:
-    - Flowing robes adorned with floral motifs
-  misc:
-    - Small pouch for offerings
-    - Herbs for rituals
-    - sacred texts
-    - decorative items
+social:
+  station: clergy
+  class: noble
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

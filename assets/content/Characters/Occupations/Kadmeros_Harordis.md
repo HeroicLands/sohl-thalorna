@@ -16,39 +16,35 @@ id: oXHyC6Ct3LBtKNdN
 folder: UFBfgKZUF0bAE7gG
 shortcode: kdmrshrrds
 img: icons/person.svg
-portrait: images/being/kdmrshrrds-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kdmrshrrds-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcrafter
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 38
   birthday: 682/9/20
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: auburn
     skin_color: olive
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Carving knife
-  armor:
-    - Leather apron
-  misc:
-    - Wooden toolbox
-    - Carving tools
-    - wood polish
-    - various types of wood
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

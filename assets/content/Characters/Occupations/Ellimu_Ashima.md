@@ -16,39 +16,35 @@ id: IDAdn1Ay5XL8Sb24
 folder: PuQFDMkRM9i60i5Z
 shortcode: elimuashim
 img: icons/person.svg
-portrait: images/being/elimuashim-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/elimuashim-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Teamster
-  station: common_folk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 42
   birthday: 682/7/7
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 78
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: warm_golden
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Club
-  armor:
-    - Leather vest
-  misc:
-    - Wooden chest for personal belongings
-    - Rope
-    - animal feed
-    - wagon repair tools
+social:
+  station: common_folk
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 52 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -17,35 +17,34 @@ id: vMAm7UbCONvPa5a7
 folder: Fn7A9d5axAsdJEBV
 shortcode: casiaveric
 img: icons/person.svg
-portrait: images/being/casiaveric-portrait.webp
 type: being
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-social:
+data:
+  portrait: images/being/casiaveric-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Intelligence Officer
-  station: administration
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 43
   birthday: 677/2/11
-  height:
-    m: 1.7
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.7
+  weight: 66
+  frame: medium
   appearance:
     eye_color: grey
     hair_color: brown
     skin_color: fair
     complexion: weathered
     extra_features: []
+social:
+  station: administration
+  class: free
 sohl:
   archetype: null
   body:

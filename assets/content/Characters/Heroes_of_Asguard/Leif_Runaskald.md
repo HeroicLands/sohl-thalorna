@@ -16,29 +16,35 @@ id: fB3q96RyjfMa9e6m
 folder: Ka9XqaF27b0I3Gmq
 shortcode: leifrnskld
 img: icons/person.svg
-portrait: images/being/leifrnskld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/leifrnskld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Skald and Runemaster
-  station: mages
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 41
   birthday: 679/12/6
-  height:
-    m: 1.88
-  weight:
-    kg: 105
-  build:
-    frame: massive
+  height: 1.88
+  weight: 105
+  frame: massive
   appearance:
     eye_color: brown
     hair_color: brown
     skin_color: pale
     complexion: ruddy
     extra_features: []
+social:
+  station: mages
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

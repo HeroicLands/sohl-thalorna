@@ -16,23 +16,25 @@ id: 43ANVj77p3kZZl4A
 folder: 4cwfdMa34UryZqPR
 shortcode: emynaothrl
 img: icons/person.svg
-portrait: images/being/emynaothrl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/emynaothrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: noble
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 36
   birthday: 684/9/18
-  height:
-    m: 1.6
-  weight:
-    kg: 56
-  build:
-    frame: light
+  height: 1.6
+  weight: 56
+  frame: light
   appearance:
     eye_color: gray
     hair_color: blonde
@@ -40,15 +42,10 @@ traits:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
-gear:
-  weapons:
-    - Concealed hairpin dagger
-  armor: []
-  misc:
-    - Embroidered silk bag
-    - Elegant gowns
-    - books
-    - calligraphy set
+social:
+  station: administration
+  class: noble
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 22 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

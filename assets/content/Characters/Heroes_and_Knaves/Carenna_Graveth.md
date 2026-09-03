@@ -16,35 +16,34 @@ id: 4VoSx8nbfIX6dFlG
 folder: 9t9O4iB5cYJtSaTG
 shortcode: carengrvth
 img: icons/person.svg
-portrait: images/being/carengrvth-portrait.webp
 type: being
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-social:
+data:
+  portrait: images/being/carengrvth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: female
+  species: null
   age: 32
   birthday: 688/4/20
-  height:
-    m: 1.83
-  weight:
-    kg: 75.7
-  build:
-    frame: light
+  height: 1.83
+  weight: 75.7
+  frame: light
   appearance:
     eye_color: green
     hair_color: black
     skin_color: warm
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

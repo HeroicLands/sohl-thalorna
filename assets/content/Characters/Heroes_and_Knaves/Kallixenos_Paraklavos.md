@@ -16,35 +16,34 @@ id: rVSVRH2h1MF6RDP7
 folder: b81DHx3S7C9ep13E
 shortcode: klxnsprklvs
 img: icons/person.svg
-portrait: images/being/klxnsprklvs-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/klxnsprklvs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/10/12
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: gray
     skin_color: light
     complexion: weathered
     extra_features: []
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

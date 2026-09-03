@@ -16,29 +16,25 @@ id: 8ES6ZaacpcZo5fJc
 folder: Nu7AgLZEmR26u2pk
 shortcode: athlwvthrnd
 img: icons/person.svg
-portrait: images/being/athlwvthrnd-portrait.webp
 type: being
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-social:
+data:
+  portrait: images/being/athlwvthrnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 42
   birthday: 678/5/30
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.78
+  weight: 78
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: blonde
@@ -46,6 +42,9 @@ traits:
     complexion: fair
     extra_features:
       - a tattoo of an eagle on the back
+social:
+  station: administration
+  class: freeman
 sohl:
   archetype: null
   body:

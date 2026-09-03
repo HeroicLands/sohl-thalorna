@@ -16,23 +16,25 @@ id: qcTBaH7ZIRU8VVQm
 folder: 4cwfdMa34UryZqPR
 shortcode: alernprdln
 img: icons/person.svg
-portrait: images/being/alernprdln-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/alernprdln-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 48
   birthday: 676/5/16
-  height:
-    m: 1.75
-  weight:
-    kg: 70
-  build:
-    frame: medium
+  height: 1.75
+  weight: 70
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -40,16 +42,10 @@ traits:
     complexion: clear
     extra_features:
       - a tattoo of a crown on the chest
-gear:
-  weapons:
-    - Wooden staff
-  armor:
-    - Leather and fur garments
-  misc:
-    - Satchel for ritual items
-    - Medicinal herbs
-    - carved totems
-    - drum for rituals
+social:
+  station: clergy
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

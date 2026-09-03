@@ -9,9 +9,30 @@ name:
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."
 id: lHuMVOj4m48jiGcS
 img: icons/game-icons/delapouite/bat.svg
-portrait: images/being/scrchbt-portrait.webp
 shortcode: scrchbt
 type: being
+data:
+  portrait: images/being/scrchbt-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

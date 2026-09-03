@@ -18,35 +18,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: isaretkskr
 img: icons/person.svg
-portrait: images/being/isaretkskr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/isaretkskr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Intelligence Agent
-  station: underworld
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 28
   birthday: 692/2/2
-  height:
-    m: 1.68
-  weight:
-    kg: 63.5
-  build:
-    frame: light
+  height: 1.68
+  weight: 63.5
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: underworld
+  class: free
 sohl:
   archetype: null
   body:

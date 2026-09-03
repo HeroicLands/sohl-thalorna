@@ -16,23 +16,25 @@ id: TSyFzpjPSa5W3X4g
 folder: Ka9XqaF27b0I3Gmq
 shortcode: leifrdrtgr
 img: icons/person.svg
-portrait: images/being/leifrdrtgr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/leifrdrtgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Farmer
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 31
   birthday: 689/4/17
-  height:
-    m: 1.91
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_blonde
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar on the right cheek
-gear:
-  weapons: []
-  armor:
-    - Simple rags
-  misc:
-    - Woven sack for carrying supplies
-    - Wooden shovel
-    - hand-carved charm
-    - rough rope
+social:
+  station: common_folk
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -532,12 +529,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

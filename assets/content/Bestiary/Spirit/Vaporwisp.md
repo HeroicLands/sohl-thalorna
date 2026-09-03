@@ -9,9 +9,30 @@ name:
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
 id: SZSbxQbHhZFFCLQh
 img: icons/game-icons/delapouite/griffin-symbol.svg
-portrait: images/being/vprwsp-portrait.webp
 shortcode: vprwsp
 type: being
+data:
+  portrait: images/being/vprwsp-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

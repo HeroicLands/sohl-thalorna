@@ -16,39 +16,35 @@ id: 9ciG9Lv3g32CgH6D
 folder: Nu7AgLZEmR26u2pk
 shortcode: erminfrdbn
 img: icons/person.svg
-portrait: images/being/erminfrdbn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/erminfrdbn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Fisher
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: female
+  species: null
   age: 30
   birthday: 690/4/27
-  height:
-    m: 1.8
-  weight:
-    kg: 76
-  build:
-    frame: light
+  height: 1.8
+  weight: 76
+  frame: light
   appearance:
     eye_color: gray
     hair_color: red
     skin_color: pale
     complexion: ruddy
     extra_features: []
-gear:
-  weapons:
-    - Small knife
-  armor:
-    - Woolen cloak
-  misc:
-    - Woven basket for fish
-    - Fishing nets
-    - waterproof tarpaulin
-    - spare ropes
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -525,12 +521,6 @@ sohl:
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -16,35 +16,34 @@ id: Gwi4Ze6InoeQmW4R
 folder: mtJ4TzKdySHbE2OM
 shortcode: shdqbnrhmndplmtcblddncr
 img: icons/person.svg
-portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
 type: being
-thalorna:
-  realm: kalihara
-  region: kaliharargn
-social:
+data:
+  portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Courtier)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - kaliharargn
+  affiliations:
+    - kalihara
   gender: male
+  species: null
   age: 28
   birthday: 692/10/12
-  height:
-    m: 1.83
-  weight:
-    kg: 72.6
-  build:
-    frame: light
+  height: 1.83
+  weight: 72.6
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: noble
 sohl:
   archetype: null
   body:

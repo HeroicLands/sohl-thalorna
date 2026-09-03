@@ -15,23 +15,25 @@ id: 8aRUhR4IWrXPvhsB
 folder: elH5NDPUuiRCICrE
 shortcode: maudosgood
 img: icons/person.svg
-portrait: images/being/maudosgood-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/maudosgood-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 62
   birthday: 658/6/10
-  height:
-    m: 1.65
-  weight:
-    kg: 52
-  build:
-    frame: scant
+  height: 1.65
+  weight: 52
+  frame: scant
   appearance:
     eye_color: green
     hair_color: dark_blonde
@@ -39,14 +41,10 @@ traits:
     complexion: freckled
     extra_features:
       - a scar on the back of the left arm
-gear:
-  weapons: []
-  armor:
-    - Ragged shawl
-  misc:
-    - Worn leather bag
-    - Old blanket
-    - makeshift walking stick
+social:
+  station: common_folk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -523,12 +521,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 18 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -18,35 +18,34 @@ id: fXm0xUfnOLYesZgg
 folder: DpqMpJYTkLYsXJYb
 shortcode: rshrhssfrn
 img: icons/person.svg
-portrait: images/being/rshrhssfrn-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/rshrhssfrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Grammatíssa (Records-Keeper)
-  station: administration
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 39
   birthday: 681/9/22
-  height:
-    m: 1.66
-  weight:
-    kg: 61
-  build:
-    frame: medium
+  height: 1.66
+  weight: 61
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: dark
     complexion: olive
     extra_features: []
+social:
+  station: administration
+  class: free
 sohl:
   archetype: null
   body:

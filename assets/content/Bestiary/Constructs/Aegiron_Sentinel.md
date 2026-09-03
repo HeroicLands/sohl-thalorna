@@ -9,9 +9,30 @@ name:
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
 id: 0XIdKN3uKTf5qx8n
 img: icons/game-icons/delapouite/golem-head.svg
-portrait: images/being/agrnsntn-portrait.webp
 shortcode: agrnsntn
 type: being
+data:
+  portrait: images/being/agrnsntn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: construct
   archetype: 0

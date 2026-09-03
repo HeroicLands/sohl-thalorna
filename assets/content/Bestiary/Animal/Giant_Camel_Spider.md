@@ -10,9 +10,30 @@ name:
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
 id: k5mpq1z2caMC2nJ0
 img: icons/game-icons/carl-olsen/spider-alt.svg
-portrait: images/being/gntcmlsp-portrait.webp
 shortcode: gntcmlsp
 type: being
+data:
+  portrait: images/being/gntcmlsp-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

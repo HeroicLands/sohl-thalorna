@@ -17,31 +17,26 @@ id: 6Bc5fC5rRrl6cMNj
 folder: Nu7AgLZEmR26u2pk
 shortcode: dagulfvthr
 img: icons/person.svg
-portrait: images/being/dagulfvthr-portrait.webp
 type: being
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-social:
+data:
+  portrait: images/being/dagulfvthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Brigand
-  station: underworld
-  class: unfree
-  society: ""
-  organizations:
-    - blackpine-wolves
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - blckpnwlvs
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 33
   birthday: 686/8/24
-  height:
-    m: 1.73
-  weight:
-    kg: 69.4
-  build:
-    frame: medium
+  height: 1.73
+  weight: 69.4
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown
@@ -49,6 +44,9 @@ traits:
     complexion: medium
     extra_features:
       - Pox marks
+social:
+  station: underworld
+  class: unfree
 sohl:
   archetype: null
   body:

@@ -16,38 +16,35 @@ id: BlrDp37eCZ32JgdP
 folder: 4cwfdMa34UryZqPR
 shortcode: ovlynslthr
 img: icons/person.svg
-portrait: images/being/ovlynslthr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/ovlynslthr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chandler
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 29
   birthday: 691/3/6
-  height:
-    m: 1.6
-  weight:
-    kg: 56
-  build:
-    frame: light
+  height: 1.6
+  weight: 56
+  frame: light
   appearance:
     eye_color: brown
     hair_color: blonde
     skin_color: fair
     complexion: smooth
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Thick woolen cloak
-  misc:
-    - Basket for carrying candles
-    - Carving tools
-    - scented herbs
-    - various molds
+social:
+  station: tradesfolk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 10 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 48 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

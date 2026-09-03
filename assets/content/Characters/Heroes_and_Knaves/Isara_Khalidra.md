@@ -14,31 +14,26 @@ folder: gpXd1anXulwRWZqn
 banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
 img: icons/person.svg
-portrait: images/being/isarakhldr-portrait.webp
 type: being
-thalorna:
-  realm: theradon
-  region: helionis
-social:
+data:
+  portrait: images/being/isarakhldr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan
-  station: administration
-  class: privileged
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thetamzir
+    - theradon
   gender: female
+  species: null
   age: 26
   birthday: 693/10/26
-  height:
-    m: 1.73
-  weight:
-    kg: 62.6
-  build:
-    frame: light
+  height: 1.73
+  weight: 62.6
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown
@@ -47,6 +42,9 @@ traits:
     extra_features:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty
+social:
+  station: administration
+  class: privileged
 sohl:
   archetype: null
   body:

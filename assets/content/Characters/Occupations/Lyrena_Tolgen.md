@@ -16,23 +16,25 @@ id: CcLxUif6suVAlmiY
 folder: J9R0fnGUTBY5z4pd
 shortcode: lyrenatlgn
 img: icons/person.svg
-portrait: images/being/lyrenatlgn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lyrenatlgn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Skald
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 30
   birthday: 690/10/4
-  height:
-    m: 1.73
-  weight:
-    kg: 69
-  build:
-    frame: light
+  height: 1.73
+  weight: 69
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_blonde
@@ -40,16 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - a tattoo of a star on the left shoulder
-gear:
-  weapons:
-    - Dagger
-  armor:
-    - Woolen cloak
-  misc:
-    - Leather belt pouch for scrolls
-    - Lyre
-    - carved wooden amulet
-    - ceremonial dagger
+social:
+  station: tradesfolk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

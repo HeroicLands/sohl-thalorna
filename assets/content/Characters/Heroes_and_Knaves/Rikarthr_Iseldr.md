@@ -17,29 +17,25 @@ id: rn9KO5qrWdoqToSu
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rkrthrsldr
 img: icons/person.svg
-portrait: images/being/rkrthrsldr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
-  occupation: "Mage (Spirit)"
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+data:
+  portrait: images/being/rkrthrsldr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Spirit)
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 54
   birthday: 666/4/27
-  height:
-    m: 1.63
-  weight:
-    kg: 55.8
-  build:
-    frame: medium
+  height: 1.63
+  weight: 55.8
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: silver
@@ -47,6 +43,9 @@ traits:
     complexion: pale
     extra_features:
       - a tattoo of a dolphin on the left wrist
+social:
+  station: mages
+  class: guilded
 sohl:
   archetype: null
   body:

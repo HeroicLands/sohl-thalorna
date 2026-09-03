@@ -17,36 +17,35 @@ id: pgoKQsvyOFACnMKU
 folder: b81DHx3S7C9ep13E
 shortcode: helnmystks
 img: icons/person.svg
-portrait: images/being/helnmystks-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/helnmystks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 40
   birthday: 680/6/12
-  height:
-    m: 1.75
-  weight:
-    kg: 70.3
-  build:
-    frame: medium
+  height: 1.75
+  weight: 70.3
+  frame: medium
   appearance:
     eye_color: green
     hair_color: dark_brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar running down the right leg
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:

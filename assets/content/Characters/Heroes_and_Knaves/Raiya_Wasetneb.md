@@ -16,35 +16,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiyawstnb
 img: icons/person.svg
-portrait: images/being/raiyawstnb-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/raiyawstnb-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Nobility (Courtier)
-  station: administration
-  class: noble
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 27
   birthday: 693/6/15
-  height:
-    m: 1.73
-  weight:
-    kg: 64.9
-  build:
-    frame: light
+  height: 1.73
+  weight: 64.9
+  frame: light
   appearance:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: noble
 sohl:
   archetype: null
   body:

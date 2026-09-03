@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: skhmtkskhn
 img: icons/person.svg
-portrait: images/being/skhmtkskhn-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/skhmtkskhn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 32
   birthday: 688/6/9
-  height:
-    m: 1.75
-  weight:
-    kg: 65.3
-  build:
-    frame: light
+  height: 1.75
+  weight: 65.3
+  frame: light
   appearance:
     eye_color: dark_amber
     hair_color: dark_brown
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar running down the right leg
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

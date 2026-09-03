@@ -17,29 +17,35 @@ id: d19oZWzJXH9Soxub
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgvrdrnhnd
 img: icons/person.svg
-portrait: images/being/sgvrdrnhnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sgvrdrnhnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Warrior and Judge
-  station: soldiery
-  class: noble
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 48
   birthday: 672/5/26
-  height:
-    m: 1.87
-  weight:
-    kg: 85
-  build:
-    frame: heavy
+  height: 1.87
+  weight: 85
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: red
     skin_color: fair
     complexion: rugged
     extra_features: []
+social:
+  station: soldiery
+  class: noble
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -487,12 +493,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

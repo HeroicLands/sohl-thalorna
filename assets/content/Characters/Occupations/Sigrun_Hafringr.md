@@ -16,23 +16,25 @@ id: aX3QjBvKNAp0mxDo
 folder: elH5NDPUuiRCICrE
 shortcode: sgrnhfrngr
 img: icons/person.svg
-portrait: images/being/sgrnhfrngr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sgrnhfrngr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - jrldmstrmvld
   gender: female
+  species: null
   age: 31
   birthday: 689/1/27
-  height:
-    m: 1.8
-  weight:
-    kg: 80
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 80
+  frame: heavy
   appearance:
     eye_color: dark_amber
     hair_color: black
@@ -40,17 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - burn mark on wrist
-gear:
-  weapons:
-    - Clb:1
-    - RndSh:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -507,12 +502,6 @@ sohl:
     - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 55 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 17 } }
-thalorna:
-  realm: jrldmstrmvld
-  region: aelwyth
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

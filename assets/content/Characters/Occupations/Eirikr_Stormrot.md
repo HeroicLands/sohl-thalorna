@@ -16,23 +16,25 @@ id: aUjA3PjeEYqvNSzP
 folder: Ka9XqaF27b0I3Gmq
 shortcode: erkrstrmrt
 img: icons/person.svg
-portrait: images/being/erkrstrmrt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/erkrstrmrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Fisher
-  station: common_folk
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 54
   birthday: 666/2/5
-  height:
-    m: 1.78
-  weight:
-    kg: 75
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 75
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: red
@@ -40,16 +42,10 @@ traits:
     complexion: fair
     extra_features:
       - a scar on the chin
-gear:
-  weapons:
-    - Harpoon
-  armor:
-    - Leather vest
-  misc:
-    - Large wooden barrel for fish
-    - Fishing lines
-    - hooks
-    - weathered sea chart
+social:
+  station: common_folk
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

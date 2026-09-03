@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: parirnkhns
 img: icons/person.svg
-portrait: images/being/parirnkhns-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/parirnkhns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scholar
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 50
   birthday: 670/9/3
-  height:
-    m: 1.73
-  weight:
-    kg: 67.1
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 67.1
+  frame: heavy
   appearance:
     eye_color: warm_brown
     hair_color: white
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

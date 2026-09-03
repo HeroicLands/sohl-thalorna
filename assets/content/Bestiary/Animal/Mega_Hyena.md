@@ -9,9 +9,30 @@ name:
 description: "A colossal four-foot-tall hyena built for bone-crushing bite force and endurance, its sloped back and coarse mottled coat marking a relentless hunter."
 id: KwFBcUKIMJnaE7kG
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/mghyn-portrait.webp
 shortcode: mghyn
 type: being
+data:
+  portrait: images/being/mghyn-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

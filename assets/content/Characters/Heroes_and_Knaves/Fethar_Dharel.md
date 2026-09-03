@@ -15,31 +15,26 @@ folder: J9R0fnGUTBY5z4pd
 shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/fethardhrl-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/fethardhrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - thetamzir
+    - kngdmprvnz
   gender: male
+  species: null
   age: 34
   birthday: 685/5/20
-  height:
-    m: 1.83
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: red
@@ -48,6 +43,9 @@ traits:
     extra_features:
       - an infectious grin
       - often wears outrageously patterned clothing
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

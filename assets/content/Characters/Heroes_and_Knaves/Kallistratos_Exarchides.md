@@ -15,34 +15,39 @@ id: xSWu1nUtq11yojH4
 folder: UFBfgKZUF0bAE7gG
 shortcode: klstrtsxrchds
 img: icons/person.svg
-portrait: images/being/klstrtsxrchds-portrait.webp
 type: being
-thalorna:
-  realm: provinclys
-  region: vylariargn
-social:
-  occupation: "Mage (Fire)"
-  station: mages
-  class: noble
-  society: Ordo Arcanis
-traits:
+data:
+  portrait: images/being/klstrtsxrchds-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: Mage (Fire)
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provinclys
   gender: male
+  species: null
   age: 34
   birthday: 686/3/28
-  height:
-    m: 1.88
-  weight:
-    kg: 86.2
-  build:
-    frame: medium
+  height: 1.88
+  weight: 86.2
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: olive
-    complexion: ""
+    complexion: null
     extra_features:
-      - Faint burn scarring across both palms and the backs of the hands from years of Pyréthos practice
+      - >-
+        Faint burn scarring across both palms and the backs of the hands from years of Pyréthos
+        practice
       - A thin scar along the left jawline from a Quaesitorium field operation
+social:
+  station: mages
+  class: noble
+  society: Ordo Arcanis
 sohl:
   archetype: null
   body:

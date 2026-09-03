@@ -16,23 +16,25 @@ id: nTLFf5GCZdDiGADK
 folder: PuQFDMkRM9i60i5Z
 shortcode: lamzudamik
 img: icons/person.svg
-portrait: images/being/lamzudamik-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lamzudamik-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Scribe
-  station: tradesfolk
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 34
   birthday: 690/3/15
-  height:
-    m: 1.83
-  weight:
-    kg: 72
-  build:
-    frame: medium
+  height: 1.83
+  weight: 72
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: brown
@@ -40,16 +42,10 @@ traits:
     complexion: olive_toned
     extra_features:
       - a scar on the chin
-gear:
-  weapons: []
-  armor:
-    - Simple clothing suitable for his work
-  misc:
-    - Leather bag for tools
-    - Quills
-    - ink
-    - parchment
-    - ledgers
+social:
+  station: tradesfolk
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

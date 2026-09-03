@@ -16,23 +16,25 @@ id: h7ug0g4ai18eWqMy
 folder: PuQFDMkRM9i60i5Z
 shortcode: namrshgzrm
 img: icons/person.svg
-portrait: images/being/namrshgzrm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/namrshgzrm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Town Guard
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 32
   birthday: 688/11/23
-  height:
-    m: 1.8
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.8
+  weight: 66
+  frame: medium
   appearance:
     eye_color: dark_amber
     hair_color: dark_brown
@@ -40,17 +42,10 @@ traits:
     complexion: clear
     extra_features:
       - scar through left eyebrow
-gear:
-  weapons:
-    - ShrtSwd:1
-    - Bklr:1
-  armor:
-    - QSht:1
-    - torch:2
-  misc:
-    - backpk:1
-    - StdRations:3
-    - wtrskin:1
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -506,12 +501,6 @@ sohl:
     - { shortcode: init, type: skill, system: { masteryLevelBase: 38 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 27 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

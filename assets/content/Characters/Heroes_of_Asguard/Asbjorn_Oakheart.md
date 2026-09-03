@@ -16,29 +16,35 @@ id: WyeojtfzVxXJy57s
 folder: Nu7AgLZEmR26u2pk
 shortcode: asbjrnkhrt
 img: icons/person.svg
-portrait: images/being/asbjrnkhrt-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/asbjrnkhrt-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodsman and Guardian
-  station: clergy
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 50
   birthday: 670/7/14
-  height:
-    m: 1.98
-  weight:
-    kg: 109
-  build:
-    frame: massive
+  height: 1.98
+  weight: 109
+  frame: massive
   appearance:
     eye_color: blue
     hair_color: brown
     skin_color: pale
     complexion: weathered
     extra_features: []
+social:
+  station: clergy
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

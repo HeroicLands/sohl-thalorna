@@ -18,29 +18,25 @@ id: BYP7Z32nydjk2iyi
 folder: 7H2fgS0uI3S0B1qz
 shortcode: yasurajckl
 img: icons/person.svg
-portrait: images/being/yasurajckl-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/yasurajckl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Raider Warlord
-  station: soldiery
-  class: free
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 41
   birthday: 679/3/19
-  height:
-    m: 1.72
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.72
+  weight: 66
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -48,6 +44,9 @@ traits:
     complexion: sun-scarred
     extra_features:
       - A long scar from brow to jaw on the left side
+social:
+  station: soldiery
+  class: free
 sohl:
   archetype: null
   body:

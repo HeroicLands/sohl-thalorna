@@ -17,36 +17,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: banutjaut
 img: icons/person.svg
-portrait: images/being/banutjaut-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/banutjaut-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Alchemist
-  station: mages
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 35
   birthday: 685/6/2
-  height:
-    m: 1.6
-  weight:
-    kg: 53.1
-  build:
-    frame: light
+  height: 1.6
+  weight: 53.1
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left ear
+social:
+  station: mages
+  class: guilded
 sohl:
   archetype: null
   body:

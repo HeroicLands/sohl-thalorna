@@ -16,35 +16,34 @@ id: suoA7Rl4e1TOlo6L
 folder: pRBSOhf2qVrV1SQB
 shortcode: laylamarut
 img: icons/person.svg
-portrait: images/being/laylamarut-portrait.webp
 type: being
-thalorna:
-  realm: mtrrchybth
-  region: bethuargn
-social:
+data:
+  portrait: images/being/laylamarut-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercantyler
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - bethuargn
+  affiliations:
+    - mtrrchybth
   gender: female
+  species: null
   age: 26
   birthday: 694/1/4
-  height:
-    m: 1.68
-  weight:
-    kg: 59
-  build:
-    frame: light
+  height: 1.68
+  weight: 59
+  frame: light
   appearance:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

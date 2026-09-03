@@ -9,9 +9,30 @@ name:
 description: "A territorial mass of corrupted vegetation and ancient malice that rises from the soil of deep forests to punish intruders."
 id: 1deqLlOJoWRJ2sPS
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/rtwrth-portrait.webp
 shortcode: rtwrth
 type: being
+data:
+  portrait: images/being/rtwrth-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: dreadspawn
   archetype: 0

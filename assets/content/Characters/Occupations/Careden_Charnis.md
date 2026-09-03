@@ -16,39 +16,35 @@ id: PGzR1Iv8bh4qlL9q
 folder: J9R0fnGUTBY5z4pd
 shortcode: cardnchrns
 img: icons/person.svg
-portrait: images/being/cardnchrns-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/cardnchrns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: male
+  species: null
   age: 62
   birthday: 658/7/11
-  height:
-    m: 1.68
-  weight:
-    kg: 62
-  build:
-    frame: medium
+  height: 1.68
+  weight: 62
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: white
     skin_color: light
     complexion: bronzed
     extra_features: []
-gear:
-  weapons:
-    - Ritual staff
-  armor:
-    - Fur cloak
-  misc:
-    - Leather pouch with sacred herbs
-    - Ritual artifacts
-    - bone charms
-    - healing poultices
+social:
+  station: clergy
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 20 } }
     - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 75 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

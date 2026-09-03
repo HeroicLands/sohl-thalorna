@@ -14,35 +14,34 @@ id: fZ0FZCUHKMFUjyH6
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjlfhrfnsvld
 img: icons/person.svg
-portrait: images/being/bjlfhrfnsvld-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/bjlfhrfnsvld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Infantry
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 29
   birthday: 691/5/19
-  height:
-    m: 1.83
-  weight:
-    kg: 75.3
-  build:
-    frame: medium
+  height: 1.83
+  weight: 75.3
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: brown
     skin_color: light
     complexion: fair
     extra_features: []
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

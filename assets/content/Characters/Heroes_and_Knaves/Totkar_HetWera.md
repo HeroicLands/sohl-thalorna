@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: totkarhtwr
 img: icons/person.svg
-portrait: images/being/totkarhtwr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/totkarhtwr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Litigant
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 48
   birthday: 672/9/17
-  height:
-    m: 1.78
-  weight:
-    kg: 66.7
-  build:
-    frame: heavy
+  height: 1.78
+  weight: 66.7
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: graying_black
     skin_color: tawny
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a leaf on the wrist
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

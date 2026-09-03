@@ -16,35 +16,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
 img: icons/person.svg
-portrait: images/being/mentshpkhr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/mentshpkhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Bureaucrat
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 42
   birthday: 678/2/5
-  height:
-    m: 1.65
-  weight:
-    kg: 61.2
-  build:
-    frame: light
+  height: 1.65
+  weight: 61.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: ebony
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

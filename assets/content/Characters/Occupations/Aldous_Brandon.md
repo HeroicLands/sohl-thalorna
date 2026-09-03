@@ -15,39 +15,35 @@ id: dkyayq7YYDsBS9UY
 folder: elH5NDPUuiRCICrE
 shortcode: aldosbrndn
 img: icons/person.svg
-portrait: images/being/aldosbrndn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/aldosbrndn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Charcoaler
-  station: common_folk
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - repblctrvn
   gender: male
+  species: null
   age: 37
   birthday: 683/5/15
-  height:
-    m: 1.85
-  weight:
-    kg: 80
-  build:
-    frame: medium
+  height: 1.85
+  weight: 80
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: auburn
     skin_color: fair
     complexion: fair
     extra_features: []
-gear:
-  weapons:
-    - Hatchet
-  armor:
-    - Leather gloves
-  misc:
-    - Burlap sacks for charcoal
-    - Kiln tools
-    - fire starter
-    - various types of wood
+social:
+  station: common_folk
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -523,12 +519,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: repblctrvn
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

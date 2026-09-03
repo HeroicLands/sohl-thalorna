@@ -16,29 +16,25 @@ id: 1d1IMLnClylJnPHF
 folder: b81DHx3S7C9ep13E
 shortcode: angldskntkzns
 img: icons/person.svg
-portrait: images/being/angldskntkzns-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/angldskntkzns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 42
   birthday: 678/2/9
-  height:
-    m: 1.91
-  weight:
-    kg: 71.2
-  build:
-    frame: heavy
+  height: 1.91
+  weight: 71.2
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the neck
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

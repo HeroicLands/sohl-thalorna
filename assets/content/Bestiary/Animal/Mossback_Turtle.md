@@ -9,9 +9,30 @@ name:
 description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous domed shell so overgrown with moss, lichen, and fungi it vanishes into the landscape."
 id: 8e0pLwFIiIUuHOsb
 img: icons/game-icons/lorc/turtle.svg
-portrait: images/being/mssbcktr-portrait.webp
 shortcode: mssbcktr
 type: being
+data:
+  portrait: images/being/mssbcktr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -16,29 +16,25 @@ id: kJBNJDcyHSsIax0Z
 folder: heI5Ky6Kqmb61L6c
 shortcode: kamdkhvndr
 img: icons/person.svg
-portrait: images/being/kamdkhvndr-portrait.webp
 type: being
-thalorna:
-  realm: khzrncnfdrtn
-  region: khzryndsrtrgn
-social:
+data:
+  portrait: images/being/kamdkhvndr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Beggar
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - khzryndsrtrgn
+  affiliations:
+    - khzrncnfdrtn
   gender: male
+  species: null
   age: 48
   birthday: 672/9/27
-  height:
-    m: 1.83
-  weight:
-    kg: 77.6
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.6
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -46,6 +42,9 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a phoenix on the chest
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

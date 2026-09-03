@@ -16,38 +16,35 @@ id: X9iBG63d1hHjtkku
 folder: Nu7AgLZEmR26u2pk
 shortcode: vndrcgrskld
 img: icons/person.svg
-portrait: images/being/vndrcgrskld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vndrcgrskld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ostler
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 25
   birthday: 699/4/4
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: blonde
     skin_color: medium
     complexion: rough
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small satchel for personal items
-    - Grooming tools
-    - feed bags
-    - first aid kit for horses
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

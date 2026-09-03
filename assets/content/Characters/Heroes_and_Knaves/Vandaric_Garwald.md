@@ -16,25 +16,26 @@ id: zlOcjaYq8V63SWEZ
 folder: Nu7AgLZEmR26u2pk
 shortcode: vndrcgrwld
 img: icons/person.svg
-portrait: images/being/vndrcgrwld-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vndrcgrwld-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Brigand
-  station: underworld
-  class: unfree
-  society: Varokh
-  organizations:
-    - blackpine-wolves
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - blckpnwlvs
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 35
   birthday: 684/4/19
-  height:
-    m: 1.78
-  weight:
-    kg: 74.8
-  build:
-    frame: medium
+  height: 1.78
+  weight: 74.8
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: dark_brown
@@ -43,6 +44,10 @@ traits:
     extra_features:
       - a disarming smile that does not reach his eyes
       - tattoo of a serpent on his forearm
+social:
+  station: underworld
+  class: unfree
+  society: Varokh
 sohl:
   archetype: null
   body:
@@ -520,12 +525,6 @@ sohl:
     - { shortcode: pence, type: miscgear, system: quantity:31 }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: wtrskin, type: containergear }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: ""
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -15,23 +15,25 @@ id: RPZSqNEm9prJto8t
 folder: elH5NDPUuiRCICrE
 shortcode: hildbrwnng
 img: icons/person.svg
-portrait: images/being/hildbrwnng-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/hildbrwnng-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Prostitute
-  station: underworld
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: female
+  species: null
   age: 24
   birthday: 700/2/5
-  height:
-    m: 1.68
-  weight:
-    kg: 62
-  build:
-    frame: medium
+  height: 1.68
+  weight: 62
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: blonde
@@ -39,16 +41,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a scar running down the back
-gear:
-  weapons:
-    - Dagger (for self-defense)
-  armor:
-    - Simple yet alluring attire suitable for her work
-  misc:
-    - Small pouch for personal items
-    - Makeup kit
-    - secret communication tools
-    - various disguises
+social:
+  station: underworld
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -523,12 +519,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 60 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

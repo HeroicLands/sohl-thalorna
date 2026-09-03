@@ -9,9 +9,30 @@ name:
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."
 id: IkisGKow2uz3lPSw
 img: icons/game-icons/lorc/spectre.svg
-portrait: images/being/flmwrth-portrait.webp
 shortcode: flmwrth
 type: being
+data:
+  portrait: images/being/flmwrth-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

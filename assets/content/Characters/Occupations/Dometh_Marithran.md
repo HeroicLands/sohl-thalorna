@@ -16,37 +16,35 @@ id: tKR69yz8TmeLS1Op
 folder: 9t9O4iB5cYJtSaTG
 shortcode: dmthmrthrn
 img: icons/person.svg
-portrait: images/being/dmthmrthrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/dmthmrthrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: guilded
-  society: Tarvénan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - tarvenirgn
+  affiliations:
+    - kingdmtrvn
   gender: male
+  species: null
   age: 36
   birthday: 684/10/15
-  height:
-    m: 1.75
-  weight:
-    kg: 66
-  build:
-    frame: medium
+  height: 1.75
+  weight: 66
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: brown
     skin_color: tanned
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor: []
-  misc:
-    - Leather bag for scripts
-    - Theatrical costumes
-    - makeup kit
-    - collection of scripts
+social:
+  station: tradesfolk
+  class: guilded
+  society: Tarvénan
 sohl:
   archetype: null
   body:
@@ -525,12 +523,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
-thalorna:
-  realm: kingdmtrvn
-  region: tarvenirgn
-harnworld:
-  realm: Tarvénia
-  ritual: []
 ---
 
 # Appearance {#appearance}

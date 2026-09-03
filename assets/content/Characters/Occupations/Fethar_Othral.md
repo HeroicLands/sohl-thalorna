@@ -16,38 +16,35 @@ id: NhigzxYvJ8xWjmMG
 folder: 4cwfdMa34UryZqPR
 shortcode: fetharthrl
 img: icons/person.svg
-portrait: images/being/fetharthrl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/fetharthrl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Potter
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 40
   birthday: 684/3/9
-  height:
-    m: 1.85
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.85
+  weight: 78
+  frame: medium
   appearance:
     eye_color: green
     hair_color: chestnut
     skin_color: medium
     complexion: fair
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Leather pouch for tools
-    - Kiln
-    - pottery wheel
-    - various clay types
+social:
+  station: tradesfolk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

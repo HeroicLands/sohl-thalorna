@@ -9,9 +9,30 @@ name:
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
 id: Kpo7Htb3b9uJEh6x
 img: icons/game-icons/delapouite/person.svg
-portrait: images/being/nghtwght-portrait.webp
 shortcode: nghtwght
 type: being
+data:
+  portrait: images/being/nghtwght-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: helspawn
   archetype: 0

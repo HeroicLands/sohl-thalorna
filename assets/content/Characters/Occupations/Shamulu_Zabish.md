@@ -16,38 +16,35 @@ id: d6XfPKoIVU27c66l
 folder: PuQFDMkRM9i60i5Z
 shortcode: shamulzbsh
 img: icons/person.svg
-portrait: images/being/shamulzbsh-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/shamulzbsh-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 39
   birthday: 685/1/27
-  height:
-    m: 1.8
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.8
+  weight: 73
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: gray
     skin_color: olive
     complexion: medium
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple robes suitable for healing work
-  misc:
-    - Leather satchel for herbal supplies
-    - Herbal remedies
-    - sacred texts
-    - first aid supplies
+social:
+  station: clergy
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -528,12 +525,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

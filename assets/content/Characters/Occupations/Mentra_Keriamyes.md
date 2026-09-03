@@ -16,23 +16,25 @@ id: sb1QzraK3RXVd6MV
 folder: UFBfgKZUF0bAE7gG
 shortcode: mentrkrmys
 img: icons/person.svg
-portrait: images/being/mentrkrmys-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mentrkrmys-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: female
+  species: null
   age: 27
   birthday: 693/4/19
-  height:
-    m: 1.78
-  weight:
-    kg: 71
-  build:
-    frame: light
+  height: 1.78
+  weight: 71
+  frame: light
   appearance:
     eye_color: green
     hair_color: auburn
@@ -40,15 +42,10 @@ traits:
     complexion: ruddy
     extra_features:
       - a tattoo of a wolf on the shoulder
-gear:
-  weapons: []
-  armor:
-    - Leather work gloves
-  misc:
-    - Wooden crate for supplies
-    - Glass cutters
-    - colored glass pieces
-    - metal frames for windows
+social:
+  station: tradesfolk
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

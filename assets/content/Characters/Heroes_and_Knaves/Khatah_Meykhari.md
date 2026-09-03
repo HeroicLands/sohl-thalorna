@@ -16,36 +16,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
 img: icons/person.svg
-portrait: images/being/khathmykhr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/khathmykhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Yeoman Archer
-  station: soldiery
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 27
   birthday: 693/3/22
-  height:
-    m: 1.78
-  weight:
-    kg: 72.6
-  build:
-    frame: light
+  height: 1.78
+  weight: 72.6
+  frame: light
   appearance:
     eye_color: black
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a spider on the shoulder
+social:
+  station: soldiery
+  class: freeman
 sohl:
   archetype: null
   body:

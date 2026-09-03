@@ -16,35 +16,34 @@ id: nCrXLQipSbxl12H9
 folder: b81DHx3S7C9ep13E
 shortcode: drknsdlsns
 img: icons/person.svg
-portrait: images/being/drknsdlsns-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/drknsdlsns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Trapper
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 52
   birthday: 668/2/2
-  height:
-    m: 1.83
-  weight:
-    kg: 80.3
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 80.3
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: graying_brown
     skin_color: tanned
     complexion: ruddy
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

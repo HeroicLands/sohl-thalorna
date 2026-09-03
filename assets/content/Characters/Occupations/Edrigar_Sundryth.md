@@ -16,39 +16,35 @@ id: XqTCnNsS6Fmhi2eC
 folder: Nu7AgLZEmR26u2pk
 shortcode: edrgrsndryth
 img: icons/person.svg
-portrait: images/being/edrgrsndryth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/edrgrsndryth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: Varokhi
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vrystwald
+  affiliations:
+    - vrystwldtrbs
   gender: male
+  species: null
   age: 45
   birthday: 676/9/22
-  height:
-    m: 1.85
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: auburn
     skin_color: light
     complexion: rough
     extra_features: []
-gear:
-  weapons:
-    - Heavy pickaxe
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Large pack for tools
-    - Safety gear
-    - lantern
-    - geological maps
+social:
+  station: common_folk
+  class: freeman
+  society: Varokhi
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: vrystwldtrbs
-  region: vrystwald
-harnworld:
-  realm: Vrystwald
-  ritual: []
 ---
 
 # Appearance {#appearance}

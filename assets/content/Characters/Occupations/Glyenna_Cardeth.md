@@ -17,43 +17,35 @@ id: IFTKtE0bxvRhALtY
 folder: 4cwfdMa34UryZqPR
 shortcode: glyencrdth
 img: icons/person.svg
-portrait: images/being/glyencrdth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/glyencrdth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Noblewoman / Head of House Cárdeth
-  station: administration
-  class: noble
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 32
   birthday: 692/3/25
-  height:
-    m: 1.8
-  weight:
-    kg: 76
-  build:
-    frame: medium
+  height: 1.8
+  weight: 76
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: blonde
     skin_color: light
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Dgr
-    - ShrtSwd
-  armor:
-    - VRobe
-    - SlGlv
-    - LtCBoot
-  misc:
-    - bpchmdltr
-    - goldcrown
-    - pence
-    - signet ring of House Cárdeth
-    - small vial of perfume concealing consecrated ash
+social:
+  station: administration
+  class: noble
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -526,12 +518,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 25 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

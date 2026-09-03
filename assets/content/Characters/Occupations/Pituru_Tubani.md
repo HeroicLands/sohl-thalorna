@@ -16,23 +16,25 @@ id: Nkxx6syAXvRMdYOP
 folder: PuQFDMkRM9i60i5Z
 shortcode: piturutubn
 img: icons/person.svg
-portrait: images/being/piturutubn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/piturutubn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Man-at-Arms (Sapper)
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 30
   birthday: 694/3/6
-  height:
-    m: 1.8
-  weight:
-    kg: 71
-  build:
-    frame: medium
+  height: 1.8
+  weight: 71
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_black
@@ -40,16 +42,10 @@ traits:
     complexion: dusky
     extra_features:
       - a tattoo of a fish on the lower back
-gear:
-  weapons:
-    - Heavy hammer
-  armor:
-    - Leather apron and gloves
-  misc:
-    - Tool belt for equipment
-    - Basic explosives
-    - measuring tools
-    - blueprints
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 39 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -17,36 +17,35 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: patnfrstmr
 img: icons/person.svg
-portrait: images/being/patnfrstmr-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/patnfrstmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Perfumer
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: male
+  species: null
   age: 35
   birthday: 685/6/7
-  height:
-    m: 1.7
-  weight:
-    kg: 62.6
-  build:
-    frame: medium
+  height: 1.7
+  weight: 62.6
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: ""
+    complexion: null
     extra_features:
       - a scar on the left side of the neck
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

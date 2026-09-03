@@ -9,9 +9,30 @@ name:
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
 id: rD3EROAf0ElFfGjr
 img: icons/game-icons/lorc/wolf-head.svg
-portrait: images/being/spctrwlf-portrait.webp
 shortcode: spctrwlf
 type: being
+data:
+  portrait: images/being/spctrwlf-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

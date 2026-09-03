@@ -9,9 +9,30 @@ name:
 description: "A mountain-nesting bird of prey with a hundred-foot wingspan and body weighed in tons, hunting elephant-sized quarry as a living disaster for expeditions."
 id: MM4WsOp5MweEuH4U
 img: icons/game-icons/delapouite/eagle-head.svg
-portrait: images/being/roc-portrait.webp
 shortcode: roc
 type: being
+data:
+  portrait: images/being/roc-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -9,9 +9,30 @@ name:
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."
 id: qXfebwntoioh2qjT
 img: icons/game-icons/delapouite/eagle-head.svg
-portrait: images/being/gntegl-portrait.webp
 shortcode: gntegl
 type: being
+data:
+  portrait: images/being/gntegl-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

@@ -16,38 +16,35 @@ id: QbfPBi3DldqyunDu
 folder: gpXd1anXulwRWZqn
 shortcode: zahiratbrs
 img: icons/person.svg
-portrait: images/being/zahiratbrs-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/zahiratbrs-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Tentmaker
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thyrenae
   gender: female
+  species: null
   age: 32
   birthday: 688/4/29
-  height:
-    m: 1.7
-  weight:
-    kg: 65
-  build:
-    frame: light
+  height: 1.7
+  weight: 65
+  frame: light
   appearance:
     eye_color: amber
     hair_color: black
     skin_color: fair
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Woolen work coat
-  misc:
-    - Wooden crate for fabrics
-    - Needle and thread
-    - fabric dyes
-    - small loom
+social:
+  station: tradesfolk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -527,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: thyrenae
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

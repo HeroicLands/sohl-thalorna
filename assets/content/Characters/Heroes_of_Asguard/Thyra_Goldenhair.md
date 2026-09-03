@@ -16,29 +16,35 @@ id: 09FAmaYOSLWyv7Ya
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thyrgldnhr
 img: icons/person.svg
-portrait: images/being/thyrgldnhr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/thyrgldnhr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Courtesan and Power Broker
-  station: administration
-  class: freeman
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: female
+  species: null
   age: 31
   birthday: 689/10/27
-  height:
-    m: 1.65
-  weight:
-    kg: 48
-  build:
-    frame: light
+  height: 1.65
+  weight: 48
+  frame: light
   appearance:
     eye_color: blue
     hair_color: blonde
     skin_color: light
     complexion: fair
     extra_features: []
+social:
+  station: administration
+  class: freeman
+  society: Nordheimn
 sohl:
   archetype: null
   items:
@@ -486,12 +492,6 @@ sohl:
       strMod: -5 * floor((str - 10) / 2)
       disabled: false
   defaultCombatGroup: null
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Orbaal
-  ritual: []
 ---
 
 # Appearance {#appearance}

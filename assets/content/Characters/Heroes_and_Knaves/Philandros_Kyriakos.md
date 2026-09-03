@@ -16,36 +16,35 @@ id: PRkrr4DqeA41typS
 folder: b81DHx3S7C9ep13E
 shortcode: phlndrskyrks
 img: icons/person.svg
-portrait: images/being/phlndrskyrks-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/phlndrskyrks-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Herald
-  station: administration
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: male
+  species: null
   age: 45
   birthday: 675/10/3
-  height:
-    m: 1.75
-  weight:
-    kg: 72.6
-  build:
-    frame: medium
+  height: 1.75
+  weight: 72.6
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: graying_brown
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a lion on the thigh
+social:
+  station: administration
+  class: guilded
 sohl:
   archetype: null
   body:

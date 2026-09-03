@@ -16,23 +16,25 @@ id: mWkFGDF4tFbf8zGD
 folder: 4cwfdMa34UryZqPR
 shortcode: rhalizlrth
 img: icons/person.svg
-portrait: images/being/rhalizlrth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/rhalizlrth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Pilot
-  station: tradesfolk
-  class: noble
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 36
   birthday: 688/1/4
-  height:
-    m: 1.7
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.7
+  weight: 63
+  frame: medium
   appearance:
     eye_color: green
     hair_color: blonde
@@ -40,15 +42,10 @@ traits:
     complexion: smooth
     extra_features:
       - a tattoo of a skull on the upper arm
-gear:
-  weapons: []
-  armor:
-    - Flight suit suitable for piloting
-  misc:
-    - Small bag for personal items
-    - Navigation tools
-    - flight logbook
-    - map of trade routes
+social:
+  station: tradesfolk
+  class: noble
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -531,12 +528,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 36 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

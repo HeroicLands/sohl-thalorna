@@ -16,23 +16,25 @@ id: MeR3pzh84KpLMcNf
 folder: J9R0fnGUTBY5z4pd
 shortcode: fryslvlskyr
 img: icons/person.svg
-portrait: images/being/fryslvlskyr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/fryslvlskyr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Chieftain
-  station: administration
-  class: noble
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 42
   birthday: 678/5/30
-  height:
-    m: 1.78
-  weight:
-    kg: 78
-  build:
-    frame: medium
+  height: 1.78
+  weight: 78
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: chestnut
@@ -40,16 +42,10 @@ traits:
     complexion: clear
     extra_features:
       - a tattoo of an eagle on the back
-gear:
-  weapons:
-    - Spear and round shield
-  armor:
-    - Leather armor with metal reinforcements
-  misc:
-    - Woolen satchel
-    - Tribal necklace
-    - hunting knife
-    - map of the territory
+social:
+  station: administration
+  class: noble
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -527,12 +523,6 @@ sohl:
     - { shortcode: fltch, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

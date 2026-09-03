@@ -17,23 +17,25 @@ id: 7JSrigNVLppdQ5Ho
 folder: UFBfgKZUF0bAE7gG
 shortcode: azendsdmtr
 img: icons/person.svg
-portrait: images/being/azendsdmtr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/azendsdmtr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Vylarian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - vylarinmpr
   gender: male
+  species: null
   age: 45
   birthday: 679/3/22
-  height:
-    m: 1.85
-  weight:
-    kg: 81
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 81
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: dark_brown
@@ -41,16 +43,10 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a dragon wrapping around the arm
-gear:
-  weapons:
-    - Staff (symbolic)
-  armor:
-    - Simple robes adorned with earthy motifs
-  misc:
-    - Leather bag for herbal supplies
-    - Sacred texts
-    - herbal remedies
-    - farming tools
+social:
+  station: clergy
+  class: freeman
+  society: Vylarian
 sohl:
   archetype: null
   body:
@@ -532,12 +528,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 33 } }
-thalorna:
-  realm: vylarinmpr
-  region: vylariargn
-harnworld:
-  realm: Azeryàn
-  ritual: []
 ---
 
 # Appearance {#appearance}

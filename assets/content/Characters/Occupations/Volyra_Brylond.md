@@ -16,23 +16,25 @@ id: bNjpiEQhK8nDSqXx
 folder: J9R0fnGUTBY5z4pd
 shortcode: vlyrbrylnd
 img: icons/person.svg
-portrait: images/being/vlyrbrylnd-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/vlyrbrylnd-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thatcher
-  station: common_folk
-  class: freeman
-  society: Provenzian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - kngdmprvnz
   gender: female
+  species: null
   age: 34
   birthday: 690/3/20
-  height:
-    m: 1.7
-  weight:
-    kg: 66
-  build:
-    frame: light
+  height: 1.7
+  weight: 66
+  frame: light
   appearance:
     eye_color: brown
     hair_color: gray
@@ -40,15 +42,10 @@ traits:
     complexion: bronzed
     extra_features:
       - a scar running down the right leg
-gear:
-  weapons: []
-  armor:
-    - Woolen cloak
-  misc:
-    - Leather satchel for tools
-    - Thatching tools
-    - twine
-    - wooden ladder
+social:
+  station: common_folk
+  class: freeman
+  society: Provenzian
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-harnworld:
-  realm: Provenzia
-  ritual: []
 ---
 
 # Appearance {#appearance}

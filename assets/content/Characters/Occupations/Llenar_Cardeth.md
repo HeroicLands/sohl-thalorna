@@ -16,23 +16,25 @@ id: qTlaVvYsKRWmlN2O
 folder: 4cwfdMa34UryZqPR
 shortcode: lenarcrdth
 img: icons/person.svg
-portrait: images/being/lenarcrdth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/lenarcrdth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Ratter
-  station: common_folk
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 45
   birthday: 679/9/29
-  height:
-    m: 1.88
-  weight:
-    kg: 87
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 87
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: silver
@@ -40,16 +42,10 @@ traits:
     complexion: smooth
     extra_features:
       - a scar on the right elbow
-gear:
-  weapons:
-    - Heavy club (for self-defense)
-  armor:
-    - Sturdy work clothes
-  misc:
-    - Large bag for traps and supplies
-    - Traps
-    - trained dog
-    - bait
+social:
+  station: common_folk
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -531,12 +527,6 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

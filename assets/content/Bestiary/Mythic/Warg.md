@@ -10,9 +10,30 @@ name:
 description: "A monstrous four-hundred-pound wolf warped by fell magic into a near-sapient predator far deadlier than any dire wolf."
 id: Fk5LGJPnTZLxzWuG
 img: icons/game-icons/lorc/wolf-head.svg
-portrait: images/being/warg-portrait.webp
 shortcode: warg
 type: being
+data:
+  portrait: images/being/warg-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: mythic
   archetype: 0

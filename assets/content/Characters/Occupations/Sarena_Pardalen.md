@@ -17,40 +17,35 @@ id: A41l76c1zYFl7V93
 folder: 4cwfdMa34UryZqPR
 shortcode: sarenprdln
 img: icons/person.svg
-portrait: images/being/sarenprdln-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/sarenprdln-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 27
   birthday: 697/3/3
-  height:
-    m: 1.7
-  weight:
-    kg: 64
-  build:
-    frame: medium
+  height: 1.7
+  weight: 64
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
     skin_color: pale
     complexion: pale
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - LRobe
-    - LtSandles
-  misc:
-    - bgsmcvs
-    - Herbal compendium
-    - Bandg
-    - dried flower garlands for rites of renewal
-    - mortar and pestle
+social:
+  station: clergy
+  class: freeman
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -532,12 +527,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 12 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

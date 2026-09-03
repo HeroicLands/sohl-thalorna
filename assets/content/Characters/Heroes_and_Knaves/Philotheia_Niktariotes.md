@@ -16,36 +16,35 @@ id: 6EZ1uh00ViHvMf0E
 folder: b81DHx3S7C9ep13E
 shortcode: phlthnktrts
 img: icons/person.svg
-portrait: images/being/phlthnktrts-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/phlthnktrts-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Musician (Lute)
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 26
   birthday: 694/9/6
-  height:
-    m: 1.75
-  weight:
-    kg: 66.2
-  build:
-    frame: light
+  height: 1.75
+  weight: 66.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black
     skin_color: tanned
-    complexion: ""
+    complexion: null
     extra_features:
       - a tattoo of a tree on the back
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

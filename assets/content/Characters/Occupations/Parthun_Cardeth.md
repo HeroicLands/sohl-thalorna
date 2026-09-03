@@ -16,23 +16,25 @@ id: QxeGPva2A0FgB9xO
 folder: 4cwfdMa34UryZqPR
 shortcode: prthncrdth
 img: icons/person.svg
-portrait: images/being/prthncrdth-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/prthncrdth-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Thespian
-  station: tradesfolk
-  class: guilded
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 41
   birthday: 679/5/25
-  height:
-    m: 1.7
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.7
+  weight: 63
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: black
@@ -40,14 +42,10 @@ traits:
     complexion: flawless
     extra_features:
       - a scar on the right side of the face
-gear:
-  weapons: []
-  armor: []
-  misc:
-    - Leather-bound notebook for writing
-    - Quill and ink
-    - collection of scripts
-    - theatrical props
+social:
+  station: tradesfolk
+  class: guilded
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -523,12 +521,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 30 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

@@ -9,9 +9,30 @@ name:
 description: "A lithe nocturnal desert feline up to seven feet long, stalking dune fields and rocky wastes for small prey through the cool night hours."
 id: cF5pl6GNTSOo7LyT
 img: icons/game-icons/lorc/paw-print.svg
-portrait: images/being/sndstlkr-portrait.webp
 shortcode: sndstlkr
 type: being
+data:
+  portrait: images/being/sndstlkr-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: animal
   archetype: 0

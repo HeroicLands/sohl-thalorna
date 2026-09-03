@@ -16,39 +16,35 @@ id: VLB5LzxoiGFfWd3h
 folder: 4cwfdMa34UryZqPR
 shortcode: jethralydr
 img: icons/person.svg
-portrait: images/being/jethralydr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/jethralydr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Astrologer
-  station: mages
-  class: guilded
-  society: Élavendri
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: female
+  species: null
   age: 39
   birthday: 681/5/3
-  height:
-    m: 1.68
-  weight:
-    kg: 60
-  build:
-    frame: light
+  height: 1.68
+  weight: 60
+  frame: light
   appearance:
     eye_color: green
     hair_color: dark_blonde
     skin_color: medium
     complexion: smooth
     extra_features: []
-gear:
-  weapons:
-    - Small dagger
-  armor:
-    - Woolen cloak
-  misc:
-    - Scroll case with charts
-    - Compass
-    - star maps
-    - nautical almanac
+social:
+  station: mages
+  class: guilded
+  society: Élavendri
 sohl:
   archetype: null
   body:
@@ -530,12 +526,6 @@ sohl:
     - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 52 } }
     - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 39 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-harnworld:
-  realm: Élavendre
-  ritual: []
 ---
 
 # Appearance {#appearance}

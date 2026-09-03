@@ -9,9 +9,30 @@ name:
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
 id: 0YaWh1FabKCGtnAs
 img: icons/game-icons/lorc/butterfly.svg
-portrait: images/being/voidmoth-portrait.webp
 shortcode: voidmoth
 type: being
+data:
+  portrait: images/being/voidmoth-portrait.webp
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  peoples: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 sohl:
   kbcat: spirit
   archetype: 0

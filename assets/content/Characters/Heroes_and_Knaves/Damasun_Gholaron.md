@@ -15,31 +15,26 @@ folder: gpXd1anXulwRWZqn
 shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
 img: icons/person.svg
-portrait: images/being/damsnghlrn-portrait.webp
 type: being
-thalorna:
-  realm: ctysttshlns
-  region: helionis
-social:
+data:
+  portrait: images/being/damsnghlrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Priest
-  station: clergy
-  class: freeman
-  society: ""
-  organizations:
-    - tamzir
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - thetamzir
+    - ctysttshlns
   gender: male
+  species: null
   age: 60
   birthday: 659/4/27
-  height:
-    m: 1.83
-  weight:
-    kg: 77.1
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.1
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
@@ -48,6 +43,9 @@ traits:
     extra_features:
       - close-cropped grey-streaked hair
       - an air of quiet authority that belies his humble dress
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:

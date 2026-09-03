@@ -14,38 +14,35 @@ id: WSk96sYAqyEqOLpg
 folder: J9R0fnGUTBY5z4pd
 shortcode: branwldrgr
 img: icons/person.svg
-portrait: images/being/branwldrgr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmprvnz
-  region: provenzrgn
-social:
+data:
+  portrait: images/being/branwldrgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mercenary Captain
-  station: soldiery
-  class: noble
-  society: ""
-  organizations:
-    - silent-talon
-harnworld:
-  realm: ""
-  ritual:
-    - Larani
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - provenzrgn
+  affiliations:
+    - slntlncmpny
+    - kngdmprvnz
   gender: male
+  species: null
   age: 34
   birthday: 686/3/16
-  height:
-    m: 1.85
-  weight:
-    kg: 82
-  build:
-    frame: medium
+  height: 1.85
+  weight: 82
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: graying_brown
     skin_color: fair
     complexion: weathered
     extra_features: []
+social:
+  station: soldiery
+  class: noble
 sohl:
   archetype: null
   body:

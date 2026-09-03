@@ -15,23 +15,25 @@ id: cu7tGz0IEqcWPmsw
 folder: elH5NDPUuiRCICrE
 shortcode: kenelmadwl
 img: icons/person.svg
-portrait: images/being/kenelmadwl-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/kenelmadwl-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Caravan Guard
-  station: soldiery
-  class: freeman
-  society: Aelwythan
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - aelwyth
+  affiliations:
+    - kngdmldrth
   gender: male
+  species: null
   age: 40
   birthday: 684/4/9
-  height:
-    m: 1.88
-  weight:
-    kg: 86
-  build:
-    frame: heavy
+  height: 1.88
+  weight: 86
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: red
@@ -39,16 +41,10 @@ traits:
     complexion: freckled
     extra_features:
       - a scar across the bridge of the nose
-gear:
-  weapons:
-    - Long sword
-  armor:
-    - Heavy chainmail
-  misc:
-    - Large pack for supplies
-    - Shield
-    - survival gear
-    - basic first aid kit
+social:
+  station: soldiery
+  class: freeman
+  society: Aelwythan
 sohl:
   archetype: null
   body:
@@ -526,12 +522,6 @@ sohl:
     - { shortcode: glas, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-thalorna:
-  realm: kngdmldrth
-  region: aelwyth
-harnworld:
-  realm: Aelwyth
-  ritual: []
 ---
 
 # Appearance {#appearance}

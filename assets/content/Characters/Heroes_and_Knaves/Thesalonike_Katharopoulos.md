@@ -16,35 +16,34 @@ id: l0edWhjOQxHZEy92
 folder: b81DHx3S7C9ep13E
 shortcode: thslnkkthrpls
 img: icons/person.svg
-portrait: images/being/thslnkkthrpls-portrait.webp
 type: being
-thalorna:
-  realm: byzarianlg
-  region: byzariargn
-social:
+data:
+  portrait: images/being/thslnkkthrpls-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Woodcutter
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - byzariargn
+  affiliations:
+    - byzarianlg
   gender: female
+  species: null
   age: 34
   birthday: 686/4/24
-  height:
-    m: 1.78
-  weight:
-    kg: 73.5
-  build:
-    frame: medium
+  height: 1.78
+  weight: 73.5
+  frame: medium
   appearance:
     eye_color: green
     hair_color: auburn
     skin_color: golden
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

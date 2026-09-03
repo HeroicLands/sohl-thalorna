@@ -16,23 +16,25 @@ id: D5sRIkeC8wLtO9BS
 folder: PuQFDMkRM9i60i5Z
 shortcode: girdanrshm
 img: icons/person.svg
-portrait: images/being/girdanrshm-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/girdanrshm-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Gladiator
-  station: soldiery
-  class: freeman
-  society: Haradian
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - haradregin
+  affiliations:
+    - cnfdrtnhrdnstts
   gender: male
+  species: null
   age: 42
   birthday: 678/2/19
-  height:
-    m: 1.85
-  weight:
-    kg: 88
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 88
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: gray
@@ -40,16 +42,10 @@ traits:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
-gear:
-  weapons:
-    - Warhammer
-  armor:
-    - Chainmail vest
-  misc:
-    - Leather belt pouch
-    - Training weights
-    - wpnsup
-    - heavy gloves
+social:
+  station: soldiery
+  class: freeman
+  society: Haradian
 sohl:
   archetype: null
   body:
@@ -529,12 +525,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 42 } }
-thalorna:
-  realm: cnfdrtnhrdnstts
-  region: haradregin
-harnworld:
-  realm: Helionis
-  ritual: []
 ---
 
 # Appearance {#appearance}

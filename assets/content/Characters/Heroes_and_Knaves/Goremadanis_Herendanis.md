@@ -16,35 +16,34 @@ id: Mncde691bwG62CIr
 folder: UFBfgKZUF0bAE7gG
 shortcode: grmdnshrndns
 img: icons/person.svg
-portrait: images/being/grmdnshrndns-portrait.webp
 type: being
-thalorna:
-  realm: provncmktr
-  region: vylariargn
-social:
+data:
+  portrait: images/being/grmdnshrndns-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Common Seaman
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - vylariargn
+  affiliations:
+    - provncmktr
   gender: female
+  species: null
   age: 22
   birthday: 698/2/7
-  height:
-    m: 1.73
-  weight:
-    kg: 66.2
-  build:
-    frame: light
+  height: 1.73
+  weight: 66.2
+  frame: light
   appearance:
     eye_color: brown
     hair_color: brown
     skin_color: light
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

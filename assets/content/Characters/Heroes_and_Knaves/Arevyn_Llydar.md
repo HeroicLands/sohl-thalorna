@@ -16,35 +16,34 @@ id: HS1MvsmNU2KsyuPC
 folder: 4cwfdMa34UryZqPR
 shortcode: arevynlydr
 img: icons/person.svg
-portrait: images/being/arevynlydr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmlvndr
-  region: elavendre
-social:
+data:
+  portrait: images/being/arevynlydr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Miner
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - elavendre
+  affiliations:
+    - kngdmlvndr
   gender: male
+  species: null
   age: 45
   birthday: 675/9/22
-  height:
-    m: 1.85
-  weight:
-    kg: 83
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 83
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: black
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

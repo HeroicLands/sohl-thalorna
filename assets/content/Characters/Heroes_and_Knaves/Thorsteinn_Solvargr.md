@@ -16,29 +16,25 @@ id: Xi62HBbqAfDw60NQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnslvrgr
 img: icons/person.svg
-portrait: images/being/thrstnslvrgr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmvthgrd
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/thrstnslvrgr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Glassworker
-  station: tradesfolk
-  class: guilded
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmvthgrd
   gender: male
+  species: null
   age: 52
   birthday: 668/9/5
-  height:
-    m: 1.85
-  weight:
-    kg: 79.4
-  build:
-    frame: medium
+  height: 1.85
+  weight: 79.4
+  frame: medium
   appearance:
     eye_color: gray
     hair_color: gray
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a scar on the chin
+social:
+  station: tradesfolk
+  class: guilded
 sohl:
   archetype: null
   body:

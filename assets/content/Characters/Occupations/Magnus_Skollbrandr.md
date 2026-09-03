@@ -16,39 +16,35 @@ id: WWPel8XOFDWKWLCR
 folder: Ka9XqaF27b0I3Gmq
 shortcode: mgnsklbrndr
 img: icons/person.svg
-portrait: images/being/mgnsklbrndr-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/mgnsklbrndr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Jeweller
-  station: tradesfolk
-  class: guilded
-  society: Nordheimn
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 35
   birthday: 689/4/10
-  height:
-    m: 1.68
-  weight:
-    kg: 63
-  build:
-    frame: medium
+  height: 1.68
+  weight: 63
+  frame: medium
   appearance:
     eye_color: green
     hair_color: red
     skin_color: light
     complexion: weathered
     extra_features: []
-gear:
-  weapons:
-    - Small dagger (for self-defense)
-  armor:
-    - Simple tunic
-  misc:
-    - Wooden box for gems
-    - Jewelers' tools
-    - magnifying glass
-    - polishing cloths
+social:
+  station: tradesfolk
+  class: guilded
+  society: Nordheimn
 sohl:
   archetype: null
   body:
@@ -528,12 +524,6 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 16 } }
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-harnworld:
-  realm: Nordheim
-  ritual: []
 ---
 
 # Appearance {#appearance}

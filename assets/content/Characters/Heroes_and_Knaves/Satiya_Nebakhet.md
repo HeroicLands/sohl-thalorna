@@ -17,35 +17,34 @@ folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp
 shortcode: satiynbkht
 img: icons/person.svg
-portrait: images/being/satiynbkht-portrait.webp
 type: being
-thalorna:
-  realm: empirtkhpr
-  region: takheperurgn
-social:
+data:
+  portrait: images/being/satiynbkht-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Domestic Servant
-  station: common_folk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
   gender: female
+  species: null
   age: 38
   birthday: 682/2/25
-  height:
-    m: 1.83
-  weight:
-    kg: 73
-  build:
-    frame: medium
+  height: 1.83
+  weight: 73
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black
     skin_color: ebony
-    complexion: ""
+    complexion: null
     extra_features: []
+social:
+  station: common_folk
+  class: freeman
 sohl:
   archetype: null
   body:

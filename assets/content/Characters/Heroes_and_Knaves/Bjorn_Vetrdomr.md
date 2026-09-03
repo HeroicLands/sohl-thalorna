@@ -16,29 +16,25 @@ id: 9ZfFDoH8TCU6PfFz
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjrnvtrdmr
 img: icons/person.svg
-portrait: images/being/bjrnvtrdmr-portrait.webp
 type: being
-thalorna:
-  realm: kngdmnrdhm
-  region: nrdlndsrgn
-social:
+data:
+  portrait: images/being/bjrnvtrdmr-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Innkeeper
-  station: tradesfolk
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - nrdlndsrgn
+  affiliations:
+    - kngdmnrdhm
   gender: male
+  species: null
   age: 54
   birthday: 666/3/30
-  height:
-    m: 1.83
-  weight:
-    kg: 72.1
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 72.1
+  frame: heavy
   appearance:
     eye_color: gray
     hair_color: white
@@ -46,6 +42,9 @@ traits:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
+social:
+  station: tradesfolk
+  class: freeman
 sohl:
   archetype: null
   body:

@@ -16,38 +16,35 @@ id: xobu7g1TPvYjics6
 folder: gpXd1anXulwRWZqn
 shortcode: tamithjdrn
 img: icons/person.svg
-portrait: images/being/tamithjdrn-portrait.webp
 type: being
-social:
+data:
+  portrait: images/being/tamithjdrn-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Mason
-  station: tradesfolk
-  class: freeman
-  society: Helionite
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - helionis
+  affiliations:
+    - pelagora
   gender: female
+  species: null
   age: 28
   birthday: 696/4/2
-  height:
-    m: 1.8
-  weight:
-    kg: 75
-  build:
-    frame: light
+  height: 1.8
+  weight: 75
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown
     skin_color: olive
     complexion: weathered
     extra_features: []
-gear:
-  weapons: []
-  armor:
-    - Simple work clothes
-  misc:
-    - Small satchel for personal items
-    - Trowels
-    - level
-    - measuring tape
+social:
+  station: tradesfolk
+  class: freeman
+  society: Helionite
 sohl:
   archetype: null
   body:
@@ -529,12 +526,6 @@ sohl:
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-thalorna:
-  realm: pelagora
-  region: helionis
-harnworld:
-  realm: Bethua
-  ritual: []
 ---
 
 # Appearance {#appearance}

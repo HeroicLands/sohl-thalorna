@@ -16,35 +16,34 @@ id: a1YDztFxs4vUPXNj
 folder: kCKYObmsvraIezCd
 shortcode: firavdprsk
 img: icons/person.svg
-portrait: images/being/firavdprsk-portrait.webp
 type: being
-thalorna:
-  realm: dunhartrbs
-  region: dunhardsrtrgn
-social:
+data:
+  portrait: images/being/firavdprsk-portrait.webp
+  templatePriority: null
+  archetypes: []
   occupation: Shaman
-  station: clergy
-  class: freeman
-  society: ""
-harnworld:
-  realm: ""
-  ritual: []
-traits:
+  stations: []
+  peoples: []
+  homes:
+    - dunhardsrtrgn
+  affiliations:
+    - dunhartrbs
   gender: male
+  species: null
   age: 62
   birthday: 658/7/11
-  height:
-    m: 1.68
-  weight:
-    kg: 62.1
-  build:
-    frame: medium
+  height: 1.68
+  weight: 62.1
+  frame: medium
   appearance:
     eye_color: dark_brown
     hair_color: white
     skin_color: tanned
     complexion: weathered
     extra_features: []
+social:
+  station: clergy
+  class: freeman
 sohl:
   archetype: null
   body:
