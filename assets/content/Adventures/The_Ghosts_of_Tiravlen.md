@@ -16,7 +16,7 @@ data:
   cast: []
   factions: []
   follows: []
-  status: null
+  status: draft
   party:
     size: null
     archetypes: []

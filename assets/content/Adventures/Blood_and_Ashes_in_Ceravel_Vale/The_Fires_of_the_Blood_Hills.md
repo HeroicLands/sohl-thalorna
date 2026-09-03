@@ -14,7 +14,7 @@ data:
   factions: []
   follows:
     - webdeceit
-  status: null
+  status: draft
   party:
     size: null
     archetypes: []

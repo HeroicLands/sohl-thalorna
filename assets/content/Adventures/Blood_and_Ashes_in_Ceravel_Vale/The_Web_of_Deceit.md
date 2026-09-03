@@ -14,7 +14,7 @@ data:
   factions: []
   follows:
     - bndtscrvlvl
-  status: null
+  status: draft
   party:
     size: null
     archetypes: []
