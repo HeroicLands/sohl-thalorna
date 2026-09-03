@@ -9,6 +9,8 @@ tags:
 type: place
 subType: region
 data:
+  parents:
+    - worldthlrn
   demonym: Kaliharan
   lore:
     - humanflk

@@ -8,6 +8,8 @@ tags:
 type: place
 subType: region
 data:
+  parents:
+    - worldthlrn
   demonym: Aurionite
   lore:
     - humanflk
