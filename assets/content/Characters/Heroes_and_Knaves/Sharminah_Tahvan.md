@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - clergy
 name:
   full: Sharmînah Tahvân
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

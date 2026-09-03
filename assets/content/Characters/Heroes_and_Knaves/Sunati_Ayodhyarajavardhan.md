@@ -5,6 +5,7 @@ aliases:
   - Sunati Ayodhyarajavardhan
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Sunáti Āyodhyārājavardhan
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

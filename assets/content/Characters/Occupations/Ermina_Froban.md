@@ -4,6 +4,7 @@ aliases:
   - Ermina Froban
 tags:
   - draft
+  - common-folk
 name:
   full: Ermína Fróðbán
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Fisher
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: ruddy
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

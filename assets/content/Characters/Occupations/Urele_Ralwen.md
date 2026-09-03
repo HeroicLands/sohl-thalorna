@@ -4,6 +4,7 @@ aliases:
   - Urele Ralwen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Úrelè Rálwen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

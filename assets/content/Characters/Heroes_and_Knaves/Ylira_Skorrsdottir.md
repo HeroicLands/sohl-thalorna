@@ -3,6 +3,7 @@ aliases:
   - Ylíra Skorrsdottir
 tags:
   - tamzir-crew
+  - soldiery
 name:
   full: Ylíra Skorrsdottir
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Warrior
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -43,9 +45,6 @@ data:
       - lean and wiry
       - scar on her right hand
       - intensity in her gaze that unnerves strangers
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

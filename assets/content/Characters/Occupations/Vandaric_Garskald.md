@@ -4,6 +4,7 @@ aliases:
   - Vandaric Garskald
 tags:
   - draft
+  - common-folk
 name:
   full: Vandaric Gárskald
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: rough
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Pálina Sánriceth
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - landedlordrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -43,10 +46,6 @@ data:
     complexion: rugged
     extra_features:
       - a scar running down the right leg
-social:
-  station: clergy
-  class: noble
-  society: Tarvénan
 sohl:
   archetype: null
   body:

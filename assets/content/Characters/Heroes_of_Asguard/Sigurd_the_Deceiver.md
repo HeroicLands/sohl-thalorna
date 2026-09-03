@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - unguilded
+  - underworld
 name:
   full: Sigurd the Deceiver
   title: null
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Thief and Con Artist
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: light
     complexion: battle_scarred
     extra_features: []
-social:
-  station: underworld
-  class: unguilded
-  society: Nordheimn
 sohl:
   archetype: null
   items:

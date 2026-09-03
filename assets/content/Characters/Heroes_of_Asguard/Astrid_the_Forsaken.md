@@ -4,6 +4,8 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - unguilded
+  - soldiery
 name:
   full: Astrid the Forsaken
   title: null
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Wanderer and Warrior
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: fair
     complexion: smooth
     extra_features: []
-social:
-  station: soldiery
-  class: unguilded
-  society: Nordheimn
 sohl:
   archetype: null
   items:

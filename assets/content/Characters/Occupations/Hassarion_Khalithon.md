@@ -4,6 +4,7 @@ aliases:
   - Hassarion Khalithon
 tags:
   - draft
+  - administration
 name:
   full: Hassârìon Khalîthôn
   title: Lord
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: olive_toned
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Sigrithr Hrafnsvald
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sigríthr Hrafnsvald
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a bear on the left arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

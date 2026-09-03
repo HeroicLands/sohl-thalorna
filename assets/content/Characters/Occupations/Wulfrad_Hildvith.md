@@ -4,6 +4,7 @@ aliases:
   - Wulfrad Hildvith
 tags:
   - draft
+  - soldiery
 name:
   full: Wulfrád Hildvith
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: rugged
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

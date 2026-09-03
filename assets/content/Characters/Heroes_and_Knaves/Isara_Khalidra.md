@@ -3,6 +3,7 @@ aliases:
   - Isâra Khalîdra
 tags:
   - tamzir-crew
+  - administration
 name:
   full: Isâra Khalîdra
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - gentryrnk
   homes:
     - helionis
   affiliations:
@@ -42,9 +44,6 @@ data:
     extra_features:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty
-social:
-  station: administration
-  class: privileged
 sohl:
   archetype: null
   body:

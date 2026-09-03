@@ -5,6 +5,7 @@ aliases:
   - Koremdanis Barkratys
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Korêmdânis Bárkrâtys
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

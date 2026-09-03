@@ -3,6 +3,7 @@ aliases:
   - Maud Osgood
 tags:
   - draft
+  - common-folk
 name:
   full: Maud Osgood
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the back of the left arm
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

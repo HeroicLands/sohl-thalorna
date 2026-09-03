@@ -5,6 +5,8 @@ aliases:
   - Patnefur Setmaar
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Pat'nefur Set'maâr
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +46,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the left side of the neck
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -3,6 +3,7 @@ aliases:
   - Garulf Druthgar
 tags:
   - tamzir-crew
+  - soldiery
 name:
   full: Garulf Druthgar
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Sellsword
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -43,9 +45,6 @@ data:
       - a broken nose
       - massive hands
       - carries a heavy battleaxe he calls 'Vára'
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

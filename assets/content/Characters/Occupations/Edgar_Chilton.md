@@ -3,6 +3,7 @@ aliases:
   - Edgar Chilton
 tags:
   - draft
+  - tradesfolk
 name:
   full: Edgar Chilton
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Embalmer
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the abdomen
-social:
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

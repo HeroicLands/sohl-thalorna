@@ -4,6 +4,7 @@ aliases:
   - Rakhimea Khalithon
 tags:
   - draft
+  - soldiery
 name:
   full: Ràkhîmêa Khalîthôn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a bear on the left arm
-social:
-  station: soldiery
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

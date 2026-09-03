@@ -5,6 +5,7 @@ aliases:
   - Chandrakirtisundari Jayavalli
 tags:
   - heroes-and-knaves
+  - underworld
 name:
   full: Chandrakīrtisundarī Jayavalli
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Prostitute
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: underworld
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Lamzu Damiki
 tags:
   - draft
+  - tradesfolk
 name:
   full: Lâmzû Damîkî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the chin
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

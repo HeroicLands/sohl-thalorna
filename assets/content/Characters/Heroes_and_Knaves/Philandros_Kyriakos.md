@@ -5,6 +5,8 @@ aliases:
   - Philandros Kyriakos
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Philándros Kyriákos
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a lion on the thigh
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

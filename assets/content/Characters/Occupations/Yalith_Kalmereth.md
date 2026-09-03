@@ -4,6 +4,7 @@ aliases:
   - Yalith Kalmereth
 tags:
   - draft
+  - tradesfolk
 name:
   full: Yálith Kálmereth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bard
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the left eye
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

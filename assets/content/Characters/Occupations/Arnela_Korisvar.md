@@ -4,6 +4,7 @@ aliases:
   - Arnela Korisvar
 tags:
   - draft
+  - administration
 name:
   full: Ârnela Kórisvar
   title: Lady
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Nobility (Manor Lord)
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

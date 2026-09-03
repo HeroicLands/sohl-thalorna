@@ -5,6 +5,7 @@ aliases:
   - Yngvarr Blotholl
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Yngvarr Blóthǫll
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Jester
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

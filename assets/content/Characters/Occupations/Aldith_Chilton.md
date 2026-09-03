@@ -4,6 +4,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Aldith Chilton
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: clergy
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

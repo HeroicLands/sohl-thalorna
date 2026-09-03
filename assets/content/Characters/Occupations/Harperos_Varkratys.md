@@ -4,6 +4,7 @@ aliases:
   - Harperos Varkratys
 tags:
   - draft
+  - soldiery
 name:
   full: Harpêros Vârkrâtys
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar along the jawline
-social:
-  station: soldiery
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

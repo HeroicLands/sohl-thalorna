@@ -4,6 +4,7 @@ aliases:
   - Othwin Domhar
 tags:
   - draft
+  - common-folk
 name:
   full: Óthwin Dómhár
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Trapper
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

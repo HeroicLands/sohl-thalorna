@@ -5,6 +5,7 @@ aliases:
   - Kallinikos Zygomalas
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kallínikos Zygomálas
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar on the left thigh
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

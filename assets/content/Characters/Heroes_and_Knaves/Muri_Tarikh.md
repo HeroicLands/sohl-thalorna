@@ -5,6 +5,7 @@ aliases:
   - Muri Tarikh
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Muri Târikh
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Caravan Guard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - kaliharargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar across the bridge of the nose
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

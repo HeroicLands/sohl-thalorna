@@ -5,6 +5,7 @@ aliases:
   - Xadros Daemates
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Xadrôs Dâemâtês
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
   - Azato Daemzanis
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Azatô Dâemzânis
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
-social:
-  station: mages
-  class: guilded
-  society: Vylarian
 sohl:
   archetype: null
   body:

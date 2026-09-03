@@ -5,6 +5,8 @@ aliases:
   - Ailema Keriamyes
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Ailêmâ Kêrîamyês
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Nulazi Zarrashi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Nûlazî Zarrâshî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: warm
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

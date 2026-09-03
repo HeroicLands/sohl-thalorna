@@ -5,6 +5,7 @@ aliases:
   - Narava Suryatejamahananda
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Nárava Sūryatejamahānanda
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a compass on the chest
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

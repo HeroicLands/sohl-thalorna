@@ -6,6 +6,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Thráwald Hildskorn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - slavernk
   homes:
     - vrystwald
   affiliations:
@@ -45,10 +48,6 @@ data:
       - missing two fingers on left hand
       - thick neck
       - nose broken multiple times
-social:
-  station: underworld
-  class: unfree
-  society: Varokh
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Rhalia Zalreth
 tags:
   - draft
+  - tradesfolk
 name:
   full: Rhália Zálreth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - landedlordrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: smooth
     extra_features:
       - a tattoo of a skull on the upper arm
-social:
-  station: tradesfolk
-  class: noble
-  society: Élavendri
 sohl:
   archetype: null
   body:

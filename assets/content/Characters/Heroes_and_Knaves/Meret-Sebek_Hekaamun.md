@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - mages
 name:
   full: Meret-Sebek Heka’amun
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: mages
-  class: noble
 sohl:
   archetype: null
   body:

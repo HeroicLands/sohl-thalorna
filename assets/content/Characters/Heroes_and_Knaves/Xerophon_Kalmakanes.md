@@ -5,6 +5,7 @@ aliases:
   - Xerophon Kalmakanes
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Xerôphôn Kâlmâkanês
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Gaoler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left ear
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

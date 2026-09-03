@@ -4,6 +4,7 @@ aliases:
   - Lyraen Valskyr
 tags:
   - draft
+  - common-folk
 name:
   full: Lýraen Válskyr
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: medium
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

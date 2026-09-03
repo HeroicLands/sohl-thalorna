@@ -4,6 +4,7 @@ aliases:
   - Thordis Drottgar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thórdís Dróttgar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

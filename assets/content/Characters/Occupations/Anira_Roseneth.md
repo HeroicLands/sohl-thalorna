@@ -4,6 +4,7 @@ aliases:
   - Anira Roseneth
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ánira Róseneth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Musician (Lute)
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a tree on the back
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

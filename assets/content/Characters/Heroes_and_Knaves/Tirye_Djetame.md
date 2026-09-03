@@ -4,6 +4,7 @@ aliases:
   - Tirye Djet'amê
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Tirye Djet'amê
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

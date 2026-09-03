@@ -4,6 +4,7 @@ aliases:
   - Torsaro Thalidran
 tags:
   - draft
+  - soldiery
 name:
   full: Tórsaro Thalídran
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Parthun Belthal
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Párthun Bélthal
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left foot
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Mahmudros Gharidis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Maḥmûdrós Gharîdís
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Gunnvor Hafringr
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Gunnvǫr Hafringr
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

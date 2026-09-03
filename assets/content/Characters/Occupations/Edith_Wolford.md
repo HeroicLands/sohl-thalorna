@@ -3,6 +3,8 @@ aliases:
   - Edith Wolford
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Edith Wolford
   title: ""
@@ -22,7 +24,9 @@ data:
   archetypes: []
   occupation: Jeweller
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +44,6 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
 sohl:
   archetype: null
   body:

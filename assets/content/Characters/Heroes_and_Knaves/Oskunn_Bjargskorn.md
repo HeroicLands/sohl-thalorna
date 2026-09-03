@@ -5,6 +5,7 @@ aliases:
   - Oskunn Bjargskorn
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Óskunn Bjargskorn
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

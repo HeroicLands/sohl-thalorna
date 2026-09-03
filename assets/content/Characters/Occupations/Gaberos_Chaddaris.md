@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Gábêros Chàddâris
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: warm
     complexion: bronzed
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

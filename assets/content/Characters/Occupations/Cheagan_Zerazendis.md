@@ -4,6 +4,7 @@ aliases:
   - Cheagan Zerazendis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Chéagan Zêrâzêndis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar across the bridge of the nose
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

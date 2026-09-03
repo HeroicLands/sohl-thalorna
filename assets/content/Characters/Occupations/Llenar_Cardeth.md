@@ -4,6 +4,7 @@ aliases:
   - Llenar Cardeth
 tags:
   - draft
+  - common-folk
 name:
   full: Llénar Cárdeth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Ratter
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: smooth
     extra_features:
       - a scar on the right elbow
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Daryash Shavan
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Daryash Shavân
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

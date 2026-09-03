@@ -4,6 +4,7 @@ aliases:
   - Esharum Elluram
 tags:
   - draft
+  - common-folk
 name:
   full: Eshârum Ellûram
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a waterfall on the shoulder
-social:
-  station: common_folk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

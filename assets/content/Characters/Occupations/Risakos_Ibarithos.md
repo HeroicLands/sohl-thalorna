@@ -4,6 +4,7 @@ aliases:
   - Risakos Ibarithos
 tags:
   - draft
+  - tradesfolk
 name:
   full: Rísàkós Ibârìthôs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a scar on the left calf
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

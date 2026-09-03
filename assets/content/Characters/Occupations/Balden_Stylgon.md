@@ -4,6 +4,7 @@ aliases:
   - Balden Stylgon
 tags:
   - draft
+  - tradesfolk
 name:
   full: Bâlden Stýlgon
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Skald
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right hand
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

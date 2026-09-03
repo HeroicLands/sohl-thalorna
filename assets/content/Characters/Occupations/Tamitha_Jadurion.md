@@ -4,6 +4,7 @@ aliases:
   - Tamitha Jadurion
 tags:
   - draft
+  - tradesfolk
 name:
   full: Tamîtha Jâdurîon
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mason
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

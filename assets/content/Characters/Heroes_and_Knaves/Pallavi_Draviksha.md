@@ -5,6 +5,8 @@ aliases:
   - Pallavi Draviksha
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Pallàvi Drâviksha
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

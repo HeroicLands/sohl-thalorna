@@ -5,6 +5,7 @@ aliases:
   - Tamiyra Jaut
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Ta'miyra Jâut
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a faint scar on the left side of the neck
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

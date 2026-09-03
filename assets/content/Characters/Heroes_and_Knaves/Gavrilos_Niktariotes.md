@@ -5,6 +5,7 @@ aliases:
   - Gavrilos Niktariotes
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Gávrilos Niktariôtês
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Thaven Farwen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thâven Fárwèn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bosun
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a crescent moon on the neck and a Seaman's Guild tatoo on his right arm.
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

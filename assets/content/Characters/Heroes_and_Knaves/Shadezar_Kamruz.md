@@ -5,6 +5,7 @@ aliases:
   - Shadezar Kamruz
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Shâdezar Kamruz
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - dunhardsrtrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: ruddy
     extra_features: []
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Visvara Mahapara
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Viśvàra Mahâpara
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the right calf
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

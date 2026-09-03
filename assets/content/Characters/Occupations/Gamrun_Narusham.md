@@ -4,6 +4,8 @@ aliases:
   - Gamrun Narusham
 tags:
   - draft
+  - guilded
+  - soldiery
 name:
   full: Gamrûn Narûsham
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: tanned
     complexion: smooth
     extra_features: []
-social:
-  station: soldiery
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

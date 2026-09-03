@@ -5,6 +5,7 @@ aliases:
   - Senta TaSereket
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Sênta Ta'Sereket
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Caravan Guard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

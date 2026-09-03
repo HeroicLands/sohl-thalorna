@@ -4,6 +4,7 @@ aliases:
   - Harekos Baremzator
 tags:
   - draft
+  - common-folk
 name:
   full: Hàrêkôs Bàremzâtôr
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Thatcher
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Kamid Khavandar
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Kamîd Khâvandar
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a phoenix on the chest
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

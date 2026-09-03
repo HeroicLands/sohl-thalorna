@@ -4,6 +4,7 @@ aliases:
   - Edrigar Sundryth
 tags:
   - draft
+  - common-folk
 name:
   full: Edrígar Sundrýth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: rough
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

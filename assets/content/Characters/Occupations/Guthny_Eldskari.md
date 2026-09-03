@@ -4,6 +4,7 @@ aliases:
   - Guthny Eldskari
 tags:
   - draft
+  - common-folk
 name:
   full: Guthný Eldskari
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Labourer (farm)
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

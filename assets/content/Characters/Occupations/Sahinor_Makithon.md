@@ -4,6 +4,7 @@ aliases:
   - Sahinor Makithon
 tags:
   - draft
+  - administration
 name:
   full: Sahînór Mâkîthôn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left foot
-social:
-  station: administration
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Rimmaru Ushuri
 tags:
   - draft
+  - tradesfolk
 name:
   full: Rimmârû Ushûrî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - landedlordrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: sun_kissed
     extra_features:
       - a scar on the neck
-social:
-  station: tradesfolk
-  class: noble
-  society: Haradian
 sohl:
   archetype: null
   body:

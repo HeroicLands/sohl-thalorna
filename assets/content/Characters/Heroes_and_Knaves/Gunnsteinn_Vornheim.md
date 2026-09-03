@@ -5,6 +5,7 @@ aliases:
   - Gunnsteinn Vornheim
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Gunnsteinn Vǫrnheim
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Leifr Drottgar
 tags:
   - draft
+  - common-folk
 name:
   full: Leifr Dróttgar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right cheek
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

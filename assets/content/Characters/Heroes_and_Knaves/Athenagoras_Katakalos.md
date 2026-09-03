@@ -5,6 +5,7 @@ aliases:
   - Athenagoras Katakalos
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Athênagoras Katakálos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a rose vine on the leg
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

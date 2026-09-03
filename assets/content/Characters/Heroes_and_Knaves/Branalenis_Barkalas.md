@@ -5,6 +5,7 @@ aliases:
   - Branalenis Barkalas
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Brânalenîs Bárkalâs
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Renute Reenfre
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Renutê Re'en'fré
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

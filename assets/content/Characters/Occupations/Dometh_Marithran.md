@@ -4,6 +4,8 @@ aliases:
   - Dometh Marithran
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Dómeth Maríthran
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Tarvénan
 sohl:
   archetype: null
   body:

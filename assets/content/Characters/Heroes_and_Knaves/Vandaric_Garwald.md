@@ -5,6 +5,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Vandaric Garwald
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - slavernk
   homes:
     - vrystwald
   affiliations:
@@ -44,10 +47,6 @@ data:
     extra_features:
       - a disarming smile that does not reach his eyes
       - tattoo of a serpent on his forearm
-social:
-  station: underworld
-  class: unfree
-  society: Varokh
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
   - Zadimeros Makithon
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Zádìmêros Mâkîthôn
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: tradesfolk
-  class: guilded
-  society: Helionite
 sohl:
   archetype: null
   body:

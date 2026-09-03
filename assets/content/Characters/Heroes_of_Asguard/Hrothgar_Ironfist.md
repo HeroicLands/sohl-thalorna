@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Hrothgar Ironfist
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Blacksmith and Warrior
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: ruddy
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

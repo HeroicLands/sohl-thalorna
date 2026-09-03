@@ -4,6 +4,7 @@ aliases:
   - Teshuran Burnashi
 tags:
   - draft
+  - soldiery
 name:
   full: Teshûran Bûrnashî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

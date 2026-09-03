@@ -4,6 +4,7 @@ aliases:
   - Taldor Kalmereth
 tags:
   - draft
+  - common-folk
 name:
   full: Táldor Kálmereth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Fisher
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar near the right ear
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

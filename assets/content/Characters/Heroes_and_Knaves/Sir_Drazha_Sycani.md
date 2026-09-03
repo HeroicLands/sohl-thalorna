@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Sir Drazha Sycâni, Knight of the Black Flame
   title: Sir
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Nobility (Knight Bachelor)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - kaliharargn
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: noble
 sohl:
   archetype: null
   body:

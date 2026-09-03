@@ -4,6 +4,7 @@ aliases:
   - Arisla Korisvar
 tags:
   - draft
+  - administration
 name:
   full: Árisla Kórisvar
   title: Lady
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

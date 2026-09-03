@@ -3,6 +3,8 @@ aliases:
   - Edmund Wolford
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Edmund Wolford
   title: ""
@@ -22,7 +24,9 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a scar above the left eyebrow
-social:
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Namrûsh Gazrûm
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - scar through left eyebrow
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

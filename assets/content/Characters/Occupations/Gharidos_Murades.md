@@ -4,6 +4,7 @@ aliases:
   - Gharidos Murades
 tags:
   - draft
+  - common-folk
 name:
   full: Ghârîdos Mûrâdês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Longshoreman
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: bronzed
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

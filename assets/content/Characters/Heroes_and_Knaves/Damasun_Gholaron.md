@@ -3,6 +3,7 @@ aliases:
   - Dámàsûn Ghôlâron
 tags:
   - tamzir-crew
+  - clergy
 name:
   full: Dámàsûn Ghôlâron
   title: ""
@@ -22,7 +23,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -43,9 +45,6 @@ data:
     extra_features:
       - close-cropped grey-streaked hair
       - an air of quiet authority that belies his humble dress
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

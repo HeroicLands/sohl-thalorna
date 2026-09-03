@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Yâsûra the Jackal
   title: ""
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Raider Warlord
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - bethuargn
   affiliations:
@@ -44,9 +46,6 @@ data:
     complexion: sun-scarred
     extra_features:
       - A long scar from brow to jaw on the left side
-social:
-  station: soldiery
-  class: free
 sohl:
   archetype: null
   body:

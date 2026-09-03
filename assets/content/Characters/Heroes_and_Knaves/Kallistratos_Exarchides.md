@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - mages
 name:
   full: Kallistratos Exarchides
   title: ""
@@ -22,11 +23,13 @@ data:
   archetypes: []
   occupation: Mage (Fire)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - vylariargn
   affiliations:
     - provinclys
+    - ordoarcanis
   gender: male
   species: null
   age: 34
@@ -44,10 +47,6 @@ data:
         Faint burn scarring across both palms and the backs of the hands from years of Pyréthos
         practice
       - A thin scar along the left jawline from a Quaesitorium field operation
-social:
-  station: mages
-  class: noble
-  society: Ordo Arcanis
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Hersais SaAnut
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Her'sa'îs Sa'Anut
   title: Haty'a
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   body:

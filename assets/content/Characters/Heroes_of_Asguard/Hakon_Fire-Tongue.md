@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - underworld
 name:
   full: Hakon Fire-Tongue
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Agitator and Orator
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: sun_kissed
     extra_features: []
-social:
-  station: underworld
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

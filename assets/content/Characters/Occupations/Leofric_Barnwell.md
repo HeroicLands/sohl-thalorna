@@ -3,6 +3,7 @@ aliases:
   - Leofric Barnwell
 tags:
   - draft
+  - tradesfolk
 name:
   full: Leofric Barnwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

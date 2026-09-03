@@ -5,6 +5,7 @@ aliases:
   - Thorsteinn Jarnskel
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Thorsteinn Járnskel
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Herder
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

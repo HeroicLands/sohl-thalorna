@@ -4,6 +4,7 @@ aliases:
   - Theressa Habiles
 tags:
   - draft
+  - underworld
 name:
   full: Thêrèssa Hàbîlês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Prostitute
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a butterfly on the neck
-social:
-  station: underworld
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

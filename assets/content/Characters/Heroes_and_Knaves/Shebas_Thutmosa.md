@@ -3,6 +3,8 @@ aliases:
   - Shebas Thutmosa
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Shebas Thutmosa
   title: ""
@@ -22,7 +24,8 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the left arm
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

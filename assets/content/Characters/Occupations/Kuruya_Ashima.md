@@ -4,6 +4,7 @@ aliases:
   - Kuruya Ashima
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kûrûya Ashîmâ
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left ankle
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

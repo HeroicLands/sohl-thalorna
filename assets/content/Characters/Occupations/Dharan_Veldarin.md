@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Dháran Véldarin
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - landedlordrnk
   homes:
     - elavendre
   affiliations:
@@ -45,10 +48,6 @@ data:
       - >-
         a brand of the Black Flame scarred into the skin above the heart, always concealed beneath
         clothing
-social:
-  station: clergy
-  class: noble
-  society: Élavendri
 sohl:
   archetype: null
   body:

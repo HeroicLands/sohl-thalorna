@@ -4,6 +4,7 @@ aliases:
   - Saferus Gholaris
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sáfêrús Ghôlâris
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the abdomen
-social:
-  station: tradesfolk
-  class: noble
-  society: Helionite
 sohl:
   archetype: null
   body:

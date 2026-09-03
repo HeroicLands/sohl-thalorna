@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Zahira Malkhet
   title: ""
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Bounty Hunter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - bethuargn
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: dark
     complexion: tanned
     extra_features: []
-social:
-  station: soldiery
-  class: free
 sohl:
   archetype: null
   body:

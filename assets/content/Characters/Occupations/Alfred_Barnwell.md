@@ -3,6 +3,7 @@ aliases:
   - Alfred Barnwell
 tags:
   - draft
+  - mages
 name:
   full: Alfred Barnwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: light
     complexion: pale
     extra_features: []
-social:
-  station: mages
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

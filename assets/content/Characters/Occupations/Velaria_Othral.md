@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Vélaria Óthral
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: medium
     complexion: fair
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Osk Drekanott
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Ósk Drekanótt
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Thatcher
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the right leg
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - clergy
 name:
   full: Leónantos Stratégopoulos
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -43,9 +46,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a skill and crossbones on the chest
-social:
-  station: clergy
-  class: guilded
 sohl:
   archetype: null
   body:

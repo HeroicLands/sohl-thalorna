@@ -3,6 +3,7 @@ aliases:
   - Aldwin Grayling
 tags:
   - draft
+  - common-folk
 name:
   full: Aldwin Grayling
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a phoenix on the chest
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Floreth Branthira
 tags:
   - draft
+  - common-folk
 name:
   full: Floréth Bránthira
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Labourer (semi-skilled)
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

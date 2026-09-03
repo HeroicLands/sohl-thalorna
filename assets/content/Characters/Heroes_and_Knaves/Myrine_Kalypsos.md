@@ -5,6 +5,7 @@ tags:
   - heroes-and-knaves
   - character
   - hero
+  - clergy
 name:
   full: Myrine Kalypsos
   title: ""
@@ -24,11 +25,13 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
     - provinclys
+    - blackflame
   gender: female
   species: null
   age: 24
@@ -51,10 +54,6 @@ data:
         A thin cord of braided copper wire worn around the left wrist, signifying her status
         as a mendicant — a wandering priestess authorized to preach and perform rites outside
         a fixed temple
-social:
-  station: clergy
-  class: freeman
-  society: The Black Flame
 sohl:
   archetype: null
   body:

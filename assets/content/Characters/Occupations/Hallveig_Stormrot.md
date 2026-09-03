@@ -4,6 +4,7 @@ aliases:
   - Hallveig Stormrot
 tags:
   - draft
+  - mages
 name:
   full: Hallveig Stormrót
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mage (Illusion)
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: clear
     extra_features: []
-social:
-  station: mages
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   body:

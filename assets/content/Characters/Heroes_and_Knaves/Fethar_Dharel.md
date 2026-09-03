@@ -3,6 +3,7 @@ aliases:
   - Féthar Dhárel
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Féthar Dhárel
   title: ""
@@ -22,7 +23,8 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -43,9 +45,6 @@ data:
     extra_features:
       - an infectious grin
       - often wears outrageously patterned clothing
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

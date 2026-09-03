@@ -5,6 +5,7 @@ aliases:
   - Erython Uselindas
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Érython Ûselîndâs
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

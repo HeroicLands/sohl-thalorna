@@ -4,6 +4,7 @@ aliases:
   - Thalrik Halren
 tags:
   - draft
+  - common-folk
 name:
   full: Thálrik Hálren
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodcutter
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: flawless
     extra_features:
       - a scar along the jawline
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

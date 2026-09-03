@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Bélrik Tárvenel
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - prominent scar on neck
-social:
-  station: soldiery
-  class: freeman
-  society: Élavendren
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Danazi Ashudam
 tags:
   - draft
+  - soldiery
 name:
   full: Dânâzi Ashûdam
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Gladiator
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right upper arm
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

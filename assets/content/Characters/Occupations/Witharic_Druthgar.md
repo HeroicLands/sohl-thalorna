@@ -4,6 +4,8 @@ aliases:
   - Witharic Druthgar
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Wítharic Druthgar
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
 sohl:
   archetype: null
   body:

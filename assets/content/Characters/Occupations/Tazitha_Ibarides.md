@@ -4,6 +4,7 @@ aliases:
   - Tazitha Ibarides
 tags:
   - draft
+  - common-folk
 name:
   full: Tázîtha Ibârîdês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right wrist
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

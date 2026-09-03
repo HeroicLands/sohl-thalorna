@@ -4,6 +4,7 @@ aliases:
   - Qirush Taruzi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Qirûsh Tarûzî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

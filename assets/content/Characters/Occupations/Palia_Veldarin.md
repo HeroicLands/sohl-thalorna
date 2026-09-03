@@ -4,6 +4,7 @@ aliases:
   - Palia Veldarin
 tags:
   - draft
+  - common-folk
 name:
   full: Pália Véldarin
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

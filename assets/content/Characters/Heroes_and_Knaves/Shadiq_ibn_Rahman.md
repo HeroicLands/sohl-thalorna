@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - administration
 name:
   full: Shadiq ibn Rahman, The Diplomatic Blade Dancer
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Nobility (Courtier)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - kaliharargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   body:

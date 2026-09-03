@@ -5,6 +5,7 @@ aliases:
   - Zenais Philokalos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Zênais Philokálos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a bird on the forearm
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

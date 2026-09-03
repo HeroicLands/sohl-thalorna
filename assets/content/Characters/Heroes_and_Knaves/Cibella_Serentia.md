@@ -3,6 +3,7 @@ aliases:
   - Cibella Serentia
 tags:
   - tamzir-crew
+  - dependents
 name:
   full: Cibella Serentia
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Ward
   stations: []
-  peoples: []
+  lore:
+    - gentryrnk
   homes:
     - vylariargn
   affiliations:
@@ -43,9 +45,6 @@ data:
       - startlingly beautiful
       - unnervingly still gaze
       - moves with an uncanny grace
-social:
-  station: dependents
-  class: privileged
 sohl:
   archetype: null
   body:

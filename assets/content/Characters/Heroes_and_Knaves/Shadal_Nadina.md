@@ -3,6 +3,8 @@ aliases:
   - Shadal Nadina
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Shadal Nadina
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - kaliharargn
   affiliations:
@@ -40,9 +43,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the chin
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

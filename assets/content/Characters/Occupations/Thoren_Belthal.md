@@ -4,6 +4,7 @@ aliases:
   - Thoren Belthal
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thóren Bélthal
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: flawless
     extra_features:
       - a tattoo of a snake on the chest
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

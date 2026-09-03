@@ -4,6 +4,7 @@ aliases:
   - Chankhor Gharithos
 tags:
   - draft
+  - common-folk
 name:
   full: Chânkhor Ghârîthôs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: bronzed
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

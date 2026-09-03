@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Thornak Blodtūsc Bār
   title: ""
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: pale
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

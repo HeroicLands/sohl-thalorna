@@ -3,6 +3,7 @@ aliases:
   - Hilda Browning
 tags:
   - draft
+  - underworld
 name:
   full: Hilda Browning
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Prostitute
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar running down the back
-social:
-  station: underworld
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

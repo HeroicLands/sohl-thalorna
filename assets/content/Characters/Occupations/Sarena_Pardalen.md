@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Sárena Párdalen
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: pale
     complexion: pale
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

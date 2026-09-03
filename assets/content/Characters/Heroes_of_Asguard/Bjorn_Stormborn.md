@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - administration
 name:
   full: Bjorn Stormborn
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Warrior and Clan Leader
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   items:

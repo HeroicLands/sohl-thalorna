@@ -4,6 +4,7 @@ aliases:
   - Zalren Lyskal
 tags:
   - draft
+  - tradesfolk
 name:
   full: Zálren Lýskal
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a butterfly on the neck
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

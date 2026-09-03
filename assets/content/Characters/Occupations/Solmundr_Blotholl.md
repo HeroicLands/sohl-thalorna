@@ -4,6 +4,7 @@ aliases:
   - Solmundr Blotholl
 tags:
   - draft
+  - soldiery
 name:
   full: Sǫlmundr Blóthǫll
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: soldiery
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

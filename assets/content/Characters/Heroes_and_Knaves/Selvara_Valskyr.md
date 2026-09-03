@@ -3,6 +3,7 @@ aliases:
   - Sélvara Válskyr
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Sélvara Válskyr
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: First Mate
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     extra_features:
       - a commanding presence
       - moves with quiet precision
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

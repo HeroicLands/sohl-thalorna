@@ -4,6 +4,8 @@ aliases:
   - Skaldar Balthhelm
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Skaldár Balthhelm
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: fair
     complexion: ruddy
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
 sohl:
   archetype: null
   body:

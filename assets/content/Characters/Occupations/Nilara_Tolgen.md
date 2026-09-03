@@ -4,6 +4,7 @@ aliases:
   - Nilara Tolgen
 tags:
   - draft
+  - soldiery
 name:
   full: Nílara Tólgen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a spider on the shoulder
-social:
-  station: soldiery
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

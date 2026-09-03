@@ -4,6 +4,7 @@ aliases:
   - Aruzan Kamumu
 tags:
   - draft
+  - soldiery
 name:
   full: Arûzan Kamûmû
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: medium
     extra_features:
       - a scar on the right forearm
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

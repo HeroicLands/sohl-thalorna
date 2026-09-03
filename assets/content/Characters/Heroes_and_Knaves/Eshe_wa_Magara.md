@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - soldiery
 name:
   full: Eshe wa Magara
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - okharisrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

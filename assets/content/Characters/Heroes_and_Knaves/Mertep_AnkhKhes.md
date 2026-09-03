@@ -4,6 +4,7 @@ aliases:
   - Mertep AnkhKhes
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Mer'tep Ankh'Khes
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

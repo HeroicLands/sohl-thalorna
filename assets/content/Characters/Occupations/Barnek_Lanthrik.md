@@ -4,6 +4,8 @@ aliases:
   - Barnek Lanthrik
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Bárnek Lánthrik
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Bard
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: warm
     complexion: olive_toned
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Provenzian
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Voggr Blotholl
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Vǫggr Blóthǫll
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Woodcutter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -3,6 +3,7 @@ aliases:
   - Eshârum Tarûzî
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Eshârum Tarûzî
   title: Captain
@@ -22,7 +23,8 @@ data:
   archetypes: []
   occupation: Ship Captain
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -43,9 +45,6 @@ data:
     extra_features:
       - a long scar across his left jaw
       - lean and hard-bitten
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

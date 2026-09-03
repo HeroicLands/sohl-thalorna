@@ -3,6 +3,8 @@ aliases:
   - Mildred Harden
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Mildred Harden
   title: ""
@@ -22,7 +24,9 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
-social:
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
 sohl:
   archetype: null
   body:

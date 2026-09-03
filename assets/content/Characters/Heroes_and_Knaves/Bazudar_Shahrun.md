@@ -5,6 +5,7 @@ aliases:
   - Bazudar Shahrun
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Bazûdar Shahrûn
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a woman on the shoulder
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

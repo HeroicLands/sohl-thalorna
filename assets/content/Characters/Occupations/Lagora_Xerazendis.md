@@ -4,6 +4,7 @@ aliases:
   - Lagora Xerazendis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Làgôra Xêrâzêndis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Fool
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: sallow
     extra_features:
       - a scar on the right elbow
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

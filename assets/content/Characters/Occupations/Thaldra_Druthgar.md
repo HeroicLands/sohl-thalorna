@@ -4,6 +4,7 @@ aliases:
   - Thaldra Druthgar
 tags:
   - draft
+  - common-folk
 name:
   full: Thaldrá Druthgar
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: light
     complexion: rugged
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

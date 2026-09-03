@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Sofíenna Torvaleth
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -43,10 +46,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right elbow
-social:
-  station: clergy
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

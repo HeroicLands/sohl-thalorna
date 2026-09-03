@@ -4,6 +4,7 @@ aliases:
   - Sedrik Morlineth
 tags:
   - draft
+  - soldiery
 name:
   full: Sédrik Mórlineth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Gaoler
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

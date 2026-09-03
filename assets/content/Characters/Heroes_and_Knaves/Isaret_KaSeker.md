@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - underworld
 name:
   full: Isaret Ka'Seker
   title: ""
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Intelligence Agent
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-social:
-  station: underworld
-  class: free
 sohl:
   archetype: null
   body:

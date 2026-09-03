@@ -3,6 +3,7 @@ aliases:
   - Kenelm Adwell
 tags:
   - draft
+  - soldiery
 name:
   full: Kenelm Adwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Caravan Guard
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a scar across the bridge of the nose
-social:
-  station: soldiery
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

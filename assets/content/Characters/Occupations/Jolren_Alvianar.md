@@ -4,6 +4,7 @@ aliases:
   - Jolren Alvianar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Jólren Álvianar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mason
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

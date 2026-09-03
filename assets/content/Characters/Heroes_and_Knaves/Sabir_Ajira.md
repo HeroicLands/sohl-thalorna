@@ -5,6 +5,8 @@ aliases:
   - Sabir Ajira
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Sâbir Âjira
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - kaliharargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Idrise Korisvar
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Ídrisè Kórisvar
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

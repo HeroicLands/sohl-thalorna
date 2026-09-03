@@ -4,6 +4,7 @@ aliases:
   - Jadharos Bashiron
 tags:
   - draft
+  - common-folk
 name:
   full: Jâdhâros Bâshirôn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: olive_toned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

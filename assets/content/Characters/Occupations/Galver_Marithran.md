@@ -4,6 +4,7 @@ aliases:
   - Galver Marithran
 tags:
   - draft
+  - tradesfolk
 name:
   full: Gálver Maríthran
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mason
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

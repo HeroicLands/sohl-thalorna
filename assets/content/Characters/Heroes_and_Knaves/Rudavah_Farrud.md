@@ -5,6 +5,8 @@ aliases:
   - Rudavah Farrud
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Rudâvah Farrud
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a burn mark on the left hand
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

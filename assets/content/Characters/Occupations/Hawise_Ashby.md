@@ -3,6 +3,7 @@ aliases:
   - Hawise Ashby
 tags:
   - draft
+  - soldiery
 name:
   full: Hawise Ashby
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar across the right hand
-social:
-  station: soldiery
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

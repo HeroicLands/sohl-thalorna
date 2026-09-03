@@ -4,6 +4,8 @@ aliases:
   - Belrik Falwyn
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Bélrik Fálwyn
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: fair
     complexion: pale
     extra_features: []
-social:
-  station: mages
-  class: guilded
-  society: Élavendri
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Azita Rakhrides
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ázîta Râkhrîdês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Helionite
 sohl:
   archetype: null
   body:

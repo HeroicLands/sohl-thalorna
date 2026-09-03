@@ -4,6 +4,8 @@ aliases:
   - Jubenos Safithes
 tags:
   - draft
+  - guilded
+  - administration
 name:
   full: Júbênós Safîthês
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: bronzed
     extra_features:
       - a tattoo of a skull on the upper arm
-social:
-  station: administration
-  class: guilded
-  society: Helionite
 sohl:
   archetype: null
   body:

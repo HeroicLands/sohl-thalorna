@@ -5,6 +5,8 @@ aliases:
   - Domrithas Vishardas
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Dómrithâs Vîshârdâs
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

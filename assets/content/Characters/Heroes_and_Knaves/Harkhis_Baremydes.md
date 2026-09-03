@@ -5,6 +5,8 @@ aliases:
   - Harkhis Baremydes
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Harkhîs Bàremydês
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left calf
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

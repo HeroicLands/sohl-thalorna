@@ -6,6 +6,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Hródar Arnthúl
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - slavernk
   homes:
     - vrystwald
   affiliations:
@@ -46,10 +49,6 @@ data:
       - gaunt angular face
       - long arms that give him a gangly look
       - perpetual scowl
-social:
-  station: underworld
-  class: unfree
-  society: Varokh
 sohl:
   archetype: null
   body:

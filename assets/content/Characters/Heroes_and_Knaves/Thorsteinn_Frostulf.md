@@ -3,6 +3,7 @@ aliases:
   - Thorsteinn Frostulf
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Thorsteinn Frostulf
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Potter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -39,9 +41,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

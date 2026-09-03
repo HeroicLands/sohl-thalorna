@@ -3,6 +3,7 @@ aliases:
   - Lucerian Serentia
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Lucerian Serentia
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  peoples: []
+  lore:
+    - gentryrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     extra_features:
       - immaculate grooming even in rough conditions
       - carries a fine leather medical bag
-social:
-  station: tradesfolk
-  class: privileged
 sohl:
   archetype: null
   body:

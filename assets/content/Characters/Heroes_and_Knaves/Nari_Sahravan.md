@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - clergy
 name:
   full: Nari Sahravân
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-social:
-  station: clergy
-  class: free
 sohl:
   archetype: null
   body:

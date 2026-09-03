@@ -4,6 +4,8 @@ aliases:
   - Harmund Garwald
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Hármund Garwald
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: light
     complexion: wrinkled
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
 sohl:
   archetype: null
   body:

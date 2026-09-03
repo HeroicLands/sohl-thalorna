@@ -3,6 +3,7 @@ aliases:
   - Edrith Grayling
 tags:
   - draft
+  - tradesfolk
 name:
   full: Edrith Grayling
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: pale
     complexion: rough
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

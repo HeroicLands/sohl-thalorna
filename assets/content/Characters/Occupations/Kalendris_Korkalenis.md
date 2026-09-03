@@ -4,6 +4,7 @@ aliases:
   - Kalendris Korkalenis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kàlendrîs Korkâlenîs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: bronzed
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

@@ -3,6 +3,8 @@ aliases:
   - Rosharan Barmandan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Rosharan Barmandan
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -40,9 +43,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a bear on the left arm
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

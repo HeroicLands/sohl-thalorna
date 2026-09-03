@@ -4,6 +4,7 @@ aliases:
   - Kashnura Arshumu
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kashnûra Arshûmû
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Chandler
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Halrikos Branthira
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Hálrikos Bránthira
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: pale
     complexion: sallow
     extra_features: []
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

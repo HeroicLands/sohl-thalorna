@@ -4,6 +4,8 @@ aliases:
   - Satara ReenKhensu
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Satara Re'en'Khensu
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

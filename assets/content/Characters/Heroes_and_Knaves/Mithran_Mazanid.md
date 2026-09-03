@@ -5,6 +5,7 @@ aliases:
   - Mithran Mazanid
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Mithran Mazânid
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Herder
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Émmanîôs Bàremzâtôr
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

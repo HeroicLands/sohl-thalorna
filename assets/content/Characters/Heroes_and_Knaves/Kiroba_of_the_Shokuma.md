@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Kiroba of the Shókuma
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - okharisrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
 sohl:
   archetype: null
   body:

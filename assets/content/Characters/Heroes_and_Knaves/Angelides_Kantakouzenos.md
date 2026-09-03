@@ -5,6 +5,8 @@ aliases:
   - Angelides Kantakouzenos
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Ángelides Kantakouzenós
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the neck
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

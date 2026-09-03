@@ -3,6 +3,7 @@ aliases:
   - Osmund Winwick
 tags:
   - draft
+  - tradesfolk
 name:
   full: Osmund Winwick
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Mercantyler (Supercargo)
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right hand
-social:
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

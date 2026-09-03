@@ -3,6 +3,8 @@ aliases:
   - Paryan Barmandan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Paryan Barmandan
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Jeweller
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -39,9 +42,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

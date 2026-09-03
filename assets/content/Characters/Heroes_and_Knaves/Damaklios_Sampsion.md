@@ -5,6 +5,7 @@ aliases:
   - Damaklios Sampsion
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Damáklios Sampsiôn
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

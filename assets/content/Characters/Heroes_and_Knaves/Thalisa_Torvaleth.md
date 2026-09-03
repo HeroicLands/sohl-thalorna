@@ -5,6 +5,8 @@ aliases:
   - Thalisa Torvaleth
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Thalísa Torvaleth
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a wolf on the shoulder
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

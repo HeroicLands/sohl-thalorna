@@ -3,6 +3,7 @@ aliases:
   - Edwin Garmon
 tags:
   - draft
+  - soldiery
 name:
   full: Edwin Garmon
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right calf
-social:
-  station: soldiery
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

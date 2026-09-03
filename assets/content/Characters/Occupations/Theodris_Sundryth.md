@@ -4,6 +4,7 @@ aliases:
   - Theodris Sundryth
 tags:
   - draft
+  - common-folk
 name:
   full: Theódris Sundrýth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

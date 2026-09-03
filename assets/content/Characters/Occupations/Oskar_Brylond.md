@@ -4,6 +4,7 @@ aliases:
   - Oskar Brylond
 tags:
   - draft
+  - tradesfolk
 name:
   full: Óskar Brýlond
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar above the left eyebrow
-social:
-  station: tradesfolk
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

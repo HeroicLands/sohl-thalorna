@@ -5,6 +5,8 @@ aliases:
   - Kallixenos Paraklavos
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Kallíxenos Paraklávos
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

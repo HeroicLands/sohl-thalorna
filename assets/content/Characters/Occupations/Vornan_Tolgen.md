@@ -4,6 +4,7 @@ aliases:
   - Vornan Tolgen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Vôrnan Tólgen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: smooth
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

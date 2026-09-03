@@ -4,6 +4,7 @@ aliases:
   - Vithar Hildvith
 tags:
   - draft
+  - tradesfolk
 name:
   full: Vithár Hildvith
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

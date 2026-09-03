@@ -4,6 +4,7 @@ aliases:
   - Fethar Othral
 tags:
   - draft
+  - tradesfolk
 name:
   full: Féthar Óthral
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Potter
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Vanadis Kaseranis
 tags:
   - draft
+  - administration
 name:
   full: Vanâdîs Kâserânis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

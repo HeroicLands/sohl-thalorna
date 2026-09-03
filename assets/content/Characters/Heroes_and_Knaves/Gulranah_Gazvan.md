@@ -5,6 +5,8 @@ aliases:
   - Gulranah Gazvan
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Gulrânah Gazvân
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the right wrist
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

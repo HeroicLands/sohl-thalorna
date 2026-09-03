@@ -4,6 +4,7 @@ aliases:
   - Banrik Cariselda
 tags:
   - draft
+  - soldiery
 name:
   full: Bánrik Cáriselda
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a flower on the ankle
-social:
-  station: soldiery
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

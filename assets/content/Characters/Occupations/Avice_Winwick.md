@@ -3,6 +3,7 @@ aliases:
   - Avice Winwick
 tags:
   - draft
+  - tradesfolk
 name:
   full: Avice Winwick
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Mercantyler (Supercargo)
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

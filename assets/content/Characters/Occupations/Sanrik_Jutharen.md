@@ -4,6 +4,7 @@ aliases:
   - Sanrik Jutharen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sánrik Jútharen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the chin
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

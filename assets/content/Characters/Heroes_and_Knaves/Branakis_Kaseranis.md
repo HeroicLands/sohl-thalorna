@@ -5,6 +5,8 @@ aliases:
   - Branakis Kaseranis
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Bránakis Kâserânis
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a tree on the forearm
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

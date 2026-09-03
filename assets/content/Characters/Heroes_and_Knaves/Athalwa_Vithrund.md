@@ -5,6 +5,7 @@ aliases:
   - Athalwa Vithrund
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Athalwa Vithrúnd
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of an eagle on the back
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

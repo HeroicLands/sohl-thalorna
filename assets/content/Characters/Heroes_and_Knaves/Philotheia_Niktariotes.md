@@ -5,6 +5,7 @@ aliases:
   - Philotheia Niktariotes
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Philothêia Niktariôtês
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Musician (Lute)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a tree on the back
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

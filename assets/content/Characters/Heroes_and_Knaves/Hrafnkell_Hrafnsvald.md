@@ -3,6 +3,8 @@ aliases:
   - Hrafnkell Hrafnsvald
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Hrafnkell Hrafnsvald
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -40,9 +43,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a fire on the leg
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

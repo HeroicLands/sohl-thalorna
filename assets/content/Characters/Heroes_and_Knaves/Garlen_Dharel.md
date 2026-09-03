@@ -5,6 +5,7 @@ aliases:
   - Garlen Dharel
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Gârlen Dhárel
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Carenna Graveth
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Cárenna Gráveth
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

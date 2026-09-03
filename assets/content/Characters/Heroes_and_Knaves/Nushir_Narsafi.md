@@ -5,6 +5,8 @@ aliases:
   - Nushir Narsafi
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Nushir Narsâfî
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Chandler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

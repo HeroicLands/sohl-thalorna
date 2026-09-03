@@ -4,6 +4,7 @@ aliases:
   - Frysala Valskyr
 tags:
   - draft
+  - administration
 name:
   full: Frýsala Válskyr
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of an eagle on the back
-social:
-  station: administration
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

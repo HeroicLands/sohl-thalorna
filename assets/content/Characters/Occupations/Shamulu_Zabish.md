@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Shamûlû Zabîsh
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: medium
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

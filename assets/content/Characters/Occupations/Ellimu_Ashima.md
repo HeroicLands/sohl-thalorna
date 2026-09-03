@@ -4,6 +4,7 @@ aliases:
   - Ellimu Ashima
 tags:
   - draft
+  - common-folk
 name:
   full: Ellimû Ashîmâ
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: warm_golden
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

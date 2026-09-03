@@ -4,6 +4,7 @@ aliases:
   - Dek Vetrdomr
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Dek Vetrdómr
   title: ""
@@ -22,7 +23,8 @@ data:
   archetypes: []
   occupation: Thatcher
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -40,9 +42,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

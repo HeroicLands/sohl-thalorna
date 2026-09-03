@@ -5,6 +5,8 @@ aliases:
   - Vigbrandr Skyrekkr
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Vígbrandr Skýrekkr
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Skald
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right hand
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

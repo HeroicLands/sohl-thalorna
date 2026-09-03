@@ -3,6 +3,7 @@ aliases:
   - Leofrun Chilwell
 tags:
   - draft
+  - common-folk
 name:
   full: Leofrun Chilwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Trapper
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a skull on the upper arm
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

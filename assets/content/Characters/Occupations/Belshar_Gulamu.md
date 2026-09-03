@@ -4,6 +4,8 @@ aliases:
   - Belshar Gulamu
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Belshar Gûlamû
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Locksmith
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
-social:
-  station: tradesfolk
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

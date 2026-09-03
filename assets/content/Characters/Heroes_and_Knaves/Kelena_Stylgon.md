@@ -5,6 +5,7 @@ aliases:
   - Kelena Stylgon
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Kêlena Stýlgon
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: golden
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

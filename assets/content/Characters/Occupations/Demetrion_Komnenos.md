@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Demétrion Komnênos
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - byzarianclt
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - deep-set eyes
-social:
-  station: soldiery
-  class: freeman
-  society: Byzarian
 sohl:
   archetype: null
   body:

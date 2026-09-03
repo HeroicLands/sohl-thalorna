@@ -4,6 +4,7 @@ aliases:
   - Safiros Rakhmonis
 tags:
   - draft
+  - soldiery
 name:
   full: Sàfîros Râkhmônis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a lion's mane on the chest
-social:
-  station: soldiery
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

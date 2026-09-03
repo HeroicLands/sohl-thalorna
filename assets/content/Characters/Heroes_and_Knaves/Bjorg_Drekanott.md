@@ -5,6 +5,7 @@ aliases:
   - Bjorg Drekanott
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Björg Drekanótt
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

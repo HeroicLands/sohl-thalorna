@@ -4,6 +4,7 @@ aliases:
   - Zorila Domivar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Zórila Dómivar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

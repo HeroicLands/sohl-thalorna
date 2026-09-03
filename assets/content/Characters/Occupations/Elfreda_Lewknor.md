@@ -3,6 +3,7 @@ aliases:
   - Elfreda Lewknor
 tags:
   - draft
+  - common-folk
 name:
   full: Elfreda Lewknor
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: light
     complexion: freckled
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

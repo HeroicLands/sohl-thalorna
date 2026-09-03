@@ -4,6 +4,7 @@ aliases:
   - Garlindris Korazenis
 tags:
   - draft
+  - administration
 name:
   full: Garlîndris Korâzênis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a lion on the thigh
-social:
-  station: administration
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

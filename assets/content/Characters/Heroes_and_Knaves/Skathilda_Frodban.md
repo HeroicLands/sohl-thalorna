@@ -7,6 +7,7 @@ tags:
   - blackpine-wolves
   - brigand
   - vrystwald
+  - underworld
 name:
   full: Skathilda Fróðbán
   title: ""
@@ -25,7 +26,9 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - slavernk
   homes:
     - vrystwald
   affiliations:
@@ -47,10 +50,6 @@ data:
       - a thin scar from ear to jawline on the right side
       - sharp pointed features
       - moves with coiled restless energy
-social:
-  station: underworld
-  class: unfree
-  society: Varokh
 sohl:
   archetype: null
   body:

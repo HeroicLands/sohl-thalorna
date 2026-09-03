@@ -4,6 +4,7 @@ aliases:
   - Frithgar Vithrund
 tags:
   - draft
+  - soldiery
 name:
   full: Frithgár Vithrúnd
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left ear
-social:
-  station: soldiery
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Pasher Hetremet
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Pasher Het'remet
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Musician (Lyre)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left eye
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

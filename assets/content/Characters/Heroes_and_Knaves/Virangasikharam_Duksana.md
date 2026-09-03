@@ -5,6 +5,7 @@ aliases:
   - Virangasikharam Duksana
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Vīrāṅgaśikharam Dukṣana
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Nobility (Manor Lord)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Syphranos Varenlas
 tags:
   - draft
+  - soldiery
 name:
   full: Syphrânôs Vârênlâs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Gladiator
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a moon on the neck
-social:
-  station: soldiery
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

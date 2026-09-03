@@ -5,6 +5,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Hrólfur Shieldbearer
   title: null
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Warrior and Defender
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

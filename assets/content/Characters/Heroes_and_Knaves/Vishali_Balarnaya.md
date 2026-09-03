@@ -5,6 +5,7 @@ aliases:
   - Vishali Balarnaya
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Vishali Bâlarṇaya
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Fool
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the right elbow
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

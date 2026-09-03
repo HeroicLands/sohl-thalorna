@@ -5,6 +5,7 @@ aliases:
   - Rognvaldr Asgrind
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Rǫgnvaldr Ásgrind
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Jester
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

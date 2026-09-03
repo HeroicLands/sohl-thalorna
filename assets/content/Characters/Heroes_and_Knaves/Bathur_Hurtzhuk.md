@@ -27,7 +27,7 @@ data:
   archetypes: []
   occupation: null
   stations: []
-  peoples: []
+  lore: []
   homes: []
   affiliations: []
   gender: null

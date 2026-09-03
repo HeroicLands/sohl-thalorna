@@ -4,6 +4,7 @@ aliases:
   - Elsaro Castirenna
 tags:
   - draft
+  - soldiery
 name:
   full: Élsaro Castírenna
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mercenary
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a tiger on the forearm
-social:
-  station: soldiery
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

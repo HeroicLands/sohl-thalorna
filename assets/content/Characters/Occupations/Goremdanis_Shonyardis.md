@@ -4,6 +4,7 @@ aliases:
   - Goremdanis Shonyardis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Goremdânis Shônyàrdîs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Musician (Lyre)
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

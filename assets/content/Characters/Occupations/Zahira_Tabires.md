@@ -4,6 +4,7 @@ aliases:
   - Zahira Tabires
 tags:
   - draft
+  - tradesfolk
 name:
   full: Zahîra Tâbîrês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

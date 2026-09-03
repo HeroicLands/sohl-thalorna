@@ -4,6 +4,7 @@ aliases:
   - Taviro Delvanor
 tags:
   - draft
+  - common-folk
 name:
   full: Tavíro Delvánor
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: rugged
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - administration
 name:
   full: Rashîra of House Safîrôn
   title: Grammatíssa
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Grammatíssa (Records-Keeper)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - bethuargn
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: dark
     complexion: olive
     extra_features: []
-social:
-  station: administration
-  class: free
 sohl:
   archetype: null
   body:

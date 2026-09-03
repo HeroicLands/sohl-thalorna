@@ -5,6 +5,7 @@ aliases:
   - Thekla Rhomaios
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Thêkla Rhomaios
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Mercenary
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

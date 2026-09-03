@@ -4,6 +4,8 @@ aliases:
   - Parshar Kurrim
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Pârshar Kûrrîm
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Locksmith
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: rough
     extra_features:
       - a scar running across the stomach
-social:
-  station: tradesfolk
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

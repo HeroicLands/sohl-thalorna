@@ -4,6 +4,8 @@ aliases:
   - Harphos Orcharenis
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Harphôs Ôrchârenîs
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Chandler
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Vylarian
 sohl:
   archetype: null
   body:

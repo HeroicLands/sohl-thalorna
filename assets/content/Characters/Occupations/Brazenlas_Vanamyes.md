@@ -4,6 +4,7 @@ aliases:
   - Brazenlas Vanamyes
 tags:
   - draft
+  - tradesfolk
 name:
   full: Bràzenlâs Vânamyês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Embalmer
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

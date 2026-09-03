@@ -5,6 +5,7 @@ aliases:
   - Kyriakos Patrikios
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Kyriákos Patrikîos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

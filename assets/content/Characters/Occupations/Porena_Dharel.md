@@ -4,6 +4,7 @@ aliases:
   - Porena Dharel
 tags:
   - draft
+  - common-folk
 name:
   full: Pórena Dhárel
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Longshorewoman
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: smooth
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

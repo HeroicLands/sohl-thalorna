@@ -4,6 +4,7 @@ aliases:
   - Rodren Jutharen
 tags:
   - draft
+  - common-folk
 name:
   full: Rodrén Jútharen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a tiger on the forearm
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

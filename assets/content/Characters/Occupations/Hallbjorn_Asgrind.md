@@ -4,6 +4,7 @@ aliases:
   - Hallbjorn Asgrind
 tags:
   - draft
+  - tradesfolk
 name:
   full: Hallbjǫrn Ásgrind
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: rough
     extra_features:
       - a scar on the back of the left arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

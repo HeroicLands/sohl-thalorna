@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Neferet Imi-Ra
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

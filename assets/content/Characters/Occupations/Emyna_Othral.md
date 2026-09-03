@@ -4,6 +4,7 @@ aliases:
   - Emyna Othral
 tags:
   - draft
+  - administration
 name:
   full: Émyna Óthral
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Courtesan
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - landedlordrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
-social:
-  station: administration
-  class: noble
-  society: Élavendri
 sohl:
   archetype: null
   body:

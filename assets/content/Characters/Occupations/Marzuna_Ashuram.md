@@ -4,6 +4,7 @@ aliases:
   - Marzuna Ashuram
 tags:
   - draft
+  - soldiery
 name:
   full: Marzûna Ashûram
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: golden
     complexion: tanned
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

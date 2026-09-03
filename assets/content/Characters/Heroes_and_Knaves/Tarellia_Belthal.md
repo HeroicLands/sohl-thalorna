@@ -5,6 +5,8 @@ aliases:
   - Tarellia Belthal
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Tárellia Bélthal
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

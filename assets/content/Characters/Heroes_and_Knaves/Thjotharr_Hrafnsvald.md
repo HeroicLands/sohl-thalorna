@@ -4,6 +4,7 @@ aliases:
   - Thjotharr Hrafnsvald
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Thjótharr Hrafnsvald
   title: ""
@@ -22,7 +23,8 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the abdomen
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

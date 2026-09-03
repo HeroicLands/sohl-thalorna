@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Thornila Ríkhild
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - landedlordrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: fair
     complexion: rough
     extra_features: []
-social:
-  station: clergy
-  class: noble
-  society: Varokhi
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Dharmapala Vimuktana
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Dharmàpala Vimuktaṇa
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a flower on the ankle
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

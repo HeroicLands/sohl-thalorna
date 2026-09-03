@@ -4,6 +4,7 @@ aliases:
   - Mitharakis Gerazendis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Mitharâkîs Gêrazêndis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Jester
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

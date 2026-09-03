@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - mages
 name:
   full: Hrafnleif the Wise
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Seer and Runemaster
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: freckled
     extra_features: []
-social:
-  station: mages
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

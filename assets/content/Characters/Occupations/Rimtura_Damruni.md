@@ -4,6 +4,7 @@ aliases:
   - Rimtura Damruni
 tags:
   - draft
+  - administration
 name:
   full: Rimtûra Damrûnî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - landedlordrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a leaf on the wrist
-social:
-  station: administration
-  class: noble
-  society: Haradian
 sohl:
   archetype: null
   body:

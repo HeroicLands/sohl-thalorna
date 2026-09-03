@@ -4,6 +4,7 @@ aliases:
   - Channaon Habiles
 tags:
   - draft
+  - tradesfolk
 name:
   full: Chánnâon Hàbîlês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: smooth
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

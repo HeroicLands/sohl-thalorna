@@ -3,6 +3,7 @@ aliases:
   - Ethelinda Wigmore
 tags:
   - draft
+  - soldiery
 name:
   full: Ethelinda Wigmore
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Gaoler
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a snake wrapping around the leg
-social:
-  station: soldiery
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

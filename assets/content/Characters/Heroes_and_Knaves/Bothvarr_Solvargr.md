@@ -5,6 +5,7 @@ aliases:
   - Bothvarr Solvargr
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Bǫthvarr Sólvargr
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a lion's mane on the chest
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

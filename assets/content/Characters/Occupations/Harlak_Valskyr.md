@@ -4,6 +4,7 @@ aliases:
   - Harlak Valskyr
 tags:
   - draft
+  - tradesfolk
 name:
   full: Hârlak Válskyr
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a scar on the back of the left arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

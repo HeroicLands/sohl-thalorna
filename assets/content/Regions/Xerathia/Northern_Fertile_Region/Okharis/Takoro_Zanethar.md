@@ -2,7 +2,8 @@
 aliases:
   - Tákoro Zanethar
   - Takoro Zanethar
-tags: []
+tags:
+  - administration
 name:
   full: Tákoro Zanethar
   title: ""
@@ -20,7 +21,8 @@ data:
   archetypes: []
   occupation: king
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - okharisrgn
   affiliations:
@@ -38,9 +40,6 @@ data:
     skin_color: ebony
     complexion: medium
     extra_features: []
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   birthsign: ""

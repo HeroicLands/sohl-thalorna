@@ -4,6 +4,7 @@ aliases:
   - Lamushar Damruni
 tags:
   - draft
+  - administration
 name:
   full: Lamûshar Damrûnî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - landedlordrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Haradian
 sohl:
   archetype: null
   body:

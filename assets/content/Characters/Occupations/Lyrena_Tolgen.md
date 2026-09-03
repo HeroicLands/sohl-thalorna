@@ -4,6 +4,7 @@ aliases:
   - Lyrena Tolgen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Lýrena Tólgen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Skald
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a tattoo of a star on the left shoulder
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

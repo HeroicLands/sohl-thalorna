@@ -4,6 +4,7 @@ aliases:
   - Fritha Stormrot
 tags:
   - draft
+  - common-folk
 name:
   full: Frítha Stormrót
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Ratter
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: ruddy
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

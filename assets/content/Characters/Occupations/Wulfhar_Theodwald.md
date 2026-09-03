@@ -4,6 +4,7 @@ aliases:
   - Wulfhar Theodwald
 tags:
   - draft
+  - soldiery
 name:
   full: Wulfhár Theódwald
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

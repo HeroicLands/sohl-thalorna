@@ -5,6 +5,7 @@ aliases:
   - Alyra Kalmereth
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Ályra Kálmereth
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

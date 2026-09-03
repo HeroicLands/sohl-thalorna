@@ -4,6 +4,7 @@ aliases:
   - Valaren Alvianar
 tags:
   - draft
+  - administration
 name:
   full: Valáren Álvianar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the left foot
-social:
-  station: administration
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
   - Magnus Skollbrandr
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Magnús Skǫllbrandr
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Jeweller
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Nordheimn
 sohl:
   archetype: null
   body:

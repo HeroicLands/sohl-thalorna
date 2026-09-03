@@ -4,6 +4,7 @@ aliases:
   - Sahira Tabires
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sahîra Tâbîrês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Helionite
 sohl:
   archetype: null
   body:

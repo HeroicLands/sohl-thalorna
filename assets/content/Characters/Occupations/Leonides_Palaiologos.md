@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Leónidês Palaiológos
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  peoples: []
+  lore:
+    - byzarianclt
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: smooth
     extra_features:
       - tattoo on arm
-social:
-  station: soldiery
-  class: freeman
-  society: Byzarian
 sohl:
   archetype: null
   body:

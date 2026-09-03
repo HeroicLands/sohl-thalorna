@@ -4,6 +4,7 @@ aliases:
   - Akhrem Re'en'fré
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Akhrem Re'en'fré
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the back of the left arm
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

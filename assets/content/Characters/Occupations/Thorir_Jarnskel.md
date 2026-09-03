@@ -4,6 +4,8 @@ aliases:
   - Thorir Jarnskel
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Thórir Járnskel
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Mage (Spirit)
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a dolphin on the left wrist
-social:
-  station: mages
-  class: guilded
-  society: Nordheimn
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - guilded
+  - mages
 name:
   full: Elýsè Skýrn
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

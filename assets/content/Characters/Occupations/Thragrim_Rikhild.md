@@ -4,6 +4,7 @@ aliases:
   - Thragrim Rikhild
 tags:
   - draft
+  - tradesfolk
 name:
   full: Thrágrim Ríkhild
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

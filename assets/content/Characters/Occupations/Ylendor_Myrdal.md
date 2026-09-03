@@ -4,6 +4,8 @@ aliases:
   - Ylendor Myrdal
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Yléndor Mýrdal
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: mages
-  class: guilded
-  society: Provenzian
 sohl:
   archetype: null
   body:

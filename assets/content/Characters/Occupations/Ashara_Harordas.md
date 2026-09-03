@@ -4,6 +4,8 @@ aliases:
   - Ashara Harordas
 tags:
   - draft
+  - guilded
+  - soldiery
 name:
   full: Ashârâ Hârôrdâs
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
-social:
-  station: soldiery
-  class: guilded
-  society: Vylarian
 sohl:
   archetype: null
   body:

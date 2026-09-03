@@ -4,6 +4,7 @@ aliases:
   - Malia Naredh
 tags:
   - draft
+  - common-folk
 name:
   full: Mália Náredh
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Herder
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

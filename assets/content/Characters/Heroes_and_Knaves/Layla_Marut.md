@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Layla Marut
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - bethuargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Grimr Stormrot
 tags:
   - draft
+  - administration
 name:
   full: Grímr Stormrót
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: freckled
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   body:

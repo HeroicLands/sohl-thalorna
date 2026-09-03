@@ -4,6 +4,7 @@ aliases:
   - Makrion Nafrines
 tags:
   - draft
+  - mages
 name:
   full: Mákrion Nâfrinês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: smooth
     extra_features:
       - a scar on the right hand
-social:
-  station: mages
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

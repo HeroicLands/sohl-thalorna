@@ -4,6 +4,7 @@ aliases:
   - Talima Thamirion
 tags:
   - draft
+  - soldiery
 name:
   full: Tàlîma Thamîrîon
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

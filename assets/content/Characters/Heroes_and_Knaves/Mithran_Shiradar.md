@@ -3,6 +3,7 @@ aliases:
   - Mithran Shiradar
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Mithran Shiradar
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - dunhardsrtrgn
   affiliations:
@@ -40,9 +42,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar from forehead to cheek across the left eye
-social:
-  station: administration
-  class: freeman
 sohl:
   archetype: null
   body:

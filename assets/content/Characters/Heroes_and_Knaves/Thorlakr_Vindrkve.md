@@ -5,6 +5,7 @@ aliases:
   - Thorlakr Vindrkve
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Thorlákr Vindrkvé
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  peoples: []
+  lore:
+    - slavernk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a tiger on the forearm
-social:
-  station: common_folk
-  class: unfree
 sohl:
   archetype: null
   body:

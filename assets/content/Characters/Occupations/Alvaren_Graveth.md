@@ -4,6 +4,7 @@ aliases:
   - Alvaren Graveth
 tags:
   - draft
+  - common-folk
 name:
   full: Alváren Gráveth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Salter
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left knee
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

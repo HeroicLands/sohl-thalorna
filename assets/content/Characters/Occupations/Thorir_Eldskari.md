@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Thórir Eldskari
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - scar across forehead
-social:
-  station: soldiery
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

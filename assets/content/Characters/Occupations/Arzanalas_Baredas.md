@@ -4,6 +4,7 @@ aliases:
   - Arzanalas Baredas
 tags:
   - draft
+  - soldiery
 name:
   full: Arzânalàs Bâredâs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a heart on the chest
-social:
-  station: soldiery
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

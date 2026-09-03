@@ -3,6 +3,7 @@ aliases:
   - Ævarr Hafringr
 tags:
   - draft
+  - common-folk
 name:
   full: Ævarr Hafringr
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Longshoreman
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

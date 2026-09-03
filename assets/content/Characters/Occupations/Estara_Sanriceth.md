@@ -4,6 +4,7 @@ aliases:
   - Estara Sanriceth
 tags:
   - draft
+  - common-folk
 name:
   full: Estára Sánriceth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

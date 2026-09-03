@@ -5,6 +5,8 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - unguilded
+  - soldiery
 name:
   full: Vargskær the Fellblade
   title: null
@@ -24,7 +26,9 @@ data:
   archetypes: []
   occupation: Helspawn Warlord
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +46,6 @@ data:
     skin_color: pale
     complexion: battle_scarred
     extra_features: []
-social:
-  station: soldiery
-  class: unguilded
-  society: Nordheimn
 sohl:
   archetype: null
   items:

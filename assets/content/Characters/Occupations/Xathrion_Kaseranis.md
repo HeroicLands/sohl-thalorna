@@ -4,6 +4,7 @@ aliases:
   - Xathrion Kaseranis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Xâthrîon Kâserânis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - landedlordrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Vylarian
 sohl:
   archetype: null
   body:

@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Gahiji wa Fénjara
   title: ""
@@ -25,7 +26,8 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - sthrnsvnhs
   affiliations:
@@ -43,9 +45,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

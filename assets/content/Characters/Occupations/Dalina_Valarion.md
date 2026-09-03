@@ -4,6 +4,7 @@ aliases:
   - Dalina Valarion
 tags:
   - draft
+  - tradesfolk
 name:
   full: Dálina Valárion
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - landedlordrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: noble
-  society: Tarvénan
 sohl:
   archetype: null
   body:

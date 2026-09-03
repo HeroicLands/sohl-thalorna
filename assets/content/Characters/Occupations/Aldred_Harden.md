@@ -3,6 +3,7 @@ aliases:
   - Aldred Harden
 tags:
   - draft
+  - tradesfolk
 name:
   full: Aldred Harden
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a fire on the leg
-social:
-  station: tradesfolk
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

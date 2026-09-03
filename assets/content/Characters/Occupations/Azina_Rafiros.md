@@ -4,6 +4,7 @@ aliases:
   - Azina Rafiros
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ázîna Râfîrôs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Embalmer
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
-social:
-  station: tradesfolk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

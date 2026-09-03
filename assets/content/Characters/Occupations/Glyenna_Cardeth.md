@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - administration
 name:
   full: Glýenna Cárdeth
   title: Lady
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Noblewoman / Head of House Cárdeth
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - landedlordrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Élavendri
 sohl:
   archetype: null
   body:

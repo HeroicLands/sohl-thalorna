@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - mages
 name:
   full: Ríkarthr Íseldr
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Mage (Spirit)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -43,9 +46,6 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a dolphin on the left wrist
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

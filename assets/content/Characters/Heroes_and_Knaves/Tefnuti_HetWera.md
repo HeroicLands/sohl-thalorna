@@ -5,6 +5,7 @@ aliases:
   - Tefnuti HetWera
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Tefnutî Het'Wera
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

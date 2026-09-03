@@ -5,6 +5,8 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - unguilded
+  - mages
 name:
   full: Mörkvidr the Deathmage
   title: null
@@ -24,7 +26,9 @@ data:
   archetypes: []
   occupation: Necromancer
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +46,6 @@ data:
     skin_color: pale
     complexion: sallow
     extra_features: []
-social:
-  station: mages
-  class: unguilded
-  society: Nordheimn
 sohl:
   archetype: null
   items:

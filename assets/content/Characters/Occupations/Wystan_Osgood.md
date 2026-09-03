@@ -3,6 +3,7 @@ aliases:
   - Wystan Osgood
 tags:
   - draft
+  - common-folk
 name:
   full: Wystan Osgood
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Ratter
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: light
     complexion: clear
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

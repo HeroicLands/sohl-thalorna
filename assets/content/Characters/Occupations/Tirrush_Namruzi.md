@@ -4,6 +4,7 @@ aliases:
   - Tirrush Namruzi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Tirrûsh Namrûzî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a compass on the chest
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

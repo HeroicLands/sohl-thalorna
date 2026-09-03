@@ -5,6 +5,7 @@ aliases:
   - Arkhea Kourkasios
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Arkhêa Kourkásios
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: wrinkled
     extra_features:
       - a limp
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

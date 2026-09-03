@@ -5,6 +5,8 @@ aliases:
   - Yngvarr Drottgar
 tags:
   - heroes-and-knaves
+  - guilded
+  - soldiery
 name:
   full: Yngvarr Dróttgar
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Guard
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left shoulder
-social:
-  station: soldiery
-  class: guilded
 sohl:
   archetype: null
   body:

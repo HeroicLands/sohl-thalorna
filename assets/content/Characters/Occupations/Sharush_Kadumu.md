@@ -4,6 +4,7 @@ aliases:
   - Sharush Kadumu
 tags:
   - draft
+  - common-folk
 name:
   full: Shârûsh Kadûmû
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Cook
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: golden
     complexion: tanned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

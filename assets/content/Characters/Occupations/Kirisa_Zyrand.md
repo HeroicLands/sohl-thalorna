@@ -4,6 +4,7 @@ aliases:
   - Kirisa Zyrand
 tags:
   - draft
+  - common-folk
 name:
   full: Kírisa Zýrand
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Cook
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: tanned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

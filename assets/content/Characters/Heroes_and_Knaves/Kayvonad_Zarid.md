@@ -5,6 +5,8 @@ aliases:
   - Kayvonad Zarid
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Kayvonad Zârîd
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

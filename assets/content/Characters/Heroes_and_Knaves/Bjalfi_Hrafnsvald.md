@@ -3,6 +3,7 @@ aliases:
   - Bjalfi Hrafnsvald
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Bjalfi Hrafnsvald
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -39,9 +41,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

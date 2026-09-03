@@ -3,6 +3,7 @@ aliases:
   - Dunstan Helmsley
 tags:
   - draft
+  - administration
 name:
   full: Dunstan Helmsley
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - landedlordrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: fair
     complexion: pale
     extra_features: []
-social:
-  station: administration
-  class: noble
-  society: Aelwythan
 sohl:
   archetype: null
   body:

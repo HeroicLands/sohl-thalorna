@@ -5,6 +5,7 @@ aliases:
   - Tamura Suryatejamahananda
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Tamûra Sūryatejamahānanda
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a butterfly on the neck
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

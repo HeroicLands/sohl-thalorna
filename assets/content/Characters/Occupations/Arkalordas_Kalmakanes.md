@@ -4,6 +4,7 @@ aliases:
   - Arkalordas Kalmakanes
 tags:
   - draft
+  - common-folk
 name:
   full: Arkálòrdâs Kâlmâkanês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right calf and a Seaman's Guild tatoo on his right arm
-social:
-  station: common_folk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

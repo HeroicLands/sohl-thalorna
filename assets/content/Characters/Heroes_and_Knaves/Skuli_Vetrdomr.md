@@ -4,6 +4,8 @@ aliases:
   - Skuli Vetrdomr
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Skúli Vetrdómr
   title: ""
@@ -22,7 +24,8 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a falcon on the right arm
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

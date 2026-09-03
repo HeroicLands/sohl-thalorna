@@ -4,6 +4,7 @@ aliases:
   - Radrun Vithrund
 tags:
   - draft
+  - underworld
 name:
   full: Rádrún Vithrúnd
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Prostitute
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: underworld
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

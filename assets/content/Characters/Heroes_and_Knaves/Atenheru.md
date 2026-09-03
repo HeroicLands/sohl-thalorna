@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Atenheru Sahri
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - dunhardsrtrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

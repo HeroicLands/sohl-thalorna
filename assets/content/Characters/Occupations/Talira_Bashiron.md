@@ -4,6 +4,7 @@ aliases:
   - Talira Bashiron
 tags:
   - draft
+  - mages
 name:
   full: Tàlîra Bâshirôn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the left ear
-social:
-  station: mages
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

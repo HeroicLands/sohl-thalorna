@@ -5,6 +5,7 @@ aliases:
   - Bjorn Vetrdomr
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Bjǫrn Vetrdómr
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

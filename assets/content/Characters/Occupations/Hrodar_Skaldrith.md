@@ -4,6 +4,7 @@ aliases:
   - Hrodar Skaldrith
 tags:
   - draft
+  - soldiery
 name:
   full: Hródar Skáldrith
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Mercenary
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: soldiery
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

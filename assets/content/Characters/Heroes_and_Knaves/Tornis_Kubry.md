@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - unguilded
+  - soldiery
 name:
   full: Tórnis Kúbrý
   title: ""
@@ -22,7 +24,8 @@ data:
   archetypes: []
   occupation: Scout / Spy
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: fair
     complexion: null
     extra_features: []
-social:
-  station: soldiery
-  class: unguilded
 sohl:
   archetype: null
   body:

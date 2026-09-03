@@ -4,6 +4,7 @@ aliases:
   - Galia Ralwen
 tags:
   - draft
+  - administration
 name:
   full: Gália Rálwen
   title: Lady
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Nobility (Courtier)
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: warm
     complexion: tanned
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

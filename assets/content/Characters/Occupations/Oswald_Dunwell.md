@@ -3,6 +3,7 @@ aliases:
   - Oswald Dunwell
 tags:
   - draft
+  - administration
 name:
   full: Oswald Dunwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Nobility (Manor Lord)
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: pale
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

@@ -7,6 +7,7 @@ tags:
   - heroes-and-knaves
   - todo
   - hero
+  - clergy
 name:
   full: Father Iztéban Alkássar
   title: Father
@@ -26,7 +27,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -44,9 +46,6 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
-social:
-  station: clergy
-  class: noble
 sohl:
   archetype: null
   body:

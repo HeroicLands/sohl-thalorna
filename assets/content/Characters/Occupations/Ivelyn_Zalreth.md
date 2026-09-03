@@ -4,6 +4,7 @@ aliases:
   - Ivelyn Zalreth
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ívelyn Zálreth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

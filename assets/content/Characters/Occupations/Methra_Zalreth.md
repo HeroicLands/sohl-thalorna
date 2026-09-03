@@ -4,6 +4,7 @@ aliases:
   - Methra Zalreth
 tags:
   - draft
+  - common-folk
 name:
   full: Méthra Zálreth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Labourer (unskilled)
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left arm
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

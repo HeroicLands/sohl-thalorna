@@ -4,6 +4,7 @@ aliases:
   - Verynna Branwyld
 tags:
   - draft
+  - clergy
 name:
   full: Vérynna Brânwyld
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left thigh
-social:
-  station: clergy
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Hathura Ise'fré
 tags:
   - heroes-and-knaves
+  - clergy
 name:
   full: Hathura Ise'fré
   title: Nebet
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +45,6 @@ data:
     extra_features:
       - Feather-of-Má'át scarification across the collarbones, concealed by vestments
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
-social:
-  station: clergy
-  class: noble
 sohl:
   archetype: null
   body:

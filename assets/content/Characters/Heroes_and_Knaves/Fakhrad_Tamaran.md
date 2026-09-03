@@ -5,6 +5,8 @@ aliases:
   - Fakhrad Tamaran
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Fakhrad Tamârân
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right hand
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

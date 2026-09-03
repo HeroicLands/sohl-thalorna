@@ -4,6 +4,7 @@ aliases:
   - Nubaris Jadiros
 tags:
   - draft
+  - administration
 name:
   full: Nûbàris Jâdîrôs
   title: Lady
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Nobility (Courtier)
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

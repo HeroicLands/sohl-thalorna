@@ -4,6 +4,7 @@ aliases:
   - Tarlig Tolgen
 tags:
   - draft
+  - common-folk
 name:
   full: Târlig Tólgen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Thatcher
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: clear
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

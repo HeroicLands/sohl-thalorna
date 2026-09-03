@@ -4,6 +4,7 @@ aliases:
   - Halira Naredh
 tags:
   - draft
+  - tradesfolk
 name:
   full: Hâlira Náredh
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: clear
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

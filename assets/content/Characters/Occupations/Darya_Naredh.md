@@ -4,6 +4,8 @@ aliases:
   - Darya Naredh
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Dárya Náredh
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Bard
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
-social:
-  station: tradesfolk
-  class: guilded
-  society: Élavendri
 sohl:
   archetype: null
   body:

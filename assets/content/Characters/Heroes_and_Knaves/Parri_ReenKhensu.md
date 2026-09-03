@@ -4,6 +4,8 @@ aliases:
   - Parri ReenKhensu
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Par'ri Re'en'Khensu
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

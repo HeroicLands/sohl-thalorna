@@ -4,6 +4,7 @@ aliases:
   - Brethar Salthar
 tags:
   - draft
+  - common-folk
 name:
   full: Bréthar Sálthar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a mystical symbol on the forearm
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

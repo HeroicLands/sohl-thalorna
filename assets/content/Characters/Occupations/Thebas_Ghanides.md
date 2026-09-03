@@ -4,6 +4,7 @@ aliases:
   - Thebas Ghanides
 tags:
   - draft
+  - common-folk
 name:
   full: Thêbas Ghânîdês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Gregoras Ephthymiopoulos
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Grégoras Ephthymiópoulos
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

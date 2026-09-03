@@ -5,6 +5,8 @@ aliases:
   - Banut Jaut
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Bânut Jâut
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +46,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the left ear
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Eirikr Stormrot
 tags:
   - draft
+  - common-folk
 name:
   full: Eiríkr Stormrót
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Fisher
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the chin
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

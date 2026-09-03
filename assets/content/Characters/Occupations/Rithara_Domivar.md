@@ -4,6 +4,7 @@ aliases:
   - Rithara Domivar
 tags:
   - draft
+  - common-folk
 name:
   full: Ríthara Dómivar
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

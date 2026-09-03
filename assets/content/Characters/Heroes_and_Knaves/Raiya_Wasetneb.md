@@ -4,6 +4,7 @@ aliases:
   - Raiya Wasetneb
 tags:
   - heroes-and-knaves
+  - administration
 name:
   full: Raiya Waset'neb
   title: Nebet
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Nobility (Courtier)
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - takheperurgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Faradun Afrun
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Faradûn Afrûn
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

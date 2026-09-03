@@ -4,6 +4,7 @@ aliases:
   - Volyra Brylond
 tags:
   - draft
+  - common-folk
 name:
   full: Vólyra Brýlond
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Thatcher
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a scar running down the right leg
-social:
-  station: common_folk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

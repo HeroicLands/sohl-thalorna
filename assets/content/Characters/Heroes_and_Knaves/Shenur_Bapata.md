@@ -4,6 +4,8 @@ aliases:
   - Shenur Bapata
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Shenur Ba'pata
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

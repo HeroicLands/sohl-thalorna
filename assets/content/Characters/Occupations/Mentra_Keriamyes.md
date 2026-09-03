@@ -4,6 +4,7 @@ aliases:
   - Mentra Keriamyes
 tags:
   - draft
+  - tradesfolk
 name:
   full: Mêntrâ Kêrîamyês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a wolf on the shoulder
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

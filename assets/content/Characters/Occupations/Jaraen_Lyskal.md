@@ -4,6 +4,7 @@ aliases:
   - Jaraen Lyskal
 tags:
   - draft
+  - tradesfolk
 name:
   full: Járaen Lýskal
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

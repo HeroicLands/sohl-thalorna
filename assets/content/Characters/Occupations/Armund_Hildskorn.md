@@ -4,6 +4,7 @@ aliases:
   - Armund Hildskorn
 tags:
   - draft
+  - tradesfolk
 name:
   full: Ármund Hildskorn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Jester
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

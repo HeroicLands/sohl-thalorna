@@ -4,6 +4,7 @@ aliases:
 tags:
   - demigod
   - heroes-of-asguard
+  - clergy
 name:
   full: Asbjorn Oakheart
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodsman and Guardian
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: weathered
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

@@ -4,6 +4,7 @@ aliases:
   - Khorn Halren
 tags:
   - draft
+  - soldiery
 name:
   full: Khôrn Hálren
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a rose vine on the leg
-social:
-  station: soldiery
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

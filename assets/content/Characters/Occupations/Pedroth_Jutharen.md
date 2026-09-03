@@ -4,6 +4,7 @@ aliases:
   - Pedroth Jutharen
 tags:
   - draft
+  - tradesfolk
 name:
   full: Pédroth Jútharen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a falcon on the right arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Azéndas Dâemâtôr
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -43,10 +46,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a dragon wrapping around the arm
-social:
-  station: clergy
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

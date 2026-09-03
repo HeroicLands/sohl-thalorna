@@ -5,6 +5,8 @@ aliases:
   - Alykos Sampsion
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Alýkos Sampsiôn
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

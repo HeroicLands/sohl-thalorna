@@ -3,6 +3,7 @@ aliases:
   - Harold Helmsley
 tags:
   - draft
+  - tradesfolk
 name:
   full: Harold Helmsley
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a woman on the shoulder
-social:
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

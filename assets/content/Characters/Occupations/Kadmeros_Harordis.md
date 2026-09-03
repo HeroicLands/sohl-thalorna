@@ -4,6 +4,7 @@ aliases:
   - Kadmeros Harordis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kadméros Hârôrdîs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: smooth
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

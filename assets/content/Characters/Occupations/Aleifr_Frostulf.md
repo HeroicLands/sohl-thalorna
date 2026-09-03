@@ -4,6 +4,7 @@ aliases:
   - Aleifr Frostulf
 tags:
   - draft
+  - tradesfolk
 name:
   full: Áleifr Frostulf
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: pale
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

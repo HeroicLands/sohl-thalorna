@@ -5,6 +5,8 @@ aliases:
   - Prthimaja Kayadara
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Prthîmâja Kâyadara
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Jeweller
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

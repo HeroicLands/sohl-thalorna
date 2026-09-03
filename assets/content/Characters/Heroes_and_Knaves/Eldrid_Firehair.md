@@ -4,6 +4,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - guilded
+  - tradesfolk
 name:
   full: Eldrid Firehair
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: tributary
 sohl:
   archetype: null
   body:

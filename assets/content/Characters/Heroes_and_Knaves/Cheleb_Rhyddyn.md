@@ -5,6 +5,8 @@ tags:
   - character
   - hero
   - silent-talon
+  - unguilded
+  - soldiery
 name:
   full: Chéleb Rhýddýn
   title: ""
@@ -22,7 +24,8 @@ data:
   archetypes: []
   occupation: Hunter / Scout
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -43,9 +46,6 @@ data:
     extra_features:
       - Hair tied back with leather thong
       - Often cloaked in green and brown for camouflage
-social:
-  station: soldiery
-  class: unguilded
 sohl:
   archetype: null
   body:

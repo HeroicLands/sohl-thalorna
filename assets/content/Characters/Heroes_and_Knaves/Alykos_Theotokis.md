@@ -5,6 +5,8 @@ aliases:
   - Alykos Theotokis
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Alýkos Theotókis
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

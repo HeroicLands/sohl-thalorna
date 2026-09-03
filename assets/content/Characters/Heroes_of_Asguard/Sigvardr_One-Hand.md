@@ -5,6 +5,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - soldiery
 name:
   full: Sigvarðr One-Hand
   title: null
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Warrior and Judge
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: fair
     complexion: rugged
     extra_features: []
-social:
-  station: soldiery
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   items:

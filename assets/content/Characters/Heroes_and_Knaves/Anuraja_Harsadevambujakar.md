@@ -5,6 +5,7 @@ aliases:
   - Anuraja Harsadevambujakar
 tags:
   - heroes-and-knaves
+  - underworld
 name:
   full: Anûraja Harṣadēvāmbujakar
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Assassin
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a tiger on the forearm
-social:
-  station: underworld
-  class: freeman
 sohl:
   archetype: null
   body:

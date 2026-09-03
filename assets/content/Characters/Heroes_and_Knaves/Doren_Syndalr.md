@@ -4,6 +4,8 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - unguilded
+  - soldiery
 name:
   full: Dôren Sýndalr
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Mercenary
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     complexion: battle_scarred
     extra_features:
       - Deep ragged scar diagonally across left cheek
-social:
-  station: soldiery
-  class: unguilded
 sohl:
   archetype: null
   body:

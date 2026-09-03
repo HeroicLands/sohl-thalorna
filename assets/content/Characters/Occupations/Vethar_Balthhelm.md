@@ -4,6 +4,8 @@ aliases:
   - Vethar Balthhelm
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Véthar Balthhelm
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: rough
     extra_features:
       - a scar on the right hand
-social:
-  station: tradesfolk
-  class: guilded
-  society: Varokhi
 sohl:
   archetype: null
   body:

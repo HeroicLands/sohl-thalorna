@@ -4,6 +4,7 @@ aliases:
   - Dalzuru Tubashi
 tags:
   - draft
+  - tradesfolk
 name:
   full: Dalzûru Tûbashî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Skald
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a falcon on the right arm
-social:
-  station: tradesfolk
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

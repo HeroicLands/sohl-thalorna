@@ -4,6 +4,8 @@ aliases:
   - Girmun Takkunum
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Girmûn Takkûnûm
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Apothecary
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: warm_golden
     complexion: olive_toned
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

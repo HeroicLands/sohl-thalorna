@@ -4,6 +4,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - clergy
 name:
   full: Brynhildr Ashenmaiden
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: weathered
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

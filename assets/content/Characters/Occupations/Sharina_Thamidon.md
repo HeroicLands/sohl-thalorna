@@ -4,6 +4,7 @@ aliases:
   - Sharina Thamidon
 tags:
   - draft
+  - common-folk
 name:
   full: Shárîna Thâmîdon
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: warm
     complexion: olive_toned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

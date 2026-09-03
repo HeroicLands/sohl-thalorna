@@ -5,6 +5,8 @@ aliases:
   - Siprah Ipmaar
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Sip'rah Ip'maâr
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Locksmith
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -43,9 +46,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

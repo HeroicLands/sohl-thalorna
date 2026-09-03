@@ -5,6 +5,7 @@ aliases:
   - Guthrun Solvargr
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Guthrún Sólvargr
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Trapper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a skull on the upper arm
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

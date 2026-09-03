@@ -3,6 +3,7 @@ aliases:
   - Aldous Brandon
 tags:
   - draft
+  - common-folk
 name:
   full: Aldous Brandon
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

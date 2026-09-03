@@ -4,6 +4,7 @@ aliases:
   - Hrefna Iseldr
 tags:
   - draft
+  - common-folk
 name:
   full: Hrefna Íseldr
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Woodcutter
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: pale
     complexion: pale
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

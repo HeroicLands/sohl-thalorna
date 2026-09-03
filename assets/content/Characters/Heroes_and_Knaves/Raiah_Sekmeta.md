@@ -4,6 +4,8 @@ aliases:
   - Raiah Sekmet'â
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Raiah Sekmet'â
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: ebony
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

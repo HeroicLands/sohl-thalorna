@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Delânash Faradân
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  peoples: []
+  lore:
+    - dunhariclt
+    - commonerrnk
   homes:
     - dunhardsrtrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: freckled
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Dunhari
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Girdanu Rashimu
 tags:
   - draft
+  - soldiery
 name:
   full: Girdanû Rashîmû
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Gladiator
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

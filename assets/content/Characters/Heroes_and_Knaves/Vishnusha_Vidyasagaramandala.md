@@ -5,6 +5,7 @@ aliases:
   - Vishnusha Vidyasagaramandala
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Vishnusha Vidyāsāgaramaṇḍala
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

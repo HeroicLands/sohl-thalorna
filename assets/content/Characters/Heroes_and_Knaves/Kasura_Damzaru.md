@@ -3,6 +3,7 @@ aliases:
   - Kasûra Damzarû
 tags:
   - tamzir-crew
+  - tradesfolk
 name:
   full: Kasûra Damzarû
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -43,9 +45,6 @@ data:
       - perpetually stained hands
       - an open and expressive face
       - almost always smiling
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

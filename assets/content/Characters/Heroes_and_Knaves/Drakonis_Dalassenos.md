@@ -5,6 +5,7 @@ aliases:
   - Drakonis Dalassenos
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Drákonis Dalássênos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Trapper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: ruddy
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

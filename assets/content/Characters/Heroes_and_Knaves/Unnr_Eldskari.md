@@ -3,6 +3,8 @@ aliases:
   - Unnr Eldskari
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Unnr Eldskari
   title: ""
@@ -21,7 +23,8 @@ data:
   archetypes: []
   occupation: Chandler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -39,9 +42,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

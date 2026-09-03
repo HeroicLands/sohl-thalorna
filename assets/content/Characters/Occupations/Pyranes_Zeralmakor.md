@@ -4,6 +4,7 @@ aliases:
   - Pyranes Zeralmakor
 tags:
   - draft
+  - tradesfolk
 name:
   full: Pyrânês Zêralmâkor
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - landedlordrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left thigh
-social:
-  station: tradesfolk
-  class: noble
-  society: Vylarian
 sohl:
   archetype: null
   body:

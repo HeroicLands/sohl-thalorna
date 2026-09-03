@@ -5,6 +5,7 @@ aliases:
   - Konstantinos Polytimos
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Konstántinos Polytimós
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Cook
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tawny
     complexion: tanned
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

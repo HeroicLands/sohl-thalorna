@@ -4,6 +4,7 @@ aliases:
   - Alvarik Arenthal
 tags:
   - draft
+  - common-folk
 name:
   full: Alvárik Árenthal
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a tattoo of a compass on the chest
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

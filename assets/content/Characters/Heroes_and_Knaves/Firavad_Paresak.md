@@ -5,6 +5,7 @@ aliases:
   - Firavad Paresak
 tags:
   - heroes-and-knaves
+  - clergy
 name:
   full: Firâvâd Pâresak
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - dunhardsrtrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

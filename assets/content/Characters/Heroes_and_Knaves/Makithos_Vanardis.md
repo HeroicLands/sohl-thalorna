@@ -5,6 +5,7 @@ aliases:
   - Makithos Vanardis
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Màkîthos Vânardis
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar on the right side of the face
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
   - Sekhemet Kasekhen
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Sekhemet Ka'sekhen
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

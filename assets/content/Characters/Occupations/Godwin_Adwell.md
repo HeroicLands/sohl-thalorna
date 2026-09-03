@@ -3,6 +3,7 @@ aliases:
   - Godwin Adwell
 tags:
   - draft
+  - common-folk
 name:
   full: Godwin Adwell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Herder
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: pale
     complexion: ruddy
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

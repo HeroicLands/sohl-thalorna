@@ -4,6 +4,7 @@ aliases:
   - Careden Charnis
 tags:
   - draft
+  - clergy
 name:
   full: Cáreden Chárnis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: bronzed
     extra_features: []
-social:
-  station: clergy
-  class: freeman
-  society: Provenzian
 sohl:
   archetype: null
   body:

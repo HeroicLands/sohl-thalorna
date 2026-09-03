@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Xénokôs Bárdâs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: pale
     extra_features:
       - scar across forehead
-social:
-  station: soldiery
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

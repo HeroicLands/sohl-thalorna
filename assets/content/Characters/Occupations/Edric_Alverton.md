@@ -3,6 +3,7 @@ aliases:
   - Edric Alverton
 tags:
   - draft
+  - common-folk
 name:
   full: Edric Alverton
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left side of the ribcage
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

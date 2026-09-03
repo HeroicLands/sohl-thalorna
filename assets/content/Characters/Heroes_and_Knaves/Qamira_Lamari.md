@@ -5,6 +5,8 @@ aliases:
   - Qamira Lamari
 tags:
   - heroes-and-knaves
+  - guilded
+  - mages
 name:
   full: Qâmira Lamari
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - kaliharargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

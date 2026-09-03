@@ -3,6 +3,7 @@ aliases:
   - Razanash Mervaran
 tags:
   - heroes-and-knaves
+  - clergy
 name:
   full: Razanash Mervaran
   title: ""
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -40,9 +42,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the left thigh
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

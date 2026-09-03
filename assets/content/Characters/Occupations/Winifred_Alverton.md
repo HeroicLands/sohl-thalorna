@@ -3,6 +3,7 @@ aliases:
   - Winifred Alverton
 tags:
   - draft
+  - tradesfolk
 name:
   full: Winifred Alverton
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

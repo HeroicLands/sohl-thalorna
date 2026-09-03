@@ -4,6 +4,8 @@ aliases:
   - Totkar HetWera
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Tot'kar Het'Wera
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a leaf on the wrist
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

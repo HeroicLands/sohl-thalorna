@@ -6,6 +6,8 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - guilded
+  - mages
 name:
   full: Ángelides Patrikîos
   title: ""
@@ -24,7 +26,8 @@ data:
   archetypes: []
   occupation: Mage (Healing)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: mages
-  class: guilded
 sohl:
   archetype: null
   body:

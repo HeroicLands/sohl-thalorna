@@ -5,6 +5,7 @@ aliases:
   - Drksarana Manrsti
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Drkṣàrana Manṛṣṭi
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a waterfall on the shoulder
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

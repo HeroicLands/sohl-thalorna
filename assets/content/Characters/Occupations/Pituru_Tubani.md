@@ -4,6 +4,7 @@ aliases:
   - Pituru Tubani
 tags:
   - draft
+  - soldiery
 name:
   full: Pitûrû Tûbanî
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: dusky
     extra_features:
       - a tattoo of a fish on the lower back
-social:
-  station: soldiery
-  class: freeman
-  society: Haradian
 sohl:
   archetype: null
   body:

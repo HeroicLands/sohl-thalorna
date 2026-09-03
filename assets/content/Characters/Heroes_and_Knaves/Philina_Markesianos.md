@@ -5,6 +5,7 @@ aliases:
   - Philina Markesianos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Philína Markêsianos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: golden
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

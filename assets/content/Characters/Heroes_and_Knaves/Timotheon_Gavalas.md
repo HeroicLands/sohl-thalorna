@@ -5,6 +5,8 @@ aliases:
   - Timotheon Gavalas
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Timothéon Gaválas
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Teamster
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: light
     complexion: ruddy
     extra_features: []
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

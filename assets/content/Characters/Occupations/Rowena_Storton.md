@@ -3,6 +3,8 @@ aliases:
   - Rowena Storton
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Rowena Storton
   title: ""
@@ -22,7 +24,9 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +45,6 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a bird on the forearm
-social:
-  station: tradesfolk
-  class: guilded
-  society: Aelwythan
 sohl:
   archetype: null
   body:

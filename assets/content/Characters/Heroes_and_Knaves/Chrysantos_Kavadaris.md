@@ -5,6 +5,8 @@ aliases:
   - Chrysantos Kavadaris
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Chrysántos Kavadáris
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Locksmith
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a fire on the leg
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

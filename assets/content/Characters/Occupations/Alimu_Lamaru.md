@@ -4,6 +4,8 @@ aliases:
   - Alimu Lamaru
 tags:
   - draft
+  - guilded
+  - administration
 name:
   full: Alîmû Lâmarû
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: olive
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

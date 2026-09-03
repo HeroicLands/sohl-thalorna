@@ -6,6 +6,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - todo
+  - clergy
 name:
   full: Hélénaia Mystákês
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -43,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

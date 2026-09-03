@@ -4,6 +4,7 @@ aliases:
   - Tabisa Marinades
 tags:
   - draft
+  - soldiery
 name:
   full: Tàbîsa Mârinadês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - commonerrnk
   homes:
     - helionis
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Helionite
 sohl:
   archetype: null
   body:

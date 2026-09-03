@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - clergy
 name:
   full: Hotep Anu
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -46,9 +48,6 @@ data:
         Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's
         mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

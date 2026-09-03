@@ -5,6 +5,8 @@ aliases:
   - Kjorvan Gjarlen
 tags:
   - heroes-and-knaves
+  - guilded
+  - common-folk
 name:
   full: Kjôrvan Gjârlen
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
-social:
-  station: common_folk
-  class: guilded
 sohl:
   archetype: null
   body:

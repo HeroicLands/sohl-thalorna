@@ -4,6 +4,7 @@ aliases:
   - Kolrith Delvanor
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kólrith Delvánor
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the lower abdomen
-social:
-  station: tradesfolk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

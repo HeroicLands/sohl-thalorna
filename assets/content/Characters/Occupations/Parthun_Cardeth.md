@@ -4,6 +4,8 @@ aliases:
   - Parthun Cardeth
 tags:
   - draft
+  - guilded
+  - tradesfolk
 name:
   full: Párthun Cárdeth
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: flawless
     extra_features:
       - a scar on the right side of the face
-social:
-  station: tradesfolk
-  class: guilded
-  society: Élavendri
 sohl:
   archetype: null
   body:

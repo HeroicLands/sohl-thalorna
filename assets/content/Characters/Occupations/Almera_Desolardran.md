@@ -4,6 +4,7 @@ aliases:
   - Almera Desolardran
 tags:
   - draft
+  - soldiery
 name:
   full: Álmera Desolárdran
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Caravan Guard
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive_tanned
     complexion: ruddy
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
   - Kalida Kourkasios
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kalída Kourkásios
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Potter
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

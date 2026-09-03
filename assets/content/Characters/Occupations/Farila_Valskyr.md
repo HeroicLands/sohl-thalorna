@@ -4,6 +4,7 @@ aliases:
   - Farila Valskyr
 tags:
   - draft
+  - tradesfolk
 name:
   full: Fárila Válskyr
   title: Lady
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: tanned
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

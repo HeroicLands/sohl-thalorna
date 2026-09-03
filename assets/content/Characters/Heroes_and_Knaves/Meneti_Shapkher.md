@@ -4,6 +4,8 @@ aliases:
   - Meneti Shapkher
 tags:
   - heroes-and-knaves
+  - guilded
+  - administration
 name:
   full: Meneti Shap'kher
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -41,9 +44,6 @@ data:
     skin_color: ebony
     complexion: null
     extra_features: []
-social:
-  station: administration
-  class: guilded
 sohl:
   archetype: null
   body:

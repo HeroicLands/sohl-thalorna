@@ -4,6 +4,8 @@ aliases:
   - Jethra Llydar
 tags:
   - draft
+  - guilded
+  - mages
 name:
   full: Jéthra Llýdar
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Astrologer
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
-social:
-  station: mages
-  class: guilded
-  society: Élavendri
 sohl:
   archetype: null
   body:

@@ -5,6 +5,8 @@ aliases:
   - Mehrad Azardan
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Mehrâd Âzardan
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - amradadrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the lower abdomen
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

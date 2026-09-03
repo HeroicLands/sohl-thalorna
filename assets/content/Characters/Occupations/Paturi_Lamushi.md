@@ -4,6 +4,8 @@ aliases:
   - Paturi Lamushi
 tags:
   - draft
+  - guilded
+  - common-folk
 name:
   full: Pâtûri Lamûshî
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Cook
   stations: []
-  peoples: []
+  lore:
+    - haradianclt
+    - commonerrnk
   homes:
     - haradregin
   affiliations:
@@ -42,10 +46,6 @@ data:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
-social:
-  station: common_folk
-  class: guilded
-  society: Haradian
 sohl:
   archetype: null
   body:

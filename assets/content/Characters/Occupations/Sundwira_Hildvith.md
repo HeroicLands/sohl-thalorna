@@ -4,6 +4,7 @@ aliases:
   - Sundwira Hildvith
 tags:
   - draft
+  - common-folk
 name:
   full: Sundwíra Hildvith
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a burn mark on the left hand
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

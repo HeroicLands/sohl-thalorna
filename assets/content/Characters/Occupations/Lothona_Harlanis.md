@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Lôthônâ Hârlânis
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: freckled
     extra_features:
       - calloused knuckles
-social:
-  station: soldiery
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

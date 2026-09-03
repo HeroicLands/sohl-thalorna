@@ -5,6 +5,8 @@ aliases:
   - Dometh Graveth
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Dómeth Gráveth
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Shipwright
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

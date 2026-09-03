@@ -5,6 +5,7 @@ aliases:
   - Arkadios Philomedis
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Arkádios Philomédis
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Mercenary
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

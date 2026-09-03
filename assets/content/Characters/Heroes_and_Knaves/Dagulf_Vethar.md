@@ -7,6 +7,7 @@ tags:
   - brigand
   - serf
   - vrystwald
+  - underworld
 name:
   full: Dágulf Véthar
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  peoples: []
+  lore:
+    - slavernk
   homes:
     - vrystwald
   affiliations:
@@ -44,9 +46,6 @@ data:
     complexion: medium
     extra_features:
       - Pox marks
-social:
-  station: underworld
-  class: unfree
 sohl:
   archetype: null
   body:

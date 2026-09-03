@@ -3,6 +3,7 @@ aliases:
   - Eda Somervell
 tags:
   - draft
+  - tradesfolk
 name:
   full: Eda Somervell
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: pale
     complexion: smooth
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

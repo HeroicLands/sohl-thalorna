@@ -4,6 +4,7 @@ aliases:
   - Vigbrandr Steinblot
 tags:
   - draft
+  - tradesfolk
 name:
   full: Vígbrandr Steinblót
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
-social:
-  station: tradesfolk
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   body:

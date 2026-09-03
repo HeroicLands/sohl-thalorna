@@ -4,6 +4,7 @@ aliases:
   - Brynael Falwyn
 tags:
   - draft
+  - tradesfolk
 name:
   full: Brýnael Fálwyn
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: fair
     complexion: smooth
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

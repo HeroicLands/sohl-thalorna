@@ -3,6 +3,7 @@ aliases:
   - Erthran Hildvith
 tags:
   - draft
+  - common-folk
 name:
   full: Erthran Hildvith
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Trapper
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -40,10 +43,6 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

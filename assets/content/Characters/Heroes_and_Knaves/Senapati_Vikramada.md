@@ -5,6 +5,7 @@ aliases:
   - Senapati Vikramada
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Sénapati Vikramâda
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Bosun
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

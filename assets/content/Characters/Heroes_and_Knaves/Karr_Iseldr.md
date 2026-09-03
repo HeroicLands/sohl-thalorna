@@ -5,6 +5,7 @@ aliases:
   - Karr Iseldr
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Kárr Íseldr
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar above the left eyebrow
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

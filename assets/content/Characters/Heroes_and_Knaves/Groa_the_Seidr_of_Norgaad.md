@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - clergy
 name:
   full: Gróa the Seiðr of Norgaad
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: pale
     complexion: null
     extra_features: []
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

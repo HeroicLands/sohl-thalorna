@@ -5,6 +5,8 @@ aliases:
   - Afzandah Parnazar
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Afzandah Parnâzar
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - khzryndsrtrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: null
     extra_features:
       - a scar on the left ankle
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

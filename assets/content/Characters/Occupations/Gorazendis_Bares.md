@@ -4,6 +4,7 @@ aliases:
   - Gorazendis Bares
 tags:
   - draft
+  - tradesfolk
 name:
   full: Gorâzendîs Bârês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Locksmith
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a scar across the cheek
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo-warrior
   - draft
+  - soldiery
 name:
   full: Brýgar Lýskal
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - commonerrnk
   homes:
     - provenzrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: dark_brown
     complexion: ruddy
     extra_features: []
-social:
-  station: soldiery
-  class: freeman
-  society: Provenzal
 sohl:
   archetype: null
   body:

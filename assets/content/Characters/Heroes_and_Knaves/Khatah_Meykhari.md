@@ -4,6 +4,7 @@ aliases:
   - Khatah Meykhari
 tags:
   - heroes-and-knaves
+  - soldiery
 name:
   full: Khatah Mey'khari
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a spider on the shoulder
-social:
-  station: soldiery
-  class: freeman
 sohl:
   archetype: null
   body:

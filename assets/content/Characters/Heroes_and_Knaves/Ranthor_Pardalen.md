@@ -5,6 +5,7 @@ aliases:
   - Ranthor Pardalen
 tags:
   - heroes-and-knaves
+  - clergy
 name:
   full: Ránthor Párdalen
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a crown on the chest
-social:
-  station: clergy
-  class: freeman
 sohl:
   archetype: null
   body:

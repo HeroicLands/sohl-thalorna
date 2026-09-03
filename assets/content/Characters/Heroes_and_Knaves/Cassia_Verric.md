@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - administration
 name:
   full: Cassia Verric
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Intelligence Officer
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
-social:
-  station: administration
-  class: free
 sohl:
   archetype: null
   body:

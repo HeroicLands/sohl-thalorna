@@ -5,6 +5,7 @@ aliases:
   - Isidora Melissenos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Isidôra Melissenós
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: olive
     complexion: null
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

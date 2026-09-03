@@ -5,6 +5,7 @@ aliases:
   - Suvaratika Ratnisena
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Suvaratika Ratniseṇa
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Toymaker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vedyarargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

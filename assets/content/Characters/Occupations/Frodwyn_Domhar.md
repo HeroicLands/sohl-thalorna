@@ -4,6 +4,7 @@ aliases:
   - Frodwyn Domhar
 tags:
   - draft
+  - tradesfolk
 name:
   full: Fródwyn Dómhár
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - landedlordrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: freckled
     extra_features:
       - a scar running across the stomach
-social:
-  station: tradesfolk
-  class: noble
-  society: Varokhi
 sohl:
   archetype: null
   body:

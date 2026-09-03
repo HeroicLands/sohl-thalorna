@@ -4,6 +4,7 @@ aliases:
   - Tharia Castirenna
 tags:
   - draft
+  - common-folk
 name:
   full: Thária Castírenna
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - tarvenanclt
+    - commonerrnk
   homes:
     - tarvenirgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: olive
     complexion: battle_scarred
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Tarvénan
 sohl:
   archetype: null
   body:

@@ -4,6 +4,8 @@ aliases:
   - Kelyra Salthar
 tags:
   - draft
+  - guilded
+  - administration
 name:
   full: Kélyra Sálthar
   title: ""
@@ -23,7 +25,9 @@ data:
   archetypes: []
   occupation: Bureaucrat
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +45,6 @@ data:
     skin_color: pale
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: guilded
-  society: Élavendri
 sohl:
   archetype: null
   body:

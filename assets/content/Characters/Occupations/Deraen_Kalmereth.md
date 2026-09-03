@@ -4,6 +4,7 @@ aliases:
   - Deraen Kalmereth
 tags:
   - draft
+  - common-folk
 name:
   full: Déraen Kálmereth
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Salter
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: pale
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

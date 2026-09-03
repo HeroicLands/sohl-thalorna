@@ -4,6 +4,7 @@ aliases:
 tags:
   - heroes-and-knaves
   - hero
+  - tradesfolk
 name:
   full: Philetos Kleftes
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Rylden Branwyld
 tags:
   - draft
+  - administration
 name:
   full: Rýlden Brânwyld
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Chieftain
   stations: []
-  peoples: []
+  lore:
+    - provenzianclt
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: wrinkled
     extra_features:
       - a scar on the left eye
-social:
-  station: administration
-  class: noble
-  society: Provenzian
 sohl:
   archetype: null
   body:

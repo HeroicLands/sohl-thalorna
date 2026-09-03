@@ -5,6 +5,7 @@ aliases:
 tags:
   - todo
   - draft
+  - clergy
 name:
   full: Dûmàrês Râfîrôs
   title: ""
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
-social:
-  station: clergy
-  class: noble
-  society: Helionite
 sohl:
   archetype: null
   body:

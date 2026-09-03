@@ -4,6 +4,7 @@ aliases:
   - Waldaric Rikhild
 tags:
   - draft
+  - tradesfolk
 name:
   full: Waldaric Ríkhild
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  peoples: []
+  lore:
+    - varokhiclt
+    - commonerrnk
   homes:
     - vrystwald
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a fire on the leg
-social:
-  station: tradesfolk
-  class: freeman
-  society: Varokhi
 sohl:
   archetype: null
   body:

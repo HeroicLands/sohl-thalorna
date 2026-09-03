@@ -5,6 +5,7 @@ aliases:
   - Snorri Jarnskel
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Snorri Járnskel
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  peoples: []
+  lore:
+    - slavernk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right cheek
-social:
-  station: common_folk
-  class: unfree
 sohl:
   archetype: null
   body:

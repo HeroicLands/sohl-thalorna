@@ -3,6 +3,7 @@ aliases:
   - Cuthbert Sherwin
 tags:
   - draft
+  - common-folk
 name:
   full: Cuthbert Sherwin
   title: ""
@@ -22,7 +23,9 @@ data:
   archetypes: []
   occupation: Woodcutter
   stations: []
-  peoples: []
+  lore:
+    - aelwythanclt
+    - commonerrnk
   homes:
     - aelwyth
   affiliations:
@@ -41,10 +44,6 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the back
-social:
-  station: common_folk
-  class: freeman
-  society: Aelwythan
 sohl:
   archetype: null
   body:

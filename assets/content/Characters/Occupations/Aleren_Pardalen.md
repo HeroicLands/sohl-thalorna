@@ -4,6 +4,7 @@ aliases:
   - Aleren Pardalen
 tags:
   - draft
+  - clergy
 name:
   full: Áleren Párdalen
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  peoples: []
+  lore:
+    - elavendriclt
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a crown on the chest
-social:
-  station: clergy
-  class: freeman
-  society: Élavendri
 sohl:
   archetype: null
   body:

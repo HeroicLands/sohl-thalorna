@@ -8,6 +8,7 @@ tags:
   - noble
   - spymaster
   - vylaria
+  - administration
 name:
   full: Lord Aemilon Visbari
   title: Lord
@@ -26,7 +27,8 @@ data:
   archetypes: []
   occupation: Herald
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - vylariargn
   affiliations:
@@ -47,9 +49,6 @@ data:
       - limp
       - moustache
       - beard
-social:
-  station: administration
-  class: noble
 sohl:
   archetype: null
   body:

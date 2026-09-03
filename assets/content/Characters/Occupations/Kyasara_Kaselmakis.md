@@ -4,6 +4,7 @@ aliases:
   - Kyasara Kaselmakis
 tags:
   - draft
+  - tradesfolk
 name:
   full: Kyàsârâ Kâselmakîs
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - vylarianclt
+    - commonerrnk
   homes:
     - vylariargn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
-social:
-  station: tradesfolk
-  class: freeman
-  society: Vylarian
 sohl:
   archetype: null
   body:

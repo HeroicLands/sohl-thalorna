@@ -5,6 +5,7 @@ aliases:
 tags:
   - paragon
   - heroes-of-asguard
+  - administration
 name:
   full: Eiríkr Lawgiver
   title: null
@@ -24,7 +25,9 @@ data:
   archetypes: []
   occupation: Judge and Lawman
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:

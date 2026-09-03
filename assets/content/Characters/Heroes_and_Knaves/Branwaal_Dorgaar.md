@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - silent-talon
+  - soldiery
 name:
   full: Brànwâal Dôrgaar
   title: Captain
@@ -21,7 +22,8 @@ data:
   archetypes: []
   occupation: Mercenary Captain
   stations: []
-  peoples: []
+  lore:
+    - landedlordrnk
   homes:
     - provenzrgn
   affiliations:
@@ -40,9 +42,6 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
-social:
-  station: soldiery
-  class: noble
 sohl:
   archetype: null
   body:

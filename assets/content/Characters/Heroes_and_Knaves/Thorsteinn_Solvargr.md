@@ -5,6 +5,8 @@ aliases:
   - Thorsteinn Solvargr
 tags:
   - heroes-and-knaves
+  - guilded
+  - tradesfolk
 name:
   full: Thorsteinn Sólvargr
   title: ""
@@ -23,7 +25,8 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,9 +45,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the chin
-social:
-  station: tradesfolk
-  class: guilded
 sohl:
   archetype: null
   body:

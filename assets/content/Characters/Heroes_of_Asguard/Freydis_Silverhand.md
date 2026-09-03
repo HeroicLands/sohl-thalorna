@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - tradesfolk
 name:
   full: Freydis Silverhand
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Merchant and Diplomat
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - landedlordrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: medium
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: noble
-  society: Nordheimn
 sohl:
   archetype: null
   items:

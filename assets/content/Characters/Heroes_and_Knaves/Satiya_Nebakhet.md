@@ -5,6 +5,7 @@ aliases:
   - Satiya Nebakhet
 tags:
   - heroes-and-knaves
+  - common-folk
 name:
   full: Satîya Neb'akhet
   title: ""
@@ -24,7 +25,8 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - takheperurgn
   affiliations:
@@ -42,9 +44,6 @@ data:
     skin_color: ebony
     complexion: null
     extra_features: []
-social:
-  station: common_folk
-  class: freeman
 sohl:
   archetype: null
   body:

@@ -4,6 +4,7 @@ aliases:
   - Jorundr Frostulf
 tags:
   - draft
+  - soldiery
 name:
   full: Jǫrundr Frostulf
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Gaoler
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left ear
-social:
-  station: soldiery
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   body:

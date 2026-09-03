@@ -5,6 +5,7 @@ aliases:
   - Photianos Strategopoulos
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Phótianos Stratégopoulos
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Innkeeper
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - byzariargn
   affiliations:
@@ -42,9 +44,6 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right hand
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

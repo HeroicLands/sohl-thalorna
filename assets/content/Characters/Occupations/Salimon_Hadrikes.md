@@ -4,6 +4,7 @@ aliases:
   - Salimon Hadrikes
 tags:
   - draft
+  - tradesfolk
 name:
   full: Sâlimón Hâdrîkês
   title: ""
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  peoples: []
+  lore:
+    - helioniteclt
+    - landedlordrnk
   homes:
     - helionis
   affiliations:
@@ -42,10 +45,6 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar above the left eyebrow
-social:
-  station: tradesfolk
-  class: noble
-  society: Helionite
 sohl:
   archetype: null
   body:

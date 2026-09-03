@@ -5,6 +5,7 @@ aliases:
   - Veldor Belthal
 tags:
   - heroes-and-knaves
+  - tradesfolk
 name:
   full: Véldor Bélthal
   title: ""
@@ -23,7 +24,8 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  peoples: []
+  lore:
+    - commonerrnk
   homes:
     - elavendre
   affiliations:
@@ -41,9 +43,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
-social:
-  station: tradesfolk
-  class: freeman
 sohl:
   archetype: null
   body:

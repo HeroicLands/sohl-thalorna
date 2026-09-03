@@ -4,6 +4,7 @@ aliases:
 tags:
   - hero
   - heroes-of-asguard
+  - administration
 name:
   full: Thyra Goldenhair
   title: null
@@ -23,7 +24,9 @@ data:
   archetypes: []
   occupation: Courtesan and Power Broker
   stations: []
-  peoples: []
+  lore:
+    - nordheimnclt
+    - commonerrnk
   homes:
     - nrdlndsrgn
   affiliations:
@@ -41,10 +44,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
-social:
-  station: administration
-  class: freeman
-  society: Nordheimn
 sohl:
   archetype: null
   items:
