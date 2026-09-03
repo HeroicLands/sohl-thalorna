@@ -12,8 +12,8 @@
  */
 
 /**
- * The `_headers` payload this repository generates, asserted rather than
- * eyeballed (#96).
+ * The `_headers` and `_redirects` payloads this repository generates, asserted
+ * rather than eyeballed (#96, package-build#182).
  *
  * Written for `node --test`, which needs no dependency and no configuration —
  * this repository has no test harness, and the payload under test is a string
@@ -34,7 +34,14 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
 
-import { HEADERS, ORIGIN_SUFFIX } from "./build-site-root.mjs";
+import {
+    HEADERS,
+    NOINDEX_HEADERS,
+    CACHE_HEADERS,
+    REDIRECTS,
+    ORIGIN_SUFFIX,
+    PACKAGE_DIR,
+} from "./build-site-root.mjs";
 
 /**
  * The `_headers` payload as `[match, ...header lines]` tuples.
@@ -80,7 +87,14 @@ function hostMatcher(match) {
     return new RegExp(`^${source}$`);
 }
 
-/** The rules whose host pattern matches `host`. */
+/**
+ * The rules whose host pattern matches `host`.
+ *
+ * Read from the whole payload rather than from {@link NOINDEX_HEADERS}, because
+ * the fact under test is what a *request* to that host is served: a cache rule
+ * that accidentally matched a hostname would be as much of a finding here as a
+ * `noindex` one. The path-scoped rules simply match no hostname.
+ */
 const rulesMatching = (host) => rules(HEADERS).filter(([match]) => hostMatcher(match).test(host));
 
 describe("the /thalorna/ deployment's host-assigned addresses", () => {
@@ -113,10 +127,20 @@ describe("the /thalorna/ deployment's host-assigned addresses", () => {
         // An unscoped `/*` would noindex the canonical path as well — and, for
         // anyone who takes this repository elsewhere, their own domain with it.
         const hosted = new RegExp(`\\.(pages\\.dev|${ORIGIN_SUFFIX.replace(/\./g, "\\.")})$`);
-        for (const [match] of rules(HEADERS)) {
+        for (const [match] of rules(NOINDEX_HEADERS.join("\n"))) {
             assert.match(match, /^https:\/\/[^/]+\/\*$/);
             assert.match(hostOf(match), hosted);
         }
+    });
+
+    it("adds nothing host-scoped beyond those three rules", () => {
+        // The scoping assertion above reads `NOINDEX_HEADERS`, so on its own it
+        // would not notice an unscoped `/*` added to the *other* section. This
+        // says the payload holds exactly the three host-scoped rules and no
+        // fourth: every remaining rule is a path, which by construction cannot
+        // carry `noindex` to a host it was not written for.
+        const scoped = rules(HEADERS).filter(([match]) => match.startsWith("https://"));
+        assert.equal(scoped.length, 3);
     });
 
     it("cannot match the canonical host, which must stay indexable", () => {
@@ -147,5 +171,51 @@ describe("the /thalorna/ deployment's host-assigned addresses", () => {
         ]) {
             assert.deepEqual(rulesMatching(host), []);
         }
+    });
+});
+
+describe("the /thalorna/ landing redirect (package-build#182)", () => {
+    // The homepage is an addressed note now: it publishes at
+    // `/thalorna/homepage-root/` rather than at the package prefix, so the
+    // prefix serves nothing of its own and has to point at it.
+    const redirectLines = REDIRECTS.split("\n").filter((l) => l.trim());
+
+    it("redirects both raw forms of the package prefix", () => {
+        // Cloudflare Pages matches the raw path — redirect matching runs before
+        // any trailing-slash handling — so `/thalorna` and `/thalorna/` are
+        // distinct keys and a rule on one does not catch the other.
+        assert.deepEqual(
+            redirectLines.map((l) => l.split(/\s+/)),
+            [
+                [`/${PACKAGE_DIR}/`, `/${PACKAGE_DIR}/homepage-root/`, "301"],
+                [`/${PACKAGE_DIR}`, `/${PACKAGE_DIR}/homepage-root/`, "301"],
+            ],
+        );
+    });
+
+    it("never redirects the landing to itself", () => {
+        // A destination inside the matched prefix would loop if the match were
+        // ever widened to `/thalorna/*`. It is not, but the target is the one
+        // thing that makes widening safe, so it is asserted rather than assumed.
+        for (const line of redirectLines) {
+            const [from, to] = line.split(/\s+/);
+            assert.notEqual(from, to);
+        }
+    });
+
+    it("pins a lifetime on the 301", () => {
+        // Cloudflare Pages sets no `Cache-Control` on a redirect it generates,
+        // and an unpinned 301 is cacheable indefinitely under RFC 9111 — a
+        // browser persists it to disk and stops asking. Both redirected paths
+        // need the rule, since `_headers` matches the same raw paths.
+        const cache = rules(CACHE_HEADERS.join("\n"));
+        assert.deepEqual(cache, [
+            [`/${PACKAGE_DIR}/`, "Cache-Control: max-age=3600"],
+            [`/${PACKAGE_DIR}`, "Cache-Control: max-age=3600"],
+        ]);
+        assert.deepEqual(
+            cache.map(([match]) => match),
+            redirectLines.map((l) => l.split(/\s+/)[0]),
+        );
     });
 });

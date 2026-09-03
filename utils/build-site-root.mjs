@@ -104,7 +104,7 @@ export const ORIGIN_SUFFIX = "pkg.heroiclands.org";
  * covered by exactly one rule" and "the canonical host is covered by none" are
  * assertions rather than claims.
  */
-export const HEADERS = [
+export const NOINDEX_HEADERS = [
     "https://:project.pages.dev/*",
     "  X-Robots-Tag: noindex",
     "",
@@ -114,7 +114,55 @@ export const HEADERS = [
     `https://:package.${ORIGIN_SUFFIX}/*`,
     "  X-Robots-Tag: noindex",
     "",
+];
+
+/**
+ * Where `/thalorna/` sends a reader, now that the landing is an addressed page.
+ *
+ * A homepage used to be the one note whose destination was fixed — it wrote the
+ * site root's `_index.md` and was served at `/thalorna/`. Since
+ * package-build#182 it is an ordinary addressed note: it declares
+ * `shortcode: root` and publishes at its address like every other page, so the
+ * package prefix serves nothing of its own and the landing has to be pointed
+ * at. That is a routing fact rather than content, which is why it is authored
+ * here.
+ *
+ * Both forms, because Cloudflare Pages matches the raw path: redirect matching
+ * runs before any trailing-slash or `index.html` handling, so `/thalorna` and
+ * `/thalorna/` are distinct keys and a rule on one does not catch the other.
+ */
+export const REDIRECTS = [
+    `/${PACKAGE_DIR}/   /${PACKAGE_DIR}/homepage-root/   301`,
+    `/${PACKAGE_DIR}    /${PACKAGE_DIR}/homepage-root/   301`,
+    "",
 ].join("\n");
+
+/**
+ * The lifetime pinned on that 301, and why it is pinned at all.
+ *
+ * Cloudflare Pages sets **no** `Cache-Control` on a redirect it generates — its
+ * redirect responses carry `location` and nothing else — and a 301 with no
+ * `Cache-Control` is cacheable indefinitely by default under RFC 9111. A
+ * browser persists one to disk and stops asking, so an addressing scheme that
+ * moved again would strand every returning reader on this package's
+ * most-linked URL. An hour keeps the 301's canonical signal without the
+ * permanence.
+ *
+ * These rules are **path-scoped**, unlike {@link NOINDEX_HEADERS}: they are
+ * about one address on every host this deployment answers on, not about which
+ * hosts are host-assigned.
+ */
+export const CACHE_HEADERS = [
+    `/${PACKAGE_DIR}/`,
+    "  Cache-Control: max-age=3600",
+    "",
+    `/${PACKAGE_DIR}`,
+    "  Cache-Control: max-age=3600",
+    "",
+];
+
+/** The full `_headers` payload: the `noindex` rules, then the cache rules. */
+export const HEADERS = [...NOINDEX_HEADERS, ...CACHE_HEADERS].join("\n");
 
 function main() {
     const root = path.resolve(SITE_OUT);
@@ -130,6 +178,9 @@ function main() {
 
     fs.writeFileSync(path.join(root, "_headers"), HEADERS);
     console.log(`build-site-root: wrote ${SITE_OUT}/_headers.`);
+
+    fs.writeFileSync(path.join(root, "_redirects"), REDIRECTS);
+    console.log(`build-site-root: wrote ${SITE_OUT}/_redirects.`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

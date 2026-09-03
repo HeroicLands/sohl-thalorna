@@ -24,6 +24,7 @@
 # that exists to send readers somewhere. It belongs here the day there is
 # something to install.
 type: homepage
+shortcode: root
 title: The World of Thalorna
 description: >-
   A world of feuding realms, old faiths, and older powers — its peoples,
