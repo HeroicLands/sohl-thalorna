@@ -160,5 +160,5 @@ The Capital Nome uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and it
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
 - [[place-wasetkara|Wasetkara]] — The imperial city
 - [[affiliation-deltanomes|The Delta Nomes]], [[affiliation-uperivrnms|The Upper River Nomes]], [[affiliation-bordernoms|The Border Nomes]] — The other nome-classes
-- [[affiliation-kenbetpat]] — Council of the Nobles · [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
+- [[affiliation-kenbetpat|]] — Council of the Nobles · [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlng|Kheperi]] — Naming

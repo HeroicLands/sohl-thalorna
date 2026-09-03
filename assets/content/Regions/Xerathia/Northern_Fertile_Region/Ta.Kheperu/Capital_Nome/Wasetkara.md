@@ -128,4 +128,4 @@ Beneath the common crime lurk the **forbidden cults** — the rites the temples 
 - [[place-iattepy|Iat-Tepy]] — The Sacred Island: palace, Great Temple of Rā, and the Measure
 - [[place-tadjeser|Ta-Djeser]] — The necropolis-city across the river
 - [[place-perheka|Per-Heka]] — Temple-estate town of the nome
-- [[affiliation-kenbetpat]] — Council of the Nobles · [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Rā, Ptā'h)
+- [[affiliation-kenbetpat|]] — Council of the Nobles · [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Rā, Ptā'h)
