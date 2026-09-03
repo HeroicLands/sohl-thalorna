@@ -7,6 +7,16 @@ name:
   aliases: []
 type: scenario
 subType: adventure
+data:
+  parents: []
+  locations: []
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 folder: T7mOTtKBjOMdoGy2
 ---
 

@@ -6,13 +6,23 @@ aliases:
 id: RvfilQTQiy26gkk7
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 name:
   full: Summary of Provènzia
   aliases: []
 shortcode: sumryprvnz
 folder: 9TmLIkGXGHMtFxzy
-thalorna:
-  region: provenzrgn
 ---
 
 ### Summary of Provènzia

@@ -5,16 +5,24 @@ aliases:
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
-subType: adventure
+subType: campaign
+data:
+  parents: []
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 id: 1e0pksxoUKkUxRFB
 shortcode: bldshscrvlvl
 name:
   full: Blood and Ashes in Céravel Vale
   aliases: []
-thalorna:
-  region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
-topic: true
 ---
 
 ## Teaser

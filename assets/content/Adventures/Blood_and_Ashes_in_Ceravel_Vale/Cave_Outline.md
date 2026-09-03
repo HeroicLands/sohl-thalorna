@@ -6,12 +6,22 @@ aliases:
 id: xtuTF2bDckVdkrE5
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 name:
   full: Cave Outline
   aliases: []
 shortcode: caveoutlin
-thalorna:
-  region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
 ---
 

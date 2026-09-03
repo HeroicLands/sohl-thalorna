@@ -6,16 +6,23 @@ tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 id: UMwapuEoRc7pnmZT
 shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale
   aliases: []
-thalorna:
-  region: provenzrgn
-campaign:
-  id: 1e0pksxoUKkUxRFB
-  part: 1
 folder: 9TmLIkGXGHMtFxzy
 ---
 

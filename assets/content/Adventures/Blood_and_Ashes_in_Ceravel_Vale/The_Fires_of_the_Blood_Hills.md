@@ -5,16 +5,24 @@ tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
 subType: adventure
+data:
+  parents:
+    - bldshscrvlvl
+  locations:
+    - provenzrgn
+  cast: []
+  factions: []
+  follows:
+    - webdeceit
+  status: null
+  party:
+    size: null
+    archetypes: []
 id: 6TK6erjwIhZeAzxz
 shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills
   aliases: []
-campaign:
-  id: 1e0pksxoUKkUxRFB
-  part: 3
-thalorna:
-  region: provenzrgn
 folder: 9TmLIkGXGHMtFxzy
 ---
 

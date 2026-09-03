@@ -9,7 +9,16 @@ name:
 shortcode: groascmpgn
 type: scenario
 subType: adventure
-topic: true
+data:
+  parents: []
+  locations: []
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 

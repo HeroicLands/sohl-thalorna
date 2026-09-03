@@ -8,8 +8,17 @@ name:
 shortcode: embsydnvrtnvr
 type: scenario
 subType: adventure
-thalorna:
-  region: aelwyth
+data:
+  parents: []
+  locations:
+    - aelwyth
+  cast: []
+  factions: []
+  follows: []
+  status: null
+  party:
+    size: null
+    archetypes: []
 folder: TokyoDCf1w4elPns
 ---
 
