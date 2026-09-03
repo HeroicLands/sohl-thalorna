@@ -1,6 +1,7 @@
 ---
 aliases:
   - Languages of Thalorna
+  - Languages
 id: G8edp7iIvjWsum74
 type: doc
 subType: collection
@@ -8,6 +9,7 @@ name:
   full: Languages of Thalorna
   aliases: []
 shortcode: lnggsthlrn
+banner: banners/language.webp
 ---
 
 # Languages of Thalorna
@@ -82,3 +84,14 @@ The languages of Thalorna fall into several broad families:
 ## Trade Languages
 
 - **[[skill-valtarlng|Valtári]]:** The dominant pidgin of Mídhalión's harbors, trading houses, and ships. Spoken by merchants, sailors, dock workers, and anyone whose livelihood crosses language boundaries.
+
+## Every Language Note
+
+The tables above are curated and say where each tongue is spoken; the list below
+is generated, and so cannot fall behind a language being added.
+
+```dataview
+TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
+WHERE type = "skill" and subType = "language" and package = "thalorna"
+SORT name.full ASC
+```
