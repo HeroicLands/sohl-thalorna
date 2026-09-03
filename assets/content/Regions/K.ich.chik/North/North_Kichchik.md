@@ -4,7 +4,6 @@ aliases:
 id: YXAvC7IO4US66yuY
 tags:
   - region
-title: ""
 description: "The northern reach of the K'ich'chik continent and its city-states."
 name:
   full: Northern K'ich'chik

@@ -5,7 +5,6 @@ aliases:
   - Grukarhölm
 tags:
   - region
-title: ""
 description: A landlocked enclave of dense mixed forest, vast marshlands, and slow rivers — the Grukari homeland, wedged into the eastern Nordlands as a hive-martial society wholly distinct from the Nordmal and Varokh peoples who surround it on every side.
 name:
   full: Grukarholm Region

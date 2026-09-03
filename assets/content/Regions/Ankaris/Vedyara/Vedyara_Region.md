@@ -4,7 +4,6 @@ aliases:
   - Vedyara
 tags:
   - region
-title: ""
 description: The southern subcontinent of Ankaris — a patchwork of castes, courts, and mystical traditions beneath the cycle-gods of the Varṇaka Pantheon.
 name:
   full: Vedyara Region

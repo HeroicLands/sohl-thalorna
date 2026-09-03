@@ -4,7 +4,6 @@ aliases:
   - Dunhara
 tags:
   - region
-title: ""
 description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Āsháian Pantheon.
 name:
   full: Dunhara Region

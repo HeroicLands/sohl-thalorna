@@ -22,7 +22,6 @@ name:
   aliases: []
 description: The western continent — a pyramid-building theocratic civilization unified under the Itzáni faith, with unconquered tribal nations in the north and forsaken wastes in the far south.
 terran_analog: "North America and South America joined as one great continent — pre-Columbian Mesoamerica/Andean civilization in the central and southern reaches, unconquered tribal nations in the North-American-analog north, and the forsaken Patagonian-analog wastes in the far south. The connecting isthmus (Central-America-analog) is roughly five times broader than the real-world Panama, giving K'ich'chik the geographic continuity that the Americas in the real world only narrowly preserve."
-world: worldthlrn
 folder: zDQN9rrPPHsbLgoQ
 ---
 

@@ -4,7 +4,6 @@ aliases:
   - Bethua Region
 tags:
   - region
-title: ""
 description: The western coast of Xerathia's northern shore and the engineered interior behind it — the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
 name:
   full: Bethûa Region

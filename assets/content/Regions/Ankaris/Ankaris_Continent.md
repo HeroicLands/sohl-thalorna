@@ -24,7 +24,6 @@ name:
 shortcode: ankrscntnnt
 description: The largest continent of Thalorna — home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
 terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
-world: worldthlrn
 folder: ItBuDdxR2fBHx2Jw
 ---
 

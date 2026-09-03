@@ -4,7 +4,6 @@ aliases:
   - Dunhara Desert
 tags:
   - region
-title: ""
 description: The open desert of the Dunhara beyond the settled cities — sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.
 name:
   full: Dunhara Desert Region

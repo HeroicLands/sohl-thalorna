@@ -5,7 +5,6 @@ aliases:
   - Nordheim
 tags:
   - region
-title: ""
 description: The frozen fjord-lands of northern Ankaris — homeland of the Normen, seafarers and raiders of the Asguardian faith.
 name:
   full: Nordlands Region

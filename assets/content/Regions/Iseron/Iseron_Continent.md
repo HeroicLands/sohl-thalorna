@@ -21,7 +21,6 @@ name:
   aliases: []
 description: The frozen southernmost continent — desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes.
 terran_analog: "Antarctica — the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
-world: worldthlrn
 folder: H7q8ucUhRFPfD3Dt
 ---
 

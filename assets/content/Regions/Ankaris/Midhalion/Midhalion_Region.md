@@ -5,7 +5,6 @@ aliases:
   - Mídhalión
 tags:
   - region
-title: ""
 description: The Mídhalión basin — a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.
 name:
   full: Mídhalión Region

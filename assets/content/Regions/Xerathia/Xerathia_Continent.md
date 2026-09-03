@@ -24,7 +24,6 @@ name:
 shortcode: xerathia
 description: The southern continent — fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
 terran_analog: Africa
-world: worldthlrn
 folder: IfwW2GJ5xbLA9MDZ
 ---
 

@@ -21,7 +21,6 @@ name:
 shortcode: klhrcntnnt
 description: A large tropical island west of Mídhalión — a single ancient civilization predating the Elder Races by millennia, deeply insular, closed to outsiders except through tightly controlled coastal ports.
 terran_analog: "A large tropical-and-temperate landmass set in the southern open ocean — about a thousand miles west of Xerathia and a thousand miles east of southern K'ich'chik (so in the southern mid-ocean, roughly the latitude of the South Atlantic Brazil-to-Africa midpoint). No real-world counterpart; the closest analog in mythic terms would be Atlantis, though Kalihara is not a sunken or hidden place but a known and inhabited continent that has chosen to remain insular. Sits in a wind regime where the prevailing trades blow steadily westward from Xerathia toward Kalihara — making the outbound voyage easy and the return passage notoriously difficult."
-world: worldthlrn
 folder: ySaln4Q82C7W1p0I
 ---
 

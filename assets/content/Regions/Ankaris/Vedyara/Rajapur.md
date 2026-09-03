@@ -15,8 +15,6 @@ name:
   full: Rājapur
   aliases: []
 shortcode: rajapur
-pantheon:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

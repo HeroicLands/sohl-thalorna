@@ -4,7 +4,6 @@ aliases:
   - Peshtar Highlands
 tags:
   - region
-title: ""
 description: Ungoverned highland forests of the Peshtar tribes — animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.
 name:
   full: Peshtar Wilderness

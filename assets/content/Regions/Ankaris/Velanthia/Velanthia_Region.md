@@ -4,7 +4,6 @@ aliases:
   - Velanthia
 tags:
   - region
-title: ""
 description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east — a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
 name:
   full: Velanthia Region
