@@ -10,13 +10,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: axO24ya2JdtsXpKt
 shortcode: ptah
 name:
   full: "Ritual: Ptā'h"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

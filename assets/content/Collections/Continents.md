@@ -6,7 +6,6 @@ name:
   full: Continents
   aliases: []
 type: doc
-category: collection
 shortcode: continents
 section: continent
 tags:

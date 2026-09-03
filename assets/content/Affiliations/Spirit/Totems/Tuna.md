@@ -7,8 +7,8 @@ id: 1CsCdba2A5DtIurL
 img: images/mystery/tuna.webp
 shortcode: tunattm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

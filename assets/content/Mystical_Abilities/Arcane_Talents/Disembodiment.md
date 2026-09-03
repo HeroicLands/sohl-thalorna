@@ -7,8 +7,8 @@ id: q282j5zXN7yLMo70
 img: icons/psionics.svg
 shortcode: dsbd
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

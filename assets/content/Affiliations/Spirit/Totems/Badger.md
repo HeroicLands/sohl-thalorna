@@ -7,8 +7,8 @@ id: WxZsuNGUm8U7JpQn
 img: images/mystery/badger.webp
 shortcode: badgerttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

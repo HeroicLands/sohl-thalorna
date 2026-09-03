@@ -9,8 +9,8 @@ id: tGunwcnHgwsjE6Ht
 img: images/mystery/seabass.webp
 shortcode: seabassttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -9,8 +9,8 @@ id: gu0o4irDAgVAQ5JP
 img: icons/fire.svg
 shortcode: flmgrd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 4
   masteryLevelBase: 0

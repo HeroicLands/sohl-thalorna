@@ -11,8 +11,8 @@ id: Olccims1BPfJZ0lV
 img: icons/tree.svg
 shortcode: unite
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 6
   masteryLevelBase: 0

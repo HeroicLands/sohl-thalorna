@@ -10,8 +10,8 @@ id: 61ENCc7QXGaRPDch
 img: icons/speaking.svg
 shortcode: haradilng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

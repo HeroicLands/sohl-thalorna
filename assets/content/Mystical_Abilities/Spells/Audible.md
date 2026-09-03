@@ -11,8 +11,8 @@ id: PFmYE7eprAqqvRwL
 img: icons/wind.svg
 shortcode: audible
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 2
   masteryLevelBase: 0

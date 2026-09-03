@@ -6,13 +6,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: 6ZtPiHC4pBErOYsN
 shortcode: azravan
 name:
   full: "Ritual: Ázráván"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

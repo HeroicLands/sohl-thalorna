@@ -2,8 +2,8 @@
 aliases:
   - K'ixim Tzul
 id: RPORfulXgkxwp8zj
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

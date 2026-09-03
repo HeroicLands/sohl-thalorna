@@ -3,14 +3,13 @@ aliases:
   - Varoshan
 id: Kn8ogqx91k5GiaqN
 description: "Easternmost city-state of Harad at the crossroads of coastal and caravan routes — dusty, polyglot gateway where Haradian merchants negotiate with Dunhari caravaneers and desert nomads."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Varoshan
   aliases: []
 shortcode: varoshan
 population: "~2,300,000"
-subType: city-state
+subType: polity
 capital: kashmuret
 demonym: Varoshanian
 government:

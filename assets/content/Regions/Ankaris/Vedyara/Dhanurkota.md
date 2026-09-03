@@ -2,8 +2,8 @@
 aliases:
   - Dhanurkota
 id: i93FosZcD5HdN48U
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 name:
   full: Dhanurkota

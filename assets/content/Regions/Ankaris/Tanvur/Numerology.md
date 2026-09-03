@@ -2,8 +2,8 @@
 aliases:
   - Numerology
 id: gu99gyoQOqq2hkDz
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Numerology
   aliases: []

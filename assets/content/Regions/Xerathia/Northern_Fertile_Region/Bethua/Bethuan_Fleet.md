@@ -12,7 +12,7 @@ tags:
   - privateers
 description: "The renowned navy of the Matriarchy of Bethûa — a southeastern-shore sea power that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Ta'Kheperu's proxy strategy in Mídhalión."
 type: doc
-category: reference
+subType: reference
 id: spoTbaEvFkqrB5vT
 name:
   full: The Bethûan Fleet

@@ -2,8 +2,8 @@
 aliases:
   - Bjornstad
 id: 2L0cERpUeRn8zC00
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Settlement / Regional Capital"
 population: null
 languages:

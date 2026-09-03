@@ -6,13 +6,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: Vx0cYWArc0EIPhtK
 shortcode: mithara
 name:
   full: "Ritual: Míthárä"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

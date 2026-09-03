@@ -20,10 +20,8 @@ name:
     - The Memory of the North
 shortcode: skaldscrcl
 type: affiliation
-subType: social
-category: entertainment
+subType: fellowship
 sohl:
-  subType: social
   society: null
   office: null
   title: null

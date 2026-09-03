@@ -11,8 +11,8 @@ id: RXXKYO2Z00N4PEpX
 img: icons/water.svg
 shortcode: icbrdg
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 6
   masteryLevelBase: 0

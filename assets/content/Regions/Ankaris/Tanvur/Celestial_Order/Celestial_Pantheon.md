@@ -2,8 +2,8 @@
 aliases:
   - Celestial Pantheon
 id: ocg6hDA9966VDQNB
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Celestial Pantheon
   aliases: []

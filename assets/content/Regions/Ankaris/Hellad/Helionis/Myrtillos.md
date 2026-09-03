@@ -2,8 +2,8 @@
 aliases:
   - Myrtillos
 id: oS8n3zisICURpMOI
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Town"
 population: null
 name:

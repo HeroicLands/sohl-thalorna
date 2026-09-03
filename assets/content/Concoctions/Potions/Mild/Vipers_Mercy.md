@@ -12,6 +12,7 @@ id: t13gFsGnPEwrP9Ye
 img: icons/potion.svg
 shortcode: PtnAntvM
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Antivenin, Mild"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 16
   weight: 0.25
-  subType: "exotic"
   potency: "mild"
   strength: 0
   archetype: null

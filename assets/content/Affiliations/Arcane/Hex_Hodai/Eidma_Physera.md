@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: VJaKiwYduxtGC2LR
 shortcode: physera
 img: images/affiliation/physera.webp
@@ -11,7 +12,6 @@ name:
   full: Physéra
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

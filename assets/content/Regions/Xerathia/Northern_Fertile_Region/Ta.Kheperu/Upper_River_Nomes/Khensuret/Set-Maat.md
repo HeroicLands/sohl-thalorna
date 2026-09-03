@@ -3,8 +3,8 @@ aliases:
   - Set-Maat
   - Set-Ma'at
 id: j7kLfLuyqbHAZVA4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Tomb-Workers' Village (walled)"
 population: 6000
 languages:

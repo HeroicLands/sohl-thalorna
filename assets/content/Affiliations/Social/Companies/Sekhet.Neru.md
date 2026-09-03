@@ -8,7 +8,7 @@ tags:
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Taméresh River through ritual, courage, and divine obligation."
 type: affiliation
 folder: bVhz4i3fwwT0NDSW
-subType: social
+subType: venture
 id: 679Cgowsm63fuzBR
 name:
   full: Sekhet'Neru

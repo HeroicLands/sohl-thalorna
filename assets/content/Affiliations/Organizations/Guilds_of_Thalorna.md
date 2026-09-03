@@ -12,10 +12,9 @@ name:
     - The Guild System
     - Trade Guilds of Thalorna
 shortcode: guldsthlrn
-type: doc
-category: reference
+type: lore
+subType: culture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

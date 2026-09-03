@@ -11,8 +11,8 @@ id: QCVwLSYn2CPwg2mw
 img: icons/tree.svg
 shortcode: thrall
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 5
   masteryLevelBase: 0

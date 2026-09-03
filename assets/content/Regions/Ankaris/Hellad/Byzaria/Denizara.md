@@ -3,14 +3,13 @@ aliases:
   - Denizara
 id: J7e8bJrYdDQ2KrPY
 description: "Island city-state of the Byzarian League, situated on a fortress isle in the Byzarian straits — maritime hub and key to the League's naval defense."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Denizara
   aliases: []
 shortcode: denizara
 population: "~1,800,000"
-subType: city-state
+subType: polity
 capital: denizara2
 demonym: Denizaran
 government:

@@ -9,13 +9,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: n5aHzGXhwIpKOn73
 shortcode: hurnzhuk
 name:
   full: "Ritual: Hürnzhük"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

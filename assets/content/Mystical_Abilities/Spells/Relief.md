@@ -11,8 +11,8 @@ id: hQ2PzdTgogQXd4se
 img: icons/tree.svg
 shortcode: relief
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 5
   masteryLevelBase: 0

@@ -11,9 +11,8 @@ name:
 id: YdTLHYUlxfAuVdNW
 shortcode: kawiltzakl
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: kawiltzakl2
 terran_analog: ""
 parent:

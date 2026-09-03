@@ -4,14 +4,13 @@ aliases:
   - Per-Ankhet Nome
 id: h2gSBeRWgu9fG6Ji
 description: "The chief delta nome of Ta'Kheperu — richest and most cosmopolitan province in the empire, built around the great port of Per-Ankhet, where the empire's seaborne trade, its Haradian factories, and its wealthiest merchant-Haty'a all meet the water."
-type: doc
-category: polity
+type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Per-Ankhet
   aliases: []
 shortcode: nomeprnkht
-subType: nome
+subType: polity
 demonym: Kheperi
 government:
   type: nome

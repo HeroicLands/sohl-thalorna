@@ -3,8 +3,8 @@ aliases:
   - Fiòrdaure
   - Fiordaure
 id: lxDnKhmbJQmfcnlU
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Town"
 population: null
 languages:

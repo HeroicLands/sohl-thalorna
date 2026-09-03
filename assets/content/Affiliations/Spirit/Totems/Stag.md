@@ -7,8 +7,8 @@ id: sb0q3xC4IjjufQgP
 img: images/mystery/stag.webp
 shortcode: stagttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

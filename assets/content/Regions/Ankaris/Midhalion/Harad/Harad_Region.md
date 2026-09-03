@@ -10,8 +10,8 @@ name:
 id: IakeTyaqWrqc635z
 shortcode: haradregin
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: ""
 parent:
   regions:

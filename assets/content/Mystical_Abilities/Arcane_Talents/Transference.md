@@ -7,8 +7,8 @@ id: RPAfGBjZbNsYCfn8
 img: icons/psionics.svg
 shortcode: trnsf
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

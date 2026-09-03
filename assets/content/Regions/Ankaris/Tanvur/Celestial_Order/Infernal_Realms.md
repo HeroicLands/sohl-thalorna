@@ -2,8 +2,8 @@
 aliases:
   - Infernal Realms
 id: 38CzVGSAQ2uOOfyn
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Infernal Realms
   aliases: []

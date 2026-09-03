@@ -3,14 +3,13 @@ aliases:
   - Kingdom of Tarvénia
 id: o50yhB7G6oF2zc58
 description: "Loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by shared language and warrior culture — a political idea more than a unified state."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Tarvénia
   aliases: []
 shortcode: kingdmtrvn
 population: "~2,500,000"
-subType: kingdom
+subType: polity
 capital: kavrenath
 demonym: Tarvénan
 ruler:

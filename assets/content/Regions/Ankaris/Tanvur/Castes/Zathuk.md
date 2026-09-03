@@ -3,8 +3,8 @@ aliases:
   - Zāthük
   - Zathuk
 id: NDvnF8oya98zRWdK
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Zāthük
   aliases: []

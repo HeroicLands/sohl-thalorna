@@ -3,14 +3,13 @@ aliases:
   - Dunhara Tribes
 id: i6flX0XOcnBufahH
 description: "Confederation of nomadic tribes ruling the Dunhara Desert — horsemen, raiders, and herders bound by clan tradition and the code of the open sand."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Dunhara Tribes
   aliases: []
 shortcode: dunhartrbs
 population: "~1,000,000"
-subType: confederation
+subType: polity
 capital: dunashir
 demonym: Dunharan
 government:

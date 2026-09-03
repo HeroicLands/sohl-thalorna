@@ -9,8 +9,8 @@ id: LqSMpiZ3yOuamOiO
 img: icons/circle.svg
 shortcode: sanctum
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

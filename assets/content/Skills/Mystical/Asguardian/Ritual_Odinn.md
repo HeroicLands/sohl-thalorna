@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: zqCvSZmvCT433HXh
 shortcode: odinn
 img: images/affiliation/odinn.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Óðinn"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

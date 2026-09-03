@@ -15,8 +15,8 @@ name:
     - The Eternal Preserver
 shortcode: mahajaya
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

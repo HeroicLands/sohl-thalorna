@@ -11,8 +11,8 @@ id: dh5Ap7O6XBeWW2ko
 img: icons/tree.svg
 shortcode: halt
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 2
   masteryLevelBase: 0

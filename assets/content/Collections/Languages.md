@@ -6,7 +6,6 @@ name:
   full: Languages
   aliases: []
 type: doc
-category: collection
 shortcode: languages
 section: language
 tags:

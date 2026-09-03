@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: cOfFfssP38q4djfH
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
@@ -11,7 +12,6 @@ name:
   full: Pyréthos
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

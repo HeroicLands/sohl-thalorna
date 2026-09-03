@@ -11,8 +11,8 @@ id: d1vIF9cm4oh89Llz
 img: icons/water.svg
 shortcode: chill
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 1
   masteryLevelBase: 0

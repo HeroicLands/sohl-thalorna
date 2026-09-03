@@ -11,9 +11,8 @@ name:
 id: 4bmHFoaCvpbUggB0
 shortcode: tzikin
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: tzikin2
 terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 parent:

@@ -11,8 +11,8 @@ id: O3po6pZV0ydBkxaZ
 img: icons/tree.svg
 shortcode: morph
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 1
   masteryLevelBase: 0

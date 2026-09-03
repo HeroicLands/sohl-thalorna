@@ -11,8 +11,8 @@ id: AmxI0AjIDXRqKcGz
 img: icons/water.svg
 shortcode: channel
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 1
   masteryLevelBase: 0

@@ -3,8 +3,8 @@ aliases:
   - Brúnvík
   - Brunvik
 id: iEFZaB0kHPIfjSfz
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Village"
 population: null
 languages:

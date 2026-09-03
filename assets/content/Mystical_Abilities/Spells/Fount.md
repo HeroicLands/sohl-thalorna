@@ -9,8 +9,8 @@ id: nh1JPHnCSX86LJt5
 img: icons/circle.svg
 shortcode: fount
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 3
   masteryLevelBase: 0

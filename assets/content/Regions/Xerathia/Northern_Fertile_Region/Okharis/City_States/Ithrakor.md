@@ -3,8 +3,8 @@ aliases:
   - Ithrákor
 id: 1Bf7A6AabtHRR3Bu
 tags: []
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City-State"
 population: null
 languages:

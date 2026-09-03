@@ -11,8 +11,8 @@ id: hfGCjP0Eeh2nQb9u
 img: icons/tree.svg
 shortcode: thrive
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 1
   masteryLevelBase: 0

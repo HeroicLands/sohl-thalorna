@@ -5,6 +5,7 @@ id: L6VRwvMCiSPtVYGb
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Fréyr
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: freyr
 img: images/affiliation/freyr.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

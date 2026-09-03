@@ -10,8 +10,8 @@ id: MR557P1jb8LCNheH
 img: icons/speaking.svg
 shortcode: varokhlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

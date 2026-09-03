@@ -5,8 +5,8 @@ aliases:
 tags:
   - continent
   - iseron
-type: doc
-category: continent
+type: place
+subType: region
 id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:

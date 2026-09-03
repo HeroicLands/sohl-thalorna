@@ -12,6 +12,7 @@ id: pjjpRBGyKWLo0jXJ
 img: icons/potion.svg
 shortcode: PtnSopM
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Soporific, Mild"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 16
   weight: 0.25
-  subType: "exotic"
   potency: "mild"
   strength: 0
   archetype: null

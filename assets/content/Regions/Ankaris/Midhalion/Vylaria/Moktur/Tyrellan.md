@@ -2,8 +2,8 @@
 aliases:
   - Tyrellan
 id: P01J8cKSZZ3mWGLH
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Provincial City"
 population: 15000
 languages:

@@ -11,8 +11,8 @@ id: s97gMOBl31FlaHkH
 img: icons/wind.svg
 shortcode: mistveil
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 6
   masteryLevelBase: 0

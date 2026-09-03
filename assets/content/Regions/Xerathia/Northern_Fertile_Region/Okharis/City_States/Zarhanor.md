@@ -3,8 +3,8 @@ aliases:
   - Zarhánor
 id: 2fdrzbEWF4pDGpTo
 tags: []
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple City"
 population: null
 pantheons:

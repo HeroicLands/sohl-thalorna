@@ -2,8 +2,8 @@
 aliases:
   - Azhûn
 id: glFCD2sGQEKQGn6c
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port City"
 population: null
 languages:

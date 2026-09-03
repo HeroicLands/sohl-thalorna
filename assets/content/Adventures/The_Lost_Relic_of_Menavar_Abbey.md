@@ -6,8 +6,8 @@ name:
   full: The Lost Relic of Menavar Abbey
   aliases: []
 shortcode: lstrlcmnvrby
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

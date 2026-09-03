@@ -10,8 +10,8 @@ id: fPaFdi3025hUxh1B
 img: icons/speaking.svg
 shortcode: dunharlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

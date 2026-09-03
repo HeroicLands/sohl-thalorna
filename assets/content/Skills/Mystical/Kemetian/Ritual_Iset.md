@@ -8,13 +8,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: q5DDjRoqPhzgAKZL
 shortcode: iset
 name:
   full: "Ritual: Íšét"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

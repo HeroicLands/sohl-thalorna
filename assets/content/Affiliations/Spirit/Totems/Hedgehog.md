@@ -7,8 +7,8 @@ id: 0xUsGQi0l0TkirTM
 img: images/mystery/hedgehog.webp
 shortcode: hedgehogttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

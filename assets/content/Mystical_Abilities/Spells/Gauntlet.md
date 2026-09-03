@@ -9,8 +9,8 @@ id: CK7GelF58bx7SCr2
 img: icons/fire.svg
 shortcode: gauntlet
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 5
   masteryLevelBase: 0

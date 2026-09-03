@@ -14,10 +14,8 @@ name:
     - The Praetorians
 shortcode: pratrgstrm
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

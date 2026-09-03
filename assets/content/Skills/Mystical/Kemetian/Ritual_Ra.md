@@ -8,13 +8,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: TEz50VjVg3O2qT7X
 shortcode: ra
 name:
   full: "Ritual: Rā"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

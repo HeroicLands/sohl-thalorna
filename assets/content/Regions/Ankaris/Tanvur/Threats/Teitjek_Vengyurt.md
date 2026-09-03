@@ -3,8 +3,8 @@ aliases:
   - Tëitjëk Vëngyürt
   - Teitjek Vengyurt
 id: IeRBitOhNW9W1apE
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Tëitjëk Vëngyürt
   aliases: []

@@ -3,8 +3,8 @@ aliases:
   - Nartûm
   - Nartum
 id: lC4TS0SvySTGzr5S
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Holy City"
 population: null
 languages:

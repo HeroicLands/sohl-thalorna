@@ -14,8 +14,8 @@ name:
     - The Bonebreakers
 shortcode: ordrymrschldrn
 type: affiliation
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

@@ -4,7 +4,8 @@ tags:
 aliases:
   - Summary of Provenzia
 id: RvfilQTQiy26gkk7
-type: doc
+type: scenario
+subType: adventure
 name:
   full: Summary of Provènzia
   aliases: []
@@ -12,7 +13,6 @@ shortcode: sumryprvnz
 folder: 9TmLIkGXGHMtFxzy
 thalorna:
   region: provenzrgn
-category: adventure
 ---
 
 ### Summary of Provènzia

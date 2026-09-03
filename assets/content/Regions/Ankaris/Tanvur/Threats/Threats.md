@@ -2,8 +2,8 @@
 aliases:
   - Threats
 id: qi7U1RdJvNMAbM1I
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Threats
   aliases: []

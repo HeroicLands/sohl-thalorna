@@ -9,8 +9,8 @@ id: gDV7D2Cmb3Ww5sBe
 img: icons/psionics.svg
 shortcode: eblt
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

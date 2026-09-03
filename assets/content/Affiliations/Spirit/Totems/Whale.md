@@ -7,8 +7,8 @@ id: qPI5hH1aPPOfpS35
 img: images/mystery/whale.webp
 shortcode: whalettm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

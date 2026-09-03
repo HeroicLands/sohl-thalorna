@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: FFQe2Tdg5t5AcOH4
 shortcode: taranon
 img: images/affiliation/taranon.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Taranon"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

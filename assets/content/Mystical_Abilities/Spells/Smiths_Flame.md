@@ -13,8 +13,8 @@ id: 1rU0yvrwcvUB57da
 img: icons/anvil.svg
 shortcode: smthflam
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 2
   masteryLevelBase: 0

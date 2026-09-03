@@ -11,8 +11,8 @@ id: D4yKKR8OkFI73Cni
 img: icons/circle.svg
 shortcode: hrmnz
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 1
   masteryLevelBase: 0

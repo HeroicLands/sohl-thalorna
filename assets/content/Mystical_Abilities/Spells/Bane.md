@@ -9,8 +9,8 @@ id: 9JKa47vO6SaCw7KX
 img: icons/circle.svg
 shortcode: bane
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 2
   masteryLevelBase: 0

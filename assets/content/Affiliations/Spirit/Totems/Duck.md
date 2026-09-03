@@ -7,8 +7,8 @@ id: iQHwJSWiNaowM9nN
 img: images/mystery/duck.webp
 shortcode: duckttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

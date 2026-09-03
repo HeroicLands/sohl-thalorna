@@ -9,13 +9,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: S3Pqxj4TZHXJrRF9
 shortcode: trimurtisampradaya
 name:
   full: "Ritual: Trimūrti-sampradāya"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

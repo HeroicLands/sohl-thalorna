@@ -11,8 +11,8 @@ id: BcWKJx0ebfEj6gz3
 img: icons/anvil.svg
 shortcode: shaper
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 5
   masteryLevelBase: 0

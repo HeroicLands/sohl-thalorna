@@ -11,8 +11,8 @@ id: iXkZnuXZICv7oUr7
 img: icons/tree.svg
 shortcode: blight
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 2
   masteryLevelBase: 0

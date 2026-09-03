@@ -4,14 +4,13 @@ aliases:
 id: u3m2oHBGPAz17X8m
 tags: []
 description: Free port city on a small island off Élavendre's northern coast — a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
-type: doc
-category: polity
+type: affiliation
 name:
   full: Calypsa
   aliases: []
 shortcode: calypsa
 population: "~1,000,000"
-subType: city-state
+subType: polity
 capital: calypsa2
 demonym: Calypsi
 government:

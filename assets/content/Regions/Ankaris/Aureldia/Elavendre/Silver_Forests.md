@@ -3,8 +3,8 @@ aliases:
   - The Silver Forests
   - Silver Forests
 id: X7HiBpa32S79TTrv
-type: doc
-category: location
+type: place
+subType: region
 name:
   full: The Silver Forests
   aliases: []

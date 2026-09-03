@@ -11,7 +11,7 @@ tags:
   - stub
 description: "Stub note for the Tánvür currency system — bureaucratic ledger-based commerce administered through the imperial classification apparatus; not yet documented in detail."
 type: doc
-category: reference
+subType: reference
 id: BlbXZpRUKolb1Ifx
 name:
   full: Tánvür Currency

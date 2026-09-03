@@ -5,6 +5,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: 1Kso12F4XCw5T5aQ
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
@@ -12,7 +13,6 @@ name:
   full: Incantus Pyréthos
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

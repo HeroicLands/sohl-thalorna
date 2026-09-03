@@ -11,8 +11,8 @@ id: iLSVpMCMOjb8wFoV
 img: icons/tree.svg
 shortcode: sustain
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 2
   masteryLevelBase: 0

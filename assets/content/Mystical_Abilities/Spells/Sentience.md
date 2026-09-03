@@ -11,8 +11,8 @@ id: hb7eujMIrSYD9x5r
 img: icons/circle.svg
 shortcode: sntnc
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 6
   masteryLevelBase: 0

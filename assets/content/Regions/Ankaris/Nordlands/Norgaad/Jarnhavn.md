@@ -3,8 +3,8 @@ aliases:
   - Járnhavn
   - Jarnhavn
 id: qMK74rVgAAQlzEAs
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Harbor Town"
 population: null
 languages:

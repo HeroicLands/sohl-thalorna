@@ -7,8 +7,8 @@ id: 5JA4yOkD0TqwsDMp
 img: images/mystery/ox.webp
 shortcode: oxttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

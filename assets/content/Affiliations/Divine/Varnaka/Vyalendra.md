@@ -14,8 +14,8 @@ name:
     - The Shaper of Worlds
 shortcode: vyalendra
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

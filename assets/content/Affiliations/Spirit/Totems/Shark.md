@@ -7,8 +7,8 @@ id: yKOy6VLXsYFHVggm
 img: images/mystery/shark.webp
 shortcode: sharkttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

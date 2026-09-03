@@ -20,10 +20,8 @@ region: Western Ankaris (headquartered in Helionis)
 founded: ~400 BF (Helionite city-states)
 shortcode: panepistmm
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

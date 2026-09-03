@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: LN755jKLwqE8HQsr
 shortcode: ymir
 img: images/affiliation/ymir.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Ymir"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -12,8 +12,8 @@ id: 9yq3IiC7mgUniNXd
 img: icons/wind.svg
 shortcode: illfrm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 3
   masteryLevelBase: 0

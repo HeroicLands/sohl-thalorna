@@ -2,7 +2,6 @@
 tags: []
 type: doc
 folder: bVhz4i3fwwT0NDSW
-category: collection
 id: BQnufPtiIE5BNAeX
 name:
   full: Companies

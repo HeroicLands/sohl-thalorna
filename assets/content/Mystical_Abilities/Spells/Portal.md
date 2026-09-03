@@ -11,8 +11,8 @@ id: j5XNcgdPtKh65Ttt
 img: icons/circle.svg
 shortcode: portal
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 5
   masteryLevelBase: 0

@@ -2,8 +2,8 @@
 aliases:
   - Celestial Order
 id: Y9Um0puZOcYHNgXy
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Celestial Order
   aliases: []

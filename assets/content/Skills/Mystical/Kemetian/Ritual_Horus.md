@@ -6,13 +6,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: S2quL79WVm0zwEVS
 shortcode: horus
 name:
   full: "Ritual: Hórús"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -2,8 +2,8 @@
 aliases:
   - Thornhaven
 id: yWYG8HA84JUmJ0Xv
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Settlement"
 population: null
 languages:

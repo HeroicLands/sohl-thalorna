@@ -11,8 +11,8 @@ name:
 id: BGUFytM08ypgI0XE
 shortcode: kaliharargn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Kaliharan
 parent:
   continents:

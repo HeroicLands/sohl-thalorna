@@ -18,12 +18,11 @@ name:
 id: X3mxTrn5z3vxzI0C
 shortcode: jurthatempr
 img: ""
-type: doc
-category: polity
+type: affiliation
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
 demonym: Jürthāti
 population: "~500,000"
-subType: empire
+subType: polity
 capital: ""
 ruler:
   title: Emperor

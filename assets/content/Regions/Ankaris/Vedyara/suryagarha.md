@@ -2,8 +2,8 @@
 aliases:
   - Sūryāgarha
 id: guzzmrqqtagCbdW4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortress City"
 population: null
 languages:

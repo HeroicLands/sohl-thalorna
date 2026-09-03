@@ -10,10 +10,8 @@ tags:
   - thresholds
 description: "Knightly guardians of thresholds — city gates, treaty borders, sacred boundaries — bearing the paired blades that symbolize Jánus's two faces, one for what was sworn and one for what comes after the breach."
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

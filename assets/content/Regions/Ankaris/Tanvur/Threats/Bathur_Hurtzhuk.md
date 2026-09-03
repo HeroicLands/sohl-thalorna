@@ -3,8 +3,8 @@ aliases:
   - Bāthür Hürtzhük
   - Bathur Hurtzhuk
 id: 1pwOmb53lxa04h1Z
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Bāthür Hürtzhük
   aliases: []

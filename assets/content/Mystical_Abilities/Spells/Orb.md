@@ -11,8 +11,8 @@ id: S0zg9Srqb4TPocD5
 img: icons/fire.svg
 shortcode: orb
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 1
   masteryLevelBase: 0

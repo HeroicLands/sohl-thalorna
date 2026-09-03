@@ -7,8 +7,8 @@ id: 7tU9QZR1Fp4H8H3v
 img: images/mystery/dove.webp
 shortcode: dovettm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

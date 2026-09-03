@@ -12,6 +12,7 @@ id: s5ec54onwXf6YvUJ
 img: icons/potion.svg
 shortcode: PtnPoiS
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Poison, Strong"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 48
   weight: 0.25
-  subType: "exotic"
   potency: "strong"
   strength: 0
   archetype: null

@@ -5,6 +5,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: vrkBIRs8wYIIObUI
 shortcode: zepharis
 img: images/affiliation/zepharis.webp
@@ -12,7 +13,6 @@ name:
   full: Incantus Zephäris
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

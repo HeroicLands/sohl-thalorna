@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: 3iZvjLH3bPOwHFV7
 shortcode: murkir
 img: images/affiliation/murkir.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Murkir"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

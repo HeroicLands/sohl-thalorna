@@ -12,6 +12,7 @@ id: 0ojDJP4nlr8iNww6
 img: icons/potion.svg
 shortcode: ElxQsc
 type: concoctiongear
+subType: elixir
 hmk:
   name: Quiescence
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

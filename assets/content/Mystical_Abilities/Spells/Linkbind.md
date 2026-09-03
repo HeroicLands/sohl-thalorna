@@ -11,8 +11,8 @@ id: RpLvuj9sboJTTymP
 img: icons/circle.svg
 shortcode: linkbind
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

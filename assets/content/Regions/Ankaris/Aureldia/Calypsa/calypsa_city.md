@@ -2,8 +2,8 @@
 aliases:
   - Calypsa
 id: pHT2BUJrOrXaugNc
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Harbor City"
 population: null
 languages:

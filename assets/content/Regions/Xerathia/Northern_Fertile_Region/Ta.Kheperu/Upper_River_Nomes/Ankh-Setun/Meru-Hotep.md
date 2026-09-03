@@ -2,8 +2,8 @@
 aliases:
   - Meru-Hotep
 id: w37mo3an5Yl3C5an
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "River Town (Grain Port)"
 population: 25000
 languages:

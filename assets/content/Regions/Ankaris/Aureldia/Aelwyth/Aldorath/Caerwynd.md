@@ -2,8 +2,8 @@
 aliases:
   - Caerwynd
 id: qzNN35eMt6RmKQPK
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town"
 population: null
 languages:

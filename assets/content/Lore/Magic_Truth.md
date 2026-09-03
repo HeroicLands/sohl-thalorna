@@ -9,8 +9,8 @@ tags:
   - gm-only
   - secret
   - metaphysics
-type: doc
-category: lore
+type: lore
+subType: folk
 id: DtLucc6IKCuifIbL
 folder: t3p5qf6rZc8w0Nc4
 shortcode: magictruth

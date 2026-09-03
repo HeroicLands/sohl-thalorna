@@ -11,8 +11,8 @@ id: tLxf574TZpK5eKQa
 img: icons/wind.svg
 shortcode: lghtbnd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 3
   masteryLevelBase: 0

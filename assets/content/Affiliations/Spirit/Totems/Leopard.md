@@ -7,8 +7,8 @@ id: 9kURQgBvCgSoahoC
 img: images/mystery/leopard.webp
 shortcode: leopardttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

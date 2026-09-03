@@ -2,8 +2,8 @@
 aliases:
   - Ravensholm
 id: xdfasuC4zLc5gWSd
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Religious/Strategic Settlement"
 population: null
 languages:

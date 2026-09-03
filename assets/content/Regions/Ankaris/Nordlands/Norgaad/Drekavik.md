@@ -3,8 +3,8 @@ aliases:
   - Drekavík
   - Drekavik
 id: dFMvJ2wRf3xqTdLU
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Village"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - Tibur
 id: Al7vNx3kEp2Rb8Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town"
 population: 12000
 languages:

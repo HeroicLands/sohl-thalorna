@@ -11,8 +11,8 @@ id: 36EiCFjIwRu1b3Nw
 img: icons/divination.svg
 shortcode: scribe
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 3
   masteryLevelBase: 0

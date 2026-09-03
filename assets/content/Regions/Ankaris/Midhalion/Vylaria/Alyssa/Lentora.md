@@ -2,8 +2,8 @@
 aliases:
   - Lentora
 id: Al5rKx2mVp9Tb4Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: 32000
 languages:

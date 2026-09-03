@@ -12,10 +12,8 @@ tags:
   - clandestine
 description: "Covert strike order of the Black Flame — smaller, more secretive, and unaccountable; deployed when the heresy needs results without trial, debate, or witnesses."
 type: affiliation
-subType: social
-category: military
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

@@ -2,8 +2,8 @@
 aliases:
   - Thorrborg
 id: lLZtjVvo1K6TGm1A
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Town"
 population: null
 languages:

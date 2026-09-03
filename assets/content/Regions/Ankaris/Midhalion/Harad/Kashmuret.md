@@ -2,8 +2,8 @@
 aliases:
   - Kashmuret
 id: OuVksHRIQjPWu72i
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Trading Town"
 population: null
 languages:

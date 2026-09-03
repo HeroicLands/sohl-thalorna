@@ -3,8 +3,8 @@ aliases:
   - Haldrvík
   - Haldrvik
 id: zvHZeopFCRUFvSUh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port Town"
 population: null
 languages:

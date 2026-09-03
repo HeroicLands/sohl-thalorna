@@ -14,8 +14,8 @@ name:
     - The Guide Who Leads Astray
 shortcode: dokyok
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

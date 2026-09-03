@@ -11,8 +11,8 @@ id: 1T0koAYArl55E0rs
 img: icons/circle.svg
 shortcode: disrupt
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

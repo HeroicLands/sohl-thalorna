@@ -2,8 +2,8 @@
 aliases:
   - Ki'ik Ba'ate
 id: 3E05WzjjmWWWlHf4
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

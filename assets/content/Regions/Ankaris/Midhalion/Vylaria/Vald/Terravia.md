@@ -2,8 +2,8 @@
 aliases:
   - Terravia
 id: Vd6yGx4kVm8Sb3Ld
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: 4000
 languages:

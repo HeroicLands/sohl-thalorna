@@ -4,14 +4,13 @@ aliases:
   - Kingdom of Dunavarre
 id: zOfXdRgVLSW3Tvt3
 description: "Island kingdom of Aelwyth ruled directly by a synod of Ordo Arcanis mages — unique on Ankaris as the only polity where the Ordo holds direct political power."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Dúnavarre
   aliases: []
 shortcode: kingdmdnvr
 population: "~3,500,000"
-subType: oligarchy
+subType: polity
 capital: ravenmoor
 demonym: Dúnavarran
 government:

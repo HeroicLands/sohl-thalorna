@@ -11,9 +11,8 @@ name:
 id: 6uj0kMpcSvwHhYfb
 shortcode: kankul
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: kankul2
 terran_analog: Yucatan Mexico and southern mexico through Honduras
 parent:

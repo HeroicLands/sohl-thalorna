@@ -3,8 +3,8 @@ aliases:
   - Blóth
   - Bloth
 id: IxdQgYmu31vb7DlD
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Ritual Site / Ancient Settlement"
 population: null
 languages:

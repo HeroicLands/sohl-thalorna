@@ -12,6 +12,7 @@ id: Y5C2npA6Pkp4FVxt
 img: icons/potion.svg
 shortcode: ElxIce
 type: concoctiongear
+subType: elixir
 hmk:
   name: Iceshield
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

@@ -11,8 +11,8 @@ id: rb8QrkOHjSqCokGb
 img: icons/wind.svg
 shortcode: sparkle
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 5
   masteryLevelBase: 0

@@ -11,8 +11,8 @@ id: CfnU6csn8qIIL9u2
 img: icons/water.svg
 shortcode: manifest
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 6
   masteryLevelBase: 0

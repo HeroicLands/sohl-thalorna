@@ -7,13 +7,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: hCLRzI9YNf2BpYPH
 shortcode: vngdkzhtvr
 name:
   full: "Ritual: Vëngdāk Zhütvōr"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

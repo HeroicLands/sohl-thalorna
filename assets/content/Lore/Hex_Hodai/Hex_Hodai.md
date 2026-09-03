@@ -8,8 +8,8 @@ tags:
   - arcane
   - hex-hodai
   - ordo-arcanis
-type: doc
-category: lore
+type: lore
+subType: folk
 topic: true
 id: Y3NajXCuLZv4CSis
 shortcode: hexhodai

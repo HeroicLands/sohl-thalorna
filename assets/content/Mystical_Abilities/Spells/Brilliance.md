@@ -11,8 +11,8 @@ id: Xxnyu30WRRzbVcnq
 img: icons/wind.svg
 shortcode: brllnc
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 2
   masteryLevelBase: 0

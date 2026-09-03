@@ -4,8 +4,8 @@ aliases:
   - Zeisik
 id: BGxle7KCGjQb8PGt
 title: The Ritual of Self-Death
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Zëisīk
   aliases: []

@@ -11,8 +11,8 @@ id: RtFhB2fBxWQ1qCy1
 img: icons/tree.svg
 shortcode: wither
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 1
   masteryLevelBase: 0

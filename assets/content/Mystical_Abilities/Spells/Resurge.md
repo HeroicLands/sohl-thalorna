@@ -9,8 +9,8 @@ id: ALPuO9hw9OyF9i6o
 img: icons/circle.svg
 shortcode: resurge
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 4
   masteryLevelBase: 0

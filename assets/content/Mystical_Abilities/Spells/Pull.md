@@ -11,8 +11,8 @@ id: W6HZyhSDfLMzRiIl
 img: icons/anvil.svg
 shortcode: pull
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 2
   masteryLevelBase: 0

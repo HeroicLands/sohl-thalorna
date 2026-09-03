@@ -9,8 +9,8 @@ id: FQ4De4P00vQNKAkG
 img: icons/circle.svg
 shortcode: monitor
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 2
   masteryLevelBase: 0

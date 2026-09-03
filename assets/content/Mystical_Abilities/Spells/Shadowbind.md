@@ -11,8 +11,8 @@ id: 1ONlJrf3JbwKd9Cz
 img: icons/water.svg
 shortcode: shdwbnd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 5
   masteryLevelBase: 0

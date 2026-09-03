@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: ojOZHGwR62AnSRV3
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
@@ -11,7 +12,6 @@ name:
   full: Pneuménos
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

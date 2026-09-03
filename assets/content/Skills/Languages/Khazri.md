@@ -11,8 +11,8 @@ id: JZqjDh0FCr8uFOt2
 img: icons/speaking.svg
 shortcode: khazrilng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

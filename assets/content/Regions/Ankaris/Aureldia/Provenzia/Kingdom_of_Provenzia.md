@@ -3,14 +3,13 @@ aliases:
   - Kingdom of Provenzia
 id: J4L2Ia6lt8NBR9lu
 description: "Merchant-prince kingdom on the eastern coast of Aureldia — wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Provènzia
   aliases: []
 shortcode: kngdmprvnz
 population: "~7,000,000"
-subType: kingdom
+subType: polity
 capital: lunacorte
 demonym: Provenzian
 ruler:

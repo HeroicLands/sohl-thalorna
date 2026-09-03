@@ -5,6 +5,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: pINYlTKRY56xecsb
 shortcode: sideros
 img: images/affiliation/sideros.webp
@@ -12,7 +13,6 @@ name:
   full: Incantus Sidéros
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

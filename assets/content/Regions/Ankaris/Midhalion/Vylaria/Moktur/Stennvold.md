@@ -2,8 +2,8 @@
 aliases:
   - Stennvold
 id: Mk9vNx3kSp2Rb8Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Mining Town"
 population: 4000
 languages:

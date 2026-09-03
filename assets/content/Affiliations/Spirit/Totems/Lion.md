@@ -7,8 +7,8 @@ id: MU6HVFla6YShVxgi
 img: images/mystery/lion.webp
 shortcode: lionttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

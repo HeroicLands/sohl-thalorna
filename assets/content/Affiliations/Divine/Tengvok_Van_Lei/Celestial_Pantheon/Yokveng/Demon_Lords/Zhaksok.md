@@ -14,8 +14,8 @@ name:
     - The Walking Contradiction
 shortcode: zhaksok
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

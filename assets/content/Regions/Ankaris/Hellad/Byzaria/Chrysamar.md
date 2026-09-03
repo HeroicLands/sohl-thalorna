@@ -2,8 +2,7 @@
 aliases:
   - Chrysamar
 id: ACcZGc0wIJI483Nl
-type: doc
-category: settlement
+type: place
 settlementType: "Port City"
 population: null
 languages:
@@ -14,7 +13,7 @@ name:
   full: Chrysamar
   aliases: []
 shortcode: chrysamar
-subType: city
+subType: settlement
 parent:
   regions:
     - byzariargn

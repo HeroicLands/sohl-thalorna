@@ -2,8 +2,8 @@
 aliases:
   - Thornbury
 id: E6Vn40TZpRRBN2on
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Town"
 population: null
 languages:

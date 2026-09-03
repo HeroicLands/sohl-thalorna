@@ -7,7 +7,7 @@ tags:
   - tamzir-crew
 description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Ordo Arcanis."
 type: affiliation
-subType: social
+subType: venture
 folder: bVhz4i3fwwT0NDSW
 id: kYpjFg4FlWJGOYhc
 name:

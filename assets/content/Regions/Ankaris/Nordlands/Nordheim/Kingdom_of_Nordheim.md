@@ -4,14 +4,13 @@ aliases:
   - Nordheim
 id: s9MRDlDr32OO0tJr
 description: "Vast Normen kingdom of the far north, dominated by Asguardian worship and seafaring tradition — realm of harsh winters, fearless raiders, and deep-rooted clan honor."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Nordheim
   aliases: []
 shortcode: kngdmnrdhm
 population: "~2,000,000"
-subType: kingdom
+subType: polity
 capital: thrymstead
 demonym: Nordem
 ruler:

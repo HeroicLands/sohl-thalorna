@@ -11,8 +11,8 @@ id: V1ka8e6W199sQuPC
 img: icons/fire.svg
 shortcode: wllfflm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 5
   masteryLevelBase: 0

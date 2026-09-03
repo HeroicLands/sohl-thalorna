@@ -2,8 +2,8 @@
 aliases:
   - Internal Subversive Threats
 id: CMPw7T4QzM8gCtkS
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Internal Subversive Threats
   aliases: []

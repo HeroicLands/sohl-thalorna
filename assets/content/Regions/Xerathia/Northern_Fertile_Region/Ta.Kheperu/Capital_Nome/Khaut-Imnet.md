@@ -4,8 +4,8 @@ aliases:
   - The Tombs of the West
   - The Western Fields
 id: Sem7VWXNmBrFGB9L
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "General Necropolis (the burial-fields of Wasetkara)"
 population: 0
 languages:

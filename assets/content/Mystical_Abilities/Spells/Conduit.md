@@ -11,8 +11,8 @@ id: kIDckuJ9okXrbTKj
 img: icons/wind.svg
 shortcode: conduit
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 5
   masteryLevelBase: 0

@@ -3,8 +3,8 @@ aliases:
   - Nōkvür
   - Nokvur
 id: ftY2uPxiDE8H1Cpu
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Nōkvür
   aliases: []

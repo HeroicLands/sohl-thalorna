@@ -7,8 +7,8 @@ id: UZVuHQMOLIbrSvYS
 img: images/mystery/horse.webp
 shortcode: horsettm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

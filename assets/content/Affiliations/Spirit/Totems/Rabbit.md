@@ -7,8 +7,8 @@ id: FflqdVjsjGPrZYY9
 img: images/mystery/rabbit.webp
 shortcode: rabbitttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -11,8 +11,8 @@ id: 01QjJrMPkNg35H2a
 img: icons/anvil.svg
 shortcode: cnstrct
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 6
   masteryLevelBase: 0

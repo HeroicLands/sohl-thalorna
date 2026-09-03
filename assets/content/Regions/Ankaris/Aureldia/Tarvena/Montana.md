@@ -3,8 +3,8 @@ aliases:
   - Montaña
   - Montana
 id: elbApD1i9cSa1Wyh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Walled City"
 population: null
 languages:

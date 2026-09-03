@@ -13,9 +13,9 @@ name:
     - The Demon Realm
 shortcode: yokveng
 type: affiliation
+subType: faithtradition
 pantheon: tngvkvnlei
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

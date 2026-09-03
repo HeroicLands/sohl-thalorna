@@ -6,8 +6,7 @@ aliases:
   - Rājapur
   - The Janapada of the King's-Town
 tags: []
-type: doc
-category: polity
+type: affiliation
 description: The temple-republic of Rājapur — eleven villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
 name:
   full: Rājapur Janapada
@@ -18,7 +17,7 @@ name:
 id: R3pXzL6vNwQk9mYf
 shortcode: rajaprjnpd
 population: "~25,000"
-subType: confederation
+subType: polity
 capital: rajapur
 demonym: Rājapuri
 parent:

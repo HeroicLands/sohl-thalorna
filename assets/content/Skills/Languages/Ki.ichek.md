@@ -11,8 +11,8 @@ id: fGAccw2evZvOQSJO
 img: icons/speaking.svg
 shortcode: kicheklng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

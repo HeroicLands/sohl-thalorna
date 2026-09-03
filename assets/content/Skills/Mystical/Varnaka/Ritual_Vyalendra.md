@@ -8,13 +8,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: 8s1B5qXRmm5ZKpPW
 shortcode: vyalendra
 name:
   full: "Ritual: Vyālendra"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -7,8 +7,8 @@ id: jdBjqI048XnA4tfr
 img: images/mystery/boar.webp
 shortcode: boarttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

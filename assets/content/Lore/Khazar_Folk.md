@@ -6,8 +6,8 @@ tags:
   - lore
   - lineage
 description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
-type: doc
-category: lore
+type: lore
+subType: folk
 id: YGCeAI1FHSmYf6Gp
 name:
   full: Khazár Folk

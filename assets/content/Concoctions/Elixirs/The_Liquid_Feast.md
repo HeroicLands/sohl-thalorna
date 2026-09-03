@@ -12,6 +12,7 @@ id: jMdpyv7dMnWrLmwJ
 img: icons/potion.svg
 shortcode: ElxSus
 type: concoctiongear
+subType: elixir
 hmk:
   name: Sustenance
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

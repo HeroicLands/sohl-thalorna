@@ -3,8 +3,8 @@ aliases:
   - Vüshōk
   - Vushok
 id: SAOPtLI8wTxMqwOk
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Vüshōk
   aliases: []

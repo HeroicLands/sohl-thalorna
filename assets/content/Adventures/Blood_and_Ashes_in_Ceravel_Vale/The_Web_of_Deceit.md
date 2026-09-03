@@ -3,7 +3,8 @@ aliases:
   - The Web of Deceit
 tags:
   - blood-and-ashes-in-ceravel-vale
-type: doc
+type: scenario
+subType: adventure
 id: GmS8jnKKIA28pOO8
 shortcode: webdeceit
 name:
@@ -15,7 +16,6 @@ campaign:
 folder: 9TmLIkGXGHMtFxzy
 thalorna:
   region: provenzrgn
-category: adventure
 ---
 
 ## Teaser

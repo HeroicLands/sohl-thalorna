@@ -10,8 +10,8 @@ id: kzExD71wOODyJRDn
 img: icons/speaking.svg
 shortcode: helonclng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

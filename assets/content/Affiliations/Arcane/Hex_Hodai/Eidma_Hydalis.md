@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: RqGGvxWFLseXFR0v
 shortcode: hydalis
 img: images/affiliation/hydalis.webp
@@ -11,7 +12,6 @@ name:
   full: Hydälis
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

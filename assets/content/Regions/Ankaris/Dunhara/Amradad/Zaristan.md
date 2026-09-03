@@ -2,8 +2,8 @@
 aliases:
   - Zaristan
 id: ImatvlvxdQxFOio9
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

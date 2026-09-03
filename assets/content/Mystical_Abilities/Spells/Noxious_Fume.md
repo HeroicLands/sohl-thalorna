@@ -12,8 +12,8 @@ id: gcb1kiGnDQGi4pdY
 img: icons/anvil.svg
 shortcode: nxfum
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 4
   masteryLevelBase: 0

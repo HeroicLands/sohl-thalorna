@@ -2,8 +2,8 @@
 aliases:
   - Denizara
 id: 5w6iTAzXPr9vnCPP
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port City"
 population: null
 languages:

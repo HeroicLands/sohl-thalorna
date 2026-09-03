@@ -2,8 +2,8 @@
 aliases:
   - Kethara
 id: b1sHNYrkFRl8FjPK
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Naval City"
 population: null
 languages:

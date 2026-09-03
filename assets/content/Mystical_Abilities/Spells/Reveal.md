@@ -11,8 +11,8 @@ id: jstvC5lsmYjLoicv
 img: icons/anvil.svg
 shortcode: reveal
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 1
   masteryLevelBase: 0

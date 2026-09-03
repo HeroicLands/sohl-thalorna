@@ -15,8 +15,8 @@ name:
 id: 7r7X4XximAt5POjG
 shortcode: aureldirgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: Medieval Western Europe (Western Christendom)
 demonym: Aurèldían
 parent:

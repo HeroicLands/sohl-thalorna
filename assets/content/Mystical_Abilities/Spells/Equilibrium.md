@@ -11,8 +11,8 @@ id: KoZauQosnUAsmXf6
 img: icons/divination.svg
 shortcode: eqlbrm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 1
   masteryLevelBase: 0

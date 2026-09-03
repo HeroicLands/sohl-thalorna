@@ -6,8 +6,8 @@ id: uM30bv1vjebkm1kN
 tags:
   - continent
   - kalihara
-type: doc
-category: continent
+type: place
+subType: region
 name:
   full: Kalihara Continent
   aliases: []

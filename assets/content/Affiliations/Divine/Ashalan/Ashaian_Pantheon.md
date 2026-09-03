@@ -13,8 +13,8 @@ name:
     - The Twelve of the Flame
 shortcode: ashanpnthn
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

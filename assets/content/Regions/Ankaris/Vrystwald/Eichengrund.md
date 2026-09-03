@@ -2,8 +2,8 @@
 aliases:
   - Eichengrund
 id: IdfMspBEVKOe4Jje
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Woodland Village"
 population: null
 languages:

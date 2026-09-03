@@ -2,8 +2,7 @@
 aliases:
   - Byzaris
 id: HpB2fXNRSm9qSW6y
-type: doc
-category: settlement
+type: place
 settlementType: "Craft City"
 population: null
 languages:
@@ -14,7 +13,7 @@ name:
   full: Byzaris
   aliases: []
 shortcode: byzaris
-subType: city
+subType: settlement
 parent:
   regions:
     - byzariargn

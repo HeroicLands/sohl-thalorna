@@ -2,8 +2,8 @@
 aliases:
   - Elder Races
 id: VWs3Bs2ajr3a9X7w
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Elder Races
   aliases: []

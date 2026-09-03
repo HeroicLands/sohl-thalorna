@@ -3,14 +3,13 @@ aliases:
   - Matriarchy of Bethûa
 id: 7oWBo0VIlcveRxf8
 description: "Matriarchal realm of Xerathia where women hold all positions of power and authority — a society shaped by female leadership and the traditions of the elder races."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Matriarchy of Bethûa
   aliases: []
 shortcode: mtrrchybth
 population: "~3,000,000"
-subType: kingdom
+subType: polity
 capital: bethura
 demonym: Bethûan
 ruler:

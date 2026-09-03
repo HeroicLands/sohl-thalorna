@@ -5,8 +5,8 @@ aliases:
 tags:
   - continent
   - aurionis
-type: doc
-category: continent
+type: place
+subType: region
 id: dQ3RMAtfHDsD09IX
 shortcode: arnscntnnt
 name:

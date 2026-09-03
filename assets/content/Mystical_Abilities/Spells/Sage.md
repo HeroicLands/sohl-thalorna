@@ -11,8 +11,8 @@ id: rfdwqUvR6xAR5w7Q
 img: icons/divination.svg
 shortcode: sage
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 3
   masteryLevelBase: 0

@@ -12,7 +12,7 @@ tags:
   - reference
 description: "The twin-pillar government of the Matriarchy of Bethûa — the Mêtríssa who is at once Queen and High Priestess, the Sacred College of the Aurèldían goddess-orders, the Council of Houses of the clan-matriarchs, and the title-ladder that orders a society where women hold all authority."
 type: doc
-category: reference
+subType: reference
 id: lGNHthvWH3rv0JTS
 name:
   full: Government of Bethûa

@@ -2,8 +2,8 @@
 aliases:
   - Ha’ K’ukul
 id: Vz6zv5sq18qR9nya
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town"
 population: null
 languages:

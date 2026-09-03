@@ -4,8 +4,8 @@ aliases:
   - Tarvénia
 id: m9INe4BtMRe7EMjd
 description: "Region of the Aurèldían heartland — patchwork of independent fiefdoms, city-states, and free territories bound by shared Tarvéni language and warrior culture."
-type: doc
-category: region
+type: place
+subType: region
 name:
   full: Tarvénia Region
   aliases: []

@@ -5,14 +5,13 @@ aliases:
   - Empire of Vylaria
 id: QAXZZlocpugx7jRJ
 description: "Vast continental empire spanning half of Ankaris — mighty, centralized state claiming dominion over multiple provinces, eternal pretender to universal rule."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Vylarian Empire
   aliases: []
 shortcode: vylarinmpr
 population: "~21,000,000"
-subType: empire
+subType: polity
 capital: magnapolis
 demonym: Vylarian
 ruler:

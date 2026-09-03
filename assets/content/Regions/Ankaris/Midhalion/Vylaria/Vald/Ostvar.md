@@ -2,8 +2,8 @@
 aliases:
   - Ostvar
 id: Vd4hNx7vEq9Rb2Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing Town"
 population: 8000
 languages:

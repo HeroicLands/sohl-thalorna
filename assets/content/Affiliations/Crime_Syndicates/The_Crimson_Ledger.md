@@ -9,10 +9,8 @@ name:
   aliases: []
 shortcode: crimsnldgr
 type: affiliation
-subType: social
-category: criminal
+subType: criminal
 sohl:
-  subType: social
   society: null
   office: null
   title: null

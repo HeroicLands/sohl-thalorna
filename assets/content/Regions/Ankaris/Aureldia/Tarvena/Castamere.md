@@ -2,8 +2,8 @@
 aliases:
   - Castamere
 id: lR8iAwaI3Q3MlekO
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Castle Town"
 population: null
 languages:

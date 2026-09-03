@@ -5,6 +5,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: HE1yCLVIOsOuzSJ8
 shortcode: physera
 img: images/affiliation/physera.webp
@@ -12,7 +13,6 @@ name:
   full: Incantus Physéra
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

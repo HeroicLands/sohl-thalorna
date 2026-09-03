@@ -5,6 +5,7 @@ id: iw5CaLGOvhF2ddKY
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Ymir
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: ymir
 img: images/affiliation/ymir.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

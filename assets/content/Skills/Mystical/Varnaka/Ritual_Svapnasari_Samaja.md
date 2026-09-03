@@ -11,13 +11,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: ZJMNkWFba1o3MVXg
 shortcode: svapnasarisamaja
 name:
   full: "Ritual: Svapnasāri-samāja"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

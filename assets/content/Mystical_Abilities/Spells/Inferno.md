@@ -9,8 +9,8 @@ id: RTZJsg6pRg9753ie
 img: icons/fire.svg
 shortcode: inferno
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 5
   masteryLevelBase: 0

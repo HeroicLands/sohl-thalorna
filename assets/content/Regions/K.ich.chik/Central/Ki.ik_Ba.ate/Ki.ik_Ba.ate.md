@@ -11,9 +11,8 @@ name:
 id: Avuq4GMpQsnkMxsl
 shortcode: kiikbaate
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: kiikbaate2
 terran_analog: Nicaragua through Colombia
 parent:

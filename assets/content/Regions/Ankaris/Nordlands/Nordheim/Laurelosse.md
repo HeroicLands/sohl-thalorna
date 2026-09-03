@@ -3,9 +3,8 @@ aliases:
   - Laurelossë
   - Laurelosse
 id: Mp48OQiSLJZ8OVfN
-type: doc
-category: location
-subType: ruins
+type: place
+subType: site
 name:
   full: Laurelossë
   aliases: []

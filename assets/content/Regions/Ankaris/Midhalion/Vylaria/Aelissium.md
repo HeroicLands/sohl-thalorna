@@ -2,8 +2,8 @@
 aliases:
   - Aelissium
 id: xwXCIHtqjRX4AyUB
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Trade City"
 population: null
 languages:

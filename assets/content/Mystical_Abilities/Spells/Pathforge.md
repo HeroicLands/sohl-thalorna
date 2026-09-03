@@ -11,8 +11,8 @@ id: MqCqO5q1fJplSM6A
 img: icons/tree.svg
 shortcode: pthfrg
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 5
   masteryLevelBase: 0

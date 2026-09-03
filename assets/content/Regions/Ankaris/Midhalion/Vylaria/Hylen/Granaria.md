@@ -2,8 +2,8 @@
 aliases:
   - Granaria
 id: Hy2rKx7mGp4Tb9Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Market Town"
 population: 7000
 languages:

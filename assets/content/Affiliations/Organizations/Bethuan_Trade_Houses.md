@@ -14,10 +14,8 @@ name:
     - The Matriarchal Trade-Houses
 shortcode: bthntrdhss
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

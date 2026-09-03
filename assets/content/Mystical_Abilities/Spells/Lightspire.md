@@ -11,8 +11,8 @@ id: A8jg24x7kFUelR6H
 img: icons/wind.svg
 shortcode: lghtspr
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 1
   masteryLevelBase: 0

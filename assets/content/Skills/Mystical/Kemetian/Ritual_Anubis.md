@@ -6,13 +6,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: hj4uC8BPlczmfJWV
 shortcode: anubis
 name:
   full: "Ritual: Ánubís"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -11,8 +11,8 @@ id: 4tvKHKiNxPnOhUMe
 img: icons/tree.svg
 shortcode: renewal
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 6
   masteryLevelBase: 0

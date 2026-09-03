@@ -11,10 +11,8 @@ name:
     - Magnápolis Courts
 shortcode: curiaurbis
 type: affiliation
-subType: social
-category: government
+subType: governmental
 sohl:
-  subType: social
   society: null
   office: null
   title: null

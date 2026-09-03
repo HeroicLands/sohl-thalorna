@@ -11,8 +11,8 @@ id: mh86CmiyMuiF1nwi
 img: icons/wind.svg
 shortcode: cntnmnt
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 3
   masteryLevelBase: 0

@@ -10,8 +10,8 @@ id: jbfXq6oDnBGSN6df
 img: icons/speaking.svg
 shortcode: provnzlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

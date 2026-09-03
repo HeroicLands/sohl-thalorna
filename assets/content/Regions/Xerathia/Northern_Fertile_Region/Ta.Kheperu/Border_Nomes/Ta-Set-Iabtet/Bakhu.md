@@ -2,8 +2,8 @@
 aliases:
   - Bakhu
 id: FT70zIcHD7OGfSck
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fortified Mining Town"
 population: 22000
 languages:

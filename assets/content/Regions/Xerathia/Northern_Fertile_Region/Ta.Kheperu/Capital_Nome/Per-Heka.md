@@ -2,8 +2,8 @@
 aliases:
   - Per-Heka
 id: szUUIRGt86BY1Kjb
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Temple-Estate Town"
 population: 30000
 languages:

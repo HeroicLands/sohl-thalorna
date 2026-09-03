@@ -11,8 +11,8 @@ id: FEscs8keFqDdo76Q
 img: icons/tree.svg
 shortcode: ravenous
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 3
   masteryLevelBase: 0

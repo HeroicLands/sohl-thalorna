@@ -5,6 +5,7 @@ id: wBAfvdAOyxI8JvtP
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Hél
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: hel
 img: images/affiliation/hel.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

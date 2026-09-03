@@ -4,14 +4,13 @@ aliases:
   - Theradon
 id: 16hYgd83LfhyTRcX
 description: "Inland Helionite city-state of terraced marble colonnades — oligarchic philosopher-republic and seat of a Panepistemium chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Therádon
   aliases: []
 shortcode: theradon
 population: "~800,000"
-subType: city-state
+subType: polity
 capital: theradon2
 demonym: Therádoni
 government:

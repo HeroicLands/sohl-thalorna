@@ -6,8 +6,7 @@ aliases:
   - The Five Who Walk Together
   - The Long Pact
 tags: []
-type: doc
-category: polity
+type: affiliation
 description: A confederation of five culturally distinct clan-nations of the southeastern Southern Savannahs, bound by the ancient Long Pact, the totemic faith, and the drum-language — politically loose, ritually intricate, and inheritors of the lost stone-builders.
 name:
   full: Nyáluba Tribal Nation
@@ -16,7 +15,7 @@ name:
 id: U5XViByz9vC1SuJw
 shortcode: nylbtrblntn
 population: "~2,000,000"
-subType: confederation
+subType: polity
 capital: ekunda
 demonym: Nyáluban
 government:

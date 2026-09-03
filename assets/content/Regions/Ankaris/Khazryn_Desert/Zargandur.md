@@ -3,14 +3,13 @@ aliases:
   - Zargandûr
   - Zargandur
 id: ge8mFHcZJR9yiiKZ
-type: doc
-category: settlement
+type: place
 settlementType: "Town"
 name:
   full: Zargandûr
   aliases: []
 shortcode: zargandur
-subType: town
+subType: settlement
 parent:
   regions:
     - khzryndsrtrgn

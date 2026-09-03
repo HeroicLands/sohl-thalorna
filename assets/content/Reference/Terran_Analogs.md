@@ -5,8 +5,8 @@ id: BNdQ5Rji7mgldAVd
 name:
   full: Terran Analogs Reference
   aliases: []
-type: doc
-category: lore
+type: lore
+subType: folk
 shortcode: trnnlgsrfrnc
 ---
 

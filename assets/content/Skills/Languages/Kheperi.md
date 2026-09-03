@@ -10,8 +10,8 @@ id: gGRK6kSZcA0sfG2g
 img: icons/speaking.svg
 shortcode: kheperlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

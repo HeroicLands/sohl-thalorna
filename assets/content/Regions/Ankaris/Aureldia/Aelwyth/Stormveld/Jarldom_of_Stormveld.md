@@ -4,14 +4,13 @@ aliases:
   - Jarldom of Stormveld
 id: MuzSirFCf1jkb5Rg
 description: "Loose confederation of Normen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Járldom of Stormveld
   aliases: []
 shortcode: jrldmstrmvld
 population: "~1,500,000"
-subType: confederation
+subType: polity
 capital: stormveil
 demonym: Stormvelder
 ruler:

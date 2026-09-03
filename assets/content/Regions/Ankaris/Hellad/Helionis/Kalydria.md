@@ -3,14 +3,13 @@ aliases:
   - Kalydria
 id: qhGJBzRz3jQRVBHs
 description: "Cultural jewel of the Helionite city-states — oligarchy of patron-families whose theaters, sculptors, and the Academy of the Silver Veil set artistic fashion across western Ankaris, and whose hetairai-graduates carry an unofficial intelligence web through every salon worth knowing."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kalydria
   aliases: []
 shortcode: kalydria
 population: "~700,000"
-subType: city-state
+subType: polity
 capital: kalydria2
 demonym: Kalydrian
 government:

@@ -3,8 +3,8 @@ aliases:
   - Rājapur
   - Rajapur
 id: yJkyMAYiTk0t5vvt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 name:
   full: Rājapur

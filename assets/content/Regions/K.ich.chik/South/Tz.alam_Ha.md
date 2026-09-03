@@ -2,8 +2,8 @@
 aliases:
   - Tz’alam Ha’
 id: oq4gDoiYMztl68Ri
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port City"
 population: null
 languages:

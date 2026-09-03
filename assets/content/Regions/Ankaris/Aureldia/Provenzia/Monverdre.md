@@ -3,8 +3,8 @@ aliases:
   - Monvèrdre
   - Monverdre
 id: gcqQMrf3iloHRPXm
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Hill Town"
 population: null
 languages:

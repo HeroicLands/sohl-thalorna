@@ -12,8 +12,8 @@ id: M4Rc3yHcl3dYOGz3
 img: icons/speaking.svg
 shortcode: elvndrlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

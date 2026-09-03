@@ -2,8 +2,8 @@
 aliases:
   - Ostenna
 id: Al6yPx7kOm8Sb3Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "River-Port Town"
 population: 7000
 languages:

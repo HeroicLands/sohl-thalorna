@@ -12,8 +12,8 @@ id: aQkFHzC0Jpl1FVng
 img: icons/speaking.svg
 shortcode: sinalelng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

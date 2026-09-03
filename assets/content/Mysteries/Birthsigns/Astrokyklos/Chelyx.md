@@ -8,10 +8,10 @@ id: bteb60lsodiwjGtL
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: chelyx
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": 0

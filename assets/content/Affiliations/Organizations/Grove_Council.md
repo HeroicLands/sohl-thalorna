@@ -12,10 +12,8 @@ name:
     - The Elder Groves
 shortcode: groveconcl
 type: affiliation
-subType: social
-category: government
+subType: governmental
 sohl:
-  subType: social
   society: null
   office: null
   title: null

@@ -11,8 +11,8 @@ id: zV7fxaBJyE7IDOxg
 img: icons/wind.svg
 shortcode: illusion
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 5
   masteryLevelBase: 0

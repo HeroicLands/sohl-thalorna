@@ -5,6 +5,7 @@ id: Pq6R3ldqtsAdv36s
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 pantheon: asguardian
 name:
   full: Faith of Baldr
@@ -13,7 +14,6 @@ name:
 shortcode: baldr
 img: images/affiliation/baldr.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

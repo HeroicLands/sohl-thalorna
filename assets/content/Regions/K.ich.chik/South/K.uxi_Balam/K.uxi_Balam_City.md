@@ -2,8 +2,8 @@
 aliases:
   - K'uxi Balam
 id: MMURsVSWP10cDwXu
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

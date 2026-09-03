@@ -11,8 +11,8 @@ id: R0PHjXlcaw38G35H
 img: icons/fire.svg
 shortcode: parch
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 1
   masteryLevelBase: 0

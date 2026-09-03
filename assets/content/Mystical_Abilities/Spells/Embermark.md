@@ -9,8 +9,8 @@ id: eeK4XtWW4DRjD3mZ
 img: icons/fire.svg
 shortcode: embrmrk
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 3
   masteryLevelBase: 0

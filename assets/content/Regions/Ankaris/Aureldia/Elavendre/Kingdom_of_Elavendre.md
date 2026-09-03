@@ -4,14 +4,13 @@ aliases:
   - Kingdom of Elavendre
 id: YBb5C1lV3VROR0iu
 description: "Woodland kingdom of forests, music, and ancient magic — center of Elavendri culture where Sinalë and humans coexist as equals in a land apart."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Élavendre
   aliases: []
 shortcode: kngdmlvndr
 population: "~5,000,000"
-subType: kingdom
+subType: polity
 demonym: Élavendren
 capital: beravel
 ruler:

@@ -11,8 +11,8 @@ id: BTQ9bRycW7RSHqYm
 img: icons/anvil.svg
 shortcode: enchant
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 3
   masteryLevelBase: 0

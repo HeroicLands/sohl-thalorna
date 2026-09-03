@@ -9,8 +9,8 @@ id: xjMqRC2aTIIdpxfY
 img: icons/circle.svg
 shortcode: tap
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 2
   masteryLevelBase: 0

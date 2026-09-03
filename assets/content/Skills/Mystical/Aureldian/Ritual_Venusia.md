@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: VKOYPsnyPcuFREoj
 shortcode: venusia
 img: images/affiliation/venusia.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Venusia"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

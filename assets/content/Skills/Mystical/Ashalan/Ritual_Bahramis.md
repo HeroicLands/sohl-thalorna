@@ -7,13 +7,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: 3P54lJeluJiff8Bt
 shortcode: bahramis
 name:
   full: "Ritual: Báhrámiš"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

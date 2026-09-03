@@ -3,14 +3,13 @@ aliases:
   - Kethara
 id: aCeJhYAMD60rxwxL
 description: "Naval stronghold of the Confederation of Haradian States on the strait between mainland and archipelago — fortress-city whose admirals command the confederation's most powerful warships."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kethara
   aliases: []
 shortcode: kethara
 population: "~2,200,000"
-subType: city-state
+subType: polity
 capital: kethara2
 demonym: Haradian
 government:

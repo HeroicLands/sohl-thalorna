@@ -6,8 +6,8 @@ name:
   full: The Forgotten Shrine of the Thuravel Hills
   aliases: []
 shortcode: frgtnshrnthrvlhls
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

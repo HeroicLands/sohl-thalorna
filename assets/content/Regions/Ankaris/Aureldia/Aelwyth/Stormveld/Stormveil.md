@@ -2,8 +2,8 @@
 aliases:
   - Stormveil
 id: TlYOx3SBgFES4hvV
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Castle and Garrison"
 population: null
 languages:

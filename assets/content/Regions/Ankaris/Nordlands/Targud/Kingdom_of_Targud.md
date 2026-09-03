@@ -4,14 +4,13 @@ aliases:
   - Targud
 id: bgIzuCVWk5Ap3fYt
 description: "Sparsely-peopled northern Normen kingdom of deep forests and tundra borderlands — hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Targud
   aliases: []
 shortcode: kingdmtrgd
 population: "~900,000"
-subType: kingdom
+subType: polity
 capital: valgard
 demonym: Targudian
 ruler:

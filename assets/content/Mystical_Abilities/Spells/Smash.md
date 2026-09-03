@@ -11,8 +11,8 @@ id: TFXxc8Oa3DA7Iyhm
 img: icons/anvil.svg
 shortcode: smash
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 6
   masteryLevelBase: 0

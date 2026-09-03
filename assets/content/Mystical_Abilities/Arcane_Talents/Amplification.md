@@ -7,8 +7,8 @@ id: f2kNbG0MoglMLN31
 img: icons/psionics.svg
 shortcode: ampl
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

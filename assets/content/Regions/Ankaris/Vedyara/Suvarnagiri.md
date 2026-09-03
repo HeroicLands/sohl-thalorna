@@ -3,8 +3,8 @@ aliases:
   - Suvarṇagiri
   - Suvarnagiri
 id: q5KssAIUA8eYcX2L
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 name:
   full: Suvarṇagiri

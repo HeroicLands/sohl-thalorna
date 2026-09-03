@@ -11,9 +11,8 @@ name:
 id: 4i28v3FDOsPYV0pv
 shortcode: hanalxilan
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: hanalxilan2
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 parent:

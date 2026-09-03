@@ -5,6 +5,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: vjdx9kGWQ4USV1W4
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
@@ -12,7 +13,6 @@ name:
   full: Incantus Pneuménos
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

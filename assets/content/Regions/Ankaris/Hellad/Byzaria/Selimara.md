@@ -3,8 +3,7 @@ aliases:
   - Selímara
   - Selimara
 id: bQUtftL9hRhlCeaf
-type: doc
-category: settlement
+type: place
 settlementType: "Trading Town"
 population: null
 languages:
@@ -15,7 +14,7 @@ name:
   full: Selímara
   aliases: []
 shortcode: selimara
-subType: town
+subType: settlement
 parent:
   regions:
     - byzariargn

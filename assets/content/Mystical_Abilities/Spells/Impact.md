@@ -11,8 +11,8 @@ id: wBynyi9hujAoTQbu
 img: icons/fire.svg
 shortcode: impact
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 5
   masteryLevelBase: 0

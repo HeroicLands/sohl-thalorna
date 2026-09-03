@@ -3,14 +3,13 @@ aliases:
   - Vrystwald Tribes
 id: MIxB4WRti6ZwYqEm
 description: "Confederation of warrior tribes inhabiting the Vrystwald forests — hardy people bound by clan honor, hunting tradition, and resistance to foreign rule."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Vrystwald Tribes
   aliases: []
 shortcode: vrystwldtrbs
 population: "~1,000,000"
-subType: confederation
+subType: polity
 capital: waldburg
 demonym: Varokh
 government:

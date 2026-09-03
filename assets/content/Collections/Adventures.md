@@ -6,7 +6,6 @@ name:
   full: Adventures
   aliases: []
 type: doc
-category: collection
 shortcode: adventures
 section: adventure
 tags:

@@ -18,10 +18,8 @@ headquarters: Alyssa, Vylarian Empire
 founded: Late Republic era (before the Founding)
 shortcode: ordoarcanis
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

@@ -11,8 +11,8 @@ id: TlruOEmbjbH9a3mU
 img: icons/tree.svg
 shortcode: shift
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 3
   masteryLevelBase: 0

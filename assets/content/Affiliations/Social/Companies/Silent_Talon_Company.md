@@ -5,7 +5,7 @@ tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: affiliation
 folder: bVhz4i3fwwT0NDSW
-subType: social
+subType: venture
 id: SG3QpIM8U4cfoua5
 shortcode: slntlncmpny
 name:

@@ -10,8 +10,8 @@ name:
   full: Central K'ich'chik
   aliases: []
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 parent:
   continents:
     - kchchkcntnnt

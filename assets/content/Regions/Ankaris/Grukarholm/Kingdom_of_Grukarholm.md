@@ -4,14 +4,13 @@ aliases:
   - Grukarholm
 id: PnGEc2bdyAKzDnNz
 description: "Underground kingdom of the Grukar (hill-dwarves) carved into the Grukar Mountains — isolated, insular, and largely unknown to the surface world."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Grukarhölm
   aliases: []
 shortcode: grukarholm
 population: "~2,000,000"
-subType: kingdom
+subType: polity
 capital: grukarholm2
 demonym: Grukar
 ruler:

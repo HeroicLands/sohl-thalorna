@@ -11,8 +11,8 @@ id: akmfh00IY2QLpdIx
 img: icons/water.svg
 shortcode: mstrpll
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: hydalis
   levelBase: 4
   masteryLevelBase: 0

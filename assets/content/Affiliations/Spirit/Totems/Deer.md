@@ -7,8 +7,8 @@ id: xbBAhWDbWnyD8p2l
 img: images/mystery/deer.webp
 shortcode: deerttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

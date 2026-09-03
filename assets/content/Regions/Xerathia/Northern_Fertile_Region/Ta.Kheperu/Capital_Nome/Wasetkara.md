@@ -2,8 +2,8 @@
 aliases:
   - Wasetkara
 id: yKyHOnW4vqQivkJZ
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Imperial City (Capital)"
 population: 450000
 languages:

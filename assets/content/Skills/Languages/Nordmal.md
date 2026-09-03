@@ -10,8 +10,8 @@ id: TRbo0kPeCLEgw5y8
 img: icons/speaking.svg
 shortcode: nordmalng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

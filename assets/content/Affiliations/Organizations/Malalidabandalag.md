@@ -15,10 +15,8 @@ name:
     - The Compact of the Pay-Troops
 shortcode: malldbndlg
 type: affiliation
-subType: social
-category: merccompany
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

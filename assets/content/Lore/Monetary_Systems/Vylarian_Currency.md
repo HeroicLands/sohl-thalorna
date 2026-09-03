@@ -16,7 +16,7 @@ tags:
   - economy
 description: "Standard currency of western and central Ankaris — the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
 type: doc
-category: reference
+subType: reference
 id: Amin2fxmxnLFA8aJ
 name:
   full: Vylarian Currency

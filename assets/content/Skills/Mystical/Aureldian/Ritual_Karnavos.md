@@ -6,6 +6,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: ls2C0JbdgiCMzoIX
 shortcode: karnavos
 img: images/affiliation/karnavos.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Karnavos"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

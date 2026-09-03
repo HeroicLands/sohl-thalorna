@@ -12,8 +12,8 @@ id: h9smBUasb0uG7sG0
 img: icons/speaking.svg
 shortcode: tanvurlng
 type: skill
+subType: language
 sohl:
-  subType: language
   skillBaseFormula: "@elo, @rea"
   combatCategory: none
   parentSkillCode: lang

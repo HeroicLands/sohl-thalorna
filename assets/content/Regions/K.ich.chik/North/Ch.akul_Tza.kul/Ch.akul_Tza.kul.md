@@ -11,9 +11,8 @@ name:
 id: fzmM3PUidaBMxfbz
 shortcode: chakultzkl
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: chakultzkl2
 terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 parent:

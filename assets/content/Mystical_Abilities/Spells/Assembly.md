@@ -11,8 +11,8 @@ id: Wg7OBT8rDUIjZsAg
 img: icons/fire.svg
 shortcode: arcasmbl
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 6
   masteryLevelBase: 0

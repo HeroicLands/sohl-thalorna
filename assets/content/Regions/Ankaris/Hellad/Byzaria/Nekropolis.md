@@ -3,8 +3,8 @@ aliases:
   - Nékropolis
   - Nekropolis
 id: oVedEJI68W2dAXzt
-type: doc
-category: location
+type: place
+subType: region
 name:
   full: Nékropolis
   aliases: []

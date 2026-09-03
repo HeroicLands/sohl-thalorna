@@ -7,8 +7,8 @@ id: RakVBHejmx0qHcIn
 img: images/mystery/falcon.webp
 shortcode: falconttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

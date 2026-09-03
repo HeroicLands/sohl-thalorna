@@ -12,8 +12,8 @@ name:
 id: i3mrG0dvqDp0LHNO
 shortcode: vedyarargn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: India (subcontinent of independent states)
 demonym: Vedyaran
 parent:

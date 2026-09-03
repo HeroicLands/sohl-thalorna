@@ -2,8 +2,8 @@
 aliases:
   - Maréndal
 id: NgdpgK19TbXSBuwE
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Harbor Town"
 population: null
 languages:

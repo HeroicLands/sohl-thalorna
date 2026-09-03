@@ -7,7 +7,7 @@ tags:
   - khazryn
 description: "Khazryn steppe warband defending a middling tribe against rivals through cavalry archery and the strategic genius of war captain Bahrazad."
 type: affiliation
-subType: social
+subType: venture
 folder: bVhz4i3fwwT0NDSW
 id: ytnJjAtUxX2NTg0S
 name:

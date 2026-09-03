@@ -7,6 +7,7 @@ tags:
   - aureldian
   - faith-skill
 type: skill
+subType: mystical
 id: 7MPkk7GpOvOdS67r
 shortcode: thanatos
 img: images/affiliation/thanatos.webp
@@ -14,7 +15,6 @@ name:
   full: "Ritual: Thanatos"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

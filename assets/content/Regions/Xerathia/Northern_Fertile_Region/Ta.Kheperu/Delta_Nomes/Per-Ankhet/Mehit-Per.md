@@ -2,8 +2,8 @@
 aliases:
   - Mehit-Per
 id: npslWzZvPEG6O2PA
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Fishing & Victualling Town"
 population: 14000
 languages:

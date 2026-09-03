@@ -7,7 +7,7 @@ tags:
   - vrystwald
 description: "Vrystwald road bandits—brutal, desperate men held together by fear of their leader Dágulf and the absence of legitimate options in imperial forests."
 type: affiliation
-subType: social
+subType: venture
 id: W9GL9vBPyw1YBHJZ
 name:
   full: The Blackpine Wolves

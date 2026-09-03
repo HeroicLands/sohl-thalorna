@@ -5,8 +5,8 @@ aliases:
   - Bardic Circle
 description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Ordo expansion."
 type: affiliation
+subType: venture
 sohl:
-  subType: social
   society: null
   office: null
   title: null

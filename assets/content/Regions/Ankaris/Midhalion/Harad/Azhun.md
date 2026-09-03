@@ -3,14 +3,13 @@ aliases:
   - Azhûn
   - Azhun
 id: AqrgBrEk82vRX0Se
-type: doc
-category: polity
+type: affiliation
 name:
   full: Azhûn
   aliases: []
 shortcode: azhun
 population: "~2,500,000"
-subType: city-state
+subType: polity
 capital: azhun2
 government:
   type: city-state

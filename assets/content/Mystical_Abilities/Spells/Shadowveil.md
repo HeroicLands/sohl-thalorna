@@ -11,8 +11,8 @@ id: MGjDeQGxZxAAudiO
 img: icons/fire.svg
 shortcode: shdwvl
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 2
   masteryLevelBase: 0

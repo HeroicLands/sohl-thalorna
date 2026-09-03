@@ -2,8 +2,7 @@
 aliases:
   - Kostaros
 id: TsDj0UNe3SEKVrTw
-type: doc
-category: settlement
+type: place
 settlementType: "Port Town"
 population: null
 languages:
@@ -14,7 +13,7 @@ name:
   full: Kostaros
   aliases: []
 shortcode: kostaros
-subType: town
+subType: settlement
 parent:
   regions:
     - byzariargn

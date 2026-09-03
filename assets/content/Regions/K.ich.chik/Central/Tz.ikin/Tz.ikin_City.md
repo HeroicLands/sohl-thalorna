@@ -2,8 +2,8 @@
 aliases:
   - Tz'ikin
 id: QmitOkNvJ61JJiuO
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

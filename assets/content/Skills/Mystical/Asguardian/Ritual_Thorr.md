@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: bBvRw5aRotB5Am2g
 shortcode: thorr
 img: images/affiliation/thorr.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Thórr"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -11,8 +11,8 @@ id: XRWpBhjsTh35LN9b
 img: icons/circle.svg
 shortcode: arcshld
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 1
   masteryLevelBase: 0

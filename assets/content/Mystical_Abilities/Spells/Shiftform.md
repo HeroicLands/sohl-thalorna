@@ -11,8 +11,8 @@ id: KK1gvAAZjCFGyXfh
 img: icons/circle.svg
 shortcode: shftfrm
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 2
   masteryLevelBase: 0

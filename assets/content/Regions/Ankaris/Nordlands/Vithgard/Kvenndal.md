@@ -2,8 +2,8 @@
 aliases:
   - Kvenndal
 id: hlCieAQkrHQguMjN
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Valley Settlement"
 population: null
 languages:

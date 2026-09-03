@@ -2,8 +2,8 @@
 aliases:
   - Mercavia
 id: Vd2mKx7rWp4Tb9Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Provincial Capital (Economic Hub)"
 population: 50000
 languages:

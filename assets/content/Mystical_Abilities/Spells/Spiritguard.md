@@ -11,8 +11,8 @@ id: HDNMTYJPadHJ61tp
 img: icons/divination.svg
 shortcode: sprtgrd
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 6
   masteryLevelBase: 0

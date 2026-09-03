@@ -10,13 +10,13 @@ tags:
   - celestial-pantheon
   - faith-skill
 type: skill
+subType: mystical
 id: tMGfPxqyoVJd8Qmd
 shortcode: tanlung
 name:
   full: "Ritual: Tānlüng"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

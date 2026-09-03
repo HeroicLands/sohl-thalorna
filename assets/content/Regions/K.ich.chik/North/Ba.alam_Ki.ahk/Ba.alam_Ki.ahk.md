@@ -11,9 +11,8 @@ name:
 id: k0Cy2pf0fjCujl0l
 shortcode: balamkiahk
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: balamkiahk2
 terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 parent:

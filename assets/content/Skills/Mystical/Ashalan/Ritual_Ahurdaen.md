@@ -7,13 +7,13 @@ tags:
   - ashalan
   - faith-skill
 type: skill
+subType: mystical
 id: FPbUzVB3RDuzU9NX
 shortcode: ahurdaen
 name:
   full: "Ritual: Āhúrdáén"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -7,8 +7,8 @@ id: wFQGHGOjYdp98VlC
 img: icons/psionics.svg
 shortcode: psnc
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

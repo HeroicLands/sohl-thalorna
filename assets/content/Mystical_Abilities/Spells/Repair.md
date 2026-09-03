@@ -11,8 +11,8 @@ id: nhM985RsKb1VwejM
 img: icons/anvil.svg
 shortcode: repair
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 3
   masteryLevelBase: 0

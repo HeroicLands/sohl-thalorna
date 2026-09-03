@@ -11,8 +11,8 @@ id: RVDc3HiNq5mTx4rA
 img: icons/wind.svg
 shortcode: rflctr
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 4
   masteryLevelBase: 0

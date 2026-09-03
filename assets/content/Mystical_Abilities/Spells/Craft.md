@@ -11,8 +11,8 @@ id: SQDBS8UiQ4QDc83T
 img: icons/anvil.svg
 shortcode: craft
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 4
   masteryLevelBase: 0

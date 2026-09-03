@@ -11,8 +11,8 @@ id: I9GfCc23Fy2X2yJy
 img: icons/wind.svg
 shortcode: murmur
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 1
   masteryLevelBase: 0

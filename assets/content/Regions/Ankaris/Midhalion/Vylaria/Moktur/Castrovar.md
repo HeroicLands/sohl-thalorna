@@ -2,8 +2,8 @@
 aliases:
   - Castrovar
 id: Mk3hNx7mEq9Rb2Lt
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Frontier Fortress"
 population: 6000
 languages:

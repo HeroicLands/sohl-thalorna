@@ -5,8 +5,8 @@ aliases:
   - Vylaría Region
 id: GHIXrjvkfpw2yc6e
 description: ""
-type: doc
-category: region
+type: place
+subType: region
 name:
   full: Vylaría Region
   aliases: []

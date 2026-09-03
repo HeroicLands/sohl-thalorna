@@ -7,8 +7,8 @@ id: YrWaLJNILQB3xNmH
 tags:
   - continent
   - xerathia
-type: doc
-category: continent
+type: place
+subType: region
 name:
   full: Xerathia
   aliases: []

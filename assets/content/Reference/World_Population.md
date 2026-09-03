@@ -9,7 +9,7 @@ tags:
   - worldbuilding
 description: "Reference estimate of the population of Thalorna by continent and region — anchored on the Vylarian Empire (~21M) and a pre-industrial, agrarian world of roughly 390 million, with the eastern giants Tánvür and Vedyára holding the majority of humankind."
 type: doc
-category: reference
+subType: reference
 id: Wp7kRx2mVq9Tb4Ln
 name:
   full: World Population of Thalorna

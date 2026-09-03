@@ -12,6 +12,7 @@ id: jdFdATz00hX178bO
 img: icons/potion.svg
 shortcode: PtnNarG
 type: concoctiongear
+subType: exotic
 hmk:
   name: "Potion, Narcotic, Great"
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 480
   weight: 0.25
-  subType: "exotic"
   potency: "great"
   strength: 0
   archetype: null

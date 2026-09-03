@@ -13,8 +13,8 @@ name:
 id: YPcQy1qNckWAGrR8
 shortcode: cntrlrnfrsts
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: Equatorial African interior (Congo basin)
 parent:
   continents:

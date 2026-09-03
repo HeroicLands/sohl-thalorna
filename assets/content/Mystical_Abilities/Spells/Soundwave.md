@@ -11,8 +11,8 @@ id: m2Nx46OCpjoa2Tv8
 img: icons/divination.svg
 shortcode: sndwv
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 5
   masteryLevelBase: 0

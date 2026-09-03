@@ -12,8 +12,8 @@ name:
 id: JgRovKxsMJfmq3tm
 shortcode: dunhardsrtrgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Dunharan
 parent:
   regions:

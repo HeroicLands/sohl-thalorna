@@ -7,8 +7,8 @@ tags:
   - religion
   - fertility
 type: affiliation
+subType: faithtradition
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

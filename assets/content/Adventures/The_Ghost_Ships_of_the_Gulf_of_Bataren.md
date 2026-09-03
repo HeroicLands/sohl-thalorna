@@ -7,8 +7,8 @@ name:
   full: The Ghost Ships of the Gulf of Batáren
   aliases: []
 shortcode: ghstshpsglfbtrn
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

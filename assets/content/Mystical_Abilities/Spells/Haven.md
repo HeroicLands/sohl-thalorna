@@ -11,8 +11,8 @@ id: XwOpeaa7cDzUBPBc
 img: icons/wind.svg
 shortcode: haven
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: zepharis
   levelBase: 2
   masteryLevelBase: 0

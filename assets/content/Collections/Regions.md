@@ -6,7 +6,6 @@ name:
   full: Regions
   aliases: []
 type: doc
-category: collection
 shortcode: regions
 section: region
 tags:

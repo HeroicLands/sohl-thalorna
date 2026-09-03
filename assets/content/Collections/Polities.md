@@ -6,7 +6,6 @@ name:
   full: Polities
   aliases: []
 type: doc
-category: collection
 shortcode: polities
 section: polity
 tags:

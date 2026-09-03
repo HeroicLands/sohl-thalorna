@@ -2,8 +2,8 @@
 aliases:
   - Ha' Xaman
 id: n24XoHaQViCi0IYu
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

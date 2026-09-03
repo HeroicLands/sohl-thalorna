@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: affiliation
+subType: arcanetradition
 id: 9TzrmYEx7mtdohBV
 shortcode: zepharis
 img: images/affiliation/zepharis.webp
@@ -11,7 +12,6 @@ name:
   full: Zephäris
   aliases: []
 sohl:
-  subType: arcane
   society: null
   office: null
   title: null

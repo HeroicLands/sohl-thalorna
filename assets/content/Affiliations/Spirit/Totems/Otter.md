@@ -7,8 +7,8 @@ id: fXswwp4qhC9zXrtZ
 img: images/mystery/otter.webp
 shortcode: otterttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

@@ -9,13 +9,13 @@ tags:
   - varnaka
   - faith-skill
 type: skill
+subType: mystical
 id: iMGrmk6U0clUqTqm
 shortcode: agnipantha
 name:
   full: "Ritual: Agnī-panthā"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -5,8 +5,8 @@ aliases:
   - Ashíra
   - Ashira
 id: Wbuh7YBC3fe4JG9m
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

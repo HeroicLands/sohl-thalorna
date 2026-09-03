@@ -11,9 +11,8 @@ name:
 id: 9xRn32VR19yOu6Y7
 shortcode: tzikinbalm
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: tzikinbalm2
 terran_analog: Southern South America
 parent:

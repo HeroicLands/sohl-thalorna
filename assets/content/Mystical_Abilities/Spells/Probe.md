@@ -11,8 +11,8 @@ id: FxDGGhd5krzxECID
 img: icons/divination.svg
 shortcode: probe
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 1
   masteryLevelBase: 0

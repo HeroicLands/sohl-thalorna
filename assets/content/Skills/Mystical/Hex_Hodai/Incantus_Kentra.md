@@ -4,6 +4,7 @@ aliases:
 tags:
   - hex-hodai
 type: skill
+subType: mystical
 id: SllRC1o8LkNhBYGQ
 img: images/affiliation/kentra.webp
 shortcode: kentra
@@ -11,7 +12,6 @@ name:
   full: Incantus Kentra
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@aur, @rea"
   combatCategory: none
   parentSkillCode: ""

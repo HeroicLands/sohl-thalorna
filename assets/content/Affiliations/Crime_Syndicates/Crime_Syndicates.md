@@ -4,9 +4,8 @@ tags:
   - crime
   - underworld
 description: "Overview of competitive regional criminal syndicates—fragmented underworld where profit drives constantly shifting alliances and violent territorial disputes."
-type: doc
-subType: social
-category: criminal
+type: affiliation
+subType: criminal
 id: DRj0wzDUbdTo5p3U
 name:
   full: Crime Syndicates of Thalorna

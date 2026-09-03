@@ -16,9 +16,9 @@ name:
     - The Infernal Functionaries
 shortcode: yvlesrdmns
 type: affiliation
+subType: faithtradition
 pantheon: tngvkvnlei
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

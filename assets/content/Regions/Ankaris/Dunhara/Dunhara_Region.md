@@ -12,8 +12,8 @@ name:
 id: WME4VbEDaL2Cny92
 shortcode: dunharargn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan — the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 demonym: Dunharan
 parent:

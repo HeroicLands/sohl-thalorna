@@ -11,8 +11,8 @@ id: zBoJgOLaGL1tnAIL
 img: icons/divination.svg
 shortcode: message
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 3
   masteryLevelBase: 0

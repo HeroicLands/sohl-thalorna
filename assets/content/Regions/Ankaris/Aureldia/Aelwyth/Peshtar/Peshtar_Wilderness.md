@@ -12,8 +12,8 @@ name:
 id: zb5DAPGsJEJHjycA
 shortcode: pshtrwldrns
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 parent:
   continents:
     - ankrscntnnt

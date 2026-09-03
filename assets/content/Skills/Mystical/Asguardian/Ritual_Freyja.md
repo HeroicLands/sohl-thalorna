@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: BPCoWMJ6RswEUI5K
 shortcode: freyja
 img: images/affiliation/freyja.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Fréyja"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

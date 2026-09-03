@@ -2,8 +2,8 @@
 aliases:
   - Ferrovan
 id: Mk8aRx2vKp7Tb4Ln
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Mining Town"
 population: 7000
 languages:

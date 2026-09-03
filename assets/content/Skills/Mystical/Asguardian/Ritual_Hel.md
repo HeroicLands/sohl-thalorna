@@ -6,6 +6,7 @@ tags:
   - asguardian
   - faith-skill
 type: skill
+subType: mystical
 id: KL7E51ouWGouFCot
 shortcode: hel
 img: images/affiliation/hel.webp
@@ -13,7 +14,6 @@ name:
   full: "Ritual: Hél"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

@@ -5,8 +5,8 @@ aliases:
   - Jade Fan Dance
   - The Jade Fan Dance
 id: fE2uikvHIqpHgYyC
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Vëi Zhāt Rëit
   aliases:

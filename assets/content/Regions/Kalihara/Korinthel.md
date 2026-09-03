@@ -2,8 +2,8 @@
 aliases:
   - Korinthel
 id: RRmQE1eVIBxDLVXi
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Trading Port"
 population: null
 languages:

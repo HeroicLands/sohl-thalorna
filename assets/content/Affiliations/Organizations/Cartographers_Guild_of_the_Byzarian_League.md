@@ -13,10 +13,8 @@ name:
     - The Guild of Maps
 shortcode: crtgrphrsgldbyzrnlg
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

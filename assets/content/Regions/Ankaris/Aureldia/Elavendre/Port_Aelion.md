@@ -2,8 +2,8 @@
 aliases:
   - Port Aelion
 id: O2nIsw1YeLjYDhBp
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Coastal Town"
 population: null
 languages:

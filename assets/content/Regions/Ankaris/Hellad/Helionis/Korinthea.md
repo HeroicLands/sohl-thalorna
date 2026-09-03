@@ -3,14 +3,13 @@ aliases:
   - Korinthea
 id: 9ik3Gq6QkZv8tIj0
 description: "City-state of Helionis governed by an oligarchy of wealthy patron families."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Korinthea
   aliases: []
 shortcode: korinthea
 population: null
-subType: city-state
+subType: polity
 demonym: Korinthean
 government:
   type: city-state

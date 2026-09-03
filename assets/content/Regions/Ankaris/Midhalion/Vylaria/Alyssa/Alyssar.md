@@ -2,8 +2,8 @@
 aliases:
   - Alyssar
 id: tcjuUdxJxxs60dLX
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Provincial Capital"
 population: 45000
 languages:

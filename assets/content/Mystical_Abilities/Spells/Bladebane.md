@@ -11,8 +11,8 @@ id: hgEvp4iz6j2sK6Rm
 img: icons/anvil.svg
 shortcode: bldbn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 4
   masteryLevelBase: 0

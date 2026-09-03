@@ -11,8 +11,8 @@ id: G0uvSYE3j8khDhnb
 img: icons/anvil.svg
 shortcode: cloak
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: sideros
   levelBase: 5
   masteryLevelBase: 0

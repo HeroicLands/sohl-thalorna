@@ -11,8 +11,8 @@ name:
 id: JWByO0F561rYME7K
 shortcode: vylarianse
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 terran_analog: The Mediterranean Sea
 parent:
   continents:

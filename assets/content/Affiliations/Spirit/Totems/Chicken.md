@@ -7,8 +7,8 @@ id: zAcMdNEQ72INVoNU
 img: images/mystery/chicken.webp
 shortcode: chickenttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null

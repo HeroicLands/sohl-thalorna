@@ -7,8 +7,8 @@ id: ABd6DgjjBbcN8FjE
 img: icons/psionics.svg
 shortcode: negx
 type: mysticalability
+subType: arcanetalent
 sohl:
-  subType: arcanetalent
   assocSkillCode: ""
   levelBase: 0
   masteryLevelBase: 0

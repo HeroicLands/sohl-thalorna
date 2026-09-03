@@ -6,13 +6,13 @@ tags:
   - kemetian
   - faith-skill
 type: skill
+subType: mystical
 id: Ru9ClYULaK1GevP1
 shortcode: seker
 name:
   full: "Ritual: Sēker"
   aliases: []
 sohl:
-  subType: mystical
   skillBaseFormula: "@wil, @rea"
   combatCategory: none
   parentSkillCode: ""

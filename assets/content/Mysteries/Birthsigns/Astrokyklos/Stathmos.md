@@ -8,10 +8,10 @@ id: BdARpfjp4ZpLEz1M
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: stathmos
 type: mystery
+subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  subType: other
   levelBase: 0
   skillAptitudes:
     "subType:nature": -15

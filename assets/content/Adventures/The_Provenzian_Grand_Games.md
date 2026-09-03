@@ -6,8 +6,8 @@ name:
   full: The Provenzian Grand Games
   aliases: []
 shortcode: prvnzngrndgms
-type: doc
-category: adventure
+type: scenario
+subType: adventure
 thalorna:
   region: provenzrgn
 folder: TokyoDCf1w4elPns

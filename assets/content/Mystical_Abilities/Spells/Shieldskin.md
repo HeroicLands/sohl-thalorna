@@ -11,8 +11,8 @@ id: x4v7WWIV7BNAV7tj
 img: icons/fire.svg
 shortcode: shldskn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 2
   masteryLevelBase: 0

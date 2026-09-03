@@ -3,8 +3,8 @@ aliases:
   - Valdés
   - Valdes
 id: 76CpaejmRGneqpDj
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Port Town"
 population: null
 languages:

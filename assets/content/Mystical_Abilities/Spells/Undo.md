@@ -11,8 +11,8 @@ id: lzatWibl3ftAmjmz
 img: icons/circle.svg
 shortcode: undo
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 5
   masteryLevelBase: 0

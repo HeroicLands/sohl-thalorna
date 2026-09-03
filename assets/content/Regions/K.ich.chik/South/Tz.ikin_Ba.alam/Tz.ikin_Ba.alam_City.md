@@ -2,8 +2,8 @@
 aliases:
   - Tz'ikin Ba'alam
 id: 81GNYrgkAYEus3dq
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City"
 population: null
 languages:

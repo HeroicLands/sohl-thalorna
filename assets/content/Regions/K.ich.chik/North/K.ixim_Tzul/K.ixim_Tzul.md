@@ -11,9 +11,8 @@ name:
 id: V1Y04Ph8jthE1Fw0
 shortcode: kiximtzul
 img: ""
-type: doc
-category: polity
-subType: city-state
+type: affiliation
+subType: polity
 capital: kiximtzul2
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 parent:

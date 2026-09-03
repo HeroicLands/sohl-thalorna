@@ -12,8 +12,8 @@ name:
 id: rD2cSVqLcGUxWBMV
 shortcode: okharisrgn
 img: ""
-type: doc
-category: region
+type: place
+subType: region
 demonym: Okháric
 parent:
   regions:

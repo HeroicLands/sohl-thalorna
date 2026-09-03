@@ -2,8 +2,8 @@
 aliases:
   - Ashenmere
 id: lmR93dIZz6Bv7Vwh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Border Town"
 population: 4000
 languages:

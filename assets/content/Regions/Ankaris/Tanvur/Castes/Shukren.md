@@ -3,8 +3,8 @@ aliases:
   - Shükrën
   - Shukren
 id: cNe8pvkuffxHbqXo
-type: doc
-category: lore
+type: lore
+subType: folk
 name:
   full: Shükrën
   aliases: []

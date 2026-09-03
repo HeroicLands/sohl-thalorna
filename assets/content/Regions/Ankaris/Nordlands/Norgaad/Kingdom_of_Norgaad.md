@@ -4,14 +4,13 @@ aliases:
   - Norgaad
 id: zhKw1Qd8HdeRSjLf
 description: "Central Normen kingdom of fjords, mountain passes, and silver-mines — diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
-type: doc
-category: polity
+type: affiliation
 name:
   full: Kingdom of Norgaad
   aliases: []
 shortcode: kingdmnrgd
 population: "~1,200,000"
-subType: kingdom
+subType: polity
 demonym: Norgaadian
 ruler:
   title: King

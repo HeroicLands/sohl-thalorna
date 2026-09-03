@@ -2,8 +2,8 @@
 aliases:
   - Liranel
 id: 125j2DAi5wNhmQMA
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Forest Town"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - Frostmark
 id: 1Rtw3Owv91p4f5yA
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Border Settlement"
 population: null
 languages:

@@ -9,8 +9,8 @@ id: V99UpKThZil5gk8t
 img: icons/circle.svg
 shortcode: pool
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 3
   masteryLevelBase: 0

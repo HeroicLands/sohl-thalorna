@@ -11,8 +11,8 @@ id: l7KVpqQvsbTiL5Ic
 img: icons/circle.svg
 shortcode: sharpen
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: kentra
   levelBase: 3
   masteryLevelBase: 0

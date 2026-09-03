@@ -5,6 +5,7 @@ id: ZRe4IWZLZlIFjqOt
 tags:
   - asguardian
 type: affiliation
+subType: faithtradition
 name:
   full: Faith of Súrtr
   aliases:
@@ -12,7 +13,6 @@ name:
 shortcode: surtr
 img: images/affiliation/surtr.webp
 sohl:
-  subType: divine
   society: null
   office: null
   title: null

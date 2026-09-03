@@ -2,8 +2,8 @@
 aliases:
   - Valgard
 id: Qv1h5Bkc8jxqYmxh
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

@@ -2,8 +2,8 @@
 aliases:
   - Ormstead
 id: DOIcd67IRmgTlxdK
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "Town"
 population: null
 languages:

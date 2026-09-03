@@ -14,7 +14,7 @@ tags:
   - economy
 description: "Standard currency system of the Northern Fertile Region of Xerathia — temple-attested weight-pieces of copper, silver, and gold organized in deben and kite units; backed by the Kemetian temple banking system (Per'Háti); used across Ta'Kheperu, Bethûa, and Okháris."
 type: doc
-category: reference
+subType: reference
 id: fKp8fKdTTpsgcUQY
 name:
   full: Ta'Kheperu Currency

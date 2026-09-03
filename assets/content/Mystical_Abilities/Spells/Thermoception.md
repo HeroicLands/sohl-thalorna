@@ -9,8 +9,8 @@ id: MmvJLJMSbV0avipm
 img: icons/fire.svg
 shortcode: thrmcptn
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pyrethos
   levelBase: 3
   masteryLevelBase: 0

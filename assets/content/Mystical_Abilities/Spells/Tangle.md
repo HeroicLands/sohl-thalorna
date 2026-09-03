@@ -11,8 +11,8 @@ id: M17LRhmoMHryWfVl
 img: icons/tree.svg
 shortcode: tangle
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: physera
   levelBase: 4
   masteryLevelBase: 0

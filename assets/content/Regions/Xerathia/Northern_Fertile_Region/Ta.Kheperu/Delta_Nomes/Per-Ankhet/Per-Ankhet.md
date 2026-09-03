@@ -2,8 +2,8 @@
 aliases:
   - Per-Ankhet
 id: MmnxJgu8HPv4ZFm2
-type: doc
-category: settlement
+type: place
+subType: settlement
 settlementType: "City (Port)"
 population: 120000
 languages:

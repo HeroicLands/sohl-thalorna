@@ -12,6 +12,7 @@ id: XFda9zcmLdiJF4aW
 img: icons/potion.svg
 shortcode: ElxAqu
 type: concoctiongear
+subType: elixir
 hmk:
   name: Aqua
 sohl:
@@ -19,7 +20,6 @@ sohl:
   durability: 5
   value: 0
   weight: 0.25
-  subType: "elixir"
   potency: "na"
   strength: 0
   archetype: null

@@ -11,8 +11,8 @@ id: sU0A7vHo0zslcwrW
 img: icons/divination.svg
 shortcode: bond
 type: mysticalability
+subType: arcaneincantation
 sohl:
-  subType: arcaneincantation
   assocSkillCode: pneumenos
   levelBase: 4
   masteryLevelBase: 0

@@ -4,7 +4,6 @@ aliases:
 description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 type: affiliation
 sohl:
-  subType: social
   society: null
   office: null
   title: null
@@ -18,7 +17,7 @@ name:
 shortcode: corsairleg
 languages:
   - helonclng
-subType: maritime-guild
+subType: guild
 pantheons: []
 demonym: ""
 government: ""

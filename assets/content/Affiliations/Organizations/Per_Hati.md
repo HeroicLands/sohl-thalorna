@@ -21,10 +21,8 @@ name:
     - The House of the Account
 shortcode: perhati
 type: affiliation
-subType: social
-category: guild
+subType: guild
 sohl:
-  subType: social
   society: null
   office: null
   title: null

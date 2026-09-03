@@ -6,8 +6,8 @@ tags:
   - lore
   - lineage
 description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
-type: doc
-category: lore
+type: lore
+subType: folk
 id: xSabnR2YSyocDJxC
 name:
   full: Sinalë Folk

@@ -7,8 +7,8 @@ id: IPxMGQOSQBsOi48s
 img: images/mystery/bear.webp
 shortcode: bearttm
 type: affiliation
+subType: arcanetradition
 sohl:
-  subType: spirit
   society: null
   office: null
   title: null
