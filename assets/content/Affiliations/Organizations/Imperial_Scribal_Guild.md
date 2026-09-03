@@ -86,7 +86,7 @@ folder:
 # The Imperial Scribal Guild
 
 - **Type:** Imperial chartered guild
-- **Region:** [[doc-vylarinmpr|Vylarian Empire]] — central hall in [[doc-magnapolis|Magnápolis]], chapterhouses in every provincial capital
+- **Region:** [[affiliation-vylarinmpr|Vylarian Empire]] — central hall in [[place-magnapolis|Magnápolis]], chapterhouses in every provincial capital
 - **Charter:** Granted by imperial edict in the eighty-third year of the present dynasty; renewed and expanded twice since
 - **Magnum Collegium status:** Founding-era member; the Scribal Guild's High Hand holds an ex officio seat on the [[affiliation-magnumclgm|Magnum Collegium's]] Curia Collegiorum
 

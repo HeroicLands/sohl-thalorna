@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ba'alam Tza'ku is the central city and seat of the [[doc-balamtzaku|Ba'alam Tza'ku]] city-state.
+_To be written._ Ba'alam Tza'ku is the central city and seat of the [[affiliation-balamtzaku|Ba'alam Tza'ku]] city-state.

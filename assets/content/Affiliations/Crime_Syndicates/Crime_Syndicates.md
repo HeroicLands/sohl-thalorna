@@ -84,7 +84,7 @@ folder: GOlgYgpU2BQfAG6g
 
 # Crime Syndicates of Thalorna
 
-Unlike some settings where a single monolithic "thieves' guild" spans the known world, Thalorna's criminal underworld is fractured, competitive, and deeply regional. Four major syndicates operate across the Vylarian Sea basin, with a fifth — the Hëk Lōt Zhāk — dominating the far east in the [[doc-tanvurempr|Empire of Tānvür]]. None share any love for one another. Alliances shift with the tides — the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
+Unlike some settings where a single monolithic "thieves' guild" spans the known world, Thalorna's criminal underworld is fractured, competitive, and deeply regional. Four major syndicates operate across the Vylarian Sea basin, with a fifth — the Hëk Lōt Zhāk — dominating the far east in the [[affiliation-tanvurempr|Empire of Tānvür]]. None share any love for one another. Alliances shift with the tides — the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
 
 Most towns also have smaller, purely local organizations — gangs that handle petty crime, prostitution, protection rackets, blackmail, extortion, and the occasional hit job. These local outfits exist in an uneasy relationship with the larger syndicates, who use them as subcontractors and buffers. A local gang boss might take a cut from the Gray Tide to look the other way about shipments at the docks, while simultaneously selling information about those same shipments to the Velvet Hand. This layered structure means that the syndicate bosses rarely get their hands dirty, and if a local gang is broken up by the authorities, the larger organization loses an asset but suffers no real exposure.
 
@@ -101,7 +101,7 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 
 ### Eastern Ankaris
 
-- [[affiliation-heklotzhak|Hëk Lōt Zhāk]] (The Black Lotus Society) — Bureaucratic, commercial, and ritual crime network dominating the [[doc-tanvurempr|Empire of Tānvür]]
+- [[affiliation-heklotzhak|Hëk Lōt Zhāk]] (The Black Lotus Society) — Bureaucratic, commercial, and ritual crime network dominating the [[affiliation-tanvurempr|Empire of Tānvür]]
 
 ## Inter-Syndicate Relations
 

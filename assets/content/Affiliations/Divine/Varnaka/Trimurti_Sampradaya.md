@@ -149,4 +149,4 @@ Temples of the Trimūrti-sampradāya are typically large three-chambered complex
 
 ## Geographic Presence
 
-The Trimūrti-sampradāya is the dominant sect throughout [[doc-vedyarargn|Vedyara Region]]'s city-states and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples are at the capitals of the large city-states, where the sect is inseparable from civic authority.
+The Trimūrti-sampradāya is the dominant sect throughout [[place-vedyarargn|Vedyara Region]]'s city-states and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples are at the capitals of the large city-states, where the sect is inseparable from civic authority.

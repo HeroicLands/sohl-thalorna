@@ -138,4 +138,4 @@ The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces,
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
 - [[Zhutrhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
 - [[Gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
-- [[doc-tanthei|Tānthëi]] — The priestly caste who mediate petitions to the Elemental Lords
+- [[lore-tanthei|Tānthëi]] — The priestly caste who mediate petitions to the Elemental Lords

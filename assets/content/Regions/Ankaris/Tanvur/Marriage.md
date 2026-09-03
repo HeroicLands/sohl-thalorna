@@ -3,7 +3,7 @@ aliases:
   - Marriage
 id: FU7XLpmwbZEhNm5R
 type: lore
-subType: folk
+subType: culture
 name:
   full: Marriage
   aliases: []
@@ -13,7 +13,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Marriage Customs of the Empire of Tānvür
 
-Marriage in the [[doc-tanvurempr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event** — the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[doc-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
+Marriage in the [[affiliation-tanvurempr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event** — the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[lore-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
 
 The customs surrounding marriage vary significantly by caste, but the underlying principle is the same at every level: marriage creates a new node in the classification system, and every node must be properly sorted.
 
@@ -21,7 +21,7 @@ The customs surrounding marriage vary significantly by caste, but the underlying
 
 ## Marriage as Classification
 
-When two families agree to a marriage, they are not merely joining their children — they are **merging spiritual infrastructure**. The combined household will share a single moral ledger, a single set of [[doc-ancstrwrshp|ancestor spirits]] drawn from both lineages, and a single [[doc-celestlrdr|Hearth Monitor (Zātkür)]] assigned by the celestial administration to observe and report on the new unit.
+When two families agree to a marriage, they are not merely joining their children — they are **merging spiritual infrastructure**. The combined household will share a single moral ledger, a single set of [[lore-ancstrwrshp|ancestor spirits]] drawn from both lineages, and a single [[lore-celestlrdr|Hearth Monitor (Zātkür)]] assigned by the celestial administration to observe and report on the new unit.
 
 This is why marriages are arranged by clan councils rather than by the individuals involved. The decision is fundamentally administrative: which families' ancestor spirits will cooperate most effectively? Which combination of moral ledger balances produces the strongest new account? Which alliance best serves the clan's aggregate spiritual position? Romance is irrelevant to these calculations — in the same way that personal affection between two bureaucrats is irrelevant to whether their departments should merge.
 
@@ -29,13 +29,13 @@ This is why marriages are arranged by clan councils rather than by the individua
 
 ## Marriage Eligibility
 
-**Caste Restrictions:** Legal marriage — that is, marriage _registered with the celestial administration_ — is reserved for members of the [[doc-zheklung|Zhëklüng]] (Sons of the Dragon), [[doc-vushok|Vüshōk]] (Warrior Nobility), [[doc-tanthei|Tānthëi]] (Celestial Scholars), and [[doc-zathuk|Zāthük]] (Artisans and Craftsmen). These castes are classified at a level that warrants the administrative overhead of a formal household merger.
+**Caste Restrictions:** Legal marriage — that is, marriage _registered with the celestial administration_ — is reserved for members of the [[lore-zheklung|Zhëklüng]] (Sons of the Dragon), [[lore-vushok|Vüshōk]] (Warrior Nobility), [[lore-tanthei|Tānthëi]] (Celestial Scholars), and [[lore-zathuk|Zāthük]] (Artisans and Craftsmen). These castes are classified at a level that warrants the administrative overhead of a formal household merger.
 
-**Excluded Castes:** Members of the [[doc-nokvur|Nōkvür]] (Peasant Farmers), [[doc-shukren|Shükrën]] (Merchants), and [[doc-nutzok|Nützōk]] (Slaves and Outcasts) are not permitted to enter into legally recognized marriages. They may cohabitate and raise children within their caste, but these unions are not registered as classification events. In the bureaucratic cosmology, their households are considered too low in the classification hierarchy to justify a formal filing — a spiritual slight that most Nōkvür accept as the way of things, and most Shükrën quietly resent.
+**Excluded Castes:** Members of the [[lore-nokvur|Nōkvür]] (Peasant Farmers), [[lore-shukren|Shükrën]] (Merchants), and [[lore-nutzok|Nützōk]] (Slaves and Outcasts) are not permitted to enter into legally recognized marriages. They may cohabitate and raise children within their caste, but these unions are not registered as classification events. In the bureaucratic cosmology, their households are considered too low in the classification hierarchy to justify a formal filing — a spiritual slight that most Nōkvür accept as the way of things, and most Shükrën quietly resent.
 
-The Nōkvür compensate through the [[doc-ancstrwrshp|Lëigürt]], who perform informal bonding ceremonies that register the union with the ancestor spirits if not with the celestial bureaus proper. These ceremonies carry deep cultural weight within Nōkvür communities, even though the empire does not recognize them.
+The Nōkvür compensate through the [[lore-ancstrwrshp|Lëigürt]], who perform informal bonding ceremonies that register the union with the ancestor spirits if not with the celestial bureaus proper. These ceremonies carry deep cultural weight within Nōkvür communities, even though the empire does not recognize them.
 
-**Clan Arrangements:** All eligible marriages are arranged by the clan council. The council evaluates the match on several axes: the combined moral ledger balance of both families, the compatibility of their ancestor spirits (determined through divination by the [[doc-tanthei|Tānthëi]] or Lëigürt), the political and material advantages of the alliance, and the astrological classification of the match based on the birth-years and spirit animals of both parties (see [[doc-clndrstrlgy|Spirit Animals]]).
+**Clan Arrangements:** All eligible marriages are arranged by the clan council. The council evaluates the match on several axes: the combined moral ledger balance of both families, the compatibility of their ancestor spirits (determined through divination by the [[lore-tanthei|Tānthëi]] or Lëigürt), the political and material advantages of the alliance, and the astrological classification of the match based on the birth-years and spirit animals of both parties (see [[lore-clndrstrlgy|Spirit Animals]]).
 
 ---
 
@@ -61,7 +61,7 @@ Love is not forbidden in Tānvür. It is simply _irrelevant_ to the classificati
 
 The Tānvüri recognize that affection may exist between spouses, and when it does, they consider it a pleasant incidental — much as one might appreciate a comfortable office while doing necessary paperwork. But a marriage arranged without any personal feeling is not considered deficient. It is simply a correctly filed document. Romantic attachment outside of marriage is tolerated within the constraints of caste propriety, provided it does not interfere with the obligations of the household's moral ledger or bring dishonor that would generate debit entries.
 
-Among the elite castes, sophisticated courtship customs exist — poetry, gift-giving, music — but these are understood as social arts rather than prerequisites for marriage. The [[doc-veizhatret|Vëi Zhāt Rëit]] (Jade Fan Dance) tradition of court intrigue is as much about arranging advantageous marriages as it is about political maneuvering.
+Among the elite castes, sophisticated courtship customs exist — poetry, gift-giving, music — but these are understood as social arts rather than prerequisites for marriage. The [[lore-veizhatret|Vëi Zhāt Rëit]] (Jade Fan Dance) tradition of court intrigue is as much about arranging advantageous marriages as it is about political maneuvering.
 
 ---
 
@@ -93,10 +93,10 @@ The dissolution process requires a formal petition to the Bureau of Continuity, 
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — The caste restrictions that govern marriage eligibility
-- [[doc-ancstrwrshp|Ancestor Worship]] — The ancestor spirits whose approval is required for marriage
-- [[doc-celestlrdr|Celestial Order]] — The cosmological framework that marriage operates within
-- [[doc-clndrstrlgy|Calendar and Astrology]] — Astrological classifications that influence match selection
-- [[doc-personlnms|Personal Names]] — Naming conventions tied to caste and household
-- [[doc-zeisik|Law and Honor]] — The legal framework governing marriage contracts
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society
+- [[lore-castelaws|Caste Laws]] — The caste restrictions that govern marriage eligibility
+- [[lore-ancstrwrshp|Ancestor Worship]] — The ancestor spirits whose approval is required for marriage
+- [[lore-celestlrdr|Celestial Order]] — The cosmological framework that marriage operates within
+- [[lore-clndrstrlgy|Calendar and Astrology]] — Astrological classifications that influence match selection
+- [[lore-personlnms|Personal Names]] — Naming conventions tied to caste and household
+- [[lore-zeisik|Law and Honor]] — The legal framework governing marriage contracts
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial society

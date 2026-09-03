@@ -78,7 +78,7 @@ folder:
 
 # The Courts of Magnápolis
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[doc-magnapolis|city]] beyond the Inner Wall** — its administration, its courts, its Watch, and its daily supply — is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals** — the throne's own courts — sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall** — its administration, its courts, its Watch, and its daily supply — is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals** — the throne's own courts — sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
 
 ## The Curia Urbis — the Council of the City
 
@@ -116,7 +116,7 @@ For all its tiers and titles, the law of Magnápolis runs partly on influence, a
 
 ## See Also
 
-- [[doc-magnapolis|Magnápolis]] — the imperial capital this council and these courts govern
+- [[place-magnapolis|Magnápolis]] — the imperial capital this council and these courts govern
 - [[affiliation-vylrnmltry|The Vylarian Military]] — home of the City Watch (a branch of the legions) and the Praetar Augustarum (the imperial guard)
 - [[affiliation-aerarimmpr|The Aerarium Imperii]] — housed, like the imperial tribunals, in the Officia Imperii
 - [[affiliation-curiafscls|The Curia Fiscalis]] — the tax administration, also seated in the Officia

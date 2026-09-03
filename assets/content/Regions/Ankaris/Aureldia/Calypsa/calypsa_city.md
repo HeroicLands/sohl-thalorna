@@ -24,4 +24,4 @@ parent:
 
 ## Overview
 
-_To be written._ Calypsa is the capital and principal settlement of [[doc-calypsa|Calypsa]].
+_To be written._ Calypsa is the capital and principal settlement of [[affiliation-calypsa|Calypsa]].

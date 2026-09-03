@@ -81,17 +81,17 @@ shortcode: thetamzir
 banner: banners/tamzir-banner.webp
 ---
 
-The **Tamzîr** is a weathered trading vessel that works the [[doc-vylarinmpr|Vylarian]] Sea, named after the Battle of Tamzîr Shoals — the decisive naval engagement of the Haradian War of Independence. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
+The **Tamzîr** is a weathered trading vessel that works the [[affiliation-vylarinmpr|Vylarian]] Sea, named after the Battle of Tamzîr Shoals — the decisive naval engagement of the Haradian War of Independence. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
 
 ## Background
 
-Roughly twelve years ago, the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] fought a war of independence from the [[doc-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-esharumtrz|Eshârum Tarûzî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
+Roughly twelve years ago, the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-esharumtrz|Eshârum Tarûzî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
 
 The Tamzîr operates in the gray spaces of maritime law — legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of extraordinary and erratic power — damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[doc-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
+The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of extraordinary and erratic power — damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
 
 ## Shared Enemies
 

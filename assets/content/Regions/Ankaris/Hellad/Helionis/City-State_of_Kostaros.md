@@ -93,7 +93,7 @@ data:
   domains:
     - helionis
   peoples:
-    - human
+    - humanflk
   economy: []
   parents:
     - ctysttshlns
@@ -106,12 +106,12 @@ folder: L06n59aSySB8zVbI
 
 ## Overview
 
-Kostaros is one of the [[doc-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of [[doc-myrtillos|Myrtillos]]. _To be expanded._
+Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of [[place-myrtillos|Myrtillos]]. _To be expanded._
 
-> Not to be confused with the Byzarian port town of the same name in the [[doc-byzarianlg|Byzarian League]].
+> Not to be confused with the Byzarian port town of the same name in the [[affiliation-byzarianlg|Byzarian League]].
 
 ## See Also
 
-- [[doc-ctysttshlns|City-States of Heliónis]] — The confederation
-- [[doc-helionis|Heliónis]] — Regional overview
-- [[doc-myrtillos|Myrtillos]] — Coastal town within its territory
+- [[affiliation-ctysttshlns|City-States of Heliónis]] — The confederation
+- [[place-helionis|Heliónis]] — Regional overview
+- [[place-myrtillos|Myrtillos]] — Coastal town within its territory

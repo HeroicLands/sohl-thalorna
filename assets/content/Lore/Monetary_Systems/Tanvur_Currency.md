@@ -27,7 +27,7 @@ _Stub — to be designed and expanded._
 
 ## Overview
 
-[[doc-tanvuregin|Tánvür]] operates its own monetary and credit system, distinct from both the western (Vylarian) and the eastern (Vedyaran) systems and entirely separate from the Northern Fertile Region (Ta'Kheperan) infrastructure. The Tánvür system is rooted in the empire's distinctive bureaucratic classification apparatus — the same institutional culture that produces the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] ("Black Lotus Society") with its _moral ledgers_ and _spiritual classification_. What is known is that commercial life in Tánvür is heavily administered, runs substantially through ledger-credit rather than physical currency, and is interwoven with the empire's broader system of caste-and-classification governance.
+[[place-tanvuregin|Tánvür]] operates its own monetary and credit system, distinct from both the western (Vylarian) and the eastern (Vedyaran) systems and entirely separate from the Northern Fertile Region (Ta'Kheperan) infrastructure. The Tánvür system is rooted in the empire's distinctive bureaucratic classification apparatus — the same institutional culture that produces the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] ("Black Lotus Society") with its _moral ledgers_ and _spiritual classification_. What is known is that commercial life in Tánvür is heavily administered, runs substantially through ledger-credit rather than physical currency, and is interwoven with the empire's broader system of caste-and-classification governance.
 
 The specific mechanics — denominations (if any physical coin exists), the role of ledger-credit, the classification rules that govern who can hold what kinds of obligations, the institutional infrastructure that backs the system, the relationship between commerce and the [[affiliation-hekzhak|Vëndük sorcerers]]' historical role in administration — have not yet been designed and will be developed in a future pass.
 
@@ -42,7 +42,7 @@ What is presently known:
 
 - **[[affiliation-heklotzhak|Hëk Lōt Zhāk]]** — the Black Lotus Society, which operates through the classification system
 - **[[affiliation-hekzhak|Hëk Zhāk]]** — the rogue Shadow Sect, related to the empire's older sorcerous-administrative tradition
-- **[[doc-tanvuregin|Tánvür]]** — the polity itself
+- **[[place-tanvuregin|Tánvür]]** — the polity itself
 
 ---
 

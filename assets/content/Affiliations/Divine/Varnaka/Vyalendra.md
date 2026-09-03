@@ -104,7 +104,7 @@ folder: dxzsTyaF4LMapIJX
 
 Vyālendra is the architect of existence — the deity who gave shape to the earth, the skies, and all living things, and who continues to give shape to every new work of human making. Varṇakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats in miniature the original act of cosmic shaping. To build well is to serve Vyālendra; to build poorly is to mar the pattern from which the world itself was made.
 
-Worship of Vyālendra is strongest in the cities of [[doc-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.
+Worship of Vyālendra is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.
 
 ## Aspects
 

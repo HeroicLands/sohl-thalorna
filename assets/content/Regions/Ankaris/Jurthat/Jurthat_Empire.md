@@ -100,7 +100,7 @@ data:
     - jurthatrgn
   population: 500000
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations:
@@ -109,7 +109,7 @@ data:
 folder: DhjGF5KsylKDxb7m
 ---
 
-Jürthāt is a mountainous island kingdom to the southeast of the [[doc-tanvurempr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.
+Jürthāt is a mountainous island kingdom to the southeast of the [[affiliation-tanvurempr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.
 
 Jürthāt's culture is unmistakably shaped by its Tānvür origins — the caste structures, the written script, the religious calendar, and the broad outlines of the Celestial Order all echo the mainland. But a millennium of separation has warped these shared roots into something distinctly Jürthātese, and the islanders are deeply proud of what they have become.
 
@@ -131,7 +131,7 @@ The current balance of power rests on three or four Great Lords of roughly equal
 
 Personal honor is the organizing principle of Jürthātese society, more deeply embedded even than in Tānvür's warrior caste. A lord's word is sacred; broken oaths are remembered for generations and can poison alliances centuries later. Insults — real or perceived — demand satisfaction, and the rituals of formal challenge and duel are codified in exhaustive detail.
 
-The Jürthātese practice their own form of ritual suicide, **Rëitsīk** (Rëitsīk, "Sacrificial Death"), which evolved from the Tānvür tradition of [[doc-zeisik|Zëisīk]] but carries different cultural weight. Where Zëisīk in Tānvür is primarily an act of atonement or defiance, Rëitsīk in Jürthāt is more broadly understood — it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rëitsīk wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
+The Jürthātese practice their own form of ritual suicide, **Rëitsīk** (Rëitsīk, "Sacrificial Death"), which evolved from the Tānvür tradition of [[lore-zeisik|Zëisīk]] but carries different cultural weight. Where Zëisīk in Tānvür is primarily an act of atonement or defiance, Rëitsīk in Jürthāt is more broadly understood — it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rëitsīk wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
 
 ## Relationship with Tānvür
 
@@ -159,8 +159,8 @@ Jürthāt's greatest military advantage is its navy. Island geography forced the
 
 ## See Also
 
-- [[doc-extrnlthrts|External Threats]] — Tānvür's view of Jürthāt as a military threat
-- [[doc-tanvurempr|Empire of Tānvür]] — The mainland empire from which Jürthāt broke away
-- [[doc-zeisik|Law and Honor]] — The Tānvür tradition of Zëisīk, ancestor of Jürthāt's Rëitsīk
-- [[doc-celestlrdr|Celestial Order]] — The shared religious framework, divergently interpreted
-- [[doc-castelaws|Caste Laws]] — The Tānvür caste system that Jürthāt inherited and reshaped
+- [[lore-extrnlthrts|External Threats]] — Tānvür's view of Jürthāt as a military threat
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The mainland empire from which Jürthāt broke away
+- [[lore-zeisik|Law and Honor]] — The Tānvür tradition of Zëisīk, ancestor of Jürthāt's Rëitsīk
+- [[lore-celestlrdr|Celestial Order]] — The shared religious framework, divergently interpreted
+- [[lore-castelaws|Caste Laws]] — The Tānvür caste system that Jürthāt inherited and reshaped

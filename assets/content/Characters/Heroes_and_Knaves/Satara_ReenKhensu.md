@@ -568,7 +568,7 @@ sohl:
     - { shortcode: wtrskin, type: containergear }
 ---
 
-**Home:** [[doc-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khensuret]]
 
 # Appearance {#appearance}
 
@@ -576,7 +576,7 @@ Satara stands 6'0" tall with a medium build. She has rich copper skin, deep blac
 
 # Dossier {#dossier}
 
-Born in the teak-rich highlands of the Empire of [[doc-empirtkhpr|Ta'Kheperu]], Satara learned the language of trees before she learned to read. Her mother, Khensu the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Satara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
+Born in the teak-rich highlands of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Satara learned the language of trees before she learned to read. Her mother, Khensu the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Satara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
 Over the past decade, Satara has established herself as the most discerning timber selector in the Ta'Kheperu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 

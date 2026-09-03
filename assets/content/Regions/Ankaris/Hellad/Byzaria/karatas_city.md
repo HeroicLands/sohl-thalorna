@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Karataş is the capital and principal settlement of [[doc-karatas|Karataş]].
+_To be written._ Karataş is the capital and principal settlement of [[affiliation-karatas|Karataş]].

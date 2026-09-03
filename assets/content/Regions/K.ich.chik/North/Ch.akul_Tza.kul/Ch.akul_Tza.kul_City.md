@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ch'akul Tza'kul is the central city and seat of the [[doc-chakultzkl|Ch'akul Tza'kul]] city-state.
+_To be written._ Ch'akul Tza'kul is the central city and seat of the [[affiliation-chakultzkl|Ch'akul Tza'kul]] city-state.

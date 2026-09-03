@@ -102,7 +102,7 @@ folder: dxzsTyaF4LMapIJX
 - **Pronunciation:** _KAH-lah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Kālavrata is a solitary god — the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[doc-vedyarargn|Vedyara Region]] but venerated in a notably austere manner. He demands no devotion, grants no personal favour, and answers no petition for long life or safe passage through danger. What he does is guide the soul from one body to the next, impartially and without favour, and for this the Vedyaran faithful hold him in high regard.
+Kālavrata is a solitary god — the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]] but venerated in a notably austere manner. He demands no devotion, grants no personal favour, and answers no petition for long life or safe passage through danger. What he does is guide the soul from one body to the next, impartially and without favour, and for this the Vedyaran faithful hold him in high regard.
 
 Where [[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body, Kālavrata is the god of what happens after. The cremation-fires end the body; Kālavrata's conch calls the soul onward.
 

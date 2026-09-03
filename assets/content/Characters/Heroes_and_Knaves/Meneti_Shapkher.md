@@ -569,7 +569,7 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
 ---
 
-**Home:** [[doc-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khensuret]]
 
 # Appearance {#appearance}
 
@@ -627,7 +627,7 @@ Meneti is driven by an almost religious belief in the power of transparency and 
 ### Affiliations
 
 - **The Imperial Treasury**: Her primary institution and the source of her authority.
-- **The Scribes' Guild of [[doc-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
+- **The Scribes' Guild of [[affiliation-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
 - **The Order of Hâpi**: A religious devotional order dedicated to Hâpi, god of prosperity and the inundation. She maintains private worship and donates portions of her salary to their works.
 
 ## Plot Hooks

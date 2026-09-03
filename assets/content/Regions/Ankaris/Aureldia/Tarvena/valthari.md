@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Valthari is the capital and principal settlement of [[doc-frctyvlthr|Free City of Valthári]].
+_To be written._ Valthari is the capital and principal settlement of [[affiliation-frctyvlthr|Free City of Valthári]].

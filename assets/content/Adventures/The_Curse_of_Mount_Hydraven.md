@@ -19,7 +19,7 @@ folder: TokyoDCf1w4elPns
 
 ## Overview
 
-Mount Hýdraven looms over the southern highlands of [[doc-provenzrgn|Provènzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aurèldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
+Mount Hýdraven looms over the southern highlands of [[place-provenzrgn|Provènzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aurèldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
 
 ## Stage One: The Commission & Initial Signs
 
@@ -133,7 +133,7 @@ The party must resolve the curse by addressing its root cause. Options include:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]

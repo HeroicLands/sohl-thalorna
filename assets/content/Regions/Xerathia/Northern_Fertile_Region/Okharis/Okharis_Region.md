@@ -31,10 +31,10 @@ languages:
 ## Overview
 
 The Okháris Region is the southern margin of the
-[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the country held by
-[[doc-okharis|Okháris]], where the irrigated lands to the north shade out
+[[place-nrthrnfrtlrgn|Northern Fertile Region]] — the country held by
+[[affiliation-okharis|Okháris]], where the irrigated lands to the north shade out
 entirely into open savanna. It is the last settled country before the
-[[doc-cntrlrnfrsts|Central Rainforests]], beyond which no northern
+[[place-cntrlrnfrsts|Central Rainforests]], beyond which no northern
 civilisation has established a lasting presence.
 
 ## Geography
@@ -59,14 +59,14 @@ them and the clans is the Three-Flame Settlement.
 
 ## Politics and Power
 
-The region is the territory of [[doc-okharis|Okháris]]. Its frontier clans to
-the north pay tribute to [[doc-bethuargn|Bethûan]] authorities in exchange for
+The region is the territory of [[affiliation-okharis|Okháris]]. Its frontier clans to
+the north pay tribute to [[place-bethuargn|Bethûan]] authorities in exchange for
 grazing rights, and a Kheperi attempt centuries ago to bring the western
 temple-cities into a tributary relationship collapsed within a generation.
 
 ## See Also
 
-- [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
-- [[doc-okharis|Okháris]] — the realm that holds this region
-- [[doc-takheperurgn|Ta'Kheperu Region]] — neighbour to the north
-- [[doc-cntrlrnfrsts|Central Rainforests]] — the wall to the south
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
+- [[affiliation-okharis|Okháris]] — the realm that holds this region
+- [[place-takheperurgn|Ta'Kheperu Region]] — neighbour to the north
+- [[place-cntrlrnfrsts|Central Rainforests]] — the wall to the south

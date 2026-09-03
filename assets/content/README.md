@@ -107,7 +107,7 @@ Link to another note by its canonical address — `<type>-<shortcode>` — in a
 wikilink, with a label where the shortcode is not readable prose:
 
 ```markdown
-See [[being-grkrahk|Grukar-ahk]] and [[doc-pelwarpepl|the Pelwar People]].
+See [[being-grkrahk|Grukar-ahk]] and [[lore-pelwarpepl|the Pelwar People]].
 ```
 
 This works the same whether the target is in this package or another one. A link

@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Pneuménos** is the Eídma of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-physera|Eídma Physéra]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch — the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Pneuménos is the most respected, the most feared, and the most closely supervised of the six schools.
+Eídma **Pneuménos** is the Eídma of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-physera|Eídma Physéra]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch — the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Pneuménos is the most respected, the most feared, and the most closely supervised of the six schools.
 
 ## Philosophy
 
@@ -121,7 +121,7 @@ Politically, the Sodalitas Pneuménos is the most isolated of the six fellowship
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-physera|Eídma Physéra]] — The opposing Eídma
 - [[affiliation-sideros|Eídma Sidéros]] — Adjacent Eídma (binding and precision)
 - [[affiliation-pyrethos|Eídma Pyréthos]] — Adjacent Eídma (intensity)

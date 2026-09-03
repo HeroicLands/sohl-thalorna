@@ -84,7 +84,7 @@ data:
     - okharisrgn
   population: 4000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-tkhprcrncy
     - affiliation-crwntrdskhrs
@@ -99,13 +99,13 @@ folder: 7FEOBPGjB1skqAzO
 
 ## Overview
 
-Okháris occupies the southern edge of the [[doc-xerathia|Northern Fertile Region]] — a position that makes its membership in the region nominal rather than geographic. South of the [[doc-mtrrchybth|Matriarchy of Bethua]], southwest of [[doc-empirtkhpr|Ta'Kheperu]], and bounded on the south by the impassable [[doc-cntrlrnfrsts|Central Rainforests]], Okháris is a semi-arid kingdom of grasslands, seasonal rivers, and three great temple-cities. Where its wealthier northern neighbors built civilization on aqueducts and irrigation, Okháris built it on the herds.
+Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]] — a position that makes its membership in the region nominal rather than geographic. South of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of [[affiliation-empirtkhpr|Ta'Kheperu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a semi-arid kingdom of grasslands, seasonal rivers, and three great temple-cities. Where its wealthier northern neighbors built civilization on aqueducts and irrigation, Okháris built it on the herds.
 
 ## Geography
 
 The Okháric landscape is semi-arid savannah — rolling grasslands broken by seasonal streams, scattered acacia and baobab groves, and outcrops of red sandstone. The wet-coastal strip that Bethua and Ta'Kheperu enjoy gives out before it reaches Okháric territory; here the land runs inland from the southern margins of the fertile crescent out into the vast grass plains that roll southward to the edge of the rainforest. Summers are long and hot, rainfall erratic and concentrated in a short wet season that swells the seasonal rivers into ribbons of life before shrinking them back to chains of pools for most of the year.
 
-The southern border of the kingdom is the northern edge of the [[doc-cntrlrnfrsts|Central Rainforests]] — a wall of dense tropical jungle that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
+The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]] — a wall of dense tropical jungle that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
 
 ## Character
 
@@ -135,4 +135,4 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 
 ## Commerce and Currency
 
-Okháris uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]] — temple-attested weight-pieces of copper, silver, and gold in deben and kite units. Okháris has no native coinage; the Kheperi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-perhati|Pér-Háti]] chapters and issue letters of credit redeemable through those accounts. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]] for the Okhárian institutional arrangements.
+Okháris uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]] — temple-attested weight-pieces of copper, silver, and gold in deben and kite units. Okháris has no native coinage; the Kheperi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-perhati|Pér-Háti]] chapters and issue letters of credit redeemable through those accounts. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]] for the Okhárian institutional arrangements.

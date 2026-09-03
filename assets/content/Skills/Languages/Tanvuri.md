@@ -26,7 +26,7 @@ folder: sn9NBuZMZOBqxsYv
 
 Tānvüri is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Tānvüri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[doc-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[doc-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
+The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") — is the common tongue of the [[affiliation-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[affiliation-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
 
 ---
 
@@ -528,7 +528,7 @@ Tānvüri is a language isolate with no widely-accepted external relatives. Olde
 
 **Imperial Dialect (_Tëngvōk Thëitōk_, "Celestial Court Speech"):** The prestige standard, spoken in the capital and taught in formal education. Preserves all phonemic distinctions and classical grammatical forms.
 
-**Northern Tānvüri (_Jürthāt Thëitōk_, "Nine Mountains Speech"):** The speech of [[doc-jurthatrgn|Jürthāt]], moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from neighboring steppe languages.
+**Northern Tānvüri (_Jürthāt Thëitōk_, "Nine Mountains Speech"):** The speech of [[place-jurthatrgn|Jürthāt]], moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from neighboring steppe languages.
 
 **Southern Tānvüri:** Spoken in the agricultural and mercantile south. Greater phonological simplification, faster speech rhythms, and more extensive borrowing from trade languages.
 
@@ -558,8 +558,8 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 
 ## See Also
 
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of the empire and its culture
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of the empire and its culture
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Order (pantheon)
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The philosophy of vital energy
-- [[doc-clndrstrlgy|Calendar and Astrology]] — Calendar, months, and spirit animals
-- [[doc-personlnms|Personal Names]] — Naming conventions and examples
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The philosophy of vital energy
+- [[lore-clndrstrlgy|Calendar and Astrology]] — Calendar, months, and spirit animals
+- [[lore-personlnms|Personal Names]] — Naming conventions and examples

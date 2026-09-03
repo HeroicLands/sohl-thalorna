@@ -3,7 +3,7 @@ aliases:
   - Five Elemental Lords
 id: 3Y2gn4ElGpP6O7ny
 type: lore
-subType: folk
+subType: deity
 name:
   full: Five Elemental Lords
   aliases: []
@@ -13,9 +13,9 @@ folder: hBkQzhJeB05EwziN
 
 # The Five Elemental Lords
 
-The **Five Elemental Lords** are the elemental administrators of the [[doc-clstlpnthn|Celestial Pantheon]], each holding the portfolio for one of the five _material_ domains of classification that sustain the physical world within the [[doc-tanvurempr|Empire of Tānvür]]. They are not gods to be worshipped but **bureau chiefs to be petitioned** — powerful officials appointed during the Great Sorting to maintain the elemental categories that keep the physical world from dissolving back into the Hürnlëi.
+The **Five Elemental Lords** are the elemental administrators of the [[lore-clstlpnthn|Celestial Pantheon]], each holding the portfolio for one of the five _material_ domains of classification that sustain the physical world within the [[affiliation-tanvurempr|Empire of Tānvür]]. They are not gods to be worshipped but **bureau chiefs to be petitioned** — powerful officials appointed during the Great Sorting to maintain the elemental categories that keep the physical world from dissolving back into the Hürnlëi.
 
-The [[doc-phlsphylvr|Lëivōr philosophy]] recognizes seven domains of classification in total, but only five are material — Air, Fire, Earth, Metal, and Water — and each of these is administered by an Elemental Lord. The remaining two domains are too fundamental to the classification system itself for any single bureau chief to hold: **Spirit (Vōrlëi)** is governed collectively by the celestial bureau system (particularly the Ministry of Final Account and the Bureau of Night Counsel), and **Neutral (Hōk)** is the domain of Tānlüng himself — the unsorted energy that sustains all sorting.
+The [[lore-phlsphylvr|Lëivōr philosophy]] recognizes seven domains of classification in total, but only five are material — Air, Fire, Earth, Metal, and Water — and each of these is administered by an Elemental Lord. The remaining two domains are too fundamental to the classification system itself for any single bureau chief to hold: **Spirit (Vōrlëi)** is governed collectively by the celestial bureau system (particularly the Ministry of Final Account and the Bureau of Night Counsel), and **Neutral (Hōk)** is the domain of Tānlüng himself — the unsorted energy that sustains all sorting.
 
 Each Elemental Lord governs a domain established by Tānlüng during the [[affiliation-tngvkvnlei|Dāk Zhāklëi]] and serves beneath the senior officials of the pantheon. Their authority is jurisdictional, not personal — they administer because the classification system assigned them to administer.
 
@@ -31,7 +31,7 @@ Vëngdāk Zhütvōr is the administrator of the Air domain, responsible for ensu
 
 He is depicted as a towering figure in billowing robes, his form half-dissolved into wind, with a great war banner that snaps in a gale that affects nothing else around him. His weapon is a spear that trails a perpetual streamer of cloud. Petitions filed with his bureau request favorable winds for travel and sailing, the dispersal of miasma and stagnant air, and — most importantly — the unimpeded flow of communication across distances. Messages, omens, and bureaucratic dispatches all travel through his domain.
 
-Sailors, messengers, and those who depend on the movement of goods and information have the most frequent administrative contact with this bureau. The [[doc-nokvur|Nōkvür]] caste petitions for favorable conditions at planting and harvest, when the proper circulation of air is critical to crop health.
+Sailors, messengers, and those who depend on the movement of goods and information have the most frequent administrative contact with this bureau. The [[lore-nokvur|Nōkvür]] caste petitions for favorable conditions at planting and harvest, when the proper circulation of air is critical to crop health.
 
 ---
 
@@ -45,7 +45,7 @@ Röthöt Dākvëng governs the most practically important element in the classif
 
 He is depicted as an armored figure wreathed in flames, with a burning sword that represents the transformative power of reclassification — the capacity to change one sorted thing into another. His bureau also handles the more destructive aspects of fire, treating conflagrations and volcanic activity as transformation events that must be processed and contained.
 
-Smiths, who transform raw ore into metal through fire, are understood to be performing a physical act of reclassification and therefore maintain close administrative ties to this bureau. The [[doc-venduk|Vëndük]] who channel cosmic energy through bureaucratic forms frequently address their most complex workings to the Bureau of Transformation, since transformation is the most common magical effect.
+Smiths, who transform raw ore into metal through fire, are understood to be performing a physical act of reclassification and therefore maintain close administrative ties to this bureau. The [[lore-venduk|Vëndük]] who channel cosmic energy through bureaucratic forms frequently address their most complex workings to the Bureau of Transformation, since transformation is the most common magical effect.
 
 ---
 
@@ -59,7 +59,7 @@ Dāktūr Vōrthāt is the administrator of the Earth domain, responsible for the
 
 He is depicted as a massive, solid figure, with skin like stone and eyes like deep ancient caves. His weapon is a hammer made from the heart of the earth, representing the bureau's capacity to enforce stability. When earthquakes occur, the Tānthëi interpret them as processing disruptions in the Earth domain — not punishment, but system instability requiring administrative correction.
 
-Builders, miners, and engineers file petitions with this bureau for structural integrity, safe excavation, and the stability of foundations. The [[doc-flkkhazar|Khazári]], whose legendary mastery of stone and engineering falls within this domain, have a complex relationship with the bureau — they work within its jurisdiction when operating in the empire, while understanding their craft through an entirely different framework within their own enclaves.
+Builders, miners, and engineers file petitions with this bureau for structural integrity, safe excavation, and the stability of foundations. The [[lore-flkkhazar|Khazári]], whose legendary mastery of stone and engineering falls within this domain, have a complex relationship with the bureau — they work within its jurisdiction when operating in the empire, while understanding their craft through an entirely different framework within their own enclaves.
 
 ---
 
@@ -73,7 +73,7 @@ Vōrjīk Jëk governs the element that _draws the lines_. Metal is the domain of
 
 He is depicted as a warrior clad in gleaming armor, holding a sword that shines with the light of a thousand stars — the blade of distinction that separates what is classified from what is not. His bureau processes petitions related to judgment, precision, the forging of tools and weapons, and the maintenance of clean boundaries between categories.
 
-Weaponsmiths and judges alike petition this bureau. Warriors of the [[doc-vushok|Vüshōk]] caste, who enforce the empire's classification boundaries through force, have a natural administrative relationship with Vōrjīk Jëk's domain — they are the mortal enforcement arm, as his bureau is the elemental one.
+Weaponsmiths and judges alike petition this bureau. Warriors of the [[lore-vushok|Vüshōk]] caste, who enforce the empire's classification boundaries through force, have a natural administrative relationship with Vōrjīk Jëk's domain — they are the mortal enforcement arm, as his bureau is the elemental one.
 
 ---
 
@@ -87,10 +87,10 @@ Zhütshüt Lüng governs the element that carries Lëi between classifications, 
 
 He is depicted as a majestic dragon, his scales shimmering in shades of blue and turquoise, with a sinuous body that flows like a river — embodying the principle of classified change, movement that stays within the system rather than dissolving into the Hürnlëi. His bureau processes petitions for safe passage by water, healing (which is a reclassification of the body from disordered to ordered), purification, and the regulation of tides and rivers.
 
-Sailors, healers, and the Yātvōr physicians of the [[doc-zathuk|Zāthük]] caste maintain close administrative ties to this bureau. The healing arts in particular draw heavily on the Water domain, since restoring a body's health is understood as realigning its internal classification channels — a process that Zhütshüt Lüng's bureau administers.
+Sailors, healers, and the Yātvōr physicians of the [[lore-zathuk|Zāthük]] caste maintain close administrative ties to this bureau. The healing arts in particular draw heavily on the Water domain, since restoring a body's health is understood as realigning its internal classification channels — a process that Zhütshüt Lüng's bureau administers.
 
 ## See Also
 
-- [[doc-clstlpnthn|Celestial Pantheon]] — The senior officials of the celestial administration
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The elemental philosophy underlying these domains
-- [[doc-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework
+- [[lore-clstlpnthn|Celestial Pantheon]] — The senior officials of the celestial administration
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The elemental philosophy underlying these domains
+- [[lore-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework

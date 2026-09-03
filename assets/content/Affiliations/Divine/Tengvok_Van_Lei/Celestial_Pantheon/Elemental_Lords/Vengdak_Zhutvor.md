@@ -145,5 +145,5 @@ Mortals petition Vëngdāk Zhütvōr through offerings at earth shrines, through
 - [[affiliation-daktrvrtht|Dāktūr Vōrthāt]] — The Elemental Lord of Metal, with whom Vëngdāk Zhütvōr shares jurisdiction over ore deposits
 - [[affiliation-rothtdkvng|Röthöt Dākvëng]] — The Elemental Lord of Wood, who claims authority over living forests
 - [[affiliation-zhutshtlng|Zhütshüt Lüng]] — The Elemental Lord of Water, with whom Vëngdāk Zhütvōr disputes jurisdiction over groundwater
-- [[doc-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
+- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
 - [[Turvir|Tūrvōr]] — Territorial officials who represent the earth-based administration within specific regions

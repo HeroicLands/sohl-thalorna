@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Sidéros** is the Eídma of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-zepharis|Eídma Zephäris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sidéros is the school of the artificer, the ward-maker, the enchanter, and the lawgiver — the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
+Eídma **Sidéros** is the Eídma of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-zepharis|Eídma Zephäris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sidéros is the school of the artificer, the ward-maker, the enchanter, and the lawgiver — the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
 
 ## Philosophy
 
@@ -119,7 +119,7 @@ Politically, the Sodalitas Sidéros tends toward conservatism — it defends exi
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-zepharis|Eídma Zephäris]] — The opposing Eídma
 - [[affiliation-hydalis|Eídma Hydälis]] — Adjacent Eídma (patience)
 - [[affiliation-pneumenos|Eídma Pneuménos]] — Adjacent Eídma (binding)

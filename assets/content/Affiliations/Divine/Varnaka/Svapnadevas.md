@@ -100,7 +100,7 @@ folder: dxzsTyaF4LMapIJX
 - **Pronunciation:** _SWAP-nah-day-vahs_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Svapnadēvas** are not a single deity but a celestial court — a host of spirits who weave dreams, carry omens, and serve as intermediaries between mortal minds and the divine order. The Varṇakan tradition regards them as divine servants of [[doc-goddreams|The God of Dreams]], the ancient elder deity known under many names elsewhere in [[doc-ankrscntnnt|Ankaris Continent]] and beyond. The Varṇaka do not name that greater deity directly and do not venerate them in the manner of the organised pantheons of the west; what they revere is the Host itself, through whom the dream-power of the elder god is felt in the world.
+The **Svapnadēvas** are not a single deity but a celestial court — a host of spirits who weave dreams, carry omens, and serve as intermediaries between mortal minds and the divine order. The Varṇakan tradition regards them as divine servants of [[lore-goddreams|The God of Dreams]], the ancient elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varṇaka do not name that greater deity directly and do not venerate them in the manner of the organised pantheons of the west; what they revere is the Host itself, through whom the dream-power of the elder god is felt in the world.
 
 The Svapnadēvas draw the devotion of seers, mystics, healers of disturbed minds, and all those whose vocation requires them to read beneath the surface of events.
 
@@ -127,4 +127,4 @@ The Svapnadēvas are honoured at the edges of the day — dusk and dawn — rath
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] — the mystical assembly devoted to the Dreaming Host
-- [[doc-goddreams|The God of Dreams]] — the elder deity whose dream-power the Host serves
+- [[lore-goddreams|The God of Dreams]] — the elder deity whose dream-power the Host serves

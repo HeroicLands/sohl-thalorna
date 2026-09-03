@@ -197,3 +197,467 @@ Ch'akul Witz Ba'alam Xaman K'uxi Ki'ik Ha' Tz'alam Ix Tz'ikin Noj Witzal Tz'ikin
 - K'ich'chik Language Lexicon and Naming Guide (detailed phonology, grammar, numerology)
 - Historical records of K'ich'chik city-states
 - Astronomical texts encoding calendar mathematics in Ki'ichek
+
+## Lexicon and Naming Reference
+
+The sections below are the full reference — the phonetic and naming rules, the
+complete inflectional paradigms summarized under Grammar Notes above, and the
+working vocabulary. They were a separate note until they were folded in here,
+since a language and the skill of speaking it are one subject.
+
+## Phonetic Rules
+
+1.  **Syllables**: K’ich'chik words are typically 2-4 syllables, with occasional longer words for important concepts.
+
+2.  **Consonants**: Common consonants include:
+    - Glottal stops: `’`
+    - Hard sounds: `k`, `t`, `p`, `q`
+    - Soft sounds: `x`, `ch`, `tz`, `l`
+
+3.  **Vowels**: The five vowels (a, e, i, o, u) are pronounced clearly:
+    - `a` as in _father_
+    - `e` as in _met_
+    - `i` as in _machine_
+    - `o` as in _go_
+    - `u` as in _flute_
+
+4.  **Stress**: Stress generally falls on the second-to-last syllable unless otherwise specified.
+
+## Naming Rules
+
+1.  **Structure**:
+    - Names often follow a descriptive phrase format: _noun + verb + descriptor_, e.g., “Jaguar prowls beneath the moon.”
+
+2.  **Gendered Themes**:
+    - **Male Names**: Predatory animals, quick motion, violence, great things (e.g., mountains, storms).
+    - **Female Names**: Prey animals, flowers, stillness, peace, gentle natural features.
+
+3.  **Common Names**:
+    - Formal names are long phrases but are shortened to 1-2 syllables for informal use, often derived from the first or dominant syllable of the formal name.
+
+4.  **Titles**:
+    - Titles are appended to names to denote rank or role, e.g., _K’uk’almah_ (Overlord), _Ha’nalmah_ (Landholder).
+
+5.  **Connector Words**:
+    - **Member of Tribe**: _Tz’aqalil_ (“One Who Belongs”).
+    - **Leader of Tribe**: _Mah’alil_ (“Lord of the Tribe”).
+    - **Tq'an**
+      - **Meaning**: _Edge, boundary, or connection_
+      - **Usage**: Often used to describe a transitional or liminal state, such as the edge of a natural feature (e.g., horizon, riverbank, or dawn) or the point of connection between two elements. It can imply a sense of joining or being on the verge of something.
+    - **Ch'al**
+      - **Meaning**: _Beneath, under, or within_
+      - **Usage**: Commonly appears in phrases that describe something located under or within a larger feature, such as beneath the moonlight, under a tree, or within sacred waters. It suggests immersion, protection, or positioning relative to something overarching.
+    - **Tz'ik**
+      - **Usage**: Represents something elevated, external, or outside of an encompassing space.
+      - **Examples**:
+        - _Tz'ik k’inix_ ("Above the sunlight")
+        - _Tz'ik ha'nal_ ("Outside the river")
+    - **Xaq'al**
+      - **Usage**: Indicates disconnection, separation, or being apart from something.
+      - **Examples**:
+        - _Xaq'al ch'ulba_ ("Separate from the sacred grove")
+        - _Xaq'al k'inix_ ("Disconnected from the sunlight")
+
+## Reference Grammar
+
+### Verb Conjugation
+
+Ki’ichek verbs are inflected based on **tense**, **mood**, and **person**. The structure follows a root word to which prefixes and suffixes are added.
+
+#### Tense Markers
+
+1.  **Present Tense**: Prefix _ka-_ (e.g., _ka-tz’aqun_ – “I go”)
+2.  **Past Tense**: Prefix _na-_ (e.g., _na-tz’aqun_ – “I went”)
+3.  **Future Tense**: Prefix _ta-_ (e.g., _ta-tz’aqun_ – “I will go”)
+
+#### Person Markers
+
+- **First Person Singular**: Suffix _-ix_ (e.g., _ka-tz’aqun-ix_ – “I go”)
+- **Second Person Singular**: Suffix _-al_ (e.g., _ka-tz’aqun-al_ – “You go”)
+- **Third Person Singular**: Suffix _-um_ (e.g., _ka-tz’aqun-um_ – “He/She/It goes”)
+- **First Person Plural**: Suffix _-in_ (e.g., _ka-tz’aqun-in_ – “We go”)
+- **Second Person Plural**: Suffix _-alil_ (e.g., _ka-tz’aqun-alil_ – “You all go”)
+- **Third Person Plural**: Suffix _-umil_ (e.g., _ka-tz’aqun-umil_ – “They go”)
+
+#### Mood Markers
+
+- **Indicative**: No additional markers (default mood)
+- **Imperative**: Suffix _-ka_ (e.g., _tz’aqun-ka_ – “Go!”)
+- **Subjunctive**: Prefix _ma-_ (e.g., _ma-tz’aqun_ – “May he go”) `
+
+### Sentence Structure
+
+1.  **Basic Word Order**: Subject-Object-Verb (SOV)
+    - Example: _Ix’ik ha’nal ka-nal’un-ix_ (“The lagoon eats the river”)
+
+2.  **Modifiers**: Adjectives follow nouns, adverbs precede verbs.
+    - Example: _Ha’nal tz’uma ka-tz’aqun-ix_ (“The misty river goes”)
+
+### Noun Cases
+
+Ki’ichek nouns have six cases:
+
+1.  **Nominative**: Subject of the sentence (no marker)
+
+2.  **Accusative**: Direct object (-_ka_)
+    - Example: _Ka-tz’aqun ix’ik-ka_ (“I go to the lagoon”)
+
+3.  **Genitive**: Possession (-_il_)
+    - Example: _Ix’ik-il tz’uma_ (“The lagoon’s mist”)
+
+4.  **Dative**: Indirect object (-_an_)
+    - Example: _Ka-ch’upal ix’ik-an_ (“I carry it to the lagoon”)
+
+5.  **Ablative**: Source or separation (-_uq_)
+    - Example: _Ka-pu’tal kul’qat-uq_ (“I climb from the peak”)
+
+6.  **Locative**: Place or position (-_um_)
+    - Example: _Ix’ik-um ka-tz’anum_ (“I rest in the lagoon”)
+
+## Vocabulary
+
+### Verbs
+
+- Tz’aqun - To go
+
+- Ixan - To sleep
+
+- K’alix - To be
+
+- Ha’kan - To have
+
+- Tz’ukal - To want
+
+- Ch’upan - To work
+
+- Tz’ulam - To play
+
+- K’ayal - To see
+
+- Nal’un - To eat
+
+- Tz’ik’an - To drink
+
+- Ch’umun - To speak
+
+- P’iqal - To build
+
+- Xilan - To walk
+
+- Ha’tzul - To swim
+
+- Ixkan - To think
+
+- Tz’anum - To rest
+
+- Nal’ik’an - To dream
+
+- Pu’tal - To climb
+
+- K’ay’an - To hear
+
+- Ch’upalum - To carry
+
+### Nouns
+
+- Paqul - Table
+
+- Ch’ixum - Chair
+
+- Tz’uku - Pillow
+
+- Ha’tan - Bowl
+
+- Xil’ik - Cup
+
+- Tz’anul - Roof
+
+- Ch’umatz - Door
+
+- Tz’iqal - Blanket
+
+- Nal’ix - Spoon
+
+- K’ulqat - Knife
+
+- Tz’opil - Basket
+
+- Pu’chal - Bed
+
+- Ix’lan - Path/Trail
+
+- Ch’upal - Pot
+
+- K’ayix - Firewood
+
+- Ha’kin - Mirror
+
+- Tz’alix - Window
+
+- Pik’al - Plate
+
+- Xilum - Stool
+
+- Ha’mal - Bucket
+
+### Adjectives
+
+#### Size and Shape
+
+Ch’akal – Big, large Tz’ulun – Small, tiny Puqun – Round Tz’okil – Sharp Nalum – Flat Kul’uk – Tall Xi’tan – Short
+
+#### Color
+
+K’anul – Golden Ixchek – Silver Tz’umul – Red Xilik – Blue Ha’nak – Green Ch’upul – White P’uqan – Black
+
+#### Texture
+
+P’ikun – Soft Ch’ukun – Rough Tz’ikin – Smooth Nalix – Sticky Kulix – Hard
+
+#### Temperature
+
+Ha’kan – Cold K’ayich – Hot Tz’ikul – Warm Tz’umaq – Cool
+
+#### Quality
+
+Ix’alil – Beautiful Tz’upal – Ugly Ch’alix – Sacred, holy Nalich – Pure Ha’ikil – Dirty Kul’iq – Strong Pu’uch – Weak
+
+#### Emotions
+
+Tz’ikan – Happy Ch’atal – Sad K’aychun – Angry Nal’al – Calm Ha’mal – Fearful
+
+#### State
+
+Tz’ik’al – Sick Nal’in – Healthy Pu’chal – Full Tz’alun – Empty Kul’al – Alive Tz’uqil – Dead
+
+### Structure of the K’ich'chik Numerical System
+
+1. **Base Numbers (1–19)**: Numbers up to 19 are represented by unique words.
+2. **Multiples of 20**: Numbers from 20 onward are combinations of multiples of 20, with separate terms for higher powers of 20:
+   - K’aqil: 1 (20⁰)
+   - Winal: 20 (20¹)
+   - Bak’al: 400 (20²)
+   - Pik’al: 8,000 (20³)
+   - K’alab: 160,000 (20⁴) Higher powers follow similar patterns, though rarely used in daily life.
+3. **Positional Representation**: Each place represents a power of 20, with the first position for units, the second for 20s, the third for 400s, and so on.
+
+### K’ich'chik Numbers and Words
+
+#### Base Numbers (1–19):
+
+- Jun – 1
+- Ka – 2
+- Ox – 3
+- Kan – 4
+- Ho – 5
+- Wak – 6
+- Wuqu – 7
+- Waxak – 8
+- Bolon – 9
+- Lahun – 10
+- Buluk – 11
+- Lajun – 12
+- Oxlahun – 13
+- Kanlahun – 14
+- Holahun – 15
+- Waklahun – 16
+- Wuqulahun – 17
+- Waxaklahun – 18
+- Bolonlahun – 19
+
+#### Higher Multiples:
+
+- K’aqil – Unit
+- Winal – 20
+- Bak’al – 400
+- Pik’al – 8,000
+- K’alab – 160,000
+
+#### Combining Numbers
+
+Numbers are expressed hierarchically, starting from the highest value and descending to the lowest:
+
+1. Example: 1,325 1,325 = 3 × 400 + 6 × 20 + 5
+
+- Ox Bak'al = 3 × 400 (Three Bak’als)
+- Wak Winal = 6 × 20 (Six Winals)
+- Ho = 5 Full Expression: _Ox Bak'al Wak Winal Ho_
+
+2. Example: 57,864 57,864 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
+
+- Wuqu Pik’al = 7 × 8,000 (Seven Pik’als)
+- Kan Bak’al = 4 × 400 (Four Bak’als)
+- Wak Winal = 6 × 20 (Six Winals)
+- Kan = 4 Full Expression: _Wuqu Pik’al Kan Bak’al Wak Winal Kan_
+
+#### Zero
+
+The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz’amal** (“Shell” or “Empty”), reflecting its original representation.
+
+### Natural Features
+
+1.  **Ha’** - Water
+
+2.  **Ha’nal** - River
+
+3.  **Xik’ul** - Lake
+
+4.  **Tz’alu** - Stream
+
+5.  **K’ukut** - Delta
+
+6.  **Ix’ik** - Lagoon
+
+7.  **Ch’uqil** - Sacred Pool
+
+8.  **Nal’ik** - Spring
+
+9.  **Tz’aqa** - Cascade/Waterfall
+
+10. **Ilkan** - Shore
+
+11. **No’tun** - Mountain Range
+
+12. **K’atal** - Volcano
+
+13. **Ch’imik** - Hill
+
+14. **Tz’okil** - Cliff
+
+15. **Tz’uqan** - Ravine
+
+16. **Kul’qat** - Sacred Peak
+
+17. **Pu’utz** - Mesa
+
+18. **Xi’lan** - Lowlands
+
+19. **Tz’amik** - Plateau
+
+### Flora
+
+1.  **Paqum** - Sun Blossom
+
+2.  **Ixche** - Moon Bloom
+
+3.  **K’anix** - Golden Flower
+
+4.  **Xilba** - Ghost Orchid
+
+5.  **Tz’ikil** - Jungle Lily
+
+6.  **K’ayul** - Thunderbloom
+
+7.  **Nal’ik** - Spirit Petal
+
+8.  **Ch’utem** - Red Thorn
+
+9.  **Xaq’ik** - Water Blossom
+
+10. **Tz’uma** - Mistflower
+
+### Fauna
+
+1.  **Ix’balam** - Jaguar
+
+2.  **Xak’nal** - Eagle
+
+3.  **No’kin** - Bear
+
+4.  **Tz’okum** - Coyote
+
+5.  **Tz’amuk** - Crocodile
+
+6.  **Ch’aqun** - Serpent
+
+7.  **Pik’ik** - Owl
+
+8.  **Ha’ik** - River Otter
+
+9.  **Xi’tal** - Frog
+
+10. **No’balam** - Lion
+
+### Celestial and Spiritual Concepts
+
+1.  **K’inix** - Sunlight
+
+2.  **Tz’uqal** - Moonlight
+
+3.  **Ix’ilan** - Star
+
+4.  **Ha’maq** - Rainbow
+
+5.  **Xil’kaq** - Comet
+
+6.  **Ch’umal** - Wind Spirit
+
+7.  **Tz’anix** - Eclipse
+
+8.  **P’uqil** - Thundercloud
+
+9.  **K’aycha** - Lightning
+
+10. **Tz’umaq** - Night Sky
+
+### Sacred Concepts
+
+1.  **Ix’kanmah** - Golden Noblewoman
+
+2.  **Ch’ulba** - Ancient Tree/Sacred Grove
+
+3.  **Member of Tribe**:
+    - **Ki’ichek**: _Tz’aqalil_ (_tz’aq_ = connection or belonging, _alil_ = of the group)
+
+    - **Meaning**: "One Who Belongs"
+
+    - **Example**: _Ix’balam Tz’aqalil K’inix_ ("Jaguar of the Tribe of the Sun")
+
+4.  **Leader of Tribe**:
+    - **Ki’ichek**: _Mah’alil_ (_mah_ = lord, _alil_ = of the group)
+
+    - **Meaning**: "Lord of the Tribe"
+
+    - **Example**: _Xak’nal Mah’alil Xilan_ ("Eagle, Leader of the Tribe of the Plains")
+
+### Titles
+
+1.  **Overlord**:
+    - **Ki’ichek**: _K’uk’almah_ (_k’uk’al_ = supreme, _mah_ = lord)
+    - **Meaning**: "Supreme Lord"
+
+2.  **King**:
+    - **Ki’ichek**: _K’inmah_ (_k’in_ = sun, _mah_ = lord)
+    - **Meaning**: "Lord of the Sun"
+
+3.  **Prince**:
+    - **Ki’ichek**: _K’inilbal_ (_k’in_ = sun, _ilbal_ = shining one)
+    - **Meaning**: "Heir to the Sun"
+
+4.  **Knight**:
+    - **Ki’ichek**: _Tz’aqkanil_ (_tz’aq_ = guardian, _kanil_ = noble duty)
+    - **Meaning**: "Guardian of Honor"
+
+5.  **Lady**:
+    - **Ki’ichek**: _Ix’kanmah_ (_ix’kan_ = golden, _mah_ = lord)
+    - **Meaning**: "Golden Noblewoman"
+
+6.  **Landholder**:
+    - **Ki’ichek**: _Ha’nalmah_ (_ha’nal_ = land or river, _mah_ = lord)
+    - **Meaning**: "Lord of the Land"
+
+7.  **Guildsman**:
+    - **Ki’ichek**: _P’ik’ulbal_ (_p’ik’ul_ = craft or trade, _bal_ = servant)
+    - **Meaning**: "Keeper of the Craft"
+
+8.  **Freeman**:
+    - **Ki’ichek**: _Nal’ikbal_ (_nal’ik_ = free, _bal_ = person)
+    - **Meaning**: "Independent One"
+
+9.  **Serf**:
+    - **Ki’ichek**: _Ch’ulmaqbal_ (_ch’ulmaq_ = bound, _bal_ = person)
+    - **Meaning**: "Bound One"
+
+10. **Slave**:
+    - **Ki’ichek**: _Tz’ik’ibal_ (_tz’ik’i_ = shadow, _bal_ = person)
+    - **Meaning**: "Shadowed One"

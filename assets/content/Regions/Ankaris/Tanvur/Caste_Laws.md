@@ -3,7 +3,7 @@ aliases:
   - Caste Laws
 id: EWgtewbsESDxr4KT
 type: lore
-subType: folk
+subType: law
 name:
   full: Caste Laws
   aliases: []
@@ -13,9 +13,9 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Caste Laws of the Empire of Tānvür
 
-The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[doc-tanvurempr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
+The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[affiliation-tanvurempr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
 
-See also: [[doc-zeisik|Law and Honor]] for the legal system and punishment framework.
+See also: [[lore-zeisik|Law and Honor]] for the legal system and punishment framework.
 
 ---
 
@@ -23,14 +23,14 @@ See also: [[doc-zeisik|Law and Honor]] for the legal system and punishment frame
 
 The society of Tānvür is divided into eight castes, ranked from highest to lowest:
 
-1. **[[doc-zheklung|Zhëklüng]]** (Zhëklüng) — Sons of the Dragon. The Emperor, his family, and the Warlords. Administrative lineage designated by the celestial bureaucracy; absolute authority.
-2. **[[doc-venduk|Vëndük]]** (Vëndük) — Chattel Sorcerers. Born with innate magical ability, bound to serve the Zhëklüng. The only caste permitted to practice magic.
-3. **[[doc-vushok|Vüshōk]]** (Vüshōk) — Warrior Nobility. Military commanders and administrators who hold the exclusive right to bear arms and lead troops.
-4. **[[doc-tanthei|Tānthëi]]** (Tānthëi) — Celestial Scholars. Interpreters of omens, keepers of sacred texts, and advisors on celestial law.
-5. **[[doc-zathuk|Zāthük]]** (Zāthük) — Artisans, Craftsmen, and Common Warriors. The productive backbone of the economy, including the Vüsrën (common soldiers) and the Yātvōr (healers).
-6. **[[doc-nokvur|Nōkvür]]** (Nōkvür) — Peasant Farmers. Those who work the land and provide the empire's food. Home to the Lëigürt (Spirit Masters).
-7. **[[doc-shukren|Shükrën]]** (Shükrën) — Merchants and Usurers. Those who trade and finance but do not create goods themselves.
-8. **[[doc-nutzok|Nützōk]]** (Nützōk) — Slaves and Outcasts. The lowest caste, with almost no rights and no path to advancement.
+1. **[[lore-zheklung|Zhëklüng]]** (Zhëklüng) — Sons of the Dragon. The Emperor, his family, and the Warlords. Administrative lineage designated by the celestial bureaucracy; absolute authority.
+2. **[[lore-venduk|Vëndük]]** (Vëndük) — Chattel Sorcerers. Born with innate magical ability, bound to serve the Zhëklüng. The only caste permitted to practice magic.
+3. **[[lore-vushok|Vüshōk]]** (Vüshōk) — Warrior Nobility. Military commanders and administrators who hold the exclusive right to bear arms and lead troops.
+4. **[[lore-tanthei|Tānthëi]]** (Tānthëi) — Celestial Scholars. Interpreters of omens, keepers of sacred texts, and advisors on celestial law.
+5. **[[lore-zathuk|Zāthük]]** (Zāthük) — Artisans, Craftsmen, and Common Warriors. The productive backbone of the economy, including the Vüsrën (common soldiers) and the Yātvōr (healers).
+6. **[[lore-nokvur|Nōkvür]]** (Nōkvür) — Peasant Farmers. Those who work the land and provide the empire's food. Home to the Lëigürt (Spirit Masters).
+7. **[[lore-shukren|Shükrën]]** (Shükrën) — Merchants and Usurers. Those who trade and finance but do not create goods themselves.
+8. **[[lore-nutzok|Nützōk]]** (Nützōk) — Slaves and Outcasts. The lowest caste, with almost no rights and no path to advancement.
 
 ---
 
@@ -38,13 +38,13 @@ The society of Tānvür is divided into eight castes, ranked from highest to low
 
 Several rules apply across all castes:
 
-**Magic is restricted to the Vëndük.** Any practice of magic by a non-Vëndük is punishable by immediate death. All children, regardless of caste, are tested for magical inclination at age 10. Those with ability are converted to [[doc-venduk|Vëndük]] status.
+**Magic is restricted to the Vëndük.** Any practice of magic by a non-Vëndük is punishable by immediate death. All children, regardless of caste, are tested for magical inclination at age 10. Those with ability are converted to [[lore-venduk|Vëndük]] status.
 
-**Marriage follows strict caste rules.** Legal marriage is reserved for [[doc-zheklung|Zhëklüng]], [[doc-vushok|Vüshōk]], [[doc-tanthei|Tānthëi]], and [[doc-zathuk|Zāthük]]. Lower castes may cohabitate but their unions carry no legal standing. See [[doc-marriage|Marriage]] for full customs.
+**Marriage follows strict caste rules.** Legal marriage is reserved for [[lore-zheklung|Zhëklüng]], [[lore-vushok|Vüshōk]], [[lore-tanthei|Tānthëi]], and [[lore-zathuk|Zāthük]]. Lower castes may cohabitate but their unions carry no legal standing. See [[lore-marriage|Marriage]] for full customs.
 
-**Personal names are an honor, not a right.** Most people are identified by clan, position, and region. Named individuals have earned that distinction through service. See [[doc-personlnms|Personal Names]] for naming conventions.
+**Personal names are an honor, not a right.** Most people are identified by clan, position, and region. Named individuals have earned that distinction through service. See [[lore-personlnms|Personal Names]] for naming conventions.
 
-**The caste system is nearly inescapable.** Movement between castes is extraordinarily rare. The only regular exception is the magical testing of children, which can elevate a child to [[doc-venduk|Vëndük]] or place a non-magical Vëndük child into [[doc-nokvur|Nōkvür]].
+**The caste system is nearly inescapable.** Movement between castes is extraordinarily rare. The only regular exception is the magical testing of children, which can elevate a child to [[lore-venduk|Vëndük]] or place a non-magical Vëndük child into [[lore-nokvur|Nōkvür]].
 
 ---
 
@@ -70,13 +70,13 @@ The tablets vary in quality and elaboration by caste. A Zhëklüng's tablet is l
 
 The system of Zhāk Müt extends to foreigners who have obtained classification. A merchant carrying a Shükrën Dōk Thōk (temporary trading classification) receives a corresponding tablet valid for the duration of their business. A foreigner classified by imperial decree receives a tablet bearing the Emperor's own seal — an object of considerable prestige and, in practical terms, a guarantee of safe passage throughout the empire.
 
-Forging a Zhāk Müt is among the most serious crimes in the Tëng Lüt. It is not merely fraud — it is an act of unauthorized reclassification, an attempt to place oneself in a category that the cosmic order did not assign. The penalty is execution, carried out publicly as a demonstration that the classification system cannot be circumvented. The [[doc-intrnlsbvrsvthrts|Black Lotus Society]] is known to traffic in forged tablets, which is one of the many reasons the empire considers them an existential threat rather than a mere criminal nuisance.
+Forging a Zhāk Müt is among the most serious crimes in the Tëng Lüt. It is not merely fraud — it is an act of unauthorized reclassification, an attempt to place oneself in a category that the cosmic order did not assign. The penalty is execution, carried out publicly as a demonstration that the classification system cannot be circumvented. The [[lore-intrnlsbvrsvthrts|Black Lotus Society]] is known to traffic in forged tablets, which is one of the many reasons the empire considers them an existential threat rather than a mere criminal nuisance.
 
 ---
 
 ## Foreigners and the Unclassified
 
-The caste system classifies the inhabitants of the empire. Foreigners — traders from [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]], diplomats from [[doc-vylarinmpr|Vylarian Empire]], scholars from [[doc-helionis|Heliónis]], wanderers from anywhere beyond the empire's borders — are _not inhabitants_. They have no caste, no moral ledger, no ancestor spirits posted within the celestial bureaucracy, and no bureau with jurisdiction over their affairs. In the classification cosmology, they are **unclassified material** — not hostile like the Hürnlëi, but simply unsorted. A document that arrived at the office without a filing number.
+The caste system classifies the inhabitants of the empire. Foreigners — traders from [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], diplomats from [[affiliation-vylarinmpr|Vylarian Empire]], scholars from [[place-helionis|Heliónis]], wanderers from anywhere beyond the empire's borders — are _not inhabitants_. They have no caste, no moral ledger, no ancestor spirits posted within the celestial bureaucracy, and no bureau with jurisdiction over their affairs. In the classification cosmology, they are **unclassified material** — not hostile like the Hürnlëi, but simply unsorted. A document that arrived at the office without a filing number.
 
 This is not a metaphor. The Tānvüri genuinely understand foreigners as existing outside the cosmic order. A foreigner has no spiritual infrastructure within the empire: temples cannot process their petitions (no moral ledger on file), magistrates have no framework for adjudicating their disputes (no caste to determine jurisdiction), and the celestial administration has no bureau assigned to their affairs. They are, in administrative terms, _invisible_ — present in the physical world but absent from the cosmic filing system.
 
@@ -100,19 +100,19 @@ Even a foreigner with a bureau classification remains permanently marked as _oth
 
 ## The Elder Races and the Classification System
 
-The [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] present an entirely different case from foreign humans. They are not unclassified. They predate the empire — indeed, they predate humanity — and the classification system has already absorbed them. The Great Sorting, the Tānthëi teach, classified _all_ of existence, including beings that existed long before humans were organized into the caste system. The Elder Races were sorted. They have their place.
+The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] present an entirely different case from foreign humans. They are not unclassified. They predate the empire — indeed, they predate humanity — and the classification system has already absorbed them. The Great Sorting, the Tānthëi teach, classified _all_ of existence, including beings that existed long before humans were organized into the caste system. The Elder Races were sorted. They have their place.
 
 But that place is not quite the same as the human caste hierarchy. The Elder Races are **classified functionally** — slotted into the caste system based on the role they perform within the empire, not based on the cosmological reasoning that underlies the human castes. The distinction is subtle but important: a human Zāthük artisan is Zāthük because the Great Sorting designated that classification for craft-workers. A Sinalo master jeweler is classified as Zāthük because that is the closest administrative category the system has for what they do. The classification fits, but it was not _designed_ for them.
 
 ### Caste Placement
 
-**Zāthük (the majority):** Most Sinalë and Khazári within the empire are classified as [[doc-zathuk|Zāthük]]. Their legendary craftsmanship — Sinalëan woodwork, textiles, and jewelry; Khazárian metalwork, masonry, and engineering — makes this the obvious functional classification. Their work commands extraordinary prices and respect, often elevating individual Elder Race artisans to wealth and influence that far exceeds their nominal caste standing. See [[doc-zathuk|Elder Races Among Zāthük]] for details.
+**Zāthük (the majority):** Most Sinalë and Khazári within the empire are classified as [[lore-zathuk|Zāthük]]. Their legendary craftsmanship — Sinalëan woodwork, textiles, and jewelry; Khazárian metalwork, masonry, and engineering — makes this the obvious functional classification. Their work commands extraordinary prices and respect, often elevating individual Elder Race artisans to wealth and influence that far exceeds their nominal caste standing. See [[lore-zathuk|Elder Races Among Zāthük]] for details.
 
-**Tānthëi (scholars and priests):** Sinalëan sages and Khazárian masters of engineering and earth-lore are classified as [[doc-tanthei|Tānthëi]] when their knowledge proves valuable to the empire's scholarly and spiritual institutions. Elder Race priests — those who maintain their own peoples' spiritual traditions — are also classified here, since "keeper of sacred knowledge" is the closest functional equivalent the caste system offers. See [[doc-tanthei|Elder Races Among Tānthëi]] for details.
+**Tānthëi (scholars and priests):** Sinalëan sages and Khazárian masters of engineering and earth-lore are classified as [[lore-tanthei|Tānthëi]] when their knowledge proves valuable to the empire's scholarly and spiritual institutions. Elder Race priests — those who maintain their own peoples' spiritual traditions — are also classified here, since "keeper of sacred knowledge" is the closest functional equivalent the caste system offers. See [[lore-tanthei|Elder Races Among Tānthëi]] for details.
 
-**Vüshōk (warriors and nobility):** Khazárian warriors of proven valor and Sinalëan officers who serve in the empire's military are classified as [[doc-vushok|Vüshōk]]. Elder Race nobility — the leaders of enclaves and strongholds who must interface with the imperial administration — are also placed here, since the Vüshōk classification grants the administrative authority needed to manage relations between their people and the empire. See [[doc-vushok|Elder Races Among Vüshōk]] and [[doc-zheklung|Elder Races Among Zhëklüng]] for the rare cases of Zhëklüng classification.
+**Vüshōk (warriors and nobility):** Khazárian warriors of proven valor and Sinalëan officers who serve in the empire's military are classified as [[lore-vushok|Vüshōk]]. Elder Race nobility — the leaders of enclaves and strongholds who must interface with the imperial administration — are also placed here, since the Vüshōk classification grants the administrative authority needed to manage relations between their people and the empire. See [[lore-vushok|Elder Races Among Vüshōk]] and [[lore-zheklung|Elder Races Among Zhëklüng]] for the rare cases of Zhëklüng classification.
 
-**Never Vëndük:** Despite the fact that magic is intrinsic to the Elder Races — woven into their nature in a way that has no human equivalent — no Sinalo or Khazár is ever classified as [[doc-venduk|Vëndük]]. The Vëndük classification is specifically for humans with innate magical ability who must be controlled through the chattel system. Elder Race magic operates outside the bureaucratic petition model entirely — it is not channeled through mental forms built from aura in the way that human magic (whether Ordo or Vëndük) functions. The classification system can _categorize_ the Elder Races, but it cannot fully _explain_ their magic, which is a theological loose end that the [[doc-tanthei|Tānthëi]] find deeply uncomfortable and prefer not to examine too closely.
+**Never Vëndük:** Despite the fact that magic is intrinsic to the Elder Races — woven into their nature in a way that has no human equivalent — no Sinalo or Khazár is ever classified as [[lore-venduk|Vëndük]]. The Vëndük classification is specifically for humans with innate magical ability who must be controlled through the chattel system. Elder Race magic operates outside the bureaucratic petition model entirely — it is not channeled through mental forms built from aura in the way that human magic (whether Ordo or Vëndük) functions. The classification system can _categorize_ the Elder Races, but it cannot fully _explain_ their magic, which is a theological loose end that the [[lore-tanthei|Tānthëi]] find deeply uncomfortable and prefer not to examine too closely.
 
 ### The Dual Existence
 
@@ -122,15 +122,15 @@ But within their own enclaves — the Sinalëan forest sanctuaries, the Khazári
 
 This dual existence creates a persistent tension that the empire manages but never resolves. The classification system insists that it sorted _everything_ — including the Elder Races. The Elder Races' quiet refusal to internalize their classifications is, from the cosmological perspective, a low-grade classification breach that has been ongoing for millennia. The Tānthëi are aware of this contradiction and have collectively decided not to think about it too hard.
 
-See [[doc-elderraces|Elder Races]] for full details on territories, autonomy, cultural interactions, military cooperation, and diplomatic relations.
+See [[lore-elderraces|Elder Races]] for full details on territories, autonomy, cultural interactions, military cooperation, and diplomatic relations.
 
 ---
 
 ## See Also
 
-- [[doc-zeisik|Law and Honor]] — The Tëng Lüt (Heavenly Law) and punishment framework
-- [[doc-marriage|Marriage]] — Marriage customs and caste restrictions
-- [[doc-personlnms|Personal Names]] — Naming conventions
-- [[doc-numerology|Numerology]] — Auspicious and inauspicious numbers
-- [[doc-elderraces|Elder Races]] — How [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] fit within the caste system
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial governance and structure
+- [[lore-zeisik|Law and Honor]] — The Tëng Lüt (Heavenly Law) and punishment framework
+- [[lore-marriage|Marriage]] — Marriage customs and caste restrictions
+- [[lore-personlnms|Personal Names]] — Naming conventions
+- [[lore-numerology|Numerology]] — Auspicious and inauspicious numbers
+- [[lore-elderraces|Elder Races]] — How [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] fit within the caste system
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial governance and structure

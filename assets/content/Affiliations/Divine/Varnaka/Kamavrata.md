@@ -105,7 +105,7 @@ folder: dxzsTyaF4LMapIJX
 
 Kāmavrata is the god of desire and of the creative joy that issues from it. He is the patron of lovers, of the newly married, of those hoping for a child, and of the many arts — poetry, music, dance, sculpture, the preparation of scented oils, the keeping of gardens — by which the beauty of the world is brought out and celebrated. In the theology of the pantheon, his work is the counterpart of [[affiliation-vyalendra|Vyālendra]]'s: where Vyālendra gives the world its form, Kāmavrata gives it its delight.
 
-The Kāmavratan tradition is widely loved throughout [[doc-vedyarargn|Vedyara Region]]. His shrines are often sited near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not otherwise identify as Varṇakan nevertheless observe at least one of Kāmavrata's festivals.
+The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines are often sited near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not otherwise identify as Varṇakan nevertheless observe at least one of Kāmavrata's festivals.
 
 ## Aspects
 

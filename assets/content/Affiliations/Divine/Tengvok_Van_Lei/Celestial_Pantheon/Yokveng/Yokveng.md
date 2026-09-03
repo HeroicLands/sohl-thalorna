@@ -122,7 +122,7 @@ The Yokveng also houses a large population of lesser demonic beings — the [[af
 
 The Yokveng is not accessible to mortals in the ordinary sense — one does not travel there by any geographic means — but its influence bleeds into the classified cosmos through weak points in the classification system: archives that have been neglected, rituals that have been improperly performed, households whose ancestor tablets have been destroyed, and territories where the imperial administration's reach has frayed. Mortals who seek contact with the Yokveng can find it in such places, and mortals who do not seek contact can nonetheless be found by the Yokveng when they venture too close to its weak points.
 
-The cult of the Demon Lords among mortals — most conspicuously the [[affiliation-nuszokreit|Nüszōk Rëit]] — is the most sustained organized engagement between the Yokveng and imperial society in the present era. The orthodox imperial religion regards such worship as the gravest possible heresy, and the [[doc-tanthei|Tānthëi]] have devoted substantial theological labor to refuting the cult's claim that the Demon Lords represent the truth of the Bureaucracy rather than its pathology.
+The cult of the Demon Lords among mortals — most conspicuously the [[affiliation-nuszokreit|Nüszōk Rëit]] — is the most sustained organized engagement between the Yokveng and imperial society in the present era. The orthodox imperial religion regards such worship as the gravest possible heresy, and the [[lore-tanthei|Tānthëi]] have devoted substantial theological labor to refuting the cult's claim that the Demon Lords represent the truth of the Bureaucracy rather than its pathology.
 
 ## See Also
 
@@ -130,4 +130,4 @@ The cult of the Demon Lords among mortals — most conspicuously the [[affiliati
 - [[affiliation-hurnzhuk|Hürnzhük]], [[affiliation-vekthor|Vëkthōr]], [[affiliation-zhaksok|Zhāksōk]], [[affiliation-nushot|Nüshöt]], [[affiliation-dokyok|Dōkyök]] — The Demon Lords
 - [[affiliation-yvlesrdmns|Lesser Demons]] — The Yōkvëng under the Lords' authority
 - [[affiliation-nuszokreit|Nüszōk Rëit]] — The mortal cult that worships the Demon Lords
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose classification system the Yokveng shadows

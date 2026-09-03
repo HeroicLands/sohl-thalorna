@@ -94,7 +94,7 @@ data:
     - takheperurgn
   population: 900000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
@@ -109,11 +109,11 @@ folder: 9wsmaBsHPmmto2k3
 
 ## Overview
 
-Sau-Neferu — "the fair land of Sau" — is the garden coast of the [[doc-deltanomes|delta]], a wet, mild strip running west along the [[doc-vylarianse|Vylarian Sea]] shore where the sea-air and the winter rains grow what the river-valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of [[doc-empirtkhpr|The Empire of Ta'Kheperu]] and the export markets of [[doc-midhalnrgn|Mídhalión Region]]. It is also the prettiest country in the empire, and the merchant-princes of [[doc-nomeprnkht|Per-Ankhet]] and the other ports keep their country villas here, so that the nome is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-kemtnpnthn|Íšét]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
+Sau-Neferu — "the fair land of Sau" — is the garden coast of the [[affiliation-deltanomes|delta]], a wet, mild strip running west along the [[place-vylarianse|Vylarian Sea]] shore where the sea-air and the winter rains grow what the river-valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and the export markets of [[place-midhalnrgn|Mídhalión Region]]. It is also the prettiest country in the empire, and the merchant-princes of [[affiliation-nomeprnkht|Per-Ankhet]] and the other ports keep their country villas here, so that the nome is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-kemtnpnthn|Íšét]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
 
 ## Character
 
-Sau-Neferu is gentle, green, and comfortable — the soft underbelly of the hard-nosed delta. Where [[doc-nomeprnkht|Per-Ankhet]] is all quay and counting-house, Sau-Neferu is groves and garden-walls, press-houses and wine-cellars, and the long low villas of families who made their fortunes at sea and now spend them ashore. The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the nome as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country — Íšét's birth-shrines and Hápi's harvest-feasts fill its calendar — and it has the lowest opinion of hard work and the highest opinion of a good vintage of any nome in the empire.
+Sau-Neferu is gentle, green, and comfortable — the soft underbelly of the hard-nosed delta. Where [[affiliation-nomeprnkht|Per-Ankhet]] is all quay and counting-house, Sau-Neferu is groves and garden-walls, press-houses and wine-cellars, and the long low villas of families who made their fortunes at sea and now spend them ashore. The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the nome as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country — Íšét's birth-shrines and Hápi's harvest-feasts fill its calendar — and it has the lowest opinion of hard work and the highest opinion of a good vintage of any nome in the empire.
 
 ## Economy
 
@@ -129,8 +129,8 @@ Luxury agriculture is the whole of it. The nome grows and processes the empire's
 
 ## Settlements
 
-- **[[doc-sau|Sau]]** (~45,000) — the nome capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of [[affiliation-kemtnpnthn|Íšét]], the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Haty'a.
-- **[[doc-tjebu|Tjebu]]** (~12,000) — a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to Per-Ankhet and beyond.
+- **[[place-sau|Sau]]** (~45,000) — the nome capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of [[affiliation-kemtnpnthn|Íšét]], the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Haty'a.
+- **[[place-tjebu|Tjebu]]** (~12,000) — a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to Per-Ankhet and beyond.
 - **The orchard villages:** dozens of small farm-and-press communities of 500–2,500 dot the garden strip — among them Per-Iuset, Hut-Neferu, Sma-Tjebu, Iat-Khenet, and Per-Sheny — each tending its groves and vines and sending oil, wine, and fruit to the market-towns.
 
 ## For the Worldbuilder
@@ -139,12 +139,12 @@ Sau-Neferu is the empire's pleasure-garden — run it as a place of wealth at re
 
 ## Commerce and Currency
 
-Sau-Neferu uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Per-Ankhet's harbor, banked and exchanged through the [[affiliation-perhati|Pér-Háti]] agents who serve the merchant villas. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Sau-Neferu uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Per-Ankhet's harbor, banked and exchanged through the [[affiliation-perhati|Pér-Háti]] agents who serve the merchant villas. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-deltanomes|The Delta Nomes]] — Parent nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[doc-sau|Sau]] — Nome capital
-- [[doc-nomeprnkht|The Nome of Per-Ankhet]] — Neighboring port-nome whose merchants summer here
+- [[affiliation-deltanomes|The Delta Nomes]] — Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[place-sau|Sau]] — Nome capital
+- [[affiliation-nomeprnkht|The Nome of Per-Ankhet]] — Neighboring port-nome whose merchants summer here
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon

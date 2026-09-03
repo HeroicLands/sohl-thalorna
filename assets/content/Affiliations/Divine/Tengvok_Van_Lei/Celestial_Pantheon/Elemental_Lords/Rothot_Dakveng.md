@@ -141,4 +141,4 @@ Mortals petition Röthöt Dākvëng through offerings at temple shrines, through
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Röthöt Dākvëng shares jurisdiction over forests
 - [[Neizat|Nëizāt]] — Overseer of the Bureau of Persistence, whose authority over "continuity" Röthöt Dākvëng resists
 - [[Zhutrhot|Zhürhöt]] — Overseer of the Bureau of Transformation, with whom Röthöt Dākvëng disputes jurisdiction over worked wood and fuel wood
-- [[doc-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
+- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords

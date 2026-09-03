@@ -98,13 +98,13 @@ folder:
 _Kheperi: Pér-Háti — "the House of the Account"_
 
 - **Type:** Religious-institutional treasury network; the Kheperi temple banking system
-- **Region:** [[doc-empirtkhpr|The Empire of Ta'Kheperu]] (direct presence); the [[doc-mtrrchybth|Matriarchy of Bethûa]] and the kingdom of [[doc-okharis|Okháris]] (through correspondent arrangements with local institutions)
+- **Region:** [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] (direct presence); the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] and the kingdom of [[affiliation-okharis|Okháris]] (through correspondent arrangements with local institutions)
 - **Authority:** The senior Kemetian priesthood, under the formal patronage of the Per-Aá
 - **Founded:** Predates the current dynasty; the institution is older than reliable record
 
 ## Overview
 
-Pér-Háti is the institutional name for the network of temple-treasuries that constitutes the [[doc-empirtkhpr|Kheperi]] banking system — and, by extension, the banking system of the entire Northern Fertile Region of Xerathia. Each major Kheperi temple of consequence maintains a Pér-Háti chapter: a treasury arm whose responsibilities include attesting the weight-pieces that circulate as the empire's currency, holding the great granaries that anchor the grain-credit economy, maintaining the ledgers that record every Kheperi noble house's commercial affairs, and issuing the **temple chits** that serve as the region's equivalent of paper script.
+Pér-Háti is the institutional name for the network of temple-treasuries that constitutes the [[affiliation-empirtkhpr|Kheperi]] banking system — and, by extension, the banking system of the entire Northern Fertile Region of Xerathia. Each major Kheperi temple of consequence maintains a Pér-Háti chapter: a treasury arm whose responsibilities include attesting the weight-pieces that circulate as the empire's currency, holding the great granaries that anchor the grain-credit economy, maintaining the ledgers that record every Kheperi noble house's commercial affairs, and issuing the **temple chits** that serve as the region's equivalent of paper script.
 
 The institution is _religious_ in form. It is administered by the priesthood, governed by religious authority, and theologically embedded in Kemetian doctrine — every Pér-Háti act is conducted as a form of temple service, every fee is framed as a votive offering, every senior officer is a priest of one of the great gods. This distinguishes Pér-Háti structurally from its Vylarian counterpart, the [[affiliation-aerarimmpr|The Aerarium Imperii]], which is a _state_ institution under imperial governance. The functional services are similar (treasury, central bank, ledger-clearing, credit issuance); the institutional logic and political position are fundamentally different.
 

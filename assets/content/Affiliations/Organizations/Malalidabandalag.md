@@ -90,7 +90,7 @@ folder:
 _Old Norse: "Pay-Troop Compact" — the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]] — the five kingdoms of [[doc-kngdmnrdhm|Nordheim]], [[doc-kingdmnrgd|Norgaad]], [[doc-kngdmvthgrd|Vithgard]], [[doc-kingdmtrgd|Targud]], and [[doc-kingdomlgn|Malagna]]
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]
 - **Seat:** The Compact-Hall at Hringstead, on the border of Nordheim and Vithgard — a neutral ground guaranteed by all five kingdoms
 
 ## Overview
@@ -133,7 +133,7 @@ Unsigned and notable: **The [[affiliation-blckpnwlvs|Blackpine Wolves]]** of Vry
 - **The five Nordland Crowns** — clients and protectors. Each kingdom hires from the Compact regularly and has a standing arrangement permitting Compact-signed companies to recruit within its borders. The kingdoms also collectively guarantee the Hall's neutrality.
 - **The [[affiliation-skaldscrcl|Skalds' Circle]]** — formal hospitality and mutual recognition. The skalds carry company histories, sing the deaths of fallen captains, and serve as itinerant messengers between the Hall and its scattered companies. A skald is welcome at any signed company's fire.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** — wary. The Ordo has tried twice to charter its own military arm in the Nordlands and has been refused both times; the Compact treats Ordo presence in its hiring markets as an intrusion to be managed.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]], particularly the [[affiliation-graytide|Gray Tide]]** — the Compact does not contract with the syndicates and expels members caught doing so. The Gray Tide responds by undercutting Compact pricing on coastal contracts where it can.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], particularly the [[affiliation-graytide|Gray Tide]]** — the Compact does not contract with the syndicates and expels members caught doing so. The Gray Tide responds by undercutting Compact pricing on coastal contracts where it can.
 
 ## Identifying Marks
 

@@ -4,7 +4,7 @@ aliases:
   - Thatlung
 id: dShd6mhcDw4j2zkN
 type: lore
-subType: folk
+subType: history
 name:
   full: Thātlüng
   aliases: []
@@ -14,7 +14,7 @@ folder: l3wIL8UihJI5nx6L
 
 # The Thātlüng ("Mountain Dragon")
 
-A devastating earthquake has struck the remote northwest territories of the [[doc-tanvurempr|Empire of Tānvür]], a region long home to the [[doc-flksinale|Sinalë]] in their ancient forests and [[doc-flkkhazar|Khazári]] in their mountain strongholds. The earthquake, unprecedented in severity, has unearthed something terrifying: the **Thātlüng**.
+A devastating earthquake has struck the remote northwest territories of the [[affiliation-tanvurempr|Empire of Tānvür]], a region long home to the [[lore-flksinale|Sinalë]] in their ancient forests and [[lore-flkkhazar|Khazári]] in their mountain strongholds. The earthquake, unprecedented in severity, has unearthed something terrifying: the **Thātlüng**.
 
 ## The Thātlüng: The New Predators
 
@@ -38,7 +38,7 @@ The imperial government is in a difficult position. While there is sympathy for 
 
 ## See Also
 
-- [[doc-dreadspawn|Dreadspawn]] — Another supernatural threat facing the empire
-- [[doc-flksinale|Sinalë]] — The elder race bearing the brunt of this threat
-- [[doc-flkkhazar|Khazári]] — The deep folk fighting to contain the creatures
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire's response to the crisis
+- [[lore-dreadspawn|Dreadspawn]] — Another supernatural threat facing the empire
+- [[lore-flksinale|Sinalë]] — The elder race bearing the brunt of this threat
+- [[lore-flkkhazar|Khazári]] — The deep folk fighting to contain the creatures
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire's response to the crisis

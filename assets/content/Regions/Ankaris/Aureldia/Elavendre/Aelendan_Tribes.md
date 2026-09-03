@@ -87,7 +87,7 @@ data:
     - alndntrblnds
   population: 500000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -107,4 +107,4 @@ Sacred sites are a special category. Authority over them falls to the **[[affili
 
 ## Commerce and Currency
 
-Áelendan Tribes uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Áelendan Tribes is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Áelendan Tribes uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Áelendan Tribes is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.

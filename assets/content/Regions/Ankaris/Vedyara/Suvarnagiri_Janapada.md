@@ -99,7 +99,7 @@ data:
     - vedyarargn
   population: 35000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
@@ -111,7 +111,7 @@ terran_analog: "Medieval South Indian temple-republic with mineral-resource weal
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain. It is one of the wealthier and more institutionally elaborate janapadas of the [[doc-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom.
+The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom.
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
@@ -151,7 +151,7 @@ A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at e
 
 ## Economy
 
-Beyond the gold, Suvarṇagiri's economy includes the standard Vedyari upland agricultural mix (millet, mountain rice, pulses, certain temperate fruits that don't grow on the lowland plain), an unusually well-developed metallurgical tradition (the local iron-smelting work, fed by gold-byproduct knowledge, is some of the best in inland Vedyara), and a thriving jeweler's quarter at Lower Suvarṇagiri whose work — using both the local gold and gemstones imported from [[doc-chandrapur|Chandrapur]] — has a continental reputation, second only to Chandrapur's own.
+Beyond the gold, Suvarṇagiri's economy includes the standard Vedyari upland agricultural mix (millet, mountain rice, pulses, certain temperate fruits that don't grow on the lowland plain), an unusually well-developed metallurgical tradition (the local iron-smelting work, fed by gold-byproduct knowledge, is some of the best in inland Vedyara), and a thriving jeweler's quarter at Lower Suvarṇagiri whose work — using both the local gold and gemstones imported from [[affiliation-chandrapur|Chandrapur]] — has a continental reputation, second only to Chandrapur's own.
 
 The janapada exports gold (about half of annual extraction is sold or traded to the wider Vedyari economy, generating the cash that funds many of the common-share expenditures), iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahájaya tradition. It imports textiles, books, gemstones, salt, and the various luxuries the wealthier Suvarnagiri can afford within their constitutional caps.
 
@@ -169,17 +169,17 @@ The reinforcements are the more important defense. Suvarṇagiri maintains forma
 
 **The Twenty-Eight**, the collective designation of the heads of the twenty-eight hereditary panning-families. They meet quarterly to coordinate their work, settle inter-family disputes, and present a united view to the sabhā on questions affecting the panning regime. They are not technically a constitutional body, but they have a recognized voice in any sabhā discussion of panning-related matters and their joint pronouncements carry weight.
 
-**Padmavali Dhanurvedakirtiraja**, the most prominent recent Suvarnagiri-born scholar to have made a name in the wider Vedyari classical tradition. Currently teaching at one of the great academies of [[doc-chandrapur|Chandrapur]]; her commentary on the Suvarnagiri Gold Constitution is one of the major recent contributions to Vedyari political-philosophical literature.
+**Padmavali Dhanurvedakirtiraja**, the most prominent recent Suvarnagiri-born scholar to have made a name in the wider Vedyari classical tradition. Currently teaching at one of the great academies of [[affiliation-chandrapur|Chandrapur]]; her commentary on the Suvarnagiri Gold Constitution is one of the major recent contributions to Vedyari political-philosophical literature.
 
 ## Commerce and Currency
 
-Suvarṇagiri Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-suvaragiri|Suvarṇagiri]] — the central town settlement note
-- [[doc-chandrapur|Chandrapur]] — major trading partner
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-suvaragiri|Suvarṇagiri]] — the central town settlement note
+- [[affiliation-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

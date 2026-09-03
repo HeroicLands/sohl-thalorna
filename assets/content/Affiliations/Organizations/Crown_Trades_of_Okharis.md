@@ -89,13 +89,13 @@ folder:
 # The Crown Trades of Okháris
 
 - **Type:** Royal-chartered trade guilds; small federation of urban commercial institutions
-- **Region:** The kingdom of [[doc-okharis|Okháris]] — based in the three great temple-cities of **Zarhánis**, **Kaljékor**, and **Vuthráka**; activity extends into the surrounding savannah through tribal-clan trade relationships
+- **Region:** The kingdom of [[affiliation-okharis|Okháris]] — based in the three great temple-cities of **Zarhánis**, **Kaljékor**, and **Vuthráka**; activity extends into the surrounding savannah through tribal-clan trade relationships
 - **Authority:** Royal charter from the Okháric crown; each charter renewed at the accession of each new king
 - **Founded:** The major charters are ancient (predating the current dynasty by several centuries); the federation as a coordinating body is much newer (perhaps a century old)
 
 ## Overview
 
-The Crown Trades of Okháris are the small number of major chartered guilds that handle the kingdom's settled-urban commerce. Unlike the dense guild ecology of Vylarian territory or the matriarchal trade-house network of [[doc-mtrrchybth|Bethûa]], Okhárian commercial life is dominated by a handful of large, royally-chartered institutions concentrated in the three temple-cities. The remainder of Okhárian economic activity — the nomadic-pastoralist herding that sustains most of the population — operates outside any guild structure, organized through tribal-clan relationships and seasonal exchange at the temple-city festivals.
+The Crown Trades of Okháris are the small number of major chartered guilds that handle the kingdom's settled-urban commerce. Unlike the dense guild ecology of Vylarian territory or the matriarchal trade-house network of [[affiliation-mtrrchybth|Bethûa]], Okhárian commercial life is dominated by a handful of large, royally-chartered institutions concentrated in the three temple-cities. The remainder of Okhárian economic activity — the nomadic-pastoralist herding that sustains most of the population — operates outside any guild structure, organized through tribal-clan relationships and seasonal exchange at the temple-city festivals.
 
 The principal Crown Trades are:
 

@@ -3,7 +3,7 @@ aliases:
   - Celestial Order
 id: Y9Um0puZOcYHNgXy
 type: lore
-subType: folk
+subType: theology
 name:
   full: Celestial Order
   aliases: []
@@ -13,7 +13,7 @@ folder: hBkQzhJeB05EwziN
 
 # The Celestial Order of Tānvür
 
-The **Celestial Order** — formally the **[[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]** ("The Celestial Court of Ten Thousand Spirits") — is the religious, cosmological, and administrative framework that underpins every aspect of life in the [[doc-tanvurempr|Empire of Tānvür]]. To call it a "religion" is misleading. The Tānvüri do not have faith. They have _procedures_.
+The **Celestial Order** — formally the **[[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]** ("The Celestial Court of Ten Thousand Spirits") — is the religious, cosmological, and administrative framework that underpins every aspect of life in the [[affiliation-tanvurempr|Empire of Tānvür]]. To call it a "religion" is misleading. The Tānvüri do not have faith. They have _procedures_.
 
 In the Celestial Order, the universe is not a creation — it is a **classification project**. The gods are not beings to worship — they are **officials holding posts**. Morality is not an inner virtue — it is an **account balance**. And magic is not a personal gift — it is a **petition processed through proper channels**. For visitors from Western cultures, nearly every assumption about spirituality, divinity, and the individual's relationship to the cosmos is inverted.
 
@@ -31,21 +31,21 @@ This means that maintaining cosmic order is not devotion — it is **maintenance
 
 ## The Classification of All Living Things
 
-The Great Sorting did not stop at people. The Dāk Zhāklëi classified _all_ of existence — every creature, every plant, every insect. The Zāt Sëi (Bureau of Creation) administers all life, and the [[doc-tanthei|Tānthëi]] maintain a comprehensive bestiary called the **Zhëk Dāk** ("Life Record") that catalogs every known form of life by classification, elemental affinity, habitat, behavior, and threat level.
+The Great Sorting did not stop at people. The Dāk Zhāklëi classified _all_ of existence — every creature, every plant, every insect. The Zāt Sëi (Bureau of Creation) administers all life, and the [[lore-tanthei|Tānthëi]] maintain a comprehensive bestiary called the **Zhëk Dāk** ("Life Record") that catalogs every known form of life by classification, elemental affinity, habitat, behavior, and threat level.
 
 The classification system recognizes three fundamental categories of living things:
 
-**Rën Zhëk** ("Person-Life") — sentient beings with moral agency. Humans, [[doc-flksinale|Sinalë]], and [[doc-flkkhazar|Khazári]] fall into this category. They maintain moral ledgers, hold caste positions, and are subject to the full apparatus of celestial accounting. This is what the caste system governs and what most of the empire's administrative energy is spent maintaining.
+**Rën Zhëk** ("Person-Life") — sentient beings with moral agency. Humans, [[lore-flksinale|Sinalë]], and [[lore-flkkhazar|Khazári]] fall into this category. They maintain moral ledgers, hold caste positions, and are subject to the full apparatus of celestial accounting. This is what the caste system governs and what most of the empire's administrative energy is spent maintaining.
 
 **Zhëk Zōk** ("Life-Groups") — naturally reproducing species. This is the vast majority of life: dogs, horses, hawks, fish, serpents, beetles, rice, bamboo. Each species is a classified group — a _template_ maintained by the Zāt Sëi. The template defines the species' elemental affinities, its natural range, its behavioral patterns, and its role in the cosmic order. A horse is primarily Earth-aligned. A hawk is Air-aligned. A river carp is Water-aligned. Some species have complex elemental profiles — a venomous serpent might carry both Water and Metal affinities.
 
 The key distinction: a Zhëk Zōk is a _solved project_. The Bureau of Creation designed the species template, it reproduces on its own according to that template, and it occupies a fixed position in the cosmic taxonomy. In bureaucratic terms, it is a closed file — a completed work order that requires only routine maintenance.
 
-**Zāt Vōr Zhëk** ("Sacred-Creation Life") — [[doc-dreadspawn|Dreadspawn]]. Creatures of deliberate divine manufacture that do not reproduce. Each one is a unique project from the Zāt Sëi's ongoing creative output — what the [[doc-tanthei|Tānthëi]] understand as the Bureau of Creation's research and development work. Unlike Zhëk Zōk, each Dreadspawn is cataloged individually rather than as an instance of a species template. In bureaucratic terms, these are _open files_ — active projects, not completed work orders.
+**Zāt Vōr Zhëk** ("Sacred-Creation Life") — [[lore-dreadspawn|Dreadspawn]]. Creatures of deliberate divine manufacture that do not reproduce. Each one is a unique project from the Zāt Sëi's ongoing creative output — what the [[lore-tanthei|Tānthëi]] understand as the Bureau of Creation's research and development work. Unlike Zhëk Zōk, each Dreadspawn is cataloged individually rather than as an instance of a species template. In bureaucratic terms, these are _open files_ — active projects, not completed work orders.
 
 ### Elemental Affinities and Practical Application
 
-Every classified creature has elemental affinities, and knowing them matters. The [[doc-venduk|Vëndük]] construct their bureaucratic petitions by addressing the relevant celestial bureaus — a petition to affect an Earth-aligned creature routes through the earth domain's jurisdiction. A petition addressing the wrong elemental affinity is misfiled and accomplishes nothing. This makes the Zhëk Dāk an essential military resource: before the Vëndük can support troops against a dangerous creature, the Tānthëi must identify the creature's classification entry and determine its elemental profile.
+Every classified creature has elemental affinities, and knowing them matters. The [[lore-venduk|Vëndük]] construct their bureaucratic petitions by addressing the relevant celestial bureaus — a petition to affect an Earth-aligned creature routes through the earth domain's jurisdiction. A petition addressing the wrong elemental affinity is misfiled and accomplishes nothing. This makes the Zhëk Dāk an essential military resource: before the Vëndük can support troops against a dangerous creature, the Tānthëi must identify the creature's classification entry and determine its elemental profile.
 
 For common animals — horses, oxen, hunting dogs — the elemental affinities are well-established and every competent Vëndük knows them by training. For rare, dangerous, or previously unencountered creatures, identification becomes a tactical priority. This is particularly true for Dreadspawn, where each individual may have a unique elemental profile that bears no resemblance to the last one encountered.
 
@@ -77,7 +77,7 @@ This ledger determines _everything_: your fortune in life, the quality of your a
 
 The ledger system creates a spirituality that is fundamentally **transactional**. You do not cultivate virtue for its own sake — you accumulate credit. You do not avoid sin from moral conviction — you avoid debit entries. A rich family can accumulate spiritual credit through lavish offerings and temple donations, effectively _buying_ a better afterlife and more powerful ancestor spirits. This creates a self-reinforcing spiritual aristocracy where wealth begets spiritual power, which begets more wealth.
 
-See [[doc-ancstrwrshp|Ancestor Worship]] for how the moral ledger affects the dead and their descendants.
+See [[lore-ancstrwrshp|Ancestor Worship]] for how the moral ledger affects the dead and their descendants.
 
 ---
 
@@ -85,7 +85,7 @@ See [[doc-ancstrwrshp|Ancestor Worship]] for how the moral ledger affects the de
 
 The Tānvüri understanding of magic is shaped entirely by the bureaucratic cosmology. The cosmic energy that underlies all magic (the same force the [[affiliation-ordoarcanis|Ordo Arcanis]] channels through elemental forms) is understood in Tānvür as **Lëi** — the raw material of classification, the energy that holds sorted things in their categories.
 
-The [[doc-venduk|Vëndük]] (chattel sorcerers) channel this cosmic energy by constructing mental forms that take the shape of **bureaucratic procedures**. Where an Ordo mage visualizes geometric relationships between elements, a Vëndük visualizes a _petition_ — complete with celestial seals, jurisdictional stamps, bureau addresses, and formal language of request. The more complex the magical working, the more elaborate the spiritual paperwork. A simple working might require a single-seal petition to one bureau; a major working might require multi-bureau authorization with counter-signatures from several overseers.
+The [[lore-venduk|Vëndük]] (chattel sorcerers) channel this cosmic energy by constructing mental forms that take the shape of **bureaucratic procedures**. Where an Ordo mage visualizes geometric relationships between elements, a Vëndük visualizes a _petition_ — complete with celestial seals, jurisdictional stamps, bureau addresses, and formal language of request. The more complex the magical working, the more elaborate the spiritual paperwork. A simple working might require a single-seal petition to one bureau; a major working might require multi-bureau authorization with counter-signatures from several overseers.
 
 This is not mere metaphor or cultural window-dressing. The bureaucratic model produces genuinely different magical characteristics:
 
@@ -93,13 +93,13 @@ This is not mere metaphor or cultural window-dressing. The bureaucratic model pr
 - **Institutional scaling.** The bureaucratic model excels at coordinated, large-scale magic: city-wide wards, generational blessings, harvest enchantments, plague containment. Multiple Vëndük can contribute to a single working by adding their seals to a shared petition, in a way that the Ordo's individualist model cannot easily replicate.
 - **Categorical limits.** The bureaucratic model struggles with magic that defies classification — workings that cross elemental boundaries without clear jurisdictional authority, or effects that have no bureau to address. A Vëndük asked to produce an effect that doesn't fit any bureau's portfolio may find the working genuinely harder, because their mental architecture cannot build a form for something that has no bureaucratic address.
 
-See [[doc-phlsphylvr|Philosophy of Lëivōr]] for the broader framework of Lëi philosophy, and how it connects to medicine, governance, and daily life.
+See [[lore-phlsphylvr|Philosophy of Lëivōr]] for the broader framework of Lëi philosophy, and how it connects to medicine, governance, and daily life.
 
 ---
 
 ## The Relationship Between Religion and Governance
 
-In Tānvür, religion and government are not merely intertwined — they are **the same system viewed from different angles**. The imperial government is explicitly modeled on the celestial bureaucracy (or so the doctrine claims — the Tānvüri insist that heaven's administration came first and earth copies it). The Emperor (**Tëngzhëi**, Son of Heaven) holds the [[doc-mandatehvn|Mandate of Heaven]] — a cosmic appointment, not a divine blessing. The Warlords (**Vüszhük**) are regional administrators whose authority mirrors that of bureau overseers. The caste system is understood as a classification scheme established during the Great Sorting — challenging it is not merely illegal but _cosmologically dangerous_, because it threatens to unclassify something that Tānlüng sorted.
+In Tānvür, religion and government are not merely intertwined — they are **the same system viewed from different angles**. The imperial government is explicitly modeled on the celestial bureaucracy (or so the doctrine claims — the Tānvüri insist that heaven's administration came first and earth copies it). The Emperor (**Tëngzhëi**, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]] — a cosmic appointment, not a divine blessing. The Warlords (**Vüszhük**) are regional administrators whose authority mirrors that of bureau overseers. The caste system is understood as a classification scheme established during the Great Sorting — challenging it is not merely illegal but _cosmologically dangerous_, because it threatens to unclassify something that Tānlüng sorted.
 
 This makes dissent in Tānvür fundamentally different from dissent in Western societies. A rebel is not merely a political criminal — they are an agent of the Hürnlëi, someone whose actions threaten to unsort reality. The empire's rigidity is not tyranny (from the Tānvüri perspective) — it is cosmic maintenance.
 
@@ -107,18 +107,18 @@ This makes dissent in Tānvür fundamentally different from dissent in Western s
 
 ## Topics
 
-- [[doc-clstlpnthn|Celestial Pantheon]] — The major deities: Tānlüng, Vëizhük, Rëkgüng, and Yütvëi
-- [[doc-fvlmntlrds|Five Elemental Lords]] — The elemental administrators governing Air, Fire, Earth, Metal, and Water
-- [[doc-mandatehvn|Mandate of Heaven]] — The cosmic appointment of the Emperor
-- [[doc-infrnlrlms|Infernal Realms]] — The Unclassified pressing against the borders of the sorted world
-- [[doc-ancstrwrshp|Ancestor Worship]] — The moral ledger, the afterlife as posting, and the spiritual economy
+- [[lore-clstlpnthn|Celestial Pantheon]] — The major deities: Tānlüng, Vëizhük, Rëkgüng, and Yütvëi
+- [[lore-fvlmntlrds|Five Elemental Lords]] — The elemental administrators governing Air, Fire, Earth, Metal, and Water
+- [[lore-mandatehvn|Mandate of Heaven]] — The cosmic appointment of the Emperor
+- [[lore-infrnlrlms|Infernal Realms]] — The Unclassified pressing against the borders of the sorted world
+- [[lore-ancstrwrshp|Ancestor Worship]] — The moral ledger, the afterlife as posting, and the spiritual economy
 
 ## See Also
 
-- [[doc-phlsphylvr|Philosophy of Lëivōr]] — The framework of Lëi that underlies medicine, magic, and governance
-- [[doc-clndrstrlgy|Calendar and Astrology]] — The calendar system tied to celestial administrative cycles
-- [[doc-numerology|Numerology]] — Auspicious numbers rooted in classification theory
-- [[doc-dreadspawn|Dreadspawn]] — Sacred-Creation Life: individually manufactured creatures classified as Zāt Vōr Zhëk
-- [[doc-castelaws|Foreigners and the Unclassified]] — How the classification system handles those outside the cosmic order
-- [[doc-castelaws|The Elder Races]] — How the Sinalë and Khazári fit within the classification system
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire whose governance mirrors the celestial hierarchy
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The framework of Lëi that underlies medicine, magic, and governance
+- [[lore-clndrstrlgy|Calendar and Astrology]] — The calendar system tied to celestial administrative cycles
+- [[lore-numerology|Numerology]] — Auspicious numbers rooted in classification theory
+- [[lore-dreadspawn|Dreadspawn]] — Sacred-Creation Life: individually manufactured creatures classified as Zāt Vōr Zhëk
+- [[lore-castelaws|Foreigners and the Unclassified]] — How the classification system handles those outside the cosmic order
+- [[lore-castelaws|The Elder Races]] — How the Sinalë and Khazári fit within the classification system
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose governance mirrors the celestial hierarchy

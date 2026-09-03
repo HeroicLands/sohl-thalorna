@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Hydälis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-pyrethos|Eídma Pyréthos]]. Where Fire transforms by destroying, Water transforms by _becoming_ — by adapting, yielding, absorbing, and reshaping. Hydälis practitioners are the Ordo's healers, its diviners, and its most patient diplomats.
+Eídma **Hydälis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pyrethos|Eídma Pyréthos]]. Where Fire transforms by destroying, Water transforms by _becoming_ — by adapting, yielding, absorbing, and reshaping. Hydälis practitioners are the Ordo's healers, its diviners, and its most patient diplomats.
 
 ## Philosophy
 
@@ -123,7 +123,7 @@ The Sodalitas Hydälis is not without its own ambitions, however. Its members un
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-pyrethos|Eídma Pyréthos]] — The opposing Eídma
 - [[affiliation-physera|Eídma Physéra]] — Adjacent Eídma (sustenance)
 - [[affiliation-sideros|Eídma Sidéros]] — Adjacent Eídma (patience)

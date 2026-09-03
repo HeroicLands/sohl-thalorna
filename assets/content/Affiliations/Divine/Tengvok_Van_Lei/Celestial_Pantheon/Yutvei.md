@@ -119,4 +119,4 @@ In rare cases, when a document is rejected by the celestial courts as improperly
 
 - [[affiliation-veizhuk|Vëizhük Dāknëi]] — The Jade Sovereign, whom Yütvëi serves
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy and its administrative machinery
-- [[doc-clstlpnthn|Celestial Pantheon]] — Other celestial officials
+- [[lore-clstlpnthn|Celestial Pantheon]] — Other celestial officials

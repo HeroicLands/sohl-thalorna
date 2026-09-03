@@ -26,4 +26,4 @@ shortcode: nrthrnkchchk
 
 ## Overview
 
-_To be written._ The northern subdivision of the [[doc-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Ba'alam Ki'ahk, Ch'akul Tza'kul, Ha' Xaman, Ha'nal Xi'lan, K'ixim Tzul, Tz'uma No'tun, Xik'ul Ch'akal.
+_To be written._ The northern subdivision of the [[place-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Ba'alam Ki'ahk, Ch'akul Tza'kul, Ha' Xaman, Ha'nal Xi'lan, K'ixim Tzul, Tz'uma No'tun, Xik'ul Ch'akal.

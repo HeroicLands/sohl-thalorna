@@ -100,7 +100,7 @@ folder: uNATz0Iv2pqXLFmc
 
 ## Overview
 
-Tz'ikin Ba'alam—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of [[doc-kchchkcntnnt|K'ich'chik]]. It is a place of terror, legend, and desperate ambition. The earth here has been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
+Tz'ikin Ba'alam—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of [[place-kchchkcntnnt|K'ich'chik]]. It is a place of terror, legend, and desperate ambition. The earth here has been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
 
 The people of the northern realms speak of Tz'ikin Ba'alam with dread reverence. It is both graveyard and crucible—a place where warriors and priests travel to test their worth against impossible odds, knowing that most who venture into those wastes will never return. Those who do return changed forever, marked by knowledge and suffering that sets them apart from ordinary mortals. In the pyramid-cities, such survivors are regarded with a mixture of awe and fear, often elevated to positions of great authority or spiritual significance. The wastes call to the ambitious, the doomed, and the desperate—and in return, most of them feed the frozen earth.
 
@@ -116,7 +116,7 @@ Water is scarce and often toxic. Those brave enough to drink from unknown source
 
 ## Maritime Powers
 
-Tz'ikin Ba'alam has no maritime access and no territories to claim or defend in any traditional sense. The [[affiliation-itzanpnthn|Itzáni]] priesthood does not truly rule these wastes—it merely maintains the single great temple-fortress of [[doc-tzikinkul|Tz'ikin K'ul]] at the threshold, sending out occasional blessed expeditions and receiving the rare survivor who emerges from the south with knowledge or artifacts of power.
+Tz'ikin Ba'alam has no maritime access and no territories to claim or defend in any traditional sense. The [[affiliation-itzanpnthn|Itzáni]] priesthood does not truly rule these wastes—it merely maintains the single great temple-fortress of [[place-tzikinkul|Tz'ikin K'ul]] at the threshold, sending out occasional blessed expeditions and receiving the rare survivor who emerges from the south with knowledge or artifacts of power.
 
 ## Trade
 
@@ -128,7 +128,7 @@ What truly flows through Tz'ikin Ba'alam is not trade, but transformation. The w
 
 ## See Also
 
-- [[doc-kawiltzakl|K'awiil Tza'kul]] — The threshold lands
-- [[doc-tzikinkul|Tz'ikin K'ul]] — The last outpost of civilization
+- [[affiliation-kawiltzakl|K'awiil Tza'kul]] — The threshold lands
+- [[place-tzikinkul|Tz'ikin K'ul]] — The last outpost of civilization
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that controls access to the wastes
 - [[affiliation-itzanpnthn|P'iqal Kul'qat]] — The creator god and lord of the Eternal Garden

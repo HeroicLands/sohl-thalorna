@@ -29,6 +29,6 @@ The desert itself shapes Ashkarad's character—life here is precious and fragil
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
 - [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

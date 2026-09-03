@@ -91,7 +91,7 @@ data:
   domains:
     - nrthrnkchchk
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations: {}
@@ -101,17 +101,17 @@ folder: n40OZFhNduPioI61
 
 ## Overview
 
-Ha' Xaman — "Great Grassland" in K'ich'chik — is an endless sea of grass and sky where the horizon stretches beyond sight and the wind carries scents of a thousand miles. K'ich'chik border scouts call the people here the Tz'okum Tz'aqalil ("Coyote People"), from the coyote-imagery on their war-standards and painted shields. Their own name for themselves is unknown. Of the five northern nations, the Tz'okum are the most immediately dangerous to K'ich'chik interests — the most volatile, the most militarily aggressive, and the most likely to raid across the [[doc-chakultzkl|Ch'akul Tza'kul]] barrier when conditions permit.
+Ha' Xaman — "Great Grassland" in K'ich'chik — is an endless sea of grass and sky where the horizon stretches beyond sight and the wind carries scents of a thousand miles. K'ich'chik border scouts call the people here the Tz'okum Tz'aqalil ("Coyote People"), from the coyote-imagery on their war-standards and painted shields. Their own name for themselves is unknown. Of the five northern nations, the Tz'okum are the most immediately dangerous to K'ich'chik interests — the most volatile, the most militarily aggressive, and the most likely to raid across the [[affiliation-chakultzkl|Ch'akul Tza'kul]] barrier when conditions permit.
 
 The great herds that migrate across Ha' Xaman with seasonal regularity are the foundation of Tz'okum life. K'ich'chik observers report that the Tz'okum have built everything around pursuing these herds, and their mastery of mounted warfare and beast-craft is unparalleled among the northern peoples. The plains offer no shelter and few natural defenses; the Tz'okum have compensated by becoming warriors first and foremost, capable of dominating open terrain with tactical speed that K'ich'chik armies — designed for jungle and highland warfare — have found nearly impossible to counter. The Tz'okum regard all outsiders as either threats or prey, and K'ich'chik merchants who venture into Ha' Xaman do so at extreme personal risk.
 
 ## Geography
 
-Ha' Xaman is deceptively simple in appearance yet possessed of subtle complexities that have taken generations for the Tz'okum to master. The central plains form an immense plateau of grassland, interrupted by occasional river valleys and low-rolling hills. The grass grows thick in the north, where water is more reliable, and becomes increasingly sparse toward the south as [[doc-hanalxilan|Ha'nal Xi'lan]]'s contested river valleys approach. The landscape shifts with the seasons: spring brings floods and rapid greening, summer bakes the grass golden and sees the great herds at their most numerous, autumn triggers the migrations that drive Tz'okum society, and winter—while less brutal than K'ixim Tzul's extremes—still claims the unprepared.
+Ha' Xaman is deceptively simple in appearance yet possessed of subtle complexities that have taken generations for the Tz'okum to master. The central plains form an immense plateau of grassland, interrupted by occasional river valleys and low-rolling hills. The grass grows thick in the north, where water is more reliable, and becomes increasingly sparse toward the south as [[affiliation-hanalxilan|Ha'nal Xi'lan]]'s contested river valleys approach. The landscape shifts with the seasons: spring brings floods and rapid greening, summer bakes the grass golden and sees the great herds at their most numerous, autumn triggers the migrations that drive Tz'okum society, and winter—while less brutal than K'ixim Tzul's extremes—still claims the unprepared.
 
 The herds themselves are the defining feature of Ha' Xaman's geography. The great bison and elk that migrate across the plains follow routes worn smooth by centuries of use, creating natural pathways visible from leagues away. These migration routes intersect with river valleys and seasonal water sources; the Tz'okum have mapped every such intersection with meticulous care and plan their hunting expeditions and tribal movements accordingly. To understand Ha' Xaman is to understand the herds; knowing where the herds are and will be is the fundamental skill all Tz'okum children learn before they learn to craft a bow.
 
-The western border of Ha' Xaman touches the foothills and mountains of [[doc-kiximtzul|K'ixim Tzul]], creating a transitional zone of broken prairie and scattered forest where No'kin and Tz'okum hunters sometimes encounter one another. The eastern borders are more diffuse, shading gradually into the eastern woodlands claimed by the [[doc-xikulchakl|Ha'ik Tz'aqalil]]. The southern boundary is aggressively contested; Ha' Xaman's grasslands edge into the river valleys and bottom-lands of [[doc-hanalxilan|Ha'nal Xi'lan]], where the Tz'okum, Ha'ik, and [[doc-tzumanotun|Ch'aqun]] peoples all maintain seasonal hunting camps and trading posts. These borderlands see the highest concentration of inter-tribal violence in the entire northern frontier.
+The western border of Ha' Xaman touches the foothills and mountains of [[affiliation-kiximtzul|K'ixim Tzul]], creating a transitional zone of broken prairie and scattered forest where No'kin and Tz'okum hunters sometimes encounter one another. The eastern borders are more diffuse, shading gradually into the eastern woodlands claimed by the [[affiliation-xikulchakl|Ha'ik Tz'aqalil]]. The southern boundary is aggressively contested; Ha' Xaman's grasslands edge into the river valleys and bottom-lands of [[affiliation-hanalxilan|Ha'nal Xi'lan]], where the Tz'okum, Ha'ik, and [[affiliation-tzumanotun|Ch'aqun]] peoples all maintain seasonal hunting camps and trading posts. These borderlands see the highest concentration of inter-tribal violence in the entire northern frontier.
 
 ## The Tz'okum Tz'aqalil
 
@@ -131,7 +131,7 @@ The wealth flowing into Ha' Xaman from trade allows the Tz'okum to acquire south
 
 ## See Also
 
-- [[doc-kiximtzul|K'ixim Tzul]] — The bear-people's boreal forests to the north and west
-- [[doc-xikulchakl|Xik'ul Ch'akal]] — The otter-people's woodlands to the east
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — The contested river valleys to the south
-- [[doc-tzumanotun|Tz'uma No'tun]] — The serpent-people's swamps and mountains, connected through the Ha'nal Xi'lan borderlands
+- [[affiliation-kiximtzul|K'ixim Tzul]] — The bear-people's boreal forests to the north and west
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The otter-people's woodlands to the east
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested river valleys to the south
+- [[affiliation-tzumanotun|Tz'uma No'tun]] — The serpent-people's swamps and mountains, connected through the Ha'nal Xi'lan borderlands

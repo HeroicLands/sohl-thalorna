@@ -102,7 +102,7 @@ folder: dxzsTyaF4LMapIJX
 - **Pronunciation:** _GYAH-nah-soo-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Jñānasūra is the god of wisdom and of the work of the mind. The theology holds that knowledge is the sun of the inner life — without it, the soul is in darkness, and no virtue can take its proper form. He is the patron of scholars and of the great schools of [[doc-vedyarargn|Vedyara Region]], but also — perhaps more surprisingly to outsiders — of warriors, for whom the clarity of thought before the blow is as important as the strength of the arm.
+Jñānasūra is the god of wisdom and of the work of the mind. The theology holds that knowledge is the sun of the inner life — without it, the soul is in darkness, and no virtue can take its proper form. He is the patron of scholars and of the great schools of [[place-vedyarargn|Vedyara Region]], but also — perhaps more surprisingly to outsiders — of warriors, for whom the clarity of thought before the blow is as important as the strength of the arm.
 
 Every major Vedyaran school, library, and academy maintains a shrine to Jñānasūra. Those who serve him are among the most learned in the world, trained as deeply in the sciences and the poetic arts as in theology, and they serve as teachers and advisors to royal courts, temple hierarchies, and guild councils.
 

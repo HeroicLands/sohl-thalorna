@@ -15,12 +15,12 @@ shortcode: aelendnppl
 folder: drAoDoNnFEygATeK
 ---
 
-- **Parent realm:** [[doc-elavendre|Élavendre]]
-- **Related peoples:** [[doc-pelwarpepl|Pelwar People]] (ancestral), [[doc-flksinale|Sinalë]] (neighbors)
+- **Parent realm:** [[place-elavendre|Élavendre]]
+- **Related peoples:** [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinalë]] (neighbors)
 - **Language:** [[skill-aelendlng|Áelendi]]
 - **Pantheon:** [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
-The **Áelendan People** — also known as the **People of the Covenant** — are a sub-people of [[doc-elavendre|Élavendre]], the ancestor tribes of the [[doc-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[doc-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
+The **Áelendan People** — also known as the **People of the Covenant** — are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[place-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
 ## The Covenant
 
@@ -34,13 +34,13 @@ The Áelendan speak **Áelendi**, the ancestral Pelwar tongue — the most conse
 
 ## Relationship with the Élavendri
 
-The relationship between the Áelendan and the settled [[doc-elavendre|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of Élavendre protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it — they govern themselves by their own customs and answer to their own elders.
+The relationship between the Áelendan and the settled [[place-elavendre|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of Élavendre protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it — they govern themselves by their own customs and answer to their own elders.
 
 Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
 ## Relationship with the Sinalë
 
-The Áelendan maintain a uniquely close neighborly relationship with the [[doc-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense — the Sinalë do not concern themselves with human political structures — but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.
+The Áelendan maintain a uniquely close neighborly relationship with the [[lore-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense — the Sinalë do not concern themselves with human political structures — but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.
 
 ## Institutions
 
@@ -52,13 +52,13 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[doc-f
 
 Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Covenant:
 
-- **[[doc-drenavrspn|The Drenavar Spine]]** — Sacred mountain range at the heart of Áelendan territory
-- **[[doc-eshalshldg|Eshálosha Lodge]]** — The principal Áelendan settlement, a ceremonial and political center
+- **[[place-drenavrspn|The Drenavar Spine]]** — Sacred mountain range at the heart of Áelendan territory
+- **[[place-eshalshldg|Eshálosha Lodge]]** — The principal Áelendan settlement, a ceremonial and political center
 
 ## See Also
 
-- [[doc-elavendre|Élavendre]] — The kingdom within which Áelendan territory lies
+- [[place-elavendre|Élavendre]] — The kingdom within which Áelendan territory lies
 - [[skill-aelendlng|Áelendi]] — The ancestral Pelwar tongue of the Áelendan
-- [[doc-pelwarpepl|Pelwar People]] — The ancestral people from whom the Áelendan descend
+- [[lore-pelwarpepl|Pelwar People]] — The ancestral people from whom the Áelendan descend
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects sacred sites
-- [[doc-flksinale|Sinalë]] — The elder race with whom the Áelendan maintain neighborly relations
+- [[lore-flksinale|Sinalë]] — The elder race with whom the Áelendan maintain neighborly relations

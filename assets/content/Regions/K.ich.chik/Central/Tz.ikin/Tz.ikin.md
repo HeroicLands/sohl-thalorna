@@ -91,7 +91,7 @@ data:
   domains:
     - cntrlkchchk
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations:
@@ -102,9 +102,9 @@ folder: e6Oj9YgsjyjZBPCW
 
 ## Overview
 
-Tz'ikin, the "Land of Birds," is the eastern frontier of the central [[doc-kchchkcntnnt|K'ich'chik]] heartland—a vast region of tropical rainforest, immense river systems, and tepui (ancient flat-topped mountains) that rise like islands from the jungle canopy. Where [[doc-balamkul|Balamkul]] is built on volcanic stone and [[doc-kankul|K'ankul]] on limestone, Tz'ikin is built on water. The mighty rivers that carve through its landscape—the Orinoco and its tributary system, the Essequibo, and a thousand smaller waterways—are more important than roads, more important than temples. Tz'ikin is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itzáni]] priesthood. Yet it is indispensable to the greater K'ich'chik world, for Tz'ikin is the source of luxuries without which no K'inmah can claim true power.
+Tz'ikin, the "Land of Birds," is the eastern frontier of the central [[place-kchchkcntnnt|K'ich'chik]] heartland—a vast region of tropical rainforest, immense river systems, and tepui (ancient flat-topped mountains) that rise like islands from the jungle canopy. Where [[affiliation-balamkul|Balamkul]] is built on volcanic stone and [[affiliation-kankul|K'ankul]] on limestone, Tz'ikin is built on water. The mighty rivers that carve through its landscape—the Orinoco and its tributary system, the Essequibo, and a thousand smaller waterways—are more important than roads, more important than temples. Tz'ikin is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itzáni]] priesthood. Yet it is indispensable to the greater K'ich'chik world, for Tz'ikin is the source of luxuries without which no K'inmah can claim true power.
 
-The quetzal bird—that manifestation of K'in'ul Tq'an (god of order) on the material plane—dwells in the cloud forests of Tz'ikin in greater abundance than anywhere in [[doc-kchchkcntnnt|K'ich'chik]]. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Tz'ikin's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Tz'ikin's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
+The quetzal bird—that manifestation of K'in'ul Tq'an (god of order) on the material plane—dwells in the cloud forests of Tz'ikin in greater abundance than anywhere in [[place-kchchkcntnnt|K'ich'chik]]. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Tz'ikin's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Tz'ikin's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
 
 Tz'ikin's relationship to the greater K'ich'chik world is one of deliberate partial integration. The major river settlements maintain the forms of Itzáni orthodoxy and send tribute to Balamkul and K'ankul, but they do so with the understanding that Tz'ikin's real power lies in its command of the jungle and the river systems. The priesthood in Tz'ikin has developed its own distinct practices, blending the official [[affiliation-itzanpnthn|Itzáni]] cosmology with the veneration of local spirits—the river dolphins that guide canoes through treacherous waters, the anacondas that are believed to bridge the world of humans and the underworld, the forest itself as a living presence worthy of sacrifice and offering.
 
@@ -122,7 +122,7 @@ Tz'ikin's political landscape is quite distinct from that of the central heartla
 
 The indigenous populations of Tz'ikin—peoples who have inhabited the region since before the rise of the [[affiliation-itzanpnthn|Itzáni]] faith—have been only partially incorporated into the K'ich'chik world. Some have adopted Itzáni practices and been granted positions of authority within the tributary system; others maintain semi-autonomy, engaging in trade with K'ich'chik merchants while preserving their own spiritual practices and leadership structures. This diversity of governance is a source of both instability and resilience. Tz'ikin cannot be easily conquered by any single northern power, but it also cannot be relied upon as a stable tributary; its allegiances are negotiated annually through trade agreements and the exchange of gifts and prestige goods.
 
-The Ch'um Ix'lan extends into Tz'ikin only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward [[doc-kankul|K'ankul]] and [[doc-balamkul|Balamkul]]. Messages from Balamkul reach Tz'ikin's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach — communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
+The Ch'um Ix'lan extends into Tz'ikin only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward [[affiliation-kankul|K'ankul]] and [[affiliation-balamkul|Balamkul]]. Messages from Balamkul reach Tz'ikin's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach — communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
 
 The priesthood in Tz'ikin is notably less hierarchical and less centralized than in the north. The shamans and herbalists of the interior wield authority that rivals that of the Itzáni priests, particularly in remote areas far from river settlements. Some of the most powerful spiritual practitioners in Tz'ikin are those who have learned to blend Itzáni theological frameworks with the deep ecological knowledge of the jungle peoples—those who can interpret the movements of river dolphins as omens, or who know the properties of obscure plants that can induce visions and spiritual communion. The K'ul Tq'an in distant Balamkul exerts nominal authority over these practitioners, but in practice, Tz'ikin's spiritual landscape is far more pluralistic than official doctrine would suggest.
 
@@ -138,7 +138,7 @@ Most crucially, Tz'ikin is the source of stability and prestige goods through wh
 
 ## See Also
 
-- [[doc-balamkul|Balamkul]] — The paramount northern realm that depends on Tz'ikin's luxury goods
-- [[doc-kankul|K'ankul]] — The trading power connected to Tz'ikin through maritime and overland routes
-- [[doc-kiikbaate|Ki'ik Ba'ate]] — The isthmus region that forms the buffer between Tz'ikin and the central heartland
+- [[affiliation-balamkul|Balamkul]] — The paramount northern realm that depends on Tz'ikin's luxury goods
+- [[affiliation-kankul|K'ankul]] — The trading power connected to Tz'ikin through maritime and overland routes
+- [[affiliation-kiikbaate|Ki'ik Ba'ate]] — The isthmus region that forms the buffer between Tz'ikin and the central heartland
 - [[affiliation-itzanpnthn|Itzáni Pantheon]] — The faith framework that Tz'ikin inhabits distinctly, with notable local variations and synthesis with indigenous practices

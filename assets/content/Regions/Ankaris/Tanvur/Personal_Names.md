@@ -3,7 +3,7 @@ aliases:
   - Personal Names
 id: LgGLhQV6dRATDaEB
 type: lore
-subType: folk
+subType: culture
 name:
   full: Personal Names
   aliases: []
@@ -13,7 +13,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Personal Names in the Empire of Tānvür
 
-In the [[doc-tanvurempr|Empire of Tānvür]], names carry immense significance and are reserved as marks of honor and distinction. The majority of the population, including those from the lower castes such as the [[doc-nokvur|Nōkvür]], [[doc-zathuk|Zāthük]], and [[doc-shukren|Shükrën]], do not possess personal names. Instead, they are identified by their clan name and their position within the clan, along with the name of their local city or region.
+In the [[affiliation-tanvurempr|Empire of Tānvür]], names carry immense significance and are reserved as marks of honor and distinction. The majority of the population, including those from the lower castes such as the [[lore-nokvur|Nōkvür]], [[lore-zathuk|Zāthük]], and [[lore-shukren|Shükrën]], do not possess personal names. Instead, they are identified by their clan name and their position within the clan, along with the name of their local city or region.
 
 ## Identification Without Personal Names
 
@@ -21,7 +21,7 @@ Individuals who have not been granted a personal name are typically referred to 
 
 ## Granting of Personal Names
 
-Personal names are a rare and significant honor, granted only to those of the [[doc-zheklung|Zhëklüng]], [[doc-vushok|Vüshōk]], and [[doc-tanthei|Tānthëi]] castes, and only as a reward for outstanding service or achievement. The act of naming is a ceremonial event, typically performed by one's liege lord or a high-ranking member of the clan. The name bestowed is a phrase that reflects the individual's accomplishments, character, or destiny.
+Personal names are a rare and significant honor, granted only to those of the [[lore-zheklung|Zhëklüng]], [[lore-vushok|Vüshōk]], and [[lore-tanthei|Tānthëi]] castes, and only as a reward for outstanding service or achievement. The act of naming is a ceremonial event, typically performed by one's liege lord or a high-ranking member of the clan. The name bestowed is a phrase that reflects the individual's accomplishments, character, or destiny.
 
 ## Warrior Names
 
@@ -45,13 +45,13 @@ Examples of scholar names:
 
 ## Example of Naming in Practice
 
-Imagine a warrior of the [[doc-vushok|Vüshōk]] caste who has shown exceptional valor in a series of battles. He might originally be known as "Second Son of the Shield Bearer of the Lüngvōk Clan, near Tëngmüt." After leading his troops to victory in a crucial battle, his liege lord grants him the personal name "Vëng Hürt Rëk Thāt"), which means "Wind Tiger Roars Across Thunder Mountain," a name that reflects his fierce and unyielding nature in battle.
+Imagine a warrior of the [[lore-vushok|Vüshōk]] caste who has shown exceptional valor in a series of battles. He might originally be known as "Second Son of the Shield Bearer of the Lüngvōk Clan, near Tëngmüt." After leading his troops to victory in a crucial battle, his liege lord grants him the personal name "Vëng Hürt Rëk Thāt"), which means "Wind Tiger Roars Across Thunder Mountain," a name that reflects his fierce and unyielding nature in battle.
 
-Similarly, a [[doc-tanthei|Tānthëi]] scholar might be known as "Third Daughter of the Sage of the Röt Zhāt Clan, near Vëithāt." After making a significant astronomical discovery, she is honored with the name "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng), meaning "Rising Vermilion Bird Star," symbolizing her connection to the celestial realm and her contribution to the empire's knowledge.
+Similarly, a [[lore-tanthei|Tānthëi]] scholar might be known as "Third Daughter of the Sage of the Röt Zhāt Clan, near Vëithāt." After making a significant astronomical discovery, she is honored with the name "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng), meaning "Rising Vermilion Bird Star," symbolizing her connection to the celestial realm and her contribution to the empire's knowledge.
 
 ## See Also
 
-- [[doc-marriage|Marriage]] — Marriage customs tied to clan and caste
-- [[doc-numerology|Numerology]] — Auspicious numbers that influence naming ceremonies
-- [[doc-castelaws|Caste Laws]] — The caste restrictions that determine who may receive names
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial culture
+- [[lore-marriage|Marriage]] — Marriage customs tied to clan and caste
+- [[lore-numerology|Numerology]] — Auspicious numbers that influence naming ceremonies
+- [[lore-castelaws|Caste Laws]] — The caste restrictions that determine who may receive names
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial culture

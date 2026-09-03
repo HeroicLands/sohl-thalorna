@@ -89,7 +89,7 @@ data:
     - byzariargn
   population: 1600000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -101,7 +101,7 @@ data:
 folder: pAXnwYJhDDSvkrPt
 ---
 
-Karataş — Blackstone — is the [[doc-byzarianlg|Byzarian League]]'s mining and manufacturing heart. Built on rich deposits of iron, copper, and semi-precious stones in the mountainous interior of [[doc-byzariargn|Byzaría Region]], Karataş produces the arms, armor, metalwork, and finished goods that the other city-states trade across [[doc-ankrscntnnt|Ankaris Continent]].
+Karataş — Blackstone — is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. Built on rich deposits of iron, copper, and semi-precious stones in the mountainous interior of [[place-byzariargn|Byzaría Region]], Karataş produces the arms, armor, metalwork, and finished goods that the other city-states trade across [[place-ankrscntnnt|Ankaris Continent]].
 
 ## Character
 
@@ -113,10 +113,10 @@ The surrounding mountains are riddled with mines, and the roads leading out of K
 
 ## Commerce and Currency
 
-Karataş uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Karataş is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Karataş uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Karataş is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-byzarianlg|Byzarian League]] — The confederation
-- [[doc-byzariargn|Byzaría Region]] — Regional overview
-- [[doc-altinkale|Altinkale]], [[doc-denizara|Denizara]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]] — Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]] — The confederation
+- [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]] — Sister city-states

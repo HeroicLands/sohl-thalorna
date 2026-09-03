@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Gümüşhisar is the capital and principal settlement of [[doc-gumushisar|Gümüşhisar]].
+_To be written._ Gümüşhisar is the capital and principal settlement of [[affiliation-gumushisar|Gümüşhisar]].

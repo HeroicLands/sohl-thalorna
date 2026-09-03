@@ -560,7 +560,7 @@ sohl:
         durability: 3
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -570,7 +570,7 @@ Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair
 
 **Early Mastery**
 
-Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[doc-empirtkhpr|Ta'Kheperu]] for three generations. His father, **Mentuhotep Sekmetâ**, was himself a renowned craftsman, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] for three generations. His father, **Mentuhotep Sekmetâ**, was himself a renowned craftsman, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 

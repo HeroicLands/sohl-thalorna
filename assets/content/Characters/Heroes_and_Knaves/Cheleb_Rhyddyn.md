@@ -550,9 +550,9 @@ Chéleb ("KA-leb") is a lithe, wiry man of thirty-two with pale, weather-tanned 
 
 # Dossier {#dossier}
 
-Chéleb is an [[doc-aelendnppl|Áelendan]] hunter from the wildernesses of the [[doc-drenavrspn|Drenavar Spine]] in northern Provènzia. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
+Chéleb is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the [[place-drenavrspn|Drenavar Spine]] in northern Provènzia. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
 
-Chéleb is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[doc-eshalshldg|Eshálosha]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
+Chéleb is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Eshálosha]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
 
 He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chéleb seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Brànwâal values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
 

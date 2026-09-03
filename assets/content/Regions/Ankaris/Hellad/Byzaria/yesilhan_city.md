@@ -24,4 +24,4 @@ parent:
 
 ## Overview
 
-_To be written._ Yeşilhan is the capital and principal settlement of [[doc-yesilhan|Yeşilhan]].
+_To be written._ Yeşilhan is the capital and principal settlement of [[affiliation-yesilhan|Yeşilhan]].

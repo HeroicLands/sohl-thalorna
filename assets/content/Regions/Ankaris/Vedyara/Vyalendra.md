@@ -86,7 +86,7 @@ data:
     - vedyarargn
   population: 6000000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
@@ -105,10 +105,10 @@ Vyālendra's streets are narrow and shaded by ancient banyan trees, and the cons
 
 ## Commerce and Currency
 
-Vyālendra uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-vedyarargn|Vedyara Region]] — Regional overview
+- [[place-vedyarargn|Vedyara Region]] — Regional overview
 - [[skill-vedyarlng|Vedyari]] — Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition

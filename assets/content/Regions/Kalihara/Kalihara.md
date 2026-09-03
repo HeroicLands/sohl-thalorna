@@ -88,7 +88,7 @@ data:
     - kaliharargn
   population: 3000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-bartercnmy
   parents: []
@@ -101,9 +101,9 @@ folder: ySaln4Q82C7W1p0I
 
 ## Overview
 
-Kalihara is a large island roughly one hundred leagues west of [[doc-midhalnrgn|Mídhalión Region]], home to one of the oldest continuous civilizations on [[doc-worldthlrn|Thalorna]] — a society whose origins predate the arrival of the [[doc-flksinale|Sinalë]] and the [[doc-flkkhazar|Khazári]] by millennia. The Kaliharans are a deeply insular people, philosophically committed to the preservation of their island and the way of life their ancestors established in an age so remote that the rest of Thalorna has forgotten it ever existed. Outsiders are not welcome in the interior. Commerce with the outside world is permitted only through a handful of port settlements on the coast, and even there, foreign merchants are confined to designated quarters under strict supervision.
+Kalihara is a large island roughly one hundred leagues west of [[place-midhalnrgn|Mídhalión Region]], home to one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]] — a society whose origins predate the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] by millennia. The Kaliharans are a deeply insular people, philosophically committed to the preservation of their island and the way of life their ancestors established in an age so remote that the rest of Thalorna has forgotten it ever existed. Outsiders are not welcome in the interior. Commerce with the outside world is permitted only through a handful of port settlements on the coast, and even there, foreign merchants are confined to designated quarters under strict supervision.
 
-What little the outside world knows of Kalihara paints it as a land of lush jungle, volcanic peaks, and fantastic creatures found nowhere else — beautiful, dangerous, and utterly closed to the curious. The Kaliharans themselves say very little about their homeland to outsiders, and what they do say is carefully chosen. Scholars in [[doc-helionis|Heliónis]] and [[doc-byzariargn|Byzaría Region]] have spent centuries assembling fragmentary accounts into competing theories about Kaliharan society, most of which are more revealing of Ankarian assumptions than of Kaliharan reality.
+What little the outside world knows of Kalihara paints it as a land of lush jungle, volcanic peaks, and fantastic creatures found nowhere else — beautiful, dangerous, and utterly closed to the curious. The Kaliharans themselves say very little about their homeland to outsiders, and what they do say is carefully chosen. Scholars in [[place-helionis|Heliónis]] and [[place-byzariargn|Byzaría Region]] have spent centuries assembling fragmentary accounts into competing theories about Kaliharan society, most of which are more revealing of Ankarian assumptions than of Kaliharan reality.
 
 ## The Precursors
 
@@ -141,7 +141,7 @@ This slow failure is perhaps the most closely guarded secret of Kaliharan civili
 
 ## The Elder Races
 
-When the [[doc-flksinale|Sinalë]] first arrived on Thalorna — an event that Kaliharan records place thousands of years after the departure of the Ithári — they encountered Kalihara and sought contact. The Kaliharans received them with courtesy but refused them settlement. The same pattern repeated when the [[doc-flkkhazar|Khazári]] arrived. In both cases, the Kaliharan position was clear and unchanging: Kalihara was complete. It did not require new inhabitants, new knowledge, or new relationships. The Elder Races were welcome to trade at the coastal settlements, but the interior was closed.
+When the [[lore-flksinale|Sinalë]] first arrived on Thalorna — an event that Kaliharan records place thousands of years after the departure of the Ithári — they encountered Kalihara and sought contact. The Kaliharans received them with courtesy but refused them settlement. The same pattern repeated when the [[lore-flkkhazar|Khazári]] arrived. In both cases, the Kaliharan position was clear and unchanging: Kalihara was complete. It did not require new inhabitants, new knowledge, or new relationships. The Elder Races were welcome to trade at the coastal settlements, but the interior was closed.
 
 This refusal was not born of hostility but of the same philosophical insularity that has defined Kalihara since the Ithári's departure. The Ithári did not expand beyond their island. They did not seek to reshape the wider world. They tended what was theirs and left the rest alone. Their students have followed this example with extraordinary consistency across ten millennia. The Kaliharans do not believe they are superior to other peoples — but they do believe that their way of life is sufficient, that their island provides everything they need, and that entanglement with the outside world can only disrupt the balance they have spent so long maintaining.
 
@@ -153,13 +153,13 @@ The island's topography creates natural defensive zones. The coastal lowlands gi
 
 ## The Port Cities
 
-While the interior of Kalihara remains closed to outsiders, the Kaliharans have never been entirely disconnected from the wider world. A small number of port settlements along the coast serve as the interface between Kaliharan civilization and the rest of Thalorna. The most significant of these is [[doc-qasirah|Qasirah]], a cosmopolitan trading port on the eastern coast that has grown into a substantial city in its own right.
+While the interior of Kalihara remains closed to outsiders, the Kaliharans have never been entirely disconnected from the wider world. A small number of port settlements along the coast serve as the interface between Kaliharan civilization and the rest of Thalorna. The most significant of these is [[place-qasirah|Qasirah]], a cosmopolitan trading port on the eastern coast that has grown into a substantial city in its own right.
 
 The port cities are, in many ways, a world apart from the interior. Over centuries of contact with Ankarian, Haradian, and Vedyaran merchants, they have absorbed elements of outside culture — including, in some cases, the [[affiliation-arldnpnthn|Aurèldían]] faith brought by western traders. The temples of the Aurèldían pantheon in Qasirah are well-maintained, serving the diverse population of foreign merchants, long-settled immigrant families, and Kaliharans who have chosen to live in the cosmopolitan zone rather than the interior. The Ithári'kaan view the port cities with a mixture of pragmatic acceptance and philosophical distance: they are necessary, they bring goods and information that even Kalihara occasionally requires, but they are not truly part of the Kaliharan world in the way the interior is.
 
-The distinction between port city and interior is not merely geographic but civilizational. A Kaliharan born in Qasirah who has never been admitted to the interior has more in common, culturally, with a merchant in [[doc-helionis|Heliónis]] than with a custodian in one of the ancient highland sanctuaries. This division is understood and accepted by both sides; it is, in the Kaliharan view, simply the cost of maintaining a necessary interface with the outside world without allowing that world to penetrate further than it should.
+The distinction between port city and interior is not merely geographic but civilizational. A Kaliharan born in Qasirah who has never been admitted to the interior has more in common, culturally, with a merchant in [[place-helionis|Heliónis]] than with a custodian in one of the ancient highland sanctuaries. This division is understood and accepted by both sides; it is, in the Kaliharan view, simply the cost of maintaining a necessary interface with the outside world without allowing that world to penetrate further than it should.
 
-Other port settlements include [[doc-vashuran|Vashurán]], [[doc-korinthel|Korinthel]], and [[doc-telvari|Telvári]], each smaller and more tightly controlled than Qasirah, serving as secondary trading points for specific goods or regional partners.
+Other port settlements include [[place-vashuran|Vashurán]], [[place-korinthel|Korinthel]], and [[place-telvari|Telvári]], each smaller and more tightly controlled than Qasirah, serving as secondary trading points for specific goods or regional partners.
 
 ## Governance
 
@@ -171,12 +171,12 @@ The result is a society that has avoided the cycles of expansion, civil war, and
 
 ## Commerce and Currency
 
-Kalihara operates outside the major continental monetary systems. Internal commerce runs substantially on [[doc-bartercnmy|barter]] and on the indigenous credit traditions of the Itháran peoples; the few foreign currencies that reach the continent through occasional trade are valued as exotic goods rather than as functioning money. Detailed documentation of Kaliharan internal monetary practice is not yet written.
+Kalihara operates outside the major continental monetary systems. Internal commerce runs substantially on [[lore-bartercnmy|barter]] and on the indigenous credit traditions of the Itháran peoples; the few foreign currencies that reach the continent through occasional trade are valued as exotic goods rather than as functioning money. Detailed documentation of Kaliharan internal monetary practice is not yet written.
 
 ## See Also
 
-- [[doc-midhalnrgn|Mídhalión Region]] — Nearest continental region
-- [[doc-worldthlrn|The World of Thalorna]] — Global overview
-- [[doc-qasirah|Qasirah]] — Primary trading port
+- [[place-midhalnrgn|Mídhalión Region]] — Nearest continental region
+- [[place-worldthlrn|The World of Thalorna]] — Global overview
+- [[place-qasirah|Qasirah]] — Primary trading port
 - [[skill-valtarlng|Valtári]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

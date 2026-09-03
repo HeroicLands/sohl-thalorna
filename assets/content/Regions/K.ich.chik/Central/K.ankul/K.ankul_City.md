@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ K'ankul is the central city and seat of the [[doc-kankul|K'ankul]] city-state.
+_To be written._ K'ankul is the central city and seat of the [[affiliation-kankul|K'ankul]] city-state.

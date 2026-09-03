@@ -86,15 +86,15 @@ folder:
 # The Cartographers' Guild of the Byzarian League
 
 - **Type:** Chartered professional guild
-- **Region:** [[doc-byzariargn|Byzaría]], with chapterhouses in every League city
-- **Charter:** Originally granted by the [[doc-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative — the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
+- **Region:** [[place-byzariargn|Byzaría]], with chapterhouses in every League city
+- **Charter:** Originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative — the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
 - **Magnum Collegium status:** Full member; the Grand Cartographer holds the Cartographers' seat on the Curia Collegiorum at Magnápolis
 
 ## Overview
 
 The Cartographers' Guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military, or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in Byzaría. To practice cartography in the League for a paying client without guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
 
-This is, of course, an aspiration rather than a fact. The guild is the most prestigious mapmaking body in western Ankaris, but it cannot prevent its members from selling the same map twice — once to the patron who commissioned it and once to whoever else will pay — and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
+This is, of course, an aspiration rather than a fact. The guild is the most prestigious mapmaking body in western Ankaris, but it cannot prevent its members from selling the same map twice — once to the patron who commissioned it and once to whoever else will pay — and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
 
 ## Membership and Structure
 
@@ -120,7 +120,7 @@ In practice, the guild's standards have eroded under commercial pressure. Maps a
 
 - **The League Council and Military** — primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
 - **The [[affiliation-magnumclgm|The Magnum Collegium]]** — supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Collegium charter; the Censores Collegiorum have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation currently underway against Master Damáklios. The matter is being held at chapter level for now; if it reaches Curia attention the consequences for the guild's charter could be substantial.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, particularly the **Theft Syndicate of the Eastern Docks** — quietly major purchasers of guild work for purposes the guild's charter forbids.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, particularly the **Theft Syndicate of the Eastern Docks** — quietly major purchasers of guild work for purposes the guild's charter forbids.
 - **The [[affiliation-blackledgr|Black Ledger]]** — the guild's shadow. Most Ledger members are guild-trained; many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist; the city guard pretends the Council does not know.
 - **Foreign powers** — Tarvénia, an unidentified northern confederation, and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
 

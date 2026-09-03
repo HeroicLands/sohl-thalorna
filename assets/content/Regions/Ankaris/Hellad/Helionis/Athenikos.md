@@ -91,7 +91,7 @@ data:
   domains:
     - helionis
   peoples:
-    - human
+    - humanflk
   economy: []
   parents:
     - ctysttshlns
@@ -104,10 +104,10 @@ folder: L06n59aSySB8zVbI
 
 ## Overview
 
-Athenikos is one of the [[doc-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. _To be expanded._
+Athenikos is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. _To be expanded._
 
 ## See Also
 
-- [[doc-ctysttshlns|City-States of Heliónis]] — The confederation
-- [[doc-helionis|Heliónis]] — Regional overview
-- [[doc-thyrenae|Thyrenae]], [[doc-pelagora|Pelagora]], [[doc-kalydria|Kalydria]], [[doc-theradon|Therádon]], [[doc-korinthea|Korinthea]] — Sister city-states
+- [[affiliation-ctysttshlns|City-States of Heliónis]] — The confederation
+- [[place-helionis|Heliónis]] — Regional overview
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]], [[affiliation-theradon|Therádon]], [[affiliation-korinthea|Korinthea]] — Sister city-states

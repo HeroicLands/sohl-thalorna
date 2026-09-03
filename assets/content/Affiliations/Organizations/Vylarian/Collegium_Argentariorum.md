@@ -90,7 +90,7 @@ folder:
 _Vylarian: Collegium Argentariorum — "the Bankers' College" or "the Moneylenders' Guild"_
 
 - **Type:** Chartered trade guild under the [[affiliation-magnumclgm|The Magnum Collegium]]; effective banking institution of the post-imperial commonwealth
-- **Region:** Every member territory of the [[affiliation-magnumclgm|The Magnum Collegium]] — [[doc-vylarinmpr|Vylaria]], [[doc-helionis|Heliónis]], the five [[doc-aureldirgn|Aurèldían kingdoms]], and [[doc-byzariargn|Byzaría]]
+- **Region:** Every member territory of the [[affiliation-magnumclgm|The Magnum Collegium]] — [[affiliation-vylarinmpr|Vylaria]], [[place-helionis|Heliónis]], the five [[place-aureldirgn|Aurèldían kingdoms]], and [[place-byzariargn|Byzaría]]
 - **Founded:** Chartered under the Magnum Collegium two and a half centuries ago, drawing on older moneylender associations that predated the imperial banking consolidation
 - **Senior officer:** The **Argentarius Magnar** ("Great Banker"), elected from the senior partners of the great houses
 
@@ -168,7 +168,7 @@ The most common sanction, by frequency, is **temporary suspension of clearing ri
 - **The [[affiliation-aerarimmpr|The Aerarium Imperii]]** — operational counterpart and ultimate backing. The relationship is described publicly as one of "guild standing" rather than subordination; the Argentariorum's reserves are part of the broader Aerarium-backed pool, the guild's clearing flows through Aerarium accounts, and the guild's senior leadership coordinates closely (and quietly) with the Quaestor Imperii.
 - **The [[affiliation-magnumclgm|The Magnum Collegium]]** — chartering authority; the Argentariorum holds the Magnum Collegium charter that lets it operate as a guild, occupies one of the thirty-six trade-seats on the Curia Collegiorum (held ex officio by the Argentarius Magnar), and is subject to the Censores Collegiorum's broader oversight.
 - **The post-imperial crowns and the Byzarian League** — major customers and political counterparties. The crowns hold accounts at great houses, borrow against future revenue (often substantially), and negotiate quietly with the Argentariorum's leadership over the terms of their banking relationships.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — perennial concern. The [[affiliation-crimsnldgr|Crimson Ledger]]'s reach into the legitimate banking system is the guild's standing internal problem; several Censor investigations are continuously in progress; the Council's discipline of compromised members has been criticized by the Reformist Faction as too lenient.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — perennial concern. The [[affiliation-crimsnldgr|Crimson Ledger]]'s reach into the legitimate banking system is the guild's standing internal problem; several Censor investigations are continuously in progress; the Council's discipline of compromised members has been criticized by the Reformist Faction as too lenient.
 - **The [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah** — formally unrecognized counterpart in Harad. The Bayt's moneylenders operate a parallel system; the Argentariorum's members are forbidden from accepting Bayt paper directly. A small number of Heliónite member houses operate as quiet cross-border intermediaries; the guild's leadership officially deplores this and unofficially tolerates it.
 
 ## Identifying Marks

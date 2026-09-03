@@ -108,7 +108,7 @@ folder: dxzsTyaF4LMapIJX
 
 The **Vyālendravāda** is a monistic sect — one of the oldest philosophical schools within the Varṇakan tradition — which holds that [[affiliation-vyalendra|Vyālendra]] is the single supreme deity from whom the entire pantheon emanates. The other gods are not denied; they are reinterpreted as specialised expressions of Vyālendra's shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To the Vyālendravāda, to worship the pantheon honestly is to worship Vyālendra through whichever of his aspects a given occasion demands.
 
-The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[doc-vedyarargn|Vedyara Region]]. Its temples are fewer than those of the Trimūrti-sampradāya but tend to be magnificent works of architecture — the sect holds that a well-proportioned temple is itself the fullest theological argument for the doctrine. Its priests are often trained as deeply in geometry and engineering as in theology, and a number of the great public works of the Vedyaran cities stand as monuments to Vyāndran scholarship.
+The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than those of the Trimūrti-sampradāya but tend to be magnificent works of architecture — the sect holds that a well-proportioned temple is itself the fullest theological argument for the doctrine. Its priests are often trained as deeply in geometry and engineering as in theology, and a number of the great public works of the Vedyaran cities stand as monuments to Vyāndran scholarship.
 
 The relationship with the orthodox Trimūrti-sampradāya is cordial but not without friction. Orthodox priests regard the Vyālendravāda's interpretation of the lesser gods as reductive; Vyāndran scholars regard the orthodox triad as a pedagogical convenience that should not be mistaken for the deepest truth. In practice, most Vedyarans move freely between temples of both sects without difficulty.
 
@@ -143,9 +143,9 @@ The relationship with the orthodox Trimūrti-sampradāya is cordial but not with
 
 ## Orders
 
-- **Academy of the Shining Pattern** — the philosophical arm of the sect; the premier school of architecture and theology in [[doc-vedyarargn|Vedyara Region]], with branches in every major city.
+- **Academy of the Shining Pattern** — the philosophical arm of the sect; the premier school of architecture and theology in [[place-vedyarargn|Vedyara Region]], with branches in every major city.
 - **Guild of the Scholar-Builders** — an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
 
 ## Geographic Presence
 
-Vyālendravāda is strongest in the old scholarly capitals of [[doc-vedyarargn|Vedyara Region]] and in cities where the building guilds hold particular political weight. It has little presence in the villages, and its priests are rarely found travelling rural circuits.
+Vyālendravāda is strongest in the old scholarly capitals of [[place-vedyarargn|Vedyara Region]] and in cities where the building guilds hold particular political weight. It has little presence in the villages, and its priests are rarely found travelling rural circuits.

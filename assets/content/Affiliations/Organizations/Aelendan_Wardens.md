@@ -95,12 +95,12 @@ folder: DWK5QE0GRZ8br2mk
 # The Áelendan Wardens
 
 - **Type:** Ancient protective order
-- **Parent people:** [[doc-aelendnppl|Áelendan]]
-- **Region:** [[doc-elavendre|Élavendre]], principally the [[doc-drenavrspn|Drenavar Spine]] and deep forests
+- **Parent people:** [[lore-aelendnppl|Áelendan]]
+- **Region:** [[place-elavendre|Élavendre]], principally the [[place-drenavrspn|Drenavar Spine]] and deep forests
 
 ## Overview
 
-The **Áelendan Wardens** are an ancient order tasked with protecting the sacred sites of the mountains and deep forests of [[doc-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the Covenant — the ancient compact between the [[doc-aelendnppl|Áelendan]] and the land itself — and their authority over sacred territory is recognized by both Áelendan custom and the crown of Élavendre.
+The **Áelendan Wardens** are an ancient order tasked with protecting the sacred sites of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the Covenant — the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself — and their authority over sacred territory is recognized by both Áelendan custom and the crown of Élavendre.
 
 ## Origin and Purpose
 
@@ -135,14 +135,14 @@ The Wardens have no central headquarters in the manner of a lowland military ord
 
 The principal concentrations of Wardens correspond to the most sacred sites:
 
-- **[[doc-drenavrspn|The Drenavar Spine]]** — The central sacred range, with the largest Warden presence
+- **[[place-drenavrspn|The Drenavar Spine]]** — The central sacred range, with the largest Warden presence
 - **The Silver Forests** — Ancient fae-touched woodland under heavy Warden watch
 - **Mountain sanctuaries and grove shrines** — Scattered across the interior, each with its own small complement of Wardens
 
 ## See Also
 
-- [[doc-aelendnppl|Áelendan]] — The people the Wardens serve
-- [[doc-elavendre|Élavendre]] — The kingdom in which the Wardens operate
-- [[doc-drenavrspn|Drenavar Spine]] — Primary sacred territory
-- [[doc-eshalshldg|Eshálosha Lodge]] — Áelendan political and ceremonial center
+- [[lore-aelendnppl|Áelendan]] — The people the Wardens serve
+- [[place-elavendre|Élavendre]] — The kingdom in which the Wardens operate
+- [[place-drenavrspn|Drenavar Spine]] — Primary sacred territory
+- [[place-eshalshldg|Eshálosha Lodge]] — Áelendan political and ceremonial center
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The principal contemporary threat to sacred territory

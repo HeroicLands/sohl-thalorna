@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ha'nal Xi'lan is the central city and seat of the [[doc-hanalxilan|Ha'nal Xi'lan]] city-state.
+_To be written._ Ha'nal Xi'lan is the central city and seat of the [[affiliation-hanalxilan|Ha'nal Xi'lan]] city-state.

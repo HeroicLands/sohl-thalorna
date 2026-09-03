@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Pelagora is the capital and principal settlement of [[doc-pelagora|Pelagora]].
+_To be written._ Pelagora is the capital and principal settlement of [[affiliation-pelagora|Pelagora]].

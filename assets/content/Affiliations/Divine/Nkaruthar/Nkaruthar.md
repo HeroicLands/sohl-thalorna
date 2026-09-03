@@ -95,11 +95,11 @@ folder: nxa3f1OrL9YY0I1Z
 
 # Nkaru'thar: The Eternal Flame
 
-- **Region:** [[doc-okharis|Kingdom of Okháris]]
+- **Region:** [[affiliation-okharis|Kingdom of Okháris]]
 - **Nature:** Monotheistic with tripartite aspects and animistic sub-traditions
 - **Symbol:** Three interlocking flames (one white, one gold, one red)
 
-The people of [[doc-okharis|Okháris]] worship **Nkaru'thar** — the Eternal Flame — as the singular divine force from which all creation, destruction, and renewal flows. Unlike the polytheistic pantheons of [[doc-ankrscntnnt|Ankaris Continent]] or the celestial bureaucracy of [[affiliation-tngvkvnlei|Tānvür]], the Okháric faith centers on a single godhead whose power manifests in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
+The people of [[affiliation-okharis|Okháris]] worship **Nkaru'thar** — the Eternal Flame — as the singular divine force from which all creation, destruction, and renewal flows. Unlike the polytheistic pantheons of [[place-ankrscntnnt|Ankaris Continent]] or the celestial bureaucracy of [[affiliation-tngvkvnlei|Tānvür]], the Okháric faith centers on a single godhead whose power manifests in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
 
 Nkaru'thar is not depicted in human or animal form. The Eternal Flame is understood as a living force — the fire that burned before the world existed, that kindled the first life, and that will one day consume all things so they may be reborn. Every hearth fire, every forge flame, every bolt of lightning is a fragment of Nkaru'thar's presence in the mortal world.
 
@@ -109,7 +109,7 @@ The theology of Nkaru'thar holds that the Eternal Flame's power divides into thr
 
 **Zarhánis — The Spirit Flame** (white fire) The flame of faith, wisdom, and prophecy. Zarhánis is the spiritual capital of Okháris, home to the largest temple complex, believed to be the birthplace of the kingdom's religion. Its great pyramid is adorned with murals and carvings detailing Nkaru'thar's creation of the world. Zarhánis is ruled by the **High Pyremant**, the supreme spiritual leader of all Okháris and advisor to the Overlord. The Spirit Flame governs the inner life: dreams, visions, communion with the ancestors, and the passage of the soul after death.
 
-**Kaljékor — The Golden Flame** (gold fire) The flame of abundance, prosperity, and commerce. Kaljékor sits at the crossroads of major trade routes, and its pyramidal temple complex doubles as a vast marketplace bustling with merchants from [[doc-empirtkhpr|Ta'Kheperu]], the [[doc-vylarinmpr|Vylarian Sea]], and beyond. Ruled by a council of priest-nobles, Kaljékor's influence extends far through trade alliances. The Golden Flame governs the material world: harvest, craft, wealth, negotiation, and the bonds of exchange that hold communities together.
+**Kaljékor — The Golden Flame** (gold fire) The flame of abundance, prosperity, and commerce. Kaljékor sits at the crossroads of major trade routes, and its pyramidal temple complex doubles as a vast marketplace bustling with merchants from [[affiliation-empirtkhpr|Ta'Kheperu]], the [[affiliation-vylarinmpr|Vylarian Sea]], and beyond. Ruled by a council of priest-nobles, Kaljékor's influence extends far through trade alliances. The Golden Flame governs the material world: harvest, craft, wealth, negotiation, and the bonds of exchange that hold communities together.
 
 **Vuthráka — The Wild Flame** (red fire) The flame of war, protection, and destruction. Vuthráka guards the southern frontier of Okháris. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats. Ruled by the **Warden of the Flame**, a warrior-priest who commands Okháris's armies during times of conflict. The Wild Flame governs the body and the battlefield: strength, courage, sacrifice, and the violent renewal that follows destruction.
 
@@ -215,6 +215,6 @@ Outside the city-states, the faith is maintained by **shamans** (often called **
 
 Nkaru'thar is a distinctly Okháric tradition with no direct counterpart in any other Thalorna pantheon. The fire-worship elements bear a superficial resemblance to the [[affiliation-surtr|Faith of Súrtr]] in the [[affiliation-asguardian|Asguardian]] tradition, but the theological foundations are entirely different: where Súrtr represents destruction and chaos as ends in themselves, Nkaru'thar's destructive aspect is always understood as part of a cycle of renewal.
 
-The [[affiliation-kemtnpnthn|Kemetian]] faith of neighboring [[doc-empirtkhpr|Ta'Kheperu]] has had some contact with Okháric beliefs through trade and border interaction, but the two traditions remain distinct. Kemetian scholars tend to view Nkaru'thar as a primitive fire cult, while Okháric priests consider the elaborate Kemetian pantheon an unnecessary fragmentation of what is fundamentally one divine force.
+The [[affiliation-kemtnpnthn|Kemetian]] faith of neighboring [[affiliation-empirtkhpr|Ta'Kheperu]] has had some contact with Okháric beliefs through trade and border interaction, but the two traditions remain distinct. Kemetian scholars tend to view Nkaru'thar as a primitive fire cult, while Okháric priests consider the elaborate Kemetian pantheon an unnecessary fragmentation of what is fundamentally one divine force.
 
 The animistic spirit traditions of the Xerathian interior share significant common ground with the zohira veneration of the Okháric faith, suggesting deep ancestral roots that predate the formalized temple worship of the city-states.

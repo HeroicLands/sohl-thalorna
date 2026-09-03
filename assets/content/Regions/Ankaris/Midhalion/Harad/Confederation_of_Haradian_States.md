@@ -93,7 +93,7 @@ data:
     - midhalnrgn
   population: 12000000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
@@ -108,11 +108,11 @@ terran_analog: "Israel and Lebanon, plus the islands off their coasts — Phoeni
 folder: umL4KFGO3MD4u9X1
 ---
 
-The Confederation of Haradian States is a collection of city-states on the eastern edge of the [[doc-vylarianse|Vylarian Sea]]. Harad is a powerful maritime region known for its naval supremacy, merchant guilds, and complex political intrigue. The coastal states are filled with wealthy trading cities, while the inland areas are home to tribal communities and ancient ruins. Roughly twelve years ago, Harad fought and won a war of independence from the [[doc-vylarinmpr|Vylarian Empire]], but the freedom the veterans bled for has been seized by merchant oligarchs, and the confederation's politics are as cutthroat as they ever were under imperial rule.
+The Confederation of Haradian States is a collection of city-states on the eastern edge of the [[place-vylarianse|Vylarian Sea]]. Harad is a powerful maritime region known for its naval supremacy, merchant guilds, and complex political intrigue. The coastal states are filled with wealthy trading cities, while the inland areas are home to tribal communities and ancient ruins. Roughly twelve years ago, Harad fought and won a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]], but the freedom the veterans bled for has been seized by merchant oligarchs, and the confederation's politics are as cutthroat as they ever were under imperial rule.
 
 ## Geography
 
-Harad occupies the eastern shores and hinterland of the Vylarian Sea. The coastline is deeply indented, creating natural harbors that have made Harad the premier maritime region of western Ankaris. Inland, the terrain rises from fertile coastal plains through rolling hills to arid scrubland that transitions into the wastes of the [[doc-khzryndsrtrgn|Khazryn Desert Region]] and [[doc-dunharargn|Dunhara Region]] to the east. The climate is warm and dry, with hot summers tempered by sea breezes.
+Harad occupies the eastern shores and hinterland of the Vylarian Sea. The coastline is deeply indented, creating natural harbors that have made Harad the premier maritime region of western Ankaris. Inland, the terrain rises from fertile coastal plains through rolling hills to arid scrubland that transitions into the wastes of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-dunharargn|Dunhara Region]] to the east. The climate is warm and dry, with hot summers tempered by sea breezes.
 
 An archipelago off the eastern coast plays a critical role in controlling trade routes, further strengthening Harad's dominance on the seas. These islands serve as naval bases, trading entrepôts, and — for those who know the channels — smuggling havens.
 
@@ -120,13 +120,13 @@ An archipelago off the eastern coast plays a critical role in controlling trade 
 
 ### Under the Empire
 
-Harad was among the first regions absorbed by the expanding Vylarian Republic, and when the Republic became the Empire in Year 1, Harad was already an old possession. For centuries it served as the empire's eastern anchor — the gateway to trade with [[doc-empirtkhpr|The Empire of Ta'Kheperu]], [[doc-dunharargn|Dunhara Region]], the [[doc-khzryndsrtrgn|Khazryn Desert Region]], and lands beyond. Haradian harbors funneled eastern wealth into imperial coffers, and Haradian ships carried Vylarian goods to markets the legions could never reach. It was, by any measure, one of the empire's most valuable provinces.
+Harad was among the first regions absorbed by the expanding Vylarian Republic, and when the Republic became the Empire in Year 1, Harad was already an old possession. For centuries it served as the empire's eastern anchor — the gateway to trade with [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], [[place-dunharargn|Dunhara Region]], the [[place-khzryndsrtrgn|Khazryn Desert Region]], and lands beyond. Haradian harbors funneled eastern wealth into imperial coffers, and Haradian ships carried Vylarian goods to markets the legions could never reach. It was, by any measure, one of the empire's most valuable provinces.
 
 It was also one of its most restive. The Haradian city-states had been trading powers long before Vylaria conquered them, and they never fully accepted the role of provincial subjects. Haradians paid their taxes, obeyed their governors, and sent their sons to serve in the legions — but they did so with a resentment that grew deeper with each generation.
 
 ### The Rise of the Merchant Princes
 
-The seeds of rebellion were planted not by radicals but by success. As the Empire's reach extended eastward and southward, Haradian merchants became indispensable intermediaries — they knew the languages, the sea routes, the customs, and the contacts that Vylarian traders lacked. The great trading families of [[doc-tamavar|Tamavar]], [[doc-kethara|Kethara]], and [[doc-ashkabel|Ashkabel]] grew spectacularly wealthy, building commercial empires within the political empire that ruled them.
+The seeds of rebellion were planted not by radicals but by success. As the Empire's reach extended eastward and southward, Haradian merchants became indispensable intermediaries — they knew the languages, the sea routes, the customs, and the contacts that Vylarian traders lacked. The great trading families of [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], and [[affiliation-ashkabel|Ashkabel]] grew spectacularly wealthy, building commercial empires within the political empire that ruled them.
 
 These **merchant princes** — the heads of the great trading houses — accumulated power that sat uncomfortably alongside Vylarian authority. They controlled the shipping lanes, the warehouses, the counting houses, and the networks of agents and factors that made eastern trade possible. A Vylarian governor might issue edicts, but it was Haradian merchants who decided whether goods actually moved. The empire needed Harad's commerce far more than Harad needed the empire's governance.
 
@@ -148,11 +148,11 @@ The militias that formed in the port cities drew from every class. Dock workers 
 
 ### The War
 
-The Haradian War of Independence began roughly twelve years before the present day, and it began badly. The empire's response to the initial uprising was swift and brutal. Vylarian legions garrisoned in Harad moved to crush the rebellion before it could spread. The first major engagements — skirmishes outside [[doc-tamavar|Tamavar]] and an attempted blockade of [[doc-kethara|Kethara]] — went decisively in the empire's favor. The Haradian militias, brave but disorganized, were no match for professional legions in open battle.
+The Haradian War of Independence began roughly twelve years before the present day, and it began badly. The empire's response to the initial uprising was swift and brutal. Vylarian legions garrisoned in Harad moved to crush the rebellion before it could spread. The first major engagements — skirmishes outside [[affiliation-tamavar|Tamavar]] and an attempted blockade of [[affiliation-kethara|Kethara]] — went decisively in the empire's favor. The Haradian militias, brave but disorganized, were no match for professional legions in open battle.
 
 The early months were desperate. Tamavar was briefly besieged. Haradian militias were routed in three successive engagements on the coastal plains. The inland tribes, fighting on terrain they knew, had more success harassing imperial supply lines, but they lacked the numbers to force a decision. Morale among the rebels wavered. The merchant princes, who had expected a swift and relatively bloodless separation — a negotiated departure backed by economic leverage — found themselves financing a real war with real casualties and no guarantee of victory.
 
-What saved the rebellion — before Haradian arms could save themselves — was [[doc-empirtkhpr|The Empire of Ta'Kheperu]].
+What saved the rebellion — before Haradian arms could save themselves — was [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]].
 
 The merchant princes had sent envoys south at the very start of the uprising, and the Kheperi court received them with the elaborate hospitality that meant serious interest. Ta'Kheperu had its own reasons for wanting a weakened Vylaria. The empire's eastern provinces — Harad chief among them — were the interface between Vylarian and Kheperi spheres of influence, and a Harad still under imperial control was a Harad whose harbors served Vylarian strategic interests. An independent Harad, by contrast, would be a grateful trading partner with no reason to favor Vylarian commerce over Kheperi.
 
@@ -202,7 +202,7 @@ The most dangerous — the captains and militia leaders who refused to be silenc
 
 Many of the outlawed veterans took to the sea. If the guilds wanted to call them pirates, they would be pirates. The waters around the Haradian archipelago — the same island channels and hidden coves that had sheltered the war-flotilla — became the hunting ground of men and women who had once been heroes and were now fugitives. They raided guild shipping, sheltered in ports that the Corsair League could not easily reach, and maintained loose networks of mutual aid among the dispossessed. They called themselves by various names — the Free Captains, the Unchained, the Shoals Brotherhood — but the guilds called them all the same thing: pirates.
 
-The undercurrent of rebellion in Harad has never gone away. It rises periodically — a harbor strike in [[doc-kethara|Kethara]], a tax riot in the dock districts of [[doc-tamavar|Tamavar]], a tribal raid on a guild caravan — and each time it is ruthlessly suppressed. The guilds have learned from the empire's mistakes: they do not send legions to crush dissent, because legions create martyrs. Instead, they use economic pressure (revoked licenses, called-in debts, blacklisted families), targeted enforcement (guild enforcers are quieter than soldiers), and the simple, grinding weight of an economic system designed to keep the powerless in their place.
+The undercurrent of rebellion in Harad has never gone away. It rises periodically — a harbor strike in [[affiliation-kethara|Kethara]], a tax riot in the dock districts of [[affiliation-tamavar|Tamavar]], a tribal raid on a guild caravan — and each time it is ruthlessly suppressed. The guilds have learned from the empire's mistakes: they do not send legions to crush dissent, because legions create martyrs. Instead, they use economic pressure (revoked licenses, called-in debts, blacklisted families), targeted enforcement (guild enforcers are quieter than soldiers), and the simple, grinding weight of an economic system designed to keep the powerless in their place.
 
 But the anger does not dissipate. It accumulates. The veterans who fought at Tamzîr Shoals are growing old, but their children have inherited the betrayal. The dock workers and fishermen know what was promised and what was delivered. The inland tribes remember everything. And on the waterfront, in the taverns and the veterans' halls and the hidden anchorages of the archipelago, people still pass around the old broadsheets — the ones the merchant princes printed during the revolution, with their broken chains and rising suns and brave words about freedom — and they read them with a bitterness that the men who wrote them never intended.
 
@@ -212,7 +212,7 @@ It is into this world that the [[affiliation-thetamzir|The Tamzîr]] sails. Her 
 
 ## Culture and Society
 
-Haradian culture is mercantile at its core. Wealth, reputation, and the ability to strike a profitable deal are the highest virtues. The great trading houses — sprawling family enterprises that combine banking, shipping, warehousing, and political influence — are the true power in Harad. Their warehouses line every harbor, their agents operate in every port of the Vylarian Sea, and their influence reaches into the courts of [[doc-vylarinmpr|Vylaria]], [[doc-provenzrgn|Provènzia Region]], and [[doc-helionis|Heliónis]].
+Haradian culture is mercantile at its core. Wealth, reputation, and the ability to strike a profitable deal are the highest virtues. The great trading houses — sprawling family enterprises that combine banking, shipping, warehousing, and political influence — are the true power in Harad. Their warehouses line every harbor, their agents operate in every port of the Vylarian Sea, and their influence reaches into the courts of [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provènzia Region]], and [[place-helionis|Heliónis]].
 
 Society is sharply divided between the guild elite and everyone else. The guild families live in palatial urban estates, patronize the arts, and educate their children in rhetoric, mathematics, and mercantile law. Below them, a large middle class of independent merchants, skilled craftspeople, and ship captains forms the economic backbone. At the bottom, dock workers, sailors, and the urban poor live in cramped harbor districts and are increasingly restless.
 
@@ -240,15 +240,15 @@ Independent magical practitioners — hedge mages, alchemists, and fortune-telle
 
 ## The War of Independence — Summary
 
-The full history of the war and its aftermath is detailed **above**. In brief: the Haradian War of Independence (roughly twelve years ago) was a defining event for the confederation and for the broader politics of the Vylarian Sea. Driven by imperial overtaxation and suppression of Haradian commerce, the merchant princes recruited the common people with promises of freedom and self-governance. Covert aid from [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — gold, weapons, and military advisors — proved critical in sustaining the rebellion through its desperate early months. The war began with early defeats on land but was won at sea, culminating in the decisive **Battle of Tamzîr Shoals**, where a makeshift Haradian fleet destroyed a Vylarian naval squadron in treacherous shallow waters. The merchant guilds that financed the war then seized political power, outlawed or imprisoned many of the freedom fighters who had won it, and the freedom the veterans bled for became an oligarchy controlled by the same families that had paid for the revolution.
+The full history of the war and its aftermath is detailed **above**. In brief: the Haradian War of Independence (roughly twelve years ago) was a defining event for the confederation and for the broader politics of the Vylarian Sea. Driven by imperial overtaxation and suppression of Haradian commerce, the merchant princes recruited the common people with promises of freedom and self-governance. Covert aid from [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — gold, weapons, and military advisors — proved critical in sustaining the rebellion through its desperate early months. The war began with early defeats on land but was won at sea, culminating in the decisive **Battle of Tamzîr Shoals**, where a makeshift Haradian fleet destroyed a Vylarian naval squadron in treacherous shallow waters. The merchant guilds that financed the war then seized political power, outlawed or imprisoned many of the freedom fighters who had won it, and the freedom the veterans bled for became an oligarchy controlled by the same families that had paid for the revolution.
 
 ## Relations
 
-Relations with [[doc-vylarinmpr|Vylaria]] are officially correct but privately hostile. The empire has not forgiven the loss of Harad, and Vylarian agents — often working in concert with the [[affiliation-ordoarcanis|Ordo Arcanis]] — continue to operate in Haradian cities, gathering intelligence and cultivating sympathizers. Haradian merchants, for their part, are aggressively expanding into markets the empire once dominated.
+Relations with [[affiliation-vylarinmpr|Vylaria]] are officially correct but privately hostile. The empire has not forgiven the loss of Harad, and Vylarian agents — often working in concert with the [[affiliation-ordoarcanis|Ordo Arcanis]] — continue to operate in Haradian cities, gathering intelligence and cultivating sympathizers. Haradian merchants, for their part, are aggressively expanding into markets the empire once dominated.
 
-[[doc-helionis|Heliónis]] to the west is a natural trading partner, and the two regions share cultural and intellectual ties. [[doc-empirtkhpr|The Empire of Ta'Kheperu]] to the south is Harad's most important long-distance trading partner, and the relationship runs deeper than commerce. Kheperi gold, weapons, and military advisors were instrumental in Harad's war of independence — a debt the merchant princes publicly deny and privately honor through preferential trade agreements, reduced harbor fees for Kheperi vessels, and quiet diplomatic coordination that consistently favors Kheperi interests over Vylarian ones. The post-independence surge in Haradian-Kheperi commerce has been one of the most significant economic shifts in the Vylarian Sea: trade routes that once funneled eastern wealth through Vylarian intermediaries now flow directly between Haradian and Kheperi ports, enriching both and further diminishing the empire's commercial position. For Ta'Kheperu, the investment in Haradian independence has paid for itself many times over.
+[[place-helionis|Heliónis]] to the west is a natural trading partner, and the two regions share cultural and intellectual ties. [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] to the south is Harad's most important long-distance trading partner, and the relationship runs deeper than commerce. Kheperi gold, weapons, and military advisors were instrumental in Harad's war of independence — a debt the merchant princes publicly deny and privately honor through preferential trade agreements, reduced harbor fees for Kheperi vessels, and quiet diplomatic coordination that consistently favors Kheperi interests over Vylarian ones. The post-independence surge in Haradian-Kheperi commerce has been one of the most significant economic shifts in the Vylarian Sea: trade routes that once funneled eastern wealth through Vylarian intermediaries now flow directly between Haradian and Kheperi ports, enriching both and further diminishing the empire's commercial position. For Ta'Kheperu, the investment in Haradian independence has paid for itself many times over.
 
-Relations with [[doc-dunharargn|Dunhara Region]]'s nomadic tribes are complex — the desert people control overland trade routes that the coastal cities depend on, creating a mutually profitable but often tense relationship.
+Relations with [[place-dunharargn|Dunhara Region]]'s nomadic tribes are complex — the desert people control overland trade routes that the coastal cities depend on, creating a mutually profitable but often tense relationship.
 
 ## Notable Features
 
@@ -260,25 +260,25 @@ Relations with [[doc-dunharargn|Dunhara Region]]'s nomadic tribes are complex �
 
 ## Major City-States
 
-- **[[doc-tamavar|Tamavar]]** — The largest and wealthiest city; de facto capital. Seat of the Grand Council and the [[affiliation-auricompct|Auric Compact]].
-- **[[doc-kethara|Kethara]]** — The naval stronghold controlling the strait to the archipelago. Home of the [[affiliation-corsairleg|Corsair League]] and the war veterans.
-- **[[doc-varoshan|Varoshan]]** — The eastern gateway where sea trade meets the overland caravan routes. Most cosmopolitan city; dominant [[affiliation-ashanpnthn|Āsháian]] faith.
-- **[[doc-ashkabel|Ashkabel]]** — The cultural heart. Famous for ship design, academies, and a more balanced political culture.
+- **[[affiliation-tamavar|Tamavar]]** — The largest and wealthiest city; de facto capital. Seat of the Grand Council and the [[affiliation-auricompct|Auric Compact]].
+- **[[affiliation-kethara|Kethara]]** — The naval stronghold controlling the strait to the archipelago. Home of the [[affiliation-corsairleg|Corsair League]] and the war veterans.
+- **[[affiliation-varoshan|Varoshan]]** — The eastern gateway where sea trade meets the overland caravan routes. Most cosmopolitan city; dominant [[affiliation-ashanpnthn|Āsháian]] faith.
+- **[[affiliation-ashkabel|Ashkabel]]** — The cultural heart. Famous for ship design, academies, and a more balanced political culture.
 
 ## Commerce and Currency
 
-Confederation of Haradian States uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.
+Confederation of Haradian States uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Former imperial overlord
-- [[doc-helionis|Heliónis]] — Western trading partner
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Southern trading partner
-- [[doc-dunharargn|Dunhara Region]] — Eastern overland trade routes
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Former imperial overlord
+- [[place-helionis|Heliónis]] — Western trading partner
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Southern trading partner
+- [[place-dunharargn|Dunhara Region]] — Eastern overland trade routes
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Arcane guild with complicated local status
-- [[doc-vylarianse|Vylarian Sea]] — Harad's maritime domain
+- [[place-vylarianse|Vylarian Sea]] — Harad's maritime domain
 - [[skill-haradilng|Haradi]] — Naming conventions
 - [[affiliation-arldnpnthn|Aurèldían]] — Primary pantheon
 - [[affiliation-ashanpnthn|Āsháian]] — Secondary pantheon (eastern states)
-- [[doc-tamavar|Tamavar]], [[doc-kethara|Kethara]], [[doc-varoshan|Varoshan]], [[doc-ashkabel|Ashkabel]] — Major city-states
+- [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Major city-states
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]] — Major guilds

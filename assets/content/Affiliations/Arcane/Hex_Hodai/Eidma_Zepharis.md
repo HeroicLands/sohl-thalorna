@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Zephäris** is the Eídma of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-sideros|Eídma Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zephäris is the smallest of the six Sodalitates by membership, but its practitioners are disproportionately represented among the Ordo's most subtle and dangerous operatives.
+Eídma **Zephäris** is the Eídma of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-sideros|Eídma Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zephäris is the smallest of the six Sodalitates by membership, but its practitioners are disproportionately represented among the Ordo's most subtle and dangerous operatives.
 
 ## Philosophy
 
@@ -119,7 +119,7 @@ The Sodalitas Zephäris also produces the Ordo's finest illusionists and communi
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-sideros|Eídma Sidéros]] — The opposing Eídma
 - [[affiliation-pyrethos|Eídma Pyréthos]] — Adjacent Eídma (dynamism)
 - [[affiliation-physera|Eídma Physéra]] — Adjacent Eídma (the natural world)

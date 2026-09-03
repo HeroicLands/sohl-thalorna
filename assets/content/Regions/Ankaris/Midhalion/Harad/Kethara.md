@@ -88,7 +88,7 @@ data:
     - haradregin
   population: 2200000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
@@ -104,7 +104,7 @@ Kethara is the Confederation's naval stronghold — a heavily fortified city on 
 
 ## Character
 
-Where [[doc-tamavar|Tamavar]] runs on money, Kethara runs on pride. The city's culture is shaped by its naval tradition — the great families are admirals' families, status is measured in ships commanded and battles won, and the city's festivals center on martial display rather than commercial spectacle. The annual Fleet Review, commemorating the Battle of Tamzîr Shoals, draws visitors from across the Confederation.
+Where [[affiliation-tamavar|Tamavar]] runs on money, Kethara runs on pride. The city's culture is shaped by its naval tradition — the great families are admirals' families, status is measured in ships commanded and battles won, and the city's festivals center on martial display rather than commercial spectacle. The annual Fleet Review, commemorating the Battle of Tamzîr Shoals, draws visitors from across the Confederation.
 
 Kethara's population includes a large community of war veterans — sailors and marines from the independence war who settled here afterward. These veterans are a politically potent and increasingly frustrated group. They fought for Haradian freedom and received promises of land, status, and guild membership that were never honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds view them as a nuisance; the veterans view the guilds as traitors to the cause they financed but never bled for.
 
@@ -119,10 +119,10 @@ This is the city where the captain of the [[affiliation-thetamzir|The Tamzîr]] 
 
 ## Commerce and Currency
 
-Kethara uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.
+Kethara uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
-- [[doc-tamavar|Tamavar]], [[doc-varoshan|Varoshan]], [[doc-ashkabel|Ashkabel]] — Sister city-states
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
+- [[affiliation-tamavar|Tamavar]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states
 - [[affiliation-corsairleg|Corsair League]] — The guild with strongest roots here

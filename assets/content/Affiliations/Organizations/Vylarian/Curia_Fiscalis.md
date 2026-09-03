@@ -84,8 +84,8 @@ folder:
 _Vylarian: Curia Fiscalis — "the Fiscal Court"_
 
 - **Type:** Imperial state institution; taxation administration
-- **Region of operation:** [[doc-vylarinmpr|Vylaria]] proper and [[doc-helionis|Heliónis]] — the territories currently subject to imperial governance
-- **Seat:** The Fiscal Hall, within the **Officia Imperii** in the Inner City of [[doc-magnapolis|Magnápolis]]
+- **Region of operation:** [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]] — the territories currently subject to imperial governance
+- **Seat:** The Fiscal Hall, within the **Officia Imperii** in the Inner City of [[place-magnapolis|Magnápolis]]
 - **Founded:** Constituted in the founding-era reforms of the second Augustar, three centuries ago; reorganized into its present form roughly a century later
 
 ## Overview

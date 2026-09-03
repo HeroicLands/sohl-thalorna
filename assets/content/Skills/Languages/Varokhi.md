@@ -27,7 +27,7 @@ flags:
 
 Varokhi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Varokhi is the tongue of the tribal peoples of the [[doc-vrystwald|Vrystwald]] forests and portions of western [[doc-aelwyth|Aelwyth]], spoken by the fierce and fiercely independent Varokhi clans. A language with no written form, preserved entirely through oral tradition, Varokhi stands as a testament to the power of spoken word and memory among peoples who reject the written traditions of settled kingdoms.
+Varokhi is the tongue of the tribal peoples of the [[place-vrystwald|Vrystwald]] forests and portions of western [[place-aelwyth|Aelwyth]], spoken by the fierce and fiercely independent Varokhi clans. A language with no written form, preserved entirely through oral tradition, Varokhi stands as a testament to the power of spoken word and memory among peoples who reject the written traditions of settled kingdoms.
 
 ## Overview
 
@@ -77,7 +77,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 **Northern Vrystwald:** Spoken in the forest's northern regions, showing greater phonetic similarity to [[skill-nordmalng|Nordmal]] and more conservative grammar. More nasal vowels and some archaic features.
 
-**Aelwyth Mixed:** Spoken in western [[doc-aelwyth|Aelwyth]] where Varokhi speakers coexist with Élavendri peoples. Shows significant Élavendri vocabulary influence and some grammatical simplification due to bilingual contact.
+**Aelwyth Mixed:** Spoken in western [[place-aelwyth|Aelwyth]] where Varokhi speakers coexist with Élavendri peoples. Shows significant Élavendri vocabulary influence and some grammatical simplification due to bilingual contact.
 
 **Riverside Dialect:** Spoken by Varokhi clans along major rivers, showing loanwords related to trade and boating, and more vocabulary for water-related phenomena.
 
@@ -93,7 +93,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 Varokhi stands closest to [[skill-nordmalng|Nordmal]], with which it shares fundamental vocabulary and much of its basic structure. Speakers with training can achieve mutual intelligibility, though the absence of shared writing systems and the differences in phonetics and grammar create barriers. The linguistic relationship is that of cousins who grew up in different households—recognizably related but with distinct personalities.
 
-The relationship to southern [[doc-pelwarpepl|Pelwar People]] languages (Vylari, Provenzal, Tarvéni, Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
+The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages (Vylari, Provenzal, Tarvéni, Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
 
 [[skill-elvndrlng|Élavendri]] has had significant influence on Varokhi in borderland regions of western Aelwyth, particularly in vocabulary related to magic, nature, and spiritual matters. Some scholars hypothesize ancient contacts between proto-Varokhi and proto-Élavendri speakers that left linguistic traces.
 

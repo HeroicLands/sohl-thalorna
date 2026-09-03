@@ -19,7 +19,7 @@ A shrine hidden in the [[Thúravel Hills]] holds secrets of pre-Aurèldían trad
 
 ## Overview
 
-Deep in the Thúravel Hills of southern [[doc-provenzrgn|Provènzia Region]] stands a [[Shrine_of_Thuravel_Hills|shrine]] forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aurèldían]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
+Deep in the Thúravel Hills of southern [[place-provenzrgn|Provènzia Region]] stands a [[Shrine_of_Thuravel_Hills|shrine]] forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aurèldían]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
 
 ## Stage One: The Commission & Research
 
@@ -108,7 +108,7 @@ Within the shrine, the party discovers:
 
 - The shrine was sealed or abandoned intentionally (why?)
 - The old traditions are not entirely dead (worshippers still exist)
-- The shrine holds power that could influence [[doc-provenzrgn|Provènzia Region]] (political, magical, or spiritual)
+- The shrine holds power that could influence [[place-provenzrgn|Provènzia Region]] (political, magical, or spiritual)
 - A warning or prophecy inscribed in the shrine
 - The shrine's true purpose is different from what history or legend claims
 
@@ -143,9 +143,9 @@ The party must decide what to do with the shrine and its secrets:
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-elavendre|Élavendre]]
-- [[doc-flksinale|Sinalë]]
+- [[place-elavendre|Élavendre]]
+- [[lore-flksinale|Sinalë]]

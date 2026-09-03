@@ -101,7 +101,7 @@ _Aurèldían: Ordo Voti Cinerei — "The Order of the Ashen Vow"_
 
 - **Type:** Fighting religious order (heretical to the mainstream Aurèldían faith)
 - **Patron:** [[affiliation-blackflame|The Black Flame]] — the Vúlcani heresy; [[Faith_of_Vulcan|Vúlcan]] as purifier-through-destruction, fire as weapon and instrument of dominion
-- **Region:** [[doc-aureldirgn|Aurèldía]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[doc-drenavrspn|The Drenavar Spine]] and the Tarvénian highlands
+- **Region:** [[place-aureldirgn|Aurèldía]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|The Drenavar Spine]] and the Tarvénian highlands
 
 ## Overview
 

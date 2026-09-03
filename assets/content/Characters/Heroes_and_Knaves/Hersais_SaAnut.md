@@ -581,7 +581,7 @@ sohl:
         durability: 3
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -589,7 +589,7 @@ Her'sa'îs stands 6'2" tall with a heavy build. He has olive weathered skin, bla
 
 # Dossier {#dossier}
 
-Hersaîs was born into the Sa'Anut family as the eldest son of a tenant-in-chief of the Empire of [[doc-empirtkhpr|Ta'Kheperu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the strategic thinking necessary to command warriors in actual combat. His father died when Hersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
+Hersaîs was born into the Sa'Anut family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the strategic thinking necessary to command warriors in actual combat. His father died when Hersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
 
 The young Hersaîs threw himself into military service, earning a reputation for tactical brilliance and unwavering devotion to the Per-Aá. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Per-Aás sought his counsel on military matters, and he became one of the most influential voices in the Per-Aá's court regarding questions of defense and national security.
 

@@ -30,7 +30,7 @@ Kheperi is a tongue of the Kheperi (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Kheperi is the ancient and sacred tongue of [[doc-empirtkhpr|The Empire of Ta'Kheperu]], the monumental empire spanning the southern reaches of the [[doc-xerathia|Xerathia]] continent. For over three millennia, Kheperi has served as the language of state, ritual, and sacred knowledge—deeply intertwined with the religious and magical traditions that form the bedrock of Kheperian civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
+Kheperi is the ancient and sacred tongue of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], the monumental empire spanning the southern reaches of the [[place-xerathia|Xerathia]] continent. For over three millennia, Kheperi has served as the language of state, ritual, and sacred knowledge—deeply intertwined with the religious and magical traditions that form the bedrock of Kheperian civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
 
 Kheperi is spoken by an estimated 8-12 million people across the Kheperian Empire and its trading colonies. It is also the liturgical tongue of several mystery cults and esoteric orders, giving it prestige and mystical authority far beyond its geographic boundaries.
 

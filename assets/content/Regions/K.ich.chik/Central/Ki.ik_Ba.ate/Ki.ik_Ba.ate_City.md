@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ki'ik Ba'ate is the central city and seat of the [[doc-kiikbaate|Ki'ik Ba'ate]] city-state.
+_To be written._ Ki'ik Ba'ate is the central city and seat of the [[affiliation-kiikbaate|Ki'ik Ba'ate]] city-state.

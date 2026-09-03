@@ -559,7 +559,7 @@ sohl:
     - { shortcode: bktlrg, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -573,7 +573,7 @@ Nakhtar Amun'Râshet was born into the reeds themselves. His family had been tha
 
 ### Years of Mastery
 
-By his thirtieth year, Nakhtar had established himself as the premier thatcher of his region. His roofs did not merely shed water; they sang in the rain, their multiple layers creating harmonies that villagers claimed had medicinal properties. His methods, refined through his own innovations layered atop centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[doc-empirtkhpr|Ta'Kheperian]] empire, his reputation preceding him, his fees among the highest but universally considered worth the investment. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
+By his thirtieth year, Nakhtar had established himself as the premier thatcher of his region. His roofs did not merely shed water; they sang in the rain, their multiple layers creating harmonies that villagers claimed had medicinal properties. His methods, refined through his own innovations layered atop centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empirtkhpr|Ta'Kheperian]] empire, his reputation preceding him, his fees among the highest but universally considered worth the investment. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
 
 ### The Long Afternoon
 

@@ -4,7 +4,7 @@ aliases:
   - Nutzok
 id: nhYIrM34LxAifLFJ
 type: lore
-subType: folk
+subType: culture
 name:
   full: Nützōk
   aliases: []
@@ -16,7 +16,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Slaves and Outcasts**
 
-The Nützōk occupy the lowest stratum of [[doc-tanvurempr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[doc-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.
+The Nützōk occupy the lowest stratum of [[affiliation-tanvurempr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[lore-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.
 
 ## Origins of Nützōk Status
 
@@ -30,7 +30,7 @@ Individuals convicted of serious crimes—murder, major theft, sedition—can be
 
 ### Caste Outcasting
 
-In rare circumstances, a member of any higher caste can be stripped of their status and reduced to Nützōk for profound violations of [[doc-castelaws|Caste Laws]] or severe moral transgression. This process is considered a fate worse than death.
+In rare circumstances, a member of any higher caste can be stripped of their status and reduced to Nützōk for profound violations of [[lore-castelaws|Caste Laws]] or severe moral transgression. This process is considered a fate worse than death.
 
 ## Rights and Restrictions
 
@@ -66,13 +66,13 @@ In all cases, freed slaves face profound social isolation and suspicion. They ar
 
 ## No Redemption
 
-The [[doc-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or systematic transformation of Nützōk into higher castes. The system is designed to perpetuate the condition. Children born to Nützōk parents are automatically Nützōk, inheriting their parents' bondage and degradation. Breaking this chain requires the intervention of masters or exceptional personal circumstances—resources available to vanishingly few.
+The [[lore-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or systematic transformation of Nützōk into higher castes. The system is designed to perpetuate the condition. Children born to Nützōk parents are automatically Nützōk, inheriting their parents' bondage and degradation. Breaking this chain requires the intervention of masters or exceptional personal circumstances—resources available to vanishingly few.
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — rights and restrictions governing Nützōk
-- [[doc-nokvur|Nōkvür]] — peasant farmers, the lowest free caste
-- [[doc-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy
-- [[doc-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement
-- [[doc-zeisik|Law and Honor]] — legal framework governing treatment of slaves
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Nützōk
+- [[lore-nokvur|Nōkvür]] — peasant farmers, the lowest free caste
+- [[lore-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy
+- [[lore-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement
+- [[lore-zeisik|Law and Honor]] — legal framework governing treatment of slaves
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

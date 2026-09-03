@@ -150,7 +150,7 @@ data:
     - tarvenirgn
   population: 1000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
@@ -166,7 +166,7 @@ data:
 folder: DB9rgGreD8FtqoBx
 ---
 
-- **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
+- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
 - **Language:** Tarvéni
 - **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]]
@@ -174,7 +174,7 @@ folder: DB9rgGreD8FtqoBx
 
 ## Overview
 
-Léonrik is the largest, most populous, and most fertile of the three Tarvénan kingdoms, occupying the central-southern lowlands between the mountains of [[doc-kngdmstrth|Astúrath]] and the coast of [[doc-kngdmglvrn|Galváren]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[doc-tarvenirgn|Tarvénia Region]] — and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
+Léonrik is the largest, most populous, and most fertile of the three Tarvénan kingdoms, occupying the central-southern lowlands between the mountains of [[affiliation-kngdmstrth|Astúrath]] and the coast of [[affiliation-kngdmglvrn|Galváren]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[place-tarvenirgn|Tarvénia Region]] — and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
 
 ## Character
 
@@ -182,15 +182,15 @@ Léonrik has the most conventional feudal structure of any Tarvénan region. Its
 
 The kingdom's lowland terrain makes it more accessible — and more vulnerable — than mountainous Astúrath. Léonrik bore the brunt of Vylarian occupation during the imperial era, and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that once served as an early-warning system against Vylarian patrols. The occupation left a lasting mark on Léonriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence — all legacies of Vylarian influence, though no Léonriki lord would thank you for pointing this out.
 
-The capital, **Torváleth**, is the largest town in Tarvénia — a prosperous market center surrounded by some of the richest farmland in western [[doc-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[doc-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
+The capital, **Torváleth**, is the largest town in Tarvénia — a prosperous market center surrounded by some of the richest farmland in western [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
 
 ## Commerce and Currency
 
-Kingdom of Léonrik uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Léonrik is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Léonrik uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Léonrik is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
-- [[doc-tarvenirgn|Tarvénia Region]] — Regional overview
-- [[doc-kngdmstrth|Kingdom of Astúrath]], [[doc-kngdmglvrn|Kingdom of Galváren]] — Sister kingdoms
-- [[doc-frctyvlthr|Free City of Valthári]], [[doc-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions
+- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
+- [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]] — Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions

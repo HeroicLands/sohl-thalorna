@@ -82,7 +82,7 @@ folder:
 _Vylarian: Curia Vylaria — "the Vylarian Court," the Palace of the Senate_
 
 - **Type:** Imperial deliberative assembly and high court; seat of the patrician order
-- **Seat:** The Curia Vylaria, within [[doc-urbsaquiln|Urbs Aquilion]], the Inner City of [[doc-magnapolis|Magnápolis]]
+- **Seat:** The Curia Vylaria, within [[place-urbsaquiln|Urbs Aquilion]], the Inner City of [[place-magnapolis|Magnápolis]]
 - **Membership:** The senatorial order — the senior houses of the [[affiliation-vylrnmltry|Aurelian and Argentean estates]]
 - **Answerable to:** The reigning **Augustar**
 
@@ -96,7 +96,7 @@ The Curia's great bronze doors open on a tiered semicircular chamber, banked so 
 
 ## Power and the Throne
 
-The Curia's authority is real but conditional, and its history is a long oscillation. In principle the Senate advises the Augustar, lends its weight to imperial acts, and speaks for the great houses of the realm. In practice its power waxes and wanes with the strength of whoever wears the imperial diadem. A strong Augustar reduces the Curia to a chorus — consulted for form, flattered, and overruled at will. A weak or contested one finds it suddenly formidable, for in the absence of a commanding throne the assembled great families are the Empire's center of gravity, and a succession dispute is decided as much in the Curia's lobbies as on the walls of the [[doc-castraprtr|Castra Praetoria]]. The throne and the Senate are thus locked in a permanent, shifting negotiation, and reading which way it currently tilts is among the first things any player at court must learn.
+The Curia's authority is real but conditional, and its history is a long oscillation. In principle the Senate advises the Augustar, lends its weight to imperial acts, and speaks for the great houses of the realm. In practice its power waxes and wanes with the strength of whoever wears the imperial diadem. A strong Augustar reduces the Curia to a chorus — consulted for form, flattered, and overruled at will. A weak or contested one finds it suddenly formidable, for in the absence of a commanding throne the assembled great families are the Empire's center of gravity, and a succession dispute is decided as much in the Curia's lobbies as on the walls of the [[place-castraprtr|Castra Praetoria]]. The throne and the Senate are thus locked in a permanent, shifting negotiation, and reading which way it currently tilts is among the first things any player at court must learn.
 
 ## The Senate as High Court
 
@@ -118,8 +118,8 @@ Beyond its deliberative role, the Curia Vylaria is the **highest court for senat
 
 ## See Also
 
-- [[doc-urbsaquiln|Urbs Aquilion]] — the Inner City in which the Curia stands
+- [[place-urbsaquiln|Urbs Aquilion]] — the Inner City in which the Curia stands
 - [[affiliation-curiaurbis|Curia Urbis]] — civic government and courts of the city beyond the wall
 - [[affiliation-vylrnmltry|The Vylarian Military]] — the noble estates that fill the senatorial order
 - [[affiliation-pratrgstrm|The Praetar Augustarum]] — the imperial guard, the armed factor in any succession
-- [[doc-magnapolis|Magnápolis]] · [[doc-vylarinmpr|Vylarian Empire]]
+- [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]

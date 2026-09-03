@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ K'ixim Tzul is the central city and seat of the [[doc-kiximtzul|K'ixim Tzul]] city-state.
+_To be written._ K'ixim Tzul is the central city and seat of the [[affiliation-kiximtzul|K'ixim Tzul]] city-state.

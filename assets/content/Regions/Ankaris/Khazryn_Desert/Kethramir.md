@@ -30,6 +30,6 @@ The settlement's character is pragmatic rather than grand. There is no great tem
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Regional overview
 - [[skill-dunharlng|Dunhari]] — Naming tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition

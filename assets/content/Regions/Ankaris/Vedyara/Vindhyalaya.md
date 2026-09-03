@@ -89,7 +89,7 @@ data:
     - vedyarargn
   population: 8000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
@@ -106,7 +106,7 @@ folder: q61mqomRaSzUNfrY
 
 ## Overview
 
-Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[doc-vedyarargn|Vedyara]], commanding the great passes that link the subcontinent to the caravan routes of the [[doc-dunharargn|Dunhara]] and, further north, the far-eastern markets beyond the [[doc-khzryndsrtrgn|Khazryn]]. Where the southern Vedyari kingdoms are defined by river valleys, tropical ports, and the slow rhythms of agricultural and artisan life, Vindhyālaya is a realm of pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march.
+Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that link the subcontinent to the caravan routes of the [[place-dunharargn|Dunhara]] and, further north, the far-eastern markets beyond the [[place-khzryndsrtrgn|Khazryn]]. Where the southern Vedyari kingdoms are defined by river valleys, tropical ports, and the slow rhythms of agricultural and artisan life, Vindhyālaya is a realm of pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march.
 
 ## Character
 
@@ -114,11 +114,11 @@ Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge o
 
 Hospitality is taken seriously. A traveller who arrives at a Vindhyan village before sundown is owed food, a fire, and a safe night under the clan's roof-tree, and this obligation survives even between feuding clans. Turning a traveller away is the kind of act that a family's descendants still remember three generations later.
 
-The caste system holds, but its practical texture is different: in the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste membership does less to fix a person's daily life than in, say, [[doc-vyalendra2|Vyālendra]] or [[doc-chandrapur|Chandrapur]]. Vindhyan brahmins are respected but are expected to be useful — an ornamental priest is considered faintly ridiculous.
+The caste system holds, but its practical texture is different: in the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste membership does less to fix a person's daily life than in, say, [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan brahmins are respected but are expected to be useful — an ornamental priest is considered faintly ridiculous.
 
 ## Economy
 
-The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice, and worked metal travel north from the Vedyari plains toward [[doc-dunharargn|Dunhari]] oases and the desert emporia beyond; return caravans bring salt, horses, lapis, amber, and the rarer goods of the eastern steppes. Vindhyālaya taxes every bale on entry and again on exit, and the resulting customs revenue keeps the royal coffers full without ever needing to squeeze the peasantry — a stability that the southern kingdoms regard with a mixture of envy and suspicion.
+The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice, and worked metal travel north from the Vedyari plains toward [[place-dunharargn|Dunhari]] oases and the desert emporia beyond; return caravans bring salt, horses, lapis, amber, and the rarer goods of the eastern steppes. Vindhyālaya taxes every bale on entry and again on exit, and the resulting customs revenue keeps the royal coffers full without ever needing to squeeze the peasantry — a stability that the southern kingdoms regard with a mixture of envy and suspicion.
 
 The kingdom itself produces copper, tin, and iron in modest but steady quantities from mountain mines worked by hereditary smithing sub-castes. Vindhyan steel is not as celebrated as Vylarian or even Chandrapuri work, but it is serviceable, cheap, and reliably supplied — virtues that matter enormously to the mercenary companies of the western Vedyari kingdoms, who buy arms by the wagonload.
 
@@ -136,9 +136,9 @@ Succession is hereditary but contested. The Mahārāja's eldest son is the presu
 
 To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is long-standing and mostly cordial. Trade bonds are strong; marriages between Vindhyan princesses and southern courts are a regular feature of Vedyari diplomacy; southern merchants treat the kingdom as an indispensable partner. Border friction flares periodically over grazing rights and customs rates, but outright war is rare.
 
-To the **north**, relations with the [[doc-dunhartrbs|Dunhara tribes]] and with the caravan-guilds of the [[doc-dunharargn|Dunhara]] are the kingdom's great diplomatic preoccupation. The tribes raid in lean seasons and trade in fat ones; the Vindhyan army exists primarily to make the first option unprofitable. A formal treaty with the [[doc-sultntmrdd|Sultanate of Amradad]], renewed every generation, regulates the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the passes.
+To the **north**, relations with the [[affiliation-dunhartrbs|Dunhara tribes]] and with the caravan-guilds of the [[place-dunharargn|Dunhara]] are the kingdom's great diplomatic preoccupation. The tribes raid in lean seasons and trade in fat ones; the Vindhyan army exists primarily to make the first option unprofitable. A formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]], renewed every generation, regulates the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the passes.
 
-To the **east**, across the mountain spine, lie routes that lead eventually to [[doc-tanvurempr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+To the **east**, across the mountain spine, lie routes that lead eventually to [[affiliation-tanvurempr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
 
 ## Notable Features
 
@@ -148,12 +148,12 @@ To the **east**, across the mountain spine, lie routes that lead eventually to [
 
 ## Commerce and Currency
 
-Vindhyālaya uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-vedyarargn|Vedyara Region]] — Regional overview
+- [[place-vedyarargn|Vedyara Region]] — Regional overview
 - [[skill-vedyarlng|Vedyari]] — Language and naming conventions
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
-- [[doc-dunhartrbs|Dunhara Tribes]], [[doc-sultntmrdd|Sultanate of Amradad]] — Northern trading partners and perennial rivals
-- [[doc-chandrapur|Chandrapur]], [[doc-vyalendra2|Vyālendra]] — Southern Vedyari trade partners
+- [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-sultntmrdd|Sultanate of Amradad]] — Northern trading partners and perennial rivals
+- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]] — Southern Vedyari trade partners

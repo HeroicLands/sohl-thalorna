@@ -91,7 +91,7 @@ folder: w9xJ9t5nQB0ajETq
 
 The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|The First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits — the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
 
-Where the [[affiliation-firstgods#The Bright|Bright]] and the [[affiliation-firstgods#The Dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[doc-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
+Where the [[affiliation-firstgods#The Bright|Bright]] and the [[affiliation-firstgods#The Dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[lore-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
 
 ## Character
 
@@ -117,7 +117,7 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 - **Place-kin** — Spirits whose domain is a specific place rather than a lineage of living things. Grove-keepers of particular old-growth stands. Stone-warders of cairns, ridges, standing stones. Cave-spirits of the deep places. Threshold-spirits of the passes and crossings.
 - **Water-kin** — Spirits of rivers, lakes, springs, and falls. Often addressed as "mothers" (the river-mothers) regardless of their specific character. Water-kin are consulted in matters of travel, crossing, drowning, and cleansing.
 - **Weather-kin** — Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances — a storm approaching, a fire to be kindled or quenched — rather than on a standing basis.
-- **Hearth-kin** — Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[doc-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing.
+- **Hearth-kin** — Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing.
 
 A given Kindred may serve the [[affiliation-firstgods#The Bright|Bright]], the [[affiliation-firstgods#The Dark|Dark]], or both. The affiliations are not doctrinal. They are observed — a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
@@ -131,7 +131,7 @@ Pacts are inherited across generations, and the maintenance of them is one of th
 
 ## Relationship with the Fae
 
-The Áelendan distinguish carefully between the Kindred and the **fae** of the [[doc-faecourts|The Fae Courts]] and the [[doc-silvrfrsts|The Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else — beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
+The Áelendan distinguish carefully between the Kindred and the **fae** of the [[lore-faecourts|The Fae Courts]] and the [[place-silvrfrsts|The Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else — beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
 
 That said, the boundary is not absolute. Certain very old Kindred — the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests — are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the Covenant.
 
@@ -143,6 +143,6 @@ Outsiders — travellers, traders, Ordo agents — do not have pacts with the Ki
 
 - [[affiliation-firstgods|The First Gods]] — The pantheon, including the Bright and Dark Powers the Kindred serve
 - [[affiliation-theoldway|The Old Way]] — The religion as practised
-- [[doc-aelendnppl|Áelendan]] — The people whose religious life centres on veneration, appeasement, and warding of the Kindred
+- [[lore-aelendnppl|Áelendan]] — The people whose religious life centres on veneration, appeasement, and warding of the Kindred
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites of the Kindred
-- [[doc-faecourts|The Fae Courts]] — Related but distinct otherworldly polity
+- [[lore-faecourts|The Fae Courts]] — Related but distinct otherworldly polity

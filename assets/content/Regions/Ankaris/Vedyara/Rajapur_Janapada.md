@@ -100,7 +100,7 @@ data:
     - vedyarargn
   population: 25000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
@@ -112,7 +112,7 @@ terran_analog: "Medieval South Indian temple-republic that emerged from the ruin
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. Its population is roughly twenty-two thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi. It is one of the larger and wealthier janapadas of the [[doc-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one.
+The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. Its population is roughly twenty-two thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one.
 
 The "King's-Town" of the name is a memory. There is no longer a king. There has not been one for nine hundred years.
 
@@ -124,7 +124,7 @@ It collapsed not from external conquest but from internal decadence — the stan
 
 The sabhā was convened. It met for forty days. It declared the kingdom dissolved, the dynastic line ended (with full honors and ceremonial acknowledgment of the line's contributions during its better generations), and the territory of the former kingdom reorganized as a federation of villages governed jointly through the temple. The royal palace was demolished and its stones used to enlarge the temple. The royal granaries were nationalized as common stores. The royal army was disbanded; its members were given parcels of land and absorbed into the cultivator and artisan castes of the new janapada.
 
-This was, by the classical chronicles, the year **−240 AF** (using the [[doc-vylarinmpr#The Common Calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
+This was, by the classical chronicles, the year **−240 AF** (using the [[affiliation-vylarinmpr#The Common Calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
 
 ## The Memory-Keeper
 
@@ -167,7 +167,7 @@ The janapada maintains a modest endowment of common funds — managed by the tem
 
 ## Defense
 
-Rājapur has had no army since the dissolution. The villages can muster perhaps a thousand fighting men of the cultivator and artisan castes if absolutely necessary, but the janapada's standard response to any military threat is to (a) appeal to its patron city-state, [[doc-chandrapur|Chandrapur]], with which it has maintained a formal protection arrangement for nearly two centuries; (b) appeal to the Mahā-Saṅgha for moral support and the threat of broader inter-janapada disapproval against the aggressor; and (c) trust to the Mahānadi floodplain itself, which is difficult terrain for any sustained military campaign during the wet season.
+Rājapur has had no army since the dissolution. The villages can muster perhaps a thousand fighting men of the cultivator and artisan castes if absolutely necessary, but the janapada's standard response to any military threat is to (a) appeal to its patron city-state, [[affiliation-chandrapur|Chandrapur]], with which it has maintained a formal protection arrangement for nearly two centuries; (b) appeal to the Mahā-Saṅgha for moral support and the threat of broader inter-janapada disapproval against the aggressor; and (c) trust to the Mahānadi floodplain itself, which is difficult terrain for any sustained military campaign during the wet season.
 
 The janapada has not been seriously threatened in living memory. The last actual incident of armed conflict on Rājapuri territory was a banditry suppression operation conducted jointly with two neighboring janapadas eighty-three years ago.
 
@@ -177,17 +177,17 @@ The janapada has not been seriously threatened in living memory. The last actual
 
 **Rāmavāhana Smṛti-Bhāra**, current Memory-Keeper. Late fifties, scholar, author of the standard modern commentary on the dissolution.
 
-**Anuraja Harsadevambujakar** of Chandrapur, a Rājapuri-born scholar now resident in [[doc-chandrapur|Chandrapur]] who has been corresponding with several major Vedyari kingdoms about the desirability of more dissolutions on the Rājapuri model. His ideas are controversial but well-received in some janapadas; the kingdoms in question consider him a dangerous radical and have asked Chandrapur to expel him. Chandrapur has declined.
+**Anuraja Harsadevambujakar** of Chandrapur, a Rājapuri-born scholar now resident in [[affiliation-chandrapur|Chandrapur]] who has been corresponding with several major Vedyari kingdoms about the desirability of more dissolutions on the Rājapuri model. His ideas are controversial but well-received in some janapadas; the kingdoms in question consider him a dangerous radical and have asked Chandrapur to expel him. Chandrapur has declined.
 
 ## Commerce and Currency
 
-Rājapur Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-rajapur|Rājapur]] — the King's-Town settlement note
-- [[doc-chandrapur|Chandrapur]] — patron city-state
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-rajapur|Rājapur]] — the King's-Town settlement note
+- [[affiliation-chandrapur|Chandrapur]] — patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

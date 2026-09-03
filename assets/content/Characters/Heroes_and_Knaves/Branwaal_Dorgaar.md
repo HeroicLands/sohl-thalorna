@@ -556,7 +556,7 @@ Brànwâal is a weathered, sharp-eyed man of thirty-four with a medium frame, fa
 
 # Dossier {#dossier}
 
-Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[doc-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
+Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
 
 He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Elýsè, Tórnis, Chéleb, and Dôren—who together form the Silent Talon.
 

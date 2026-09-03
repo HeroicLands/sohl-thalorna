@@ -18,13 +18,13 @@ name:
     - Æthería
 shortcode: goddreams
 type: lore
-subType: folk
+subType: deity
 folder: 6NICDnQl8B4GjvL7
 ---
 
 # The God of Dreams
 
-This deity — of dreams, light, and the stewardship of the natural world — is the oldest continuously worshipped god in Thalorna. The [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.
+This deity — of dreams, light, and the stewardship of the natural world — is the oldest continuously worshipped god in Thalorna. The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.
 
 The Sinalë and Khazári do not acknowledge the human faiths as legitimate expressions of their god. They tolerate them.
 
@@ -33,7 +33,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | Culture                                         | Name                                       | Gender                          | Aspect Emphasized                                                                                |
 | ----------------------------------------------- | ------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [[Sinalo\|Sinalë]]\|**Lúminarë**                | Neither / beyond gender                    | Light, dreams, the living world |
-| [[doc-flkkhazar\|Khazári]]                      | **Khaldûr**                                | Neither / beyond gender         | Deep light, craft-wisdom, enduring stone                                                         |
+| [[lore-flkkhazar\|Khazári]]                     | **Khaldûr**                                | Neither / beyond gender         | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-baldr\|Baldr]]               | Male                            | Elder races, dreams, light                                                                       |
 | [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Æthería]]          | Female                          | Dreams, celestial visions                                                                        |
 | [[affiliation-itzanpnthn\|Itzáni]]              | [[affiliation-itzanpnthn\|Nal'ik Tz'uqal]] | Female                          | Dreams, visions, prophecy, the moon                                                              |
@@ -63,7 +63,7 @@ Almost nothing is known of how the Khazári worship Khaldûr. The Deep Folk shar
 
 ## The Old Compact
 
-Before the sundering of the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]], both elder races worshipped this deity together — or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Lúminarë and Khaldûr would even recognize each other's rites is an open question — one that neither race has any interest in answering.
+Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], both elder races worshipped this deity together — or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Lúminarë and Khaldûr would even recognize each other's rites is an open question — one that neither race has any interest in answering.
 
 ## Human Adoption
 

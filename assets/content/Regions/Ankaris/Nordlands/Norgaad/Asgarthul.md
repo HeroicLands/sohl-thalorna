@@ -34,5 +34,5 @@ The settlement functions as a market town and administrative center for the inla
 
 ## See Also
 
-- [[doc-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

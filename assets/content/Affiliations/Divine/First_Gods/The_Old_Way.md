@@ -96,10 +96,10 @@ folder: w9xJ9t5nQB0ajETq
 # The Old Way
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]
-- **Principal adherents:** [[doc-aelendnppl|Áelendan]]
-- **Ancestral origin:** [[doc-pelwarpepl|Pelwar People]]
+- **Principal adherents:** [[lore-aelendnppl|Áelendan]]
+- **Ancestral origin:** [[lore-pelwarpepl|Pelwar People]]
 
-The **Old Way** is the shamanic faith of the Áelendan. It is the oldest continuously practised religious tradition on [[doc-ankrscntnnt|Ankaris Continent]] — a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[doc-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organised pantheons of the settled world, the Áelendan kept it.
+The **Old Way** is the shamanic faith of the Áelendan. It is the oldest continuously practised religious tradition on [[place-ankrscntnnt|Ankaris Continent]] — a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organised pantheons of the settled world, the Áelendan kept it.
 
 The Old Way has no scripture, no temples in the sense that the [[affiliation-arldnpnthn|Aurèldían]] clergy would recognise, and no centralised hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
 
@@ -149,7 +149,7 @@ The Old Way is not the same thing as the **Covenant** — the ancient compact be
 
 A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Covenant's terms. The two offices work together, but they are distinct.
 
-Many of the [[doc-faecourts|Fae]] whom the Wardens deal with are understood, within the Old Way, as particularly ancient and powerful Kindred — though this is a matter on which shamen speak carefully and only to other shamen.
+Many of the [[lore-faecourts|Fae]] whom the Wardens deal with are understood, within the Old Way, as particularly ancient and powerful Kindred — though this is a matter on which shamen speak carefully and only to other shamen.
 
 ## Relation to Later Faiths
 
@@ -163,6 +163,6 @@ Among the Élavendri nobility, who claim Áelendan ancestry and whose own religi
 
 - [[affiliation-firstgods|The First Gods]] — The pantheon the Old Way venerates (the Bright, the Dark, and the Kindred)
 - [[affiliation-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, or warded against in daily practice
-- [[doc-aelendnppl|Áelendan]] — The people whose faith this is
+- [[lore-aelendnppl|Áelendan]] — The people whose faith this is
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — The later pantheon the Áelendan regard as descended from the First

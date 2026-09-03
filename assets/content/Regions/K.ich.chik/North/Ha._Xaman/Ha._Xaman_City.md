@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ha' Xaman is the central city and seat of the [[doc-haxaman|Ha' Xaman]] city-state.
+_To be written._ Ha' Xaman is the central city and seat of the [[affiliation-haxaman|Ha' Xaman]] city-state.

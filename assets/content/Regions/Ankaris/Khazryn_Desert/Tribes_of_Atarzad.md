@@ -102,7 +102,7 @@ data:
     - khzryndsrtrgn
   population: 1000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-bartercnmy
     - lore-kinhalcrdt
@@ -116,7 +116,7 @@ terran_analog: "Israelites of the Exodus and Conquest — twelve-tribe nomadic-p
 folder: PbQ9B1r6hEaJvyco
 ---
 
-The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[doc-khzryndsrtrgn|Khazryn Desert]]. They are newcomers — by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[doc-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[doc-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right.
+The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. They are newcomers — by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[affiliation-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[affiliation-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right.
 
 Both reckonings are correct. The Ātárzád do not deny that the Khazryn were here first; they deny that _first_ matters. The land was promised to the Flame-born by the Sacred Flame himself. To the faithful Ātárzád, that promise is more solid than any wall the Khazryn built before them and any deed the Khazryn kept after them.
 
@@ -128,9 +128,9 @@ The Exodus narrative is dense, much-elaborated, and central to Ātárzád identi
 
 The route of the Exodus is by tradition divided into three legs.
 
-The **first leg** carried the Flame-born northeast out of Ta'Kheperu, across the narrow desert that joins the [[doc-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[doc-vylarianse|Vylarian Sea]], and into the southern reaches of [[doc-cnfdrtnhrdnstts|Harad]]. The Haradian merchant-states of the time, recognizing both an opportunity and a moral obligation, granted the Flame-born safe passage through their territories and provisioned the host with grain, fresh water, and what Haradian chroniclers euphemistically call "discounted iron." Ātárzád law to this day forbids raiding into Harad, and the Ardashír merchant-houses maintain especially scrupulous trading relationships with Haradian counterparts in continued recognition of the obligation.
+The **first leg** carried the Flame-born northeast out of Ta'Kheperu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and into the southern reaches of [[affiliation-cnfdrtnhrdnstts|Harad]]. The Haradian merchant-states of the time, recognizing both an opportunity and a moral obligation, granted the Flame-born safe passage through their territories and provisioned the host with grain, fresh water, and what Haradian chroniclers euphemistically call "discounted iron." Ātárzád law to this day forbids raiding into Harad, and the Ardashír merchant-houses maintain especially scrupulous trading relationships with Haradian counterparts in continued recognition of the obligation.
 
-The **second leg** carried the Flame-born east-and-north through the **Dunhari uplands** — the long traverse of the high Dunhari plateau that runs between the [[doc-sultntmrdd|Sultanate]] (whose southern marches the Ātárzád skirted with care) and the open [[doc-dunharargn|Dunhari]] tribal interior to the south. The Dunhari sheikhs of the day were too occupied with their own internal feuds to oppose the migration; the Flame-born paid passage in temple-gold and proceeded.
+The **second leg** carried the Flame-born east-and-north through the **Dunhari uplands** — the long traverse of the high Dunhari plateau that runs between the [[affiliation-sultntmrdd|Sultanate]] (whose southern marches the Ātárzád skirted with care) and the open [[place-dunharargn|Dunhari]] tribal interior to the south. The Dunhari sheikhs of the day were too occupied with their own internal feuds to oppose the migration; the Flame-born paid passage in temple-gold and proceeded.
 
 The **third leg** was the **Wandering** itself — the forty-year traverse of the great central deserts and the high-cold plateaus that stretch between the eastern Dunhara and the southwestern Khazryn. The original generation died in the dry country; a new generation, born free, completed the crossing and prepared to enter the land. By the time the Flame-born descended from the Mt. Shōfar highlands into the southwestern oasis-belt, those who had personally remembered Ta'Kheperu were nearly all dead, and the people who would conquer the Khazryn were a wholly new generation — born free, raised in the Promise, hardened by forty years of wilderness.
 
@@ -144,7 +144,7 @@ Mūshárā died on the slope of Mt. Shōfar, never having entered the choicest l
 
 The Conquest of the Khazryn — what the Ātárzád call the **War of the Twelve Years** and what the Khazryn call simply the **Catastrophe** — followed under Mūshárā's successor, the Shōfet **Yáhōshí**. The Khazryn at the time were a confederation of seven independent oasis-cities, each governed by a hereditary princely house and a temple of Āhúrdáén, militarily competent but unprepared for what came at them: a tribally organized people who had been hardened by forty years of wilderness, who fought as twelve allied units, and who believed without reservation that the cities they were attacking had been promised to them and that to fall in the taking of them was to die in the bosom of the Sacred Flame.
 
-The Khazryn had stone walls, water-engineering, professional cavalry, and several centuries of written law. The Ātárzád had numbers, surprise, mobility, religious zeal, and the willingness to take losses no professional army would have accepted. Over twelve years the Ātárzád took, in order: **Zargandûr** (year 2), **Ashkarad** (year 5), **Kethramír** (year 8), and finally the Khazryn's holiest seat, **Oasis of Shirvan** (year 11), where the great spring gushes from the rock at the foot of the Mōrávar cliff and where the Khazryn traditionally held that Āhúrdáén had revealed the cosmic order to the desert peoples in the first age. The fall of Shirvan ended the war. The surviving Khazryn princely houses retreated to peripheral oases or fled south to the [[doc-sultntmrdd|Sultanate of Amradad]]; the Khazryn population that remained was reduced to a subject merchant-and-craftsman class within the now-Ātárzád cities.
+The Khazryn had stone walls, water-engineering, professional cavalry, and several centuries of written law. The Ātárzád had numbers, surprise, mobility, religious zeal, and the willingness to take losses no professional army would have accepted. Over twelve years the Ātárzád took, in order: **Zargandûr** (year 2), **Ashkarad** (year 5), **Kethramír** (year 8), and finally the Khazryn's holiest seat, **Oasis of Shirvan** (year 11), where the great spring gushes from the rock at the foot of the Mōrávar cliff and where the Khazryn traditionally held that Āhúrdáén had revealed the cosmic order to the desert peoples in the first age. The fall of Shirvan ended the war. The surviving Khazryn princely houses retreated to peripheral oases or fled south to the [[affiliation-sultntmrdd|Sultanate of Amradad]]; the Khazryn population that remained was reduced to a subject merchant-and-craftsman class within the now-Ātárzád cities.
 
 That was about ninety years ago. The Ātárzád have held the choicest oases since.
 
@@ -198,15 +198,15 @@ The Ātárzád fighting style is built around mounted archery, fast-moving caval
 
 ## Relations with Other Peoples
 
-To the **southwest**, the [[doc-sultntmrdd|Sultanate of Amradad]] is the dominant Āsháian-pantheon power and is, technically, the senior religious authority for all Āsháian-faith peoples — the Mōbad of Āhúrdáén's Great Fire-Temple in Amradad is the formal head of the Āsháian priesthood. Relations are complicated by the fact that the Sultanate's official religion is the full pantheon (with Āhúrdáén supreme) and the Ātárzád consider this idolatry. Diplomatic intercourse is maintained — the Ardashír merchants would not tolerate its breakdown — but it is cool. The Sultanate considers the Ātárzád to be schismatics whose elevation of Ātáröš to exclusive worship is a covenant violation against Āhúrdáén; the Ātárzád consider the Sultanate to be polytheistic apostates from the original Mūshárán revelation. The Sultanate hosts the largest Khazryn exile community in the world, which it has consistently refused to extradite.
+To the **southwest**, the [[affiliation-sultntmrdd|Sultanate of Amradad]] is the dominant Āsháian-pantheon power and is, technically, the senior religious authority for all Āsháian-faith peoples — the Mōbad of Āhúrdáén's Great Fire-Temple in Amradad is the formal head of the Āsháian priesthood. Relations are complicated by the fact that the Sultanate's official religion is the full pantheon (with Āhúrdáén supreme) and the Ātárzád consider this idolatry. Diplomatic intercourse is maintained — the Ardashír merchants would not tolerate its breakdown — but it is cool. The Sultanate considers the Ātárzád to be schismatics whose elevation of Ātáröš to exclusive worship is a covenant violation against Āhúrdáén; the Ātárzád consider the Sultanate to be polytheistic apostates from the original Mūshárán revelation. The Sultanate hosts the largest Khazryn exile community in the world, which it has consistently refused to extradite.
 
-To the **northwest**, the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] is a major trading partner. The Ardashír merchant-houses maintain offices in Sanctara and Alyssar, and Haradian bankers handle Ātárzád commerce in the Vylarian Sea. Religious differences do not impede trade.
+To the **northwest**, the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] is a major trading partner. The Ardashír merchant-houses maintain offices in Sanctara and Alyssar, and Haradian bankers handle Ātárzád commerce in the Vylarian Sea. Religious differences do not impede trade.
 
-To the **southeast and east**, beyond the Khazryn, lie [[doc-vedyarargn|Vedyara]] and (much further) [[doc-tanvuregin|Tānvür]]. Contact is thin and through merchants; the Ātárzád know of these distant civilizations but have little practical engagement with them.
+To the **southeast and east**, beyond the Khazryn, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tanvuregin|Tānvür]]. Contact is thin and through merchants; the Ātárzád know of these distant civilizations but have little practical engagement with them.
 
-To the **far west**, [[doc-empirtkhpr|Ta'Kheperu]] is a special case. By Ātárzád doctrine, no Flame-born may set foot in Ta'Kheperu willingly — to do so is to return to the place of bondage. The Ardashír merchants who must reach the Northern Fertile Region for trade do so by sea via Haradian shipping rather than overland through Kemetian territory; the marginal cost of the longer route is considered a religious obligation. The current Per-Aá of Ta'Kheperu has, in recent years, made overtures suggesting that any returning Flame-born would be welcomed and that the old bondage is many generations gone; the Council of the Twelve has not deigned to reply.
+To the **far west**, [[affiliation-empirtkhpr|Ta'Kheperu]] is a special case. By Ātárzád doctrine, no Flame-born may set foot in Ta'Kheperu willingly — to do so is to return to the place of bondage. The Ardashír merchants who must reach the Northern Fertile Region for trade do so by sea via Haradian shipping rather than overland through Kemetian territory; the marginal cost of the longer route is considered a religious obligation. The current Per-Aá of Ta'Kheperu has, in recent years, made overtures suggesting that any returning Flame-born would be welcomed and that the old bondage is many generations gone; the Council of the Twelve has not deigned to reply.
 
-To the **interior of the Khazryn**, the [[doc-khzrncnfdrtn|Khazryn Confederation]] is the eternal adversary. The two peoples share the desert, share the language family, share most of the same gods (whom the Khazryn honor and the Ātárzád merely acknowledge), and are locked in a blood-feud that no living person remembers the beginning of. The Ātárzád hold the choicest oases by the Promise; the Khazryn claim them by ancestry and millennia of continuous habitation. Neither will yield.
+To the **interior of the Khazryn**, the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] is the eternal adversary. The two peoples share the desert, share the language family, share most of the same gods (whom the Khazryn honor and the Ātárzád merely acknowledge), and are locked in a blood-feud that no living person remembers the beginning of. The Ātárzád hold the choicest oases by the Promise; the Khazryn claim them by ancestry and millennia of continuous habitation. Neither will yield.
 
 ## The Blood-Feud {#the-blood-feud}
 
@@ -231,15 +231,15 @@ The current generation is in a relatively quiet phase. The last full-scale rebel
 
 ## Commerce and Currency
 
-Tribes of Ātárzád's commerce operates primarily through [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[doc-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Kheperan deben pieces from southern trade) circulates by intrinsic-metal value among traders.
+Tribes of Ātárzád's commerce operates primarily through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Kheperan deben pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
 
-- [[doc-khzryndsrtrgn|Khazryn Desert]] — the contested homeland
-- [[doc-khzrncnfdrtn|Khazryn Confederation]] — the eternal adversary
+- [[place-khzryndsrtrgn|Khazryn Desert]] — the contested homeland
+- [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — the eternal adversary
 - [[affiliation-ataros|Faith of Ātáröš]] — the patron deity
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — the wider faith from which the Ātárzád diverge
-- [[doc-sultntmrdd|Sultanate of Amradad]] — the regional Āsháian power and host of the Khazryn exile community
-- [[doc-empirtkhpr|Ta'Kheperu]] — the place of bondage
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — the people who granted the Exodus safe passage and provisions during its first leg
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — the regional Āsháian power and host of the Khazryn exile community
+- [[affiliation-empirtkhpr|Ta'Kheperu]] — the place of bondage
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — the people who granted the Exodus safe passage and provisions during its first leg
 - [[skill-atarzadilng|Ātárzādi Language]] — the language of the Twelve Tribes

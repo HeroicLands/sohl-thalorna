@@ -577,7 +577,7 @@ sohl:
     - { name: Maps, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
 ---
 
-**Home:** [[doc-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khensuret]]
 
 # Appearance {#appearance}
 
@@ -585,7 +585,7 @@ Sekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark
 
 # Dossier {#dossier}
 
-Sekhemet Ka'sekhen was born to a family of modest merchants with shipping interests in the [[doc-empirtkhpr|Ta'Kheperu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
+Sekhemet Ka'sekhen was born to a family of modest merchants with shipping interests in the [[affiliation-empirtkhpr|Ta'Kheperu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
 
 She earned her pilot's marks at an unusually young age and quickly became known for her reliability, her ability to deliver cargo intact and on schedule despite the treacherous river and coastal routes she navigated. Seven years ago, a catastrophic accident—still shrouded in some mystery—damaged her vessel and nearly killed her, resulting in the scar that marks her body. She recovered her confidence, though not without struggle, and has since earned a reputation as one of the most dependable pilots in the entire Empire, commanding premium rates from merchants who value certainty above price.
 

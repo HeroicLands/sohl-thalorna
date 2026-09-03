@@ -23,7 +23,7 @@ parent:
 folder: pAXnwYJhDDSvkrPt
 ---
 
-Thálassos — the name drawn directly from the Byzarian word for "sea" — is a modest but strategically important harbor town serving the [[doc-byzarianlg|Byzarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[doc-denizara|Denizara]] or the specialized craft reputation of [[doc-byzaris|Byzaris]], but its protected natural harbor has made it indispensable for maritime commerce moving along the coast toward [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]], [[doc-provenzrgn|Provènzia Region]], and the western settlements beyond.
+Thálassos — the name drawn directly from the Byzarian word for "sea" — is a modest but strategically important harbor town serving the [[affiliation-byzarianlg|Byzarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[affiliation-denizara|Denizara]] or the specialized craft reputation of [[place-byzaris|Byzaris]], but its protected natural harbor has made it indispensable for maritime commerce moving along the coast toward [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], [[place-provenzrgn|Provènzia Region]], and the western settlements beyond.
 
 The town's character is rough and maritime — dockworkers, sailors, merchant factors, and captains of small trading vessels crowd the taverns and lodging houses near the waterfront. Thálassos has earned a reputation as a place where deals are made quickly, fortunes are gambled, and discretion is prized. It attracts independent merchants and sea captains unwilling to navigate the complex politics and guild hierarchies of the larger League cities, making it an ideal port for ships seeking privacy or wishing to avoid official oversight. The town's magistrate maintains minimal customs authority, relying instead on a handful of bonded merchants to manage tariffs — an arrangement that suits both independent traders and small-scale smuggling operations equally well.
 
@@ -31,7 +31,7 @@ The harbor itself is equipped with adequate ship-repair facilities and supply wa
 
 ## See Also
 
-- [[doc-byzarianlg|Byzarian League]] — The confederation of city-states
-- [[doc-byzariargn|Byzaría Region]] — Regional overview
-- [[doc-denizara|Denizara]] — The League's premier port
+- [[affiliation-byzarianlg|Byzarian League]] — The confederation of city-states
+- [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[affiliation-denizara|Denizara]] — The League's premier port
 - [[affiliation-arldnpnthn|Aurèldián Pantheon]] — Religious framework

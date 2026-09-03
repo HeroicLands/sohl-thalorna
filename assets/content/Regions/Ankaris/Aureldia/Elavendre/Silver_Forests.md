@@ -18,12 +18,12 @@ folder: drAoDoNnFEygATeK
 # The Silver Forests
 
 - **Type:** Ancient fae-touched woodland
-- **Region:** Interior [[doc-elavendre|Élavendre]]
+- **Region:** Interior [[place-elavendre|Élavendre]]
 - **Guardians:** [[affiliation-alndnwrdns|Áelendan Wardens]]
 
 ## Overview
 
-The **Silver Forests** are an ancient woodland said to have been planted by the fae themselves, where the trees have bark that gleams like metal in moonlight. They lie deep in the interior of [[doc-elavendre|Élavendre]], beyond the settled farmlands and the accessible foothills, in terrain that belongs to the [[doc-aelendnppl|Áelendan]] and the wild. Even among the Áelendan, the Silver Forests are regarded with particular reverence — they are sacred territory of the highest order, protected by the [[affiliation-alndnwrdns|Wardens]] with uncompromising strictness.
+The **Silver Forests** are an ancient woodland said to have been planted by the fae themselves, where the trees have bark that gleams like metal in moonlight. They lie deep in the interior of [[place-elavendre|Élavendre]], beyond the settled farmlands and the accessible foothills, in terrain that belongs to the [[lore-aelendnppl|Áelendan]] and the wild. Even among the Áelendan, the Silver Forests are regarded with particular reverence — they are sacred territory of the highest order, protected by the [[affiliation-alndnwrdns|Wardens]] with uncompromising strictness.
 
 ## Character
 
@@ -33,11 +33,11 @@ The forests are not large in the cartographic sense, but they are difficult to m
 
 ## Fae Presence
 
-The Silver Forests are one of the thinnest places between the mortal world and the fae realm anywhere on [[doc-ankrscntnnt|Ankaris Continent]]. Beings that in other lands are glimpsed once in a lifetime and then doubted by the witness forever afterward are, in the Silver Forests, simply present. The Áelendan who enter the forests on sanctioned business know the protocols: what to speak, what to leave as offering, what paths to walk and which to avoid, what moonlight conditions indicate that it is time to turn back. These protocols are not improvisations; they are the codified result of many generations of experience, and they are not shared with outsiders.
+The Silver Forests are one of the thinnest places between the mortal world and the fae realm anywhere on [[place-ankrscntnnt|Ankaris Continent]]. Beings that in other lands are glimpsed once in a lifetime and then doubted by the witness forever afterward are, in the Silver Forests, simply present. The Áelendan who enter the forests on sanctioned business know the protocols: what to speak, what to leave as offering, what paths to walk and which to avoid, what moonlight conditions indicate that it is time to turn back. These protocols are not improvisations; they are the codified result of many generations of experience, and they are not shared with outsiders.
 
 ## Relationship with the Sinalë
 
-The [[doc-flksinale|Sinalë]] enclaves in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinalë have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinalë in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinalë. Both versions may be true; the Áelendan do not consider these mutually exclusive.
+The [[lore-flksinale|Sinalë]] enclaves in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinalë have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinalë in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinalë. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
 ## Access
 
@@ -47,8 +47,8 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 
 ## See Also
 
-- [[doc-elavendre|Élavendre]] — The kingdom in which the Silver Forests lie
-- [[doc-aelendnppl|Áelendan]] — The custodial people
+- [[place-elavendre|Élavendre]] — The kingdom in which the Silver Forests lie
+- [[lore-aelendnppl|Áelendan]] — The custodial people
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the forests
-- [[doc-faecourts|The Fae Courts]] — Related fae phenomena
-- [[doc-flksinale|Sinalë]] — The elder race associated with the forests
+- [[lore-faecourts|The Fae Courts]] — Related fae phenomena
+- [[lore-flksinale|Sinalë]] — The elder race associated with the forests

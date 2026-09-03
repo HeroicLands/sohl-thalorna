@@ -24,7 +24,7 @@ folder:
 # The Twilight House
 
 - **Type:** Courtesan establishment and intelligence network
-- **Region:** [[doc-vedyarargn|Vedyara Region]] — principal house in the capital, satellite houses in each major Vedyaran city
+- **Region:** [[place-vedyarargn|Vedyara Region]] — principal house in the capital, satellite houses in each major Vedyaran city
 - **Founded:** Traditionally dated to the reign of the eleventh Maharaja; historically uncertain
 
 ## Overview
@@ -59,7 +59,7 @@ A standing arrangement exists between the House and the [[Thieves' Guild of Vedy
 - **[[Thieves' Guild of Vedyara]]** — formal partnership for intelligence sharing and recruitment. Tensions arise when the Guild's interests conflict with a high-paying client's.
 - **The Maharaja's Court and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]** — clients and unwilling tributaries. Both purchase from the House and both have learned not to discuss matters of consequence in its rooms — a discipline that, in practice, breaks down across enough evenings and enough wine.
 - **The [[affiliation-velvethand|Velvet Hand]]** — counterpart in the west. The two organizations have an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries. Each has standing orders to refuse contracts that target the other directly.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly** — clients on tier two. The House sells to them; they pay handsomely; the House refuses to be controlled by any one of them.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly** — clients on tier two. The House sells to them; they pay handsomely; the House refuses to be controlled by any one of them.
 
 ## Identifying Marks
 

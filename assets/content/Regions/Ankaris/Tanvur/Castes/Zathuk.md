@@ -4,7 +4,7 @@ aliases:
   - Zathuk
 id: NDvnF8oya98zRWdK
 type: lore
-subType: folk
+subType: culture
 name:
   full: Zāthük
   aliases: []
@@ -16,7 +16,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Artisans, Craftsmen, and Common Warriors**
 
-The Zāthük form the productive middle stratum of [[doc-tanvurempr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.
+The Zāthük form the productive middle stratum of [[affiliation-tanvurempr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.
 
 ## Roles and Responsibilities
 
@@ -26,7 +26,7 @@ Zāthük artisans create the material wealth of the empire—textiles, ceramics,
 
 ### Military Service (Vüsrën)
 
-A significant portion of Zāthük serve as common soldiers, guards, and enforcers, collectively known as the Vüsrën. They form the rank-and-file forces that defend settlements, maintain order, and serve under [[doc-vushok|Vüshōk]] command in military campaigns.
+A significant portion of Zāthük serve as common soldiers, guards, and enforcers, collectively known as the Vüsrën. They form the rank-and-file forces that defend settlements, maintain order, and serve under [[lore-vushok|Vüshōk]] command in military campaigns.
 
 ## Rights and Restrictions
 
@@ -38,7 +38,7 @@ A significant portion of Zāthük serve as common soldiers, guards, and enforcer
 
 ### Restrictions
 
-- **Obligation to Serve** (Vüsrën only): Common soldiers must answer the call to military duty when conscripted by [[doc-vushok|Vüshōk]] commanders
+- **Obligation to Serve** (Vüsrën only): Common soldiers must answer the call to military duty when conscripted by [[lore-vushok|Vüshōk]] commanders
 - **Marriage Within Caste**: Marriage outside Zāthük is discouraged and results in social ostracism
 - **No Political Authority**: Zāthük cannot hold administrative positions or participate in governance
 
@@ -84,7 +84,7 @@ The Yātvōr maintain two complementary branches:
 
 ### Collaboration and Scope
 
-The Yātvōr work closely with [[doc-tanthei|Tānthëi]] when treating ailments believed to have spiritual causes — ancestor spirits withdrawing advocacy, moral ledger debits manifesting as physical symptoms, or Hürnlëi contamination. Physical medicine alone cannot cure classification breaches that originate in the spiritual order. This collaboration ensures comprehensive treatment for complex cases.
+The Yātvōr work closely with [[lore-tanthei|Tānthëi]] when treating ailments believed to have spiritual causes — ancestor spirits withdrawing advocacy, moral ledger debits manifesting as physical symptoms, or Hürnlëi contamination. Physical medicine alone cannot cure classification breaches that originate in the spiritual order. This collaboration ensures comprehensive treatment for complex cases.
 
 ### Public Health Initiatives
 
@@ -92,7 +92,7 @@ Yātvōr hold primary responsibility for initiating and managing public health m
 
 ## Elder Races Among Zāthük
 
-The majority of [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] found within [[doc-tanvurempr|Tānvür]] society are placed within the Zāthük caste. They have become renowned for their exceptional craftsmanship:
+The majority of [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] found within [[affiliation-tanvurempr|Tānvür]] society are placed within the Zāthük caste. They have become renowned for their exceptional craftsmanship:
 
 - **Sinalëan Artisans**: Master woodworkers, textile artists, and jewelers whose creations command premium prices and international renown
 - **Khazárian Smiths**: Legendary metalworkers whose weapons and armor are prized throughout the known world; also master stonemasons and engineers
@@ -101,10 +101,10 @@ Their exceptional quality of work commands considerable wealth and respect, elev
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — rights and restrictions governing Zāthük
-- [[doc-vushok|Vüshōk]] — Warrior Nobility who command Vüsrën forces
-- [[doc-nokvur|Nōkvür]] — Peasant farmers below Zāthük in social hierarchy
-- [[doc-shukren|Shükrën]] — Merchants and financiers (separate caste)
-- [[doc-tanthei|Tānthëi]] — Celestial scholars who collaborate with Yātvōr on spiritual ailments
-- [[doc-zeisik|Law and Honor]] — legal framework governing craftsmanship and commerce
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Zāthük
+- [[lore-vushok|Vüshōk]] — Warrior Nobility who command Vüsrën forces
+- [[lore-nokvur|Nōkvür]] — Peasant farmers below Zāthük in social hierarchy
+- [[lore-shukren|Shükrën]] — Merchants and financiers (separate caste)
+- [[lore-tanthei|Tānthëi]] — Celestial scholars who collaborate with Yātvōr on spiritual ailments
+- [[lore-zeisik|Law and Honor]] — legal framework governing craftsmanship and commerce
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure

@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-**Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[doc-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership — a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
+**Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership — a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
 
 ## Philosophy
 
@@ -121,7 +121,7 @@ Politically, the Sodalitas Physéra is a stabilizing force within the Ordo. Its 
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-pneumenos|Eídma Pneuménos]] — The opposing Eídma
 - [[affiliation-zepharis|Eídma Zephäris]] — Adjacent Eídma (the natural world)
 - [[affiliation-hydalis|Eídma Hydälis]] — Adjacent Eídma (sustenance and growth)

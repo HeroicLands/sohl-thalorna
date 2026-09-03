@@ -89,7 +89,7 @@ data:
     - byzariargn
   population: 1400000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -101,7 +101,7 @@ data:
 folder: pAXnwYJhDDSvkrPt
 ---
 
-Gümüşhisar — the Silver Citadel — is a fortified mountain city that guards the eastern passes into [[doc-byzariargn|Byzaría Region]]. It is the [[doc-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits.
+Gümüşhisar — the Silver Citadel — is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits.
 
 ## Character
 
@@ -113,10 +113,10 @@ Gümüşhisar has a more austere character than the other League cities — less
 
 ## Commerce and Currency
 
-Gümüşhisar uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Gümüşhisar is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Gümüşhisar uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Gümüşhisar is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-byzarianlg|Byzarian League]] — The confederation
-- [[doc-byzariargn|Byzaría Region]] — Regional overview
-- [[doc-altinkale|Altinkale]], [[doc-denizara|Denizara]], [[doc-yesilhan|Yeşilhan]], [[doc-karatas|Karataş]] — Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]] — The confederation
+- [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]] — Sister city-states

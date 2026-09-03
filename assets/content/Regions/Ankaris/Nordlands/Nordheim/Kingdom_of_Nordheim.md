@@ -97,7 +97,7 @@ data:
     - nrdlndsrgn
   population: 2000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -114,11 +114,11 @@ data:
 folder: tUOAFxX25mViDE7q
 ---
 
-**Sister Kingdoms:** [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]]
+**Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 
 ## Overview
 
-In the frozen north of [[doc-ankrscntnnt|Ankaris Continent]], Nordheim is a land of rugged mountains, vast fjords, and warrior peoples. The Normen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
+In the frozen north of [[place-ankrscntnnt|Ankaris Continent]], Nordheim is a land of rugged mountains, vast fjords, and warrior peoples. The Normen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
 
 ## Geography
 
@@ -130,7 +130,7 @@ Key geographic features include the great fjords that cut deep into the mountain
 
 Normen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _þings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Normen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
 
-The Normen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Normen are also traders, carrying amber, furs, and whale ivory to the markets of [[doc-midhalnrgn|Mídhalión Region]].
+The Normen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Normen are also traders, carrying amber, furs, and whale ivory to the markets of [[place-midhalnrgn|Mídhalión Region]].
 
 Women in Normen society hold more autonomy than in many other Ankarian cultures. They manage estates while men are away on voyages, can own property, and may initiate divorce. Shield-maidens — women who take up arms — are uncommon but not unheard of, and they are respected warriors.
 
@@ -148,23 +148,23 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordhe
 
 ## Relations
 
-Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Normen longships have struck as far south as the [[doc-vylarianse|Vylarian Sea]], and Normen mercenaries serve in armies across the continent. The Normen have a complex relationship with their eastern neighbors in [[doc-grkrhlmrgn|Grukarholm Region]] — the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[doc-vrystwald|Vrystwald]] represent a contested frontier where Normen settlers and Varokh tribespeople compete for territory.
+Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Normen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Normen mercenaries serve in armies across the continent. The Normen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]] — the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Normen settlers and Varokh tribespeople compete for territory.
 
 ## Notable Features
 
 - **The King of All Clans:** A great assembly held every seven years on a sacred island, where all the jarls of Nordheim gather to settle inter-clan disputes and make decisions affecting the entire people.
 - **The Longship Fleets:** Nordheim's primary military and economic asset. Fleets range from small raiding parties to massive armadas capable of threatening coastal cities across Ankaris.
 - **The Völvur:** Nordheim's mystic tradition, distinct from the arcane practices of the south, rooted in shamanism and ancestral communion.
-- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[doc-kingdomlgn|Malagna]], [[doc-kingdmnrgd|Norgaad]], [[doc-kingdmtrgd|Targud]], and [[doc-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.
+- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.
 
 ## Commerce and Currency
 
-Kingdom of Nordheim uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[doc-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[doc-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[doc-grukarholm|Grukarhölm]] — Eastern neighbors, the Grukar tribes
-- [[doc-vrystwald|Vrystwald]] — Southern frontier
+- [[affiliation-grukarholm|Grukarhölm]] — Eastern neighbors, the Grukar tribes
+- [[place-vrystwald|Vrystwald]] — Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]] — The Normen pantheon
 - [[skill-nordmalng|Nordmal]] — Naming conventions
-- [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
+- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms

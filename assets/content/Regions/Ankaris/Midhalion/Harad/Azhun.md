@@ -87,7 +87,7 @@ data:
     - haradregin
   population: 2500000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
@@ -101,7 +101,7 @@ folder: umL4KFGO3MD4u9X1
 # Azhûn
 
 - **Type:** Port City
-- **Region:** [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]]
+- **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]
 - **Language:** Haradi
 - **Naming Convention:** [[skill-haradilng|Haradi]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían Pantheon]], [[affiliation-ashanpnthn|Āsháian Pantheon]]
@@ -116,11 +116,11 @@ Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, 
 
 ## Commerce and Currency
 
-Azhûn uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.
+Azhûn uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
 - [[skill-haradilng|Haradi]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition

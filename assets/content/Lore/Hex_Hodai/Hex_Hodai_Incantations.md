@@ -6,7 +6,7 @@ tags:
   - arcane
   - hex-hodai
 type: lore
-subType: folk
+subType: arcana
 id: s9k0RsnEfufDRuQb
 shortcode: hxhdncnttns
 name:
@@ -73,4 +73,4 @@ SORT level, name.full ASC
 
 # See Also
 
-- [[doc-hexhodai|Héx Hodäi]]
+- [[lore-hexhodai|Héx Hodäi]]

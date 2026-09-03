@@ -105,7 +105,7 @@ folder: dxzsTyaF4LMapIJX
 
 Mahájaya is the goddess of preservation, harmony, and abundance — the presence by whose steady influence fields ripen, markets flourish, and the seasons turn in their ordered round. Where [[affiliation-vyalendra|Vyālendra]] gives the world its shape, Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every moment of exchange in which the good order of human society is affirmed.
 
-Mahájaya is most visible in the countryside of [[doc-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities, she is the patron of merchants, bankers, and the civic authorities responsible for granaries, water rights, and the regulation of trade.
+Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities, she is the patron of merchants, bankers, and the civic authorities responsible for granaries, water rights, and the regulation of trade.
 
 ## Aspects
 

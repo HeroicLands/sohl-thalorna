@@ -87,7 +87,7 @@ data:
   domains: []
   population: 1800000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -99,20 +99,20 @@ data:
 folder: pAXnwYJhDDSvkrPt
 ---
 
-Denizara — the Sea-Between — is the [[doc-byzarianlg|Byzarian League]]'s principal seaport on the [[doc-vylarianse|Vylarian Sea]] coast. It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.
+Denizara — the Sea-Between — is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.
 
 ## Character
 
-Denizara is the most cosmopolitan of the five city-states, its docks crowded with [[doc-cnfdrtnhrdnstts|Haradian]] merchantmen, Vylarian galleys, and the occasional vessel from as far as [[doc-kalihara|Kalihara]]. The city has a powerful admiralty that maintains a fleet of fast war-galleys to protect League shipping from pirates and competitors. Denizara's shipwrights are among the finest in the eastern sea, and the city's naval strength gives it considerable influence within the League — Altinkale has the gold, but Denizara has the ships.
+Denizara is the most cosmopolitan of the five city-states, its docks crowded with [[affiliation-cnfdrtnhrdnstts|Haradian]] merchantmen, Vylarian galleys, and the occasional vessel from as far as [[affiliation-kalihara|Kalihara]]. The city has a powerful admiralty that maintains a fleet of fast war-galleys to protect League shipping from pirates and competitors. Denizara's shipwrights are among the finest in the eastern sea, and the city's naval strength gives it considerable influence within the League — Altinkale has the gold, but Denizara has the ships.
 
 The waterfront district is a maze of warehouses, taverns, and chandleries where a dozen languages can be heard on any given day. Inland, the city climbs a series of terraced hills, with the wealthier districts rising above the harbor's noise and smell.
 
 ## Commerce and Currency
 
-Denizara uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Denizara is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Denizara uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Denizara is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-byzarianlg|Byzarian League]] — The confederation
-- [[doc-byzariargn|Byzaría Region]] — Regional overview
-- [[doc-altinkale|Altinkale]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]], [[doc-karatas|Karataş]] — Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]] — The confederation
+- [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[affiliation-altinkale|Altinkale]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — Sister city-states

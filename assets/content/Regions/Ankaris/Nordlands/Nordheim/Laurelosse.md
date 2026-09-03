@@ -18,13 +18,13 @@ folder: tUOAFxX25mViDE7q
 # Laurelossë
 
 - **Type:** Sinalëan enclave (destroyed)
-- **Location:** Deep interior of [[doc-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
+- **Location:** Deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
 - **Status:** Corrupted necropolis; no living inhabitants
 - **Current Master:** [[being-grmsvrtrnr|Gríma Svartrúnar]]
 
 ## Overview
 
-Laurelossë was a hidden [[doc-flksinale|Sinalëan]] enclave in the deep interior of Nordheim — one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[doc-vylarinmpr|Vylarian Empire]]. The Normen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful — but none could find their way there twice. Most dismissed the stories as tall tales. They were not.
+Laurelossë was a hidden [[lore-flksinale|Sinalëan]] enclave in the deep interior of Nordheim — one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. The Normen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful — but none could find their way there twice. Most dismissed the stories as tall tales. They were not.
 
 The enclave was small by Sinalëan standards — perhaps a few hundred souls at its height — but it was ancient, established in an age when the Sinalë were more numerous and the world less crowded. Laurelossë served as a sanctuary of contemplation and natural magic, a place where the Sinalë maintained their deep bond with the living forest. The trees of Laurelossë were said to be among the oldest in the north, their roots intertwined with the enclave's wards in a living architecture that blurred the boundary between craft and nature.
 
@@ -61,6 +61,6 @@ Among the Normen, the blight spreading from the corrupted valley has become a gr
 ## See Also
 
 - [[being-grmsvrtrnr|Gríma Svartrúnar]] — The Nightwight necromancer who destroyed the enclave
-- [[doc-flksinale|Sinalë]] — The Firstborn; the elder race that built and inhabited Laurelossë
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]] — The kingdom in whose deep interior Laurelossë was hidden
+- [[lore-flksinale|Sinalë]] — The Firstborn; the elder race that built and inhabited Laurelossë
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — The kingdom in whose deep interior Laurelossë was hidden
 - [[affiliation-hel|Faith of Hél]] — The goddess who commanded the enclave's destruction

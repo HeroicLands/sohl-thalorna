@@ -32,13 +32,13 @@ peoples:
 folder: RiHN4YkIZjYsHW4W
 ---
 
-Mídhalión is not a single nation or a continuous territory but a **socio-economic and cultural region** — the lands surrounding the [[doc-vylarianse|Vylarian Sea]], bound together by maritime trade, the legacy of the [[doc-vylarinmpr|Vylarian Empire]], and three thousand years of cross-pollination among the cultures that meet along its shores. It is the only region of Thalorna that genuinely spans two continents, drawing together the northern shore of Ankaris and the northern shore of [[doc-xerathia|Xerathia]] into a single economic organism whose connections are tighter among themselves than any of them are to the interiors of their own home continents.
+Mídhalión is not a single nation or a continuous territory but a **socio-economic and cultural region** — the lands surrounding the [[place-vylarianse|Vylarian Sea]], bound together by maritime trade, the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]], and three thousand years of cross-pollination among the cultures that meet along its shores. It is the only region of Thalorna that genuinely spans two continents, drawing together the northern shore of Ankaris and the northern shore of [[place-xerathia|Xerathia]] into a single economic organism whose connections are tighter among themselves than any of them are to the interiors of their own home continents.
 
 What Mídhalión is, depends on which of its constituent peoples you ask. To the Vylarians, it is the former core of their empire and the theater in which the empire's successor struggle is still being played out. To the Haradi, it is the commercial system they have finally won the right to compete in as equals rather than subjects. To the Ta'Kheperian divine-priests, it is a market they have used for three millennia and that will still be there a thousand years from now when the whole northern competition has reshuffled itself yet again. To the philosophers of Heliónis, it is the laboratory of human political and religious possibility.
 
 ## Geography
 
-Mídhalión takes its physical shape from the [[doc-vylarianse|Vylarian Sea]] and the coastlines that enclose it. On the northern, Ankarian shore, the region comprises [[doc-vylarinmpr|Vylaria]] and its still-claimed territories, the independent successor-states of [[doc-provenzrgn|Provènzia Region]] and [[doc-tarvenirgn|Tarvénia]], the philosophical city-states of [[doc-helionis|Heliónis]], the island kingdoms of [[doc-elavendre|Élavendre]] and [[doc-aelwyth|Aelwyth]], and the [[doc-cnfdrtnhrdnstts|Haradian]] archipelago that dominates the eastern sea. On the southern, Xerathian shore, it comprises the ancient empire of [[doc-empirtkhpr|Ta'Kheperu]], the three-flamed kingdom of [[doc-okharis|Okháris]], and the [[doc-mtrrchybth|Matriarchy of Bethua]].
+Mídhalión takes its physical shape from the [[place-vylarianse|Vylarian Sea]] and the coastlines that enclose it. On the northern, Ankarian shore, the region comprises [[affiliation-vylarinmpr|Vylaria]] and its still-claimed territories, the independent successor-states of [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia]], the philosophical city-states of [[place-helionis|Heliónis]], the island kingdoms of [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]], and the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago that dominates the eastern sea. On the southern, Xerathian shore, it comprises the ancient empire of [[affiliation-empirtkhpr|Ta'Kheperu]], the three-flamed kingdom of [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 
 These polities are not a unified political order. They share no common sovereign, no common law, and no common faith. What they share is the sea, and the sea — along with three millennia of trading, fighting, marrying, and arguing across it — is what has made Mídhalión a coherent thing.
 
@@ -48,9 +48,9 @@ The interior hinterlands that feed the sea's commerce are themselves diverse: th
 
 Mídhalión is overwhelmingly human. The demographic range is extraordinary even so — from the fair-skinned northerners of coastal Vylaria to the dark-skinned Ta'Kheperians and Bethuans of the southern shore, with every shade and every admixture in between, especially in the great port cities where intermarriage across ethnic and national lines is three thousand years old and still ongoing.
 
-Non-human peoples are scarce but present. Small [[doc-flksinale|Sinalë]] enclaves are documented in Élavendre and in the oldest temples of Ta'Kheperu. A handful of [[doc-flkkhazar|Khazári]] halls are rumored in the highland margins. [[skill-grukarlng|Grukar]] trading communities — small, carefully managed, carefully segregated — exist in a few Mídhalion port cities as the result of far-northern traders who settled at the end of their trading careers rather than return home.
+Non-human peoples are scarce but present. Small [[lore-flksinale|Sinalë]] enclaves are documented in Élavendre and in the oldest temples of Ta'Kheperu. A handful of [[lore-flkkhazar|Khazári]] halls are rumored in the highland margins. [[skill-grukarlng|Grukar]] trading communities — small, carefully managed, carefully segregated — exist in a few Mídhalion port cities as the result of far-northern traders who settled at the end of their trading careers rather than return home.
 
-Culturally, the port cities of Mídhalión share more with each other than with their interiors. A sailor or merchant moving from Vylaris to [[doc-sanctara|Sanctara]] to [[doc-alyssar|Alyssar]] to [[doc-byzaris|Byzaris]] to [[doc-wasetkara|Wasetkara]] encounters different languages, different pantheons, different architectural styles — but a recognizably similar mercantile class, similar dockside institutions, similar cosmopolitan attitudes toward religion and marriage and law. This "port city" culture is its own thing, distinct from any of the inland cultures that feed it, and it has its own traditions and its own continuity.
+Culturally, the port cities of Mídhalión share more with each other than with their interiors. A sailor or merchant moving from Vylaris to [[place-sanctara|Sanctara]] to [[place-alyssar|Alyssar]] to [[place-byzaris|Byzaris]] to [[place-wasetkara|Wasetkara]] encounters different languages, different pantheons, different architectural styles — but a recognizably similar mercantile class, similar dockside institutions, similar cosmopolitan attitudes toward religion and marriage and law. This "port city" culture is its own thing, distinct from any of the inland cultures that feed it, and it has its own traditions and its own continuity.
 
 ## Religion
 
@@ -60,7 +60,7 @@ The great port cities host temples of every major faith that trades into their h
 
 ## Politics and Power
 
-The political order of Mídhalión is defined by the long decline of the [[doc-vylarinmpr|Vylarian Empire]] and the scramble of successor-states and new powers to fill the vacuum. [[doc-cnfdrtnhrdnstts|Harad]]'s recent independence has disrupted the eastern balance of power. [[doc-provenzrgn|Provènzia Region]] and [[doc-helionis|Heliónis]] assert their cultural and political independence while maintaining careful economic ties to Vylaria. [[doc-tarvenirgn|Tarvénia]] guards its sovereignty with particular ferocity. Across the sea, the southern shore powers — [[doc-empirtkhpr|Ta'Kheperu]], [[doc-okharis|Okháris]], and the [[doc-mtrrchybth|Matriarchy of Bethua]] — watch the northern struggles with varying degrees of ancient patience and opportunistic interest, each of them older than Vylaria and all of them calculating that whatever northern power eventually emerges will need their trade.
+The political order of Mídhalión is defined by the long decline of the [[affiliation-vylarinmpr|Vylarian Empire]] and the scramble of successor-states and new powers to fill the vacuum. [[affiliation-cnfdrtnhrdnstts|Harad]]'s recent independence has disrupted the eastern balance of power. [[place-provenzrgn|Provènzia Region]] and [[place-helionis|Heliónis]] assert their cultural and political independence while maintaining careful economic ties to Vylaria. [[place-tarvenirgn|Tarvénia]] guards its sovereignty with particular ferocity. Across the sea, the southern shore powers — [[affiliation-empirtkhpr|Ta'Kheperu]], [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]] — watch the northern struggles with varying degrees of ancient patience and opportunistic interest, each of them older than Vylaria and all of them calculating that whatever northern power eventually emerges will need their trade.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] is the one institution that crosses every northern border in Mídhalión, maintaining chapters from Vylaria to Harad to Heliónis and claiming a continent-wide monopoly on sanctioned arcane practice. Its reach into the southern shore is much weaker: Ta'Kheperu and Okháris have their own mature magical traditions and have never granted the Ordo any foothold. The resulting asymmetry is a persistent source of friction, and the southern shore's arcane self-sufficiency is part of why the Ordo's northern monopoly remains structurally limited.
 
@@ -72,26 +72,26 @@ Every major commodity-class of Thalorna moves through the region. Vylarian steel
 
 ## Relations with Neighboring Regions
 
-Mídhalión connects to every other major region of Ankaris. It fronts the [[doc-aureldirgn|Aurèldían]] heartlands to the northwest, the [[doc-heladrgn|Hellád]] to the north, [[doc-cnfdrtnhrdnstts|Harad]] and the [[doc-khzryndsrtrgn|Khazryn]] to the northeast, and the [[doc-dunharargn|Dunhara]] and [[doc-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it connects to the far-eastern empires of [[doc-tanvuregin|Tānvür]] and [[doc-vedyarargn|Vedyara]]. Through the western strait it connects to [[doc-kalihara|Kalihara]] and, theoretically, to [[doc-kchchkcntnnt|K'ich'chik]] and the southern continents.
+Mídhalión connects to every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, the [[place-heladrgn|Hellád]] to the north, [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and the [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it connects to the far-eastern empires of [[place-tanvuregin|Tānvür]] and [[place-vedyarargn|Vedyara]]. Through the western strait it connects to [[affiliation-kalihara|Kalihara]] and, theoretically, to [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 
-Mídhalión operates on the **Common Calendar** — the AF/BF system established by the [[doc-vylarinmpr|Vylarian Empire]] and universally adopted across its former and current sphere of influence. See [[doc-vylarinmpr#The Common Calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
+Mídhalión operates on the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] and universally adopted across its former and current sphere of influence. See [[affiliation-vylarinmpr#The Common Calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
 
 ## See Also
 
-- [[doc-vylarianse|Vylarian Sea]] — the maritime heart of the region
-- [[doc-vylarinmpr|Vylarian Empire]] — the declining imperial power, source of the Common Calendar
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — ascendant eastern maritime rival
-- [[doc-helionis|Heliónis]] — philosophical and intellectual center
-- [[doc-provenzrgn|Provènzia Region]] — artistic heartland of the northern shore
-- [[doc-tarvenirgn|Tarvénia]] — independent western peninsula
-- [[doc-elavendre|Élavendre]] — mystical western island realm
-- [[doc-aelwyth|Aelwyth]] — the Misty Isle
-- [[doc-empirtkhpr|Ta'Kheperu]] — dominant southern imperial power
-- [[doc-okharis|Okháris]] — southwestern three-flamed kingdom
-- [[doc-mtrrchybth|Matriarchy of Bethua]] — southeastern matriarchal kingdom
+- [[place-vylarianse|Vylarian Sea]] — the maritime heart of the region
+- [[affiliation-vylarinmpr|Vylarian Empire]] — the declining imperial power, source of the Common Calendar
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — ascendant eastern maritime rival
+- [[place-helionis|Heliónis]] — philosophical and intellectual center
+- [[place-provenzrgn|Provènzia Region]] — artistic heartland of the northern shore
+- [[place-tarvenirgn|Tarvénia]] — independent western peninsula
+- [[place-elavendre|Élavendre]] — mystical western island realm
+- [[place-aelwyth|Aelwyth]] — the Misty Isle
+- [[affiliation-empirtkhpr|Ta'Kheperu]] — dominant southern imperial power
+- [[affiliation-okharis|Okháris]] — southwestern three-flamed kingdom
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]] — southeastern matriarchal kingdom
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — cross-border arcane institution
 - [[skill-valtarlng|Valtári]] — the trade pidgin
-- [[doc-ankrscntnnt|Ankaris Continent]] — northern continent
-- [[doc-xerathia|Xerathia]] — southern continent
+- [[place-ankrscntnnt|Ankaris Continent]] — northern continent
+- [[place-xerathia|Xerathia]] — southern continent

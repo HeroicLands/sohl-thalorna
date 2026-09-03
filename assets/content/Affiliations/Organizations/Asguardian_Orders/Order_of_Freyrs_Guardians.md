@@ -101,7 +101,7 @@ _Old Norse: Fréyrsverðir — "Fréyr's Swords"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-freyr|Fréyr]] — Asguardian god of peace, fertility, harvest, and the sun
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]] — chapter halls in rural valleys across the five kingdoms, with no single mother-hall; the order rotates its annual chapter between the three largest active halls
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — chapter halls in rural valleys across the five kingdoms, with no single mother-hall; the order rotates its annual chapter between the three largest active halls
 
 ## Overview
 

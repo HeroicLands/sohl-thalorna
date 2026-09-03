@@ -150,7 +150,7 @@ data:
     - tarvenirgn
   population: 1000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
@@ -166,7 +166,7 @@ data:
 folder: DB9rgGreD8FtqoBx
 ---
 
-- **Overlord:** [[doc-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
+- **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
 - **Language:** Tarvéni
 - **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]] (with strong folk traditions)
@@ -174,7 +174,7 @@ folder: DB9rgGreD8FtqoBx
 
 ## Overview
 
-Astúrath is the mountainous heartland of [[doc-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered — not by the [[doc-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition.
+Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered — not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition.
 
 ## Character
 
@@ -186,11 +186,11 @@ The High King's seat is traditionally at **Peñalthár**, a fortress-city perche
 
 ## Commerce and Currency
 
-Kingdom of Astúrath uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Astúrath is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Astúrath is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
-- [[doc-tarvenirgn|Tarvénia Region]] — Regional overview
-- [[doc-kngdmglvrn|Kingdom of Galváren]], [[doc-kingdmlnrk|Kingdom of Léonrik]] — Sister kingdoms
-- [[doc-frctyvlthr|Free City of Valthári]], [[doc-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions
+- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
+- [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions

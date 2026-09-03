@@ -571,7 +571,7 @@ sohl:
     - { shortcode: bgsmcvs, type: containergear }
 ---
 
-**Home:** [[doc-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Per-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -579,7 +579,7 @@ Mer'tep stands 6'0" tall with a medium build. She has dark weathered skin, gray 
 
 # Dossier {#dossier}
 
-Mertep was born in one of [[doc-empirtkhpr|Ta'Kheperu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great Iteru inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
+Mertep was born in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great Iteru inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
 
 The tattoo on her shoulder—a falcon in flight—marks her devotion to Hórús, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 

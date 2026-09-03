@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Ashkabel is the capital and principal settlement of [[doc-ashkabel|Ashkabel]].
+_To be written._ Ashkabel is the capital and principal settlement of [[affiliation-ashkabel|Ashkabel]].

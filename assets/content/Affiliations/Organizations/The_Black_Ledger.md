@@ -95,7 +95,7 @@ folder:
 # The Black Ledger
 
 - **Type:** Underground professional network
-- **Region:** [[doc-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
+- **Region:** [[place-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
 - **Founded:** Informal in origin, perhaps two centuries old; never chartered
 
 ## Overview
@@ -120,7 +120,7 @@ Among working members, the principal informal distinction is between **cartograp
 ## Practice and Specialties
 
 - **Espionage cartography.** Detailed maps of fortifications, garrison positions, supply lines, and naval bases — produced for sale to foreign powers or to interested parties within the League itself.
-- **Smuggling charts.** Hidden coves, unpatrolled routes, secure storage locations, the timing of customs patrols. Standard product for the [[doc-crmsyndctsthlrn|crime syndicates]] and for any merchant lord with cargo that prefers not to be inspected.
+- **Smuggling charts.** Hidden coves, unpatrolled routes, secure storage locations, the timing of customs patrols. Standard product for the [[affiliation-crmsyndctsthlrn|crime syndicates]] and for any merchant lord with cargo that prefers not to be inspected.
 - **Forbidden territory.** Maps of regions that legitimate cartographers refuse on grounds of danger, taboo, or political sensitivity. Includes fae-touched lands in Élavendre, Helspawn-incursion zones in eastern Vrystwald, and contested frontier territories where any official mapping would constitute a political claim.
 - **The Cursed Maps.** A small specialty within the Ledger: maps commissioned by patrons who suspect the territory itself responds to being mapped. Cartographers who accept these commissions report consistent psychological effects — vivid dreams, premonitions, the sense of being watched by the territory itself. Most Ledger members refuse this work. Those who accept charge accordingly.
 - **Counterfeit guild maps.** Maps deliberately produced to be passed off as the work of named guild masters, complete with forged seals. The riskiest of all Ledger work, since it directly attacks the institution most of its members also belong to.
@@ -128,8 +128,8 @@ Among working members, the principal informal distinction is between **cartograp
 ## Relations
 
 - **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]** — parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
-- **The [[doc-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — major clients. The [[affiliation-velvethand|Velvet Hand]] buys document specialists; the [[affiliation-crimsnldgr|Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; the [[affiliation-theashroad|Ash Road]] buys desert and caravan charts; the Theft Syndicate of the Eastern Docks buys city-interior surveys.
-- **Foreign powers** — Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[doc-khzrncnfdrtn|Khazryn Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — major clients. The [[affiliation-velvethand|Velvet Hand]] buys document specialists; the [[affiliation-crimsnldgr|Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; the [[affiliation-theashroad|Ash Road]] buys desert and caravan charts; the Theft Syndicate of the Eastern Docks buys city-interior surveys.
+- **Foreign powers** — Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
 - **The League's City Guard** — the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.
 
 ## Identifying Marks

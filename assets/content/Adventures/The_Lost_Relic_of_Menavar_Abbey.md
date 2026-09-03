@@ -19,7 +19,7 @@ An ancient relic of the Aurèldían faith has been lost in the ruins of [[Menava
 
 ## Overview
 
-Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[doc-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ## Stage One: The Commission
 
@@ -101,8 +101,8 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 ## See Also
 
-- [[doc-provenzrgn|Provènzia Region]]
-- [[doc-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]]
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

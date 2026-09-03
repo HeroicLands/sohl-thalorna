@@ -88,7 +88,7 @@ data:
     - byzariargn
   population: 2000000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -100,7 +100,7 @@ data:
 folder: pAXnwYJhDDSvkrPt
 ---
 
-Altinkale — the Golden Fortress — is the wealthiest and most politically influential of the five city-states that make up the [[doc-byzarianlg|Byzarian League]]. It serves as the League's de facto capital, hosting the council sessions where the merchant-princes of all five cities debate trade policy, tariffs, and collective defense. The city's banking houses finance commerce across half of [[doc-ankrscntnnt|Ankaris Continent]], and its gold-domed counting houses are famous throughout [[doc-midhalnrgn|Mídhalión Region]].
+Altinkale — the Golden Fortress — is the wealthiest and most politically influential of the five city-states that make up the [[affiliation-byzarianlg|Byzarian League]]. It serves as the League's de facto capital, hosting the council sessions where the merchant-princes of all five cities debate trade policy, tariffs, and collective defense. The city's banking houses finance commerce across half of [[place-ankrscntnnt|Ankaris Continent]], and its gold-domed counting houses are famous throughout [[place-midhalnrgn|Mídhalión Region]].
 
 ## Character
 
@@ -110,10 +110,10 @@ The city is renowned for its goldsmiths, its bankers, and its silk markets. Its 
 
 ## Commerce and Currency
 
-Altinkale uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Altinkale is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Altinkale uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Altinkale is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-byzarianlg|Byzarian League]] — The confederation
-- [[doc-byzariargn|Byzaría Region]] — Regional overview
-- [[doc-denizara|Denizara]], [[doc-yesilhan|Yeşilhan]], [[doc-gumushisar|Gümüşhisar]], [[doc-karatas|Karataş]] — Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]] — The confederation
+- [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — Sister city-states

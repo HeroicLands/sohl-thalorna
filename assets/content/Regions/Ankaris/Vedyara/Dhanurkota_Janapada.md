@@ -95,7 +95,7 @@ data:
     - vedyarargn
   population: 30000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
@@ -107,7 +107,7 @@ terran_analog: "Medieval South Indian temple-republic with a martial-caste speci
 folder: q61mqomRaSzUNfrY
 ---
 
-The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[doc-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.
+The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.
 
 ## The Bow-Fort
 
@@ -154,18 +154,18 @@ In practice, Dhanurkota has not been seriously threatened in three centuries. It
 
 ## Relations
 
-Dhanurkota maintains formal patron-client relations with three neighboring kingdoms (the small mountain kingdoms whose names rotate as their dynasties rise and fall) and informal supplier-client relations with most of the major Vedyari city-states, including [[doc-chandrapur|Chandrapur]] and the inland branches of the great coastal merchant houses. Its relationship with [[doc-vyalendra2|Vyālendra]] is particularly close — Vyālendra has historically retained a Dhanurkoti graduate as commander of its city watch for as long as anyone can remember, and the two polities maintain a continuous diplomatic correspondence on military and commercial matters.
+Dhanurkota maintains formal patron-client relations with three neighboring kingdoms (the small mountain kingdoms whose names rotate as their dynasties rise and fall) and informal supplier-client relations with most of the major Vedyari city-states, including [[affiliation-chandrapur|Chandrapur]] and the inland branches of the great coastal merchant houses. Its relationship with [[affiliation-vyalendra2|Vyālendra]] is particularly close — Vyālendra has historically retained a Dhanurkoti graduate as commander of its city watch for as long as anyone can remember, and the two polities maintain a continuous diplomatic correspondence on military and commercial matters.
 
-Within the [[doc-janpdsvdyr|Mahā-Saṅgha]], Dhanurkota's reputation is high. The senior priest of the Mahájaya temple is one of the seniormost voices at every Mahā-Mela, and the four academy masters together are routinely consulted on inter-janapada military questions.
+Within the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], Dhanurkota's reputation is high. The senior priest of the Mahájaya temple is one of the seniormost voices at every Mahā-Mela, and the four academy masters together are routinely consulted on inter-janapada military questions.
 
 ## Commerce and Currency
 
-Dhanurkota Janapada uses the [[doc-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[doc-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
-- [[doc-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[doc-vedyarargn|Vedyara]] — parent region
-- [[doc-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
+- [[place-vedyarargn|Vedyara]] — parent region
+- [[place-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

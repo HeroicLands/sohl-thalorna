@@ -91,7 +91,7 @@ data:
   domains:
     - nrthrnkchchk
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations: {}
@@ -113,7 +113,7 @@ Xik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes rang
 
 The forests surrounding the waterways are mixed boreal and hardwood: spruce and pine provide shelter and materials, while maple, birch, and oak offer resources for tools, fuel, and food. The sugar maples of the southern portions of Ha'ik territory produce sap in spring, and the Ha'ik have developed elaborate syrup production and maple sugar crafting traditions that are traded throughout the northern frontier. The forests are productive in other ways as well; the Ha'ik gather roots, berries, nuts, and medicinal plants with systematic precision, and this botanical knowledge has developed into a sophisticated herbal medicine tradition that makes Ha'ik healers sought-after even by distant peoples.
 
-The western and southwestern borders of Xik'ul Ch'akal shade gradually into the prairie lands of [[doc-haxaman|Ha' Xaman]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Tz'okum maintain contested hunting grounds. The northwestern borders meet [[doc-kiximtzul|K'ixim Tzul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[doc-hanalxilan|Ha'nal Xi'lan]]'s contested rivers, and the southeastern approaches [[doc-tzumanotun|Tz'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them — conducted entirely outside K'ich'chik knowledge or participation.
+The western and southwestern borders of Xik'ul Ch'akal shade gradually into the prairie lands of [[affiliation-haxaman|Ha' Xaman]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Tz'okum maintain contested hunting grounds. The northwestern borders meet [[affiliation-kiximtzul|K'ixim Tzul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[affiliation-hanalxilan|Ha'nal Xi'lan]]'s contested rivers, and the southeastern approaches [[affiliation-tzumanotun|Tz'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them — conducted entirely outside K'ich'chik knowledge or participation.
 
 ## The Ha'ik Tz'aqalil
 
@@ -133,7 +133,7 @@ The Ha'ik appear less reliant on southern trade than some of the other northern 
 
 ## See Also
 
-- [[doc-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the west
-- [[doc-kiximtzul|K'ixim Tzul]] — The Bear People's boreal forests to the northwest
-- [[doc-tzumanotun|Tz'uma No'tun]] — The Serpent People's southern territories, connected via river routes
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the south where Ha'ik, Tz'okum, and Ch'aqun meet
+- [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the west
+- [[affiliation-kiximtzul|K'ixim Tzul]] — The Bear People's boreal forests to the northwest
+- [[affiliation-tzumanotun|Tz'uma No'tun]] — The Serpent People's southern territories, connected via river routes
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the south where Ha'ik, Tz'okum, and Ch'aqun meet

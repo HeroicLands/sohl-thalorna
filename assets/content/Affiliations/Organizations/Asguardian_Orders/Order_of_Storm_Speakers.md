@@ -102,7 +102,7 @@ _Old Norse: Stormmælendir — "Storm-Speakers"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-thorr|Þórr]] — Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of Þrumufjall in Nordheim
+- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of Þrumufjall in Nordheim
 
 ## Overview
 

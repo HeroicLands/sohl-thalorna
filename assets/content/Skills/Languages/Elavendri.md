@@ -29,7 +29,7 @@ flags:
 
 Élavendri is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[doc-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where Vylari is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where Vylari is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words.
 
 ## Overview
 
@@ -73,7 +73,7 @@ The language is sometimes written with vowel diacriticals to indicate stress and
 
 Élavendri developed from Proto-Pelwar stock but in isolation from the other branches, in the northern forests and mountains of Élavendre. The language absorbed deep influence from the non-Pelwar populations of the region—people of fey heritage, indigenous forest dwellers, and magical practitioners—resulting in a tongue with features quite foreign to other Pelwar languages.
 
-The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelendi]]**, spoken by the [[doc-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
+The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelendi]]**, spoken by the [[lore-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
 
 ## Regional Dialects
 
@@ -83,7 +83,7 @@ The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelend
 
 **Magical Register:** A specialized, highly formal variant used in magical rituals and high ceremony, employing archaic vocabulary and conservative phonetics. Knowledge of this register marks one as educated in magical arts.
 
-For the ancestral Pelwar tongue of the [[doc-aelendnppl|Áelendan]] — the most conservative member of the family, spoken in the mountainous interior — see [[skill-aelendlng|Áelendi Language]].
+For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]] — the most conservative member of the family, spoken in the mountainous interior — see [[skill-aelendlng|Áelendi Language]].
 
 ## Sample Phrases
 

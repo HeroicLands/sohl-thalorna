@@ -94,9 +94,9 @@ folder: ElMVW0iSYyeroRC3
 
 _The Celestial Court of Ten Thousand Spirits_
 
-The **Celestial Order** — formally the Tëngvōk Vān Lëi — is the religious and cosmological framework of the [[doc-tanvurempr|Empire of Tānvür]] and, in divergent regional forms, of [[doc-jurthatempr|Jürthāt]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. The Celestial Order is an _administration_ — a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
+The **Celestial Order** — formally the Tëngvōk Vān Lëi — is the religious and cosmological framework of the [[affiliation-tanvurempr|Empire of Tānvür]] and, in divergent regional forms, of [[affiliation-jurthatempr|Jürthāt]]. It is not a faith in the Western sense. There is no creed, no salvation, no personal relationship with a loving god. The Celestial Order is an _administration_ — a vast, impersonal bureaucracy of spiritual officials who govern the cosmos through procedure, precedent, and the relentless accounting of obligation.
 
-For details on how the Celestial Order functions within Tānvür society — including the [[doc-mandatehvn|Mandate of Heaven]], [[doc-ancstrwrshp|Ancestor Worship]], and the [[doc-infrnlrlms|Infernal Realms]] — see [[doc-celestlrdr|Celestial Order]].
+For details on how the Celestial Order functions within Tānvür society — including the [[lore-mandatehvn|Mandate of Heaven]], [[lore-ancstrwrshp|Ancestor Worship]], and the [[lore-infrnlrlms|Infernal Realms]] — see [[lore-celestlrdr|Celestial Order]].
 
 ---
 
@@ -110,7 +110,7 @@ Then came **Tānlüng**, the First Classifier. The Tānvüri do not say Tānlün
 
 Tānlüng then performed the **Dāk Zhāklëi** (the Great Sorting): separating fire from water, wood from metal, earth from air, light from dark, motion from stillness. Each classification required a name, a category, a set of rules governing its behavior. Each set of rules required an administrator. And so the gods were not born — they were _appointed_. Tānlüng did not create subordinate deities out of love or loneliness. He created _positions_ that needed to be filled.
 
-The Hürnlëi was not destroyed by this process. It was merely pushed to the margins — contained but never eliminated. It persists at the edges of classification, in the spaces between categories, in paradoxes and contradictions. The [[doc-infrnlrlms|Infernal Realms]] are understood as regions where the Great Sorting was incomplete or has begun to unravel.
+The Hürnlëi was not destroyed by this process. It was merely pushed to the margins — contained but never eliminated. It persists at the edges of classification, in the spaces between categories, in paradoxes and contradictions. The [[lore-infrnlrlms|Infernal Realms]] are understood as regions where the Great Sorting was incomplete or has begun to unravel.
 
 This origin story has profound implications for the Tānvüri worldview: the universe is not a gift from a loving creator, but an ongoing _administrative project_. Maintaining cosmic order is not worship — it is _work_. And if the administration fails, the Hürnlëi will reclaim what was sorted.
 
@@ -122,7 +122,7 @@ The gods of the Tëngvōk Vān Lëi are not what Western cultures would recogniz
 
 A god's power derives not from inherent divinity but from the _authority of their office_. A Tëng Güng (Celestial Minister) commanding the Bureau of Storms controls storms not because storms are part of their being, but because the Bureau's seal grants them jurisdiction over storm-related cosmic energy. If they were removed from their post, another being could be appointed, and the storms would answer to the new officeholder.
 
-This means gods can be — and historically have been — **promoted, demoted, reassigned, and dismissed**. A mortal who accumulates sufficient spiritual credit through the moral ledger (see [[doc-ancstrwrshp|Ancestor Worship]]) and demonstrates administrative competence can, after death, be appointed to a divine post. Several of the current bureau overseers are believed to have been mortal in a previous cosmic cycle. Conversely, a god who fails in their duties — who allows their domain to fall into disorder — can be stripped of their office and reduced to a lesser spirit.
+This means gods can be — and historically have been — **promoted, demoted, reassigned, and dismissed**. A mortal who accumulates sufficient spiritual credit through the moral ledger (see [[lore-ancstrwrshp|Ancestor Worship]]) and demonstrates administrative competence can, after death, be appointed to a divine post. Several of the current bureau overseers are believed to have been mortal in a previous cosmic cycle. Conversely, a god who fails in their duties — who allows their domain to fall into disorder — can be stripped of their office and reduced to a lesser spirit.
 
 The Tānvüri do not pray to their gods. They **petition** them. A petition is a formal spiritual document, structured according to protocol, addressed to the correct bureau, stamped with the appropriate seals. The temple is not a church — it is a **celestial post office**. The priests are not pastors — they are **clerks** who know the correct forms.
 
@@ -138,7 +138,7 @@ Even the ancestor spirits play the game. A powerful ancestor posted to a favorab
 
 The Tānthëi teach that this is not corruption. It is the mechanism by which the classification system **tests its own boundaries**, discovers jurisdictional gaps, and adapts to conditions that the original Great Sorting did not anticipate. A system without internal tension is a system that cannot self-correct. Rivalry keeps the bureaus sharp, prevents any single overseer from accumulating unchecked authority, and ensures that when a classification fails, there is always a competing bureau ready to claim the territory.
 
-The mortal court's political intrigues — the deadly maneuvering that the Tānvüri call the [[doc-veizhatret|Vëi Zhāt Rëit]] — are understood as the natural reflection of this celestial dynamic. The empire's power struggles are not a failure of the cosmic order. They are the cosmic order, operating as designed.
+The mortal court's political intrigues — the deadly maneuvering that the Tānvüri call the [[lore-veizhatret|Vëi Zhāt Rëit]] — are understood as the natural reflection of this celestial dynamic. The empire's power struggles are not a failure of the cosmic order. They are the cosmic order, operating as designed.
 
 ---
 
@@ -153,7 +153,7 @@ The bureaucracy processes three types of cosmic business: **petitions** (request
 ## **1. Dreams – Mëi Sëi – The Bureau of Night Counsel**
 
 - **Overseer**: **Mëivōr**, the Minister of Dreams.
-- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mëi Sëi is the Tëngvōk Vān Lëi expression of [[doc-goddreams|The God of Dreams]] — the same entity known as Baldr (Asguardian), Æthería (Aurèldían), Nal'ik Tz'uqal (Itzáni), and Bēs (Kemetían). In the Tānvüri framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations — a bureaucratic anomaly that the Tānthëi find deeply troubling.
+- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mëi Sëi is the Tëngvōk Vān Lëi expression of [[lore-goddreams|The God of Dreams]] — the same entity known as Baldr (Asguardian), Æthería (Aurèldían), Nal'ik Tz'uqal (Itzáni), and Bēs (Kemetían). In the Tānvüri framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations — a bureaucratic anomaly that the Tānthëi find deeply troubling.
 - **Lesser Spirits**:
   - **Lëngvōr** – Clerks of Auspicious Dreams, who deliver favorable omens.
   - **Hëkyök** – Clerks of Warning Dreams, who deliver cautionary visions. (Not malevolent — nightmares are simply urgent memos.)
@@ -193,7 +193,7 @@ The bureaucracy processes three types of cosmic business: **petitions** (request
 ## **5. Knowledge – Thōk Sëi – The Archive of All Records**
 
 - **Overseer**: **Vëntōk**, the Keeper of the Celestial Archive.
-- **Role**: Maintains the master copy of all cosmic records — every classification, every distinction, every rule established during the Great Sorting. The Archive is considered the most sacred institution in the celestial hierarchy, because if a record is lost, the thing it describes becomes _unclassified_ — and what is unclassified slides back toward the Hürnlëi. Scholars and the [[doc-tanthei|Tānthëi]] caste petition this bureau for insight.
+- **Role**: Maintains the master copy of all cosmic records — every classification, every distinction, every rule established during the Great Sorting. The Archive is considered the most sacred institution in the celestial hierarchy, because if a record is lost, the thing it describes becomes _unclassified_ — and what is unclassified slides back toward the Hürnlëi. Scholars and the [[lore-tanthei|Tānthëi]] caste petition this bureau for insight.
 - **Lesser Spirits**:
   - **Thōkgürt** – Archival Scribes who copy and preserve records.
   - **Thōklëi** – Indexing Spirits who maintain the classification system itself.

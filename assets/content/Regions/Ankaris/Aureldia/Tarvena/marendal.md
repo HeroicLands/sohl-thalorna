@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Maréndal is the capital and principal settlement of [[doc-kngdmglvrn|Kingdom of Galváren]].
+_To be written._ Maréndal is the capital and principal settlement of [[affiliation-kngdmglvrn|Kingdom of Galváren]].

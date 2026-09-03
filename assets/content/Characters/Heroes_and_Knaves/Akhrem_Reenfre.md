@@ -570,7 +570,7 @@ sohl:
     - { shortcode: bpchlg, type: containergear }
 ---
 
-**Home:** [[doc-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Per-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -578,7 +578,7 @@ Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black ha
 
 # Dossier {#dossier}
 
-Akhrem was born in the Empire of [[doc-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to **Master Soren**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Soren taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Soren, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Soren grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
 

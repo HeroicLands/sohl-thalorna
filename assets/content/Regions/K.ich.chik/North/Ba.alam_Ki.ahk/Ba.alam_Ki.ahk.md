@@ -91,7 +91,7 @@ data:
   domains:
     - nrthrnkchchk
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations: {}
@@ -109,11 +109,11 @@ From Ba'alam Ki'ahk's high valleys, one can see across the great water to distan
 
 ## Geography
 
-The landscape of Ba'alam Ki'ahk fractures into three distinct regions, each with its own character and spiritual significance. The coastal reaches feature precipitous fjords cut by ancient ice, where cedar forests descend nearly to the tide-line and salmon rivers cascade down from snowmelt. These temperate rainforests are among the densest and most productive ecosystems in all of [[doc-kchchkcntnnt|K'ich'chik]], their canopies so thick that even at midday the ground dwells in twilight. The coastal waters team with life—seal, sea otter, and the great whales that the Xak'nal hunt with reverence and ceremony.
+The landscape of Ba'alam Ki'ahk fractures into three distinct regions, each with its own character and spiritual significance. The coastal reaches feature precipitous fjords cut by ancient ice, where cedar forests descend nearly to the tide-line and salmon rivers cascade down from snowmelt. These temperate rainforests are among the densest and most productive ecosystems in all of [[place-kchchkcntnnt|K'ich'chik]], their canopies so thick that even at midday the ground dwells in twilight. The coastal waters team with life—seal, sea otter, and the great whales that the Xak'nal hunt with reverence and ceremony.
 
 Inland from the coast rises the mountain spine, a chain of volcanic peaks whose summits pierce the cloud-layer and touch the realm of spirit. Here, at the edge of stone and sky, eagles nest and wheel; here too are the high meadows where the Xak'nal gather for vision quests and seasonal councils. The mountains channel the rivers that feed the coastal settlements and provide trade routes to the interior. Snow accumulates heavily in the high passes, making winter crossing treacherous and summer travel a window of mere months.
 
-To the east, where the mountains give way to plateau and boreal forest, the landscape transitions gradually toward the prairies and northern reaches claimed by [[doc-kiximtzul|K'ixim Tzul]] and the bear-people. Here, the cedar gives way to spruce and pine, and the Xak'nal maintain hunting camps and trade routes. The region is a frontier within a frontier—less densely populated than the coastal and mountain zones, yet still watched carefully by Xak'nal scouts who know that the borders of their territory are always negotiable should outsiders grow bold.
+To the east, where the mountains give way to plateau and boreal forest, the landscape transitions gradually toward the prairies and northern reaches claimed by [[affiliation-kiximtzul|K'ixim Tzul]] and the bear-people. Here, the cedar gives way to spruce and pine, and the Xak'nal maintain hunting camps and trade routes. The region is a frontier within a frontier—less densely populated than the coastal and mountain zones, yet still watched carefully by Xak'nal scouts who know that the borders of their territory are always negotiable should outsiders grow bold.
 
 ## The Xak'nal Tz'aqalil
 
@@ -125,13 +125,13 @@ K'ich'chik observers believe the Xak'nal political structure is decentralized, o
 
 ## Trade
 
-Ba'alam Ki'ahk sits at a crucial intersection of northern and southern trade networks. The Xak'nal serve as intermediaries between [[doc-kchchkcntnnt|K'ich'chik]]'s civilizations and the more remote northern peoples; cedar products, whale oil, and furs flow south, while obsidian, jade, and featherwork flow north. The high mountain passes are impassable in winter, making trade seasonal and unpredictable—a factor that keeps prices volatile and makes successful traders among the Xak'nal wealthy and influential.
+Ba'alam Ki'ahk sits at a crucial intersection of northern and southern trade networks. The Xak'nal serve as intermediaries between [[place-kchchkcntnnt|K'ich'chik]]'s civilizations and the more remote northern peoples; cedar products, whale oil, and furs flow south, while obsidian, jade, and featherwork flow north. The high mountain passes are impassable in winter, making trade seasonal and unpredictable—a factor that keeps prices volatile and makes successful traders among the Xak'nal wealthy and influential.
 
 Coastal trade with the regions to the north (lands beyond even the Xak'nal's claimed territory) brings items of mysterious origin and enormous value—furs of creatures unknown in the south, amber from some distant northern sea, bone and ivory carved in styles utterly foreign to K'ich'chik's aesthetic traditions. The Xak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Xak'nal intermediaries have ended in disappearances. The Xak'nal tolerate trade only on their terms, at locations they choose, and any K'ich'chik merchant who overstays or wanders is treated as an invader.
 
 ## See Also
 
-- [[doc-kiximtzul|K'ixim Tzul]] — The bear-people's domain to the east, separated from Ba'alam Ki'ahk by mountain passes and boreal forest
-- [[doc-hanalxilan|Ha'nal Xi'lan]] — Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
-- [[doc-chakultzkl|Ch'akul Tza'kul]] — The great southern desert separating the northern frontier from [[doc-kchchkcntnnt|K'ich'chik]] proper
+- [[affiliation-kiximtzul|K'ixim Tzul]] — The bear-people's domain to the east, separated from Ba'alam Ki'ahk by mountain passes and boreal forest
+- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
+- [[affiliation-chakultzkl|Ch'akul Tza'kul]] — The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
 - [[affiliation-itzanpnthn|Itzáni Faith]] — The distant civilization's religion and culture, encountered through trade and occasional conflict

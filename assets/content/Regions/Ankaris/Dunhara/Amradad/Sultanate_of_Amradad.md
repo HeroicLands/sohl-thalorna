@@ -96,7 +96,7 @@ data:
     - amradadrgn
   population: 2000000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -114,11 +114,11 @@ folder: PUSPfoG6UdrnqPhK
 
 ## Overview
 
-The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation — a settled, urban, and comparatively wealthy state built around a cluster of major oases in the heart of the desert. Where the [[doc-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.
+The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation — a settled, urban, and comparatively wealthy state built around a cluster of major oases in the heart of the desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.
 
 ## Character
 
-Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes — the point where the roads from [[doc-cnfdrtnhrdnstts|Harad]], [[doc-byzariargn|Byzaría Region]], [[doc-vedyarargn|Vedyara Region]], and the [[doc-khzryndsrtrgn|Khazryn Desert Region]] all converge. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.
+Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes — the point where the roads from [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-byzariargn|Byzaría Region]], [[place-vedyarargn|Vedyara Region]], and the [[place-khzryndsrtrgn|Khazryn Desert Region]] all converge. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.
 
 The Sultan's court is a center of learning and patronage. Scholars of theology, astronomy, mathematics, and medicine gather in Amradad's libraries and academies. The [[affiliation-ashanpnthn|Āsháian Pantheon]] faith finds its most elaborate expression here — the great fire-temples of Amradad are architectural wonders, and the theological debates of its priestly scholars set the standard for Āsháian orthodoxy.
 
@@ -126,11 +126,11 @@ Amradad's relationship with the nomadic tribes is complicated. The Sultan claims
 
 ## Commerce and Currency
 
-The Sultanate uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach — Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[doc-bartercnmy|barter]] and [[doc-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[doc-dunhardsrtrgn|Dunhara Desert]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.
+The Sultanate uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach — Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[place-dunhardsrtrgn|Dunhara Desert]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.
 
 ## See Also
 
-- [[doc-dunharargn|Dunhara Region]] — Regional overview
-- [[doc-dunhartrbs|Dunhara Tribes]] — Nomadic counterpart
+- [[place-dunharargn|Dunhara Region]] — Regional overview
+- [[affiliation-dunhartrbs|Dunhara Tribes]] — Nomadic counterpart
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Pantheon
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]], [[doc-byzariargn|Byzaría Region]] — Trade route neighbors
+- [[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-byzariargn|Byzaría Region]] — Trade route neighbors

@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Beit-Shōfár is the capital and principal settlement of [[doc-tribestrzd|Tribes of Ātárzád]].
+_To be written._ Beit-Shōfár is the capital and principal settlement of [[affiliation-tribestrzd|Tribes of Ātárzád]].

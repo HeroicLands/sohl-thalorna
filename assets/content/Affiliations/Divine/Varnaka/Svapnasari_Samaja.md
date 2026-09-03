@@ -102,12 +102,12 @@ folder: dxzsTyaF4LMapIJX
 # Svapnasāri-samāja — The Assembly of the Dream-Followers
 
 - **Tradition:** Svapnasāri-samāja — _The Assembly of the Dream-Followers_
-- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[doc-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honoured as a companion presence, since the dead and the dream share the threshold
+- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honoured as a companion presence, since the dead and the dream share the threshold
 - **Emphasis:** Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Svapnasāri-samāja** is a small, respected mystical sect centred on the [[affiliation-svapnadevas|Svapnadēvas]] — the Dreaming Host. Through the Host, the sect holds, the dream-power of [[doc-goddreams|The God of Dreams]] reaches the world, though the greater deity is never named directly in the sect's rites. The sect's members are the oneiromancers, the keepers of the dream-registers, and the counsellors to whom Vedyaran rulers, generals, and merchants turn when a question has passed beyond the reach of ordinary deliberation.
+The **Svapnasāri-samāja** is a small, respected mystical sect centred on the [[affiliation-svapnadevas|Svapnadēvas]] — the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, though the greater deity is never named directly in the sect's rites. The sect's members are the oneiromancers, the keepers of the dream-registers, and the counsellors to whom Vedyaran rulers, generals, and merchants turn when a question has passed beyond the reach of ordinary deliberation.
 
 The Samāja's temples are often set at a remove from the bustle of civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. Its priests keep their own hours and often their own silence, and their institutional presence is small compared to the Trimūrti-sampradāya. But the weight of their counsel is considerable, and few Vedyaran courts are without at least one Dream-reader whose provenance traces back to a Samāja monastery.
 
@@ -150,4 +150,4 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 ## Geographic Presence
 
-Established Samāja monasteries are found in the uplands north of [[doc-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries are found in the uplands north of [[place-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.

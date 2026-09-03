@@ -27,7 +27,7 @@ folder: bq0QGXXvq8fNpewL
 
 ## Overview
 
-Khensuret is the great temple-city of the dead, capital of [[doc-nomekhnsrt|its nome]] and the heart of the empire's funerary civilization. It stands on the east bank of the river facing, across the water, the vast necropolis where the rich and the holy of the whole realm are laid to rest; and the city itself lives entirely for that traffic. Its great temples of [[affiliation-kemtnpnthn|Sēker]] and [[affiliation-kemtnpnthn|Ánubís]], lords of the passage into death, draw the empire's largest pilgrimage; its embalmers' and coffin-makers' quarters prepare the dead sent here from distant nomes; and its pilgrim-markets sell the amulets, funerary papyri, and grave-goods that ease the soul's journey. The Wer'Hekau of the mortuary temples command estates and labor-gangs rivaling the [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]]'s own, and the city's solemn, ancient streets are crowded year-round with mourners, pilgrims, priests, and the craftsmen of death.
+Khensuret is the great temple-city of the dead, capital of [[affiliation-nomekhnsrt|its nome]] and the heart of the empire's funerary civilization. It stands on the east bank of the river facing, across the water, the vast necropolis where the rich and the holy of the whole realm are laid to rest; and the city itself lives entirely for that traffic. Its great temples of [[affiliation-kemtnpnthn|Sēker]] and [[affiliation-kemtnpnthn|Ánubís]], lords of the passage into death, draw the empire's largest pilgrimage; its embalmers' and coffin-makers' quarters prepare the dead sent here from distant nomes; and its pilgrim-markets sell the amulets, funerary papyri, and grave-goods that ease the soul's journey. The Wer'Hekau of the mortuary temples command estates and labor-gangs rivaling the [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]'s own, and the city's solemn, ancient streets are crowded year-round with mourners, pilgrims, priests, and the craftsmen of death.
 
 ## Notable Features
 
@@ -39,7 +39,7 @@ Khensuret is the great temple-city of the dead, capital of [[doc-nomekhnsrt|its 
 
 ## See Also
 
-- [[doc-nomekhnsrt|The Nome of Khensuret]] — Parent nome
-- [[doc-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[affiliation-nomekhnsrt|The Nome of Khensuret]] — Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Sēker, Ánubís)

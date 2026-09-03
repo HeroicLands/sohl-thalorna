@@ -90,7 +90,7 @@ data:
     - grkrhlmrgn
   population: 2000000
   peoples:
-    - grukar
+    - grukarflk
   economy:
     - lore-bartercnmy
     - lore-vylrncrncy
@@ -104,7 +104,7 @@ folder: CNzTSOtYWZwLyp5k
 
 ## Overview
 
-East of [[doc-kngdmnrdhm|Kingdom of Nordheim]], the Grukar tribes dominate a harsh landscape of snow-covered forests, towering mountains, and sprawling tundra. The Grukar are known for their brutal warfare, hive-like social structures, and deep connection to the primal spirits of the wilderness. The region is ancient and forbidding, with the air thick with the scent of pine and the cold bite of wind that never truly relents.
+East of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the Grukar tribes dominate a harsh landscape of snow-covered forests, towering mountains, and sprawling tundra. The Grukar are known for their brutal warfare, hive-like social structures, and deep connection to the primal spirits of the wilderness. The region is ancient and forbidding, with the air thick with the scent of pine and the cold bite of wind that never truly relents.
 
 ## Geography
 
@@ -128,11 +128,11 @@ The Grukar are largely isolated and hostile to outsiders. Raids against Normen s
 
 ## Commerce and Currency
 
-Grukarhölm operates substantially on [[doc-bartercnmy|barter]] for its internal commerce. The kingdom's contact with neighboring polities brings in occasional Vylarian coin (from western trade), but the Grukar economy has not developed native coinage and does not operate within any of the major continental banking systems. Where written-currency commerce is needed (for treaties, tribute, or trade with foreign powers), Vylarian Argo and Aurion are accepted by intrinsic value.
+Grukarhölm operates substantially on [[lore-bartercnmy|barter]] for its internal commerce. The kingdom's contact with neighboring polities brings in occasional Vylarian coin (from western trade), but the Grukar economy has not developed native coinage and does not operate within any of the major continental banking systems. Where written-currency commerce is needed (for treaties, tribute, or trade with foreign powers), Vylarian Argo and Aurion are accepted by intrinsic value.
 
 ## See Also
 
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]] — Western neighbors
-- [[doc-vrystwald|Vrystwald]] — Southern frontier
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Western neighbors
+- [[place-vrystwald|Vrystwald]] — Southern frontier
 - [[skill-grukarlng|Grukar]] — Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]] — Language reference

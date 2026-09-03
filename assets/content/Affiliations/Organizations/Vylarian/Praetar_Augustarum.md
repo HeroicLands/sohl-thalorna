@@ -91,15 +91,15 @@ folder:
 _Vylarian: Praetar Augustarum — "the Guard of the Augustars"_
 
 - **Type:** Imperial military institution; household guard and Inner City garrison
-- **Region of operation:** [[doc-urbsaquiln|Urbs Aquilion]], the Inner City of [[doc-magnapolis|Magnápolis]]; the imperial person wherever he travels
-- **Seat:** The **[[doc-castraprtr|Castra Praetoria]]**, on the palace hill within the Inner Wall
+- **Region of operation:** [[place-urbsaquiln|Urbs Aquilion]], the Inner City of [[place-magnapolis|Magnápolis]]; the imperial person wherever he travels
+- **Seat:** The **[[place-castraprtr|Castra Praetoria]]**, on the palace hill within the Inner Wall
 - **Answerable to:** The reigning **Augustar** alone
 
 ## Overview
 
-The Praetar Augustarum are the imperial guard — the Augustar's personal bodyguard, and the keepers of order and justice within the Inner City of [[doc-magnapolis|Magnápolis]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters: they recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier castra but in the [[doc-castraprtr|Castra Praetoria]] on the palace hill, the one fortress inside the Inner Wall. They are elite, lavishly equipped, and intensely political — the praetorian muscle of the court, and the instrument through which the Augustar's grip on his own capital is made physical.
+The Praetar Augustarum are the imperial guard — the Augustar's personal bodyguard, and the keepers of order and justice within the Inner City of [[place-magnapolis|Magnápolis]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters: they recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier castra but in the [[place-castraprtr|Castra Praetoria]] on the palace hill, the one fortress inside the Inner Wall. They are elite, lavishly equipped, and intensely political — the praetorian muscle of the court, and the instrument through which the Augustar's grip on his own capital is made physical.
 
-Their charge is twofold: the imperial person, and the peace of the Inner City. Within [[doc-urbsaquiln|Urbs Aquilion]] they are guard, garrison, and magistrate's arm together — warding the [[doc-palatimgnm|Palatium Magnum]], standing the gates and walls of the citadel, and keeping order among the senators, priests, magistrates, and great families who dwell or do business within. Their writ stops, sharply, at the Inner Wall. The vast city beyond is not theirs to police; that work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
+Their charge is twofold: the imperial person, and the peace of the Inner City. Within [[place-urbsaquiln|Urbs Aquilion]] they are guard, garrison, and magistrate's arm together — warding the [[place-palatimgnm|Palatium Magnum]], standing the gates and walls of the citadel, and keeping order among the senators, priests, magistrates, and great families who dwell or do business within. Their writ stops, sharply, at the Inner Wall. The vast city beyond is not theirs to police; that work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
 
 ## The Body That Makes and Unmakes
 
@@ -128,13 +128,13 @@ The Praetar Augustarum wear armor far richer than any line legion's — burnishe
 ## Plot Hooks
 
 - **The Donative Withheld.** A new Augustar, pressed for funds, has delayed the customary accession-donative to the guard. The delay is being read, in the Castra, as either weakness or insult. The officers who command the watches are being quietly sounded out by more than one party.
-- **The Wrong Gate.** On a night of crisis, the question of which way the gates of the [[doc-castraprtr|Castra Praetoria]] open will decide a succession. A handful of watch-captains hold the answer; each is being courted, threatened, and bribed by rival claimants and their agents.
+- **The Wrong Gate.** On a night of crisis, the question of which way the gates of the [[place-castraprtr|Castra Praetoria]] open will decide a succession. A handful of watch-captains hold the answer; each is being courted, threatened, and bribed by rival claimants and their agents.
 - **The Praetorian's Reach.** A senior guard officer has begun extending the guard's "keeping of order" within the Inner City into matters that properly belong to the imperial tribunals — arrests, detentions, quiet disappearances — under color of protecting the throne. The [[affiliation-curiaurbis|courts]] and the affected great houses are alarmed; the Augustar finds the overreach useful and is in no hurry to curb it.
 
 ## See Also
 
-- [[doc-castraprtr|Castra Praetoria]] — the guard's fortress on the palace hill
-- [[doc-palatimgnm|Palatium Magnum]] — the palace they protect
-- [[doc-urbsaquiln|Urbs Aquilion]] — the Inner City they garrison
+- [[place-castraprtr|Castra Praetoria]] — the guard's fortress on the palace hill
+- [[place-palatimgnm|Palatium Magnum]] — the palace they protect
+- [[place-urbsaquiln|Urbs Aquilion]] — the Inner City they garrison
 - [[affiliation-vylrnmltry|The Vylarian Military]] — the line legions and the City Watch, kept separate from the guard
 - [[affiliation-curiaurbis|Curia Urbis]] — civic government and courts of the city beyond the wall

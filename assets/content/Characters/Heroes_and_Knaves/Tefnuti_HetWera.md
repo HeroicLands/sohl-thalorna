@@ -573,7 +573,7 @@ sohl:
     - { shortcode: bpchmd, type: containergear }
 ---
 
-**Home:** [[doc-ankhsetun|Ankh-Setûn]]
+**Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 # Appearance {#appearance}
 
@@ -581,7 +581,7 @@ Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hai
 
 # Dossier {#dossier}
 
-Tefnutî was born into a family of toymakers in the Empire of [[doc-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary sophistication, work that established the family's reputation for innovation and precision. Tefnutî's own father, Hetmosis, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary sophistication, work that established the family's reputation for innovation and precision. Tefnutî's own father, Hetmosis, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
 From earliest childhood, Tefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Het'Wera family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Tefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so sought after by wealthy families and collectors that his wait list extended years into the future.
 

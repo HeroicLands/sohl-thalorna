@@ -5,7 +5,7 @@ aliases:
 id: BGxle7KCGjQb8PGt
 title: The Ritual of Self-Death
 type: lore
-subType: folk
+subType: culture
 name:
   full: Zëisīk
   aliases: []
@@ -15,7 +15,7 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Zëisīk: The Ritual of Self-Death
 
-**Zëisīk**, meaning "self-death," is a solemn and revered process of ritual suicide that serves multiple purposes within Tānvüri warrior culture. It is most commonly performed as a means of atonement for dishonor or failure — a voluntary act that restores the individual's [[doc-celestlrdr|moral ledger]] through a final, decisive entry. In the classification cosmology, Zëisīk is understood as a **self-initiated reclassification**: the individual removes themselves from the sorted order on their own terms, rather than waiting for the celestial administration to process their disgrace.
+**Zëisīk**, meaning "self-death," is a solemn and revered process of ritual suicide that serves multiple purposes within Tānvüri warrior culture. It is most commonly performed as a means of atonement for dishonor or failure — a voluntary act that restores the individual's [[lore-celestlrdr|moral ledger]] through a final, decisive entry. In the classification cosmology, Zëisīk is understood as a **self-initiated reclassification**: the individual removes themselves from the sorted order on their own terms, rather than waiting for the celestial administration to process their disgrace.
 
 However, Zëisīk is not limited to atonement alone. It can also be a powerful act of defiance or a statement of extreme dissatisfaction. Warriors or nobles may choose Zëisīk to express profound discontent with their superiors or to make an irrevocable statement challenging those in power. In such cases, the act generates a massive, permanent debit on the moral ledger of the person whose conduct provoked it — a spiritual debt that their entire family inherits. A Warlord who drives a subordinate to Zëisīk through injustice will carry that entry on his ledger for the rest of his life and into the afterlife.
 
@@ -35,9 +35,9 @@ However, Zëisīk is not limited to atonement alone. It can also be a powerful a
 
 # The Legal System of the Empire of Tānvür
 
-The legal system of the [[doc-tanvurempr|Empire of Tānvür]] is not a system of laws in the Western sense. It is a **classification enforcement mechanism** — an extension of the same cosmic order that sorts elements, assigns gods to bureaus, and maintains the boundary between the Sorted and the Hürnlëi. Crime in Tānvür is not merely a violation of social rules. It is a **classification breach** — an attempt, whether deliberate or careless, to move things, people, or resources from one sorted category to another without proper authorization.
+The legal system of the [[affiliation-tanvurempr|Empire of Tānvür]] is not a system of laws in the Western sense. It is a **classification enforcement mechanism** — an extension of the same cosmic order that sorts elements, assigns gods to bureaus, and maintains the boundary between the Sorted and the Hürnlëi. Crime in Tānvür is not merely a violation of social rules. It is a **classification breach** — an attempt, whether deliberate or careless, to move things, people, or resources from one sorted category to another without proper authorization.
 
-The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-plane expression of the classification system established during the [[affiliation-tngvkvnlei|Great Sorting]]. The Emperor serves as the ultimate arbiter of justice not because he is personally wise, but because he holds the [[doc-mandatehvn|Mandate of Heaven]] — the cosmic appointment that makes him the classification system's designated administrator on the mortal plane. In practice, legal authority is exercised by the Warlords (Vüszhük) and their magistrates, who enforce the Tëng Lüt within their territories.
+The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-plane expression of the classification system established during the [[affiliation-tngvkvnlei|Great Sorting]]. The Emperor serves as the ultimate arbiter of justice not because he is personally wise, but because he holds the [[lore-mandatehvn|Mandate of Heaven]] — the cosmic appointment that makes him the classification system's designated administrator on the mortal plane. In practice, legal authority is exercised by the Warlords (Vüszhük) and their magistrates, who enforce the Tëng Lüt within their territories.
 
 ## Legal Authority and Structure
 
@@ -49,7 +49,7 @@ The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-p
 
 **Local Magistrates (Güngthāt):** Appointed by the Warlords to oversee daily legal matters in towns and villages. They hear cases, resolve disputes, and enforce punishments. Magistrates are expected to rule in accordance with the Tëng Lüt while also considering local customs and the caste classifications of the individuals involved. A crime committed across caste boundaries is always more serious than one committed within a caste, because it represents a breach of the classification hierarchy itself.
 
-**Clan Elders (Zhākkōt):** Within the [[doc-nokvur|Nōkvür]] caste, clan elders have authority to resolve internal disputes and administer justice according to clan traditions. Their authority is limited to their clan members, and their decisions often blend the Tëng Lüt with ancestral customs — rulings handed down from ancestor spirits through the [[doc-ancstrwrshp|Lëigürt]].
+**Clan Elders (Zhākkōt):** Within the [[lore-nokvur|Nōkvür]] caste, clan elders have authority to resolve internal disputes and administer justice according to clan traditions. Their authority is limited to their clan members, and their decisions often blend the Tëng Lüt with ancestral customs — rulings handed down from ancestor spirits through the [[lore-ancstrwrshp|Lëigürt]].
 
 ## The Tëng Lüt (Heavenly Law)
 
@@ -57,13 +57,13 @@ The Tëng Lüt is the codified set of laws governing all aspects of life in the 
 
 **Laws of the Cosmic Order:** These laws regulate the maintenance of the classification system itself — religious practices, ritual observance, the responsibilities of the Vëndük, Tānthëi, and Lëigürt. Violations are understood as disruptions to the cosmic sorting order and are punished with the utmost severity. Neglecting a required ritual, defacing a temple, or interfering with spirit-paper transmission are not merely crimes against custom — they are acts that weaken the boundary between the Sorted and the Hürnlëi. Penalties range from execution to exile, depending on the severity of the cosmic damage.
 
-**Caste Laws:** These laws enforce the classification hierarchy, ensuring that each caste remains in its designated position within the Great Sorting. Any attempt to assume the privileges of a higher caste, to perform work reserved for another caste, or to cross caste boundaries without authorization is a direct challenge to the cosmic order. Penalties are harsh and escalate with the severity of the breach. See [[doc-castelaws|Caste Laws]] for detailed information.
+**Caste Laws:** These laws enforce the classification hierarchy, ensuring that each caste remains in its designated position within the Great Sorting. Any attempt to assume the privileges of a higher caste, to perform work reserved for another caste, or to cross caste boundaries without authorization is a direct challenge to the cosmic order. Penalties are harsh and escalate with the severity of the breach. See [[lore-castelaws|Caste Laws]] for detailed information.
 
-**Criminal Laws:** Covering theft, murder, assault, and corruption — understood as unauthorized transfers, destructions, or modifications of classified things. Punishments vary sharply by the caste of the offender and victim. A crime committed by a lower-caste member against a higher-caste individual is a double breach: the criminal act itself _and_ the implicit caste violation. Crimes by or against the [[doc-zheklung|Zhëklüng]] are considered offenses against the empire's cosmic infrastructure.
+**Criminal Laws:** Covering theft, murder, assault, and corruption — understood as unauthorized transfers, destructions, or modifications of classified things. Punishments vary sharply by the caste of the offender and victim. A crime committed by a lower-caste member against a higher-caste individual is a double breach: the criminal act itself _and_ the implicit caste violation. Crimes by or against the [[lore-zheklung|Zhëklüng]] are considered offenses against the empire's cosmic infrastructure.
 
-**Commercial Laws:** Regulating trade, contracts, and the behavior of the [[doc-shukren|Shükrën]]. The merchant caste is permitted to accumulate wealth but is subject to strict oversight — commerce moves resources between classifications, which the system tolerates only when properly documented. Fraud, usury, and exploitation are punished by confiscation of assets, imprisonment, or execution, depending on the scale of the unauthorized transfer.
+**Commercial Laws:** Regulating trade, contracts, and the behavior of the [[lore-shukren|Shükrën]]. The merchant caste is permitted to accumulate wealth but is subject to strict oversight — commerce moves resources between classifications, which the system tolerates only when properly documented. Fraud, usury, and exploitation are punished by confiscation of assets, imprisonment, or execution, depending on the scale of the unauthorized transfer.
 
-**Family and Clan Laws:** Governing [[doc-marriage|marriage]], inheritance, and family obligations — the classification events that structure households as administrative units. These laws emphasize the maintenance of the household's moral ledger, the proper care of ancestor shrines, and the fulfillment of obligations to the dead. Violations that bring dishonor to a clan generate ledger debits that affect the entire family line.
+**Family and Clan Laws:** Governing [[lore-marriage|marriage]], inheritance, and family obligations — the classification events that structure households as administrative units. These laws emphasize the maintenance of the household's moral ledger, the proper care of ancestor shrines, and the fulfillment of obligations to the dead. Violations that bring dishonor to a clan generate ledger debits that affect the entire family line.
 
 ## System of Punishment
 
@@ -81,7 +81,7 @@ Punishments in Tānvür are not merely retributive. They are **reclassification 
 
 **Ritual Humiliation:** Applied to higher-caste offenders whose crimes damage their caste's collective honor. The offender is publicly paraded, forced to wear clothing of a lower caste, or made to perform tasks reserved for the Nützōk. This is a **temporary reclassification** — a demonstration that the individual has fallen below their designated category. Restoring one's position after ritual humiliation requires significant acts of atonement that generate ledger credits.
 
-**Zëisīk (Ritual Suicide):** Among the [[doc-vushok|Vüshōk]] and Warlord families, Zëisīk is the preferred response to serious dishonor. It is not imposed by the legal system but chosen by the individual — a self-initiated reclassification that restores the family's ledger balance through the ultimate personal sacrifice. See above for the full ritual.
+**Zëisīk (Ritual Suicide):** Among the [[lore-vushok|Vüshōk]] and Warlord families, Zëisīk is the preferred response to serious dishonor. It is not imposed by the legal system but chosen by the individual — a self-initiated reclassification that restores the family's ledger balance through the ultimate personal sacrifice. See above for the full ritual.
 
 **Cleansing Rituals:** For crimes that disrupt the cosmic order — desecration, sorcery without authorization, violations of sacred classification boundaries — offenders may be required to undergo elaborate purification rites performed by the Tānthëi or Lëigürt. These rituals are understood as **spiritual reclassification procedures** that restore the individual's internal Lëi alignment and repair the cosmic damage caused by their offense. Failure to complete the ritual properly may result in escalation to exile or execution.
 
@@ -97,10 +97,10 @@ The legal system of Tānvür is not merely a tool for maintaining order. It is t
 
 ## See Also
 
-- [[doc-celestlrdr|Celestial Order]] — The cosmological framework underlying the legal system
-- [[doc-castelaws|Caste Laws]] — Detailed caste classification restrictions
-- [[doc-mandatehvn|Mandate of Heaven]] — The Emperor's cosmic appointment as chief administrator
-- [[doc-ancstrwrshp|Ancestor Worship]] — The moral ledger system that punishment interacts with
-- [[doc-marriage|Marriage]] — Family law and household classification
-- [[doc-castelaws|The Imperial Registry and Identification]] — The census and identification tablet system
-- [[doc-tanvurempr|Empire of Tānvür]] — Overview of imperial society
+- [[lore-celestlrdr|Celestial Order]] — The cosmological framework underlying the legal system
+- [[lore-castelaws|Caste Laws]] — Detailed caste classification restrictions
+- [[lore-mandatehvn|Mandate of Heaven]] — The Emperor's cosmic appointment as chief administrator
+- [[lore-ancstrwrshp|Ancestor Worship]] — The moral ledger system that punishment interacts with
+- [[lore-marriage|Marriage]] — Family law and household classification
+- [[lore-castelaws|The Imperial Registry and Identification]] — The census and identification tablet system
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial society

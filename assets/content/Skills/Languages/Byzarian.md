@@ -27,7 +27,7 @@ flags:
 
 Byzarian is a tongue of the Helonic family. Fluency measures the sophistication of expression in Byzarian, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-The tongue of the [[doc-byzarianlg|Byzarian League]] and the crossroads trading emporia of the eastern frontier. Byzarian represents a linguistic synthesis born of geography and commerce—a Helonic grammatical foundation layered with centuries of vocabulary, phonetic patterns, and structural innovations from the great trading networks that flow through Byzaría. It is the language of merchants, diplomats, and cosmopolitan traders; to speak Byzarian fluently is to be recognized as someone who understands the world beyond provincial borders.
+The tongue of the [[affiliation-byzarianlg|Byzarian League]] and the crossroads trading emporia of the eastern frontier. Byzarian represents a linguistic synthesis born of geography and commerce—a Helonic grammatical foundation layered with centuries of vocabulary, phonetic patterns, and structural innovations from the great trading networks that flow through Byzaría. It is the language of merchants, diplomats, and cosmopolitan traders; to speak Byzarian fluently is to be recognized as someone who understands the world beyond provincial borders.
 
 ## Overview
 

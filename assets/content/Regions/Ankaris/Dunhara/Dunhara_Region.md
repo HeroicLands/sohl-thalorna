@@ -28,7 +28,7 @@ languages:
 folder: UDHM6flIy1TuzSPh
 ---
 
-The Dunhara Region is the vast southern desert of [[doc-ankrscntnnt|Ankaris Continent]] — a harsh, ancient landscape of sand seas, rocky mesas, dry riverbeds, and hidden oases that stretches across the continent's southern interior from the [[doc-cnfdrtnhrdnstts|Haradian]] frontier in the west to the passes of [[doc-vedyarargn|Vedyara]] in the east. Within it live the Dunhari, a confederation of tribal peoples whose caravans dominate the southern overland trade, whose oral literature is among the most sophisticated in Thalorna, and whose honor code is strict enough to govern relations among people who otherwise have every reason to kill each other for water.
+The Dunhara Region is the vast southern desert of [[place-ankrscntnnt|Ankaris Continent]] — a harsh, ancient landscape of sand seas, rocky mesas, dry riverbeds, and hidden oases that stretches across the continent's southern interior from the [[affiliation-cnfdrtnhrdnstts|Haradian]] frontier in the west to the passes of [[place-vedyarargn|Vedyara]] in the east. Within it live the Dunhari, a confederation of tribal peoples whose caravans dominate the southern overland trade, whose oral literature is among the most sophisticated in Thalorna, and whose honor code is strict enough to govern relations among people who otherwise have every reason to kill each other for water.
 
 The desert is not merely a barrier. It is a civilization — sparse in population, vast in cultural accomplishment, and entirely unimpressed by the settled kingdoms at its margins.
 
@@ -38,7 +38,7 @@ The Dunhara stretches south and east from the arid scrublands of the Haradian hi
 
 The climate is brutal. Summer daytime temperatures can be lethal within hours; winter nights drop far below freezing; windstorms can bury a camp or scour paint from a merchant's chests in minutes. The southern reaches see almost no rain at all; the northern margin — bordering Harad — receives a thin winter rain that supports dryland pastoralism and a narrow belt of seasonal grass.
 
-The desert borders the [[doc-khzryndsrtrgn|Khazryn Desert]] to the north and east (the two regions shade into one another along a long, ill-defined frontier), the [[doc-cnfdrtnhrdnstts|Haradian States]] to the northwest, and the lands of [[doc-vedyarargn|Vedyara]] to the southeast. To the southwest, across the [[doc-vylarianse|Vylarian Sea]], lies the [[doc-xerathia|Xerathian]] continent and the empire of [[doc-empirtkhpr|Ta'Kheperu]].
+The desert borders the [[place-khzryndsrtrgn|Khazryn Desert]] to the north and east (the two regions shade into one another along a long, ill-defined frontier), the [[affiliation-cnfdrtnhrdnstts|Haradian States]] to the northwest, and the lands of [[place-vedyarargn|Vedyara]] to the southeast. To the southwest, across the [[place-vylarianse|Vylarian Sea]], lies the [[place-xerathia|Xerathian]] continent and the empire of [[affiliation-empirtkhpr|Ta'Kheperu]].
 
 ## Peoples and Culture
 
@@ -48,9 +48,9 @@ Dunhari social organization is built around an extraordinarily strict honor code
 
 Dunhari oral tradition is one of the cultural wonders of Thalorna. Poets and reciters hold exalted status in tribal society, and the ability to compose and recite verse is considered a mark of nobility. Genealogies, histories, legal precedents, the terms of treaties with other tribes and with distant empires — all of it is preserved in oral form, transmitted across generations by the tribal poets who are the keepers of law and identity. A Dunhari poet can recite for days without repetition. Written records, where they exist at all, are afterthoughts.
 
-The relationship between Dunhari and the two settled polities that share the region — the [[doc-sultntmrdd|Sultanate of Amradad]] and its small number of permanent cities — is complex. The Sultanate is itself of Dunhari descent, but the settled Amradad have drifted culturally and politically from their nomadic cousins. They remain, formally, part of the wider Dunhari world; in practice, the nomadic tribes regard them with a mixture of admiration (for the wealth of the settled cities) and disdain (for the softness that settlement implies). The Sultanate is politically sovereign; the tribes are politically independent; the relationship has endured, more or less stably, for centuries.
+The relationship between Dunhari and the two settled polities that share the region — the [[affiliation-sultntmrdd|Sultanate of Amradad]] and its small number of permanent cities — is complex. The Sultanate is itself of Dunhari descent, but the settled Amradad have drifted culturally and politically from their nomadic cousins. They remain, formally, part of the wider Dunhari world; in practice, the nomadic tribes regard them with a mixture of admiration (for the wealth of the settled cities) and disdain (for the softness that settlement implies). The Sultanate is politically sovereign; the tribes are politically independent; the relationship has endured, more or less stably, for centuries.
 
-Non-human peoples are vanishingly rare. A handful of [[doc-flkkhazar|Khazári]] halls are rumored in the mountain margins, and the occasional [[doc-flksinale|Sinalë]] traveler is reported — but verification of either population is a matter of folk-tale rather than census.
+Non-human peoples are vanishingly rare. A handful of [[lore-flkkhazar|Khazári]] halls are rumored in the mountain margins, and the occasional [[lore-flksinale|Sinalë]] traveler is reported — but verification of either population is a matter of folk-tale rather than census.
 
 ## Religion
 
@@ -64,33 +64,33 @@ Sacred sites are natural features — specific oases, distinctive rock formation
 
 The Dunhara has no unified political order. Perhaps a dozen major tribal confederations and many smaller ones share the region, each with its own sheikh, its own warrior-class, its own poet-historians, and its own customary circuits of movement and oases of right. The confederations cooperate when threatened from outside and quarrel when left to themselves; the balance has held, broadly, for centuries.
 
-The [[doc-sultntmrdd|Sultanate of Amradad]] is the only settled polity of any size within the region. It is a genuine kingdom, with a hereditary sultan, a professional army, and a court culture modeled on the older Ashaian urban civilizations. It holds only a small fraction of the region's territory — a handful of walled cities, their oases, and the caravan routes linking them — but its wealth is disproportionate, and its political influence extends beyond its formal frontiers through trade and marriage alliance with tribal sheikhs.
+The [[affiliation-sultntmrdd|Sultanate of Amradad]] is the only settled polity of any size within the region. It is a genuine kingdom, with a hereditary sultan, a professional army, and a court culture modeled on the older Ashaian urban civilizations. It holds only a small fraction of the region's territory — a handful of walled cities, their oases, and the caravan routes linking them — but its wealth is disproportionate, and its political influence extends beyond its formal frontiers through trade and marriage alliance with tribal sheikhs.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has no meaningful presence in the Dunhara. The desert peoples view the Ordo as a Vylarian institution with no authority in their lands, and the Ordo has long since given up trying to establish chapters here. Magical practice in the Dunhara flows through the spiritual tradition — the desert mystics, the blessed poets, the sheikhly houses that trace their magical charisma through the lineage — rather than through any institutional gate.
 
 ## Trade
 
-The Dunhari tribes control the southern overland caravan routes connecting [[doc-cnfdrtnhrdnstts|Harad]] and the [[doc-vylarianse|Vylarian Sea]] to [[doc-vedyarargn|Vedyara]] and — through intermediate hands — to the far east. They move spice, silk, jewels, fine textiles, medicinal herbs, and the rare goods of the southern subcontinent westward; they move iron, salt, wine, worked metal, and manufactured goods of the settled kingdoms eastward. Caravans typically consist of several tribes' contributed stock under a single escort, with route responsibility passing from tribe to tribe as the caravan crosses territorial boundaries — a system that works because the tribes' honor codes make the alternative unthinkable.
+The Dunhari tribes control the southern overland caravan routes connecting [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-vylarianse|Vylarian Sea]] to [[place-vedyarargn|Vedyara]] and — through intermediate hands — to the far east. They move spice, silk, jewels, fine textiles, medicinal herbs, and the rare goods of the southern subcontinent westward; they move iron, salt, wine, worked metal, and manufactured goods of the settled kingdoms eastward. Caravans typically consist of several tribes' contributed stock under a single escort, with route responsibility passing from tribe to tribe as the caravan crosses territorial boundaries — a system that works because the tribes' honor codes make the alternative unthinkable.
 
 The Sultanate of Amradad taxes the caravans that pass through its cities and invests the revenue in the professional army and the court culture that mark it out from the tribes. Tribal sheikhs tax (or extort, depending on perspective) the caravans that cross their territory, and the accumulated "hospitality gifts" of a year's traffic can make a powerful sheikh as wealthy as a minor Aurèldían prince.
 
 ## Relations with Neighboring Regions
 
-To the **northwest** lies [[doc-cnfdrtnhrdnstts|Harad]]. Relations are old, commercial, and linguistically close — the Haradi speak a sister language to Dunhari and share the Āsháian faith. The Haradi frontier is the main commercial corridor linking the desert to the Vylarian Sea world.
+To the **northwest** lies [[affiliation-cnfdrtnhrdnstts|Harad]]. Relations are old, commercial, and linguistically close — the Haradi speak a sister language to Dunhari and share the Āsháian faith. The Haradi frontier is the main commercial corridor linking the desert to the Vylarian Sea world.
 
-To the **north and east** lies the [[doc-khzryndsrtrgn|Khazryn Desert]]. The two regions are cultural cousins; the frontier between them is long and ill-defined, and many caravan routes begin in one and end in the other without any clear sense of boundary-crossing.
+To the **north and east** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The two regions are cultural cousins; the frontier between them is long and ill-defined, and many caravan routes begin in one and end in the other without any clear sense of boundary-crossing.
 
-To the **southeast** lie the lands of [[doc-vedyarargn|Vedyara]]. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
+To the **southeast** lie the lands of [[place-vedyarargn|Vedyara]]. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
 
-To the **southwest**, across the [[doc-vylarianse|Vylarian Sea]], lies [[doc-xerathia|Xerathia]] and especially [[doc-empirtkhpr|Ta'Kheperu]]. Direct contact is sparse but ancient; where it exists, it is mediated primarily through Haradi and Ta'Kheperian maritime merchants.
+To the **southwest**, across the [[place-vylarianse|Vylarian Sea]], lies [[place-xerathia|Xerathia]] and especially [[affiliation-empirtkhpr|Ta'Kheperu]]. Direct contact is sparse but ancient; where it exists, it is mediated primarily through Haradi and Ta'Kheperian maritime merchants.
 
 ## See Also
 
-- [[doc-sultntmrdd|Sultanate of Amradad]] — the settled polity of the region
-- [[doc-dunhartrbs|Dunhara Tribes]] — the tribal confederations
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — northwestern trade partner
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — northern desert cousin
-- [[doc-vedyarargn|Vedyara Region]] — southeastern trading neighbor
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] — the settled polity of the region
+- [[affiliation-dunhartrbs|Dunhara Tribes]] — the tribal confederations
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — northwestern trade partner
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — northern desert cousin
+- [[place-vedyarargn|Vedyara Region]] — southeastern trading neighbor
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — pantheon shared across the desert peoples
 - [[skill-dunharlng|Dunhari]] — the language and naming tradition
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

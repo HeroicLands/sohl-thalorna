@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Balamkul is the central city and seat of the [[doc-balamkul|Balamkul]] city-state.
+_To be written._ Balamkul is the central city and seat of the [[affiliation-balamkul|Balamkul]] city-state.

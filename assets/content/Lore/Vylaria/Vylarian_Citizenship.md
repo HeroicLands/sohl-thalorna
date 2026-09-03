@@ -23,7 +23,7 @@ folder:
 
 # Vylarian Citizenship
 
-The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are _residents_ — subjects of the Empire, born to it, taxed by it, protected (after a fashion) by it, but holding no share in it. **Citizens** are a privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[doc-vylarinmpr|Vylaria]].
+The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are _residents_ — subjects of the Empire, born to it, taxed by it, protected (after a fashion) by it, but holding no share in it. **Citizens** are a privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[affiliation-vylarinmpr|Vylaria]].
 
 ## Citizen and Resident
 
@@ -41,8 +41,8 @@ The status may also be **granted** for some signal service to the Empire — a g
 
 To be a citizen is to hold a bundle of privileges no resident enjoys:
 
-- **The dole** — a guaranteed ration of grain (and, in [[doc-magnapolis|Magnápolis]], oil and the price of the public games besides). It is a subsistence _floor_, not a living; see below.
-- **The right of residence in Magnápolis** — only citizens may dwell within the capital's pomerium by right. Non-citizens require a registered, employer-tied waiver from the [[affiliation-curiaurbis|courts]] (see the [[doc-magnapolis|Magnápolis]] note).
+- **The dole** — a guaranteed ration of grain (and, in [[place-magnapolis|Magnápolis]], oil and the price of the public games besides). It is a subsistence _floor_, not a living; see below.
+- **The right of residence in Magnápolis** — only citizens may dwell within the capital's pomerium by right. Non-citizens require a registered, employer-tied waiver from the [[affiliation-curiaurbis|courts]] (see the [[place-magnapolis|Magnápolis]] note).
 - **Legal standing** — a citizen stands before the courts as a person of standing, with the **right of appeal** rising ultimately to the imperial tribunals, and is spared the summary and degrading punishments dealt to residents: a condemned citizen is owed trial and, at worst, a clean execution, not the lash or the arena without sentence.
 - **Eligibility** — for the franchise and standing in civic life, for civic office, and for the salaried imperial posts (the [[affiliation-vylrnmltry|City Watch]] above all) that the Empire reserves, by preference, for the men who served it.
 
@@ -65,6 +65,6 @@ As the Empire's reach and revenue contract, the citizenship has become a burden 
 ## See Also
 
 - [[affiliation-vylrnmltry|The Vylarian Military]] — the legions, and the twenty-year road to the citizenship
-- [[doc-magnapolis|Magnápolis]] — where the citizen body concentrates; the right-of-residence rule and the dole in the capital
+- [[place-magnapolis|Magnápolis]] — where the citizen body concentrates; the right-of-residence rule and the dole in the capital
 - [[affiliation-curiaurbis|Curia Urbis]] — the civic courts that register non-citizen residents (and quietly sell the waivers)
-- [[doc-vylarinmpr|Vylarian Empire]] — the state whose membership this is
+- [[affiliation-vylarinmpr|Vylarian Empire]] — the state whose membership this is

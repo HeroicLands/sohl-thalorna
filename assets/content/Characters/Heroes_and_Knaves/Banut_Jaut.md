@@ -574,7 +574,7 @@ sohl:
     - { shortcode: bktlrg, type: containergear }
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -584,7 +584,7 @@ Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair
 
 ### Early Life and Loss
 
-Bânut was born to a family of herbalists and plant cultivators in [[doc-empirtkhpr|Ta'Kheperu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by genuine joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Kephren**, to whom she was intensely devoted.
+Bânut was born to a family of herbalists and plant cultivators in [[affiliation-empirtkhpr|Ta'Kheperu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by genuine joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Kephren**, to whom she was intensely devoted.
 
 When Bânut was twenty-eight and Kephren only sixteen, he was seriously injured in a fall from a cliff face—an accident during a botanical expedition to gather rare species. He developed a severe fever and infection, and despite her desperately creative use of every herb and remedy in her knowledge, he died after three months of suffering. The scar on her ear is not, in fact, from violence—it is a ritually inflicted mark of mourning, done in accordance with the traditions of Ta'Kheperu, a visible acknowledgment of her grief that she has never allowed to fade.
 

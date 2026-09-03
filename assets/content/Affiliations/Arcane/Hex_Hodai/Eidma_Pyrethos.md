@@ -83,7 +83,7 @@ thalorna:
 folder: H8lfX9Zy7YDUeAjX
 ---
 
-Eídma **Pyréthos** is the Eídma of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[doc-hexhodai|Sigillum]], and its practitioners are among the most visible and politically influential mages within the [[affiliation-ordoarcanis|Ordo]]. Where other schools work through subtlety, patience, or communion, Pyréthos works through _force_ — the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
+Eídma **Pyréthos** is the Eídma of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[lore-hexhodai|Sigillum]], and its practitioners are among the most visible and politically influential mages within the [[affiliation-ordoarcanis|Ordo]]. Where other schools work through subtlety, patience, or communion, Pyréthos works through _force_ — the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
 
 ## Philosophy
 
@@ -117,7 +117,7 @@ This meritocratic streak makes the Sodalitas Pyréthos simultaneously one of the
 
 ## See Also
 
-- [[doc-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
+- [[lore-hexhodai|Héx Hodäi]] — The Héx Hodäi framework
 - [[affiliation-hydalis|Eídma Hydälis]] — The opposing Eídma
 - [[affiliation-zepharis|Eídma Zephäris]] — Adjacent Eídma (dynamism)
 - [[affiliation-pneumenos|Eídma Pneuménos]] — Adjacent Eídma (intensity)

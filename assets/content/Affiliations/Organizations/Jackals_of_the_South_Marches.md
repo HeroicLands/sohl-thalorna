@@ -90,7 +90,7 @@ folder: ISwKf7qndL5yzTKG
 
 ## Overview
 
-The Jackals are the most feared free company of the **South Marches**, the dry borderlands south of the [[doc-mtrrchybth|Matriarchy of Bethûa]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister **[[being-yasurajckl|Yâsûra the Jackal]]** — an exiled Bethûan officer who built, out of the realm's castoffs, the one thing Bethûa fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
+The Jackals are the most feared free company of the **South Marches**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister **[[being-yasurajckl|Yâsûra the Jackal]]** — an exiled Bethûan officer who built, out of the realm's castoffs, the one thing Bethûa fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
 
 This makes the Jackals an anomaly in their own country. The peoples of the **South Marches are not matriarchal** — they are pastoral nomad clans led by men, who pay Bethûa tribute, keep their own customs, and regard the rich realm on their northern horizon with wary hostility. A female-led warband would be unthinkable among the marcher clans themselves; the Jackals are tolerated, hired, and given room only because they are useful against a shared northern enemy, and because their queen has made them too dangerous to move against lightly.
 
@@ -98,7 +98,7 @@ This makes the Jackals an anomaly in their own country. The peoples of the **Sou
 
 Every Jackal of the true band is **Houseless** — by exile, by disgrace, or by the knife. They fall into three uneven parts:
 
-- **The exiled women.** The body of the band: Bethûan women cast out of the matriarchy — disgraced officers, ruined daughters of lesser clans, widows stripped of standing, women sold or fled. Many were trained in arms as all free Bethûan women are, and they bring the [[doc-mtrrchybth|realm's]] martial discipline south with them.
+- **The exiled women.** The body of the band: Bethûan women cast out of the matriarchy — disgraced officers, ruined daughters of lesser clans, widows stripped of standing, women sold or fled. Many were trained in arms as all free Bethûan women are, and they bring the [[affiliation-mtrrchybth|realm's]] martial discipline south with them.
 - **The Spádai core.** The band's hard, disciplined heart: cast-out **Spádai**, the gelded eunuch-warriors who are the only men Bethûa ever trusts with steel. Houseless and heirless by their very nature even in honour, an exiled Spáda has less to lose than anyone alive — and these few fight in the trained Bethûan manner that makes the Jackals far more than a raider rabble.
 - **The marcher men.** The expendable mass: herders' sons and marcher raiders of the southern clans, hired and spent as light horse and front-rank fodder. They ride for loot, not for Yâsûra, and they are the first the band burns through and the first to scatter when plunder runs short. They are not of the Houseless brotherhood and know it.
 
@@ -108,9 +108,9 @@ The Jackals are **[[being-yasurajckl|Yâsûra the Jackal's]]** creation and hers
 
 ## Territory
 
-**Primary:** The South Marches — the drylands and pastoral borderlands south of [[doc-mtrrchybth|Bethûa's]] settled frontier, country Bethûa claims on its maps but does not truly hold.
+**Primary:** The South Marches — the drylands and pastoral borderlands south of [[affiliation-mtrrchybth|Bethûa's]] settled frontier, country Bethûa claims on its maps but does not truly hold.
 
-**Range:** The Jackals ride well beyond their home country when a contract or a feud warrants, raiding into the southern cantons and, for the right price, taking work along the [[doc-midhalnrgn|Mídhalión Region]] coast and the shores of the [[doc-vylarianse|Vylarian Sea]]. Away from the marches and the saddle, however, much of their advantage falls away.
+**Range:** The Jackals ride well beyond their home country when a contract or a feud warrants, raiding into the southern cantons and, for the right price, taking work along the [[place-midhalnrgn|Mídhalión Region]] coast and the shores of the [[place-vylarianse|Vylarian Sea]]. Away from the marches and the saddle, however, much of their advantage falls away.
 
 ## Operations
 
@@ -128,7 +128,7 @@ The band's loyalty runs only as deep as its make-up. The Houseless core — the 
 
 ## A Prize Crosses the Marches
 
-For all their standing as raiders and hired blades, the Jackals have lately become a piece in a far larger game than they bargained for. The fugitive Grammatíssa **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** is crossing the Marches with the stolen **Purple Warrant** — incontrovertible proof of the matriarchy's corruption, sought by Bethûa to burn, by Vylaria to wield, and by [[doc-empirtkhpr|Ta'Kheperu]] to answer. Vylaria's coin, through **[[being-casiaveric|Cassia Verric's]]** cut-outs, hired the band only to delay the Hound, **[[being-zahirmlkht|Zahira]]** — but the Jackals rule the one road that prize must travel, and every faction now knows it. Whoever secures the register could buy the band outright or see it destroyed; and the Jackals, who answer to no one and whose queen has her own bitter score to settle with the realm the register condemns, are the wildcard that every power in the affair must reckon with and none can trust.
+For all their standing as raiders and hired blades, the Jackals have lately become a piece in a far larger game than they bargained for. The fugitive Grammatíssa **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** is crossing the Marches with the stolen **Purple Warrant** — incontrovertible proof of the matriarchy's corruption, sought by Bethûa to burn, by Vylaria to wield, and by [[affiliation-empirtkhpr|Ta'Kheperu]] to answer. Vylaria's coin, through **[[being-casiaveric|Cassia Verric's]]** cut-outs, hired the band only to delay the Hound, **[[being-zahirmlkht|Zahira]]** — but the Jackals rule the one road that prize must travel, and every faction now knows it. Whoever secures the register could buy the band outright or see it destroyed; and the Jackals, who answer to no one and whose queen has her own bitter score to settle with the realm the register condemns, are the wildcard that every power in the affair must reckon with and none can trust.
 
 ## Identifying Marks
 

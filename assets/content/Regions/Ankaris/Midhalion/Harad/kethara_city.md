@@ -24,4 +24,4 @@ parent:
 
 ## Overview
 
-_To be written._ Kethara is the capital and principal settlement of [[doc-kethara|Kethara]].
+_To be written._ Kethara is the capital and principal settlement of [[affiliation-kethara|Kethara]].

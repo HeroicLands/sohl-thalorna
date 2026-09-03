@@ -587,7 +587,7 @@ sohl:
         durability: 3
 ---
 
-**Home:** [[doc-meruhotep|Meru-Hotep]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
@@ -595,7 +595,7 @@ Satîya stands 6'0" tall with a medium build. She has ebony skin, black hair, an
 
 # Dossier {#dossier}
 
-Satîya Neb'akhet was born into the free classes of [[doc-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satîya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satîya found herself without patronage in a competitive market.
+Satîya Neb'akhet was born into the free classes of [[affiliation-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satîya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satîya found herself without patronage in a competitive market.
 
 For the past four years, she has served in the household of Master Henti, a wealthy intellectual and collector of antiquities. Henti values her organizational genius and the way she has transformed his somewhat chaotic holdings into a model of efficiency. Yet Henti, like many employers, takes her service for granted, referring to her competence as simply "what Satîya does" rather than acknowledging it as exceptional. She manages not only the physical household but also coordinates with merchants, oversees the preparation of elaborate entertainments, and serves as Henti's informal advisor on matters of domestic stability.
 

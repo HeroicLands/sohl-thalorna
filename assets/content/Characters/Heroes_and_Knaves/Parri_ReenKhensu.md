@@ -561,7 +561,7 @@ sohl:
     - { shortcode: bglgcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -571,7 +571,7 @@ Par'ri stands 5'8" tall with a heavy build. He has golden brown skin, white hair
 
 **Early Life and Calling**
 
-Parri was born in the capital city of [[doc-empirtkhpr|Ta'Kheperu]] during a period of cultural flourishing. His father was a merchant of considerable means, his mother a woman of noble birth whose family had declined in fortune but retained their intellectual traditions. Parri showed exceptional aptitude for learning from childhood—he was fluent in three languages by age ten and had absorbed the entire classical philosophical canon by his mid-teens. Rather than follow his father into commerce, Parri pursued formal study under the most renowned philosophers of Ta'Kheperu, eventually earning the title of Master Philosopher and securing a prestigious position as a teacher in the great library-schools.
+Parri was born in the capital city of [[affiliation-empirtkhpr|Ta'Kheperu]] during a period of cultural flourishing. His father was a merchant of considerable means, his mother a woman of noble birth whose family had declined in fortune but retained their intellectual traditions. Parri showed exceptional aptitude for learning from childhood—he was fluent in three languages by age ten and had absorbed the entire classical philosophical canon by his mid-teens. Rather than follow his father into commerce, Parri pursued formal study under the most renowned philosophers of Ta'Kheperu, eventually earning the title of Master Philosopher and securing a prestigious position as a teacher in the great library-schools.
 
 However, at age twenty-eight, after a profound spiritual experience during a pilgrimage to the sacred temples of Íšét, Parri made a decision that shocked his family and peers: he abandoned his position of privilege and security to become a wandering scholar-teacher. He spent the next two decades traveling throughout the Ta'Kheperian lands—and beyond—seeking knowledge, teaching wherever he went, and refining his philosophical understanding through direct experience rather than theoretical study alone.
 

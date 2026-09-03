@@ -102,7 +102,7 @@ folder: dxzsTyaF4LMapIJX
 - **Pronunciation:** _MEG-ha-nah-tha_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Meghanātha is the god of storms and of the rain that the monsoon brings. He is revered throughout [[doc-vedyarargn|Vedyara Region]] but especially along the coasts and river-valleys, where his anger can destroy a village in a night and his favour can keep a region prosperous for a generation. He is the protector of those who live at the mercy of the sky: farmers whose crops depend on the rains, fishermen whose lives depend on the sea, travellers whose routes are cut by the great storms.
+Meghanātha is the god of storms and of the rain that the monsoon brings. He is revered throughout [[place-vedyarargn|Vedyara Region]] but especially along the coasts and river-valleys, where his anger can destroy a village in a night and his favour can keep a region prosperous for a generation. He is the protector of those who live at the mercy of the sky: farmers whose crops depend on the rains, fishermen whose lives depend on the sea, travellers whose routes are cut by the great storms.
 
 Meghanātha is not a gentle god. His gifts arrive with violence, and the rites of his devotees reflect the frank bargaining of a people whose prosperity rides on the caprices of weather. The drums sounded in his honour are loud, his festivals are raucous, and his clergy are known for a forthrightness that more decorous traditions occasionally find discomforting.
 

@@ -173,7 +173,7 @@ Accordingly, the notes below describe the **deities** — their symbols, iconogr
 ### **Svapnadēvas** (_The Dreaming Host_)
 
 - **Aspect**: **Dreams**
-- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[doc-goddreams|The God of Dreams]], though the Varṇaka do not name or directly worship that elder deity — they revere the Host itself.
+- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[lore-goddreams|The God of Dreams]], though the Varṇaka do not name or directly worship that elder deity — they revere the Host itself.
 - **Symbol**: A crescent moon with a lotus stem.
 - **Pronunciation**: _SWAP-nah-day-vahs_
 - **Local Worship**: Seers and mystics invoke them in rites of prophecy.
@@ -214,4 +214,4 @@ Accordingly, the notes below describe the **deities** — their symbols, iconogr
 - [[affiliation-agnipantha|Agnī-panthā]] — _The Path of the Flame_: ascetic, reformist, mendicant; Rásikara-focused purification
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] — _The Assembly of the Dream-Followers_: mystical, contemplative; oneiromancers and visionary counsellors
 
-**Regions:** [[doc-vedyarargn|Vedyara Region]]
+**Regions:** [[place-vedyarargn|Vedyara Region]]

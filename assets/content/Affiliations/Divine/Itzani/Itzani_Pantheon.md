@@ -97,7 +97,7 @@ folder: PODpbcuTxbU2Df2I
 
 **Pronunciation**: _Eet-ZAH-nee_
 
-The Itzáni faith is the unified religious tradition of the [[doc-kchchkcntnnt|K'ich'chik]] continent — the vast landmass across the western ocean, home to the Ki'ichek civilization of pyramidal city-states, priestly kings, and celestial worship. The faith encompasses ten deities, each governing fundamental aspects of existence — the same broad domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[doc-ankrscntnnt|Ankaris Continent]], the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, and the [[affiliation-ashanpnthn|Āsháian Pantheon]] of the desert peoples, though the Ki'ichek would regard the Ankarian gods as pale reflections of the true celestial powers whose movements have been tracked and worshipped on K'ich'chik since before the first stone was quarried.
+The Itzáni faith is the unified religious tradition of the [[place-kchchkcntnnt|K'ich'chik]] continent — the vast landmass across the western ocean, home to the Ki'ichek civilization of pyramidal city-states, priestly kings, and celestial worship. The faith encompasses ten deities, each governing fundamental aspects of existence — the same broad domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, and the [[affiliation-ashanpnthn|Āsháian Pantheon]] of the desert peoples, though the Ki'ichek would regard the Ankarian gods as pale reflections of the true celestial powers whose movements have been tracked and worshipped on K'ich'chik since before the first stone was quarried.
 
 Unlike the Aurèldían tradition, where separate and often competing priesthoods serve individual gods, the Itzáni faith is a single religious institution. There is one priesthood, one hierarchy, one cosmic framework. The ten gods are aspects of one divine order, and the faithful do not "choose" a god to follow. A Ki'ichek farmer is Itzáni. He calls upon P'uqil Ch'aqun when the rains are late, Tz'uqil Ix'bal when his mother dies, K'in'ul Tq'an at the solstice, and Xaq'ik Ha'nal when his wife labors in childbirth. The gods are not rivals — they are the moving parts of a single cosmic machine, each essential, each interlocking with the others, and the priesthood that serves them understands the whole system, not merely its components.
 
@@ -282,7 +282,7 @@ The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative t
 
 ## Dreadspawn on K'ich'chik
 
-[[doc-dreadspawn|Dreadspawn]] — unique, non-reproducing creatures of deliberate divine creation — are found on the K'ich'chik continent just as they are found across all of Thalorna. On K'ich'chik, they are the work of **P'iqal Kul'qat**, the creation goddess who has built the world five times and whose theology of perpetual experimentation and learning-through-failure maps directly onto the Dreadspawn phenomenon. Where the [[affiliation-asguardian|Asguardian]] creator god [[affiliation-ymir|Ymir]] crafts his Dreadspawn in vast laboratories with the frustrated energy of a perfectionist tinkerer, P'iqal Kul'qat's creations feel more _placed_ — deliberate features of the landscape, guardians set over sacred sites, experiments in what life can become in the jungle environment.
+[[lore-dreadspawn|Dreadspawn]] — unique, non-reproducing creatures of deliberate divine creation — are found on the K'ich'chik continent just as they are found across all of Thalorna. On K'ich'chik, they are the work of **P'iqal Kul'qat**, the creation goddess who has built the world five times and whose theology of perpetual experimentation and learning-through-failure maps directly onto the Dreadspawn phenomenon. Where the [[affiliation-asguardian|Asguardian]] creator god [[affiliation-ymir|Ymir]] crafts his Dreadspawn in vast laboratories with the frustrated energy of a perfectionist tinkerer, P'iqal Kul'qat's creations feel more _placed_ — deliberate features of the landscape, guardians set over sacred sites, experiments in what life can become in the jungle environment.
 
 The Ki'ichek do not find Dreadspawn theologically alarming. A Dreadspawn encountered in the deep jungle is simply one of the Builder's ongoing projects — a creature to be assessed, documented, and either avoided or managed. The builder-priests classify them the way they classify any construction project: evaluate the design, determine the purpose, record it for the archives. Some Dreadspawn have been known to guard temple complexes or cenotes for centuries, and the priesthood maintains records of known specimens, their locations, and their observed capabilities.
 
@@ -290,8 +290,8 @@ The K'ich'chik term for Dreadspawn is **Kul'ik P'iqal** — "Living Works of the
 
 ## See Also
 
-- [[doc-kchchkcntnnt|K'ich'chik]] — The continent
-- [[doc-kchchklngglxcnmngd|K'ich'chik Language Lexicon]] — Language and naming
+- [[place-kchchkcntnnt|K'ich'chik]] — The continent
+- [[skill-kicheklng|Ki'ichek Language]] — the tongue and its naming conventions
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
 - [[affiliation-kemtnpnthn|Kemetían Pantheon]] — Ta'Kheperu equivalent
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Desert peoples equivalent

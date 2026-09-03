@@ -89,7 +89,7 @@ data:
     - haradregin
   population: 2300000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
@@ -103,13 +103,13 @@ folder: umL4KFGO3MD4u9X1
 
 ## Overview
 
-Varoshan is the easternmost of Harad's major cities, sitting at the crossroads where the coastal trade routes meet the overland caravan trails from [[doc-dunharargn|Dunhara Region]] and the [[doc-khzryndsrtrgn|Khazryn Desert Region]]. It is the Confederation's gateway to the east — a sprawling, dusty, polyglot city where Haradian merchants negotiate with Dunhari caravaneers, Khazryn nomads, and occasionally traders from as far as [[doc-vedyarargn|Vedyara Region]] and [[doc-byzariargn|Byzaría Region]].
+Varoshan is the easternmost of Harad's major cities, sitting at the crossroads where the coastal trade routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]]. It is the Confederation's gateway to the east — a sprawling, dusty, polyglot city where Haradian merchants negotiate with Dunhari caravaneers, Khazryn nomads, and occasionally traders from as far as [[place-vedyarargn|Vedyara Region]] and [[place-byzariargn|Byzaría Region]].
 
 ## Character
 
 Varoshan feels different from the coastal cities. The architecture shifts from Vylarian stone to mudbrick and tile; the bazaars smell of desert spice and camel; and the dominant religion is [[affiliation-ashanpnthn|Āsháian]] rather than [[affiliation-arldnpnthn|Aurèldían]]. The city's population is heavily mixed — Haradian merchants, Dunhari tribespeople who have settled into urban life, Khazryn caravan masters, and representatives of dozens of smaller ethnic groups who have gathered at this crossroads over the centuries.
 
-This diversity makes Varoshan the most cosmopolitan and religiously tolerant city in the Confederation. The great guilds have a presence here but exercise less control than in [[doc-tamavar|Tamavar]] — Varoshan's economy depends on relationships with inland peoples who do not recognize guild authority and will not deal with guild enforcers. The local merchants have developed their own networks, and the city's governing council includes representatives of the inland tribes as well as the urban merchant class.
+This diversity makes Varoshan the most cosmopolitan and religiously tolerant city in the Confederation. The great guilds have a presence here but exercise less control than in [[affiliation-tamavar|Tamavar]] — Varoshan's economy depends on relationships with inland peoples who do not recognize guild authority and will not deal with guild enforcers. The local merchants have developed their own networks, and the city's governing council includes representatives of the inland tribes as well as the urban merchant class.
 
 Varoshan is also the city where the [[affiliation-ordoarcanis|Ordo Arcanis]]'s influence is weakest. The eastern magical traditions that filter in along the caravan routes — Āsháian fire-worship, Dunhari sand-divination, Vedyaran meditation techniques — are practiced openly here, to the Ordo's considerable frustration.
 
@@ -122,12 +122,12 @@ Varoshan is also the city where the [[affiliation-ordoarcanis|Ordo Arcanis]]'s i
 
 ## Commerce and Currency
 
-Varoshan uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.
+Varoshan uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
-- [[doc-dunharargn|Dunhara Region]] — Eastern trading partner
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — Overland trade routes
-- [[doc-tamavar|Tamavar]], [[doc-kethara|Kethara]], [[doc-ashkabel|Ashkabel]] — Sister city-states
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
+- [[place-dunharargn|Dunhara Region]] — Eastern trading partner
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — Overland trade routes
+- [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states
 - [[affiliation-ashanpnthn|Āsháian]] — Dominant local pantheon

@@ -96,10 +96,10 @@ folder: kiz45F34jXa6kr8Z
 # Nyáluba Pantheon
 
 - **Pronunciation**: _n'YAH-loo-bah_
-- **Region:** [[doc-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[doc-xerathia|Xerathia]])
+- **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Xerathia]])
 - **Principal language:** [[skill-nyalbnlng|Nyáluban]]
 
-The **Nyáluba Pantheon** is the religious tradition of the [[doc-nylbtrblntn|Nyáluba Tribal Nation]], the confederation of clans, lineages, and communities that occupy the savannahs, river-systems, and coastal forests of southern [[doc-xerathia|Xerathia]]. It is not a pantheon in the sense that the [[affiliation-arldnpnthn|Aurèldían]] Twelve or the [[affiliation-asguardian|Asguardian]] Ten are pantheons — there is no council of named deities with defined portfolios, no ordered hierarchy of gods, and no formal priesthood serving a unified creed. What there is, instead, is a **totemic system**: a vast and living web of relationships between the people of the Nyáluba and the spirits of their land, their waters, their animals, and their own ancestors. Because outsiders need a term to describe it, and because the system functions as the religious framework of the Nyáluba in the way that a pantheon functions elsewhere, it is here called a pantheon. The Nyáluba themselves would not use the word.
+The **Nyáluba Pantheon** is the religious tradition of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], the confederation of clans, lineages, and communities that occupy the savannahs, river-systems, and coastal forests of southern [[place-xerathia|Xerathia]]. It is not a pantheon in the sense that the [[affiliation-arldnpnthn|Aurèldían]] Twelve or the [[affiliation-asguardian|Asguardian]] Ten are pantheons — there is no council of named deities with defined portfolios, no ordered hierarchy of gods, and no formal priesthood serving a unified creed. What there is, instead, is a **totemic system**: a vast and living web of relationships between the people of the Nyáluba and the spirits of their land, their waters, their animals, and their own ancestors. Because outsiders need a term to describe it, and because the system functions as the religious framework of the Nyáluba in the way that a pantheon functions elsewhere, it is here called a pantheon. The Nyáluba themselves would not use the word.
 
 The Nyáluba recognise no single supreme god. They speak, when pressed, of a diffuse creative presence — sometimes called **Mwánga-Kúbwa** ("the Great Brightness") in the idiom of the griots — that is understood as the source from which all spirits emerged and into which, at the far end of all things, all spirits will return. Mwánga-Kúbwa is not worshipped. It is acknowledged. No offering is made to it, no song is sung to it, and no shrine houses it. It is simply the name the tradition gives to the ultimate horizon of being. Active religious life is directed not at Mwánga-Kúbwa but at the **[[affiliation-nyalbsprts|Nyáluba Spirits]]** — the clan totems, the land-spirits, the ancestors, and the innumerable other beings whose territories and lineages interleave with those of the Nyáluba themselves.
 
@@ -113,7 +113,7 @@ The totemic system structures far more than religion. Marriage, diet, hunting ri
 
 ## The Spirits
 
-Beyond the totems, the Nyáluba recognise innumerable **[[affiliation-nyalbsprts|Spirits]]** — land-spirits, river-spirits, rain-spirits, wind-spirits, hunt-spirits, ancestor-spirits, and the spirits of particular trees, cairns, and crossings. In their basic character these spirits resemble the [[affiliation-thekindred|Kindred]] of the [[affiliation-firstgods|First Gods]] of the [[doc-aelendnppl|Áelendan]]: they are particular, territorial, individually named (where their names are known), and they sustain specific ongoing relationships with the clans whose territories overlap their own. They are not worshipped. They are **venerated, appeased, or warded against** according to their character and the need of the moment.
+Beyond the totems, the Nyáluba recognise innumerable **[[affiliation-nyalbsprts|Spirits]]** — land-spirits, river-spirits, rain-spirits, wind-spirits, hunt-spirits, ancestor-spirits, and the spirits of particular trees, cairns, and crossings. In their basic character these spirits resemble the [[affiliation-thekindred|Kindred]] of the [[affiliation-firstgods|First Gods]] of the [[lore-aelendnppl|Áelendan]]: they are particular, territorial, individually named (where their names are known), and they sustain specific ongoing relationships with the clans whose territories overlap their own. They are not worshipped. They are **venerated, appeased, or warded against** according to their character and the need of the moment.
 
 - **Venerate** — The benevolent spirits: a river-mother whose waters are clean and whose fish are plentiful, the baobab-spirit of the village gathering-tree, the ancestor whose wisdom still guides the clan. These are honoured with regular offerings, greeted at the seasons, and sung of in the clan's memory-songs.
 - **Appease** — The severe or exacting spirits: the crocodile-kin of a dangerous crossing, the drought-spirit who must be placated before the dry season, the spirits of a ridge whose protocols are strict and whose offence is swift. These are approached with exact observance and formal gift.
@@ -141,8 +141,8 @@ The animistic traditions of the Xerathian interior and the southern savannahs sh
 ## See Also
 
 - [[affiliation-nyalbsprts|Nyáluba Spirits]] — The spirits of land, water, ancestors, and hunt that form the substance of Nyáluba religious life
-- [[doc-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose faith this is
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose faith this is
 - [[skill-nyalbnlng|Nyáluban]] — The language of the faith's songs, drums, and oral tradition
 - [[affiliation-nkaruthar|Nkaru'thar]] — The Okháric Eternal Flame, kin-tradition to the Nyáluba shamanic line
 - [[affiliation-firstgods|The First Gods]] — The Áelendan pantheon whose Kindred most closely parallel the Nyáluba spirits
-- [[doc-pnthnrgnlmp|Pantheon Regional Map]] — Regional index of pantheons
+- [[lore-pnthnrgnlmp|Pantheon Regional Map]] — Regional index of pantheons

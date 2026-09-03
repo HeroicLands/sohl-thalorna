@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Azhûn is the capital and principal settlement of [[doc-azhun|Azhûn]].
+_To be written._ Azhûn is the capital and principal settlement of [[affiliation-azhun|Azhûn]].

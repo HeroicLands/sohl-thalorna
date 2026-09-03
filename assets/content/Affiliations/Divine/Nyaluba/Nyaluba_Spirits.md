@@ -91,8 +91,8 @@ folder: kiz45F34jXa6kr8Z
 # Nyáluba Spirits
 
 - **Parent pantheon:** [[affiliation-nyalbpnthn|Nyáluba Pantheon]]
-- **People:** [[doc-nylbtrblntn|Nyáluba Tribal Nation]]
-- **Region:** southern [[doc-xerathia|Xerathia]]
+- **People:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+- **Region:** southern [[place-xerathia|Xerathia]]
 
 The **Nyáluba Spirits** are the living face of the [[affiliation-nyalbpnthn|Nyáluba faith]] in the world. They are the clan totems, the land-spirits, the water-spirits, the hunt-spirits, and the ancestor-spirits whose territories and lineages interleave with those of the Nyáluba peoples. They are not gods. They are not worshipped. They are, in the language of the tradition, **venerated, appeased, or warded against** — each according to its character and the need of the moment. The three postures are those of the shamans themselves, and the craft of Nyáluba religious practice consists, in large part, of knowing which posture a given spirit requires.
 
@@ -137,6 +137,6 @@ Outsiders — traders, travellers, foreign envoys — do not have pacts with the
 ## See Also
 
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]] — The totemic system of which the Spirits are the active substance
-- [[doc-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose religious life centres on the Spirits
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — The people whose religious life centres on the Spirits
 - [[affiliation-thekindred|The Kindred]] — The Áelendan parallel tradition, structurally very similar
 - [[affiliation-nkaruthar|Nkaru'thar]] — The Okháric Eternal Flame, whose _zohira_ fulfil a comparable role in the northern Xerathian tradition

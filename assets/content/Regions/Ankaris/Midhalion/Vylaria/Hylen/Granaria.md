@@ -26,9 +26,9 @@ folder: WSdLuPc7BaRqxNEt
 
 ## Overview
 
-Granaria is the chief grain-market of central [[doc-provnchyln|Hylen]], its great granaries and weighing-yards the point where the harvest of a hundred estates is gathered, measured, and sent on toward the capital and the legions. In a good year it overflows with sacked grain; in a lean one its empty granaries are the first warning that the empire's bread is short.
+Granaria is the chief grain-market of central [[affiliation-provnchyln|Hylen]], its great granaries and weighing-yards the point where the harvest of a hundred estates is gathered, measured, and sent on toward the capital and the legions. In a good year it overflows with sacked grain; in a lean one its empty granaries are the first warning that the empire's bread is short.
 
 ## See Also
 
-- [[doc-provnchyln|Province of Hylen]] — Parent province
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provnchyln|Province of Hylen]] — Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview

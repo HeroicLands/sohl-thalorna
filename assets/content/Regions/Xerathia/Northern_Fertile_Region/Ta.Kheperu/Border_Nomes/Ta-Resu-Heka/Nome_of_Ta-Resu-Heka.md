@@ -94,7 +94,7 @@ data:
     - takheperurgn
   population: 320000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
@@ -109,7 +109,7 @@ folder: hbi739NdfZ0O28og
 
 ## Overview
 
-Ta-Resu-Heka — "the Southern Land of Rule" — is the great southern march of [[doc-empirtkhpr|The Empire of Ta'Kheperu]], the nome where the empire ends and the tribal lands begin. Here the river breaks into the rapids of the first cataract, the green valley narrows to a thread, and the desert closes in on both banks; and here the empire plants its fortress-line, its garrisons, and its gateway to the south. The nome's soldier-[[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] is the empire's warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony, and slaves that come up the river-road from the deep south, and watches the southern tribes whose loyalty runs from grudging vassalage to open war. Its patron, fittingly, is **Mentu** the war-god, whose cult is stronger on this frontier than anywhere in the empire.
+Ta-Resu-Heka — "the Southern Land of Rule" — is the great southern march of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], the nome where the empire ends and the tribal lands begin. Here the river breaks into the rapids of the first cataract, the green valley narrows to a thread, and the desert closes in on both banks; and here the empire plants its fortress-line, its garrisons, and its gateway to the south. The nome's soldier-[[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] is the empire's warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony, and slaves that come up the river-road from the deep south, and watches the southern tribes whose loyalty runs from grudging vassalage to open war. Its patron, fittingly, is **Mentu** the war-god, whose cult is stronger on this frontier than anywhere in the empire.
 
 ## Character
 
@@ -122,14 +122,14 @@ The southern trade-road and the garrison together drive the nome. Up the river f
 ## Notable Features
 
 - The first cataract — the river's rapids and the empire's southern threshold
-- The fortress-line of [[doc-behen|Behen]] and the garrison-posts that hold the march
+- The fortress-line of [[place-behen|Behen]] and the garrison-posts that hold the march
 - The southern trade-road and the toll-and-tribute trade in gold, ivory, and ebony
 - The strong frontier cult of Mentu, the war-god
 - The mixed Kheperi-and-southern border society of the cataract country
 
 ## Settlements
 
-- **[[doc-behen|Behen]]** (~24,000) — the nome capital, a great fortress-town commanding the river at the first cataract; a double-walled stronghold of garrison barracks, the war-temple of Mentu, the toll-house and tribute-store of the southern trade, and the seat of the warden-Haty'a. The empire's strongest fortress south of the capital.
+- **[[place-behen|Behen]]** (~24,000) — the nome capital, a great fortress-town commanding the river at the first cataract; a double-walled stronghold of garrison barracks, the war-temple of Mentu, the toll-house and tribute-store of the southern trade, and the seat of the warden-Haty'a. The empire's strongest fortress south of the capital.
 - **The fortress-line villages:** strung along the river and the desert flanks are garrison-posts, forts, and frontier settlements of 500–5,000 — among them Iken (the river toll-fort beyond the cataract), Mirgis (a double fortress on the west bank), Bahen-Resu (the deepest garrison), and a scatter of mixed Kheperi-southern farm-and-trade villages along the irrigated strip.
 
 ## For the Worldbuilder
@@ -138,12 +138,12 @@ Ta-Resu-Heka is the classic march — the end of the empire, where the writ runs
 
 ## Commerce and Currency
 
-Ta-Resu-Heka uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and the southern frontier is one of the places where struck gold and silver circulate most — garrison-pay, caravan-tolls, and the southern gold-trade all run on weighed metal, alongside a brisk barter in southern goods. Foreign and tribal valuables are weighed and discounted by the [[affiliation-perhati|Pér-Háti]] agents who follow the army and the trade-road. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Ta-Resu-Heka uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and the southern frontier is one of the places where struck gold and silver circulate most — garrison-pay, caravan-tolls, and the southern gold-trade all run on weighed metal, alongside a brisk barter in southern goods. Foreign and tribal valuables are weighed and discounted by the [[affiliation-perhati|Pér-Háti]] agents who follow the army and the trade-road. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-bordernoms|The Border Nomes]] — Parent nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[doc-behen|Behen]] — Nome capital and fortress
+- [[affiliation-bordernoms|The Border Nomes]] — Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[place-behen|Behen]] — Nome capital and fortress
 - [[affiliation-malldbndlg|Free Companies Compact]] — Chartered mercenaries who take frontier contracts
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon

@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ Kalydria is the capital and principal settlement of [[doc-kalydria|Kalydria]].
+_To be written._ Kalydria is the capital and principal settlement of [[affiliation-kalydria|Kalydria]].

@@ -101,7 +101,7 @@ _Old Norse: Ymisbǫrn — "Ymir's Children"_
 
 - **Type:** Initiatic fighting religious order
 - **Patron:** [[affiliation-ymir|Ymir]] — Asguardian primordial god of creation, raw strength, and the violence from which the cosmos was shaped
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]], with strongest concentrations in the colder northern reaches; smaller chapters in [[doc-vrystwald|Vrystwald]] and the more remote valleys of [[doc-aelwyth|Aelwyth]]
+- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strongest concentrations in the colder northern reaches; smaller chapters in [[place-vrystwald|Vrystwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
 
 ## Overview
 

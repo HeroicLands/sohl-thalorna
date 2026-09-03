@@ -23,9 +23,9 @@ peoples:
 folder: Ka6y9l5O5XGpNhfI
 ---
 
-The Southern Savannahs are the vast subtropical grasslands of southern [[doc-xerathia|Xerathia]] — open herd-country that stretches from the southern edge of the [[doc-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
+The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Xerathia]] — open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
 
-To the civilizations of the [[doc-nrthrnfrtlrgn|Northern Fertile Region]], the savannahs are less a place than a rumor. Almost everything those civilizations know about the deep south comes second-hand through the [[doc-cntrlrnfrsts|rainforest tribes]], who maintain seasonal trade relationships with the savannah herders along the long southern margin where jungle gives way to grassland. Direct expeditions from the north have been rare, ill-advised, and mostly did not return.
+To the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]], the savannahs are less a place than a rumor. Almost everything those civilizations know about the deep south comes second-hand through the [[place-cntrlrnfrsts|rainforest tribes]], who maintain seasonal trade relationships with the savannah herders along the long southern margin where jungle gives way to grassland. Direct expeditions from the north have been rare, ill-advised, and mostly did not return.
 
 ## Geography
 
@@ -51,7 +51,7 @@ The **great herds** are the organizing principle of savannah life in the center 
 
 **Language** across the region is a mosaic. There are several broad language families, each containing many mutually unintelligible tongues, and the savannah peoples maintain a rough pidgin — something like a trade-speech — for dealing with strangers from outside their immediate lineage. The rainforest intermediaries who trade with the northern civilizations use this pidgin as their working language in the south.
 
-The few **settled communities** — [[doc-ekunda|Ékunda]] among them — function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
+The few **settled communities** — [[place-ekunda|Ékunda]] among them — function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
 
 ## Religion
 
@@ -75,15 +75,15 @@ Savannah-internal trade is largely through **cattle exchange**, marriage-gifts, 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[doc-cntrlrnfrsts|Central Rainforests]]. The savannah peoples and the forest peoples meet along a long, messy, ecologically transitional margin where jungle gives way to grassland. Contact is generally peaceful — long generations of seasonal overlap have produced a dense web of trading relationships, intermarriage, and ritualized exchanges. The forest tribes are the savannah peoples' principal contact with the wider world and vice versa.
+To the **north** lies the [[place-cntrlrnfrsts|Central Rainforests]]. The savannah peoples and the forest peoples meet along a long, messy, ecologically transitional margin where jungle gives way to grassland. Contact is generally peaceful — long generations of seasonal overlap have produced a dense web of trading relationships, intermarriage, and ritualized exchanges. The forest tribes are the savannah peoples' principal contact with the wider world and vice versa.
 
-The **[[doc-nrthrnfrtlrgn|Northern Fertile Region]]** civilizations — Bethua, Ta'Kheperu, Okháris — are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Kheperi, Bethuan, or Okhári in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
+The **[[place-nrthrnfrtlrgn|Northern Fertile Region]]** civilizations — Bethua, Ta'Kheperu, Okháris — are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Kheperi, Bethuan, or Okhári in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
 
 To the **far south** lie the coasts of an unnamed ocean and whatever exists beyond it. Savannah knowledge of the southern coast is incomplete — different lineages know different stretches, and no unified picture has ever been assembled. Whatever lies beyond the southern coast is, for the savannah peoples, as mysterious as the savannah itself is to the north.
 
 ## See Also
 
-- [[doc-xerathia|Xerathia Continent]] — parent continent
-- [[doc-cntrlrnfrsts|Central Rainforests]] — northern boundary
-- [[doc-ekunda|Ékunda]] — savannah settlement
-- [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — distant northern civilizations, known only by rumor
+- [[place-xerathia|Xerathia Continent]] — parent continent
+- [[place-cntrlrnfrsts|Central Rainforests]] — northern boundary
+- [[place-ekunda|Ékunda]] — savannah settlement
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]] — distant northern civilizations, known only by rumor

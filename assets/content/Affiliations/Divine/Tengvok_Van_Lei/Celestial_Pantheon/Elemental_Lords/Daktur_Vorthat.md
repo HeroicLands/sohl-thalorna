@@ -136,4 +136,4 @@ Mortals petition Dāktūr Vōrthāt through formal offerings at temple shrines d
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Dāktūr Vōrthāt as Elemental Lord
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Dāktūr Vōrthāt maintains constant jurisdictional coordination
 - [[Zhutrhot|Zhürhöt]] — Overseer of the Bureau of Transformation, whose claims over metalworking Dāktūr Vōrthāt resists
-- [[doc-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords and maintain the bureaucratic seal system
+- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords and maintain the bureaucratic seal system

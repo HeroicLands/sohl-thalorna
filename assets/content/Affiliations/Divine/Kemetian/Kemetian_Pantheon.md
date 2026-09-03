@@ -94,7 +94,7 @@ folder: RGkIoZ4nXKx1qnID
 
 **Pronunciation**: _Keh-MEH-tee-ahn_
 
-The Kemetían pantheon is the religious tradition of [[doc-empirtkhpr|Ta'Kheperu]], the oldest continuously existing civilization in [[doc-worldthlrn|Thalorna]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[doc-ankrscntnnt|Ankaris Continent]], though the Kheperi would note, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.
+The Kemetían pantheon is the religious tradition of [[affiliation-empirtkhpr|Ta'Kheperu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], though the Kheperi would note, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.
 
 The Kemetían faith is inseparable from the civilization it serves. Every aspect of Kheperi life — governance, law, agriculture, war, commerce, art, and above all the vast mortuary industry that prepares the dead for eternal existence — is organized around theological principles maintained by the temple complexes. The great temples are not merely places of worship but economic and political institutions rivaling the Per-Aá's palace in wealth and influence. The priesthood's three-rank hierarchy — **Wer'Hekau, Hem'Netjer, and Wab** — structures the religious life of the empire from the capital to the remotest village.
 
@@ -131,10 +131,10 @@ Every major temple in Ta'Kheperu follows the same three-rank hierarchy, a struct
 
 The Kemetían pantheon is organized around a central theological tension: **order against chaos**. [[affiliation-maat|Má'át]] represents cosmic order — the principle that holds reality together. [[affiliation-apophis|Ápōphis]] represents primordial chaos — the dissolution that preceded creation and that constantly threatens to reclaim it. Every other deity occupies a position within this framework: [[affiliation-ra|Rā]] battles Ápōphis nightly to ensure the sun rises; [[affiliation-seker|Sēker]] and [[affiliation-anubis|Ánubís]] maintain the ordered passage from life to death; [[affiliation-iset|Íšét]] sustains the renewal of life that chaos would extinguish; [[affiliation-ptah|Ptā'h]] creates the material structures that impose form on formlessness.
 
-This theological framework gives the Kemetían faith a coherence that impressed even the [[doc-helionis|Helionite]] philosophers who studied it. The gods are not merely a collection of powerful beings but components of a cosmic system, each playing a defined role in maintaining the order that allows existence to continue. The annual flood of the great river — the land drowned and reborn each year — is the living metaphor for this cycle of destruction and renewal, and the entire Kheperi calendar of festivals, rituals, and observances is organized around it.
+This theological framework gives the Kemetían faith a coherence that impressed even the [[place-helionis|Helionite]] philosophers who studied it. The gods are not merely a collection of powerful beings but components of a cosmic system, each playing a defined role in maintaining the order that allows existence to continue. The annual flood of the great river — the land drowned and reborn each year — is the living metaphor for this cycle of destruction and renewal, and the entire Kheperi calendar of festivals, rituals, and observances is organized around it.
 
 ## See Also
 
-- [[doc-empirtkhpr|Empire of Ta'Kheperu]] — The civilization
+- [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] — The civilization
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western Ankarian equivalent
 - [[skill-kheperlng|Kheperi]] — Naming conventions

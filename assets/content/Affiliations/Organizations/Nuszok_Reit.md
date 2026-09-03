@@ -99,13 +99,13 @@ folder: DWK5QE0GRZ8br2mk
 # Nüszōk Rëit
 
 - **Type:** Nihilistic apocalyptic cult
-- **Region:** [[doc-tanvurempr|Empire of Tānvür]]
+- **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]
 - **Composition:** Lower-caste recruits, displaced and condemned persons, Demon Lord devotees
 - **Tānvüri:** _Nüszōk Rëit_ — "the sect of the forsaken" or "the gathering of the cast-aside"
 
 ## Overview
 
-The **Nüszōk Rëit** — the Cult of the Forsaken — is a dangerous and thoroughly nihilistic movement that has emerged among the lower castes of the [[doc-tanvurempr|Empire of Tānvür]]. Where the [[affiliation-hekzhak|Hëk Zhāk]] seeks to reform the classification system and the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] seeks to exploit it for profit, the Nüszōk Rëit seeks the system's violent destruction — and, beyond that, the destruction of the social order itself, which it holds to be irredeemably corrupt.
+The **Nüszōk Rëit** — the Cult of the Forsaken — is a dangerous and thoroughly nihilistic movement that has emerged among the lower castes of the [[affiliation-tanvurempr|Empire of Tānvür]]. Where the [[affiliation-hekzhak|Hëk Zhāk]] seeks to reform the classification system and the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] seeks to exploit it for profit, the Nüszōk Rëit seeks the system's violent destruction — and, beyond that, the destruction of the social order itself, which it holds to be irredeemably corrupt.
 
 The cult does not aspire to build a new order in the ruins of the old. It regards such aspirations as the self-deception of people who have not yet truly understood the empire. The imperial classification system, in the cult's reading, is not merely unjust but metaphysically obscene — an offense against the cosmos that can only be answered by the system's wholesale annihilation. What comes after the empire is a question the cult declines to consider.
 
@@ -113,7 +113,7 @@ This posture — destruction as its own justification — makes the Nüszōk Rë
 
 ## Origins and Recruitment
 
-The cult draws from the empire's cast-aside: indebted Shükrën whose households have collapsed, Nützōk whose classification has drifted into irrecoverable disgrace, Zhëklüng younger sons whose inheritance prospects have been ruined by the [[doc-veizhatret|Vëi Zhāt Rëit]], and above all the vast ranks of the condemned — those whose moral ledgers have accumulated debits so severe that no ritual redemption is possible and no ancestor will advocate for them. The cult meets these people where imperial religion has given up on them, and offers them something imperial religion refuses: the assertion that their condemnation is not their failure but the failure of the system that condemned them.
+The cult draws from the empire's cast-aside: indebted Shükrën whose households have collapsed, Nützōk whose classification has drifted into irrecoverable disgrace, Zhëklüng younger sons whose inheritance prospects have been ruined by the [[lore-veizhatret|Vëi Zhāt Rëit]], and above all the vast ranks of the condemned — those whose moral ledgers have accumulated debits so severe that no ritual redemption is possible and no ancestor will advocate for them. The cult meets these people where imperial religion has given up on them, and offers them something imperial religion refuses: the assertion that their condemnation is not their failure but the failure of the system that condemned them.
 
 Recruitment is not loud. It moves through the margins — in the last taverns of disgraced merchant quarters, in the work camps on the empire's southern frontiers, in the anonymous districts where the classification-failed congregate. Those who join do not usually leave. The cult takes care to ensure that its recruitment process culminates in acts of irreversible commitment — a public blasphemy, a petty sabotage of a local temple, a first small act of violence — after which the recruit's standing in the mainstream order cannot be recovered.
 
@@ -181,7 +181,7 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 
 ## See Also
 
-- [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]] — The Tānvüri overview of destabilizing forces
+- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] — The Tānvüri overview of destabilizing forces
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]] — The Black Lotus Society, the cult's transactional ally
 - [[affiliation-hekzhak|Hëk Zhāk]] — The Shadow Sect, the rival subversive organization
 - [[affiliation-nushot|Nüshöt]] — The Unmaker, the cult's primary celestial patron
@@ -190,6 +190,6 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 - [[affiliation-hurnzhuk|Hürnzhük]] — The First Refusal, the cult's foundational theological figure
 - [[affiliation-dokyok|Dōkyök]] — The Lost Road, lesser patron of misdirection and escape
 - [[doc-thlbestiary#helspawn|Helspawn]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
-- [[doc-veizhatret|Vëi Zhāt Rëit]] — The court intrigue that produces many of the cult's recruits
-- [[doc-castelaws|Caste Laws]] — The classification system the cult exists to destroy
-- [[doc-tanvurempr|Empire of Tānvür]] — The empire the cult intends to annihilate
+- [[lore-veizhatret|Vëi Zhāt Rëit]] — The court intrigue that produces many of the cult's recruits
+- [[lore-castelaws|Caste Laws]] — The classification system the cult exists to destroy
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire the cult intends to annihilate

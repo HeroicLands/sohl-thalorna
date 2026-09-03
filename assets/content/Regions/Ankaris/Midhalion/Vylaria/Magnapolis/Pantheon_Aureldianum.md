@@ -32,7 +32,7 @@ folder:
 
 # Pantheon Aurèldiānum — The House of the Twelve
 
-At the heart of the [[doc-urbsaquiln#Regio Templum — The Temple District|Regio Templum]] of [[doc-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
+At the heart of the [[place-urbsaquiln#Regio Templum — The Temple District|Regio Templum]] of [[place-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
 
 ## The Dome
 
@@ -50,8 +50,8 @@ The one delicate seam is the niche of **Vúlcan**, the Forge-Lord — for Vúlca
 
 ## See Also
 
-- [[doc-urbsaquiln|Urbs Aquilion]] — the Inner City and the Regio Templum in which the Pantheon stands
+- [[place-urbsaquiln|Urbs Aquilion]] — the Inner City and the Regio Templum in which the Pantheon stands
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — _the Twelve_, the state religion honored here
 - [[affiliation-janus|Jánus]] — the keeper-priesthood of the Pantheon · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — whose wards hold the impossible dome
-- [[doc-magnapolis|Magnápolis]] · [[doc-vylarinmpr|Vylarian Empire]]
+- [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]

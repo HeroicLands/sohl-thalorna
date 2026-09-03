@@ -31,14 +31,14 @@ languages:
 ## Overview
 
 The Ta'Kheperu Region is the river country of the
-[[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the stretch of Xerathia's
-northern shore held by the [[doc-empirtkhpr|Empire of Ta'Kheperu]], running
-from the delta on the [[doc-vylarianse|Vylarian Sea]] hundreds of leagues
+[[place-nrthrnfrtlrgn|Northern Fertile Region]] — the stretch of Xerathia's
+northern shore held by the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]], running
+from the delta on the [[place-vylarianse|Vylarian Sea]] hundreds of leagues
 south along the great river that gives the country its life.
 
 It is the exception in a region that is otherwise fertile only where it has
-been engineered to be. Where [[doc-bethuargn|Bethûa]] and
-[[doc-okharisrgn|Okháris]] draw their harvests from aqueducts and herds, the
+been engineered to be. Where [[place-bethuargn|Bethûa]] and
+[[place-okharisrgn|Okháris]] draw their harvests from aqueducts and herds, the
 Kheperi valley is fed by an annual flood that lays down rich black silt across
 the floodplains each year.
 
@@ -63,15 +63,15 @@ nomarchs of the sort found on the region's other margins.
 
 ## Politics and Power
 
-The region is the heartland of the [[doc-empirtkhpr|Empire of Ta'Kheperu]] and
+The region is the heartland of the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] and
 is administered through its nomes. Its frontier with
-[[doc-bethuargn|Bethûa]] to the west has never been precisely drawn, and
+[[place-bethuargn|Bethûa]] to the west has never been precisely drawn, and
 occasional friction along it is the region's most persistent external
 irritant.
 
 ## See Also
 
-- [[doc-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
-- [[doc-empirtkhpr|Empire of Ta'Kheperu]] — the realm that holds this region
-- [[doc-bethuargn|Bethûa Region]] — neighbour to the west
-- [[doc-okharisrgn|Okháris Region]] — neighbour to the south
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]] — the parent region
+- [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] — the realm that holds this region
+- [[place-bethuargn|Bethûa Region]] — neighbour to the west
+- [[place-okharisrgn|Okháris Region]] — neighbour to the south

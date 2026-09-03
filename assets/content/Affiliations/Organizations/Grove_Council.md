@@ -77,7 +77,7 @@ folder:
 # The Grove Council
 
 - **Type:** Druidic conclave
-- **Region:** [[doc-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[doc-drenavrspn|Drenavar Spine]]
+- **Region:** [[place-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[place-drenavrspn|Drenavar Spine]]
 - **Sister institutions:** [[affiliation-bardicolgs|The Bardic Colleges]], [[affiliation-alndnwrdns|The Áelendan Wardens]]
 
 ## Overview

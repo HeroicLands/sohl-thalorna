@@ -21,7 +21,7 @@ world: worldthlrn
 folder: N4B9Brwycki8GfSj
 ---
 
-Aurionis is a distant southern continent, separated from [[doc-ankrscntnnt|Ankaris]] and [[doc-xerathia|Xerathia]] by vast stretches of open ocean. Its interior is dominated by arid plains, red-earth deserts, and stony uplands; its coasts and river systems support lush subtropical forests, wetlands, and an extraordinary diversity of plant and animal life found nowhere else on [[doc-worldthlrn|Thalorna]]. It is a continent of paradoxes, where some of the oldest human cultures on the world have adapted over millennia to one of its most demanding environments.
+Aurionis is a distant southern continent, separated from [[place-ankrscntnnt|Ankaris]] and [[place-xerathia|Xerathia]] by vast stretches of open ocean. Its interior is dominated by arid plains, red-earth deserts, and stony uplands; its coasts and river systems support lush subtropical forests, wetlands, and an extraordinary diversity of plant and animal life found nowhere else on [[place-worldthlrn|Thalorna]]. It is a continent of paradoxes, where some of the oldest human cultures on the world have adapted over millennia to one of its most demanding environments.
 
 ## Geography
 
@@ -59,7 +59,7 @@ Aurionis is more often present in Ankarian imagination than in Ankarian experien
 
 ## See Also
 
-- [[doc-worldthlrn|The World of Thalorna]] — World overview
-- [[doc-ankrscntnnt|Ankaris Continent]] — Northern neighbor across the ocean
-- [[doc-xerathia|Xerathia]] — Northwestern neighbor across the ocean
-- [[doc-isrncntnnt|Iseron Continent]] — Southern neighbor, the frozen continent
+- [[place-worldthlrn|The World of Thalorna]] — World overview
+- [[place-ankrscntnnt|Ankaris Continent]] — Northern neighbor across the ocean
+- [[place-xerathia|Xerathia]] — Northwestern neighbor across the ocean
+- [[place-isrncntnnt|Iseron Continent]] — Southern neighbor, the frozen continent

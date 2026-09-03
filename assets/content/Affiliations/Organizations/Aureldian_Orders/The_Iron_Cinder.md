@@ -107,7 +107,7 @@ _Aurèldían: Cinis Ferreus — "Iron Cinder"_
 
 - **Type:** Covert fighting religious order (heretical to the mainstream Aurèldían faith)
 - **Patron:** [[affiliation-blackflame|The Black Flame]] — the Vúlcani heresy; [[Faith_of_Vulcan|Vúlcan]] as the conflagration of the mailed fist
-- **Region:** [[doc-aureldirgn|Aurèldía]] — no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
+- **Region:** [[place-aureldirgn|Aurèldía]] — no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
 
 ## Overview
 

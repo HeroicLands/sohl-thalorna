@@ -568,7 +568,7 @@ sohl:
     - { shortcode: bgsmcvs, type: containergear }
 ---
 
-**Home:** [[doc-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Wasetkara]]
 
 # Appearance {#appearance}
 
@@ -588,7 +588,7 @@ At twenty-two years of age, Patnefur achieved his first true triumph: a fragranc
 
 **Current Mastery**
 
-Now at the height of his powers, Patnefur operates one of the most sought-after perfumeries in all of [[doc-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking something that will define their identity. His creations are not merely pleasant to smell; they are considered transformative, capable of altering mood and perception through the power of scent alone.
+Now at the height of his powers, Patnefur operates one of the most sought-after perfumeries in all of [[affiliation-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking something that will define their identity. His creations are not merely pleasant to smell; they are considered transformative, capable of altering mood and perception through the power of scent alone.
 
 ## Psyche
 

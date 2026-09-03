@@ -4,7 +4,7 @@ aliases:
   - Vushok
 id: SAOPtLI8wTxMqwOk
 type: lore
-subType: folk
+subType: culture
 name:
   full: Vüshōk
   aliases: []
@@ -16,7 +16,7 @@ folder: ZUKWHCnKcLAoZMdf
 
 **Warrior Nobility**
 
-The Vüshōk form the military and administrative backbone of [[doc-tanvurempr|Tānvür]], a nobility bound by codes of martial honor and duty to the realm. From Warlords (Vüszhük) who govern entire provinces to skilled swordmasters who lead armies, the Vüshōk hold the exclusive right to bear arms and command forces in war.
+The Vüshōk form the military and administrative backbone of [[affiliation-tanvurempr|Tānvür]], a nobility bound by codes of martial honor and duty to the realm. From Warlords (Vüszhük) who govern entire provinces to skilled swordmasters who lead armies, the Vüshōk hold the exclusive right to bear arms and command forces in war.
 
 ## Authority and Responsibilities
 
@@ -26,7 +26,7 @@ The Vüshōk alone possess the legal right to bear arms and lead military forces
 
 ### Judicial Authority
 
-As regional administrators, Warlords exercise significant legal power within their domains, acting as judges and lawmakers for their territories. They investigate and punish crimes, settle disputes, and enforce [[doc-castelaws|Caste Laws]] within their jurisdiction.
+As regional administrators, Warlords exercise significant legal power within their domains, acting as judges and lawmakers for their territories. They investigate and punish crimes, settle disputes, and enforce [[lore-castelaws|Caste Laws]] within their jurisdiction.
 
 ### Territorial Governance
 
@@ -34,7 +34,7 @@ Vüshōk receive lands and titles in exchange for military service. These holdin
 
 ## Code of Honor
 
-The Vüshōk are bound by a strict code of honor — the **Vüs Hōk Lüt** (Warrior Balance Law) — that governs all aspects of their conduct. Violations of this code can result in severe punishment, including state-ordered ritual suicide ([[doc-zeisik|Rëitsīk]]) or exile. Personal honor is paramount — accusations of dishonor carry grave consequences that extend beyond legal punishment to social ostracism and disgrace.
+The Vüshōk are bound by a strict code of honor — the **Vüs Hōk Lüt** (Warrior Balance Law) — that governs all aspects of their conduct. Violations of this code can result in severe punishment, including state-ordered ritual suicide ([[lore-zeisik|Rëitsīk]]) or exile. Personal honor is paramount — accusations of dishonor carry grave consequences that extend beyond legal punishment to social ostracism and disgrace.
 
 ## Rights and Duties
 
@@ -48,7 +48,7 @@ The Vüshōk are bound by a strict code of honor — the **Vüs Hōk Lüt** (War
 
 - **Code of Honor**: Unwavering adherence to martial virtue; violation brings severe personal consequences
 - **Defense of the Realm**: Obligation to protect the empire and its people from all threats
-- **Service to Zhëklüng**: Loyalty to the Emperor and [[doc-zheklung|Zhëklüng]] authority
+- **Service to Zhëklüng**: Loyalty to the Emperor and [[lore-zheklung|Zhëklüng]] authority
 
 ## Naming and Honors
 
@@ -62,11 +62,11 @@ Personal names are granted only to Vüshōk of exceptional service, usually for 
 
 ### Khazárian Warriors
 
-[[doc-flkkhazar|Khazári]] warriors of exceptional bravery and strategic genius are honored with the Vüshōk title. They serve the empire as defenders of mountainous borders and are deeply respected for their legendary fortitude and engineering of defensive structures.
+[[lore-flkkhazar|Khazári]] warriors of exceptional bravery and strategic genius are honored with the Vüshōk title. They serve the empire as defenders of mountainous borders and are deeply respected for their legendary fortitude and engineering of defensive structures.
 
 ### Sinalëan Warriors
 
-[[doc-flksinale|Sinalë]] are occasionally granted Vüshōk status for military service to the empire. Valued as scouts and skirmishers for their grace and speed, their willingness to engage in human warfare remains reluctant, creating ongoing friction between Sinalëan commanders and the military establishment.
+[[lore-flksinale|Sinalë]] are occasionally granted Vüshōk status for military service to the empire. Valued as scouts and skirmishers for their grace and speed, their willingness to engage in human warfare remains reluctant, creating ongoing friction between Sinalëan commanders and the military establishment.
 
 ## Philosophy of Lëi
 
@@ -74,9 +74,9 @@ The Vüshōk are understood to embody the dynamic and protective aspects of Lëi
 
 ## See Also
 
-- [[doc-castelaws|Caste Laws]] — detailed rights and restrictions for Vüshōk
-- [[doc-zeisik|Law and Honor]] — legal framework and codes of honor governing Vüshōk conduct
-- [[doc-zheklung|Zhëklüng]] — the supreme authority that Vüshōk serve
-- [[doc-tanthei|Tānthëi]] — celestial scholars who advise Vüshōk leadership
-- [[doc-venduk|Vëndük]] — magical counselors who work alongside Vüshōk commanders
-- [[doc-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[lore-castelaws|Caste Laws]] — detailed rights and restrictions for Vüshōk
+- [[lore-zeisik|Law and Honor]] — legal framework and codes of honor governing Vüshōk conduct
+- [[lore-zheklung|Zhëklüng]] — the supreme authority that Vüshōk serve
+- [[lore-tanthei|Tānthëi]] — celestial scholars who advise Vüshōk leadership
+- [[lore-venduk|Vëndük]] — magical counselors who work alongside Vüshōk commanders
+- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure

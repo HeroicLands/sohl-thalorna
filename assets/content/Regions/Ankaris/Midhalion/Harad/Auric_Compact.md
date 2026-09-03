@@ -79,16 +79,16 @@ folder: umL4KFGO3MD4u9X1
 ---
 
 - **Type:** Merchant guild (banking, trade finance, commodity markets)
-- **Region:** [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] (with agents across [[doc-midhalnrgn|Mídhalión Region]])
-- **Headquarters:** [[doc-tamavar|Tamavar]]
+- **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] (with agents across [[place-midhalnrgn|Mídhalión Region]])
+- **Headquarters:** [[affiliation-tamavar|Tamavar]]
 
 ## Overview
 
-The Auric Compact is the most powerful institution in the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — more powerful, in practice, than the Grand Council it nominally serves. A cartel of banking houses, trading firms, and commodity brokers, the Compact controls the flow of capital that makes Haradian commerce possible. Ships sail because the Compact finances them. Cargoes move because the Compact insures them. Governments function because the Compact lends to them.
+The Auric Compact is the most powerful institution in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — more powerful, in practice, than the Grand Council it nominally serves. A cartel of banking houses, trading firms, and commodity brokers, the Compact controls the flow of capital that makes Haradian commerce possible. Ships sail because the Compact finances them. Cargoes move because the Compact insures them. Governments function because the Compact lends to them.
 
 ## Character
 
-The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[doc-vylarianse|Vylarian Sea]]. Its agents — factors, assessors, and debt collectors — are a familiar sight in harbors from [[doc-provincvld|Vald]] to [[doc-helionis|Heliónis]] to [[doc-empirtkhpr|The Empire of Ta'Kheperu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
+The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents — factors, assessors, and debt collectors — are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
 
 The Compact financed the Haradian War of Independence — a calculated investment that paid off spectacularly when the post-war government fell under guild control. The Compact now holds the Confederation's debt and uses this leverage to ensure that government policy serves commercial interests. Taxes are kept low on guild operations; tariffs protect guild monopolies; and the courts enforce guild contracts with enthusiasm.
 
@@ -100,6 +100,6 @@ These enforcers are the people most likely to cross paths with the crew of the [
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
 - [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]] — Rival guilds
-- [[doc-tamavar|Tamavar]] — Headquarters
+- [[affiliation-tamavar|Tamavar]] — Headquarters

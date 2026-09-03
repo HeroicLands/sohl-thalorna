@@ -28,13 +28,13 @@ languages:
 folder: q61mqomRaSzUNfrY
 ---
 
-The Vedyara Region is the southeastern subcontinent of [[doc-ankrscntnnt|Ankaris Continent]] — a vast, lush, politically fragmented land of river valleys, tropical forests, mountain kingdoms, and coastal city-states, united by shared language, shared pantheon, and a shared cultural inheritance that stretches back further than any comparable tradition on the continent. While Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy, Vedyara is a civilization of the **caste-ordered polity** — a hundred small kingdoms, city-states, and temple-domains whose political boundaries shift across centuries but whose deeper social structures have been continuous for three millennia.
+The Vedyara Region is the southeastern subcontinent of [[place-ankrscntnnt|Ankaris Continent]] — a vast, lush, politically fragmented land of river valleys, tropical forests, mountain kingdoms, and coastal city-states, united by shared language, shared pantheon, and a shared cultural inheritance that stretches back further than any comparable tradition on the continent. While Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy, Vedyara is a civilization of the **caste-ordered polity** — a hundred small kingdoms, city-states, and temple-domains whose political boundaries shift across centuries but whose deeper social structures have been continuous for three millennia.
 
 Vedyara's political fragmentation is genuine and chronic, but it coexists with an extraordinarily strong cultural unity. A Vedyari scholar from a southern port can travel to a northern mountain kingdom and find its temples, its caste categories, its mathematical curriculum, and its classical drama all intelligible at once. The region shares the [[affiliation-varakpnthn|Varṇaka Pantheon]], the Vedyari language (in several dialect forms), and a body of classical literature that every educated person studies regardless of which particular kingdom they serve.
 
 ## Geography
 
-Vedyara occupies the large subcontinental projection in southeastern Ankaris, extending from the mountain passes in the north down to a long tropical coastline facing the warm seas east of the [[doc-vylarianse|Vylarian Sea]]. Great rivers rise in the northern mountains and flow south through fertile floodplains that support dense populations and intensive, sophisticated agriculture. The coast is tropical and lush; the interior ranges through jungle, grassland, and arid plateau as one travels inland; the far northern margin rises into temperate hill-country and eventually into the mountain chain that separates Vedyara from the [[doc-dunharargn|Dunhara]] and the [[doc-khzryndsrtrgn|Khazryn]].
+Vedyara occupies the large subcontinental projection in southeastern Ankaris, extending from the mountain passes in the north down to a long tropical coastline facing the warm seas east of the [[place-vylarianse|Vylarian Sea]]. Great rivers rise in the northern mountains and flow south through fertile floodplains that support dense populations and intensive, sophisticated agriculture. The coast is tropical and lush; the interior ranges through jungle, grassland, and arid plateau as one travels inland; the far northern margin rises into temperate hill-country and eventually into the mountain chain that separates Vedyara from the [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazryn]].
 
 The climate is monsoon-driven, with a wet season and a dry season dominating the agricultural and ritual calendars. The coastal ports receive the heaviest rains; the interior plateau is semi-arid; the northern mountains carry snow for part of the year. The great rivers — rising from snowmelt and monsoon runoff in combination — are the region's transport and agricultural lifeblood.
 
@@ -46,13 +46,13 @@ Vedyari society is overwhelmingly human and is organized around an ancient, rigi
 
 The caste system is justified by the doctrine of **rebirth and karma** central to the Varṇaka Pantheon. One's birth into a particular caste is understood as the result of actions in past lives; fulfilling one's caste duties is the path to better rebirth and, eventually, liberation from the cycle. This framework is taken seriously by the overwhelming majority of Vedyari, including members of the lower castes who accept their station as a working-through of prior karma rather than as a mere social imposition. Revolt against the caste system is rare; reform from within the caste system is ongoing.
 
-Despite the apparent rigidity, Vedyari civilization is remarkably intellectually vibrant. Its **mathematicians** developed advanced number systems, algebraic notation, and geometric proofs centuries before the equivalent work appeared in the west; its **astronomers** mapped the night sky with precision unmatched in Ankaris; its **physicians** practice sophisticated herbal medicine, surgery, and diagnostic technique. Its philosophers have produced vast bodies of metaphysical, epistemological, and ethical literature, much of which circulates (in summary form, heavily translated) through the philosophical academies of [[doc-helionis|Heliónis]] and the scholar-houses of [[doc-tanvurempr|Tānvür]].
+Despite the apparent rigidity, Vedyari civilization is remarkably intellectually vibrant. Its **mathematicians** developed advanced number systems, algebraic notation, and geometric proofs centuries before the equivalent work appeared in the west; its **astronomers** mapped the night sky with precision unmatched in Ankaris; its **physicians** practice sophisticated herbal medicine, surgery, and diagnostic technique. Its philosophers have produced vast bodies of metaphysical, epistemological, and ethical literature, much of which circulates (in summary form, heavily translated) through the philosophical academies of [[place-helionis|Heliónis]] and the scholar-houses of [[affiliation-tanvurempr|Tānvür]].
 
 The arts flourish at every level of society. **Classical dance**, **classical music**, **sculpture**, **poetry**, and the elaborate mural-tradition of the temple-complexes are highly developed and highly codified. Religious devotion frequently expresses itself through artistic creation; a sculptor or musician of the highest classical tradition is regarded as a spiritual practitioner of a particular demanding kind.
 
 Vedyari textiles — fine cottons, silks, and the complex brocaded fabrics whose production is the hereditary specialty of specific weaver sub-castes — are prized trade goods across Thalorna. So are Vedyari spices, gemstones, worked ivory, medicinal herbs, and the bronze and iron metalwork of the artisan castes.
 
-Non-human peoples are vanishingly rare. A few [[doc-flksinale|Sinalë]] enclaves are rumored in the deepest northern forests; the [[doc-flkkhazar|Khazári]] are effectively absent from Vedyari records.
+Non-human peoples are vanishingly rare. A few [[lore-flksinale|Sinalë]] enclaves are rumored in the deepest northern forests; the [[lore-flkkhazar|Khazári]] are effectively absent from Vedyari records.
 
 ## Religion
 
@@ -72,17 +72,17 @@ Warfare between Vedyari kingdoms follows elaborate conventions that are simultan
 
 ## Trade
 
-Vedyara's political fragmentation means it has no unified trade policy — individual kingdoms and city-states maintain their own commercial relationships. The coastal polities trade extensively with [[doc-empirtkhpr|Ta'Kheperu]] across the southern seas and, through intermediaries, with the markets of the [[doc-vylarianse|Vylarian Sea]] and [[doc-midhalnrgn|Mídhalión Region]]. The northern kingdoms interact with [[doc-dunharargn|Dunhara]] and the [[doc-khzryndsrtrgn|Khazryn]] through the great caravan routes that cross the northern passes. The eastern kingdoms trade directly with [[doc-tanvuregin|Tānvür]] through the passes and the southern sea routes.
+Vedyara's political fragmentation means it has no unified trade policy — individual kingdoms and city-states maintain their own commercial relationships. The coastal polities trade extensively with [[affiliation-empirtkhpr|Ta'Kheperu]] across the southern seas and, through intermediaries, with the markets of the [[place-vylarianse|Vylarian Sea]] and [[place-midhalnrgn|Mídhalión Region]]. The northern kingdoms interact with [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazryn]] through the great caravan routes that cross the northern passes. The eastern kingdoms trade directly with [[place-tanvuregin|Tānvür]] through the passes and the southern sea routes.
 
 Vedyari exports — silk, spice, gems, incense, medicines, fine textiles, ivory, worked metal, classical manuscripts — flow across half the known world. Very little direct contact exists between Vedyara and the western Aurèldían kingdoms; most Mídhalion dwellers know of Vedyara only through its trade goods, which by the time they reach Aurèldían markets have typically passed through three or four hands of intermediaries and accumulated extraordinary markups.
 
 ## Relations with Neighboring Regions
 
-To the **northwest** lies the [[doc-dunharargn|Dunhara]]. Caravan trade across the desert is ancient and substantial; relations are cautious but workable.
+To the **northwest** lies the [[place-dunharargn|Dunhara]]. Caravan trade across the desert is ancient and substantial; relations are cautious but workable.
 
-To the **north** lies the [[doc-khzryndsrtrgn|Khazryn]] and, through its passes, the far-eastern empires. Trade rather than politics dominates the relationship.
+To the **north** lies the [[place-khzryndsrtrgn|Khazryn]] and, through its passes, the far-eastern empires. Trade rather than politics dominates the relationship.
 
-To the **east** lies [[doc-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
+To the **east** lies [[place-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
 
 To the **southeast**, across the seas, lie lands that the Vedyari know through their own maritime tradition — scattered islands, coastal kingdoms, and ultimately the more distant southern continents.
 
@@ -90,8 +90,8 @@ To the **southeast**, across the seas, lie lands that the Vedyari know through t
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — the cycle-gods
 - [[skill-vedyarlng|Vedyari]] — the language and its classical form
-- [[doc-dunharargn|Dunhara Region]] — northwestern desert neighbor
-- [[doc-khzryndsrtrgn|Khazryn Desert Region]] — northern desert neighbor
-- [[doc-tanvuregin|Tānvür Region]] — eastern scholarly partner
-- [[doc-empirtkhpr|Ta'Kheperu]] — southwestern maritime partner
-- [[doc-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-dunharargn|Dunhara Region]] — northwestern desert neighbor
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — northern desert neighbor
+- [[place-tanvuregin|Tānvür Region]] — eastern scholarly partner
+- [[affiliation-empirtkhpr|Ta'Kheperu]] — southwestern maritime partner
+- [[place-ankrscntnnt|Ankaris Continent]] — parent continent

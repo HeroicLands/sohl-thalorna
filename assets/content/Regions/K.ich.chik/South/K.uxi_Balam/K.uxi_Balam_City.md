@@ -23,4 +23,4 @@ parent:
 
 ## Overview
 
-_To be written._ K'uxi Balam is the central city and seat of the [[doc-kuxibalam|K'uxi Balam]] city-state.
+_To be written._ K'uxi Balam is the central city and seat of the [[affiliation-kuxibalam|K'uxi Balam]] city-state.

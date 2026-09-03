@@ -97,7 +97,7 @@ data:
     - nrdlndsrgn
   population: 900000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -114,7 +114,7 @@ folder: oLeer7axjoeYQHiT
 
 ## Overview
 
-Targud is the easternmost Normen kingdom, bordering the territories of the [[doc-grkrhlmrgn|Grukar]] tribes. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
+Targud is the easternmost Normen kingdom, bordering the territories of the [[place-grkrhlmrgn|Grukar]] tribes. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
 ## Character
 
@@ -126,10 +126,10 @@ Despite the grim reputation, Targud is also the kingdom with the most knowledge 
 
 ## Commerce and Currency
 
-Kingdom of Targud uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[doc-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[doc-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[doc-grkrhlmrgn|Grukarholm Region]] — Eastern enemy
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmnrgd|Kingdom of Norgaad]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
+- [[place-grkrhlmrgn|Grukarholm Region]] — Eastern enemy
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon

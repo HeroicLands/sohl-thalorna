@@ -21,4 +21,4 @@ parent:
 
 ## Overview
 
-_To be written._ Grukarholm is the capital and principal settlement of [[doc-grukarholm|Grukarhölm]].
+_To be written._ Grukarholm is the capital and principal settlement of [[affiliation-grukarholm|Grukarhölm]].

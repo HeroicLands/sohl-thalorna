@@ -23,7 +23,7 @@ peoples:
 folder: CoHsV0UM8KUX7ytU
 ---
 
-The Northern Fertile Region is the productive belt stretching along the southern shore of the [[doc-vylarianse|Vylarian Sea]] — the face that [[doc-xerathia|Xerathia]] shows to [[doc-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on Thalorna: the [[doc-mtrrchybth|Matriarchy of Bethua]] to the west, [[doc-empirtkhpr|Ta'Kheperu]] anchored along its great river, and [[doc-okharis|Okháris]] to the south where the irrigated country gives way to savanna.
+The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]] — the face that [[place-xerathia|Xerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on Thalorna: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] to the west, [[affiliation-empirtkhpr|Ta'Kheperu]] anchored along its great river, and [[affiliation-okharis|Okháris]] to the south where the irrigated country gives way to savanna.
 
 "Fertile" is an outsider's label, and it requires qualification. Only the coastal strip and the Kheperi river valley are naturally productive; the rest of the region is semi-arid and depends on some combination of hydraulic engineering, pastoral adaptation, or both. What the three civilizations share is not effortless abundance but an extraordinary competence at extracting that abundance from terrain that would, without their labor, support only sparse populations. This shared civilizational project — different in technique in each of the three polities, but common in ambition — is what makes the region a coherent subject of study rather than three unrelated states.
 
@@ -37,7 +37,7 @@ The **coastal strip** along the Vylarian Sea is wet-coastal — citrus, grape, o
 
 The **great river valley of Ta'Kheperu** is the region's exception and its crowning agricultural prize — a band of almost-tropical abundance running hundreds of leagues south from the delta, fed by an annual flood that deposits rich black silt across the floodplains each year. The valley is lush to the point that hippopotami and crocodiles thrive in its warm water and the climate of the lower river is distinctly different from the drier uplands even a day's ride away. No comparable river exists in Bethua or Okháris; the valley is Ta'Kheperu's singular inheritance.
 
-The **southern margin** of the region belongs to Okháris, where the land shades out of the irrigated zone entirely into true semi-arid savanna. Here agriculture yields to pastoralism, the fixed cities thin out until only three remain (Zarhánis, Kaljékor, and Vuthráka), and the open grasslands roll south until they meet the wall of the [[doc-cntrlrnfrsts|Central Rainforests]]. Beyond that margin no northern civilization has ever established lasting presence.
+The **southern margin** of the region belongs to Okháris, where the land shades out of the irrigated zone entirely into true semi-arid savanna. Here agriculture yields to pastoralism, the fixed cities thin out until only three remain (Zarhánis, Kaljékor, and Vuthráka), and the open grasslands roll south until they meet the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. Beyond that margin no northern civilization has ever established lasting presence.
 
 ## Peoples and Culture
 
@@ -45,7 +45,7 @@ The three constituent polities are culturally distinct, united more by shared ge
 
 **Kheperi** — the river-valley civilization, organized around the [[affiliation-kemtnpnthn|Kemetian Pantheon]] and the divine office of the Per-Aá. Urban, literate, hierarchical, pleasure-loving, obsessed with death-as-renewal, governed by a vast scribal bureaucracy beneath a theocratic crown. The Kheperi see themselves as the eldest and central people of the region, and their cultural gravity has shaped their neighbors for millennia.
 
-**Bethuan** — the matriarchal society of the western coast and its engineered interior, culturally connected across the Vylarian Sea to [[doc-helionis|Heliónis]] through ancient Pelwar-linked linguistic roots. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
+**Bethuan** — the matriarchal society of the western coast and its engineered interior, culturally connected across the Vylarian Sea to [[place-helionis|Heliónis]] through ancient Pelwar-linked linguistic roots. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
 
 **Okháric** — the pastoral-nomadic peoples of the southern savanna, organized around the three-flame cosmology of [[affiliation-nkaruthar|Nkaru'thar]] and the urban-rural compact of the Three-Flame Settlement. Where the Kheperi and Bethuans built around water, the Okhárics built around the herds. Their three temple-cities — Zarhánis, Kaljékor, and Vuthráka — are religious, trade, and diplomatic anchors in a country whose ordinary population is on the move with their cattle for most of the year.
 
@@ -73,26 +73,26 @@ The three states trade extensively, intermarry at the elite level selectively, a
 
 ## Trade
 
-The Northern Fertile Region is the principal southern endpoint of the great trans-Vylarian trade system. Kheperi grain, gold, papyrus, linen, and artisan goods flow north to [[doc-cnfdrtnhrdnstts|Harad]], [[doc-vylarinmpr|Vylaria]], and [[doc-helionis|Heliónis]]. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okháric cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Kheperi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
+The Northern Fertile Region is the principal southern endpoint of the great trans-Vylarian trade system. Kheperi grain, gold, papyrus, linen, and artisan goods flow north to [[affiliation-cnfdrtnhrdnstts|Harad]], [[affiliation-vylarinmpr|Vylaria]], and [[place-helionis|Heliónis]]. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okháric cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Kheperi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
 
 Within the region, the three polities operate an intricate overlapping network of internal trade — Bethuan wine and olive oil in Kheperi markets, Kheperi grain in Okháric temple-cities, Okháric horses in Bethuan cavalry stables, and so on — with long-established merchant houses in each capital specializing in the handling of goods from the others.
 
 ## Relations with Neighboring Regions
 
-To the **north**, across the Vylarian Sea, lies the [[doc-midhalnrgn|Mídhalión trade zone]], which the region shares with Ankaris. The Kheperi and Bethuan ports are fully integrated into this trade system; Okháris participates indirectly through its northern neighbors.
+To the **north**, across the Vylarian Sea, lies the [[place-midhalnrgn|Mídhalión trade zone]], which the region shares with Ankaris. The Kheperi and Bethuan ports are fully integrated into this trade system; Okháris participates indirectly through its northern neighbors.
 
-To the **south** lies the [[doc-cntrlrnfrsts|Central Rainforests]], whose tribes trade cautiously with the region through ritualized intermediaries. Kheperi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okháric herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
+To the **south** lies the [[place-cntrlrnfrsts|Central Rainforests]], whose tribes trade cautiously with the region through ritualized intermediaries. Kheperi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okháric herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
 
-Far to the **south** — beyond the Central Rainforests, across an expanse none of the three regional civilizations has meaningfully explored — lie the [[doc-sthrnsvnhs|Southern Savannahs]]. The region's knowledge of the deep south is filtered through the rainforest peoples who trade, intermittently, with savannah herders; no northern power has ever sent an expedition to the southern savanna that returned with reliable reports.
+Far to the **south** — beyond the Central Rainforests, across an expanse none of the three regional civilizations has meaningfully explored — lie the [[place-sthrnsvnhs|Southern Savannahs]]. The region's knowledge of the deep south is filtered through the rainforest peoples who trade, intermittently, with savannah herders; no northern power has ever sent an expedition to the southern savanna that returned with reliable reports.
 
 ## See Also
 
-- [[doc-xerathia|Xerathia Continent]] — parent continent
-- [[doc-mtrrchybth|Matriarchy of Bethua]] — western polity
-- [[doc-empirtkhpr|Ta'Kheperu]] — central empire
-- [[doc-okharis|Okháris]] — southern pastoral kingdom
-- [[doc-cntrlrnfrsts|Central Rainforests]] — southern boundary
-- [[doc-vylarianse|Vylarian Sea]] — northern coast
+- [[place-xerathia|Xerathia Continent]] — parent continent
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]] — western polity
+- [[affiliation-empirtkhpr|Ta'Kheperu]] — central empire
+- [[affiliation-okharis|Okháris]] — southern pastoral kingdom
+- [[place-cntrlrnfrsts|Central Rainforests]] — southern boundary
+- [[place-vylarianse|Vylarian Sea]] — northern coast
 - [[affiliation-kemtnpnthn|Kemetian Pantheon]] — Kheperi religion
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Bethuan religion
 - [[affiliation-nkaruthar|Nkaru'thar]] — Okháric religion

@@ -88,7 +88,7 @@ data:
     - haradregin
   population: 3000000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - lore-hardncrncy
@@ -102,7 +102,7 @@ folder: umL4KFGO3MD4u9X1
 
 ## Overview
 
-Tamavar is the largest and wealthiest city in the [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — the de facto capital, though the Confederation's constitution grants no city that formal status. The Grand Council meets here, the Arch-Consul's residence is here, and the headquarters of the most powerful merchant guilds line its harbor. If Harad has a beating heart, Tamavar is it.
+Tamavar is the largest and wealthiest city in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — the de facto capital, though the Confederation's constitution grants no city that formal status. The Grand Council meets here, the Arch-Consul's residence is here, and the headquarters of the most powerful merchant guilds line its harbor. If Harad has a beating heart, Tamavar is it.
 
 ## Character
 
@@ -110,7 +110,7 @@ Tamavar is a city of staggering contrasts. The guild quarter along the great har
 
 The city's politics are dominated by the three great guilds — the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]], and the [[affiliation-mrchntryvl|Merchantry of the Veil]] — whose representatives effectively control the Grand Council. The city's official government, a Council of Elders elected by property-owning citizens, serves largely at the guilds' pleasure.
 
-Tamavar's harbor is the finest on the [[doc-vylarianse|Vylarian Sea]] — a deep natural bay protected by breakwaters and fortified islands, capable of sheltering hundreds of vessels. The naval yards on the harbor's northern arm produce warships and merchantmen; the southern arm is given over to the fishing fleet and smaller traders.
+Tamavar's harbor is the finest on the [[place-vylarianse|Vylarian Sea]] — a deep natural bay protected by breakwaters and fortified islands, capable of sheltering hundreds of vessels. The naval yards on the harbor's northern arm produce warships and merchantmen; the southern arm is given over to the fishing fleet and smaller traders.
 
 ## Notable Features
 
@@ -121,10 +121,10 @@ Tamavar's harbor is the finest on the [[doc-vylarianse|Vylarian Sea]] — a deep
 
 ## Commerce and Currency
 
-Tamavar uses the [[doc-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[doc-hardncrncy|Haradian Currency]] for the full system.
+Tamavar uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]] — Major guilds
-- [[doc-kethara|Kethara]], [[doc-varoshan|Varoshan]], [[doc-ashkabel|Ashkabel]] — Sister city-states
+- [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states

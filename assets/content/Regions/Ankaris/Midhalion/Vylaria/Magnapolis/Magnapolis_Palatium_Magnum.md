@@ -31,7 +31,7 @@ folder:
 
 # Palatium Magnum — The Grand Palace
 
-Rising above everything else within [[doc-urbsaquiln|Urbs Aquilion]], over the crown of **Mons Aquila**, stands the **Palatium Magnum** — the largest and grandest single structure in [[doc-magnapolis|Magnápolis]], and therefore in all the known western world. To call it a building flatters the word. It is less a palace than a small city of its own: tier upon tier of marble halls, colonnaded courtyards, hanging gardens, private baths, throne rooms, and audience chambers, climbing in terraces up and over the hill until the whole summit seems carved into one continuous work of architecture. From the city below, the eye cannot tell where the living rock of the Eagle Hill ends and the masonry of the palace begins.
+Rising above everything else within [[place-urbsaquiln|Urbs Aquilion]], over the crown of **Mons Aquila**, stands the **Palatium Magnum** — the largest and grandest single structure in [[place-magnapolis|Magnápolis]], and therefore in all the known western world. To call it a building flatters the word. It is less a palace than a small city of its own: tier upon tier of marble halls, colonnaded courtyards, hanging gardens, private baths, throne rooms, and audience chambers, climbing in terraces up and over the hill until the whole summit seems carved into one continuous work of architecture. From the city below, the eye cannot tell where the living rock of the Eagle Hill ends and the masonry of the palace begins.
 
 ## The Fabric
 
@@ -41,7 +41,7 @@ The palace turns its splendor outward by design. An embassy received here, a pet
 
 ## The Hand of the Ordo Arcanis
 
-The Palatium is the one place in the Empire where the [[affiliation-ordoarcanis|Ordo Arcanis]] is permitted — _encouraged_, even — to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **Mechanical Court** — the [[Magnapolis_Grand_Orrery|Grand Orrery]] — and the standing displays of the Hand of the Ordo Arcanis, devices and effects that visiting envoys carry home as evidence that Vylaria's power is not merely of legions and gold. (See the [[doc-magnapolis|Magnápolis]] note for the Mechanical Court and the Hand of the Ordo.) That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill — the warded inner seat of the [[doc-aulpnpstmm|Aula Panepistemium]] sharing the same crown, its brilliance and the Panepistemium's secrecy two faces of one arrangement.
+The Palatium is the one place in the Empire where the [[affiliation-ordoarcanis|Ordo Arcanis]] is permitted — _encouraged_, even — to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **Mechanical Court** — the [[Magnapolis_Grand_Orrery|Grand Orrery]] — and the standing displays of the Hand of the Ordo Arcanis, devices and effects that visiting envoys carry home as evidence that Vylaria's power is not merely of legions and gold. (See the [[place-magnapolis|Magnápolis]] note for the Mechanical Court and the Hand of the Ordo.) That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill — the warded inner seat of the [[place-aulpnpstmm|Aula Panepistemium]] sharing the same crown, its brilliance and the Panepistemium's secrecy two faces of one arrangement.
 
 ## A Hill Within a Hill
 
@@ -49,8 +49,8 @@ For all that it is the Augustar's residence, the Palatium is also an instrument 
 
 ## See Also
 
-- [[doc-urbsaquiln|Urbs Aquilion]] — the Inner City crowned by the palace
-- [[doc-magnapolis|Magnápolis]] — and the Mechanical Court / Hand of the Ordo
+- [[place-urbsaquiln|Urbs Aquilion]] — the Inner City crowned by the palace
+- [[place-magnapolis|Magnápolis]] — and the Mechanical Court / Hand of the Ordo
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — permitted to display its marvels here
-- [[affiliation-pratrgstrm|The Praetar Augustarum]] — the imperial guard who keep the palace · [[doc-castraprtr|Castra Praetoria]]
-- [[doc-aulpnpstmm|Aula Panepistemium]] — the Panepistemium's inner seat, sharing the hill
+- [[affiliation-pratrgstrm|The Praetar Augustarum]] — the imperial guard who keep the palace · [[place-castraprtr|Castra Praetoria]]
+- [[place-aulpnpstmm|Aula Panepistemium]] — the Panepistemium's inner seat, sharing the hill

@@ -93,7 +93,7 @@ thalorna:
 folder: cFyVbOx7bj35ZyPA
 ---
 
-"Baldr" is the Asguardian name for [[doc-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Æthería]].
+"Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Æthería]].
 
 Among northern humans, the Faith of Baldr draws worshippers primarily through the deity's dream aspect — the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Baldr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
 
@@ -116,7 +116,7 @@ Baldr is often depicted with an aura of radiant light, serene and filled with bo
 
 ## Clergy
 
-Human adherents of Baldr have adopted the Sinalëan clergy structure — the only Asguardian faith to do so. See [[doc-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
+Human adherents of Baldr have adopted the Sinalëan clergy structure — the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
 
 **Key Skills:** Dream interpretation, Archery, Survival, Tracking, Trance, Communication with elder races, Prophecy
 

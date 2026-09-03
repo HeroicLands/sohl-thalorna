@@ -26,4 +26,4 @@ shortcode: cntrlkchchk
 
 ## Overview
 
-_To be written._ The centralern subdivision of the [[doc-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Balamkul, K'ankul, Ki'ik Ba'ate, Tz'ikin.
+_To be written._ The centralern subdivision of the [[place-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Balamkul, K'ankul, Ki'ik Ba'ate, Tz'ikin.

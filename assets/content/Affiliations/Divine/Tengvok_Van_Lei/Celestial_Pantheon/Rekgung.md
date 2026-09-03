@@ -124,5 +124,5 @@ The appearance of a lightning strike is understood not as divine judgment but as
 ## See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy
-- [[doc-clstlpnthn|Celestial Pantheon]] — Other celestial officials
-- [[doc-tanvurempr|Empire of Tānvür]] — The mortal realm subject to weather allocation
+- [[lore-clstlpnthn|Celestial Pantheon]] — Other celestial officials
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The mortal realm subject to weather allocation

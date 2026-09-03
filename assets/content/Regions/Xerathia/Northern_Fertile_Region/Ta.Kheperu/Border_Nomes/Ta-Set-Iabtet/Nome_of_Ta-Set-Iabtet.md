@@ -94,7 +94,7 @@ data:
     - takheperurgn
   population: 350000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
@@ -109,7 +109,7 @@ folder: G7beOi7xbLclZh5f
 
 ## Overview
 
-Ta-Set-Iabtet — "the Land of the Eastern Hills" — is the great mining march of [[doc-empirtkhpr|The Empire of Ta'Kheperu]], a rugged border nome where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from. It is a [[doc-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
+Ta-Set-Iabtet — "the Land of the Eastern Hills" — is the great mining march of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], a rugged border nome where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from. It is a [[affiliation-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
 
 ## Character
 
@@ -129,7 +129,7 @@ Mining and quarrying are the whole of it. The nome's gold and copper feed the em
 
 ## Settlements
 
-- **[[doc-bakhu|Bakhu]]** (~22,000) — the nome capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Haty'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Ptā'h the smith.
+- **[[place-bakhu|Bakhu]]** (~22,000) — the nome capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Haty'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Ptā'h the smith.
 - **The mine-and-quarry camps:** scattered through the hills and desert are mining settlements, smelter-towns, and quarry-camps of 500–4,000 — among them Bia-Resu (the copper diggings), Mefkat (the turquoise camps), Inr-Hedj (the white-stone quarry), and the convict-station of Kheset — each clustered around its diggings and its guard-fort, supplied by water-caravan from the river.
 
 ## For the Worldbuilder
@@ -138,12 +138,12 @@ Ta-Set-Iabtet is the empire's strongbox and its anvil — run it as a hard front
 
 ## Commerce and Currency
 
-Ta-Set-Iabtet uses the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and as the source of much of the empire's gold and copper it sits at the very head of the coined economy — yet its own daily life runs on garrison-pay and rationed supply rather than open markets. The assay-house at [[doc-bakhu|Bakhu]] weighs and seals the crown's metal, and [[affiliation-perhati|Pér-Háti]] agents travel with the gold-convoys. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Ta-Set-Iabtet uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and as the source of much of the empire's gold and copper it sits at the very head of the coined economy — yet its own daily life runs on garrison-pay and rationed supply rather than open markets. The assay-house at [[place-bakhu|Bakhu]] weighs and seals the crown's metal, and [[affiliation-perhati|Pér-Háti]] agents travel with the gold-convoys. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-bordernoms|The Border Nomes]] — Parent nome-class
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[doc-bakhu|Bakhu]] — Nome capital
+- [[affiliation-bordernoms|The Border Nomes]] — Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[place-bakhu|Bakhu]] — Nome capital
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Ptā'h)
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries

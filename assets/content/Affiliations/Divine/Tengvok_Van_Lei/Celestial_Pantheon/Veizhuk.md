@@ -119,5 +119,5 @@ This is the closest thing the celestial order offers to justice: not fairness, b
 ## See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy
-- [[doc-clstlpnthn|Celestial Pantheon]] — Other celestial officials
-- [[doc-tanvurempr|Empire of Tānvür]] — The mortal realm organized in Vëizhük's image
+- [[lore-clstlpnthn|Celestial Pantheon]] — Other celestial officials
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The mortal realm organized in Vëizhük's image

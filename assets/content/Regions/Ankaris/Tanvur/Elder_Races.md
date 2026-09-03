@@ -13,15 +13,15 @@ folder: jV7c6dJp4Ztnjtb3
 
 # Elder Races in Tānvür
 
-Part of the [[doc-tanvurempr|Empire of Tānvür]] world-building.
+Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
-In the Empire of Tānvür, the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] occupy a unique position within the classification system. Unlike [[doc-castelaws|foreigners]], who exist outside the cosmic order entirely, the Elder Races are _classified_ — absorbed into the caste system based on their functional roles within the empire. But the fit is imperfect: the classification system was designed for humans, and the Elder Races predate it by millennia. They accept their assigned castes pragmatically when operating within the empire, while maintaining their own traditions and self-understanding within their enclaves. See [[doc-castelaws|The Elder Races and the Classification System]] for the cosmological and legal framework of this classification.
+In the Empire of Tānvür, the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] occupy a unique position within the classification system. Unlike [[lore-castelaws|foreigners]], who exist outside the cosmic order entirely, the Elder Races are _classified_ — absorbed into the caste system based on their functional roles within the empire. But the fit is imperfect: the classification system was designed for humans, and the Elder Races predate it by millennia. They accept their assigned castes pragmatically when operating within the empire, while maintaining their own traditions and self-understanding within their enclaves. See [[lore-castelaws|The Elder Races and the Classification System]] for the cosmological and legal framework of this classification.
 
 ---
 
 ## Functional Caste Classification
 
-The empire classifies the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]] within its caste system based on the functions they perform — not based on the cosmological reasoning that underlies the human castes. The classifications are administratively real (Elder Race members are subject to the rights and restrictions of their assigned caste) but cosmologically incomplete: the system can categorize them but cannot fully explain their magic or their relationship to the cosmic order. The elder races are placed within certain castes based on their roles and contributions:
+The empire classifies the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within its caste system based on the functions they perform — not based on the cosmological reasoning that underlies the human castes. The classifications are administratively real (Elder Race members are subject to the rights and restrictions of their assigned caste) but cosmologically incomplete: the system can categorize them but cannot fully explain their magic or their relationship to the cosmic order. The elder races are placed within certain castes based on their roles and contributions:
 
 ### Zāthük (Artisans and Merchants)
 
@@ -69,7 +69,7 @@ While the elder races are integrated into the empire's caste system, their cultu
 
 ### Xenophobia and Distrust
 
-**Humans:** The empire's human population, particularly the ruling class, is wary of the [[doc-flksinale|Sinalë]] and [[doc-flkkhazar|Khazári]], fearing their potential to disrupt the human-dominated order. This wariness manifests as xenophobia, with laws and customs subtly (and sometimes overtly) designed to limit the power and influence of the Sinalë and Khazári within the empire.
+**Humans:** The empire's human population, particularly the ruling class, is wary of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], fearing their potential to disrupt the human-dominated order. This wariness manifests as xenophobia, with laws and customs subtly (and sometimes overtly) designed to limit the power and influence of the Sinalë and Khazári within the empire.
 
 **Elder Races:** For their part, the Sinalë and Khazári are cautious in their dealings with humans, aware that they are guests in an empire that could turn against them if threatened. They tend to keep to themselves, preserving their own cultures while participating in the empire's affairs only as much as necessary.
 

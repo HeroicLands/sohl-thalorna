@@ -21,11 +21,11 @@ folder: drAoDoNnFEygATeK
 
 # Eshálosha Lodge
 
-**Controlled by:** [[doc-aelendnppl|Áelendan]]
+**Controlled by:** [[lore-aelendnppl|Áelendan]]
 
 ## Overview
 
-**Eshálosha Lodge** is the principal settlement of the [[doc-aelendnppl|Áelendan]] — a ceremonial, political, and residential center tucked into a sheltered valley within the [[doc-drenavrspn|Drenavar Spine]]. It is not a city in the Élavendri sense, nor a fortress in the lowland sense. It is something older and harder to describe: a permanent gathering place that has been continuously inhabited and maintained since the earliest Pelwar settlement of the interior, and that serves as the center of Áelendan collective life.
+**Eshálosha Lodge** is the principal settlement of the [[lore-aelendnppl|Áelendan]] — a ceremonial, political, and residential center tucked into a sheltered valley within the [[place-drenavrspn|Drenavar Spine]]. It is not a city in the Élavendri sense, nor a fortress in the lowland sense. It is something older and harder to describe: a permanent gathering place that has been continuously inhabited and maintained since the earliest Pelwar settlement of the interior, and that serves as the center of Áelendan collective life.
 
 ## Character
 
@@ -55,8 +55,8 @@ No Élavendren monarch has ever set foot in Eshálosha without Áelendan invitat
 
 ## See Also
 
-- [[doc-aelendnppl|Áelendan]] — The people whose center the Lodge is
-- [[doc-drenavrspn|Drenavar Spine]] — The range in which the Lodge lies
+- [[lore-aelendnppl|Áelendan]] — The people whose center the Lodge is
+- [[place-drenavrspn|Drenavar Spine]] — The range in which the Lodge lies
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the approaches
-- [[doc-elavendre|Élavendre]] — The kingdom whose territory formally contains the Lodge
-- [[doc-silvrfrsts|Silver Forests]] — Nearby sacred woodland
+- [[place-elavendre|Élavendre]] — The kingdom whose territory formally contains the Lodge
+- [[place-silvrfrsts|Silver Forests]] — Nearby sacred woodland

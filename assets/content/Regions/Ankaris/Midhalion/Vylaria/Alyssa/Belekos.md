@@ -34,6 +34,6 @@ Belekos has begun to feel the weight of empire's decline, but differently than p
 
 ## See Also
 
-- [[doc-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
 - [[skill-vylarilng|Vylari]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

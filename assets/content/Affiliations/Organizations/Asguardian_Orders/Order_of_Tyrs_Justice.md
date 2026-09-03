@@ -100,7 +100,7 @@ _Old Norse: Týrshönd — "The Hand of Týr"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-tyr|Týr]] — Asguardian god of law, oath, and just war
-- **Region:** [[doc-nrdlndsrgn|The Nordlands]] — chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
 
 ## Overview
 

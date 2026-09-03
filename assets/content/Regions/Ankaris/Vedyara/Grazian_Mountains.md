@@ -24,18 +24,18 @@ folder: q61mqomRaSzUNfrY
 # The Grazian Mountains
 
 - **Type:** Great mountain range
-- **Region:** Border between [[doc-vedyarargn|Vedyara]] and the [[doc-khzryndsrtrgn|Khazryn Desert]]
+- **Region:** Border between [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn Desert]]
 - **Controlled by:** Effectively no one — the range is too high, too cold, and too remote for sustained occupation by any of the surrounding peoples.
 
 ## Overview
 
-The **Grazian Mountains** are the great mountain wall that separates the [[doc-vedyarargn|Vedyari subcontinent]] from the [[doc-khzryndsrtrgn|Khazryn Desert]] to the north and west, and from the western marches of [[doc-tanvurempr|Tānvür]] to the east. By every honest reckoning they are the highest mountains on Thalorna — peaks that catch the dawn an hour before the lowlands beneath them, glaciers that have ground their valleys into the same shape since before the [[doc-flksinale|Sinalë]] arrived on the world, snowfields whose meltwater feeds half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases. Vedyari geographers call them the **Grazians** in formal scholarship, the **Grazian Wall** in poetry, and (in the local dialect of the foothill janapadas) by a dozen older names, each of which long predates the classical Vedyari tongue and none of which translates cleanly.
+The **Grazian Mountains** are the great mountain wall that separates the [[place-vedyarargn|Vedyari subcontinent]] from the [[place-khzryndsrtrgn|Khazryn Desert]] to the north and west, and from the western marches of [[affiliation-tanvurempr|Tānvür]] to the east. By every honest reckoning they are the highest mountains on Thalorna — peaks that catch the dawn an hour before the lowlands beneath them, glaciers that have ground their valleys into the same shape since before the [[lore-flksinale|Sinalë]] arrived on the world, snowfields whose meltwater feeds half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases. Vedyari geographers call them the **Grazians** in formal scholarship, the **Grazian Wall** in poetry, and (in the local dialect of the foothill janapadas) by a dozen older names, each of which long predates the classical Vedyari tongue and none of which translates cleanly.
 
 The Grazian range is effectively impassable to organized travel for ten months of the year. The handful of high-altitude passes that exist are open only briefly in late summer, are dangerous even then, and are known in detail by a small population of mountain peoples whose livelihood is to guide caravans across them. The trans-Grazian trade that _does_ cross — silk and porcelain from Tānvür, gold and gems from Vedyara, horses and silver from the Khazryn — moves in small, expensive shipments under the protection of these guides. The volume is small; the value is enormous; the markup is staggering.
 
 ## Geography
 
-The Grazian range forms a great curving arc that begins in the high northern country east of [[doc-tanvurempr|Tānvür]]'s western frontier, sweeps south and west across the entire northern margin of [[doc-vedyarargn|Vedyara]], and finally curves north again to enclose the southwestern corner of the [[doc-khzryndsrtrgn|Khazryn Desert]] — the country of the [[doc-khzrncnfdrtn|Khazryn]] and the [[doc-tribestrzd|Ātárzád]]. The arc is roughly two thousand miles long and, at its widest, more than three hundred miles deep.
+The Grazian range forms a great curving arc that begins in the high northern country east of [[affiliation-tanvurempr|Tānvür]]'s western frontier, sweeps south and west across the entire northern margin of [[place-vedyarargn|Vedyara]], and finally curves north again to enclose the southwestern corner of the [[place-khzryndsrtrgn|Khazryn Desert]] — the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Ātárzád]]. The arc is roughly two thousand miles long and, at its widest, more than three hundred miles deep.
 
 Three principal sub-ranges are recognized by Vedyari and Khazri scholarship:
 
@@ -63,17 +63,17 @@ The Grazian range is religiously charged in every direction.
 
 ## Trade
 
-The trans-Grazian trade is the principal economic significance of the range to the lowland civilizations. Three to four caravans per year (per route — there are perhaps half a dozen viable routes across the entire arc) cross the high passes in the favorable late-summer window. The goods are by overwhelming volume the high-value, low-weight specialties: silk and porcelain west; gold and gems east; specialty medicines, manuscripts, and certain ritual goods both ways. The trans-Grazian guides take roughly half the value as their fee. The caravan organizers — typically Vedyari merchant houses based in [[doc-chandrapur|Chandrapur]] or one of the foothill janapadas — take the other half. The actual cargo owners get the privilege of having moved goods across the highest mountains on the world.
+The trans-Grazian trade is the principal economic significance of the range to the lowland civilizations. Three to four caravans per year (per route — there are perhaps half a dozen viable routes across the entire arc) cross the high passes in the favorable late-summer window. The goods are by overwhelming volume the high-value, low-weight specialties: silk and porcelain west; gold and gems east; specialty medicines, manuscripts, and certain ritual goods both ways. The trans-Grazian guides take roughly half the value as their fee. The caravan organizers — typically Vedyari merchant houses based in [[affiliation-chandrapur|Chandrapur]] or one of the foothill janapadas — take the other half. The actual cargo owners get the privilege of having moved goods across the highest mountains on the world.
 
 ## Note on the Drenavar Confusion
 
-Vedyari and Khazri folk-tradition occasionally conflates the Grazian Mountains with the **[[doc-drenavrspn|Drenavar Spine]]** of Élavendre, a range half a continent away in the western Aurèldían world. The two share no geological connection, no cultural connection, and no shared mythology — but the Khazryn name for the Northwestern Arc and the Áelendan name for the Drenavar are similar enough that travelers occasionally mistake one for the other in stories. Scholars know better. The two ranges are entirely separate.
+Vedyari and Khazri folk-tradition occasionally conflates the Grazian Mountains with the **[[place-drenavrspn|Drenavar Spine]]** of Élavendre, a range half a continent away in the western Aurèldían world. The two share no geological connection, no cultural connection, and no shared mythology — but the Khazryn name for the Northwestern Arc and the Áelendan name for the Drenavar are similar enough that travelers occasionally mistake one for the other in stories. Scholars know better. The two ranges are entirely separate.
 
 ## See Also
 
-- [[doc-vedyarargn|Vedyara]] — Southern lowlands, fed by Grazian rivers
-- [[doc-khzryndsrtrgn|Khazryn Desert]] — Northwestern lowlands, fed by Grazian springs
-- [[doc-khzrncnfdrtn|Khazryn Confederation]] — Indigenous Khazryn peoples whose origin is traced to the Northwestern Arc
-- [[doc-tanvurempr|Empire of Tānvür]] — Eastern empire across the Eastern Reach
-- [[doc-drenavrspn|The Drenavar Spine]] — Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)
-- [[doc-ankrscntnnt|Ankaris Continent]] — Parent continent
+- [[place-vedyarargn|Vedyara]] — Southern lowlands, fed by Grazian rivers
+- [[place-khzryndsrtrgn|Khazryn Desert]] — Northwestern lowlands, fed by Grazian springs
+- [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — Indigenous Khazryn peoples whose origin is traced to the Northwestern Arc
+- [[affiliation-tanvurempr|Empire of Tānvür]] — Eastern empire across the Eastern Reach
+- [[place-drenavrspn|The Drenavar Spine]] — Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)
+- [[place-ankrscntnnt|Ankaris Continent]] — Parent continent

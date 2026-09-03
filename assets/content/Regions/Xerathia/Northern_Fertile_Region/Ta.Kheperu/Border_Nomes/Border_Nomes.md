@@ -93,7 +93,7 @@ data:
     - takheperurgn
   population: 2500000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-perhati
     - lore-tkhprcrncy
@@ -108,11 +108,11 @@ folder: sjT6pv0uEmMUji53
 
 ## Overview
 
-Beyond the green ribbon of the river valley, [[doc-empirtkhpr|The Empire of Ta'Kheperu]] shades into harder country: the southern **cataracts** where the river breaks into rapids and the tribal lands begin; the **eastern hills**, rugged and mineral-rich; and the **western steppe-edge**, where Kheperi irrigation gives out and the nomad pastures begin. The ten **Border Nomes** hold these margins. They are the empire's thinnest-peopled and roughest provinces, their nomarchs functioning less as landlords than as military governors, and their chief export is not grain or gold but hardened soldiers.
+Beyond the green ribbon of the river valley, [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] shades into harder country: the southern **cataracts** where the river breaks into rapids and the tribal lands begin; the **eastern hills**, rugged and mineral-rich; and the **western steppe-edge**, where Kheperi irrigation gives out and the nomad pastures begin. The ten **Border Nomes** hold these margins. They are the empire's thinnest-peopled and roughest provinces, their nomarchs functioning less as landlords than as military governors, and their chief export is not grain or gold but hardened soldiers.
 
 ## Character
 
-A border posting is a hard one, and everyone in the empire knows it. The frontier Haty'a are soldiers first, hereditary aristocrats second; they command garrisons, man fortress-lines, escort caravans, and answer raids, and their authority rests on the troops they keep rather than the temples they fund. The empire's military focus is defensive, and it is on these marches that the defending is done — against [[doc-cnfdrtnhrdnstts|Haradian]]-armed steppe raiders in the west, against the southern tribes beyond the cataracts whose loyalty ranges from nominal vassalage to open war, and against desert raiders in the east. The chariot corps drills here in earnest, and the empire's best officers cut their teeth on the frontier before rising to commands in the heartland.
+A border posting is a hard one, and everyone in the empire knows it. The frontier Haty'a are soldiers first, hereditary aristocrats second; they command garrisons, man fortress-lines, escort caravans, and answer raids, and their authority rests on the troops they keep rather than the temples they fund. The empire's military focus is defensive, and it is on these marches that the defending is done — against [[affiliation-cnfdrtnhrdnstts|Haradian]]-armed steppe raiders in the west, against the southern tribes beyond the cataracts whose loyalty ranges from nominal vassalage to open war, and against desert raiders in the east. The chariot corps drills here in earnest, and the empire's best officers cut their teeth on the frontier before rising to commands in the heartland.
 
 The border nomes are also the empire's mineral source. The eastern hills give gold, copper, turquoise, and fine stone; the southern marches control the gold-road that brings tribute and trade up from the deep south; the western steppe-edge raises horses and herds. Frontier society is rougher, more mixed, and more devout in a soldier's way than the valley — the cult of **Mentu**, the war-god, is strong here, where the valley prefers the gentler gods.
 
@@ -130,20 +130,20 @@ Mining, herding, garrison-supply, and the caravan trade drive the border economy
 
 ## The Nomes
 
-Ten nomes make up the border class, each under its hereditary [[doc-empirtkhpr#Titles and Forms of Address|Haty'a]] in their capacity as military governor. Two are treated at length in their own notes; the remaining eight are rostered here.
+Ten nomes make up the border class, each under its hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] in their capacity as military governor. Two are treated at length in their own notes; the remaining eight are rostered here.
 
-| Nome                                      | Seat                 | Patron                            | Population | Character                                                                                       |
-| ----------------------------------------- | -------------------- | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
-| \*\*[[doc-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[doc-bakhu\|Bakhu]] | [[affiliation-kemtnpnthn\|Ptā'h]] | ~350,000   | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
-| \*\*[[doc-nometarshk\|Ta-Resu-Heka]]\*\*  | [[doc-behen\|Behen]] | Mentu (war-god)                   | ~320,000   | The great southern march; the cataract fortress-line and the gateway to the tribal lands        |
-| Khent-Hen-Nefer                           | Khent-Hen            | Mentu                             | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings                 |
-| Wawat                                     | Wawat                | [[affiliation-kemtnpnthn\|Ptā'h]] | ~260,000   | The southern gold-road; mines, caravan-stations, and tribute-collection                         |
-| Per-Mentu                                 | Per-Mentu            | Mentu                             | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools                       |
-| Ta-Mentu                                  | Sile                 | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The western steppe-edge; horse-pasture and the watch against nomad raiders                      |
-| Khaset-Imnt                               | Khaset               | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
-| Iabet-Heqa                                | Iabet-Heqa           | Sobek (crocodile-god)             | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome                           |
-| Senmut                                    | Senmut               | [[affiliation-kemtnpnthn\|Sēker]] | ~200,000   | A river-island fortress-nome at the second cataract; gateway and toll-gate                      |
-| Behdet-Resu                               | Behdet               | Mentu                             | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
+| Nome                                              | Seat                   | Patron                            | Population | Character                                                                                       |
+| ------------------------------------------------- | ---------------------- | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
+| \*\*[[affiliation-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[place-bakhu\|Bakhu]] | [[affiliation-kemtnpnthn\|Ptā'h]] | ~350,000   | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
+| \*\*[[affiliation-nometarshk\|Ta-Resu-Heka]]\*\*  | [[place-behen\|Behen]] | Mentu (war-god)                   | ~320,000   | The great southern march; the cataract fortress-line and the gateway to the tribal lands        |
+| Khent-Hen-Nefer                                   | Khent-Hen              | Mentu                             | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings                 |
+| Wawat                                             | Wawat                  | [[affiliation-kemtnpnthn\|Ptā'h]] | ~260,000   | The southern gold-road; mines, caravan-stations, and tribute-collection                         |
+| Per-Mentu                                         | Per-Mentu              | Mentu                             | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools                       |
+| Ta-Mentu                                          | Sile                   | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The western steppe-edge; horse-pasture and the watch against nomad raiders                      |
+| Khaset-Imnt                                       | Khaset                 | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
+| Iabet-Heqa                                        | Iabet-Heqa             | Sobek (crocodile-god)             | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome                           |
+| Senmut                                            | Senmut                 | [[affiliation-kemtnpnthn\|Sēker]] | ~200,000   | A river-island fortress-nome at the second cataract; gateway and toll-gate                      |
+| Behdet-Resu                                       | Behdet                 | Mentu                             | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
 Border subtotal: **~2,500,000**.
 
@@ -153,11 +153,11 @@ The border nomes are the empire's edges — run them as marches, with all that i
 
 ## Commerce and Currency
 
-The Border Nomes use the [[doc-tkhprcrncy|Ta'Kheperu currency system]], and the frontier is in fact where the empire's struck metal circulates most — garrison pay, mine-output, and caravan tolls all run on weighed silver and gold rather than the grain-render of the interior. Foreign coin from the southern and steppe trade passes here too, weighed and discounted by the [[affiliation-perhati|Pér-Háti]] agents who follow the garrisons. See [[doc-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+The Border Nomes use the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and the frontier is in fact where the empire's struck metal circulates most — garrison pay, mine-output, and caravan tolls all run on weighed silver and gold rather than the grain-render of the interior. Foreign coin from the southern and steppe trade passes here too, weighed and discounted by the [[affiliation-perhati|Pér-Háti]] agents who follow the garrisons. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
 
 ## See Also
 
-- [[doc-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
-- [[doc-deltanomes|The Delta Nomes]], [[doc-uperivrnms|The Upper River Nomes]], [[doc-capitalnom|The Capital Nome]] — Sister nome-classes
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Parent empire
+- [[affiliation-deltanomes|The Delta Nomes]], [[affiliation-uperivrnms|The Upper River Nomes]], [[affiliation-capitalnom|The Capital Nome]] — Sister nome-classes
 - [[affiliation-malldbndlg|Free Companies Compact]] — Chartered mercenaries who take frontier contracts
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon · [[skill-kheperlng|Kheperi]] — Naming

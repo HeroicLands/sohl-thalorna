@@ -632,12 +632,12 @@ Several practical implications follow from the cosmology established here.
 
 ## See Also
 
-- [[doc-soulspirts|Souls and Spirits]] — The underlying cosmology of souls, the spirit realm, death and transit, and related material
+- [[lore-soulspirts|Souls and Spirits]] — The underlying cosmology of souls, the spirit realm, death and transit, and related material
 
-- [[doc-magictruth|Magic Truth]] — The metaphysics of magic, Aura, frameworks, and thin places
+- [[lore-magictruth|Magic Truth]] — The metaphysics of magic, Aura, frameworks, and thin places
 
-- [[doc-godsrelign|Gods and Religion]] — Priestly thaumaturgy, including the framework-magic effective against Helspawn
+- [[lore-godsrelign|Gods and Religion]] — Priestly thaumaturgy, including the framework-magic effective against Helspawn
 
-- [[doc-divineactn|Divine Action]] — Divine agents, including those that may be involved in Nightwight creation in some traditions
+- [[lore-divineactn|Divine Action]] — Divine agents, including those that may be involved in Nightwight creation in some traditions
 -
 -

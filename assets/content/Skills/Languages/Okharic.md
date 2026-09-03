@@ -29,7 +29,7 @@ Okháric is a tongue of the Okháric (isolate) family. Fluency measures the soph
 
 ## Overview
 
-Okháric is the principal tongue of the [[doc-okharis|Kingdom of Okháris]] and surrounding communities in the northern fertile regions of [[doc-xerathia|Xerathia]]. Spoken by approximately 5-7 million people, Okháric occupies a unique position in the continent's linguistic landscape as the bridge language between the Kheperian Empire to the south and the distant civilizations of the east.
+Okháric is the principal tongue of the [[affiliation-okharis|Kingdom of Okháris]] and surrounding communities in the northern fertile regions of [[place-xerathia|Xerathia]]. Spoken by approximately 5-7 million people, Okháric occupies a unique position in the continent's linguistic landscape as the bridge language between the Kheperian Empire to the south and the distant civilizations of the east.
 
 Unlike its neighbors, Okháric has developed a robust oral tradition alongside written literature. Religious texts in a sacred archaic form are preserved and recited by trained priests, while vernacular speech continues to evolve with marked vitality. The language reflects centuries of trade, cultural contact, and adaptation, making it a living repository of regional history.
 

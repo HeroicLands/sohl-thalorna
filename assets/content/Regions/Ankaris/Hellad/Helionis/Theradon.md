@@ -94,7 +94,7 @@ data:
     - heladrgn
   population: 800000
   peoples:
-    - human
+    - humanflk
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm
@@ -118,11 +118,11 @@ The city's character is one of intellectual ferment mixed with civic pride. The 
 
 ## Commerce and Currency
 
-Therádon uses the [[doc-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[doc-vylrncrncy|Vylarian Currency]] for the full system.
+Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[doc-helionis|Heliónis]] — Regional overview
+- [[place-helionis|Heliónis]] — Regional overview
 - [[skill-helonclng|Helonic]] — Naming tradition
 - [[skill-helonclng|Helonic]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

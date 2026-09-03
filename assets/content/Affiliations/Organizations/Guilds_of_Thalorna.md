@@ -13,7 +13,7 @@ name:
     - Trade Guilds of Thalorna
 shortcode: guldsthlrn
 type: lore
-subType: culture
+subType: economy
 sohl:
   society: null
   office: null
@@ -27,7 +27,7 @@ folder:
 # The Guilds of Thalorna
 
 - **Type:** Overview note describing the guild system as a continent-spanning phenomenon
-- **Region:** All settled regions of [[doc-ankrscntnnt|Ankaris]], [[doc-xerathia|Xerathia]], [[doc-kalihara|Kalihara]], and trading enclaves elsewhere; form and authority vary substantially by region
+- **Region:** All settled regions of [[place-ankrscntnnt|Ankaris]], [[place-xerathia|Xerathia]], [[affiliation-kalihara|Kalihara]], and trading enclaves elsewhere; form and authority vary substantially by region
 
 ## Overview
 
@@ -87,7 +87,7 @@ The Haradian guilds were not dismantled. The merchant princes who had led the re
 
 ### The Northern Fertile Region
 
-[[doc-bethuargn|Bethûa]], [[doc-okharisrgn|Okháris]], and [[doc-takheperurgn|Ta'Kheperu]] were never conquered by Vylaria; none belongs to the Magnum Collegium. All three have, however, over the past two centuries developed guild structures that visibly borrow from the Vylarian model — multi-tier ranks, formal examinations, registered seals, standing inter-guild councils, the procedural conventions of charter and discipline. The borrowing was not enforced from outside; it was adopted by the local trades themselves, often deliberately, as a way of making their members' credentials legible to the Vylarian trading partners on whom much of the regional economy depends.
+[[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]] were never conquered by Vylaria; none belongs to the Magnum Collegium. All three have, however, over the past two centuries developed guild structures that visibly borrow from the Vylarian model — multi-tier ranks, formal examinations, registered seals, standing inter-guild councils, the procedural conventions of charter and discipline. The borrowing was not enforced from outside; it was adopted by the local trades themselves, often deliberately, as a way of making their members' credentials legible to the Vylarian trading partners on whom much of the regional economy depends.
 
 The **Ta'Kheperan houses** ([[affiliation-permesnu|Per'Mesnu]], [[affiliation-pernuw|Per'Nuw]], and the others) are religiously framed — trades organized as _houses_ (_per-_) with charter from the Per-Aá, religious affiliation with a patron deity, and formal initiations conducted in temple rite. Their administrative procedures, however, are unmistakably Collegium-derived: the master-journeyman-apprentice ranks, the registered seals, the examined elevation, the inter-house councils. A master smith of [[affiliation-permesnu|Per'Mesnu]] is, by his elevation, an initiate of Ptah and Horus as well as a craftsman of bronze; the elevation is a religious rite as much as a professional one, but the _procedure_ of the elevation could be lifted with minor changes from a Vylarian provincial chapter's manual. The Per-Aá's charter is, however, the underlying authority. Houses without a current charter can be summarily dissolved (a rare but consequential occurrence; the last major dissolution was the Per-Khentj of the Pearl-Divers, dissolved seventy years ago after a doctrinal dispute with the Temple of Hâpi).
 

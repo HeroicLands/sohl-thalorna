@@ -91,7 +91,7 @@ data:
   domains:
     - sthrnkchchk
   peoples:
-    - human
+    - humanflk
   economy: []
   parents: []
   relations:
@@ -128,7 +128,7 @@ Most true trade flows through the region in transit rather than originating ther
 
 ## See Also
 
-- [[doc-kuxibalam|K'uxi Balam]] — The frontier lands to the north
-- [[doc-tzikinbalm|Tz'ikin Ba'alam]] — The forsaken wastes beyond
-- [[doc-tzikinkul|Tz'ikin K'ul]] — The last temple-fortress before the abyss
+- [[affiliation-kuxibalam|K'uxi Balam]] — The frontier lands to the north
+- [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] — The forsaken wastes beyond
+- [[place-tzikinkul|Tz'ikin K'ul]] — The last temple-fortress before the abyss
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that maintains order at the threshold

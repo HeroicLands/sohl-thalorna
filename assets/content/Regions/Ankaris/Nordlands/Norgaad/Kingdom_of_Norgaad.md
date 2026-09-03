@@ -97,7 +97,7 @@ data:
     - nrdlndsrgn
   population: 1200000
   peoples:
-    - human
+    - humanflk
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -125,14 +125,14 @@ The kingdom's interior is dominated by vast mountain ranges and deep valleys. It
 
 ## Relations
 
-Norgaad's central position makes it the natural mediator among the Normen kingdoms. When [[doc-kngdmnrdhm|Kingdom of Nordheim]] and [[doc-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace. When the [[doc-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. This diplomatic role gives Norgaad influence beyond its military strength, and its kings have historically been among the most politically skilled of the Normen rulers.
+Norgaad's central position makes it the natural mediator among the Normen kingdoms. When [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace. When the [[place-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. This diplomatic role gives Norgaad influence beyond its military strength, and its kings have historically been among the most politically skilled of the Normen rulers.
 
 ## Commerce and Currency
 
-Kingdom of Norgaad uses the [[doc-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[doc-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[doc-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[doc-kngdmnrdhm|Kingdom of Nordheim]], [[doc-kingdomlgn|Kingdom of Malagna]], [[doc-kingdmtrgd|Kingdom of Targud]], [[doc-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
-- [[doc-grkrhlmrgn|Grukarholm Region]] — Eastern threat
+- [[place-grkrhlmrgn|Grukarholm Region]] — Eastern threat

@@ -69,7 +69,7 @@ folder:
 # The Provènzia Theater Collective
 
 - **Type:** Cultural federation
-- **Region:** [[doc-provenzrgn|Provènzia]] — based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
+- **Region:** [[place-provenzrgn|Provènzia]] — based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
 - **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
 - **Magnum Collegium status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-magnumclgm|Magnum Collegium's]] Curia Collegiorum. The Censores Collegiorum's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action — a forbearance that the Collective is aware of and cultivates.
 

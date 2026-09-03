@@ -20,7 +20,7 @@ cascade:
 
 Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
 
-For pantheon-to-region mapping, see [[doc-pnthnrgnlmp|Pantheon Regional Map]].
+For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 
 # Continents
 
@@ -38,11 +38,11 @@ Before humanity, before empires, before recorded history, Thalorna was home to t
 
 ### Sinalë
 
-The [[doc-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Ordo Arcanis]] can systematize. The Sinalë live in hidden enclaves — deep forests, mist-shrouded valleys, island sanctuaries — scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[doc-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalëan communities for centuries; the [[doc-tanvurempr|Empire of Tānvür]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[doc-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
+The [[lore-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Ordo Arcanis]] can systematize. The Sinalë live in hidden enclaves — deep forests, mist-shrouded valleys, island sanctuaries — scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[place-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalëan communities for centuries; the [[affiliation-tanvurempr|Empire of Tānvür]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[place-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
 
 ### Khazári
 
-The [[doc-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft — metalwork, stonework, engineering — is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft — metalwork, stonework, engineering — is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
 
 ### The Old Compact
 
@@ -93,4 +93,4 @@ SORT name.full ASC
 # See Also
 
 - [[doc-lnggsthlrn|Languages of Thalorna]]
-- [[doc-pnthnrgnlmp|Pantheon Regional Map]]
+- [[lore-pnthnrgnlmp|Pantheon Regional Map]]
