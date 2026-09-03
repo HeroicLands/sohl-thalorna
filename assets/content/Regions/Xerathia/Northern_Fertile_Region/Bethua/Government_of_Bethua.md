@@ -97,6 +97,8 @@ data:
     - mtrrchybth
   relations:
     mtrrchybth: aligned
+sohl:
+  archetype: null
 id: lGNHthvWH3rv0JTS
 name:
   full: Government of Bethûa

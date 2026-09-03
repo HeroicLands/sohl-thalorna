@@ -96,6 +96,8 @@ data:
     mtrrchybth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
+sohl:
+  archetype: null
 id: spoTbaEvFkqrB5vT
 name:
   full: The Bethûan Fleet
