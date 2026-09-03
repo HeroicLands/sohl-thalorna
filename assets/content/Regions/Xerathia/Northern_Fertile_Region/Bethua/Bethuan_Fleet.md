@@ -91,10 +91,8 @@ data:
   economy: []
   lore: []
   parents:
-    - gvrnmntbth
     - mtrrchybth
   relations:
-    gvrnmntbth: aligned
     mtrrchybth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
@@ -127,7 +125,7 @@ The fleet's home is the chain of fortified harbours along the northern Bethûan 
 
 ### Who Mans the Ships
 
-The crewing of a Bethûan warship is a study in the realm's whole social order. **Command and the fighting complement are women's work and the work of the gelded.** The captain is a woman; her officers are women; the marines — the boarding-fighters who decide a galley action — are drawn from the [[affiliation-gvrnmntbth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Spear-Sisterhood]] and the eunuch **Spádai**, and they fight with blade, with javelin, and with the lethal unarmed **Charíssa** in the press of a boarding where a longer weapon is useless. A boarding-action against a Bethûan galley is a thing Vylarian sailors speak of with dread, precisely because the fighters who come over the rail are faster and deadlier in the crush than their size suggests.
+The crewing of a Bethûan warship is a study in the realm's whole social order. **Command and the fighting complement are women's work and the work of the gelded.** The captain is a woman; her officers are women; the marines — the boarding-fighters who decide a galley action — are drawn from the [[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Spear-Sisterhood]] and the eunuch **Spádai**, and they fight with blade, with javelin, and with the lethal unarmed **Charíssa** in the press of a boarding where a longer weapon is useless. A boarding-action against a Bethûan galley is a thing Vylarian sailors speak of with dread, precisely because the fighters who come over the rail are faster and deadlier in the crush than their size suggests.
 
 The **labour of the ship, though, is men's** — the rowers at the oars, the deckhands in the rigging, the shipwrights and pitch-boys of the yards. They serve as everything men in Bethûa serve as: as the agents and dependents and property of the women who own the vessels, free-born hands and outright slaves pulling the same oar. A Bethûan man may spend his life at sea and never own so much as the bench he rows from. The arrangement gives the fleet a particular hardness — its fighting class and its labouring class are divided not only by rank but by sex and by law — and it is one more reason the Charíssa-trained marines are watched as carefully aboard as the oar-slaves are: an armed and able man is never far from the women who command him, and never permitted to forget it.
 
@@ -135,7 +133,7 @@ The **labour of the ship, though, is men's** — the rowers at the oars, the dec
 
 The fleet answers, like all of Bethûa's armed force, through the bridging command of the crown:
 
-- The **[[affiliation-gvrnmntbth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Stratégissa]]** holds supreme command of the whole host, army and fleet alike, as the Mêtríssa's lent authority.
+- The **[[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Stratégissa]]** holds supreme command of the whole host, army and fleet alike, as the Mêtríssa's lent authority.
 - The **Naukrátissa** ("sea-mistress") is the admiral of the fleet and the realm's chief naval commander — in a maritime power whose navy is its proudest arm, one of the most prestigious commands in Bethûa, and a frequent stepping-stone to the highest circles of both councils.
 - Below her, each war-galley or squadron is commanded by a **Naukléra** (pl. _Naukléreai_; "ship-mistress," from Helonic _nauklēros_), a captain who in the private and privateer service is also the owner of her vessel.
 
@@ -165,7 +163,7 @@ The equilibrium holds because no one wants it broken: Vylaria cannot project dec
 ## Plot Hooks
 
 - **The Captain Who Went Too Far.** A celebrated warrant-captain has taken a ship she should not have — a neutral [[place-helionis|Heliónite]] or [[affiliation-byzarianlg|Byzarian]] bottom, or a vessel carrying a personage of rank — and turned a tolerable nuisance into a diplomatic crisis. The Mêtríssa's court must decide whether to disavow and surrender her (placating the injured power and the watching Vylarians) or to shield her (and own the consequences). She, meanwhile, has her own ideas, a fast ship, and a hold full of evidence about who really issues the Warrants.
-- **The Squeeze.** Vylaria has persuaded enough of the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] to stop honouring the letters of credit of a major Bethûan House, and the House is bleeding. Its matriarch — who has profited handsomely from the privateers — now wants the Warrant reined in to save her ledgers, while the Houses still flush with prize-money want it pressed harder. The [[affiliation-gvrnmntbth|Council of Houses]] is split, and the quarrel is really about whether Bethûa's future lies with its Kheperi patron or its Vylarian customers.
+- **The Squeeze.** Vylaria has persuaded enough of the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] to stop honouring the letters of credit of a major Bethûan House, and the House is bleeding. Its matriarch — who has profited handsomely from the privateers — now wants the Warrant reined in to save her ledgers, while the Houses still flush with prize-money want it pressed harder. The [[affiliation-mtrrchybth|Council of Houses]] is split, and the quarrel is really about whether Bethûa's future lies with its Kheperi patron or its Vylarian customers.
 - **The Reprisal.** A Vylarian squadron — or Heliónite hunters in Vylarian pay — has burned a Bethûan orchard-port and its yards in answer for a season of lost cargoes. The realm is enraged and the hawks want a fleet action; the Mêtríssa knows a fleet action is exactly what Bethûa cannot win. Someone must thread the needle between honour and ruin — perhaps a deniable answer-in-kind, perhaps a quiet appeal to the patron whose policy started the whole cycle.
 - **The Patron's Price.** Word reaches Bethûa that Vylarian envoys have made Ta'Kheperu a serious offer to call off its proxy. If Wasetkara accepts, the Warrants stop, the prize-money dries up, and Bethûa is suddenly alone with the enemy it spent a generation provoking. The court must find out whether the rumour is true and what, if anything, can be done to keep the patron in the game — or whether the time has come to be less of a proxy and more of a power.
 - **The Oar-Slave's Knife.** A warrant-galley returns to port with a story that does not add up: the captain dead, the prize lost, and an oar-deck of men who will not meet a questioner's eye. A rising at sea — the very nightmare the matriarchy is built to prevent — has happened on one ship, and the question of how, and whether it can happen again, and who among the surviving men can be allowed to live to tell of it, lands on the desk of the Naukrátissa and the watchers of the nearest House.
@@ -173,7 +171,7 @@ The equilibrium holds because no one wants it broken: Vylaria cannot project dec
 ## See Also
 
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — the realm
-- [[affiliation-gvrnmntbth|Bethûan Matriarchy]] — the Two Pillars, the martial command, and the status of men
+- [[affiliation-mtrrchybth|Bethûan Matriarchy]] — the Two Pillars, the martial command, and the status of men
 - [[affiliation-bthntrdhss|The Bethûan Trade-Houses]] — the maritime Houses that build, crew, and profit from the fleet
 - [[place-vylarianse|Vylarian Sea]] — the contested sea and its maritime powers
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the patron whose proxy strategy the fleet enacts
