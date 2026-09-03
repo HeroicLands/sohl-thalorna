@@ -61,7 +61,7 @@ import fs from "node:fs";
 import path from "node:path";
 import yaml from "yaml";
 
-import { contentSlug, findSlugCollisions } from "@heroiclands/package-build/engine/content-slug";
+import { addressSlug } from "@heroiclands/package-build/engine/content-address";
 import { expandContentTables } from "@heroiclands/package-build/engine/content-tables";
 import { resolveSiteWikilinks, frontmatterWikilinks } from "./site-wikilinks.mjs";
 import {
@@ -82,7 +82,7 @@ import {
     isHomepage,
     homepageTitle,
     homepageFrontmatter,
-    HOMEPAGE_DESTINATION,
+    homepageDestination,
 } from "@heroiclands/package-build/engine/homepage";
 import { loadPackConfig } from "@heroiclands/package-build/engine/pack-config";
 
@@ -454,19 +454,24 @@ for (const { frontmatter: fm, body, absPath } of walkMarkdownTree(CONTENT_SRC)) 
         continue;
     }
 
+    // The page's address, and therefore its URL (#181). `name` is the display
+    // string and nothing else: it titles the page and labels an inbound link,
+    // and moving it moves no address. A landing page *is* its section, so it is
+    // still addressed by that section; every other page addresses flat at the
+    // package root as `type-shortcode`.
     let slug;
     if (isLanding) {
         slug = section;
     } else {
         try {
-            slug = contentSlug(name);
+            slug = addressSlug(fm);
         } catch (err) {
             slugErrors.push({ file: rel, reason: err.message });
             continue;
         }
     }
 
-    const url = isLanding ? `${SITE_BASE}${section}/` : `${SITE_BASE}${section}/${slug}/`;
+    const url = isLanding ? `${SITE_BASE}${section}/` : `${SITE_BASE}${slug}/`;
 
     entries.push({
         fm,
@@ -534,16 +539,12 @@ if (unaddressable.length) {
     console.warn(`\n${unaddressable.length} note(s) route nowhere and are not published:`);
     for (const e of unaddressable) console.warn(`  ${e.reason}  (in ${e.file})`);
 }
-const collisions = findSlugCollisions(
-    entries.map((e) => ({ sec: e.sec, slug: e.slug, src: e.rel })),
-);
-if (collisions.length) {
-    console.error(`\n✖ ${collisions.length} colliding page URL(s):`);
-    for (const c of collisions) {
-        console.error(`  ${c.url} claimed by ${c.sources.join(", ")}`);
-    }
-    process.exit(1);
-}
+// There is no collision gate. A page's URL is its address (#181), and
+// `(type, shortcode)` names one note within a package — the rule
+// `content-build lint` already enforces — so the URL is unique *by
+// construction*. The gate that used to stand here existed only because the URL
+// was derived from `name.full`, where two notes in one section could
+// legitimately derive the same one.
 
 // --- Wikilink index ------------------------------------------------------
 // `section/slug` is unique by construction and always resolves. Name, filename,
@@ -792,7 +793,15 @@ for (const e of entries) {
     // still declares the field keeps it at its authored position (assigning an
     // existing key does not move it), so an unswept tree emits byte-identically
     // to before, and a swept one gains the key here.
-    const data = { ...rest, package: pkg, title, slug };
+    // The address, stated (#181). Hugo publishes a page where its *file* sits
+    // unless the front matter says otherwise, and a page's file is still filed
+    // under its section — the section is what supplies the section landings,
+    // `.CurrentSection` and per-section layout lookup — while its URL is now
+    // flat at the package root. `slug` is written beside `url` because it is
+    // the last segment of that address and Hugo's own key for one; it decides
+    // nothing while `url` is present, but a page carrying only `url` would
+    // report a slug Hugo had inferred from the filename.
+    const data = { ...rest, package: pkg, title, slug, url: e.url };
 
     // Three fields the shared theme reads at the top level, hoisted out of the
     // nested blocks the notes author them in. The theme's character sidebar has
@@ -829,11 +838,12 @@ const packConfig = loadPackConfig();
 for (const page of homepages) {
     fs.mkdirSync(OUT, { recursive: true });
     fs.writeFileSync(
-        path.join(OUT, HOMEPAGE_DESTINATION),
+        path.join(OUT, homepageDestination(page.fm)),
         stringifyPage(
             homepageFrontmatter(page.fm, {
                 contentPackage: CONTENT_PACKAGE,
                 title: homepageTitle(page.fm, packConfig),
+                base: SITE_BASE,
             }),
             page.body,
         ),
