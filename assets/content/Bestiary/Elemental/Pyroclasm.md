@@ -3,6 +3,7 @@ tags:
   - elemental
 name:
   full: Pyroclasm
+  aliases: []
 description: "A chaotic fire elemental of animate volcanic devastation, born from active volcanoes and consuming everything in its path toward cooler waters."
 id: 2ubjJNt3rPAcOeTj
 img: icons/game-icons/delapouite/griffin-symbol.svg

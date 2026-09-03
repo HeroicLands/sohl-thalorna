@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Feathercrest Velon
+  aliases: []
 description: "A four-foot iridescent-plumed pack predator of dense forests and rocky highlands, aggressively territorial and cunning in its hunts."
 id: Or8DbTmkrdKMEqDi
 img: icons/game-icons/lorc/paw-print.svg

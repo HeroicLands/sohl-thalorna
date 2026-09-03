@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vōrjīk Jëk"
-  - Vōrjīk Jëk
-  - Vorjik Jek
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,6 +8,9 @@ id: 53jio6hpMUzxskpR
 shortcode: vorjikjek
 name:
   full: "Ritual: Vōrjīk Jëk"
+  aliases:
+    - Vōrjīk Jëk
+    - Vorjik Jek
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

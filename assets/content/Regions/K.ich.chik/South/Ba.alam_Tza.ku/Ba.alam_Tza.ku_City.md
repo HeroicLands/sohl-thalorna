@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Ba'alam Tza'ku
+  aliases: []
 shortcode: balamtzaku2
 ---
 

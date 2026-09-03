@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sturgeon
+  aliases: []
 id: Ck1MuvxjKNQu79F4
 img: images/mystery/sturgeon.webp
 shortcode: sturgeonttm

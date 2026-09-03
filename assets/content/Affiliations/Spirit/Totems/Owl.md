@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Owl
+  aliases: []
 id: Y1YuK9tAyQoCO3Pd
 img: images/mystery/owl.webp
 shortcode: owlttm

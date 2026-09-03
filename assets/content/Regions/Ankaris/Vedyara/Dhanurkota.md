@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Dhanurkota
+  aliases: []
 shortcode: dhanurkota
 folder: q61mqomRaSzUNfrY
 ---

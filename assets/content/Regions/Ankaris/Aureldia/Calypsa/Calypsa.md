@@ -5,6 +5,7 @@ description: Free port city on a small island off Ã‰lavendre's northern coast â€
 type: affiliation
 name:
   full: Calypsa
+  aliases: []
 shortcode: calypsa
 subType: polity
 data:

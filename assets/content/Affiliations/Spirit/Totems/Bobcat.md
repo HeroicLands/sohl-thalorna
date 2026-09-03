@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bobcat
+  aliases: []
 id: 6Y0jmaBIzCwrwz1p
 img: images/mystery/bobcat.webp
 shortcode: bobcatttm

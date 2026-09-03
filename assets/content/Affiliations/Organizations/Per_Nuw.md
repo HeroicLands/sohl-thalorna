@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Per'Nuw
-  - The House of Hunters
-  - Ta'Kheperu Hunters' Guild
 tags:
   - organization
   - takheperu
@@ -16,6 +12,7 @@ name:
   aliases:
     - The House of Hunters
     - The Ta'Kheperu Hunters' Guild
+    - Ta'Kheperu Hunters' Guild
 shortcode: pernuw
 type: affiliation
 subType: guild

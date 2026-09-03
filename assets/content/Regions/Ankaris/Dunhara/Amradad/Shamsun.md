@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Shamsûn
+  aliases: []
 shortcode: shamsun
 folder: PUSPfoG6UdrnqPhK
 ---

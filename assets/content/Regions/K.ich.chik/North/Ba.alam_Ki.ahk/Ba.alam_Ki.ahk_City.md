@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Ba'alam Ki'ahk
+  aliases: []
 shortcode: balamkiahk2
 ---
 

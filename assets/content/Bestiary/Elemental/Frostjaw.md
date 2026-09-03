@@ -3,6 +3,7 @@ tags:
   - elemental
 name:
   full: Frostjaw
+  aliases: []
 description: "A predator of ice and deep cold given animal form, pursuing prey relentlessly across frozen wastes, driven by hunger and territorial fury."
 id: 1qpvK28UB8kSIGR0
 img: icons/game-icons/delapouite/griffin-symbol.svg

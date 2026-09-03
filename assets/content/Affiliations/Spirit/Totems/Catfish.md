@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Catfish
+  aliases: []
 id: RbJ9D3CclnLOGenm
 img: images/mystery/catfish.webp
 shortcode: catfishttm

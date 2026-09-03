@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Silver Forests
-  - Silver Forests
 id: X7HiBpa32S79TTrv
 type: place
 subType: region
@@ -13,6 +10,7 @@ data:
   population: null
 name:
   full: The Silver Forests
+  aliases: []
 shortcode: silvrfrsts
 folder: drAoDoNnFEygATeK
 ---

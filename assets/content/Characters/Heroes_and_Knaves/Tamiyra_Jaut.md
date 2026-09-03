@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tamiyra Jâut
-  - Ta'miyra Jâut
-  - Tamiyra Jaut
 tags:
   - heroes-and-knaves
   - administration
@@ -12,6 +8,9 @@ name:
   given: Ta'miyra
   clan: Jâut
   home: Per-Ankhet
+  aliases:
+    - Tamiyra Jâut
+    - Tamiyra Jaut
 id: xhjXcv7FLvFvrHyk
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

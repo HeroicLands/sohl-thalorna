@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fount
+  aliases: []
 description: "Opens spring; manifests fresh water flowing from barren ground."
 id: nh1JPHnCSX86LJt5
 img: icons/circle.svg

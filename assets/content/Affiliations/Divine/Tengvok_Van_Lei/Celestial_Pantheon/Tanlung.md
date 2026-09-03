@@ -1,9 +1,5 @@
 ---
 description: "Order."
-aliases:
-  - Tānlüng
-  - Tanlung
-  - Celestial Dragon
 id: TqEEmxeY03YCJrt1
 tags:
   - celestial-official
@@ -15,6 +11,7 @@ name:
   aliases:
     - The First Classifier
     - The Celestial Dragon
+    - Celestial Dragon
 shortcode: tanlung
 type: affiliation
 subType: faithtradition

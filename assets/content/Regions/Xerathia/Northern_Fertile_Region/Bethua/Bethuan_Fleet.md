@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Bethûan Fleet
-  - Navy of Bethûa
-  - The Purple Warrant
 tags:
   - military
   - navy
@@ -113,6 +109,7 @@ name:
   aliases:
     - The Purple Warrant
     - The Veiled Sails
+    - Navy of Bethûa
 shortcode: bethuanflt
 img: ""
 folder: Y64e5NGsp8OwZ6xQ

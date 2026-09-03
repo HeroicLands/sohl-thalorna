@@ -4,6 +4,7 @@ description: "The mountainous northern shield of the Vylarian Empire — a hard 
 type: affiliation
 name:
   full: Province of Moktur
+  aliases: []
 shortcode: provncmktr
 subType: polity
 data:

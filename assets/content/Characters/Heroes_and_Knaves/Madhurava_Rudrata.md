@@ -9,6 +9,7 @@ name:
   given: Màdhurava
   clan: Rudraṭa
   home: Chandrapur
+  aliases: []
 id: A1n0eOJtWKSf2XEC
 folder: JotxZnnXcTECeYW3
 shortcode: madhurvrdr

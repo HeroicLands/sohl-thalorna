@@ -5,6 +5,7 @@ title: ""
 description: Sand seas, mesas, and salt-haunted ruins — the desert barrier dividing the K'ich'chik civilization from its northern neighbors.
 name:
   full: Ch'akul Tza'kul
+  aliases: []
 id: fzmM3PUidaBMxfbz
 shortcode: chakultzkl
 img: ""

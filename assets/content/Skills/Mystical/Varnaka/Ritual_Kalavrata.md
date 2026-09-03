@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Kālavrata"
-  - Kālavrata
-  - Kalavrata
-  - The Gatekeeper of Death
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: 1dlx3D1Lg48sCdej
 shortcode: kalavrata
 name:
   full: "Ritual: Kālavrata"
+  aliases:
+    - Kālavrata
+    - Kalavrata
+    - The Gatekeeper of Death
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

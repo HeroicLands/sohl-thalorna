@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Glassfang
+  aliases: []
 description: "A small, blindingly fast light-magic predator that hunts nearly invisible through crystalline caverns and radiant magical sites."
 id: ehEf5wCFXsQmP6pd
 img: icons/game-icons/delapouite/griffin-symbol.svg

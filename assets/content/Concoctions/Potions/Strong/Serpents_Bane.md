@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Serpent's Bane"
-  - "Potion, Antivenin, Strong"
 tags:
   - strong-elixir
 name:
   full: "Serpent's Bane"
+  aliases:
+    - Potion, Antivenin, Strong
 description: "Brilliant amber-gold antivenin; cures snake and poison damage."
 id: cxyUN47Rz4dst3yp
 img: icons/potion.svg

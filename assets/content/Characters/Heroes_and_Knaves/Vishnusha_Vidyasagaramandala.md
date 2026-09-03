@@ -8,6 +8,7 @@ name:
   given: Vishnusha
   clan: Vidyāsāgaramaṇḍala
   home: Dhanurkota
+  aliases: []
 id: OfQVaxe1HktFIUMr
 folder: JotxZnnXcTECeYW3
 shortcode: vshnshvdysgrml

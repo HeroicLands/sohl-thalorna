@@ -8,6 +8,7 @@ name:
   given: Thjótharr
   clan: Hrafnsvald
   home: Járnhavn
+  aliases: []
 id: 5hPtTtbAjhP3zcGU
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thjthrhrfnsvld

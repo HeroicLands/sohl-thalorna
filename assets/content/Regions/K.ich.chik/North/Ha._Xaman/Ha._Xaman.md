@@ -5,6 +5,7 @@ title: ""
 description: Endless grasslands ridden by the mounted Tz'okum — the Coyote People — whose herds, raids, and tribute-demands menace the settled south.
 name:
   full: Ha' Xaman
+  aliases: []
 id: Nfi6Vbb3BYorhP8k
 shortcode: haxaman
 img: ""

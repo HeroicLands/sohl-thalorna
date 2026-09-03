@@ -4,6 +4,7 @@ description: "Highland territory on the border with Élavendre, home to an ancie
 type: affiliation
 name:
   full: Free Territory of Eskárath
+  aliases: []
 shortcode: frtrtryskrth
 subType: polity
 data:

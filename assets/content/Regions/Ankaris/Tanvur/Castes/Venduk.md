@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Vëndük
+  aliases: []
 shortcode: venduk
 folder: ZUKWHCnKcLAoZMdf
 ---

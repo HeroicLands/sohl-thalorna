@@ -2,6 +2,7 @@
 id: JQZTmRad4jLlZdbR
 name:
   full: The Silent War in Batáren
+  aliases: []
 shortcode: slntwrbtrn
 type: scenario
 subType: adventure

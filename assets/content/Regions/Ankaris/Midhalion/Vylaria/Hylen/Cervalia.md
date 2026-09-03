@@ -14,6 +14,7 @@ data:
   population: 2500
 name:
   full: Cervalia
+  aliases: []
 shortcode: cervalia
 folder: WSdLuPc7BaRqxNEt
 ---

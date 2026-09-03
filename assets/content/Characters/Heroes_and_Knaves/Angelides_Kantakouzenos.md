@@ -9,6 +9,7 @@ name:
   given: Ángelides
   clan: Kantakouzenós
   home: Denizara
+  aliases: []
 id: 1d1IMLnClylJnPHF
 folder: b81DHx3S7C9ep13E
 shortcode: angldskntkzns

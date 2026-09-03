@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Sidéros
 tags:
   - hex-hodai
 type: affiliation
@@ -93,6 +91,8 @@ shortcode: sideros
 img: images/affiliation/sideros.webp
 name:
   full: Sidéros
+  aliases:
+    - Eídma Sidéros
 sohl:
   archetype: null
 thalorna:

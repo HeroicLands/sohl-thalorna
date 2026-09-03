@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Grukarholm
+  aliases: []
 shortcode: grukarholm2
 ---
 

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Dreamsugar
-  - "Potion, Hallucinogenic, Mild"
 tags:
   - mild-elixir
 name:
   full: Dreamsugar
+  aliases:
+    - Potion, Hallucinogenic, Mild
 description: "Hazy opalescent liquid; induces dreaming and altered consciousness."
 id: Uz5iBBRnp8F7u2zi
 img: icons/potion.svg

@@ -4,6 +4,7 @@ type: lore
 subType: history
 name:
   full: Internal Subversive Threats
+  aliases: []
 shortcode: intrnlsbvrsvthrts
 folder: l3wIL8UihJI5nx6L
 ---

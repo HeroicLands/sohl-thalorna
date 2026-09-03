@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Ha' Xaman
+  aliases: []
 shortcode: haxaman2
 ---
 

@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Kinsman
+  aliases: []
 shortcode: kinsmanrnk
 description: "Of a house's blood or sworn following, entitled to its protection and its quarrels."
 ---

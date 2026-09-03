@@ -7,6 +7,7 @@ tags:
   - earth
 name:
   full: Vëngdāk Zhütvōr
+  aliases: []
 shortcode: vngdkzhtvr
 type: affiliation
 subType: faithtradition

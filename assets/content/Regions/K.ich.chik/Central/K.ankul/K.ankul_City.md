@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: K'ankul
+  aliases: []
 shortcode: kankul2
 ---
 

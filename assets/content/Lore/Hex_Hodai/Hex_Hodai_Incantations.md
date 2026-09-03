@@ -9,6 +9,7 @@ id: s9k0RsnEfufDRuQb
 shortcode: hxhdncnttns
 name:
   full: Héx Hodäi Incantations
+  aliases: []
 folder: H8lfX9Zy7YDUeAjX
 ---
 

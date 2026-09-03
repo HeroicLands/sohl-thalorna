@@ -4,6 +4,7 @@ description: "City-state of scholars, artists, and shipwrights on Harad's southe
 type: affiliation
 name:
   full: Ashkabel
+  aliases: []
 shortcode: ashkabel
 subType: polity
 data:

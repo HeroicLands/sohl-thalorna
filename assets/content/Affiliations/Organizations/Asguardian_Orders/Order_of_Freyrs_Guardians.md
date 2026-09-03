@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Order of Fréyr's Guardians
-  - Order of Freyrs Guardians
-  - Fréyrsverðir
 tags: []
 description: "Warrior-protectors sworn to Fréyr — guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
 id: 8weP8QEHYrwsipMJ
@@ -12,6 +8,7 @@ name:
     - Fréyrsverðir
     - The Green Wardens
     - The Guardians of the Harvest
+    - Order of Freyrs Guardians
 shortcode: ordrfryrsgrdns
 type: affiliation
 subType: order

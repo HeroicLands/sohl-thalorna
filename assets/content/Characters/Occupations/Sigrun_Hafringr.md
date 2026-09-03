@@ -9,6 +9,7 @@ name:
   given: Sigrún
   clan: Hafringr
   home: Stormveil
+  aliases: []
 id: aX3QjBvKNAp0mxDo
 folder: elH5NDPUuiRCICrE
 shortcode: sgrnhfrngr

@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Ithrákor
+  aliases: []
 shortcode: ithrakor
 folder: voxX57xvTC1eRnSO
 ---

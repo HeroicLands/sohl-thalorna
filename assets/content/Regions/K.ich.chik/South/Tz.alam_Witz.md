@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Tz’alam Witz
+  aliases: []
 shortcode: tzalamwitz
 folder: 13VGFYcT7sKTGll7
 ---

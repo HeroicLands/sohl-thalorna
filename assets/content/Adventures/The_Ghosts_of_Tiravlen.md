@@ -2,6 +2,7 @@
 id: AgiBQ1eiTlm3XTyO
 name:
   full: The Ghosts of Tîravlen
+  aliases: []
 shortcode: ghststrvln
 type: scenario
 subType: adventure

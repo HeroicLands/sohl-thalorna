@@ -13,6 +13,7 @@ data:
   population: 6000
 name:
   full: Vindara
+  aliases: []
 shortcode: vindara
 folder: WSdLuPc7BaRqxNEt
 ---

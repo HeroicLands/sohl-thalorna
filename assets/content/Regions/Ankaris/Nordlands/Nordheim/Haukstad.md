@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Haukstad
+  aliases: []
 shortcode: haukstad
 folder: tUOAFxX25mViDE7q
 ---

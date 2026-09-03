@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Gloomfang
+  aliases: []
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
 id: PdsQX4rPIfQgbxtn
 img: icons/game-icons/delapouite/griffin-symbol.svg

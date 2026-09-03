@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Chastèlclair
+  aliases: []
 shortcode: chastelclr
 folder: 2s244hfP0BpQi195
 ---

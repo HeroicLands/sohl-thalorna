@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Solárden
+  aliases: []
 shortcode: solarden
 folder: DB9rgGreD8FtqoBx
 ---

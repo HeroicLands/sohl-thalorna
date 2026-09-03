@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hex
+  aliases: []
 id: Iz2Lf8bESdZVpPZJ
 img: icons/psionics.svg
 shortcode: hex

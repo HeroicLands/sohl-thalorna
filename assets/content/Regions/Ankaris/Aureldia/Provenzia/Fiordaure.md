@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Fiòrdaure
+  aliases: []
 shortcode: fiordaure
 folder: 2s244hfP0BpQi195
 ---

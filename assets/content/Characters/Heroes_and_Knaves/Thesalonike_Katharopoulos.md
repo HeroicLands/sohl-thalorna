@@ -8,6 +8,7 @@ name:
   given: Thêsaloníke
   clan: Katharópoulos
   home: Yeşilhan
+  aliases: []
 id: l0edWhjOQxHZEy92
 folder: b81DHx3S7C9ep13E
 shortcode: thslnkkthrpls

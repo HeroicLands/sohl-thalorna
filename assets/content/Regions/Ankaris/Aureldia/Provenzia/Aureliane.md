@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Aurèliane
+  aliases: []
 shortcode: aureliane
 folder: 2s244hfP0BpQi195
 ---

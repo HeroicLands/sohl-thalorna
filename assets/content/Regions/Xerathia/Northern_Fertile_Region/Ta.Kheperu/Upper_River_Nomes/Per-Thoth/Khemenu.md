@@ -14,6 +14,7 @@ data:
   population: 85000
 name:
   full: Khemenu
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: khemenu
 folder: g26kf6A7QBdom2kv

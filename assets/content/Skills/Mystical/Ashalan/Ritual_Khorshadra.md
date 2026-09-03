@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Khóršádrä"
-  - Bearer of Eternal Light
-  - Wisdom Goddess
 tags:
   - ashalan
   - faith-skill
@@ -12,6 +8,9 @@ id: FeZJJ076sgnlyvxD
 shortcode: korsadra
 name:
   full: "Ritual: Khóršádrä"
+  aliases:
+    - Bearer of Eternal Light
+    - Wisdom Goddess
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

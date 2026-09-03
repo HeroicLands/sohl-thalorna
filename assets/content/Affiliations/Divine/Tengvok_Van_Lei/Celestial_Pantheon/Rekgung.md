@@ -8,6 +8,7 @@ tags:
   - minister-of-weather
 name:
   full: Rëkgüng
+  aliases: []
 shortcode: rekgung
 type: affiliation
 subType: faithtradition

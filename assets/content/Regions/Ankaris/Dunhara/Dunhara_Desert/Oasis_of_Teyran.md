@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Oasis of Teyran
+  aliases: []
 shortcode: oasisteyrn
 folder: fHLmguBwgTuZfGJ9
 ---

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Pata
+  aliases: []
 description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
 id: IPeTvMjwjUsy4hw2
 img: icons/sword.svg

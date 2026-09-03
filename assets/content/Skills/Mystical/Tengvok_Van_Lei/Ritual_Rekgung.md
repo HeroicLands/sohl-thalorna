@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Rëkgüng"
-  - Rëkgüng
-  - Rekgung
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,6 +8,9 @@ id: ResXgLQ6fWPyAdP3
 shortcode: rekgung
 name:
   full: "Ritual: Rëkgüng"
+  aliases:
+    - Rëkgüng
+    - Rekgung
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

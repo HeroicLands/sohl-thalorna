@@ -3,6 +3,7 @@ tags:
   - folk
 name:
   full: Grukar-ahk
+  aliases: []
 description: "A self-fertilizing Grukar spawner, one per tribe, uniquely able to choose the subspecies of each clutch it lays."
 id: ZwRLpmQF1zAklkyE
 img: icons/game-icons/delapouite/orc-head.svg

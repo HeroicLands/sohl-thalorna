@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hamster
+  aliases: []
 id: aVh7hIiGfJgn3CRU
 img: images/mystery/hamster.webp
 shortcode: hamsterttm

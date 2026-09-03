@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sekhemet Ka'sekhen
-  - Sekhemet Kasekhen
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,6 +9,8 @@ name:
   given: Sekhemet
   clan: Ka'sekhen
   home: Khensuret
+  aliases:
+    - Sekhemet Kasekhen
 id: 4jK9YFO53TFGWXN6
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

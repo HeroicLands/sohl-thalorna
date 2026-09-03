@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Councillor
+  aliases: []
 shortcode: councillorrnk
 description: "Of the body that deliberates and decides, seated by election, birth or standing."
 ---

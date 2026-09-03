@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Cow
+  aliases: []
 id: zJVBT4rbche7Cmfb
 img: images/mystery/cow.webp
 shortcode: cowttm

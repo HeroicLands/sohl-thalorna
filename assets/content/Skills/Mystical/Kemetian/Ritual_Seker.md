@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Sēker"
-  - Lord of Silent Passage
 tags:
   - kemetian
   - faith-skill
@@ -11,6 +8,8 @@ id: Ru9ClYULaK1GevP1
 shortcode: seker
 name:
   full: "Ritual: Sēker"
+  aliases:
+    - Lord of Silent Passage
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

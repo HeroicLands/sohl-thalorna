@@ -14,6 +14,7 @@ data:
   population: 20000
 name:
   full: Velysâra
+  aliases: []
 shortcode: velysara
 folder: WSdLuPc7BaRqxNEt
 ---

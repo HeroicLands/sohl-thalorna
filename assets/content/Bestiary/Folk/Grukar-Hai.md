@@ -3,6 +3,7 @@ tags:
   - folk
 name:
   full: Grukar-Hai
+  aliases: []
 description: "A towering six-foot apex Grukar warrior, strongest of its kind, so consumed by the need for dominance it cannot tolerate its own kin."
 id: NVtoBlsW4OFbRG4i
 img: icons/game-icons/delapouite/orc-head.svg

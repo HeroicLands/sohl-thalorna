@@ -1,12 +1,11 @@
 ---
-aliases:
-  - The First Gods
-  - The Old Gods
 tags: []
 description: The ancestral pantheon of the Áelendan — two primordial Powers locked in eternal struggle, and the celestial kindred who serve them.
 id: 1JgAmvvaQtfCGqoa
 name:
   full: The First Gods
+  aliases:
+    - The Old Gods
 shortcode: firstgods
 type: affiliation
 subType: faithtradition

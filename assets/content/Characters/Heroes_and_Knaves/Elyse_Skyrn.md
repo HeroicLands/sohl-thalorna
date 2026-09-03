@@ -9,6 +9,7 @@ name:
   title: ""
   given: Elýsè
   clan: Skýrn
+  aliases: []
 id: R9JqWrIVvy6hxCDo
 folder: 4cwfdMa34UryZqPR
 shortcode: elyseskyrn

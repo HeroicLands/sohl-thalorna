@@ -8,6 +8,7 @@ name:
   given: Shâdezar
   clan: Kamruz
   home: Dûn Ashir
+  aliases: []
 id: FlkeLYuSgvdRipj3
 folder: kCKYObmsvraIezCd
 shortcode: shadzrkmrz

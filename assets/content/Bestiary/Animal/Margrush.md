@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Margrush
+  aliases: []
 description: "A leathery-hided forest and swamp predator over 350 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
 id: hfTq2IglUl64LTn9
 img: icons/game-icons/lorc/paw-print.svg

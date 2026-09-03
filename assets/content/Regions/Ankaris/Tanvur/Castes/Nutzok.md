@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Nützōk
+  aliases: []
 shortcode: nutzok
 folder: ZUKWHCnKcLAoZMdf
 ---

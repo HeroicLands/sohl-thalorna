@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Héx Hodäi
-  - The Six Ways
-  - The Sigillum
 tags:
   - lore
   - arcane
@@ -14,6 +10,9 @@ id: Y3NajXCuLZv4CSis
 shortcode: hexhodai
 name:
   full: Héx Hodäi
+  aliases:
+    - The Six Ways
+    - The Sigillum
 folder: H8lfX9Zy7YDUeAjX
 ---
 

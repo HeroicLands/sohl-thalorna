@@ -8,6 +8,7 @@ name:
   given: Guthrún
   clan: Sólvargr
   home: Greyfjord
+  aliases: []
 id: m9vFKsnAzKnA3Uar
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gthrnslvrgr

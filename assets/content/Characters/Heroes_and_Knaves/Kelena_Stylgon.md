@@ -8,6 +8,7 @@ name:
   given: Kêlena
   clan: Stýlgon
   home: Valcèrise
+  aliases: []
 id: dcR8CKR8PUfUxVVF
 folder: J9R0fnGUTBY5z4pd
 shortcode: kelnstylgn

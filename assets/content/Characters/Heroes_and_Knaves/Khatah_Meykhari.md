@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Khatah Mey'khari
-  - Khatah Meykhari
 tags:
   - heroes-and-knaves
   - soldiery
@@ -11,6 +8,8 @@ name:
   given: Khatah
   clan: Mey'khari
   home: Ankh-Setûn
+  aliases:
+    - Khatah Meykhari
 id: 0qJU1wsLVPDSxsZm
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

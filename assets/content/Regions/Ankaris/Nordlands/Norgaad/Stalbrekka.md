@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Stálbrekka
+  aliases: []
 shortcode: stalbrekka
 folder: k5SVeYFVPAxS9hci
 ---

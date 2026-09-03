@@ -4,6 +4,7 @@ type: lore
 subType: theology
 name:
   full: Mandate of Heaven
+  aliases: []
 shortcode: mandatehvn
 folder: hBkQzhJeB05EwziN
 ---

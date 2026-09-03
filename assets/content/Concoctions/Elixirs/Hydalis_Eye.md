@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Hydälis's Eye"
-  - Verity Elixir
 tags:
   - elixir
 name:
   full: "Hydälis's Eye"
+  aliases:
+    - Verity Elixir
 description: "Transparent clarifying elixir; pierces illusions within sixty feet."
 id: C2lKcRBHz6bEwQp6
 img: icons/potion.svg

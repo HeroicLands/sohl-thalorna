@@ -1,11 +1,5 @@
 ---
 description: "Prosperity."
-aliases:
-  - Hâpi
-  - Hapy
-  - Apis
-  - The Golden Reveler
-  - The Overflowing One
 id: mpfUXQTJFTLd0uWF
 tags:
   - kemetian
@@ -107,6 +101,12 @@ sohl:
   archetype: null
 name:
   full: Faith of Hâpi
+  aliases:
+    - Hâpi
+    - Hapy
+    - Apis
+    - The Golden Reveler
+    - The Overflowing One
 shortcode: hapi
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

@@ -2,6 +2,7 @@
 id: fzzz6etkn5W7ziDK
 name:
   full: The Peaches of Zûravlen
+  aliases: []
 shortcode: pechszrvln
 type: scenario
 subType: adventure

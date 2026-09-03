@@ -8,6 +8,7 @@ name:
   given: Íngrithr
   clan: Skýrekkr
   home: Hávamál
+  aliases: []
 id: aiXt5Gk0y8qyILNJ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ingrthrskyrkr

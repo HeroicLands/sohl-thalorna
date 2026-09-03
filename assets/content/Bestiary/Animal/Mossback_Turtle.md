@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Mossback Turtle
+  aliases: []
 description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous domed shell so overgrown with moss, lichen, and fungi it vanishes into the landscape."
 id: 8e0pLwFIiIUuHOsb
 img: icons/game-icons/lorc/turtle.svg

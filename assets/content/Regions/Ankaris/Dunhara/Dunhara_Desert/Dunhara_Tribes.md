@@ -4,6 +4,7 @@ description: "Confederation of nomadic tribes ruling the Dunhara Desert — hors
 type: affiliation
 name:
   full: Dunhara Tribes
+  aliases: []
 shortcode: dunhartrbs
 subType: polity
 data:

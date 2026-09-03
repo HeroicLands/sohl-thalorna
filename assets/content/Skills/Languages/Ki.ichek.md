@@ -1,10 +1,9 @@
 ---
-aliases:
-  - "Ki'ichek"
-  - Ki'ichek
 tags: []
 name:
   full: Ki'ichek Language
+  aliases:
+    - Ki'ichek
 description: "The tonal, hieroglyph-written tongue of the K'ich'chik city-states, whose compound morphology can take a lifetime to master."
 id: fGAccw2evZvOQSJO
 img: icons/speaking.svg

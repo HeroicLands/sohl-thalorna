@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Medicine
+  aliases: []
 shortcode: medicine
 folder: jV7c6dJp4Ztnjtb3
 ---

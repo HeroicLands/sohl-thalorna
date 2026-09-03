@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Chandrapur
+  aliases: []
 shortcode: chandrapur2
 ---
 

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Chicken
+  aliases: []
 id: zAcMdNEQ72INVoNU
 img: images/mystery/chicken.webp
 shortcode: chickenttm

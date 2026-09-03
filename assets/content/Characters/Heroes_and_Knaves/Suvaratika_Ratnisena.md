@@ -8,6 +8,7 @@ name:
   given: Suvaratika
   clan: Ratniseṇa
   home: Chandrapur
+  aliases: []
 id: eGECK7DL3dikpz5l
 folder: JotxZnnXcTECeYW3
 shortcode: suvrtkrtns

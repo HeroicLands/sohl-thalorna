@@ -4,6 +4,7 @@ type: lore
 subType: calendar
 name:
   full: Calendar and Astrology
+  aliases: []
 shortcode: clndrstrlgy
 folder: jV7c6dJp4Ztnjtb3
 ---

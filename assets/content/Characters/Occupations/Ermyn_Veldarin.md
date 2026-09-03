@@ -9,6 +9,7 @@ name:
   given: Êrmyn
   clan: Véldarin
   home: ""
+  aliases: []
 id: QnBow8w3Ndr86Zfn
 folder: 4cwfdMa34UryZqPR
 shortcode: ermynvldrn

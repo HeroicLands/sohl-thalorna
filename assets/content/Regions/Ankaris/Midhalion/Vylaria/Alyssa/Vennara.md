@@ -13,6 +13,7 @@ data:
   population: 6000
 name:
   full: Vennara
+  aliases: []
 shortcode: vennara
 folder: WSdLuPc7BaRqxNEt
 ---

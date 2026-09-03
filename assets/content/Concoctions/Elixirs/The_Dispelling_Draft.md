@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Dispelling Draft
-  - Physic Elixir
 tags:
   - elixir
 name:
   full: The Dispelling Draft
+  aliases:
+    - Physic Elixir
 description: "Colorless liquid; suppresses other active elixirs in imbiber body."
 id: HslJhVm3luadFzZh
 img: icons/potion.svg

@@ -14,6 +14,7 @@ data:
   population: 120000
 name:
   full: Per-Ankhet
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perankhet
 folder: hY8ShSjfUm9QnlGu

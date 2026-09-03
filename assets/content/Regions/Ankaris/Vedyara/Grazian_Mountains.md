@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Grazian Mountains
-  - The Grazian Mountains
-  - The Grazians
-  - The Grazian Wall
 id: Aj5Li2wQQbLyEMm2
 type: place
 subType: region

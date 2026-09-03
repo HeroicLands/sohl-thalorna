@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Siren's Tincture"
-  - "Potion, Aphrodisiac, Great"
 tags:
   - great-elixir
 name:
   full: "Siren's Tincture"
+  aliases:
+    - Potion, Aphrodisiac, Great
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
 id: gUsDtV3N8gXMkJjm
 img: icons/potion.svg

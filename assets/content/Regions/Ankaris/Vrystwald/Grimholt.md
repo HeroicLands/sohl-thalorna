@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Grimholt
+  aliases: []
 shortcode: grimholt
 folder: mCG1TPvjwrV23csZ
 ---

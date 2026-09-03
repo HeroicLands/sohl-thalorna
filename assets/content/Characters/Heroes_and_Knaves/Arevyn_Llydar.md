@@ -8,6 +8,7 @@ name:
   given: Arévyn
   clan: Llýdar
   home: Liranel
+  aliases: []
 id: HS1MvsmNU2KsyuPC
 folder: 4cwfdMa34UryZqPR
 shortcode: arevynlydr

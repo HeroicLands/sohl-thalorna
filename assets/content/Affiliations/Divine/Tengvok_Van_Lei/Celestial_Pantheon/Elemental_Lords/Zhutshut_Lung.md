@@ -7,6 +7,7 @@ tags:
   - water
 name:
   full: Zhütshüt Lüng
+  aliases: []
 shortcode: zhutshtlng
 type: affiliation
 subType: faithtradition

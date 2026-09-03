@@ -1,11 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ptā'h"
-  - "Ptā'h"
-  - Ptah
-  - Phtah
-  - The Shaper of the Eternal World
-  - The Divine Craftsman
 tags:
   - kemetian
   - faith-skill
@@ -15,6 +8,12 @@ id: axO24ya2JdtsXpKt
 shortcode: ptah
 name:
   full: "Ritual: Ptā'h"
+  aliases:
+    - Ptā'h
+    - Ptah
+    - Phtah
+    - The Shaper of the Eternal World
+    - The Divine Craftsman
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

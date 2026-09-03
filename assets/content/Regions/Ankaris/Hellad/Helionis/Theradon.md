@@ -4,6 +4,7 @@ description: "Inland Helionite city-state of terraced marble colonnades — olig
 type: affiliation
 name:
   full: Therádon
+  aliases: []
 shortcode: theradon
 subType: polity
 data:

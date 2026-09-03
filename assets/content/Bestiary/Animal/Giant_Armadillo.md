@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Armadillo
+  aliases: []
 description: "A solitary armored mammal exceeding twelve feet, a living fortress of bony plates that fiercely defends its vast nocturnal burrows."
 id: n2nQ2Jd3wZHiIlb9
 img: icons/game-icons/caro-asercion/pangolin.svg

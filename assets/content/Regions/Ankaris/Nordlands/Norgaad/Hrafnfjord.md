@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Hrafnfjord
+  aliases: []
 shortcode: hrafnfjord
 folder: k5SVeYFVPAxS9hci
 ---

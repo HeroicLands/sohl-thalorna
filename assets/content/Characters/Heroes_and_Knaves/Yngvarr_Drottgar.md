@@ -9,6 +9,7 @@ name:
   given: Yngvarr
   clan: Dróttgar
   home: Frostmark
+  aliases: []
 id: 2mKYgaRHKWc3R4gK
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrdrtgr

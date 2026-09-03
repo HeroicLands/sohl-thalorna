@@ -4,6 +4,7 @@ type: lore
 subType: cosmology
 name:
   full: Philosophy of Lëivōr
+  aliases: []
 shortcode: phlsphylvr
 folder: jV7c6dJp4Ztnjtb3
 ---

@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Belpòrte
+  aliases: []
 shortcode: belporte
 folder: 2s244hfP0BpQi195
 ---

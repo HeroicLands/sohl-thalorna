@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Freedman
+  aliases: []
 shortcode: freedmanrnk
 description: "Manumitted, and still bound in obligation to a former master."
 ---

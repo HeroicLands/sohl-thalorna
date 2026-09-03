@@ -19,6 +19,7 @@ id: UMwapuEoRc7pnmZT
 shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale
+  aliases: []
 folder: 9TmLIkGXGHMtFxzy
 ---
 

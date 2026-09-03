@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Iron Wolves Company
-  - The Iron Wolves
 tags:
   - company
   - mercenary

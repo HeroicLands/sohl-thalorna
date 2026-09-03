@@ -4,6 +4,7 @@ description: "Largest and most fertile of Tarvénia's three kingdoms in the cent
 type: affiliation
 name:
   full: Kingdom of Léonrik
+  aliases: []
 shortcode: kingdmlnrk
 subType: polity
 data:

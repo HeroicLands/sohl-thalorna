@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Lotus Ease
-  - "Potion, Narcotic, Strong"
 tags:
   - strong-elixir
 name:
   full: Lotus Ease
+  aliases:
+    - Potion, Narcotic, Strong
 description: "Deep amber golden liquid; brings profound peace and calm."
 id: SsUpnNHOJ4qMzlFj
 img: icons/potion.svg

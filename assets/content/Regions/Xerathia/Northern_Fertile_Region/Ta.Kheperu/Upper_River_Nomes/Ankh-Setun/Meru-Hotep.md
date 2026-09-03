@@ -15,6 +15,7 @@ data:
   population: 25000
 name:
   full: Meru-Hotep
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: meruhotep
 folder: DCVpoMWDdub9pwDR

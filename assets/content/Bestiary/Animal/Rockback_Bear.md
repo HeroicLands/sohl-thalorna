@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Rockback Bear
+  aliases: []
 description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
 id: KRJCfi3ZMuOYTwFd
 img: icons/game-icons/delapouite/bear-head.svg

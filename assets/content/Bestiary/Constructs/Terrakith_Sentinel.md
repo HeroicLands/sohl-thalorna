@@ -3,6 +3,7 @@ tags:
   - construct
 name:
   full: Terrakith Sentinel
+  aliases: []
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
 id: mYRlDMSiKnHIpUzq
 img: icons/game-icons/delapouite/rock-golem.svg

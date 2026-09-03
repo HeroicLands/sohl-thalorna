@@ -8,6 +8,7 @@ shortcode: zepharis
 img: images/affiliation/zepharis.webp
 name:
   full: Incantus Zephäris
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

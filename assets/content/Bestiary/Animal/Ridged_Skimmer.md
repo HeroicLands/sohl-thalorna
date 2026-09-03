@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Ridged Skimmer
+  aliases: []
 description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
 id: 6dbt4Nbd3KY7TJta
 img: icons/game-icons/lorc/paw-print.svg

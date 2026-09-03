@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vargskær the Fellblade
-  - Vargskaer the Fellblade
 tags:
   - demigod
   - heroes-of-asguard
@@ -14,6 +11,7 @@ name:
   clan: null
   aliases:
     - the Fellblade
+    - Vargskaer the Fellblade
   home: null
 id: sflJFLRFBVN0a1zP
 folder: Ka9XqaF27b0I3Gmq

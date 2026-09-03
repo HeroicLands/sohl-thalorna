@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Drekavík
+  aliases: []
 shortcode: drekavik
 folder: k5SVeYFVPAxS9hci
 ---

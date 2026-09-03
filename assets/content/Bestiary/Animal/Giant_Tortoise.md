@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Tortoise
+  aliases: []
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
 id: ydAbGU9VRn1tdWQ5
 img: icons/game-icons/delapouite/tortoise.svg

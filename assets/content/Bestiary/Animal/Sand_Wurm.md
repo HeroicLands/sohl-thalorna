@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Sand Wurm
+  aliases: []
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
 id: 7hW9W4pXEtgVMSMD
 img: icons/game-icons/lorc/worm-mouth.svg

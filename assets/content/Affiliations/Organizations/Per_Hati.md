@@ -1,10 +1,4 @@
 ---
-aliases:
-  - Pér-Háti
-  - Per'Háti
-  - Per_Hati
-  - The Temple Treasury
-  - The House of the Account
 tags:
   - organization
   - takheperu

@@ -6,6 +6,7 @@ type: lore
 subType: deity
 name:
   full: Týr
+  aliases: []
 shortcode: tyrdty
 ---
 

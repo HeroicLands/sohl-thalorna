@@ -1,8 +1,5 @@
 ---
 description: "Creation, Renewal, Cosmic Life, Artisanship."
-aliases:
-  - Faith of Míthárä
-  - The World's First Light
 id: 8PG0NECWKMt86vzh
 tags:
   - religion
@@ -103,6 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Míthárä
+  aliases:
+    - The World's First Light
 shortcode: mithara
 alias: Míthárä, The World's First Light
 folder: 7so6UiPt445oIHWs

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Haradian Currency
-  - Haradian Currency System
-  - Bayt al-Khazînah
 tags:
   - reference
   - currency
@@ -14,6 +10,9 @@ subType: economy
 id: kZXrUIVkc5qtppwM
 name:
   full: Haradian Currency
+  aliases:
+    - Haradian Currency System
+    - Bayt al-Khazînah
 shortcode: hardncrncy
 folder:
 ---

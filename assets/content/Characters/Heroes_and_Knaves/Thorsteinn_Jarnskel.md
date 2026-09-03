@@ -8,6 +8,7 @@ name:
   given: Thorsteinn
   clan: Járnskel
   home: Járnhavn
+  aliases: []
 id: PfkHxcqixrNhiLmM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnjrnskl

@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Varṇaka Pantheon
-  - Varnaka Pantheon
-  - Varnaka
 id: x2NNv3MyaPmNVs99
 description: "Vedyaran tradition organized into sects, emphasizing the eternal cycle of creation, preservation, and destruction across multiple incarnations and spiritual devotions."
 name:
   full: Varṇaka Pantheon
+  aliases:
+    - Varnaka
 shortcode: varakpnthn
 type: affiliation
 subType: faithtradition

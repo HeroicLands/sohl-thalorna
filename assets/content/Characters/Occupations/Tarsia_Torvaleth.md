@@ -9,6 +9,7 @@ name:
   given: Társia
   clan: Torvaleth
   home: ""
+  aliases: []
 id: 1eoPni6JDWYlgAAC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: tarstrvlth

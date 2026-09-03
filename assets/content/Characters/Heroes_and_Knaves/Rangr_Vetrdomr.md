@@ -8,6 +8,7 @@ name:
   given: Rängr
   clan: Vetrdómr
   home: Skorrborg
+  aliases: []
 id: WfReEkqClUXafnNc
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rngrvtrdmr

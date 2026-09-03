@@ -14,6 +14,7 @@ data:
   population: 2000
 name:
   full: Sanctara
+  aliases: []
 shortcode: sanctara
 folder: WSdLuPc7BaRqxNEt
 ---

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - K'ich'chik Continent
-  - K'ich'chik
-  - Kichchik
 tags:
   - continent
   - kichchik
@@ -19,6 +15,9 @@ id: M6DQs1jWkoqbUTr2
 shortcode: kchchkcntnnt
 name:
   full: K'ich'chik Continent
+  aliases:
+    - K'ich'chik
+    - Kichchik
 description: The western continent — a pyramid-building theocratic civilization unified under the Itzáni faith, with unconquered tribal nations in the north and forsaken wastes in the far south.
 terran_analog: "North America and South America joined as one great continent — pre-Columbian Mesoamerica/Andean civilization in the central and southern reaches, unconquered tribal nations in the North-American-analog north, and the forsaken Patagonian-analog wastes in the far south. The connecting isthmus (Central-America-analog) is roughly five times broader than the real-world Panama, giving K'ich'chik the geographic continuity that the Americas in the real world only narrowly preserve."
 folder: zDQN9rrPPHsbLgoQ

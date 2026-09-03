@@ -8,6 +8,7 @@ name:
   given: Arkádios
   clan: Philomédis
   home: Chrysamar
+  aliases: []
 id: JtOURC71suokEdaY
 folder: b81DHx3S7C9ep13E
 shortcode: arkdsphlmds

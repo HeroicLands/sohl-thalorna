@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Árávēštä"
-  - The Golden Giver
 tags:
   - ashalan
   - faith-skill
@@ -11,6 +8,8 @@ id: l3uhBirWLAYnjIsf
 shortcode: aravesta
 name:
   full: "Ritual: Árávēštä"
+  aliases:
+    - The Golden Giver
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

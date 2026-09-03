@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Katar
+  aliases: []
 description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
 id: QbOkvwNX1cWioyyn
 img: icons/broad-dagger.svg

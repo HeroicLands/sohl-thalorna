@@ -1,8 +1,5 @@
 ---
 description: "Voyages."
-aliases:
-  - Faith of Hórús
-  - Hórús, The Guiding Falcon
 id: 9lJldXhTBsDUDurQ
 tags:
   - kemetian
@@ -103,6 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Hórús
+  aliases:
+    - Hórús, The Guiding Falcon
 shortcode: horus
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

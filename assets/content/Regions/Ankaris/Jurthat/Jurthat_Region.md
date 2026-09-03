@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Jürthāt Region
-  - Jürthāti Archipelago
 tags:
   - region
 description: The Jürthāti archipelago — a ring of nine volcanic islands east of Tānvür, sovereign home of the feudal kingdom of Jürthāt.
 name:
   full: Jürthāt Region
+  aliases:
+    - Jürthāti Archipelago
 id: DUxKyyoSACYzRQpy
 shortcode: jurthatrgn
 img: ""

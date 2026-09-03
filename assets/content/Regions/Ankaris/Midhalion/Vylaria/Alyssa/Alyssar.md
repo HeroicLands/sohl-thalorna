@@ -14,6 +14,7 @@ data:
   population: 45000
 name:
   full: Alyssar
+  aliases: []
 shortcode: alyssar
 folder: WSdLuPc7BaRqxNEt
 ---

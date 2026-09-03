@@ -1,9 +1,5 @@
 ---
 description: "Knowledge, Wisdom, Truth."
-aliases:
-  - Faith of Khóršádrä
-  - Bearer of Eternal Light
-  - Wisdom Goddess
 id: LUKFXYlNcrFwTl8r
 tags:
   - religion
@@ -105,6 +101,9 @@ sohl:
   archetype: null
 name:
   full: Faith of Khóršádrä
+  aliases:
+    - Bearer of Eternal Light
+    - Wisdom Goddess
 shortcode: korsadra
 alias: Khóršádrä, Bearer of Eternal Light
 folder: 7so6UiPt445oIHWs

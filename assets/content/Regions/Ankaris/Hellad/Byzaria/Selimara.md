@@ -7,6 +7,7 @@ description: "Trading Town"
 type: place
 name:
   full: Selímara
+  aliases: []
 shortcode: selimara
 subType: settlement
 data:

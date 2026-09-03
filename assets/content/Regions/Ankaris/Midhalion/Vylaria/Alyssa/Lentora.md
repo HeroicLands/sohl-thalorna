@@ -13,6 +13,7 @@ data:
   population: 32000
 name:
   full: Lentora
+  aliases: []
 shortcode: lentora
 folder: WSdLuPc7BaRqxNEt
 ---

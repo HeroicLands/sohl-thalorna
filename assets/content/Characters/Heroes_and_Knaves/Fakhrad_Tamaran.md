@@ -9,6 +9,7 @@ name:
   given: Fakhrad
   clan: Tamârân
   home: Shamsûn
+  aliases: []
 id: mz6d5dp9JqrXm87U
 folder: V1t8DVX0wKSOCJd5
 shortcode: fakhrdtmrn

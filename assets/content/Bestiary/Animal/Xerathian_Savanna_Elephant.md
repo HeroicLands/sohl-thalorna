@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Xerathian Savanna Elephant
+  aliases: []
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
 id: XghBgeCi6JfLAZbD
 img: icons/game-icons/delapouite/elephant.svg

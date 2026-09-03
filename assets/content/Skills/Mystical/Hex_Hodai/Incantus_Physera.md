@@ -8,6 +8,7 @@ shortcode: physera
 img: images/affiliation/physera.webp
 name:
   full: Incantus Physéra
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

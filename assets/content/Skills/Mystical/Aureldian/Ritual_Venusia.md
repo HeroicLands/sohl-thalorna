@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Venusia"
-  - Vénusia
-  - The Bountiful One
 tags:
   - aureldian
   - faith-skill
@@ -13,6 +9,9 @@ shortcode: venusia
 img: images/affiliation/venusia.webp
 name:
   full: "Ritual: Venusia"
+  aliases:
+    - Vénusia
+    - The Bountiful One
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

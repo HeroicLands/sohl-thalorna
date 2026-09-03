@@ -9,6 +9,7 @@ name:
   given: Xénokôs
   clan: Bárdâs
   home: ""
+  aliases: []
 id: H4KPfA1lquCu2r6A
 folder: UFBfgKZUF0bAE7gG
 shortcode: xenoksbrds

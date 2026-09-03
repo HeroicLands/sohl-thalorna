@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ánubís"
-  - Ánubís, The Keeper of Transitions
 tags:
   - kemetian
   - faith-skill
@@ -11,6 +8,8 @@ id: hj4uC8BPlczmfJWV
 shortcode: anubis
 name:
   full: "Ritual: Ánubís"
+  aliases:
+    - Ánubís, The Keeper of Transitions
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

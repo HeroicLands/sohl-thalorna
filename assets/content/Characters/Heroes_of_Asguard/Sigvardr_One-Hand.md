@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigvarðr One-Hand
-  - Sigvardr One-Hand
 tags:
   - paragon
   - heroes-of-asguard
@@ -13,6 +10,7 @@ name:
   clan: null
   aliases:
     - One-Hand
+    - Sigvardr One-Hand
   home: null
 id: d19oZWzJXH9Soxub
 folder: Ka9XqaF27b0I3Gmq

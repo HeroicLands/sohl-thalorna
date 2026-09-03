@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Therádon
+  aliases: []
 shortcode: theradon2
 ---
 

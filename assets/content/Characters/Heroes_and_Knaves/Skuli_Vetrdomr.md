@@ -9,6 +9,7 @@ name:
   given: Skúli
   clan: Vetrdómr
   home: Greyfjord
+  aliases: []
 id: 84SmKjnQrLLxWImQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: skulvtrdmr

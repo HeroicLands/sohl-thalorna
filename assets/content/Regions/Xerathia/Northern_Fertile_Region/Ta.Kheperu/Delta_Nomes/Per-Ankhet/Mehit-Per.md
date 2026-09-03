@@ -14,6 +14,7 @@ data:
   population: 14000
 name:
   full: Mehit-Per
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: mehitper
 folder: hY8ShSjfUm9QnlGu

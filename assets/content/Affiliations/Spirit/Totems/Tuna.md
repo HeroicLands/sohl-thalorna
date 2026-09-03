@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Tuna
+  aliases: []
 id: 1CsCdba2A5DtIurL
 img: images/mystery/tuna.webp
 shortcode: tunattm

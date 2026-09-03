@@ -9,6 +9,7 @@ name:
   given: Pallàvi
   clan: Drâviksha
   home: Vyālendra
+  aliases: []
 id: H5ejeuVYV1L7tk3n
 folder: JotxZnnXcTECeYW3
 shortcode: palvdrvksh

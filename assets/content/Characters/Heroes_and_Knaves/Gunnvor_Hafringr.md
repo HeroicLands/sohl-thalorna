@@ -9,6 +9,7 @@ name:
   given: Gunnvǫr
   clan: Hafringr
   home: Drekavík
+  aliases: []
 id: SbSOX4r7roxdSEi4
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gnvrhfrngr

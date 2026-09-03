@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Crag Lurker
+  aliases: []
 description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
 id: bnKZuFaJKbkhFJxn
 img: icons/game-icons/lorc/paw-print.svg

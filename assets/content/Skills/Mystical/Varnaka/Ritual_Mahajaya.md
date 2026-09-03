@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Mahájaya"
-  - Mahájaya
-  - Mahajaya
-  - The Eternal Preserver
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: MiEDAWoEZ3M08tft
 shortcode: mahajaya
 name:
   full: "Ritual: Mahájaya"
+  aliases:
+    - Mahájaya
+    - Mahajaya
+    - The Eternal Preserver
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

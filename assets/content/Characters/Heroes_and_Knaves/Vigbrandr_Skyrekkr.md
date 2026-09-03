@@ -9,6 +9,7 @@ name:
   given: Vígbrandr
   clan: Skýrekkr
   home: Valgard
+  aliases: []
 id: 0kCfEiBx8AXiqcIR
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vgbrndrskyrkr

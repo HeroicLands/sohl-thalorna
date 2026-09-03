@@ -8,6 +8,7 @@ name:
   given: Mithran
   clan: Mazânid
   home: Shamsûn
+  aliases: []
 id: DgnJDWv2gTRRXzJJ
 folder: V1t8DVX0wKSOCJd5
 shortcode: mithrnmznd

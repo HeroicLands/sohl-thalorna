@@ -4,6 +4,7 @@ description: "The maritime province of the Vylarian Empire — its coast lined w
 type: affiliation
 name:
   full: Province of Vald
+  aliases: []
 shortcode: provincvld
 subType: polity
 data:

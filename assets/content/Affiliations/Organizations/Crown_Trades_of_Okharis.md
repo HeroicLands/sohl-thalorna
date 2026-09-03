@@ -1,9 +1,4 @@
 ---
-aliases:
-  - The Crown Trades of Okháris
-  - Crown Trades of Okháris
-  - The Three-Flame Charters
-  - Royal Trades of Okháris
 tags: []
 description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris — small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Ta'Kheperan currency through correspondent banking arrangements."
 id: 6K44tsfV5mWUtRn8
@@ -12,6 +7,7 @@ name:
   aliases:
     - The Three-Flame Charters
     - The Royal Trades
+    - Royal Trades of Okháris
 shortcode: crwntrdskhrs
 type: affiliation
 subType: guild

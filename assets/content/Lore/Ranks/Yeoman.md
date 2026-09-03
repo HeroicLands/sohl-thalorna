@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Yeoman
+  aliases: []
 shortcode: yeomanrnk
 description: "A free landholder bearing arms in his own name and speaking at the assembly."
 ---

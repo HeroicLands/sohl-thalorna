@@ -4,6 +4,7 @@ description: "City-state of Helionis governed by an oligarchy of wealthy patron 
 type: affiliation
 name:
   full: Athenikos
+  aliases: []
 shortcode: athenikos
 subType: polity
 data:

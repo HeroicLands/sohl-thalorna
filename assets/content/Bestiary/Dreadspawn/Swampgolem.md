@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Swampgolem
+  aliases: []
 description: "A malevolent animate mass of mud, rot, and drowned bones, formed by the swamp itself to lash out at intruders."
 id: rkqNzivEoFUry3Wa
 img: icons/game-icons/delapouite/golem-head.svg

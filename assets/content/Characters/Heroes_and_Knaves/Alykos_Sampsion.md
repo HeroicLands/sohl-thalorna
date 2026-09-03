@@ -9,6 +9,7 @@ name:
   given: Alýkos
   clan: Sampsiôn
   home: Selímara
+  aliases: []
 id: aTwfQByXFdJ0R4QM
 folder: b81DHx3S7C9ep13E
 shortcode: alykosmpsn

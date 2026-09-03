@@ -8,6 +8,7 @@ name:
   given: Tamûra
   clan: Sūryatejamahānanda
   home: Rājapur
+  aliases: []
 id: e5ZUZ5Awlc7fthSo
 folder: JotxZnnXcTECeYW3
 shortcode: tmrsrytjmhnnd

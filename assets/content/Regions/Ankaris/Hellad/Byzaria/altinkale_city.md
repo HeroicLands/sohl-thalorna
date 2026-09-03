@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Altinkale
+  aliases: []
 shortcode: altinkale2
 ---
 

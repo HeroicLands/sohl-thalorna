@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Servant
+  aliases: []
 shortcode: servantrnk
 description: "Kept for labour about a household or a company, and not counted among its members."
 ---

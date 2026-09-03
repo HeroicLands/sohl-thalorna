@@ -4,6 +4,7 @@ description: "Maritime smuggling confederation of northern captains moving contr
 id: Z6P0QVF1y5SOs9WA
 name:
   full: The Gray Tide
+  aliases: []
 shortcode: graytide
 type: affiliation
 subType: criminal

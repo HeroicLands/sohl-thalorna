@@ -3,6 +3,7 @@ id: Nt9lHOYBlcsUEK2l
 description: "Cartography of religious tradition across Thalorna, showing pantheon worship by region and documenting shared deities who manifest across multiple cosmologies."
 name:
   full: Pantheon Regional Map
+  aliases: []
 shortcode: pnthnrgnlmp
 type: lore
 subType: theology

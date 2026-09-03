@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Rā"
-  - The Solar Flame
-  - Rā
-  - Ra
 tags:
   - kemetian
   - faith-skill
@@ -13,6 +8,10 @@ id: TEz50VjVg3O2qT7X
 shortcode: ra
 name:
   full: "Ritual: Rā"
+  aliases:
+    - The Solar Flame
+    - Rā
+    - Ra
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

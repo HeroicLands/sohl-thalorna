@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Cliff Stalker
+  aliases: []
 description: "A massive solitary mountain feline built for vertical terrain and patient precision ambush, far larger than any snow leopard."
 id: A2bZirKOMgCcZ7qS
 img: icons/game-icons/lorc/paw-print.svg

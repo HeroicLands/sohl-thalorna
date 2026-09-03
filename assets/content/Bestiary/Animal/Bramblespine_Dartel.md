@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Bramblespine Dartel
+  aliases: []
 description: "A small, heavily armored arid-land reptile, far less deadly than large predators but disproportionately hazardous through its spined defenses."
 id: eDyiMoyAhdyDQpvk
 img: icons/game-icons/lorc/paw-print.svg

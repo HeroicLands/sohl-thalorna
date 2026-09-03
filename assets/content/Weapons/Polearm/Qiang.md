@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Qiang
+  aliases: []
 description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
 id: M8YvZgWiTMJHd31Q
 img: icons/polearm.svg

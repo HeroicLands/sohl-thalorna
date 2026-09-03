@@ -9,6 +9,7 @@ name:
   given: Chrysántos
   clan: Kavadáris
   home: Thálassos
+  aliases: []
 id: BtMTHqs8q6Gckwb6
 folder: b81DHx3S7C9ep13E
 shortcode: chrysntskvdrs

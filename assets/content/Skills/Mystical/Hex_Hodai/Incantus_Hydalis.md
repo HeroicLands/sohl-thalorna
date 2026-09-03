@@ -8,6 +8,7 @@ shortcode: hydalis
 img: images/affiliation/hydalis.webp
 name:
   full: Incantus Hydälis
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

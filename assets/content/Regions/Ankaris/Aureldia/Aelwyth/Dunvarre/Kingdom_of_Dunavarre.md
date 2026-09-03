@@ -4,6 +4,7 @@ description: "Island kingdom of Aelwyth ruled directly by a synod of Ordo Arcani
 type: affiliation
 name:
   full: Kingdom of Dúnavarre
+  aliases: []
 shortcode: kingdmdnvr
 subType: polity
 data:

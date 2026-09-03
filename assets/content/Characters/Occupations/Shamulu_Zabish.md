@@ -9,6 +9,7 @@ name:
   given: Shamûlû
   clan: Zabîsh
   home: Ashkabel
+  aliases: []
 id: d6XfPKoIVU27c66l
 folder: PuQFDMkRM9i60i5Z
 shortcode: shamulzbsh

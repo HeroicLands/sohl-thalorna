@@ -1,13 +1,12 @@
 ---
-aliases:
-  - Border Nomes
-  - The Border Nomes of Ta'Kheperu
 id: YoMOpU26pV376QTY
 description: "The military frontier of Ta'Kheperu — ten thinly-peopled marches on the southern cataracts, the eastern mineral hills, and the western steppe-edge, whose nomarchs rule as military governors and whose hard postings breed the empire's most experienced soldiers."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Border Nomes
+  aliases:
+    - The Border Nomes of Ta'Kheperu
 shortcode: bordernoms
 subType: polity
 data:

@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Mountain Drake
+  aliases: []
 description: "A lean, granite-scaled reptilian predator up to eight feet long, spined along the back and built to climb and ambush across rocky mountain terrain."
 id: LtrwdR2jwzBxLm9J
 img: icons/game-icons/faithtoken/dragon-head.svg

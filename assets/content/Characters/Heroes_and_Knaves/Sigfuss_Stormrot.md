@@ -8,6 +8,7 @@ name:
   given: Sigfúss
   clan: Stormrót
   home: Bjornstad
+  aliases: []
 id: uKal2sQw3LTDMtFf
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sigfstrmrt

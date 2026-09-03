@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Presiding Officer
+  aliases: []
 shortcode: prsdngffcrrnk
 description: "Presiding over a body that is itself sovereign, and holding nothing apart from it."
 ---

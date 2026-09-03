@@ -1,9 +1,4 @@
 ---
-aliases:
-  - The Order of Storm-Speakers
-  - The Order of the Storm-Speakers
-  - Order of Storm Speakers
-  - Stormmælendir
 tags: []
 description: "Warrior-shamans of Þórr who fight as the storm fights — combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
 id: mW5aOqLWSVl4cHlh

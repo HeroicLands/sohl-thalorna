@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Kingdom of Norgaad
-  - Norgaad
 id: zhKw1Qd8HdeRSjLf
 description: "Central Normen kingdom of fjords, mountain passes, and silver-mines — diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
 type: affiliation
 name:
   full: Kingdom of Norgaad
+  aliases:
+    - Norgaad
 shortcode: kingdmnrgd
 subType: polity
 data:

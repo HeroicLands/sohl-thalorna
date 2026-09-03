@@ -14,6 +14,7 @@ data:
   population: 6000
 name:
   full: Castrovar
+  aliases: []
 shortcode: castrovar
 folder: WSdLuPc7BaRqxNEt
 ---

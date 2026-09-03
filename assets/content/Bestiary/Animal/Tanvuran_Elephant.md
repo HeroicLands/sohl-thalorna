@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Tānvüran Elephant
+  aliases: []
 description: "A massive, highly intelligent tusked megafauna often domesticated for labor and war, yet formidable and deadly in the wild."
 id: hKF5XSPgvAUIQtLc
 img: icons/game-icons/delapouite/elephant.svg

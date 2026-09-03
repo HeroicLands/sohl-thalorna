@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Apprentice
+  aliases: []
 shortcode: apprenticernk
 description: "Bound to a master for a term of years, fed and taught and holding neither tools nor wage."
 ---

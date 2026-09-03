@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Yeşilhan
+  aliases: []
 shortcode: yesilhan2
 ---
 

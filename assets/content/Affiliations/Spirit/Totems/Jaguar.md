@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Jaguar
+  aliases: []
 id: wUJqCGHtATIIh99Q
 img: images/mystery/jaguar.webp
 shortcode: jaguarttm

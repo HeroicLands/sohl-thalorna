@@ -15,6 +15,7 @@ data:
   population: 90000
 name:
   full: Khensuret
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: khensuret
 folder: bq0QGXXvq8fNpewL

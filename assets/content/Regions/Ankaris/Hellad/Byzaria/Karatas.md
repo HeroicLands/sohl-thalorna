@@ -4,6 +4,7 @@ description: "City-state of the Byzarian League — fortress-city controlling cr
 type: affiliation
 name:
   full: Karataş
+  aliases: []
 shortcode: karatas
 subType: polity
 data:

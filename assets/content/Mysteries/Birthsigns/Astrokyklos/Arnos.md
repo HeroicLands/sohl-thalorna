@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Arnos
+  aliases: []
 description: "The Ram: green-fingered and at home in wild country, and never light on their feet."
 id: 7IP3RJVcyDlNdHeN
 img: systems/sohl/assets/icons/other/astrology.svg

@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Hürnzhük"
-  - Hürnzhük
-  - Hurnzhuk
-  - The Lord of the Unclassified
-  - The First Refusal
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,6 +8,11 @@ id: n5aHzGXhwIpKOn73
 shortcode: hurnzhuk
 name:
   full: "Ritual: Hürnzhük"
+  aliases:
+    - Hürnzhük
+    - Hurnzhuk
+    - The Lord of the Unclassified
+    - The First Refusal
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

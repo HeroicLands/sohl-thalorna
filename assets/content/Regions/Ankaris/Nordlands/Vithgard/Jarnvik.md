@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Járnvík
+  aliases: []
 shortcode: jarnvik
 folder: KvGb463Iw9hZLRjp
 ---

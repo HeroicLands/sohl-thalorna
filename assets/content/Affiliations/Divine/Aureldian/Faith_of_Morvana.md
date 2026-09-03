@@ -1,9 +1,5 @@
 ---
 description: "Decay."
-aliases:
-  - Faith of Mórváná
-  - Faith of Morvana
-  - Mórváná
 id: uGNJ9wMBepodXTeP
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Morvana
   aliases:
     - Mistress of the Waning Moon
+    - Mórváná
 shortcode: morvana
 img: images/affiliation/morvana.webp
 folder: uMjCDTomEtc5Z0KV

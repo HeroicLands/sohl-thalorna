@@ -3,6 +3,7 @@ tags:
   - folk
 name:
   full: Grukar-Sha
+  aliases: []
 description: "A frail, cunning Grukar schemer who survives by never seeming a threat, winning through manipulation rather than any fair fight."
 id: FBrFf3Qr1QfvV4QY
 img: icons/game-icons/delapouite/orc-head.svg

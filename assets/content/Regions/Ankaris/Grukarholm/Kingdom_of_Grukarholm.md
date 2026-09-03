@@ -4,6 +4,7 @@ description: "Underground kingdom of the Grukar (hill-dwarves) carved into the G
 type: affiliation
 name:
   full: Grukarhölm
+  aliases: []
 shortcode: grukarholm
 subType: polity
 data:

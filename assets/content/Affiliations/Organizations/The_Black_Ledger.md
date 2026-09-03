@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Black Ledger
-  - Black Ledger
-  - The Underground Cartography Network
 tags:
   - organization
   - underworld

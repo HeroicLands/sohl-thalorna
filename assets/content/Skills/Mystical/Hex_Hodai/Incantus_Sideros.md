@@ -8,6 +8,7 @@ shortcode: sideros
 img: images/affiliation/sideros.webp
 name:
   full: Incantus Sidéros
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

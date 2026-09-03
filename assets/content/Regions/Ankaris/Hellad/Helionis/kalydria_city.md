@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Kalydria
+  aliases: []
 shortcode: kalydria2
 ---
 

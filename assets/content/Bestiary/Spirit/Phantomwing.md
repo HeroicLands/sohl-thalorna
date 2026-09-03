@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Phantomwing
+  aliases: []
 description: "The lonely, searching spirit of a creature that died far from home, pursuing living beings in hope of companionship it can never reclaim."
 id: HgferELsOeHk6yUO
 img: icons/game-icons/lorc/spectre.svg

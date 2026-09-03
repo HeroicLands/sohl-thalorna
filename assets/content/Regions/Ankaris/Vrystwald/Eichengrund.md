@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Eichengrund
+  aliases: []
 shortcode: eichengrnd
 folder: mCG1TPvjwrV23csZ
 ---

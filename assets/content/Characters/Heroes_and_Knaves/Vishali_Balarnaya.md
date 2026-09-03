@@ -8,6 +8,7 @@ name:
   given: Vishali
   clan: Bâlarṇaya
   home: Rājapur
+  aliases: []
 id: GsNhNWQb3LsLeUGY
 folder: JotxZnnXcTECeYW3
 shortcode: vishalblry

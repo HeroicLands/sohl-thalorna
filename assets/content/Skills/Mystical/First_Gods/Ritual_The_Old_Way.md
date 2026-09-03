@@ -1,11 +1,4 @@
 ---
-aliases:
-  - "Ritual: The Old Way"
-  - The Old Way
-  - The Old Ways
-  - Way of the First
-  - The Way of the First
-  - The Shaman Way
 tags:
   - first-gods
   - faith-skill
@@ -15,6 +8,12 @@ id: xkiYiIgUFLqiCVFb
 shortcode: theoldway
 name:
   full: "Ritual: The Old Way"
+  aliases:
+    - The Old Way
+    - The Old Ways
+    - Way of the First
+    - The Way of the First
+    - The Shaman Way
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Heartflame
-  - "Potion, Stimulant, Great"
 tags:
   - great-elixir
 name:
   full: Heartflame
+  aliases:
+    - Potion, Stimulant, Great
 description: "Blazing red-gold liquid; grants enhanced strength and physical power."
 id: Zvc03XNhctw5xXAd
 img: icons/potion.svg

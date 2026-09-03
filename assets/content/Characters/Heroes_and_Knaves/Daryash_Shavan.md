@@ -8,6 +8,7 @@ name:
   given: Daryash
   clan: Shavân
   home: Zaristan
+  aliases: []
 id: O6tHeE3VuZgiVhP8
 folder: V1t8DVX0wKSOCJd5
 shortcode: daryshshvn

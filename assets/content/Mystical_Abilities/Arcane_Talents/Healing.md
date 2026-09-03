@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Healing
+  aliases: []
 id: pePR5Mx28MLY4Kgv
 img: icons/psionics.svg
 shortcode: heal

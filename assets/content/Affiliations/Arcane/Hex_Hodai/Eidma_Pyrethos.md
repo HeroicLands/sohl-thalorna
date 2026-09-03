@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Pyréthos
 tags:
   - hex-hodai
 type: affiliation
@@ -93,6 +91,8 @@ shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
 name:
   full: Pyréthos
+  aliases:
+    - Eídma Pyréthos
 sohl:
   archetype: null
 thalorna:

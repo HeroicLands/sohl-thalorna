@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Rabbit
+  aliases: []
 id: FflqdVjsjGPrZYY9
 img: images/mystery/rabbit.webp
 shortcode: rabbitttm

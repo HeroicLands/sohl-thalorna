@@ -8,6 +8,7 @@ name:
   given: Vǫggr
   clan: Blóthǫll
   home: Blóth
+  aliases: []
 id: MveWFi3LLbH015Yk
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vogrblothl

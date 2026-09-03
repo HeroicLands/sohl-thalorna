@@ -1,9 +1,5 @@
 ---
 description: "Prosperity."
-aliases:
-  - Faith of Vénusia
-  - Faith of Venusia
-  - Vénusia
 id: C6gcaaK9X8xfijg6
 tags:
   - aureldian
@@ -106,6 +102,7 @@ name:
   full: Faith of Venusia
   aliases:
     - The Bountiful One
+    - Vénusia
 shortcode: venusia
 img: images/affiliation/venusia.webp
 folder: uMjCDTomEtc5Z0KV

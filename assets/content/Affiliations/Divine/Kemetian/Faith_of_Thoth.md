@@ -1,10 +1,5 @@
 ---
 description: "Knowledge."
-aliases:
-  - Thōth
-  - Djhuty
-  - Thaut
-  - The Scribe of the Eternal Library
 id: 0EY3S80hl04Zy5Xx
 tags:
   - kemetian
@@ -106,6 +101,11 @@ sohl:
   archetype: null
 name:
   full: Faith of Thōth
+  aliases:
+    - Thōth
+    - Djhuty
+    - Thaut
+    - The Scribe of the Eternal Library
 shortcode: thoth
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Jürthāt Empire
-  - Jurthat Empire
-  - Thātvōng
-  - Kingdom of Mountains and Seas
 tags:
   - region
   - Ankaris
@@ -15,6 +10,8 @@ name:
   full: Jürthāt Empire
   aliases:
     - Nine Mountains
+    - Thātvōng
+    - Kingdom of Mountains and Seas
 id: X3mxTrn5z3vxzI0C
 shortcode: jurthatempr
 img: ""

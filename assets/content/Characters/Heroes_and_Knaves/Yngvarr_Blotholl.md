@@ -8,6 +8,7 @@ name:
   given: Yngvarr
   clan: Blóthǫll
   home: Ormstead
+  aliases: []
 id: kIbWnNYsUS07Rw5e
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrblthl

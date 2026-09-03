@@ -3,6 +3,7 @@ tags:
   - elemental
 name:
   full: Thundertalon
+  aliases: []
 description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
 id: BER0R5sENldRKjgM
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Magnápolis
-  - Magnapolis City
 id: aYb1o7HjieqorZW7
 tags:
   - capital
@@ -17,6 +14,8 @@ data:
   population: null
 name:
   full: Magnápolis
+  aliases:
+    - Magnapolis City
 shortcode: magnapolis
 folder: WSdLuPc7BaRqxNEt
 ---

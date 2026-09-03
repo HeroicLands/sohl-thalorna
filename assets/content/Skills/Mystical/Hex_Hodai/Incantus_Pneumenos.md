@@ -8,6 +8,7 @@ shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
 name:
   full: Incantus Pneuménos
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

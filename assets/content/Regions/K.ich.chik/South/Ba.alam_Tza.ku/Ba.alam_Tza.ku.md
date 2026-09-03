@@ -5,6 +5,7 @@ title: ""
 description: "Jewel of the southern K'ich'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
 name:
   full: Ba'alam Tza'ku
+  aliases: []
 id: POOjlSix7q3cOVCo
 shortcode: balamtzaku
 img: ""

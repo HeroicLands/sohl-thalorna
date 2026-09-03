@@ -8,6 +8,7 @@ shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
 name:
   full: Incantus Pyréthos
+  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

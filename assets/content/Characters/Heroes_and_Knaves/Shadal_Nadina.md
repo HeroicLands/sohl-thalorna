@@ -9,6 +9,7 @@ name:
   given: Shadal
   clan: Nadina
   home: Vashurán
+  aliases: []
 id: a40goq3AuU9OErFG
 folder: mtJ4TzKdySHbE2OM
 shortcode: shadalnadn

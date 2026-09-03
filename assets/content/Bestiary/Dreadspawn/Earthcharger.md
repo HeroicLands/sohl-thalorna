@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Earthcharger
+  aliases: []
 description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
 id: u8zP1zROlFGp2zuv
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -9,6 +9,7 @@ name:
   given: Afzandah
   clan: Parnâzar
   home: Kethramír
+  aliases: []
 id: DpKTLyMGMTZ1lJ2E
 folder: heI5Ky6Kqmb61L6c
 shortcode: afzndhprnzr

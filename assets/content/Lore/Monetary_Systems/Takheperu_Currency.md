@@ -1,11 +1,4 @@
 ---
-aliases:
-  - Ta'Kheperu Currency
-  - Deben
-  - Kite
-  - Qedét
-  - Khar
-  - The Kheperi Weight System
 tags:
   - reference
   - currency
@@ -20,6 +13,10 @@ name:
   full: Ta'Kheperu Currency
   aliases:
     - The Kheperi Weight System
+    - Deben
+    - Kite
+    - Qedét
+    - Khar
 shortcode: tkhprcrncy
 folder:
 ---

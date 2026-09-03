@@ -7,6 +7,7 @@ name:
   title: ""
   given: Sélvara
   clan: Válskyr
+  aliases: []
 id: wXzvtquwDf00rfHZ
 folder: 9t9O4iB5cYJtSaTG
 shortcode: slvrvlskyr

@@ -4,6 +4,7 @@ description: "City-state of Helionis with a long maritime tradition — island p
 type: affiliation
 name:
   full: Thyrenae
+  aliases: []
 shortcode: thyrenae
 subType: polity
 data:

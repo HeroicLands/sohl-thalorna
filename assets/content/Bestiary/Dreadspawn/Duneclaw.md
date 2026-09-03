@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Duneclaw
+  aliases: []
 description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
 id: 2DpHrcNw4BfmRgld
 img: icons/game-icons/delapouite/griffin-symbol.svg

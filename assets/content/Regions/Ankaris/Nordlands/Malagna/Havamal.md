@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Hávamál
+  aliases: []
 shortcode: havamal
 folder: 3JdV0mOrMUISPmRz
 ---

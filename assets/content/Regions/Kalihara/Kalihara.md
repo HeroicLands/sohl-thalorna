@@ -4,6 +4,7 @@ description: "Distant continent south of the known world — ancient, vast, and 
 type: affiliation
 name:
   full: Kalihara
+  aliases: []
 shortcode: kalihara
 subType: polity
 data:

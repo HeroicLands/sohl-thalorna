@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Valgard
+  aliases: []
 shortcode: valgard
 folder: oLeer7axjoeYQHiT
 ---

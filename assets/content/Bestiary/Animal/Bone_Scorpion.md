@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Bone Scorpion
+  aliases: []
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
 id: 6qq2ohVEMdu3Lmwo
 img: icons/game-icons/lorc/scorpion.svg

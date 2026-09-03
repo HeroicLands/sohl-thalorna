@@ -14,6 +14,7 @@ data:
   population: 15000
 name:
   full: Tyrellan
+  aliases: []
 shortcode: tyrellan
 folder: WSdLuPc7BaRqxNEt
 ---

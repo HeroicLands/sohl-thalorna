@@ -4,6 +4,7 @@ description: "Green, mist-shrouded western coast of Tarvénia — seafaring king
 type: affiliation
 name:
   full: Kingdom of Galváren
+  aliases: []
 shortcode: kngdmglvrn
 subType: polity
 data:

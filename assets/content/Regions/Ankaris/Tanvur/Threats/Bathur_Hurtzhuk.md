@@ -4,6 +4,7 @@ type: lore
 subType: history
 name:
   full: Bāthür Hürtzhük
+  aliases: []
 shortcode: bthrhrtzhk
 folder: l3wIL8UihJI5nx6L
 ---

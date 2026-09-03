@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Pyréthos's Wrath"
-  - Eruption Elixir
 tags:
   - elixir
 name:
   full: "Pyréthos's Wrath"
+  aliases:
+    - Eruption Elixir
 description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."
 id: WIIZGmhspMBZCrsC
 img: icons/potion.svg

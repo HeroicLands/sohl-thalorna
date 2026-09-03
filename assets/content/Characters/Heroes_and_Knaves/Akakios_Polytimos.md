@@ -8,6 +8,7 @@ name:
   given: Akákios
   clan: Polytimós
   home: Denizara
+  aliases: []
 id: 4Ls4vyEaxtqnkRON
 folder: b81DHx3S7C9ep13E
 shortcode: akksplytms

@@ -9,6 +9,7 @@ name:
   given: Bélrik
   clan: Tárvenel
   home: ""
+  aliases: []
 id: Y3A4Bj1BU0rWEoBS
 folder: 4cwfdMa34UryZqPR
 shortcode: belrktrvnl

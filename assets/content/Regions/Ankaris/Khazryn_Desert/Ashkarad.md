@@ -7,6 +7,7 @@ description: "Craft Town"
 type: place
 name:
   full: Ashkarad
+  aliases: []
 shortcode: ashkarad
 subType: settlement
 data:

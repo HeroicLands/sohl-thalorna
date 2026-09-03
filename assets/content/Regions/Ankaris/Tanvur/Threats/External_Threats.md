@@ -4,6 +4,7 @@ type: lore
 subType: history
 name:
   full: External Threats
+  aliases: []
 shortcode: extrnlthrts
 folder: l3wIL8UihJI5nx6L
 ---

@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Languages of Thalorna
-  - Languages
 id: G8edp7iIvjWsum74
 type: doc
 subType: collection
 name:
   full: Languages of Thalorna
+  aliases:
+    - Languages
 shortcode: lnggsthlrn
 banner: banners/language.webp
 ---

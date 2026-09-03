@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Magic Truth
-  - The Truth of Magic
-  - Magic (GM)
 tags:
   - lore
   - arcane
@@ -12,6 +8,8 @@ tags:
 type: lore
 name:
   full: The Truth of Magic
+  aliases:
+    - Magic (GM)
 subType: arcana
 id: DtLucc6IKCuifIbL
 folder: t3p5qf6rZc8w0Nc4

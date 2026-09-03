@@ -7,6 +7,7 @@ description: "Harbor Town"
 type: place
 name:
   full: Thálassos
+  aliases: []
 shortcode: thalassos
 subType: settlement
 data:

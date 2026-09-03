@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Zúráthrä"
-  - Mother of the Oasis
 tags:
   - ashalan
   - faith-skill
@@ -11,6 +8,8 @@ id: zFlhrN7SMyM8Wgee
 shortcode: zurathra
 name:
   full: "Ritual: Zúráthrä"
+  aliases:
+    - Mother of the Oasis
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

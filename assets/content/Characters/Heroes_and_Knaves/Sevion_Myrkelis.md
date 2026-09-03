@@ -10,6 +10,7 @@ name:
   given: Sevion
   clan: Myrkelis
   home: Liranel
+  aliases: []
 id: haT4BX4HIh5GeqEe
 folder: 4cwfdMa34UryZqPR
 shortcode: sevnmyrkls

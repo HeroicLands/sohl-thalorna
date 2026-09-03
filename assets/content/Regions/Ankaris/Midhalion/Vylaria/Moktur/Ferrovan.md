@@ -14,6 +14,7 @@ data:
   population: 7000
 name:
   full: Ferrovan
+  aliases: []
 shortcode: ferrovan
 folder: WSdLuPc7BaRqxNEt
 ---

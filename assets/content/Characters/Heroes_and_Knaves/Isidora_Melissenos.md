@@ -8,6 +8,7 @@ name:
   given: Isidôra
   clan: Melissenós
   home: Thálassos
+  aliases: []
 id: PpxoHMQ7KrREO9Z0
 folder: b81DHx3S7C9ep13E
 shortcode: isidrmlsns

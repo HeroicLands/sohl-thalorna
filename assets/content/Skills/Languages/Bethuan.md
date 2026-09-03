@@ -1,9 +1,9 @@
 ---
-aliases:
-  - Bethuan
 tags: []
 name:
   full: Bethuan Language
+  aliases:
+    - Bethuan
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 id: Y5wTU7airBJ3trM9
 img: icons/speaking.svg

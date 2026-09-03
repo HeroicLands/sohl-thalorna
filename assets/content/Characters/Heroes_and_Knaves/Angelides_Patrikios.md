@@ -10,6 +10,7 @@ name:
   given: Ángelides
   clan: Patrikîos
   home: Chrysamar
+  aliases: []
 id: qVZXP6qXaetsnV9z
 folder: b81DHx3S7C9ep13E
 shortcode: angldsptrks

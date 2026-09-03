@@ -8,6 +8,7 @@ name:
   given: Thêkla
   clan: Rhomaios
   home: Kostaros
+  aliases: []
 id: Az5pxgK7QZddXlN1
 folder: b81DHx3S7C9ep13E
 shortcode: theklarhms

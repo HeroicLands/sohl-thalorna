@@ -4,6 +4,7 @@ description: "Confederation of independent city-states bound by shared culture, 
 type: affiliation
 name:
   full: City-States of Heliónis
+  aliases: []
 shortcode: ctysttshlns
 subType: polity
 data:

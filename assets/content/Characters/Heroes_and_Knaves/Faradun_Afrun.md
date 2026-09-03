@@ -9,6 +9,7 @@ name:
   given: Faradûn
   clan: Afrûn
   home: Tahrodan
+  aliases: []
 id: 1t4ij9G8873glDfp
 folder: V1t8DVX0wKSOCJd5
 shortcode: faradunfrn

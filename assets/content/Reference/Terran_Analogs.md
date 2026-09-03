@@ -4,6 +4,7 @@ tags:
 id: BNdQ5Rji7mgldAVd
 name:
   full: Terran Analogs Reference
+  aliases: []
 type: doc
 subType: reference
 shortcode: trnnlgsrfrnc

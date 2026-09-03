@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Telekinesis
+  aliases: []
 id: NDRL0yD5OPELKNBM
 img: icons/psionics.svg
 shortcode: telek

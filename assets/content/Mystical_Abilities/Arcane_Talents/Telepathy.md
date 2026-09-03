@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Telepathy
+  aliases: []
 id: 1yyCbhSjbki38JNd
 img: icons/psionics.svg
 shortcode: telp

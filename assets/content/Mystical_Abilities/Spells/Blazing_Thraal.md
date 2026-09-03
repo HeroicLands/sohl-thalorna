@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Blazing Thraal
+  aliases: []
 description: "Enslaves target in burning fury; caster commands their actions violently."
 id: d3Kk2ZJBvA8NeQg1
 img: icons/fire.svg

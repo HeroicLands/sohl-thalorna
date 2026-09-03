@@ -1,11 +1,4 @@
 ---
-aliases:
-  - Matriarchy of Bethûa
-  - Bethûan Matriarchy
-  - Government of Bethûa
-  - The Two Pillars of Bethûa
-  - The Mêtríssa
-  - The Sacred College and the Council of Houses
 id: 7oWBo0VIlcveRxf8
 description: "Matriarchal realm of Xerathia where women hold all positions of power and authority — a society shaped by female leadership and the traditions of the elder races."
 type: affiliation
@@ -15,6 +8,10 @@ name:
     - Government of Bethûa
     - The Two Pillars
     - The Mêtríssa and the Two Councils
+    - Bethûan Matriarchy
+    - The Two Pillars of Bethûa
+    - The Mêtríssa
+    - The Sacred College and the Council of Houses
 shortcode: mtrrchybth
 subType: polity
 data:

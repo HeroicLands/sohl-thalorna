@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Chelyx
+  aliases: []
 description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
 id: bteb60lsodiwjGtL
 img: systems/sohl/assets/icons/other/astrology.svg

@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Thōth"
-  - Thōth
-  - Djhuty
-  - Thaut
-  - The Scribe of the Eternal Library
 tags:
   - kemetian
   - faith-skill
@@ -14,6 +8,11 @@ id: 1rHq1gnkchTJv6ZN
 shortcode: thoth
 name:
   full: "Ritual: Thōth"
+  aliases:
+    - Thōth
+    - Djhuty
+    - Thaut
+    - The Scribe of the Eternal Library
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

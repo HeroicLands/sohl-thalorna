@@ -4,6 +4,7 @@ description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother
 type: affiliation
 name:
   full: Holy Kingdom of Nartûm
+  aliases: []
 shortcode: hlykngdmnrtm
 subType: polity
 data:

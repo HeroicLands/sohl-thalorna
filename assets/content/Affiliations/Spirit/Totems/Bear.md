@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bear
+  aliases: []
 id: IPxMGQOSQBsOi48s
 img: images/mystery/bear.webp
 shortcode: bearttm

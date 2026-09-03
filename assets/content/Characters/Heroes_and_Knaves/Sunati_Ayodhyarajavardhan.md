@@ -8,6 +8,7 @@ name:
   given: Sunáti
   clan: Āyodhyārājavardhan
   home: Chandrapur
+  aliases: []
 id: m3zyA5WlzKIBStex
 folder: JotxZnnXcTECeYW3
 shortcode: sntydhyrjvrdhn

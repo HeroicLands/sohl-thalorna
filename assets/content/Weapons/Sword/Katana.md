@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Katana
+  aliases: []
 description: "Folded-layer curved single-edged blade; officer's status and discipline."
 id: hjBDJ8jqOrBCEkMh
 img: icons/sword.svg

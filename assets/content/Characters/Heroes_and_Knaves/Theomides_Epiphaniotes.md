@@ -8,6 +8,7 @@ name:
   given: Theomídes
   clan: Epiphaniôtês
   home: Byzaris
+  aliases: []
 id: LNLKyWIEhGtW5FUc
 folder: b81DHx3S7C9ep13E
 shortcode: thmdspphnts

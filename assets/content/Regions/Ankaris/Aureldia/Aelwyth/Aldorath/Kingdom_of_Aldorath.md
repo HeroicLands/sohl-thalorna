@@ -4,6 +4,7 @@ description: "Chivalric kingdom surrounding Aelwyth's great central lake — feu
 type: affiliation
 name:
   full: Kingdom of Aldorath
+  aliases: []
 shortcode: kngdmldrth
 subType: polity
 data:

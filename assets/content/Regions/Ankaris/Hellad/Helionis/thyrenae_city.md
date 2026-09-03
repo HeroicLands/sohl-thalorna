@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Thyrenae
+  aliases: []
 shortcode: thyrenae2
 ---
 

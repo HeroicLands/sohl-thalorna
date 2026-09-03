@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Tānthëi
+  aliases: []
 shortcode: tanthei
 folder: ZUKWHCnKcLAoZMdf
 ---

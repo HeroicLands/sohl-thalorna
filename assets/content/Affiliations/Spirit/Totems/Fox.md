@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fox
+  aliases: []
 id: YS9L9w2AUIAqL6fy
 img: images/mystery/fox.webp
 shortcode: foxttm

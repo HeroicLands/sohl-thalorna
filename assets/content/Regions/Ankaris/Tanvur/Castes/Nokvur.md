@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Nōkvür
+  aliases: []
 shortcode: nokvur
 folder: ZUKWHCnKcLAoZMdf
 ---

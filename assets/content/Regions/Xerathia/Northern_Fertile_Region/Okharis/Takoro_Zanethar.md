@@ -6,6 +6,7 @@ name:
   title: ""
   given: Tákoro
   clan: Zanethar
+  aliases: []
 id: kIJdPc7U4AEkhMfz
 folder: 5ECInZ91R1WeEtYz
 shortcode: takorozanethar

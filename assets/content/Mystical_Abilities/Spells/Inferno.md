@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Inferno
+  aliases: []
 description: "Wreathed in roaring magical flame; burning and radiating intense heat."
 id: RTZJsg6pRg9753ie
 img: icons/fire.svg

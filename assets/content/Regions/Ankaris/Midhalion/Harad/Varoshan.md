@@ -4,6 +4,7 @@ description: "Easternmost city-state of Harad at the crossroads of coastal and c
 type: affiliation
 name:
   full: Varoshan
+  aliases: []
 shortcode: varoshan
 subType: polity
 data:

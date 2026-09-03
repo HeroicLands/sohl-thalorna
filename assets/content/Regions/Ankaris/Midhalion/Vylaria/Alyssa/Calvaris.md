@@ -14,6 +14,7 @@ data:
   population: 9000
 name:
   full: Calvaris
+  aliases: []
 shortcode: calvaris
 folder: WSdLuPc7BaRqxNEt
 ---

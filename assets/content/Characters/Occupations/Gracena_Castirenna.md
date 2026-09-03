@@ -9,6 +9,7 @@ name:
   given: Grácena
   clan: Castírenna
   home: ""
+  aliases: []
 id: cAtpf7ZJ69PqcUDO
 folder: 9t9O4iB5cYJtSaTG
 shortcode: gracncstrn

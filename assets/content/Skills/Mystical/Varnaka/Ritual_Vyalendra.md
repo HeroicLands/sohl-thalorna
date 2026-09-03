@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vyālendra"
-  - Vyālendra
-  - Vyalendra
-  - The Shaper of Worlds
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: 8s1B5qXRmm5ZKpPW
 shortcode: vyalendra
 name:
   full: "Ritual: Vyālendra"
+  aliases:
+    - Vyālendra
+    - Vyalendra
+    - The Shaper of Worlds
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

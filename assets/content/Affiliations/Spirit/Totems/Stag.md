@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Stag
+  aliases: []
 id: sb0q3xC4IjjufQgP
 img: images/mystery/stag.webp
 shortcode: stagttm

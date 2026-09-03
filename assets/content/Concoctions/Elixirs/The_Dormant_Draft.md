@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Dormant Draft
-  - Quiescence Elixir
 tags:
   - elixir
 name:
   full: The Dormant Draft
+  aliases:
+    - Quiescence Elixir
 description: "Pale gray liquid; induces absolute stillness and living suspension."
 id: 0ojDJP4nlr8iNww6
 img: icons/potion.svg

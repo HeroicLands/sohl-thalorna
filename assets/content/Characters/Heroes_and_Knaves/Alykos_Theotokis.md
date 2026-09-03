@@ -9,6 +9,7 @@ name:
   given: Alýkos
   clan: Theotókis
   home: Chrysamar
+  aliases: []
 id: xHAlCIQh56sf9sy0
 folder: b81DHx3S7C9ep13E
 shortcode: alyksthtks

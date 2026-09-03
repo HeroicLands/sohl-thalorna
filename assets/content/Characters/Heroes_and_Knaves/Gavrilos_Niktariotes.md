@@ -8,6 +8,7 @@ name:
   given: Gávrilos
   clan: Niktariôtês
   home: Chrysamar
+  aliases: []
 id: uK9EFGQgo0b4Bo6b
 folder: b81DHx3S7C9ep13E
 shortcode: gvrlsnktrts

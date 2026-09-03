@@ -4,6 +4,7 @@ description: "Green-land city-state of the Byzarian League on the southern coast
 type: affiliation
 name:
   full: Yeşilhan
+  aliases: []
 shortcode: yesilhan
 subType: polity
 data:

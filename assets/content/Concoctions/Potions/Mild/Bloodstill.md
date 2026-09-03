@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Bloodstill
-  - "Potion, Coagulant, Mild"
 tags:
   - mild-elixir
 name:
   full: Bloodstill
+  aliases:
+    - Potion, Coagulant, Mild
 description: "Thick rusty-brown paste; coagulates blood preventing wound death."
 id: IYOQ1rgk2B99Utna
 img: icons/potion.svg

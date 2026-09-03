@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Clairvoyance
+  aliases: []
 id: N2SuuuRJq86wgYy6
 img: icons/psionics.svg
 shortcode: clrv

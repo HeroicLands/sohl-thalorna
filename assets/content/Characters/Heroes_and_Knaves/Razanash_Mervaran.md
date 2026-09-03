@@ -8,6 +8,7 @@ name:
   given: Razanash
   clan: Mervaran
   home: Kethramír
+  aliases: []
 id: hwF1FvYG8pTuJkwE
 folder: heI5Ky6Kqmb61L6c
 shortcode: rznshmrvrn

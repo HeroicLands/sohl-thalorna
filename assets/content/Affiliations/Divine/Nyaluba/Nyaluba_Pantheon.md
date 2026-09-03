@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Nyáluba Pantheon
-  - Nyaluba Pantheon
-  - Nyáluba Faith
-  - The Totems of the Nyáluba
 id: lx2CetoF1G21hylZ
 tags:
   - pantheon
@@ -15,6 +10,7 @@ name:
   aliases:
     - The Totems of the Nyáluba
     - The Nyáluba Way
+    - Nyáluba Faith
 shortcode: nyalbpnthn
 type: affiliation
 subType: faithtradition

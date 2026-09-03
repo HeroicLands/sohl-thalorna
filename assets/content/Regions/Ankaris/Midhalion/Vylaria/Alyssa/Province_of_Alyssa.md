@@ -4,6 +4,7 @@ description: "Heartland province of the Vylarian Empire — its urban, political
 type: affiliation
 name:
   full: Province of Alyssa
+  aliases: []
 shortcode: provinclys
 subType: polity
 data:

@@ -5,6 +5,7 @@ tags:
 description: "The northern reach of the K'ich'chik continent and its city-states."
 name:
   full: Northern K'ich'chik
+  aliases: []
 img: ""
 type: place
 subType: region

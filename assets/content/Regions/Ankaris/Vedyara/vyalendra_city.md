@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Vyālendra
+  aliases: []
 shortcode: vyalendra3
 ---
 

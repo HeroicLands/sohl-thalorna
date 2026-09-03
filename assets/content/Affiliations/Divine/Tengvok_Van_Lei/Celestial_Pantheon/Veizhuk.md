@@ -7,6 +7,7 @@ tags:
   - bureau-of-order
 name:
   full: Vëizhük
+  aliases: []
 shortcode: veizhuk
 type: affiliation
 subType: faithtradition

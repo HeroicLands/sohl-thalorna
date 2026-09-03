@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Agnī-panthā"
-  - Agnī-panthā
-  - Agni Pantha
-  - The Path of the Flame
-  - Flame Path
 tags:
   - varnaka
   - faith-skill
@@ -14,6 +8,11 @@ id: iMGrmk6U0clUqTqm
 shortcode: agnipantha
 name:
   full: "Ritual: Agnī-panthā"
+  aliases:
+    - Agnī-panthā
+    - Agni Pantha
+    - The Path of the Flame
+    - Flame Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

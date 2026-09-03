@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Khar al-Sular
+  aliases: []
 shortcode: kharalsulr
 folder: fHLmguBwgTuZfGJ9
 ---

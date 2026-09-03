@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Akhrem Reenfré
-  - Akhrem Re'en'fré
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -11,6 +8,8 @@ name:
   given: Akhrem
   clan: Re'en'fré
   home: Per-Ankhet
+  aliases:
+    - Akhrem Reenfré
 id: 772bjjl9UPxZqT2D
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

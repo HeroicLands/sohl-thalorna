@@ -8,6 +8,7 @@ name:
   given: Snorri
   clan: Járnskel
   home: Thrymstead
+  aliases: []
 id: k4JEKZEOQVEktuMQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: snorjrnskl

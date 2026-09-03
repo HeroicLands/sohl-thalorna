@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Lunacòrte
+  aliases: []
 shortcode: lunacorte
 folder: 2s244hfP0BpQi195
 ---

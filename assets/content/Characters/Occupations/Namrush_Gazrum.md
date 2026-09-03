@@ -9,6 +9,7 @@ name:
   given: Namrûsh
   clan: Gazrûm
   home: ""
+  aliases: []
 id: h7ug0g4ai18eWqMy
 folder: PuQFDMkRM9i60i5Z
 shortcode: namrshgzrm

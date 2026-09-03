@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Widow's Whisper"
-  - "Potion, Poison, Mild"
 tags:
   - mild-elixir
 name:
   full: "Widow's Whisper"
+  aliases:
+    - Potion, Poison, Mild
 description: "Pale yellow amber liquid; induces despair and hopelessness."
 id: rpzM7uUKMSKyKYoN
 img: icons/potion.svg

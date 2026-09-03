@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Monitor
+  aliases: []
 description: "Creates magical eye observing distant location; relays visual information."
 id: FQ4De4P00vQNKAkG
 img: icons/circle.svg

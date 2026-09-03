@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Keeper's Vow"
-  - Object Aegis Elixir
 tags:
   - elixir
 name:
   full: "Keeper's Vow"
+  aliases:
+    - Object Aegis Elixir
 description: "Pearl-like liquid; fortifies objects against arcane intrusion."
 id: b1VG38CCASqYPjCm
 img: icons/potion.svg

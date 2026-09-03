@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Jñānasūra"
-  - Jñānasūra
-  - Jnanasura
-  - The Radiant Sage
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: WlBBWI2sPx4TJ0mM
 shortcode: jnanasura
 name:
   full: "Ritual: Jñānasūra"
+  aliases:
+    - Jñānasūra
+    - Jnanasura
+    - The Radiant Sage
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

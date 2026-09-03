@@ -7,6 +7,7 @@ tags:
   - fire
 name:
   full: Vōrjīk Jëk
+  aliases: []
 shortcode: vorjikjek
 type: affiliation
 subType: faithtradition

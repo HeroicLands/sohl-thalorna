@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Spindlefiend
+  aliases: []
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
 id: uiCv7LNZzmeo0C5F
 img: icons/game-icons/lorc/werewolf.svg

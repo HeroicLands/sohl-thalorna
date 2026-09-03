@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Thanatos"
-  - Thánatos
-  - The Silent Judge
 tags:
   - aureldian
   - faith-skill
@@ -13,6 +9,9 @@ shortcode: thanatos
 img: images/affiliation/thanatos.webp
 name:
   full: "Ritual: Thanatos"
+  aliases:
+    - Thánatos
+    - The Silent Judge
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

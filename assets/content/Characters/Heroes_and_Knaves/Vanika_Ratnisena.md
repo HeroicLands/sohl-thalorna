@@ -8,6 +8,7 @@ name:
   given: Vànika
   clan: Ratniseṇa
   home: Rājapur
+  aliases: []
 id: YDrk4CIsTjtWzOqG
 folder: JotxZnnXcTECeYW3
 shortcode: vanikartns

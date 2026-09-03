@@ -4,6 +4,7 @@ type: lore
 subType: arcana
 name:
   full: Numerology
+  aliases: []
 shortcode: numerology
 folder: jV7c6dJp4Ztnjtb3
 ---

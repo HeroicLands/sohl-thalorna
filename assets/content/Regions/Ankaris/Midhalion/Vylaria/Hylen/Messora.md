@@ -13,6 +13,7 @@ data:
   population: 4000
 name:
   full: Messora
+  aliases: []
 shortcode: messora
 folder: WSdLuPc7BaRqxNEt
 ---

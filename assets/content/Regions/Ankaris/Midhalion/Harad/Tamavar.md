@@ -4,6 +4,7 @@ description: "Largest and wealthiest city-state of the Confederation of Haradian
 type: affiliation
 name:
   full: Tamavar
+  aliases: []
 shortcode: tamavar
 subType: polity
 data:

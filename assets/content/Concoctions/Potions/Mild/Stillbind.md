@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Stillbind
-  - "Potion, Paralytic, Mild"
 tags:
   - mild-elixir
 name:
   full: Stillbind
+  aliases:
+    - Potion, Paralytic, Mild
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
 id: nqar86tGCHvZFeCx
 img: icons/potion.svg

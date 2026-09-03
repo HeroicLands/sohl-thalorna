@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Sworn Member
+  aliases: []
 shortcode: swornmemberrnk
 description: "Sworn to a body's articles, sharing in what it takes and bound by what it agrees."
 ---

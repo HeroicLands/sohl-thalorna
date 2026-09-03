@@ -1,11 +1,4 @@
 ---
-aliases:
-  - "Ritual: Tānlüng"
-  - Tānlüng
-  - Tanlung
-  - Celestial Dragon
-  - The First Classifier
-  - The Celestial Dragon
 tags:
   - celestial-pantheon
   - faith-skill
@@ -15,6 +8,12 @@ id: tMGfPxqyoVJd8Qmd
 shortcode: tanlung
 name:
   full: "Ritual: Tānlüng"
+  aliases:
+    - Tānlüng
+    - Tanlung
+    - Celestial Dragon
+    - The First Classifier
+    - The Celestial Dragon
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

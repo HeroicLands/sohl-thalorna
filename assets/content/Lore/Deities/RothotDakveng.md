@@ -6,6 +6,7 @@ type: lore
 subType: deity
 name:
   full: Röthöt Dākvëng
+  aliases: []
 shortcode: rthtdkvngdty
 ---
 

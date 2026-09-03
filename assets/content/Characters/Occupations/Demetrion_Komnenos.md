@@ -9,6 +9,7 @@ name:
   given: Demétrion
   clan: Komnênos
   home: ""
+  aliases: []
 id: 467s1XDeUnPPy0If
 folder: b81DHx3S7C9ep13E
 shortcode: dmtrnkmnns

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Baldr"
-  - The Luminous Path
 tags:
   - asguardian
   - faith-skill
@@ -12,6 +9,8 @@ shortcode: baldr
 img: images/affiliation/baldr.webp
 name:
   full: "Ritual: Baldr"
+  aliases:
+    - The Luminous Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

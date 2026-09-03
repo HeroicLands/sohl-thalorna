@@ -14,6 +14,7 @@ data:
   population: 6000
 name:
   full: Saltholm
+  aliases: []
 shortcode: saltholm
 folder: WSdLuPc7BaRqxNEt
 ---

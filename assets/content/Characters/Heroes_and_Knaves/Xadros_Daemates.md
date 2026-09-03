@@ -8,6 +8,7 @@ name:
   given: Xadrôs
   clan: Dâemâtês
   home: Sanctara
+  aliases: []
 id: kSbpsbr6fEgtilry
 folder: UFBfgKZUF0bAE7gG
 shortcode: xadrosdmts

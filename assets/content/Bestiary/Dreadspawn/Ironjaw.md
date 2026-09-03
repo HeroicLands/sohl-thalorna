@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Ironjaw
+  aliases: []
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
 id: HKFCGWSqLCYSzPqf
 img: icons/game-icons/delapouite/griffin-symbol.svg

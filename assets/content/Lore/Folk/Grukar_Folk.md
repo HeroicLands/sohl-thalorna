@@ -1,10 +1,10 @@
 ---
-aliases:
-  - grukarflk
 tags: []
 id: HTh8JlSd0SBAlclH
 name:
   full: Grukar Folk
+  aliases:
+    - grukarflk
 description: Grukar Folk
 shortcode: grukarflk
 type: lore

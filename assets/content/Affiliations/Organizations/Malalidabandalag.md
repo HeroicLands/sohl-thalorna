@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Málaliðabandalag
-  - The Málaliðabandalag
-  - The Mercenary Compact
-  - Free Companies of the Nordlands
 tags: []
 description: "Pan-Nordlands mercenary compact regulating the free companies — sworn warriors-for-hire serving kingdoms, jarls, and merchant lords across Nordheim, Norgaad, Vithgard, Targud, and Malagna."
 id: MfwhclqIATgFtE3n
@@ -13,6 +8,7 @@ name:
     - The Mercenary Compact
     - The Free Companies' Compact
     - The Compact of the Pay-Troops
+    - Free Companies of the Nordlands
 shortcode: malldbndlg
 type: affiliation
 subType: venture

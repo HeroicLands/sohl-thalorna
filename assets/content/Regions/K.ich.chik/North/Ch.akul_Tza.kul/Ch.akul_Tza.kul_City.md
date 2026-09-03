@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Ch'akul Tza'kul
+  aliases: []
 shortcode: chakultzkl2
 ---
 

@@ -14,6 +14,7 @@ data:
   population: 24000
 name:
   full: Behen
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: behen
 folder: hbi739NdfZ0O28og

@@ -1,10 +1,5 @@
 ---
 description: "Dreams."
-aliases:
-  - Svapnasāri-samāja
-  - Svapnasari Samaja
-  - Assembly of the Dream-Followers
-  - Dream Assembly
 id: 8YiPytElzIGcD4CH
 tags:
   - varnaka
@@ -17,6 +12,8 @@ name:
   aliases:
     - The Assembly of the Dream-Followers
     - The Dream Assembly
+    - Assembly of the Dream-Followers
+    - Dream Assembly
 shortcode: svapnasarisamaja
 type: affiliation
 subType: faithtradition

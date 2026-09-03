@@ -13,6 +13,7 @@ data:
   population: 5000
 name:
   full: Korrast
+  aliases: []
 shortcode: korrast
 folder: WSdLuPc7BaRqxNEt
 ---

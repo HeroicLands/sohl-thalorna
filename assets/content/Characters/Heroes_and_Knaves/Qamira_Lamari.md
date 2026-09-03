@@ -9,6 +9,7 @@ name:
   given: Qâmira
   clan: Lamari
   home: Qasirah
+  aliases: []
 id: id1VYkFj9m65hNCu
 folder: mtJ4TzKdySHbE2OM
 shortcode: qamiralamr

@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Gloomhound
+  aliases: []
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."
 id: ldVaPfqXY1Mh4tK4
 img: icons/game-icons/lorc/hound.svg

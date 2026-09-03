@@ -4,6 +4,7 @@ description: "Island city-state of the Byzarian League, situated on a fortress i
 type: affiliation
 name:
   full: Denizara
+  aliases: []
 shortcode: denizara
 subType: polity
 data:

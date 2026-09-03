@@ -1,9 +1,9 @@
 ---
-aliases:
-  - Grukar
 tags: []
 name:
   full: Grukar Language
+  aliases:
+    - Grukar
 description: "The guttural, sparse speech of the Grukar tribes — stingy with abstractions but lavish with words for weather, prey, and warfare."
 id: 9vZDXOnWSPOxy3DX
 img: icons/speaking.svg

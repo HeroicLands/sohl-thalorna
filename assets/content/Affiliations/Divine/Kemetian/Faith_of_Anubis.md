@@ -1,8 +1,5 @@
 ---
 description: "Decay."
-aliases:
-  - Faith of Ánubís
-  - Ánubís, The Keeper of Transitions
 id: osYzxx5U7L4i9ewN
 tags:
   - kemetian
@@ -103,6 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Ánubís
+  aliases:
+    - Ánubís, The Keeper of Transitions
 shortcode: anubis
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

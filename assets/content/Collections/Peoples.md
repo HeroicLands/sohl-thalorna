@@ -2,6 +2,7 @@
 id: Xzj2jYB2Bd8djJkY
 name:
   full: Peoples
+  aliases: []
 type: doc
 subType: collection
 shortcode: peoples

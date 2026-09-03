@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Large Spider
+  aliases: []
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."
 id: 7z21KuX3vzQ2XC2E
 img: icons/game-icons/carl-olsen/spider-alt.svg

@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Kingshollow
+  aliases: []
 shortcode: kingsholow
 folder: ZbE1NQo3ApZ26xon
 ---

@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: K'awiil Tza'kul
+  aliases: []
 shortcode: kawiltzakl2
 ---
 

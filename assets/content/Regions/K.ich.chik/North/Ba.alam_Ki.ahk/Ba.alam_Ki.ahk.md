@@ -5,6 +5,7 @@ title: ""
 description: Pacific rainforest and volcanic coastline of the Xak'nal — the Eagle People — westernmost of the northern tribal nations.
 name:
   full: Ba'alam Ki'ahk
+  aliases: []
 id: k0Cy2pf0fjCujl0l
 shortcode: balamkiahk
 img: ""

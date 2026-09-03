@@ -9,6 +9,7 @@ subType: folk
 id: LrfTLGu5EgYUPoct
 name:
   full: Human Folk
+  aliases: []
 shortcode: humanflk
 folder: t3p5qf6rZc8w0Nc4
 ---

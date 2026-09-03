@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Provènzia Theater Collective
-  - Provènzia Theater Collective
-  - The Theater Collective
 tags: []
 description: "Informal but influential federation of Provenzian theater companies, performers, and patrons — shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
 id: XCUsRtdPb42Lmp8U

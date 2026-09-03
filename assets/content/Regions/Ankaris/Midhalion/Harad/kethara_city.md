@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Kethara
+  aliases: []
 shortcode: kethara2
 ---
 

@@ -1,13 +1,12 @@
 ---
-aliases:
-  - Confederation of Haradian States
-  - Harad
-  - Confederation of Harad
 id: q714wje5wjvCsfGb
 description: "Twelve-year-old maritime confederation on the eastern Vylarian Sea — won independence from the Vylarian Empire by force of arms, then watched merchant oligarchs seize the freedoms its veterans bled for. Naval supremacy, complex political intrigue, and an archipelago of trade and smuggling havens."
 type: affiliation
 name:
   full: Confederation of Haradian States
+  aliases:
+    - Harad
+    - Confederation of Harad
 shortcode: cnfdrtnhrdnstts
 subType: polity
 data:

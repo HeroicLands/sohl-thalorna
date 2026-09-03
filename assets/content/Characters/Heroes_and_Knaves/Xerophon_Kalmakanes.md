@@ -8,6 +8,7 @@ name:
   given: Xerôphôn
   clan: Kâlmâkanês
   home: Ashenmere
+  aliases: []
 id: pOqNxorvMT9K0YFZ
 folder: UFBfgKZUF0bAE7gG
 shortcode: xrphnklmkns

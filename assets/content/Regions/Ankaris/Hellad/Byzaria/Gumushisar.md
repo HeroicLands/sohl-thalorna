@@ -4,6 +4,7 @@ description: "Mountain fortress-city of the Byzarian League guarding the eastern
 type: affiliation
 name:
   full: Gümüşhisar
+  aliases: []
 shortcode: gumushisar
 subType: polity
 data:

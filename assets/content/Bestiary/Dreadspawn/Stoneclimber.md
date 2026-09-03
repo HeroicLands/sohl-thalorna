@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Stoneclimber
+  aliases: []
 description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
 id: K2ltSub3JftqQzbn
 img: icons/game-icons/delapouite/griffin-symbol.svg

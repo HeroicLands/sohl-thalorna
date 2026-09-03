@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Silk Sleep
-  - "Potion, Soporific, Strong"
 tags:
   - strong-elixir
 name:
   full: Silk Sleep
+  aliases:
+    - Potion, Soporific, Strong
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
 id: HIqd8wm7ex6DDCbX
 img: icons/potion.svg

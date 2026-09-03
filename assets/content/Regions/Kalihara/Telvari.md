@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Telvári
+  aliases: []
 shortcode: telvari
 folder: ySaln4Q82C7W1p0I
 ---

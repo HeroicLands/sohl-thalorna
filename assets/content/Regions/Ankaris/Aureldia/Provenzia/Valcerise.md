@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Valcèrise
+  aliases: []
 shortcode: valcerise
 folder: 2s244hfP0BpQi195
 ---

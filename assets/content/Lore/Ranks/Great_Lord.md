@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Great Lord
+  aliases: []
 shortcode: greatlordrnk
 description: "Holding a province of the sovereign directly, and commanding lesser lords in turn."
 ---

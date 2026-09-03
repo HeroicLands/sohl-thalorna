@@ -4,6 +4,7 @@ description: "Collection of ancient city-states in the Northern Fertile Region o
 type: affiliation
 name:
   full: Okháris
+  aliases: []
 id: pQ4weKzrzcv5Fppm
 shortcode: okharis
 subType: polity

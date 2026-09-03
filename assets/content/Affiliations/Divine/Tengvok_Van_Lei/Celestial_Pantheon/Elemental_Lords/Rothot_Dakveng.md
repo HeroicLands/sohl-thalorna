@@ -7,6 +7,7 @@ tags:
   - wood
 name:
   full: Röthöt Dākvëng
+  aliases: []
 shortcode: rothtdkvng
 type: affiliation
 subType: faithtradition

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Vëizhük"
-  - Vëizhük
-  - Veizhuk
 tags:
   - celestial-pantheon
   - faith-skill
@@ -12,6 +8,9 @@ id: vFyGKnWYwN3hPuCW
 shortcode: veizhuk
 name:
   full: "Ritual: Vëizhük"
+  aliases:
+    - Vëizhük
+    - Veizhuk
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

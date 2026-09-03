@@ -13,6 +13,7 @@ data:
   population: 3000
 name:
   full: Pinnhald
+  aliases: []
 shortcode: pinnhald
 folder: WSdLuPc7BaRqxNEt
 ---

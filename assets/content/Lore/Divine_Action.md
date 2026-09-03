@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Truth of Divine Action
-  - Divine Action (GM)
-  - The Balance
 tags:
   - lore
   - religion
@@ -13,6 +9,9 @@ tags:
 type: lore
 name:
   full: The Truth of Divine Action
+  aliases:
+    - Divine Action (GM)
+    - The Balance
 subType: theology
 id: VHMy9CkCoifLkNnA
 folder: t3p5qf6rZc8w0Nc4

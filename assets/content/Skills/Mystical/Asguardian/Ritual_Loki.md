@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Lôki"
-  - "The Serpent's Path"
 tags:
   - asguardian
   - faith-skill
@@ -12,6 +9,8 @@ shortcode: loki
 img: images/affiliation/loki.webp
 name:
   full: "Ritual: Lôki"
+  aliases:
+    - The Serpent's Path
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -8,6 +8,7 @@ name:
   given: Chandrakīrtisundarī
   clan: Jayavalli
   home: Vyālendra
+  aliases: []
 id: mJfvEsyCUxVmCzNJ
 folder: JotxZnnXcTECeYW3
 shortcode: chndrkrtsndrjyvl

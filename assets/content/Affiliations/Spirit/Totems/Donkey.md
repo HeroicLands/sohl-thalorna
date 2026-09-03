@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Donkey
+  aliases: []
 id: 06wasGpojK17FTdC
 img: images/mystery/donkey.webp
 shortcode: donkeyttm

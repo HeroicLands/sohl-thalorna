@@ -9,6 +9,7 @@ name:
   given: Shebas
   clan: Thutmosa
   home: Ankh-Setûn
+  aliases: []
 id: elyLZGvIgAkwHPtP
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

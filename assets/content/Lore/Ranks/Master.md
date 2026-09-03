@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Master
+  aliases: []
 shortcode: masterrnk
 description: "Admitted on a masterpiece or its equivalent, competent to keep a shop and teach."
 ---

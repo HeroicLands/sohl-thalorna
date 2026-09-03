@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Trishula
+  aliases: []
 description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
 id: 7AH7gKN6gGBqKbdb
 img: icons/polearm.svg

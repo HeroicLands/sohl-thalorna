@@ -4,6 +4,7 @@ description: "Desert caravan syndicate commanding vast interior territory throug
 id: I1n8fjLHPpHtRCXt
 name:
   full: The Ash Road
+  aliases: []
 shortcode: theashroad
 type: affiliation
 subType: criminal

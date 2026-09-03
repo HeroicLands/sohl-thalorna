@@ -1,10 +1,4 @@
 ---
-aliases:
-  - "Ritual: Nüshöt"
-  - Nüshöt
-  - Nushot
-  - The Burning Dissolution
-  - The Unmaker
 tags:
   - celestial-pantheon
   - faith-skill
@@ -14,6 +8,11 @@ id: AOAX8HsKj3dBH4SA
 shortcode: nushot
 name:
   full: "Ritual: Nüshöt"
+  aliases:
+    - Nüshöt
+    - Nushot
+    - The Burning Dissolution
+    - The Unmaker
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

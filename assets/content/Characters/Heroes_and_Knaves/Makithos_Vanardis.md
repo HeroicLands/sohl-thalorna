@@ -8,6 +8,7 @@ name:
   given: Màkîthos
   clan: Vânardis
   home: Valdosta
+  aliases: []
 id: XPJffxceSnvQmDsI
 folder: UFBfgKZUF0bAE7gG
 shortcode: mkthsvnrds

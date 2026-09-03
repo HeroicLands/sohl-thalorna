@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Raiya Waset'neb
-  - Raiya Wasetneb
 tags:
   - heroes-and-knaves
   - administration
@@ -11,6 +8,8 @@ name:
   given: Raiya
   clan: Waset'neb
   home: Wasetkara
+  aliases:
+    - Raiya Wasetneb
 id: Avs9wmHM1ZoiryOC
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

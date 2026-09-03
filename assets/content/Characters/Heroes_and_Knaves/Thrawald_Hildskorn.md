@@ -9,6 +9,7 @@ name:
   title: ""
   given: Thráwald
   clan: Hildskorn
+  aliases: []
 id: H8W36Py5SZwjqIEr
 folder: Nu7AgLZEmR26u2pk
 shortcode: thrwldhldskrn

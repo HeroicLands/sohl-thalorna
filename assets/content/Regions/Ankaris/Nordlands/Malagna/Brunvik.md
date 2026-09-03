@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Brúnvík
+  aliases: []
 shortcode: brunvik
 folder: 3JdV0mOrMUISPmRz
 ---

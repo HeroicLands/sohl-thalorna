@@ -8,6 +8,7 @@ name:
   given: Kyriákos
   clan: Patrikîos
   home: Kostaros
+  aliases: []
 id: ufOwxGi74z7sajfY
 folder: b81DHx3S7C9ep13E
 shortcode: kyrksptrks

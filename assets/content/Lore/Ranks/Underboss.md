@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Underboss
+  aliases: []
 shortcode: underbossrnk
 description: "Second in a body, running it day to day and standing between its head and everyone else."
 ---

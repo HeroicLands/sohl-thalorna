@@ -1,9 +1,4 @@
 ---
-aliases:
-  - The Skalds' Circle
-  - Skalds' Circle
-  - Skaldahringr
-  - The Skalds' Guild
 tags:
   - organization
   - nordlands
@@ -16,8 +11,8 @@ name:
   full: The Skalds' Circle
   aliases:
     - Skaldahringr
-    - The Circle of the Skalds
     - The Memory of the North
+    - The Skalds' Guild
 shortcode: skaldscrcl
 type: affiliation
 subType: fellowship

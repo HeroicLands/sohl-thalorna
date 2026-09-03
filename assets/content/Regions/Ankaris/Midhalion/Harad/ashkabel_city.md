@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Ashkabel
+  aliases: []
 shortcode: ashkabel2
 ---
 

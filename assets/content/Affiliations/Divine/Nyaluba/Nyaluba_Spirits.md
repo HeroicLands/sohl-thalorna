@@ -7,8 +7,6 @@ tags:
 name:
   full: Nyáluba Spirits
   aliases:
-    - Spirits of the Nyáluba
-    - The Nyáluba Spirits
     - The Totems and Spirits
 shortcode: nyalbsprts
 type: affiliation

@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Commoner
+  aliases: []
 shortcode: commonerrnk
 description: "Free at law, owing the body's dues and holding no rank within it."
 ---

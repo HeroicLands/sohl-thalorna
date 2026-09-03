@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Azhûn
+  aliases: []
 shortcode: azhun2
 ---
 

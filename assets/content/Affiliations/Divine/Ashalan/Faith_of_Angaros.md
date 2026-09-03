@@ -1,8 +1,5 @@
 ---
 description: "Chaos."
-aliases:
-  - Faith of Ángáróš
-  - The Shadowed Serpent
 id: u0iNnkgrWhg8HM0j
 tags:
   - religion
@@ -104,6 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Ángáróš
+  aliases:
+    - The Shadowed Serpent
 shortcode: angaros
 alias: Ángáróš, The Shadowed Serpent
 folder: 7so6UiPt445oIHWs

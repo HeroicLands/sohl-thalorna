@@ -8,6 +8,7 @@ name:
   given: Nárava
   clan: Sūryatejamahānanda
   home: Vyālendra
+  aliases: []
 id: knEigojy3UhmSf7X
 folder: JotxZnnXcTECeYW3
 shortcode: nrvsrytjmhnnd

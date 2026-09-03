@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eídma Zephäris
 tags:
   - hex-hodai
 type: affiliation
@@ -93,6 +91,8 @@ shortcode: zepharis
 img: images/affiliation/zepharis.webp
 name:
   full: Zephäris
+  aliases:
+    - Eídma Zephäris
 sohl:
   archetype: null
 thalorna:

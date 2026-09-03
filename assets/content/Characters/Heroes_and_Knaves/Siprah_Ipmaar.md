@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Siprah Ipmaâr
-  - Sip'rah Ip'maâr
-  - Siprah Ipmaar
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,6 +9,9 @@ name:
   given: Sip'rah
   clan: Ip'maâr
   home: Wasetkara
+  aliases:
+    - Siprah Ipmaâr
+    - Siprah Ipmaar
 id: iJazXdPywn1EE10S
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

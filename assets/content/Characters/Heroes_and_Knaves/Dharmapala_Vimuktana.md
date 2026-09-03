@@ -8,6 +8,7 @@ name:
   given: Dharmàpala
   clan: Vimuktaṇa
   home: Dhanurkota
+  aliases: []
 id: dhCoCEo0H7FWyMlT
 folder: JotxZnnXcTECeYW3
 shortcode: dhrmplvmkt

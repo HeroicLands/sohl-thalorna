@@ -4,6 +4,7 @@ type: lore
 subType: deity
 name:
   full: Five Elemental Lords
+  aliases: []
 shortcode: fvlmntlrds
 folder: hBkQzhJeB05EwziN
 ---

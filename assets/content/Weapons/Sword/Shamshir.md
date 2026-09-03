@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Shamshir
+  aliases: []
 description: "Deeply curved supple single-edged saber; cavalry officer's refined speed-stroke."
 id: 0wzqmCGrAebJzR13
 img: icons/sword.svg

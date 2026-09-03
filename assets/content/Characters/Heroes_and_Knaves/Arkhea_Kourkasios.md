@@ -8,6 +8,7 @@ name:
   given: Arkhêa
   clan: Kourkásios
   home: Yeşilhan
+  aliases: []
 id: on35i2IjiOvRMa0c
 folder: b81DHx3S7C9ep13E
 shortcode: arkhekrkss

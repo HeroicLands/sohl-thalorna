@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Golshahr
+  aliases: []
 shortcode: golshahr
 folder: PUSPfoG6UdrnqPhK
 ---

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Wolf
+  aliases: []
 id: wYrQBhECXQGbEMw5
 img: images/mystery/wolf.webp
 shortcode: wolfttm

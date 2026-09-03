@@ -1,9 +1,4 @@
 ---
-aliases:
-  - Vëi Zhāt Rëit
-  - Vei Zhat Reit
-  - Jade Fan Dance
-  - The Jade Fan Dance
 id: fE2uikvHIqpHgYyC
 type: lore
 subType: culture
@@ -11,6 +6,7 @@ name:
   full: Vëi Zhāt Rëit
   aliases:
     - The Jade Fan Dance
+    - Jade Fan Dance
 shortcode: veizhatret
 folder: jV7c6dJp4Ztnjtb3
 ---

@@ -8,6 +8,7 @@ name:
   given: Agápeia
   clan: Varzánês
   home: Kostaros
+  aliases: []
 id: ek8aQBwT3vKbseKG
 folder: b81DHx3S7C9ep13E
 shortcode: agapevrzns

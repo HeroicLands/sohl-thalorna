@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ātáröš"
-  - The Sacred Flame
-  - Fire God
 tags:
   - ashalan
   - faith-skill
@@ -12,6 +8,9 @@ id: V6TwVaDMs7y2aCcb
 shortcode: ataros
 name:
   full: "Ritual: Ātáröš"
+  aliases:
+    - The Sacred Flame
+    - Fire God
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

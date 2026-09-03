@@ -8,6 +8,7 @@ name:
   given: Firâvâd
   clan: Pâresak
   home: Dûn Ashir
+  aliases: []
 id: a1YDztFxs4vUPXNj
 folder: kCKYObmsvraIezCd
 shortcode: firavdprsk

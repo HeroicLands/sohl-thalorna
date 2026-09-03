@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Storm Cults of Báhrámiš
-  - Storm Cults of Bahramish
-  - Storm Cults of Báhrámiš
 tags:
   - organization
   - dunhara
@@ -17,6 +13,7 @@ name:
     - The Storm Cults
     - The Followers of the Thundering Voice
     - Bahârâmî-Pîravân
+    - Storm Cults of Bahramish
 shortcode: strmcltsbhrms
 type: affiliation
 subType: faithtradition

@@ -89,6 +89,7 @@ sohl:
 id: YVSd04e4cl22zOrC
 name:
   full: Auric Compact
+  aliases: []
 shortcode: auricompct
 folder: umL4KFGO3MD4u9X1
 ---

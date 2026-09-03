@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Lion
+  aliases: []
 id: MU6HVFla6YShVxgi
 img: images/mystery/lion.webp
 shortcode: lionttm

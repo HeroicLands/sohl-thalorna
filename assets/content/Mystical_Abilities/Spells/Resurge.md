@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Resurge
+  aliases: []
 description: "Pours fresh energy into failing magical construct; restores framework."
 id: ALPuO9hw9OyF9i6o
 img: icons/circle.svg

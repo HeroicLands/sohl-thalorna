@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Astrokýklos
+  aliases: []
 type: affiliation
 subType: spirittradition
 data:

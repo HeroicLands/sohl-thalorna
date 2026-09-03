@@ -8,6 +8,7 @@ name:
   given: Muri
   clan: Târikh
   home: Vashurán
+  aliases: []
 id: eKzDzF6fdG1wdtaH
 folder: mtJ4TzKdySHbE2OM
 shortcode: muritarikh

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sheep
+  aliases: []
 id: WvNQBTaORsEATNRc
 img: images/mystery/sheep.webp
 shortcode: sheepttm

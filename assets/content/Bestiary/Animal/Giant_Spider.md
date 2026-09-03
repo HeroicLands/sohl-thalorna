@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Spider
+  aliases: []
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."
 id: HzxG1auqS4IJfpH1
 img: icons/game-icons/carl-olsen/spider-alt.svg

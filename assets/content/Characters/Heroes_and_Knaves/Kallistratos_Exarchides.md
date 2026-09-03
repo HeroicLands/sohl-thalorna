@@ -9,6 +9,7 @@ name:
   given: Kallistratos
   clan: Exarchides
   home: Velysâra
+  aliases: []
 id: xSWu1nUtq11yojH4
 folder: UFBfgKZUF0bAE7gG
 shortcode: klstrtsxrchds

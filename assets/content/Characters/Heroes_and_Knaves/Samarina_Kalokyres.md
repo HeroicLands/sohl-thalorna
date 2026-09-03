@@ -8,6 +8,7 @@ name:
   given: Samarína
   clan: Kalokyrês
   home: Byzaris
+  aliases: []
 id: kdVyqNewPWRnhw1s
 folder: b81DHx3S7C9ep13E
 shortcode: smrnklkyrs

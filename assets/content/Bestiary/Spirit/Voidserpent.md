@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Voidserpent
+  aliases: []
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
 id: mXr47FnIDlmq2RCz
 img: icons/game-icons/lorc/snake.svg

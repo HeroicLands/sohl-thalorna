@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Meghanātha"
-  - Meghanātha
-  - Meghanatha
-  - Lord of Thunder
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: sfGrabEsJPuY6P6t
 shortcode: meghanatha
 name:
   full: "Ritual: Meghanātha"
+  aliases:
+    - Meghanātha
+    - Meghanatha
+    - Lord of Thunder
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

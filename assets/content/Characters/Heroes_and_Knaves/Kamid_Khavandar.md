@@ -8,6 +8,7 @@ name:
   given: Kamîd
   clan: Khâvandar
   home: Kethramír
+  aliases: []
 id: kJBNJDcyHSsIax0Z
 folder: heI5Ky6Kqmb61L6c
 shortcode: kamdkhvndr

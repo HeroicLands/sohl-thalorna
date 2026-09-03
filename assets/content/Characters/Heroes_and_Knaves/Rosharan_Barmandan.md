@@ -9,6 +9,7 @@ name:
   given: Rosharan
   clan: Barmandan
   home: Tahrodan
+  aliases: []
 id: POk5Kke569heakuq
 folder: V1t8DVX0wKSOCJd5
 shortcode: rshrnbrmndn

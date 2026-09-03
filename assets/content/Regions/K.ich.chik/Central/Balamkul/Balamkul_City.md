@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Balamkul
+  aliases: []
 shortcode: balamkul2
 ---
 

@@ -4,6 +4,7 @@ description: "Free city-state on Tarvénia's southern coast, governed by merchan
 type: affiliation
 name:
   full: Free City of Valthári
+  aliases: []
 shortcode: frctyvlthr
 subType: polity
 data:

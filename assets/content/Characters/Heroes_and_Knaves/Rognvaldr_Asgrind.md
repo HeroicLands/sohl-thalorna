@@ -8,6 +8,7 @@ name:
   given: Rǫgnvaldr
   clan: Ásgrind
   home: Valgard
+  aliases: []
 id: KZegPHrI9zZwcX7L
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rgnvldrsgrnd

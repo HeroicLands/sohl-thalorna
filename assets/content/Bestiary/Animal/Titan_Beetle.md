@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Titan Beetle
+  aliases: []
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
 id: uIJSscPVcBwVMyGp
 img: icons/game-icons/lorc/scarab-beetle.svg

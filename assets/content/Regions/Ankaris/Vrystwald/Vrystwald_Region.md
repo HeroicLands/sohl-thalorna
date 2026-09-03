@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vrystwald Region
-  - Vrystwald
 id: m9D3usjn6fIfh5by
 description: "The vast forest-and-river belt east of the Nordlands proper — endless taiga, dark mixed woodlands, and the great inland river systems of the Varokh tribes, who guard their primeval homeland with a ferocity that has broken every army sent against them."
 type: place
@@ -15,6 +12,8 @@ data:
   population: null
 name:
   full: Vrystwald
+  aliases:
+    - Vrystwald Region
 shortcode: vrystwald
 terran_analog: "European Russia — the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
 folder: mCG1TPvjwrV23csZ

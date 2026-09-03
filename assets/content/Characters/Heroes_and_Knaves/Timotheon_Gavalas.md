@@ -9,6 +9,7 @@ name:
   given: Timothéon
   clan: Gaválas
   home: Chrysamar
+  aliases: []
 id: eZMSqTKJeZNuLNO5
 folder: b81DHx3S7C9ep13E
 shortcode: timthngvls

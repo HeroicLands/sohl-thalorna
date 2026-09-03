@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Forest Drake
+  aliases: []
 description: "A small, intelligent semi-arboreal drake ruling the forest canopy, solitary and fiercely territorial despite its modest draconic size."
 id: TD1mrTArS6vzQzxW
 img: icons/game-icons/faithtoken/dragon-head.svg

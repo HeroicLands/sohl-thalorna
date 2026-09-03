@@ -7,6 +7,7 @@ name:
   title: ""
   given: Kasûra
   clan: Damzarû
+  aliases: []
 id: nFRQMN4520J4jKHx
 folder: PuQFDMkRM9i60i5Z
 shortcode: kasuradmzr

@@ -11,6 +11,7 @@ data:
   population: null
 name:
   full: Heliónis
+  aliases: []
 shortcode: helionis
 folder: L06n59aSySB8zVbI
 ---

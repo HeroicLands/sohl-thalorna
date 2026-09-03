@@ -8,6 +8,7 @@ name:
   given: Bjǫrn
   clan: Vetrdómr
   home: Ravensholm
+  aliases: []
 id: 9ZfFDoH8TCU6PfFz
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjrnvtrdmr

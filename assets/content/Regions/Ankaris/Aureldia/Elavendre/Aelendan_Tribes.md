@@ -4,6 +4,7 @@ description: ""
 type: affiliation
 name:
   full: Áelendan Tribes
+  aliases: []
 shortcode: aelndntrbs
 subType: polity
 data:

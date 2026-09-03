@@ -1,14 +1,13 @@
 ---
-aliases:
-  - Pelwar People
-  - Pelwari
-  - Proto-Pelwar
 id: DpS4G6zm8pyhGDKh
 description: "Ancestral nomadic peoples whose migrations across Ankaris gave rise to modern kingdoms and whose language family still echoes in cultures from north to south."
 type: lore
 subType: folk
 name:
   full: Pelwar People
+  aliases:
+    - Pelwari
+    - Proto-Pelwar
 shortcode: pelwarpepl
 folder: ItBuDdxR2fBHx2Jw
 ---

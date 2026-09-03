@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Wakizashi
+  aliases: []
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
 id: XQAoPtRgy7VDeNDj
 img: icons/sword.svg

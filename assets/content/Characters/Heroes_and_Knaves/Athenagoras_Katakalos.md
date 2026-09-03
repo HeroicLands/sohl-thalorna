@@ -8,6 +8,7 @@ name:
   given: Athênagoras
   clan: Katakálos
   home: Denizara
+  aliases: []
 id: 8cGFS7lwMpacShaL
 folder: b81DHx3S7C9ep13E
 shortcode: athngrsktkls

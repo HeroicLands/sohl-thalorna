@@ -9,6 +9,7 @@ name:
   given: Mehrâd
   clan: Âzardan
   home: Golshahr
+  aliases: []
 id: nAWp90UIXOg1Pc6y
 folder: V1t8DVX0wKSOCJd5
 shortcode: mehradzrdn

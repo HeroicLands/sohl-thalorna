@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Gloomsprite
+  aliases: []
 description: "A fey trickster of the shadow-touched borderlands who delights in puzzles and bargains, leading travelers astray to punish broken unspoken promises."
 id: TzpgPd5BTOfbWPIY
 img: icons/game-icons/delapouite/fairy.svg

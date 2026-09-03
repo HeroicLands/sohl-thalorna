@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Karnavos"
-  - The Wild Beast
 tags:
   - aureldian
   - faith-skill
@@ -12,6 +9,8 @@ shortcode: karnavos
 img: images/affiliation/karnavos.webp
 name:
   full: "Ritual: Karnavos"
+  aliases:
+    - The Wild Beast
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

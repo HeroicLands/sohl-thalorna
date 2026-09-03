@@ -4,6 +4,7 @@ tags:
   - image-needed
 name:
   full: Wyvern
+  aliases: []
 description: "A two-legged, dragon-like flier of mountain peaks and high plateaus, lacking true draconic cunning but formidably lethal on the wing."
 id: f7qow0t2vLn2UWpk
 img: icons/game-icons/lorc/wyvern.svg

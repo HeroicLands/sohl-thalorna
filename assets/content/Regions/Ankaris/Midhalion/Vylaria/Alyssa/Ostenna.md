@@ -15,6 +15,7 @@ data:
   population: 7000
 name:
   full: Ostenna
+  aliases: []
 shortcode: ostenna
 folder: WSdLuPc7BaRqxNEt
 ---

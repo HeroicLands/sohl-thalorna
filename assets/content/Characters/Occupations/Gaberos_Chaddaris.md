@@ -9,6 +9,7 @@ name:
   given: Gábêros
   clan: Chàddâris
   home: Athenikos
+  aliases: []
 id: LojIIf94ChZESFqZ
 folder: gpXd1anXulwRWZqn
 shortcode: gabrschdrs

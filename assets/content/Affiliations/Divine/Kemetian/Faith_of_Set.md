@@ -1,8 +1,5 @@
 ---
 description: "Storms."
-aliases:
-  - Faith of Sét
-  - Sét, Bringer of Tempests
 id: 6wqKc4ejFReettDq
 tags:
   - kemetian
@@ -103,6 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Sét
+  aliases:
+    - Sét, Bringer of Tempests
 shortcode: set
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

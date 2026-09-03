@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Earthreaver
+  aliases: []
 description: "A venomous burrowing arthropod that rules underground ecosystems through speed and toxin, carving vast tunnel hunting grounds."
 id: sSoExpz4Qk9l3k5m
 img: icons/game-icons/delapouite/griffin-symbol.svg

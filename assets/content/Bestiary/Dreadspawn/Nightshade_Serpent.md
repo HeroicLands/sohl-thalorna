@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Nightshade Serpent
+  aliases: []
 description: "A shadow-corrupted serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
 id: sihuakxB0kpupEU6
 img: icons/game-icons/lorc/snake.svg

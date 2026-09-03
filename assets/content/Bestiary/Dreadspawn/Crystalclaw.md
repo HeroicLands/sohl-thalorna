@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Crystalclaw
+  aliases: []
 description: "A crystalline apex predator of gem-rich caverns, a living weapon of razor mineral edges and blinding magical radiance."
 id: aR2QPYkOiyPmVC4k
 img: icons/game-icons/delapouite/griffin-symbol.svg

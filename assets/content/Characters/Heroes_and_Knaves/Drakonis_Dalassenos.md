@@ -8,6 +8,7 @@ name:
   given: Drákonis
   clan: Dalássênos
   home: Yeşilhan
+  aliases: []
 id: nCrXLQipSbxl12H9
 folder: b81DHx3S7C9ep13E
 shortcode: drknsdlsns

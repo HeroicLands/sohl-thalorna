@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Xik'ul Ch'akal
+  aliases: []
 shortcode: xikulchakl2
 ---
 

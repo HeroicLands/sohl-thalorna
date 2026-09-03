@@ -7,6 +7,7 @@ tags:
   - metal
 name:
   full: Dāktūr Vōrthāt
+  aliases: []
 shortcode: daktrvrtht
 type: affiliation
 subType: faithtradition

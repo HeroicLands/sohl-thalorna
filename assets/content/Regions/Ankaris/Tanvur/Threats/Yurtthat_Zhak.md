@@ -98,6 +98,7 @@ sohl:
   archetype: null
 name:
   full: Yürtthāt Zhāk
+  aliases: []
 shortcode: yurthatzhk
 folder: l3wIL8UihJI5nx6L
 ---

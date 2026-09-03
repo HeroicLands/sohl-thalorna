@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Zāthük
+  aliases: []
 shortcode: zathuk
 folder: ZUKWHCnKcLAoZMdf
 ---

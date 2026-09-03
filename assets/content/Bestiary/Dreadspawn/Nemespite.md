@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Nemespite
+  aliases: []
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
 id: ZSoywGNHpw4z64RZ
 img: icons/game-icons/delapouite/griffin-symbol.svg

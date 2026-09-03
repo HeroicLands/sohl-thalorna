@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Iron Cinder
-  - Iron Cinder
-  - Cinis Ferreus
 tags:
   - organization
   - aureldia

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Extratemporality
+  aliases: []
 id: GRInCl46OtvsjWRe
 img: icons/psionics.svg
 shortcode: xtratemp

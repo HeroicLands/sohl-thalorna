@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Pavanajitras"
-  - Pavanajitras
-  - The Wandering Wind
-  - The Wind Spirits of the Road
 tags:
   - varnaka
   - faith-skill
@@ -13,6 +8,10 @@ id: eMx01DMt7qdWHtmq
 shortcode: pavanajitras
 name:
   full: "Ritual: Pavanajitras"
+  aliases:
+    - Pavanajitras
+    - The Wandering Wind
+    - The Wind Spirits of the Road
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Iat-Tepy
-  - The Sacred Island
-  - The First Mound
 id: eOqlwmPkawe5BQvu
 tags:
   - precinct
@@ -22,6 +18,7 @@ name:
   full: Iat-Tepy
   aliases:
     - The Sacred Island
+    - The First Mound
 shortcode: iattepy
 folder: 6HgEgHggm50Aphlq
 ---

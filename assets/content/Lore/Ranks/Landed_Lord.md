@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Landed Lord
+  aliases: []
 shortcode: landedlordrnk
 description: "Holding a fief or an estate in his own right, with dependents beneath him."
 ---

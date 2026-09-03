@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Pearl Ward
-  - Soulbuffer Elixir
 tags:
   - elixir
 name:
   full: The Pearl Ward
+  aliases:
+    - Soulbuffer Elixir
 description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."
 id: RLBFOJy4DDLdC7dE
 img: icons/potion.svg

@@ -9,6 +9,7 @@ name:
   given: Ailêmâ
   clan: Kêrîamyês
   home: Corvinus
+  aliases: []
 id: B2MmcByySffMkCPX
 folder: UFBfgKZUF0bAE7gG
 shortcode: ailemkrmys

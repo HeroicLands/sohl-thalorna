@@ -1,13 +1,12 @@
 ---
-aliases:
-  - The Empire of Ta'Kheperu
-  - Ta'Kheperu
 tags: []
 description: "Ancient continuous civilization of Xerathia's Northern Fertile Region — river-valley empire whose flood-cycle theology, priestly bureaucracy, and remarkable capacity to digest its own conquerors have outlasted every rival power on the continent."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Empire of Ta'Kheperu
+  aliases:
+    - Ta'Kheperu
 id: 4K5TrZq1I8XKWfUx
 shortcode: empirtkhpr
 subType: polity

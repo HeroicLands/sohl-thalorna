@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Meteor Dart
+  aliases: []
 description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
 id: 8XkM69WwCDD6to7G
 img: icons/flail.svg

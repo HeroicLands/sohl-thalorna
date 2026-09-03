@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Suvarṇagiri
+  aliases: []
 shortcode: suvaragiri
 folder: q61mqomRaSzUNfrY
 ---

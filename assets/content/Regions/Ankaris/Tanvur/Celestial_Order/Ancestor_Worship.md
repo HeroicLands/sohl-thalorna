@@ -4,6 +4,7 @@ type: lore
 subType: spirit
 name:
   full: Ancestor Worship
+  aliases: []
 shortcode: ancstrwrshp
 folder: hBkQzhJeB05EwziN
 ---

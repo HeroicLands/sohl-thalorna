@@ -6,6 +6,7 @@ type: lore
 subType: deity
 name:
   full: Óðinn
+  aliases: []
 shortcode: oinndty
 ---
 

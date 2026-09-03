@@ -1,8 +1,5 @@
 ---
 description: "Fertility, Water, Life, Healing."
-aliases:
-  - Faith of Zúráthrä
-  - Mother of the Oasis
 id: 1Go7PyToz0pzuoCy
 tags:
   - religion
@@ -103,6 +100,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Zúráthrä
+  aliases:
+    - Mother of the Oasis
 shortcode: zurathra
 alias: Zúráthrä, Mother of the Oasis
 folder: 7so6UiPt445oIHWs

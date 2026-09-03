@@ -4,6 +4,7 @@ description: "Naval power of the Helionite city-states — citizen-democracy of 
 type: affiliation
 name:
   full: Pelagora
+  aliases: []
 shortcode: pelagora
 subType: polity
 data:

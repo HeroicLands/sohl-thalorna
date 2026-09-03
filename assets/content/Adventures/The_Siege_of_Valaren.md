@@ -2,6 +2,7 @@
 id: giK7BKRT8hXeF9JB
 name:
   full: The Siege of Válaren
+  aliases: []
 shortcode: siegevalrn
 type: scenario
 subType: adventure

@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Outlaw
+  aliases: []
 shortcode: outlawrnk
 description: "Set beyond the law's protection, so that harm done to them is not answered for."
 ---

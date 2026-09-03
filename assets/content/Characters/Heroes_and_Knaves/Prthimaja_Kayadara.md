@@ -9,6 +9,7 @@ name:
   given: Prthîmâja
   clan: Kâyadara
   home: Chandrapur
+  aliases: []
 id: IGbqFKlLlHrrWLBA
 folder: JotxZnnXcTECeYW3
 shortcode: prthmjkydr

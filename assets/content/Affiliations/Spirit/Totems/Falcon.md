@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Falcon
+  aliases: []
 id: RakVBHejmx0qHcIn
 img: images/mystery/falcon.webp
 shortcode: falconttm

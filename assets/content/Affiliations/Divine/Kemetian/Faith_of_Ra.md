@@ -1,10 +1,5 @@
 ---
 description: "Fire."
-aliases:
-  - Faith of Rā
-  - The Solar Flame
-  - Rā
-  - Ra
 id: 9xHFCDNXKlHRKFmJ
 tags:
   - kemetian
@@ -106,6 +101,10 @@ sohl:
   archetype: null
 name:
   full: Faith of Rā
+  aliases:
+    - The Solar Flame
+    - Rā
+    - Ra
 shortcode: ra
 banner: banners/ta-kheperu-banner.webp
 alias: Rā, The Solar Flame

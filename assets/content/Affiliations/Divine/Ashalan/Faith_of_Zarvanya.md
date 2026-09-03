@@ -1,8 +1,5 @@
 ---
 description: "Dreams."
-aliases:
-  - Faith of Zárványä
-  - The Weaver of Visions
 id: xgTqdoirwfp6ngyF
 tags:
   - religion
@@ -104,6 +101,8 @@ sohl:
   archetype: null
 name:
   full: Faith of Zárványä
+  aliases:
+    - The Weaver of Visions
 shortcode: zarvanya
 alias: Zárványä, The Weaver of Visions
 folder: 7so6UiPt445oIHWs

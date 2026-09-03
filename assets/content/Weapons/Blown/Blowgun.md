@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Blowgun
+  aliases: []
 description: "Silent hollow tube for poison darts; hunter's covert strike."
 id: QRiORm95BTr4XREA
 img: icons/blowgun.svg

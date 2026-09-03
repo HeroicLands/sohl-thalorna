@@ -5,6 +5,7 @@ title: ""
 description: Ancient mountains, swamplands, and coastal wetlands of the Ch'aqun — the Serpent People — the great hostile nation of the northeastern frontier.
 name:
   full: Tz'uma No'tun
+  aliases: []
 id: fM8m3hYXswYDcrOt
 shortcode: tzumanotun
 img: ""

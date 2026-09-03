@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Meneti Shap'kher
-  - Meneti Shapkher
 tags:
   - heroes-and-knaves
   - guilded
@@ -12,6 +9,8 @@ name:
   given: Meneti
   clan: Shap'kher
   home: Khensuret
+  aliases:
+    - Meneti Shapkher
 id: IT0MZM3HrICcrOwb
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

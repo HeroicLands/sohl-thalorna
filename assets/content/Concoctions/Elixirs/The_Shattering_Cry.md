@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Shattering Cry
-  - Shout Elixir
 tags:
   - elixir
 name:
   full: The Shattering Cry
+  aliases:
+    - Shout Elixir
 description: "Golden vibrant elixir; amplifies speech to devastating sonic power."
 id: Wi9nryQ5RMzw3g4u
 img: icons/potion.svg

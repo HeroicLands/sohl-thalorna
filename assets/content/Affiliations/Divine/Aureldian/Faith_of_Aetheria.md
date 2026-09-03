@@ -1,10 +1,5 @@
 ---
 description: "Dreams."
-aliases:
-  - Faith of Æthería
-  - Faith of Aetheria
-  - Æthería
-  - Aetheria
 id: MsCHlWYxXsvCU7T3
 tags:
   - aureldian
@@ -107,6 +102,9 @@ name:
   full: Faith of Æthería
   aliases:
     - The Veiled Dreamer
+    - Faith of Aetheria
+    - Æthería
+    - Aetheria
 shortcode: aetheria
 img: images/affiliation/aetheria.webp
 folder: uMjCDTomEtc5Z0KV

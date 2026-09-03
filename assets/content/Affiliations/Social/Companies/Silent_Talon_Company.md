@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silent Talon Company
 tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: affiliation
@@ -94,6 +92,7 @@ id: SG3QpIM8U4cfoua5
 shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
+  aliases: []
 ---
 
 # The Silent Talon Company

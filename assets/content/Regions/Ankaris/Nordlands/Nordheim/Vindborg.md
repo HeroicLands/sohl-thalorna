@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Vindborg
+  aliases: []
 shortcode: vindborg
 folder: tUOAFxX25mViDE7q
 ---

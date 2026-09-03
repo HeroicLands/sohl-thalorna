@@ -1,11 +1,5 @@
 ---
 description: "Creation."
-aliases:
-  - Ptā'h
-  - Ptah
-  - Phtah
-  - The Shaper of the Eternal World
-  - The Divine Craftsman
 id: 37bXbRYbBzeeSEE7
 tags:
   - kemetian
@@ -108,6 +102,12 @@ sohl:
   archetype: null
 name:
   full: Faith of Ptā'h
+  aliases:
+    - Ptā'h
+    - Ptah
+    - Phtah
+    - The Shaper of the Eternal World
+    - The Divine Craftsman
 shortcode: ptah
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

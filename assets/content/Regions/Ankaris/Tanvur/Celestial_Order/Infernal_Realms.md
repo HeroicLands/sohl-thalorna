@@ -4,6 +4,7 @@ type: lore
 subType: cosmology
 name:
   full: Infernal Realms
+  aliases: []
 shortcode: infrnlrlms
 folder: hBkQzhJeB05EwziN
 ---

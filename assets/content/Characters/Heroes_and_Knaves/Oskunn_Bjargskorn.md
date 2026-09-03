@@ -8,6 +8,7 @@ name:
   given: Óskunn
   clan: Bjargskorn
   home: Steinmark
+  aliases: []
 id: ltUbakCQz8bc9FeL
 folder: Ka9XqaF27b0I3Gmq
 shortcode: osknbjrgskrn

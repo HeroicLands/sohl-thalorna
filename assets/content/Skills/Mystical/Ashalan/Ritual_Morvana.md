@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Mórváhñä"
-  - The Silent Keeper
 tags:
   - ashalan
   - faith-skill
@@ -11,6 +8,8 @@ id: CRj9cFABChyUtlJl
 shortcode: morvahna
 name:
   full: "Ritual: Mórváhñä"
+  aliases:
+    - The Silent Keeper
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

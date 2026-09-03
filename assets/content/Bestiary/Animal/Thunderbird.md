@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Thunderbird
+  aliases: []
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
 id: cCvH3RbioiVmP5uA
 img: icons/game-icons/delapouite/eagle-head.svg

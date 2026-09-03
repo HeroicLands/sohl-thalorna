@@ -14,6 +14,7 @@ data:
   population: 50000
 name:
   full: Mercavia
+  aliases: []
 shortcode: mercavia
 folder: WSdLuPc7BaRqxNEt
 ---

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Xerathia
-  - Xerathian
-  - Xerathia Continent
 id: YrWaLJNILQB3xNmH
 tags:
   - continent
@@ -20,6 +16,9 @@ data:
   population: null
 name:
   full: Xerathia
+  aliases:
+    - Xerathian
+    - Xerathia Continent
 shortcode: xerathia
 description: The southern continent — fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
 terran_analog: Africa

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Theódric Fróðbán
-  - Theodric Froban
 tags:
   - draft
   - common-folk
@@ -13,6 +10,7 @@ name:
   home: Dunkelwald
   aliases:
     - Thrain Ironpick
+    - Theodric Froban
 id: cMjRC8xxCWeKiHxz
 folder: Nu7AgLZEmR26u2pk
 shortcode: thdrcfrdbn

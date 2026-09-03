@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Second Utterance
-  - Formfix Elixir
 tags:
   - elixir
 name:
   full: The Second Utterance
+  aliases:
+    - Formfix Elixir
 description: "Clear transparent elixir; grants second chance against magical failures."
 id: TfQhH6ZIzhhvga7c
 img: icons/potion.svg

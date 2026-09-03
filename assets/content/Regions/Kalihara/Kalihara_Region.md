@@ -4,6 +4,7 @@ tags:
 description: The inhabited country of the Kalihara continent — jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
 name:
   full: Kalihara Region
+  aliases: []
 id: BGUFytM08ypgI0XE
 shortcode: kaliharargn
 img: ""

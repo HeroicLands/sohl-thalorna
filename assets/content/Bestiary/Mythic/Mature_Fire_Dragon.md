@@ -4,6 +4,7 @@ tags:
   - image-needed
 name:
   full: Mature Fire Dragon
+  aliases: []
 description: "A calculating apex fire dragon of three or four centuries, cruel and supreme, selecting its prey with deliberate predatory strategy."
 id: KnuTXF76FU1MTtAN
 img: icons/game-icons/faithtoken/dragon-head.svg

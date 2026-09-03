@@ -14,6 +14,7 @@ data:
   population: 7000
 name:
   full: Korsvik
+  aliases: []
 shortcode: korsvik
 folder: WSdLuPc7BaRqxNEt
 ---

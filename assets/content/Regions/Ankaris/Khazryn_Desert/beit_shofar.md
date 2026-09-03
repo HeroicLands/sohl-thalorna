@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Beit-Shōfár
+  aliases: []
 shortcode: beitshofar
 ---
 

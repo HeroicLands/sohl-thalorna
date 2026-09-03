@@ -4,6 +4,7 @@ description: Highland kingdom of the northern Vedyari passes — austere, martia
 type: affiliation
 name:
   full: Vindhyālaya
+  aliases: []
 id: 8t9B6UgMSkTG9Dir
 shortcode: vindhyalay
 subType: polity

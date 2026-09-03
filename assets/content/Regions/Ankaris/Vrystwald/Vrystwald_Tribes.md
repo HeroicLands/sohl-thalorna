@@ -4,6 +4,7 @@ description: "Confederation of warrior tribes inhabiting the Vrystwald forests â
 type: affiliation
 name:
   full: Vrystwald Tribes
+  aliases: []
 shortcode: vrystwldtrbs
 subType: polity
 data:

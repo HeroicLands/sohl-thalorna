@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Wasp
+  aliases: []
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."
 id: 3gqGlLb8DWK538oW
 img: icons/game-icons/lorc/wasp-sting.svg

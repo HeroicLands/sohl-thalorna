@@ -1,15 +1,13 @@
 ---
-aliases:
-  - Aurèldía Region
-  - Aurèldía
-  - Aureldia
-  - Aureldia Region
 tags:
   - region
   - aureldia
 description: The western heartland of the Aurèldían faith — a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
 name:
   full: Aurèldía Region
+  aliases:
+    - Aurèldía
+    - Aureldia
 id: 7r7X4XximAt5POjG
 shortcode: aureldirgn
 img: ""

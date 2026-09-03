@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Provenzia
-  - Provenzia Region
 id: WyMT0ClRJB42TW6d
 description: "Eastern coastal region of Aureldia — wealthy merchant-prince realm dominated by sophisticated city-states and engaged in far-flung trade networks."
 type: place
@@ -15,6 +12,8 @@ data:
   population: null
 name:
   full: Provènzia Region
+  aliases:
+    - Provenzia
 shortcode: provenzrgn
 terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal — the southwestern Aurèldían sphere of vineyards, river-mouth ports, illuminated-manuscript scriptoria, and the great glass-and-art cultural tradition that runs along the Atlantic seaboard."
 folder: 2s244hfP0BpQi195

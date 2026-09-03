@@ -9,6 +9,7 @@ name:
   given: Unnr
   clan: Eldskari
   home: Kvenndal
+  aliases: []
 id: aedUEUFwI1ZeDk46
 folder: Ka9XqaF27b0I3Gmq
 shortcode: unreldskar

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Veil-Smoke
-  - "Potion, Hallucinogenic, Strong"
 tags:
   - strong-elixir
 name:
   full: Veil-Smoke
+  aliases:
+    - Potion, Hallucinogenic, Strong
 description: "Almost indigo draft; obscures vision and conceals drinker."
 id: 6o8Z3nBxiMekhBLl
 img: icons/potion.svg

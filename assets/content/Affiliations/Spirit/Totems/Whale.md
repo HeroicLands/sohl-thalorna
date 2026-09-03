@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Whale
+  aliases: []
 id: qPI5hH1aPPOfpS35
 img: images/mystery/whale.webp
 shortcode: whalettm

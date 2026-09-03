@@ -6,6 +6,7 @@ sohl:
 id: Q5oqJ5ibltS7B0oS
 name:
   full: Corsair League
+  aliases: []
 shortcode: corsairleg
 subType: guild
 data:

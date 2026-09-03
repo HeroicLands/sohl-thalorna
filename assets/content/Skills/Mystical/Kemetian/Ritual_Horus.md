@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Hórús"
-  - Hórús, The Guiding Falcon
 tags:
   - kemetian
   - faith-skill
@@ -11,6 +8,8 @@ id: S2quL79WVm0zwEVS
 shortcode: horus
 name:
   full: "Ritual: Hórús"
+  aliases:
+    - Hórús, The Guiding Falcon
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

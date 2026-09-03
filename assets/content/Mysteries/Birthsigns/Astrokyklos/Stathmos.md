@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Stathmos
+  aliases: []
 description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."
 id: BdARpfjp4ZpLEz1M
 img: systems/sohl/assets/icons/other/astrology.svg

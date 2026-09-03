@@ -2,6 +2,7 @@
 id: QddBTHgnLAzYbXo5
 name:
   full: References
+  aliases: []
 type: doc
 subType: collection
 shortcode: references

@@ -7,6 +7,7 @@ description: "Craft City"
 type: place
 name:
   full: Byzaris
+  aliases: []
 shortcode: byzaris
 subType: settlement
 data:

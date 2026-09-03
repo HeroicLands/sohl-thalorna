@@ -4,6 +4,7 @@ tags:
   - image-needed
 name:
   full: Gryphon
+  aliases: []
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."
 id: 3cvUtYLpqMrX5jpp
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -8,6 +8,7 @@ name:
   given: Bǫthvarr
   clan: Sólvargr
   home: Brúnvík
+  aliases: []
 id: V5HnPNXCvbny78Mm
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bthvrslvrgr

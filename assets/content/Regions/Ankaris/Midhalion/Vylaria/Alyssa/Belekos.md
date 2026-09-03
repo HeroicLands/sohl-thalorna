@@ -14,6 +14,7 @@ data:
   population: 25000
 name:
   full: Belekos
+  aliases: []
 shortcode: belekos
 folder: WSdLuPc7BaRqxNEt
 ---

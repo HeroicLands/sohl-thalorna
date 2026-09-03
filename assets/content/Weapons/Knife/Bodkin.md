@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bodkin
+  aliases: []
 description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
 id: po0MtDrMbBIcNdyH
 img: icons/broad-dagger.svg

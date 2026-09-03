@@ -18,6 +18,7 @@ id: 1e0pksxoUKkUxRFB
 shortcode: bldshscrvlvl
 name:
   full: Blood and Ashes in Céravel Vale
+  aliases: []
 folder: 9TmLIkGXGHMtFxzy
 ---
 

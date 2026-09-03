@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Karataş
+  aliases: []
 shortcode: karatas2
 ---
 

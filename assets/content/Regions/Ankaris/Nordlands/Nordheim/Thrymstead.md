@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Thrymstead
+  aliases: []
 shortcode: thrymstead
 folder: tUOAFxX25mViDE7q
 ---

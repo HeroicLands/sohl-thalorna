@@ -4,6 +4,7 @@ description: "The breadbasket province of the Vylarian Empire — fertile lowlan
 type: affiliation
 name:
   full: Province of Hylen
+  aliases: []
 shortcode: provnchyln
 subType: polity
 data:

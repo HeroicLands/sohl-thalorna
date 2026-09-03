@@ -10,6 +10,7 @@ data:
   population: null
 name:
   full: Nékropolis
+  aliases: []
 shortcode: nekropolis
 folder: pAXnwYJhDDSvkrPt
 ---

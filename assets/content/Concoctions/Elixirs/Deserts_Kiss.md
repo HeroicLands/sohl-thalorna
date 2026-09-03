@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Desert's Kiss"
-  - Exsiccation Elixir
 tags:
   - elixir
 name:
   full: "Desert's Kiss"
+  aliases:
+    - Exsiccation Elixir
 description: "Chalky white dryness elixir; transforms water to mist in radius."
 id: mWmjbdxedFbpbA0w
 img: icons/potion.svg

@@ -3,6 +3,7 @@ tags:
   - folk
 name:
   full: Forest Goblin
+  aliases: []
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
 id: B24v0x403YmclrJb
 img: icons/game-icons/caro-asercion/goblin.svg

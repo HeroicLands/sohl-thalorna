@@ -10,6 +10,7 @@ data:
   population: null
 name:
   full: Laurelossë
+  aliases: []
 shortcode: laurelosse
 folder: tUOAFxX25mViDE7q
 ---

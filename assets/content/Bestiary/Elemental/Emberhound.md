@@ -3,6 +3,7 @@ tags:
   - elemental
 name:
   full: Emberhound
+  aliases: []
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
 id: WGeazrSoyg3VKwns
 img: icons/game-icons/lorc/hound.svg

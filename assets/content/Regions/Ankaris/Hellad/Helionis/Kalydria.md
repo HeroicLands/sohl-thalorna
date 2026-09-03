@@ -4,6 +4,7 @@ description: "Cultural jewel of the Helionite city-states — oligarchy of patro
 type: affiliation
 name:
   full: Kalydria
+  aliases: []
 shortcode: kalydria
 subType: polity
 data:

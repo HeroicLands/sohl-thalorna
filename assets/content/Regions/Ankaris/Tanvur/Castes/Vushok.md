@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Vüshōk
+  aliases: []
 shortcode: vushok
 folder: ZUKWHCnKcLAoZMdf
 ---

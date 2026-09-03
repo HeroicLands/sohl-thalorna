@@ -4,6 +4,7 @@ description: "Loose confederation of Normen járldoms on Aelwyth's fjord-like no
 type: affiliation
 name:
   full: Járldom of Stormveld
+  aliases: []
 shortcode: jrldmstrmvld
 subType: polity
 data:

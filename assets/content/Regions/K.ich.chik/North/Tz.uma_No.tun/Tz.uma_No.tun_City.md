@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Tz'uma No'tun
+  aliases: []
 shortcode: tzumanotun2
 ---
 

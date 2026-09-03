@@ -1,9 +1,4 @@
 ---
-aliases:
-  - "Ritual: Má'át"
-  - Keeper of Truth and Harmony
-  - "Má'át"
-  - Maat
 tags:
   - kemetian
   - faith-skill
@@ -13,6 +8,10 @@ id: 855hIkKjnj5x6MHj
 shortcode: maat
 name:
   full: "Ritual: Má'át"
+  aliases:
+    - Keeper of Truth and Harmony
+    - Má'át
+    - Maat
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

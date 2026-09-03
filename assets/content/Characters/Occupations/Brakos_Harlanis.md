@@ -9,6 +9,7 @@ name:
   given: Brákôs
   clan: Hârlânis
   home: ""
+  aliases: []
 id: NbrnTP3fAbnFbmOH
 folder: UFBfgKZUF0bAE7gG
 shortcode: brakshrlns

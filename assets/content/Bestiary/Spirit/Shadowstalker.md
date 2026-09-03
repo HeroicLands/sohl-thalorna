@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Shadowstalker
+  aliases: []
 description: "A tactical spirit-realm assassin born of murder, moving unseen and striking from darkness to hunt targets across years or guard a single domain."
 id: K30OECnGa5hVR22R
 img: icons/game-icons/lorc/spectre.svg

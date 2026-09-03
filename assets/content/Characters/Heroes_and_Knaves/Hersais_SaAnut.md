@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hersaîs SaAnut
-  - Her'sa'îs Sa'Anut
-  - Hersais SaAnut
 tags:
   - heroes-and-knaves
   - administration
@@ -12,6 +8,9 @@ name:
   given: Her'sa'îs
   clan: Sa'Anut
   home: Ankh-Setûn
+  aliases:
+    - Hersaîs SaAnut
+    - Hersais SaAnut
 id: HhMbJDNK49dWeLu0
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

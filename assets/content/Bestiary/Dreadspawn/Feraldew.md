@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Feraldew
+  aliases: []
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
 id: c9Dwi7Xceu24w4P6
 img: icons/game-icons/delapouite/griffin-symbol.svg

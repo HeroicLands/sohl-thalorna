@@ -15,6 +15,7 @@ data:
   population: null
 name:
   full: Ékunda
+  aliases: []
 shortcode: ekunda
 folder: Ka6y9l5O5XGpNhfI
 ---

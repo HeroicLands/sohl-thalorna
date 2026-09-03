@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Vylarian Military
-  - The Imperial Army of Vylaria
-  - The Legions
 tags:
   - organization
   - vylaria
@@ -16,6 +12,7 @@ name:
   aliases:
     - The Imperial Army of Vylaria
     - The Legions of the Augustar
+    - The Legions
 shortcode: vylrnmltry
 type: affiliation
 subType: venture

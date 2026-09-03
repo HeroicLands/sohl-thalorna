@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Lusinia"
-  - Lúsinía
-  - The World-Weaver
 tags:
   - aureldian
   - faith-skill
@@ -13,6 +9,9 @@ shortcode: lusinia
 img: images/affiliation/lusinia.webp
 name:
   full: "Ritual: Lusinia"
+  aliases:
+    - Lúsinía
+    - The World-Weaver
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

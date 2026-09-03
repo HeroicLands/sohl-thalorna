@@ -4,6 +4,7 @@ description: "Merchant-prince kingdom on the eastern coast of Aureldia — wealt
 type: affiliation
 name:
   full: Kingdom of Provènzia
+  aliases: []
 shortcode: kngdmprvnz
 subType: polity
 data:

@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Resident Alien
+  aliases: []
 shortcode: rsdntlnrnk
 description: "Living under a body's protection and paying its dues, without its citizenship."
 ---

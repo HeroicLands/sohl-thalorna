@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Valthari
+  aliases: []
 shortcode: valthari
 ---
 

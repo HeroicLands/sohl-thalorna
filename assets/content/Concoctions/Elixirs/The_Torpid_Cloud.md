@@ -1,11 +1,10 @@
 ---
-aliases:
-  - The Torpid Cloud
-  - Weakness Elixir
 tags:
   - elixir
 name:
   full: The Torpid Cloud
+  aliases:
+    - Weakness Elixir
 description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
 id: 8d92VDvqDzTX5Pdu
 img: icons/potion.svg

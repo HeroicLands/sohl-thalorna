@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Physéran Balm
-  - Healing Elixir
 tags:
   - elixir
 name:
   full: Physéran Balm
+  aliases:
+    - Healing Elixir
 description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
 id: Nc1xP3O5wchcF7D3
 img: icons/potion.svg

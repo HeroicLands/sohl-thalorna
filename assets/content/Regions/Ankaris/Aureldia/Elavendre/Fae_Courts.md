@@ -1,12 +1,10 @@
 ---
-aliases:
-  - The Fae Courts
-  - Fae Courts
 id: xC94NpQeBYOyeezn
 type: lore
 subType: spirit
 name:
   full: The Fae Courts
+  aliases: []
 shortcode: faecourts
 folder: drAoDoNnFEygATeK
 ---

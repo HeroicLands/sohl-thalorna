@@ -4,6 +4,7 @@ type: lore
 subType: law
 name:
   full: Caste Laws
+  aliases: []
 shortcode: castelaws
 folder: jV7c6dJp4Ztnjtb3
 ---

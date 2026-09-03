@@ -7,6 +7,7 @@ description: "Oasis Settlement"
 type: place
 name:
   full: Oasis of Shirvan
+  aliases: []
 shortcode: oasishirvn
 subType: settlement
 data:

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Khanda
+  aliases: []
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
 id: Ql3gc9dMj0EAofaN
 img: icons/sword.svg

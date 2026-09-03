@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hastening
+  aliases: []
 description: "Quickens movement; caster moves with supernatural speed and grace."
 id: 6sJ5Oe2KAAFrEQjt
 img: icons/fire.svg

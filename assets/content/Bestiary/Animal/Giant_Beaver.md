@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Beaver
+  aliases: []
 description: "An intelligent, industrious rodent and master engineer that reshapes whole landscapes with dams and lodges redirecting entire watercourses."
 id: sChYtBXlCKoOHaHl
 img: icons/game-icons/lorc/paw-print.svg

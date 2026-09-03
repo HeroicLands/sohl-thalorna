@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Barter Economy
-  - Barter
-  - Barter System
 tags:
   - reference
   - currency
@@ -16,6 +12,7 @@ name:
   full: The Barter Economy
   aliases:
     - Barter
+    - Barter System
 shortcode: bartercnmy
 folder:
 ---

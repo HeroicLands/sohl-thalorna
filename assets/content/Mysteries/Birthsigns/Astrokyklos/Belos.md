@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Belos
+  aliases: []
 description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."
 id: VDbFbTOOigCx0XOp
 img: systems/sohl/assets/icons/other/astrology.svg

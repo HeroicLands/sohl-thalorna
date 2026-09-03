@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Nartûm
+  aliases: []
 shortcode: nartum
 folder: WSdLuPc7BaRqxNEt
 ---

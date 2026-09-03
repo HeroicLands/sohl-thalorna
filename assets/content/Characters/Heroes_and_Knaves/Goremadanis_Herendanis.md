@@ -8,6 +8,7 @@ name:
   given: Goremadânis
   clan: Hérendânis
   home: Belekos
+  aliases: []
 id: Mncde691bwG62CIr
 folder: UFBfgKZUF0bAE7gG
 shortcode: grmdnshrndns

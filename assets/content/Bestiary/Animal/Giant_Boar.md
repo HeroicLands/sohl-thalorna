@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Giant Boar
+  aliases: []
 description: "A thousand-pound apex boar of northern forests, standing five feet at the shoulder and jealously guarding vast territories with barely restrained violence."
 id: lZvL9MY97JDX0GeN
 img: icons/game-icons/caro-asercion/boar.svg

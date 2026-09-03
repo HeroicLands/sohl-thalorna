@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: K'uxi Balam
+  aliases: []
 shortcode: kuxibalam2
 ---
 

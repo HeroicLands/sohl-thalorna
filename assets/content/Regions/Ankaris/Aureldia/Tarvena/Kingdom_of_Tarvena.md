@@ -4,6 +4,7 @@ description: "Loose confederation of fiercely independent petty kingdoms, city-s
 type: affiliation
 name:
   full: Kingdom of Tarvénia
+  aliases: []
 shortcode: kingdmtrvn
 subType: polity
 data:

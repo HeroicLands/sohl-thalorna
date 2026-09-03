@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sir Andrés Lorca Knight of the Western Marches
-  - Sir Andrés Lorca, Knight of the Western Marches
-  - Sir Andres Lorca
 tags:
   - heroes-and-knaves
   - hero
@@ -15,6 +11,7 @@ name:
   home: Eskárath
   aliases:
     - Knight of the Western Marches
+    - Sir Andres Lorca
 id: wjpyASdgdi32ZXfT
 folder: 9t9O4iB5cYJtSaTG
 shortcode: srndrslrcknghtwstrnmrchs

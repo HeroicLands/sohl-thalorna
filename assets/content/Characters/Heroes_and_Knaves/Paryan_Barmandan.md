@@ -9,6 +9,7 @@ name:
   given: Paryan
   clan: Barmandan
   home: Golshahr
+  aliases: []
 id: 84mKejK7twbhw2Vo
 folder: V1t8DVX0wKSOCJd5
 shortcode: prynbrmndn

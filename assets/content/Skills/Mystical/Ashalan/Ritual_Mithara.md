@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Míthárä"
-  - "The World's First Light"
 tags:
   - ashalan
   - faith-skill
@@ -11,6 +8,8 @@ id: Vx0cYWArc0EIPhtK
 shortcode: mithara
 name:
   full: "Ritual: Míthárä"
+  aliases:
+    - The World's First Light
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

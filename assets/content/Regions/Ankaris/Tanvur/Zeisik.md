@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Zëisīk
+  aliases: []
 shortcode: zeisik
 folder: jV7c6dJp4Ztnjtb3
 ---

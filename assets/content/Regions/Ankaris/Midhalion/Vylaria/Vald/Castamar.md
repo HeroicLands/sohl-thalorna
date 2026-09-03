@@ -15,6 +15,7 @@ data:
   population: 20000
 name:
   full: Castamar
+  aliases: []
 shortcode: castamar
 folder: WSdLuPc7BaRqxNEt
 ---

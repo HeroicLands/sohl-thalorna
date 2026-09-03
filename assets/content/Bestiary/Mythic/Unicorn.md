@@ -4,6 +4,7 @@ tags:
   - image-needed
 name:
   full: Unicorn
+  aliases: []
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
 id: BHOxntPKnVng9YYZ
 img: icons/game-icons/delapouite/unicorn.svg

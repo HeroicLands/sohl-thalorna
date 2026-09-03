@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Duck
+  aliases: []
 id: iQHwJSWiNaowM9nN
 img: images/mystery/duck.webp
 shortcode: duckttm

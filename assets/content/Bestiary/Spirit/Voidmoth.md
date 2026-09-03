@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Voidmoth
+  aliases: []
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
 id: 0YaWh1FabKCGtnAs
 img: icons/game-icons/lorc/butterfly.svg

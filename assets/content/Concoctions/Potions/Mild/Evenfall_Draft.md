@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Evenfall Draft
-  - "Potion, Soporific, Mild"
 tags:
   - mild-elixir
 name:
   full: Evenfall Draft
+  aliases:
+    - Potion, Soporific, Mild
 description: "Milky white pale gray liquid; promotes sleep and restfulness."
 id: pjjpRBGyKWLo0jXJ
 img: icons/potion.svg

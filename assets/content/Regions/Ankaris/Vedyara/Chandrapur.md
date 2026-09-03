@@ -4,6 +4,7 @@ description: "Vedyara's preeminent center of gemcraft and jewelry, standing marb
 type: affiliation
 name:
   full: Chandrapur
+  aliases: []
 shortcode: chandrapur
 subType: polity
 data:

@@ -1,11 +1,4 @@
 ---
-aliases:
-  - "Ritual: Ápōphis"
-  - Ápōphis
-  - Apophis
-  - Apep
-  - The Devouring Shadow
-  - The Chaos Serpent
 tags:
   - kemetian
   - faith-skill
@@ -15,6 +8,12 @@ id: gA0jH1zhocwrvUAO
 shortcode: apophis
 name:
   full: "Ritual: Ápōphis"
+  aliases:
+    - Ápōphis
+    - Apophis
+    - Apep
+    - The Devouring Shadow
+    - The Chaos Serpent
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bourax
+  aliases: []
 description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
 id: vKmINLcD4XwVEtZv
 img: systems/sohl/assets/icons/other/astrology.svg

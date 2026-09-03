@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Nightwraith
+  aliases: []
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
 id: ep28BnO3DsmrKAf2
 img: icons/game-icons/lorc/spectre.svg

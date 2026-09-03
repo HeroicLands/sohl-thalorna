@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Green Dragon Crescent Blade
+  aliases: []
 description: "Curved polearm blade for slashing across multiple foes."
 id: 7qGCDLyqpA1ejoyQ
 img: icons/polearm.svg

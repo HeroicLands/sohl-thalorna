@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Stone Ram
+  aliases: []
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
 id: ev0hqSRmPJlFtV7E
 img: icons/game-icons/delapouite/sheep.svg

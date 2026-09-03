@@ -4,6 +4,7 @@ description: "Senatorial republic on Aelwyth's southwestern coast — pragmatic 
 type: affiliation
 name:
   full: Republic of Tarvenne
+  aliases: []
 shortcode: repblctrvn
 subType: polity
 data:

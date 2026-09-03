@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sanctum
+  aliases: []
 description: "Creates sacred space; grants sanctuary and refuge from intrusion."
 id: LqSMpiZ3yOuamOiO
 img: icons/circle.svg

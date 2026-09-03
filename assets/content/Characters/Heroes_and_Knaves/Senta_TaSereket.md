@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sênta TaSereket
-  - Sênta Ta'Sereket
-  - Senta TaSereket
 tags:
   - heroes-and-knaves
   - soldiery
@@ -12,6 +8,9 @@ name:
   given: Sênta
   clan: Ta'Sereket
   home: Per-Ankhet
+  aliases:
+    - Sênta TaSereket
+    - Senta TaSereket
 id: Bsazl9Wt9ZN5uPcn
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

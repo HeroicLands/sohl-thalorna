@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Pelagora
+  aliases: []
 shortcode: pelagora2
 ---
 

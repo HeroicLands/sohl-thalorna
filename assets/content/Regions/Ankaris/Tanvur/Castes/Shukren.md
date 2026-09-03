@@ -4,6 +4,7 @@ type: lore
 subType: culture
 name:
   full: Shükrën
+  aliases: []
 shortcode: shukren
 folder: ZUKWHCnKcLAoZMdf
 ---

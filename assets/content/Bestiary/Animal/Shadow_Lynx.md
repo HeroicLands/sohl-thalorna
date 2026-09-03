@@ -3,6 +3,7 @@ tags:
   - animal
 name:
   full: Shadow Lynx
+  aliases: []
 description: "A solitary nocturnal ambush cat of deep forests, built for stealth and precision as it guards exclusive woodland territories."
 id: i1hrH7tYkoFMzTzq
 img: icons/game-icons/delapouite/lynx-head.svg

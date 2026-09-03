@@ -8,6 +8,7 @@ name:
   given: Mithran
   clan: Shiradar
   home: Oasis of Teyran
+  aliases: []
 id: skGF7W5mzTVDMTFm
 folder: kCKYObmsvraIezCd
 shortcode: mthrnshrdr

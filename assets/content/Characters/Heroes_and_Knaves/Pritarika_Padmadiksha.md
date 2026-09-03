@@ -8,6 +8,7 @@ name:
   given: Pritàrika
   clan: Padmadîksha
   home: Suvarṇagiri
+  aliases: []
 id: kCtgf7de4hSOoag2
 folder: JotxZnnXcTECeYW3
 shortcode: prtrkpdmdksh

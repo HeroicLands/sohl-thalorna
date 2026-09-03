@@ -4,6 +4,7 @@ description: "Woodland kingdom of forests, music, and ancient magic — center o
 type: affiliation
 name:
   full: Kingdom of Élavendre
+  aliases: []
 shortcode: kngdmlvndr
 subType: polity
 data:

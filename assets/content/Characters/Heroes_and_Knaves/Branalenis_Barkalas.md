@@ -8,6 +8,7 @@ name:
   given: Brânalenîs
   clan: Bárkalâs
   home: Belekos
+  aliases: []
 id: HySXklJQfb8FnTsx
 folder: UFBfgKZUF0bAE7gG
 shortcode: brnlnsbrkls

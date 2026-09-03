@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Ki'ik Ba'ate
+  aliases: []
 shortcode: kiikbaate2
 ---
 

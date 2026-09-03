@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Rājapur
+  aliases: []
 shortcode: rajapur
 folder: q61mqomRaSzUNfrY
 ---

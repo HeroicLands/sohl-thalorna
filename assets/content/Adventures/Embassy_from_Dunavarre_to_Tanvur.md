@@ -2,6 +2,7 @@
 id: vzPh6NZfidnmcxmI
 name:
   full: Embassy from Dunavarre to Tānvür
+  aliases: []
 shortcode: embsydnvrtnvr
 type: scenario
 subType: adventure

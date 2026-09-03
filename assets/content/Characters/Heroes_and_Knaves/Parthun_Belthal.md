@@ -9,6 +9,7 @@ name:
   given: Párthun
   clan: Bélthal
   home: Valdûn
+  aliases: []
 id: EG2uzxHZTnhI9IPS
 folder: 4cwfdMa34UryZqPR
 shortcode: prthnblthl

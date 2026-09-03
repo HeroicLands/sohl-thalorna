@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Gauntlet
+  aliases: []
 description: "Caster's fists harden; strikes with supernatural force and damage."
 id: CK7GelF58bx7SCr2
 img: icons/fire.svg

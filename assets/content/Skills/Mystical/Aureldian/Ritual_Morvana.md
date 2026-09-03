@@ -1,8 +1,4 @@
 ---
-aliases:
-  - "Ritual: Morvana"
-  - Mórváná
-  - Mistress of the Waning Moon
 tags:
   - aureldian
   - faith-skill
@@ -13,6 +9,9 @@ shortcode: morvana
 img: images/affiliation/morvana.webp
 name:
   full: "Ritual: Morvana"
+  aliases:
+    - Mórváná
+    - Mistress of the Waning Moon
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Valdarheim
+  aliases: []
 shortcode: valdarheim
 folder: 3JdV0mOrMUISPmRz
 ---

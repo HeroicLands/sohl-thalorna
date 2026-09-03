@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Ha’ K’ukul
+  aliases: []
 shortcode: hakukul
 folder: 13VGFYcT7sKTGll7
 ---

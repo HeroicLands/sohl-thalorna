@@ -4,6 +4,7 @@ type: lore
 subType: theology
 name:
   full: Celestial Pantheon
+  aliases: []
 shortcode: clstlpnthn
 folder: hBkQzhJeB05EwziN
 ---

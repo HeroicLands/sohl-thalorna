@@ -1,8 +1,4 @@
 ---
-aliases:
-  - The Aerarium Imperii
-  - Aerarium Imperii
-  - The Imperial Treasury
 tags: []
 description: "Vylarian imperial treasury and central bank — holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."
 id: WPulW6UO0nVXOVWt

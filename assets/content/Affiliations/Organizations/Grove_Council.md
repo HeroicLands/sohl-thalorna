@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Grove Council
-  - The Grove Council
 tags: []
 description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Ordo Arcanis across the forests of Élavendre."
 id: errATCtwb0XlFDtY

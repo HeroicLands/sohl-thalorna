@@ -4,6 +4,7 @@ description: "Mountainous heartland of Tarvénia, seat of the High King — king
 type: affiliation
 name:
   full: Kingdom of Astúrath
+  aliases: []
 shortcode: kngdmstrth
 subType: polity
 data:

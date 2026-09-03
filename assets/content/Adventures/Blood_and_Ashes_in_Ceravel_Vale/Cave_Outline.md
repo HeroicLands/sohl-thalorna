@@ -18,6 +18,7 @@ data:
     archetypes: []
 name:
   full: Cave Outline
+  aliases: []
 shortcode: caveoutlin
 folder: 9TmLIkGXGHMtFxzy
 ---

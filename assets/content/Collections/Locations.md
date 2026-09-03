@@ -2,6 +2,7 @@
 id: 2OGPK8TItkzTYpQE
 name:
   full: Locations
+  aliases: []
 type: doc
 subType: collection
 shortcode: locations

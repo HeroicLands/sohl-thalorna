@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Abyssdrake
+  aliases: []
 description: "A rare, intelligent draconic ambush predator of lightless depths that guards sunken ruins, trenches, and corrupted underwater sanctuaries."
 id: MoaH3MMvKwCfPZpw
 img: icons/game-icons/faithtoken/dragon-head.svg

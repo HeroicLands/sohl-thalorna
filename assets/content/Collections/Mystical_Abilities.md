@@ -2,6 +2,7 @@
 id: sljSrCVNlGMCzI7j
 name:
   full: Mystical Abilities
+  aliases: []
 type: doc
 subType: collection
 shortcode: mystclblts2

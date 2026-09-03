@@ -14,6 +14,7 @@ data:
   population: 8000
 name:
   full: Ostvar
+  aliases: []
 shortcode: ostvar
 folder: WSdLuPc7BaRqxNEt
 ---

@@ -3,6 +3,7 @@ tags:
   - spirit
 name:
   full: Flamewraith
+  aliases: []
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."
 id: IkisGKow2uz3lPSw
 img: icons/game-icons/lorc/spectre.svg

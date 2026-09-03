@@ -4,6 +4,7 @@ description: "Financial crime network born from Harad's post-independence chaos,
 id: t9s9lBRWs6Nz7ggk
 name:
   full: The Crimson Ledger
+  aliases: []
 shortcode: crimsnldgr
 type: affiliation
 subType: criminal

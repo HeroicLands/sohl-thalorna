@@ -8,6 +8,7 @@ name:
   given: Sénapati
   clan: Vikramâda
   home: Vyālendra
+  aliases: []
 id: mCsuUes7ZyvdxVMu
 folder: JotxZnnXcTECeYW3
 shortcode: senptvkrmd

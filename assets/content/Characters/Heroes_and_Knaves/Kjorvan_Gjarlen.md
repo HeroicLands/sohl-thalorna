@@ -9,6 +9,7 @@ name:
   given: Kjôrvan
   clan: Gjârlen
   home: Fiòrdaure
+  aliases: []
 id: fCySNaHBQkTfCcF5
 folder: J9R0fnGUTBY5z4pd
 shortcode: kjrvngjrln

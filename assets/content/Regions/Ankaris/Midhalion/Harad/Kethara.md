@@ -4,6 +4,7 @@ description: "Naval stronghold of the Confederation of Haradian States on the st
 type: affiliation
 name:
   full: Kethara
+  aliases: []
 shortcode: kethara
 subType: polity
 data:

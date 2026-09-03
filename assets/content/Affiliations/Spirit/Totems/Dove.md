@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Dove
+  aliases: []
 id: 7tU9QZR1Fp4H8H3v
 img: images/mystery/dove.webp
 shortcode: dovettm

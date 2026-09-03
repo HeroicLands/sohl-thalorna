@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Calypsa
+  aliases: []
 shortcode: calypsa2
 ---
 

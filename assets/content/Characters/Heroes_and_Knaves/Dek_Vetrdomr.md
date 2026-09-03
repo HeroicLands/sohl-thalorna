@@ -8,6 +8,7 @@ name:
   given: Dek
   clan: Vetrdómr
   home: Hávamál
+  aliases: []
 id: iX6xDDr8qwN2G3pb
 folder: Ka9XqaF27b0I3Gmq
 shortcode: dekvetrdmr

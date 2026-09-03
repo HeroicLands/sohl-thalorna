@@ -9,6 +9,7 @@ name:
   given: Càndrathar
   clan: Āchāryamukhyēśvara
   home: Rājapur
+  aliases: []
 id: XXiPdWrbAZaXkOY9
 folder: JotxZnnXcTECeYW3
 shortcode: cndrthrchrymkhysvr

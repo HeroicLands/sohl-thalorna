@@ -6,6 +6,7 @@ type: lore
 subType: law
 name:
   full: Earner
+  aliases: []
 shortcode: earnerrnk
 description: "Running a business of the body's and paying up from it."
 ---

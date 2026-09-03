@@ -4,6 +4,7 @@ description: "Wealthiest city-state of the Byzarian League at the crossroads of 
 type: affiliation
 name:
   full: Altinkale
+  aliases: []
 shortcode: altinkale
 subType: polity
 data:

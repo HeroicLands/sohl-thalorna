@@ -18,6 +18,7 @@ data:
     archetypes: []
 name:
   full: Summary of Provènzia
+  aliases: []
 shortcode: sumryprvnz
 folder: 9TmLIkGXGHMtFxzy
 ---

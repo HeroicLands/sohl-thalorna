@@ -3,6 +3,7 @@ tags:
   - dreadspawn
 name:
   full: Mirrorling
+  aliases: []
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
 id: u7FShyu98eDuRwVS
 img: icons/game-icons/delapouite/griffin-symbol.svg

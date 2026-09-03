@@ -7,6 +7,7 @@ description: "Caravan Waypoint"
 type: place
 name:
   full: Kethramír
+  aliases: []
 shortcode: kethramir
 subType: settlement
 data:

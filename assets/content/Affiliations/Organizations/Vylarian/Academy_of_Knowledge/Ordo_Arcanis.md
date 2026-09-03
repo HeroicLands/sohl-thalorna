@@ -9,6 +9,7 @@ description: "Arcane monopoly born from conquest, wielding state power to regula
 id: 28md7aEioxeuo3oy
 name:
   full: Ordo Arcanis
+  aliases: []
 alias: The Order
 region: Western Ankaris
 headquarters: Alyssa, Vylarian Empire

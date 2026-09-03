@@ -8,6 +8,7 @@ name:
   given: Ídrisè
   clan: Kórisvar
   home: Elanmere
+  aliases: []
 id: Ell1HtmhWLO71Iv6
 folder: J9R0fnGUTBY5z4pd
 shortcode: idriskrsvr

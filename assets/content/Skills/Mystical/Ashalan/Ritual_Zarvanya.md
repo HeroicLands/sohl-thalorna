@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Ritual: Zárványä"
-  - The Weaver of Visions
 tags:
   - ashalan
   - faith-skill
@@ -11,6 +8,8 @@ id: rJttQjmxnBs2t5TL
 shortcode: zarvanya
 name:
   full: "Ritual: Zárványä"
+  aliases:
+    - The Weaver of Visions
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

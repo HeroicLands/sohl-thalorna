@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: K'ixim Tzul
+  aliases: []
 shortcode: kiximtzul2
 ---
 

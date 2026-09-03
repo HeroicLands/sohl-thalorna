@@ -8,6 +8,7 @@ name:
   given: Júthâra
   clan: Jâmîthôn
   home: Ashíra
+  aliases: []
 id: UqERNMxqW9jiWub4
 folder: pRBSOhf2qVrV1SQB
 shortcode: juthrjmthn

@@ -13,6 +13,7 @@ data:
   population: null
 name:
   full: Tz'ikin
+  aliases: []
 shortcode: tzikin2
 ---
 

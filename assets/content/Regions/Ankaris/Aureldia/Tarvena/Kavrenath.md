@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Kávrenath
+  aliases: []
 shortcode: kavrenath
 folder: DB9rgGreD8FtqoBx
 ---

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - "Pauper's Wind"
-  - Airtap Elixir
 tags:
   - elixir
 name:
   full: "Pauper's Wind"
+  aliases:
+    - Airtap Elixir
 description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
 id: 2iHERbCpZn2DzEUS
 img: icons/potion.svg

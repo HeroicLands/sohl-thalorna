@@ -14,6 +14,7 @@ data:
   population: 12000
 name:
   full: Tibur
+  aliases: []
 shortcode: tibur
 folder: WSdLuPc7BaRqxNEt
 ---

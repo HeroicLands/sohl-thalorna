@@ -4,6 +4,7 @@ description: "Confederation of five trading cities at the crossroads of east and
 type: affiliation
 name:
   full: Byzarian League
+  aliases: []
 shortcode: byzarianlg
 subType: polity
 data:

@@ -9,6 +9,7 @@ name:
   given: Dómeth
   clan: Gráveth
   home: Solárden
+  aliases: []
 id: 4V407t5CS3PWmdoC
 folder: 9t9O4iB5cYJtSaTG
 shortcode: domthgrvth

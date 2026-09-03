@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Visnomy
+  aliases: []
 id: lPKkHezbjh7kymzb
 img: icons/psionics.svg
 shortcode: vsnm

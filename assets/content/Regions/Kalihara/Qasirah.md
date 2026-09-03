@@ -14,6 +14,7 @@ data:
   population: null
 name:
   full: Qasirah
+  aliases: []
 shortcode: qasirah
 folder: ySaln4Q82C7W1p0I
 ---

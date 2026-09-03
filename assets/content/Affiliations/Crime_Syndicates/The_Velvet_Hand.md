@@ -4,6 +4,7 @@ description: "Intelligence syndicate trading in secrets—blackmail, espionage, 
 id: mbOy7le9P4h61Wez
 name:
   full: The Velvet Hand
+  aliases: []
 shortcode: velvethand
 type: affiliation
 subType: criminal

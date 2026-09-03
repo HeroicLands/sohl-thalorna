@@ -1,9 +1,9 @@
 ---
-aliases:
-  - Tarvéni
 tags: []
 name:
   full: Tarvéni Language
+  aliases:
+    - Tarvéni
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
 id: x0vt7K08NQZPeVL0
 img: icons/speaking.svg

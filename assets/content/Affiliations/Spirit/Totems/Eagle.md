@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Eagle
+  aliases: []
 id: T2EpauXH7NkoWDwt
 img: images/mystery/eagle.webp
 shortcode: eaglettm

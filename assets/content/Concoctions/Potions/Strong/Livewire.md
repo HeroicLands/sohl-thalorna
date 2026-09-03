@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Livewire
-  - "Potion, Stimulant, Strong"
 tags:
   - strong-elixir
 name:
   full: Livewire
+  aliases:
+    - Potion, Stimulant, Strong
 description: "Vibrant red-orange liquid; stimulates and energizes immediately."
 id: Za5UXkYeMCRVDxBk
 img: icons/potion.svg

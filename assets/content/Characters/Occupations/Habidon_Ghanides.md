@@ -9,6 +9,7 @@ name:
   given: Habìdon
   clan: Ghânîdês
   home: Athenikos
+  aliases: []
 id: 1nYCsXoblu17rNy8
 folder: gpXd1anXulwRWZqn
 shortcode: habdnghnds

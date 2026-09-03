@@ -8,6 +8,7 @@ name:
   given: Érython
   clan: Ûselîndâs
   home: Nartûm
+  aliases: []
 id: BomCu7u0xgOlNbPW
 folder: UFBfgKZUF0bAE7gG
 shortcode: erythnslnds

@@ -14,6 +14,7 @@ data:
   population: 80000
 name:
   full: Ankh-Setûn
+  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: ankhsetun
 folder: DCVpoMWDdub9pwDR

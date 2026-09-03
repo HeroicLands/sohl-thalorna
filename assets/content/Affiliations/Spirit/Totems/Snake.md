@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Snake
+  aliases: []
 id: An835dfH4ekHyiYC
 img: images/mystery/snake.webp
 shortcode: snakettm

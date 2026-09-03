@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Panepistemium
-  - Academy of Knowledge
-  - Epistemium
 tags:
   - organization
   - scholarly
@@ -16,6 +12,8 @@ name:
   full: Panepistemium
   aliases:
     - The Academy
+    - Academy of Knowledge
+    - Epistemium
 region: Western Ankaris (headquartered in Helionis)
 founded: ~400 BF (Helionite city-states)
 shortcode: panepistmm

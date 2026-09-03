@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Patnefur Setmaâr
-  - Pat'nefur Set'maâr
-  - Patnefur Setmaar
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,6 +9,9 @@ name:
   given: Pat'nefur
   clan: Set'maâr
   home: Wasetkara
+  aliases:
+    - Patnefur Setmaâr
+    - Patnefur Setmaar
 id: RS86KhDXwmkTxamD
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

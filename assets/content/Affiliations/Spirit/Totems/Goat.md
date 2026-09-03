@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Goat
+  aliases: []
 id: lWxRr0XkTqO3qDNa
 img: images/mystery/goat.webp
 shortcode: goatttm

@@ -8,6 +8,7 @@ name:
   given: Hildr
   clan: Steinblót
   home: Haldrvík
+  aliases: []
 id: 2mnu06IiMqWhvNFg
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hldrstnblt

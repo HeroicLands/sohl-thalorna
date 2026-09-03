@@ -4,6 +4,7 @@ type: lore
 subType: history
 name:
   full: Tëitjëk Vëngyürt
+  aliases: []
 shortcode: ttjkvngyrt
 folder: l3wIL8UihJI5nx6L
 ---
