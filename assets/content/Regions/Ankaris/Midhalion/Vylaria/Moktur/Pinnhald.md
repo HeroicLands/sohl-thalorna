@@ -4,21 +4,15 @@ aliases:
 id: Mk6yPx4kVm8Sb3Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 3000
 settlementType: "Timber Town"
-population: 3000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Pinnhald
   aliases: []
 shortcode: pinnhald
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

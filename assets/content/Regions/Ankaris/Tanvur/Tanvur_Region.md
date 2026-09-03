@@ -15,17 +15,13 @@ shortcode: tanvuregin
 img: ""
 type: place
 subType: region
-terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar) — the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
-demonym: Tānvüri
-parent:
-  continents:
+data:
+  demonym: Tānvüri
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - tngvkvnlei
-peoples:
-  - human
-languages:
-  - tanvurlng
+terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar) — the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 folder: jV7c6dJp4Ztnjtb3
 ---
 

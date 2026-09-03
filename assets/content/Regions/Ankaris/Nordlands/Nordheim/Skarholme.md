@@ -4,21 +4,14 @@ aliases:
 id: dqjMFAr8WiEftACv
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Skarholme
   aliases: []
 shortcode: skarholme
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

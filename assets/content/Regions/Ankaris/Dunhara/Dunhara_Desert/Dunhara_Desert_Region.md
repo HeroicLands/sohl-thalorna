@@ -14,18 +14,13 @@ shortcode: dunhardsrtrgn
 img: ""
 type: place
 subType: region
-demonym: Dunharan
-parent:
-  regions:
+data:
+  demonym: Dunharan
+  lore:
+    - humanflk
+  parents:
     - dunharargn
-  continents:
     - ankrscntnnt
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-languages:
-  - dunharlng
 ---
 
 ## Overview

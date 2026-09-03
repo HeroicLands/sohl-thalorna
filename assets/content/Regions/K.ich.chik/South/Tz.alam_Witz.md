@@ -4,19 +4,14 @@ aliases:
 id: 8WCUTA2ntRJRWHRO
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Fortress City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Tz’alam Witz
   aliases: []
 shortcode: tzalamwitz
-parent:
-  polities:
-    - balamtzaku
 folder: 13VGFYcT7sKTGll7
 ---
 

@@ -7,23 +7,15 @@ aliases:
 id: VQ6dTH1kqTQUvI3F
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnsvnhs
+    - xerathia
 settlementType: "Village"
-population: null
-languages:
-  - local-names
-pantheons:
-  - nyalbpnthn
 name:
   full: Ékunda
   aliases: []
 shortcode: ekunda
-parent:
-  polities:
-    - nylbtrblntn
-  continents:
-    - xerathia
-  regions:
-    - sthrnsvnhs
 folder: Ka6y9l5O5XGpNhfI
 ---
 

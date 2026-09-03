@@ -4,19 +4,14 @@ aliases:
 id: 5w6iTAzXPr9vnCPP
 type: place
 subType: settlement
+data:
+  parents:
+    - byzariargn
 settlementType: "Port City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Denizara
   aliases: []
 shortcode: denizara2
-parent:
-  polities:
-    - denizara
 ---
 
 # Denizara

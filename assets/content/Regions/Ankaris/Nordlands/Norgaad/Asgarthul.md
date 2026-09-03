@@ -4,21 +4,14 @@ aliases:
 id: wuwfHIB8d0m5SUnV
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Market Town / Seat of Local Nobility"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Asgarthul
   aliases: []
 shortcode: asgarthul
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 

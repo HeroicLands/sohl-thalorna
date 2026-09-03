@@ -5,21 +5,15 @@ aliases:
 id: 2I43nt8D8FSmXEY4
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 20000
 settlementType: "Provincial City"
-population: 20000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Velysâra
   aliases: []
 shortcode: velysara
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

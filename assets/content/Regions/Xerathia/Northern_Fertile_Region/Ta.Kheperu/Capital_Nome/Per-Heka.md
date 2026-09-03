@@ -4,22 +4,16 @@ aliases:
 id: szUUIRGt86BY1Kjb
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 30000
 settlementType: "Temple-Estate Town"
-population: 30000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Per-Heka
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perheka
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - capitalnom
 folder: 6HgEgHggm50Aphlq
 ---
 

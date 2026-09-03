@@ -14,12 +14,12 @@ id: 4xNp2vBr8KqTmY3L
 shortcode: sthrnsvnhs
 type: place
 subType: region
-terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
-parent:
-  continents:
+data:
+  lore:
+    - humanflk
+  parents:
     - xerathia
-peoples:
-  - human
+terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
 folder: Ka6y9l5O5XGpNhfI
 ---
 

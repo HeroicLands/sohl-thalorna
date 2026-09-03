@@ -4,21 +4,15 @@ aliases:
 id: Al3hGx4mCq9Tb2Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 9000
 settlementType: "Market Town"
-population: 9000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Calvaris
   aliases: []
 shortcode: calvaris
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

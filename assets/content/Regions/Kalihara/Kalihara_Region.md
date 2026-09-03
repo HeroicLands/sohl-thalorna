@@ -13,17 +13,12 @@ shortcode: kaliharargn
 img: ""
 type: place
 subType: region
-demonym: Kaliharan
-parent:
-  continents:
+data:
+  demonym: Kaliharan
+  lore:
+    - humanflk
+  parents:
     - klhrcntnnt
-pantheons:
-  - tharivaan
-peoples:
-  - human
-languages:
-  - kalihrlng
-  - valtarlng
 ---
 
 ## Overview

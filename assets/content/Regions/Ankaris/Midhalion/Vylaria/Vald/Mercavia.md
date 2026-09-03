@@ -4,21 +4,15 @@ aliases:
 id: Vd2mKx7rWp4Tb9Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 50000
 settlementType: "Provincial Capital (Economic Hub)"
-population: 50000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Mercavia
   aliases: []
 shortcode: mercavia
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

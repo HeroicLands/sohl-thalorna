@@ -5,13 +5,13 @@ aliases:
 id: Mp48OQiSLJZ8OVfN
 type: place
 subType: site
+data:
+  parents:
+    - nrdlndsrgn
 name:
   full: Laurelossë
   aliases: []
 shortcode: laurelosse
-parent:
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

@@ -7,13 +7,13 @@ id: GHIXrjvkfpw2yc6e
 description: ""
 type: place
 subType: region
+data:
+  parents:
+    - midhalnrgn
 name:
   full: Vylaría Region
   aliases: []
 shortcode: vylariargn
-parent:
-  regions:
-    - midhalnrgn
 folder: WSdLuPc7BaRqxNEt
 ---
 

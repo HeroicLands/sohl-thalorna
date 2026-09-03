@@ -17,18 +17,16 @@ shortcode: aureldirgn
 img: ""
 type: place
 subType: region
-terran_analog: Medieval Western Europe (Western Christendom)
-demonym: Aurèldían
-parent:
-  continents:
+data:
+  demonym: Aurèldían
+  lore:
+    - humanflk
+    - grukarflk
+    - flksinale
+    - flkkhazar
+  parents:
     - ankrscntnnt
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-  - grukar
-  - sinale
-  - khazari
+terran_analog: Medieval Western Europe (Western Christendom)
 folder: FHG6uCapSKzoG5l2
 ---
 

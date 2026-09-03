@@ -4,21 +4,14 @@ aliases:
 id: xdfasuC4zLc5gWSd
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Religious/Strategic Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Ravensholm
   aliases: []
 shortcode: ravensholm
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

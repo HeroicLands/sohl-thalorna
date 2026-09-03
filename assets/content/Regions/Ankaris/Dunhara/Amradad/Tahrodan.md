@@ -4,22 +4,16 @@ aliases:
 id: gqBpXloRdqQrE3Og
 type: place
 subType: settlement
+data:
+  lore:
+    - humanflk
+  parents:
+    - amradadrgn
 settlementType: "Fortress Town"
 name:
   full: Tahrodan
   aliases: []
 shortcode: tahrodan
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

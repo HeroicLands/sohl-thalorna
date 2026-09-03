@@ -4,21 +4,15 @@ aliases:
 id: Al5rKx2mVp9Tb4Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 32000
 settlementType: "City"
-population: 32000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Lentora
   aliases: []
 shortcode: lentora
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

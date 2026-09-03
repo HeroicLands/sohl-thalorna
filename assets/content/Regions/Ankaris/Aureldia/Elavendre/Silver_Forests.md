@@ -5,13 +5,13 @@ aliases:
 id: X7HiBpa32S79TTrv
 type: place
 subType: region
+data:
+  parents:
+    - alndntrblnds
 name:
   full: The Silver Forests
   aliases: []
 shortcode: silvrfrsts
-parent:
-  regions:
-    - alndntrblnds
 folder: drAoDoNnFEygATeK
 ---
 

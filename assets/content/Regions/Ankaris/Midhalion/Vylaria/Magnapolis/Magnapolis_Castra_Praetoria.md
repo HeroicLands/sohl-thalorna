@@ -11,21 +11,16 @@ tags:
 description: "The Castra Praetoria, fortified barracks of the Praetar Augustarum — the imperial guard — set on the palace hill within Urbs Aquilion; the armed heart from which the throne enforces its grip on its own capital, and the one fortress inside the Inner Wall."
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Imperial Fortress"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 id: Ct9rPx2mKvL4Qb7n
 name:
   full: Castra Praetoria
   aliases:
     - The Castra
 shortcode: castraprtr
-parent:
-  polities:
-    - provinclys
 folder:
 ---
 

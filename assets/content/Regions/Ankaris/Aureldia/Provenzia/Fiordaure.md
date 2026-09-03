@@ -5,19 +5,14 @@ aliases:
 id: lxDnKhmbJQmfcnlU
 type: place
 subType: settlement
+data:
+  parents:
+    - provenzrgn
 settlementType: "Coastal Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
 name:
   full: Fiòrdaure
   aliases: []
 shortcode: fiordaure
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

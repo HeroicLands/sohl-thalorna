@@ -4,21 +4,14 @@ aliases:
 id: TsDj0UNe3SEKVrTw
 type: place
 settlementType: "Port Town"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Kostaros
   aliases: []
 shortcode: kostaros
 subType: settlement
-parent:
-  regions:
+data:
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
 folder: pAXnwYJhDDSvkrPt
 ---
 

@@ -4,19 +4,14 @@ aliases:
 id: O2nIsw1YeLjYDhBp
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "Coastal Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Port Aelion
   aliases: []
 shortcode: portaelion
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

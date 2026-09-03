@@ -4,22 +4,16 @@ aliases:
 id: yKyHOnW4vqQivkJZ
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 450000
 settlementType: "Imperial City (Capital)"
-population: 450000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Wasetkara
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: wasetkara
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - capitalnom
 folder: 6HgEgHggm50Aphlq
 ---
 

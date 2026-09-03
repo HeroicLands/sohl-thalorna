@@ -4,21 +4,15 @@ aliases:
 id: Vd9rKx2mWp7Tb4Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 20000
 settlementType: "Naval City (Military Hub)"
-population: 20000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Castamar
   aliases: []
 shortcode: castamar
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

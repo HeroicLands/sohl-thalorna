@@ -14,18 +14,13 @@ shortcode: okharisrgn
 img: ""
 type: place
 subType: region
-demonym: Okháric
-parent:
-  regions:
+data:
+  demonym: Okháric
+  lore:
+    - humanflk
+  parents:
     - nrthrnfrtlrgn
-  continents:
     - xerathia
-pantheons:
-  - nkaruthar
-peoples:
-  - human
-languages:
-  - okharclng
 ---
 
 ## Overview

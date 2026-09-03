@@ -4,21 +4,14 @@ aliases:
 id: ACcZGc0wIJI483Nl
 type: place
 settlementType: "Port City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Chrysamar
   aliases: []
 shortcode: chrysamar
 subType: settlement
-parent:
-  regions:
+data:
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
 folder: pAXnwYJhDDSvkrPt
 ---
 

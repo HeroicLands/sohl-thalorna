@@ -6,17 +6,14 @@ tags:
   - draft
 type: place
 subType: settlement
+data:
+  parents:
+    - okharisrgn
 settlementType: ""
-population: null
-languages: []
-pantheons: []
 name:
   full: Okharis Tribes Placeholder
   aliases: []
 shortcode: okhrstrbsplchldr
-parent:
-  polities:
-    - okharis
 folder: E73gOKMU6M707svD
 ---
 

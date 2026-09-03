@@ -5,19 +5,14 @@ aliases:
 id: ZwiemPCXqySQ19Tm
 type: place
 subType: settlement
+data:
+  parents:
+    - provenzrgn
 settlementType: "Fortified Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
 name:
   full: Chastèlclair
   aliases: []
 shortcode: chastelclr
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

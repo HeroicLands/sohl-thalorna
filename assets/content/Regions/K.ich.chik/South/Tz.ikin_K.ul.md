@@ -4,19 +4,14 @@ aliases:
 id: YxOv20w4CsGfROM5
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Fortress City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Tz’ikin K’ul
   aliases: []
 shortcode: tzikinkul
-parent:
-  polities:
-    - kawiltzakl
 folder: 13VGFYcT7sKTGll7
 ---
 

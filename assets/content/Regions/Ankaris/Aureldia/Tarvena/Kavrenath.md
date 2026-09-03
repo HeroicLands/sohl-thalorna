@@ -4,19 +4,14 @@ aliases:
 id: rpSFTksRLO0nmlv9
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Frontier Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Kávrenath
   aliases: []
 shortcode: kavrenath
-parent:
-  polities:
-    - kngdmstrth
 folder: DB9rgGreD8FtqoBx
 ---
 

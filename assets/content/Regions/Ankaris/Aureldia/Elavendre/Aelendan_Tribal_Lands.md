@@ -16,17 +16,14 @@ shortcode: alndntrblnds
 img: ""
 type: place
 subType: region
-terran_analog: "Switzerland and the high-Alpine country of eastern France — the highland interior of Élavendre, including the Áelendan-sacred ranges that face Vylaria across the Cervaron Spine."
-demonym: Áelendan
-parent:
-  regions:
+data:
+  demonym: Áelendan
+  lore:
+    - humanflk
+  parents:
     - aureldirgn
-  continents:
     - ankrscntnnt
-pantheons:
-  - firstgods
-peoples:
-  - human
+terran_analog: "Switzerland and the high-Alpine country of eastern France — the highland interior of Élavendre, including the Áelendan-sacred ranges that face Vylaria across the Cervaron Spine."
 folder: drAoDoNnFEygATeK
 ---
 

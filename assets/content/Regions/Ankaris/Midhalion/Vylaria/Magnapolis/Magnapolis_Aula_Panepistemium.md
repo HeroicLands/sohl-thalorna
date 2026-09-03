@@ -12,12 +12,10 @@ tags:
 description: "The Aula Panepistemium, the ceremonial inner seat of the Panepistemium within Urbs Aquilion — no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Bibliotheca Reservata, the warded library of the rarest and most dangerous knowledge in the Empire."
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "University Hall"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 id: Au5pNx7kEm2Rb9Lt
 name:
   full: Aula Panepistemium
@@ -25,9 +23,6 @@ name:
     - The Aula
     - Court of the Academy
 shortcode: aulpnpstmm
-parent:
-  polities:
-    - provinclys
 folder:
 ---
 

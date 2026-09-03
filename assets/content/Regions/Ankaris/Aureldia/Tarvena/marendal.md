@@ -4,19 +4,14 @@ aliases:
 id: NgdpgK19TbXSBuwE
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Harbor Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Maréndal
   aliases: []
 shortcode: marendal
-parent:
-  polities:
-    - kngdmglvrn
 ---
 
 # Maréndal

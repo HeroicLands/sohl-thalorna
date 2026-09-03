@@ -4,21 +4,15 @@ aliases:
 id: MJVnfnwAYz0bbQAS
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 2000
 settlementType: "Temple Town"
-population: 2000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Sanctara
   aliases: []
 shortcode: sanctara
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

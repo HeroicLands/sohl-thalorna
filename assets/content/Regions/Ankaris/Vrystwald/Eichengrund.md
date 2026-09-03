@@ -4,19 +4,14 @@ aliases:
 id: IdfMspBEVKOe4Jje
 type: place
 subType: settlement
+data:
+  parents:
+    - vrystwald
 settlementType: "Woodland Village"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
 name:
   full: Eichengrund
   aliases: []
 shortcode: eichengrnd
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

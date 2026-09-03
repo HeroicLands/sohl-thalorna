@@ -84,7 +84,8 @@ data:
   commonSkills:
     - byzarnlng
   seat: denizara2
-  domains: []
+  domains:
+    - byzariargn
   population: 1800000
   peoples:
     - humanflk

@@ -4,21 +4,14 @@ aliases:
 id: jhd8AiAzVvvLpI9j
 type: place
 subType: settlement
+data:
+  parents:
+    - aldorathrgn
 settlementType: "Town"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
 name:
   full: Kingshollow
   aliases: []
 shortcode: kingsholow
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

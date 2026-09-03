@@ -4,20 +4,14 @@ aliases:
 id: i93FosZcD5HdN48U
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "City"
 name:
   full: Dhanurkota
   aliases: []
 shortcode: dhanurkota
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - dhnrktjnpd
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

@@ -5,18 +5,15 @@ id: pZqyrLQSfBupge0U
 tags: []
 type: place
 subType: settlement
+data:
+  parents:
+    - okharisrgn
 settlementType: "Garrison Town"
-population: null
-pantheons:
-  - nkaruthar
 name:
   full: Vuthrákor
   aliases:
     - The Wild Flame
 shortcode: vuthrakor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

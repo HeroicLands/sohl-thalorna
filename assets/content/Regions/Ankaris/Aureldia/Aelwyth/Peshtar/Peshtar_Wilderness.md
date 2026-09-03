@@ -14,15 +14,14 @@ shortcode: pshtrwldrns
 img: ""
 type: place
 subType: region
-parent:
-  continents:
-    - ankrscntnnt
-  regions:
+data:
+  demonym: Peshtar
+  lore:
+    - humanflk
+  parents:
     - aelwyth
+    - ankrscntnnt
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
-demonym: Peshtar
-peoples:
-  - human
 folder: ZbE1NQo3ApZ26xon
 ---
 

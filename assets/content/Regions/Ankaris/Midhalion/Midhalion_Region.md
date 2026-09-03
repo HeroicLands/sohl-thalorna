@@ -15,20 +15,16 @@ shortcode: midhalnrgn
 img: ""
 type: place
 subType: region
-terran_analog: "The Mediterranean basin — a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
-parent:
-  continents:
+data:
+  lore:
+    - humanflk
+    - grukarflk
+    - flksinale
+    - flkkhazar
+  parents:
     - ankrscntnnt
     - xerathia
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
-  - kemtnpnthn
-peoples:
-  - human
-  - grukar
-  - sinale
-  - khazari
+terran_analog: "The Mediterranean basin — a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
 folder: RiHN4YkIZjYsHW4W
 ---
 

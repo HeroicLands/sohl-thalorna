@@ -4,21 +4,14 @@ aliases:
 id: rQvNmHX5CBBhFmkH
 type: place
 subType: settlement
+data:
+  parents:
+    - amradadrgn
 settlementType: "Town"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
 name:
   full: Mihrabad
   aliases: []
 shortcode: mihrabad
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

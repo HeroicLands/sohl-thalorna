@@ -4,19 +4,14 @@ aliases:
 id: YNPzMDFOQqc5veZB
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Xik'ul Ch'akal
   aliases: []
 shortcode: xikulchakl2
-parent:
-  polities:
-    - xikulchakl
 ---
 
 # Xik'ul Ch'akal

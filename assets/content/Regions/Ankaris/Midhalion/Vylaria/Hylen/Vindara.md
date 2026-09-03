@@ -4,21 +4,15 @@ aliases:
 id: Hy7vNx3kEm2Rb8Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 6000
 settlementType: "Town"
-population: 6000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Vindara
   aliases: []
 shortcode: vindara
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

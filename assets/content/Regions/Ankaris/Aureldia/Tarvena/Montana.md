@@ -5,19 +5,14 @@ aliases:
 id: elbApD1i9cSa1Wyh
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Walled City"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Montaña
   aliases: []
 shortcode: montana
-parent:
-  polities:
-    - kingdmlnrk
 folder: DB9rgGreD8FtqoBx
 ---
 

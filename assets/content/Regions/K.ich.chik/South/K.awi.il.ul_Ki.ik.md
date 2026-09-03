@@ -4,19 +4,14 @@ aliases:
 id: LzFK4SEzMloriHpl
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Garrison Town"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: K’awi’il’ul Ki’ik
   aliases: []
 shortcode: kawilulkik
-parent:
-  polities:
-    - kuxibalam
 folder: 13VGFYcT7sKTGll7
 ---
 

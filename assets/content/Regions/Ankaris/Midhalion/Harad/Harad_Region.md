@@ -12,12 +12,11 @@ shortcode: haradregin
 img: ""
 type: place
 subType: region
-terran_analog: ""
-parent:
-  regions:
+data:
+  parents:
     - midhalnrgn
-  continents:
     - ankrscntnnt
+terran_analog: ""
 folder: umL4KFGO3MD4u9X1
 ---
 

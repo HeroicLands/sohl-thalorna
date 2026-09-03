@@ -4,22 +4,16 @@ aliases:
 id: qqUbZEiqy6oeywb6
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 40000
 settlementType: "Necropolis City"
-population: 40000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Ta-Djeser
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tadjeser
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - capitalnom
 folder: 6HgEgHggm50Aphlq
 ---
 

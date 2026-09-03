@@ -5,20 +5,14 @@ aliases:
 id: 5mm5ufJ2syvYaFP8
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "Coastal Village"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
 name:
   full: Sulûn
   aliases: []
 shortcode: sulun
-parent:
-  polities:
-    - tamavar
 folder: umL4KFGO3MD4u9X1
 ---
 

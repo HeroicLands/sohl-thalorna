@@ -4,19 +4,14 @@ aliases:
 id: u06VCq3gWTSKlQJZ
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "Temple City"
-population: null
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 name:
   full: Chandrapur
   aliases: []
 shortcode: chandrapur2
-parent:
-  polities:
-    - chandrapur
 ---
 
 # Chandrapur

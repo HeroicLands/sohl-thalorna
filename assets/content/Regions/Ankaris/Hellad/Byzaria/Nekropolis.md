@@ -5,13 +5,13 @@ aliases:
 id: oVedEJI68W2dAXzt
 type: place
 subType: region
+data:
+  parents:
+    - helionis
 name:
   full: Nékropolis
   aliases: []
 shortcode: nekropolis
-parent:
-  regions:
-    - helionis
 folder: pAXnwYJhDDSvkrPt
 ---
 

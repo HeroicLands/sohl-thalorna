@@ -7,16 +7,16 @@ aliases:
 id: Aj5Li2wQQbLyEMm2
 type: place
 subType: region
+data:
+  parents:
+    - vedyarargn
+    - khzryndsrtrgn
 name:
   full: The Grazian Mountains
   aliases:
     - The Grazians
     - The Grazian Wall
 shortcode: graznmntns
-parent:
-  regions:
-    - vedyarargn
-    - khzryndsrtrgn
 terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex — the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara; the northern arc curves up into the Pamir/Tian-Shan-analog ranges that hem in the southwestern corner of the Khazryn."
 folder: q61mqomRaSzUNfrY
 ---

@@ -4,19 +4,14 @@ aliases:
 id: USGSRbE2bkZDbV2o
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Free City"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Valthari
   aliases: []
 shortcode: valthari
-parent:
-  polities:
-    - frctyvlthr
 ---
 
 # Valthari

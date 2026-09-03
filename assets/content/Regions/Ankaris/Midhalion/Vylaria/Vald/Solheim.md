@@ -4,21 +4,15 @@ aliases:
 id: utl4pebzzsi9nAI4
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 3000
 settlementType: "Pilgrimage Town"
-population: 3000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Solheim
   aliases: []
 shortcode: solheim
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

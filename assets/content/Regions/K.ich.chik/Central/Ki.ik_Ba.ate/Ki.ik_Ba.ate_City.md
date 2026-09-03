@@ -4,19 +4,14 @@ aliases:
 id: 3E05WzjjmWWWlHf4
 type: place
 subType: settlement
+data:
+  parents:
+    - cntrlkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ki'ik Ba'ate
   aliases: []
 shortcode: kiikbaate2
-parent:
-  polities:
-    - kiikbaate
 ---
 
 # Ki'ik Ba'ate

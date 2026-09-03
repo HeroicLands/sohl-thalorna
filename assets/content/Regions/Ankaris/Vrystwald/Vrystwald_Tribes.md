@@ -82,7 +82,8 @@ data:
   commonSkills:
     - varokhlng
   seat: waldburg
-  domains: []
+  domains:
+    - vrystwald
   population: 1000000
   peoples:
     - humanflk

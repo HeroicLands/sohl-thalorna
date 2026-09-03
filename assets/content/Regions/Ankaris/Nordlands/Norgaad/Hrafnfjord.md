@@ -4,21 +4,14 @@ aliases:
 id: xeSkAGJdEwb4NNx6
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Remote Fjord Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Hrafnfjord
   aliases: []
 shortcode: hrafnfjord
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 

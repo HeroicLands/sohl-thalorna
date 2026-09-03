@@ -4,19 +4,14 @@ aliases:
 id: nslauvnDvb7PsYKm
 type: place
 subType: settlement
+data:
+  parents:
+    - vrystwald
 settlementType: "Fortified Village"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
 name:
   full: Grimholt
   aliases: []
 shortcode: grimholt
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

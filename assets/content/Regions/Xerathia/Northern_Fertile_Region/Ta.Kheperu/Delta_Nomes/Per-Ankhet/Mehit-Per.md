@@ -4,22 +4,16 @@ aliases:
 id: npslWzZvPEG6O2PA
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 14000
 settlementType: "Fishing & Victualling Town"
-population: 14000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Mehit-Per
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: mehitper
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomeprnkht
 folder: hY8ShSjfUm9QnlGu
 ---
 

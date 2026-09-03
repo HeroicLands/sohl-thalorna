@@ -6,17 +6,16 @@ id: tCB67AMwzuba3Faw
 description: "Great island off Élavendre's western coast — deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."
 type: place
 subType: region
+data:
+  parents:
+    - aureldirgn
+    - ankrscntnnt
 name:
   full: Aelwyth
   aliases:
     - The Misty Isle
 shortcode: aelwyth
 terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V (∧). The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the Scottish-and-English-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
-parent:
-  regions:
-    - aureldirgn
-  continents:
-    - ankrscntnnt
 folder: ZbE1NQo3ApZ26xon
 ---
 

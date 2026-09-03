@@ -4,19 +4,14 @@ aliases:
 id: oq4gDoiYMztl68Ri
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Port City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Tz’alam Ha’
   aliases: []
 shortcode: tzalamha
-parent:
-  polities:
-    - balamtzaku
 folder: 13VGFYcT7sKTGll7
 ---
 

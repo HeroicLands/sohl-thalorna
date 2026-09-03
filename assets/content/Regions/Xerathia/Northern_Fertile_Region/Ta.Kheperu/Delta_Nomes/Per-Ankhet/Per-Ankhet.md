@@ -4,22 +4,16 @@ aliases:
 id: MmnxJgu8HPv4ZFm2
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 120000
 settlementType: "City (Port)"
-population: 120000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Per-Ankhet
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perankhet
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomeprnkht
 folder: hY8ShSjfUm9QnlGu
 ---
 

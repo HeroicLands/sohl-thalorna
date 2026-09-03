@@ -5,19 +5,14 @@ aliases:
 id: kaluSm7j0sPfWR9d
 type: place
 subType: settlement
+data:
+  parents:
+    - provenzrgn
 settlementType: "City"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
 name:
   full: Lunacòrte
   aliases: []
 shortcode: lunacorte
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

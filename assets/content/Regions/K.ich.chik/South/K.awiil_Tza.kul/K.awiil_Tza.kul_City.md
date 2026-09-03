@@ -4,19 +4,14 @@ aliases:
 id: qHD2DJ9d3jceHp2C
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: K'awiil Tza'kul
   aliases: []
 shortcode: kawiltzakl2
-parent:
-  polities:
-    - kawiltzakl
 ---
 
 # K'awiil Tza'kul

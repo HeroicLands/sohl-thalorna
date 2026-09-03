@@ -4,19 +4,14 @@ aliases:
 id: KSV987J7Ylm8L6ws
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ch'akul Tza'kul
   aliases: []
 shortcode: chakultzkl2
-parent:
-  polities:
-    - chakultzkl
 ---
 
 # Ch'akul Tza'kul

@@ -4,21 +4,14 @@ aliases:
 id: HpB2fXNRSm9qSW6y
 type: place
 settlementType: "Craft City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Byzaris
   aliases: []
 shortcode: byzaris
 subType: settlement
-parent:
-  regions:
+data:
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
 folder: pAXnwYJhDDSvkrPt
 ---
 

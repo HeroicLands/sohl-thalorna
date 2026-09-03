@@ -4,20 +4,14 @@ aliases:
 id: pHT2BUJrOrXaugNc
 type: place
 subType: settlement
+data:
+  parents:
+    - aureldirgn
 settlementType: "Harbor City"
-population: null
-languages:
-  - nordmalng
-  - valtarlng
-pantheons:
-  - arldnpnthn
 name:
   full: Calypsa
   aliases: []
 shortcode: calypsa2
-parent:
-  polities:
-    - calypsa
 ---
 
 # Calypsa

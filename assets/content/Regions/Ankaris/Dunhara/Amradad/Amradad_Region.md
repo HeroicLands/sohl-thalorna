@@ -14,18 +14,13 @@ shortcode: amradadrgn
 img: ""
 type: place
 subType: region
-demonym: Amradi
-parent:
-  regions:
+data:
+  demonym: Amradi
+  lore:
+    - humanflk
+  parents:
     - dunharargn
-  continents:
     - ankrscntnnt
-pantheons:
-  - ashanpnthn
-peoples:
-  - human
-languages:
-  - dunharlng
 ---
 
 ## Overview

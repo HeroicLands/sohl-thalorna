@@ -5,21 +5,14 @@ aliases:
 id: 6pXLtYkfQc7JDzuS
 type: place
 settlementType: "Harbor Town"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Thálassos
   aliases: []
 shortcode: thalassos
 subType: settlement
-parent:
-  regions:
+data:
+  parents:
     - byzariargn
-  polities:
-    - byzarianlg
 folder: pAXnwYJhDDSvkrPt
 ---
 

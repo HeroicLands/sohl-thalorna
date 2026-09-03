@@ -11,14 +11,14 @@ description: >-
   forests where the Sinalë keep their enclaves.
 type: place
 subType: region
+data:
+  parents:
+    - aelwyth
 name:
   full: Aldorath Region
   aliases:
     - Aldorath
 shortcode: aldorathrgn
-parent:
-  regions:
-    - aelwyth
 ---
 
 # Aldorath Region

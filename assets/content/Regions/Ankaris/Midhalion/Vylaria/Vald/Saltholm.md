@@ -4,21 +4,15 @@ aliases:
 id: Vd7hGx4mSm9Tb3Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 6000
 settlementType: "Fishing Town"
-population: 6000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Saltholm
   aliases: []
 shortcode: saltholm
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

@@ -4,16 +4,15 @@ aliases:
 tags: []
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "City"
-population: null
 id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel
   aliases: []
 shortcode: beravel
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

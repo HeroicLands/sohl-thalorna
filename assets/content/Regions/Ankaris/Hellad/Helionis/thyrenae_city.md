@@ -4,19 +4,14 @@ aliases:
 id: N2RXl0qu1TbhTref
 type: place
 subType: settlement
+data:
+  parents:
+    - heladrgn
 settlementType: "City-State"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
 name:
   full: Thyrenae
   aliases: []
 shortcode: thyrenae2
-parent:
-  polities:
-    - thyrenae
 ---
 
 # Thyrenae

@@ -4,21 +4,15 @@ aliases:
 id: Hy2rKx7mGp4Tb9Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 7000
 settlementType: "Market Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Granaria
   aliases: []
 shortcode: granaria
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

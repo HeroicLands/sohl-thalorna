@@ -4,21 +4,15 @@ aliases:
 id: Mk8aRx2vKp7Tb4Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 7000
 settlementType: "Mining Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Ferrovan
   aliases: []
 shortcode: ferrovan
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

@@ -5,18 +5,14 @@ aliases:
 id: yJkyMAYiTk0t5vvt
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "City"
 name:
   full: Rājapur
   aliases: []
 shortcode: rajapur
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - rajaprjnpd
-languages:
-  - vedyarlng
 pantheon:
   - varakpnthn
 folder: q61mqomRaSzUNfrY

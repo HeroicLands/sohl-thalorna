@@ -4,21 +4,15 @@ aliases:
 id: tcjuUdxJxxs60dLX
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 45000
 settlementType: "Provincial Capital"
-population: 45000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Alyssar
   aliases: []
 shortcode: alyssar
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

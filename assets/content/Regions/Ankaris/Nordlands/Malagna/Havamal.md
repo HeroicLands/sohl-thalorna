@@ -5,21 +5,14 @@ aliases:
 id: rej65SfOdHxrfzld
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Hávamál
   aliases: []
 shortcode: havamal
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

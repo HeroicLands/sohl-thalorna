@@ -4,21 +4,15 @@ aliases:
 id: Vd5vNx3kBp8Rb2Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 9000
 settlementType: "Fishing Town"
-population: 9000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Brennvik
   aliases: []
 shortcode: brennvik
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

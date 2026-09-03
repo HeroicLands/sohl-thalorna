@@ -4,19 +4,14 @@ aliases:
 id: rvpZLPq6bDeSMrLX
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "Lakeside Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Elanmere
   aliases: []
 shortcode: elanmere
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

@@ -5,20 +5,14 @@ aliases:
 id: WBqnuiArBf5PZWiO
 type: place
 subType: settlement
+data:
+  parents:
+    - kaliharargn
 settlementType: "Island Town"
-population: null
-languages:
-  - valtarlng
-  - kalihrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Telvári
   aliases: []
 shortcode: telvari
-parent:
-  polities:
-    - kalihara
 folder: ySaln4Q82C7W1p0I
 ---
 

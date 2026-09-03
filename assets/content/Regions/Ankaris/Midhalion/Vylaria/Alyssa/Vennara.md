@@ -4,21 +4,15 @@ aliases:
 id: Al9aRx2vVm4Tb7Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 6000
 settlementType: "Town"
-population: 6000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Vennara
   aliases: []
 shortcode: vennara
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

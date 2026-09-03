@@ -13,10 +13,10 @@ shortcode: byzariargn
 img: ""
 type: place
 subType: region
-terran_analog: Classical Anatolia (philosophical city-states and crossroads)
-parent:
-  regions:
+data:
+  parents:
     - heladrgn
+terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 folder: pAXnwYJhDDSvkrPt
 ---
 

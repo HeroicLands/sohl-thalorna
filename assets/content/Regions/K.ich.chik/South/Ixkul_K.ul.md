@@ -4,19 +4,14 @@ aliases:
 id: AOgoVrsaeRLgPydh
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Temple City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ixkul K’ul
   aliases: []
 shortcode: ixkulkul
-parent:
-  polities:
-    - kuxibalam
 folder: 13VGFYcT7sKTGll7
 ---
 

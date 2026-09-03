@@ -14,17 +14,13 @@ shortcode: vedyarargn
 img: ""
 type: place
 subType: region
-terran_analog: India (subcontinent of independent states)
-demonym: Vedyaran
-parent:
-  continents:
+data:
+  demonym: Vedyaran
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - varakpnthn
-peoples:
-  - human
-languages:
-  - vedyarlng
+terran_analog: India (subcontinent of independent states)
 folder: q61mqomRaSzUNfrY
 ---
 

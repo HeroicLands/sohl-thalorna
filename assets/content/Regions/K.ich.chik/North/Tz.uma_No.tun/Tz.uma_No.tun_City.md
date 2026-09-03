@@ -4,19 +4,14 @@ aliases:
 id: JVMEXCHmxTAMu49N
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Tz'uma No'tun
   aliases: []
 shortcode: tzumanotun2
-parent:
-  polities:
-    - tzumanotun
 ---
 
 # Tz'uma No'tun

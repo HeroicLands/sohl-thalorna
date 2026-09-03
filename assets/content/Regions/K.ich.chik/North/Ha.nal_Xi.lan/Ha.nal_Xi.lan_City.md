@@ -4,19 +4,14 @@ aliases:
 id: ZvysDgAlz9mgapDo
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ha'nal Xi'lan
   aliases: []
 shortcode: hanalxilan2
-parent:
-  polities:
-    - hanalxilan
 ---
 
 # Ha'nal Xi'lan

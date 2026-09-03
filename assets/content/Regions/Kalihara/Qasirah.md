@@ -4,20 +4,14 @@ aliases:
 id: 4QzVGEQ6lbgWqm5t
 type: place
 subType: settlement
+data:
+  parents:
+    - kaliharargn
 settlementType: "Port Settlement"
-population: null
-languages:
-  - valtarlng
-  - kalihrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Qasirah
   aliases: []
 shortcode: qasirah
-parent:
-  polities:
-    - kalihara
 folder: ySaln4Q82C7W1p0I
 ---
 

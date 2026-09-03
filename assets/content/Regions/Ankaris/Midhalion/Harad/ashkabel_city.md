@@ -4,19 +4,14 @@ aliases:
 id: Tjq1opR4z8iu24jP
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "City-State"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
 name:
   full: Ashkabel
   aliases: []
 shortcode: ashkabel2
-parent:
-  polities:
-    - ashkabel
 ---
 
 # Ashkabel

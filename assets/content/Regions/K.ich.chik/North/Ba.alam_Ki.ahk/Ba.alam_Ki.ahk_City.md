@@ -4,19 +4,14 @@ aliases:
 id: PVzHCv6vrYI2AmrU
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ba'alam Ki'ahk
   aliases: []
 shortcode: balamkiahk2
-parent:
-  polities:
-    - balamkiahk
 ---
 
 # Ba'alam Ki'ahk

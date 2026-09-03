@@ -5,21 +5,14 @@ aliases:
 id: iEFZaB0kHPIfjSfz
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Coastal Village"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Brúnvík
   aliases: []
 shortcode: brunvik
-parent:
-  polities:
-    - kingdomlgn
-  regions:
-    - nrdlndsrgn
 folder: 3JdV0mOrMUISPmRz
 ---
 

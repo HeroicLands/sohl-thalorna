@@ -9,15 +9,9 @@ name:
   aliases: []
 shortcode: ashkarad
 subType: settlement
-parent:
-  regions:
+data:
+  parents:
     - khzryndsrtrgn
-  polities:
-    - khzrncnfdrtn
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
 folder: PbQ9B1r6hEaJvyco
 ---
 

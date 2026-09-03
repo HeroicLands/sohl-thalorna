@@ -4,21 +4,15 @@ aliases:
 id: Vd3yPx6kKm2Sb8Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 7000
 settlementType: "Fishing Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Korsvik
   aliases: []
 shortcode: korsvik
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

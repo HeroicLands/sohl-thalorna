@@ -5,19 +5,14 @@ aliases:
 id: 76CpaejmRGneqpDj
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Port Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Valdés
   aliases: []
 shortcode: valdes
-parent:
-  polities:
-    - kngdmglvrn
 folder: DB9rgGreD8FtqoBx
 ---
 

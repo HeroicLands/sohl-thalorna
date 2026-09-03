@@ -4,22 +4,16 @@ aliases:
 id: BFVfBRUFybESEcFb
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 90000
 settlementType: "Temple City (Necropolis)"
-population: 90000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Khensuret
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: khensuret
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomekhnsrt
 folder: bq0QGXXvq8fNpewL
 ---
 

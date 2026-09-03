@@ -4,21 +4,15 @@ aliases:
 id: Hy5pGx4wUm9Sb3Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 2500
 settlementType: "Forest Town"
-population: 2500
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Cervalia
   aliases: []
 shortcode: cervalia
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

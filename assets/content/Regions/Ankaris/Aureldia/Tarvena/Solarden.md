@@ -5,19 +5,14 @@ aliases:
 id: OXCppoDSENMyNm24
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Fortified Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Solárden
   aliases: []
 shortcode: solarden
-parent:
-  polities:
-    - kngdmglvrn
 folder: DB9rgGreD8FtqoBx
 ---
 

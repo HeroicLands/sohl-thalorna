@@ -5,19 +5,14 @@ aliases:
 id: x8lAC1ETUs0sqHpi
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "Inland Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Valdûn
   aliases: []
 shortcode: valdun
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

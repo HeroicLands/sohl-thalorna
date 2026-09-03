@@ -4,19 +4,14 @@ aliases:
 id: BSpoe64cjdqnAb45
 type: place
 subType: settlement
+data:
+  parents:
+    - byzariargn
 settlementType: "Mining City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Karataş
   aliases: []
 shortcode: karatas2
-parent:
-  polities:
-    - karatas
 ---
 
 # Karataş

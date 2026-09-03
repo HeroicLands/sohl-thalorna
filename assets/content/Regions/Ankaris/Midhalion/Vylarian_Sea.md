@@ -13,13 +13,12 @@ shortcode: vylarianse
 img: ""
 type: place
 subType: region
-terran_analog: The Mediterranean Sea
-parent:
-  continents:
+data:
+  parents:
+    - midhalnrgn
     - ankrscntnnt
     - xerathia
-  regions:
-    - midhalnrgn
+terran_analog: The Mediterranean Sea
 folder: RiHN4YkIZjYsHW4W
 ---
 

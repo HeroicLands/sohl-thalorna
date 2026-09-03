@@ -11,21 +11,16 @@ tags:
 description: "The Palatium Magnum, the Grand Palace of Magnápolis — the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Mons Aquila, and the stage on which the Ordo Arcanis is permitted to show off."
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Palace District"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 id: Pl8mAx3vQrK9Tb2d
 name:
   full: Palatium Magnum
   aliases:
     - The Grand Palace
 shortcode: palatimgnm
-parent:
-  polities:
-    - provinclys
 folder:
 ---
 

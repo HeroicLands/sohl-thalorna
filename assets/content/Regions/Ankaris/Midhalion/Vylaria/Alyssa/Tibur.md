@@ -4,21 +4,15 @@ aliases:
 id: Al7vNx3kEp2Rb8Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 12000
 settlementType: "Market Town"
-population: 12000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Tibur
   aliases: []
 shortcode: tibur
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

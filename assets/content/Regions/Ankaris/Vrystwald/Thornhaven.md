@@ -4,19 +4,14 @@ aliases:
 id: yWYG8HA84JUmJ0Xv
 type: place
 subType: settlement
+data:
+  parents:
+    - vrystwald
 settlementType: "Settlement"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
 name:
   full: Thornhaven
   aliases: []
 shortcode: thornhaven
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

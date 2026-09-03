@@ -7,15 +7,15 @@ aliases:
 id: Vb3c2kCmZT3k4wIa
 type: place
 subType: region
+data:
+  parents:
+    - alndntrblnds
 name:
   full: The Drenavar Spine
   aliases:
     - The Drenavar
     - Drenavar Mountains
 shortcode: drenavrspn
-parent:
-  regions:
-    - alndntrblnds
 terran_analog: "The Swiss Alps and adjacent French Alpine massifs — the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
 folder: drAoDoNnFEygATeK
 ---

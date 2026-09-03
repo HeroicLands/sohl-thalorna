@@ -5,19 +5,14 @@ aliases:
 id: aYb1o7HjieqorZW7
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Capital City"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Magnápolis
   aliases: []
 shortcode: magnapolis
-parent:
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

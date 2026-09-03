@@ -14,12 +14,12 @@ id: 7kQmNf4Yr2xL8pB3
 shortcode: nrthrnfrtlrgn
 type: place
 subType: region
-terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
-parent:
-  continents:
+data:
+  lore:
+    - humanflk
+  parents:
     - xerathia
-peoples:
-  - human
+terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 folder: CoHsV0UM8KUX7ytU
 ---
 

@@ -5,21 +5,14 @@ aliases:
 id: htPFubBTLySO6pYs
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Mountain Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Stálbrekka
   aliases: []
 shortcode: stalbrekka
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 

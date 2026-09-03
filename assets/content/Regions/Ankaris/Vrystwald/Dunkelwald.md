@@ -4,19 +4,14 @@ aliases:
 id: BvtBiuBimYBhWyf6
 type: place
 subType: settlement
+data:
+  parents:
+    - vrystwald
 settlementType: "Deep Forest Settlement"
-population: null
-languages:
-  - varokhlng
-pantheons:
-  - asguardian
 name:
   full: Dunkelwald
   aliases: []
 shortcode: dunkelwald
-parent:
-  polities:
-    - vrystwldtrbs
 folder: mCG1TPvjwrV23csZ
 ---
 

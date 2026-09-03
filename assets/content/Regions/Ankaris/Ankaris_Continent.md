@@ -7,25 +7,19 @@ tags:
   - ankaris
 type: place
 subType: region
+data:
+  demonym: Ankarian
+  lore:
+    - humanflk
+    - grukarflk
+    - flksinale
+    - flkkhazar
 id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent
   aliases: []
 shortcode: ankrscntnnt
 description: The largest continent of Thalorna — home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
-demonym: Ankarian
-peoples:
-  - human
-  - grukar
-  - goblin
-  - sinale
-  - khazari
-pantheons:
-  - arldnpnthn
-  - asguardian
-  - ashanpnthn
-  - varakpnthn
-  - firstgods
 terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
 world: worldthlrn
 folder: ItBuDdxR2fBHx2Jw

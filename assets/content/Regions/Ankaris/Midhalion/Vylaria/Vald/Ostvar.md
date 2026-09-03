@@ -4,21 +4,15 @@ aliases:
 id: Vd4hNx7vEq9Rb2Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 8000
 settlementType: "Fishing Town"
-population: 8000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Ostvar
   aliases: []
 shortcode: ostvar
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

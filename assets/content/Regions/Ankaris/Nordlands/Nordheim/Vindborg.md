@@ -4,21 +4,14 @@ aliases:
 id: 7XxnqkgQlwHbZvb8
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Hill Fort"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Vindborg
   aliases: []
 shortcode: vindborg
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

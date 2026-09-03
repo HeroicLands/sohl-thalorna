@@ -4,21 +4,14 @@ aliases:
 id: lLZtjVvo1K6TGm1A
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Fortified Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Thorrborg
   aliases: []
 shortcode: thorrborg
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

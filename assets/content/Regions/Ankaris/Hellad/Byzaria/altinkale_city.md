@@ -4,19 +4,14 @@ aliases:
 id: 5MRlAq6xyBaiOMaw
 type: place
 subType: settlement
+data:
+  parents:
+    - byzariargn
 settlementType: "Fortress City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
 name:
   full: Altinkale
   aliases: []
 shortcode: altinkale2
-parent:
-  polities:
-    - altinkale
 ---
 
 # Altinkale

@@ -5,20 +5,14 @@ aliases:
 id: q5KssAIUA8eYcX2L
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "City"
 name:
   full: Suvarṇagiri
   aliases: []
 shortcode: suvaragiri
-parent:
-  regions:
-    - vedyarargn
-  polities:
-    - suvrgrjnpd
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 folder: q61mqomRaSzUNfrY
 ---
 

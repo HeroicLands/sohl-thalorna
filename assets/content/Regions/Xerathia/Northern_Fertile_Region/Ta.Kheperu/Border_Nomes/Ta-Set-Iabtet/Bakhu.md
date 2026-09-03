@@ -4,22 +4,16 @@ aliases:
 id: FT70zIcHD7OGfSck
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 22000
 settlementType: "Fortified Mining Town"
-population: 22000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Bakhu
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: bakhu
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nometstbtt
 folder: G7beOi7xbLclZh5f
 ---
 

@@ -4,21 +4,15 @@ aliases:
 id: Mk9vNx3kSp2Rb8Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 4000
 settlementType: "Mining Town"
-population: 4000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Stennvold
   aliases: []
 shortcode: stennvold
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

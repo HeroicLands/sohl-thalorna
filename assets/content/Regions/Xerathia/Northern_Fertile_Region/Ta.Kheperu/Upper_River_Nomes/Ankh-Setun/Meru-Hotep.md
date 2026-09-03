@@ -4,22 +4,16 @@ aliases:
 id: w37mo3an5Yl3C5an
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 25000
 settlementType: "River Town (Grain Port)"
-population: 25000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Meru-Hotep
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: meruhotep
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomenkhstn
 folder: DCVpoMWDdub9pwDR
 ---
 

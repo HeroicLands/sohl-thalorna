@@ -4,19 +4,14 @@ aliases:
 id: guzzmrqqtagCbdW4
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "Fortress City"
-population: null
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 name:
   full: Sūryāgarha
   aliases: []
 shortcode: suryagarha
-parent:
-  polities:
-    - vindhyalay
 ---
 
 # Sūryāgarha

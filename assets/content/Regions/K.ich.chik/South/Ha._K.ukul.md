@@ -4,19 +4,14 @@ aliases:
 id: Vz6zv5sq18qR9nya
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Market Town"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ha’ K’ukul
   aliases: []
 shortcode: hakukul
-parent:
-  polities:
-    - balamtzaku
 folder: 13VGFYcT7sKTGll7
 ---
 

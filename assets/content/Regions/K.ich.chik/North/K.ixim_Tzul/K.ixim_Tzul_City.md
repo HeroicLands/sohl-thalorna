@@ -4,19 +4,14 @@ aliases:
 id: RPORfulXgkxwp8zj
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: K'ixim Tzul
   aliases: []
 shortcode: kiximtzul2
-parent:
-  polities:
-    - kiximtzul
 ---
 
 # K'ixim Tzul

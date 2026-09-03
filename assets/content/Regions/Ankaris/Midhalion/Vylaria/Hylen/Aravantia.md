@@ -4,21 +4,15 @@ aliases:
 id: Hy4rKx2mVqL9Tb7n
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 28000
 settlementType: "Provincial Capital"
-population: 28000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Aravantia
   aliases: []
 shortcode: aravantia
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

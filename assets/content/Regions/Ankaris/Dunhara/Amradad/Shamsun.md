@@ -5,21 +5,14 @@ aliases:
 id: nlCErQbCazleD3Ns
 type: place
 subType: settlement
+data:
+  parents:
+    - amradadrgn
 settlementType: "Oasis City"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
 name:
   full: Shamsûn
   aliases: []
 shortcode: shamsun
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

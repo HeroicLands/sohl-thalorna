@@ -4,20 +4,14 @@ aliases:
 id: eo7Mlrw34ELw2CFY
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "Port Town"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
 name:
   full: Qadhirun
   aliases: []
 shortcode: qadhirun
-parent:
-  polities:
-    - tamavar
 folder: umL4KFGO3MD4u9X1
 ---
 

@@ -4,19 +4,14 @@ aliases:
 id: n24XoHaQViCi0IYu
 type: place
 subType: settlement
+data:
+  parents:
+    - nrthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ha' Xaman
   aliases: []
 shortcode: haxaman2
-parent:
-  polities:
-    - haxaman
 ---
 
 # Ha' Xaman

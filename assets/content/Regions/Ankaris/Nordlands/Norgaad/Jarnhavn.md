@@ -5,21 +5,14 @@ aliases:
 id: qMK74rVgAAQlzEAs
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Fortified Harbor Town"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Járnhavn
   aliases: []
 shortcode: jarnhavn
-parent:
-  polities:
-    - kingdmnrgd
-  regions:
-    - nrdlndsrgn
 folder: k5SVeYFVPAxS9hci
 ---
 

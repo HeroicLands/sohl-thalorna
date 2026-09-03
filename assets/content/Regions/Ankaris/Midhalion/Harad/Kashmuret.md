@@ -4,20 +4,14 @@ aliases:
 id: OuVksHRIQjPWu72i
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "Trading Town"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
 name:
   full: Kashmuret
   aliases: []
 shortcode: kashmuret
-parent:
-  polities:
-    - varoshan
 folder: umL4KFGO3MD4u9X1
 ---
 

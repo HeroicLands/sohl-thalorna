@@ -4,21 +4,15 @@ aliases:
 id: 4sQb0DORaqTYrcOm
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 25000
 settlementType: "Merchant City"
-population: 25000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Belekos
   aliases: []
 shortcode: belekos
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

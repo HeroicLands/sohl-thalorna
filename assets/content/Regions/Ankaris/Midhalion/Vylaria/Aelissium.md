@@ -4,21 +4,14 @@ aliases:
 id: xwXCIHtqjRX4AyUB
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Trade City"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Aelissium
   aliases: []
 shortcode: aelissium
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - hlykngdmnrtm
 folder: WSdLuPc7BaRqxNEt
 ---
 

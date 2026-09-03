@@ -11,12 +11,10 @@ tags:
 description: "Urbs Aquilion, the Eagle City — the walled citadel atop Mons Aquila at the heart of Magnápolis, the sacred and administrative core of the Vylarian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Officia Imperii, the inner Panepistemium, and the Grand Palace."
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Imperial Citadel"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 id: In9rCt4xMzQp7Lub
 name:
   full: Urbs Aquilion
@@ -24,9 +22,6 @@ name:
     - Inner City
     - Eagle City
 shortcode: urbsaquiln
-parent:
-  polities:
-    - provinclys
 folder:
 ---
 

@@ -4,19 +4,14 @@ aliases:
 id: 3YlA2MuGbvyKHEXm
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "Village"
-population: null
-pantheons:
-  - arldnpnthn
-languages:
-  - elvndrlng
 name:
   full: Ceridwen's Hollow
   aliases: []
 shortcode: cerdwnshlw
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

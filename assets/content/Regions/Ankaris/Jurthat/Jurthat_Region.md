@@ -14,17 +14,13 @@ shortcode: jurthatrgn
 img: ""
 type: place
 subType: region
-terran_analog: Japanese archipelago (mountainous volcanic islands)
-demonym: Jürthāti
-parent:
-  continents:
+data:
+  demonym: Jürthāti
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - tngvkvnlei
-peoples:
-  - human
-languages:
-  - tanvurlng
+terran_analog: Japanese archipelago (mountainous volcanic islands)
 folder: DhjGF5KsylKDxb7m
 ---
 

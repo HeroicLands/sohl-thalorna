@@ -4,21 +4,15 @@ aliases:
 id: mT25GbjyVhZHPVHL
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 5000
 settlementType: "Town"
-population: 5000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Valdosta
   aliases: []
 shortcode: valdosta
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

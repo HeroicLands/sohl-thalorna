@@ -9,19 +9,17 @@ tags:
   - xerathia
 type: place
 subType: region
+data:
+  demonym: Xerathian
+  lore:
+    - humanflk
+    - flksinale
+    - flkkhazar
 name:
   full: Xerathia
   aliases: []
 shortcode: xerathia
 description: The southern continent — fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
-demonym: Xerathian
-peoples:
-  - human
-  - sinale
-  - khazari
-pantheons:
-  - kemtnpnthn
-  - nkaruthar
 terran_analog: Africa
 world: worldthlrn
 folder: IfwW2GJ5xbLA9MDZ

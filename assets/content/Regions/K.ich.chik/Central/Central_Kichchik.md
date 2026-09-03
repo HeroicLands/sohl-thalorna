@@ -12,13 +12,11 @@ name:
 img: ""
 type: place
 subType: region
-parent:
-  continents:
+data:
+  lore:
+    - humanflk
+  parents:
     - kchchkcntnnt
-pantheons:
-  - itzanpnthn
-peoples:
-  - human
 shortcode: cntrlkchchk
 ---
 

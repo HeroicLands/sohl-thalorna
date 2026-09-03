@@ -5,19 +5,14 @@ aliases:
 id: UR8xNtWDuaHZdxsJ
 type: place
 subType: settlement
+data:
+  parents:
+    - provenzrgn
 settlementType: "Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
 name:
   full: Valcèrise
   aliases: []
 shortcode: valcerise
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

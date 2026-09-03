@@ -4,19 +4,14 @@ aliases:
 id: yjFOHt9fEyDjHCCZ
 type: place
 subType: settlement
+data:
+  parents:
+    - tarvenirgn
 settlementType: "Hill Town"
-population: null
-languages:
-  - tarvenlng
-pantheons:
-  - arldnpnthn
 name:
   full: Torreviga
   aliases: []
 shortcode: torreviga
-parent:
-  polities:
-    - kingdmtrvn
 folder: DB9rgGreD8FtqoBx
 ---
 

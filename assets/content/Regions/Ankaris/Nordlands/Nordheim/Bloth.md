@@ -5,21 +5,14 @@ aliases:
 id: IxdQgYmu31vb7DlD
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Ritual Site / Ancient Settlement"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Blóth
   aliases: []
 shortcode: bloth
-parent:
-  polities:
-    - kngdmnrdhm
-  regions:
-    - nrdlndsrgn
 folder: tUOAFxX25mViDE7q
 ---
 

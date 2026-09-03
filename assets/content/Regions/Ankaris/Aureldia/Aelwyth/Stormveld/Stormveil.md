@@ -4,19 +4,14 @@ aliases:
 id: TlYOx3SBgFES4hvV
 type: place
 subType: settlement
+data:
+  parents:
+    - aelwyth
 settlementType: "Castle and Garrison"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Stormveil
   aliases: []
 shortcode: stormveil
-parent:
-  polities:
-    - jrldmstrmvld
 folder: ZbE1NQo3ApZ26xon
 ---
 

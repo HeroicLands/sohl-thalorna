@@ -5,19 +5,14 @@ aliases:
 id: gcqQMrf3iloHRPXm
 type: place
 subType: settlement
+data:
+  parents:
+    - provenzrgn
 settlementType: "Hill Town"
-population: null
-languages:
-  - provnzlng
-pantheons:
-  - arldnpnthn
 name:
   full: Monvèrdre
   aliases: []
 shortcode: monverdre
-parent:
-  polities:
-    - kngdmprvnz
 folder: 2s244hfP0BpQi195
 ---
 

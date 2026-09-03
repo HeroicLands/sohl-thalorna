@@ -4,21 +4,15 @@ aliases:
 id: Mk5rKx2mKp7Tb4Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 5000
 settlementType: "Pass Town"
-population: 5000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Korrast
   aliases: []
 shortcode: korrast
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

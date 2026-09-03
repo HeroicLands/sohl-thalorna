@@ -4,21 +4,14 @@ aliases:
 id: SulSgH0GRCJUbMll
 type: place
 subType: settlement
+data:
+  parents:
+    - amradadrgn
 settlementType: "City"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
 name:
   full: Golshahr
   aliases: []
 shortcode: golshahr
-parent:
-  regions:
-    - amradadrgn
-  polities:
-    - sultntmrdd
 folder: PUSPfoG6UdrnqPhK
 ---
 

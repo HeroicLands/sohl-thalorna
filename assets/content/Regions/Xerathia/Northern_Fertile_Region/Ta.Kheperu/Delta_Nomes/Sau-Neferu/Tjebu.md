@@ -4,22 +4,16 @@ aliases:
 id: MdjcGbF0x3kGbwQx
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 12000
 settlementType: "Wine Town"
-population: 12000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Tjebu
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tjebu
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomesaunfr
 folder: 9wsmaBsHPmmto2k3
 ---
 

@@ -4,21 +4,15 @@ aliases:
 id: Hy4hGx6mMq9Tb3Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 4000
 settlementType: "Town"
-population: 4000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Messora
   aliases: []
 shortcode: messora
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

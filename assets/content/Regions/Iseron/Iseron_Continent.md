@@ -7,15 +7,16 @@ tags:
   - iseron
 type: place
 subType: region
+data:
+  demonym: Iseronian
+  lore:
+    - humanflk
 id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:
   full: Iseron Continent
   aliases: []
 description: The frozen southernmost continent — desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes.
-demonym: Iseronian
-peoples:
-  - human
 terran_analog: "Antarctica — the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
 world: worldthlrn
 folder: H7q8ucUhRFPfD3Dt

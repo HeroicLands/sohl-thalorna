@@ -7,15 +7,16 @@ tags:
   - aurionis
 type: place
 subType: region
+data:
+  demonym: Aurionite
+  lore:
+    - humanflk
 id: dQ3RMAtfHDsD09IX
 shortcode: arnscntnnt
 name:
   full: Aurionis Continent
   aliases: []
 description: A distant southern continent of paradoxes — arid interiors, lush coastal zones, and ancient peoples whose spiritual traditions are tied to the land itself.
-demonym: Aurionite
-peoples:
-  - human
 terran_analog: "Australia — the great isolated southern continent. Note: Maritime Southeast Asia (Indonesia, Philippines, Malaysia, Singapore, Papua New Guinea) does not exist on Thalorna, so the open ocean between Tānvür's eastern margin and the Aurionian shore is vast — a sea-crossing of weeks, not days, and a fact that has kept the two continents almost entirely out of contact for as long as records have been kept on either side."
 world: worldthlrn
 folder: N4B9Brwycki8GfSj

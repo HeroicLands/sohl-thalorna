@@ -7,19 +7,14 @@ aliases:
 id: Wbuh7YBC3fe4JG9m
 type: place
 subType: settlement
+data:
+  parents:
+    - bethuargn
 settlementType: "Town"
-population: null
-languages:
-  - okharclng
-pantheons:
-  - arldnpnthn
 name:
   full: Ashíra
   aliases: []
 shortcode: ashira
-parent:
-  polities:
-    - mtrrchybth
 folder: Y64e5NGsp8OwZ6xQ
 ---
 

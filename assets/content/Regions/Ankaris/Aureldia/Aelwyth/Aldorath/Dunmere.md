@@ -4,21 +4,14 @@ aliases:
 id: MbOkXD6PFlAjMucq
 type: place
 subType: settlement
+data:
+  parents:
+    - aldorathrgn
 settlementType: "Lakeside Village"
-population: null
-languages:
-  - elvndrlng
-  - nordmalng
-pantheons:
-  - arldnpnthn
-  - asguardian
 name:
   full: Dunmere
   aliases: []
 shortcode: dunmere
-parent:
-  polities:
-    - kngdmldrth
 folder: ZbE1NQo3ApZ26xon
 ---
 

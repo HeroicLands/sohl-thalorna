@@ -4,19 +4,14 @@ aliases:
 id: Ti61MsXgLxbhYAnK
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ba'alam Tza'ku
   aliases: []
 shortcode: balamtzaku2
-parent:
-  polities:
-    - balamtzaku
 ---
 
 # Ba'alam Tza'ku

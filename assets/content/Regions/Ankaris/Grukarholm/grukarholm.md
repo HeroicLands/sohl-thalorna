@@ -4,17 +4,14 @@ aliases:
 id: kRq6vgWmxMG5MZ4V
 type: place
 subType: settlement
+data:
+  parents:
+    - grkrhlmrgn
 settlementType: "Fortress Town"
-population: null
-languages:
-  - grukarlng
 name:
   full: Grukarholm
   aliases: []
 shortcode: grukarholm2
-parent:
-  polities:
-    - grukarholm
 ---
 
 # Grukarholm

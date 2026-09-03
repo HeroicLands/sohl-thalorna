@@ -5,13 +5,13 @@ id: HY15sLyXKGRRXfuy
 description: "Region of independent city-states bound by Greek-like culture, shared games, and eternal rivalry — philosophers, sailors, and heroes in a land where honor is paid in blood and glory."
 type: place
 subType: region
+data:
+  parents:
+    - heladrgn
 name:
   full: Heliónis
   aliases: []
 shortcode: helionis
-parent:
-  regions:
-    - heladrgn
 folder: L06n59aSySB8zVbI
 ---
 

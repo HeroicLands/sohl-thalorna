@@ -4,20 +4,14 @@ aliases:
 id: pIq5WRv3f9mIgJHz
 type: place
 subType: settlement
+data:
+  parents:
+    - byzariargn
 settlementType: "Caravan City"
-population: null
-languages:
-  - byzarnlng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
 name:
   full: Yeşilhan
   aliases: []
 shortcode: yesilhan2
-parent:
-  polities:
-    - yesilhan
 ---
 
 # Yeşilhan

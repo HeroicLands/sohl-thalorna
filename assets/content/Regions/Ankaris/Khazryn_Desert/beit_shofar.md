@@ -4,19 +4,14 @@ aliases:
 id: Jh8qC0VOgrks0Ums
 type: place
 subType: settlement
+data:
+  parents:
+    - khzryndsrtrgn
 settlementType: "Temple Settlement"
-population: null
-languages:
-  - atarzadi-language
-pantheons:
-  - ashanpnthn
 name:
   full: Beit-Shōfár
   aliases: []
 shortcode: beitshofar
-parent:
-  polities:
-    - tribestrzd
 ---
 
 # Beit-Shōfár

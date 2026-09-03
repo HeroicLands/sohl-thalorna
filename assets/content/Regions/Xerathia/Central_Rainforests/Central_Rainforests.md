@@ -15,13 +15,13 @@ shortcode: cntrlrnfrsts
 img: ""
 type: place
 subType: region
-terran_analog: Equatorial African interior (Congo basin)
-parent:
-  continents:
+data:
+  lore:
+    - humanflk
+    - flksinale
+  parents:
     - xerathia
-peoples:
-  - human
-  - sinale
+terran_analog: Equatorial African interior (Congo basin)
 folder: 018P0I7moZWCJGUE
 ---
 

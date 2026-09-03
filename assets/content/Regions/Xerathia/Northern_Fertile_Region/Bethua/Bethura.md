@@ -7,19 +7,14 @@ aliases:
 id: CrmLLo78aUYwlRtC
 type: place
 subType: settlement
+data:
+  parents:
+    - bethuargn
 settlementType: "City"
-population: null
-languages:
-  - okharclng
-pantheons:
-  - arldnpnthn
 name:
   full: Bethûra
   aliases: []
 shortcode: bethura
-parent:
-  polities:
-    - mtrrchybth
 folder: Y64e5NGsp8OwZ6xQ
 ---
 

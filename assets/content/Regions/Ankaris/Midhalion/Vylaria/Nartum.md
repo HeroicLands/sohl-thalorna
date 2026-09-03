@@ -5,21 +5,14 @@ aliases:
 id: lC4TS0SvySTGzr5S
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
 settlementType: "Holy City"
-population: null
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Nartûm
   aliases: []
 shortcode: nartum
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - hlykngdmnrtm
 folder: WSdLuPc7BaRqxNEt
 ---
 

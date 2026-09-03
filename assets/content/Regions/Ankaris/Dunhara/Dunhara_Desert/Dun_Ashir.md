@@ -5,21 +5,14 @@ aliases:
 id: OEZyUT8hxlPoOJhD
 type: place
 subType: settlement
+data:
+  parents:
+    - dunhardsrtrgn
 settlementType: "Oasis Settlement"
-population: null
-languages:
-  - dunharlng
-pantheons:
-  - ashanpnthn
 name:
   full: Dûn Ashir
   aliases: []
 shortcode: dunashir
-parent:
-  regions:
-    - dunhardsrtrgn
-  polities:
-    - dunhartrbs
 folder: fHLmguBwgTuZfGJ9
 ---
 

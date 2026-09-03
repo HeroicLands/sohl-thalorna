@@ -5,23 +5,17 @@ aliases:
 id: j7kLfLuyqbHAZVA4
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 6000
 settlementType: "Tomb-Workers' Village (walled)"
-population: 6000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Set-Maat
   aliases:
     - Set-Ma'at
 banner: banners/ta-kheperu-banner.webp
 shortcode: setmaat
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomekhnsrt
 folder: bq0QGXXvq8fNpewL
 ---
 

@@ -5,20 +5,14 @@ aliases:
 id: 8V6lgZjeFHlQZkRA
 type: place
 subType: settlement
+data:
+  parents:
+    - kaliharargn
 settlementType: "Port Town"
-population: null
-languages:
-  - valtarlng
-  - kalihrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Vashurán
   aliases: []
 shortcode: vashuran
-parent:
-  polities:
-    - kalihara
 folder: ySaln4Q82C7W1p0I
 ---
 

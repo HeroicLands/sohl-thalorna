@@ -4,21 +4,15 @@ aliases:
 id: Al6yPx7kOm8Sb3Ln
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 7000
 settlementType: "River-Port Town"
-population: 7000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Ostenna
   aliases: []
 shortcode: ostenna
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provinclys
 folder: WSdLuPc7BaRqxNEt
 ---
 

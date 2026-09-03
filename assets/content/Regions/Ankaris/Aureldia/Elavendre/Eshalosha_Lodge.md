@@ -6,16 +6,15 @@ aliases:
 id: lfpk5DjHdNISkpXd
 type: place
 subType: settlement
+data:
+  parents:
+    - alndntrblnds
 settlementType: "Áelendan settlement and ceremonial center"
-population: null
 name:
   full: Eshálosha Lodge
   aliases:
     - Eshálosha
 shortcode: eshalshldg
-parent:
-  polities:
-    - aelndntrbs
 folder: drAoDoNnFEygATeK
 ---
 

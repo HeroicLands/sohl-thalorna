@@ -4,19 +4,14 @@ aliases:
 id: MMURsVSWP10cDwXu
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: K'uxi Balam
   aliases: []
 shortcode: kuxibalam2
-parent:
-  polities:
-    - kuxibalam
 ---
 
 # K'uxi Balam

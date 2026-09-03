@@ -15,17 +15,13 @@ shortcode: nrdlndsrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
-demonym: Normen
-parent:
-  continents:
+data:
+  demonym: Normen
+  lore:
+    - humanflk
+  parents:
     - ankrscntnnt
-pantheons:
-  - asguardian
-peoples:
-  - human
-languages:
-  - nordmalng
+terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
 folder: yCT7BtuH6hMwWnob
 ---
 

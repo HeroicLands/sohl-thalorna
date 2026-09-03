@@ -4,22 +4,16 @@ aliases:
 id: ijEMnWfPBKZeYMVm
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 24000
 settlementType: "Fortress Town"
-population: 24000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Behen
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: behen
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nometarshk
 folder: hbi739NdfZ0O28og
 ---
 

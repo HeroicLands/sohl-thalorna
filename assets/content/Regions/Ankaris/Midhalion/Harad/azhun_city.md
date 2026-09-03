@@ -4,19 +4,14 @@ aliases:
 id: glFCD2sGQEKQGn6c
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "Port City"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
 name:
   full: Azhûn
   aliases: []
 shortcode: azhun2
-parent:
-  polities:
-    - azhun
 ---
 
 # Azhûn

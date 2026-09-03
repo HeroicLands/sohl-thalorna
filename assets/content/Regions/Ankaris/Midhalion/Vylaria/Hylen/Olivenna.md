@@ -4,21 +4,15 @@ aliases:
 id: Hy8vNx3kOp2Rb5Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 5000
 settlementType: "Town"
-population: 5000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Olivenna
   aliases: []
 shortcode: olivenna
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

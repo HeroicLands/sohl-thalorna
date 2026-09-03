@@ -4,22 +4,16 @@ aliases:
 id: 0WGb17kK6gRRoQyH
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 45000
 settlementType: "Market & Temple Town"
-population: 45000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Sau
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: sau
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomesaunfr
 folder: 9wsmaBsHPmmto2k3
 ---
 

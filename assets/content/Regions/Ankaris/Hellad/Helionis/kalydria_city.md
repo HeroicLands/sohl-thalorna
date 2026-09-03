@@ -4,19 +4,14 @@ aliases:
 id: gG3RL32nHgC2D0B5
 type: place
 subType: settlement
+data:
+  parents:
+    - helionis
 settlementType: "City-State"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
 name:
   full: Kalydria
   aliases: []
 shortcode: kalydria2
-parent:
-  polities:
-    - kalydria
 ---
 
 # Kalydria

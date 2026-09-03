@@ -4,21 +4,15 @@ aliases:
 id: Mk3hNx7mEq9Rb2Lt
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 6000
 settlementType: "Frontier Fortress"
-population: 6000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Castrovar
   aliases: []
 shortcode: castrovar
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provncmktr
 folder: WSdLuPc7BaRqxNEt
 ---
 

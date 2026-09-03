@@ -4,22 +4,16 @@ aliases:
 id: U2pzITnUVrmEUuZY
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 85000
 settlementType: "Temple City (Scribal)"
-population: 85000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Khemenu
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: khemenu
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomeprthth
 folder: g26kf6A7QBdom2kv
 ---
 

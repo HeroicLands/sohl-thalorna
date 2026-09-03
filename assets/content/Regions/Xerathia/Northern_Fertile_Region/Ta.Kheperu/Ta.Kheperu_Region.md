@@ -14,18 +14,13 @@ shortcode: takheperurgn
 img: ""
 type: place
 subType: region
-demonym: Kheperi
-parent:
-  regions:
+data:
+  demonym: Kheperi
+  lore:
+    - humanflk
+  parents:
     - nrthrnfrtlrgn
-  continents:
     - xerathia
-pantheons:
-  - kemtnpnthn
-peoples:
-  - human
-languages:
-  - kheperlng
 ---
 
 ## Overview

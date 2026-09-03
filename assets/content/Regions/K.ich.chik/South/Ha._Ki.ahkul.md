@@ -4,19 +4,14 @@ aliases:
 id: kwMVyscLlBNMazGt
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "Mining Town"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Ha’ Ki’ahkul
   aliases: []
 shortcode: hakiahkul
-parent:
-  polities:
-    - balamtzaku
 folder: 13VGFYcT7sKTGll7
 ---
 

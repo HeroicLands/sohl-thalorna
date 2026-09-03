@@ -14,18 +14,13 @@ shortcode: bethuargn
 img: ""
 type: place
 subType: region
-demonym: Bethûan
-parent:
-  regions:
+data:
+  demonym: Bethûan
+  lore:
+    - humanflk
+  parents:
     - nrthrnfrtlrgn
-  continents:
     - xerathia
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
-languages:
-  - bethunlng
 ---
 
 ## Overview

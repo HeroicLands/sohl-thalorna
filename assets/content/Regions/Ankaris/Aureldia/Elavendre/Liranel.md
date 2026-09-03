@@ -4,19 +4,14 @@ aliases:
 id: 125j2DAi5wNhmQMA
 type: place
 subType: settlement
+data:
+  parents:
+    - elavendre
 settlementType: "Forest Town"
-population: null
-languages:
-  - elvndrlng
-pantheons:
-  - arldnpnthn
 name:
   full: Liranel
   aliases: []
 shortcode: liranel
-parent:
-  polities:
-    - kngdmlvndr
 folder: drAoDoNnFEygATeK
 ---
 

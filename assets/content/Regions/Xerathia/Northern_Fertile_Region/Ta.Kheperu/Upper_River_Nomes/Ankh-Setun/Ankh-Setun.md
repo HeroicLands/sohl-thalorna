@@ -5,22 +5,16 @@ aliases:
 id: kjeTX8avJnpknuJ3
 type: place
 subType: settlement
+data:
+  parents:
+    - takheperurgn
+  population: 80000
 settlementType: "City (Granary Capital)"
-population: 80000
-languages:
-  - kheperlng
-pantheons:
-  - kemtnpnthn
 name:
   full: Ankh-Setûn
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: ankhsetun
-parent:
-  regions:
-    - takheperurgn
-  polities:
-    - nomenkhstn
 folder: DCVpoMWDdub9pwDR
 ---
 

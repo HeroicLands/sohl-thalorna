@@ -4,21 +4,15 @@ aliases:
 id: Vd6yGx4kVm8Sb3Ld
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 4000
 settlementType: "Town"
-population: 4000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Terravia
   aliases: []
 shortcode: terravia
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provincvld
 folder: WSdLuPc7BaRqxNEt
 ---
 

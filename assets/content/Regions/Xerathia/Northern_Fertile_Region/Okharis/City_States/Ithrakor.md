@@ -5,19 +5,14 @@ id: 1Bf7A6AabtHRR3Bu
 tags: []
 type: place
 subType: settlement
+data:
+  parents:
+    - okharisrgn
 settlementType: "City-State"
-population: null
-languages:
-  - okharclng
-pantheons:
-  - nkaruthar
 name:
   full: Ithrákor
   aliases: []
 shortcode: ithrakor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

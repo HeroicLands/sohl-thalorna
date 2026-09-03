@@ -4,19 +4,14 @@ aliases:
 id: vRDisPmvFKBKEq7e
 type: place
 subType: settlement
+data:
+  parents:
+    - heladrgn
 settlementType: "City-State"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
 name:
   full: Therádon
   aliases: []
 shortcode: theradon2
-parent:
-  polities:
-    - theradon
 ---
 
 # Therádon

@@ -4,21 +4,14 @@ aliases:
 id: 2L0cERpUeRn8zC00
 type: place
 subType: settlement
+data:
+  parents:
+    - nrdlndsrgn
 settlementType: "Fortified Settlement / Regional Capital"
-population: null
-languages:
-  - nordmalng
-pantheons:
-  - asguardian
 name:
   full: Bjornstad
   aliases: []
 shortcode: bjornstad
-parent:
-  polities:
-    - kngdmvthgrd
-  regions:
-    - nrdlndsrgn
 folder: KvGb463Iw9hZLRjp
 ---
 

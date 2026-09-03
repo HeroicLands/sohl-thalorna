@@ -4,20 +4,14 @@ aliases:
 id: b1sHNYrkFRl8FjPK
 type: place
 subType: settlement
+data:
+  parents:
+    - haradregin
 settlementType: "Naval City"
-population: null
-languages:
-  - haradilng
-pantheons:
-  - arldnpnthn
-  - ashanpnthn
 name:
   full: Kethara
   aliases: []
 shortcode: kethara2
-parent:
-  polities:
-    - kethara
 ---
 
 # Kethara

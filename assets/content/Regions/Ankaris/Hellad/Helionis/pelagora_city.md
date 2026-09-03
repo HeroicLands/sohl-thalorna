@@ -4,19 +4,14 @@ aliases:
 id: zbCX6Tb8noi8LFDF
 type: place
 subType: settlement
+data:
+  parents:
+    - heladrgn
 settlementType: "Naval City"
-population: null
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
 name:
   full: Pelagora
   aliases: []
 shortcode: pelagora2
-parent:
-  polities:
-    - pelagora
 ---
 
 # Pelagora

@@ -4,25 +4,16 @@ aliases:
 id: oS8n3zisICURpMOI
 type: place
 subType: settlement
+data:
+  lore:
+    - humanflk
+  parents:
+    - helionis
 settlementType: "Coastal Town"
-population: null
 name:
   full: Myrtillos
   aliases: []
 shortcode: myrtillos
-government:
-  type: town
-parent:
-  regions:
-    - helionis
-  polities:
-    - kostaros2
-languages:
-  - helonclng
-pantheons:
-  - arldnpnthn
-peoples:
-  - human
 folder: L06n59aSySB8zVbI
 ---
 

@@ -15,15 +15,13 @@ shortcode: grkrhlmrgn
 img: ""
 type: place
 subType: region
-terran_analog: "Belarus — a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
-demonym: Grukari
-parent:
-  continents:
+data:
+  demonym: Grukari
+  lore:
+    - grukarflk
+  parents:
     - ankrscntnnt
-peoples:
-  - grukar
-languages:
-  - grukarlng
+terran_analog: "Belarus — a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 folder: CNzTSOtYWZwLyp5k
 ---
 

@@ -5,18 +5,15 @@ id: 2fdrzbEWF4pDGpTo
 tags: []
 type: place
 subType: settlement
+data:
+  parents:
+    - okharisrgn
 settlementType: "Temple City"
-population: null
-pantheons:
-  - nkaruthar
 name:
   full: Zarhánor
   aliases:
     - The First Flame
 shortcode: zarhanor
-parent:
-  polities:
-    - okharis
 folder: voxX57xvTC1eRnSO
 ---
 

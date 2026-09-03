@@ -4,21 +4,15 @@ aliases:
 id: lmR93dIZz6Bv7Vwh
 type: place
 subType: settlement
+data:
+  parents:
+    - vylariargn
+  population: 4000
 settlementType: "Border Town"
-population: 4000
-languages:
-  - vylarilng
-pantheons:
-  - arldnpnthn
 name:
   full: Ashenmere
   aliases: []
 shortcode: ashenmere
-parent:
-  regions:
-    - vylariargn
-  polities:
-    - provnchyln
 folder: WSdLuPc7BaRqxNEt
 ---
 

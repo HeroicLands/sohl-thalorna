@@ -4,19 +4,14 @@ aliases:
 id: Df8fe3ZzpuxYWWbE
 type: place
 subType: settlement
+data:
+  parents:
+    - vedyarargn
 settlementType: "City"
-population: null
-languages:
-  - vedyarlng
-pantheons:
-  - varakpnthn
 name:
   full: Vyālendra
   aliases: []
 shortcode: vyalendra3
-parent:
-  polities:
-    - vyalendra2
 ---
 
 # Vyālendra

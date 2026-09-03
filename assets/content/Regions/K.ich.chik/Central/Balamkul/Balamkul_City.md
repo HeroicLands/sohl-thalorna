@@ -4,19 +4,14 @@ aliases:
 id: LXNjgk0sJIzvtzuS
 type: place
 subType: settlement
+data:
+  parents:
+    - cntrlkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Balamkul
   aliases: []
 shortcode: balamkul2
-parent:
-  polities:
-    - balamkul
 ---
 
 # Balamkul

@@ -4,19 +4,14 @@ aliases:
 id: 81GNYrgkAYEus3dq
 type: place
 subType: settlement
+data:
+  parents:
+    - sthrnkchchk
 settlementType: "City"
-population: null
-languages:
-  - kicheklng
-pantheons:
-  - itzanpnthn
 name:
   full: Tz'ikin Ba'alam
   aliases: []
 shortcode: tzikinbalm2
-parent:
-  polities:
-    - tzikinbalm
 ---
 
 # Tz'ikin Ba'alam
