@@ -14,7 +14,6 @@ id: S3Pqxj4TZHXJrRF9
 shortcode: trimurtisampradaya
 name:
   full: "Ritual: Trimūrti-sampradāya"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

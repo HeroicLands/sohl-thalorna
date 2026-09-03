@@ -7,7 +7,6 @@ tags:
   - image-needed
 name:
   full: Old Fire Dragon
-  aliases: []
 description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient and vengeful, hoarding kingdom-bankrupting wealth over lands it conquers and razes."
 id: 4g9BryPNyWeQLBA0
 img: icons/game-icons/faithtoken/dragon-head.svg

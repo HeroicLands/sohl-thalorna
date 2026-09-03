@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Aurèliane
-  - Aureliane
 id: 6606P1n4SuPO30aI
 tags:
   - city
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Aurèliane
-  aliases: []
 shortcode: aureliane
 folder: 2s244hfP0BpQi195
 ---

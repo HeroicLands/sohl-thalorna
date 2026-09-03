@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caress
 tags: []
 name:
   full: Touch

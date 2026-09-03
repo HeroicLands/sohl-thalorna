@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meteor
 tags: []
 name:
   full: Impact

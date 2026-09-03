@@ -106,7 +106,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Má'át
-  aliases: []
 shortcode: maat
 banner: banners/ta-kheperu-banner.webp
 alias: Má'át, Keeper of Truth and Harmony

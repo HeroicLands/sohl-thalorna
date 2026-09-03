@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Alváren Gráveth
-  - Alvaren Graveth
 tags:
   - draft
   - common-folk

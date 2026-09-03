@@ -1,8 +1,5 @@
 ---
 description: "Misdirection."
-aliases:
-  - Dōkyök
-  - Dokyok
 id: dN77jRICWKNQeF58
 tags:
   - demon-lord

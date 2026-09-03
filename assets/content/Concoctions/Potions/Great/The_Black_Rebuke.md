@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: The Black Rebuke
-  aliases: []
 description: "Nearly black tar-like liquid; causes violent vomiting and illness."
 id: 7HOCqoBnApNeZsEq
 img: icons/potion.svg

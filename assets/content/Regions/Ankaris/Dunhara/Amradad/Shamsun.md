@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shamsûn
-  - Shamsun
 id: nlCErQbCazleD3Ns
 tags:
   - oasis
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Shamsûn
-  aliases: []
 shortcode: shamsun
 folder: PUSPfoG6UdrnqPhK
 ---

@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: "Witch's Swill"
-  aliases: []
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."
 id: elc3nRI3un00aLJb
 img: icons/potion.svg

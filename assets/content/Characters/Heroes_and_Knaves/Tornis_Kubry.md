@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tórnis Kúbrý
 tags:
   - hero
   - silent-talon

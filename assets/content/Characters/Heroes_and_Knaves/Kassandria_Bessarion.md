@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kassándria Bessarîon
-  - Kassándria Bessarîon
-  - Kassandria Bessarion
 tags:
   - heroes-and-knaves
   - todo
@@ -14,7 +10,6 @@ name:
   given: Kassándria
   clan: Bessarîon
   home: Byzaris
-  aliases: []
 id: AMMNpo1BObedkvJe
 folder: b81DHx3S7C9ep13E
 shortcode: kasndrbsrn

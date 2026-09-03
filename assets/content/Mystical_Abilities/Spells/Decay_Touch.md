@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Decay Touch
-  - Wasting
 tags: []
 name:
   full: Decay Touch

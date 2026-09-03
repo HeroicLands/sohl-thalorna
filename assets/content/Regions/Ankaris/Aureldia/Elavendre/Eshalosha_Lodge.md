@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Eshalosha Lodge
-  - Eshálosha Lodge
-  - Eshálosha
 id: lfpk5DjHdNISkpXd
 tags:
   - settlement

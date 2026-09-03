@@ -12,7 +12,6 @@ shortcode: thorr
 img: images/affiliation/thorr.webp
 name:
   full: "Ritual: Thórr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

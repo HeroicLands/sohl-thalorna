@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Damáklios Sampsiôn
-  - Damáklios Sampsiôn
-  - Damaklios Sampsion
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Damáklios
   clan: Sampsiôn
   home: Karataş
-  aliases: []
 id: f18FWVA5XOWaW9tc
 folder: b81DHx3S7C9ep13E
 shortcode: damklsmpsn

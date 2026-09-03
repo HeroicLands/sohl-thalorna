@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Arcane Sphere
-  - Bubble
 tags: []
 name:
   full: Arcane Sphere

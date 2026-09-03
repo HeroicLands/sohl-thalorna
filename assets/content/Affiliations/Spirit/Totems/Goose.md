@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Goose
-  aliases: []
 id: deLZxIhQUl5cFaIO
 img: images/mystery/goose.webp
 shortcode: goosettm

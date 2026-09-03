@@ -12,7 +12,6 @@ shortcode: freyja
 img: images/affiliation/freyja.webp
 name:
   full: "Ritual: Fréyja"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

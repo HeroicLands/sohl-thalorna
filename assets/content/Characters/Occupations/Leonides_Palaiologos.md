@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Leónidês Palaiológos
-  - Leonides Palaiologos
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Leónidês
   clan: Palaiológos
   home: ""
-  aliases: []
 id: hgIqLSmNqE40fAra
 folder: b81DHx3S7C9ep13E
 shortcode: lendspllgs

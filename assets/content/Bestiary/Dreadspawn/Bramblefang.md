@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Bramblefang
 tags:
   - dreadspawn
 name:
   full: Bramblefang
-  aliases: []
 description: "A corruption-born woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
 id: 6KSkMKbbQE2We7kA
 img: icons/game-icons/delapouite/griffin-symbol.svg

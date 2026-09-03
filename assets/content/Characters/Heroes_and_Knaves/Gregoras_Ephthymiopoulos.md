@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Grégoras Ephthymiópoulos
-  - Grégoras Ephthymiópoulos
-  - Gregoras Ephthymiopoulos
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Grégoras
   clan: Ephthymiópoulos
   home: Thálassos
-  aliases: []
 id: Qk52LmyfyG3PPgI4
 folder: b81DHx3S7C9ep13E
 shortcode: grgrsphthympls

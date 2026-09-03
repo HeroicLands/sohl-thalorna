@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Zëisīk
-  - Zeisik
 id: BGxle7KCGjQb8PGt
 type: lore
 subType: culture
 name:
   full: Zëisīk
-  aliases: []
 shortcode: zeisik
 folder: jV7c6dJp4Ztnjtb3
 ---

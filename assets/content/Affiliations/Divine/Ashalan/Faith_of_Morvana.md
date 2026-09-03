@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Mórváhñä
-  aliases: []
 shortcode: morvahna
 alias: Mórváhñä, The Silent Keeper
 folder: 7so6UiPt445oIHWs

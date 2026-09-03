@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Belpòrte
-  - Belporte
 id: fGQuj4lr8Fd0VQbZ
 tags:
   - port
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Belpòrte
-  aliases: []
 shortcode: belporte
 folder: 2s244hfP0BpQi195
 ---

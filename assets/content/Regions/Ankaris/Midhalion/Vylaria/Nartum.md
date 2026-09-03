@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nartûm
-  - Nartum
 id: lC4TS0SvySTGzr5S
 tags:
   - city
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Nartûm
-  aliases: []
 shortcode: nartum
 folder: WSdLuPc7BaRqxNEt
 ---

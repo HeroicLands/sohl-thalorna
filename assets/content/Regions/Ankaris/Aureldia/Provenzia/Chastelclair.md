@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chastèlclair
-  - Chastelclair
 id: ZwiemPCXqySQ19Tm
 tags:
   - town
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Chastèlclair
-  aliases: []
 shortcode: chastelclr
 folder: 2s244hfP0BpQi195
 ---

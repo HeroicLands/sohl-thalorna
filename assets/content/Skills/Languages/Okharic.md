@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Okháric Language
-  aliases: []
 description: "The tongue of the three Okhári city-states, with an archaic sacred register reserved for scripture and temple rites."
 id: biesSfy4Vps4r7wt
 img: icons/speaking.svg

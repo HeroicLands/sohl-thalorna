@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Tuskcrasher
 tags:
   - dreadspawn
 name:
   full: Tuskcrasher
-  aliases: []
 description: "A corrupted, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
 id: 1LGC1Tv40FQz4hXf
 img: icons/game-icons/delapouite/griffin-symbol.svg

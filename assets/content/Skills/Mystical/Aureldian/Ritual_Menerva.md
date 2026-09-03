@@ -13,7 +13,6 @@ shortcode: menerva
 img: images/affiliation/menerva.webp
 name:
   full: "Ritual: Menerva"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

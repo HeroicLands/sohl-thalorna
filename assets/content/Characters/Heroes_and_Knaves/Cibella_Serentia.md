@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cibella Serentia
 tags:
   - tamzir-crew
   - dependents
@@ -9,7 +7,6 @@ name:
   title: ""
   given: Cibella
   clan: Serentia
-  aliases: []
 id: O6Vbzwn11PRRijsS
 folder: UFBfgKZUF0bAE7gG
 shortcode: cibelasrnt

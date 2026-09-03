@@ -13,7 +13,6 @@ name:
   given: Pat'nefur
   clan: Set'maâr
   home: Wasetkara
-  aliases: []
 id: RS86KhDXwmkTxamD
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

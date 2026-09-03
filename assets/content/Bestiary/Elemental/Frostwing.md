@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Frostwing
 tags:
   - elemental
 name:
   full: Frostwing
-  aliases: []
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
 id: MzYAPPEnFLXmQ6Cg
 img: icons/game-icons/delapouite/griffin-symbol.svg

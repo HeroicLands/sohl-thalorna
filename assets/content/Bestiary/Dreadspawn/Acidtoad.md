@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Acidtoad
 tags:
   - dreadspawn
 name:
   full: Acidtoad
-  aliases: []
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
 id: ho5hsRAglADOtInP
 img: icons/game-icons/lorc/toad-teeth.svg

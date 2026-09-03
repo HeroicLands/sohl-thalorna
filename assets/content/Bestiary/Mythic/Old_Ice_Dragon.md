@@ -7,7 +7,6 @@ tags:
   - image-needed
 name:
   full: Old Ice Dragon
-  aliases: []
 description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merciless patience and predatory cunning honed across centuries of frozen dominion."
 id: IHBBFMFd2LieAudc
 img: icons/game-icons/faithtoken/dragon-head.svg

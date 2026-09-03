@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Eiríkr Stormrót
-  - Eirikr Stormrot
 tags:
   - draft
   - common-folk

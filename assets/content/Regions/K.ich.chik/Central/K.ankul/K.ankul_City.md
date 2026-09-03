@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'ankul
 id: vcY8KLpy7ZHBjco4
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: K'ankul
-  aliases: []
 shortcode: kankul2
 ---
 

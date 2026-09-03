@@ -11,7 +11,6 @@ id: zFlhrN7SMyM8Wgee
 shortcode: zurathra
 name:
   full: "Ritual: Zúráthrä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

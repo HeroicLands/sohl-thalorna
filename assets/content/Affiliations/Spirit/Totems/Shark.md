@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Shark
-  aliases: []
 id: yKOy6VLXsYFHVggm
 img: images/mystery/shark.webp
 shortcode: sharkttm

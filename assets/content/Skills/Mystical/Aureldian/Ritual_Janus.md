@@ -12,7 +12,6 @@ shortcode: janus
 img: images/affiliation/janus.webp
 name:
   full: "Ritual: Janus"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

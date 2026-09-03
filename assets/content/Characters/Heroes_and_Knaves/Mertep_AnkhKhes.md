@@ -11,7 +11,6 @@ name:
   given: Mer'tep
   clan: Ankh'Khes
   home: Per-Ankhet
-  aliases: []
 id: dxWxIHy6AlGTauWz
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

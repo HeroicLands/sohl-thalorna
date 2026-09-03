@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Landed Lord
 tags:
   - draft
 id: TR0nXFe8nFiUL8Ed
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Landed Lord
-  aliases: []
 shortcode: landedlordrnk
 description: "Holding a fief or an estate in his own right, with dependents beneath him."
 ---

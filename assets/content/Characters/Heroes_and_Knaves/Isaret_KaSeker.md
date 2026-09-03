@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Isaret Ka'Seker
 tags:
   - heroes-and-knaves
   - hero

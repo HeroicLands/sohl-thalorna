@@ -13,7 +13,6 @@ id: 855hIkKjnj5x6MHj
 shortcode: maat
 name:
   full: "Ritual: Má'át"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

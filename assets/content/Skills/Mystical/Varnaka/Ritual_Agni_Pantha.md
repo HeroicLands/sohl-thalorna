@@ -14,7 +14,6 @@ id: iMGrmk6U0clUqTqm
 shortcode: agnipantha
 name:
   full: "Ritual: Agnī-panthā"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

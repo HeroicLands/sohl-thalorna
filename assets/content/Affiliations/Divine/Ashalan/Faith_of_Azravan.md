@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Ázráván
-  aliases: []
 shortcode: azravan
 alias: Ázráván, Lord of the Final Horizon
 folder: 7so6UiPt445oIHWs

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Altinkale
 id: 5MRlAq6xyBaiOMaw
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Altinkale
-  aliases: []
 shortcode: altinkale2
 ---
 

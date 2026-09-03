@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gunnsteinn Vǫrnheim
-  - Gunnsteinn Vǫrnheim
-  - Gunnsteinn Vornheim
 tags:
   - heroes-and-knaves
   - soldiery
@@ -12,7 +8,6 @@ name:
   given: Gunnsteinn
   clan: Vǫrnheim
   home: Haldrvík
-  aliases: []
 id: Dm5aSUfrER4V3eMn
 folder: Ka9XqaF27b0I3Gmq
 shortcode: gnstnvrnhm

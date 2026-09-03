@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Frostmaw
 tags:
   - elemental
 name:
   full: Frostmaw
-  aliases: []
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
 id: eUOcXzXo2vWIG2sf
 img: icons/game-icons/delapouite/griffin-symbol.svg

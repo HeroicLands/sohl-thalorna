@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Border Nomes
-  aliases: []
 shortcode: bordernoms
 subType: polity
 data:

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Webcrawler
 tags:
   - dreadspawn
 name:
   full: Webcrawler
-  aliases: []
 description: "A supremely cunning spider of dark caverns and ruins that spreads nearly invisible webs across confined spaces to snare prey."
 id: c0MYxLmxJqlP3eq6
 img: icons/game-icons/carl-olsen/spider-alt.svg

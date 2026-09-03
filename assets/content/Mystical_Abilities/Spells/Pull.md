@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Magnet
 tags: []
 name:
   full: Pull

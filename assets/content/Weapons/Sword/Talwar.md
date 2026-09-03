@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Talwar
 tags: []
 name:
   full: Talwar
-  aliases: []
 description: "Curved single-edged saber with disk pommel; eastern cavalry preference."
 id: OTitFZ13JLsumTLp
 img: icons/sword.svg

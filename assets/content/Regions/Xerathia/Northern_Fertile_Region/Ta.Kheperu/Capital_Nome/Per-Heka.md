@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Per-Heka
 id: szUUIRGt86BY1Kjb
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 30000
 name:
   full: Per-Heka
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perheka
 folder: 6HgEgHggm50Aphlq

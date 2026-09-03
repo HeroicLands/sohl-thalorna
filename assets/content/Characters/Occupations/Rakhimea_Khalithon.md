@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ràkhîmêa Khalîthôn
-  - Rakhimea Khalithon
 tags:
   - draft
   - soldiery

@@ -12,7 +12,6 @@ id: 35hBhSr9lDRVfP5D
 shortcode: tharivaan
 name:
   full: "Ritual: Thári'vaan"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

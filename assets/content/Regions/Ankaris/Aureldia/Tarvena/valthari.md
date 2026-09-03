@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valthari
 id: USGSRbE2bkZDbV2o
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Valthari
-  aliases: []
 shortcode: valthari
 ---
 

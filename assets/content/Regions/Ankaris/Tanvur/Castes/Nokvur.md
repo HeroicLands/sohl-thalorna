@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Nōkvür
-  - Nokvur
 id: ftY2uPxiDE8H1Cpu
 type: lore
 subType: culture
 name:
   full: Nōkvür
-  aliases: []
 shortcode: nokvur
 folder: ZUKWHCnKcLAoZMdf
 ---

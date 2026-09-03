@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Icewalk
 tags: []
 name:
   full: Glide

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charm
 tags: []
 name:
   full: Enchant

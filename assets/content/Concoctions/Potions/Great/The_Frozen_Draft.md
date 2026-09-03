@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: The Frozen Draft
-  aliases: []
 description: "Sickly pale green viscous substance; freezes body and movement."
 id: TEX69NJSCCIvRkyz
 img: icons/potion.svg

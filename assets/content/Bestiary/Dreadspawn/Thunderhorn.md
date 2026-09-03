@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Thunderhorn
 tags:
   - dreadspawn
 name:
   full: Thunderhorn
-  aliases: []
 description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."
 id: AimHPopglSXjxhWa
 img: icons/game-icons/delapouite/griffin-symbol.svg

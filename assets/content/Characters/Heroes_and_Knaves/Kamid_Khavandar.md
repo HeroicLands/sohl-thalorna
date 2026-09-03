@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kamîd Khâvandar
-  - Kamîd Khâvandar
-  - Kamid Khavandar
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Kamîd
   clan: Khâvandar
   home: Kethramír
-  aliases: []
 id: kJBNJDcyHSsIax0Z
 folder: heI5Ky6Kqmb61L6c
 shortcode: kamdkhvndr

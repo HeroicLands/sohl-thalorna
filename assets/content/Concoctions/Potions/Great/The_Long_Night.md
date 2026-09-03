@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: The Long Night
-  aliases: []
 description: "Nearly black liquid; induces prolonged darkness of consciousness."
 id: YEsgZarTo8VAzOal
 img: icons/potion.svg

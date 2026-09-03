@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bjalfi Hrafnsvald
 tags:
   - heroes-and-knaves
   - soldiery
@@ -10,7 +8,6 @@ name:
   given: Bjalfi
   clan: Hrafnsvald
   home: Haldrvík
-  aliases: []
 id: fZ0FZCUHKMFUjyH6
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjlfhrfnsvld

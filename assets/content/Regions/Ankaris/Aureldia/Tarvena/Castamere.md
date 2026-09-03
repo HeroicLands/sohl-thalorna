@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Castamere
 id: lR8iAwaI3Q3MlekO
 tags:
   - castle
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Castamere
-  aliases: []
 shortcode: castamere
 folder: DB9rgGreD8FtqoBx
 ---

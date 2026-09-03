@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tibur
 id: Al7vNx3kEp2Rb8Lt
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 12000
 name:
   full: Tibur
-  aliases: []
 shortcode: tibur
 folder: WSdLuPc7BaRqxNEt
 ---

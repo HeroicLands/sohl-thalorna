@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Summary of Provenzia
 id: RvfilQTQiy26gkk7
 type: scenario
 subType: adventure
@@ -20,7 +18,6 @@ data:
     archetypes: []
 name:
   full: Summary of Provènzia
-  aliases: []
 shortcode: sumryprvnz
 folder: 9TmLIkGXGHMtFxzy
 ---

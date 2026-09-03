@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ch'akul Tza'kul
 id: KSV987J7Ylm8L6ws
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ch'akul Tza'kul
-  aliases: []
 shortcode: chakultzkl2
 ---
 

@@ -13,7 +13,6 @@ name:
   given: Sip'rah
   clan: Ip'maâr
   home: Wasetkara
-  aliases: []
 id: iJazXdPywn1EE10S
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

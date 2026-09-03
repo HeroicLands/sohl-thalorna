@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'ikin
 id: QmitOkNvJ61JJiuO
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Tz'ikin
-  aliases: []
 shortcode: tzikin2
 ---
 

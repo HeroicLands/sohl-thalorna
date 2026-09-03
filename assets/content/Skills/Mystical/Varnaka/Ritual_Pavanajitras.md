@@ -13,7 +13,6 @@ id: eMx01DMt7qdWHtmq
 shortcode: pavanajitras
 name:
   full: "Ritual: Pavanajitras"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: Blackroot Tincture
-  aliases: []
 description: "Vivid green oily liquid; causes violent illness and death."
 id: s5ec54onwXf6YvUJ
 img: icons/potion.svg

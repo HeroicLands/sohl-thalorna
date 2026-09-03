@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Isâra Khalîdra
 tags:
   - tamzir-crew
   - administration
@@ -9,7 +7,6 @@ name:
   title: ""
   given: Isâra
   clan: Khalîdra
-  aliases: []
 id: fj0fF6zdQIIKOsu1
 folder: gpXd1anXulwRWZqn
 banner: banners/tamzir-banner.webp

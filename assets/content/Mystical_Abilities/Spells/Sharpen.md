@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Focus
 tags: []
 name:
   full: Sharpen

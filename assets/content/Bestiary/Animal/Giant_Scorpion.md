@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Giant Scorpion
 tags:
   - animal
 name:
   full: Giant Scorpion
-  aliases: []
 description: "A ten-foot armored arachnid ambusher that waits motionless for prey, combining crushing claws with lethal venom across a multi-mile territory."
 id: D8RLnGJ3DDuh4jNr
 img: icons/game-icons/lorc/scorpion.svg

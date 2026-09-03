@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bjorn Stormborn
 tags:
   - paragon
   - heroes-of-asguard

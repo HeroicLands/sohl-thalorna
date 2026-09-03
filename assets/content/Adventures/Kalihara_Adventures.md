@@ -4,7 +4,6 @@ id: BRel5EHG0Nk0JlGV
 shortcode: klhrdvntrs
 name:
   full: Kalihara Adventures
-  aliases: []
 type: scenario
 subType: adventure
 data:

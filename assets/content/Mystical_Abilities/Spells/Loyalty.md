@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obedience
 tags: []
 name:
   full: Loyalty

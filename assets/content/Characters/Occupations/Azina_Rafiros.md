@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ázîna Râfîrôs
-  - Azina Rafiros
 tags:
   - draft
   - tradesfolk

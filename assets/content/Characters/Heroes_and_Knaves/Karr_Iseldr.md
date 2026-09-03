@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kárr Íseldr
-  - Kárr Íseldr
-  - Karr Iseldr
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Kárr
   clan: Íseldr
   home: Bjornstad
-  aliases: []
 id: 3p77MTlQ0N5PHfSM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: karriseldr

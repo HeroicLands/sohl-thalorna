@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Web of Deceit
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
@@ -22,7 +20,6 @@ id: GmS8jnKKIA28pOO8
 shortcode: webdeceit
 name:
   full: The Web of Deceit
-  aliases: []
 folder: 9TmLIkGXGHMtFxzy
 ---
 

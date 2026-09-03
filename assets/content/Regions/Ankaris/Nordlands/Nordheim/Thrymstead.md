@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thrymstead
 id: WNKSFrK83yr8xKyA
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Thrymstead
-  aliases: []
 shortcode: thrymstead
 folder: tUOAFxX25mViDE7q
 ---

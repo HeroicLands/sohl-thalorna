@@ -12,7 +12,6 @@ name:
   given: Tefnutî
   clan: Het'Wera
   home: Ankh-Setûn
-  aliases: []
 id: YQqx7K6B85XCEHAN
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

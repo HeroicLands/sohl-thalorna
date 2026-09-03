@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Hydälis's Eye"
-  aliases: []
 description: "Transparent clarifying elixir; pierces illusions within sixty feet."
 id: C2lKcRBHz6bEwQp6
 img: icons/potion.svg

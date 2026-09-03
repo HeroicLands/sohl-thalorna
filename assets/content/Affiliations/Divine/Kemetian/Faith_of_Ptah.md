@@ -108,7 +108,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Ptā'h
-  aliases: []
 shortcode: ptah
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

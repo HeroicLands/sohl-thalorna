@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigríthr Hafringr
-  - Sigrithr Hafringr
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Sigríthr
   clan: Hafringr
   home: ""
-  aliases: []
 id: Tkx9NIQ0Wobtqn62
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sgrthrhfrngr

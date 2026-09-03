@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: Kingsbane
-  aliases: []
 description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
 id: Q3uPX7MHzya7fWvd
 img: icons/potion.svg

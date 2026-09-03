@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gârlen Dhárel
-  - Gârlen Dhárel
-  - Garlen Dharel
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Gârlen
   clan: Dhárel
   home: Elanmere
-  aliases: []
 id: cKCD0maKPSHQ03nD
 folder: 4cwfdMa34UryZqPR
 shortcode: garlendhrl

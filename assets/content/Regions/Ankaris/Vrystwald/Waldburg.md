@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Waldburg
 id: SriprSl9dLBKfsgn
 tags:
   - stronghold
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Waldburg
-  aliases: []
 shortcode: waldburg
 folder: mCG1TPvjwrV23csZ
 ---

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha’ Ki’ahkul
 id: kwMVyscLlBNMazGt
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Ha’ Ki’ahkul
-  aliases: []
 shortcode: hakiahkul
 folder: 13VGFYcT7sKTGll7
 ---

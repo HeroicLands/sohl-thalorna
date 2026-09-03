@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Zāthük
-  - Zathuk
 id: NDvnF8oya98zRWdK
 type: lore
 subType: culture
 name:
   full: Zāthük
-  aliases: []
 shortcode: zathuk
 folder: ZUKWHCnKcLAoZMdf
 ---

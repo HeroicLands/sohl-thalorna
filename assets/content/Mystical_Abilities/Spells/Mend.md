@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Restoration
 tags: []
 name:
   full: Mend

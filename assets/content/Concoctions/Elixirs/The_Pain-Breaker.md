@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Pain-Breaker
-  aliases: []
 description: "Luminescent draft; hardens resilience against shock and suffering."
 id: kEZYlhCUnvNFGsGP
 img: icons/potion.svg

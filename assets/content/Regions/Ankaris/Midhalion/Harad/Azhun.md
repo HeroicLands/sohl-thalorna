@@ -1,12 +1,8 @@
 ---
-aliases:
-  - Azhûn
-  - Azhun
 id: AqrgBrEk82vRX0Se
 type: affiliation
 name:
   full: Azhûn
-  aliases: []
 shortcode: azhun
 subType: polity
 data:

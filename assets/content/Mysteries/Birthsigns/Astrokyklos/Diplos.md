@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Diplos
-  aliases: []
 description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
 id: aZEAJ3V0isBBQkHw
 img: systems/sohl/assets/icons/other/astrology.svg

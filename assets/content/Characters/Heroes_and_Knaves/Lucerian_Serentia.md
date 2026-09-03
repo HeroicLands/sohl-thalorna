@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lucerian Serentia
 tags:
   - tamzir-crew
   - tradesfolk
@@ -9,7 +7,6 @@ name:
   title: ""
   given: Lucerian
   clan: Serentia
-  aliases: []
 id: 8L6LLi5wLRiZqr36
 folder: UFBfgKZUF0bAE7gG
 shortcode: lucernsrnt

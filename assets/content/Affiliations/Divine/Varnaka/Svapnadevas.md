@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Svapnadēvas
-  - Svapnadevas
-  - The Dreaming Host
 id: At9SFD7CEXIITVW1
 tags:
   - varnaka

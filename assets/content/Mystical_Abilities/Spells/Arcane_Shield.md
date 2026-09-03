@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arcane Shield
 tags: []
 name:
   full: Arcane Shield

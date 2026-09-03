@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaljékor
 id: pHo7smFVBkLA9NEb
 tags:
   - port

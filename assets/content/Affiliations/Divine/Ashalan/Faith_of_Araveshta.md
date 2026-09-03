@@ -103,7 +103,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Árávēštä
-  aliases: []
 shortcode: aravesta
 alias: Árávēštä, The Golden Giver
 folder: 7so6UiPt445oIHWs

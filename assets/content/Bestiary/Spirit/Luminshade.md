@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Luminshade
 tags:
   - spirit
 name:
   full: Luminshade
-  aliases: []
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."
 id: V51NYCYdbU2A7tse
 img: icons/game-icons/lorc/spectre.svg

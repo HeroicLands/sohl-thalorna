@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dûn Ashir
-  - Dun Ashir
 id: OEZyUT8hxlPoOJhD
 tags:
   - oasis
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Dûn Ashir
-  aliases: []
 shortcode: dunashir
 folder: fHLmguBwgTuZfGJ9
 ---

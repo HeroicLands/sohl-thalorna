@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Therádon
 id: vRDisPmvFKBKEq7e
 tags:
   - city-state
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Therádon
-  aliases: []
 shortcode: theradon2
 ---
 

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ravenmoor
 id: mwtTAWXEPhrvwxHS
 tags:
   - settlement
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ravenmoor
-  aliases: []
 shortcode: ravenmoor
 folder: ZbE1NQo3ApZ26xon
 ---

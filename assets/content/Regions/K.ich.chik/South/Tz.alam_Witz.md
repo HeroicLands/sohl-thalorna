@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz’alam Witz
 id: 8WCUTA2ntRJRWHRO
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Tz’alam Witz
-  aliases: []
 shortcode: tzalamwitz
 folder: 13VGFYcT7sKTGll7
 ---

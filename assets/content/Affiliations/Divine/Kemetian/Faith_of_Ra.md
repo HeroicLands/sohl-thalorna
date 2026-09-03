@@ -106,7 +106,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Rā
-  aliases: []
 shortcode: ra
 banner: banners/ta-kheperu-banner.webp
 alias: Rā, The Solar Flame

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Leofrun Chilwell
 tags:
   - draft
   - common-folk

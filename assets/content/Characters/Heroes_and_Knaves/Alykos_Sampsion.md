@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Alýkos Sampsiôn
-  - Alýkos Sampsiôn
-  - Alykos Sampsion
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Alýkos
   clan: Sampsiôn
   home: Selímara
-  aliases: []
 id: aTwfQByXFdJ0R4QM
 folder: b81DHx3S7C9ep13E
 shortcode: alykosmpsn

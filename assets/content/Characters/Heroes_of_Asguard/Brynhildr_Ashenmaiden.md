@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brynhildr Ashenmaiden
 tags:
   - paragon
   - heroes-of-asguard

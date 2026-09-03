@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dárya Náredh
-  - Darya Naredh
 tags:
   - draft
   - guilded

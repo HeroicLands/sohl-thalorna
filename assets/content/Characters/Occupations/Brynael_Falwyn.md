@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brýnael Fálwyn
-  - Brynael Falwyn
 tags:
   - draft
   - tradesfolk

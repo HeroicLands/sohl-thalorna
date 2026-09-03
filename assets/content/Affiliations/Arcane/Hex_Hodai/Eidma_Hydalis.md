@@ -93,7 +93,6 @@ shortcode: hydalis
 img: images/affiliation/hydalis.webp
 name:
   full: Hydälis
-  aliases: []
 sohl:
   archetype: null
 thalorna:

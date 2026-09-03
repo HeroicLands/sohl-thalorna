@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Déraen Kálmereth
-  - Deraen Kalmereth
 tags:
   - draft
   - common-folk

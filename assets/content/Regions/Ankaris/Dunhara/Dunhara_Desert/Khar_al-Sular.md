@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khar al-Sular
 id: NcCep277z8Lq2woF
 tags:
   - oasis
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Khar al-Sular
-  aliases: []
 shortcode: kharalsulr
 folder: fHLmguBwgTuZfGJ9
 ---

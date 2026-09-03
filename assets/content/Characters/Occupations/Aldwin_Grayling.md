@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aldwin Grayling
 tags:
   - draft
   - common-folk

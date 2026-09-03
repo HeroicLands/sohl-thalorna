@@ -1,11 +1,7 @@
 ---
-aliases:
-  - Gróa's Campaign
-  - Groa's Campaign
 id: sbicjzDXh0d6Y4DN
 name:
   full: Gróa's Campaign
-  aliases: []
 shortcode: groascmpgn
 type: scenario
 subType: adventure

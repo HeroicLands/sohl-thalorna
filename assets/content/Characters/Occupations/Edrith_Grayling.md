@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edrith Grayling
 tags:
   - draft
   - tradesfolk

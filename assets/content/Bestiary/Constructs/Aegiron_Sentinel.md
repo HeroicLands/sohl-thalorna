@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Aegiron Sentinel
 tags:
   - construct
 name:
   full: Aegiron Sentinel
-  aliases: []
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
 id: 0XIdKN3uKTf5qx8n
 img: icons/game-icons/delapouite/golem-head.svg

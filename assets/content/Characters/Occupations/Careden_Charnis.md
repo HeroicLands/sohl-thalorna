@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Cáreden Chárnis
-  - Careden Charnis
 tags:
   - draft
   - clergy

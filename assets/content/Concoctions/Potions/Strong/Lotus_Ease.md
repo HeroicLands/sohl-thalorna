@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: Lotus Ease
-  aliases: []
 description: "Deep amber golden liquid; brings profound peace and calm."
 id: SsUpnNHOJ4qMzlFj
 img: icons/potion.svg

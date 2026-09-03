@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Celestial Pantheon
 id: ocg6hDA9966VDQNB
 type: lore
 subType: theology
 name:
   full: Celestial Pantheon
-  aliases: []
 shortcode: clstlpnthn
 folder: hBkQzhJeB05EwziN
 ---

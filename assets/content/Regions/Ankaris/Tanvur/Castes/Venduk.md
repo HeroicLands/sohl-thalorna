@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Vëndük
-  - Venduk
 id: nLx2MYaX3wPItzq1
 type: lore
 subType: culture
 name:
   full: Vëndük
-  aliases: []
 shortcode: venduk
 folder: ZUKWHCnKcLAoZMdf
 ---

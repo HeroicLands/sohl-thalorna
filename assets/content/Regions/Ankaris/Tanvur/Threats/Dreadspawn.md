@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Dreadspawn
 id: IXbkAjZGvlH7go8k
 type: lore
 subType: bestiary
 name:
   full: Dreadspawn
-  aliases: []
 shortcode: dreadspawn
 folder: l3wIL8UihJI5nx6L
 ---

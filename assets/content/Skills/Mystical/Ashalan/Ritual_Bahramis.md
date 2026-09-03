@@ -12,7 +12,6 @@ id: 3P54lJeluJiff8Bt
 shortcode: bahramis
 name:
   full: "Ritual: Báhrámiš"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,5 @@
 ---
 description: "Legitimacy."
-aliases:
-  - Yütvëi
-  - Yutvei
 id: TD1EXmLxLFzampwA
 tags:
   - celestial-official
@@ -11,7 +8,6 @@ tags:
   - keeper-of-seals
 name:
   full: Yütvëi
-  aliases: []
 shortcode: yutvei
 type: affiliation
 subType: faithtradition

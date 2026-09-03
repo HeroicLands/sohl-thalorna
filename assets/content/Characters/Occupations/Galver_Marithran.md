@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gálver Maríthran
-  - Galver Marithran
 tags:
   - draft
   - tradesfolk

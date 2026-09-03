@@ -11,7 +11,6 @@ name:
   given: Hathura
   clan: Ise'fré
   home: Meru-Hotep
-  aliases: []
 id: KBtuTe3yT29FRm6C
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

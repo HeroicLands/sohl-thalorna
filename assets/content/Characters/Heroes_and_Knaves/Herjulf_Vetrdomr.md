@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Herjúlf Vetrdómr
-  - Herjúlf Vetrdómr
-  - Herjulf Vetrdomr
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Herjúlf
   clan: Vetrdómr
   home: Skarholme
-  aliases: []
 id: QN3ixBlCs7Ho4lzi
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrjlfvtrdmr

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aelissium
 id: xwXCIHtqjRX4AyUB
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Aelissium
-  aliases: []
 shortcode: aelissium
 folder: WSdLuPc7BaRqxNEt
 ---

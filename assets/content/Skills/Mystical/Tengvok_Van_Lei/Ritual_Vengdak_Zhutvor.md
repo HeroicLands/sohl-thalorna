@@ -12,7 +12,6 @@ id: hCLRzI9YNf2BpYPH
 shortcode: vngdkzhtvr
 name:
   full: "Ritual: Vëngdāk Zhütvōr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

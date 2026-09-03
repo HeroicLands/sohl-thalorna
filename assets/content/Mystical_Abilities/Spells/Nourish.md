@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Enrichment
 tags: []
 name:
   full: Nourish

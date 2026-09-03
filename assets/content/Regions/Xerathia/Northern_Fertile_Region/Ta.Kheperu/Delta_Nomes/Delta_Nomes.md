@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Delta Nomes
-  aliases: []
 shortcode: deltanomes
 subType: polity
 data:

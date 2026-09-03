@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: Veil-Smoke
-  aliases: []
 description: "Almost indigo draft; obscures vision and conceals drinker."
 id: 6o8Z3nBxiMekhBLl
 img: icons/potion.svg

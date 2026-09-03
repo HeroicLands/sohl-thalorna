@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Nárava Sūryatejamahānanda
-  - Nárava Sūryatejamahānanda
-  - Narava Suryatejamahananda
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Nárava
   clan: Sūryatejamahānanda
   home: Vyālendra
-  aliases: []
 id: knEigojy3UhmSf7X
 folder: JotxZnnXcTECeYW3
 shortcode: nrvsrytjmhnnd

@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Disembodiment
-  aliases: []
 id: q282j5zXN7yLMo70
 img: icons/psionics.svg
 shortcode: dsbd

@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Tānthëi
-  - Tanthei
 id: 1jK4MD4BEqFGPa5s
 type: lore
 subType: culture
 name:
   full: Tānthëi
-  aliases: []
 shortcode: tanthei
 folder: ZUKWHCnKcLAoZMdf
 ---

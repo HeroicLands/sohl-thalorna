@@ -12,7 +12,6 @@ shortcode: ymir
 img: images/affiliation/ymir.webp
 name:
   full: "Ritual: Ymir"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

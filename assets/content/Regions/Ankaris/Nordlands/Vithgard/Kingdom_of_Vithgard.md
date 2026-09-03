@@ -7,7 +7,6 @@ description: "Northernmost Normen kingdom of polar nights, drift-ice coasts, and
 type: affiliation
 name:
   full: Kingdom of Vithgard
-  aliases: []
 shortcode: kngdmvthgrd
 subType: polity
 data:

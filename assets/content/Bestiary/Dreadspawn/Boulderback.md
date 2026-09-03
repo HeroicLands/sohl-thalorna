@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Boulderback
 tags:
   - dreadspawn
 name:
   full: Boulderback
-  aliases: []
 description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
 id: yBv7xJJafJv5vXrt
 img: icons/game-icons/delapouite/griffin-symbol.svg

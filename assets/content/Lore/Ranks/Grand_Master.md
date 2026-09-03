@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grand Master
 tags:
   - draft
 id: 02qHnmoShbTJGRoV
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Grand Master
-  aliases: []
 shortcode: grandmasterrnk
 description: "Head of an order or a guild, elected by its chapter and bound by its rule."
 ---

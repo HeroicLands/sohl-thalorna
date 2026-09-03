@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Octowolf
 tags:
   - dreadspawn
 name:
   full: Octowolf
-  aliases: []
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
 id: BwTf4AoCnGxgkYyZ
 img: icons/game-icons/lorc/wolf-head.svg

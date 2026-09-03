@@ -7,7 +7,6 @@ description: The ancestral pantheon of the Áelendan — two primordial Powers l
 id: 1JgAmvvaQtfCGqoa
 name:
   full: The First Gods
-  aliases: []
 shortcode: firstgods
 type: affiliation
 subType: faithtradition

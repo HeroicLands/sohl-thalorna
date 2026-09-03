@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Messora
 id: Hy4hGx6mMq9Tb3Ld
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 4000
 name:
   full: Messora
-  aliases: []
 shortcode: messora
 folder: WSdLuPc7BaRqxNEt
 ---

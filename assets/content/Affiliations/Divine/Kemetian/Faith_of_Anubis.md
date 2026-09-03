@@ -103,7 +103,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Ánubís
-  aliases: []
 shortcode: anubis
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

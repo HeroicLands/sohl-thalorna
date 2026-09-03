@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Byzaris
 id: HpB2fXNRSm9qSW6y
 tags:
   - city
@@ -9,7 +7,6 @@ description: "Craft City"
 type: place
 name:
   full: Byzaris
-  aliases: []
 shortcode: byzaris
 subType: settlement
 data:

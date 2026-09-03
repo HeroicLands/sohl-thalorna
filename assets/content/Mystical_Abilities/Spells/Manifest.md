@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Conjure
 tags: []
 name:
   full: Manifest

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rodrén Jútharen
-  - Rodren Jutharen
 tags:
   - draft
   - common-folk

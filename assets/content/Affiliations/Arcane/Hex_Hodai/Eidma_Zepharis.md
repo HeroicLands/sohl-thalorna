@@ -93,7 +93,6 @@ shortcode: zepharis
 img: images/affiliation/zepharis.webp
 name:
   full: Zephäris
-  aliases: []
 sohl:
   archetype: null
 thalorna:

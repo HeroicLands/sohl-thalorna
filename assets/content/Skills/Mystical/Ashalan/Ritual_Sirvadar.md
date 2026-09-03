@@ -11,7 +11,6 @@ id: U7Qonussj1BpCASX
 shortcode: sirvadar
 name:
   full: "Ritual: Šírvádár"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

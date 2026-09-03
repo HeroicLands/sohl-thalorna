@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Llénar Cárdeth
-  - Llenar Cardeth
 tags:
   - draft
   - common-folk

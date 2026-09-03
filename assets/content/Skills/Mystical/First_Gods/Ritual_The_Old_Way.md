@@ -15,7 +15,6 @@ id: xkiYiIgUFLqiCVFb
 shortcode: theoldway
 name:
   full: "Ritual: The Old Way"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

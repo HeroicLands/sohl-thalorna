@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Magistrate
 tags:
   - draft
 id: KZrJQRzz1lnDA83e
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Magistrate
-  aliases: []
 shortcode: magistraternk
 description: "Elected or appointed to an office of state, and audited at the end of the term."
 ---

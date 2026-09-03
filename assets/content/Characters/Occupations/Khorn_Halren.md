@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Khôrn Hálren
-  - Khorn Halren
 tags:
   - draft
   - soldiery

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Grimshadow
 tags:
   - spirit
 name:
   full: Grimshadow
-  aliases: []
 description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
 id: S7yW1LZ9GR7D7Zdg
 img: icons/game-icons/lorc/spectre.svg

@@ -106,7 +106,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Thōth
-  aliases: []
 shortcode: thoth
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

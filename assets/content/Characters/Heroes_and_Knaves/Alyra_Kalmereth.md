@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ályra Kálmereth
-  - Ályra Kálmereth
-  - Alyra Kalmereth
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Ályra
   clan: Kálmereth
   home: Valdûn
-  aliases: []
 id: SJC2oE0E6CsazPKq
 folder: 4cwfdMa34UryZqPR
 shortcode: alyrklmrth

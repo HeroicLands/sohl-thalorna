@@ -13,7 +13,6 @@ data:
   population: null
 name:
   full: The Silver Forests
-  aliases: []
 shortcode: silvrfrsts
 folder: drAoDoNnFEygATeK
 ---

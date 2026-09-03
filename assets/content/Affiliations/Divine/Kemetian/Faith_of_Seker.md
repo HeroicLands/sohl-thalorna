@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Sēker
-  aliases: []
 shortcode: seker
 banner: banners/ta-kheperu-banner.webp
 alias: Sēker, Lord of Silent Passage

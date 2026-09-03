@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: "Lover's Flush"
-  aliases: []
 description: "Reddish tincture with gold flecks; grants amorous attraction."
 id: 9D5fnGsax0dVVkrJ
 img: icons/potion.svg

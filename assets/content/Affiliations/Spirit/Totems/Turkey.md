@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Turkey
-  aliases: []
 id: KkBgTFTb3CYb58uj
 img: images/mystery/turkey.webp
 shortcode: turkeyttm

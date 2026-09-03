@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Second Utterance
-  aliases: []
 description: "Clear transparent elixir; grants second chance against magical failures."
 id: TfQhH6ZIzhhvga7c
 img: icons/potion.svg

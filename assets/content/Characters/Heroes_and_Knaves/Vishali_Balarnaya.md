@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vishali Bâlarṇaya
-  - Vishali Bâlarṇaya
-  - Vishali Balarnaya
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Vishali
   clan: Bâlarṇaya
   home: Rājapur
-  aliases: []
 id: GsNhNWQb3LsLeUGY
 folder: JotxZnnXcTECeYW3
 shortcode: vishalblry

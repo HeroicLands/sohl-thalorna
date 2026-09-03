@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vīrāṅgaśikharam Dukṣana
-  - Vīrāṅgaśikharam Dukṣana
-  - Virangasikharam Duksana
 tags:
   - heroes-and-knaves
   - administration
@@ -12,7 +8,6 @@ name:
   given: Vīrāṅgaśikharam
   clan: Dukṣana
   home: Suvarṇagiri
-  aliases: []
 id: Z3xWPxIHGgXk3UmE
 folder: JotxZnnXcTECeYW3
 shortcode: vrgskhrmdkn

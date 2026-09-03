@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Philándros Kyriákos
-  - Philándros Kyriákos
-  - Philandros Kyriakos
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Philándros
   clan: Kyriákos
   home: Byzaris
-  aliases: []
 id: PRkrr4DqeA41typS
 folder: b81DHx3S7C9ep13E
 shortcode: phlndrskyrks

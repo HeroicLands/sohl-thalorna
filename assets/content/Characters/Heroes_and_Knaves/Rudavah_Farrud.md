@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Rudâvah Farrud
-  - Rudâvah Farrud
-  - Rudavah Farrud
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Rudâvah
   clan: Farrud
   home: Tahrodan
-  aliases: []
 id: Tep93UDYlLWAd6KL
 folder: V1t8DVX0wKSOCJd5
 shortcode: rudavahfrd

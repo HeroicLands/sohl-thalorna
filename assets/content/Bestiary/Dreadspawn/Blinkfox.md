@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Blinkfox
 tags:
   - dreadspawn
 name:
   full: Blinkfox
-  aliases: []
 description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
 id: yWF2AXVSDAjJXF4f
 img: icons/game-icons/caro-asercion/fox.svg

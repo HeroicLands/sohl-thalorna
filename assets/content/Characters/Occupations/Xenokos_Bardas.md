@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Xénokôs Bárdâs
-  - Xenokos Bardas
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Xénokôs
   clan: Bárdâs
   home: ""
-  aliases: []
 id: H4KPfA1lquCu2r6A
 folder: UFBfgKZUF0bAE7gG
 shortcode: xenoksbrds

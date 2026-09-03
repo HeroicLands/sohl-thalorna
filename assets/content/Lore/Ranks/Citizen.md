@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Citizen
 tags:
   - draft
 id: 17GsUFKeImxowuTu
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Citizen
-  aliases: []
 shortcode: citizenrnk
 description: "Of the citizen body, voting in its assembly and serving in its levy."
 ---

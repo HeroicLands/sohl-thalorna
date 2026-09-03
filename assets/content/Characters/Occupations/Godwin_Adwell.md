@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Godwin Adwell
 tags:
   - draft
   - common-folk

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Bandits of Céravel Vale
-  - The Bandits of Ceravel Vale
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
@@ -22,7 +19,6 @@ id: UMwapuEoRc7pnmZT
 shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale
-  aliases: []
 folder: 9TmLIkGXGHMtFxzy
 ---
 

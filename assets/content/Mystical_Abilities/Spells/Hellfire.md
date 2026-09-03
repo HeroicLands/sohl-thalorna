@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Doom Flame
 tags: []
 name:
   full: Hellfire

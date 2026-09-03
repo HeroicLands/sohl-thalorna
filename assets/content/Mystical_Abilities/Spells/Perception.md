@@ -1,6 +1,4 @@
 ---
-aliases:
-  - View
 tags: []
 name:
   full: Perception

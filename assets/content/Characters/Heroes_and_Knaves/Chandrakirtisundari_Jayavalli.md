@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Chandrakīrtisundarī Jayavalli
-  - Chandrakīrtisundarī Jayavalli
-  - Chandrakirtisundari Jayavalli
 tags:
   - heroes-and-knaves
   - underworld
@@ -12,7 +8,6 @@ name:
   given: Chandrakīrtisundarī
   clan: Jayavalli
   home: Vyālendra
-  aliases: []
 id: mJfvEsyCUxVmCzNJ
 folder: JotxZnnXcTECeYW3
 shortcode: chndrkrtsndrjyvl

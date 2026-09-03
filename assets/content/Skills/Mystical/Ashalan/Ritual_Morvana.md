@@ -11,7 +11,6 @@ id: CRj9cFABChyUtlJl
 shortcode: morvahna
 name:
   full: "Ritual: Mórváhñä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Steel
 tags: []
 name:
   full: Ironbind

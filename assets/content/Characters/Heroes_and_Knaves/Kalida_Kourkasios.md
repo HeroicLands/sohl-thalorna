@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kalída Kourkásios
-  - Kalída Kourkásios
-  - Kalida Kourkasios
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Kalída
   clan: Kourkásios
   home: Chrysamar
-  aliases: []
 id: Sx0wO6RzgXlBRE42
 folder: b81DHx3S7C9ep13E
 shortcode: kalidkrkss

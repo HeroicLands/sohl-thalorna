@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Thornback Raptor
 tags:
   - animal
 name:
   full: Thornback Raptor
-  aliases: []
 description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates ambushes with psychological terror through jungles, forests, and ruins."
 id: 9nYhkvI252ewBJW3
 img: icons/game-icons/lorc/dinosaur-rex.svg

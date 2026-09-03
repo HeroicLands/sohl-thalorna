@@ -7,7 +7,6 @@ description: "Sparsely-peopled northern Normen kingdom of deep forests and tundr
 type: affiliation
 name:
   full: Kingdom of Targud
-  aliases: []
 shortcode: kingdmtrgd
 subType: polity
 data:

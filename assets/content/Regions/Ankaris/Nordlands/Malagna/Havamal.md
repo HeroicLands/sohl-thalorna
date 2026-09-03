@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hávamál
-  - Havamal
 id: rej65SfOdHxrfzld
 tags:
   - town
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Hávamál
-  aliases: []
 shortcode: havamal
 folder: 3JdV0mOrMUISPmRz
 ---

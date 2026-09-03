@@ -11,7 +11,6 @@ id: DXJgxzKWL7gWh3Zi
 shortcode: angaros
 name:
   full: "Ritual: Ángáróš"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

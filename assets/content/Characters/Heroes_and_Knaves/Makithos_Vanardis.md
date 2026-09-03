@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Màkîthos Vânardis
-  - Màkîthos Vânardis
-  - Makithos Vanardis
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Màkîthos
   clan: Vânardis
   home: Valdosta
-  aliases: []
 id: XPJffxceSnvQmDsI
 folder: UFBfgKZUF0bAE7gG
 shortcode: mkthsvnrds

@@ -13,7 +13,6 @@ id: sfGrabEsJPuY6P6t
 shortcode: meghanatha
 name:
   full: "Ritual: Meghanātha"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

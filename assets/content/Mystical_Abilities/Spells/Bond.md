@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Link
 tags: []
 name:
   full: Bond

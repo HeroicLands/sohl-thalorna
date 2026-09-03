@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Revealing Touch
-  - Unveiling
 tags: []
 name:
   full: Revealing Touch

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - River
 tags: []
 name:
   full: Streamflow

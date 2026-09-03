@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tàbîsa Mârinadês
-  - Tabisa Marinades
 tags:
   - draft
   - soldiery

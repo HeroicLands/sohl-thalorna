@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Urbs Aquilion
-  - Inner City
-  - Eagle City
 tags:
   - settlement
   - vylaria

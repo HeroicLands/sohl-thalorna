@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelagora
 id: zbCX6Tb8noi8LFDF
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Pelagora
-  aliases: []
 shortcode: pelagora2
 ---
 

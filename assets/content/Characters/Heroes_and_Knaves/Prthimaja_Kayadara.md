@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Prthîmâja Kâyadara
-  - Prthîmâja Kâyadara
-  - Prthimaja Kayadara
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Prthîmâja
   clan: Kâyadara
   home: Chandrapur
-  aliases: []
 id: IGbqFKlLlHrrWLBA
 folder: JotxZnnXcTECeYW3
 shortcode: prthmjkydr

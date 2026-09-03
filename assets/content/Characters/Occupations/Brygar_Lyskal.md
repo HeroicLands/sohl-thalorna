@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brýgar Lýskal
-  - Brygar Lyskal
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Brýgar
   clan: Lýskal
   home: ""
-  aliases: []
 id: hVLXnGBB19sMLT6m
 folder: J9R0fnGUTBY5z4pd
 shortcode: brygrlyskl

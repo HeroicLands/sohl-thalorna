@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vólyra Brýlond
-  - Volyra Brylond
 tags:
   - draft
   - common-folk

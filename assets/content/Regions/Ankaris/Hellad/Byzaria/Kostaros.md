@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kostaros
 id: TsDj0UNe3SEKVrTw
 tags:
   - port
@@ -9,7 +7,6 @@ description: "Port Town"
 type: place
 name:
   full: Kostaros
-  aliases: []
 shortcode: kostaros
 subType: settlement
 data:

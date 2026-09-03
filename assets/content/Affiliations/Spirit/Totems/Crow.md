@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Crow
-  aliases: []
 id: XHwwkctPOTYwybx5
 img: images/mystery/crow.webp
 shortcode: crowttm

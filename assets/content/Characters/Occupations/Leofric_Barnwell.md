@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Leofric Barnwell
 tags:
   - draft
   - tradesfolk

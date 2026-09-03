@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Pearl Ward
-  aliases: []
 description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."
 id: RLBFOJy4DDLdC7dE
 img: icons/potion.svg

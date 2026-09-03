@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Opsar
-  aliases: []
 description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
 id: 7MjeFB12JeEiQEbU
 img: systems/sohl/assets/icons/other/astrology.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Converse
 tags: []
 name:
   full: Communion

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Alvárik Árenthal
-  - Alvarik Arenthal
 tags:
   - draft
   - common-folk

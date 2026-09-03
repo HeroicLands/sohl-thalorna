@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eshe wa Magara
 tags:
   - heroes-and-knaves
   - hero

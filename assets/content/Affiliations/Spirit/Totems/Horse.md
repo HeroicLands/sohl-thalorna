@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Horse
-  aliases: []
 id: UZVuHQMOLIbrSvYS
 img: images/mystery/horse.webp
 shortcode: horsettm

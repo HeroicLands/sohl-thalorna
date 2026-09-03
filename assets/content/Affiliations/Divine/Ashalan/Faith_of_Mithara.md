@@ -103,7 +103,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Míthárä
-  aliases: []
 shortcode: mithara
 alias: Míthárä, The World's First Light
 folder: 7so6UiPt445oIHWs

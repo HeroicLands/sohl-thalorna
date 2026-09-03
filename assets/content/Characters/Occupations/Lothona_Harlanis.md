@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lôthônâ Hârlânis
-  - Lothona Harlanis
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Lôthônâ
   clan: Hârlânis
   home: ""
-  aliases: []
 id: PeOaAEAw3CjkGOM5
 folder: UFBfgKZUF0bAE7gG
 shortcode: lothnhrlns

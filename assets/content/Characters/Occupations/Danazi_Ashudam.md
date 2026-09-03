@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dânâzi Ashûdam
-  - Danazi Ashudam
 tags:
   - draft
   - soldiery

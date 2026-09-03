@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Detect
 tags: []
 name:
   full: Seek

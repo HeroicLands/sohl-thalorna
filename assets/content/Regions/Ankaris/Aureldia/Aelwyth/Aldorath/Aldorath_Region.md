@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Aldorath Region
-  - Aldorath
 tags:
   - draft
 id: e8VVhq3X3YkoXwiS

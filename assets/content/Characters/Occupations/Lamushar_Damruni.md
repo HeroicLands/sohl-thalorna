@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lamûshar Damrûnî
-  - Lamushar Damruni
 tags:
   - draft
   - administration

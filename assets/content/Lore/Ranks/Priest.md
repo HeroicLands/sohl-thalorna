@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Priest
 tags:
   - draft
 id: fYD90NQDaH4HLTB3
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Priest
-  aliases: []
 shortcode: priestrnk
 description: "Ordained to the rites and empowered to perform them in the tradition's name."
 ---

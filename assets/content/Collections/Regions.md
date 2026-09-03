@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Regions
 id: jbVHqLXPUnCyns3h
 name:
   full: Regions
-  aliases: []
 type: doc
 subType: collection
 shortcode: regions

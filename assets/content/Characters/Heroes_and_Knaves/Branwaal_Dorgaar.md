@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brànwâal Dôrgaar
 tags:
   - hero
   - silent-talon
@@ -10,7 +8,6 @@ name:
   title: Captain
   given: Brànwâal
   clan: Dôrgaar
-  aliases: []
 id: WSk96sYAqyEqOLpg
 folder: J9R0fnGUTBY5z4pd
 shortcode: branwldrgr

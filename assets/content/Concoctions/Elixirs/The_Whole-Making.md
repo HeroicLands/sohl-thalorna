@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Whole-Making
-  aliases: []
 description: "Shimmering silvery liquid; repairs damage to broken objects."
 id: s5yczTmecThiW44P
 img: icons/potion.svg

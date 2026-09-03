@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pocket
 tags: []
 name:
   full: Haven

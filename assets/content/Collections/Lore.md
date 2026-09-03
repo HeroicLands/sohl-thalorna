@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Lore
 id: 1fHs8nlTNP5mbbXv
 name:
   full: Lore
-  aliases: []
 type: doc
 subType: collection
 shortcode: lore

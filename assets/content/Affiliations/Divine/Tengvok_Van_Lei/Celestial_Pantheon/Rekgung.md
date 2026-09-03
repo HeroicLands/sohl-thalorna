@@ -1,8 +1,5 @@
 ---
 description: "Storms."
-aliases:
-  - Rëkgüng
-  - Rekgung
 id: Rcy18TVK0IWJnRSv
 tags:
   - celestial-official
@@ -11,7 +8,6 @@ tags:
   - minister-of-weather
 name:
   full: Rëkgüng
-  aliases: []
 shortcode: rekgung
 type: affiliation
 subType: faithtradition

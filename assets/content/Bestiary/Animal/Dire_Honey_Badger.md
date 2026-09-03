@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Dire Honey Badger
 tags:
   - animal
 name:
   full: Dire Honey Badger
-  aliases: []
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."
 id: yfdwPLNfDfwLHV8b
 img: icons/game-icons/caro-asercion/badger.svg

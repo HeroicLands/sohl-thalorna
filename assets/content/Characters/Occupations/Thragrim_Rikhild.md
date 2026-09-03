@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thrágrim Ríkhild
-  - Thragrim Rikhild
 tags:
   - draft
   - tradesfolk

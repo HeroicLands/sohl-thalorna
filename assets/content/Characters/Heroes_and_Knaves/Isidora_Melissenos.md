@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Isidôra Melissenós
-  - Isidôra Melissenós
-  - Isidora Melissenos
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Isidôra
   clan: Melissenós
   home: Thálassos
-  aliases: []
 id: PpxoHMQ7KrREO9Z0
 folder: b81DHx3S7C9ep13E
 shortcode: isidrmlsns

@@ -103,7 +103,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Zúráthrä
-  aliases: []
 shortcode: zurathra
 alias: Zúráthrä, Mother of the Oasis
 folder: 7so6UiPt445oIHWs

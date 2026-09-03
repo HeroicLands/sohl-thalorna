@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Liquid Feast
-  aliases: []
 description: "Thick brown draft; sustains days of active labor and travel."
 id: jMdpyv7dMnWrLmwJ
 img: icons/potion.svg

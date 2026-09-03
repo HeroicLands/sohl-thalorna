@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: "Oracle's Vapor"
-  aliases: []
 description: "Writhing near-black liquid; grants prophetic visions and future sight."
 id: J686wCu7Irv9uza5
 img: icons/potion.svg

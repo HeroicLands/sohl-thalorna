@@ -96,7 +96,6 @@ folder: bVhz4i3fwwT0NDSW
 id: kYpjFg4FlWJGOYhc
 name:
   full: The Tamzîr
-  aliases: []
 shortcode: thetamzir
 banner: banners/tamzir-banner.webp
 ---

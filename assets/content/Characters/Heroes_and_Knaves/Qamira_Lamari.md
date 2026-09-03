@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Qâmira Lamari
-  - Qâmira Lamari
-  - Qamira Lamari
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Qâmira
   clan: Lamari
   home: Qasirah
-  aliases: []
 id: id1VYkFj9m65hNCu
 folder: mtJ4TzKdySHbE2OM
 shortcode: qamiralamr

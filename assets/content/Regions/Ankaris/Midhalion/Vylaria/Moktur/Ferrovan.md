@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ferrovan
 id: Mk8aRx2vKp7Tb4Ln
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 7000
 name:
   full: Ferrovan
-  aliases: []
 shortcode: ferrovan
 folder: WSdLuPc7BaRqxNEt
 ---

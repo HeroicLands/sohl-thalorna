@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dómeth Maríthran
-  - Dometh Marithran
 tags:
   - draft
   - guilded

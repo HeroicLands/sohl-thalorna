@@ -105,7 +105,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Khóršádrä
-  aliases: []
 shortcode: korsadra
 alias: Khóršádrä, Bearer of Eternal Light
 folder: 7so6UiPt445oIHWs

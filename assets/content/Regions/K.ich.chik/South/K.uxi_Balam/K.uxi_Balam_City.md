@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'uxi Balam
 id: MMURsVSWP10cDwXu
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: K'uxi Balam
-  aliases: []
 shortcode: kuxibalam2
 ---
 

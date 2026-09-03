@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vessel
 tags: []
 name:
   full: Contain

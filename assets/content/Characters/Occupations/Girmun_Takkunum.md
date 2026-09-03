@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Girmûn Takkûnûm
-  - Girmun Takkunum
 tags:
   - draft
   - guilded

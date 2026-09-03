@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Vylari Language
-  aliases: []
 description: "The imperial tongue of the Vylarian court and the lingua franca of trade across Mídhalión."
 id: gyq4vbxm8DEzKQGo
 img: icons/speaking.svg

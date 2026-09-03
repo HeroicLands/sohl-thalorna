@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Reversed Gift
-  aliases: []
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."
 id: pLiBpPeUJ4AnLwV6
 img: icons/potion.svg

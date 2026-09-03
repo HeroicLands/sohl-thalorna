@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Harpy
 tags:
   - mythic
   - image-needed
 name:
   full: Harpy
-  aliases: []
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."
 id: PE8La0dJVHwnZDWg
 img: icons/game-icons/lorc/harpy.svg

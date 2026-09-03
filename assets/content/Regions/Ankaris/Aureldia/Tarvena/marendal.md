@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maréndal
 id: NgdpgK19TbXSBuwE
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Maréndal
-  aliases: []
 shortcode: marendal
 ---
 

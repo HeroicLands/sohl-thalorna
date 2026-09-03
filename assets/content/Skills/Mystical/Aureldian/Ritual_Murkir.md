@@ -13,7 +13,6 @@ shortcode: murkir
 img: images/affiliation/murkir.webp
 name:
   full: "Ritual: Murkir"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Sky Serpent
 tags:
   - animal
 name:
   full: Sky Serpent
-  aliases: []
 description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
 id: IufOc6e3iYJZ46GV
 img: icons/game-icons/lorc/harpy.svg

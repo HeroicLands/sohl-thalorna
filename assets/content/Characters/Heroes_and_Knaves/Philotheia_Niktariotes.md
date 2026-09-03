@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Philothêia Niktariôtês
-  - Philothêia Niktariôtês
-  - Philotheia Niktariotes
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Philothêia
   clan: Niktariôtês
   home: Thálassos
-  aliases: []
 id: 6EZ1uh00ViHvMf0E
 folder: b81DHx3S7C9ep13E
 shortcode: phlthnktrts

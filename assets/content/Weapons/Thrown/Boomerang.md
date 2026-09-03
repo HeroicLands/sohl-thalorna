@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Boomerang
 tags: []
 name:
   full: Boomerang
-  aliases: []
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
 id: pX3qKPrPcgPMjsX5
 img: icons/boomerang.svg

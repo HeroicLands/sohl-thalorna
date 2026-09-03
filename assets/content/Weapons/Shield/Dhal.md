@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Dhal
 tags: []
 name:
   full: Dhal
-  aliases: []
 description: "Brass-bossed circular shield; Damascus prestige and practical deflection."
 id: T1SviWWVvq2RfB5V
 img: icons/round-shield.svg

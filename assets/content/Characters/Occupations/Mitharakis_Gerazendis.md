@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mitharâkîs Gêrazêndis
-  - Mitharakis Gerazendis
 tags:
   - draft
   - tradesfolk

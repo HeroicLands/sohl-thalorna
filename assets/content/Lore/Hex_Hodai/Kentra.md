@@ -94,7 +94,6 @@ img: images/affiliation/kentra.webp
 shortcode: kentra
 name:
   full: Kentra
-  aliases: []
 school: center
 opposition: none
 adjacent: all

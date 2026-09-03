@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rýlden Brânwyld
-  - Rylden Branwyld
 tags:
   - draft
   - administration

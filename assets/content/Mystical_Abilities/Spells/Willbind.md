@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Resolve
 tags: []
 name:
   full: Willbind

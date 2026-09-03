@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Pauper's Wind"
-  aliases: []
 description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
 id: 2iHERbCpZn2DzEUS
 img: icons/potion.svg

@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Dunhari Language
-  aliases: []
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
 id: fPaFdi3025hUxh1B
 img: icons/speaking.svg

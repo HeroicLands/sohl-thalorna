@@ -14,7 +14,6 @@ id: AOAX8HsKj3dBH4SA
 shortcode: nushot
 name:
   full: "Ritual: Nüshöt"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zahîra Tâbîrês
-  - Zahira Tabires
 tags:
   - draft
   - tradesfolk

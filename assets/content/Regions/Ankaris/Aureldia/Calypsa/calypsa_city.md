@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calypsa
 id: pHT2BUJrOrXaugNc
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Calypsa
-  aliases: []
 shortcode: calypsa2
 ---
 

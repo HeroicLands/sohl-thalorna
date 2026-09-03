@@ -14,7 +14,6 @@ id: n5aHzGXhwIpKOn73
 shortcode: hurnzhuk
 name:
   full: "Ritual: Hürnzhük"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

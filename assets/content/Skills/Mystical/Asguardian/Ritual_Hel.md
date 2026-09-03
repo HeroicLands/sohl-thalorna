@@ -12,7 +12,6 @@ shortcode: hel
 img: images/affiliation/hel.webp
 name:
   full: "Ritual: Hél"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

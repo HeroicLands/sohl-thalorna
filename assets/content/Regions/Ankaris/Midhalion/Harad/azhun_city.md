@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Azhûn
 id: glFCD2sGQEKQGn6c
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Azhûn
-  aliases: []
 shortcode: azhun2
 ---
 

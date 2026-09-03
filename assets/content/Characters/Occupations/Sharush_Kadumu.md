@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shârûsh Kadûmû
-  - Sharush Kadumu
 tags:
   - draft
   - common-folk

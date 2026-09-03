@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Konstántinos Polytimós
-  - Konstántinos Polytimós
-  - Konstantinos Polytimos
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Konstántinos
   clan: Polytimós
   home: Denizara
-  aliases: []
 id: mi6F6AVRK3KcbqFK
 folder: b81DHx3S7C9ep13E
 shortcode: knstntnsplytms

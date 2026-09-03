@@ -11,7 +11,6 @@ name:
   given: Raiya
   clan: Waset'neb
   home: Wasetkara
-  aliases: []
 id: Avs9wmHM1ZoiryOC
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

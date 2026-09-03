@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Edrígar Sundrýth
-  - Edrigar Sundryth
 tags:
   - draft
   - common-folk

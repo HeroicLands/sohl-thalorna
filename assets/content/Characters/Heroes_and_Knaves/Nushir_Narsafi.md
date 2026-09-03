@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Nushir Narsâfî
-  - Nushir Narsâfî
-  - Nushir Narsafi
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Nushir
   clan: Narsâfî
   home: Zargandûr
-  aliases: []
 id: XujRU8bZpk8v4Y3f
 folder: heI5Ky6Kqmb61L6c
 shortcode: nushirnrsf

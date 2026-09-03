@@ -11,7 +11,6 @@ name:
   given: Pasher
   clan: Het'remet
   home: Wasetkara
-  aliases: []
 id: utOmhiD2rcjI7K2Y
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thornhaven
 id: yWYG8HA84JUmJ0Xv
 tags:
   - settlement
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Thornhaven
-  aliases: []
 shortcode: thornhaven
 folder: mCG1TPvjwrV23csZ
 ---

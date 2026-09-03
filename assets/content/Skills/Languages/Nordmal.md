@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Nordmal Language
-  aliases: []
 description: "The hardy, runic-scripted tongue of the five Normen kingdoms, bending its vowels with every fjord."
 id: TRbo0kPeCLEgw5y8
 img: icons/speaking.svg

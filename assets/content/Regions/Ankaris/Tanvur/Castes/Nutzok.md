@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Nützōk
-  - Nutzok
 id: nhYIrM34LxAifLFJ
 type: lore
 subType: culture
 name:
   full: Nützōk
-  aliases: []
 shortcode: nutzok
 folder: ZUKWHCnKcLAoZMdf
 ---

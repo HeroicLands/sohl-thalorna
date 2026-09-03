@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Whisper
 tags: []
 name:
   full: Murmur

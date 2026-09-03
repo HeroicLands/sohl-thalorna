@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: Cinder Kiss
-  aliases: []
 description: "Deep crimson concentrated preparation; ignites passion and desire."
 id: nNZur2IAN8REAxbO
 img: icons/potion.svg

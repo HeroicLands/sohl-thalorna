@@ -12,7 +12,6 @@ name:
   given: Nakhtar
   clan: Amun'Râshet
   home: Wasetkara
-  aliases: []
 id: VAuokF0eOIzfBP52
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

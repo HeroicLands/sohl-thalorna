@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Keeper's Vow"
-  aliases: []
 description: "Pearl-like liquid; fortifies objects against arcane intrusion."
 id: b1VG38CCASqYPjCm
 img: icons/potion.svg

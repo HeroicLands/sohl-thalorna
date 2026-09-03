@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vyālendra
 id: Df8fe3ZzpuxYWWbE
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Vyālendra
-  aliases: []
 shortcode: vyalendra3
 ---
 

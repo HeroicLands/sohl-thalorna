@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha' Xaman
 id: n24XoHaQViCi0IYu
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ha' Xaman
-  aliases: []
 shortcode: haxaman2
 ---
 

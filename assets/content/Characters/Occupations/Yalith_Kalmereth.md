@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Yálith Kálmereth
-  - Yalith Kalmereth
 tags:
   - draft
   - tradesfolk

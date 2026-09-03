@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Regenesis
 tags: []
 name:
   full: Renewal

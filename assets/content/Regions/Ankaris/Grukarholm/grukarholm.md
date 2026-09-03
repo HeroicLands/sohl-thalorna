@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grukarholm
 id: kRq6vgWmxMG5MZ4V
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Grukarholm
-  aliases: []
 shortcode: grukarholm2
 ---
 

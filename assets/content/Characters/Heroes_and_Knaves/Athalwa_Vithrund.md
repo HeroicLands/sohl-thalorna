@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Athalwa Vithrúnd
-  - Athalwa Vithrúnd
-  - Athalwa Vithrund
 tags:
   - heroes-and-knaves
   - administration
@@ -12,7 +8,6 @@ name:
   given: Athalwa
   clan: Vithrúnd
   home: Eichengrund
-  aliases: []
 id: 8ES6ZaacpcZo5fJc
 folder: Nu7AgLZEmR26u2pk
 shortcode: athlwvthrnd

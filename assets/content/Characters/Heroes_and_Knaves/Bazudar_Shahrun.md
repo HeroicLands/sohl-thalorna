@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bazûdar Shahrûn
-  - Bazûdar Shahrûn
-  - Bazudar Shahrun
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Bazûdar
   clan: Shahrûn
   home: Oasis of Shirvan
-  aliases: []
 id: wjLn1VqrmO3CHSZU
 folder: heI5Ky6Kqmb61L6c
 shortcode: bazdrshhrn

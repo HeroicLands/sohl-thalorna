@@ -11,7 +11,6 @@ id: Vx0cYWArc0EIPhtK
 shortcode: mithara
 name:
   full: "Ritual: Míthárä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

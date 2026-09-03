@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Voice
 tags: []
 name:
   full: Audible

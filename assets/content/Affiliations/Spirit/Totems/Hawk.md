@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Hawk
-  aliases: []
 id: 2Ed7btYI6bIBYi7P
 img: images/mystery/hawk.webp
 shortcode: hawkttm

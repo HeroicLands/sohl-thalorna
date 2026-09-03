@@ -1,7 +1,5 @@
 ---
 description: "Fire (destructive aspect)."
-aliases:
-  - The Black Flame
 id: CCdyLVFM6CXgmdFx
 tags:
   - aureldian

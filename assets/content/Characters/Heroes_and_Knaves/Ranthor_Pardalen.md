@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ránthor Párdalen
-  - Ránthor Párdalen
-  - Ranthor Pardalen
 tags:
   - heroes-and-knaves
   - clergy
@@ -12,7 +8,6 @@ name:
   given: Ránthor
   clan: Párdalen
   home: Valdûn
-  aliases: []
 id: 8VoyUIKJpLklwgC4
 folder: 4cwfdMa34UryZqPR
 shortcode: rnthrprdln

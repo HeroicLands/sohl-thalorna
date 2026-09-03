@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Béravel
 tags:
   - city
 description: "City"
@@ -15,7 +13,6 @@ data:
 id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel
-  aliases: []
 shortcode: beravel
 folder: drAoDoNnFEygATeK
 ---

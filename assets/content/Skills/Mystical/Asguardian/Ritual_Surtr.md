@@ -12,7 +12,6 @@ shortcode: surtr
 img: images/affiliation/surtr.webp
 name:
   full: "Ritual: Súrtr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

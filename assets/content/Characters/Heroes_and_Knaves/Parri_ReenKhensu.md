@@ -12,7 +12,6 @@ name:
   given: Par'ri
   clan: Re'en'Khensu
   home: Wasetkara
-  aliases: []
 id: 2f0ZMAmYp9RXcMX4
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

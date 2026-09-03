@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Okháris Region
-  - Okharis Region
 tags:
   - region
 description: The southern margin of Xerathia's fertile belt, where the irrigated country gives way to semi-arid savanna — pastoral land anchored by the three temple-cities of Okháris.
 name:
   full: Okháris Region
-  aliases: []
 id: rD2cSVqLcGUxWBMV
 shortcode: okharisrgn
 img: ""

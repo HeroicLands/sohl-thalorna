@@ -11,7 +11,6 @@ name:
   given: Khatah
   clan: Mey'khari
   home: Ankh-Setûn
-  aliases: []
 id: 0qJU1wsLVPDSxsZm
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

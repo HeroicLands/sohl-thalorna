@@ -15,7 +15,6 @@ id: xI4DUckihShylSzh
 shortcode: hapi
 name:
   full: "Ritual: Hâpi"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

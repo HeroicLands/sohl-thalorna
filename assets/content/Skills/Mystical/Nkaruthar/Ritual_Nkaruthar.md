@@ -14,7 +14,6 @@ id: Bdo25Hi80xYhGCkL
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

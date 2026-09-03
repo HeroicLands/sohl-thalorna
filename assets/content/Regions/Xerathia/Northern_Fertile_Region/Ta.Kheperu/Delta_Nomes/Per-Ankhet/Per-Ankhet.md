@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Per-Ankhet
 id: MmnxJgu8HPv4ZFm2
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: 120000
 name:
   full: Per-Ankhet
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perankhet
 folder: hY8ShSjfUm9QnlGu

@@ -2,8 +2,6 @@
 tags: []
 name:
   full: Flameguard
-  aliases:
-    - Flameguard
 description: "Surrounds self in protective flame; harms those who strike caster."
 id: gu0o4irDAgVAQ5JP
 img: icons/fire.svg

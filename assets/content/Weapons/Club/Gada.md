@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Gada
 tags: []
 name:
   full: Gada
-  aliases: []
 description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 id: Jfu4nHF79lOF9R7g
 img: icons/club.svg

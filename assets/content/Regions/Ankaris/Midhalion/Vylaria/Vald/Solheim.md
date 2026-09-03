@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solheim
 id: utl4pebzzsi9nAI4
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 3000
 name:
   full: Solheim
-  aliases: []
 shortcode: solheim
 folder: WSdLuPc7BaRqxNEt
 ---

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quill
 tags: []
 name:
   full: Scribe

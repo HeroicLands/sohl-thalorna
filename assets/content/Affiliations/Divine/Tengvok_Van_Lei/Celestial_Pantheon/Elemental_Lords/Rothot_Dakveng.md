@@ -1,8 +1,5 @@
 ---
 description: "Wood."
-aliases:
-  - Röthöt Dākvëng
-  - Rothot Dakveng
 id: Q66XBdzS3rtj7joX
 tags:
   - celestial-order
@@ -10,7 +7,6 @@ tags:
   - wood
 name:
   full: Röthöt Dākvëng
-  aliases: []
 shortcode: rothtdkvng
 type: affiliation
 subType: faithtradition

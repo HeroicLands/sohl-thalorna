@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Reveal
 tags: []
 name:
   full: Expose

@@ -13,7 +13,6 @@ shortcode: blackflame
 img: images/affiliation/blackflame.webp
 name:
   full: "Ritual: The Black Flame"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

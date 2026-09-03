@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tyrellan
 id: P01J8cKSZZ3mWGLH
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: 15000
 name:
   full: Tyrellan
-  aliases: []
 shortcode: tyrellan
 folder: WSdLuPc7BaRqxNEt
 ---

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valcèrise
-  - Valcerise
 id: UR8xNtWDuaHZdxsJ
 tags:
   - town
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Valcèrise
-  aliases: []
 shortcode: valcerise
 folder: 2s244hfP0BpQi195
 ---

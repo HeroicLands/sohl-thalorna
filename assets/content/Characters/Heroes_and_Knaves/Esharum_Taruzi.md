@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eshârum Tarûzî
 tags:
   - tamzir-crew
   - tradesfolk

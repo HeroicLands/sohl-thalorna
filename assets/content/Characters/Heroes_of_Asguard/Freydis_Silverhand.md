@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Freydis Silverhand
 tags:
   - hero
   - heroes-of-asguard

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Delânash Faradân
-  - Delanash Faradan
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Delânash
   clan: Faradân
   home: ""
-  aliases: []
 id: UkJzZsnWLtBPFX7T
 folder: kCKYObmsvraIezCd
 shortcode: delnshfrdn

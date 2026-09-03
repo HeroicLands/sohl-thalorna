@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Azéndas Dâemâtôr
-  - Azendas Daemator
 tags:
   - todo
   - draft

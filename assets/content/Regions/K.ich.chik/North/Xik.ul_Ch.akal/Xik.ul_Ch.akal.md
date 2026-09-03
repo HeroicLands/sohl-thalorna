@@ -1,13 +1,10 @@
 ---
-aliases:
-  - Xik'ul Ch'akal
 tags:
   - polity
 title: ""
 description: Lakes, rivers, and portage-routes of the Ha'ik — the Otter People — a water-centred civilization of canoe-runners and maple forests.
 name:
   full: Xik'ul Ch'akal
-  aliases: []
 id: eCY7rYlyp689dNR7
 shortcode: xikulchakl
 img: ""

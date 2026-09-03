@@ -93,7 +93,6 @@ shortcode: physera
 img: images/affiliation/physera.webp
 name:
   full: Physéra
-  aliases: []
 sohl:
   archetype: null
 thalorna:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bakhu
 id: FT70zIcHD7OGfSck
 tags:
   - town
@@ -17,7 +15,6 @@ data:
   population: 22000
 name:
   full: Bakhu
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: bakhu
 folder: G7beOi7xbLclZh5f

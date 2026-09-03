@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edmund Wolford
 tags:
   - draft
   - guilded

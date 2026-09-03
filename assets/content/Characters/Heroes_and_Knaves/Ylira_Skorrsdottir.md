@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ylíra Skorrsdottir
 tags:
   - tamzir-crew
   - soldiery
@@ -9,7 +7,6 @@ name:
   title: ""
   given: Ylíra
   clan: Íseldr
-  aliases: []
 id: Jb3E8nYXWG0bX0HW
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ylrskrsdtr

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Velysâra
-  - Velysara
 id: 2I43nt8D8FSmXEY4
 tags:
   - city
@@ -17,7 +14,6 @@ data:
   population: 20000
 name:
   full: Velysâra
-  aliases: []
 shortcode: velysara
 folder: WSdLuPc7BaRqxNEt
 ---

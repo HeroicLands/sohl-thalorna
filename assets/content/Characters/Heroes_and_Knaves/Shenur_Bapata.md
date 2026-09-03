@@ -12,7 +12,6 @@ name:
   given: Shenur
   clan: Ba'pata
   home: Ankh-Setûn
-  aliases: []
 id: FP1Qp5eteOJJbpvp
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

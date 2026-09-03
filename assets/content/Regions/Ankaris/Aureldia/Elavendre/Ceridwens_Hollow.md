@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ceridwen's Hollow
 id: 3YlA2MuGbvyKHEXm
 tags:
   - village
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ceridwen's Hollow
-  aliases: []
 shortcode: cerdwnshlw
 folder: drAoDoNnFEygATeK
 ---

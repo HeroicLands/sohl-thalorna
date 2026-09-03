@@ -7,7 +7,6 @@ description: "Vast Normen kingdom of the far north, dominated by Asguardian wors
 type: affiliation
 name:
   full: Kingdom of Nordheim
-  aliases: []
 shortcode: kngdmnrdhm
 subType: polity
 data:

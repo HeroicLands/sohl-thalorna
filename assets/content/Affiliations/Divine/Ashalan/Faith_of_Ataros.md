@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Ātáröš
-  aliases: []
 shortcode: ataros
 alias: Ātáröš, The Sacred Flame
 folder: 7so6UiPt445oIHWs

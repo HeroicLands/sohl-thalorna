@@ -11,7 +11,6 @@ name:
   given: Akhrem
   clan: Re'en'fré
   home: Per-Ankhet
-  aliases: []
 id: 772bjjl9UPxZqT2D
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

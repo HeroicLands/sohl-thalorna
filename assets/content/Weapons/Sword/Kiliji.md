@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Kiliji
 tags: []
 name:
   full: Kiliji
-  aliases: []
 description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
 id: 3JX3cIkIDdIeC8jx
 img: icons/sword.svg

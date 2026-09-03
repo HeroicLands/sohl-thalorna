@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tremor
 tags: []
 name:
   full: Quake

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Íngrithr Skýrekkr
-  - Íngrithr Skýrekkr
-  - Ingrithr Skyrekkr
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Íngrithr
   clan: Skýrekkr
   home: Hávamál
-  aliases: []
 id: aiXt5Gk0y8qyILNJ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ingrthrskyrkr

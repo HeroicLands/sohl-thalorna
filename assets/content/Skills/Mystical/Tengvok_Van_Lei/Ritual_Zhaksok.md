@@ -14,7 +14,6 @@ id: CVBP6nEwAVenRFYe
 shortcode: zhaksok
 name:
   full: "Ritual: Zhāksōk"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

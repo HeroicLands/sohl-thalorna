@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Smith’s Flame
-  - Smith's Flame
-  - Foundry
 tags: []
 name:
   full: Smith’s Flame

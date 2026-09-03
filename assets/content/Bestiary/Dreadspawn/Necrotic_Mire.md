@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Necrotic Mire
 tags:
   - dreadspawn
 name:
   full: Necrotic Mire
-  aliases: []
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
 id: a2al6XRUzVftGyhp
 img: icons/game-icons/delapouite/griffin-symbol.svg

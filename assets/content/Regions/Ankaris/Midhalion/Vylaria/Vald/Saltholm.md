@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saltholm
 id: Vd7hGx4mSm9Tb3Ld
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 6000
 name:
   full: Saltholm
-  aliases: []
 shortcode: saltholm
 folder: WSdLuPc7BaRqxNEt
 ---

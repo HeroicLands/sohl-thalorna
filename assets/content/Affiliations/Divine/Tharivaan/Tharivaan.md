@@ -1,8 +1,5 @@
 ---
 description: "Reverence for the interconnected whole; ecological balance."
-aliases:
-  - Thári'vaan
-  - The Living Whole
 id: fphdjEuVLlOrB1Mi
 tags:
   - pantheon

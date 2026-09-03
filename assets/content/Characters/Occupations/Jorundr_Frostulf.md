@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jǫrundr Frostulf
-  - Jorundr Frostulf
 tags:
   - draft
   - soldiery

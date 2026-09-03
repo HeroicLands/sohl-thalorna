@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kélyra Sálthar
-  - Kelyra Salthar
 tags:
   - draft
   - guilded

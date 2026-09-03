@@ -93,7 +93,6 @@ shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
 name:
   full: Pyréthos
-  aliases: []
 sohl:
   archetype: null
 thalorna:

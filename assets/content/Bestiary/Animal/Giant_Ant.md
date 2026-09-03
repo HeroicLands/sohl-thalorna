@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Giant Ant
 tags:
   - animal
 name:
   full: Giant Ant
-  aliases: []
 description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
 id: z1mE9iVDLalVjhSc
 img: icons/game-icons/lorc/paw-print.svg

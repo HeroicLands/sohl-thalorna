@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diagnosis
 tags: []
 name:
   full: Insight

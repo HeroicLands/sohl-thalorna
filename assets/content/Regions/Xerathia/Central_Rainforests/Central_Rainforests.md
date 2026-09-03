@@ -8,7 +8,6 @@ tags:
 description: Trackless equatorial jungle at the heart of Xerathia — teeming with life, disease, and scattered tribes whose spirit-traditions resist outside systematization.
 name:
   full: Central Rainforests
-  aliases: []
 id: YPcQy1qNckWAGrR8
 shortcode: cntrlrnfrsts
 img: ""

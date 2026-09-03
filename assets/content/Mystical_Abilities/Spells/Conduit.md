@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tube
 tags: []
 name:
   full: Conduit

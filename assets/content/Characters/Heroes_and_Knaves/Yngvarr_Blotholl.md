@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yngvarr Blóthǫll
-  - Yngvarr Blóthǫll
-  - Yngvarr Blotholl
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Yngvarr
   clan: Blóthǫll
   home: Ormstead
-  aliases: []
 id: kIbWnNYsUS07Rw5e
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrblthl

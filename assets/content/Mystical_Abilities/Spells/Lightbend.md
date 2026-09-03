@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Prism
 tags: []
 name:
   full: Lightbend

@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: Rose of the Empyrean
-  aliases: []
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
 id: jsWCHw8upvvnGiEb
 img: icons/potion.svg

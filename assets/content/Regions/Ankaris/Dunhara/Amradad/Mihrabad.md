@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mihrabad
 id: rQvNmHX5CBBhFmkH
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Mihrabad
-  aliases: []
 shortcode: mihrabad
 folder: PUSPfoG6UdrnqPhK
 ---

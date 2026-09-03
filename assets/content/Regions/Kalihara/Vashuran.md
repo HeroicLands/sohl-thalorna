@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vashurán
-  - Vashuran
 id: 8V6lgZjeFHlQZkRA
 tags:
   - port
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Vashurán
-  aliases: []
 shortcode: vashuran
 folder: ySaln4Q82C7W1p0I
 ---

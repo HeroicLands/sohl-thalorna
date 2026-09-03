@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Young Ice Dragon
 tags:
   - mythic
   - image-needed
 name:
   full: Young Ice Dragon
-  aliases: []
 description: "A young apex ice-wyrm of high peaks and glaciers, methodical and cold rather than aggressive, mastering the frozen air."
 id: 7ifxZxScmlMHr44B
 img: icons/game-icons/faithtoken/dragon-head.svg

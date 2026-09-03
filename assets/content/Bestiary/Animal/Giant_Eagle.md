@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Giant Eagle
 tags:
   - animal
 name:
   full: Giant Eagle
-  aliases: []
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."
 id: qXfebwntoioh2qjT
 img: icons/game-icons/delapouite/eagle-head.svg

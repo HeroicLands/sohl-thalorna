@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corsair League
 description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 type: affiliation
 sohl:
@@ -8,7 +6,6 @@ sohl:
 id: Q5oqJ5ibltS7B0oS
 name:
   full: Corsair League
-  aliases: []
 shortcode: corsairleg
 subType: guild
 data:

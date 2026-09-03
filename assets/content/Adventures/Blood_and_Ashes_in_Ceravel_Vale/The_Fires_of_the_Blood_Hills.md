@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Fires of the Blood Hills
 tags:
   - blood-and-ashes-in-ceravel-vale
 type: scenario
@@ -22,7 +20,6 @@ id: 6TK6erjwIhZeAzxz
 shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills
-  aliases: []
 folder: 9TmLIkGXGHMtFxzy
 ---
 

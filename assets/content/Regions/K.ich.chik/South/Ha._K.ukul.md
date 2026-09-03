@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha’ K’ukul
 id: Vz6zv5sq18qR9nya
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Ha’ K’ukul
-  aliases: []
 shortcode: hakukul
 folder: 13VGFYcT7sKTGll7
 ---

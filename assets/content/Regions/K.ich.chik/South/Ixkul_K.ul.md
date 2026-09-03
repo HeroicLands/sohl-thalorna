@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ixkul K’ul
 id: AOgoVrsaeRLgPydh
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Ixkul K’ul
-  aliases: []
 shortcode: ixkulkul
 folder: 13VGFYcT7sKTGll7
 ---

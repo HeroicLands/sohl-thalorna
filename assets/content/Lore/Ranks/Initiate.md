@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Initiate
 tags:
   - draft
 id: J7OTEzN4NWFBiVxj
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Initiate
-  aliases: []
 shortcode: initiaternk
 description: "Received into a tradition and bound by its oaths, holding its first mysteries."
 ---

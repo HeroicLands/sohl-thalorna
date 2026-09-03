@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Yürtthāt Zhāk
-  - Yurtthat Zhak
 id: kx1DYO4Lv2VXJB93
 type: affiliation
 subType: lineage
@@ -101,7 +98,6 @@ sohl:
   archetype: null
 name:
   full: Yürtthāt Zhāk
-  aliases: []
 shortcode: yurthatzhk
 folder: l3wIL8UihJI5nx6L
 ---

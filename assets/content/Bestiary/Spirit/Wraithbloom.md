@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Wraithbloom
 tags:
   - spirit
 name:
   full: Wraithbloom
-  aliases: []
 description: "The animated spirit of ancient magic-steeped plants, haunting old groves and sacred gardens where the veil between living and dead has worn thin."
 id: NZjkwSdqmk6Tuf64
 img: icons/game-icons/lorc/werewolf.svg

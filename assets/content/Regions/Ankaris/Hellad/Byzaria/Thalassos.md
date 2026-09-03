@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thálassos
-  - Thalassos
 id: 6pXLtYkfQc7JDzuS
 tags:
   - port
@@ -10,7 +7,6 @@ description: "Harbor Town"
 type: place
 name:
   full: Thálassos
-  aliases: []
 shortcode: thalassos
 subType: settlement
 data:

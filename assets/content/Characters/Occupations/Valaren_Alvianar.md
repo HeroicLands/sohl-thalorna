@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valáren Álvianar
-  - Valaren Alvianar
 tags:
   - draft
   - administration

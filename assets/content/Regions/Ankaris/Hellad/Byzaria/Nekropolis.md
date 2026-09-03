@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nékropolis
-  - Nekropolis
 id: oVedEJI68W2dAXzt
 type: place
 subType: region
@@ -13,7 +10,6 @@ data:
   population: null
 name:
   full: Nékropolis
-  aliases: []
 shortcode: nekropolis
 folder: pAXnwYJhDDSvkrPt
 ---

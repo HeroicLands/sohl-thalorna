@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Desert's Kiss"
-  aliases: []
 description: "Chalky white dryness elixir; transforms water to mist in radius."
 id: mWmjbdxedFbpbA0w
 img: icons/potion.svg

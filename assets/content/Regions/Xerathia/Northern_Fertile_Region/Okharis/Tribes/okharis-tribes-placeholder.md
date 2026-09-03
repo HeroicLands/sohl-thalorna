@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Okharis Tribes Placeholder
 id: Zvj8DfE3VgmJWxDj
 tags:
   - draft
@@ -14,7 +12,6 @@ data:
   population: null
 name:
   full: Okharis Tribes Placeholder
-  aliases: []
 shortcode: okhrstrbsplchldr
 folder: E73gOKMU6M707svD
 ---

@@ -11,7 +11,6 @@ id: hj4uC8BPlczmfJWV
 shortcode: anubis
 name:
   full: "Ritual: Ánubís"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

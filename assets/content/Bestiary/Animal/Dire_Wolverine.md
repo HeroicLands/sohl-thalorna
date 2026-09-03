@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Dire Wolverine
 tags:
   - animal
 name:
   full: Dire Wolverine
-  aliases: []
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
 id: 9zpdW3LB7gb3PZXi
 img: icons/game-icons/caro-asercion/badger.svg

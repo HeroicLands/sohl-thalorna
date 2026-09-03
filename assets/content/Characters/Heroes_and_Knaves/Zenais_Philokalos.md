@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Zênais Philokálos
-  - Zênais Philokálos
-  - Zenais Philokalos
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Zênais
   clan: Philokálos
   home: Gümüşhisar
-  aliases: []
 id: 4ZF2JPTBYsrm932y
 folder: b81DHx3S7C9ep13E
 shortcode: zensphlkls

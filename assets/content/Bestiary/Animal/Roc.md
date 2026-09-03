@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Roc
 tags:
   - animal
 name:
   full: Roc
-  aliases: []
 description: "A mountain-nesting bird of prey with a hundred-foot wingspan and body weighed in tons, hunting elephant-sized quarry as a living disaster for expeditions."
 id: MM4WsOp5MweEuH4U
 img: icons/game-icons/delapouite/eagle-head.svg

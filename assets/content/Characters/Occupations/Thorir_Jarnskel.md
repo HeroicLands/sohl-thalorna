@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thórir Járnskel
-  - Thorir Jarnskel
 tags:
   - draft
   - guilded

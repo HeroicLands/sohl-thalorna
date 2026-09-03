@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Tza'ku
 id: Ti61MsXgLxbhYAnK
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ba'alam Tza'ku
-  aliases: []
 shortcode: balamtzaku2
 ---
 

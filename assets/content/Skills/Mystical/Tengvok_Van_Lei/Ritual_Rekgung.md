@@ -12,7 +12,6 @@ id: ResXgLQ6fWPyAdP3
 shortcode: rekgung
 name:
   full: "Ritual: Rëkgüng"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

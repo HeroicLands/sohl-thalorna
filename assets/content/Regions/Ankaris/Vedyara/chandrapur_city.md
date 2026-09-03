@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chandrapur
 id: u06VCq3gWTSKlQJZ
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Chandrapur
-  aliases: []
 shortcode: chandrapur2
 ---
 

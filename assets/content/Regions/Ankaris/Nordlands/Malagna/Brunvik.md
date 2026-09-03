@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brúnvík
-  - Brunvik
 id: iEFZaB0kHPIfjSfz
 tags:
   - village
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Brúnvík
-  aliases: []
 shortcode: brunvik
 folder: 3JdV0mOrMUISPmRz
 ---

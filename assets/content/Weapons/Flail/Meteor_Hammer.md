@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Meteor Hammer
 tags: []
 name:
   full: Meteor Hammer
-  aliases: []
 description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
 id: PvD8SLaG28Nude2X
 img: icons/bolas.svg

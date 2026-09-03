@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Badger
-  aliases: []
 id: WxZsuNGUm8U7JpQn
 img: images/mystery/badger.webp
 shortcode: badgerttm

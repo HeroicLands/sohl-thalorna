@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caecity
 tags: []
 name:
   full: Blindspot

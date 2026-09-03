@@ -1,8 +1,5 @@
 ---
 description: "Chaos."
-aliases:
-  - Hürnzhük
-  - Hurnzhuk
 id: z3OrhLcuyvskTVCs
 tags:
   - demon-lord

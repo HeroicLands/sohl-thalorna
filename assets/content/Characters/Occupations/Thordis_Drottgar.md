@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thórdís Dróttgar
-  - Thordis Drottgar
 tags:
   - draft
   - tradesfolk

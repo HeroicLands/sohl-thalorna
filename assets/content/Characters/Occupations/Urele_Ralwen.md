@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Úrelè Rálwen
-  - Urele Ralwen
 tags:
   - draft
   - tradesfolk

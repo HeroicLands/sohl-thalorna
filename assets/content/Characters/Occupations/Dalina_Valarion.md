@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dálina Valárion
-  - Dalina Valarion
 tags:
   - draft
   - tradesfolk

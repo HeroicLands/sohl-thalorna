@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Óthwin Dómhár
-  - Othwin Domhar
 tags:
   - draft
   - common-folk

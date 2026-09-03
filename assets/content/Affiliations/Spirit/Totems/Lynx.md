@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Lynx
-  aliases: []
 id: HIWEuBejSbFz9oAK
 img: images/mystery/lynx.webp
 shortcode: lynxttm

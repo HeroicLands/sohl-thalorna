@@ -13,7 +13,6 @@ shortcode: taranon
 img: images/affiliation/taranon.webp
 name:
   full: "Ritual: Taranon"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

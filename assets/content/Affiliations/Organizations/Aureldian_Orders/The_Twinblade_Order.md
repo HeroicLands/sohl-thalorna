@@ -1,7 +1,4 @@
 ---
-aliases:
-  - The Twinblade Order
-  - Ordo Bifrons
 tags:
   - organization
   - aureldia

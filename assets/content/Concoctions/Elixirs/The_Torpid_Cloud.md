@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Torpid Cloud
-  aliases: []
 description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
 id: 8d92VDvqDzTX5Pdu
 img: icons/potion.svg

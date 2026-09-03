@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Deer
-  aliases: []
 id: xbBAhWDbWnyD8p2l
 img: images/mystery/deer.webp
 shortcode: deerttm

@@ -13,7 +13,6 @@ id: MiEDAWoEZ3M08tft
 shortcode: mahajaya
 name:
   full: "Ritual: Mahájaya"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

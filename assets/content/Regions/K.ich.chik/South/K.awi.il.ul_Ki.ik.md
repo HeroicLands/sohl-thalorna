@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K’awi’il’ul Ki’ik
 id: LzFK4SEzMloriHpl
 tags:
   - garrison
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: K’awi’il’ul Ki’ik
-  aliases: []
 shortcode: kawilulkik
 folder: 13VGFYcT7sKTGll7
 ---

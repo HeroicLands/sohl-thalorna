@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Celestial Order
 id: Y9Um0puZOcYHNgXy
 type: lore
 subType: theology
 name:
   full: Celestial Order
-  aliases: []
 shortcode: celestlrdr
 folder: hBkQzhJeB05EwziN
 ---

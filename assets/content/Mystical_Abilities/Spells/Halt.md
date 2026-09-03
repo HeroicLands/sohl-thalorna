@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stay
 tags: []
 name:
   full: Halt

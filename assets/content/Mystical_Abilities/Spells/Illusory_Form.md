@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Illusory Form
-  - Image
 tags: []
 name:
   full: Illusory Form

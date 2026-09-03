@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forge
 tags: []
 name:
   full: Craft

@@ -13,7 +13,6 @@ id: lHkXWIwppqaaXnSW
 shortcode: rasikara
 name:
   full: "Ritual: Rásikara"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

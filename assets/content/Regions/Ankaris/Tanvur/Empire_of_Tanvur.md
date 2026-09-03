@@ -13,7 +13,6 @@ tags:
 description: The eastern empire of Tānvür — a celestial-bureaucratic, caste-ordered civilization under the Son of Heaven and the Mandate of the Jade Sovereign.
 name:
   full: Empire of Tānvür
-  aliases: []
 id: SsYaojXUrAE6wy9I
 shortcode: tanvurempr
 img: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz’ikin K’ul
 id: YxOv20w4CsGfROM5
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Tz’ikin K’ul
-  aliases: []
 shortcode: tzikinkul
 folder: 13VGFYcT7sKTGll7
 ---

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Véldor Bélthal
-  - Véldor Bélthal
-  - Veldor Belthal
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Véldor
   clan: Bélthal
   home: Ceridwen's Hollow
-  aliases: []
 id: KGChYYem9ligaSh9
 folder: 4cwfdMa34UryZqPR
 shortcode: veldrblthl

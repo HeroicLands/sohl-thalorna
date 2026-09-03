@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Forest Troll
 tags:
   - dreadspawn
 name:
   full: Forest Troll
-  aliases: []
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
 id: l4GBcRoNaHSO3RRn
 img: icons/game-icons/skoll/troll.svg

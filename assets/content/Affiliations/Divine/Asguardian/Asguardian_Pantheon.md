@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Asguardian Pantheon
-  - Asguardian pantheon
 id: iC8956babRawiH7S
 tags:
   - pantheon

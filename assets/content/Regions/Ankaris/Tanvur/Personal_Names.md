@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Personal Names
 id: LgGLhQV6dRATDaEB
 type: lore
 subType: culture
 name:
   full: Personal Names
-  aliases: []
 shortcode: personlnms
 folder: jV7c6dJp4Ztnjtb3
 ---

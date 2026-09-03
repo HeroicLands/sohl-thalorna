@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aural Blast
 tags: []
 name:
   full: Soundwave

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Jian
 tags: []
 name:
   full: Jian
-  aliases: []
 description: "Straight double-edged leaf-point blade; duelist's responsive steel."
 id: i3K0H86rBH3rx3b3
 img: icons/sword.svg

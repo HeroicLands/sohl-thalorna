@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shatter
 tags: []
 name:
   full: Smash

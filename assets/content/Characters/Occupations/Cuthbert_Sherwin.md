@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cuthbert Sherwin
 tags:
   - draft
   - common-folk

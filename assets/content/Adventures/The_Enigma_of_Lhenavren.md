@@ -1,11 +1,7 @@
 ---
-aliases:
-  - The Enigma of Lhénavren
-  - The Enigma of Lhenavren
 id: ITNk4xWlebM9HchL
 name:
   full: The Enigma of Lhénavren
-  aliases: []
 shortcode: engmlhnvrn
 type: scenario
 subType: adventure

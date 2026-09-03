@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Provenzal Language
-  aliases: []
 description: "The melodic speech of Provenzia — shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 id: jbfXq6oDnBGSN6df
 img: icons/speaking.svg

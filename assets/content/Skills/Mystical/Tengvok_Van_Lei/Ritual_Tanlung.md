@@ -15,7 +15,6 @@ id: tMGfPxqyoVJd8Qmd
 shortcode: tanlung
 name:
   full: "Ritual: Tānlüng"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

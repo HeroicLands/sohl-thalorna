@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Host
 tags: []
 name:
   full: Spiritguard

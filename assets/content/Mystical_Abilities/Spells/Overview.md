@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perspective
 tags: []
 name:
   full: Overview

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Floe
 tags: []
 name:
   full: Icebridge

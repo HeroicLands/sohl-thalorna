@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jólren Álvianar
-  - Jolren Alvianar
 tags:
   - draft
   - tradesfolk

@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: Milk of Sleep
-  aliases: []
 description: "Black opaque draft; induces deep unconsciousness and complete rest."
 id: jdFdATz00hX178bO
 img: icons/potion.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brynhallow
 id: TowEWAGcIliRpar1
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Brynhallow
-  aliases: []
 shortcode: brynhallow
 folder: ZbE1NQo3ApZ26xon
 ---

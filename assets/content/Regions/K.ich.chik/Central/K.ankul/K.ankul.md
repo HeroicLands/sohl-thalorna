@@ -1,13 +1,10 @@
 ---
-aliases:
-  - K'ankul
 tags:
   - polity
 title: ""
 description: Limestone lowlands of cenote-sanctuaries, astronomer-priests, and competing city-states — the intellectual heart of K'ich'chik civilization.
 name:
   full: K'ankul
-  aliases: []
 id: 6uj0kMpcSvwHhYfb
 shortcode: kankul
 img: ""

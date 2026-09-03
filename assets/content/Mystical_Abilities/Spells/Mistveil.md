@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vapour
 tags: []
 name:
   full: Mistveil

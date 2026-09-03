@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vandaric Garwald
 tags:
   - blackpine-wolves
   - brigand

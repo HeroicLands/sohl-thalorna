@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skarholme
 id: dqjMFAr8WiEftACv
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Skarholme
-  aliases: []
 shortcode: skarholme
 folder: tUOAFxX25mViDE7q
 ---

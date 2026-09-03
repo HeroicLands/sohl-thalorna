@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Wakeful Road
-  aliases: []
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."
 id: NFrsFpQareivWkrh
 img: icons/potion.svg

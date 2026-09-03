@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vortex
 tags: []
 name:
   full: Whirlpool

@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Whispertread
-  aliases: []
 description: "Dark nearly-black draft; muffles drinker's presence from detection."
 id: uD4RDH58iEwwgKTH
 img: icons/potion.svg

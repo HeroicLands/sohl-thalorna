@@ -12,7 +12,6 @@ id: 2AC9IfPUiDi6WvZC
 shortcode: yutvei
 name:
   full: "Ritual: Yütvëi"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

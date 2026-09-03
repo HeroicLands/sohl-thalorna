@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Giant Rat
 tags:
   - animal
   - image-needed
 name:
   full: Giant Rat
-  aliases: []
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
 id: JYYfIP5IvvkQ0oJK
 img: icons/game-icons/delapouite/rat.svg

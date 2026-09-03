@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anvil
 tags: []
 name:
   full: Forgefire

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Frostmark
 id: 1Rtw3Owv91p4f5yA
 tags:
   - settlement
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Frostmark
-  aliases: []
 shortcode: frostmark
 folder: tUOAFxX25mViDE7q
 ---

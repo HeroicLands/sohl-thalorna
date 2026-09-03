@@ -103,7 +103,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Sét
-  aliases: []
 shortcode: set
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

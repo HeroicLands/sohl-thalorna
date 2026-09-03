@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Upper River Nomes
-  aliases: []
 shortcode: uperivrnms
 subType: polity
 data:

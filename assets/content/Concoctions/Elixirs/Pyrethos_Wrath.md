@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Pyréthos's Wrath"
-  aliases: []
 description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."
 id: WIIZGmhspMBZCrsC
 img: icons/potion.svg

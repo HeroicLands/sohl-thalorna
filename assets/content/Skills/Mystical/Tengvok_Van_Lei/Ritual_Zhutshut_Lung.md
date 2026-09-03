@@ -12,7 +12,6 @@ id: YlTN0MpIQsOls3gi
 shortcode: zhutshtlng
 name:
   full: "Ritual: Zhütshüt Lüng"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

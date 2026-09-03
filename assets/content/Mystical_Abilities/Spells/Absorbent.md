@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sponge
 tags: []
 name:
   full: Absorbent

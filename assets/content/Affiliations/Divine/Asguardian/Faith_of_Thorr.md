@@ -1,7 +1,5 @@
 ---
 description: "War, Reavers, and Sea."
-aliases:
-  - Faith of Thórr
 id: K9I6050D5wN7Vs3Z
 tags:
   - asguardian

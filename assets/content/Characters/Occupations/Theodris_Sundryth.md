@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Theódris Sundrýth
-  - Theodris Sundryth
 tags:
   - draft
   - common-folk

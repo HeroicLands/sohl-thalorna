@@ -11,7 +11,6 @@ id: 4imUgvpxSanM8wbw
 shortcode: bes
 name:
   full: "Ritual: Bēs"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

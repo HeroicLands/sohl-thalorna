@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zálren Lýskal
-  - Zalren Lyskal
 tags:
   - draft
   - tradesfolk

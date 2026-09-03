@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terravia
 id: Vd6yGx4kVm8Sb3Ld
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 4000
 name:
   full: Terravia
-  aliases: []
 shortcode: terravia
 folder: WSdLuPc7BaRqxNEt
 ---

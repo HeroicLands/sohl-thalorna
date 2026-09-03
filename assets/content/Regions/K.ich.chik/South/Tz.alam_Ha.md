@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz’alam Ha’
 id: oq4gDoiYMztl68Ri
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Tz’alam Ha’
-  aliases: []
 shortcode: tzalamha
 folder: 13VGFYcT7sKTGll7
 ---

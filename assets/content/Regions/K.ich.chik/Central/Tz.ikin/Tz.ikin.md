@@ -1,13 +1,10 @@
 ---
-aliases:
-  - Tz'ikin
 tags:
   - polity
 title: ""
 description: River-bound jungle realm of tepui-shrouded city-states and priest-navigators — the Land of Birds, source of K'ich'chik's rarest luxuries.
 name:
   full: Tz'ikin
-  aliases: []
 id: 4bmHFoaCvpbUggB0
 shortcode: tzikin
 img: ""

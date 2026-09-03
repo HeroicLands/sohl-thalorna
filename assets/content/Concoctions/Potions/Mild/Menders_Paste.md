@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: "Mender's Paste"
-  aliases: []
 description: "Pale green poultice; heals wounds and promotes recovery."
 id: vDEGz8YoMfVA9WJW
 img: icons/potion.svg

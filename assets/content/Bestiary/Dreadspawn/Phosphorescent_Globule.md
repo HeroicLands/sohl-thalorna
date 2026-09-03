@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Phosphorescent Globule
 tags:
   - dreadspawn
 name:
   full: Phosphorescent Globule
-  aliases: []
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
 id: WQjWcb6PtRpcRxGe
 img: icons/game-icons/delapouite/slime.svg

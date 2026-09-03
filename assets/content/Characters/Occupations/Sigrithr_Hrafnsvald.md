@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigríthr Hrafnsvald
-  - Sigrithr Hrafnsvald
 tags:
   - draft
   - tradesfolk

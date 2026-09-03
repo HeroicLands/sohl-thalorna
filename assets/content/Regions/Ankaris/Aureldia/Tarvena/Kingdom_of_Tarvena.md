@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Kingdom of Tarvénia
 id: o50yhB7G6oF2zc58
 description: "Loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by shared language and warrior culture — a political idea more than a unified state."
 type: affiliation
 name:
   full: Kingdom of Tarvénia
-  aliases: []
 shortcode: kingdmtrvn
 subType: polity
 data:

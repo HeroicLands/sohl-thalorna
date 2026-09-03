@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Excommunicate
 tags:
   - draft
 id: 7o6mAnZUN6pCq21G
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Excommunicate
-  aliases: []
 shortcode: excmmnctrnk
 description: "Cut off from the rites and the community of a faith or tradition."
 ---

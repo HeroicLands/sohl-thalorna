@@ -94,7 +94,6 @@ id: SG3QpIM8U4cfoua5
 shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
-  aliases: []
 ---
 
 # The Silent Talon Company

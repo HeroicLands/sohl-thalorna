@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Zhëklüng
-  - Zheklung
 id: aKsAcLBGhRxCxtQa
 type: lore
 subType: culture
 name:
   full: Zhëklüng
-  aliases: []
 shortcode: zheklung
 folder: ZUKWHCnKcLAoZMdf
 ---

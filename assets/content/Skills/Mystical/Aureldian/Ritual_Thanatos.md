@@ -13,7 +13,6 @@ shortcode: thanatos
 img: images/affiliation/thanatos.webp
 name:
   full: "Ritual: Thanatos"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

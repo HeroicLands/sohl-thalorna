@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sūryāgarha
 id: guzzmrqqtagCbdW4
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Sūryāgarha
-  aliases: []
 shortcode: suryagarha
 ---
 

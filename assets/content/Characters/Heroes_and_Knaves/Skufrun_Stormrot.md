@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Skúfrún Stormrót
-  - Skúfrún Stormrót
-  - Skufrun Stormrot
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Skúfrún
   clan: Stormrót
   home: Valdarheim
-  aliases: []
 id: eDRKhmTUeFfr53qe
 folder: Ka9XqaF27b0I3Gmq
 shortcode: skfrnstrmrt

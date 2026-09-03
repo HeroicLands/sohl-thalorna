@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Leopard
-  aliases: []
 id: 9kURQgBvCgSoahoC
 img: images/mystery/leopard.webp
 shortcode: leopardttm

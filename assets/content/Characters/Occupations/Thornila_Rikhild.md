@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thornila Ríkhild
-  - Thornila Rikhild
 tags:
   - todo
   - draft

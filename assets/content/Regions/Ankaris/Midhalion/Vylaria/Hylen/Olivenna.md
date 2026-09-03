@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Olivenna
 id: Hy8vNx3kOp2Rb5Lt
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 5000
 name:
   full: Olivenna
-  aliases: []
 shortcode: olivenna
 folder: WSdLuPc7BaRqxNEt
 ---

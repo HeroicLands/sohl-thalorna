@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Xik'ul Ch'akal
 id: YNPzMDFOQqc5veZB
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Xik'ul Ch'akal
-  aliases: []
 shortcode: xikulchakl2
 ---
 

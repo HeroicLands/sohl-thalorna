@@ -9,7 +9,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Ankh-Setûn
-  aliases: []
 shortcode: nomenkhstn
 subType: polity
 data:

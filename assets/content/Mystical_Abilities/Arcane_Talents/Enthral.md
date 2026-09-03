@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Enthral
-  aliases: []
 id: nDJ1yTJ6OYad1ZQM
 img: icons/psionics.svg
 shortcode: enth

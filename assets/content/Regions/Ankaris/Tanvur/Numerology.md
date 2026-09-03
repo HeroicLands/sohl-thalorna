@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Numerology
 id: gu99gyoQOqq2hkDz
 type: lore
 subType: arcana
 name:
   full: Numerology
-  aliases: []
 shortcode: numerology
 folder: jV7c6dJp4Ztnjtb3
 ---

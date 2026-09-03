@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Reverse
 tags: []
 name:
   full: Undo

@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Thātlüng
-  - Thatlung
 id: dShd6mhcDw4j2zkN
 type: lore
 subType: history
 name:
   full: Thātlüng
-  aliases: []
 shortcode: thatlung
 folder: l3wIL8UihJI5nx6L
 ---

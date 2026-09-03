@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Amplification
-  aliases: []
 id: f2kNbG0MoglMLN31
 img: icons/psionics.svg
 shortcode: ampl

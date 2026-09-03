@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Áelendan Tribes
-  - Aelendan Tribes
 id: 1X3hyHGrQc0lEgZK
 description: ""
 type: affiliation
 name:
   full: Áelendan Tribes
-  aliases: []
 shortcode: aelndntrbs
 subType: polity
 data:

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Áleren Párdalen
-  - Aleren Pardalen
 tags:
   - draft
   - clergy

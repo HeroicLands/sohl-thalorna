@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Curtain
 tags: []
 name:
   full: Shadowscreen

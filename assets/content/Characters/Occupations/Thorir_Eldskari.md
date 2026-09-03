@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thórir Eldskari
-  - Thorir Eldskari
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Thórir
   clan: Eldskari
   home: Stormveil
-  aliases: []
 id: 8JHUdKF0j7elKPoh
 folder: elH5NDPUuiRCICrE
 shortcode: thorrldskr

@@ -7,7 +7,6 @@ description: "Frost-realm of the far north, land of ice and stone — austere ki
 type: affiliation
 name:
   full: Kingdom of Malagna
-  aliases: []
 shortcode: kingdomlgn
 subType: polity
 data:

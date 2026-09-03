@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Protection
 tags: []
 name:
   full: Barrier

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Selímara
-  - Selimara
 id: bQUtftL9hRhlCeaf
 tags:
   - town
@@ -10,7 +7,6 @@ description: "Trading Town"
 type: place
 name:
   full: Selímara
-  aliases: []
 shortcode: selimara
 subType: settlement
 data:

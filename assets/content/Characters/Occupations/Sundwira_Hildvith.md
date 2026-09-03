@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sundwíra Hildvith
-  - Sundwira Hildvith
 tags:
   - draft
   - common-folk

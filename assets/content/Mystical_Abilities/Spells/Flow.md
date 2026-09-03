@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Transfer
 tags: []
 name:
   full: Flow

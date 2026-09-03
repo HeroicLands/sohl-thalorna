@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vànika Ratniseṇa
-  - Vànika Ratniseṇa
-  - Vanika Ratnisena
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Vànika
   clan: Ratniseṇa
   home: Rājapur
-  aliases: []
 id: YDrk4CIsTjtWzOqG
 folder: JotxZnnXcTECeYW3
 shortcode: vanikartns

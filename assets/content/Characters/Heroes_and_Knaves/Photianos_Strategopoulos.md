@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Phótianos Stratégopoulos
-  - Phótianos Stratégopoulos
-  - Photianos Strategopoulos
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Phótianos
   clan: Stratégopoulos
   home: Gümüşhisar
-  aliases: []
 id: ZEGtH5NEBaA6gzHw
 folder: b81DHx3S7C9ep13E
 shortcode: phtnstrtgpls

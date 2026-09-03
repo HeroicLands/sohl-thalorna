@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bagh Nakh
 tags: []
 name:
   full: Bagh Nakh
-  aliases: []
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
 id: LDxnrcyhRCyVyGQK
 img: icons/broad-dagger.svg

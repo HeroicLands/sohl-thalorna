@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Āhúrdáén
-  aliases: []
 shortcode: ahurdaen
 alias: Āhúrdáén, The Keeper of Harmony
 folder: 7so6UiPt445oIHWs

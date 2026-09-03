@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Júlisa Maríthran
-  - Julisa Marithran
 tags:
   - draft
   - guilded

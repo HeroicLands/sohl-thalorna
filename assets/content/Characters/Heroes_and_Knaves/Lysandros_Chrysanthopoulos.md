@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Lysándros Chrysanthópoulos
-  - Lysándros Chrysanthópoulos
-  - Lysandros Chrysanthopoulos
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Lysándros
   clan: Chrysanthópoulos
   home: Selímara
-  aliases: []
 id: 9MWvA6UWlp8vQf1B
 folder: b81DHx3S7C9ep13E
 shortcode: lysndrschrysnthpls

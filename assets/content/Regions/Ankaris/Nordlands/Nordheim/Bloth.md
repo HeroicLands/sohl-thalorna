@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Blóth
-  - Bloth
 id: IxdQgYmu31vb7DlD
 tags:
   - settlement
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Blóth
-  aliases: []
 shortcode: bloth
 folder: tUOAFxX25mViDE7q
 ---

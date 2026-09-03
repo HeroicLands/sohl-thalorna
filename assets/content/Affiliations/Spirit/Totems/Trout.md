@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Trout
-  aliases: []
 id: 7sSIfjhmqoOP3h0E
 img: images/mystery/trout.webp
 shortcode: troutttm

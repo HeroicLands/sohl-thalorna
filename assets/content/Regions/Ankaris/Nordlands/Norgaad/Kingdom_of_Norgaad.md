@@ -7,7 +7,6 @@ description: "Central Normen kingdom of fjords, mountain passes, and silver-mine
 type: affiliation
 name:
   full: Kingdom of Norgaad
-  aliases: []
 shortcode: kingdmnrgd
 subType: polity
 data:

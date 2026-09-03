@@ -97,7 +97,6 @@ sohl:
 id: DRj0wzDUbdTo5p3U
 name:
   full: Crime Syndicates of Thalorna
-  aliases: []
 shortcode: crmsyndctsthlrn
 folder: GOlgYgpU2BQfAG6g
 ---

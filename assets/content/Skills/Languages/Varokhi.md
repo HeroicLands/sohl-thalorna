@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Varokhi Language
-  aliases: []
 description: "The unwritten tongue of the Vrystwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
 id: MR557P1jb8LCNheH
 img: icons/speaking.svg

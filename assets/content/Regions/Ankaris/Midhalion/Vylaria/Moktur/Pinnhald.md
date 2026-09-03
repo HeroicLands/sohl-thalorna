@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pinnhald
 id: Mk6yPx4kVm8Sb3Ld
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 3000
 name:
   full: Pinnhald
-  aliases: []
 shortcode: pinnhald
 folder: WSdLuPc7BaRqxNEt
 ---

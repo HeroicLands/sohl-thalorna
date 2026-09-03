@@ -13,7 +13,6 @@ id: 1dlx3D1Lg48sCdej
 shortcode: kalavrata
 name:
   full: "Ritual: Kālavrata"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

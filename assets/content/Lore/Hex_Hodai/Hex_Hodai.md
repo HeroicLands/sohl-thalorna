@@ -14,7 +14,6 @@ id: Y3NajXCuLZv4CSis
 shortcode: hexhodai
 name:
   full: Héx Hodäi
-  aliases: []
 folder: H8lfX9Zy7YDUeAjX
 ---
 

@@ -107,7 +107,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Hâpi
-  aliases: []
 shortcode: hapi
 banner: banners/ta-kheperu-banner.webp
 folder: RGkIoZ4nXKx1qnID

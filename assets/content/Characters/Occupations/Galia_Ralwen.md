@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gália Rálwen
-  - Galia Ralwen
 tags:
   - draft
   - administration

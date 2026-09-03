@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Chýnara Kórisvar
-  - Chynara Korisvar
 tags:
   - draft
   - common-folk

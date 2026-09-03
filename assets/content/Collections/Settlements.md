@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Settlements
 id: XrNhDp75YDEKcxWD
 name:
   full: Settlements
-  aliases: []
 type: doc
 subType: collection
 shortcode: setlements

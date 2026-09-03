@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rising Current
-  - Tide
 tags: []
 name:
   full: Rising Current

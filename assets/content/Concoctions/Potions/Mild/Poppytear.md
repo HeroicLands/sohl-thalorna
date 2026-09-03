@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: Poppytear
-  aliases: []
 description: "Pale cream draft; induces drowsiness and peaceful sleep."
 id: 7SJiJQo5W4yYKuhV
 img: icons/potion.svg

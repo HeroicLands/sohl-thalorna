@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ósk Drekanótt
-  - Ósk Drekanótt
-  - Osk Drekanott
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Ósk
   clan: Drekanótt
   home: Brúnvík
-  aliases: []
 id: PGJWdx0sS4X1Q4cV
 folder: Ka9XqaF27b0I3Gmq
 shortcode: oskdrekant

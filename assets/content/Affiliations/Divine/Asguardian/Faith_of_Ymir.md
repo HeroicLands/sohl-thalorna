@@ -1,7 +1,5 @@
 ---
 description: "Creation and Dreadspawn."
-aliases:
-  - Faith of Ymir
 id: iw5CaLGOvhF2ddKY
 tags:
   - asguardian

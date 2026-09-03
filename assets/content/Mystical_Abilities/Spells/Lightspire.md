@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beacon
 tags: []
 name:
   full: Lightspire

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Muffle
 tags: []
 name:
   full: Silence

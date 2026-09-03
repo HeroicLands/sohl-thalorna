@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thora Sunna's Blessing
 tags:
   - paragon
   - heroes-of-asguard

@@ -9,7 +9,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Per-Thōth
-  aliases: []
 shortcode: nomeprthth
 subType: polity
 data:

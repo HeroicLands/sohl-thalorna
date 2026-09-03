@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Áelendan Wardens
-  - Aelendan Wardens
-  - The Wardens
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Covenant itself."
 id: B53EuywhfWU0xgKC
 name:

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Beings
 id: xTfvYG6qYHuI8qst
 name:
   full: Beings
-  aliases: []
 type: doc
 subType: collection
 shortcode: beings

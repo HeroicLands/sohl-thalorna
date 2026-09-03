@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Vǫggr Blóthǫll
-  - Vǫggr Blóthǫll
-  - Voggr Blotholl
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Vǫggr
   clan: Blóthǫll
   home: Blóth
-  aliases: []
 id: MveWFi3LLbH015Yk
 folder: Ka9XqaF27b0I3Gmq
 shortcode: vogrblothl

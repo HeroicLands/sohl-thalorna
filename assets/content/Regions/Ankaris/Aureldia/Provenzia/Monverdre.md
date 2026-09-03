@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Monvèrdre
-  - Monverdre
 id: gcqQMrf3iloHRPXm
 tags:
   - town
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Monvèrdre
-  aliases: []
 shortcode: monverdre
 folder: 2s244hfP0BpQi195
 ---

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Dragonfly Hawk
 tags:
   - animal
 name:
   full: Dragonfly Hawk
-  aliases: []
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
 id: Ld3BjQ7uxeuVYQa7
 img: icons/game-icons/lorc/dragonfly.svg

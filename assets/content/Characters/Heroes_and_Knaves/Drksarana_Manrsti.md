@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Drkṣàrana Manṛṣṭi
-  - Drkṣàrana Manṛṣṭi
-  - Drksarana Manrsti
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Drkṣàrana
   clan: Manṛṣṭi
   home: Chandrapur
-  aliases: []
 id: lRVZo2QwwY20k6XS
 folder: JotxZnnXcTECeYW3
 shortcode: drkaranamn

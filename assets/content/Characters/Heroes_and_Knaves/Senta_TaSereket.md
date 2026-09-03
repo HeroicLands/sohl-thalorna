@@ -12,7 +12,6 @@ name:
   given: Sênta
   clan: Ta'Sereket
   home: Per-Ankhet
-  aliases: []
 id: Bsazl9Wt9ZN5uPcn
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

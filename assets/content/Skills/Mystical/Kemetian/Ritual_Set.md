@@ -11,7 +11,6 @@ id: zeHVXI9W8LM9miul
 shortcode: set
 name:
   full: "Ritual: Sét"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mildred Harden
 tags:
   - draft
   - guilded

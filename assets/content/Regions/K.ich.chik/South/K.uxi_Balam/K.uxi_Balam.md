@@ -1,13 +1,10 @@
 ---
-aliases:
-  - K'uxi Balam
 tags:
   - polity
 title: ""
 description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes — the southern frontier of K'ich'chik civilization.
 name:
   full: K'uxi Balam
-  aliases: []
 id: a45B4y3xgItfb4jv
 shortcode: kuxibalam
 img: ""

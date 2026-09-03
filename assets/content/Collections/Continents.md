@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Continents
 id: UwE0NrIry321IzYO
 name:
   full: Continents
-  aliases: []
 type: doc
 subType: collection
 shortcode: continents

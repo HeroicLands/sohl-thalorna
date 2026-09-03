@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brákôs Hârlânis
-  - Brakos Harlanis
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Brákôs
   clan: Hârlânis
   home: ""
-  aliases: []
 id: NbrnTP3fAbnFbmOH
 folder: UFBfgKZUF0bAE7gG
 shortcode: brakshrlns

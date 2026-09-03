@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashford
 id: RMwDrWEzwzEajWbh
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Ashford
-  aliases: []
 shortcode: ashford
 folder: ZbE1NQo3ApZ26xon
 ---

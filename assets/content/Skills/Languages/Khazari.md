@@ -7,7 +7,6 @@ aliases:
 tags: []
 name:
   full: Khazári Language
-  aliases: []
 description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
 id: BMLlZaArJ6H0wPjU
 img: icons/speaking.svg

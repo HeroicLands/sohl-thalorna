@@ -12,7 +12,6 @@ name:
   given: Tot'kar
   clan: Het'Wera
   home: Meru-Hotep
-  aliases: []
 id: oVd0fGTKVyci3mOS
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

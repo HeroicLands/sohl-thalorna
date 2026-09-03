@@ -11,7 +11,6 @@ id: l3uhBirWLAYnjIsf
 shortcode: aravesta
 name:
   full: "Ritual: Árávēštä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

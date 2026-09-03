@@ -1,10 +1,4 @@
 ---
-aliases:
-  - Hëk Lōt Zhāk
-  - Hek Lot Zhak
-  - The Black Lotus Society
-  - Black Lotus Society
-  - The Black Lotus
 tags: []
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
 id: sPtFcL4yWju92kUg

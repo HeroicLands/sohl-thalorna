@@ -1,8 +1,5 @@
 ---
 description: "Creation, destruction, and renewal."
-aliases:
-  - Nkaru'thar
-  - The Eternal Flame
 id: Uyp9QEsfwpKzMwWX
 tags:
   - pantheon

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kayvonad Zârîd
-  - Kayvonad Zârîd
-  - Kayvonad Zarid
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Kayvonad
   clan: Zârîd
   home: Ashkarad
-  aliases: []
 id: 1GBQoF5UrJkfoC2p
 folder: heI5Ky6Kqmb61L6c
 shortcode: kayvondzrd

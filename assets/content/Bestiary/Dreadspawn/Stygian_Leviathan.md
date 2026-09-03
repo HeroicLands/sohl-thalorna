@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Stygian Leviathan
 tags:
   - dreadspawn
 name:
   full: Stygian Leviathan
-  aliases: []
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
 id: NTZQh3DsxPrIxvtI
 img: icons/game-icons/lorc/sea-serpent.svg

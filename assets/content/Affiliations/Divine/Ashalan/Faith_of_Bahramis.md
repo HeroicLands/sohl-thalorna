@@ -105,7 +105,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Báhrámiš
-  aliases: []
 shortcode: bahramis
 alias: Báhrámiš, The Thunder Rider
 folder: 7so6UiPt445oIHWs

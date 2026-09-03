@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Járnhavn
-  - Jarnhavn
 id: qMK74rVgAAQlzEAs
 tags:
   - port
@@ -18,7 +15,6 @@ data:
   population: null
 name:
   full: Járnhavn
-  aliases: []
 shortcode: jarnhavn
 folder: k5SVeYFVPAxS9hci
 ---

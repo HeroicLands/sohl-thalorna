@@ -1,6 +1,4 @@
 ---
-aliases:
-  - K'ixim Tzul
 id: RPORfulXgkxwp8zj
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: K'ixim Tzul
-  aliases: []
 shortcode: kiximtzul2
 ---
 

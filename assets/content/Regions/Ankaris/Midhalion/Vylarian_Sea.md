@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Vylarian Sea
 tags:
   - region
 description: The great inland sea at the heart of Mídhalión — highway of empire, maritime artery of the Aurèldían and Āsháian faiths.
 name:
   full: Vylarian Sea
-  aliases: []
 id: JWByO0F561rYME7K
 shortcode: vylarianse
 img: ""

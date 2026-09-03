@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunmere
 id: MbOkXD6PFlAjMucq
 tags:
   - village
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Dunmere
-  aliases: []
 shortcode: dunmere
 folder: ZbE1NQo3ApZ26xon
 ---

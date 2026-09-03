@@ -1,12 +1,9 @@
 ---
-aliases:
-  - City-States of Helionis
 id: RmbC48jofCWWg627
 description: "Confederation of independent city-states bound by shared culture, language, and games rather than political unity — philosophers, athletes, and seafarers in a region of eternal rivalry and honor."
 type: affiliation
 name:
   full: City-States of Heliónis
-  aliases: []
 shortcode: ctysttshlns
 subType: polity
 data:

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tàlîma Thamîrîon
-  - Talima Thamirion
 tags:
   - draft
   - soldiery

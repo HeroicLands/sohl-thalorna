@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Natural Attunement
 tags: []
 name:
   full: Natural Attunement
-  aliases: []
 id: zM3QEMALDimIYvac
 img: icons/psionics.svg
 shortcode: natn

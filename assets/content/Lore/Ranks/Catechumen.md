@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Catechumen
 tags:
   - draft
 id: 8ZFtPLlVkhk32HvJ
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Catechumen
-  aliases: []
 shortcode: catechumenrnk
 description: "Under instruction and not yet received: permitted to hear and not to partake."
 ---

@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: Sovereign Poultice
-  aliases: []
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."
 id: trWISd0MOsVjBWhd
 img: icons/potion.svg

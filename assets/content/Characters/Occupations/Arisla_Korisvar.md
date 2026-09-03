@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Árisla Kórisvar
-  - Arisla Korisvar
 tags:
   - draft
   - administration

@@ -12,7 +12,6 @@ shortcode: karnavos
 img: images/affiliation/karnavos.webp
 name:
   full: "Ritual: Karnavos"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

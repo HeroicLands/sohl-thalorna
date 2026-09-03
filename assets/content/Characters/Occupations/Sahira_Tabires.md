@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sahîra Tâbîrês
-  - Sahira Tabires
 tags:
   - draft
   - tradesfolk

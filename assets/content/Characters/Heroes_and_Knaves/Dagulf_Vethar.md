@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dágulf Véthar
-  - Dagulf Vethar
 tags:
   - blackpine-wolves
   - brigand
@@ -13,7 +10,6 @@ name:
   title: ""
   given: Dágulf
   clan: Véthar
-  aliases: []
 id: 6Bc5fC5rRrl6cMNj
 folder: Nu7AgLZEmR26u2pk
 shortcode: dagulfvthr

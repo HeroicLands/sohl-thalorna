@@ -1,10 +1,7 @@
 ---
-aliases:
-  - The Forgotten Shrine of the Thúravel Hills
 id: Fm1sT1WhmdKq3N5h
 name:
   full: The Forgotten Shrine of the Thuravel Hills
-  aliases: []
 shortcode: frgtnshrnthrvlhls
 type: scenario
 subType: adventure

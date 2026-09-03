@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Solárden
-  - Solarden
 id: OXCppoDSENMyNm24
 tags:
   - town
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Solárden
-  aliases: []
 shortcode: solarden
 folder: DB9rgGreD8FtqoBx
 ---

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Drekavík
-  - Drekavik
 id: dFMvJ2wRf3xqTdLU
 tags:
   - village
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Drekavík
-  aliases: []
 shortcode: drekavik
 folder: k5SVeYFVPAxS9hci
 ---

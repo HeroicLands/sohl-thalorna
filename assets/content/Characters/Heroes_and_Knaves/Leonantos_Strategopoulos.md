@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Leónantos Stratégopoulos
-  - Leónantos Stratégopoulos
-  - Leonantos Strategopoulos
 tags:
   - heroes-and-knaves
   - todo
@@ -14,7 +10,6 @@ name:
   given: Leónantos
   clan: Stratégopoulos
   home: Chrysamar
-  aliases: []
 id: 4wtqksxBi9W6iVQ1
 folder: b81DHx3S7C9ep13E
 shortcode: lnntstrtgpls

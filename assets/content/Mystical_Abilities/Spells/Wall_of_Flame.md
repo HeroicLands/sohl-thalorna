@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wall of Flame
 tags: []
 name:
   full: Wall of Flame

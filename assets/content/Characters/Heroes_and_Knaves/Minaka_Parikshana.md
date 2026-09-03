@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Minàka Parikṣhana
-  - Minàka Parikṣhana
-  - Minaka Parikshana
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Minàka
   clan: Parikṣhana
   home: Vyālendra
-  aliases: []
 id: EObT8J1l6UEFApNm
 folder: JotxZnnXcTECeYW3
 shortcode: minakprkhn

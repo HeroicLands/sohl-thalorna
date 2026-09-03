@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fródwyn Dómhár
-  - Frodwyn Domhar
 tags:
   - draft
   - tradesfolk

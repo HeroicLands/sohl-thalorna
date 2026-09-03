@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Granaria
 id: Hy2rKx7mGp4Tb9Ln
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 7000
 name:
   full: Granaria
-  aliases: []
 shortcode: granaria
 folder: WSdLuPc7BaRqxNEt
 ---

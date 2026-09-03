@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sphere
 tags: []
 name:
   full: Orb

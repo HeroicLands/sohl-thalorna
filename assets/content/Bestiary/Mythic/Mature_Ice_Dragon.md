@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Mature Ice Dragon
 tags:
   - mythic
   - image-needed
 name:
   full: Mature Ice Dragon
-  aliases: []
 description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot wings, an ancient architect of its own legend after centuries of scheming."
 id: 2tsk1oPbOk4V5jJf
 img: icons/game-icons/faithtoken/dragon-head.svg

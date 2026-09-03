@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bréthar Sálthar
-  - Brethar Salthar
 tags:
   - draft
   - common-folk

@@ -7,7 +7,6 @@ tags:
 description: Crossroads region of southern Ankaris — a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
 name:
   full: Hellád Region
-  aliases: []
 id: fT0m0zgori7CbpJj
 shortcode: heladrgn
 img: ""

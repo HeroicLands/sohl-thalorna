@@ -1,12 +1,9 @@
 ---
-aliases:
-  - External Threats
 id: 8z3Hj18DKx5GVtVn
 type: lore
 subType: history
 name:
   full: External Threats
-  aliases: []
 shortcode: extrnlthrts
 folder: l3wIL8UihJI5nx6L
 ---

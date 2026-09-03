@@ -11,7 +11,6 @@ id: Ru9ClYULaK1GevP1
 shortcode: seker
 name:
   full: "Ritual: Sēker"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

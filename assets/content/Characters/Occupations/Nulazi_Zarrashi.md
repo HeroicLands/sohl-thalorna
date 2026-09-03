@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nûlazî Zarrâshî
-  - Nulazi Zarrashi
 tags:
   - draft
   - tradesfolk

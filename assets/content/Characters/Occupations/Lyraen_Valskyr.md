@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lýraen Válskyr
-  - Lyraen Valskyr
 tags:
   - draft
   - common-folk

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hálrikos Bránthira
-  - Hálrikos Bránthira
-  - Halrikos Branthira
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Hálrikos
   clan: Bránthira
   home: Torreviga
-  aliases: []
 id: emuJyRdRzH4YsiI3
 folder: 9t9O4iB5cYJtSaTG
 shortcode: hlrksbrnthr

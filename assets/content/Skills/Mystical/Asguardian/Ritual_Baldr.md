@@ -12,7 +12,6 @@ shortcode: baldr
 img: images/affiliation/baldr.webp
 name:
   full: "Ritual: Baldr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

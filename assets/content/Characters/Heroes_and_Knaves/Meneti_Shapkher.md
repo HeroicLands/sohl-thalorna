@@ -12,7 +12,6 @@ name:
   given: Meneti
   clan: Shap'kher
   home: Khensuret
-  aliases: []
 id: IT0MZM3HrICcrOwb
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

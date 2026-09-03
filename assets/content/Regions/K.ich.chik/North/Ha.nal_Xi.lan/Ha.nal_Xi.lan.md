@@ -1,13 +1,10 @@
 ---
-aliases:
-  - Ha'nal Xi'lan
 tags:
   - polity
 title: ""
 description: River-laced borderlands where three northern peoples contest the bottomlands, forests, and trade routes of the great central valley.
 name:
   full: Ha'nal Xi'lan
-  aliases: []
 id: 4i28v3FDOsPYV0pv
 shortcode: hanalxilan
 img: ""

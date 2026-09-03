@@ -1,8 +1,5 @@
 ---
 description: "Water."
-aliases:
-  - Zhütshüt Lüng
-  - Zhutshut Lung
 id: uKG7YwrB6Z7ZXJVP
 tags:
   - celestial-order
@@ -10,7 +7,6 @@ tags:
   - water
 name:
   full: Zhütshüt Lüng
-  aliases: []
 shortcode: zhutshtlng
 type: affiliation
 subType: faithtradition

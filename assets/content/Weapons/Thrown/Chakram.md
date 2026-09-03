@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Chakram
 tags: []
 name:
   full: Chakram
-  aliases: []
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
 id: 2F1GQNY7FtnuzueG
 img: icons/circle.svg

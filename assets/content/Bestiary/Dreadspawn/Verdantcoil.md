@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Verdantcoil
 tags:
   - dreadspawn
 name:
   full: Verdantcoil
-  aliases: []
 description: "A colossal, patient snake of corrupted origin that lurks motionless in ancient forests, waiting days to strike from ambush."
 id: e18xTUwy6qZEDvSE
 img: icons/game-icons/delapouite/griffin-symbol.svg

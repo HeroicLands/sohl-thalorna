@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dómrithâs Vîshârdâs
-  - Dómrithâs Vîshârdâs
-  - Domrithas Vishardas
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Dómrithâs
   clan: Vîshârdâs
   home: Nartûm
-  aliases: []
 id: UjnAChynlU60dM9m
 folder: UFBfgKZUF0bAE7gG
 shortcode: dmrthsvshrds

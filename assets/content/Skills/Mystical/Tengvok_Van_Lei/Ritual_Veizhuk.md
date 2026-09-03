@@ -12,7 +12,6 @@ id: vFyGKnWYwN3hPuCW
 shortcode: veizhuk
 name:
   full: "Ritual: Vëizhük"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

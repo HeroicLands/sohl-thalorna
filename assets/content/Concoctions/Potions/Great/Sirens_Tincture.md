@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: "Siren's Tincture"
-  aliases: []
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
 id: gUsDtV3N8gXMkJjm
 img: icons/potion.svg

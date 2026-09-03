@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Sólvargr
-  - Thorsteinn Sólvargr
-  - Thorsteinn Solvargr
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Thorsteinn
   clan: Sólvargr
   home: Haldrvík
-  aliases: []
 id: Xi62HBbqAfDw60NQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnslvrgr

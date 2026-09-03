@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Glowvine
 tags:
   - dreadspawn
 name:
   full: Glowvine
-  aliases: []
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
 id: dQx4jt8bWKxTwaOT
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -6,7 +6,6 @@ tags:
   - great-elixir
 name:
   full: Deathstaunch
-  aliases: []
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 id: cMbQm31VG5fPSRKF
 img: icons/potion.svg

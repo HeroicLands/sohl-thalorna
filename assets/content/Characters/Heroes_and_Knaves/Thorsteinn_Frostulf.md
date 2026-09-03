@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Frostulf
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -10,7 +8,6 @@ name:
   given: Thorsteinn
   clan: Frostulf
   home: Bjornstad
-  aliases: []
 id: uxEkxAHHqmd0fVfS
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnfrstlf

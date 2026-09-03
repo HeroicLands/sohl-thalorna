@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haukstad
 id: jjrNvguHkGppBHx6
 tags:
   - post
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Haukstad
-  aliases: []
 shortcode: haukstad
 folder: tUOAFxX25mViDE7q
 ---

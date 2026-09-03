@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hallbjǫrn Ásgrind
-  - Hallbjorn Asgrind
 tags:
   - draft
   - tradesfolk

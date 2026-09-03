@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Magnús Skǫllbrandr
-  - Magnus Skollbrandr
 tags:
   - draft
   - guilded

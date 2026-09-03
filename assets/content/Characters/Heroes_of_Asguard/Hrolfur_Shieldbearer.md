@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hrólfur Shieldbearer
-  - Hrolfur Shieldbearer
 tags:
   - paragon
   - heroes-of-asguard

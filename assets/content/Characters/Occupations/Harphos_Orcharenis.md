@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Harphôs Ôrchârenîs
-  - Harphos Orcharenis
 tags:
   - draft
   - guilded

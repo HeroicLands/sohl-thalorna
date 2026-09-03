@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Abyssal Silt
 tags:
   - dreadspawn
 name:
   full: Abyssal Silt
-  aliases: []
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
 id: 1afcBWsxQXPUIBxG
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Young Fire Dragon
 tags:
   - mythic
   - image-needed
 name:
   full: Young Fire Dragon
-  aliases: []
 description: "A century-old fire dragon at its most volatile, killing with raw territorial ferocity as it carves out fresh land and hoard."
 id: x9FJYB3bym5ZUUgs
 img: icons/game-icons/faithtoken/dragon-head.svg

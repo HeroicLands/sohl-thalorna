@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Byzarian League
 id: fZp77I3Dod0keMHA
 description: "Confederation of five trading cities at the crossroads of east and west — neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tariffs and collective naval defense."
 type: affiliation
 name:
   full: Byzarian League
-  aliases: []
 shortcode: byzarianlg
 subType: polity
 data:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrothgar Ironfist
 tags:
   - paragon
   - heroes-of-asguard

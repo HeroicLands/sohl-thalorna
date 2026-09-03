@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Suggestion
 tags: []
 name:
   full: Whisperwill

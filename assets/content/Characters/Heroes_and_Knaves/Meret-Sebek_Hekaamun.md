@@ -12,7 +12,6 @@ name:
   given: Meret-Sebek
   clan: Heka’amun
   home: Meru-Hotep
-  aliases: []
 id: O8DM193IL84QUQZb
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

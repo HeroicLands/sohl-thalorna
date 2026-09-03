@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alyssar
 id: tcjuUdxJxxs60dLX
 tags:
   - capital
@@ -16,7 +14,6 @@ data:
   population: 45000
 name:
   full: Alyssar
-  aliases: []
 shortcode: alyssar
 folder: WSdLuPc7BaRqxNEt
 ---

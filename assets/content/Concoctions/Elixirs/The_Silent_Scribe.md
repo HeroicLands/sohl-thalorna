@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Silent Scribe
-  aliases: []
 description: "Crystalline purple draft; grants ability to read and understand."
 id: tDc4nTSkUSS0QUjb
 img: icons/potion.svg

@@ -1,10 +1,4 @@
 ---
-aliases:
-  - Sôd-Naqîrîn
-  - Sod-Naqirin
-  - The Sôd
-  - The Council of the Guild-Wardens
-  - Bêt-Naqîrîn
 tags:
   - organization
   - harad

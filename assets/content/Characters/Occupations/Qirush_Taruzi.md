@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Qirûsh Tarûzî
-  - Qirush Taruzi
 tags:
   - draft
   - tradesfolk

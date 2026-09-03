@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: "Courtier's Allure"
-  aliases: []
 description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
 id: I7u0weHNvAjOudHA
 img: icons/potion.svg

@@ -1,9 +1,5 @@
 ---
 description: "Fire."
-aliases:
-  - Rásikara
-  - Rasikara
-  - The Flame of Renewal
 id: XDakQX8s87fWHT7t
 tags:
   - varnaka

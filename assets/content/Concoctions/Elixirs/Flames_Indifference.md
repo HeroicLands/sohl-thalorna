@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Flame's Indifference"
-  aliases: []
 description: "Scarlet flame-touched elixir; protects against heat and fire damage."
 id: JwZQZ0YmaJwAFS6p
 img: icons/potion.svg

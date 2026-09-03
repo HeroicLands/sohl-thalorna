@@ -2,9 +2,6 @@
 tags:
   - draft
   - village
-aliases:
-  - Ékunda
-  - Ekunda
 id: VQ6dTH1kqTQUvI3F
 description: "Village"
 type: place
@@ -18,7 +15,6 @@ data:
   population: null
 name:
   full: Ékunda
-  aliases: []
 shortcode: ekunda
 folder: Ka6y9l5O5XGpNhfI
 ---

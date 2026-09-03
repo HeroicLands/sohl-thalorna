@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sovereign
 tags:
   - draft
 id: NY333Hi9ktfrU42N
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Sovereign
-  aliases: []
 shortcode: sovereignrnk
 description: "The apex from which every other standing in the body derives."
 ---

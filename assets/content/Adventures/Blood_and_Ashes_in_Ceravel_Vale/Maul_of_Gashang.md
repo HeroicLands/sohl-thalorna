@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Maul of Gashang
 id: d9BoTVxtuL3YRqgD
 type: scenario
 subType: adventure
@@ -20,7 +18,6 @@ data:
     archetypes: []
 name:
   full: Maul of Gashang
-  aliases: []
 shortcode: maulgashng
 folder: 9TmLIkGXGHMtFxzy
 ---

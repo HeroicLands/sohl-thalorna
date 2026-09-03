@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ázîta Râkhrîdês
-  - Azita Rakhrides
 tags:
   - draft
   - tradesfolk

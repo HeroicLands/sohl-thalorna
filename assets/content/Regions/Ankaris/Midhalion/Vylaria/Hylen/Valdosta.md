@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valdosta
 id: mT25GbjyVhZHPVHL
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 5000
 name:
   full: Valdosta
-  aliases: []
 shortcode: valdosta
 folder: WSdLuPc7BaRqxNEt
 ---

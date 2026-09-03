@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garulf Druthgar
 tags:
   - tamzir-crew
   - soldiery
@@ -9,7 +7,6 @@ name:
   title: ""
   given: Garulf
   clan: Druthgar
-  aliases: []
 id: 1AijJWW9daL9R2kZ
 folder: Nu7AgLZEmR26u2pk
 shortcode: grlfdrthgr

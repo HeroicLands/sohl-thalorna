@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Tëitjëk Vëngyürt
-  - Teitjek Vengyurt
 id: IeRBitOhNW9W1apE
 type: lore
 subType: history
 name:
   full: Tëitjëk Vëngyürt
-  aliases: []
 shortcode: ttjkvngyrt
 folder: l3wIL8UihJI5nx6L
 ---

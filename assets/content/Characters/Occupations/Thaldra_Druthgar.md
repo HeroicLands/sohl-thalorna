@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thaldrá Druthgar
-  - Thaldra Druthgar
 tags:
   - draft
   - common-folk

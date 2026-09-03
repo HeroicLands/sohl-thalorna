@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dôren Sýndalr
 tags:
   - hero
   - silent-talon
@@ -11,7 +9,6 @@ name:
   title: ""
   given: Dôren
   clan: Sýndalr
-  aliases: []
 id: 5l0LmrkfSYMUUxui
 folder: J9R0fnGUTBY5z4pd
 shortcode: dornsyndlr

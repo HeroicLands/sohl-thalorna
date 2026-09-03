@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Càndrathar Āchāryamukhyēśvara
-  - Càndrathar Āchāryamukhyēśvara
-  - Candrathar Acharyamukhyesvara
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Càndrathar
   clan: Āchāryamukhyēśvara
   home: Rājapur
-  aliases: []
 id: XXiPdWrbAZaXkOY9
 folder: JotxZnnXcTECeYW3
 shortcode: cndrthrchrymkhysvr

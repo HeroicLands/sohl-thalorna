@@ -14,7 +14,6 @@ id: nKUTkE0IvG0Xu2FS
 shortcode: vyalendravada
 name:
   full: "Ritual: Vyālendravāda"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

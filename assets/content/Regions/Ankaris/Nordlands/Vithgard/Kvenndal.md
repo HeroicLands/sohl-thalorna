@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kvenndal
 id: hlCieAQkrHQguMjN
 tags:
   - settlement
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Kvenndal
-  aliases: []
 shortcode: kvenndal
 folder: KvGb463Iw9hZLRjp
 ---

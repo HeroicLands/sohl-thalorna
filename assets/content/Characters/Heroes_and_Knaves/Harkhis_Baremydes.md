@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Harkhîs Bàremydês
-  - Harkhîs Bàremydês
-  - Harkhis Baremydes
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Harkhîs
   clan: Bàremydês
   home: Belekos
-  aliases: []
 id: s99osv3adjS5B63L
 folder: UFBfgKZUF0bAE7gG
 shortcode: hrkhsbrmyds

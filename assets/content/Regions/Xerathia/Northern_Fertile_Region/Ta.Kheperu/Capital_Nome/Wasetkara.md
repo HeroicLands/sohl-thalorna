@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wasetkara
 id: yKyHOnW4vqQivkJZ
 tags:
   - city
@@ -17,7 +15,6 @@ data:
   population: 450000
 name:
   full: Wasetkara
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: wasetkara
 folder: 6HgEgHggm50Aphlq

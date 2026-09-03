@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edric Alverton
 tags:
   - draft
   - common-folk

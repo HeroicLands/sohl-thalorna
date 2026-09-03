@@ -17,7 +17,6 @@ data:
   population: null
 name:
   full: Magnápolis
-  aliases: []
 shortcode: magnapolis
 folder: WSdLuPc7BaRqxNEt
 ---

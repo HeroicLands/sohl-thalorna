@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Castamar
 id: Vd9rKx2mWp7Tb4Ln
 tags:
   - city
@@ -17,7 +15,6 @@ data:
   population: 20000
 name:
   full: Castamar
-  aliases: []
 shortcode: castamar
 folder: WSdLuPc7BaRqxNEt
 ---

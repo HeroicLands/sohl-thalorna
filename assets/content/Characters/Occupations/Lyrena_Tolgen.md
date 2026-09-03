@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lýrena Tólgen
-  - Lyrena Tolgen
 tags:
   - draft
   - tradesfolk

@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Grukarhölm
-  - Grukarholm
 id: PnGEc2bdyAKzDnNz
 description: "Underground kingdom of the Grukar (hill-dwarves) carved into the Grukar Mountains — isolated, insular, and largely unknown to the surface world."
 type: affiliation
 name:
   full: Grukarhölm
-  aliases: []
 shortcode: grukarholm
 subType: polity
 data:

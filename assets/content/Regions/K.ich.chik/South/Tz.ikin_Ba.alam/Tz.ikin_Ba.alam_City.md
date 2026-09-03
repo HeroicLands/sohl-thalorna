@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'ikin Ba'alam
 id: 81GNYrgkAYEus3dq
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Tz'ikin Ba'alam
-  aliases: []
 shortcode: tzikinbalm2
 ---
 

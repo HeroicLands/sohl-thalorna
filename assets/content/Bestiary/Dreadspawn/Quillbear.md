@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Quillbear
 tags:
   - dreadspawn
 name:
   full: Quillbear
-  aliases: []
 description: "A reclusive abomination of bear strength and porcupine quills that lairs in deep burrows and turns explosively aggressive when threatened."
 id: oqNIZvLCRl1RMynG
 img: icons/game-icons/delapouite/bear-head.svg

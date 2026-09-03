@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Vedyaran Rhinoceros
 tags:
   - animal
   - image-needed
 name:
   full: Vedyaran Rhinoceros
-  aliases: []
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
 id: gg3f6OB21jF3mg0f
 img: icons/game-icons/delapouite/rhinoceros-horn.svg

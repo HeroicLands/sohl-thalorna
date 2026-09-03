@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hawise Ashby
 tags:
   - draft
   - soldiery

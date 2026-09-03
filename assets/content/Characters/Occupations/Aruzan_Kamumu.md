@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Arûzan Kamûmû
-  - Aruzan Kamumu
 tags:
   - draft
   - soldiery

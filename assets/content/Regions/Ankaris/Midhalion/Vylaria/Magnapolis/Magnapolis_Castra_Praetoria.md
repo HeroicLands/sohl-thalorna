@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Castra Praetoria
-  - The Castra
 tags:
   - settlement
   - vylaria

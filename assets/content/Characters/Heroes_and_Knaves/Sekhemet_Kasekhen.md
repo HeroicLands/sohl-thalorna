@@ -12,7 +12,6 @@ name:
   given: Sekhemet
   clan: Ka'sekhen
   home: Khensuret
-  aliases: []
 id: 4jK9YFO53TFGWXN6
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

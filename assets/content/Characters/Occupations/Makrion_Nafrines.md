@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mákrion Nâfrinês
-  - Makrion Nafrines
 tags:
   - draft
   - mages

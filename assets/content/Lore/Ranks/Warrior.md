@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Warrior
 tags:
   - draft
 id: MFeQ0sAu0WtRjfZE
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Warrior
-  aliases: []
 shortcode: warriorrnk
 description: "Bearing arms by right and reckoned a fighter rather than a levy."
 ---

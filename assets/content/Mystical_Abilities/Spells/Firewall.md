@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wall
 tags: []
 name:
   full: Firewall

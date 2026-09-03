@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zahira Malkhet
-  - The Hound of the Veil
 tags:
   - heroes-and-knaves
   - hero

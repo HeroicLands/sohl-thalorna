@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sàfîros Râkhmônis
-  - Safiros Rakhmonis
 tags:
   - draft
   - soldiery

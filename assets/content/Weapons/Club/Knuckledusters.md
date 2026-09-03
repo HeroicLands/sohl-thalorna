@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Knuckledusters
 tags: []
 name:
   full: Knuckledusters
-  aliases: []
 description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
 id: 9fUBzprkjX25L734
 img: icons/knuckledusters.svg

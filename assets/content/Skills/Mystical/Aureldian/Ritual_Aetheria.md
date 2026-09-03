@@ -14,7 +14,6 @@ shortcode: aetheria
 img: images/affiliation/aetheria.webp
 name:
   full: "Ritual: Æthería"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

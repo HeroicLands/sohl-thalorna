@@ -13,7 +13,6 @@ id: 8s1B5qXRmm5ZKpPW
 shortcode: vyalendra
 name:
   full: "Ritual: Vyālendra"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

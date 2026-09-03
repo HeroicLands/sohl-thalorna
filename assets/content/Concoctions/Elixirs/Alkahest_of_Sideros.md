@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Alkahest of Sidéros
-  aliases: []
 description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
 id: UCbUI60LUC7ElgG7
 img: icons/potion.svg

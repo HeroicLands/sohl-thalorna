@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Astrid the Forsaken
 tags:
   - demigod
   - heroes-of-asguard

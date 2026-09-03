@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Oswald Dunwell
 tags:
   - draft
   - administration

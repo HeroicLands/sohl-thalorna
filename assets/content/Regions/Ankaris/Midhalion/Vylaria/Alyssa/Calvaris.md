@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calvaris
 id: Al3hGx4mCq9Tb2Ld
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 9000
 name:
   full: Calvaris
-  aliases: []
 shortcode: calvaris
 folder: WSdLuPc7BaRqxNEt
 ---

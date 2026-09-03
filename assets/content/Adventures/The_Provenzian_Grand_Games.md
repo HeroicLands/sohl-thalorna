@@ -1,10 +1,7 @@
 ---
-aliases:
-  - The Provenzian Grand Games
 id: 4rNLJkKcYOoURxqO
 name:
   full: The Provenzian Grand Games
-  aliases: []
 shortcode: prvnzngrndgms
 type: scenario
 subType: adventure

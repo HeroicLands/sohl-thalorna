@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Haldrvík
-  - Haldrvik
 id: zvHZeopFCRUFvSUh
 tags:
   - port
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Haldrvík
-  aliases: []
 shortcode: haldrvik
 folder: KvGb463Iw9hZLRjp
 ---

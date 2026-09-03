@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thorrborg
 id: lLZtjVvo1K6TGm1A
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Thorrborg
-  aliases: []
 shortcode: thorrborg
 folder: KvGb463Iw9hZLRjp
 ---

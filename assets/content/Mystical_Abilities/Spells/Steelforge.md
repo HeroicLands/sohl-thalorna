@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tempering
 tags: []
 name:
   full: Steelforge

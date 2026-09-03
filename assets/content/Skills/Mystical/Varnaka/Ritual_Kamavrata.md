@@ -13,7 +13,6 @@ id: mvVDbo7atxmWl3qm
 shortcode: kamavrata
 name:
   full: "Ritual: Kāmavrata"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

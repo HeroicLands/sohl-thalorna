@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thêbas Ghânîdês
-  - Thebas Ghanides
 tags:
   - draft
   - common-folk

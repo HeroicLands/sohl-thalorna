@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Teshûran Bûrnashî
-  - Teshuran Burnashi
 tags:
   - draft
   - soldiery

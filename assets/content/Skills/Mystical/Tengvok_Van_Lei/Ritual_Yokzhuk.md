@@ -14,7 +14,6 @@ id: g4SPdofC5APWStnr
 shortcode: yokzhuk
 name:
   full: "Ritual: Yökzhük"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korsvik
 id: Vd3yPx6kKm2Sb8Ln
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 7000
 name:
   full: Korsvik
-  aliases: []
 shortcode: korsvik
 folder: WSdLuPc7BaRqxNEt
 ---

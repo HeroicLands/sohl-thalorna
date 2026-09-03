@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mêntrâ Kêrîamyês
-  - Mentra Keriamyes
 tags:
   - draft
   - tradesfolk

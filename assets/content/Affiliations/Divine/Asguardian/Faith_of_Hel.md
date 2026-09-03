@@ -1,7 +1,5 @@
 ---
 description: "Dead and Underworld."
-aliases:
-  - Faith of Hél
 id: wBAfvdAOyxI8JvtP
 tags:
   - asguardian

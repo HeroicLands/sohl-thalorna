@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Repel
 tags: []
 name:
   full: Pushback

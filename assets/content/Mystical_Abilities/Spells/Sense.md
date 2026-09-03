@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feel
 tags: []
 name:
   full: Sense

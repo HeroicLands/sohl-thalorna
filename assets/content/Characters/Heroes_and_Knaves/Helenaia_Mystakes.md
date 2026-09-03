@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hélénaia Mystákês
-  - Hélénaia Mystákês
-  - Helenaia Mystakes
 tags:
   - heroes-and-knaves
   - todo
@@ -13,7 +9,6 @@ name:
   given: Hélénaia
   clan: Mystákês
   home: Karataş
-  aliases: []
 id: pgoKQsvyOFACnMKU
 folder: b81DHx3S7C9ep13E
 shortcode: helnmystks

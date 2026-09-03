@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Yeşilhan
-  - Yesilhan
 id: Kp8FWi2xfH3Yz9Iz
 description: "Green-land city-state of the Byzarian League on the southern coast — prosperous maritime city with a reputation for gardeners, merchants, and peaceful culture."
 type: affiliation
 name:
   full: Yeşilhan
-  aliases: []
 shortcode: yesilhan
 subType: polity
 data:

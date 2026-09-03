@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorlákr Vindrkvé
-  - Thorlákr Vindrkvé
-  - Thorlakr Vindrkve
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Thorlákr
   clan: Vindrkvé
   home: Blóth
-  aliases: []
 id: u6Leo9Ecs0DxnsNo
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrlkrvndrkv

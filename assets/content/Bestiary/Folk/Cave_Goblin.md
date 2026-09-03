@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Cave Goblin
 tags:
   - folk
 name:
   full: Cave Goblin
-  aliases: []
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
 id: pDiXk1iBL5unp4Q3
 img: icons/game-icons/caro-asercion/goblin.svg

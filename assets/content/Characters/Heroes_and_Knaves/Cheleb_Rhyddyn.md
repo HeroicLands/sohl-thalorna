@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chéleb Rhýddýn
 tags:
   - character
   - hero
@@ -12,7 +10,6 @@ name:
   title: ""
   given: Chéleb
   clan: Rhýddýn
-  aliases: []
 id: PTMNrOoyG1L212mK
 folder: J9R0fnGUTBY5z4pd
 shortcode: chlbrhydyn

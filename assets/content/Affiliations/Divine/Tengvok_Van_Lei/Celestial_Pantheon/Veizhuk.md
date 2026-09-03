@@ -1,8 +1,5 @@
 ---
 description: "Bureaucracy."
-aliases:
-  - Vëizhük
-  - Veizhuk
 id: 9NGsHssTmzCM7m7A
 tags:
   - celestial-official
@@ -10,7 +7,6 @@ tags:
   - bureau-of-order
 name:
   full: Vëizhük
-  aliases: []
 shortcode: veizhuk
 type: affiliation
 subType: faithtradition

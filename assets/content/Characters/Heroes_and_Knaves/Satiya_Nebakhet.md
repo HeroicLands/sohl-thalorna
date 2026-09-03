@@ -12,7 +12,6 @@ name:
   given: Satîya
   clan: Neb'akhet
   home: Meru-Hotep
-  aliases: []
 id: dJqasQpgkCLp0rSM
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

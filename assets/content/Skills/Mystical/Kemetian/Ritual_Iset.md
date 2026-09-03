@@ -13,7 +13,6 @@ id: q5DDjRoqPhzgAKZL
 shortcode: iset
 name:
   full: "Ritual: Íšét"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashenmere
 id: lmR93dIZz6Bv7Vwh
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 4000
 name:
   full: Ashenmere
-  aliases: []
 shortcode: ashenmere
 folder: WSdLuPc7BaRqxNEt
 ---

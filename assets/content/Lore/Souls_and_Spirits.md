@@ -13,7 +13,6 @@ tags:
 type: lore
 name:
   full: The Truth of Souls
-  aliases: []
 subType: cosmology
 id: 4MHP68GuoaAZVOD9
 folder: t3p5qf6rZc8w0Nc4

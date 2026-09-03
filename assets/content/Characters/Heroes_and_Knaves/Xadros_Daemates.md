@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Xadrôs Dâemâtês
-  - Xadrôs Dâemâtês
-  - Xadros Daemates
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Xadrôs
   clan: Dâemâtês
   home: Sanctara
-  aliases: []
 id: kSbpsbr6fEgtilry
 folder: UFBfgKZUF0bAE7gG
 shortcode: xadrosdmts

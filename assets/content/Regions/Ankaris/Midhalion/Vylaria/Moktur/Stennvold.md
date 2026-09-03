@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stennvold
 id: Mk9vNx3kSp2Rb8Lt
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 4000
 name:
   full: Stennvold
-  aliases: []
 shortcode: stennvold
 folder: WSdLuPc7BaRqxNEt
 ---

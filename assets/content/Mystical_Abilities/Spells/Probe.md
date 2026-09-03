@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Enquiry
 tags: []
 name:
   full: Probe

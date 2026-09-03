@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Giant Hedgehog
 tags:
   - animal
 name:
   full: Giant Hedgehog
-  aliases: []
 description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills, rooting through leaf litter for grubs and roots but perilous to touch."
 id: DWJU5xSE5N4KxtaN
 img: icons/game-icons/caro-asercion/hedgehog.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Falkenstein
 id: TgcoCbH421uQfKWo
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Falkenstein
-  aliases: []
 shortcode: falkensten
 folder: mCG1TPvjwrV23csZ
 ---

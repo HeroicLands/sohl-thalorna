@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Atenheru Sahri
 tags:
   - heroes-and-knaves
   - hero

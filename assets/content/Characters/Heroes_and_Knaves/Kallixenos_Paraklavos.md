@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kallíxenos Paraklávos
-  - Kallíxenos Paraklávos
-  - Kallixenos Paraklavos
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Kallíxenos
   clan: Paraklávos
   home: Kostaros
-  aliases: []
 id: rVSVRH2h1MF6RDP7
 folder: b81DHx3S7C9ep13E
 shortcode: klxnsprklvs

@@ -2,8 +2,6 @@
 tags: []
 name:
   full: Embermark
-  aliases:
-    - Embermark
 description: "Scorches persistent glowing rune; marks target or ignites later."
 id: eeK4XtWW4DRjD3mZ
 img: icons/fire.svg

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Harpêros Vârkrâtys
-  - Harperos Varkratys
 tags:
   - draft
   - soldiery

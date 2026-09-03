@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tàlîra Bâshirôn
-  - Talira Bashiron
 tags:
   - draft
   - mages

@@ -12,7 +12,6 @@ name:
   given: Satara
   clan: Re'en'Khensu
   home: Khensuret
-  aliases: []
 id: 0Cn6X5sgjYv7AeHV
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

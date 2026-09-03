@@ -12,7 +12,6 @@ id: 53jio6hpMUzxskpR
 shortcode: vorjikjek
 name:
   full: "Ritual: Vōrjīk Jëk"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

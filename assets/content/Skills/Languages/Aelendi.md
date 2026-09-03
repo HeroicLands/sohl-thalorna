@@ -6,7 +6,6 @@ aliases:
 tags: []
 name:
   full: Áelendi Language
-  aliases: []
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
 id: 2Pk8zNqRvTc4WbYj
 img: icons/speaking.svg

@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Járldom of Stormveld
-  - Jarldom of Stormveld
 id: MuzSirFCf1jkb5Rg
 description: "Loose confederation of Normen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 type: affiliation
 name:
   full: Járldom of Stormveld
-  aliases: []
 shortcode: jrldmstrmvld
 subType: polity
 data:

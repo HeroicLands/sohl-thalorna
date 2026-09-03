@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Giant Jumping Spider
 tags:
   - animal
 name:
   full: Giant Jumping Spider
-  aliases: []
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
 id: A95HDhCBTL8EVKBO
 img: icons/game-icons/carl-olsen/spider-alt.svg

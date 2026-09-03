@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tázîtha Ibârîdês
-  - Tazitha Ibarides
 tags:
   - draft
   - common-folk

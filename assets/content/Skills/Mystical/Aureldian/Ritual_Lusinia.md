@@ -13,7 +13,6 @@ shortcode: lusinia
 img: images/affiliation/lusinia.webp
 name:
   full: "Ritual: Lusinia"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

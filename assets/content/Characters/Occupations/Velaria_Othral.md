@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vélaria Óthral
-  - Velaria Othral
 tags:
   - todo
   - draft

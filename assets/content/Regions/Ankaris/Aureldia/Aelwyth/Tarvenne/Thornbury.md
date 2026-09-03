@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thornbury
 id: E6Vn40TZpRRBN2on
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Thornbury
-  aliases: []
 shortcode: thornbury
 folder: ZbE1NQo3ApZ26xon
 ---

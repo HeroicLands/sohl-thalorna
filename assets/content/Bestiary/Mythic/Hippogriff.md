@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Hippogryph
 tags:
   - mythic
   - image-needed
 name:
   full: Hippogryph
-  aliases: []
 description: "A five-hundred-pound eagle-and-horse hybrid prized for balance over raw power, lacking the gryphon's fierce territorial aggression."
 id: 9JVkmvPhZ6b3UtGU
 img: icons/game-icons/delapouite/griffin-symbol.svg

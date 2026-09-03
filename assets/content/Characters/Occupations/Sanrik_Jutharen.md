@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sánrik Jútharen
-  - Sanrik Jutharen
 tags:
   - draft
   - tradesfolk

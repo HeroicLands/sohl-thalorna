@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zádìmêros Mâkîthôn
-  - Zadimeros Makithon
 tags:
   - draft
   - guilded

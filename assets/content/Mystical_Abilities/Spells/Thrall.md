@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Animus
 tags: []
 name:
   full: Thrall

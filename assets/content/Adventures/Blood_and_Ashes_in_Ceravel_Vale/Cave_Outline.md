@@ -1,8 +1,6 @@
 ---
 tags:
   - draft
-aliases:
-  - Cave Outline
 id: xtuTF2bDckVdkrE5
 type: scenario
 subType: adventure
@@ -20,7 +18,6 @@ data:
     archetypes: []
 name:
   full: Cave Outline
-  aliases: []
 shortcode: caveoutlin
 folder: 9TmLIkGXGHMtFxzy
 ---

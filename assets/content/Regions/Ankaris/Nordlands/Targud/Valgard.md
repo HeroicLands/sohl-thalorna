@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valgard
 id: Qv1h5Bkc8jxqYmxh
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Valgard
-  aliases: []
 shortcode: valgard
 folder: oLeer7axjoeYQHiT
 ---

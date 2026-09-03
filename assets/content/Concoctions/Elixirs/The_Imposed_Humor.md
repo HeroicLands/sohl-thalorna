@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Imposed Humor
-  aliases: []
 description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
 id: sTHLJjvB1WGtGsau
 img: icons/potion.svg

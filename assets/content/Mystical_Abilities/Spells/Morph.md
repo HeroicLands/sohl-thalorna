@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shape
 tags: []
 name:
   full: Morph

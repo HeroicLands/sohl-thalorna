@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pall
 tags: []
 name:
   full: Mistcloak

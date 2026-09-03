@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Émyna Óthral
-  - Emyna Othral
 tags:
   - draft
   - administration

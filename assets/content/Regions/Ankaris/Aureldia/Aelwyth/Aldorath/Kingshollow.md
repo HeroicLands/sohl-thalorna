@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kingshollow
 id: jhd8AiAzVvvLpI9j
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Kingshollow
-  aliases: []
 shortcode: kingsholow
 folder: ZbE1NQo3ApZ26xon
 ---

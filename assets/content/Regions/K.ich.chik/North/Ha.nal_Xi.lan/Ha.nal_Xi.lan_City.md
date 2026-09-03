@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ha'nal Xi'lan
 id: ZvysDgAlz9mgapDo
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ha'nal Xi'lan
-  aliases: []
 shortcode: hanalxilan2
 ---
 

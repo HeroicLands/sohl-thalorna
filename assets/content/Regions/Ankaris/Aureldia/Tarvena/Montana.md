@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Montaña
-  - Montana
 id: elbApD1i9cSa1Wyh
 tags:
   - city
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Montaña
-  aliases: []
 shortcode: montana
 folder: DB9rgGreD8FtqoBx
 ---

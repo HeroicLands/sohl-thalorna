@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Avice Winwick
 tags:
   - draft
   - tradesfolk

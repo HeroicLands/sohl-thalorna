@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrine Kalypsos
 tags:
   - heroes-and-knaves
   - character

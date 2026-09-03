@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ta-Djeser
 id: qqUbZEiqy6oeywb6
 tags:
   - necropolis
@@ -16,7 +14,6 @@ data:
   population: 40000
 name:
   full: Ta-Djeser
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tadjeser
 folder: 6HgEgHggm50Aphlq

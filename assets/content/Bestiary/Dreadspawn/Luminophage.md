@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Luminophage
 tags:
   - dreadspawn
 name:
   full: Luminophage
-  aliases: []
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
 id: Ul7aa7gAof3P8b46
 img: icons/game-icons/delapouite/griffin-symbol.svg

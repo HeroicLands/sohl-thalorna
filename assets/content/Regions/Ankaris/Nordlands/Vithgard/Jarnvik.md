@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Járnvík
-  - Jarnvik
 id: JVjT5UI2QiINN8NC
 tags:
   - port
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Járnvík
-  aliases: []
 shortcode: jarnvik
 folder: KvGb463Iw9hZLRjp
 ---

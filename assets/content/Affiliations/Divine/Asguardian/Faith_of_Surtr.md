@@ -1,7 +1,5 @@
 ---
 description: "Fire and Savage Battle."
-aliases:
-  - Faith of Súrtr
 id: ZRe4IWZLZlIFjqOt
 tags:
   - asguardian

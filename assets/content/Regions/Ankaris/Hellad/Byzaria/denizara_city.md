@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denizara
 id: 5w6iTAzXPr9vnCPP
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Denizara
-  aliases: []
 shortcode: denizara2
 ---
 

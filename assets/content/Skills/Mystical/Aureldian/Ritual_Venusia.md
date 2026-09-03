@@ -13,7 +13,6 @@ shortcode: venusia
 img: images/affiliation/venusia.webp
 name:
   full: "Ritual: Venusia"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thalísa Torvaleth
-  - Thalísa Torvaleth
-  - Thalisa Torvaleth
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Thalísa
   clan: Torvaleth
   home: Eskárath
-  aliases: []
 id: KRJE8JnPkSUIjjAs
 folder: 9t9O4iB5cYJtSaTG
 shortcode: thlstrvlth

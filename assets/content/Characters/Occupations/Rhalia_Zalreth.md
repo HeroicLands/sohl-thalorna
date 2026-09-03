@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rhália Zálreth
-  - Rhalia Zalreth
 tags:
   - draft
   - tradesfolk

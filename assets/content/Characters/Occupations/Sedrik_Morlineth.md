@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sédrik Mórlineth
-  - Sedrik Morlineth
 tags:
   - draft
   - soldiery

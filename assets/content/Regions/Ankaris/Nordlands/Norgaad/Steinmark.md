@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Steinmark
 id: 04Cgf8r1jWswmppD
 tags:
   - town
@@ -17,7 +15,6 @@ data:
   population: null
 name:
   full: Steinmark
-  aliases: []
 shortcode: steinmark
 folder: k5SVeYFVPAxS9hci
 ---

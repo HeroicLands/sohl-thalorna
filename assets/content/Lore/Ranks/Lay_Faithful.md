@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lay Faithful
 tags:
   - draft
 id: qPBNFSaLm640q53I
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Lay Faithful
-  aliases: []
 shortcode: layfaithfulrnk
 description: "Of a tradition by profession and observance, without office in it."
 ---

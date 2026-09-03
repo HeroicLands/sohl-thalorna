@@ -6,7 +6,6 @@ tags:
   - draft
 name:
   full: Ātárzādi Language
-  aliases: []
 description: "The tongue of Atarzari people."
 id: KdhLK3zMw79DU7AY
 img: icons/speaking.svg

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Faradûn Afrûn
-  - Faradûn Afrûn
-  - Faradun Afrun
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Faradûn
   clan: Afrûn
   home: Tahrodan
-  aliases: []
 id: 1t4ij9G8873glDfp
 folder: V1t8DVX0wKSOCJd5
 shortcode: faradunfrn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrafnfjord
 id: xeSkAGJdEwb4NNx6
 tags:
   - village
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Hrafnfjord
-  aliases: []
 shortcode: hrafnfjord
 folder: k5SVeYFVPAxS9hci
 ---

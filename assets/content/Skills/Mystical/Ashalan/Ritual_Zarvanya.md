@@ -11,7 +11,6 @@ id: rJttQjmxnBs2t5TL
 shortcode: zarvanya
 name:
   full: "Ritual: Zárványä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

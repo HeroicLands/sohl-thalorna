@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Āsháian Pantheon
-  - Ashaian Pantheon
 id: vFJwOjifH7GzSqeP
 tags:
   - pantheon

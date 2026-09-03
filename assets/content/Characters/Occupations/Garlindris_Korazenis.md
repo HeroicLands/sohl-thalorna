@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Garlîndris Korâzênis
-  - Garlindris Korazenis
 tags:
   - draft
   - administration

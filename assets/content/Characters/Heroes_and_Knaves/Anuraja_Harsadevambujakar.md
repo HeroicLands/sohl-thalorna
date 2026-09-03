@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Anûraja Harṣadēvāmbujakar
-  - Anûraja Harṣadēvāmbujakar
-  - Anuraja Harsadevambujakar
 tags:
   - heroes-and-knaves
   - underworld
@@ -12,7 +8,6 @@ name:
   given: Anûraja
   clan: Harṣadēvāmbujakar
   home: Chandrapur
-  aliases: []
 id: YHBgnmtqKa4EczPy
 folder: JotxZnnXcTECeYW3
 shortcode: anrjhrdvmbjkr

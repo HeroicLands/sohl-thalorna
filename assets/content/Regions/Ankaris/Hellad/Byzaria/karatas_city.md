@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karataş
 id: BSpoe64cjdqnAb45
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Karataş
-  aliases: []
 shortcode: karatas2
 ---
 

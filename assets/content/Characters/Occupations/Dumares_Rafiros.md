@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dûmàrês Râfîrôs
-  - Dumares Rafiros
 tags:
   - todo
   - draft

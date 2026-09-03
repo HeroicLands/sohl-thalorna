@@ -1,8 +1,5 @@
 ---
 description: "Lies."
-aliases:
-  - Yökzhük
-  - Yokzhuk
 id: rsaiaVKGg0AN8LUC
 tags:
   - yokveng

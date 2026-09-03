@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sandhyāgriha
-  - The House of the Long Evening
 tags:
   - vedyara
   - draft

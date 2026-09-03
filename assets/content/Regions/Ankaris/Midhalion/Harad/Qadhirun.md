@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Qadhirun
 id: eo7Mlrw34ELw2CFY
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Qadhirun
-  aliases: []
 shortcode: qadhirun
 folder: umL4KFGO3MD4u9X1
 ---

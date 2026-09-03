@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ostvar
 id: Vd4hNx7vEq9Rb2Lt
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 8000
 name:
   full: Ostvar
-  aliases: []
 shortcode: ostvar
 folder: WSdLuPc7BaRqxNEt
 ---

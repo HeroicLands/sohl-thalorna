@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ormstead
 id: DOIcd67IRmgTlxdK
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ormstead
-  aliases: []
 shortcode: ormstead
 folder: KvGb463Iw9hZLRjp
 ---

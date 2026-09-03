@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Mountain Troll
 tags:
   - dreadspawn
 name:
   full: Mountain Troll
-  aliases: []
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."
 id: CkpnCdKnSiNWnnjO
 img: icons/game-icons/skoll/troll.svg

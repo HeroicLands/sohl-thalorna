@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rājapur
-  - Rajapur
 id: yJkyMAYiTk0t5vvt
 tags:
   - city
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Rājapur
-  aliases: []
 shortcode: rajapur
 folder: q61mqomRaSzUNfrY
 ---

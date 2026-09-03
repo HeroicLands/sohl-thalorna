@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Incantus Kentra
 tags:
   - hex-hodai
 type: skill
@@ -10,7 +8,6 @@ img: images/affiliation/kentra.webp
 shortcode: kentra
 name:
   full: Incantus Kentra
-  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

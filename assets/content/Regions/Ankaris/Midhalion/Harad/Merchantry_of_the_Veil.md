@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merchantry of the Veil
 description: "Enigmatic luxury trade guild dealing in secrets and restricted goods through shadow networks—the broker between people who cannot afford to be seen together."
 type: affiliation
 subType: venture
@@ -91,7 +89,6 @@ sohl:
 id: xiFjVdpcEHSu3mzF
 name:
   full: Merchantry of the Veil
-  aliases: []
 shortcode: mrchntryvl
 folder: umL4KFGO3MD4u9X1
 ---

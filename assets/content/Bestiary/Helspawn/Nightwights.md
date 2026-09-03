@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Nightwights
 tags:
   - helspawn
 name:
   full: Nightwights
-  aliases: []
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
 id: Kpo7Htb3b9uJEh6x
 img: icons/game-icons/delapouite/person.svg

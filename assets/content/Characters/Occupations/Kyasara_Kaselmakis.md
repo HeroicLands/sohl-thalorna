@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kyàsârâ Kâselmakîs
-  - Kyasara Kaselmakis
 tags:
   - draft
   - tradesfolk

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Thêrèssa Hàbîlês
-  - Theressa Habiles
 tags:
   - draft
   - underworld

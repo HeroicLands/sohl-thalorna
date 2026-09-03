@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Lithogiant
 tags:
   - elemental
 name:
   full: Lithogiant
-  aliases: []
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."
 id: OBrElkIzfPrZaQbM
 img: icons/game-icons/delapouite/rock-golem.svg

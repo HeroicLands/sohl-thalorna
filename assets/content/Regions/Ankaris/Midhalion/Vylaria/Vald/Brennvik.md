@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brennvik
 id: Vd5vNx3kBp8Rb2Lt
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 9000
 name:
   full: Brennvik
-  aliases: []
 shortcode: brennvik
 folder: WSdLuPc7BaRqxNEt
 ---

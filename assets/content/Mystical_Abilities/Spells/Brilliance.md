@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Flash
 tags: []
 name:
   full: Brilliance

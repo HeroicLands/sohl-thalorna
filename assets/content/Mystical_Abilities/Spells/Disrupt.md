@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Subvert
 tags: []
 name:
   full: Disrupt

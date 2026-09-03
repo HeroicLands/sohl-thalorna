@@ -13,7 +13,6 @@ id: AOkIhJmM5oyp7OEa
 shortcode: vyahrati
 name:
   full: "Ritual: Vyāhrati"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

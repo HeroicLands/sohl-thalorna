@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Thornrat
 tags:
   - dreadspawn
 name:
   full: Thornrat
-  aliases: []
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
 id: RIxGnXKWRth60BN7
 img: icons/game-icons/delapouite/rat.svg

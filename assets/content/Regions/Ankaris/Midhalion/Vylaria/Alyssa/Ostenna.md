@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ostenna
 id: Al6yPx7kOm8Sb3Ln
 tags:
   - port
@@ -17,7 +15,6 @@ data:
   population: 7000
 name:
   full: Ostenna
-  aliases: []
 shortcode: ostenna
 folder: WSdLuPc7BaRqxNEt
 ---

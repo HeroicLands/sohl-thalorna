@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Firâvâd Pâresak
-  - Firâvâd Pâresak
-  - Firavad Paresak
 tags:
   - heroes-and-knaves
   - clergy
@@ -12,7 +8,6 @@ name:
   given: Firâvâd
   clan: Pâresak
   home: Dûn Ashir
-  aliases: []
 id: a1YDztFxs4vUPXNj
 folder: kCKYObmsvraIezCd
 shortcode: firavdprsk

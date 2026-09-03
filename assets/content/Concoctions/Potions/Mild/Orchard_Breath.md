@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: Orchard Breath
-  aliases: []
 description: "Pale golden honey-like liquid; sweetens disposition and charm."
 id: b6yWHK0to7yC87JR
 img: icons/potion.svg

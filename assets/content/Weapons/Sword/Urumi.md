@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Urumi
 tags: []
 name:
   full: Urumi
-  aliases: []
 description: "Flexible-bladed whip spiraling from grip; specialist's weapon demanding conditioning."
 id: nyibb1NL4ZONuZIf
 img: icons/sword.svg

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Warg
 tags:
   - mythic
   - image-needed
 name:
   full: Warg
-  aliases: []
 description: "A monstrous four-hundred-pound wolf warped by fell magic into a near-sapient predator far deadlier than any dire wolf."
 id: Fk5LGJPnTZLxzWuG
 img: icons/game-icons/lorc/wolf-head.svg

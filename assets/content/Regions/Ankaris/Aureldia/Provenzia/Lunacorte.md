@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lunacòrte
-  - Lunacorte
 id: kaluSm7j0sPfWR9d
 tags:
   - city
@@ -16,7 +13,6 @@ data:
   population: null
 name:
   full: Lunacòrte
-  aliases: []
 shortcode: lunacorte
 folder: 2s244hfP0BpQi195
 ---

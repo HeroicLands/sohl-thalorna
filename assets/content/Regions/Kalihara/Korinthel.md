@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korinthel
 id: RRmQE1eVIBxDLVXi
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Korinthel
-  aliases: []
 shortcode: korinthel
 folder: ySaln4Q82C7W1p0I
 ---

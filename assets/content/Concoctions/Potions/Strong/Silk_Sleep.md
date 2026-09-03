@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: Silk Sleep
-  aliases: []
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
 id: HIqd8wm7ex6DDCbX
 img: icons/potion.svg

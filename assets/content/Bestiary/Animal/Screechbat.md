@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Screechbat
 tags:
   - animal
 name:
   full: Screechbat
-  aliases: []
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."
 id: lHuMVOj4m48jiGcS
 img: icons/game-icons/delapouite/bat.svg

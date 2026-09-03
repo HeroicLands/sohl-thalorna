@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grimholt
 id: nslauvnDvb7PsYKm
 tags:
   - village
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Grimholt
-  aliases: []
 shortcode: grimholt
 folder: mCG1TPvjwrV23csZ
 ---

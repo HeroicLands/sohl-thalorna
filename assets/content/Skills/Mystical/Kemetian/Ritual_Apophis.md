@@ -15,7 +15,6 @@ id: gA0jH1zhocwrvUAO
 shortcode: apophis
 name:
   full: "Ritual: Ápōphis"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

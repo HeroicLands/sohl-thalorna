@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Álmera Desolárdran
-  - Almera Desolardran
 tags:
   - draft
   - soldiery

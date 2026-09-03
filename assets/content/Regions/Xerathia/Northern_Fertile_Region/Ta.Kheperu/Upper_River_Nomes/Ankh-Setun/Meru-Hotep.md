@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meru-Hotep
 id: w37mo3an5Yl3C5an
 tags:
   - town
@@ -17,7 +15,6 @@ data:
   population: 25000
 name:
   full: Meru-Hotep
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: meruhotep
 folder: DCVpoMWDdub9pwDR

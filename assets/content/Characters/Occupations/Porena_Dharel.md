@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pórena Dhárel
-  - Porena Dharel
 tags:
   - draft
   - common-folk

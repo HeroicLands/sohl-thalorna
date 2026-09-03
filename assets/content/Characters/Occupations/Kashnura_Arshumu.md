@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kashnûra Arshûmû
-  - Kashnura Arshumu
 tags:
   - draft
   - tradesfolk

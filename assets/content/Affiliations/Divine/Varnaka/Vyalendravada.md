@@ -1,10 +1,5 @@
 ---
 description: "Universal."
-aliases:
-  - Vyālendravāda
-  - Vyalendravada
-  - The Doctrine of Vyālendra
-  - Vyāndran School
 id: tKkSvIIYC4HgE6Fl
 tags:
   - varnaka

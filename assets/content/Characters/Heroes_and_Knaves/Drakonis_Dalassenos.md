@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Drákonis Dalássênos
-  - Drákonis Dalássênos
-  - Drakonis Dalassenos
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Drákonis
   clan: Dalássênos
   home: Yeşilhan
-  aliases: []
 id: nCrXLQipSbxl12H9
 folder: b81DHx3S7C9ep13E
 shortcode: drknsdlsns

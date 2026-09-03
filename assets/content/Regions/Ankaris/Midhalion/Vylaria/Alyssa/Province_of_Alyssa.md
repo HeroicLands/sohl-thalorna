@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Province of Alyssa
 id: 3qKgUXKyAhw23ZHD
 description: "Heartland province of the Vylarian Empire — its urban, political, and institutional core, holding the imperial capital, the Senate, and the Ordo Arcanis; it trades in influence, law, and Vylarian Steel and leans on its sister provinces for food."
 type: affiliation
 name:
   full: Province of Alyssa
-  aliases: []
 shortcode: provinclys
 subType: polity
 data:

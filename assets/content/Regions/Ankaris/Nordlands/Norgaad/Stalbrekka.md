@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Stálbrekka
-  - Stalbrekka
 id: htPFubBTLySO6pYs
 tags:
   - settlement
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Stálbrekka
-  aliases: []
 shortcode: stalbrekka
 folder: k5SVeYFVPAxS9hci
 ---

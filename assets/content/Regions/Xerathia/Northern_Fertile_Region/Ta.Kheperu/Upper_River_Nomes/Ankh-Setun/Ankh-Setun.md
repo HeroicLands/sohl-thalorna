@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ankh-Setûn
-  - Ankh-Setun
 id: kjeTX8avJnpknuJ3
 tags:
   - city
@@ -17,7 +14,6 @@ data:
   population: 80000
 name:
   full: Ankh-Setûn
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: ankhsetun
 folder: DCVpoMWDdub9pwDR

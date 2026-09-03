@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thought
 tags: []
 name:
   full: Mindflare

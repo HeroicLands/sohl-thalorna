@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ailêmâ Kêrîamyês
-  - Ailêmâ Kêrîamyês
-  - Ailema Keriamyes
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Ailêmâ
   clan: Kêrîamyês
   home: Corvinus
-  aliases: []
 id: B2MmcByySffMkCPX
 folder: UFBfgKZUF0bAE7gG
 shortcode: ailemkrmys

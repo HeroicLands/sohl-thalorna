@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beit-Shōfár
 id: Jh8qC0VOgrks0Ums
 tags:
   - settlement
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Beit-Shōfár
-  aliases: []
 shortcode: beitshofar
 ---
 

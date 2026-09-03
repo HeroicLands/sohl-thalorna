@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Port Aelion
 id: O2nIsw1YeLjYDhBp
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Port Aelion
-  aliases: []
 shortcode: portaelion
 folder: drAoDoNnFEygATeK
 ---

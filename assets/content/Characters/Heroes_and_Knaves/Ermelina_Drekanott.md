@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ermelína Drekanótt
-  - Ermelína Drekanótt
-  - Ermelina Drekanott
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Ermelína
   clan: Drekanótt
   home: Valgard
-  aliases: []
 id: afXTPv4Ov9YCgZNC
 folder: Ka9XqaF27b0I3Gmq
 shortcode: ermlndrknt

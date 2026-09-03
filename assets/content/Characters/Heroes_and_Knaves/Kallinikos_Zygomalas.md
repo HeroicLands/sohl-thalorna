@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kallínikos Zygomálas
-  - Kallínikos Zygomálas
-  - Kallinikos Zygomalas
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Kallínikos
   clan: Zygomálas
   home: Yeşilhan
-  aliases: []
 id: Yrbze8Mf1QdwE0J4
 folder: b81DHx3S7C9ep13E
 shortcode: klnkszygmls

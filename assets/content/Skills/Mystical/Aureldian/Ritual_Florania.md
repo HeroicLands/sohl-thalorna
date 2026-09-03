@@ -13,7 +13,6 @@ shortcode: florania
 img: images/affiliation/florania.webp
 name:
   full: "Ritual: Flórania"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

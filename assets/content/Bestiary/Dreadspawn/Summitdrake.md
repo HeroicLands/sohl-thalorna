@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Summitdrake
 tags:
   - dreadspawn
 name:
   full: Summitdrake
-  aliases: []
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."
 id: I96v45Ggz9t91r4o
 img: icons/game-icons/faithtoken/dragon-head.svg

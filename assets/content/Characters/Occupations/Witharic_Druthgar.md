@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wítharic Druthgar
-  - Witharic Druthgar
 tags:
   - draft
   - guilded

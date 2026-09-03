@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Transmutation
-  aliases: []
 id: mW6pCO4zFiwfJFhA
 img: icons/psionics.svg
 shortcode: xmut

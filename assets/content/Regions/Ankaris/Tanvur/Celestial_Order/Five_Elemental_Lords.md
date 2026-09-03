@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Five Elemental Lords
 id: 3Y2gn4ElGpP6O7ny
 type: lore
 subType: deity
 name:
   full: Five Elemental Lords
-  aliases: []
 shortcode: fvlmntlrds
 folder: hBkQzhJeB05EwziN
 ---

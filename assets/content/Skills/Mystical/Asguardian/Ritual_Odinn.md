@@ -12,7 +12,6 @@ shortcode: odinn
 img: images/affiliation/odinn.webp
 name:
   full: "Ritual: Óðinn"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

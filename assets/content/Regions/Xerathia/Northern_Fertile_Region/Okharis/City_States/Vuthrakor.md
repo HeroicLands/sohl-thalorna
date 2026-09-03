@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vuthrákor
 id: pZqyrLQSfBupge0U
 tags:
   - garrison

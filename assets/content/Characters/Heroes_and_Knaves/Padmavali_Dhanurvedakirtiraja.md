@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Padmàvali Dhanurvedakīrtirāja
-  - Padmàvali Dhanurvedakīrtirāja
-  - Padmavali Dhanurvedakirtiraja
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Padmàvali
   clan: Dhanurvedakīrtirāja
   home: Suvarṇagiri
-  aliases: []
 id: oWXEiRFuiXNLGHa9
 folder: JotxZnnXcTECeYW3
 shortcode: pdmvldhnrvdkrtrj

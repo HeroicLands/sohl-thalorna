@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vennara
 id: Al9aRx2vVm4Tb7Ld
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 6000
 name:
   full: Vennara
-  aliases: []
 shortcode: vennara
 folder: WSdLuPc7BaRqxNEt
 ---

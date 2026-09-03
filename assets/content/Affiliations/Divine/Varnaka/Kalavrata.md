@@ -1,9 +1,5 @@
 ---
 description: "Death."
-aliases:
-  - Kālavrata
-  - Kalavrata
-  - The Gatekeeper of Death
 id: Avwo9jIt0Yj5Vdti
 tags:
   - varnaka

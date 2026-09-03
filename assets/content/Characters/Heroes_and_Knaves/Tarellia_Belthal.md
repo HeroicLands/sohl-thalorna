@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tárellia Bélthal
-  - Tárellia Bélthal
-  - Tarellia Belthal
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Tárellia
   clan: Bélthal
   home: Port Aelion
-  aliases: []
 id: Phe3YMnWvtD0zL3T
 folder: 4cwfdMa34UryZqPR
 shortcode: tarelblthl

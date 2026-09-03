@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Goda Barnwell
 tags:
   - draft
   - tradesfolk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sensation
 tags: []
 name:
   full: Aware

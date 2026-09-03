@@ -7,7 +7,6 @@ tags:
 description: The settled corner of the Dunhara — walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
 name:
   full: Amradad Region
-  aliases: []
 id: yvAi0uy6sqpFand1
 shortcode: amradadrgn
 img: ""

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aldith Chilton
 tags:
   - todo
   - draft

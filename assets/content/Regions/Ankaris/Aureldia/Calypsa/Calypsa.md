@@ -1,13 +1,10 @@
 ---
-aliases:
-  - Calypsa
 id: u3m2oHBGPAz17X8m
 tags: []
 description: Free port city on a small island off Élavendre's northern coast — a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
 type: affiliation
 name:
   full: Calypsa
-  aliases: []
 shortcode: calypsa
 subType: polity
 data:

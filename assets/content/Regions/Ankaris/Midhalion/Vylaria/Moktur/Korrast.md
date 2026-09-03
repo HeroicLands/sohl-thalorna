@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korrast
 id: Mk5rKx2mKp7Tb4Ln
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 5000
 name:
   full: Korrast
-  aliases: []
 shortcode: korrast
 folder: WSdLuPc7BaRqxNEt
 ---

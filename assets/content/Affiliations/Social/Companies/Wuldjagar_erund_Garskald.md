@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wuldjagâr erund Gárskald
 tags:
   - company
   - hunters

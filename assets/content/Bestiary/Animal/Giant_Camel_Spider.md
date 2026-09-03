@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Giant Camel Spider
 tags:
   - animal
   - image-needed
 name:
   full: Giant Camel Spider
-  aliases: []
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
 id: k5mpq1z2caMC2nJ0
 img: icons/game-icons/carl-olsen/spider-alt.svg

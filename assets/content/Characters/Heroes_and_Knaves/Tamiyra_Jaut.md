@@ -12,7 +12,6 @@ name:
   given: Ta'miyra
   clan: Jâut
   home: Per-Ankhet
-  aliases: []
 id: xhjXcv7FLvFvrHyk
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

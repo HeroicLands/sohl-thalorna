@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Medium
-  aliases: []
 id: 1en6JNnWt9zGfQxn
 img: icons/psionics.svg
 shortcode: medm

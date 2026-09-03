@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: The Dormant Draft
-  aliases: []
 description: "Pale gray liquid; induces absolute stillness and living suspension."
 id: 0ojDJP4nlr8iNww6
 img: icons/potion.svg

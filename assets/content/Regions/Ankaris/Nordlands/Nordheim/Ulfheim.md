@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ulfheim
 id: f9A9olzNoCl9wH8h
 tags:
   - settlement
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ulfheim
-  aliases: []
 shortcode: ulfheim
 folder: tUOAFxX25mViDE7q
 ---

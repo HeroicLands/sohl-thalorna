@@ -13,7 +13,6 @@ shortcode: morvana
 img: images/affiliation/morvana.webp
 name:
   full: "Ritual: Morvana"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

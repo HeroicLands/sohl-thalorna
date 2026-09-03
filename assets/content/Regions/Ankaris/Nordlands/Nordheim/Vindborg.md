@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vindborg
 id: 7XxnqkgQlwHbZvb8
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Vindborg
-  aliases: []
 shortcode: vindborg
 folder: tUOAFxX25mViDE7q
 ---

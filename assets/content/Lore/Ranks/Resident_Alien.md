@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Resident Alien
 tags:
   - draft
 id: fa41ybkvgO382sOT
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Resident Alien
-  aliases: []
 shortcode: rsdntlnrnk
 description: "Living under a body's protection and paying its dues, without its citizenship."
 ---

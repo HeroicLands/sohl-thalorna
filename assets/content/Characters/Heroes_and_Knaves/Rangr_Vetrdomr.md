@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Rängr Vetrdómr
-  - Rängr Vetrdómr
-  - Rangr Vetrdomr
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Rängr
   clan: Vetrdómr
   home: Skorrborg
-  aliases: []
 id: WfReEkqClUXafnNc
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rngrvtrdmr

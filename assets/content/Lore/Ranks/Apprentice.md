@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Apprentice
 tags:
   - draft
 id: HN222cS720SQJZI0
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Apprentice
-  aliases: []
 shortcode: apprenticernk
 description: "Bound to a master for a term of years, fed and taught and holding neither tools nor wage."
 ---

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Óvelyn Sálthar
-  - Ovelyn Salthar
 tags:
   - draft
   - tradesfolk

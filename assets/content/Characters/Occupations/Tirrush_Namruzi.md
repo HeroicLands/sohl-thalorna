@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tirrûsh Namrûzî
-  - Tirrush Namruzi
 tags:
   - draft
   - tradesfolk

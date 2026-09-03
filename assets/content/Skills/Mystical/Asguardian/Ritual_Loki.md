@@ -12,7 +12,6 @@ shortcode: loki
 img: images/affiliation/loki.webp
 name:
   full: "Ritual: Lôki"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

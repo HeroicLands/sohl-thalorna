@@ -106,7 +106,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Íšét
-  aliases: []
 shortcode: iset
 banner: banners/ta-kheperu-banner.webp
 alias: Íšét, Mother of New Beginnings and Restorer of Health

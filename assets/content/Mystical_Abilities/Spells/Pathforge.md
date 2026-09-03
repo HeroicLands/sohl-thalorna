@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tunnel
 tags: []
 name:
   full: Pathforge

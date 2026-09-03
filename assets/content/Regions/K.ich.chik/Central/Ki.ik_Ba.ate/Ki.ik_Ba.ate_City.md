@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ki'ik Ba'ate
 id: 3E05WzjjmWWWlHf4
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ki'ik Ba'ate
-  aliases: []
 shortcode: kiikbaate2
 ---
 

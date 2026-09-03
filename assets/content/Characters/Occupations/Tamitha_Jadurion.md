@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tamîtha Jâdurîon
-  - Tamitha Jadurion
 tags:
   - draft
   - tradesfolk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hakon Fire-Tongue
 tags:
   - hero
   - heroes-of-asguard

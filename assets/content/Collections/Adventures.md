@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Adventures
 id: NBEJoUc4b4XcLsiI
 name:
   full: Adventures
-  aliases: []
 type: doc
 subType: collection
 shortcode: adventures

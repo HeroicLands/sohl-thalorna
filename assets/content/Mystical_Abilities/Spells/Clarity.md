@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Insight
 tags: []
 name:
   full: Clarity

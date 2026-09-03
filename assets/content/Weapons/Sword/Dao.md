@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Dao
 tags: []
 name:
   full: Dao
-  aliases: []
 description: "Curved single-edged blade gathering momentum through geometry."
 id: UYYIc4v2vhufWMCR
 img: icons/sword.svg

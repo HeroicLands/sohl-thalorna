@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elanmere
 id: rvpZLPq6bDeSMrLX
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Elanmere
-  aliases: []
 shortcode: elanmere
 folder: drAoDoNnFEygATeK
 ---

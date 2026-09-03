@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Harad Region
 tags:
   - region
 description: Archpelegio of islands and coastal region of city-states
 name:
   full: Harad Region
-  aliases: []
 id: IakeTyaqWrqc635z
 shortcode: haradregin
 img: ""

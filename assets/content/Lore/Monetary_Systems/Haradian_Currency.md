@@ -14,7 +14,6 @@ subType: economy
 id: kZXrUIVkc5qtppwM
 name:
   full: Haradian Currency
-  aliases: []
 shortcode: hardncrncy
 folder:
 ---

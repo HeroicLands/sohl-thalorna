@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Samarína Kalokyrês
-  - Samarína Kalokyrês
-  - Samarina Kalokyres
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Samarína
   clan: Kalokyrês
   home: Byzaris
-  aliases: []
 id: kdVyqNewPWRnhw1s
 folder: b81DHx3S7C9ep13E
 shortcode: smrnklkyrs

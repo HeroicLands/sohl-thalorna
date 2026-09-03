@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Stonebeast
 tags:
   - dreadspawn
 name:
   full: Stonebeast
-  aliases: []
 description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
 id: vkJVD3VzKCKvgPCx
 img: icons/game-icons/delapouite/rock-golem.svg

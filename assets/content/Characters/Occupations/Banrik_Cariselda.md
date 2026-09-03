@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bánrik Cáriselda
-  - Banrik Cariselda
 tags:
   - draft
   - soldiery

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ba'alam Ki'ahk
 id: PVzHCv6vrYI2AmrU
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Ba'alam Ki'ahk
-  aliases: []
 shortcode: balamkiahk2
 ---
 

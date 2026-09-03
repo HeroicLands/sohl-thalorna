@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Spirit-Speaker
 tags:
   - draft
 id: HGOuhauQRYqWTVr2
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Spirit-Speaker
-  aliases: []
 shortcode: sprtspkrrnk
 description: "Permitted to address the spirit directly on another's behalf."
 ---

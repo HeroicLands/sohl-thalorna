@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Shadowspinner
 tags:
   - dreadspawn
 name:
   full: Shadowspinner
-  aliases: []
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
 id: 0zzYLJWzwisk1CDQ
 img: icons/game-icons/carl-olsen/spider-alt.svg

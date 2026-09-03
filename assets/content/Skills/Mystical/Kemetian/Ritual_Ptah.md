@@ -15,7 +15,6 @@ id: axO24ya2JdtsXpKt
 shortcode: ptah
 name:
   full: "Ritual: Ptā'h"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kólrith Delvánor
-  - Kolrith Delvanor
 tags:
   - draft
   - tradesfolk

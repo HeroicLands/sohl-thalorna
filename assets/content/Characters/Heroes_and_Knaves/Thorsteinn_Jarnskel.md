@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Thorsteinn Járnskel
-  - Thorsteinn Járnskel
-  - Thorsteinn Jarnskel
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Thorsteinn
   clan: Járnskel
   home: Járnhavn
-  aliases: []
 id: PfkHxcqixrNhiLmM
 folder: Ka9XqaF27b0I3Gmq
 shortcode: thrstnjrnskl

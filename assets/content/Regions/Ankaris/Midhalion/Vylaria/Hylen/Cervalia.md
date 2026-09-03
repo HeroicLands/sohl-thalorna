@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cervalia
 id: Hy5pGx4wUm9Sb3Ld
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: 2500
 name:
   full: Cervalia
-  aliases: []
 shortcode: cervalia
 folder: WSdLuPc7BaRqxNEt
 ---

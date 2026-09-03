@@ -1,6 +1,4 @@
 ---
-aliases:
-  - High Priest
 tags:
   - draft
 id: KHwJXa1kr5FZ6Y1U
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: High Priest
-  aliases: []
 shortcode: highpriestrnk
 description: "Head of a temple or a cult, speaking with the voice of its god on doctrine."
 ---

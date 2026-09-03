@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neferet Imi-Ra
 tags:
   - heroes-and-knaves
   - hero

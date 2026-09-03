@@ -1,8 +1,5 @@
 ---
 description: "Fire."
-aliases:
-  - Vōrjīk Jëk
-  - Vorjik Jek
 id: 7u1nOZUiWdT5a007
 tags:
   - celestial-order
@@ -10,7 +7,6 @@ tags:
   - fire
 name:
   full: Vōrjīk Jëk
-  aliases: []
 shortcode: vorjikjek
 type: affiliation
 subType: faithtradition

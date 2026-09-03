@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Snorri Járnskel
-  - Snorri Járnskel
-  - Snorri Jarnskel
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Snorri
   clan: Járnskel
   home: Thrymstead
-  aliases: []
 id: k4JEKZEOQVEktuMQ
 folder: Ka9XqaF27b0I3Gmq
 shortcode: snorjrnskl

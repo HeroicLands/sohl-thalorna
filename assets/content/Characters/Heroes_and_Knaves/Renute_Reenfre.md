@@ -12,7 +12,6 @@ name:
   given: Renutê
   clan: Re'en'fré
   home: Wasetkara
-  aliases: []
 id: qXxPfRUDCQtkpbuI
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

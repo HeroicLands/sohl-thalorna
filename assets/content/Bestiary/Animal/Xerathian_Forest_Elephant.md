@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Xerathian Forest Elephant
 tags:
   - animal
 name:
   full: Xerathian Forest Elephant
-  aliases: []
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."
 id: pGoe1xHOveNk8ycM
 img: icons/game-icons/delapouite/elephant.svg

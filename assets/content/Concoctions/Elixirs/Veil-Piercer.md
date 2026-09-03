@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Veil-Piercer
-  aliases: []
 description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."
 id: 01PVAroCjrcBtlNi
 img: icons/potion.svg

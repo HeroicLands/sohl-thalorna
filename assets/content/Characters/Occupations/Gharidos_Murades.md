@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ghârîdos Mûrâdês
-  - Gharidos Murades
 tags:
   - draft
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Desiccation
 tags: []
 name:
   full: Parch

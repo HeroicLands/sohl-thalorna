@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Swampstrider
 tags:
   - dreadspawn
 name:
   full: Swampstrider
-  aliases: []
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
 id: nx1JBaUtNq1pa3Ki
 img: icons/game-icons/delapouite/griffin-symbol.svg

@@ -1,13 +1,10 @@
 ---
-aliases:
-  - K'awiil Tza'kul
 tags:
   - polity
 title: ""
 description: Threshold country at the southern edge of K'ich'chik civilization — the last priestly order before the forsaken wastes.
 name:
   full: K'awiil Tza'kul
-  aliases: []
 id: YdTLHYUlxfAuVdNW
 shortcode: kawiltzakl
 img: ""

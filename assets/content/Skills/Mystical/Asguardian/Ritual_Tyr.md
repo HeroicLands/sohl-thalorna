@@ -12,7 +12,6 @@ shortcode: tyr
 img: images/affiliation/tyr.webp
 name:
   full: "Ritual: Týr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vindara
 id: Hy7vNx3kEm2Rb8Lt
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 6000
 name:
   full: Vindara
-  aliases: []
 shortcode: vindara
 folder: WSdLuPc7BaRqxNEt
 ---

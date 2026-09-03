@@ -93,7 +93,6 @@ shortcode: sideros
 img: images/affiliation/sideros.webp
 name:
   full: Sidéros
-  aliases: []
 sohl:
   archetype: null
 thalorna:

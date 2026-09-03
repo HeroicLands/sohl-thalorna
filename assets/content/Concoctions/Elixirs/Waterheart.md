@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Waterheart
-  aliases: []
 description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
 id: XFda9zcmLdiJF4aW
 img: icons/potion.svg

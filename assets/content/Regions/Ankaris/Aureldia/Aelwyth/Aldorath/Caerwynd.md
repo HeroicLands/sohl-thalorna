@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caerwynd
 id: qzNN35eMt6RmKQPK
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Caerwynd
-  aliases: []
 shortcode: caerwynd
 folder: ZbE1NQo3ApZ26xon
 ---

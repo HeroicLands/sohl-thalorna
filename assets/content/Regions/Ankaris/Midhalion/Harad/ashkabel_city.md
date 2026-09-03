@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashkabel
 id: Tjq1opR4z8iu24jP
 tags:
   - city-state
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Ashkabel
-  aliases: []
 shortcode: ashkabel2
 ---
 

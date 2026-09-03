@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Korêmdânis Bárkrâtys
-  - Korêmdânis Bárkrâtys
-  - Koremdanis Barkratys
 tags:
   - heroes-and-knaves
   - soldiery
@@ -12,7 +8,6 @@ name:
   given: Korêmdânis
   clan: Bárkrâtys
   home: Belekos
-  aliases: []
 id: 9UQwsC5dVnahmw52
 folder: UFBfgKZUF0bAE7gG
 shortcode: krmdnsbrkrtys

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dékêla Bàremzâtês
-  - Dekela Baremzates
 tags:
   - draft
   - tradesfolk

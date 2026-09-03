@@ -12,7 +12,6 @@ id: V6TwVaDMs7y2aCcb
 shortcode: ataros
 name:
   full: "Ritual: Ātáröš"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

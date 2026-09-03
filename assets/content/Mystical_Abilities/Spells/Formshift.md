@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aspect
 tags: []
 name:
   full: Formshift

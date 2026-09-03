@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zaristan
 id: ImatvlvxdQxFOio9
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Zaristan
-  aliases: []
 shortcode: zaristan
 folder: PUSPfoG6UdrnqPhK
 ---

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nightmare
 tags: []
 name:
   full: Horrorscape

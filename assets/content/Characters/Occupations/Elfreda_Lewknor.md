@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elfreda Lewknor
 tags:
   - draft
   - common-folk

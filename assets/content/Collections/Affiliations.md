@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Affiliations
 id: 7mpaoQ3ZZYCum3Ex
 name:
   full: Affiliations
-  aliases: []
 type: doc
 subType: collection
 shortcode: affiliatns

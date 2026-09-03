@@ -93,7 +93,6 @@ shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
 name:
   full: Pneuménos
-  aliases: []
 sohl:
   archetype: null
 thalorna:

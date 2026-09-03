@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lens
 tags: []
 name:
   full: Focus

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunkelwald
 id: BvtBiuBimYBhWyf6
 tags:
   - settlement
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Dunkelwald
-  aliases: []
 shortcode: dunkelwald
 folder: mCG1TPvjwrV23csZ
 ---

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sulûn
-  - Sulun
 id: 5mm5ufJ2syvYaFP8
 tags:
   - village
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Sulûn
-  aliases: []
 shortcode: sulun
 folder: umL4KFGO3MD4u9X1
 ---

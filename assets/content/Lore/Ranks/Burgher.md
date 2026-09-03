@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burgher
 tags:
   - draft
 id: kL6KUhEPfeQ54JGA
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Burgher
-  aliases: []
 shortcode: burgherrnk
 description: "Enrolled in a city's register, entitled to trade in its markets and plead in its courts."
 ---

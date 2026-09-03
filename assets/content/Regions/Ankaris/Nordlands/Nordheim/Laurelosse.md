@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Laurelossë
-  - Laurelosse
 id: Mp48OQiSLJZ8OVfN
 type: place
 subType: site
@@ -13,7 +10,6 @@ data:
   population: null
 name:
   full: Laurelossë
-  aliases: []
 shortcode: laurelosse
 folder: tUOAFxX25mViDE7q
 ---

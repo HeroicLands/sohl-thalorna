@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mirror
 tags: []
 name:
   full: Reflector

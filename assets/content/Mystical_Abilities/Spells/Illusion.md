@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Glamour
 tags: []
 name:
   full: Illusion

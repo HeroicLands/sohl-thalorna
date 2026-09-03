@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: "Viper's Mercy"
-  aliases: []
 description: "Murky greenish-brown draft; counteracts poison and venom damage."
 id: t13gFsGnPEwrP9Ye
 img: icons/potion.svg

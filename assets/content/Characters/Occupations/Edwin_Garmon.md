@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edwin Garmon
 tags:
   - draft
   - soldiery

@@ -1,13 +1,10 @@
 ---
-aliases:
-  - K'ixim Tzul
 tags:
   - polity
 title: ""
 description: Boreal forests, tundra, and caribou migrations — the subarctic homeland of the No'kin, the Bear People.
 name:
   full: K'ixim Tzul
-  aliases: []
 id: V1Y04Ph8jthE1Fw0
 shortcode: kiximtzul
 img: ""

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Helthraals
 tags:
   - helspawn
 name:
   full: Helthraals
-  aliases: []
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
 id: Y8roQ11S5nFysVFW
 img: icons/game-icons/lorc/werewolf.svg

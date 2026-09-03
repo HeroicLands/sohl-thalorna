@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeşilhan
 id: pIq5WRv3f9mIgJHz
 tags:
   - city
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Yeşilhan
-  aliases: []
 shortcode: yesilhan2
 ---
 

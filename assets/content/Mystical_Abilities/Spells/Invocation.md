@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Call
 tags: []
 name:
   full: Invocation

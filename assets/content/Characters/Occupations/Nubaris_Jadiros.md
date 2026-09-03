@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Nûbàris Jâdîrôs
-  - Nubaris Jadiros
 tags:
   - draft
   - administration

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Gávrilos Niktariôtês
-  - Gávrilos Niktariôtês
-  - Gavrilos Niktariotes
 tags:
   - heroes-and-knaves
   - soldiery
@@ -12,7 +8,6 @@ name:
   given: Gávrilos
   clan: Niktariôtês
   home: Chrysamar
-  aliases: []
 id: uK9EFGQgo0b4Bo6b
 folder: b81DHx3S7C9ep13E
 shortcode: gvrlsnktrts

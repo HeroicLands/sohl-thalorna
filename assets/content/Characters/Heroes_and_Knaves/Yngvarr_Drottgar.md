@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Yngvarr Dróttgar
-  - Yngvarr Dróttgar
-  - Yngvarr Drottgar
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Yngvarr
   clan: Dróttgar
   home: Frostmark
-  aliases: []
 id: 2mKYgaRHKWc3R4gK
 folder: Ka9XqaF27b0I3Gmq
 shortcode: yngvrdrtgr

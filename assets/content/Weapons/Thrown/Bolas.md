@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bolas
 tags: []
 name:
   full: Bolas
-  aliases: []
 description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
 id: kreKZTbXQBV0FiBY
 img: icons/bolas.svg

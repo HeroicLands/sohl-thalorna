@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hármund Garwald
-  - Harmund Garwald
 tags:
   - draft
   - guilded

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Slave
 tags:
   - draft
 id: hbLqYMfJgnvVkouc
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Slave
-  aliases: []
 shortcode: slavernk
 description: "Owned outright, with no standing at law except through an owner."
 ---

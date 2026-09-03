@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Guardian
 tags: []
 name:
   full: Sentinel

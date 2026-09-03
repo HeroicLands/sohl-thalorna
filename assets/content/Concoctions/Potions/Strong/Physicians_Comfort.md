@@ -6,7 +6,6 @@ tags:
   - strong-elixir
 name:
   full: "Physician's Comfort"
-  aliases: []
 description: "Deep emerald green curative; heals ailments and injuries."
 id: qu6Gu3UYyN8mpfev
 img: icons/potion.svg

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bondservant
 tags:
   - draft
 id: IFrgsCXWz9lVonua
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Bondservant
-  aliases: []
 shortcode: bondservantrnk
 description: "Bound to a person or a house by debt, birth or sentence, and unable to depart."
 ---

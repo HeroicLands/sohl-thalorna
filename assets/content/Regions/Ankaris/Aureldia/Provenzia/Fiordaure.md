@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fiòrdaure
-  - Fiordaure
 id: lxDnKhmbJQmfcnlU
 tags:
   - town
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Fiòrdaure
-  aliases: []
 shortcode: fiordaure
 folder: 2s244hfP0BpQi195
 ---

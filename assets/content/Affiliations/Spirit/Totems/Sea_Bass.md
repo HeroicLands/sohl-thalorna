@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Sea Bass
 tags: []
 name:
   full: Sea Bass
-  aliases: []
 id: tGunwcnHgwsjE6Ht
 img: images/mystery/seabass.webp
 shortcode: seabassttm

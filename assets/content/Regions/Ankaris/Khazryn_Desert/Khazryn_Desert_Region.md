@@ -8,7 +8,6 @@ tags:
 description: Vast central-Ankaris steppe-desert — a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
 name:
   full: Khazryn Desert Region
-  aliases: []
 id: w9m8EsfUkF9ikhL0
 shortcode: khzryndsrtrgn
 img: ""

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kethramír
-  - Kethramir
 id: GkOSX9uDj3AmjiVz
 tags:
   - waypoint
@@ -10,7 +7,6 @@ description: "Caravan Waypoint"
 type: place
 name:
   full: Kethramír
-  aliases: []
 shortcode: kethramir
 subType: settlement
 data:

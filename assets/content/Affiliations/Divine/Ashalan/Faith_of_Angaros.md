@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Ángáróš
-  aliases: []
 shortcode: angaros
 alias: Ángáróš, The Shadowed Serpent
 folder: 7so6UiPt445oIHWs

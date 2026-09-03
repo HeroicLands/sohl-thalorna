@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Guthný Eldskari
-  - Guthny Eldskari
 tags:
   - draft
   - common-folk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sigyn the Enchantress
 tags:
   - paragon
   - heroes-of-asguard

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Venomspitter
 tags:
   - dreadspawn
 name:
   full: Venomspitter
-  aliases: []
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."
 id: YmCBrcF6Kw2CrctD
 img: icons/game-icons/delapouite/griffin-symbol.svg

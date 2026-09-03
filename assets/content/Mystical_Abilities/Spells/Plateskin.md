@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Armour
 tags: []
 name:
   full: Plateskin

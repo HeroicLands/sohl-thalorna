@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sofíenna Torvaleth
-  - Sofienna Torvaleth
 tags:
   - todo
   - draft

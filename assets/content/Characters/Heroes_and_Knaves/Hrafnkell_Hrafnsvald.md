@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hrafnkell Hrafnsvald
 tags:
   - heroes-and-knaves
   - guilded
@@ -11,7 +9,6 @@ name:
   given: Hrafnkell
   clan: Hrafnsvald
   home: Járnvík
-  aliases: []
 id: z7z7tW1x70FIeB2H
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrfnklhrfnsvld

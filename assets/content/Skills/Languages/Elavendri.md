@@ -6,7 +6,6 @@ aliases:
 tags: []
 name:
   full: Élavendri Language
-  aliases: []
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
 id: M4Rc3yHcl3dYOGz3
 img: icons/speaking.svg

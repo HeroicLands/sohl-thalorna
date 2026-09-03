@@ -1,13 +1,10 @@
 ---
-aliases:
-  - Southern K'ich'chik
 id: 8vKZQIhOcNjXSRjS
 tags:
   - region
 description: "The southern reach of the K'ich'chik continent and its city-states."
 name:
   full: Southern K'ich'chik
-  aliases: []
 img: ""
 type: place
 subType: region

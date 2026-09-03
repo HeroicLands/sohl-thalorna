@@ -12,7 +12,6 @@ id: M4V1X9qbD7dlpAyC
 shortcode: rothtdkvng
 name:
   full: "Ritual: Röthöt Dākvëng"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

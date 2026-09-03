@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dunstan Helmsley
 tags:
   - draft
   - administration

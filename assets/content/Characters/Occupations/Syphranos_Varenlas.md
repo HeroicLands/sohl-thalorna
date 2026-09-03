@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Syphrânôs Vârênlâs
-  - Syphranos Varenlas
 tags:
   - draft
   - soldiery

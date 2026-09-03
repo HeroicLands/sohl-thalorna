@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Bull
-  aliases: []
 id: kDExCsZvttQtSzlq
 img: images/mystery/bull.webp
 shortcode: bullttm

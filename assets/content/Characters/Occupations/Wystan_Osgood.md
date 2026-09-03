@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wystan Osgood
 tags:
   - draft
   - common-folk

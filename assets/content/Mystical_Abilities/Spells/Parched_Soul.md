@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Parched Soul
-  - Thirst
 tags: []
 name:
   full: Parched Soul

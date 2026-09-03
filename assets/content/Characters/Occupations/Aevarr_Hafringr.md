@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ævarr Hafringr
 tags:
   - draft
   - common-folk

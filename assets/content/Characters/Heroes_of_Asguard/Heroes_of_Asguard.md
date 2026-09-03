@@ -3,7 +3,6 @@ id: fNdEEVQMjIkyyIeG
 description: "Variety of Asguardian Heroes."
 name:
   full: Heroes of Asguard
-  aliases: []
 type: doc
 subType: collection
 shortcode: heroessgrd

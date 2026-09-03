@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zórila Dómivar
-  - Zorila Domivar
 tags:
   - draft
   - tradesfolk

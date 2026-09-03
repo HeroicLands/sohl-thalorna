@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calm
 tags: []
 name:
   full: Tranquility

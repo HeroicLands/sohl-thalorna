@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Okháris
 tags: []
 description: "Collection of ancient city-states in the Northern Fertile Region of Xerathia — centers of civilization and learning in a tropical realm of rivers and rainforests."
 type: affiliation
 name:
   full: Okháris
-  aliases: []
 id: pQ4weKzrzcv5Fppm
 shortcode: okharis
 subType: polity

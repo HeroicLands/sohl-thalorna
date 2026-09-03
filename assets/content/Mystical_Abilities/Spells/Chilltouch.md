@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Freeze
 tags: []
 name:
   full: Chilltouch

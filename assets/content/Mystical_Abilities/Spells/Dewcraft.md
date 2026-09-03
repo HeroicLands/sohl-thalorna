@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Condensation
 tags: []
 name:
   full: Dewcraft

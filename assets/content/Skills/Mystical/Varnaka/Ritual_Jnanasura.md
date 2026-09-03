@@ -13,7 +13,6 @@ id: WlBBWI2sPx4TJ0mM
 shortcode: jnanasura
 name:
   full: "Ritual: Jñānasūra"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Nalos
-  aliases: []
 description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
 id: rqZ2w3pVH8POKZ1F
 img: systems/sohl/assets/icons/other/astrology.svg

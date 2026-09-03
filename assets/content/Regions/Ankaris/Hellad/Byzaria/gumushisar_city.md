@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gümüşhisar
 id: Lo992b0Iv2JLzXly
 tags:
   - fortress
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Gümüşhisar
-  aliases: []
 shortcode: gumushisar2
 ---
 

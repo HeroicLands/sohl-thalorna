@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tórsaro Thalídran
-  - Torsaro Thalidran
 tags:
   - draft
   - soldiery

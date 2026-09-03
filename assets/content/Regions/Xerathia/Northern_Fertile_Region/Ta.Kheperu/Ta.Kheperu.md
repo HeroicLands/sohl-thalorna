@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Empire of Ta'Kheperu
-  aliases: []
 id: 4K5TrZq1I8XKWfUx
 shortcode: empirtkhpr
 subType: polity

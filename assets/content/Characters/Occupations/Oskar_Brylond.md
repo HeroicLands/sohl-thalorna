@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Óskar Brýlond
-  - Oskar Brylond
 tags:
   - draft
   - tradesfolk

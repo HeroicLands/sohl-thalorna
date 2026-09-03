@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Zárványä
-  aliases: []
 shortcode: zarvanya
 alias: Zárványä, The Weaver of Visions
 folder: 7so6UiPt445oIHWs

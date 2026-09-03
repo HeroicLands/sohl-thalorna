@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Tánvür Currency
-  - Tanvur Currency
-  - Tánvür Monetary System
 tags:
   - reference
   - currency

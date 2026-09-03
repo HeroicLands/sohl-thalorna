@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tz'uma No'tun
 id: JVMEXCHmxTAMu49N
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Tz'uma No'tun
-  aliases: []
 shortcode: tzumanotun2
 ---
 

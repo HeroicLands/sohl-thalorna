@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Pantheon Aurèldiānum
-  - Pantheon Aureldianum
-  - The Pantheon
 tags:
   - temple
   - aureldian

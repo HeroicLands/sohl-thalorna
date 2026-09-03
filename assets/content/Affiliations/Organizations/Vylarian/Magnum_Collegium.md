@@ -9,7 +9,6 @@ description: 'Cross-realm "guild of guilds" — the umbrella body to which every
 id: HL6ekX4sRKAHiNuz
 name:
   full: The Magnum Collegium
-  aliases: []
 shortcode: magnumclgm
 type: affiliation
 subType: guild

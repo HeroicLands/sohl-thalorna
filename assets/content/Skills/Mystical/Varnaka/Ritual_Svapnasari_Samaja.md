@@ -16,7 +16,6 @@ id: ZJMNkWFba1o3MVXg
 shortcode: svapnasarisamaja
 name:
   full: "Ritual: Svapnasāri-samāja"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

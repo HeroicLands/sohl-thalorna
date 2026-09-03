@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Cloak of the Unseen Soul
-  aliases: []
 description: "Luminous silver elixir; shields spirit from True Sight and divinations."
 id: wLOaFGUHoC9oiCDJ
 img: icons/potion.svg

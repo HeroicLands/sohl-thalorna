@@ -12,7 +12,6 @@ id: FPbUzVB3RDuzU9NX
 shortcode: ahurdaen
 name:
   full: "Ritual: Āhúrdáén"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

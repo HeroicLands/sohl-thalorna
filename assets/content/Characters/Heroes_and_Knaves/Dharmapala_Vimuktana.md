@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Dharmàpala Vimuktaṇa
-  - Dharmàpala Vimuktaṇa
-  - Dharmapala Vimuktana
 tags:
   - heroes-and-knaves
   - soldiery
@@ -12,7 +8,6 @@ name:
   given: Dharmàpala
   clan: Vimuktaṇa
   home: Dhanurkota
-  aliases: []
 id: dhCoCEo0H7FWyMlT
 folder: JotxZnnXcTECeYW3
 shortcode: dhrmplvmkt

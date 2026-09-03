@@ -11,7 +11,6 @@ id: 6ZtPiHC4pBErOYsN
 shortcode: azravan
 name:
   full: "Ritual: Ázráván"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

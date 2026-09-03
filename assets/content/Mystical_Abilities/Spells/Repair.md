@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mend
 tags: []
 name:
   full: Repair

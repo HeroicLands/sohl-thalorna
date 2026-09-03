@@ -104,7 +104,6 @@ sohl:
   archetype: null
 name:
   full: Faith of Šírvádár
-  aliases: []
 shortcode: sirvadar
 alias: Šírvádár, The Wandering Guide
 folder: 7so6UiPt445oIHWs

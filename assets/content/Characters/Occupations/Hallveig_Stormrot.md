@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hallveig Stormrót
-  - Hallveig Stormrot
 tags:
   - draft
   - mages

@@ -7,7 +7,6 @@ description: "Sultanate ruling the Dunhara Desert — settled kingdom of oases, 
 type: affiliation
 name:
   full: Sultanate of Amradad
-  aliases: []
 shortcode: sultntmrdd
 subType: polity
 data:

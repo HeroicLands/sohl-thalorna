@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Elder Races
 id: VWs3Bs2ajr3a9X7w
 type: lore
 subType: folk
 name:
   full: Elder Races
-  aliases: []
 shortcode: elderraces
 folder: jV7c6dJp4Ztnjtb3
 ---

@@ -2,8 +2,6 @@
 tags: []
 name:
   full: Seeker
-  aliases:
-    - Seeker
 description: "Seeks hidden objects; reveals location of sought-after item."
 id: 00MLcg47Jqc1VD89
 img: icons/fire.svg

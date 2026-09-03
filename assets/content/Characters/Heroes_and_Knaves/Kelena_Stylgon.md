@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Kêlena Stýlgon
-  - Kêlena Stýlgon
-  - Kelena Stylgon
 tags:
   - heroes-and-knaves
   - administration
@@ -12,7 +8,6 @@ name:
   given: Kêlena
   clan: Stýlgon
   home: Valcèrise
-  aliases: []
 id: dcR8CKR8PUfUxVVF
 folder: J9R0fnGUTBY5z4pd
 shortcode: kelnstylgn

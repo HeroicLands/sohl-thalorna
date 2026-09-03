@@ -14,7 +14,6 @@ id: bpEDXvO8OYunAR7Q
 shortcode: vekthor
 name:
   full: "Ritual: Vëkthōr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

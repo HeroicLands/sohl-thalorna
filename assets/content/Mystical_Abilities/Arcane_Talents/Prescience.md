@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Prescience
-  aliases: []
 id: wFQGHGOjYdp98VlC
 img: icons/psionics.svg
 shortcode: psnc

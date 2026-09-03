@@ -6,7 +6,6 @@ tags:
   - mild-elixir
 name:
   full: The Bitter Purge
-  aliases: []
 description: "Clear greenish tinted draft; causes violent purging of body."
 id: ibdXDoALqk68W7Dl
 img: icons/potion.svg

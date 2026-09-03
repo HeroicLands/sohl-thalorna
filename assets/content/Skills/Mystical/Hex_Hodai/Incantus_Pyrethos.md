@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Incantus Pyréthos
-  - Incantus Pyrethos
 tags:
   - hex-hodai
 type: skill
@@ -11,7 +8,6 @@ shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
 name:
   full: Incantus Pyréthos
-  aliases: []
 sohl:
   skillBaseFormula: "@aur, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ward
 tags: []
 name:
   full: Protector

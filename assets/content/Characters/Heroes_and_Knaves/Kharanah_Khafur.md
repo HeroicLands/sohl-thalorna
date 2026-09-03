@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Khârânah Khafûr
-  - Khârânah Khafûr
-  - Kharanah Khafur
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Khârânah
   clan: Khafûr
   home: Ashkarad
-  aliases: []
 id: fVcWZBuAv0d4Q10o
 folder: heI5Ky6Kqmb61L6c
 shortcode: kharnhkhfr

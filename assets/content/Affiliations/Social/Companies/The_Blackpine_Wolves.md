@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Blackpine Wolves
 tags:
   - company
   - brigands
@@ -95,7 +93,6 @@ sohl:
 id: W9GL9vBPyw1YBHJZ
 name:
   full: The Blackpine Wolves
-  aliases: []
 shortcode: blckpnwlvs
 banner: banners/company.webp
 folder: bVhz4i3fwwT0NDSW

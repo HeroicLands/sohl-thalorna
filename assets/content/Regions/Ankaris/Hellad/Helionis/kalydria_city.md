@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalydria
 id: gG3RL32nHgC2D0B5
 tags:
   - city-state
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Kalydria
-  aliases: []
 shortcode: kalydria2
 ---
 

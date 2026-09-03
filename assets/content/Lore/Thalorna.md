@@ -13,7 +13,6 @@ data:
 folder: wCi1zv06QgydQQoL
 name:
   full: The World of Thalorna
-  aliases: []
 shortcode: worldthlrn
 cascade:
   - target:

@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Khensuret
-  aliases: []
 shortcode: nomekhnsrt
 subType: polity
 data:

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Cave Troll
 tags:
   - dreadspawn
 name:
   full: Cave Troll
-  aliases: []
 description: "A slow-witted but devastating cavern apex predator that hunts in absolute darkness using senses far keener than any humanoid's."
 id: LLdlPmp4JmXGcj1o
 img: icons/game-icons/skoll/troll.svg

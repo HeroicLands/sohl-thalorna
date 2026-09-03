@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Marriage
 id: FU7XLpmwbZEhNm5R
 type: lore
 subType: culture
 name:
   full: Marriage
-  aliases: []
 shortcode: marriage
 folder: jV7c6dJp4Ztnjtb3
 ---

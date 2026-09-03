@@ -12,7 +12,6 @@ id: KGNBbd2wcsgUoxuh
 shortcode: daktrvrtht
 name:
   full: "Ritual: Dāktūr Vōrthāt"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corvinus
 id: 0yneTHleAxbUv6TI
 tags:
   - garrison
@@ -16,7 +14,6 @@ data:
   population: 9000
 name:
   full: Corvinus
-  aliases: []
 shortcode: corvinus
 folder: WSdLuPc7BaRqxNEt
 ---

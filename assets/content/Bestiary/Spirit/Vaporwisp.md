@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Vaporwisp
 tags:
   - spirit
 name:
   full: Vaporwisp
-  aliases: []
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
 id: SZSbxQbHhZFFCLQh
 img: icons/game-icons/delapouite/griffin-symbol.svg

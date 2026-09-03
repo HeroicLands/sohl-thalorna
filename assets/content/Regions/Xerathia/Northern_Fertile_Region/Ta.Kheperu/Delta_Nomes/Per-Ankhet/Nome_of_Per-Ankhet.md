@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Per-Ankhet
-  aliases: []
 shortcode: nomeprnkht
 subType: polity
 data:

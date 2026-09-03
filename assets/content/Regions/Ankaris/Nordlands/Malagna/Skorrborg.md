@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skorrborg
 id: RceXRNNJJjThvqSo
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Skorrborg
-  aliases: []
 shortcode: skorrborg
 folder: 3JdV0mOrMUISPmRz
 ---

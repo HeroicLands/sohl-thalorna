@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hassârìon Khalîthôn
-  - Hassarion Khalithon
 tags:
   - draft
   - administration

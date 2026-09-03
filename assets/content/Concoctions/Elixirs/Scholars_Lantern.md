@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Scholar's Lantern"
-  aliases: []
 description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
 id: xk4TRkNFSve0i309
 img: icons/potion.svg

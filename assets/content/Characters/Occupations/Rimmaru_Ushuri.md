@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rimmârû Ushûrî
-  - Rimmaru Ushuri
 tags:
   - draft
   - tradesfolk

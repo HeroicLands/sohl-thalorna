@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wind
 tags: []
 name:
   full: Gust

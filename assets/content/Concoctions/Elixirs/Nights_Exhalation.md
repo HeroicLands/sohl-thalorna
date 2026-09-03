@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: "Night's Exhalation"
-  aliases: []
 description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
 id: P0BmkIohvhBWudJI
 img: icons/potion.svg

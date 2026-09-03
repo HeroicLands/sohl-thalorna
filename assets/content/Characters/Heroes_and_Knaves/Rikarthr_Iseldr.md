@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Ríkarthr Íseldr
-  - Ríkarthr Íseldr
-  - Rikarthr Iseldr
 tags:
   - heroes-and-knaves
   - todo
@@ -14,7 +10,6 @@ name:
   given: Ríkarthr
   clan: Íseldr
   home: Thorrborg
-  aliases: []
 id: rn9KO5qrWdoqToSu
 folder: Ka9XqaF27b0I3Gmq
 shortcode: rkrthrsldr

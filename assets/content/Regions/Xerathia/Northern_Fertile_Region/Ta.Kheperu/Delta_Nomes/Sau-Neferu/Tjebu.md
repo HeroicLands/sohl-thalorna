@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tjebu
 id: MdjcGbF0x3kGbwQx
 tags:
   - town
@@ -15,7 +13,6 @@ data:
   population: 12000
 name:
   full: Tjebu
-  aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tjebu
 folder: 9wsmaBsHPmmto2k3

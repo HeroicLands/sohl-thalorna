@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Brânalenîs Bárkalâs
-  - Brânalenîs Bárkalâs
-  - Branalenis Barkalas
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Brânalenîs
   clan: Bárkalâs
   home: Belekos
-  aliases: []
 id: HySXklJQfb8FnTsx
 folder: UFBfgKZUF0bAE7gG
 shortcode: brnlnsbrkls

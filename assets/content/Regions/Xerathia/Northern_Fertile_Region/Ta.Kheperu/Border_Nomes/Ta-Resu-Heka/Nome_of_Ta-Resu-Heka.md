@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Ta-Resu-Heka
-  aliases: []
 shortcode: nometarshk
 subType: polity
 data:

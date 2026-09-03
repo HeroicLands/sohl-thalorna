@@ -14,7 +14,6 @@ id: ZhwcSRUOtcal0hi4
 shortcode: dokyok
 name:
   full: "Ritual: Dōkyök"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

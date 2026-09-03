@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Torreviga
 id: yjFOHt9fEyDjHCCZ
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Torreviga
-  aliases: []
 shortcode: torreviga
 folder: DB9rgGreD8FtqoBx
 ---

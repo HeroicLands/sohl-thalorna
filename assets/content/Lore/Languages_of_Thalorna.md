@@ -7,7 +7,6 @@ type: doc
 subType: collection
 name:
   full: Languages of Thalorna
-  aliases: []
 shortcode: lnggsthlrn
 banner: banners/language.webp
 ---

@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Sau-Neferu
-  aliases: []
 shortcode: nomesaunfr
 subType: polity
 data:

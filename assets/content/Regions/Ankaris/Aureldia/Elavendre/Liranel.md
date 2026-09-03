@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Liranel
 id: 125j2DAi5wNhmQMA
 tags:
   - town
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Liranel
-  aliases: []
 shortcode: liranel
 folder: drAoDoNnFEygATeK
 ---

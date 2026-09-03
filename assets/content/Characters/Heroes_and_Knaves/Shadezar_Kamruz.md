@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Shâdezar Kamruz
-  - Shâdezar Kamruz
-  - Shadezar Kamruz
 tags:
   - heroes-and-knaves
   - administration
@@ -12,7 +8,6 @@ name:
   given: Shâdezar
   clan: Kamruz
   home: Dûn Ashir
-  aliases: []
 id: FlkeLYuSgvdRipj3
 folder: kCKYObmsvraIezCd
 shortcode: shadzrkmrz

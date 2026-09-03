@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Enervation
 tags: []
 name:
   full: Sapmind

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dháran Véldarin
-  - Dharan Veldarin
 tags:
   - todo
   - draft

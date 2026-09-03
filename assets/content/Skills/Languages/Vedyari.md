@@ -4,7 +4,6 @@ aliases:
 tags: []
 name:
   full: Vedyari Language
-  aliases: []
 description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
 id: DKD7KcuikPJx3oIW
 img: icons/speaking.svg

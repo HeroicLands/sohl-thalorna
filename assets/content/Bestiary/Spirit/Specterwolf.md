@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Specterwolf
 tags:
   - spirit
 name:
   full: Specterwolf
-  aliases: []
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
 id: rD3EROAf0ElFfGjr
 img: icons/game-icons/lorc/wolf-head.svg

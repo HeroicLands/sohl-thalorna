@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Qasirah
 id: 4QzVGEQ6lbgWqm5t
 tags:
   - port
@@ -16,7 +14,6 @@ data:
   population: null
 name:
   full: Qasirah
-  aliases: []
 shortcode: qasirah
 folder: ySaln4Q82C7W1p0I
 ---

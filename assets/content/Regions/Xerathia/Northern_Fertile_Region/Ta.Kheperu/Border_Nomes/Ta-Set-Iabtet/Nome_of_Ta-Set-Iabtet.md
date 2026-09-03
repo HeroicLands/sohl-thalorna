@@ -8,7 +8,6 @@ type: affiliation
 banner: banners/ta-kheperu-banner.webp
 name:
   full: The Nome of Ta-Set-Iabtet
-  aliases: []
 shortcode: nometstbtt
 subType: polity
 data:

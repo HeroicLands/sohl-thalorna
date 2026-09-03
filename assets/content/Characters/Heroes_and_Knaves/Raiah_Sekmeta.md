@@ -12,7 +12,6 @@ name:
   given: Raiah
   clan: Sekmet'â
   home: Wasetkara
-  aliases: []
 id: 0M8HOay3gpvRiuUF
 folder: fZZH4cxRkvC4ehwP
 banner: banners/ta-kheperu-banner.webp

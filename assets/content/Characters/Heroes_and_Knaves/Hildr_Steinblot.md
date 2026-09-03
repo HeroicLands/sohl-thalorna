@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Hildr Steinblót
-  - Hildr Steinblót
-  - Hildr Steinblot
 tags:
   - heroes-and-knaves
   - tradesfolk
@@ -12,7 +8,6 @@ name:
   given: Hildr
   clan: Steinblót
   home: Haldrvík
-  aliases: []
 id: 2mnu06IiMqWhvNFg
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hldrstnblt

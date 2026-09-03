@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Valdûn
-  - Valdun
 id: x8lAC1ETUs0sqHpi
 tags:
   - town
@@ -17,7 +14,6 @@ data:
   population: null
 name:
   full: Valdûn
-  aliases: []
 shortcode: valdun
 folder: drAoDoNnFEygATeK
 ---

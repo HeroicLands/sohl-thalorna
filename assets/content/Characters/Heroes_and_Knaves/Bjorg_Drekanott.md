@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Björg Drekanótt
-  - Björg Drekanótt
-  - Bjorg Drekanott
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Björg
   clan: Drekanótt
   home: Ulfheim
-  aliases: []
 id: 27J04R6N0Txnbpgm
 folder: Ka9XqaF27b0I3Gmq
 shortcode: bjorgdrknt

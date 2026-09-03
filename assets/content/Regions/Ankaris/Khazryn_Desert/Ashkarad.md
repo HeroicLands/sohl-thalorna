@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashkarad
 id: kDexjFi0gHnVg2xA
 tags:
   - town
@@ -9,7 +7,6 @@ description: "Craft Town"
 type: place
 name:
   full: Ashkarad
-  aliases: []
 shortcode: ashkarad
 subType: settlement
 data:

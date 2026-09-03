@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sigfúss Stormrót
-  - Sigfúss Stormrót
-  - Sigfuss Stormrot
 tags:
   - heroes-and-knaves
   - common-folk
@@ -12,7 +8,6 @@ name:
   given: Sigfúss
   clan: Stormrót
   home: Bjornstad
-  aliases: []
 id: uKal2sQw3LTDMtFf
 folder: Ka9XqaF27b0I3Gmq
 shortcode: sigfstrmrt

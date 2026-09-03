@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Kingdom of Léonrik
-  - Kingdom of Leonrik
 id: Dd51vjOPHLzTSOw4
 description: "Largest and most fertile of Tarvénia's three kingdoms in the central-southern lowlands — wealthy, populous, and politically ambitious, with the richest farmland in the realm."
 type: affiliation
 name:
   full: Kingdom of Léonrik
-  aliases: []
 shortcode: kingdmlnrk
 subType: polity
 data:

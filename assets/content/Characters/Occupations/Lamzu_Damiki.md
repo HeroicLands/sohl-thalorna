@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lâmzû Damîkî
-  - Lamzu Damiki
 tags:
   - draft
   - tradesfolk

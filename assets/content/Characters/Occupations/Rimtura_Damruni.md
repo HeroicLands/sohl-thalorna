@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rimtûra Damrûnî
-  - Rimtura Damruni
 tags:
   - draft
   - administration

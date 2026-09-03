@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Bránakis Kâserânis
-  - Bránakis Kâserânis
-  - Branakis Kaseranis
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Bránakis
   clan: Kâserânis
   home: Solheim
-  aliases: []
 id: CKhqAnKWmu18wZ1L
 folder: UFBfgKZUF0bAE7gG
 shortcode: brnksksrns

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Stormseer
 tags:
   - elemental
 name:
   full: Stormseer
-  aliases: []
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
 id: TXoRX749dQrUkWYC
 img: icons/game-icons/lorc/werewolf.svg

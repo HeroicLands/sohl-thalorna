@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Mirelurker
 tags:
   - dreadspawn
 name:
   full: Mirelurker
-  aliases: []
 description: "A crustacean-amphibian apex predator of brackish marshes that waits motionless as a submerged log before striking with brutal force."
 id: EAg26B2pYAXS9TJv
 img: icons/game-icons/delapouite/griffin-symbol.svg

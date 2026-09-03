@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Táldor Kálmereth
-  - Taldor Kalmereth
 tags:
   - draft
   - common-folk

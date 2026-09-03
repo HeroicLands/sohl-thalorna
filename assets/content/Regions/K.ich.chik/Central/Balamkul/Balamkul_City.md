@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Balamkul
 id: LXNjgk0sJIzvtzuS
 tags:
   - city
@@ -15,7 +13,6 @@ data:
   population: null
 name:
   full: Balamkul
-  aliases: []
 shortcode: balamkul2
 ---
 

@@ -6,7 +6,6 @@ tags:
   - elixir
 name:
   full: Heart-of-the-Oak
-  aliases: []
 description: "Dense amber strength elixir; surges Strength by four points temporarily."
 id: s0dSQneHXoBYOHNr
 img: icons/potion.svg

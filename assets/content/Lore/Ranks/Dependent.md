@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dependent
 tags:
   - draft
 id: cTbMgDiO3n0S9u0H
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Dependent
-  aliases: []
 shortcode: dependentrnk
 description: "Sheltered by a body without being of it — a client, a guest, a kinsman by courtesy."
 ---

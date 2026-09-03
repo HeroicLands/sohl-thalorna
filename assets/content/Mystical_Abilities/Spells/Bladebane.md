@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Swordbreaker
 tags: []
 name:
   full: Bladebane

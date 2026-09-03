@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elder
 tags:
   - draft
 id: xRg6HUrmKB278fM5
@@ -8,7 +6,6 @@ type: lore
 subType: law
 name:
   full: Elder
-  aliases: []
 shortcode: elderrnk
 description: "Senior of a body, whose recollection of its custom settles what the young dispute."
 ---

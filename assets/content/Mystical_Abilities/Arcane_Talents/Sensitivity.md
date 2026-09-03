@@ -2,7 +2,6 @@
 tags: []
 name:
   full: Sensitivity
-  aliases: []
 id: GvNrbskSwZjdAamV
 img: icons/psionics.svg
 shortcode: snst

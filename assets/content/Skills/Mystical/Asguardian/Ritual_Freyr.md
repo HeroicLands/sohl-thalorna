@@ -12,7 +12,6 @@ shortcode: freyr
 img: images/affiliation/freyr.webp
 name:
   full: "Ritual: Fréyr"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sárena Párdalen
-  - Sarena Pardalen
 tags:
   - todo
   - draft

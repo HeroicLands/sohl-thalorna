@@ -12,7 +12,6 @@ id: FeZJJ076sgnlyvxD
 shortcode: korsadra
 name:
   full: "Ritual: Khóršádrä"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aravantia
 id: Hy4rKx2mVqL9Tb7n
 tags:
   - capital
@@ -16,7 +14,6 @@ data:
   population: 28000
 name:
   full: Aravantia
-  aliases: []
 shortcode: aravantia
 folder: WSdLuPc7BaRqxNEt
 ---

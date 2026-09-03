@@ -1,8 +1,4 @@
 ---
-aliases:
-  - Sâbir Âjira
-  - Sâbir Âjira
-  - Sabir Ajira
 tags:
   - heroes-and-knaves
   - guilded
@@ -13,7 +9,6 @@ name:
   given: Sâbir
   clan: Âjira
   home: Qasirah
-  aliases: []
 id: CLSKx2YS5Xc26oaP
 folder: mtJ4TzKdySHbE2OM
 shortcode: sabirajira

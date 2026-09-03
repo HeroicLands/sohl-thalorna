@@ -14,7 +14,6 @@ id: 1rHq1gnkchTJv6ZN
 shortcode: thoth
 name:
   full: "Ritual: Thōth"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

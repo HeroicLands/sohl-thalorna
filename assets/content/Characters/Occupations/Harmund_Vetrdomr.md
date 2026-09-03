@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hármund Vetrdómr
-  - Harmund Vetrdomr
 tags:
   - todo-warrior
   - draft
@@ -12,7 +9,6 @@ name:
   given: Hármund
   clan: Vetrdómr
   home: ""
-  aliases: []
 id: KDGAUuRqphlhHVln
 folder: Ka9XqaF27b0I3Gmq
 shortcode: hrmndvtrdmr

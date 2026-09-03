@@ -13,7 +13,6 @@ shortcode: sacredforge
 img: images/affiliation/sacredforge.webp
 name:
   full: "Ritual: The Sacred Forge"
-  aliases: []
 sohl:
   skillBaseFormula: "@wil, @rea"
   combatCategory: none

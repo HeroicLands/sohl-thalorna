@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cloak
 tags: []
 name:
   full: Shadowveil
