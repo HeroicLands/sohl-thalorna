@@ -33,9 +33,9 @@ at all, so there is one writer and nothing to disagree with.
 `site:` block — `out: site/content`, and the eleven sections this package
 publishes. Since package-build#204 a section is a Hugo directory the note format
 does not carry, so pages emit **flat** and `site.sections` is the only thing that
-makes `/thalorna/<section>/` exist at all. `publish.address.landing` is left
-declared but is inert from package-build 13.0.0, which retired the `README`
-landing convention.
+makes `/thalorna/<section>/` exist at all. `publish.address` keeps only
+`prefix: ""`, which is a declared decision rather than a default; `landing` went
+with the `README` convention package-build 13.0.0 retired (#127).
 
 **No page moved.** The published address set is identical, note for note: 1,852
 `url:` values, zero differences, and every one of the 2,125 rendered pages

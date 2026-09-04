@@ -60,11 +60,6 @@ publish:
     # the package root and the prefix is empty.
     address:
         prefix: ""
-        # Inert since package-build 13.0.0 (package-build#208): a section is a
-        # Hugo directory the note format does not carry, so no note is a
-        # landing and pages emit flat. Kept only until the key is removed
-        # upstream.
-        landing: readme
 
 # How this repository frames the website it publishes. Framing only — how a page
 # gets its *address* is `publish.address` above, shared with the link manifest
