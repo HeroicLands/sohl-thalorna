@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: "The Land of the Dead Jaguar: a blasted southern waste of volcanic ruin and ghost-haunted ruins, scourged by divine wrath."
 name:
   full: Tz'ikin Ba'alam

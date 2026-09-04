@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes — the southern frontier of K'ich'chik civilization.
 name:
   full: K'uxi Balam
