@@ -6,7 +6,7 @@ description: "The centralern reach of the K'ich'chik continent and its city-stat
 name:
   full: Central K'ich'chik
   aliases: []
-img: ""
+img: null
 type: place
 subType: region
 data:

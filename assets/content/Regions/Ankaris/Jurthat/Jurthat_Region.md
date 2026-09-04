@@ -8,7 +8,7 @@ name:
     - Jürthāti Archipelago
 id: DUxKyyoSACYzRQpy
 shortcode: jurthatrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

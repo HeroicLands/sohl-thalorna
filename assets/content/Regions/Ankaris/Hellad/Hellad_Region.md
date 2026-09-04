@@ -8,7 +8,7 @@ name:
     - Hellád
 id: fT0m0zgori7CbpJj
 shortcode: heladrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

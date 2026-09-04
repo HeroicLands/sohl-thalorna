@@ -8,7 +8,7 @@ name:
   aliases: []
 id: YdTLHYUlxfAuVdNW
 shortcode: kawiltzakl
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

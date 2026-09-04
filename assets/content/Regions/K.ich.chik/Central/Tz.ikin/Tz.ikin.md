@@ -8,7 +8,7 @@ name:
   aliases: []
 id: 4bmHFoaCvpbUggB0
 shortcode: tzikin
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

@@ -9,7 +9,7 @@ name:
     - Nordheim
 id: YlkX3ZRpn80aiPTO
 shortcode: nrdlndsrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

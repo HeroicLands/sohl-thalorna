@@ -8,7 +8,7 @@ name:
     - Mídhalión
 id: 3kuxg7GIFNcUUnkm
 shortcode: midhalnrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

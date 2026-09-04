@@ -9,7 +9,7 @@ name:
     - Khazryn
 id: w9m8EsfUkF9ikhL0
 shortcode: khzryndsrtrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

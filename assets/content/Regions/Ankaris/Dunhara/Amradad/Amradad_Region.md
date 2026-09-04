@@ -8,7 +8,7 @@ name:
     - Amradad
 id: yvAi0uy6sqpFand1
 shortcode: amradadrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

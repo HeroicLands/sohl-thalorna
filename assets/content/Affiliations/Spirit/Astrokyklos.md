@@ -94,7 +94,7 @@ data:
   relations: {}
 id: qBeythibUMynFR01
 shortcode: astrokyklos
-img: ""
+img: null
 sohl:
   archetype: null
 folder: 22zncJuZCvjO7YSY

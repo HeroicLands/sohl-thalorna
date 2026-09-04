@@ -7,7 +7,7 @@ name:
   aliases: []
 id: rD2cSVqLcGUxWBMV
 shortcode: okharisrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

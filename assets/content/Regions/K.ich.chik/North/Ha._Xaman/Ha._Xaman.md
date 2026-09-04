@@ -8,7 +8,7 @@ name:
   aliases: []
 id: Nfi6Vbb3BYorhP8k
 shortcode: haxaman
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

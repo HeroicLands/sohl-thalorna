@@ -14,7 +14,7 @@ name:
     - Kingdom of Mountains and Seas
 id: X3mxTrn5z3vxzI0C
 shortcode: jurthatempr
-img: ""
+img: null
 type: affiliation
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
 subType: polity

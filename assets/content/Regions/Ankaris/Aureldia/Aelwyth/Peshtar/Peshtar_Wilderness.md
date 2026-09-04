@@ -8,7 +8,7 @@ name:
     - Peshtar Highlands
 id: zb5DAPGsJEJHjycA
 shortcode: pshtrwldrns
-img: ""
+img: null
 type: place
 subType: region
 data:

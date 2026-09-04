@@ -8,7 +8,7 @@ name:
   aliases: []
 id: a45B4y3xgItfb4jv
 shortcode: kuxibalam
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

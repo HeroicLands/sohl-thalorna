@@ -8,7 +8,7 @@ name:
   aliases: []
 id: 7r7X4XximAt5POjG
 shortcode: aureldirgn
-img: ""
+img: null
 type: place
 subType: region
 data:

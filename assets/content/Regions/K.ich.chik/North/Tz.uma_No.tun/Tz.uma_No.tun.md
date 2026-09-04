@@ -8,7 +8,7 @@ name:
   aliases: []
 id: fM8m3hYXswYDcrOt
 shortcode: tzumanotun
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:
