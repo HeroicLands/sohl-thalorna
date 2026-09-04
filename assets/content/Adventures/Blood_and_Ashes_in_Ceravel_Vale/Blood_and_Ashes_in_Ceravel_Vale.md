@@ -43,7 +43,7 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 
 ## The Three Parts
 
-### [[Part 1 - The Bandits of Céravel Vale|Part 1: The Brigands of Céravel Vale]]
+### [[scenario-bndtscrvlvl|Part 1: The Brigands of Céravel Vale]]
 
 The adventurers are hired by Târlas to eliminate the bandit threat. They gather information in the village (navigating the divide between Thânevar and Provenzian peasants), ambush the bandits on the Old South Road, survive a counterattack in the village square, and assault Thárion's cave hideout. The resolution reveals hints of a deeper conspiracy—Kílan's hidden hand behind the chaos.
 
