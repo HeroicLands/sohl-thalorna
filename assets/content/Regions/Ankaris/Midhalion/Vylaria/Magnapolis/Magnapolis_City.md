@@ -265,7 +265,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 **Population:** 50,000–1,000,000 (city + outskirts)
 **Setting:** A cluster of six hills on the eastern bank of the [[River Vylaris]]; the Inner City crowns the highest, Mons Aquila
 **The Six Hills:** [[place-sixhillsvyl#monsaquila|Mons Aquila]] (Inner City & Palace); [[place-sixhillsvyl#monscoronus|Mons Corónus]] & [[place-sixhillsvyl#monslaurine|Mons Lauríne]] (the Heights); [[place-sixhillsvyl#monssapiens|Mons Sápiens]] (Scholars'); [[place-sixhillsvyl#monsvetus|Mons Vétus]] (the faded hill); [[place-sixhillsvyl#monsripae|Mons Rípae]] (above the Wharves)
-**Seat of power:** The [[place-palatimgnm|Grand Palace]], in the walled Inner City — [[Magnapolis_Inner_City|Urbs Aquilion]], atop Mons Aquila
+**Seat of power:** The [[place-palatimgnm|Grand Palace]], in the walled Inner City — [[place-urbsaquiln|Urbs Aquilion]], atop Mons Aquila
 **Governing bodies:** The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar|Vylarian Senate]]; the civic [[affiliation-curiaurbis|Curia Urbis]] and the courts beneath it
 **Defenses:** The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (the city has no outer wall); the [[affiliation-vylrnmltry|City Watch]] (urban cohorts); the [[affiliation-pratrgstrm|Praetar Augustarum]] guarding the Inner City
 **Signature marvels:** The [[place-magngndorery|Mechanical Court]], the [[|Temple of the Twelve]], the [[place-circusmaximusmagnapls|Circus Maximus]], the great Circles
