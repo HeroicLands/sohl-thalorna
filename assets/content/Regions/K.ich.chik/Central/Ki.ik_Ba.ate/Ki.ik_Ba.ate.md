@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: Isthmus of volcanic gateways and coastal city-states — the liminal trade corridor binding the K'ich'chik north to the south.
 name:
   full: Ki'ik Ba'ate

@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: River-bound jungle realm of tepui-shrouded city-states and priest-navigators — the Land of Birds, source of K'ich'chik's rarest luxuries.
 name:
   full: Tz'ikin

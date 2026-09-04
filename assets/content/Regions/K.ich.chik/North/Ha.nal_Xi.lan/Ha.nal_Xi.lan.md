@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: River-laced borderlands where three northern peoples contest the bottomlands, forests, and trade routes of the great central valley.
 name:
   full: Ha'nal Xi'lan

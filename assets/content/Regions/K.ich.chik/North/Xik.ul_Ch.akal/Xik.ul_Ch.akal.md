@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: Lakes, rivers, and portage-routes of the Ha'ik — the Otter People — a water-centred civilization of canoe-runners and maple forests.
 name:
   full: Xik'ul Ch'akal

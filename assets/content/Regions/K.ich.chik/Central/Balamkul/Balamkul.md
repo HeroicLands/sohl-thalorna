@@ -1,7 +1,6 @@
 ---
 tags:
   - polity
-title: ""
 description: Paramount realm and beating heart of K'ich'chik civilization — a plateau of pyramid-temples, mathematics, and blood-priesthood.
 name:
   full: Balamkul
