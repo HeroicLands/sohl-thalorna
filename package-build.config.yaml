@@ -78,10 +78,25 @@ site:
     # is written flat at the root of this directory. The whole tree is wiped and
     # rewritten on every run, so it is a build artifact and never committed.
     out: site/content
-    # `base` is absent, which means `/<contentPackage>/` — `/thalorna/`, the
-    # path `site/hugo.toml`'s `baseURL` serves. The two are stated separately
-    # because the site build addresses pages and Hugo renders them; keep them in
-    # step when the site moves.
+    # The value written into each page's Hugo `url:` front matter. Hugo reads
+    # that as **site-root-relative**, and this Hugo site's root already *is*
+    # `/thalorna/` — `site/hugo.toml` sets `baseURL` to
+    # `https://www.heroiclands.org/thalorna/` and `publishDir` to
+    # `../build/site/thalorna`, and the deployment serves that directory at
+    # `/thalorna/`. So the package prefix may be written on exactly one side,
+    # and Hugo already writes it: leaving `base` absent means
+    # `/<contentPackage>/`, which published every content page at
+    # `/thalorna/thalorna/<address>/` (#130).
+    #
+    # A stopgap, not the resting state. The emitter uses one value for two
+    # things that need opposite framings — Hugo's `url:`, which is relative to
+    # the site root, and the `href`s it writes into page bodies, which are
+    # site-absolute — so no value here is right for both. `/` buys the correct
+    # half: every page, the homepage, `sitemap.xml`, the section-landing
+    # listings and every cross-package inbound link resolve. Same-package body
+    # links stay dead, exactly as they already are. When package-build stops
+    # writing `base` into `url:`, drop this line and the default is right again.
+    base: "/"
     #
     # `packages:` is absent too, and absent means `[contentPackage]`. `package:`
     # is retired, so every note in this tree is `thalorna` by construction and
