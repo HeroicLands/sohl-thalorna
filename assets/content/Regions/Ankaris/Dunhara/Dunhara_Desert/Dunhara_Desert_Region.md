@@ -8,7 +8,7 @@ name:
     - Dunhara Desert
 id: JgRovKxsMJfmq3tm
 shortcode: dunhardsrtrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

@@ -8,7 +8,7 @@ name:
   aliases: []
 id: Avuq4GMpQsnkMxsl
 shortcode: kiikbaate
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

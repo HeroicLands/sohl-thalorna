@@ -9,7 +9,7 @@ name:
     - The Interior
 id: xrl6UQDKiicpJOUJ
 shortcode: alndntrblnds
-img: ""
+img: null
 type: place
 subType: region
 data:

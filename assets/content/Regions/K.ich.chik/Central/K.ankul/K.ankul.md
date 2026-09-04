@@ -8,7 +8,7 @@ name:
   aliases: []
 id: 6uj0kMpcSvwHhYfb
 shortcode: kankul
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

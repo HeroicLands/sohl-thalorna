@@ -8,7 +8,7 @@ name:
   aliases: []
 id: fzmM3PUidaBMxfbz
 shortcode: chakultzkl
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

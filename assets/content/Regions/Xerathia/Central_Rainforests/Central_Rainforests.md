@@ -9,7 +9,7 @@ name:
     - Green Interior
 id: YPcQy1qNckWAGrR8
 shortcode: cntrlrnfrsts
-img: ""
+img: null
 type: place
 subType: region
 data:

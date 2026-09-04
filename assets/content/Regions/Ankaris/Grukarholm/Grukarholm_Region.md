@@ -9,7 +9,7 @@ name:
     - Grukarhölm
 id: 0QoQwSg2yKUAbb4v
 shortcode: grkrhlmrgn
-img: ""
+img: null
 type: place
 subType: region
 data:
