@@ -57,39 +57,41 @@ workflow builds and verifies the site, and skips the upload.
 
 ### The address is written down once
 
-`baseURL` in [`site/hugo.toml`](site/hugo.toml) is the only place the site's
-address appears. The content build reads it (`utils/site-config.mjs`) and spells
-every href, redirect and link-manifest entry against it, so pointing that line at
-another prefix — or at an origin of this package's own — moves the whole site
-with one edit. Both cases are verified rather than assumed: the site rebuilds at
-`https://thalorna.example.org/` and at `https://example.org/setting/thalorna/`
-with all 28,201 internal links resolving.
+`baseURL` in [`site/hugo.toml`](site/hugo.toml) is where Hugo is told the site's
+address, and `contentPackage` in
+[`package-build.config.yaml`](package-build.config.yaml) is where the site build
+is: a page publishes at `/<contentPackage>/<type>-<shortcode>/`, and `site.base`
+overrides that if the package ever moves. Pointing both at another prefix — or
+at an origin of this package's own — moves the whole site.
 
 That is what the arrangement is for. A successor inheriting this repository and
 nothing else can publish Thalorna wherever they like, without inheriting the rest
 of the project to do it.
 
+### The emitter is the toolchain's, entirely
+
+`npm run build:site-content` is `content-build site`, and there is no local site
+code at all — no walk, no filter, no page writer, no wikilink resolver, and no
+seam for one (#85). This repository used to carry its own emitter, a 907-line
+copy of the engine's plus a 281-line copy of its wikilink resolver, and that copy
+missed four upstream fixes in as many months: one emitted a site with zero pages,
+one left generated tables empty, one broke every breadcrumb, and one silently
+stripped `foundryPackage` and all 2,585 `uuid`s out of the published link
+manifest whenever the site built after it. A gap here is now fixed in
+`@heroiclands/package-build`, where every package gets the fix — never here.
+
 What the build does to a note:
 
-- **Routes** it to `<section>/<slug>.md`, where the section is its `type` (a
-  `type: doc` routes by its `subType`) and the slug is derived from `name.full`
-  by the shared rule in `@heroiclands/package-build/engine/content-slug`. A
-  `README.md` _is_ a section's landing and writes that section's `_index.md`,
-  addressing the section its `subType` names
-  (`publish.address.landing: readme`).
+- **Addresses** it as `type-shortcode`, and writes it flat: a page publishes at
+  `/thalorna/<type>-<shortcode>/` whatever directory the note is filed in.
+  Sections are Hugo directories the note format does not carry, so the ones this
+  site publishes are declared in `site.sections` and nothing else creates one.
 - **Expands** its fenced `dataview` table directives against every published note.
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the
   pack compiler turns into Foundry `@UUID` enrichers.
-- **Carries forward** the URLs it published at before, as Hugo `aliases`, and the
-  name its CDN artwork was uploaded under, as `artwork`.
 
-That last record is [`assets/legacy-urls.json`](assets/legacy-urls.json), keyed
-by a note's `type:shortcode`. It is **append-only history**: never edit an entry,
-and add one only when a page's URL changes again. Some of its entries name
-shortcodes that no longer exist, because a note was renamed after the URL was
-recorded — those simply never fire, and re-pointing one at the note that now owns
-the address is a hand edit, not something to derive.
-
-Because `aliases` means two unrelated things — alternative _names_ in Obsidian,
-_URL redirects_ in Hugo — a note's authored `aliases` is dropped rather than
-published. Only the recorded history above becomes a redirect.
+This build emits **no redirects**. It used to carry a record of the addresses
+each page had published at before, and turn them into Hugo `aliases`; that record
+is gone and the old addresses no longer answer. A note's own `aliases` was never
+published either — the key means alternative _names_ in Obsidian and _URL
+redirects_ in Hugo, and only one of those is a page.

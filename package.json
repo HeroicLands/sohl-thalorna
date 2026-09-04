@@ -44,7 +44,7 @@
         "lint:markdown:fix": "content-build markdown --fix",
         "lint:content-links": "content-build links",
         "lint:addresses": "content-build lint",
-        "build:site-content": "node utils/build-site-content.mjs",
+        "build:site-content": "content-build site",
         "build:site": "run-s build:site-content build:site-html build:site-root",
         "build:site-html": "hugo --source site --minify --gc --cleanDestinationDir",
         "build:site-root": "node utils/build-site-root.mjs",
