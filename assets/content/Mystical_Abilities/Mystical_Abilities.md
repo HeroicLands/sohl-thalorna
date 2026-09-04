@@ -4,8 +4,8 @@ name:
   full: Mystical Abilities
   aliases: []
 type: doc
-subType: mysticalability
-shortcode: mystclblts2
+subType: reference
+shortcode: mysticalability
 tags:
 description: Magical and supernatural powers.
 banner: banners/mysticalability.webp
