@@ -52,18 +52,73 @@ publish:
     # surfaces off entirely — it is what `sohl-kethira-basic` and
     # `harn-adventures` publish under, where shipping a content page would
     # breach the terms the material is licensed on.
-    #
-    # No `site:` block accompanies it. `site.out` is optional in either mode,
-    # and it addresses `content-build site` — the engine's own emitter, which
-    # this repository does not run. Pages here are written by
-    # `utils/build-site-content.mjs` into `site/content`, resolved from
-    # `site/hugo.toml`'s `baseURL` via `utils/site-config.mjs` (#85). Declaring
-    # `site.out` would be inert configuration naming a path nothing reads.
     site: content
     manifests: { publish: true, consume: true }
+    # Where the content tree mounts inside the package, read by both `manifest`
+    # and the site build so the address a manifest publishes is the address a
+    # page is emitted at. This package's content *is* its site, so it mounts at
+    # the package root and the prefix is empty.
     address:
         prefix: ""
+        # Inert since package-build 13.0.0 (package-build#208): a section is a
+        # Hugo directory the note format does not carry, so no note is a
+        # landing and pages emit flat. Kept only until the key is removed
+        # upstream.
         landing: readme
+
+# How this repository frames the website it publishes. Framing only — how a page
+# gets its *address* is `publish.address` above, shared with the link manifest
+# so the two cannot disagree about where a page is.
+#
+# `content-build site` is the whole of the emitter (#85). This repository used
+# to carry its own — a 907-line copy of `engine/site-build.mjs` plus a 281-line
+# copy of `engine/web-wikilinks.mjs` — and that copy missed four upstream fixes
+# in as many months, one of which emitted a zero-page site and one of which
+# silently stripped every `uuid` from the published link manifest. There is no
+# local site code left, and no seam for any: a gap here is fixed in
+# `@heroiclands/package-build`, where every package gets the fix.
+site:
+    # Hugo's `contentDir`, and the mount as well: `publish.address.prefix` is
+    # empty, so a page publishes at `/thalorna/<type>-<shortcode>/` and its file
+    # is written flat at the root of this directory. The whole tree is wiped and
+    # rewritten on every run, so it is a build artifact and never committed.
+    out: site/content
+    # `base` is absent, which means `/<contentPackage>/` — `/thalorna/`, the
+    # path `site/hugo.toml`'s `baseURL` serves. The two are stated separately
+    # because the site build addresses pages and Hugo renders them; keep them in
+    # step when the site moves.
+    #
+    # `packages:` is absent too, and absent means `[contentPackage]`. `package:`
+    # is retired, so every note in this tree is `thalorna` by construction and
+    # naming a second package would select nothing.
+    #
+    # No `trees:` — this repository publishes no documentation tree beside its
+    # content — and no `pass:`, which is a named bundle of a repository's own
+    # body rewrites and this one has none.
+    #
+    # `backfillSections` is off. It writes a bare landing for every directory
+    # under the mount, and with pages emitted flat the only directories are the
+    # ones declared below, which already state their own titles.
+    #
+    # Every section this package publishes, so `/thalorna/<section>/` answers
+    # with a titled page rather than a directory listing. Since #204 this is the
+    # only place a section exists: a page is addressed `(type, shortcode)` and
+    # written flat, so nothing else creates the directory. The list is also what
+    # the package landing's card grid is built from — `assets/content/homepage.md`
+    # declares `cards.source: sections`, which reads the site's own top-level
+    # sections — so a section missing here is a card missing there.
+    sections:
+        affiliation: { title: Affiliations }
+        being: { title: Beings }
+        concoctiongear: { title: Concoctions }
+        lore: { title: Lore }
+        mystery: { title: Mysteries }
+        mysticalability: { title: Mystical Abilities }
+        place: { title: Places }
+        reference: { title: Reference }
+        scenario: { title: Scenarios }
+        skill: { title: Skills }
+        weapongear: { title: Weapons }
 
 packageBuild:
     assets:
