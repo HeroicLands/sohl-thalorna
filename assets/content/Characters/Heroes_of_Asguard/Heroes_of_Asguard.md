@@ -5,12 +5,12 @@ name:
   full: Heroes of Asguard
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: heroessgrd
 ---
 
 ```dataview
 TABLE WITHOUT ID link(file.link, name.full) AS "Name", thalorna.realm AS "Realm", social.occupation AS "Occupation"
-WHERE type = "character" and file.name != "New_Character_Template" and contains(file.tags, "#heroes-of-asguard")
+WHERE type = "being" and file.name != "New_Character_Template" and contains(file.tags, "#heroes-of-asguard")
 SORT thalorna.realm, name.full ASC
 ```

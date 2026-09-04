@@ -4,7 +4,7 @@ name:
   full: Settlements
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: setlements
 tags:
 description: Cities, towns, villages, and other inhabited places.

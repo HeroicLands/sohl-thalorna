@@ -72,9 +72,11 @@ of the project to do it.
 What the build does to a note:
 
 - **Routes** it to `<section>/<slug>.md`, where the section is its `type` (a
-  `type: doc` routes by its `category`) and the slug is derived from `name.full`
-  by the shared rule in `@heroiclands/package-build/engine/content-slug`. A `category: collection` note
-  _is_ a section's landing and writes that section's `_index.md`.
+  `type: doc` routes by its `subType`) and the slug is derived from `name.full`
+  by the shared rule in `@heroiclands/package-build/engine/content-slug`. A
+  `README.md` _is_ a section's landing and writes that section's `_index.md`,
+  addressing the section its `subType` names
+  (`publish.address.landing: readme`).
 - **Expands** its fenced `dataview` table directives against every published note.
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the
   pack compiler turns into Foundry `@UUID` enrichers.

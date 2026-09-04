@@ -4,9 +4,8 @@ name:
   full: Adventures
   aliases: []
 type: doc
-subType: collection
+subType: scenario
 shortcode: adventures
-section: scenario
 tags:
 description: Playable adventures and modules.
 banner: banners/adventure.webp

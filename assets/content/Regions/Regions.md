@@ -4,7 +4,7 @@ name:
   full: Regions
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: regions
 tags:
 description: Geographic and cultural regions.

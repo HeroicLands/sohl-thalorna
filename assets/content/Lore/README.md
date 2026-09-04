@@ -4,9 +4,8 @@ name:
   full: Lore
   aliases: []
 type: doc
-subType: collection
+subType: lore
 shortcode: lore
-section: lore
 tags:
 description: Myths, legends, and background lore.
 banner: banners/lore.webp

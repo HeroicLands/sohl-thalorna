@@ -4,9 +4,8 @@ name:
   full: Beings
   aliases: []
 type: doc
-subType: collection
+subType: being
 shortcode: beings
-section: being
 tags:
 description: Every being across the lands of Thalorna and beyond — people, beasts, spirits, and monsters.
 banner: banners/character.webp

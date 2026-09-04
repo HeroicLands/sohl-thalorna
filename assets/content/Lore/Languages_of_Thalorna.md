@@ -1,7 +1,7 @@
 ---
 id: G8edp7iIvjWsum74
 type: doc
-subType: collection
+subType: reference
 name:
   full: Languages of Thalorna
   aliases:

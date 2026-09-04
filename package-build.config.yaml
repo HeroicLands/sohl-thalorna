@@ -63,7 +63,7 @@ publish:
     manifests: { publish: true, consume: true }
     address:
         prefix: ""
-        landing: collection
+        landing: readme
 
 packageBuild:
     assets:

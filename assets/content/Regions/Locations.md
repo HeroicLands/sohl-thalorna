@@ -4,7 +4,7 @@ name:
   full: Locations
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: locations
 tags:
 description: Notable places — ruins, landmarks, dungeons, and wonders.

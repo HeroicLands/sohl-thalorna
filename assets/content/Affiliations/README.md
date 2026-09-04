@@ -4,9 +4,8 @@ name:
   full: Affiliations
   aliases: []
 type: doc
-subType: collection
+subType: affiliation
 shortcode: affiliatns
-section: affiliation
 tags:
 description: Every organized body of Thalorna — religions, schools of magic, spirit traditions, and secular orders.
 banner: banners/organization.webp
@@ -30,7 +29,7 @@ orders sworn to them.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and sohl.subType = "divine" and package = "thalorna"
+WHERE type = "affiliation" and (subType = "faithtradition" or subType = "order") and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -40,7 +39,7 @@ Arcane traditions, including alchemical schools.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and sohl.subType = "arcane" and package = "thalorna"
+WHERE type = "affiliation" and subType = "arcanetradition" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -50,7 +49,7 @@ Shamanic and totemic traditions, ancestor cults, and the spirit courts.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and sohl.subType = "spirit" and package = "thalorna"
+WHERE type = "affiliation" and subType = "spirittradition" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -61,6 +60,6 @@ institutions.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and sohl.subType = "social" and package = "thalorna"
+WHERE type = "affiliation" and (subType = "guild" or subType = "venture" or subType = "criminal" or subType = "governmental" or subType = "fellowship" or subType = "lineage") and package = "thalorna"
 SORT name.full ASC
 ```

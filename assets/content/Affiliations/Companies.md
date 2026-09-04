@@ -1,7 +1,7 @@
 ---
 tags: []
 type: doc
-subType: collection
+subType: reference
 folder: bVhz4i3fwwT0NDSW
 id: BQnufPtiIE5BNAeX
 name:

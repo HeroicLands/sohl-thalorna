@@ -4,7 +4,7 @@ name:
   full: Continents
   aliases: []
 type: doc
-subType: collection
+subType: reference
 shortcode: continents
 tags:
 description: Major landmasses of the world.
