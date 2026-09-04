@@ -457,7 +457,7 @@
     "concoctiongear:ptnsops": "/thalorna/concoctiongear/silk-sleep/",
     "doc:aelendnppl": "/thalorna/lore/aelendan/",
     "doc:aelwyth": "/thalorna/region/aelwyth-region/",
-    "doc:affiliatns": [
+    "doc:affiliation": [
         "/thalorna/arcane-domain/",
         "/thalorna/faith/",
         "/thalorna/organization/",
@@ -475,7 +475,7 @@
     "doc:balamtzaku2": "/thalorna/settlement/baalam-tzaku-city/",
     "doc:bardicolgs": "/thalorna/organization/bardic-colleges/",
     "doc:bartercnmy": "/thalorna/reference/barter-economy/",
-    "doc:beings": ["/thalorna/character/", "/thalorna/creature/"],
+    "doc:being": ["/thalorna/character/", "/thalorna/creature/"],
     "doc:bethuanflt": "/thalorna/reference/bethuan-fleet/",
     "doc:bethuargn": "/thalorna/region/bethua-region/",
     "doc:blckpnwlvs": "/thalorna/company/blackpine-wolves/",

@@ -63,11 +63,11 @@ SORT name.full ASC
 
 # Characters
 
-Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between — the people whose choices shape the world's ongoing history. Browse the full [[doc-beings|catalog of beings]], or discover them in context on the regions, polities, and faiths where they live.
+Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between — the people whose choices shape the world's ongoing history. Browse the full [[doc-being|catalog of beings]], or discover them in context on the regions, polities, and faiths where they live.
 
 # Creatures
 
-From the great river-beasts of Ta'Kheperu to the mountain-wights of Aelwyth and the spirit-fauna of the Central Rainforests, Thalorna's creatures are as varied as its peoples. Browse the full [[doc-beings|catalog of beings]].
+From the great river-beasts of Ta'Kheperu to the mountain-wights of Aelwyth and the spirit-fauna of the Central Rainforests, Thalorna's creatures are as varied as its peoples. Browse the full [[doc-being|catalog of beings]].
 
 # Companies
 

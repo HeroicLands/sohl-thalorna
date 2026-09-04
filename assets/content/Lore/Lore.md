@@ -4,7 +4,7 @@ name:
   full: Lore
   aliases: []
 type: doc
-subType: lore
+subType: reference
 shortcode: lore
 tags:
 description: Myths, legends, and background lore.
