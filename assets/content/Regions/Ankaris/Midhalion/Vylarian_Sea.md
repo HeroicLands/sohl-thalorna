@@ -7,7 +7,7 @@ name:
   aliases: []
 id: JWByO0F561rYME7K
 shortcode: vylarianse
-img: ""
+img: null
 type: place
 subType: region
 data:

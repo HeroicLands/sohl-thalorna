@@ -7,7 +7,7 @@ name:
   aliases: []
 id: cVnJ8UumMs7ffSZq
 shortcode: bethuargn
-img: ""
+img: null
 type: place
 subType: region
 data:

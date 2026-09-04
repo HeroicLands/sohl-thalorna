@@ -7,7 +7,7 @@ name:
   aliases: []
 id: k0Cy2pf0fjCujl0l
 shortcode: balamkiahk
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

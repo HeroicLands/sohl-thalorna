@@ -7,7 +7,7 @@ name:
   aliases: []
 id: KL25bRryRCoKb7k5
 shortcode: byzariargn
-img: ""
+img: null
 type: place
 subType: region
 data:

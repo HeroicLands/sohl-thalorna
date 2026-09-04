@@ -7,7 +7,7 @@ name:
   aliases: []
 id: POOjlSix7q3cOVCo
 shortcode: balamtzaku
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

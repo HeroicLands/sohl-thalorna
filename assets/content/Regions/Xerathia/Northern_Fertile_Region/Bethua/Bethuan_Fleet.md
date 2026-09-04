@@ -111,7 +111,7 @@ name:
     - The Veiled Sails
     - Navy of Bethûa
 shortcode: bethuanflt
-img: ""
+img: null
 folder: Y64e5NGsp8OwZ6xQ
 ---
 

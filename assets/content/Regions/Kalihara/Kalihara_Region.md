@@ -7,7 +7,7 @@ name:
   aliases: []
 id: BGUFytM08ypgI0XE
 shortcode: kaliharargn
-img: ""
+img: null
 type: place
 subType: region
 data:

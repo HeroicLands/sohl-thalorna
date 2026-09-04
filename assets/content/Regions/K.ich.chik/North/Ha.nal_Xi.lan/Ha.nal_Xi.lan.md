@@ -7,7 +7,7 @@ name:
   aliases: []
 id: 4i28v3FDOsPYV0pv
 shortcode: hanalxilan
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

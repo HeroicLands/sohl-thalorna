@@ -8,7 +8,7 @@ name:
     - Vedyara
 id: i3mrG0dvqDp0LHNO
 shortcode: vedyarargn
-img: ""
+img: null
 type: place
 subType: region
 data:

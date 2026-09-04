@@ -7,7 +7,7 @@ name:
   aliases: []
 id: V1Y04Ph8jthE1Fw0
 shortcode: kiximtzul
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

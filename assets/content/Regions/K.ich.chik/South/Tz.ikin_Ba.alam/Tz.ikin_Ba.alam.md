@@ -7,7 +7,7 @@ name:
   aliases: []
 id: 9xRn32VR19yOu6Y7
 shortcode: tzikinbalm
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

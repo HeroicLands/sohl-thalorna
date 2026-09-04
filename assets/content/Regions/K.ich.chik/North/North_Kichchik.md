@@ -6,7 +6,7 @@ description: "The northern reach of the K'ich'chik continent and its city-states
 name:
   full: Northern K'ich'chik
   aliases: []
-img: ""
+img: null
 type: place
 subType: region
 data:

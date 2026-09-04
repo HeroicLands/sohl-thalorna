@@ -8,7 +8,7 @@ name:
     - Dunhara
 id: WME4VbEDaL2Cny92
 shortcode: dunharargn
-img: ""
+img: null
 type: place
 subType: region
 data:

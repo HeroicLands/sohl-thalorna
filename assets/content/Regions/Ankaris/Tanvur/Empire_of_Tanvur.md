@@ -12,7 +12,7 @@ name:
   aliases: []
 id: SsYaojXUrAE6wy9I
 shortcode: tanvurempr
-img: ""
+img: null
 type: affiliation
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 subType: polity

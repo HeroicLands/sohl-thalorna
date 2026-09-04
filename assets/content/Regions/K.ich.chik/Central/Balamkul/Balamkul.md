@@ -7,7 +7,7 @@ name:
   aliases: []
 id: nEilLlvuZtCgyFqW
 shortcode: balamkul
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

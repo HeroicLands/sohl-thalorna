@@ -7,7 +7,7 @@ name:
   aliases: []
 id: SL5ANxIUYDVlM9v7
 shortcode: takheperurgn
-img: ""
+img: null
 type: place
 subType: region
 data:

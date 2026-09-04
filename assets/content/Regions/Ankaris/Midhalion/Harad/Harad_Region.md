@@ -7,7 +7,7 @@ name:
   aliases: []
 id: IakeTyaqWrqc635z
 shortcode: haradregin
-img: ""
+img: null
 type: place
 subType: region
 data:

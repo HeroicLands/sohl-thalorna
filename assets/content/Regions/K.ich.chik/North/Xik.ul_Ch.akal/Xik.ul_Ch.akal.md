@@ -7,7 +7,7 @@ name:
   aliases: []
 id: eCY7rYlyp689dNR7
 shortcode: xikulchakl
-img: ""
+img: null
 type: affiliation
 subType: polity
 data:

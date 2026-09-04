@@ -8,7 +8,7 @@ name:
     - Velanthia
 id: lydKuP28winBRw01
 shortcode: velanthrgn
-img: ""
+img: null
 type: place
 subType: region
 data:

@@ -30,7 +30,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 
 | Culture                                         | Name                                       | Gender                          | Aspect Emphasized                                                                                |
 | ----------------------------------------------- | ------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[Sinalo\|Sinalë]]\|**Lúminarë**                | Neither / beyond gender                    | Light, dreams, the living world |
+| [[lore-flksinale\|Sinalë]]\|**Lúminarë**        | Neither / beyond gender                    | Light, dreams, the living world |
 | [[lore-flkkhazar\|Khazári]]                     | **Khaldûr**                                | Neither / beyond gender         | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-baldr\|Baldr]]               | Male                            | Elder races, dreams, light                                                                       |
 | [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Æthería]]          | Female                          | Dreams, celestial visions                                                                        |

@@ -9,7 +9,7 @@ name:
     - Tānvür
 id: DZh5LWUGaeKrOvam
 shortcode: tanvuregin
-img: ""
+img: null
 type: place
 subType: region
 data:

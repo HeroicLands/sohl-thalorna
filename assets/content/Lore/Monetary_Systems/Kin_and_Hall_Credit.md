@@ -22,7 +22,7 @@ folder:
 
 ## Overview
 
-Across the tribal and clan-based polities of Thalorna — the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vrystwald]], [[Dunhara_Tribes_Region|Dunhara]], [[place-khzryndsrtrgn|Khazryn steppe]], the [[affiliation-aelndntrbs|Áelendan]] of Élavendre, and the deep-interior tribes of every continent — a distinctive form of long-term commercial credit operates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
+Across the tribal and clan-based polities of Thalorna — the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vrystwald]], [[place-dunharargn|Dunhara]], [[place-khzryndsrtrgn|Khazryn steppe]], the [[affiliation-aelndntrbs|Áelendan]] of Élavendre, and the deep-interior tribes of every continent — a distinctive form of long-term commercial credit operates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
 
 This is not informal credit in the sense that Vylarian moneylenders use the term. It is _structurally formal_ — bound by elaborate custom, enforced by deep social pressure, and central to how the kin- and hall-based polities actually function. A Nordlands jarl who takes a substantial loan from a sworn retainer's family enters into an obligation that will be recited at every gathering between the families for the next generation; it will be reckoned at marriage negotiations, at funeral feasts, at the divisions of estate; it will be remembered by every adult of both families and named in every relevant moment of public reckoning. The Vylarian written-contract apparatus achieves something similar through paper; the kin-and-hall systems achieve it through memory, custom, and the standing watchfulness of the affected community.
 
@@ -50,7 +50,7 @@ Hall-credit can support substantial commerce — a jarl with strong standing can
 
 ### Dunhari Tribal Credit
 
-In the [[Dunhara_Tribes_Region|Dunhara]], credit operates through **tribal kin-obligation** — the dense web of mutual responsibilities binding members of an extended family group across multiple camps and seasons. The unit is the **tribe** (a confederation of related kin-groups), with sub-units of _clan_ and _camp_.
+In the [[place-dunharargn|Dunhara]], credit operates through **tribal kin-obligation** — the dense web of mutual responsibilities binding members of an extended family group across multiple camps and seasons. The unit is the **tribe** (a confederation of related kin-groups), with sub-units of _clan_ and _camp_.
 
 A Dunhari trader extends substantial credit to a kin-member with the understanding that repayment will come through the kin-network's normal cycles of mutual support — at the next great gathering, at the next marriage that links the families, at the next moment when the borrower's circumstances support delivery. The obligation is not measured in fixed dates but in the rhythm of tribal life. A Dunhari who fails to honor accumulated obligations finds himself progressively excluded from tribal gatherings, from kin-marriages, from the protection of the broader confederation — penalties that are economically and socially ruinous.
 
@@ -88,7 +88,7 @@ Kin-and-hall credit is the dominant commercial credit system in:
 
 - The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms) — the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
 - [[place-vrystwald|Vrystwald]] — similar; the cities have minor moneylender activity but the interior runs on clan-credit
-- The [[Dunhara_Tribes_Region|Dunhara]] — tribal kin-credit is the only credit infrastructure
+- The [[place-dunharargn|Dunhara]] — tribal kin-credit is the only credit infrastructure
 - The [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — tribal credit dominates outside the few urbanized trading-cities
 - The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]] — clan-credit operates in the partially-settled communities
 - The deep rural areas of every settled polity — even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
