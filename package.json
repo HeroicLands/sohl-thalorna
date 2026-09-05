@@ -32,7 +32,7 @@
         "build:local": "npm i && npm run build:noci",
         "build:noci": "run-s format:check lint build:prepare build:link-manifest",
         "build:prepare": "run-p build:db build:system",
-        "build:db": "run-s build:assets build:compiledb build:content-index",
+        "build:db": "run-s build:content-index build:assets build:compiledb",
         "build:system": "package-build manifest",
         "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
