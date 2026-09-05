@@ -32,7 +32,7 @@
         "build:local": "npm i && npm run build:noci",
         "build:noci": "run-s format:check lint build:prepare build:link-manifest",
         "build:prepare": "run-p build:db build:system",
-        "build:db": "run-s build:assets build:compiledb",
+        "build:db": "run-s build:assets build:compiledb build:content-index",
         "build:system": "package-build manifest",
         "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
@@ -63,7 +63,8 @@
         "format:check": "content-build format",
         "changeset": "changeset",
         "changeset:version": "changeset version && npm install --package-lock-only",
-        "changeset:check": "changeset status --since=origin/main"
+        "changeset:check": "changeset status --since=origin/main",
+        "build:content-index": "content-build content-index"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.1",
