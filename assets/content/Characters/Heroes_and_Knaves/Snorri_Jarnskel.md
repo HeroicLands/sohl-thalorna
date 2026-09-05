@@ -526,7 +526,7 @@ sohl:
     - { shortcode: Stk, type: weapongear }
     - { shortcode: HsTunic, type: armorgear }
     - { shortcode: HsTrsr, type: armorgear }
-    - { shortcode: HsTunic, type: armorgear }
+    - { shortcode: HsTunic, type: armorgear, system: { shortcode: HsTunic2 } }
     - { shortcode: HsCap, type: armorgear }
     - name: Wooden shovel (farming tool)
       type: miscgear
