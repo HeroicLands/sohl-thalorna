@@ -21,7 +21,7 @@
 # | -------------------- | ------------------------------------------ |
 # | `lint:format`        | clean                                      |
 # | `lint:markdown`      | **146 findings** (#111)                    |
-# | `lint:content-links` | **122 problems across 1,852 notes** (#137, #53) |
+# | `lint:content-links` | **109 problems across 1,852 notes** (#137, #53) |
 # | `lint:addresses`     | **1,983 errors** (#141)                    |
 #
 # Run as named steps rather than the single `npm run lint`, so a failure says
@@ -77,7 +77,7 @@ jobs:
               run: npm run lint:markdown
 
             # Every anchor link lands and every qualified address resolves.
-            # Red — 122 problems, tracked in #137 and #53.
+            # Red — 109 problems, tracked in #137 and #53.
             - name: Check content links
               if: ${{ !cancelled() }}
               run: npm run lint:content-links
