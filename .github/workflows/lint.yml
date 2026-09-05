@@ -1,37 +1,31 @@
-# Run the checks on the pull request, not on the release afterwards.
+# Run the checks on the pull request that broke them, not on the release
+# afterwards.
 #
-# Until this landed, the only check a pull request here got was **No AI
-# attribution**. `npm run lint` exists and chains four checks, but nothing ran
-# it: `deploy-site.yml` and `release.yml` both trigger on `push: main` only. So
-# a pull request could change any note in the tree and no gate looked at it.
+# The four content repositories run this same file. What differs between them
+# is only what they have to check: `lint:lang` appears where there is a
+# `lang/` tree and not otherwise, because a step with nothing to check is not
+# parity — it is a green tick that means nothing.
 #
-# ## Every check runs, including the red ones
+# ## Named steps, not one `npm run lint`
 #
-# `sohl-kethira-basic`'s equivalent omits its red check, on the reasoning that a
-# gate which cannot go green trains people to merge past it. The opposite call
-# is made here deliberately: this backlog is large enough that leaving it
-# unwatched is how it got large, and a red check that names its issue is a
-# worklist rather than noise. Each red step below cites the issue tracking it,
-# and the point of wiring them now is that the count can only fall.
+# The chain is `run-s`, which stops at the first failure, so a single step
+# would report whichever check failed first and say nothing about the rest.
+# That is how two of these repositories had checks whose state nobody knew: the
+# chain never reached them. Each step runs under `if: \${{ !cancelled() }}`,
+# so one failure does not hide the others, and a red run is a worklist rather
+# than a wall.
 #
-# State of `main` on the commit that added this file, with
-# `@heroiclands/package-build` 15.0.0:
+# ## The compile is a second job
 #
-# | check                | state on `main`                            |
-# | -------------------- | ------------------------------------------ |
-# | `lint:format`        | clean                                      |
-# | `lint:markdown`      | **146 findings** (#111)                    |
-# | `lint:content-links` | **109 problems across 1,852 notes** (#137, #53) |
-# | `lint:addresses`     | **1,983 errors** (#141)                    |
+# It is the only check here that reaches the network — a satellite fetches the
+# pinned system release its actors resolve against — so it has a failure surface
+# none of the lint steps have, and mixing the two would make a third party's
+# outage read as a content failure. And a compile failure and a lint failure are
+# both worth seeing in one run, rather than whichever comes first hiding the
+# other.
 #
-# Run as named steps rather than the single `npm run lint`, so a failure says
-# which check failed instead of stopping at the first. `run-s` would hide the
-# other three behind `lint:markdown`, and while three of the four are red that
-# is the difference between a worklist and a wall. `if: !cancelled()` is what
-# keeps a later step running after an earlier one fails.
-#
-# Delete the individual steps and call `npm run lint` once all three issues
-# close; the script already chains them in this order.
+# Every run is cold: `build/` is gitignored and holds the dependency catalogue
+# too, so a runner starts with nothing.
 name: Lint
 
 on:
@@ -47,7 +41,7 @@ permissions:
 
 jobs:
     lint:
-        name: Content and prose checks
+        name: Content, prose, and registry checks
         runs-on: ubuntu-latest
 
         steps:
@@ -66,24 +60,57 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # Prettier over the whole tree. Green on `main`.
+            # Prettier over the whole tree.
             - name: Check formatting
               run: npm run lint:format
 
             # markdownlint: document structure, and links that do not link.
-            # Red — 146 findings, tracked in #111.
             - name: Check markdown
               if: ${{ !cancelled() }}
               run: npm run lint:markdown
 
+            # No dotted-prefix collision in `lang/*.json`. A key that is both a
+            # leaf and a branch makes `foundry.utils.expandObject` throw, and
+            # Foundry then drops the whole translation file.
+            - name: Check localization files
+              if: ${{ !cancelled() }}
+              run: npm run lint:lang
+
+            # Frontmatter against the schema each note's type declares.
+            - name: Check addresses and frontmatter
+              if: ${{ !cancelled() }}
+              run: npm run lint:addresses
+
             # Every anchor link lands and every qualified address resolves.
-            # Red — 109 problems, tracked in #137 and #53.
             - name: Check content links
               if: ${{ !cancelled() }}
               run: npm run lint:content-links
 
-            # Frontmatter against the schema each note's type declares.
-            # Red — 1,983 errors, tracked in #141.
-            - name: Check addresses and frontmatter
+            # `.github/labels.yml` and the §3 table of the issue-reporting doc
+            # still name the same closed set.
+            - name: Check label registry
               if: ${{ !cancelled() }}
-              run: npm run lint:addresses
+              run: npm run lint:labels
+
+    build:
+        name: Content pack compile
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v7
+
+            - name: Setup Node
+              uses: actions/setup-node@v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            - name: Install dependencies
+              run: npm ci
+
+            # Stages the tree, compiles every pack, and emits the content index
+            # — the cold build a tree that has already built once cannot
+            # perform on itself.
+            - name: Compile the content packs
+              run: npm run build:db
