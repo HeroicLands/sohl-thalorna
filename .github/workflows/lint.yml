@@ -1,0 +1,89 @@
+# Run the checks on the pull request, not on the release afterwards.
+#
+# Until this landed, the only check a pull request here got was **No AI
+# attribution**. `npm run lint` exists and chains four checks, but nothing ran
+# it: `deploy-site.yml` and `release.yml` both trigger on `push: main` only. So
+# a pull request could change any note in the tree and no gate looked at it.
+#
+# ## Every check runs, including the red ones
+#
+# `sohl-kethira-basic`'s equivalent omits its red check, on the reasoning that a
+# gate which cannot go green trains people to merge past it. The opposite call
+# is made here deliberately: this backlog is large enough that leaving it
+# unwatched is how it got large, and a red check that names its issue is a
+# worklist rather than noise. Each red step below cites the issue tracking it,
+# and the point of wiring them now is that the count can only fall.
+#
+# State of `main` on the commit that added this file, with
+# `@heroiclands/package-build` 15.0.0:
+#
+# | check                | state on `main`                            |
+# | -------------------- | ------------------------------------------ |
+# | `lint:format`        | clean                                      |
+# | `lint:markdown`      | **146 findings** (#111)                    |
+# | `lint:content-links` | **109 problems across 1,852 notes** (#137, #53) |
+# | `lint:addresses`     | **1,983 errors** (#141)                    |
+#
+# Run as named steps rather than the single `npm run lint`, so a failure says
+# which check failed instead of stopping at the first. `run-s` would hide the
+# other three behind `lint:markdown`, and while three of the four are red that
+# is the difference between a worklist and a wall. `if: !cancelled()` is what
+# keeps a later step running after an earlier one fails.
+#
+# Delete the individual steps and call `npm run lint` once all three issues
+# close; the script already chains them in this order.
+name: Lint
+
+on:
+    pull_request:
+        types: [opened, reopened, synchronize]
+    # Post-merge signal too: nothing else checks `main` between releases.
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    lint:
+        name: Content and prose checks
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v7
+
+            - name: Setup Node
+              uses: actions/setup-node@v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            # Every check below reads the tracked tree and needs only the
+            # toolchain: nothing here fetches a dependency catalogue, compiles a
+            # pack, or reaches the network.
+            - name: Install dependencies
+              run: npm ci
+
+            # Prettier over the whole tree. Green on `main`.
+            - name: Check formatting
+              run: npm run lint:format
+
+            # markdownlint: document structure, and links that do not link.
+            # Red — 146 findings, tracked in #111.
+            - name: Check markdown
+              if: ${{ !cancelled() }}
+              run: npm run lint:markdown
+
+            # Every anchor link lands and every qualified address resolves.
+            # Red — 109 problems, tracked in #137 and #53.
+            - name: Check content links
+              if: ${{ !cancelled() }}
+              run: npm run lint:content-links
+
+            # Frontmatter against the schema each note's type declares.
+            # Red — 1,983 errors, tracked in #141.
+            - name: Check addresses and frontmatter
+              if: ${{ !cancelled() }}
+              run: npm run lint:addresses
