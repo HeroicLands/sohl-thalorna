@@ -556,7 +556,7 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 5 } }
     - { shortcode: wtrskin, type: containergear, system: { quantity: 1 } }
     - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { shortcode: wtrskin, type: containergear, system: { shortcode: wtrskin2 } }
 ---
 
 # Appearance {#appearance}

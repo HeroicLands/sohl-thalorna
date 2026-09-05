@@ -522,7 +522,7 @@ sohl:
     - { shortcode: GCoat, type: armorgear }
     - { shortcode: HsTrsr, type: armorgear }
     - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: GCoat, type: armorgear }
+    - { shortcode: GCoat, type: armorgear, system: { shortcode: GCoat2 } }
     - name: Herbal poultices (healing preparations)
       type: miscgear
       system:

@@ -515,8 +515,8 @@ sohl:
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 8 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: Dgr, type: weapongear, name: Dagger 1 }
-    - { shortcode: Dgr, type: weapongear, name: Dagger 2 }
+    - { shortcode: Dgr, type: weapongear, name: Dagger 1, system: { shortcode: Dgr1 } }
+    - { shortcode: Dgr, type: weapongear, name: Dagger 2, system: { shortcode: Dgr2 } }
     - { shortcode: ShrtSwd, type: weapongear }
     - { shortcode: LtVest, type: armorgear }
     - { shortcode: LtBrcr, type: armorgear }
