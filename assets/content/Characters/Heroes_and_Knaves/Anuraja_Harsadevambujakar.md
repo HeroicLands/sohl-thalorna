@@ -10,7 +10,7 @@ name:
   home: Chandrapur
   aliases: []
 id: YHBgnmtqKa4EczPy
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr
 img: icons/person.svg
 type: being

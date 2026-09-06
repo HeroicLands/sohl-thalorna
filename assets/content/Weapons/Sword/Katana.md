@@ -193,7 +193,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A long curved single-edged blade forged in folded layers and tempered to a keen edge, the katana is the work of patient smithcraft. The distinctive curve gathers force in the downward cut, while the blade tapers to a fine point suited to thrusting and precision. Worn at the waist by ranked officers and sworn retainers, this steel speaks of status and martial discipline.

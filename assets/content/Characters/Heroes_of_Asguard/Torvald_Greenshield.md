@@ -12,7 +12,7 @@ name:
     - Greenshield
   home: null
 id: pTeGY4ZF40gbIFT7
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: trvldgrnshld
 img: icons/person.svg
 type: being

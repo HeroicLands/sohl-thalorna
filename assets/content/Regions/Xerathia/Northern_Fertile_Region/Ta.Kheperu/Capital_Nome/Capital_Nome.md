@@ -114,7 +114,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: 6HgEgHggm50Aphlq
+packFolder: capitalnome
 ---
 
 # The Capital Nome

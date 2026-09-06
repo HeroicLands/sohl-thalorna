@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A rippling scarlet liquid that seems to contain dancing flames in miniature, smelling of sulfur and hot iron. Bound to the Principle of Fire (Pyréthos), this elixir offers the imbiber protection against the ravages of heat and flame. When drunk, the drinker receives a bonus to their Armor Value against Fire impact in all body locations—a bonus equal to half the Aural Shock multiplied by five. This protection extends to area-effect fire damage, where the increase applies as a reduction to the Armor Value used in Heat Hazard Rolls, potentially negating damage entirely if the bonus is large enough.

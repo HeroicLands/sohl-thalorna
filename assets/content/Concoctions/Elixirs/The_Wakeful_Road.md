@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Verve Elixir is vivid and restless, a pale gold that never settles, dancing and sparkling as though awake with its own will. Drawn from the Principle of Action (Pyréthos), this elixir burns away the need for sleep itself. The imbiber can remain awake and functional for AS consecutive days without fatigue or impairment; weariness that would normally accumulate is recovered in the standard time spans, but the drinker can push through the night indefinitely. The effect is instantaneous upon drinking and requires no continued action.

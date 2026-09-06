@@ -11,7 +11,7 @@ name:
   aliases:
     - Eadric Sterne
 id: jOkYRBMeyyMDHqJ3
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: makrinfrns
 img: icons/person.svg
 type: being

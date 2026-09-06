@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Personality
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 Through an extended and profoundly demanding ritual, the caster kindles the spark of genuine awareness within a magical construct, granting it the capacity for independent thought, emotional response, and autonomous decision-making. The newly awakened entity possesses a rudimentary personality shaped by the caster's intent and the nature of its physical form, but it rapidly develops its own preferences, opinions, and understanding of the world.

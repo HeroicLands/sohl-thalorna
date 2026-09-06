@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Stonebreaker
 id: Y8deQOzxGZVRk8bj
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: aruzankamm
 img: icons/person.svg
 type: being

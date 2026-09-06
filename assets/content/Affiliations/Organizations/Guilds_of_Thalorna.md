@@ -12,7 +12,6 @@ name:
 shortcode: guldsthlrn
 type: lore
 subType: economy
-folder:
 ---
 
 # The Guilds of Thalorna

@@ -105,7 +105,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A deeply curved single-edged blade narrow and supple in the hand, the shamshir favors the horseman's swift stroke. The curve gathers momentum through the slice, while the slender profile allows rapid recovery for another cut. Officers and cavalry elite carry this refined steel, its curve speaking of speed and the practiced swordsman.

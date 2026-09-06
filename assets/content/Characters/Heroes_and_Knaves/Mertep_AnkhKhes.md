@@ -11,7 +11,7 @@ name:
   aliases:
     - Mertep AnkhKhes
 id: dxWxIHy6AlGTauWz
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtpnkhkhs
 img: icons/person.svg

@@ -11,7 +11,7 @@ name:
   aliases:
     - Freya Shieldbreaker
 id: JvQhAw3Q8WB36Ud9
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: rkhmkhlthn
 img: icons/person.svg
 type: being

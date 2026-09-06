@@ -16,7 +16,7 @@ name:
   full: Liranel
   aliases: []
 shortcode: liranel
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # Liranel

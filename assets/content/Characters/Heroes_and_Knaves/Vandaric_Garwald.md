@@ -12,7 +12,7 @@ name:
   aliases:
     - the Liar
 id: zlOcjaYq8V63SWEZ
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
 img: icons/person.svg
 type: being

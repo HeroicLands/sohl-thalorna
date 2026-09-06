@@ -109,7 +109,7 @@ data:
 sohl:
   archetype: null
 terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
-folder: e6Oj9YgsjyjZBPCW
+packFolder: tzikin
 ---
 
 ## Overview

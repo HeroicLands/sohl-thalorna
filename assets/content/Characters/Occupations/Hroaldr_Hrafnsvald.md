@@ -12,7 +12,7 @@ name:
   aliases:
     - Oswin Brightstone
 id: tYrLdwGetDCcdx1s
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrldrhrfnsvld
 img: icons/person.svg
 type: being

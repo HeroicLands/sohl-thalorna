@@ -12,7 +12,7 @@ name:
   aliases:
     - Meneti Shapkher
 id: IT0MZM3HrICcrOwb
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
 img: icons/person.svg

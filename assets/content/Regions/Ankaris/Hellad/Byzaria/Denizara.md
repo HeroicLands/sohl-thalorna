@@ -108,7 +108,7 @@ data:
     arldnpnthn: aligned
 sohl:
   archetype: null
-folder: pAXnwYJhDDSvkrPt
+packFolder: byzaria
 ---
 
 Denizara — the Sea-Between — is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.

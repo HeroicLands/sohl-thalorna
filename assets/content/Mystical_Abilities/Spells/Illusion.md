@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Glamour
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster traces a slow circle around the subject—or around themselves—and threads of luminous air descend like a curtain of golden spider-silk, settling into a shimmering aura that clings to every contour of the body. The enchanted subject seems to glow with an inner radiance, their features smoothed to an idealized beauty, their movements imbued with preternatural grace. Onlookers find their attention irresistibly drawn, their critical faculties dulled by a wave of aesthetic pleasure that borders on the euphoric.

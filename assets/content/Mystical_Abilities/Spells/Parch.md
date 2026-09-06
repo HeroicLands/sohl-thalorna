@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Desiccation
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws the moisture from a targeted area, and everything within begins to desiccate. Plants droop and crisp, their leaves curling inward. Puddles shrink and vanish. Wood dries until it cracks, and leather stiffens and grows brittle. The air itself becomes parched and throat-catchingly dry, carrying the faint scent of dust and sun-baked earth.

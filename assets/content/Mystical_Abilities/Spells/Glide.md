@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Icewalk
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster enchants a surface of ice to become perfectly smooth and frictionless beneath the target's feet, while simultaneously granting the target supernatural balance and speed upon it. The target skims across ice with effortless grace, accelerating to remarkable speeds and turning with a thought, as if the ice itself were cooperating with their movement.

@@ -10,7 +10,7 @@ name:
   home: Eichengrund
   aliases: []
 id: 8ES6ZaacpcZo5fJc
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
 img: icons/person.svg
 type: being

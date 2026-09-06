@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Flockkeeper
 id: Mar2jiIqZlhQ3bia
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: malianardh
 img: icons/person.svg
 type: being

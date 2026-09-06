@@ -15,7 +15,6 @@ name:
     - Citizenship
     - Citizens and Residents
 shortcode: vylrnctznshp
-folder:
 ---
 
 # Vylarian Citizenship

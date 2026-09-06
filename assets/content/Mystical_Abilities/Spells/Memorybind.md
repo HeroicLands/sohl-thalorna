@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Recollection
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster places their hands on the subject's temples and reaches gently into the deep architecture of their memory, following the tangled threads of association that connect experience to recollection. Faded memories brighten and sharpen, returning to the vivid clarity they possessed when first formed. Details that had been lost to time — faces, words, scents, the precise sequence of events — resurface with startling fidelity, as though the subject were experiencing the original moment anew.

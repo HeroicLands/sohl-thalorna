@@ -11,7 +11,7 @@ name:
   aliases:
     - Isolde Faire
 id: gSXt2RMZhYKYcwIB
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: kysrkslmks
 img: icons/person.svg
 type: being

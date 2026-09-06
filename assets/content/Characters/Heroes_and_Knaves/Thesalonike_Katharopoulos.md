@@ -10,7 +10,7 @@ name:
   home: Yeşilhan
   aliases: []
 id: l0edWhjOQxHZEy92
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: thslnkkthrpls
 img: icons/person.svg
 type: being

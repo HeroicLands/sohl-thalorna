@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Soulbuffer Elixir appears as a pearlescent, opalescent draft that shifts hue with each angle of light, radiating a profound sense of protection. This elixir works silently, drawn from the Principle of Aura (Pneuménos), absorbing Aural Shock that would otherwise tear at the imbiber's dormant soul. Each instance of Aural Shock the imbiber would suffer is instead absorbed by the elixir, with the Soulbuffer's AS decreasing by an amount equal to the shock level absorbed.

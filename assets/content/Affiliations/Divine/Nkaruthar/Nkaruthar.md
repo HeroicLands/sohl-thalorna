@@ -103,7 +103,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: nxa3f1OrL9YY0I1Z
+packFolder: pantheonsnkaruthar
 ---
 
 # Nkaru'thar: The Eternal Flame

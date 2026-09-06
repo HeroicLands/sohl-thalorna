@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Docile and flock-minded, sheep are highly social animals that find safety in numbers, often following a leader and sticking closely to their herd.

@@ -11,7 +11,7 @@ name:
   aliases:
     - Eira Stonefist
 id: uPrp9hbVlFHy6Jhq
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: sharnthmdn
 img: icons/person.svg
 type: being

@@ -117,7 +117,7 @@ data:
     tanvurempr: rival
 sohl:
   archetype: null
-folder: DhjGF5KsylKDxb7m
+packFolder: jurthat
 ---
 
 Jürthāt is a mountainous island kingdom to the southeast of the [[affiliation-tanvurempr|Empire of Tānvür]], separated from the mainland by a treacherous strait. Once a province of the empire, Jürthāt broke away over a thousand years ago in a bloody war of secession and has since developed its own fiercely independent culture. The empire still refers to Jürthāt by the dismissive name **Thātvōng** (Thātvōng, "Kingdom of Mountains and Seas") and has never formally recognized its sovereignty, considering it a renegade province in open rebellion.

@@ -10,7 +10,7 @@ name:
   home: Blóth
   aliases: []
 id: u6Leo9Ecs0DxnsNo
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv
 img: icons/person.svg
 type: being

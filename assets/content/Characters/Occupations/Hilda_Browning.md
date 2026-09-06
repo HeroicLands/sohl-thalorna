@@ -11,7 +11,7 @@ name:
   aliases:
     - Nyssa Shadowveil
 id: RPZSqNEm9prJto8t
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
 img: icons/person.svg
 type: being

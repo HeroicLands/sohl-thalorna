@@ -10,7 +10,7 @@ name:
   home: Thrymstead
   aliases: []
 id: k4JEKZEOQVEktuMQ
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: snorjrnskl
 img: icons/person.svg
 type: being

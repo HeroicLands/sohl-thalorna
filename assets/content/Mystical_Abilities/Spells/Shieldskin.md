@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Skin
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 A thin sheath of flickering flame settles over the caster's body like a second skin, burning intensely enough to scorch anything that makes contact but producing no heat inward. The fiery layer moves with the caster, rising and falling with their breath, flowing along their limbs as they gesture. Anyone who strikes the caster in melee combat is met with an immediate burst of searing pain, and grappling becomes effectively impossible.

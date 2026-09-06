@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Tempering
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster runs their hands slowly along an object's surface, and the magic sinks deep into its molecular structure, tightening bonds, filling microscopic voids, and eliminating the subtle flaws that weaken all manufactured materials. Steel becomes harder and more resilient. Stone grows denser and more resistant to cracking. Even wood treated by this spell gains a remarkable toughness, its fibers compressed and aligned to resist splitting and wear.

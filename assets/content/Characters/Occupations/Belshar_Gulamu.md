@@ -12,7 +12,7 @@ name:
   aliases:
     - Cedric Ironkey
 id: V4HcQv4XNiMyjkl1
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: belsharglm
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   home: Solárden
   aliases: []
 id: 4V407t5CS3PWmdoC
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: domthgrvth
 img: icons/person.svg
 type: being

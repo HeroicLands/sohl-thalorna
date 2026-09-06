@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Mantle
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster erupts in a corona of radiant fire that extends outward in a wide aura of searing heat and brilliant light. The mantle moves with the caster, maintaining a sphere of overwhelming thermal energy that burns enemies who venture within its radius and provides a powerful morale boost to allies who feel its warmth on their faces. Within the aura, the caster appears as a figure of living fire, their features obscured by the blinding intensity.

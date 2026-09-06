@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Pool
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws upon the diffuse magical energy that saturates the natural world — the latent power in running water, growing things, the turning of seasons — and gathers it into a visible reservoir at a designated point. The pool manifests as a shimmering disc of concentrated energy hovering just above the ground, its surface rippling with contained potential. Any practitioner within reach can draw from it, replenishing their reserves or fueling spells directly.

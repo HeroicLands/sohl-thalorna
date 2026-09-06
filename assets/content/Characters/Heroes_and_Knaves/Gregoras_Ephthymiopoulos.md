@@ -11,7 +11,7 @@ name:
   home: Thálassos
   aliases: []
 id: Qk52LmyfyG3PPgI4
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: grgrsphthympls
 img: icons/person.svg
 type: being

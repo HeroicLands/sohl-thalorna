@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Fireworks
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster flings handfuls of magical fire into the air, where the flames burst apart in cascading explosions of color and light. Red, gold, silver, and green sparks shower across the sky, trailing luminous streamers and crackling with sharp, satisfying reports. The display can be shaped to form patterns, words, or images, limited only by the caster's imagination and skill.

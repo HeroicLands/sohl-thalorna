@@ -15,7 +15,7 @@ name:
   full: Valdosta
   aliases: []
 shortcode: valdosta
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 # Valdosta

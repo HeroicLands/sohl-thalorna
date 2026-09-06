@@ -11,7 +11,7 @@ name:
   aliases:
     - Garvin Tidewalker
 id: PuDCCRnGEY59YVkQ
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: thornblthl
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Harlon Pitch
 id: kDa9U4UqGWlG6g3O
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: aldwngrylng
 img: icons/person.svg
 type: being

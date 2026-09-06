@@ -11,7 +11,7 @@ name:
   aliases:
     - Beatrice Lindley
 id: Y3oobQmzvr3e9Xrw
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: lyrnvlskyr
 img: icons/person.svg
 type: being

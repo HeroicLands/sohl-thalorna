@@ -7,7 +7,7 @@ data:
   lore: []
   parents: []
   population: null
-folder: wCi1zv06QgydQQoL
+packFolder: setting
 name:
   full: The World of Thalorna
   aliases:

@@ -11,7 +11,7 @@ name:
   aliases:
     - Lira Shellwhisper
 id: iUo1aWbtDRUIBIy0
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: rithardmvr
 img: icons/person.svg
 type: being

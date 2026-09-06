@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Elusive and watchful, lynxes are solitary and nocturnal hunters that use their keen eyesight to silently stalk prey through dense forests.

@@ -11,7 +11,7 @@ name:
   aliases:
     - Harlan Quick
 id: JkqH3MB9n7IWUSmT
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: valarnlvnr
 img: icons/person.svg
 type: being

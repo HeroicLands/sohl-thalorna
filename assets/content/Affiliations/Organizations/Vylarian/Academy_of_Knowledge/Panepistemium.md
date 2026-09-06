@@ -102,7 +102,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: 6Gi1DyUGAYGvWCIo
+packFolder: academyofknowledge
 ---
 
 # Panepistemium — The Academy of Knowledge

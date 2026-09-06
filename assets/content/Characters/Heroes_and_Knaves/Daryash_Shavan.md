@@ -10,7 +10,7 @@ name:
   home: Zaristan
   aliases: []
 id: O6tHeE3VuZgiVhP8
-folder: V1t8DVX0wKSOCJd5
+packFolder: sultanateofamradad
 shortcode: daryshshvn
 img: icons/person.svg
 type: being

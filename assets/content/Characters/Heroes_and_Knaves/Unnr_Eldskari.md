@@ -11,7 +11,7 @@ name:
   home: Kvenndal
   aliases: []
 id: aedUEUFwI1ZeDk46
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: unreldskar
 img: icons/person.svg
 type: being

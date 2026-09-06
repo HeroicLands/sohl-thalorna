@@ -11,7 +11,7 @@ name:
   aliases:
     - Finn the Ratcatcher
 id: 7s4catKMg7vsDPIH
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: wystanosgd
 img: icons/person.svg
 type: being

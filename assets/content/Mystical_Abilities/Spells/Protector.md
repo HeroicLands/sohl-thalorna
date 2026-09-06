@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Ward
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster raises a hand and speaks a word of warding, and a shimmering curtain of force springs into existence along a chosen boundary — across a doorway, around a sleeping companion, or encircling an entire camp. The barrier is translucent and faintly luminous, humming with constrained energy. Physical objects and hostile magic alike meet resistance at its surface, their force blunted or deflected entirely depending on the ward's strength.

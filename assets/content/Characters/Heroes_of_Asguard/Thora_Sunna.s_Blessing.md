@@ -12,7 +12,7 @@ name:
     - Sunna's Blessing
   home: null
 id: IJjbnGBvpektfbZ4
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrsnsblsng
 img: icons/person.svg
 type: being

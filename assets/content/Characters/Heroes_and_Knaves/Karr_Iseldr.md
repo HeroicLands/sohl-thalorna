@@ -10,7 +10,7 @@ name:
   home: Bjornstad
   aliases: []
 id: 3p77MTlQ0N5PHfSM
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: karriseldr
 img: icons/person.svg
 type: being

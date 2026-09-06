@@ -12,7 +12,7 @@ name:
   aliases:
     - Cedric Hawthorne
 id: aMuFbh7x41Ztpdp4
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: alimulamar
 img: icons/person.svg
 type: being

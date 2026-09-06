@@ -11,7 +11,7 @@ name:
   aliases:
     - Jory Wheatfield
 id: V4i3erXY2Av7YGr0
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: alvrkrnthl
 img: icons/person.svg
 type: being

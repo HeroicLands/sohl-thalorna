@@ -11,7 +11,7 @@ name:
   aliases:
     - Anton Silverhand
 id: xqVbwYewpUQOgXLV
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: oskrbrylnd
 img: icons/person.svg
 type: being

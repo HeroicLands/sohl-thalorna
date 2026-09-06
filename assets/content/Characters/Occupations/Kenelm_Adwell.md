@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrik Ironshield
 id: cu7tGz0IEqcWPmsw
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: kenelmadwl
 img: icons/person.svg
 type: being

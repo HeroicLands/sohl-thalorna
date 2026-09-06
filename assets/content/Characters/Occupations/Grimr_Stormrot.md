@@ -11,7 +11,7 @@ name:
   aliases:
     - Alistair Goldcrest
 id: T8ftJyPYv0iQS18V
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: grmrstrmrt
 img: icons/person.svg
 type: being

@@ -12,7 +12,7 @@ name:
     - the Shaper
   home: null
 id: UvT1G72vpeZ1mj5X
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: valdrkshpr
 img: icons/person.svg
 type: being

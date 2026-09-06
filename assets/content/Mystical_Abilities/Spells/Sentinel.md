@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Guardian
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster designates a living plant or creature as a watchpost and imbues it with a passive Physéra awareness that triggers a telepathic alert when any living, incarnate entity intrudes within the plant's natural perceptive range—roughly five feet for most vegetation. The guardian cannot detect spirits or entities existing solely in the Spirit World; only beings with physical, incarnate presence register to the spell's senses. The caster may instruct the sentinel to ignore certain categories of entity, such as insects or small animals, filtering out false alarms that would otherwise render the ward useless in a forest setting.

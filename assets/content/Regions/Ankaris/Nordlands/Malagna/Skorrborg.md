@@ -16,7 +16,7 @@ name:
   full: Skorrborg
   aliases: []
 shortcode: skorrborg
-folder: 3JdV0mOrMUISPmRz
+packFolder: malagna
 ---
 
 # Skorrborg

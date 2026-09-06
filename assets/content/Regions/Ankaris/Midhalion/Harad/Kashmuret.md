@@ -16,7 +16,7 @@ name:
   full: Kashmuret
   aliases: []
 shortcode: kashmuret
-folder: umL4KFGO3MD4u9X1
+packFolder: harad
 ---
 
 # Kashmuret

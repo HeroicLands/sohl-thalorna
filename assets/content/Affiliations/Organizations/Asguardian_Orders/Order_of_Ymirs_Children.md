@@ -107,7 +107,6 @@ data:
     asguardian: aligned
 sohl:
   archetype: null
-folder:
 ---
 
 # The Order of Ymir's Children

@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Docile and routine-oriented, cows are gentle creatures that thrive in familiar environments, following established patterns for feeding and resting.

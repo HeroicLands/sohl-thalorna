@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Stealthy and powerful, jaguars are solitary hunters that rely on their strength and stealth to ambush and overpower their prey in dense forests.

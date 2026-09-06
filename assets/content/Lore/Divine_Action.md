@@ -14,7 +14,7 @@ name:
     - The Balance
 subType: theology
 id: VHMy9CkCoifLkNnA
-folder: t3p5qf6rZc8w0Nc4
+packFolder: settinglore
 shortcode: divineactn
 ---
 

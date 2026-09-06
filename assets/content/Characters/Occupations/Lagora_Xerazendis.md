@@ -11,7 +11,7 @@ name:
   aliases:
     - Tilda the Trickster
 id: tVvovXkeGOhHGm5X
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: lagrxrznds
 img: icons/person.svg
 type: being

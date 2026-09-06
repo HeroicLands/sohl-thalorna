@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Screen
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster raises a hand and a wall of solid metal rises from the ground or condenses from the air — a broad, flat surface of gleaming steel that interposes itself between the caster and whatever they wish to block. The veil is a physical barrier with all the properties of genuine metal: it blocks line of sight, stops projectiles, absorbs physical impacts, and reflects light. Unlike a conjured wall that merely impedes passage, the veil's reflective surface can redirect light-based attacks and create visual confusion.

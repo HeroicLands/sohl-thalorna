@@ -11,7 +11,7 @@ name:
   home: Valdûn
   aliases: []
 id: EG2uzxHZTnhI9IPS
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: prthnblthl
 img: icons/person.svg
 type: being

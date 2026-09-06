@@ -149,7 +149,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A short curved single-edged blade worn at the waist alongside a longer companion, the wakizashi speaks of standing and privilege. The blade is forged with the same care as its longer brother, folded and tempered to keen sharpness. In close quarters or confined spaces where a longer steel cannot turn, this secondary blade serves both practicality and ceremony.

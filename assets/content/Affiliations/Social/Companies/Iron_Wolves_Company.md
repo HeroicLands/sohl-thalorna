@@ -91,7 +91,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 subtype: social
 id: 2mccWDWK0TBkTS8v
 name:

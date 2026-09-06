@@ -19,7 +19,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: gaQ0wZzHjUoQG0to
+packFolder: tharivaan
 ---
 
 See [[affiliation-tharivaan|Thári'vaan]]

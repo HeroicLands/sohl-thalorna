@@ -17,7 +17,7 @@ data:
     - heladrgn
   population: null
 terran_analog: Classical Anatolia (philosophical city-states and crossroads)
-folder: pAXnwYJhDDSvkrPt
+packFolder: byzaria
 ---
 
 TBD

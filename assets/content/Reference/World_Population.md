@@ -14,7 +14,6 @@ name:
     - World Population
     - Population of Thalorna
 shortcode: wrldppltnthlrn
-folder:
 ---
 
 # The Population of Thalorna

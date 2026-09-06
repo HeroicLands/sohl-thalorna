@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Protection
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster slams their palm downward and a wall of dense metal erupts from the ground — or, if no metal is present in the earth, condenses from ambient mineral traces in the air and soil. The barrier rises to the specified height with a grinding, ringing sound, its surface smooth and gleaming on the caster's side, rough and unworked on the opposing face. The wall is genuinely metallic and provides all the protection that solid metal offers: impervious to arrows, resistant to blows, and a formidable obstacle to forced entry.

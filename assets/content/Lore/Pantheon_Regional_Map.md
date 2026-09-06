@@ -7,7 +7,7 @@ name:
 shortcode: pnthnrgnlmp
 type: lore
 subType: theology
-folder: 6NICDnQl8B4GjvL7
+packFolder: pantheons
 ---
 
 # Pantheon Regional Map

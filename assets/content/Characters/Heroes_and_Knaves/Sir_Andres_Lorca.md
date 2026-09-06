@@ -13,7 +13,7 @@ name:
     - Knight of the Western Marches
     - Sir Andres Lorca
 id: wjpyASdgdi32ZXfT
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
 img: icons/person.svg
 type: being

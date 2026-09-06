@@ -12,7 +12,7 @@ name:
   aliases:
     - Cedric Valewyn
 id: GB16JC5kV3ECqWp1
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: gamrunrshm
 img: icons/person.svg
 type: being

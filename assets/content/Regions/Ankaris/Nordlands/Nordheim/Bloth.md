@@ -15,7 +15,7 @@ name:
   full: Blóth
   aliases: []
 shortcode: bloth
-folder: tUOAFxX25mViDE7q
+packFolder: nordheim
 ---
 
 # Blóth

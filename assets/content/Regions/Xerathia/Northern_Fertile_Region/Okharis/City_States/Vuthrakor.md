@@ -17,7 +17,7 @@ name:
   aliases:
     - The Wild Flame
 shortcode: vuthrakor
-folder: voxX57xvTC1eRnSO
+packFolder: citystates
 ---
 
 **meaning:** _The Wild Flame_

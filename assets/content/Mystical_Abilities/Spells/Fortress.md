@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Earthwork
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster touches the ground with a hand, foot, or elemental focus and commands the earth to heave upward, creating a mound of packed soil with a volume of five-foot cubes proportional to their Spell Index. The mound must distend from existing ground—it cannot be conjured in thin air or atop solid metal, stone, or wood. The caster directs the mound's growth in any configuration of contiguous five-foot cubes, provided the final shape is no more than ten feet high and no higher than it is wide, giving it the stability of a natural earthwork rather than an impossible pillar.

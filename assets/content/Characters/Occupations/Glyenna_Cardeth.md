@@ -12,7 +12,7 @@ name:
   aliases:
     - Aperâni Valeria Firebrand
 id: IFTKtE0bxvRhALtY
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: glyencrdth
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Harvin Greenbark
 id: kaACSMEscosTsS3D
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: zalrnlyskl
 img: icons/person.svg
 type: being

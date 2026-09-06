@@ -16,7 +16,7 @@ data:
     - magnapolis
   population: null
 shortcode: magngndorery
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 TBD

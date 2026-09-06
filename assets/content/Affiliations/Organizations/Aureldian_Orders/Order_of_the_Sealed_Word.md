@@ -111,7 +111,6 @@ name:
     - The Sealed Hand
     - The Oath-Wardens
 shortcode: ordrsldwrd
-folder:
 ---
 
 # The Order of the Sealed Word

@@ -96,7 +96,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Málaliðabandalag

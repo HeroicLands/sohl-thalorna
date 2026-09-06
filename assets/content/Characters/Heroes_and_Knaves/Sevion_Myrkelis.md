@@ -12,7 +12,7 @@ name:
   home: Liranel
   aliases: []
 id: haT4BX4HIh5GeqEe
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Bosun Kellan Stormwatch
 id: NX744bpnegMcCMRT
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: thavenfrwn
 img: icons/person.svg
 type: being

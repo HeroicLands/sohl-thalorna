@@ -193,7 +193,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A straight double-edged blade narrow and supple, the jian rewards skill and timing over strength. The blade tapers gradually to a leaf point, suited equally to the cut and the thrust. Duelists prize this steel for its responsiveness and the way it reads an opponent's intent through the guard's contact.

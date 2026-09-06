@@ -11,7 +11,7 @@ name:
   home: Kethramír
   aliases: []
 id: pECuT0gi0X82fudW
-folder: heI5Ky6Kqmb61L6c
+packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
 img: icons/person.svg
 type: being

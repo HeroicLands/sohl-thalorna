@@ -18,7 +18,6 @@ name:
     - Qedét
     - Khar
 shortcode: tkhprcrncy
-folder:
 ---
 
 # Ta'Kheperu Currency

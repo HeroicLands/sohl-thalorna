@@ -113,7 +113,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: sjT6pv0uEmMUji53
+packFolder: bordernomes
 ---
 
 # The Border Nomes

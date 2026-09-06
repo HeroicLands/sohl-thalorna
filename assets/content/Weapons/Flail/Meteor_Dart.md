@@ -105,7 +105,7 @@ sohl:
       baseRangeBase: 30
       drawBase: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A sharp iron spike attached to a length of rope, the meteor dart is a lighter kin to the meteor hammer. Cast as a ranged weapon to pierce and harass, it can entangle or strike; skilled throwers use it to disrupt skirmish lines before closing for melee. Common among rogue-knights and light cavalry raiders seeking a quick striking reach.

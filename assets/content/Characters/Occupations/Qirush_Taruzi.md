@@ -11,7 +11,7 @@ name:
   aliases:
     - Torvin Hidebark
 id: eECXxGLgCGo8NcUY
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: qirushtarz
 img: icons/person.svg
 type: being

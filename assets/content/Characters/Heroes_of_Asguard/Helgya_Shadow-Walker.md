@@ -13,7 +13,7 @@ name:
     - Shadow-Walker
   home: null
 id: FtLsFezwL64M4zuB
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hlgyshdwlkr
 img: icons/person.svg
 type: being

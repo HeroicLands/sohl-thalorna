@@ -11,7 +11,7 @@ name:
   aliases:
     - Halvard Strongvoice
 id: I4xHG6r1kq608E9Z
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: bldnstylgn
 img: icons/person.svg
 type: being

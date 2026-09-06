@@ -11,7 +11,7 @@ name:
   aliases:
     - Ingrid Flamehair
 id: CcLxUif6suVAlmiY
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: lyrenatlgn
 img: icons/person.svg
 type: being

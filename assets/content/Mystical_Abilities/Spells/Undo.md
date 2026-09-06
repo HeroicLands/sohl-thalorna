@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Reverse
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster carefully traces the history of a magical effect backward through time, identifying the precise sequence of forces and intentions that brought it into being, then systematically reverses that sequence. The targeted magic unravels in the exact opposite order of its creation, each layer peeling away cleanly until nothing remains. Curses dissolve, compulsions release their grip, transformed objects revert to their original state, and magical damage repairs itself as the injurious force is withdrawn.

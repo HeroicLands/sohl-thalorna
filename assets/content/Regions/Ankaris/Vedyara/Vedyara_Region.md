@@ -19,7 +19,7 @@ data:
     - ankrscntnnt
   population: null
 terran_analog: India (subcontinent of independent states)
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 The Vedyara Region is the southeastern subcontinent of [[place-ankrscntnnt|Ankaris Continent]] — a vast, lush, politically fragmented land of river valleys, tropical forests, mountain kingdoms, and coastal city-states, united by shared language, shared pantheon, and a shared cultural inheritance that stretches back further than any comparable tradition on the continent. While Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy, Vedyara is a civilization of the **caste-ordered polity** — a hundred small kingdoms, city-states, and temple-domains whose political boundaries shift across centuries but whose deeper social structures have been continuous for three millennia.

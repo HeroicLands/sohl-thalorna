@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A hazy, opalescent liquid that catches the light in unsettling ways—sometimes amber, sometimes violet, shifting as the vial is tilted. The herbalist prepares it by steeping certain night-blooming flowers, dried mandrake root, and the crystallized tears of creatures said to inhabit the fever dreams between waking and sleep. When swallowed, the taste turns bitter-sweet, almost medicinal, before fading into a numbness that creeps across the tongue.

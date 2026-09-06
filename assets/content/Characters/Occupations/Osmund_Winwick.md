@@ -11,7 +11,7 @@ name:
   aliases:
     - Arlen Seawind
 id: 1jJ8UMHBhXspthdp
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: osmndwnwck
 img: icons/person.svg
 type: being

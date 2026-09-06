@@ -103,7 +103,7 @@ data:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-folder: VmJuVqaOGhXrvXQs
+packFolder: elementallords
 ---
 
 # Vëngdāk Zhütvōr — The Lord of Earth

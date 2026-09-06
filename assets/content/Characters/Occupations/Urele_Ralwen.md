@@ -11,7 +11,7 @@ name:
   aliases:
     - Mara Sunpetal
 id: P9tEpZZRztDeSdkC
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: ureleralwn
 img: icons/person.svg
 type: being

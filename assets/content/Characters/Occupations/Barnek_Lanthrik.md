@@ -12,7 +12,7 @@ name:
   aliases:
     - Alaric Fairwind
 id: Ahic8ctFhgp4IiyD
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: brnklnthrk
 img: icons/person.svg
 type: being

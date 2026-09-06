@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Mirror
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster sweeps a flat palm through the air and a pane of ultra-compressed atmosphere snaps into existence, its surface polished to mirror-brightness by the uniform alignment of air molecules. The reflector hangs motionless or drifts at the caster's command, bouncing incoming beams of light, redirecting the glare of the sun into an enemy's eyes, or deflecting light-based spells back along their path of origin. Its surface is flawless enough to serve as an actual mirror, and more than one vain sorcerer has been known to maintain a permanent Reflector for personal grooming.

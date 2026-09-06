@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Brand
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster presses a finger or palm against a surface and channels concentrated heat into a precise design, searing a glowing sigil into the material. On flesh, the brand produces immediate searing pain and leaves a permanent scar in the shape of the chosen symbol. On wood, stone, or metal, the mark burns itself into the surface with equal permanence, glowing faintly with residual heat for hours afterward.

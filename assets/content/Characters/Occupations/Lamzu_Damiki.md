@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Pagekeeper
 id: nTLFf5GCZdDiGADK
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: lamzudamik
 img: icons/person.svg
 type: being

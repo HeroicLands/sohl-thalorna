@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Quenching
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster quenches fire by drawing its heat away through a rapid condensation of ambient moisture. A visible mist rushes toward the flame as water vapor in the air surrenders its warmth, smothering the fire under a sudden blanket of damp cold. Small fires gutter and die instantly; larger blazes are beaten back and weakened, their fuel left steaming and reluctant to reignite.

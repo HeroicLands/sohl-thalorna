@@ -11,7 +11,7 @@ name:
   aliases:
     - Selene Wavecaller
 id: AOYNDeh15FMIbOGK
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: avicewnwck
 img: icons/person.svg
 type: being

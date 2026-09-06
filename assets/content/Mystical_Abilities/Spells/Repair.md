@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Mend
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster handles a damaged metal object and channels a trickle of restorative energy into it. Cracks seal, dents smooth, and tarnish dissolves as the metal remembers its original form and gradually returns to it. A chipped blade regains its edge. A buckled hinge straightens. A corroded lock mechanism cleans itself of rust and moves freely once more. The repair follows the object's own grain and structure, restoring it to its manufactured state rather than imposing a new form.

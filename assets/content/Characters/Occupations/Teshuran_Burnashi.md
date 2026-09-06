@@ -11,7 +11,7 @@ name:
   aliases:
     - Galen Stonehart
 id: u5IfijoySjTneAAv
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: tshrnbrnsh
 img: icons/person.svg
 type: being

@@ -16,7 +16,7 @@ name:
   full: Khar al-Sular
   aliases: []
 shortcode: kharalsulr
-folder: fHLmguBwgTuZfGJ9
+packFolder: dunharadesert
 ---
 
 # Khar al-Sular

@@ -12,7 +12,7 @@ name:
   aliases:
     - Shénasenè Callista Tradewind
 id: EHyu9lD6IvIwRX3U
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: audryhrdng
 img: icons/person.svg
 type: being

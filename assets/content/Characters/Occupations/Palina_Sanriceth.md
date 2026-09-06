@@ -12,7 +12,7 @@ name:
   aliases:
     - Shénasenè Seraphine Dreamweaver
 id: XN6E32VUdTiHnJuQ
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: palnsnrcth
 img: icons/person.svg
 type: being

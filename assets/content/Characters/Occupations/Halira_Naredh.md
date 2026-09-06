@@ -11,7 +11,7 @@ name:
   aliases:
     - Faelan Inkweaver
 id: dJDRZtUbzq0aVnLe
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: haliranrdh
 img: icons/person.svg
 type: being

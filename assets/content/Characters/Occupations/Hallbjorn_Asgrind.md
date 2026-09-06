@@ -11,7 +11,7 @@ name:
   aliases:
     - Eadric Hawke
 id: JTuyMHsDGMBgYSh2
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hlbjrnsgrnd
 img: icons/person.svg
 type: being

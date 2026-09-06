@@ -12,7 +12,7 @@ name:
   aliases:
     - Imogen Fairchild
 id: K8ffUF0eWIXiiQE8
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: kelyrslthr
 img: icons/person.svg
 type: being

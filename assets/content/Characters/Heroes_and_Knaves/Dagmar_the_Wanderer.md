@@ -13,7 +13,7 @@ name:
   aliases:
     - the Rogue Skald
 id: pTNOxSvYuw4eXF5r
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: dagmrwndrr
 img: icons/person.svg
 type: being

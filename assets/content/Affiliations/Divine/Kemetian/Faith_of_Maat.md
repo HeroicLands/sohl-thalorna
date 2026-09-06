@@ -108,7 +108,7 @@ name:
 shortcode: maat
 banner: banners/ta-kheperu-banner.webp
 alias: Má'át, Keeper of Truth and Harmony
-folder: RGkIoZ4nXKx1qnID
+packFolder: pantheonskemetian
 ---
 
 Má'át is the great balancing force of the cosmos itself. She is not a god of compassion or mercy, but of absolute truth and immutable law. Before creation, chaos reigned supreme. Má'át imposed order upon that primordial darkness, establishing the laws by which the universe operates and by which all creation must abide. To live in harmony with Má'át is to live truthfully, to honor your oaths, to speak with clarity, and to balance every action with restraint and wisdom.

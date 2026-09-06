@@ -11,7 +11,7 @@ name:
   aliases:
     - Ilara Sunshade
 id: XBolZ9SHDdJp62hD
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: tharicstrn
 img: icons/person.svg
 type: being

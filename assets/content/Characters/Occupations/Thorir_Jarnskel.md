@@ -12,7 +12,7 @@ name:
   aliases:
     - Darius Thornveil
 id: xBe8Q6vNuQ2hU5tG
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrrjrnskl
 img: icons/person.svg
 type: being

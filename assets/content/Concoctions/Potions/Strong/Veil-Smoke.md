@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 This draft is darker than its mild cousin, an almost indigo suspension in which specks of finely ground plant matter hover like suspended stars. The scent is potent—acrid, almost metallic, with an underlying sweetness that nauseates some on first inhalation. The herbalist who brews it must steady their hands against the fumes alone. One swallow coats the mouth with an astringent taste that lingers for hours.

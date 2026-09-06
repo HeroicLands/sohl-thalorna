@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 The vial contains something that barely resembles a potion at all—a writhing, near-black liquid that seems to move against the laws of nature, its surface rippling with colors that no herbalist can fully name. Even sealed, the bottle radiates a subtle heat. The aroma is overpowering: incense, copper, and something ancient and wrong. A single drop on the skin causes temporary numbness. Ingesting this preparation requires both courage and desperation.

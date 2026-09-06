@@ -36,7 +36,7 @@ sohl:
     "subType:social": 10
     water: 10
     hydalis: 10
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Tragyx, the Stag, gives an eloquent tongue and a searching mind. Born orators, linguists, and adepts of the mysteries, its children have little inclination for the workshop bench or the practice of arms.

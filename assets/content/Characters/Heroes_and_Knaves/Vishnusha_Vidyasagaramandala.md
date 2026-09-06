@@ -10,7 +10,7 @@ name:
   home: Dhanurkota
   aliases: []
 id: OfQVaxe1HktFIUMr
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: vshnshvdysgrml
 img: icons/person.svg
 type: being

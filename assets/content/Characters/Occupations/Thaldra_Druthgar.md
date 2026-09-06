@@ -11,7 +11,7 @@ name:
   aliases:
     - "Thalia Hart"
 id: XiXPUP9Ax5yC366y
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thldrdrthgr
 img: icons/person.svg
 type: being

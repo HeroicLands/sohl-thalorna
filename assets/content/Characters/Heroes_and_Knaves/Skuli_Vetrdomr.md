@@ -11,7 +11,7 @@ name:
   home: Greyfjord
   aliases: []
 id: 84SmKjnQrLLxWImQ
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: skulvtrdmr
 img: icons/person.svg
 type: being

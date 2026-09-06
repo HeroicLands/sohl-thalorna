@@ -11,7 +11,7 @@ name:
   aliases:
     - Garron Marlowe
 id: ecQoXsf2o3gyrDO1
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
 img: icons/person.svg
 type: being

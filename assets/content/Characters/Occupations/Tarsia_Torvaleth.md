@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: 1eoPni6JDWYlgAAC
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: tarstrvlth
 img: icons/person.svg
 type: being

@@ -10,7 +10,7 @@ name:
   aliases:
     - Shâ
 id: 5CGhiZ2Whf6jIcSG
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

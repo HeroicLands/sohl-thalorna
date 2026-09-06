@@ -11,7 +11,7 @@ name:
   aliases:
     - Orin Woodfell
 id: 51DTjBlUH9PrNZ6I
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thrgrmrkhld
 img: icons/person.svg
 type: being

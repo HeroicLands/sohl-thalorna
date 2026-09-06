@@ -149,7 +149,7 @@ sohl:
         blockMod: 5
         counterstrikeMod: 5
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A needle-pointed dart of forged iron, the bodkin tapers to a rigid point built to punch through mail and punched plate. Thrown or thrust, it trades cutting edge for arm-piercing penetration, narrowing its force to a needlepoint rather than a blade. Born of the archer’s armory but honed into a duelist’s finishing knife for enemies in harness.

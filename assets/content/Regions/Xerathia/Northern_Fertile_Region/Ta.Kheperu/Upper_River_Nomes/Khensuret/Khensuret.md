@@ -18,7 +18,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: khensuret
-folder: bq0QGXXvq8fNpewL
+packFolder: khensuret
 ---
 
 # Khensuret

@@ -11,7 +11,7 @@ name:
   aliases:
     - Selene Ironclaw
 id: RpF6LjoDOqDqQa5Z
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: danazishdm
 img: icons/person.svg
 type: being

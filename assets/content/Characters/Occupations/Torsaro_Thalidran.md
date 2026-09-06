@@ -11,7 +11,7 @@ name:
   aliases:
     - Oswin Thornhill
 id: L8bWR0rKcWWlEHPC
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: trsrthldrn
 img: icons/person.svg
 type: being

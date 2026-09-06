@@ -11,7 +11,7 @@ name:
   aliases:
     - Rolf Ironbear
 id: JxhWrKoZB2JX0NNR
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: frthgrvthrnd
 img: icons/person.svg
 type: being

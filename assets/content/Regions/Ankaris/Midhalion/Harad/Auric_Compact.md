@@ -91,7 +91,7 @@ name:
   full: Auric Compact
   aliases: []
 shortcode: auricompct
-folder: umL4KFGO3MD4u9X1
+packFolder: harad
 ---
 
 - **Type:** Merchant guild (banking, trade finance, commodity markets)

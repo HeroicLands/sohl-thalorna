@@ -17,7 +17,7 @@ data:
   party:
     size: null
     archetypes: []
-folder: TokyoDCf1w4elPns
+packFolder: adventures
 ---
 
 # The Ghosts of Tîravlen

@@ -9,7 +9,7 @@ name:
   clan: Válskyr
   aliases: []
 id: wXzvtquwDf00rfHZ
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

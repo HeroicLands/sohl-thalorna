@@ -6,7 +6,7 @@ name:
   full: Numerology
   aliases: []
 shortcode: numerology
-folder: jV7c6dJp4Ztnjtb3
+packFolder: tanvur
 ---
 
 # Numerology in the Empire of Tānvür

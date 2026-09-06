@@ -11,7 +11,7 @@ name:
   aliases:
     - Eirik Ironfist
 id: f1ffBgVVxZiJdL9J
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edwingarmn
 img: icons/person.svg
 type: being

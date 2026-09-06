@@ -20,7 +20,7 @@ name:
   full: Summary of Provènzia
   aliases: []
 shortcode: sumryprvnz
-folder: 9TmLIkGXGHMtFxzy
+packFolder: bloodandashesinceravelvale
 ---
 
 ### Summary of Provènzia

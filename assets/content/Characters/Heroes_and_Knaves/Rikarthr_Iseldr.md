@@ -12,7 +12,7 @@ name:
   home: Thorrborg
   aliases: []
 id: rn9KO5qrWdoqToSu
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: rkrthrsldr
 img: icons/person.svg
 type: being

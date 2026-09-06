@@ -11,7 +11,7 @@ name:
   aliases:
     - Elira Swiftfoot
 id: OlZieTX8DcsmcYm4
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: almrdslrdrn
 img: icons/person.svg
 type: being

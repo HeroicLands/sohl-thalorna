@@ -17,7 +17,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perheka
-folder: 6HgEgHggm50Aphlq
+packFolder: capitalnome
 ---
 
 # Per-Heka

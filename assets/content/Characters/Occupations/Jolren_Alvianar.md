@@ -11,7 +11,7 @@ name:
   aliases:
     - Taran Stonecarver
 id: 6o0C4w7bAdzGxpyf
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
 img: icons/person.svg
 type: being

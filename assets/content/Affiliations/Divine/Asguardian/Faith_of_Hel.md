@@ -103,7 +103,7 @@ shortcode: hel
 img: images/affiliation/hel.webp
 sohl:
   archetype: null
-folder: cFyVbOx7bj35ZyPA
+packFolder: pantheonsasguardian
 ---
 
 Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute — a place of endless torment and despair, reflecting her contempt for living beings.

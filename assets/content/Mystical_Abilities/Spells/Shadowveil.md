@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Cloak
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws a mantle of dark, smoldering flame around their shoulders like a heavy cloak. Unlike normal fire, these flames produce a deep, ruddy glow that swallows surrounding light rather than adding to it, creating a pool of warm shadow that softens the caster's outline and makes their features difficult to discern. The cloak radiates uncomfortable heat, deterring close approach and causing burns to anyone who touches it.

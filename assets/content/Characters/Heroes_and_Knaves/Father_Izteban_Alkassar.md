@@ -13,7 +13,7 @@ name:
   aliases:
     - The Jánusian Priest
 id: Nzu2JgeuaTC1ZcZa
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: frztbnlksr
 img: icons/person.svg
 type: being

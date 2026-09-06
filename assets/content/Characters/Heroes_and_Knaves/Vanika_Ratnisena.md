@@ -10,7 +10,7 @@ name:
   home: Rājapur
   aliases: []
 id: YDrk4CIsTjtWzOqG
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: vanikartns
 img: icons/person.svg
 type: being

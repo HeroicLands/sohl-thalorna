@@ -149,7 +149,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A straight double-edged blade broad and substantial, the khanda is forged for the direct hacking cut. The hilt flares to a wide guard and ends in a disk-shaped pommel that steadies the blade's weight. Warriors of rank carry this steel as a symbol of standing and martial prowess, its straight geometry speaking of unflinching strength.

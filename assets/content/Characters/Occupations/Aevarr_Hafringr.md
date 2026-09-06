@@ -11,7 +11,7 @@ name:
   aliases:
     - Roderick Heavyload
 id: H2hsfWkrC5Gj1Bf8
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: aevrhfrngr
 img: icons/person.svg
 type: being

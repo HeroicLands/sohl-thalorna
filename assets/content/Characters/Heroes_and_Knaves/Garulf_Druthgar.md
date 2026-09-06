@@ -9,7 +9,7 @@ name:
   clan: Druthgar
   aliases: []
 id: 1AijJWW9daL9R2kZ
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

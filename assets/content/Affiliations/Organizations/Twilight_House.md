@@ -119,7 +119,6 @@ data:
     vindhyalay: unaligned
 sohl:
   archetype: null
-folder:
 ---
 
 # The Twilight House

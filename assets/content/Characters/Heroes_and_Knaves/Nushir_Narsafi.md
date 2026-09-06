@@ -11,7 +11,7 @@ name:
   home: Zargandûr
   aliases: []
 id: XujRU8bZpk8v4Y3f
-folder: heI5Ky6Kqmb61L6c
+packFolder: ankariskhazryndesert
 shortcode: nushirnrsf
 img: icons/person.svg
 type: being

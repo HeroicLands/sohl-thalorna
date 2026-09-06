@@ -11,7 +11,7 @@ name:
   aliases:
     - Edric Bannerman
 id: RZzUk1D6iNIb6zLK
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: wldrcrkhld
 img: icons/person.svg
 type: being

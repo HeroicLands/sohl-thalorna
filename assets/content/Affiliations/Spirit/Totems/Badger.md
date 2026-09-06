@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Tenacious and solitary, badgers are fiercely independent animals that will defend their territory with determination and persistence.

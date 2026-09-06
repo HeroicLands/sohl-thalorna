@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Enrichment
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster channels sustaining mental energy into the target's mind, and the fog of exhaustion lifts. Scattered thoughts coalesce into focused chains of reasoning. Memory sharpens, retrieving details that had slipped beyond reach. The creative faculties, dulled by fatigue or stress, reawaken with renewed vigor. The effect is like a second wind of the intellect — a surge of mental freshness that restores the mind to its peak operating condition.

@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Shadowbreath Elixir is a black, viscous draft that seems to absorb light, smelling of midnight and extinguished flames. Upon drinking, the imbiber may exhale Darkness principle in a controlled burst—a 1-turn action that creates a zone of absolute obscurity extending five feet in all directions. The shadowed area moves with the imbiber and persists for AS minutes, blocking line of sight entirely. Within the darkness, Stealth tests gain one automatic success level, making hidden movement nearly impossible to detect.

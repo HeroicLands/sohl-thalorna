@@ -12,7 +12,7 @@ name:
   aliases:
     - Parri ReenKhensu
 id: 2f0ZMAmYp9RXcMX4
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: parirnkhns
 img: icons/person.svg

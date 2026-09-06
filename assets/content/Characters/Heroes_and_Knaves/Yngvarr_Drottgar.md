@@ -11,7 +11,7 @@ name:
   home: Frostmark
   aliases: []
 id: 2mKYgaRHKWc3R4gK
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
 img: icons/person.svg
 type: being

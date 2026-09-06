@@ -11,7 +11,7 @@ name:
   aliases:
     - Bram Hollowfoot
 id: vwSDrtqohUmuhVI8
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: erthrnhldvth
 img: icons/person.svg
 type: being

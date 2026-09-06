@@ -20,7 +20,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: iRIw6GzQvZ4UF0Lf
+packFolder: aureldian
 ---
 
 See [[affiliation-morvana|Faith of Mórváná]]

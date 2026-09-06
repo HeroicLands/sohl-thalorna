@@ -12,7 +12,7 @@ name:
   clan: Rhýddýn
   aliases: []
 id: PTMNrOoyG1L212mK
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
 img: icons/person.svg
 type: being

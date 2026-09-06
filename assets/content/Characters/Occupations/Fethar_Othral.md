@@ -11,7 +11,7 @@ name:
   aliases:
     - Jorin Stoneware
 id: NhigzxYvJ8xWjmMG
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: fetharthrl
 img: icons/person.svg
 type: being

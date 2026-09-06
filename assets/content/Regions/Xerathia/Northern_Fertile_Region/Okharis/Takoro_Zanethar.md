@@ -8,7 +8,7 @@ name:
   clan: Zanethar
   aliases: []
 id: kIJdPc7U4AEkhMfz
-folder: 5ECInZ91R1WeEtYz
+packFolder: northernfertileregionokharis
 shortcode: takorozanethar
 img: images/takoro-zanethar-headshot.webp
 type: being

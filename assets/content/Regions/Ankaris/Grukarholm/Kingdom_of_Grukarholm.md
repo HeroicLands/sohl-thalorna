@@ -109,7 +109,7 @@ data:
     kingdmnrgd: rival
 sohl:
   archetype: null
-folder: CNzTSOtYWZwLyp5k
+packFolder: grukarholm
 ---
 
 ## Overview

@@ -11,7 +11,7 @@ name:
   aliases:
     - Gorvin Rockshield
 id: 1ES1iWTECNa5fbqn
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: glvrmrthrn
 img: icons/person.svg
 type: being

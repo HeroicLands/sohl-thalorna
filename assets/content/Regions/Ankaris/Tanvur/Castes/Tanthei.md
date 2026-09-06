@@ -6,7 +6,7 @@ name:
   full: Tānthëi
   aliases: []
 shortcode: tanthei
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Tānthëi

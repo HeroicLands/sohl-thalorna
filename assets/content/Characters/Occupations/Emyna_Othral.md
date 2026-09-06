@@ -11,7 +11,7 @@ name:
   aliases:
     - Seraphina Duval
 id: 43ANVj77p3kZZl4A
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: emynaothrl
 img: icons/person.svg
 type: being

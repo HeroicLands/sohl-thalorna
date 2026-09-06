@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Insight
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster turns their sharpened perception upon a person, object, or situation, and understanding arrives not through analysis but through a sudden, intuitive flash of insight. Hidden connections become obvious. Concealed motivations reveal themselves. The significance of an overlooked detail suddenly snaps into focus with the clarity of a puzzle piece finding its place. The caster perceives not just what is present but what it means.

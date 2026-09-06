@@ -112,7 +112,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: g26kf6A7QBdom2kv
+packFolder: perthoth
 ---
 
 # The Nome of Per-Thōth

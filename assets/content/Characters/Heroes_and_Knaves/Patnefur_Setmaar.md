@@ -13,7 +13,7 @@ name:
     - Patnefur Setmaâr
     - Patnefur Setmaar
 id: RS86KhDXwmkTxamD
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: patnfrstmr
 img: icons/person.svg

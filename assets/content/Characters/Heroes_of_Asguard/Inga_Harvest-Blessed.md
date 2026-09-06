@@ -12,7 +12,7 @@ name:
     - Harvest-Blessed
   home: null
 id: GhSo3e8vrKA459Us
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: inghrvstblsd
 img: icons/person.svg
 type: being

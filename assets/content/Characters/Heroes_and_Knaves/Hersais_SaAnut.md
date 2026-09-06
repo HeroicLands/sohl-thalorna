@@ -12,7 +12,7 @@ name:
     - Hersaîs SaAnut
     - Hersais SaAnut
 id: HhMbJDNK49dWeLu0
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
 img: icons/person.svg

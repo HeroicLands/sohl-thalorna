@@ -11,7 +11,7 @@ name:
   aliases:
     - Lucien Nightshade
 id: XKqPnXKANObF4OIs
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: vgbrndrstnblt
 img: icons/person.svg
 type: being

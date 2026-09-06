@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynn Digger
 id: vevgJRysqU2Q96M3
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: talimthmrn
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Sir Alaric Emberhill
 id: 0DfQnPOMbdYvpiYK
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: sahnrmkthn
 img: icons/person.svg
 type: being

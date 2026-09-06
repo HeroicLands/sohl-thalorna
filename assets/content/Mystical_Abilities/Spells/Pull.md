@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Magnet
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster extends their hand toward a metallic object and exerts an invisible magnetic grip upon it. The targeted metal lurches toward the caster — or in whatever direction the caster wills — with a force proportional to the caster's power and inversely proportional to the object's mass. A sword can be wrenched from a warrior's grip. A ring of keys can fly across a room into the caster's waiting hand. Loose coins scatter toward the caster's position like iron filings drawn to a lodestone.

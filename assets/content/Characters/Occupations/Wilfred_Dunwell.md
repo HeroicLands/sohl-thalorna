@@ -11,7 +11,7 @@ name:
   aliases:
     - Hrothgar Stormcaller
 id: wYYpLublqdiVAHhV
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: wilfrednwl
 img: icons/person.svg
 type: being

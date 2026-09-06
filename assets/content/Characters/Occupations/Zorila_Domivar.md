@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynhild Stonefoot
 id: PP4XJU3nBC4oAv0D
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: zoriladmvr
 img: icons/person.svg
 type: being

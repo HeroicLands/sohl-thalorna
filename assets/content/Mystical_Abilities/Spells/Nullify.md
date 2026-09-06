@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Dispel
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster focuses their will upon an active magical effect and systematically unravels its structure, pulling apart the threads of energy that sustain it. The targeted spell, enchantment, or ward flickers and gutters like a candle in wind before collapsing entirely, its energy dissipating harmlessly into the ambient field. The process is precise — only the targeted effect is disrupted, while adjacent or overlapping magics remain untouched.

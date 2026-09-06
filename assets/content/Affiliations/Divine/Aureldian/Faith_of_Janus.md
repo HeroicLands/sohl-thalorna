@@ -105,7 +105,7 @@ name:
     - The Keeper of the Gates
 shortcode: janus
 img: images/affiliation/janus.webp
-folder: uMjCDTomEtc5Z0KV
+packFolder: pantheonsaureldian
 ---
 
 God of justice, cosmic law, and honorable struggle. Jánus watches over all contracts, pacts, and conflicts, ensuring that both divine and mortal order and justice are maintained. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Jánus demands it through principle.

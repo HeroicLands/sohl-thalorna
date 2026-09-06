@@ -11,7 +11,7 @@ name:
   aliases:
     - Harlan Cragmoor
 id: IDAdn1Ay5XL8Sb24
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: elimuashim
 img: icons/person.svg
 type: being

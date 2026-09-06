@@ -14,7 +14,6 @@ name:
     - Barter
     - Barter System
 shortcode: bartercnmy
-folder:
 ---
 
 # The Barter Economy

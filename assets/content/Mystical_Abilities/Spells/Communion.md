@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Converse
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster opens a channel of pure mental communication with a distant individual whose arcane signature they know, bridging the gap between them with a thread of concentrated will. Words, images, and emotional impressions flow freely across the link, arriving as clearly as if both parties stood face to face. The connection persists as long as both participants willingly maintain it, though either can sever the link at any moment.

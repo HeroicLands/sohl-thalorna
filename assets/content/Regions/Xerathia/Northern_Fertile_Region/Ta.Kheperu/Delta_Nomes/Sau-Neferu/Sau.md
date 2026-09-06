@@ -18,7 +18,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: sau
-folder: 9wsmaBsHPmmto2k3
+packFolder: sauneferu
 ---
 
 # Sau

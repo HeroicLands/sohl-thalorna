@@ -12,7 +12,7 @@ name:
     - the Reforged
   home: null
 id: Jtz47rULGmErzIfx
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: ragnarfrgd
 img: icons/person.svg
 type: being

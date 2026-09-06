@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Destructive and unpredictable, bulls are powerful animals that can quickly become aggressive, especially when threatened or provoked.

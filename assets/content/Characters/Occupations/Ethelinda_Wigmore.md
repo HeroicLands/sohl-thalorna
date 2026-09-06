@@ -11,7 +11,7 @@ name:
   aliases:
     - Brenna Lockwood
 id: IcNepOR6soVfBgWO
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: ethlndwgmr
 img: icons/person.svg
 type: being

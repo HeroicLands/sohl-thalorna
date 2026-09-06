@@ -11,7 +11,7 @@ name:
   aliases:
     - Liora Ashdown
 id: UpkDyr7OSJoRu1XX
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrdsdrtgr
 img: icons/person.svg
 type: being

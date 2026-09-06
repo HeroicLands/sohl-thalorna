@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynn Silversong
 id: xQ8VS8IALVUj4APg
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: ylthklmrth
 img: icons/person.svg
 type: being

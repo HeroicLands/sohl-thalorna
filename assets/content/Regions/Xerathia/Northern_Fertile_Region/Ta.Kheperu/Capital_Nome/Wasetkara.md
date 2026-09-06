@@ -18,7 +18,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: wasetkara
-folder: 6HgEgHggm50Aphlq
+packFolder: capitalnome
 ---
 
 # Wasetkara

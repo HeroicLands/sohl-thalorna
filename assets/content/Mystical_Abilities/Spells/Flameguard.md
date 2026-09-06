@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Envelope
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster creates a ring of fire that encircles and encloses a designated space, rising to waist height or higher depending on the caster's intent. Anything that attempts to cross the boundary — in either direction — meets a concentrated blast of flame that is far more intense than the visible fire suggests. The envelope burns with particular ferocity along its boundary, while the interior remains hot but habitable.

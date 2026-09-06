@@ -12,7 +12,7 @@ name:
   aliases:
     - Reslâva Vespera Sunstone
 id: kAP744EEPmW9susP
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: sofntrvlth
 img: icons/person.svg
 type: being

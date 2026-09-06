@@ -12,7 +12,7 @@ name:
   aliases:
     - Harlan Stoneforge
 id: tcozMdant8nXiWqs
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: oswinhardn
 img: icons/person.svg
 type: being

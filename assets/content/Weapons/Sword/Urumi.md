@@ -105,7 +105,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A whip of flexible blades—one or many—coiled around a hilt or grip, the urumi is a specialist's weapon requiring years of conditioning. The wielder cracks the blades outward in a controlled spiral, striking from unexpected angles at multiple foes. Only the truly skilled dare draw this steel without marking their own flesh.

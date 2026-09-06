@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Sight
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster's eyes take on a steely, metallic sheen and their vision transforms, allowing them to see through solid materials as though they were translucent glass. Stone walls become ghostly outlines through which the rooms beyond are visible. Wooden doors reveal the people standing behind them. The earth itself becomes a window into the chambers, passages, and voids that lie beneath the surface.

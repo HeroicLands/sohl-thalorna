@@ -11,7 +11,7 @@ name:
   home: Byzaris
   aliases: []
 id: PRkrr4DqeA41typS
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: phlndrskyrks
 img: icons/person.svg
 type: being

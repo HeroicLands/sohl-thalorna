@@ -11,7 +11,7 @@ name:
   aliases:
     - Marcus Tidebreaker
 id: xR8KCDXsXyGHA9k0
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: ghardsmrds
 img: icons/person.svg
 type: being

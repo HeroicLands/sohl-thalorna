@@ -11,7 +11,7 @@ name:
   aliases:
     - Sigrid Stonemantle
 id: PJbM7Q1SrblrSWt6
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: tabismrnds
 img: icons/person.svg
 type: being

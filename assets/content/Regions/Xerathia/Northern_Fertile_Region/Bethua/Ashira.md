@@ -16,7 +16,7 @@ name:
   full: Ashíra
   aliases: []
 shortcode: ashira
-folder: Y64e5NGsp8OwZ6xQ
+packFolder: bethua
 ---
 
 # Ashíra

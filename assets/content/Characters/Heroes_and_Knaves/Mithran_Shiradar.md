@@ -10,7 +10,7 @@ name:
   home: Oasis of Teyran
   aliases: []
 id: skGF7W5mzTVDMTFm
-folder: kCKYObmsvraIezCd
+packFolder: dunharatribes
 shortcode: mthrnshrdr
 img: icons/person.svg
 type: being

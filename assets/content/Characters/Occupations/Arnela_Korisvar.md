@@ -11,7 +11,7 @@ name:
   aliases:
     - Lady Seraphina Emberhart
 id: uPeCDRHwi41XJOLl
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: arnelkrsvr
 img: icons/person.svg
 type: being

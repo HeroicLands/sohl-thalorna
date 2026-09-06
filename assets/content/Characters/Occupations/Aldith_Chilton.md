@@ -12,7 +12,7 @@ name:
   aliases:
     - Shénasenè Lysandra Goldleaf
 id: cK8ShmbCuAjASnAG
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: aldthchltn
 img: icons/person.svg
 type: being

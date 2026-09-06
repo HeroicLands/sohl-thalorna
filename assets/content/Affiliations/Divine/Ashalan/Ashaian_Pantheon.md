@@ -100,7 +100,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: 7so6UiPt445oIHWs
+packFolder: ashaian
 ---
 
 # Āsháian Pantheon

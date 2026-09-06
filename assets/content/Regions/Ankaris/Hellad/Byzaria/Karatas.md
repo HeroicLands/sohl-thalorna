@@ -108,7 +108,7 @@ data:
     arldnpnthn: aligned
 sohl:
   archetype: null
-folder: pAXnwYJhDDSvkrPt
+packFolder: byzaria
 ---
 
 Karataş — Blackstone — is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. Built on rich deposits of iron, copper, and semi-precious stones in the mountainous interior of [[place-byzariargn|Byzaría Region]], Karataş produces the arms, armor, metalwork, and finished goods that the other city-states trade across [[place-ankrscntnnt|Ankaris Continent]].

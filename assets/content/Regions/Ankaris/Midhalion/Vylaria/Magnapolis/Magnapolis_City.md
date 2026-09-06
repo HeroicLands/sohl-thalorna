@@ -17,7 +17,7 @@ name:
   aliases:
     - The Great City
 shortcode: magnapolis
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 > _"All roads are the Empire's roads, and every one of them runs home to Magnápolis."_ — Vylarian proverb

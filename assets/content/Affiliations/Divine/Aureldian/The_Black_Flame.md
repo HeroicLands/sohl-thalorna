@@ -105,7 +105,7 @@ data:
     arldnpnthn: aligned
 sohl:
   archetype: null
-folder: uMjCDTomEtc5Z0KV
+packFolder: pantheonsaureldian
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

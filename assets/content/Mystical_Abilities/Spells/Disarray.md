@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Confusion
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster projects a wave of psychic static into the target's mind, scrambling the orderly processes of thought into a churning chaos of half-formed ideas, disconnected memories, and contradictory impulses. The target's ability to think sequentially collapses — they begin an action, forget why, start another, lose track of that as well, and stand paralyzed in a fog of bewilderment. Language becomes unreliable, with the wrong words emerging or sentences trailing off into confusion.

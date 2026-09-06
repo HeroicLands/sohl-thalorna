@@ -11,7 +11,7 @@ name:
   aliases:
     - Otto Fallowbrook
 id: TtNZPHaQ0Jt7Qg84
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: safrsghlrs
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Halwyn Ironbrace
 id: T3gCkSt5bcuYdswx
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: jrndrfrstlf
 img: icons/person.svg
 type: being

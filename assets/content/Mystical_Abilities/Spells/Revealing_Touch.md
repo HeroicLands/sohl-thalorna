@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Unveiling
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster presses a palm flat against the air and pushes outward; a ripple of disrupted light expands from the point of contact like a stone dropped into still water, and every illusion, glamour, and magical concealment within its radius shudders violently before collapsing in a cascade of prismatic sparks. Hidden doors outlined by enchantment flare with visible seams, invisible creatures are momentarily silhouetted in crackling light, and falsified documents shimmer to reveal the true text beneath the forgery.

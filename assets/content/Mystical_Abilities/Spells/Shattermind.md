@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Rupture
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster drives a spike of concentrated psychic force directly into the target's mind, bypassing surface thoughts to strike at the deep structures of identity, memory, and emotional stability. The impact is catastrophic — the target's sense of self fractures, their memories fragment and scramble, and their emotional responses become wildly dysregulated. For the duration of the spell, the target is barely functional, overwhelmed by a torrent of disconnected memories, conflicting emotions, and fundamental uncertainty about who and where they are.

@@ -103,7 +103,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: RGkIoZ4nXKx1qnID
+packFolder: pantheonskemetian
 ---
 
 # Kemetían Pantheon

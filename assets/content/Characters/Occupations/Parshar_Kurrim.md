@@ -12,7 +12,7 @@ name:
   aliases:
     - Oswin Goldlock
 id: sWVYCoIpt9ZYE51m
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: parsharkrm
 img: icons/person.svg
 type: being

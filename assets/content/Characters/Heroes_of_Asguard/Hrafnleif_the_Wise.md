@@ -12,7 +12,7 @@ name:
     - the Wise
   home: null
 id: vxzpRAsxTUQXIGov
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrafnlefws
 img: icons/person.svg
 type: being

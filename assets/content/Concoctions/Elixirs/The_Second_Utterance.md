@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A clear, perfectly transparent elixir that tastes of silvery metal and old words, bound to the Principle of Incantation (Neutral). This elixir grants the drinker a second chance against magical failure. When a Spellcasting or Invocation Roll fails—whether a standard Failure or a Critical Failure—the imbiber makes a d10 roll against a Target Number equal to their current Aural Shock. If successful, the failed spell or talent's success level increases by one, potentially salvaging disaster into ordinary success or turning a critical failure into merely a miscast.

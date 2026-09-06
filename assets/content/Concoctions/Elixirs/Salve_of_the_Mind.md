@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 The Mindslave Elixir is a dark, syrupy draft that smells of iron and burned herbs, leaving a numb sensation on the tongue. This elixir works in three distinct stages to reshape the imbiber's will and perception. Upon drinking, it immediately lifts conditions that cloud judgment—withdrawing, routed, afraid, terrified, and catatonic all dissolve. Simultaneously, any accumulated psychological stress receives an immediate Recovery Roll, offering respite from the mind's wounds.

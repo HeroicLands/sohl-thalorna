@@ -11,7 +11,7 @@ name:
   aliases:
     - Liora Hearthsong
 id: sV3vZhD9ejW9o3RU
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: anirarsnth
 img: icons/person.svg
 type: being

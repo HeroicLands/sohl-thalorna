@@ -21,7 +21,6 @@ name:
     - Inner City
     - Eagle City
 shortcode: urbsaquiln
-folder:
 ---
 
 # Urbs Aquilion — the Inner City of Magnápolis

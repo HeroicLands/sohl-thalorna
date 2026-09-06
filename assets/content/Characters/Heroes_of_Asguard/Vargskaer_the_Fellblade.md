@@ -14,7 +14,7 @@ name:
     - Vargskaer the Fellblade
   home: null
 id: sflJFLRFBVN0a1zP
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: vrgskrflbld
 img: icons/person.svg
 type: being

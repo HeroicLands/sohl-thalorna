@@ -12,7 +12,7 @@ name:
     - Stormborn
   home: null
 id: IQJpaW7lB8mYgiWK
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: bjrnstrmbrn
 img: icons/person.svg
 type: being

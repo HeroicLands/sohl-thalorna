@@ -11,7 +11,7 @@ name:
   aliases:
     - Tirye Djetamê
 id: 1gRrA9CzFh9ey0KG
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
 img: icons/person.svg

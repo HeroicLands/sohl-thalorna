@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Alarm
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster traces an invisible boundary across doorways, corridors, or around an entire campsite, leaving behind a gossamer-thin web of arcane sensitivity. This boundary is imperceptible to ordinary senses and most magical detection, yet it responds instantly when crossed. The caster receives a sharp mental ping — a sudden awareness of the breach's location and the general nature of what triggered it, whether living creature, undead horror, or magical construct.

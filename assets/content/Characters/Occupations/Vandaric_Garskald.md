@@ -11,7 +11,7 @@ name:
   aliases:
     - Finn Stablehand
 id: X9iBG63d1hHjtkku
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: vndrcgrskld
 img: icons/person.svg
 type: being

@@ -12,7 +12,7 @@ name:
   aliases:
     - Thorne Cobblepot
 id: pUAFJWpSEPTFCYbf
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: skldrblthlm
 img: icons/person.svg
 type: being

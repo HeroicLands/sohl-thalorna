@@ -12,7 +12,7 @@ name:
     - Ironfist
   home: null
 id: 8ZmZXqZ3szmBuY4r
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrthgrrnfst
 img: icons/person.svg
 type: being

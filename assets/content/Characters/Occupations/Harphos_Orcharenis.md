@@ -12,7 +12,7 @@ name:
   aliases:
     - Alric Henton
 id: PPgdzUvZ3gpmmICi
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: hrphsrchrns
 img: icons/person.svg
 type: being

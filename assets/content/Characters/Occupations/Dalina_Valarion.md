@@ -11,7 +11,7 @@ name:
   aliases:
     - Callista Galeheart
 id: Ia2gBi4qUxWzxczd
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: dalinavlrn
 img: icons/person.svg
 type: being

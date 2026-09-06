@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A pearlescent, opalescent draft that seems to contain wisps of smoke or mist trapped in liquid, bound to the Principle of Incorporeality (Hydälis). When drunk, Ghostsight grants the imbiber a profound shift in perception: they can now take Spirit Sensing actions while remaining fully incarnate in their flesh. As a free action on their turn, the drinker may shift their perspective from the physical landscape to the astralscape of the spirit world, or back again. Only one perspective can be maintained at a time; the imbiber cannot see both realms simultaneously.

@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A thick, rusty-brown paste with the consistency of honey, this coagulant smells of iron and herbs—specifically of dried yarrow and powdered iron filings mixed with rendered fat. The texture is deliberately sticky, designed to adhere to a wound without running or washing away. When pressed against an open injury, the paste warms slightly, as though responding to the body's own heat, and the wound itself seems to relax around the application, the tissues accepting the medicine rather than rejecting it.

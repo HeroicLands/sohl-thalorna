@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Hunger
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster curses a single creature with an immediate onset of supernatural starvation, bypassing the normal gradual progression of hunger and plunging the victim directly into acute nutritional crisis with a starting virulence equivalent to a serious disease. The victim immediately accrues significant weariness fatigue as their body burns through its reserves at an impossible rate, and without food the creature's condition deteriorates rapidly—making Advance Rolls at accelerated intervals that halve or quarter the normal time between checks depending on whether partial rations are available.

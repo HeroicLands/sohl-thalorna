@@ -109,7 +109,7 @@ data:
 sohl:
   archetype: null
 terran_analog: Equador, Peru, western Brazil
-folder: HJMzFtDo9EUD6XNz
+packFolder: baalamtzaku
 ---
 
 ## Overview

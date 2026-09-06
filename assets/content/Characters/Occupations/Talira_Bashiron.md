@@ -11,7 +11,7 @@ name:
   aliases:
     - Elspeth Rowen
 id: BcbfnoGMbJmTPSIA
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: talirbshrn
 img: icons/person.svg
 type: being

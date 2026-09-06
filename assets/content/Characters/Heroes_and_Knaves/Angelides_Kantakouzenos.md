@@ -11,7 +11,7 @@ name:
   home: Denizara
   aliases: []
 id: 1d1IMLnClylJnPHF
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: angldskntkzns
 img: icons/person.svg
 type: being

@@ -95,7 +95,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Cartographers' Guild of the Byzarian League

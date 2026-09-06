@@ -12,7 +12,7 @@ name:
   aliases:
     - Alaric Gemcutter
 id: WWPel8XOFDWKWLCR
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: mgnsklbrndr
 img: icons/person.svg
 type: being

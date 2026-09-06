@@ -16,7 +16,7 @@ name:
     - The Grazian Wall
 shortcode: graznmntns
 terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex — the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara; the northern arc curves up into the Pamir/Tian-Shan-analog ranges that hem in the southwestern corner of the Khazryn."
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 # The Grazian Mountains

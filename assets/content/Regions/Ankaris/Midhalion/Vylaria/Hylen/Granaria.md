@@ -16,7 +16,7 @@ name:
   full: Granaria
   aliases: []
 shortcode: granaria
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 # Granaria

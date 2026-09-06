@@ -10,7 +10,7 @@ name:
   home: Ashíra
   aliases: []
 id: UqERNMxqW9jiWub4
-folder: pRBSOhf2qVrV1SQB
+packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
 img: icons/person.svg
 type: being

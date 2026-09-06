@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 Clear as water with a faintly greenish tint, this emetic has a smell like spoiled herbs and acidic fruit—the kind of aroma that makes the stomach anticipate trouble before the liquid even touches the tongue. On the palate it is bitter and almost metallic, with a texture that coats the mouth with the sensation of coming sickness. Those who know the preparation by reputation often drink it down quickly, in a single gulp, wanting to have it over with rather than prolonging the unpleasant taste. The vial is usually small and easily carried, as doses are measured in sips rather than drafts.

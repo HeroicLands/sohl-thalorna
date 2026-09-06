@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 Nearly black, with the opacity of tar and the fluidity of mercury, this legendary emetic exudes an aroma so potently repugnant that bottles are often kept in sealed leather cases rather than exposed even to air. The mere sight of the stuff—much less the smell—is enough to make the experienced drinker's entire body rebel. To consume the great emetic is to enter a state of deliberate and total bodily rejection, a calculated assault on the stomach and bowels in service of survival. Those who have had to administer or consume the great emetic often refuse to speak of the specific details of the experience, acknowledging only that it worked and that they lived.

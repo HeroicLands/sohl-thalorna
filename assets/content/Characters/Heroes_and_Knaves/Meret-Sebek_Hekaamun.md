@@ -12,7 +12,7 @@ name:
   aliases:
     - Meret-Sebek Hekaamun
 id: O8DM193IL84QUQZb
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
 img: icons/person.svg

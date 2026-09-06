@@ -12,7 +12,7 @@ name:
   aliases:
     - Liora Stonemaster
 id: 74KPONu3OujCeECO
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edithwlfrd
 img: icons/person.svg
 type: being

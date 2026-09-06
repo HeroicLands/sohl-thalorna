@@ -11,7 +11,7 @@ name:
   home: Ashkarad
   aliases: []
 id: 1GBQoF5UrJkfoC2p
-folder: heI5Ky6Kqmb61L6c
+packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
 img: icons/person.svg
 type: being

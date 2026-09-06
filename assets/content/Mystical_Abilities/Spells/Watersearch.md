@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Dowsing
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster extends their awareness through the ground and air, feeling for the presence of water below the surface or hidden within structures. The spell manifests as a tingling pull in the caster's hands, growing stronger and more insistent as they approach a water source — an underground spring, a sealed cistern, a water table beneath dry soil.

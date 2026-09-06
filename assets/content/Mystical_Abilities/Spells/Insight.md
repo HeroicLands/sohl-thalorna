@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Diagnosis
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster places hands upon a wounded creature and channels diagnostic Physéra energy through the patient's body, gaining an immediate and comprehensive understanding of all physical traumas present—their severity, location, state of healing, and risk of complication. This grants the Healing talent bonus and provides a substantial bonus to all subsequent Physician tests to treat the injuries cataloged by the spell. The diagnostic impression is instantaneous and thorough, revealing information that might otherwise require hours of physical examination and probing.

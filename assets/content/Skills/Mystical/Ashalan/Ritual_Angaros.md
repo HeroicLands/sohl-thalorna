@@ -18,7 +18,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: MabmtFedtqaXvY4V
+packFolder: ashalan
 ---
 
 See [[affiliation-angaros|Faith of Ángáróš]]

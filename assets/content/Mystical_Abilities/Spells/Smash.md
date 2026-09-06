@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Shatter
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster focuses concentrated force upon a single point within a solid object — a wall, a door, a suit of armor, a weapon — and releases it as a violent expansion that shatters the material from within. Cracks radiate outward from the focal point, and the object fragments explosively, hurling sharp debris in all directions. The destruction is dramatic and instantaneous, reducing a wooden door to splinters, a stone wall to rubble, or a glass window to a shower of glittering shards.

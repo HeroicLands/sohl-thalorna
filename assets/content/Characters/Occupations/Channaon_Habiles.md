@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynden Ash
 id: CpWDKNQyvbF2ulFn
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: chananhbls
 img: icons/person.svg
 type: being

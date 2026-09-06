@@ -16,7 +16,7 @@ data:
   parents:
     - byzariargn
   population: null
-folder: pAXnwYJhDDSvkrPt
+packFolder: byzaria
 ---
 
 Chrysamar is a secondary port city of the [[affiliation-byzarianlg|Byzarian League]], strategically positioned along the coast to rival the supremacy of [[affiliation-denizara|Denizara]]. The name carries poetic weight in Byzarian — _chrysos_ (gold) and _mar_ (sea) — and the city's merchants have done much to live up to the name, amassing considerable wealth through maritime trade that competitors claim rivals that of the League's premier harbor.

@@ -11,7 +11,7 @@ name:
   aliases:
     - Elowen Saltbloom
 id: xSpdQhDtkzRG754T
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: dernklmrth
 img: icons/person.svg
 type: being

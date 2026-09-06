@@ -13,7 +13,7 @@ name:
   aliases:
     - The Scholar of Forgotten Texts
 id: cUlOZ6taTjhSI4XI
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
 img: icons/person.svg

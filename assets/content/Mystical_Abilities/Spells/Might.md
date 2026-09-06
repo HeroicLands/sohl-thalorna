@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Physique
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster channels concentrated Physéra energy into their own body or that of a touched creature, amplifying a single physical attribute score by a meaningful increment while simultaneously boosting all skills whose base derives from that attribute. The enhancement is substantial—the raw attribute increases and every associated skill's Mastery Level rises in proportion—transforming an average person into a formidable physical specimen for the spell's duration. Critically, Might does not stack with itself or with any other attribute-enhancing effect targeting the same attribute; attempting to layer multiple enhancements on one characteristic produces no additional benefit.

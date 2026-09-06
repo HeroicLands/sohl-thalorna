@@ -19,7 +19,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: sn9NBuZMZOBqxsYv
+packFolder: language
 ---
 
 Tānvüri is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Tānvüri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.

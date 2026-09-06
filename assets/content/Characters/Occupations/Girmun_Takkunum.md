@@ -12,7 +12,7 @@ name:
   aliases:
     - Maerwin Blathe
 id: xkxwnQrS7RPeMOkI
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: girmuntknm
 img: icons/person.svg
 type: being

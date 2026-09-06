@@ -12,7 +12,7 @@ name:
     - Tefnutî HetWera
     - Tefnuti HetWera
 id: YQqx7K6B85XCEHAN
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tefnuthtwr
 img: icons/person.svg

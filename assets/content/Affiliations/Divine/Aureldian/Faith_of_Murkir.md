@@ -105,7 +105,7 @@ name:
     - Múrkír
 shortcode: murkir
 img: images/affiliation/murkir.webp
-folder: uMjCDTomEtc5Z0KV
+packFolder: pantheonsaureldian
 ---
 
 God of journeys, exploration, and wanderlust. Múrkír protects travelers and inspires mortals to seek the unknown.

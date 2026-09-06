@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Lustre
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster touches a metallic object and infuses it with a gentle luminescence, and the surface begins to emit a steady, warm light that reflects and amplifies through the metal's natural sheen. The glow transforms even a dull iron nail into something that catches the eye, but on polished silver or gold the effect is magnificent — the metal seems to burn with inner fire, casting clean, steady light equivalent to several good candles across the surrounding area.

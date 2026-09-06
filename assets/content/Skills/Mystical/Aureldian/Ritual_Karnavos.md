@@ -19,7 +19,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: iRIw6GzQvZ4UF0Lf
+packFolder: aureldian
 ---
 
 See [[affiliation-karnavos|Faith of Karnavos]]

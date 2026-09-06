@@ -11,7 +11,7 @@ name:
   aliases:
     - Eamon Clearfield
 id: qD2tmy2EgpyKwKsS
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: tirushnmrz
 img: icons/person.svg
 type: being

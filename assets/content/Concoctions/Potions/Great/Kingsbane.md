@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 This is blackened liquid, thick and almost tar-like, that seems to absorb light rather than reflect it. The smell alone can kill small animals—a nauseating, choking miasma that penetrates cloth and lingering in the nostrils for hours after exposure. The vial must be sealed with multiple layers of cork and wax, and even then, a careless whiff can drop a person to their knees in agony. The herbalist who dares prepare this works in isolation, often wearing a leather mask filled with herbs to shield against the vapors. This is not merely poison—this is death given liquid form.

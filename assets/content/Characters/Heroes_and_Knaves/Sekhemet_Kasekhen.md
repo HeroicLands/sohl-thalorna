@@ -12,7 +12,7 @@ name:
   aliases:
     - Sekhemet Kasekhen
 id: 4jK9YFO53TFGWXN6
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: skhmtkskhn
 img: icons/person.svg

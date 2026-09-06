@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Gate
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster tears a luminous aperture in the fabric of space, its edges crackling with the strain of holding two distant points in forced proximity. Through the shimmering disc, the destination is visible — wavering slightly as though seen through heated air — and passage is instantaneous for anyone who steps through. The portal connects two points the caster has personally visited, and the accuracy of the connection depends entirely on the clarity of their memory.

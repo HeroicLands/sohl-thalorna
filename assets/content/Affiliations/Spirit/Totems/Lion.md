@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Dominant and strategic, lions are social big cats that work cooperatively within a pride to hunt and defend their territory with calculated precision.

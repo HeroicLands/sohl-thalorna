@@ -16,7 +16,7 @@ name:
     - Vrystwald Region
 shortcode: vrystwald
 terran_analog: "European Russia — the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
-folder: mCG1TPvjwrV23csZ
+packFolder: vrystwald
 ---
 
 ## Overview

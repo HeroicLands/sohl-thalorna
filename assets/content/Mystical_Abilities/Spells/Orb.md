@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Sphere
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster shapes a sphere of compressed flame between their hands and releases it. The orb rises to a commanded height and hovers there, casting warm orange-gold light across the surrounding area. It follows the caster's mental direction, drifting forward to illuminate passages, rising to light a high ceiling, or descending to reveal the contents of a deep pit. The light it produces is steady and reliable, brighter than a torch and free from the flickering that strains the eyes.

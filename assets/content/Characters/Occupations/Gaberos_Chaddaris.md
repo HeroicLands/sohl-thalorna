@@ -11,7 +11,7 @@ name:
   home: Athenikos
   aliases: []
 id: LojIIf94ChZESFqZ
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: gabrschdrs
 img: icons/person.svg
 type: being

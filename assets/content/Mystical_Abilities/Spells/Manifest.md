@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Conjure
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster reaches into the elemental plane of water and draws forth a quantity of pure, conjured water that did not exist moments before. The water materializes in the air before the caster — first as a shimmer, then as a growing sphere of crystalline liquid that hovers briefly before falling or being directed by the caster's will. The conjured water is perfectly pure, cold, and carries a faint magical resonance.

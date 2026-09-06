@@ -11,7 +11,7 @@ name:
   aliases:
     - Eirik Stonehand
 id: AQLKHu7qnQTupqzi
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: dnstnhlmsly
 img: icons/person.svg
 type: being

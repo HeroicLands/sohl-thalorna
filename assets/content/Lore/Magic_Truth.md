@@ -12,7 +12,7 @@ name:
     - Magic (GM)
 subType: arcana
 id: DtLucc6IKCuifIbL
-folder: t3p5qf6rZc8w0Nc4
+packFolder: settinglore
 shortcode: magictruth
 ---
 

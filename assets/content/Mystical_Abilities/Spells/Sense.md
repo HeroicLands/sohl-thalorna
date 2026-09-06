@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Feel
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster opens their awareness to the emotional landscape of a chosen individual, and feelings that would normally be hidden behind composure and social convention become perceptible as distinct, almost tangible impressions. Fear presents as a cold tightness in the caster's own chest. Anger arrives as heat behind the eyes. Joy manifests as a lightness, grief as a leaden heaviness, and the complex layered emotions of an intelligent mind reveal themselves as intricate patterns of sensation.

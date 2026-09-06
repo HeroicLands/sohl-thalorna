@@ -11,7 +11,7 @@ name:
   aliases:
     - Elira Willowbrook
 id: uhaFVBliyIToGJ1Q
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edasomervl
 img: icons/person.svg
 type: being

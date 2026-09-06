@@ -16,7 +16,7 @@ name:
   full: Waldburg
   aliases: []
 shortcode: waldburg
-folder: mCG1TPvjwrV23csZ
+packFolder: vrystwald
 ---
 
 # Waldburg

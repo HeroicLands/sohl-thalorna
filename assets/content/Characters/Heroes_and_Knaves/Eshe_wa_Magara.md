@@ -12,7 +12,7 @@ name:
   aliases:
     - The Spirit Blade Warrior
 id: Lx9sOAx8WULtNPca
-folder: 5ECInZ91R1WeEtYz
+packFolder: northernfertileregionokharis
 shortcode: eshewamagr
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Mirabelle Thorn
 id: t1OGMmjxWkI9X7H6
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thdrsndryth
 img: icons/person.svg
 type: being

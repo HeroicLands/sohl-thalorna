@@ -12,7 +12,7 @@ name:
   aliases:
     - Reslâva Mira Lightwhisper
 id: A41l76c1zYFl7V93
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: sarenprdln
 img: icons/person.svg
 type: being

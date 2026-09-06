@@ -16,7 +16,7 @@ data:
   parents:
     - khzryndsrtrgn
   population: null
-folder: PbQ9B1r6hEaJvyco
+packFolder: khazryndesert
 ---
 
 # Oasis of Shirvan

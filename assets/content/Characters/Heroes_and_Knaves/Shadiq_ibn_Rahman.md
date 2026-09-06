@@ -12,7 +12,7 @@ name:
   aliases:
     - The Diplomatic Blade Dancer
 id: Gwi4Ze6InoeQmW4R
-folder: mtJ4TzKdySHbE2OM
+packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
 img: icons/person.svg
 type: being

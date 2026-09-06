@@ -11,7 +11,7 @@ name:
   aliases:
     - Jeb Flint
 id: cBwSeId75e7EcsAl
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: jdhrsbshrn
 img: icons/person.svg
 type: being

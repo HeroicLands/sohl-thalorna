@@ -14,7 +14,7 @@ name:
   full: Okharis Tribes Placeholder
   aliases: []
 shortcode: okhrstrbsplchldr
-folder: E73gOKMU6M707svD
+packFolder: tribes
 ---
 
 TBD

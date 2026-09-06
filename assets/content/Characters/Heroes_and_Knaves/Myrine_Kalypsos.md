@@ -13,7 +13,7 @@ name:
   aliases:
     - The Mendicant Priestess of the Black Flame
 id: yrsuou8x6G2HF5hA
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: myrnklypss
 img: icons/person.svg
 type: being

@@ -17,7 +17,7 @@ name:
   aliases:
     - The Golden Flame
 shortcode: kaljekor
-folder: voxX57xvTC1eRnSO
+packFolder: citystates
 ---
 
 **meaning:** _The Golden Flame_

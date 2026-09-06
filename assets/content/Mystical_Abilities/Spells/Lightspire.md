@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Beacon
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster drives a fist toward the sky and a pillar of brilliant white light erupts from the point of impact, climbing hundreds of feet into the air before stabilizing as a steady, unwavering column visible for leagues in every direction. The spire sheds enough radiance to illuminate the surrounding area as though it were high noon, banishing shadows and rendering stealth within its compass nearly impossible. Its light is cool and steady, producing no heat, and it persists without further concentration once established.

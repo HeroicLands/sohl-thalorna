@@ -18,7 +18,7 @@ data:
     - xerathia
   population: null
 terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
-folder: CoHsV0UM8KUX7ytU
+packFolder: northernfertileregion
 ---
 
 The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]] — the face that [[place-xerathia|Xerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on Thalorna: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] to the west, [[affiliation-empirtkhpr|Ta'Kheperu]] anchored along its great river, and [[affiliation-okharis|Okháris]] to the south where the irrigated country gives way to savanna.

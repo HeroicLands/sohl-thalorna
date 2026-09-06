@@ -15,7 +15,7 @@ name:
   full: Hávamál
   aliases: []
 shortcode: havamal
-folder: 3JdV0mOrMUISPmRz
+packFolder: malagna
 ---
 
 # Hávamál

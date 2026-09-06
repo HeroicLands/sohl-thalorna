@@ -15,7 +15,7 @@ name:
   full: Zaristan
   aliases: []
 shortcode: zaristan
-folder: PUSPfoG6UdrnqPhK
+packFolder: amradad
 ---
 
 # Zaristan

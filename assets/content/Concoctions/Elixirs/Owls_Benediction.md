@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A deep midnight blue liquid that seems to absorb light rather than reflect it, held in a vial wrapped in cloth to dull its unsettling luminescence. Bound to the Principle of Light (Hydälis), this elixir grants the imbiber sight beyond mortal limits. Once drunk, the eyes adapt to darkness: the drinker can see normally in any light condition, from pitch black to twilight, projecting their vision outward to a distance of their current Aural Shock multiplied by five feet. The effect does not illuminate the area itself, so the imbiber can still hide within shadows while seeing clearly all around them.

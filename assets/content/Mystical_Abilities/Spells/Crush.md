@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Fist
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster clenches their fist and a massive construct of compressed metal forms above the target — a colossal fist, a falling hammer, a descending pillar of solid steel — and drops with devastating, earth-shaking force. The impact is catastrophic, cratering the ground, pulverizing stone, and crushing anything beneath it with the weight and momentum of several tons of solid metal. The concussive shockwave alone is sufficient to knock nearby individuals off their feet.

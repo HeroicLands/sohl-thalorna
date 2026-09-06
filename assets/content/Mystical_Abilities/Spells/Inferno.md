@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Cloak
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster enfolds themselves or a willing target in a raging sheath of magical flame, transforming them into a walking conflagration. Fire streams from every surface of the body — hair becomes a mane of flame, clothing burns without being consumed, and the ground chars beneath each footstep. The heat radiating from the affected individual is intense enough to warp metal at close range and ignite anything flammable within arm's reach.

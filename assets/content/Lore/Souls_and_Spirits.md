@@ -14,7 +14,7 @@ name:
     - The Spirit Realm
 subType: cosmology
 id: 4MHP68GuoaAZVOD9
-folder: t3p5qf6rZc8w0Nc4
+packFolder: settinglore
 shortcode: soulspirts
 ---
 

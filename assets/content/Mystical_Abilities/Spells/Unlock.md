@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Key
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster delves deep into the target's psyche, navigating past the familiar structures of conscious thought into the vast, uncharted territory of latent potential. With precise application of mental energy, the caster identifies dormant capabilities — suppressed talents, forgotten training, instinctive abilities that have never found expression — and creates pathways for them to reach conscious awareness. The target experiences a rush of sudden competence, as skills and understanding they never knew they possessed become available.

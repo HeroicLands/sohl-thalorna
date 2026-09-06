@@ -12,7 +12,7 @@ name:
   aliases:
     - Hilda Brigham
 id: iqh4gVJjrsMnTvnR
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: paturilmsh
 img: icons/person.svg
 type: being

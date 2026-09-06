@@ -11,7 +11,7 @@ name:
   home: Valdarheim
   aliases: []
 id: eDRKhmTUeFfr53qe
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: skfrnstrmrt
 img: icons/person.svg
 type: being

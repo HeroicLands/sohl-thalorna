@@ -12,7 +12,7 @@ name:
     - Runaskald
   home: null
 id: fB3q96RyjfMa9e6m
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: leifrnskld
 img: icons/person.svg
 type: being

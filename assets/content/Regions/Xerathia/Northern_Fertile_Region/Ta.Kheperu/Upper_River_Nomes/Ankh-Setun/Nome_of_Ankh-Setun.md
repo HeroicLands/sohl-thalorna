@@ -112,7 +112,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: DCVpoMWDdub9pwDR
+packFolder: ankhsetun
 ---
 
 # The Nome of Ankh-Setûn

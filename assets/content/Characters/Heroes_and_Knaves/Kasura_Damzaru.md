@@ -9,7 +9,7 @@ name:
   clan: Damzarû
   aliases: []
 id: nFRQMN4520J4jKHx
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: kasuradmzr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

@@ -94,7 +94,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Imperial Scribal Guild

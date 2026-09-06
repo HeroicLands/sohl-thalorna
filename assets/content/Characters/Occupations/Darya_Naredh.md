@@ -12,7 +12,7 @@ name:
   aliases:
     - Catrin Brightvoice
 id: 48Ju6NoPeO0D6StP
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: daryanardh
 img: icons/person.svg
 type: being

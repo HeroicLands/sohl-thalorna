@@ -11,7 +11,7 @@ name:
   home: Qasirah
   aliases: []
 id: CLSKx2YS5Xc26oaP
-folder: mtJ4TzKdySHbE2OM
+packFolder: heroesandknaveskalihara
 shortcode: sabirajira
 img: icons/person.svg
 type: being

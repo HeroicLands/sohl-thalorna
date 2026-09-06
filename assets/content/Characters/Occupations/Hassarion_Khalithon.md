@@ -11,7 +11,7 @@ name:
   aliases:
     - Lord Alaric Stormhaven
 id: 4fetzTUEHAXA0Kei
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: hsrnkhlthn
 img: icons/person.svg
 type: being

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Quill
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster enchants a writing instrument — quill, stylus, charcoal stick — and it springs to life, hovering above a prepared surface and transcribing with mechanical precision. The quill can be directed to record spoken words as they are uttered, taking faithful dictation at conversational speed. Alternatively, the caster can direct it mentally, inscribing their thoughts onto parchment without the need to speak or even to focus their full attention on the task.

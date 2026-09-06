@@ -15,7 +15,7 @@ name:
   full: Hrafnfjord
   aliases: []
 shortcode: hrafnfjord
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Hrafnfjord

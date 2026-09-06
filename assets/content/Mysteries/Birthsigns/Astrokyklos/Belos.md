@@ -36,7 +36,7 @@ sohl:
     "subType:social": 5
     water: 5
     hydalis: 5
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Belos, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.

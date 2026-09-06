@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: UkJzZsnWLtBPFX7T
-folder: kCKYObmsvraIezCd
+packFolder: dunharatribes
 shortcode: delnshfrdn
 img: icons/person.svg
 type: being

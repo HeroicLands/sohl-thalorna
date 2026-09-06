@@ -6,7 +6,7 @@ name:
   full: Vüshōk
   aliases: []
 shortcode: vushok
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Vüshōk

@@ -16,7 +16,7 @@ name:
   full: Thrymstead
   aliases: []
 shortcode: thrymstead
-folder: tUOAFxX25mViDE7q
+packFolder: nordheim
 ---
 
 # Thrymstead

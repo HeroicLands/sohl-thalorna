@@ -11,7 +11,7 @@ name:
   aliases:
     - Marcus Bloodbane
 id: BjpHAKRYlklfN3yN
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: syphrnsvrnls
 img: icons/person.svg
 type: being

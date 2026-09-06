@@ -12,7 +12,7 @@ name:
   aliases:
     - Alaric Greenshadow
 id: tKR69yz8TmeLS1Op
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: dmthmrthrn
 img: icons/person.svg
 type: being

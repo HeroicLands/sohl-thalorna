@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Birchwood
 id: XEDB0ULru2p17fr4
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: nulazizrsh
 img: icons/person.svg
 type: being

@@ -97,7 +97,7 @@ shortcode: astrokyklos
 img: null
 sohl:
   archetype: null
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes

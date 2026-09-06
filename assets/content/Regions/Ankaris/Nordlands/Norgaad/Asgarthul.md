@@ -16,7 +16,7 @@ name:
   full: Asgarthul
   aliases: []
 shortcode: asgarthul
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Asgarthul

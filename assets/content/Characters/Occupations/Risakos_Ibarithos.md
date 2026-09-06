@@ -11,7 +11,7 @@ name:
   aliases:
     - Osbert Kett
 id: do0cZuzren68K4Tu
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: risksbrths
 img: icons/person.svg
 type: being

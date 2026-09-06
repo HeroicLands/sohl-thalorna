@@ -10,7 +10,7 @@ name:
   home: Valdûn
   aliases: []
 id: 8VoyUIKJpLklwgC4
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: rnthrprdln
 img: icons/person.svg
 type: being

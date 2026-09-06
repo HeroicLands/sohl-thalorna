@@ -13,7 +13,7 @@ name:
     - the Weasel
     - Skathilda Frodban
 id: YDi8ZNGZXZN1gfUY
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: skthldfrdbn
 img: icons/person.svg
 type: being

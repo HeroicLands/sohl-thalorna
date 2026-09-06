@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Vapour
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster spreads both hands and exhales; moisture condenses from the surrounding air in an accelerating cascade, thickening within seconds into a dense, churning fog bank that swallows the terrain in a gray-white obscurity. Vision beyond arm's length becomes impossible, sound is muffled and directionless, and even the ground underfoot seems uncertain as familiar landmarks vanish into the murk. The mist clings to skin and armor, leaving everything damp and cold, and carries a faint ozone tang that marks it as unnatural to anyone with arcane training.

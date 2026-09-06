@@ -61,7 +61,7 @@ sohl:
       baseRangeBase: 40
       drawBase: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A hollow tube of wood or bone through which sharp darts are blown via lung power. Used by hunters stalking game and by assassins working in silence where crossbow or bow would draw notice, the blowgun favors stealth and poison over force. Darts pierce lightly but travel far enough for silent work at close quarters.

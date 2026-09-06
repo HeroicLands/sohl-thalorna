@@ -11,7 +11,7 @@ name:
   home: Tahrodan
   aliases: []
 id: Tep93UDYlLWAd6KL
-folder: V1t8DVX0wKSOCJd5
+packFolder: sultanateofamradad
 shortcode: rudavahfrd
 img: icons/person.svg
 type: being

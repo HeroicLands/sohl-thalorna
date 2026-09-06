@@ -17,7 +17,7 @@ name:
 shortcode: goddreams
 type: lore
 subType: deity
-folder: 6NICDnQl8B4GjvL7
+packFolder: pantheons
 ---
 
 # The God of Dreams

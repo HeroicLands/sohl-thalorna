@@ -12,7 +12,7 @@ name:
   aliases:
     - Elric Threadgold
 id: QPtDu7W7eaDNKgeI
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edmndwlfrd
 img: icons/person.svg
 type: being

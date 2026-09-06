@@ -20,7 +20,7 @@ name:
     - The Sacred Island
     - The First Mound
 shortcode: iattepy
-folder: 6HgEgHggm50Aphlq
+packFolder: capitalnome
 ---
 
 # Iat-Tepy — the Sacred Island

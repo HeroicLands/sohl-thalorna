@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Passage
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster plants both feet and thrusts arms skyward, summoning a column of uprushing wind powerful enough to lift armored warriors off the ground and carry them in a controlled arc over walls, chasms, or tangled terrain before setting them down gently on the far side. The wind-path is visible as a faint shimmering corridor, and those riding it feel a steady pressure beneath their feet as though standing on an invisible, moving floor. The sensation is eerie but stable, provided the caster's concentration holds.

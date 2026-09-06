@@ -10,7 +10,7 @@ name:
   home: Oasis of Shirvan
   aliases: []
 id: wjLn1VqrmO3CHSZU
-folder: heI5Ky6Kqmb61L6c
+packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn
 img: icons/person.svg
 type: being

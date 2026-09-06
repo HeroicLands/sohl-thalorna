@@ -12,7 +12,7 @@ name:
   aliases:
     - Mataké Isolde Brightshield
 id: UdLEkHOUNX1yj0Rp
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thrnlrkhld
 img: icons/person.svg
 type: being

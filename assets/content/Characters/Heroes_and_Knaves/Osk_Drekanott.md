@@ -10,7 +10,7 @@ name:
   home: Brúnvík
   aliases: []
 id: PGJWdx0sS4X1Q4cV
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: oskdrekant
 img: icons/person.svg
 type: being

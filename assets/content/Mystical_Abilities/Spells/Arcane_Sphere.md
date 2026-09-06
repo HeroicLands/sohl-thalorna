@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Bubble
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster speaks a word of absolute containment and a sphere of crystalline arcane force snaps into existence around the target, enclosing them in a perfect bubble of shimmering energy. The sphere is extraordinarily resilient, absorbing physical impacts, deflecting projectiles, and scattering hostile magic across its curved surface. It moves with the enclosed subject, maintaining its protective integrity regardless of terrain or circumstance.

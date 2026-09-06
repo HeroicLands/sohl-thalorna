@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedwin Longstride
 id: VVIZM5oForBFbyvQ
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: thebsghnds
 img: icons/person.svg
 type: being

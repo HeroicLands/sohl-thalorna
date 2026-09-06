@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Hastening
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster channels the explosive, consuming energy of fire into the target's body, and their metabolism surges. Heart rate accelerates, reflexes sharpen, and movements that normally take a full second compress into a fraction of that time. The target moves with a fluid, almost blurred quickness that makes them difficult to track and harder still to hit, their actions unfolding with the rapid, flickering quality of a flame dancing in wind.

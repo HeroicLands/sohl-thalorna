@@ -109,7 +109,7 @@ data:
     vylarinmpr: rival
 sohl:
   archetype: null
-folder: mCG1TPvjwrV23csZ
+packFolder: vrystwald
 ---
 
 ## Overview

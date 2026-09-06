@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A crystalline purple draft that sparkles with interior light, as if filled with finely ground amethyst dissolved in clear liquid. Bound to the Principle of Artifact (Neutral), Egosight grants the imbiber an uncanny connection to the will-bearing objects of the world. When the drinker touches a major artifact, they intuit its Ego and whether it suffers Ego Subversion—a corruption of its original purpose. Minor artifacts reveal themselves as such without their powers becoming known. And when the imbiber's fingers brush a major artifact of considerable will, they perceive that volition without knowing its precise strength.

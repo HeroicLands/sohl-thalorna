@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Distort
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster reaches into the structure of an existing magical effect and twists it, altering its apparent nature without changing its actual function. A protective ward might be made to resemble an offensive trap, causing intruders to hesitate. A tracking spell could be disguised as a simple enchantment, concealing the caster's surveillance. The alteration is cosmetic in the arcane sense — the magic's true function remains unchanged, but its signature reads differently to those who examine it.

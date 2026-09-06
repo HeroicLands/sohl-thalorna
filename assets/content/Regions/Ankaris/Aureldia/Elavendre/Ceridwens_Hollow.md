@@ -15,7 +15,7 @@ name:
   full: Ceridwen's Hollow
   aliases: []
 shortcode: cerdwnshlw
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # Ceridwen's Hollow

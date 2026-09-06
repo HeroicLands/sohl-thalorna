@@ -112,7 +112,7 @@ name:
     - Navy of Bethûa
 shortcode: bethuanflt
 img: null
-folder: Y64e5NGsp8OwZ6xQ
+packFolder: bethua
 ---
 
 # The Bethûan Fleet

@@ -106,7 +106,7 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-folder: kZkGNxVHbgGyhAHr
+packFolder: demonlords
 ---
 
 # Nüshöt — The Burning Dissolution

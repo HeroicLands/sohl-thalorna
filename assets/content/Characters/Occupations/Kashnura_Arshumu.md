@@ -11,7 +11,7 @@ name:
   aliases:
     - Edda Buckley
 id: EZAmggQBwBAD3UdR
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: kashnrrshm
 img: icons/person.svg
 type: being

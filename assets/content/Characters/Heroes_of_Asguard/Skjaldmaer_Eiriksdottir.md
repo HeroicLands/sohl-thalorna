@@ -13,7 +13,7 @@ name:
     - Skjaldmaer Eiriksdottir
   home: null
 id: NmwOdGbbT4nruZhH
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: skjldmrrksdtr
 img: icons/person.svg
 type: being

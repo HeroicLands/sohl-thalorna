@@ -101,7 +101,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: uMjCDTomEtc5Z0KV
+packFolder: pantheonsaureldian
 ---
 
 **Pronunciation:** _Aw-REL-dee-ahn_

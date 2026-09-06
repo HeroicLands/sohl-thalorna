@@ -11,7 +11,7 @@ name:
   aliases:
     - Althea Rosebloom
 id: NU5Mv17Kc03bfc8P
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: rimarushur
 img: icons/person.svg
 type: being

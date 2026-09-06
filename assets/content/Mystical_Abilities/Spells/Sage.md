@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Wisdom
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster enters a brief but intense meditative state, and the tangled complexity of their current situation suddenly simplifies. Irrelevant details fall away, core dynamics become apparent, and the likely consequences of various courses of action arrange themselves with unusual clarity. It is not prophecy or omniscience — the caster does not learn new facts — but rather a profound sharpening of judgment that allows them to see what they already know from the most productive perspective.

@@ -11,7 +11,7 @@ name:
   aliases:
     - Thrand Blackwood
 id: ddLEG62Hkd9Gf2le
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: ryldnbrnwyld
 img: icons/person.svg
 type: being

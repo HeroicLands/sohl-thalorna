@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Wavehand
 id: mZMi3qdPE3xJ7gT2
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: porenadhrl
 img: icons/person.svg
 type: being

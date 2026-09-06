@@ -14,7 +14,7 @@ name:
     - Religion (GM)
 subType: theology
 id: QWOuw6GkCEWwsRjO
-folder: t3p5qf6rZc8w0Nc4
+packFolder: settinglore
 shortcode: godsrelign
 ---
 

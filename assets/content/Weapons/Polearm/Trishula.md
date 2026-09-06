@@ -149,7 +149,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A three-pronged sacred polearm featuring symmetrical tines, the Trishula is both weapon and symbol of cosmic order. Its three prongs pierce and divide, making it effective for thrusting and binding; warriors prize it for both its battlefield virtue and its ceremonial prestige.

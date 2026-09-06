@@ -15,7 +15,6 @@ name:
     - Vedyaran Currency
     - Vedyaran Monetary System
 shortcode: vdyrnbnkng
-folder:
 ---
 
 # Vedyaran Banking

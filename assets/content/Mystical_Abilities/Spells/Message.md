@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Missive
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster forms a thought clearly in their mind — words, images, or emotional impressions — and projects it across the intervening distance to a specific individual whose mental signature they know. The message arrives in the recipient's consciousness as a clear internal voice, distinct from their own thoughts and immediately recognizable as external communication. Brief visual impressions or emotional tones can accompany the words, lending nuance that pure text cannot convey.

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Mould
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster takes hold of a piece of raw or worked metal and reshapes it as easily as a potter works wet clay. The metal flows under their touch, bending, stretching, compressing, and refining without the need for heat, hammering, or tools. A crude iron ingot can be sculpted into a finely detailed figurine. A damaged breastplate can have its dents smoothed and its shape restored. Raw ore can be drawn into wire, pressed into sheets, or formed into intricate mechanisms.

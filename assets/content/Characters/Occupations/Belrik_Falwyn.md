@@ -12,7 +12,7 @@ name:
   aliases:
     - Aldric Fallow
 id: OhbVrpoiVgRV5IfL
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: belrkflwyn
 img: icons/person.svg
 type: being

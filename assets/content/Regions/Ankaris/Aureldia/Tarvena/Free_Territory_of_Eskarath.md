@@ -110,7 +110,7 @@ data:
     kngdmlvndr: unaligned
 sohl:
   archetype: null
-folder: DB9rgGreD8FtqoBx
+packFolder: tarvenia
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)

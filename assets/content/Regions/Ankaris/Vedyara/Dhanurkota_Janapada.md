@@ -113,7 +113,7 @@ data:
 sohl:
   archetype: null
 terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.

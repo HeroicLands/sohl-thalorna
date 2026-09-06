@@ -61,7 +61,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 Four or five curved iron claws buckled across the knuckles, worn like a fist-pack for raking and tearing in close brawl. The curves are honed and wickedly sharp, designed to catch and rend flesh and light leather at close quarters. Favored by street fighters and ambushers who work without ransom or mercy.

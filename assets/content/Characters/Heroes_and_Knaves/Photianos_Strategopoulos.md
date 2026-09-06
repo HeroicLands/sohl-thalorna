@@ -10,7 +10,7 @@ name:
   home: Gümüşhisar
   aliases: []
 id: ZEGtH5NEBaA6gzHw
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: phtnstrtgpls
 img: icons/person.svg
 type: being

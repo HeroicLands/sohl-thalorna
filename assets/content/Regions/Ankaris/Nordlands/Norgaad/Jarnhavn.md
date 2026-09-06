@@ -17,7 +17,7 @@ name:
   full: Járnhavn
   aliases: []
 shortcode: jarnhavn
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Járnhavn

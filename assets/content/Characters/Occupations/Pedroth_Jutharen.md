@@ -11,7 +11,7 @@ name:
   aliases:
     - Thoran Blackstitch
 id: vW4yrW81Aq1fEbVI
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
 img: icons/person.svg
 type: being

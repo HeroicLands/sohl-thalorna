@@ -21,7 +21,7 @@ data:
     - ankrscntnnt
   population: null
 terran_analog: "Switzerland and the high-Alpine country of eastern France — the highland interior of Élavendre, including the Áelendan-sacred ranges that face Vylaria across the Cervaron Spine."
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 The **Áelendan Tribal Lands** are the mountainous interior of [[place-elavendre|Élavendre]] — a vast, lightly populated expanse of peaks, valleys, ancient forests, and sacred sites that the [[lore-aelendnppl|Áelendan]] have inhabited continuously since the earliest Pelwar settlement of the region. The Lands are not a polity in the lowland sense: there is no capital, no central administration, no marked border enforced by officials. What there is, instead, is an understood territory — recognized by the Crown, by the tribes themselves, and by anyone with sense — whose extent is defined by the geography of the interior and by the sacred sites of the Covenant.

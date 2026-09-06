@@ -12,7 +12,7 @@ name:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 id: VAuokF0eOIzfBP52
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
 img: icons/person.svg

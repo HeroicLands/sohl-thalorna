@@ -6,7 +6,7 @@ name:
   full: Shükrën
   aliases: []
 shortcode: shukren
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Shükrën

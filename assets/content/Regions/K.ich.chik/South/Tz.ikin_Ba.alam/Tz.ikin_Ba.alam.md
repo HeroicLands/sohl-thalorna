@@ -107,7 +107,7 @@ data:
 sohl:
   archetype: null
 terran_analog: Southern South America
-folder: uNATz0Iv2pqXLFmc
+packFolder: tzikinbaalam
 ---
 
 ## Overview

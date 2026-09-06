@@ -15,7 +15,7 @@ name:
   full: Golshahr
   aliases: []
 shortcode: golshahr
-folder: PUSPfoG6UdrnqPhK
+packFolder: amradad
 ---
 
 # Golshahr

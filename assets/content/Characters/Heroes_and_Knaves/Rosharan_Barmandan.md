@@ -11,7 +11,7 @@ name:
   home: Tahrodan
   aliases: []
 id: POk5Kke569heakuq
-folder: V1t8DVX0wKSOCJd5
+packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
 img: icons/person.svg
 type: being

@@ -105,7 +105,7 @@ data:
 sohl:
   archetype: null
 terran_analog: "Niger + Mali + Chad (the Sahel — pastoral savanna with temple-city trading centers)"
-folder: 7FEOBPGjB1skqAzO
+packFolder: okharis
 ---
 
 ## Overview

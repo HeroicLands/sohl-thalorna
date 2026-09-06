@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Rest
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster imposes an unnatural calm upon a body of water, or upon a restless target's body and mind. Choppy waves flatten to glass. A thrashing swimmer goes limp and floats peacefully. A panicking horse stills, its heaving flanks subsiding into steady breath. The spell enforces rest — not sleep, but a deep, pervading quietude that slows heartbeat, calms breathing, and stills trembling muscles.

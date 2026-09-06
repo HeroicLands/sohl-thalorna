@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Verity Elixir is perfectly transparent, yet seems to glow from within with clarifying light, and leaves the drinker's vision achingly sharp. Drawn from the Principle of Illusion (Hydälis), this elixir pierces deception and phantasm, granting the imbiber sight beyond sight. Any illusion directly affecting the drinker or appearing visually within sixty feet is revealed in full, stripped of its masking magic. The effect is immediate and automatic upon imbibing, requiring no action or test.

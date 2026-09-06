@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A luminous golden elixir that tastes of honey and old parchment, infused with the Principle of Knowledge (Pneuménos). When drunk, the imbiber's mind sharpens and clarifies. Their thoughts accelerate and connect with preternatural clarity, allowing them to grasp esoteric truths and penetrate knotted arguments. Successful tests in Lore Group skills, Reasoning, and Creativity are automatically treated as Critical Successes—the very die roll becomes blessed, the units place determined as if fortune itself smiled upon wisdom.

@@ -13,7 +13,7 @@ name:
     - The Silent Jackal
     - The Desert Wanderer
 id: Nm9WhaLkJEPn02Ho
-folder: kCKYObmsvraIezCd
+packFolder: dunharatribes
 shortcode: atenhershr
 img: icons/person.svg
 type: being

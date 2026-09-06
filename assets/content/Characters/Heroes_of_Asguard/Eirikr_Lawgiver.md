@@ -12,7 +12,7 @@ name:
     - Lawgiver
   home: null
 id: kJ8l5sMQNaJK9dzj
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: eirkrlwgvr
 img: icons/person.svg
 type: being

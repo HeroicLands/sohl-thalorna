@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 Keeper's Vow appears as a shimmering, pearl-like suspension that casts a faint luminescence, as though defensive power itself has been trapped in liquid form. When poured upon an object weighing no more than AS × 5 pounds, the elixir bonds with the item and fortifies it against arcane meddling. Any attempt by an attune or invoker to establish a psychometric connection to the object incurs a d10 roll against AS; success decreases the would-be connector's test result by one level of success and reduces the elixir's AS by 1.

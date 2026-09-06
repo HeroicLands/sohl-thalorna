@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: Tkx9NIQ0Wobtqn62
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sgrthrhfrngr
 img: icons/person.svg
 type: being

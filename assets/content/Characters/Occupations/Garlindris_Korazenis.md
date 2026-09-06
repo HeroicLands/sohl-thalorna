@@ -11,7 +11,7 @@ name:
   aliases:
     - Sir Cedric Loudvale
 id: 1FNA88rcSxnCC8p2
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: grlndrskrzns
 img: icons/person.svg
 type: being

@@ -16,7 +16,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: tjebu
-folder: 9wsmaBsHPmmto2k3
+packFolder: sauneferu
 ---
 
 # Tjebu

@@ -10,7 +10,7 @@ name:
   home: Járnhavn
   aliases: []
 id: PfkHxcqixrNhiLmM
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrstnjrnskl
 img: icons/person.svg
 type: being

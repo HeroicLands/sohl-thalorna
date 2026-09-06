@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A crystalline amber liquid that hisses faintly within its vial, producing a thin acidic vapor that stings the nostrils. The elixir is tied to the Principle of Metal (Sidéros), its alchemical essence distilled from minerals and corroded metals forged in arcane furnaces. When applied to a surface, each round of contact eats away at the target: a successful Aural Shock roll inflicts damage while the elixir's charge decays by 1, whether successful or not. Different substances resist unequally—weapons and armor bearing the brunt, flesh charring in burning wounds—and the effect persists until the Aural Shock is wholly consumed or the elixir is scraped away.

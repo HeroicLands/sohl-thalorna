@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Enquiry
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster locks eyes with the subject and projects a single, precisely formulated question directly into their consciousness. The question arrives not as words but as a compulsion to know — the subject's mind reflexively reaches for the answer like a hand reaching for a thrown ball, surfacing the relevant knowledge before conscious resistance can intervene. The caster perceives the answer as a flash of imagery, emotion, or understanding drawn from the subject's own experience.

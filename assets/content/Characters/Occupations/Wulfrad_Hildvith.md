@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Blastforge
 id: jvfLQj6wt9PSQziM
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: wlfrdhldvth
 img: icons/person.svg
 type: being

@@ -6,7 +6,7 @@ name:
   full: Zëisīk
   aliases: []
 shortcode: zeisik
-folder: jV7c6dJp4Ztnjtb3
+packFolder: tanvur
 ---
 
 # Zëisīk: The Ritual of Self-Death

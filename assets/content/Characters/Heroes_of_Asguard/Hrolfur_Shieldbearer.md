@@ -12,7 +12,7 @@ name:
     - Shieldbearer
   home: null
 id: 6sPufPIIO5wpeDbB
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrlfrshldbrr
 img: icons/person.svg
 type: being

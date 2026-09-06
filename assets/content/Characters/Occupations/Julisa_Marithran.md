@@ -12,7 +12,7 @@ name:
   aliases:
     - Sigrun Stoneheart
 id: KzTOAshzb9ukZ8ND
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: julsmrthrn
 img: icons/person.svg
 type: being

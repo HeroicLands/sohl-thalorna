@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: View
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster raises an open hand and pushes forward; a broad, invisible wave of compressed air rolls outward, sweeping smoke, fog, dust, and airborne particulates before it like a broom clearing cobwebs. In its wake the air is crystalline—colors sharpen, distant details snap into focus, and even faint heat-shimmers are stilled, as though the atmosphere itself has been polished to optical perfection. The zone of clarity persists for the spell's duration, resisting natural drift and the encroachment of surrounding obscurants.

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Reveal
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster's eyes take on a faint silvery sheen as they speak a word of unveiling, and the world shifts subtly in their perception. Illusions grow translucent, revealing the mundane reality beneath. Invisible creatures appear as faint outlines wreathed in the telltale shimmer of whatever magic conceals them. Hidden magical traps reveal themselves as pulsing knots of constrained energy, their trigger mechanisms laid bare.

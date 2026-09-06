@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Ironwood
 id: eRo7qYYOLQZ7mBhI
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
 img: icons/person.svg
 type: being

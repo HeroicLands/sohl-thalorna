@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: hgIqLSmNqE40fAra
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: lendspllgs
 img: icons/person.svg
 type: being

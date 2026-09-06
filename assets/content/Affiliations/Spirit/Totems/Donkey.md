@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.

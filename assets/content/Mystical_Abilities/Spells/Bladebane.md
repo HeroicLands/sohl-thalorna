@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Swordbreaker
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster focuses their will on an opponent's weapon and the metal responds — not to the wielder's hand but to the caster's command. The blade develops hairline fractures that spread like frost patterns across glass. The edge dulls and chips. At the critical moment of the next strike, the weakened weapon shatters, fragments of ruined metal scattering like broken ice. The failure appears entirely natural, indistinguishable from a flaw in the forging.

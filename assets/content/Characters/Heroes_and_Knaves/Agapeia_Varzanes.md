@@ -10,7 +10,7 @@ name:
   home: Kostaros
   aliases: []
 id: ek8aQBwT3vKbseKG
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: agapevrzns
 img: icons/person.svg
 type: being
