@@ -18,8 +18,8 @@ Natural creatures of Thalorna.
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "animal" AND package = "thalorna"
 ```
@@ -32,8 +32,8 @@ Golems are powerful, magical constructs animated by the mystical arts of skilled
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "construct"
 ```
@@ -46,8 +46,8 @@ Dreadspawn are unique creatures presumably formed as experiments by the gods of 
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "dreadspawn"
 ```
@@ -60,8 +60,8 @@ Physical manifestations of spirits from the astral realm that embody a single el
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "elemental"
 ```
@@ -168,8 +168,8 @@ Goblins are small, mischievous creatures known for their cunning, stealth, and g
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "goblin"
 ```
@@ -196,8 +196,8 @@ Between these poles lies the full range of undead existence. A soul ripped back 
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "helspawn"
 ```
@@ -210,8 +210,8 @@ Rare but fantastic creatures whose existence relies on arcane forces.
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "mythic"
 ```
@@ -224,8 +224,8 @@ Physical manifestations of spirits from the astral realm
 TABLE WITHOUT ID
   link(file.path, name.full) AS "Name",
   shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
+  sohl.system.body.weight.base AS "Weight",
+  sohl.system.body.bodyScaleBase AS "BodyScale",
   description AS "Description"
 WHERE type = "being" AND sohl.kbcat = "spirit"
 ```

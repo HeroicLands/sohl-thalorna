@@ -11,13 +11,14 @@ shortcode: slncbnd
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: hydalis
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: hydalis
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Hush
 packFolder: spells

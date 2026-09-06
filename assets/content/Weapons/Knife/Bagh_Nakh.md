@@ -10,57 +10,58 @@ shortcode: BghNkh
 type: weapongear
 sohl:
   kbcat: knife
-  durability: 10
-  weight: 0.5
-  value: 12
-  heft: 4
   weaponType: Knife
-  strikeModes:
-    cut:
-      type: melee
-      name: Rake
-      assocSkillCode: melee
-      minParts: 1
-      attack:
-        spread: 4
-        modifier: 0
-      impactBase:
-        numDice: 1
-        die: 6
-        modifier: 1
-        aspect: edged
-      traits:
-        meleeMod: 0
-        blockSLMod: 0
-        durabilityMod: 0
-        cxSLMod: 0
-        oppDef: 0
-        impTA: 2
-        AR: 0
-        noAttack: false
-        noBlock: false
-        entangle: false
-        envelop: false
-        couched: false
-        long: false
-        onlyInClose: true
-        shieldMod: 0
-        slow: false
-        thrust: false
-        swung: true
-        halfSword: false
-        bleed: true
-        twoHndLen: 0
-        shaft: false
-        pommel: false
-        noStrMod: false
-        halfImpact: false
-        lowAim: false
-      lengthBase: 1
-      defense:
-        blockMod: 0
-        counterstrikeMod: 0
   archetype: null
+  system:
+    weightBase: 0.5
+    valueBase: 12
+    durabilityBase: 10
+    heftBase: 4
+    strikeModes:
+      cut:
+        type: melee
+        name: Rake
+        assocSkillCode: melee
+        minParts: 1
+        attack:
+          spread: 4
+          modifier: 0
+        impactBase:
+          numDice: 1
+          die: 6
+          modifier: 1
+          aspect: edged
+        traits:
+          meleeMod: 0
+          blockSLMod: 0
+          durabilityMod: 0
+          cxSLMod: 0
+          oppDef: 0
+          impTA: 2
+          AR: 0
+          noAttack: false
+          noBlock: false
+          entangle: false
+          envelop: false
+          couched: false
+          long: false
+          onlyInClose: true
+          shieldMod: 0
+          slow: false
+          thrust: false
+          swung: true
+          halfSword: false
+          bleed: true
+          twoHndLen: 0
+          shaft: false
+          pommel: false
+          noStrMod: false
+          halfImpact: false
+          lowAim: false
+        lengthBase: 1
+        defense:
+          blockMod: 0
+          counterstrikeMod: 0
 packFolder: weapons
 ---
 

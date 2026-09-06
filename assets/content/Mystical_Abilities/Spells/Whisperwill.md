@@ -11,13 +11,14 @@ shortcode: whsprwll
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pneumenos
-  levelBase: 6
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pneumenos
+    masteryLevelBase: 0
+    levelBase: 6
+    charges:
+      value: null
+      max: null
 hmk:
   name: Suggestion
 packFolder: spells

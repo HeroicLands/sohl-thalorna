@@ -11,13 +11,14 @@ shortcode: message
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pneumenos
-  levelBase: 3
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pneumenos
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
 hmk:
   name: Missive
 packFolder: spells

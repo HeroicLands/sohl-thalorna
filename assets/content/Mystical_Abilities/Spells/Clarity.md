@@ -11,13 +11,14 @@ shortcode: clarity
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pneumenos
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pneumenos
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Insight
 packFolder: spells

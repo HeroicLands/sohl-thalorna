@@ -11,13 +11,14 @@ shortcode: healtch
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Balsam
 packFolder: spells

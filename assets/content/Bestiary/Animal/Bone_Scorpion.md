@@ -44,125 +44,6 @@ sohl:
     wil: 1d6+7
     rea: 1d4+3
     cre: 1d4+2
-  body:
-    structure:
-      zones:
-        - name: Cephalothorax
-          shortcode: cephzone
-          probWeight: 1
-        - name: Abdomen
-          shortcode: abdomenzone
-          probWeight: 1
-        - name: Legs
-          shortcode: legszone
-          probWeight: 1
-      parts:
-        - name: Cephalothorax
-          shortcode: cephpart
-          bodyZoneCode: cephzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Abdomen
-          shortcode: abdomenpart
-          bodyZoneCode: abdomenzone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Legs
-          shortcode: llegspart
-          bodyZoneCode: legszone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Legs
-          shortcode: rlegspart
-          bodyZoneCode: legszone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-      locations:
-        - name: Cephalothorax
-          shortcode: cephloc
-          bodyPartCode: cephpart
-          bleedingSusceptibility: low
-          amputability: none
-          shockValue: 4
-          probWeight: 7
-          protectionBase:
-            blunt: 7
-            edged: 6
-            piercing: 5
-            fire: 7
-        - name: Fangs
-          shortcode: fangloc
-          bodyPartCode: cephpart
-          bleedingSusceptibility: low
-          amputability: high
-          shockValue: 2
-          probWeight: 3
-          protectionBase:
-            blunt: 7
-            edged: 6
-            piercing: 5
-            fire: 7
-        - name: Abdomen
-          shortcode: abdloc
-          bodyPartCode: abdomenpart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 7
-            edged: 6
-            piercing: 5
-            fire: 7
-        - name: Left Legs
-          shortcode: llegsloc
-          bodyPartCode: llegspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 7
-            edged: 6
-            piercing: 5
-            fire: 7
-        - name: Right Legs
-          shortcode: rlegsloc
-          bodyPartCode: rlegspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 7
-            edged: 6
-            piercing: 5
-            fire: 7
-    weight:
-      base: 2
-      calc: "2"
-    reachBase: 0
-    bodyScaleBase: 1.22
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 30
-      leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
@@ -252,6 +133,124 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Cephalothorax
+            shortcode: cephzone
+            probWeight: 1
+          - name: Abdomen
+            shortcode: abdomenzone
+            probWeight: 1
+          - name: Legs
+            shortcode: legszone
+            probWeight: 1
+        parts:
+          - name: Cephalothorax
+            shortcode: cephpart
+            bodyZoneCode: cephzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Abdomen
+            shortcode: abdomenpart
+            bodyZoneCode: abdomenzone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Legs
+            shortcode: llegspart
+            bodyZoneCode: legszone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Legs
+            shortcode: rlegspart
+            bodyZoneCode: legszone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+        locations:
+          - name: Cephalothorax
+            shortcode: cephloc
+            bodyPartCode: cephpart
+            bleedingSusceptibility: low
+            amputability: none
+            shockValue: 4
+            probWeight: 7
+            protectionBase:
+              blunt: 7
+              edged: 6
+              piercing: 5
+              fire: 7
+          - name: Fangs
+            shortcode: fangloc
+            bodyPartCode: cephpart
+            bleedingSusceptibility: low
+            amputability: high
+            shockValue: 2
+            probWeight: 3
+            protectionBase:
+              blunt: 7
+              edged: 6
+              piercing: 5
+              fire: 7
+          - name: Abdomen
+            shortcode: abdloc
+            bodyPartCode: abdomenpart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 7
+              edged: 6
+              piercing: 5
+              fire: 7
+          - name: Left Legs
+            shortcode: llegsloc
+            bodyPartCode: llegspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 7
+              edged: 6
+              piercing: 5
+              fire: 7
+          - name: Right Legs
+            shortcode: rlegsloc
+            bodyPartCode: rlegspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 7
+              edged: 6
+              piercing: 5
+              fire: 7
+      weight:
+        base: 2
+        calc: "2"
+      reachBase: 0
+      bodyScaleBase: 1.22
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 30
+        leaguesPerWatch: 1
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}

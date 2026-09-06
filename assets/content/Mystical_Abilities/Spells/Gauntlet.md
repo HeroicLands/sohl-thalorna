@@ -10,13 +10,14 @@ shortcode: gauntlet
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Gauntlet
 packFolder: spells

@@ -44,127 +44,6 @@ sohl:
     wil: 1d6+9
     rea: 1d6+10
     cre: 1d6+9
-  body:
-    structure:
-      zones:
-        - name: Mantle
-          shortcode: mantlezone
-          probWeight: 4
-        - name: Head
-          shortcode: headzone
-          probWeight: 2
-        - name: Arms
-          shortcode: armszone
-          probWeight: 4
-      parts:
-        - name: Mantle
-          shortcode: mantlepart
-          bodyZoneCode: mantlezone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Arms
-          shortcode: larmspart
-          bodyZoneCode: armszone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Arms
-          shortcode: rarmspart
-          bodyZoneCode: armszone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-      locations:
-        - name: Mantle
-          shortcode: mantleloc
-          bodyPartCode: mantlepart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 7
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Beak
-          shortcode: beakloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: low
-          amputability: high
-          shockValue: 2
-          probWeight: 3
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Left Arms
-          shortcode: larmsloc
-          bodyPartCode: larmspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Right Arms
-          shortcode: rarmsloc
-          bodyPartCode: rarmspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-    weight:
-      base: 300
-      calc: "300"
-    reachBase: 0
-    bodyScaleBase: 1.43
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: aquatic
-      feetPerRound: 60
-      leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 19 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
@@ -253,6 +132,126 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Mantle
+            shortcode: mantlezone
+            probWeight: 4
+          - name: Head
+            shortcode: headzone
+            probWeight: 2
+          - name: Arms
+            shortcode: armszone
+            probWeight: 4
+        parts:
+          - name: Mantle
+            shortcode: mantlepart
+            bodyZoneCode: mantlezone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Arms
+            shortcode: larmspart
+            bodyZoneCode: armszone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Arms
+            shortcode: rarmspart
+            bodyZoneCode: armszone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+        locations:
+          - name: Mantle
+            shortcode: mantleloc
+            bodyPartCode: mantlepart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 7
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Beak
+            shortcode: beakloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: low
+            amputability: high
+            shockValue: 2
+            probWeight: 3
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Left Arms
+            shortcode: larmsloc
+            bodyPartCode: larmspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Right Arms
+            shortcode: rarmsloc
+            bodyPartCode: rarmspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+      weight:
+        base: 300
+        calc: "300"
+      reachBase: 0
+      bodyScaleBase: 1.43
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: aquatic
+        feetPerRound: 60
+        leaguesPerWatch: 4
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}

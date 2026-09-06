@@ -14,13 +14,14 @@ subType: elixir
 hmk:
   name: Poison
 sohl:
-  quality: 0
-  durability: 5
-  value: 0
-  weight: 0.25
-  potency: "na"
-  strength: 0
   archetype: null
+  system:
+    weightBase: 0.25
+    valueBase: 0
+    qualityBase: 0
+    durabilityBase: 5
+    potency: na
+    strength: 0
 packFolder: elixirs
 ---
 

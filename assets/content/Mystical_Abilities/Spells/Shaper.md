@@ -11,13 +11,14 @@ shortcode: shaper
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: sideros
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: sideros
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Mould
 packFolder: spells

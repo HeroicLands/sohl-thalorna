@@ -11,13 +11,14 @@ shortcode: murmur
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: zepharis
-  levelBase: 1
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: zepharis
+    masteryLevelBase: 0
+    levelBase: 1
+    charges:
+      value: null
+      max: null
 hmk:
   name: Whisper
 packFolder: spells

@@ -11,13 +11,14 @@ shortcode: repair
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: sideros
-  levelBase: 3
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: sideros
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
 hmk:
   name: Mend
 packFolder: spells

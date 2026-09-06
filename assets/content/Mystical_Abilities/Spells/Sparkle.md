@@ -11,13 +11,14 @@ shortcode: sparkle
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: zepharis
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: zepharis
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Motes
 packFolder: spells

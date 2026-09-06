@@ -12,30 +12,31 @@ subType: birthsign
 sohl:
   kbcat: birthsign
   archetype: 0
-  levelBase: 0
-  skillAptitudes:
-    "subType:nature": -5
-    earth: -5
-    physera: -5
-    "subType:script": -15
-    "subType:craft": -15
-    metal: -15
-    sideros: -15
-    "subType:combattechnique": -5
-    "subType:combat": -5
-    fire: -5
-    pyrethos: -5
-    "subType:physical": 5
-    air: 5
-    zepharis: 5
-    "subType:mystical": 15
-    "subType:lore": 15
-    spirit: 15
-    pneumenos: 15
-    "subType:language": 5
-    "subType:social": 5
-    water: 5
-    hydalis: 5
+  system:
+    levelBase: 0
+    skillAptitudes:
+      subType:nature: -5
+      earth: -5
+      physera: -5
+      subType:script: -15
+      subType:craft: -15
+      metal: -15
+      sideros: -15
+      subType:combattechnique: -5
+      subType:combat: -5
+      fire: -5
+      pyrethos: -5
+      subType:physical: 5
+      air: 5
+      zepharis: 5
+      subType:mystical: 15
+      subType:lore: 15
+      spirit: 15
+      pneumenos: 15
+      subType:language: 5
+      subType:social: 5
+      water: 5
+      hydalis: 5
 packFolder: astrokyklos
 ---
 

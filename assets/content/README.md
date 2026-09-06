@@ -55,9 +55,26 @@ type: weapongear
 sohl:
   archetype: null # required: a number if this is an archetype, null if not
   subType: melee # required on every subType-bearing type
+  system: # the compiled document's `system`, at the paths it stores
+    weightBase: 1.5
+    valueBase: 40
 packFolder: totems
 ---
 ```
+
+**A note's SoHL system fields go under `sohl.system`**, at the paths the compiled
+document actually stores — `weightBase`, not `weight`;
+`locations.flexible`, not `flexloc`. The block is a verbatim passthrough, so the
+note says what the document holds and a key the system does not declare is an
+error rather than a silent drop (#159). Everything else stays outside it:
+`archetype` and `subType` reach `system` through the declared shared mapping,
+`items` and `attributes` are generators that produce embedded documents rather
+than fields, and `kbcat` is a toolchain key.
+
+Content tables address the same fields, so a query naming one names it at the
+moved path too — `sohl.system.body.weight.base`, not `sohl.body.weight.base`. A
+column naming the old path resolves to nothing and renders em-dashes, and a
+`WHERE` clause naming it silently matches no rows.
 
 Three fields are load-bearing and easy to get wrong:
 

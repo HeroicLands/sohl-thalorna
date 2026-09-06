@@ -44,73 +44,6 @@ sohl:
     wil: 1d4+9
     rea: 1d6+6
     cre: 1d4+9
-  body:
-    structure:
-      zones:
-        - name: Core
-          shortcode: corezone
-          probWeight: 1
-        - name: Shroud
-          shortcode: shroudzone
-          probWeight: 2
-      parts:
-        - name: Core
-          shortcode: corepart
-          bodyZoneCode: corezone
-          roles:
-            - vital
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Shroud
-          shortcode: shroudpart
-          bodyZoneCode: shroudzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-      locations:
-        - name: Core
-          shortcode: coreloc
-          bodyPartCode: corepart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-        - name: Shroud
-          shortcode: shroudloc
-          bodyPartCode: shroudpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-    weight:
-      base: 0
-      calc: 0
-    reachBase: 0
-    bodyScaleBase: 0.81
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: aerial
-      feetPerRound: 50
-      leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
@@ -163,6 +96,72 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Core
+            shortcode: corezone
+            probWeight: 1
+          - name: Shroud
+            shortcode: shroudzone
+            probWeight: 2
+        parts:
+          - name: Core
+            shortcode: corepart
+            bodyZoneCode: corezone
+            roles:
+              - vital
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Shroud
+            shortcode: shroudpart
+            bodyZoneCode: shroudzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+        locations:
+          - name: Core
+            shortcode: coreloc
+            bodyPartCode: corepart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+          - name: Shroud
+            shortcode: shroudloc
+            bodyPartCode: shroudpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+      weight:
+        base: 0
+        calc: "0"
+      reachBase: 0
+      bodyScaleBase: 0.81
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: aerial
+        feetPerRound: 50
+        leaguesPerWatch: 3
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}

@@ -11,13 +11,14 @@ shortcode: audible
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: zepharis
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: zepharis
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Voice
 packFolder: spells

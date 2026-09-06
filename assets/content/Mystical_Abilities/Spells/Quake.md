@@ -11,13 +11,14 @@ shortcode: quake
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Tremor
 castingTime: 1 round

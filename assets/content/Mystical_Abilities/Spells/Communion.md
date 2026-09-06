@@ -11,13 +11,14 @@ shortcode: cmmnn
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: kentra
-  levelBase: 4
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: kentra
+    masteryLevelBase: 0
+    levelBase: 4
+    charges:
+      value: null
+      max: null
 hmk:
   name: Converse
 packFolder: spells

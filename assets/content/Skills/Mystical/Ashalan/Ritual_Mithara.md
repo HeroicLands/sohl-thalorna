@@ -11,13 +11,14 @@ name:
   aliases:
     - The World's First Light
 sohl:
-  skillBaseFormula: "@wil, @rea"
-  combatCategory: none
-  parentSkillCode: ""
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   archetype: null
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
 packFolder: ashalan
 ---
 

@@ -11,13 +11,14 @@ shortcode: smthflam
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: sideros
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: sideros
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Foundry
 packFolder: spells

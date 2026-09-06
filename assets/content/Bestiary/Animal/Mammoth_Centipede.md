@@ -44,126 +44,6 @@ sohl:
     wil: 1d6+8
     rea: 1d4+4
     cre: 1d4+3
-  body:
-    structure:
-      zones:
-        - name: Head
-          shortcode: headzone
-          probWeight: 2
-        - name: Forebody
-          shortcode: torsozone
-          probWeight: 5
-        - name: Hindbody
-          shortcode: hindbodyzone
-          probWeight: 3
-      parts:
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Forebody
-          shortcode: forebodypart
-          bodyZoneCode: torsozone
-          roles:
-            - core
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Hindbody
-          shortcode: hindbodypart
-          bodyZoneCode: hindbodyzone
-          roles:
-            - core
-            - locomotor
-          canHoldItem: false
-          probWeight: 6
-        - name: Tail
-          shortcode: tailpart
-          bodyZoneCode: hindbodyzone
-          roles: []
-          canHoldItem: false
-          probWeight: 4
-      locations:
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 4
-          protectionBase:
-            blunt: 6
-            edged: 5
-            piercing: 4
-            fire: 6
-        - name: Neck
-          shortcode: neckloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: high
-          amputability: low
-          shockValue: 5
-          probWeight: 6
-          protectionBase:
-            blunt: 6
-            edged: 5
-            piercing: 4
-            fire: 6
-        - name: Thorax
-          shortcode: thoraxloc
-          bodyPartCode: forebodypart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 6
-            edged: 5
-            piercing: 4
-            fire: 6
-        - name: Abdomen
-          shortcode: abdloc
-          bodyPartCode: hindbodypart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 6
-            edged: 5
-            piercing: 4
-            fire: 6
-        - name: Tail
-          shortcode: tailloc
-          bodyPartCode: tailpart
-          bleedingSusceptibility: none
-          amputability: high
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: 6
-            edged: 5
-            piercing: 4
-            fire: 6
-    weight:
-      base: 100
-      calc: "100"
-    reachBase: 0
-    bodyScaleBase: 1
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 40
-      leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
@@ -254,6 +134,125 @@ sohl:
           traits:
             noBlock: true
             constrict: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Head
+            shortcode: headzone
+            probWeight: 2
+          - name: Forebody
+            shortcode: torsozone
+            probWeight: 5
+          - name: Hindbody
+            shortcode: hindbodyzone
+            probWeight: 3
+        parts:
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Forebody
+            shortcode: forebodypart
+            bodyZoneCode: torsozone
+            roles:
+              - core
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Hindbody
+            shortcode: hindbodypart
+            bodyZoneCode: hindbodyzone
+            roles:
+              - core
+              - locomotor
+            canHoldItem: false
+            probWeight: 6
+          - name: Tail
+            shortcode: tailpart
+            bodyZoneCode: hindbodyzone
+            roles: []
+            canHoldItem: false
+            probWeight: 4
+        locations:
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 4
+            protectionBase:
+              blunt: 6
+              edged: 5
+              piercing: 4
+              fire: 6
+          - name: Neck
+            shortcode: neckloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: high
+            amputability: low
+            shockValue: 5
+            probWeight: 6
+            protectionBase:
+              blunt: 6
+              edged: 5
+              piercing: 4
+              fire: 6
+          - name: Thorax
+            shortcode: thoraxloc
+            bodyPartCode: forebodypart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 6
+              edged: 5
+              piercing: 4
+              fire: 6
+          - name: Abdomen
+            shortcode: abdloc
+            bodyPartCode: hindbodypart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 6
+              edged: 5
+              piercing: 4
+              fire: 6
+          - name: Tail
+            shortcode: tailloc
+            bodyPartCode: tailpart
+            bleedingSusceptibility: none
+            amputability: high
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: 6
+              edged: 5
+              piercing: 4
+              fire: 6
+      weight:
+        base: 100
+        calc: "100"
+      reachBase: 0
+      bodyScaleBase: 1
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 40
+        leaguesPerWatch: 2
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}

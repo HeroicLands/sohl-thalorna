@@ -11,13 +11,14 @@ shortcode: infuse
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: kentra
-  levelBase: 2
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: kentra
+    masteryLevelBase: 0
+    levelBase: 2
+    charges:
+      value: null
+      max: null
 hmk:
   name: Charge
 packFolder: spells

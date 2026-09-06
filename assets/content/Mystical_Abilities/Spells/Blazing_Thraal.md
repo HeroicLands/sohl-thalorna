@@ -10,13 +10,14 @@ shortcode: blzgthrl
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 6
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 6
+    charges:
+      value: null
+      max: null
 hmk:
   name: Fire Fiend
 packFolder: spells

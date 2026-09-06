@@ -11,13 +11,14 @@ shortcode: shift
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 3
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
 hmk:
   name: Warp
 packFolder: spells

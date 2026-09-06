@@ -14,13 +14,14 @@ name:
     - The Custodian of Lost Seals
     - The Seal-Thief
 sohl:
-  skillBaseFormula: "@wil, @rea"
-  combatCategory: none
-  parentSkillCode: ""
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   archetype: null
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
 packFolder: tengvokvanlei
 ---
 

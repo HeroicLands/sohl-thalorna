@@ -11,13 +11,14 @@ shortcode: overview
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pneumenos
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   archetype: null
+  system:
+    assocSkillCode: pneumenos
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Perspective
 packFolder: spells

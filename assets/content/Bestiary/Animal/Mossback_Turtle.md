@@ -44,200 +44,6 @@ sohl:
     wil: 1d6+9
     rea: 1d4+4
     cre: 1d4+2
-  body:
-    structure:
-      zones:
-        - name: Head
-          shortcode: headzone
-          probWeight: 3
-        - name: Shell
-          shortcode: shellzone
-          probWeight: 9
-        - name: Limbs
-          shortcode: limbzone
-          probWeight: 4
-      parts:
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Shell
-          shortcode: shellpart
-          bodyZoneCode: shellzone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Foreleg
-          shortcode: lforelegpart
-          bodyZoneCode: limbzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Foreleg
-          shortcode: rforelegpart
-          bodyZoneCode: limbzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-        - name: Left Hind Leg
-          shortcode: lhindlegpart
-          bodyZoneCode: limbzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Hind Leg
-          shortcode: rhindlegpart
-          bodyZoneCode: limbzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 5
-        - name: Tail
-          shortcode: tailpart
-          bodyZoneCode: limbzone
-          roles: []
-          canHoldItem: false
-          probWeight: 2
-      locations:
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 6
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Neck
-          shortcode: neckloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: high
-          amputability: low
-          shockValue: 5
-          probWeight: 4
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Shell
-          shortcode: shellloc
-          bodyPartCode: shellpart
-          bleedingSusceptibility: low
-          amputability: none
-          shockValue: 4
-          probWeight: 7
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Underbelly
-          shortcode: underbellyloc
-          bodyPartCode: shellpart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 3
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Left Foreleg
-          shortcode: lforelegloc
-          bodyPartCode: lforelegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Right Foreleg
-          shortcode: rforelegloc
-          bodyPartCode: rforelegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Left Hind Leg
-          shortcode: lhindlegloc
-          bodyPartCode: lhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Right Hind Leg
-          shortcode: rhindlegloc
-          bodyPartCode: rhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-        - name: Tail
-          shortcode: tailloc
-          bodyPartCode: tailpart
-          bleedingSusceptibility: none
-          amputability: high
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: 11
-            edged: 10
-            piercing: 9
-            fire: 11
-    weight:
-      base: 500
-      calc: "500"
-    reachBase: 0
-    bodyScaleBase: 1.22
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 15
-      leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-    - medium: aquatic
-      feetPerRound: 40
-      leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
@@ -326,6 +132,198 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Head
+            shortcode: headzone
+            probWeight: 3
+          - name: Shell
+            shortcode: shellzone
+            probWeight: 9
+          - name: Limbs
+            shortcode: limbzone
+            probWeight: 4
+        parts:
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Shell
+            shortcode: shellpart
+            bodyZoneCode: shellzone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Foreleg
+            shortcode: lforelegpart
+            bodyZoneCode: limbzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Foreleg
+            shortcode: rforelegpart
+            bodyZoneCode: limbzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+          - name: Left Hind Leg
+            shortcode: lhindlegpart
+            bodyZoneCode: limbzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Hind Leg
+            shortcode: rhindlegpart
+            bodyZoneCode: limbzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 5
+          - name: Tail
+            shortcode: tailpart
+            bodyZoneCode: limbzone
+            roles: []
+            canHoldItem: false
+            probWeight: 2
+        locations:
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 6
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Neck
+            shortcode: neckloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: high
+            amputability: low
+            shockValue: 5
+            probWeight: 4
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Shell
+            shortcode: shellloc
+            bodyPartCode: shellpart
+            bleedingSusceptibility: low
+            amputability: none
+            shockValue: 4
+            probWeight: 7
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Underbelly
+            shortcode: underbellyloc
+            bodyPartCode: shellpart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 3
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Left Foreleg
+            shortcode: lforelegloc
+            bodyPartCode: lforelegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Right Foreleg
+            shortcode: rforelegloc
+            bodyPartCode: rforelegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Left Hind Leg
+            shortcode: lhindlegloc
+            bodyPartCode: lhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Right Hind Leg
+            shortcode: rhindlegloc
+            bodyPartCode: rhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+          - name: Tail
+            shortcode: tailloc
+            bodyPartCode: tailpart
+            bleedingSusceptibility: none
+            amputability: high
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: 11
+              edged: 10
+              piercing: 9
+              fire: 11
+      weight:
+        base: 500
+        calc: "500"
+      reachBase: 0
+      bodyScaleBase: 1.22
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 15
+        leaguesPerWatch: 1
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
+      - medium: aquatic
+        feetPerRound: 40
+        leaguesPerWatch: 3
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}

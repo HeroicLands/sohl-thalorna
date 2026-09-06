@@ -49,273 +49,6 @@ sohl:
     cre: 1d6+10
     emp: 1d6+10
     elo: 1d6+14
-  body:
-    structure:
-      zones:
-        - name: Head
-          shortcode: headzone
-          probWeight: 16
-        - name: Forelegs
-          shortcode: forelegszone
-          probWeight: 16
-        - name: Left Wing
-          shortcode: lwingzone
-          probWeight: 12
-        - name: Torso
-          shortcode: torsozone
-          probWeight: 16
-        - name: Right Wing
-          shortcode: rwingzone
-          probWeight: 12
-        - name: Hindquarters
-          shortcode: hindqtrzone
-          probWeight: 16
-        - name: Tail
-          shortcode: tailzone
-          probWeight: 12
-      parts:
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Foreleg
-          shortcode: lforelegpart
-          bodyZoneCode: forelegszone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 1
-        - name: Right Foreleg
-          shortcode: rforelegpart
-          bodyZoneCode: forelegszone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 1
-        - name: Left Wing
-          shortcode: lwingpart
-          bodyZoneCode: lwingzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Torso
-          shortcode: torsopart
-          bodyZoneCode: torsozone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Right Wing
-          shortcode: rwingpart
-          bodyZoneCode: rwingzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Hind Leg
-          shortcode: lhindlegpart
-          bodyZoneCode: hindqtrzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 1
-        - name: Right Hind Leg
-          shortcode: rhindlegpart
-          bodyZoneCode: hindqtrzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 1
-        - name: Tail
-          shortcode: tailpart
-          bodyZoneCode: tailzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-      locations:
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 3
-          protectionBase: &a1
-            blunt: 28
-            edged: 30
-            piercing: 29
-            fire: 27
-        - name: Neck
-          shortcode: neckloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: high
-          amputability: low
-          shockValue: 5
-          probWeight: 7
-          protectionBase: *a1
-        - name: Left Foreleg
-          shortcode: lforelegloc
-          bodyPartCode: lforelegpart
-          bleedingSusceptibility: medium
-          amputability: medium
-          shockValue: 3
-          probWeight: 7
-          protectionBase: &a2
-            blunt: 28
-            edged: 30
-            piercing: 29
-            fire: 27
-        - name: Left Fore Foot
-          shortcode: lfftloc
-          bodyPartCode: lforelegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 3
-          protectionBase: &a3
-            blunt: 26
-            edged: 28
-            piercing: 27
-            fire: 25
-        - name: Right Foreleg
-          shortcode: rforelegloc
-          bodyPartCode: rforelegpart
-          bleedingSusceptibility: medium
-          amputability: medium
-          shockValue: 3
-          probWeight: 7
-          protectionBase: *a2
-        - name: Right Fore Foot
-          shortcode: rfftloc
-          bodyPartCode: rforelegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 3
-          protectionBase: *a3
-        - name: Left Wing
-          shortcode: lwingloc
-          bodyPartCode: lwingpart
-          bleedingSusceptibility: none
-          amputability: low
-          shockValue: 1
-          probWeight: 10
-          protectionBase: &a5
-            blunt: 22
-            edged: 24
-            piercing: 23
-            fire: 21
-        - name: Thorax
-          shortcode: thoraxloc
-          bodyPartCode: torsopart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 7
-          protectionBase: &a4
-            blunt: 28
-            edged: 30
-            piercing: 29
-            fire: 27
-        - name: Abdomen
-          shortcode: abdloc
-          bodyPartCode: torsopart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 3
-          protectionBase: *a4
-        - name: Right Wing
-          shortcode: rwingloc
-          bodyPartCode: rwingpart
-          bleedingSusceptibility: none
-          amputability: low
-          shockValue: 1
-          probWeight: 10
-          protectionBase: *a5
-        - name: Left Hind Leg
-          shortcode: lhindlegloc
-          bodyPartCode: lhindlegpart
-          bleedingSusceptibility: medium
-          amputability: low
-          shockValue: 3
-          probWeight: 7
-          protectionBase: &a6
-            blunt: 28
-            edged: 30
-            piercing: 29
-            fire: 27
-        - name: Left Hind Foot
-          shortcode: lhftloc
-          bodyPartCode: lhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 3
-          protectionBase: &a7
-            blunt: 26
-            edged: 28
-            piercing: 27
-            fire: 25
-        - name: Right Hind Leg
-          shortcode: rhindlegloc
-          bodyPartCode: rhindlegpart
-          bleedingSusceptibility: medium
-          amputability: low
-          shockValue: 3
-          probWeight: 7
-          protectionBase: *a6
-        - name: Right Hind Foot
-          shortcode: rhftloc
-          bodyPartCode: rhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 3
-          protectionBase: *a7
-        - name: Tail
-          shortcode: tailloc
-          bodyPartCode: tailpart
-          bleedingSusceptibility: none
-          amputability: medium
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: 26
-            edged: 28
-            piercing: 27
-            fire: 25
-    weight:
-      base: 8000
-      calc: "8000"
-    reachBase: 0
-    bodyScaleBase: 3.01
-    personalFatigue: enc + 5
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 60
-      leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-    - medium: aerial
-      feetPerRound: 180
-      leaguesPerWatch: 18
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
-      factors: []
-      disabled: false
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 60 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 45 } }
@@ -474,6 +207,271 @@ sohl:
           traits:
             breath: true
             impactBands: 19 · 15 · 11 · 7
+  system:
+    body:
+      structure:
+        zones:
+          - name: Head
+            shortcode: headzone
+            probWeight: 16
+          - name: Forelegs
+            shortcode: forelegszone
+            probWeight: 16
+          - name: Left Wing
+            shortcode: lwingzone
+            probWeight: 12
+          - name: Torso
+            shortcode: torsozone
+            probWeight: 16
+          - name: Right Wing
+            shortcode: rwingzone
+            probWeight: 12
+          - name: Hindquarters
+            shortcode: hindqtrzone
+            probWeight: 16
+          - name: Tail
+            shortcode: tailzone
+            probWeight: 12
+        parts:
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Foreleg
+            shortcode: lforelegpart
+            bodyZoneCode: forelegszone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 1
+          - name: Right Foreleg
+            shortcode: rforelegpart
+            bodyZoneCode: forelegszone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 1
+          - name: Left Wing
+            shortcode: lwingpart
+            bodyZoneCode: lwingzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Torso
+            shortcode: torsopart
+            bodyZoneCode: torsozone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Right Wing
+            shortcode: rwingpart
+            bodyZoneCode: rwingzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Hind Leg
+            shortcode: lhindlegpart
+            bodyZoneCode: hindqtrzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 1
+          - name: Right Hind Leg
+            shortcode: rhindlegpart
+            bodyZoneCode: hindqtrzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 1
+          - name: Tail
+            shortcode: tailpart
+            bodyZoneCode: tailzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+        locations:
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 3
+            protectionBase: &a1
+              blunt: 28
+              edged: 30
+              piercing: 29
+              fire: 27
+          - name: Neck
+            shortcode: neckloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: high
+            amputability: low
+            shockValue: 5
+            probWeight: 7
+            protectionBase: *a1
+          - name: Left Foreleg
+            shortcode: lforelegloc
+            bodyPartCode: lforelegpart
+            bleedingSusceptibility: medium
+            amputability: medium
+            shockValue: 3
+            probWeight: 7
+            protectionBase: &a2
+              blunt: 28
+              edged: 30
+              piercing: 29
+              fire: 27
+          - name: Left Fore Foot
+            shortcode: lfftloc
+            bodyPartCode: lforelegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 3
+            protectionBase: &a3
+              blunt: 26
+              edged: 28
+              piercing: 27
+              fire: 25
+          - name: Right Foreleg
+            shortcode: rforelegloc
+            bodyPartCode: rforelegpart
+            bleedingSusceptibility: medium
+            amputability: medium
+            shockValue: 3
+            probWeight: 7
+            protectionBase: *a2
+          - name: Right Fore Foot
+            shortcode: rfftloc
+            bodyPartCode: rforelegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 3
+            protectionBase: *a3
+          - name: Left Wing
+            shortcode: lwingloc
+            bodyPartCode: lwingpart
+            bleedingSusceptibility: none
+            amputability: low
+            shockValue: 1
+            probWeight: 10
+            protectionBase: &a5
+              blunt: 22
+              edged: 24
+              piercing: 23
+              fire: 21
+          - name: Thorax
+            shortcode: thoraxloc
+            bodyPartCode: torsopart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 7
+            protectionBase: &a4
+              blunt: 28
+              edged: 30
+              piercing: 29
+              fire: 27
+          - name: Abdomen
+            shortcode: abdloc
+            bodyPartCode: torsopart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 3
+            protectionBase: *a4
+          - name: Right Wing
+            shortcode: rwingloc
+            bodyPartCode: rwingpart
+            bleedingSusceptibility: none
+            amputability: low
+            shockValue: 1
+            probWeight: 10
+            protectionBase: *a5
+          - name: Left Hind Leg
+            shortcode: lhindlegloc
+            bodyPartCode: lhindlegpart
+            bleedingSusceptibility: medium
+            amputability: low
+            shockValue: 3
+            probWeight: 7
+            protectionBase: &a6
+              blunt: 28
+              edged: 30
+              piercing: 29
+              fire: 27
+          - name: Left Hind Foot
+            shortcode: lhftloc
+            bodyPartCode: lhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 3
+            protectionBase: &a7
+              blunt: 26
+              edged: 28
+              piercing: 27
+              fire: 25
+          - name: Right Hind Leg
+            shortcode: rhindlegloc
+            bodyPartCode: rhindlegpart
+            bleedingSusceptibility: medium
+            amputability: low
+            shockValue: 3
+            probWeight: 7
+            protectionBase: *a6
+          - name: Right Hind Foot
+            shortcode: rhftloc
+            bodyPartCode: rhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 3
+            protectionBase: *a7
+          - name: Tail
+            shortcode: tailloc
+            bodyPartCode: tailpart
+            bleedingSusceptibility: none
+            amputability: medium
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: 26
+              edged: 28
+              piercing: 27
+              fire: 25
+      weight:
+        base: 8000
+        calc: "8000"
+      reachBase: 0
+      bodyScaleBase: 3.01
+      personalFatigue: enc + 5
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 60
+        leaguesPerWatch: 3
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
+      - medium: aerial
+        feetPerRound: 180
+        leaguesPerWatch: 18
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
+        disabled: false
 ---
 
 # Appearance {#appearance}
