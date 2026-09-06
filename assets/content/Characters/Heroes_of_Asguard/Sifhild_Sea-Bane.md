@@ -12,7 +12,7 @@ name:
     - Sea-Bane
   home: null
 id: EOvIik9nMOMWRORv
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sifhildsbn
 img: icons/person.svg
 type: being

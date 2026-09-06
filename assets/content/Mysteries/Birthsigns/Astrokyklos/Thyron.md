@@ -36,7 +36,7 @@ sohl:
     "subType:social": -15
     water: -15
     hydalis: -15
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Thyron, the Gate, is the warrior's star. Its natives are born to the blade and the martial disciplines, hardy of body, though the sign grants them little gift for tongues, courts, or the study of wild places.

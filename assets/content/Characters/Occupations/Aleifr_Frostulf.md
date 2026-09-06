@@ -11,7 +11,7 @@ name:
   aliases:
     - Garron Oakleaf
 id: zAUguBuQqx9jR7Ee
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: alfrfrstlf
 img: icons/person.svg
 type: being

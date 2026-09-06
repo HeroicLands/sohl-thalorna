@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Wall
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws a line with their hand and a curtain of roaring flame erupts along it, rising from floor to ceiling — or from ground to twice a man's height in the open. The wall burns with ferocious intensity, its heat sufficient to blister exposed skin from several paces away and to ignite anything flammable that comes within arm's reach. Passing through the wall is possible but agonizing, requiring either magical protection or a willingness to suffer severe burns.

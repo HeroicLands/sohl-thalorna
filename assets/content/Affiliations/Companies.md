@@ -2,7 +2,7 @@
 tags: []
 type: doc
 subType: reference
-folder: bVhz4i3fwwT0NDSW
+packFolder: politiescompanies
 id: BQnufPtiIE5BNAeX
 name:
   full: Companies

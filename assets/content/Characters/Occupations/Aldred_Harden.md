@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Goldleaf
 id: pTjsBaNwpKAlQQfH
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: aldredhrdn
 img: icons/person.svg
 type: being

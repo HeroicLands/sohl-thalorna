@@ -11,7 +11,7 @@ name:
   aliases:
     - Bram Hollowhill
 id: JWIyD7u3mSpKyo2X
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edriclvrtn
 img: icons/person.svg
 type: being

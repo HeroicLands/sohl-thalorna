@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Pocket
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster presses both palms together and then draws them apart, stretching a membrane of compressed air into a translucent bubble that seals around the designated subject. Inside, the air is clean, dry, and pleasantly temperate regardless of external conditions—a pocket of calm amid choking smoke, toxic fumes, or the crushing pressure of deep water. The bubble admits light freely, so visibility is unimpaired, and its surface flexes slightly with movement, permitting the occupant to walk, swim, or climb without restriction.

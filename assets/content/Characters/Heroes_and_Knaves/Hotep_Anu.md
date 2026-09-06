@@ -12,7 +12,7 @@ name:
   aliases:
     - The Exiled Priest
 id: 0qmKGuY7koJIp6Qc
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
 img: icons/person.svg

@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 Deep crimson as fresh blood mixed with wine, this concentrated preparation seems to pulse with vitality in its crystal vial. The perfume that rises from the stopper is intoxicating—night-blooming jasmine, sweet amber, and the exotic warmth of distant spices all layered into a single breath-stealing note. Even a small sip floods the mouth with silken heat; the sensation spreads with startling speed through the body, raising the skin's temperature and quickening the heartbeat. The drinker's pupils dilate, and an almost visible aura of magnetism seems to gather around them.

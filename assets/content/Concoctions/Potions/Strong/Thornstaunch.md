@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 Deep maroon, almost black, this concentrated coagulant has the stiffness of pine resin, requiring warming between the hands to make it malleable enough to apply. The smell is sharper than mild coagulant—iron and crushed herbs dominant, but layered with something chemical and potent, the scent of real alchemical intervention. When pressed against a wound, the paste seems to grip the injury immediately, sealing it almost aggressively, and the surrounding flesh visibly pales and tightens as the coagulation forces blood inward and clotting forward.

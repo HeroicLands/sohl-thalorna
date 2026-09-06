@@ -11,7 +11,7 @@ name:
   aliases:
     - Grimwald Thickhide
 id: FT6Ce5fuMjeirNOL
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: mmdrsghrds
 img: icons/person.svg
 type: being

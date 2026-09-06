@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynna Highfield
 id: WKyEa8wtWy2591AI
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: estrsnrcth
 img: icons/person.svg
 type: being

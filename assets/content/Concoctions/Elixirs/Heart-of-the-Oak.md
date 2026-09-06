@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Might Elixir presents as a dense, amber liquid that seems to vibrate faintly in the vial, muscles of raw power coiled within its depth. When swallowed, the imbiber's frame suffuses with unprecedented strength; their Strength score surges by four points, with corresponding gains to Impact Modifier, Heft, Bow Draw, and Encumbrance. The surge is not subtle—limbs feel heavier, movements more forceful, every exertion freighted with potential.

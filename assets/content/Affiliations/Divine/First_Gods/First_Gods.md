@@ -100,7 +100,7 @@ data:
     thekindred: aligned
 sohl:
   archetype: null
-folder: w9xJ9t5nQB0ajETq
+packFolder: pantheonsfirstgods
 ---
 
 # The First Gods

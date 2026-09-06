@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Deepdelver
 id: XqTCnNsS6Fmhi2eC
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: edrgrsndryth
 img: icons/person.svg
 type: being

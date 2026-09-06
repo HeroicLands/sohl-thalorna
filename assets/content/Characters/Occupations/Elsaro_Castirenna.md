@@ -11,7 +11,7 @@ name:
   aliases:
     - Kael Shadowblade
 id: 3Xd3PvrhZxB4zVC5
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: elsarcstrn
 img: icons/person.svg
 type: being

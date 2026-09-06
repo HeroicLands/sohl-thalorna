@@ -9,7 +9,7 @@ name:
   clan: Serentia
   aliases: []
 id: O6Vbzwn11PRRijsS
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: cibelasrnt
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

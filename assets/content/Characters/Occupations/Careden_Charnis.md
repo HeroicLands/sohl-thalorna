@@ -11,7 +11,7 @@ name:
   aliases:
     - Korga Stoneseer
 id: PGzR1Iv8bh4qlL9q
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: cardnchrns
 img: icons/person.svg
 type: being

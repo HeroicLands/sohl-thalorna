@@ -13,7 +13,7 @@ name:
     - Sigvardr One-Hand
   home: null
 id: d19oZWzJXH9Soxub
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sgvrdrnhnd
 img: icons/person.svg
 type: being

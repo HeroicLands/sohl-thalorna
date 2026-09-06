@@ -13,7 +13,7 @@ name:
     - Svartrúnar
   home: null
 id: Ps4lfDePe0mQJBIZ
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: grmsvrtrnr
 img: icons/person.svg
 type: being

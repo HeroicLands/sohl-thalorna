@@ -11,7 +11,7 @@ name:
   aliases:
     - Elric Hawkeye
 id: 2kvASFsQ8z0WJcDf
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: slmndrblthl
 img: icons/person.svg
 type: being

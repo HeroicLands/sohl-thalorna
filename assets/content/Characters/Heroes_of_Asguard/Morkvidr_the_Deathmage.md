@@ -13,7 +13,7 @@ name:
     - the Deathmage
   home: null
 id: nuBxrco7vFWAzASM
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: mrkvdrdthmg
 img: icons/person.svg
 type: being

@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A milky white or pale gray liquid that smells faintly of lavender, chamomile, and valerian—the scents of an herbalist's sleep remedy. The potion coats the cup or glass with a faint residue. When tasted, it is bitter but not unpleasant, with subtle floral notes that soften the flavor. Those who drink it often report a heaviness in the limbs almost immediately, and a drowsiness that becomes impossible to resist. Mothers use this potion to help fretful infants sleep through the night; physicians use it before setting bones or lancing wounds.

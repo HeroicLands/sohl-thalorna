@@ -11,7 +11,7 @@ name:
   aliases:
     - Sera Nightshade
 id: XsTnSTFuEwJ77YUr
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: rdrnvthrnd
 img: icons/person.svg
 type: being

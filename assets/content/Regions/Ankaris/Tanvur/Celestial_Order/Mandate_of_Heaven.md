@@ -6,7 +6,7 @@ name:
   full: Mandate of Heaven
   aliases: []
 shortcode: mandatehvn
-folder: hBkQzhJeB05EwziN
+packFolder: celestialorder
 ---
 
 # The Mandate of Heaven (Tëngvōr)

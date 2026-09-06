@@ -11,7 +11,7 @@ name:
   aliases:
     - Khatah Meykhari
 id: 0qJU1wsLVPDSxsZm
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
 img: icons/person.svg

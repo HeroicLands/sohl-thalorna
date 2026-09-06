@@ -104,7 +104,7 @@ data:
     varakpnthn: aligned
 sohl:
   archetype: null
-folder: dxzsTyaF4LMapIJX
+packFolder: pantheonsvarnaka
 ---
 
 # Kālavrata — The Gatekeeper of Death

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Fever
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster reaches into the target's body and accelerates the thermal processes within, driving their core temperature upward at a rate the body's natural cooling mechanisms cannot match. The victim's skin flushes, sweat pours in rivulets, and the air around them seems to shimmer with escaping heat. Dizziness, nausea, and confusion set in as the brain struggles to function at elevated temperature, and muscles cramp and weaken as the body's systems begin to fail.

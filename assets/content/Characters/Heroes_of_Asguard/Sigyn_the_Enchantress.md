@@ -12,7 +12,7 @@ name:
     - the Enchantress
   home: null
 id: p1AKpLn5kKnmJ9rU
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sgynnchntrs
 img: icons/person.svg
 type: being

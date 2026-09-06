@@ -15,7 +15,7 @@ name:
   full: Lentora
   aliases: []
 shortcode: lentora
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 # Lentora

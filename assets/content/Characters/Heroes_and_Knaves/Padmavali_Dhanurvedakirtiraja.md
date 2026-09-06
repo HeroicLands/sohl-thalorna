@@ -10,7 +10,7 @@ name:
   home: Suvarṇagiri
   aliases: []
 id: oWXEiRFuiXNLGHa9
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
 img: icons/person.svg
 type: being

@@ -111,7 +111,7 @@ data:
     ymir: aligned
 sohl:
   archetype: null
-folder: cFyVbOx7bj35ZyPA
+packFolder: pantheonsasguardian
 ---
 
 # Asguardian Pantheon

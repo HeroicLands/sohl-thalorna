@@ -11,7 +11,7 @@ name:
   aliases:
     - Fiona Brightwater
 id: xe9HIGYGJby3EcOy
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: azitrkhrds
 img: icons/person.svg
 type: being

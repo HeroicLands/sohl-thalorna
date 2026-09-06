@@ -11,7 +11,7 @@ name:
   aliases:
     - Tovan Greenfist
 id: 6sChDStSz8rGIFCf
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: cthbrtshrwn
 img: icons/person.svg
 type: being

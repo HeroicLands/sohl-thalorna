@@ -11,7 +11,7 @@ name:
   aliases:
     - Gytha Craggs
 id: 8aRUhR4IWrXPvhsB
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: maudosgood
 img: icons/person.svg
 type: being

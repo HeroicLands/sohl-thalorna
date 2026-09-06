@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Fire Fiend
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster hurls a mass of concentrated flame at the ground, and the fire coalesces into a living form — a creature of pure flame that stands roughly human-sized, its body a constantly shifting mass of white-hot fire wrapped in a shell of dancing orange. The thraal moves with terrifying speed and strikes with arms of compressed flame that deliver devastating burns on contact. Where it walks, it leaves smoldering footprints, and the air around it shimmers with heat distortion.

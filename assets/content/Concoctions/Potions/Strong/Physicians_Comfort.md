@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 Deep green, almost emerald, this concentrated curative has a consistency approaching thick cream and a smell that immediately triggers the memory of healing and recovery—crushed medicinal herbs, mineral compounds, and an underlying floral note that seems to promise relief. When applied to an injury, the paste cools dramatically, drawing the fever almost visibly out of inflamed tissue. Patients report that watching a serious wound treated with strong curative is like watching the injury improve in real time; swelling diminishes, discoloration fades, and the signs of active infection reverse themselves measurably within hours.

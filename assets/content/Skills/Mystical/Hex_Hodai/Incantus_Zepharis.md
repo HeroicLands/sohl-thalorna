@@ -17,7 +17,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: aSvW7yJDk7r76eTo
+packFolder: hexhodai
 ---
 
 See [[affiliation-zepharis|Eídma Zephäris]]

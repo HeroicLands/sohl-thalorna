@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Honeywood
 id: O2qGFq562dfOB1rc
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: sharushkdm
 img: icons/person.svg
 type: being

@@ -20,7 +20,7 @@ data:
     - ankrscntnnt
   population: null
 terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
-folder: yCT7BtuH6hMwWnob
+packFolder: nordlands
 ---
 
 The Nordlands are the frozen north of [[place-ankrscntnnt|Ankaris Continent]] — a region of jagged mountains, deep fjords, boreal forests, and glacier-fed rivers that together define the homeland of the **Normen**. Across five kinship-kingdoms bound by a shared language, pantheon, and seafaring tradition, the Normen make the Nordlands one of the most cohesive cultural regions on the continent: no imperial authority has ever ruled here, and none is expected to.

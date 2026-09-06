@@ -12,7 +12,7 @@ name:
   aliases:
     - The Desert Mystic
 id: xFeMlO6Esxer4BfX
-folder: heI5Ky6Kqmb61L6c
+packFolder: ankariskhazryndesert
 shortcode: narisahrvn
 img: icons/person.svg
 type: being

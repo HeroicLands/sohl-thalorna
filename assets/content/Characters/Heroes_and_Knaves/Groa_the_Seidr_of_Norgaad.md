@@ -12,7 +12,7 @@ name:
   aliases:
     - the Seiðr of Norgaad
 id: EjXww1TgpaxLD192
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: grosdrnrgd
 img: icons/person.svg
 type: being

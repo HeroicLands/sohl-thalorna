@@ -11,7 +11,7 @@ name:
   aliases:
     - Gwyneth Vane
 id: BlrDp37eCZ32JgdP
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: ovlynslthr
 img: icons/person.svg
 type: being

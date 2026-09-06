@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Malediction
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster fixes their gaze upon a target and speaks a word of diminishment, unleashing an insidious curse that settles over the victim like an invisible weight. The bane erodes the target's natural resilience to magical effects, thinning the innate protective barriers that all living things possess against arcane manipulation. Spells that would normally glance off the target's defenses now bite deeper, and effects that would fade quickly instead linger.

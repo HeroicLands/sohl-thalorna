@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Caecity
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 A knot of compressed light forms between the caster's palms, flickering with opalescent intensity before being hurled outward in a silent detonation. Every creature whose eyes are exposed to the burst suffers an immediate whiteout of vision as the optic humors are overwhelmed, leaving them stumbling, groping, and unable to distinguish friend from foe. The effect is physiological rather than illusory—no amount of willpower can force the dazzled eyes to resolve an image until the flooded light receptors recover on their own.

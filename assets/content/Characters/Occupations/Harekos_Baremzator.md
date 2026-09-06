@@ -11,7 +11,7 @@ name:
   aliases:
     - Elwood Strawbridge
 id: kMM9VThX0k9tgLb7
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: hrksbrmztr
 img: icons/person.svg
 type: being

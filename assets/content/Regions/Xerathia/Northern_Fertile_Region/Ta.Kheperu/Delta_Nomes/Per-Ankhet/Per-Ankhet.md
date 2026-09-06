@@ -17,7 +17,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: perankhet
-folder: hY8ShSjfUm9QnlGu
+packFolder: perankhet
 ---
 
 # Per-Ankhet

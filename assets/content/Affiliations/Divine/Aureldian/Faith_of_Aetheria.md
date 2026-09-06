@@ -107,7 +107,7 @@ name:
     - Aetheria
 shortcode: aetheria
 img: images/affiliation/aetheria.webp
-folder: uMjCDTomEtc5Z0KV
+packFolder: pantheonsaureldian
 ---
 
 Goddess of dreams, celestial visions, and the veil between worlds. Æthería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.

@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A chalky white draft that tastes of limestone and chalk dust, bound to the Principle of Dryness (Pyréthos). When the imbiber exhales after drinking, they release an aura of absolute dryness in a five-foot radius that lasts for a number of minutes equal to their Aural Shock and follows their movement. Within this zone, all water transforms into ethereal water—a substance as insubstantial as mist, unable to quench or conduct, harmless to those within. The drinker's own body remains unaffected; the elixir does not strip moisture from flesh, only from the environment itself.

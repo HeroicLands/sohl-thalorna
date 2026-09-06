@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Slumber
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster touches a creature and channels a wave of soporific Physéra energy that plunges the subject into a deep, restorative slumber. An unwilling target may resist with a Spirit test whose success level must exceed the caster's; on a tie the creature is merely stunned into drowsiness for a number of rounds proportional to the Spell Index, with no standard recovery roll to shake off the grogginess. A subject who succumbs to the full deep sleep can only be roused by someone spending one minute and succeeding on a Physician test with a substantial bonus; otherwise the creature sleeps for the entire duration, awakening naturally at the end.

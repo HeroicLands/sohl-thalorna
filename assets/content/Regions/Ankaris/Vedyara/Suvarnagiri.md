@@ -15,7 +15,7 @@ name:
   full: Suvarṇagiri
   aliases: []
 shortcode: suvaragiri
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 _To be written._

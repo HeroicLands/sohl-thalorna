@@ -105,7 +105,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A straight blade fixed to a wide H-shaped grip that runs the length of the forearm, swung and thrust with the whole hand in a knuckle-punch motion. The blade tapers from a broad base to a point, forcing impact through mail and plate when driven with shoulder and hip. A weapon of close brawlers and bare-knuckle fighters, favored in the packed press of a tavern or ambush.

@@ -12,7 +12,7 @@ name:
   aliases:
     - the Shield-Maiden of Járnhavn
 id: QOSper74Psh635yp
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
 img: icons/person.svg
 type: being

@@ -36,7 +36,7 @@ sohl:
     "subType:social": 5
     water: 5
     hydalis: 5
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Those born under Arnos, the Ram, are said to carry the vigour of green things breaking through frost. Herbalists, hunters, and wardens of the wild claim its favour, while the sign turns its face from those who would master flesh and blade.

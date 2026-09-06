@@ -11,7 +11,7 @@ name:
   aliases:
     - Dr. Alaric Hawthorne
 id: AEDnvMju3TuU3wzi
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: lefrcbrnwl
 img: icons/person.svg
 type: being

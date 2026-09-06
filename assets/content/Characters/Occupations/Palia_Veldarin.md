@@ -11,7 +11,7 @@ name:
   aliases:
     - Agnes Turner
 id: blV7vY7AZQ3VZprk
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: paliavldrn
 img: icons/person.svg
 type: being

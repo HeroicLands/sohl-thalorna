@@ -10,7 +10,7 @@ name:
   home: Vyālendra
   aliases: []
 id: mJfvEsyCUxVmCzNJ
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl
 img: icons/person.svg
 type: being

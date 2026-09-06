@@ -15,7 +15,7 @@ name:
   full: Rājapur
   aliases: []
 shortcode: rajapur
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 _To be written._

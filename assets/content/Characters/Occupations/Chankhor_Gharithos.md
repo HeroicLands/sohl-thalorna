@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Stablemaster
 id: riOtNIfGPkL8LjkQ
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: chnkhrghrths
 img: icons/person.svg
 type: being

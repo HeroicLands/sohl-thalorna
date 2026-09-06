@@ -11,7 +11,7 @@ name:
   aliases:
     - Sir Cedric Ashvale
 id: s5t2kTT7SOlYxGoh
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: oswaldunwl
 img: icons/person.svg
 type: being

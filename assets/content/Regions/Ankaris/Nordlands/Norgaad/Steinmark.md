@@ -17,7 +17,7 @@ name:
   full: Steinmark
   aliases: []
 shortcode: steinmark
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Steinmark

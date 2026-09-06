@@ -115,7 +115,7 @@ data:
     arldnpnthn: aligned
 sohl:
   archetype: null
-folder: L06n59aSySB8zVbI
+packFolder: helionis
 ---
 
 - **Patron Deity:** [[affiliation-arldnpnthn|Jánus]] (order and justice)

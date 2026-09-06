@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Silent and patient, snakes are stealthy hunters that rely on ambush tactics, waiting motionless for the perfect moment to strike their prey.

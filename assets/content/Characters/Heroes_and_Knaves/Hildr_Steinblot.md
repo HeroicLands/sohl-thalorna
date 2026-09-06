@@ -10,7 +10,7 @@ name:
   home: Haldrvík
   aliases: []
 id: 2mnu06IiMqWhvNFg
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hldrstnblt
 img: icons/person.svg
 type: being

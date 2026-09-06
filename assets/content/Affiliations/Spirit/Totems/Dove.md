@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Gentle and peaceful, instinctively seeking harmony and companionship, often displaying strong pair bonding and a calming presence in their surroundings.

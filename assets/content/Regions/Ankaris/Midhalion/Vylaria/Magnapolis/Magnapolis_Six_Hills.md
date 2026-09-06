@@ -15,7 +15,7 @@ data:
     - magnapolis
   population: null
 shortcode: sixhillsvyl
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 TBD

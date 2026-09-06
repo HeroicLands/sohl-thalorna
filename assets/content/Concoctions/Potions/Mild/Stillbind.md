@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A clear, slightly greenish liquid that looks almost innocent in its simplicity. The scent is faint but distinctive—something metallic and plant-based, reminiscent of crushed hemlock or nightshade. When held in direct sunlight, a faint iridescence appears across its surface. Those who have handled this potion report a cold sensation that lingers on the skin long after washing. A single taste induces a numbing sensation that spreads from the mouth downward, chilling the throat.

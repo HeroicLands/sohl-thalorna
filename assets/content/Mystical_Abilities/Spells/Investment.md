@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Investment
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 Over the course of an extended ritual, the caster channels a substantial quantity of arcane energy into a prepared object or location, creating a deep reservoir of stored power far exceeding what a simple Infuse can achieve. The investment binds the energy to the vessel at a fundamental level, creating a semi-permanent enchantment that persists for months or even years. The stored power can be drawn upon gradually, released in a single burst, or set to activate under specified conditions.

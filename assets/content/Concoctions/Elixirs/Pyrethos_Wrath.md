@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A volatile, simmering crimson liquid that radiates heat even through thick glass, held in a reinforced vial wrapped in leather to prevent accidental detonation. Bound to the Principle of Mineral (Sidéros), this elixir transforms into chaos the moment its container is smashed—whether hurled against armor, cracked upon stone, or dashed to the ground in desperation. Upon impact, a noisome cloud erupts in a ten-foot diameter, billowing acrid fumes that burn all within the blast radius with Area d4 damage plus the elixir's Aural Shock multiplied by four. The explosion is so bizarre and terrifying that even those uninjured by the blast may suffer Morale Rolls, the sight alone shaking the resolve of opponents nearby.

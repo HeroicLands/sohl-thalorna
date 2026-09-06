@@ -11,7 +11,7 @@ name:
   aliases:
     - Lysandra Sashan
 id: SXNZ5kUCcAxRUpCN
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: gorzndsbrs
 img: icons/person.svg
 type: being

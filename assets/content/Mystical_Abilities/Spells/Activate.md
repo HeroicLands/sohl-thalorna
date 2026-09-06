@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Trigger
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster weaves a conditional clause into a prepared spell or magical construct, setting the terms under which it will spring to life. The conditions can be remarkably specific — the presence of a particular individual, the utterance of a password, the passage of a celestial body across a certain point in the sky, or the breaking of a physical seal. Until those conditions are met, the spell lies dormant and nearly undetectable, consuming no energy.

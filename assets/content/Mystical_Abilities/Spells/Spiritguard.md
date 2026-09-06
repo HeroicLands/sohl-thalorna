@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Host
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster performs a summoning of extraordinary difficulty and risk, calling across the boundary between the material world and the realm of spirits to invite a willing entity into temporary service. The spirit manifests as a translucent, luminous presence whose form reflects its nature — some appear as vaguely humanoid shapes of shifting light, others as ghostly animals or abstract patterns of moving energy. Its touch can affect the physical world, nudging objects, disrupting concentration, or delivering a chilling contact that saps warmth and will.

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Doom Flame
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster speaks a word of absolute destruction and hurls a seed of supernatural flame at the target. Where it lands, fire erupts — but not the warm orange of natural flame. Hellfire burns white-hot at its core, edged in an actinic blue that is painful to look upon directly. It ignores moisture, consumes stone as readily as wood, and cannot be smothered, drowned, or starved of fuel. The flame feeds on the magical energy bound into the material world itself, and it will burn until that energy is exhausted or powerful counter-magic intervenes.

@@ -103,7 +103,7 @@ shortcode: freyr
 img: images/affiliation/freyr.webp
 sohl:
   archetype: null
-folder: cFyVbOx7bj35ZyPA
+packFolder: pantheonsasguardian
 ---
 
 Fréyr, the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fréyr's blessings are vital to those who work the land.

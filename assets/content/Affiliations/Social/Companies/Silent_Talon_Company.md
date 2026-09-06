@@ -2,7 +2,7 @@
 tags: []
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: affiliation
-folder: bVhz4i3fwwT0NDSW
+packFolder: politiescompanies
 subType: venture
 data:
   templatePriority: null

@@ -11,7 +11,7 @@ name:
   aliases:
     - Lyra Quickpaw
 id: F48i2GDrmZhvkUDP
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: frthstrmrt
 img: icons/person.svg
 type: being

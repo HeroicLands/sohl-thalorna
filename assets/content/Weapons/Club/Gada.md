@@ -105,7 +105,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A heavy-headed mace with a long haft, its bulbous spherical or slightly ovoid head rendered in iron or hardened bronze and often crowned with flanges or blunt spikes. The gada's weight and shape concentrate crushing force in a single devastating blow, making it valued by warriors who favor brute impact over technique. It is swung with both hands and favors strength above all, best wielded by champions and strong-armed veterans.

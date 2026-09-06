@@ -12,7 +12,7 @@ name:
   aliases:
     - Viriâhn Roderick Flamebearer
 id: iu7NukzNV1tLvG1G
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: dharnvldrn
 img: icons/person.svg
 type: being

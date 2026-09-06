@@ -12,7 +12,7 @@ name:
   aliases:
     - Torvald Grimstone
 id: Zwez3VcBbD6e3uKB
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: vthrblthlm
 img: icons/person.svg
 type: being

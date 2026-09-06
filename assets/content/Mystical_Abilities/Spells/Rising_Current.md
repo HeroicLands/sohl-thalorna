@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Tide
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster seizes control of a body of water and bends its flow to their will, raising its level, redirecting its course, or creating powerful currents where none existed before. A still pond can be made to surge against one bank; a river can be coaxed to swell and overflow its channel; tidal forces can be amplified to flood a low-lying area.

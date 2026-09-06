@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Mischievous and vindictive, crows are highly intelligent birds that can hold grudges and are known to play tricks on both animals and humans.

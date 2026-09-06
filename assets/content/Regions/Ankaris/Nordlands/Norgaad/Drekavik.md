@@ -16,7 +16,7 @@ name:
   full: Drekavík
   aliases: []
 shortcode: drekavik
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Drekavík

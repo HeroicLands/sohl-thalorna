@@ -12,7 +12,7 @@ name:
   aliases:
     - Thorne Harrows
 id: mjbcpEN2XeDA4OKm
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: wthrcdrthgr
 img: icons/person.svg
 type: being

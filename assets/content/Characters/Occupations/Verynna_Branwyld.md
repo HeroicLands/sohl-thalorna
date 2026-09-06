@@ -11,7 +11,7 @@ name:
   aliases:
     - Mira Whisperwind
 id: cgMBwUYuBMGhy5Km
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
 img: icons/person.svg
 type: being

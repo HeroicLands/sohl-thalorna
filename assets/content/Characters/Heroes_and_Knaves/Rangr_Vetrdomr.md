@@ -10,7 +10,7 @@ name:
   home: Skorrborg
   aliases: []
 id: WfReEkqClUXafnNc
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: rngrvtrdmr
 img: icons/person.svg
 type: being

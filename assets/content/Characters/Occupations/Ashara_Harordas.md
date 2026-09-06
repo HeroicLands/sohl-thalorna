@@ -12,7 +12,7 @@ name:
   aliases:
     - Thalia Ashbrook
 id: OrXXHFOprCeTsprv
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: asharhrrds
 img: icons/person.svg
 type: being

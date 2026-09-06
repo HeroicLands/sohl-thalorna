@@ -15,7 +15,7 @@ name:
     - The Under-Kin
     - The Forge-Born
 shortcode: flkkhazar
-folder: t3p5qf6rZc8w0Nc4
+packFolder: settinglore
 ---
 
 - **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born

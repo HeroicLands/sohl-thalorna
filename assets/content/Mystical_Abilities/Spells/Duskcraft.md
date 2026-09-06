@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Shadow
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster gathers ambient shadows and deepens them, thickening darkness within a defined area until it resists even bright light. Torches gutter to sullen glows, sunlight filtering through windows dims to a twilight murkiness, and colors drain away to shades of gray. The effect is not true darkness but a heavy, clinging dimness that makes details hard to discern and distances deceptive.

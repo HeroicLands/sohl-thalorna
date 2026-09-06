@@ -16,7 +16,7 @@ name:
   aliases:
     - Eshálosha
 shortcode: eshalshldg
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # Eshálosha Lodge

@@ -11,7 +11,7 @@ name:
   clan: Sýndalr
   aliases: []
 id: 5l0LmrkfSYMUUxui
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
 img: icons/person.svg
 type: being

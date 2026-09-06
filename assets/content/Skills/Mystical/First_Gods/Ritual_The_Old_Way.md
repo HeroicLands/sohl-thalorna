@@ -22,7 +22,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: TaEFzwgEGaEh7qJX
+packFolder: firstgods
 ---
 
 See [[affiliation-theoldway|The Old Way]]

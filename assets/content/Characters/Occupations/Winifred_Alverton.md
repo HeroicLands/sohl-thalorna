@@ -11,7 +11,7 @@ name:
   aliases:
     - Anwen Lys
 id: JoLoaeTOdoe5c3ve
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: wnfrdlvrtn
 img: icons/person.svg
 type: being

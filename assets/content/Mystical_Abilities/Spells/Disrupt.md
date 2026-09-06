@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Subvert
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster reaches into the fabric of an active magical effect and wrenches its structure askew, corrupting the careful arrangement of forces that holds it together. Protective wards twist into ineffective tangles. Enchantments stutter and malfunction. Offensive spells veer from their intended targets or collapse before reaching full power. The disrupted magic doesn't simply end — it breaks, often producing unpredictable side effects as its component energies scatter without direction.

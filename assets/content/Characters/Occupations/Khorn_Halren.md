@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Longstride
 id: Mc4BVuMqbfo9R13K
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: khornhalrn
 img: icons/person.svg
 type: being

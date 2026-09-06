@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Suggestion
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster plants a seed of intention in the target's subconscious mind — not a command that overrides free will but a suggestion so skillfully crafted that it feels like the target's own idea. The implanted thought integrates seamlessly with the target's existing desires, beliefs, and plans, emerging into conscious awareness as a natural inclination rather than an external imposition. The target acts on the suggestion believing entirely that the impulse originates from within.

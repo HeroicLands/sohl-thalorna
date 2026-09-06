@@ -11,7 +11,7 @@ name:
   aliases:
     - Eirik Windwhistle
 id: Rz92ZJxfYzaqIhDx
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: grmdnshnyrds
 img: icons/person.svg
 type: being

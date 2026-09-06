@@ -6,7 +6,7 @@ name:
   full: Zhëklüng
   aliases: []
 shortcode: zheklung
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Zhëklüng

@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Gregarious and adaptable, ducks are social birds that thrive in diverse environments, often forming strong bonds with their flock.

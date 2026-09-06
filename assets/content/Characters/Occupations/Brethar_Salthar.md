@@ -11,7 +11,7 @@ name:
   aliases:
     - Beran Rookwood
 id: I1af7W2pkAFEn3z5
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: brthrslthr
 img: icons/person.svg
 type: being

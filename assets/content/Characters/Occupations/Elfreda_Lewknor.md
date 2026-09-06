@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Springbrook
 id: asUt1LLQF3jCIEwv
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: elfrdlwknr
 img: icons/person.svg
 type: being

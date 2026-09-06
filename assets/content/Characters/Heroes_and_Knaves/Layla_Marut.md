@@ -13,7 +13,7 @@ name:
   aliases:
     - The Merchant Princess
 id: suoA7Rl4e1TOlo6L
-folder: pRBSOhf2qVrV1SQB
+packFolder: northernfertileregionbethua
 shortcode: laylamarut
 img: icons/person.svg
 type: being

@@ -9,7 +9,7 @@ name:
   clan: Khalîdra
   aliases: []
 id: fj0fF6zdQIIKOsu1
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
 img: icons/person.svg

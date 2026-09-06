@@ -11,7 +11,7 @@ name:
   aliases:
     - Raiya Wasetneb
 id: Avs9wmHM1ZoiryOC
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiyawstnb
 img: icons/person.svg

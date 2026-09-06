@@ -11,7 +11,7 @@ name:
   aliases:
     - Isolde Farnham
 id: avXiOqkVCJTBJahe
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: kiriszyrnd
 img: icons/person.svg
 type: being

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Wave
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster gathers a body of water into a single, powerful wave and sends it crashing forward with devastating force. The wave rises from whatever water is available — a lake, a river, a flooded street, even a large trough — and surges in the direction the caster commands, sweeping away anything in its path before collapsing into a rushing flood.

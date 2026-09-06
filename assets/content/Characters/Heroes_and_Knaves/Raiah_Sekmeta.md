@@ -12,7 +12,7 @@ name:
   aliases:
     - Raiah Sekmetâ
 id: 0M8HOay3gpvRiuUF
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt
 img: icons/person.svg

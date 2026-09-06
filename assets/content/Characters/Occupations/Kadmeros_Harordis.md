@@ -11,7 +11,7 @@ name:
   aliases:
     - Eamon Oakshade
 id: oXHyC6Ct3LBtKNdN
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: kdmrshrrds
 img: icons/person.svg
 type: being

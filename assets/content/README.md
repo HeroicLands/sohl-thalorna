@@ -55,7 +55,7 @@ type: weapongear
 sohl:
   archetype: null # required: a number if this is an archetype, null if not
   subType: melee # required on every subType-bearing type
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 ```
 

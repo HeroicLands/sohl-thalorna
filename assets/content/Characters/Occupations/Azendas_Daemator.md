@@ -12,7 +12,7 @@ name:
   aliases:
     - Ebaséthè Rowan Thistlewood
 id: 7JSrigNVLppdQ5Ho
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: azendsdmtr
 img: icons/person.svg
 type: being

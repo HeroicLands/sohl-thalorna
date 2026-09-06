@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.

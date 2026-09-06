@@ -11,7 +11,7 @@ name:
   aliases:
     - Harlan Tidewalker
 id: AcuVET6ZyyQY0PjF
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: tldrklmrth
 img: icons/person.svg
 type: being

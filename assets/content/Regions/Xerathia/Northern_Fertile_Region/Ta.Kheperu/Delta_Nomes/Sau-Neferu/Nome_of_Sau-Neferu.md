@@ -112,7 +112,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: 9wsmaBsHPmmto2k3
+packFolder: sauneferu
 ---
 
 # The Nome of Sau-Neferu

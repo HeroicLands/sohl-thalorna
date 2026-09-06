@@ -12,7 +12,7 @@ name:
     - Thunderstrike
   home: null
 id: nfC0bpNA1h7ehe0w
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thrglthndrstrk
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Mirna Woodsong
 id: JQTFjmsn9dLVIdVu
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: tazithbrds
 img: icons/person.svg
 type: being

@@ -103,7 +103,7 @@ data:
     tngvkvnlei: aligned
 sohl:
   archetype: null
-folder: VmJuVqaOGhXrvXQs
+packFolder: elementallords
 ---
 
 # Röthöt Dākvëng — The Lord of Wood

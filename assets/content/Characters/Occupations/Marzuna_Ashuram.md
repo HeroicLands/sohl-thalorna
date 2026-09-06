@@ -11,7 +11,7 @@ name:
   aliases:
     - Rhea Ironheart
 id: TBkSCwCcU36wNBrO
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: marzunshrm
 img: icons/person.svg
 type: being

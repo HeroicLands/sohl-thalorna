@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Wind
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster throws both arms wide and a wall of shrieking wind erupts forward, expanding into a full-scale tempest that tears across the battlefield with enough force to topple cavalry, shatter wooden barricades, and hurl loose debris like sling-stones. The howling gale strips banners from poles, extinguishes every open flame in its path, and fills the air with a blinding maelstrom of dust, leaves, and grit that renders archers useless and cavalry charges suicidal.

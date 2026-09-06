@@ -11,7 +11,7 @@ name:
   aliases:
     - Branwen Hearthkeeper
 id: ArnWGhwBhsRRLFHQ
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: chgnzrznds
 img: icons/person.svg
 type: being

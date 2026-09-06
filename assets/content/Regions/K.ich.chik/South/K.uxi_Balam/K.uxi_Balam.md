@@ -109,7 +109,7 @@ data:
 sohl:
   archetype: null
 terran_analog: Bolivia, Southern Central Brazil
-folder: vqgSYECMjSAfVrNA
+packFolder: kuxibalam
 ---
 
 ## Overview

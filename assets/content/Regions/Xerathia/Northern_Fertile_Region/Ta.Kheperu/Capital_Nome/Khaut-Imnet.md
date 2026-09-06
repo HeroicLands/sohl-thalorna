@@ -18,7 +18,7 @@ name:
     - The Tombs of the West
     - The Western Fields
 shortcode: khautimnet
-folder: 6HgEgHggm50Aphlq
+packFolder: capitalnome
 ---
 
 # Khaut-Imnet — the Tombs of the West

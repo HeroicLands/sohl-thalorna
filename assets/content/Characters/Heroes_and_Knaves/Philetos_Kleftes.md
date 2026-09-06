@@ -12,7 +12,7 @@ name:
   aliases:
     - The Fire-Sworn Strategist
 id: jvc9JLBxL6l2hfKF
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: phltsklfts
 img: icons/person.svg
 type: being

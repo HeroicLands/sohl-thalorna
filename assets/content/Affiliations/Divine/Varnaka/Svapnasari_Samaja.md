@@ -109,7 +109,7 @@ data:
     varakpnthn: aligned
 sohl:
   archetype: null
-folder: dxzsTyaF4LMapIJX
+packFolder: pantheonsvarnaka
 ---
 
 # Svapnasāri-samāja — The Assembly of the Dream-Followers

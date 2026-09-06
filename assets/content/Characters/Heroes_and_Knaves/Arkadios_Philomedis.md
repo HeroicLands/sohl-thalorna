@@ -10,7 +10,7 @@ name:
   home: Chrysamar
   aliases: []
 id: JtOURC71suokEdaY
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: arkdsphlmds
 img: icons/person.svg
 type: being

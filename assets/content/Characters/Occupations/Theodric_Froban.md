@@ -12,7 +12,7 @@ name:
     - Thrain Ironpick
     - Theodric Froban
 id: cMjRC8xxCWeKiHxz
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thdrcfrdbn
 img: icons/person.svg
 type: being

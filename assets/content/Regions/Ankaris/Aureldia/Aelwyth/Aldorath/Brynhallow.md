@@ -16,7 +16,7 @@ name:
   full: Brynhallow
   aliases: []
 shortcode: brynhallow
-folder: ZbE1NQo3ApZ26xon
+packFolder: aelwyth
 ---
 
 # Brynhallow

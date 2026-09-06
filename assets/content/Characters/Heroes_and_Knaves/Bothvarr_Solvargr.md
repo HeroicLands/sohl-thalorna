@@ -10,7 +10,7 @@ name:
   home: Brúnvík
   aliases: []
 id: V5HnPNXCvbny78Mm
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: bthvrslvrgr
 img: icons/person.svg
 type: being

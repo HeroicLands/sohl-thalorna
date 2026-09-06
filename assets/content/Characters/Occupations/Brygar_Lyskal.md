@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: hVLXnGBB19sMLT6m
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: brygrlyskl
 img: icons/person.svg
 type: being

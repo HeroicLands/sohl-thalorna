@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Mudd
 id: qTlaVvYsKRWmlN2O
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: lenarcrdth
 img: icons/person.svg
 type: being

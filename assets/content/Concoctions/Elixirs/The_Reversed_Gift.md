@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Poison Elixir is a viscous, dark liquid that gives off a faint miasma, the scent of corruption and chemical ruin. The mechanics of this elixir are inverted and deliberate: when the imbiber makes an Imbibing Roll, the signs reverse. A Critical Success reduces AS by 1 instead of increasing it, while failures increase AS by 1 (or 2 on a Critical Failure). After this reversal, the imbiber is afflicted with a rapid-onset toxin—one round until symptoms manifest—with a Healing Rate of 10 − final AS.

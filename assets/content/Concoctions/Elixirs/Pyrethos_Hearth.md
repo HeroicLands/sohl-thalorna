@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Warmth Elixir radiates heat even in the vial, a golden-amber brew that feels warm to the touch, smelling of spice and living earth. Drawn from the Principle of Heat (Pyréthos), this elixir envelops the imbiber and nearby allies in a protective aura of warmth. The drinker receives an immediate +2 Frost Armor Value and a +10 bonus to all cold-related tests and saves. Creatures within five feet of the imbiber gain a lesser benefit—+1 Frost Armor Value and +5 bonus—extending the elixir's mercy to companions who huddle near the source.

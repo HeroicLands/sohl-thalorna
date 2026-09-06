@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 This is liquid fury itself—a blazing red or gold liquid so pure and vivid it seems almost to glow from within. The vial grows noticeably warm in the hand. The aroma is overwhelming and nearly choking: a blast of white-hot spice, burned metal, and something almost feverish. A single drop on exposed skin raises a blister. Those who have accidentally touched this potion to their lips report an immediate sensation like swallowing fire, burning down the throat and into the belly. The herbalist who prepares this works with extreme caution, as even vapors can trigger hyperalertness in nearby witnesses.

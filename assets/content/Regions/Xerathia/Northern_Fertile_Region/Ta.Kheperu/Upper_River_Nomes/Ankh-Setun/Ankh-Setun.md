@@ -17,7 +17,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: ankhsetun
-folder: DCVpoMWDdub9pwDR
+packFolder: ankhsetun
 ---
 
 # Ankh-Setûn

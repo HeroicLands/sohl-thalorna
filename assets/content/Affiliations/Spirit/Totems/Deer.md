@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Alert and elusive, deer are constantly vigilant, using their keen senses to detect danger and flee at the first sign of a threat.

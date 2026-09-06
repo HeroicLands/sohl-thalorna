@@ -16,7 +16,7 @@ name:
   full: Monvèrdre
   aliases: []
 shortcode: monverdre
-folder: 2s244hfP0BpQi195
+packFolder: provenzia
 ---
 
 # Monvèrdre

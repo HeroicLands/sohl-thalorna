@@ -11,7 +11,7 @@ name:
   aliases:
     - Ansel Mead
 id: dkyayq7YYDsBS9UY
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: aldosbrndn
 img: icons/person.svg
 type: being

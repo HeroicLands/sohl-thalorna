@@ -11,7 +11,7 @@ name:
   aliases:
     - Jorah Stone
 id: TSyFzpjPSa5W3X4g
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: leifrdrtgr
 img: icons/person.svg
 type: being

@@ -17,7 +17,7 @@ name:
   full: Bjornstad
   aliases: []
 shortcode: bjornstad
-folder: KvGb463Iw9hZLRjp
+packFolder: vithgard
 ---
 
 # Bjornstad

@@ -13,7 +13,7 @@ name:
     - Siprah Ipmaâr
     - Siprah Ipmaar
 id: iJazXdPywn1EE10S
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
 img: icons/person.svg

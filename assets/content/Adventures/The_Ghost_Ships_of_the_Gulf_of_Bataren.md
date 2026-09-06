@@ -17,7 +17,7 @@ data:
   party:
     size: null
     archetypes: []
-folder: TokyoDCf1w4elPns
+packFolder: adventures
 ---
 
 # The Ghost Ships of the Gulf of Batáren

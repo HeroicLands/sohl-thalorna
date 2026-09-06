@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Forge
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster strikes the ground or a flat surface and a compact magical forge materializes — an anvil of gleaming metal, a trough of perpetually hot coals, a rack of essential smithing tools, all wrought from condensed arcane energy. The forge produces authentic heat suitable for working metal, and the tools handle with the balance and precision of master-crafted implements. Working at this enchanted station, even a moderately skilled metalworker produces results far exceeding their normal capability.

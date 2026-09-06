@@ -10,7 +10,7 @@ name:
   home: Steinmark
   aliases: []
 id: ltUbakCQz8bc9FeL
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: osknbjrgskrn
 img: icons/person.svg
 type: being

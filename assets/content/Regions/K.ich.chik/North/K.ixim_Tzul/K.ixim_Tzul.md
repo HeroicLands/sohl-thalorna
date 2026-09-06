@@ -108,7 +108,7 @@ data:
 sohl:
   archetype: null
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
-folder: NBEB5yxMuE00eFBX
+packFolder: kiximtzul
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A translucent, opalescent liquid that shifts between colors as it moves—lavender, rose, silver—never settling into a single hue. Bound to the Principle of Dimension (Neutral), this elixir performs one of the most unnerving feats in alchemy: it divorces the drinker's soul from their flesh. Upon drinking, the imbiber's body falls into a deep coma while their active soul transfers to the spirit world, a shift in perspective from the physical realm to the astralscape beyond. The body remains corporeal and unharmed, left for companions to guard.

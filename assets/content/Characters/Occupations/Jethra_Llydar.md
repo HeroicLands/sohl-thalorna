@@ -12,7 +12,7 @@ name:
   aliases:
     - Cerys de Lune
 id: VLB5LzxoiGFfWd3h
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: jethralydr
 img: icons/person.svg
 type: being

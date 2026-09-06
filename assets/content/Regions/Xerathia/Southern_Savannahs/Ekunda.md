@@ -17,7 +17,7 @@ name:
   full: Ékunda
   aliases: []
 shortcode: ekunda
-folder: Ka6y9l5O5XGpNhfI
+packFolder: southernsavannahs
 ---
 
 # Ékunda

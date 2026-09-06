@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Ashwood
 id: 8XFmoijes2YgGXI1
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: lamshrdmrn
 img: icons/person.svg
 type: being

@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Sensation
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster touches the target's temples and channels a surge of mental energy into their perceptive faculties. The world snaps into sharper focus — colors intensify, sounds separate into distinct layers, and the skin becomes sensitive enough to feel the displacement of air from a passing insect. Tastes and scents become almost overwhelming in their richness, revealing details that normal perception simply cannot detect.

@@ -21,7 +21,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: NBtFDtltKzvNwsiN
+packFolder: tengvokvanlei
 ---
 
 See [[affiliation-zhaksok|Zhāksōk]]

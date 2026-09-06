@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A dark, nearly black draft that seems to absorb sound as well as light, smelling of moss and damp earth. Bound to the Principle of Silence (Zephäris), this elixir muffles the drinker's presence from auditory perception. When imbibed, the imbiber's movements become whispers—their Stealth Mastery Level increases by an amount equal to their current Aural Shock multiplied by five. The effect applies to any noisy motion, not merely creeping footsteps: a thief picking a lock in silence, a warrior moving through a crowd unnoticed, a scout scaling rubble without dislodging stones.

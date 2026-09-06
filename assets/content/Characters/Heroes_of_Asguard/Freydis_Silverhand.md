@@ -12,7 +12,7 @@ name:
     - Silverhand
   home: null
 id: uc36Ag2geh9YjBvy
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: frydslvrhnd
 img: icons/person.svg
 type: being

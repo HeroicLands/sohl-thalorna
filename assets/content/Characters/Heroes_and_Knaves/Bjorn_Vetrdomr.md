@@ -10,7 +10,7 @@ name:
   home: Ravensholm
   aliases: []
 id: 9ZfFDoH8TCU6PfFz
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: bjrnvtrdmr
 img: icons/person.svg
 type: being

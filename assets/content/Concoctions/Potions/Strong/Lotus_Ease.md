@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 A deep amber liquid that seems almost golden when held to candlelight, thick enough that it clings to the sides of its container. The scent is far more potent than the mild variety—sweet and heavy, with underlayers of bitter almond and something faintly metallic. A small sip induces immediate numbness in the mouth, and the herbalist who handles it too carelessly may find themselves drowsy for hours. This draft represents a serious intervention, not a simple palliative.

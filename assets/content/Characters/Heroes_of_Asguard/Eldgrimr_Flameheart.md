@@ -12,7 +12,7 @@ name:
     - Flameheart
   home: null
 id: eN5rOZknYKp72v0P
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: eldgrmrflmhrt
 img: icons/person.svg
 type: being

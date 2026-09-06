@@ -20,7 +20,7 @@ name:
   full: Cave Outline
   aliases: []
 shortcode: caveoutlin
-folder: 9TmLIkGXGHMtFxzy
+packFolder: bloodandashesinceravelvale
 ---
 
 ### Approach to the Cave

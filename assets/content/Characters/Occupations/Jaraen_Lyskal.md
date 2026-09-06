@@ -11,7 +11,7 @@ name:
   aliases:
     - Greta Woodwhistle
 id: wZqvr4MS4rJaH8mf
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: jaranlyskl
 img: icons/person.svg
 type: being

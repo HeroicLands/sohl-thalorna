@@ -16,7 +16,7 @@ name:
   full: Tz’alam Ha’
   aliases: []
 shortcode: tzalamha
-folder: 13VGFYcT7sKTGll7
+packFolder: south
 ---
 
 ## Overview

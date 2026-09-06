@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.

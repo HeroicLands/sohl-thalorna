@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Mask
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws a veil of arcane silence around their own magical signature, rendering themselves invisible to detection spells, scrying attempts, and the general arcane awareness that allows practitioners to sense one another. Active spells upon the caster similarly fall beneath the veil, their telltale signatures dampened to nothing. To magical senses, the caster simply ceases to exist — an empty space where a person happens to stand.

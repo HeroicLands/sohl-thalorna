@@ -11,7 +11,7 @@ name:
   home: Ithrákor
   aliases: []
 id: 5l2XBtKG8RPHxPsW
-folder: 5ECInZ91R1WeEtYz
+packFolder: northernfertileregionokharis
 shortcode: kirobashkm
 img: icons/person.svg
 type: being

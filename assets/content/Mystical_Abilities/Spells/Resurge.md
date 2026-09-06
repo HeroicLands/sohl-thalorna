@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Resurge
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster lays hands upon a failing magical construct — a guttering ward, a dimming enchantment, a ritual circle whose inscriptions are fading — and pours fresh energy into its weakening framework. The infusion does not merely delay the inevitable collapse; it actively repairs the structural damage that accumulated use and the passage of time have inflicted, restoring the construct to something approaching its original potency.

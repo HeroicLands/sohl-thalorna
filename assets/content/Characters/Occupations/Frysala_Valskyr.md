@@ -11,7 +11,7 @@ name:
   aliases:
     - Sigrid Frostholm
 id: MeR3pzh84KpLMcNf
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: fryslvlskyr
 img: icons/person.svg
 type: being

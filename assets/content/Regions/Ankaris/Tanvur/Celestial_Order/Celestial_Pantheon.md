@@ -6,7 +6,7 @@ name:
   full: Celestial Pantheon
   aliases: []
 shortcode: clstlpnthn
-folder: hBkQzhJeB05EwziN
+packFolder: celestialorder
 ---
 
 # The Celestial Pantheon of Tānvür

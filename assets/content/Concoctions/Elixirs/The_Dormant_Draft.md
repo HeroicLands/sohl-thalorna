@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Quiescence Elixir appears as a perfectly still liquid, utterly devoid of movement, tinted a pale gray or off-white that seems to absorb sound and light. When drunk, the imbiber's soul withdraws into dormancy and the body descends into absolute stillness—a living suspension between waking and death. The mechanics of this elixir are inverted, like the Poison Elixir: on the Imbibing Roll, a Critical Success reduces AS by 1, while failures increase it by 1 (or 2 on a Critical Failure).

@@ -10,7 +10,7 @@ name:
   home: Hávamál
   aliases: []
 id: iX6xDDr8qwN2G3pb
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: dekvetrdmr
 img: icons/person.svg
 type: being

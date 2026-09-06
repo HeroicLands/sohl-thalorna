@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 Nearly black, hard as resin when cool but with a crystalline sheen that catches light strangely, this legendary coagulant looks like no ordinary preparation. The scent is almost metallic—pure iron, rendered to its essence, mixed with herbal compounds so rare and potent that breathing the air around an opened vial makes the head swim slightly. When warmed and pressed against a wound, the paste seems to hunt for the bleeding source actively, drawn toward flowing blood as iron to lodestone, and seals it with extraordinary finality. The flesh around the application visibly drains of color within heartbeats, the body's blood traffic diverted completely away from the wound and back toward vital organs.

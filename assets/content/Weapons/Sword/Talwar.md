@@ -149,7 +149,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A curved single-edged blade broad and sharp, the talwar ends in a disk-shaped pommel that balances the steel's weight through the cut. The curve favors the cavalry saber's slice, while the hilt's distinctive geometry provides a secure purchase even in the mounted charge's tumult. Ranked warriors of the eastern realms carry this steel.

@@ -106,7 +106,7 @@ data:
     yokveng: aligned
 sohl:
   archetype: null
-folder: hDKxtkbJFjn8bIUr
+packFolder: yokveng
 ---
 
 # The Lesser Demons — Yōkvëng

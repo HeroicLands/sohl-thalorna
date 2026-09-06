@@ -10,7 +10,7 @@ name:
   home: Ormstead
   aliases: []
 id: kIbWnNYsUS07Rw5e
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: yngvrblthl
 img: icons/person.svg
 type: being

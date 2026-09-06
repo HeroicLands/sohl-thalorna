@@ -20,7 +20,7 @@ shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale
   aliases: []
-folder: 9TmLIkGXGHMtFxzy
+packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

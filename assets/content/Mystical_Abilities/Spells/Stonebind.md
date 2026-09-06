@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Petrification
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster grips a creature and unleashes a torrent of mineralising Physéra energy that transmutes living flesh into cold, rigid stone. The transformation is total—the victim's body, gear, and clothing all petrify, tripling the subject's weight as organic tissue is replaced by mineral density while bodily functions slow to a negligible, safe level that preserves the victim in a state of indefinite suspended animation. An unwilling target resists by testing Spirit against the spellfire success level, with ties broken in the caster's favor, and those who fail the test find themselves frozen in whatever posture they held at the moment of transformation.

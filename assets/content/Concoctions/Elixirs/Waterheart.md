@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A pristine, perfectly clear elixir that tastes of spring rain and distant mountains, infused with the Principle of Water (Zephäris). The liquid sits inert in its vial, as if the very essence of hydration has been distilled and bound into this small measure. When drunk, the body's thirst becomes voracious but manageable: the imbiber's water requirements drop to a quarter of normal, allowing for weeks of desert journeys or, conversely, frugal supplies that stretch impossibly far.

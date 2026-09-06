@@ -11,7 +11,7 @@ name:
   aliases:
     - Freya Softskin
 id: 63QHtDP9bdE2zBRg
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edrthgrylng
 img: icons/person.svg
 type: being

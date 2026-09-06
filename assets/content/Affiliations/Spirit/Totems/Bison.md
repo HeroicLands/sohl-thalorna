@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Stoic and protective, bison form strong herd bonds and will fiercely defend their young and territory from any threats.

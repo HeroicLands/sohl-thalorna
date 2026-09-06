@@ -13,7 +13,7 @@ name:
     - The Bounty Hunter
     - The Hound of the Veil
 id: y9DjC9T3RB04prDK
-folder: pRBSOhf2qVrV1SQB
+packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
 img: icons/person.svg
 type: being

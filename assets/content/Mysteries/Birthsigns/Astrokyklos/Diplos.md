@@ -36,7 +36,7 @@ sohl:
     "subType:social": -5
     water: -5
     hydalis: -5
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Diplos, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisans, and duelists born beneath it prosper, but the arcane and the antiquarian find its natives distracted and ill-suited to long contemplation.

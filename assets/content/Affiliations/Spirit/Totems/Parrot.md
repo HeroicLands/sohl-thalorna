@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Social and vocal, parrots are intelligent birds that thrive on interaction and are known for their ability to mimic sounds and engage with their environment.

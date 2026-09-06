@@ -11,7 +11,7 @@ name:
   aliases:
     - Thadeus Grimshaw
 id: C4SFhbOMZpTktJaJ
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: edgarchltn
 img: icons/person.svg
 type: being

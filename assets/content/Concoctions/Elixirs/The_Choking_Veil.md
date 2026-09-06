@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A thick, murky greenish-gray liquid that emits a faint chemical reek even through sealed glass, bound to the Principle of Smoke (Pyréthos). Like its volatile sibling Eruption, Fumebomb is designed to be hurled, not drunk. When the vial's container is smashed—whether lobbed at enemies, thrown against a barrier, or dashed to the ground—it erupts in a billowing cloud of choking, acrid smoke that spreads in a ten-foot diameter and blocks line of sight for one round before dissipating.

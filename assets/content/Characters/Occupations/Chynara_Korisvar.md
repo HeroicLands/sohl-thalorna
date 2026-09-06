@@ -11,7 +11,7 @@ name:
   aliases:
     - Mabel Seafoam
 id: 5z0BGufzQgliEu7p
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: chynrkrsvr
 img: icons/person.svg
 type: being

@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Seeker
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster shapes a bolt of flame and speaks the name or nature of their target, and the missile launches itself with purposeful intent. Unlike a normal projectile, the seeker veers and curves in pursuit, following its quarry around corners, through doorways, and over obstacles with single-minded determination. Its trail of sparks and flame marks its passage through the air, a line of fire that traces its hunting path.

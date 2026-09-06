@@ -11,7 +11,7 @@ name:
   aliases:
     - Oswin Thatchwell
 id: d8woPeX9PcWb8pm1
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: tarligtlgn
 img: icons/person.svg
 type: being

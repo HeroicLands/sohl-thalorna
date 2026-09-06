@@ -23,7 +23,7 @@ hmk:
 castingTime: 3 rounds
 range: touch
 duration: Index minutes
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster lays hands upon a corpse no larger than medium size and channels Physéra energy into its inert flesh, compelling dead muscle and bone to obey the mage's will. Since death severs the bond between soul and body, the spell grants no communication with the deceased—merely the ability to puppet its physical actions at a distance. The corpse no longer possesses Skill ML, so any action requiring a test uses its once-living Strength, Dexterity, or Agility at values degraded by decomposition: a minimally decomposed body suffers only modest penalties to Attribute tests and Move, while a mostly decomposed corpse is so weakened that its strikes barely register and its shambling gait is painfully slow. A wholly decomposed body cannot be controlled at all.

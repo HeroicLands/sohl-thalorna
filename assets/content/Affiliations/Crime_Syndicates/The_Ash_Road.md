@@ -96,7 +96,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: GOlgYgpU2BQfAG6g
+packFolder: crimesyndicates
 ---
 
 # The Ash Road

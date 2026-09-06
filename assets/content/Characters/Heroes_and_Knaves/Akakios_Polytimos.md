@@ -10,7 +10,7 @@ name:
   home: Denizara
   aliases: []
 id: 4Ls4vyEaxtqnkRON
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: akksplytms
 img: icons/person.svg
 type: being

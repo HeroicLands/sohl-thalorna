@@ -12,7 +12,7 @@ name:
   aliases:
     - Alaric Rosewood
 id: x57Y3c5wnRpQgwXJ
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: jubensfths
 img: icons/person.svg
 type: being

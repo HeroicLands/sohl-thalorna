@@ -22,7 +22,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: dxhPBmJv9YgSa4dJ
+packFolder: kemetian
 ---
 
 See [[affiliation-hapi|Faith of Hâpi]]

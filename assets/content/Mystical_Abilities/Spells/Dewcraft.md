@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Condensation
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster forces moisture from the air to condense rapidly onto surfaces, objects, or into containers. In humid conditions, water collects in visible streams and rivulets; even in dry air, a slow but steady accumulation of droplets appears. The spell accelerates and concentrates a natural process, allowing the caster to fill vessels, dampen large areas, or coat surfaces in a slick film of water.

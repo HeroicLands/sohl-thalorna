@@ -12,7 +12,7 @@ name:
   aliases:
     - the Crow
 id: D6xkziKoyoWEuzDs
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: hrodrrnthl
 img: icons/person.svg
 type: being

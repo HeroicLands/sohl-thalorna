@@ -11,7 +11,7 @@ name:
   aliases:
     - Pasher Hetremet
 id: utOmhiD2rcjI7K2Y
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
 img: icons/person.svg

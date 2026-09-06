@@ -12,7 +12,7 @@ name:
     - Goldenhair
   home: null
 id: 09FAmaYOSLWyv7Ya
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: thyrgldnhr
 img: icons/person.svg
 type: being

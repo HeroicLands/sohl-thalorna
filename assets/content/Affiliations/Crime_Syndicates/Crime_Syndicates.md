@@ -99,7 +99,7 @@ name:
   full: Crime Syndicates of Thalorna
   aliases: []
 shortcode: crmsyndctsthlrn
-folder: GOlgYgpU2BQfAG6g
+packFolder: crimesyndicates
 ---
 
 # Crime Syndicates of Thalorna

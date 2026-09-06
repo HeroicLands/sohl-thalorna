@@ -106,7 +106,7 @@ data:
     varakpnthn: aligned
 sohl:
   archetype: null
-folder: dxzsTyaF4LMapIJX
+packFolder: pantheonsvarnaka
 ---
 
 # Vyālendravāda — The Doctrine of Vyālendra

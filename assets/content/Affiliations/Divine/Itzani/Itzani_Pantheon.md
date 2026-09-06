@@ -105,7 +105,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: PODpbcuTxbU2Df2I
+packFolder: itzani
 ---
 
 # The Itzáni Faith

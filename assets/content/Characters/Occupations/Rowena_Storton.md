@@ -12,7 +12,7 @@ name:
   aliases:
     - Edda Locklear
 id: Ih7yfJs1ON43xKmT
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: rowenstrtn
 img: icons/person.svg
 type: being

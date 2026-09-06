@@ -18,7 +18,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: meruhotep
-folder: DCVpoMWDdub9pwDR
+packFolder: ankhsetun
 ---
 
 # Meru-Hotep

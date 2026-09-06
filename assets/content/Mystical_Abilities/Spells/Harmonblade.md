@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Singing Sword
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster grips a metal blade and sends a vibration through it — a sustained, harmonic frequency that makes the weapon sing with a clear, bell-like tone audible to everyone nearby. The vibration tightens the metal's molecular structure along the edge, creating a cutting surface sharper than any conventional whetstone can achieve. The singing blade parts armor, leather, and flesh with visibly less resistance than an ordinary weapon, its strokes accompanied by the eerie, musical hum of resonating steel.

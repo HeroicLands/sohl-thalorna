@@ -12,7 +12,7 @@ name:
     - Renutê Reenfré
     - Renute Reenfre
 id: qXxPfRUDCQtkpbuI
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: renuternfr
 img: icons/person.svg

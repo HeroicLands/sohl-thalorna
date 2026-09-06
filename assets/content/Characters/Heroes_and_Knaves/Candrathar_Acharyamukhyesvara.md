@@ -11,7 +11,7 @@ name:
   home: Rājapur
   aliases: []
 id: XXiPdWrbAZaXkOY9
-folder: JotxZnnXcTECeYW3
+packFolder: ankarisvedyara
 shortcode: cndrthrchrymkhysvr
 img: icons/person.svg
 type: being

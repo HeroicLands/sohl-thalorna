@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Breath
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster breathes a whisper of magical vitality into a drowning or suffocating creature, kindling a small reserve of air within their lungs that sustains them even when no natural breath is possible. The spell does not grant the ability to breathe water, but rather creates a self-replenishing pocket of breathable air that the target's body draws upon, buying precious minutes of survival.

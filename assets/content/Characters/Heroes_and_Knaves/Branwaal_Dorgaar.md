@@ -10,7 +10,7 @@ name:
   clan: Dôrgaar
   aliases: []
 id: WSk96sYAqyEqOLpg
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: branwldrgr
 img: icons/person.svg
 type: being

@@ -6,7 +6,7 @@ name:
   full: Nützōk
   aliases: []
 shortcode: nutzok
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Nützōk

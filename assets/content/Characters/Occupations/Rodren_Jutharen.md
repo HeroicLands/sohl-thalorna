@@ -11,7 +11,7 @@ name:
   aliases:
     - Rollo Ember
 id: iZDQHJMu8W5CN0U5
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: rodrnjthrn
 img: icons/person.svg
 type: being

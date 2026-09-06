@@ -11,7 +11,7 @@ name:
   aliases:
     - Isla Mooring
 id: fsGQONvf08WpRtoZ
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sgrthrhrfnsvld
 img: icons/person.svg
 type: being

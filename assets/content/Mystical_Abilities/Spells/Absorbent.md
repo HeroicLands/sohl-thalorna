@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Sponge
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster enchants a surface or material to drink in liquid with unnatural voracity. Cloth becomes capable of soaking up a puddle in seconds; stone draws moisture from the air until it glistens. The enchanted material pulls liquid toward itself as if thirsting, and can hold far more than its natural capacity should allow, releasing it only when the spell expires or the caster wills it.

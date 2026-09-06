@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A murky greenish-brown draft that settles into grainy layers when left to stand, the mild antivenin smells faintly of burned herbs and river stones. On the tongue, it tastes acrid and metallic, with a lingering numbing sensation that spreads across the gums. Herbalists prize this preparation for its steadying effect on the venom-stricken, though its benefit takes patience to manifest.

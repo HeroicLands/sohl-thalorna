@@ -10,7 +10,7 @@ name:
   home: Dûn Ashir
   aliases: []
 id: FlkeLYuSgvdRipj3
-folder: kCKYObmsvraIezCd
+packFolder: dunharatribes
 shortcode: shadzrkmrz
 img: icons/person.svg
 type: being

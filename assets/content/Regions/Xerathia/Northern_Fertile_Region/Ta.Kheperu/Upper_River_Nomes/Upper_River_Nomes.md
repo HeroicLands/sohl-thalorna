@@ -113,7 +113,7 @@ data:
     kemtnpnthn: aligned
 sohl:
   archetype: null
-folder: 606qfybH6UUPJEBr
+packFolder: upperrivernomes
 ---
 
 # The Upper River Nomes

@@ -6,7 +6,7 @@ name:
   full: External Threats
   aliases: []
 shortcode: extrnlthrts
-folder: l3wIL8UihJI5nx6L
+packFolder: threats
 ---
 
 # External Threats to the Empire of Tānvür

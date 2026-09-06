@@ -13,7 +13,7 @@ name:
     - Knight of the Black Flame
     - Sir Drazha Sycani
 id: quoq4fCBYQEsUFGC
-folder: mtJ4TzKdySHbE2OM
+packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
 img: icons/person.svg
 type: being

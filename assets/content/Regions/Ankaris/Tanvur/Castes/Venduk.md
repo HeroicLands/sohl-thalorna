@@ -6,7 +6,7 @@ name:
   full: Vëndük
   aliases: []
 shortcode: venduk
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Vëndük

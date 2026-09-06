@@ -12,7 +12,7 @@ name:
   aliases:
     - Calen
 id: q1U2hLtb9m4uuzGK
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: torniskbry
 img: icons/person.svg
 type: being

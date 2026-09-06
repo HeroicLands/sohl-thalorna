@@ -11,7 +11,7 @@ name:
   aliases:
     - Thalos Graymoor
 id: 5lNKtzJ1atsnBYLM
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: alfrdbrnwl
 img: icons/person.svg
 type: being

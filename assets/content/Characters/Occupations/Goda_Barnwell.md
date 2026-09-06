@@ -11,7 +11,7 @@ name:
   aliases:
     - Mira Glazewalker
 id: zGccciTvZEHDjM5G
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: godabarnwl
 img: icons/person.svg
 type: being

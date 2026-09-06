@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Loyal and routine-oriented, pigeons are known for their strong homing instincts, often returning to the same location repeatedly with remarkable accuracy.

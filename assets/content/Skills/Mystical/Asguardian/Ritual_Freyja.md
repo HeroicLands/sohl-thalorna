@@ -19,7 +19,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: motZrE11IrlKjBz2
+packFolder: asguardian
 ---
 
 See [[affiliation-freyja|Faith of Fréyja]]

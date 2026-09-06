@@ -11,7 +11,7 @@ name:
   aliases:
     - Thoran Stonebreaker
 id: D5sRIkeC8wLtO9BS
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: girdanrshm
 img: icons/person.svg
 type: being

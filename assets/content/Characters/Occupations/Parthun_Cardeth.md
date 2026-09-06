@@ -12,7 +12,7 @@ name:
   aliases:
     - Garrick Thorn
 id: QxeGPva2A0FgB9xO
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: prthncrdth
 img: icons/person.svg
 type: being

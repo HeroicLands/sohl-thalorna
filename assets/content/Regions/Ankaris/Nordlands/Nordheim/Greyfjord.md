@@ -16,7 +16,7 @@ name:
   full: Greyfjord
   aliases: []
 shortcode: greyfjord
-folder: tUOAFxX25mViDE7q
+packFolder: nordheim
 ---
 
 # Greyfjord

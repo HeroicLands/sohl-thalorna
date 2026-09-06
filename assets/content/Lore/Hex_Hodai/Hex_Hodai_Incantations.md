@@ -10,7 +10,7 @@ shortcode: hxhdncnttns
 name:
   full: Héx Hodäi Incantations
   aliases: []
-folder: H8lfX9Zy7YDUeAjX
+packFolder: affiliationshexhodai
 ---
 
 # Pyréthos (Fire)

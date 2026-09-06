@@ -8,7 +8,7 @@ name:
   aliases:
     - People of the Covenant
 shortcode: aelendnppl
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 - **Parent realm:** [[place-elavendre|Élavendre]]

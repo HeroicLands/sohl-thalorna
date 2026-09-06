@@ -12,7 +12,7 @@ name:
   aliases:
     - Satara ReenKhensu
 id: 0Cn6X5sgjYv7AeHV
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: satrrnkhns
 img: icons/person.svg

@@ -13,7 +13,7 @@ name:
     - the Deceiver
   home: null
 id: iB0pAohYTsOGW5Kv
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: sigurdecvr
 img: icons/person.svg
 type: being

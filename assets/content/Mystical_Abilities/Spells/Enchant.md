@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Charm
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster holds a metallic object and imbues it with an alluring glamour that makes it appear more beautiful, valuable, and desirable than it actually is. A plain iron ring seems to gleam with the luster of fine gold. A common steel blade appears to be a weapon of exquisite craftsmanship, its edge catching the light with an almost hypnotic beauty. Those who behold the enchanted object feel an irrational attraction to it — a desire to possess, examine, or simply admire it.

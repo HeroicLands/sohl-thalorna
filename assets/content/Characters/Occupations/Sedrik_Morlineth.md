@@ -11,7 +11,7 @@ name:
   aliases:
     - Edric Stonewall
 id: f2v2R2Iy9uOT4WF3
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: sdrkmrlnth
 img: icons/person.svg
 type: being

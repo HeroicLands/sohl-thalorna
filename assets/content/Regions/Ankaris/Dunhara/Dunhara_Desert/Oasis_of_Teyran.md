@@ -15,7 +15,7 @@ name:
   full: Oasis of Teyran
   aliases: []
 shortcode: oasisteyrn
-folder: fHLmguBwgTuZfGJ9
+packFolder: dunharadesert
 ---
 
 # Oasis of Teyran

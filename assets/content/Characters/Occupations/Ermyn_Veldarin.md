@@ -11,7 +11,7 @@ name:
   home: ""
   aliases: []
 id: QnBow8w3Ndr86Zfn
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: ermynvldrn
 img: icons/person.svg
 type: being

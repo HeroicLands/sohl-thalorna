@@ -11,7 +11,7 @@ name:
   home: Karataş
   aliases: []
 id: pgoKQsvyOFACnMKU
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: helnmystks
 img: icons/person.svg
 type: being

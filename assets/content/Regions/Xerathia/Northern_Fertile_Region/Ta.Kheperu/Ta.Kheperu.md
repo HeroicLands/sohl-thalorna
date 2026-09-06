@@ -118,7 +118,7 @@ data:
 sohl:
   archetype: null
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
-folder: Mg1l8E3ZTJp6bbHO
+packFolder: takheperu
 ---
 
 {{< cartouche slug="takheperu" height="10rem" align="right" >}}

@@ -6,7 +6,7 @@ name:
   full: Zāthük
   aliases: []
 shortcode: zathuk
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Zāthük

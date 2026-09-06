@@ -21,7 +21,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: fcLFzLU9FKB7h0gp
+packFolder: nkaruthar
 ---
 
 See [[affiliation-nkaruthar|Nkaru'thar]]

@@ -11,7 +11,7 @@ name:
   aliases:
     - Lysandra Aetherwind
 id: tQAuzSsJimAQ8yRV
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hlvgstrmrt
 img: icons/person.svg
 type: being

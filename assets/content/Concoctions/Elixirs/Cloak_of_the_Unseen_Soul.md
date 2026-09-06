@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Soulcloak Elixir shimmers with a defensive luminescence, tinged with protective silver, and tastes of old shields and sanctuary. Drawn from the Principle of Defense (Neutral), this elixir wraps the imbiber's essence in obscurity, rendering them invisible to True Sight and other divinations that pierce the veil between worlds. When an attacker attempts to use True Sight to perceive the imbiber, a d10 roll is made against a TN equal to the elixir's AS; success causes the True Sight to automatically fail and reduces the elixir's AS by 1.

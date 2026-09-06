@@ -11,7 +11,7 @@ name:
   aliases:
     - Liora Willowbrook
 id: 9Vg8WnOnqQfkplJe
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: ivlynzlrth
 img: icons/person.svg
 type: being

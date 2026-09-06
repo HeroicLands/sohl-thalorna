@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Physic Elixir glows with a neutral, almost colorless clarity, like water that has been distilled through seven nights of ritual refinement. When imbibed, it acts as an arcane counteragent, actively suppressing other elixirs already flowing through the drinker's veins. The Physic's AS is subtracted directly from the AS of every active elixir in the imbiber's body; any elixir whose AS drops to zero or below is dispelled entirely.

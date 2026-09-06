@@ -12,7 +12,7 @@ name:
   aliases:
     - Alaric Wynter
 id: nPFz46PDjqipVJIq
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: ylndrmyrdl
 img: icons/person.svg
 type: being

@@ -105,7 +105,7 @@ data:
     varakpnthn: aligned
 sohl:
   archetype: null
-folder: dxzsTyaF4LMapIJX
+packFolder: pantheonsvarnaka
 ---
 
 # Kāmavrata — The Celestial Lover

@@ -10,7 +10,7 @@ name:
   home: Karataş
   aliases: []
 id: f18FWVA5XOWaW9tc
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: damklsmpsn
 img: icons/person.svg
 type: being

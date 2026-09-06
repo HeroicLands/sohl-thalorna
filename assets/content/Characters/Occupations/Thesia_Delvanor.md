@@ -11,7 +11,7 @@ name:
   aliases:
     - Seraphine Steelheart
 id: 9yvlFSFx7ZHrZfUB
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: thesidlvnr
 img: icons/person.svg
 type: being

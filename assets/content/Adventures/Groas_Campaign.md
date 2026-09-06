@@ -16,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-folder: TokyoDCf1w4elPns
+packFolder: adventures
 ---
 
 ## Gróa, the Seiðr of Malagna

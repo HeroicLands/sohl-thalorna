@@ -11,7 +11,7 @@ name:
   home: Selímara
   aliases: []
 id: aTwfQByXFdJ0R4QM
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: alykosmpsn
 img: icons/person.svg
 type: being

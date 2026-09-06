@@ -15,7 +15,7 @@ name:
     - Drenavar Mountains
 shortcode: drenavrspn
 terran_analog: "The Swiss Alps and adjacent French Alpine massifs — the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # The Drenavar Spine

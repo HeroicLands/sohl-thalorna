@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A pale yellow or amber liquid, almost indistinguishable from common herb infusions or weak wine to the untrained eye. The smell is subtle—perhaps slightly unpleasant, but nothing that would immediately arouse suspicion. The herbalist who prepares this treacherous draft works with extreme caution, wearing gloves and breathing shallow. A taste triggers immediate nausea and bitter flavors that linger long after spitting. Some herbalists will refuse to prepare this potion altogether, viewing it as crossing an irredeemable line from healer to murderer.

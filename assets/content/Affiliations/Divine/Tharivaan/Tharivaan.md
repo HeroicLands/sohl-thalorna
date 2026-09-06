@@ -100,7 +100,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: yYfrxFxB71tBPR8k
+packFolder: pantheonstharivaan
 ---
 
 # Thári'vaan: The Living Whole

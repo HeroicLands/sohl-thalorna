@@ -10,7 +10,7 @@ name:
   home: Valgard
   aliases: []
 id: KZegPHrI9zZwcX7L
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
 img: icons/person.svg
 type: being

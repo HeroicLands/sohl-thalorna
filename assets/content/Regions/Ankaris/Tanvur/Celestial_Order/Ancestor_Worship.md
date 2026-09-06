@@ -6,7 +6,7 @@ name:
   full: Ancestor Worship
   aliases: []
 shortcode: ancstrwrshp
-folder: hBkQzhJeB05EwziN
+packFolder: celestialorder
 ---
 
 # Ancestor Worship in Tānvür

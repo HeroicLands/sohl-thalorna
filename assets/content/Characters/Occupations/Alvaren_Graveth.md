@@ -11,7 +11,7 @@ name:
   aliases:
     - Thaddeus Brine
 id: aqypCWr9vtLUKaqP
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: alvrngrvth
 img: icons/person.svg
 type: being

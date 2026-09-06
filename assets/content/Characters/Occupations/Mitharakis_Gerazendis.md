@@ -11,7 +11,7 @@ name:
   aliases:
     - Finn the Jolly
 id: wwU90P0jpgjqmlMj
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: mthrksgrznds
 img: icons/person.svg
 type: being

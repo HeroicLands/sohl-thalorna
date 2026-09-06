@@ -11,7 +11,7 @@ name:
   aliases:
     - Liora Emberhand
 id: 9dq83Eh0ezFeKORd
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: kuruyashim
 img: icons/person.svg
 type: being

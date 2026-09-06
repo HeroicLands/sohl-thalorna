@@ -11,7 +11,7 @@ name:
   home: Járnvík
   aliases: []
 id: z7z7tW1x70FIeB2H
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrfnklhrfnsvld
 img: icons/person.svg
 type: being

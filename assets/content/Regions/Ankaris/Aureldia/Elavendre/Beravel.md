@@ -15,7 +15,7 @@ name:
   full: Béravel
   aliases: []
 shortcode: beravel
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # Béravel

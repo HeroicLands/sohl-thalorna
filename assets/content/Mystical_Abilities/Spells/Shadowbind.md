@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Gloomweb
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster weaves strands of tangible shadow into a sticky, clinging web that entangles and restrains. The shadows thicken and reach out like dark tendrils, wrapping around limbs, sealing shut doors, and binding objects in place. The web has real physical substance — cold, damp, and slightly yielding, like touching something that exists halfway between cloth and smoke.

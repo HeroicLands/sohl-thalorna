@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Fount
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster anchors a wellspring of ambient arcane energy to a fixed point, drawing scattered magical currents together into a concentrated, slowly rotating nexus visible as a soft luminous glow to those with magical sight. Practitioners who meditate within the fount's radius find their depleted reserves replenishing at an accelerated rate, the concentrated energy flowing into them like warmth from a hearth.

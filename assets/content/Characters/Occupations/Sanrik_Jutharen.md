@@ -11,7 +11,7 @@ name:
   aliases:
     - Halvard Brightforge
 id: F155sXZoMZwoOmNq
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: sanrkjthrn
 img: icons/person.svg
 type: being

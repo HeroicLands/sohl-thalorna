@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Fervour
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster seizes the target's emotions and fans them like coals in a forge, intensifying whatever feelings already burn within. Courage swells into fearlessness, determination hardens into unbreakable resolve, and even mild affection can be stoked into fierce devotion. The effect is not the creation of new emotions but the amplification of existing ones, making the target's heart burn with the full intensity of what they already feel.

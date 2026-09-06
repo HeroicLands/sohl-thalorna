@@ -102,7 +102,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: Zsfl8qxSI1uYIBPU
+packFolder: celestialpantheon
 ---
 
 # Vëizhük Dāknëi — The Jade Sovereign

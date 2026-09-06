@@ -16,7 +16,7 @@ name:
   full: Tz’ikin K’ul
   aliases: []
 shortcode: tzikinkul
-folder: 13VGFYcT7sKTGll7
+packFolder: south
 ---
 
 ## Overview

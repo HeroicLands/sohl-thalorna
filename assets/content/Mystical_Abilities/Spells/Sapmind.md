@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Enervation
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster projects a tendril of draining energy into the target's psyche, and their will to act simply bleeds away. Motivation evaporates, replaced by a crushing apathy that makes even the simplest action feel pointless and exhausting. The target's thoughts slow to a crawl, their emotional responses flatten, and the driving force that normally propels conscious behavior gutters and dims like a candle in rain.

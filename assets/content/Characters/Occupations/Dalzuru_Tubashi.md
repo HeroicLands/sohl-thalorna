@@ -11,7 +11,7 @@ name:
   aliases:
     - Sigurd Ravensong
 id: RWUXQR1iOg5OPctY
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: dalzurtbsh
 img: icons/person.svg
 type: being

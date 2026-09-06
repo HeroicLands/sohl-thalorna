@@ -16,7 +16,7 @@ name:
   full: Shamsûn
   aliases: []
 shortcode: shamsun
-folder: PUSPfoG6UdrnqPhK
+packFolder: amradad
 ---
 
 # Shamsûn

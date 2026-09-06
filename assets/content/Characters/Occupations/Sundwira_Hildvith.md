@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Hoofprint
 id: 7Tow88H5s2fqmO9J
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: sndwrhldvth
 img: icons/person.svg
 type: being

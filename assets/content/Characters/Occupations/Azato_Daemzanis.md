@@ -12,7 +12,7 @@ name:
   aliases:
     - Oswin Crey
 id: oCLrZ3aWZkSBvrjn
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: azatodmzns
 img: icons/person.svg
 type: being

@@ -100,7 +100,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: DWK5QE0GRZ8br2mk
+packFolder: organizations
 ---
 
 # Hëk Zhāk

@@ -6,7 +6,7 @@ name:
   full: Medicine
   aliases: []
 shortcode: medicine
-folder: jV7c6dJp4Ztnjtb3
+packFolder: tanvur
 ---
 
 # The Role of Apothecaries and Physicians in the Empire of Tānvür

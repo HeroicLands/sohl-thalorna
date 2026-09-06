@@ -11,7 +11,7 @@ name:
   aliases:
     - Brynden Wavecrest
 id: aUjA3PjeEYqvNSzP
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: erkrstrmrt
 img: icons/person.svg
 type: being

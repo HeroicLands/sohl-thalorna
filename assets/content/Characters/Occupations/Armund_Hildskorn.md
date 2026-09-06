@@ -11,7 +11,7 @@ name:
   aliases:
     - Jorvik the Merry
 id: 1S6xfB2gpBLzHfz3
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: armndhldskrn
 img: icons/person.svg
 type: being

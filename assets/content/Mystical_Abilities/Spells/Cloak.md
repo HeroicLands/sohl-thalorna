@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Shroud
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws metallic dust and mineral particles from the surrounding environment, swirling them into a dense cloud that settles over the target like a living garment. The particles constantly shift and realign, matching the colors and textures of the immediate background with remarkable fidelity. The cloaked individual blends into their surroundings — not truly invisible, but so well camouflaged that they are extremely difficult to spot unless they move suddenly or the observer knows exactly where to look.

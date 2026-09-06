@@ -109,7 +109,7 @@ data:
     ashanpnthn: aligned
 sohl:
   archetype: null
-folder: pAXnwYJhDDSvkrPt
+packFolder: byzaria
 ---
 
 Yeşilhan — the Green Caravanserai — is an inland city positioned at the junction of the great caravan routes leading east toward the [[place-khzryndsrtrgn|Khazryn Desert Region]] and south toward [[place-dunharargn|Dunhara Region]]. It is here that eastern goods — spices, silk, incense, gemstones — first pass into [[affiliation-byzarianlg|League]] hands before being distributed to the other city-states and onward to [[place-midhalnrgn|Mídhalión Region]].

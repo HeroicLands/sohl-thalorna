@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Chain
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster weaves invisible threads of arcane connectivity between two or more separate magical effects, binding them into a coordinated sequence that activates in a predetermined order or in response to shared conditions. A ward might be linked to an alarm, ensuring that when the alarm triggers, the ward simultaneously activates. A healing spell might be chained to a diagnostic, automatically administering treatment when injury is detected.

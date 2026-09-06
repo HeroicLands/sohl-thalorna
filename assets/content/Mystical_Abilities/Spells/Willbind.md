@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Resolve
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster fortifies the boundaries of their own mind with layered walls of arcane reinforcement, creating a mental fortress that resists intrusion, manipulation, and magical compulsion. External attempts to read the caster's thoughts encounter smooth, impenetrable surfaces. Spells designed to confuse, terrify, or control find no purchase against the hardened will. The caster's thoughts remain their own, clear and undistorted even amid psychic assault.

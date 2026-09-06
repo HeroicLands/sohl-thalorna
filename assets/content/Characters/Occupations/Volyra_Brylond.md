@@ -11,7 +11,7 @@ name:
   aliases:
     - Marwen Thatcher
 id: bNjpiEQhK8nDSqXx
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: vlyrbrylnd
 img: icons/person.svg
 type: being

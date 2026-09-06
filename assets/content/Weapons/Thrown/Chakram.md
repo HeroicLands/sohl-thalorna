@@ -105,7 +105,7 @@ sohl:
       baseRangeBase: 80
       drawBase: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A flat steel disc with a sharpened outer rim, the chakram is thrown spinning to cut at range or held in the palm for slashing in close. Its disc shape gives stable flight and returns partly on recovery, though skilled throwers depend more on precision than return. Worn open on the wrist or hidden in a sleeve, it favors duelists and cavalry skirmishers.

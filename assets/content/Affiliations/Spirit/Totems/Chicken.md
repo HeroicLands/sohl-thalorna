@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Timid and skittish, chickens are easily startled and rely on their quick reflexes and flocking behavior for safety.

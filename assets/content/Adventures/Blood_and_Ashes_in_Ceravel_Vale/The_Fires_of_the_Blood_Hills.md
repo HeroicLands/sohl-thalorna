@@ -21,7 +21,7 @@ shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills
   aliases: []
-folder: 9TmLIkGXGHMtFxzy
+packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

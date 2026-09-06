@@ -17,7 +17,7 @@ name:
     - Set-Ma'at
 banner: banners/ta-kheperu-banner.webp
 shortcode: setmaat
-folder: bq0QGXXvq8fNpewL
+packFolder: khensuret
 ---
 
 # Set-Maat

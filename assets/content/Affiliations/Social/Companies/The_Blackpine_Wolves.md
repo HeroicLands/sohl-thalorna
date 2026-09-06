@@ -96,7 +96,7 @@ name:
   aliases: []
 shortcode: blckpnwlvs
 banner: banners/company.webp
-folder: bVhz4i3fwwT0NDSW
+packFolder: politiescompanies
 ---
 
 # The Blackpine Wolves

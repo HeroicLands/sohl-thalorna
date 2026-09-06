@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Victual
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster touches a quantity of organic material—up to half their Spell Index in pounds—and suffuses it with preservative Physéra energy that renders it edible and nutritious regardless of its original palatability. Approximately three pounds of transmuted material provides sufficient sustenance for one person for a full day. The spell does not discriminate: bark, leaves, leather scraps, cotton wadding, and even mildly decomposed organic matter all become safe to consume. However, poisonous or toxic material remains so even after casting—the spell nourishes but does not purify.

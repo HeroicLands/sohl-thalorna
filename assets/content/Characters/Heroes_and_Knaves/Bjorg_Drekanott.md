@@ -10,7 +10,7 @@ name:
   home: Ulfheim
   aliases: []
 id: 27J04R6N0Txnbpgm
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: bjorgdrknt
 img: icons/person.svg
 type: being

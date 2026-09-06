@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Survey
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster closes their eyes and releases a pulse of awareness that radiates outward in all directions like a stone dropped into still water. This invisible wave passes through walls, earth, and living tissue alike, returning impressions of magical disturbances, hidden chambers, concealed creatures, and structural weaknesses within its radius. The information arrives not as sight but as a kind of spatial intuition — the caster simply knows what lies around them.

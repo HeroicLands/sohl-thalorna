@@ -14,7 +14,7 @@ name:
     - Firehair
     - the Shipwright's Son
 id: Yn25raq7PEoX9VDX
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: eldridfrhr
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Mira Clayfoot
 id: Z51vTfGPlcpTCCHH
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: methrzlrth
 img: icons/person.svg
 type: being

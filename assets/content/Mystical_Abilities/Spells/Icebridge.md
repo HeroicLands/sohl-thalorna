@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Floe
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster freezes a path across open water, forming a bridge of thick, solid ice that can support the weight of travelers, animals, and even laden carts. The ice spreads from the caster's position, extending outward in the direction they indicate, thickening and reinforcing itself as it grows. The resulting bridge is rough-surfaced for grip and arches slightly above the water line, with edges that curve upward to prevent slipping off the sides.

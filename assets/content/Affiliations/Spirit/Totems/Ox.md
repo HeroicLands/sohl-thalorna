@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Strong and dependable, oxen are resilient animals used in agriculture for their ability to carry heavy loads and work tirelessly in fields.

@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 This is a vibrant, almost lurid red or orange liquid, sometimes darkening to a deep crimson, laden with visible particles of crushed stimulant botanicals. The aroma hits like a blow—sharp, aggressive, and overwhelming, filling the nostrils with spice and burning sensation. Many describe the smell as almost electric. A single swallow induces intense tingling that spreads from the mouth to the fingertips, along with a racing sensation in the chest. Those unused to this potency sometimes report heart palpitations that cause alarm, though they pass quickly.

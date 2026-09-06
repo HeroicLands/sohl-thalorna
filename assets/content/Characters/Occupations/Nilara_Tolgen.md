@@ -11,7 +11,7 @@ name:
   aliases:
     - Maelis Oakhand
 id: uquhXz3G0aQ3IDAd
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: nilaratlgn
 img: icons/person.svg
 type: being

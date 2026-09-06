@@ -11,7 +11,7 @@ name:
   aliases:
     - Akhrem Reenfré
 id: 772bjjl9UPxZqT2D
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
 img: icons/person.svg

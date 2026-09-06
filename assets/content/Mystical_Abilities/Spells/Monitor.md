@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Monitor
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster fixes a location firmly in mind — a room they have visited, a crossroads they have studied — and extends a thread of awareness to that distant point. Through this invisible tether, the caster perceives the location as though standing within it: hearing conversations, observing movements, and sensing any magical activity. The monitoring point is stationary and invisible, betraying no physical sign of the caster's remote presence.

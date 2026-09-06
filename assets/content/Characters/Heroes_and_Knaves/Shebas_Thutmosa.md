@@ -11,7 +11,7 @@ name:
   home: Ankh-Setûn
   aliases: []
 id: elyLZGvIgAkwHPtP
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shebsthtms
 img: icons/person.svg

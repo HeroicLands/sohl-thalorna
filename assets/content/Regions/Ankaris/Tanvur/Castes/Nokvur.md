@@ -6,7 +6,7 @@ name:
   full: Nōkvür
   aliases: []
 shortcode: nokvur
-folder: ZUKWHCnKcLAoZMdf
+packFolder: castes
 ---
 
 # Nōkvür

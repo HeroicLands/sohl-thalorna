@@ -17,7 +17,7 @@ data:
   party:
     size: null
     archetypes: []
-folder: TokyoDCf1w4elPns
+packFolder: adventures
 ---
 
 # The Forgotten Shrine of the Thúravel Hills

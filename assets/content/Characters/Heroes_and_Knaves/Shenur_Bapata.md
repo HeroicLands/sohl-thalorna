@@ -12,7 +12,7 @@ name:
   aliases:
     - Shenur Bapata
 id: FP1Qp5eteOJJbpvp
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
 img: icons/person.svg

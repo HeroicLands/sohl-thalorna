@@ -16,7 +16,7 @@ name:
   full: Bethûra
   aliases: []
 shortcode: bethura
-folder: Y64e5NGsp8OwZ6xQ
+packFolder: bethua
 ---
 
 # Bethûra

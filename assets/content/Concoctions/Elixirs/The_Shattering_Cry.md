@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Shout Elixir vibrates in its vial like a plucked harpstring, golden and thrumming with barely contained power. When the imbiber speaks, they may unleash the full might of this elixir as a 1-turn action—a bone-shattering cry that reverberates across thirty feet, deafening all creatures within range. Those struck must make a Shock Roll against SHK 6; the resulting deafness carries a Healing Rate of 5 and lasts approximately ten minutes.

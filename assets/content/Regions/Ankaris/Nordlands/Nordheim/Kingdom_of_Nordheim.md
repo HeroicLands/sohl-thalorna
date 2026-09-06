@@ -121,7 +121,7 @@ data:
     vrystwldtrbs: rival
 sohl:
   archetype: null
-folder: tUOAFxX25mViDE7q
+packFolder: nordheim
 ---
 
 **Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]

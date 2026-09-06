@@ -11,7 +11,7 @@ name:
   aliases:
     - Orin Swiftbow
 id: mHxNWFOCWdnrJi7s
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: hrprsvrkrtys
 img: icons/person.svg
 type: being

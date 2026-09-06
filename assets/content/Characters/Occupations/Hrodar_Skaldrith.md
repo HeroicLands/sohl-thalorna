@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Ironhand
 id: fBM0lIsugfuQstCM
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: hrdrskldrth
 img: icons/person.svg
 type: being

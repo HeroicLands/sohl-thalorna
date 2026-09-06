@@ -10,7 +10,7 @@ name:
   home: Skarholme
   aliases: []
 id: QN3ixBlCs7Ho4lzi
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr
 img: icons/person.svg
 type: being

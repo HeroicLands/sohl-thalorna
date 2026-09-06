@@ -11,7 +11,7 @@ name:
   aliases:
     - Captain Elysia Windrider
 id: mWkFGDF4tFbf8zGD
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: rhalizlrth
 img: icons/person.svg
 type: being

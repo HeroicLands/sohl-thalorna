@@ -12,7 +12,7 @@ name:
   aliases:
     - Elda Brightbrew
 id: 4djkWNdRfrCQBFMC
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: mildrdhrdn
 img: icons/person.svg
 type: being

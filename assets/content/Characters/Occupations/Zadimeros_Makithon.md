@@ -12,7 +12,7 @@ name:
   aliases:
     - Edwyn Merle
 id: tzQPxC5HChpoevbL
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: zdmrsmkthn
 img: icons/person.svg
 type: being

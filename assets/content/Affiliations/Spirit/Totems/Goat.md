@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Curious and determined, goats are naturally inquisitive animals that will climb, explore, and test their environment to satisfy their curiosity.

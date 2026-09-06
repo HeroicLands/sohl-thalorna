@@ -11,7 +11,7 @@ name:
   aliases:
     - Elira Coldbrook
 id: Afo16hD8hP1jF7Ts
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: azinarafrs
 img: icons/person.svg
 type: being

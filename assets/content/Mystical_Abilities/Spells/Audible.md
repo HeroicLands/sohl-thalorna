@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Voice
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster draws a slow breath and speaks into cupped hands, releasing the words onto a thread of wind that spirals outward like an uncoiling serpent. The voice rides the current with startling fidelity, arriving at its destination as though the speaker stood an arm's length away, regardless of intervening walls, crowd noise, or howling gale. At higher masteries the caster can shape the wind-thread to branch, delivering the same utterance to multiple locations simultaneously, or modulate the carried voice so that it booms with battlefield authority or drops to a confiding murmur only the intended listener perceives.

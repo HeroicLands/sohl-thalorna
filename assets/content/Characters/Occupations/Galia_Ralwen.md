@@ -11,7 +11,7 @@ name:
   aliases:
     - Lady Elowen Brightwood
 id: l5TCfZR92uQwTeJI
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: galiaralwn
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Thalia Stonehand
 id: eP32fNMGyDLJ9YV5
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: gthnyldskr
 img: icons/person.svg
 type: being

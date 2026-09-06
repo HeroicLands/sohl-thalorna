@@ -11,7 +11,7 @@ name:
   clan: Skýrn
   aliases: []
 id: R9JqWrIVvy6hxCDo
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: elyseskyrn
 img: icons/person.svg
 type: being

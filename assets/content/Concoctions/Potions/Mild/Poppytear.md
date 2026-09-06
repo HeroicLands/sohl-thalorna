@@ -21,7 +21,7 @@ sohl:
   potency: "mild"
   strength: 0
   archetype: null
-folder: ggAbjgiu5EiuSik1
+packFolder: mild
 ---
 
 A pale, cream-colored liquid with a slight viscosity, swirling gently when tilted despite its stillness. The aroma is sweet and cloyingly familiar—poppy fields in late summer, hay warming in the sun. When tasted, it coats the tongue with a syrupy numbness that spreads slowly across the mouth and throat. Herbalists prize this as a mercy for the wounded, a small mercy for those who would otherwise lie screaming through their darkest hours.

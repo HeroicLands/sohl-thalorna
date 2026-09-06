@@ -12,7 +12,7 @@ name:
   aliases:
     - The Spirit Tracker
 id: DsVbnDM8LZGFtqA1
-folder: j9OL4rpRFGxbX57i
+packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
 img: icons/person.svg
 type: being

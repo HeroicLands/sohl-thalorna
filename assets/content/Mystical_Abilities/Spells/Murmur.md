@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Whisper
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster cups a hand beside their mouth and speaks in a low tone; the words are lifted by an invisible thread of wind so fine that it passes through crowds, around corners, and over walls without disturbing so much as a candle flame. The message arrives at the intended recipient's ear as a soft, intimate whisper indistinguishable from a companion leaning close—private, clear, and utterly inaudible to anyone standing even a pace away.

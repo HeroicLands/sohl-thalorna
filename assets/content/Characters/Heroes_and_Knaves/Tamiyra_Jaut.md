@@ -12,7 +12,7 @@ name:
     - Tamiyra Jâut
     - Tamiyra Jaut
 id: xhjXcv7FLvFvrHyk
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tamiyrajat
 img: icons/person.svg

@@ -14,7 +14,7 @@ name:
     - Blodtūsc Bār
     - Thornak Mahnlin
 id: hH7o4YAGiDlrPEZb
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
 img: icons/person.svg
 type: being

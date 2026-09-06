@@ -99,7 +99,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: 6Gi1DyUGAYGvWCIo
+packFolder: academyofknowledge
 ---
 
 # Ordo Arcanis

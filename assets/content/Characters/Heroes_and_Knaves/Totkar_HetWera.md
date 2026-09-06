@@ -12,7 +12,7 @@ name:
   aliases:
     - Totkar HetWera
 id: oVd0fGTKVyci3mOS
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: totkarhtwr
 img: icons/person.svg

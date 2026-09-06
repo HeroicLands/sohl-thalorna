@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Counter
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster hurls a lance of dissonant arcane energy at a rival in the act of casting, disrupting the delicate pattern of gathered power before the spell can take shape. The effect is immediate and jarring — the interrupted caster feels their gathered energy scatter like dropped coins, the half-formed spell collapsing into harmless sparks. The sensation is deeply unpleasant, often compared to a violent sneeze that aborts a careful thought.

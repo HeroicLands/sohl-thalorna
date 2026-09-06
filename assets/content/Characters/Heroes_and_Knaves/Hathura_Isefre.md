@@ -11,7 +11,7 @@ name:
   aliases:
     - Hathura Isefré
 id: KBtuTe3yT29FRm6C
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
 img: icons/person.svg

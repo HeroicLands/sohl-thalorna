@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Dart
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster extends their hand and a volley of razor-sharp metal shards materializes and launches toward the target in a glittering, deadly spray. Each shard is small — no larger than a finger joint — but they fly with the velocity and penetrating power of crossbow bolts, their edges honed to molecular sharpness by the magic that created them. The shards punch through leather and cloth with ease and can penetrate mail links or find the gaps between plates.

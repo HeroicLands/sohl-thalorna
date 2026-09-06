@@ -6,7 +6,7 @@ name:
   full: Marriage
   aliases: []
 shortcode: marriage
-folder: jV7c6dJp4Ztnjtb3
+packFolder: tanvur
 ---
 
 # Marriage Customs of the Empire of Tānvür

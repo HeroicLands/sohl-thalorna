@@ -10,7 +10,7 @@ name:
   aliases:
     - Parma
 id: R8kmkRmbdNRcvwuA
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

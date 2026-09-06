@@ -21,7 +21,7 @@ sohl:
   potency: "na"
   strength: 0
   archetype: null
-folder: zjH2UVFqfHp20lIq
+packFolder: elixirs
 ---
 
 A Weakness Elixir is a sickly, pale fluid that reeks of decay and exhaustion, and induces profound unease simply by proximity. Drawn from the Principle of Decay (Physéra), this is an applied elixir designed to be shattered rather than swallowed. When the vial is forcibly smashed—hurled at an enemy or dashed against ground—it detonates in a twenty-foot radius cloud of invisible, toxic fumes. All creatures caught within the blast at the moment of explosion have their Strength score reduced by half the elixir's AS, affecting Impact Modifier, Heft, Draw, and Encumbrance Modifier accordingly.

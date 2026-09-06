@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 This is nearly black liquid that seems to absorb light—viscous and heavy, clinging to the vial like something sentient and reluctant to be disturbed. The smell is overwhelming and almost hypnotic: an intoxicating blend of sleep-herbs so potent that merely uncorking the bottle can induce drowsiness in nearby watchers. Some herbalists have reported falling asleep while preparing this draft despite their best efforts to remain vigilant. A single drop on the tongue begins inducing sleep before it can be spat out, and swallowing even a small amount feels almost like drowning in warmth.

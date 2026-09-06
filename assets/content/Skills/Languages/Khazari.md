@@ -21,7 +21,7 @@ sohl:
   masteryLevelBase: 0
   improveFlag: false
   archetype: null
-folder: sn9NBuZMZOBqxsYv
+packFolder: language
 flags:
   "sohl-thalorna":
     lang_family: Elder

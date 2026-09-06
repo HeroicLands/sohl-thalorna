@@ -11,7 +11,7 @@ name:
   aliases:
     - Bronn Hillstride
 id: ne1WJnLn03ovXjY5
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: godwinadwl
 img: icons/person.svg
 type: being

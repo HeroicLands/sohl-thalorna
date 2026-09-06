@@ -12,7 +12,7 @@ name:
     - Sênta TaSereket
     - Senta TaSereket
 id: Bsazl9Wt9ZN5uPcn
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
 img: icons/person.svg

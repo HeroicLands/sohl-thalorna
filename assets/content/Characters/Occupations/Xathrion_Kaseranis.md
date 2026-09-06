@@ -11,7 +11,7 @@ name:
   aliases:
     - Dr. Fenwick Grayshadow
 id: 8y3NAp935k0u7KUu
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: xthrnksrns
 img: icons/person.svg
 type: being

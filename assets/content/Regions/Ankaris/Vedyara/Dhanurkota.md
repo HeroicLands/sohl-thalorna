@@ -15,7 +15,7 @@ name:
   full: Dhanurkota
   aliases: []
 shortcode: dhanurkota
-folder: q61mqomRaSzUNfrY
+packFolder: vedyara
 ---
 
 _To be written._

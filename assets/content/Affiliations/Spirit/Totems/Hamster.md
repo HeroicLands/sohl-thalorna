@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Cautious and hoarding, hamsters instinctively gather and store food in their cheek pouches, always preparing for future scarcity.

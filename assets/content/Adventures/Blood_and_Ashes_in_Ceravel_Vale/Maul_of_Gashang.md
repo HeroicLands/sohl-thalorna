@@ -20,7 +20,7 @@ name:
   full: Maul of Gashang
   aliases: []
 shortcode: maulgashng
-folder: 9TmLIkGXGHMtFxzy
+packFolder: bloodandashesinceravelvale
 ---
 
 ### Background and Creation

@@ -13,7 +13,7 @@ name:
     - Whispers
     - The Dancing Shadow
 id: sDY5Rgc6HrxX8NSY
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: isaretkskr
 img: icons/person.svg

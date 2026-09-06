@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 This is barely liquid at all—a viscous, almost gelatinous substance that clings to the vial like something half-alive. Its color is a sickly pale green, nearly phosphorescent in near-darkness. The smell is overwhelming: cloying, toxic, sharp enough to make even seasoned herbalists gag. Merely uncorking the vial for too long can cause a spreading numbness in the hands holding it. A drop on the skin raises an immediate blister. Ingestion is mercifully rare, as few would voluntarily swallow something that smells of death itself.

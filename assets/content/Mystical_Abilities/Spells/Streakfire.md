@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Shooting Star
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster sweeps their arm in a throwing motion and a bolt of condensed flame streaks from their hand, tracing a brilliant line of light across the intervening space before striking its target in a burst of fire and concussive force. The bolt moves faster than an arrow, too quick to dodge at close range, and strikes with enough thermal energy to ignite clothing, scorch armor, and inflict severe burns on exposed flesh.

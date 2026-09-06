@@ -12,7 +12,7 @@ name:
     - Fire-Tongue
   home: null
 id: 30golrnmNsRWhWcH
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hakonfrtng
 img: icons/person.svg
 type: being

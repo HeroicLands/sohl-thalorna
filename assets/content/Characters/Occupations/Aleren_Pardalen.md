@@ -11,7 +11,7 @@ name:
   aliases:
     - Torvin Ashbark
 id: qcTBaH7ZIRU8VVQm
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: alernprdln
 img: icons/person.svg
 type: being

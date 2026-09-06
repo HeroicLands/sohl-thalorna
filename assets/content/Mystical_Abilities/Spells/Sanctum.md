@@ -19,7 +19,7 @@ sohl:
   archetype: null
 hmk:
   name: Sanctum
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster inscribes an invisible boundary around a chosen space and speaks words of sealing, causing a dome of interwoven protective magic to rise from the marked perimeter. Within the sanctum, occupants are shielded from scrying, magical assault, and physical intrusion. The boundary repels hostile magic and resists forced entry with a stubbornness proportional to the caster's power, though it does not render the interior invisible — observers outside can see the faint shimmer of the boundary and know that magic is at work.

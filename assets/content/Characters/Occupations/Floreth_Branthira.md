@@ -11,7 +11,7 @@ name:
   aliases:
     - Jarek Ironfoot
 id: cC6ZKPmuMEGj9dCg
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
 img: icons/person.svg
 type: being

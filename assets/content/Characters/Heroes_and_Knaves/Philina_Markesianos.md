@@ -10,7 +10,7 @@ name:
   home: Byzaris
   aliases: []
 id: 1sTgw2TTJsatwD83
-folder: b81DHx3S7C9ep13E
+packFolder: helladbyzaria
 shortcode: phlnmrksns
 img: icons/person.svg
 type: being

@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Territorial and aggressive, geese are fiercely protective of their nesting sites and will not hesitate to confront intruders with loud honks and aggressive displays.

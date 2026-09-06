@@ -11,7 +11,7 @@ name:
   aliases:
     - Anwen Shardwell
 id: sb1QzraK3RXVd6MV
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: mentrkrmys
 img: icons/person.svg
 type: being

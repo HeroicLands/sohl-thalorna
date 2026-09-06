@@ -11,7 +11,7 @@ name:
   aliases:
     - Ulfric Battleborn
 id: vwal3jKQzejVObfV
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: arznlsbrds
 img: icons/person.svg
 type: being

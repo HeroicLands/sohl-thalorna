@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: dxzsTyaF4LMapIJX
+packFolder: pantheonsvarnaka
 ---
 
 # Varṇaka Pantheon

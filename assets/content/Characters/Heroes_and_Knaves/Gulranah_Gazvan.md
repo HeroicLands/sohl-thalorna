@@ -11,7 +11,7 @@ name:
   home: Shamsûn
   aliases: []
 id: c7RWGvTLcVd5Lg7A
-folder: V1t8DVX0wKSOCJd5
+packFolder: sultanateofamradad
 shortcode: gulrnhgzvn
 img: icons/person.svg
 type: being

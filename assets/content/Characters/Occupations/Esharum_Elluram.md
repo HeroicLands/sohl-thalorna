@@ -11,7 +11,7 @@ name:
   aliases:
     - Edwin Hale
 id: YSgy3c2Eom06Dwt0
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: esharumlrm
 img: icons/person.svg
 type: being

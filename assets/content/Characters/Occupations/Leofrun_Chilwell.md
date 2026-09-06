@@ -11,7 +11,7 @@ name:
   aliases:
     - Elara Greenpath
 id: WSlmnVErULWHMsg1
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Hilda Stoneheart
 id: HnyADvkxtUuX8KMf
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: hawiseshby
 img: icons/person.svg
 type: being

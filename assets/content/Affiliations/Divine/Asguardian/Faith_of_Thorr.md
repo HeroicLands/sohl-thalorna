@@ -103,7 +103,7 @@ shortcode: thorr
 img: images/affiliation/thorr.webp
 sohl:
   archetype: null
-folder: cFyVbOx7bj35ZyPA
+packFolder: pantheonsasguardian
 ---
 
 Thórr, the thunderous god of war, reavers, and the sea, stands as a formidable protector and champion of both gods and humans. Known for his immense strength and unyielding courage, Thórr is the embodiment of the warrior spirit, a force of nature who defends the realms from the chaos of giants and other threats. His domain extends over the seas, making him a patron of sailors and reavers, who invoke his name for safe passage and victory in their raids.

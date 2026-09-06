@@ -12,7 +12,7 @@ name:
   clan: Véthar
   aliases: []
 id: 6Bc5fC5rRrl6cMNj
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: dagulfvthr
 img: icons/person.svg
 type: being

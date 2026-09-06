@@ -11,7 +11,7 @@ name:
   home: Stormveil
   aliases: []
 id: 8JHUdKF0j7elKPoh
-folder: elH5NDPUuiRCICrE
+packFolder: aureldiaaelwyth
 shortcode: thorrldskr
 img: icons/person.svg
 type: being

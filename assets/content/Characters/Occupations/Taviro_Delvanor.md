@@ -11,7 +11,7 @@ name:
   aliases:
     - Merrick Oarwright
 id: yfR9Q3IiP3whlIzH
-folder: 9t9O4iB5cYJtSaTG
+packFolder: aureldiatarvenia
 shortcode: tavirdlvnr
 img: icons/person.svg
 type: being

@@ -61,7 +61,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 Iron rings and bands that slip over the knuckles, turning a fist into a weighted striking tool for use in tight quarters where a blade would be worthless. Some have a ridge or spike welded to the striking face for added bite. A fighter’s choice for tavern brawl or street ambush, easy to carry and easy to hide.

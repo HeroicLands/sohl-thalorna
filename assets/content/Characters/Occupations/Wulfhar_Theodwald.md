@@ -11,7 +11,7 @@ name:
   aliases:
     - Magnus Wolfheart
 id: sMtwgKGnjQEo2gw2
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: wlfhrthdwld
 img: icons/person.svg
 type: being

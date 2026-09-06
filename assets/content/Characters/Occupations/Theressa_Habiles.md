@@ -11,7 +11,7 @@ name:
   aliases:
     - Elenora Gray
 id: shKRIy5z0w9XZjsc
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: thereshbls
 img: icons/person.svg
 type: being

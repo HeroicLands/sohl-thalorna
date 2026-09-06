@@ -11,7 +11,7 @@ name:
   aliases:
     - Dr. Alistair Reed
 id: XtShO68sxNoo9iEj
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: salmnhdrks
 img: icons/person.svg
 type: being

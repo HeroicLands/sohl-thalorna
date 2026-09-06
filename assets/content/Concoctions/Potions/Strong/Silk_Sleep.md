@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 This draft is darker than its mild counterpart—a deep gray or blue-tinged liquid that seems to hold the color of twilight itself. The aroma is heavier and more cloying: a thick miasma of sleep-herbs, poppy, and something mineral that weighs on the senses. A small sip induces immediate drowsiness so profound that many users report their eyes beginning to close before they finish swallowing. Those who drink it often describe the experience as falling into warm water, growing heavier and heavier until nothing remains but the pull toward sleep.

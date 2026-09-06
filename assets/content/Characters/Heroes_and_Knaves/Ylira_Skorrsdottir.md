@@ -9,7 +9,7 @@ name:
   clan: Íseldr
   aliases: []
 id: Jb3E8nYXWG0bX0HW
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: ylrskrsdtr
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

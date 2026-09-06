@@ -11,7 +11,7 @@ name:
   aliases:
     - Professor Liraen Windwhisper
 id: DVMxASJ6EWIZQ0nW
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: frdwyndmhr
 img: icons/person.svg
 type: being

@@ -16,7 +16,7 @@ name:
   full: Tyrellan
   aliases: []
 shortcode: tyrellan
-folder: WSdLuPc7BaRqxNEt
+packFolder: vylaria
 ---
 
 # Tyrellan

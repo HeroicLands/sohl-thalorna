@@ -36,7 +36,7 @@ sohl:
     "subType:social": 0
     water: 0
     hydalis: 0
-folder: 22zncJuZCvjO7YSY
+packFolder: astrokyklos
 ---
 
 Bourax, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labour.

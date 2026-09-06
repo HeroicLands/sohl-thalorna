@@ -12,7 +12,7 @@ name:
   aliases:
     - Thrain Ironforge
 id: 8iO3WFg3aKsEECvl
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: hrmndgrwld
 img: icons/person.svg
 type: being

@@ -12,7 +12,7 @@ name:
   aliases:
     - Reslâva Elowen Meadowbloom
 id: OodgAvTEgRXia9J7
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: velarithrl
 img: icons/person.svg
 type: being

@@ -11,7 +11,7 @@ name:
   aliases:
     - Isolde Fairbloom
 id: R6HfPQBGxbxtl8nv
-folder: PuQFDMkRM9i60i5Z
+packFolder: midhalionharad
 shortcode: rimturdmrn
 img: icons/person.svg
 type: being

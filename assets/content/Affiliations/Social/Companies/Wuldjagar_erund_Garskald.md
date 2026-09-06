@@ -76,7 +76,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: bVhz4i3fwwT0NDSW
+packFolder: politiescompanies
 id: dYyYG1Auv2axyCZQ
 name:
   full: Wuldjagâr erund Gárskald

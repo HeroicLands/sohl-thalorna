@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: Detect
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster attunes their senses to the subtle currents of arcane energy that permeate the world, and the invisible becomes faintly visible. Active enchantments glow with soft haloes of color — each school and tradition carrying its own distinctive hue and texture. Dormant magical traps pulse with contained potential, their trigger boundaries limned in faint tracery. Even the residual traces of recently cast spells linger as ghostly afterimages.

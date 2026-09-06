@@ -11,7 +11,7 @@ name:
   aliases:
     - Harlan Deepwood
 id: msoxltaTIircdJsS
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: othwindmhr
 img: icons/person.svg
 type: being

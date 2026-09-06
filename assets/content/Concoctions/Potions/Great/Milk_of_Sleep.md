@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 This is liquid darkness itself—a black potion so opaque that light dies against its surface. The scent is overpowering, almost choking: a suffocating sweetness layered with burned sugar and something mineral, almost like smelling a cold stone tomb. Even unwrapping the cork releases fumes that make the eyes water. The herbalist who prepares this works with their face wrapped against the vapors. A single drop tastes like the distilled essence of oblivion.

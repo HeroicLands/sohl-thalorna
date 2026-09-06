@@ -11,7 +11,7 @@ name:
   clan: Hildskorn
   aliases: []
 id: H8W36Py5SZwjqIEr
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: thrwldhldskrn
 img: icons/person.svg
 type: being

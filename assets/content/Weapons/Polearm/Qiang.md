@@ -193,7 +193,7 @@ sohl:
         blockMod: 0
         counterstrikeMod: 0
   archetype: null
-folder: HXiYHvG6igI3Wlmm
+packFolder: weapons
 ---
 
 A slender thrusting spear with a leaf-shaped blade and decorative tassel, the Qiang blends reach and flexibility in a versatile polearm. The silk wrapping and tassel prevent blood from fouling the grip while serving to signal and distract in melee.

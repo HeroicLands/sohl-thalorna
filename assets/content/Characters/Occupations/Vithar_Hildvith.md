@@ -11,7 +11,7 @@ name:
   aliases:
     - Garrick Stoneforge
 id: jjZK8tfphJWAMMYN
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: vthrhldvth
 img: icons/person.svg
 type: being

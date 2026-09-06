@@ -21,7 +21,7 @@ sohl:
   potency: "great"
   strength: 0
   archetype: null
-folder: P4XrNWSkN9K7XpZr
+packFolder: great
 ---
 
 Nearly black-green, this preparation glimmers with an inner iridescence and has the stiffness of rendered wax. The smell is extraordinary—every healing herb known to the Thalorna apothecaries layered together, yet somehow harmonious rather than overwhelming, with hints of minerals and something nearly alchemical beneath the herbalism. When applied to an injury, the paste seems to hunt actively for damaged tissue, flowing slightly to cover the entire wound area even as it hardens into a protective seal. Patients watch their injuries visibly reverse their decay within the first hours of application—swelling collapses, infection retreats, dead tissue seems to slough away and be replaced by new, healthy growth.

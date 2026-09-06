@@ -5,7 +5,7 @@ tags:
   - xerathia
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Taméresh River through ritual, courage, and divine obligation."
 type: affiliation
-folder: bVhz4i3fwwT0NDSW
+packFolder: politiescompanies
 subType: order
 data:
   templatePriority: null

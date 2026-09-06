@@ -17,7 +17,7 @@ name:
   aliases:
     - The First Flame
 shortcode: zarhanor
-folder: voxX57xvTC1eRnSO
+packFolder: citystates
 ---
 
 **meaning:** _The First Flame_

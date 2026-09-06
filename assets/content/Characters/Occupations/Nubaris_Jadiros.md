@@ -11,7 +11,7 @@ name:
   aliases:
     - Lady Mirabel Shadowthorn
 id: mYipYFbxJKxDZJiN
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: nubarsjdrs
 img: icons/person.svg
 type: being

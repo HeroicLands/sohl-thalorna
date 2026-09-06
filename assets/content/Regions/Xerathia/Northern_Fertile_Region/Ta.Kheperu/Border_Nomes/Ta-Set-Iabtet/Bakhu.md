@@ -18,7 +18,7 @@ name:
   aliases: []
 banner: banners/ta-kheperu-banner.webp
 shortcode: bakhu
-folder: G7beOi7xbLclZh5f
+packFolder: tasetiabtet
 ---
 
 # Bakhu

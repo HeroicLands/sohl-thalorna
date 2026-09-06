@@ -11,7 +11,7 @@ name:
   aliases:
     - Elira Weaver
 id: QbfPBi3DldqyunDu
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: zahiratbrs
 img: icons/person.svg
 type: being

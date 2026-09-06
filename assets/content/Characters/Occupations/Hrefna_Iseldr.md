@@ -11,7 +11,7 @@ name:
   aliases:
     - Maera Fernwood
 id: oPj6r0jedkYtMV0K
-folder: Ka9XqaF27b0I3Gmq
+packFolder: ankarisnordlands
 shortcode: hrefnasldr
 img: icons/person.svg
 type: being

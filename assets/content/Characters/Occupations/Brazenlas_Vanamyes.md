@@ -11,7 +11,7 @@ name:
   aliases:
     - Orwin Blackshade
 id: GTrA1EEpDJjym6MG
-folder: UFBfgKZUF0bAE7gG
+packFolder: midhalionvylaria
 shortcode: brznlsvnmys
 img: icons/person.svg
 type: being

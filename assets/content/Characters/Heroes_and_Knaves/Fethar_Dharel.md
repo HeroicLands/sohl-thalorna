@@ -10,7 +10,7 @@ name:
   aliases:
     - Féth
 id: nDeptoLD1ULk7vsM
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
 img: icons/person.svg

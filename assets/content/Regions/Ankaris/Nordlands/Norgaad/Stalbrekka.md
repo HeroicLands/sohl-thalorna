@@ -16,7 +16,7 @@ name:
   full: Stálbrekka
   aliases: []
 shortcode: stalbrekka
-folder: k5SVeYFVPAxS9hci
+packFolder: norgaad
 ---
 
 # Stálbrekka

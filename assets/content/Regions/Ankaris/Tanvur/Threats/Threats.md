@@ -6,7 +6,7 @@ name:
   full: Threats
   aliases: []
 shortcode: threats
-folder: l3wIL8UihJI5nx6L
+packFolder: threats
 ---
 
 # Threats to the Empire of Tānvür

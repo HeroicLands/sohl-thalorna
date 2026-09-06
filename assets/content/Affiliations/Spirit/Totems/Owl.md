@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Mysterious and patient, owls are nocturnal predators that silently observe their surroundings, waiting for the perfect moment to strike.

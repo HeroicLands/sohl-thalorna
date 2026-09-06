@@ -11,7 +11,7 @@ name:
   aliases:
     - Lady Elowen Faircourt
 id: xgRxI5Pwdzrm9h82
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: arislkrsvr
 img: icons/person.svg
 type: being

@@ -10,7 +10,7 @@ name:
   home: Vashurán
   aliases: []
 id: eKzDzF6fdG1wdtaH
-folder: mtJ4TzKdySHbE2OM
+packFolder: heroesandknaveskalihara
 shortcode: muritarikh
 img: icons/person.svg
 type: being

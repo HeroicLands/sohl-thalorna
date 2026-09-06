@@ -15,7 +15,7 @@ name:
   full: Lunacòrte
   aliases: []
 shortcode: lunacorte
-folder: 2s244hfP0BpQi195
+packFolder: provenzia
 ---
 
 # Lunacòrte

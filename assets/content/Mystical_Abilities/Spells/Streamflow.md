@@ -20,7 +20,7 @@ sohl:
   archetype: null
 hmk:
   name: River
-folder: geh9MPdhQ9ieSHa4
+packFolder: spells
 ---
 
 The caster calls upon moving water to accelerate and strengthen, transforming a gentle brook into a rushing torrent or an irrigation channel into a forceful sluice. The water responds eagerly, surging forward with increased speed and pressure as if the streambed had suddenly steepened. Banks may overflow, debris is swept along, and anything caught in the flow must fight against a much stronger current than nature intended.

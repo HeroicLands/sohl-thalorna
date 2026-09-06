@@ -6,7 +6,7 @@ name:
   full: Caste Laws
   aliases: []
 shortcode: castelaws
-folder: jV7c6dJp4Ztnjtb3
+packFolder: tanvur
 ---
 
 # Caste Laws of the Empire of Tānvür

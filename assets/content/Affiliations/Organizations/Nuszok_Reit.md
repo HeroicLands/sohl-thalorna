@@ -106,7 +106,7 @@ data:
     tngvkvnlei: nemesis
 sohl:
   archetype: null
-folder: DWK5QE0GRZ8br2mk
+packFolder: organizations
 ---
 
 # Nüszōk Rëit

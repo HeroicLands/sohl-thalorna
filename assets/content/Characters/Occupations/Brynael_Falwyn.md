@@ -11,7 +11,7 @@ name:
   aliases:
     - Adelaine Mossgrove
 id: sozSptQLxEJHwBVJ
-folder: 4cwfdMa34UryZqPR
+packFolder: aureldiaelavendre
 shortcode: brynlflwyn
 img: icons/person.svg
 type: being

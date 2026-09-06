@@ -11,7 +11,7 @@ name:
   aliases:
     - Cedric Ironquill
 id: pRWM3YfHCHTxe6Kh
-folder: J9R0fnGUTBY5z4pd
+packFolder: aureldiaprovenzia
 shortcode: vornantlgn
 img: icons/person.svg
 type: being

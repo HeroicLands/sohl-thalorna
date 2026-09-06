@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Nocturnal and opportunistic, catfish are bottom-dwellers that take advantage of the cover of darkness to feed on whatever they can find.

@@ -97,7 +97,7 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder: vRIKmqTJtHtY4VEX
+packFolder: totems
 ---
 
 Defensive and solitary, hedgehogs rely on their spines for protection and prefer to remain hidden and alone in their burrows.

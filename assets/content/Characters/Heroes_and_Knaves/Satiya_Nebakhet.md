@@ -12,7 +12,7 @@ name:
     - Satîya Nebakhet
     - Satiya Nebakhet
 id: dJqasQpgkCLp0rSM
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: satiynbkht
 img: icons/person.svg

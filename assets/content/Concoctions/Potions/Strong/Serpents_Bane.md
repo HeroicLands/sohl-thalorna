@@ -21,7 +21,7 @@ sohl:
   potency: "strong"
   strength: 0
   archetype: null
-folder: DFkZMeVq8rIzo44Q
+packFolder: strong
 ---
 
 Brilliant amber-gold in color, this concentrated antivenin catches the light like liquid honey strained through cloth of gold, its surface catching lamplight with an almost oily sheen. The preparation smells sharply of distilled vinegar and crushed asps' teeth, potent enough to clear the sinuses at first whiff. A single sip burns the throat, but the sensation is almost welcome—the body recognizes immediately that it has received medicine of consequence. The vial is smaller than its mild counterpart, each drop more costly and more precious.

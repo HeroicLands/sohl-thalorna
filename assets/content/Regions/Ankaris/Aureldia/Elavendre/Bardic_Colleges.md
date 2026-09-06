@@ -93,7 +93,7 @@ name:
     - The Bardic Circle
     - Bardic Circle
 shortcode: bardicolgs
-folder: drAoDoNnFEygATeK
+packFolder: elavendre
 ---
 
 # The Bardic Colleges

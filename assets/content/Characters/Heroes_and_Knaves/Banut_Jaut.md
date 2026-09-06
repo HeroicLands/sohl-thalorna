@@ -11,7 +11,7 @@ name:
   home: Meru-Hotep
   aliases: []
 id: Vky3tsscqH9M3WEL
-folder: fZZH4cxRkvC4ehwP
+packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: banutjaut
 img: icons/person.svg

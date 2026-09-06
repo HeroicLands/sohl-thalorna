@@ -13,7 +13,7 @@ name:
     - the Forsaken
   home: null
 id: EhZ7oubLCClWzgDt
-folder: Nu7AgLZEmR26u2pk
+packFolder: ankarisvrystwald
 shortcode: astrdfrskn
 img: icons/person.svg
 type: being

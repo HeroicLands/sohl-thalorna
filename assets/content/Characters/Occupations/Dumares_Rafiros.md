@@ -12,7 +12,7 @@ name:
   aliases:
     - Sérolan Cedric Lightbringer
 id: 5U3SObMEq9PYXLKo
-folder: gpXd1anXulwRWZqn
+packFolder: helladhelionis
 shortcode: dumarsrfrs
 img: icons/person.svg
 type: being

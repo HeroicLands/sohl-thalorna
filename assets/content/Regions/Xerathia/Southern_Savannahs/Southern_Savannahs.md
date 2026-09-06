@@ -19,7 +19,7 @@ data:
     - xerathia
   population: null
 terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
-folder: Ka6y9l5O5XGpNhfI
+packFolder: southernsavannahs
 ---
 
 The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Xerathia]] — open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
