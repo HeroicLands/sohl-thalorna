@@ -31,7 +31,7 @@
         "build": "npm ci && npm run build:noci",
         "build:local": "npm i && npm run build:noci",
         "build:noci": "run-s lint build:db build:module build:link-manifest",
-        "build:db": "run-s build:assets build:compiledb build:content-index",
+        "build:db": "run-s build:content-index build:assets build:compiledb",
         "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
         "build:unpackdb": "content-build package unpack",
