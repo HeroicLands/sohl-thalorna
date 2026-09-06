@@ -53,7 +53,6 @@ publish:
     # `harn-adventures` publish under, where shipping a content page would
     # breach the terms the material is licensed on.
     site: content
-    manifests: { publish: true, consume: true }
     # Where the content tree mounts inside the package, read by both `manifest`
     # and the site build so the address a manifest publishes is the address a
     # page is emitted at. This package's content *is* its site, so it mounts at
