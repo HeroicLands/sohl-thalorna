@@ -15,7 +15,6 @@ name:
     - Hall Credit
     - Kin Credit
 shortcode: kinhalcrdt
-folder:
 ---
 
 # Kin and Hall Credit

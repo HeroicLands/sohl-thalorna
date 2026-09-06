@@ -101,7 +101,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Per'Mesnu

@@ -14,7 +14,6 @@ name:
     - Haradian Currency System
     - Bayt al-Khazînah
 shortcode: hardncrncy
-folder:
 ---
 
 # Haradian Currency

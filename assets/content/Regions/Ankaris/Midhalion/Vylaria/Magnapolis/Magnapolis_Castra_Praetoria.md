@@ -21,7 +21,6 @@ name:
   aliases:
     - The Castra
 shortcode: castraprtr
-folder:
 ---
 
 # Castra Praetoria — The Imperial Barracks

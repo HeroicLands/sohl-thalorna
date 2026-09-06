@@ -21,7 +21,6 @@ name:
   aliases:
     - The Grand Palace
 shortcode: palatimgnm
-folder:
 ---
 
 # Palatium Magnum — The Grand Palace

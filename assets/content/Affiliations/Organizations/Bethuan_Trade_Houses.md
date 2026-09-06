@@ -98,7 +98,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Bethûan Trade-Houses

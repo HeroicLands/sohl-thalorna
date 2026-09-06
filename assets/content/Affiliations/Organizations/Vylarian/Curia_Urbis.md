@@ -87,7 +87,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Courts of Magnápolis

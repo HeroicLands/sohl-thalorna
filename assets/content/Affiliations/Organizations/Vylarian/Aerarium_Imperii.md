@@ -90,7 +90,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Aerarium Imperii

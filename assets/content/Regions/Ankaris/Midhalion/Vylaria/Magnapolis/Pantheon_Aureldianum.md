@@ -21,7 +21,6 @@ name:
   aliases:
     - The Pantheon
 shortcode: pnthnrldnm
-folder:
 ---
 
 # Pantheon Aurèldiānum — The House of the Twelve

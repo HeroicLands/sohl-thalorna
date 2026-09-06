@@ -89,7 +89,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Warrior's Circle of the Dunhara Tribes

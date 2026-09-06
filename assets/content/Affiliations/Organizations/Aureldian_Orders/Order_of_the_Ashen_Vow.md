@@ -106,7 +106,6 @@ data:
     arldnpnthn: aligned
 sohl:
   archetype: null
-folder:
 ---
 
 # The Order of the Ashen Vow

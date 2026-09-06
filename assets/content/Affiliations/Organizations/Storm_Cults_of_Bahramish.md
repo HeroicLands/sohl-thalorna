@@ -106,7 +106,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Storm Cults of Báhrámiš

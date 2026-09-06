@@ -20,7 +20,6 @@ name:
     - Bit
     - The Argo
 shortcode: vylrncrncy
-folder:
 ---
 
 # Vylarian Currency

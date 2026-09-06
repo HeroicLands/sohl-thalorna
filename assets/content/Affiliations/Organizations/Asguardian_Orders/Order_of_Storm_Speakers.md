@@ -106,7 +106,6 @@ data:
     asguardian: aligned
 sohl:
   archetype: null
-folder:
 ---
 
 # The Order of the Storm-Speakers

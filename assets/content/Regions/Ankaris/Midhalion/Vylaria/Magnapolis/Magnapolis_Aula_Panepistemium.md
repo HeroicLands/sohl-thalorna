@@ -22,7 +22,6 @@ name:
     - The Aula
     - Court of the Academy
 shortcode: aulpnpstmm
-folder:
 ---
 
 # Aula Panepistemium — The Court of the Academy of Knowledge

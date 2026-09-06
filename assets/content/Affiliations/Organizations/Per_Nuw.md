@@ -99,7 +99,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Per'Nuw

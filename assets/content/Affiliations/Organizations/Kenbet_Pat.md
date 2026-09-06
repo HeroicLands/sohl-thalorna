@@ -86,7 +86,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Kenbet'Pat

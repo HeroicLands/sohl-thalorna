@@ -95,7 +95,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Sebeq'Sut

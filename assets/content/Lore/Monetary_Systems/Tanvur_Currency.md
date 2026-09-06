@@ -14,7 +14,6 @@ name:
   aliases:
     - Tánvür Monetary System
 shortcode: tanvrcrncy
-folder:
 ---
 
 # Tánvür Currency

@@ -112,7 +112,6 @@ name:
     - The Cinderhand
     - The Black Fist
 shortcode: ironcinder
-folder:
 ---
 
 # The Iron Cinder

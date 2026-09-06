@@ -74,7 +74,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # The Provènzia Theater Collective

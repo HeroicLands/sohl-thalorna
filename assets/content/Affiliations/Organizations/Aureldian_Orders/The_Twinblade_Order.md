@@ -111,7 +111,6 @@ name:
     - The Order of Two Faces
     - The Gate-Wardens
 shortcode: twinbldrdr
-folder:
 ---
 
 # The Twinblade Order

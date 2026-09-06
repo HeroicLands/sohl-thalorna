@@ -103,7 +103,6 @@ data:
   relations: {}
 sohl:
   archetype: null
-folder:
 ---
 
 # Sôd-Naqîrîn

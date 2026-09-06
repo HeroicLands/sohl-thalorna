@@ -107,7 +107,6 @@ data:
     asguardian: aligned
 sohl:
   archetype: null
-folder:
 ---
 
 # The Order of Fréyr's Guardians
