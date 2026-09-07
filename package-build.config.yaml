@@ -42,9 +42,9 @@ itemBuilders: sohl
 # only in sohl's unreleased main. Bumping `verified` once 0.9.0 is cut clears
 # them; what is left after that is authoring debt in this repository.
 packs:
-    - { name: items, label: Items, type: Item, folders: item-folders.yaml }
-    - { name: journals, label: Journals, type: JournalEntry, folders: journal-folders.yaml }
-    - { name: actors, label: Actors, type: Actor, folders: actor-folders.yaml }
+    - { name: items, label: Items, type: Item }
+    - { name: journals, label: Journals, type: JournalEntry }
+    - { name: actors, label: Actors, type: Actor }
 
 publish:
     # `content`: this package publishes its homepage *and* every page its

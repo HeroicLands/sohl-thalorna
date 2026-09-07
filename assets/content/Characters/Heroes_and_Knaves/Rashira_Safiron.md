@@ -12,7 +12,7 @@ name:
   aliases:
     - The Keeper of the Purple Warrant
     - The Renegade Grammatíssa
-folder: DpqMpJYTkLYsXJYb
+packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
 img: icons/person.svg
 type: being

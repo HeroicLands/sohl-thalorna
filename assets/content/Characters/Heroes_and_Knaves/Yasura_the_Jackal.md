@@ -13,7 +13,7 @@ name:
     - The Jackal-Queen
     - The Unhoused
     - Yâsûra
-folder: 7H2fgS0uI3S0B1qz
+packFolder: northernfertileregionbethua
 shortcode: yasurajckl
 img: icons/person.svg
 type: being
