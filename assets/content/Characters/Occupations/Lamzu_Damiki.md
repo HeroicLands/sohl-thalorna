@@ -518,9 +518,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
+
 ---
 
 # Appearance {#appearance}

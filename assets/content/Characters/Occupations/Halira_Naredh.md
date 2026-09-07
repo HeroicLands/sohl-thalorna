@@ -516,9 +516,8 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 70 } }
+
 ---
 
 # Appearance {#appearance}
