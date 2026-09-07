@@ -140,7 +140,7 @@ In modern Bethuan, educated speakers code-switch fluidly, employing the feminine
 
 ## Script and Literacy
 
-Bethuan employs the **Bethuan alphabet**, a modernized form of the ancient Helonic script with some distinctive letterforms:
+Bethuan is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet in a Bethuan recension, with some distinctive letterforms:
 
 The basic inventory matches Helonic (24 letters), but Bethuan orthography includes:
 

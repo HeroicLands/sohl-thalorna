@@ -96,7 +96,7 @@ The grammar reflects philosophical precision—cases and moods allow for exactin
 
 ## Script and Literacy
 
-Helonic is written in the **Helonic alphabet**, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters — 7 vowels and 17 consonants — each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
+Helonic is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters — 7 vowels and 17 consonants — each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
 
 - **Vowels (7):** a, e, ê (long e), i, o, y, ô (long o)
 - **Consonants (17):** b, g, d, z, th, k, l, m, n, x, p, r, s, t, ph, kh, ps

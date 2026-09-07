@@ -503,11 +503,11 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 ## Script & Literacy
 
-Tānvüri employs a **logographic writing system** in which each character represents a morpheme. Characters are organized by semantic radicals and may be combined into compound characters mirroring the language's compounding grammar. The system is extraordinarily rich but demands years of intensive study.
+Tānvüri employs a **logographic writing system** in which each character represents a morpheme. The script is not tied to the language: the same characters write [[skill-jurthatlng|Jürthāti]] in the islands, so a Tānvüri minister and a Jürthāti retainer who cannot exchange three spoken sentences can correspond without difficulty. Characters are organized by semantic radicals and may be combined into compound characters mirroring the language's compounding grammar. The system is extraordinarily rich but demands years of intensive study.
 
-**Formal Script (_Tëng Thōk_, "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
+**Formal Script ([[skill-tngthkscrpt|Tëng Thōk]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
 
-**Cursive Script (_Dōk Thōk_, "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
+**Cursive Script ([[skill-tngthkscrpt|Dōk Thōk]], "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
 
 **Literacy:** True literacy — the ability to read and compose continuous text — is confined to the nobility (30-50%), the priesthood, the imperial bureaucracy, and professional scribes. Formal education in classical Tānvüri characters requires 10-15 years of study. Even in major urban centers, most merchants and guildsmen possess only functional recognition of common characters — enough for trade marks, numerals, and familiar signs — and rely on scribes for contracts and correspondence. The vast majority of the population is non-literate.
 

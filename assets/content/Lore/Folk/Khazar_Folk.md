@@ -47,6 +47,8 @@ The Compact broke. The Khazári will say nothing about why, except that the brea
 
 By the time humans began to build, the Khazári were already retreating. Their numbers were diminishing — slowly, imperceptibly by human standards, but steadily. Their great halls in the deepest mountains were being sealed. Their works were being hidden. The age of the elder races was ending, and the age of humanity was beginning, and the Khazári met this transition not with resistance but with withdrawal. They did not fight humanity for territory. They simply moved deeper, higher, farther — into places humans could not easily follow.
 
+They did not withdraw cleanly. Before the retreat there were centuries in which human tribes lived and worked in Khazári service, and what those tribes took away with them — a reduced runic work-row, and rather more of the craft they had been permitted to watch — became the foundation of human metallurgy, stonework and writing alike. The Khazári maintain that nothing was given that mattered. See [[lore-longnhrtnc|The Long Inheritance]].
+
 ## The Holds
 
 The Khazári live in mountain holds — underground complexes carved into living rock with a skill that no human engineer has ever matched. These holds are not crude caves; they are architectural marvels, with halls supported by pillars of shaped stone, ventilation systems that draw fresh air from miles away, forges heated by geothermal vents, and defensive works that make them virtually impregnable.

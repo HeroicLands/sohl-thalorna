@@ -104,7 +104,7 @@ Dunhari verbs conjugate for tense (past/present/future), aspect (perfective/impe
 
 ## Script and Literacy
 
-Dunhari employs the **Dûnshâk script**, an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
+Dunhari employs the [[skill-dnshkscrpt|Dûnshâk]] script, an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
 
 Literacy among Dunhari nomadic populations centers on oral transmission; written literacy is highest in settled urban communities and courtly contexts. The primary literary form remains poetry and song, which are memorized and transmitted orally through generations.
 
