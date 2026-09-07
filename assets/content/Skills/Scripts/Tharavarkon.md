@@ -37,7 +37,7 @@ Straight strokes, no curves, cut cross-grain because that is what stone and hard
 
 ## Where it is found
 
-Temple architraves and altar frontals; the lintels of tombs; boundary and league stones; triumphal arches and the bases of imperial statuary; oath-stones; the dedication panels of bridges, aqueducts and legionary fortresses; and the inscribed bronze tablets on which treaties are cut in duplicate so that neither party can quietly amend its copy. Almost none of it is on parchment. Cutting is slow, so a Thâravárkon inscription is short, formulaic, and chosen with great care — which makes the occasional inscription that is *not* formulaic worth a great deal to whoever can read it.
+Temple architraves and altar frontals; the lintels of tombs; boundary and league stones; triumphal arches and the bases of imperial statuary; oath-stones; the dedication panels of bridges, aqueducts and legionary fortresses; and the inscribed bronze tablets on which treaties are cut in duplicate so that neither party can quietly amend its copy. Almost none of it is on parchment. Cutting is slow, so a Thâravárkon inscription is short, formulaic, and chosen with great care — which makes the occasional inscription that is _not_ formulaic worth a great deal to whoever can read it.
 
 ## Who has it
 

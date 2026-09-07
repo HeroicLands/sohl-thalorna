@@ -519,7 +519,6 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: haradilng, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 65 } }
-
 ---
 
 # Appearance {#appearance}

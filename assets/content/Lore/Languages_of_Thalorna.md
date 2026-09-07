@@ -36,12 +36,12 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 
 ## Southern and Eastern Ankaris
 
-| Language    | Spoken In                                                                                                                                     | Reference                             | Notes                                                                                                                                         |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Dunhari** | [[place-dunharargn\|Dunhara Region]] tribes, [[place-khzryndsrtrgn\|Khazryn Desert Region]], [[affiliation-sultntmrdd\|Sultanate of Amradad]] | [[skill-dunharlng\|Dunhari Language]] | The language of the desert peoples. Highly poetic; oral tradition is the primary literary form.                                               |
-| **Vedyari** | [[place-vedyarargn\|City-States of Vedyara]]                                                                                                  | [[skill-vedyarlng\|Vedyari Language]] | An ancient language family with many regional dialects. Sacred texts are composed in Classical Vedyari, distinct from the spoken vernaculars. |
-| **Tānvüri** | [[affiliation-tanvurempr\|Tānvür]]                                                                                                            | [[skill-tanvurlng\|Tanvuri Language]] | A logographic language with complex compound morphology. The imperial dialect is the standard; regional variations are extensive.             |
-| **Jürthāti** | [[affiliation-jurthatempr\|Jürthāt]] | [[skill-jurthatlng\|Jürthāti Language]] | The island speech of the Nine Mountains — a daughter of Tānvüri with an elaborate honorific system; written in the same logographic script as the mainland. |
+| Language     | Spoken In                                                                                                                                     | Reference                               | Notes                                                                                                                                                       |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dunhari**  | [[place-dunharargn\|Dunhara Region]] tribes, [[place-khzryndsrtrgn\|Khazryn Desert Region]], [[affiliation-sultntmrdd\|Sultanate of Amradad]] | [[skill-dunharlng\|Dunhari Language]]   | The language of the desert peoples. Highly poetic; oral tradition is the primary literary form.                                                             |
+| **Vedyari**  | [[place-vedyarargn\|City-States of Vedyara]]                                                                                                  | [[skill-vedyarlng\|Vedyari Language]]   | An ancient language family with many regional dialects. Sacred texts are composed in Classical Vedyari, distinct from the spoken vernaculars.               |
+| **Tānvüri**  | [[affiliation-tanvurempr\|Tānvür]]                                                                                                            | [[skill-tanvurlng\|Tanvuri Language]]   | A logographic language with complex compound morphology. The imperial dialect is the standard; regional variations are extensive.                           |
+| **Jürthāti** | [[affiliation-jurthatempr\|Jürthāt]]                                                                                                          | [[skill-jurthatlng\|Jürthāti Language]] | The island speech of the Nine Mountains — a daughter of Tānvüri with an elaborate honorific system; written in the same logographic script as the mainland. |
 
 ## Xerathia
 
@@ -83,27 +83,27 @@ The languages of Thalorna fall into several broad families:
 
 A script is not a language. Most of Thalorna's tongues are written in a script they share with their neighbors and have adapted to their own sounds, and a reader needs **both** the relevant Script skill and the relevant Language skill to make anything of a page. The [[skill-semrnscrpt|Sêmarion]] carries the most, because Vylari is the language of the educated throughout Mídhalión and most of western Ankaris, and where the language went the letters followed.
 
-| Script | Kind | Written in | Carries |
-| --- | --- | --- | --- |
-| [[skill-semrnscrpt\|Sêmarion]] | Alphabet | Vylaria, and everywhere the empire's schooling reached | Vylari, Provenzal, Tarvéni, modern Élavendri, Nordmal for trade, borrowed Varokhi, western Valtári |
-| [[skill-helnkscrpt\|Helónika]] | Alphabet | Heliónis, Byzaría, Bethûa | Helonic, Byzarian, Bethuan, northern Valtári |
-| [[skill-hazarscrpt\|Hazâri]] | Abjad | Harad | Haradi, southern Valtári |
-| [[skill-dnshkscrpt\|Dûnshâk]] | Abjad, right-to-left | Dunhara, Khazryn, Amradad | Dunhari and the desert dialects |
-| [[skill-okhsshscrpt\|Okh-sesh]] | Abjad | Okháris | Okháric — sacred form and vowelled mercantile hybrid |
-| [[skill-khprsshscrpt\|Kheperi-sesh]] | Logographic | Ta'Kheperu | Classical Kheperi, sacred and monumental only |
-| [[skill-demtkscrpt\|Demotika]] | Logographic, cursive | Ta'Kheperu | Kheperi, everything administrative and commercial |
-| [[skill-vdykshrscrpt\|Vedyákshara]] | Syllabary | Vedyara | Classical Vedyari and the vernaculars |
-| [[skill-tngthkscrpt\|Tëng Thōk]] | Logographic | Tānvür and Jürthāt | Tānvüri **and** Jürthāti — one script, two languages |
-| [[skill-chlxtsbscrpt\|Ch'alix Ts'ib]] | Logographic | K'ich'chik | Ki'ichek |
-| [[skill-tzblcrdscrpt\|Tz'ib'al]] | Knotted cord | K'ich'chik | Tribute, tallies and day-counts; priest-held |
-| [[skill-luthrscrpt\|Luaithári]] | Syllabary | Kalihara | Kalihári |
-| [[skill-clthndscrpt\|Calathindë]] | Calligraphic | Sinalë enclaves | Sinalë |
-| [[skill-drthrkscrpt\|Durthrak]] | Angular, carved | Khazári holds | Khazári |
-| [[skill-thuravarkscript\|Thurávark]] | Runic | The Nordlands | Nordmal, for law, genealogy and the sacred |
-| [[skill-thrvrknscrpt\|Thâravárkon]] | Runic | Vylaria and Nartûm | Vylari, ceremonial and monumental only |
-| [[skill-thrvrdhscrpt\|Thúravardh]] | Runic | The Áelendan highlands | Áelendi, and old Élavendri in magic and poetry |
+| Script                                | Kind                 | Written in                                             | Carries                                                                                            |
+| ------------------------------------- | -------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [[skill-semrnscrpt\|Sêmarion]]        | Alphabet             | Vylaria, and everywhere the empire's schooling reached | Vylari, Provenzal, Tarvéni, modern Élavendri, Nordmal for trade, borrowed Varokhi, western Valtári |
+| [[skill-helnkscrpt\|Helónika]]        | Alphabet             | Heliónis, Byzaría, Bethûa                              | Helonic, Byzarian, Bethuan, northern Valtári                                                       |
+| [[skill-hazarscrpt\|Hazâri]]          | Abjad                | Harad                                                  | Haradi, southern Valtári                                                                           |
+| [[skill-dnshkscrpt\|Dûnshâk]]         | Abjad, right-to-left | Dunhara, Khazryn, Amradad                              | Dunhari and the desert dialects                                                                    |
+| [[skill-okhsshscrpt\|Okh-sesh]]       | Abjad                | Okháris                                                | Okháric — sacred form and vowelled mercantile hybrid                                               |
+| [[skill-khprsshscrpt\|Kheperi-sesh]]  | Logographic          | Ta'Kheperu                                             | Classical Kheperi, sacred and monumental only                                                      |
+| [[skill-demtkscrpt\|Demotika]]        | Logographic, cursive | Ta'Kheperu                                             | Kheperi, everything administrative and commercial                                                  |
+| [[skill-vdykshrscrpt\|Vedyákshara]]   | Syllabary            | Vedyara                                                | Classical Vedyari and the vernaculars                                                              |
+| [[skill-tngthkscrpt\|Tëng Thōk]]      | Logographic          | Tānvür and Jürthāt                                     | Tānvüri **and** Jürthāti — one script, two languages                                               |
+| [[skill-chlxtsbscrpt\|Ch'alix Ts'ib]] | Logographic          | K'ich'chik                                             | Ki'ichek                                                                                           |
+| [[skill-tzblcrdscrpt\|Tz'ib'al]]      | Knotted cord         | K'ich'chik                                             | Tribute, tallies and day-counts; priest-held                                                       |
+| [[skill-luthrscrpt\|Luaithári]]       | Syllabary            | Kalihara                                               | Kalihári                                                                                           |
+| [[skill-clthndscrpt\|Calathindë]]     | Calligraphic         | Sinalë enclaves                                        | Sinalë                                                                                             |
+| [[skill-drthrkscrpt\|Durthrak]]       | Angular, carved      | Khazári holds                                          | Khazári                                                                                            |
+| [[skill-thuravarkscript\|Thurávark]]  | Runic                | The Nordlands                                          | Nordmal, for law, genealogy and the sacred                                                         |
+| [[skill-thrvrknscrpt\|Thâravárkon]]   | Runic                | Vylaria and Nartûm                                     | Vylari, ceremonial and monumental only                                                             |
+| [[skill-thrvrdhscrpt\|Thúravardh]]    | Runic                | The Áelendan highlands                                 | Áelendi, and old Élavendri in magic and poetry                                                     |
 
-The three runic scripts are cognate: Proto-Pelwar *thura-vark*, "graven work," hardened in the north, formalized in the empire, and softened in the highlands. That the Normen and the Vylarians call their runes by the same word is the plainest evidence that the two peoples are kin.
+The three runic scripts are cognate: Proto-Pelwar _thura-vark_, "graven work," hardened in the north, formalized in the empire, and softened in the highlands. That the Normen and the Vylarians call their runes by the same word is the plainest evidence that the two peoples are kin.
 
 The staves themselves are older than any of them. They correspond to a subset of Khazári [[skill-drthrkscrpt|Durthrak]] too closely for coincidence, and the standing account — undocumented, and unlikely ever to be settled — is that the **Proto-Pelwar tribes were Khazári subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Sêmarion]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
 

@@ -518,7 +518,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: helonclng, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-
 ---
 
 # Appearance {#appearance}

@@ -520,7 +520,6 @@ sohl:
     - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-
 ---
 
 # Appearance {#appearance}

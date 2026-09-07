@@ -517,7 +517,6 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: elvndrlng, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 13 } }
-
 ---
 
 # Appearance {#appearance}
