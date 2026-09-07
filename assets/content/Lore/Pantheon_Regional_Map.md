@@ -100,7 +100,7 @@ A complex spiritual system centered on cycles of creation, preservation, and des
 
 ## [[affiliation-firstgods|The First Gods]]
 
-The ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, of the broader [[lore-pelwarpepl|Pelwar People]] line. Two primordial Powers — the [[affiliation-firstgods#The Bright|Bright]] and the [[affiliation-firstgods#The Dark|Dark]] — locked in eternal contention, together with their [[affiliation-thekindred|Kindred]]: the animal, place, and water spirits who serve them. Honoured through [[affiliation-theoldway|The Old Way]], a shamanic tradition in which the Two Powers are not petitioned and the Kindred are not worshipped but rather **venerated, appeased, or warded against** according to their character; the Áelendan hold the Old Way to be older than the settled pantheons and the source from which all other gods descend.
+The ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, of the broader [[lore-pelwarpepl|Pelwar People]] line. Two primordial Powers — the [[affiliation-firstgods#The Bright|Bright]] and the [[affiliation-firstgods#The Dark|Dark]] — locked in eternal contention, together with their [[lore-thekindred|Kindred]]: the animal, place, and water spirits who serve them. Honoured through [[affiliation-theoldway|The Old Way]], a shamanic tradition in which the Two Powers are not petitioned and the Kindred are not worshipped but rather **venerated, appeased, or warded against** according to their character; the Áelendan hold the Old Way to be older than the settled pantheons and the source from which all other gods descend.
 
 **Primary regions:**
 

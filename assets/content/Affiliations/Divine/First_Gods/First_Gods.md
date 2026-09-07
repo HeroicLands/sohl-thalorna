@@ -142,7 +142,7 @@ The Dark is the aspect of the First Gods most frequently misunderstood by outsid
 
 ## The Kindred
 
-Active Áelendan religious practice is not directed at the Two Powers. It is directed at their **[[affiliation-thekindred|Kindred]]** — the innumerable spirits who serve them. The Kindred are not worshipped, in the sense that the Aurèldían deities are worshipped; they are **venerated, appeased, or warded against**, each according to its character and the need of the moment. A benevolent river-mother is venerated; a harsh stone-warder of the high passes is appeased; a dangerous spirit of the deep places is warded against. The Kindred are the living face of the First Gods in the world: the grey wolf who watches a particular ridge, the river-mother of a specific valley, the grove-keeper of an ancient wood, the stone-warder of a sacred cairn, the hearth-spirit of a tribal lodge. Each tribe of the Áelendan maintains relationships with a particular set of Kindred whose territories overlap with the tribe's own, and those relationships are the substance of day-to-day Áelendan religious practice.
+Active Áelendan religious practice is not directed at the Two Powers. It is directed at their **[[lore-thekindred|Kindred]]** — the innumerable spirits who serve them. The Kindred are not worshipped, in the sense that the Aurèldían deities are worshipped; they are **venerated, appeased, or warded against**, each according to its character and the need of the moment. A benevolent river-mother is venerated; a harsh stone-warder of the high passes is appeased; a dangerous spirit of the deep places is warded against. The Kindred are the living face of the First Gods in the world: the grey wolf who watches a particular ridge, the river-mother of a specific valley, the grove-keeper of an ancient wood, the stone-warder of a sacred cairn, the hearth-spirit of a tribal lodge. Each tribe of the Áelendan maintains relationships with a particular set of Kindred whose territories overlap with the tribe's own, and those relationships are the substance of day-to-day Áelendan religious practice.
 
 Some Kindred are understood to be servants of the Bright, some of the Dark, and some — notably certain river-spirits and threshold-spirits — are said to serve both, or to pass between them with the turning of the seasons. The Áelendan do not find this paradoxical. The Kindred are of the world, and the world is where the Two Powers meet.
 
@@ -163,7 +163,7 @@ Whether the Old Way genuinely predates every other faith on Ankaris is a questio
 ## See Also
 
 - [[affiliation-theoldway|The Old Way]] — The religion that venerates the First Gods
-- [[affiliation-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, and warded against in daily practice
+- [[lore-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, and warded against in daily practice
 - [[lore-aelendnppl|Áelendan]] — The people whose pantheon this is
 - [[lore-pelwarpepl|Pelwar People]] — The ancestral people who carried the First Gods out of the east
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites

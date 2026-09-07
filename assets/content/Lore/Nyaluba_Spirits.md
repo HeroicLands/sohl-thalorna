@@ -113,5 +113,5 @@ that the guides take offence, and that the clans do not intercede for a transgre
 - [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition of which the guides are the substance
 - [[lore-mwangadty|Mwánga-Kúbwa]] — the source, which is acknowledged and never venerated
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the five clans whose pacts these are
-- [[affiliation-thekindred|The Kindred]] — the Áelendan parallel, structurally very similar
+- [[lore-thekindred|The Kindred]] — the Áelendan parallel, structurally very similar
 - [[affiliation-nkaruthar|Nkaru'thar]] — the Okháric Eternal Flame, whose _zohira_ fulfil a comparable role
