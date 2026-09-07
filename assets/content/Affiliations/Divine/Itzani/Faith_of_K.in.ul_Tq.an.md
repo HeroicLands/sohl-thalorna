@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of K'in'ul Tq'an"
+  aliases:
+    - The Sun at the World's Edge
+    - "K'in'ul Tq'an"
+shortcode: kinultqan
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of K'in'ul Tq'an"
-  aliases:
-    - The Sun at the World's Edge
-    - "K'in'ul Tq'an"
-shortcode: kinultqan
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

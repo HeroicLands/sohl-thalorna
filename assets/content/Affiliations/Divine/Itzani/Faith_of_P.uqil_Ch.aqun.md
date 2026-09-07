@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of P'uqil Ch'aqun"
+  aliases:
+    - The Feathered Storm-Serpent
+    - "P'uqil Ch'aqun"
+shortcode: puqilchaqun
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of P'uqil Ch'aqun"
-  aliases:
-    - The Feathered Storm-Serpent
-    - "P'uqil Ch'aqun"
-shortcode: puqilchaqun
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution

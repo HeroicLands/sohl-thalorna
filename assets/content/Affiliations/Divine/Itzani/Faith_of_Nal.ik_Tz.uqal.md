@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of Nal'ik Tz'uqal"
+  aliases:
+    - The Dreamer in Moonlight
+    - "Nal'ik Tz'uqal"
+shortcode: naliktzuqal
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of Nal'ik Tz'uqal"
-  aliases:
-    - The Dreamer in Moonlight
-    - "Nal'ik Tz'uqal"
-shortcode: naliktzuqal
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon

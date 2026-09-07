@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of Xilan Ix'lan"
+  aliases:
+    - The Walker of Paths
+    - "Xilan Ix'lan"
+shortcode: xilanixlan
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of Xilan Ix'lan"
-  aliases:
-    - The Walker of Paths
-    - "Xilan Ix'lan"
-shortcode: xilanixlan
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of Tz'uqil Ix'bal"
+  aliases:
+    - The Death Jaguar
+    - "Tz'uqil Ix'bal"
+shortcode: tzuqilixbal
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of Tz'uqil Ix'bal"
-  aliases:
-    - The Death Jaguar
-    - "Tz'uqil Ix'bal"
-shortcode: tzuqilixbal
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Death, Decay, and the Underworld

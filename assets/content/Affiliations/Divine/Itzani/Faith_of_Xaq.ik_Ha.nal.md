@@ -5,6 +5,16 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+sohl:
+  templatePriority: null
+name:
+  full: "Faith of Xaq'ik Ha'nal"
+  aliases:
+    - The Blossom of Living Waters
+    - "Xaq'ik Ha'nal"
+shortcode: xaqikhanal
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -114,16 +124,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
-  templatePriority: null
-name:
-  full: "Faith of Xaq'ik Ha'nal"
-  aliases:
-    - The Blossom of Living Waters
-    - "Xaq'ik Ha'nal"
-shortcode: xaqikhanal
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

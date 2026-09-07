@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of P'iqal Kul'qat"
+  aliases:
+    - Builder of the Sacred Peak
+    - "P'iqal Kul'qat"
+shortcode: piqalkulqat
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -115,14 +123,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of P'iqal Kul'qat"
-  aliases:
-    - Builder of the Sacred Peak
-    - "P'iqal Kul'qat"
-shortcode: piqalkulqat
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

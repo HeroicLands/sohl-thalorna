@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of Ix'ilan Ch'alix"
+  aliases:
+    - The Sacred Star
+    - "Ix'ilan Ch'alix"
+shortcode: ixilanchalix
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of Ix'ilan Ch'alix"
-  aliases:
-    - The Sacred Star
-    - "Ix'ilan Ch'alix"
-shortcode: ixilanchalix
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

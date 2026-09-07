@@ -8,10 +8,6 @@ name:
   full: Itzáni Pantheon
   aliases:
     - The Ten of the Celestial Round
-    - The Itzáni Faith
-    - Itzáni Faith
-    - Itzani
-    - Itzáni
 shortcode: itzanpnthn
 type: affiliation
 subType: faithtradition

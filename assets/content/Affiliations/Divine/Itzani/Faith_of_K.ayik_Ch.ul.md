@@ -5,6 +5,14 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
+name:
+  full: "Faith of K'ayik Ch'ul"
+  aliases:
+    - The Sacred Flame
+    - "K'ayik Ch'ul"
+shortcode: kayikchul
+img: null
+packFolder: pantheonitzani
 data:
   templatePriority: null
   demonym: null
@@ -116,14 +124,6 @@ data:
     itzanpnthn: aligned
 sohl:
   templatePriority: null
-name:
-  full: "Faith of K'ayik Ch'ul"
-  aliases:
-    - The Sacred Flame
-    - "K'ayik Ch'ul"
-shortcode: kayikchul
-img: null
-packFolder: pantheonitzani
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice
