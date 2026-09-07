@@ -1,6 +1,5 @@
 ---
 description: "Love, Beauty, and Prosperity."
-id: CRcCfHFzsSdXQ1Df
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: freyja
 img: images/affiliation/freyja.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Donkey
   aliases: []
-id: 06wasGpojK17FTdC
 img: images/mystery/donkey.webp
 shortcode: donkeyttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

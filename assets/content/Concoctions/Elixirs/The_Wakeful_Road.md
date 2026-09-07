@@ -6,7 +6,6 @@ name:
   aliases:
     - Verve Elixir
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."
-id: NFrsFpQareivWkrh
 img: icons/potion.svg
 shortcode: ElxVrv
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

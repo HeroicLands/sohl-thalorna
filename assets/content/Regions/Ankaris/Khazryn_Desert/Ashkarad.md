@@ -1,5 +1,4 @@
 ---
-id: kDexjFi0gHnVg2xA
 tags:
   - town
   - craft

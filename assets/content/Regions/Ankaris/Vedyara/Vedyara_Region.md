@@ -6,7 +6,6 @@ name:
   full: Vedyara Region
   aliases:
     - Vedyara
-id: i3mrG0dvqDp0LHNO
 shortcode: vedyarargn
 img: null
 type: place

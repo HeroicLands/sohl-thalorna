@@ -5,7 +5,6 @@ name:
   aliases:
     - Waterwalk
 description: "Grants frictionless movement; enables sliding across any surface."
-id: U2PiNBljDoG2Rh3f
 img: icons/water.svg
 shortcode: srfcgld
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Waterwalk
 packFolder: spells

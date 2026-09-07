@@ -3,7 +3,6 @@ tags: []
 name:
   full: Enthral
   aliases: []
-id: nDJ1yTJ6OYad1ZQM
 img: icons/psionics.svg
 shortcode: enth
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

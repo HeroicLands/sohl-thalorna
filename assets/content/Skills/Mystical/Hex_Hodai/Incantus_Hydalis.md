@@ -3,7 +3,6 @@ tags:
   - hex-hodai
 type: skill
 subType: mystical
-id: 3RxrV5qLjiqszhJy
 shortcode: hydalis
 img: images/affiliation/hydalis.webp
 name:
@@ -16,7 +15,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: hexhodai
 ---
 

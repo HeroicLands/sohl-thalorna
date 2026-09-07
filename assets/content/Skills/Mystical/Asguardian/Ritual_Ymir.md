@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: LN755jKLwqE8HQsr
 shortcode: ymir
 img: images/affiliation/ymir.webp
 name:
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: asguardian
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Confusion
 description: "Scatters enemy formations; combatants stumble and collide confusedly."
-id: o303A8wH69fkFIjh
 img: icons/divination.svg
 shortcode: disarray
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Confusion
 packFolder: spells

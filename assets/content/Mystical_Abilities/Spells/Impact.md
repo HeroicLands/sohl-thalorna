@@ -5,7 +5,6 @@ name:
   aliases:
     - Meteor
 description: "Blazing sphere descending from sky; massive heat and explosion."
-id: wBynyi9hujAoTQbu
 img: icons/fire.svg
 shortcode: impact
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Meteor
 packFolder: spells

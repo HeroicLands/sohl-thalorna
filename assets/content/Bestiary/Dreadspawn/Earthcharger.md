@@ -5,7 +5,6 @@ name:
   full: Earthcharger
   aliases: []
 description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
-id: u8zP1zROlFGp2zuv
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: erthchrg
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+15
     end: 1d6+14
@@ -168,17 +167,17 @@ sohl:
             fire: 9
     weight:
       base: 1500
-      calc: 1500
+      calc: "1500"
     reachBase: 0
     bodyScaleBase: 1.43
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 80
       leaguesPerWatch: 6
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

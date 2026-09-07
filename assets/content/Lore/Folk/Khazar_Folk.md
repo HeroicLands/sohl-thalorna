@@ -5,7 +5,6 @@ tags:
 description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
 type: lore
 subType: folk
-id: YGCeAI1FHSmYf6Gp
 name:
   full: Khazár Folk
   aliases:
@@ -47,6 +46,8 @@ The fragments that survive describe a golden age of collaboration. The Sinalë, 
 The Compact broke. The Khazári will say nothing about why, except that the breach was final, and that the fault was not theirs alone. The Sinalë will say nothing at all. The two peoples separated entirely, and the separation has held for millennia uncounted. They do not speak. They do not trade. They do not enter each other's territories. The bitterness — if that is the right word for an estrangement measured in thousands of years — has not diminished. It has calcified into something harder than bitterness: a silence so complete that it has become part of the structure of the world.
 
 By the time humans began to build, the Khazári were already retreating. Their numbers were diminishing — slowly, imperceptibly by human standards, but steadily. Their great halls in the deepest mountains were being sealed. Their works were being hidden. The age of the elder races was ending, and the age of humanity was beginning, and the Khazári met this transition not with resistance but with withdrawal. They did not fight humanity for territory. They simply moved deeper, higher, farther — into places humans could not easily follow.
+
+They did not withdraw cleanly. Before the retreat there were centuries in which human tribes lived and worked in Khazári service, and what those tribes took away with them — a reduced runic work-row, and rather more of the craft they had been permitted to watch — became the foundation of human metallurgy, stonework and writing alike. The Khazári maintain that nothing was given that mattered. See [[lore-longnhrtnc|The Long Inheritance]].
 
 ## The Holds
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Fervour
 description: "Enchantment inflaming emotion; targets act with heightened intensity."
-id: LJUcqEwUPQwVH9N4
 img: icons/divination.svg
 shortcode: passion
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Fervour
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Dispel
 description: "Cancels existing spell; dispels active magical effects instantly."
-id: DDUtOY0QLn5Wz05N
 img: icons/circle.svg
 shortcode: nullify
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Dispel
 packFolder: spells

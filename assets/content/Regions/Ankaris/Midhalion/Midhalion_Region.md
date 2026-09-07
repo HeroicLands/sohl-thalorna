@@ -6,7 +6,6 @@ name:
   full: Mídhalión Region
   aliases:
     - Mídhalión
-id: 3kuxg7GIFNcUUnkm
 shortcode: midhalnrgn
 img: null
 type: place

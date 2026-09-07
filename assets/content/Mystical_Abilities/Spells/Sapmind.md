@@ -5,7 +5,6 @@ name:
   aliases:
     - Enervation
 description: "Draws liquid essence; drains vitality through insidious wood-touch."
-id: zUUmGWmmMnzf3yJY
 img: icons/divination.svg
 shortcode: sapmind
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Enervation
 packFolder: spells

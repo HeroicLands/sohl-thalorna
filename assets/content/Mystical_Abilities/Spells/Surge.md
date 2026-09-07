@@ -5,7 +5,6 @@ name:
   aliases:
     - Wave
 description: "Creates wave of force; manifests swelling energy outward."
-id: splbdeySktYutmaW
 img: icons/water.svg
 shortcode: surge
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Wave
 packFolder: spells

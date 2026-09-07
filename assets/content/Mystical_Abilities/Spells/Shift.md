@@ -5,7 +5,6 @@ name:
   aliases:
     - Warp
 description: "Moves object position instantaneously; teleports within sight."
-id: TlruOEmbjbH9a3mU
 img: icons/tree.svg
 shortcode: shift
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Warp
 packFolder: spells

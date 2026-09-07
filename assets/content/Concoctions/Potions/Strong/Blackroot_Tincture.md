@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Poison, Strong
 description: "Vivid green oily liquid; causes violent illness and death."
-id: s5ec54onwXf6YvUJ
 img: icons/potion.svg
 shortcode: PtnPoiS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

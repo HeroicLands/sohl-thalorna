@@ -5,7 +5,6 @@ name:
   aliases:
     - Conjure
 description: "Solidifies invisible spirits into temporary physical forms; reveals hidden threats."
-id: CfnU6csn8qIIL9u2
 img: icons/water.svg
 shortcode: manifest
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Conjure
 packFolder: spells

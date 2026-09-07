@@ -4,7 +4,6 @@ name:
   full: Pool
   aliases: []
 description: "Creates body of water; water persists or evaporates gradually."
-id: V99UpKThZil5gk8t
 img: icons/circle.svg
 shortcode: pool
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Pool
 packFolder: spells

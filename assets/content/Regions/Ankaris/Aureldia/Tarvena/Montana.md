@@ -1,5 +1,4 @@
 ---
-id: elbApD1i9cSa1Wyh
 tags:
   - city
 description: "Walled City"

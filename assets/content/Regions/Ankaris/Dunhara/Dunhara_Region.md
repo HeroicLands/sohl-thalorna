@@ -6,7 +6,6 @@ name:
   full: Dunhara Region
   aliases:
     - Dunhara
-id: WME4VbEDaL2Cny92
 shortcode: dunharargn
 img: null
 type: place

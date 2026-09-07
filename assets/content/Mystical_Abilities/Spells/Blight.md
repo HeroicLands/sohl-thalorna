@@ -5,7 +5,6 @@ name:
   aliases:
     - Pox
 description: "Withers crops and poisons soil; kills vegetation in spreading circle."
-id: iXkZnuXZICv7oUr7
 img: icons/tree.svg
 shortcode: blight
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Pox
 packFolder: spells

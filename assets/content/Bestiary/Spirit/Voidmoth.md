@@ -5,7 +5,6 @@ name:
   full: Voidmoth
   aliases: []
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
-id: 0YaWh1FabKCGtnAs
 img: icons/game-icons/lorc/butterfly.svg
 shortcode: voidmoth
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+5
     end: 1d4+8
@@ -206,17 +205,17 @@ sohl:
             fire: 0
     weight:
       base: 0
-      calc: 0
+      calc: "0"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

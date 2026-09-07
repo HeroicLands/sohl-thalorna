@@ -1,5 +1,4 @@
 ---
-id: Kp8FWi2xfH3Yz9Iz
 description: "Green-land city-state of the Byzarian League on the southern coast — prosperous maritime city with a reputation for gardeners, merchants, and peaceful culture."
 type: affiliation
 name:
@@ -108,7 +107,7 @@ data:
     arldnpnthn: aligned
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: byzaria
 ---
 

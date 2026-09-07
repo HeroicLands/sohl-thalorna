@@ -5,7 +5,6 @@ name:
   full: Giant Jumping Spider
   aliases: []
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
-id: A95HDhCBTL8EVKBO
 img: icons/game-icons/carl-olsen/spider-alt.svg
 shortcode: gntjmpng
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+9
     end: 1d6+7
@@ -152,14 +151,14 @@ sohl:
       calc: "1"
     reachBase: 0
     bodyScaleBase: 1.11
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

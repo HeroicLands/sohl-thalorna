@@ -1,5 +1,4 @@
 ---
-id: OD0mDmXO2Yykzwee
 tags:
   - village
   - fishing

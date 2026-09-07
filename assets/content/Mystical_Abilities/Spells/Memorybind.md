@@ -5,7 +5,6 @@ name:
   aliases:
     - Recollection
 description: "Imprints memory into object; anyone touching it relives experience."
-id: 0BRaRmwBJqZXfgdu
 img: icons/divination.svg
 shortcode: mmrybnd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Recollection
 packFolder: spells

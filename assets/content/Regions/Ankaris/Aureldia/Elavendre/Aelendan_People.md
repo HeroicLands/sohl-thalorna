@@ -1,5 +1,4 @@
 ---
-id: vfzxF7E0MGM9wa15
 description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred covenant with the land itself through unwritten tradition, ritual, and kinship with fae beings."
 type: lore
 subType: folk

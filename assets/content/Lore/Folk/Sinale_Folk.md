@@ -5,7 +5,6 @@ tags:
 description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
 type: lore
 subType: folk
-id: xSabnR2YSyocDJxC
 name:
   full: Sinalë Folk
   aliases:
@@ -39,7 +38,7 @@ Their magic — if it can be called magic in the human sense — is nothing like
 
 The full history of the Sinalë is known only to the Sinalë, and they do not share it. What fragments have reached human scholars — through rare encounters, ancient texts, and the oral traditions of peoples who live near Sinalëan enclaves — paint a picture in broad, mythic strokes.
 
-The Sinalë hold themselves to be the first of the speaking peoples to walk Thalorna, and by their own telling they are. They came to this world from some prior realm whose nature they do not disclose, and for a time they walked alone — sharing the continents only with the creatures and spirits that humans would later call fae, and with scattered bands of humans who lived then as hunter-gatherers, without cities or letters or settled tongues. The Sinalë observed these human bands and left them to their own becoming. This is their Age of Stars, a period they remember in song but never describe to outsiders in detail.
+The Sinalë hold themselves to be the first of the speaking peoples to walk Thalorna, and by their own telling they are. They came to this world from some prior realm whose nature they do not disclose, and for a time they walked alone — sharing the continents only with the creatures and spirits that humans would later call fae, and with scattered bands of humans who lived then as hunter-gatherers, without cities or letters or settled tongues. The Sinalë observed these human bands and left them to their own becoming — a restraint they held to, and which did not prevent humanity from learning a great deal simply by watching them back. See [[lore-longnhrtnc|The Long Inheritance]]. This is their Age of Stars, a period they remember in song but never describe to outsiders in detail.
 
 The one exception to this reckoning, which the Sinalë acknowledge obliquely if at all, is [[affiliation-kalihara|Kalihara]]. When Sinalëan wayfarers first reached that island, they found a human civilization already established, built on the teachings of a people who had come and gone before the Sinalë themselves arrived on Thalorna. The Kaliharans received them with courtesy and refused them settlement. The Sinalë have never ventured a public account of this encounter, and their own histories pass around it in silence.
 

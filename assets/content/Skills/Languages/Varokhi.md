@@ -5,7 +5,6 @@ name:
   aliases:
     - Varokhi
 description: "The unwritten tongue of the Vrystwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
-id: MR557P1jb8LCNheH
 img: icons/speaking.svg
 shortcode: varokhlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -62,7 +61,7 @@ Varokhi employs a somewhat simpler consonant inventory than Nordmal, with greate
 
 Varokhi has no traditional writing system. The language is preserved entirely through oral transmission—memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
 
-In modern times, some Varokhi speakers have adopted the runic or alphabetic scripts used in neighboring regions for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
+In modern times, some Varokhi speakers have adopted the scripts of neighboring regions — the [[skill-semrnscrpt|Sêmarion]] from the empire, [[skill-thuravarkscript|Thurávark]] from the north — for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
 
 ## Historical Development
 

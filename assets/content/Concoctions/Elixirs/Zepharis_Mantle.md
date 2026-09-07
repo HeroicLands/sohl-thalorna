@@ -6,7 +6,6 @@ name:
   aliases:
     - Iceshield Elixir
 description: "Pale frosted blue elixir; grants protection against cold elements."
-id: Y5C2npA6Pkp4FVxt
 img: icons/potion.svg
 shortcode: ElxIce
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

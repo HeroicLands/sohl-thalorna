@@ -1,6 +1,5 @@
 ---
 description: "Dead and Underworld."
-id: wBAfvdAOyxI8JvtP
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: hel
 img: images/affiliation/hel.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

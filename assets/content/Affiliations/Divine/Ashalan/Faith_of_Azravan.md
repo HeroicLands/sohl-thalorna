@@ -1,6 +1,5 @@
 ---
 description: "Death."
-id: APxOx87sZ9mYwQAO
 tags:
   - religion
   - azravan
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Ázráván
   aliases:

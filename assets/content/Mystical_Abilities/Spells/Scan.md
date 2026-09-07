@@ -5,7 +5,6 @@ name:
   aliases:
     - Survey
 description: "Searches nearby area; detects creatures and objects remotely."
-id: Bi3tN3MUKFrzzR3Y
 img: icons/circle.svg
 shortcode: scan
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Survey
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: Xzj2jYB2Bd8djJkY
 name:
   full: Peoples
   aliases: []

@@ -1,7 +1,6 @@
 ---
 tags: []
 description: The shamanic faith of the Áelendan — the oldest continuously practised tradition on Ankaris, oriented around the First Gods and their Kindred.
-id: gOJXZRZg0IByRWSC
 name:
   full: The Old Way
   aliases:
@@ -103,7 +102,7 @@ data:
   relations:
     firstgods: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
 

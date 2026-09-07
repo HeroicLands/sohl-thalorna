@@ -5,7 +5,6 @@ name:
   aliases:
     - Revelation
 description: "Reveals hidden world beneath earth; perceives buried metal glowing."
-id: jstvC5lsmYjLoicv
 img: icons/anvil.svg
 shortcode: reveal
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Revelation
 packFolder: spells

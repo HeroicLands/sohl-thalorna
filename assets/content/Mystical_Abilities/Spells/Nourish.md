@@ -5,7 +5,6 @@ name:
   aliases:
     - Enrichment
 description: "Magical sustenance replacing food; prevents hunger and maintains strength."
-id: uRZ17Ffgwt3MwtEH
 img: icons/divination.svg
 shortcode: nourish
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Enrichment
 packFolder: spells

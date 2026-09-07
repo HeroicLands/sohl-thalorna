@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Hallucinogenic, Great
 description: "Writhing near-black liquid; grants prophetic visions and future sight."
-id: J686wCu7Irv9uza5
 img: icons/potion.svg
 shortcode: PtnHalG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

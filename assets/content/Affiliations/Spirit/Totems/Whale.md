@@ -3,7 +3,6 @@ tags: []
 name:
   full: Whale
   aliases: []
-id: qPI5hH1aPPOfpS35
 img: images/mystery/whale.webp
 shortcode: whalettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

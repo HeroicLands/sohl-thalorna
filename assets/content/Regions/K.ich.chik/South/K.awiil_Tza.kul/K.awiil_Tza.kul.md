@@ -5,7 +5,6 @@ description: Threshold country at the southern edge of K'ich'chik civilization â
 name:
   full: K'awiil Tza'kul
   aliases: []
-id: YdTLHYUlxfAuVdNW
 shortcode: kawiltzakl
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: ""
 packFolder: kawiiltzakul
 ---

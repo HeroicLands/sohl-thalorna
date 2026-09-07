@@ -5,7 +5,6 @@ name:
   aliases:
     - Mirror
 description: "Shield deflects magical effects back toward their originating caster."
-id: RVDc3HiNq5mTx4rA
 img: icons/wind.svg
 shortcode: rflctr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Mirror
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Succour
 description: "Alleviates pain and suffering; targets feel restored temporarily."
-id: hQ2PzdTgogQXd4se
 img: icons/tree.svg
 shortcode: relief
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Succour
 packFolder: spells

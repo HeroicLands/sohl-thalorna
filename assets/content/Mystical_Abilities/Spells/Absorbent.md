@@ -5,7 +5,6 @@ name:
   aliases:
     - Sponge
 description: "Enchants surface to drink liquid far beyond natural capacity."
-id: uV6pBvNqKV7pjYJN
 img: icons/water.svg
 shortcode: absrbt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sponge
 packFolder: spells

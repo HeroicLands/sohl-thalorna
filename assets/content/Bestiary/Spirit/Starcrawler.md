@@ -5,7 +5,6 @@ name:
   full: Starcrawler
   aliases: []
 description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
-id: KwgKiSFDeCgFjebo
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: strcrwlr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -180,17 +179,17 @@ sohl:
             fire: 0
     weight:
       base: 0
-      calc: 0
+      calc: "0"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

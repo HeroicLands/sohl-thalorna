@@ -5,7 +5,6 @@ name:
   full: Grukar-Uk
   aliases: []
 description: "A small, dull, lazy Grukar drone forming the teeming bulk of any tribe, unremarkable but overwhelming in sheer numbers."
-id: VBfGJvhWaj4uisjN
 img: icons/game-icons/delapouite/orc-head.svg
 shortcode: grukaruk
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: grukar
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+8
     end: 1d4+9
@@ -306,17 +305,17 @@ sohl:
             fire: 3
     weight:
       base: 172
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

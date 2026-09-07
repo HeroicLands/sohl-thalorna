@@ -1,6 +1,5 @@
 ---
 description: "Knowledge."
-id: 0EY3S80hl04Zy5Xx
 tags:
   - kemetian
   - religion
@@ -98,7 +97,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Thōth
   aliases:

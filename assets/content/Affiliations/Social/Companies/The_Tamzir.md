@@ -88,9 +88,8 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: politiescompanies
-id: kYpjFg4FlWJGOYhc
 name:
   full: The Tamzîr
   aliases: []

@@ -5,7 +5,6 @@ name:
   aliases:
     - Fever
 description: "Accelerates victim's body temperature; induces exhaustion and eventual collapse."
-id: Kc7sxAAsQEqywMFd
 img: icons/fire.svg
 shortcode: htstrk
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Fever
 packFolder: spells

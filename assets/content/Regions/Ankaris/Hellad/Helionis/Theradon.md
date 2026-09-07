@@ -1,5 +1,4 @@
 ---
-id: 16hYgd83LfhyTRcX
 description: "Inland Helionite city-state of terraced marble colonnades — oligarchic philosopher-republic and seat of a Panepistemium chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
 type: affiliation
 name:
@@ -114,7 +113,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: helionis
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Balm
 description: "Rapid healing of major wounds; restores vitality and function."
-id: XNsm7bhpMaM6f2u4
 img: icons/tree.svg
 shortcode: renew
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Balm
 castingTime: 1 round

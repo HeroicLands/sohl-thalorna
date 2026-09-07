@@ -5,7 +5,6 @@ name:
   aliases:
     - Armour
 description: "Caster's skin hardens like armor; deflects blows and blades."
-id: GpDzz61kM8VIHEXL
 img: icons/anvil.svg
 shortcode: pltskn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Armour
 packFolder: spells

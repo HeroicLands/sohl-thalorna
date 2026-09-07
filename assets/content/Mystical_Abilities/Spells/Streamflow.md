@@ -5,7 +5,6 @@ name:
   aliases:
     - River
 description: "Controls water flow; directs stream or creates current."
-id: Ca9UXDVlZcAm0442
 img: icons/water.svg
 shortcode: strmflw
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: River
 packFolder: spells

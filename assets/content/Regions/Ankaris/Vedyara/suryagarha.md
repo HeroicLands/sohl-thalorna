@@ -1,5 +1,4 @@
 ---
-id: guzzmrqqtagCbdW4
 tags:
   - fortress
   - city

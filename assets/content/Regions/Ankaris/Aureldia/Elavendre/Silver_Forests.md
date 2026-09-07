@@ -1,5 +1,4 @@
 ---
-id: X7HiBpa32S79TTrv
 type: place
 subType: region
 data:

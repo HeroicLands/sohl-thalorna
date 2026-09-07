@@ -5,7 +5,6 @@ name:
   aliases:
     - Globe
 description: "Reinforced cage of force imprisons; resists magic attempting break."
-id: mh86CmiyMuiF1nwi
 img: icons/wind.svg
 shortcode: cntnmnt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Globe
 packFolder: spells

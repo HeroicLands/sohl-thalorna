@@ -1,5 +1,4 @@
 ---
-id: j7kLfLuyqbHAZVA4
 tags:
   - village
 description: "Tomb-Workers' Village (walled)"

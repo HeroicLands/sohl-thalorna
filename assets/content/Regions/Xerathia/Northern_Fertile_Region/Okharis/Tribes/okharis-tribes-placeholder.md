@@ -1,5 +1,4 @@
 ---
-id: Zvj8DfE3VgmJWxDj
 tags:
   - draft
 type: place

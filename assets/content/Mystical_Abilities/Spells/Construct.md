@@ -5,7 +5,6 @@ name:
   aliases:
     - Assemble
 description: "Animates material into humanoid servant; obeys caster's spoken commands."
-id: 01QjJrMPkNg35H2a
 img: icons/anvil.svg
 shortcode: cnstrct
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Assemble
 packFolder: spells

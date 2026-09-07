@@ -5,7 +5,6 @@ name:
   aliases:
     - Cooling
 description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
-id: d1vIF9cm4oh89Llz
 img: icons/water.svg
 shortcode: chill
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Cooling
 packFolder: spells

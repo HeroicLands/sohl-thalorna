@@ -87,8 +87,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: SG3QpIM8U4cfoua5
+  templatePriority: null
 shortcode: slntlncmpny
 name:
   full: The Silent Talon Company

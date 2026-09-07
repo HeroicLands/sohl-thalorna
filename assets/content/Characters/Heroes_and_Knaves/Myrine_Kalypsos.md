@@ -12,7 +12,6 @@ name:
   home: Belekos
   aliases:
     - The Mendicant Priestess of the Black Flame
-id: yrsuou8x6G2HF5hA
 packFolder: midhalionvylaria
 shortcode: myrnklypss
 img: icons/person.svg
@@ -53,7 +52,7 @@ data:
         as a mendicant — a wandering priestess authorized to preach and perform rites outside
         a fixed temple
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -470,17 +469,17 @@ sohl:
           - rlegpart
     weight:
       base: 150
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

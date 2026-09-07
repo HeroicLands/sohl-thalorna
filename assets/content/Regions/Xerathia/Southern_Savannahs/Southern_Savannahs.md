@@ -7,7 +7,6 @@ name:
   aliases:
     - Southern Savannah
     - The Deep South
-id: 4xNp2vBr8KqTmY3L
 shortcode: sthrnsvnhs
 type: place
 subType: region

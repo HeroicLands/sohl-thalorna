@@ -9,7 +9,6 @@ name:
   clan: Vânardis
   home: Valdosta
   aliases: []
-id: XPJffxceSnvQmDsI
 packFolder: midhalionvylaria
 shortcode: mkthsvnrds
 img: icons/person.svg
@@ -41,7 +40,7 @@ data:
     extra_features:
       - a scar on the right side of the face
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -458,17 +457,17 @@ sohl:
           - rlegpart
     weight:
       base: 138
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

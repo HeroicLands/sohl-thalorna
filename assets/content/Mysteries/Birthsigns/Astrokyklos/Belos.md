@@ -4,14 +4,13 @@ name:
   full: Belos
   aliases: []
 description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."
-id: VDbFbTOOigCx0XOp
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: belos
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": -5

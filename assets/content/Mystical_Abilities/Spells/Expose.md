@@ -5,7 +5,6 @@ name:
   aliases:
     - Reveal
 description: "Reveals hidden things; penetrates concealment and shows true nature."
-id: o7MCuiNC97SeiYee
 img: icons/circle.svg
 shortcode: expose
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Reveal
 packFolder: spells

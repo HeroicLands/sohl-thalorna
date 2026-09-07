@@ -1,6 +1,5 @@
 ---
 description: "Lies."
-id: 0kTT7LeB6E2TfzZ8
 tags:
   - demon-lord
   - yokveng
@@ -105,7 +104,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: demonlords
 ---
 

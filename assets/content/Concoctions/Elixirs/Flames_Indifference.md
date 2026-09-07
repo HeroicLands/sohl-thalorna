@@ -6,7 +6,6 @@ name:
   aliases:
     - Fireshield Elixir
 description: "Scarlet flame-touched elixir; protects against heat and fire damage."
-id: JwZQZ0YmaJwAFS6p
 img: icons/potion.svg
 shortcode: ElxFir
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

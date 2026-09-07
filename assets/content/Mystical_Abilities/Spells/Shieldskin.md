@@ -5,7 +5,6 @@ name:
   aliases:
     - Skin
 description: "Hardens skin into barrier; grants deflection of blows."
-id: x4v7WWIV7BNAV7tj
 img: icons/fire.svg
 shortcode: shldskn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Skin
 packFolder: spells

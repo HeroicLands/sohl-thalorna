@@ -5,7 +5,6 @@ name:
   aliases:
     - Mend
 description: "Mends broken objects; restores structures to working condition."
-id: nhM985RsKb1VwejM
 img: icons/anvil.svg
 shortcode: repair
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Mend
 packFolder: spells

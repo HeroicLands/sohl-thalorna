@@ -1,6 +1,5 @@
 ---
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Covenant itself."
-id: B53EuywhfWU0xgKC
 name:
   full: Áelendan Wardens
   aliases:
@@ -102,7 +101,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: organizations
 ---
 

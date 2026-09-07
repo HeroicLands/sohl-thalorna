@@ -5,7 +5,6 @@ name:
   aliases:
     - Beacon
 description: "Pillars of concentrated light descending; scorches and ignites targets."
-id: A8jg24x7kFUelR6H
 img: icons/wind.svg
 shortcode: lghtspr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Beacon
 packFolder: spells

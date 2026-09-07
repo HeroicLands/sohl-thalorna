@@ -1,6 +1,5 @@
 ---
 description: "Decay."
-id: KfrgWBWTpFC8P2uZ
 tags:
   - religion
   - morvana
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Mórváhñä
   aliases:

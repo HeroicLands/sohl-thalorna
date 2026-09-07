@@ -5,7 +5,6 @@ name:
   full: Swampstrider
   aliases: []
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
-id: nx1JBaUtNq1pa3Ki
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: swmpstrd
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+10
     end: 1d4+13
@@ -229,17 +228,17 @@ sohl:
             fire: 4
     weight:
       base: 200
-      calc: 200
+      calc: "200"
     reachBase: 0
     bodyScaleBase: 1.17
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: wetlands

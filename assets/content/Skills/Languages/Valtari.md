@@ -8,7 +8,6 @@ name:
     - Dock-talk
     - Trade Pidgin
 description: "The harbor pidgin of Mídhalión and beyond — no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
-id: vMzM1w5unpp0xKA0
 img: icons/speaking.svg
 shortcode: valtarlng
 type: skill
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -121,8 +120,9 @@ Questions are formed through **rising intonation and optional question words** (
 
 Valtári is **rarely written**. When it is, speakers employ:
 
-- **Haradi script**: Common in southern ports and Haradi-dominated cities
-- **Helonic letters**: Used in northern ports and Helonic trading centers
+- **[[skill-hazarscrpt|Hazâri]] letters**: Common in southern ports and Haradi-dominated cities
+- **[[skill-helnkscrpt|Helónika]] letters**: Used in northern ports and Helonic trading centers
+- **[[skill-semrnscrpt|Sêmarion]] letters**: Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
 - **Improvisational symbols**: Abbreviated marks and hastily invented notation for quick transaction records
 
 There is **no standardized Valtári orthography**. A word like "Hâkim" might be written as _hakim_, _hâkim_, _halim_, or _achim_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtári's nature: a language of the moment, not preserved in books.

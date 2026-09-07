@@ -5,7 +5,6 @@ name:
   full: Cave Troll
   aliases: []
 description: "A slow-witted but devastating cavern apex predator that hunts in absolute darkness using senses far keener than any humanoid's."
-id: LLdlPmp4JmXGcj1o
 img: icons/game-icons/skoll/troll.svg
 shortcode: cvtrll
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+25
     end: 1d6+27
@@ -493,14 +492,14 @@ sohl:
       calc: "1300"
     reachBase: 0
     bodyScaleBase: 1.84
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 55
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Falcon
   aliases: []
-id: RakVBHejmx0qHcIn
 img: images/mystery/falcon.webp
 shortcode: falconttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

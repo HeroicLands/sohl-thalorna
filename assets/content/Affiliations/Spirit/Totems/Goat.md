@@ -3,7 +3,6 @@ tags: []
 name:
   full: Goat
   aliases: []
-id: lWxRr0XkTqO3qDNa
 img: images/mystery/goat.webp
 shortcode: goatttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

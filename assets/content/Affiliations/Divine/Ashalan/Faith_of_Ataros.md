@@ -1,6 +1,5 @@
 ---
 description: "Fire."
-id: jwJWeIebmMFeKrwf
 tags:
   - religion
   - fire-deity
@@ -97,7 +96,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Ātáröš
   aliases:

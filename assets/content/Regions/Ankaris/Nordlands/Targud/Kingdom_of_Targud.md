@@ -1,5 +1,4 @@
 ---
-id: bgIzuCVWk5Ap3fYt
 description: "Sparsely-peopled northern Normen kingdom of deep forests and tundra borderlands — hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
 type: affiliation
 name:
@@ -119,7 +118,7 @@ data:
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: targud
 ---
 

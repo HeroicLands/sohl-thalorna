@@ -3,7 +3,6 @@ tags: []
 name:
   full: Stag
   aliases: []
-id: sb0q3xC4IjjufQgP
 img: images/mystery/stag.webp
 shortcode: stagttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

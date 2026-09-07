@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: iMGrmk6U0clUqTqm
 shortcode: agnipantha
 name:
   full: "Ritual: Agnī-panthā"
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: varnaka
 ---
 

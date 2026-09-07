@@ -3,7 +3,6 @@ tags: []
 name:
   full: Chicken
   aliases: []
-id: zAcMdNEQ72INVoNU
 img: images/mystery/chicken.webp
 shortcode: chickenttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

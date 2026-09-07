@@ -1,5 +1,4 @@
 ---
-id: MB1QS9G4v0JW9Osw
 tags:
   - pantheon
   - aureldian
@@ -100,7 +99,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsaureldian
 ---
 

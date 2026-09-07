@@ -5,7 +5,6 @@ name:
   aliases:
     - Shooting Star
 description: "Creates line of flame; projects burning ray through air."
-id: B6bECsaSETYKycmQ
 img: icons/fire.svg
 shortcode: strkfr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Shooting Star
 packFolder: spells

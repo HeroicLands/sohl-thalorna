@@ -1,6 +1,5 @@
 ---
 description: "Chaos."
-id: TQr4HUb2KnAc5Ias
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Karnavos
   aliases:

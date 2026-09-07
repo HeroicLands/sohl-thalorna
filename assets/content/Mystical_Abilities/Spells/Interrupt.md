@@ -5,7 +5,6 @@ name:
   aliases:
     - Counter
 description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
-id: 7bf54JPu6mgIiagn
 img: icons/circle.svg
 shortcode: intrrpt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Counter
 packFolder: spells

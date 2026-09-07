@@ -5,7 +5,6 @@ name:
   aliases:
     - Resolve
 description: "Binds target's will; suppresses resistance and forces obedience."
-id: gw615tcfV5fcUfa1
 img: icons/circle.svg
 shortcode: willbind
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Resolve
 packFolder: spells

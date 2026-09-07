@@ -3,7 +3,6 @@ name:
   full: "Vedyara"
 shortcode: vedyara
 type: folder
-id: q61mqomRaSzUNfrY
 data:
   parent:
     default: polities

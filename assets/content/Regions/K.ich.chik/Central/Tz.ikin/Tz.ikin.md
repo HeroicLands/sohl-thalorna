@@ -5,7 +5,6 @@ description: River-bound jungle realm of tepui-shrouded city-states and priest-n
 name:
   full: Tz'ikin
   aliases: []
-id: 4bmHFoaCvpbUggB0
 shortcode: tzikin
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 packFolder: tzikin
 ---

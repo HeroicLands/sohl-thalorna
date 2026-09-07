@@ -1,5 +1,4 @@
 ---
-id: WBqnuiArBf5PZWiO
 tags:
   - town
   - island

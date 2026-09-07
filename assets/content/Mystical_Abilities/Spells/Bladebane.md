@@ -5,7 +5,6 @@ name:
   aliases:
     - Swordbreaker
 description: "Curse upon weapon; blades dull and shatter under strain."
-id: hgEvp4iz6j2sK6Rm
 img: icons/anvil.svg
 shortcode: bldbn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Swordbreaker
 packFolder: spells

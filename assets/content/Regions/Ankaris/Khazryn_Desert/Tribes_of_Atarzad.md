@@ -10,7 +10,6 @@ name:
     - The Twelve Tribes
     - Ātárzád
     - Atarzad
-id: TY7K3wF8nQpV2zRm
 shortcode: tribestrzd
 subType: polity
 data:
@@ -118,7 +117,7 @@ data:
     khzrncnfdrtn: nemesis
     sultntmrdd: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Israelites of the Exodus and Conquest — twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
 packFolder: khazryndesert
 ---

@@ -1,6 +1,5 @@
 ---
 description: "Creation."
-id: 1ftSrMDbroRP1udn
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Lusinia
   aliases:

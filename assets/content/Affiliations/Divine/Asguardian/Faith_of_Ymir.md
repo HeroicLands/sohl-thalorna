@@ -1,6 +1,5 @@
 ---
 description: "Creation and Dreadspawn."
-id: iw5CaLGOvhF2ddKY
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: ymir
 img: images/affiliation/ymir.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

@@ -1,6 +1,5 @@
 ---
 description: "Knowledge, Wisdom, Truth."
-id: LUKFXYlNcrFwTl8r
 tags:
   - religion
   - knowledge-deity
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Khóršádrä
   aliases:

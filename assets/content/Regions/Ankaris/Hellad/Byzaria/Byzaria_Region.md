@@ -5,7 +5,6 @@ description: ""
 name:
   full: Byzaría Region
   aliases: []
-id: KL25bRryRCoKb7k5
 shortcode: byzariargn
 img: null
 type: place

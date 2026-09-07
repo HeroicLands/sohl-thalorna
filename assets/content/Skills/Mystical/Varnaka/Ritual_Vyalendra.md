@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 8s1B5qXRmm5ZKpPW
 shortcode: vyalendra
 name:
   full: "Ritual: Vyālendra"
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: varnaka
 ---
 

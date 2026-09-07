@@ -5,7 +5,6 @@ name:
   aliases:
     - False Soul
 description: "Creates temporary duplicate; copy mimics appearance and mannerism."
-id: 9e4TZcO8JbQ6SJSd
 img: icons/circle.svg
 shortcode: smlcrm
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: False Soul
 packFolder: spells

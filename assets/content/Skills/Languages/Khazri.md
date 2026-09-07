@@ -6,7 +6,6 @@ name:
   aliases:
     - Khazri
 description: "The tongue of Khazri people."
-id: JZqjDh0FCr8uFOt2
 img: icons/speaking.svg
 shortcode: khazrilng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

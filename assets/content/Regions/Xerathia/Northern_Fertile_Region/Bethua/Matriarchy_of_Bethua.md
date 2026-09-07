@@ -1,5 +1,4 @@
 ---
-id: 7oWBo0VIlcveRxf8
 description: "Matriarchal realm of Xerathia where women hold all positions of power and authority — a society shaped by female leadership and the traditions of the elder races."
 type: affiliation
 name:
@@ -115,7 +114,7 @@ data:
     vylarinmpr: nemesis
     ctysttshlns: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage — Mediterranean coast shading into Saharan interior)"
 packFolder: bethua
 ---

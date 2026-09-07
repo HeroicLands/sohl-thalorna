@@ -1,5 +1,4 @@
 ---
-id: QddBTHgnLAzYbXo5
 name:
   full: References
   aliases: []

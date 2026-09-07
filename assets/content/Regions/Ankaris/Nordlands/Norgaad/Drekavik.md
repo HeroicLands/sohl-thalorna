@@ -1,5 +1,4 @@
 ---
-id: dFMvJ2wRf3xqTdLU
 tags:
   - village
   - coastal

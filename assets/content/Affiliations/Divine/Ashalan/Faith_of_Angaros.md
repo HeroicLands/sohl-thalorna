@@ -1,6 +1,5 @@
 ---
 description: "Chaos."
-id: u0iNnkgrWhg8HM0j
 tags:
   - religion
   - angaros
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Ángáróš
   aliases:

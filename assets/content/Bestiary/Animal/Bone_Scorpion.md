@@ -5,7 +5,6 @@ name:
   full: Bone Scorpion
   aliases: []
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
-id: 6qq2ohVEMdu3Lmwo
 img: icons/game-icons/lorc/scorpion.svg
 shortcode: bnscrpn
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+11
     end: 1d6+9
@@ -152,14 +151,14 @@ sohl:
       calc: "2"
     reachBase: 0
     bodyScaleBase: 1.22
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

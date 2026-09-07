@@ -1,5 +1,4 @@
 ---
-id: TlYOx3SBgFES4hvV
 tags:
   - castle
   - garrison

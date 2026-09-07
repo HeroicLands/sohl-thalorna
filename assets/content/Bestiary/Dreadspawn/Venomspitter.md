@@ -5,7 +5,6 @@ name:
   full: Venomspitter
   aliases: []
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."
-id: YmCBrcF6Kw2CrctD
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: vnmspttr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -150,17 +149,17 @@ sohl:
             fire: 3
     weight:
       base: 100
-      calc: 100
+      calc: "100"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

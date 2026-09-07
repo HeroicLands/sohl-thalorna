@@ -1,5 +1,4 @@
 ---
-id: IdfMspBEVKOe4Jje
 tags:
   - village
   - woodland

@@ -5,7 +5,6 @@ name:
   full: Thundertalon
   aliases: []
 description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
-id: BER0R5sENldRKjgM
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: thndrtln
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+12
     end: 1d4+12
@@ -225,17 +224,17 @@ sohl:
             fire: 0
     weight:
       base: 0
-      calc: 0
+      calc: "0"
     reachBase: 0
     bodyScaleBase: 1.22
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 100
       leaguesPerWatch: 10
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

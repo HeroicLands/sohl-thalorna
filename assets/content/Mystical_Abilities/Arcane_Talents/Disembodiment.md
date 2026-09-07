@@ -3,7 +3,6 @@ tags: []
 name:
   full: Disembodiment
   aliases: []
-id: q282j5zXN7yLMo70
 img: icons/psionics.svg
 shortcode: dsbd
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

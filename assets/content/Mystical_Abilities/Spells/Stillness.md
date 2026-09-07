@@ -5,7 +5,6 @@ name:
   aliases:
     - Rest
 description: "Freezes motion; halts all movement within affected area."
-id: onNy6SCmk5oPANk1
 img: icons/water.svg
 shortcode: stllnss
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Rest
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: utl4pebzzsi9nAI4
 tags:
   - town
   - pilgrimage

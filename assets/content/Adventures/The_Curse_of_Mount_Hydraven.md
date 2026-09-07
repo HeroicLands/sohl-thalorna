@@ -1,5 +1,4 @@
 ---
-id: xCNkAt1rQJwhrv0c
 name:
   full: The Curse of Mount Hydraven
   aliases: []

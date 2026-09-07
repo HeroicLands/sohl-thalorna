@@ -6,7 +6,6 @@ name:
   aliases:
     - Fumebomb Elixir
 description: "Murky greenish liquid; hurled to create choking smoke cloud."
-id: takstEy7ZXM9GrEA
 img: icons/potion.svg
 shortcode: ElxFmb
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

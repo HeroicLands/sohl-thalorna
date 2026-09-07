@@ -5,7 +5,6 @@ name:
   aliases:
     - Desiccation
 description: "Desiccates target, causing severe thirst and weakening."
-id: R0PHjXlcaw38G35H
 img: icons/fire.svg
 shortcode: parch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Desiccation
 packFolder: spells

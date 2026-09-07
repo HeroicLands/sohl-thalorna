@@ -1,5 +1,4 @@
 ---
-id: b1sHNYrkFRl8FjPK
 tags:
   - city
   - naval

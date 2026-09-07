@@ -1,5 +1,4 @@
 ---
-id: yWYG8HA84JUmJ0Xv
 tags:
   - settlement
 description: "Settlement"

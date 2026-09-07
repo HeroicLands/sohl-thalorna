@@ -5,7 +5,6 @@ description: High altiplano of sacred lakes, pastoral priesthood, and mountain p
 name:
   full: K'uxi Balam
   aliases: []
-id: a45B4y3xgItfb4jv
 shortcode: kuxibalam
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Bolivia, Southern Central Brazil
 packFolder: kuxibalam
 ---

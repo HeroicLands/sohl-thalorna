@@ -8,7 +8,6 @@ name:
     - Kaliharan
     - Interior Speech
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."
-id: OmKyOqXSHdBU60oF
 img: icons/speaking.svg
 shortcode: kalihrlng
 type: skill
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -120,7 +119,7 @@ Adverbs precede the verbs they modify:
 
 ## Script and Literacy
 
-Kalihári employs a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
+Kalihári employs the [[skill-luthrscrpt|Luaithári]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
 
 Key features:
 
@@ -129,7 +128,7 @@ Key features:
 - **Diacritical marks**: Dots above or below indicate tone, emphasis, or poetic significance
 - **Decorative elements**: Sacred or formal texts employ ornate flourishes
 
-Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Thalorna — the scribal tradition is ancient and revered, but true literacy is confined to the nobility, the priesthood, and professional scribes. The Confederation's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Port Kaliharans often use Valtári script or simplified Kalihári notation, handled by hired scribes for trade purposes.
+Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Thalorna — the scribal tradition is ancient and revered, but true literacy is confined to the nobility, the priesthood, and professional scribes. The Confederation's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtári has no script of its own, so port Kaliharans use a simplified Kalihári notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
 ## Historical Development
 

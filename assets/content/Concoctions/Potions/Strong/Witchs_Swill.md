@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Emetic, Strong
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."
-id: elc3nRI3un00aLJb
 img: icons/potion.svg
 shortcode: PtnEmS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

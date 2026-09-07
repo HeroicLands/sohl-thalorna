@@ -6,7 +6,6 @@ name:
   aliases:
     - Exsiccation Elixir
 description: "Chalky white dryness elixir; transforms water to mist in radius."
-id: mWmjbdxedFbpbA0w
 img: icons/potion.svg
 shortcode: ElxExs
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

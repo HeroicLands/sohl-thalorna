@@ -6,7 +6,6 @@ name:
   full: Warg
   aliases: []
 description: "A monstrous four-hundred-pound wolf warped by fell magic into a near-sapient predator far deadlier than any dire wolf."
-id: Fk5LGJPnTZLxzWuG
 img: icons/game-icons/lorc/wolf-head.svg
 shortcode: warg
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+15
     end: 1d6+15
@@ -210,14 +209,14 @@ sohl:
       calc: "240"
     reachBase: 0
     bodyScaleBase: 1.38
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 150
       leaguesPerWatch: 7
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: mixed_forest

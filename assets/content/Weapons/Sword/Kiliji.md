@@ -4,7 +4,6 @@ name:
   full: Kiliji
   aliases: []
 description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
-id: 3JX3cIkIDdIeC8jx
 img: icons/sword.svg
 shortcode: Kiliji
 type: weapongear
@@ -148,7 +147,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

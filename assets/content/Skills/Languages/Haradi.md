@@ -5,7 +5,6 @@ name:
   aliases:
     - Haradi
 description: "The tongue of Harad's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
-id: 61ENCc7QXGaRPDch
 img: icons/speaking.svg
 shortcode: haradilng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -98,7 +97,7 @@ Verbs conjugate for aspect (perfective/imperfective), mood (indicative/subjuncti
 
 ## Script and Literacy
 
-Haradi employs the **Hazâri script**, a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
+Haradi employs the [[skill-hazarscrpt|Hazâri]] script, a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
 
 True Haradi literacy is confined to the nobility, the clergy, and the professional scribe class. Merchant guildsmen often possess functional literacy — enough to recognize trade marks, numerals, and common abbreviations — but rely on hired scribes for contracts, ledgers, and legal documents. The language is written left-to-right.
 

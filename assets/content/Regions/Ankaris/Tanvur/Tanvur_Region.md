@@ -7,7 +7,6 @@ name:
   aliases:
     - Tanvur
     - Tānvür
-id: DZh5LWUGaeKrOvam
 shortcode: tanvuregin
 img: null
 type: place
@@ -39,7 +38,7 @@ The Tānvüri are overwhelmingly human. The rare [[lore-flksinale|Sinalë]] who 
 
 Cultural life is refined and deeply formal. The imperial tradition prizes calligraphy, poetry, painting, tea-craft, music, and a complex cuisine whose techniques are transmitted through lineage. The same civilization that produces some of Thalorna's most exquisite porcelain and most subtle lyric poetry is the one whose caste laws sanction collective punishment and whose prisons hold generations of disfavored families as a matter of routine. Tānvüri intellectuals tend to treat this not as contradiction but as the harmonization of opposites — classification is refinement; refinement is classification.
 
-Family honor is administered through the [[Zëisīk]] ancestor tradition: every household keeps an altar, every generation's conduct is weighed on the ledger, and ritual suicide is an established means of restoring a lineage's standing when the alternative would be dishonor. Even the poorest [[lore-nokvur|Nōkvür]] villages maintain these rites.
+Family honor is administered through the [[lore-zeisik|Zëisīk]] ancestor tradition: every household keeps an altar, every generation's conduct is weighed on the ledger, and ritual suicide is an established means of restoring a lineage's standing when the alternative would be dishonor. Even the poorest [[lore-nokvur|Nōkvür]] villages maintain these rites.
 
 ## Religion
 

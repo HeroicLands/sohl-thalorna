@@ -5,7 +5,6 @@ name:
   aliases:
     - Provenzal
 description: "The melodic speech of Provenzia — shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
-id: jbfXq6oDnBGSN6df
 img: icons/speaking.svg
 shortcode: provnzlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -58,7 +57,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 ## Script & Literacy
 
-Provenzal uses the same alphabetic script as Vylari, though local scribal traditions have developed distinctive letterforms. A flowing, decorative script is conventional for poetry and formal documents. The script easily accommodates diacritical marks for nasal vowels and vowel length.
+Provenzal uses the [[skill-semrnscrpt|Sêmarion]], the same alphabet as Vylari, though local scribal traditions have developed distinctive letterforms. A flowing, decorative script is conventional for poetry and formal documents. The script easily accommodates diacritical marks for nasal vowels and vowel length.
 
 True literacy is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provènzia's commercial orientation means that merchant guildsmen often possess functional literacy — enough to recognize trade marks, prices, and simple labels — but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
 

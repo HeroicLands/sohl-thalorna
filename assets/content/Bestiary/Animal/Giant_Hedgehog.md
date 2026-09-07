@@ -5,7 +5,6 @@ name:
   full: Giant Hedgehog
   aliases: []
 description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills, rooting through leaf litter for grubs and roots but perilous to touch."
-id: DWJU5xSE5N4KxtaN
 img: icons/game-icons/caro-asercion/hedgehog.svg
 shortcode: gnthdghg
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+7
     end: 1d6+9
@@ -230,14 +229,14 @@ sohl:
       calc: "30"
     reachBase: 0
     bodyScaleBase: 1
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

@@ -1,5 +1,4 @@
 ---
-id: iC8956babRawiH7S
 tags:
   - pantheon
   - asguardian
@@ -110,7 +109,7 @@ data:
     tyr: aligned
     ymir: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

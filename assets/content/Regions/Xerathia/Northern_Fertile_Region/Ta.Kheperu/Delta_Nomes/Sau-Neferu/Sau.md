@@ -1,5 +1,4 @@
 ---
-id: 0WGb17kK6gRRoQyH
 tags:
   - town
   - market

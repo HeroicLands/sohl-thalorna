@@ -1,5 +1,4 @@
 ---
-id: ftY2uPxiDE8H1Cpu
 type: lore
 subType: culture
 name:

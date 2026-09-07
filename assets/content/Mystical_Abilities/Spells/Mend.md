@@ -5,7 +5,6 @@ name:
   aliases:
     - Restoration
 description: "Restores objects to original condition; heals cracks, breaks, tears."
-id: ansvOt5ow8NYe2FO
 img: icons/anvil.svg
 shortcode: mend
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Restoration
 packFolder: spells

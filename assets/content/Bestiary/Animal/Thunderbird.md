@@ -5,7 +5,6 @@ name:
   full: Thunderbird
   aliases: []
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
-id: cCvH3RbioiVmP5uA
 img: icons/game-icons/delapouite/eagle-head.svg
 shortcode: thndrbrd
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+32
     end: 1d6+27
@@ -228,21 +227,21 @@ sohl:
       calc: "3000"
     reachBase: 0
     bodyScaleBase: 2.16
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 120
       leaguesPerWatch: 14
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

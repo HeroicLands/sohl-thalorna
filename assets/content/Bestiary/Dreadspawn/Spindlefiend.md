@@ -5,7 +5,6 @@ name:
   full: Spindlefiend
   aliases: []
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
-id: uiCv7LNZzmeo0C5F
 img: icons/game-icons/lorc/werewolf.svg
 shortcode: spndlfnd
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+6
     end: 1d4+9
@@ -149,17 +148,17 @@ sohl:
             fire: 4
     weight:
       base: 80
-      calc: 80
+      calc: "80"
     reachBase: 0
     bodyScaleBase: 0.94
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

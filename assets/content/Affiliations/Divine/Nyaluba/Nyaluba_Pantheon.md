@@ -1,5 +1,4 @@
 ---
-id: lx2CetoF1G21hylZ
 tags:
   - pantheon
   - nyaluba
@@ -102,7 +101,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 description: The totemic religious tradition of the Nyáluba Tribal Nation of southern Xerathia — a lineage-bound system of clan totems and innumerable land, water, ancestor, and hunt spirits venerated, appeased, or warded against according to their character.
 packFolder: nyaluba
 ---

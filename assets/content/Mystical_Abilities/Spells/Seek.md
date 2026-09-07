@@ -5,7 +5,6 @@ name:
   aliases:
     - Detect
 description: "Detects magical auras; senses active sorcery and presences."
-id: frToOKkP5XcAqKyR
 img: icons/circle.svg
 shortcode: seek
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Detect
 packFolder: spells

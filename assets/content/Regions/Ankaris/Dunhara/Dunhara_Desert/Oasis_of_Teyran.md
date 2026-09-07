@@ -1,5 +1,4 @@
 ---
-id: GufmJbVpnn7ABWGl
 tags:
   - oasis
 description: "Oasis"

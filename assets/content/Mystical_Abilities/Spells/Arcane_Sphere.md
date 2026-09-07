@@ -5,7 +5,6 @@ name:
   aliases:
     - Bubble
 description: "Crystalline arcane bubble encloses target; blocks magic and prevents escape."
-id: cFahAXBWswZKPOmZ
 img: icons/circle.svg
 shortcode: arcsph
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Bubble
 packFolder: spells

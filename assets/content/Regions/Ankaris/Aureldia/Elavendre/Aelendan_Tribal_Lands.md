@@ -7,7 +7,6 @@ name:
   aliases:
     - Tribal Lands
     - The Interior
-id: xrl6UQDKiicpJOUJ
 shortcode: alndntrblnds
 img: null
 type: place

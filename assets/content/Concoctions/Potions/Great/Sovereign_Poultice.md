@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Curative, Great
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."
-id: trWISd0MOsVjBWhd
 img: icons/potion.svg
 shortcode: PtnCurG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

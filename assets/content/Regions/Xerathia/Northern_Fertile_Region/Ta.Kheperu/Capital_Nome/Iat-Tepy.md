@@ -1,5 +1,4 @@
 ---
-id: eOqlwmPkawe5BQvu
 tags:
   - precinct
   - city
@@ -55,4 +54,4 @@ Iat-Tepy is the stage for the empire's highest play and its most controlled spac
 - [[affiliation-capitalnom|The Capital Nome]] — Parent nome
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
 - [[place-tadjeser|Ta-Djeser]] — The necropolis across the water; the False Rā
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Rā, Thōth) · [[Kenbet_Pat]] — Council of the Nobles
+- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Rā, Thōth) · [[affiliation-kenbetpat|Kenbet'Pat]] — Council of the Nobles

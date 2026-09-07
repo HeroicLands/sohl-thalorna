@@ -3,7 +3,6 @@ tags: []
 name:
   full: Trout
   aliases: []
-id: 7sSIfjhmqoOP3h0E
 img: images/mystery/trout.webp
 shortcode: troutttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

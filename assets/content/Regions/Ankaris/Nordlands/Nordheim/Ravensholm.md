@@ -1,5 +1,4 @@
 ---
-id: xdfasuC4zLc5gWSd
 tags:
   - settlement
 description: "Religious/Strategic Settlement"

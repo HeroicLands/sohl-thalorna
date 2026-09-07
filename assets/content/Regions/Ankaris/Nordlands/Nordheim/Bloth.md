@@ -1,5 +1,4 @@
 ---
-id: IxdQgYmu31vb7DlD
 tags:
   - settlement
 description: "Ritual Site / Ancient Settlement"

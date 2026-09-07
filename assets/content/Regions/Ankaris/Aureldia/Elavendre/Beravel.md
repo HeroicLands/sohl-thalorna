@@ -10,7 +10,6 @@ data:
   parents:
     - elavendre
   population: null
-id: 0IRfMdU0Ti4QDjsE
 name:
   full: Béravel
   aliases: []

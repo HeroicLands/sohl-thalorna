@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Antivenin, Great
 description: "Nearly transparent golden distillation; heals poison and venom damage."
-id: ZMrOHxOikbXU6D8a
 img: icons/potion.svg
 shortcode: PtnAntvG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

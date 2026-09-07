@@ -3,7 +3,6 @@ tags: []
 name:
   full: Dove
   aliases: []
-id: 7tU9QZR1Fp4H8H3v
 img: images/mystery/dove.webp
 shortcode: dovettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

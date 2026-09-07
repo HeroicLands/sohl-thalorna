@@ -5,7 +5,6 @@ name:
   aliases:
     - Tide
 description: "Commands water flow; raises level or creates powerful currents."
-id: TbqBDo5t1qzrPWGs
 img: icons/water.svg
 shortcode: rsngcrnt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tide
 packFolder: spells

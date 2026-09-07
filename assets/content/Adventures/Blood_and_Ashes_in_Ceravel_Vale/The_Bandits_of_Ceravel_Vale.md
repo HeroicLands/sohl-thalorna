@@ -15,7 +15,6 @@ data:
   party:
     size: null
     archetypes: []
-id: UMwapuEoRc7pnmZT
 shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale

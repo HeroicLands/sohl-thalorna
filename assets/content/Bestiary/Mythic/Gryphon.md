@@ -6,7 +6,6 @@ name:
   full: Gryphon
   aliases: []
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."
-id: 3cvUtYLpqMrX5jpp
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: gryphon
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+14
     end: 1d6+10
@@ -278,21 +277,21 @@ sohl:
       calc: "300"
     reachBase: 0
     bodyScaleBase: 1.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 70
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: aerial
       feetPerRound: 200
       leaguesPerWatch: 12
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

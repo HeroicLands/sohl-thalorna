@@ -1,5 +1,4 @@
 ---
-id: siRKUDxmPwuV13qL
 tags:
   - nyaluba
   - religion
@@ -94,7 +93,7 @@ data:
   relations:
     nyalbpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 description: The clan totems, land-spirits, water-spirits, ancestor-spirits, and hunt-spirits of the Nyáluba — venerated, appeased, or warded against according to their character, and the substance of daily Nyáluba religious practice.
 packFolder: nyaluba
 ---

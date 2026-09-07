@@ -4,7 +4,6 @@ tags:
   - takheperu
   - xerathia
 description: "Kheperian informal but influential network of the empire's major trading houses"
-id: Hh0FC94ha4TbVVnd
 name:
   full: Sebeq'Sut
   aliases:
@@ -94,7 +93,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # Sebeq'Sut

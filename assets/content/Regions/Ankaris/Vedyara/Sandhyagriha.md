@@ -2,7 +2,6 @@
 tags:
   - vedyara
   - draft
-id: hmzr3Gp2pXFiaXZr
 description: >-
   The principal house of the Twilight House in Vyālendra — the building itself,
   where the Companions receive their clients and the handlers keep what is

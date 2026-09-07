@@ -1,5 +1,4 @@
 ---
-id: oG61RgHw1mC46eVc
 name:
   full: Polities
   aliases: []

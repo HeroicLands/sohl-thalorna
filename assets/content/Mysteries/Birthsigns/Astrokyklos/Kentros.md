@@ -4,14 +4,13 @@ name:
   full: Kentros
   aliases: []
 description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."
-id: pybQNJnDiHWFS0A4
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: kentros
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": -10

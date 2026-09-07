@@ -5,7 +5,6 @@ name:
   full: Komodo Behemoth
   aliases: []
 description: "A ton-heavy reptilian predator up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
-id: 2cHRBpFKXGd8RaX4
 img: icons/game-icons/lorc/gecko.svg
 shortcode: kmdbhmth
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+11
     end: 1d6+10
@@ -235,14 +234,14 @@ sohl:
       calc: "250"
     reachBase: 0
     bodyScaleBase: 1.22
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 35
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

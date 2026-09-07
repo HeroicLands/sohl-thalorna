@@ -5,7 +5,6 @@ name:
   aliases:
     - Physique
 description: "Temporary physical enhancement increasing strength and combat prowess greatly."
-id: FSuWixExM0DE948r
 img: icons/tree.svg
 shortcode: might
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Physique
 packFolder: spells

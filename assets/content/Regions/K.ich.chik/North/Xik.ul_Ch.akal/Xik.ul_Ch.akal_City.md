@@ -1,5 +1,4 @@
 ---
-id: YNPzMDFOQqc5veZB
 tags:
   - city
 description: "City"

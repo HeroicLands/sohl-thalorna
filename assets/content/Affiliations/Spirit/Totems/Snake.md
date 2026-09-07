@@ -3,7 +3,6 @@ tags: []
 name:
   full: Snake
   aliases: []
-id: An835dfH4ekHyiYC
 img: images/mystery/snake.webp
 shortcode: snakettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

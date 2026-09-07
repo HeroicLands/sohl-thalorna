@@ -5,7 +5,6 @@ name:
   full: Frostwing
   aliases: []
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
-id: MzYAPPEnFLXmQ6Cg
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: frstwng
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+11
     end: 1d4+10
@@ -228,14 +227,14 @@ sohl:
       calc: "350"
     reachBase: 0
     bodyScaleBase: 1.17
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 90
       leaguesPerWatch: 7
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

@@ -1,5 +1,4 @@
 ---
-id: kwMVyscLlBNMazGt
 tags:
   - town
   - mining

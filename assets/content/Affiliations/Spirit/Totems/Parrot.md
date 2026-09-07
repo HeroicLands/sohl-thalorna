@@ -3,7 +3,6 @@ tags: []
 name:
   full: Parrot
   aliases: []
-id: 8tXNzvMlIs7L5c7v
 img: images/mystery/parrot.webp
 shortcode: parrotttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

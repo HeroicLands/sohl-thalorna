@@ -1,5 +1,4 @@
 ---
-id: YrWaLJNILQB3xNmH
 tags:
   - continent
 type: place

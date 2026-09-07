@@ -3,7 +3,6 @@ tags: []
 name:
   full: Hex
   aliases: []
-id: Iz2Lf8bESdZVpPZJ
 img: icons/psionics.svg
 shortcode: hex
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

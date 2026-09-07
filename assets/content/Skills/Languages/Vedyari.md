@@ -5,7 +5,6 @@ name:
   aliases:
     - Vedyari
 description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
-id: DKD7KcuikPJx3oIW
 img: icons/speaking.svg
 shortcode: vedyarlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -103,7 +102,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 ## Script & Literacy
 
-**Classical Script:** Vedyari employs a syllabic script (_Vedyakṣara_) consisting of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
+**Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyákshara]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
 
 **Demotic Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 

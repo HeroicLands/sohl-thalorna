@@ -12,7 +12,6 @@ name:
   aliases:
     - the Forsaken
   home: null
-id: EhZ7oubLCClWzgDt
 packFolder: ankarisvrystwald
 shortcode: astrdfrskn
 img: icons/person.svg
@@ -44,7 +43,7 @@ data:
     complexion: smooth
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
@@ -477,17 +476,17 @@ sohl:
           - rlegpart
     weight:
       base: 132
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
 ---

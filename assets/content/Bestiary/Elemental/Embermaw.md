@@ -5,7 +5,6 @@ name:
   full: Embermaw
   aliases: []
 description: "A powerful elemental of molten heat drawn to volcanic regions, feeding on the earth's fire and driven by hunger and territorial aggression alike."
-id: Q2oJByEiRbME0lGy
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: embermaw
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+27
     end: 1d4+12
@@ -235,14 +234,14 @@ sohl:
       calc: "2600"
     reachBase: 0
     bodyScaleBase: 1.92
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: wetlands

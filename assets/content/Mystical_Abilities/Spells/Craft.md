@@ -5,7 +5,6 @@ name:
   aliases:
     - Forge
 description: "Shapes and binds materials together; crafts items from raw substance."
-id: SQDBS8UiQ4QDc83T
 img: icons/anvil.svg
 shortcode: craft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Forge
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: uazwTov8iH5iAazE
 description: "The garden-coast nome of the Ta'Kheperu delta — a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
@@ -111,7 +110,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: sauneferu
 ---
 

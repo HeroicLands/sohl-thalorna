@@ -1,6 +1,5 @@
 ---
 description: "Order."
-id: iBYwSPyqXHZtVMrX
 tags:
   - aureldian
   - religion
@@ -98,7 +97,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Janus
   aliases:

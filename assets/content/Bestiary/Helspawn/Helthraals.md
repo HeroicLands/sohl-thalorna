@@ -5,7 +5,6 @@ name:
   full: Helthraals
   aliases: []
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
-id: Y8roQ11S5nFysVFW
 img: icons/game-icons/lorc/werewolf.svg
 shortcode: hlthrls
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: helspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+10
     end: 1d4+13
@@ -486,17 +485,17 @@ sohl:
             fire: 0
     weight:
       base: 150
-      calc: 150
+      calc: "150"
     reachBase: 0
     bodyScaleBase: 1.17
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

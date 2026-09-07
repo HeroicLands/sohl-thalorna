@@ -5,7 +5,6 @@ name:
   aliases:
     - Protection
 description: "Erupts wall of dense metal from ground; shields and blocks."
-id: t6f45TKttawRfIqp
 img: icons/anvil.svg
 shortcode: barrier
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Protection
 packFolder: spells

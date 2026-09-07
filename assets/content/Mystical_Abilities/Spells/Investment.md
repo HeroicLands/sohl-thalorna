@@ -4,7 +4,6 @@ name:
   full: Investment
   aliases: []
 description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
-id: uJg3j6BQHQJDaAnZ
 img: icons/circle.svg
 shortcode: invstmnt
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Investment
 packFolder: spells

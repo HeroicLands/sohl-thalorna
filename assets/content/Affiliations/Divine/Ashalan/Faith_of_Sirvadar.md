@@ -1,6 +1,5 @@
 ---
 description: "Travel, Trade Routes, Commerce, Safe Passage."
-id: STfdLSd4eLyg0FbT
 tags:
   - religion
   - travel
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Šírvádár
   aliases:

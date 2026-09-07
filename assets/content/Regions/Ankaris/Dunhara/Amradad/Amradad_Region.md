@@ -6,7 +6,6 @@ name:
   full: Amradad Region
   aliases:
     - Amradad
-id: yvAi0uy6sqpFand1
 shortcode: amradadrgn
 img: null
 type: place

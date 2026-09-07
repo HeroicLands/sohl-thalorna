@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 35hBhSr9lDRVfP5D
 shortcode: tharivaan
 name:
   full: "Ritual: Thári'vaan"
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: tharivaan
 ---
 

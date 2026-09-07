@@ -1,5 +1,4 @@
 ---
-id: 3Y2gn4ElGpP6O7ny
 type: lore
 subType: deity
 name:

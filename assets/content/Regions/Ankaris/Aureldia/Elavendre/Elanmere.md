@@ -1,5 +1,4 @@
 ---
-id: rvpZLPq6bDeSMrLX
 tags:
   - town
   - lakeside

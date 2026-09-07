@@ -1,5 +1,4 @@
 ---
-id: jjrNvguHkGppBHx6
 tags:
   - post
   - trading

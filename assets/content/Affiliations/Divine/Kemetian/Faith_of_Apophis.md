@@ -1,6 +1,5 @@
 ---
 description: "Chaos."
-id: Jrpx4ACa2A9L9xxL
 tags:
   - kemetian
   - religion
@@ -99,7 +98,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Ápōphis
   aliases:

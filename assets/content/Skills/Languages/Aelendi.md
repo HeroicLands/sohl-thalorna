@@ -6,7 +6,6 @@ name:
     - Áelendi
     - Aelendi
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
-id: 2Pk8zNqRvTc4WbYj
 img: icons/speaking.svg
 shortcode: aelendlng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -64,6 +63,12 @@ While Áelendi is a living language among the Áelendan, it also serves a sacred
 An Élavendri speaker cannot understand Áelendi without study. The phonetic differences alone create comprehension barriers, and the grammatical divergences multiply the difficulty. However, shared roots and similar overall structure allow motivated learners to acquire Áelendi, and many educated Élavendri speakers maintain passive comprehension of at least formal Áelendi.
 
 Áelendi speakers generally understand Élavendri quite well, having borrowed or kept many Élavendri innovations. Educated Áelendan often code-switch between Áelendi and Élavendri for pragmatic reasons.
+
+## Script & Literacy
+
+Áelendi is written in [[skill-thrvrdhscrpt|Thúravardh]], the old rune-row of the highlands — the western, lenited branch of the same Proto-Pelwar graven work that gives the Normen their [[skill-thuravarkscript|Thurávark]] and imperial Vylaria its [[skill-thrvrknscrpt|Thâravárkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Sêmarion]] has displaced it for everything but poetry and magic.
+
+The Áelendan nonetheless write very little. The Covenant is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thúravardh is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Ordo Arcanis who has been permitted — rarely, and under watch — to copy an inscription.
 
 ## Sample Phrases
 

@@ -5,7 +5,6 @@ name:
   full: Rockback Bear
   aliases: []
 description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
-id: KRJCfi3ZMuOYTwFd
 img: icons/game-icons/delapouite/bear-head.svg
 shortcode: rckbckbr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+14
     end: 1d6+13
@@ -235,14 +234,14 @@ sohl:
       calc: "300"
     reachBase: 0
     bodyScaleBase: 1.38
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

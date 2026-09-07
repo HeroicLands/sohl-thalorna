@@ -1,6 +1,5 @@
 ---
 description: "Water."
-id: uKG7YwrB6Z7ZXJVP
 tags:
   - celestial-order
   - elemental-lord
@@ -102,7 +101,7 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: elementallords
 ---
 

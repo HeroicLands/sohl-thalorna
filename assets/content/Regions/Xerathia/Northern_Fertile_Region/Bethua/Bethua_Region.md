@@ -5,7 +5,6 @@ description: The western coast of Xerathia's northern shore and the engineered i
 name:
   full: Bethûa Region
   aliases: []
-id: cVnJ8UumMs7ffSZq
 shortcode: bethuargn
 img: null
 type: place

@@ -4,7 +4,6 @@ name:
   full: Firestorm
   aliases: []
 description: "Conjures whirling inferno; swirls consuming flames across wide area."
-id: YopkLlE1KVzjcnZS
 img: icons/fire.svg
 shortcode: frstrm
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Conflagration
 packFolder: spells

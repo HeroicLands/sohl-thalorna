@@ -13,7 +13,6 @@ name:
     - Souls (GM)
     - The Spirit Realm
 subType: cosmology
-id: 4MHP68GuoaAZVOD9
 packFolder: settinglore
 shortcode: soulspirts
 ---

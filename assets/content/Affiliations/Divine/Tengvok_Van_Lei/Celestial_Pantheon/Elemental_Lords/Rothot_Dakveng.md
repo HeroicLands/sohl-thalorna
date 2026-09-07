@@ -1,6 +1,5 @@
 ---
 description: "Wood."
-id: Q66XBdzS3rtj7joX
 tags:
   - celestial-order
   - elemental-lord
@@ -102,7 +101,7 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: elementallords
 ---
 

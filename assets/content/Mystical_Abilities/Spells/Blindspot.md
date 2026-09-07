@@ -5,7 +5,6 @@ name:
   aliases:
     - Caecity
 description: "Caster becomes invisible when still; seen only if moving."
-id: OFhhgwaYmdmVDNB2
 img: icons/wind.svg
 shortcode: blndspt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Caecity
 packFolder: spells

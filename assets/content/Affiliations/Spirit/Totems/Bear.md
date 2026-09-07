@@ -3,7 +3,6 @@ tags: []
 name:
   full: Bear
   aliases: []
-id: IPxMGQOSQBsOi48s
 img: images/mystery/bear.webp
 shortcode: bearttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

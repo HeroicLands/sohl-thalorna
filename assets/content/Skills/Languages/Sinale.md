@@ -7,7 +7,6 @@ name:
     - Elven
     - Elder Tongue
 description: "The eldest of the Elder Tongues — vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
-id: aQkFHzC0Jpl1FVng
 img: icons/speaking.svg
 shortcode: sinalelng
 type: skill
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -126,7 +125,7 @@ Possession is marked through word order and optional particles:
 
 ## Script and Literacy
 
-Sinalë is written in a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
+Sinalë is written in the [[skill-clthndscrpt|Calathindë]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 

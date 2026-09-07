@@ -92,11 +92,10 @@ data:
   lore: []
   parents: []
   relations: {}
-id: qBeythibUMynFR01
 shortcode: astrokyklos
 img: null
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: astrokyklos
 ---
 

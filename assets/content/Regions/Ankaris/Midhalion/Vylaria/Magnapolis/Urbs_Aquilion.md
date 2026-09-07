@@ -14,7 +14,6 @@ data:
   parents:
     - vylariargn
   population: null
-id: In9rCt4xMzQp7Lub
 name:
   full: Urbs Aquilion
   aliases:

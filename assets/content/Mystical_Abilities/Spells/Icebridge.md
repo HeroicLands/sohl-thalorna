@@ -5,7 +5,6 @@ name:
   aliases:
     - Floe
 description: "Freezes paths across water; forms traversable bridge for travel."
-id: RXXKYO2Z00N4PEpX
 img: icons/water.svg
 shortcode: icbrdg
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Floe
 packFolder: spells
