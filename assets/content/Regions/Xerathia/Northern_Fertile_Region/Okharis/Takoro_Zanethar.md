@@ -38,7 +38,6 @@ data:
     extra_features: []
 sohl:
   templatePriority: null
-  birthsign: ""
   body:
     structure:
       parts:
@@ -468,7 +467,6 @@ sohl:
       strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
-  bodyStructure: humanoid
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
@@ -514,6 +512,7 @@ sohl:
     - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: trak, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 24 } }
+
 ---
 
 #### The Overlord

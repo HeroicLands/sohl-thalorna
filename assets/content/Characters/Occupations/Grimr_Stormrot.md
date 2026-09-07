@@ -519,7 +519,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: nordmalng, type: skill, system: { masteryLevelBase: 68 } }
 ---
 
 # Appearance {#appearance}

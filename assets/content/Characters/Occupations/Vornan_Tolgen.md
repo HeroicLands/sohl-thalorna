@@ -520,7 +520,7 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
+
 ---
 
 # Appearance {#appearance}

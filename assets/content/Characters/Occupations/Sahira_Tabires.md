@@ -517,9 +517,8 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: lang, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
+
 ---
 
 # Appearance {#appearance}
