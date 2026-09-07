@@ -44,216 +44,6 @@ sohl:
     wil: 1d6+10
     rea: 1d4+2
     cre: 1d4
-  body:
-    structure:
-      zones:
-        - name: Head
-          shortcode: headzone
-          probWeight: 4
-        - name: Left Wing
-          shortcode: lwingzone
-          probWeight: 3
-        - name: Torso
-          shortcode: torsozone
-          probWeight: 4
-        - name: Right Wing
-          shortcode: rwingzone
-          probWeight: 3
-        - name: Hindquarters
-          shortcode: hindqtrzone
-          probWeight: 6
-      parts:
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Wing
-          shortcode: lwingpart
-          bodyZoneCode: lwingzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Torso
-          shortcode: torsopart
-          bodyZoneCode: torsozone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Right Wing
-          shortcode: rwingpart
-          bodyZoneCode: rwingzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Leg
-          shortcode: lhindlegpart
-          bodyZoneCode: hindqtrzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Leg
-          shortcode: rhindlegpart
-          bodyZoneCode: hindqtrzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-        - name: Tail
-          shortcode: tailpart
-          bodyZoneCode: hindqtrzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-      locations:
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 4
-          protectionBase:
-            blunt: 7
-            edged: 8
-            piercing: 7
-            fire: 9
-        - name: Neck
-          shortcode: neckloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: high
-          amputability: low
-          shockValue: 5
-          probWeight: 6
-          protectionBase:
-            blunt: 8
-            edged: 9
-            piercing: 8
-            fire: 10
-        - name: Left Wing
-          shortcode: lwingloc
-          bodyPartCode: lwingpart
-          bleedingSusceptibility: none
-          amputability: low
-          shockValue: 1
-          probWeight: 10
-          protectionBase: &a2
-            blunt: 4
-            edged: 5
-            piercing: 4
-            fire: 6
-        - name: Thorax
-          shortcode: thoraxloc
-          bodyPartCode: torsopart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 6
-          protectionBase: &a1
-            blunt: 8
-            edged: 9
-            piercing: 8
-            fire: 10
-        - name: Abdomen
-          shortcode: abdloc
-          bodyPartCode: torsopart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 4
-          protectionBase: *a1
-        - name: Right Wing
-          shortcode: rwingloc
-          bodyPartCode: rwingpart
-          bleedingSusceptibility: none
-          amputability: low
-          shockValue: 1
-          probWeight: 10
-          protectionBase: *a2
-        - name: Left Leg
-          shortcode: lhindlegloc
-          bodyPartCode: lhindlegpart
-          bleedingSusceptibility: medium
-          amputability: low
-          shockValue: 3
-          probWeight: 3
-          protectionBase: &a3
-            blunt: 8
-            edged: 9
-            piercing: 8
-            fire: 10
-        - name: Left Foot
-          shortcode: lhftloc
-          bodyPartCode: lhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 2
-          protectionBase: &a4
-            blunt: 7
-            edged: 8
-            piercing: 7
-            fire: 9
-        - name: Right Leg
-          shortcode: rhindlegloc
-          bodyPartCode: rhindlegpart
-          bleedingSusceptibility: medium
-          amputability: low
-          shockValue: 3
-          probWeight: 3
-          protectionBase: *a3
-        - name: Right Foot
-          shortcode: rhftloc
-          bodyPartCode: rhindlegpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 2
-          protectionBase: *a4
-        - name: Tail
-          shortcode: tailloc
-          bodyPartCode: tailpart
-          bleedingSusceptibility: none
-          amputability: medium
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: 6
-            edged: 7
-            piercing: 6
-            fire: 8
-    weight:
-      base: 600
-      calc: "600"
-    reachBase: 0
-    bodyScaleBase: 1.66
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 50
-      leaguesPerWatch: 4
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors: []
-      disabled: false
-    - medium: aerial
-      feetPerRound: 150
-      leaguesPerWatch: 12
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors: []
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
@@ -381,6 +171,217 @@ sohl:
           traits:
             noBlock: true
             poison: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Head
+            shortcode: headzone
+            probWeight: 4
+          - name: Left Wing
+            shortcode: lwingzone
+            probWeight: 3
+          - name: Torso
+            shortcode: torsozone
+            probWeight: 4
+          - name: Right Wing
+            shortcode: rwingzone
+            probWeight: 3
+          - name: Hindquarters
+            shortcode: hindqtrzone
+            probWeight: 6
+        parts:
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Wing
+            shortcode: lwingpart
+            bodyZoneCode: lwingzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Torso
+            shortcode: torsopart
+            bodyZoneCode: torsozone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Right Wing
+            shortcode: rwingpart
+            bodyZoneCode: rwingzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Leg
+            shortcode: lhindlegpart
+            bodyZoneCode: hindqtrzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Leg
+            shortcode: rhindlegpart
+            bodyZoneCode: hindqtrzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+          - name: Tail
+            shortcode: tailpart
+            bodyZoneCode: hindqtrzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+        locations:
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 4
+            protectionBase:
+              blunt: 7
+              edged: 8
+              piercing: 7
+              fire: 9
+          - name: Neck
+            shortcode: neckloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: high
+            amputability: low
+            shockValue: 5
+            probWeight: 6
+            protectionBase:
+              blunt: 8
+              edged: 9
+              piercing: 8
+              fire: 10
+          - name: Left Wing
+            shortcode: lwingloc
+            bodyPartCode: lwingpart
+            bleedingSusceptibility: none
+            amputability: low
+            shockValue: 1
+            probWeight: 10
+            protectionBase: &a2
+              blunt: 4
+              edged: 5
+              piercing: 4
+              fire: 6
+          - name: Thorax
+            shortcode: thoraxloc
+            bodyPartCode: torsopart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 6
+            protectionBase: &a1
+              blunt: 8
+              edged: 9
+              piercing: 8
+              fire: 10
+          - name: Abdomen
+            shortcode: abdloc
+            bodyPartCode: torsopart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 4
+            protectionBase: *a1
+          - name: Right Wing
+            shortcode: rwingloc
+            bodyPartCode: rwingpart
+            bleedingSusceptibility: none
+            amputability: low
+            shockValue: 1
+            probWeight: 10
+            protectionBase: *a2
+          - name: Left Leg
+            shortcode: lhindlegloc
+            bodyPartCode: lhindlegpart
+            bleedingSusceptibility: medium
+            amputability: low
+            shockValue: 3
+            probWeight: 3
+            protectionBase: &a3
+              blunt: 8
+              edged: 9
+              piercing: 8
+              fire: 10
+          - name: Left Foot
+            shortcode: lhftloc
+            bodyPartCode: lhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 2
+            protectionBase: &a4
+              blunt: 7
+              edged: 8
+              piercing: 7
+              fire: 9
+          - name: Right Leg
+            shortcode: rhindlegloc
+            bodyPartCode: rhindlegpart
+            bleedingSusceptibility: medium
+            amputability: low
+            shockValue: 3
+            probWeight: 3
+            protectionBase: *a3
+          - name: Right Foot
+            shortcode: rhftloc
+            bodyPartCode: rhindlegpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 2
+            protectionBase: *a4
+          - name: Tail
+            shortcode: tailloc
+            bodyPartCode: tailpart
+            bleedingSusceptibility: none
+            amputability: medium
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: 6
+              edged: 7
+              piercing: 6
+              fire: 8
+      weight:
+        base: 600
+        calc: "600"
+      reachBase: 0
+      bodyScaleBase: 1.66
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 50
+        leaguesPerWatch: 4
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
+        disabled: false
+      - medium: aerial
+        feetPerRound: 150
+        leaguesPerWatch: 12
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
+        disabled: false
 ---
 
 # Appearance {#appearance}

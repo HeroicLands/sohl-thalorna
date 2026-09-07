@@ -10,13 +10,14 @@ shortcode: vision
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: sideros
-  levelBase: 1
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: sideros
+    masteryLevelBase: 0
+    levelBase: 1
+    charges:
+      value: null
+      max: null
 hmk:
   name: Sight
 packFolder: spells

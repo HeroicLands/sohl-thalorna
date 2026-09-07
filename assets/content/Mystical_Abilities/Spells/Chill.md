@@ -10,13 +10,14 @@ shortcode: chill
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: hydalis
-  levelBase: 1
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: hydalis
+    masteryLevelBase: 0
+    levelBase: 1
+    charges:
+      value: null
+      max: null
 hmk:
   name: Cooling
 packFolder: spells

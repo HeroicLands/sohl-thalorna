@@ -43,100 +43,6 @@ sohl:
     wil: 1d4+8
     rea: 1d4+8
     cre: 1d4+12
-  body:
-    structure:
-      zones:
-        - name: Core
-          shortcode: corezone
-          probWeight: 1
-        - name: Shroud
-          shortcode: shroudzone
-          probWeight: 2
-      parts:
-        - name: Core
-          shortcode: corepart
-          bodyZoneCode: corezone
-          roles:
-            - vital
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Shroud
-          shortcode: shroudpart
-          bodyZoneCode: shroudzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-      locations:
-        - name: Core
-          shortcode: coreloc
-          bodyPartCode: corepart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-        - name: Shroud
-          shortcode: shroudloc
-          bodyPartCode: shroudpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-    weight:
-      base: 0
-      calc: "0"
-    reachBase: 0
-    bodyScaleBase: 1
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 60
-      leaguesPerWatch: 4
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors:
-        - scope: surface_cover
-          key: wetlands
-          mode: override
-          textValue: "0"
-        - scope: surface_cover
-          key: dunes
-          mode: override
-          textValue: "0"
-        - scope: surface_cover
-          key: mixed_forest
-          mode: override
-          textValue: "0"
-        - scope: surface_cover
-          key: barren
-          mode: override
-          textValue: "0"
-        - scope: surface_cover
-          key: ruins
-          mode: override
-          textValue: "0"
-        - scope: hydrology
-          key: shallow
-          mode: override
-          textValue: "0"
-        - scope: hydrology
-          key: deep
-          mode: override
-          textValue: "0"
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
@@ -190,6 +96,101 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Core
+            shortcode: corezone
+            probWeight: 1
+          - name: Shroud
+            shortcode: shroudzone
+            probWeight: 2
+        parts:
+          - name: Core
+            shortcode: corepart
+            bodyZoneCode: corezone
+            roles:
+              - vital
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Shroud
+            shortcode: shroudpart
+            bodyZoneCode: shroudzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+        locations:
+          - name: Core
+            shortcode: coreloc
+            bodyPartCode: corepart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+          - name: Shroud
+            shortcode: shroudloc
+            bodyPartCode: shroudpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+      weight:
+        base: 0
+        calc: "0"
+      reachBase: 0
+      bodyScaleBase: 1
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 60
+        leaguesPerWatch: 4
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors:
+          - scope: surface_cover
+            key: wetlands
+            mode: override
+            textValue: "0"
+          - scope: surface_cover
+            key: dunes
+            mode: override
+            textValue: "0"
+          - scope: surface_cover
+            key: mixed_forest
+            mode: override
+            textValue: "0"
+          - scope: surface_cover
+            key: barren
+            mode: override
+            textValue: "0"
+          - scope: surface_cover
+            key: ruins
+            mode: override
+            textValue: "0"
+          - scope: hydrology
+            key: shallow
+            mode: override
+            textValue: "0"
+          - scope: hydrology
+            key: deep
+            mode: override
+            textValue: "0"
+        disabled: false
 ---
 
 # Appearance {#appearance}

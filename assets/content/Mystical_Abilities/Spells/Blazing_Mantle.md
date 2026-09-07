@@ -9,13 +9,14 @@ shortcode: blzgmntl
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 6
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 6
+    charges:
+      value: null
+      max: null
 hmk:
   name: Mantle
 packFolder: spells

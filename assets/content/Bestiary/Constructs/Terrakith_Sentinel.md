@@ -37,31 +37,32 @@ sohl:
     str: 1d6+21
     agl: 1d4+3
     per: 1d6+9
-  body:
-    structure:
-      zones: []
-      parts: []
-      locations: []
-    weight:
-      base: 1000
-      calc: "1000"
-    reachBase: 0
-    bodyScaleBase: 1.66
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 30
-      leaguesPerWatch: 3
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors: []
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
     - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+  system:
+    body:
+      structure:
+        zones: []
+        parts: []
+        locations: []
+      weight:
+        base: 1000
+        calc: "1000"
+      reachBase: 0
+      bodyScaleBase: 1.66
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 30
+        leaguesPerWatch: 3
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
+        disabled: false
 ---
 
 # Appearance {#appearance}

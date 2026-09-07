@@ -9,13 +9,14 @@ shortcode: pool
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: kentra
-  levelBase: 3
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: kentra
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
 hmk:
   name: Pool
 packFolder: spells

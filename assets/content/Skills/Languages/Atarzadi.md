@@ -11,13 +11,14 @@ shortcode: atarzadilng
 type: skill
 subType: language
 sohl:
-  skillBaseFormula: "@elo, @rea"
-  combatCategory: none
-  parentSkillCode: lang
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   templatePriority: null
+  system:
+    skillBaseFormula: "@elo, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: lang
+    initSkillMult: 0
 packFolder: language
 flags:
   "sohl-thalorna":

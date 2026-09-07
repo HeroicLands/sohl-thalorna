@@ -10,13 +10,14 @@ shortcode: morph
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 1
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 1
+    charges:
+      value: null
+      max: null
 hmk:
   name: Shape
 packFolder: spells

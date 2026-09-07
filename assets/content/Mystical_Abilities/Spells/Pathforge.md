@@ -10,13 +10,14 @@ shortcode: pthfrg
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Tunnel
 packFolder: spells

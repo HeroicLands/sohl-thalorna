@@ -13,13 +13,14 @@ subType: exotic
 hmk:
   name: "Potion, Narcotic, Mild"
 sohl:
-  quality: 0
-  durability: 5
-  value: 16
-  weight: 0.25
-  potency: "mild"
-  strength: 0
   templatePriority: null
+  system:
+    weightBase: 0.25
+    valueBase: 16
+    qualityBase: 0
+    durabilityBase: 5
+    potency: "mild"
+    strength: 0
 packFolder: mild
 ---
 

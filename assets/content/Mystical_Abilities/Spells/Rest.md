@@ -10,13 +10,14 @@ shortcode: rest
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: physera
-  levelBase: 4
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: physera
+    masteryLevelBase: 0
+    levelBase: 4
+    charges:
+      value: null
+      max: null
 hmk:
   name: Slumber
 packFolder: spells

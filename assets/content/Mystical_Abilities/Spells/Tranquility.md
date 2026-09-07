@@ -10,13 +10,14 @@ shortcode: trnqlty
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: hydalis
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: hydalis
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Calm
 packFolder: spells

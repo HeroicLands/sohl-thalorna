@@ -9,13 +9,14 @@ name:
   full: Incantus Physéra
   aliases: []
 sohl:
-  skillBaseFormula: "@aur, @rea"
-  combatCategory: none
-  parentSkillCode: ""
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   templatePriority: null
+  system:
+    skillBaseFormula: "@aur, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
 packFolder: hexhodai
 ---
 

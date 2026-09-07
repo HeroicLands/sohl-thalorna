@@ -9,13 +9,14 @@ shortcode: embrmrk
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 3
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
 hmk:
   name: Brand
 packFolder: spells

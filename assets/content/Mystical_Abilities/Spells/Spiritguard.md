@@ -10,13 +10,14 @@ shortcode: sprtgrd
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pneumenos
-  levelBase: 6
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: pneumenos
+    masteryLevelBase: 0
+    levelBase: 6
+    charges:
+      value: null
+      max: null
 hmk:
   name: Host
 packFolder: spells

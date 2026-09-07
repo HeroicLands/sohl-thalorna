@@ -13,13 +13,14 @@ subType: exotic
 hmk:
   name: "Potion, Poison, Strong"
 sohl:
-  quality: 0
-  durability: 5
-  value: 48
-  weight: 0.25
-  potency: "strong"
-  strength: 0
   templatePriority: null
+  system:
+    weightBase: 0.25
+    valueBase: 48
+    qualityBase: 0
+    durabilityBase: 5
+    potency: "strong"
+    strength: 0
 packFolder: strong
 ---
 

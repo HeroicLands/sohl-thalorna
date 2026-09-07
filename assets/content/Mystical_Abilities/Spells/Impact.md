@@ -10,13 +10,14 @@ shortcode: impact
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Meteor
 packFolder: spells

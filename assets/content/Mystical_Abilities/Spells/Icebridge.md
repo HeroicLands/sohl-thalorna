@@ -10,13 +10,14 @@ shortcode: icbrdg
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: hydalis
-  levelBase: 6
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: hydalis
+    masteryLevelBase: 0
+    levelBase: 6
+    charges:
+      value: null
+      max: null
 hmk:
   name: Floe
 packFolder: spells

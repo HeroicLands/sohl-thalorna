@@ -43,193 +43,6 @@ sohl:
     rea: 1d4+5
     cre: 1d4+5
     str: 1d4
-  body:
-    structure:
-      zones:
-        - name: Head
-          shortcode: headzone
-          probWeight: 1
-        - name: Thorax
-          shortcode: thoraxzone
-          probWeight: 1
-        - name: Abdomen
-          shortcode: abdomenzone
-          probWeight: 1
-      parts:
-        - name: Head
-          shortcode: headpart
-          bodyZoneCode: headzone
-          roles:
-            - vital
-            - manipulator
-          canHoldItem: false
-          probWeight: 10
-        - name: Thorax
-          shortcode: thoraxpart
-          bodyZoneCode: thoraxzone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Wing
-          shortcode: lwingpart
-          bodyZoneCode: thoraxzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 2
-        - name: Right Wing
-          shortcode: rwingpart
-          bodyZoneCode: thoraxzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 2
-        - name: Left Legs
-          shortcode: llegspart
-          bodyZoneCode: thoraxzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 3
-        - name: Right Legs
-          shortcode: rlegspart
-          bodyZoneCode: thoraxzone
-          roles:
-            - locomotor
-          canHoldItem: false
-          probWeight: 3
-        - name: Abdomen
-          shortcode: abdomenpart
-          bodyZoneCode: abdomenzone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-      locations:
-        - name: Head
-          shortcode: headloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 7
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Mandibles
-          shortcode: mandibloc
-          bodyPartCode: headpart
-          bleedingSusceptibility: low
-          amputability: high
-          shockValue: 2
-          probWeight: 3
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Thorax
-          shortcode: thoraxloc
-          bodyPartCode: thoraxpart
-          bleedingSusceptibility: low
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Left Wing
-          shortcode: lwingloc
-          bodyPartCode: lwingpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Right Wing
-          shortcode: rwingloc
-          bodyPartCode: rwingpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 1
-          probWeight: 10
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Left Legs
-          shortcode: llegsloc
-          bodyPartCode: llegspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Right Legs
-          shortcode: rlegsloc
-          bodyPartCode: rlegspart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Abdomen
-          shortcode: abdloc
-          bodyPartCode: abdomenpart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 8
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-        - name: Sting
-          shortcode: stingloc
-          bodyPartCode: abdomenpart
-          bleedingSusceptibility: low
-          amputability: high
-          shockValue: 2
-          probWeight: 2
-          protectionBase:
-            blunt: -4
-            edged: -5
-            piercing: -6
-            fire: -4
-    weight:
-      base: 80
-      calc: "80"
-    reachBase: 0
-    bodyScaleBase: 0.33
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: aerial
-      feetPerRound: 80
-      leaguesPerWatch: 5
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors: []
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }
@@ -284,6 +97,194 @@ sohl:
           traits:
             noBlock: true
             poison: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Head
+            shortcode: headzone
+            probWeight: 1
+          - name: Thorax
+            shortcode: thoraxzone
+            probWeight: 1
+          - name: Abdomen
+            shortcode: abdomenzone
+            probWeight: 1
+        parts:
+          - name: Head
+            shortcode: headpart
+            bodyZoneCode: headzone
+            roles:
+              - vital
+              - manipulator
+            canHoldItem: false
+            probWeight: 10
+          - name: Thorax
+            shortcode: thoraxpart
+            bodyZoneCode: thoraxzone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Wing
+            shortcode: lwingpart
+            bodyZoneCode: thoraxzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 2
+          - name: Right Wing
+            shortcode: rwingpart
+            bodyZoneCode: thoraxzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 2
+          - name: Left Legs
+            shortcode: llegspart
+            bodyZoneCode: thoraxzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 3
+          - name: Right Legs
+            shortcode: rlegspart
+            bodyZoneCode: thoraxzone
+            roles:
+              - locomotor
+            canHoldItem: false
+            probWeight: 3
+          - name: Abdomen
+            shortcode: abdomenpart
+            bodyZoneCode: abdomenzone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+        locations:
+          - name: Head
+            shortcode: headloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 7
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Mandibles
+            shortcode: mandibloc
+            bodyPartCode: headpart
+            bleedingSusceptibility: low
+            amputability: high
+            shockValue: 2
+            probWeight: 3
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Thorax
+            shortcode: thoraxloc
+            bodyPartCode: thoraxpart
+            bleedingSusceptibility: low
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Left Wing
+            shortcode: lwingloc
+            bodyPartCode: lwingpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Right Wing
+            shortcode: rwingloc
+            bodyPartCode: rwingpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 1
+            probWeight: 10
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Left Legs
+            shortcode: llegsloc
+            bodyPartCode: llegspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Right Legs
+            shortcode: rlegsloc
+            bodyPartCode: rlegspart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Abdomen
+            shortcode: abdloc
+            bodyPartCode: abdomenpart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 8
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+          - name: Sting
+            shortcode: stingloc
+            bodyPartCode: abdomenpart
+            bleedingSusceptibility: low
+            amputability: high
+            shockValue: 2
+            probWeight: 2
+            protectionBase:
+              blunt: -4
+              edged: -5
+              piercing: -6
+              fire: -4
+      weight:
+        base: 80
+        calc: "80"
+      reachBase: 0
+      bodyScaleBase: 0.33
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: aerial
+        feetPerRound: 80
+        leaguesPerWatch: 5
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
+        disabled: false
 ---
 
 # Appearance {#appearance}
