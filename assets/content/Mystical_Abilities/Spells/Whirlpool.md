@@ -5,7 +5,6 @@ name:
   aliases:
     - Vortex
 description: "Creates spinning vortex; swirls water into dangerous current."
-id: eIDPdFjxjDzW8r9V
 img: icons/circle.svg
 shortcode: whrlpl
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Vortex
 packFolder: spells

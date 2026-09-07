@@ -5,7 +5,6 @@ name:
   aliases:
     - Condensation
 description: "Gathers moisture from air into pools; manifests fresh water."
-id: GTQhkCxkIxII0Yvr
 img: icons/water.svg
 shortcode: dewcraft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Condensation
 packFolder: spells

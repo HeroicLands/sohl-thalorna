@@ -5,7 +5,6 @@ name:
   aliases:
     - Quenching
 description: "Smothers flames; quenches fire and heat without producing ash."
-id: Km8HLjxgjb5c47Ac
 img: icons/water.svg
 shortcode: extngsh
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Quenching
 packFolder: spells

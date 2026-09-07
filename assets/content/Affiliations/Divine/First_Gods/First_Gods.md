@@ -1,7 +1,6 @@
 ---
 tags: []
 description: The ancestral pantheon of the Áelendan — two primordial Powers locked in eternal struggle, and the celestial kindred who serve them.
-id: 1JgAmvvaQtfCGqoa
 name:
   full: The First Gods
   aliases:
@@ -99,7 +98,7 @@ data:
     theoldway: aligned
     thekindred: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
 

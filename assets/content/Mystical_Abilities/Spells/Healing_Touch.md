@@ -5,7 +5,6 @@ name:
   aliases:
     - Balsam
 description: "Caster's touch mends wounds; restores flesh and eases pain."
-id: YWTF2eNjPIeHCF4a
 img: icons/tree.svg
 shortcode: healtch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Balsam
 packFolder: spells

@@ -4,14 +4,13 @@ name:
   full: Bourax
   aliases: []
 description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
-id: vKmINLcD4XwVEtZv
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: bourax
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": 10

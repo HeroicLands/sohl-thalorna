@@ -2,7 +2,6 @@
 tags:
   - draft
   - city
-id: CrmLLo78aUYwlRtC
 description: "City"
 type: place
 subType: settlement

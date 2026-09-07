@@ -85,8 +85,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: 679Cgowsm63fuzBR
+  templatePriority: null
 name:
   full: Sekhet'Neru
   aliases:

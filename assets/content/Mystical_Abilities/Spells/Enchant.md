@@ -5,7 +5,6 @@ name:
   aliases:
     - Charm
 description: "Imbues object with magic; grants it power or special property."
-id: BTQ9bRycW7RSHqYm
 img: icons/anvil.svg
 shortcode: enchant
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Charm
 packFolder: spells

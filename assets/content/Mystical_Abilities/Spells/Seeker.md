@@ -4,7 +4,6 @@ name:
   full: Seeker
   aliases: []
 description: "Seeks hidden objects; reveals location of sought-after item."
-id: 00MLcg47Jqc1VD89
 img: icons/fire.svg
 shortcode: seeker
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Seeker
 packFolder: spells

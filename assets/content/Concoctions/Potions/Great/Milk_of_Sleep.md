@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Narcotic, Great
 description: "Black opaque draft; induces deep unconsciousness and complete rest."
-id: jdFdATz00hX178bO
 img: icons/potion.svg
 shortcode: PtnNarG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: fzzz6etkn5W7ziDK
 name:
   full: The Peaches of Zûravlen
   aliases: []

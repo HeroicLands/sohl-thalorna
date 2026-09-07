@@ -5,7 +5,6 @@ name:
   aliases:
     - Haradi
 description: "The tongue of Harad's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
-id: 61ENCc7QXGaRPDch
 img: icons/speaking.svg
 shortcode: haradilng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

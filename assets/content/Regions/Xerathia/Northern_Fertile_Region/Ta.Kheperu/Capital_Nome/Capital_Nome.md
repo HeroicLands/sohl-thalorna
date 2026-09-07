@@ -1,5 +1,4 @@
 ---
-id: HcPVVgkUauyvoGg7
 description: "The vast central nome surrounding the imperial city of Wasetkara — seat of the Per-Aá, home of the central bureaucracy and the greatest temples, and site of the royal necropolis; not one of a class but a single enormous province in its own right."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
@@ -113,7 +112,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: capitalnome
 ---
 

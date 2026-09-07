@@ -5,7 +5,6 @@ name:
   aliases:
     - Fireworks
 description: "Creates brilliant light display; dazzles vision with color."
-id: tsoncTCuLVCILcRF
 img: icons/fire.svg
 shortcode: sprkshw
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Fireworks
 packFolder: spells

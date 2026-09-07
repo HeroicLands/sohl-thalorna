@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Overview of the guild system as it functions across the realms of Thalorna — varying by region in form, prestige, and authority, but ubiquitous as the institution by which trades are organized, standards are kept, and apprentices are trained."
-id: W7g4wdfUjNB8p932
 name:
   full: The Guilds of Thalorna
   aliases:

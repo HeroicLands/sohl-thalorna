@@ -5,7 +5,6 @@ name:
   aliases:
     - Obedience
 description: "Enchantment compelling obedience; target serves caster with unwavering devotion."
-id: OzKv2XLiqN0IYtaQ
 img: icons/divination.svg
 shortcode: loyalty
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Obedience
 packFolder: spells

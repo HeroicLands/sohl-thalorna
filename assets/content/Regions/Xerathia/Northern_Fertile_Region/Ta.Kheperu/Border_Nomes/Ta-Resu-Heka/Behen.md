@@ -1,5 +1,4 @@
 ---
-id: ijEMnWfPBKZeYMVm
 tags:
   - fortress
   - town

@@ -3,7 +3,6 @@ name:
   full: "Provènzia"
 shortcode: provenzia
 type: folder
-id: 2s244hfP0BpQi195
 data:
   parent:
     default: polities

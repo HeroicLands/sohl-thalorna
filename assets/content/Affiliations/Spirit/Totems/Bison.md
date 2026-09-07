@@ -3,7 +3,6 @@ tags: []
 name:
   full: Bison
   aliases: []
-id: 2CpsqSoWBpEsHCU9
 img: images/mystery/bison.webp
 shortcode: bisonttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Wind
 description: "Conjures powerful wind; buffets targets and scatters loose objects."
-id: 9DQBtmLcuVE9dsHW
 img: icons/wind.svg
 shortcode: gust
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Wind
 packFolder: spells

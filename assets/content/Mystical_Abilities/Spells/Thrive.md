@@ -5,7 +5,6 @@ name:
   aliases:
     - Growth
 description: "Grants vigor and vitality; strengthens body and spirit."
-id: hfGCjP0Eeh2nQb9u
 img: icons/tree.svg
 shortcode: thrive
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Growth
 packFolder: spells

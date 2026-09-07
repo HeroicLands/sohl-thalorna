@@ -89,8 +89,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: W9GL9vBPyw1YBHJZ
+  templatePriority: null
 name:
   full: The Blackpine Wolves
   aliases: []

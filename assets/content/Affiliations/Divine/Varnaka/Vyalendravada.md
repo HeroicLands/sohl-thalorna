@@ -1,6 +1,5 @@
 ---
 description: "Universal."
-id: tKkSvIIYC4HgE6Fl
 tags:
   - varnaka
   - faith
@@ -105,7 +104,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 

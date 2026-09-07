@@ -1,7 +1,6 @@
 ---
 tags: []
 description: The animal and place spirits who serve the Two Powers — venerated, appeased, or warded against by the Áelendan tribes, and the substance of daily religious practice.
-id: S5hZbMaTymAeOQiA
 name:
   full: The Kindred
   aliases:
@@ -95,7 +94,7 @@ data:
   relations:
     firstgods: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
 

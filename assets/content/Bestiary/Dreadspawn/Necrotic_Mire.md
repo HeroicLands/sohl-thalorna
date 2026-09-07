@@ -5,7 +5,6 @@ name:
   full: Necrotic Mire
   aliases: []
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
-id: a2al6XRUzVftGyhp
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: ncrtcmr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+9
     end: 1d6+16
@@ -151,17 +150,17 @@ sohl:
             fire: 3
     weight:
       base: 500
-      calc: 500
+      calc: "500"
     reachBase: 0
     bodyScaleBase: 1.06
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 20
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: wetlands

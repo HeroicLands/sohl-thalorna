@@ -5,7 +5,6 @@ name:
   aliases:
     - Lance
 description: "Projectile of force; penetrates armor and causes bleeding wounds."
-id: Ej9yjfQX9Oww8Qay
 img: icons/anvil.svg
 shortcode: pierce
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Lance
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Spoon
 description: "Caster becomes conduit; channels another's magic through own body."
-id: AmxI0AjIDXRqKcGz
 img: icons/water.svg
 shortcode: channel
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Spoon
 packFolder: spells

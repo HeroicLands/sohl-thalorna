@@ -13,7 +13,6 @@ name:
     - Gods (GM)
     - Religion (GM)
 subType: theology
-id: QWOuw6GkCEWwsRjO
 packFolder: settinglore
 shortcode: godsrelign
 ---

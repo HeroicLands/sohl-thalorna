@@ -1,5 +1,4 @@
 ---
-id: Zn84KmMhXmjJnQrQ
 type: lore
 subType: theology
 name:

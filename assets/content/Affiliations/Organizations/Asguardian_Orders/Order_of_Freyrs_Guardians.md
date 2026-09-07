@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Warrior-protectors sworn to Fréyr — guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
-id: 8weP8QEHYrwsipMJ
 name:
   full: The Order of Fréyr's Guardians
   aliases:
@@ -106,7 +105,7 @@ data:
   relations:
     asguardian: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Order of Fréyr's Guardians

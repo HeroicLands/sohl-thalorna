@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: e8VVhq3X3YkoXwiS
 description: >-
   The lands the Kingdom of Aldorath holds — the fertile lowlands and gentle
   hills surrounding Aelwyth's great central lake, together with the southern

@@ -1,5 +1,4 @@
 ---
-id: MDrDmSqmPbXggkp1
 description: "Frost-realm of the far north, land of ice and stone — austere kingdom of hard men and women, surviving in one of the harshest climates on Ankaris."
 type: affiliation
 name:
@@ -120,7 +119,7 @@ data:
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: malagna
 ---
 

@@ -103,8 +103,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
-id: yC0Si9FTSx0nx06h
+  templatePriority: null
 name:
   full: The Iron Cinder
   aliases:

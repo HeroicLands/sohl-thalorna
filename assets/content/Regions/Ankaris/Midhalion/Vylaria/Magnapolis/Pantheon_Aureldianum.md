@@ -15,7 +15,6 @@ data:
   parents:
     - vylariargn
   population: null
-id: Pn7hKx2VqLm4Rb9T
 name:
   full: Pantheon Aurèldiānum
   aliases:

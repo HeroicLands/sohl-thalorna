@@ -5,7 +5,6 @@ name:
   aliases:
     - Calm
 description: "Calms emotions and mind; grants peace and serenity."
-id: ThqjXGQxe42GsiWz
 img: icons/water.svg
 shortcode: trnqlty
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Calm
 packFolder: spells

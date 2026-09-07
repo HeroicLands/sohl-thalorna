@@ -5,7 +5,6 @@ name:
   aliases:
     - Anvil
 description: "Kindles intense heat; burns with hammering force like forge blast."
-id: 1XpJae7JgNLRcPlc
 img: icons/anvil.svg
 shortcode: frgfr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Anvil
 packFolder: spells

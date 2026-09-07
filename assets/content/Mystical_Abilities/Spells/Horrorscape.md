@@ -5,7 +5,6 @@ name:
   aliases:
     - Nightmare
 description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
-id: nuT3wYMpHeAdbuCB
 img: icons/wind.svg
 shortcode: hrrrscp
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Nightmare
 packFolder: spells

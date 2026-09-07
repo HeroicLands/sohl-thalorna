@@ -1,5 +1,4 @@
 ---
-id: 04Cgf8r1jWswmppD
 tags:
   - town
   - inland

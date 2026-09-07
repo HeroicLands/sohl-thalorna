@@ -4,7 +4,6 @@ name:
   full: Mask
   aliases: []
 description: "Illusion hiding caster's identity and appearance; deeply deceptive."
-id: evHnQSALN3l19wSL
 img: icons/circle.svg
 shortcode: mask
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Mask
 packFolder: spells

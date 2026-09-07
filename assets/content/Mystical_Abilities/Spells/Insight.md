@@ -5,7 +5,6 @@ name:
   aliases:
     - Diagnosis
 description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
-id: jleq8h3pn5zejpkT
 img: icons/tree.svg
 shortcode: insight
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Diagnosis
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: fNdEEVQMjIkyyIeG
 description: "Variety of Asguardian Heroes."
 name:
   full: Heroes of Asguard

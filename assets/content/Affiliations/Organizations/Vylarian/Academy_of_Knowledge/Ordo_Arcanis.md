@@ -6,7 +6,6 @@ tags:
   - vylaria
   - midhalion
 description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
-id: 28md7aEioxeuo3oy
 name:
   full: Ordo Arcanis
   aliases: []
@@ -98,7 +97,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: academyofknowledge
 ---
 

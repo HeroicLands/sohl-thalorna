@@ -1,5 +1,4 @@
 ---
-id: kx1DYO4Lv2VXJB93
 type: affiliation
 subType: lineage
 data:
@@ -95,7 +94,7 @@ data:
     tngvkvnlei: aligned
     tanvurempr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Yürtthāt Zhāk
   aliases: []

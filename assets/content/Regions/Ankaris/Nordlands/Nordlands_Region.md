@@ -7,7 +7,6 @@ name:
   aliases:
     - Nordlands
     - Nordheim
-id: YlkX3ZRpn80aiPTO
 shortcode: nrdlndsrgn
 img: null
 type: place

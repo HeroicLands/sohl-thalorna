@@ -5,7 +5,6 @@ name:
   aliases:
     - Shape
 description: "Temporarily alters caster's physical form into different shape."
-id: O3po6pZV0ydBkxaZ
 img: icons/tree.svg
 shortcode: morph
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Shape
 packFolder: spells

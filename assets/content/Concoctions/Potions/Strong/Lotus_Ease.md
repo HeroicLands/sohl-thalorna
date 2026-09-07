@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Narcotic, Strong
 description: "Deep amber golden liquid; brings profound peace and calm."
-id: SsUpnNHOJ4qMzlFj
 img: icons/potion.svg
 shortcode: PtnNarS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

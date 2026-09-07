@@ -5,7 +5,6 @@ name:
   aliases:
     - Repel
 description: "Force blast knocks enemies away; may stun or disorient."
-id: omSoakCgX5yjWReG
 img: icons/anvil.svg
 shortcode: pushback
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Repel
 packFolder: spells

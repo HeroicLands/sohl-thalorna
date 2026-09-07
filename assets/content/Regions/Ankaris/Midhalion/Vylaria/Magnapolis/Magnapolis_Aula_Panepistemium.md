@@ -15,7 +15,6 @@ data:
   parents:
     - vylariargn
   population: null
-id: Au5pNx7kEm2Rb9Lt
 name:
   full: Aula Panepistemium
   aliases:

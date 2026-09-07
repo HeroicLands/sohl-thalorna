@@ -3,7 +3,6 @@ tags: []
 name:
   full: Jaguar
   aliases: []
-id: wUJqCGHtATIIh99Q
 img: images/mystery/jaguar.webp
 shortcode: jaguarttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

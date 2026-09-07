@@ -3,7 +3,6 @@ tags: []
 type: doc
 subType: reference
 packFolder: politiescompanies
-id: BQnufPtiIE5BNAeX
 name:
   full: Companies
   aliases: []

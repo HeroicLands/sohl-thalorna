@@ -5,7 +5,6 @@ name:
   aliases:
     - Candour
 description: "Reveals deception instantly; exposes lies and falsehoods."
-id: n9TQJmgMg1o2Qdvo
 img: icons/divination.svg
 shortcode: trthflr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Candour
 packFolder: spells

@@ -4,7 +4,6 @@ name:
   full: Shamshir
   aliases: []
 description: "Deeply curved supple single-edged saber; cavalry officer's refined speed-stroke."
-id: 0wzqmCGrAebJzR13
 img: icons/sword.svg
 shortcode: Shmshr
 type: weapongear
@@ -104,7 +103,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

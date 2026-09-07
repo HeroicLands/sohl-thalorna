@@ -11,7 +11,6 @@ name:
   home: Ankh-Setûn
   aliases:
     - The Exiled Priest
-id: 0qmKGuY7koJIp6Qc
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
@@ -47,7 +46,7 @@ data:
         mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -464,17 +463,17 @@ sohl:
           - rlegpart
     weight:
       base: 165
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

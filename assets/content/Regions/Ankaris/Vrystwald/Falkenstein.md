@@ -1,5 +1,4 @@
 ---
-id: TgcoCbH421uQfKWo
 tags:
   - fortress
   - hill

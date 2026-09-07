@@ -6,7 +6,6 @@ name:
   full: Velanthia Region
   aliases:
     - Velanthia
-id: lydKuP28winBRw01
 shortcode: velanthrgn
 img: null
 type: place

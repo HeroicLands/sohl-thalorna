@@ -1,5 +1,4 @@
 ---
-id: XrNhDp75YDEKcxWD
 name:
   full: Settlements
   aliases: []

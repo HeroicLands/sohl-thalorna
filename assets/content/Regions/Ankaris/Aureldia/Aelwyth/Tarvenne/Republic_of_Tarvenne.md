@@ -1,5 +1,4 @@
 ---
-id: kvtrEydTIquvAWzO
 description: "Senatorial republic on Aelwyth's southwestern coast — pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
 type: affiliation
 name:
@@ -117,7 +116,7 @@ data:
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: aelwyth
 ---
 

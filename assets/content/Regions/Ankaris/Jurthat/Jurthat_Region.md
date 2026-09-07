@@ -6,7 +6,6 @@ name:
   full: Jürthāt Region
   aliases:
     - Jürthāti Archipelago
-id: DUxKyyoSACYzRQpy
 shortcode: jurthatrgn
 img: null
 type: place

@@ -5,7 +5,6 @@ name:
   aliases:
     - Diversion
 description: "Diverts attention; targets ignore caster despite obvious presence."
-id: aTKTvxlM9rAqeECn
 img: icons/divination.svg
 shortcode: dstrctn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Diversion
 packFolder: spells

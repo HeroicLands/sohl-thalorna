@@ -5,7 +5,6 @@ name:
   aliases:
     - Call
 description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
-id: YiCIXMfFzyKwIpDq
 img: icons/wind.svg
 shortcode: invctn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Call
 packFolder: spells

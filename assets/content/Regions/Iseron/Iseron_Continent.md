@@ -11,7 +11,6 @@ data:
   parents:
     - worldthlrn
   population: null
-id: tZCIa5Ts2Vp3uT43
 shortcode: isrncntnnt
 name:
   full: Iseron Continent

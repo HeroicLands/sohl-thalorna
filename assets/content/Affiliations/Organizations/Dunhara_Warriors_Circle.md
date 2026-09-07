@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains — meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
-id: 7vtIO7T3uCZrFqjH
 name:
   full: The Warrior's Circle of the Dunhara Tribes
   aliases:
@@ -88,7 +87,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Warrior's Circle of the Dunhara Tribes

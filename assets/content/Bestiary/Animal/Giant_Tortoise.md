@@ -5,7 +5,6 @@ name:
   full: Giant Tortoise
   aliases: []
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
-id: ydAbGU9VRn1tdWQ5
 img: icons/game-icons/delapouite/tortoise.svg
 shortcode: gnttrts
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+13
     end: 1d6+17
@@ -220,14 +219,14 @@ sohl:
       calc: "800"
     reachBase: 0
     bodyScaleBase: 1.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 15
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

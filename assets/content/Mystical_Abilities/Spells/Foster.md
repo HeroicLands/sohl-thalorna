@@ -5,7 +5,6 @@ name:
   aliases:
     - Nurture
 description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
-id: pB5CgIeSEUuCdFo6
 img: icons/tree.svg
 shortcode: foster
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Nurture
 packFolder: spells

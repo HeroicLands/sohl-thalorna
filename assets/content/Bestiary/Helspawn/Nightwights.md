@@ -5,7 +5,6 @@ name:
   full: Nightwights
   aliases: []
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
-id: Kpo7Htb3b9uJEh6x
 img: icons/game-icons/delapouite/person.svg
 shortcode: nghtwght
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: helspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+13
     end: 1d4+13
@@ -489,17 +488,17 @@ sohl:
             fire: 0
     weight:
       base: 150
-      calc: 150
+      calc: "150"
     reachBase: 0
     bodyScaleBase: 1.28
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

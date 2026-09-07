@@ -4,7 +4,6 @@ name:
   full: Embermark
   aliases: []
 description: "Scorches persistent glowing rune; marks target or ignites later."
-id: eeK4XtWW4DRjD3mZ
 img: icons/fire.svg
 shortcode: embrmrk
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Brand
 packFolder: spells

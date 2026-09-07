@@ -5,7 +5,6 @@ name:
   full: Forest Troll
   aliases: []
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
-id: l4GBcRoNaHSO3RRn
 img: icons/game-icons/skoll/troll.svg
 shortcode: frsttrll
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+29
     end: 1d6+23
@@ -492,14 +491,14 @@ sohl:
       calc: "2300"
     reachBase: 0
     bodyScaleBase: 2
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 55
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

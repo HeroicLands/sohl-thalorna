@@ -5,7 +5,6 @@ name:
   aliases:
     - Key
 description: "Opens sealed passages; unlocks magical locks and barriers."
-id: 0F7E9LVpPmZb74aR
 img: icons/divination.svg
 shortcode: unlock
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Key
 packFolder: spells

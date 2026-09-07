@@ -5,7 +5,6 @@ description: Ancient mountains, swamplands, and coastal wetlands of the Ch'aqun 
 name:
   full: Tz'uma No'tun
   aliases: []
-id: fM8m3hYXswYDcrOt
 shortcode: tzumanotun
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 packFolder: tzumanotun
 ---

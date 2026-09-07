@@ -1,5 +1,4 @@
 ---
-id: nslauvnDvb7PsYKm
 tags:
   - village
   - fortified

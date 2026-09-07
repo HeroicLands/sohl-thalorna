@@ -5,7 +5,6 @@ name:
   aliases:
     - Nordmal
 description: "The hardy, runic-scripted tongue of the five Normen kingdoms, bending its vowels with every fjord."
-id: TRbo0kPeCLEgw5y8
 img: icons/speaking.svg
 shortcode: nordmalng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

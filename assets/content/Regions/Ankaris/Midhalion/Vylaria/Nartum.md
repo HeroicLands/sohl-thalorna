@@ -1,5 +1,4 @@
 ---
-id: lC4TS0SvySTGzr5S
 tags:
   - city
   - holy

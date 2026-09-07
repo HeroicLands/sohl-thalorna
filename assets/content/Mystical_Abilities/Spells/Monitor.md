@@ -4,7 +4,6 @@ name:
   full: Monitor
   aliases: []
 description: "Creates magical eye observing distant location; relays visual information."
-id: FQ4De4P00vQNKAkG
 img: icons/circle.svg
 shortcode: monitor
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Monitor
 packFolder: spells

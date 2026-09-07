@@ -13,7 +13,6 @@ name:
     - the Fellblade
     - Vargskaer the Fellblade
   home: null
-id: sflJFLRFBVN0a1zP
 packFolder: ankarisnordlands
 shortcode: vrgskrflbld
 img: icons/person.svg
@@ -45,7 +44,7 @@ data:
     complexion: battle_scarred
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 19 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
@@ -478,17 +477,17 @@ sohl:
           - rlegpart
     weight:
       base: 216
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
 ---

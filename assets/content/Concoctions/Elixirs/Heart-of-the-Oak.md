@@ -6,7 +6,6 @@ name:
   aliases:
     - Might Elixir
 description: "Dense amber strength elixir; surges Strength by four points temporarily."
-id: s0dSQneHXoBYOHNr
 img: icons/potion.svg
 shortcode: ElxMgt
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

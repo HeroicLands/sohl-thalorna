@@ -1,5 +1,4 @@
 ---
-id: RmbC48jofCWWg627
 description: "Confederation of independent city-states bound by shared culture, language, and games rather than political unity — philosophers, athletes, and seafarers in a region of eternal rivalry and honor."
 type: affiliation
 name:
@@ -121,7 +120,7 @@ data:
     ordoarcanis: unaligned
     vylarinmpr: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: helionis
 ---
 

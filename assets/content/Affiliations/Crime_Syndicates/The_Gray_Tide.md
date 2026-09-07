@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Maritime smuggling confederation of northern captains moving contraband, human cargo, and stolen goods through unpatrolled coastal waters and hidden coves."
-id: Z6P0QVF1y5SOs9WA
 name:
   full: The Gray Tide
   aliases: []
@@ -95,7 +94,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: crimesyndicates
 ---
 

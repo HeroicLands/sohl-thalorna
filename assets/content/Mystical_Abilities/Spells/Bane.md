@@ -5,7 +5,6 @@ name:
   aliases:
     - Malediction
 description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
-id: 9JKa47vO6SaCw7KX
 img: icons/circle.svg
 shortcode: bane
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Malediction
 packFolder: spells

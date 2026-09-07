@@ -5,7 +5,6 @@ type: affiliation
 name:
   full: Okháris
   aliases: []
-id: pQ4weKzrzcv5Fppm
 shortcode: okharis
 subType: polity
 data:
@@ -103,7 +102,7 @@ data:
     nkaruthar: aligned
     empirtkhpr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Niger + Mali + Chad (the Sahel — pastoral savanna with temple-city trading centers)"
 packFolder: okharis
 ---

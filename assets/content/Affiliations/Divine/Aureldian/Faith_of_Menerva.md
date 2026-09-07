@@ -1,6 +1,5 @@
 ---
 description: "Knowledge."
-id: OqrKF1t1dBkOt80m
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Menerva
   aliases:

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Telekinesis
   aliases: []
-id: NDRL0yD5OPELKNBM
 img: icons/psionics.svg
 shortcode: telek
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

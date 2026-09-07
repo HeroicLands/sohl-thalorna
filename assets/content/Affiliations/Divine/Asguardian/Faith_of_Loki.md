@@ -1,6 +1,5 @@
 ---
 description: "Cunning, Deception, and Thieves."
-id: iySZsg4GUX7SXyvZ
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: loki
 img: images/affiliation/loki.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

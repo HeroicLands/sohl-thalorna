@@ -5,7 +5,6 @@ name:
   aliases:
     - Okháric
 description: "The tongue of the three Okhári city-states, with an archaic sacred register reserved for scripture and temple rites."
-id: biesSfy4Vps4r7wt
 img: icons/speaking.svg
 shortcode: okharclng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

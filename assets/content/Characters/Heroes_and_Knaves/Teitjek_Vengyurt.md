@@ -9,7 +9,6 @@ name:
   home: ""
   aliases:
     - Iron Spear Piercing the Clouds
-id: 3hRnO9oQAbYrz86r
 shortcode: teitjekvngyrt
 img: icons/person.svg
 description: >-
@@ -40,7 +39,7 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # Tëitjëk Vëngyürt

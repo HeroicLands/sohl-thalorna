@@ -5,7 +5,6 @@ name:
   aliases:
     - Caress
 description: "Caster's hands conduct magic; enables touch-based spellcasting."
-id: Cfwl8zMkSkspbdzd
 img: icons/fire.svg
 shortcode: touch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Caress
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: lxDnKhmbJQmfcnlU
 tags:
   - town
   - coastal

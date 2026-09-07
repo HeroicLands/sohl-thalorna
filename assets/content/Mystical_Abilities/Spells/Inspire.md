@@ -5,7 +5,6 @@ name:
   aliases:
     - Imbue
 description: "Temporary enhancement of target's attributes and mental capabilities."
-id: vYkGeWpVqISOHtVu
 img: icons/circle.svg
 shortcode: inspire
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Imbue
 packFolder: spells

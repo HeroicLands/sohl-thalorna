@@ -1,6 +1,5 @@
 ---
 description: "Justice and Honorable Combat."
-id: c12fS9I0LjihzxT9
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: tyr
 img: images/affiliation/tyr.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

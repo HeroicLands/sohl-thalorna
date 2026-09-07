@@ -1,5 +1,4 @@
 ---
-id: MJVnfnwAYz0bbQAS
 tags:
   - town
   - temple

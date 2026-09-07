@@ -1,6 +1,5 @@
 ---
 description: "Reverence for the interconnected whole; ecological balance."
-id: fphdjEuVLlOrB1Mi
 tags:
   - pantheon
 name:
@@ -99,7 +98,7 @@ data:
     - tharivaan
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonstharivaan
 ---
 

@@ -85,8 +85,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: Jg0Pn5U6qFjRyxyJ
+  templatePriority: null
 name:
   full: The Bardic Colleges
   aliases:

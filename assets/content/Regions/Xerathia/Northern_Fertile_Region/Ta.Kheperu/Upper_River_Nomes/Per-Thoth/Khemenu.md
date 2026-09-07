@@ -1,5 +1,4 @@
 ---
-id: U2pzITnUVrmEUuZY
 tags:
   - city
   - temple

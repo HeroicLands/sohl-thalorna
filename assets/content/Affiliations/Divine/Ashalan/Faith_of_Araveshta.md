@@ -1,6 +1,5 @@
 ---
 description: "Prosperity, Wealth, Hedonism, Sensual Pleasure."
-id: dnb5G8ef4quWwoK3
 tags:
   - religion
   - prosperity
@@ -97,7 +96,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Árávēštä
   aliases:

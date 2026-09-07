@@ -3,7 +3,6 @@ tags: []
 name:
   full: Natural Attunement
   aliases: []
-id: zM3QEMALDimIYvac
 img: icons/psionics.svg
 shortcode: natn
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

@@ -5,7 +5,6 @@ name:
   full: Stoneclimber
   aliases: []
 description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
-id: K2ltSub3JftqQzbn
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: stnclmbr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+14
     end: 1d6+14
@@ -230,17 +229,17 @@ sohl:
             fire: 7
     weight:
       base: 200
-      calc: 200
+      calc: "200"
     reachBase: 0
     bodyScaleBase: 1.38
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: topography
           key: steep

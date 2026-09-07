@@ -1,6 +1,5 @@
 ---
 description: "Order."
-id: TqEEmxeY03YCJrt1
 tags:
   - celestial-official
   - celestial-order
@@ -105,7 +104,7 @@ data:
     - tngvkvnlei
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: celestialpantheon
 ---
 

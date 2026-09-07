@@ -5,7 +5,6 @@ name:
   aliases:
     - Petrification
 description: "Binds target to stone; imprisons within rocky tomb."
-id: ReRrO0oHiGYvk6Kz
 img: icons/tree.svg
 shortcode: stnbnd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Petrification
 packFolder: spells

@@ -5,7 +5,6 @@ tags:
   - subversive
   - cult
 description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying Helspawn to destabilize imperial administration."
-id: Fm62pKhLLKABU3ZG
 name:
   full: Nüszōk Rëit
   aliases:
@@ -105,7 +104,7 @@ data:
     yokveng: aligned
     tngvkvnlei: nemesis
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: organizations
 ---
 

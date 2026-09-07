@@ -5,7 +5,6 @@ description: "The Land of the Dead Jaguar: a blasted southern waste of volcanic 
 name:
   full: Tz'ikin Ba'alam
   aliases: []
-id: 9xRn32VR19yOu6Y7
 shortcode: tzikinbalm
 img: null
 type: affiliation
@@ -105,7 +104,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Southern South America
 packFolder: tzikinbaalam
 ---

@@ -5,7 +5,6 @@ name:
   full: Thornrat
   aliases: []
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
-id: RIxGnXKWRth60BN7
 img: icons/game-icons/delapouite/rat.svg
 shortcode: thornrat
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+3
     end: 1d4+6
@@ -228,17 +227,17 @@ sohl:
             fire: 4
     weight:
       base: 25
-      calc: 25
+      calc: "25"
     reachBase: 0
     bodyScaleBase: 0.67
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

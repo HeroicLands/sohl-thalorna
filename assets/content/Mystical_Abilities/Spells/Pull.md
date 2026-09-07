@@ -5,7 +5,6 @@ name:
   aliases:
     - Magnet
 description: "Force yanks target toward caster; resists movement with difficulty."
-id: W6HZyhSDfLMzRiIl
 img: icons/anvil.svg
 shortcode: pull
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Magnet
 packFolder: spells

@@ -5,7 +5,6 @@ description: The inhabited country of the Kalihara continent — jungle lowlands
 name:
   full: Kalihara Region
   aliases: []
-id: BGUFytM08ypgI0XE
 shortcode: kaliharargn
 img: null
 type: place

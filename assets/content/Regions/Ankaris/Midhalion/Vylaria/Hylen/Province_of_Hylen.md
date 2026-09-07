@@ -1,5 +1,4 @@
 ---
-id: FpiotIXZsgG0vLlX
 description: "The breadbasket province of the Vylarian Empire — fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vylarian politics."
 type: affiliation
 name:
@@ -105,7 +104,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: vylaria
 ---
 

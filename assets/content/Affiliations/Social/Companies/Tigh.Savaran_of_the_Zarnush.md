@@ -89,9 +89,8 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: politiescompanies
-id: ytnJjAtUxX2NTg0S
 name:
   full: Tîgh'Savâran of the Zarnûsh
   aliases:

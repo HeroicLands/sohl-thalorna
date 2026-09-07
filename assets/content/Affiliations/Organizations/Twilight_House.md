@@ -6,7 +6,6 @@ tags:
   - courtesan
   - underworld
 description: "Prestigious Vedyaran courtesan establishment doubling as the city-states' premier intelligence network — gathering secrets from wealthy clients and feeding them to nobility, merchant lords, and the Thieves' Guild alike."
-id: V2ijwWxSf0vvSFlK
 name:
   full: The Twilight House
   aliases:
@@ -118,7 +117,7 @@ data:
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Twilight House

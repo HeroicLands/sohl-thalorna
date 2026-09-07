@@ -5,7 +5,6 @@ name:
   full: Summitdrake
   aliases: []
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."
-id: I96v45Ggz9t91r4o
 img: icons/game-icons/faithtoken/dragon-head.svg
 shortcode: smmtdrk
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+18
     end: 1d6+18
@@ -262,17 +261,17 @@ sohl:
             fire: 7
     weight:
       base: 1500
-      calc: 1500
+      calc: "1500"
     reachBase: 0
     bodyScaleBase: 1.57
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: topography
           key: steep
@@ -290,8 +289,8 @@ sohl:
     - medium: aerial
       feetPerRound: 110
       leaguesPerWatch: 12
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

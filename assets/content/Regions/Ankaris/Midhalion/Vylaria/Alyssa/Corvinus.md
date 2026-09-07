@@ -1,5 +1,4 @@
 ---
-id: 0yneTHleAxbUv6TI
 tags:
   - garrison
   - town

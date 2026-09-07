@@ -5,7 +5,6 @@ name:
   aliases:
     - Voice
 description: "Carries whispered words on spiraling wind; heard at great distance."
-id: PFmYE7eprAqqvRwL
 img: icons/wind.svg
 shortcode: audible
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Voice
 packFolder: spells

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Visnomy
   aliases: []
-id: lPKkHezbjh7kymzb
 img: icons/psionics.svg
 shortcode: vsnm
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

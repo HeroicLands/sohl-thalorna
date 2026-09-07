@@ -4,7 +4,6 @@ name:
   full: Boomerang
   aliases: []
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
-id: pX3qKPrPcgPMjsX5
 img: icons/boomerang.svg
 shortcode: Bmrg
 type: weapongear
@@ -104,7 +103,7 @@ sohl:
       maxVolleyMult: 3
       baseRangeBase: 240
       drawBase: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

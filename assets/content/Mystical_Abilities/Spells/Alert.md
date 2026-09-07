@@ -5,7 +5,6 @@ name:
   aliases:
     - Alarm
 description: "Traces invisible boundary; warns caster of crossers with sensation."
-id: gON5qF16E5QApjm6
 img: icons/circle.svg
 shortcode: alert
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Alarm
 packFolder: spells

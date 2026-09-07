@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Federation of matriarchal trading clans that dominates Bethûan commerce — clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
-id: 9Ox90kGKg97UPszF
 name:
   full: The Bethûan Trade-Houses
   aliases:
@@ -97,7 +96,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Bethûan Trade-Houses

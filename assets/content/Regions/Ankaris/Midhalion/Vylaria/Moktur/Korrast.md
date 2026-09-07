@@ -1,5 +1,4 @@
 ---
-id: Mk5rKx2mKp7Tb4Ln
 tags:
   - town
 description: "Pass Town"

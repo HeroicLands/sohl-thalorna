@@ -5,7 +5,6 @@ name:
   aliases:
     - View
 description: "Enhances caster's senses dramatically; sees clearly despite obstacles."
-id: wkC0FqnEL0fdIkgi
 img: icons/wind.svg
 shortcode: prcptn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: View
 packFolder: spells

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Sturgeon
   aliases: []
-id: Ck1MuvxjKNQu79F4
 img: images/mystery/sturgeon.webp
 shortcode: sturgeonttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

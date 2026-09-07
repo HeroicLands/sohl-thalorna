@@ -5,7 +5,6 @@ name:
   aliases:
     - Sound
 description: "Sound magic amplifying and redirecting acoustic waves dangerously."
-id: gXfn8zEEUxHBZ9lp
 img: icons/wind.svg
 shortcode: rsnnc
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sound
 packFolder: spells

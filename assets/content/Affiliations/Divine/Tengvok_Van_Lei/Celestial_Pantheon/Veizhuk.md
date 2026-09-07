@@ -1,6 +1,5 @@
 ---
 description: "Bureaucracy."
-id: 9NGsHssTmzCM7m7A
 tags:
   - celestial-official
   - celestial-order
@@ -101,7 +100,7 @@ data:
     - tngvkvnlei
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: celestialpantheon
 ---
 

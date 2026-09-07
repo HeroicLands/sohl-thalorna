@@ -1,5 +1,4 @@
 ---
-id: Aj5Li2wQQbLyEMm2
 type: place
 subType: region
 data:

@@ -9,7 +9,6 @@ name:
   clan: Blóthǫll
   home: Ormstead
   aliases: []
-id: kIbWnNYsUS07Rw5e
 packFolder: ankarisnordlands
 shortcode: yngvrblthl
 img: icons/person.svg
@@ -40,7 +39,7 @@ data:
     complexion: fair
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -457,17 +456,17 @@ sohl:
           - rlegpart
     weight:
       base: 143
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

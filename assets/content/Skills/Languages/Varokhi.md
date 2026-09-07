@@ -5,7 +5,6 @@ name:
   aliases:
     - Varokhi
 description: "The unwritten tongue of the Vrystwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
-id: MR557P1jb8LCNheH
 img: icons/speaking.svg
 shortcode: varokhlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

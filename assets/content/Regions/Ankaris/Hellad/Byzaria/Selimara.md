@@ -1,5 +1,4 @@
 ---
-id: bQUtftL9hRhlCeaf
 tags:
   - town
   - trading

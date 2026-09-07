@@ -5,7 +5,6 @@ name:
   aliases:
     - Slumber
 description: "Grants deep, restorative sleep; targets wake refreshed."
-id: f2jOOGayDtbOsUnj
 img: icons/tree.svg
 shortcode: rest
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Slumber
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: gcqQMrf3iloHRPXm
 tags:
   - town
   - hill

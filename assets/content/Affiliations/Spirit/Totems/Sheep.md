@@ -3,7 +3,6 @@ tags: []
 name:
   full: Sheep
   aliases: []
-id: WvNQBTaORsEATNRc
 img: images/mystery/sheep.webp
 shortcode: sheepttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -1,6 +1,5 @@
 ---
 description: "War, Reavers, and Sea."
-id: K9I6050D5wN7Vs3Z
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: thorr
 img: images/affiliation/thorr.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

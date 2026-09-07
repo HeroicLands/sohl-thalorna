@@ -1,5 +1,4 @@
 ---
-id: sljSrCVNlGMCzI7j
 name:
   full: Mystical Abilities
   aliases: []

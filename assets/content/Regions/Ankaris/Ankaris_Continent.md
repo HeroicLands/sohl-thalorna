@@ -14,7 +14,6 @@ data:
   parents:
     - worldthlrn
   population: null
-id: 0fQedL0XuEFvTFbP
 name:
   full: Ankaris Continent
   aliases: []

@@ -5,7 +5,6 @@ name:
   aliases:
     - Dowsing
 description: "Finds water nearby; locates source of liquid."
-id: czMgm7inuLd1Qokx
 img: icons/water.svg
 shortcode: wtrsrch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Dowsing
 packFolder: spells

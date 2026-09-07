@@ -5,7 +5,6 @@ name:
   aliases:
     - Wisdom
 description: "Simplifies complexity; core dynamics become apparent through meditation."
-id: rfdwqUvR6xAR5w7Q
 img: icons/divination.svg
 shortcode: sage
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Wisdom
 packFolder: spells

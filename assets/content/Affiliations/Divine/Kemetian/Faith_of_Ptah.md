@@ -1,6 +1,5 @@
 ---
 description: "Creation."
-id: 37bXbRYbBzeeSEE7
 tags:
   - kemetian
   - religion
@@ -99,7 +98,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Ptā'h
   aliases:

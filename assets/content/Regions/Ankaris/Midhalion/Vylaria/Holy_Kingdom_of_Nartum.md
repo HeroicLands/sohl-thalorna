@@ -1,5 +1,4 @@
 ---
-id: Zes7Fltjbg7XDqRN
 description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother and center of ecclesiastical power — a sanctuary city where the sacred and secular intertwine under priestly rule."
 type: affiliation
 name:
@@ -178,7 +177,7 @@ data:
     vylarinmpr: rival
     ordoarcanis: nemesis
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: vylaria
 ---
 

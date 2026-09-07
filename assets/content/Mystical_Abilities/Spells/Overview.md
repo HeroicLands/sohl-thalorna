@@ -5,7 +5,6 @@ name:
   aliases:
     - Perspective
 description: "Grants caster bird's-eye perspective; sees terrain from great height."
-id: IYoPFUMp8FhkROmI
 img: icons/divination.svg
 shortcode: overview
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Perspective
 packFolder: spells

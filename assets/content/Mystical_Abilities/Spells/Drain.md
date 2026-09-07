@@ -5,7 +5,6 @@ name:
   aliases:
     - Absorb
 description: "Siphons life force; weakens target while invigorating caster gradually."
-id: IGm0xYNAo1m3SAXR
 img: icons/circle.svg
 shortcode: drain
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Absorb
 packFolder: spells

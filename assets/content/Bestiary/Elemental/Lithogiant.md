@@ -5,7 +5,6 @@ name:
   full: Lithogiant
   aliases: []
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."
-id: OBrElkIzfPrZaQbM
 img: icons/game-icons/delapouite/rock-golem.svg
 shortcode: lthgnt
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+52
     end: 1d4+16
@@ -492,14 +491,14 @@ sohl:
       calc: "49000"
     reachBase: 0
     bodyScaleBase: 2.85
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

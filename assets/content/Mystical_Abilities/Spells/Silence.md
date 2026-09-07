@@ -5,7 +5,6 @@ name:
   aliases:
     - Muffle
 description: "Suppresses sound; muffles speech and blocks all noise."
-id: oYSG6X9TAjXc8Y6q
 img: icons/wind.svg
 shortcode: silence
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Muffle
 packFolder: spells

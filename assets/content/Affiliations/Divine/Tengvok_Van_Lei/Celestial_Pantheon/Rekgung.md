@@ -1,6 +1,5 @@
 ---
 description: "Storms."
-id: Rcy18TVK0IWJnRSv
 tags:
   - celestial-official
   - celestial-order
@@ -102,7 +101,7 @@ data:
     - tngvkvnlei
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: celestialpantheon
 ---
 

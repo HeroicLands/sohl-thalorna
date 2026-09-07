@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: PbnCvfYqppGEIGCd
 type: lore
 subType: deity
 name:

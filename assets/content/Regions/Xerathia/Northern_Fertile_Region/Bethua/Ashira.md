@@ -2,7 +2,6 @@
 tags:
   - draft
   - town
-id: Wbuh7YBC3fe4JG9m
 description: "Town"
 type: place
 subType: settlement

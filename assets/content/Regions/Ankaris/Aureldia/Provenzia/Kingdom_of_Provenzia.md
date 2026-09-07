@@ -1,5 +1,4 @@
 ---
-id: J4L2Ia6lt8NBR9lu
 description: "Merchant-prince kingdom on the eastern coast of Aureldia — wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
 type: affiliation
 name:
@@ -169,7 +168,7 @@ data:
     ordoarcanis: unaligned
     vylarinmpr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal — the kingdom of vineyards, river-mouth ports, and the great Provenzan illuminated-manuscript and glassworking traditions that flow along the Atlantic seaboard from north to south."
 packFolder: provenzia
 ---

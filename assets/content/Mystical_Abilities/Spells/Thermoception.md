@@ -5,7 +5,6 @@ name:
   aliases:
     - Eyes
 description: "Senses heat variations; perceives temperature and thermal patterns."
-id: MmvJLJMSbV0avipm
 img: icons/fire.svg
 shortcode: thrmcptn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Eyes
 packFolder: spells

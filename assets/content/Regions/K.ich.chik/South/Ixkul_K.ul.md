@@ -1,5 +1,4 @@
 ---
-id: AOgoVrsaeRLgPydh
 tags:
   - city
   - temple

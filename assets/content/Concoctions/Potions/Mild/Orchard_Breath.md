@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Aromatic, Mild
 description: "Pale golden honey-like liquid; sweetens disposition and charm."
-id: b6yWHK0to7yC87JR
 img: icons/potion.svg
 shortcode: PtnAromM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

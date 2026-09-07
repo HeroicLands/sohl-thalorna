@@ -8,7 +8,6 @@ name:
     - Kaliharan
     - Interior Speech
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."
-id: OmKyOqXSHdBU60oF
 img: icons/speaking.svg
 shortcode: kalihrlng
 type: skill
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

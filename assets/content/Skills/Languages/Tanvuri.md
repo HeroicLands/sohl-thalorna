@@ -6,7 +6,6 @@ name:
     - Tānvüri
     - Tanvuri
 description: "The imperial speech of Tānvür — logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
-id: h9smBUasb0uG7sG0
 img: icons/speaking.svg
 shortcode: tanvurlng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 ---
 

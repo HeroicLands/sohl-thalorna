@@ -1,6 +1,5 @@
 ---
 description: "Fire (destructive aspect)."
-id: CCdyLVFM6CXgmdFx
 tags:
   - aureldian
   - religion
@@ -104,7 +103,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsaureldian
 ---
 

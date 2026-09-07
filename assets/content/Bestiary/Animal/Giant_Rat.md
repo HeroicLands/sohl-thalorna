@@ -6,7 +6,6 @@ name:
   full: Giant Rat
   aliases: []
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
-id: JYYfIP5IvvkQ0oJK
 img: icons/game-icons/delapouite/rat.svg
 shortcode: giantrat
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+4
     end: 1d4+5
@@ -232,14 +231,14 @@ sohl:
       calc: "15"
     reachBase: 0
     bodyScaleBase: 0.75
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

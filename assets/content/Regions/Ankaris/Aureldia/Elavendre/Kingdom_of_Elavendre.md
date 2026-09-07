@@ -1,5 +1,4 @@
 ---
-id: YBb5C1lV3VROR0iu
 description: "Woodland kingdom of forests, music, and ancient magic — center of Elavendri culture where Sinalë and humans coexist as equals in a land apart."
 type: affiliation
 name:
@@ -172,7 +171,7 @@ data:
     panepistmm: rival
     vylarinmpr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Northern France and Switzerland — the Pelwar kingdom proper, whose courtly tradition, bardic colleges, and Sinalë diplomatic relations make it the cultural touchstone of the western Aurèldían world."
 packFolder: elavendre
 ---

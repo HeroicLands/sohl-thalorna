@@ -5,7 +5,6 @@ description: The great river valley and delta of Xerathia's northern shore — a
 name:
   full: Ta'Kheperu Region
   aliases: []
-id: SL5ANxIUYDVlM9v7
 shortcode: takheperurgn
 img: null
 type: place

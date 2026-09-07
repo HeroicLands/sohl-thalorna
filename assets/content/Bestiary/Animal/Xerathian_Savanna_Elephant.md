@@ -5,7 +5,6 @@ name:
   full: Xerathian Savanna Elephant
   aliases: []
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
-id: XghBgeCi6JfLAZbD
 img: icons/game-icons/delapouite/elephant.svg
 shortcode: xrthnsvn
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+53
     end: 1d6+45
@@ -293,14 +292,14 @@ sohl:
       calc: "10000"
     reachBase: 0
     bodyScaleBase: 2.88
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 90
       leaguesPerWatch: 6
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

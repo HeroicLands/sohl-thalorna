@@ -5,7 +5,6 @@ type: affiliation
 name:
   full: Vindhyālaya
   aliases: []
-id: 8t9B6UgMSkTG9Dir
 shortcode: vindhyalay
 subType: polity
 data:
@@ -110,7 +109,7 @@ data:
     vyalendra2: aligned
     tanvurempr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: vedyara
 ---
 

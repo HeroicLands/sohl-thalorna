@@ -5,7 +5,6 @@ name:
   aliases:
     - Distort
 description: "Grants temporary form change; transforms into beast or being."
-id: KK1gvAAZjCFGyXfh
 img: icons/circle.svg
 shortcode: shftfrm
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Distort
 packFolder: spells

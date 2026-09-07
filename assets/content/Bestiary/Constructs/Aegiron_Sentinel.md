@@ -5,7 +5,6 @@ name:
   full: Aegiron Sentinel
   aliases: []
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
-id: 0XIdKN3uKTf5qx8n
 img: icons/game-icons/delapouite/golem-head.svg
 shortcode: agrnsntn
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: construct
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+31
     agl: 1d4+3
@@ -48,14 +47,14 @@ sohl:
       calc: "2500"
     reachBase: 0
     bodyScaleBase: 2.08
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

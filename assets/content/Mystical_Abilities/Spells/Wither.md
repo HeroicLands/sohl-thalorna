@@ -5,7 +5,6 @@ name:
   aliases:
     - Decay
 description: "Drains life force; target withers and decays rapidly."
-id: RtFhB2fBxWQ1qCy1
 img: icons/tree.svg
 shortcode: wither
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Decay
 packFolder: spells

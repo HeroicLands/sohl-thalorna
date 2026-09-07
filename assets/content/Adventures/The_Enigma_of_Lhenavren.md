@@ -1,5 +1,4 @@
 ---
-id: ITNk4xWlebM9HchL
 name:
   full: The Enigma of Lhénavren
   aliases: []

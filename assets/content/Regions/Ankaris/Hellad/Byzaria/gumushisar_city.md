@@ -1,5 +1,4 @@
 ---
-id: Lo992b0Iv2JLzXly
 tags:
   - fortress
   - city

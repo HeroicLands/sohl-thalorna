@@ -5,7 +5,6 @@ description: Lakes, rivers, and portage-routes of the Ha'ik — the Otter People
 name:
   full: Xik'ul Ch'akal
   aliases: []
-id: eCY7rYlyp689dNR7
 shortcode: xikulchakl
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
 packFolder: xikulchakal
 ---

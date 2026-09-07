@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Coagulant, Mild
 description: "Thick rusty-brown paste; coagulates blood preventing wound death."
-id: IYOQ1rgk2B99Utna
 img: icons/potion.svg
 shortcode: PtnCoagM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

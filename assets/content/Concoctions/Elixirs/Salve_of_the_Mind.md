@@ -6,7 +6,6 @@ name:
   aliases:
     - Mindslave Elixir
 description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
-id: nFNF8vmIEh6lWKYu
 img: icons/potion.svg
 shortcode: ElxMsl
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

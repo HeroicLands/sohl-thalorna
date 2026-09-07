@@ -4,7 +4,6 @@ name:
   full: Khanda
   aliases: []
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
-id: Ql3gc9dMj0EAofaN
 img: icons/sword.svg
 shortcode: Knda
 type: weapongear
@@ -148,7 +147,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

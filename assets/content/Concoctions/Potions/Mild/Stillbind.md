@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Paralytic, Mild
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
-id: nqar86tGCHvZFeCx
 img: icons/potion.svg
 shortcode: PtnParM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

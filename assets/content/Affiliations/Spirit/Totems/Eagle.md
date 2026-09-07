@@ -3,7 +3,6 @@ tags: []
 name:
   full: Eagle
   aliases: []
-id: T2EpauXH7NkoWDwt
 img: images/mystery/eagle.webp
 shortcode: eaglettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

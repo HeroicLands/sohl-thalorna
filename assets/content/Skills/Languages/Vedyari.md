@@ -5,7 +5,6 @@ name:
   aliases:
     - Vedyari
 description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
-id: DKD7KcuikPJx3oIW
 img: icons/speaking.svg
 shortcode: vedyarlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

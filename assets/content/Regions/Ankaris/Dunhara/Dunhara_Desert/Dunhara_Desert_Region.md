@@ -6,7 +6,6 @@ name:
   full: Dunhara Desert Region
   aliases:
     - Dunhara Desert
-id: JgRovKxsMJfmq3tm
 shortcode: dunhardsrtrgn
 img: null
 type: place

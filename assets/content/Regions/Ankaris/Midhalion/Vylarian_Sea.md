@@ -5,7 +5,6 @@ description: The great inland sea at the heart of Mídhalión — highway of emp
 name:
   full: Vylarian Sea
   aliases: []
-id: JWByO0F561rYME7K
 shortcode: vylarianse
 img: null
 type: place

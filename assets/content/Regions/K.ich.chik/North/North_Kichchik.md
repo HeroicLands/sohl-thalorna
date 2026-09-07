@@ -1,5 +1,4 @@
 ---
-id: YXAvC7IO4US66yuY
 tags:
   - region
 description: "The northern reach of the K'ich'chik continent and its city-states."

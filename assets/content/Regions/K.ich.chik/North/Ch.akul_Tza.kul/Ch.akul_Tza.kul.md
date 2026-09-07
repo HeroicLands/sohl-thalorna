@@ -5,7 +5,6 @@ description: Sand seas, mesas, and salt-haunted ruins — the desert barrier div
 name:
   full: Ch'akul Tza'kul
   aliases: []
-id: fzmM3PUidaBMxfbz
 shortcode: chakultzkl
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 packFolder: chakultzakul
 ---

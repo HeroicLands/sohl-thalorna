@@ -1,5 +1,4 @@
 ---
-id: eOqlwmPkawe5BQvu
 tags:
   - precinct
   - city

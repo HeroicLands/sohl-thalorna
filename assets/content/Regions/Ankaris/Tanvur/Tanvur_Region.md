@@ -7,7 +7,6 @@ name:
   aliases:
     - Tanvur
     - Tānvür
-id: DZh5LWUGaeKrOvam
 shortcode: tanvuregin
 img: null
 type: place

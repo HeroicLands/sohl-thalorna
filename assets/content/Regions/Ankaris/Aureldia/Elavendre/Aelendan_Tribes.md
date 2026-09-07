@@ -1,5 +1,4 @@
 ---
-id: 1X3hyHGrQc0lEgZK
 description: ""
 type: affiliation
 name:
@@ -107,7 +106,7 @@ data:
     alndnwrdns: aligned
     ordoarcanis: nemesis
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: elavendre
 ---
 

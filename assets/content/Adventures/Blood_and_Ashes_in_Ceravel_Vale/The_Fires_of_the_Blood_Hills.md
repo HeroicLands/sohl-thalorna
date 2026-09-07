@@ -16,7 +16,6 @@ data:
   party:
     size: null
     archetypes: []
-id: 6TK6erjwIhZeAzxz
 shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills

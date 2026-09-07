@@ -6,7 +6,6 @@ name:
   aliases:
     - Shout Elixir
 description: "Golden vibrant elixir; amplifies speech to devastating sonic power."
-id: Wi9nryQ5RMzw3g4u
 img: icons/potion.svg
 shortcode: ElxSht
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

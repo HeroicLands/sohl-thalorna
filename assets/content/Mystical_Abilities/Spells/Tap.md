@@ -4,7 +4,6 @@ name:
   full: Tap
   aliases: []
 description: "Draws upon power source; taps magical reservoir for energy."
-id: xjMqRC2aTIIdpxfY
 img: icons/circle.svg
 shortcode: tap
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tap
 packFolder: spells

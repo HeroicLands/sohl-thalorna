@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade — wielding economic power that rivals the rulers themselves."
-id: rtHt40LrWd0rQ20K
 name:
   full: The Merchant Collective of Vedyara
   aliases:
@@ -94,7 +93,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Merchant Collective of Vedyara

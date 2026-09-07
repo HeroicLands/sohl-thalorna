@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Desert caravan syndicate commanding vast interior territory through drug trafficking, antiquities smuggling, and tribal guides the empire cannot replace."
-id: I1n8fjLHPpHtRCXt
 name:
   full: The Ash Road
   aliases: []
@@ -95,7 +94,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: crimesyndicates
 ---
 

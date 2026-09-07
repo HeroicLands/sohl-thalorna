@@ -3,7 +3,6 @@ tags: []
 name:
   full: Cow
   aliases: []
-id: zJVBT4rbche7Cmfb
 img: images/mystery/cow.webp
 shortcode: cowttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

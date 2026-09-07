@@ -5,7 +5,6 @@ tags:
 description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
 type: lore
 subType: folk
-id: YGCeAI1FHSmYf6Gp
 name:
   full: Khazár Folk
   aliases:
