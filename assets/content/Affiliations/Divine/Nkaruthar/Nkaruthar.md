@@ -90,16 +90,19 @@ data:
       Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
       Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
         obligations fall due.
-  commonSkills: []
+  commonSkills:
+    - nkaruthar
   seat: null
   domains: []
   population: null
   economy: []
   lore:
     - nkaruthardty
+    - zohira
   parents:
     - nkaruthar
-  relations: {}
+  relations:
+    njiayaroho: aligned
 sohl:
   templatePriority: null
 packFolder: pantheonsnkaruthar

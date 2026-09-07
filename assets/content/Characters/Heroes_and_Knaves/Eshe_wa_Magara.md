@@ -58,6 +58,8 @@ sohl:
     - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: nkaruthar, type: affiliation }
+    - { shortcode: njiayaroho, type: affiliation }
+    - { shortcode: upangasprt, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 42 } }
