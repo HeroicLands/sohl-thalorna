@@ -544,8 +544,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-#### The Overlord
-
 The current Overlord of Okháris is **Tákoro Zanethar** (_The Keeper of the Three Flames_).
 
 - Tákoro resides in Zarhánis but relies heavily on the cooperation of the city-states to maintain power.

@@ -142,11 +142,3 @@ The relationship with [[affiliation-janus|Faith of Jánus]] is one of respect an
 Múrkír maintains a relationship of distant respect with [[affiliation-sacredforge|The Sacred Forge]]. The master smiths forge the tools—weaponry, tools, and talismans—that travelers carry with them. Some Múrkían temples maintain close ties with Sacred Forge craftspeople, commissioning the creation of blessed talismans and protective objects that are distributed to travelers.
 
 Finally, Múrkír stands in implied opposition to those who would restrict travel or knowledge. The Black Flame's followers, who hoard power and restrict access to distant lands, implicitly oppose Múrkír's values of free movement and the sharing of knowledge across borders. The priesthood of Múrkír does not engage in direct warfare or active resistance, but they are understood as fundamental opponents of tyranny and isolation, and in regions under Black Flame control, they operate carefully and often in secret.
-
-## Organization
-
-_To be developed._
-
-## Relations
-
-_To be developed._

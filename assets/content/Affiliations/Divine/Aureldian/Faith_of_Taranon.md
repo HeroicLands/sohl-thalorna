@@ -140,11 +140,3 @@ The relationship with [[affiliation-sacredforge|The Sacred Forge]] is one of mut
 Táranon maintains a distant but acknowledged relationship with [[affiliation-venusia|Faith of Vénusia]], the goddess of prosperity and harvest. The rains that Táranon provides are essential for fertility and agricultural abundance—Vénusia cannot grant prosperity without Táranon's cooperation. This is understood not as alliance but as complementary domains: the god of storms provides the raw elemental force, while the goddess of prosperity ensures that force is channeled toward abundance rather than destruction.
 
 The priesthood of Táranon regards [[affiliation-aetheria|Faith of Æthería]] with fascination and some theological tension. Æthería, the Veiled Dreamer, represents the intuitive and mysterious forces that defy rational prediction. Storms themselves seem to embody this duality—while Táranonic priests track weather patterns with scientific precision, thunderstorms often surprise them with their ferocity or unpredictability. Some liberal Táranonic theologians suggest that Æthería whispers to the storms, introducing an element of intentional mystery into Táranon's otherwise comprehensible domain.
-
-## Organization
-
-_To be developed._
-
-## Relations
-
-_To be developed._

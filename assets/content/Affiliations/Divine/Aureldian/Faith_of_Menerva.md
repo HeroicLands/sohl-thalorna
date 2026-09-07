@@ -144,11 +144,3 @@ Ménérva maintains a cordial relationship with [[affiliation-venusia|Faith of V
 Ménérva regards [[affiliation-lusinia|Faith of Lúsinía]] and [[affiliation-florania|Faith of Flórania]] with interest and some theological curiosity. Lúsinía's creative force and Flórania's generative power are understood as expressions of divine knowledge made manifest—the universe itself is Lúsinía's creation and Flórania's garden. Some Ménérvan theologians study the relationships between creation, growth, and knowledge, exploring whether there is a deep philosophical connection between these domains.
 
 Finally, Ménérva stands in principled opposition to [[affiliation-blackflame|The Black Flame]]. The Black Flame denies the value of wisdom, rejecting knowledge in favor of raw will and power. The priesthood of Ménérva actively works to preserve knowledge and support education in regions threatened by Black Flame influence, understanding that an educated, thinking population is resistant to the seductive simplifications of tyranny and domination.
-
-## Organization
-
-_To be developed._
-
-## Relations
-
-_To be developed._
