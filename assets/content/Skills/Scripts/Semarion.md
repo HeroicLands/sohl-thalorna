@@ -23,7 +23,7 @@ flags:
     script_family: Alphabetic
 ---
 
-The Sêmarion is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]] — twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the Vylari word for *the letters*, from _sêma_, "mark"; a single character is a _sêma_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it travelled.
+The Sêmarion is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]] — twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the Vylari word for _the letters_, from _sêma_, "mark"; a single character is a _sêma_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it travelled.
 
 As with any script, it is a writing system and not a tongue. A character needs **both** the Sêmarion and the relevant [[skill-lang|Language]] to read anything set down in it, and the Sêmarion carries a good many languages that have nothing to do with each other — see [[skill-script|Script]] for how the two skills combine.
 

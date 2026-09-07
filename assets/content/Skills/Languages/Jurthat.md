@@ -37,7 +37,7 @@ The language is correspondingly indirect. A refusal is very rarely a negation; i
 
 Jürthāti keeps the Tānvüri vowel inventory — the front rounded **ü** and **ö**, the central **ë**, and the long **ā ī ō ū** — but has simplified it in the mouth: the mainland's tonal contours have collapsed into a **pitch-accent** that distinguishes word pairs rather than carrying grammatical weight, and the tone-poor result is one of the first things a Tānvüri ear notices.
 
-**Consonants:** The islands lenited the mainland's aspirates in medial position (*Thōk* remains initially, but appears as *-dōk* in compounds) and lost the mainland's final stops entirely, so Jürthāti words end in a vowel or a nasal with very few exceptions. Consonant clusters that Tānvüri permits at a morpheme boundary are broken by an epenthetic vowel. The overall effect is a language of open, evenly weighted syllables — flatter than Tānvüri, and markedly easier for a foreigner to pronounce badly enough to be understood.
+**Consonants:** The islands lenited the mainland's aspirates in medial position (_Thōk_ remains initially, but appears as _-dōk_ in compounds) and lost the mainland's final stops entirely, so Jürthāti words end in a vowel or a nasal with very few exceptions. Consonant clusters that Tānvüri permits at a morpheme boundary are broken by an epenthetic vowel. The overall effect is a language of open, evenly weighted syllables — flatter than Tānvüri, and markedly easier for a foreigner to pronounce badly enough to be understood.
 
 **Prosody:** Even mora-timing. Jürthāti verse is counted rather than stressed or rhymed, which is why the short forms — the twelve-mora and seventeen-mora shapes composed at every level of society — travel so poorly into western tongues.
 

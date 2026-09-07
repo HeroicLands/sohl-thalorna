@@ -520,7 +520,6 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: provnzlng, type: skill, system: { masteryLevelBase: 80 } }
-
 ---
 
 # Appearance {#appearance}

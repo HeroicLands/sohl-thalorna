@@ -512,7 +512,6 @@ sohl:
     - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: trak, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 24 } }
-
 ---
 
 #### The Overlord

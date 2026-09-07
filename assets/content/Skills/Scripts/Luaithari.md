@@ -33,7 +33,7 @@ Kaliharan scribal tradition holds that a text badly formed is a text partly fals
 
 ## Beneath it: the Ithári layer
 
-The Confederation's deep archive is not in Luaithári at all. The [[affiliation-tharivaan|Thári'vaan]] sanctuaries hold **carved stone slabs and inscribed metal plaques** left by the Ithári, largely procedural, largely still undeciphered, kept where only the senior custodians may go; alongside them hang the *kaan'sari'val*, knotted and dyed palm-fibre cords recording formation lineage, which are buried with the person they describe. The Luaithári is not descended from the Ithári writing in any way anyone can demonstrate — the custodians simply say the marks were always there and the Kaliharan syllabary is a much younger thing.
+The Confederation's deep archive is not in Luaithári at all. The [[affiliation-tharivaan|Thári'vaan]] sanctuaries hold **carved stone slabs and inscribed metal plaques** left by the Ithári, largely procedural, largely still undeciphered, kept where only the senior custodians may go; alongside them hang the _kaan'sari'val_, knotted and dyed palm-fibre cords recording formation lineage, which are buried with the person they describe. The Luaithári is not descended from the Ithári writing in any way anyone can demonstrate — the custodians simply say the marks were always there and the Kaliharan syllabary is a much younger thing.
 
 ## Who has it
 
