@@ -6,8 +6,7 @@ tags:
   - black-flame
 name:
   full: The Black Flame
-  aliases:
-    - Vúlcani Heresy
+  aliases: []
 shortcode: blackflame
 img: images/affiliation/blackflame.webp
 type: affiliation
@@ -128,7 +127,7 @@ The most important festival is the Night of Ashes, celebrated during the dark of
 
 Another significant practice is the Blessing of Battle, performed the night before warfare or major violence. Warriors gather in a circle around a sacred flame, speaking oaths of ferocity and dominance. The Flame-Warden (the priest conducting the ceremony) speaks the names of fallen enemies and speaks prophecies of victory and conquest. Warriors ritually cast weapons into the fire—not to destroy them, but to pass them through the god's direct attention, returning them to be wielded with holy force. Some Black Flame adherents practice the Sacrifice of Strength, wherein they fast and physically exhaust themselves before battle to "burn away" weakness and become pure instruments of divine will.
 
-The faith also practices what it calls the Gift of the Pyre. When important members die in battle, their bodies are burned in great ceremonial fires rather than buried. The body is understood as fuel for Vúlcan's eternal flame, transforming the flesh into smoke that carries the warrior's essence directly to the god. This practice horrifies both the Sacred Forge (which views it as desecration) and the orthodox civilizations that surround the faith, further emphasizing the Black Flame's status as a radical heresy.
+The faith also practices what it calls the [[lore-giftofpyre|Gift of the Pyre]]. When important members die in battle, their bodies are burned in great ceremonial fires rather than buried. The body is understood as fuel for Vúlcan's eternal flame, transforming the flesh into smoke that carries the warrior's essence directly to the god. This practice horrifies both the Sacred Forge (which views it as desecration) and the orthodox civilizations that surround the faith, further emphasizing the Black Flame's status as a radical heresy.
 
 ## Organization
 
