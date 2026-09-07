@@ -20,7 +20,7 @@ The Pelwar no longer exist as a unified people. The name survives primarily as a
 
 **Proto-Pelwar** is the reconstructed ancestral tongue of the Pelwar family — the language that the earliest Pelwar migrants spoke before their descendants dispersed across Ankaris and began their slow linguistic divergence. No Proto-Pelwar texts survive, and indeed Proto-Pelwar was spoken long before any of its descendant peoples developed writing. What scholars and loremasters know about Proto-Pelwar is reconstructed through the comparative study of its surviving descendants — particularly [[skill-elvndrlng|Áelendi]], which is the most conservative member of the family and preserves features the other languages have lost.
 
-The Áelendan of [[place-elavendre|Élavendre]] claim — and with considerable justification — that their language, their songs, and their sacred traditions are the closest surviving echo of the Proto-Pelwar culture. The Covenant they uphold, by their understanding, traces back to the earliest Pelwar settlement of western Ankaris, when their forebears entered into sacred agreement with the land itself.
+The Áelendan of [[place-elavendre|Élavendre]] claim — and with considerable justification — that their language, their songs, and their sacred traditions are the closest surviving echo of the Proto-Pelwar culture. The Kindred Pact they uphold, by their understanding, traces back to the earliest Pelwar settlement of western Ankaris, when their forebears entered into sacred agreement with the land itself.
 
 ## The Pelwar Language Family
 
@@ -38,7 +38,7 @@ The languages of Pelwar descent share deep structural commonalities and a signif
 
 The major peoples descended from Pelwar migrations share certain cultural commonalities — particularly an aristocratic social structure, a strong bardic tradition, and a reverence for ancestral lineage — but they have diverged substantially over the centuries. Some have preserved more of the original Pelwar heritage than others:
 
-- **[[lore-aelendnppl|Áelendan]]** — The most conservative living Pelwar culture, preserving the old language, the Covenant, and traditional tribal organization
+- **[[lore-aelendnppl|Áelendan]]** — The most conservative living Pelwar culture, preserving the old language, the Kindred Pact, and traditional tribal organization
 - **[[place-elavendre|Élavendri]]** — Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors
 - **Vylari** — The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire
 - **Normen** (of the northern kingdoms) — Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures

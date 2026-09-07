@@ -26,7 +26,7 @@ packFolder: elavendre
 
 ## Overview
 
-The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan]] territory — the land in which the Covenant is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of Élavendre recognizes Áelendan sovereignty over the mountains by ancient law.
+The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan]] territory — the land in which the Kindred Pact is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of Élavendre recognizes Áelendan sovereignty over the mountains by ancient law.
 
 The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the **[[affiliation-vylarinmpr#The Cervaron Spine|Cervaron Spine]]** — the contested Vylarian frontier range — and south into the **[[place-alndntrblnds#The Tarvénan Diaspora|Toravar Range]]** that runs along the northern Tarvénan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Cervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
@@ -40,8 +40,8 @@ The mountains are home to unusual concentrations of wildlife — some common to 
 
 The Drenavar Spine contains many of the most significant sacred sites of the Áelendan tradition. The specific locations and protocols of these sites are not published, and outsiders are not permitted to seek them. What is known publicly is that the sites include:
 
-- **Ancient grove-shrines** — Old-growth groves that the Áelendan regard as places where the Covenant is most fully present. Some of these groves are believed to predate the Pelwar settlement by uncertain duration.
-- **Mountain sanctuaries** — High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Covenant pledges.
+- **Ancient grove-shrines** — Old-growth groves that the Áelendan regard as places where the Kindred Pact is most fully present. Some of these groves are believed to predate the Pelwar settlement by uncertain duration.
+- **Mountain sanctuaries** — High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Kindred Pact pledges.
 - **Sacred springs and lakes** — Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
 
 The [[place-silvrfrsts|Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.

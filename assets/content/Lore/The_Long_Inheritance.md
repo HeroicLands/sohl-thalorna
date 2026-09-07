@@ -38,7 +38,7 @@ The evidence is correspondingly lopsided. Material transmission leaves objects, 
 
 ## Still open
 
-This is not a closed chapter. The Sinalë maintain living relationships with a small number of human peoples — the [[lore-aelendnppl|Áelendan]] above all, whose Covenant tradition is unembarrassed about receiving from something older, and in whose bardic houses songs are still held that no human composed. Marriage, fosterage and long friendship all occur at that edge, rarely and quietly. What passes across it now passes as it always did: mostly by being seen.
+This is not a closed chapter. The Sinalë maintain living relationships with a small number of human peoples — the [[lore-aelendnppl|Áelendan]] above all, whose Kindred Pact tradition is unembarrassed about receiving from something older, and in whose bardic houses songs are still held that no human composed. Marriage, fosterage and long friendship all occur at that edge, rarely and quietly. What passes across it now passes as it always did: mostly by being seen.
 
 In the west the Khazári keep almost nothing of the kind. No human scholar has been invited into a hold within memory, and the Khazári regard the question of what humanity owes them as settled, uninteresting, and closed.
 

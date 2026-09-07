@@ -89,7 +89,7 @@ Pacts are inherited across generations, and the maintenance of them is one of th
 
 The Áelendan distinguish carefully between the Kindred and the **fae** of the [[lore-faecourts|The Fae Courts]] and the [[place-silvrfrsts|The Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else — beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
 
-That said, the boundary is not absolute. Certain very old Kindred — the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests — are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the Covenant.
+That said, the boundary is not absolute. Certain very old Kindred — the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests — are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the Kindred Pact.
 
 ## Outsider Interaction
 

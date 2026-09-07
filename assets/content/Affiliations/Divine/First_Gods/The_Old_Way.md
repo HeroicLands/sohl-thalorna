@@ -166,11 +166,11 @@ The Áelendan year is structured around a calendar of seasonal observances tied 
 
 Offerings are usually simple and specific to the recipient: food, drink, blood, breath, song, fire. The underlying principle is reciprocity. The Áelendan take from the land what the land offers; they give back what the Kindred have indicated, through long tradition, that they require.
 
-## Relation to the Covenant
+## Relation to the Kindred Pact
 
-The Old Way is not the same thing as the **Covenant** — the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Covenant is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
+The Old Way is not the same thing as the **Kindred Pact** — the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Kindred Pact is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
 
-A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Covenant's terms. The two offices work together, but they are distinct.
+A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Kindred Pact's terms. The two offices work together, but they are distinct.
 
 Many of the [[lore-faecourts|Fae]] whom the Wardens deal with are understood, within the Old Way, as particularly ancient and powerful Kindred — though this is a matter on which shamen speak carefully and only to other shamen.
 

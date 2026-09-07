@@ -24,7 +24,7 @@ The At'aan Weird is the oldest Kindred the Áelendan deal with, and the one they
 certain about. Shamen count it place-kin, since it holds a clearing and does not leave it. They
 also count it fae-adjacent — one of the very old spirits understood to have crossed the boundary
 long ago, or to have been fae-kin since before the tribes came — and the protocols for approaching
-it borrow from the Covenant rather than from ordinary practice.
+it borrow from the Kindred Pact rather than from ordinary practice.
 
 It is not venerated, because nobody is confident what would be accepted. It is not straightforwardly
 warded against either, because it has never harmed anyone who kept to the forms. What the tradition
