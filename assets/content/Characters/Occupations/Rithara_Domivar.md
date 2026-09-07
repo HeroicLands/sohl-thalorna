@@ -516,7 +516,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: tarvenlng, type: skill, system: { masteryLevelBase: 36 } }
 ---
 
 # Appearance {#appearance}

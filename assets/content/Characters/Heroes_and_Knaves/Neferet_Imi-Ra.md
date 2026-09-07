@@ -495,7 +495,7 @@ sohl:
     - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: demtkscrpt, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }

@@ -493,7 +493,7 @@ sohl:
     - { shortcode: eng, type: skill, system: { masteryLevelBase: 55 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }

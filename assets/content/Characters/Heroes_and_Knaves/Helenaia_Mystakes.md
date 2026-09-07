@@ -492,7 +492,7 @@ sohl:
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: helnkscrpt, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 65 } }

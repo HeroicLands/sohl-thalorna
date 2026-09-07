@@ -519,7 +519,7 @@ sohl:
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: helonclng, type: skill, system: { masteryLevelBase: 55 } }
 ---
 
 # Appearance {#appearance}

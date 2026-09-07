@@ -494,7 +494,7 @@ sohl:
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 22 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: ritual, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: thrvrdhscrpt, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 48 } }

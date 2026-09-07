@@ -497,7 +497,7 @@ sohl:
     - { shortcode: law, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: ritual, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: thrvrdhscrpt, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 45 } }

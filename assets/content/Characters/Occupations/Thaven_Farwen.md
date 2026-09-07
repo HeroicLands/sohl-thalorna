@@ -517,7 +517,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: provnzlng, type: skill, system: { masteryLevelBase: 36 } }
 ---
 
 # Appearance {#appearance}

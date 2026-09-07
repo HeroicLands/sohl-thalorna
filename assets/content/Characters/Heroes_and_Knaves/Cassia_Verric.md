@@ -488,8 +488,8 @@ sohl:
     - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: vylarilng, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 52 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 66 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }

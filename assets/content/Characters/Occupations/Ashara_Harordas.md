@@ -519,7 +519,7 @@ sohl:
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: vylarilng, type: skill, system: { masteryLevelBase: 56 } }
 ---
 
 # Appearance {#appearance}

@@ -494,14 +494,14 @@ sohl:
     - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 18 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 54 } }
+    - { shortcode: thrvrdhscrpt, type: skill, system: { masteryLevelBase: 54 } }
     - { shortcode: shpw, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 16 } }
+    - { shortcode: aelendlng, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: herb, type: skill, system: { masteryLevelBase: 72 } }

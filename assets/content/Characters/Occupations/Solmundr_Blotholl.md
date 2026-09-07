@@ -500,7 +500,7 @@ sohl:
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 12 } }
+    - { shortcode: nordmalng, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
     - { shortcode: agri, type: skill, system: { masteryLevelBase: 75 } }
