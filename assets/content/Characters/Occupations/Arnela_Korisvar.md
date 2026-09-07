@@ -560,6 +560,8 @@ Lady Ârnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of mod
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Kórisvar Name
 
 The Kórisvars are a minor noble house of Fiòrdaure, their wealth built on coastal trade and the salt flats east of the town. Ârnela's father, Lord Pálthen Kórisvar, was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the Council of Peers. He died when Ârnela was twenty-six, leaving her an estate that was solvent but unremarkable — a manor house on the hill above Fiòrdaure's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
