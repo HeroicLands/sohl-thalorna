@@ -22,87 +22,97 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Not one institution but five lineages of shamanic practice, each with its own elders and its
+      own apprenticeship line, and no orthodoxy imposed across them. Standing is earned inside a
+      lineage and confirmed by its elders; the Council of Elders at the Stone of Ranâz decides only
+      what concerns all five, of which the recognition of vessels is the weightiest.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Denounced
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Formally denounced before the lineages — for falsifying a reading, or for claiming
+          vesselhood the Council has not conferred. No lineage will train them and no camp of
+          consequence will seat them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Pîravân
+        lore: layfaithfulrnk
+        description: >-
+          "Followers" — the Dunhari at large, who keep the observances, bring their births,
+          marriages and dead to the resident practitioner, and read no weather themselves.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Shâgerd
+        lore: apprenticernk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          Apprenticed into one of the five lineages and learning its particular craft, whether that
+          is the reading of wind, the calling of rain, or walking into a storm to read it from
+          inside.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
+        title: Pîr
+        lore: journeymanrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          Recognized practitioner of a lineage: reads for the tribal council and the warband,
+          conducts the rites of the camp, and answers for the accuracy of what they report.
+          Misreading is the gravest shamanic failure.
       - level: 4
-        title: Acolyte
-        lore: initiaternk
+        title: Sar-pîr
+        lore: elderrnk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Senior elder of a lineage, holding its apprentices and its practice, and sitting in the
+          Council of Elders at the Stone of Ranâz at the season-turns.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Vessel
+        lore: sprtspkrrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          One in whom Báhrámiš is held to speak directly — recognized only by the assembled senior
+          elders, binding on all five lineages until withdrawn for cause. A vessel's authority
+          crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors
+          to a cause the chieftains have not endorsed.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Vessel of Báhrámiš: >-
+        Recognized at the Stone of Ranâz by the assent of the gathered senior shamans, and the most
+        politically consequential thing the cults do.
+      Sar-pîr: >-
+        Senior elder of one lineage and a member of the Council of Elders, which deliberates on
+        what affects all five.
+      Bâdkhwân: >-
+        Wind-Reader — divinatory specialist who reads the wind for omens and the subtler signs of
+        the god's mood. The largest lineage.
+      Bârân-âvar: >-
+        Rain-Caller — conducts the great rain-rituals at the season-turns and the emergency rites
+        in drought. The most ritually elaborate lineage.
+      Sang-zad: >-
+        Lightning-Marked — touched directly by the god, usually by vision or prophetic seizure and
+        rarely by literal lightning, in which case the survivor's standing is exceptional. The
+        smallest lineage and the most prestigious.
+      Tufân-row: >-
+        Storm-Walker — walks into storms to read them from within, and reads the great seasonal
+        weather-systems. Demanding and dangerous.
+      Sokhan-bar: >-
+        Voice-Bearer — orator and reciter, carrying the standing repertoire of myth, hymn and
+        ritual formula, and training apprentices in it.
+      Camp Practitioner: >-
+        The resident wind-reader or rain-caller seated in every Dunhari encampment of consequence,
+        who conducts its births, deaths, marriages and war-rituals.
+      Keeper of the Marked Stones: >-
+        Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its
+        Voice of the Quarter — a small function of real constitutional weight.
+  commonSkills:
+    - bahramis
   seat: null
   domains: []
   population: null
   economy: []
   lore: []
-  parents: []
-  relations: {}
+  parents:
+    - bahramis
+  relations:
+    bahramis: aligned
+    ashanpnthn: aligned
+    wrrscrcldnhrtrbs: aligned
+    dunhartrbs: aligned
 sohl:
   templatePriority: null
 ---
@@ -113,7 +123,7 @@ _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_
 
 - **Type:** Decentralized religious organization (multiple semi-autonomous lineages)
 - **Patron:** [[lore-bahramisdty|Báhrámiš]] — Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
-- **Region:** [[Dunhara_Tribes_Region|The Dunhara Tribes]] — present in every Dunhari encampment of significance, with the great gathering-shrine at the Stone of Ranâz (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
+- **Region:** [[affiliation-dunhartrbs|The Dunhara Tribes]] — present in every Dunhari encampment of significance, with the great gathering-shrine at the Stone of Ranâz (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
 
 ## Overview
 
