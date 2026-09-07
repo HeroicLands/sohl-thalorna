@@ -5,7 +5,6 @@ name:
   aliases:
     - Vapour
 description: "Fog obscuring large area; hides enemies and muffles sound."
-id: s97gMOBl31FlaHkH
 img: icons/wind.svg
 shortcode: mistveil
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Vapour
 packFolder: spells

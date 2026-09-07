@@ -5,7 +5,6 @@ name:
   aliases:
     - Lustre
 description: "Radiates steady light from caster; illuminates surroundings without heat."
-id: VS4YEgUY0ptUQy6A
 img: icons/anvil.svg
 shortcode: glow
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Lustre
 packFolder: spells

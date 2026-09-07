@@ -5,7 +5,6 @@ name:
   full: Large Spider
   aliases: []
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."
-id: 7z21KuX3vzQ2XC2E
 img: icons/game-icons/carl-olsen/spider-alt.svg
 shortcode: lrgspdr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -152,14 +151,14 @@ sohl:
       calc: "15"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

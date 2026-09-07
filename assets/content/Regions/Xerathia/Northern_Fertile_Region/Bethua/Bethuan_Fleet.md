@@ -102,8 +102,7 @@ data:
     vylarinmpr: nemesis
     empirtkhpr: aligned
 sohl:
-  archetype: null
-id: spoTbaEvFkqrB5vT
+  templatePriority: null
 name:
   full: The Bethûan Fleet
   aliases:

@@ -5,7 +5,6 @@ name:
   aliases:
     - Host
 description: "Summons protective spirit; grants spectral defender and aid."
-id: HDNMTYJPadHJ61tp
 img: icons/divination.svg
 shortcode: sprtgrd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Host
 packFolder: spells

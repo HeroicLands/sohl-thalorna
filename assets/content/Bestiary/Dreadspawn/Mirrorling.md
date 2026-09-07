@@ -5,7 +5,6 @@ name:
   full: Mirrorling
   aliases: []
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
-id: u7FShyu98eDuRwVS
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: mrrrlng
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     end: 1d4+8
@@ -492,14 +491,14 @@ sohl:
       calc: "2250"
     reachBase: 0
     bodyScaleBase: 1.66
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

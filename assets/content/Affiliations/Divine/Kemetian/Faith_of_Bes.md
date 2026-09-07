@@ -1,6 +1,5 @@
 ---
 description: "Dreams."
-id: 8k2bg7XUvvF6NUSI
 tags:
   - kemetian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Bēs
   aliases:

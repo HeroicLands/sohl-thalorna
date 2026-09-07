@@ -5,7 +5,6 @@ name:
   full: Giant Owl
   aliases: []
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."
-id: QQBrXJej14IhQbcW
 img: icons/game-icons/lorc/owl.svg
 shortcode: giantowl
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     end: 1d6+17
@@ -228,21 +227,21 @@ sohl:
       calc: "40"
     reachBase: 0
     bodyScaleBase: 1.71
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 90
       leaguesPerWatch: 8
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: terrestrial
       feetPerRound: 25
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

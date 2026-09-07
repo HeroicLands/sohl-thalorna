@@ -4,14 +4,13 @@ name:
   full: Stathmos
   aliases: []
 description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."
-id: BdARpfjp4ZpLEz1M
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: stathmos
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": -15

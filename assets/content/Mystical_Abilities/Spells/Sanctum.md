@@ -4,7 +4,6 @@ name:
   full: Sanctum
   aliases: []
 description: "Creates sacred space; grants sanctuary and refuge from intrusion."
-id: LqSMpiZ3yOuamOiO
 img: icons/circle.svg
 shortcode: sanctum
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sanctum
 packFolder: spells

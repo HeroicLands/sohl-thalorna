@@ -11,7 +11,6 @@ name:
   aliases:
     - Stormborn
   home: null
-id: IQJpaW7lB8mYgiWK
 packFolder: ankarisnordlands
 shortcode: bjrnstrmbrn
 img: icons/person.svg
@@ -43,7 +42,7 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
@@ -476,17 +475,17 @@ sohl:
           - rlegpart
     weight:
       base: 227
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
 ---

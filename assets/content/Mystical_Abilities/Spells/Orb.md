@@ -5,7 +5,6 @@ name:
   aliases:
     - Sphere
 description: "Sphere of magical energy floating and following caster."
-id: S0zg9Srqb4TPocD5
 img: icons/fire.svg
 shortcode: orb
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sphere
 packFolder: spells

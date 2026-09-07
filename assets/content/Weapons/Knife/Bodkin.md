@@ -4,7 +4,6 @@ name:
   full: Bodkin
   aliases: []
 description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
-id: po0MtDrMbBIcNdyH
 img: icons/broad-dagger.svg
 shortcode: Kel
 type: weapongear
@@ -148,7 +147,7 @@ sohl:
       defense:
         blockMod: 5
         counterstrikeMod: 5
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

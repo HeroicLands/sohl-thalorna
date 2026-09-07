@@ -5,7 +5,6 @@ name:
   aliases:
     - Tunnel
 description: "Creates temporary passage through solid barriers like walls."
-id: MqCqO5q1fJplSM6A
 img: icons/tree.svg
 shortcode: pthfrg
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tunnel
 packFolder: spells

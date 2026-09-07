@@ -7,7 +7,6 @@ tags:
   - metalwork
   - smiths
 description: "Per-Aá's chartered guild of Ta'Kheperan smiths, armorers, and weaponcrafters — heirs to the ancient Mesnu, the harpoon-makers of Horus, and the empire's arms-makers in fact."
-id: soHxba1PKMNcDc6h
 name:
   full: Per'Mesnu
   aliases:
@@ -100,7 +99,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # Per'Mesnu

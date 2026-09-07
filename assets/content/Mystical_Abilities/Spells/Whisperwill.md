@@ -5,7 +5,6 @@ name:
   aliases:
     - Suggestion
 description: "Whispers suggestion directly; implants idea in target's mind."
-id: goEoFl8hOjiIqp4G
 img: icons/divination.svg
 shortcode: whsprwll
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Suggestion
 packFolder: spells

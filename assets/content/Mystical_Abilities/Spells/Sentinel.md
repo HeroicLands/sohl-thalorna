@@ -5,7 +5,6 @@ name:
   aliases:
     - Guardian
 description: "Creates guardian watchpoint; alerts caster to intrusion nearby."
-id: CifujLwsWAQi0VGw
 img: icons/tree.svg
 shortcode: sentinel
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Guardian
 packFolder: spells

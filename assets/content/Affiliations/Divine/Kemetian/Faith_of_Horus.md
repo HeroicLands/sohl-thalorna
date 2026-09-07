@@ -1,6 +1,5 @@
 ---
 description: "Voyages."
-id: 9lJldXhTBsDUDurQ
 tags:
   - kemetian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Hórús
   aliases:

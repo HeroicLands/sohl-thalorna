@@ -1,5 +1,4 @@
 ---
-id: 4rNLJkKcYOoURxqO
 name:
   full: The Provenzian Grand Games
   aliases: []

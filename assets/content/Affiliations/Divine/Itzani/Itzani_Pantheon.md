@@ -1,5 +1,4 @@
 ---
-id: IRMVn6AQoZPttpU6
 tags:
   - pantheon
   - itzani
@@ -104,7 +103,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: itzani
 ---
 

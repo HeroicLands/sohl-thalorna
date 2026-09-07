@@ -1,5 +1,4 @@
 ---
-id: yKyHOnW4vqQivkJZ
 tags:
   - city
   - capital

@@ -11,7 +11,6 @@ data:
   parents:
     - worldthlrn
   population: null
-id: M6DQs1jWkoqbUTr2
 shortcode: kchchkcntnnt
 name:
   full: K'ich'chik Continent

@@ -1,5 +1,4 @@
 ---
-id: MdjcGbF0x3kGbwQx
 tags:
   - town
 description: "Wine Town"

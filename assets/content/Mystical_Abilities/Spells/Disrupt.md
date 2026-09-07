@@ -5,7 +5,6 @@ name:
   aliases:
     - Subvert
 description: "Interrupts spell-casting; shatters focus and ruins ongoing magic."
-id: 1T0koAYArl55E0rs
 img: icons/circle.svg
 shortcode: disrupt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Subvert
 packFolder: spells

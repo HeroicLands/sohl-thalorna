@@ -1,5 +1,4 @@
 ---
-id: rpSFTksRLO0nmlv9
 tags:
   - town
   - frontier

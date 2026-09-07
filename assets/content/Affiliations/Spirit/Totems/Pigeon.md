@@ -3,7 +3,6 @@ tags: []
 name:
   full: Pigeon
   aliases: []
-id: GOFYJG8SHFbxXoPh
 img: images/mystery/pigeon.webp
 shortcode: pigeonttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Lens
 description: "Clarifies magical intent; improves accuracy and power of caster's magic."
-id: dcVUfAg3oiaK3etL
 img: icons/wind.svg
 shortcode: focus
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Lens
 packFolder: spells

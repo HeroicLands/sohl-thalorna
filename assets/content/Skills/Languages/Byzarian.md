@@ -5,7 +5,6 @@ name:
   aliases:
     - Byzarian
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
-id: zsiciBcjfp7KMzVh
 img: icons/speaking.svg
 shortcode: byzarnlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Owl
   aliases: []
-id: Y1YuK9tAyQoCO3Pd
 img: images/mystery/owl.webp
 shortcode: owlttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

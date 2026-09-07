@@ -5,7 +5,6 @@ name:
   aliases:
     - Screen
 description: "Conceals target; renders invisible to normal sight."
-id: 4mL8LZR4PnQq2Kvk
 img: icons/anvil.svg
 shortcode: veil
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Screen
 packFolder: spells

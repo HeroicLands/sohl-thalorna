@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 0xHlGRHD5qQ3kvS7
 shortcode: florania
 img: images/affiliation/florania.webp
 name:
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: aureldian
 ---
 

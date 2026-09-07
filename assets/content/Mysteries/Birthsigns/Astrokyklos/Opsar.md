@@ -4,14 +4,13 @@ name:
   full: Opsar
   aliases: []
 description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
-id: 7MjeFB12JeEiQEbU
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: opsar
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": 10

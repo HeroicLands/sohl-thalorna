@@ -1,6 +1,5 @@
 ---
 description: "Decay."
-id: 7Y6bkB0AAlj4MJS8
 tags:
   - varnaka
   - deity
@@ -104,7 +103,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 

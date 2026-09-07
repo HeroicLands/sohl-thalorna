@@ -5,7 +5,6 @@ name:
   aliases:
     - Steel
 description: "Transmutes base material into high-quality, workable steel instantly."
-id: fQDq7K59UwY4TxOx
 img: icons/anvil.svg
 shortcode: ironbind
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Steel
 packFolder: spells

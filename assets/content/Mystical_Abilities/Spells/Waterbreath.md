@@ -5,7 +5,6 @@ name:
   aliases:
     - Gills
 description: "Grants water-breathing; enables underwater respiration. effect"
-id: YsLsNaMnzxHrmOh5
 img: icons/water.svg
 shortcode: wtrbrth
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Gills
 packFolder: spells

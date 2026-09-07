@@ -5,7 +5,6 @@ name:
   aliases:
     - Breath
 description: "Creates self-replenishing pocket of breathable air in drowning victim."
-id: OelGEccQlUtRl7lM
 img: icons/water.svg
 shortcode: lfsprk
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Breath
 packFolder: spells

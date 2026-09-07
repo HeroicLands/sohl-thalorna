@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Stimulant, Strong
 description: "Vibrant red-orange liquid; stimulates and energizes immediately."
-id: Za5UXkYeMCRVDxBk
 img: icons/potion.svg
 shortcode: PtnStmS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

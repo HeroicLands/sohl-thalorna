@@ -1,6 +1,5 @@
 ---
 description: "Fire."
-id: 7u1nOZUiWdT5a007
 tags:
   - celestial-order
   - elemental-lord
@@ -102,7 +101,7 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: elementallords
 ---
 

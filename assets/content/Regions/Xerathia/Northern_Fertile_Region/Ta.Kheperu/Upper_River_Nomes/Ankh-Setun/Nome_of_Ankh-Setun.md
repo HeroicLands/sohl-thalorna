@@ -1,5 +1,4 @@
 ---
-id: IDGs9tpN72HDk056
 description: "The great granary nome of the Ta'Kheperu upper river — the empire's fullest storehouse, where the broadest flood-silt wheatlands, the deepest granaries, and the river-port of Meru-Hotep together make this the breadbasket that feeds the capital and the army."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
@@ -111,7 +110,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: ankhsetun
 ---
 

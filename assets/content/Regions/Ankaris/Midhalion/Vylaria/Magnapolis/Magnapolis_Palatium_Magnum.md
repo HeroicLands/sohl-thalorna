@@ -15,7 +15,6 @@ data:
   parents:
     - vylariargn
   population: null
-id: Pl8mAx3vQrK9Tb2d
 name:
   full: Palatium Magnum
   aliases:

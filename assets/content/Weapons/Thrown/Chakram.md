@@ -4,7 +4,6 @@ name:
   full: Chakram
   aliases: []
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
-id: 2F1GQNY7FtnuzueG
 img: icons/circle.svg
 shortcode: Chak
 type: weapongear
@@ -104,7 +103,7 @@ sohl:
       maxVolleyMult: 2
       baseRangeBase: 80
       drawBase: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

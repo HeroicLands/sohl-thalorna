@@ -4,7 +4,6 @@ name:
   full: Heat
   aliases: []
 description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
-id: pH3InhWZcQ2xmINT
 img: icons/fire.svg
 shortcode: heat
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Heat
 packFolder: spells

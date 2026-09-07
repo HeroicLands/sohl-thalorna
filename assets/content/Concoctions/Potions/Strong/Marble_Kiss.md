@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Paralytic, Strong
 description: "Clouded murky pale greenish draft; causes paralysis and petrification."
-id: rtycig2DxAVWwBpk
 img: icons/potion.svg
 shortcode: PtnParS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

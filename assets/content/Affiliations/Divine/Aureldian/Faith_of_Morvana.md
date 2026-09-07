@@ -1,6 +1,5 @@
 ---
 description: "Decay."
-id: uGNJ9wMBepodXTeP
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Morvana
   aliases:

@@ -5,7 +5,6 @@ name:
   aliases:
     - Veil
 description: "Shimmering aura rendering caster invisible to magical perception."
-id: gGL4olpTF3yqgPtR
 img: icons/divination.svg
 shortcode: mystclk
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Veil
 packFolder: spells

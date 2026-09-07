@@ -86,7 +86,6 @@ data:
     sideros: nemesis
     pyrethos: aligned
     physera: aligned
-id: 9TzrmYEx7mtdohBV
 shortcode: zepharis
 img: images/affiliation/zepharis.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Zephäris
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: air
 packFolder: affiliationshexhodai

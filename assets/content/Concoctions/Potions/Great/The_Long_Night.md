@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Soporific, Great
 description: "Nearly black liquid; induces prolonged darkness of consciousness."
-id: YEsgZarTo8VAzOal
 img: icons/potion.svg
 shortcode: PtnSopG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Thirst
 description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
-id: M0zSjMxyTVTQBIkD
 img: icons/fire.svg
 shortcode: pchsoul
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Thirst
 packFolder: spells

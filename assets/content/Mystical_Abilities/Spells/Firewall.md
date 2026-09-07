@@ -5,7 +5,6 @@ name:
   aliases:
     - Wall
 description: "Erupts continuous wall of flame; blocks passage and sears crossing."
-id: btu1yJNRbX3aF0wg
 img: icons/fire.svg
 shortcode: firewall
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Wall
 packFolder: spells

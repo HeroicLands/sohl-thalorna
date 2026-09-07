@@ -6,7 +6,6 @@ name:
   full: Northern Fertile Region
   aliases:
     - The Fertile Crescent
-id: 7kQmNf4Yr2xL8pB3
 shortcode: nrthrnfrtlrgn
 type: place
 subType: region

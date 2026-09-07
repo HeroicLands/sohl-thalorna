@@ -5,7 +5,6 @@ name:
   aliases:
     - Snowball
 description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."
-id: qH8SKPbjf5aR1bcb
 img: icons/water.svg
 shortcode: iceblast
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Snowball
 packFolder: spells

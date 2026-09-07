@@ -3,7 +3,6 @@ name:
   full: "Bethûa"
 shortcode: bethua
 type: folder
-id: Y64e5NGsp8OwZ6xQ
 data:
   parent:
     default: polities

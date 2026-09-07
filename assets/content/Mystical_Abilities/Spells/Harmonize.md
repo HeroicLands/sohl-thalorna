@@ -5,7 +5,6 @@ name:
   aliases:
     - Attune
 description: "Unites allied group; enhances coordination and shared magical resonance."
-id: D4yKKR8OkFI73Cni
 img: icons/circle.svg
 shortcode: hrmnz
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Attune
 packFolder: spells

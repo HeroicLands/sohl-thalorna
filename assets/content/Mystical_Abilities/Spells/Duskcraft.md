@@ -5,7 +5,6 @@ name:
   aliases:
     - Shadow
 description: "Summons darkness; obscures vision within spreading circle of shadow."
-id: 7tXVVEfewLfrIVY5
 img: icons/water.svg
 shortcode: dskcrft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Shadow
 packFolder: spells

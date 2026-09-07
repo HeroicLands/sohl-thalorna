@@ -5,7 +5,6 @@ name:
   aliases:
     - Trigger
 description: "Sets conditional trigger on prepared spell; fires when condition met."
-id: Y6QqSijb8SaNBI26
 img: icons/circle.svg
 shortcode: activate
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Trigger
 packFolder: spells

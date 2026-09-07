@@ -6,7 +6,6 @@ name:
   full: Peshtar Wilderness
   aliases:
     - Peshtar Highlands
-id: zb5DAPGsJEJHjycA
 shortcode: pshtrwldrns
 img: null
 type: place

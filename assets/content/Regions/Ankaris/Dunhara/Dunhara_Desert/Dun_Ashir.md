@@ -1,5 +1,4 @@
 ---
-id: OEZyUT8hxlPoOJhD
 tags:
   - oasis
   - settlement

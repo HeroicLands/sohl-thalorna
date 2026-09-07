@@ -5,7 +5,6 @@ name:
   aliases:
     - Rupture
 description: "Shatters resolve; breaks will and courage of target."
-id: SYLfKWICowUw9Uss
 img: icons/divination.svg
 shortcode: shttrmnd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Rupture
 packFolder: spells

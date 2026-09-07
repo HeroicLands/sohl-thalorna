@@ -1,5 +1,4 @@
 ---
-id: q714wje5wjvCsfGb
 description: "Twelve-year-old maritime confederation on the eastern Vylarian Sea — won independence from the Vylarian Empire by force of arms, then watched merchant oligarchs seize the freedoms its veterans bled for. Naval supremacy, complex political intrigue, and an archipelago of trade and smuggling havens."
 type: affiliation
 name:
@@ -112,7 +111,7 @@ data:
     byzarianlg: rival
     sultntmrdd: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Israel and Lebanon, plus the islands off their coasts — Phoenician-and-Levantine maritime confederation: trader city-states, naval power, and the perpetual political intrigue of merchant oligarchs."
 packFolder: harad
 ---

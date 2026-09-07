@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: AOAX8HsKj3dBH4SA
 shortcode: nushot
 name:
   full: "Ritual: Nüshöt"
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: tengvokvanlei
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: JmtVxbjSjbyV7ggu
 description: "Wealthiest city-state of the Byzarian League at the crossroads of eastern and western trade — a merchant-ruled fortress commanding half the League's wealth and two-thirds of its political will."
 type: affiliation
 name:
@@ -107,7 +106,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: byzaria
 ---
 

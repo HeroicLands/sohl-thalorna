@@ -5,7 +5,6 @@ name:
   aliases:
     - Link
 description: "Establishes permanent mystical link between caster and willing partner."
-id: sU0A7vHo0zslcwrW
 img: icons/divination.svg
 shortcode: bond
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Link
 packFolder: spells

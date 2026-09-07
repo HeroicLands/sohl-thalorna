@@ -5,7 +5,6 @@ name:
   full: Dire Honey Badger
   aliases: []
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."
-id: yfdwPLNfDfwLHV8b
 img: icons/game-icons/caro-asercion/badger.svg
 shortcode: drhnybdg
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     end: 1d6+19
@@ -235,14 +234,14 @@ sohl:
       calc: "80"
     reachBase: 0
     bodyScaleBase: 1.71
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

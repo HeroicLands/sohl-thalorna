@@ -5,7 +5,6 @@ name:
   aliases:
     - Charge
 description: "Channels arcane energy into object; releases via predetermined trigger."
-id: AA3VxkdLIKggz4Ms
 img: icons/circle.svg
 shortcode: infuse
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Charge
 packFolder: spells

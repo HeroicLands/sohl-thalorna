@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: xkiYiIgUFLqiCVFb
 shortcode: theoldway
 name:
   full: "Ritual: The Old Way"
@@ -21,7 +20,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: firstgods
 ---
 

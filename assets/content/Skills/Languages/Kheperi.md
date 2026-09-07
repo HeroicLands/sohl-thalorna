@@ -5,7 +5,6 @@ name:
   aliases:
     - Kheperi
 description: "The ancient speech of Ta-Kheperu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
-id: gGRK6kSZcA0sfG2g
 img: icons/speaking.svg
 shortcode: kheperlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

@@ -6,7 +6,6 @@ name:
   full: Wyvern
   aliases: []
 description: "A two-legged, dragon-like flier of mountain peaks and high plateaus, lacking true draconic cunning but formidably lethal on the wing."
-id: f7qow0t2vLn2UWpk
 img: icons/game-icons/lorc/wyvern.svg
 shortcode: wyvern
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     end: 1d6+15
@@ -238,21 +237,21 @@ sohl:
       calc: "600"
     reachBase: 0
     bodyScaleBase: 1.66
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: aerial
       feetPerRound: 150
       leaguesPerWatch: 12
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

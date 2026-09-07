@@ -13,7 +13,6 @@ name:
     - Divine Action (GM)
     - The Balance
 subType: theology
-id: VHMy9CkCoifLkNnA
 packFolder: settinglore
 shortcode: divineactn
 ---

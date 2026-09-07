@@ -5,7 +5,6 @@ description: The southern margin of Xerathia's fertile belt, where the irrigated
 name:
   full: Okháris Region
   aliases: []
-id: rD2cSVqLcGUxWBMV
 shortcode: okharisrgn
 img: null
 type: place

@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: rJttQjmxnBs2t5TL
 shortcode: zarvanya
 name:
   full: "Ritual: Zárványä"
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: ashalan
 ---
 

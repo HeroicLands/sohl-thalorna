@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Curative, Mild
 description: "Pale green poultice; heals wounds and promotes recovery."
-id: vDEGz8YoMfVA9WJW
 img: icons/potion.svg
 shortcode: PtnCurM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

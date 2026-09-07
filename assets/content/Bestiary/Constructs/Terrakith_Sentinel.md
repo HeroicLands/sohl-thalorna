@@ -5,7 +5,6 @@ name:
   full: Terrakith Sentinel
   aliases: []
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
-id: mYRlDMSiKnHIpUzq
 img: icons/game-icons/delapouite/rock-golem.svg
 shortcode: trrkthsn
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: construct
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     agl: 1d4+3
@@ -45,17 +44,17 @@ sohl:
       locations: []
     weight:
       base: 1000
-      calc: 1000
+      calc: "1000"
     reachBase: 0
     bodyScaleBase: 1.66
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

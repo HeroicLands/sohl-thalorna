@@ -5,7 +5,6 @@ name:
   aliases:
     - Alchema
 description: "Brews magical potions with beneficial effects over time."
-id: NudStt3zPnm0qbMK
 img: icons/water.svg
 shortcode: ptncrft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Alchema
 packFolder: spells

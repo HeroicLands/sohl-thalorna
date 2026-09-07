@@ -5,7 +5,6 @@ name:
   aliases:
     - Beckon
 description: "Summons nearby creatures; compels them toward caster with force."
-id: X9xsP4cXbJrLMG6n
 img: icons/tree.svg
 shortcode: call
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Beckon
 packFolder: spells

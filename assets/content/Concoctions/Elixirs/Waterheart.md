@@ -6,7 +6,6 @@ name:
   aliases:
     - Aqua Elixir
 description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
-id: XFda9zcmLdiJF4aW
 img: icons/potion.svg
 shortcode: ElxAqu
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

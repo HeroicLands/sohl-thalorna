@@ -1,5 +1,4 @@
 ---
-id: 2OGPK8TItkzTYpQE
 name:
   full: Locations
   aliases: []

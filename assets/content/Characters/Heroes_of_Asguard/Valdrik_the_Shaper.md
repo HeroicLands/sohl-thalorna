@@ -11,7 +11,6 @@ name:
   aliases:
     - the Shaper
   home: null
-id: UvT1G72vpeZ1mj5X
 packFolder: ankarisvrystwald
 shortcode: valdrkshpr
 img: icons/person.svg
@@ -43,7 +42,7 @@ data:
     complexion: freckled
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
@@ -476,17 +475,17 @@ sohl:
           - rlegpart
     weight:
       base: 209
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
 ---

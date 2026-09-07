@@ -3,7 +3,6 @@ tags: []
 name:
   full: Ox
   aliases: []
-id: 5JA4yOkD0TqwsDMp
 img: images/mystery/ox.webp
 shortcode: oxttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

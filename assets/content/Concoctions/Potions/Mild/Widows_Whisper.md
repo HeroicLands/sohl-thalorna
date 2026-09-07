@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Poison, Mild
 description: "Pale yellow amber liquid; induces despair and hopelessness."
-id: rpzM7uUKMSKyKYoN
 img: icons/potion.svg
 shortcode: PtnPoiM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

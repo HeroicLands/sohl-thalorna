@@ -5,7 +5,6 @@ name:
   aliases:
     - Harmony
 description: "Balances forces; negates momentum and prevents caster's displacement."
-id: KoZauQosnUAsmXf6
 img: icons/divination.svg
 shortcode: eqlbrm
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Harmony
 packFolder: spells

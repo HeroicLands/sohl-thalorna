@@ -3,7 +3,6 @@ name:
   full: "Vrystwald"
 shortcode: vrystwald
 type: folder
-id: mCG1TPvjwrV23csZ
 data:
   parent:
     default: polities

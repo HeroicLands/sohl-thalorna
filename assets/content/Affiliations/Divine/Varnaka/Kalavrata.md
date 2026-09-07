@@ -1,6 +1,5 @@
 ---
 description: "Death."
-id: Avwo9jIt0Yj5Vdti
 tags:
   - varnaka
   - deity
@@ -103,7 +102,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 

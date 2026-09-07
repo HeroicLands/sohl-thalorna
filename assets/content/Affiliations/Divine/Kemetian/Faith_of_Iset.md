@@ -1,6 +1,5 @@
 ---
 description: "Fertility & Healing."
-id: mUm5RJA1Qwqj3EjJ
 tags:
   - kemetian
   - religion
@@ -98,7 +97,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Íšét
   aliases:

@@ -3,7 +3,6 @@ name:
   full: "Byzaría"
 shortcode: byzaria
 type: folder
-id: pAXnwYJhDDSvkrPt
 data:
   parent:
     default: polities

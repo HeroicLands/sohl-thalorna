@@ -1,5 +1,4 @@
 ---
-id: glFCD2sGQEKQGn6c
 tags:
   - port
   - city

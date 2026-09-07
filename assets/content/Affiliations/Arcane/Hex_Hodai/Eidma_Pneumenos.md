@@ -86,7 +86,6 @@ data:
     physera: nemesis
     sideros: aligned
     pyrethos: aligned
-id: ojOZHGwR62AnSRV3
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Pneuménos
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: spirit
 packFolder: affiliationshexhodai

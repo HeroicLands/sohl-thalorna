@@ -6,7 +6,6 @@ name:
   aliases:
     - Equipose Elixir
 description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."
-id: v7TG6wRvpcLeDrtZ
 img: icons/potion.svg
 shortcode: ElxEqp
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

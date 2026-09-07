@@ -1,6 +1,5 @@
 ---
 description: "Prosperity."
-id: C6gcaaK9X8xfijg6
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Venusia
   aliases:

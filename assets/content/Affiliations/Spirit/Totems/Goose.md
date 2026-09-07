@@ -3,7 +3,6 @@ tags: []
 name:
   full: Goose
   aliases: []
-id: deLZxIhQUl5cFaIO
 img: images/mystery/goose.webp
 shortcode: goosettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

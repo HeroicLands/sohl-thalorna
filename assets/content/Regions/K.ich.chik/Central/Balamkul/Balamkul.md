@@ -5,7 +5,6 @@ description: Paramount realm and beating heart of K'ich'chik civilization — a 
 name:
   full: Balamkul
   aliases: []
-id: nEilLlvuZtCgyFqW
 shortcode: balamkul
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Central Mexico
 packFolder: balamkul
 ---

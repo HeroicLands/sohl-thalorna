@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Warrior-shamans of Þórr who fight as the storm fights — combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
-id: mW5aOqLWSVl4cHlh
 name:
   full: The Order of the Storm-Speakers
   aliases:
@@ -105,7 +104,7 @@ data:
   relations:
     asguardian: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Order of the Storm-Speakers

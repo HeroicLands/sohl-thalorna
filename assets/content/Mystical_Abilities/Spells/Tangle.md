@@ -5,7 +5,6 @@ name:
   aliases:
     - Vine
 description: "Entangles target with bonds; creates magical webbing."
-id: M17LRhmoMHryWfVl
 img: icons/tree.svg
 shortcode: tangle
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Vine
 packFolder: spells

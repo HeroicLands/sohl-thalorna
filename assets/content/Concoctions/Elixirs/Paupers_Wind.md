@@ -6,7 +6,6 @@ name:
   aliases:
     - Airtap Elixir
 description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
-id: 2iHERbCpZn2DzEUS
 img: icons/potion.svg
 shortcode: ElxAir
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

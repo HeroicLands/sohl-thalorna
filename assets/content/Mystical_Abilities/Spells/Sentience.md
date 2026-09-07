@@ -5,7 +5,6 @@ name:
   aliases:
     - Personality
 description: "Grants awareness to construct; creature gains rudimentary agency."
-id: hb7eujMIrSYD9x5r
 img: icons/circle.svg
 shortcode: sntnc
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Personality
 packFolder: spells

@@ -102,8 +102,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
-id: jG85lLZE0iRklqeT
+  templatePriority: null
 name:
   full: The Order of the Sealed Word
   aliases:

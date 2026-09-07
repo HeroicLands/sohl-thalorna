@@ -5,7 +5,6 @@ name:
   aliases:
     - Singing Sword
 description: "Blade sings with resonant force; strikes echo with doubled damage."
-id: INGy59UU55J5PoT3
 img: icons/anvil.svg
 shortcode: hrmnbld
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Singing Sword
 packFolder: spells

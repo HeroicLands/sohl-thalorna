@@ -1,5 +1,4 @@
 ---
-id: nlCErQbCazleD3Ns
 tags:
   - oasis
   - city

@@ -1,5 +1,4 @@
 ---
-id: ZOoWiOG6VWAwyF1S
 tags:
   - draft
 description: "Grand Orrery"

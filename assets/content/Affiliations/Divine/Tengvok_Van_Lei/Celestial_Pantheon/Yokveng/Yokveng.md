@@ -1,5 +1,4 @@
 ---
-id: nAT05cIm5QE8RnLF
 tags:
   - celestial-order
   - yokveng
@@ -101,7 +100,7 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: yokveng
 ---
 

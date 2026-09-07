@@ -8,7 +8,6 @@ name:
     - Suvarnagiri
     - Suvarṇagiri
     - The Janapada of the Gold Mountain
-id: S5gNwK8vRpQ3jLxZ
 shortcode: suvrgrjnpd
 subType: polity
 data:
@@ -113,7 +112,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 packFolder: vedyara
 ---

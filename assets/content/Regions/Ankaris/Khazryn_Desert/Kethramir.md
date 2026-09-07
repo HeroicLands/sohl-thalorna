@@ -1,5 +1,4 @@
 ---
-id: GkOSX9uDj3AmjiVz
 tags:
   - waypoint
   - caravan

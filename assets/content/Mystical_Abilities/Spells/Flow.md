@@ -5,7 +5,6 @@ name:
   aliases:
     - Transfer
 description: "Caster merges with nearby liquid; moves through as substance."
-id: NjnLfM9cs8UzUmsc
 img: icons/tree.svg
 shortcode: flow
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Transfer
 packFolder: spells

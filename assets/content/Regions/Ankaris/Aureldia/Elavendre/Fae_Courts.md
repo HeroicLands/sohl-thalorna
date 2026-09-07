@@ -1,5 +1,4 @@
 ---
-id: xC94NpQeBYOyeezn
 type: lore
 subType: spirit
 name:

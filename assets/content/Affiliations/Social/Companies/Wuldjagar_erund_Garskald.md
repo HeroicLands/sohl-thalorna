@@ -75,9 +75,8 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: politiescompanies
-id: dYyYG1Auv2axyCZQ
 name:
   full: Wuldjagâr erund Gárskald
   aliases:

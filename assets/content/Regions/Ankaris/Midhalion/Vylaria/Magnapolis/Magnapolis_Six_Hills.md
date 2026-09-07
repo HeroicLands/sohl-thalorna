@@ -1,5 +1,4 @@
 ---
-id: K5cCzlRXRdld06Wm
 tags:
   - draft
 description: "Six Hills"

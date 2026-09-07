@@ -3,7 +3,6 @@ tags: []
 name:
   full: Badger
   aliases: []
-id: WxZsuNGUm8U7JpQn
 img: images/mystery/badger.webp
 shortcode: badgerttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

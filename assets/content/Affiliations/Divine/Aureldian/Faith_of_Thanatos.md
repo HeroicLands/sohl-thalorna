@@ -1,6 +1,5 @@
 ---
 description: "Death."
-id: 9cCzJLN7PPWRs0dX
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Thanatos
   aliases:

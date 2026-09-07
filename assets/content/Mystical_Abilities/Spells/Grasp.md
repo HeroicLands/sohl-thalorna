@@ -5,7 +5,6 @@ name:
   aliases:
     - Hand
 description: "Invisible force seizes; holds or manipulates objects at distance."
-id: abOHjvEhJ91Fl21O
 img: icons/anvil.svg
 shortcode: grasp
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Hand
 packFolder: spells

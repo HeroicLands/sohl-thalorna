@@ -1,5 +1,4 @@
 ---
-id: fE2uikvHIqpHgYyC
 type: lore
 subType: culture
 name:

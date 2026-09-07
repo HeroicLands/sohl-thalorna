@@ -6,7 +6,6 @@ name:
   aliases:
     - Dreamwalk Elixir
 description: "Opalescent shifting liquid; projects consciousness to distant locations."
-id: 6rTdRtSAhpfVa4Nc
 img: icons/potion.svg
 shortcode: ElxDrm
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

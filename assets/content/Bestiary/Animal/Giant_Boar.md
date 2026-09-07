@@ -5,7 +5,6 @@ name:
   full: Giant Boar
   aliases: []
 description: "A thousand-pound apex boar of northern forests, standing five feet at the shoulder and jealously guarding vast territories with barely restrained violence."
-id: lZvL9MY97JDX0GeN
 img: icons/game-icons/caro-asercion/boar.svg
 shortcode: gntbr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+13
     end: 1d6+12
@@ -246,14 +245,14 @@ sohl:
       calc: "600"
     reachBase: 0
     bodyScaleBase: 1.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

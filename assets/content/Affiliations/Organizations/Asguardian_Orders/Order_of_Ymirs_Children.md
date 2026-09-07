@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Initiatic warrior brotherhood of Ymir — devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
-id: fPIYDgMAxfnG6hA5
 name:
   full: The Order of Ymir's Children
   aliases:
@@ -106,7 +105,7 @@ data:
   relations:
     asguardian: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Order of Ymir's Children

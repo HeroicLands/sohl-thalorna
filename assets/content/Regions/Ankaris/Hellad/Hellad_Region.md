@@ -6,7 +6,6 @@ name:
   full: Hellád Region
   aliases:
     - Hellád
-id: fT0m0zgori7CbpJj
 shortcode: heladrgn
 img: null
 type: place

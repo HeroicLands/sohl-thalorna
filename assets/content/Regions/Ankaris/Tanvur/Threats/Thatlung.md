@@ -1,5 +1,4 @@
 ---
-id: dShd6mhcDw4j2zkN
 type: lore
 subType: history
 name:

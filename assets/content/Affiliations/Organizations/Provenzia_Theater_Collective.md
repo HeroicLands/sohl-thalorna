@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Informal but influential federation of Provenzian theater companies, performers, and patrons — shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
-id: XCUsRtdPb42Lmp8U
 name:
   full: The Provènzia Theater Collective
   aliases:
@@ -73,7 +72,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Provènzia Theater Collective

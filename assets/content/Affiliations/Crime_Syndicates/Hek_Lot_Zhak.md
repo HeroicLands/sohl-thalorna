@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
-id: sPtFcL4yWju92kUg
 name:
   full: Hëk Lōt Zhāk
   aliases:
@@ -98,7 +97,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: crimesyndicates
 ---
 

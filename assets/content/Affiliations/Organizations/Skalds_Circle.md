@@ -6,7 +6,6 @@ tags:
   - bardic
   - memory
 description: "Pan-Nordlands fellowship of skalds — keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."
-id: rsH6HddcLtiVlVGE
 name:
   full: The Skalds' Circle
   aliases:
@@ -78,7 +77,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Skalds' Circle

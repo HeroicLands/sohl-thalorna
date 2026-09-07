@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Aromatic, Strong
 description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
-id: I7u0weHNvAjOudHA
 img: icons/potion.svg
 shortcode: PtnAromS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

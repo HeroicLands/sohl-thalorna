@@ -4,7 +4,6 @@ name:
   full: Urumi
   aliases: []
 description: "Flexible-bladed whip spiraling from grip; specialist's weapon demanding conditioning."
-id: nyibb1NL4ZONuZIf
 img: icons/sword.svg
 shortcode: Urumi
 type: weapongear
@@ -104,7 +103,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

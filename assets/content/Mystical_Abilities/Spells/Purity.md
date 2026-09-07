@@ -5,7 +5,6 @@ name:
   aliases:
     - Probity
 description: "Purifies water and food; removes toxins and contamination."
-id: kJZzNhmiLuazVFeO
 img: icons/divination.svg
 shortcode: purity
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Probity
 packFolder: spells

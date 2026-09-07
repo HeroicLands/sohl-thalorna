@@ -3,7 +3,6 @@ name:
   full: "Grukarholm"
 shortcode: grukarholm
 type: folder
-id: CNzTSOtYWZwLyp5k
 data:
   parent:
     default: polities

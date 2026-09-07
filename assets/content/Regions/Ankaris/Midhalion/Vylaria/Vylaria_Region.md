@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: GHIXrjvkfpw2yc6e
 description: ""
 type: place
 subType: region

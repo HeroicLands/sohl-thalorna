@@ -3,7 +3,6 @@ tags: []
 name:
   full: Negation
   aliases: []
-id: ABd6DgjjBbcN8FjE
 img: icons/psionics.svg
 shortcode: negx
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

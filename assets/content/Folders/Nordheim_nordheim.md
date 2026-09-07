@@ -3,7 +3,6 @@ name:
   full: "Nordheim"
 shortcode: nordheim
 type: folder
-id: tUOAFxX25mViDE7q
 data:
   parent:
     default: polities

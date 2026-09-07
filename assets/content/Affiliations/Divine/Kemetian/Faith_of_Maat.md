@@ -1,6 +1,5 @@
 ---
 description: "Order."
-id: 8UDuoqZwGQlSCCc7
 tags:
   - kemetian
   - religion
@@ -98,7 +97,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Má'át
   aliases:

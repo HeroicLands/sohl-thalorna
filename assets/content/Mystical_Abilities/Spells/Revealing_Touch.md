@@ -5,7 +5,6 @@ name:
   aliases:
     - Unveiling
 description: "Ripple of light disrupts illusions and glamours completely."
-id: 8Mt1v3MGhipA2U9I
 img: icons/wind.svg
 shortcode: rvltch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Unveiling
 packFolder: spells

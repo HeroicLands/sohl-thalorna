@@ -6,7 +6,6 @@ name:
   aliases:
     - Atarzari Language
 description: "The tongue of Atarzari people."
-id: KdhLK3zMw79DU7AY
 img: icons/speaking.svg
 shortcode: atarzadilng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

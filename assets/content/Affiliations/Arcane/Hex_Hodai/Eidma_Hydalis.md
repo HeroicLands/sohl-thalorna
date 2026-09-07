@@ -86,7 +86,6 @@ data:
     pyrethos: nemesis
     sideros: aligned
     physera: aligned
-id: RqGGvxWFLseXFR0v
 shortcode: hydalis
 img: images/affiliation/hydalis.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Hydälis
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: water
 packFolder: affiliationshexhodai

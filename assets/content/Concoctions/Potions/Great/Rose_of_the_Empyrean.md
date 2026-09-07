@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Aromatic, Great
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
-id: jsWCHw8upvvnGiEb
 img: icons/potion.svg
 shortcode: PtnAromG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

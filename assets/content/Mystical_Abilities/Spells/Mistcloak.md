@@ -5,7 +5,6 @@ name:
   aliases:
     - Pall
 description: "Surrounds caster in concealing mist; obscures vision and movement."
-id: hpaBzKNMHwozkuek
 img: icons/water.svg
 shortcode: mstclk
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Pall
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: N2RXl0qu1TbhTref
 tags:
   - city-state
   - city

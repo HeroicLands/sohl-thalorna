@@ -12,7 +12,6 @@ name:
     - Nine Mountains
     - Thātvōng
     - Kingdom of Mountains and Seas
-id: X3mxTrn5z3vxzI0C
 shortcode: jurthatempr
 img: null
 type: affiliation
@@ -116,7 +115,7 @@ data:
     tngvkvnlei: aligned
     tanvurempr: rival
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: jurthat
 ---
 

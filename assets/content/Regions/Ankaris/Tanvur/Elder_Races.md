@@ -1,5 +1,4 @@
 ---
-id: VWs3Bs2ajr3a9X7w
 type: lore
 subType: folk
 name:

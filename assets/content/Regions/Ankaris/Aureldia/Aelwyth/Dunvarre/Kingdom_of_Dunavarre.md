@@ -1,5 +1,4 @@
 ---
-id: zOfXdRgVLSW3Tvt3
 description: "Island kingdom of Aelwyth ruled directly by a synod of Ordo Arcanis mages — unique on Ankaris as the only polity where the Ordo holds direct political power."
 type: affiliation
 name:
@@ -115,7 +114,7 @@ data:
     tanvurempr: unaligned
     vylarinmpr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: aelwyth
 ---
 

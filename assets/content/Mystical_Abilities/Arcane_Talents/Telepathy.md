@@ -3,7 +3,6 @@ tags: []
 name:
   full: Telepathy
   aliases: []
-id: 1yyCbhSjbki38JNd
 img: icons/psionics.svg
 shortcode: telp
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

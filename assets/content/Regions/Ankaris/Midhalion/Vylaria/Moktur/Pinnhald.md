@@ -1,5 +1,4 @@
 ---
-id: Mk6yPx4kVm8Sb3Ld
 tags:
   - town
 description: "Timber Town"

@@ -1,5 +1,4 @@
 ---
-id: npslWzZvPEG6O2PA
 tags:
   - town
   - fishing

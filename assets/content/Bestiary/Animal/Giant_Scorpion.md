@@ -5,7 +5,6 @@ name:
   full: Giant Scorpion
   aliases: []
 description: "A ten-foot armored arachnid ambusher that waits motionless for prey, combining crushing claws with lethal venom across a multi-mile territory."
-id: D8RLnGJ3DDuh4jNr
 img: icons/game-icons/lorc/scorpion.svg
 shortcode: gntscrpn
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+13
     end: 1d6+15
@@ -152,14 +151,14 @@ sohl:
       calc: "2"
     reachBase: 0
     bodyScaleBase: 1.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 30
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

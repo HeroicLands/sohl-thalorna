@@ -1,6 +1,5 @@
 ---
 description: "Fertility, Agriculture, Peace, and Healing."
-id: L6VRwvMCiSPtVYGb
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: freyr
 img: images/affiliation/freyr.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

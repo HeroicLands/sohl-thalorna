@@ -5,7 +5,6 @@ name:
   aliases:
     - Tube
 description: "Establishes flowing channel; directs water, air, or energy through."
-id: kIDckuJ9okXrbTKj
 img: icons/wind.svg
 shortcode: conduit
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tube
 packFolder: spells

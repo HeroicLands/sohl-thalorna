@@ -5,7 +5,6 @@ name:
   full: Vaporwisp
   aliases: []
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
-id: SZSbxQbHhZFFCLQh
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: vprwsp
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+4
     end: 1d6+6
@@ -97,17 +96,17 @@ sohl:
             fire: 0
     weight:
       base: 0
-      calc: 0
+      calc: "0"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

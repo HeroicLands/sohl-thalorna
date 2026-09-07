@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Coagulant, Strong
 description: "Deep maroon almost-black coagulant; stops bleeding effectively."
-id: DKbB1Gurlr0iCfSz
 img: icons/potion.svg
 shortcode: PtnCoagS
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "strong"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: strong
 ---
 

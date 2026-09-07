@@ -5,7 +5,6 @@ name:
   aliases:
     - Feel
 description: "Grants empathic perception; detects nearby emotions and thoughts."
-id: AGDIBlqVdMHfEas9
 img: icons/divination.svg
 shortcode: sense
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Feel
 packFolder: spells

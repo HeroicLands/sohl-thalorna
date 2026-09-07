@@ -1,5 +1,4 @@
 ---
-id: iQTHtAiRU23I8F6g
 description: "Mountain fortress-city of the Byzarian League guarding the eastern passes — silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
 type: affiliation
 name:
@@ -107,7 +106,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: byzaria
 ---
 

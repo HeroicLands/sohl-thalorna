@@ -6,7 +6,6 @@ name:
   full: Mature Ice Dragon
   aliases: []
 description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot wings, an ancient architect of its own legend after centuries of scheming."
-id: 2tsk1oPbOk4V5jJf
 img: icons/game-icons/faithtoken/dragon-head.svg
 shortcode: mtricdrg
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+45
     end: 1d6+33
@@ -297,21 +296,21 @@ sohl:
       calc: "3000"
     reachBase: 0
     bodyScaleBase: 2.61
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 65
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: aerial
       feetPerRound: 190
       leaguesPerWatch: 16
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

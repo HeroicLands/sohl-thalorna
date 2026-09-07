@@ -5,7 +5,6 @@ name:
   aliases:
     - Whisper
 description: "Whispered suggestion influencing target's thoughts and decisions."
-id: I9GfCc23Fy2X2yJy
 img: icons/wind.svg
 shortcode: murmur
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Whisper
 packFolder: spells

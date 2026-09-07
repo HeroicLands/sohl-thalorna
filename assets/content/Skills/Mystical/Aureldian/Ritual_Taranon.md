@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: FFQe2Tdg5t5AcOH4
 shortcode: taranon
 img: images/affiliation/taranon.webp
 name:
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: aureldian
 ---
 

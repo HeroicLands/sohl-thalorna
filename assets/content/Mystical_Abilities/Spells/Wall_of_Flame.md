@@ -5,7 +5,6 @@ name:
   aliases:
     - Doom Curtain
 description: "Creates barrier of fire; blocks passage and burns."
-id: V1ka8e6W199sQuPC
 img: icons/fire.svg
 shortcode: wllfflm
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Doom Curtain
 packFolder: spells

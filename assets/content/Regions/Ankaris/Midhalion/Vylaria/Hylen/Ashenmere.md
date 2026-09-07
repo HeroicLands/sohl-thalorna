@@ -1,5 +1,4 @@
 ---
-id: lmR93dIZz6Bv7Vwh
 tags:
   - town
   - border

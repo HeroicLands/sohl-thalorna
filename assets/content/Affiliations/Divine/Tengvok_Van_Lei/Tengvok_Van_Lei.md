@@ -1,5 +1,4 @@
 ---
-id: 99l2h4yB0fzlO9Xt
 tags:
   - pantheon
   - celestial-order
@@ -101,7 +100,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonstengvokvanlei
 ---
 

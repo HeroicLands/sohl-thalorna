@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: b2xfP8K3h0PxyQSK
 shortcode: baldr
 img: images/affiliation/baldr.webp
 name:
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: asguardian
 ---
 

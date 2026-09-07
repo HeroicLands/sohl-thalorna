@@ -5,7 +5,6 @@ name:
   aliases:
     - Earthwork
 description: "Caster becomes immobile; hardens body against incoming strike and damage."
-id: MfKkYChM6yQIBNdK
 img: icons/tree.svg
 shortcode: fortress
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Earthwork
 packFolder: spells

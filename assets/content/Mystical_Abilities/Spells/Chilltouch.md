@@ -5,7 +5,6 @@ name:
   aliases:
     - Freeze
 description: "Caster's hand withers flesh with unnatural cold on contact."
-id: mbacVAAdTiHJCYZJ
 img: icons/water.svg
 shortcode: chlltch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Freeze
 packFolder: spells

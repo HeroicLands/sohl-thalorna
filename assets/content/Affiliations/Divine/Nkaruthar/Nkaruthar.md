@@ -1,6 +1,5 @@
 ---
 description: "Creation, destruction, and renewal."
-id: Uyp9QEsfwpKzMwWX
 tags:
   - pantheon
 name:
@@ -102,7 +101,7 @@ data:
     - nkaruthar
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsnkaruthar
 ---
 

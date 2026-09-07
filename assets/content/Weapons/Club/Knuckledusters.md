@@ -4,7 +4,6 @@ name:
   full: Knuckledusters
   aliases: []
 description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
-id: 9fUBzprkjX25L734
 img: icons/knuckledusters.svg
 shortcode: kncldstr
 type: weapongear
@@ -60,7 +59,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

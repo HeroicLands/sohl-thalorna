@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: Vx0cYWArc0EIPhtK
 shortcode: mithara
 name:
   full: "Ritual: Míthárä"
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: ashalan
 ---
 

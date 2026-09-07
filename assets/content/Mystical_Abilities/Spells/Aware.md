@@ -5,7 +5,6 @@ name:
   aliases:
     - Sensation
 description: "Sharpens senses; target perceives details invisible to normal sight."
-id: WyT3hAtNmZha5yRJ
 img: icons/divination.svg
 shortcode: aware
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sensation
 packFolder: spells

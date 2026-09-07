@@ -1,6 +1,5 @@
 ---
 description: "Dreams."
-id: xgTqdoirwfp6ngyF
 tags:
   - religion
   - zarvanya
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Zárványä
   aliases:

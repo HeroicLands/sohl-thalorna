@@ -5,7 +5,6 @@ name:
   aliases:
     - Meld
 description: "Joins two beings together; creates mystical sympathetic bond."
-id: Olccims1BPfJZ0lV
 img: icons/tree.svg
 shortcode: unite
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Meld
 packFolder: spells

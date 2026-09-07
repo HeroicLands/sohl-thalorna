@@ -5,7 +5,6 @@ name:
   full: Sky Serpent
   aliases: []
 description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
-id: IufOc6e3iYJZ46GV
 img: icons/game-icons/lorc/harpy.svg
 shortcode: skysrpnt
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+17
     end: 1d6+12
@@ -153,14 +152,14 @@ sohl:
       calc: "150"
     reachBase: 0
     bodyScaleBase: 1.52
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: wetlands

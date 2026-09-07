@@ -5,7 +5,6 @@ name:
   full: Ironjaw
   aliases: []
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
-id: HKFCGWSqLCYSzPqf
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: ironjaw
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+12
     end: 1d4+12
@@ -232,17 +231,17 @@ sohl:
             fire: 10
     weight:
       base: 250
-      calc: 250
+      calc: "250"
     reachBase: 0
     bodyScaleBase: 1.22
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

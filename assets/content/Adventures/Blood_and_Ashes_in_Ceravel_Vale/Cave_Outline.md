@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: xtuTF2bDckVdkrE5
 type: scenario
 subType: adventure
 data:

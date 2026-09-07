@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: w0iPY8iUaUM0j5wZ
 shortcode: freyr
 img: images/affiliation/freyr.webp
 name:
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: asguardian
 ---
 

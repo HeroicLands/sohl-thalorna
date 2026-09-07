@@ -1,6 +1,5 @@
 ---
 description: "Fertility, Water, Life, Healing."
-id: 1Go7PyToz0pzuoCy
 tags:
   - religion
   - fertility
@@ -97,7 +96,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Zúráthrä
   aliases:

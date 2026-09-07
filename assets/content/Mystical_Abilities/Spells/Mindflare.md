@@ -5,7 +5,6 @@ name:
   aliases:
     - Thought
 description: "Burst of psychic pain disorienting multiple targets simultaneously."
-id: nQVzlfZnDKC8VxiB
 img: icons/divination.svg
 shortcode: mndflr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Thought
 packFolder: spells

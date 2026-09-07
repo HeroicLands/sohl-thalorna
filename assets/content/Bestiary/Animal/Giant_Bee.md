@@ -5,7 +5,6 @@ name:
   full: Giant Bee
   aliases: []
 description: "A wolf-sized insect and hive worker directed by pheromone signals, defending colossal colonies of hundreds or thousands as one collective intelligence."
-id: LBdgt05Nh0uI1pIt
 img: icons/game-icons/lorc/bee.svg
 shortcode: giantbee
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+6
     end: 1d6+7
@@ -221,14 +220,14 @@ sohl:
       calc: "1"
     reachBase: 0
     bodyScaleBase: 0.88
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

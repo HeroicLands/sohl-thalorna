@@ -7,7 +7,6 @@ name:
   aliases:
     - Dhanurkota
     - The Janapada of the Bow-Fort
-id: D7nKwH4mRpQ8vLxZ
 shortcode: dhnrktjnpd
 subType: polity
 data:
@@ -111,7 +110,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 packFolder: vedyara
 ---

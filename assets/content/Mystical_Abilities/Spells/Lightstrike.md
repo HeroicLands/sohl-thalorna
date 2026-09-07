@@ -5,7 +5,6 @@ name:
   aliases:
     - Beam
 description: "Beam of brilliant light; sears flesh and ignites combustibles."
-id: 80LK9IiNEz12WDkk
 img: icons/wind.svg
 shortcode: lghtstrk
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Beam
 packFolder: spells

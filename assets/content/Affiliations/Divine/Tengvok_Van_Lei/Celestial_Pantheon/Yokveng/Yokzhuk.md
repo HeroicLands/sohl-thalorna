@@ -1,6 +1,5 @@
 ---
 description: "Lies."
-id: rsaiaVKGg0AN8LUC
 tags:
   - yokveng
   - celestial-order
@@ -105,7 +104,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: yokveng
 ---
 

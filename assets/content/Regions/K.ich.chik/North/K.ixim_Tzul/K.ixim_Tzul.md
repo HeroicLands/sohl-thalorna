@@ -5,7 +5,6 @@ description: Boreal forests, tundra, and caribou migrations — the subarctic ho
 name:
   full: K'ixim Tzul
   aliases: []
-id: V1Y04Ph8jthE1Fw0
 shortcode: kiximtzul
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 packFolder: kiximtzul
 ---

@@ -5,7 +5,6 @@ name:
   full: Phosphorescent Globule
   aliases: []
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
-id: WQjWcb6PtRpcRxGe
 img: icons/game-icons/delapouite/slime.svg
 shortcode: phsphrsc
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+6
     end: 1d6+14
@@ -151,17 +150,17 @@ sohl:
             fire: 3
     weight:
       base: 10
-      calc: 10
+      calc: "10"
     reachBase: 0
     bodyScaleBase: 0.94
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 30
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

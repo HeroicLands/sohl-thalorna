@@ -5,7 +5,6 @@ name:
   aliases:
     - Enigma
 description: "Conceals object or location from magical detection permanently."
-id: TUqns3vvzIPK7a1o
 img: icons/water.svg
 shortcode: mystery
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Enigma
 packFolder: spells

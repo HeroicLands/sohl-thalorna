@@ -5,7 +5,6 @@ name:
   aliases:
     - Tremor
 description: "Ground shakes violently; disrupts footing and causes damage."
-id: hnJAdEW1W2P9ouq0
 img: icons/tree.svg
 shortcode: quake
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tremor
 castingTime: 1 round

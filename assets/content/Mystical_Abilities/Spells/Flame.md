@@ -4,7 +4,6 @@ name:
   full: Flame
   aliases: []
 description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
-id: WBjsWdfKSwApBpN4
 img: icons/fire.svg
 shortcode: flame
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Flame
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: xwXCIHtqjRX4AyUB
 tags:
   - city
   - trading

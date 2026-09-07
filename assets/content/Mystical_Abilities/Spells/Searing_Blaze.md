@@ -5,7 +5,6 @@ name:
   aliases:
     - Burn
 description: "Conjures intense flames; caster's touch ignites and burns."
-id: L4bZkSeC6fgUY5rs
 img: icons/fire.svg
 shortcode: srgblz
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Burn
 packFolder: spells

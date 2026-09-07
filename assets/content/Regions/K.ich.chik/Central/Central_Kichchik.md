@@ -1,5 +1,4 @@
 ---
-id: ulBQTuyyMdgRsVWW
 tags:
   - region
 description: "The centralern reach of the K'ich'chik continent and its city-states."

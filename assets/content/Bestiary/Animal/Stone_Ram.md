@@ -5,7 +5,6 @@ name:
   full: Stone Ram
   aliases: []
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
-id: ev0hqSRmPJlFtV7E
 img: icons/game-icons/delapouite/sheep.svg
 shortcode: stoneram
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+12
     end: 1d6+11
@@ -246,14 +245,14 @@ sohl:
       calc: "350"
     reachBase: 0
     bodyScaleBase: 1.28
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: topography
           key: steep

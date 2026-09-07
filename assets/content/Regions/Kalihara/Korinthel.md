@@ -1,5 +1,4 @@
 ---
-id: RRmQE1eVIBxDLVXi
 tags:
   - port
   - trading

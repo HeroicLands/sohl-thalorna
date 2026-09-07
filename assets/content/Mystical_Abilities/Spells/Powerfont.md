@@ -5,7 +5,6 @@ name:
   aliases:
     - Well
 description: "Channel of raw power; caster draws energy for spellcasting."
-id: ZT89ak4pgsI1brgE
 img: icons/circle.svg
 shortcode: pwrfnt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Well
 packFolder: spells

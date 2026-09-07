@@ -5,7 +5,6 @@ name:
   full: Cragclimber
   aliases: []
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."
-id: lehcDkx0YgAsYjaw
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: crgclmbr
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+10
     end: 1d4+12
@@ -229,17 +228,17 @@ sohl:
             fire: 5
     weight:
       base: 200
-      calc: 200
+      calc: "200"
     reachBase: 0
     bodyScaleBase: 1.11
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: topography
           key: steep

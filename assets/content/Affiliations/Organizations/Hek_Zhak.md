@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Rogue Shadow Sect of escaped Vëndük sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
-id: 3IyOxH4SUjooEbfH
 name:
   full: Hëk Zhāk
   aliases:
@@ -99,7 +98,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: organizations
 ---
 

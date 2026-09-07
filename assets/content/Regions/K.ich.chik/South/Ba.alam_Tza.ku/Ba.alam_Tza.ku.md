@@ -5,7 +5,6 @@ description: "Jewel of the southern K'ich'chik: volcanic peaks, terraced valleys
 name:
   full: Ba'alam Tza'ku
   aliases: []
-id: POOjlSix7q3cOVCo
 shortcode: balamtzaku
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Equador, Peru, western Brazil
 packFolder: baalamtzaku
 ---

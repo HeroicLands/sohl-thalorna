@@ -5,7 +5,6 @@ name:
   full: Sand Wurm
   aliases: []
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
-id: 7hW9W4pXEtgVMSMD
 img: icons/game-icons/lorc/worm-mouth.svg
 shortcode: sandwurm
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+33
     end: 1d6+27
@@ -153,14 +152,14 @@ sohl:
       calc: "2000"
     reachBase: 0
     bodyScaleBase: 2.2
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: dunes

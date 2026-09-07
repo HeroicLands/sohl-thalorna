@@ -5,7 +5,6 @@ name:
   aliases:
     - Tarvéni
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
-id: x0vt7K08NQZPeVL0
 img: icons/speaking.svg
 shortcode: tarvenlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":

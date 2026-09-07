@@ -5,7 +5,6 @@ name:
   full: Gloomsprite
   aliases: []
 description: "A fey trickster of the shadow-touched borderlands who delights in puzzles and bargains, leading travelers astray to punish broken unspoken promises."
-id: TzpgPd5BTOfbWPIY
 img: icons/game-icons/delapouite/fairy.svg
 shortcode: glmsprt
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     end: 1d4+5
     dex: 1d6+6
@@ -206,17 +205,17 @@ sohl:
             fire: 0
     weight:
       base: 0
-      calc: 0
+      calc: "0"
     reachBase: 0
     bodyScaleBase: 0.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

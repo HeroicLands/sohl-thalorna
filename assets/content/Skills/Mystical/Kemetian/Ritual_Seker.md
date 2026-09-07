@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: Ru9ClYULaK1GevP1
 shortcode: seker
 name:
   full: "Ritual: Sēker"
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: kemetian
 ---
 

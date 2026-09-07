@@ -5,7 +5,6 @@ name:
   aliases:
     - Gloomweb
 description: "Binds shadow of target; restricts movement to caster's proximity."
-id: 1ONlJrf3JbwKd9Cz
 img: icons/water.svg
 shortcode: shdwbnd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Gloomweb
 packFolder: spells

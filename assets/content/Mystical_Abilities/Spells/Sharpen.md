@@ -5,7 +5,6 @@ name:
   aliases:
     - Focus
 description: "Sharpens blade; grants keener edge and cutting power."
-id: l7KVpqQvsbTiL5Ic
 img: icons/circle.svg
 shortcode: sharpen
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Focus
 packFolder: spells

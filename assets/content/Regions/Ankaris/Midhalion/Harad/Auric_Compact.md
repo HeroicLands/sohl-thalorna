@@ -85,8 +85,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: YVSd04e4cl22zOrC
+  templatePriority: null
 name:
   full: Auric Compact
   aliases: []

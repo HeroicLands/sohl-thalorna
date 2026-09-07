@@ -3,7 +3,6 @@ tags: []
 name:
   full: Prescience
   aliases: []
-id: wFQGHGOjYdp98VlC
 img: icons/psionics.svg
 shortcode: psnc
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

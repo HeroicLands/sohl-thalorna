@@ -1,5 +1,4 @@
 ---
-id: jbVHqLXPUnCyns3h
 name:
   full: Regions
   aliases: []

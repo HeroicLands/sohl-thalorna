@@ -1,5 +1,4 @@
 ---
-id: uM30bv1vjebkm1kN
 tags:
   - continent
   - kalihara

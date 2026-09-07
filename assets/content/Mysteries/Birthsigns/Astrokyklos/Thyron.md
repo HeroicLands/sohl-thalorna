@@ -4,14 +4,13 @@ name:
   full: Thyron
   aliases: []
 description: "The Gate: born to the blade and hard to unnerve, blunt company in hall or market."
-id: aAfvLe0BicQaJg1Y
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: thyron
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": -5

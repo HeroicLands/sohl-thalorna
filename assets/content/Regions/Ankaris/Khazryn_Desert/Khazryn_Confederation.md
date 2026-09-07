@@ -7,7 +7,6 @@ name:
   aliases:
     - The League of Princely Houses
     - Princes of the Khazryn
-id: Q9XLm5Jr3wD8nKvT
 shortcode: khzrncnfdrtn
 subType: polity
 data:
@@ -112,7 +111,7 @@ data:
     tribestrzd: nemesis
     sultntmrdd: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Canaanites of the post-Conquest period — indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 packFolder: khazryndesert
 ---

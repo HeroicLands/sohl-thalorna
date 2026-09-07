@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Stimulant, Great
 description: "Blazing red-gold liquid; grants enhanced strength and physical power."
-id: Zvc03XNhctw5xXAd
 img: icons/potion.svg
 shortcode: PtnStmG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

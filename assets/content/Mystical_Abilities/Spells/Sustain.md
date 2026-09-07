@@ -5,7 +5,6 @@ name:
   aliases:
     - Victual
 description: "Maintains vital functions; prevents death and continues existence."
-id: iLSVpMCMOjb8wFoV
 img: icons/tree.svg
 shortcode: sustain
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Victual
 packFolder: spells

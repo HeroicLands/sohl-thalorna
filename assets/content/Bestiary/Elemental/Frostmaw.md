@@ -5,7 +5,6 @@ name:
   full: Frostmaw
   aliases: []
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
-id: eUOcXzXo2vWIG2sf
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: frostmaw
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+45
     end: 1d4+14
@@ -234,14 +233,14 @@ sohl:
       calc: "23000"
     reachBase: 0
     bodyScaleBase: 2.61
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

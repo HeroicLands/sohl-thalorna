@@ -1,6 +1,5 @@
 ---
 tags: []
-id: HTh8JlSd0SBAlclH
 name:
   full: Grukar Folk
   aliases:

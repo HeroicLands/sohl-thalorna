@@ -4,7 +4,6 @@ name:
   full: Green Dragon Crescent Blade
   aliases: []
 description: "Curved polearm blade for slashing across multiple foes."
-id: 7qGCDLyqpA1ejoyQ
 img: icons/polearm.svg
 shortcode: GunDao
 type: weapongear
@@ -148,7 +147,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

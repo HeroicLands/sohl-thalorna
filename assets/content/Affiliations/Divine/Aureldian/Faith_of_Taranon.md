@@ -1,6 +1,5 @@
 ---
 description: "Storms."
-id: c5QQBhuSwvnzYVgD
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Taranon
   aliases:

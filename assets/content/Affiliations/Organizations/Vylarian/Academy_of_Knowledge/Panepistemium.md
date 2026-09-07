@@ -7,7 +7,6 @@ tags:
   - midhalion
   - philosophy
 description: "Ancient scholarly federation of all human knowledge, co-opted as intellectual cover for the Ordo Arcanis's spread through chapterhouses across western Ankaris."
-id: zxIojNlekf2UacyG
 name:
   full: Panepistemium
   aliases:
@@ -101,7 +100,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: academyofknowledge
 ---
 
