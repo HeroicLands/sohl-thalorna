@@ -92,6 +92,7 @@ data:
     - rhysgensprt
     - gwalchensprt
     - arthgensprt
+    - tanwensprt
   seat: null
   domains: []
   population: null
@@ -107,6 +108,7 @@ data:
     - rhysgenspr
     - gwalchenspr
     - arthgenspr
+    - tanwenspr
   parents:
     - firstgods
   relations:

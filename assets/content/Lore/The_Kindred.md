@@ -49,7 +49,7 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 - **Place-kin** — Spirits whose domain is a specific place rather than a lineage of living things. Grove-keepers of particular old-growth stands. Stone-warders of cairns, ridges, standing stones. Cave-spirits of the deep places. Threshold-spirits of the passes and crossings.
 - **Water-kin** — Spirits of rivers, lakes, springs, and falls. Often addressed as "mothers" (the river-mothers) regardless of their specific character. Water-kin are consulted in matters of travel, crossing, drowning, and cleansing.
 - **Weather-kin** — Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances — a storm approaching, a fire to be kindled or quenched — rather than on a standing basis.
-- **Hearth-kin** — Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing.
+- **Hearth-kin** — Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing — the greatest of them [[lore-tanwenspr|Tanwen]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
 
 A given Kindred may serve the [[affiliation-firstgods#The Bright|Bright]], the [[affiliation-firstgods#The Dark|Dark]], or both. The affiliations are not doctrinal. They are observed — a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
@@ -73,9 +73,10 @@ through any rite of the tradition at large.
 | [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]       | Animal-kin  | the Drenavar Spine                     | [[skill-gwalchensprt\|Gwalchen Spirit Power]]      |
 | [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]     | Animal-kin  | [[place-owlhollow\|The Owl Hollow]]    | [[skill-nyfainsprt\|Nyfain Spirit Power]]          |
 | [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                     | [[skill-rhysgensprt\|Rhysgen Spirit Power]]        |
+| [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | Hearth-kin  | [[place-eshalshldg\|Eshálosha Lodge]]  | [[skill-tanwensprt\|Tanwen Spirit Power]]          |
 
-Hearth-kin are the one category with no named exemplar here; the lodges hold their own, and
-[[place-eshalshldg\|Eshálosha]]'s is the most powerful of them.
+All five kinds of Kindred have a named exemplar. Tanwen is the one met indoors, and the one every
+Áelendan meets, since every tribe comes to Eshálosha to gather.
 
 ## Relationship with the Tribes
 
