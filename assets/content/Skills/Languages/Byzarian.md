@@ -113,7 +113,7 @@ These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Co
 
 ## Script and Literacy
 
-Byzarian is written in the **Byzarian alphabet**, which is an adaptation of the Helonic script with additional letters for eastern sounds:
+Byzarian is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet, adapted with additional letters for eastern sounds:
 
 - **Helonic base:** The core 24-letter Helonic alphabet, with simplified vowel distinctions (6 vowels retained from the original 7)
 - **Byzarian additions for eastern sounds:** Additional letters for zh, kh variants, and diacritics for vowel length
