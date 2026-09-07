@@ -132,7 +132,7 @@ The three aspects are not rivals but necessary complements — spirit without st
 
 ## The Zohira: Intermediary Spirits
 
-Between Nkaru'thar and the mortal world stand the **zohira** — demi-gods or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death, and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the city-states to simple stone cairns in tribal territories.
+Between Nkaru'thar and the mortal world stand the **[[lore-zohira|zohira]]** — demi-gods or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death, and the hunt. The shamanic tradition that deals with them is the [[affiliation-njiayaroho|Njia ya Roho]], which is not a branch of this faith but the older ground it stands on. Their shrines are scattered across the kingdom, from the pyramidal complexes of the city-states to simple stone cairns in tribal territories.
 
 The zohira are not worshipped as independent gods but understood as emissaries and servants of the Eternal Flame, each governing a particular domain of mortal experience. Rural tribes maintain especially close relationships with their local zohira, with shamans who can commune with these spirits, interpret their will, and intercede on behalf of their people. The Shókuma tribe's tradition of **spirit communion** and the Magara people's connection to **Spirit Blades** — weapons blessed by the zohira — exemplify this deeply personal dimension of the faith.
 
@@ -225,6 +225,33 @@ Outside the city-states, the faith is maintained by **shamans** (often called **
 **Fighting Orders:**
 
 - **The Ashborn:** Elite warrior-priests of Vuthráka who have passed the Trial of Three Flames and bear the Warden's Brand. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
+
+## A Worshipped Faith on Older Ground
+
+Nkaru'thar is **worshipped**, and that distinguishes it from the ground it stands on. To be Okháric
+is already to be of the spirits — the [[affiliation-njiayaroho|Njia ya Roho]] is not joined, not
+professed and not chosen; it is what being Okháric consists of, and nobody is received into it
+because nobody was ever outside it.
+
+The Eternal Flame is different in kind. It is a religion in the full sense: a deity worshipped, a
+doctrine assented to, a priesthood ordained, a hierarchy climbed. It came to a people who already
+had their cairns, and it did not replace them.
+
+Because it is professed, it can in principle be professed otherwise. An Okháric who takes up
+another god — a Kemetían deity met through the Ta'Kheperu trade, a Vylarian import at the coast —
+has not stopped being Okháric and has not left the zohira, who were never a matter of profession.
+What they have done is decline the Flame, and the Flame is the state religion of a kingdom whose
+Overlord is titled Keeper of the Three Flames.
+
+In the tribal country this is survivable and is treated as an eccentricity. In the city-states it
+is not. The Vuthráka priesthood regards refusal of the Flame as a matter touching the defence of
+Okháris itself, and the practical distinction between heresy and treason has never been drawn with
+any care. People do it. Rather a lot of them do not do it twice.
+
+The reverse case does not arise. There is no apostasy from the Spirit Path, because there is
+nothing to renounce — only [[affiliation-njiayaroho|Spirit-Deafness]], which is inflicted rather
+than chosen, and which the Okhárics regard as a far worse thing to have happen to a person than
+being burned for refusing the Flame.
 
 ## Relationship to Other Faiths
 

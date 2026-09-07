@@ -20,22 +20,25 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarchy and no ordination: standing is conferred by the Spirit Hunt and confirmed by the
-      tribe, and a shaman holds no rank whatever within the temple hierarchy of the Eternal Flame.
-      Elders teach and judge readiness; nobody commands.
+      Not joined and not professed: every Okháric is of the spirits by being Okháric, and the
+      ladder measures only how far into that a person has gone. Standing above the common is
+      conferred by the Spirit Hunt and confirmed by the tribe; elders teach and judge readiness,
+      and nobody commands.
     ranks:
       - level: 0
         title: Spirit-Deaf
-        lore: excmmnctrnk
+        lore: outlawrnk
         description: >-
-          Cut off by the zohira and by those who speak with them — the bond broken or refused, and
-          no cairn in the country will answer them again.
+          Cut off by the zohira and by those who speak with them, and no cairn in the country will
+          answer them again. This is not excommunication from a faith; it is expulsion from what
+          being Okháric consists of, and it is not recoverable.
       - level: 1
-        title: Uninitiated
-        lore: catechumenrnk
+        title: Of the People
+        lore: kinsmanrnk
         description: >-
-          Keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman
-          rather than speaking for themselves — nearly everyone, all their lives.
+          Every Okháric, from birth and without joining anything: keeping the local cairns, leaving
+          what the tribe's zohira are owed, and going to a shaman rather than speaking for
+          themselves. Nearly everyone, all their lives.
       - level: 2
         title: Candidate of the Hunt
         lore: initiaternk
@@ -105,12 +108,20 @@ The **Njia ya Roho** — the Spirit Path — is the shamanic tradition of the Ok
 practice of standing in relationship with the [[lore-zohira|zohira]], the intermediary spirits
 that govern rivers, storms, the hunt, fertility and death.
 
-It is not a branch of [[affiliation-nkaruthar|Nkaru'thar]] and it is not a rival to it. The two
-are held at once, by the same people, without contradiction. The Eternal Flame is a religion —
-doctrine, temples, an ordained priesthood, and a hierarchy that runs from the Mwanafunzi to the
-High Pyremant. The Spirit Path is not a religion at all in that sense. It has no doctrine to
-assent to, no temple, no ordination, and no rank; what it has is a set of particular relationships
-with particular spirits, and the people who can conduct them.
+It is not a branch of [[affiliation-nkaruthar|Nkaru'thar]] and it is not a rival to it, and the
+two are not the same kind of thing at all.
+
+**The Spirit Path is not professed; it is what being Okháric consists of.** Nobody converts to it,
+nobody is received into it, and there is no moment at which a person begins. An Okháric child is of
+the spirits in the way it is of its mother's kin — by being born where it was born, to people who
+keep those cairns. The tradition has no doctrine to assent to, no temple, no ordination and no
+congregation, because it has no membership to define: it is the substrate, and everyone is standing
+on it.
+
+**[[affiliation-nkaruthar|The Eternal Flame]], by contrast, is worshipped.** It is a religion in the
+full sense — doctrine, temples, an ordained priesthood, and a hierarchy running from the Mwanafunzi
+to the High Pyremant — and it is professed, which means it is in principle a thing a person could
+profess differently. That asymmetry is the whole shape of Okháric religious life.
 
 An Okháric villager goes to the pyramid at the turning of the year and to the cairn when the river
 is wrong.

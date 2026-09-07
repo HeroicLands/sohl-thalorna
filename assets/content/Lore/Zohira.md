@@ -29,10 +29,22 @@ spirits, interpret their will, and intercede on behalf of their people.
 ## Two Traditions, One People
 
 An Okháric villager keeps both [[affiliation-nkaruthar|the Eternal Flame]] and the zohira, and
-sees no tension in it. The temple religion and the shamanic tradition are not rivals and are not
-alternatives: one is a faith with doctrine, a priesthood and ordained hierarchy; the other is a
-practice of relationship with particular spirits, conducted at cairns by people who hold no rank
-in any temple.
+sees no tension in it. But the two are not the same kind of thing, and the difference matters more
+than the coexistence does.
+
+**The spirits are what being Okháric is.** Nobody professes the zohira, converts to them, or is
+received among them; an Okháric is of the spirits from birth, the way they are of their mother's
+kin. There is no membership, so there is nothing to leave.
+
+**The Flame is worshipped.** It is a deity, with doctrine to assent to, temples, an ordained
+priesthood and a hierarchy — a religion that arrived among people who already had their cairns and
+did not displace them.
+
+The asymmetry has a sharp consequence: because the Flame is professed, it can be professed
+otherwise. An Okháric who takes up a foreign god has not left the zohira and has not stopped being
+Okháric — only declined the Flame. In the tribal country that is an eccentricity. In the
+city-states, where the Overlord is titled Keeper of the Three Flames, it is close enough to treason
+that the distinction is rarely worth arguing. It is done. It is not often done twice.
 
 The city priesthoods acknowledge the zohira as part of Nkaru'thar's design, and the shamans of the
 [[affiliation-njiayaroho|Njia ya Roho]] recognise the Eternal Flame as the ultimate source. A
