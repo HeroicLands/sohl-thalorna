@@ -496,7 +496,7 @@ sohl:
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 11 } }
+    - { shortcode: haradilng, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: agri, type: skill, system: { masteryLevelBase: 26 } }

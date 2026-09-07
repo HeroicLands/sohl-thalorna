@@ -493,7 +493,7 @@ sohl:
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: helnkscrpt, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 56 } }
@@ -521,7 +521,7 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: helonclng, type: skill, system: { masteryLevelBase: 45 } }
 ---
 
 # Appearance {#appearance}

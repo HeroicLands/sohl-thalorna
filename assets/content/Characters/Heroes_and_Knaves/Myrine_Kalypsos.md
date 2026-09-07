@@ -502,7 +502,7 @@ sohl:
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 65 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }

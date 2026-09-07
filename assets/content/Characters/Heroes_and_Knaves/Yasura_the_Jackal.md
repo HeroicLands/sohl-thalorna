@@ -13,7 +13,7 @@ name:
     - The Jackal-Queen
     - The Unhoused
     - Yâsûra
-folder: 7H2fgS0uI3S0B1qz
+packFolder: northernfertileregionbethua
 shortcode: yasurajckl
 img: icons/person.svg
 type: being
@@ -491,7 +491,7 @@ sohl:
     - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: morvana, type: affiliation }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: bethunlng, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 72 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }

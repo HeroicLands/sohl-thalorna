@@ -12,7 +12,7 @@ name:
   aliases:
     - The Keeper of the Purple Warrant
     - The Renegade Grammatíssa
-folder: DpqMpJYTkLYsXJYb
+packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
 img: icons/person.svg
 type: being
@@ -488,10 +488,10 @@ sohl:
     - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: menerva, type: affiliation }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 78 } }
+    - { shortcode: demtkscrpt, type: skill, system: { masteryLevelBase: 78 } }
     - { shortcode: runic, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: bethunlng, type: skill, system: { masteryLevelBase: 44 } }
     - { shortcode: law, type: skill, system: { masteryLevelBase: 62 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 58 } }
     - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }

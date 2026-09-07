@@ -491,7 +491,7 @@ sohl:
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: thrvrdhscrpt, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }

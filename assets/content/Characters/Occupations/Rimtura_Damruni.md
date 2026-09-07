@@ -494,7 +494,7 @@ sohl:
     - { shortcode: law, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 32 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: hazarscrpt, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 85 } }
@@ -519,7 +519,7 @@ sohl:
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: haradilng, type: skill, system: { masteryLevelBase: 80 } }
 ---
 
 # Appearance {#appearance}

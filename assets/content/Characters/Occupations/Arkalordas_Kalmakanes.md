@@ -521,7 +521,7 @@ sohl:
     - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: vylarilng, type: skill, system: { masteryLevelBase: 50 } }
 ---
 
 # Appearance {#appearance}

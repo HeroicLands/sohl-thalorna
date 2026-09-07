@@ -492,13 +492,13 @@ sohl:
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: hazarscrpt, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: guil, type: skill, system: { masteryLevelBase: 55 } }
     - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 13 } }
+    - { shortcode: haradilng, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
     - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
     - { shortcode: agri, type: skill, system: { masteryLevelBase: 15 } }

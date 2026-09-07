@@ -519,7 +519,7 @@ sohl:
     - { shortcode: hide, type: skill, system: { masteryLevelBase: 56 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 45 } }
+    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 45 } }
 ---
 
 # Appearance {#appearance}

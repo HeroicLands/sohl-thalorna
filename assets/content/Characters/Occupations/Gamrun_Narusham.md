@@ -518,7 +518,7 @@ sohl:
     - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 39 } }
+    - { shortcode: haradilng, type: skill, system: { masteryLevelBase: 39 } }
 ---
 
 # Appearance {#appearance}

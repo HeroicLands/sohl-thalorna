@@ -493,7 +493,7 @@ sohl:
     - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 16 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 80 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 80 } }
@@ -519,7 +519,7 @@ sohl:
     - { shortcode: musc, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: provnzlng, type: skill, system: { masteryLevelBase: 80 } }
 
 ---
 
