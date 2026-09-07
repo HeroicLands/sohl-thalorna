@@ -53,6 +53,30 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 
 A given Kindred may serve the [[affiliation-firstgods#The Bright|Bright]], the [[affiliation-firstgods#The Dark|Dark]], or both. The affiliations are not doctrinal. They are observed — a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
+## The Named Kindred
+
+Every river, every peak, every cliff, waterfall, grove and crossing has its Kindred. They are not
+enumerated, and no shaman claims to know them all — a tribe knows the ones whose territory touches
+its own, and that is the whole of anyone's knowledge.
+
+A handful are known across the tribes and are named here. These are the Kindred a shaman is most
+likely to hold a standing alliance with, and each is met through its own Spirit Power rather than
+through any rite of the tradition at large.
+
+| Kindred                                                     | Kind        | Seat                                   | Met through                                        |
+| ----------------------------------------------------------- | ----------- | -------------------------------------- | -------------------------------------------------- |
+| [[lore-aranwyspr\|Aranwy of the Long Stair]]                | Water-kin   | [[place-longstair\|The Long Stair]]    | [[skill-aranwysprt\|Aranwy Spirit Power]]          |
+| [[lore-ataanspr\|The At'aan Weird]]                         | Place-kin   | [[place-ataanweird\|The At'aan Weird]] | [[skill-ataansprt\|The At'aan Weird Spirit Power]] |
+| [[lore-awelonspr\|Awelon, the West Wind]]                   | Weather-kin | _none; he is where he blows_           | [[skill-awelonsprt\|Awelon Spirit Power]]          |
+| [[lore-cadwyrspr\|Cadwyr, the Grey Wolf of the Ridge]]      | Animal-kin  | the Drenavar Spine                     | [[skill-cadwyrsprt\|Cadwyr Spirit Power]]          |
+| [[lore-arthgenspr\|Arthgen, the Bear of the High Corries]]  | Animal-kin  | the Drenavar Spine                     | [[skill-arthgensprt\|Arthgen Spirit Power]]        |
+| [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]       | Animal-kin  | the Drenavar Spine                     | [[skill-gwalchensprt\|Gwalchen Spirit Power]]      |
+| [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]     | Animal-kin  | [[place-owlhollow\|The Owl Hollow]]    | [[skill-nyfainsprt\|Nyfain Spirit Power]]          |
+| [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                     | [[skill-rhysgensprt\|Rhysgen Spirit Power]]        |
+
+Hearth-kin are the one category with no named exemplar here; the lodges hold their own, and
+[[place-eshalshldg\|Eshálosha]]'s is the most powerful of them.
+
 ## Relationship with the Tribes
 
 Each Áelendan tribe maintains a **pact** with each of the Kindred whose territory overlaps with the tribe's — a standing relationship of offering, ceremony, and restraint. These pacts are not written, because the Áelendan do not write them; they are held in the tribe's oral tradition and transmitted through the shamen.

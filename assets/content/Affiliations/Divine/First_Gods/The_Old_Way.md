@@ -84,7 +84,14 @@ data:
         Charged with the protective songs and objects carried against the hostile Kindred, and
         with knowing whose territory must not be entered.
   commonSkills:
-    - theoldway
+    - aranwysprt
+    - awelonsprt
+    - ataansprt
+    - cadwyrsprt
+    - nyfainsprt
+    - rhysgensprt
+    - gwalchensprt
+    - arthgensprt
   seat: null
   domains: []
   population: null
@@ -92,6 +99,14 @@ data:
   lore:
     - thfrstgdsthdty
     - thekindred
+    - aranwyspr
+    - awelonspr
+    - ataanspr
+    - cadwyrspr
+    - nyfainspr
+    - rhysgenspr
+    - gwalchenspr
+    - arthgenspr
   parents:
     - firstgods
   relations:
