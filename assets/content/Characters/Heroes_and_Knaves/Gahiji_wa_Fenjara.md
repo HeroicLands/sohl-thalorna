@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gahiji
   clan: Fénjara
-  home: Ékunda
+  home: fenjaravlg
   aliases:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
@@ -57,7 +57,8 @@ sohl:
     - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: nyalbsprts, type: affiliation }
+    - { shortcode: nyalbleop, type: affiliation }
+    - { shortcode: leopardsprt, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: brew, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
