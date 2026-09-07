@@ -11,13 +11,14 @@ shortcode: okhsshscrpt
 type: skill
 subType: script
 sohl:
-  skillBaseFormula: "@rea, @per"
-  combatCategory: none
-  parentSkillCode: script
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   templatePriority: null
+  system:
+    skillBaseFormula: "@rea, @per"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: script
+    initSkillMult: 0
 packFolder: script
 flags:
   "sohl-thalorna":

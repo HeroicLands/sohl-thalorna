@@ -9,101 +9,102 @@ shortcode: Bmrg
 type: weapongear
 sohl:
   kbcat: thrown
-  durability: 11
-  weight: 1
-  value: 15
-  heft: 8
   weaponType: Club
-  strikeModes:
-    crush:
-      type: melee
-      name: Crush
-      assocSkillCode: melee
-      minParts: 1
-      attack:
-        spread: 4
-        modifier: 0
-      impactBase:
-        numDice: 1
-        die: 6
-        modifier: 0
-        aspect: blunt
-      traits:
-        meleeMod: 0
-        blockSLMod: 0
-        durabilityMod: 0
-        cxSLMod: 0
-        oppDef: 0
-        impTA: 0
-        AR: 0
-        noAttack: false
-        noBlock: false
-        entangle: false
-        envelop: false
-        couched: false
-        long: false
-        onlyInClose: false
-        shieldMod: 0
-        slow: false
-        thrust: false
-        swung: true
-        halfSword: false
-        bleed: false
-        twoHndLen: 0
-        shaft: false
-        pommel: false
-        noStrMod: false
-        halfImpact: false
-        lowAim: false
-      lengthBase: 3
-      defense:
-        blockMod: 0
-        counterstrikeMod: 0
-    ranged:
-      type: missile
-      name: Ranged
-      assocSkillCode: bmrng
-      minParts: 1
-      attack:
-        spread: 0
-        modifier: 0
-      impactBase:
-        numDice: 1
-        die: 6
-        modifier: 3
-        aspect: edged
-      traits:
-        meleeMod: 0
-        blockSLMod: 0
-        durabilityMod: 0
-        cxSLMod: 0
-        oppDef: 0
-        impTA: 0
-        AR: 0
-        noAttack: false
-        noBlock: false
-        entangle: false
-        envelop: false
-        couched: false
-        long: false
-        onlyInClose: false
-        shieldMod: 0
-        slow: false
-        thrust: false
-        swung: false
-        halfSword: false
-        bleed: false
-        twoHndLen: 0
-        shaft: false
-        pommel: false
-        noStrMod: false
-        halfImpact: false
-        lowAim: false
-      projectileType: none
-      maxVolleyMult: 3
-      baseRangeBase: 240
-      drawBase: 0
   templatePriority: null
+  system:
+    weightBase: 1
+    valueBase: 15
+    durabilityBase: 11
+    heftBase: 8
+    strikeModes:
+      crush:
+        type: melee
+        name: Crush
+        assocSkillCode: melee
+        minParts: 1
+        attack:
+          spread: 4
+          modifier: 0
+        impactBase:
+          numDice: 1
+          die: 6
+          modifier: 0
+          aspect: blunt
+        traits:
+          meleeMod: 0
+          blockSLMod: 0
+          durabilityMod: 0
+          cxSLMod: 0
+          oppDef: 0
+          impTA: 0
+          AR: 0
+          noAttack: false
+          noBlock: false
+          entangle: false
+          envelop: false
+          couched: false
+          long: false
+          onlyInClose: false
+          shieldMod: 0
+          slow: false
+          thrust: false
+          swung: true
+          halfSword: false
+          bleed: false
+          twoHndLen: 0
+          shaft: false
+          pommel: false
+          noStrMod: false
+          halfImpact: false
+          lowAim: false
+        lengthBase: 3
+        defense:
+          blockMod: 0
+          counterstrikeMod: 0
+      ranged:
+        type: missile
+        name: Ranged
+        assocSkillCode: bmrng
+        minParts: 1
+        attack:
+          spread: 0
+          modifier: 0
+        impactBase:
+          numDice: 1
+          die: 6
+          modifier: 3
+          aspect: edged
+        traits:
+          meleeMod: 0
+          blockSLMod: 0
+          durabilityMod: 0
+          cxSLMod: 0
+          oppDef: 0
+          impTA: 0
+          AR: 0
+          noAttack: false
+          noBlock: false
+          entangle: false
+          envelop: false
+          couched: false
+          long: false
+          onlyInClose: false
+          shieldMod: 0
+          slow: false
+          thrust: false
+          swung: false
+          halfSword: false
+          bleed: false
+          twoHndLen: 0
+          shaft: false
+          pommel: false
+          noStrMod: false
+          halfImpact: false
+          lowAim: false
+        projectileType: none
+        maxVolleyMult: 3
+        baseRangeBase: 240
+        drawBase: 0
 packFolder: weapons
 ---
 

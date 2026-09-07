@@ -12,13 +12,14 @@ name:
     - The Sacred Forge
     - Vúlcani Orthodox
 sohl:
-  skillBaseFormula: "@wil, @rea"
-  combatCategory: none
-  parentSkillCode: ""
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   templatePriority: null
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
 packFolder: aureldian
 ---
 

@@ -13,13 +13,14 @@ subType: exotic
 hmk:
   name: "Potion, Paralytic, Great"
 sohl:
-  quality: 0
-  durability: 5
-  value: 480
-  weight: 0.25
-  potency: "great"
-  strength: 0
   templatePriority: null
+  system:
+    weightBase: 0.25
+    valueBase: 480
+    qualityBase: 0
+    durabilityBase: 5
+    potency: "great"
+    strength: 0
 packFolder: great
 ---
 

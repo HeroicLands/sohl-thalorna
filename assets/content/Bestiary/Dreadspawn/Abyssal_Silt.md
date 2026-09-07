@@ -43,126 +43,6 @@ sohl:
     wil: 1d6+14
     rea: 1d4+9
     cre: 1d4+9
-  body:
-    structure:
-      zones:
-        - name: Core
-          shortcode: corezone
-          probWeight: 2
-        - name: Mass
-          shortcode: masszone
-          probWeight: 4
-        - name: Tendrils
-          shortcode: tendrilzone
-          probWeight: 2
-      parts:
-        - name: Core
-          shortcode: corepart
-          bodyZoneCode: corezone
-          roles:
-            - vital
-          canHoldItem: false
-          probWeight: 10
-        - name: Mass
-          shortcode: masspart
-          bodyZoneCode: masszone
-          roles:
-            - core
-            - locomotor
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Tendrils
-          shortcode: ltendrilpart
-          bodyZoneCode: tendrilzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Tendrils
-          shortcode: rtendrilpart
-          bodyZoneCode: tendrilzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-      locations:
-        - name: Core
-          shortcode: coreloc
-          bodyPartCode: corepart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Mass
-          shortcode: massloc
-          bodyPartCode: masspart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 6
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Underside
-          shortcode: underbellyloc
-          bodyPartCode: masspart
-          bleedingSusceptibility: high
-          amputability: none
-          shockValue: 4
-          probWeight: 4
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Left Tendrils
-          shortcode: ltendrilloc
-          bodyPartCode: ltendrilpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-        - name: Right Tendrils
-          shortcode: rtendrilloc
-          bodyPartCode: rtendrilpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 3
-            edged: 2
-            piercing: 1
-            fire: 3
-    weight:
-      base: 200
-      calc: "200"
-    reachBase: 0
-    bodyScaleBase: 1.17
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 20
-      leaguesPerWatch: 1
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors: []
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
@@ -252,6 +132,127 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Core
+            shortcode: corezone
+            probWeight: 2
+          - name: Mass
+            shortcode: masszone
+            probWeight: 4
+          - name: Tendrils
+            shortcode: tendrilzone
+            probWeight: 2
+        parts:
+          - name: Core
+            shortcode: corepart
+            bodyZoneCode: corezone
+            roles:
+              - vital
+            canHoldItem: false
+            probWeight: 10
+          - name: Mass
+            shortcode: masspart
+            bodyZoneCode: masszone
+            roles:
+              - core
+              - locomotor
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Tendrils
+            shortcode: ltendrilpart
+            bodyZoneCode: tendrilzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Tendrils
+            shortcode: rtendrilpart
+            bodyZoneCode: tendrilzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+        locations:
+          - name: Core
+            shortcode: coreloc
+            bodyPartCode: corepart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Mass
+            shortcode: massloc
+            bodyPartCode: masspart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 6
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Underside
+            shortcode: underbellyloc
+            bodyPartCode: masspart
+            bleedingSusceptibility: high
+            amputability: none
+            shockValue: 4
+            probWeight: 4
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Left Tendrils
+            shortcode: ltendrilloc
+            bodyPartCode: ltendrilpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+          - name: Right Tendrils
+            shortcode: rtendrilloc
+            bodyPartCode: rtendrilpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 3
+              edged: 2
+              piercing: 1
+              fire: 3
+      weight:
+        base: 200
+        calc: "200"
+      reachBase: 0
+      bodyScaleBase: 1.17
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 20
+        leaguesPerWatch: 1
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
+        disabled: false
 ---
 
 # Appearance {#appearance}

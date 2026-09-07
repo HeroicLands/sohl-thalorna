@@ -43,125 +43,6 @@ sohl:
     wil: 1d4+6
     rea: 1d4+5
     cre: 1d4+6
-  body:
-    structure:
-      zones:
-        - name: Crown
-          shortcode: crownzone
-          probWeight: 1
-        - name: Stem
-          shortcode: stemzone
-          probWeight: 2
-        - name: Tendrils
-          shortcode: tendrilzone
-          probWeight: 2
-      parts:
-        - name: Crown
-          shortcode: crownpart
-          bodyZoneCode: crownzone
-          roles:
-            - vital
-          canHoldItem: false
-          probWeight: 10
-        - name: Stem
-          shortcode: stempart
-          bodyZoneCode: stemzone
-          roles:
-            - core
-          canHoldItem: false
-          probWeight: 10
-        - name: Left Tendrils
-          shortcode: ltendrilpart
-          bodyZoneCode: tendrilzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-        - name: Right Tendrils
-          shortcode: rtendrilpart
-          bodyZoneCode: tendrilzone
-          roles:
-            - locomotor
-            - manipulator
-          canHoldItem: false
-          probWeight: 5
-      locations:
-        - name: Crown
-          shortcode: crownloc
-          bodyPartCode: crownpart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 5
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-        - name: Stem
-          shortcode: stemloc
-          bodyPartCode: stempart
-          bleedingSusceptibility: medium
-          amputability: none
-          shockValue: 4
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-        - name: Left Tendrils
-          shortcode: ltendrilloc
-          bodyPartCode: ltendrilpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-        - name: Right Tendrils
-          shortcode: rtendrilloc
-          bodyPartCode: rtendrilpart
-          bleedingSusceptibility: low
-          amputability: medium
-          shockValue: 2
-          probWeight: 10
-          protectionBase:
-            blunt: 0
-            edged: 0
-            piercing: 0
-            fire: 0
-    weight:
-      base: 0
-      calc: "0"
-    reachBase: 0
-    bodyScaleBase: 0.67
-    personalFatigue: "enc + 5"
-  currentMoveMedium: terrestrial
-  movementProfiles:
-    - medium: terrestrial
-      feetPerRound: 20
-      leaguesPerWatch: 1
-      encumbrance: "floor(wt/4)"
-      strMod: "-5 * floor((str - 10) / 2)"
-      factors:
-        - scope: surface_cover
-          key: mixed_forest
-          mode: add
-          textValue: "0"
-        - scope: surface_cover
-          key: needleleaf_forest
-          mode: add
-          textValue: "0"
-        - scope: surface_cover
-          key: woodland
-          mode: add
-          textValue: "0"
-      disabled: false
   defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
@@ -215,6 +96,126 @@ sohl:
               successLevelMod: 0
           traits:
             noBlock: true
+  system:
+    body:
+      structure:
+        zones:
+          - name: Crown
+            shortcode: crownzone
+            probWeight: 1
+          - name: Stem
+            shortcode: stemzone
+            probWeight: 2
+          - name: Tendrils
+            shortcode: tendrilzone
+            probWeight: 2
+        parts:
+          - name: Crown
+            shortcode: crownpart
+            bodyZoneCode: crownzone
+            roles:
+              - vital
+            canHoldItem: false
+            probWeight: 10
+          - name: Stem
+            shortcode: stempart
+            bodyZoneCode: stemzone
+            roles:
+              - core
+            canHoldItem: false
+            probWeight: 10
+          - name: Left Tendrils
+            shortcode: ltendrilpart
+            bodyZoneCode: tendrilzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+          - name: Right Tendrils
+            shortcode: rtendrilpart
+            bodyZoneCode: tendrilzone
+            roles:
+              - locomotor
+              - manipulator
+            canHoldItem: false
+            probWeight: 5
+        locations:
+          - name: Crown
+            shortcode: crownloc
+            bodyPartCode: crownpart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 5
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+          - name: Stem
+            shortcode: stemloc
+            bodyPartCode: stempart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+          - name: Left Tendrils
+            shortcode: ltendrilloc
+            bodyPartCode: ltendrilpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+          - name: Right Tendrils
+            shortcode: rtendrilloc
+            bodyPartCode: rtendrilpart
+            bleedingSusceptibility: low
+            amputability: medium
+            shockValue: 2
+            probWeight: 10
+            protectionBase:
+              blunt: 0
+              edged: 0
+              piercing: 0
+              fire: 0
+      weight:
+        base: 0
+        calc: "0"
+      reachBase: 0
+      bodyScaleBase: 0.67
+      personalFatigue: "enc + 5"
+    currentMoveMedium: terrestrial
+    movementProfiles:
+      - medium: terrestrial
+        feetPerRound: 20
+        leaguesPerWatch: 1
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors:
+          - scope: surface_cover
+            key: mixed_forest
+            mode: add
+            textValue: "0"
+          - scope: surface_cover
+            key: needleleaf_forest
+            mode: add
+            textValue: "0"
+          - scope: surface_cover
+            key: woodland
+            mode: add
+            textValue: "0"
+        disabled: false
 ---
 
 # Appearance {#appearance}

@@ -10,13 +10,14 @@ shortcode: portal
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: kentra
-  levelBase: 5
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: kentra
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
 hmk:
   name: Gate
 packFolder: spells

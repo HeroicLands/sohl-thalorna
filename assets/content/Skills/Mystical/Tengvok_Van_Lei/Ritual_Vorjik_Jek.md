@@ -11,13 +11,14 @@ name:
     - Vōrjīk Jëk
     - Vorjik Jek
 sohl:
-  skillBaseFormula: "@wil, @rea"
-  combatCategory: none
-  parentSkillCode: ""
-  initSkillMult: 0
-  masteryLevelBase: 0
-  improveFlag: false
   templatePriority: null
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
 packFolder: tengvokvanlei
 ---
 

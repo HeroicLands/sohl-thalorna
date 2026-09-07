@@ -10,13 +10,14 @@ shortcode: touch
 type: mysticalability
 subType: arcaneincantation
 sohl:
-  assocSkillCode: pyrethos
-  levelBase: 1
-  masteryLevelBase: 0
-  charges:
-    value: null
-    max: null
   templatePriority: null
+  system:
+    assocSkillCode: pyrethos
+    masteryLevelBase: 0
+    levelBase: 1
+    charges:
+      value: null
+      max: null
 hmk:
   name: Caress
 packFolder: spells

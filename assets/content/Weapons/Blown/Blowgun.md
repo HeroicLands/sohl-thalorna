@@ -9,57 +9,58 @@ shortcode: BGun
 type: weapongear
 sohl:
   kbcat: blown
-  durability: 8
-  weight: 1
-  value: 30
-  heft: 10
   weaponType: Blown
-  strikeModes:
-    ranged:
-      type: missile
-      name: Ranged
-      assocSkillCode: blgn
-      minParts: 1
-      attack:
-        spread: 0
-        modifier: 0
-      impactBase:
-        numDice: 1
-        die: 4
-        modifier: 0
-        aspect: piercing
-      traits:
-        meleeMod: 0
-        blockSLMod: 0
-        durabilityMod: 0
-        cxSLMod: 0
-        oppDef: 0
-        impTA: 0
-        AR: 0
-        noAttack: false
-        noBlock: false
-        entangle: false
-        envelop: false
-        couched: false
-        long: false
-        onlyInClose: false
-        shieldMod: 0
-        slow: false
-        thrust: false
-        swung: false
-        halfSword: false
-        bleed: false
-        twoHndLen: 0
-        shaft: false
-        pommel: false
-        noStrMod: false
-        halfImpact: false
-        lowAim: false
-      projectileType: dart
-      maxVolleyMult: 3
-      baseRangeBase: 40
-      drawBase: 0
   templatePriority: null
+  system:
+    weightBase: 1
+    valueBase: 30
+    durabilityBase: 8
+    heftBase: 10
+    strikeModes:
+      ranged:
+        type: missile
+        name: Ranged
+        assocSkillCode: blgn
+        minParts: 1
+        attack:
+          spread: 0
+          modifier: 0
+        impactBase:
+          numDice: 1
+          die: 4
+          modifier: 0
+          aspect: piercing
+        traits:
+          meleeMod: 0
+          blockSLMod: 0
+          durabilityMod: 0
+          cxSLMod: 0
+          oppDef: 0
+          impTA: 0
+          AR: 0
+          noAttack: false
+          noBlock: false
+          entangle: false
+          envelop: false
+          couched: false
+          long: false
+          onlyInClose: false
+          shieldMod: 0
+          slow: false
+          thrust: false
+          swung: false
+          halfSword: false
+          bleed: false
+          twoHndLen: 0
+          shaft: false
+          pommel: false
+          noStrMod: false
+          halfImpact: false
+          lowAim: false
+        projectileType: dart
+        maxVolleyMult: 3
+        baseRangeBase: 40
+        drawBase: 0
 packFolder: weapons
 ---
 
