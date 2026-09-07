@@ -7,7 +7,7 @@ name:
   title: ""
   given: Akákios
   clan: Polytimós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: akksplytms

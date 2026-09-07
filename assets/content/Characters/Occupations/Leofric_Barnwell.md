@@ -7,7 +7,7 @@ name:
   title: ""
   given: Leofric
   clan: Barnwell
-  home: Ashford
+  home: ashford
   aliases:
     - Dr. Alaric Hawthorne
 packFolder: aureldiaaelwyth

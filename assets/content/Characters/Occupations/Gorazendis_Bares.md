@@ -7,7 +7,7 @@ name:
   title: ""
   given: Gorâzendîs
   clan: Bârês
-  home: Corvinus
+  home: corvinus
   aliases:
     - Lysandra Sashan
 packFolder: midhalionvylaria

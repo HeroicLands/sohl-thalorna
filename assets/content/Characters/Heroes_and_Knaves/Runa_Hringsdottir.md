@@ -8,7 +8,7 @@ name:
   title: ""
   given: Hringsdóttir
   clan: ""
-  home: Járnhavn
+  home: jarnhavn
   aliases:
     - the Shield-Maiden of Járnhavn
 packFolder: ankarisnordlands

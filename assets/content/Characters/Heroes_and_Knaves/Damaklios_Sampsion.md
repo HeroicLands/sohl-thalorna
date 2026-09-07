@@ -7,7 +7,7 @@ name:
   title: ""
   given: Damáklios
   clan: Sampsiôn
-  home: Karataş
+  home: karatas2
   aliases: []
 packFolder: helladbyzaria
 shortcode: damklsmpsn

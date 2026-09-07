@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ermína
   clan: Fróðbán
-  home: Thornhaven
+  home: thornhaven
   aliases:
     - Elira Seabrook
     - Ermina Froban

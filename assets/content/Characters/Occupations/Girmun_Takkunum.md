@@ -8,7 +8,7 @@ name:
   title: ""
   given: Girmûn
   clan: Takkûnûm
-  home: Azhûn
+  home: azhun2
   aliases:
     - Maerwin Blathe
 packFolder: midhalionharad

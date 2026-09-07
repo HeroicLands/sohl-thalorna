@@ -7,7 +7,7 @@ name:
   title: ""
   given: Óskar
   clan: Brýlond
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Anton Silverhand
 packFolder: aureldiaprovenzia

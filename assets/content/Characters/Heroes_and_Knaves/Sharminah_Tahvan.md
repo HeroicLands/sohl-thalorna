@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sharmînah
   clan: Tahvân
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn

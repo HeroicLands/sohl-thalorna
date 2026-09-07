@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ethelinda
   clan: Wigmore
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Brenna Lockwood
 packFolder: aureldiaaelwyth

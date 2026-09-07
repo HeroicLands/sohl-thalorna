@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thrágrim
   clan: Ríkhild
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Orin Woodfell
 packFolder: ankarisvrystwald

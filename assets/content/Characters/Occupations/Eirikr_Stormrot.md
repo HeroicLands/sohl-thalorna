@@ -7,7 +7,7 @@ name:
   title: ""
   given: Eiríkr
   clan: Stormrót
-  home: Frostmark
+  home: frostmark
   aliases:
     - Brynden Wavecrest
 packFolder: ankarisnordlands

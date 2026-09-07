@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bǫthvarr
   clan: Sólvargr
-  home: Brúnvík
+  home: brunvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bthvrslvrgr

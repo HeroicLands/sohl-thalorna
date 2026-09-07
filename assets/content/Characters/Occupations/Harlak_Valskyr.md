@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hârlak
   clan: Válskyr
-  home: Aurèliane
+  home: aureliane
   aliases:
     - Braden Hask
 packFolder: aureldiaprovenzia

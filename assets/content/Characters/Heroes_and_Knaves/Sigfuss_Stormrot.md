@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sigfúss
   clan: Stormrót
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt

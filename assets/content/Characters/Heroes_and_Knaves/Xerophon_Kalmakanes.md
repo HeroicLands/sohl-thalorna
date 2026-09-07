@@ -7,7 +7,7 @@ name:
   title: ""
   given: Xerôphôn
   clan: Kâlmâkanês
-  home: Ashenmere
+  home: ashenmere
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xrphnklmkns

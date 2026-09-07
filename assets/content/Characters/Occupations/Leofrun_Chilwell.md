@@ -7,7 +7,7 @@ name:
   title: ""
   given: Leofrun
   clan: Chilwell
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Elara Greenpath
 packFolder: aureldiaaelwyth

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Raiah
   clan: Sekmet'â
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu

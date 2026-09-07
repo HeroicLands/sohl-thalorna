@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gábêros
   clan: Chàddâris
-  home: Athenikos
+  home: athenikos2
   aliases: []
 packFolder: helladhelionis
 shortcode: gabrschdrs

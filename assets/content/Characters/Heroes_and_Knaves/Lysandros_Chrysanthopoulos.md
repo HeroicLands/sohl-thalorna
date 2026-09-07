@@ -8,7 +8,7 @@ name:
   title: ""
   given: Lysándros
   clan: Chrysanthópoulos
-  home: Selímara
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
 shortcode: lysndrschrysnthpls

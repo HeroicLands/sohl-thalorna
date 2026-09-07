@@ -7,7 +7,7 @@ name:
   title: ""
   given: Harold
   clan: Helmsley
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Garron Marlowe
 packFolder: aureldiaaelwyth

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Óskunn
   clan: Bjargskorn
-  home: Steinmark
+  home: steinmark
   aliases: []
 packFolder: ankarisnordlands
 shortcode: osknbjrgskrn

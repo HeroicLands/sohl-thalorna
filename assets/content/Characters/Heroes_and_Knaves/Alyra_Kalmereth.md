@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ályra
   clan: Kálmereth
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: alyrklmrth

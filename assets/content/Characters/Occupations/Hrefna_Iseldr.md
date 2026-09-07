@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hrefna
   clan: Íseldr
-  home: Ravensholm
+  home: ravensholm
   aliases:
     - Maera Fernwood
 packFolder: ankarisnordlands

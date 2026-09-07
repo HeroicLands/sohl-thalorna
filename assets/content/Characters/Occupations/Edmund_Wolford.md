@@ -8,7 +8,7 @@ name:
   title: ""
   given: Edmund
   clan: Wolford
-  home: Ashford
+  home: ashford
   aliases:
     - Elric Threadgold
 packFolder: aureldiaaelwyth

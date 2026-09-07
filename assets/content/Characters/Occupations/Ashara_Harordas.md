@@ -8,7 +8,7 @@ name:
   title: ""
   given: Ashârâ
   clan: Hârôrdâs
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Thalia Ashbrook
 packFolder: midhalionvylaria

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ósk
   clan: Drekanótt
-  home: Brúnvík
+  home: brunvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: oskdrekant

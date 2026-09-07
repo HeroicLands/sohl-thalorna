@@ -8,7 +8,7 @@ name:
   title: Sir
   given: Andrés
   clan: Lorca
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Knight of the Western Marches
     - Sir Andres Lorca

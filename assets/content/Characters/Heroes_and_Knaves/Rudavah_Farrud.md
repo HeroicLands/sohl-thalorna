@@ -8,7 +8,7 @@ name:
   title: ""
   given: Rudâvah
   clan: Farrud
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rudavahfrd

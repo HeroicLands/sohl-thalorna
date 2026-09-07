@@ -8,7 +8,7 @@ name:
   title: ""
   given: Yâsûra
   clan: ""
-  home: The South Marches
+  home: null # was: The South Marches
   aliases:
     - The Jackal-Queen
     - The Unhoused

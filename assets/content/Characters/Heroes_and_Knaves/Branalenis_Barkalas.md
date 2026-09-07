@@ -7,7 +7,7 @@ name:
   title: ""
   given: Brânalenîs
   clan: Bárkalâs
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnlnsbrkls

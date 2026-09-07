@@ -7,7 +7,7 @@ name:
   title: ""
   given: Phótianos
   clan: Stratégopoulos
-  home: Gümüşhisar
+  home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
 shortcode: phtnstrtgpls

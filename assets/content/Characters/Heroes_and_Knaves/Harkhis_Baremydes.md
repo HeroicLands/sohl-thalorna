@@ -8,7 +8,7 @@ name:
   title: ""
   given: Harkhîs
   clan: Bàremydês
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: hrkhsbrmyds

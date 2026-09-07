@@ -7,7 +7,7 @@ name:
   title: ""
   given: Estára
   clan: Sánriceth
-  home: Valdés
+  home: valdes
   aliases:
     - Brynna Highfield
 packFolder: aureldiatarvenia

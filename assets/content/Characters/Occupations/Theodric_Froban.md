@@ -7,7 +7,7 @@ name:
   title: ""
   given: Theódric
   clan: Fróðbán
-  home: Dunkelwald
+  home: dunkelwald
   aliases:
     - Thrain Ironpick
     - Theodric Froban

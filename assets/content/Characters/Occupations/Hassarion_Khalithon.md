@@ -7,7 +7,7 @@ name:
   title: Lord
   given: Hassârìon
   clan: Khalîthôn
-  home: Myrtillos
+  home: myrtillos
   aliases:
     - Lord Alaric Stormhaven
 packFolder: helladhelionis

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Pritàrika
   clan: Padmadîksha
-  home: Suvarṇagiri
+  home: suvaragiri
   aliases: []
 packFolder: ankarisvedyara
 shortcode: prtrkpdmdksh

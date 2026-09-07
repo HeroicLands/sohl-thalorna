@@ -7,7 +7,7 @@ name:
   title: ""
   given: Lýrena
   clan: Tólgen
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Ingrid Flamehair
 packFolder: aureldiaprovenzia

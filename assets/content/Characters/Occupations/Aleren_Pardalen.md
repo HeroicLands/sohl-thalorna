@@ -7,7 +7,7 @@ name:
   title: ""
   given: Áleren
   clan: Párdalen
-  home: Silvain
+  home: silvain
   aliases:
     - Torvin Ashbark
 packFolder: aureldiaelavendre

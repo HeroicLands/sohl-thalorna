@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kadméros
   clan: Hârôrdîs
-  home: Velysâra
+  home: velysara
   aliases:
     - Eamon Oakshade
 packFolder: midhalionvylaria

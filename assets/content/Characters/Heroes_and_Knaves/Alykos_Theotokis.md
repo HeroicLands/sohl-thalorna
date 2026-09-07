@@ -8,7 +8,7 @@ name:
   title: ""
   given: Alýkos
   clan: Theotókis
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: alyksthtks

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bràzenlâs
   clan: Vânamyês
-  home: Corvinus
+  home: corvinus
   aliases:
     - Orwin Blackshade
 packFolder: midhalionvylaria

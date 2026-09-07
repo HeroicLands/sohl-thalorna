@@ -8,7 +8,7 @@ name:
   title: ""
   given: Bránakis
   clan: Kâserânis
-  home: Solheim
+  home: solheim
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnksksrns

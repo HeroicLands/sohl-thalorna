@@ -8,7 +8,7 @@ name:
   title: ""
   given: Pálina
   clan: Sánriceth
-  home: Solárden
+  home: solarden
   aliases:
     - Shénasenè Seraphine Dreamweaver
 packFolder: aureldiatarvenia

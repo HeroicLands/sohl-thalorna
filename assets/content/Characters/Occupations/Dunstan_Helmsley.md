@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dunstan
   clan: Helmsley
-  home: Ashford
+  home: ashford
   aliases:
     - Eirik Stonehand
 packFolder: aureldiaaelwyth

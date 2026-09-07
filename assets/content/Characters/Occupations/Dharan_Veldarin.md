@@ -8,7 +8,7 @@ name:
   title: ""
   given: Dháran
   clan: Véldarin
-  home: Elanmere
+  home: elanmere
   aliases:
     - Viriâhn Roderick Flamebearer
 packFolder: aureldiaelavendre

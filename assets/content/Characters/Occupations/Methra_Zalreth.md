@@ -7,7 +7,7 @@ name:
   title: ""
   given: Méthra
   clan: Zálreth
-  home: Liranel
+  home: liranel
   aliases:
     - Mira Clayfoot
 packFolder: aureldiaelavendre

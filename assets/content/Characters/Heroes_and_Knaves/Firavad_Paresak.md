@@ -7,7 +7,7 @@ name:
   title: ""
   given: Firâvâd
   clan: Pâresak
-  home: Dûn Ashir
+  home: dunashir
   aliases: []
 packFolder: dunharatribes
 shortcode: firavdprsk

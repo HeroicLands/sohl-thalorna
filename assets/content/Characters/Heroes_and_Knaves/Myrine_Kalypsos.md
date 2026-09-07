@@ -9,7 +9,7 @@ name:
   title: ""
   given: Myrine
   clan: Kalypsos
-  home: Belekos
+  home: belekos
   aliases:
     - The Mendicant Priestess of the Black Flame
 packFolder: midhalionvylaria

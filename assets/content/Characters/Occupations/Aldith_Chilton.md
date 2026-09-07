@@ -8,7 +8,7 @@ name:
   title: ""
   given: Aldith
   clan: Chilton
-  home: Ashford
+  home: ashford
   aliases:
     - Shénasenè Lysandra Goldleaf
 packFolder: aureldiaaelwyth

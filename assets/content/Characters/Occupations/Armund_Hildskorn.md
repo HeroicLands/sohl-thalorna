@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ármund
   clan: Hildskorn
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Jorvik the Merry
 packFolder: ankarisvrystwald

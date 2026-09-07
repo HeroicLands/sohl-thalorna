@@ -8,7 +8,7 @@ name:
   title: ""
   given: Philetos
   clan: Kleftes
-  home: Alyssar
+  home: alyssar
   aliases:
     - The Fire-Sworn Strategist
 packFolder: midhalionvylaria

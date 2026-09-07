@@ -8,7 +8,7 @@ name:
   title: ""
   given: Unnr
   clan: Eldskari
-  home: Kvenndal
+  home: kvenndal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: unreldskar

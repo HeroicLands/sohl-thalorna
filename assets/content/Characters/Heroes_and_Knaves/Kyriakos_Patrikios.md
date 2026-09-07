@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kyriákos
   clan: Patrikîos
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: kyrksptrks

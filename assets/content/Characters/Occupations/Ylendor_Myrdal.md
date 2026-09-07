@@ -8,7 +8,7 @@ name:
   title: ""
   given: Yléndor
   clan: Mýrdal
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Alaric Wynter
 packFolder: aureldiaprovenzia

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bâlden
   clan: Stýlgon
-  home: Aurèliane
+  home: aureliane
   aliases:
     - Halvard Strongvoice
 packFolder: aureldiaprovenzia

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Drkṣàrana
   clan: Manṛṣṭi
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: drkaranamn

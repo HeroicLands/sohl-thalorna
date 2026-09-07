@@ -7,7 +7,7 @@ name:
   title: ""
   given: Fródwyn
   clan: Dómhár
-  home: Dunkelwald
+  home: dunkelwald
   aliases:
     - Professor Liraen Windwhisper
 packFolder: ankarisvrystwald

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Azatô
   clan: Dâemzânis
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Oswin Crey
 packFolder: midhalionvylaria

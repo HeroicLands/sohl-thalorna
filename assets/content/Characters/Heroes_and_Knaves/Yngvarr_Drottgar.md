@@ -8,7 +8,7 @@ name:
   title: ""
   given: Yngvarr
   clan: Dróttgar
-  home: Frostmark
+  home: frostmark
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrdrtgr

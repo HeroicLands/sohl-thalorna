@@ -8,7 +8,7 @@ name:
   title: Sir
   given: Drazha
   clan: Sycâni
-  home: Telvári
+  home: telvari
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani

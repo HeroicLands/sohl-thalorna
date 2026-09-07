@@ -7,7 +7,7 @@ name:
   title: ""
   given: Zórila
   clan: Dómivar
-  home: Valthári
+  home: valthari
   aliases:
     - Brynhild Stonefoot
 packFolder: aureldiatarvenia

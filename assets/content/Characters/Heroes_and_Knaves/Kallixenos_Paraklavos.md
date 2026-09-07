@@ -8,7 +8,7 @@ name:
   title: ""
   given: Kallíxenos
   clan: Paraklávos
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: klxnsprklvs

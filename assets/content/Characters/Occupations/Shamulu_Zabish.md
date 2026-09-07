@@ -8,7 +8,7 @@ name:
   title: ""
   given: Shamûlû
   clan: Zabîsh
-  home: Ashkabel
+  home: ashkabel2
   aliases: []
 packFolder: midhalionharad
 shortcode: shamulzbsh

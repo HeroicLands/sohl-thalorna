@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rádrún
   clan: Vithrúnd
-  home: Grimholt
+  home: grimholt
   aliases:
     - Sera Nightshade
 packFolder: ankarisvrystwald

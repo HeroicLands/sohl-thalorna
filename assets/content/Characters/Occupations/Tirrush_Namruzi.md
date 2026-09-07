@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tirrûsh
   clan: Namrûzî
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Eamon Clearfield
 packFolder: midhalionharad

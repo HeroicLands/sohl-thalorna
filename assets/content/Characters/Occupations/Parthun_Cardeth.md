@@ -8,7 +8,7 @@ name:
   title: ""
   given: Párthun
   clan: Cárdeth
-  home: Valdûn
+  home: valdun
   aliases:
     - Garrick Thorn
 packFolder: aureldiaelavendre

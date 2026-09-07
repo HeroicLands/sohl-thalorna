@@ -9,7 +9,7 @@ name:
   title: ""
   given: Eldrid
   clan: Hildenbaald
-  home: Steinmark
+  home: steinmark
   aliases:
     - Firehair
     - the Shipwright's Son

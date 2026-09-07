@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bazûdar
   clan: Shahrûn
-  home: Oasis of Shirvan
+  home: oasishirvn
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn

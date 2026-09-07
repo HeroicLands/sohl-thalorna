@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rísàkós
   clan: Ibârìthôs
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Osbert Kett
 packFolder: helladhelionis

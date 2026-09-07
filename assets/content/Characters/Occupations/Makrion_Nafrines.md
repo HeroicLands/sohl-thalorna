@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mákrion
   clan: Nâfrinês
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Eadric Sterne
 packFolder: helladhelionis

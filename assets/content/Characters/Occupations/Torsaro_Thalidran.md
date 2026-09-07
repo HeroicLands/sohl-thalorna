@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tórsaro
   clan: Thalídran
-  home: Castamere
+  home: castamere
   aliases:
     - Oswin Thornhill
 packFolder: aureldiatarvenia

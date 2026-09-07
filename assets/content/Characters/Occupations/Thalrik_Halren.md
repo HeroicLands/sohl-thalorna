@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thálrik
   clan: Hálren
-  home: Port Aelion
+  home: portaelion
   aliases:
     - Garrick Ironwood
 packFolder: aureldiaelavendre

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Frýsala
   clan: Válskyr
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Sigrid Frostholm
 packFolder: aureldiaprovenzia

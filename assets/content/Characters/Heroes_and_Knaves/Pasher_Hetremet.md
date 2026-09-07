@@ -7,7 +7,7 @@ name:
   title: ""
   given: Pasher
   clan: Het'remet
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Pasher Hetremet
 packFolder: northernfertileregiontakheperu

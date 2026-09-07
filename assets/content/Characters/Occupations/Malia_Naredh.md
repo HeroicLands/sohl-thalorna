@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mália
   clan: Náredh
-  home: Elanmere
+  home: elanmere
   aliases:
     - Elara Flockkeeper
 packFolder: aureldiaelavendre

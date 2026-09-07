@@ -7,7 +7,7 @@ name:
   title: ""
   given: Íngrithr
   clan: Skýrekkr
-  home: Hávamál
+  home: havamal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ingrthrskyrkr

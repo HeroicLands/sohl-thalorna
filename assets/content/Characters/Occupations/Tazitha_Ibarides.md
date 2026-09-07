@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tázîtha
   clan: Ibârîdês
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Mirna Woodsong
 packFolder: helladhelionis

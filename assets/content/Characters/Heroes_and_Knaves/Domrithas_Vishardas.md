@@ -8,7 +8,7 @@ name:
   title: ""
   given: Dómrithâs
   clan: Vîshârdâs
-  home: Nartûm
+  home: nartum
   aliases: []
 packFolder: midhalionvylaria
 shortcode: dmrthsvshrds

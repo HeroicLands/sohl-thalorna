@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dharmàpala
   clan: Vimuktaṇa
-  home: Dhanurkota
+  home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
 shortcode: dhrmplvmkt

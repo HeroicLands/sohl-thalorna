@@ -8,7 +8,7 @@ name:
   title: ""
   given: Fakhrad
   clan: Tamârân
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: fakhrdtmrn

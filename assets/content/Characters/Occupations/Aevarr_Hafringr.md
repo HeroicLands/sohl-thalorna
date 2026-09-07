@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ævarr
   clan: Hafringr
-  home: Blóth
+  home: bloth
   aliases:
     - Roderick Heavyload
 packFolder: ankarisnordlands

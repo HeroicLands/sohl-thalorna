@@ -7,7 +7,7 @@ name:
   title: ""
   given: Goda
   clan: Barnwell
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Mira Glazewalker
 packFolder: aureldiaaelwyth

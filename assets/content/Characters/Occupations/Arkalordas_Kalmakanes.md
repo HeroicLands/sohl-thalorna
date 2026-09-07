@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arkálòrdâs
   clan: Kâlmâkanês
-  home: Aelissium
+  home: aelissium
   aliases:
     - Darrin Wavebreaker
 packFolder: midhalionvylaria

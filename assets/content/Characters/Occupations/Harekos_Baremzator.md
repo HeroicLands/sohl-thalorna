@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hàrêkôs
   clan: Bàremzâtôr
-  home: Corvinus
+  home: corvinus
   aliases:
     - Elwood Strawbridge
 packFolder: midhalionvylaria

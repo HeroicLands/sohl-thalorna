@@ -7,7 +7,7 @@ name:
   title: ""
   given: Viśvàra
   clan: Mahâpara
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: visvarmhpr

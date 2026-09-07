@@ -8,7 +8,7 @@ name:
   title: ""
   given: Timothéon
   clan: Gaválas
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: timthngvls

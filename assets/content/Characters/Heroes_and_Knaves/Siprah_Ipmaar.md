@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sip'rah
   clan: Ip'maâr
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Siprah Ipmaâr
     - Siprah Ipmaar

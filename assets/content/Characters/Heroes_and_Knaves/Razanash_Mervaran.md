@@ -7,7 +7,7 @@ name:
   title: ""
   given: Razanash
   clan: Mervaran
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: rznshmrvrn

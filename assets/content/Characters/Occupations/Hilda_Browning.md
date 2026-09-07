@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hilda
   clan: Browning
-  home: Ashford
+  home: ashford
   aliases:
     - Nyssa Shadowveil
 packFolder: aureldiaaelwyth

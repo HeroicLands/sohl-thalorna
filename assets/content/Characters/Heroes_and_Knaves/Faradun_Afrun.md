@@ -8,7 +8,7 @@ name:
   title: ""
   given: Faradûn
   clan: Afrûn
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: faradunfrn

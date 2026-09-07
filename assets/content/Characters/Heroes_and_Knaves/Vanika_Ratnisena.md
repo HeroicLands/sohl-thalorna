@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vànika
   clan: Ratniseṇa
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vanikartns

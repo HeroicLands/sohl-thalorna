@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vôrnan
   clan: Tólgen
-  home: Valcèrise
+  home: valcerise
   aliases:
     - Cedric Ironquill
 packFolder: aureldiaprovenzia

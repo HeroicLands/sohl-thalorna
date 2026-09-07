@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vérynna
   clan: Brânwyld
-  home: Aurèliane
+  home: aureliane
   aliases:
     - Mira Whisperwind
 packFolder: aureldiaprovenzia

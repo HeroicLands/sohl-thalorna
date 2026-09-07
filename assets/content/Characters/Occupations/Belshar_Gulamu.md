@@ -8,7 +8,7 @@ name:
   title: ""
   given: Belshar
   clan: Gûlamû
-  home: Míravel
+  home: miravel
   aliases:
     - Cedric Ironkey
 packFolder: midhalionharad

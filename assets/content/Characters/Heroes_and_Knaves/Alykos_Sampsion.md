@@ -8,7 +8,7 @@ name:
   title: ""
   given: Alýkos
   clan: Sampsiôn
-  home: Selímara
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
 shortcode: alykosmpsn

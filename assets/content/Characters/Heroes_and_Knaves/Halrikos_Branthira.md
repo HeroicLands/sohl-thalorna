@@ -8,7 +8,7 @@ name:
   title: ""
   given: Hálrikos
   clan: Bránthira
-  home: Torreviga
+  home: torreviga
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: hlrksbrnthr

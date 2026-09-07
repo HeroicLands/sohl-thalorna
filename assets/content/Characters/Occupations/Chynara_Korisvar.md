@@ -7,7 +7,7 @@ name:
   title: ""
   given: Chýnara
   clan: Kórisvar
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Mabel Seafoam
 packFolder: aureldiaprovenzia

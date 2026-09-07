@@ -8,7 +8,7 @@ name:
   title: ""
   given: Oswin
   clan: Harden
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Harlan Stoneforge
 packFolder: aureldiaaelwyth

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Zádìmêros
   clan: Mâkîthôn
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Edwyn Merle
 packFolder: helladhelionis

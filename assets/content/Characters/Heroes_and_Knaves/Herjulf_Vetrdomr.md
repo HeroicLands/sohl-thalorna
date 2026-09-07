@@ -7,7 +7,7 @@ name:
   title: ""
   given: Herjúlf
   clan: Vetrdómr
-  home: Skarholme
+  home: skarholme
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr

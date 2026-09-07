@@ -8,7 +8,7 @@ name:
   title: ""
   given: Prthîmâja
   clan: Kâyadara
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: prthmjkydr

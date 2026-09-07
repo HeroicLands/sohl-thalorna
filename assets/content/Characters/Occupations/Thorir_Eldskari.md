@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thórir
   clan: Eldskari
-  home: Stormveil
+  home: stormveil
   aliases: []
 packFolder: aureldiaaelwyth
 shortcode: thorrldskr

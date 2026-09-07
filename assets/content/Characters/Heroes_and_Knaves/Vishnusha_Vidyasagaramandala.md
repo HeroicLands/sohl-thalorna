@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vishnusha
   clan: Vidyāsāgaramaṇḍala
-  home: Dhanurkota
+  home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vshnshvdysgrml

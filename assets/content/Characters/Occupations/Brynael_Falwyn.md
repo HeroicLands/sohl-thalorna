@@ -7,7 +7,7 @@ name:
   title: ""
   given: Brýnael
   clan: Fálwyn
-  home: Liranel
+  home: liranel
   aliases:
     - Adelaine Mossgrove
 packFolder: aureldiaelavendre

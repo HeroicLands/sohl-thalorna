@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bjǫrn
   clan: Vetrdómr
-  home: Ravensholm
+  home: ravensholm
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjrnvtrdmr

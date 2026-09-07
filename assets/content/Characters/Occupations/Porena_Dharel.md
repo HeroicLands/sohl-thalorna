@@ -7,7 +7,7 @@ name:
   title: ""
   given: Pórena
   clan: Dhárel
-  home: Port Aelion
+  home: portaelion
   aliases:
     - Elara Wavehand
 packFolder: aureldiaelavendre

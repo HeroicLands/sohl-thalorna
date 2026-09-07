@@ -8,7 +8,7 @@ name:
   title: ""
   given: Mehrâd
   clan: Âzardan
-  home: Golshahr
+  home: golshahr
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mehradzrdn

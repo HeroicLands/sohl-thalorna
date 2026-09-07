@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thâven
   clan: Fárwèn
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Bosun Kellan Stormwatch
 packFolder: aureldiaprovenzia

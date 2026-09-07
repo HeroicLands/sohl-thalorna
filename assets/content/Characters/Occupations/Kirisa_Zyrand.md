@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kírisa
   clan: Zýrand
-  home: Belpòrte
+  home: belporte
   aliases:
     - Isolde Farnham
 packFolder: aureldiaprovenzia

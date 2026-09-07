@@ -8,7 +8,7 @@ name:
   title: ""
   given: Alîmû
   clan: Lâmarû
-  home: Varoshan
+  home: kashmuret
   aliases:
     - Cedric Hawthorne
 packFolder: midhalionharad

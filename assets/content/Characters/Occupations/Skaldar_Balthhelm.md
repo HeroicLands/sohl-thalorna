@@ -8,7 +8,7 @@ name:
   title: ""
   given: Skaldár
   clan: Balthhelm
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Thorne Cobblepot
 packFolder: ankarisvrystwald

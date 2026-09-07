@@ -7,7 +7,7 @@ name:
   title: Lady
   given: Ârnela
   clan: Kórisvar
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Lady Seraphina Emberhart
 packFolder: aureldiaprovenzia

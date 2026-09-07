@@ -7,7 +7,7 @@ name:
   title: ""
   given: Nakhtar
   clan: Amun'Râshet
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet

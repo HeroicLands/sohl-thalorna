@@ -7,7 +7,7 @@ name:
   title: Nebet
   given: Raiya
   clan: Waset'neb
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Raiya Wasetneb
 packFolder: northernfertileregiontakheperu

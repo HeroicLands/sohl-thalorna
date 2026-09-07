@@ -8,7 +8,7 @@ name:
   title: ""
   given: Zahira
   clan: Malkhet
-  home: Bethûra
+  home: bethura
   aliases:
     - The Bounty Hunter
     - The Hound of the Veil

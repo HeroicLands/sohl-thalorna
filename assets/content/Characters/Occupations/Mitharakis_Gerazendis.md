@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mitharâkîs
   clan: Gêrazêndis
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Finn the Jolly
 packFolder: midhalionvylaria

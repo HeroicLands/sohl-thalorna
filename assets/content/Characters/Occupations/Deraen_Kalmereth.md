@@ -7,7 +7,7 @@ name:
   title: ""
   given: Déraen
   clan: Kálmereth
-  home: Silvain
+  home: silvain
   aliases:
     - Elowen Saltbloom
 packFolder: aureldiaelavendre

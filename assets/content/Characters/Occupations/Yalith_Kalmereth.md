@@ -7,7 +7,7 @@ name:
   title: ""
   given: Yálith
   clan: Kálmereth
-  home: Liranel
+  home: liranel
   aliases:
     - Brynn Silversong
 packFolder: aureldiaelavendre

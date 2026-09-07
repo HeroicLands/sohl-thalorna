@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rimmârû
   clan: Ushûrî
-  home: Míravel
+  home: miravel
   aliases:
     - Althea Rosebloom
 packFolder: midhalionharad

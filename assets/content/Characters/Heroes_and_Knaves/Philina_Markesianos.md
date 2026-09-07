@@ -7,7 +7,7 @@ name:
   title: ""
   given: Philína
   clan: Markêsianos
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlnmrksns

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Pyrânês
   clan: Zêralmâkor
-  home: Valdosta
+  home: valdosta
   aliases:
     - Tancred Wayland
 packFolder: midhalionvylaria

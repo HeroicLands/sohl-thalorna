@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sênta
   clan: Ta'Sereket
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Sênta TaSereket
     - Senta TaSereket

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tirye
   clan: Djet'amê
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Tirye Djetamê
 packFolder: northernfertileregiontakheperu

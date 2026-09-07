@@ -8,7 +8,7 @@ name:
   title: ""
   given: Párthun
   clan: Bélthal
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: prthnblthl

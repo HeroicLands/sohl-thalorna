@@ -7,7 +7,7 @@ name:
   title: ""
   given: Chánnâon
   clan: Hàbîlês
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Brynden Ash
 packFolder: helladhelionis

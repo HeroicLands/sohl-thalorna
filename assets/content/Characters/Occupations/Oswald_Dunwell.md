@@ -7,7 +7,7 @@ name:
   title: ""
   given: Oswald
   clan: Dunwell
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Sir Cedric Ashvale
 packFolder: aureldiaaelwyth

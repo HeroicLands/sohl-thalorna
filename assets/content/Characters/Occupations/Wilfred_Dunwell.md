@@ -7,7 +7,7 @@ name:
   title: ""
   given: Wilfred
   clan: Dunwell
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Hrothgar Stormcaller
 packFolder: aureldiaaelwyth

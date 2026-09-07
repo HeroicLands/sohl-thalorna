@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thorlákr
   clan: Vindrkvé
-  home: Blóth
+  home: bloth
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arzânalàs
   clan: Bâredâs
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Ulfric Battleborn
 packFolder: midhalionvylaria

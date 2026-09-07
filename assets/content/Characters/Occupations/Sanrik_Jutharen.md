@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sánrik
   clan: Jútharen
-  home: Solárden
+  home: solarden
   aliases:
     - Halvard Brightforge
 packFolder: aureldiatarvenia

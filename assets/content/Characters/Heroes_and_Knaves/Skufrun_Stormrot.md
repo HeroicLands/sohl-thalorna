@@ -8,7 +8,7 @@ name:
   title: ""
   given: Skúfrún
   clan: Stormrót
-  home: Valdarheim
+  home: valdarheim
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skfrnstrmrt

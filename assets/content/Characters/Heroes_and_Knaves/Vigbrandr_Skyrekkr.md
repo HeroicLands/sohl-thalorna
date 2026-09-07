@@ -8,7 +8,7 @@ name:
   title: ""
   given: Vígbrandr
   clan: Skýrekkr
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vgbrndrskyrkr

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Màkîthos
   clan: Vânardis
-  home: Valdosta
+  home: valdosta
   aliases: []
 packFolder: midhalionvylaria
 shortcode: mkthsvnrds

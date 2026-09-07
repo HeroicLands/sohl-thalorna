@@ -7,7 +7,7 @@ name:
   title: ""
   given: Óvelyn
   clan: Sálthar
-  home: Liranel
+  home: liranel
   aliases:
     - Gwyneth Vane
 packFolder: aureldiaelavendre

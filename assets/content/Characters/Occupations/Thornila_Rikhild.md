@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thornila
   clan: Ríkhild
-  home: Dunkelwald
+  home: dunkelwald
   aliases:
     - Mataké Isolde Brightshield
 packFolder: ankarisvrystwald

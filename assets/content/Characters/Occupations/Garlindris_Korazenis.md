@@ -7,7 +7,7 @@ name:
   title: ""
   given: Garlîndris
   clan: Korâzênis
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Sir Cedric Loudvale
 packFolder: midhalionvylaria

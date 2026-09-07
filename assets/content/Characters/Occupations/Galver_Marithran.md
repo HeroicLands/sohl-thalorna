@@ -7,7 +7,7 @@ name:
   title: ""
   given: Gálver
   clan: Maríthran
-  home: Valdés
+  home: valdes
   aliases:
     - Gorvin Rockshield
 packFolder: aureldiatarvenia

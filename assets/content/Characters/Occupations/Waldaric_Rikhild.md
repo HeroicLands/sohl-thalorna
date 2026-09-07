@@ -7,7 +7,7 @@ name:
   title: ""
   given: Waldaric
   clan: Ríkhild
-  home: Grimholt
+  home: grimholt
   aliases:
     - Edric Bannerman
 packFolder: ankarisvrystwald

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arkádios
   clan: Philomédis
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkdsphlmds

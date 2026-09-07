@@ -8,7 +8,7 @@ name:
   title: ""
   given: Grégoras
   clan: Ephthymiópoulos
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: grgrsphthympls

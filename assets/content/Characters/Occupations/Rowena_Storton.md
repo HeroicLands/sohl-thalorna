@@ -8,7 +8,7 @@ name:
   title: ""
   given: Rowena
   clan: Storton
-  home: Ravenmoor
+  home: ravenmoor
   aliases:
     - Edda Locklear
 packFolder: aureldiaaelwyth

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Alvárik
   clan: Árenthal
-  home: Valdés
+  home: valdes
   aliases:
     - Jory Wheatfield
 packFolder: aureldiatarvenia

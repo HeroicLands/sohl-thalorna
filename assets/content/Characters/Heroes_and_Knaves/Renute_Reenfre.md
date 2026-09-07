@@ -7,7 +7,7 @@ name:
   title: ""
   given: Renutê
   clan: Re'en'fré
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Renutê Reenfré
     - Renute Reenfre

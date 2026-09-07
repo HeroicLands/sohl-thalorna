@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thjótharr
   clan: Hrafnsvald
-  home: Járnhavn
+  home: jarnhavn
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thjthrhrfnsvld

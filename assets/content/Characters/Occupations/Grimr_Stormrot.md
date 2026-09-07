@@ -7,7 +7,7 @@ name:
   title: ""
   given: Grímr
   clan: Stormrót
-  home: Greyfjord
+  home: greyfjord
   aliases:
     - Alistair Goldcrest
 packFolder: ankarisnordlands

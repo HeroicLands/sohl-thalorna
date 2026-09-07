@@ -7,7 +7,7 @@ name:
   title: ""
   given: Lâmzû
   clan: Damîkî
-  home: Kethara
+  home: kethara2
   aliases:
     - Cedric Pagekeeper
 packFolder: midhalionharad

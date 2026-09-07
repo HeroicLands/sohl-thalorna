@@ -7,7 +7,7 @@ name:
   title: ""
   given: Samarína
   clan: Kalokyrês
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: smrnklkyrs

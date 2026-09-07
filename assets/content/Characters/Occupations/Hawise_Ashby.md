@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hawise
   clan: Ashby
-  home: Thornbury
+  home: thornbury
   aliases:
     - Hilda Stoneheart
 packFolder: aureldiaaelwyth

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Anûraja
   clan: Harṣadēvāmbujakar
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr

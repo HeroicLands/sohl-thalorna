@@ -7,7 +7,7 @@ name:
   title: ""
   given: Teshûran
   clan: Bûrnashî
-  home: Kethara
+  home: kethara2
   aliases:
     - Galen Stonehart
 packFolder: midhalionharad

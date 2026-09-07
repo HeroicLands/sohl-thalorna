@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kêlena
   clan: Stýlgon
-  home: Valcèrise
+  home: valcerise
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kelnstylgn

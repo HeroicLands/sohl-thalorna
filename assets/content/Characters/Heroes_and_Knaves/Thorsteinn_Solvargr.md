@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thorsteinn
   clan: Sólvargr
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnslvrgr

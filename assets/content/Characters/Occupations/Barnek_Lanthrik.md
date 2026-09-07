@@ -8,7 +8,7 @@ name:
   title: ""
   given: Bárnek
   clan: Lánthrik
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Alaric Fairwind
 packFolder: aureldiaprovenzia

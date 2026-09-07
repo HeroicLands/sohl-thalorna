@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vanâdîs
   clan: Kâserânis
-  home: Valdosta
+  home: valdosta
   aliases:
     - Evelyne Voss
 packFolder: midhalionvylaria

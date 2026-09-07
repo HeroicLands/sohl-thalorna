@@ -8,7 +8,7 @@ name:
   title: ""
   given: Edith
   clan: Wolford
-  home: Ashford
+  home: ashford
   aliases:
     - Liora Stonemaster
 packFolder: aureldiaaelwyth

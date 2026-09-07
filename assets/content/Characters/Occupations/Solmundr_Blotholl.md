@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sǫlmundr
   clan: Blóthǫll
-  home: Skarholme
+  home: skarholme
   aliases:
     - Elric Hawkeye
 packFolder: ankarisnordlands

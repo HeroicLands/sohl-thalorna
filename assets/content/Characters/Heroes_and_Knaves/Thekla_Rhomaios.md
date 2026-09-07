@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thêkla
   clan: Rhomaios
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: theklarhms

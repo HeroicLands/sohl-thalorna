@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ríthara
   clan: Dómivar
-  home: Torreviga
+  home: torreviga
   aliases:
     - Lira Shellwhisper
 packFolder: aureldiatarvenia

@@ -7,7 +7,7 @@ name:
   title: Nebet
   given: Hathura
   clan: Ise'fré
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Hathura Isefré
 packFolder: northernfertileregiontakheperu

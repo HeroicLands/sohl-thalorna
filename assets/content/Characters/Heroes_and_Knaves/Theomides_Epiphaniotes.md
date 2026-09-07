@@ -7,7 +7,7 @@ name:
   title: ""
   given: Theomídes
   clan: Epiphaniôtês
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: thmdspphnts

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Ailêmâ
   clan: Kêrîamyês
-  home: Corvinus
+  home: corvinus
   aliases: []
 packFolder: midhalionvylaria
 shortcode: ailemkrmys

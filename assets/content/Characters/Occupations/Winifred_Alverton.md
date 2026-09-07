@@ -7,7 +7,7 @@ name:
   title: ""
   given: Winifred
   clan: Alverton
-  home: Dunmere
+  home: dunmere
   aliases:
     - Anwen Lys
 packFolder: aureldiaaelwyth

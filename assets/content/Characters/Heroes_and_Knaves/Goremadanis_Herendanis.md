@@ -7,7 +7,7 @@ name:
   title: ""
   given: Goremadânis
   clan: Hérendânis
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: grmdnshrndns

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Járaen
   clan: Lýskal
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Greta Woodwhistle
 packFolder: aureldiaprovenzia

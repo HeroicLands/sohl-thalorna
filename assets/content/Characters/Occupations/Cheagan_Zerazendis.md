@@ -7,7 +7,7 @@ name:
   title: ""
   given: Chéagan
   clan: Zêrâzêndis
-  home: Aelissium
+  home: aelissium
   aliases:
     - Branwen Hearthkeeper
 packFolder: midhalionvylaria

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Càndrathar
   clan: Āchāryamukhyēśvara
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: cndrthrchrymkhysvr

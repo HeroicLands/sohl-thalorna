@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vithár
   clan: Hildvith
-  home: Waldburg
+  home: waldburg
   aliases:
     - Garrick Stoneforge
 packFolder: ankarisvrystwald

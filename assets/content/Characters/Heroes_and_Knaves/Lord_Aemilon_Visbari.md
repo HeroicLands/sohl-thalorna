@@ -12,7 +12,7 @@ name:
   title: Lord
   given: Aemilon
   clan: Visbari
-  home: Valdosta
+  home: valdosta
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr

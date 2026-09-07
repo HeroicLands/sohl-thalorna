@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mer'tep
   clan: Ankh'Khes
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Mertep AnkhKhes
 packFolder: northernfertileregiontakheperu

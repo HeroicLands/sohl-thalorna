@@ -7,7 +7,7 @@ name:
   title: ""
   given: Konstántinos
   clan: Polytimós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: knstntnsplytms

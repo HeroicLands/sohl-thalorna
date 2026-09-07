@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thésia
   clan: Delvánor
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Seraphine Steelheart
 packFolder: aureldiatarvenia

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Minàka
   clan: Parikṣhana
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: minakprkhn

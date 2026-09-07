@@ -96,7 +96,7 @@ data:
         purse.
   commonSkills:
     - helonclng
-  seat: null
+  seat: korinthea2
   domains:
     - helionis
   population: null

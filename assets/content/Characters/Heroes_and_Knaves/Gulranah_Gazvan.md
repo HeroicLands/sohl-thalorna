@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gulrânah
   clan: Gazvân
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: gulrnhgzvn

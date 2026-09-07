@@ -8,7 +8,7 @@ name:
   title: ""
   given: Qâmira
   clan: Lamari
-  home: Qasirah
+  home: qasirah
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: qamiralamr

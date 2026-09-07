@@ -8,7 +8,7 @@ name:
   title: ""
   given: Par'ri
   clan: Re'en'Khensu
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Parri ReenKhensu
 packFolder: northernfertileregiontakheperu

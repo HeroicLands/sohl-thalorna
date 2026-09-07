@@ -8,7 +8,7 @@ name:
   title: ""
   given: Cárenna
   clan: Gráveth
-  home: Torreviga
+  home: torreviga
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: carengrvth

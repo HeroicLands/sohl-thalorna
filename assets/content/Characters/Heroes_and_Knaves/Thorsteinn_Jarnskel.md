@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thorsteinn
   clan: Járnskel
-  home: Járnhavn
+  home: jarnhavn
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnjrnskl

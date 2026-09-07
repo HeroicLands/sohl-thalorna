@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sâbir
   clan: Âjira
-  home: Qasirah
+  home: qasirah
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: sabirajira

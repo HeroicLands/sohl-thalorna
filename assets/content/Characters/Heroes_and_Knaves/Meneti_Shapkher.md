@@ -8,7 +8,7 @@ name:
   title: ""
   given: Meneti
   clan: Shap'kher
-  home: Khensuret
+  home: khensuret
   aliases:
     - Meneti Shapkher
 packFolder: northernfertileregiontakheperu

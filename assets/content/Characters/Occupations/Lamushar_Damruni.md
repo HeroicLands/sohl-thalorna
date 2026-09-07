@@ -7,7 +7,7 @@ name:
   title: ""
   given: Lamûshar
   clan: Damrûnî
-  home: Qadhirun
+  home: qadhirun
   aliases:
     - Cedric Ashwood
 packFolder: midhalionharad

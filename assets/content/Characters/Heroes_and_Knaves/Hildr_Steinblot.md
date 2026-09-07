@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hildr
   clan: Steinblót
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hldrstnblt

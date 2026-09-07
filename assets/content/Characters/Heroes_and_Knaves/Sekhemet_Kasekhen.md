@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sekhemet
   clan: Ka'sekhen
-  home: Khensuret
+  home: khensuret
   aliases:
     - Sekhemet Kasekhen
 packFolder: northernfertileregiontakheperu

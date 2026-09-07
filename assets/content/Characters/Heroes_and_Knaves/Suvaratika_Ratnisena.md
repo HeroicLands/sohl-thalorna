@@ -7,7 +7,7 @@ name:
   title: ""
   given: Suvaratika
   clan: Ratniseṇa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: suvrtkrtns

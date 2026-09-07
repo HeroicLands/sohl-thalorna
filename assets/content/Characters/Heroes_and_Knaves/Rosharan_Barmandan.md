@@ -8,7 +8,7 @@ name:
   title: ""
   given: Rosharan
   clan: Barmandan
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rshrnbrmndn

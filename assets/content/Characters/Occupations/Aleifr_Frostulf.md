@@ -7,7 +7,7 @@ name:
   title: ""
   given: Áleifr
   clan: Frostulf
-  home: Greyfjord
+  home: greyfjord
   aliases:
     - Garron Oakleaf
 packFolder: ankarisnordlands

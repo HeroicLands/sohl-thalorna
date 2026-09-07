@@ -7,7 +7,7 @@ name:
   title: ""
   given: Gávrilos
   clan: Niktariôtês
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: gvrlsnktrts

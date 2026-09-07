@@ -7,7 +7,7 @@ name:
   title: ""
   given: Edgar
   clan: Chilton
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Thadeus Grimshaw
 packFolder: aureldiaaelwyth

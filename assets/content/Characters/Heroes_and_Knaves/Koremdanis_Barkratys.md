@@ -7,7 +7,7 @@ name:
   title: ""
   given: Korêmdânis
   clan: Bárkrâtys
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: krmdnsbrkrtys

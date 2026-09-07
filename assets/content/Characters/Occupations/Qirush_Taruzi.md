@@ -7,7 +7,7 @@ name:
   title: ""
   given: Qirûsh
   clan: Tarûzî
-  home: Sulûn
+  home: sulun
   aliases:
     - Torvin Hidebark
 packFolder: midhalionharad

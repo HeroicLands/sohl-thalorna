@@ -8,7 +8,7 @@ name:
   title: ""
   given: Nushir
   clan: Narsâfî
-  home: Zargandûr
+  home: zargandur
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: nushirnrsf

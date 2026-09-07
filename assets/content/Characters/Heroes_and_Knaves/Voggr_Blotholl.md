@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vǫggr
   clan: Blóthǫll
-  home: Blóth
+  home: bloth
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vogrblothl

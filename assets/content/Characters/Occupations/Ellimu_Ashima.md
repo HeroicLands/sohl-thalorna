@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ellimû
   clan: Ashîmâ
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Harlan Cragmoor
 packFolder: midhalionharad

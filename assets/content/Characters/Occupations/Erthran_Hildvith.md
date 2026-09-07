@@ -7,7 +7,7 @@ name:
   title: ""
   given: Erthran
   clan: Hildvith
-  home: Waldburg
+  home: waldburg
   aliases:
     - Bram Hollowfoot
 packFolder: ankarisvrystwald

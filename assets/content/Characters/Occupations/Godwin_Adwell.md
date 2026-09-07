@@ -7,7 +7,7 @@ name:
   title: ""
   given: Godwin
   clan: Adwell
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Bronn Hillstride
 packFolder: aureldiaaelwyth

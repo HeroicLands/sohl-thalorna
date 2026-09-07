@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hallveig
   clan: Stormrót
-  home: Frostmark
+  home: frostmark
   aliases:
     - Lysandra Aetherwind
 packFolder: ankarisnordlands

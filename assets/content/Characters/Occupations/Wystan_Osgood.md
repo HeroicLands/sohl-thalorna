@@ -7,7 +7,7 @@ name:
   title: ""
   given: Wystan
   clan: Osgood
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Finn the Ratcatcher
 packFolder: aureldiaaelwyth

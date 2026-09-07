@@ -7,7 +7,7 @@ name:
   title: ""
   given: Úrelè
   clan: Rálwen
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Mara Sunpetal
 packFolder: aureldiaprovenzia

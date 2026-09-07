@@ -8,7 +8,7 @@ name:
   title: ""
   given: Skúli
   clan: Vetrdómr
-  home: Greyfjord
+  home: greyfjord
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skulvtrdmr

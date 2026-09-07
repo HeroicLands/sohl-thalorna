@@ -8,7 +8,7 @@ name:
   title: ""
   given: Dûmàrês
   clan: Râfîrôs
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Sérolan Cedric Lightbringer
 packFolder: helladhelionis

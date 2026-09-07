@@ -7,7 +7,7 @@ name:
   title: ""
   given: Athalwa
   clan: Vithrúnd
-  home: Eichengrund
+  home: eichengrnd
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: athlwvthrnd

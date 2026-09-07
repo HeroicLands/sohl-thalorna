@@ -8,7 +8,7 @@ name:
   title: ""
   given: Shadiq
   clan: Rahman
-  home: Korinthel
+  home: korinthel
   aliases:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara

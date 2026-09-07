@@ -7,7 +7,7 @@ name:
   title: ""
   given: Gârlen
   clan: Dhárel
-  home: Elanmere
+  home: elanmere
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: garlendhrl

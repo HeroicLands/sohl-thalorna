@@ -9,7 +9,7 @@ name:
   title: ""
   given: Layla
   clan: Marut
-  home: Bethûra
+  home: bethura
   aliases:
     - The Merchant Princess
 packFolder: northernfertileregionbethua

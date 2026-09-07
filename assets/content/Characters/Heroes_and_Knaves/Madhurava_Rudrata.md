@@ -8,7 +8,7 @@ name:
   title: ""
   given: Màdhurava
   clan: Rudraṭa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: madhurvrdr

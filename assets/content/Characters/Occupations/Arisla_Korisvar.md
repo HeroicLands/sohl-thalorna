@@ -7,7 +7,7 @@ name:
   title: Lady
   given: Árisla
   clan: Kórisvar
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Lady Elowen Faircourt
 packFolder: aureldiaprovenzia

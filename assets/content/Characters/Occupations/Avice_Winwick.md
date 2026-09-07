@@ -7,7 +7,7 @@ name:
   title: ""
   given: Avice
   clan: Winwick
-  home: Thornbury
+  home: thornbury
   aliases:
     - Selene Wavecaller
 packFolder: aureldiaaelwyth

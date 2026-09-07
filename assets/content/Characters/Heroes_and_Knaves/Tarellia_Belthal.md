@@ -8,7 +8,7 @@ name:
   title: ""
   given: Tárellia
   clan: Bélthal
-  home: Port Aelion
+  home: portaelion
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: tarelblthl

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Isaret
   clan: Ka'Seker
-  home: Khensuret
+  home: khensuret
   aliases:
     - Whispers
     - The Dancing Shadow

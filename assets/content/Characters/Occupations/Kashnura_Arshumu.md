@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kashnûra
   clan: Arshûmû
-  home: Qadhirun
+  home: qadhirun
   aliases:
     - Edda Buckley
 packFolder: midhalionharad

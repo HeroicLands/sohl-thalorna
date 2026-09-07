@@ -7,7 +7,7 @@ name:
   title: ""
   given: Edwin
   clan: Garmon
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Eirik Ironfist
 packFolder: aureldiaaelwyth

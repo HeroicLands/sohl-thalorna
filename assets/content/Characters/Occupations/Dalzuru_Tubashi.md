@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dalzûru
   clan: Tûbashî
-  home: Kethara
+  home: kethara2
   aliases:
     - Sigurd Ravensong
 packFolder: midhalionharad

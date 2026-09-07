@@ -7,7 +7,7 @@ name:
   title: ""
   given: Padmàvali
   clan: Dhanurvedakīrtirāja
-  home: Suvarṇagiri
+  home: suvaragiri
   aliases: []
 packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj

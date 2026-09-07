@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rýlden
   clan: Brânwyld
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Thrand Blackwood
 packFolder: aureldiaprovenzia

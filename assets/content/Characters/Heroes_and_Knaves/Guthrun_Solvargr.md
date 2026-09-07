@@ -7,7 +7,7 @@ name:
   title: ""
   given: Guthrún
   clan: Sólvargr
-  home: Greyfjord
+  home: greyfjord
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gthrnslvrgr

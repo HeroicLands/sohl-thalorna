@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kûrûya
   clan: Ashîmâ
-  home: Varoshan
+  home: kashmuret
   aliases:
     - Liora Emberhand
 packFolder: midhalionharad

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sundwíra
   clan: Hildvith
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - Elara Hoofprint
 packFolder: ankarisvrystwald

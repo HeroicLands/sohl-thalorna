@@ -8,7 +8,7 @@ name:
   title: ""
   given: Shebas
   clan: Thutmosa
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

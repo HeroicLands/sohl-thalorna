@@ -7,7 +7,7 @@ name:
   title: ""
   given: Shârûsh
   clan: Kadûmû
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Cedric Honeywood
 packFolder: midhalionharad

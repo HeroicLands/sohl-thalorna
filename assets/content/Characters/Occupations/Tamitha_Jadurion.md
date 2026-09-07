@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tamîtha
   clan: Jâdurîon
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Elysia Stonehewer
 packFolder: helladhelionis

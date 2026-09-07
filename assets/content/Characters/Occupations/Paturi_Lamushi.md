@@ -8,7 +8,7 @@ name:
   title: ""
   given: Pâtûri
   clan: Lamûshî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Hilda Brigham
 packFolder: midhalionharad

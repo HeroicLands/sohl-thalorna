@@ -8,7 +8,7 @@ name:
   title: ""
   given: Philándros
   clan: Kyriákos
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlndrskyrks

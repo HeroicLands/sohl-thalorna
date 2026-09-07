@@ -7,7 +7,7 @@ name:
   title: ""
   given: Aldwin
   clan: Grayling
-  home: Ravenmoor
+  home: ravenmoor
   aliases:
     - Harlon Pitch
 packFolder: aureldiaaelwyth

@@ -9,7 +9,7 @@ name:
   title: ""
   given: Dagmar
   clan: ""
-  home: Stálbrekka
+  home: stalbrekka
   aliases:
     - the Rogue Skald
 packFolder: ankarisnordlands

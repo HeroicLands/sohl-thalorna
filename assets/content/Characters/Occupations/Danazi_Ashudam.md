@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dânâzi
   clan: Ashûdam
-  home: Varoshan
+  home: kashmuret
   aliases:
     - Selene Ironclaw
 packFolder: midhalionharad

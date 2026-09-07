@@ -7,7 +7,7 @@ name:
   title: ""
   given: Eshârum
   clan: Ellûram
-  home: Kashmuret
+  home: kashmuret
   aliases:
     - Edwin Hale
 packFolder: midhalionharad

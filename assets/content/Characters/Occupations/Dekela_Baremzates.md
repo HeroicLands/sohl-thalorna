@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dékêla
   clan: Bàremzâtês
-  home: Aelissium
+  home: aelissium
   aliases:
     - Elara Clayforge
 packFolder: midhalionvylaria

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Khatah
   clan: Mey'khari
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Khatah Meykhari
 packFolder: northernfertileregiontakheperu

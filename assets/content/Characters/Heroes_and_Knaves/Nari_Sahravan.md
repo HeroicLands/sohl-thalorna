@@ -8,7 +8,7 @@ name:
   title: ""
   given: Nari
   clan: Sahravân
-  home: Oasis of Shirvan
+  home: oasishirvn
   aliases:
     - The Desert Mystic
 packFolder: ankariskhazryndesert

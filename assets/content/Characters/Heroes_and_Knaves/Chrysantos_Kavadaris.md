@@ -8,7 +8,7 @@ name:
   title: ""
   given: Chrysántos
   clan: Kavadáris
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: chrysntskvdrs

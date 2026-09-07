@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sénapati
   clan: Vikramâda
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: senptvkrmd

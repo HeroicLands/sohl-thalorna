@@ -8,7 +8,7 @@ name:
   title: ""
   given: Hotep
   clan: Anu
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - The Exiled Priest
 packFolder: northernfertileregiontakheperu

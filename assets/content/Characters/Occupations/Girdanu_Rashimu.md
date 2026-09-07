@@ -7,7 +7,7 @@ name:
   title: ""
   given: Girdanû
   clan: Rashîmû
-  home: Qadhirun
+  home: qadhirun
   aliases:
     - Thoran Stonebreaker
 packFolder: midhalionharad

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thária
   clan: Castírenna
-  home: Solárden
+  home: solarden
   aliases:
     - Ilara Sunshade
 packFolder: aureldiatarvenia

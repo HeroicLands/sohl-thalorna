@@ -9,7 +9,7 @@ name:
   title: Father
   given: Iztéban
   clan: Alkássar
-  home: Torreviga
+  home: torreviga
   aliases:
     - The Jánusian Priest
 packFolder: aureldiatarvenia

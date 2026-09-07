@@ -7,7 +7,7 @@ name:
   title: ""
   given: Zálren
   clan: Lýskal
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Harvin Greenbark
 packFolder: aureldiaprovenzia

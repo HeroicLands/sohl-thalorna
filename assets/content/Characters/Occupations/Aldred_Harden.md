@@ -7,7 +7,7 @@ name:
   title: ""
   given: Aldred
   clan: Harden
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Cedric Goldleaf
 packFolder: aureldiaaelwyth

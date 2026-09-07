@@ -8,7 +8,7 @@ name:
   title: ""
   given: Viśvambhārākhila
   clan: Ratnāṅgadēvadāsa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vsvmbhrkhlrtngdvds

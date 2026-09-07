@@ -7,7 +7,7 @@ name:
   title: ""
   given: Shâdezar
   clan: Kamruz
-  home: Dûn Ashir
+  home: dunashir
   aliases: []
 packFolder: dunharatribes
 shortcode: shadzrkmrz

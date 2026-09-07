@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ídrisè
   clan: Kórisvar
-  home: Elanmere
+  home: elanmere
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr

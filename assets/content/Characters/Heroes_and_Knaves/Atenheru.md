@@ -8,7 +8,7 @@ name:
   title: ""
   given: Atenheru
   clan: Sahri
-  home: Khar al-Sular
+  home: kharalsulr
   aliases:
     - The Silent Jackal
     - The Desert Wanderer

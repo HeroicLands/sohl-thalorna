@@ -9,7 +9,7 @@ name:
   title: ""
   given: Ríkarthr
   clan: Íseldr
-  home: Thorrborg
+  home: thorrborg
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rkrthrsldr

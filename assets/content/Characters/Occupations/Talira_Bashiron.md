@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tàlîra
   clan: Bâshirôn
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Elspeth Rowen
 packFolder: helladhelionis

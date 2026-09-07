@@ -7,7 +7,7 @@ name:
   title: ""
   given: Agápeia
   clan: Varzánês
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: agapevrzns

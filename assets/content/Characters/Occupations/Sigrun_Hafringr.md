@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sigrún
   clan: Hafringr
-  home: Stormveil
+  home: stormveil
   aliases: []
 packFolder: aureldiaaelwyth
 shortcode: sgrnhfrngr

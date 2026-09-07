@@ -7,7 +7,7 @@ name:
   title: ""
   given: Alfred
   clan: Barnwell
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Thalos Graymoor
 packFolder: aureldiaaelwyth

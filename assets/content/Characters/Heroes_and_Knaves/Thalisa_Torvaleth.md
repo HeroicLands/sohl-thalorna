@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thalísa
   clan: Torvaleth
-  home: Eskárath
+  home: null # was: Eskárath
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: thlstrvlth

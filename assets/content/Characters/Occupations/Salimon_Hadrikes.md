@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sâlimón
   clan: Hâdrîkês
-  home: Therádon
+  home: theradon2
   aliases:
     - Dr. Alistair Reed
 packFolder: helladhelionis

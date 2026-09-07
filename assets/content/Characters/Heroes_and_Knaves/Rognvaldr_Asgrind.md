@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rǫgnvaldr
   clan: Ásgrind
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd

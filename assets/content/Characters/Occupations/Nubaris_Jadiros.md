@@ -7,7 +7,7 @@ name:
   title: Lady
   given: Nûbàris
   clan: Jâdîrôs
-  home: Therádon
+  home: theradon2
   aliases:
     - Lady Mirabel Shadowthorn
 packFolder: helladhelionis

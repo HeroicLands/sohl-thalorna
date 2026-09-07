@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ázîna
   clan: Râfîrôs
-  home: Therádon
+  home: theradon2
   aliases:
     - Elira Coldbrook
 packFolder: helladhelionis

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Nílara
   clan: Tólgen
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Maelis Oakhand
 packFolder: aureldiaprovenzia

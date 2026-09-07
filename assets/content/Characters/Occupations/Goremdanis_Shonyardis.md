@@ -7,7 +7,7 @@ name:
   title: ""
   given: Goremdânis
   clan: Shônyàrdîs
-  home: Corvinus
+  home: corvinus
   aliases:
     - Eirik Windwhistle
 packFolder: midhalionvylaria

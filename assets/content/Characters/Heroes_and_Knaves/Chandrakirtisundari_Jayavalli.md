@@ -7,7 +7,7 @@ name:
   title: ""
   given: Chandrakīrtisundarī
   clan: Jayavalli
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl

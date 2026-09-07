@@ -7,7 +7,7 @@ name:
   title: ""
   given: Xadrôs
   clan: Dâemâtês
-  home: Sanctara
+  home: sanctara
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xadrosdmts

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Satîya
   clan: Neb'akhet
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Satîya Nebakhet
     - Satiya Nebakhet

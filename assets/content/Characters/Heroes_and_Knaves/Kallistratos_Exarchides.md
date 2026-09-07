@@ -8,7 +8,7 @@ name:
   title: ""
   given: Kallistratos
   clan: Exarchides
-  home: Velysâra
+  home: velysara
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds

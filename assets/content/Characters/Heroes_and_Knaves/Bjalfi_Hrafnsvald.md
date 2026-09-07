@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bjalfi
   clan: Hrafnsvald
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjlfhrfnsvld

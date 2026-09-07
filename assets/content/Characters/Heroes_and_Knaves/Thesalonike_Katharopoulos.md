@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thêsaloníke
   clan: Katharópoulos
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: thslnkkthrpls

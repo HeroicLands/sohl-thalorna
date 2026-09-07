@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dek
   clan: Vetrdómr
-  home: Hávamál
+  home: havamal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: dekvetrdmr

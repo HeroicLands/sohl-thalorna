@@ -7,7 +7,7 @@ name:
   title: ""
   given: Edric
   clan: Alverton
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Bram Hollowhill
 packFolder: aureldiaaelwyth

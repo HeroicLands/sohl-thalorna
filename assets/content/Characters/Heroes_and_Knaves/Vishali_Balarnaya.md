@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vishali
   clan: Bâlarṇaya
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vishalblry

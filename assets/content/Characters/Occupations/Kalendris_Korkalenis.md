@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kàlendrîs
   clan: Korkâlenîs
-  home: Velysâra
+  home: velysara
   aliases:
     - Marisella Cloven
 packFolder: midhalionvylaria

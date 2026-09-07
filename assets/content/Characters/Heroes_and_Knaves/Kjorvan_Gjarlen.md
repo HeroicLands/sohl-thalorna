@@ -8,7 +8,7 @@ name:
   title: ""
   given: Kjôrvan
   clan: Gjârlen
-  home: Fiòrdaure
+  home: fiordaure
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln

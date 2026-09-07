@@ -7,7 +7,7 @@ name:
   title: ""
   given: Daryash
   clan: Shavân
-  home: Zaristan
+  home: zaristan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: daryshshvn

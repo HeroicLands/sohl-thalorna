@@ -7,7 +7,7 @@ name:
   title: ""
   given: Émyna
   clan: Óthral
-  home: Valdûn
+  home: valdun
   aliases:
     - Seraphina Duval
 packFolder: aureldiaelavendre

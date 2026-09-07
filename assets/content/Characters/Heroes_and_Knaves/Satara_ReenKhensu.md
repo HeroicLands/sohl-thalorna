@@ -8,7 +8,7 @@ name:
   title: ""
   given: Satara
   clan: Re'en'Khensu
-  home: Khensuret
+  home: khensuret
   aliases:
     - Satara ReenKhensu
 packFolder: northernfertileregiontakheperu

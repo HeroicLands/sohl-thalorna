@@ -8,7 +8,7 @@ name:
   title: ""
   given: Pallàvi
   clan: Drâviksha
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: palvdrvksh

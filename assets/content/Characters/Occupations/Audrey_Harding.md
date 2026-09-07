@@ -8,7 +8,7 @@ name:
   title: ""
   given: Audrey
   clan: Harding
-  home: Greywater
+  home: greywater
   aliases:
     - Shénasenè Callista Tradewind
 packFolder: aureldiaaelwyth

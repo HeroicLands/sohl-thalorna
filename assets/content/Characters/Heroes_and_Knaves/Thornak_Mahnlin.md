@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thornak
   clan: Mahnlin
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - The Boar-Totem Warrior
     - Blodtūsc Bār

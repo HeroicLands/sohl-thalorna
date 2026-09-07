@@ -8,7 +8,7 @@ name:
   title: ""
   given: Hélénaia
   clan: Mystákês
-  home: Karataş
+  home: karatas2
   aliases: []
 packFolder: helladbyzaria
 shortcode: helnmystks

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kallínikos
   clan: Zygomálas
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: klnkszygmls

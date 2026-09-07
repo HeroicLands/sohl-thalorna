@@ -7,7 +7,7 @@ name:
   title: ""
   given: Târlig
   clan: Tólgen
-  home: Belpòrte
+  home: belporte
   aliases:
     - Oswin Thatchwell
 packFolder: aureldiaprovenzia

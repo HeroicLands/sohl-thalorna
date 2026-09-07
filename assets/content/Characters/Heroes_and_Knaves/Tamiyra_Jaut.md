@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ta'miyra
   clan: Jâut
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Tamiyra Jâut
     - Tamiyra Jaut

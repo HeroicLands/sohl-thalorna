@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thêbas
   clan: Ghânîdês
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Cedwin Longstride
 packFolder: helladhelionis

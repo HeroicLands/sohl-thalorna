@@ -7,7 +7,7 @@ name:
   title: ""
   given: Marzûna
   clan: Ashûram
-  home: Azhûn
+  home: azhun2
   aliases:
     - Rhea Ironheart
 packFolder: midhalionharad

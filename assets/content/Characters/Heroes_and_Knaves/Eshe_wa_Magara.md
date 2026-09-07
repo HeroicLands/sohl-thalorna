@@ -8,7 +8,7 @@ name:
   title: ""
   given: Eshe
   clan: Magara
-  home: Zarhánor
+  home: zarhanor
   aliases:
     - The Spirit Blade Warrior
 packFolder: northernfertileregionokharis

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Akhrem
   clan: Re'en'fré
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Akhrem Reenfré
 packFolder: northernfertileregiontakheperu

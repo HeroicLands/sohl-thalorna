@@ -7,7 +7,7 @@ name:
   title: ""
   given: Leifr
   clan: Dróttgar
-  home: Frostmark
+  home: frostmark
   aliases:
     - Jorah Stone
 packFolder: ankarisnordlands

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Azéndas
   clan: Dâemâtôr
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Ebaséthè Rowan Thistlewood
 packFolder: midhalionvylaria

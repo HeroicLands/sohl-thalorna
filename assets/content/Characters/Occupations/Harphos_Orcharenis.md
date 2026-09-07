@@ -8,7 +8,7 @@ name:
   title: ""
   given: Harphôs
   clan: Ôrchârenîs
-  home: Aelissium
+  home: aelissium
   aliases:
     - Alric Henton
 packFolder: midhalionvylaria

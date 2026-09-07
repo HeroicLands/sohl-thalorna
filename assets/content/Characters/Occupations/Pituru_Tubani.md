@@ -7,7 +7,7 @@ name:
   title: ""
   given: Pitûrû
   clan: Tûbanî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Cedric Earthshaker
 packFolder: midhalionharad

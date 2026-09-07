@@ -8,7 +8,7 @@ name:
   title: ""
   given: Kiroba
   clan: Shókuma
-  home: Ithrákor
+  home: ithrakor
   aliases: []
 packFolder: northernfertileregionokharis
 shortcode: kirobashkm

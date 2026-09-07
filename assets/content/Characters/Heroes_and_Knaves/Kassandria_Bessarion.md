@@ -9,7 +9,7 @@ name:
   title: ""
   given: Kassándria
   clan: Bessarîon
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: kasndrbsrn

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mithran
   clan: Shiradar
-  home: Oasis of Teyran
+  home: oasisteyrn
   aliases: []
 packFolder: dunharatribes
 shortcode: mthrnshrdr

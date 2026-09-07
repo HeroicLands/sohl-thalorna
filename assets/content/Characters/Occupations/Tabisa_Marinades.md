@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tàbîsa
   clan: Mârinadês
-  home: Kalydria
+  home: kalydria2
   aliases:
     - Sigrid Stonemantle
 packFolder: helladhelionis

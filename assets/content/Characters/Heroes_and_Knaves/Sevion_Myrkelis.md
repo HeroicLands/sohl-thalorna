@@ -9,7 +9,7 @@ name:
   title: ""
   given: Sevion
   clan: Myrkelis
-  home: Liranel
+  home: liranel
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: sevnmyrkls

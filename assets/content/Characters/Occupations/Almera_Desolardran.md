@@ -7,7 +7,7 @@ name:
   title: ""
   given: Álmera
   clan: Desolárdran
-  home: Valthári
+  home: valthari
   aliases:
     - Elira Swiftfoot
 packFolder: aureldiatarvenia

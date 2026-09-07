@@ -7,7 +7,7 @@ name:
   title: ""
   given: Jâdhâros
   clan: Bâshirôn
-  home: Myrtillos
+  home: myrtillos
   aliases:
     - Jeb Flint
 packFolder: helladhelionis

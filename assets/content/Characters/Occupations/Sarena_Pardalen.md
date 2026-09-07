@@ -8,7 +8,7 @@ name:
   title: ""
   given: Sárena
   clan: Párdalen
-  home: Silvain
+  home: silvain
   aliases:
     - Reslâva Mira Lightwhisper
 packFolder: aureldiaelavendre

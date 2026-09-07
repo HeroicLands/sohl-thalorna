@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kalída
   clan: Kourkásios
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: kalidkrkss

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Cassia
   clan: Verric
-  home: Magnápolis
+  home: magnapolis
   aliases:
     - The Harbour Factor
     - The Empire's Hand on the Southern Shore

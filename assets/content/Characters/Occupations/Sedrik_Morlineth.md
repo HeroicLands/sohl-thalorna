@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sédrik
   clan: Mórlineth
-  home: Liranel
+  home: liranel
   aliases:
     - Edric Stonewall
 packFolder: aureldiaelavendre

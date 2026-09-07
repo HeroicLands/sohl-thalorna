@@ -7,7 +7,7 @@ name:
   title: ""
   given: Snorri
   clan: Járnskel
-  home: Thrymstead
+  home: thrymstead
   aliases: []
 packFolder: ankarisnordlands
 shortcode: snorjrnskl

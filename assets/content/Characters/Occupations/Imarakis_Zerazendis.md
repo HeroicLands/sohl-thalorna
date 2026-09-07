@@ -7,7 +7,7 @@ name:
   title: ""
   given: Îmarakîs
   clan: Zêrâzêndis
-  home: Belekos
+  home: belekos
   aliases:
     - Halda Drumwright
 packFolder: midhalionvylaria

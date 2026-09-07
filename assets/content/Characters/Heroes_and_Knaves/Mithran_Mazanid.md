@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mithran
   clan: Mazânid
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mithrnmznd

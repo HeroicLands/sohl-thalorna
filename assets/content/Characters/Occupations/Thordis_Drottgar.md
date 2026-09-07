@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thórdís
   clan: Dróttgar
-  home: Skarholme
+  home: skarholme
   aliases:
     - Liora Ashdown
 packFolder: ankarisnordlands

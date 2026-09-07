@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hallbjǫrn
   clan: Ásgrind
-  home: Thrymstead
+  home: thrymstead
   aliases:
     - Eadric Hawke
 packFolder: ankarisnordlands

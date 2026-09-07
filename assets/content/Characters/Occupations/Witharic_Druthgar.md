@@ -8,7 +8,7 @@ name:
   title: ""
   given: Wítharic
   clan: Druthgar
-  home: Waldburg
+  home: waldburg
   aliases:
     - Thorne Harrows
 packFolder: ankarisvrystwald

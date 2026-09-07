@@ -7,7 +7,7 @@ name:
   title: ""
   given: Jǫrundr
   clan: Frostulf
-  home: Thrymstead
+  home: thrymstead
   aliases:
     - Halwyn Ironbrace
 packFolder: ankarisnordlands

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Meret-Sebek
   clan: Heka’amun
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu

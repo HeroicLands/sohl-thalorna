@@ -7,7 +7,7 @@ name:
   title: ""
   given: Zahîra
   clan: Tâbîrês
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Elira Weaver
 packFolder: helladhelionis

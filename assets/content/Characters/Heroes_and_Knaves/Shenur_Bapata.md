@@ -8,7 +8,7 @@ name:
   title: ""
   given: Shenur
   clan: Ba'pata
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Shenur Bapata
 packFolder: northernfertileregiontakheperu

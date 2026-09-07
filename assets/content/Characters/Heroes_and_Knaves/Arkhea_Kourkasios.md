@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arkhêa
   clan: Kourkásios
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkhekrkss

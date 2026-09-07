@@ -7,7 +7,7 @@ name:
   title: ""
   given: Philothêia
   clan: Niktariôtês
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlthnktrts

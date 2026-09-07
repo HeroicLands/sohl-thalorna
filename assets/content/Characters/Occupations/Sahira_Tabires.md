@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sahîra
   clan: Tâbîrês
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Elowen Quillmaster
 packFolder: helladhelionis

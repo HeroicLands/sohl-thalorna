@@ -8,7 +8,7 @@ name:
   title: ""
   given: Véthar
   clan: Balthhelm
-  home: Waldburg
+  home: waldburg
   aliases:
     - Torvald Grimstone
 packFolder: ankarisvrystwald

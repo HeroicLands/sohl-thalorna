@@ -7,7 +7,7 @@ name:
   title: ""
   given: Cuthbert
   clan: Sherwin
-  home: Thornbury
+  home: thornbury
   aliases:
     - Tovan Greenfist
 packFolder: aureldiaaelwyth

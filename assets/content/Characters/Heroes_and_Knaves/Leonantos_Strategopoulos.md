@@ -9,7 +9,7 @@ name:
   title: ""
   given: Leónantos
   clan: Stratégopoulos
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: lnntstrtgpls

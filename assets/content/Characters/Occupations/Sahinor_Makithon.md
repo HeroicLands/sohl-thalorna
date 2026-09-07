@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sahînór
   clan: Mâkîthôn
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Sir Alaric Emberhill
 packFolder: helladhelionis

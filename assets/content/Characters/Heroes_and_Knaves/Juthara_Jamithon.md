@@ -7,7 +7,7 @@ name:
   title: ""
   given: Júthâra
   clan: Jâmîthôn
-  home: Ashíra
+  home: ashira
   aliases: []
 packFolder: northernfertileregionbethua
 shortcode: juthrjmthn

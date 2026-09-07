@@ -8,7 +8,7 @@ name:
   title: ""
   given: Pat'nefur
   clan: Set'maâr
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Patnefur Setmaâr
     - Patnefur Setmaar

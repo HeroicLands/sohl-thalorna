@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kyàsârâ
   clan: Kâselmakîs
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Isolde Faire
 packFolder: midhalionvylaria

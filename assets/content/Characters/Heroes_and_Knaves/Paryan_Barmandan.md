@@ -8,7 +8,7 @@ name:
   title: ""
   given: Paryan
   clan: Barmandan
-  home: Golshahr
+  home: golshahr
   aliases: []
 packFolder: sultanateofamradad
 shortcode: prynbrmndn

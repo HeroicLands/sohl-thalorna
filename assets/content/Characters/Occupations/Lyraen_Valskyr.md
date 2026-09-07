@@ -7,7 +7,7 @@ name:
   title: ""
   given: Lýraen
   clan: Válskyr
-  home: Valcèrise
+  home: valcerise
   aliases:
     - Beatrice Lindley
 packFolder: aureldiaprovenzia

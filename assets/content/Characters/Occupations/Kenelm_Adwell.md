@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kenelm
   clan: Adwell
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Garrik Ironshield
 packFolder: aureldiaaelwyth

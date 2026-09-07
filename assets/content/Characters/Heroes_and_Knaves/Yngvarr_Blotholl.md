@@ -7,7 +7,7 @@ name:
   title: ""
   given: Yngvarr
   clan: Blóthǫll
-  home: Ormstead
+  home: ormstead
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrblthl

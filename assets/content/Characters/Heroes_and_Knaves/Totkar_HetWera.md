@@ -8,7 +8,7 @@ name:
   title: ""
   given: Tot'kar
   clan: Het'Wera
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Totkar HetWera
 packFolder: northernfertileregiontakheperu

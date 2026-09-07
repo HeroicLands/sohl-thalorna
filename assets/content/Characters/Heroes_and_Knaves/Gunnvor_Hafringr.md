@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gunnvǫr
   clan: Hafringr
-  home: Drekavík
+  home: drekavik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnvrhfrngr

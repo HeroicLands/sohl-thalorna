@@ -7,7 +7,7 @@ name:
   title: ""
   given: Bréthar
   clan: Sálthar
-  home: Valdûn
+  home: valdun
   aliases:
     - Beran Rookwood
 packFolder: aureldiaelavendre

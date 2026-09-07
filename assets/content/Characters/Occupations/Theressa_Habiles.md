@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thêrèssa
   clan: Hàbîlês
-  home: Therádon
+  home: theradon2
   aliases:
     - Elenora Gray
 packFolder: helladhelionis

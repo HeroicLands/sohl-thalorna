@@ -7,7 +7,7 @@ name:
   title: ""
   given: Maud
   clan: Osgood
-  home: Greywater
+  home: greywater
   aliases:
     - Gytha Craggs
 packFolder: aureldiaaelwyth

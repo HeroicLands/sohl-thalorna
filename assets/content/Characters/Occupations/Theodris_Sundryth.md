@@ -7,7 +7,7 @@ name:
   title: ""
   given: Theódris
   clan: Sundrýth
-  home: Grimholt
+  home: grimholt
   aliases:
     - Mirabelle Thorn
 packFolder: ankarisvrystwald

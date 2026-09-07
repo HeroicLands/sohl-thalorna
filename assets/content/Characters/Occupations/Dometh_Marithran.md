@@ -8,7 +8,7 @@ name:
   title: ""
   given: Dómeth
   clan: Maríthran
-  home: Castamere
+  home: castamere
   aliases:
     - Alaric Greenshadow
 packFolder: aureldiatarvenia

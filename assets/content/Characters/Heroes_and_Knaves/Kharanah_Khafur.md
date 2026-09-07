@@ -8,7 +8,7 @@ name:
   title: ""
   given: Khârânah
   clan: Khafûr
-  home: Ashkarad
+  home: ashkarad
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kharnhkhfr

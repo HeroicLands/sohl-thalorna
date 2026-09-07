@@ -7,7 +7,7 @@ name:
   title: ""
   given: Elfreda
   clan: Lewknor
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Elara Springbrook
 packFolder: aureldiaaelwyth

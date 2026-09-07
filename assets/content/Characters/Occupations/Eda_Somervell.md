@@ -7,7 +7,7 @@ name:
   title: ""
   given: Eda
   clan: Somervell
-  home: Thornbury
+  home: thornbury
   aliases:
     - Elira Willowbrook
 packFolder: aureldiaaelwyth

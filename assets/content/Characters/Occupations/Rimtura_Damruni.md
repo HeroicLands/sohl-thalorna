@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rimtûra
   clan: Damrûnî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Isolde Fairbloom
 packFolder: midhalionharad

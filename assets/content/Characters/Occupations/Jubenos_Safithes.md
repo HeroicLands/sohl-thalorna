@@ -8,7 +8,7 @@ name:
   title: ""
   given: Júbênós
   clan: Safîthês
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Alaric Rosewood
 packFolder: helladhelionis

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Syphrânôs
   clan: Vârênlâs
-  home: Belekos
+  home: belekos
   aliases:
     - Marcus Bloodbane
 packFolder: midhalionvylaria

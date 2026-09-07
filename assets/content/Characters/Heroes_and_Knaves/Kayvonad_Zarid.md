@@ -8,7 +8,7 @@ name:
   title: ""
   given: Kayvonad
   clan: Zârîd
-  home: Ashkarad
+  home: ashkarad
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kayvondzrd

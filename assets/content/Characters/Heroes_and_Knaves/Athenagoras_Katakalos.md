@@ -7,7 +7,7 @@ name:
   title: ""
   given: Athênagoras
   clan: Katakálos
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: athngrsktkls

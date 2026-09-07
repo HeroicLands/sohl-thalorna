@@ -7,7 +7,7 @@ name:
   title: ""
   given: Khôrn
   clan: Hálren
-  home: Liranel
+  home: liranel
   aliases:
     - Cedric Longstride
 packFolder: aureldiaelavendre

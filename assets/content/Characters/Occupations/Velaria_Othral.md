@@ -8,7 +8,7 @@ name:
   title: ""
   given: Vélaria
   clan: Óthral
-  home: Liranel
+  home: liranel
   aliases:
     - Reslâva Elowen Meadowbloom
 packFolder: aureldiaelavendre

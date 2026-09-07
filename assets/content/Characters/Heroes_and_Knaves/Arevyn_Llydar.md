@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arévyn
   clan: Llýdar
-  home: Liranel
+  home: liranel
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: arevynlydr

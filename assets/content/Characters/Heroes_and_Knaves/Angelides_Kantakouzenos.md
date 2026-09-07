@@ -8,7 +8,7 @@ name:
   title: ""
   given: Ángelides
   clan: Kantakouzenós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldskntkzns

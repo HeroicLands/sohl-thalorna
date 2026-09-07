@@ -7,7 +7,7 @@ name:
   title: ""
   given: Óthwin
   clan: Dómhár
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - Harlan Deepwood
 packFolder: ankarisvrystwald

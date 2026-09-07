@@ -7,7 +7,7 @@ name:
   title: ""
   given: Gunnsteinn
   clan: Vǫrnheim
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnstnvrnhm

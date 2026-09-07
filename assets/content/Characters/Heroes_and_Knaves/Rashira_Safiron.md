@@ -8,7 +8,7 @@ name:
   title: Grammatíssa
   given: Rashîra
   clan: Safîrôn
-  home: Bethûra
+  home: bethura
   aliases:
     - The Keeper of the Purple Warrant
     - The Renegade Grammatíssa

@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gróa
   clan: Vindrkvé
-  home: Hrafnfjord
+  home: hrafnfjord
   aliases:
     - the Seiðr of Norgaad
 packFolder: ankarisnordlands

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thaldrá
   clan: Druthgar
-  home: Thornhaven
+  home: thornhaven
   aliases:
     - "Thalia Hart"
 packFolder: ankarisvrystwald

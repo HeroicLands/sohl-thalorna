@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tavíro
   clan: Delvánor
-  home: Valdés
+  home: valdes
   aliases:
     - Merrick Oarwright
 packFolder: aureldiatarvenia

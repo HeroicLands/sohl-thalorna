@@ -8,7 +8,7 @@ name:
   title: ""
   given: Gamrûn
   clan: Narûsham
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Cedric Valewyn
 packFolder: midhalionharad

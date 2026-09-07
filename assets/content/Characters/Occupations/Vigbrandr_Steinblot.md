@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vígbrandr
   clan: Steinblót
-  home: Ulfheim
+  home: ulfheim
   aliases:
     - Lucien Nightshade
 packFolder: ankarisnordlands

@@ -7,7 +7,7 @@ name:
   title: Haty'a
   given: Her'sa'îs
   clan: Sa'Anut
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Hersaîs SaAnut
     - Hersais SaAnut

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Féthar
   clan: Óthral
-  home: Valdûn
+  home: valdun
   aliases:
     - Jorin Stoneware
 packFolder: aureldiaelavendre

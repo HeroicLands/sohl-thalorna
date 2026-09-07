@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rhália
   clan: Zálreth
-  home: Liranel
+  home: liranel
   aliases:
     - Captain Elysia Windrider
 packFolder: aureldiaelavendre

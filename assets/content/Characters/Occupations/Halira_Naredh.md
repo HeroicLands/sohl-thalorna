@@ -7,7 +7,7 @@ name:
   title: ""
   given: Hâlira
   clan: Náredh
-  home: Valdûn
+  home: valdun
   aliases:
     - Faelan Inkweaver
 packFolder: aureldiaelavendre

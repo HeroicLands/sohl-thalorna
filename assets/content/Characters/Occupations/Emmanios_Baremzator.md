@@ -8,7 +8,7 @@ name:
   title: ""
   given: Émmanîôs
   clan: Bàremzâtôr
-  home: Valdosta
+  home: valdosta
   aliases:
     - Reslâva Aiden Greenfield
 packFolder: midhalionvylaria

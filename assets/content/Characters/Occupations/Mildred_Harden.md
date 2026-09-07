@@ -8,7 +8,7 @@ name:
   title: ""
   given: Mildred
   clan: Harden
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Elda Brightbrew
 packFolder: aureldiaaelwyth

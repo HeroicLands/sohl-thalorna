@@ -7,7 +7,7 @@ name:
   title: ""
   given: Xâthrîon
   clan: Kâserânis
-  home: Valdosta
+  home: valdosta
   aliases:
     - Dr. Fenwick Grayshadow
 packFolder: midhalionvylaria

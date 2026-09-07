@@ -8,7 +8,7 @@ name:
   title: ""
   given: Thórir
   clan: Járnskel
-  home: Greyfjord
+  home: greyfjord
   aliases:
     - Darius Thornveil
 packFolder: ankarisnordlands

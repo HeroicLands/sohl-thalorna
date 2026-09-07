@@ -7,7 +7,7 @@ name:
   title: ""
   given: Aldous
   clan: Brandon
-  home: Thornbury
+  home: thornbury
   aliases:
     - Ansel Mead
 packFolder: aureldiaaelwyth

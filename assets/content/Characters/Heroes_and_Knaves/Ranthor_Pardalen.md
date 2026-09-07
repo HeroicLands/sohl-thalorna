@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ránthor
   clan: Párdalen
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: rnthrprdln

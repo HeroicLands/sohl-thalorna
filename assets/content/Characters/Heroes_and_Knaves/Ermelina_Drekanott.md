@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ermelína
   clan: Drekanótt
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ermlndrknt

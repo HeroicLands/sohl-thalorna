@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rängr
   clan: Vetrdómr
-  home: Skorrborg
+  home: skorrborg
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rngrvtrdmr

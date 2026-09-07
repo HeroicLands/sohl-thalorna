@@ -8,7 +8,7 @@ name:
   title: ""
   given: Afzandah
   clan: Parnâzar
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr

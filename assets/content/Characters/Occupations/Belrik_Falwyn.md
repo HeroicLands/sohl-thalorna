@@ -8,7 +8,7 @@ name:
   title: ""
   given: Bélrik
   clan: Fálwyn
-  home: Liranel
+  home: liranel
   aliases:
     - Aldric Fallow
 packFolder: aureldiaelavendre

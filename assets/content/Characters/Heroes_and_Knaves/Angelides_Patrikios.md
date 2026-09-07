@@ -9,7 +9,7 @@ name:
   title: ""
   given: Ángelides
   clan: Patrikîos
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldsptrks

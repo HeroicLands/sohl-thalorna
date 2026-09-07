@@ -7,7 +7,7 @@ name:
   title: ""
   given: Edrith
   clan: Grayling
-  home: Ravenmoor
+  home: ravenmoor
   aliases:
     - Freya Softskin
 packFolder: aureldiaaelwyth

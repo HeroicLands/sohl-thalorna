@@ -7,7 +7,7 @@ name:
   title: ""
   given: Rodrén
   clan: Jútharen
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Rollo Ember
 packFolder: aureldiatarvenia

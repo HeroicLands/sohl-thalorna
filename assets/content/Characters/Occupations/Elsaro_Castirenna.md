@@ -7,7 +7,7 @@ name:
   title: ""
   given: Élsaro
   clan: Castírenna
-  home: Torreviga
+  home: torreviga
   aliases:
     - Kael Shadowblade
 packFolder: aureldiatarvenia

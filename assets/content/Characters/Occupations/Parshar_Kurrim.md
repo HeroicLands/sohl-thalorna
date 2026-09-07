@@ -8,7 +8,7 @@ name:
   title: ""
   given: Pârshar
   clan: Kûrrîm
-  home: Kethara
+  home: kethara2
   aliases:
     - Oswin Goldlock
 packFolder: midhalionharad

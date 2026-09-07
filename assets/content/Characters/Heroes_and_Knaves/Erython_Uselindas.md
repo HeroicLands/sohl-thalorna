@@ -7,7 +7,7 @@ name:
   title: ""
   given: Érython
   clan: Ûselîndâs
-  home: Nartûm
+  home: nartum
   aliases: []
 packFolder: midhalionvylaria
 shortcode: erythnslnds

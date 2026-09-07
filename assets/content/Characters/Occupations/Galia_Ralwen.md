@@ -7,7 +7,7 @@ name:
   title: Lady
   given: Gália
   clan: Rálwen
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Lady Elowen Brightwood
 packFolder: aureldiaprovenzia

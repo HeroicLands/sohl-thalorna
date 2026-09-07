@@ -8,7 +8,7 @@ name:
   title: ""
   given: Habìdon
   clan: Ghânîdês
-  home: Athenikos
+  home: athenikos2
   aliases: []
 packFolder: helladhelionis
 shortcode: habdnghnds

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Zênais
   clan: Philokálos
-  home: Gümüşhisar
+  home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
 shortcode: zensphlkls

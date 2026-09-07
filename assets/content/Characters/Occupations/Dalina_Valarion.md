@@ -7,7 +7,7 @@ name:
   title: ""
   given: Dálina
   clan: Valárion
-  home: Castamere
+  home: castamere
   aliases:
     - Callista Galeheart
 packFolder: aureldiatarvenia

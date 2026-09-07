@@ -8,7 +8,7 @@ name:
   title: ""
   given: Hrafnkell
   clan: Hrafnsvald
-  home: Járnvík
+  home: jarnvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrfnklhrfnsvld

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Sunáti
   clan: Āyodhyārājavardhan
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: sntydhyrjvrdhn

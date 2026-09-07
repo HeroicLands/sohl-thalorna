@@ -8,7 +8,7 @@ name:
   title: ""
   given: Shadal
   clan: Nadina
-  home: Vashurán
+  home: vashuran
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: shadalnadn

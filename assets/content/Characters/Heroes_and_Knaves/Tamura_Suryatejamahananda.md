@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tamûra
   clan: Sūryatejamahānanda
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: tmrsrytjmhnnd

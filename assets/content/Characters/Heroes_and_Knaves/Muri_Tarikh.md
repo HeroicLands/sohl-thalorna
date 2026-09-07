@@ -7,7 +7,7 @@ name:
   title: ""
   given: Muri
   clan: Târikh
-  home: Vashurán
+  home: vashuran
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh

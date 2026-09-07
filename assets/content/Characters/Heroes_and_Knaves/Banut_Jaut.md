@@ -8,7 +8,7 @@ name:
   title: ""
   given: Bânut
   clan: Jâut
-  home: Meru-Hotep
+  home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

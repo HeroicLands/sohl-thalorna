@@ -9,7 +9,7 @@ name:
   title: ""
   given: Neferet
   clan: Imi-Ra
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu

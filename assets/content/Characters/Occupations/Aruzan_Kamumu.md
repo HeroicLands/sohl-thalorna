@@ -7,7 +7,7 @@ name:
   title: ""
   given: Arûzan
   clan: Kamûmû
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Garrick Stonebreaker
 packFolder: midhalionharad

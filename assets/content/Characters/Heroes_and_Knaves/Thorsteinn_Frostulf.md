@@ -7,7 +7,7 @@ name:
   title: ""
   given: Thorsteinn
   clan: Frostulf
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnfrstlf

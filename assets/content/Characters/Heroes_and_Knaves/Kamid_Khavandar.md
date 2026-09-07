@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kamîd
   clan: Khâvandar
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr

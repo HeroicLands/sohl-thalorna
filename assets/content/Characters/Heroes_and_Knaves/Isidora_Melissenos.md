@@ -7,7 +7,7 @@ name:
   title: ""
   given: Isidôra
   clan: Melissenós
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: isidrmlsns

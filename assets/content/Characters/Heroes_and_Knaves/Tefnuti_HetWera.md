@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tefnutî
   clan: Het'Wera
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Tefnutî HetWera
     - Tefnuti HetWera

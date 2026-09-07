@@ -7,7 +7,7 @@ name:
   title: ""
   given: Vandaric
   clan: Gárskald
-  home: Thornhaven
+  home: thornhaven
   aliases:
     - Finn Stablehand
 packFolder: ankarisvrystwald

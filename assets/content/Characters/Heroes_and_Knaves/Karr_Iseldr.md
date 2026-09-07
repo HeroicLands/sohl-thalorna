@@ -7,7 +7,7 @@ name:
   title: ""
   given: Kárr
   clan: Íseldr
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: karriseldr

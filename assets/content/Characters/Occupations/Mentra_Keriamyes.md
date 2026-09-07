@@ -7,7 +7,7 @@ name:
   title: ""
   given: Mêntrâ
   clan: Kêrîamyês
-  home: Belekos
+  home: belekos
   aliases:
     - Anwen Shardwell
 packFolder: midhalionvylaria

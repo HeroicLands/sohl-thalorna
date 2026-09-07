@@ -7,7 +7,7 @@ name:
   title: ""
   given: Nûlazî
   clan: Zarrâshî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Elara Birchwood
 packFolder: midhalionharad

@@ -7,7 +7,7 @@ name:
   title: ""
   given: Björg
   clan: Drekanótt
-  home: Ulfheim
+  home: ulfheim
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjorgdrknt

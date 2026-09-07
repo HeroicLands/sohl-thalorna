@@ -8,7 +8,7 @@ name:
   title: ""
   given: Dómeth
   clan: Gráveth
-  home: Solárden
+  home: solarden
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: domthgrvth

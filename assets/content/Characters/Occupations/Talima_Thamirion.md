@@ -7,7 +7,7 @@ name:
   title: ""
   given: Tàlîma
   clan: Thamîrîon
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Brynn Digger
 packFolder: helladhelionis

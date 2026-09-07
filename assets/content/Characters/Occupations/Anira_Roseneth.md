@@ -7,7 +7,7 @@ name:
   title: ""
   given: Ánira
   clan: Róseneth
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Liora Hearthsong
 packFolder: aureldiatarvenia

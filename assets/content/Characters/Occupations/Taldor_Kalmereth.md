@@ -7,7 +7,7 @@ name:
   title: ""
   given: Táldor
   clan: Kálmereth
-  home: Elanmere
+  home: elanmere
   aliases:
     - Harlan Tidewalker
 packFolder: aureldiaelavendre

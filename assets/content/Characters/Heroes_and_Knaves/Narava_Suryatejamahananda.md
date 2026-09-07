@@ -7,7 +7,7 @@ name:
   title: ""
   given: Nárava
   clan: Sūryatejamahānanda
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: nrvsrytjmhnnd

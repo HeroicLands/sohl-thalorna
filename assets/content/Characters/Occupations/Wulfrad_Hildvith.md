@@ -7,7 +7,7 @@ name:
   title: ""
   given: Wulfrád
   clan: Hildvith
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - Garrick Blastforge
 packFolder: ankarisvrystwald

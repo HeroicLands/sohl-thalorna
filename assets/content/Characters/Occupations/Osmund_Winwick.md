@@ -7,7 +7,7 @@ name:
   title: ""
   given: Osmund
   clan: Winwick
-  home: Thornbury
+  home: thornbury
   aliases:
     - Arlen Seawind
 packFolder: aureldiaaelwyth

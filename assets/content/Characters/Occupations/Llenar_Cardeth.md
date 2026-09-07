@@ -7,7 +7,7 @@ name:
   title: ""
   given: Llénar
   clan: Cárdeth
-  home: Silvain
+  home: silvain
   aliases:
     - Garrick Mudd
 packFolder: aureldiaelavendre
