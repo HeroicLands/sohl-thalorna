@@ -43,7 +43,7 @@ Culturally, Jürthāt is a civilization of great paradox. It has produced some o
 
 The **caste system** inherited from Tānvür still organizes formal society, but it has been bent around feudal reality. The warrior lords dominate completely; the [[lore-venduk|Vëndük]] sorcerers, so central to mainland power, appear here only as subordinate retainers in individual lords' service. Personal names are granted more freely among the retainer classes than on the mainland — a mark of service rather than exceptional achievement.
 
-The Jürthāti practice **Rëitsīk**, a form of ritual suicide distinct from Tānvür's [[Zëisīk]]. It is not merely an act of atonement but a versatile tool of communication: it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that honor outweighs life. It is taken seriously enough that a lord ordering a subordinate's Rëitsīk stakes his own reputation on the judgment.
+The Jürthāti practice **Rëitsīk**, a form of ritual suicide distinct from Tānvür's [[lore-zeisik|Zëisīk]]. It is not merely an act of atonement but a versatile tool of communication: it can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that honor outweighs life. It is taken seriously enough that a lord ordering a subordinate's Rëitsīk stakes his own reputation on the judgment.
 
 ## Religion
 
