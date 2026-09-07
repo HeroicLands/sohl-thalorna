@@ -19,77 +19,92 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Three city-state priesthoods, each with its own hierarchy and its own titles, all deferring
+      to the High Pyremant of Zarhánis in matters of doctrine and to nobody in anything else. The
+      ranks below give the Zarhánis titles, which are the tradition's spine; the Kaljékor and
+      Vuthráka equivalents at each step are named in the descriptions.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Jivu
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Ash" — put out of the Flame: no temple in Okháris will receive them, no ashmark is set
+          on them at a passage, and no fire they kindle is reckoned descended from the First Ember.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Mwamini
+        lore: layfaithfulrnk
+        description: >-
+          "Believer" — the lay worshipper, keeping the festivals, carrying a pyrestone and lighting
+          the three-wick lamp, without office in any temple. Of the spirits as well, by being
+          Okháric, which is not a matter of profession at all.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Mwanafunzi
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Student of the Flame" — the initiate rank, and the one title the three cities share.
+          Received into a temple and under instruction, whichever aspect they serve.
+      - level: 3
+        title: Mtaalamu wa Moto
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          "Scholar of the Fire" — the ordained priest of Zarhánis. Kaljékor ordains the Mhudumu wa
+          Dhahabu ("Servant of Gold"); Vuthráka the Askari wa Moto ("Soldier of Fire"), a
+          warrior-priest.
+      - level: 4
+        title: Mlinzi wa Roho
+        lore: priestrnk
+        description: >-
+          "Guardian of Spirits" — the senior priest of Zarhánis, charged with the passage of the
+          soul after death. Kaljékor has the Mlinzi wa Utajiri ("Guardian of Wealth"), Vuthráka the
+          Mlinzi wa Vita ("Guardian of Battle"); the Mlinzi wa form is common to all three.
+      - level: 5
+        title: Nabii wa Mwanga
+        lore: highpriestrnk
+        description: >-
+          "Prophet of Light" — temple master at Zarhánis, holding its dreams, visions and communion
+          with the ancestors. Kaljékor's is the Mtawala wa Soko ("Master of the Market"), Vuthráka's
+          the Jemadari wa Moto ("Commander of Fire").
       - level: 6
-        title: Temple Officer
+        title: Mlinzi wa Mwali
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        description: >-
+          Warden of the Flame — head of Vuthráka, a warrior-priest who commands the armies of
+          Okháris in war. Kaljékor is instead headed collectively by the Baraza ya Moto ("Council
+          of Fire"), its ruling priest-nobles.
       - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        title: Pyremant Mkuu
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          The High Pyremant of Zarhánis — supreme spiritual leader of all Okháris and advisor to
+          the Overlord, alone permitted to enter the chamber of the First Ember. One holder; the
+          other two aspects defer to him on doctrine and on nothing else.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Pyremant Mkuu: >-
+        Supreme spiritual leader of Okháris, advisor to the Overlord, and the only person who may
+        enter the chamber of the First Ember.
+      Mlinzi wa Mwali: >-
+        Warden of the Flame at Vuthráka, commanding the armies of Okháris in time of war.
+      Baraza ya Moto: >-
+        The Council of Fire — the priest-nobles who rule Kaljékor collectively, where the other two
+        aspects are headed by one person.
+      Nabii wa Mwanga: >-
+        Prophet of Light, temple master at Zarhánis: dreams, visions, and communion with the
+        ancestors.
+      Mtawala wa Soko: >-
+        Master of the Market at Kaljékor, whose temple doubles as the marketplace, and keeper of
+        the Scales on which trade oaths are sworn.
+      Jemadari wa Moto: >-
+        Commander of Fire at Vuthráka, who holds the Warden's Brand and conducts the Trial of
+        Flames.
+      Mlinzi wa Roho: >-
+        Guardian of Spirits — the senior Zarhánis office charged with the passage of the soul after
+        death, and the temple's point of friction with the Bone-Readers.
+      Keeper of the Ashmark: >-
+        Holder of the hearth-ash and sacred oils, and of the rite by which they are set on the
+        forehead at passage, mourning and consecration.
+      Keeper of the Three Flames: >-
+        The Overlord's own religious title, borne by the temporal ruler rather than any priesthood,
+        and the office in which the unity of the three aspects is embodied.
   commonSkills:
     - nkaruthar
   seat: null
