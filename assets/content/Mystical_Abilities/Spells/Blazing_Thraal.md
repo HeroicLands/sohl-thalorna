@@ -4,7 +4,6 @@ name:
   full: Blazing Thraal
   aliases: []
 description: "Enslaves target in burning fury; caster commands their actions violently."
-id: d3Kk2ZJBvA8NeQg1
 img: icons/fire.svg
 shortcode: blzgthrl
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Fire Fiend
 packFolder: spells

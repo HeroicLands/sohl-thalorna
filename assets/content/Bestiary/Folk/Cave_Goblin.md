@@ -5,7 +5,6 @@ name:
   full: Cave Goblin
   aliases: []
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
-id: pDiXk1iBL5unp4Q3
 img: icons/game-icons/caro-asercion/goblin.svg
 shortcode: cvgbln
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: goblin
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+5
     end: 1d4+6
@@ -306,17 +305,17 @@ sohl:
             fire: 3
     weight:
       base: 172
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

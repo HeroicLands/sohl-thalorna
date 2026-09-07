@@ -4,7 +4,6 @@ name:
   full: Hastening
   aliases: []
 description: "Quickens movement; caster moves with supernatural speed and grace."
-id: 6sJ5Oe2KAAFrEQjt
 img: icons/fire.svg
 shortcode: hstnng
 type: mysticalability
@@ -16,7 +15,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Hastening
 packFolder: spells

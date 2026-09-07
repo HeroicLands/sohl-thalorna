@@ -1,5 +1,4 @@
 ---
-id: u3m2oHBGPAz17X8m
 tags: []
 description: Free port city on a small island off Élavendre's northern coast — a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
 type: affiliation
@@ -115,7 +114,7 @@ data:
     kingdomlgn: aligned
     ordoarcanis: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "A small fictional island off the northern French coast — roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and northern French Aurèldían commerce."
 packFolder: calypsa
 ---

@@ -1,5 +1,4 @@
 ---
-id: iijF0jFCjTiDjPQA
 tags:
   - town
   - merchant

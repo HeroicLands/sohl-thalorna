@@ -5,7 +5,6 @@ name:
   aliases:
     - Wasting
 description: "Rots organic matter; accelerates corruption and decay on contact."
-id: 46Npuq1hODFdGB47
 img: icons/tree.svg
 shortcode: dcytch
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Wasting
 packFolder: spells

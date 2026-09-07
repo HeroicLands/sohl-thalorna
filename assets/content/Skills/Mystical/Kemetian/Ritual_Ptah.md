@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: axO24ya2JdtsXpKt
 shortcode: ptah
 name:
   full: "Ritual: Ptā'h"
@@ -21,7 +20,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: kemetian
 ---
 

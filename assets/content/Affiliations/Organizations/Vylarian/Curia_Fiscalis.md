@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Vylarian imperial taxation administration — sets imperial tax rates, awards Publicarius collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; operates only in the empire's direct-governance territories (Vylaria and Heliónis)."
-id: j248EwqRhOZaItsw
 name:
   full: The Curia Fiscalis
   aliases:
@@ -88,7 +87,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Curia Fiscalis

@@ -5,7 +5,6 @@ name:
   aliases:
     - Sweat
 description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
-id: akmfh00IY2QLpdIx
 img: icons/water.svg
 shortcode: mstrpll
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sweat
 packFolder: spells

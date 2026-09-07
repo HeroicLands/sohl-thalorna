@@ -5,7 +5,6 @@ name:
   aliases:
     - Vylari
 description: "The imperial tongue of the Vylarian court and the lingua franca of trade across Mídhalión."
-id: gyq4vbxm8DEzKQGo
 img: icons/speaking.svg
 shortcode: vylarilng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -58,9 +57,9 @@ Vylari employs a relatively clean phonetic inventory, free from the harsher cons
 
 ## Script & Literacy
 
-Vylari employs an alphabetic script derived from ancient Imperial runes, refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms. True literacy — the ability to read and compose continuous text — is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vylari employs the [[skill-semrnscrpt|Sêmarion]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms. True literacy — the ability to read and compose continuous text — is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
-An older runic form persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names.
+An older runic form, [[skill-thrvrknscrpt|Thâravárkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names.
 
 ## Historical Development
 

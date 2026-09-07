@@ -5,7 +5,6 @@ name:
   full: Feraldew
   aliases: []
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
-id: c9Dwi7Xceu24w4P6
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: feraldew
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+14
     end: 1d4+10
@@ -244,17 +243,17 @@ sohl:
             fire: 3
     weight:
       base: 50
-      calc: 50
+      calc: "50"
     reachBase: 0
     bodyScaleBase: 1.38
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

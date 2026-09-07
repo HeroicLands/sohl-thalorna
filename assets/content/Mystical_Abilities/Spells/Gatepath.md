@@ -5,7 +5,6 @@ name:
   aliases:
     - Passage
 description: "Opens doorway between distant locations; establishes passage through barriers."
-id: BWH6iFGuJf6YCEVw
 img: icons/wind.svg
 shortcode: gatepath
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Passage
 packFolder: spells

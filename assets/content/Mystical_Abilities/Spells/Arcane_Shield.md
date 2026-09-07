@@ -5,7 +5,6 @@ name:
   aliases:
     - Aegis
 description: "Translucent disc of force deflects blows and scatters hostile magic."
-id: XRWpBhjsTh35LN9b
 img: icons/circle.svg
 shortcode: arcshld
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Aegis
 packFolder: spells

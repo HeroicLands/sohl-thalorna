@@ -5,7 +5,6 @@ description: River-laced borderlands where three northern peoples contest the bo
 name:
   full: Ha'nal Xi'lan
   aliases: []
-id: 4i28v3FDOsPYV0pv
 shortcode: hanalxilan
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 packFolder: hanalxilan
 ---

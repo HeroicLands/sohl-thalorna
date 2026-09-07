@@ -1,5 +1,4 @@
 ---
-id: FCDitFqLgistUMZe
 description: "Sultanate ruling the Dunhara Desert — settled kingdom of oases, merchant cities, and Islamic-flavored culture distinct from the nomadic tribes."
 type: affiliation
 name:
@@ -118,7 +117,7 @@ data:
     cnfdrtnhrdnstts: unaligned
     vindhyalay: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Turkey, Syria, Georgia, Armenia, and Azerbaijan — Anatolian-Caucasian sultanate fusing Turkic political-military traditions with Persianate court culture and Persian-language theology, a settled imperial counterpoint to the tribal Dunhari interior."
 packFolder: amradad
 ---

@@ -5,7 +5,6 @@ name:
   aliases:
     - Fist
 description: "Focuses immense pressure; compresses target or ruins structures utterly."
-id: pC8WAWa7RIyM5V3h
 img: icons/anvil.svg
 shortcode: crush
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Fist
 packFolder: spells

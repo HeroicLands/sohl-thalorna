@@ -11,7 +11,6 @@ data:
   parents:
     - worldthlrn
   population: null
-id: dQ3RMAtfHDsD09IX
 shortcode: arnscntnnt
 name:
   full: Aurionis Continent

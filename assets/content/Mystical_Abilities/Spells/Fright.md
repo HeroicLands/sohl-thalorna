@@ -5,7 +5,6 @@ name:
   aliases:
     - Panic
 description: "Target becomes paralyzed with terror; freezes unable to move."
-id: JftT2fmGGmmUUHLW
 img: icons/divination.svg
 shortcode: fright
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Panic
 packFolder: spells

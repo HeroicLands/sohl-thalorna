@@ -5,7 +5,6 @@ description: Isthmus of volcanic gateways and coastal city-states — the limina
 name:
   full: Ki'ik Ba'ate
   aliases: []
-id: Avuq4GMpQsnkMxsl
 shortcode: kiikbaate
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Nicaragua through Colombia
 packFolder: kiikbaate
 ---

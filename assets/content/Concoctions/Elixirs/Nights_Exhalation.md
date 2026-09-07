@@ -6,7 +6,6 @@ name:
   aliases:
     - Shadowbreath Elixir
 description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
-id: P0BmkIohvhBWudJI
 img: icons/potion.svg
 shortcode: ElxShd
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

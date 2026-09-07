@@ -3,7 +3,6 @@ name:
   full: "Vithgard"
 shortcode: vithgard
 type: folder
-id: KvGb463Iw9hZLRjp
 data:
   parent:
     default: polities

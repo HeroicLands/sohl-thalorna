@@ -6,7 +6,6 @@ name:
   aliases:
     - Acid Elixir
 description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
-id: UCbUI60LUC7ElgG7
 img: icons/potion.svg
 shortcode: ElxAcid
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

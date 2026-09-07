@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: 52m1xsYWxpfwW5H8
 type: lore
 subType: culture
 name:

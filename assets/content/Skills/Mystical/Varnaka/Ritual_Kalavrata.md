@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 1dlx3D1Lg48sCdej
 shortcode: kalavrata
 name:
   full: "Ritual: Kālavrata"
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: varnaka
 ---
 

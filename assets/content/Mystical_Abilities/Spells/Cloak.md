@@ -5,7 +5,6 @@ name:
   aliases:
     - Shroud
 description: "Renders wearer indistinct; observers overlook them despite presence."
-id: G0uvSYE3j8khDhnb
 img: icons/anvil.svg
 shortcode: cloak
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Shroud
 packFolder: spells

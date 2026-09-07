@@ -5,7 +5,6 @@ name:
   full: Stonebeast
   aliases: []
 description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
-id: vkJVD3VzKCKvgPCx
 img: icons/game-icons/delapouite/rock-golem.svg
 shortcode: stnbst
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     end: 1d4+16
     dex: 1d4+3
@@ -234,14 +233,14 @@ sohl:
       calc: "27000"
     reachBase: 0
     bodyScaleBase: 2.68
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: topography
           key: steep

@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 3P54lJeluJiff8Bt
 shortcode: bahramis
 name:
   full: "Ritual: Báhrámiš"
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: ashalan
 ---
 

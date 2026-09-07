@@ -5,7 +5,6 @@ name:
   aliases:
     - Curtain
 description: "Creates shadow veil; conceals appearance within darkness."
-id: Pk4UmZOYLkMcaVAV
 img: icons/wind.svg
 shortcode: shdwscrn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Curtain
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Motes
 description: "Creates glittering effect; produces shimmering light display."
-id: rb8QrkOHjSqCokGb
 img: icons/wind.svg
 shortcode: sparkle
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Motes
 packFolder: spells

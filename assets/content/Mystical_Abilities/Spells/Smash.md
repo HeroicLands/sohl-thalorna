@@ -5,7 +5,6 @@ name:
   aliases:
     - Shatter
 description: "Shatters brittle object; reduces stone and glass to dust."
-id: TFXxc8Oa3DA7Iyhm
 img: icons/anvil.svg
 shortcode: smash
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Shatter
 packFolder: spells

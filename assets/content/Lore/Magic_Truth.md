@@ -11,7 +11,6 @@ name:
   aliases:
     - Magic (GM)
 subType: arcana
-id: DtLucc6IKCuifIbL
 packFolder: settinglore
 shortcode: magictruth
 ---

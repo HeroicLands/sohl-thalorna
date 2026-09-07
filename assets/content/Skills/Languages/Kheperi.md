@@ -5,7 +5,6 @@ name:
   aliases:
     - Kheperi
 description: "The ancient speech of Ta-Kheperu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
-id: gGRK6kSZcA0sfG2g
 img: icons/speaking.svg
 shortcode: kheperlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -105,9 +104,9 @@ Kheperi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, thou
 
 ## Script & Literacy
 
-**Sacred Script (_Kheperi-sesh_):** The original writing system employs a mixed inventory of logograms (representing whole words), phonetic signs (representing consonant clusters), and determinatives (clarifying semantic fields). Approximately 700 distinct signs are recognized by trained scribes, though only 200-300 are commonly used. This system is reserved for temple walls, royal monuments, and sacred texts; its complexity ensures that literacy remains the province of a trained priesthood.
+**Sacred Script ([[skill-khprsshscrpt|Kheperi-sesh]]):** The original writing system employs a mixed inventory of logograms (representing whole words), phonetic signs (representing consonant clusters), and determinatives (clarifying semantic fields). Approximately 700 distinct signs are recognized by trained scribes, though only 200-300 are commonly used. This system is reserved for temple walls, royal monuments, and sacred texts; its complexity ensures that literacy remains the province of a trained priesthood.
 
-**Demotic Script (_Demotika_):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Demotic writing is significantly faster and is taught to scribes, tax officials, and merchants.
+**Demotic Script ([[skill-demtkscrpt|Demotika]]):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Demotic writing is significantly faster and is taught to scribes, tax officials, and merchants.
 
 **Modern Simplifications:** In recent centuries, some merchants and scholars have experimented with an even more streamlined "mercantile hand," approaching the status of a true alphabet with 24-30 signs per some reformers.
 

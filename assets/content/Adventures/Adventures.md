@@ -1,5 +1,4 @@
 ---
-id: NBEJoUc4b4XcLsiI
 name:
   full: Adventures
   aliases: []

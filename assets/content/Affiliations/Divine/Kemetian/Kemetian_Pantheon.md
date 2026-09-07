@@ -1,5 +1,4 @@
 ---
-id: Tmc9larsiBHNJ3ZD
 tags:
   - pantheon
   - kemetian
@@ -102,7 +101,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonskemetian
 ---
 

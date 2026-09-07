@@ -1,6 +1,5 @@
 ---
 description: "Fire."
-id: 9xHFCDNXKlHRKFmJ
 tags:
   - kemetian
   - religion
@@ -98,7 +97,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Rā
   aliases:

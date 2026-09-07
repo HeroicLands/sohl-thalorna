@@ -1,5 +1,4 @@
 ---
-id: zyE0FcQlZ3Ej0w7Z
 type: lore
 subType: cosmology
 name:

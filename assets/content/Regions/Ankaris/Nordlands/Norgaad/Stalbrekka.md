@@ -1,5 +1,4 @@
 ---
-id: htPFubBTLySO6pYs
 tags:
   - settlement
   - mountain

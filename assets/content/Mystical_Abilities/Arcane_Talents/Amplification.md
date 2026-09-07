@@ -3,7 +3,6 @@ tags: []
 name:
   full: Amplification
   aliases: []
-id: f2kNbG0MoglMLN31
 img: icons/psionics.svg
 shortcode: ampl
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

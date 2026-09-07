@@ -5,7 +5,6 @@ name:
   aliases:
     - Hunger
 description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
-id: FEscs8keFqDdo76Q
 img: icons/tree.svg
 shortcode: ravenous
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Hunger
 packFolder: spells

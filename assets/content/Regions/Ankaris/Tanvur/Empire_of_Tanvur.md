@@ -10,7 +10,6 @@ description: The eastern empire of Tānvür — a celestial-bureaucratic, caste-
 name:
   full: Empire of Tānvür
   aliases: []
-id: SsYaojXUrAE6wy9I
 shortcode: tanvurempr
 img: null
 type: affiliation
@@ -116,7 +115,7 @@ data:
     tngvkvnlei: aligned
     kingdmdnvr: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: tanvur
 ---
 

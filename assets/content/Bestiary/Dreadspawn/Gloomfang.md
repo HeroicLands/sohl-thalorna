@@ -5,7 +5,6 @@ name:
   full: Gloomfang
   aliases: []
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
-id: PdsQX4rPIfQgbxtn
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: glmfng
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+9
     end: 1d4+13
@@ -229,17 +228,17 @@ sohl:
             fire: 3
     weight:
       base: 100
-      calc: 100
+      calc: "100"
     reachBase: 0
     bodyScaleBase: 1.06
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 70
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

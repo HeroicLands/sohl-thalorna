@@ -3,7 +3,6 @@ tags: []
 name:
   full: Duck
   aliases: []
-id: iQHwJSWiNaowM9nN
 img: images/mystery/duck.webp
 shortcode: duckttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

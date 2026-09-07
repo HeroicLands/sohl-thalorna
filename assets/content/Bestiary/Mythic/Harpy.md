@@ -6,7 +6,6 @@ name:
   full: Harpy
   aliases: []
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."
-id: PE8La0dJVHwnZDWg
 img: icons/game-icons/lorc/harpy.svg
 shortcode: harpy
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+6
     end: 1d4+5
@@ -263,21 +262,21 @@ sohl:
       calc: "70"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 55
       leaguesPerWatch: 2
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
     - medium: aerial
       feetPerRound: 200
       leaguesPerWatch: 8
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

@@ -4,7 +4,6 @@ name:
   full: Bagh Nakh
   aliases: []
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
-id: LDxnrcyhRCyVyGQK
 img: icons/broad-dagger.svg
 shortcode: BghNkh
 type: weapongear
@@ -60,7 +59,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

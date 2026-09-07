@@ -6,7 +6,6 @@ name:
     - Nyáluban
     - Nyaluban
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
-id: 3d7FEndelpU7xeHV
 img: icons/speaking.svg
 shortcode: nyalbnlng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -145,7 +144,7 @@ The language readily incorporates objects and modifiers directly into verbal and
 
 **Recent Written Systems:** In the last 300-400 years, contact with neighboring writing systems has led to sporadic attempts to write Nyáluban. Two systems have emerged:
 
-1. **Syllabic Adaptation:** Some scholars have adapted the scripts of neighboring languages to represent Nyáluban, using syllabic principles. This has met with limited adoption.
+1. **Syllabic Adaptation:** Some scholars have adapted the scripts of neighboring peoples — chiefly [[skill-demtkscrpt|Demotika]] and the vowelled [[skill-okhsshscrpt|Okh-sesh]] — to represent Nyáluban on syllabic principles. This has met with limited adoption.
 
 2. **Phonetic Innovations:** Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.
 

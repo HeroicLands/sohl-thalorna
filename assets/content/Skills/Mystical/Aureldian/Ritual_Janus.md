@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: BUN9hcUL3vfQj1Cg
 shortcode: janus
 img: images/affiliation/janus.webp
 name:
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: aureldian
 ---
 

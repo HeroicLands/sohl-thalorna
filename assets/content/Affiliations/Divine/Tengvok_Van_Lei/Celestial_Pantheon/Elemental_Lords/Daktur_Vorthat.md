@@ -1,6 +1,5 @@
 ---
 description: "Metal."
-id: ehQkCW10QJdB3q4q
 tags:
   - celestial-order
   - elemental-lord
@@ -102,7 +101,7 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: elementallords
 ---
 

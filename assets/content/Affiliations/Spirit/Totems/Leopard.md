@@ -3,7 +3,6 @@ tags: []
 name:
   full: Leopard
   aliases: []
-id: 9kURQgBvCgSoahoC
 img: images/mystery/leopard.webp
 shortcode: leopardttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -1,6 +1,5 @@
 ---
 description: "Knowledge and Wisdom."
-id: G4BhgaiMv2pTKezK
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: odinn
 img: images/affiliation/odinn.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

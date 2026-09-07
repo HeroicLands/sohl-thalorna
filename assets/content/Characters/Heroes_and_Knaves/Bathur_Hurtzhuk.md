@@ -9,7 +9,6 @@ name:
   home: ""
   aliases:
     - Master Tiger of the Steppes
-id: YDrjPYoEwpCviGUG
 shortcode: hathurhtzhk
 img: icons/person.svg
 description: >-
@@ -40,7 +39,7 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # Bāthür Hürtzhük

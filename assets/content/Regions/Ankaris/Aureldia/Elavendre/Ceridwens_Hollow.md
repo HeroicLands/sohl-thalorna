@@ -1,5 +1,4 @@
 ---
-id: 3YlA2MuGbvyKHEXm
 tags:
   - village
 description: "Village"

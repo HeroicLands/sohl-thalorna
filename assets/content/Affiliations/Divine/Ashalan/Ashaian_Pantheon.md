@@ -1,5 +1,4 @@
 ---
-id: vFJwOjifH7GzSqeP
 tags:
   - pantheon
   - religion
@@ -99,7 +98,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: ashaian
 ---
 

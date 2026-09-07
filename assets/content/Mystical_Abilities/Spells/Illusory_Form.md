@@ -5,7 +5,6 @@ name:
   aliases:
     - Image
 description: "Three-dimensional image of person or creature; dispels upon contact."
-id: 9yq3IiC7mgUniNXd
 img: icons/wind.svg
 shortcode: illfrm
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Image
 packFolder: spells

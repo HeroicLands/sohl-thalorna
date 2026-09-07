@@ -5,7 +5,6 @@ name:
   aliases:
     - Flash
 description: "Caster radiates blinding white light; sears vision of those nearby."
-id: Xxnyu30WRRzbVcnq
 img: icons/wind.svg
 shortcode: brllnc
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Flash
 packFolder: spells

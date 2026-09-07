@@ -6,7 +6,6 @@ name:
   full: Vedyaran Rhinoceros
   aliases: []
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
-id: gg3f6OB21jF3mg0f
 img: icons/game-icons/delapouite/rhinoceros-horn.svg
 shortcode: vdyrnrhn
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+15
     end: 1d6+14
@@ -247,14 +246,14 @@ sohl:
       calc: "4000"
     reachBase: 0
     bodyScaleBase: 1.43
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 70
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

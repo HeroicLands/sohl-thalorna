@@ -1,5 +1,4 @@
 ---
-id: YoecXj6UMRMpDlJx
 description: "City-state of Helionis governed by an oligarchy of wealthy patron families."
 type: affiliation
 name:
@@ -109,7 +108,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: helionis
 ---
 

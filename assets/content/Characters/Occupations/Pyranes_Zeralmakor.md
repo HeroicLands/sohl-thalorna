@@ -10,7 +10,6 @@ name:
   home: Valdosta
   aliases:
     - Tancred Wayland
-id: GprQFnIiU74KKEpY
 packFolder: midhalionvylaria
 shortcode: pyrnszrlmkr
 img: icons/person.svg
@@ -43,7 +42,7 @@ data:
     extra_features:
       - a scar on the left thigh
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -460,17 +459,17 @@ sohl:
           - rlegpart
     weight:
       base: 157
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:
@@ -495,7 +494,7 @@ sohl:
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 75 } }
+    - { shortcode: vylarilng, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 39 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 30 } }

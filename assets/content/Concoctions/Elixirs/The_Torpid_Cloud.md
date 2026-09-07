@@ -6,7 +6,6 @@ name:
   aliases:
     - Weakness Elixir
 description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
-id: 8d92VDvqDzTX5Pdu
 img: icons/potion.svg
 shortcode: ElxWkn
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

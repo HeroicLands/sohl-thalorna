@@ -5,7 +5,6 @@ name:
   aliases:
     - Vessel
 description: "Binds creature or force inside barrier; prevents escape or exit."
-id: 9zTfbpEXR2E4KOgE
 img: icons/circle.svg
 shortcode: contain
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Vessel
 packFolder: spells

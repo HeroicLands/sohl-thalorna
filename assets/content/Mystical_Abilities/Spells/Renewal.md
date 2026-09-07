@@ -5,7 +5,6 @@ name:
   aliases:
     - Regenesis
 description: "Restores caster's spent energy; regains magical power quickly."
-id: 4tvKHKiNxPnOhUMe
 img: icons/tree.svg
 shortcode: renewal
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Regenesis
 packFolder: spells

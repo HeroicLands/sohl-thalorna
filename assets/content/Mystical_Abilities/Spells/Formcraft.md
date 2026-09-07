@@ -5,7 +5,6 @@ name:
   aliases:
     - Figure
 description: "Reshapes matter itself; molds materials into desired shapes permanently."
-id: bz89SryJXKLQpnkH
 img: icons/wind.svg
 shortcode: frmcrft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Figure
 packFolder: spells

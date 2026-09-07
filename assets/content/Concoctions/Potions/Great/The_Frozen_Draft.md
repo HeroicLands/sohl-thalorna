@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Paralytic, Great
 description: "Sickly pale green viscous substance; freezes body and movement."
-id: TEX69NJSCCIvRkyz
 img: icons/potion.svg
 shortcode: PtnParG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

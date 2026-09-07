@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: n5aHzGXhwIpKOn73
 shortcode: hurnzhuk
 name:
   full: "Ritual: Hürnzhük"
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: tengvokvanlei
 ---
 

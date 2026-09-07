@@ -102,8 +102,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
-id: PIAwCuCX3k8qXu8Z
+  templatePriority: null
 name:
   full: The Twinblade Order
   aliases:

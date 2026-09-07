@@ -3,7 +3,6 @@ tags:
   - hex-hodai
 type: skill
 subType: mystical
-id: HE1yCLVIOsOuzSJ8
 shortcode: physera
 img: images/affiliation/physera.webp
 name:
@@ -16,7 +15,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: hexhodai
 ---
 

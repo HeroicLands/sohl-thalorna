@@ -1,5 +1,4 @@
 ---
-id: ms7qhaPwAhEXYQOn
 description: "The great southern march of Ta'Kheperu — the cataract frontier where the river breaks into rapids and the empire ends, held by a soldier-Haty'a who commands the fortress-line, taxes the gold-and-ivory road from the deep south, and watches the tribal lands beyond."
 type: affiliation
 banner: banners/ta-kheperu-banner.webp
@@ -111,7 +110,7 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: taresuheka
 ---
 

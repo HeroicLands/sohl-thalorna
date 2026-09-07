@@ -8,7 +8,6 @@ name:
   given: Garulf
   clan: Druthgar
   aliases: []
-id: 1AijJWW9daL9R2kZ
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
@@ -44,7 +43,7 @@ data:
       - massive hands
       - carries a heavy battleaxe he calls 'Vára'
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -461,17 +460,17 @@ sohl:
           - rlegpart
     weight:
       base: 209
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

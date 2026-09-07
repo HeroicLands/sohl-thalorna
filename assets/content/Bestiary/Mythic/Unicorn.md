@@ -6,7 +6,6 @@ name:
   full: Unicorn
   aliases: []
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
-id: BHOxntPKnVng9YYZ
 img: icons/game-icons/delapouite/unicorn.svg
 shortcode: unicorn
 type: being
@@ -34,7 +33,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+21
     end: 1d6+13
@@ -226,14 +225,14 @@ sohl:
       calc: "700"
     reachBase: 0
     bodyScaleBase: 1.66
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 160
       leaguesPerWatch: 12
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

@@ -5,7 +5,6 @@ name:
   aliases:
     - Reverse
 description: "Reverses recent action; undoes last spell or change."
-id: lzatWibl3ftAmjmz
 img: icons/circle.svg
 shortcode: undo
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Reverse
 packFolder: spells

@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Intelligence syndicate trading in secrets—blackmail, espionage, assassination—operating through pleasure houses, theaters, and aristocratic households across the west."
-id: mbOy7le9P4h61Wez
 name:
   full: The Velvet Hand
   aliases: []
@@ -95,7 +94,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: crimesyndicates
 ---
 

@@ -4,7 +4,6 @@ name:
   full: Jian
   aliases: []
 description: "Straight double-edged leaf-point blade; duelist's responsive steel."
-id: i3K0H86rBH3rx3b3
 img: icons/sword.svg
 shortcode: Jian
 type: weapongear
@@ -192,7 +191,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

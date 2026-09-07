@@ -3,7 +3,6 @@ tags: []
 name:
   full: Crow
   aliases: []
-id: XHwwkctPOTYwybx5
 img: images/mystery/crow.webp
 shortcode: crowttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Catfish
   aliases: []
-id: RbJ9D3CclnLOGenm
 img: images/mystery/catfish.webp
 shortcode: catfishttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

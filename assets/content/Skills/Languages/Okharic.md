@@ -5,7 +5,6 @@ name:
   aliases:
     - Okháric
 description: "The tongue of the three Okhári city-states, with an archaic sacred register reserved for scripture and temple rites."
-id: biesSfy4Vps4r7wt
 img: icons/speaking.svg
 shortcode: okharclng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -107,9 +106,9 @@ Okháric predominantly follows a **Subject-Verb-Object (SVO)** order in declarat
 
 ## Script & Literacy
 
-**Traditional Script:** Okháric employs an abjadic consonantal script (_Okh-sesh_) consisting of 23 basic characters, with diacritical marks indicating vowels. This system is ancient and is preserved in sacred texts and formal inscriptions. The consonantal base renders the script somewhat ambiguous, requiring context for correct interpretation.
+**Traditional Script:** Okháric employs an abjadic consonantal script, [[skill-okhsshscrpt|Okh-sesh]], consisting of 23 basic characters, with diacritical marks indicating vowels. This system is ancient and is preserved in sacred texts and formal inscriptions. The consonantal base renders the script somewhat ambiguous, requiring context for correct interpretation.
 
-**Hybrid Script (_Okh-sesh-vowel_):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
+**Hybrid Script ([[skill-okhsshscrpt|Okh-sesh-vowel]]):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
 
 **Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps 20-35% of the nobility. Guildsmen in major urban centers may possess functional literacy — recognizing trade marks, numerals, and common abbreviations — but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
 

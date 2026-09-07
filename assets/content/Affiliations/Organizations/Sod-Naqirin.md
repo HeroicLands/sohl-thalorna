@@ -7,7 +7,6 @@ tags:
   - confederation
   - post-imperial
 description: "Haradian Council of the Guild-Wardens — chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Harad's own pre-conquest merchant traditions and built on its own terms, in its own language."
-id: wmJkxy5yKjsqyoku
 name:
   full: Sôd-Naqîrîn
   aliases:
@@ -102,7 +101,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # Sôd-Naqîrîn

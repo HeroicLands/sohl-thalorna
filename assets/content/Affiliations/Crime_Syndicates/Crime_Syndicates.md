@@ -93,8 +93,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: DRj0wzDUbdTo5p3U
+  templatePriority: null
 name:
   full: Crime Syndicates of Thalorna
   aliases: []

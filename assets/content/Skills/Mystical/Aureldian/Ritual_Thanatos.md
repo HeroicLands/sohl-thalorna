@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: 7MPkk7GpOvOdS67r
 shortcode: thanatos
 img: images/affiliation/thanatos.webp
 name:
@@ -19,7 +18,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: aureldian
 ---
 

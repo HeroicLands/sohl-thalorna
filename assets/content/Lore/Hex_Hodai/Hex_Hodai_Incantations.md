@@ -5,7 +5,6 @@ tags:
   - hex-hodai
 type: lore
 subType: arcana
-id: s9k0RsnEfufDRuQb
 shortcode: hxhdncnttns
 name:
   full: Héx Hodäi Incantations

@@ -3,7 +3,6 @@ tags: []
 name:
   full: Tuna
   aliases: []
-id: 1CsCdba2A5DtIurL
 img: images/mystery/tuna.webp
 shortcode: tunattm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

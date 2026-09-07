@@ -3,7 +3,6 @@ tags: []
 name:
   full: Transference
   aliases: []
-id: RPAfGBjZbNsYCfn8
 img: icons/psionics.svg
 shortcode: trnsf
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

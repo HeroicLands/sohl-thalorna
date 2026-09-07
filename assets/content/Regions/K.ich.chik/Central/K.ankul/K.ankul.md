@@ -5,7 +5,6 @@ description: Limestone lowlands of cenote-sanctuaries, astronomer-priests, and c
 name:
   full: K'ankul
   aliases: []
-id: 6uj0kMpcSvwHhYfb
 shortcode: kankul
 img: null
 type: affiliation
@@ -107,7 +106,7 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Yucatan Mexico and southern mexico through Honduras
 packFolder: kankul
 ---

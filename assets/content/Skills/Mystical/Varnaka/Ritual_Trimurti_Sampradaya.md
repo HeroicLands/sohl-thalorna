@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: S3Pqxj4TZHXJrRF9
 shortcode: trimurtisampradaya
 name:
   full: "Ritual: Trimūrti-sampradāya"
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: varnaka
 ---
 

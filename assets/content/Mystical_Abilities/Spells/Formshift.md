@@ -5,7 +5,6 @@ name:
   aliases:
     - Aspect
 description: "Target's shape shifts; body transforms into beast or humanoid form."
-id: A4kMqN9qrvGZtZHo
 img: icons/anvil.svg
 shortcode: frmshft
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Aspect
 packFolder: spells

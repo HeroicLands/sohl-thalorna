@@ -4,7 +4,6 @@ name:
   full: Katar
   aliases: []
 description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
-id: QbOkvwNX1cWioyyn
 img: icons/broad-dagger.svg
 shortcode: Katr
 type: weapongear
@@ -104,7 +103,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

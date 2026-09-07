@@ -5,7 +5,6 @@ name:
   full: Fireflit
   aliases: []
 description: "A small, clever fire elemental serving as scout or messenger, harmless alone but a genuine threat when gathered into a burning swarm."
-id: WTtS70pyqXortIMX
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: fireflit
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     end: 1d4+3
     dex: 1d6+16
@@ -222,14 +221,14 @@ sohl:
       calc: "1"
     reachBase: 0
     bodyScaleBase: 0.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 100
       leaguesPerWatch: 8
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

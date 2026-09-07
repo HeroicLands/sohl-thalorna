@@ -4,7 +4,6 @@ name:
   full: Wakizashi
   aliases: []
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
-id: XQAoPtRgy7VDeNDj
 img: icons/sword.svg
 shortcode: Waki
 type: weapongear
@@ -148,7 +147,7 @@ sohl:
       defense:
         blockMod: 0
         counterstrikeMod: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

@@ -5,7 +5,6 @@ name:
   aliases:
     - Gate
 description: "Opens gateway between two distant locations; enables instant travel."
-id: j5XNcgdPtKh65Ttt
 img: icons/circle.svg
 shortcode: portal
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Gate
 packFolder: spells

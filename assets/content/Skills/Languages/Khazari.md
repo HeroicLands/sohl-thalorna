@@ -8,7 +8,6 @@ name:
     - Dwarven
     - Elder Tongue
 description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
-id: BMLlZaArJ6H0wPjU
 img: icons/speaking.svg
 shortcode: khazarlng
 type: skill
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -147,7 +146,7 @@ Compounds are written as single words, and their meaning is understood through l
 
 ## Script and Literacy
 
-Khazári is written in an **angular, geometric script** that resembles runes carved into stone. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
+Khazári is written in [[skill-drthrkscrpt|Durthrak]], an **angular, geometric script** that resembles runes carved into stone — or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
 
 Key features:
 

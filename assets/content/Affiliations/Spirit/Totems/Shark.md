@@ -3,7 +3,6 @@ tags: []
 name:
   full: Shark
   aliases: []
-id: yKOy6VLXsYFHVggm
 img: images/mystery/shark.webp
 shortcode: sharkttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

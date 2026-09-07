@@ -10,7 +10,6 @@ name:
   home: Dunkelwald
   aliases:
     - Professor Liraen Windwhisper
-id: DVMxASJ6EWIZQ0nW
 packFolder: ankarisvrystwald
 shortcode: frdwyndmhr
 img: icons/person.svg
@@ -43,7 +42,7 @@ data:
     extra_features:
       - a scar running across the stomach
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -460,17 +459,17 @@ sohl:
           - rlegpart
     weight:
       base: 143
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:
@@ -494,7 +493,7 @@ sohl:
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: pysn, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 85 } }
+    - { shortcode: valtarlng, type: skill, system: { masteryLevelBase: 85 } }
     - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
     - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: dscr, type: skill, system: { masteryLevelBase: 68 } }
@@ -522,8 +521,8 @@ sohl:
     - { shortcode: jewl, type: skill, system: { masteryLevelBase: 15 } }
     - { shortcode: wood, type: skill, system: { masteryLevelBase: 24 } }
     - { shortcode: common, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: lang, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: script, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: nordmalng, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 68 } }
 ---
 
 # Appearance {#appearance}

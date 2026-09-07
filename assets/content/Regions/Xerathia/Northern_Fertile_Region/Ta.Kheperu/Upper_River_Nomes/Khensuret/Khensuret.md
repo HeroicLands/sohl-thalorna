@@ -1,5 +1,4 @@
 ---
-id: BFVfBRUFybESEcFb
 tags:
   - city
   - necropolis

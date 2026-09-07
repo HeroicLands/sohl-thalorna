@@ -3,7 +3,6 @@ tags:
   - hex-hodai
 type: skill
 subType: mystical
-id: vjdx9kGWQ4USV1W4
 shortcode: pneumenos
 img: images/affiliation/pneumenos.webp
 name:
@@ -16,7 +15,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: hexhodai
 ---
 

@@ -5,7 +5,6 @@ name:
   full: Giant Wasp
   aliases: []
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."
-id: 3gqGlLb8DWK538oW
 img: icons/game-icons/lorc/wasp-sting.svg
 shortcode: gntwsp
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+9
     end: 1d6+8
@@ -221,14 +220,14 @@ sohl:
       calc: "1"
     reachBase: 0
     bodyScaleBase: 1.11
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

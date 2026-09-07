@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: ResXgLQ6fWPyAdP3
 shortcode: rekgung
 name:
   full: "Ritual: Rëkgüng"
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: tengvokvanlei
 ---
 

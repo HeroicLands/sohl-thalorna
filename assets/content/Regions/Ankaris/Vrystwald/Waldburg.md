@@ -1,5 +1,4 @@
 ---
-id: SriprSl9dLBKfsgn
 tags:
   - stronghold
   - forest

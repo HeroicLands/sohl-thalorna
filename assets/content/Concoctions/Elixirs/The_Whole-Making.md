@@ -6,7 +6,6 @@ name:
   aliases:
     - Mending Elixir
 description: "Shimmering silvery liquid; repairs damage to broken objects."
-id: s5yczTmecThiW44P
 img: icons/potion.svg
 shortcode: ElxMnd
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

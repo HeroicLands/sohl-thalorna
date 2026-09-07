@@ -1,5 +1,4 @@
 ---
-id: ZwEe2tr8ed7HSXG4
 type: place
 subType: world
 data:

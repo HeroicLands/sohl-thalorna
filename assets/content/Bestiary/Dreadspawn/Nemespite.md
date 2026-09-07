@@ -5,7 +5,6 @@ name:
   full: Nemespite
   aliases: []
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
-id: ZSoywGNHpw4z64RZ
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: nmspt
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     end: 1d4+5
     dex: 1d4+10
@@ -218,17 +217,17 @@ sohl:
             fire: -4
     weight:
       base: 80
-      calc: 80
+      calc: "80"
     reachBase: 0
     bodyScaleBase: 0.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aerial
       feetPerRound: 80
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

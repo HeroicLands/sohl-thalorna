@@ -5,7 +5,6 @@ name:
   full: Glassfang
   aliases: []
 description: "A small, blindingly fast light-magic predator that hunts nearly invisible through crystalline caverns and radiant magical sites."
-id: ehEf5wCFXsQmP6pd
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: glssfng
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     end: 1d4+3
     dex: 1d4+12
@@ -228,17 +227,17 @@ sohl:
             fire: 5
     weight:
       base: 80
-      calc: 80
+      calc: "80"
     reachBase: 0
     bodyScaleBase: 0.81
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

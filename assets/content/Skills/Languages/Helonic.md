@@ -5,7 +5,6 @@ name:
   aliases:
     - Helonic
 description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
-id: kzExD71wOODyJRDn
 img: icons/speaking.svg
 shortcode: helonclng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -97,7 +96,7 @@ The grammar reflects philosophical precision—cases and moods allow for exactin
 
 ## Script and Literacy
 
-Helonic is written in the **Helonic alphabet**, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters — 7 vowels and 17 consonants — each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
+Helonic is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters — 7 vowels and 17 consonants — each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
 
 - **Vowels (7):** a, e, ê (long e), i, o, y, ô (long o)
 - **Consonants (17):** b, g, d, z, th, k, l, m, n, x, p, r, s, t, ph, kh, ps

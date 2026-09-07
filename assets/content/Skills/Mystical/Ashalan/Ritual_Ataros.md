@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: V6TwVaDMs7y2aCcb
 shortcode: ataros
 name:
   full: "Ritual: Ātáröš"
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: ashalan
 ---
 

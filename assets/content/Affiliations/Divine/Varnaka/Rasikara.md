@@ -1,6 +1,5 @@
 ---
 description: "Fire."
-id: XDakQX8s87fWHT7t
 tags:
   - varnaka
   - deity
@@ -104,7 +103,7 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 

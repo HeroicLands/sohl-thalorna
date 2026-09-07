@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: FPbUzVB3RDuzU9NX
 shortcode: ahurdaen
 name:
   full: "Ritual: Āhúrdáén"
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: ashalan
 ---
 

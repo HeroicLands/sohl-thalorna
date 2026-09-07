@@ -5,7 +5,6 @@ name:
   aliases:
     - Converse
 description: "Unites minds; caster and target share thoughts and sensations."
-id: e5dFMri5YIyz4MyU
 img: icons/circle.svg
 shortcode: cmmnn
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Converse
 packFolder: spells

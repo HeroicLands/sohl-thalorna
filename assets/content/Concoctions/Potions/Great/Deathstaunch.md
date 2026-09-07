@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Coagulant, Great
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
-id: cMbQm31VG5fPSRKF
 img: icons/potion.svg
 shortcode: PtnCoagG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

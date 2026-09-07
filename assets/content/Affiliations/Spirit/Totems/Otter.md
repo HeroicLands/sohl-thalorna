@@ -3,7 +3,6 @@ tags: []
 name:
   full: Otter
   aliases: []
-id: fXswwp4qhC9zXrtZ
 img: images/mystery/otter.webp
 shortcode: otterttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

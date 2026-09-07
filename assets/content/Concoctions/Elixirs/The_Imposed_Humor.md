@@ -6,7 +6,6 @@ name:
   aliases:
     - Passion Elixir
 description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
-id: sTHLJjvB1WGtGsau
 img: icons/potion.svg
 shortcode: ElxPas
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

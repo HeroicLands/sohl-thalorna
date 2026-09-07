@@ -1,5 +1,4 @@
 ---
-id: hlCieAQkrHQguMjN
 tags:
   - settlement
   - valley

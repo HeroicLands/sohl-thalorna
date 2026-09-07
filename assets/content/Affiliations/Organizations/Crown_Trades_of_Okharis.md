@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris — small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Ta'Kheperan currency through correspondent banking arrangements."
-id: 6K44tsfV5mWUtRn8
 name:
   full: The Crown Trades of Okháris
   aliases:
@@ -95,7 +94,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Crown Trades of Okháris

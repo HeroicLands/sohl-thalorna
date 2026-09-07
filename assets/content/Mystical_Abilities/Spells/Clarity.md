@@ -5,7 +5,6 @@ name:
   aliases:
     - Insight
 description: "Reveals truth; strips away glamour and shows reality plainly."
-id: psl5I3MpnMT7Gdvu
 img: icons/divination.svg
 shortcode: clarity
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Insight
 packFolder: spells

@@ -1,5 +1,4 @@
 ---
-id: fGz4zRpATEajMuoh
 name:
   full: The Curse of Yharvalen Henge
   aliases: []

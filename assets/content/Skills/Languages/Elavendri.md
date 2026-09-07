@@ -6,7 +6,6 @@ name:
     - Élavendri
     - Elavendri
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
-id: M4Rc3yHcl3dYOGz3
 img: icons/speaking.svg
 shortcode: elvndrlng
 type: skill
@@ -18,7 +17,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -61,7 +60,7 @@ The language is marked by a preference for alliteration, assonance, and poetic p
 
 ## Script & Literacy
 
-Élavendri traditionally employs a script derived from ancient runic forms, but this script has been largely supplemented by the same alphabetic system used in Vylari and neighboring regions. The older runic script persists in magical texts, poetry, and items of great antiquity.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]] — the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps 20-35% of the nobility. The common folk of Élavendre, like those elsewhere on Thalorna, are almost entirely non-literate and rely on scribes for any written communication.
 

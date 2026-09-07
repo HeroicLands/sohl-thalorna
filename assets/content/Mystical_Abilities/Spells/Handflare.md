@@ -5,7 +5,6 @@ name:
   aliases:
     - Palm
 description: "Manifests bright spark in palm; ignites or signals with flame."
-id: Xl49iAXGdTJYmd7C
 img: icons/wind.svg
 shortcode: hndflr
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Palm
 packFolder: spells

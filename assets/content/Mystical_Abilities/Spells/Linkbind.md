@@ -5,7 +5,6 @@ name:
   aliases:
     - Chain
 description: "Two willing targets linked; damage inflicted on one transfers."
-id: RpLvuj9sboJTTymP
 img: icons/circle.svg
 shortcode: linkbind
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Chain
 packFolder: spells

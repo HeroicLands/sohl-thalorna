@@ -5,7 +5,6 @@ name:
   aliases:
     - Doom Flame
 description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
-id: gW3MDHnVzboFQQAP
 img: icons/fire.svg
 shortcode: hellfire
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Doom Flame
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Flotation
 description: "Caster floats weightlessly; moves through air with silent grace."
-id: SNtlSSfMF0WSZboj
 img: icons/water.svg
 shortcode: drift
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Flotation
 packFolder: spells

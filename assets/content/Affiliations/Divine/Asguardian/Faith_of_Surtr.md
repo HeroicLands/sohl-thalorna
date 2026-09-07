@@ -1,6 +1,5 @@
 ---
 description: "Fire and Savage Battle."
-id: ZRe4IWZLZlIFjqOt
 tags:
   - asguardian
 type: affiliation
@@ -102,7 +101,7 @@ name:
 shortcode: surtr
 img: images/affiliation/surtr.webp
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

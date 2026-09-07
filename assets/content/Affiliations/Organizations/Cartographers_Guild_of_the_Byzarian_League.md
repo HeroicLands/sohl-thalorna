@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Byzarian League — and quietly compromised from within."
-id: LWQ3k7KKVSQXDNZw
 name:
   full: The Cartographers' Guild of the Byzarian League
   aliases:
@@ -94,7 +93,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Cartographers' Guild of the Byzarian League

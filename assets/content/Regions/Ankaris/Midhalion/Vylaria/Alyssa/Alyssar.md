@@ -1,5 +1,4 @@
 ---
-id: tcjuUdxJxxs60dLX
 tags:
   - capital
   - provincial

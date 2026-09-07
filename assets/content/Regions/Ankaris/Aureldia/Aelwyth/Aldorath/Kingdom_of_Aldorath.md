@@ -1,5 +1,4 @@
 ---
-id: O5NWBA1qYTtyGOrM
 description: "Chivalric kingdom surrounding Aelwyth's great central lake — feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
 type: affiliation
 name:
@@ -170,7 +169,7 @@ data:
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: aelwyth
 ---
 

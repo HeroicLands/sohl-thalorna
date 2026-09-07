@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: Bdo25Hi80xYhGCkL
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
@@ -20,7 +19,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: nkaruthar
 ---
 

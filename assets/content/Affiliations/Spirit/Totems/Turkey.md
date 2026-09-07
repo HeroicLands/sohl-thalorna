@@ -3,7 +3,6 @@ tags: []
 name:
   full: Turkey
   aliases: []
-id: KkBgTFTb3CYb58uj
 img: images/mystery/turkey.webp
 shortcode: turkeyttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

@@ -2,7 +2,6 @@
 tags:
   - draft
   - village
-id: VQ6dTH1kqTQUvI3F
 description: "Village"
 type: place
 subType: settlement

@@ -7,7 +7,6 @@ name:
   aliases:
     - Grukarholm
     - Grukarhölm
-id: 0QoQwSg2yKUAbb4v
 shortcode: grkrhlmrgn
 img: null
 type: place

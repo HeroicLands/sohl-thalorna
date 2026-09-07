@@ -1,5 +1,4 @@
 ---
-id: o50yhB7G6oF2zc58
 description: "Loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by shared language and warrior culture — a political idea more than a unified state."
 type: affiliation
 name:
@@ -173,7 +172,7 @@ data:
     frtrtryskrth: unaligned
     vylarinmpr: nemesis
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps — the senior of the four Tarvénan feudal kingdoms, holding the central plateau and the principal mountain passes."
 packFolder: tarvenia
 ---

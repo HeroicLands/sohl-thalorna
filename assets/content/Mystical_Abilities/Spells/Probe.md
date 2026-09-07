@@ -5,7 +5,6 @@ name:
   aliases:
     - Enquiry
 description: "Scrying magic searching distant location; reveals conditions and inhabitants."
-id: FxDGGhd5krzxECID
 img: icons/divination.svg
 shortcode: probe
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Enquiry
 packFolder: spells

@@ -5,7 +5,6 @@ name:
   aliases:
     - Glamour
 description: "Luminous aura enhancing appearance; subjects glow with inner radiance."
-id: zV7fxaBJyE7IDOxg
 img: icons/wind.svg
 shortcode: illusion
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Glamour
 packFolder: spells

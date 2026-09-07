@@ -4,14 +4,13 @@ name:
   full: Korith
   aliases: []
 description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
-id: R6kUskyAmO8AmYuz
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: korith
 type: mystery
 subType: birthsign
 sohl:
   kbcat: birthsign
-  archetype: 0
+  templatePriority: 0
   levelBase: 0
   skillAptitudes:
     "subType:nature": -10

@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Stimulant, Mild
 description: "Bright energetic liquid; invigorates body and stimulates mental."
-id: aMlypJXRsEpgcUTL
 img: icons/potion.svg
 shortcode: PtnStmM
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "mild"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: mild
 ---
 

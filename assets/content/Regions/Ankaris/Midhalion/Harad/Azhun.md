@@ -1,5 +1,4 @@
 ---
-id: AqrgBrEk82vRX0Se
 type: affiliation
 name:
   full: Azhûn
@@ -105,7 +104,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: harad
 ---
 

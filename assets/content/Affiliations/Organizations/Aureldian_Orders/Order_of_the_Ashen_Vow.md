@@ -1,7 +1,6 @@
 ---
 tags: []
 description: 'Sworn purifier-knights of the Black Flame — heretic-hunters who burn what no other remedy can cleanse, inward against Sacred Forge "softness" and outward against rival faiths.'
-id: 0kDuQJEPPd673VCn
 name:
   full: The Order of the Ashen Vow
   aliases:
@@ -105,7 +104,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 ---
 
 # The Order of the Ashen Vow

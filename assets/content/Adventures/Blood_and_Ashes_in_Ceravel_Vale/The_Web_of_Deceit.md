@@ -16,7 +16,6 @@ data:
   party:
     size: null
     archetypes: []
-id: GmS8jnKKIA28pOO8
 shortcode: webdeceit
 name:
   full: The Web of Deceit

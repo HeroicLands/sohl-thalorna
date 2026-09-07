@@ -8,7 +8,6 @@ name:
     - The Five Who Walk Together
     - Nyáluba
     - The Long Pact
-id: U5XViByz9vC1SuJw
 shortcode: nylbtrblntn
 subType: polity
 data:
@@ -112,7 +111,7 @@ data:
   relations:
     nyalbpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe — five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 packFolder: politiesnyaluba
 ---

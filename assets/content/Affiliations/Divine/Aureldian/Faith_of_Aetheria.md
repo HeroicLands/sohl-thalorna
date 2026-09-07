@@ -1,6 +1,5 @@
 ---
 description: "Dreams."
-id: MsCHlWYxXsvCU7T3
 tags:
   - aureldian
   - religion
@@ -97,7 +96,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Æthería
   aliases:

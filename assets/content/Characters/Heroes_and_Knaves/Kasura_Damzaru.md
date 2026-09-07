@@ -8,7 +8,6 @@ name:
   given: Kasûra
   clan: Damzarû
   aliases: []
-id: nFRQMN4520J4jKHx
 packFolder: midhalionharad
 shortcode: kasuradmzr
 banner: banners/tamzir-banner.webp
@@ -44,7 +43,7 @@ data:
       - an open and expressive face
       - almost always smiling
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -461,17 +460,17 @@ sohl:
           - rlegpart
     weight:
       base: 145
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

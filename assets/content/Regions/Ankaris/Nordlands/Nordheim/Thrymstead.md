@@ -1,5 +1,4 @@
 ---
-id: WNKSFrK83yr8xKyA
 tags:
   - town
   - fortified

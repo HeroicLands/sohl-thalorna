@@ -5,7 +5,6 @@ name:
   aliases:
     - Cloak
 description: "Wraps in darkness; grants concealment within shadowed areas."
-id: MGjDeQGxZxAAudiO
 img: icons/fire.svg
 shortcode: shdwvl
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Cloak
 packFolder: spells

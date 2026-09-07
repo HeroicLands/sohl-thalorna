@@ -5,7 +5,6 @@ description: Pacific rainforest and volcanic coastline of the Xak'nal — the Ea
 name:
   full: Ba'alam Ki'ahk
   aliases: []
-id: k0Cy2pf0fjCujl0l
 shortcode: balamkiahk
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 packFolder: baalamkiahk
 ---

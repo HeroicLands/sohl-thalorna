@@ -1,5 +1,4 @@
 ---
-id: rej65SfOdHxrfzld
 tags:
   - town
 description: "Town"

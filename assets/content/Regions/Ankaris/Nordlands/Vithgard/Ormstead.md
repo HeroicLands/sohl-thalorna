@@ -1,5 +1,4 @@
 ---
-id: DOIcd67IRmgTlxdK
 tags:
   - town
 description: "Town"

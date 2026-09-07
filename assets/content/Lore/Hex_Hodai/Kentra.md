@@ -84,8 +84,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
-id: YiDdtbTWX3I7nh0J
+  templatePriority: null
 img: images/affiliation/kentra.webp
 shortcode: kentra
 name:

@@ -4,7 +4,6 @@ tags:
   - faith-skill
 type: skill
 subType: mystical
-id: ZJMNkWFba1o3MVXg
 shortcode: svapnasarisamaja
 name:
   full: "Ritual: Svapnasāri-samāja"
@@ -22,7 +21,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: varnaka
 ---
 

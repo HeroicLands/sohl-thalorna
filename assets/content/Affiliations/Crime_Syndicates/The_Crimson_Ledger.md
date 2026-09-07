@@ -1,7 +1,6 @@
 ---
 tags: []
 description: "Financial crime network born from Harad's post-independence chaos, controlling money laundering, debt bondage, and the leverage that wealthy secrets provide."
-id: t9s9lBRWs6Nz7ggk
 name:
   full: The Crimson Ledger
   aliases: []
@@ -95,7 +94,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: crimesyndicates
 ---
 

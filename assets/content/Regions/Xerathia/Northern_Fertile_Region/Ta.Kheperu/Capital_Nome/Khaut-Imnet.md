@@ -1,5 +1,4 @@
 ---
-id: Sem7VWXNmBrFGB9L
 tags:
   - necropolis
 type: place

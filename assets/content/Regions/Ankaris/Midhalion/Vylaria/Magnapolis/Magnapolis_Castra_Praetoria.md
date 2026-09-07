@@ -15,7 +15,6 @@ data:
   parents:
     - vylariargn
   population: null
-id: Ct9rPx2mKvL4Qb7n
 name:
   full: Castra Praetoria
   aliases:

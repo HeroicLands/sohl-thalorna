@@ -5,7 +5,6 @@ name:
   full: Abyssal Silt
   aliases: []
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
-id: 1afcBWsxQXPUIBxG
 img: icons/game-icons/delapouite/griffin-symbol.svg
 shortcode: abysslsl
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+10
     end: 1d6+16
@@ -151,17 +150,17 @@ sohl:
             fire: 3
     weight:
       base: 200
-      calc: 200
+      calc: "200"
     reachBase: 0
     bodyScaleBase: 1.17
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 20
       leaguesPerWatch: 1
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

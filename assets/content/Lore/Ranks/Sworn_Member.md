@@ -1,7 +1,6 @@
 ---
 tags:
   - draft
-id: TlJYBFsUwS0lYjBY
 type: lore
 subType: law
 name:

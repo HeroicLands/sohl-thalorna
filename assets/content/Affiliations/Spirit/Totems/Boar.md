@@ -3,7 +3,6 @@ tags: []
 name:
   full: Boar
   aliases: []
-id: jdBjqI048XnA4tfr
 img: images/mystery/boar.webp
 shortcode: boarttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

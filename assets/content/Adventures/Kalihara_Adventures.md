@@ -1,6 +1,5 @@
 ---
 tags: []
-id: BRel5EHG0Nk0JlGV
 shortcode: klhrdvntrs
 name:
   full: Kalihara Adventures

@@ -1,5 +1,4 @@
 ---
-id: EWgtewbsESDxr4KT
 type: lore
 subType: law
 name:

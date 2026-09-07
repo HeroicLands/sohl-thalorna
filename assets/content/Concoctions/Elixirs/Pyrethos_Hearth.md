@@ -6,7 +6,6 @@ name:
   aliases:
     - Warmth Elixir
 description: "Golden-amber warmth elixir; shields allies from cold and frost."
-id: pXGLgVdYU2fgpBIU
 img: icons/potion.svg
 shortcode: ElxWrm
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

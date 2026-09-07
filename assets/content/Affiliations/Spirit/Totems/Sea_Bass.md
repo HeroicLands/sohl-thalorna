@@ -3,7 +3,6 @@ tags: []
 name:
   full: Sea Bass
   aliases: []
-id: tGunwcnHgwsjE6Ht
 img: images/mystery/seabass.webp
 shortcode: seabassttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

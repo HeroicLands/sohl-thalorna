@@ -5,7 +5,6 @@ name:
   full: Giant Octopus
   aliases: []
 description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
-id: ZlKGP4V2B881MIoc
 img: icons/game-icons/lorc/octopus.svg
 shortcode: gntoctps
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d6+15
     end: 1d6+11
@@ -154,14 +153,14 @@ sohl:
       calc: "300"
     reachBase: 0
     bodyScaleBase: 1.43
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: aquatic
       feetPerRound: 60
       leaguesPerWatch: 4
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors: []
       disabled: false
   defaultCombatGroup: null

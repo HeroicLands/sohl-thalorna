@@ -6,7 +6,6 @@ tags:
   - ordo-arcanis
 type: lore
 subType: arcana
-id: Y3NajXCuLZv4CSis
 shortcode: hexhodai
 name:
   full: Héx Hodäi

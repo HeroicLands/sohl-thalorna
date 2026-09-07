@@ -86,7 +86,6 @@ data:
     zepharis: nemesis
     hydalis: aligned
     pneumenos: aligned
-id: SEH6qnxgvLANIZfq
 shortcode: sideros
 img: images/affiliation/sideros.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Sidéros
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: metal
 packFolder: affiliationshexhodai

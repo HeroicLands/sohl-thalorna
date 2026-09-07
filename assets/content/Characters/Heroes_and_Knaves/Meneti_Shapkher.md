@@ -11,7 +11,6 @@ name:
   home: Khensuret
   aliases:
     - Meneti Shapkher
-id: IT0MZM3HrICcrOwb
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
@@ -43,7 +42,7 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  archetype: null
+  templatePriority: null
   body:
     structure:
       parts:
@@ -460,17 +459,17 @@ sohl:
           - rlegpart
     weight:
       base: 135
-      calc: (9 * str) + 50
+      calc: "(9 * str) + 50"
     reachBase: 0
     bodyScaleBase: 1.0
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 50
       leaguesPerWatch: 5
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       disabled: false
   defaultCombatGroup: null
   items:

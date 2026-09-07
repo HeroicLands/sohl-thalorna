@@ -6,7 +6,6 @@ name:
   aliases:
     - Footpad Elixir
 description: "Dark nearly-black draft; muffles drinker's presence from detection."
-id: uD4RDH58iEwwgKTH
 img: icons/potion.svg
 shortcode: ElxFtp
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "na"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: elixirs
 ---
 

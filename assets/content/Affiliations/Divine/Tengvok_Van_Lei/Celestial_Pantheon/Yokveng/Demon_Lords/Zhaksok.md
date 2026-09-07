@@ -1,6 +1,5 @@
 ---
 description: "Confusion."
-id: T0rS1cKbMfZ3cWSv
 tags:
   - demon-lord
   - yokveng
@@ -105,7 +104,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: demonlords
 ---
 

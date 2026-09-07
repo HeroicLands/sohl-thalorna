@@ -1,5 +1,4 @@
 ---
-id: xeSkAGJdEwb4NNx6
 tags:
   - village
 description: "Remote Fjord Village"

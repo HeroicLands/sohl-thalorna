@@ -5,7 +5,6 @@ name:
   aliases:
     - Mould
 description: "Remoulds material into new form; sculpts without tool."
-id: BcWKJx0ebfEj6gz3
 img: icons/anvil.svg
 shortcode: shaper
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Mould
 packFolder: spells

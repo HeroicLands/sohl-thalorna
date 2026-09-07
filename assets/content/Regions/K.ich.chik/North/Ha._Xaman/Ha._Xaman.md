@@ -5,7 +5,6 @@ description: Endless grasslands ridden by the mounted Tz'okum — the Coyote Peo
 name:
   full: Ha' Xaman
   aliases: []
-id: Nfi6Vbb3BYorhP8k
 shortcode: haxaman
 img: null
 type: affiliation
@@ -106,7 +105,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: Central US and Plains States East of Rockies
 packFolder: haxaman
 ---

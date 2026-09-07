@@ -5,7 +5,6 @@ name:
   aliases:
     - Crystals
 description: "Shapes ambient moisture into solid, durable ice structures and tools."
-id: OKia93KgMDPV83Kq
 img: icons/water.svg
 shortcode: iceforge
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Crystals
 packFolder: spells

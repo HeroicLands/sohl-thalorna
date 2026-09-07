@@ -86,7 +86,6 @@ data:
     pneumenos: nemesis
     zepharis: aligned
     hydalis: aligned
-id: VJaKiwYduxtGC2LR
 shortcode: physera
 img: images/affiliation/physera.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Physéra
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: earth
 packFolder: affiliationshexhodai

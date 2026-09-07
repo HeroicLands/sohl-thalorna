@@ -5,7 +5,6 @@ name:
   aliases:
     - Hush
 description: "Silences target magically; prevents speech and spell-speaking."
-id: S30alTNB7uj1pgeE
 img: icons/water.svg
 shortcode: slncbnd
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Hush
 packFolder: spells

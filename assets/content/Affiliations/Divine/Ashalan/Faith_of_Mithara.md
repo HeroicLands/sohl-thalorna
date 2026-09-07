@@ -1,6 +1,5 @@
 ---
 description: "Creation, Renewal, Cosmic Life, Artisanship."
-id: 8PG0NECWKMt86vzh
 tags:
   - religion
   - creation
@@ -97,7 +96,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Míthárä
   aliases:

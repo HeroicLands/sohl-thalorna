@@ -3,7 +3,6 @@ name:
   full: "Amradad"
 shortcode: amradad
 type: folder
-id: PUSPfoG6UdrnqPhK
 data:
   parent:
     default: polities

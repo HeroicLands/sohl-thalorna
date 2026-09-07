@@ -5,7 +5,6 @@ name:
   aliases:
     - Stay
 description: "Freezes target's motion; roots them in place unable to move."
-id: dh5Ap7O6XBeWW2ko
 img: icons/tree.svg
 shortcode: halt
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Stay
 packFolder: spells

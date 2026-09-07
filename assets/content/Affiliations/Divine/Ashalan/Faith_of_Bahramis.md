@@ -1,6 +1,5 @@
 ---
 description: "Storms, Battle, Protection."
-id: vwIXO5fa1yyEi4FO
 tags:
   - religion
   - storm-deity
@@ -98,7 +97,7 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 name:
   full: Faith of Báhrámiš
   aliases:

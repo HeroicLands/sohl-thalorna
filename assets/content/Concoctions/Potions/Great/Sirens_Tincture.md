@@ -6,7 +6,6 @@ name:
   aliases:
     - Potion, Aphrodisiac, Great
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
-id: gUsDtV3N8gXMkJjm
 img: icons/potion.svg
 shortcode: PtnAphrG
 type: concoctiongear
@@ -20,7 +19,7 @@ sohl:
   weight: 0.25
   potency: "great"
   strength: 0
-  archetype: null
+  templatePriority: null
 packFolder: great
 ---
 

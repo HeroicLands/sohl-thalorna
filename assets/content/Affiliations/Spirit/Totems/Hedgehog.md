@@ -3,7 +3,6 @@ tags: []
 name:
   full: Hedgehog
   aliases: []
-id: 0xUsGQi0l0TkirTM
 img: images/mystery/hedgehog.webp
 shortcode: hedgehogttm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

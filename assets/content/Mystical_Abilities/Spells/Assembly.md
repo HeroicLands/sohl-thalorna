@@ -5,7 +5,6 @@ name:
   aliases:
     - Convoke
 description: "Calls forth greater fire elemental; commands inferno to consume."
-id: Wg7OBT8rDUIjZsAg
 img: icons/fire.svg
 shortcode: arcasmbl
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Convoke
 packFolder: spells

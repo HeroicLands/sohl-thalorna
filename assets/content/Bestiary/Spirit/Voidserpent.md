@@ -5,7 +5,6 @@ name:
   full: Voidserpent
   aliases: []
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
-id: mXr47FnIDlmq2RCz
 img: icons/game-icons/lorc/snake.svg
 shortcode: vdsrpnt
 type: being
@@ -33,7 +32,7 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  archetype: 0
+  templatePriority: 0
   attrRollFormula:
     str: 1d4+14
     end: 1d4+14
@@ -150,17 +149,17 @@ sohl:
             fire: 0
     weight:
       base: 150
-      calc: 150
+      calc: "150"
     reachBase: 0
     bodyScaleBase: 1.33
-    personalFatigue: enc + 5
+    personalFatigue: "enc + 5"
   currentMoveMedium: terrestrial
   movementProfiles:
     - medium: terrestrial
       feetPerRound: 40
       leaguesPerWatch: 3
-      encumbrance: floor(wt/4)
-      strMod: -5 * floor((str - 10) / 2)
+      encumbrance: "floor(wt/4)"
+      strMod: "-5 * floor((str - 10) / 2)"
       factors:
         - scope: surface_cover
           key: wetlands

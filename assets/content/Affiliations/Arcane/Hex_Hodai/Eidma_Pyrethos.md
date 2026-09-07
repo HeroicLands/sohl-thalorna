@@ -86,7 +86,6 @@ data:
     hydalis: nemesis
     zepharis: aligned
     pneumenos: aligned
-id: cOfFfssP38q4djfH
 shortcode: pyrethos
 img: images/affiliation/pyrethos.webp
 name:
@@ -94,7 +93,7 @@ name:
   aliases:
     - Eídma Pyréthos
 sohl:
-  archetype: null
+  templatePriority: null
 thalorna:
   school: fire
 packFolder: affiliationshexhodai

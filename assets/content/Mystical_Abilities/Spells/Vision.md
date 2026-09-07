@@ -5,7 +5,6 @@ name:
   aliases:
     - Sight
 description: "Grants distant sight; sees location far away remotely."
-id: Ck3vJRAUmjtsfh13
 img: icons/anvil.svg
 shortcode: vision
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Sight
 packFolder: spells

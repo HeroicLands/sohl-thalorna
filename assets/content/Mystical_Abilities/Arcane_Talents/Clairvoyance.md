@@ -3,7 +3,6 @@ tags: []
 name:
   full: Clairvoyance
   aliases: []
-id: N2SuuuRJq86wgYy6
 img: icons/psionics.svg
 shortcode: clrv
 type: mysticalability
@@ -15,7 +14,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: ""
 packFolder: arcanetalents

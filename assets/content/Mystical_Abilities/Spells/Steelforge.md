@@ -5,7 +5,6 @@ name:
   aliases:
     - Tempering
 description: "Conjures steel; creates working material from air."
-id: FG6xSZ0WIRdawRPk
 img: icons/anvil.svg
 shortcode: stlfrg
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Tempering
 packFolder: spells

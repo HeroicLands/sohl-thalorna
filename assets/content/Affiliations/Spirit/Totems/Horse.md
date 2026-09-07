@@ -3,7 +3,6 @@ tags: []
 name:
   full: Horse
   aliases: []
-id: UZVuHQMOLIbrSvYS
 img: images/mystery/horse.webp
 shortcode: horsettm
 type: affiliation
@@ -96,7 +95,7 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: totems
 ---
 

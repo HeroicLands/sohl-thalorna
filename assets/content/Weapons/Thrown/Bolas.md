@@ -4,7 +4,6 @@ name:
   full: Bolas
   aliases: []
 description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
-id: kreKZTbXQBV0FiBY
 img: icons/bolas.svg
 shortcode: Bola
 type: weapongear
@@ -60,7 +59,7 @@ sohl:
       maxVolleyMult: 2
       baseRangeBase: 30
       drawBase: 0
-  archetype: null
+  templatePriority: null
 packFolder: weapons
 ---
 

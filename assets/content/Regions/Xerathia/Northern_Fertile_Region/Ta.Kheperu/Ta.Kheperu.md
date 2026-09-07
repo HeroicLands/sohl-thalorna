@@ -6,7 +6,6 @@ banner: banners/ta-kheperu-banner.webp
 name:
   full: Empire of Ta'Kheperu
   aliases: []
-id: 4K5TrZq1I8XKWfUx
 shortcode: empirtkhpr
 subType: polity
 data:
@@ -116,7 +115,7 @@ data:
     vylarinmpr: unaligned
     okharis: unaligned
 sohl:
-  archetype: null
+  templatePriority: null
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
 packFolder: takheperu
 ---

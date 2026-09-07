@@ -5,7 +5,6 @@ name:
   aliases:
     - Animus
 description: "Dominates target's will; forces absolute obedience."
-id: QCVwLSYn2CPwg2mw
 img: icons/tree.svg
 shortcode: thrall
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Animus
 castingTime: 3 rounds

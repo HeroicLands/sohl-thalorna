@@ -5,7 +5,6 @@ name:
   aliases:
     - Mephitis
 description: "Clouds of toxic gas causing illness and disorientation."
-id: gcb1kiGnDQGi4pdY
 img: icons/anvil.svg
 shortcode: nxfum
 type: mysticalability
@@ -17,7 +16,7 @@ sohl:
   charges:
     value: null
     max: null
-  archetype: null
+  templatePriority: null
 hmk:
   name: Mephitis
 packFolder: spells

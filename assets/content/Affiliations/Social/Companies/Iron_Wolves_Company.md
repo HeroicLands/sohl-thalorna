@@ -90,9 +90,8 @@ data:
   parents: []
   relations: {}
 sohl:
-  archetype: null
+  templatePriority: null
 subtype: social
-id: 2mccWDWK0TBkTS8v
 name:
   full: The Iron Wolves Company
   aliases:

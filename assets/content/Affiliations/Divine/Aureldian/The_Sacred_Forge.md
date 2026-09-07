@@ -1,6 +1,5 @@
 ---
 description: "Fire (creative aspect)."
-id: MubmTACxWXEdelLk
 tags:
   - aureldian
   - religion
@@ -104,7 +103,7 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  archetype: null
+  templatePriority: null
 packFolder: pantheonsaureldian
 ---
 

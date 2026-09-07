@@ -5,7 +5,6 @@ name:
   aliases:
     - Bethuan
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
-id: Y5wTU7airBJ3trM9
 img: icons/speaking.svg
 shortcode: bethunlng
 type: skill
@@ -17,7 +16,7 @@ sohl:
   initSkillMult: 0
   masteryLevelBase: 0
   improveFlag: false
-  archetype: null
+  templatePriority: null
 packFolder: language
 flags:
   "sohl-thalorna":
@@ -141,7 +140,7 @@ In modern Bethuan, educated speakers code-switch fluidly, employing the feminine
 
 ## Script and Literacy
 
-Bethuan employs the **Bethuan alphabet**, a modernized form of the ancient Helonic script with some distinctive letterforms:
+Bethuan is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet in a Bethuan recension, with some distinctive letterforms:
 
 The basic inventory matches Helonic (24 letters), but Bethuan orthography includes:
 
