@@ -116,7 +116,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Script and Literacy
 
-Ki'ichek writing combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
+Ki'ichek writing — [[skill-chlxtsbscrpt|Ch'alix Ts'ib]], "the writing of Ch'alix", after the goddess who composed the first codex — combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
 
 Key script features:
 
@@ -124,6 +124,8 @@ Key script features:
 - **Phonetic complements**: Small glyphs indicating pronunciation to disambiguate homonyms
 - **Diacritical marks**: Dots, lines, and flourishes modify meaning
 - **Ceremonial variants**: More elaborate, ornate forms used in sacred contexts
+
+Alongside the glyphs runs a second system entirely: the [[skill-tzblcrdscrpt|Tz'ib'al]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
 Literacy is restricted among the K'ich'chik; scribes and priests hold tremendous social power. Common folk recognize a few dozen glyphs related to daily life (numbers, calendar markers, titles) but cannot read continuous text.
 

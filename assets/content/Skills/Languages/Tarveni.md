@@ -59,7 +59,7 @@ Tarvéni employs a rich inventory of consonants with strong distinctions between
 
 ## Script & Literacy
 
-Tarvéni employs the same alphabetic script as Vylari and Provenzal, though regional scribal traditions have developed distinctive features. The southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
+Tarvéni employs the [[skill-semrnscrpt|Sêmarion]], the same alphabet as Vylari and Provenzal, though regional scribal traditions have developed distinctive features. The southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
 True literacy is confined to the clergy, professional scribes, and a minority of the nobility (perhaps 10-20%) — many Tarvénan lords consider reading a scribe's business, not a warrior's. Guildsmen in the coastal trading centers may possess basic functional literacy — recognizing trade marks, numerals, and simple words — but rely on scribes and solicitors for contracts and legal documents. Inland and rural populations are almost entirely non-literate. The Tarvénan cultural emphasis on poetry and epic tradition means that non-literate speakers preserve extensive oral literature through memorization and performance.
 
