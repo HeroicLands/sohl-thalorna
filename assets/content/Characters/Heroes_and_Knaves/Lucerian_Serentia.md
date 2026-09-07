@@ -562,6 +562,8 @@ Lucerian Serentia is a handsome young man whose appearance screams wealth and ed
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Lucerian was born in the Vylarian city of Belekos, the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society — not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.

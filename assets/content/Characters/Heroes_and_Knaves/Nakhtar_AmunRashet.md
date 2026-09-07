@@ -592,6 +592,8 @@ Nakhtar stands 5'9" tall with a medium build. He has dark brown skin, white hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Inheritance of Craft
 
 Nakhtar Amun'Râshet was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like sacred liturgy from father to son, uncle to nephew, weaving itself into the very bloodline of Clan Amun'Râshet. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, **Tashat Amun'Râshet**, was renowned throughout the lower delta for his work on the great temples, and Nakhtar grew up in the shadow of that reputation, determined not to merely match it but to surpass it.

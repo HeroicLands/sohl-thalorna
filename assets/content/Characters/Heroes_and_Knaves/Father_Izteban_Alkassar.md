@@ -608,6 +608,8 @@ Iztéban Alkássar was born into a modest but respected noble family in the **Ki
 
 Although Iztéban’s family hoped he would follow in his father’s footsteps as a knight, Iztéban felt a strong calling to the clergy. He was particularly inspired by the goddess **Jánus**, the embodiment of justice and honor, who teaches her followers to defend the helpless and stand against oppression. By the age of 12, Iztéban expressed his desire to join the **Order of the Sword of Jánus**, the priesthood dedicated to serving both the spiritual and martial aspects of the Jánusian faith.
 
+## Background
+
 ### Joining the Jánusian Church
 
 Iztéban was sent to the **Great Temple of Jánus** in the capital city of **Valderas**, where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Jánusian faith expects its priests to be both protectors and spiritual guides. Iztéban excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.

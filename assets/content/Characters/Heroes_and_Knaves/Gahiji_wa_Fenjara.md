@@ -602,6 +602,8 @@ Gahiji's reputation spread far and wide when he tracked down and defeated a dang
 
 When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: While Gahiji isn’t the strongest physically, his strength is well-suited to carrying out long hunts and navigating tough jungle terrain.

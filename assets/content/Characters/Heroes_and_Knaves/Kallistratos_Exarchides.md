@@ -620,6 +620,8 @@ Magister Vaelethon — a veteran of the Sodalitas Pyréthos, a former Quaesitori
 
 The apprenticeship lasted eight years — the standard duration. Kallistratos passed his examinations at twenty-three and was elevated to Adeptus, licensed to practice independently. By Ordo standards, he was a success: a qualified Pyréthos practitioner with solid combat training, respectable theoretical knowledge, and the beginnings of a reputation for effectiveness in the field. By his own standards, he had barely started.
 
+## Background
+
 ### The Fall of House Exarchides
 
 The blow fell during his final year as a Discipulus. Political intrigue, misalliances, and internal betrayals led to the collapse of House Exarchides. The details were sordid and predictable — a commercial venture backed by borrowed money, partners who proved faithless, debts called in by creditors who had been positioned to profit from the family's failure. Kallistratos's father, once a trusted bureaucrat in Skoraz's provincial administration, was disgraced and driven into obscurity. The family's remaining land was seized, their house in Skoraz sold to cover debts, and the Exarchides name — already faded — became something closer to a cautionary tale.

@@ -583,6 +583,8 @@ Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hai
 
 # Dossier {#dossier}
 
+## Background
+
 ### From Surface Laborer to Craftsman
 
 Vishnusha was born to the miners of the Vedyara city-states, the son of a man named **Rásikesh** who had worked the deep mines for forty years before a collapse took his life when Vishnusha was merely nine years old. His mother, **Devani**, took in washing and mending to survive, but Vishnusha knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of the **Merchant Collective's** extensive operations.

@@ -596,6 +596,8 @@ Drazha Sycâni is from **Zánatu**, a kingdom situated in a harsh and unforgivin
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
 
+## Background
+
 ### The Black Flame Order and Rise to Power
 
 By the age of 16, Drazhan had joined the **Servants of Sycânus**, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying Vúlcan earned him the title of **Blazewarden**, a position of honor within the order.

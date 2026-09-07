@@ -595,6 +595,8 @@ Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, da
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Woodwright's Inheritance
 
 Lysándros was born into the Chrysanthópoulos family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Lysándros felt most at home among the ancient forests of the Byzarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Lysándros had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.

@@ -582,6 +582,8 @@ Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, bla
 
 # Dossier {#dossier}
 
+## Background
+
 ### Blood and Training
 
 Born to a modest trading family in the Byzarian League, Arkádios showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Arkádios discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.

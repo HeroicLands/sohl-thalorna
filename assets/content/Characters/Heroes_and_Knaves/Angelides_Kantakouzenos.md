@@ -597,6 +597,8 @@ sohl:
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years and Tragedy
 
 Born to a merchant family in the Byzarian League, Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the cosmopolitan cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Kantakouzenós**—a marriage that was to unite two powerful merchant families.

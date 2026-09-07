@@ -564,6 +564,8 @@ Yâsûra is a lean, weather-hardened woman in her early forties, built in the wi
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin: A Daughter of the Matriarchy
 
 Yâsûra was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the **Charíssa**, the lethal Bethûan unarmed art, and she earned a place among the **Lonkhai**, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethûa raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.

@@ -604,6 +604,8 @@ Isaret Ka'Seker, known in the shadow-trade as **"Whispers,"** was born in the wa
 
 Her gift drew the notice of a patron among the Kheperi nobility, who had her schooled in the subtler arts — disguise, cipher, the long game of court espionage — and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered the forbidden work of the **Akh-Menraa**, the hidden circle led by **Master Neferha**, whose experiments upon the dead and the spirit-realm threatened the very balance the Kheperi hold sacred. Knowing such knowledge marked her for the embalmer's table, Isaret fled Ta'Kheperu and sought out [[being-kirobashkm|Kiroba]], hoping that together they might undo Neferha's work and set the balance right.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Isaret is not physically strong, relying more on her mystical abilities and cunning than brute force.

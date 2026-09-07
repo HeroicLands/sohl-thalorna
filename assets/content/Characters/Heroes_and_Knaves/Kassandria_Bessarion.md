@@ -595,6 +595,8 @@ Kassándria stands 5'5" tall with a light build. She has warm olive skin, black 
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Mastery
 
 Born into the distinguished Bessarîon merchant family of Byzaris, the wealthiest city of the Byzarian League, Kassándria demonstrated an uncanny affinity for the arcane from her earliest years. While her siblings learned commerce and trade, she filled the family library's margins with translations of ancient texts, much to her parents' bewilderment and concern. At thirteen, she formally petitioned the Panepistemium for apprenticeship—an extraordinary acceptance that bypassed the usual age of entry and marked her as genuinely exceptional. Her Epistemium masters recognized immediately that she possessed not mere curiosity, but genuine genius—a mind attuned to the hidden frequencies of magical reality itself, with particular brilliance in pattern-recognition and linguistic analysis.

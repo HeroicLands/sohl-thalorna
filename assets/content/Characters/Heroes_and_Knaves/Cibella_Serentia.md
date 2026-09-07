@@ -560,6 +560,8 @@ Cibella Serentia is a young woman of startling beauty and deeply unsettling pres
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Cibella was born in Belekos to the same wealthy merchant family as her brother Lucerian. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura — the ambient resonance that marks those with potential for magical ability — was measured as Profound, the highest classification. She was a genius in every measurable sense, and the world seemed limitless.

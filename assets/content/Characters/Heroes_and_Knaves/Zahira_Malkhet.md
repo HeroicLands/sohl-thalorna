@@ -580,6 +580,8 @@ Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Zahira Malkhet was born in **Sehéla**, a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the Bethûan way, the household turned on its women: Zahira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house laboured in the fields as the dependents they were under law. Zahira, the eldest daughter, was raised from the first as one who would matter — for in Bethûa it is daughters who inherit, carry the line, and answer for a household.

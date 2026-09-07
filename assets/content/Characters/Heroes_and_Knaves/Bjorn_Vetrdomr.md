@@ -587,6 +587,8 @@ Bjǫrn stands 6'0" tall with a heavy build. He has tanned weathered skin, white 
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Maker's Path
 
 Bjǫrn was born the eldest son of a brewmaster in the northern reaches of Nordheim, in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Bjǫrn showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates merely palatable ale from transcendent brew. But Bjǫrn's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.

@@ -596,6 +596,8 @@ Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years in Stone
 
 Arévyn was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the Kingdom of Élavendre. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.

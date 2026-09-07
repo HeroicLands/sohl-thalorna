@@ -606,6 +606,8 @@ Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Loss
 
 Bânut was born to a family of herbalists and plant cultivators in [[affiliation-empirtkhpr|Ta'Kheperu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by genuine joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Kephren**, to whom she was intensely devoted.

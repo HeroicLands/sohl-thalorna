@@ -596,6 +596,8 @@ Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, gray
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Scholar's Calling
 
 Màdhurava was born into House Rudraṭa, a minor but respected family in the City-States of Vedyara known for their expertise in written records and genealogical study. His father, a scribe of some renown, taught young Màdhurava the sacred discipline of heraldry—not merely as the art of rendering arms and blazonry, but as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Màdhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial protocols that governed the complex relationships between the city's competing noble factions. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.

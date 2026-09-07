@@ -602,6 +602,8 @@ Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black 
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years
 
 Leónantos was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Leónantos felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.

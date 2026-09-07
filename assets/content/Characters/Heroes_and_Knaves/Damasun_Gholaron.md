@@ -567,6 +567,8 @@ Dámàsûn Ghôlâron — known to most simply as Parma — is a tall, dark-skin
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Parma is a Helionite from the southern reaches of that great republic, born to a family of modest farmers in the hill country. He claims to have spent his youth in quiet contemplation, drawn to philosophy and theology from an early age. He entered religious service young, devoting himself to the study of the divine mysteries and the welfare of the common folk. This much is true, as far as anyone can verify.

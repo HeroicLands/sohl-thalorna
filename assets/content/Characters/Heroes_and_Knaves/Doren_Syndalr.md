@@ -582,6 +582,8 @@ His reputation as a fighter drew the attention of Brànwâal, who recruited him 
 
 Dôren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tórnis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
 
+## Background
+
 ### Skills and Abilities
 
 - **Battle Prowess**: Dôren is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.

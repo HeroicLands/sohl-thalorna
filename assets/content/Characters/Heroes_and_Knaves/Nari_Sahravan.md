@@ -593,6 +593,8 @@ Nari Sahravân is a daughter of the deep **[[place-khzryndsrtrgn|Khazryn]]** —
 
 Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern Mídhalion borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness — the gentle healer and the killer-for-hire made an uneasy pair — they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her — above all what the matriarchy does to its men — and she does not always keep that disquiet to herself.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Nari is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.

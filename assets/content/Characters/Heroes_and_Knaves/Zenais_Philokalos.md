@@ -589,6 +589,8 @@ Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn 
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Merchant's Daughter and the Silent Language
 
 Zênais was born in the bustling ports of the Byzarian League, daughter of a merchant family with vast trading interests spanning three continents. Her father, **Dimitrios Philokálos**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Thalia**, was renowned for her cultivation of exotic plants in the family's renowned gardens. From her earliest childhood, Zênais demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found utterly inscrutable.

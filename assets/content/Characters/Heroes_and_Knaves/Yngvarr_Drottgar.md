@@ -577,6 +577,8 @@ Yngvarr stands 5'11" tall with a medium build. He has light fair skin, red hair,
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Boy from Nordheim
 
 Yngvarr was born in the remote northern settlements of the Kingdom of Nordheim, where the winters are merciless and survival itself is victory. His father, **Bjorn Dróttgar**, was a militia captain; his mother, **Kára Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Yngvarr began his formal training with the city guard, apprenticed under the stern but capable **Commander Hastein**, learning not merely the mechanics of combat but the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.

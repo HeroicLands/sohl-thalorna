@@ -605,6 +605,8 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **Zerula**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.

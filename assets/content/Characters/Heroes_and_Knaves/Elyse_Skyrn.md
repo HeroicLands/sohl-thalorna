@@ -599,6 +599,8 @@ What Elýsè does not advertise is that her skills extend beyond conventional he
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
 
+## Background
+
 ### Skills and Abilities
 
 - **Healing**: Elýsè's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is remarkably low.

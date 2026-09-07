@@ -610,6 +610,8 @@ Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and bl
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Family Background
 
 Sevion Myrkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Myrkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across Nordheim. Sevion’s father, \*\*Daron Myrkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.

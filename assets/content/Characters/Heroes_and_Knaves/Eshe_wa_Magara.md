@@ -604,6 +604,8 @@ Eshe wa Magara is a fierce warrior hailing from the **Magara** people, a neighbo
 
 The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Eshe was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Eshe’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Eshe joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Eshe’s physical power is undeniable, allowing her to wield her Spirit Blade with devastating precision and strength.

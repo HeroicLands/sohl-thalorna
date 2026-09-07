@@ -588,6 +588,8 @@ Viśvambhārākhila stands 5'10" tall with a medium build. He has deep brown ski
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Rise of the Chandler
 
 Viśvambhārākhila was born the son of a modest candle-maker named **Ratnāṅga** in one of the Vedyara city-states. His father was a competent craftsman but a poor businessman, whose products were of good quality yet whose enterprise remained perpetually on the edge of financial survival. Young Viśvambhārākhila grew up watching his father struggle, watching the family's fortunes rise and fall with the seasons and the whims of noble patrons. This instilled in him two contradictory impulses: a deep appreciation for genuine craftsmanship and a hunger for financial security that bordered on obsession.

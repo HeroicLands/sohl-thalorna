@@ -594,6 +594,8 @@ Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair,
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years and Training
 
 Skúli was born into craft and hardship, the third son of a widowed tentmaker in the Kingdom of Nordheim. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Skúli learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.

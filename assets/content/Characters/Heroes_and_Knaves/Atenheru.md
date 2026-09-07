@@ -609,6 +609,8 @@ Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri
 
 Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-mrtsbkhkmn|Meret-Sebek]] and brought him to a hidden oasis. It was there, as [[being-mrtsbkhkmn|Meret-Sebek]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-mrtsbkhkmn|Meret-Sebek]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-mrtsbkhkmn|Meret-Sebek]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Atenheru is physically capable, though not heavily muscled.

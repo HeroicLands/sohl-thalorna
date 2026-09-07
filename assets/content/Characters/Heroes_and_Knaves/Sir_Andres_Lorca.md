@@ -602,6 +602,8 @@ Born into a noble family in the Western Marches, Sir Andrés was groomed for kni
 
 Over the years, Sir Andrés has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Andrés forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Sir Andrés is physically strong, trained in the art of combat since his youth.

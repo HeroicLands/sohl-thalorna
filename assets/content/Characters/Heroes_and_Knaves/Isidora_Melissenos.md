@@ -598,6 +598,8 @@ Isidôra stands 5'7" tall with a light build. She has olive skin, dark brown hai
 
 # Dossier {#dossier}
 
+## Background
+
 ### A Merchant's Daughter
 
 Isidôra was born the youngest of five daughters to **Merchant-Prince Kossian Melissenós**, a wealthy trader in the Byzarian League whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Isidôra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Lydia Windwhisper**, proprietor of the renowned Gilded Gryphon Inn.

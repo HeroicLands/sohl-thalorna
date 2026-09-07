@@ -589,6 +589,8 @@ Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep bla
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Kitchen Born
 
 Born in 679 in one of Vedyara's prosperous merchant cities, Vànika grew up in a household where food was not merely sustenance but the primary language of hospitality and cultural expression. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning not merely recipes but the underlying principles of flavor, texture, and cultural nutrition that make food memorable.

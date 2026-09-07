@@ -592,6 +592,8 @@ Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, aub
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life
 
 Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative careers, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord **Mikhâen Bárkrâtys**, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of **Swordmaster Valdis**, a legendary figure in the dueling circles of **Vald**, the capital city of the Empire.

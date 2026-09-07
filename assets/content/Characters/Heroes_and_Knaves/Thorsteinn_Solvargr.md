@@ -582,6 +582,8 @@ Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gr
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Apprenticeship Years
 
 Thorsteinn Sólvargr was born into a merchant family of modest means, destined for a life of commerce until he witnessed a master glassworker demonstrating their craft at a market festival when he was twelve years old. The experience transfixed him—the way light transformed through molten glass, the precise control required to shape something so fluid, the beauty created from pure function. He begged his parents to apprentice him, and though they initially resisted, his persistence won them over. At fourteen, he entered the workshop of **Master Kalberk Firekeeper**, an aging glassworker of considerable skill who took the passionate boy under his wing.

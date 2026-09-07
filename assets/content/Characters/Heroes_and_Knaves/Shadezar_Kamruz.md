@@ -592,6 +592,8 @@ Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark br
 
 # Dossier {#dossier}
 
+## Background
+
 ### Rise to Power
 
 Shâdezar was born forty-nine years ago into the Kamruz clan, one of the mid-tier tribes of the Dunhara confederation. His father, a capable warrior named **Krezech Kamruz**, was respected but not feared, and the clan held only modest territory and influence. Young Shâdezar grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named **Tashira**, blessed him with rituals dedicated to **Báhrámiš**, the god of storms, asking the deity to bless her son with strength and fury.

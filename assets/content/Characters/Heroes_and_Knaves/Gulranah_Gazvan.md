@@ -589,6 +589,8 @@ Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark br
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years
 
 Born to the Gazvân clan in the Sultanate of Amradad during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Yasmine al-Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Karamak of the Northern Kiln**—a rare honor for a child of noble guild-standing.

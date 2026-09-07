@@ -590,6 +590,8 @@ Layla Marut is the eldest daughter — and heir-presumptive — of **House Marut
 
 Layla and [[being-zahirmlkht|Zahira]] met when House Marut hired the bounty hunter to run down a thief who had robbed one of the family's caravans. Taken with Zahira's nerve and skill, Layla talked her mother into letting her ride along "to learn the trade-roads first-hand" — and never quite came back to the counting-house. She brings to Zahira's hunts a web of mercantile contacts, an intimate grasp of the trade-routes and the credit that moves along them, and a reading of people and politics as sharp as any blade in the company.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: While not physically imposing, Layla has enough strength for day-to-day activities but lacks martial prowess.

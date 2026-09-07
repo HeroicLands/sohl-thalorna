@@ -598,6 +598,8 @@ Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. H
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Gróa was born into the Vindrkvé clan, a small, isolated lesser free clan of Norgaad, a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the Hrafnfjord region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Gróa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in Nordheim.
@@ -618,7 +620,7 @@ Gróa’s talent for Seiðr magic was recognized by the local village elders and
 
 Gróa became a mendicant, traveling from clan to clan, offering her services as a Seiðr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or ensure good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
 
-### The Awakening
+### The Transformation
 
 Gróa’s transformation from a wandering Seiðr to a woman with a deeper purpose came when she received a powerful vision during a midwinter blót. In the vision, she was shown the unraveling threads of fate in Norgaad—her homeland would face internal strife, foreign invasions, but most of all the rise of an ancient evil from the depths of the sea. Njörven, the Sea Wraith, a mythic creature long ago overthrown by Thórr, is slowly awakening, his influence seeping back into the seas of Norgaad, causing unprecedented storms and sea unrest. His goal is to break free and exact revenge on the mortal world, especially the coastal clans that once worshipped him but have since turned to Thórr. The Crow Spirit guided her in the vision, showing her that she must acquire three ancient relics created by Thórr to seal away Njörven—the **Spear of Sigrid**, the **Crown of the Wyrm**, and the **Horn of Njördur**—and use the ancient _Rituals of Binding_ to either re-imprison the spirit or appease his wrath. Her powers, and those of key companions, will be the key to saving her people.
 

@@ -585,6 +585,8 @@ He has led men for more than a decade, and his philosophy is simple: war is a ga
 
 Beneath his practical, sometimes cold exterior, Brànwâal cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
 
+## Background
+
 ### Skills and Abilities
 
 - **Leadership**: Brànwâal's greatest asset. He commands respect through experience, competence, and the unshakable loyalty he inspires in those who serve under him.

@@ -592,6 +592,8 @@ Tot'kar stands 5'10" tall with a heavy build. He has tawny skin, graying black h
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Scholar's Path
 
 Born in 676 to a merchant family with modest social standing, Totkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant Amenhophis, a man of legendary acumen and integrity, Totkar studied the vast and intricate legal codes that governed [[affiliation-empirtkhpr|Ta'Kheperu]]'s empire, learning not merely rules but the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.

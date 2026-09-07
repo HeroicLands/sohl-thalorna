@@ -569,6 +569,8 @@ Sélvara Válskyr is a striking woman — tall, dark-skinned, and built with the
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Sélvara was born in a coastal village in northern Tarvénia, the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Eshârum Tarûzî — then a young rebel scout — was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.

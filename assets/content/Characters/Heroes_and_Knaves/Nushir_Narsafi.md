@@ -600,6 +600,8 @@ Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### Apprenticeship and Early Mastery
 
 Nushir Narsâfî was born to a family of modest means in the Khazryn Desert's scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and genuine passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.

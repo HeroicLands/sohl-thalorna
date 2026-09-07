@@ -607,6 +607,8 @@ Shadal stands 6'0" tall with a medium build. He has deep brown skin, dark close-
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Humble Origins
 
 Shadal was born in a modest quarter of the confederation's largest city, the son of a dock worker and a laundress. His parents, recognizing unusual intelligence in their boy, scraped together every coin they could spare to send him to a temple school where he learned basic letters and numbers. While other students came from merchant families or minor nobility, Shadal excelled through sheer determination, mastering not just one script but eventually five different writing systems used across the Kalihara Confederation. His teachers at the temple recommended him to a master scribe named **Korven the Precise**, an exacting perfectionist who took Shadal as an apprentice at age twelve.

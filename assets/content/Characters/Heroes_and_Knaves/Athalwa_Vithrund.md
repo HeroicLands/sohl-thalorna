@@ -594,6 +594,8 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 # Dossier {#dossier}
 
+## Background
+
 ### Born to Unorthodoxy
 
 Athalwa was the second child of **Chieftain Vorthgar Vithrúnd**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the Vrystwald borders. The elders debated whether she was blessed or cursed.

@@ -573,6 +573,8 @@ Garulf Druthgar is an enormous man — six foot four, heavy-boned, and packed wi
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Garulf was born on a farmstead in the Vrystwald frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple — plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.

@@ -601,6 +601,8 @@ Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in th
 
 Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[being-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Neferet is not physically strong, being more focused on intellectual pursuits.

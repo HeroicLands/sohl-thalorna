@@ -568,6 +568,8 @@ Ylíra Skorrsdottir is a lean, wiry young woman with the pale skin and blonde ha
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Ylíra was born on the storm-battered coast of Nordheim, the daughter of a weaponcrafter father and a mother captured in a coastal raid. This mixed heritage — half Nordheimer, half from the conquered peoples of the coast — left her caught between two worlds. She was raised in the harsh Nordheim traditions, worshipping the old gods, learning to fight before she could read, and enduring the casual cruelty of a culture that valued strength above all else.

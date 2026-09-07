@@ -591,6 +591,8 @@ Athênagoras stands 6'0" tall with a heavy build. He has light tanned skin, blac
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Farmer's Son Drafted
 
 Athênagoras was born in a rural agricultural district of the Byzarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Flórania. This peaceful existence ended abruptly at eighteen when conscription officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Athênagoras found himself conscripted without alternative.

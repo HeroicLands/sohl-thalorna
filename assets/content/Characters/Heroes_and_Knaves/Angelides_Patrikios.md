@@ -595,6 +595,8 @@ sohl:
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Divergence
 
 Ángelides was born to a learned merchant family within the Byzarian League, and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Magister Ptolemaus of the Hydälis Sodalitas**, a scholar of theoretical thaumaturgy within the Panepistemium's chapterhouse, renowned for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Ángelides submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the Héx Hodäi, studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.

@@ -557,6 +557,8 @@ Cassia Verric is an unremarkable woman, and works at it. She is of middling heig
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Service
 
 Cassia Verric is a career officer of the [[affiliation-vylarinmpr|Vylarian]] intelligence service, born to a minor administrative family of [[place-magnapolis|Magnápolis]] and raised in the empire's vast bureaucratic machine rather than its legions or its Senate. She came up through the harbour-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vylarian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethûa's]] deniable war of its deniability.

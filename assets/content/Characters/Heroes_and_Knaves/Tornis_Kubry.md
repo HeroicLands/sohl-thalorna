@@ -581,6 +581,8 @@ Tórnis presents himself as a simple, affable traveler. He is charming, easy to 
 
 Recently, his carefully maintained emotional walls have developed a crack: he has begun developing genuine feelings for Elýsè, and he is not entirely sure what to do about it.
 
+## Background
+
 ### Skills and Abilities
 
 - **Stealth**: Tórnis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary professional skill and the reason the Silent Talon hired him.

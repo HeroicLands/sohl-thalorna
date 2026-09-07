@@ -598,6 +598,8 @@ Her black hair, typically worn in neat plaited pigtails, frames a face of striki
 
 # Dossier {#dossier}
 
+## Background
+
 ### Daughter of the Sea
 
 Brânalenîs was born in the great port city of Alyssa in the Empire of Vylaria, to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was not merely present in her childhood; it was the fundamental substrate of existence. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.

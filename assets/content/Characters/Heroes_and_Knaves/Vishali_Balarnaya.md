@@ -585,6 +585,8 @@ Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Training
 
 Vishali was born into the merchant caste of the Vedyara city-states, the daughter of a spice trader who prided himself on legitimate business practices. Her childhood was one of relative comfort, spent navigating the bustling marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.

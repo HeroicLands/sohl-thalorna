@@ -596,6 +596,8 @@ Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, da
 
 # Dossier {#dossier}
 
+## Background
+
 ### Born to the Waters
 
 Viśvàra was born to a fishing family in one of the Vedyara city-states' coastal settlements, the son of **Mahâpara the Elder**, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Viśvàra knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.

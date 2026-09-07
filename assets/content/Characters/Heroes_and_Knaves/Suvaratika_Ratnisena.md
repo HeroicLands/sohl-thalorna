@@ -596,6 +596,8 @@ Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep b
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Child of the Craftsmith Quarter
 
 Suvaratika was born in the Craftsmith Quarter of Vedyara's largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance.

@@ -604,6 +604,8 @@ Mehrâd stands 5'7" tall with a light build. He has warm olive skin, dark black 
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Child of the Storm
 
 Mehrâd was born in the coastal settlements of the Sultanate of Amradad to a family of traders and minor pilots who navigated the treacherous waters between the sultanate and distant ports. His father, a respected merchant captain, intended that Mehrâd would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Mehrâd displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: not merely competence, but genius in its purest form.

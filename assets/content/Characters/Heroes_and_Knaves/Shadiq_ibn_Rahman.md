@@ -613,6 +613,8 @@ Shadiq ibn Rahman hails from the southern deserts of **Zánatu**, a land where t
 
 Shadiq met Kallistratos during a diplomatic mission in Velysâra, where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Shadiq is not particularly physically strong, as his skills lie in negotiation and diplomacy rather than physical combat.

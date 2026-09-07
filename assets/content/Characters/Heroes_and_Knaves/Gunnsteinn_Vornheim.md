@@ -580,6 +580,8 @@ Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Warrior's Birth
 
 Gunnsteinn was born the third son of **Ragnar Vǫrnheim**, a minor jarl of the Kingdom of Vithgard, into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the legendary sword-master **Kael Ironhand** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.

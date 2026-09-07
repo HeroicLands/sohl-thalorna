@@ -599,6 +599,8 @@ Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, wi
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life
 
 Thornak Blodtūsc Bār was born into the **Mahnlin tribe**, one of the most remote and fiercely independent Vrystwald tribes. His tribe’s survival depended on their mastery of the wild, rugged terrain of Peran, a land of dense forests, deep valleys, and treacherous mountains. The Vrystwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.

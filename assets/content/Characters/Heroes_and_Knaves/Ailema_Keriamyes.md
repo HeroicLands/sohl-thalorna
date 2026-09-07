@@ -601,6 +601,8 @@ Ailêmâ stands 5'11" tall with a medium build. She has light olive skin, chestn
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Child of Letters
 
 Ailêmâ was born in the capital city of Alyssa, within the Empire of Vylaria, into the Kêrîamyês family—a family of scholars and administrators of modest means but considerable reputation for intellectual achievement. Her father, **Veridân Kêrîamyês**, was himself a scribe of some renown, known for his meticulous work on historical chronicles and legal documents. Her mother, **Istrylla d'Alyssa**, came from a merchant family but was equally educated and served as a teacher to the children of nobility. From her earliest years, Ailêmâ was immersed in the world of letters. She learned to form her first words while watching her father at his work table, fascinated by the transformation of thought into visible marks upon parchment. By age five, she was already being tutored in basic script; by ten, she was assisting her father on commissioned work.

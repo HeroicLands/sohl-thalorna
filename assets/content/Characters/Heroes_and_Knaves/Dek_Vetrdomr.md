@@ -589,6 +589,8 @@ Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark bro
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Thatchers' Path
 
 Dek was born in Malagna as the youngest son of **Vetrarr the Roofman**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Dek remained in the countryside, learning not just the mechanics of thatching but the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.

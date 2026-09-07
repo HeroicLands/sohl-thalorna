@@ -588,6 +588,8 @@ Philetos Kleftes once served as a military strategist in Vylaria’s armies, ren
 
 Bitter and exiled, Philetos turned to mercenary work, selling his tactical expertise to whoever could afford him. His faith in the Black Flame gave shape to his resentment: the empire hadn’t exiled him for being wrong, it had exiled him for being strong in a way it couldn’t control. When he met [[being-klstrtsxrchds|Kallistratos Exarchides]] at a political gathering in Velysâra, their shared fascination with fire as both a weapon and a tool for transformation brought them together. Philetos saw in Kallistratos a kindred spirit, someone willing to embrace the destructive power of fire to achieve greater goals. He believes that Kallistratos’s ambitions to reshape the empire through fire and arcane power align perfectly with his own desire for redemption and vengeance—and with the Black Flame’s vision of a world where strength, not politics, determines who rules.
 
+## Background
+
 ### Skills and Abilities
 
 - **Strength**: Philetos has spent years in battle, developing significant physical strength.

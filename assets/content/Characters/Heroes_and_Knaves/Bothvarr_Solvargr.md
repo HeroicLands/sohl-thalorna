@@ -586,6 +586,8 @@ Bǫthvarr stands 6'3" tall with a heavy build. He has tanned weathered skin, gra
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Making of a Warrior
 
 Bǫthvarr was born to minor landed gentry in the borderlands of Malagna, in a region perpetually contested by warring factions. His father, himself a veteran of a dozen campaigns, saw his firstborn son as natural material for the warrior's path and began his training before Bǫthvarr could properly walk. By age ten, he could handle a short blade with reasonable competence. By age fifteen, he was serving as a junior infantry soldier in the border garrison, learning through bitter experience what his father's training had only theoretically prepared him for.

@@ -589,6 +589,8 @@ Despite the demands of her craft, Ósk carries herself with an easy grace and na
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Wild Child
 
 Ósk Drekanótt was born into a family of thatchers in the northern reaches of the Kingdom of Malagna, where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, **Hjalmar Drekanótt**, was a skilled thatcher of considerable reputation, and her mother, **Keira**, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Ósk showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's instinct for innovation and practical economics.

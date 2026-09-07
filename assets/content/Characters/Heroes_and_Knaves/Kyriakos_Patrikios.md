@@ -586,6 +586,8 @@ Kyriákos stands 6'0" tall with a heavy build. He has tanned weathered skin, gra
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and the Mercenary Years
 
 Kyriákos was born in a small village on the margins of the Byzarian League to a blacksmith and a healer. His childhood was marked by poverty and the constant presence of war—his village changed hands between different powers repeatedly, and he learned early that survival meant adaptation and ruthlessness. When he was fourteen, mercenary recruiters came through looking for able-bodied youths, and desperate to escape the grinding hopelessness of village life, Kyriákos signed on. For thirty-five years, he served in mercenary companies across the known world, becoming eventually one of the deadliest warriors his employers had ever seen. He was not evil by nature—he was simply a professional, following orders, collecting his pay, and trying to survive each contract with as many scars as possible and as few nightmares as he could manage.

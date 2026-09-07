@@ -585,6 +585,8 @@ Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray 
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years
 
 Born in 669 on the winter solstice, Timothéon was raised in the bustling port settlements of the Byzarian League, the son of a minor merchant family with deep roots in the trading guilds. From his youth, he showed an uncommon affinity with beasts and an intuitive sense for navigation, talents he cultivated under the watchful eye of his father and the grizzled veterans of the merchant caravans. By his teens, Timothéon had already embarked on his first trade runs, learning the intricate choreography of managing teams of draft animals and coordinating the logistical complexity of long-distance commerce.

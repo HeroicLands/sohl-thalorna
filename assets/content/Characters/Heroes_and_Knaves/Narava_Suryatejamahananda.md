@@ -594,6 +594,8 @@ Nárava stands 6'2" tall with a heavy build. He has golden brown skin, jet black
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Child of Light
 
 Nárava was born to a merchant family of notable standing in the City-States of Vedyara, the first son in a line expected to carry on the family's lucrative trade in spices. However, at age seven, his life was transformed by a single encounter. His father took him to the workshop of **Master Dhavalakar**, the greatest glassworker in the known world, a man whose pieces were commissioned by temples and nobles across three continents. Nárava watched in complete absorption as Master Dhavalakar drew liquid light from the furnace on the end of a hollow pipe, and with nothing but the master craftsman's breath and skilled hands, transformed it into shapes of impossible beauty—flowers that seemed to bloom, animals that seemed poised to move, abstract forms that captured the essence of light itself.

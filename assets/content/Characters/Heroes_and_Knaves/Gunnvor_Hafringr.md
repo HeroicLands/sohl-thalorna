@@ -594,6 +594,8 @@ Gunnvǫr stands 5'11" tall with a medium build. She has pale fair skin, blonde h
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Teamster's Inheritance
 
 Gunnvǫr was born into the Hafringr clan of Norgaad, a family of modest means whose primary wealth lay in a small string of reliable draft horses and two heavy-laden wagons. Her father, **Hroarr Hafringr**, was a respected if unexceptional teamster whose reputation rested upon consistency and honest dealing rather than ambition. From her earliest childhood, Gunnvǫr worked alongside her father, learning to gauge road conditions, manage animals, and read the subtle signs of mechanical failure before it crippled a wagon mid-journey. While her older brother pursued his father's dream of minor merchant status, Gunnvǫr became obsessed with the efficiency of the work itself.

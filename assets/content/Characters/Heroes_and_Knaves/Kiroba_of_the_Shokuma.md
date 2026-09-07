@@ -585,6 +585,8 @@ Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pound
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Family Background
 
 Kiroba hails from the **Shókuma** tribe of the Okháris people, living near the rainforests, where rivers twist through the landscape and connect them to the Ta’Kheperu Empire. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the **zohira**, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.

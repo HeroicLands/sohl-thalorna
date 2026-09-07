@@ -602,6 +602,8 @@ Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life and Loss
 
 Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thutmosa family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.

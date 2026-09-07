@@ -596,6 +596,8 @@ Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Promising Scholar
 
 Born to a merchant family of moderate wealth in the Khazryn Desert, Kayvonad demonstrated early aptitude for mathematics and molecular theory. He studied at the University of Caldar from age fifteen, where he rapidly became the favored student of the legendary alchemist **Master Aldrin Kovoss**. Under **Kovoss's** tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His doctoral thesis on the thermodynamic principles underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.

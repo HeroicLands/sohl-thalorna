@@ -593,6 +593,8 @@ Khârânah stands 5'10" tall with a medium build. She has light olive skin, dark
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life
 
 Khârânah was born into the merchant family of Khafûr, whose caravans once traced the major trade routes of the Khazryn Desert. Her father, Farûkh Khafûr, was a trader in spices and rare botanicals, while her mother, Salîra, possessed an innate gift for blending and distillation. From childhood, Khârânah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Khârânah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.

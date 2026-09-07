@@ -604,6 +604,8 @@ Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hai
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Healer's Apprentice
 
 Harkhîs was born into moderate means in the cosmopolitan heart of Vylaria's empire, to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named **Elisavet**, possessed genuine knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings pursued conventional merchant careers, Harkhîs became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.

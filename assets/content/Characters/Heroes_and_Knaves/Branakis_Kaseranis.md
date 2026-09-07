@@ -596,6 +596,8 @@ Most striking is the tattoo adorning his left forearm: a great tree with roots s
 
 # Dossier {#dossier}
 
+## Background
+
 ### The Forest's Gift
 
 Bránakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the Holy Kingdom of Nartum. His father was a timber harvester, and his mother the daughter of a charcoal maker—the profession seemed almost hereditary, a calling written into the family's very blood. From his earliest memories, Bránakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.

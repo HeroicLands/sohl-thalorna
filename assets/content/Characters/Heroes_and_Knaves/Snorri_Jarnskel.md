@@ -588,6 +588,8 @@ Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark b
 
 # Dossier {#dossier}
 
+## Background
+
 ### Born into Chains
 
 Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Erik Bloodstone**, a minor noble of the Kingdom of Nordheim whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.

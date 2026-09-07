@@ -607,6 +607,8 @@ Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Life
 
 Born to the Steinblót clan, renowned stonemasons in the Kingdom of Vithgard, Hildr was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.

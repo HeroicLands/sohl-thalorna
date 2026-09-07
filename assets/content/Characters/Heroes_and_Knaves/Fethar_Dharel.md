@@ -565,6 +565,8 @@ Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade a
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin
 
 Féthar grew up in a landlocked river town in northern Provènzia, the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him — a pull toward horizons he could not see from the riverbank.

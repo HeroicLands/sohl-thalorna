@@ -580,6 +580,8 @@ Chéleb is deeply spiritual, connected to the natural world in a way that his me
 
 He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chéleb seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Brànwâal values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
 
+## Background
+
 ### Skills and Abilities
 
 - **Tracking**: A master tracker who can follow a trail over rock, through water, and across landscapes that would defeat most pursuers. His Áelendi training makes him one of the finest woodsmen the Silent Talon has ever had.

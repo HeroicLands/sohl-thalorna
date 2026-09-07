@@ -583,6 +583,8 @@ Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark b
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Years
 
 Afzandah was born into the Parnâzar clan in the oasis city of Kethramír, where her family had long held a modest reputation as merchants trading in minerals and semi-precious stones. Her father, Rezân Parnâzar, encouraged her curiosity about gemstones and their properties, often taking her to the prospecting camps in the surrounding desert. Her mother, Isâira, was the daughter of a Khazryn weaponsmith, and it was through her mother's lineage that Afzandah gained early exposure to metalworking. While her brothers were groomed to continue the family's trading enterprise, Afzandah was quietly apprenticed at age twelve to the master armorer **Valdrin Corethûs**, a gruff but brilliant craftsman who recognized her exceptional dexterity and creative instinct.
