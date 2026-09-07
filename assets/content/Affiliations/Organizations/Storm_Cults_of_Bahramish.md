@@ -112,7 +112,7 @@ sohl:
 _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_
 
 - **Type:** Decentralized religious organization (multiple semi-autonomous lineages)
-- **Patron:** [[Bahramish|Báhrámiš]] — Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
+- **Patron:** [[lore-bahramisdty|Báhrámiš]] — Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
 - **Region:** [[Dunhara_Tribes_Region|The Dunhara Tribes]] — present in every Dunhari encampment of significance, with the great gathering-shrine at the Stone of Ranâz (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
 
 ## Overview
