@@ -24,5 +24,5 @@ This person exhibits a composed and methodical approach to life, showing remarka
 - **Behavioral:** Steadfast, reserved, can endure a lot without complaint.
 - **Positive:** Reliable, composed, and insightful.
 - **Negative:** Aloof, resistant to change, and overly cautious.
-- **Minor Trait (Patient):** Content to wait and watch, unhurried in their decisions and preferring the familiar over the unknown.
-- **Major Disorder (Avoidant):** Deeply inhibited and resistant to anything new, withdrawing from unfamiliar people and situations with stubborn, fearful resolve.
+- **Minor Trait ([[sohl-none-doctrauma-patient|Patient]]):** Content to wait and watch, unhurried in their decisions and preferring the familiar over the unknown.
+- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Deeply inhibited and resistant to anything new, withdrawing from unfamiliar people and situations with stubborn, fearful resolve.

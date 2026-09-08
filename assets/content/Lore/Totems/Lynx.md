@@ -24,5 +24,5 @@ Preferring the quiet of night, this individual is watchful and solitary. They us
 - **Behavioral:** Highly elusive, prefers night-time activity, secretive.
 - **Positive:** Highly aware, observant, and strategic.
 - **Negative:** Secretive, reclusive, and may avoid daytime engagement.
-- **Minor Trait (Watchful):** Observes from the edges, taking in everything while revealing little, preferring to understand a situation fully before stepping into it.
-- **Major Disorder (Avoidant):** Retreats ever deeper into isolation, avoiding all companionship and becoming a ghost-like presence on the edges of the world.
+- **Minor Trait ([[sohl-none-doctrauma-watchful|Watchful]]):** Observes from the edges, taking in everything while revealing little, preferring to understand a situation fully before stepping into it.
+- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Retreats ever deeper into isolation, avoiding all companionship and becoming a ghost-like presence on the edges of the world.

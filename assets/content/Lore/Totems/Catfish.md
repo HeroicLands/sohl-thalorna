@@ -24,5 +24,5 @@ Preferring to work under the radar, this person takes advantage of situations th
 - **Behavioral:** Active at night, takes advantage of situations and opportunities.
 - **Positive:** Adaptable, resourceful, and efficient.
 - **Negative:** Opportunistic, secretive, and may avoid daytime interactions.
-- **Minor Trait (Adaptable):** Reads situations quickly and adjusts their approach to fit, comfortable shifting tactics when circumstances change around them.
-- **Major Disorder (Antisocial):** Exploits every opportunity without a shred of concern for those harmed, treating others as tools to be used and discarded.
+- **Minor Trait ([[sohl-none-doctrauma-adapt|Adaptable]]):** Reads situations quickly and adjusts their approach to fit, comfortable shifting tactics when circumstances change around them.
+- **Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]]):** Exploits every opportunity without a shred of concern for those harmed, treating others as tools to be used and discarded.

@@ -24,5 +24,5 @@ Reliable and resilient, this person is often seen as the backbone in any group. 
 - **Behavioral:** Dependable, reliable under pressure, does not tire easily.
 - **Positive:** Reliable, strong, and hardworking.
 - **Negative:** Predictable, resistant to change, and may be overly burdensome.
-- **Minor Trait (Resilient):** Endures hardship without complaint, drawing strength from familiar patterns and steady, dependable effort day after day.
-- **Major Disorder (Codependent):** Slavishly bound to familiar routines and structures, unable to function or make choices when their expected patterns are disrupted.
+- **Minor Trait ([[sohl-none-doctrauma-rslnt|Resilient]]):** Endures hardship without complaint, drawing strength from familiar patterns and steady, dependable effort day after day.
+- **Major Disorder ([[sohl-none-doctrauma-cdpndnt|Codependent]]):** Slavishly bound to familiar routines and structures, unable to function or make choices when their expected patterns are disrupted.

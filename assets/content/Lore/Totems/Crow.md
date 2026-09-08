@@ -24,5 +24,5 @@ Mischevous, curious, and resourceful, this person has a knack for problem-solvin
 - **Behavioral:** Highly curious, resourceful in problem-solving and tool use.
 - **Positive:** Resourceful, innovative, and problem-solving.
 - **Negative:** Mischievous, vindictive, and may play tricks on others.
-- **Minor Trait (Innovative):** Quick to find clever solutions and new angles, taking quiet pride in their ingenuity and expecting others to notice.
-- **Major Disorder (Narcissistic):** Consumed by self-importance and a hunger for admiration, turning vindictive and manipulative when their ego is challenged.
+- **Minor Trait ([[sohl-none-doctrauma-innvtv|Innovative]]):** Quick to find clever solutions and new angles, taking quiet pride in their ingenuity and expecting others to notice.
+- **Major Disorder ([[sohl-none-doctrauma-nrcssstc|Narcissistic]]):** Consumed by self-importance and a hunger for admiration, turning vindictive and manipulative when their ego is challenged.

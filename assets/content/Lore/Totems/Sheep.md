@@ -24,5 +24,5 @@ Mild-mannered and sociable, this person finds comfort in numbers and follows gro
 - **Behavioral:** Extremely social, follows group dynamics, generally docile.
 - **Positive:** Cooperative, social, and mild-mannered.
 - **Negative:** Overly dependent on group dynamics, lacking in individual initiative.
-- **Minor Trait (Agreeable):** Goes along easily with the group, finding comfort in consensus and preferring to follow a trusted leader rather than strike out alone.
-- **Major Disorder (Codependent):** Helplessly reliant on the group and its leaders, unable to think or act independently and lost without someone to follow.
+- **Minor Trait ([[sohl-none-doctrauma-agree|Agreeable]]):** Goes along easily with the group, finding comfort in consensus and preferring to follow a trusted leader rather than strike out alone.
+- **Major Disorder ([[sohl-none-doctrauma-cdpndnt|Codependent]]):** Helplessly reliant on the group and its leaders, unable to think or act independently and lost without someone to follow.

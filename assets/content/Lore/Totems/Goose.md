@@ -24,5 +24,5 @@ Fiercely protective of their space, this individual confronts intruders with ass
 - **Behavioral:** Highly territorial, can be surprisingly aggressive in defense.
 - **Positive:** Loyal, protective, and assertive.
 - **Negative:** Aggressive, overly territorial, and confrontational.
-- **Minor Trait (Assertive):** Quick to defend what they consider theirs, vocal about boundaries and unafraid to challenge anyone who crosses them.
-- **Major Disorder (Impulsive):** Wildly volatile in their emotions and relationships, swinging between fierce loyalty and explosive hostility with alarming speed.
+- **Minor Trait ([[sohl-none-doctrauma-assrtv|Assertive]]):** Quick to defend what they consider theirs, vocal about boundaries and unafraid to challenge anyone who crosses them.
+- **Major Disorder ([[sohl-none-doctrauma-implsv|Impulsive]]):** Wildly volatile in their emotions and relationships, swinging between fierce loyalty and explosive hostility with alarming speed.

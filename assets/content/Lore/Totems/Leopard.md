@@ -24,5 +24,5 @@ Preferring solitude, this individual is self-reliant and keeps to themselves. Th
 - **Behavioral:** Prefers solitude and secrecy, rarely seen but highly capable.
 - **Positive:** Self-reliant, strategic, and capable.
 - **Negative:** Secretive, avoidant, and may struggle with trust and collaboration.
-- **Minor Trait (Independent):** Follows their own path with quiet confidence, comfortable walking alone and unbothered by the opinions of others.
-- **Major Disorder (Avoidant):** Increasingly eccentric and strange in their habits and thinking, drifting further from others into a world of peculiar beliefs and behaviors.
+- **Minor Trait ([[sohl-none-doctrauma-indpndnt|Independent]]):** Follows their own path with quiet confidence, comfortable walking alone and unbothered by the opinions of others.
+- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Increasingly eccentric and strange in their habits and thinking, drifting further from others into a world of peculiar beliefs and behaviors.

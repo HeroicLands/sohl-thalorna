@@ -24,5 +24,5 @@ This person is a master of focus and determination, diving into tasks with unmat
 - **Behavioral:** Precise in actions, relentless in efforts and pursuits.
 - **Positive:** Highly focused, determined, and efficient.
 - **Negative:** Can be overly intense and may not tolerate distractions or setbacks well.
-- **Minor Trait (Precise):** Takes care with details and holds their work to high standards, sometimes spending longer than necessary to get things just right.
-- **Major Disorder (Obsessive):** Driven by merciless perfectionism, endlessly reworking and controlling every detail until nothing and no one can meet their impossible standards.
+- **Minor Trait ([[sohl-none-doctrauma-precise|Precise]]):** Takes care with details and holds their work to high standards, sometimes spending longer than necessary to get things just right.
+- **Major Disorder ([[sohl-none-doctrauma-obsssv|Obsessive]]):** Driven by merciless perfectionism, endlessly reworking and controlling every detail until nothing and no one can meet their impossible standards.

@@ -24,5 +24,5 @@ Elusive and careful, this individual is always cautious about their surroundings
 - **Behavioral:** Extremely cautious, prefers to stay under the radar, secretive.
 - **Positive:** Cautious, observant, and strategic.
 - **Negative:** Secretive, withdrawn, and overly suspicious.
-- **Minor Trait (Vigilant):** Keeps a careful eye on their surroundings, sometimes reading too much into small changes and staying on guard when others have relaxed.
-- **Major Disorder (Anxiety):** Overwhelmed by dread at the thought of being seen or noticed, retreating from all social contact and living in fearful seclusion.
+- **Minor Trait ([[sohl-none-doctrauma-vigilant|Vigilant]]):** Keeps a careful eye on their surroundings, sometimes reading too much into small changes and staying on guard when others have relaxed.
+- **Major Disorder ([[sohl-none-doctrauma-anxiety|Anxiety]]):** Overwhelmed by dread at the thought of being seen or noticed, retreating from all social contact and living in fearful seclusion.

@@ -24,5 +24,5 @@ Blunt and decisive, this individual exhibits little tolerance for obstacles and 
 - **Behavioral:** Focused to the point of being ruthless, relentless in pursuits.
 - **Positive:** Blunt, decisive, and highly effective.
 - **Negative:** Ruthless, intolerant of mistakes, and could be overly aggressive in pursuits.
-- **Minor Trait (Goal-oriented):** Keeps their eyes fixed on the prize, pursuing objectives with sharp focus and little patience for distractions or hesitation.
-- **Major Disorder (Antisocial):** Pursues their ambitions with cold ruthlessness, trampling others without hesitation or remorse to claim what they believe is theirs.
+- **Minor Trait ([[sohl-none-doctrauma-glrntd|Goal-oriented]]):** Keeps their eyes fixed on the prize, pursuing objectives with sharp focus and little patience for distractions or hesitation.
+- **Major Disorder ([[sohl-none-doctrauma-antscl|Antisocial]]):** Pursues their ambitions with cold ruthlessness, trampling others without hesitation or remorse to claim what they believe is theirs.

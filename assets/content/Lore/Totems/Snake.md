@@ -24,5 +24,5 @@ This individual is stealthy and waits for the opportune moment to strike. They p
 - **Behavioral:** Silent, patient, strategic in timing and actions.
 - **Positive:** Stealthy, patient, and strategic.
 - **Negative:** Secretive, distant, and may be perceived as untrustworthy.
-- **Minor Trait (Calm):** Unhurried and composed, keeping their feelings well hidden beneath a still surface and rarely letting others see what lies beneath.
-- **Major Disorder (Avoidant):** Withdraws from others behind a wall of silence, harboring quiet resentment that surfaces as subtle sabotage and passive hostility.
+- **Minor Trait ([[sohl-none-doctrauma-calm|Calm]]):** Unhurried and composed, keeping their feelings well hidden beneath a still surface and rarely letting others see what lies beneath.
+- **Major Disorder ([[sohl-none-doctrauma-avoidant|Avoidant]]):** Withdraws from others behind a wall of silence, harboring quiet resentment that surfaces as subtle sabotage and passive hostility.

@@ -24,5 +24,5 @@ Always preparing for future scarcity, this person is cautious and tends to gathe
 - **Behavioral:** Cautious and highly protective of personal space and possessions.
 - **Positive:** Prepared, cautious, and resourceful.
 - **Negative:** Overly cautious, hoarding behaviors, and may struggle with trust.
-- **Minor Trait (Cautious):** Careful with resources and always thinking ahead, setting things aside for a rainy day and reluctant to part with what they have gathered.
-- **Major Disorder (Obsessive):** Compulsively gathers and hoards possessions far beyond any practical need, unable to part with anything and growing anxious at the thought of loss.
+- **Minor Trait ([[sohl-none-doctrauma-cautious|Cautious]]):** Careful with resources and always thinking ahead, setting things aside for a rainy day and reluctant to part with what they have gathered.
+- **Major Disorder ([[sohl-none-doctrauma-obsssv|Obsessive]]):** Compulsively gathers and hoards possessions far beyond any practical need, unable to part with anything and growing anxious at the thought of loss.

@@ -24,5 +24,5 @@ Fiercely determined and self-reliant, this individual prefers solitary tasks and
 - **Behavioral:** Highly determined, fiercely independent, unwilling to let go of tasks.
 - **Positive Aspects:** Determined, fiercely independent, and resilient.
 - **Negative Aspects:** Stubborn, isolated, unwilling to let go of tasks, and resistant to collaboration.
-- **Minor Trait (Self-sufficient):** Prefers to handle things on their own, sometimes to a fault, rarely asking for help even when it would be wise.
-- **Major Disorder (Obsessive):** Consumed by rigid habits and unbending stubbornness, unable to adapt or compromise even when it harms them.
+- **Minor Trait ([[sohl-none-doctrauma-selfsuf|Self-sufficient]]):** Prefers to handle things on their own, sometimes to a fault, rarely asking for help even when it would be wise.
+- **Major Disorder ([[sohl-none-doctrauma-obsssv|Obsessive]]):** Consumed by rigid habits and unbending stubbornness, unable to adapt or compromise even when it harms them.
