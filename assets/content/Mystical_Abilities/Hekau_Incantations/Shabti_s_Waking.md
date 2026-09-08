@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: duat
+    assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 5
     charges:
@@ -21,7 +21,7 @@ sohl:
 packFolder: hekauincantations
 ---
 
-The deepest layer of tomb defence, worked jointly with Per-Khat, which makes the body and Per-
+The deepest layer of tomb defence, worked jointly with Per-Khat'nu, which makes the body and Per-
 Duat, which sets the waking. The bound thing is not intelligent and does not judge; it performs
 the condition as written, and the House's catalogue of disasters is drawn almost entirely from
 conditions that were written loosely. A shabti set to strike whoever breaks the seal will strike

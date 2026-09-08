@@ -8,16 +8,15 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Black Land
+  epithet: House of the Disk
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Black Land holds the domain of the flood and what the flood makes possible: water,
-      growth, the mending of bodies, and abundance. It is the most publicly useful House and the least
-      prestigious, its practitioners being found at canal-heads and birth-beds rather than in sealed
-      chambers, and its formulae the ones most often taught in simplified form to people who are not hekau
-      at all.
+      The House of the Disk holds the day half of the circuit: light and the seeing it permits, the heat
+      that purifies, and the vitality and authority that flow from both. Its practitioners work in the open
+      and at fixed hours, and its formulae are timed to the sun's position rather than to the practitioner's
+      convenience.
     ranks:
       - level: 0
         title: Name Struck
@@ -54,16 +53,16 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Canal-Reader: >-
-        Works the formulae that hold a bank, clear a channel or read the water, and is the House's most
-        ordinary and most frequently summoned practitioner.
-      Mender: >-
-        Holds the healing forms, which the House shares — carefully, and in reduced versions — with the
-        temples of Íšét.
+      Reader of the Hours: >-
+        Fixes the exact moment a formula must be spoken, the House's workings being bound to the sun's
+        position rather than to the practitioner's readiness.
+      Purifier: >-
+        Conducts the cleansing of those spiritually stained — warriors who have killed, and any practitioner
+        who has been seconded to Per-Sefút.
   commonSkills:
-    - kemet
+    - aten
     - khprsshscrpt
-    - herb
+    - math
   seat: null
   domains: []
   population: null
@@ -73,33 +72,31 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    iset: aligned
-    hapi: aligned
-    deshret: aligned
+    ra: aligned
+    imnetau: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Kemet
+  full: Per-Aten'ré
   aliases:
-    - House of the Black Land
-    - The House of River
-shortcode: kemet
+    - House of the Disk
+    - The House of Sun
+shortcode: atenre
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Kemet (House of the Black Land)
+# Per-Aten'ré (House of the Disk)
 
-The House of the Black Land holds the domain of the flood and what the flood makes possible:
-water, growth, the mending of bodies, and abundance. It is the most publicly useful House and the
-least prestigious, its practitioners being found at canal-heads and birth-beds rather than in
-sealed chambers, and its formulae the ones most often taught in simplified form to people who are
-not hekau at all.
+The House of the Disk holds the day half of the circuit: light and the seeing it permits, the heat
+that purifies, and the vitality and authority that flow from both. Its practitioners work in the
+open and at fixed hours, and its formulae are timed to the sun's position rather than to the
+practitioner's convenience.
 
-**Kemet** is the domain of water, fertility, growth, healing, and abundance. It is one of the
-eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
-the cosmic order rather than by substance, which is why no portion of it corresponds to any single
-Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+**Aten'ré** — the Disk in its Heat — is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
+one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
+function in the cosmic order rather than by substance, which is why no portion of it corresponds
+to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ## See Also
 

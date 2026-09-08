@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: duat
+shortcode: maatken
 name:
-  full: "Hekau: Duat"
+  full: "Hekau: Maat'ken"
   aliases:
-    - Per-Duat
+    - Per-Maat'ken
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-duat|Per-Duat]]
+See [[affiliation-maatken|Per-Maat'ken]]

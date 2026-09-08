@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: isfet
+shortcode: khatnu
 name:
-  full: "Hekau: Isfet"
+  full: "Hekau: Khat'nu"
   aliases:
-    - Per-Isfet
+    - Per-Khat'nu
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-isfet|Per-Isfet]]
+See [[affiliation-khatnu|Per-Khat'nu]]

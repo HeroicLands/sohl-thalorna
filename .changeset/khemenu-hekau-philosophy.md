@@ -27,13 +27,13 @@ with an empire on top of it.
 tension, order against chaos, within which _"every other deity occupies a position"_ — and the other
 six work inside it as **three both-required pairs**, not oppositions:
 
-| Pair               | Halves                                                                          |
-| ------------------ | ------------------------------------------------------------------------------- |
-| **Sun / Duat**     | The two halves of one circuit; Rā crosses sky by day and Duat by night          |
-| **River / Desert** | Kemet and Deshret, the Black Land and the Red — the country itself              |
-| **Name / Form**    | The two halves of a being, preserved twice over by inscription and by embalming |
+| Pair                      | Halves                                                                     |
+| ------------------------- | -------------------------------------------------------------------------- |
+| **Aten'ré / Imnetáu**     | The two halves of one circuit; Rā crosses sky by day and the west by night |
+| **Ankh'kemet / Deshr'ut** | The Black Land and the Red — the country itself                            |
+| **Ren'sesh / Khat'nu**    | The two halves of a being, preserved by inscription and by embalming       |
 
-**Chaos is taught and proscribed**, which is the tradition's hardest feature. It has to be taught —
+**Sefút (Chaos) is taught and proscribed**, which is the tradition's hardest feature. It has to be taught —
 _you cannot ward what you cannot describe_, and Ta'Kheperu's most valuable magic is protective: the
 tomb seals, the threshold curses, the wards in the glyphs, the binding on the cursed road. Rā's and
 Thōth's temples already keep the treatises on the chaos god for exactly this. Practising it is

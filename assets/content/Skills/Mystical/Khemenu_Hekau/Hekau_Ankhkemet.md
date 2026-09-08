@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: kemet
+shortcode: ankhkemet
 name:
-  full: "Hekau: Kemet"
+  full: "Hekau: Ankh'kemet"
   aliases:
-    - Per-Kemet
+    - Per-Ankh'kemet
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-kemet|Per-Kemet]]
+See [[affiliation-ankhkemet|Per-Ankh'kemet]]

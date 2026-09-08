@@ -8,16 +8,16 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of Disorder
+  epithet: House of the Name
   symbol: null
   governance:
-    model: oligarchy
+    model: meritocracy
     summary: >-
-      The House nobody joins. Per-Isfet is the warded college seated inside the temples of Rā and Thōth that
-      holds the treatises on the chaos god, and its members are seconded to it from the other Houses rather
-      than admitted. It exists because you cannot ward what you cannot describe, and every seal,
-      threshold-curse and tomb-binding in the empire is an Order working built around an exact account of
-      what it is built against. To study Isfet is lawful and closely watched. To work it is capital.
+      The House of the Name holds what the whole tradition rests on. If power is correct address, then the
+      true name is the address, and Per-Ren'sesh is the House that finds, holds and guards them. It is seated at
+      Khemenu beside the archive, it is the House the other seven come to when a form will not work, and it
+      is the one whose restricted material is kept most closely — a true name written down is a true name
+      that can be stolen.
     ranks:
       - level: 0
         title: Name Struck
@@ -54,19 +54,19 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Warden of the Treatises: >-
-        Holds the sealed accounts of the chaos god — his nature, his manifestations, his methods of attack —
-        and decides who may read them.
-      Reader of Broken Work: >-
-        Called to a working that has failed or been tampered with, to determine which of its forms is live,
-        which is bluff, and which has been turned.
-      Second of the Watch: >-
-        A practitioner seconded from another House for a term, who returns to it afterward and is thereafter
-        watched for life.
+      Finder of Names: >-
+        Establishes the true name of a thing, which is slow, uncertain work and the most valuable service
+        the House performs.
+      Keeper of the Closed Shelf: >-
+        Holds the recorded true names. The shelf is not catalogued, on the reasoning that a catalogue of
+        true names is itself a true name.
+      Corrector: >-
+        Called by another House when a form fails, to determine whether the fault lies in the name or in the
+        execution.
   commonSkills:
-    - isfet
+    - ren
     - khprsshscrpt
-    - folklr
+    - dscr
   seat: null
   domains: []
   population: null
@@ -76,33 +76,32 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    mekhat: aligned
-    apophis: nemesis
+    thoth: aligned
+    khatnu: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Isfet
+  full: Per-Ren'sesh
   aliases:
-    - House of Disorder
-    - The House of Chaos
-shortcode: isfet
+    - House of the Name
+    - The House of Name
+shortcode: rensesh
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Isfet (House of Disorder)
+# Per-Ren'sesh (House of the Name)
 
-The House nobody joins. Per-Isfet is the warded college seated inside the temples of Rā and Thōth
-that holds the treatises on the chaos god, and its members are seconded to it from the other
-Houses rather than admitted. It exists because you cannot ward what you cannot describe, and every
-seal, threshold-curse and tomb-binding in the empire is an Order working built around an exact
-account of what it is built against. To study Isfet is lawful and closely watched. To work it is
-capital.
+The House of the Name holds what the whole tradition rests on. If power is correct address, then
+the true name is the address, and Per-Ren'sesh is the House that finds, holds and guards them. It is
+seated at Khemenu beside the archive, it is the House the other seven come to when a form will not
+work, and it is the one whose restricted material is kept most closely — a true name written down
+is a true name that can be stolen.
 
-**Isfet** is the domain of unmaking, decay, curses, the serpent, and entropy. It is one of the
-eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
-the cosmic order rather than by substance, which is why no portion of it corresponds to any single
-Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+**Ren'sesh** — the Name Set Down — is the domain of speech, writing, true names, knowledge, memory, and the mind. It is one
+of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
+function in the cosmic order rather than by substance, which is why no portion of it corresponds
+to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ## See Also
 

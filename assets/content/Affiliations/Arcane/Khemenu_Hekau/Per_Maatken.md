@@ -8,16 +8,15 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Body
+  epithet: House of the Balance
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Body holds the other half of what a being is, and the same principle extended to
-      worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Kheperi
-      craftsman already lives by — that correct form is not decoration but efficacy, and that a thing
-      perfectly made is the thing it represents. It works more closely with ordinary craftsmen than any
-      other House, which is also its standing security problem.
+      The House of the Balance holds the domain by which anything is made to stay as it was set: the oath
+      that binds, the ward that stands, the seal that is not opened. Its work is the most conservative in
+      the tradition and the most consequential, because an Order working done correctly outlives everyone
+      who witnessed it.
     ranks:
       - level: 0
         title: Name Struck
@@ -54,17 +53,16 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Master of the Set Form: >-
-        Certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not.
-      Preserver: >-
-        Holds the forms that arrest decay, and works alongside the embalmers of Ánubís without being one of
-        them.
-      Raiser: >-
-        Sets the workings that animate a made body — the standing servant, and the shabti Per-Duat binds.
+      Keeper of the Standing Forms: >-
+        Holds the House's authoritative copies of the binding formulae, against which any inscription in
+        dispute is checked.
+      Warden of Seals: >-
+        Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to
+        have been bluff.
   commonSkills:
-    - khat
+    - mekhat
     - khprsshscrpt
-    - masn
+    - law
   seat: null
   domains: []
   population: null
@@ -74,33 +72,31 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    ptah: aligned
-    anubis: aligned
-    ren: aligned
+    maat: aligned
+    sefut: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Khat
+  full: Per-Maat'ken
   aliases:
-    - House of the Body
-    - The House of Form
-shortcode: khat
+    - House of the Balance
+    - The House of Order
+shortcode: maatken
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Khat (House of the Body)
+# Per-Maat'ken (House of the Balance)
 
-The House of the Body holds the other half of what a being is, and the same principle extended to
-worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Kheperi
-craftsman already lives by — that correct form is not decoration but efficacy, and that a thing
-perfectly made is the thing it represents. It works more closely with ordinary craftsmen than any
-other House, which is also its standing security problem.
+The House of the Balance holds the domain by which anything is made to stay as it was set: the
+oath that binds, the ward that stands, the seal that is not opened. Its work is the most
+conservative in the tradition and the most consequential, because an Order working done correctly
+outlives everyone who witnessed it.
 
-**Khat** is the domain of craft, stone, flesh, shaping, animation, and transformation. It is one
-of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
-function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+**Maat'ken** — the Truth that Judges — is the domain of law, judgement, binding, wards, oaths, and the weighing of the heart.
+It is one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris —
+by function in the cosmic order rather than by substance, which is why no portion of it
+corresponds to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ## See Also
 

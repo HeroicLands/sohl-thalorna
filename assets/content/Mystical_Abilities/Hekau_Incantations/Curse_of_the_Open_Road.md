@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: isfet
+    assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 3
     charges:

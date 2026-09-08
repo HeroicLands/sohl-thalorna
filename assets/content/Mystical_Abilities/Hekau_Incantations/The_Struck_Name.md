@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: isfet
+    assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 6
     charges:
@@ -26,4 +26,4 @@ inscribed truly is a thing made real, then a name struck from every surface is a
 The dead so treated are held not to continue — there is no one left for the scale to weigh. The
 empire has performed it as a sentence, on dynasties whose monuments were quarried and whose names
 were cut from every wall, and the priesthood insists that those cases were lawful acts of state
-rather than workings of Isfet. Per-Isfet's own instructors do not labour the distinction.
+rather than workings of Isfet. Per-Sefút's own instructors do not labour the distinction.

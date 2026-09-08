@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: aten
+    assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 1
     charges:

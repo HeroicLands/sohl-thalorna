@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: deshret
+    assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 3
     charges:

@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: ren
+    assocSkillCode: rensesh
     masteryLevelBase: 0
     levelBase: 2
     charges:

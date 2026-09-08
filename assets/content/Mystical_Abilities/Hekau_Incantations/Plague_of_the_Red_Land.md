@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: deshret
+    assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 5
     charges:
@@ -21,7 +21,7 @@ sohl:
 packFolder: hekauincantations
 ---
 
-The House teaches it for the same reason Per-Isfet teaches unmaking: the physicians who break an
+The House teaches it for the same reason Per-Sefút teaches unmaking: the physicians who break an
 epidemic are, without exception, people who have been taught how one is made. Working it is
 capital. The instruction is lawful, closely recorded, and conducted only at the sealed shelf, and
 every practitioner who has received it is known by name to the temple-inquisitors.

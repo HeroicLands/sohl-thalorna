@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: mekhat
+shortcode: deshrut
 name:
-  full: "Hekau: Mekhat"
+  full: "Hekau: Deshr'ut"
   aliases:
-    - Per-Mekhat
+    - Per-Deshr'ut
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-mekhat|Per-Mekhat]]
+See [[affiliation-deshrut|Per-Deshr'ut]]

@@ -8,15 +8,15 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Balance
+  epithet: House of the Westward Road
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Balance holds the domain by which anything is made to stay as it was set: the oath
-      that binds, the ward that stands, the seal that is not opened. Its work is the most conservative in
-      the tradition and the most consequential, because an Order working done correctly outlives everyone
-      who witnessed it.
+      The House of the Duat holds the night half of the same circuit, and by common agreement the most
+      powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
+      tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
+      chamber cannot be inspected without breaking the seal that is the point of it.
     ranks:
       - level: 0
         title: Name Struck
@@ -53,16 +53,19 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Keeper of the Standing Forms: >-
-        Holds the House's authoritative copies of the binding formulae, against which any inscription in
-        dispute is checked.
-      Warden of Seals: >-
-        Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to
-        have been bluff.
+      Keeper of the Twelve Hours: >-
+        Holds the litany by which a soul is guided through the night, and is answerable for its exactness at
+        every hour.
+      Binder of the Chamber: >-
+        Sets the workings in the deepest chambers — the shabti-warriors that wake at a broken seal, and the
+        wardens set to walk the dark.
+      Reader of the Sealed Work: >-
+        Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the
+        same night.
   commonSkills:
-    - mekhat
+    - duat
     - khprsshscrpt
-    - law
+    - pysn
   seat: null
   domains: []
   population: null
@@ -72,31 +75,32 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    maat: aligned
-    isfet: aligned
+    seker: aligned
+    anubis: aligned
+    atenre: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Mekhat
+  full: Per-Imnetáu
   aliases:
-    - House of the Balance
-    - The House of Order
-shortcode: mekhat
+    - House of the Westward Road
+    - The House of the Underworld
+shortcode: imnetau
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Mekhat (House of the Balance)
+# Per-Imnetáu (House of the Westward Road)
 
-The House of the Balance holds the domain by which anything is made to stay as it was set: the
-oath that binds, the ward that stands, the seal that is not opened. Its work is the most
-conservative in the tradition and the most consequential, because an Order working done correctly
-outlives everyone who witnessed it.
+The House of the Duat holds the night half of the same circuit, and by common agreement the most
+powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
+tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
+chamber cannot be inspected without breaking the seal that is the point of it.
 
-**Mekhat** is the domain of law, judgement, binding, wards, oaths, and the weighing of the heart.
-It is one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris —
-by function in the cosmic order rather than by substance, which is why no portion of it
-corresponds to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+**Imnetáu** — the Westward Road — is the domain of the dead, passage, gates, resurrection, and the night. It is one of the
+eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
+the cosmic order rather than by substance, which is why no portion of it corresponds to any single
+Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ## See Also
 

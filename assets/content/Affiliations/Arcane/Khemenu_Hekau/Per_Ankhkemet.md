@@ -8,15 +8,16 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Duat
+  epithet: House of the Black Land
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Duat holds the night half of the same circuit, and by common agreement the most
-      powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
-      tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
-      chamber cannot be inspected without breaking the seal that is the point of it.
+      The House of the Black Land holds the domain of the flood and what the flood makes possible: water,
+      growth, the mending of bodies, and abundance. It is the most publicly useful House and the least
+      prestigious, its practitioners being found at canal-heads and birth-beds rather than in sealed
+      chambers, and its formulae the ones most often taught in simplified form to people who are not hekau
+      at all.
     ranks:
       - level: 0
         title: Name Struck
@@ -53,19 +54,16 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Keeper of the Twelve Hours: >-
-        Holds the litany by which a soul is guided through the night, and is answerable for its exactness at
-        every hour.
-      Binder of the Chamber: >-
-        Sets the workings in the deepest chambers — the shabti-warriors that wake at a broken seal, and the
-        wardens set to walk the dark.
-      Reader of the Sealed Work: >-
-        Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the
-        same night.
+      Canal-Reader: >-
+        Works the formulae that hold a bank, clear a channel or read the water, and is the House's most
+        ordinary and most frequently summoned practitioner.
+      Mender: >-
+        Holds the healing forms, which the House shares — carefully, and in reduced versions — with the
+        temples of Íšét.
   commonSkills:
-    - duat
+    - kemet
     - khprsshscrpt
-    - pysn
+    - herb
   seat: null
   domains: []
   population: null
@@ -75,29 +73,30 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    seker: aligned
-    anubis: aligned
-    aten: aligned
+    iset: aligned
+    hapi: aligned
+    deshrut: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Duat
+  full: Per-Ankh'kemet
   aliases:
-    - House of the Duat
-    - The House of Duat
-shortcode: duat
+    - House of the Black Land
+    - The House of River
+shortcode: ankhkemet
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Duat (House of the Duat)
+# Per-Ankh'kemet (House of the Black Land)
 
-The House of the Duat holds the night half of the same circuit, and by common agreement the most
-powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
-tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
-chamber cannot be inspected without breaking the seal that is the point of it.
+The House of the Black Land holds the domain of the flood and what the flood makes possible:
+water, growth, the mending of bodies, and abundance. It is the most publicly useful House and the
+least prestigious, its practitioners being found at canal-heads and birth-beds rather than in
+sealed chambers, and its formulae the ones most often taught in simplified form to people who are
+not hekau at all.
 
-**Duat** is the domain of the dead, passage, gates, resurrection, and the night. It is one of the
+**Ankh'kemet** — the Living Black Land — is the domain of water, fertility, growth, healing, and abundance. It is one of the
 eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].

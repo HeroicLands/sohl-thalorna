@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: aten
+shortcode: rensesh
 name:
-  full: "Hekau: Aten"
+  full: "Hekau: Ren'sesh"
   aliases:
-    - Per-Aten
+    - Per-Ren'sesh
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-aten|Per-Aten]]
+See [[affiliation-rensesh|Per-Ren'sesh]]

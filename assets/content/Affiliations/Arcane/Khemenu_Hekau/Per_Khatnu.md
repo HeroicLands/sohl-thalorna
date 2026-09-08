@@ -8,15 +8,16 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Red Land
+  epithet: House of the Body
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Red Land holds the country's other half and everything the valley is defended from:
-      fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation
-      is worse than its practice deserves. The empire's gold, stone and roads all come out of the Red Land,
-      and the House's commonest work is keeping the people who go there alive.
+      The House of the Body holds the other half of what a being is, and the same principle extended to
+      worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Kheperi
+      craftsman already lives by — that correct form is not decoration but efficacy, and that a thing
+      perfectly made is the thing it represents. It works more closely with ordinary craftsmen than any
+      other House, which is also its standing security problem.
     ranks:
       - level: 0
         title: Name Struck
@@ -53,15 +54,17 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Warden of the Tracks: >-
-        Sets and maintains the workings on the desert roads, water-stations and quarry-camps.
-      Keeper of the Sealed Forms: >-
-        Holds the House's plague and drought formulae, which are kept under the same restriction as
-        Per-Isfet's treatises though they are not themselves Chaos.
+      Master of the Set Form: >-
+        Certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not.
+      Preserver: >-
+        Holds the forms that arrest decay, and works alongside the embalmers of Ánubís without being one of
+        them.
+      Raiser: >-
+        Sets the workings that animate a made body — the standing servant, and the shabti Per-Imnetáu binds.
   commonSkills:
-    - deshret
+    - khat
     - khprsshscrpt
-    - srvl
+    - masn
   seat: null
   domains: []
   population: null
@@ -71,28 +74,30 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    set: aligned
-    kemet: aligned
+    ptah: aligned
+    anubis: aligned
+    rensesh: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Deshret
+  full: Per-Khat'nu
   aliases:
-    - House of the Red Land
-    - The House of Desert
-shortcode: deshret
+    - House of the Body
+    - The House of Form
+shortcode: khatnu
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Deshret (House of the Red Land)
+# Per-Khat'nu (House of the Body)
 
-The House of the Red Land holds the country's other half and everything the valley is defended
-from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its
-reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of
-the Red Land, and the House's commonest work is keeping the people who go there alive.
+The House of the Body holds the other half of what a being is, and the same principle extended to
+worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Kheperi
+craftsman already lives by — that correct form is not decoration but efficacy, and that a thing
+perfectly made is the thing it represents. It works more closely with ordinary craftsmen than any
+other House, which is also its standing security problem.
 
-**Deshret** is the domain of fire, drought, storm, endurance, plague, and the wandering. It is one
+**Khat'nu** — the Made Body — is the domain of craft, stone, flesh, shaping, animation, and transformation. It is one
 of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].

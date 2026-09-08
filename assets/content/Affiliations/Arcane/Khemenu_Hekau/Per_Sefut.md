@@ -8,15 +8,16 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Disk
+  epithet: House of the Unmaking
   symbol: null
   governance:
-    model: meritocracy
+    model: oligarchy
     summary: >-
-      The House of the Disk holds the day half of the circuit: light and the seeing it permits, the heat
-      that purifies, and the vitality and authority that flow from both. Its practitioners work in the open
-      and at fixed hours, and its formulae are timed to the sun's position rather than to the practitioner's
-      convenience.
+      The House nobody joins. Per-Sefút is the warded college seated inside the temples of Rā and Thōth that
+      holds the treatises on the chaos god, and its members are seconded to it from the other Houses rather
+      than admitted. It exists because you cannot ward what you cannot describe, and every seal,
+      threshold-curse and tomb-binding in the empire is an Order working built around an exact account of
+      what it is built against. To study Isfet is lawful and closely watched. To work it is capital.
     ranks:
       - level: 0
         title: Name Struck
@@ -53,16 +54,19 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Reader of the Hours: >-
-        Fixes the exact moment a formula must be spoken, the House's workings being bound to the sun's
-        position rather than to the practitioner's readiness.
-      Purifier: >-
-        Conducts the cleansing of those spiritually stained — warriors who have killed, and any practitioner
-        who has been seconded to Per-Isfet.
+      Warden of the Treatises: >-
+        Holds the sealed accounts of the chaos god — his nature, his manifestations, his methods of attack —
+        and decides who may read them.
+      Reader of Broken Work: >-
+        Called to a working that has failed or been tampered with, to determine which of its forms is live,
+        which is bluff, and which has been turned.
+      Second of the Watch: >-
+        A practitioner seconded from another House for a term, who returns to it afterward and is thereafter
+        watched for life.
   commonSkills:
-    - aten
+    - isfet
     - khprsshscrpt
-    - math
+    - folklr
   seat: null
   domains: []
   population: null
@@ -72,31 +76,33 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    ra: aligned
-    duat: aligned
+    maatken: aligned
+    apophis: nemesis
 sohl:
   templatePriority: null
 name:
-  full: Per-Aten
+  full: Per-Sefút
   aliases:
-    - House of the Disk
-    - The House of Sun
-shortcode: aten
+    - House of the Unmaking
+    - The House of Chaos
+shortcode: sefut
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Aten (House of the Disk)
+# Per-Sefút (House of the Unmaking)
 
-The House of the Disk holds the day half of the circuit: light and the seeing it permits, the heat
-that purifies, and the vitality and authority that flow from both. Its practitioners work in the
-open and at fixed hours, and its formulae are timed to the sun's position rather than to the
-practitioner's convenience.
+The House nobody joins. Per-Sefút is the warded college seated inside the temples of Rā and Thōth
+that holds the treatises on the chaos god, and its members are seconded to it from the other
+Houses rather than admitted. It exists because you cannot ward what you cannot describe, and every
+seal, threshold-curse and tomb-binding in the empire is an Order working built around an exact
+account of what it is built against. To study Isfet is lawful and closely watched. To work it is
+capital.
 
-**Aten** is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
-one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
-function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+**Sefút** — the Unmaking — is the domain of unmaking, decay, curses, the serpent, and entropy. It is one of the
+eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
+the cosmic order rather than by substance, which is why no portion of it corresponds to any single
+Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ## See Also
 

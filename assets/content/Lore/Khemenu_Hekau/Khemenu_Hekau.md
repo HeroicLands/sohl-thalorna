@@ -64,19 +64,19 @@ the few who have tried to recruit Kheperi practitioners have been politely and f
 
 ## The Eight
 
-Each domain is held by a **House** — the body a practitioner belongs to, and the keeper of that
-domain's forms. Seven are entered by initiation; the eighth is not entered at all.
+Each domain carries a Kheperi name; the House that holds it is that name under **Per-**, "the House
+of". Seven Houses are entered by initiation; the eighth is not entered at all.
 
-| House                                    | Domain | Scope                                                            |
-| ---------------------------------------- | ------ | ---------------------------------------------------------------- |
-| **[[affiliation-mekhat\|Per-Mekhat]]**   | Order  | Law, judgement, binding, wards, oaths, the weighing of the heart |
-| **[[affiliation-isfet\|Per-Isfet]]**     | Chaos  | Unmaking, decay, curses, the serpent, entropy                    |
-| **[[affiliation-aten\|Per-Aten]]**       | Sun    | Light, sight, the heat of heaven, kingship, vitality, the day    |
-| **[[affiliation-duat\|Per-Duat]]**       | Duat   | The dead, passage, gates, resurrection, the night                |
-| **[[affiliation-kemet\|Per-Kemet]]**     | River  | Water, fertility, growth, healing, abundance                     |
-| **[[affiliation-deshret\|Per-Deshret]]** | Desert | Fire, drought, storm, endurance, plague, the wandering           |
-| **[[affiliation-ren\|Per-Ren]]**         | Name   | Speech, writing, true names, knowledge, memory, mind             |
-| **[[affiliation-khat\|Per-Khat]]**       | Form   | Craft, stone, flesh, shaping, animation, transformation          |
+| House                                         | Domain         | Gloss                 | Scope                                                            |
+| --------------------------------------------- | -------------- | --------------------- | ---------------------------------------------------------------- |
+| **[[affiliation-maatken\|Per-Maat'ken]]**     | **Maat'ken**   | the Truth that Judges | Law, judgement, binding, wards, oaths, the weighing of the heart |
+| **[[affiliation-sefut\|Per-Sefút]]**          | **Sefút**      | the Unmaking          | Unmaking, decay, curses, the serpent, entropy                    |
+| **[[affiliation-atenre\|Per-Aten'ré]]**       | **Aten'ré**    | the Disk in its Heat  | Light, sight, the heat of heaven, kingship, vitality, the day    |
+| **[[affiliation-imnetau\|Per-Imnetáu]]**      | **Imnetáu**    | the Westward Road     | The dead, passage, gates, resurrection, the night                |
+| **[[affiliation-ankhkemet\|Per-Ankh'kemet]]** | **Ankh'kemet** | the Living Black Land | Water, fertility, growth, healing, abundance                     |
+| **[[affiliation-deshrut\|Per-Deshr'ut]]**     | **Deshr'ut**   | the Red Waste         | Fire, drought, storm, endurance, plague, the wandering           |
+| **[[affiliation-rensesh\|Per-Ren'sesh]]**     | **Ren'sesh**   | the Name Set Down     | Speech, writing, true names, knowledge, memory, mind             |
+| **[[affiliation-khatnu\|Per-Khat'nu]]**       | **Khat'nu**    | the Made Body         | Craft, stone, flesh, shaping, animation, transformation          |
 
 The Houses share one ladder — **Wab of the House**, who learns the names and may not set them down;
 **Hekau**, who may speak and inscribe; **Kher-Heb**, the lector who carries the book and holds the
@@ -84,46 +84,46 @@ restricted forms; and **Wer Kher-Heb**, chief lector at a temple and answerable 
 practitioners set down. Below them all is **Name Struck**: expelled, and the record of the teaching
 erased, which in this tradition is the whole of the sentence.
 
-**Per-Ren and Per-Khat take their names from the two soul-components the funerary rites already
-preserve** — the _ren_ that is inscribed and the _khat_ that is embalmed. The pairing was not
-invented for the philosophy; the philosophy noticed it.
+**Ren'sesh and Khat'nu are named for the two soul-components the funerary rites already preserve** —
+the _ren_ that is inscribed and the _khat_ that is embalmed, the one written on every surface and the
+other wrapped in linen. The pairing was not invented for the philosophy; the philosophy noticed it.
 
-## The Frame: Order and Chaos
+## The Frame: Maat'ken and Sefút
 
 The eight are not eight equal parts. Two of them are the frame, and six work inside it.
 
-Kemetían theology is organised around a single tension — order against chaos. **Order** is what
-[[lore-maatdty|Má'át]] imposed on the primordial darkness before creation, and it is the condition
-under which anything at all can continue to exist: law, judgement, binding, wards, oaths, and the
-weighing of the heart. **Chaos** is what [[lore-apophisdty|Ápōphis]] is, and what he never stops
-trying to restore: unmaking, decay, curses, the serpent, entropy. It is not evil in the moral sense
-so much as _prior_ — the state that obtained before the world and would obtain again.
+Kemetían theology is organised around a single tension — order against chaos. **Maat'ken**, the truth
+that judges, is what [[lore-maatdty|Má'át]] imposed on the primordial darkness before creation, and it
+is the condition under which anything at all can continue to exist: law, judgement, binding, wards,
+oaths, and the weighing of the heart. **Sefút**, the unmaking, is what [[lore-apophisdty|Ápōphis]] is
+and what he never stops trying to restore: decay, curses, the serpent, entropy. It is not evil in the
+moral sense so much as _prior_ — the state that obtained before the world and would obtain again.
 
 Every other domain occupies a position within that framework, and the tradition teaches them as such.
-A hekau does not learn Sun as a subject and Order as another subject; they learn Sun as one of the
-ways in which order is maintained against the alternative.
+A hekau does not learn Aten'ré as a subject and Maat'ken as another subject; they learn Aten'ré as one
+of the ways in which order is maintained against the alternative.
 
-### Chaos is taught, and Chaos is proscribed
+### Sefút is taught, and Sefút is proscribed
 
 This is the hardest thing in the tradition to explain to outsiders, and the temples make no attempt.
 
-Chaos is a genuine domain of the philosophy and is taught in full. It has to be. **You cannot ward
+Sefút is a genuine domain of the philosophy and is taught in full. It has to be. **You cannot ward
 what you cannot describe**, and Ta'Kheperu is a civilization whose most valuable magic is protective:
 the seals on the tombs, the curses at the thresholds, the wards worked into the glyphs, and above all
-the binding that holds the cursed Way at [[place-tadjeser|Ta-Djeser]] shut. Every one of those is an
-Order working built around an exact understanding of what it is built against. The temples of
+the binding that holds the cursed Way at [[place-tadjeser|Ta-Djeser]] shut. Every one of those is a
+Maat'ken working built around an exact understanding of what it is built against. The temples of
 [[lore-radty|Rā]] and [[lore-thothdty|Thōth]] keep the treatises on the chaos god for precisely this
 reason — his nature, his manifestations, his methods of attack — so the priesthood can counsel the
 throne and prepare the realm.
 
 To _practise_ it is a capital matter. The line is not knowledge but use, and the tradition polices it
 with the temple-inquisitors and the Medjay, who hunt the forbidden cults without rest. A hekau found
-to have worked Chaos is not disciplined; a person found maintaining a shrine to the chaos god faces
+to have worked Sefút is not disciplined; a person found maintaining a shrine to the chaos god faces
 execution, on the reasoning that their existence invites catastrophe on the realm.
 
-The arrangement has an obvious and much-remarked consequence. **The people best equipped to work
-Chaos are the ones the temples have trained to recognise it**, and a scholar of the treatises carries
-a permanent shadow of suspicion no amount of orthodoxy quite removes. The temples accept this as the
+The arrangement has an obvious and much-remarked consequence. **The people best equipped to work Sefút
+are the ones the temples have trained to recognise it**, and a scholar of the treatises carries a
+permanent shadow of suspicion no amount of orthodoxy quite removes. The temples accept this as the
 price of a defence that works, and they are not wrong to: the sect that would break the seal on the
 cursed road is the thing the priesthood of Rā fears in its bones, and it is priests who know how it
 would be done.
@@ -134,25 +134,26 @@ The six working domains are three pairs, and the pairing is not opposition. In e
 halves are **both required**, and a practitioner who holds one without the other is not a specialist
 but an incomplete one.
 
-**Sun and Duat** — the two halves of one circuit. **Sun** is light, sight, the heat of heaven,
-kingship, vitality, the day. **Duat** is the dead, passage, gates, resurrection, the night. The
-tradition insists they are a single road: Rā crosses the sky by day and the underworld by night, and
-neither half of the journey is the whole of it. A hekau who commands the day and not the night can
-work only until sundown, in every sense the tradition cares about.
+**Aten'ré and Imnetáu** — the two halves of one circuit. **Aten'ré**, the disk in its heat, is light,
+sight, kingship, vitality, the day. **Imnetáu**, the westward road, is the dead, passage, gates,
+resurrection, the night. The tradition insists they are a single road: Rā crosses the sky by day and
+the underworld by night, and neither half of the journey is the whole of it. A hekau who commands the
+day and not the night can work only until sundown, in every sense the tradition cares about.
 
-**River and Desert** — Kemet and Deshret, the Black Land and the Red, the two halves of the country
-itself. **River** is water, fertility, growth, healing, abundance. **Desert** is fire, drought, storm,
-endurance, plague, and the wandering. The valley is not the good half and the waste the bad one; the
-flood that makes the Black Land is measured against the Red every year, and the empire's gold, stone
-and roads all come out of the Desert.
+**Ankh'kemet and Deshr'ut** — the Black Land and the Red, the two halves of the country itself.
+**Ankh'kemet**, the living black land, is water, fertility, growth, healing, abundance. **Deshr'ut**,
+the red waste, is fire, drought, storm, endurance, plague, and the wandering. The valley is not the
+good half and the waste the bad one; the flood that makes the Black Land is measured against the Red
+every year, and the empire's gold, stone and roads all come out of the Red.
 
-**Name and Form** — the two halves of a being, and the pair on which the whole tradition turns.
-**Name** is speech, writing, true names, knowledge, memory, mind. **Form** is craft, stone, flesh,
-shaping, animation, transformation. Kheperi funerary practice already treats these as inseparable:
-the soul has several components, each needing its own rites, and the dead are preserved twice over —
-the **Form** by embalming and the **Name** by inscription on every available surface. Destroy either
-and the person ends. This is why the erasure of a name is the gravest sentence the empire can pass,
-and why a disgraced house has its monuments quarried and its names struck from every wall.
+**Ren'sesh and Khat'nu** — the two halves of a being, and the pair on which the whole tradition turns.
+**Ren'sesh**, the name set down, is speech, writing, true names, knowledge, memory, mind. **Khat'nu**,
+the made body, is craft, stone, flesh, shaping, animation, transformation. Kheperi funerary practice
+already treats these as inseparable: the soul has several components, each needing its own rites, and
+the dead are preserved twice over — the body by embalming and the name by inscription on every
+available surface. Destroy either and the person ends. This is why the erasure of a name is the
+gravest sentence the empire can pass, and why a disgraced house has its monuments quarried and its
+names struck from every wall.
 
 ## Wholeness Against the Vertex
 
@@ -164,7 +165,7 @@ This is efficient, and it is also what makes an Initiatus easy to examine and to
 Héx Hodäi's own history concedes was among the reasons the six-fold model won out in the west.
 
 A hekau trained that way would be understood in Ta'Kheperu as **defective rather than specialised**.
-Holding Sun without Duat, or Form without Name, is not a narrow mastery but half a working. So the
+Holding Aten'ré without Imnetáu, or Khat'nu without Ren'sesh, is not a narrow mastery but half a working. So the
 temple education is long, general, and finished before ordination: a Wab spends years on sacred
 texts, ritual, history, mathematics, medicine and the reading of omens, and the arcane philosophy
 arrives inside that rather than beside it.
@@ -173,7 +174,7 @@ This is the deeper reason the Kheperi regard western practitioners as half-educa
 the empire has no mage class to speak of. The Eight are not a curriculum a temple offers. They are
 the shape the temple believes reality has.
 
-## Name and Form in Practice
+## Ren'sesh and Khat'nu in Practice
 
 Because the domains are functions rather than substances, the technique of reaching them is not the
 Ordo's either. Kheperi power derives from knowledge of sacred words, divine names and ritual formulae,
@@ -210,9 +211,10 @@ a tradition where power is correct address, the library _is_ the armoury.
 ## See Also
 
 - [[lore-hexhodai|Héx Hodäi]] — the western six-fold partition of the same Dýnaris
-- [[affiliation-mekhat|Per-Mekhat]] · [[affiliation-isfet|Per-Isfet]] · [[affiliation-aten|Per-Aten]] ·
-  [[affiliation-duat|Per-Duat]] · [[affiliation-kemet|Per-Kemet]] · [[affiliation-deshret|Per-Deshret]] ·
-  [[affiliation-ren|Per-Ren]] · [[affiliation-khat|Per-Khat]] — the eight Houses
+- [[affiliation-maatken|Per-Maat'ken]] · [[affiliation-sefut|Per-Sefút]] · [[affiliation-atenre|Per-Aten'ré]] ·
+  [[affiliation-imnetau|Per-Imnetáu]] · [[affiliation-ankhkemet|Per-Ankh'kemet]] ·
+  [[affiliation-deshrut|Per-Deshr'ut]] · [[affiliation-rensesh|Per-Ren'sesh]] ·
+  [[affiliation-khatnu|Per-Khat'nu]] — the eight Houses
 - [[affiliation-kemtnpnthn|Kemetían Pantheon]] — the theology the eight domains are drawn from
 - [[place-khemenu|Khemenu]] — the tradition's seat
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — magic, priesthood, and the temple education

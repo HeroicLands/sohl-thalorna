@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: deshret
+shortcode: atenre
 name:
-  full: "Hekau: Deshret"
+  full: "Hekau: Aten'ré"
   aliases:
-    - Per-Deshret
+    - Per-Aten'ré
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-deshret|Per-Deshret]]
+See [[affiliation-atenre|Per-Aten'ré]]

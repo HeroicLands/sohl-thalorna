@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: khat
+    assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 2
     charges:
@@ -22,5 +22,5 @@ packFolder: hekauincantations
 ---
 
 Worked on the dead between death and the embalming house, on documents, and on anything that must
-survive a journey. Per-Khat and the embalmers of Ánubís work side by side constantly and are not
+survive a journey. Per-Khat'nu and the embalmers of Ánubís work side by side constantly and are not
 the same people, a distinction both are tired of explaining.

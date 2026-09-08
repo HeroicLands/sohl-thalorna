@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: mekhat
+    assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 2
     charges:

@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: ren
+shortcode: sefut
 name:
-  full: "Hekau: Ren"
+  full: "Hekau: Sefút"
   aliases:
-    - Per-Ren
+    - Per-Sefút
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-ren|Per-Ren]]
+See [[affiliation-sefut|Per-Sefút]]

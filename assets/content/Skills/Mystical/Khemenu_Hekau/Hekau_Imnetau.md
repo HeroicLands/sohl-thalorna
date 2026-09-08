@@ -3,11 +3,11 @@ tags:
   - khemenu-hekau
 type: skill
 subType: mystical
-shortcode: khat
+shortcode: imnetau
 name:
-  full: "Hekau: Khat"
+  full: "Hekau: Imnetáu"
   aliases:
-    - Per-Khat
+    - Per-Imnetáu
 sohl:
   templatePriority: null
   system:
@@ -20,4 +20,4 @@ sohl:
 packFolder: khemenuhekau
 ---
 
-See [[affiliation-khat|Per-Khat]]
+See [[affiliation-imnetau|Per-Imnetáu]]

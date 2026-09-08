@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: deshret
+    assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 3
     charges:
@@ -23,4 +23,4 @@ packFolder: hekauincantations
 
 Worked on smelters, glassmakers, and anyone who must go into a fire, and on the vessels themselves
 as often as on people. It is the House's most common commercial commission and the foundation of
-its uneasy prosperity: Per-Deshret is disliked and constantly hired.
+its uneasy prosperity: Per-Deshr'ut is disliked and constantly hired.

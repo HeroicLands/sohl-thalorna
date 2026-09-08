@@ -12,7 +12,7 @@ subType: arcaneincantation
 sohl:
   templatePriority: null
   system:
-    assocSkillCode: kemet
+    assocSkillCode: ankhkemet
     masteryLevelBase: 0
     levelBase: 3
     charges:

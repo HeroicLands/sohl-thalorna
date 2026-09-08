@@ -8,16 +8,15 @@ subType: arcanetradition
 data:
   templatePriority: null
   demonym: null
-  epithet: House of the Name
+  epithet: House of the Red Land
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      The House of the Name holds what the whole tradition rests on. If power is correct address, then the
-      true name is the address, and Per-Ren is the House that finds, holds and guards them. It is seated at
-      Khemenu beside the archive, it is the House the other seven come to when a form will not work, and it
-      is the one whose restricted material is kept most closely — a true name written down is a true name
-      that can be stolen.
+      The House of the Red Land holds the country's other half and everything the valley is defended from:
+      fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation
+      is worse than its practice deserves. The empire's gold, stone and roads all come out of the Red Land,
+      and the House's commonest work is keeping the people who go there alive.
     ranks:
       - level: 0
         title: Name Struck
@@ -54,19 +53,15 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
-      Finder of Names: >-
-        Establishes the true name of a thing, which is slow, uncertain work and the most valuable service
-        the House performs.
-      Keeper of the Closed Shelf: >-
-        Holds the recorded true names. The shelf is not catalogued, on the reasoning that a catalogue of
-        true names is itself a true name.
-      Corrector: >-
-        Called by another House when a form fails, to determine whether the fault lies in the name or in the
-        execution.
+      Warden of the Tracks: >-
+        Sets and maintains the workings on the desert roads, water-stations and quarry-camps.
+      Keeper of the Sealed Forms: >-
+        Holds the House's plague and drought formulae, which are kept under the same restriction as
+        Per-Sefút's treatises though they are not themselves Chaos.
   commonSkills:
-    - ren
+    - deshret
     - khprsshscrpt
-    - dscr
+    - srvl
   seat: null
   domains: []
   population: null
@@ -76,29 +71,28 @@ data:
   parents: []
   relations:
     kemtnpnthn: aligned
-    thoth: aligned
-    khat: aligned
+    set: aligned
+    ankhkemet: aligned
 sohl:
   templatePriority: null
 name:
-  full: Per-Ren
+  full: Per-Deshr'ut
   aliases:
-    - House of the Name
-    - The House of Name
-shortcode: ren
+    - House of the Red Land
+    - The House of Desert
+shortcode: deshrut
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Ren (House of the Name)
+# Per-Deshr'ut (House of the Red Land)
 
-The House of the Name holds what the whole tradition rests on. If power is correct address, then
-the true name is the address, and Per-Ren is the House that finds, holds and guards them. It is
-seated at Khemenu beside the archive, it is the House the other seven come to when a form will not
-work, and it is the one whose restricted material is kept most closely — a true name written down
-is a true name that can be stolen.
+The House of the Red Land holds the country's other half and everything the valley is defended
+from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its
+reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of
+the Red Land, and the House's commonest work is keeping the people who go there alive.
 
-**Ren** is the domain of speech, writing, true names, knowledge, memory, and the mind. It is one
+**Deshr'ut** — the Red Waste — is the domain of fire, drought, storm, endurance, plague, and the wandering. It is one
 of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
