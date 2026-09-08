@@ -173,6 +173,6 @@ Mortals petition Zhütshüt Lüng through offerings at water shrines, through th
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Zhütshüt Lüng as Elemental Lord
 - [[affiliation-rekgung|Rëkgüng]] — Overseer of the Bureau of Thunder and Rain, with whom Zhütshüt Lüng disputes jurisdiction over rainfall
-- [[Vordok|Vōrdōk]] — Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
+- [[affiliation-vordok|Vōrdōk]] — Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Zhütshüt Lüng shares jurisdiction over groundwater
 - [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords

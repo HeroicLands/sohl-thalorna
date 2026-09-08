@@ -172,4 +172,4 @@ But this is not devotion to Tānlüng. This is the study of Tānlüng's _work_, 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The celestial bureaucracy ordained by Tānlüng's Great Sorting
 - [[affiliation-veizhuk|Vëizhük Dāknëi]] — The Jade Sovereign who administers in Tānlüng's stead
 - [[affiliation-hurnzhuk|Hürnzhük]] — The First Refusal, the part of Hürnlëi that rejected Tānlüng's classification
-- [[Thok_Sei|Thōk Sëi]] — The Archive of All Records, where the Great Sorting's original classifications are preserved
+- [[affiliation-ventok|Thōk Sëi]] — The Archive of All Records, where the Great Sorting's original classifications are preserved

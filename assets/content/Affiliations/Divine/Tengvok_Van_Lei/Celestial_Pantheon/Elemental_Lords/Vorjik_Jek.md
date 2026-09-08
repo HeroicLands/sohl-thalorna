@@ -135,7 +135,7 @@ Unlike the Bureau Overseers, Vōrjīk Jëk answers not to a specific administrat
 
 The Lord of Fire maintains the boundary between five canonical categories of combustion, each with its own administrative protocol and governing spirits:
 
-**Hearth-Fire (Zāt Vōr)** — The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[Zātkür|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
+**Hearth-Fire (Zāt Vōr)** — The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[affiliation-zhurhot|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
 
 **Forge-Fire (Höt Vōrthāk)** — The industrial fire of smithies, forges, and refineries. Vōrjīk Jëk delegates this category to a subordinate clerk-spirit called Thākhöt, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Vōrjīk Jëk not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Vōrjīk Jëk is essentially a request that his flames behave according to technique rather than whimsy.
 
@@ -168,6 +168,6 @@ The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces,
 ## See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
-- [[Zhutrhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
-- [[Gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
+- [[affiliation-zhurhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
+- [[affiliation-gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
 - [[lore-tanthei|Tānthëi]] — The priestly caste who mediate petitions to the Elemental Lords
