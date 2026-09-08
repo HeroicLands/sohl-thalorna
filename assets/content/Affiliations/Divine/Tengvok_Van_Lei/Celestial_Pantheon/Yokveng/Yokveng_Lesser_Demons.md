@@ -146,6 +146,27 @@ The [[affiliation-yokveng|Yokveng]] is home to far more than its five great Demo
 
 The lesser demons are not malevolent in a theological sense. They do not embody cosmic rebellion or fundamental anti-classification. They are, rather, the spiritual equivalent of bureaucratic subordinates — clerks, messengers, enforcers, and minor officials whose role is to execute the orders of higher powers or to exploit the gaps in the celestial administration for their own advantage. Many lesser demons were once functionaries of the celestial bureaus before corruption, dismissal, or unauthorized initiative led them to seek refuge in the Yokveng. Some were never bureaucratic at all, but rather coalesced from the raw demonic potential of the Infernal Realms, forming consciousness and will in the shadows of the Demon Lords.
 
+## Those Who Petition Them
+
+The lesser demons are petitioned far more often than the Demon Lords, for the ordinary reason that
+they are cheaper to reach and their answers are smaller. A ledger-gnawer asked to lose one entry is
+a modest transaction; a Demon Lord asked for anything at all is not.
+
+Their practitioners are correspondingly modest — not rings but individuals, scattered through the
+empire's clerical classes exactly where the note above says they end up: scribes, monks, minor
+bureaucratic officials. A man who can reach a seal-thief is worth knowing; he is also, usually,
+employed doing something entirely respectable, and the two facts are not in tension.
+
+What such a person holds is a small and specific inheritance: the forms of address for one or two
+classes of lesser demon, the appeasements each expects, and the knowledge of which requests are
+worth making. It is taught by one practitioner to one other, rarely written, and lost constantly.
+The Tānthëi consider the resulting variation the reason lesser-demon petitions go wrong so much
+more often than Demon Lord petitions, which are drafted by professionals.
+
+They go wrong in the same direction as everything else in the Yokveng. A ledger-gnawer asked to
+remove an inconvenient entry will remove the entry — and, if the request was loosely drawn, the
+ledger, the archive it sat in, and the clerk who filed it.
+
 ## Nature and Hierarchy
 
 The lesser demons occupy a space of severe inequality. A powerful demon may command dozens of subordinates; a weak one may exist in near-thralldom to a stronger entity. There is no formal hierarchy, no unified administration, and no appeal process. Authority in the Yokveng is asserted through power — spiritual strength, accumulated secrets, access to stolen seals, or proximity to one of the Demon Lords.
