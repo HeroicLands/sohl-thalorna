@@ -37,11 +37,11 @@ See [[lore-elemcrtr|Elementals]].
 
 # Grukar - A Blight Upon the Land
 
-See [[lore-grukarcrtr|Grukar]].
+See [[lore-grukarfolk|Grukar]].
 
 # Goblins - The Cunning Tricksters
 
-See [[lore-goblincrtr|Goblins]].
+See [[lore-goblinfolk|Goblins]].
 
 # Helspawn
 

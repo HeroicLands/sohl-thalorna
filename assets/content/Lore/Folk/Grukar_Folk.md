@@ -5,7 +5,7 @@ name:
   aliases:
     - grukarflk
 description: Grukar Folk
-shortcode: grukarflk
+shortcode: grukarfolk
 type: lore
 subType: folk
 packFolder: settinglore

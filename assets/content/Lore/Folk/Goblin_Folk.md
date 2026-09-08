@@ -6,9 +6,9 @@ name:
     - Goblin
     - The Cunning Tricksters
 description: "Small, cunning and fiercely individualistic followers of a trickster god, who thrive on chaos and rarely cooperate even with each other."
-shortcode: goblincrtr
+shortcode: goblinfolk
 type: lore
-subType: bestiary
+subType: folk
 ---
 
 # Goblins - The Cunning Tricksters
