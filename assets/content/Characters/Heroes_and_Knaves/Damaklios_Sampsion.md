@@ -98,7 +98,6 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - name: Leather map case
       type: miscgear
-      img: icons/scroll-case.svg
       system:
         weight: 1
         value: 100

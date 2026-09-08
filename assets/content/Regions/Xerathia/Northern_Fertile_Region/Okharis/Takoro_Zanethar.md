@@ -9,7 +9,6 @@ name:
   aliases: []
 packFolder: northernfertileregionokharis
 shortcode: takorozanethar
-img: images/takoro-zanethar-headshot.webp
 type: being
 data:
   portrait: images/being/takorozanethar-portrait.webp
