@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Stops a flow of liquid, whether from a wound, a vessel or a breached bank."
 shortcode: stnchngfld
+img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

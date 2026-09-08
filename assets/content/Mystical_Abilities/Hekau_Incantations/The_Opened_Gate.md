@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Opens a way through a sealed boundary between the living world and the Duat, for a stated interval."
 shortcode: opndgt
+img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

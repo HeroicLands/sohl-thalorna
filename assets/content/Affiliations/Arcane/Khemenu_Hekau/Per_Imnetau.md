@@ -86,6 +86,7 @@ name:
     - House of the Westward Road
     - The House of the Underworld
 shortcode: imnetau
+img: icons/takheperu/khemenu-hekau/imnetau.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

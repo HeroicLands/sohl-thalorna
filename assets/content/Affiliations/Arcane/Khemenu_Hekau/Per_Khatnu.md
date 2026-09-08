@@ -85,6 +85,7 @@ name:
     - House of the Body
     - The House of Form
 shortcode: khatnu
+img: icons/takheperu/khemenu-hekau/khatnu.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

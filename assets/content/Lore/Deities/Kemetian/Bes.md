@@ -7,7 +7,7 @@ name:
   full: Bēs
   aliases: []
 shortcode: besdty
-img: icons/takheperu/bes.svg
+img: icons/takheperu/pantheon/bes.svg
 packFolder: deitieskemetian
 ---
 

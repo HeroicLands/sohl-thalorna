@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Burns spiritual corruption out of a person, painfully and without touching the body."
 shortcode: prfynght
+img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

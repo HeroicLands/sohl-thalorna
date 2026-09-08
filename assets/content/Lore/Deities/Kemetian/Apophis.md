@@ -7,7 +7,7 @@ name:
   full: Ápōphis
   aliases: []
 shortcode: apophisdty
-img: icons/takheperu/apophis.svg
+img: icons/takheperu/pantheon/apophis.svg
 packFolder: deitieskemetian
 ---
 

@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Reproduces a document exactly, including the qualities of the hand that made it."
 shortcode: cpdhnd
+img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

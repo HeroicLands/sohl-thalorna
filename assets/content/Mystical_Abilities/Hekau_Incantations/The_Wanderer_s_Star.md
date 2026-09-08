@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Fixes an unerring sense of direction toward a named place."
 shortcode: wndrrsstr
+img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

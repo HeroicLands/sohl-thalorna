@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Binds an animate thing to a stated duty, which it will perform until released or destroyed."
 shortcode: wrtattchmnt
+img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

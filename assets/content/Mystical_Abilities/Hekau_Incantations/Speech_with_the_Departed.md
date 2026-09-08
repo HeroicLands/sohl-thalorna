@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Permits conversation with one named dead, provided the name and the body are both intact."
 shortcode: spchwthdprt
+img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

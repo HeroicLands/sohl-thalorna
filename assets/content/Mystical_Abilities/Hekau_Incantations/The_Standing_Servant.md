@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Animates a made body to perform work under continuous direction."
 shortcode: stndngsrvnt
+img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

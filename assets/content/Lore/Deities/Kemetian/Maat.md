@@ -7,7 +7,7 @@ name:
   full: Má'át
   aliases: []
 shortcode: maatdty
-img: icons/takheperu/maat.svg
+img: icons/takheperu/pantheon/maat.svg
 packFolder: deitieskemetian
 ---
 

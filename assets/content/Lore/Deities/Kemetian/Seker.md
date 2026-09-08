@@ -7,7 +7,7 @@ name:
   full: Sēker
   aliases: []
 shortcode: sekerdty
-img: icons/takheperu/seker.svg
+img: icons/takheperu/pantheon/seker.svg
 packFolder: deitieskemetian
 ---
 

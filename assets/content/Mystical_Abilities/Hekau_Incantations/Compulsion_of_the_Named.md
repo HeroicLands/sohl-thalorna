@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Commands a person or thing by its true name, which it cannot refuse."
 shortcode: cmplsnnmd
+img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

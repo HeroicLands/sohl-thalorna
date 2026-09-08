@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."
 shortcode: wghnglssrhr
+img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Prevents the subject from uttering a named secret, by any means, until released."
 shortcode: bndtng
+img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

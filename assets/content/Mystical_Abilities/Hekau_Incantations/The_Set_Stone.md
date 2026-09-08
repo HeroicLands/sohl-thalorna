@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Joins worked stone so that the join is as sound as the stone."
 shortcode: ststn
+img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

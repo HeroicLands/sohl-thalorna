@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Accelerates the decay of organic material, on a stated delay."
 shortcode: rtsvnthdy
+img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

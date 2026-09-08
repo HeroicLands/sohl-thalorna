@@ -84,6 +84,7 @@ name:
     - House of the Black Land
     - The House of River
 shortcode: ankhkemet
+img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

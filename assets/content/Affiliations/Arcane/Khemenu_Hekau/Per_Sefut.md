@@ -86,6 +86,7 @@ name:
     - House of the Unmaking
     - The House of Chaos
 shortcode: sefut
+img: icons/takheperu/khemenu-hekau/sefut.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

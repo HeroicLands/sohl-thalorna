@@ -88,7 +88,7 @@ name:
     - Thaut
     - The Scribe of the Eternal Library
 shortcode: thoth
-img: icons/takheperu/thoth.svg
+img: icons/takheperu/pantheon/thoth.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

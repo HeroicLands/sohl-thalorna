@@ -7,7 +7,7 @@ name:
   full: Thōth
   aliases: []
 shortcode: thothdty
-img: icons/takheperu/thoth.svg
+img: icons/takheperu/pantheon/thoth.svg
 packFolder: deitieskemetian
 ---
 

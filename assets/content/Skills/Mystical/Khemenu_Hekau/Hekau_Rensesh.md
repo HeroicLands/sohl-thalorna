@@ -4,6 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: rensesh
+img: icons/takheperu/khemenu-hekau/rensesh.svg
 name:
   full: "Hekau: Ren'sesh"
   aliases:

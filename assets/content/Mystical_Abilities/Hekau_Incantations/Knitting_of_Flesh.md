@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Closes and mends serious injury, in proportion to the practitioner's own strength."
 shortcode: knttngflsh
+img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

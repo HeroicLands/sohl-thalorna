@@ -81,6 +81,7 @@ name:
     - House of the Red Land
     - The House of Desert
 shortcode: deshrut
+img: icons/takheperu/khemenu-hekau/deshrut.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

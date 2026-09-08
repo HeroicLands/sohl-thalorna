@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Renders writing legible only to a named reader, and blank to everyone else."
 shortcode: slntpg
+img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

@@ -7,7 +7,7 @@ name:
   full: Ánubís
   aliases: []
 shortcode: anubisdty
-img: icons/takheperu/anubis.svg
+img: icons/takheperu/pantheon/anubis.svg
 packFolder: deitieskemetian
 ---
 

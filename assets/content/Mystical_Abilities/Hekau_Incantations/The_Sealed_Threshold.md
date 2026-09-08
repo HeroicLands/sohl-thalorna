@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Inscribes a ward on a doorway or lid that resists opening by any but the named holder."
 shortcode: sldthrshld
+img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

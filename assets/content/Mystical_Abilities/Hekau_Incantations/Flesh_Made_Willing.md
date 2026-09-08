@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Reshapes a living body within its own nature, painfully and permanently."
 shortcode: flshmdwllng
+img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

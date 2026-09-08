@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Reads the true state of a body of water — its depth, its course, and what it will do next."
 shortcode: fllmsr
+img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

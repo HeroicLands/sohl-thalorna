@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Invests the subject with visible authority and a sustaining vitality, for a stated term."
 shortcode: crwnlvng
+img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

@@ -8,6 +8,7 @@ tags:
 type: lore
 subType: arcana
 shortcode: khemenuhekau
+img: icons/takheperu/khemenu-hekau/khemenu-hekau.svg
 name:
   full: Khemenu Hekau
   aliases:

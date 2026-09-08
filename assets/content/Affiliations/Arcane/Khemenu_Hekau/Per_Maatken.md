@@ -82,6 +82,7 @@ name:
     - House of the Balance
     - The House of Order
 shortcode: maatken
+img: icons/takheperu/khemenu-hekau/maatken.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---

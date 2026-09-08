@@ -4,6 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: deshrut
+img: icons/takheperu/khemenu-hekau/deshrut.svg
 name:
   full: "Hekau: Deshr'ut"
   aliases:

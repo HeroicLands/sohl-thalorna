@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Accelerates the growth of living plants to a stated stage."
 shortcode: grnrsng
+img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

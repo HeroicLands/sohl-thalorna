@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Lays a condition of misfortune on a named person that follows them wherever they go."
 shortcode: crsopnrd
+img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:

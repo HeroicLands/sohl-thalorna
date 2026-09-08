@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: hapi
-img: icons/takheperu/hapi.svg
+img: icons/takheperu/pantheon/hapi.svg
 name:
   full: "Ritual: Hâpi"
   aliases:

@@ -84,7 +84,7 @@ name:
   aliases:
     - Ánubís, The Keeper of Transitions
 shortcode: anubis
-img: icons/takheperu/anubis.svg
+img: icons/takheperu/pantheon/anubis.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

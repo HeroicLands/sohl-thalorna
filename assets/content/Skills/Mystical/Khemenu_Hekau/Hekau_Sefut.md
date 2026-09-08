@@ -4,6 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: sefut
+img: icons/takheperu/khemenu-hekau/sefut.svg
 name:
   full: "Hekau: Sefút"
   aliases:

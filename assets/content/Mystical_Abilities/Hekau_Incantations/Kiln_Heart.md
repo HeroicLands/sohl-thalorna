@@ -7,6 +7,7 @@ name:
   aliases: []
 description: "Permits a person or a working to endure extremes of heat unharmed."
 shortcode: klnhrt
+img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 sohl:
