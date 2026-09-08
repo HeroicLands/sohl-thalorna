@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mithrnmznd
-img: images/beings/characters/mithrnmznd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mithrnmznd-portrait.webp
+  portrait: images/beings/characters/mithrnmznd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herder

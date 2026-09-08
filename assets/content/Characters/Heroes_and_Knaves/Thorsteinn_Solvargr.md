@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnslvrgr
-img: images/beings/characters/thrstnslvrgr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrstnslvrgr-portrait.webp
+  portrait: images/beings/characters/thrstnslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Glassworker

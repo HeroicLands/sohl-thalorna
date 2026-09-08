@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: grgrsphthympls
-img: images/beings/characters/grgrsphthympls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grgrsphthympls-portrait.webp
+  portrait: images/beings/characters/grgrsphthympls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright

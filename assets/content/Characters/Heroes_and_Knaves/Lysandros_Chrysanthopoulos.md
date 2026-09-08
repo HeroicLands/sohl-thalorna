@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: lysndrschrysnthpls
-img: images/beings/characters/lysndrschrysnthpls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lysndrschrysnthpls-portrait.webp
+  portrait: images/beings/characters/lysndrschrysnthpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright

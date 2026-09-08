@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkdsphlmds
-img: images/beings/characters/arkdsphlmds-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arkdsphlmds-portrait.webp
+  portrait: images/beings/characters/arkdsphlmds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: nushirnrsf
-img: images/beings/characters/nushirnrsf-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nushirnrsf-portrait.webp
+  portrait: images/beings/characters/nushirnrsf-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chandler

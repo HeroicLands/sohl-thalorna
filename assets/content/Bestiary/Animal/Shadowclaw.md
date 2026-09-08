@@ -5,11 +5,11 @@ name:
   full: Shadowclaw
   aliases: []
 description: "A highly intelligent pack-hunting reptile up to twelve feet long, coordinating sophisticated ambushes across jungles and rocky valleys as an apex predator."
-img: images/beings/creatures/shdwclw-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: shdwclw
 type: being
 data:
-  portrait: images/being/shdwclw-portrait.webp
+  portrait: images/beings/creatures/shdwclw-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

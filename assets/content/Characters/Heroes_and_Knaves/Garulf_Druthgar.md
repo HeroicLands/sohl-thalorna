@@ -11,10 +11,10 @@ name:
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/grlfdrthgr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grlfdrthgr-portrait.webp
+  portrait: images/beings/characters/grlfdrthgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Sellsword

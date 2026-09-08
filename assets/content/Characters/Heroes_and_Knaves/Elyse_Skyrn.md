@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: images/beings/characters/elyseskyrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elyseskyrn-portrait.webp
+  portrait: images/beings/characters/elyseskyrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist

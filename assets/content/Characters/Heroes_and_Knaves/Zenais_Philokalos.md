@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: zensphlkls
-img: images/beings/characters/zensphlkls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zensphlkls-portrait.webp
+  portrait: images/beings/characters/zensphlkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

@@ -5,11 +5,11 @@ name:
   full: Webcrawler
   aliases: []
 description: "A supremely cunning spider of dark caverns and ruins that spreads nearly invisible webs across confined spaces to snare prey."
-img: images/beings/creatures/wbcrwlr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: wbcrwlr
 type: being
 data:
-  portrait: images/being/wbcrwlr-portrait.webp
+  portrait: images/beings/creatures/wbcrwlr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

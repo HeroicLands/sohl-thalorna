@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: karriseldr
-img: images/beings/characters/karriseldr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/karriseldr-portrait.webp
+  portrait: images/beings/characters/karriseldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Clothier

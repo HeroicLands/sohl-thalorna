@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnksksrns
-img: images/beings/characters/brnksksrns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brnksksrns-portrait.webp
+  portrait: images/beings/characters/brnksksrns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Charcoaler

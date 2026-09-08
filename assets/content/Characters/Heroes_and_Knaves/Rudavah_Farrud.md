@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rudavahfrd
-img: images/beings/characters/rudavahfrd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rudavahfrd-portrait.webp
+  portrait: images/beings/characters/rudavahfrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler

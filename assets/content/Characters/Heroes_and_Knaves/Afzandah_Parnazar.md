@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr
-img: images/beings/characters/afzndhprnzr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/afzndhprnzr-portrait.webp
+  portrait: images/beings/characters/afzndhprnzr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

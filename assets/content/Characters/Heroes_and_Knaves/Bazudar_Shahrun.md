@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn
-img: images/beings/characters/bazdrshhrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bazdrshhrn-portrait.webp
+  portrait: images/beings/characters/bazdrshhrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

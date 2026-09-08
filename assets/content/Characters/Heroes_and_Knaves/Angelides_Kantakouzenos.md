@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldskntkzns
-img: images/beings/characters/angldskntkzns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/angldskntkzns-portrait.webp
+  portrait: images/beings/characters/angldskntkzns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer

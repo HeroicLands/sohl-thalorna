@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv
-img: images/beings/characters/thrlkrvndrkv-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrlkrvndrkv-portrait.webp
+  portrait: images/beings/characters/thrlkrvndrkv-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner

@@ -5,11 +5,11 @@ name:
   full: Gloomhound
   aliases: []
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."
-img: images/beings/creatures/glmhnd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glmhnd
 type: being
 data:
-  portrait: images/being/glmhnd-portrait.webp
+  portrait: images/beings/creatures/glmhnd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

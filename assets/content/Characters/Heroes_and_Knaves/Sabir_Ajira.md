@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: sabirajira
-img: images/beings/characters/sabirajira-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sabirajira-portrait.webp
+  portrait: images/beings/characters/sabirajira-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Charcoaler

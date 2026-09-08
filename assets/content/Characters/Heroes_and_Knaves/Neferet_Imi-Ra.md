@@ -15,10 +15,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
-img: images/beings/characters/neferetimr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/neferetimr-portrait.webp
+  portrait: images/beings/characters/neferetimr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar

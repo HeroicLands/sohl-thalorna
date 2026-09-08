@@ -11,10 +11,10 @@ name:
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/slvrvlskyr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/slvrvlskyr-portrait.webp
+  portrait: images/beings/characters/slvrvlskyr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: First Mate

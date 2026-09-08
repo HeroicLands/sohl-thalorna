@@ -5,11 +5,11 @@ name:
   full: Mega Hyena
   aliases: []
 description: "A colossal four-foot-tall hyena built for bone-crushing bite force and endurance, its sloped back and coarse mottled coat marking a relentless hunter."
-img: images/beings/creatures/mghyn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mghyn
 type: being
 data:
-  portrait: images/being/mghyn-portrait.webp
+  portrait: images/beings/creatures/mghyn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

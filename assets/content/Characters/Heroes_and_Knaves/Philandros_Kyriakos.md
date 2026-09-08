@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlndrskyrks
-img: images/beings/characters/phlndrskyrks-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/phlndrskyrks-portrait.webp
+  portrait: images/beings/characters/phlndrskyrks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

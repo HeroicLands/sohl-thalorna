@@ -5,11 +5,11 @@ name:
   full: Nüsvōrroth
   aliases: []
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
-img: images/beings/creatures/nsvrroth-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nsvrroth
 type: being
 data:
-  portrait: images/being/nsvrroth-portrait.webp
+  portrait: images/beings/creatures/nsvrroth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

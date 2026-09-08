@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: suvrtkrtns
-img: images/beings/characters/suvrtkrtns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/suvrtkrtns-portrait.webp
+  portrait: images/beings/characters/suvrtkrtns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Toymaker

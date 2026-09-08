@@ -5,11 +5,11 @@ name:
   full: Rockback Bear
   aliases: []
 description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
-img: images/beings/creatures/rckbckbr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rckbckbr
 type: being
 data:
-  portrait: images/being/rckbckbr-portrait.webp
+  portrait: images/beings/creatures/rckbckbr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

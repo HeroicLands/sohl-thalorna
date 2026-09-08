@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: satrrnkhns
-img: images/beings/characters/satrrnkhns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/satrrnkhns-portrait.webp
+  portrait: images/beings/characters/satrrnkhns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright

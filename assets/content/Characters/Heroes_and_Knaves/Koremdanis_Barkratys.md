@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: krmdnsbrkrtys
-img: images/beings/characters/krmdnsbrkrtys-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/krmdnsbrkrtys-portrait.webp
+  portrait: images/beings/characters/krmdnsbrkrtys-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

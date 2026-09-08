@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
-img: images/beings/characters/chlbrhydyn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chlbrhydyn-portrait.webp
+  portrait: images/beings/characters/chlbrhydyn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hunter / Scout

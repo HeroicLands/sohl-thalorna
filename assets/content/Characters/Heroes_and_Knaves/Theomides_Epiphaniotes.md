@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: thmdspphnts
-img: images/beings/characters/thmdspphnts-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thmdspphnts-portrait.webp
+  portrait: images/beings/characters/thmdspphnts-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper

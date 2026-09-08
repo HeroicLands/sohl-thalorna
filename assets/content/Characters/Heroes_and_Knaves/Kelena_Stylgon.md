@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kelnstylgn
-img: images/beings/characters/kelnstylgn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kelnstylgn-portrait.webp
+  portrait: images/beings/characters/kelnstylgn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan

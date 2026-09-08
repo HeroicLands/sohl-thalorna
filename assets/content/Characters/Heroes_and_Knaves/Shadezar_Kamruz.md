@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: shadzrkmrz
-img: images/beings/characters/shadzrkmrz-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shadzrkmrz-portrait.webp
+  portrait: images/beings/characters/shadzrkmrz-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -95,7 +95,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 25 } }
     - name: Quiver (leather, tribal design)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100

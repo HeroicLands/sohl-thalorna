@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: rnthrprdln
-img: images/beings/characters/rnthrprdln-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rnthrprdln-portrait.webp
+  portrait: images/beings/characters/rnthrprdln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

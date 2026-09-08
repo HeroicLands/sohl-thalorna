@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: helnmystks
-img: images/beings/characters/helnmystks-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/helnmystks-portrait.webp
+  portrait: images/beings/characters/helnmystks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

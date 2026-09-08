@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rkrthrsldr
-img: images/beings/characters/rkrthrsldr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rkrthrsldr-portrait.webp
+  portrait: images/beings/characters/rkrthrsldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Spirit)

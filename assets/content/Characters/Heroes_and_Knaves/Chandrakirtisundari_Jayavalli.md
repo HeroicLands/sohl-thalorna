@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl
-img: images/beings/characters/chndrkrtsndrjyvl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chndrkrtsndrjyvl-portrait.webp
+  portrait: images/beings/characters/chndrkrtsndrjyvl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Prostitute

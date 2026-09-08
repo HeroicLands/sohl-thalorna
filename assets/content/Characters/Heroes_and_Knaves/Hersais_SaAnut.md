@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
-img: images/beings/characters/hersaisant-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hersaisant-portrait.webp
+  portrait: images/beings/characters/hersaisant-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)

@@ -5,11 +5,11 @@ name:
   full: Swampstrider
   aliases: []
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
-img: images/beings/creatures/swmpstrd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: swmpstrd
 type: being
 data:
-  portrait: images/being/swmpstrd-portrait.webp
+  portrait: images/beings/creatures/swmpstrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

@@ -11,10 +11,10 @@ name:
 packFolder: midhalionvylaria
 shortcode: cibelasrnt
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/cibelasrnt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/cibelasrnt-portrait.webp
+  portrait: images/beings/characters/cibelasrnt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ward

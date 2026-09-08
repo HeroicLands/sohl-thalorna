@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: prynbrmndn
-img: images/beings/characters/prynbrmndn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/prynbrmndn-portrait.webp
+  portrait: images/beings/characters/prynbrmndn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Jeweller

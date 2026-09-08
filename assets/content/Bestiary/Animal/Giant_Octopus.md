@@ -5,11 +5,11 @@ name:
   full: Giant Octopus
   aliases: []
 description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
-img: images/beings/creatures/gntoctps-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntoctps
 type: being
 data:
-  portrait: images/being/gntoctps-portrait.webp
+  portrait: images/beings/creatures/gntoctps-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

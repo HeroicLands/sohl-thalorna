@@ -11,10 +11,10 @@ name:
 packFolder: helladhelionis
 banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
-img: images/beings/characters/isarakhldr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/isarakhldr-portrait.webp
+  portrait: images/beings/characters/isarakhldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan

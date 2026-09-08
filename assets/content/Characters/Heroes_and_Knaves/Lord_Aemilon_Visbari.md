@@ -16,10 +16,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr
-img: images/beings/characters/lrdmlnvsbr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lrdmlnvsbr-portrait.webp
+  portrait: images/beings/characters/lrdmlnvsbr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

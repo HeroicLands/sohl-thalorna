@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: smrnklkyrs
-img: images/beings/characters/smrnklkyrs-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/smrnklkyrs-portrait.webp
+  portrait: images/beings/characters/smrnklkyrs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herder

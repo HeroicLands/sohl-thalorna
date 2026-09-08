@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: chrysntskvdrs
-img: images/beings/characters/chrysntskvdrs-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chrysntskvdrs-portrait.webp
+  portrait: images/beings/characters/chrysntskvdrs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Locksmith

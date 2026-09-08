@@ -5,11 +5,11 @@ name:
   full: Flamewraith
   aliases: []
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."
-img: images/beings/creatures/flmwrth-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: flmwrth
 type: being
 data:
-  portrait: images/being/flmwrth-portrait.webp
+  portrait: images/beings/creatures/flmwrth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

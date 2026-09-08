@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
-img: images/beings/characters/mrtsbkhkmn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrtsbkhkmn-portrait.webp
+  portrait: images/beings/characters/mrtsbkhkmn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer

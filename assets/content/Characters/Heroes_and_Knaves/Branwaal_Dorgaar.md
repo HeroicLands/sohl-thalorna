@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: branwldrgr
-img: images/beings/characters/branwldrgr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/branwldrgr-portrait.webp
+  portrait: images/beings/characters/branwldrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary Captain

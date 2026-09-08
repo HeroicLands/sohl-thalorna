@@ -15,10 +15,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
-img: images/beings/characters/siprahipmr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/siprahipmr-portrait.webp
+  portrait: images/beings/characters/siprahipmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Locksmith

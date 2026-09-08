@@ -5,11 +5,11 @@ name:
   full: Shadowstalker
   aliases: []
 description: "A tactical spirit-realm assassin born of murder, moving unseen and striking from darkness to hunt targets across years or guard a single domain."
-img: images/beings/creatures/shdwstlk-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: shdwstlk
 type: being
 data:
-  portrait: images/being/shdwstlk-portrait.webp
+  portrait: images/beings/creatures/shdwstlk-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

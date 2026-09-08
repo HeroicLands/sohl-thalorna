@@ -12,10 +12,10 @@ name:
 packFolder: helladhelionis
 shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/damsnghlrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/damsnghlrn-portrait.webp
+  portrait: images/beings/characters/damsnghlrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

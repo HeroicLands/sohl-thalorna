@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt
-img: images/beings/characters/sigfstrmrt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sigfstrmrt-portrait.webp
+  portrait: images/beings/characters/sigfstrmrt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

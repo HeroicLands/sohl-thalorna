@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
-img: images/beings/characters/mentshpkhr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mentshpkhr-portrait.webp
+  portrait: images/beings/characters/mentshpkhr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat

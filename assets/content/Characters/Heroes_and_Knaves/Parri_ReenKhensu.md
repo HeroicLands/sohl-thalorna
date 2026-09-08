@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: parirnkhns
-img: images/beings/characters/parirnkhns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/parirnkhns-portrait.webp
+  portrait: images/beings/characters/parirnkhns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar

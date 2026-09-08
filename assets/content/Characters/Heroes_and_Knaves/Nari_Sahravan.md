@@ -13,10 +13,10 @@ name:
     - The Desert Mystic
 packFolder: ankariskhazryndesert
 shortcode: narisahrvn
-img: images/beings/characters/narisahrvn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/narisahrvn-portrait.webp
+  portrait: images/beings/characters/narisahrvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: veldrblthl
-img: images/beings/characters/veldrblthl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/veldrblthl-portrait.webp
+  portrait: images/beings/characters/veldrblthl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian

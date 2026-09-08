@@ -14,10 +14,10 @@ name:
     - The Jánusian Priest
 packFolder: aureldiatarvenia
 shortcode: frztbnlksr
-img: images/beings/characters/frztbnlksr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/frztbnlksr-portrait.webp
+  portrait: images/beings/characters/frztbnlksr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

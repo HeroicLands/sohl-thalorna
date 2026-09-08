@@ -5,11 +5,11 @@ name:
   full: Embermaw
   aliases: []
 description: "A powerful elemental of molten heat drawn to volcanic regions, feeding on the earth's fire and driven by hunger and territorial aggression alike."
-img: images/beings/creatures/embermaw-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: embermaw
 type: being
 data:
-  portrait: images/being/embermaw-portrait.webp
+  portrait: images/beings/creatures/embermaw-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

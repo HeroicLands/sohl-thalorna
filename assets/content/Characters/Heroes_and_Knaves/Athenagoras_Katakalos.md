@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: athngrsktkls
-img: images/beings/characters/athngrsktkls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/athngrsktkls-portrait.webp
+  portrait: images/beings/characters/athngrsktkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry

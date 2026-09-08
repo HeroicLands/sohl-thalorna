@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: palvdrvksh
-img: images/beings/characters/palvdrvksh-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/palvdrvksh-portrait.webp
+  portrait: images/beings/characters/palvdrvksh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe

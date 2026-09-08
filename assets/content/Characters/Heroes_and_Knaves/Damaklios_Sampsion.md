@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: damklsmpsn
-img: images/beings/characters/damklsmpsn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/damklsmpsn-portrait.webp
+  portrait: images/beings/characters/damklsmpsn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

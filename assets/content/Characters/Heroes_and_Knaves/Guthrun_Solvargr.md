@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gthrnslvrgr
-img: images/beings/characters/gthrnslvrgr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gthrnslvrgr-portrait.webp
+  portrait: images/beings/characters/gthrnslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper

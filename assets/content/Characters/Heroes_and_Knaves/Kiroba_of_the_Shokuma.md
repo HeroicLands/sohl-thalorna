@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: northernfertileregionokharis
 shortcode: kirobashkm
-img: images/beings/characters/kirobashkm-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kirobashkm-portrait.webp
+  portrait: images/beings/characters/kirobashkm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary

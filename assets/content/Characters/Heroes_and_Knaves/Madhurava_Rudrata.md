@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: madhurvrdr
-img: images/beings/characters/madhurvrdr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/madhurvrdr-portrait.webp
+  portrait: images/beings/characters/madhurvrdr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

@@ -5,11 +5,11 @@ name:
   full: Thunderhorn
   aliases: []
 description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."
-img: images/beings/creatures/thndrhrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thndrhrn
 type: being
 data:
-  portrait: images/being/thndrhrn-portrait.webp
+  portrait: images/beings/creatures/thndrhrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

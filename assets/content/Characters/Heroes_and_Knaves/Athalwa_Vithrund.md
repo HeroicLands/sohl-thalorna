@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
-img: images/beings/characters/athlwvthrnd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/athlwvthrnd-portrait.webp
+  portrait: images/beings/characters/athlwvthrnd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain

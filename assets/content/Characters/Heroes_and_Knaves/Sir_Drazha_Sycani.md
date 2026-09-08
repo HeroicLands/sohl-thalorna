@@ -14,10 +14,10 @@ name:
     - Sir Drazha Sycani
 packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
-img: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
+  portrait: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)

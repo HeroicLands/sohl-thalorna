@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt
-img: images/beings/characters/raiahsekmt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/raiahsekmt-portrait.webp
+  portrait: images/beings/characters/raiahsekmt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: sntydhyrjvrdhn
-img: images/beings/characters/sntydhyrjvrdhn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sntydhyrjvrdhn-portrait.webp
+  portrait: images/beings/characters/sntydhyrjvrdhn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan

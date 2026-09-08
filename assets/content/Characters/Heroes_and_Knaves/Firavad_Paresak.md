@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: firavdprsk
-img: images/beings/characters/firavdprsk-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/firavdprsk-portrait.webp
+  portrait: images/beings/characters/firavdprsk-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

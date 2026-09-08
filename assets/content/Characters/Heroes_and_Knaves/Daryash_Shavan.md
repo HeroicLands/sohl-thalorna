@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: daryshshvn
-img: images/beings/characters/daryshshvn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/daryshshvn-portrait.webp
+  portrait: images/beings/characters/daryshshvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

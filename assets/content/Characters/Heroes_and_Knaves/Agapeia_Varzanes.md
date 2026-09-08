@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: agapevrzns
-img: images/beings/characters/agapevrzns-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/agapevrzns-portrait.webp
+  portrait: images/beings/characters/agapevrzns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner

@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: mkthsvnrds
-img: images/beings/characters/mkthsvnrds-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mkthsvnrds-portrait.webp
+  portrait: images/beings/characters/mkthsvnrds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian

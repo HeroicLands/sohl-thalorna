@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: faradunfrn
-img: images/beings/characters/faradunfrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/faradunfrn-portrait.webp
+  portrait: images/beings/characters/faradunfrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Teamster

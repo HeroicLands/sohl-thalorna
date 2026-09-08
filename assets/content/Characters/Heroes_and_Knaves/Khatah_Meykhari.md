@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
-img: images/beings/characters/khathmykhr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/khathmykhr-portrait.webp
+  portrait: images/beings/characters/khathmykhr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

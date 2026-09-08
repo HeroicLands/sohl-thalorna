@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
-img: images/beings/characters/shrmnhthvn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shrmnhthvn-portrait.webp
+  portrait: images/beings/characters/shrmnhthvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

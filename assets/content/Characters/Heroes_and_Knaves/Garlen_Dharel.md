@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: garlendhrl
-img: images/beings/characters/garlendhrl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/garlendhrl-portrait.webp
+  portrait: images/beings/characters/garlendhrl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hideworker

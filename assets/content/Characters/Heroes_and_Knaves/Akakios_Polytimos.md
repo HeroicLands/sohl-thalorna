@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: akksplytms
-img: images/beings/characters/akksplytms-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/akksplytms-portrait.webp
+  portrait: images/beings/characters/akksplytms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

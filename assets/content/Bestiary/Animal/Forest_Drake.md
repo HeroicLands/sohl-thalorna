@@ -5,11 +5,11 @@ name:
   full: Forest Drake
   aliases: []
 description: "A small, intelligent semi-arboreal drake ruling the forest canopy, solitary and fiercely territorial despite its modest draconic size."
-img: images/beings/creatures/frstdrk-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frstdrk
 type: being
 data:
-  portrait: images/being/frstdrk-portrait.webp
+  portrait: images/beings/creatures/frstdrk-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

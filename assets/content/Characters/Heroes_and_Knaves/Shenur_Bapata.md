@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
-img: images/beings/characters/shenurbapt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shenurbapt-portrait.webp
+  portrait: images/beings/characters/shenurbapt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

@@ -12,10 +12,10 @@ name:
 packFolder: midhalionharad
 shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/esharumtrz-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/esharumtrz-portrait.webp
+  portrait: images/beings/characters/esharumtrz-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ship Captain

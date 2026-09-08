@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: rznshmrvrn
-img: images/beings/characters/rznshmrvrn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rznshmrvrn-portrait.webp
+  portrait: images/beings/characters/rznshmrvrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

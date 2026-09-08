@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
-img: images/beings/characters/dornsyndlr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dornsyndlr-portrait.webp
+  portrait: images/beings/characters/dornsyndlr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary

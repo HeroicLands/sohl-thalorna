@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: lnntstrtgpls
-img: images/beings/characters/lnntstrtgpls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lnntstrtgpls-portrait.webp
+  portrait: images/beings/characters/lnntstrtgpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

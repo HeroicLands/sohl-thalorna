@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: klxnsprklvs
-img: images/beings/characters/klxnsprklvs-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klxnsprklvs-portrait.webp
+  portrait: images/beings/characters/klxnsprklvs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Litigant

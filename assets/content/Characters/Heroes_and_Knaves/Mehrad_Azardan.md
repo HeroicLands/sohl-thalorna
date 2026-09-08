@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mehradzrdn
-img: images/beings/characters/mehradzrdn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mehradzrdn-portrait.webp
+  portrait: images/beings/characters/mehradzrdn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot

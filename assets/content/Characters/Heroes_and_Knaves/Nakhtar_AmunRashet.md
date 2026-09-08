@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
-img: images/beings/characters/nkhtrmnrsht-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nkhtrmnrsht-portrait.webp
+  portrait: images/beings/characters/nkhtrmnrsht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher

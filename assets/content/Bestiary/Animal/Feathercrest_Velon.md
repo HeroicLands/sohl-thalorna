@@ -5,11 +5,11 @@ name:
   full: Feathercrest Velon
   aliases: []
 description: "A four-foot iridescent-plumed pack predator of dense forests and rocky highlands, aggressively territorial and cunning in its hunts."
-img: images/beings/creatures/fthrcrst-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: fthrcrst
 type: being
 data:
-  portrait: images/being/fthrcrst-portrait.webp
+  portrait: images/beings/creatures/fthrcrst-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

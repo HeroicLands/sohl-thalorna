@@ -13,10 +13,10 @@ name:
     - the Crow
 packFolder: ankarisvrystwald
 shortcode: hrodrrnthl
-img: images/beings/characters/hrodrrnthl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrodrrnthl-portrait.webp
+  portrait: images/beings/characters/hrodrrnthl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Brigand

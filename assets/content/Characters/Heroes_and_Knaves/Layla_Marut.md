@@ -14,10 +14,10 @@ name:
     - The Merchant Princess
 packFolder: northernfertileregionbethua
 shortcode: laylamarut
-img: images/beings/characters/laylamarut-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/laylamarut-portrait.webp
+  portrait: images/beings/characters/laylamarut-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercantyler

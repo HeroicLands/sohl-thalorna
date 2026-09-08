@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: erythnslnds
-img: images/beings/characters/erythnslnds-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/erythnslnds-portrait.webp
+  portrait: images/beings/characters/erythnslnds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

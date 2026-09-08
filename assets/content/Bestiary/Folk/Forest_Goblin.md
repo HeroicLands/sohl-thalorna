@@ -5,11 +5,11 @@ name:
   full: Forest Goblin
   aliases: []
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
-img: images/beings/creatures/frstgbln-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frstgbln
 type: being
 data:
-  portrait: images/being/frstgbln-portrait.webp
+  portrait: images/beings/creatures/frstgbln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

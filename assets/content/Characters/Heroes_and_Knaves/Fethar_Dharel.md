@@ -12,10 +12,10 @@ name:
 packFolder: aureldiaprovenzia
 shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/fethardhrl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/fethardhrl-portrait.webp
+  portrait: images/beings/characters/fethardhrl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot

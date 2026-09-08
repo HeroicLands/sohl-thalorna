@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh
-img: images/beings/characters/muritarikh-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/muritarikh-portrait.webp
+  portrait: images/beings/characters/muritarikh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard

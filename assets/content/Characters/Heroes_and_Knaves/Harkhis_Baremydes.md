@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: hrkhsbrmyds
-img: images/beings/characters/hrkhsbrmyds-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrkhsbrmyds-portrait.webp
+  portrait: images/beings/characters/hrkhsbrmyds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary

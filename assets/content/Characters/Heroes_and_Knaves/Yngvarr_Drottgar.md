@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
-img: images/beings/characters/yngvrdrtgr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/yngvrdrtgr-portrait.webp
+  portrait: images/beings/characters/yngvrdrtgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Guard

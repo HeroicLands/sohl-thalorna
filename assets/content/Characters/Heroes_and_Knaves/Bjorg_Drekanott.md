@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjorgdrknt
-img: images/beings/characters/bjorgdrknt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bjorgdrknt-portrait.webp
+  portrait: images/beings/characters/bjorgdrknt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar

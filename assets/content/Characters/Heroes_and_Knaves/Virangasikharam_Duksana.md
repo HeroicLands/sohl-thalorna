@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vrgskhrmdkn
-img: images/beings/characters/vrgskhrmdkn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vrgskhrmdkn-portrait.webp
+  portrait: images/beings/characters/vrgskhrmdkn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)

@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtpnkhkhs
-img: images/beings/characters/mrtpnkhkhs-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrtpnkhkhs-portrait.webp
+  portrait: images/beings/characters/mrtpnkhkhs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

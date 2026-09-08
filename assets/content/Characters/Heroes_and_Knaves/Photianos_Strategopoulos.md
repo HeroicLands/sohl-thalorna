@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phtnstrtgpls
-img: images/beings/characters/phtnstrtgpls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/phtnstrtgpls-portrait.webp
+  portrait: images/beings/characters/phtnstrtgpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

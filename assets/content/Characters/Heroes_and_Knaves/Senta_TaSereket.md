@@ -14,10 +14,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
-img: images/beings/characters/sentatsrkt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sentatsrkt-portrait.webp
+  portrait: images/beings/characters/sentatsrkt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -98,7 +98,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 25 } }
     - name: Quiver (leather, reinforced)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100

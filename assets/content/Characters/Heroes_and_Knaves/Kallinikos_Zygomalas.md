@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: klnkszygmls
-img: images/beings/characters/klnkszygmls-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klnkszygmls-portrait.webp
+  portrait: images/beings/characters/klnkszygmls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

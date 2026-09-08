@@ -13,10 +13,10 @@ name:
     - the Seiðr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: images/beings/characters/grosdrnrgd-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grosdrnrgd-portrait.webp
+  portrait: images/beings/characters/grosdrnrgd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
-img: images/beings/characters/kjrvngjrln-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kjrvngjrln-portrait.webp
+  portrait: images/beings/characters/kjrvngjrln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler

@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
-img: images/beings/characters/hathurasfr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hathurasfr-portrait.webp
+  portrait: images/beings/characters/hathurasfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

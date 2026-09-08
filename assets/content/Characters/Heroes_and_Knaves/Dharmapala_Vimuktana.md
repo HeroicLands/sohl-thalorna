@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: dhrmplvmkt
-img: images/beings/characters/dhrmplvmkt-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dhrmplvmkt-portrait.webp
+  portrait: images/beings/characters/dhrmplvmkt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldsptrks
-img: images/beings/characters/angldsptrks-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/angldsptrks-portrait.webp
+  portrait: images/beings/characters/angldsptrks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)

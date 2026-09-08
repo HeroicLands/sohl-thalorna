@@ -5,11 +5,11 @@ name:
   full: Giant Armadillo
   aliases: []
 description: "A solitary armored mammal exceeding twelve feet, a living fortress of bony plates that fiercely defends its vast nocturnal burrows."
-img: images/beings/creatures/gntarmdl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntarmdl
 type: being
 data:
-  portrait: images/being/gntarmdl-portrait.webp
+  portrait: images/beings/creatures/gntarmdl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

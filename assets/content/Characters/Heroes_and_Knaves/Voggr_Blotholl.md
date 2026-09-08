@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vogrblothl
-img: images/beings/characters/vogrblothl-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vogrblothl-portrait.webp
+  portrait: images/beings/characters/vogrblothl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

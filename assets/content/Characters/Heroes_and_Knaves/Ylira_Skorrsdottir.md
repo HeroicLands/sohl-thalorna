@@ -11,10 +11,10 @@ name:
 packFolder: ankarisnordlands
 shortcode: ylrskrsdtr
 banner: banners/tamzir-banner.webp
-img: images/beings/characters/ylrskrsdtr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ylrskrsdtr-portrait.webp
+  portrait: images/beings/characters/ylrskrsdtr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Warrior

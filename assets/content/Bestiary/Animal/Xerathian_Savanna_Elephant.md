@@ -5,11 +5,11 @@ name:
   full: Xerathian Savanna Elephant
   aliases: []
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
-img: images/beings/creatures/xrthnsvn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: xrthnsvn
 type: being
 data:
-  portrait: images/being/xrthnsvn-portrait.webp
+  portrait: images/beings/creatures/xrthnsvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

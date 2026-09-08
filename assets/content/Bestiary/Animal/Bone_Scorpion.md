@@ -5,11 +5,11 @@ name:
   full: Bone Scorpion
   aliases: []
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
-img: images/beings/creatures/bnscrpn-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: bnscrpn
 type: being
 data:
-  portrait: images/being/bnscrpn-portrait.webp
+  portrait: images/beings/creatures/bnscrpn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

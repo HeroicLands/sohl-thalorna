@@ -14,10 +14,10 @@ name:
     - Sir Andres Lorca
 packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
-img: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
+  portrait: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)

@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: knstntnsplytms
-img: images/beings/characters/knstntnsplytms-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/knstntnsplytms-portrait.webp
+  portrait: images/beings/characters/knstntnsplytms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cook

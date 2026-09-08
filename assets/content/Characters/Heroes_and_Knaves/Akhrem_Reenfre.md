@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
-img: images/beings/characters/akhremrnfr-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/akhremrnfr-portrait.webp
+  portrait: images/beings/characters/akhremrnfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

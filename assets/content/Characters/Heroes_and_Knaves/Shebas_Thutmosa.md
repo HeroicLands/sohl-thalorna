@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shebsthtms
-img: images/beings/characters/shebsthtms-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shebsthtms-portrait.webp
+  portrait: images/beings/characters/shebsthtms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary

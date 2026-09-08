@@ -13,10 +13,10 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
-img: images/beings/characters/tiryedjetm-portrait.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tiryedjetm-portrait.webp
+  portrait: images/beings/characters/tiryedjetm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
