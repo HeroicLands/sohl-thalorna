@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: seker
-img: icons/seker.svg
+img: icons/takheperu/seker.svg
 name:
   full: "Ritual: Sēker"
   aliases:

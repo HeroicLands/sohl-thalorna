@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: set
-img: icons/set.svg
+img: icons/takheperu/set.svg
 name:
   full: "Ritual: Sét"
   aliases:

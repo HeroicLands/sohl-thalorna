@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: bes
-img: icons/bes.svg
+img: icons/takheperu/bes.svg
 name:
   full: "Ritual: Bēs"
   aliases:

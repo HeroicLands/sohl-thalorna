@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: iset
-img: icons/iset.svg
+img: icons/takheperu/iset.svg
 name:
   full: "Ritual: Íšét"
   aliases:

@@ -7,8 +7,8 @@
 The Twelve were all falling back to default art — `systems/sohl/assets/icons/noun/shield.svg` on the
 faith affiliations, `systems/sohl/assets/icons/other/head-gear.svg` on the `Ritual:` skills — while
 comparable cults elsewhere in the tree carry real artwork. Each of the twelve now declares
-`img: icons/<god>.svg`, which the build resolves to
-**`modules/sohl-thalorna/assets/icons/<god>.svg`**.
+`img: icons/takheperu/<god>.svg`, which the build resolves to
+**`modules/sohl-thalorna/assets/icons/takheperu/<god>.svg`**.
 
 Applied on three surfaces per god, thirty-six notes in all: the **faith affiliation**, the **`Ritual:`
 skill**, and the **deity lore note**.

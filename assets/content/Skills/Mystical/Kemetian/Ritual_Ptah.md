@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: ptah
-img: icons/ptah.svg
+img: icons/takheperu/ptah.svg
 name:
   full: "Ritual: Ptā'h"
   aliases:

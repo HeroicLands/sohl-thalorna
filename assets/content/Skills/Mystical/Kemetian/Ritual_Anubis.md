@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: anubis
-img: icons/anubis.svg
+img: icons/takheperu/anubis.svg
 name:
   full: "Ritual: Ánubís"
   aliases:

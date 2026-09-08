@@ -7,7 +7,7 @@ name:
   full: Íšét
   aliases: []
 shortcode: isetdty
-img: icons/iset.svg
+img: icons/takheperu/iset.svg
 packFolder: deitieskemetian
 ---
 

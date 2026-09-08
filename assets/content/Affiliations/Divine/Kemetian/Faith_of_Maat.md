@@ -81,7 +81,7 @@ name:
     - Má'át
     - Maat
 shortcode: maat
-img: icons/maat.svg
+img: icons/takheperu/maat.svg
 banner: banners/ta-kheperu-banner.webp
 alias: Má'át, Keeper of Truth and Harmony
 packFolder: pantheonskemetian

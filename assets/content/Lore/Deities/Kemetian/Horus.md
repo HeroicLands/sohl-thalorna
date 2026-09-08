@@ -7,7 +7,7 @@ name:
   full: Hórús
   aliases: []
 shortcode: horusdty
-img: icons/horus.svg
+img: icons/takheperu/horus.svg
 packFolder: deitieskemetian
 ---
 
