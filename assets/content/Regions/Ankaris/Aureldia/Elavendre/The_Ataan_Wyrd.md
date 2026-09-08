@@ -12,18 +12,18 @@ data:
     - silvrfrsts
   population: null
 name:
-  full: The At'aan Weird
+  full: The At'aan Wyrd
   aliases:
-    - The Weird
-shortcode: ataanweird
+    - The Wyrd
+shortcode: ataanwyrd
 packFolder: elavendre
 ---
 
-# The At'aan Weird
+# The At'aan Wyrd
 
 A single vast tree standing alone in a clearing of the Silver Forests that nothing else grows in.
 It is older than any Áelendan tribe and older, the shamen say, than the tribes' arrival in the
-land. The tree and the spirit are not distinguished: [[lore-ataanspr|the At'aan Weird]] is what
+land. The tree and the spirit are not distinguished: [[lore-ataanspr|the At'aan Wyrd]] is what
 stands there, and what is spoken to is the tree.
 
 ## Notable Features

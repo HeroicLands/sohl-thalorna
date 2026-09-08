@@ -63,17 +63,17 @@ A handful are known across the tribes and are named here. These are the Kindred 
 likely to hold a standing alliance with, and each is met through its own Spirit Power rather than
 through any rite of the tradition at large.
 
-| Kindred                                                     | Kind        | Seat                                   | Met through                                        |
-| ----------------------------------------------------------- | ----------- | -------------------------------------- | -------------------------------------------------- |
-| [[lore-aranwyspr\|Aranwy of the Long Stair]]                | Water-kin   | [[place-longstair\|The Long Stair]]    | [[skill-aranwysprt\|Aranwy Spirit Power]]          |
-| [[lore-ataanspr\|The At'aan Weird]]                         | Place-kin   | [[place-ataanweird\|The At'aan Weird]] | [[skill-ataansprt\|The At'aan Weird Spirit Power]] |
-| [[lore-awelonspr\|Awelon, the West Wind]]                   | Weather-kin | _none; he is where he blows_           | [[skill-awelonsprt\|Awelon Spirit Power]]          |
-| [[lore-cadwyrspr\|Cadwyr, the Grey Wolf of the Ridge]]      | Animal-kin  | the Drenavar Spine                     | [[skill-cadwyrsprt\|Cadwyr Spirit Power]]          |
-| [[lore-arthgenspr\|Arthgen, the Bear of the High Corries]]  | Animal-kin  | the Drenavar Spine                     | [[skill-arthgensprt\|Arthgen Spirit Power]]        |
-| [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]       | Animal-kin  | the Drenavar Spine                     | [[skill-gwalchensprt\|Gwalchen Spirit Power]]      |
-| [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]     | Animal-kin  | [[place-owlhollow\|The Owl Hollow]]    | [[skill-nyfainsprt\|Nyfain Spirit Power]]          |
-| [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                     | [[skill-rhysgensprt\|Rhysgen Spirit Power]]        |
-| [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | Hearth-kin  | [[place-eshalshldg\|Eshálosha Lodge]]  | [[skill-tanwensprt\|Tanwen Spirit Power]]          |
+| Kindred                                                     | Kind        | Seat                                  | Met through                                       |
+| ----------------------------------------------------------- | ----------- | ------------------------------------- | ------------------------------------------------- |
+| [[lore-aranwyspr\|Aranwy of the Long Stair]]                | Water-kin   | [[place-longstair\|The Long Stair]]   | [[skill-aranwysprt\|Aranwy Spirit Power]]         |
+| [[lore-ataanspr\|The At'aan Wyrd]]                          | Place-kin   | [[place-ataanwyrd\|The At'aan Wyrd]]  | [[skill-ataansprt\|The At'aan Wyrd Spirit Power]] |
+| [[lore-awelonspr\|Awelon, the West Wind]]                   | Weather-kin | _none; he is where he blows_          | [[skill-awelonsprt\|Awelon Spirit Power]]         |
+| [[lore-cadwyrspr\|Cadwyr, the Grey Wolf of the Ridge]]      | Animal-kin  | the Drenavar Spine                    | [[skill-cadwyrsprt\|Cadwyr Spirit Power]]         |
+| [[lore-arthgenspr\|Arthgen, the Bear of the High Corries]]  | Animal-kin  | the Drenavar Spine                    | [[skill-arthgensprt\|Arthgen Spirit Power]]       |
+| [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]       | Animal-kin  | the Drenavar Spine                    | [[skill-gwalchensprt\|Gwalchen Spirit Power]]     |
+| [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]     | Animal-kin  | [[place-owlhollow\|The Owl Hollow]]   | [[skill-nyfainsprt\|Nyfain Spirit Power]]         |
+| [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                    | [[skill-rhysgensprt\|Rhysgen Spirit Power]]       |
+| [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | Hearth-kin  | [[place-eshalshldg\|Eshálosha Lodge]] | [[skill-tanwensprt\|Tanwen Spirit Power]]         |
 
 All five kinds of Kindred have a named exemplar. Tanwen is the one met indoors, and the one every
 Áelendan meets, since every tribe comes to Eshálosha to gather.

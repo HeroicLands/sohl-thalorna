@@ -2,15 +2,15 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with The At'aan Weird — what this allied Kindred is met, asked and bargained with."
+description: "Standing with The At'aan Wyrd — what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: ataansprt
 img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
-  full: "The At'aan Weird Spirit Power"
+  full: "The At'aan Wyrd Spirit Power"
   aliases:
-    - The At'aan Weird
+    - The At'aan Wyrd
 sohl:
   templatePriority: null
   system:
@@ -23,4 +23,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-ataanspr|The At'aan Weird]] — place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-ataanspr|The At'aan Wyrd]] — place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
