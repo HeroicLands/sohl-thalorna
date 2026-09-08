@@ -34,6 +34,10 @@ data:
       an insult at once. What power they have is exerted less on mortals than against the other
       bureaus, whose failures are their territory.
 
+      They dislike being petitioned at all, and a petition they do take up is granted exactly as
+      written rather than as intended: where a celestial bureau fails safe and loses a bad filing,
+      these fail dangerous and honour it.
+
       Internally they are anything but disorderly. A ring is a hierarchy of loyalty, and disloyalty
       is punished harshly and without appeal — death being the ordinary sentence, and undeath the
       one reserved for those whose knowledge the ring is unwilling to lose.
