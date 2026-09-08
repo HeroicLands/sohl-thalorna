@@ -113,7 +113,7 @@ packFolder: organizations
 
 ## Overview
 
-The **Áelendan Wardens** are an ancient order tasked with protecting the sacred sites of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the Kindred Pact — the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself — and their authority over sacred territory is recognized by both Áelendan custom and the crown of Élavendre.
+The **Áelendan Wardens** are an ancient order tasked with protecting the [[lore-aralwen|arálwain]] — the thin places — of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the Kindred Pact — the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself — and their authority over sacred territory is recognized by both Áelendan custom and the crown of Élavendre.
 
 ## Origin and Purpose
 

@@ -181,19 +181,19 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 
 ## Adventure 1: The Heart of Dhiríkri
 
-Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, Alananor Enéwyn, expresses interest in sending a party to the Lællyn to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, Alananor Enéwyn, expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Leader of Panepistemium:
 
 - Name: Alananor Enéwyn
 - Title: Royal Loremaster of Élavendre
 - Background: Alananor is a Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner from Béravel.
-- Ancient Scroll: Alananor possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within Úqua-Lællyn. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
-- Time Navigational Device: Alananor provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Lællyn, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
+- Ancient Scroll: Alananor possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within [[lore-aralwen|Úqua-Arálwen]]. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
+- Time Navigational Device: Alananor provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
 
-### Úqua-Lællyn
+### Úqua-Arálwen
 
-The Úqua-Lællyn is a ‘slow’ zone with deep Terrae resonance — the elemental way of earth, stone, and growth — home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
+The Úqua-Arálwen is a ‘slow’ zone with deep Terrae resonance — the elemental way of earth, stone, and growth — home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
 
 #### Challenge: Temporal Distortion:
 
@@ -209,7 +209,7 @@ Encountering and negotiating or combating Dryads who protect their domain.
 
 #### Deadly Flora
 
-The flora in Úqua-Lællyn is not only gigantic but also potentially deadly, with some plants capable of moving and attacking intruders.
+The flora in Úqua-Arálwen is not only gigantic but also potentially deadly, with some plants capable of moving and attacking intruders.
 
 **Solution:** The party must identify and avoid or neutralize these dangerous plants, possibly utilizing alchemical concoctions to create safe passages.
 
@@ -229,17 +229,17 @@ A crystalline artifact believed to hold the essence of the powerful elemental sp
 
 ### Opposition: Áelendan Wardens
 
-The Áelendan Wardens are elite guardians of the ethereal zones, highly skilled in wilderness survival and archery. They operate in squads, often feared by their enemies. Their primary role is to monitor and protect the Lællyn from any disturbance.
+The Áelendan Wardens are elite guardians of the ethereal zones, highly skilled in wilderness survival and archery. They operate in squads, often feared by their enemies. Their primary role is to monitor and protect the Arálwen from any disturbance.
 
-The Wardens will be aware of the Temporal Compass and will attempt to seize it, either to disrupt the party’s navigation or to prevent time manipulation within the Lællyn.
+The Wardens will be aware of the Temporal Compass and will attempt to seize it, either to disrupt the party’s navigation or to prevent time manipulation within the Arálwen.
 
 #### Role of the Wardens
 
-- **Initial Interception:** The Wardens will attempt to stop the party from reaching Úqua-Lællyn. They believe that meddling with the artifact and the Lællyn could have catastrophic consequences for the natural balance.
-  - **Tactics:** They will set up ambushes and checkpoints along potential entry paths to the Lællyn, using their superior knowledge of the terrain to trap and slow down the party.
-  - **Challenge:** The party must find ways to sneak past or diplomatically engage with the Wardens to gain entry into Úqua-Lællyn.
+- **Initial Interception:** The Wardens will attempt to stop the party from reaching Úqua-Arálwen. They believe that meddling with the artifact and the Arálwen could have catastrophic consequences for the natural balance.
+  - **Tactics:** They will set up ambushes and checkpoints along potential entry paths to the Arálwen, using their superior knowledge of the terrain to trap and slow down the party.
+  - **Challenge:** The party must find ways to sneak past or diplomatically engage with the Wardens to gain entry into Úqua-Arálwen.
 - **Recovery Attempt:** Once the party retrieves the Heart of Dhiríkri, the Áelendan Wardens will try to recover it, fearing the artifact's removal will disrupt the zone's harmonic balance.
-  - **Tactics:** The Wardens may launch a surprise attack on the party as they exit the Lællyn, aiming to reclaim the artifact.
+  - **Tactics:** The Wardens may launch a surprise attack on the party as they exit the Arálwen, aiming to reclaim the artifact.
   - **Challenge:** The party will need to defend themselves and the artifact, using tactical prowess to escape or fend off the Wardens.
 
 This adventure presents a blend of physical navigation, quick thinking, and strategic use of the environment to solve the maze, all while facing external threats and internal dynamics that could affect the mission's success.
