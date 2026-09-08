@@ -16,84 +16,112 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: oligarchy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A criminal enterprise trading in bureaucratic services. There are forms, seals, censers and
+      tribute here as surely as in any temple — but the forms are forged, the seals are cut rather
+      than issued, the censers are unlicensed, and the bureau addressed either does not exist or
+      does not admit to receiving. Standing follows what a person earns and what they can survive
+      being caught at.
+
+      They are organised around the administration's own mechanisms and take open pleasure in
+      wrecking them. They live in the seams — the jurisdictional gaps between bureaus, the
+      categories the Great Sorting left ambiguous, the filings nobody audits — and a forgery that
+      opens a new gap is worth more to a ring than the fee it earned, being a permanent asset and
+      an insult at once. What power they have is exerted less on mortals than against the other
+      bureaus, whose failures are their territory.
+
+      Internally they are anything but disorderly. A ring is a hierarchy of loyalty, and disloyalty
+      is punished harshly and without appeal — death being the ordinary sentence, and undeath the
+      one reserved for those whose knowledge the ring is unwilling to lose.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Recorded
+        lore: expelledrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Noticed: a file opened, the forgery known to the Bureau of All Records, and the ring
+          finished with them. Where an orthodox clerk fears being struck from the rolls, here the
+          catastrophe is being entered on them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Client
+        lore: dependentrnk
+        description: >-
+          Has filed once at an unlicensed censer — for something no bureau would grant, or after a
+          legitimate petition was refused — and is thereby known to people they would rather not
+          be known to.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Copyist of False Forms
+        lore: apprenticernk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          Learning the hand and the counterfeit protocols, and not yet trusted with a document
+          that must survive inspection.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
+        title: Unlicensed Clerk
+        lore: earnerrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          Prepares and files what no temple would accept, and earns for the ring doing it, at
+          rates reflecting the risk rather than the skill.
       - level: 4
-        title: Acolyte
-        lore: initiaternk
+        title: Seal-Forger
+        lore: masterrnk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Cuts and applies stamps the bureaus never issued — the most technically demanding work
+          in the cultus, and the most prosecuted.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Watcher
+        lore: enforcerrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          Keeps the ring ahead of the Celestial Marshals and the archive's inspectors, and settles
+          what is done about a Client who has begun talking — which is the office that carries out
+          the sentence when loyalty fails.
       - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        title: Intendant of a Hidden Censer
+        lore: underbossrnk
+        description: >-
+          Runs a concealed transmission point and the traffic through it, and decides which
+          filings are worth the exposure.
       - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        title: Fallen Functionary
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          One who held celestial office and fell, retaining the true forms, the real seals, and the
+          knowledge of which bureaus do not audit their own filings. Rare, and the reason these
+          rings are more than superstition.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Fallen Functionary: >-
+        A being that held office in the celestial administration and kept its knowledge after
+        falling; the apex of any demonic cultus that has one.
+      Intendant of a Hidden Censer: >-
+        Runs a concealed transmission point, and judges which filings are worth the exposure.
+      Seal-Forger: >-
+        Cuts stamps the bureaus never issued, which is the most technically demanding and most
+        prosecuted work in the cultus.
+      Master of False Forms: >-
+        Holds the counterfeit protocols — the formulae that pass inspection and the addresses that
+        reach something.
+      Keeper of Lost Records: >-
+        Holds what the archive has forgotten, and rules what may be cited from it.
+      Clerk of Transmission: >-
+        Burns the petition at an unlicensed censer, which files it wherever it goes.
+      Receiver of Tribute: >-
+        Takes the sacrifice, which is generally larger here, because the carriage is worse.
+      Gap-Maker: >-
+        Forges not for a client but to shift a boundary and leave a space no bureau oversees. The
+        work pays nothing and is the most prized in the cultus.
+      Watcher: >-
+        Keeps the cultus ahead of the Celestial Marshals and of the Bureau of All Records'
+        inspectors.
+      Yokveng: >-
+        Yokveng — the being this bureau or cultus is organised around.
+  commonSkills:
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore: []
   parents:
     - tngvkvnlei
