@@ -77,6 +77,7 @@ name:
     - The Devouring Shadow
     - The Chaos Serpent
 shortcode: apophis
+img: icons/apophis.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

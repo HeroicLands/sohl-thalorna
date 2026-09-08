@@ -7,6 +7,7 @@ name:
   full: Sét
   aliases: []
 shortcode: setdty
+img: icons/set.svg
 packFolder: deitieskemetian
 ---
 

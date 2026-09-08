@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: ra
+img: icons/ra.svg
 name:
   full: "Ritual: Rā"
   aliases:

@@ -85,6 +85,7 @@ name:
     - The Shaper of the Eternal World
     - The Divine Craftsman
 shortcode: ptah
+img: icons/ptah.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

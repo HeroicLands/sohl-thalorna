@@ -7,6 +7,7 @@ name:
   full: Ptā'h
   aliases: []
 shortcode: ptahdty
+img: icons/ptah.svg
 packFolder: deitieskemetian
 ---
 

@@ -7,6 +7,7 @@ name:
   full: Rā
   aliases: []
 shortcode: radty
+img: icons/ra.svg
 packFolder: deitieskemetian
 ---
 

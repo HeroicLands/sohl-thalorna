@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: horus
+img: icons/horus.svg
 name:
   full: "Ritual: Hórús"
   aliases:

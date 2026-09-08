@@ -7,6 +7,7 @@ name:
   full: Hâpi
   aliases: []
 shortcode: hapidty
+img: icons/hapi.svg
 packFolder: deitieskemetian
 ---
 

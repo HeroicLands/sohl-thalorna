@@ -78,6 +78,7 @@ name:
     - The Golden Reveler
     - The Overflowing One
 shortcode: hapi
+img: icons/hapi.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

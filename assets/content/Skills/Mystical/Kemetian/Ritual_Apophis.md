@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: apophis
+img: icons/apophis.svg
 name:
   full: "Ritual: Ápōphis"
   aliases:

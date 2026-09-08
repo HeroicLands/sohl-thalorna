@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: thoth
+img: icons/thoth.svg
 name:
   full: "Ritual: Thōth"
   aliases:

@@ -69,6 +69,7 @@ name:
   aliases:
     - Sét, Bringer of Tempests
 shortcode: set
+img: icons/set.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
