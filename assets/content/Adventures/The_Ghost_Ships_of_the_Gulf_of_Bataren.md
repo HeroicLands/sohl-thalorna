@@ -21,7 +21,7 @@ packFolder: adventures
 
 # The Ghost Ships of the Gulf of Batáren
 
-Ghost ships appear in the Gulf of Batáren, crewed by the [[doc-thlbestiary#helspawn|Helspawn]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
+Ghost ships appear in the Gulf of Batáren, crewed by the [[lore-helspawncrtr|Helspawn]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
 
 ## Overview
 

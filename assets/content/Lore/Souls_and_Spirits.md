@@ -355,13 +355,13 @@ Necromancy proper produces several kinds of effects, depending on the practition
 
 This is the "I command you to speak from beyond the grave" practice that appears in folk tradition. It is real, it is illegal in most places, and it produces real but limited results. The bound soul is angry, often vague, sometimes deceptive. Information extracted under this kind of compulsion is unreliable.
 
-**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a Helthraal — undead in the standard sense. Helthraals are described in detail in [[doc-thlbestiary#helspawn|Helspawn]].
+**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a Helthraal — undead in the standard sense. Helthraals are described in detail in [[lore-helspawncrtr|Helspawn]].
 
 The simplest form of this work is _fragmentation animation_: the necromancer does not care about the integrity of the soul being pulled and just grabs enough soul-stuff to drive a corpse into motion. The result is an unintelligent Helthraal — a zombie or similar. This is the easiest form of necromancy, achievable by relatively unskilled practitioners. It also damages the soul severely; what was pulled is fragmented, and whatever remains of the original person is destroyed in the process.
 
 More skilful animation seeks to retrieve the soul intact (or nearly so) and bind it to the corpse with more delicacy. This is much harder. It produces Helthraals further along the spectrum of degradation — the Recently Returned, who retain identity and personality, at least at first. This kind of work is what people commission when they want a specific dead person back, knowing the result will be diminished. The diminishment is not optional; even the most skilful necromantic work cannot fully restore the soul to its body's animation. The soul has departed, and the framework binding it back is a poor substitute for the natural body-soul coupling.
 
-**Sponsored Nightwight Creation.** The most sophisticated form of necromantic work is the creation of a Nightwight. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Nightwights are described in detail in [[doc-thlbestiary#helspawn|Helspawn]].
+**Sponsored Nightwight Creation.** The most sophisticated form of necromantic work is the creation of a Nightwight. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Nightwights are described in detail in [[lore-helspawncrtr|Helspawn]].
 
 ### What Necromancy Costs the Practitioner
 
@@ -380,7 +380,7 @@ These costs are sufficient to make necromancy difficult and dangerous as a pract
 
 _Helspawn_ is the universal Thalornan term for undead — beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**Helthraals**) to the most powerful undying lords (**Nightwights**). All are Helspawn.
 
-The Helspawn are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the Helspawn themselves — Helthraals along their spectrum of degradation, Nightwights with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[doc-thlbestiary#helspawn|Helspawn]].
+The Helspawn are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the Helspawn themselves — Helthraals along their spectrum of degradation, Nightwights with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[lore-helspawncrtr|Helspawn]].
 
 The key cosmological points to keep in mind when reading other documents:
 
@@ -391,7 +391,7 @@ The key cosmological points to keep in mind when reading other documents:
 - **All Helspawn degrade over time**, though Nightwights degrade much more slowly than Helthraals.
 - **Nightwights regenerate predatorily**, by harming the living. There is no benign feeding pattern.
 
-For the full treatment, see [[doc-thlbestiary#helspawn|Helspawn]].
+For the full treatment, see [[lore-helspawncrtr|Helspawn]].
 
 ## Aura Damage and Soul Damage
 
@@ -462,5 +462,5 @@ Several practical implications follow from the cosmology established here.
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-godsrelign|Gods and Religion]] — What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
 - [[lore-divineactn|Divine Action]] — How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
-- [[doc-thlbestiary#helspawn|Helspawn]] — The undead in detail: Helthraals, Nightwights, their creation, their politics, and practical guidance for running them
+- [[lore-helspawncrtr|Helspawn]] — The undead in detail: Helthraals, Nightwights, their creation, their politics, and practical guidance for running them
 - Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
