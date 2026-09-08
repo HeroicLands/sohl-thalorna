@@ -5,7 +5,7 @@ tags:
 description: "Standing with the eagle-spirit of the Ngonzi — what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
-shortcode: eaglesprt
+shortcode: eaglengonzisprt
 img: icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Eagle Spirit Power"

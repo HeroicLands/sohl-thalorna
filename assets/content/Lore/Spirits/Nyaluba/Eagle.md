@@ -10,7 +10,7 @@ name:
   aliases:
     - The Eagle Guide
     - Eagle of the Ngonzi
-shortcode: eaglespr
+shortcode: eaglengonzispr
 packFolder: lorespiritsnyaluba
 ---
 

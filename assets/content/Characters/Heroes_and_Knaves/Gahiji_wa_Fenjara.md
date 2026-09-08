@@ -58,7 +58,7 @@ sohl:
     - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: nyalbleop, type: affiliation }
-    - { shortcode: leopardsprt, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: leopardsengalasprt, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: brew, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }

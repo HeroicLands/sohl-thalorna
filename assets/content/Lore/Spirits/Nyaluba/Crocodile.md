@@ -10,7 +10,7 @@ name:
   aliases:
     - The Crocodile Guide
     - Crocodile of the Kambezi
-shortcode: crocodilespr
+shortcode: crocodilekambezispr
 packFolder: lorespiritsnyaluba
 ---
 

@@ -5,7 +5,7 @@ tags:
 description: "Standing with the crocodile-spirit of the Kambezi — what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
-shortcode: crocodilesprt
+shortcode: crocodilekambezisprt
 img: icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Crocodile Spirit Power"

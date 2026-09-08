@@ -59,13 +59,13 @@ data:
       Initiator: >-
         Conductor of the ordeal, undertaken on the escarpment at height.
   commonSkills:
-    - eaglesprt
+    - eaglengonzisprt
   seat: null
   domains: []
   population: null
   economy: []
   lore:
-    - eaglespr
+    - eaglengonzispr
     - nyalbsprts
   parents:
     - nyalbpnthn
@@ -93,8 +93,8 @@ Each Old Kraal has its own Guardian and its own protocols, and entry is refused 
 
 ## See Also
 
-- [[lore-eaglespr|Eagle Spirit]] — the guide as a being, apart from the practices of its cult
-- [[skill-eaglesprt|Eagle Spirit Power]] — the standing through which the guide is asked
+- [[lore-eaglengonzispr|Eagle Spirit]] — the guide as a being, apart from the practices of its cult
+- [[skill-eaglengonzisprt|Eagle Spirit Power]] — the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]] — the seven kinds of guide and the three postures
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the Ngonzi and the other four clans

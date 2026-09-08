@@ -5,7 +5,7 @@ tags:
 description: "Standing with the baobab-spirit of the Bombwe — what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
-shortcode: baobabsprt
+shortcode: baobabbombwesprt
 img: icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Baobab Spirit Power"

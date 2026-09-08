@@ -59,13 +59,13 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made where the herds cross the guide's ground.
   commonSkills:
-    - lionsprt
+    - lionmvuzisprt
   seat: null
   domains: []
   population: null
   economy: []
   lore:
-    - lionspr
+    - lionmvuzispr
     - nyalbsprts
   parents:
     - nyalbpnthn
@@ -95,8 +95,8 @@ Mvuzi men take a single lion-tooth at adulthood, and the taking is the ordeal by
 
 ## See Also
 
-- [[lore-lionspr|Lion Spirit]] — the guide as a being, apart from the practices of its cult
-- [[skill-lionsprt|Lion Spirit Power]] — the standing through which the guide is asked
+- [[lore-lionmvuzispr|Lion Spirit]] — the guide as a being, apart from the practices of its cult
+- [[skill-lionmvuzisprt|Lion Spirit Power]] — the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]] — the seven kinds of guide and the three postures
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the Mvuzi and the other four clans

@@ -10,7 +10,7 @@ name:
   aliases:
     - The Leopard Guide
     - Leopard of the Sengala
-shortcode: leopardspr
+shortcode: leopardsengalaspr
 packFolder: lorespiritsnyaluba
 ---
 

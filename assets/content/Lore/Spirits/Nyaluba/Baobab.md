@@ -10,7 +10,7 @@ name:
   aliases:
     - The Baobab Guide
     - Baobab of the Bombwe
-shortcode: baobabspr
+shortcode: baobabbombwespr
 packFolder: lorespiritsnyaluba
 ---
 

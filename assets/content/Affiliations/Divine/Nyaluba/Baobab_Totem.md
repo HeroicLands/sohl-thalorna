@@ -59,13 +59,13 @@ data:
       Initiator: >-
         Conductor of the ordeal, conducted in the tree's shade over the course of a full day.
   commonSkills:
-    - baobabsprt
+    - baobabbombwesprt
   seat: null
   domains: []
   population: null
   economy: []
   lore:
-    - baobabspr
+    - baobabbombwespr
     - nyalbsprts
   parents:
     - nyalbpnthn
@@ -93,8 +93,8 @@ The tree is the shrine; there is no other. Offerings are made at its root by eac
 
 ## See Also
 
-- [[lore-baobabspr|Baobab Spirit]] — the guide as a being, apart from the practices of its cult
-- [[skill-baobabsprt|Baobab Spirit Power]] — the standing through which the guide is asked
+- [[lore-baobabbombwespr|Baobab Spirit]] — the guide as a being, apart from the practices of its cult
+- [[skill-baobabbombwesprt|Baobab Spirit Power]] — the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]] — the seven kinds of guide and the three postures
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the Bombwe and the other four clans

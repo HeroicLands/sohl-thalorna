@@ -59,13 +59,13 @@ data:
       Initiator: >-
         Conductor of the ordeal, which is conducted in the water.
   commonSkills:
-    - crocodilesprt
+    - crocodilekambezisprt
   seat: null
   domains: []
   population: null
   economy: []
   lore:
-    - crocodilespr
+    - crocodilekambezispr
     - nyalbsprts
   parents:
     - nyalbpnthn
@@ -95,8 +95,8 @@ Each dangerous reach and each ford has its own protocols, its own required offer
 
 ## See Also
 
-- [[lore-crocodilespr|Crocodile Spirit]] — the guide as a being, apart from the practices of its cult
-- [[skill-crocodilesprt|Crocodile Spirit Power]] — the standing through which the guide is asked
+- [[lore-crocodilekambezispr|Crocodile Spirit]] — the guide as a being, apart from the practices of its cult
+- [[skill-crocodilekambezisprt|Crocodile Spirit Power]] — the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]] — the seven kinds of guide and the three postures
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the Kambezi and the other four clans

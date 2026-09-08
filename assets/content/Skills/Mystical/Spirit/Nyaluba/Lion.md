@@ -5,7 +5,7 @@ tags:
 description: "Standing with the lion-spirit of the Mvuzi — what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
-shortcode: lionsprt
+shortcode: lionmvuzisprt
 img: icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Lion Spirit Power"

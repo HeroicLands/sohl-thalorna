@@ -10,7 +10,7 @@ name:
   aliases:
     - The Lion Guide
     - Lion of the Mvuzi
-shortcode: lionspr
+shortcode: lionmvuzispr
 packFolder: lorespiritsnyaluba
 ---
 
