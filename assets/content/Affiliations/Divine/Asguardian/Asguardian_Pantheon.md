@@ -19,77 +19,70 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Most faiths of the pantheon organise their clergy in a ladder of seven to eight circles. The
+      titles differ between faiths — Óðinn's steeped in rune-lore, Thórr's in warband custom, Hél's
+      in the secrecy of the suppressed — but the pattern is consistent: long apprenticeship, service
+      in the working circles, and elevation to a senior rank carrying both spiritual authority and,
+      in many kingdoms, temporal weight. Circle II is unlisted in the sources. Two faiths stand
+      outside the pattern: Baldr's, which adopted the Sinalëan structure, and Ymir's, which has no
+      hierarchy at all.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Níðingr
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Declared nithing — cut off from the faith and from the standing that being of it conferred.
+          No hall will seat them and no goði will speak for them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Thræll
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          The god's thrall: taken into the temple young, given the observances and the labour, and
+          years away from the priesthood.
+      - level: 3
+        title: Goði / Gyðja
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites
+          of a hall and the people who gather at it.
+      - level: 4
+        title: Hersir
+        lore: commanderrnk
+        description: >-
+          A warlord of the faith, carrying its authority where it must be carried by force or by
+          presence.
+      - level: 5
+        title: Jarl
+        lore: greatlordrnk
+        description: >-
+          A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a
+          faith sits among the jarls of the land.
       - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        title: Konungr / Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          King or queen within the faith's own hierarchy, and in some kingdoms a power the crown
+          must reckon with.
       - level: 7
-        title: High Priest
+        title: Allsherjargoði
         lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
+        description: >-
+          High priest — a pontifical office, speaking for the faith where it must speak with one
+          voice.
       - level: 8
-        title: Hierophant
+        title: Faðir / Móðir
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Faðir / Móðir: Highest office of a faith, held by one person as Father or Mother of its god.
+      Allsherjargoði: High priest of a faith, and its voice where it must speak with one.
+      Konungr / Konungrkvinde: King or queen within a faith's hierarchy, often weighing on the
+        crown's.
+      Jarl: Senior rank of a faith, commonly seated among the jarls of the land.
+      Hersir: Warlord of a faith, carrying its authority by force or by presence.
+      Goði / Gyðja: The working priest or priestess of a hall.
+      Thræll: The god's thrall, in the first circle and years from the priesthood.
   commonSkills: []
   seat: null
   domains: []

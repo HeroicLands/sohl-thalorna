@@ -10,79 +10,38 @@ data:
   epithet: The Creator
   symbol: Fragment of the Forge
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      No formal hierarchy and no structured organisation: scattered factions, each attached to a
+      different aspect of Ymir's work, operating independently and united only by admiration of his
+      creative genius. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Discarded
+        lore: expelledrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Put out by a faction — which, since there is no hierarchy to appeal to and no other body
+          that recognises the judgement, means only that this faction is finished with them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Admirer
+        lore: layfaithfulrnk
+        description: >-
+          Holds Ymir's work in awe without attaching to any faction. There is no rite of entry,
+          because there is nothing to enter.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Adherent
+        lore: professedrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
-        lore: initiaternk
-        description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
-        lore: priestrnk
-        description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Attached to one of the scattered factions and doing its work. Standing within a faction is
+          a matter of what a person has made or understood, and is claimed rather than conferred.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Soul Weaver: >-
+        Attempts to understand and guide the process of soul recycling, believing it aids Ymir in
+        refining his creations.
+      Dreadspawn Keeper: >-
+        Studies, protects or controls the Dreadspawn, sometimes forming a perilous bond with them.
+      Echo of the Creator: >-
+        Identifies with Ymir's drive for perfection and pursues it in their own making.
   commonSkills: []
   seat: null
   domains: []

@@ -12,77 +12,69 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A ladder of circles, rising from the young Thræll through the working Goði or Gyðja to the
+      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargoði and the
+      Faðir or Móðir of the god. The titles are this faith's own; the pattern is the pantheon's.
+      Circle II is unlisted in the sources.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Níðingr
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Declared nithing — cut off from the faith and from the standing that being of it
+          conferred. No hall will seat them and no goði will speak for them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Nádr Thræll
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Shadow Thrall" — Shadow Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+      - level: 3
+        title: Dauðr Goði/Goðe
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          "Priest/Priestess of Death" — Void Priest/Priestess. The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Skuggi Hersir
+        lore: commanderrnk
+        description: >-
+          "Shadow Warlord" — Harbinger of Chaos. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Heljar Jarl
+        lore: greatlordrnk
+        description: >-
+          "Jarl of the Underworld" — Warden of the Abyss. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        title: Dauðr Konungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Death King/Queen" — Archshadow. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: High Priest
+        title: Ragnar Allsherjargoði
         lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
+        description: >-
+          "Ragnar High Priest" — Doombringer. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hierophant
+        title: Heljar Faðir/Móðir
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Father/Mother of Hel" — Pontiff of Despair. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Order of the Void: >-
+        A secretive group dedicated to sowing chaos and expanding the influence of the Eye of the Void.
+      Keepers of the Abyss: >-
+        Guardians of the temples and unholy inquisitors, tasked with protecting sacred sites and maintaining the rituals of Hél.
+      Harbingers of Despair: >-
+        Missionaries who spread the doctrine of Hél through fear and terror.
+      Soulweavers: >-
+        Priests specialized in binding souls to Hél's service, both in life and after death.
+      Nightstalkers: >-
+        Elite assassins who carry out Hél's will through targeted killings designed for maximum chaos and impact.
+      Allsherjargoði: >-
+        High priest of the faith, and its voice where it must speak with one.
+      Faðir/Móðir: >-
+        Father or Mother of the god — the highest office, held by one person.
+      Goði/Gyðja: >-
+        The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
   seat: null
   domains: []
