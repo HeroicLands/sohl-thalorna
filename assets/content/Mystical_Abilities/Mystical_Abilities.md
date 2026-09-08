@@ -7,7 +7,7 @@ subType: reference
 shortcode: mysticalability
 tags:
 description: Magical and supernatural powers.
-banner: banners/mysticalability.webp
+banner: systems/sohl/assets/images/banners/mysticalability.webp
 ---
 
 # Mystical Abilities

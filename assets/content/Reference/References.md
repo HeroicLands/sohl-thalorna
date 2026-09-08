@@ -7,7 +7,7 @@ subType: reference
 shortcode: reference
 tags:
 description: Reference materials and source documents.
-banner: banners/reference.webp
+banner: systems/sohl/assets/images/banners/reference.webp
 ---
 
 # References

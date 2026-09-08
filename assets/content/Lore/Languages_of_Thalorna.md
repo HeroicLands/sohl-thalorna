@@ -6,7 +6,7 @@ name:
   aliases:
     - Languages
 shortcode: lnggsthlrn
-banner: banners/language.webp
+banner: systems/sohl/assets/images/banners/language.webp
 ---
 
 # Languages of Thalorna
