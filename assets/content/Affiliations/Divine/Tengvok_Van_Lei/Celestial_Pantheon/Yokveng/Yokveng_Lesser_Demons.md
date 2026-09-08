@@ -21,105 +21,62 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A criminal enterprise trading in bureaucratic services. There are forms, seals, censers and
-      tribute here as surely as in any temple — but the forms are forged, the seals are cut rather
-      than issued, the censers are unlicensed, and the bureau addressed either does not exist or
-      does not admit to receiving. Standing follows what a person earns and what they can survive
-      being caught at.
-
-      They are organised around the administration's own mechanisms and take open pleasure in
-      wrecking them. They live in the seams — the jurisdictional gaps between bureaus, the
-      categories the Great Sorting left ambiguous, the filings nobody audits — and a forgery that
-      opens a new gap is worth more to a ring than the fee it earned, being a permanent asset and
-      an insult at once. What power they have is exerted less on mortals than against the other
-      bureaus, whose failures are their territory.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as
+      in any temple — but the forms are forged, the seals are cut rather than issued, and the censer
+      is unlicensed. A person is lay, or they have been taught, or they can draft — and there is
+      nothing else to be. The Yokveng are not a temple religion and mostly have no temples; a censer
+      in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as
       written rather than as intended: where a celestial bureau fails safe and loses a bad filing,
-      these fail dangerous and honour it.
-
-      Internally they are anything but disorderly. A ring is a hierarchy of loyalty, and disloyalty
-      is punished harshly and without appeal — death being the ordinary sentence, and undeath the
-      one reserved for those whose knowledge the ring is unwilling to lose.
+      these fail dangerous and honour it. What loyalty is owed is enforced without appeal — death
+      ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
       - level: 0
         title: Recorded
         lore: expelledrnk
         description: >-
-          Noticed: a file opened, the forgery known to the Bureau of All Records, and the ring
+          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult
           finished with them. Where an orthodox clerk fears being struck from the rolls, here the
           catastrophe is being entered on them.
       - level: 1
-        title: Client
-        lore: dependentrnk
+        title: Lay
+        lore: layfaithfulrnk
         description: >-
-          Has filed once at an unlicensed censer — for something no bureau would grant, or after a
-          legitimate petition was refused — and is thereby known to people they would rather not
-          be known to.
+          Has petitioned, keeps the small observances, and is thereby known to people they would
+          rather not be known to. Most who deal with the Yokveng never go further.
       - level: 2
-        title: Copyist of False Forms
-        lore: apprenticernk
+        title: Acolyte
+        lore: initiaternk
         description: >-
-          Learning the hand and the counterfeit protocols, and not yet trusted with a document
-          that must survive inspection.
+          Being taught the forms of address, the appeasements and the things that must not appear
+          in the same document; not yet trusted to draft anything that will be burned.
       - level: 3
-        title: Unlicensed Clerk
-        lore: earnerrnk
+        title: Priest
+        lore: priestrnk
         description: >-
-          Prepares and files what no temple would accept, and earns for the ring doing it, at
-          rates reflecting the risk rather than the skill.
-      - level: 4
-        title: Seal-Forger
-        lore: masterrnk
-        description: >-
-          Cuts and applies stamps the bureaus never issued — the most technically demanding work
-          in the cultus, and the most prosecuted.
-      - level: 5
-        title: Watcher
-        lore: enforcerrnk
-        description: >-
-          Keeps the ring ahead of the Celestial Marshals and the archive's inspectors, and settles
-          what is done about a Client who has begun talking — which is the office that carries out
-          the sentence when loyalty fails.
-      - level: 6
-        title: Intendant of a Hidden Censer
-        lore: underbossrnk
-        description: >-
-          Runs a concealed transmission point and the traffic through it, and decides which
-          filings are worth the exposure.
-      - level: 7
-        title: Fallen Functionary
-        lore: grandmasterrnk
-        description: >-
-          One who held celestial office and fell, retaining the true forms, the real seals, and the
-          knowledge of which bureaus do not audit their own filings. Rare, and the reason these
-          rings are more than superstition.
+          Holds this one's particular forms and prohibitions, drafts, files, and keeps whatever
+          censer they can keep — rarely a shrine and almost never a temple. Charges at rates
+          reflecting the risk rather than the skill, because the drafting is the service: a loosely
+          drawn petition is honoured to the letter.
     offices:
-      Fallen Functionary: >-
-        A being that held office in the celestial administration and kept its knowledge after
-        falling; the apex of any demonic cultus that has one.
-      Intendant of a Hidden Censer: >-
-        Runs a concealed transmission point, and judges which filings are worth the exposure.
+      Keeper of the Forms: >-
+        Holds the forms of address and appeasements particular to this one, which cannot be
+        improvised and are taught to very few.
       Seal-Forger: >-
-        Cuts stamps the bureaus never issued, which is the most technically demanding and most
-        prosecuted work in the cultus.
-      Master of False Forms: >-
-        Holds the counterfeit protocols — the formulae that pass inspection and the addresses that
-        reach something.
-      Keeper of Lost Records: >-
-        Holds what the archive has forgotten, and rules what may be cited from it.
+        Cuts and applies stamps the bureaus never issued — the most technically demanding work, and
+        the most prosecuted.
       Clerk of Transmission: >-
         Burns the petition at an unlicensed censer, which files it wherever it goes.
       Receiver of Tribute: >-
-        Takes the sacrifice, which is generally larger here, because the carriage is worse.
+        Takes the sacrifice, which is generally larger here, because the carriage is worse and the
+        risk is real.
       Gap-Maker: >-
-        Forges not for a client but to shift a boundary and leave a space no bureau oversees. The
-        work pays nothing and is the most prized in the cultus.
+        Forges not for a supplicant but to shift a boundary and leave a space no bureau oversees.
+        The work pays nothing and is the most prized in the cultus.
       Watcher: >-
-        Keeps the cultus ahead of the Celestial Marshals and of the Bureau of All Records'
-        inspectors.
-      Yōkvëng Lesser Demons: >-
-        The Lesser Demons — Yōkvëng — the being this bureau or cultus is organised around.
+        Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries
+        out the sentence when loyalty fails.
   commonSkills:
     - tngthkscrpt
     - draw
