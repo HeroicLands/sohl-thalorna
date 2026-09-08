@@ -97,7 +97,7 @@ data:
   commonSkills:
     - nordmalng
     - valtarlng
-  seat: calypsa2
+  seat: calypsacity
   domains:
     - aureldirgn
   population: 1000000
