@@ -67,7 +67,7 @@ data:
   domains: []
   population: null
   economy:
-    - perhati
+    - affiliation-perhati
   lore:
     - ptahdty
   parents:

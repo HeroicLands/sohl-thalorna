@@ -109,6 +109,7 @@ data:
     - deltanomes
   relations:
     kemtnpnthn: aligned
+    hapi: aligned
 sohl:
   templatePriority: null
 packFolder: perankhet

@@ -78,7 +78,7 @@ data:
   domains: []
   population: null
   economy:
-    - perhati
+    - affiliation-perhati
   lore:
     - radty
   parents:

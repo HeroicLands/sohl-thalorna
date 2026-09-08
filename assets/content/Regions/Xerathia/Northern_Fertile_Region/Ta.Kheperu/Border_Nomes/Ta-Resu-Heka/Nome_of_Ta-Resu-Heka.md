@@ -109,6 +109,7 @@ data:
     - bordernoms
   relations:
     kemtnpnthn: aligned
+    mentu: aligned
 sohl:
   templatePriority: null
 packFolder: taresuheka

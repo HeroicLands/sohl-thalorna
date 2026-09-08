@@ -95,7 +95,12 @@ data:
     - affiliation-magnumclgm
   lore: []
   parents: []
-  relations: {}
+  relations:
+    anhur: aligned
+    shesmu: aligned
+    sobek: aligned
+    sekhetneru: aligned
+    permesnu: aligned
 sohl:
   templatePriority: null
 ---
@@ -154,7 +159,7 @@ The guild teaches three principles, drilled into apprentices from the first seas
 - **The Hunter's Honesty** — that the report of a hunt is as binding as the hunt itself. A member who falsifies game counts, returns conditions, or pricing is subject to revocation.
 - **The Hunter's Respect** — that the beast hunted is a creature of the Per-Aá's lands, and that wantonness in its killing offends both the gods and the imperial order. Kills are conducted with the speed and efficiency that the beast's nature permits.
 
-The third principle has religious resonance: the Ta'Kheperan pantheon includes deities (notably [[Faith_of_Anhur|Anhur]] and [[Faith_of_Shesmu|Shesmu]]) whose patronage of the hunt is understood to include scrutiny of the hunter's conduct. The guild's senior elevations include rites at both temples, performed in tandem.
+The third principle has religious resonance: the Ta'Kheperan pantheon includes deities (notably [[affiliation-anhur|Anhur]] and [[affiliation-shesmu|Shesmu]]) whose patronage of the hunt is understood to include scrutiny of the hunter's conduct. The guild's senior elevations include rites at both temples, performed in tandem.
 
 ## Operations
 
@@ -170,7 +175,7 @@ The third principle has religious resonance: the Ta'Kheperan pantheon includes d
 - **The Medjay caste** — formal coexistence; mutual non-interference reinforced by informal payments and courtesies.
 - **The [[affiliation-sekhetneru|Sekhet'Neru]]** — peer Ta'Kheperan hunting institution; jurisdictional accommodation along the Taméresh.
 - **[[affiliation-permesnu|Per'Mesnu]]** — sibling imperial chartered guild; cooperative relations, joint procurement of certain materials (the guild's hunters need blades and traps; the smiths' suppliers need hides).
-- **The Temples of [[Faith_of_Anhur|Anhur]] and [[Faith_of_Shesmu|Shesmu]]** — religious foundation; senior elevations conducted in temple rite.
+- **The Temples of [[affiliation-anhur|Anhur]] and [[affiliation-shesmu|Shesmu]]** — religious foundation; senior elevations conducted in temple rite.
 
 ## Identifying Marks
 

@@ -70,7 +70,7 @@ data:
   domains: []
   population: null
   economy:
-    - perhati
+    - affiliation-perhati
   lore:
     - anubisdty
   parents:

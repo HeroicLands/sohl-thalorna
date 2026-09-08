@@ -115,7 +115,7 @@ data:
   domains: []
   population: null
   economy:
-    - perhati
+    - affiliation-perhati
   lore: []
   parents: []
   relations: {}
@@ -160,6 +160,21 @@ Every major temple in Ta'Kheperu follows the same three-rank hierarchy, a struct
 - **Hem'Netjer** ("Servant of the God") — the ordained priesthood, the working body of the temple. Hem'Netjer conduct daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and administer the temple's role in local governance.
 
 - **Wab** ("Purified One") — acolytes and initiates undergoing the long process of temple education. A Wab enters the temple school as a child or youth and spends years studying sacred texts, ritual practice, history, mathematics, medicine, and the reading of omens before ordination.
+
+## The Nome Gods
+
+The Twelve are the theology; they are not the whole of the religion. Every nome has its own patron deity, and several of the forty-odd patrons are gods who stand outside the canonical Twelve altogether — local powers with real temples, real priesthoods, and in some cases a reach the valley cults never acquired. The Kheperi see no difficulty in this: they hold their gods too vast to be captured by any single cult, and the empire's religious history is one of continuous synthesis, absorption, and reinterpretation.
+
+| God                                | Domain                         | Where                                                                             |
+| ---------------------------------- | ------------------------------ | --------------------------------------------------------------------------------- |
+| **[[affiliation-mentu\|Mentu]]**   | War                            | Patron of four border nomes; the war-temple at [[place-behen\|Behen]]             |
+| **[[affiliation-sobek\|Sobek]]**   | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river      |
+| **[[affiliation-wadjit\|Wadjit]]** | The marsh                      | The delta papyrus nome, whose reed-beds are the empire's paper                    |
+| **[[affiliation-min\|Min]]**       | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults      |
+| **[[affiliation-anhur\|Anhur]]**   | The hunt                       | Paired with Shesmu as the religious foundation of [[affiliation-pernuw\|Per'Nuw]] |
+| **[[affiliation-shesmu\|Shesmu]]** | The hunt                       | Paired with Anhur; neither temple's rite counts without the other                 |
+
+Mentu is the clearest case of a cult whose strength is geographic rather than doctrinal: the war-god is patron of four of the ten border nomes and rare in the gentler valley, his worship strongest exactly where the empire's writ is thinnest. Sobek's is the sharpest tension — the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one.
 
 ## The Cosmic Order
 
