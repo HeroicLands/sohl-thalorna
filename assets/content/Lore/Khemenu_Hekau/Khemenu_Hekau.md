@@ -62,6 +62,32 @@ Neither priesthood is much troubled by the other's existence. The Ordo has no pr
 and no prospect of gaining one; the Kheperi priesthood regards its agents as arrogant amateurs, and
 the few who have tried to recruit Kheperi practitioners have been politely and firmly expelled.
 
+## The Eight
+
+Each domain is held by a **House** — the body a practitioner belongs to, and the keeper of that
+domain's forms. Seven are entered by initiation; the eighth is not entered at all.
+
+| House                                    | Domain | Scope                                                            |
+| ---------------------------------------- | ------ | ---------------------------------------------------------------- |
+| **[[affiliation-mekhat\|Per-Mekhat]]**   | Order  | Law, judgement, binding, wards, oaths, the weighing of the heart |
+| **[[affiliation-isfet\|Per-Isfet]]**     | Chaos  | Unmaking, decay, curses, the serpent, entropy                    |
+| **[[affiliation-aten\|Per-Aten]]**       | Sun    | Light, sight, the heat of heaven, kingship, vitality, the day    |
+| **[[affiliation-duat\|Per-Duat]]**       | Duat   | The dead, passage, gates, resurrection, the night                |
+| **[[affiliation-kemet\|Per-Kemet]]**     | River  | Water, fertility, growth, healing, abundance                     |
+| **[[affiliation-deshret\|Per-Deshret]]** | Desert | Fire, drought, storm, endurance, plague, the wandering           |
+| **[[affiliation-ren\|Per-Ren]]**         | Name   | Speech, writing, true names, knowledge, memory, mind             |
+| **[[affiliation-khat\|Per-Khat]]**       | Form   | Craft, stone, flesh, shaping, animation, transformation          |
+
+The Houses share one ladder — **Wab of the House**, who learns the names and may not set them down;
+**Hekau**, who may speak and inscribe; **Kher-Heb**, the lector who carries the book and holds the
+restricted forms; and **Wer Kher-Heb**, chief lector at a temple and answerable for every form its
+practitioners set down. Below them all is **Name Struck**: expelled, and the record of the teaching
+erased, which in this tradition is the whole of the sentence.
+
+**Per-Ren and Per-Khat take their names from the two soul-components the funerary rites already
+preserve** — the _ren_ that is inscribed and the _khat_ that is embalmed. The pairing was not
+invented for the philosophy; the philosophy noticed it.
+
 ## The Frame: Order and Chaos
 
 The eight are not eight equal parts. Two of them are the frame, and six work inside it.
@@ -184,6 +210,9 @@ a tradition where power is correct address, the library _is_ the armoury.
 ## See Also
 
 - [[lore-hexhodai|Héx Hodäi]] — the western six-fold partition of the same Dýnaris
+- [[affiliation-mekhat|Per-Mekhat]] · [[affiliation-isfet|Per-Isfet]] · [[affiliation-aten|Per-Aten]] ·
+  [[affiliation-duat|Per-Duat]] · [[affiliation-kemet|Per-Kemet]] · [[affiliation-deshret|Per-Deshret]] ·
+  [[affiliation-ren|Per-Ren]] · [[affiliation-khat|Per-Khat]] — the eight Houses
 - [[affiliation-kemtnpnthn|Kemetían Pantheon]] — the theology the eight domains are drawn from
 - [[place-khemenu|Khemenu]] — the tradition's seat
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — magic, priesthood, and the temple education

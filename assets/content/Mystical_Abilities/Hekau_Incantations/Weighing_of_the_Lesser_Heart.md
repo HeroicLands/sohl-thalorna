@@ -1,0 +1,27 @@
+---
+tags:
+  - khemenu-hekau
+  - incantation
+name:
+  full: Weighing of the Lesser Heart
+  aliases: []
+description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."
+shortcode: wghnglssrhr
+type: mysticalability
+subType: arcaneincantation
+sohl:
+  templatePriority: null
+  system:
+    assocSkillCode: mekhat
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
+packFolder: hekauincantations
+---
+
+A deliberate small echo of the judgment after death, and named to be one. The subject may still
+refuse to answer; what they cannot do is answer falsely without every witness perceiving the
+falsehood as a physical heaviness in the room. It is admissible in a Kenbet and used sparingly,
+since a court that leans on it too often is understood to have stopped doing its own work.
