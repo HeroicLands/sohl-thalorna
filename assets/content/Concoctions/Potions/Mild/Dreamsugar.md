@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Hallucinogenic, Mild
 description: "Hazy opalescent liquid; induces dreaming and altered consciousness."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnHalM
 type: concoctiongear
 subType: exotic

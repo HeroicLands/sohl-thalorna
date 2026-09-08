@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: klnkszygmls
-img: icons/person.svg
+img: images/beings/characters/klnkszygmls-portrait.webp
 type: being
 data:
   portrait: images/being/klnkszygmls-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Feathercrest Velon
   aliases: []
 description: "A four-foot iridescent-plumed pack predator of dense forests and rocky highlands, aggressively territorial and cunning in its hunts."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/fthrcrst-portrait.webp
 shortcode: fthrcrst
 type: being
 data:

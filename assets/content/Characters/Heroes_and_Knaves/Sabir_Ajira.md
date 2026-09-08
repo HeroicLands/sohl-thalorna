@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: sabirajira
-img: icons/person.svg
+img: images/beings/characters/sabirajira-portrait.webp
 type: being
 data:
   portrait: images/being/sabirajira-portrait.webp

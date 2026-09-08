@@ -5,7 +5,7 @@ name:
   aliases:
     - Icewalk
 description: "Caster descends slowly; falls without impact or harm sustained."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: glide
 type: mysticalability
 subType: arcaneincantation

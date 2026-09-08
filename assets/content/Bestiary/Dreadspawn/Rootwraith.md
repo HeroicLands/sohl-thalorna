@@ -5,7 +5,7 @@ name:
   full: Rootwraith
   aliases: []
 description: "A territorial mass of corrupted vegetation and ancient malice that rises from the soil of deep forests to punish intruders."
-img: icons/game-icons/lorc/spectre.svg
+img: images/beings/creatures/rtwrth-portrait.webp
 shortcode: rtwrth
 type: being
 data:

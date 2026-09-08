@@ -12,7 +12,7 @@ name:
     - Garrick Stonebreaker
 packFolder: midhalionharad
 shortcode: aruzankamm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/aruzankamm-portrait.webp

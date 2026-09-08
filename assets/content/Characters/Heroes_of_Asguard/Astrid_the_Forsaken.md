@@ -14,7 +14,7 @@ name:
   home: null
 packFolder: ankarisvrystwald
 shortcode: astrdfrskn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/astrdfrskn-portrait.webp

@@ -12,7 +12,7 @@ name:
     - Garrick Ironwood
 packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thalrkhlrn-portrait.webp

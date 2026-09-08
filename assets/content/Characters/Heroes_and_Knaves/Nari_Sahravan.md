@@ -13,7 +13,7 @@ name:
     - The Desert Mystic
 packFolder: ankariskhazryndesert
 shortcode: narisahrvn
-img: icons/person.svg
+img: images/beings/characters/narisahrvn-portrait.webp
 type: being
 data:
   portrait: images/being/narisahrvn-portrait.webp

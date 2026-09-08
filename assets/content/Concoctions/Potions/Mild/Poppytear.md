@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Narcotic, Mild
 description: "Pale cream draft; induces drowsiness and peaceful sleep."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnNarM
 type: concoctiongear
 subType: exotic

@@ -14,7 +14,7 @@ name:
     - the Rogue Skald
 packFolder: ankarisnordlands
 shortcode: dagmrwndrr
-img: icons/person.svg
+img: images/beings/characters/dagmrwndrr-portrait.webp
 type: being
 data:
   portrait: images/being/dagmrwndrr-portrait.webp

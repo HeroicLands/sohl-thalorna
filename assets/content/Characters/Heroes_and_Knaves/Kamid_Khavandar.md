@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr
-img: icons/person.svg
+img: images/beings/characters/kamdkhvndr-portrait.webp
 type: being
 data:
   portrait: images/being/kamdkhvndr-portrait.webp

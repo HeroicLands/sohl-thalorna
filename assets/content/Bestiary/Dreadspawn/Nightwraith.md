@@ -5,7 +5,7 @@ name:
   full: Nightwraith
   aliases: []
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
-img: icons/game-icons/lorc/spectre.svg
+img: images/beings/creatures/nghtwrth-portrait.webp
 shortcode: nghtwrth
 type: being
 data:

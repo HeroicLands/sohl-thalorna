@@ -5,7 +5,7 @@ name:
   full: Shardbeak
   aliases: []
 description: "A crystalline arcane bird drawn to nodes of raw magical power, feeding on arcane energy the way natural birds feed on seed."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/shrdbk-portrait.webp
 shortcode: shrdbk
 type: being
 data:

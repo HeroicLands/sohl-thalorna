@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: isidrmlsns
-img: icons/person.svg
+img: images/beings/characters/isidrmlsns-portrait.webp
 type: being
 data:
   portrait: images/being/isidrmlsns-portrait.webp

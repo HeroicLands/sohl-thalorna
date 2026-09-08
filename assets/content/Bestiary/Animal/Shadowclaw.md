@@ -5,7 +5,7 @@ name:
   full: Shadowclaw
   aliases: []
 description: "A highly intelligent pack-hunting reptile up to twelve feet long, coordinating sophisticated ambushes across jungles and rocky valleys as an apex predator."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/shdwclw-portrait.webp
 shortcode: shdwclw
 type: being
 data:

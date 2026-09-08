@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlndrskyrks
-img: icons/person.svg
+img: images/beings/characters/phlndrskyrks-portrait.webp
 type: being
 data:
   portrait: images/being/phlndrskyrks-portrait.webp

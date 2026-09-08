@@ -5,7 +5,7 @@ name:
   aliases:
     - Thúravardh
 description: "The old Áelendan runes — the softened western branch of the graven work, kept alive in magical texts, poetry, and things too old to rewrite."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thrvrdhscrpt
 type: skill
 subType: script

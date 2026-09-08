@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: renuternfr
-img: icons/person.svg
+img: images/beings/characters/renuternfr-portrait.webp
 type: being
 data:
   portrait: images/being/renuternfr-portrait.webp

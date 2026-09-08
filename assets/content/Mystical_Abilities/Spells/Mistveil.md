@@ -5,7 +5,7 @@ name:
   aliases:
     - Vapour
 description: "Fog obscuring large area; hides enemies and muffles sound."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: mistveil
 type: mysticalability
 subType: arcaneincantation

@@ -12,7 +12,7 @@ name:
     - Garrick Stoneforge
 packFolder: ankarisvrystwald
 shortcode: vthrhldvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vthrhldvth-portrait.webp

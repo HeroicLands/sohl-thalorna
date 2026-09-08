@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: rznshmrvrn
-img: icons/person.svg
+img: images/beings/characters/rznshmrvrn-portrait.webp
 type: being
 data:
   portrait: images/being/rznshmrvrn-portrait.webp

@@ -11,7 +11,7 @@ name:
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/grlfdrthgr-portrait.webp
 type: being
 data:
   portrait: images/being/grlfdrthgr-portrait.webp

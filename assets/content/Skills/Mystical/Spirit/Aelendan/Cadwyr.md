@@ -6,7 +6,7 @@ description: "Standing with Cadwyr, the Grey Wolf of the Ridge — what this all
 type: skill
 subType: mystical
 shortcode: cadwyrsprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Cadwyr Spirit Power"
   aliases:

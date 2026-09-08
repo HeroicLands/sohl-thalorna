@@ -5,7 +5,7 @@ name:
   full: Komodo Behemoth
   aliases: []
 description: "A ton-heavy reptilian predator up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
-img: icons/game-icons/lorc/gecko.svg
+img: images/beings/creatures/kmdbhmth-portrait.webp
 shortcode: kmdbhmth
 type: being
 data:

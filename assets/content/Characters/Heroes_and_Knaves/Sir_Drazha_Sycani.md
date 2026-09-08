@@ -14,7 +14,7 @@ name:
     - Sir Drazha Sycani
 packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
-img: icons/person.svg
+img: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
 type: being
 data:
   portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp

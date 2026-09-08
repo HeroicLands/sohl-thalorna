@@ -14,7 +14,7 @@ name:
     - The Hound of the Veil
 packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
-img: icons/person.svg
+img: images/beings/characters/zahirmlkht-portrait.webp
 type: being
 data:
   portrait: images/being/zahirmlkht-portrait.webp

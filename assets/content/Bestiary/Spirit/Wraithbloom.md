@@ -5,7 +5,7 @@ name:
   full: Wraithbloom
   aliases: []
 description: "The animated spirit of ancient magic-steeped plants, haunting old groves and sacred gardens where the veil between living and dead has worn thin."
-img: icons/game-icons/lorc/werewolf.svg
+img: images/beings/creatures/wrthblm-portrait.webp
 shortcode: wrthblm
 type: being
 data:

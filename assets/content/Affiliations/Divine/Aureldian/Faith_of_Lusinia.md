@@ -71,7 +71,7 @@ name:
     - The World-Weaver
     - Lúsinía
 shortcode: lusinia
-img: images/affiliation/lusinia.webp
+img: images/affiliation/aureldian/lusinia.webp
 packFolder: pantheonsaureldian
 ---
 

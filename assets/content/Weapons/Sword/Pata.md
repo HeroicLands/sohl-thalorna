@@ -4,7 +4,7 @@ name:
   full: Pata
   aliases: []
 description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
-img: icons/sword.svg
+img: systems/sohl/assets/icons/other/sword.svg
 shortcode: Pata
 type: weapongear
 sohl:

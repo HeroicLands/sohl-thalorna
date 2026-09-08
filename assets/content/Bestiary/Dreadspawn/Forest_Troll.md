@@ -5,7 +5,7 @@ name:
   full: Forest Troll
   aliases: []
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
-img: icons/game-icons/skoll/troll.svg
+img: images/beings/creatures/frsttrll-portrait.webp
 shortcode: frsttrll
 type: being
 data:

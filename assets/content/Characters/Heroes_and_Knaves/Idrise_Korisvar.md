@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
-img: icons/person.svg
+img: images/beings/characters/idriskrsvr-portrait.webp
 type: being
 data:
   portrait: images/being/idriskrsvr-portrait.webp

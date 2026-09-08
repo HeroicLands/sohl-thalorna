@@ -12,7 +12,7 @@ name:
     - Thalos Graymoor
 packFolder: aureldiaaelwyth
 shortcode: alfrdbrnwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/alfrdbrnwl-portrait.webp

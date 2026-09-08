@@ -13,7 +13,7 @@ name:
     - Ermina Froban
 packFolder: ankarisvrystwald
 shortcode: erminfrdbn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/erminfrdbn-portrait.webp

@@ -6,7 +6,7 @@ description: "Standing with Kivuli cha Msitu, zohira of the hunt — what this e
 type: skill
 subType: mystical
 shortcode: kivulisprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Kivuli cha Msitu Spirit Power"
   aliases:

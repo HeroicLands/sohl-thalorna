@@ -5,7 +5,7 @@ name:
   full: Frostmaw
   aliases: []
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/frostmaw-portrait.webp
 shortcode: frostmaw
 type: being
 data:

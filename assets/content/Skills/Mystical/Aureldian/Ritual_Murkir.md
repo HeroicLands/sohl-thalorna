@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: murkir
-img: images/affiliation/murkir.webp
+img: images/affiliation/aureldian/murkir.webp
 name:
   full: "Ritual: Murkir"
   aliases:

@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sgrthrhfrngr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sgrthrhfrngr-portrait.webp

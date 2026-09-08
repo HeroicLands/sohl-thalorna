@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: erythnslnds
-img: icons/person.svg
+img: images/beings/characters/erythnslnds-portrait.webp
 type: being
 data:
   portrait: images/being/erythnslnds-portrait.webp

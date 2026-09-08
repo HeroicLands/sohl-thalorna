@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: tarelblthl
-img: icons/person.svg
+img: images/beings/characters/tarelblthl-portrait.webp
 type: being
 data:
   portrait: images/being/tarelblthl-portrait.webp

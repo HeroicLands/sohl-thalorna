@@ -5,7 +5,7 @@ name:
   full: Voidserpent
   aliases: []
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
-img: icons/game-icons/lorc/snake.svg
+img: images/beings/creatures/vdsrpnt-portrait.webp
 shortcode: vdsrpnt
 type: being
 data:

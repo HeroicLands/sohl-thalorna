@@ -5,7 +5,7 @@ name:
   full: Abyssdrake
   aliases: []
 description: "A rare, intelligent draconic ambush predator of lightless depths that guards sunken ruins, trenches, and corrupted underwater sanctuaries."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: images/beings/creatures/abyssdrk-portrait.webp
 shortcode: abyssdrk
 type: being
 data:

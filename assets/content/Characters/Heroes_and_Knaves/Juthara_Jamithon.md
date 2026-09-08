@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
-img: icons/person.svg
+img: images/beings/characters/juthrjmthn-portrait.webp
 type: being
 data:
   portrait: images/being/juthrjmthn-portrait.webp

@@ -71,7 +71,7 @@ name:
     - Mistress of the Waning Moon
     - Mórváná
 shortcode: morvana
-img: images/affiliation/morvana.webp
+img: images/affiliation/aureldian/morvana.webp
 packFolder: pantheonsaureldian
 ---
 

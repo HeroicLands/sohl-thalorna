@@ -4,7 +4,7 @@ name:
   full: Flame
   aliases: []
 description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
-img: icons/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: flame
 type: mysticalability
 subType: arcaneincantation

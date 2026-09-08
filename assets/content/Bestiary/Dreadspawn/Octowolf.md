@@ -5,7 +5,7 @@ name:
   full: Octowolf
   aliases: []
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
-img: icons/game-icons/lorc/wolf-head.svg
+img: images/beings/creatures/octowolf-portrait.webp
 shortcode: octowolf
 type: being
 data:

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Psychometry
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: phyc
 type: mysticalability
 subType: arcanetalent

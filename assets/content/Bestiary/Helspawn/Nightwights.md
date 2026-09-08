@@ -5,7 +5,7 @@ name:
   full: Nightwights
   aliases: []
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
-img: icons/game-icons/delapouite/person.svg
+img: images/beings/creatures/nghtwght-portrait.webp
 shortcode: nghtwght
 type: being
 data:

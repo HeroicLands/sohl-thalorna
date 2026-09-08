@@ -13,7 +13,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
-img: icons/person.svg
+img: images/beings/characters/tiryedjetm-portrait.webp
 type: being
 data:
   portrait: images/being/tiryedjetm-portrait.webp

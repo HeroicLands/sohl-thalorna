@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr
-img: icons/person.svg
+img: images/beings/characters/anrjhrdvmbjkr-portrait.webp
 type: being
 data:
   portrait: images/being/anrjhrdvmbjkr-portrait.webp

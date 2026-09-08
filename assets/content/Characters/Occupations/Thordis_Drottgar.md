@@ -12,7 +12,7 @@ name:
     - Liora Ashdown
 packFolder: ankarisnordlands
 shortcode: thrdsdrtgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thrdsdrtgr-portrait.webp

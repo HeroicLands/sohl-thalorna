@@ -5,7 +5,7 @@ name:
   aliases:
     - Vedyákshara
 description: "The forty-eight syllables of Vedyara — a temple script for law, lineage and liturgy, with a running hand for the caravan."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: vdykshrscrpt
 type: skill
 subType: script

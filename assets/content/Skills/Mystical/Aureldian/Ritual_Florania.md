@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: florania
-img: images/affiliation/florania.webp
+img: images/affiliation/aureldian/florania.webp
 name:
   full: "Ritual: Flórania"
   aliases:

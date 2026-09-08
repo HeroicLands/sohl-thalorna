@@ -71,7 +71,7 @@ name:
     - The Bountiful One
     - Vénusia
 shortcode: venusia
-img: images/affiliation/venusia.webp
+img: images/affiliation/aureldian/venusia.webp
 packFolder: pantheonsaureldian
 ---
 

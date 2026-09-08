@@ -5,7 +5,7 @@ name:
   full: Rockscale Anklyte
   aliases: []
 description: "A quadrupedal herbivore over 800 pounds and twelve feet long, grazing sparse badland vegetation yet defending its ground with overwhelming force."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/rcksclan-portrait.webp
 shortcode: rcksclan
 type: being
 data:

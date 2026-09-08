@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: alyrklmrth
-img: icons/person.svg
+img: images/beings/characters/alyrklmrth-portrait.webp
 type: being
 data:
   portrait: images/being/alyrklmrth-portrait.webp

@@ -6,7 +6,7 @@ name:
     - Nyáluban
     - Nyaluban
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: nyalbnlng
 type: skill
 subType: language

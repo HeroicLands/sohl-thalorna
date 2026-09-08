@@ -13,7 +13,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
-img: icons/person.svg
+img: images/beings/characters/pashrhtrmt-portrait.webp
 type: being
 data:
   portrait: images/being/pashrhtrmt-portrait.webp

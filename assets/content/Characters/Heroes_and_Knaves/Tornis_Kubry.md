@@ -13,7 +13,7 @@ name:
     - Calen
 packFolder: aureldiatarvenia
 shortcode: torniskbry
-img: icons/person.svg
+img: images/beings/characters/torniskbry-portrait.webp
 type: being
 data:
   portrait: images/being/torniskbry-portrait.webp

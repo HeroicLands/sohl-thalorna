@@ -13,7 +13,7 @@ name:
     - the Seiðr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: icons/person.svg
+img: images/beings/characters/grosdrnrgd-portrait.webp
 type: being
 data:
   portrait: images/being/grosdrnrgd-portrait.webp

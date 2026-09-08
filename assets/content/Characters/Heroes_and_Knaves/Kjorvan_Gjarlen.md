@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
-img: icons/person.svg
+img: images/beings/characters/kjrvngjrln-portrait.webp
 type: being
 data:
   portrait: images/being/kjrvngjrln-portrait.webp

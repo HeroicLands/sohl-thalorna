@@ -87,7 +87,7 @@ data:
     sideros: aligned
     pyrethos: aligned
 shortcode: pneumenos
-img: images/affiliation/pneumenos.webp
+img: images/affiliation/hex-hodai/pneumenos.webp
 name:
   full: Pneuménos
   aliases:

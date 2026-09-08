@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: palvdrvksh
-img: icons/person.svg
+img: images/beings/characters/palvdrvksh-portrait.webp
 type: being
 data:
   portrait: images/being/palvdrvksh-portrait.webp

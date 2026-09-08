@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: carengrvth
-img: icons/person.svg
+img: images/beings/characters/carengrvth-portrait.webp
 type: being
 data:
   portrait: images/being/carengrvth-portrait.webp

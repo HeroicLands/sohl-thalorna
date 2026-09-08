@@ -87,7 +87,7 @@ data:
     zepharis: aligned
     hydalis: aligned
 shortcode: physera
-img: images/affiliation/physera.webp
+img: images/affiliation/hex-hodai/physera.webp
 name:
   full: Physéra
   aliases:

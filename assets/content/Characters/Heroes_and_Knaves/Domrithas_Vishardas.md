@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: dmrthsvshrds
-img: icons/person.svg
+img: images/beings/characters/dmrthsvshrds-portrait.webp
 type: being
 data:
   portrait: images/being/dmrthsvshrds-portrait.webp

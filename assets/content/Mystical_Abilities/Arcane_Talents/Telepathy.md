@@ -3,7 +3,7 @@ tags: []
 name:
   full: Telepathy
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: telp
 type: mysticalability
 subType: arcanetalent

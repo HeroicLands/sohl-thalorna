@@ -59,7 +59,7 @@ name:
   aliases:
     - The Luminous Path
 shortcode: baldr
-img: images/affiliation/baldr.webp
+img: images/affiliation/asguardian/baldr.webp
 sohl:
   templatePriority: null
 thalorna:

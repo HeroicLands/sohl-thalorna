@@ -6,7 +6,7 @@ description: "Standing with The At'aan Weird — what this allied Kindred is met
 type: skill
 subType: mystical
 shortcode: ataansprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "The At'aan Weird Spirit Power"
   aliases:

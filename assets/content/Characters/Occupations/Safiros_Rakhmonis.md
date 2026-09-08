@@ -12,7 +12,7 @@ name:
     - Berwin Greenfield
 packFolder: helladhelionis
 shortcode: sfrsrkhmns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sfrsrkhmns-portrait.webp

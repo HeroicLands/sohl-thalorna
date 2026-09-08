@@ -13,7 +13,7 @@ name:
     - The Spirit Blade Warrior
 packFolder: northernfertileregionokharis
 shortcode: eshewamagr
-img: icons/person.svg
+img: images/beings/characters/eshewamagr-portrait.webp
 type: being
 data:
   portrait: images/being/eshewamagr-portrait.webp

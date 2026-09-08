@@ -5,7 +5,7 @@ name:
   aliases:
     - Rupture
 description: "Shatters resolve; breaks will and courage of target."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: shttrmnd
 type: mysticalability
 subType: arcaneincantation

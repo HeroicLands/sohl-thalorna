@@ -12,7 +12,7 @@ name:
     - Orwin Blackshade
 packFolder: midhalionvylaria
 shortcode: brznlsvnmys
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/brznlsvnmys-portrait.webp

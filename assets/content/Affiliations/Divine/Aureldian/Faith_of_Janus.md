@@ -80,7 +80,7 @@ name:
   aliases:
     - The Keeper of the Gates
 shortcode: janus
-img: images/affiliation/janus.webp
+img: images/affiliation/aureldian/janus.webp
 packFolder: pantheonsaureldian
 ---
 

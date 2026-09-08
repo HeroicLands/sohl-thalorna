@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: branwldrgr
-img: icons/person.svg
+img: images/beings/characters/branwldrgr-portrait.webp
 type: being
 data:
   portrait: images/being/branwldrgr-portrait.webp

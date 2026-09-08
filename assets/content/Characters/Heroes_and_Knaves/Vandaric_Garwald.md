@@ -13,7 +13,7 @@ name:
     - the Liar
 packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
-img: icons/person.svg
+img: images/beings/characters/vndrcgrwld-portrait.webp
 type: being
 data:
   portrait: images/being/vndrcgrwld-portrait.webp

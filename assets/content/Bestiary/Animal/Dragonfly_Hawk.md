@@ -5,7 +5,7 @@ name:
   full: Dragonfly Hawk
   aliases: []
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
-img: icons/game-icons/lorc/dragonfly.svg
+img: images/beings/creatures/drgnflyh-portrait.webp
 shortcode: drgnflyh
 type: being
 data:

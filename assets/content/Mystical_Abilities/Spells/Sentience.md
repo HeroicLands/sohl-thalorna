@@ -5,7 +5,7 @@ name:
   aliases:
     - Personality
 description: "Grants awareness to construct; creature gains rudimentary agency."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: sntnc
 type: mysticalability
 subType: arcaneincantation

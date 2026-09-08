@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
-img: icons/person.svg
+img: images/beings/characters/kayvondzrd-portrait.webp
 type: being
 data:
   portrait: images/being/kayvondzrd-portrait.webp

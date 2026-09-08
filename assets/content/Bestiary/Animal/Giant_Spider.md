@@ -5,7 +5,7 @@ name:
   full: Giant Spider
   aliases: []
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."
-img: icons/game-icons/carl-olsen/spider-alt.svg
+img: images/beings/creatures/gntspdr-portrait.webp
 shortcode: gntspdr
 type: being
 data:

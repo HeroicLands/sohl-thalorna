@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: drkaranamn
-img: icons/person.svg
+img: images/beings/characters/drkaranamn-portrait.webp
 type: being
 data:
   portrait: images/being/drkaranamn-portrait.webp

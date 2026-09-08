@@ -12,7 +12,7 @@ name:
     - Mabel Seafoam
 packFolder: aureldiaprovenzia
 shortcode: chynrkrsvr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/chynrkrsvr-portrait.webp

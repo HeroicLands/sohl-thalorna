@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: odinn
-img: images/affiliation/odinn.webp
+img: images/affiliation/asguardian/odinn.webp
 name:
   full: "Ritual: Óðinn"
   aliases:

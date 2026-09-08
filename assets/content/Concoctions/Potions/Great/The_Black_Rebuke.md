@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Emetic, Great
 description: "Nearly black tar-like liquid; causes violent vomiting and illness."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnEmG
 type: concoctiongear
 subType: exotic

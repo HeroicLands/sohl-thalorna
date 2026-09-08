@@ -5,7 +5,7 @@ name:
   full: Thornback Boar
   aliases: []
 description: "A heavily built, ferociously territorial wild boar whose solitary males aggressively charge anything that trespasses on their forest ground."
-img: icons/game-icons/caro-asercion/boar.svg
+img: images/beings/creatures/thrnbckb-portrait.webp
 shortcode: thrnbckb
 type: being
 data:

@@ -4,7 +4,7 @@ name:
   full: Blowgun
   aliases: []
 description: "Silent hollow tube for poison darts; hunter's covert strike."
-img: icons/blowgun.svg
+img: systems/sohl/assets/icons/other/blowgun.svg
 shortcode: BGun
 type: weapongear
 sohl:

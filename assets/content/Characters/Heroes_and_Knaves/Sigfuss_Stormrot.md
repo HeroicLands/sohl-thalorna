@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt
-img: icons/person.svg
+img: images/beings/characters/sigfstrmrt-portrait.webp
 type: being
 data:
   portrait: images/being/sigfstrmrt-portrait.webp

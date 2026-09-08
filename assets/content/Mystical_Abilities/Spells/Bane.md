@@ -5,7 +5,7 @@ name:
   aliases:
     - Malediction
 description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: bane
 type: mysticalability
 subType: arcaneincantation

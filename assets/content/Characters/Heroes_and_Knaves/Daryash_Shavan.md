@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: daryshshvn
-img: icons/person.svg
+img: images/beings/characters/daryshshvn-portrait.webp
 type: being
 data:
   portrait: images/being/daryshshvn-portrait.webp

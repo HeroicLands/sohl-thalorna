@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vgbrndrskyrkr
-img: icons/person.svg
+img: images/beings/characters/vgbrndrskyrkr-portrait.webp
 type: being
 data:
   portrait: images/being/vgbrndrskyrkr-portrait.webp

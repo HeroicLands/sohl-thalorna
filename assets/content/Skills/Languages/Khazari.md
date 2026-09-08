@@ -8,7 +8,7 @@ name:
     - Dwarven
     - Elder Tongue
 description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: khazarlng
 type: skill
 subType: language

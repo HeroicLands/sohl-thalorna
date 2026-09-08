@@ -5,7 +5,7 @@ name:
   full: Quillbear
   aliases: []
 description: "A reclusive abomination of bear strength and porcupine quills that lairs in deep burrows and turns explosively aggressive when threatened."
-img: icons/game-icons/delapouite/bear-head.svg
+img: images/beings/creatures/qllbr-portrait.webp
 shortcode: qllbr
 type: being
 data:

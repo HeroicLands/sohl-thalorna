@@ -5,7 +5,7 @@ name:
   aliases:
     - Eyes
 description: "Senses heat variations; perceives temperature and thermal patterns."
-img: icons/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: thrmcptn
 type: mysticalability
 subType: arcaneincantation

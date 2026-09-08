@@ -15,7 +15,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: isaretkskr
-img: icons/person.svg
+img: images/beings/characters/isaretkskr-portrait.webp
 type: being
 data:
   portrait: images/being/isaretkskr-portrait.webp

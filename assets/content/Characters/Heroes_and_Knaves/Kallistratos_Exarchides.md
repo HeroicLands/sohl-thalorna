@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
-img: icons/person.svg
+img: images/beings/characters/klstrtsxrchds-portrait.webp
 type: being
 data:
   portrait: images/being/klstrtsxrchds-portrait.webp

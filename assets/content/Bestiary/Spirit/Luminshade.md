@@ -5,7 +5,7 @@ name:
   full: Luminshade
   aliases: []
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."
-img: icons/game-icons/lorc/spectre.svg
+img: images/beings/creatures/lmnshd-portrait.webp
 shortcode: lmnshd
 type: being
 data:

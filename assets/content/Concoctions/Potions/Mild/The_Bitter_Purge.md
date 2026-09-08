@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Emetic, Mild
 description: "Clear greenish tinted draft; causes violent purging of body."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnEmM
 type: concoctiongear
 subType: exotic

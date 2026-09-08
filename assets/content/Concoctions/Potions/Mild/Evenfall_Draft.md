@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Soporific, Mild
 description: "Milky white pale gray liquid; promotes sleep and restfulness."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnSopM
 type: concoctiongear
 subType: exotic

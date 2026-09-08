@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
-img: icons/person.svg
+img: images/beings/characters/yngvrdrtgr-portrait.webp
 type: being
 data:
   portrait: images/being/yngvrdrtgr-portrait.webp

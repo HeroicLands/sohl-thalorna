@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mentshpkhr
-img: icons/person.svg
+img: images/beings/characters/mentshpkhr-portrait.webp
 type: being
 data:
   portrait: images/being/mentshpkhr-portrait.webp

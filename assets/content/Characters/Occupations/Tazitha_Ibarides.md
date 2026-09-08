@@ -12,7 +12,7 @@ name:
     - Mirna Woodsong
 packFolder: helladhelionis
 shortcode: tazithbrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tazithbrds-portrait.webp

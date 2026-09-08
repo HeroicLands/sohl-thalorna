@@ -5,7 +5,7 @@ name:
   full: Gloomsprite
   aliases: []
 description: "A fey trickster of the shadow-touched borderlands who delights in puzzles and bargains, leading travelers astray to punish broken unspoken promises."
-img: icons/game-icons/delapouite/fairy.svg
+img: images/beings/creatures/glmsprt-portrait.webp
 shortcode: glmsprt
 type: being
 data:

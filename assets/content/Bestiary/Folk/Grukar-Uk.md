@@ -5,7 +5,7 @@ name:
   full: Grukar-Uk
   aliases: []
 description: "A small, dull, lazy Grukar drone forming the teeming bulk of any tribe, unremarkable but overwhelming in sheer numbers."
-img: icons/game-icons/delapouite/orc-head.svg
+img: images/beings/creatures/grukaruk-portrait.webp
 shortcode: grukaruk
 type: being
 data:

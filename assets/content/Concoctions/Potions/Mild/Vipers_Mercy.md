@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Antivenin, Mild
 description: "Murky greenish-brown draft; counteracts poison and venom damage."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnAntvM
 type: concoctiongear
 subType: exotic

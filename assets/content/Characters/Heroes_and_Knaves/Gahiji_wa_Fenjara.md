@@ -13,7 +13,7 @@ name:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: icons/person.svg
+img: images/beings/characters/gahijwfnjr-portrait.webp
 type: being
 data:
   portrait: images/being/gahijwfnjr-portrait.webp

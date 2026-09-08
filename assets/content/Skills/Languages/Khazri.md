@@ -6,7 +6,7 @@ name:
   aliases:
     - Khazri
 description: "The tongue of Khazri people."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: khazrilng
 type: skill
 subType: language

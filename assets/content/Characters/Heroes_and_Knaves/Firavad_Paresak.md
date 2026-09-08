@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: firavdprsk
-img: icons/person.svg
+img: images/beings/characters/firavdprsk-portrait.webp
 type: being
 data:
   portrait: images/being/firavdprsk-portrait.webp

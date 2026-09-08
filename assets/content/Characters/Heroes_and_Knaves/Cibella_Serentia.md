@@ -11,7 +11,7 @@ name:
 packFolder: midhalionvylaria
 shortcode: cibelasrnt
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/cibelasrnt-portrait.webp
 type: being
 data:
   portrait: images/being/cibelasrnt-portrait.webp

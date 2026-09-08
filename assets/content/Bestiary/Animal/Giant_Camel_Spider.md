@@ -6,7 +6,7 @@ name:
   full: Giant Camel Spider
   aliases: []
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
-img: icons/game-icons/carl-olsen/spider-alt.svg
+img: images/beings/creatures/gntcmlsp-portrait.webp
 shortcode: gntcmlsp
 type: being
 data:

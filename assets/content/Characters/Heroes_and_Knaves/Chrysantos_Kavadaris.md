@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: chrysntskvdrs
-img: icons/person.svg
+img: images/beings/characters/chrysntskvdrs-portrait.webp
 type: being
 data:
   portrait: images/being/chrysntskvdrs-portrait.webp

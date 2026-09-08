@@ -15,7 +15,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
-img: icons/person.svg
+img: images/beings/characters/neferetimr-portrait.webp
 type: being
 data:
   portrait: images/being/neferetimr-portrait.webp

@@ -11,7 +11,7 @@ name:
 packFolder: ankarisnordlands
 shortcode: ylrskrsdtr
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/ylrskrsdtr-portrait.webp
 type: being
 data:
   portrait: images/being/ylrskrsdtr-portrait.webp

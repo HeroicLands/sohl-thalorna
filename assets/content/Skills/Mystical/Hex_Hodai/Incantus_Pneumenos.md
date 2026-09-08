@@ -4,7 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: pneumenos
-img: images/affiliation/pneumenos.webp
+img: images/affiliation/hex-hodai/pneumenos.webp
 name:
   full: Incantus Pneuménos
   aliases: []

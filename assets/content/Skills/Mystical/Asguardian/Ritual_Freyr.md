@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: freyr
-img: images/affiliation/freyr.webp
+img: images/affiliation/asguardian/freyr.webp
 name:
   full: "Ritual: Fréyr"
   aliases:

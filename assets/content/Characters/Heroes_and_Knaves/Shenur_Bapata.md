@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
-img: icons/person.svg
+img: images/beings/characters/shenurbapt-portrait.webp
 type: being
 data:
   portrait: images/being/shenurbapt-portrait.webp

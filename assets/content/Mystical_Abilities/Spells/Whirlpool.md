@@ -5,7 +5,7 @@ name:
   aliases:
     - Vortex
 description: "Creates spinning vortex; swirls water into dangerous current."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: whrlpl
 type: mysticalability
 subType: arcaneincantation

@@ -12,7 +12,7 @@ name:
     - Jorvik the Merry
 packFolder: ankarisvrystwald
 shortcode: armndhldskrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/armndhldskrn-portrait.webp

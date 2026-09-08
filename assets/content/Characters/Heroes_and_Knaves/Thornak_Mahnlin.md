@@ -15,7 +15,7 @@ name:
     - Thornak Mahnlin
 packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
-img: icons/person.svg
+img: images/beings/characters/thrnkbldtscbr-portrait.webp
 type: being
 data:
   portrait: images/being/thrnkbldtscbr-portrait.webp

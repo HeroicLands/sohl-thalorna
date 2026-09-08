@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
-img: icons/person.svg
+img: images/beings/characters/hotepanu-portrait.webp
 type: being
 data:
   portrait: images/being/hotepanu-portrait.webp

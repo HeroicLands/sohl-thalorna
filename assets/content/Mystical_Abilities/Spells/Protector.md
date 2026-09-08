@@ -5,7 +5,7 @@ name:
   aliases:
     - Ward
 description: "Invisible guardian spirit defending caster from harm and damage."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: prtctr
 type: mysticalability
 subType: arcaneincantation

@@ -12,7 +12,7 @@ name:
     - Mirabelle Thorn
 packFolder: ankarisvrystwald
 shortcode: thdrsndryth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thdrsndryth-portrait.webp

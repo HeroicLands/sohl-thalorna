@@ -5,7 +5,7 @@ name:
   full: Stone Ram
   aliases: []
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
-img: icons/game-icons/delapouite/sheep.svg
+img: images/beings/creatures/stoneram-portrait.webp
 shortcode: stoneram
 type: being
 data:

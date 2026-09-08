@@ -12,7 +12,7 @@ name:
     - Elira Coldbrook
 packFolder: helladhelionis
 shortcode: azinarafrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/azinarafrs-portrait.webp

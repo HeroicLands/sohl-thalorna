@@ -13,7 +13,7 @@ name:
     - Darius Thornveil
 packFolder: ankarisnordlands
 shortcode: thrrjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thrrjrnskl-portrait.webp

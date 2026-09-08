@@ -12,7 +12,7 @@ name:
     - Lysandra Aetherwind
 packFolder: ankarisnordlands
 shortcode: hlvgstrmrt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hlvgstrmrt-portrait.webp

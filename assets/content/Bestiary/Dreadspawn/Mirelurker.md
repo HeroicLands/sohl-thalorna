@@ -5,7 +5,7 @@ name:
   full: Mirelurker
   aliases: []
 description: "A crustacean-amphibian apex predator of brackish marshes that waits motionless as a submerged log before striking with brutal force."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/mrlrkr-portrait.webp
 shortcode: mrlrkr
 type: being
 data:

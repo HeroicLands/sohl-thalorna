@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: janus
-img: images/affiliation/janus.webp
+img: images/affiliation/aureldian/janus.webp
 name:
   full: "Ritual: Janus"
   aliases:

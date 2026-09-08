@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
-img: icons/person.svg
+img: images/beings/characters/chlbrhydyn-portrait.webp
 type: being
 data:
   portrait: images/being/chlbrhydyn-portrait.webp

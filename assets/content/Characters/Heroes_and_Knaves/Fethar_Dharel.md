@@ -12,7 +12,7 @@ name:
 packFolder: aureldiaprovenzia
 shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/fethardhrl-portrait.webp
 type: being
 data:
   portrait: images/being/fethardhrl-portrait.webp

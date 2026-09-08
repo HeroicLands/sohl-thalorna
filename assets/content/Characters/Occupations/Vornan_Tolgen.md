@@ -12,7 +12,7 @@ name:
     - Cedric Ironquill
 packFolder: aureldiaprovenzia
 shortcode: vornantlgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vornantlgn-portrait.webp

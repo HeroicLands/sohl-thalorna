@@ -5,7 +5,7 @@ name:
   aliases:
     - Bubble
 description: "Crystalline arcane bubble encloses target; blocks magic and prevents escape."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: arcsph
 type: mysticalability
 subType: arcaneincantation

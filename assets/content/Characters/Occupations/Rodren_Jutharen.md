@@ -12,7 +12,7 @@ name:
     - Rollo Ember
 packFolder: aureldiatarvenia
 shortcode: rodrnjthrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rodrnjthrn-portrait.webp

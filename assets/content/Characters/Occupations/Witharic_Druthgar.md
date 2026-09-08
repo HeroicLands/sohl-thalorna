@@ -13,7 +13,7 @@ name:
     - Thorne Harrows
 packFolder: ankarisvrystwald
 shortcode: wthrcdrthgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wthrcdrthgr-portrait.webp

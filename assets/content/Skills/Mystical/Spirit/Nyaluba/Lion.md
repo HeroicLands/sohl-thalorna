@@ -6,7 +6,7 @@ description: "Standing with the lion-spirit of the Mvuzi — what an allied guid
 type: skill
 subType: mystical
 shortcode: lionmvuzisprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Lion Spirit Power"
   aliases:

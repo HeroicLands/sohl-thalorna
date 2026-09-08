@@ -13,7 +13,7 @@ name:
     - Elric Threadgold
 packFolder: aureldiaaelwyth
 shortcode: edmndwlfrd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edmndwlfrd-portrait.webp

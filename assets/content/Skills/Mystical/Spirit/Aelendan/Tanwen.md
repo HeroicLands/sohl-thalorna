@@ -6,7 +6,7 @@ description: "Standing with Tanwen, hearth-kin of Eshálosha — what guest-righ
 type: skill
 subType: mystical
 shortcode: tanwensprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Tanwen Spirit Power"
   aliases:

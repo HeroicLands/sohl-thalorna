@@ -6,7 +6,7 @@ description: "Standing with the baobab-spirit of the Bombwe — what an allied g
 type: skill
 subType: mystical
 shortcode: baobabbombwesprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Baobab Spirit Power"
   aliases:

@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: baldr
-img: images/affiliation/baldr.webp
+img: images/affiliation/asguardian/baldr.webp
 name:
   full: "Ritual: Baldr"
   aliases:

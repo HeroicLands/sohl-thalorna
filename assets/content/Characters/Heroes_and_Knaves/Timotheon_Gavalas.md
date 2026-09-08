@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: timthngvls
-img: icons/person.svg
+img: images/beings/characters/timthngvls-portrait.webp
 type: being
 data:
   portrait: images/being/timthngvls-portrait.webp

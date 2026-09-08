@@ -12,7 +12,7 @@ name:
     - Braden Hask
 packFolder: aureldiaprovenzia
 shortcode: hrlkvlskyr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrlkvlskyr-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Summitdrake
   aliases: []
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: images/beings/creatures/smmtdrk-portrait.webp
 shortcode: smmtdrk
 type: being
 data:

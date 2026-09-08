@@ -4,7 +4,7 @@ name:
   full: Talwar
   aliases: []
 description: "Curved single-edged saber with disk pommel; eastern cavalry preference."
-img: icons/sword.svg
+img: systems/sohl/assets/icons/other/sword.svg
 shortcode: Tlwr
 type: weapongear
 sohl:

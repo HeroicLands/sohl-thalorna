@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: venusia
-img: images/affiliation/venusia.webp
+img: images/affiliation/aureldian/venusia.webp
 name:
   full: "Ritual: Venusia"
   aliases:

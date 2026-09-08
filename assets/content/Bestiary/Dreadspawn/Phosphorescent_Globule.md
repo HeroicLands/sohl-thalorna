@@ -5,7 +5,7 @@ name:
   full: Phosphorescent Globule
   aliases: []
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
-img: icons/game-icons/delapouite/slime.svg
+img: images/beings/creatures/phsphrsc-portrait.webp
 shortcode: phsphrsc
 type: being
 data:

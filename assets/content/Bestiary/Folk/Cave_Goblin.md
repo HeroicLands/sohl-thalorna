@@ -5,7 +5,7 @@ name:
   full: Cave Goblin
   aliases: []
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
-img: icons/game-icons/caro-asercion/goblin.svg
+img: images/beings/creatures/cvgbln-portrait.webp
 shortcode: cvgbln
 type: being
 data:

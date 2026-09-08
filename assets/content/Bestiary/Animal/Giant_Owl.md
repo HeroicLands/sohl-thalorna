@@ -5,7 +5,7 @@ name:
   full: Giant Owl
   aliases: []
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."
-img: icons/game-icons/lorc/owl.svg
+img: images/beings/creatures/giantowl-portrait.webp
 shortcode: giantowl
 type: being
 data:

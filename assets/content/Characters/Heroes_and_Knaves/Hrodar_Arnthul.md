@@ -13,7 +13,7 @@ name:
     - the Crow
 packFolder: ankarisvrystwald
 shortcode: hrodrrnthl
-img: icons/person.svg
+img: images/beings/characters/hrodrrnthl-portrait.webp
 type: being
 data:
   portrait: images/being/hrodrrnthl-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Giant Armadillo
   aliases: []
 description: "A solitary armored mammal exceeding twelve feet, a living fortress of bony plates that fiercely defends its vast nocturnal burrows."
-img: icons/game-icons/caro-asercion/pangolin.svg
+img: images/beings/creatures/gntarmdl-portrait.webp
 shortcode: gntarmdl
 type: being
 data:

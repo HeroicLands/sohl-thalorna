@@ -5,7 +5,7 @@ name:
   full: Flamewraith
   aliases: []
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."
-img: icons/game-icons/lorc/spectre.svg
+img: images/beings/creatures/flmwrth-portrait.webp
 shortcode: flmwrth
 type: being
 data:

@@ -12,7 +12,7 @@ name:
     - Mira Glazewalker
 packFolder: aureldiaaelwyth
 shortcode: godabarnwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/godabarnwl-portrait.webp

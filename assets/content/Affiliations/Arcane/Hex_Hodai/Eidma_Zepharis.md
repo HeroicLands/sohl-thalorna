@@ -87,7 +87,7 @@ data:
     pyrethos: aligned
     physera: aligned
 shortcode: zepharis
-img: images/affiliation/zepharis.webp
+img: images/affiliation/hex-hodai/zepharis.webp
 name:
   full: Zephäris
   aliases:

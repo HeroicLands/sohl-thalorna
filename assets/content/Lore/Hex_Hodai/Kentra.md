@@ -85,7 +85,7 @@ data:
   relations: {}
 sohl:
   templatePriority: null
-img: images/affiliation/kentra.webp
+img: images/affiliation/hex-hodai/kentra.webp
 shortcode: kentra
 name:
   full: Kentra

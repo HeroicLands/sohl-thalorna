@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
-img: icons/person.svg
+img: images/beings/characters/athlwvthrnd-portrait.webp
 type: being
 data:
   portrait: images/being/athlwvthrnd-portrait.webp

@@ -13,7 +13,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtpnkhkhs
-img: icons/person.svg
+img: images/beings/characters/mrtpnkhkhs-portrait.webp
 type: being
 data:
   portrait: images/being/mrtpnkhkhs-portrait.webp

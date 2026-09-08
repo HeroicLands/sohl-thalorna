@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tefnuthtwr
-img: icons/person.svg
+img: images/beings/characters/tefnuthtwr-portrait.webp
 type: being
 data:
   portrait: images/being/tefnuthtwr-portrait.webp

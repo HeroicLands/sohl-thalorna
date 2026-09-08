@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: aetheria
-img: images/affiliation/aetheria.webp
+img: images/affiliation/aureldian/aetheria.webp
 name:
   full: "Ritual: Æthería"
   aliases:

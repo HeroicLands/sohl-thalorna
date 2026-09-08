@@ -5,7 +5,7 @@ name:
   full: Forest Goblin
   aliases: []
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
-img: icons/game-icons/caro-asercion/goblin.svg
+img: images/beings/creatures/frstgbln-portrait.webp
 shortcode: frstgbln
 type: being
 data:

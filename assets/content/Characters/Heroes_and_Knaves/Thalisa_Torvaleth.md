@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: thlstrvlth
-img: icons/person.svg
+img: images/beings/characters/thlstrvlth-portrait.webp
 type: being
 data:
   portrait: images/being/thlstrvlth-portrait.webp

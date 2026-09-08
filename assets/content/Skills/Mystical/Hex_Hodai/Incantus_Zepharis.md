@@ -4,7 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: zepharis
-img: images/affiliation/zepharis.webp
+img: images/affiliation/hex-hodai/zepharis.webp
 name:
   full: Incantus Zephäris
   aliases: []

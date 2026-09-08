@@ -6,7 +6,7 @@ description: "Standing with Rhysgen, the Red Fox of the Lower Wood — what this
 type: skill
 subType: mystical
 shortcode: rhysgensprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Rhysgen Spirit Power"
   aliases:

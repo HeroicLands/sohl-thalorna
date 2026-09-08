@@ -14,7 +14,7 @@ name:
     - Skathilda Frodban
 packFolder: ankarisvrystwald
 shortcode: skthldfrdbn
-img: icons/person.svg
+img: images/beings/characters/skthldfrdbn-portrait.webp
 type: being
 data:
   portrait: images/being/skthldfrdbn-portrait.webp

@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: northernfertileregionokharis
 shortcode: kirobashkm
-img: icons/person.svg
+img: images/beings/characters/kirobashkm-portrait.webp
 type: being
 data:
   portrait: images/being/kirobashkm-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Mega Hyena
   aliases: []
 description: "A colossal four-foot-tall hyena built for bone-crushing bite force and endurance, its sloped back and coarse mottled coat marking a relentless hunter."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/mghyn-portrait.webp
 shortcode: mghyn
 type: being
 data:

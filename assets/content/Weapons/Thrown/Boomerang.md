@@ -4,7 +4,7 @@ name:
   full: Boomerang
   aliases: []
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
-img: icons/boomerang.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/boomerang.svg
 shortcode: Bmrg
 type: weapongear
 sohl:

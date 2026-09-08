@@ -5,7 +5,7 @@ name:
   full: Luminophage
   aliases: []
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/lmnphg-portrait.webp
 shortcode: lmnphg
 type: being
 data:

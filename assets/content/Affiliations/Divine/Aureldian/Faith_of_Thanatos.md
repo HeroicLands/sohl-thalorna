@@ -69,7 +69,7 @@ name:
     - The Silent Judge
     - Thánatos
 shortcode: thanatos
-img: images/affiliation/thanatos.webp
+img: images/affiliation/aureldian/thanatos.webp
 packFolder: pantheonsaureldian
 ---
 

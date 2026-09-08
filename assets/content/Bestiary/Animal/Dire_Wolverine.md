@@ -5,7 +5,7 @@ name:
   full: Dire Wolverine
   aliases: []
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
-img: icons/game-icons/caro-asercion/badger.svg
+img: images/beings/creatures/drwlvrn-portrait.webp
 shortcode: drwlvrn
 type: being
 data:

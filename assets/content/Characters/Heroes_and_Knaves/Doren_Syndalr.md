@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
-img: icons/person.svg
+img: images/beings/characters/dornsyndlr-portrait.webp
 type: being
 data:
   portrait: images/being/dornsyndlr-portrait.webp

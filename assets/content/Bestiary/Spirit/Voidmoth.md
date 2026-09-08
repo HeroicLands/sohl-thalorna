@@ -5,7 +5,7 @@ name:
   full: Voidmoth
   aliases: []
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
-img: icons/game-icons/lorc/butterfly.svg
+img: images/beings/creatures/voidmoth-portrait.webp
 shortcode: voidmoth
 type: being
 data:

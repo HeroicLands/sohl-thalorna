@@ -71,7 +71,7 @@ name:
     - The Wayfarer
     - Múrkír
 shortcode: murkir
-img: images/affiliation/murkir.webp
+img: images/affiliation/aureldian/murkir.webp
 packFolder: pantheonsaureldian
 ---
 

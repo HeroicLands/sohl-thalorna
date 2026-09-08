@@ -14,7 +14,7 @@ name:
     - Sir Andres Lorca
 packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
-img: icons/person.svg
+img: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
 type: being
 data:
   portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp

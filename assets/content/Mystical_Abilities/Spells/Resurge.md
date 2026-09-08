@@ -4,7 +4,7 @@ name:
   full: Resurge
   aliases: []
 description: "Pours fresh energy into failing magical construct; restores framework."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: resurge
 type: mysticalability
 subType: arcaneincantation

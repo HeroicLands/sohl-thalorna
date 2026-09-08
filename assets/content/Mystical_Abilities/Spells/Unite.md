@@ -5,7 +5,7 @@ name:
   aliases:
     - Meld
 description: "Joins two beings together; creates mystical sympathetic bond."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: unite
 type: mysticalability
 subType: arcaneincantation

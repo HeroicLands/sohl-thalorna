@@ -71,7 +71,7 @@ name:
     - The Nurturer
     - Flórania
 shortcode: florania
-img: images/affiliation/florania.webp
+img: images/affiliation/aureldian/florania.webp
 packFolder: pantheonsaureldian
 ---
 

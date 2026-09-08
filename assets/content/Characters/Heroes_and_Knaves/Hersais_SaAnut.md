@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
-img: icons/person.svg
+img: images/beings/characters/hersaisant-portrait.webp
 type: being
 data:
   portrait: images/being/hersaisant-portrait.webp

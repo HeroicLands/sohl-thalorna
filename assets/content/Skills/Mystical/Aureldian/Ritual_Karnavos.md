@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: karnavos
-img: images/affiliation/karnavos.webp
+img: images/affiliation/aureldian/karnavos.webp
 name:
   full: "Ritual: Karnavos"
   aliases:

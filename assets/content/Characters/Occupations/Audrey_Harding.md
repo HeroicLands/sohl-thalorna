@@ -13,7 +13,7 @@ name:
     - Shénasenè Callista Tradewind
 packFolder: aureldiaaelwyth
 shortcode: audryhrdng
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/audryhrdng-portrait.webp

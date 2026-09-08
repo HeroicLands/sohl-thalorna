@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: agapevrzns
-img: icons/person.svg
+img: images/beings/characters/agapevrzns-portrait.webp
 type: being
 data:
   portrait: images/being/agapevrzns-portrait.webp

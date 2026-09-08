@@ -12,7 +12,7 @@ name:
     - Cedric Earthshaker
 packFolder: midhalionharad
 shortcode: piturutubn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/piturutubn-portrait.webp

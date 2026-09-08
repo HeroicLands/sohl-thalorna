@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnksksrns
-img: icons/person.svg
+img: images/beings/characters/brnksksrns-portrait.webp
 type: being
 data:
   portrait: images/being/brnksksrns-portrait.webp

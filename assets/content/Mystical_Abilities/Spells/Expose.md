@@ -5,7 +5,7 @@ name:
   aliases:
     - Reveal
 description: "Reveals hidden things; penetrates concealment and shows true nature."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: expose
 type: mysticalability
 subType: arcaneincantation

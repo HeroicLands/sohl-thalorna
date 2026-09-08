@@ -5,7 +5,7 @@ name:
   full: Cheeprow
   aliases: []
 description: "A ten-inch creature of disarming cuteness that lures travelers with innocent charm before revealing itself as a dangerous pack predator."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/cheeprow-portrait.webp
 shortcode: cheeprow
 type: being
 data:

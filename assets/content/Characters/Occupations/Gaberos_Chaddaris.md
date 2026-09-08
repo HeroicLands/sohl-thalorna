@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladhelionis
 shortcode: gabrschdrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/gabrschdrs-portrait.webp

@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnstnvrnhm
-img: icons/person.svg
+img: images/beings/characters/gnstnvrnhm-portrait.webp
 type: being
 data:
   portrait: images/being/gnstnvrnhm-portrait.webp

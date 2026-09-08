@@ -12,7 +12,7 @@ name:
     - Sigrid Stonemantle
 packFolder: helladhelionis
 shortcode: tabismrnds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tabismrnds-portrait.webp

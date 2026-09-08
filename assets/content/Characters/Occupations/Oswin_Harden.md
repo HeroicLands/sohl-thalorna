@@ -13,7 +13,7 @@ name:
     - Harlan Stoneforge
 packFolder: aureldiaaelwyth
 shortcode: oswinhardn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/oswinhardn-portrait.webp

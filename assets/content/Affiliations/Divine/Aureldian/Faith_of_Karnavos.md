@@ -67,7 +67,7 @@ name:
   aliases:
     - The Wild Beast
 shortcode: karnavos
-img: images/affiliation/karnavos.webp
+img: images/affiliation/aureldian/karnavos.webp
 packFolder: pantheonsaureldian
 ---
 

@@ -5,7 +5,7 @@ name:
   aliases:
     - Regenesis
 description: "Restores caster's spent energy; regains magical power quickly."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: renewal
 type: mysticalability
 subType: arcaneincantation

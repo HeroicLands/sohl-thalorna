@@ -87,7 +87,7 @@ name:
   aliases:
     - The Flameborn Path
 shortcode: surtr
-img: images/affiliation/surtr.webp
+img: images/affiliation/asguardian/surtr.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

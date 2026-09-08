@@ -13,7 +13,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: banutjaut
-img: icons/person.svg
+img: images/beings/characters/banutjaut-portrait.webp
 type: being
 data:
   portrait: images/being/banutjaut-portrait.webp

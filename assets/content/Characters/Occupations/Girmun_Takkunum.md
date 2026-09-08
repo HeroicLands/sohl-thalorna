@@ -13,7 +13,7 @@ name:
     - Maerwin Blathe
 packFolder: midhalionharad
 shortcode: girmuntknm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/girmuntknm-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Stoneclimber
   aliases: []
 description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/stnclmbr-portrait.webp
 shortcode: stnclmbr
 type: being
 data:

@@ -12,7 +12,7 @@ name:
 packFolder: midhalionharad
 shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/esharumtrz-portrait.webp
 type: being
 data:
   portrait: images/being/esharumtrz-portrait.webp

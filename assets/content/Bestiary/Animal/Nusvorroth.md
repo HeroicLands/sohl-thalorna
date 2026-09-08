@@ -5,7 +5,7 @@ name:
   full: Nüsvōrroth
   aliases: []
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/nsvrroth-portrait.webp
 shortcode: nsvrroth
 type: being
 data:

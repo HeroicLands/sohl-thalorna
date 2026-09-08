@@ -12,7 +12,7 @@ name:
     - Isolde Faire
 packFolder: midhalionvylaria
 shortcode: kysrkslmks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kysrkslmks-portrait.webp

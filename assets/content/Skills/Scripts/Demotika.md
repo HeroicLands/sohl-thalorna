@@ -6,7 +6,7 @@ name:
     - Demotika
     - Demotic
 description: "The people's hand of Ta'Kheperu — a hundred running signs that took the empire's paperwork away from the temples."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: demtkscrpt
 type: skill
 subType: script

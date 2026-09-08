@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tamiyrajat
-img: icons/person.svg
+img: images/beings/characters/tamiyrajat-portrait.webp
 type: being
 data:
   portrait: images/being/tamiyrajat-portrait.webp

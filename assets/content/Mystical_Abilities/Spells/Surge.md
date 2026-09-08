@@ -5,7 +5,7 @@ name:
   aliases:
     - Wave
 description: "Creates wave of force; manifests swelling energy outward."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: surge
 type: mysticalability
 subType: arcaneincantation

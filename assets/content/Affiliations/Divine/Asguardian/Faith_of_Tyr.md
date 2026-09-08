@@ -81,7 +81,7 @@ name:
   aliases:
     - The Just Path
 shortcode: tyr
-img: images/affiliation/tyr.webp
+img: images/affiliation/asguardian/tyr.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

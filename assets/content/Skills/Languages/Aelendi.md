@@ -6,7 +6,7 @@ name:
     - Áelendi
     - Aelendi
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: aelendlng
 type: skill
 subType: language

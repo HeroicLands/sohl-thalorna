@@ -13,7 +13,7 @@ name:
     - Torvald Grimstone
 packFolder: ankarisvrystwald
 shortcode: vthrblthlm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vthrblthlm-portrait.webp

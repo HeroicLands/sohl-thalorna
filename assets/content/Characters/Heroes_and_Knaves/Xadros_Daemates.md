@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xadrosdmts
-img: icons/person.svg
+img: images/beings/characters/xadrosdmts-portrait.webp
 type: being
 data:
   portrait: images/being/xadrosdmts-portrait.webp

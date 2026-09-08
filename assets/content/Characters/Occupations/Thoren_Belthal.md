@@ -12,7 +12,7 @@ name:
     - Garvin Tidewalker
 packFolder: aureldiaelavendre
 shortcode: thornblthl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thornblthl-portrait.webp

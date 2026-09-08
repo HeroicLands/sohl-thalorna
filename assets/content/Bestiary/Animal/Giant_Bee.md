@@ -5,7 +5,7 @@ name:
   full: Giant Bee
   aliases: []
 description: "A wolf-sized insect and hive worker directed by pheromone signals, defending colossal colonies of hundreds or thousands as one collective intelligence."
-img: icons/game-icons/lorc/bee.svg
+img: images/beings/creatures/giantbee-portrait.webp
 shortcode: giantbee
 type: being
 data:

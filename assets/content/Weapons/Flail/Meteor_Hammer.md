@@ -4,7 +4,7 @@ name:
   full: Meteor Hammer
   aliases: []
 description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
-img: icons/bolas.svg
+img: systems/sohl/assets/icons/game-icons/lorc/bolas.svg
 shortcode: MtrHmr
 type: weapongear
 sohl:

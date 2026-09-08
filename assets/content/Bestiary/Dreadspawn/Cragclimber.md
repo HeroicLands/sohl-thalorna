@@ -5,7 +5,7 @@ name:
   full: Cragclimber
   aliases: []
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/crgclmbr-portrait.webp
 shortcode: crgclmbr
 type: being
 data:

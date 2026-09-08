@@ -13,7 +13,7 @@ name:
     - the Shield-Maiden of Járnhavn
 packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
-img: icons/person.svg
+img: images/beings/characters/rnhrngsdtr-portrait.webp
 type: being
 data:
   portrait: images/being/rnhrngsdtr-portrait.webp

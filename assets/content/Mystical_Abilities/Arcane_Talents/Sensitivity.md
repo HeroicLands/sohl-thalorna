@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sensitivity
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: snst
 type: mysticalability
 subType: arcanetalent

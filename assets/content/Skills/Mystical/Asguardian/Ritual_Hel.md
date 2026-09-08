@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: hel
-img: images/affiliation/hel.webp
+img: images/affiliation/asguardian/hel.webp
 name:
   full: "Ritual: Hél"
   aliases:

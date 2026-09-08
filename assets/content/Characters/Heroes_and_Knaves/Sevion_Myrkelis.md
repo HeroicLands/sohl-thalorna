@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
-img: icons/person.svg
+img: images/beings/characters/sevnmyrkls-portrait.webp
 type: being
 data:
   portrait: images/being/sevnmyrkls-portrait.webp

@@ -78,7 +78,7 @@ name:
     - Keeper of Sacred Wisdom
     - Ménérva
 shortcode: menerva
-img: images/affiliation/menerva.webp
+img: images/affiliation/aureldian/menerva.webp
 packFolder: pantheonsaureldian
 ---
 

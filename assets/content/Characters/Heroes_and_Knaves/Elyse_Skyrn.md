@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: icons/person.svg
+img: images/beings/characters/elyseskyrn-portrait.webp
 type: being
 data:
   portrait: images/being/elyseskyrn-portrait.webp

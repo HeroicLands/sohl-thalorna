@@ -6,7 +6,7 @@ description: "Standing with the eagle-spirit of the Ngonzi — what an allied gu
 type: skill
 subType: mystical
 shortcode: eaglengonzisprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Eagle Spirit Power"
   aliases:

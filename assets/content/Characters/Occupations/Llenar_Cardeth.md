@@ -12,7 +12,7 @@ name:
     - Garrick Mudd
 packFolder: aureldiaelavendre
 shortcode: lenarcrdth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lenarcrdth-portrait.webp

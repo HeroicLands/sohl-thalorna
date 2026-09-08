@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: shadalnadn
-img: icons/person.svg
+img: images/beings/characters/shadalnadn-portrait.webp
 type: being
 data:
   portrait: images/being/shadalnadn-portrait.webp

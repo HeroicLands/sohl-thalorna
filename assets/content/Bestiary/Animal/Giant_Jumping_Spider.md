@@ -5,7 +5,7 @@ name:
   full: Giant Jumping Spider
   aliases: []
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
-img: icons/game-icons/carl-olsen/spider-alt.svg
+img: images/beings/creatures/gntjmpng-portrait.webp
 shortcode: gntjmpng
 type: being
 data:

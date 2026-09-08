@@ -9,7 +9,7 @@ name:
   aliases:
     - Vúlcani Orthodox
 shortcode: sacredforge
-img: images/affiliation/sacredforge.webp
+img: images/affiliation/aureldian/sacredforge.webp
 type: affiliation
 subType: faithtradition
 data:

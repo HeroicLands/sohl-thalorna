@@ -5,7 +5,7 @@ name:
   full: Stygian Leviathan
   aliases: []
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
-img: icons/game-icons/lorc/sea-serpent.svg
+img: images/beings/creatures/stygnlvt-portrait.webp
 shortcode: stygnlvt
 type: being
 data:

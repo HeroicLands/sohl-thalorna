@@ -5,7 +5,7 @@ name:
   full: Thornrat
   aliases: []
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
-img: icons/game-icons/delapouite/rat.svg
+img: images/beings/creatures/thornrat-portrait.webp
 shortcode: thornrat
 type: being
 data:

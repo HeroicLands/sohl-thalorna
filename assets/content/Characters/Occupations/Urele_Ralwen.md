@@ -12,7 +12,7 @@ name:
     - Mara Sunpetal
 packFolder: aureldiaprovenzia
 shortcode: ureleralwn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ureleralwn-portrait.webp

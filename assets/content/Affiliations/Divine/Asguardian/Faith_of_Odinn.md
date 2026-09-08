@@ -87,7 +87,7 @@ name:
   aliases:
     - The Enlightened Path
 shortcode: odinn
-img: images/affiliation/odinn.webp
+img: images/affiliation/asguardian/odinn.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

@@ -14,7 +14,7 @@ name:
     - The Renegade Grammatíssa
 packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rshrhssfrn-portrait.webp

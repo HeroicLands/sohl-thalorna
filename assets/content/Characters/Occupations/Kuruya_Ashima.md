@@ -12,7 +12,7 @@ name:
     - Liora Emberhand
 packFolder: midhalionharad
 shortcode: kuruyashim
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kuruyashim-portrait.webp

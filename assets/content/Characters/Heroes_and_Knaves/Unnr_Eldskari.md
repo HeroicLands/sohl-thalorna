@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: unreldskar
-img: icons/person.svg
+img: images/beings/characters/unreldskar-portrait.webp
 type: being
 data:
   portrait: images/being/unreldskar-portrait.webp

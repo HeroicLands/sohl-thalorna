@@ -5,7 +5,7 @@ name:
   full: Giant Octopus
   aliases: []
 description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
-img: icons/game-icons/lorc/octopus.svg
+img: images/beings/creatures/gntoctps-portrait.webp
 shortcode: gntoctps
 type: being
 data:

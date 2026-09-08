@@ -5,7 +5,7 @@ name:
   aliases:
     - Provenzal
 description: "The melodic speech of Provenzia — shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: provnzlng
 type: skill
 subType: language

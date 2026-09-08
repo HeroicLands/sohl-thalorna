@@ -5,7 +5,7 @@ name:
   full: Aegiron Sentinel
   aliases: []
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
-img: icons/game-icons/delapouite/golem-head.svg
+img: images/beings/creatures/agrnsntn-portrait.webp
 shortcode: agrnsntn
 type: being
 data:

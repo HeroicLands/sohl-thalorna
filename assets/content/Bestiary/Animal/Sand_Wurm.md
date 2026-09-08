@@ -5,7 +5,7 @@ name:
   full: Sand Wurm
   aliases: []
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
-img: icons/game-icons/lorc/worm-mouth.svg
+img: images/beings/creatures/sandwurm-portrait.webp
 shortcode: sandwurm
 type: being
 data:

@@ -11,7 +11,7 @@ name:
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/slvrvlskyr-portrait.webp
 type: being
 data:
   portrait: images/being/slvrvlskyr-portrait.webp

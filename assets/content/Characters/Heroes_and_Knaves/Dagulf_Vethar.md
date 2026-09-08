@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: dagulfvthr
-img: icons/person.svg
+img: images/beings/characters/dagulfvthr-portrait.webp
 type: being
 data:
   portrait: images/being/dagulfvthr-portrait.webp

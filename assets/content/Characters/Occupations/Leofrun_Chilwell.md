@@ -12,7 +12,7 @@ name:
     - Elara Greenpath
 packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lefrnchlwl-portrait.webp

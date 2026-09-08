@@ -5,7 +5,7 @@ name:
   aliases:
     - Decay
 description: "Drains life force; target withers and decays rapidly."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: wither
 type: mysticalability
 subType: arcaneincantation

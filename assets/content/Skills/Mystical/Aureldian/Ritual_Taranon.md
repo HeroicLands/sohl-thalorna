@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: taranon
-img: images/affiliation/taranon.webp
+img: images/affiliation/aureldian/taranon.webp
 name:
   full: "Ritual: Taranon"
   aliases:

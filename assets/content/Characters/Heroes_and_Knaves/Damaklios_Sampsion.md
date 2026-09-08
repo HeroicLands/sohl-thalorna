@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: damklsmpsn
-img: icons/person.svg
+img: images/beings/characters/damklsmpsn-portrait.webp
 type: being
 data:
   portrait: images/being/damklsmpsn-portrait.webp

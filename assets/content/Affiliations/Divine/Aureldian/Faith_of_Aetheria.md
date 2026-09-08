@@ -73,7 +73,7 @@ name:
     - Æthería
     - Aetheria
 shortcode: aetheria
-img: images/affiliation/aetheria.webp
+img: images/affiliation/aureldian/aetheria.webp
 packFolder: pantheonsaureldian
 ---
 

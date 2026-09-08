@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: prynbrmndn
-img: icons/person.svg
+img: images/beings/characters/prynbrmndn-portrait.webp
 type: being
 data:
   portrait: images/being/prynbrmndn-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Gloomhound
   aliases: []
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."
-img: icons/game-icons/lorc/hound.svg
+img: images/beings/creatures/glmhnd-portrait.webp
 shortcode: glmhnd
 type: being
 data:

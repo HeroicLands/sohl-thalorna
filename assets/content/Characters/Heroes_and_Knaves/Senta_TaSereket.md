@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
-img: icons/person.svg
+img: images/beings/characters/sentatsrkt-portrait.webp
 type: being
 data:
   portrait: images/being/sentatsrkt-portrait.webp

@@ -11,7 +11,7 @@ name:
 packFolder: midhalionharad
 shortcode: kasuradmzr
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/kasuradmzr-portrait.webp
 type: being
 data:
   portrait: images/being/kasuradmzr-portrait.webp

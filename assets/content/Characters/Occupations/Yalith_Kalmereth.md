@@ -12,7 +12,7 @@ name:
     - Brynn Silversong
 packFolder: aureldiaelavendre
 shortcode: ylthklmrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ylthklmrth-portrait.webp

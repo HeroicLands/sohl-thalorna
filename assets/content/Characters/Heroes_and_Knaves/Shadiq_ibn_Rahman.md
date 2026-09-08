@@ -13,7 +13,7 @@ name:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
-img: icons/person.svg
+img: images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp
 type: being
 data:
   portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp

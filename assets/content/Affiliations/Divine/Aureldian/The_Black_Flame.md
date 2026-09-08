@@ -8,7 +8,7 @@ name:
   full: The Black Flame
   aliases: []
 shortcode: blackflame
-img: images/affiliation/blackflame.webp
+img: images/affiliation/aureldian/blackflame.webp
 type: affiliation
 subType: faithtradition
 data:

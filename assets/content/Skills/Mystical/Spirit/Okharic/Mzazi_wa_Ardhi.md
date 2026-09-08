@@ -6,7 +6,7 @@ description: "Standing with Mzazi wa Ardhi, zohira of fertility — what this em
 type: skill
 subType: mystical
 shortcode: mzazisprt
-img: icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Mzazi wa Ardhi Spirit Power"
   aliases:

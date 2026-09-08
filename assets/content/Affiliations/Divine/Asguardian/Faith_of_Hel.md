@@ -91,7 +91,7 @@ name:
   aliases:
     - The Eternal Night
 shortcode: hel
-img: images/affiliation/hel.webp
+img: images/affiliation/asguardian/hel.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

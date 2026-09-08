@@ -13,7 +13,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiyawstnb
-img: icons/person.svg
+img: images/beings/characters/raiyawstnb-portrait.webp
 type: being
 data:
   portrait: images/being/raiyawstnb-portrait.webp

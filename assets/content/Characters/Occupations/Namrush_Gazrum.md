@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: midhalionharad
 shortcode: namrshgzrm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/namrshgzrm-portrait.webp

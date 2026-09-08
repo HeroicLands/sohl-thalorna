@@ -4,7 +4,7 @@ name:
   full: Tap
   aliases: []
 description: "Draws upon power source; taps magical reservoir for energy."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: tap
 type: mysticalability
 subType: arcaneincantation

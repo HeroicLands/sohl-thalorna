@@ -89,7 +89,7 @@ name:
   aliases:
     - The Golden Path
 shortcode: freyja
-img: images/affiliation/freyja.webp
+img: images/affiliation/asguardian/freyja.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

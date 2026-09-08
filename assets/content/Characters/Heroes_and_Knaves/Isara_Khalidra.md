@@ -11,7 +11,7 @@ name:
 packFolder: helladhelionis
 banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
-img: icons/person.svg
+img: images/beings/characters/isarakhldr-portrait.webp
 type: being
 data:
   portrait: images/being/isarakhldr-portrait.webp

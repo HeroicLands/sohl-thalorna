@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: nushirnrsf
-img: icons/person.svg
+img: images/beings/characters/nushirnrsf-portrait.webp
 type: being
 data:
   portrait: images/being/nushirnrsf-portrait.webp

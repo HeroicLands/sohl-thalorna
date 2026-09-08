@@ -14,7 +14,7 @@ name:
     - The Mendicant Priestess of the Black Flame
 packFolder: midhalionvylaria
 shortcode: myrnklypss
-img: icons/person.svg
+img: images/beings/characters/myrnklypss-portrait.webp
 type: being
 data:
   portrait: images/being/myrnklypss-portrait.webp

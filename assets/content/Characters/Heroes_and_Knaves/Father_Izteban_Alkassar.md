@@ -14,7 +14,7 @@ name:
     - The Jánusian Priest
 packFolder: aureldiatarvenia
 shortcode: frztbnlksr
-img: icons/person.svg
+img: images/beings/characters/frztbnlksr-portrait.webp
 type: being
 data:
   portrait: images/being/frztbnlksr-portrait.webp

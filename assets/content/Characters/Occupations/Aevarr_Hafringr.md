@@ -12,7 +12,7 @@ name:
     - Roderick Heavyload
 packFolder: ankarisnordlands
 shortcode: aevrhfrngr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/aevrhfrngr-portrait.webp

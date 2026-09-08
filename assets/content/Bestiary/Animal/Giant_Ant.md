@@ -5,7 +5,7 @@ name:
   full: Giant Ant
   aliases: []
 description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/giantant-portrait.webp
 shortcode: giantant
 type: being
 data:

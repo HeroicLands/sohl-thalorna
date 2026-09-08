@@ -15,7 +15,7 @@ name:
     - the Shipwright's Son
 packFolder: ankarisnordlands
 shortcode: eldridfrhr
-img: icons/person.svg
+img: images/beings/characters/eldridfrhr-portrait.webp
 type: being
 data:
   portrait: images/being/eldridfrhr-portrait.webp

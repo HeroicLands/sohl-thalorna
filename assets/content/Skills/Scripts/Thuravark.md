@@ -5,7 +5,7 @@ name:
   aliases:
     - Thurávark
 description: "The cut runes of the Normen north — knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thuravarkscript
 type: skill
 subType: script

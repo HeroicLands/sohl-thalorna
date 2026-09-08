@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: dhrmplvmkt
-img: icons/person.svg
+img: images/beings/characters/dhrmplvmkt-portrait.webp
 type: being
 data:
   portrait: images/being/dhrmplvmkt-portrait.webp

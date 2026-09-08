@@ -5,7 +5,7 @@ name:
   aliases:
     - Thought
 description: "Burst of psychic pain disorienting multiple targets simultaneously."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: mndflr
 type: mysticalability
 subType: arcaneincantation

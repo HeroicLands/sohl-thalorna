@@ -12,7 +12,7 @@ name:
 packFolder: helladhelionis
 shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/damsnghlrn-portrait.webp
 type: being
 data:
   portrait: images/being/damsnghlrn-portrait.webp

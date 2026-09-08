@@ -12,7 +12,7 @@ name:
     - Halda Drumwright
 packFolder: midhalionvylaria
 shortcode: imrkszrznds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/imrkszrznds-portrait.webp

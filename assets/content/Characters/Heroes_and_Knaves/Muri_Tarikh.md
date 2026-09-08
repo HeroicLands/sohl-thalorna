@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh
-img: icons/person.svg
+img: images/beings/characters/muritarikh-portrait.webp
 type: being
 data:
   portrait: images/being/muritarikh-portrait.webp

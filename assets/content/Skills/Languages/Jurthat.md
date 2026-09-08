@@ -5,7 +5,7 @@ name:
   aliases:
     - Jürthāti
 description: "The island speech of the Nine Mountains — a daughter of Tānvüri hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: jurthatlng
 type: skill
 subType: language

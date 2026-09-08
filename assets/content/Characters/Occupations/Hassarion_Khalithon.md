@@ -12,7 +12,7 @@ name:
     - Lord Alaric Stormhaven
 packFolder: helladhelionis
 shortcode: hsrnkhlthn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hsrnkhlthn-portrait.webp

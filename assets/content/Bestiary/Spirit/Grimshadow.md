@@ -5,7 +5,7 @@ name:
   full: Grimshadow
   aliases: []
 description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
-img: icons/game-icons/lorc/spectre.svg
+img: images/beings/creatures/grmshdw-portrait.webp
 shortcode: grmshdw
 type: being
 data:

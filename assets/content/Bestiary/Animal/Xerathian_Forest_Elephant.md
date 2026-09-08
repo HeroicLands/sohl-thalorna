@@ -5,7 +5,7 @@ name:
   full: Xerathian Forest Elephant
   aliases: []
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."
-img: icons/game-icons/delapouite/elephant.svg
+img: images/beings/creatures/xrthnfrs-portrait.webp
 shortcode: xrthnfrs
 type: being
 data:

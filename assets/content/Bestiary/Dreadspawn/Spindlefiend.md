@@ -5,7 +5,7 @@ name:
   full: Spindlefiend
   aliases: []
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
-img: icons/game-icons/lorc/werewolf.svg
+img: images/beings/creatures/spndlfnd-portrait.webp
 shortcode: spndlfnd
 type: being
 data:

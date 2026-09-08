@@ -87,7 +87,7 @@ data:
     zepharis: aligned
     pneumenos: aligned
 shortcode: pyrethos
-img: images/affiliation/pyrethos.webp
+img: images/affiliation/hex-hodai/pyrethos.webp
 name:
   full: Pyréthos
   aliases:

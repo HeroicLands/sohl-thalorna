@@ -73,7 +73,7 @@ name:
     - The Thunderer
     - Táranon
 shortcode: taranon
-img: images/affiliation/taranon.webp
+img: images/affiliation/aureldian/taranon.webp
 packFolder: pantheonsaureldian
 ---
 

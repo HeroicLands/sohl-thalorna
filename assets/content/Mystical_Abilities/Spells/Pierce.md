@@ -5,7 +5,7 @@ name:
   aliases:
     - Lance
 description: "Projectile of force; penetrates armor and causes bleeding wounds."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: pierce
 type: mysticalability
 subType: arcaneincantation

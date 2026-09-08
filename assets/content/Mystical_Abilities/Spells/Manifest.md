@@ -5,7 +5,7 @@ name:
   aliases:
     - Conjure
 description: "Solidifies invisible spirits into temporary physical forms; reveals hidden threats."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: manifest
 type: mysticalability
 subType: arcaneincantation

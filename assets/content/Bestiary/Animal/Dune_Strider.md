@@ -5,7 +5,7 @@ name:
   full: Dune Strider
   aliases: []
 description: "An enormous flightless desert bird up to ten feet tall, a social herd forager that is placid unless provoked."
-img: icons/game-icons/lorc/paw-print.svg
+img: images/beings/creatures/dnstrdr-portrait.webp
 shortcode: dnstrdr
 type: being
 data:

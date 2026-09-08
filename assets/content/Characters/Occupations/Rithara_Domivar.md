@@ -12,7 +12,7 @@ name:
     - Lira Shellwhisper
 packFolder: aureldiatarvenia
 shortcode: rithardmvr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rithardmvr-portrait.webp

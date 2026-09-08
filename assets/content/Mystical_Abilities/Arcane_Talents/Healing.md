@@ -3,7 +3,7 @@ tags: []
 name:
   full: Healing
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: heal
 type: mysticalability
 subType: arcanetalent

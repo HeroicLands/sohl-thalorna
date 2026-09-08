@@ -6,7 +6,7 @@ name:
   full: Unicorn
   aliases: []
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
-img: icons/game-icons/delapouite/unicorn.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/unicorn.svg
 shortcode: unicorn
 type: being
 data:

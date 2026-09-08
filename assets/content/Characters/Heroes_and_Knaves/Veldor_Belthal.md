@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: veldrblthl
-img: icons/person.svg
+img: images/beings/characters/veldrblthl-portrait.webp
 type: being
 data:
   portrait: images/being/veldrblthl-portrait.webp

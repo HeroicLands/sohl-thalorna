@@ -13,7 +13,7 @@ name:
     - Reslâva Aiden Greenfield
 packFolder: midhalionvylaria
 shortcode: emnsbrmztr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/emnsbrmztr-portrait.webp

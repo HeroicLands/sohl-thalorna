@@ -5,7 +5,7 @@ name:
   full: Shadowspinner
   aliases: []
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
-img: icons/game-icons/carl-olsen/spider-alt.svg
+img: images/beings/creatures/shdwspnn-portrait.webp
 shortcode: shdwspnn
 type: being
 data:

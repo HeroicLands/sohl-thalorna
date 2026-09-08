@@ -5,7 +5,7 @@ name:
   full: Grukar-ahk
   aliases: []
 description: "A self-fertilizing Grukar spawner, one per tribe, uniquely able to choose the subspecies of each clutch it lays."
-img: icons/game-icons/delapouite/orc-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
 shortcode: grkrahk
 type: being
 data:

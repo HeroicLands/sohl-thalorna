@@ -13,7 +13,7 @@ name:
     - Reslâva Elowen Meadowbloom
 packFolder: aureldiaelavendre
 shortcode: velarithrl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/velarithrl-portrait.webp

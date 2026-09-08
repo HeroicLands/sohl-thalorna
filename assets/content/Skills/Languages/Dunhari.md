@@ -5,7 +5,7 @@ name:
   aliases:
     - Dunhari
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: dunharlng
 type: skill
 subType: language

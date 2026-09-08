@@ -6,7 +6,7 @@ name:
   aliases:
     - Verity Elixir
 description: "Transparent clarifying elixir; pierces illusions within sixty feet."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxVer
 type: concoctiongear
 subType: elixir

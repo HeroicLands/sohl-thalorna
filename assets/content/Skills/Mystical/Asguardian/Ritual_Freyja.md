@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: freyja
-img: images/affiliation/freyja.webp
+img: images/affiliation/asguardian/freyja.webp
 name:
   full: "Ritual: Fréyja"
   aliases:

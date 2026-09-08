@@ -11,7 +11,7 @@ name:
 packFolder: midhalionvylaria
 shortcode: lucernsrnt
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: images/beings/characters/lucernsrnt-portrait.webp
 type: being
 data:
   portrait: images/being/lucernsrnt-portrait.webp

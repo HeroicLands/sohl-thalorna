@@ -12,7 +12,7 @@ name:
     - Jeb Flint
 packFolder: helladhelionis
 shortcode: jdhrsbshrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/jdhrsbshrn-portrait.webp

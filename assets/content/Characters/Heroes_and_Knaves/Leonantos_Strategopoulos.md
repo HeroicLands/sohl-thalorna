@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: lnntstrtgpls
-img: icons/person.svg
+img: images/beings/characters/lnntstrtgpls-portrait.webp
 type: being
 data:
   portrait: images/being/lnntstrtgpls-portrait.webp

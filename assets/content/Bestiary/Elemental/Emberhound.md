@@ -5,7 +5,7 @@ name:
   full: Emberhound
   aliases: []
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
-img: icons/game-icons/lorc/hound.svg
+img: images/beings/creatures/embrhnd-portrait.webp
 shortcode: embrhnd
 type: being
 data:

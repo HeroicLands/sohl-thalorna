@@ -87,7 +87,7 @@ name:
   aliases:
     - The Serpent's Path
 shortcode: loki
-img: images/affiliation/loki.webp
+img: images/affiliation/asguardian/loki.webp
 sohl:
   templatePriority: null
 packFolder: pantheonsasguardian

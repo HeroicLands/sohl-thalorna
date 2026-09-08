@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: qamiralamr
-img: icons/person.svg
+img: images/beings/characters/qamiralamr-portrait.webp
 type: being
 data:
   portrait: images/being/qamiralamr-portrait.webp

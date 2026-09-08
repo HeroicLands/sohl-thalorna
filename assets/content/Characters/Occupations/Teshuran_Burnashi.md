@@ -12,7 +12,7 @@ name:
     - Galen Stonehart
 packFolder: midhalionharad
 shortcode: tshrnbrnsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tshrnbrnsh-portrait.webp

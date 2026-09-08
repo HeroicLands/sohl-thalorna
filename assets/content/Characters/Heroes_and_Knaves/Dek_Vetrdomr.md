@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: dekvetrdmr
-img: icons/person.svg
+img: images/beings/characters/dekvetrdmr-portrait.webp
 type: being
 data:
   portrait: images/being/dekvetrdmr-portrait.webp

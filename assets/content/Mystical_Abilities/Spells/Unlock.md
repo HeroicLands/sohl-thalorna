@@ -5,7 +5,7 @@ name:
   aliases:
     - Key
 description: "Opens sealed passages; unlocks magical locks and barriers."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: unlock
 type: mysticalability
 subType: arcaneincantation

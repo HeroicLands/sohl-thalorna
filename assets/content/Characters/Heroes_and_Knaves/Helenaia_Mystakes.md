@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: helnmystks
-img: icons/person.svg
+img: images/beings/characters/helnmystks-portrait.webp
 type: being
 data:
   portrait: images/being/helnmystks-portrait.webp

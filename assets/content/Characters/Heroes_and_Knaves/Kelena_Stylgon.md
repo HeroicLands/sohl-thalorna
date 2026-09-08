@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kelnstylgn
-img: icons/person.svg
+img: images/beings/characters/kelnstylgn-portrait.webp
 type: being
 data:
   portrait: images/being/kelnstylgn-portrait.webp

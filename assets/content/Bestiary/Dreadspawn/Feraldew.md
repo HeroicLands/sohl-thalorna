@@ -5,7 +5,7 @@ name:
   full: Feraldew
   aliases: []
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: images/beings/creatures/feraldew-portrait.webp
 shortcode: feraldew
 type: being
 data:

@@ -15,7 +15,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
-img: icons/person.svg
+img: images/beings/characters/siprahipmr-portrait.webp
 type: being
 data:
   portrait: images/being/siprahipmr-portrait.webp

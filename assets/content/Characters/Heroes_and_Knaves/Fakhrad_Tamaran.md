@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: fakhrdtmrn
-img: icons/person.svg
+img: images/beings/characters/fakhrdtmrn-portrait.webp
 type: being
 data:
   portrait: images/being/fakhrdtmrn-portrait.webp

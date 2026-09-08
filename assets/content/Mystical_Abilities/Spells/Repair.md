@@ -5,7 +5,7 @@ name:
   aliases:
     - Mend
 description: "Mends broken objects; restores structures to working condition."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: repair
 type: mysticalability
 subType: arcaneincantation

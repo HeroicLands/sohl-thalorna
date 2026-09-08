@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: loki
-img: images/affiliation/loki.webp
+img: images/affiliation/asguardian/loki.webp
 name:
   full: "Ritual: Lôki"
   aliases:

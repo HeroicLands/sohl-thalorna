@@ -5,7 +5,7 @@ name:
   full: Mountain Drake
   aliases: []
 description: "A lean, granite-scaled reptilian predator up to eight feet long, spined along the back and built to climb and ambush across rocky mountain terrain."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: images/beings/creatures/mntndrk-portrait.webp
 shortcode: mntndrk
 type: being
 data:

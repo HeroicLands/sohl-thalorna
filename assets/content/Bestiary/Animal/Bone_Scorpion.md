@@ -5,7 +5,7 @@ name:
   full: Bone Scorpion
   aliases: []
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
-img: icons/game-icons/lorc/scorpion.svg
+img: images/beings/creatures/bnscrpn-portrait.webp
 shortcode: bnscrpn
 type: being
 data:

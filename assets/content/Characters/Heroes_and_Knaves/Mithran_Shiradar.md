@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: mthrnshrdr
-img: icons/person.svg
+img: images/beings/characters/mthrnshrdr-portrait.webp
 type: being
 data:
   portrait: images/being/mthrnshrdr-portrait.webp

@@ -5,7 +5,7 @@ name:
   aliases:
     - Thâravárkon
 description: "The graven letters of imperial Vylaria — the ceremonial runic script of temple, tomb and triumphal arch."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thrvrknscrpt
 type: skill
 subType: script
