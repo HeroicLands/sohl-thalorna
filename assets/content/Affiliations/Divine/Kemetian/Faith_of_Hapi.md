@@ -45,7 +45,10 @@ data:
       Keeper of the Wine Vaults: >-
         The Hem'Netjer responsible for the temple's wine.
       Keeper of the Granaries: >-
-        The Hem'Netjer responsible for the temple's stores.
+        The Hem'Netjer responsible for the temple's stores. The great granaries anchor the grain-credit
+        economy and supply the dole given out to temple-dependents, the flood-season construction gangs and
+        the registered poor — which is less charity than statecraft: a hungry capital is a dangerous one,
+        and whoever controls the granaries holds a lever on the peace of the city.
       Keeper of the Festival Calendar: >-
         The Hem'Netjer who sets and keeps the cycle of feasts on which the cult's standing rests.
   commonSkills:
@@ -56,7 +59,8 @@ data:
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - hapidty
   parents:

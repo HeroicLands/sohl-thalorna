@@ -48,14 +48,27 @@ data:
         A Wab trained in the secret mysteries: the nature of the god's nightly battle, and the names of power through which the priesthood communes with him.
       Keeper of the Ápōphis Records: >-
         A Wer'Hekau holding the secret records and treatises on the chaos god, so the priesthood can counsel the Per-Aá and prepare the realm for catastrophe.
+      Reader of the Measure: >-
+        Reads the great nilometer of the capital daily through the inundation and carries the count to the
+        temple. As the flood nears its crest the reading is proclaimed to the city and the empire as the
+        single most important number of the year: the height of the flood foretells the harvest, and the
+        harvest sets the taxes. Falsifying it is among the gravest crimes a Kheperi can name.
+      Keeper of the Inner Sanctuary: >-
+        Only the Wer'Hekau of Rā and the Per-Aá may enter the small, dark, ancient sanctuary at the heart of
+        the Great Temple, where the god's image dwells.
+      Warden of the Binding: >-
+        Maintains the wards the priesthood set on the cursed Way of the False Rā, whose death-magic was
+        sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed:
+        any soul seen seeking the cursed road is killed where they stand.
   commonSkills:
     - ra
     - math
     - khprsshscrpt
-  seat: null
+  seat: iattepy
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - radty
   parents:

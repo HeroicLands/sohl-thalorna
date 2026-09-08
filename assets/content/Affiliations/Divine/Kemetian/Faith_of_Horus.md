@@ -53,7 +53,8 @@ data:
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - horusdty
   parents:

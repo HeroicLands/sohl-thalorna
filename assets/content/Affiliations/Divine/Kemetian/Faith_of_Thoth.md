@@ -50,15 +50,28 @@ data:
         The Hem'Netjer holding that archive and training its younger scholars.
       Recorder of the Chaos God: >-
         Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being held the strongest defence against chaos.
+      Keeper of the King-Lists: >-
+        Holds the temple chronologies — the meticulously maintained list of every dynasty and Per-Aá since
+        the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great Temple of Rā.
+        Western scholars note improbable reigns and suspiciously neat numbers in the earliest dynasties; the
+        Kheperi are serenely unconcerned, the lists having been compiled by the priesthood of the god of
+        sacred knowledge.
+      Master of the Calendar-Service: >-
+        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the three-season
+        year of Akhet, Peret and Shemu — the most accurate calendar in the known world.
+      Warden of the Library-Temple: >-
+        Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
+        the very few foreigners ever admitted.
   commonSkills:
     - thoth
     - khprsshscrpt
     - math
     - pysn
-  seat: null
+  seat: khemenu
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - thothdty
   parents:

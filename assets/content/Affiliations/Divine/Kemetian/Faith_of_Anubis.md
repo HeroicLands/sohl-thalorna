@@ -47,15 +47,30 @@ data:
         A Hem'Netjer who chants the required prayers and supervises the ceremonies rather than performing the preparation.
       Warden of the Embalming Houses: >-
         Manages the drying beds where bodies are treated with natron, the workshops preparing linen, and the chambers where aromatic oils and ointments are made.
+      Embalmer of the First Class: >-
+        Performs the full treatment of some seventy days — the body drawn, dried in natron, anointed with
+        costly resins, and wrapped in fine linen with amulets at every joint. The trade is graded by old
+        custom into first, second and third class, and the scale of preparation tracks wealth with brutal
+        precision.
+      Keeper of the Paupers' Field: >-
+        Because the weighing of the heart spares no one, no soul may be left without the minimum rites. The
+        temples keep paupers' fields and say the words over the destitute, alongside the neighbourhood and
+        guild burial-clubs ordinary folk pay into so that no member goes to the West unwrapped and
+        unmourned.
+      Cult-Priest of an Offering-Chapel: >-
+        Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment is the
+        tomb's true defence: where a cult dwindles or a line is forgotten, decay creeps in — and those are
+        exactly the reaches where the tomb-robbers work.
   commonSkills:
     - anubis
     - pysn
     - herb
     - khprsshscrpt
-  seat: null
+  seat: khensuret
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - anubisdty
   parents:

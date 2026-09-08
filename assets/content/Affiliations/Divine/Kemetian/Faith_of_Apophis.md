@@ -15,7 +15,13 @@ data:
   governance:
     model: council
     summary: >-
-      There is no organised priesthood, and within the orthodoxy of Ta'Kheperu the idea is unthinkable. What exists instead is two unconnected things: frontier practitioners who treat the god as an aspect of storm, earthquake and drought and work protections against him under implicit sanction, and isolated heretics who venerate him, hunted by civil and religious authority alike. Formal knowledge of the god is not held here at all — it is kept in the higher echelons of Rā's and Thōth's temples.
+      There is no organised priesthood, and within the orthodoxy of Ta'Kheperu the idea is unthinkable. What
+      exists instead is three unconnected things: frontier practitioners who treat the god as an aspect of
+      storm, earthquake and drought and work protections against him under implicit sanction; isolated
+      heretics who venerate him, hunted without rest by the Medjay and the temple-inquisitors; and —
+      foremost among the forbidden cults the temples have driven underground — a small hidden sect that
+      means not to defy the order of the dead but to break it. Formal knowledge of the god is not held here
+      at all: it is kept in the higher echelons of Rā's and Thōth's temples.
     ranks:
       - level: 0
         title: Denounced
@@ -37,8 +43,15 @@ data:
         Maintains a hidden shrine to the chaos god — the single act whose discovery is capital.
       Ward-Worker: >-
         A frontier practitioner working protection and appeasement against storm, earthquake and drought.
-      Whispered Cell: >-
-        Rare texts hint at secret cults meeting in underground chambers, holding the chaos serpent to be a kind of liberation. They leave virtually no historical record, and scholars dispute whether they exist at all.
+      Hunted: >-
+        Most of what the temple-inquisitors and the Medjay turn up is harmless desperation rather than the
+        sect they are actually looking for — which does not soften what happens to it.
+      The Sect of the Waking: >-
+        The cult the priesthood of Rā fears in its bones: the sect that seeks the cursed road across the
+        water and would wake the False Rā — the sorcerer-king embalmed alive, his death-magic sealed into
+        the tomb with him, whose loosed revenant is held to mean famine and worse across the empire. That
+        any such cult exists at all is a secret the temple keeps close, and the reason the kill-on-sight
+        order on the cursed road has never once been relaxed.
   commonSkills:
     - apophis
     - folklr

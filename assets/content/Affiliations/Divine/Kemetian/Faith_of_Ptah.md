@@ -47,6 +47,17 @@ data:
         The Hem'Netjer specialising in one aspect of the craft tradition, which is how this priesthood divides its work.
       Keeper of the Building Arts: >-
         Charged with keeping the temple current with innovations and developments in building, the cult's standing resting on that currency.
+      Overseer of the Works: >-
+        Directs the monumental construction — pyramids, temple complexes, obelisks, colossi — which is not
+        slave labour but organised seasonal work performed by the farming population during the flood, when
+        agricultural labour is impossible. The projects are public works programmes as much as religious
+        acts.
+      Master of the Line: >-
+        Kheperi geometry was developed in service of architecture and land surveying, the annual flood
+        erasing property boundaries and requiring constant re-measurement. Art and building alike are held
+        to be magical acts: a properly executed tomb painting does not merely depict the afterlife, it is
+        the afterlife, made real through correct form — which is why perfection of the established form is
+        valued over innovation.
   commonSkills:
     - ptah
     - eng
@@ -55,7 +66,8 @@ data:
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - ptahdty
   parents:

@@ -48,6 +48,12 @@ data:
         A male priest, serving in smaller numbers and typically not in top authority; usually specialising in botanical knowledge, the sacred gardens, or the study of heredity and bloodlines.
       Keeper of the Sacred Gardens: >-
         Cultivates the gardens on which the healing practice depends.
+      Doctrine of the Balanced Partnership: >-
+        This cult supplies the theological basis for Kheperi women's unusual legal standing — that creation
+        requires the balanced partnership of masculine and feminine divine principles. Kheperi women own
+        property, initiate divorce, plead in the Kenbet, practise medicine and magic, conduct business
+        independently, and serve as priestesses including in high offices; several of the ablest rulers in
+        Kheperi history governed as Per-Aá in their own right.
   commonSkills:
     - iset
     - pysn
@@ -56,7 +62,8 @@ data:
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - isetdty
   parents:

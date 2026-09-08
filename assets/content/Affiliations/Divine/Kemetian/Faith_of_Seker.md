@@ -46,15 +46,27 @@ data:
         A master embalmer — a Wab who never advanced to full priesthood but gained significant status and wealth through skill and knowledge instead.
       Warden of a Mortuary Temple: >-
         The Hem'Netjer overseeing one temple and performing its embalming and funeral rites.
+      Keeper-Priest of the Mortuary Rites: >-
+        Performs the daily offerings and the ceaseless calendar of mortuary rites for the royal dead, as
+        part of the standing corps tens of thousands strong that keeps the necropolis running.
+      Watch-Priest: >-
+        Endowed by the wealthy to keep standing watch above a tomb — the outermost of the guarded layer,
+        above the barriers, the traps and the curses.
+      Binder of the Warded Chamber: >-
+        Sets the bindings in the deepest chambers: shabti-warriors that wake and strike when the seal is
+        broken, and revenant-wardens set to walk the dark forever. It is the costliest defence and the most
+        dreaded — and the robbers' surest master-key is a corrupt priest who knows which glyph is live and
+        which is bluff.
   commonSkills:
     - seker
     - pysn
     - herb
     - khprsshscrpt
-  seat: null
+  seat: khensuret
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - sekerdty
   parents:

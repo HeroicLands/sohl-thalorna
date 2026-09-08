@@ -48,6 +48,14 @@ data:
         Holds and interprets the legal codes on which the cult's authority rests.
       Temple Scribe: >-
         A Wab serving as scribe and administrator within the temple complex.
+      Weigher of the Heart: >-
+        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the feather
+        of the goddess. It exerts genuine moral influence on daily life — even the powerful fear a negative
+        judgment, and the knowledge that wealth cannot buy a favourable verdict is a real, if imperfect,
+        check on the worst abuses of power.
+      Legal Arbiter: >-
+        Legal arbitration is one of the recognised Hem'Netjer specialisations, and this cult supplies it.
+        Women plead in the Kenbet as well as men.
   commonSkills:
     - maat
     - law
@@ -56,7 +64,8 @@ data:
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - perhati
   lore:
     - maatdty
   parents:
