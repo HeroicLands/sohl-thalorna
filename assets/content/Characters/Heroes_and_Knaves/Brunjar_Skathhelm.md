@@ -552,6 +552,7 @@ sohl:
         encumbrance: floor(wt/4)
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
+    defaultCombatGroup: null
 ---
 
 # Appearance {#appearance}
