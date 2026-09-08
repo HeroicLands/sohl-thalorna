@@ -144,18 +144,18 @@ The curriculum is famously rigorous. A graduate of the Twilight House can recite
 
 ## Notable Affiliates
 
-- **[[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]** — a current Companion of growing prominence, recruited into the [[Thieves' Guild of Vedyara]] through Twilight House connections. She is presently walking the increasingly precarious line between three masters: her clients, the House, and the Guild.
+- **[[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]** — a current Companion of growing prominence, recruited into the Thieves' Guild of Vedyara through Twilight House connections. She is presently walking the increasingly precarious line between three masters: her clients, the House, and the Guild.
 - **The Mistress of the Long Evening** — present holder unnamed in public records; widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations
 
 The House's intelligence product is sold on three tiers. **Tier one** is the routine social weather — who attended which gathering, who was seen quarrelling, who has retained which advisor. Available to any paying subscriber, including most major noble houses and a few foreign embassies. **Tier two** is specific intelligence on a named target, gathered to commission, sold to the commissioning party. Pricing varies by target and difficulty; some targets are refused. **Tier three** is direct action — the use of a Companion's access to plant a document, switch a vial, deliver a message that cannot be traced. Tier three is rare, expensive, and politically dangerous; the Mistress will deny it exists.
 
-A standing arrangement exists between the House and the [[Thieves' Guild of Vedyara]] — the Guild recruits selected Companions into a dual role, using House access to coordinate operations the Guild could not otherwise reach. The arrangement is mutually profitable and mutually feared by both sides, since either could destroy the other.
+A standing arrangement exists between the House and the Thieves' Guild of Vedyara — the Guild recruits selected Companions into a dual role, using House access to coordinate operations the Guild could not otherwise reach. The arrangement is mutually profitable and mutually feared by both sides, since either could destroy the other.
 
 ## Relations
 
-- **[[Thieves' Guild of Vedyara]]** — formal partnership for intelligence sharing and recruitment. Tensions arise when the Guild's interests conflict with a high-paying client's.
+- **Thieves' Guild of Vedyara** — formal partnership for intelligence sharing and recruitment. Tensions arise when the Guild's interests conflict with a high-paying client's.
 - **The Maharaja's Court and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]** — clients and unwilling tributaries. Both purchase from the House and both have learned not to discuss matters of consequence in its rooms — a discipline that, in practice, breaks down across enough evenings and enough wine.
 - **The [[affiliation-velvethand|Velvet Hand]]** — counterpart in the west. The two organizations have an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries. Each has standing orders to refuse contracts that target the other directly.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly** — clients on tier two. The House sells to them; they pay handsomely; the House refuses to be controlled by any one of them.

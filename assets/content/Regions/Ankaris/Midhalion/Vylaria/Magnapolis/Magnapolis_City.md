@@ -23,7 +23,7 @@ packFolder: vylaria
 
 **Magnápolis** — _the Great City_ — is the capital and beating heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and the largest city in [[place-midhalnrgn|Midhalion]] and all of western [[place-ankrscntnnt|Ankaris]]. With somewhere between **750,000 and a million souls** — counting both those who dwell within the city proper and the sprawling outskirt communities pressed up against them — it is dwarfed only by the great cities of the [[affiliation-tanvurempr|Tanvur]] and [[place-kchchkcntnnt|K'ich'chik]] peoples far to the east. To the average subject of the western world, Magnápolis is not merely _a_ city. It is **the Polis** — the City entire, the measure against which all others are found wanting, and (in the eyes of its people) the single greatest city on all of [[place-worldthlrn|The World of Thalorna]].
 
-It rises across a cluster of hills above the eastern bank of the **[[River Vylaris]]**, the chief and highest of them crowned by the citadel and the palace, and from a distance it seems less a settlement than a mountain range of marble, tile, and gilded bronze, crowned with smoke from a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its people call themselves **Magnápolitans**, and they say the word as though it settles every argument.
+It rises across a cluster of hills above the eastern bank of the **River Vylaris**, the chief and highest of them crowned by the citadel and the palace, and from a distance it seems less a settlement than a mountain range of marble, tile, and gilded bronze, crowned with smoke from a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its people call themselves **Magnápolitans**, and they say the word as though it settles every argument.
 
 ## The Shape of the City
 
@@ -35,7 +35,7 @@ Every street in the city is **paved** — a point of immense civic pride and a m
 
 ### The Site
 
-Magnápolis is not the neat ringed city of its idealized maps. It rises across a **cluster of six hills** above the eastern bank of the [[River Vylaris]], and its true shape is dictated by them and by the water: an irregular sprawl, kinked along the river on its western flank and notched and bulging elsewhere as the city's bounds follow the contours of the outlying high ground rather than any drawn circle.
+Magnápolis is not the neat ringed city of its idealized maps. It rises across a **cluster of six hills** above the eastern bank of the River Vylaris, and its true shape is dictated by them and by the water: an irregular sprawl, kinked along the river on its western flank and notched and bulging elsewhere as the city's bounds follow the contours of the outlying high ground rather than any drawn circle.
 
 Highest and chief is **Mons Aquila**, the Eagle Hill, crowned by the walled [[place-urbsaquiln|Inner City]] and the [[place-palatimgnm|Grand Palace]] — the literal and figurative summit of the Empire, looking down on all the rest. Around it stand five lesser hills, each with its own character:
 
@@ -52,7 +52,7 @@ The hills also explain the **uneven scatter of the Circles**. A Circle is three 
 
 Magnápolis has no city wall. A curtain long enough to enclose a million souls would be gargantuan and ruinous to keep, and for a capital deep in the imperial heartland — its enemies held far off at the frontiers by the legions — a pointless one. What rings the city instead is a line and an emptiness.
 
-The line is the **pomerium**, the sacred and legal boundary first walked and consecrated at the founding and marked ever since by ancient boundary-stones. It is the pomerium, not any wall, that defines _Magnápolis_ in law: within it run the citizen's right of residence and the dole; across it the foul trades may not come; and beyond it — never within — the dead must lie, in the [[Necropolis of Magnápolis|Necropolis]]. By the same ancient interdict no armed legion may cross the line, so that a returning army enters only by the throne's leave — which is what a **triumph** is: that crossing made into spectacle.
+The line is the **pomerium**, the sacred and legal boundary first walked and consecrated at the founding and marked ever since by ancient boundary-stones. It is the pomerium, not any wall, that defines _Magnápolis_ in law: within it run the citizen's right of residence and the dole; across it the foul trades may not come; and beyond it — never within — the dead must lie, in the Necropolis. By the same ancient interdict no armed legion may cross the line, so that a returning army enters only by the throne's leave — which is what a **triumph** is: that crossing made into spectacle.
 
 The emptiness is **the Clearance** — a swept strip of open ground, roughly a hundred feet wide, that by standing decree must be kept clear the whole way round: no building, no stall, no crossing save at the gate-roads. The city's buildings crowd to its inner edge and stop dead, as though an invisible wall stood there, and the outskirts begin just as abruptly beyond it. It earns its keep many times over. It is the outermost **firebreak**, a gap no blaze can leap, sealing the timber city from the timber suburbs. It is the **control line**: with no way across but the watched gate-roads, every soul and cart that enters passes the [[affiliation-vylrnmltry|City Watch]], the customs-men, and the residence-check the law requires. It is a **clear field** — a glacis without a wall — giving the Watch open sightlines and a perimeter road, and denying any mob or raider cover to mass against the edge unseen. And it is a statement: the Great City ends not in a straggle of shacks but at a crisp, deliberate line.
 
@@ -114,7 +114,7 @@ It is not quite enough. A great fire still comes every generation or two, and he
 
 ### District Law
 
-Magnápolis is governed by an intricate and jealously enforced body of **district law** that dictates precisely what trade, craft, and commerce may be conducted in each quarter — and, just as much, what may _not_. The foul and the fire-hungry trades are not merely zoned but barred from the city entirely: the tanner, the dyer, the fuller, and the smith at his forge have no place inside the city at all. Within the city the law sorts the permitted trades by quarter — a moneylender may not keep a stall in the temple precincts, a cookshop may not smoke beside the perfumers — and it is enforced by the **[[Aediles]]**, civic magistrates whose inspectors can shutter a business, levy a fine, or order a building pulled down. Bribery of the Aediles is, of course, one of the city's oldest and most reliable industries.
+Magnápolis is governed by an intricate and jealously enforced body of **district law** that dictates precisely what trade, craft, and commerce may be conducted in each quarter — and, just as much, what may _not_. The foul and the fire-hungry trades are not merely zoned but barred from the city entirely: the tanner, the dyer, the fuller, and the smith at his forge have no place inside the city at all. Within the city the law sorts the permitted trades by quarter — a moneylender may not keep a stall in the temple precincts, a cookshop may not smoke beside the perfumers — and it is enforced by the **Aediles**, civic magistrates whose inspectors can shutter a business, levy a fine, or order a building pulled down. Bribery of the Aediles is, of course, one of the city's oldest and most reliable industries.
 
 ### The Districts
 
@@ -128,7 +128,7 @@ Because the foul and heavy trades are banished and the draught animals stabled o
 - **The Heights** — the twin patrician hills, **Mons Corónus** and **Mons Lauríne**: walled villas, terraced gardens, and the city-houses of senators and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
 - **The Warrens** — the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Mons Rípae** above the Wharves: many-storeyed _insulae_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
 
-The city's pleasures keep their own quarters too — the [[Theatre District (Magnápolis)|Theatre District]] and the Circus quarter about the **Circus Circle** — but those belong to its public life (see _Spectacle and the Public Life_).
+The city's pleasures keep their own quarters too — the Theatre District and the Circus quarter about the **Circus Circle** — but those belong to its public life (see _Spectacle and the Public Life_).
 
 ### The Scholars' District
 
@@ -182,7 +182,7 @@ Animals within the city are a privilege of the state, not the citizen. The only 
 
 ### Warehouses, Granaries, and the Daily Bread
 
-A city that cannot stable its own oxen certainly cannot grow its own food, and feeding a million mouths is the single greatest logistical labor of the Empire. Grain, oil, wine, fish, and produce flow in without pause — by barge to the [[River Vylaris|riverside]] wharves and by road to the gate-yards — and the work never stops: the supply of Magnápolis runs day and night, every day of the year. Great **warehouses and granaries** stand throughout the city to receive it, the largest of them state-run _horrea_ under imperial seal, from which the grain dole and the licensed markets are fed.
+A city that cannot stable its own oxen certainly cannot grow its own food, and feeding a million mouths is the single greatest logistical labor of the Empire. Grain, oil, wine, fish, and produce flow in without pause — by barge to the riverside wharves and by road to the gate-yards — and the work never stops: the supply of Magnápolis runs day and night, every day of the year. Great **warehouses and granaries** stand throughout the city to receive it, the largest of them state-run _horrea_ under imperial seal, from which the grain dole and the licensed markets are fed.
 
 The city does live close to the edge — but the danger lies sharper in the _flow_ than in the _store_. Fresh food, the daily milling and baking, and the market resupply run only three or four days deep; cut the inbound traffic and the shelves empty, prices spike, and the mood of the Circles turns ugly within the week, long before anyone has truly starved. Against exactly this the throne keeps the state granaries deliberately deep — weeks, and in a careful year a few months, of reserve grain — for it understands better than anyone that a hungry capital is a rebellious one. The granaries are thus as much a political instrument as a larder: whoever holds the dole holds the loyalty of the citizen body, and the reserve exists to outlast a blockade or a failed harvest and to break a panic before the panic breaks the city. Only a sustained interruption — weeks, not days — would drain that reserve to true famine; but the _fear_ of shortage has toppled more than one official faster than any real shortage could. This is the unglamorous machinery beneath the "bread and games" — and the dole it feeds is no common charity but the earned entitlement of the city's citizens (see _Citizens and Residents_ above).
 
@@ -192,7 +192,7 @@ Order beyond the Inner City is no business of the [[affiliation-pratrgstrm|The P
 
 ### The Courts
 
-The Watch enforces; it does not judge. Justice in the city proper runs through a tiered civic system — the [[Aediles]] for markets, licenses, and petty order; the **Iudicia** for civil suits; the **Criminal Tribunal** for theft and violence — all of it crowned by the **[[affiliation-curiaurbis|Curia Urbis]]**, the five-Curator council that governs Magnápolis beyond the Inner Wall and hears its gravest cases. Set wholly apart from this stand the **imperial tribunals** — the throne's own courts, which sit within the Inner City in the **Officia Imperii** and answer to the Augustar alone, for any matter touching the nobility, the [[affiliation-curiavylar|Senate]], or the crown, treason first of all. And as everywhere in the city, the law runs partly on influence: the right friends, the right purse, or the right patron find it accommodating, while those without learn how heavy it can be. (For the council, the civic courts, and the imperial tribunals in full, see [[affiliation-curiaurbis|the Courts of Magnápolis]].)
+The Watch enforces; it does not judge. Justice in the city proper runs through a tiered civic system — the Aediles for markets, licenses, and petty order; the **Iudicia** for civil suits; the **Criminal Tribunal** for theft and violence — all of it crowned by the **[[affiliation-curiaurbis|Curia Urbis]]**, the five-Curator council that governs Magnápolis beyond the Inner Wall and hears its gravest cases. Set wholly apart from this stand the **imperial tribunals** — the throne's own courts, which sit within the Inner City in the **Officia Imperii** and answer to the Augustar alone, for any matter touching the nobility, the [[affiliation-curiavylar|Senate]], or the crown, treason first of all. And as everywhere in the city, the law runs partly on influence: the right friends, the right purse, or the right patron find it accommodating, while those without learn how heavy it can be. (For the council, the civic courts, and the imperial tribunals in full, see [[affiliation-curiaurbis|the Courts of Magnápolis]].)
 
 ## The Hand of the Ordo Arcanis
 
@@ -201,7 +201,7 @@ Magnápolis is not a mundane city. The **[[affiliation-ordoarcanis|Ordo Arcanis]
 The signs are everywhere for those who know to look — and many are impossible to miss:
 
 - **Glow-lamps and cold-fire lanterns** light the principal avenues and the Grand Palace after dark, so that the Inner City never truly goes black.
-- The great **dome of the [[Temple of the Twelve]]** and several palace halls stand wider and higher than mortar and stone alone should allow, held by quiet enchantments worked into their keystones.
+- The great **dome of the Temple of the Twelve** and several palace halls stand wider and higher than mortar and stone alone should allow, held by quiet enchantments worked into their keystones.
 - **Aqueduct-fountains** in the Circles run in patterns and heights that no mere water-pressure could achieve, shaped for spectacle on feast days.
 - Warding-glyphs, near-invisible in daylight, ring the imperial precincts against fire, poison, and unwanted intrusion.
 
@@ -229,7 +229,7 @@ The roar of the Circus on a race day can be heard across half the city, and an a
 
 ### The Theatre District
 
-A quieter but no less celebrated quarter is the **[[Theatre District (Magnápolis)|Theatre District]]**, where great semicircular **theatres and odeons** host tragedies, comedies, recitations, and music. The Vylarian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Ordo-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
+A quieter but no less celebrated quarter is the **Theatre District**, where great semicircular **theatres and odeons** host tragedies, comedies, recitations, and music. The Vylarian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Ordo-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
 
 ### Baths, Markets, and Forums
 
@@ -243,15 +243,15 @@ Beyond the Clearance sprawl the **outskirt communities** — the unplanned, half
 - **The Gate-Yards.** Ringing each great gate stand the transit-yards — stables, ostlers, caravanserais, and teamsters' lodgings — where the road-caravans halt, the draught animals are housed, and wagon-cargo is broken down onto porters and handcarts for the journey through the gate.
 - **The Garden-Estates.** On the pleasanter hills and riverbanks, well clear of the squalor, lie the **horti** — the walled suburban pleasure-villas of the very rich, with their gardens and their quiet: the genteel opposite face of the same extramural ground.
 
-It is dirtier, wilder, and more lawless out here than within, beyond the easy reach of the [[Aediles]] and the Watch, and it swells and shrinks with the fortunes of the Empire — a breeding-ground of plague and unrest in bad years, a gathering-place of new blood and restless energy in good ones. Either way its people count themselves Magnápolitans, and they are not wrong to; the city could not survive a week without them.
+It is dirtier, wilder, and more lawless out here than within, beyond the easy reach of the Aediles and the Watch, and it swells and shrinks with the fortunes of the Empire — a breeding-ground of plague and unrest in bad years, a gathering-place of new blood and restless energy in good ones. Either way its people count themselves Magnápolitans, and they are not wrong to; the city could not survive a week without them.
 
 ## The Campus Vylaris
 
-Beyond the Clearance, along the [[River Vylaris]] and well apart from the [[Necropolis of Magnápolis|Necropolis]] on the city's opposite flank, spreads the **Campus Vylaris** — _"the Vylarian Fields"_ — the great extramural commons, and the largest open ground the city keeps. A sweep of water-meadow, groves, and riverside walks, it is the playground of Magnápolis: the place for athletics, riding, swimming, and boating, and the site of the seasonal fairs and festivals too vast for any Circle within the city. Like the Viridarium it is held inviolate, kept unbuilt and uncommercialized save for the licensed festival-grounds and boat-hires; and like the rest of the city it frays a little at the edges, the older victory-markers leaning unread in the long grass while the festival-grounds the crowds actually use are kept trim.
+Beyond the Clearance, along the River Vylaris and well apart from the Necropolis on the city's opposite flank, spreads the **Campus Vylaris** — _"the Vylarian Fields"_ — the great extramural commons, and the largest open ground the city keeps. A sweep of water-meadow, groves, and riverside walks, it is the playground of Magnápolis: the place for athletics, riding, swimming, and boating, and the site of the seasonal fairs and festivals too vast for any Circle within the city. Like the Viridarium it is held inviolate, kept unbuilt and uncommercialized save for the licensed festival-grounds and boat-hires; and like the rest of the city it frays a little at the edges, the older victory-markers leaning unread in the long grass while the festival-grounds the crowds actually use are kept trim.
 
 ## The Necropolis
 
-A short way beyond the city, set apart from the living on the open plain, sprawls the **[[Necropolis of Magnápolis|Necropolis]]** — a vast city of the dead that has grown for as long as Magnápolis itself. A metropolis of a million souls produces a great many corpses, and the Necropolis is the answer to them: mile upon mile of tombs, mausolea, grave-terraces, and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute, with augustars entombed in monuments visible from the city's edge.
+A short way beyond the city, set apart from the living on the open plain, sprawls the **Necropolis** — a vast city of the dead that has grown for as long as Magnápolis itself. A metropolis of a million souls produces a great many corpses, and the Necropolis is the answer to them: mile upon mile of tombs, mausolea, grave-terraces, and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute, with augustars entombed in monuments visible from the city's edge.
 
 It is tended jointly by two priesthoods that, anywhere else, would have little to say to one another: the Aurèldían clergy of **[[affiliation-thanatos|Thánatos]]**, the Silent Judge, and the Asguardian clergy of **Hél**. Their shared custody of the dead is the root of Hél's surprising power in the capital. The Necropolis is a city in its own right — with its own watch, its own quiet economy of funerary trades, and its own silent avenues — and the rumors of what the Hél-priests keep, and tend, in its deeper vaults are enough that even bold Magnápolitans speak of the place with lowered voices.
 
@@ -262,7 +262,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 **Nation:** [[affiliation-vylarinmpr\|Vylarian Empire]]\
 **Region:** [[place-midhalnrgn\|Midhalion]], western [[place-ankrscntnnt|Ankaris]]
 **Population:** 50,000–1,000,000 (city + outskirts)
-**Setting:** A cluster of six hills on the eastern bank of the [[River Vylaris]]; the Inner City crowns the highest, Mons Aquila
+**Setting:** A cluster of six hills on the eastern bank of the River Vylaris; the Inner City crowns the highest, Mons Aquila
 **The Six Hills:** [[place-sixhillsvyl#monsaquila|Mons Aquila]] (Inner City & Palace); [[place-sixhillsvyl#monscoronus|Mons Corónus]] & [[place-sixhillsvyl#monslaurine|Mons Lauríne]] (the Heights); [[place-sixhillsvyl#monssapiens|Mons Sápiens]] (Scholars'); [[place-sixhillsvyl#monsvetus|Mons Vétus]] (the faded hill); [[place-sixhillsvyl#monsripae|Mons Rípae]] (above the Wharves)
 **Seat of power:** The [[place-palatimgnm|Grand Palace]], in the walled Inner City — [[place-urbsaquiln|Urbs Aquilion]], atop Mons Aquila
 **Governing bodies:** The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar|Vylarian Senate]]; the civic [[affiliation-curiaurbis|Curia Urbis]] and the courts beneath it
@@ -282,4 +282,4 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 - [[place-palatimgnm|Grand Palace]]
 - [[place-circusmaximusmagnapls|Circus Maximus]]
 - [[place-magngndorery|Grand Orrery]]
-- [[Necropolis of Magnápolis]]
+- Necropolis of Magnápolis

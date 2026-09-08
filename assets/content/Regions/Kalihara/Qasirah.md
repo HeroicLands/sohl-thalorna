@@ -30,6 +30,6 @@ The population is diverse: native Kaliharan families, long-established Vedyaran 
 
 ## See Also
 
-- [[Kalihara Confederation]] — Regional overview
+- Kalihara Confederation — Regional overview
 - [[skill-valtarlng|Valtári]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

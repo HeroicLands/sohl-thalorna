@@ -27,7 +27,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Ambassador
 
-**Name:** [[Sir Aran Célavren]]
+**Name:** Sir Aran Célavren
 
 - **Role:** High-ranking knight and noble.
 - **Background:** An experienced diplomat and trusted advisor from the court of Dúnavarre.
@@ -35,7 +35,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Chamberlain
 
-**Name:** [[Baridan Aléndavel]]
+**Name:** Baridan Aléndavel
 
 - **Role:** Responsible for managing the household and logistics.
 - **Background:** Known for his organizational skills and loyalty to Dúnavarre's nobility.
@@ -43,7 +43,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Scribe/Clerk
 
-**Name:** [[Elowyr Nimávren]]
+**Name:** Elowyr Nimávren
 
 - **Role:** Ensures accurate record-keeping and correspondence.
 - **Background:** Trusted for his meticulous work and reliability in court records.
@@ -51,13 +51,13 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Diplomatic Aides
 
-1. **Name:** [[Lady Thaeklia Maelvri]]
+1. **Name:** Lady Thaeklia Maelvri
 
 - **Role:** Assists in diplomatic negotiations and serves as an interpreter.
 - **Background:** Possesses extensive knowledge of eastern customs.
 - **Intrigue:** Ambitious and sees the mission as a stepping stone to greater power. Secretly manipulates outcomes to increase her standing, possibly by forming or breaking alliances without the ambassador's knowledge. Is aware of Kadylem's romantic interest, and may use it to her advantage if possible.
 
-1. **Name:** [[Loris Taravel]]
+1. **Name:** Loris Taravel
 
 - **Role:** Tasked with handling negotiations and translating documents.
 - **Background:** Skilled in multiple languages and international customs.
@@ -65,21 +65,21 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Knights
 
-1. **Name:** [[Sir Arren Thábavel]]
+1. **Name:** Sir Arren Thábavel
 
 - **Role:** Bodyguard and provides security counsel.
 - **Background:** Sir Arren is a brave and experienced knight, well-known for his martial prowess, particularly in tournaments. He recently won the prestigious Royal Celivren Tournament of Chivalry, further cementing his reputation as an excellent combatant. Despite his accolades, Sir Arren feels overshadowed by Dame Toradh because her distinctions stem from actual military campaigns, which he perceives as being held in higher regard by others.
 - **Intrigue:** Sir Arren's jealousy of Dame Toradh's military achievements drives him to attempt to outshine her in any confrontations or engagements. His frustration over being seen mainly as a tournament knight rather than a battle-hardened warrior could lead to reckless decisions or internal conflicts, potentially compromising the mission.
 
-1. **Name:** [[Dame Toradh Taravren]]
+1. **Name:** Dame Toradh Taravren
 
-- **Role:** Captain of the _[[Order of the Just Blade]]_ and provides military counsel.
-- **Background:** A Knight-Captain of the Order of the Just Blade (a militant order of the [[affiliation-janus|Faith of Janus]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
+- **Role:** Captain of the _Order of the Just Blade_ and provides military counsel.
+- **Background:** A Knight-Captain of the Order of the Just Blade (a militant order of the [[affiliation-janus|Faith of Janus]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the Saelvri. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
 - **Intrigue:** Though she has fought in the crusade, Dame Toradh secretly despises it, considering it contrary to the true principles of the Order and the faith of Jánus. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
 
 ### Sergeant-at-Arms and Spymaster
 
-**Name:** [[Marric Háravrel]]
+**Name:** Marric Háravrel
 
 - **Role:** Security and training of guards, gathering intelligence.
   - **Known Role:** Most of the retinue knows him as the Sergeant-at-Arms.
@@ -89,7 +89,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Herald
 
-**Name:** [[Kadylem Cúdavel]]
+**Name:** Kadylem Cúdavel
 
 - **Role:** Announces the ambassador’s arrival and status.
 - **Background:** Skilled in ceremonial duties and official events.
@@ -97,18 +97,18 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Steward
 
-Name: [[Laradh Lúavel]]
+Name: Laradh Lúavel
 
 - **Role:** Manages the financial aspects.
 - **Background:** Has a keen eye for detail and a strong grip on managing resources.
-- **Intrigue:** Laradh has a serious gambling problem, which has led him into significant debt with the [[Umbral Court]] (Thieves' Guild). To cover his gambling losses, Laradh has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, Ilara, if he does not comply with their demands. These threats make Laradh susceptible to blackmail, manipulation, and possibly compromising the mission.
+- **Intrigue:** Laradh has a serious gambling problem, which has led him into significant debt with the Umbral Court (Thieves' Guild). To cover his gambling losses, Laradh has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, Ilara, if he does not comply with their demands. These threats make Laradh susceptible to blackmail, manipulation, and possibly compromising the mission.
 - **Laradh's Daughter: Lady Ilara**
-  - **Name:** [[Lady Ilara Lúavel]]
+  - **Name:** Lady Ilara Lúavel
   - **Role and Background:** Ilara is Laradh's beloved daughter, currently living under the shadow of his gambling debts and the threats from the Umbral Court. Her safety is Laradh's primary concern, which the Umbral Court exploits to ensure his cooperation in their schemes.
 
 ### Physician
 
-Name: [[Nhelyn Vélthravel]]
+Name: Nhelyn Vélthravel
 
 - **Role:** Provides medical care for the party.
 - **Background:** Recognized as one of the best physicians and healers in Dúnavarre.
@@ -116,7 +116,7 @@ Name: [[Nhelyn Vélthravel]]
 
 ### Alchemist
 
-Name: [[Alananor Enéavel]]
+Name: Alananor Enéavel
 
 - **Role:** Provides medicinal and magical support.
 - **Background:** Expert in alchemy and producing necessary potions and remedies.
@@ -124,11 +124,11 @@ Name: [[Alananor Enéavel]]
 
 ### Chief Cook
 
-Name: [[Geldar_Panivel_the_Younger|Geldar Panivel, the Younger]]
+Name: Geldar Panivel, the Younger
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.
-- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[Baloth Nemirina]], a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
+- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of Baloth Nemirina, a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 
@@ -139,7 +139,7 @@ Name: Vacant
 
 ### Religious Advisor/Chaplain
 
-Name: [[Lhetek Larnavel]]
+Name: Lhetek Larnavel
 
 - **Role:** Provides spiritual guidance.
 - **Background:** Lhetek is a High Priest of Jánus known for his dedication and steadfastness in maintaining the spiritual health and moral compass of the party. He conducts religious ceremonies, offers counsel, and ensures the mission adheres to Jánus's principles of order and justice.
@@ -147,7 +147,7 @@ Name: [[Lhetek Larnavel]]
 
 ### Stable Master
 
-Name: [[Rickar Lúavel]]
+Name: Rickar Lúavel
 
 - **Role:** Takes care of the horses and other animals.
 - **Background:** Expertise in animal care and handling.
@@ -185,11 +185,11 @@ Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Éla
 
 ### The Leader of Panepistemium:
 
-- Name: [[Alananor_Enewyn|Alananor Enéwyn]]
+- Name: Alananor Enéwyn
 - Title: Royal Loremaster of Élavendre
 - Background: Alananor is a Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner from Béravel.
-- Ancient Scroll: Alananor possesses a recently discovered ancient scroll that mentions the [[Heart of Dhiríkri]] currently located within Úqua-Lællyn. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
-- Time Navigational Device: Alananor provides the party with a device known as the [[Temporal Compass]]. This magical instrument helps navigate the time distortions within Úqua-Lællyn, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
+- Ancient Scroll: Alananor possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within Úqua-Lællyn. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
+- Time Navigational Device: Alananor provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Lællyn, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
 
 ### Úqua-Lællyn
 
@@ -215,7 +215,7 @@ The flora in Úqua-Lællyn is not only gigantic but also potentially deadly, wit
 
 #### The Maze of Echoes
 
-To access the Heart of Dhiríkri, the party must solve a complex physical obstacle known as the [[Maze of Echoes]]. This ancient labyrinthine structure is constructed of living wood and vines that shift and change, creating a nearly impossible path unless certain conditions are met.
+To access the Heart of Dhiríkri, the party must solve a complex physical obstacle known as the Maze of Echoes. This ancient labyrinthine structure is constructed of living wood and vines that shift and change, creating a nearly impossible path unless certain conditions are met.
 
 - **Setup:** The Maze of Echoes is enchanted to respond to sound. Echoes and reverberations within the maze reveal hidden pathways and clues. The correct pathway echoes a crystalline resonance that leads toward the Heart.
 - **Clues Provided:**

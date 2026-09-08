@@ -463,4 +463,4 @@ Several practical implications follow from the cosmology established here.
 - [[lore-godsrelign|Gods and Religion]] — What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
 - [[lore-divineactn|Divine Action]] — How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
 - [[doc-thlbestiary#helspawn|Helspawn]] — The undead in detail: Helthraals, Nightwights, their creation, their politics, and practical guidance for running them
-- [[Foreign_Traditions_Comparative]] — _(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
+- Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions

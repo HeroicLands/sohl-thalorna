@@ -210,4 +210,4 @@ The cosmology established in this document has several practical implications.
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-godsrelign|Gods and Religion]] — What religions are, how they function, and the four mechanisms of "divine" effect
 - [[lore-soulspirts|Souls and Spirits]] — _(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of spirit-agents and demi-divine entities within the soul-cosmology, elementals, and dragons
-- [[Foreign_Traditions_Comparative]] — _(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, including priestly traditions
+- Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, including priestly traditions

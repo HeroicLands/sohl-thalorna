@@ -21,11 +21,11 @@ packFolder: adventures
 
 # The Forgotten Shrine of the Thúravel Hills
 
-A shrine hidden in the [[Thúravel Hills]] holds secrets of pre-Aurèldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
+A shrine hidden in the Thúravel Hills holds secrets of pre-Aurèldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
 
 ## Overview
 
-Deep in the Thúravel Hills of southern [[place-provenzrgn|Provènzia Region]] stands a [[Shrine_of_Thuravel_Hills|shrine]] forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aurèldían]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
+Deep in the Thúravel Hills of southern [[place-provenzrgn|Provènzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aurèldían]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
 
 ## Stage One: The Commission & Research
 
