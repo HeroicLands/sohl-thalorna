@@ -24,78 +24,51 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A monastic priesthood organised around the dream-chambers: acolytes keep watch over sleeping petitioners, the working priesthood reads and records what they bring, and a proven oneiromancer of many years' standing presides.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Patita
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Fallen" — put out of the tradition, denied its rites and its teaching, and not received
+          again by any of its houses.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Upāsaka
+        lore: layfaithfulrnk
+        description: >-
+          The lay follower, who keeps the observances and brings petitions without holding any
+          office in the tradition.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Nidrāpāla
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Keeper of Sleep" — acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
+      - level: 3
+        title: Darśaka
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Seer" — the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
+      - level: 4
+        title: Svapna-Ácārya
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Master of Dreams" — senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Svapna-Ácārya: >-
+        "Master of Dreams" — senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
+      Darśaka: >-
+        "Seer" — the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
+      Nidrāpāla: >-
+        "Keeper of Sleep" — acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
+      Keeper of the Dream-Record: >-
+        Holds the monastery's accumulated recording of dreams brought by the faithful, against which new ones are read.
+      Chamber-Warden: >-
+        The Nidrāpāla on watch over a sleeping petitioner, answerable for what happens while they sleep.
+  commonSkills:
+    - folklr
+    - herb
+    - pysn
+    - sing
   seat: null
   domains: []
   population: null

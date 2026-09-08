@@ -20,80 +20,55 @@ data:
   epithet: The Path of the Flame
   symbol: An ascetic's pilgrim staff bound with a single flame
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Authority rests with the individual priest on the road rather than with any chapter: the Dahana-Mūla is a rare rank, and most of the sect is itinerant, travelling alone or in pairs with an ember-vessel each.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Patita
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Fallen" — put out of the tradition, denied its rites and its teaching, and not received
+          again by any of its houses.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Upāsaka
+        lore: layfaithfulrnk
+        description: >-
+          The lay follower, who keeps the observances and brings petitions without holding any
+          office in the tradition.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Bhasma
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Ash" — novices, who serve a five-year probation of travel and work before being entrusted with a vessel of their own.
+      - level: 3
+        title: Jvālita
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Kindled One" — the ordinary priesthood: itinerant, typically travelling alone or in pairs, each carrying their own ember-vessel.
+      - level: 4
+        title: Dahana-Mūla
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Root of the Burning" — senior priest of a regional chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Dahana-Mūla: >-
+        "Root of the Burning" — senior priest of a regional chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
+      Jvālita: >-
+        "Kindled One" — the ordinary priesthood: itinerant, typically travelling alone or in pairs, each carrying their own ember-vessel.
+      Bhasma: >-
+        "Ash" — novices, who serve a five-year probation of travel and work before being entrusted with a vessel of their own.
+      Ember-Bearer: >-
+        A Jvālita entrusted with a vessel of their own, which is what ordination in this sect actually confers.
+      Chapter Root: >-
+        The Dahana-Mūla of a region, on the rare occasions a chapter is settled enough to have one.
+  commonSkills:
+    - srvl
+    - herb
+    - pysn
+    - melee
+    - folklr
+    - dscr
   seat: null
   domains: []
   population: null
