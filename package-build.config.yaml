@@ -134,6 +134,7 @@ packageBuild:
         - { from: LICENSE.md, to: LICENSE.md }
         - { from: src/LICENSE, to: src/LICENSE }
         - { from: assets/icons, to: assets/icons }
+        - { from: assets/images, to: assets/images }
         - { from: assets/LICENSE, to: assets/LICENSE }
 
     # Matches the SoHL system: every icon's default-black fill is rewritten to
