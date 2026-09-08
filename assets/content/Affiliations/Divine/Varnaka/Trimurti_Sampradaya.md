@@ -62,6 +62,7 @@ data:
       Keeper of the Three Rites: >-
         Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradāya exists to maintain.
   commonSkills:
+    - trimurtisampradaya
     - eng
     - agri
     - mrcn

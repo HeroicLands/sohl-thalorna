@@ -65,6 +65,7 @@ data:
       Chamber-Warden: >-
         The Nidrāpāla on watch over a sleeping petitioner, answerable for what happens while they sleep.
   commonSkills:
+    - svapnasarisamaja
     - folklr
     - herb
     - pysn

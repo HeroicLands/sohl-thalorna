@@ -62,6 +62,7 @@ data:
       Temple Architect: >-
         The Ácārya charged with a building work, this tradition's priesthood and its building trade being the same people.
   commonSkills:
+    - vyalendravada
     - eng
     - masn
     - math

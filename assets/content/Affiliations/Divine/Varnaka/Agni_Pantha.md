@@ -63,6 +63,7 @@ data:
       Chapter Root: >-
         The Dahana-Mūla of a region, on the rare occasions a chapter is settled enough to have one.
   commonSkills:
+    - agnipantha
     - srvl
     - herb
     - pysn
