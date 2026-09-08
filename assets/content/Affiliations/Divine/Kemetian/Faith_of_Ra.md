@@ -60,6 +60,16 @@ data:
         Maintains the wards the priesthood set on the cursed Way of the False Rā, whose death-magic was
         sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed:
         any soul seen seeking the cursed road is killed where they stand.
+      Bearer of the God's Image: >-
+        On the high festivals the image of Rā is borne in procession down the Sun's Road — the monumental
+        avenue lined with sphinxes and ram-statues — and across the water to the island on its stone
+        causeways.
+      Keeper of the Solstice Rites: >-
+        The two climaxes of the year, when the whole capital turns out to watch the god born and the god die
+        along his own road: the midsummer Festival of the Coming-Forth, when the dawn breaks straight down
+        the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the
+        corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than
+        memory, and nothing may stand in that line.
   commonSkills:
     - ra
     - math

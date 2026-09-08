@@ -66,3 +66,10 @@ is a dangerous one."_
 
 Seats are now set where the notes name them: Rā and the pantheon at **Iat-Tepy**, the Sacred Island;
 Thōth at **Khemenu**; Ánubís and Sēker at **Khensuret**, the great pilgrimage necropolis.
+
+**The processions.** Rā also gains the two ritual climaxes of the Kheperi year, run along the Sun's
+Road: the midsummer **Festival of the Coming-Forth**, when the dawn breaks straight down the eastern
+road, and the midwinter **Festival of the Going-Down**, when the sun sets straight down the corridor
+of the royal dead into the necropolis. The sightlines are kept clear by a law older than memory —
+nothing may stand in that line — and the whole capital turns out to watch the god born and the god
+die along his own road.
