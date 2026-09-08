@@ -14,78 +14,44 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      The High Priest holds extraordinary political and spiritual authority, and the succession is the throne's business: historically the sitting Per-Aá chooses in consultation with the outgoing Wer'Hekau, though the priesthood has occasionally asserted the right to choose for itself, and those contests have on rare occasions come to open conflict between throne and temple.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+          Keeps the observances and brings offerings without holding office in any temple.
+      - level: 2
+        title: Wab
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Purified One" — acolytes in apprenticeships that may last a decade or more, maintaining the sacred fires and learning the basic rituals; the most promising are trained in the secret mysteries — the god's nightly battle against chaos, and the hidden names of power.
+      - level: 3
+        title: Hem'Netjer
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Servant of the God" — ordained priests serving as temple administrators, teachers and ritual leaders, trained extensively in theology, astronomy and natural philosophy, and able to predict the sun's paths through the heavens with precision.
+      - level: 4
+        title: Wer'Hekau
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Great of Sacred Power" — High Priest of Rā, holding extraordinary political and spiritual authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder — a succession the priesthood has occasionally contested, sometimes to open conflict.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Keeper of the Observatory: >-
+        Maintains the temple's solar observatory and tracks the movements of sun, moon and stars, which serves both the cult's theology and practical prediction of the seasons.
+      Initiate of the Hidden Names: >-
+        A Wab trained in the secret mysteries: the nature of the god's nightly battle, and the names of power through which the priesthood communes with him.
+      Keeper of the Ápōphis Records: >-
+        A Wer'Hekau holding the secret records and treatises on the chaos god, so the priesthood can counsel the Per-Aá and prepare the realm for catastrophe.
+  commonSkills:
+    - ra
+    - math
+    - khprsshscrpt
   seat: null
   domains: []
   population: null

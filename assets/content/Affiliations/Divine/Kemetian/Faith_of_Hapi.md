@@ -14,78 +14,45 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Less formally organised than most, and no less influential for it: the ability to command the finest food and entertainment in a region is real social power. The High Priest is chosen as much for a demonstrated ability to organise festivals and keep the temple's reputation for generosity as for spiritual knowledge.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+          Keeps the observances and brings offerings without holding office in any temple.
+      - level: 2
+        title: Wab
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Purified One" — acolytes, many of whom never seek ordination at all and instead take up careers as chefs, brewmasters, musicians or organisers of festivals, keeping informal ties to the temple for life.
+      - level: 3
+        title: Hem'Netjer
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Servant of the God" — ordained priests overseeing distinct parts of the temple's operations — the wine vaults, the granaries, the festival calendar.
+      - level: 4
+        title: Wer'Hekau
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Great of Sacred Power" — High Priest of Hâpi, chosen not only for spiritual knowledge but for demonstrated ability to organise festivals and maintain the temple's reputation for generosity and excellent food.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Keeper of the Wine Vaults: >-
+        The Hem'Netjer responsible for the temple's wine.
+      Keeper of the Granaries: >-
+        The Hem'Netjer responsible for the temple's stores.
+      Keeper of the Festival Calendar: >-
+        The Hem'Netjer who sets and keeps the cycle of feasts on which the cult's standing rests.
+  commonSkills:
+    - hapi
+    - agri
+    - mrcn
+    - sing
   seat: null
   domains: []
   population: null
