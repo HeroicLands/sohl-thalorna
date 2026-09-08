@@ -44,8 +44,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple — learning the hand, copying forms, learning the seals and the
+          calendrical schedules — and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -113,11 +113,19 @@ data:
       Receiver of Tribute: >-
         Takes the sacrifices that accompany a petition — coin, grain, cloth, livestock, worked
         goods — and enters their value to the petitioner's celestial credit.
+      Master of Forms: >-
+        Holds the correct opening formulae, addressing conventions and order of citation, and does
+        not teach them outside the temple.
+      Illuminator: >-
+        Paints the landscape scenes, creatures and divine symbolism a weighty petition carries; at
+        the highest level the petition is an artwork that happens to carry text.
       Assessor of Sacrifice: >-
         Values tribute paid in kind against the temple's standing schedule, and rules on whether
         what has been offered supports the petition being asked for. A small sacrifice may be made
         at a home shrine and needs no assessor; a petition of any weight requires one.
   commonSkills:
+    - tngthkscrpt
+    - draw
     - law
   seat: null
   domains: []
@@ -190,6 +198,34 @@ The mortal court's political intrigues — the deadly maneuvering that the Tānv
 The divine structure is a vast **imperial bureaucracy** that the earthly government is modeled upon (not the reverse — the Tānvüri insist that heaven came first and earth copies it). At the apex sits the **Celestial Dragon** (Tānlüng), the First Classifier, who delegates authority to the **Jade Sovereign** (Vëizhük Dāknëi), who in turn administers the eleven **Spirit Bureaus** (Lëi Sëi). Each bureau oversees one domain of classified existence, led by an **Overseer** (Tëng Güng, "Celestial Minister") and staffed by functionary spirits.
 
 The bureaucracy processes three types of cosmic business: **petitions** (requests from mortals, filed through temples), **reports** (filed by local spirits and household monitors), and **directives** (issued downward from higher bureaus to lower spirits). The entire system runs on spiritual documentation — contracts, ledgers, seals, and stamps — which is why the burning of spirit paper is central to Tānvüri practice. Burning a document transmits it to the celestial filing system.
+
+### The Craft of the Petition
+
+A petition is a document, and three things stand between an ordinary Tānvüri and a filed one.
+
+The first is the **script**. Petitions are written in [[skill-tngthkscrpt|Tëng Thōk]], the Celestial
+Record — logographic, three to four thousand characters for educated reading, more to compose
+formally, ten to fifteen years for a full education in it. A villager who wishes to petition for
+rain cannot write the request, and that is before any question of protocol arises.
+
+The second is the **forms**. The correct opening formulae, the addressing conventions, the order of
+citation, the seals a given bureau requires — these are held by the temple clergy and are not
+taught outside it. The Tānthëi call this the guardianship of sacred knowledge; an outsider who
+acquires the forms by other means and files with them has committed a serious offence, and the
+petition is refused whether or not it was correct.
+
+The third is **beauty**, and it is not decoration. A petition that is correct will be processed. A
+petition that is _beautiful_ is read with attention, and the difference shows in the outcome. At
+the lower levels this means a clean hand and a well-proportioned column. At the higher levels the
+document becomes an artwork in its own right: illuminated borders, landscape scenes of the country
+the petition concerns, painted creatures appropriate to the bureau addressed, and the divine
+symbolism of the office being petitioned. The most powerful petitions ever filed are paintings that
+happen to carry text, and copies of the great ones are studied by clerks the way jurists study
+rulings.
+
+All of which the priests charge for, at a price of their own setting. The Tānvüri do not consider
+this corrupt. The years are real, the skill is real, and a badly made petition is genuinely lost —
+so the fee buys exactly what it appears to buy. It is also, as everyone understands, a monopoly.
 
 ### Sacrifice as Postage
 

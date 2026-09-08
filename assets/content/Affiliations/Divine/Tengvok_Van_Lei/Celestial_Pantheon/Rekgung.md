@@ -97,6 +97,9 @@ data:
         keep a censer for each bureau they are licensed to address. A household may burn a small
         sacrifice at its own shrine against a bad season, but a village's emergency water petition
         goes to the temple.
+      Illuminator: >-
+        Paints the weather-scenes a substantial petition carries — the parched field, the swollen
+        river, the storm turned aside — which the bureau is held to read as evidence.
       Precedent-Scholar: >-
         Researches prior droughts, prior allocations and prior rulings, and is hired at
         considerable expense when a petition is contested.
@@ -108,6 +111,8 @@ data:
         proportional punishment — a recognised social practice, and usually unsuccessful.
   commonSkills:
     - rekgung
+    - tngthkscrpt
+    - draw
     - law
   seat: null
   domains: []
