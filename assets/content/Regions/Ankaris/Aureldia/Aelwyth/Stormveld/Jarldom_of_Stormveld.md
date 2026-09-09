@@ -87,7 +87,7 @@ data:
   seat: stormveil
   domains:
     - aelwyth
-  population: 100000
+  population: 150000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -134,3 +134,32 @@ Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] — Southern neighbor and frequent target
 - [[lore-flkkhazar|Khazári]] — Elder race in the northeastern mountains
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
+
+## The Conquest
+
+Stormveld occupies the **north-east** of Aelwyth, and it is not, in the sense the other realms are, an
+Aelwythan polity at all. **Nordmen took it about sixty years ago** and hold it still.
+
+The conquest was quick and thorough. The existing population was not driven out; it was **enslaved**,
+and the arrangement has since hardened into the ordinary structure of the country. Of roughly
+**150,000** people in the Jarldom:
+
+- around **30,000 are Nordmen** — the jarl, his housed men, their families and holdings; and
+- around **120,000 are native Aelwythan thralls**, worked on the land and holding nothing.
+
+Four in five people in Stormveld are the property of the remaining fifth. The jarls do not describe it
+that way and see no reason to describe it any other.
+
+## What It Means for the Island
+
+Stormveld is a **Nordmen foothold on Aelwyth**, sixty years old, permanent-looking, and roughly a
+hundred and twenty sea-miles from the Élavendren coast. Every other realm on the island understands
+what that is, and none of them has been willing or able to do anything about it.
+
+It sharpens a great deal that is otherwise puzzling. It is much of why
+[[affiliation-kingdmdnvr|Dúnavarre]] keeps the Order of the Just Blade at strength; it is why the
+island's quarrels between [[affiliation-kngdmldrth|Aldorath]] and Dúnavarre look so parochial to
+outsiders; and it is a standing reason for [[place-elavendre|Élavendre]]'s implacable hostility to the
+Nordmen, since the nearest large island to its coast is now a third occupied by them.
+
+The thralls have risen twice. Neither rising reached the second year.

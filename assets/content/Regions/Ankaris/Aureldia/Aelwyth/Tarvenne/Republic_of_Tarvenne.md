@@ -102,7 +102,7 @@ data:
   seat: thornbury
   domains:
     - aelwyth
-  population: 105000
+  population: 75000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -145,3 +145,20 @@ Republic of Tarvenne uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Ar
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] — East-central rival
 - [[affiliation-vylarinmpr|Vylarian Empire]] — Diplomatic partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — State pantheon
+
+## The Republic in Practice
+
+Tarvenne runs along Aelwyth's **western coast** and holds about **75,000** people — most of the island's
+remaining settled population, and the only part of it governed by anything resembling a civic
+constitution.
+
+It is a republic, and it is a **thoroughly corrupt one**. Offices are elective and are bought; the
+councils are genuinely deliberative and the deliberation is genuinely for sale; the courts work, for
+those able to pay for them to work. None of this is hidden and very little of it is even embarrassing —
+Tarvenne's political class regards the arrangement as the natural friction of self-government, and
+regards [[affiliation-kingdmdnvr|Dúnavarre]]'s incorruptible mage-administration as a form of tyranny
+that has merely found a polite name.
+
+The coast is good for fishing and moderate for farming, and the republic's wealth comes chiefly from
+carrying trade along the western shore and from what it can charge others for access to it. Its
+merchants are able, its accounts are creative, and its neighbours deal with it warily and constantly.

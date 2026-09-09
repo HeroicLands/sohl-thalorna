@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - aldorathrgn
-  population: null
+  population: 20000
 name:
   full: Dunmere
   aliases: []

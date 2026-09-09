@@ -17,7 +17,7 @@ data:
   parents:
     - aelwyth
     - ankrscntnnt
-  population: 100000
+  population: 125000
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
 packFolder: aelwyth
 ---
@@ -89,3 +89,23 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 - [[skill-varokhlng|Varokhi]] — related naming tradition
 - [[place-aureldirgn|Aurèldía Region]] — the broader cultural region
 - [[place-ankrscntnnt|Ankaris Continent]] — parent continent
+
+## Extent and Peoples
+
+The **Peshtar Wilderness** is not a polity and does not consider itself one. It covers the **entire
+north-west of Aelwyth and much of the northern coast**, and it holds, with the other unsettled country,
+roughly **125,000** people — about a fifth of everyone on the island.
+
+They are not one people. The wilderness supports many **tribal cultures**, differing in speech, custom
+and disposition, sharing chiefly the fact that no realm's writ reaches them. Along the northern coasts
+and the north-west the tribes are principally herders, fishers and hunters, and their dealings with the
+settled realms are intermittent, wary and mostly commercial.
+
+Beyond Peshtar proper, further tribal communities live in **isolated wooded settlements** through the
+island's interior and its eastern and southern zones, in the deep forest that covers a third of
+Aelwyth. These are markedly **more warlike** than the northern tribes — they raid, they are raided, and
+they have long memories about which is owed — and the settled realms treat the forest margins as
+frontier rather than as border.
+
+The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
+tells you nothing.

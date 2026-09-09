@@ -8,7 +8,7 @@ data:
   parents:
     - aureldirgn
     - ankrscntnnt
-  population: 500000
+  population: 625000
 name:
   full: Aelwyth
   aliases:
@@ -66,6 +66,80 @@ Elsewhere on the island, the relationship between the local rulers and their Pan
 
 Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the [[place-vylarianse|Vylarian Sea]]. The Nordmen of Stormveld maintain connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Tarvenne has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
 
+## The Island and the World
+
+Two things are true about Aelwyth at once, and neither of the people concerned believes the other.
+
+**Aelwythans think of themselves as the world.** Six hundred thousand people on one island conduct
+their affairs with the entire seriousness of continental powers: the rivalry between
+[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-kingdmdnvr|Dúnavarre]] is followed as great
+politics, the standing of the realms is weighed and argued, and a good Aelwythan family knows its
+position in an order it has never occurred to them is local. A single Vylarian province holds ten times
+as many people as the whole island. Most Aelwythans have no functional idea of this, and those who are
+told it tend to treat the figure as a traveller's exaggeration.
+
+**The rest of western Thalorna thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
+uniformly bad and uniformly lurid: a wilderness of barbarians, fell creatures and mystical powers, where
+the forests are not safe, the tribes take heads, and the ruling class of one kingdom are mages who
+answer to nobody. Mainland factors quote higher for the crossing. Mainland mothers use it in
+warnings.
+
+Most inhabitants of Aelwyth would be astonished to hear any of it. Their lives are boring and normal in
+the way lives generally are — market days, tithes, weather, the harvest, the neighbours — and the most
+alarming thing the great majority will ever meet is a bad winter.
+
+## What the Reputation Gets Right
+
+The reputation is wrong about the people and **right about the land**.
+
+There genuinely are places on Aelwyth where the fae are strong — sites of real and unpredictable power,
+concentrated in the deep forest of the interior and in the wilder north, in country that the settled
+realms have never brought under the plough and do not pretend to govern. These are not folklore. The
+tribes of those regions organise their lives around them, the realms' borders bend to avoid them, and
+the [[affiliation-ordoarcanis|Ordo]] presence in [[affiliation-kingdmdnvr|Dúnavarre]] is not
+unconnected with the fact.
+
+So the mainland is not simply wrong; it has heard true things about a third of the island and applied
+them to all of it. And the Aelwythan farmer who has never in his life seen anything stranger than a
+heron is also not wrong, because he has never had cause to go where such things are.
+
+## Population
+
+Aelwyth holds about **625,000** people, which is few for an island of its size, and the reason is that
+most of Aelwyth is empty: **a third of it is dense forest** — old, deep and effectively unsettled — and
+beyond that lie further large tracts of upland, moor and bog that support nobody at all.
+
+About **a fifth of the island's people — some 125,000 — live outside every realm**, in the tribal
+cultures of the [[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern
+coast, and in isolated wooded communities scattered through the interior and the eastern and southern
+forest. The lowland realms call all of them barbarians, which is convenient and uninformative; the
+forest peoples are markedly more warlike than the northern tribes, and the settled realms treat the
+forest margins as frontier rather than border.
+
+The remaining **500,000** are divided between four settled realms, each holding a different part of the
+coast:
+
+| Realm                                              | People   | Where            |
+| -------------------------------------------------- | -------- | ---------------- |
+| [[affiliation-kngdmldrth\|Kingdom of Aldorath]]    | ~200,000 | eastern interior |
+| [[affiliation-jrldmstrmvld\|Jarldom of Stormveld]] | ~150,000 | north-east       |
+| [[affiliation-repblctrvn\|Republic of Tarvenne]]   | ~75,000  | western coast    |
+| [[affiliation-kingdmdnvr\|Kingdom of Dúnavarre]]   | ~75,000  | south-east       |
+
+Three things about that table matter more than the numbers.
+
+**Stormveld is not an Aelwythan realm.** Nordmen took the north-east some sixty years ago and enslaved
+the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are native thralls. A
+Nordmen holding a third of the island's settled people sits a hundred and twenty sea-miles from
+[[place-elavendre|Élavendre]], which explains a good deal of Élavendren foreign policy.
+
+**Aldorath is much the largest**, and the most conventionally feudal: four in five of its people are
+serfs or peasants on manorial estates.
+
+**Dúnavarre is the smallest and the most powerful.** Its weight comes from harbours, trade, the Synod
+and the Order of the Just Blade rather than from numbers, and its long rivalry with Aldorath over the
+interior is not a contest of size — Aldorath has nearly three times as many subjects — but of kind.
+
 ## See Also
 
 - [[place-elavendre|Élavendre]] — Nearest mainland region
@@ -74,29 +148,3 @@ Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mai
 - [[affiliation-asguardian|Asguardian Pantheon]] — Northern pantheon influence
 - [[lore-flksinale|Sinalë]] — Elder race with southern forest enclaves
 - [[lore-flkkhazar|Khazári]] — Elder race with northeastern mountain holds
-
-## Population
-
-Aelwyth holds about **half a million** people, which is strikingly few for an island of its size, and
-the reason is simply that most of Aelwyth is empty.
-
-Roughly **a third of the island is dense forest** — old, deep and effectively unsettled — and beyond
-that lie further large tracts of upland, moor and bog that support nobody at all. Settlement is
-concentrated in three bands: the **western coast**, the **north-eastern coast** and the **eastern
-interior**, with a further pocket in [[affiliation-kingdmdnvr|Dúnavarre]] on the south-east. Between
-them are distances that can be walked for days without meeting a household, which is a good part of why
-the island's polities have never absorbed one another — there is a great deal of country in the way, and
-none of it is worth crossing an army over.
-
-Roughly **a fifth of the people — some hundred thousand — are scattered barbarian tribes**, living
-across the interior and the wilder coasts outside any of the island's realms and acknowledging none of
-them. The remaining four hundred thousand are divided between the settled polities: the
-[[affiliation-kngdmldrth|Kingdom of Aldorath]] (~120,000), the
-[[affiliation-repblctrvn|Republic of Tarvenne]] (~105,000), the Jarldom of Stormveld (~100,000) and the
-[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] (~75,000).
-
-Dúnavarre is the **smallest** of the four and the most powerful of them, which is the single most
-informative fact about Aelwyth: its weight comes from harbours, trade, the Synod and the Order of the
-Just Blade rather than from numbers. Its rivalry with Aldorath over the interior is accordingly not a
-contest of size — Aldorath has half again as many subjects — but of kind, which is much of why it has
-never been settled.

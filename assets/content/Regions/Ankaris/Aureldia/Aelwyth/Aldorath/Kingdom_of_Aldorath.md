@@ -155,7 +155,7 @@ data:
   seat: dunmere
   domains:
     - aldorathrgn
-  population: 120000
+  population: 200000
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
@@ -202,3 +202,23 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arg
 - [[affiliation-repblctrvn|Republic of Tarvenne]] — Southwestern republic
 - [[lore-flksinale|Sinalë]] — Elder race with southern forest enclaves
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
+
+## Population and Society
+
+Aldorath holds about **200,000** people, making it much the largest of Aelwyth's settled realms — half
+again the size of the Jarldom and nearly three times [[affiliation-kingdmdnvr|Dúnavarre]], a fact its
+lords mention rather more often than their neighbours enjoy.
+
+Its society is the most straightforwardly feudal on the island. **Four in five Aldorathi are serfs or
+peasants on manorial estates**, bound to the land and to a lord, working demesne and holding strips in
+the usual way; above them sit a landed aristocracy with real hereditary claims, a modest clergy and a
+thin merchant class. There is no equivalent of Dúnavarre's Synod-appointed stewardship, and no
+equivalent of Tarvenne's civic politics.
+
+**[[place-dunmere|Dunmere]]**, the seat, holds about **20,000** — the only place in the kingdom that is
+a city rather than a market town, and the only one where anyone lives who is not directly answerable to
+a manor.
+
+The arrangement makes Aldorath populous, agriculturally productive, militarily formidable on its own
+ground, and slow: everything the crown wishes to do must pass through lords whose interests are their
+estates. Dúnavarre's mages find this contemptible and have never been able to exploit it.

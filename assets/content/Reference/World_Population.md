@@ -96,11 +96,11 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 
 **The Aurèldían kingdoms are itemized, not estimated.** This bloc was formerly carried as a single
 ~35,000,000 line. It is now broken out, because Provènzia, Élavendre and Calypsa have worked regional
-figures in their own notes and those figures have to govern. The bloc totals about **12,500,000**, and
+figures in their own notes and those figures have to govern. The bloc totals about **12,700,000**, and
 the western subtotal and the world total have been reduced accordingly.
 
 The old figure could not survive the detail: with Provènzia at 5M, Élavendre at 2M, Aelwyth's realms at
-at 500,000 and Calypsa at 45,000, reaching 35M would have required Tarvénia alone to hold some 21
+at 625,000 and Calypsa at 45,000, reaching 35M would have required Tarvénia alone to hold some 21
 million — as many as the entire Vylarian Empire, and in flat contradiction of the sanity check above.
 Tarvénia is carried at ~5,000,000 because it and Provènzia hold roughly equal populations.
 
