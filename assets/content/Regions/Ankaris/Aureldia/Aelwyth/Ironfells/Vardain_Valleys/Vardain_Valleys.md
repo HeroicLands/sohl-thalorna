@@ -118,19 +118,50 @@ ventilation shafts that are still open and still working after an unrecorded num
 Aelwyth loses part of its stored grain to damp and spoilage every year, as everywhere does. The Vardain
 do not.
 
-### What the Vardain Understand
+### Who Keeps It Working
 
-They **maintain** all of it — dredging, re-facing, clearing shafts, replacing gates — with a discipline
-that is the central fact of their public life, and they do it well.
+Not the Vardain. **The Khazári maintain their own works**, and always have.
 
-They did not build it and could not. Parts of it they understand thoroughly; parts they maintain by rote,
-following procedures handed down without explanation, and there are elements of the system whose purpose
-nobody in the valleys can now state. The Vardain keep those in repair anyway, on the reasonable grounds
-that everything the Khazári built is there for a reason and the reason will not be explained twice.
+Their engineers come down to do it — dredging the channels, clearing the ventilation shafts, re-facing
+the terrace walls, adjusting the gates, opening and closing the flues by the season. They come when the
+work requires it and not when anybody asks, they do not announce themselves, and they go back up when
+they are finished.
 
-It remains a hard life. Nobody in the valleys imagines otherwise, and both sides understand the
-arrangement as need rather than kindness: the Vardain could not farm here without the Khazári, and the
-Khazári could not hold Vorgald without the Vardain.
+This suits both sides exactly. **Engineering is the Khazári trade**, in the way farming is not: they are
+good at it, they take evident satisfaction in it, and they are deeply unwilling to teach any of it to
+humans. Maintaining a water system for a valley of farmers costs them nothing they mind spending and
+keeps the knowledge where they want it — with them. What they will not do, and have no intention of ever
+doing, is the work the arrangement exists for: sowing, reaping, herding, milking, slaughtering, the whole
+grinding business of getting food out of marginal ground.
+
+They would far rather cut a mile of conduit than keep a single cow.
+
+### What the Vardain Can and Cannot Do
+
+The Vardain **use** the works, and use them expertly. They know the water schedule to the hour and which
+gate serves which terrace; they know how to load a granary and how to read whether it is keeping; they
+know when a flue should be opened and when it should be shut, and a Vardain farmer's judgement about
+his own ground is as good as anyone's anywhere.
+
+What they cannot do is **fix any of it**, and what they do not have is any real idea of **why it works**.
+
+The principles were never given them. They were given the operation — this gate, that hour, this depth,
+that season — and the operation is all they hold. A Vardain can tell you exactly what to do with a
+conduit and cannot tell you why the conduit runs where it does, why it is that depth, or what would
+happen if it did not. When something breaks, they do not attempt it: they report it up the mountain
+through [[place-barakth|Barakth]] and they wait, and a Khazári engineer comes down in a day or a week
+and it is dealt with.
+
+That dependence is total and everyone in the valleys knows it. A conduit that failed in a season when
+nobody came would not be repaired by the people who farm from it. It would simply have failed, and the
+ground it waters would go out of use, and the reckoning that follows — a basin of ten thousand at six
+thousand feet, four months of season, one bad year — is not one the Vardain like to make aloud.
+
+The consequence for the Vardain is that they are the only humans in the world for whom the
+[[lore-flkkhazar|Khazári]] are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk
+at work in the channels and on the walls. They are taught not to interrupt, not to follow, and not to
+ask what anything is for — and they mostly do not, because it has never occurred to them that a person
+might.
 
 **These are farming villages before they are anything else.** Nine people in ten here raise crops and
 tend livestock: oats, barley and rye on the terraces and valley floors, sheep and hardy black cattle on

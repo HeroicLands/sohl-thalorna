@@ -72,9 +72,12 @@ the valley half:
 - **The Vardain feed them**, and this is not a courtesy but the arrangement's foundation. Grain,
   cheese, meat, fodder and fuel go up to the Gate on a schedule unaltered in centuries. The Khazári
   grow nothing, will not depend on imported food, and therefore cannot hold Vorgald without farmers.
-- **The Khazári make the farming possible.** Water-works, drainage, terrace engineering, iron, and
-  above all the rock-cut granaries without which a four-month season at six thousand feet could not
-  feed anybody through a snowbound winter. Neither people could hold this country alone.
+- **The Khazári make the farming possible, and keep it possible.** Water-works, drainage, terrace
+  engineering, iron, and above all the rock-cut granaries without which a four-month season at six
+  thousand feet could not feed anybody through a snowbound winter — all of it built by them and all of
+  it **maintained by them**, by engineers who come down to the valleys to work and go back up when
+  they are done. They will not teach the craft to a human and have no need to. Neither people could
+  hold this country alone.
 - **The Vardain factor for them.** Khazári work reaches human markets through Vardain hands and no
   others. A Vardain trader at [[place-ashford|Ashford]] is selling on commission for a client he will
   not name, and everybody in that market knows it.
@@ -85,7 +88,10 @@ one thing in the valleys that is not discussed even among themselves.
 ## What They Are Like
 
 Sober, exact, unhurried, and much given to measurement — millennia beside the Deep Folk have left their
-building better than it has any right to be and their metalwork far better. Their tolerance for
+building better than it has any right to be and their metalwork far better. They are also the only
+humans anywhere for whom a Khazár is an **ordinary sight**: their engineers work in these valleys, and
+Vardain children are raised knowing not to interrupt, not to follow, and not to ask what anything is
+for. Their tolerance for
 imprecision in any craft is nil.
 
 They keep the [[affiliation-arldnpnthn|Twelve]] without enthusiasm, and a calendar of their own beside
