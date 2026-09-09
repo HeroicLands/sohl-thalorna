@@ -37,8 +37,13 @@ worth making.
 
 ## The Old Country
 
-The plain's people are Aelwythan and were here before the Nordmen came sixty years ago. They keep their
-speech, mostly out of hearing, and their observances, mostly out of sight. The jarls have not tried to
+The plain's people are **[[lore-vardain|Vardain]]**, and they were a nation before the Nordmen came.
+This country was **Vardanreach**, which kept the friendship of the [[lore-flkkhazar|Khazári]] of
+[[place-vorgald|Vorgald]] for thousands of years and is now called Stormveld by the men who took it.
+Their free kin — some eight and a half thousand of them — are alive two valleys up, in the
+[[place-vardainvalleys|mountains]], and the thralls of the plain know it.
+
+They keep their speech, mostly out of hearing, and their observances, mostly out of sight. The jarls have not tried to
 suppress either, holding that a thrall's private habits are of no consequence so long as the work is
 done — a judgement that both of the risings have tested and that the jarls have not revised.
 

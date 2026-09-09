@@ -137,8 +137,13 @@ Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 
 ## The Conquest
 
-Stormveld occupies the **north-east** of Aelwyth, and it is not, in the sense the other realms are, an
-Aelwythan polity at all. **Nordmen took it about sixty years ago** and hold it still.
+Stormveld occupies the **north-east** of Aelwyth and is enormous — something like **a fifth of the
+island's land area**, more than any other realm holds. It is also not, in the sense the other realms
+are, an Aelwythan polity at all.
+
+All of it was **Vardanreach** before the conquest: the plain, the [[place-nordfells|Nordfells]], the
+[[place-sunderfells|Sunderfells]] and the high valleys within them, held by the
+[[lore-vardain|Vardain]] for thousands of years. **Nordmen took it about sixty years ago** and hold it still.
 
 The conquest was quick and thorough. The existing population was not driven out; it was **enslaved**,
 and the arrangement has since hardened into the ordinary structure of the country. Of roughly

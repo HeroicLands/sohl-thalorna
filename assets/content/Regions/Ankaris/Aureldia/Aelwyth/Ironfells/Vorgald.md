@@ -44,11 +44,44 @@ Aldorath has sent three expeditions in recorded history. Two turned back. The th
 found a doorway, in a cliff face, that would not open and could not be marked in any way that was still
 there the following season.
 
+## The Old Kingdom
+
+Aelwyth was once ruled jointly by both elder races.
+
+Thousands of years ago the [[lore-flksinale|Sinalë]] and the Khazári held this island together as a
+single kingdom under a **Sinalë king**, and the works of that age are still in the ground: roads that
+run where no later road runs, cut stone in the Ironfells that the [[lore-vardain|Vardain]] cannot
+match, and foundations under three Aelwythan towns that nobody has ever satisfactorily dated.
+
+It ended in a war. **Barbarian hordes** came against Aelwyth, the Sinalë king was killed in the fighting,
+and the surviving Sinalë **withdrew into their forest** — into what is now the
+[[place-hallowwood|Hallowwood]] — and left the Khazári to deal with the invasion alone.
+
+The Khazári dealt with it. They have never forgiven it. In all the centuries since, the two elder races
+of Aelwyth have had **nothing whatever to do with one another**, and neither will discuss the matter
+with anyone.
+
+## The Humans
+
+What the Khazári did instead was turn to the people of the plain below. **Vardanreach** — the
+[[lore-vardain|Vardain]] nation of the north-east — kept the Deep Folk's friendship for thousands of
+years afterward, and it was a real friendship, mutually useful and mutually respected, and the only one
+of its kind in the world.
+
+The Nordmen conquest sixty years ago destroyed it. Most of the Vardain are thralls now. The Khazári did
+not intervene, for reasons they have not given, and their dealings with humanity have since contracted
+to the **eight and a half thousand free Vardain of the [[place-vardainvalleys|valleys]]** immediately
+below the hold — whom they admitted as refugees, protect, feed from, and use as their factors with
+everybody else.
+
+On rare occasions — a handful of times in a century — Vorgald deals directly with
+[[affiliation-kngdmldrth|Aldorath]] or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction
+goes through Vardain hands.
+
 ## No Relationship
 
-There is nothing here of the sort [[place-elavendre|Élavendre]] has with the
-[[lore-flksinale|Sinalë]]. No Aelwythan realm has a treaty, an understanding, an embassy or a
-correspondence with Vorgald. Nobody has been invited in. The
+No Aelwythan realm has a treaty, an understanding, an embassy or a correspondence with Vorgald. Nobody
+who was not born in the valleys has been invited in. The
 [[affiliation-kingdmdnvr|Synod]] has attempted contact repeatedly, by every method available to it, and
 records the results in a file it does not discuss.
 

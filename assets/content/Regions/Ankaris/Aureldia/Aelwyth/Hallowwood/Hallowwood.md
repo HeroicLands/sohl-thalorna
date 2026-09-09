@@ -48,6 +48,25 @@ Three exceptions are recognised, and they are exceptions of person rather than o
   received as no human party on Aelwyth has ever been received, which every Aelwythan realm knows and
   none has been able to turn to any use.
 
+## Why They Are In Here
+
+The Sinalë did not always live in the Hallowwood, and they did not withdraw into it out of temperament.
+
+Thousands of years ago they and the [[lore-flkkhazar|Khazári]] ruled Aelwyth together as one kingdom
+under a **Sinalë king**. When barbarian hordes came against the island the king was killed, and the
+surviving Sinalë **came into this forest and stayed**, leaving the Khazári to finish the war without
+them.
+
+The Khazári have never forgiven it. The two elder races of Aelwyth have had nothing to do with one
+another since, and the Sinalë of the Hallowwood will not discuss the matter — not with the
+[[affiliation-kingdmdnvr|Synod]], not with [[place-elavendre|Élavendre]], and not with the
+[[lore-vardain|Vardain]], who are the Khazári's people and are the one group the wood has never
+received at all.
+
+What the withdrawal was — rout, grief, judgement, or something for which no human word has been offered
+— is not known. That it is the reason there are Sinalë in the south of this island and Khazári in the
+east of it, and nothing between them, is not in doubt.
+
 ## The Ordo Problem
 
 This is the flaw in the Synod's arrangement. Aelwyth is the Ordo's unconstrained research ground
