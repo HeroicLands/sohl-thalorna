@@ -52,6 +52,18 @@ Nobody with authority in Provènzia has yet been willing to say this aloud. The
 [[affiliation-sacredforge|Sacred Forge]] has said it repeatedly and is not believed, being an
 interested party.
 
+## The Áelendan
+
+The northern mountains are [[affiliation-aelndntrbs|Áelendan]] country whatever the maps say, and the
+tribes are indifferent to Provenzian sovereignty in every respect but one: they involve themselves the
+moment a sacred site is disturbed. A pre-Aurèldían circle thrown down two centuries ago and now being
+deliberately worked on by a cult is precisely that, and the Áelendan know it.
+
+They have not yet acted in any way Provènzia has been obliged to notice. Both crowns are conscious that
+this may not last, and that if the tribes do come down over Yhârvalen they will not be asking anyone's
+leave — which is, quietly, one of the better arguments for dealing with the
+[[affiliation-blackflame|Black Flame]] before the question arises.
+
 ## Adventuring Here
 
 The henge is a ruin, a wound and a resource at once. Breaking the curse plausibly means understanding
