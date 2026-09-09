@@ -148,14 +148,18 @@ What they cannot do is **fix any of it**, and what they do not have is any real 
 The principles were never given them. They were given the operation — this gate, that hour, this depth,
 that season — and the operation is all they hold. A Vardain can tell you exactly what to do with a
 conduit and cannot tell you why the conduit runs where it does, why it is that depth, or what would
-happen if it did not. When something breaks, they do not attempt it: they report it up the mountain
-through [[place-barakth|Barakth]] and they wait, and a Khazári engineer comes down in a day or a week
-and it is dealt with.
+happen if it did not. When something breaks they do not attempt it: they report it up the mountain through
+[[place-barakth|Barakth]] and wait, and an engineer comes down in a day or a week and it is dealt with.
 
-That dependence is total and everyone in the valleys knows it. A conduit that failed in a season when
-nobody came would not be repaired by the people who farm from it. It would simply have failed, and the
-ground it waters would go out of use, and the reckoning that follows — a basin of ten thousand at six
-thousand feet, four months of season, one bad year — is not one the Vardain like to make aloud.
+**And it is dealt with**, which is the part outsiders get wrong when they hear how dependent these
+people are. The dependence runs both ways and the [[lore-flkkhazar|Khazári]] have no more margin than
+the Vardain do: a failed conduit means a failed harvest, a failed harvest means an empty granary, and an
+empty granary in this basin means **nobody eats — Deep Folk included**. Vorgald cannot import its food
+and will not try. A request for repair is therefore not a petition to a lord who may or may not feel
+obliged; it is a report that the hold's own supply is at risk, and it is answered accordingly.
+
+Requests are refused only for a reason, and reasons are rare enough that the valleys remember the
+occasions. What such a reason might be, the Vardain do not speculate about in front of strangers.
 
 The consequence for the Vardain is that they are the only humans in the world for whom the
 [[lore-flkkhazar|Khazári]] are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk

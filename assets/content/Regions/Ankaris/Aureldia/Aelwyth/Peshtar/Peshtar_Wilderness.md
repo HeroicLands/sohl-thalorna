@@ -108,17 +108,18 @@ frontier rather than as border.
 
 ## The War Nobody Records
 
-For the last two generations the peoples of the wilderness have been fighting
+For **more than five hundred years** the peoples of the wilderness have been fighting
 **[[lore-grukaraelwyth|Grukar]]**.
 
-Splinter tribes reached Aelwyth within living memory and established themselves in exactly the country
-the tribes live in — the deep forest, the wooded folds, the moor. There is no lowland chronicle of this
-war because no lowland realm has been in it, and the tribes have neither the means nor the inclination
-to send anybody an account.
+The Grukar reached Aelwyth some seven centuries ago and established themselves in exactly the country
+the tribes live in — the deep forest, the wooded folds, the moor. There is no lowland chronicle of the
+fighting because no lowland realm has ever been in it, and the tribes have neither the means nor the
+inclination to send anybody an account.
 
-It has changed them. The forest communities of the interior and the south are markedly more warlike than
-the northern herders, and a good part of the reason is that they have been at war since before most of
-them were born with something that breeds faster than it can be killed. Frontier settlements of
+It is not a war in any sense that admits of campaigns, victories or an end. It is a **condition**, and
+it has shaped these peoples completely: the forest communities of the interior and the south are
+markedly more warlike than the northern herders because twenty generations of them have lived beside
+something that breeds faster than it can be killed. Frontier settlements of
 [[affiliation-kngdmldrth|Aldorath]] find them impossible to deal with and put it down to savagery.
 
 The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and

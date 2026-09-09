@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Grukar infestation of Aelwyth — desperate splinter tribes that reached the island within living memory, now breeding in the empty interior, fought hardest by the tribal peoples, and hated by the Khazári for a reason the lowlands have not thought through."
+description: "The Grukar of Aelwyth — established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilised frontier, and hated by the Khazári for reasons the Deep Folk have never given."
 type: lore
 subType: folk
 name:
@@ -13,26 +13,24 @@ packFolder: aelwyth
 
 # The Grukar of Aelwyth
 
-There are **[[lore-grukarfolk|Grukar]] on Aelwyth**. There were none within living memory, and there
-are now perhaps a dozen tribes in the empty country, and their number is not falling.
+There are **[[lore-grukarfolk|Grukar]] on Aelwyth**, and there have been for the better part of **seven
+hundred years**. They are not an invasion, a recent misfortune or anybody's crisis. They are a permanent
+condition of the island, in the way rats are a permanent condition of a granary, and the comparison is
+the one Aelwythans themselves use.
 
 ## How They Came
 
 By the road the Grukar always take: **fission**.
 
-A tribe that outgrows its ground sheds a faction outward, and a tribe that is starving does something
-worse — a Sha, seeing the end of the line before it arrives, conspires against its own Ahk and takes
-what it can get away with. The second kind is the desperate kind, and it is the kind that reached this
-island. Somewhere in the deep woods of [[place-vrystwald|Vrystwald]] a splinter went to the northern
-water with nothing to lose, and it got across.
+A tribe that outgrows its ground sheds a faction outward; a starving tribe does something worse, when a
+Sha sees the end of the line coming and conspires against its own Ahk. One or the other reached the
+northern water seven centuries ago, and Grukar cannot build a ship — so they were carried, in the holds
+of vessels crossing between the northern lands and this coast, in numbers too small for anyone aboard to
+have noticed or cared.
 
-How is disputed and the dispute is not friendly. Grukar cannot build a ship. They were carried, in the
-holds of ships crossing between the [[place-nrdlndsrgn|Nordlands]] and the north-eastern coast, and the
-first tribes were established within a decade or two of the conquest of
-[[affiliation-jrldmstrmvld|Stormveld]]. The Jarldom denies bringing them, denies knowing of them, and is
-not believed by anybody on the island, which is one of very few matters on which
-[[affiliation-kngdmldrth|Aldorath]], [[affiliation-repblctrvn|Tarvenne]] and
-[[affiliation-kingdmdnvr|Dúnavarre]] entirely agree.
+That was long before the [[affiliation-jrldmstrmvld|Jarldom]], long before Aelwyth's present realms, and
+long before anybody kept the sort of record that would settle it. The island has argued about the
+question for centuries and will not resolve it.
 
 ## Where They Are
 
@@ -40,46 +38,51 @@ In the empty third of Aelwyth, which is a great deal of country: the deep interi
 folds of the eastern and southern uplands, the moor and bog nobody has ever worked, and the wilder
 reaches of the [[place-pshtrwldrns|Peshtar Wilderness]].
 
-They hold no territory in the sense a realm would recognise and have no single head. There are tribes,
-each around its own Ahk, and they grow and split and send fragments outward in every direction —
-which is the thing that ought to frighten the lowland realms and mostly does not, because the lowland
-realms have not seen one.
+They hold no territory a realm would recognise and have no single head. There are tribes, each around
+its own Ahk, and they grow and split and send fragments outward in every direction — which is precisely
+why seven centuries of killing them has not reduced their number. **Every generation of Aelwythans has
+believed the problem was worse than it used to be, and every generation has been wrong; it is exactly
+what it has always been.**
 
-## Who Is Actually Fighting Them
+## The War Without End
 
-**The tribal peoples**, almost alone.
+**The tribal peoples** carry the weight of it, and always have.
 
 The Grukar are in the empty country, and the empty country is where the island's tribes live. The forest
-communities of the interior and the eastern and southern woods have been in a war for two generations
-that no lowland chronicle records, and it is a substantial part of why they are as warlike as they are
-and why the frontier settlements of the [[place-wyndmarch|Wyndmarch]] find them so difficult. A people
-fighting something that breeds does not have much patience for a border dispute.
+communities of the interior and the eastern and southern woods have been fighting them **without pause
+for more than five hundred years** — not a war with campaigns and treaties but a condition of existence,
+fought in every generation, by everybody, forever.
 
-The lowlands call these people barbarians and treat their fierceness as a defect of character. It is
-closer to a symptom.
+This is most of what the lowlands are looking at when they call these people barbarians. A society
+organised around an enemy that cannot be finished does not look like a society organised around
+farming and inheritance, and it never will.
 
-Beyond them, the pressure falls on frontiers: the Wyndmarch below the passes, the upland steadings of
-the [[place-nordfells|Nordfells]], and the outlying farms of every realm whose land runs into forest.
-Aldorath has fought two campaigns it described as bandit-clearing.
+The **civilised realms** deal with them too, constantly and at the edges: the frontier steadings of the
+[[place-wyndmarch|Wyndmarch]], the upland farms of the [[place-nordfells|Nordfells]], the forest margins
+of every realm whose land runs into trees. It is endemic rather than dramatic — a few farms a year, a
+patrol that does not come back, a season when the woods are worse than usual — and every realm handles
+it as routine expenditure.
+
+[[affiliation-kngdmldrth|Aldorath]] has mounted formal campaigns perhaps a dozen times in its history.
+Each was declared a success. There is no evidence any of them made a difference at all.
 
 ## The Khazári
 
-And then there is [[place-vorgald|Vorgald]], where the enmity is of a different order.
+The [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]] hate the Grukar, and the hatred is of a
+different order from anybody else's.
 
-Grukar go **underground**. They dig, they nest, they raise their young in the dark and they know which
-fungus is safe, and on an island whose empty country includes a great deal of rock that puts them in
-direct competition with the [[lore-flkkhazar|Khazári]] for the only ground the Deep Folk care about.
-Bands have reached the outer workings of Vorgald more than once. What became of them is not recorded and
-the Khazári have not been asked.
+Everyone on Aelwyth kills Grukar when they must, and treats it as one more hard necessity of living
+here. The Deep Folk do not treat it as a necessity. They kill Grukar **immediately, wherever found,
+without negotiation, without exception, and without the enormous patience they extend to every other
+living thing on this island** — and it is the only subject on which the Khazári have ever been observed
+to act quickly.
 
-The specific horror is worse than competition, and the [[lore-vardain|Vardain]] understand it even if
-the lowlands have not thought it through. **A Grukar tribe inherits by eating.** Knowledge that would
-otherwise die in one skull is passed to the tribe at the table, and a tribe that took and ate a Khazár
-would come away holding some part of what that Khazár knew — the workings, the water, the stone, the
-engineering that no human has ever been taught.
+Why has never been said. It is not simply that the Grukar go underground, though they do, and though
+that puts them in competition for ground the Khazári value. The [[lore-vardain|Vardain]], who have lived
+beneath the hold for millennia and know the Deep Folk better than any humans alive, are quite clear that
+the reason is older and more particular than that.
 
-That is why the Khazári kill Grukar wherever they find them, without negotiation, without exception, and
-without the patience they extend to every other living thing on this island.
+They are also clear that they have never been told what it is, and have long since stopped asking.
 
 ## See Also
 

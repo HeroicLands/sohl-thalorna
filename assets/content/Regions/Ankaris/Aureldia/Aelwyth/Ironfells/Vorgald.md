@@ -88,20 +88,21 @@ goes through Vardain hands.
 ## The Grukar
 
 The Khazári of Vorgald extend a measured indifference to nearly everything on this island. They extend
-none whatever to **[[lore-grukaraelwyth|Grukar]]**.
+none whatever to **[[lore-grukaraelwyth|Grukar]]**, who have been on Aelwyth for some seven hundred
+years and in these mountains for most of them.
 
-The Grukar dig, nest and raise their young underground, which puts them in direct competition for the
-only ground the Deep Folk value, and bands have reached Vorgald's outer workings more than once. That
-alone would be enough. It is not the reason.
+They kill them **immediately, wherever found, without negotiation and without exception** — and without
+any part of the enormous patience they show every other living thing here. It is the only subject on
+which the Deep Folk have ever been observed to act quickly.
 
-**A Grukar tribe inherits by eating.** What one of them knows can be given to the whole tribe at a meal,
-and a tribe that took a Khazár alive and did what Grukar do would come away holding some part of what
-that Khazár knew — the workings, the water-engineering, the stone. The Khazári have shared none of that
-with anyone in five thousand years. They are not going to lose it to something that breeds.
+The obvious explanation is competition. Grukar go underground; the Khazári live underground; the two
+want the same ground, and bands have reached Vorgald's outer workings more than once. That much is
+plainly true and it is plainly not the whole of it. The [[lore-vardain|Vardain]], who have lived beneath
+this hold for millennia and know the Deep Folk better than any humans alive, are certain the reason is
+older and more particular than territory.
 
-They kill Grukar wherever they find them, immediately, without negotiation and without the patience they
-show every other living thing on Aelwyth. It is the only subject on which the Deep Folk have ever been
-observed to act quickly.
+Nobody has ever been told what it is. The Khazári do not discuss it, and the Vardain long ago stopped
+asking.
 
 ## No Relationship
 

@@ -150,10 +150,10 @@ alarming thing the great majority will ever meet is a bad winter.
 The reputation is wrong about the people and **right about the land** — and, within living memory, right
 about something else as well.
 
-There are **[[lore-grukaraelwyth|Grukar on Aelwyth]]**. Splinter tribes reached the island a couple of
-generations ago, carried across the northern water in ships' holds, and they are established in the
-empty third of it and breeding. The mainland's talk of fell creatures in the Aelwythan woods predates
-them by centuries and was nonsense when it started. It is not nonsense now.
+There are **[[lore-grukaraelwyth|Grukar on Aelwyth]]**, and there have been for the better part of
+**seven hundred years** — established in the empty third of the island, endemic, and impossible to
+eradicate. The mainland's talk of fell creatures in the Aelwythan woods is very old, and so are they.
+It is entirely possible the reputation was always about them.
 
 There genuinely are places on Aelwyth where the fae are strong — sites of real and unpredictable power,
 concentrated in the deep forest of the interior and in the wilder north, in country that the settled
@@ -163,8 +163,8 @@ the [[affiliation-ordoarcanis|Ordo]] presence in [[affiliation-kingdmdnvr|Dúnav
 unconnected with the fact.
 
 So the mainland is not simply wrong; it has heard true things about a third of the island and applied
-them to all of it — and has lately been accidentally correct about a third thing it knows nothing
-about. And the Aelwythan farmer who has never in his life seen anything stranger than a
+them to all of it — and has been correct for centuries about a third thing it has never troubled to
+understand. And the Aelwythan farmer who has never in his life seen anything stranger than a
 heron is also not wrong, because he has never had cause to go where such things are.
 
 ## The Synod's Backyard

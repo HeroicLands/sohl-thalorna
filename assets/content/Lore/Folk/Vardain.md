@@ -76,8 +76,9 @@ the valley half:
   engineering, iron, and above all the rock-cut granaries without which a four-month season at six
   thousand feet could not feed anybody through a snowbound winter — all of it built by them and all of
   it **maintained by them**, by engineers who come down to the valleys to work and go back up when
-  they are done. They will not teach the craft to a human and have no need to. Neither people could
-  hold this country alone.
+  they are done. They will not teach the craft to a human and have no need to. Neither people could hold this country alone, and neither has any margin: a
+  failed conduit is a failed harvest, and a failed harvest in this basin means nobody eats, Deep Folk
+  included. Repairs are asked for as a matter of shared interest and answered as one.
 - **The Vardain factor for them.** Khazári work reaches human markets through Vardain hands and no
   others. A Vardain trader at [[place-ashford|Ashford]] is selling on commission for a client he will
   not name, and everybody in that market knows it.

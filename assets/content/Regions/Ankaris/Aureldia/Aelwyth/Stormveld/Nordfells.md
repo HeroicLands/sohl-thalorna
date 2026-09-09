@@ -49,14 +49,12 @@ weather rather than as rebels.
 
 ## The Other Occupants
 
-The fells also hold **[[lore-grukaraelwyth|Grukar]]**, and the Jarldom's position on them is the most
-awkward on the island: every other realm believes Nordmen shipping brought them, and the jarls deny it
-in terms nobody finds convincing.
+The fells hold **[[lore-grukaraelwyth|Grukar]]**, as the empty country of this island has for some seven
+hundred years — long before there was a Jarldom to be troubled by them.
 
-Whatever the truth, the Grukar are here now, in the high folds and the old workings, and the Jarldom
-loses upland steadings to them most years. It reports these losses as raiding by the uplanders who
-withdrew after the conquest, which is convenient, occasionally accurate, and increasingly difficult to
-maintain.
+They are in the high folds and the old workings, and Stormveld loses upland steadings to them most
+years. The Jarldom books these losses as raiding by the Aelwythan uplanders who withdrew after the
+conquest, which is convenient, occasionally accurate, and not believed by the men who patrol up there.
 
 ## See Also
 
