@@ -50,6 +50,27 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[lore-
 - **[[place-drenavrspn|The Drenavar Spine]]** — Sacred mountain range at the heart of Áelendan territory
 - **[[place-eshalshldg|Eshálosha Lodge]]** — The principal Áelendan settlement, a ceremonial and political center
 
+## The Ordo
+
+The Áelendan **do not trust the [[affiliation-ordoarcanis|Ordo Arcanis]] at all**, and do not pretend
+to. Where the Élavendri court treats the Ordo as a rival institution to be balanced, licensed and
+argued with, the Áelendan regard it as a body of meddlesome intruders — outsiders who arrive to
+_study_ what the tribes exist to _keep_, who mistake a sacred site for a subject, and who have never
+once asked permission in a form the tribes recognise.
+
+The kingdom permits the Ordo and limits its access. The Áelendan did not agree to the first half and
+enforce the second: the boundary the crown declines to move is the boundary the
+[[affiliation-alndnwrdns|Wardens]] hold. The grievance is not abstract. **The Ordo steals from the sacred sites**, and has done so for as long
+as it has been in the kingdom. Expeditions arrive with licences to survey and leave with what was
+seated there; scholars admitted to the margins are found past them; and objects that belonged to a
+grove or a spring have a way of reappearing in a chapterhouse collection at Béravel, catalogued,
+provenance unrecorded. The Ordo calls this recovery and study. The Áelendan call it what it is, and
+have never accepted a single explanation offered.
+
+An Ordo expedition turned back at the tree line is a routine
+event. An Ordo expedition that does not turn back is a different kind of event, and the Ordo's own
+records of the northern interior are notably thin on what became of several of them.
+
 ## See Also
 
 - [[place-elavendre|Élavendre]] — The kingdom within which Áelendan territory lies

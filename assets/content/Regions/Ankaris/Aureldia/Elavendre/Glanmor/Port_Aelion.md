@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - elavendre
+    - glanmor
   population: null
 name:
   full: Port Aelion
