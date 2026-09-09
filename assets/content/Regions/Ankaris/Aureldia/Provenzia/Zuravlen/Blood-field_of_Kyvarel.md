@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - zuravlenrgn
   population: null
 name:
   full: Blood-field of Kývarel

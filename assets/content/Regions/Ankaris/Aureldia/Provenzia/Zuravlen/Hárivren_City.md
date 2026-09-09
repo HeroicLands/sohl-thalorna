@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - zuravlenrgn
   population: 34000
 name:
   full: Hárivren City

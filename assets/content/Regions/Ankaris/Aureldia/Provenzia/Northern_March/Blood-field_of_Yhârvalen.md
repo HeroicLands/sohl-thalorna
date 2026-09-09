@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - nrthrnmarch
   population: null
 name:
   full: Blood-field of Yhârvalen

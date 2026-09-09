@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - sthrncoast
   population: null
 name:
   full: Blood-field of Calvènza

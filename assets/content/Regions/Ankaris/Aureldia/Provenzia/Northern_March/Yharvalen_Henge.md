@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - nrthrnmarch
   population: null
 name:
   full: Yhârvalen Henge

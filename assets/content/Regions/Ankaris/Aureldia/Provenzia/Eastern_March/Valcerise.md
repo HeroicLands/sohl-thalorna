@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - estrnmarch
   population: 1800
 name:
   full: Valcèrise

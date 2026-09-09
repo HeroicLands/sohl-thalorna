@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - sthrncoast
   population: null
 name:
   full: Thúravel Hills

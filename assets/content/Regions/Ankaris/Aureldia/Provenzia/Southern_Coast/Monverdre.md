@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - provenzrgn
+    - sthrncoast
   population: 2200
 name:
   full: Monvèrdre
