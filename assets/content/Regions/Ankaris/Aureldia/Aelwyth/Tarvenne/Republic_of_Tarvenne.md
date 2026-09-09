@@ -153,24 +153,39 @@ merchants are able, its accounts are creative, and its neighbours deal with it w
 Tarvenne is not accidentally a republic. It is a republic **on purpose**, and the purpose is
 [[affiliation-vylarinmpr|Vylaria]].
 
-Its constitution is a deliberate imitation of the Vylarian forms: a **Senate** whose members are styled
-**senators**, magistracies with Vylarian names and Vylarian terms, a civic calendar of processions and
-assemblies, and public building in a self-consciously Vylarian manner, executed in local stone by masons
-working from descriptions. Senators wear the bordered mantle. The Senate house at
-[[place-thornbury|Thornbury]] has a portico.
+Its constitution copies the Vylarian forms: a **Senate** whose members are styled **senators**,
+magistracies with Vylarian names, a civic calendar of processions and assemblies, and public building in
+a self-consciously Vylarian manner, executed in local stone by masons working from descriptions.
+Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornbury]] has a portico.
 
-The aspiration is sincere, and in its own terms not absurd — Tarvenne genuinely holds itself the
-inheritor of the republican virtues, and its orators can make the case at length and in tolerable
-Vylari.
+## Rubbish, and Vanity
 
-What undoes it is arithmetic. **Vylaria holds some twenty-one million people.** Tarvenne holds a hundred
-and fifty thousand, on the western shore of an island most Vylarians could not place on a chart. Even
-now, diminished — its reach shortened, its old possessions gone independent — the empire remains larger
-than the whole Aurèldían west together, and Tarvenne beside it is a sorry shadow of a thing it has never
-seen.
+The claim to comparison with Vylaria is **unadulterated vanity and rubbish**, and it is worth being
+plain about that, because Tarvenne never is.
 
-Nobody in Tarvenne finds this thought useful, and the Senate does not entertain it. Vylarian factors are
-received with immense ceremony and go home with anecdotes.
+Nobody with any real knowledge of the mainland could mistake this for Vylaria for the length of an
+afternoon. The forms are copied without being understood: the magistracies bear Vylarian names attached
+to offices that do nothing a Vylarian would recognise; the processions observe a calendar assembled from
+hearsay; the mantles are the wrong cut and the wrong colour; the Vylari of the Senate's orations is
+archaic where it is not simply wrong, and delivered in an accent that no one has ever corrected because
+no one present could. The portico at Thornbury is a portico in the way a child's drawing of a horse is
+a horse.
+
+What it resembles is not a republic. It is **children playacting at the behaviour of adults** — with
+total seriousness, immense ceremony, and no possible way of knowing how they look, because none of them
+has ever seen the thing they are imitating.
+
+That is the mechanism, and it is why the pretension is stable. Almost no Tarvennese has been to Vylaria.
+The mainland is a fortnight's dangerous sailing and a world away; what reaches the island is
+second-hand, decades old, and filtered through people with an interest in flattering the Senate. There
+is nobody in Thornbury able to say _that is not how it is done_, and there has not been for
+generations.
+
+Vylaria, for its part, has never sent an embassy and has no reason to. It is not aware of Tarvenne in
+any sense an imperial clerk would record — a hundred and fifty thousand people on the far shore of an
+island the empire has never wanted. If a Vylarian embassy ever did arrive, its members would **die of
+laughing** at how provincial the whole performance is, and would take considerable trouble to do it
+somewhere else.
 
 ## The Republic in Practice
 

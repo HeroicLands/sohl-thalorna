@@ -80,6 +80,19 @@ position in an order it has never occurred to them is local. A single Vylarian p
 as many people as the whole island. Most Aelwythans have no functional idea of this, and those who are
 told it tend to treat the figure as a traveller's exaggeration.
 
+This is not a quirk of one realm. **Aelwyth is insular and parochial through and through**, and for a
+plain reason: almost nobody leaves. The mainland is a long and dangerous sail; what news arrives is
+second-hand, years old, and carried by people with an interest in telling their patrons what pleases
+them. There is, on the whole island, almost nobody in a position to say _that is not how it is done
+elsewhere_ — and there has not been for generations.
+
+So every Aelwythan institution is conducted with total seriousness and no external measure. Aldorath's
+lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
+as a great power; Stormveld's jarls reckon themselves conquerors of consequence. The most florid case is
+[[affiliation-repblctrvn|Tarvenne]], which has built an entire imitation Vylarian republic — Senate,
+senators, mantles, portico — out of hearsay, and cannot tell how it looks, because no one there has seen
+the original.
+
 **The rest of western Thalorna thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
 uniformly bad and uniformly lurid: a wilderness of barbarians, fell creatures and mystical powers, where
 the forests are not safe, the tribes take heads, and the ruling class of one kingdom are mages who
