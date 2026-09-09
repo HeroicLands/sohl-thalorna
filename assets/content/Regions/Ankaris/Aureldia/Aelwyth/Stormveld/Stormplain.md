@@ -40,8 +40,16 @@ worth making.
 The plain's people are **[[lore-vardain|Vardain]]**, and they were a nation before the Nordmen came.
 This country was **Vardanreach**, which kept the friendship of the [[lore-flkkhazar|Khazári]] of
 [[place-vorgald|Vorgald]] for thousands of years and is now called Stormveld by the men who took it.
-Their free kin — some eight and a half thousand of them — are alive two valleys up, in the
-[[place-vardainvalleys|mountains]], and the thralls of the plain know it.
+Their free kin are alive — some ten thousand of them, in the
+[[place-vardainvalleys|high valleys]] of the [[place-ironfells|Ironfells]] beyond the southern
+mountains, under Khazári protection. That is not a short distance. The plain lies a couple of hundred feet above the sea; the valleys are at
+**six thousand**, days away over the [[place-sunderfells|Sunderfells]] by ways a thrall has no business
+knowing, and the plain is watched.
+
+It is also only possible in **summer**. From the first snow the passes are shut, and a thrall who leaves
+in the wrong season does not reach the valleys and is not found until the thaw.
+
+The thralls of the Stormplain know they exist all the same, and a small number attempt it every year.
 
 They keep their speech, mostly out of hearing, and their observances, mostly out of sight. The jarls have not tried to
 suppress either, holding that a thrall's private habits are of no consequence so long as the work is

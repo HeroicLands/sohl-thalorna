@@ -42,7 +42,9 @@ generations and who do not discuss the details with anyone, including other Vard
 
 Vargate is the **end of the road**, and that is the only reason outsiders know the name.
 
-Trading caravans come up for Khazári goods — two or three times a year from
+The road up is nearly six thousand feet of climb from the lowlands and is **shut by snow for a third of
+the year**, so the trade has a season and everybody plans around it. Trading caravans come up for
+Khazári goods — two or three times in the open months, from
 [[place-ashford|Ashford]] and [[place-greywater|Greywater]], less often from further — and Vargate is
 where they stop. There is no arrangement by which a caravan proceeds further, no fee that buys it, and
 no exception on record. **No caravan has ever been allowed into the hold**, and no outsider has been up

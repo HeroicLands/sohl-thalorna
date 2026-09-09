@@ -40,8 +40,10 @@ it.
 
 Some are old residents whose families have farmed those terraces for millennia — the valleys were Vardanreach too. A great many are
 not: when the plain fell, those who could get to the passes went up, and the Khazári **admitted them**.
-That decision was neither obliged nor explained, and it is the single largest thing the Deep Folk have
-ever done for humans. The valley population is markedly larger than it was sixty years ago, and people
+That decision was never explained, and it is the single largest thing the Deep Folk have ever done for
+humans — and it was not only generosity. The conquest had just destroyed the Khazári's food supply.
+A hold cannot import what it eats, Vorgald had fed off Vardanreach for thousands of years, and the
+people coming up the passes were the farmers who had been doing it. The valley population is markedly larger than it was sixty years ago, and people
 still come over the mountains, and are still taken in.
 
 But asylum is not right, and the Vardain are careful never to mistake the two. They hold their freedom
@@ -67,8 +69,12 @@ the valley half:
 - **The Khazári protect them.** Not by garrison — the Deep Folk garrison nothing — but the valleys are
   not raided and have not been in memory. Those who have tried are a subject on which the Vardain become
   vague.
-- **The Vardain feed them.** Grain, cheese, meat, fodder and fuel go up to the Gate on a schedule that
-  has not altered in centuries. The Khazári grow nothing.
+- **The Vardain feed them**, and this is not a courtesy but the arrangement's foundation. Grain,
+  cheese, meat, fodder and fuel go up to the Gate on a schedule unaltered in centuries. The Khazári
+  grow nothing, will not depend on imported food, and therefore cannot hold Vorgald without farmers.
+- **The Khazári make the farming possible.** Water-works, drainage, terrace engineering, iron, and
+  above all the rock-cut granaries without which a four-month season at six thousand feet could not
+  feed anybody through a snowbound winter. Neither people could hold this country alone.
 - **The Vardain factor for them.** Khazári work reaches human markets through Vardain hands and no
   others. A Vardain trader at [[place-ashford|Ashford]] is selling on commission for a client he will
   not name, and everybody in that market knows it.

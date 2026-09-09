@@ -74,6 +74,13 @@ to the **eight and a half thousand free Vardain of the [[place-vardainvalleys|va
 below the hold — whom they admitted as refugees, protect, feed from, and use as their factors with
 everybody else.
 
+The relationship is **necessity on both sides**. A hold cannot import its food: the road is six
+thousand feet of climb and shut a third of the year, and a people supplied from outside can be starved
+by whoever holds the road. So Vorgald must be fed from the valleys immediately below it — and farming
+those valleys is only possible because the Khazári cut the water-works, the drains and the granaries
+that make a four-month season survive an eight-month year. Neither people could hold this country
+without the other, and both know it.
+
 On rare occasions — a handful of times in a century — Vorgald deals directly with
 [[affiliation-kngdmldrth|Aldorath]] or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction
 goes through Vardain hands.

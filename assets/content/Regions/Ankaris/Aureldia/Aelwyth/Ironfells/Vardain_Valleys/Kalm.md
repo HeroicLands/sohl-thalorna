@@ -34,6 +34,10 @@ memory of **Vardanreach** is freshest, where the thralls of the [[place-stormpla
 spoken of as cousins rather than as history, and where the valleys' careful silence about doing anything
 for them is hardest to keep.
 
+Kalm is also where those who get over the mountains arrive. It is a hard crossing — days over the
+[[place-sunderfells|Sunderfells]] from a plain that is watched — and few attempt it, but the ones who
+manage it come down into this valley, and Kalm has never yet turned one away.
+
 ## See Also
 
 - [[place-vardainvalleys|The Vardain Valleys]] · [[place-stormplain|The Stormplain]]

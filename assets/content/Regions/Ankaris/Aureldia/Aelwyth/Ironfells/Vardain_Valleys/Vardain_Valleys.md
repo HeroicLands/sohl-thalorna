@@ -42,10 +42,17 @@ reason.
 
 ## The Country
 
-Not a gorge — a **broad upland basin**, and that is the whole reason ten thousand people can live here.
+Not a gorge — a **small upland basin with a broad floor**, which is the whole reason ten thousand people
+can live here at all.
 
-The floor is wide, open and gently rolling: grass, scattered oak and thorn, becks running through it,
-with room for real fields and a great deal of grazing. It sits high, ringed on every side by the higher
+The proportion matters and the Vardain never forget it. This is **one basin**: perhaps twenty miles from
+end to end and a few across at its widest, with two or three side valleys hanging off it. Below and
+north lies [[affiliation-jrldmstrmvld|Stormveld]] — an immense expanse, something like a fifth of
+Aelwyth, all of it Vardanreach once and all of it conquered. The free Vardain hold a pocket in the
+mountains above a country they used to own.
+
+Within that pocket the ground is good. The floor is open and gently rolling: grass, scattered oak and
+thorn, becks running through it, with room for real fields and a great deal of grazing. It sits high, ringed on every side by the higher
 peaks of the [[place-ironfells|Ironfells]], and the ring is what makes it habitable — the bulk of the
 range takes the worst of the western weather, and the basin lies in its lee, cooler and wetter than the
 plain below and drier than the coast, though the wind funnels through it in a way the Vardain build
@@ -53,6 +60,77 @@ against as a matter of course.
 
 Terracing is confined to the flanking slopes, where centuries of Vardain walling have taken the ground
 up the valley sides in courses a mainland engineer would stop and stare at. The floor never needed it.
+
+## Six Thousand Feet
+
+The basin floor lies at about **six thousand feet**. The [[place-stormplain|Stormplain]] below is a
+couple of hundred feet above the sea. Everything about the Vardain follows from those two numbers.
+
+It is high, cold country with a **short season** — perhaps four months in which anything grows — and
+snow lying on the tops far longer. Wheat is out of the question. What the Vardain grow is rye, oats and
+hardy barley, and even those are a gamble in a bad year; the real living is **livestock**, which can be
+moved, wintered and eaten, and hay, which is cut with an urgency outsiders find comic until they have
+seen a season fail.
+
+The basin is **shut by snow for months**. The road down to the lowlands closes, the passes over the
+[[place-sunderfells|Sunderfells]] close, and the valleys spend a third of the year entirely alone. The
+Vardain build, store and reckon accordingly, and their famous exactness with tallies is not a
+temperament — it is what you become when a miscount in autumn is discovered in February.
+
+## Why It Works At All
+
+Farming this basin should not be possible. At six thousand feet, in a cool maritime climate, with four
+months of season and frost possible in any of them, an unaided human community would starve here inside
+a decade.
+
+It works because the [[lore-flkkhazar|Khazári]] have **engineered the valley**, and the scale of what
+they have done is not easily conveyed to anyone who has only seen human works.
+
+### The Water
+
+High above the inhabited ground, snowmelt is caught behind cut dams in a series of reservoirs, and
+released — on a schedule, through gates — into **buried conduits** that run for miles under the frost
+line and do not ice. Those feed a distribution system that reaches every terrace and every field in the
+basin by gravity alone, calibrated so precisely that a Vardain farmer's water arrives at an appointed
+hour on an appointed day and has done for centuries.
+
+The same system takes water _away_. The basin floor was bog; it is now the best arable in the district,
+drained by cut channels laid to gradients no human surveyor on Aelwyth could reproduce.
+
+### The Heat
+
+This is the work that actually buys the harvest. The growing season is short because the nights are
+cold, so the Khazári built for the nights.
+
+The terrace walls are not merely retaining walls. They are **thermal mass**, sited, faced and angled to
+take the day's sun and give it back after dark, and the difference across a walled terrace is enough to
+carry a crop through frosts that would otherwise take it. On the highest and most exposed ground the
+Khazári went further, and there are fields whose ground is warmed from beneath by **air drawn off the
+deep workings** and carried under them in flues — which is why the upper terraces of
+[[place-highfold|Highfold]] and [[place-dorrin|Dorrin]] ripen anything at all.
+
+### The Granaries
+
+Four months of growing must feed twelve, four of them snowbound. Every village has a Khazári-cut
+**granary**: sealed chambers in the rock, dry, vermin-proof, and held at an even temperature by
+ventilation shafts that are still open and still working after an unrecorded number of centuries.
+
+Aelwyth loses part of its stored grain to damp and spoilage every year, as everywhere does. The Vardain
+do not.
+
+### What the Vardain Understand
+
+They **maintain** all of it — dredging, re-facing, clearing shafts, replacing gates — with a discipline
+that is the central fact of their public life, and they do it well.
+
+They did not build it and could not. Parts of it they understand thoroughly; parts they maintain by rote,
+following procedures handed down without explanation, and there are elements of the system whose purpose
+nobody in the valleys can now state. The Vardain keep those in repair anyway, on the reasonable grounds
+that everything the Khazári built is there for a reason and the reason will not be explained twice.
+
+It remains a hard life. Nobody in the valleys imagines otherwise, and both sides understand the
+arrangement as need rather than kindness: the Vardain could not farm here without the Khazári, and the
+Khazári could not hold Vorgald without the Vardain.
 
 **These are farming villages before they are anything else.** Nine people in ten here raise crops and
 tend livestock: oats, barley and rye on the terraces and valley floors, sheep and hardy black cattle on

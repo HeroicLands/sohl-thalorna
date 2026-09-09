@@ -7,7 +7,7 @@ data:
   lore: []
   parents:
     - aureldirgn
-  population: 700000
+  population: 710000
 name:
   full: Aelwyth
   aliases:
@@ -210,16 +210,33 @@ denied a story about the island in its life.
 
 ## Population
 
-Aelwyth holds about **700,000** people, which is few for an island of its size, and the reason is that
+Aelwyth holds about **710,000** people, which is few for an island of its size, and the reason is that
 most of Aelwyth is empty: **a third of it is dense forest** — old, deep and effectively unsettled — and
 beyond that lie further large tracts of upland, moor and bog that support nobody at all.
 
-About **a sixth of the island's people — some 125,000 — live outside every realm**, in the tribal
-cultures of the [[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern
-coast, and in isolated wooded communities scattered through the interior and the eastern and southern
-forest. The lowland realms call all of them barbarians, which is convenient and uninformative; the
-forest peoples are markedly more warlike than the northern tribes, and the settled realms treat the
-forest margins as frontier rather than border.
+They fall into three groups, and the smallest of the three is not a tribe and should not be counted as
+one.
+
+| Group                         | People   |
+| ----------------------------- | -------- |
+| The four settled realms       | ~575,000 |
+| The tribal peoples            | ~125,000 |
+| The [[lore-vardain\|Vardain]] | ~10,000  |
+
+The **tribal peoples** — about a sixth of the island — live outside every realm, in the
+[[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern coast, and in
+isolated wooded communities through the interior and the eastern and southern forest. The lowland realms
+call all of them barbarians, which is convenient and uninformative; the forest peoples are markedly more
+warlike than the northern tribes, and the settled realms treat the forest margins as frontier rather
+than border.
+
+The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
+outsiders make about Aelwyth. They are the free remnant of **Vardanreach**, the nation that held the
+whole north-east until the Nordmen took it sixty years ago — a settled, literate, farming people whose
+kin make up the hundred and twenty thousand thralls of [[affiliation-jrldmstrmvld|Stormveld]]. Ten
+thousand of them live in the [[place-vardainvalleys|high valleys]] of the
+[[place-ironfells|Ironfells]] under the protection of the [[lore-flkkhazar|Khazári]], which is why they
+belong to no realm and why they are not barbarians in any sense whatever.
 
 The remaining **575,000** are divided between four settled realms, each holding a different part of the
 coast:
