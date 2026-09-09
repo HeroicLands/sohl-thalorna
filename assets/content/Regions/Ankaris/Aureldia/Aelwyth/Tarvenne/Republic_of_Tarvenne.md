@@ -102,7 +102,7 @@ data:
   seat: thornbury
   domains:
     - aelwyth
-  population: 75000
+  population: 150000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -138,30 +138,65 @@ Tarvenne has cultivated its own diplomatic channels with the [[affiliation-vylar
 
 Republic of Tarvenne uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Republic of Tarvenne is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
-## See Also
+## Extent
 
-- [[place-aelwyth|Aelwyth]] — The island
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] — Southeastern neighbor
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] — East-central rival
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Diplomatic partner
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] — State pantheon
-
-## The Republic in Practice
-
-Tarvenne runs along Aelwyth's **western coast** and holds about **75,000** people — most of the island's
-remaining settled population, and the only part of it governed by anything resembling a civic
-constitution.
-
-It is a republic, and it is a **thoroughly corrupt one**. Offices are elective and are bought; the
-councils are genuinely deliberative and the deliberation is genuinely for sale; the courts work, for
-those able to pay for them to work. None of this is hidden and very little of it is even embarrassing —
-Tarvenne's political class regards the arrangement as the natural friction of self-government, and
-regards [[affiliation-kingdmdnvr|Dúnavarre]]'s incorruptible mage-administration as a form of tyranny
-that has merely found a polite name.
+Tarvenne runs along Aelwyth's **western coast** and holds about **150,000** people — the second-largest
+polity on the island, twice the size of [[affiliation-kingdmdnvr|Dúnavarre]], and the only part of
+Aelwyth governed by anything resembling a civic constitution.
 
 The coast is good for fishing and moderate for farming, and the republic's wealth comes chiefly from
 carrying trade along the western shore and from what it can charge others for access to it. Its
 merchants are able, its accounts are creative, and its neighbours deal with it warily and constantly.
+
+## The Senate and the Model
+
+Tarvenne is not accidentally a republic. It is a republic **on purpose**, and the purpose is
+[[affiliation-vylarinmpr|Vylaria]].
+
+Its constitution is a deliberate imitation of the Vylarian forms: a **Senate** whose members are styled
+**senators**, magistracies with Vylarian names and Vylarian terms, a civic calendar of processions and
+assemblies, and public building in a self-consciously Vylarian manner, executed in local stone by masons
+working from descriptions. Senators wear the bordered mantle. The Senate house at
+[[place-thornbury|Thornbury]] has a portico.
+
+The aspiration is sincere, and in its own terms not absurd — Tarvenne genuinely holds itself the
+inheritor of the republican virtues, and its orators can make the case at length and in tolerable
+Vylari.
+
+What undoes it is arithmetic. **Vylaria holds some twenty-one million people.** Tarvenne holds a hundred
+and fifty thousand, on the western shore of an island most Vylarians could not place on a chart. Even
+now, diminished — its reach shortened, its old possessions gone independent — the empire remains larger
+than the whole Aurèldían west together, and Tarvenne beside it is a sorry shadow of a thing it has never
+seen.
+
+Nobody in Tarvenne finds this thought useful, and the Senate does not entertain it. Vylarian factors are
+received with immense ceremony and go home with anecdotes.
+
+## The Republic in Practice
+
+And it is a **thoroughly corrupt** republic. Senatorial place is elective and is bought; the Senate is
+genuinely deliberative and the deliberation is genuinely for sale; the courts work, for those able to
+pay for them to work. None of this is hidden and very little of it is embarrassing — Tarvenne's
+political class regards the arrangement as the natural friction of self-government, and regards
+[[affiliation-kingdmdnvr|Dúnavarre]]'s incorruptible mage-administration as a tyranny that has found a
+polite name.
+
+But corruption is the mild description, and it flatters them.
+
+A good number of Tarvenne's senators are, plainly, **evil men**. They are wholly indifferent to the
+people they govern, whose condition does not enter their calculations except as a supply of labour,
+rents and votes. They are driven entirely by self-interest and prosecute it without restraint or
+embarrassment. And they are **vain** past the point of caricature — ferociously jealous of precedence,
+incapable of an unrewarded act, contemptuous of anyone who cannot injure them, and utterly persuaded of
+their own greatness.
+
+There are a dozen or so of the first rank, and the republic's politics is essentially the friction
+between them. They ruin each other's clients, buy each other's magistrates, prosecute each other's
+allies, and combine only when something threatens the arrangement that lets all of them prosper. Whether
+the Senate ever does anything for the hundred and fifty thousand people of Tarvenne depends entirely on
+whether it happens to lie along the path of one of these men's ambitions.
+
+Often enough it does not, and nothing is done, and this is understood by everyone as the weather.
 
 ## The Two Faiths
 
@@ -201,3 +236,11 @@ The result is that the two most powerful religious bodies in Tarvenne are a supp
 domination and a death-cult of impartial judgement, and they are not allies. Both deal in death and they
 mean opposite things by it. The republic's politics runs in the space between them, and its magistrates
 are careful to be seen at both temples.
+
+## See Also
+
+- [[place-aelwyth|Aelwyth]] — The island
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] — Southeastern neighbor
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] — East-central rival
+- [[affiliation-vylarinmpr|Vylarian Empire]] — Diplomatic partner
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]] — State pantheon

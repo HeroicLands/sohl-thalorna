@@ -8,7 +8,7 @@ data:
   parents:
     - aureldirgn
     - ankrscntnnt
-  population: 625000
+  population: 700000
 name:
   full: Aelwyth
   aliases:
@@ -72,7 +72,7 @@ Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mai
 
 Two things are true about Aelwyth at once, and neither of the people concerned believes the other.
 
-**Aelwythans think of themselves as the world.** Six hundred thousand people on one island conduct
+**Aelwythans think of themselves as the world.** Seven hundred thousand people on one island conduct
 their affairs with the entire seriousness of continental powers: the rivalry between
 [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-kingdmdnvr|Dúnavarre]] is followed as great
 politics, the standing of the realms is weighed and argued, and a good Aelwythan family knows its
@@ -107,25 +107,25 @@ heron is also not wrong, because he has never had cause to go where such things 
 
 ## Population
 
-Aelwyth holds about **625,000** people, which is few for an island of its size, and the reason is that
+Aelwyth holds about **700,000** people, which is few for an island of its size, and the reason is that
 most of Aelwyth is empty: **a third of it is dense forest** — old, deep and effectively unsettled — and
 beyond that lie further large tracts of upland, moor and bog that support nobody at all.
 
-About **a fifth of the island's people — some 125,000 — live outside every realm**, in the tribal
+About **a sixth of the island's people — some 125,000 — live outside every realm**, in the tribal
 cultures of the [[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern
 coast, and in isolated wooded communities scattered through the interior and the eastern and southern
 forest. The lowland realms call all of them barbarians, which is convenient and uninformative; the
 forest peoples are markedly more warlike than the northern tribes, and the settled realms treat the
 forest margins as frontier rather than border.
 
-The remaining **500,000** are divided between four settled realms, each holding a different part of the
+The remaining **575,000** are divided between four settled realms, each holding a different part of the
 coast:
 
 | Realm                                              | People   | Where            |
 | -------------------------------------------------- | -------- | ---------------- |
 | [[affiliation-kngdmldrth\|Kingdom of Aldorath]]    | ~200,000 | eastern interior |
 | [[affiliation-jrldmstrmvld\|Jarldom of Stormveld]] | ~150,000 | north-east       |
-| [[affiliation-repblctrvn\|Republic of Tarvenne]]   | ~75,000  | western coast    |
+| [[affiliation-repblctrvn\|Republic of Tarvenne]]   | ~150,000 | western coast    |
 | [[affiliation-kingdmdnvr\|Kingdom of Dúnavarre]]   | ~75,000  | south-east       |
 
 Three things about that table matter more than the numbers.
@@ -135,12 +135,12 @@ the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are
 Nordmen holding a third of the island's settled people sits a hundred and twenty sea-miles from
 [[place-elavendre|Élavendre]], which explains a good deal of Élavendren foreign policy.
 
-**Aldorath is much the largest**, and the most conventionally feudal: four in five of its people are
+**Aldorath is the largest**, with Stormveld and Tarvenne close behind, and the most conventionally feudal: four in five of its people are
 serfs or peasants on manorial estates.
 
 **Dúnavarre is the smallest and the most powerful.** Its weight comes from harbours, trade, the Synod
 and the Order of the Just Blade rather than from numbers, and its long rivalry with Aldorath over the
-interior is not a contest of size — Aldorath has nearly three times as many subjects — but of kind.
+interior is not a contest of size — Aldorath has nearly three times as many subjects, and even Tarvenne twice as many — but of kind.
 
 ## See Also
 
