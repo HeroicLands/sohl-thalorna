@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - estrnmarch
+    - serramarca
   population: null
 name:
   full: Blood-field of Serravel

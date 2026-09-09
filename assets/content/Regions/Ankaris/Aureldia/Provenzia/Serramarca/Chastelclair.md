@@ -4,14 +4,14 @@ tags:
   - fortified
   - frontier
   - mountain
-description: "The fortress town of Provènzia's eastern march — the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
+description: "The fortress town of Sèrramarca, Provènzia's eastern march — the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
 type: place
 subType: settlement
 data:
   demonym: null
   lore: []
   parents:
-    - estrnmarch
+    - serramarca
   population: 4500
 name:
   full: Chastèlclair
@@ -23,7 +23,7 @@ packFolder: provenzia
 # Chastèlclair
 
 **Chastèlclair** — the bright castle — commands the road below the Tarvénian passes, and is the
-military seat of Provènzia's **eastern march**.
+military seat of Sèrramarca, Provènzia's eastern march, **Sèrramarca**.
 
 It is not an old town, which distinguishes it from almost everything else on this frontier. It was
 built, deliberately and at considerable expense, to hold a road that had been raided along for

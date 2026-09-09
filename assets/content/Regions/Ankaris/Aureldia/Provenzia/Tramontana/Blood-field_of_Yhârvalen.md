@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnmarch
+    - tramontana
   population: null
 name:
   full: Blood-field of Yhârvalen
@@ -24,7 +24,7 @@ A battlefield of Provènzia remembered as a blood-field — ground where an enga
 cost that the name stuck to the place rather than to the battle. Near
 [[place-yharvalenhenge|Yhârvalen Henge]].
 
-It lies in the **northern march**, on the low country inland of the [[place-batarengulf|Gulf of
+It lies in **[[place-tramontana|Tramontàna]]**, on the low country inland of the [[place-batarengulf|Gulf of
 Batáren]] — a day's march from where a fleet can put an army ashore, which is why an army was ever
 brought to meet one there.
 

@@ -13,15 +13,17 @@ data:
     - provenzrgn
   population: 750000
 name:
-  full: Northern March
+  full: Tramontàna
   aliases: []
-shortcode: nrthrnmarch
+shortcode: tramontana
 packFolder: provenzia
 ---
 
-# Northern March
+# Tramontàna
 
-The **Northern March** is Provènzia's frontier with [[place-elavendre|Élavendre]] and with the northern
+**Tramontàna** — _beyond the mountains_, and also the name of the cold wind that comes over them.
+
+The **Tramontàna** is Provènzia's frontier with [[place-elavendre|Élavendre]] and with the northern
 sea: some three-quarters of a million people on the coastal plain and in the valleys, and above them a
 great deal of mountain that is not, in any sense that matters, governed.
 
@@ -52,6 +54,8 @@ and its standing vulnerability.
 Two centuries ago a fleet used it. The raiders threw down
 **[[place-yharvalenhenge|Yhârvalen Henge]]** and left the
 **[[place-bldfldyharvalen|blood-field]]** that is still killing the country around it.
+
+**[[place-menavarabbey|Ménavar Abbey]]** was gutted in the same raids and never refounded.
 
 ## Its Settlements
 

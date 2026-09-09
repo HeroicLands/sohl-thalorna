@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnmarch
+    - tramontana
   population: null
 name:
   full: Lhénavren
@@ -23,7 +23,7 @@ packFolder: provenzia
 # Lhénavren
 
 Deep in the borderlands between the [[place-provenzrgn|Provènzia Region]] and
-[[place-elavendre|Élavendre]], in the wooded country of the **northern march** below the Áelendan
+[[place-elavendre|Élavendre]], in the wooded country of **[[place-tramontana|Tramontàna]]** below the Áelendan
 mountains, stand the crumbling ruins of **Lhénavren**.
 
 They predate any Provenzian settlement, and any Élavendren one, by centuries. What Lhénavren was built

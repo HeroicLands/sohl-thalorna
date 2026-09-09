@@ -12,15 +12,17 @@ data:
     - provenzrgn
   population: 2500000
 name:
-  full: Southern Coast
+  full: Meridiàna
   aliases: []
-shortcode: sthrncoast
+shortcode: meridiana
 packFolder: provenzia
 ---
 
-# Southern Coast
+# Meridiàna
 
-The **Southern Coast** is Provènzia as the world pictures it, and as half of Provènzia actually lives:
+**Meridiàna** — _the noon country_; the south, and by long implication the warm and prosperous part.
+
+The **Meridiàna** is Provènzia as the world pictures it, and as half of Provènzia actually lives:
 some two and a half million people along the warm, sheltered shore of the
 [[place-vylarianse|Vylarian Sea]] and in the country behind it. It carries the overwhelming majority of
 the kingdom's trade, wealth and population, and every other quarter of the realm is in some measure

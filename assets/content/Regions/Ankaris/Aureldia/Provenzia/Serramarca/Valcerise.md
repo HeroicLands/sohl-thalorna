@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - estrnmarch
+    - serramarca
   population: 1800
 name:
   full: Valcèrise
@@ -21,7 +21,7 @@ packFolder: provenzia
 
 # Valcèrise
 
-**Valcèrise** — the cherry vale — is a hill town of the eastern march, standing above the
+**Valcèrise** — the cherry vale — is a hill town of [[place-serramarca|Sèrramarca]], standing above the
 [[place-tiravellake|Lake Tiravel]] basin on the road that climbs toward the Tarvénian passes.
 
 Its orchards are the reason for the name and the reason anyone outside the march has heard of it. Sour

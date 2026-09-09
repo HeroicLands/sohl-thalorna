@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnmarch
+    - tramontana
   population: null
 name:
   full: Maze of Echoes
@@ -26,7 +26,7 @@ obstacle that stands between a party and the [[miscgear-heartofdhirikri|Heart of
 
 ## Where Úqua-Arálwen Is
 
-The arálwen lies in the **high forest of the northern march** — the deep wooded country on the shoulders
+The arálwen lies in the **high forest of [[place-tramontana|Tramontàna]]** — the deep wooded country on the shoulders
 of the Áelendan mountains, straddling the frontier between the
 [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]].
 

@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnmarch
+    - tramontana
   population: null
 name:
   full: Mount Hýdraven

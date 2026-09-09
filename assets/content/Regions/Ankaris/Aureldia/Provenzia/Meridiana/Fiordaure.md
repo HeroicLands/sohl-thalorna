@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 6000
 name:
   full: Fiòrdaure
@@ -32,7 +32,7 @@ wind-scoured pans above [[place-portvent|Portvent]] on the cold western coast, w
 fraction as much and are worked as a sideline to fishing.
 
 Salt from Fiòrdaure preserves the fish of two coasts, cures the hams of the southern hills, and is
-carried inland as far as the eastern march. It is dull, indispensable and extremely profitable, and it
+carried inland as far as [[place-serramarca|Sèrramarca]]. It is dull, indispensable and extremely profitable, and it
 has made the town's fortunes without ever making it fashionable.
 
 ## The Houses

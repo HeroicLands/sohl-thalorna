@@ -2,14 +2,14 @@
 tags:
   - lakeside
   - mountain
-description: "The great upland lake of Provènzia's eastern march — settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."
+description: "The great upland lake of Sèrramarca, Provènzia's eastern march — settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."
 type: place
 subType: feature
 data:
   demonym: null
   lore: []
   parents:
-    - estrnmarch
+    - serramarca
   population: null
 name:
   full: Lake Tiravel
@@ -21,7 +21,7 @@ packFolder: provenzia
 # Lake Tiravel
 
 **Lake Tiravel** lies in the eastern uplands, in a broad basin below the Tarvénian passes — a large,
-deep, cold mountain lake, and the one part of Provènzia's eastern march that is not principally about
+deep, cold mountain lake, and the one part of Sèrramarca, Provènzia's eastern march that is not principally about
 the frontier.
 
 ## The Basin

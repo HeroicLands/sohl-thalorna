@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnmarch
+    - tramontana
   population: null
 name:
   full: Yhârvalen Henge
@@ -21,7 +21,7 @@ packFolder: provenzia
 
 # Yhârvalen Henge
 
-In the far north of the [[place-provenzrgn|Provènzia Region]] — in the **northern march**, on the
+In the far north of the [[place-provenzrgn|Provènzia Region]] — in **[[place-tramontana|Tramontàna]]**, on the
 low coastal country that runs inland from the [[place-batarengulf|Gulf of Batáren]] and up toward the
 Áelendan mountains — stands **Yhârvalen Henge**, or what remains of it. The
 [[place-bldfldyharvalen|Blood-field of Yhârvalen]] lies beside it.

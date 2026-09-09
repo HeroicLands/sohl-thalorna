@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: null
 name:
   full: Thúravel Hills

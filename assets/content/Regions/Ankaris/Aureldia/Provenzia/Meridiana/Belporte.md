@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 18000
 name:
   full: Belpòrte

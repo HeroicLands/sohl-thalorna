@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 45000
 name:
   full: Válaren City

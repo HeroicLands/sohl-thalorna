@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 30000
 name:
   full: Aurèliane

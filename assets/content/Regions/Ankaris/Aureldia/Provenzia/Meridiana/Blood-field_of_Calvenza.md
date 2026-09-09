@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: null
 name:
   full: Blood-field of Calvènza

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 2200
 name:
   full: Monvèrdre

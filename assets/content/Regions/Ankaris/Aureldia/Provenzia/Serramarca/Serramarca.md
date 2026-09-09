@@ -13,15 +13,17 @@ data:
     - provenzrgn
   population: 1000000
 name:
-  full: Eastern March
+  full: Sèrramarca
   aliases: []
-shortcode: estrnmarch
+shortcode: serramarca
 packFolder: provenzia
 ---
 
-# Eastern March
+# Sèrramarca
 
-The **Eastern March** is Provènzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a
+**Sèrramarca** — _the mountain march_.
+
+The **Sèrramarca** is Provènzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a
 million people in the eastern uplands and the basins below them, under mountains that are genuinely
 cold and very nearly impassable from the first snow to the thaw.
 

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrncoast
+    - meridiana
   population: 70000
 name:
   full: Lunacòrte
