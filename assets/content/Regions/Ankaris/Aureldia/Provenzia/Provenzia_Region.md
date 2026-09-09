@@ -38,6 +38,18 @@ plan their year around it, and a winter crossing is either a disaster or a delib
 
 The two coasts give the kingdom two quite different peoples. The south is where Provènzia's wealth, its ports and its reputation live. The west is poorer, harder, better at fishing, and inclined to regard the south as soft.
 
+### The Blood-fields
+
+Provènzia has been fought over for as long as anyone can remember, and it carries the record in its
+ground. Scattered across the kingdom are the **[[lore-bloodfields|blood-fields]]** — places where so
+many died at once that the boundary with the spirit world was torn rather than worn thin, and did not
+close afterwards. Most replay the battle harmlessly; some grow too well; one is killing the country
+around it.
+
+Characteristically, Provènzia names the ground rather than the battle. A Provenzian can tell you a
+field is a blood-field long before they can tell you which war made it, and for many of them nobody
+can.
+
 ## Culture and Society
 
 Provenzian society blends Vylarian sophistication with Élavendren mysticism. The cities are architectural marvels — marble buildings, grand amphitheaters, intricate aqueducts, and soaring towers that reflect both the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]] and the aesthetic sensibilities of the Provenzians themselves. The cities function as independent or semi-independent polities, each with its own character: some are ruled by hereditary nobility, others by elected councils of wealthy citizens, and a few by powerful guilds of merchants or artisans.
