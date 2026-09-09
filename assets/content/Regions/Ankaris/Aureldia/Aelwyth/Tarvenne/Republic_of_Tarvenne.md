@@ -102,7 +102,7 @@ data:
   seat: thornbury
   domains:
     - aelwyth
-  population: 2500000
+  population: 105000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm

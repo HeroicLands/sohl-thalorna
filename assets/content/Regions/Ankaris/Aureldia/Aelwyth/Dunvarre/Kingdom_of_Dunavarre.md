@@ -97,7 +97,7 @@ data:
   seat: ravenmoor
   domains:
     - aelwyth
-  population: 3500000
+  population: 75000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -155,6 +155,20 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 
 - **The Umbral Court:** The Synod's position is that there is no such organisation. See
   [[affiliation-umbralcourt|The Umbral Court]].
+
+## Population and Settlement
+
+Dúnavarre holds about **75,000** people — the smallest of Aelwyth's four settled realms, and the most
+powerful of them. Its weight rests on harbours, trade, the Synod and the Order of the Just Blade rather
+than on numbers, and its neighbours are perfectly aware that [[affiliation-kngdmldrth|Aldorath]] has
+half again as many subjects and rather less influence.
+
+The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
+at about twenty thousand, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about fifteen thousand. The remaining
+forty thousand live on **manorial estates** through the coastal plains and the river valleys — demesne
+and tenantry in the ordinary way, but administered for the Synod by appointed stewards rather than held
+by a landed aristocracy with claims of its own. That is one of the quieter ways mage-rule differs from
+the feudal kingdoms across the water, and one of the reasons the Synod's writ runs as evenly as it does.
 
 ## Commerce and Currency
 

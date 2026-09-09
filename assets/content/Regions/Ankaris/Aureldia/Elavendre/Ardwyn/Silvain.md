@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - ardwyn
+    - silvrfrsts
   population: 600
 name:
   full: Silvain

@@ -17,7 +17,7 @@ data:
   parents:
     - aelwyth
     - ankrscntnnt
-  population: null
+  population: 100000
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
 packFolder: aelwyth
 ---
@@ -44,7 +44,7 @@ SORT name.full ASC
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descendants of the island's earliest recorded human inhabitants and predating both the Élavendri-influenced southern kingdoms of Aelwyth and the Normen settlers of the eastern coasts by thousands of years. They are not a single tribe but a constellation of related clans — the [[place-pshtrwldrns|accounts vary widely]] on how many clans there are and which have lineal relationships with which — who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descendants of the island's earliest recorded human inhabitants and predating both the Élavendri-influenced southern kingdoms of Aelwyth and the Nordmen settlers of the eastern coasts by thousands of years. They are not a single tribe but a constellation of related clans — the [[place-pshtrwldrns|accounts vary widely]] on how many clans there are and which have lineal relationships with which — who share a language family, a ritual complex, and a common contempt for the lowlands.
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the druid. The war-chief is the martial leader — typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The druid is the spiritual and legal authority — trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and druid openly quarrel tend to fission.
 
@@ -76,7 +76,7 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 To the **south** lies the [[affiliation-repblctrvn|Republic of Tarvenne]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
 
-To the **east** lies the [[affiliation-jrldmstrmvld|Járldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Normen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Járldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
 

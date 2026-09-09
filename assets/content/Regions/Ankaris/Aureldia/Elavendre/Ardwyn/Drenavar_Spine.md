@@ -1,4 +1,8 @@
 ---
+tags:
+  - mountain
+  - sacred
+description: "The central sacred mountain range of Élavendre — heart of Áelendan territory, holding the greatest concentration of sacred sites in Ankaris, and sovereign to the tribes by ancient law the crown has never tried to revise."
 type: place
 subType: region
 data:

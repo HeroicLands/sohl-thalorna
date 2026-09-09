@@ -8,7 +8,7 @@ data:
   parents:
     - aureldirgn
     - midhalnrgn
-  population: null
+  population: 5000000
 name:
   full: Tarvénia Region
   aliases:

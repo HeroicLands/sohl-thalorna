@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - aelwyth
-  population: null
+  population: 20000
 name:
   full: Ravenmoor
   aliases: []

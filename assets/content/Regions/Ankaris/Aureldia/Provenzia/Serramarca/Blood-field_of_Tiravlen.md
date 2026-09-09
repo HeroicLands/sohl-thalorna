@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - serramarca
+    - tiravellake
   population: null
 name:
   full: Blood-field of Tiravlen

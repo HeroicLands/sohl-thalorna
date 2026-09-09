@@ -1,5 +1,5 @@
 ---
-description: "Loose confederation of Normen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
+description: "Loose confederation of Nordmen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 type: affiliation
 name:
   full: Járldom of Stormveld
@@ -87,7 +87,7 @@ data:
   seat: stormveil
   domains:
     - aelwyth
-  population: 1500000
+  population: 100000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -109,17 +109,17 @@ packFolder: aelwyth
 
 ## Overview
 
-The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Normen — seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
+The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Nordmen — seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
 
 ## Character
 
-The Normen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea. Their settlements cluster around the fjords — fortified longhouses and harbors built to weather both the storms of the northeastern coast and the raids that come from every direction. Shipbuilding, fishing, and raiding (when the opportunity presents itself) are the foundations of Stormveld's economy.
+The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea. Their settlements cluster around the fjords — fortified longhouses and harbors built to weather both the storms of the northeastern coast and the raids that come from every direction. Shipbuilding, fishing, and raiding (when the opportunity presents itself) are the foundations of Stormveld's economy.
 
 The High Járl's authority is real but limited — each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension — the Normen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension — the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
 The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some járls hold lands on both sides of the water.
 
