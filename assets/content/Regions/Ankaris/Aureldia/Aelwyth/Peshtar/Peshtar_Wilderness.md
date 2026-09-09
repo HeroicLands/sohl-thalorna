@@ -106,5 +106,20 @@ Aelwyth. These are markedly **more warlike** than the northern tribes — they r
 they have long memories about which is owed — and the settled realms treat the forest margins as
 frontier rather than as border.
 
+## The War Nobody Records
+
+For the last two generations the peoples of the wilderness have been fighting
+**[[lore-grukaraelwyth|Grukar]]**.
+
+Splinter tribes reached Aelwyth within living memory and established themselves in exactly the country
+the tribes live in — the deep forest, the wooded folds, the moor. There is no lowland chronicle of this
+war because no lowland realm has been in it, and the tribes have neither the means nor the inclination
+to send anybody an account.
+
+It has changed them. The forest communities of the interior and the south are markedly more warlike than
+the northern herders, and a good part of the reason is that they have been at war since before most of
+them were born with something that breeds faster than it can be killed. Frontier settlements of
+[[affiliation-kngdmldrth|Aldorath]] find them impossible to deal with and put it down to savagery.
+
 The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
 tells you nothing.

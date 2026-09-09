@@ -85,6 +85,24 @@ On rare occasions — a handful of times in a century — Vorgald deals directly
 [[affiliation-kngdmldrth|Aldorath]] or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction
 goes through Vardain hands.
 
+## The Grukar
+
+The Khazári of Vorgald extend a measured indifference to nearly everything on this island. They extend
+none whatever to **[[lore-grukaraelwyth|Grukar]]**.
+
+The Grukar dig, nest and raise their young underground, which puts them in direct competition for the
+only ground the Deep Folk value, and bands have reached Vorgald's outer workings more than once. That
+alone would be enough. It is not the reason.
+
+**A Grukar tribe inherits by eating.** What one of them knows can be given to the whole tribe at a meal,
+and a tribe that took a Khazár alive and did what Grukar do would come away holding some part of what
+that Khazár knew — the workings, the water-engineering, the stone. The Khazári have shared none of that
+with anyone in five thousand years. They are not going to lose it to something that breeds.
+
+They kill Grukar wherever they find them, immediately, without negotiation and without the patience they
+show every other living thing on Aelwyth. It is the only subject on which the Deep Folk have ever been
+observed to act quickly.
+
 ## No Relationship
 
 No Aelwythan realm has a treaty, an understanding, an embassy or a correspondence with Vorgald. Nobody

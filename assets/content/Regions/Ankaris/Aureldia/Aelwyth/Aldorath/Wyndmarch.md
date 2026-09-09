@@ -47,6 +47,12 @@ matter of local knowledge rather than of any map.
 The royal forest above [[place-kingsholow|Kingshollow]] lies here, under forest law, hunted by kings
 and poached by everyone.
 
+It is also where Aldorath meets the **[[lore-grukaraelwyth|Grukar]]**, though the crown has never used
+the word in a proclamation. Two campaigns in the last forty years were described as clearing bandits;
+neither produced any bandits, both produced casualties out of proportion to the reported enemy, and
+the outlying steadings along the forest edge have been abandoned at a rate nobody at
+[[place-dunmere|Dunmere]] has wanted to explain.
+
 ## See Also
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Caerwynd]] · [[place-sunderfells|The Sunderfells]]

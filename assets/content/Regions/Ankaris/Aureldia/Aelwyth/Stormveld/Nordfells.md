@@ -47,6 +47,17 @@ Jarldom's hunters. The fells also hold a number of communities that acknowledge 
 uplanders who withdrew after the conquest and have not come down since, and whom the jarls treat as
 weather rather than as rebels.
 
+## The Other Occupants
+
+The fells also hold **[[lore-grukaraelwyth|Grukar]]**, and the Jarldom's position on them is the most
+awkward on the island: every other realm believes Nordmen shipping brought them, and the jarls deny it
+in terms nobody finds convincing.
+
+Whatever the truth, the Grukar are here now, in the high folds and the old workings, and the Jarldom
+loses upland steadings to them most years. It reports these losses as raiding by the uplanders who
+withdrew after the conquest, which is convenient, occasionally accurate, and increasingly difficult to
+maintain.
+
 ## See Also
 
 - [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-pshtrwldrns|Peshtar Wilderness]]
