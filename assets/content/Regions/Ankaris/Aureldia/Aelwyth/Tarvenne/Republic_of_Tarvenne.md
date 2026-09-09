@@ -162,3 +162,42 @@ that has merely found a polite name.
 The coast is good for fishing and moderate for farming, and the republic's wealth comes chiefly from
 carrying trade along the western shore and from what it can charge others for access to it. Its
 merchants are able, its accounts are creative, and its neighbours deal with it warily and constantly.
+
+## The Two Faiths
+
+Tarvenne's religious life is unlike anywhere else on Aelwyth, and both of its peculiarities follow
+from the corruption rather than sitting beside it.
+
+### The Black Flame
+
+The **[[affiliation-blackflame|Black Flame]]** — Vúlcan's destructive aspect, suppressed across most of
+the Aurèldían world and reduced elsewhere to hidden shrines and secretive orders — has **enormous
+influence** in Tarvenne, and does not especially trouble to hide it.
+
+It does not need to. A faith is suppressed by magistrates, and in Tarvenne magistracies are bought. The
+Flame buys them, as every other interest does, and by the same means; it holds shrines that are known
+about, funds candidates who are known to be funded, and is prosecuted about as often as the shipping
+houses are. Its doctrine — purification by fire, the strong over the weak — sits with unpleasant ease in
+a republic where influence is openly for sale, and the [[affiliation-sacredforge|Sacred Forge]] has been
+saying so for fifty years to no effect whatever.
+
+The Flame's other western stronghold is across the water in [[place-provenzrgn|Provènzia]], where
+[[place-harivrencity|Hárivren]]'s earl holds it openly. Whether the two are coordinated is a question
+the Forge asks loudly and cannot answer.
+
+### Thánatos
+
+The other great presence is **[[affiliation-thanatos|Thánatos]]**, the Silent Judge — and he is
+prominent for precisely the opposite reason.
+
+In a republic where the courts work for those who can pay them to work, the god who judges everyone
+without exception and cannot be reached, bought, flattered or deferred is not an abstraction. He is the
+only judge most Tarvennese will ever face on equal terms with their betters, and they know it. The
+Thánatan clergy are correspondingly the one institution in the republic with unpurchased moral
+authority: they take no part in elections, accept no civic office, and are the customary arbiters in
+disputes that both parties genuinely want settled rather than won.
+
+The result is that the two most powerful religious bodies in Tarvenne are a suppressed cult of
+domination and a death-cult of impartial judgement, and they are not allies. Both deal in death and they
+mean opposite things by it. The republic's politics runs in the space between them, and its magistrates
+are careful to be seen at both temples.
