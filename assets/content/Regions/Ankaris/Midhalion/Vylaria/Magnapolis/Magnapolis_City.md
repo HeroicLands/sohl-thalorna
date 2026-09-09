@@ -201,7 +201,7 @@ Magnápolis is not a mundane city. The **[[affiliation-ordoarcanis|Ordo Arcanis]
 The signs are everywhere for those who know to look — and many are impossible to miss:
 
 - **Glow-lamps and cold-fire lanterns** light the principal avenues and the Grand Palace after dark, so that the Inner City never truly goes black.
-- The great **dome of the Temple of the Twelve** and several palace halls stand wider and higher than mortar and stone alone should allow, held by quiet enchantments worked into their keystones.
+- The great **dome of the [[place-pnthnrldnm|Temple of the Twelve]]** and several palace halls stand wider and higher than mortar and stone alone should allow, held by quiet enchantments worked into their keystones.
 - **Aqueduct-fountains** in the Circles run in patterns and heights that no mere water-pressure could achieve, shaped for spectacle on feast days.
 - Warding-glyphs, near-invisible in daylight, ring the imperial precincts against fire, poison, and unwanted intrusion.
 
@@ -267,7 +267,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 **Seat of power:** The [[place-palatimgnm|Grand Palace]], in the walled Inner City — [[place-urbsaquiln|Urbs Aquilion]], atop Mons Aquila
 **Governing bodies:** The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar|Vylarian Senate]]; the civic [[affiliation-curiaurbis|Curia Urbis]] and the courts beneath it
 **Defenses:** The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (the city has no outer wall); the [[affiliation-vylrnmltry|City Watch]] (urban cohorts); the [[affiliation-pratrgstrm|Praetar Augustarum]] guarding the Inner City
-**Signature marvels:** The [[place-magngndorery|Mechanical Court]], the [[|Temple of the Twelve]], the [[place-circusmaximusmagnapls|Circus Maximus]], the great Circles
+**Signature marvels:** The [[place-magngndorery|Mechanical Court]], the [[place-pnthnrldnm|Temple of the Twelve]], the [[place-circusmaximusmagnapls|Circus Maximus]], the great Circles
 **Dominant faith:** [[affiliation-arldnpnthn|Aurèldían Pantheon]] (state religion); all major pantheons represented
 **Arcane presence:** The [[affiliation-ordoarcanis|Ordo Arcanis]] — openly displayed here as nowhere else
 

@@ -2,7 +2,7 @@
 tags:
   - town
   - market
-  - provenzia
+  - trading
 description: "The market town and baronial seat of Zûravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
 type: place
 subType: settlement

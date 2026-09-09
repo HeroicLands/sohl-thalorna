@@ -1,8 +1,7 @@
 ---
 tags:
   - village
-  - manor
-  - provenzia
+  - river
 description: "A mixed manor of the Zûravlen valley floor — grain, fold and a little fruit — and the ordinary model that most of the barony actually resembles."
 type: place
 subType: settlement

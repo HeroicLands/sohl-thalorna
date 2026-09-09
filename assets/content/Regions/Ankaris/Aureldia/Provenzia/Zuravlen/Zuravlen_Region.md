@@ -1,7 +1,8 @@
 ---
 tags:
   - region
-  - provenzia
+  - valley
+  - inland
 description: "The peach country of Provènzia — an irrigated valley of terraced orchards whose fruit is famous across Ankaris, and whose people live by a calendar of blossom, frost-vigil, harvest and the drying yards, with wool, grain and honey carrying them through the rest of the year."
 type: place
 subType: region

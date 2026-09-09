@@ -1,8 +1,7 @@
 ---
 tags:
   - village
-  - manor
-  - provenzia
+  - hill
 description: "The upland sheep manor of Zûravlen — oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
 type: place
 subType: settlement

@@ -1,8 +1,7 @@
 ---
 tags:
   - village
-  - manor
-  - provenzia
+  - hill
 description: "The great orchard manor of Zûravlen's upper terraces — the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
 type: place
 subType: settlement

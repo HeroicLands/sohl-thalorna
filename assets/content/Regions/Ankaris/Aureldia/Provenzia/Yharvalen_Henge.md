@@ -1,0 +1,64 @@
+---
+tags:
+  - sacred
+  - border
+  - inland
+description: "The broken megalithic circle of northern Provènzia, thrown down in the Nordheim raids two centuries ago — and the source of the curse on the Blood-field, now being deliberately magnified by the Cult of the Black Flame."
+type: place
+subType: site
+data:
+  demonym: null
+  lore: []
+  parents:
+    - provenzrgn
+  population: null
+name:
+  full: Yhârvalen Henge
+  aliases: []
+shortcode: yharvalenhenge
+packFolder: provenzia
+---
+
+# Yhârvalen Henge
+
+In the northernmost reaches of the [[place-provenzrgn|Provènzia Region]], near the border with the
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and beside the
+[[place-bldfldyharvalen|Blood-field of Yhârvalen]], stands **Yhârvalen Henge** — or what remains of
+it.
+
+It was a sacred site of the pre-Aurèldían traditions, a megalithic circle raised for the
+[[affiliation-firstgods|Old Gods]] and kept for an age nobody now measures. About **two hundred years
+ago** it was destroyed during the Nordheim raids that swept through northern Provènzia. The stones
+were thrown down and broken, and whatever the circle had been holding was not holding afterwards.
+
+## The Curse
+
+The land around the henge became the **Blood-field of Yhârvalen**: cursed, dying, and avoided. For
+centuries it lay dormant — not healed, but quiet — and the district around it learned to farm at a
+distance and not to talk about why.
+
+That has ended. Something has **awakened the curse**, and the lands about the henge are withering:
+crops fail, animals die, people sicken, and the soil itself seems poisoned. The blight is spreading
+outward at a pace that has stopped being deniable.
+
+## The Black Flame
+
+The awakening is not an accident. The [[affiliation-blackflame|Cult of the Black Flame]] has been
+deliberately rousing the curse and magnifying it, drawing power from the destruction and the death —
+which is entirely consistent with a faith that holds fire's true nature to be purification and
+dominance, and that regards a dying country as a source rather than a tragedy.
+
+Nobody with authority in Provènzia has yet been willing to say this aloud. The
+[[affiliation-sacredforge|Sacred Forge]] has said it repeatedly and is not believed, being an
+interested party.
+
+## Adventuring Here
+
+The henge is a ruin, a wound and a resource at once. Breaking the curse plausibly means understanding
+what the circle was for — which means the pre-Aurèldían traditions, and the people who still remember
+them. Stopping the Black Flame is a separate problem and does not by itself undo anything.
+
+## See Also
+
+- [[place-bldfldyharvalen|Blood-field of Yhârvalen]] · [[place-provenzrgn|Provènzia Region]]
+- [[affiliation-firstgods|The First Gods]] · [[affiliation-blackflame|The Black Flame]]

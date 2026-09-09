@@ -19,6 +19,8 @@ name:
   full: Pantheon Aurèldiānum
   aliases:
     - The Pantheon
+    - Temple of the Twelve
+    - The Temple of the Twelve
 shortcode: pnthnrldnm
 ---
 
@@ -47,3 +49,13 @@ The one delicate seam is the niche of **Vúlcan**, the Forge-Lord — for Vúlca
 - [[affiliation-janus|Jánus]] — the keeper-priesthood of the Pantheon · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — whose wards hold the impossible dome
 - [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]
+
+## The Altar of Vúlcan
+
+The Pantheon holds a shrine to every one of the Twelve, which makes Vúlcan's altar a standing problem.
+Its fires are tended by the priests of the [[affiliation-sacredforge|Sacred Forge]], who hold the
+Forge-Lord's creative aspect and who regard the altar as theirs by right of being the mainstream faith.
+
+The priests of the [[affiliation-blackflame|Black Flame]] **eschew the Pantheon entirely** and keep
+their own temple elsewhere in the city. They do not dispute the altar; they deny that what is tended on
+it is Vúlcan. See [[lore-vulcanischism|The Vúlcani Schism]].
