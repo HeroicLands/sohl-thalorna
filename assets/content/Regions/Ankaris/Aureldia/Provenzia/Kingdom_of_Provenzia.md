@@ -155,7 +155,7 @@ data:
   seat: lunacorte
   domains:
     - provenzrgn
-  population: 7000000
+  population: 5000000
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm

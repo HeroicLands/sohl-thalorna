@@ -21,13 +21,19 @@ packFolder: provenzia
 
 # Yhârvalen Henge
 
-In the northernmost reaches of the [[place-provenzrgn|Provènzia Region]], near the border with the
-[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and beside the
-[[place-bldfldyharvalen|Blood-field of Yhârvalen]], stands **Yhârvalen Henge** — or what remains of
-it.
+In the far north of the [[place-provenzrgn|Provènzia Region]] — in the **northern march**, on the
+low coastal country that runs inland from the [[place-batarengulf|Gulf of Batáren]] and up toward the
+Áelendan mountains — stands **Yhârvalen Henge**, or what remains of it. The
+[[place-bldfldyharvalen|Blood-field of Yhârvalen]] lies beside it.
+
+This is Provènzia's sea-frontier with the north. There is no land border with the
+[[affiliation-kngdmnrdhm|Kingdom of Nordheim]]; there is open water, and the water has never been much
+of an obstacle. Everything that has happened at Yhârvalen happened because a fleet could reach the Gulf
+and an army could march inland from it in a day.
 
 It was a sacred site of the pre-Aurèldían traditions, a megalithic circle raised for the
-[[affiliation-firstgods|Old Gods]] and kept for an age nobody now measures. About **two hundred years
+[[affiliation-firstgods|Old Gods]] and kept for an age nobody now measures — and it stood, as such
+circles tend to, on open ground within reach of the sea rather than in the defensible hills. About **two hundred years
 ago** it was destroyed during the Nordheim raids that swept through northern Provènzia. The stones
 were thrown down and broken, and whatever the circle had been holding was not holding afterwards.
 

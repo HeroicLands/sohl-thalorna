@@ -3,7 +3,7 @@ tags:
   - region
   - valley
   - coastal
-description: "The peach and wine country of Provènzia — a windswept cliff coast, a sheltered valley of terraced orchards and vineyards behind it, and uplands above, whose people live by a calendar of blossom, frost-vigil, harvest and vintage."
+description: "Provènzia's western seaboard on the cold ocean — a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
 type: place
 subType: region
 data:
@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - provenzrgn
-  population: 11000
+  population: 750000
 name:
   full: Zûravlen Region
   aliases:
@@ -31,6 +31,23 @@ The barony is held of the Crown at [[place-lunacorte|Lunacorte]] by **Álegar al
 also Baron of Kývarel, and who sits at [[place-mercadaure|Mercadaure]]. His clan's prominent support of
 the Order of the Burning Brand gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.
+
+## The Region and the Barony
+
+**Zûravlen** names two things, and Provenzians rarely bother to distinguish them.
+
+The **region** is the whole of Provènzia's western seaboard — some three-quarters of a million people
+along a long cliff coast and the valleys behind it, facing the cold ocean. It is the poorest and
+hardest-used quarter of the kingdom: thin soils, few harbours, weather off the water, and none of the
+Vylarian trade that made the south rich. Its living is fishing, salt, wool, timber and small mixed
+farming, and its people are regarded in the south as dour and in the north as provincial.
+
+The **barony** is one valley of it — Álegar alrí Zûravel's holding, some twelve thousand souls — and it
+is why the region has the name at all. Fruit and wine out of that valley are known in every market in
+Ankaris, and no other thing produced on the western coast is known anywhere. So the whole seaboard is
+called after it, which the rest of the seaboard finds by turns convenient and irritating.
+
+What follows describes the barony, which is what anyone means when they say Zûravlen.
 
 ## The Three Bands
 
