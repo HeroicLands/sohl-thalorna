@@ -180,10 +180,11 @@ subject. An incurious island with a frightening reputation is a well-fenced rese
 
 ## Population and Settlement
 
-Dúnavarre holds about **75,000** people — the smallest of Aelwyth's four settled realms, and the most
-powerful of them. Its weight rests on harbours, trade, the Synod and the Order of the Just Blade rather
-than on numbers, and its neighbours are perfectly aware that [[affiliation-kngdmldrth|Aldorath]] has
-half again as many subjects and rather less influence.
+Dúnavarre holds about **75,000** people — the smallest of Aelwyth's four settled realms, and the one the
+other three are careful with. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many
+subjects and minds Dúnavarren opinion a great deal, which looks absurd until one remembers what the
+Synod is: the Ordo's **central chantry for the island**, and therefore the body that decides whether a
+neighbouring court keeps the advisors it cannot govern without.
 
 The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
 at about twenty thousand, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about fifteen thousand. The remaining

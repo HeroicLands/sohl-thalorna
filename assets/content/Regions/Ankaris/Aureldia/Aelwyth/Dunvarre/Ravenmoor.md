@@ -52,29 +52,38 @@ no mainland working has arrived without the same.
 ## What Happens to Those Who Try It
 
 The compulsory call is not enforced by ships, and the Synod has never in its history threatened anyone
-over it. It does not need to, because the pattern is well known and nobody on Aelwyth has to be reminded
-of it.
+over it. It does not need to. Its instrument is the thing every ruler on Aelwyth most wants to keep.
 
-A realm that decides to make an end-run around Dúnavarre — to trade with the mainland directly, to send
-its own envoy, to bring something in unexamined — will first notice something small. **Its Ordo advisors
-are not there.** Every court on the island keeps mages, because every court needs them, and they are
-Ordo-trained and Synod-approved; and one morning the man is simply gone, having left no letter and no
-trace, and the replacement the court writes for does not come. Sometimes the advisor is found later.
-The condition he is found in is not always something the household will discuss.
+**Ordo advisors serve in almost every significant polity**, here and across the world. Their value is
+inestimable and their rulers know it: a court mage's knowledge, judgement and power are advantages no
+neighbour without one can match, and every person of consequence wants one. They are not neutral
+scholars for hire. They are members of an order, and on Aelwyth that order answers to the **Synod at
+Ravenmoor**, which is its central chantry for the whole island.
 
-Then the ordinary misfortunes begin. The **harvest fails** in a district that had every reason to expect
-a good one. A **sickness** moves through the stock, or the children, that no local physician recognises
-and that stops as inexplicably as it began. A well goes bad. A season of weather arrives that the older
-farmers say they have never seen.
+So the first sanction is simply **withdrawal**. Word goes out to the Ordo in the offending realm, and
+its advisors take their leave — courteously, with proper notice, giving reasons that are impeccable and
+transparently pretextual. Then no replacement is available. Not from Dúnavarre, not from the mainland,
+not from anywhere, because the request is refused before it is made.
 
-None of it is ever attributed. Nothing is claimed, no demand is made, no connection is asserted, and any
-suggestion of one would be met at Ravenmoor with grave and genuine-seeming concern. Twice in the last
-two centuries a realm has pressed the point in writing and received a courteous reply regretting the
-misfortune and offering assistance.
+The ruler is left **shunned by the advisors he covets**, in full view of neighbours who still have
+theirs. For most, that is the end of the matter; the arithmetic is not difficult.
 
-Both realms stopped what they were doing. Neither said why.
+A ruler who attempts to prevent his advisor's departure discovers that detaining a mage is a different
+proposition from detaining a man, and that the Synod's courtesy has been a choice.
 
-## What It Costs the Island
+**If shunning does not produce compliance**, the misfortunes begin. A harvest fails where it had every
+reason not to. A sickness moves through the stock, or the children, that no local physician recognises.
+A well goes bad; a season of weather arrives that the oldest farmers say they have never seen. None of
+it is ever claimed, connected or admitted, and enquiries are met at Ravenmoor with grave and
+genuine-seeming concern.
+
+**And all of it is reversible.** There is a path back, it is well understood, and it is deliberately
+humiliating: acknowledge the fault, pay restitution, and petition the Synod's good graces at whatever
+length the Synod finds appropriate. When that is done the advisors return, the misfortunes cease, and
+nothing is ever said about either. Twice in two centuries a realm has gone the whole distance. Both came
+back. Neither has discussed it since.
+
+## What It Costs the Island## What It Costs the Island
 
 The other realms dislike the compulsory call and comply with it, out of a combination of fear and
 indifference. They are **afraid of Dúnavarre** and would rather not discover what testing the Synod

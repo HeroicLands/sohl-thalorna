@@ -7,7 +7,6 @@ data:
   lore: []
   parents:
     - aureldirgn
-    - ankrscntnnt
   population: 700000
 name:
   full: Aelwyth
@@ -160,12 +159,13 @@ benefits the Synod, and the Synod has never lifted a finger to change any of the
 It has done one thing deliberately. **Every ship crossing between Aelwyth and the mainland must call
 first at [[place-ravenmoor|Ravenmoor]]** to be inspected — inbound before it may go on to any other
 port, outbound before it may leave. Prohibited goods are the stated purpose; magic and relics are the
-real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific rather than vague. A realm that has tried to
-go around the Synod — dealing with the mainland directly, sending its own envoy — has found its Ordo
-advisors gone, without letter or trace and sometimes for good; and then the harvest fails where it had
-no business failing, or a sickness moves through the stock that no physician knows. Nothing is ever
-claimed or connected, and enquiries are met at Ravenmoor with grave concern. The realms that tried
-stopped, and did not say why. And they do not, in the end, care very
+real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific. The Synod is the Ordo's central chantry for
+the island, and every court on Aelwyth keeps Ordo advisors it would be crippled without. A realm that
+goes around the Synod finds those advisors taking a courteous leave and no replacement obtainable from
+anywhere — shunned by the very men its neighbours still have. If that does not suffice, harvests fail
+and sicknesses arrive that no physician knows, and nothing is ever claimed or connected. It is also
+reversible: acknowledge the fault, pay restitution, petition the Synod at whatever length it requires,
+and the advisors come back and the misfortunes stop. And they do not, in the end, care very
 much: an insular people with no interest in the mainland loses little by letting somebody else manage
 the mainland, and what an Aelwythan realm cares about is what happens **on Aelwyth**. Dúnavarre wants
 the tedious business of foreigners; it is welcome to it.
@@ -211,9 +211,19 @@ Nordmen holding a third of the island's settled people sits a hundred and twenty
 **Aldorath is the largest**, with Stormveld and Tarvenne close behind, and the most conventionally feudal: four in five of its people are
 serfs or peasants on manorial estates.
 
-**Dúnavarre is the smallest and the most powerful.** Its weight comes from harbours, trade, the Synod
-and the Order of the Just Blade rather than from numbers, and its long rivalry with Aldorath over the
-interior is not a contest of size — Aldorath has nearly three times as many subjects, and even Tarvenne twice as many — but of kind.
+**Dúnavarre is the smallest and the most powerful**, and this is the single most informative fact about
+Aelwyth. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many subjects and
+[[affiliation-repblctrvn|Tarvenne]] twice as many, and both mind very much what the little kingdom on
+the south-east coast thinks of them.
+
+The reason is not the harbours, or the trade, or even the Order of the Just Blade. It is that the
+**Synod is the Ordo's central chantry for the island**, and every court on Aelwyth keeps Ordo advisors
+it would be crippled without. Dúnavarre does not need an army to discipline a neighbour three times its
+size. It needs only to let the Ordo in that neighbour's realm know its services are no longer
+appropriate — and to decline, from every chantry the petitioner can reach, to send anyone else.
+
+A king of two hundred thousand who has lost his mages and cannot obtain another from anywhere is weaker
+than a king of seventy-five thousand who has all of his. Every ruler on the island has done that sum.
 
 ## See Also
 

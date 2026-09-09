@@ -16,7 +16,6 @@ data:
     - humanflk
   parents:
     - aelwyth
-    - ankrscntnnt
   population: 125000
 terran_analog: "Ireland — the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
 packFolder: aelwyth
