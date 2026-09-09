@@ -156,6 +156,25 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 - **The Umbral Court:** The Synod's position is that there is no such organisation. See
   [[affiliation-umbralcourt|The Umbral Court]].
 
+## Why the Ordo Is Here
+
+The Ordo governs no other place on earth, and the usual explanations are Dúnavarren — competent
+mage-advisors, incompetent kings, a crown set aside. Those explain the _form_. They do not explain why
+the Ordo wanted it.
+
+The answer is the rest of Aelwyth. **This is where the Ordo can study the fae without constraint.**
+In [[place-elavendre|Élavendre]] — richer fae country by far — it is permitted and limited, held out of
+the sacred sites by [[affiliation-alndnwrdns|Wardens]] the crown will not overrule. Aelwyth has real fae
+sites and nothing of the kind guarding them: the country belongs to scattered tribes with no common
+council and no way to compel anyone.
+
+Dúnavarre is therefore not an anomaly in the Ordo's history. It is the Ordo's **laboratory**, and the
+Synod governs a kingdom chiefly because governing one is the price of unrestricted access to an island.
+
+The Synod also knows exactly how small and provincial Aelwyth is — being the only people on it who
+correspond with the mainland as equals — and has never corrected a single neighbour's illusions on the
+subject. An incurious island with a frightening reputation is a well-fenced research ground.
+
 ## Population and Settlement
 
 Dúnavarre holds about **75,000** people — the smallest of Aelwyth's four settled realms, and the most

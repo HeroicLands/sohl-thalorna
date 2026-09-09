@@ -93,6 +93,19 @@ as a great power; Stormveld's jarls reckon themselves conquerors of consequence.
 senators, mantles, portico — out of hearsay, and cannot tell how it looks, because no one there has seen
 the original.
 
+### The One Exception
+
+There is exactly one body on Aelwyth that knows precisely how the island compares with the mainland, and
+that is the **Synod** of [[affiliation-ordoarcanis|Ordo Arcanis]] mages who govern
+[[affiliation-kingdmdnvr|Dúnavarre]].
+
+They are not parochial and never have been. They are members of a continental institution, they read its
+correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude how
+small Aelwyth is and how little the mainland thinks of it. They know what a Vylarian would make of
+[[affiliation-repblctrvn|Tarvenne]]'s Senate.
+
+They have never said so. Not once, to anybody.
+
 **The rest of western Thalorna thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
 uniformly bad and uniformly lurid: a wilderness of barbarians, fell creatures and mystical powers, where
 the forests are not safe, the tribes take heads, and the ruling class of one kingdom are mages who
@@ -117,6 +130,36 @@ unconnected with the fact.
 So the mainland is not simply wrong; it has heard true things about a third of the island and applied
 them to all of it. And the Aelwythan farmer who has never in his life seen anything stranger than a
 heron is also not wrong, because he has never had cause to go where such things are.
+
+## The Synod's Backyard
+
+Why the Ordo Arcanis governs one Aelwythan kingdom outright — the only place in the world where it does —
+is a question usually answered in terms of Dúnavarren history. The more useful answer is on the rest of
+the island.
+
+**Aelwyth is where the Ordo can study the fae without constraint.** In
+[[place-elavendre|Élavendre]], which is the richest fae country in the known world, the Ordo is permitted
+and limited: it holds the University at Béravel and it does not go past the tree line, because the
+[[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the Élavendren crown declines to move.
+Aelwyth has real fae sites and **no equivalent institution**. The country they lie in belongs to
+scattered tribes with no common council, no wardens, no treaty with anyone and no means of compelling
+the lowland realms to care.
+
+So the Synod does there what it cannot do anywhere else, and has done for generations.
+
+It also **protects** Aelwyth, and the word is used sincerely by everyone including the Synod. Dúnavarren
+mages have warned off, turned back and occasionally destroyed things that would otherwise have reached
+the island's people. The other realms are aware of it and grateful in a resentful sort of way.
+
+But protection and possession are difficult to tell apart from outside, and the Synod's interests run all
+one way. An Aelwyth that stays isolated, disregarded and slightly frightening is an Aelwyth nobody else
+comes to. The island's parochialism keeps its people incurious; its dreadful reputation keeps the
+mainland away; and the tribes' disunity keeps the fae country open. Every one of those conditions
+benefits the Synod, and the Synod has never lifted a finger to change any of them.
+
+Whether it has done more than not lift a finger — whether the reputation abroad is merely convenient or
+has been quietly encouraged — is a question nobody on Aelwyth is equipped to ask. The Synod has never
+denied a story about the island in its life.
 
 ## Population
 
