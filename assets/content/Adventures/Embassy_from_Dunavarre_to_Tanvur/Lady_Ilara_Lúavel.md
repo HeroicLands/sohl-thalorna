@@ -32,4 +32,4 @@ sohl:
 
 **Background.** Beloved daughter of [[being-laradhluavel|Laradh Lúavel]], living under the shadow of his debts.
 
-**Intrigue.** Her safety is her father's first concern, which the **Umbral Court** exploits to guarantee his cooperation.
+**Intrigue.** Her safety is her father's first concern, which the [[affiliation-umbralcourt|Umbral Court]] exploits to guarantee his cooperation.

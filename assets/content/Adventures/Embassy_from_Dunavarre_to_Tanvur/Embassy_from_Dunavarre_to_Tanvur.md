@@ -101,7 +101,7 @@ Name: [[being-laradhluavel|Laradh Lúavel]]
 
 - **Role:** Manages the financial aspects.
 - **Background:** Has a keen eye for detail and a strong grip on managing resources.
-- **Intrigue:** Laradh has a serious gambling problem, which has led him into significant debt with the **Umbral Court**, a thieves' guild of its own. To cover his gambling losses, Laradh has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, Ilara, if he does not comply with their demands. These threats make Laradh susceptible to blackmail, manipulation, and possibly compromising the mission.
+- **Intrigue:** Laradh has a serious gambling problem, which has led him into significant debt with the [[affiliation-umbralcourt|Umbral Court]]. To cover his gambling losses, Laradh has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, Ilara, if he does not comply with their demands. These threats make Laradh susceptible to blackmail, manipulation, and possibly compromising the mission.
 - **Laradh's Daughter: Lady Ilara**
   - **Name:** [[being-ilaraluavel|Lady Ilara Lúavel]]
   - **Role and Background:** Ilara is Laradh's beloved daughter, currently living under the shadow of his gambling debts and the threats from the Umbral Court. Her safety is Laradh's primary concern, which the Umbral Court exploits to ensure his cooperation in their schemes.

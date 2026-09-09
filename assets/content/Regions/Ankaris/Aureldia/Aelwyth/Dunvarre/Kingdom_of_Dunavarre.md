@@ -153,6 +153,9 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 - **The Synod:** The governing body of Dúnavarre, composed of senior mages of the [[affiliation-ordoarcanis|Ordo Arcanis]]. The Synod functions as both legislature and executive, with individual members overseeing portfolios of governance (diplomacy, defense, commerce, justice).
 - **The Order of the Just Blade:** A militant knightly order dedicated to [[affiliation-arldnpnthn|Jánus]], god of order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
 
+- **The Umbral Court:** The Synod's position is that there is no such organisation. See
+  [[affiliation-umbralcourt|The Umbral Court]].
+
 ## Commerce and Currency
 
 Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Dúnavarre is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.

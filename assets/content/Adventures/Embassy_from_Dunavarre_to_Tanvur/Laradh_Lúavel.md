@@ -32,4 +32,4 @@ sohl:
 
 **Background.** A keen eye for detail and a strong grip on resources.
 
-**Intrigue.** A serious gambler, deep in debt to the **Umbral Court** and embezzling from the mission's budget to cover it. The Court threatens to expose the debt and the theft, and to harm his daughter [[being-ilaraluavel|Ilara]], if he does not comply.
+**Intrigue.** A serious gambler, deep in debt to the [[affiliation-umbralcourt|Umbral Court]] and embezzling from the mission's budget to cover it. The Court threatens to expose the debt and the theft, and to harm his daughter [[being-ilaraluavel|Ilara]], if he does not comply.
