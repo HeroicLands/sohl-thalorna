@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aldorathrgn
+    - aldorvale
   population: 3200
 name:
   full: Ashford

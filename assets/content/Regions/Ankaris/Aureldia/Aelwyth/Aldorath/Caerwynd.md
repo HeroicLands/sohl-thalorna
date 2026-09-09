@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aldorathrgn
+    - wyndmarch
   population: 2400
 name:
   full: Caerwynd

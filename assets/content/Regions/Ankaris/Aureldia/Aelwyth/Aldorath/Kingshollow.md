@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aldorathrgn
+    - wyndmarch
   population: 1400
 name:
   full: Kingshollow

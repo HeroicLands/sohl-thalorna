@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - jrldmstrmvld
+    - stormplain
   population: 6000
 name:
   full: Stormveil

@@ -21,15 +21,45 @@ Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred m
 
 ## Geography
 
-Aelwyth is a great island shaped like an inverted V (∧), with two long arms reaching southeast and south from a misty northern apex and a wide expanse of cold sea filling the open hollow between them. The geography is unmistakable from any seaward approach: two immense headlands rising out of the northern fog, joined at the top, with what looks like (but is not) a third strait between them — actually the great central **Mist Bay** that opens southward into the open sea and is rumored to be bottomless in places.
+Aelwyth is a large island of markedly unequal country, and its shape governs its politics.
 
-The **western arm** is the **[[place-pshtrwldrns|Peshtar Wilderness]]** — rugged highland country of bog, ancient forest, and craggy uplands, broken by deep glens and lakes that drain to the western sea. This is the country of the Peshtar tribes, ungoverned for as long as records have been kept, and it occupies the entirety of the western arm from its northern peak down to its southwestern coast.
+**The east** is mountain. The **[[place-ironfells|Ironfells]]** rise along the southern edge of
+[[affiliation-jrldmstrmvld|Stormveld]], run eastward to the sea, then turn **south down the coast**,
+descending by degrees into foothills and at last into the lowlands of
+[[affiliation-kingdmdnvr|Dúnavarre]] in the south-east. Only **two passes** cross them, both through deep
+wilderness, and in their eastern heights is **[[place-vorgald|Vorgald]]**, a hold of the
+[[lore-flkkhazar|Khazári]].
 
-The **eastern arm** is the kingdom-belt — the more populous and more politically organized half of the island. Its northeast coast (the upper part of the eastern arm) is the fjord-cut **[[affiliation-jrldmstrmvld|Stormveld]]** country, settled by Nordmen járldoms whose harbors face open ocean across the northern sea. The middle of the eastern arm holds the central feudal kingdoms — fertile rolling country sloping gently from the eastern coast up into the highland interior, well-suited to farming, market towns, and the elaborate manorial-and-courtly culture that the southern Aelwythan kingdoms have made into their distinguishing feature. The southern end of the eastern arm shades into the temperate lowlands and southern coast that face the Vylarian Sea, and is home to the wealthier southern kingdoms and the great trading port-cities.
+**The north-east** is [[affiliation-jrldmstrmvld|Stormveld]]: a great central plain, the
+[[place-stormplain|Stormplain]], walled by the [[place-nordfells|Nordfells]] to the north — perhaps half
+the Jarldom's ground — and the [[place-sunderfells|Sunderfells]] to the south.
 
-The **northern apex** where the two arms meet is the wettest and mistiest part of the island — a country of constant low cloud, reliable summer rain, dense temperate rainforest, and the great peat-bog moorlands that no road has ever successfully crossed. Few people live there. The very northern coast is home to a handful of Nordmen and Peshtar settlements that find each other's neighbors more tolerable than the southern kingdoms below them, but the apex itself is largely empty.
+**The north-west and much of the northern coast** is the forest of the
+[[place-pshtrwldrns|Peshtar Wilderness]], which runs east until it meets the Nordfells.
 
-The whole island is frequently shrouded in mist — particularly around the Mist Bay, in the highland valleys of both arms, and on the moorlands of the northern apex. This perpetual haze gives Aelwyth its dreamlike quality and has contributed to centuries of legends about hidden places that can only be found when the mist parts.
+**The centre-east**, west of the Ironfells, is [[affiliation-kngdmldrth|Aldorath]] — the lush and fertile
+country that is the **breadbasket of Aelwyth**, whose grain feeds the island and whose wool and wine are
+known as far as the mainland.
+
+**The west** is open: the [[place-cntrlhghlnds|Central Highlands]] at the island's middle, falling to the
+western coastal country of [[affiliation-repblctrvn|Tarvenne]], and reaching north to the Peshtar forests.
+
+**The south**, below Aldorath and west of Dúnavarre, is the **[[place-hallowwood|Hallowwood]]** — deep
+fae forest where the [[lore-flksinale|Sinalë]] of Aelwyth live, and which does not welcome visitors.
+
+## Climate
+
+Cool, wet and windy: an island in a cold sea, and comparable to no part of the Aurèldían mainland.
+
+The **western coast** has the worst of it. Wind comes off the ocean unbroken, fog is the ordinary
+condition of a great many days, and chill is the year-round expectation rather than the winter one. The
+northern coast is little better and the mountains are worse.
+
+The exceptions are two and both are sheltered. The **[[place-cntrlhghlnds|Central Highlands]]** stand
+above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else — relative to
+Aelwyth, which is to say a Provenzian would still want his cloak. And the slopes of
+**[[place-sunnerslade|Sunnerslade]]**, in the Ironfells' rain-shadow, are dry and warm enough to ripen
+vines, which is the single most improbable fact about the island's agriculture.
 
 ## Polities
 

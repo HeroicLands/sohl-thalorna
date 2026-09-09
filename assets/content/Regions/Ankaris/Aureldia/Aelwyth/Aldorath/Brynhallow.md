@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aldorathrgn
+    - brynwold
   population: 1800
 name:
   full: Brynhallow

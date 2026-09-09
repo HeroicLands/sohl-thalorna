@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aldorathrgn
+    - greylevels
   population: 2900
 name:
   full: Greywater
