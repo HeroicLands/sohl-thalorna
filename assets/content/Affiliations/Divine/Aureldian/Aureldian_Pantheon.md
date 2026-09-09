@@ -117,4 +117,4 @@ The resulting schism produced two bitterly opposed faiths, each considering the 
 - **[[affiliation-blackflame|The Black Flame]]** — Vúlcan's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
   - **Symbol:** A black flame consuming a broken chain.
 
-The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Vúlcan's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries.
+The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Vúlcan's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-vulcanischism|The Vúlcani Schism]] for how the break came about and why it did not heal.
