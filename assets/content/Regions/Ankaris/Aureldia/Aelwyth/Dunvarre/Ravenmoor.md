@@ -49,6 +49,31 @@ an island as fae-touched as Aelwyth is a danger to everyone, which is true, and 
 requirement means that no relic has left Aelwyth in living memory without the Ordo seeing it first, and
 no mainland working has arrived without the same.
 
+## What Happens to Those Who Try It
+
+The compulsory call is not enforced by ships, and the Synod has never in its history threatened anyone
+over it. It does not need to, because the pattern is well known and nobody on Aelwyth has to be reminded
+of it.
+
+A realm that decides to make an end-run around Dúnavarre — to trade with the mainland directly, to send
+its own envoy, to bring something in unexamined — will first notice something small. **Its Ordo advisors
+are not there.** Every court on the island keeps mages, because every court needs them, and they are
+Ordo-trained and Synod-approved; and one morning the man is simply gone, having left no letter and no
+trace, and the replacement the court writes for does not come. Sometimes the advisor is found later.
+The condition he is found in is not always something the household will discuss.
+
+Then the ordinary misfortunes begin. The **harvest fails** in a district that had every reason to expect
+a good one. A **sickness** moves through the stock, or the children, that no local physician recognises
+and that stops as inexplicably as it began. A well goes bad. A season of weather arrives that the older
+farmers say they have never seen.
+
+None of it is ever attributed. Nothing is claimed, no demand is made, no connection is asserted, and any
+suggestion of one would be met at Ravenmoor with grave and genuine-seeming concern. Twice in the last
+two centuries a realm has pressed the point in writing and received a courteous reply regretting the
+misfortune and offering assistance.
+
+Both realms stopped what they were doing. Neither said why.
+
 ## What It Costs the Island
 
 The other realms dislike the compulsory call and comply with it, out of a combination of fear and

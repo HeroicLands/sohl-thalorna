@@ -160,8 +160,12 @@ benefits the Synod, and the Synod has never lifted a finger to change any of the
 It has done one thing deliberately. **Every ship crossing between Aelwyth and the mainland must call
 first at [[place-ravenmoor|Ravenmoor]]** to be inspected — inbound before it may go on to any other
 port, outbound before it may leave. Prohibited goods are the stated purpose; magic and relics are the
-real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are
-**afraid of Dúnavarre**, whose mages they would rather not test. And they do not, in the end, care very
+real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific rather than vague. A realm that has tried to
+go around the Synod — dealing with the mainland directly, sending its own envoy — has found its Ordo
+advisors gone, without letter or trace and sometimes for good; and then the harvest fails where it had
+no business failing, or a sickness moves through the stock that no physician knows. Nothing is ever
+claimed or connected, and enquiries are met at Ravenmoor with grave concern. The realms that tried
+stopped, and did not say why. And they do not, in the end, care very
 much: an insular people with no interest in the mainland loses little by letting somebody else manage
 the mainland, and what an Aelwythan realm cares about is what happens **on Aelwyth**. Dúnavarre wants
 the tedious business of foreigners; it is welcome to it.
