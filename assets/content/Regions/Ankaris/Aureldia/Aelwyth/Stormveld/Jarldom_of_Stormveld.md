@@ -163,3 +163,28 @@ outsiders; and it is a standing reason for [[place-elavendre|Élavendre]]'s impl
 Nordmen, since the nearest large island to its coast is now a third occupied by them.
 
 The thralls have risen twice. Neither rising reached the second year.
+
+## Facing North
+
+Stormveld is the only realm on Aelwyth that looks outward, and it does not look at the Aurèldían
+mainland at all. Its commerce and its wars both run **north to the [[place-nrdlndsrgn|Nordlands]]**,
+which is where its ruling class came from, where its kin and rivals are, and where anything that
+happens to it will be decided.
+
+The Nordlands are not one power, and Stormveld's northern dealings are correspondingly mixed: steady
+trade with some kingdoms, raiding and open fighting with others, shifting alliance and grudge among
+jarls who regard the Aelwythan holding as an outpost of their own world rather than a foreign country.
+Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels come south.
+
+This is also why the Synod's **compulsory call at [[place-ravenmoor|Ravenmoor]]** does not touch the
+Jarldom. Stormveld's shipping does not cross to the mainland; it crosses north, into the water the
+Nordmen have always used, and it has never presented itself for inspection.
+
+Dúnavarre permits this because Dúnavarre **is not interested**. The Synod's concern is the channel
+between Aelwyth and the Aurèldían world — the knowledge, the relics and the visitors that come by it —
+and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern
+water and ignore the northern, and the distinction is deliberate rather than conceded.
+
+It does mean the Jarldom is the one realm on the island whose dealings with the outside are nobody's
+business but its own — and it explains why the Jarldom endures. The other realms are islands unto
+themselves. Stormveld has a mainland of its own behind it.

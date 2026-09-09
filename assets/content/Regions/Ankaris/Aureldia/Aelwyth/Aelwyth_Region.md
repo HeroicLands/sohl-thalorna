@@ -157,6 +157,19 @@ comes to. The island's parochialism keeps its people incurious; its dreadful rep
 mainland away; and the tribes' disunity keeps the fae country open. Every one of those conditions
 benefits the Synod, and the Synod has never lifted a finger to change any of them.
 
+It has done one thing deliberately. **Every ship crossing between Aelwyth and the mainland must call
+first at [[place-ravenmoor|Ravenmoor]]** to be inspected — inbound before it may go on to any other
+port, outbound before it may leave. Prohibited goods are the stated purpose; magic and relics are the
+real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are
+**afraid of Dúnavarre**, whose mages they would rather not test. And they do not, in the end, care very
+much: an insular people with no interest in the mainland loses little by letting somebody else manage
+the mainland, and what an Aelwythan realm cares about is what happens **on Aelwyth**. Dúnavarre wants
+the tedious business of foreigners; it is welcome to it.
+
+**Except Stormveld**, which is the exception here as it is everywhere else. The effect is that the Synod sees the
+island's entire commerce, meets every mainland visitor first, and decides a great deal of what Aelwyth
+learns of the world.
+
 Whether it has done more than not lift a finger — whether the reputation abroad is merely convenient or
 has been quietly encouraged — is a question nobody on Aelwyth is equipped to ask. The Synod has never
 denied a story about the island in its life.

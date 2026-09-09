@@ -171,6 +171,9 @@ council and no way to compel anyone.
 Dúnavarre is therefore not an anomaly in the Ordo's history. It is the Ordo's **laboratory**, and the
 Synod governs a kingdom chiefly because governing one is the price of unrestricted access to an island.
 
+The Synod holds that access by an instrument nobody argues with: **every ship crossing between the
+mainland and Aelwyth must call first at [[place-ravenmoor|Ravenmoor]]**, inbound and outbound alike, to be inspected. Prohibited cargo is the stated purpose; anything magical is the real one, and is recorded, examined and often detained. No relic has left the island in living memory without the Ordo seeing it first.
+
 The Synod also knows exactly how small and provincial Aelwyth is — being the only people on it who
 correspond with the mainland as equals — and has never corrected a single neighbour's illusions on the
 subject. An incurious island with a frightening reputation is a well-fenced research ground.
