@@ -122,6 +122,15 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]] (The Black Lotus Society) — Bureaucratic, commercial, and ritual crime network dominating the [[affiliation-tanvurempr|Empire of Tānvür]]
 
+### Vedyara
+
+- [[affiliation-adanasreni|The Ādānaśreṇī]] (The Guild of Taking) — the chartered thieves' guild of the
+  Vedyaran kingdoms, and the exception that proves the pattern above. It is larger than any syndicate
+  on this list and behaves nothing like one: a hereditary craft guild holding lawful charters in some
+  forty kingdoms, earning more from underwriting theft than from committing it, and outliving every
+  dynasty that has tried to be rid of it. The syndicates regard it as barely criminal. It regards them
+  as unchartered.
+
 ## Inter-Syndicate Relations
 
 The four syndicates interact constantly — collaborating and warring, sometimes simultaneously.
