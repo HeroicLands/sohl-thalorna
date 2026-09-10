@@ -67,6 +67,23 @@ What the withdrawal was — rout, grief, judgement, or something for which no hu
 — is not known. That it is the reason there are Sinalë in the south of this island and Khazári in the
 east of it, and nothing between them, is not in doubt.
 
+## The Trust
+
+Before the withdrawal there was an agreement, and it is the only one the two elder races have made since
+the sundering.
+
+The [[miscgear-secondvoice|Second Voice]] — the relic a Sinalë outlaw used to destroy
+[[lore-khazarturn|Khazártúrn]] — was to be **held in trust on Aelwyth by both races together**, because
+this island was the one place they still shared a country and neither would be trusted to hold it alone.
+A convoy of six ships sailed from [[place-elavendre|Élavendre]] carrying it, crewed by people chosen for
+being beyond reproach.
+
+It never arrived, and nothing of it was ever found.
+
+The Sinalë of the Hallowwood do not discuss this and never have. Whether they know more than the Khazári
+do is precisely the question, and it is one of the reasons an
+[[affiliation-kingdmdnvr|embassy from Dúnavarre]] is _tolerated_ here and nothing warmer.
+
 ## The Ordo Problem
 
 This is the flaw in the Synod's arrangement. Aelwyth is the Ordo's unconstrained research ground

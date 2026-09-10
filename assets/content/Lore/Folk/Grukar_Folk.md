@@ -27,9 +27,17 @@ speculate; it describes what arrived, in the manner of a people setting down evi
 question open. Human scholarship on the point is worth nothing at all, human records of the period
 being some two and a half thousand years in the future.
 
-What is beyond dispute is the speed of what followed. Within three centuries the Grukar had taken the
-greatest city the Khazári ever built. Within three thousand they held a substantial share of a
-continent.
+What is beyond dispute is the speed with which they spread. Within three thousand years they held a
+substantial share of a continent.
+
+Two centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazártúrn]] — and this is the
+most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
+which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. A
+[[lore-flksinale|Sinalë]] outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
+thousands of them from their spawners and used them as a weapon. The tribes so emptied did not
+recover; an Ahk cannot follow its own spawn, and does not stop existing afterward.
+
+The [[lore-flkkhazar|Khazári]] know this, have it written down, and kill Grukar on sight regardless.
 
 ## Biology and Reproduction
 

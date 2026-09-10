@@ -55,12 +55,19 @@ The Khazári built one thing that all their other work was measured against, and
 
 **[[lore-khazarturn|Khazártúrn]]** was raised around 3800 BF and stood a thousand years — the seat of an
 entire people's craft-records, and the finest archive in the world at a date when humanity had not yet
-built a city anywhere. In **2800 BF** it was taken by a [[lore-grukarfolk|Grukar]] tribe that undermined
-it for a generation. It was not sacked but **emptied**, and no Khazár has entered it since.
+built a city anywhere. In **2800 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
+[[miscgear-secondvoice|Second Voice]] — a relic that takes [[lore-grukarfolk|Grukar]] from their
+spawners and commands them directly, and so produced the one thing Grukar biology otherwise forbids:
+an army. Thirty thousand died. The city was not sacked but **emptied**, and no Khazár has entered it
+since.
 
 The account of its fall is kept in the working archive of every hold and read at intervals. It is the
-single most useful thing to know about how the Deep Folk behave: they are patient with everything in the
-world except Grukar, whom they kill on sight, everywhere, without deliberation.
+single most useful thing to know about how the Deep Folk behave: they are patient with everything in the world except Grukar, whom they kill on sight, everywhere,
+without deliberation — knowing perfectly well that the Grukar were compelled and chose none of it. The
+relic was never recovered. Their doctrine is not vengeance but prevention: **Grukar are ammunition**,
+and the only defence is that there be none within reach of a hold.
+
+It is also why they have not spoken to the Sinalë since.
 
 ## The Holds
 

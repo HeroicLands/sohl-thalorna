@@ -44,6 +44,24 @@ Aldorath has sent three expeditions in recorded history. Two turned back. The th
 found a doorway, in a cliff face, that would not open and could not be marked in any way that was still
 there the following season.
 
+## What Aelwyth Was For
+
+There is a reason both elder races are on this island, and it is not coincidence.
+
+After Khazártúrn the Sinalë recovered the [[miscgear-secondvoice|Second Voice]], and the two peoples
+made the only agreement they have reached since: the relic would be **held in trust on Aelwyth, by both
+races together** — this being the one country in the world where Sinalë and Khazári still shared ground,
+and therefore the only place neither would be trusted to keep it alone.
+
+**It never arrived.** Six ships left [[place-elavendre|Élavendre]] and went off the water without
+wreckage, without survivors and without explanation, and Vorgald has been waiting for a delivery that is
+four thousand years overdue.
+
+What the Khazári of this island make of that is not discussed. It is worth noting only that they were
+promised something by the Sinalë, did not receive it, were given no account of why — and that some
+centuries later the Sinalë of the [[place-hallowwood|Hallowwood]] withdrew from a war and left them to
+finish it alone.
+
 ## The Old Kingdom
 
 Aelwyth was once ruled jointly by both elder races.
@@ -102,10 +120,11 @@ this hold for millennia and know the Deep Folk better than any humans alive, are
 older and more particular than territory.
 
 The reason is recorded, and it is not a secret so much as a thing the Deep Folk do not raise with
-outsiders. In **2800 BF** a Grukar tribe took **[[lore-khazarturn|Khazártúrn]]**, the greatest city the
-Khazári ever built, by undermining it for a generation — and every hold since has kept the account of it
-in its working archive, and reads it. A Khazár of Vorgald who has never seen a Grukar knows precisely
-what one is before it is in front of them.
+outsiders. In **2800 BF** a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
+thousands of Grukar from their spawners and destroyed **[[lore-khazarturn|Khazártúrn]]**, the greatest
+city the Khazári ever built. Every hold since has kept the account in its working archive and reads it,
+so a Khazár of Vorgald who has never seen a Grukar knows precisely what one is before it is in front of
+them — and knows, equally, that it did not choose to be there.
 
 The [[lore-vardain|Vardain]] know the outline. They were told once, a long time ago, and have never
 asked for more.

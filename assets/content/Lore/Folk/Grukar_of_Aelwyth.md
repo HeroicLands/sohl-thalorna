@@ -77,12 +77,16 @@ without negotiation, without exception, and without the enormous patience they e
 living thing on this island** — and it is the only subject on which the Khazári have ever been observed
 to act quickly.
 
-The reason is not competition, though they do compete: Grukar go underground and the Khazári live there.
-It is **[[lore-khazarturn|Khazártúrn]]**.
+The reason is not competition, though they do compete. It is **[[lore-khazarturn|Khazártúrn]]**.
 
-In 2800 BF a Grukar tribe undermined and emptied the greatest city the Deep Folk ever built, and the
-account of it — exact, with every name lost — has been kept in the working archive of every Khazári hold
-since. It is read at intervals. It is not treated as history.
+In 2800 BF a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
+Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account — exact,
+with every name lost — has been kept in the working archive of every hold since, and is read at
+intervals. It is not treated as history.
+
+The Khazári know the Grukar were compelled. It changes nothing, because the relic was never recovered
+and their conclusion was never about guilt: **Grukar are ammunition**, and the only defence is that there
+be none near a hold to be picked up.
 
 So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done. It
 arrived on this island in the Khazári who carried it, three and a half thousand years after the fact and
