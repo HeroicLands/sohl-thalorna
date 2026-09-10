@@ -23,6 +23,34 @@ entire people's craft-records.
 
 It stood a thousand years.
 
+## What It Was Like
+
+Nobody living has seen Khazártúrn, and no human ever did — it fell five hundred years before the earliest
+human dynasty, and every description of it comes from the Khazári themselves, out of records they keep and
+occasionally, rarely, quote.
+
+It was, while it lived, **the greatest structure ever built on Thalorna** — and what the records describe
+is not a warren, which is the thing everyone who hears them repeated finds hardest to picture.
+
+The whole design was an argument against being underground. Every choice in it — the heights, the light,
+the water, the painted vaults — was made to produce the feeling of standing **outside**, in the open air,
+under weather. Bright, airy, and magnificent, in the middle of a mountain, on purpose.
+
+Khazártúrn was a city of **light**. Its great halls stood hundreds of feet from floor to vault, and
+**skylights** cut through the mountain above them dropped daylight into the interior in shafts that moved
+across the floors as the sun went over — worked so that the halls were lit, genuinely lit, at depths where
+there should have been no day at all. The stone was cut and finished until it read as something else
+entirely: the accounts say **worked like spun glass**, and the phrase is not decoration, it is what the
+masons were attempting.
+
+Colonnades ran the length of the great ways. There were galleries above galleries, and open courts, and
+**fountains in the main thoroughfares** — running water, in the middle of a mountain, because they could.
+The **market circles** were roofed with painted ceilings done as open sky, so that a Khazár doing the day's
+business stood under weather that had been put there on purpose.
+
+The Deep Folk are not, by reputation, a people given to display. Khazártúrn is the exception and was always
+understood to be. It was the thing they made when they were doing their best.
+
 ## The Judgement
 
 Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared — new in the world, and the Khazári were the
@@ -71,6 +99,12 @@ And then they **sealed it, for all generations**.
 Khazártúrn is not a ruin, not a wreck and not an abandoned place. It is intact, in good order, closed,
 and full of its people. It is **the tomb of thirty thousand**, and the greatest single work of Khazári
 hands is now the greatest grave in the world.
+
+It should be understood that all of it is still there and still as it was. The colonnades and the
+galleries and the painted market skies. The fountains, which were fed by the same works that fed the
+city and which nobody has turned off. And the skylights, which were cut through a mountain and cannot
+be sealed without unmaking the halls beneath them — so the daylight still comes down, every day, in
+shafts that move across the floors as the sun goes over, into courts where nobody is standing.
 
 No Khazár has entered it since, and none will. There is nothing in there to recover and nothing to
 avenge that has not been avenged. It is simply shut, and it is meant to stay shut, and that is the whole
