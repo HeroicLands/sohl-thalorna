@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
 img: systems/sohl/assets/icons/game-icons/delapouite/boomerang.svg
-shortcode: Bmrg
+shortcode: bmrg
 type: weapongear
 sohl:
   kbcat: thrown

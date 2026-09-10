@@ -7,7 +7,7 @@ name:
     - Poison Elixir
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxPsn
+shortcode: elxpsn
 type: concoctiongear
 subType: elixir
 hmk:

@@ -7,7 +7,7 @@ name:
     - Potion, Emetic, Strong
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnEmS
+shortcode: ptnems
 type: concoctiongear
 subType: exotic
 hmk:

@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Kiliji
+shortcode: kiliji
 type: weapongear
 sohl:
   kbcat: sword

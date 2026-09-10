@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Silent hollow tube for poison darts; hunter's covert strike."
 img: systems/sohl/assets/icons/other/blowgun.svg
-shortcode: BGun
+shortcode: bgun
 type: weapongear
 sohl:
   kbcat: blown

@@ -7,7 +7,7 @@ name:
     - Physic Elixir
 description: "Colorless liquid; suppresses other active elixirs in imbiber body."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxPhy
+shortcode: elxphy
 type: concoctiongear
 subType: elixir
 hmk:

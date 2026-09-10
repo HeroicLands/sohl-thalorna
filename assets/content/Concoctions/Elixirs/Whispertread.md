@@ -7,7 +7,7 @@ name:
     - Footpad Elixir
 description: "Dark nearly-black draft; muffles drinker's presence from detection."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxFtp
+shortcode: elxftp
 type: concoctiongear
 subType: elixir
 hmk:

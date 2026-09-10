@@ -7,7 +7,7 @@ name:
     - Potion, Coagulant, Great
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnCoagG
+shortcode: ptncoagg
 type: concoctiongear
 subType: exotic
 hmk:

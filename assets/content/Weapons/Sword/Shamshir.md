@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Deeply curved supple single-edged saber; cavalry officer's refined speed-stroke."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Shmshr
+shortcode: shmshr
 type: weapongear
 sohl:
   kbcat: sword

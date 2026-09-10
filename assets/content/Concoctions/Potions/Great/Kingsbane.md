@@ -7,7 +7,7 @@ name:
     - Potion, Poison, Great
 description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnPoiG
+shortcode: ptnpoig
 type: concoctiongear
 subType: exotic
 hmk:

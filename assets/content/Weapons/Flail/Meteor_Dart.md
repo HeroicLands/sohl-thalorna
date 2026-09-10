@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
 img: systems/sohl/assets/icons/game-icons/delapouite/flail.svg
-shortcode: Biao
+shortcode: biao
 type: weapongear
 sohl:
   kbcat: flail

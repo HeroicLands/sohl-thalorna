@@ -7,7 +7,7 @@ name:
     - Potion, Narcotic, Mild
 description: "Pale cream draft; induces drowsiness and peaceful sleep."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnNarM
+shortcode: ptnnarm
 type: concoctiongear
 subType: exotic
 hmk:

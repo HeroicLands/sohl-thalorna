@@ -98,7 +98,7 @@ sohl:
     - model: sohl-sohl-armorgear-wskirt
       name: Worsted split skirt
       system:
-        shortcode: WSplSkirt
+        shortcode: wsplskirt
     - { model: sohl-sohl-armorgear-ccap }
     - { model: sohl-sohl-armorgear-whclk }
     - { model: sohl-sohl-armorgear-ltkboot }

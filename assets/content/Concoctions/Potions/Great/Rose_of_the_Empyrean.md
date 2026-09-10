@@ -7,7 +7,7 @@ name:
     - Potion, Aromatic, Great
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnAromG
+shortcode: ptnaromg
 type: concoctiongear
 subType: exotic
 hmk:
