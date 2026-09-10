@@ -48,6 +48,13 @@ Colonnades ran the length of the great ways. There were galleries above gallerie
 The **market circles** were roofed with painted ceilings done as open sky, so that a Khazár doing the day's
 business stood under weather that had been put there on purpose.
 
+And **songbirds flew about inside**.
+
+That is the detail the records keep returning to, and it settles the question better than any measurement
+could. Birds came in at the skylights, and stayed, and nested in the high galleries, and were left alone —
+because a hall that a bird will live in is not a room. Whatever the Khazári had been trying to build,
+the birds are the proof they achieved it.
+
 The Deep Folk are not, by reputation, a people given to display. Khazártúrn is the exception and was always
 understood to be. It was the thing they made when they were doing their best.
 
@@ -105,6 +112,14 @@ galleries and the painted market skies. The fountains, which were fed by the sam
 city and which nobody has turned off. And the skylights, which were cut through a mountain and cannot
 be sealed without unmaking the halls beneath them — so the daylight still comes down, every day, in
 shafts that move across the floors as the sun goes over, into courts where nobody is standing.
+
+And the way in that light takes is a way in for other things. Nothing large; nothing that could trouble
+a sealed door. But the skylights stand open to the mountain as they always did, and the halls beneath
+them are warm and dry and full of water, and there is no reason to suppose the birds ever left.
+
+Four thousand years of them, in a city nobody enters. It is the one thing about Khazártúrn that the
+Khazári will not discuss even among themselves — not because it is terrible, but because it is not, and
+they have never worked out what to do with that.
 
 No Khazár has entered it since, and none will. There is nothing in there to recover and nothing to
 avenge that has not been avenged. It is simply shut, and it is meant to stay shut, and that is the whole
