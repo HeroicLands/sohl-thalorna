@@ -24,6 +24,18 @@ for a very long time, and the two peoples who know what it is have spent that ti
 
 The [[lore-flkkhazar|Khazári]] call it **Vrekhal**. The [[lore-flksinale|Sinalë]] do not name it aloud.
 
+## Where It Came From
+
+Unknown, and the silence on the point is total.
+
+The [[lore-flksinale|Sinalë]] knew of it before Khazártúrn — that much is established, because their
+failure to mention it is half the Khazári case against them. They have never said who made it, how it
+was found, how long they had known, or what they understood it to be. They have equally never given the
+renegade's name, said what became of him, or offered any account of what drove him.
+
+Everything below is therefore reconstruction: what the relic evidently did, inferred from what it
+demonstrably achieved.
+
 ## What It Does
 
 A [[lore-grukarfolk|Grukar]] tribe is held together by its Ahk. The spawner's chemical suppression keeps

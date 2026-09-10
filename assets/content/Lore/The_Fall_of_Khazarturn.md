@@ -25,12 +25,19 @@ It stood a thousand years.
 
 ## What It Was Like
 
-Nobody living has seen Khazártúrn, and no human ever did — it fell five hundred years before the earliest
-human dynasty, and every description of it comes from the Khazári themselves, out of records they keep and
-occasionally, rarely, quote.
+No human has ever seen Khazártúrn. It fell five hundred years before the earliest human dynasty, and
+everything said of it in the human world is **story** — and the stories do not come from the Khazári,
+who never speak of it at all.
 
-It was, while it lived, **the greatest structure ever built on Thalorna** — and what the records describe
-is not a warren, which is the thing everyone who hears them repeated finds hardest to picture.
+They come from the [[lore-flksinale|Sinalë]], who saw the city while it lived and who will, very
+occasionally, let something out: a snippet, an aside, a phrase in one of their ancient songs that turns
+out to be about a place rather than an idea. Sometimes to an [[lore-aelendnppl|Áelendan]]. From there it
+travels, at three and four removes, into human hands.
+
+So everything below is what the songs say, and nobody can check any of it.
+
+It was, while it lived, **the greatest structure ever built on Thalorna** — and what the songs describe
+is not a warren, which is the thing everyone who hears them finds hardest to picture.
 
 The whole design was an argument against being underground. Every choice in it — the heights, the light,
 the water, the painted vaults — was made to produce the feeling of standing **outside**, in the open air,
@@ -50,7 +57,7 @@ business stood under weather that had been put there on purpose.
 
 And **songbirds flew about inside**.
 
-That is the detail the records keep returning to, and it settles the question better than any measurement
+That is the detail the songs keep returning to, and it settles the question better than any measurement
 could. Birds came in at the skylights, and stayed, and nested in the high galleries, and were left alone —
 because a hall that a bird will live in is not a room. Whatever the Khazári had been trying to build,
 the birds are the proof they achieved it.
@@ -168,13 +175,62 @@ searches for Khazártúrn, finds it, speaks credibly of having found it, or is u
 the means to open it, is a problem the Deep Folk will solve, quietly and completely, without reference to
 who they are or what they intended.
 
-It is worth being clear that "we only wished to look at it" is not a distinction the Khazári recognise.
-There is nothing in there to recover: no hoard, no relic, no lost craft to be carried out — the archive
-was destroyed with everyone who kept it, and the [[miscgear-secondvoice|Second Voice]] never went
-anywhere near the place. There is a city, in the dark, with thirty thousand of their dead lying in the
-rooms where they lived.
-
 That is the whole of it, and it is not to be disturbed.
+
+## What the Khazári Say
+
+Nothing. They **never speak of Khazártúrn** — not to humans, not to the
+[[lore-vardain|Vardain]] who have lived beneath a hold for millennia, not, so far as anyone can tell,
+much among themselves outside the reading of the account.
+
+But silence is not denial, and the distinction matters to them. To disown the city would be to disown
+the people in it, and that is an affront to their own ancestors which no Khazár will commit for the
+convenience of ending a conversation. Pressed, one will decline to answer. None has ever said it did not
+happen.
+
+So the shape of what is known is set entirely by what the Sinalë have let slip and what the Khazári have
+declined to contradict — and everything else is open:
+
+- **Where it stands.** No comment, and no name on any map they have let out of their hands.
+- **What is still in it.** No comment. Whether the wealth of a people is lying in those halls, whether
+  everything that mattered was carried out before the last block went in, or whether there is something
+  in there worth more than either — the songs disagree, and the only people who could settle it will not.
+- **Whether anyone goes back.** No comment. Whether the tomb has been tended once a century since the
+  day it was closed, or never entered again at all, is not known to anybody who is not a Khazár.
+
+Four and a half thousand years of that, and it has never once slipped.
+
+## What the Sinalë Say
+
+Two things, and no more.
+
+**That the city was wondrous while it lived.** This they will speak of — the halls, the light, the
+fountains, the birds — in snippets, in asides, in songs whose subject is not announced. A people who do
+not build have carried the memory of the finest thing anyone ever built for four and a half thousand
+years, and it comes out as elegy.
+
+**That it was destroyed by a horde of Grukar compelled by a renegade.** They say this much plainly, and
+it is where every human account of the fall originates.
+
+They do not say the renegade was **one of their own**.
+
+They never have. The word is left standing on its own with no people attached to it, in every telling, in
+every song, without exception — and this is not carelessness in a race with memory like theirs. Pressed
+on the point, a Sinalë does not deny it. They stop, and the stopping is unmistakable, and everyone who
+has ever pushed that far has come away certain of the answer and without having been given it.
+
+So nobody has been _told_. It has been **inferred** — by the handful who noticed the shape of the
+silence, and corroborated by the other silence beside it, which is that the Deep Folk have not spoken to
+the Sinalë about anything at all in four and a half thousand years and will not say why.
+
+Everything else remains closed. The renegade's name, never given. What became of him, never described.
+What drove him, never offered, defended or disputed. Where the [[miscgear-secondvoice|Second Voice]] came
+from, nothing whatever.
+
+Which produces the strange shape of what the world knows: vivid, lyrical, minutely detailed descriptions
+of a city nobody alive has seen, and almost nothing about the atrocity that ended it. The beauty survived
+the telling. The crime was edited out of it by the only people who could have told it — and they have
+never explained that either.
 
 ## The Account
 
