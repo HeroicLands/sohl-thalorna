@@ -22,7 +22,7 @@ packFolder: bordernomes
 
 ## Overview
 
-Sile is the capital of [[affiliation-nometament|the Nome of Ta-Mentu]] and the seat of its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ra|Rā]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the western steppe-edge; horse-pasture and the watch against nomad raiders.
+Sile is the capital of [[affiliation-nometament|the Nome of Ta-Mentu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ra|Rā]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the western steppe-edge; horse-pasture and the watch against nomad raiders.
 
 ## See Also
 

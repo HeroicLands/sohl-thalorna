@@ -115,7 +115,7 @@ packFolder: bordernomes
 
 ## Overview
 
-Khent-Hen-Nefer is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: forward southern forts beyond the first cataract; the empire's hardest postings. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-mentu|Mentu]], and the nome's religious life runs through that cult's temples and their estates.
+Khent-Hen-Nefer is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: forward southern forts beyond the first cataract; the empire's hardest postings. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-mentu|Mentu]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

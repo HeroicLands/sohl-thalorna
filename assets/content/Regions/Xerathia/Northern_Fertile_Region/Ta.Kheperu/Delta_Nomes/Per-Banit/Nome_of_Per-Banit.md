@@ -115,7 +115,7 @@ packFolder: deltanomes
 
 ## Overview
 
-Per-Banit is one of the delta nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: flax fields and the linen-weaving towns whose cloth clothes the empire. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates.
+Per-Banit is one of the delta nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: flax fields and the linen-weaving towns whose cloth clothes the empire. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

@@ -45,7 +45,7 @@ The combined effect of the wind regime is that Kalihara is far easier to reach t
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "klhrcntnnt")
+WHERE type = "place" and subType = "region" and contains(data.parents, "klhrcntnnt")
 SORT name.full ASC
 ```
 

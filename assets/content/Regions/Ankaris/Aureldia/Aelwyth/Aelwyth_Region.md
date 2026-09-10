@@ -67,7 +67,7 @@ vines, which is the single most improbable fact about the island's agriculture.
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Polity",
     description AS "Overview"
-WHERE category = "polity" and contains(parent.regions, "aelwyth-region")
+WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "aelwyth")
 SORT name.full ASC
 ```
 

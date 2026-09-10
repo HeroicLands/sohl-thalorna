@@ -115,7 +115,7 @@ packFolder: deltanomes
 
 ## Overview
 
-Per-Wadjit is one of the delta nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-wadjit|Wadjit]], and the nome's religious life runs through that cult's temples and their estates.
+Per-Wadjit is one of the delta nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-wadjit|Wadjit]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

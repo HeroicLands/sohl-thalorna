@@ -141,7 +141,7 @@ Trade and garden-agriculture drive the delta. The ports handle the empire's enti
 
 ## The Nomes
 
-Ten nomes make up the delta class, each under its hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. Each is treated in its own note; the table below is the roster.
+Ten nomes make up the delta class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. Each is treated in its own note; the table below is the roster.
 
 | Nome                                           | Seat                            | Patron                                         | Population | Character                                                                                                                     |
 | ---------------------------------------------- | ------------------------------- | ---------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |

@@ -39,7 +39,7 @@ No single mountain range, river, or sea divides Ankaris in half; its geography i
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "ankaris")
+WHERE type = "place" and subType = "region" and contains(data.parents, "ankrscntnnt")
 SORT name.full ASC
 ```
 

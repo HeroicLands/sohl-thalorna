@@ -22,7 +22,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Hut-Ptah is the capital of [[affiliation-nomehtpthr|the Nome of Hut-Ptah-Resu]] and the seat of its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility.
+Hut-Ptah is the capital of [[affiliation-nomehtpthr|the Nome of Hut-Ptah-Resu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility.
 
 ## See Also
 

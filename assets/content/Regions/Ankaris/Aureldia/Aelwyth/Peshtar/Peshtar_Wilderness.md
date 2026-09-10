@@ -33,11 +33,11 @@ The interior is crossed by a network of ancient trails and old stone trackways w
 
 ## Polities
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Polity",
     description AS "Overview"
-WHERE category = "polity" and contains(parent.regions, "aelwyth-region")
+WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "pshtrwldrns")
 SORT name.full ASC
 ```
 

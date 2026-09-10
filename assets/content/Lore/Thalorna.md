@@ -30,7 +30,7 @@ For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Continent",
     description AS "Overview"
-WHERE category = "continent"
+WHERE type = "place" and contains(tags, "continent") and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -56,7 +56,7 @@ In the deepest past, the Sinalë and the Khazári lived and worked together unde
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Pantheon",
     description AS "Overview"
-WHERE category = "pantheon"
+WHERE contains(tags, "pantheon") and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -76,7 +76,7 @@ Adventuring bands, mercenary companies, and sworn fellowships whose members trav
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Company",
     description AS "Overview"
-WHERE category = "company"
+WHERE contains(tags, "company") and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -88,7 +88,7 @@ Institutions, guilds, orders, and syndicates that shape Thalornan civilization f
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Organization",
     description AS "Overview"
-WHERE category = "organization"
+WHERE contains(tags, "organization") and package = "thalorna"
 SORT name.full ASC
 ```
 

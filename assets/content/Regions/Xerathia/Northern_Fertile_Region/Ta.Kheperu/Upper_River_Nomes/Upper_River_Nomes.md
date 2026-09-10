@@ -141,7 +141,7 @@ Grain — wheat, barley, and millet — is the foundation, grown on flood-silt a
 
 ## The Nomes
 
-Eighteen nomes make up the upper-river class, each under its hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. Each is treated in its own note; the table below is the roster.
+Eighteen nomes make up the upper-river class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. Each is treated in its own note; the table below is the roster.
 
 | Nome                                           | Seat                              | Patron                                                                 | Population | Character                                                                                                                              |
 | ---------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |

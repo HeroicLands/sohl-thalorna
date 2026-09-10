@@ -39,7 +39,7 @@ Beyond the rainforests lie the **Southern Savannahs** — vast grasslands popula
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "xerathia")
+WHERE type = "place" and subType = "region" and contains(data.parents, "xerathia")
 SORT name.full ASC
 ```
 

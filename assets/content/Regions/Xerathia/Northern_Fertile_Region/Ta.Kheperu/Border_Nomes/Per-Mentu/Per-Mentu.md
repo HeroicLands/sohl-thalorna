@@ -22,7 +22,7 @@ packFolder: bordernomes
 
 ## Overview
 
-Per-Mentu is the capital of [[affiliation-nomepermen|the Nome of Per-Mentu]] and the seat of its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. It holds the nome's chief temple of [[affiliation-mentu|Mentu]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: A garrison heartland; the chariot-corps drill-grounds and officer schools.
+Per-Mentu is the capital of [[affiliation-nomepermen|the Nome of Per-Mentu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-mentu|Mentu]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: A garrison heartland; the chariot-corps drill-grounds and officer schools.
 
 ## See Also
 

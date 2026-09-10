@@ -141,7 +141,7 @@ Mining, herding, garrison-supply, and the caravan trade drive the border economy
 
 ## The Nomes
 
-Ten nomes make up the border class, each under its hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] in their capacity as military governor. Each is treated in its own note; the table below is the roster.
+Ten nomes make up the border class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] in their capacity as military governor. Each is treated in its own note; the table below is the roster.
 
 | Nome                                              | Seat                            | Patron                                       | Population | Character                                                                                       |
 | ------------------------------------------------- | ------------------------------- | -------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |

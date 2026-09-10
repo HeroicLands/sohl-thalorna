@@ -115,7 +115,7 @@ packFolder: bordernomes
 
 ## Overview
 
-Senmut is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: A river-island fortress-nome at the second cataract; gateway and toll-gate. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-seker|Sēker]], and the nome's religious life runs through that cult's temples and their estates.
+Senmut is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: A river-island fortress-nome at the second cataract; gateway and toll-gate. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-seker|Sēker]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

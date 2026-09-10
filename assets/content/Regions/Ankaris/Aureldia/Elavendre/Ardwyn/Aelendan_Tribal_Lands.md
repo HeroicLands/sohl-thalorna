@@ -40,7 +40,7 @@ The landscape is characterized by:
 
 ### The Cervaron Frontier
 
-The eastern edge of the Áelendan sacred country runs along the **[[affiliation-vylarinmpr#The Cervaron Spine|Cervaron Spine]]** — the great mountain arc that separates Élavendre from the [[affiliation-vylarinmpr|Vylarian Empire]]. The Cervaron is, by Áelendan reckoning, an inseparable extension of the same sacred high country that includes the Drenavar Spine and the other interior ranges: the same First Gods dwell on its peaks, the same glacier-springs feed the world's first waters, the same Kindred Pact binds its protocols. The Vylarian chancery, by its own reckoning, considers the Cervaron Vylarian territory and has done so since the early Republic. The two reckonings have never been reconciled. Vylarian punitive expeditions across the Cervaron passes have been repulsed every time they have been attempted; Áelendan war-bands have crossed east into Vylarian frontier districts more than once in retaliation, and have always returned home. The result is a stable but unresolved standoff in which the Áelendan effectively control the range, the Vylarian Senate continues to claim it, and Vylarian merchants who need to cross with goods pay informal "passage-gifts" to the local clans and are granted safe conduct in return.
+The eastern edge of the Áelendan sacred country runs along the **[[affiliation-vylarinmpr#the-cervaron-spine|Cervaron Spine]]** — the great mountain arc that separates Élavendre from the [[affiliation-vylarinmpr|Vylarian Empire]]. The Cervaron is, by Áelendan reckoning, an inseparable extension of the same sacred high country that includes the Drenavar Spine and the other interior ranges: the same First Gods dwell on its peaks, the same glacier-springs feed the world's first waters, the same Kindred Pact binds its protocols. The Vylarian chancery, by its own reckoning, considers the Cervaron Vylarian territory and has done so since the early Republic. The two reckonings have never been reconciled. Vylarian punitive expeditions across the Cervaron passes have been repulsed every time they have been attempted; Áelendan war-bands have crossed east into Vylarian frontier districts more than once in retaliation, and have always returned home. The result is a stable but unresolved standoff in which the Áelendan effectively control the range, the Vylarian Senate continues to claim it, and Vylarian merchants who need to cross with goods pay informal "passage-gifts" to the local clans and are granted safe conduct in return.
 
 ## The Tarvénan Diaspora {#the-tarvenan-diaspora}
 
@@ -58,7 +58,7 @@ When friction does occur, it is almost always over the same handful of issues: a
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Polity",
     description AS "Overview"
-WHERE category = "polity" and contains(parent.regions, "aelwyth-region")
+WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "alndntrblnds")
 SORT name.full ASC
 ```
 

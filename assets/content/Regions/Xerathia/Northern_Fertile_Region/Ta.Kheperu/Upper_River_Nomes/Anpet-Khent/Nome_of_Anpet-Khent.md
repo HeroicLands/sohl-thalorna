@@ -115,7 +115,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Anpet-Khent is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: jackal-cult and desert-edge tombs; embalmers and tomb-guards. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-anubis|Ánubís]], and the nome's religious life runs through that cult's temples and their estates.
+Anpet-Khent is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: jackal-cult and desert-edge tombs; embalmers and tomb-guards. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-anubis|Ánubís]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

@@ -155,6 +155,7 @@ data:
   seat: dunmere
   domains:
     - aldorathrgn
+    - aelwyth
   population: 200000
   economy:
     - lore-vylrncrncy

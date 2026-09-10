@@ -130,7 +130,7 @@ It collapsed not from external conquest but from internal decadence — the stan
 
 The sabhā was convened. It met for forty days. It declared the kingdom dissolved, the dynastic line ended (with full honors and ceremonial acknowledgment of the line's contributions during its better generations), and the territory of the former kingdom reorganized as a federation of villages governed jointly through the temple. The royal palace was demolished and its stones used to enlarge the temple. The royal granaries were nationalized as common stores. The royal army was disbanded; its members were given parcels of land and absorbed into the cultivator and artisan castes of the new janapada.
 
-This was, by the classical chronicles, the year **−240 AF** (using the [[affiliation-vylarinmpr#The Common Calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
+This was, by the classical chronicles, the year **−240 AF** (using the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]]) — about nine hundred and sixty years before the present. The Rājapur Janapada has governed itself by the same arrangement, with adjustments at the margins, ever since.
 
 ## The Memory-Keeper
 

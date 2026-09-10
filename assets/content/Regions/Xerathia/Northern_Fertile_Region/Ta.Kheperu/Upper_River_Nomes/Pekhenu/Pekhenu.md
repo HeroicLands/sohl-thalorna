@@ -22,7 +22,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Pekhenu is the capital of [[affiliation-nomepekhen|the Nome of Pekhenu]] and the seat of its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. It holds the nome's chief temple of [[affiliation-thoth|Thōth]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: library-temples and astronomers; the calendar-keepers of the middle river.
+Pekhenu is the capital of [[affiliation-nomepekhen|the Nome of Pekhenu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-thoth|Thōth]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: library-temples and astronomers; the calendar-keepers of the middle river.
 
 ## See Also
 

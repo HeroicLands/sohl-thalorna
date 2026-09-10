@@ -40,7 +40,7 @@ Climate varies correspondingly: cool and rain-washed in the north and west, temp
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Polity",
     description AS "Overview"
-WHERE category = "polity" and contains(parent.regions, "aureldia-region")
+WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "aureldirgn")
 SORT name.full ASC
 ```
 
@@ -94,7 +94,7 @@ To the **east**, beyond the [[place-drenavrspn|The Drenavar Spine]], lie the int
 
 ## Reckoning
 
-Aurèldía uses the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#The Common Calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
+Aurèldía uses the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#the-common-calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
 
 ## See Also
 

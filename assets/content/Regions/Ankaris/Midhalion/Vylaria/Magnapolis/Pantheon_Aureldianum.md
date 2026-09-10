@@ -26,7 +26,7 @@ shortcode: pnthnrldnm
 
 # Pantheon Aurèldiānum — The House of the Twelve
 
-At the heart of the [[place-urbsaquiln#Regio Templum — The Temple District|Regio Templum]] of [[place-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
+At the heart of the [[place-urbsaquiln#regio-templum-the-temple-district|Regio Templum]] of [[place-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
 
 ## The Dome
 

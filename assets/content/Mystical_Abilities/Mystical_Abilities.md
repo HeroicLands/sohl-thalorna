@@ -22,7 +22,7 @@ Arcane incantations are divided by tradition.
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "hydalis" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "hydalis" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -30,7 +30,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "kentra" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "kentra" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -38,7 +38,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "physera" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "physera" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -46,7 +46,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "pneumenos" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pneumenos" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -54,7 +54,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "pyrethos" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pyrethos" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -62,7 +62,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "sideros" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "sideros" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -70,7 +70,7 @@ SORT name.full ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.assocSkillCode = "zepharis" and package = "thalorna"
+WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "zepharis" and package = "thalorna"
 SORT name.full ASC
 ```
 
@@ -84,7 +84,7 @@ SORT name.full ASC
 
 ## Shamanic Rite
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "shamanicrite" and package = "thalorna"
 SORT name.full ASC
@@ -92,7 +92,7 @@ SORT name.full ASC
 
 ## Spirit Action
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "spiritaction" and package = "thalorna"
 SORT name.full ASC
@@ -100,7 +100,7 @@ SORT name.full ASC
 
 ## Spirit Power
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "spiritpower" and package = "thalorna"
 SORT name.full ASC
@@ -108,7 +108,7 @@ SORT name.full ASC
 
 ## Benediction
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "benediction" and package = "thalorna"
 SORT name.full ASC
@@ -116,7 +116,7 @@ SORT name.full ASC
 
 ## Divine Devotion
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "divinedevotion" and package = "thalorna"
 SORT name.full ASC
@@ -124,7 +124,7 @@ SORT name.full ASC
 
 ## Divine Incantation
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "divineincantation" and package = "thalorna"
 SORT name.full ASC
@@ -132,7 +132,7 @@ SORT name.full ASC
 
 ## Spirit Talent
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "spirittalent" and package = "thalorna"
 SORT name.full ASC
@@ -140,7 +140,7 @@ SORT name.full ASC
 
 ## Alchemy
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "alchemy" and package = "thalorna"
 SORT name.full ASC
@@ -148,7 +148,7 @@ SORT name.full ASC
 
 ## Divination
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
 WHERE type = "mysticalability" and subType = "divination" and package = "thalorna"
 SORT name.full ASC

@@ -115,7 +115,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Neferusi is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: stone-quarries and master masons; the temple-workshops that carve the monuments. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates.
+Neferusi is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: stone-quarries and master masons; the temple-workshops that carve the monuments. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 

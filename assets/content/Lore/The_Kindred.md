@@ -23,7 +23,7 @@ packFolder: settinglore
 
 The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|The First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits — the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
 
-Where the [[affiliation-firstgods#The Bright|Bright]] and the [[affiliation-firstgods#The Dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[lore-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
+Where the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[lore-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
 
 ## Character
 
@@ -51,7 +51,7 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 - **Weather-kin** — Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances — a storm approaching, a fire to be kindled or quenched — rather than on a standing basis.
 - **Hearth-kin** — Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing — the greatest of them [[lore-tanwenspr|Tanwen]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
 
-A given Kindred may serve the [[affiliation-firstgods#The Bright|Bright]], the [[affiliation-firstgods#The Dark|Dark]], or both. The affiliations are not doctrinal. They are observed — a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
+A given Kindred may serve the [[affiliation-firstgods#the-bright|Bright]], the [[affiliation-firstgods#the-dark|Dark]], or both. The affiliations are not doctrinal. They are observed — a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
 ## The Named Kindred
 

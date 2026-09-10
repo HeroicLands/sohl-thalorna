@@ -22,7 +22,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Neferusi is the capital of [[affiliation-nomeneferu|the Nome of Neferusi]] and the seat of its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: stone-quarries and master masons; the temple-workshops that carve the monuments.
+Neferusi is the capital of [[affiliation-nomeneferu|the Nome of Neferusi]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: stone-quarries and master masons; the temple-workshops that carve the monuments.
 
 ## See Also
 

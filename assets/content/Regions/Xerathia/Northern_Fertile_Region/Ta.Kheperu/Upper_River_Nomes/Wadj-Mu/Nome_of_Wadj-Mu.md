@@ -115,7 +115,7 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Wadj-Mu is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: "Green Waters" — marshy floodbasin, flax and waterfowl, the wettest of the upper nomes. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-hapi|Hápi]], and the nome's religious life runs through that cult's temples and their estates.
+Wadj-Mu is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: "Green Waters" — marshy floodbasin, flax and waterfowl, the wettest of the upper nomes. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-hapi|Hápi]], and the nome's religious life runs through that cult's temples and their estates.
 
 ## Character
 
