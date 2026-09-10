@@ -114,7 +114,7 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: medsupil, type: miscgear, system: { quantity: 32 } }
-    - { shortcode: healing elixir, type: miscgear }
+    - { shortcode: ElxHeal, type: concoctiongear }
     - { shortcode: wtrskin, type: containergear }
     - { shortcode: candlestal, type: miscgear, system: { quantity: 12 } }
     - { shortcode: parchment, type: miscgear }
@@ -123,7 +123,6 @@ sohl:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: waxsealing, type: miscgear }
     - { shortcode: sealsignat, type: miscgear }
-    - { shortcode: Portable Alchemist Workshop (wagon and 2 horses), type: miscgear }
   system:
     body:
       structure:

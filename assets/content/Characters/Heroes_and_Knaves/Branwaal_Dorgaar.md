@@ -103,11 +103,16 @@ sohl:
     - { shortcode: Pl34Hlm, type: armorgear }
     - { shortcode: wtrskin, type: containergear }
     - { shortcode: map, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: family signet ring, type: miscgear }
+    - { shortcode: ringgold, type: miscgear, name: "Family Signet Ring" }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
-    - { shortcode: Battle standard, type: miscgear }
+    - name: "Battle standard"
+      type: miscgear
+      system:
+        shortcode: batlstd
+        value: 35
+        weight: 20
     - { shortcode: quiverlgsh, type: containergear }
     - { shortcode: ArwHBrd, type: projectilegear, system: { quantity: 12 } }
     - { shortcode: backpk, type: containergear }
