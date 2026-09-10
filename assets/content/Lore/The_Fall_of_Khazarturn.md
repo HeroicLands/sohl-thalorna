@@ -7,6 +7,7 @@ name:
   full: The Fall of Khazártúrn
   aliases:
     - Khazártúrn
+    - The Valley of Seven Towers
 shortcode: khazarturn
 packFolder: settinglore
 ---
@@ -35,6 +36,42 @@ out to be about a place rather than an idea. Sometimes to an [[lore-aelendnppl|�
 travels, at three and four removes, into human hands.
 
 So everything below is what the songs say, and nobody can check any of it.
+
+## The Valley of Seven Towers
+
+Khazártúrn's other name describes its shape, and it is a name that could only ever have been used by
+someone who had been told what they were looking at.
+
+It was not a buried hold. It was cut into the **cliff face of a mountain valley** — a city in a wall of
+rock, with the valley open in front of it, which is why its halls could take daylight at all and why
+anyone thought to try. And standing out from that cliff were **seven great towers**.
+
+There were seven because there were **seven clans** — the seven that came to Thalorna together around
+4280 BF — and each tower was that clan's, and the city was theirs jointly and severally in a way the
+Khazári have never bothered to explain to anyone else.
+
+## Not To Be Seen
+
+Every one of the seven was built to be **indistinguishable, from outside, from a natural feature of the
+valley**.
+
+This is the thing about Khazártúrn that people find hardest to believe and which is entirely in
+character. The towers are not disguised in the sense of being camouflaged or screened. They were _cut
+and finished as rock_ — bedded, weathered, faulted, jointed, stained, carrying the same strata as the
+cliff they stand out from, so that a person in that valley sees seven great spires of stone and a wall
+of mountain, and is correct in every particular except the one that matters.
+
+The Deep Folk have concealed their holds for as long as they have had holds. What is unusual here is the
+scale: they did it to the largest thing they ever made, on purpose, from the first course, and they
+succeeded so thoroughly that the greatest city on Thalorna could be looked at directly by anybody at all
+and not be seen.
+
+Which has an obvious and unpleasant corollary for the present day, and it is the reason the Khazári will
+not discuss the location. When they sealed the city they dressed the granite to the rock and left no
+seam — but they were not inventing that technique for the occasion. **They were finishing a job they had
+started four thousand years earlier**, and the valley today looks exactly as it always looked.
+
+Seven stone spires and a cliff. Somebody has probably camped there.
 
 It was, while it lived, **the greatest structure ever built on Thalorna** — and what the songs describe
 is not a warren, which is the thing everyone who hears them finds hardest to picture.

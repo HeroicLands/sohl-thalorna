@@ -49,6 +49,17 @@ By the time humans began to build, the Khazári were already retreating. Their n
 
 They did not withdraw cleanly. Before the retreat there were centuries in which human tribes lived and worked in Khazári service, and what those tribes took away with them — a reduced runic work-row, and rather more of the craft they had been permitted to watch — became the foundation of human metallurgy, stonework and writing alike. The Khazári maintain that nothing was given that mattered. See [[lore-longnhrtnc|The Long Inheritance]].
 
+## The Seven Clans
+
+The Khazári who came to Thalorna came as **seven clans**, and the number has never lost its significance
+to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
+Khazár can recite a line back to one of the seven without hesitation or notes.
+
+**[[lore-khazarturn|Khazártúrn]]** was built for all seven together — seven great towers cut from the
+cliff of a mountain valley, one to each clan, and the city held jointly beneath them. It is the only
+thing they are known to have made as a single people, and its loss took some part of every line on
+Thalorna at once.
+
 ## Khazártúrn
 
 The Khazári built one thing that all their other work was measured against, and lost it.
