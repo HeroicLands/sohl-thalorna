@@ -113,12 +113,7 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
     - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - name: Metalworking tools (hammer, tongs, small anvil)
-      type: miscgear
-      system:
-        weight: 2
-        value: 100
-        durability: 3
+    - { shortcode: metalwrktl, type: miscgear }
     - name: Scrolls and notes on theological doctrine
       type: miscgear
       system:

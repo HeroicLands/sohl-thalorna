@@ -20,6 +20,12 @@ have become a second `booktrvl` beside her personal one, so it takes
 `bookbase`. `(type, shortcode)` is a logical identity within an actor's items,
 and two entries sharing one denote a single thing — the same rule that the four earlier collisions were fixed under.
 
+Paryán Barmándán's "Metalworking supplies" and Hotep Ánu's "Metalworking tools
+(hammer, tongs, small anvil)" were each defined inline rather than referenced,
+two ad-hoc spellings of an item `sohl` already ships. Both now name
+`metalwrktl`, and so take the shipped kit's weight rather than the lighter
+figure each had invented.
+
 Four references remain unresolved and are unchanged, awaiting the items
 themselves: a healing elixir, a battle standard, a portable alchemist's
 workshop and a family signet ring.

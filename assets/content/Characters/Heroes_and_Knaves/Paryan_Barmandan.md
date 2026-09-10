@@ -111,12 +111,7 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Metalworking supplies
-      type: miscgear
-      system:
-        weight: 1.5
-        value: 100
-        durability: 3
+    - { shortcode: metalwrktl, type: miscgear }
     - name: Design sketches (portfolio)
       type: miscgear
       system:
